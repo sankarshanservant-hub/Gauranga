@@ -13088,13 +13088,15 @@
    "cc-4010",
    "gkd-0156",
    "cc-4011",
-   "cc-4012"
+   "cc-4012",
+   "vlm-0155"
   ],
   "sources": [
    "advaita-prakasha",
    "bhakti-ratnakara",
    "cc",
-   "gaura-krishnodaya"
+   "gaura-krishnodaya",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -34290,6 +34292,124 @@
   "notes": "Орийская традиция («Вайшнава-лиламрита» 8.70–80): дед Господа Упендра — из Ватсасы, ведийский брахман, владелец шасаны в Джаджпуре; бежал от угроз Капилешвара-девы в Шрихатту; родичи в Джаджпуре чтят Прабху.",
   "entries": [
    "vlm-0152"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-jhankad-sarala-rasa",
+  "title": "Раса в Джханкаде у Сарала-Чанди",
+  "title_en": "The rasa at Jhankad by Sarala-Chandi",
+  "period": "P14",
+  "order": 8.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "pilgrimage"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 8.103–114): по зову Рамачандры, ученика Ачьютананды, Прабху с Панчасакхой устраивает расу в Джханкаде; Сарала-Чанди названа пратимой Радхи. Гаудия-вайшнавы различают Дургу (теневую энергию, Брахма-самхита 5.44) и Радху (хладини) — сноска перевода.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0154"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-svarupa-damodara-departure",
+  "title": "Уход Сварупы Дамодары",
+  "title_en": "Svarupa Damodara's departure",
+  "period": "P14",
+  "order": 950,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure",
+   "separation"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 9.18–24): после болезни Сварупа уходит в Гамбхире в шукла-экадаши Магхи, Панчасакха предаёт его тело морю. По ЧЧ (Антья 14–20) Сварупа неотлучно при Махапрабху до конца его лилы.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0156"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-gadadhara-sent-to-gauda",
+  "title": "Гададхара послан в Гауду с вестью об уходе Сварупы",
+  "title_en": "Gadadhara sent to Gauda with news of Svarupa's departure",
+  "period": "P14",
+  "order": 951,
+  "cc": "Мадхья 16 (обет Гададхары не покидать Пури)",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 9.25–27); противоречит ЧЧ и самому Мадхаве (8.92).",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0157"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-balarama-dasa-departure",
+  "title": "Уход Баларамы Даса",
+  "title_en": "Balarama Dasa's departure",
+  "period": "P14",
+  "order": 952,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 9.28–41): Баларама Дас, автор «Рамаяны», оставляет пищу и уходит в шукла-дашами Пхалгуны в мандапе; по Мадхаве, «входит в тело Джаганнатхи»; тело погребено в песке у моря.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0158"
   ],
   "sources": [
    "vaishnava-lilamrita"

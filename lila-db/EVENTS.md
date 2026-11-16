@@ -5322,6 +5322,10 @@
 - vaishnava-lilamrita (C): Гл. 8, 31–69, 81–85 — [8.31–8.69](../vaishnava-lilamrita/ru/08.md?plain=1#L42-L84); [8.81–8.85](../vaishnava-lilamrita/ru/08.md?plain=1#L96-L100) · `vlm-0151`
 - vaishnava-lilamrita (C): Гл. 8, 86–102, P0–P4 (продолжается) — [8.86–8.P4](../vaishnava-lilamrita/ru/08.md?plain=1#L101-L129) · `vlm-0153`
 
+## Раса в Джханкаде у Сарала-Чанди / The rasa at Jhankad by Sarala-Chandi  `ev-jhankad-sarala-rasa` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 8, 103–114 — [8.103–8.114](../vaishnava-lilamrita/ru/08.md?plain=1#L134-L145) · `vlm-0154`
+
 ## Рупа уходит в Гауду; кончина Анупамы / Rupa goes to Gauda; the passing of Anupama  `ev-rupa-gauda-anupama-passing` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Мадхья 25.209–214 — [209–214](../chaitanya-charitamrita/ed/vcd/CC_Madhya25.md?plain=1#L1744-L1784) · `cc-3127`
@@ -5367,6 +5371,7 @@
 - gaura-krishnodaya (B): Сарга 16, 49–56 — [49–56](../gaura-krishnodaya/ru/16.md?plain=1#L113-L127) · `gkd-0156`
 - cc (A): Антья 1.134–170 — [134–170](../chaitanya-charitamrita/vcd/txt/CC_Antya01.txt?plain=1#L1047-L1507) · `cc-4011`
 - cc (A): Антья 1.171–212 — [171–212](../chaitanya-charitamrita/vcd/txt/CC_Antya01.txt?plain=1#L1521-L1865) · `cc-4012`
+- vaishnava-lilamrita (C): Гл. 9, 1–17 — [9.1–9.17](../vaishnava-lilamrita/ru/09.md?plain=1#L8-L28) · `vlm-0155`
 
 ## Сборщик пошлины в Ремуне заковывает Шивананду; Господь является ему во сне / The toll officer at Remuna fetters Shivananda; the Lord appears in his dream  `ev-shivananda-toll-arrest` (1516–1533, возраст 30–47, оценка)
 
@@ -6074,6 +6079,18 @@
 ## Гаура-Нитай пляшут на празднике Хридаянанды; Гауридас нарекает его Хридаей Чайтаньей / Gaura-Nitai dance at Hridayananda's festival; Gauridasa names him Hridaya Chaitanya  `ev-hridaya-chaitanya-name` (1516–1533, возраст 30–47, оценка)
 
 - bhakti-ratnakara (B): Таранга 7, 409–448 — [409–448](../bhakti-ratnakara/ru/07.md?plain=1#L1237-L1354) · `brt-3046`
+
+## Уход Сварупы Дамодары / Svarupa Damodara's departure  `ev-svarupa-damodara-departure` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 9, 18–24 — [9.18–9.24](../vaishnava-lilamrita/ru/09.md?plain=1#L29-L35) · `vlm-0156`
+
+## Гададхара послан в Гауду с вестью об уходе Сварупы / Gadadhara sent to Gauda with news of Svarupa's departure  `ev-gadadhara-sent-to-gauda` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (D): Гл. 9, 25–27 — [9.25–9.27](../vaishnava-lilamrita/ru/09.md?plain=1#L36-L38) · `vlm-0157`
+
+## Уход Баларамы Даса / Balarama Dasa's departure  `ev-balarama-dasa-departure` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 9, 28–41 (продолжается) — [9.28–9.41](../vaishnava-lilamrita/ru/09.md?plain=1#L39-L52) · `vlm-0158`
 
 ## Видение Враджи в небе перед уходом Господа / The vision of Vraja in the sky before the Lord's departure  `ev-vision-vraja-before-departure` (1533–1534, возраст 47–48, оценка)
 

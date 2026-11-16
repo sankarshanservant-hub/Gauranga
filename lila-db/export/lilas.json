@@ -198325,6 +198325,66 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0154",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 8, 103–114",
+  "file": "vaishnava-lilamrita/ru/08.md",
+  "period": "P14",
+  "order": 8.6,
+  "title": "Раса в Джханкаде у Сарала-Чанди; конец главы 8",
+  "summary": "Рамачандра, ученик Ачьютананды, зовёт Свами в Джханкадпур-Патану; там Прабху с сакхами устраивает расу, Сарала-Чанди названа пратимой Радхи, и в Прабху вновь пробуждается махабхава; так они странствуют по городам и деревням с киртаном.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@achyutananda-odia",
+   "@ramachandra-odia"
+  ],
+  "places": [
+   "#jhankad"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Отождествление Сарала-Чанди с Радхой — орийское предание; позиция гаудия — в сноске.",
+  "themes": [
+   "kirtan",
+   "pilgrimage"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-jhankad-sarala-rasa",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.103",
+    "to": "8.114"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.103",
+    "to": "8.114",
+    "line": 134,
+    "line_to": 145,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/08.md?plain=1#L134-L145",
+    "file_en": "vaishnava-lilamrita/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/08.md?plain=1#L134-L145"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4003",
   "source": "cc",
   "ref": "Антья 1.34–39",
@@ -199298,7 +199358,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0128",
@@ -199360,7 +199420,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "brt-0035",
@@ -199421,7 +199481,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cb-3121",
@@ -199534,7 +199594,7 @@
    30,
    36
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cc-4010",
@@ -199605,7 +199665,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "ccd-0089",
@@ -199725,7 +199785,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "vlm-0133",
@@ -199861,7 +199921,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cc-4012",
@@ -199933,7 +199993,7 @@
    30,
    47
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cc-4013",
@@ -205640,6 +205700,73 @@
    47
   ],
   "attestation": 6
+ },
+ {
+  "id": "vlm-0155",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 9, 1–17",
+  "file": "vaishnava-lilamrita/ru/09.md",
+  "period": "P14",
+  "order": 30,
+  "date": "44-й анк Пратапарудры",
+  "title": "Иштагоштхи Нилачалы; Рупа приносит «Видагдха-мадхаву», Рамананда испытывает её",
+  "summary": "В иштагоштхи у северной стороны храма — Рамананда во главе, Прабху и Свами посередине, Панчасакха, Сварупа, Рагхунатха Дас, Сарвабхаума; из Вриндавана в 44-й анк приходит Рупа с драмой; Прабху велит Рамананде испытать её, Рупа читает шлоки от нанди до маны Радхи, Рамананда восхищён; «Видагдха-мадхава» прославляется; через четыре месяца Рупа уходит, и Рагхунатха Дас идёт с ним во Вриндаван.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@ramananda-raya",
+   "@jagannatha-dasa-odia",
+   "@balarama-dasa-odia",
+   "@svarupa-damodara",
+   "@raghunatha-dasa",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 1",
+  "notes": "",
+  "themes": [
+   "learning",
+   "teaching"
+  ],
+  "cc": "Антья 1",
+  "divergence": "Дата (44-й анк ≈1531/32) много позже, чем по ЧЧ; чтение — в иштагоштхи, а не у Харидаса; Рупа уходит в Карттику, а не после Дола-ятры; Рагхунатха Дас уходит с Рупой (по ЧЧ — остаётся в Пури до ухода Господа).",
+  "event": "ev-rupa-puri-dramas",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.1",
+    "to": "9.17"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.1",
+    "to": "9.17",
+    "line": 8,
+    "line_to": 28,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/09.md?plain=1#L8-L28",
+    "file_en": "vaishnava-lilamrita/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/09.md?plain=1#L8-L28"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 5
  },
  {
   "id": "gst-0016",
@@ -220734,6 +220861,193 @@
    47
   ],
   "attestation": 7
+ },
+ {
+  "id": "vlm-0156",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 9, 18–24",
+  "file": "vaishnava-lilamrita/ru/09.md",
+  "period": "P14",
+  "order": 950,
+  "title": "Уход Сварупы Дамодары в Гамбхире",
+  "summary": "Сварупа долго страдает болезнью дыхания и уходит в Гамбхире в экадаши светлой половины Магхи; Ананта, Ачьюта, Яшованта и автор относят тело к морю; Прабху безмолвен, Рамананда оцепенел, Свами и Баларама скорбят.",
+  "persons": [
+   "@svarupa-damodara",
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@jagannatha-dasa-odia",
+   "@balarama-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@madhava-pattanayaka"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Свидетельство автора («мы отнесли тело к морю»).",
+  "themes": [
+   "departure",
+   "separation"
+  ],
+  "calendar": "магха, шукла-экадаши",
+  "divergence": "По ЧЧ (Антья 14–20) Сварупа неотлучно при Господе до конца; ухода Сварупы раньше Господа в ЧЧ нет.",
+  "event": "ev-svarupa-damodara-departure",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.18",
+    "to": "9.24"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.18",
+    "to": "9.24",
+    "line": 29,
+    "line_to": 35,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/09.md?plain=1#L29-L35",
+    "file_en": "vaishnava-lilamrita/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/09.md?plain=1#L29-L35"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0157",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 9, 25–27",
+  "file": "vaishnava-lilamrita/ru/09.md",
+  "period": "P14",
+  "order": 951,
+  "title": "Гададхара послан в Гауду с вестью",
+  "summary": "Прабху посылает Гададхару в Гауду известить преданных об уходе Сварупы; в начале Пхалгуны Гададхара отправляется.",
+  "persons": [
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Понижено до D: противоречит ЧЧ (Мадхья 16, обет кшетра-санньясы) и самому Мадхаве (8.92).",
+  "themes": [
+   "separation"
+  ],
+  "event": "ev-gadadhara-sent-to-gauda",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.25",
+    "to": "9.27"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.25",
+    "to": "9.27",
+    "line": 36,
+    "line_to": 38,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/09.md?plain=1#L36-L38",
+    "file_en": "vaishnava-lilamrita/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/09.md?plain=1#L36-L38"
+   }
+  ],
+  "cc": "Мадхья 16 (обет Гададхары не покидать Пури)",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0158",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 9, 28–41 (продолжается)",
+  "file": "vaishnava-lilamrita/ru/09.md",
+  "period": "P14",
+  "order": 952,
+  "title": "Уход Баларамы Даса",
+  "summary": "Баларама Дас, пандит, сведущий в веданте, автор «Рамаяны» и толкования «Гиты», всегда в киртане и Имени, оставляет пищу и в шукла-дашами Пхалгуны уходит в мандапе; Прабху, Свами, Панчасакха, Канхаи и Рамананда вспоминают его достоинства; тело погребено в песке у моря; Прабху и Свами безмолвны.",
+  "persons": [
+   "@balarama-dasa-odia",
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@yashovanta-odia",
+   "@kanhai-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "«Входит в тело Джаганнатхи» (9.38) — орийский образ; чистые преданные отвергают сайуджью (Бхаг. 3.29.13; сноска).",
+  "themes": [
+   "departure"
+  ],
+  "calendar": "пхалгуна, шукла-дашами",
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-balarama-dasa-departure",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.28",
+    "to": "9.41"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/09.md",
+    "from": "9.28",
+    "to": "9.41",
+    "line": 39,
+    "line_to": 52,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/09.md?plain=1#L39-L52",
+    "file_en": "vaishnava-lilamrita/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/09.md?plain=1#L39-L52"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "krn-0002",

@@ -2861,6 +2861,7 @@
    "vlm-0150",
    "vlm-0151",
    "vlm-0153",
+   "vlm-0154",
    "apr-0124",
    "cc-4002",
    "ccd-0088",
@@ -2954,6 +2955,7 @@
    "cc-4069",
    "gkd-0159",
    "pvl-0131",
+   "vlm-0155",
    "gst-0016",
    "cc-4070",
    "pv-0014",
@@ -3170,6 +3172,9 @@
    "lcm-0249",
    "vlm-0148",
    "vlm-0149",
+   "vlm-0156",
+   "vlm-0157",
+   "vlm-0158",
    "krn-0002",
    "gkd-0186",
    "apr-0145",
@@ -4335,6 +4340,7 @@
    "ev-lord-debt-gauda-devotees",
    "ev-nagara-kirtan-khol-origin",
    "ev-odisha-kirtan-circuit",
+   "ev-jhankad-sarala-rasa",
    "ev-sanatana-suicide-forbidden",
    "ev-priyah-so-yam-rupa",
    "ev-tunde-tandavini",
@@ -4443,6 +4449,9 @@
    "ev-vishnu-puri-bhakti-ratnavali",
    "ev-gadadhara-gives-hridayananda",
    "ev-hridaya-chaitanya-name",
+   "ev-svarupa-damodara-departure",
+   "ev-gadadhara-sent-to-gauda",
+   "ev-balarama-dasa-departure",
    "ev-vision-vraja-before-departure",
    "ev-lord-disappearance",
    "ev-jiva-comes-to-vrindavana",
@@ -13989,6 +13998,7 @@
    "mkc-0253",
    "cb-3100",
    "brt-3045",
+   "vlm-0157",
    "jcm-0099",
    "brt-4016",
    "pvl-0020",
@@ -14224,6 +14234,7 @@
    "ev-chataka-parvata-govardhana",
    "ev-nityananda-returns-to-puri",
    "ev-gadadhara-gives-hridayananda",
+   "ev-gadadhara-sent-to-gauda",
    "ev-lord-disappearance",
    "ev-gadadhara-departure",
    "ev-srinivasa-gadadhara-puri",
@@ -19810,6 +19821,7 @@
    "vlm-0137",
    "vlm-0144",
    "vlm-0145",
+   "vlm-0155",
    "cc-4077",
    "cc-4088",
    "ccd-0091",
@@ -20096,6 +20108,7 @@
    "vlm-0137",
    "cc-4022",
    "cc-0362",
+   "vlm-0155",
    "pv-0014",
    "cc-4077",
    "cc-4054",
@@ -20140,6 +20153,8 @@
    "cc-4167",
    "cc-4170",
    "cc-4168",
+   "vlm-0156",
+   "vlm-0158",
    "brt-0072",
    "brt-0071",
    "pvl-0024",
@@ -20239,6 +20254,8 @@
    "ev-face-rubbing-gambhira",
    "ev-krishna-ashoka-spring-garden",
    "ev-shikshashtaka-recitation",
+   "ev-svarupa-damodara-departure",
+   "ev-balarama-dasa-departure",
    "ev-devotees-lament-after-disappearance",
    "ev-srinivasa-gadadhara-puri",
    "ev-srinivasa-shantipura",
@@ -20695,6 +20712,7 @@
    "cc-4069",
    "ccd-0090",
    "pvl-0131",
+   "vlm-0155",
    "gst-0016",
    "cc-4070",
    "pv-0014",
@@ -20777,6 +20795,7 @@
    "cc-4168",
    "mkc-0253",
    "vlm-0149",
+   "vlm-0156",
    "gst-0017",
    "anv-0011",
    "brt-0071",
@@ -20921,6 +20940,7 @@
    "ev-fall-into-ocean-fisherman",
    "ev-shikshashtaka-recitation",
    "ev-nityananda-returns-to-puri",
+   "ev-svarupa-damodara-departure",
    "ev-devotees-lament-after-disappearance",
    "ev-srinivasa-gadadhara-puri",
    "ev-srinivasa-shantipura",
@@ -21649,6 +21669,7 @@
    "vlm-0141",
    "vlm-0142",
    "pvl-0131",
+   "vlm-0155",
    "vlb-0011",
    "cc-3031",
    "brt-2024",
@@ -30120,6 +30141,7 @@
    "ccd-0090",
    "gkd-0159",
    "pvl-0131",
+   "vlm-0155",
    "gst-0016",
    "cc-4070",
    "pv-0014",
@@ -30271,6 +30293,7 @@
    "ev-panihati-chida-dadhi",
    "ev-raghunatha-dasa-escape",
    "ev-raghunatha-dasa-joins-lord",
+   "ev-rupa-puri-dramas",
    "ev-raghunatha-lord-instructions",
    "ev-svarupa-teaches-raghunatha-piriti",
    "ev-raghunatha-stops-invitations",
@@ -47092,7 +47115,10 @@
    "vlm-0136",
    "vlm-0144",
    "vlm-0145",
+   "vlm-0155",
    "vlm-0149",
+   "vlm-0156",
+   "vlm-0158",
    "vlm-0104"
   ],
   "events": [
@@ -47106,7 +47132,10 @@
    "ev-balarama-dasa-sand-chariot",
    "ev-svami-initiated-by-balarama-dasa",
    "ev-govardhana-shila-gunja-gift",
-   "ev-gambhira-divine-madness"
+   "ev-rupa-puri-dramas",
+   "ev-gambhira-divine-madness",
+   "ev-svarupa-damodara-departure",
+   "ev-balarama-dasa-departure"
   ]
  },
  {
@@ -47563,6 +47592,7 @@
    "vlm-0150",
    "vlm-0151",
    "vlm-0153",
+   "vlm-0154",
    "vlm-0133",
    "vlm-0134",
    "vlm-0135",
@@ -47573,7 +47603,10 @@
    "vlm-0143",
    "vlm-0144",
    "vlm-0145",
+   "vlm-0155",
    "vlm-0149",
+   "vlm-0156",
+   "vlm-0158",
    "vlm-0104"
   ],
   "events": [
@@ -47586,6 +47619,7 @@
    "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-nagara-kirtan-khol-origin",
    "ev-odisha-kirtan-circuit",
+   "ev-jhankad-sarala-rasa",
    "ev-sanatana-taught-jagannatha-dasa",
    "ev-vallabha-bhatta-puri",
    "ev-atibada-name",
@@ -47596,7 +47630,10 @@
    "ev-shikshashtaka-recitation",
    "ev-svami-initiated-by-balarama-dasa",
    "ev-govardhana-shila-gunja-gift",
-   "ev-gambhira-divine-madness"
+   "ev-rupa-puri-dramas",
+   "ev-gambhira-divine-madness",
+   "ev-svarupa-damodara-departure",
+   "ev-balarama-dasa-departure"
   ]
  },
  {
@@ -47797,6 +47834,7 @@
   "lilas": [
    "vlm-0118",
    "vlm-0124",
+   "vlm-0156",
    "vlm-0101",
    "vlm-0102",
    "vlm-0103",
@@ -47805,7 +47843,8 @@
   ],
   "events": [
    "ev-ramananda-governor-rajamahendri",
-   "ev-ramananda-mandapa-puri"
+   "ev-ramananda-mandapa-puri",
+   "ev-svarupa-damodara-departure"
   ]
  },
  {
@@ -55668,12 +55707,15 @@
    "vlm-0150",
    "vlm-0151",
    "vlm-0153",
+   "vlm-0154",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
    "vlm-0137",
    "vlm-0145",
    "vlm-0149",
+   "vlm-0156",
+   "vlm-0158",
    "vlm-0104"
   ],
   "events": [
@@ -55683,12 +55725,15 @@
    "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-nagara-kirtan-khol-origin",
    "ev-odisha-kirtan-circuit",
+   "ev-jhankad-sarala-rasa",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
    "ev-govardhana-shila-gunja-gift",
-   "ev-gambhira-divine-madness"
+   "ev-gambhira-divine-madness",
+   "ev-svarupa-damodara-departure",
+   "ev-balarama-dasa-departure"
   ]
  },
  {
@@ -55711,6 +55756,8 @@
    "vlm-0137",
    "vlm-0145",
    "vlm-0149",
+   "vlm-0156",
+   "vlm-0158",
    "vlm-0104"
   ],
   "events": [
@@ -55725,7 +55772,9 @@
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
    "ev-govardhana-shila-gunja-gift",
-   "ev-gambhira-divine-madness"
+   "ev-gambhira-divine-madness",
+   "ev-svarupa-damodara-departure",
+   "ev-balarama-dasa-departure"
   ]
  },
  {
@@ -55747,6 +55796,8 @@
    "vlm-0136",
    "vlm-0145",
    "vlm-0149",
+   "vlm-0156",
+   "vlm-0158",
    "vlm-0104"
   ],
   "events": [
@@ -55760,7 +55811,9 @@
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
    "ev-govardhana-shila-gunja-gift",
-   "ev-gambhira-divine-madness"
+   "ev-gambhira-divine-madness",
+   "ev-svarupa-damodara-departure",
+   "ev-balarama-dasa-departure"
   ]
  },
  {
@@ -55794,7 +55847,8 @@
    "vlm-0136",
    "vlm-0137",
    "vlm-0138",
-   "vlm-0142"
+   "vlm-0142",
+   "vlm-0158"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
@@ -55803,7 +55857,8 @@
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
    "ev-shivananda-kanhai-pilgrims-quarrel",
-   "ev-gaudiyas-govardhana-clash"
+   "ev-gaudiyas-govardhana-clash",
+   "ev-balarama-dasa-departure"
   ]
  },
  {
@@ -56035,6 +56090,19 @@
   ],
   "events": [
    "ev-kondavidu-fall-virabhadra"
+  ]
+ },
+ {
+  "id": "@ramachandra-odia",
+  "ru": "Рамачандра, ученик Ачьютананды",
+  "en": "Ramachandra, Achyutananda's disciple",
+  "note": "зовёт Свами в Джханкад («Вайшнава-лиламрита» 8.103–104)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0154"
+  ],
+  "events": [
+   "ev-jhankad-sarala-rasa"
   ]
  }
 ]
