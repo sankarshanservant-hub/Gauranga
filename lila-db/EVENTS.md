@@ -11,6 +11,10 @@
 - gaura-krishnodaya (B): Сарга 1, 6–10 — [6–10](../gaura-krishnodaya/ru/01.md?plain=1#L19-L27) · `gkd-0002`
 - jayananda-cm (C): Ади-кханда: «Бедствия Кали-юги» (цит. Г. Райчаудхури); «Жалоба Земли» (С. Сен) — [1–8](../jayananda/ru/05-quotes.md?plain=1#L11-L29); [4:1–4:2](../jayananda/ru/06-manuscripts.md?plain=1#L78-L80) · `jcm-0009`
 
+## Происхождение облика Джаганнатхи: Кришна в Двараке, рахаса с гопи, царицы, Вринда и рассказ Рохини / The origin of Jagannatha's form: Krishna in Dvaraka, the rahasa with the gopis, the queens, Vrinda and Rohini's narration  `ev-jagannatha-form-origin-dvaraka`
+
+- mahabhava-prakasha (C): Гл. 3, 153–215 (текст обрывается) — [3.153–3.215](../mahabhava-prakasha/ru/03.md?plain=1#L184-L254) · `mpk-0021`
+
 ## Брахма у Молочного океана: молитва о бремени Кали и ответ Господа / Brahma at the Milk Ocean: prayer about the burden of Kali and the Lord's reply  `ev-brahma-prayer-milk-ocean`
 
 - gaura-krishnodaya (B): Сарга 1, 11–33 — [11–33](../gaura-krishnodaya/ru/01.md?plain=1#L29-L77) · `gkd-0003`
@@ -5757,6 +5761,7 @@
 ## Рамананда приводит царя к Господу; царь вопрошает о таттве Джаганнатхи / Ramananda brings the king to the Lord; the king asks about the truth of Jagannatha  `ev-prataparudra-asks-jagannatha-tattva` (1516–1533, возраст 30–47, оценка)
 
 - mahabhava-prakasha (C): Гл. 3, 97–124 (продолжается) — [3.97–3.124](../mahabhava-prakasha/ru/03.md?plain=1#L120-L147) · `mpk-0019`
+- mahabhava-prakasha (C): Гл. 3, 125–152 — [3.125–3.152](../mahabhava-prakasha/ru/03.md?plain=1#L152-L179) · `mpk-0020`
 
 ## Экадаши в саду Джаганнатха-валлабха: Господь почитает махапрасад поклоном и вкушает наутро / Ekadashi in the Jagannatha-vallabha garden: the Lord honours the mahaprasada with obeisance and eats it the next morning  `ev-ekadashi-mahaprasada-jagannatha-vallabha` (1516–1533, возраст 30–47, оценка)
 

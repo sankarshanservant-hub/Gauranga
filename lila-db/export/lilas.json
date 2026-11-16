@@ -161,6 +161,65 @@
   "attestation": 2
  },
  {
+  "id": "mpk-0021",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 153–215 (текст обрывается)",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P00",
+  "order": 5,
+  "title": "Рахаса в Двараке; облик Раджендры перед гопи; царицы, Вринда, Субхадра у дверей и рассказ Рохини о Радхе",
+  "summary": "На берегу Гомати гопи просят Кришну явить им облик царя Двараки; Он становится четвероруким Раджендрой в дивном убранстве, и Радха и Лалита погружаются в блаженство; вернувшись в Двараку, Кришна на ложе с Рукмини вскрикивает имя Радхи; царицы требуют объяснения, Он посылает их к Вринде; та велит позвать Йогамайю-Субхадру, чтобы она не впустила Кришну и Балараму, и Рохини начинает рассказ о Радхе — здесь текст издания обрывается.",
+  "persons": [
+   "@krishna",
+   "@radha",
+   "@lalita",
+   "@rukmini",
+   "@satyabhama",
+   "@subhadra",
+   "@rohini",
+   "@balarama",
+   "@vrinda-devi"
+  ],
+  "places": [
+   "#dvaraka"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "Предание о происхождении облика Джаганнатхи (Кришна и Баларама «тают», слушая Рохини); ЧЧ Мадхья 13",
+  "notes": "Повесть рассказывает Сам Махапрабху (продолжение ответа на вопрос царя, mpk-0019–0020). Развязки в издании нет.",
+  "themes": [
+   "krishna-lila",
+   "jagannatha",
+   "separation"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "event": "ev-jagannatha-form-origin-dvaraka",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.153",
+    "to": "3.215"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.153",
+    "to": "3.215",
+    "line": 184,
+    "line_to": 254,
+    "count": 63,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L184-L254",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L184-L254"
+   }
+  ],
+  "cc": "Мадхья 13 (Кришна в Двараке тоскует по Враджу — ср.)",
+  "attestation": 1
+ },
+ {
   "id": "gkd-0003",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 1, 11–33",
@@ -209345,6 +209404,68 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L120-L147",
     "file_en": "mahabhava-prakasha/en/03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L120-L147"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "mpk-0020",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 125–152",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P14",
+  "order": 44.5,
+  "title": "Ответ Господа о Джаганнатхе: «суть пранавы»; Кришна-царь в Двараке вспоминает Вриндаван",
+  "summary": "Рамананда предаётся стопам Прабху; Господь поднимает его и говорит: «Тот, Кто Джаганнатха, — суть пранавы, Его облик — не одно лишь тело», и начинает повесть: Кришна, оставив Матхуру и флейту, царствует в Двараке в царском облачении, но, вспоминая бхаву любви, бродит с флейтой, и Лалита и восемь подруг сходятся на рахасу.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@prataparudra",
+   "@krishna",
+   "@lalita"
+  ],
+  "places": [
+   "#puri",
+   "#dvaraka"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 13 (Кришна в Двараке помнит Вриндаван); «Вайшнава-лиламрита» 1.7",
+  "notes": "«Суть пранавы» — орийский образ (ср. ВЛ 1.7); для гаудия-вайшнавов Джаганнатха — Сам Кришна (сноски).",
+  "themes": [
+   "teaching",
+   "jagannatha",
+   "krishna-lila"
+  ],
+  "event": "ev-prataparudra-asks-jagannatha-tattva",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.125",
+    "to": "3.152"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.125",
+    "to": "3.152",
+    "line": 152,
+    "line_to": 179,
+    "count": 28,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L152-L179",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L152-L179"
    }
   ],
   "years": [

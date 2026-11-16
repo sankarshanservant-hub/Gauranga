@@ -3007,6 +3007,7 @@
    "mpk-0012",
    "cc-0365",
    "mpk-0019",
+   "mpk-0020",
    "cc-0363",
    "pv-0016",
    "cc-0114",
@@ -4772,6 +4773,7 @@
   "section": "Господь и Его формы",
   "lilas": [
    "cc-0014",
+   "mpk-0021",
    "cc-0032",
    "cc-0004",
    "gkd-0004",
@@ -5013,6 +5015,7 @@
    "cc-4081",
    "brt-2024",
    "mpk-0011",
+   "mpk-0020",
    "cc-0300",
    "cc-4140",
    "pad-0029",
@@ -5201,6 +5204,7 @@
   ],
   "events": [
    "ev-krishna-teaches-brahma-catuhshloki",
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-krishna-resolves-to-give-vraja-prema",
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-narada-kali-sorrow",
@@ -5325,6 +5329,7 @@
    "ev-vallabha-sridhara-svami",
    "ev-rupa-laughs-vaishnava-offense",
    "ev-mahabhava-prakasha-radha-tattva",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-last-twelve-years-gambhira",
    "ev-jagannatha-darshan-gopi-bhava",
    "ev-gambhira-divine-madness",
@@ -5423,6 +5428,7 @@
   "note": "",
   "section": "Господь и Его формы",
   "lilas": [
+   "mpk-0021",
    "cc-0004",
    "gkd-0004",
    "cc-0042",
@@ -5728,6 +5734,7 @@
    "cc-4173"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-narada-dvaraka-rukmini",
    "ev-narada-jagannatha-nilachala",
@@ -5903,6 +5910,7 @@
   "note": "",
   "section": "Господь и Его формы",
   "lilas": [
+   "mpk-0021",
    "apr-0001",
    "lcm-0026",
    "pvl-0205",
@@ -6036,6 +6044,7 @@
    "cc-0072"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-advaita-advent-cause",
    "ev-narada-goloka-gaura",
    "ev-krishna-resolves-gaura-advent",
@@ -20184,6 +20193,7 @@
    "mpk-0011",
    "mpk-0013",
    "mpk-0019",
+   "mpk-0020",
    "cc-0363",
    "pv-0016",
    "brt-4013",
@@ -21508,6 +21518,7 @@
    "cc-4095",
    "mpk-0008",
    "mpk-0019",
+   "mpk-0020",
    "cc-4101",
    "ccd-0093",
    "ccd-0094",
@@ -44055,6 +44066,7 @@
   "note": "",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "mpk-0021",
    "lcm-0008",
    "lcm-0009",
    "lcm-0010",
@@ -44071,6 +44083,7 @@
    "cc-0071"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-narada-dvaraka-rukmini",
    "ev-narada-uddhava-naimisharanya",
    "ev-narada-jagannatha-nilachala",
@@ -44092,6 +44105,7 @@
   "note": "царица Двараки",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "mpk-0021",
    "lcm-0008",
    "lcm-0023",
    "lcm-0025",
@@ -44107,6 +44121,7 @@
    "cc-4122"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-narada-dvaraka-rukmini",
    "ev-narada-jagannatha-nilachala",
    "ev-narada-goloka-gaura",
@@ -45009,6 +45024,7 @@
   "note": "сестра Кришны; Божество в Пури вместе с Джаганнатхой и Баларамой",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "mpk-0021",
    "kcm-0145",
    "cc-2045",
    "cc-2049",
@@ -45028,6 +45044,7 @@
    "brt-4011"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-snana-yatra-anavasara-alalanatha",
    "ev-ratha-yatra-gundicha",
    "ev-hera-panchami",
@@ -45040,12 +45057,26 @@
   ]
  },
  {
+  "id": "@rohini",
+  "ru": "Рохини",
+  "en": "Rohini",
+  "note": "мать Баларамы; в Двараке рассказывает царицам о Радхе («Махабхава-пракаша» 3.215)",
+  "section": "Небожители и мудрецы",
+  "lilas": [
+   "mpk-0021"
+  ],
+  "events": [
+   "ev-jagannatha-form-origin-dvaraka"
+  ]
+ },
+ {
   "id": "@lalita",
   "ru": "Лалита",
   "en": "Lalita",
   "note": "ближайшая подруга Радхи",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "mpk-0021",
    "apr-0022",
    "pad-0113",
    "pad-0063",
@@ -45053,6 +45084,7 @@
    "cc-1078",
    "pvl-0050",
    "cc-4011",
+   "mpk-0020",
    "cc-4063",
    "gkd-0187",
    "gst-0017",
@@ -45076,12 +45108,14 @@
    "cc-4015"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-brahma-steals-calves-haridasa",
    "ev-navadvipa-radha-bhava-gadadhara",
    "ev-chandrashekhara-drama",
    "ev-ramananda-raya-godavari",
    "ev-prema-left-in-padma",
    "ev-rupa-puri-dramas",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-gambhira-divine-madness",
    "ev-lord-disappearance",
    "ev-devotees-lament-after-disappearance",
@@ -45315,6 +45349,7 @@
   "note": "богиня Вриндавана, устроительница игр Радхи и Кришны",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "mpk-0021",
    "cc-0048",
    "pad-0113",
    "brt-0060",
@@ -45330,6 +45365,7 @@
    "brt-2020"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-navadvipa-radha-bhava-gadadhara",
    "ev-vrinda-devi-rupa",

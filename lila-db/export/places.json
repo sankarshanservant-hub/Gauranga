@@ -4322,6 +4322,7 @@
    "mpk-0012",
    "cc-0365",
    "mpk-0019",
+   "mpk-0020",
    "cc-0363",
    "pv-0016",
    "cc-0114",
@@ -6171,6 +6172,7 @@
   "note": "",
   "section": "",
   "lilas": [
+   "mpk-0021",
    "lcm-0007",
    "lcm-0008",
    "lcm-0009",
@@ -6185,6 +6187,7 @@
    "cc-2052",
    "cc-2069",
    "cc-4007",
+   "mpk-0020",
    "brt-7143",
    "brt-6014",
    "nvv-0070",
@@ -6195,6 +6198,7 @@
    "cc-0071"
   ],
   "events": [
+   "ev-jagannatha-form-origin-dvaraka",
    "ev-narada-kali-sorrow",
    "ev-narada-dvaraka-rukmini",
    "ev-advaita-pilgrimage",
@@ -6206,6 +6210,7 @@
    "ev-ratha-yatra-gundicha",
    "ev-hera-panchami",
    "ev-rupa-puri-dramas",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-srinivasa-dream-nitya-navadvipa",
    "ev-navadvipa-parikrama-ishana",
    "ev-legend-shiva-bhuvaneshvara",
