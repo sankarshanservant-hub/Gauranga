@@ -15,7 +15,7 @@ devotees of Mahaprabhu, and the commentary to the “Chaitanya-bhagavata” (Adi
 Madhavi-devi and Murari Mahiti among the Lord's companions born in Utkala. Kavi Karnapura begins his account of him
 thus:
 
-“There, in the land of Purushottama, lived a pure man named Shikhi Mahiti, a great soul, who as His servant had won
+“There, in the land of Purushottama, lived a pure man named Shikhi Mahiti, a great soul; as His servant he had won
 the mercy of the tilaka of the Blue Mountain.” (“Chaitanya-charita-mahakavya” 13.89)
 
 The tilaka, the ornament of the Blue Mountain, is Lord Jagannatha Himself, the Lord of Nilachala. Shikhi Mahiti was
@@ -32,13 +32,13 @@ In the Bengali verse his office is called *likhanadhikari*, “the one in charge
 same word for him in the drama “Chaitanya-chandrodaya” (act 8). Srila Bhaktivinoda Thakura explains in his
 “Amrita-pravaha-bhashya” that this is an official holding the post of *deula-karana*, the temple scribe, who keeps
 the chronicle of Jagannatha's temple, the “Madala-panji.” One of the biographies adds that the chronicle was kept
-year by year and that this was his chief duty. Govinda-deva in the “Gaura-krishnodaya” calls Shikhi and his brother
-Murari “two worthy kayasthas, the chief scribes” (11.5). Here the social class speaks only of a worldly office: the
+year by year and that this was his chief duty. Govinda-deva in the “Gaura-krishnodaya” speaks of him and his brother
+as “two worthy kayasthas, Shikhi and Murari, the chief scribes” (11.5). Here the social class speaks only of a worldly office: the
 position of the Lord's eternal companion is not determined by birth, and Ramananda Raya too was a karana by birth.
 <!-- F15 F16 F17 Q5 -->
 
 ## Brother and Sister
-Shikhi was the eldest in the family. His younger brother was Murari Mahiti, his younger sister Madhavi-devi.
+Shikhi was the eldest in the family. Murari Mahiti was the next after him, and Madhavi-devi the youngest of the three.
 Karnapura says:
 
 “He has a younger brother named Murari, and younger still a sister of pure mind, Madhava-devi. So the three of them
@@ -58,9 +58,9 @@ Bhaktisiddhanta in the “Anubhashya” to CC, Adi 10.136.[^3] The “Charitamri
 <!-- F13 F19 Q11 -->
 
 The younger brother and sister had been unshakably devoted to Gaurasundara from birth: their innate, pure mind never for
-a moment allowed them to forget Gaura. “The Moon of Vrindavana,” such was their conviction, “has now risen on earth as
-Gaurachandra” (13.93). And Krishna Himself, appearing as Gaurachandra, says the “Anubhashya,” constantly nourished in this
-brother and sister their auspicious love for Gaura.[^4] Through them His mercy touched their elder brother as well, who
+a moment allowed them to forget Gaura. “The Moon of Vrindavana has now risen here on earth as Gaurachandra”: such was their
+conviction (13.93). And Krishna Himself, appearing as Gaurachandra, says the “Anubhashya,” constantly nourished in the two
+younger ones their blessed love for Gaura.[^4] Through them His mercy touched their elder brother as well, who
 was wholly absorbed in the service of Jagannatha. <!-- F12 I1 -->
 
 The brother and sister did their utmost to bring him to the worship of Gaurasundara, but for a long time Shikhi did
@@ -69,8 +69,8 @@ worldly unbelief. So the Lord arranged His pastime, to reveal both the power of 
 own mercy. <!-- F20 -->
 
 One day, after his siblings' instructions and long talks with them, he fell asleep, and as the night was ending he
-started from a dream: he dreamt that his younger brother and sister, who behold Gaura's lotus feet, were waking him. At this wondrous
-dream the hair of his body stood on end, joy shook him twice over, and his eyes filled with tears. Opening his eyes, he
+started from a dream: he dreamt that his younger brother and sister, who behold Gaura's lotus feet, were rousing him. This wondrous
+dream made the hair of his body stand on end, joy shook him twice over, and his eyes filled with tears. Opening his eyes, he
 saw that his brother and sister had indeed come to him, and in great joy he embraced them, and they were astonished.[^5]
 Then he told them his dream:
 
@@ -85,17 +85,17 @@ In Karnapura the Lord's arms are “long, mighty, gracefully reaching to the kne
 
 What Shikhi saw is a pastime (*lila*) of the Lord, not a “dissolving” of one into the other. Gaura, absorbed in
 beholding Jagannatha, and Jagannatha Himself are one Lord; in Karnapura's drama Sarvabhauma tells Mahaprabhu that
-Jagannatha and Sri Krishna-Chaitanya have one and the same being, without difference (“Chaitanya-chandrodaya,”
+Jagannatha and He are equally Krishna-Chaitanya, without any difference (“Chaitanya-chandrodaya,”
 act 8). Nor was this dream a play of the imagination: it was the Lord's mercy, His revelation.
 
 As he spoke, Shikhi trembled all over, his eyes were full of tears, his voice broke with love, and when he had finished
 he went out.[^6] Murari and Madhavi, having heard their elder brother, told him to go to Jagannatha: Mahaprabhu, says
-Karnapura, had gone there too, to behold the Lord of the Blue Mountain. All three agreed and went to the Lord of
+Karnapura, had gone there too, to behold the Lord of the Blue Mountain. All three consented and set out for the Lord of
 Nilachala. <!-- F24 F25 -->
 
-In the *jagamohana*, the hall before the sanctum, Murari and Madhavi saw the Lord and shed tears of joy. But Shikhi saw
-Gaurasundara on every side exactly as he had seen Him in the dream, in the very same mood, and his heart blossomed with
-love. Karnapura concludes the story:
+In the *jagamohana*, the hall before the sanctum, Murari and Madhavi beheld the Lord and wept for joy. But Shikhi saw
+Gaurasundara on every side exactly as He had appeared to him in the dream, in the very same mood, and love flowered in
+his heart. Karnapura concludes the story:
 
 “And the Lord, abounding in mercy, saying, ‘You are Murari's elder brother,’ embraced him with both arms. And he, giving
 his mind to Him, became as if happiness embodied. From then on, forgetting everything through a drop of the fragrance
@@ -103,7 +103,7 @@ of His lotus feet, he serves Him always, day after day, as his own worshipful Lo
 (“Chaitanya-charita-mahakavya” 13.108–109)
 
 The Lord, who knows every heart, recognized him before any words were spoken and Himself took him into His embrace.
-From that day, intoxicated by the fragrance of Gaura's feet, Shikhi Mahiti forgot everything else and served Sri Gaura
+From that day, intoxicated with the scent of Gaura's feet, Shikhi Mahiti forgot everything else and served Sri Gaura
 as the beloved Lord of his heart (*abhishta-deva*). This was no turning away from Jagannatha: Gaura and Jagannatha are
 non-different, and service to the One is service to the Other. <!-- F26 F27 F28 -->
 
@@ -120,8 +120,8 @@ brother as well:
 
 “This is Murari Mahiti, Shikhi Mahiti's brother. He has no refuge but Your feet.” (CC, Madhya 10.44)
 
-In Karnapura's drama Sarvabhauma says: “This is Shikhi Mahiti, in charge of the records, and these are his two
-brothers”;[^7] and the “Gaura-krishnodaya” names Shikhi and Murari among those servants of Jagannatha who, introduced
+In Karnapura's drama Sarvabhauma says: “This is Shikhi Mahiti, in charge of the records, and these are his brother
+and sister”;[^7] and the “Gaura-krishnodaya” names Shikhi and Murari among those servants of Jagannatha who, introduced
 by Sarvabhauma, took shelter of the Lord (11.5). Karnapura in his mahakavya also tells of Shikhi's dream soon after the Lord's
 return from the south, before the Bengali devotees arrive; but how this event relates to the introduction in Kashi
 Mishra's house, and which came first, the sources do not say. <!-- F30 -->
@@ -172,7 +172,7 @@ One of the biographies calls him one of the Lord's personal branches and one of 
 to Sri Chaitanya. <!-- F5 Q4 F33 I2 -->
 
 ## After the Lord's Disappearance
-Shikhi Mahiti remained in this world after the Lord had withdrawn from sight. When young Srinivasa came to Nilachala,
+Shikhi Mahiti remained in this world after the Lord had withdrawn from sight. When Srinivasa came to Nilachala,
 the Lord's companions, Shikhi Mahiti among them, had in separation from Gaura given up food, sleep and all else and
 ceaselessly sang the name, form, qualities and pastimes of Gaurasundara. <!-- F35 -->
 
@@ -184,10 +184,10 @@ Srinivasa was soaked with the tears of them all. <…> Shikhi Mahiti with his si
 alive.’” (“Bhakti-ratnakara” 3.181–182, 185)
 
 One of the biographies adds that from Srinivasa's unprecedented love for Gaura the Lord's companions understood that he
-was Gaura-shakti, the power of Gaura, and that through him the message of Sri Chaitanya and the scriptures would be
-preached, and they gave him important instructions. <!-- F36 Q9 I3 -->
+was Gaura-shakti, the power of Gaura, and that Sri Chaitanya's message and that of the scriptures would be spread by
+him, and they gave him important instructions. <!-- F36 Q9 I3 -->
 
-Later Narottama came to Puri. The “Narottama-vilasa” relates that on that day, not yet knowing of his arrival, the
+Later Narottama came to Puri. The “Narottama-vilasa” relates that on that day, before any news of his arrival had come, the
 Lord's companions came out onto the road to the Lion Gate, and Shikhi Mahiti asked Mangaraja: “Why has joy suddenly
 risen in my heart?” (“Narottama-vilasa” 4.41). And when Narottama, having calmed himself, had performed his morning
 duties, “Gopinatha Acharya, together with Shikhi Mahiti, quickly sent him to have darshan of Jagannatha” (ibid.,
@@ -209,12 +209,12 @@ appearance and departure, nor are his days found in the Vaishnava calendar of th
     all three; in Karnapura and the “Anubhashya” it concerns only the younger brother and sister.
 [^5]: In Karnapura he falls asleep “on his younger brother's advice,” and the younger ones wake him in reality and see
     that he is shaken by the dream (“Chaitanya-charita-mahakavya” 13.95–96). One of the biographies tells the dream
-    thus: he saw his brother and sister contemplating Gaurasundara's feet, and they told him to wake up; it also adds
+    thus: he saw his siblings contemplating Gaurasundara's feet, and they told him to wake up; it also adds
     that the brother and sister asked the cause of his joy, and he, seeing their astonishment, told them the dream to
     reassure them.
 [^6]: In Karnapura: “he kept repeating it without end” (13.103).
-[^7]: The Sanskrit *bhratarau* (dual number) also means “brother and sister.” Karnapura himself uses it in his
-    mahakavya for Murari and Madhavi (13.90–91), and according to the “Charitamrita” Shikhi had a brother and a sister;
-    apparently they are meant.
+[^7]: The Sanskrit *bhratarau* (dual number) can mean both “two brothers” and “brother and sister.” According to the
+    “Charitamrita” Shikhi had a brother and a sister, and Karnapura himself uses the same word for Murari and Madhavi in
+    his mahakavya (13.91).
 [^8]: In our Bengali text of the “Bhakti-ratnakara” this is chapter 8, line 228; one of the biographies gives 8.237:
     the numbering of the editions differs.
