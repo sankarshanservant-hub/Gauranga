@@ -766,3 +766,10 @@
 | @gopinatha-agradvipa | Гопинатха — Божество в Аградвипе | Gopinatha, the Deity of Agradvipa | явлен @govinda-ghosha по указанию Махапрабху из чёрного камня; ежегодно предлагает по нему пинду (B 189, 848–849; T 64; M 242, 245; «Анубхашья» к ЧЧ Ади 11.15) |
 | @madana-gopala-mamgachi | Мадана-Гопала — Божество Васудевы Датты (Мамгачхи) | Madana-Gopala, the Deity of Vasudeva Datta (Mamgachi) | установлен @vasudeva-datta в Мамгачхи (#modadrumadvipa), на родине @vrindavana-dasa; ныне — рядом с @radha-gopinatha-mamgachi (T 94); не путать с @madana-gopala-deity |
 | @gopinatha-bentpur | Гопинатха — Божество в Бентпуре | Gopinatha, the Deity of Bentpur | по B 896 — служение открыла @madhavi-devi близ дома @bhavananda-raya в Бентпуре у Алаланатхи (#bentpur); служат поныне |
+| @padmavati-jayadeva | Падмавати (супруга Джаядевы) | Padmavati (Jayadeva's wife) | дочь брахмана, по велению Джаганнатхи отданная Джаядеве (B 901; T 3); не путать с @padmavati (мать Нитьянанды), @gauranga-priya |
+| @radha-madhava-jayadeva | Радха-Мадхава — Божества Джаядевы | Radha-Madhava, Jayadeva's Deities | по преданию обретены в реке Аджай; ныне в Гхати, Джайпур (B 900, 906; T 1, 4) |
+| @lakshmana-sena | Лакшмана Сена | Lakshmana Sena | царь Бенгалии (XII в.), при дворе которого был Джаядева (B 900; T 1; M 72) |
+| @govardhana-acharya | Говардхана Ачарья | Govardhana Acharya | придворный поэт Лакшманы Сены, друг Джаядевы (B 900; T 1) |
+| @umapatidhara | Умапатидхара | Umapatidhara | придворный поэт Лакшманы Сены, друг Джаядевы (B 900; «Гита-говинда» 1.4) |
+| @bhojadeva | Бходжадева | Bhojadeva | отец Джаядевы (B 900; T 1; M 72; «Анубхашья» ЧЧ Ади 13.42) |
+| @vamadevi | Вамадеви | Vamadevi | мать Джаядевы (B 900; T 1; M 72 — «Bamadevi») |
