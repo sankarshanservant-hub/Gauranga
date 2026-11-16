@@ -239,6 +239,124 @@ out. In Vrindavana he served Them at Keshi-tirtha, the Keshi-ghata on the Yamuna
 “Gita-govinda,” the residents of the dhama lost all outer awareness. A certain mahajana, a wealthy merchant, built a
 temple for his Radha-Madhava above Keshi-ghata. <!-- F49 -->
 
+## Last Years and Departure
+Where Jayadeva spent his last days the traditions disagree: according to some, in Jagannatha-kshetra; according to
+others, in Vrindavana; according to still others, in his native Kendubilva. Srila Bhaktisiddhanta Sarasvati Gosvami
+Prabhupada said that he spent his last years in Jagannatha-kshetra; so he writes in the “Anubhashya” as well: “He spent
+the last part of his life at Sri Jagannatha-kshetra.” This is the view we follow.[^17] <!-- F50 F51 -->
+
+Another tradition says that after living long in Vrindavana, Jayadeva returned to Kendubilva and performed his bhajana
+there. To bathe in the Ganga he had to walk a long way every day. Once he could not go and grew sad — and by the will of
+Providence the goddess Ganga herself flowed to Kendubilva and bestowed her mercy on him. According to this tradition, it
+was there, in his homeland, that his pastimes as a sadhaka came to a close; in his memory a fair, the Jayadeva-mela, is
+held at Kendubilva every year to this day, on Magha-sankranti.[^18] <!-- F52 F53 -->
+
+But even those who say he ended his days in Kendubilva admit that his Deities did not go there: nowhere is it said that
+he brought Them to his homeland. After his disappearance, Sri Radha-Madhava, whose service was dearer to him than life,
+were taken by the king of Jaipur and installed at a place called Ghati; They are served in Jaipur to this day.
+<!-- F54 -->
+
+He left this world on krishna-shashthi, the sixth day of the dark fortnight of the month of Pausha. In our calendar this
+is Madhava-masa, krishna-shashthi; in 2026 the day of his departure fell on 9 January, and in 2027 it falls on 28
+January.[^19] <!-- F55 -->
+
+## Mahaprabhu Relishes the “Gita-govinda”
+Jayadeva's song sounds in the “Charitamrita” from the Lord's early pastimes to the last. Already in Navadvipa, having
+defeated the digvijayi Keshava Kashmiri in debate, the young Nimai consoles the poet by saying that flaws are found even
+in the greatest:
+
+“Even in the poetry of Bhavabhuti, Jayadeva and Kalidasa faults appear.” (CC, Adi 16.101)
+
+Srila Bhaktisiddhanta in the “Anubhashya” on this verse refers the reader to his account of Jayadeva at Adi 13.42.
+<!-- F70 -->
+
+Verses of the “Gita-govinda” sound also in the Lord's conversation with Ramananda Raya on the bank of the Godavari. When
+Ramananda tells how Krishna left the rasa dance and sorrowfully searched for Radha alone, the “Charitamrita” quotes:
+
+“Placing Radha in His heart — the chain that bound His desire for the very essence of the rasa — Krishna, the enemy of
+Kamsa, left the other beauties of Vraja.” (CC, Madhya 8.105; “Gita-govinda” 3.1)
+
+It is followed by verse 3.2 — how Krishna, full of remorse, searched for Radha and sank down in despair in a grove on the
+bank of the Yamuna (Madhya 8.106); and the spring song of the “Gita-govinda” (1.11) — “Friend, see how Sri Hari sports in
+spring!” — the “Charitamrita” quotes in the same conversation (Madhya 8.143), and earlier still at Adi 4.224. Verse 3.1
+appears also at Adi 4.219; there Srila Bhaktisiddhanta explains that Krishna left the place of the rasa and went to
+Radha, the chief shelter of the rasa-lila. <!-- F66 -->
+
+When Svarupa Damodara came to Puri, the Lord gained one who knew His heart. Krishnadasa Kaviraja writes:
+
+“Anything contrary to the conclusions of bhakti, or any *rasabhasa* (a mere semblance of rasa), brought the Lord's heart
+no delight when He heard it. Therefore Svarupa Gosani examined everything, and only if it was pure did he let the Lord
+hear it. With the songs of Vidyapati and Chandidasa and the ‘Sri Gita-govinda’ — these three — he delighted the Lord.”
+(CC, Madhya 10.113–115)
+
+Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” calls the “Sri Gita-govinda” the famous poem of Sri Jayadeva, full
+of Sanskrit songs of krishna-rasa. <!-- F57 Q2 F72 -->
+
+Above all the Lord relished it in His last twelve years, when, steeped in the bhava of Radha, He lived in the Gambhira in
+unceasing separation from Krishna:
+
+“Just as Sri Radha raved on seeing Uddhava, so He raved in His divine madness night and day. With Ramananda and Svarupa
+He relished the songs of Vidyapati, Jayadeva and Chandidasa.” (CC, Adi 13.41–42) <!-- F56 Q1 -->
+
+“With Svarupa and Ramananda, Mahaprabhu night and day sang and heard the songs of Chandidasa and Vidyapati, Raya's drama,
+the ‘Karnamrita’ and the ‘Sri Gita-govinda’ in supreme bliss.” (CC, Madhya 2.77)
+
+In the “Anubhashya” on this verse Srila Bhaktisiddhanta explains that the “songs” here are the singing of verses of
+Chandidasa, Vidyapati, Ramananda, Bilvamangala and Jayadeva.[^20] <!-- F60 Q5 F72 -->
+
+Svarupa and Ramananda consoled the Lord in His separation:
+
+“Those two consoled the Lord: Svarupa sang songs, and Raya recited verses. With the verses and songs of the
+‘Krishna-karnamrita,’ of Vidyapati and of the ‘Sri Gita-govinda’ they gave the Lord joy.” (CC, Antya 15.26–27)
+<!-- F61 -->
+
+One night the feelings of the gopis who searched for Krishna on the night of the rasa dance awoke in the Lord, and
+Svarupa sang for Him a verse from the “Gita-govinda”:
+
+“My mind remembers Hari, who here in the rasa dance enjoyed His pastimes and His jests.” (CC, Antya 15.84;
+“Gita-govinda” 2.3)[^21] <!-- F62 -->
+
+So it was day after day:
+
+“Whatever feeling arose in the Lord, Svarupa Mahashaya would sing a song to suit it. And Raya Ramananda would recite
+verses suited to His feelings from Vidyapati, Chandidasa and the ‘Sri Gita-govinda.’” (CC, Antya 17.5–6)
+
+And on one such night, when the Lord, coming back to Himself for a moment after deep trance, asked, “Svarupa, sing
+something sweet,” Svarupa sang songs of Vidyapati and of the “Gita-govinda,” and they soothed Mahaprabhu's ears
+(Antya 17.62).[^22] <!-- F58 Q3 F59 Q4 -->
+
+A song of the “Gita-govinda” once nearly drew the Lord through a thorny thicket. Walking to the temple of Yameshvara, He
+heard a devadasi singing the “Gita-govinda” in the raga gurjari and, forgetting everything, ran towards the voice,
+unaware of the thorns piercing His body; His servant Govinda managed to hold Him back (Antya 13.78–88). Another time,
+roaming the Jagannatha-vallabha garden, the Lord had His associates sing the spring song of the “Gita-govinda,” “Lalita-lavanga-
+lata,” and danced to it (Antya 19.84). <!-- F67 F68 -->
+
+And at the very end of the “Charitamrita,” summing up the Lord's last pastimes, Krishnadasa Kaviraja writes:
+
+“Whatever verses of Jayadeva, of the ‘Bhagavata,’ of Ramananda Raya's drama and of the ‘Karnamrita’ suited each mood, He
+would recite in that mood and relish, absorbed in that emotion.” (CC, Antya 20.67–68) <!-- F69 -->
+
+## His Memory Among the Gaudiya Vaishnavas
+Later generations of devotees too honoured Jayadeva's poem. The commentary “Krishna-vallabha” on the
+“Krishna-karnamrita,” known under the name of Gopala Bhatta Gosvami, quotes the “Gita-govinda”; among the works of
+Prabodhananda Sarasvati a commentary on it is also named. In the “Pada-kalpataru” of Vaishnava Dasa there is a song,
+“Sri Jayadeva-vandana,” signed with the name “dasa Raghunatha”: it glorifies the merciful Jayadeva, beloved of Padmavati,
+whose form is the very rasa of love for Radha-Madhava, who composed the sweet “Gita-govinda” — his beautiful abode, the
+song says, is Kendubilva; and it glorifies the feet of Padmavati as well.[^23] <!-- F63 F64 F65 -->
+
+## Significance
+Jayadeva was not, in the narrow sense, a companion of the Lord in His earthly pastimes. He belongs to those pure
+devotees in whose hearts, in the words of Srila Bhaktivinoda Thakura, the bhava of Gaura lived even before His
+appearance; and the Lord, when He came, relished their songs as His own innermost treasure. His poem is not mundane
+lyric but a song of the transcendental separation and union of Radha and Govinda, and Mahaprabhu, Krishna Himself in the
+mood of Radha, listened to it in the Gambhira to His last days. <!-- F15 I5 -->
+
+Jayadeva's own life, as the traditions preserve it, is a lesson in bhakti. His name is explained as “the one who reveals
+Krishna”; the Lord completes his song and thatches the roof of his hut, because He is devoted to His devotee. Maimed, in
+a well, he repeats the name of Hari; he answers those who wronged him with honour; and the name of Krishna on his lips
+brings Padmavati back to life. But the “Gita-govinda,” as he himself warns and Srila Bhaktisiddhanta after him, opens
+only to those whose hearts long to remember Hari and to serve Sri Radha. <!-- I1 I2 I3 I4 -->
+
 [^1]: In “Gita-govinda” 1.3 the poet says: *shrinu… jayadeva-sarasvatim* — “listen to the speech of Jayadeva”;
     *sarasvati* here means “word, speech,” not a sannyasa title. “Gosvami” with his name is an honorific.
 [^2]: One of the biographies ascribes these words to the “Gita-govinda” (1.2); they are not in the poem itself — this is
@@ -266,3 +384,17 @@ temple for his Radha-Madhava above Keshi-ghata. <!-- F49 -->
 [^14]: The wet ink, the hair standing on end and the tears are mentioned by different biographies.
 [^15]: According to one of the biographies, it was Jagannatha who helped, and Madhava's hands were black from the straw.
 [^16]: According to one of the biographies, from Jayadeva himself; another does not say from whom.
+[^17]: One of the biographies writes that he left the world in Puri, on the word of Srila Bhaktisiddhanta; the same
+    biography lists all three opinions — Kendubilva, Puri or Vrindavana.
+[^18]: In one of the biographies, on the first day of the month of Magha; according to another, the mela is held on the
+    day of his departure, Pausha-sankranti. Magha-sankranti and Pausha-sankranti are one and the same passage of the Sun:
+    the end of Pausha and the beginning of Magha.
+[^19]: So in two biographies; according to the third, he departed on Pausha-sankranti. The month of Pausha, when months
+    are counted to the new moon, corresponds to the Vaishnava month of Madhava.
+[^20]: In one of the biographies this verse is given without a reference, in another with the reference “Madhya 2/11”;
+    it is Madhya 2.77.
+[^21]: In one of the biographies, “Gita-govinda” 2.2; the difference lies in the numbering of the verses.
+[^22]: In one of the biographies these verses are given with the references “Adi 17.5–6” and “Adi 17.62,” in another as
+    “2.17.5–6”: these are misprints; the verses are from the Antya-lila, 17.5–6 and 17.62.
+[^23]: The biography cites the song under this signature without claiming that it was composed by Raghunatha Dasa
+    Gosvami.
