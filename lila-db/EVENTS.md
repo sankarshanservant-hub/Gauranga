@@ -4226,6 +4226,7 @@
 - cc (A): Мадхья 14.61–65 — [61–65](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L499-L531) · `cc-2062`
 - gaura-krishnodaya (B): Сарга 12, 3–9 — [3–9](../gaura-krishnodaya/ru/12.md?plain=1#L11-L25) · `gkd-0114`
 - cc (A): Мадхья 16.48–54 — [48–54](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L385-L433) · `cc-2095`
+- mahabhava-prakasha (C): Гл. 1, 46–78 (продолжается) — [1.46–1.78](../mahabhava-prakasha/ru/01.md?plain=1#L58-L94) · `mpk-0004`
 - vaishnava-lilamrita (C): Гл. 5, 1–13 (продолжается) — [5.1–5.13](../vaishnava-lilamrita/ru/05.md?plain=1#L6-L18) · `vlm-0125`
 - advaita-prakasha (D): Гл. 19, 117–132 — [117. В день пр–132. Я — ничто](../advaita-prakash/19.md?plain=1#L121-L136) · `apr-0133`
 - advaita-prakasha (D): Гл. 18, 25–43, 55–57 — [25. Услышав о б–43. Услышав эт](../advaita-prakash/18.md?plain=1#L29-L47); [55. Видя велик–57. После праз](../advaita-prakash/18.md?plain=1#L59-L61) · `apr-0120`

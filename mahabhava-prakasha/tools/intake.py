@@ -12,7 +12,7 @@ for kind in kinds:
     cur = open(path, encoding='utf-8').read().rstrip('\n') + '\n' if exists else ''
     if kind in ('src', 'full'):
         if exists:
-            new = new[new.index('## Лист'):]
+            new = new[re.search(r'(?m)^## ', new).start():]
         out = cur + ('\n' if exists else '') + new
     else:
         new = re.sub(r'`MP-\d\d-\d+-\d+-full\.md`', f'`full/{cc}.md`', new)
