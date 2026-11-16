@@ -388,7 +388,7 @@
 | @bhagavan-acharya | Бхагаван Ачарья | Bhagavan Acharya | учёный преданный в Пури, брат Гопалы Бхаттачарьи; хромой («кханджа»; ГГД 74 — часть Гауры), родом из Халишахара (Кумарахатты) (B 947); у T 73 — «Кхандж Бхагаван дас» (`lila-db/review/tags-2026-10-24.md`, п. 8) |
 | @kamalananda | Камалананда | Kamalananda | бенгальский слуга Господа, позднее живший в Пури (ЧЧ Ади 10.149) |
 | @sita-lokanatha | Сита (мать Локанатхи) | Sita (Lokanatha's mother) | жена Падманабхи Чакраварти из Талкхари; не путать с @sita-thakurani |
-| @subuddhi-raya | Субуддхи Рай (Мишра), бывший правитель Гауды | Subuddhi Raya (Mishra), former ruler of Gauda | поселился в Матхуре (ЧЧ Мадхья 25); не путать с @subuddhi-mishra |
+| @subuddhi-raya | Субуддхи Рай (Мишра), бывший правитель Гауды | Subuddhi Raya (Mishra), former ruler of Gauda | поселился в Матхуре (ЧЧ Мадхья 25); не путать с @subuddhi-mishra · {карточка: происхождение — Гауда (столица Бенгалии)} |
 | @radha-vinoda-deity | Радха-винода — Божество Локанатхи Госвами | Radha-vinoda, Lokanatha Gosvami's Deity | Вриндаван (БР 2) |
 | @purushottama-datta | Пурушоттама Датта | Purushottama Datta | младший брат Кришнананды Датты, дядя Нароттамы; отец Сантоши |
 | @krishnadasa-kheturi | Кришнадас, старый брахман из Кхетури | Krishnadasa, the old brahmana of Kheturi | рассказывал юному Нароттаме о Господе и Его спутниках («Нароттама-виласа» 2); не путать с @krishnadasa-kaviraja |

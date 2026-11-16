@@ -4450,6 +4450,10 @@
     "type": "met"
    },
    {
+    "from": "@subuddhi-raya",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@sundarananda",
     "type": "companion"
    },
@@ -22726,6 +22730,10 @@
     "type": "other"
    },
    {
+    "from": "@subuddhi-raya",
+    "type": "companion"
+   },
+   {
     "from": "@sundarananda",
     "type": "other"
    },
@@ -23609,6 +23617,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "other"
+   },
+   {
+    "from": "@subuddhi-raya",
+    "type": "companion"
    },
    {
     "from": "@svarupa-damodara",
@@ -34003,6 +34015,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "ruler-of"
+   },
+   {
+    "from": "@subuddhi-raya",
+    "type": "servant"
    }
   ]
  },
@@ -34242,6 +34258,12 @@
    "ev-jayananda-named",
    "ev-govindananda-mental-bridge",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@subuddhi-raya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -36319,6 +36341,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   },
+   {
+    "from": "@subuddhi-raya",
+    "type": "other"
    }
   ]
  },
@@ -36557,6 +36583,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "sibling"
+   },
+   {
+    "from": "@subuddhi-raya",
+    "type": "companion"
    },
    {
     "from": "@vallabha-bhatta",
@@ -45882,6 +45912,10 @@
     "type": "other"
    },
    {
+    "from": "@subuddhi-raya",
+    "type": "other"
+   },
+   {
     "from": "@sundarananda",
     "type": "other"
    },
@@ -49146,6 +49180,80 @@
    "ev-rupa-first-vrindavana-stay",
    "ev-subuddhi-raya-holy-name",
    "ev-sanatana-mathura-vraja-places"
+  ],
+  "summary": "происхождение — Гауда (столица Бенгалии)",
+  "card": "parshadas/cards/subuddhi-raya.yaml",
+  "article": {
+   "ru": "parshadas/ru/subuddhi-raya.md",
+   "en": "parshadas/en/subuddhi-raya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "родители, место и время рождения неизвестны (B 936, T 152); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F3"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#vrindavana?",
+    "conf": "дата ухода неизвестна (B 936, T 153); остаток жизни провёл во Врадже (B 936 по скану, T 153); в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F3",
+     "F40"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "servant",
+    "who": "@gauda-sultan",
+    "note": "Хуссейн (Хусейн-хан Саияд) служил у него и надзирал за рытьём пруда; за оплошность бит плетью; став шахом Гауды, почитал его, но по настоянию жены велел влить ему в рот воду из сосуда мусульман (ЧЧ Мадхья 25.180–186). B 444 — обратное («Субуддхи служил у Хуссейн-шаха», ⚠3). Здесь type — роль Хуссейна по отношению к Субуддхи: слуга (потом — правитель)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@mahaprabhu",
+    "note": "В Каши выслушал его и, отвергнув праяшчитту смартов, велел идти во Вриндаван и совершать санкиртану имени Кришны (ЧЧ Мадхья 25.190–193); Субуддхи разминулся с Господом в Матхуре (25.195–196)."
+   },
+   {
+    "type": "companion",
+    "who": "@rupa-gosvami",
+    "note": "Встретил Рупу у Дхрува-гхата; знакомы ещё по Гауде (B 308); с любовью служил ему и показал двенадцать лесов (ЧЧ Мадхья 25.179, 25.200; ≠ B 935 — Рупа показал ему, ⚠2). = @rupa-gosvami F144–F147."
+   },
+   {
+    "type": "companion",
+    "who": "@anupama",
+    "note": "B 518 и «Гаура-кришнодая» 15.28: обход лесов Враджа вместе с Рупой и Анупамой."
+   },
+   {
+    "type": "companion",
+    "who": "@sanatana-gosvami",
+    "note": "В Матхуре рассказал Санатане о Рупе и Анупаме; окружил его любовью по прежним мирским отношениям — Санатана остался безучастен (ЧЧ Мадхья 25.204–206); T 168 — обход лесов вместе (⚠5); M 174 — встреча «во Вриндаване» (⚠4). = @sanatana-gosvami F247–F248."
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha",
+    "note": "НВ 1.87: Локанатха слышит, что во Вриндаван пришёл «Шри Субуддхи Мишра» (по нашей сноске — он; ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@subuddhi-mishra",
+    "note": "Тёзка, не путать: отец Джаянанды (ЧЧ Ади 10.111 по lila-db; Джаянанда). Субуддхи Мишра среди ориссцев Пури («Вайшнава-вандана») и ГГД 201 — не установлено, кто."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Подзаголовки «Анубхашьи» к ЧЧ Мадхья 25.179–206: предписание Господа «лучше всех других», намабхаса и чистое имя различны; Субуддхи показал Рупе двенадцать лесов."
+   }
   ],
   "related_by": [
    {
