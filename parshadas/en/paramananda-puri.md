@@ -376,8 +376,7 @@ their foreheads with sandal paste and adorning them with garlands:
 
 In the water-sports on the Narendra, says Vrindavana Dasa, “Nityananda, Gadadhara and Puri Gosvami began to fight one
 another in the water, but none of them was ever wholly defeated” (CB, Antya 8.122). Together with Nityananda and
-Gadadhara, Puri went with the Lord to meet Advaita and the Gaudiya devotees, and Vrindavana Dasa names him in the
-list of the Lord’s companions in Puri (CB, Antya 8.55–61). And at the festival in memory of Haridasa Thakura, “The Lord took His meal with Puri and Bharati, and then all the Vaishnavas ate.” (CC, Antya 11.87). <!-- F48 F59 -->
+Gadadhara, Puri went with the Lord to meet Advaita and the Gaudiya devotees (CB, Antya 8.55). And at the festival in memory of Haridasa Thakura, “The Lord took His meal with Puri and Bharati, and then all the Vaishnavas ate.” (CC, Antya 11.87). <!-- F48 F59 -->
 
 When the Gaudiya devotees had gone home after the Ratha-yatra, Sarvabhauma Bhattacharya asked the Lord and the ten
 sannyasis who were always with Him to take their meals at his house for a whole month: Paramananda Puri, Svarupa

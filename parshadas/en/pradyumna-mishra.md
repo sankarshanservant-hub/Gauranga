@@ -259,8 +259,8 @@ showed how high position in the world finds its meaning when it bows before a Va
     nothing of Shrihatta: Vrindavana Dasa names him among the associates “who took birth in Orissa” (CB, Antya
     3.183–184). We follow Srila Bhaktisiddhanta. One of the biographies, passing on the “Gaudiya-bhashya,” specifies “in
     central Orissa”; in our translation of the commentary it says simply “in Orissa.” He may have been confused here with a namesake — Pradyumna Mishra of
-    Shrihatta, to whom the Sanskrit “Sri Krishna-chaitanyodayavali,” with the Lord's genealogy, is ascribed; but this is
-    only a supposition.
+    Shrihatta, to whom the Sanskrit “Sri Krishna-chaitanyodayavali,” with the Lord's genealogy, is ascribed (the authenticity of this work is
+    disputed: it is held to be a late forgery); but this is only a supposition.
 [^2]: The Bengali verse has “this” (*iha*) twice: “This is Pradyumna Mishra, foremost among the Vaishnavas; this is
     Jagannatha's chief cook, named Dasa.” It can also be understood as speaking of two different people. So it is in
     Karnapura, from whom Kaviraja takes this passage: in the “Chaitanya-chandrodaya” Sarvabhauma separately presents to the

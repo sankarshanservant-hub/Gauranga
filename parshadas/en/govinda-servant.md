@@ -6,7 +6,7 @@ Among Sri Chaitanya's companions in Nilachala there was one who, day after day, 
 personal servant Govinda. He served the Lord His meals and kept His stores, massaged His feet, followed Him to
 Jagannatha with a vessel of water, slept at the door of His room, and through him the Lord spoke to the devotees and the
 devotees to the Lord. Krishnadasa Kaviraja calls him simply Govinda, Sri Govinda and “the servant Govinda”; Vrindavana
-Dasa calls him “the doorkeeper Govinda,” “the Lord's faithful doorkeeper” and “the supremely fortunate servant”;
+Dasa calls him “the doorkeeper Govinda,” “the fortunate (pious) Govinda, the Lord's doorkeeper” and “the supremely fortunate servant”;
 Govinda-deva in the “Gaura-krishnodaya” calls him “the servant of the best of Puris,” that is, of Ishvara Puri. The
 biographies also name him Sri Govinda Dasa and “the Lord's personal servant.”[^1] <!-- F1 -->
 
@@ -207,7 +207,7 @@ Govinda offers Advaita a garland; and, entrusting young Shankara, Damodara Pandi
 garlands from the Lord and His instruction at the Narendra lake (14.67–82). Govinda-deva also writes that Govinda and
 Damodara led the Bengalis along the road while Gopinatha Acharya pointed them out to the king one by one
 (“Gaura-krishnodaya” 11.37). And Vrindavana Dasa, among those who joyfully went out with the Lord to meet the Gaudiya
-devotees, names “Govinda, the Lord's faithful doorkeeper” (CB, Antya 8.56–61). <!-- F20 F60 -->
+devotees, names “the fortunate (pious) Govinda, the Lord's doorkeeper” (CB, Antya 8.56–61). <!-- F20 F60 -->
 
 He welcomed the Gaudiya devotees in other years too. In Karnapura's drama Govinda tells Svarupa that Shrikanta has come,
 having left the Gaudiya devotees halfway, and the Lord sends Govinda with a prasada garland to meet the Bengalis; at the
