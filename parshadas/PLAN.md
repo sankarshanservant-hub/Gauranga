@@ -159,7 +159,7 @@ B — вероятно, больше сотни).
 | @haridasa-thakura (059) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @chhota-haridasa (060) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @prakashananda-sarasvati (061) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @balabhadra-bhattacharya (062) | ✓ | в работе | — |
+| @balabhadra-bhattacharya (062) | ✓ | ✓ (PDF) | — |
 | @shikhi-mahiti (063) | ✓ | ✓ (PDF) | — |
 | @madhavi-devi (064) | ✓ | ✓ (PDF) | ✓ сплошная |
 
