@@ -23,8 +23,8 @@ number of sannyasis of Shankara's school — nearly a thousand, says one of the 
 
 In expounding the Vedas he denied the Lord's eternal form and called His body false, woven of maya — so the Lord Himself
 says of him in the “Chaitanya-bhagavata.” Srila Bhaktisiddhanta in his “Gaudiya-bhashya” calls him a teacher of
-Mayavada who in his commentaries on the Vedas “dissected” the transcendental body of the Lord. That is why Krishnadasa
-Kaviraja, speaking of the mercy that flooded the whole world, says:
+Mayavada who in his commentaries on the Vedas “dissected” the transcendental body of the Lord. Not without reason does
+Krishnadasa Kaviraja, speaking of the mercy that flooded the whole world, make one exception:
 
 “He made His devotees of all — even the mlecchas and others; only the Mayavadis of Kashi escaped.” (CC, Adi 7.39)
 
@@ -163,8 +163,8 @@ Adi-lila the brahmana is not named; in the second account (Madhya 25.7–15) he 
 had earlier heard Prakashananda's mockery.[^4] <!-- F21 I1 -->
 
 Next day the Lord came to the brahmana's house, where the sannyasis of Varanasi were already seated. He Himself had
-taken sannyasa in the Bharati branch, and so He regarded Prakashananda Sarasvati as belonging to the higher branch and
-called Himself one of the lower. Thus, as a Vaishnava sannyasi, He showed the dharma of *amani-manada*: to seek no honour
+taken sannyasa in the Bharati branch, and so He acknowledged the Sarasvati branch, to which Prakashananda belonged, as
+the higher, and called Himself a sannyasi of the lower. Thus, as a Vaishnava sannyasi, He showed the dharma of *amani-manada*: to seek no honour
 for oneself and to give honour to others.
 
 “Bowing to them all, He went to wash His feet, and when He had washed them He sat down in that very place. As He sat
@@ -344,7 +344,7 @@ Then Prakashananda sat down beside the Lord and began to ask:
 explained the primary meaning of the sutras, and hearing it, everyone's mind was filled with wonder. You are Ishvara,
 and all potencies are Yours. Please explain it to us briefly; I long to hear it.’” (CC, Madhya 25.86–88) <!-- F45 -->
 
-The Lord, calling Himself a tiny jiva, replied: the true meaning of the sutras is known only to their author, Vyasa,
+The Lord, once again in humility calling Himself a tiny jiva, replied: the true meaning of the sutras is known only to their author, Vyasa,
 and he himself explained them. The meaning of the pranava is unfolded in the Gayatri, and the Gayatri in the four
 principal verses of the “Bhagavatam,” which the Lord revealed to Brahma, Brahma to Narada and Narada to Vyasa;
 understanding that this was the meaning of his sutras, Vyasa made the “Bhagavatam” their commentary. In these verses
@@ -445,7 +445,7 @@ sang “Hari! Hari!” at the temple of Bindu-madhava, clasped the Lord's feet a
 Krishna's name.
 
 ## Significance
-Prakashananda's story is a story of mercy. He who taught that the Lord's body is created by maya, whose words angered
+Prakashananda's story is a story of mercy. He who taught that the Lord's body is created by maya, whose doctrine angered
 the Lord already in Navadvipa, who laughed at Him as a “conjurer” and “a sannyasi in name only,” in the end called Him
 Bhagavan Himself, clasped His feet and before his own disciples refuted Shankara's interpretations. This was not the
 victory of one debater over another. The Lord answered abuse with nothing but a smile; He accepted the invitation to
