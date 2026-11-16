@@ -4398,6 +4398,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghupati-upadhyaya",
+    "type": "met"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "other"
    },
@@ -19614,6 +19618,10 @@
     "type": "guru"
    },
    {
+    "from": "@raghupati-upadhyaya",
+    "type": "guru"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "guru"
    },
@@ -22692,6 +22700,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@raghupati-upadhyaya",
+    "type": "other"
    },
    {
     "from": "@ramananda-raya",
@@ -27721,6 +27733,10 @@
    },
    {
     "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
+    "from": "@raghupati-upadhyaya",
     "type": "other"
    },
    {
@@ -36531,6 +36547,10 @@
     "type": "other"
    },
    {
+    "from": "@raghupati-upadhyaya",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "sibling"
    },
@@ -44688,6 +44708,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@raghupati-upadhyaya",
+    "type": "host"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -45085,6 +45109,97 @@
   "events": [
    "ev-raghupati-upadhyaya"
   ],
+  "summary": "гуру — Мадхавендра Пури; происхождение — Трихут (Тирхут)",
+  "card": "parshadas/cards/raghupati-upadhyaya.yaml",
+  "article": {
+   "ru": "parshadas/ru/raghupati-upadhyaya.md",
+   "en": "parshadas/en/raghupati-upadhyaya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "elders"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#tirhut",
+    "conf": "место — Тирхут (Митхила), подокруг Ситамархи округа Дарбханга, Бихар (B 937; T 100; ЧЧ Мадхья 19.92 — «пандит из Тирухиты»); год и день не названы; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дней его явления нет",
+    "facts": [
+     "F2",
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "когда и где ушёл из этого мира — неизвестно; в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F7"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "шлоки в «Падьявали» Рупы Госвами: «Шрутим апаре…» (ЧЧ Мадхья 19.96; ВЧД — 126, B и изд. 1911 г. — 127), «Кам прати…» (19.98; 98 / 99); «Шьямам эва…» (19.106; ВЧД — 82, изд. 1911 г. — 83, авторство спорно, ⚠3); по изд. 1911 г. также № 88, 98, 302",
+    "facts": [
+     "F9",
+     "F10",
+     "F11",
+     "F12",
+     "F13"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "note": "Ученик (B 73, B 299, T 5; = @madhavendra-puri F111, F112, F129); B — по «Гаудия-бхашье» к ЧБ Ади 9.154, в тексте ЧБ и ЧЧ этого нет (⚠2)."
+   },
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "Встреча в Адаиле у Праяги (ЧЧ Мадхья 19.92–107): благословение «Всегда помни Кришну», две шлоки, беседа о высшем (Шьяма, Матхура, кайшора, изначальная раса), объятие; узнал в Господе Самого Кришну."
+   },
+   {
+    "type": "host",
+    "who": "@vallabha-bhatta",
+    "note": "Пришёл к Господу в доме Валлабхи (ЧЧ Мадхья 19.92); Валлабха изумился (19.108; B и T — «и все домочадцы», ⚠5). = @vallabha-bhatta F32."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Был при встрече в Адаиле (ЧЧ Мадхья 19.79–92); Рупа включил его стихи в «Падьявали» (B 937, B 383, T 100). = @rupa-gosvami F94, F543."
+   },
+   {
+    "type": "other",
+    "who": "@anupama",
+    "note": "Был при встрече в Адаиле (ЧЧ Мадхья 19.79–92)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "Тоже из Тирхута (T 100); оба — ученики Мадхавендры (T 5). = @paramananda-puri F3."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-deva-kavi",
+    "note": "«Гаура-кришнодая» 14.63: Рагхупати с Валлабхой ежедневно принимали Господа в Праяге до прихода Рупы (⚠4)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Гаудия-бхашья» к ЧБ Ади 9.154 (ученичество, по B 73); «Анубхашья» к ЧЧ Мадхья 19.92–107 (Тирхут; «немирская шрингара»; заголовок к 19.106; Господь сдержал чувства из-за Валлабхи)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 19.92–106: Тирхут — Митхила; его шлоки в «Падьявали»; пояснения к стихам, по которым идёт B."
+   }
+  ],
   "related_by": [
    {
     "from": "@madhavendra-puri",
@@ -45456,6 +45571,10 @@
     "type": "other"
    },
    {
+    "from": "@raghupati-upadhyaya",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -45712,6 +45831,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@raghupati-upadhyaya",
     "type": "other"
    },
    {
@@ -49886,6 +50009,10 @@
   "related_by": [
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@raghupati-upadhyaya",
     "type": "other"
    },
    {

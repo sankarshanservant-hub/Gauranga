@@ -19268,6 +19268,120 @@
   "note": "Камень Говардханы — как Гиридхари; ныне в храме Гокулананды на Радха-кунде (T; B 972)."
  },
  {
+  "from": "@raghupati-upadhyaya",
+  "type": "guru",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F8"
+  ],
+  "note": "Ученик (B 73, B 299, T 5; = @madhavendra-puri F111, F112, F129); B — по «Гаудия-бхашье» к ЧБ Ади 9.154, в тексте ЧБ и ЧЧ этого нет (⚠2)."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "met",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F14",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F24",
+   "F25",
+   "I1",
+   "I2"
+  ],
+  "events": [
+   "ev-raghupati-upadhyaya"
+  ],
+  "note": "Встреча в Адаиле у Праяги (ЧЧ Мадхья 19.92–107): благословение «Всегда помни Кришну», две шлоки, беседа о высшем (Шьяма, Матхура, кайшора, изначальная раса), объятие; узнал в Господе Самого Кришну."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "host",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F14",
+   "F23",
+   "F25"
+  ],
+  "events": [
+   "ev-raghupati-upadhyaya"
+  ],
+  "note": "Пришёл к Господу в доме Валлабхи (ЧЧ Мадхья 19.92); Валлабха изумился (19.108; B и T — «и все домочадцы», ⚠5). = @vallabha-bhatta F32."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F9",
+   "F12",
+   "F13",
+   "F14"
+  ],
+  "events": [
+   "ev-raghupati-upadhyaya"
+  ],
+  "note": "Был при встрече в Адаиле (ЧЧ Мадхья 19.79–92); Рупа включил его стихи в «Падьявали» (B 937, B 383, T 100). = @rupa-gosvami F94, F543."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "other",
+  "who": "@anupama",
+  "facts": [
+   "F14"
+  ],
+  "events": [
+   "ev-raghupati-upadhyaya"
+  ],
+  "note": "Был при встрече в Адаиле (ЧЧ Мадхья 19.79–92)."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F5"
+  ],
+  "note": "Тоже из Тирхута (T 100); оба — ученики Мадхавендры (T 5). = @paramananda-puri F3."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "other",
+  "who": "@govinda-deva-kavi",
+  "facts": [
+   "F15"
+  ],
+  "note": "«Гаура-кришнодая» 14.63: Рагхупати с Валлабхой ежедневно принимали Господа в Праяге до прихода Рупы (⚠4)."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F8",
+   "F12",
+   "F20",
+   "F25"
+  ],
+  "note": "«Гаудия-бхашья» к ЧБ Ади 9.154 (ученичество, по B 73); «Анубхашья» к ЧЧ Мадхья 19.92–107 (Тирхут; «немирская шрингара»; заголовок к 19.106; Господь сдержал чувства из-за Валлабхи)."
+ },
+ {
+  "from": "@raghupati-upadhyaya",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F2",
+   "F9",
+   "F24"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 19.92–106: Тирхут — Митхила; его шлоки в «Падьявали»; пояснения к стихам, по которым идёт B."
+ },
+ {
   "from": "@ramachandra-puri",
   "type": "guru",
   "who": "@madhavendra-puri",
