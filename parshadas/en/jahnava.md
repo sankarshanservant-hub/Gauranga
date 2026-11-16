@@ -131,8 +131,9 @@ Sri Mukunda and Vrindavana Dasa Thakura, as well as Srivasa's brothers Shripati 
 “Bhakti-ratnakara” (10.375–382) names separately among her companions Parameshvari Dasa, Kamalakara Pippalai, and
 Bhagavan Acharya with his son Raghunatha Acharya, and of her companions, Minaketana Ramadasa among them, it says that the
 mere sight of such Vaishnavas sanctifies the three worlds. Her disciples Jnanadasa and Manohara Dasa went with her, and, according to the
-“Prema-vilasa,” little Kanu Thakura as well. At Katwa she was joined by Kala Krishnadasa of Akai-hata
-(“Bhakti-ratnakara” 10.409). <!-- F51 F52 Q6 -->
+“Prema-vilasa,” little Kanu Thakura as well. Krishnadasa of Akai-hat, too, came with them all to Kantaka-nagara
+(Katwa) (“Bhakti-ratnakara” 10.409); one of the biographies sees in him Kala Krishnadasa, one of the twelve gopalas, but
+the original sources do not give the name “Kala,” and the identity is not proven. <!-- F51 F52 Q6 -->
 
 First the travellers came to Ambika-Kalna, to the house of Gauridasa Pandita. His disciple Hridaya Chaitanya welcomed
 everyone warmly, and Jahnava cooked an offering for the Deities of Gaura and Nityananda with her own hands. After a night

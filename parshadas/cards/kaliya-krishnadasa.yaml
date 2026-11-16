@@ -56,7 +56,7 @@ events:
   - ev-nityananda-preaching-gauda
   - ev-associates-of-nityananda-wonders
   - ev-tattva-bhakti-kalpataru
-events_note: "vv-0061 (ev-nityananda-preaching-gauda), vv-0073 (ev-associates-of-nityananda-wonders), cc-0157 (ev-tattva-bhakti-kalpataru, ЧЧ Ади 11.37). Не включены: ev-jahnava-kheturi (нвл — «Кришнадас из Акаихата», @krishnadasa-akaihat; тождество спорно, ⚠6). Не отмечены в lila-db: ЧБ Антья 5.740, Лочан Сутра 8.627, ванданы ч. 1, 101 и ч. 2, 95, Джаянанда (крокодил) — сообщить ведущему базы."
+events_note: "vv-0061 (ev-nityananda-preaching-gauda), vv-0073 (ev-associates-of-nityananda-wonders), cc-0157 (ev-tattva-bhakti-kalpataru, ЧЧ Ади 11.37). Не включены: ev-jahnava-kheturi (нвл — «Кришнадас из Акаихата», @krishnadasa-akaihat; тождество спорно, ⚠6). Отмечены при сплошной проверке (2026-11-16): ЧБ Антья 5.740 — cb-3089 (без события; был тег тёзки @kala-krishnadasa), Лочан Сутра 8.627 — lcm-0029 (без события), Джаянанда (крокодил) — jcm-0102 (ev-nityananda-marriage: запись о браке Нитьянанды и чудесах Его спутников; в events не включено — к его жизни событие не относится). Ванданы ч. 1, 101 и ч. 2, 95 — записей нет (перечни имён). @krishnadasa-akaihat — в nvl-0041, nvl-0042, nvl-0048, pvl-0151."
 teachings_given: []
 teachings_received: []
 works: []
