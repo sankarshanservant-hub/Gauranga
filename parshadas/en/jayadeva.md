@@ -9,7 +9,7 @@ to the poet. For this reason the biographies of the Lord's associates begin with
 Jayadeva Gosvami, and under this name the Vaishnava calendar of Sri Chaitanya Saraswat Math observes the day of his
 departure. One of the biographies, in the words of the poem itself, also calls him “Jayadeva Sarasvati.”[^1] <!-- F1 -->
 
-One of the biographies opens its account with an interpretation of the name itself. *Jaya* here is He who surpasses
+The same biography opens its account with an interpretation of the name itself. *Jaya* here is He who surpasses
 all, Sri Krishna, and *deva* comes from the verb “to reveal, to illumine”: Jayadeva is the one who by the power of his
 bhakti reveals Krishna to the world.[^2] So a poet-devotee discloses the Lord to others: his song leads to Krishna.
 <!-- F2 I1 -->
