@@ -21,7 +21,7 @@ Datta — the twelve cowherd boys of Vraja.” <!-- F2 F3 F5 Q1 -->
 
 The biographies explain how this came about. Krishna, taking the mood and radiance of Radha, appeared as Mahaprabhu in
 Mayapur, in the house of Jagannatha Mishra and Shachi, and with Him, to make His pastimes complete, came His
-associates. So too Baladeva, Krishna's first expansion, took the mood of a devotee and appeared as Nityananda in
+associates. So too Baladeva, Krishna's first expansion, assumed a devotee's mood and descended as Nityananda in
 Ekachakra (Birbhum), and with Him appeared His associates. Nityananda is Baladeva Himself, Shesha, Maha-Sankarshana,
 the source of the three purusha-avataras; Uddharana is His eternal friend and servant from Vraja. The nature of the
 Lord and His devotees cannot be grasped by worldly senses: it is revealed to a surrendered heart — and, as one of the
@@ -34,10 +34,10 @@ the Sri Chaitanya Saraswat Math. The biographies name his father as Sri Kara Dat
 Bhadravati.[^2] The family belonged to the suvarna-vaniks, the dealers in gold; the “Chaitanya-bhagavata” speaks of it
 simply as “the merchant community.” <!-- F6 F7 F8 -->
 
-The family in which a Vaishnava appears is sanctified, the land of his birth is blessed, and his mother attains the
+Where a Vaishnava appears, his family is sanctified, the land of his birth is blessed, and his mother attains the
 goal of life. So Uddharana's appearance sanctified his whole community. By the social measure of the time the
 suvarna-vaniks were counted a low caste. Srila Bhaktisiddhanta Sarasvati writes in the “Gaudiya-bhashya” that Uddharana,
-born in that milieu, became a vessel of Nityananda's mercy, and that, following his example, people born in “low”
+born in that milieu, became a vessel of Nityananda's mercy, and that, following his lead, those born in “low”
 castes were able to give up pride in their birth; other trading communities too — the Kaloaras and Bhangaris — turned
 to the devotees of Hari. One of the biographies, following the “Gaudiya-bhashya,” speaks severely of the community's
 former state — want of learning, want of good sense, and a heart given over to thoughts of gold — and says that
@@ -57,8 +57,8 @@ Whoever worships is great; the non-devotee is low and contemptible. In the worsh
 of caste, family and the like.” (CC, Antya 4.66–67)
 
 And the “Padma Purana” calls it a hellish vision to see caste in a Vaishnava — as it is to see stone in the Deity, or an
-ordinary man in the guru. Subahu merely took birth in a family of gold merchants; he is an eternal associate of the
-Lord, beyond the modes of material nature. <!-- F15 Q6 -->
+ordinary man in the guru. Subahu merely took birth in a family of gold merchants; he is the Lord's eternal associate,
+beyond the modes of material nature. <!-- F15 Q6 -->
 
 ## Diwan of the Raja of Naihati
 Uddharana was very wealthy. Outwardly he served as diwan — steward — to the raja of the village of Naihati, a mile and a
@@ -103,7 +103,7 @@ vaniks. Elsewhere the same book says that Nityananda made Uddharana His own; int
 with a joyful heart and, living near Him at the Triveni, witnessed many of His pastimes (BR 12.3722–3752; 8.168–186, 199).
 <!-- F24 F25 -->
 
-Conquered by his pure love, Nityananda ate with great pleasure the rice, vegetables and other dishes that Uddharana
+Conquered by his pure love, Nityananda ate with great pleasure the rice, the vegetables and the other dishes that Uddharana
 cooked for Him.[^4] The “Nityananda-vamsha-vistara” tells how the brahmanas once gathered and half in jest asked Him how Sripada's meal
 was prepared each day — did He cook Himself, or did He have a brahmana cook:
 
@@ -198,16 +198,16 @@ Vasudevpur, Banshberia, Krishnapur, Nityanandapur, Shivpur, Shankhanagar and Sap
 In Uddharana's shripata is the six-armed (*shadbhuja*) form of Mahaprabhu, whom he installed and served with his own
 hands. To His right is Nityananda, to His left Gadadhara; on another throne are Radha-Govinda and a shalagrama. Beneath
 the base of the throne an image (*alekhya*) of Uddharana himself is worshipped. Before the present temple stands a large
-natmandir; on the stone tablets of its pillars are carved the names of those who built the temple and renewed the
-shripata. In front of the natmandir is a cool, shady madhavi bower, and on either side of it stand two pillars: on one
+natmandir; on the stone tablets of its pillars are carved the names of the temple's builders and of those who renewed
+the shripata. In front of the natmandir is a madhavi bower, cool and shady, and on either side of it stand two pillars: on one
 Uddharana is depicted, on the stone tablet of the other are the four taraka-brahma-namas, the holy names of the four
 yugas. <!-- F36 F37 -->
 
-The shripata has known neglect as well. Nitai Dasa, a babaji who lived on alms, obtained twelve bighas of land for it in
+The shripata has known neglect as well. Nitai Dasa, a babaji who lived on alms, secured for it twelve bighas of land in
 the Bengali year 1283 (1876);[^10] afterwards, through the care of some devotees, the service went on but fell into
-disorder. In 1306 (1899), by the joint efforts of Balarama Mallik, a former sub-judge of Hooghly, and many well-to-do
-suvarna-vaniks of Calcutta, order was partly restored. More than half a century ago the wooden shri-murti of Uddharana
-stood in a dilapidated hut; today it is no longer in the shripata — his image is worshipped instead. The former murti is
+disorder. In 1306 (1899), by the joint efforts of Balarama Mallik, once a sub-judge in Hooghly, and many well-to-do
+suvarna-vaniks of Calcutta, order was partly restored. Over fifty years before, Uddharana's wooden shri-murti was kept
+in a tumbledown hut; today it is no longer in the shripata — his image is worshipped instead. The former murti is
 kept in the house of Sri Madana Datta in Bali (Hooghly), and the shalagrama whom the Thakura served is in the same
 village, in the house of Shrinatha Datta.[^11] One of the biographies calls for the buildings of the shripata to be
 renewed, so that people may come there again: learning of Uddharana's glory and seeking his mercy, they will attain the
