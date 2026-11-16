@@ -39,8 +39,8 @@ of Krishna descended into Gaura's pastimes together with the Lord, and his natur
 <!-- F2 Q4 -->
 
 With the verse about him Karnapura opens his list of the friends of Vraja who descended with Nityananda
-(“Gaura-ganoddesha-dipika” 126–133). These companions of Nityananda are the twelve gopalas, and in the biographies'
-lists Abhirama always stands first; the “Anubhashya” on CC, Adi 11.13 calls him just so: “Thakura Abhirama (gopala 1).”
+(“Gaura-ganoddesha-dipika” 126–133). These companions of Nityananda are the twelve gopalas, and in the lists of one
+of the biographies Abhirama stands first; the “Anubhashya” on CC, Adi 11.13 calls him just so: “Thakura Abhirama (gopala 1).”
 <!-- F3 -->
 
 Krishnadasa Kaviraja counts him both as a branch of Sri Chaitanya's tree (Adi 10.116) and as one of the chief branches
@@ -107,8 +107,8 @@ places, and for nine hours he lost all awareness of the outer world.” (CB, Ant
 Later, listing Nityananda's companions, Vrindavana Dasa speaks of him again in particular:
 
 “His chief companion was Ramadasa Mahashaya, who always spoke in the mood of the Lord. Not everyone could grasp the
-meaning of his words. Nityananda always dwelt in his heart. Of all the devotees Ramadasa was the most deeply possessed
-by love; Krishna Himself stayed in his body for three months.” (CB, Antya 5.722–724)
+meaning of his words. Nityananda always dwelt in his heart. Of all the devotees Ramadasa was the most deeply absorbed
+in love; Krishna Himself stayed in his body for three months.” (CB, Antya 5.722–724)
 
 This does not mean that the devotee became God. The Lord manifests Himself in the heart and body of His eternal servant,
 investing him with His power (*avesha*); the servant remains a servant, and that is why his words spoken “in the mood
@@ -117,7 +117,8 @@ of the Lord” are not understood by everyone. <!-- F11 -->
 With Nityananda and Gadadhara Dasa, Abhirama came to Panihati, and first of all they visited the house of Raghava
 Pandita; the kirtana begun there filled the whole world with bliss. Murari Gupta relates that in Panihati Nityananda's
 friends — “Sri Rama, Sundara, Gauridasa” — appeared as cowherd boys, with flutes and horns; “Sri Rama” here is
-apparently he. <!-- F15 -->
+apparently he. According to Murari, from Badagachhi too, from Krishnadasa's house, Nityananda returned to Navadvipa
+“surrounded by Ramadasa and others” (“Krishna-chaitanya-charita” 4.23.22); this too is probably Abhirama. <!-- F15 F61 -->
 
 There too, in Panihati, he was at the festival of flat rice and yogurt (chida-dadhi) that Raghunatha Dasa held for
 Nityananda. On the raised platform with Nityananda sat His companions:
@@ -140,8 +141,8 @@ The old brahmana of Khanakula describes him to Srinivasa thus:
 “The power of Abhirama Gosvami is formidable: seeing him, even invincible unbelievers tremble. He is ever mad with
 absorption in Nityananda; his charming mercy is known throughout the world.” (“Bhakti-ratnakara” 4.103–104)
 
-The “Anubhashya” quotes these verses too. The biographies retell them so: the blasphemers of Vaishnavas feared him and
-fled at the mere sight of him, while he, invested with Nityananda's power, was always in ecstasy and merciful to all
+The “Anubhashya” quotes these verses too. The biographies retell them so: the godless and the blasphemers feared him and
+fled at the mere sight of him, while he, invested with Nityananda's power, lived ever in rapture and showed mercy to all
 the fallen. <!-- F17 Q5 -->
 
 He is formidable only to godlessness. The power before which the godless tremble is Nityananda's power in him:
@@ -170,7 +171,7 @@ Abhirama longed to serve the Deity, and the Lord Himself came to him. The “Bha
 Abhirama found the incomparable Deity of Gopinatha.” (“Bhakti-ratnakara” 4.114–115)
 
 The news spread everywhere; people came running for darshan and, the moment they saw Gopinatha, forgot their grief. The
-pond where Gopinatha appeared became famous as Rama-kunda: bathing in it and drinking its water, all were overwhelmed
+pond where Gopinatha appeared came to be known far and wide as Rama-kunda: bathing in it and drinking its water, all were overwhelmed
 with bliss, and there was no counting the pilgrims (4.116–118). Srila Bhaktisiddhanta in the “Anubhashya” records the
 tradition that the Deity appeared when a pond was being dug in front of the temple, and that the pond has been called
 Abhirama-kunda ever since. One of the biographies tells that Gopinatha said to Abhirama in a dream that He wished to
@@ -188,7 +189,7 @@ Howrah–Amta railway to Champadanga station, and from there about ten miles sou
 Hat; in the rains the road floods, and then one goes by steamer from Kolaghat to Ranichak, and from there seven and a
 half miles north. <!-- F24 -->
 
-At the temple gate grows a bakula tree, and the spot is called Siddha-bakula-kunja: it is said that on coming to the
+At the temple gate grows a bakula tree, and the spot is called Siddha-bakula-kunja; the story goes that on coming to the
 village Abhirama Thakura first sat down just here; according to another biography, he loved to sit under this tree.
 <!-- F25 -->
 
@@ -210,7 +211,7 @@ Vaishakha 1308” (about 1813 and 1901); its builder is said to be Pundarikaksha
 1263 and restored it themselves in 1320 (about 1856–1857 and 1913–1914).[^6] Directly north of the Gopinatha temple
 stands the ancient temple of Sri Radha-vallabha Jiu, founded by local kayasthas of the Chaudhuri family. <!-- F28 F29 -->
 
-The temple servants told Srila Bhaktisiddhanta that since the days of Abhirama Thakura the Deity has been offered
+According to the servants, as the “Anubhashya” reports them, since the days of Abhirama Thakura the Deity has been offered
 parboiled rice (*siddha-chaul*) and even puffed rice (*muri*); when the Thakura is laid down to rest, the temple doors
 are not closed, and everything is done in full view of all; the early-morning mangala-arati was no longer performed in
 his time. The servants then numbered thirty-six or thirty-seven families. <!-- F30 F31 -->
@@ -219,7 +220,7 @@ his time. The servants then numbered thirty-six or thirty-seven families. <!-- F
 Abhirama had a whip called “Sri Jayamangala.” Tradition says that whoever Abhirama Thakura touched with it awoke to love
 for Krishna.[^7] The touch of this whip is not a punishment but a gift of prema. <!-- F34 -->
 
-The whip is still kept in the temple, in an iron chest locked with the keys of all the servants together. It is two
+It is said that the whip is still kept in the temple, in an iron chest locked with the keys of all the servants together. It is two
 cubits long and wound with gold thread (*jari*). At the festival it is brought out only if all the servants agree.
 <!-- F35 -->
 
@@ -231,7 +232,7 @@ When young Srinivasa, not yet an Acharya, came to Khardaha, Jahnava and Vasudha 
 Abhirama Gopala” (“Bhakti-ratnakara” 4.93). According to the “Prema-vilasa,” Jahnava sent Ishana with him and a letter:
 she asked Abhirama to touch the youth three times with his whip. <!-- F40 -->
 
-On the way, at Virloka, an old brahmana of Khanakula joined Srinivasa. Learning who he was, the brahmana embraced him in
+On the way to Virloka an old brahmana of Khanakula joined Srinivasa. Learning who he was, the brahmana embraced him in
 tears and spoke at length about Abhirama: “Sri Thakura Abhirama is an abode of virtues; he will show you great mercy”
 (4.102); “Sri Thakura Abhirama is the embodiment of prema; all worship him — who does not proclaim his fame?” (4.111).
 At the end he warned: “Only the fortunate understand this inscrutable conduct; you will see it yourself, son — be
@@ -259,7 +260,7 @@ mercy must be measured to it. Then both laid their hands on Srinivasa's head; he
 him and bathed him in their tears.[^9] <!-- F43 -->
 
 Srinivasa was filled with love for Krishna. Abhirama grew very fond of him and blessed him generously; Srinivasa did not
-take initiation from him, but became like a disciple to him, and the “Anubhashya,” listing Abhirama's disciples, calls
+take initiation from him, but became as good as a disciple to him, and the “Anubhashya,” listing Abhirama's disciples, calls
 him “half a disciple.” Both Abhirama and Malini entrusted him to the feet of Radha-Gopinatha and told him to go to
 Vrindavana, and in all the people of Krishnanagara and Khanakula love grew at the sight of Srinivasa (4.146–148).
 According to one of the biographies, Srinivasa humbly asked for his blessing to return to Shrikhanda. <!-- F44 -->
@@ -280,7 +281,7 @@ Himself, by His Deity and by His eternal associates; a stone that could not bear
 So, tradition holds, the Lord revealed to the world the divinity of Nityananda's children. Abhirama's obeisance was
 received by His son Virabhadra (Virachandra) Gosvami and His daughter Sri Gangamata Gosvamini (Ganga-devi), and this
 confirmed that They were no ordinary persons. This is told also in two compositions of Abhirama himself, the “Sri
-Virabhadrashtaka” and the “Ganga-stotra,” eight stanzas in honour of each of Them. Later books, the “Prema-vilasa” and
+Virabhadrashtaka” and the “Ganga-stotra.” Later books, the “Prema-vilasa” and
 the “Nityananda-vamsha-vistara,” tell more: after Abhirama's obeisances seven sons of Nityananda did not remain in this
 world, while Vira and Ganga, portions of the Lord Himself, remained; Abhirama prostrated himself three times before the
 infant Virachandra, the child smiled, and Abhirama recognized in Him Gauranga. The “Vaishnava-vandana” says that the
@@ -297,10 +298,13 @@ And Raghunandana of Shrikhanda it was Abhirama who revealed to the world. Lochan
 “He to whom Chaitanya said, ‘You are My life,’ whom Abhirama Gosvami revealed, making known that he was the avatara of
 Madana — and all saw him so on Chaitanya's lap.” (Lochana Dasa, “Chaitanya-mangala,” Sutra-khanda 651–652)
 
+Madana here is not the worldly god of love: the “Gaura-ganoddesha-dipika” (70) calls Raghunandana Pradyumna, an eternal
+associate of Krishna.
+
 In a song of Uddhava Dasa, Abhirama comes to Shrikhanda in search of Raghunandana. The boy's father, Mukunda Dasa,
 afraid of his obeisance, hides his son; but Raghunandana meets Abhirama at Baradangi, withstands his mighty obeisance,
 and together they sing the names of Gaura and Nityananda and dance. From that dance, tradition says, an ankle bell flew
-from Raghunandana's foot and fell into a pond at Akai-hata — Nupura-kunda.[^11] And the “Nityananda-vamsha-vistara”
+from Raghunandana's foot and dropped into a pond at Akai-hata — Nupura-kunda.[^11] And the “Nityananda-vamsha-vistara”
 says that the Deity Madana-mohana is bent more than usual — “from Abhirama's obeisance.” <!-- F39 Q9 -->
 
 Both the obeisance and the whip of Abhirama reveal the truth. The obeisance shows who is truly Vishnu or His eternal
@@ -370,7 +374,7 @@ once in Vrindavana Nityananda the avadhuta called, “My brother, Shridama!” �
 he did not recognize the shaven-headed Balarama, and then Nityananda showed His white form with plough and club and told
 him to “grow up” — so he became Abhirama Gopala. This is a late image of the meeting of eternal friends, not a tale of transformation: Shridama is eternally the friend of Krishna and Balarama and only appeared in a new form for Gaura's pastimes. According to the
 “Nityananda-vamsha-vistara” and the “Prema-vilasa,” when young Virabhadra secretly set off by boat to Advaita for a
-mantra, Jahnava sent Abhirama to bring him back; Abhirama threw his flute and smashed the boat, and Virabhadra received
+mantra, Jahnava sent Abhirama to bring Him back; Abhirama threw his flute and smashed the boat, and Virabhadra received
 initiation from Jahnava. The same “Nityananda-vamsha-vistara” says that in Nilachala Abhirama introduced Sarvabhauma and
 the Lord's associates to Virachandra, though chronologically this is doubtful. Jayananda writes that after the Lord's
 sannyasa Nityananda left Navadvipa with Ramadasa, Parameshvara and Sundarananda, and that when news came of the Lord's
@@ -400,13 +404,15 @@ Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day
     according to the headings of the “Anubhashya,” another person: Abhirama is named in verses 10.116 and 10.118. And
     the Shridama of Krishna-lila of whom the books speak is Krishna's eternal friend himself, and not in every case
     Abhirama.
-[^2]: That the Ramadasa of the “Chaitanya-bhagavata” is Abhirama is the tradition; so too Srila Bhaktisiddhanta
-    understands him in the “Anubhashya” on CC, Antya 6.61.
+[^2]: That the Ramadasa of the “Chaitanya-bhagavata” is Abhirama is the tradition. Srila Bhaktisiddhanta, in the
+    “Anubhashya” on CC, Antya 6.61, names the Ramadasa of the “Charitamrita” Abhirama Thakura — among the same
+    companions of Nityananda.
 [^3]: In the “Charitamrita” (Adi 10.116, 11.16) the log is *sholasanger kashtha*, “what sixteen men carry”; an earlier Russian translation of the “Charitamrita” and one of the biographies understood it as “a bamboo with sixteen joints.” The
     “Gaura-ganoddesha-dipika” (126) speaks of thirty-two bearers, the “Bhakti-ratnakara” (4.123) of a log that even a
     hundred men could not move. One of the biographies ascribes the figure “thirty-two” to the “Charitamrita” — it is
     the figure of the “Gaura-ganoddesha-dipika”; another holds that all three sources speak of one and the same log. We
-    follow the “Charitamrita.”
+    follow the “Charitamrita.” The Bengali verse Adi 10.116 itself calls Ramadasa a “treasury of loving friendship”
+    (*sakhya-prema-rashi*); the serial number of the branch is not in it but comes from the heading of the edition.
 [^4]: One of the biographies writes that Ramadasa and Gadadhara Dasa stayed with Mahaprabhu. According to the
     “Charitamrita” (Adi 11.13–14), they lived at Nityananda's side and were sent with Him to Gauda.
 [^5]: One of the biographies, citing the “Bhakti-ratnakara,” adds that the devotees headed by Abhirama bathed in the kunda
@@ -422,8 +428,9 @@ Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day
     “Anuragavalli,” five gandas of cowries and four people.
 [^9]: The biographies give Malini's words differently: “restrain yourself, the boy will lose his composure,” “he will
     not bear the working of divine love,” “touch him again and he will faint”; one of them even writes that Malini was
-    “indignant” and “made” her husband stop. We follow the “Bhakti-ratnakara” (4.141–143): smiling, Malini reminds him
-    of Srinivasa's task — he was to bring the books of the Gosvamis to Gauda.
+    “indignant” and “made” her husband stop. We follow the “Bhakti-ratnakara” (4.141–143): Malini reminds him of
+    Srinivasa's task — he was to bring the books of the Gosvamis to Gauda; that she smiled as she did so, the
+    “Anubhashya” says.
 [^10]: What could withstand the obeisance the biographies say differently: anything except a Vishnu-shila or a Deity of
     Vishnu; except a Vishnu-shila or an installed Deity; except a shalagrama-shila. That by his obeisance he tested the
     genuineness of shilas, and that only a pure Vaishnava could bear it, only one biography writes; it alone also tells
@@ -431,7 +438,7 @@ Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day
 [^11]: According to one of the biographies (citing the “Gaudiya-vaishnava-abhidhana”), the meeting took place in
     Shrikhanda itself: Abhirama bowed to Raghunandana, embraced him and melted in love, and the bell flew from the foot
     of the dancing Raghunandana and fell four miles away, at Akai-hata. According to another, they danced in a devotee's
-    house at Baradangi, and the bell fell into a pond at Akai-hata.
+    house at Baradangi, and the bell dropped into a pond at Akai-hata.
 [^12]: One of the biographies names Abhirama among the companions with whom Jahnava went to Narottama's festival at
     Kheturi. But in the “Bhakti-ratnakara” (10.374) that list has “Minaketana Ramadasa,” and Abhirama is not there;
     the other biographies do not name him in that list either. We do not accept this report.
