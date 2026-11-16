@@ -427,7 +427,7 @@ adds: there is no evidence that after his deliverance Prakashananda received the
 dispute, with all its arguments, is examined in the article on Prabodhananda Sarasvati.[^11] <!-- F56 Q11 Q12 I6 -->
 
 Srila Bhaktisiddhanta's preface to the “Chaitanya-chandramrita” shows how different the two were. Prakashananda was an
-ekadandi of Shankara's school, a resident of Aryavarta, a *nirvishesha-vadi* — a preacher of a God without attributes —
+ekadandi of Shankara's school, a resident of Aryavarta, a *nirvisheshavadi* — a preacher of a God without attributes —
 an opponent of Vishnu and the Vaishnavas, who became a devotee only after his deliverance; Prabodhananda was a
 southerner, a tridandi of Ramanuja's school, an eternal associate of the Lord. The stern words about Mayavada in
 Prabodhananda's books are praise of the mercy of the Lord who saves the fallen: the conversion of Sarvabhauma and of
