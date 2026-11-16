@@ -438,8 +438,9 @@ Sanodiya brahmana became His companion in His circuit of the twelve forests of V
 considered how to lead the Lord on to Soro-kshetra and Prayaga. <!-- F126 F127 F279 Q18 -->
 
 Raghupati Upadhyaya of Tirhut, Mithila, a famous scholar, was also a disciple of Madhavendra (according to the
-“Gaudiya-bhashya” on CB, Adi 9.154); his verses are included in the “Padyavali” (99, 127). In Prayaga, in the presence
-of Vallabha Bhatta, he met the Lord, recognised Him as Krishna and spoke with Him about the degrees of excellence (CC,
+“Gaudiya-bhashya” on CB, Adi 9.154); his verses are included in the “Padyavali” (98 and 126 as numbered in the
+“Charitamrita”; 99 and 127 in the Bengali edition of 1911). In Adail, opposite Prayaga, in the house of Vallabha Bhatta,
+he met the Lord, recognised Him as Krishna and spoke with Him about the degrees of excellence (CC,
 Madhya 19.99–100). <!-- F129 -->
 
 Keshava Bharati, of the Bharati order going back to Shankara, head of the matha in Katwa — the one who gave sannyasa
