@@ -120,3 +120,145 @@ with him to Shantipura.” (Murari, 4.22.22)
 Nityananda came to Saptagrama once more, after His marriage. When He was staying with Vasudha and Jahnava at Advaita's
 house in Shantipura, Uddharana invited Him to his home; for several days a great sankirtana festival went on at
 Saptagrama, and from there Nityananda went on to Borogram.[^5] <!-- F44 F22 F23 -->
+
+## With Nityananda through Gauda
+The vandanas glorify Uddharana as the one who went round all the holy places together with Nityananda. Jiva writes:
+“I praise Uddharana Datta, who together with Nityananda wandered through all the holy places — pure of soul, seeking
+nothing for himself” (“Vaishnava-vandana,” pt. 1, 134). The “Bhakti-ratnakara” says the same: together with the Lord he
+went round all the holy places of Gauda and, wholly absorbed in Nityananda's qualities, served His feet without
+ceasing. <!-- F43 F25 -->
+
+Later and less reliable narratives also connect Uddharana with the arranging of Nityananda's marriage. According to the
+“Advaita-prakasha,” when Nityananda went to Gauda at Mahaprabhu's command, Uddharana was with Him, “a vessel of the
+Lord's mercy, who served his Lord day and night” (20.3). In Ambika Surya Dasa Pandita, struck by Nityananda's
+appearance, asked who He was; Uddharana answered that He was the best of brahmanas, foremost among masters of the
+shastras, by title Nyaya-chudamani, by name Nityananda (20.8–9); later Nityananda, seated on the bank of the Ganga,
+laughingly spoke with Uddharana about the highest truth (20.78). The “Nityananda-vamsha-vistara” relates that
+Nityananda went to Ambika taking only one servant, Uddharana, and sent him into the house of Surya Dasa (1.88–90). And
+in the “Prema-vilasa” Uddharana, coming to Nityananda at Dogachhia, in the house of Krishnadasa Hoda, reports that he
+proposed the marriage of Surya Dasa Sarakhela's two daughters to Him and that Surya Dasa flared up in anger
+(24.615–620). <!-- F45 -->
+
+One more tradition has come down to us from Uddharana's own lips: in the “Nityananda-vamsha-vistara” Virachandra retells
+the account he heard from him of how Nityananda awakened Shridama — Abhirama (10.55). <!-- F47 -->
+
+Uddharana was also present at the chida-dadhi festival at Panihati, where Raghunatha Dasa fed Nityananda and His
+associates. Having listed those who sat with Nityananda, Krishnadasa Kaviraja concludes:
+
+“Uddharana Datta and all His other intimate associates sat on the platform. Who could count them?” (CC, Antya 6.63)
+<!-- F42 -->
+
+Vrindavana Dasa, listing the servants of Nityananda, says of him:
+
+“Uddharana Datta is a great Vaishnava, generous; to him belongs the right to serve Nityananda.” (CB, Antya 5.743)[^6]
+<!-- F48 Q3 -->
+
+## Departure
+Uddharana Datta disappeared — left this world — in the year 1463 of the Shaka era (1541/42), on the thirteenth lunar
+day of the dark fortnight of the month of Pausha (krishna-trayodashi).[^7] In the calendar of the Sri Chaitanya Saraswat
+Math this is the krishna-trayodashi of the month of Narayana; it next falls on 5 January 2027, and on the same day the
+departure of Srila Mahesha Pandita is honoured. His samadhi is to the west of the temple at Uddharanpur; according to
+some, it is in Vrindavana — so Srila Bhaktisiddhanta, too, writes. <!-- F31 F30 -->
+
+Bereft of him, Saptagrama was orphaned. Narahari Chakravarti relates that when Narottama, on his journey through Gauda,
+entered Saptagrama full of love and asked where Uddharana's house was, someone answered in tears: “There it is. Burning
+in separation from the Lord, he disappeared not long ago, and without him Saptagrama has sunk into darkness” (BR
+8.200–205). The townspeople, whom Nityananda had once blessed with His mercy and who were all great devotees, felt as
+though they had lost their sight. Narottama came to his house, found the devotees in the anguish of separation from
+their guru, bowed down to them and went on to Khardaha. <!-- F33 -->
+
+Jahnava Devi, too, visited his shripata. Returning from her pilgrimage, she stopped at Uddharana's house; the vaniks of
+Saptagrama, young and old, came out to meet her, and she, remembering his life, could not contain her feelings. All
+night a sankirtana festival went on there, and in the morning she returned by boat to Khardaha. “Not everything can be
+told,” Narahari Chakravarti concludes, “in the accounts of Nityananda's beloved” (BR 11.773–779).[^8] <!-- F32 -->
+
+Uddharana's son was named Shrinivasa Datta Thakura — according to one of the biographies, his only son. When
+Virachandra set out for Vrindavana at his mother's command, the first place he visited was Uddharana's house in
+Saptagrama; Shrinivasa Datta received him with honour, and after staying there two days Virachandra went on to
+Shantipura. Descendants of the family still live in Hooghly, in Calcutta and in many other places. One of the
+biographies calls those born in this family undoubtedly fortunate and prays that, leaving aside a merely outward,
+family tie with Uddharana, they may gain a spiritual tie with him. <!-- F9 F34 F10 -->
+
+## The Shripata at Saptagrama
+Saptagrama stands on the river Sarasvati; in the fifteenth and sixteenth centuries it was the chief trading town of
+Bengal on the Ganga, and Triveni grew out of it. Formerly the name Saptagrama covered seven settlements together —
+Vasudevpur, Banshberia, Krishnapur, Nityanandapur, Shivpur, Shankhanagar and Saptagrama itself.[^9] <!-- F35 -->
+
+In Uddharana's shripata is the six-armed (*shadbhuja*) form of Mahaprabhu, whom he installed and served with his own
+hands. To His right is Nityananda, to His left Gadadhara; on another throne are Radha-Govinda and a shalagrama. Beneath
+the base of the throne an image (*alekhya*) of Uddharana himself is worshipped. Before the present temple stands a large
+natmandir; on the stone tablets of its pillars are carved the names of those who built the temple and renewed the
+shripata. In front of the natmandir is a cool, shady madhavi bower, and on either side of it stand two pillars: on one
+Uddharana is depicted, on the stone tablet of the other are the four taraka-brahma-namas, the holy names of the four
+yugas. <!-- F36 F37 -->
+
+The shripata has known neglect as well. Nitai Dasa, a babaji who lived on alms, obtained twelve bighas of land for it in
+the Bengali year 1283 (1876);[^10] afterwards, through the care of some devotees, the service went on but fell into
+disorder. In 1306 (1899), by the joint efforts of Balarama Mallik, a former sub-judge of Hooghly, and many well-to-do
+suvarna-vaniks of Calcutta, order was partly restored. More than half a century ago the wooden shri-murti of Uddharana
+stood in a dilapidated hut; today it is no longer in the shripata — his image is worshipped instead. The former murti is
+kept in the house of Sri Madana Datta in Bali (Hooghly), and the shalagrama whom the Thakura served is in the same
+village, in the house of Shrinatha Datta.[^11] One of the biographies calls for the buildings of the shripata to be
+renewed, so that people may come there again: learning of Uddharana's glory and seeking his mercy, they will attain the
+highest good. <!-- F38 F39 F40 -->
+
+Uddharana's temple is honoured by the whole suvarna-vanik community. As a child Srila A. C. Bhaktivedanta Swami
+Prabhupada visited it with his parents, and in 1967 he came here at the invitation of the temple's custodians together
+with his American disciples. <!-- F41 -->
+
+## Deliverer of the Most Fallen
+Nityananda, playing the part of a devotee, is by nature the Lord Himself, and His associates are embodiments of His
+merciful potency. He is the deliverer of the fallen, and His intimate associates are deliverers of the most fallen of
+the fallen (*parama-parama-patita-pavana*): Nityananda gives His mercy through His devotees. Krishnadasa Kaviraja says
+of Him:
+
+“Intoxicated with love, Nityananda is the avatara of mercy; He makes no distinction between the high and the low. He
+delivers whoever falls before Him; and so He delivered even a sinner like me.” (CC, Adi 5.208–209)
+
+Therefore whoever takes shelter of Uddharana will easily be freed from the round of births and will attain service at
+the feet of Nityananda and Gauranga; for sinners and offenders there is no other way than Nityananda's mercy.
+<!-- I1 Q5 -->
+
+One of the biographies leads up to this as follows: even the shadow of the holy name (*namabhasa*) destroys sins, but
+offences rob it of its fruit; Chaitanya and Nityananda take no account of offences, and one who takes shelter of Them in
+faith is quickly cleansed of them (CC, Adi 8.24, 8.31, as explained by Srila Bhaktivinoda Thakura). Whoever worships
+Uddharana, the dearest associate of Nityananda, serves him and pleases him, quickly obtains Nityananda's mercy, the
+right to love for Krishna and the fulfilment of life. So too Krishnadasa Kaviraja received Nityananda's mercy for taking
+the side of His servant Minaketana Ramadasa. Whoever tries to serve a devotee is given by that devotee the strength to
+serve. <!-- I4 I2 I5 -->
+
+[^1]: In the “Gopala-nirnaya” — the list of the twelve gopalas in the “Vaishnava-vandana” (pt. 4, 31–32) — Uddharana is
+    identified not with Subahu but with the one whom the “Bhagavata” calls Mahabala. We follow Kavi Karnapura (GGD 129).
+[^2]: Srila Bhaktisiddhanta, in the “Anubhashya” on CC, Adi 11.41, gives the names of Uddharana's parents and of his son
+    only as the opinion of some; the biographies give them as fact. Uddharana's mother should not be confused with
+    Bhadravati, the mother of Vasudha and Jahnava.
+[^3]: In the biographies this raja is called “Nairaja”; the “Anubhashya” has “the raja of the village of Naihati,” so
+    “Nairaja” is probably a shortening of “Nai(hati)-raja.” This is the Naihati near Katwa, not the place of the same
+    name on the Ganga near Calcutta.
+[^4]: One of the biographies quotes here a verse saying that the Lord eagerly eats what His devotee brings, but does not
+    even look at what non-devotees offer; it gives no source, and we have not found the verse in either the
+    “Chaitanya-charitamrita” or the “Chaitanya-bhagavata.”
+[^5]: The sources give the order of these journeys differently. According to the “Chaitanya-bhagavata” and the
+    “Bhakti-ratnakara,” Nityananda came to Saptagrama from Khardaha and went on from there to Shantipura, with no
+    connection to the marriage. According to one of the biographies, after the marriage He came from Shantipura to
+    Saptagrama at Uddharana's invitation and then went to Borogram; according to another, at Shachi's request He stayed
+    for a time in Navadvipa, then with Uddharana at Saptagrama, and afterwards settled for good in Khardaha.
+[^6]: The Bengali verse reads *uddhāraṇa-datta — mahā-vaiṣṇava udāra, nityānanda-sevāya yāṅhāra adhikāra*. The
+    “Anubhashya” refers this verse to the Antya-khanda, ch. 6 — by the chapter division of the Gaudiya Math edition.
+[^7]: One of the biographies converts Shaka 1463 as 1552, but this is a miscalculation: Shaka 1463 is 1541/42. The month
+    of departure is given as Pausha; according to another opinion, Agrahayana. The date itself is given by the
+    biographies without support from a primary source and fits poorly with the primary sources: according to the
+    “Bhakti-ratnakara” (8.202), Uddharana disappeared “not long” before Narottama came to Saptagrama, and Narottama
+    travelled through Gauda only after his return from Vrindavana, long after 1541; and according to one of the
+    biographies Virachandra, too, stayed with his son after Uddharana's departure. We give the date as tradition hands
+    it down.
+[^8]: According to one of the biographies, Jahnava came to Uddharana's house on her way back from Ambika; according to
+    another, on her way back from Vrindavana, before returning to Khardaha.
+[^9]: In one of the biographies the list of the seven settlements is slightly different: without Krishnapur and with
+    “Banshibati.”
+[^10]: In one of the biographies the year is printed as “1283 A.D.” — a misprint: Srila Bhaktisiddhanta in the
+    “Anubhashya” gives the Bengali year 1283 (about 1876). The year 1306 is likewise Bengali (about 1899).
+[^11]: According to the “Anubhashya,” the wooden murti of Uddharana was installed by the late Jagamohana Datta of Bali, a
+    member of his family; one of the biographies does not mention this, and another confuses the custodians, as though
+    Shrinatha Datta worshipped the murti together with the shalagrama. According to the “Anubhashya,” the murti is with
+    Madana Datta and the shalagrama with Shrinatha Datta, both in Bali.
