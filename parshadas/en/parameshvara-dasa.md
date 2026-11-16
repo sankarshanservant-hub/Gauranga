@@ -63,7 +63,7 @@ Nityananda's servants, speaks of the Vaishnava's very body; one may therefore sa
 him and in his Deity — the one does not contradict the other.[^2] <!-- F19 F20 Q3 -->
 
 ## With Nityananda to Gauda
-After returning to Nilachala, Mahaprabhu told Nityananda to go to Gauda and deliver the ignorant, the poor, and the
+After returning from Kanai-natashala to Nilachala, Mahaprabhu told Nityananda to go to Gauda and deliver the ignorant, the poor, and the
 fallen by giving them love of God. Nityananda set out at once with His companions:
 
 “With Nityananda went Ramadasa, Gadadhara Dasa, Raghunatha Vaidya, full of the sweetness of loving devotion,
@@ -104,7 +104,7 @@ companions of Nityananda who came with Him:
 Parameshvara dasa, Mahesha, Gauridasa, Krishnadasa Hoda…” (CC, Antya 6.61–62) <!-- F26 -->
 
 ## The Jackal Who Chanted the Name
-Parameshvari Dasa's name is bound up with a wonder that all the vandanas remember. Devakinandana writes in the
+Parameshvari Dasa's name is bound up with a wonder of which the vandanas sing. Devakinandana writes in the
 “Vaishnava-vandana”:
 
 “With attention I shall praise Parameshvara Dasa Thakura: at the place of sankirtana he made the jackals chant the
@@ -138,8 +138,8 @@ Srinivasa, and coming near, he learned who he was” (“Bhakti-ratnakara” 4.8
 
 While the news of Srinivasa's arrival spread through Khardaha and everyone hurried to see him, Parameshvari Dasa quickly
 took the guest to the Prabhu's house, and Srinivasa, bathed in tears, fell at the feet of the Ishvari, Jahnava; Vasudha,
-Jahnava, and Virabhadra were overjoyed to see him (“Bhakti-ratnakara” 4.86–88). Himself grieving in separation from
-Nityananda, Parameshvari Dasa rejoiced in everyone in whom he saw His mercy. <!-- F32 -->
+Jahnava, and Virabhadra were overjoyed to see him (“Bhakti-ratnakara” 4.86–88). So, himself grieving in separation
+from Nityananda, Parameshvari Dasa rejoiced at Srinivasa's coming. <!-- F32 -->
 
 Narottama too came to Khardaha. When he was taking leave to go to Nilachala, Parameshvari Dasa, deeply moved, told him
 the whole road in detail (“Bhakti-ratnakara” 8.219).[^7] <!-- F33 -->
