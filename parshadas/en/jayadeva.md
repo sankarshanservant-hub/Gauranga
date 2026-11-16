@@ -7,7 +7,7 @@ the last twelve years of His pastimes the Lord relished his “Sri Gita-govinda�
 Thakura preserved a tradition according to which Mahaprabhu, long before His own appearance, revealed His golden form
 to the poet. For this reason the biographies of the Lord's associates begin with him. He is called Sri Jayadeva and
 Jayadeva Gosvami, and under this name the Vaishnava calendar of Sri Chaitanya Saraswat Math observes the day of his
-departure. At the close of the poem he is also called “Jayadeva Sarasvati.”[^1] <!-- F1 -->
+departure. One of the biographies, in the words of the poem itself, also calls him “Jayadeva Sarasvati.”[^1] <!-- F1 -->
 
 One of the biographies opens its account with an interpretation of the name itself. *Jaya* here is He who surpasses
 all, Sri Krishna, and *deva* comes from the verb “to reveal, to illumine”: Jayadeva is the one who by the power of his
@@ -95,8 +95,8 @@ For whom this song is meant Jayadeva said himself, at its very beginning:
 and lovely words of Jayadeva.” (“Gita-govinda” 1.3)[^9]
 
 And again, in another song: “This most charming song Jayadeva utters in the service of Hari… Bow down to the merciful
-Hari.” The poem discloses the intimate pastimes of Sri Radha and Govinda, full of shringara-rasa — madhurya, the
-sweetness of conjugal love — and only the fortunate, who have sukriti, the piety of past lives, and a longing to
+Hari.” The poem discloses the intimate pastimes of Sri Radha and Govinda, full of shringara-rasa — madhurya-rasa,
+the highest sweetness of love for Krishna — and only the fortunate, who have sukriti, spiritual merit, and a longing to
 remember Hari, are fit to serve it. This is not mundane love poetry: shringara is the highest rasa of pure bhakti, and
 to measure it by a worldly standard is an offence. <!-- F20 F21 I4 Q8 -->
 
@@ -251,8 +251,8 @@ Providence the goddess Ganga herself flowed to Kendubilva and bestowed her mercy
 was there, in his homeland, that his pastimes as a sadhaka came to a close; in his memory a fair, the Jayadeva-mela, is
 held at Kendubilva every year to this day, on Magha-sankranti.[^18] <!-- F52 F53 -->
 
-But even those who say he ended his days in Kendubilva admit that his Deities did not go there: nowhere is it said that
-he brought Them to his homeland. After his disappearance, Sri Radha-Madhava, whose service was dearer to him than life,
+But if he did end his days in Kendubilva, it was without his Deities: nowhere is it said that he brought Them to his
+homeland. After his disappearance, Sri Radha-Madhava, whose service was dearer to him than life,
 were taken by the king of Jaipur and installed at a place called Ghati; They are served in Jaipur to this day.
 <!-- F54 -->
 
@@ -321,7 +321,7 @@ So it was day after day:
 “Whatever feeling arose in the Lord, Svarupa Mahashaya would sing a song to suit it. And Raya Ramananda would recite
 verses suited to His feelings from Vidyapati, Chandidasa and the ‘Sri Gita-govinda.’” (CC, Antya 17.5–6)
 
-And on one such night, when the Lord, coming back to Himself for a moment after deep trance, asked, “Svarupa, sing
+And on one such night, when the Lord, returning for a moment to outer consciousness, asked, “Svarupa, sing
 something sweet,” Svarupa sang songs of Vidyapati and of the “Gita-govinda,” and they soothed Mahaprabhu's ears
 (Antya 17.62).[^22] <!-- F58 Q3 F59 Q4 -->
 
@@ -341,8 +341,8 @@ Later generations of devotees too honoured Jayadeva's poem. The commentary “Kr
 “Krishna-karnamrita,” known under the name of Gopala Bhatta Gosvami, quotes the “Gita-govinda”; among the works of
 Prabodhananda Sarasvati a commentary on it is also named. In the “Pada-kalpataru” of Vaishnava Dasa there is a song,
 “Sri Jayadeva-vandana,” signed with the name “dasa Raghunatha”: it glorifies the merciful Jayadeva, beloved of Padmavati,
-whose form is the very rasa of love for Radha-Madhava, who composed the sweet “Gita-govinda” — his beautiful abode, the
-song says, is Kendubilva; and it glorifies the feet of Padmavati as well.[^23] <!-- F63 F64 F65 -->
+who composed the sweet “Gita-govinda” — he whose form is the very rasa of love for Radha-Madhava and whose beautiful
+abode is Kendubilva; and it glorifies the feet of Padmavati as well.[^23] <!-- F63 F64 F65 -->
 
 ## Significance
 Jayadeva was not, in the narrow sense, a companion of the Lord in His earthly pastimes. He belongs to those pure
@@ -359,8 +359,8 @@ only to those whose hearts long to remember Hari and to serve Sri Radha. <!-- I1
 
 [^1]: In “Gita-govinda” 1.3 the poet says: *shrinu… jayadeva-sarasvatim* — “listen to the speech of Jayadeva”;
     *sarasvati* here means “word, speech,” not a sannyasa title. “Gosvami” with his name is an honorific.
-[^2]: One of the biographies ascribes these words to the “Gita-govinda” (1.2); they are not in the poem itself — this is
-    an interpretation of the name; in verse 1.2 the poet merely names himself.
+[^2]: One of the biographies ascribes these words to the “Gita-govinda” (1.2); they are not in the poem itself: this is
+    an interpretation of the name, while in verse 1.2 the poet merely names himself.
 [^3]: One of the biographies also mentions the opinion that he lived in the fifteenth century AD, but this fits neither
     Lakshmana Sena nor the fact that Mahaprabhu (who appeared in 1486) relished his poem as one long known. Another
     biography writes that he was born at the beginning of the twelfth century AD and lived in Bengal some three hundred
