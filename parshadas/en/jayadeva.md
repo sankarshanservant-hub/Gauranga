@@ -123,6 +123,122 @@ Vaishnava poets in the “Padyavali,” he noted specially in its conclusion tha
 of Jayadeva, Vishvamangala and others: the “Gita-govinda” already circulated as a whole book. And the twenty-one songs of
 Ramananda Raya's “Jagannatha-vallabha-nataka” closely resemble the songs of the “Gita-govinda.” <!-- F23 F24 -->
 
+## Padmavati
+From his youth Jayadeva was detached from the world and had no thought of marriage; and yet, by the Lord's will, he had
+to accept the virtuous Padmavati as his wife. The tradition tells it thus. Her father, a brahmana, at Jagannatha's
+command brought his daughter to Jayadeva and asked him to take her as his wife. Jayadeva refused; the brahmana then left
+his daughter and went away, and Jayadeva told her she was free to go wherever she wished. By another account, a
+childless brahmana had prayed to Jagannatha for many years for a son, but a daughter was born — Padmavati; when she
+grew up, her father brought her to give her to Jagannatha Himself, and the Lord told him: “I have a servant, Jayadeva,
+who has left his home and sings My names. Give her to him.” Jayadeva for his part offered to take the girl wherever she
+might say.[^11] <!-- F25 F26 -->
+
+Padmavati humbly replied: “By Jagannatha's will my father has given me to you. You alone will I choose as my husband; I
+will accept no other and will never break faith. Even if you abandon me, I will not abandon you and will always serve
+your feet.”[^12] Jayadeva had no other way, and he accepted her. So the detached devotee became a householder — not by
+yielding to the world, but by fulfilling the will of the Lord, who Himself gave him a devotee-wife so that together
+they might serve Him. <!-- F27 -->
+
+## The Line Written by Krishna
+Jayadeva installed a Deity of Narayana in his home, and in his heart a river of love for Krishna began to flow; in its
+waves he was writing the “Gita-govinda.” One day, the tradition tells, he came to the song in which Krishna appeases the
+angry Radha. After the words “if You say anything at all…” (*vadasi yadi kinchid api*) there was to follow the line:
+“Place on My head Your foot, tender as a shoot — the ornament that removes the poison of Kamadeva” (*smara-garala-
+khandanam mama shirasi mandanam… dehi pada-pallavam udaram*, “Gita-govinda” 10.8). But Jayadeva did not dare to write
+that Sri Krishna places Radha's foot on His own head. Leaving the song unfinished, he went to bathe.[^13] <!-- F28 F29 -->
+
+Soon Padmavati saw Jayadeva return, write something in the manuscript, eat and go out again. She was eating what he had
+left when the real Jayadeva came in and asked in surprise: “Why are you eating today before I have eaten?” Padmavati
+answered that he had already eaten and gone, and before that had written something in the book. Jayadeva opened the
+manuscript — and saw that the missing words “dehi pada-pallavam udaram” were written in his own hand, and the ink was
+not yet dry. He understood: these words had been written, and the song completed, by Sri Krishna Himself, the foremost
+relisher of rasa. His hair stood on end, and tears poured from his eyes.[^14] <!-- F30 F31 F19 -->
+
+In a trembling voice he said to Padmavati: “You are most fortunate: you have seen Sri Krishna Himself and are eating His
+prasada. I was not so blessed. I too will take your remnants” — and he ate what she had left. One of the biographies
+adds that this tradition is generally accepted as authentic. <!-- F32 -->
+
+Jayadeva's hesitation was no weakness of faith: it was reverence (*aishvarya-jnana*), which does not dare to describe
+the Lord of all at Radha's feet. But Krishna writes this line Himself, because He is conquered by the love of Radha, the
+highest of His devotees; this is no lessening of God, but the sway of pure prema over Him. And that Jayadeva took the
+remnants of his wife's meal is no breach of custom, but the humility of a Vaishnava who recognized that she had received
+a mercy he himself had not. <!-- I2 -->
+
+## Jagannatha Listens to the “Gita-govinda”
+In Puri another tradition is kept. A woman of the gardeners' caste (*malini*) used to sing the “Gita-govinda,” wholly
+absorbed in its mood. Drawn by her singing, Jagannatha would come there, listen as long as she sang, and return to the
+temple. One day the king of Utkala, coming for darshana, saw dust on Jagannatha's body and thorns in His cloth. The
+pujari-pandas could not explain it and were frightened. That night Jagannatha told the king in a dream that no one was
+to blame: He had gone to the gardener-woman to hear the “Gita-govinda,” and there, in the garden, the dust and thorns
+had clung to Him. <!-- F33 F34 -->
+
+Then the king sent a palanquin for her and had her sing the “Gita-govinda” before Jagannatha. Ever since, the women of
+her family sing this poem daily in the temple before the Lord, and the devotees of Puri call them not gardener-women but
+*devadasis*, servants of the Deity. So, according to the tradition, began the singing of the “Gita-govinda” for
+Jagannatha. Jagannatha is Krishna Himself, not an image: the dust and thorns on His body are the play of the Lord, who is
+drawn by the song of His devotee. The singing of a devadasi was later heard by Mahaprabhu as well; this is told below.
+<!-- F35 -->
+
+## The Lord Thatches the Roof
+Many wonders are told of Jayadeva. With deep love he served Sri Radha-Madhava. Once, in the scorching heat, he was
+thatching the roof of his hut, and someone below was handing him ropes and bundles of straw so that the work would go
+faster. Jayadeva thought it was Padmavati, but when he came down he learned that she had been busy with something else
+all the while. Entering the temple, he saw that Radha-Madhava's hands were covered with soot and dirt, understood who
+had helped him, fell at Their feet and wept for a long time.[^15] As the devotee is devoted to the Lord, so the Lord is
+devoted to His devotee. <!-- F36 F37 F38 I2 -->
+
+## The Robbers
+To gather means for the service and festivals of Radha-Madhava, the treasure of his life, Jayadeva travelled to other
+lands, where his poetic gift brought him offerings. On the way back robbers fell upon him: they took his money, cut off
+his hands and feet and threw him into a well. Enduring terrible pain, he loudly repeated the name of Hari. <!-- F39 -->
+
+On the third day a king was hunting nearby. Hearing the name of Hari from the well, he was amazed, had the wounded
+Jayadeva drawn out, brought him to the palace and surrounded him with care; through the efforts of the king and queen he
+gradually recovered. Recognizing in him a great devotee and listening to his sweet singing of the “Gita-govinda,” the
+king brought Padmavati to the palace as well. The king and queen received initiation into the Vishnu-mantra[^16] and
+lived hearing krishna-katha from Jayadeva and serving the Vaishnavas. <!-- F40 F41 -->
+
+One day those very robbers came to the palace disguised as Vaishnavas. Jayadeva recognized them but had them received
+with every honour. Not understanding his noble intent and fearing exposure and punishment, they hastened to leave
+without accepting the hospitality. Jayadeva understood their fear and asked the king to give them much money and send
+escorts with them. Having gone a little way, the robbers said to the escorts: “No need to go further. But tell your
+king in secret: we used to serve another king, and for some reason he ordered us to kill your mahanta-babaji. We cut
+off his hands and feet. He is afraid the secret will come out — that is why he had us given money and quickly sent
+away.” <!-- F42 F43 -->
+
+Mother Earth could not bear this lie, and the robbers wondrously sank into the ground. For, as the “Bhagavatam” says:
+
+“The Earth spoke thus: ‘There is no unrighteousness greater than falsehood. I can bear everything — only not a man
+given to falsehood.’” (“Srimad-Bhagavatam” 8.20.4)
+
+These words are spoken by Bali in answer to Shukracharya, who was dissuading him from his gift to Vamanadeva.
+<!-- F44 Q7 -->
+
+The king's servants, who had seen the wondrous punishment that befell the offenders at the feet of a mahabhagavata,
+told the king everything in order. At the king's questioning, Jayadeva related what had happened to him on the road and
+said: “Sadhus do not take revenge on those who wrong them, but try to satisfy them with courtesy. Yet by the inexorable
+law of the Lord they had to taste the fruit of their deeds.” The sadhu forgives, but an offence at the feet of a great
+devotee the Lord does not leave without its consequence. <!-- F45 I3 -->
+
+## Padmavati's Test
+Padmavati and the queen became close friends. In those days there was the custom of sati, in which a widow ascended
+her husband's funeral pyre. Once, when the queen was grieving that her brother's widow would ascend the pyre, Padmavati
+said to her: “When the husband leaves the world, the life of a faithful wife does not remain in the body.” <!-- F46 -->
+
+Wishing to test these words, the queen one day told Padmavati that Jayadeva had left his body. The moment she heard it,
+the faithful Padmavati herself left her body. The queen, thinking herself guilty, sobbed, and the king in tears
+earnestly begged Jayadeva to restore his wife's life. Jayadeva poured the nectar of Krishna's name into Padmavati's ears
+— and she came back to herself, as if awakening from sleep. Seeing the wondrous greatness of both, the whole royal
+family with the king and queen bowed again and again at the feet of Jayadeva and Padmavati. The power of this miracle
+lies in the holy name sounding from the lips of a great devotee; and in Padmavati's departure the tradition sees an image
+of the perfect fidelity of a wife wholly given to her Vaishnava husband. <!-- F47 F48 -->
+
+## In Vrindavana
+Then Jayadeva was drawn to Vrindavana. Taking leave of the king and queen, he took his beloved Sri Radha-Madhava and set
+out. In Vrindavana he served Them at Keshi-tirtha, the Keshi-ghata on the Yamuna. Hearing how sweetly he sang the
+“Gita-govinda,” the residents of the dhama lost all outer awareness. A certain mahajana, a wealthy merchant, built a
+temple for his Radha-Madhava above Keshi-ghata. <!-- F49 -->
+
 [^1]: In “Gita-govinda” 1.3 the poet says: *shrinu… jayadeva-sarasvatim* — “listen to the speech of Jayadeva”;
     *sarasvati* here means “word, speech,” not a sannyasa title. “Gosvami” with his name is an honorific.
 [^2]: One of the biographies ascribes these words to the “Gita-govinda” (1.2); they are not in the poem itself — this is
@@ -140,3 +256,13 @@ Ramananda Raya's “Jagannatha-vallabha-nataka” closely resemble the songs of 
     in Puri Jayadeva was reportedly a court poet of the king of Orissa and spent the rest of his life there.
 [^9]: The verse number is ours; the biographies quote the verse without a number.
 [^10]: This is an interpretation, not the words of the poem itself; theologically it agrees with CC, Adi 1.5.
+[^11]: One of the biographies remarks that many in Orissa still first “give in marriage” their daughters to Jagannatha.
+[^12]: By another account, Padmavati said in tears: “If you do not accept me, I will die here at your feet.”
+[^13]: The traditions differ in details: according to some, he went to bathe in the Ganga in the afternoon, hoping
+    inspiration would come; according to others, in the ocean; one of the biographies does not name the place.
+    According to two biographies, the line was written by Krishna Himself in the form of Jayadeva; according to the
+    third, by Jagannatha, who in answer to Padmavati's question said He had remembered something forgotten; that
+    biography says nothing of the meal.
+[^14]: The wet ink, the hair standing on end and the tears are mentioned by different biographies.
+[^15]: According to one of the biographies, it was Jagannatha who helped, and Madhava's hands were black from the straw.
+[^16]: According to one of the biographies, from Jayadeva himself; another does not say from whom.
