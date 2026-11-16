@@ -2,8 +2,8 @@
 *Камалакара Пиппалаи · @kamalakara-pippalai*
 
 ## A Branch of Nityananda
-Sri Kamalakara Pippalai was one of the twelve gopalas, the closest companions of Nityananda Prabhu, and the one through
-whom the service of Sri Jagannatha at Mahesh on the bank of the Ganga began. The “Chaitanya-charitamrita” calls him
+Sri Kamalakara Pippalai was one of the twelve gopalas, the closest companions of Nityananda Prabhu, and the one to whom
+the Lord Himself entrusted the service of Sri Jagannatha at Mahesh on the bank of the Ganga. The “Chaitanya-charitamrita” calls him
 Kamalakara Pippalai and simply Kamalakara; the vandanas call him Pippalai, Pippalai Thakura and Sri Kamalakara; in the
 “Narottama-vilasa” and the “Prema-vilasa” he is Kamalakara Piplai, and in the “Nityananda-vamsha-vistara,” Pipilai.
 <!-- F1 -->
@@ -48,8 +48,8 @@ Years passed, and Dhruvananda wondered who would be a worthy servant of Jagannat
 answered him in a dream: “Tomorrow morning a man of Khalijuli near the Sundarbans will come to Mahesh — a great devotee
 of Mine, the crown of Vaishnavas, named Kamalakara Pippalai. Entrust the service to him.” According to tradition,
 Kamalakara too received the Lord’s command.[^4] In the morning Dhruvananda met him and handed over to him the service of
-Sri Jagannatha, Baladeva and Subhadra. So the worship of Jagannatha at Mahesh began, and therefore it is said that
-Kamalakara Pippalai established the Deity of Mahesh; today it is the famous Deity of Jagannatha. Having received the
+Sri Jagannatha, Baladeva and Subhadra. From him the Lord’s service at Mahesh descends, and therefore it is said
+that Kamalakara Pippalai established the Deity of Mahesh; today it is the famous Deity of Jagannatha. Having received the
 right to serve the Lord, Kamalakara and his family came to be called Adhikari, and the family bears that name to this
 day. <!-- F24 F25 F20 F26 -->
 
@@ -58,8 +58,8 @@ the chance to serve Vishnu and the Vaishnavas his highest wealth. The Lord Himse
 longs for it with all his heart; but one attached to sense enjoyment sees service as a burden and looks for ways to
 avoid it. <!-- I1 -->
 
-As soon as he received Sri Jagannatha’s command, Kamalakara at once left his home and all his relatives and came to
-Mahesh. In this there was neither flight from duty nor harsh austerity. A devotee, even when he plays the role of a
+And Kamalakara had come to Mahesh in this way: as soon as he received Sri Jagannatha’s command, he at once left his
+home and all his relatives. In this there was neither flight from duty nor harsh austerity. A devotee, even when he plays the role of a
 householder, is not like a worldly family man: his mind is always absorbed in separation from the Lord, and at a single
 word from Him he gladly leaves worldly ties for the sake of service. Such renunciation comes of itself, naturally, not
 forced as with jnanis and yogis; and at times the Lord Himself wishes His devotee to remain in family life.
@@ -119,13 +119,13 @@ wounds on his own body and did not return to outward consciousness.[^11] This wa
 self-forgetfulness of a cowherd boy of Vraja in love for the Lord. <!-- F30 F31 Q7 -->
 
 He was also at the famous chida-dadhi festival at Panihati arranged by Raghunatha Dasa, which the biographies call the
-Danda-mahotsava. Krishnadasa Kaviraja, naming the close companions who sat around Nityananda on the raised platform,
+Danda-mahotsava.[^12] Krishnadasa Kaviraja, naming the close companions who sat around Nityananda on the raised platform,
 names him as well:
 
 “Ramadasa, Sundarananda, Gadadhara Dasa, Murari, Kamalakara, Sadashiva, Purandara…” (CC, Antya 6.61)
 
 In the “Anubhashya” on this verse Srila Bhaktisiddhanta explains that this is the same Kamalakara spoken of in Adi
-11.24.[^12] <!-- F32 -->
+11.24. <!-- F32 -->
 
 Kamalakara attended the festival at Katwa given by Dasa Gadadhara as well. And when Narottama Thakura called the
 Vaishnavas to the great festival at Kheturi, Kamalakara went there from Kharadaha in the retinue of Jahnava-devi. The
