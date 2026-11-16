@@ -14608,14 +14608,18 @@
   ],
   "notes": "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано.",
   "entries": [
+   "vlm-0159",
    "apr-0145",
    "gkd-0187",
    "jcm-0099",
    "jcm-0100",
    "kcm-0177",
    "lcm-0250",
+   "vlm-0160",
    "brt-4016",
-   "apr-0146"
+   "apr-0146",
+   "vlm-0161",
+   "vlm-0162"
   ],
   "sources": [
    "advaita-prakasha",
@@ -14623,7 +14627,8 @@
    "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
-   "lochana-cm"
+   "lochana-cm",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -34410,6 +34415,37 @@
   ],
   "entries": [
    "vlm-0158"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-ramananda-departure-janmashtami",
+  "title": "Уход Рамананды Рая в Джанмаштами",
+  "title_en": "Ramananda Raya's departure on Janmashtami",
+  "period": "P15",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure",
+   "separation"
+  ],
+  "calendar": "бхадра, кришна-аштами (Джанмаштами)",
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 9.151–163): в Джанмаштами того же года, после ухода Господа, Рамананда приходит в северную мандапу, беседует со Свами и вечером уходит с именем «О Кришна!»; Джаганнатха Дас называет его сиддхой.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "vlm-0163"
   ],
   "sources": [
    "vaishnava-lilamrita"

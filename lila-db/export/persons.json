@@ -3176,16 +3176,19 @@
    "vlm-0157",
    "vlm-0158",
    "krn-0002",
+   "vlm-0159",
    "gkd-0186",
    "apr-0145",
    "gkd-0187",
    "jcm-0099",
    "kcm-0177",
    "lcm-0250",
+   "vlm-0160",
    "brt-4016",
    "brt-0038",
    "gkd-0188",
    "kcm-0003",
+   "vlm-0161",
    "gst-0017",
    "brt-3021",
    "pvl-0188",
@@ -3194,6 +3197,7 @@
    "brt-0104",
    "anv-0008",
    "pad-0309",
+   "vlm-0162",
    "vv-0002",
    "pvl-0022",
    "brt-0082",
@@ -4452,8 +4456,8 @@
    "ev-svarupa-damodara-departure",
    "ev-gadadhara-sent-to-gauda",
    "ev-balarama-dasa-departure",
-   "ev-vision-vraja-before-departure",
    "ev-lord-disappearance",
+   "ev-vision-vraja-before-departure",
    "ev-jiva-comes-to-vrindavana",
    "ev-devotees-lament-after-disappearance",
    "ev-dvija-haridasa-dream-vrindavana",
@@ -20155,7 +20159,11 @@
    "cc-4168",
    "vlm-0156",
    "vlm-0158",
+   "vlm-0159",
+   "vlm-0160",
+   "vlm-0161",
    "brt-0072",
+   "vlm-0163",
    "brt-0071",
    "pvl-0024",
    "pvl-0075",
@@ -20256,7 +20264,9 @@
    "ev-shikshashtaka-recitation",
    "ev-svarupa-damodara-departure",
    "ev-balarama-dasa-departure",
+   "ev-lord-disappearance",
    "ev-devotees-lament-after-disappearance",
+   "ev-ramananda-departure-janmashtami",
    "ev-srinivasa-gadadhara-puri",
    "ev-srinivasa-shantipura",
    "ev-books-mission-decision",
@@ -21426,7 +21436,9 @@
    "ccd-0096",
    "jcm-0099",
    "lcm-0250",
+   "vlm-0161",
    "brt-0072",
+   "vlm-0162",
    "brt-3006",
    "brt-4021",
    "nvl-0030",
@@ -28734,6 +28746,7 @@
    "brt-0019",
    "nvl-0005",
    "mkc-0252",
+   "vlm-0159",
    "brt-0096",
    "nvl-0014",
    "nvl-0015",
@@ -28772,6 +28785,7 @@
    "ev-haridasa-departure",
    "ev-lokanatha-life-vrindavana",
    "ev-gambhira-divine-madness",
+   "ev-lord-disappearance",
    "ev-rupa-sanatana-departure",
    "ev-narottama-path-vision",
    "ev-srinivasa-narottama-shyamananda-vrindavana",
@@ -47607,6 +47621,11 @@
    "vlm-0149",
    "vlm-0156",
    "vlm-0158",
+   "vlm-0159",
+   "vlm-0160",
+   "vlm-0161",
+   "vlm-0162",
+   "vlm-0163",
    "vlm-0104"
   ],
   "events": [
@@ -47633,7 +47652,9 @@
    "ev-rupa-puri-dramas",
    "ev-gambhira-divine-madness",
    "ev-svarupa-damodara-departure",
-   "ev-balarama-dasa-departure"
+   "ev-balarama-dasa-departure",
+   "ev-lord-disappearance",
+   "ev-ramananda-departure-janmashtami"
   ]
  },
  {
@@ -47835,6 +47856,7 @@
    "vlm-0118",
    "vlm-0124",
    "vlm-0156",
+   "vlm-0163",
    "vlm-0101",
    "vlm-0102",
    "vlm-0103",
@@ -47844,7 +47866,8 @@
   "events": [
    "ev-ramananda-governor-rajamahendri",
    "ev-ramananda-mandapa-puri",
-   "ev-svarupa-damodara-departure"
+   "ev-svarupa-damodara-departure",
+   "ev-ramananda-departure-janmashtami"
   ]
  },
  {
@@ -55716,6 +55739,8 @@
    "vlm-0149",
    "vlm-0156",
    "vlm-0158",
+   "vlm-0162",
+   "vlm-0163",
    "vlm-0104"
   ],
   "events": [
@@ -55733,7 +55758,9 @@
    "ev-govardhana-shila-gunja-gift",
    "ev-gambhira-divine-madness",
    "ev-svarupa-damodara-departure",
-   "ev-balarama-dasa-departure"
+   "ev-balarama-dasa-departure",
+   "ev-lord-disappearance",
+   "ev-ramananda-departure-janmashtami"
   ]
  },
  {
@@ -55758,6 +55785,9 @@
    "vlm-0149",
    "vlm-0156",
    "vlm-0158",
+   "vlm-0159",
+   "vlm-0162",
+   "vlm-0163",
    "vlm-0104"
   ],
   "events": [
@@ -55774,7 +55804,9 @@
    "ev-govardhana-shila-gunja-gift",
    "ev-gambhira-divine-madness",
    "ev-svarupa-damodara-departure",
-   "ev-balarama-dasa-departure"
+   "ev-balarama-dasa-departure",
+   "ev-lord-disappearance",
+   "ev-ramananda-departure-janmashtami"
   ]
  },
  {
@@ -55798,6 +55830,8 @@
    "vlm-0149",
    "vlm-0156",
    "vlm-0158",
+   "vlm-0159",
+   "vlm-0162",
    "vlm-0104"
   ],
   "events": [
@@ -55813,7 +55847,8 @@
    "ev-govardhana-shila-gunja-gift",
    "ev-gambhira-divine-madness",
    "ev-svarupa-damodara-departure",
-   "ev-balarama-dasa-departure"
+   "ev-balarama-dasa-departure",
+   "ev-lord-disappearance"
   ]
  },
  {
@@ -55848,7 +55883,8 @@
    "vlm-0137",
    "vlm-0138",
    "vlm-0142",
-   "vlm-0158"
+   "vlm-0158",
+   "vlm-0162"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
@@ -55858,7 +55894,8 @@
    "ev-mahamantra-order-dispute",
    "ev-shivananda-kanhai-pilgrims-quarrel",
    "ev-gaudiyas-govardhana-clash",
-   "ev-balarama-dasa-departure"
+   "ev-balarama-dasa-departure",
+   "ev-lord-disappearance"
   ]
  },
  {

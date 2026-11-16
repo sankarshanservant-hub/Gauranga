@@ -4459,6 +4459,7 @@
    "vlm-0156",
    "vlm-0157",
    "vlm-0158",
+   "vlm-0159",
    "gkd-0186",
    "apr-0145",
    "gkd-0187",
@@ -4466,8 +4467,10 @@
    "jcm-0100",
    "kcm-0177",
    "lcm-0250",
+   "vlm-0160",
    "brt-4016",
    "gkd-0188",
+   "vlm-0161",
    "brt-0072",
    "brt-3021",
    "pvl-0020",
@@ -4475,6 +4478,8 @@
    "brt-4018",
    "vlb-0007",
    "pad-0309",
+   "vlm-0162",
+   "vlm-0163",
    "nvv-0017",
    "nvv-0021",
    "nvv-0022",
@@ -4798,13 +4803,14 @@
    "ev-svarupa-damodara-departure",
    "ev-gadadhara-sent-to-gauda",
    "ev-balarama-dasa-departure",
-   "ev-vision-vraja-before-departure",
    "ev-lord-disappearance",
+   "ev-vision-vraja-before-departure",
    "ev-devotees-lament-after-disappearance",
    "ev-dvija-haridasa-dream-vrindavana",
    "ev-gadadhara-departure",
    "ev-radha-ramana-appearance",
    "ev-nityananda-marriage",
+   "ev-ramananda-departure-janmashtami",
    "ev-narayani-from-ocean",
    "ev-virachandra-pilgrimage",
    "ev-virachandra-marriage",
@@ -12984,6 +12990,19 @@
   ],
   "events": [
    "ev-jhankad-sarala-rasa"
+  ]
+ },
+ {
+  "id": "#koili-vaikuntha",
+  "ru": "Койли-Вайкунтха",
+  "en": "Koili Vaikuntha",
+  "note": "Пури, северная часть храмового двора; место, где предают земле прежние тела Божеств при Нава-калевáре; по «Вайшнава-лиламрите» 9.121–126 — место тайного погребения",
+  "section": "",
+  "lilas": [
+   "vlm-0161"
+  ],
+  "events": [
+   "ev-lord-disappearance"
   ]
  }
 ]

@@ -6098,14 +6098,18 @@
 
 ## Сокрытие Господа / The Lord's disappearance  `ev-lord-disappearance` (1533–1533, возраст 47–47, вероятно)
 
+- vaishnava-lilamrita (D): Гл. 9, 42–67 — [9.42–9.67](../vaishnava-lilamrita/ru/09.md?plain=1#L57-L82) · `vlm-0159`
 - advaita-prakasha (D): Гл. 21, 63–69 — [63. Однажды Го–69. Я ничтожне](../advaita-prakash/21.md?plain=1#L67-L73) · `apr-0145`
 - gaura-krishnodaya (C): Сарга 18, 51–59 — [51–59](../gaura-krishnodaya/ru/18.md?plain=1#L113-L129) · `gkd-0187`
 - jayananda-cm (C): Виджая-кханда (75.2.14–15; 76.1.1–3) — статья Н. Васу 1897, «Особые сведения» 6 и краткое жизнеописание; Дж. Саркар 1922 — [6. Как Махапрабху сокрылся, — этой разди–Теперь мы узнали, что во время Ратха-ятр](../jayananda/ru/02-vasu-1897.md?plain=1#L710-L745); [> В Нилачале, ночью, Чайтанья в обители –> были падения метеоров, удары молний, землетрясения.](../jayananda/ru/02-vasu-1897.md?plain=1#L1359-L1428); [**Последняя сцена** (перевод из «Чайтань–Когда Он плясал на Биджае праздника коле](../jayananda/ru/04-sarkar-1922.md?plain=1#L7-L9) · `jcm-0099`
 - jayananda-cm (C): Уттара-кханда: краткое жизнеописание (Н. Васу 1897); Дж. Саркар 1922; цит. «После ухода Чайтаньи» — [> Нитьянанда и Адвайта Ачарья Госани усл–> все вайшнавы восклицают: «Слава, слава](../jayananda/ru/02-vasu-1897.md?plain=1#L1430-L1461); [Нитьянанда утешил учеников и поклялся пе–Нитьянанда утешил учеников и поклялся пе](../jayananda/ru/04-sarkar-1922.md?plain=1#L11-L11); [79:1–52:2](../jayananda/ru/05-quotes.md?plain=1#L1373-L1375) · `jcm-0100`
 - karnapura-ckm (A): Сарга 20, 38–41 — [38–41](../karnapura-mahakavya/ru/20.md?plain=1#L856-L925) · `kcm-0177`
 - lochana-cm (C): Шеша-кханда, гл. 4 «Сокрытие Господа», 94+1 — 94+38 (только изд. 1983 г.) — [94+1–94+38](../lochana/ru/52.md?plain=1#L300-L411) · `lcm-0250`
+- vaishnava-lilamrita (D): Гл. 9, 68–100 — [9.68–9.100](../vaishnava-lilamrita/ru/09.md?plain=1#L87-L119) · `vlm-0160`
 - bhakti-ratnakara (B): Таранга 8, 350–360 — [350–360](../bhakti-ratnakara/ru/08.md?plain=1#L1063-L1093) · `brt-4016`
 - advaita-prakasha (D): Гл. 21, 70–97 — [70. А тем врем–97. В его волн](../advaita-prakash/21.md?plain=1#L74-L101) · `apr-0146`
+- vaishnava-lilamrita (D): Гл. 9, 101–128 — [9.101–9.128](../vaishnava-lilamrita/ru/09.md?plain=1#L124-L151) · `vlm-0161`
+- vaishnava-lilamrita (C): Гл. 9, 129–150 — [9.129–9.150](../vaishnava-lilamrita/ru/09.md?plain=1#L156-L177) · `vlm-0162`
 
 ## Плач преданных после сокрытия Господа / The devotees' lament after the Lord's disappearance  `ev-devotees-lament-after-disappearance` (1533–1542, возраст 47–56, оценка)
 
@@ -6262,6 +6266,10 @@
 
 - cc (A): Мадхья 18.45–54 — [45–54](../chaitanya-charitamrita/ed/vcd/CC_Madhya18.md?plain=1#L381-L453) · `cc-3006`
 - bhakti-ratnakara (B): Таранга 5, 382–384 — [382–384](../bhakti-ratnakara/ru/05.md?plain=1#L1220-L1226) · `brt-1009`
+
+## Уход Рамананды Рая в Джанмаштами / Ramananda Raya's departure on Janmashtami  `ev-ramananda-departure-janmashtami` (1533–1534, возраст 47–48, оценка)
+
+- vaishnava-lilamrita (C): Гл. 9, 151–164 и колофон — [9.151–9.164](../vaishnava-lilamrita/ru/09.md?plain=1#L178-L195) · `vlm-0163`
 
 ## Великое помазание Вирачандры после ухода Нитьянанды / Virachandra's great anointing after Nityananda's departure  `ev-virachandra-abhisheka` (1533–1534, возраст 47–48, оценка)
 

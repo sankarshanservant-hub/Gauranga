@@ -2,8 +2,9 @@
 Дописывает src/full/ru/en главы CC; проверяет нумерацию, уникальность и парность сносок."""
 import re, sys, os
 root, inp, portion = sys.argv[1], sys.argv[2], sys.argv[3]   # portion like VL-02-1-17
+kinds = sys.argv[4].split(',') if len(sys.argv) > 4 else ['src', 'full', 'ru', 'en']   # напр. en — только перевод
 cc = portion.split('-')[1]
-for kind in ('src', 'full', 'ru', 'en'):
+for kind in kinds:
     new = open(f'{inp}/{portion}-{kind}.md', encoding='utf-8').read()
     new = re.sub(r'<!--\s*REPORT.*?-->', '', new, flags=re.S).strip('\n') + '\n'
     path = f'{root}/{kind}/{cc}.md'
