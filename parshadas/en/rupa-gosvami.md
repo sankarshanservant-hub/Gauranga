@@ -338,12 +338,11 @@ Krishnadasa the Rajput;[^25] after the meal he offered Him spices, laid Him down
 feet, and the Lord told him to go and eat too. <!-- F92 F93 -->
 
 There came the mahabhagavata Raghupati Upadhyaya from Tirhut,[^26] a disciple of Madhavendra Puri, and the Lord spoke
-with him at length about rasa. To the Lord's questions about the highest form, the highest abode, the age and the rasa,
-he answered thus:
+with him at length about rasa. The Lord asked him about the highest form, the highest abode, the age and the rasa,
+and when He had heard the answers, He recited a verse that holds them all:
 
-“Shyamasundara is the highest form of God, the city of Mathura is the highest divine abode, the beginning of blossoming
-youth is the highest time of life, and nothing can compare with the sweetness of the rasa of conjugal love.”
-(“Padyavali,” 82; CC, Madhya 19.106)
+“The dark form is the supreme form; Madhupuri is the best of cities; youth (kaishora) is the age to meditate on; and the
+original rasa, shringara, is the highest rasa.” (“Padyavali,” 82; CC, Madhya 19.106)
 
 The Lord embraced him. All the people of the village, on seeing Mahaprabhu, became devotees of Krishna, and Vallabha took
 the Lord back to Prayaga by boat. <!-- F94 F95 Q22 -->
