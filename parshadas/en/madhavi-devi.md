@@ -106,7 +106,7 @@ feed Mahaprabhu alone.[^6] <!-- F18 F19 F21 -->
 
 “Haridasa begged the rice from her and brought it, and when the Acharya saw the rice he was overjoyed.” (CC, Antya 2.107)
 
-With affection the Acharya cooked from this rice the dishes the Lord loved, and at midday Mahaprabhu came to him and,
+With affection the Acharya cooked the rice and the dishes the Lord loved, and at midday Mahaprabhu came to him and,
 seeing the rice, asked:
 
 “‘Such excellent rice! Where did you get grain like this?’ The Acharya said, ‘It was begged from Madhavi and brought
