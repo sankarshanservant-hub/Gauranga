@@ -198505,6 +198505,71 @@
   "attestation": 3
  },
  {
+  "id": "vlm-0132",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 73–81",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 11,
+  "title": "Санатана с язвами бросается под колесницу; укор Прабху",
+  "summary": "Бывший министр царя-млеччхи Санатана приходит к Гундиче, покрытый язвами, и бросается под колесницу, чтобы расстаться с жизнью; Сварупа, Туласи, Панчасакха и Канхаи подхватывают его; Прабху укоряет его: «Где найдётся пандит учёнее тебя — а ты отнимаешь у тела жизнь!»",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-gosvami",
+   "@svarupa-damodara",
+   "@tulasi-mishra",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@kanhai-odia",
+   "@yashovanta-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 4",
+  "notes": "",
+  "themes": [
+   "mercy",
+   "offense"
+  ],
+  "cc": "Антья 4",
+  "divergence": "В ЧЧ — лишь намерение Санатаны броситься под колесницу, раскрытое Господом; здесь он бросается, и спутники его поднимают.",
+  "event": "ev-sanatana-suicide-forbidden",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.73",
+    "to": "5.81"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.73",
+    "to": "5.81",
+    "line": 86,
+    "line_to": 98,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L86-L98",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L86-L98"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 2
+ },
+ {
   "id": "cc-0302",
   "source": "cc",
   "ref": "Мадхья 1.59–75",
@@ -199256,6 +199321,71 @@
   "attestation": 4
  },
  {
+  "id": "vlm-0133",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 82–99",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 12,
+  "title": "Санатана год слушает Свами; Господь посылает его во Вриндаван",
+  "summary": "Год в Нилачале Санатана слушает Свами: истины о Кришне, творении, дживе (слуге Кришны), бхеда-абхеде, трёх энергиях, аватарах, мадхурье и нара-лиле, кама-гаятри и пути раги, служении выше мукти; затем Прабху посылает его создать святую обитель во Вриндаване.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-gosvami",
+   "@jagannatha-dasa-odia"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 20–24 (Санатана-шикша)",
+  "notes": "Пояснения по ачинтья-бхеда-абхеде и рагануге — в сносках перевода.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "prema",
+   "bhakti-supremacy",
+   "vedanta"
+  ],
+  "divergence": "В ЧЧ учение Санатане даёт Сам Махапрабху в Варанаси; у Мадхавы — Джаганнатха Дас в Пури.",
+  "event": "ev-sanatana-taught-jagannatha-dasa",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.82",
+    "to": "5.99"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.82",
+    "to": "5.99",
+    "line": 99,
+    "line_to": 116,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L99-L116",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L99-L116"
+   }
+  ],
+  "cc": "Мадхья 20–24 (учение Санатане — от Самого Господа в Варанаси)",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4011",
   "source": "cc",
   "ref": "Антья 1.134–170",
@@ -199515,6 +199645,67 @@
    47
   ],
   "attestation": 1
+ },
+ {
+  "id": "vlm-0134",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 100–108",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 13,
+  "title": "Валлабха в Нилачале: «Джаганнатха — Гопиджана-валлабха»",
+  "summary": "С севера приходит Валлабха, преданный Гопалы; со Свами он читает «Бхагавату», на даршане постигает, что Джаганнатха — Гопиджана-валлабха; два месяца живёт в Пури на Ратха-ятру, радуется киртану Прабху и приходит на иштагоштхи.",
+  "persons": [
+   "@vallabha-bhatta",
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 7",
+  "notes": "",
+  "themes": [
+   "jagannatha",
+   "learning"
+  ],
+  "divergence": "В ЧЧ — встреча с Махапрабху, спор о комментарии Шридхары и мантра от Гададхары; Джаганнатхи Даса нет.",
+  "event": "ev-vallabha-bhatta-puri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.100",
+    "to": "5.108"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.100",
+    "to": "5.108",
+    "line": 121,
+    "line_to": 129,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L121-L129",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L121-L129"
+   }
+  ],
+  "cc": "Антья 7",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 4
  },
  {
   "id": "pvl-0067",
@@ -199937,6 +200128,74 @@
   "attestation": 4
  },
  {
+  "id": "vlm-0135",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 109–129",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 14,
+  "date": "27-й анк Пратапарудры",
+  "title": "«Атибада»: рассказ о смехе Кришны и Радхи; имя Джаганнатхи Даса",
+  "summary": "Наедине Прабху просит Свами рассказать о прежнем облике; тот говорит: Радха и Кришна — одно тело, из смеха Кришны родился Ты, из смеха Радхи — я; Прабху обнимает его: «Ты очень велик (ати-бада) — у нас одна жизнь, различно лишь тело», повязывает ему на голову Свою уттарию и провозглашает его Атибадой перед Сварупой, Раманандой, Каши Мишрой и Панчасакхой.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@svarupa-damodara",
+   "@ramananda-raya",
+   "@kashi-mishra",
+   "@balarama-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Понижено до D: сектантское предание Атибади, противоречащее гаура-таттве. По Бхактисиддханте, Шри Чайтанья — Сам Кришна в настроении и цвете Радхи (ЧЧ Ади 1, 4); «ативади» — в перечне апасампрадай (сноски перевода).",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-atibada-name",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.109",
+    "to": "5.129"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.109",
+    "to": "5.129",
+    "line": 130,
+    "line_to": 150,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L130-L150",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L130-L150"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4041",
   "source": "cc",
   "ref": "Антья 4.48–53",
@@ -200060,7 +200319,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "cc-4043",
@@ -200847,6 +201106,77 @@
   "attestation": 2
  },
  {
+  "id": "vlm-0136",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 130–164",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 15,
+  "title": "Баларама Дас и песчаная колесница",
+  "summary": "Служители сгоняют Балараму Даса, сына Сомнатхи и автора «Рамаяны», с колесницы, когда он хочет поднести гирлянду; на берегу моря он делает колесницу из песка и зовёт Джаганнатху, Балараму и Субхадру; колесница на Данде не трогается ни днём, ни ночью; царю во сне Господь велит привести Его вместе с преданным; царь с Прабху, Свами и преданными с киртаном идёт к морю и с почётом приводит Балараму; тот подносит гирлянду — и колесница катится; подпись главы.",
+  "persons": [
+   "@balarama-dasa-odia",
+   "@prataparudra",
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@jagannatha-deity",
+   "@kashi-mishra",
+   "@tapana-mishra",
+   "@kanhai-odia",
+   "@ananta-acharya",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@tulasi-mishra",
+   "@damodara-pandita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 14 (колесница останавливается и трогается от Махапрабху — иной рассказ)",
+  "notes": "Отождествления «Тапана Ачарья» и «Ананта Ачарья» (5.152) под вопросом.",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "mercy"
+  ],
+  "divergence": "Известно только орийским источникам.",
+  "event": "ev-balarama-dasa-sand-chariot",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.130",
+    "to": "5.164"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.130",
+    "to": "5.164",
+    "line": 151,
+    "line_to": 189,
+    "count": 35,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L151-L189",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L151-L189"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4146",
   "source": "cc",
   "ref": "Антья 16.65–77",
@@ -201141,6 +201471,76 @@
   "attestation": 2
  },
  {
+  "id": "vlm-0137",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, 1–18",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 16,
+  "title": "Спор о начале махамантры",
+  "summary": "Канхаи начинает махамантру с «Харе Рама», Шивананда — с «Харе Кришна»; через Сварупу спор доходит до Свами и Прабху; в северной мандапе собираются Рамананда, Сарвабхаума, Каши Мишра, Гададхара и Панчасакха; по Мадхаве, Прабху решает: в Нилачале — «Харе Рама», в Гауде — «Харе Кришна».",
+  "persons": [
+   "@mahaprabhu",
+   "@kanhai-odia",
+   "@shivananda-sena",
+   "@svarupa-damodara",
+   "@jagannatha-dasa-odia",
+   "@ramananda-raya",
+   "@sarvabhauma",
+   "@kashi-mishra",
+   "@gadadhara-pandita",
+   "@ananta-odia",
+   "@achyutananda-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Понижено до D: противоречит гаудия-вайшнавской традиции; у гаудия-вайшнавов (Бхактисиддханта) махамантра начинается с «Харе Кришна» (сноски перевода).",
+  "themes": [
+   "teaching",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-mahamantra-order-dispute",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.1",
+    "to": "6.18"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.1",
+    "to": "6.18",
+    "line": 6,
+    "line_to": 23,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L6-L23",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L6-L23"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "brt-0061",
   "source": "bhakti-ratnakara",
   "ref": "Таранга 2, 454–472",
@@ -201260,6 +201660,64 @@
    47
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0138",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, 19–25",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 17,
+  "title": "Шивананда, Канхаи и паломники",
+  "summary": "Шивананда приводит паломников на Ратха-ятру и месяц живёт с ними в Кшетре; Канхаи, недовольный, пугает паломников, начинается распря, и Каши Мишра мирит их.",
+  "persons": [
+   "@shivananda-sena",
+   "@kanhai-odia",
+   "@kashi-mishra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Чтения «паломники», «каури» неуверенны.",
+  "themes": [
+   "offense"
+  ],
+  "divergence": "В ЧЧ Шивананда Сен сам несёт расходы бенгальских преданных (Мадхья 16, Антья 12).",
+  "event": "ev-shivananda-kanhai-pilgrims-quarrel",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.19",
+    "to": "6.25"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.19",
+    "to": "6.25",
+    "line": 24,
+    "line_to": 30,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L24-L30",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L24-L30"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-1050",
@@ -202354,6 +202812,68 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0139",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, 26–45",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 18,
+  "title": "Мадхави Даси в собрании и уход недовольных преданных",
+  "summary": "Сестра Шикхи Маханти Мадхави Даси, преданная, слагает песни и поёт их перед Свами и Прабху; по Мадхаве, Прабху позволяет ей сидеть в гоштхи; преданные уходят в знак протеста, Свами защищает её, но её приход запрещают; Мадхава замечает, что не все гаудии равны Сварупе.",
+  "persons": [
+   "@madhavi-devi",
+   "@shikhi-mahiti",
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@svarupa-damodara"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Антья 2 (Мадхави-деви)",
+  "notes": "Понижено до D: противоречит ЧЧ — Махапрабху как санньяси строжайше избегал общения с женщинами (сноска перевода).",
+  "themes": [
+   "kirtan",
+   "offense"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-madhavi-in-goshthi",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.26",
+    "to": "6.45"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.26",
+    "to": "6.45",
+    "line": 31,
+    "line_to": 54,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L31-L54",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L31-L54"
+   }
+  ],
+  "cc": "Антья 2 (Мадхави-деви — сестра Шикхи Махити)",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4018",
   "source": "cc",
   "ref": "Антья 2.33–35",
@@ -202540,6 +203060,70 @@
    47
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0140",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, 46–58",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 19,
+  "title": "Младший Харидас и Мадхави; побои от Шикхи; уход Харидаса",
+  "summary": "Младший Харидас под предлогами ходит к Мадхави за рисом и солью; соседи подозревают дурное, Шикхи Маханти запрещает и наконец бьёт его; гаудии докладывают Прабху, и Тот одобряет Шикхи и не желает видеть Харидаса; в горе Харидас ночью уходит из Нилачалы и бросается в Гангу.",
+  "persons": [
+   "@chhota-haridasa",
+   "@madhavi-devi",
+   "@shikhi-mahiti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 2",
+  "notes": "",
+  "themes": [
+   "offense",
+   "sannyasa"
+  ],
+  "teaching": [
+   "sannyasa-teaching"
+  ],
+  "cc": "Антья 2",
+  "divergence": "В ЧЧ — одна просьба о рисе для Господа; Господь Сам отвергает Харидаса, и тот входит в Тривени в Праяге; побоев от Шикхи нет.",
+  "event": "ev-chhota-haridasa-punished",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.46",
+    "to": "6.58"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.46",
+    "to": "6.58",
+    "line": 55,
+    "line_to": 71,
+    "count": 13,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L55-L71",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L55-L71"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 3
  },
  {
   "id": "cc-0127",
@@ -202778,6 +203362,70 @@
    47
   ],
   "attestation": 3
+ },
+ {
+  "id": "vlm-0141",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, 59–85 (продолжается)",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 20,
+  "title": "Гаудии покидают Нилачалу; «восемь шлок»; распря на Говардхане",
+  "summary": "Обидевшись, что Прабху возвеличивает «Джагу Даса», гаудии ночью уходят; Шивананда просит вернуть их; по Мадхаве, Свами пишет восемь шлок о бхавах Прабху, а Шивананда несёт их как письмо Прабху; гаудии не возвращаются, идут во Вриндаван к Рупе и Санатане, а на Говардхане ссорятся с учениками Валлабхи.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@svarupa-damodara",
+   "@shivananda-sena",
+   "@gadadhara-pandita",
+   "@rupa-gosvami",
+   "@sanatana-gosvami"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Понижено до D: полемическое орийское предание. «Шикшаштака» — сочинение Самого Махапрабху (ЧЧ Антья 20; «Падьявали»); гаудии ежегодно приходили к Господу (ЧЧ Мадхья 16, Антья 10, 12) — сноски перевода.",
+  "themes": [
+   "separation",
+   "offense"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-gaudiyas-leave-nilachala",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.59",
+    "to": "6.85"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.59",
+    "to": "6.85",
+    "line": 72,
+    "line_to": 98,
+    "count": 27,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L72-L98",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L72-L98"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "cc-4019",
@@ -203095,7 +203743,7 @@
    30,
    47
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-0356",
@@ -203153,7 +203801,7 @@
    30,
    36
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-4022",
@@ -203222,7 +203870,7 @@
    30,
    47
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-4023",
@@ -205064,7 +205712,7 @@
    30,
    36
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "cc-4077",
@@ -205152,7 +205800,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "gkd-0166",
@@ -205213,7 +205861,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "vlb-0013",
@@ -205275,7 +205923,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "cc-4078",
@@ -205343,7 +205991,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "cc-4079",
@@ -205406,7 +206054,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "cc-4080",

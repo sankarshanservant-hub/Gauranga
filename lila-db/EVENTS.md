@@ -5351,6 +5351,10 @@
 
 - chaitanya-chandrodaya (A): Акт 10, правешака (странник и Гандхарва), ст. 2 — [**Гандхарва.** Брат, послушай.–**Гандхарва.** А я пойду за Шиванандой. ](../chaitanya-chandrodaya/ru/10.md?plain=1#L36-L73) · `ccd-0089`
 
+## Санатана в Пури слушает учение Джаганнатхи Даса / Sanatana in Puri hears the teaching of Jagannatha Dasa  `ev-sanatana-taught-jagannatha-dasa` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 5, 82–99 — [5.82–5.99](../vaishnava-lilamrita/ru/05.md?plain=1#L99-L116) · `vlm-0133`
+
 ## После Дола-ятры Господь посылает Рупу во Вриндаван писать о расах и восстанавливать святые места / After Dola-yatra the Lord sends Rupa to Vrindavana to write on rasa and restore the holy places  `ev-rupa-sent-vrindavana-after-dola` (1517–1517, возраст 31–31, оценка)
 
 - cc (A): Антья 1.213–221 — [213–221](../chaitanya-charitamrita/vcd/txt/CC_Antya01.txt?plain=1#L1874-L1930) · `cc-4013`
@@ -5374,8 +5378,13 @@
 - cc (A): Антья 4.104–114 — [104–114](../chaitanya-charitamrita/vcd/txt/CC_Antya04.txt?plain=1#L1162-L1261) · `cc-4043`
 - cc (A): Антья 4.165–204 — [165–204](../chaitanya-charitamrita/vcd/txt/CC_Antya04.txt?plain=1#L1803-L2262) · `cc-4046`
 
+## Джаганнатха Дас получает имя «Атибада» / Jagannatha Dasa receives the name 'Atibada'  `ev-atibada-name` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (D): Гл. 5, 109–129 — [5.109–5.129](../vaishnava-lilamrita/ru/05.md?plain=1#L130-L150) · `vlm-0135`
+
 ## Господь запрещает Санатане самоубийство: «твоё тело — Моя собственность» / The Lord forbids Sanatana's suicide: "your body is My property"  `ev-sanatana-suicide-forbidden` (1516–1533, возраст 30–47, оценка)
 
+- vaishnava-lilamrita (C): Гл. 5, 73–81 — [5.73–5.81](../vaishnava-lilamrita/ru/05.md?plain=1#L86-L98) · `vlm-0132`
 - cc (A): Антья 4.54–103 — [54–103](../chaitanya-charitamrita/vcd/txt/CC_Antya04.txt?plain=1#L578-L1151) · `cc-4042`
 
 ## Санатана идёт по раскалённому песку, избегая Львиных ворот / Sanatana walks on the burning sand, avoiding the Lion Gate  `ev-sanatana-hot-sand-test` (1516–1533, возраст 30–47, оценка)
@@ -5411,6 +5420,10 @@
 - cc (A): Антья 3.20–48 — [20–48](../chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L218-L489) · `cc-4027`
 - gaura-krishnodaya (C): Сарга 16, 66 — [66–66](../gaura-krishnodaya/ru/16.md?plain=1#L149-L149) · `gkd-0161`
 
+## Баларама Дас и песчаная колесница: колесница Джаганнатхи не движется / Balarama Dasa's sand chariot: Jagannatha's chariot will not move  `ev-balarama-dasa-sand-chariot` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 5, 130–164 — [5.130–5.164](../vaishnava-lilamrita/ru/05.md?plain=1#L151-L189) · `vlm-0136`
+
 ## Гаура является Санатане как бы во сне на Двадашадитья-тиле / Gaura appears to Sanatana as if in a dream at Dvadashaditya-tila  `ev-gaura-appears-sanatana-dvadashaditya` (1516–1533, возраст 30–47, оценка)
 
 - bhakti-ratnakara (B): Таранга 5, 2023–2028 — [2023–2028](../bhakti-ratnakara/ru/05.md?plain=1#L6589-L6604) · `brt-2002`
@@ -5424,11 +5437,19 @@
 - cc (A): Антья 4.214–216 — [214–216](../chaitanya-charitamrita/vcd/txt/CC_Antya04.txt?plain=1#L2370-L2392) · `cc-4048`
 - gaura-krishnodaya (B): Сарга 17, 4 — [4–4](../gaura-krishnodaya/ru/17.md?plain=1#L13-L13) · `gkd-0163`
 
+## Спор о начале махамантры: «Харе Рама» или «Харе Кришна» / The dispute over the opening of the mahamantra: 'Hare Rama' or 'Hare Krishna'  `ev-mahamantra-order-dispute` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (D): Гл. 6, 1–18 — [6.1–6.18](../vaishnava-lilamrita/ru/06.md?plain=1#L6-L23) · `vlm-0137`
+
 ## Мадана-мохан из дома Дамодары Чаубе переходит к Санатане; храмы Вриндавана / Madana-mohana leaves Damodara Chaube's house for Sanatana; the temples of Vrindavana  `ev-madana-mohana-chaube` (1516–1533, возраст 30–47, оценка)
 
 - bhakti-ratnakara (B): Таранга 2, 454–472 — [454–472](../bhakti-ratnakara/ru/02.md?plain=1#L1352-L1409) · `brt-0061`
 - prema-vilasa (D): Виласа 23, 124–149 — [124–149](../prema-vilasa/ru/23.md?plain=1#L377-L452) · `pvl-0197`
 - bhakti-ratnakara (B): Таранга 5, 1777–1786 — [1777–1786](../bhakti-ratnakara/ru/05.md?plain=1#L5798-L5825) · `brt-1050`
+
+## Ссора Шивананды и Канхаи из-за паломников / Shivananda and Kanhai quarrel over the pilgrims  `ev-shivananda-kanhai-pilgrims-quarrel` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 6, 19–25 — [6.19–6.25](../vaishnava-lilamrita/ru/06.md?plain=1#L24-L30) · `vlm-0138`
 
 ## Рупа и Санатана во Вриндаване: писания, святые места и книги / Rupa and Sanatana in Vrindavana: scriptures, holy places and books  `ev-rupa-sanatana-books-vrindavana` (1516–1533, возраст 30–47, оценка)
 
@@ -5484,6 +5505,10 @@
 
 - prema-vilasa (D): Виласа 22, 69–79 — [69–79](../prema-vilasa/ru/22.md?plain=1#L209-L239) · `pvl-0187`
 
+## Мадхави Даси поёт в собрании; уход недовольных преданных / Madhavi Dasi sings in the assembly; the displeased devotees leave  `ev-madhavi-in-goshthi` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (D): Гл. 6, 26–45 — [6.26–6.45](../vaishnava-lilamrita/ru/06.md?plain=1#L31-L54) · `vlm-0139`
+
 ## Постоянные явления Господа: у Шачи, Нитьянанды, Шриваса и Рагхавы / The Lord's constant appearances: with Shachi, Nityananda, Shrivasa and Raghava  `ev-avirbhava-four-places` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Антья 2.33–35 — [33–35](../chaitanya-charitamrita/vcd/txt/CC_Antya02.txt?plain=1#L420-L440) · `cc-4018`
@@ -5496,6 +5521,10 @@
 - cc (A): Антья 2.16–32 — [16–32](../chaitanya-charitamrita/vcd/txt/CC_Antya02.txt?plain=1#L237-L409) · `cc-4017`
 - chaitanya-chandrodaya (A): Акт 9, правешака (чета киннаров), ст. 3 — [**Мужчина.** Рассказ о том, как он входи–**Мужчина.** Тогда по воле судьбы туда в](../chaitanya-chandrodaya/ru/09.md?plain=1#L53-L67) · `ccd-0074`
 - gaura-krishnodaya (B): Сарга 18, 18–36 — [18–36](../gaura-krishnodaya/ru/18.md?plain=1#L43-L81) · `gkd-0183`
+
+## Гаудии покидают Нилачалу; «восемь шлок» / The Gaudiyas leave Nilachala; the 'eight verses'  `ev-gaudiyas-leave-nilachala` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (D): Гл. 6, 59–85 (продолжается) — [6.59–6.85](../vaishnava-lilamrita/ru/06.md?plain=1#L72-L98) · `vlm-0141`
 
 ## Нрисимхананда подносит три угощения, и Господь вкушает все три / Nrisimhananda offers three meals and the Lord eats all three  `ev-nrisimhananda-three-offerings` (1516–1533, возраст 30–47, оценка)
 
@@ -5513,6 +5542,7 @@
 
 ## Господь отвергает Младшего Харидаса / The Lord rejects Junior Haridasa  `ev-chhota-haridasa-punished` (1516–1533, возраст 30–47, оценка)
 
+- vaishnava-lilamrita (C): Гл. 6, 46–58 — [6.46–6.58](../vaishnava-lilamrita/ru/06.md?plain=1#L55-L71) · `vlm-0140`
 - advaita-prakasha (D): Гл. 18, 138–150 — [138. Певец Шри–150. Уповая на](../advaita-prakash/18.md?plain=1#L142-L154) · `apr-0127`
 - cc (A): Мадхья 1.259 — [259–259](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2657-L2657) · `cc-0356`
 - cc (A): Антья 2.101–145 — [101–145](../chaitanya-charitamrita/vcd/txt/CC_Antya02.txt?plain=1#L1258-L1824) · `cc-4022`
@@ -5580,6 +5610,7 @@
 
 ## Валлабха Бхатта у Господа в Пури / Vallabha Bhatta with the Lord at Puri  `ev-vallabha-bhatta-puri` (1516–1533, возраст 30–47, оценка)
 
+- vaishnava-lilamrita (C): Гл. 5, 100–108 — [5.100–5.108](../vaishnava-lilamrita/ru/05.md?plain=1#L121-L129) · `vlm-0134`
 - cc (A): Мадхья 1.263 — [263–263](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2697-L2697) · `cc-0361`
 - cc (A): Антья 7.4–57 — [4–57](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L58-L788) · `cc-4077`
 - gaura-krishnodaya (B): Сарга 17, 16–19 — [16–19](../gaura-krishnodaya/ru/17.md?plain=1#L39-L45) · `gkd-0166`
