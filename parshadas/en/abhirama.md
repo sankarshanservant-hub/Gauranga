@@ -148,3 +148,125 @@ He is formidable only to godlessness. The power before which the godless tremble
 Nityananda has entered His servant (*avesha*) and acts through him, and the work of that power is not punishment but the
 deliverance of the fallen. <!-- I2 -->
 
+## Malini
+The “Bhakti-ratnakara” says that Abhirama was learned in all the shastras, supremely charming, and without equal in
+dance, song and instrumental music (4.106); the biographies call him a remarkable scholar. <!-- F19 -->
+
+His wife was Sri Malini-devi, the daughter of a brahmana. Abhirama married not by his own choice but by the wish of
+Nityananda-Balarama, taking a wife from the house of a learned brahmana. The narrator of the “Bhakti-ratnakara” says to
+Srinivasa:
+
+“O Srinivasa, how much shall I tell you? He descended in a brahmana's house to deliver living beings. <…> By the will
+of Prabhu Nityananda-Balarama he married, [taking a wife] from the house of a learned brahmana. Sri Abhirama's wife is
+named Sri Malini; I cannot tell all her glory.” (“Bhakti-ratnakara” 4.105–108)
+
+Malini is not a wife in the worldly sense but a partner in his service: together with her husband and their people she
+joyfully serves Sri Gopinatha (4.119), together with him she bestows mercy on Srinivasa and Narottama, and Vedagarbha in
+his verse honours Abhirama as “the husband of Sri Malini.” They lived at Khanakula-Krishnanagara. <!-- F20 F21 Q7 -->
+
+## Gopinatha and Rama-kunda
+Abhirama longed to serve the Deity, and the Lord Himself came to him. The “Bhakti-ratnakara” relates:
+
+“Gopinatha appeared to him as if in a dream, said, ‘Here I abide,’ and showed him the place. Digging at that place,
+Abhirama found the incomparable Deity of Gopinatha.” (“Bhakti-ratnakara” 4.114–115)
+
+The news spread everywhere; people came running for darshan and, the moment they saw Gopinatha, forgot their grief. The
+pond where Gopinatha appeared became famous as Rama-kunda: bathing in it and drinking its water, all were overwhelmed
+with bliss, and there was no counting the pilgrims (4.116–118). Srila Bhaktisiddhanta in the “Anubhashya” records the
+tradition that the Deity appeared when a pond was being dug in front of the temple, and that the pond has been called
+Abhirama-kunda ever since. One of the biographies tells that Gopinatha said to Abhirama in a dream that He wished to
+appear at Khanakula-Krishnanagara and lay hidden in the earth, and told him to dig Him out and begin His service; at the
+place Gopinatha showed, Abhirama found the Deity who captivates the mind.[^5] <!-- F22 F23 Q8 -->
+
+The service of Gopinatha was revealed in Gauda-mandala by Abhirama Thakura, in Kshetra-mandala, at Puri, by Gadadhara
+Pandita, and in Vraja by Madhu Pandita; the biographies name these three Gopinathas together. <!-- F53 -->
+
+Khanakula-Krishnanagara, Abhirama's shripata, stands on the bank of the river Khana, or Dvarakeshvara (*kula* means
+“bank”), in the Hooghly district; in the “Bhakti-ratnakara” the river is called Darukeshvara, and the country around
+Khanakula Virloka. According to one of the biographies, the place is called Krishnanagara because it has a temple of
+Krishna. Srila Bhaktisiddhanta in the “Anubhashya” also describes the way there as it was in his time: by the
+Howrah–Amta railway to Champadanga station, and from there about ten miles south-west, past the market of Helanar
+Hat; in the rains the road floods, and then one goes by steamer from Kolaghat to Ranichak, and from there seven and a
+half miles north. <!-- F24 -->
+
+At the temple gate grows a bakula tree, and the spot is called Siddha-bakula-kunja: it is said that on coming to the
+village Abhirama Thakura first sat down just here; according to another biography, he loved to sit under this tree.
+<!-- F25 -->
+
+As the “Anubhashya” describes it, the temple is the abode of Sri Baladeva, Sri Madana-mohana — alone, without Radha —
+and Sri Gopinatha. Gopinatha is carved on a single slab of touchstone (*kashtipathar*) a cubit and a quarter high and
+about a cubit wide, and on the same slab are the pastime of stealing the gopis' garments, a kadamba tree, the Yamuna,
+cows and calves: such is the arcā-vigraha here. On the throne there are also the shri-murti of Abhirama Thakura
+himself, poised in the rapture of dance, and Sri Vraja-vallabha — the Divine Couple; there are also a shalagrama-shila
+and Sri Gopala. <!-- F26 -->
+
+Directly south of the present temple stands the old nine-spired (*navaratna*) temple. On a stone at the top the year
+of building is carved — 1181 of the Bengali era (about 1774–1775) — but there is no builder's name; it is said that
+Nachhirama Simha of the cowherd community of a neighbouring village built it. Formerly the Deity resided in this
+temple, and before it was built, on the same spot, in a thatched hut. <!-- F27 -->
+
+The inscription on the present temple reads: “The temple of Sri Sri Gopinatha Jiu built in Magha 1219, repaired in
+Vaishakha 1308” (about 1813 and 1901); its builder is said to be Pundarikaksha Raya of Madhavapura near Arambagh
+(Hooghly). In front of the old temple is a spacious brick natya-mandira; fishermen (*dhivaras*) of Medinipur built it in
+1263 and restored it themselves in 1320 (about 1856–1857 and 1913–1914).[^6] Directly north of the Gopinatha temple
+stands the ancient temple of Sri Radha-vallabha Jiu, founded by local kayasthas of the Chaudhuri family. <!-- F28 F29 -->
+
+The temple servants told Srila Bhaktisiddhanta that since the days of Abhirama Thakura the Deity has been offered
+parboiled rice (*siddha-chaul*) and even puffed rice (*muri*); when the Thakura is laid down to rest, the temple doors
+are not closed, and everything is done in full view of all; the early-morning mangala-arati was no longer performed in
+his time. The servants then numbered thirty-six or thirty-seven families. <!-- F30 F31 -->
+
+## The Whip Jayamangala
+Abhirama had a whip called “Sri Jayamangala.” Tradition says that whoever Abhirama Thakura touched with it awoke to love
+for Krishna.[^7] The touch of this whip is not a punishment but a gift of prema. <!-- F34 -->
+
+The whip is still kept in the temple, in an iron chest locked with the keys of all the servants together. It is two
+cubits long and wound with gold thread (*jari*). At the festival it is brought out only if all the servants agree.
+<!-- F35 -->
+
+It is said that the touch of Jayamangala, like Abhirama's obeisance, could be borne only by one who sincerely loves
+Krishna. <!-- F36 -->
+
+## Srinivasa at Khanakula
+When young Srinivasa, not yet an Acharya, came to Khardaha, Jahnava and Vasudha told him: “Go quickly to the house of
+Abhirama Gopala” (“Bhakti-ratnakara” 4.93). According to the “Prema-vilasa,” Jahnava sent Ishana with him and a letter:
+she asked Abhirama to touch the youth three times with his whip. <!-- F40 -->
+
+On the way, at Virloka, an old brahmana of Khanakula joined Srinivasa. Learning who he was, the brahmana embraced him in
+tears and spoke at length about Abhirama: “Sri Thakura Abhirama is an abode of virtues; he will show you great mercy”
+(4.102); “Sri Thakura Abhirama is the embodiment of prema; all worship him — who does not proclaim his fame?” (4.111).
+At the end he warned: “Only the fortunate understand this inscrutable conduct; you will see it yourself, son — be
+careful” (4.126), and showed him the house. <!-- F41 F56 -->
+
+Having bowed down, Srinivasa stayed waiting at the gate. Abhirama, in separation from the Lord, spoke to no one; but
+when he learned who had come, he smiled quietly and resolved to test his guest. He gave him ten “kards” of cowrie shells
+for his food; Srinivasa bought what was needed, cooked on the bank of the Darukeshvara and offered the meal to Krishna.
+Just then the Thakura sent four people to him; Srinivasa joyfully fed them and only then honoured the maha-prasada
+himself. Those who had been sent came back satisfied. “All these tests were to teach others,” remarks the
+“Bhakti-ratnakara” (4.130–138).[^8] <!-- F42 -->
+
+Then Abhirama called him.
+
+“With his whip named Jayamangala he touched Srinivasa's body three times.” (“Bhakti-ratnakara” 4.139)
+
+As he touched him, he laughed aloud and said something to him. And when in loving rapture he was about to touch him
+once more, Malini-devi came and, smiling, held his hand:
+
+“Restrain yourself, Gosani: there is no limit to the mercy you have shown. Srinivasa is only a boy; he will not be able
+to stay steady; if he goes mad with love, how will he accomplish his task?” (“Bhakti-ratnakara” 4.142–143)
+
+Malini is not quarrelling with her husband. She only reminds him that a great service lies ahead of the youth, and the
+mercy must be measured to it. Then both laid their hands on Srinivasa's head; he fell at their feet, and they raised
+him and bathed him in their tears.[^9] <!-- F43 -->
+
+Srinivasa was filled with love for Krishna. Abhirama grew very fond of him and blessed him generously; Srinivasa did not
+take initiation from him, but became like a disciple to him, and the “Anubhashya,” listing Abhirama's disciples, calls
+him “half a disciple.” Both Abhirama and Malini entrusted him to the feet of Radha-Gopinatha and told him to go to
+Vrindavana, and in all the people of Krishnanagara and Khanakula love grew at the sight of Srinivasa (4.146–148).
+According to one of the biographies, Srinivasa humbly asked for his blessing to return to Shrikhanda. <!-- F44 -->
+
+The mercy of a Vaishnava is not bounded by the form of initiation: Srinivasa was not Abhirama's disciple, yet received
+so much love from him that he is counted almost a disciple. And the touch of “the transcendental whip of a pure
+devotee,” as one of the biographies calls it, gave him love for Krishna: so the mercy of a pure devotee makes another a
+devotee. <!-- I4 I6 -->
+
