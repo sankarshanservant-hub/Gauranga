@@ -11242,6 +11242,10 @@
     "type": "met"
    },
    {
+    "from": "@kamalakara-pippalai",
+    "type": "guru"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -14147,6 +14151,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@kamalakara-pippalai",
     "type": "other"
    },
    {
@@ -33110,6 +33118,10 @@
     "type": "friend"
    },
    {
+    "from": "@kamalakara-pippalai",
+    "type": "other"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "other"
    },
@@ -34566,6 +34578,10 @@
     "type": "met"
    },
    {
+    "from": "@kamalakara-pippalai",
+    "type": "relative"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "other"
    },
@@ -35116,6 +35132,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "met"
+   },
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "companion"
    },
    {
     "from": "@mahesha-pandita",
@@ -39836,6 +39856,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@kamalakara-pippalai",
+    "type": "other"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -43041,6 +43065,12 @@
   "events": [
    "ev-narayani-from-ocean",
    "ev-virachandra-marriage"
+  ],
+  "related_by": [
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "in-law"
+   }
   ]
  },
  {
@@ -43056,6 +43086,12 @@
   "events": [
    "ev-narayani-from-ocean",
    "ev-virachandra-marriage"
+  ],
+  "related_by": [
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "daughter"
+   }
   ]
  },
  {
@@ -43079,6 +43115,10 @@
    {
     "from": "@jahnava",
     "type": "disciple"
+   },
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "relative"
    },
    {
     "from": "@nityananda",
@@ -44079,6 +44119,10 @@
    {
     "from": "@jahnava",
     "type": "servant"
+   },
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "other"
    },
    {
     "from": "@mahesha-pandita",
@@ -45561,6 +45605,10 @@
     "type": "other"
    },
    {
+    "from": "@kamalakara-pippalai",
+    "type": "other"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -45887,6 +45935,10 @@
    {
     "from": "@jahnava",
     "type": "disciple"
+   },
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -50913,6 +50965,127 @@
    "ev-nityananda-preaching-gauda",
    "ev-panihati-chida-dadhi",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Махабала, пастушок Враджа (ГГД 128); гуру — Нитьянанда; происхождение — Кхалиджули; уход — Вишну, шукла-трайодаши",
+  "card": "parshadas/cards/kamalakara-pippalai.yaml",
+  "article": {
+   "ru": "parshadas/ru/kamalakara-pippalai.md",
+   "en": "parshadas/en/kamalakara-pippalai.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1414 шака (899 бенг.; T — 1492)",
+    "tithi": "",
+    "place": "#khalijuli",
+    "conf": "год — по «Гаудия-вайшнава-абхидхане» (B 929; T 93); место — Кхалиджули в Сундарбане (B; «Анубхашья»), по «Шрипат-парьятане» — Акна-Махеш (T, ⚠5); тити не названа; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "date": "1485 шака (970 бенг.; T — 1563), в 71 год",
+    "tithi": "Вишну (≈ чайтра), шукла-трайодаши",
+    "place": "#vrindavana",
+    "conf": "по преданию махешских Адхикари (B 931; T 94); место — Вриндаван по «Вайшнавачара-дарпане» (B 931; T 94); первоисточник не назван; в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет — тити дана по книгам; хронология с Кхетури не сведена (⚠12)",
+    "facts": [
+     "F35",
+     "F36"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Махабала, пастушок (сакха) Враджа; один из двенадцати гопалов Нитьянанды",
+    "source": "ГГД 128",
+    "level": "A",
+    "variants": [
+     "«Вайшнавачара-дарпана» (по T 93) — так же Махабала",
+     "Ванданы, ч. 4, 29–30 — «Камалакара Пандит» = Васудама (против ГГД 127–128; смешение с Камалакантой Пандитом ЧБ Антья 5.729, ⚠8)",
+     "B 115 и B 271 — третий в перечне гопалов"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@nityananda",
+    "note": "Ветвь древа Нитьянанды (ЧЧ Ади 11.24), один из двенадцати гопалов; сидел вокруг Него на празднике в Панихати (ЧЧ Антья 6.61); по «Виджая-кханде» (B, T) получил от Него Панихати (источник не найден, ⚠10). = @nityananda F283, F369, F390."
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-mahesh",
+    "note": "Джаганнатха, Баларама и Субхадра Махеша, явившиеся в Ганге Дхрувананде; по велению Господа принял служение и титул «Адхикари»; «установлено им» (B, T, «Анубхашья» к Ади 11.24) — ⚠Б1."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@dhruvananda-mahesh",
+    "note": "Прежний служитель Джаганнатхи Махеша; по сну передал ему служение (предание, «Анубхашья» к Ади 11.24). Не путать с @dhruvananda-brahmachari (⚠9)."
+   },
+   {
+    "type": "sibling",
+    "who": "@nidhipati-pippalai",
+    "note": "Младший брат; нашёл его в Махеше и сам переселился туда с семьями (предание, «Анубхашья»)."
+   },
+   {
+    "type": "in-law",
+    "who": "@sudhamaya",
+    "note": "Зять: муж дочери Видьюнмалы (B, T по «Абхидхане» и НВВ 3.4: «зять Пипилаи»); B, T — «Чаттопадхьяя», НВВ — «Мукхути» (⚠3)."
+   },
+   {
+    "type": "daughter",
+    "who": "@vidyunmala",
+    "note": "Дочь (B, T, НВВ); у Бхактисиддханты Видьюнмала (Лакшми) — жена Ядунатхи Ачарьи из Джхаматпура, без упоминания отца; «Вайшнавачара-дарпана» — жена Ядунанданы (⚠3)."
+   },
+   {
+    "type": "relative",
+    "who": "@narayani-virachandra",
+    "note": "Внучка: дочь (по НВВ — приёмная, от Океана) Видьюнмалы и Судхамаи, жена Вирабхадры; у Бхактисиддханты — приёмная дочь Ядунатхи и Видьюнмалы; по Адхикари Махеша — «Радхарани» (⚠3)."
+   },
+   {
+    "type": "relative",
+    "who": "@virabhadra",
+    "note": "Муж его внучки Нараяни (B, T); по Бхактисиддханте — также Шримати (= @shrimati-virachandra)."
+   },
+   {
+    "type": "other",
+    "who": "@shrimati-virachandra",
+    "note": "Дочь Ядунатхи Ачарьи и Видьюнмалы, жена Вирабхадры («Анубхашья» к Ади 11.8; B 930; T 94) — родство с ним по этой версии не названо (⚠3)."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "В его шрипате в Акна-Махеше — киртан и оживший шакал (B 921; T 89). = @parameshvara-dasa F30."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Гость праздника чида-дадхи в Панихати (ЧЧ Антья 6.61; T — «Данда-махотсава Рагхунатхи даса»)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-dasa",
+    "note": "Был на празднике в Катве, «данном Дасом Гададхарой» (B 931; T 94). = @gadadhara-dasa F42, ⚠7 там."
+   },
+   {
+    "type": "companion",
+    "who": "@jahnava",
+    "note": "В её свите из Кхардахи в Кхетури (БР 10.375; НВ 6.188, 8.51, 8.152–153; ПВ 19.309). = @jahnava F51, F52."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Гость праздника в Кхетури (T 209; M 112; НВ 6, 8)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 11.24 (род, земля, предания), 11.8 (жёны Вирабхадры), 10.106 (Валлабхапур, Ратха-ятра Махеша), Антья 6.61."
+   }
   ],
   "related_by": [
    {
@@ -59743,6 +59916,51 @@
    {
     "from": "@uddharana-datta",
     "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@jagannatha-mahesh",
+  "ru": "Джаганнатха Махеша — Божество Камалакары Пиппалаи",
+  "en": "Jagannatha of Mahesh, the Deity of Kamalakara Pippalai",
+  "note": "Джаганнатха, Баларама и Субхадра, по преданию явившиеся в Ганге Дхрувананде; служение — @kamalakara-pippalai и его потомкам Адхикари («Анубхашья» к ЧЧ Ади 11.24, 10.106; B 929–930; T 93)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@nidhipati-pippalai",
+  "ru": "Нидхипати Пиппалаи",
+  "en": "Nidhipati Pippalai",
+  "note": "младший брат @kamalakara-pippalai, переселился к нему в Махеш (предание, «Анубхашья» к ЧЧ Ади 11.24; B 929; T 93)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "sibling"
+   }
+  ]
+ },
+ {
+  "id": "@dhruvananda-mahesh",
+  "ru": "Дхрувананда из Махеша",
+  "en": "Dhruvananda of Mahesh",
+  "note": "отрешённый вайшнав (вайраги), по преданию поднявший из Ганги Джаганнатху Махеша и передавший служение @kamalakara-pippalai (B 929–930; T 93); не путать с @dhruvananda-brahmachari",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kamalakara-pippalai",
+    "type": "lineage-predecessor"
    }
   ]
  }

@@ -457,7 +457,7 @@
 | @jagannatha-tirtha | Джаганнатха Тиртха | Jagannatha Tirtha | санньяси (ГГД 100) |
 | @jiva-pandita | Джива Пандит | Jiva Pandita | спутник Нитьянанды (ГГД 169: Индира); не путать с @jiva-gosvami |
 | @kaliya-krishnadasa | Калия (Кала) Кришнадас | Kaliya (Kala) Krishnadasa | спутник Нитьянанды (ГГД 132; ЧЧ Ади 11); не путать с @kala-krishnadasa |
-| @kamalakara-pippalai | Камалакара Пиппалаи | Kamalakara Pippalai | спутник Нитьянанды, один из двенадцати гопалов (ГГД 128) |
+| @kamalakara-pippalai | Камалакара Пиппалаи | Kamalakara Pippalai | спутник Нитьянанды, один из двенадцати гопалов (ГГД 128) · {карточка: в Кришна-лиле — Махабала, пастушок Враджа (ГГД 128); гуру — Нитьянанда; происхождение — Кхалиджули; уход — Вишну, шукла-трайодаши} |
 | @kamsari-sena | Камсари Сен | Kamsari Sena | спутник Господа (ГГД 194–207) |
 | @kashinatha-mahiti | Кашинатха Махити | Kashinatha Mahiti | ория-спутник в Пури (ванданы); не путать с @kashinatha |
 | @kavichandra | Кавичандра | Kavichandra | спутник Господа (ГГД 171); в ванданах рядом с Рамадасом |
@@ -788,3 +788,6 @@
 | @bhadravati-saptagrama | Бхадравати (мать Уддхараны) | Bhadravati (Uddharana's mother) | мать @uddharana-datta (B 922; T 90; «по мнению некоторых» — «Анубхашья»); не путать с @bhadravati, матерью Васудхи и Джахнавы |
 | @shrinivasa-datta | Шринивас Датта Тхакур | Shrinivasa Datta Thakura | сын @uddharana-datta (B 923; T 92 — единственный; M 14 — принял в Саптаграме Вирачандру); не путать с @srinivasa-acharya |
 | @gaura-shadbhuja-saptagrama | Шестирукий Махапрабху — Божество Уддхараны (Саптаграм) | the six-armed Mahaprabhu, Uddharana's Deity (Saptagram) | установил и служил своими руками @uddharana-datta; справа Нитьянанда, слева Гададхара (B 923; T 91; «Анубхашья» к ЧЧ Ади 11.41) |
+| @jagannatha-mahesh | Джаганнатха Махеша — Божество Камалакары Пиппалаи | Jagannatha of Mahesh, the Deity of Kamalakara Pippalai | Джаганнатха, Баларама и Субхадра, по преданию явившиеся в Ганге Дхрувананде; служение — @kamalakara-pippalai и его потомкам Адхикари («Анубхашья» к ЧЧ Ади 11.24, 10.106; B 929–930; T 93) |
+| @nidhipati-pippalai | Нидхипати Пиппалаи | Nidhipati Pippalai | младший брат @kamalakara-pippalai, переселился к нему в Махеш (предание, «Анубхашья» к ЧЧ Ади 11.24; B 929; T 93) |
+| @dhruvananda-mahesh | Дхрувананда из Махеша | Dhruvananda of Mahesh | отрешённый вайшнав (вайраги), по преданию поднявший из Ганги Джаганнатху Махеша и передавший служение @kamalakara-pippalai (B 929–930; T 93); не путать с @dhruvananda-brahmachari |
