@@ -250,6 +250,216 @@ thousands gathered at the temple of Vishveshvara and at the Ganga when He went t
 called out: “Sing ‘Hari! Hari!’” (7.154–159). Kaviraja promises to tell of this in more detail later (7.162) — and does
 so in the Madhya-lila. <!-- F34 F35 -->
 
+## A Speech in Defence of Bhakti
+From the time the Lord showed mercy to the sannyasis of Varanasi, the whole town spoke of nothing else. Panditas and
+disputants, learned in many shastras, began to come to Him; He shattered their false interpretations and with
+irrefutable arguments established bhakti as the highest truth, and they, accepting His teaching, began to sing and
+dance in Krishna-sankirtana (CC, Madhya 25.18–21). The Mayavadi sannyasis, giving up their study of Vedanta, discussed
+among themselves only the path of bhakti revealed by the Lord (25.22). <!-- F36 -->
+
+At one such gathering a disciple of Prakashananda spoke up:
+
+“One of Prakashananda's disciples, his equal, spoke in the assembly in praise of the Lord: ‘Sri Krishna Chaitanya is
+Narayana Himself. He explains the meaning of the *Vyasa-sutra* most charmingly.’” (CC, Madhya 25.23–24)
+
+He praised the Lord's interpretation as revealing the *chich-chhakti-vilasa* — the play of Krishna's spiritual energy —
+and censured Shankara's teaching:
+
+“‘I accept the words of Sri Krishna Chaitanya as firmly true: in the age of Kali one does not conquer *samsara* by
+sannyasa. <…> The *Bhagavata* says that without bhakti there is no liberation, and in the age of Kali liberation comes
+easily by *namabhasa*, the mere semblance of the holy name.’” (CC, Madhya 25.28, 30)
+
+One of the biographies says of this disciple simply that he was devoted to Mahaprabhu. <!-- F37 -->
+
+And then Prakashananda himself took the word. The head of the sannyasis of Kashi, who not long before had laughed at
+“the sentimental sannyasi from Gauda,” now supported his disciple with many arguments:
+
+“Hearing him, Prakashananda spoke: ‘The Acharya was determined to establish *advaita-vada*, and so he explained the
+sutras in another way. If one accepts that He is Bhagavan (*bhagavatta*), *advaita* cannot be established. Therefore he
+refutes all the scriptures. An author who wants to establish his own doctrine cannot give the natural meaning of the
+scriptures.’” (CC, Madhya 25.45–48)
+
+He went through the doctrines of the Mimamsakas, of Sankhya, Nyaya, the Mayavadis and Patanjali's yoga — each puts
+forward its own and refutes the others — and concluded that Vyasa refuted all six and set forth Vedanta in his sutras.
+
+“‘In the view of Vedanta, Brahman is defined as having form (*sakara*), and the word *nirguna*, a negation, shows that
+He is in truth *saguna* — possessed of qualities. <…> So we do not come to know the truth from the six philosophies; we
+accept as truth what the *mahajanas* say. <…> The words of Sri Krishna Chaitanya are a stream of nectar. Whatever He
+declares is the truth, the very essence.’” (CC, Madhya 25.53, 55, 57)
+
+The last verse one of the biographies cites as the conclusion of the whole speech: the word of Chaitanya is what one
+must follow. This is no longer an opponent speaking, but a devotee. Srila Bhaktisiddhanta in the “Anubhashya” so heads
+this passage: “the words of Prakashananda, who had now become a devotee of Gaura.” The change in him was genuine: he
+himself, before his own disciples, refuted the interpretations of Shankara that he had once taught. <!-- F38 Q8 F39 -->
+
+## At Bindu-madhava
+The brahmana from Maharashtra, hearing these words, hurried to the Lord with the good news. Mahaprabhu, as was His
+custom in Kashi, had bathed at Panchanada and was on His way to the temple of Bindu-madhava, and on the way the brahmana
+told Him all that he had heard from the lips of Prakashananda, now a devotee. The Lord listened with a gentle smile (CC,
+Madhya 25.58–60). <!-- F40 -->
+
+“Seeing the beauty of Madhava, He was overwhelmed with feeling, and coming into the courtyard, He began to dance in
+love. Chandrashekhara, Paramananda, Tapana and Sanatana — these four together joined in the sankirtana of the holy
+name: ‘*Hari haraye namah, krishna yadavaya namah, gopala govinda rama shri-madhusudana*.’ On all sides hundreds of
+thousands of people called out, ‘Hari! Hari!’ An auspicious sound arose, filling heaven and earth.” (CC, Madhya
+25.61–64) <!-- F41 -->
+
+“Hearing the sound of ‘Hari’ nearby, Prakashananda came out of curiosity to see, bringing his disciples with him.
+Seeing the Lord's dance, His love and the sweetness of His form, he too, with his disciples, called out, ‘Hari!
+Hari!’” (CC, Madhya 25.65–66)
+
+He was struck, says one of the biographies, by the Lord's extraordinary beauty, His childlike humility, His generosity
+and magnanimity. And the people of Kashi marvelled to see joy, humility, restlessness and the other *sanchari-bhavas*
+succeed one another in the Lord (25.67). <!-- F42 -->
+
+Noticing the crowd around Him and the sannyasis led by Prakashananda, the Lord stopped dancing. And then something
+happened that no one expected:
+
+“The Lord honoured Prakashananda's feet, and Prakashananda came forward and clasped the Lord's feet.” (CC, Madhya
+25.69)[^7] <!-- F43 -->
+
+A conversation followed in which each tried to give honour to the other:
+
+“The Lord said, ‘You are the guru of the world, most worthy of worship. I am not equal even to a disciple of your
+disciple. Why should you, who are superior, honour one who is inferior? You are equal to Brahman, and your obeisance is
+My total ruin. Although to you everything appears as Brahman, for the sake of teaching the people you should not act in
+this way.’ Prakashananda replied, ‘The blasphemy of You that I committed before has all been destroyed by the touch of
+Your feet.’” (CC, Madhya 25.70–73)
+
+“The Lord said, ‘Vishnu! Vishnu! I am a tiny, lowly jiva. To regard a jiva as Vishnu is the mark of an offender.’” (CC,
+Madhya 25.76)
+
+“Prakashananda said, ‘You are Bhagavan Himself. Even so, if You think of Yourself as His servant, You are still more
+worthy of worship than all of us. Blaspheming You has brought me total ruin. <…> Now devotion to Your lotus feet will
+arise in me; for that I bow down at Your feet.’” (CC, Madhya 25.79–80, 84)
+
+By bowing to a sannyasi's feet and exclaiming “Vishnu! Vishnu!”, the Lord teaches the world: a jiva must not be called
+God, and sannyasis should be honoured. But Prakashananda is right in calling Him Bhagavan Himself: the Lord's humility
+does not make Him a jiva. So the head of the sannyasis of Kashi repentantly acknowledged his former offences and by the
+touch of the Lord's feet was cleansed of them. <!-- F44 -->
+
+Then Prakashananda sat down beside the Lord and began to ask:
+
+“‘We all know now that the faults You have shown in Mayavada come from the Acharya's imagined interpretation. You have
+explained the primary meaning of the sutras, and hearing it, everyone's mind was filled with wonder. You are Ishvara,
+and all potencies are Yours. Please explain it to us briefly; I long to hear it.’” (CC, Madhya 25.86–88) <!-- F45 -->
+
+The Lord, calling Himself a tiny jiva, replied: the true meaning of the sutras is known only to their author, Vyasa,
+and he himself explained them. The meaning of the pranava is unfolded in the Gayatri, and the Gayatri in the four
+principal verses of the “Bhagavatam,” which the Lord revealed to Brahma, Brahma to Narada and Narada to Vyasa;
+understanding that this was the meaning of his sutras, Vyasa made the “Bhagavatam” their commentary. In these verses
+sambandha, abhidheya and prayojana are all given. Having explained them, the Lord concluded:
+
+“‘Therefore study the *Bhagavatam* carefully: from it you will gain the essential meaning of the sutras and the shruti.
+Always chant the name of Krishna in sankirtana: you will easily attain liberation and gain the treasure of love.’” (CC,
+Madhya 25.146–147)
+
+Thus the Lord revealed to Prakashananda the bhakti-siddhanta handed down in the Brahma-sampradaya — so it is called both
+by Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” and by the biographies — and showed that the
+“Srimad-Bhagavatam” is the natural commentary on the “Brahma-sutra.” True Vedanta is bhakti. <!-- F46 I4 -->
+
+Then the brahmana from Maharashtra told the assembly how the Lord had once given sixty-one explanations of the
+“atmarama” verse; everyone wished to hear them, and the Lord explained them again, while the people marvelled and felt
+that He was Krishna Himself (25.153–156). <!-- F47 -->
+
+“All the residents of Kashi took up the sankirtana of the Name; in love they laughed, wept, sang and danced. The
+sannyasis and panditas began to study the *Bhagavatam*. Thus the Lord delivered the city of Varanasi.” (CC, Madhya
+25.158–159)
+
+From that day, the biographies say, the sannyasis of Kashi became devotees of Mahaprabhu: Prakashananda and all the
+sannyasis fell at His feet and glorified Him, and the stream of nectar of the holy name washed away the false doctrine
+of an impersonal Absolute. Varanasi became like Navadvipa, and the Lord, smiling, said to the devotees: no one would
+take My wares here, and I thought I would have to carry them back; but you were grieved, and so I have given them to
+everyone free (25.160–163). <!-- F48 -->
+
+For five days the Lord gave deliverance to all who came to Him, and on the sixth He left Varanasi (25.170); in all, on
+His way back from Vrindavana, He spent two months there instructing Sanatana (Adi 7.47; Madhya 25.3).[^8] In his brief
+summary of the pastimes Kaviraja mentions it in a single line:
+
+“He sent him to Mathura, investing him with the strength of bhakti; then, after showing mercy to the sannyasi, He went
+to Nilachala.” (CC, Madhya 1.245)
+
+Srila Bhaktisiddhanta writes in the “Anubhashya” (on Madhya 25.1) that the Lord brought the sannyasis of Kashi, headed
+by Prakashananda, onto the path of pure bhakti. <!-- F49 F50 -->
+
+According to the “Anubhashya” and one of the biographies, this took place in the year 1435 of the Shaka era
+(1513).[^9] <!-- F51 -->
+
+## How Others Tell It
+Govinda-deva in the “Gaura-krishnodaya” tells it differently. The sannyasis of Kashi, adherents of another doctrine,
+disregarded the Lord; one night, at someone's invitation, He came to them with a few companions, and they, seated on
+their seats, said to Him disdainfully, “Stand there.” Then the Lord made the radiance of His own being blaze forth, and
+they could neither look at Him nor approach. To each of them He appeared in the form of the god to whom that one was
+devoted, while Prakashananda recognised in Him “the one Consciousness itself — Brahman.”[^10]
+
+“‘O Lord, embodiment of the Vedas, You Yourself, king of ascetics, shine in the highest heaven!’ — saying this, he fell
+in shame at Hari's feet together with the best of the sannyasis.” (“Gaura-krishnodaya” 16.33)
+
+The Lord embraced him: “Get down from the elephant of pride and say, ‘Hari, Achyuta, Krishna, victory!’” — and he
+answered: “O Lord of the world, what You command is precisely what the shrutis establish; what need is there here of
+the interpretations of us, the unrighteous?” His throat choked with rapture, he sang the names of Krishna (16.34–37).
+
+“When the Lord had thus revealed His all-pervading power to Prakashananda, best of the sannyasis of the Sarasvati order,
+and awakened [in him] devotion to Himself, the other sannyasis gave up their other intentions.” (“Gaura-krishnodaya”
+16.38) <!-- F52 -->
+
+Kavi Karnapura in the “Chaitanya-chandrodaya” says of Varanasi on the Lord's return journey only that everyone came to
+Him — brahmacharis, householders, mendicants and hermits, priests and those under vows —
+
+“only a few envious leaders of the sannyasis did not go there — and did not see Him.” (“Chaitanya-chandrodaya” 9.33)
+
+Prakashananda is not named here, and the drama is silent about any conversion. Jayananda in his “Chaitanya-mangala”
+writes: “Gaurachandra went on pilgrimage to Varanasi and duly put to shame a heretical sannyasi” — no name is given, but
+he is probably meant; the same work mentions that the old sannyasis of Varanasi went away to Nilachala. Lochana Dasa
+only remarks that in holy Varanasi “many great sannyasis live” (47.36), with neither name nor conversation. Murari
+Gupta, Karnapura's mahakavya and the “Gaura-ganoddesha-dipika” say nothing of Prakashananda. We tell the story
+according to the “Charitamrita.” <!-- F53 F54 F55 -->
+
+## Not Prabodhananda
+Prakashananda is sometimes identified with Prabodhananda Sarasvati — the tridandi of the Sri-sampradaya from Shrirangam,
+uncle and teacher of Gopala Bhatta Gosvami, author of the “Chaitanya-chandramrita.” Srila Bhaktisiddhanta Sarasvati
+rejects this identification. In the “Gaudiya-bhashya” (on CB, Madhya 3.37) he writes that inexperienced people take
+Prakashananda to be the same person as Prabodhananda, the younger brother of Venkata Bhatta from the banks of the
+Kaveri; this error entered the sahajiya “Bhakta-mala” of Lal Dasa, and from there, to a greater or lesser degree, the
+works of many modern authors. In the “Anubhashya” (on Adi 7.149 and Madhya 17.104) he says the same, and on Madhya 25.45
+adds: there is no evidence that after his deliverance Prakashananda received the name “Prabodhananda.” And the
+“Charitamrita” itself, which describes the change in him in such detail, says not a word about a new name. The whole
+dispute, with all its arguments, is examined in the article on Prabodhananda Sarasvati.[^11] <!-- F56 Q11 Q12 I6 -->
+
+Srila Bhaktisiddhanta's preface to the “Chaitanya-chandramrita” shows how different the two were. Prakashananda was an
+ekadandi of Shankara's school, a resident of Aryavarta, a *nirvishesha-vadi* — a preacher of a God without attributes —
+an opponent of Vishnu and the Vaishnavas, who became a devotee only after his deliverance; Prabodhananda was a
+southerner, a tridandi of Ramanuja's school, an eternal associate of the Lord. The stern words about Mayavada in
+Prabodhananda's books are praise of the mercy of the Lord who saves the fallen: the conversion of Sarvabhauma and of
+Prakashananda, says Srila Bhaktisiddhanta, is a still greater miracle than the deliverance of Jagai and Madhai.
+<!-- F57 -->
+
+Prakashananda's conversion, then, is told in the “Charitamrita” — in Adi 7 and Madhya 25;[^12] the
+“Chaitanya-bhagavata” only records the Lord's words about him spoken in Navadvipa. <!-- Q13 -->
+
+## After the Conversion
+What became of Prakashananda afterwards the sources do not say. It is not known how long he lived after meeting the
+Lord, or where and when he left this world; nor are his days found in our calendar. The last we know of him is that he
+sang “Hari! Hari!” at the temple of Bindu-madhava, clasped the Lord's feet and heard from Him the essence of the
+“Vedanta-sutra,” while the sannyasis of Kashi, his disciples, from then on studied the “Bhagavatam” and chanted
+Krishna's name.
+
+## Significance
+Prakashananda's story is a story of mercy. He who taught that the Lord's body is created by maya, whose words angered
+the Lord already in Navadvipa, who laughed at Him as a “conjurer” and “a sannyasi in name only,” in the end called Him
+Bhagavan Himself, clasped His feet and before his own disciples refuted Shankara's interpretations. This was not the
+victory of one debater over another. The Lord answered abuse with nothing but a smile; He accepted the invitation to
+the assembly in order to save the sannyasis, and He came to them humbly, sat down where feet are washed, called Himself
+a fool and one of the lower order. The change in the heart of the leader of the Mayavadis was worked by the touch of
+the Lord's feet and by His mercy. That is why Srila Bhaktisiddhanta ranks Prakashananda's conversion above the
+deliverance of Jagai and Madhai. <!-- I1 I5 -->
+
+It is also a lesson about Vedanta. Shankara himself is not to blame — he hid the direct meaning by the will of God; what
+is ruinous is only to listen to his indirect interpretation. True Vedanta is bhakti: Brahman is Bhagavan with an eternal
+spiritual form, the “Srimad-Bhagavatam” is the natural commentary on the “Brahma-sutra,” the way is hearing and singing
+the holy name, the goal is love for Krishna. And the right to Vedanta belongs to the humble — to one who seeks no honour
+and gives honour to others. <!-- I2 I3 I4 -->
+
 [^1]: One of the biographies refers to this episode as “CB 2.10.31…44”; in fact it is Madhya 20.31–44.
 [^2]: One of the biographies retells this chapter freely: the brahmana supposedly named the Lord three times as “Krishna
     Chaitanya,” while Prakashananda said “chaitanya” three times but could not utter “Krishna”; the brahmana begs the
@@ -268,3 +478,20 @@ so in the Madhya-lila. <!-- F34 F35 -->
     (Adi 7.109, 114).
 [^6]: One of the biographies, citing verse 7.115, refers to it by a misprint as “Adi 7.315,” and to verses 7.148 and
     7.150 as “Adi 8.”
+[^7]: The biographies say only that Prakashananda fell at the Lord's feet. According to the “Charitamrita,” it was the
+    Lord who first bowed — to Prakashananda's feet — and Prakashananda clasped His feet; we follow the “Charitamrita.”
+[^8]: One of the biographies writes that this time the Lord stayed in Kashi for ten days. According to the
+    “Charitamrita,” He spent ten days there the first time, on the way to Vrindavana (Madhya 17.100), and two months on
+    the way back.
+[^9]: According to another biography, 1514: the authors convert Shaka years into our reckoning differently.
+[^10]: This is still Prakashananda's former view — the moment before the change: at once he falls at the Lord's feet and
+    sings “Krishna, Achyuta” (16.37). The “Charitamrita” describes it all differently: the Lord came at the brahmana's
+    invitation, sat down where feet are washed, Prakashananda himself called Him into the assembly, and the change in
+    the sannyasis came after the conversation about Vedanta.
+[^11]: The identification occurs in the “Bhakta-mala” of Lal Dasa (“he was called Prakashananda Sarasvati; the Lord named
+    him Prabodhananda”), in the late “Advaita-prakasha” (ch. 17) and in some dictionaries. Srila Bhaktisiddhanta rejects
+    it in his preface to the “Chaitanya-chandramrita” as well; his argument is above all chronological: in 1433 Shaka the
+    Lord saw Prabodhananda in Shrirangam as a Sri Vaishnava, whereas in Kashi He converted Prakashananda, a sannyasi of
+    Shankara's school, only after His journey to Vrindavana.
+[^12]: One of the biographies refers to the “Chaitanya-bhagavata,” “Adi 9 and Madhya 25”; in fact it is the
+    “Chaitanya-charitamrita,” Adi 7 and Madhya 25.
