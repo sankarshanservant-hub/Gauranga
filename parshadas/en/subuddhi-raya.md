@@ -2,7 +2,7 @@
 *Субуддхи Рай · @subuddhi-raya*
 
 ## A Former Governor of Gauda
-Among those whom Sri Chaitanya favoured with special mercy is a man who met Him only once, and only for a few words:
+Among those whom Sri Chaitanya favoured with special mercy is a man who met Him only once:
 Subuddhi Raya. The “Charitamrita” calls him Subuddhi Raya, and more often simply Raya; the biographies likewise call him
 Sri Subuddhi Raya.[^1] His life is remembered not for the worldly position he once held, but because Mahaprabhu received
 him, heard him out and gave him what no rules could give — and for the way he then served the Gosvamis and the
@@ -90,14 +90,14 @@ This is how he lived:
 *paisa*'s worth of chickpeas and kept the rest of his money with a merchant. Whenever he saw a poor Vaishnava, he fed
 him; and when Gaudiyas came, he gave them yogurt and rice and had them massaged with oil.” (CC, Madhya 25.197–199)
 
-The dry wood he gathered in the forest himself, with great labour. What he earned he did not spend on himself: on these
-few coins he kept both himself and other Vaishnavas, and to the Gaudiyas who came to Vraja he gave yogurt with rice and
+The dry wood he gathered in the forest himself, with great labour. What he earned he did not spend on himself alone: with
+these few coins he fed other Vaishnavas too, and to the Gaudiyas who came to Vraja he gave yogurt with rice and
 oil to anoint their bodies.[^8] His life shows that it is not only the rich who can serve Vishnu and the Vaishnavas:
 where there is a sincere wish to serve, then even in poverty, by the Lord's will, there is no lack of what service
 requires. <!-- F26 F27 F28 Q3 I1 -->
 
 ## Rupa Gosvami's Companion
-Soon Rupa Gosvami, who had received the Lord's teachings at Prayaga, came to Mathura:
+Meanwhile Rupa Gosvami, who had received the Lord's teachings at Prayaga, came to Mathura:
 
 “Meanwhile, when Rupa Gosani came to Mathura, Subuddhi Raya met him at Dhruva-ghata.” (CC, Madhya 25.179)
 
@@ -158,14 +158,14 @@ spent the rest of his life beside the Gosvamis, in humility and in chanting the 
 Mahaprabhu's mercy, teaches that anyone with a sincere wish to serve can serve the Lord and His devotees: the rest the
 Lord Himself provides. <!-- F4 F40 I1 Q5 -->
 
-[^1]: He should not be confused with his namesakes: Subuddhi Mishra of Amaipura, the father of Jayananda, whom the
-    “Charitamrita” names among the branches of the Lord's tree (Adi 10.111), and the Subuddhi Mishra whom the
+[^1]: He should not be confused with his namesakes: Subuddhi Mishra of Amaipura, the father of Jayananda (the “Charitamrita” names
+    a Subuddhi Mishra among the branches of the Lord's tree, Adi 10.111), and the Subuddhi Mishra whom the
     “Vaishnava-vandana” remembers among the devotees of Puri; a Subuddhi Mishra also appears in the list of companions in
     the “Gaura-ganoddesha-dipika” (201) and in the genealogy of the “Prema-vilasa” (24.824), but who he is has not been
     established. In CC, Madhya 12.122 *subuddhi* is not a name but the word “intelligent” (said of the simple Bengali who
     washed the Lord's feet).
 [^2]: The biographies call him the king (raja) of Gauda; according to one of them, he held this position briefly in the
-    first part of his life, while elsewhere the same biography calls him, as the “Charitamrita” does, an *adhikari*. The
+    first part of his life. Another, in its chapter on Rupa, calls him, as the “Charitamrita” does, an *adhikari*. The
     verse CC, Madhya 25.180 reads *gaude ‘adhikari’*, “a governor (official) in Gauda”; it was Hussain who became king of
     Gauda (25.182: *gaude ‘raja’ haila*). We follow the “Charitamrita.”
 [^3]: One of the biographies explains, citing Ashutosh Deb's Bengali dictionary and Haridasa Dasa's
@@ -190,7 +190,7 @@ Lord Himself provides. <!-- F4 F40 I1 Q5 -->
 [^9]: In its chapter on Subuddhi one of the biographies writes the reverse: Rupa took Subuddhi with him and showed him the
     places of the pastimes of Vraja; in its chapter on Rupa the same biography says that Rupa went round the twelve
     forests taking Subuddhi with him. We follow the “Charitamrita” (Madhya 25.200): it was Subuddhi who showed the
-    forests, and Rupa was his guest.
+    forests.
 [^10]: One of the biographies writes that Sanatana went from Prayaga to Mathura by the royal road while the Lord was
     returning from Vrindavana by the road along the Ganga — and that this is why they did not meet. According to the
     “Charitamrita,” Sanatana set out only after meeting the Lord in Kashi, when the Lord had left for Puri (Madhya
