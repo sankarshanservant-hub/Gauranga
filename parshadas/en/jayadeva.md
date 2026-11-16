@@ -113,12 +113,10 @@ the night when Radha and Krishna are joined in an inseparable embrace and assume
 Gaurasundara; and at this very hour, the same biography says, Srila Bhaktisiddhanta Sarasvati left the world.[^11]
 <!-- F22 -->
 
-The “Gita-govinda” early became known as a whole book. When Srila Rupa Gosvami gathered the scattered verses of
+The “Gita-govinda” had long been known. When Srila Rupa Gosvami gathered the scattered verses of
 Vaishnava poets in the “Padyavali,” he noted specially in its conclusion that he had not included verses from the works
 of Jayadeva, Vishvamangala and others: the “Gita-govinda” already circulated as a whole book. And the twenty-one songs of
-Ramananda Raya's “Jagannatha-vallabha-nataka” closely resemble the songs of the “Gita-govinda.” Narahari Chakravarti in
-the “Bhakti-ratnakara” tells how Raghava Pandita, showing Shrinivasa Dhira-samira on the bank of the Yamuna — the place of
-the wondrous meeting of Radha and Krishna — quoted verses of the “Gita-govinda” with the refrain “Where the gentle breeze
+Ramananda Raya's “Jagannatha-vallabha-nataka” closely resemble the songs of the “Gita-govinda.” Narahari Chakravarti in the “Bhakti-ratnakara,” describing how Raghava Pandita of Govardhana showed Srinivasa Dhira-samira on the bank of the Yamuna — the place of the wondrous meeting of Radha and Krishna — quotes verses of the “Gita-govinda” with the refrain “Where the gentle breeze
 blows on the bank of the Yamuna, in the forest, Vanamali waits” (“Bhakti-ratnakara” 5.2374–2378). <!-- F23 F24 F78 -->
 
 ## Padmavati
@@ -312,7 +310,7 @@ A song of the “Gita-govinda” once nearly drew the Lord through a thorny thic
 heard a devadasi singing the “Gita-govinda” in the raga gurjari and, forgetting everything, ran towards the voice,
 unaware of the thorns piercing His body; His servant Govinda managed to hold Him back (Antya 13.78–88). Another time,
 roaming the Jagannatha-vallabha garden, the Lord had His associates sing the spring song of the “Gita-govinda,” “Lalita-lavanga-
-lata,” and danced to it (Antya 19.84). Govinda-deva writes of the same in the “Gaura-krishnodaya”: once in spring, seeing the
+lata,” and danced to it (Antya 19.84). Govinda-deva tells something similar in the “Gaura-krishnodaya”: once in spring, seeing the
 beauty of a wondrous garden, the Lord in rapture described it with verses of the “Gita-govinda” (18.5). <!-- F67 F68 F76 -->
 
 And at the very end of the “Charitamrita,” summing up the Lord's last pastimes, Krishnadasa Kaviraja writes:
@@ -320,14 +318,14 @@ And at the very end of the “Charitamrita,” summing up the Lord's last pastim
 “Whatever verses of Jayadeva, of the ‘Bhagavata,’ of Ramananda Raya's drama and of the ‘Karnamrita’ suited each mood, He
 would recite in that mood and relish, absorbed in that emotion.” (CC, Antya 20.67–68)
 
-“Jayadeva” here, Srila Bhaktisiddhanta explains, means his ashtapadi songs, that is, the “Gita-govinda.” And the
+The verses of “Jayadeva” here, Srila Bhaktisiddhanta explains, are his ashtapadi songs, that is, the “Gita-govinda.” And the
 “Gaura-krishnodaya” names the songs of the “Gita-govinda” among what Gaura, having taken it into His heart, constantly
 recited within during His last twelve years (18.13). <!-- F69 F73 F76 -->
 
 ## His Memory Among the Gaudiya Vaishnavas
 Jayananda at the beginning of his “Chaitanya-mangala,” listing the poets who sang of the Lord before him, writes:
 “Jayadeva, Vidyapati and Chandidasa — they revealed the deeds of Sri Krishna.” Later generations of devotees too honoured
-Jayadeva's poem; the “Karnananda” says that Shrinivasa Acharya at Yajigram sang the “Sri Gita-govinda,” the songs of
+Jayadeva's poem; the “Karnananda” says that Srinivasa Acharya at Yajigram sang the “Sri Gita-govinda,” the songs of
 Chandidasa and Vidyapati and Raya's drama in supreme bliss. The commentary “Krishna-vallabha” on the
 “Krishna-karnamrita,” known under the name of Gopala Bhatta Gosvami, quotes the “Gita-govinda”; among the works of
 Prabodhananda Sarasvati a commentary on it is also named. In the “Pada-kalpataru” of Vaishnava Dasa there is a song,
