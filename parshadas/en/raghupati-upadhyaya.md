@@ -2,8 +2,8 @@
 *Рагхупати Упадхьяя · @raghupati-upadhyaya*
 
 ## A Pandita from Tirhut
-Raghupati Upadhyaya was a Vaishnava scholar and poet who, as far as we know, met Sri Chaitanya only once — but in such
-a way that this meeting in the house of Vallabha Bhatta entered the “Chaitanya-charitamrita” for ever. Krishnadasa
+Raghupati Upadhyaya was a Vaishnava scholar and poet whose meeting with Sri Chaitanya in the house of Vallabha Bhatta
+entered the “Chaitanya-charitamrita” for ever. Krishnadasa
 Kaviraja calls him Raghupati Upadhyaya, and more often simply Upadhyaya or Raghupati; for Govinda-deva in the
 “Gaura-krishnodaya” he is “Upadhyaya Raghupati,” and in Srila Rupa Gosvami's “Padyavali” his verses are signed
 “Raghupati-upadhyaya.” The biographies call him Sri Raghupati Upadhyaya. <!-- F1 -->
@@ -76,7 +76,7 @@ worldly passion but the transcendental prema of the gopis, the highest of rasas 
 would believe that the Supreme Brahman, Whom men seek in the Vedas, has given Himself to the young cowherd girls of
 Vraja?[^5] <!-- Q2 -->
 
-The Lord asked him to go on, and Raghupati recited verses on His pastimes. Then Upadhyaya saw what he had not expected:
+The Lord asked him to go on, and Raghupati recited verses on Krishna's pastimes. Then Upadhyaya saw what he had not expected:
 
 “The Lord said, ‘Go on,’ and he recited verses on Krishna's pastimes. In the ecstasy of love the Lord's body and mind
 were thrown into turmoil. Seeing such love, Upadhyaya was amazed. ‘He is not a human being,’ he concluded. ‘He is
@@ -102,20 +102,21 @@ original rasa, shringara, is the highest rasa’ (Padyavali, 82).” (CC, Madhya
 
 The four questions lead ever higher. Of the countless forms of God — Krishna, Narayana, Rama, Nrisimha — the best is the
 form of Shyama; of His abodes the best is Madhupuri, Mathura; of the ages — childhood (*balya*), boyhood (*pauganda*) and
-youth (*kaishora*) — the best is kaishora; of the rasas, the original (*adya*). This last answer is the highest object
+youth (*kaishora*) — the best is kaishora; of the rasas, the original (*adya*). In these answers lies the highest object
 of worship. Srila Bhaktisiddhanta calls this original rasa transcendental shringara, the highest of the rasas: it is the
 sweet love of the gopis for Krishna, madhurya-rasa, and that love is parakiya, not “conjugal.”[^7] <!-- F20 -->
 
 The Lord's words “you have taught Me” are the play of One Who has taken the form of His own devotee: He asks about
 Himself to taste the sweetness of what He hears and to teach the world through His devotee's lips — just as He once
-questioned Ramananda Raya. It is not that there was something He did not know. Srila Bhaktivinoda Thakura, summing up
+questioned Ramananda Raya — and not at all because there was something He did not know. Srila Bhaktivinoda Thakura, summing up
 the chapter, says briefly: when Raghupati came, he and Mahaprabhu had many talks about rasa. <!-- F21 F24 I1 -->
 
 ## In the Lord's Embrace
 “In His rapture the Lord embraced him, and Upadhyaya, intoxicated with love, began to dance. Seeing this, Vallabha
 Bhatta was amazed.” (CC, Madhya 19.107–108)[^8] <!-- F22 F23 -->
 
-So the learned pandita from Mithila, who had come to the Lord with respectful prayers, left Him dancing.
+So the learned pandita from Mithila, who had come with respectful prayers, broke into dance in the Lord's embrace,
+intoxicated with love.
 
 ## His Verses in the “Padyavali”
 Raghupati composed many verses full of bhakti-rasa, and Srila Rupa Gosvami, who had heard him himself in Adail, later
