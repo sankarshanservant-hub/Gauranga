@@ -25421,6 +25421,246 @@
   "note": "Жил в Каши у Санатана-шикша-лила-кшетры (Шри Санатана-Гаудия-матх)."
  },
  {
+  "from": "@vamshivadana",
+  "type": "father",
+  "who": "@madhava-dasa-kuliya",
+  "facts": [
+   "F11",
+   "F12",
+   "F13",
+   "F14"
+  ],
+  "events": [
+   "ev-kuliya-shachi-meeting"
+  ],
+  "note": "Мадхава Дас по прозвищу Чхакари Чаттопадхьяя; был глубоко предан Господу; в его доме в Кулии Господь прожил семь дней (ЧЧН 9; ЧЧ Мадхья 16.208 — «дом Мадхава даса»; отождествление с отцом Вамши — по B, T, M, ⚠10)."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "mother",
+  "who": "@chandrakala-devi",
+  "facts": [
+   "F12"
+  ]
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "son",
+  "who": "@chaitanya-dasa-vamshi",
+  "facts": [
+   "F24",
+   "F33",
+   "F38"
+  ],
+  "events": [
+   "ev-jahnava-kheturi"
+  ],
+  "note": "Отец Рамачандры и Шачинанданы; приходил к Джахнаве и пировал на празднике в Кхетури (НВ 6.221, 8.59)."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "son",
+  "who": "@nityananda-dasa-vamshi",
+  "facts": [
+   "F24"
+  ],
+  "note": "M — «Nitai dasa»."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "relative",
+  "who": "@ramai-jahnava",
+  "facts": [
+   "F33",
+   "F34",
+   "F35",
+   "F37",
+   "F39"
+  ],
+  "note": "Внук: Рамачандра (Рамаи Тхакур), сын Чайтаньи Даса; Джахнава испросила его себе, посвятила и обучила в Кхардахе («Гаудия» 22.30–37); нашёл Божества Рамы-Канаи у Праскандана-тиртхи и установил в Багхнапаре; брахмачари (M); пада: «я — сын его сына» (ГПТ 25). = @jahnava F96."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "relative",
+  "who": "@shachinandana-baghnapara",
+  "facts": [
+   "F33",
+   "F37"
+  ],
+  "note": "Внук (сын Чайтаньи Даса). M: служил Раме и Кришне в Багхнапаре; его потомки — госвами Багхнапары."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "served-by",
+  "who": "@vishnupriya",
+  "facts": [
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F26",
+   "F28",
+   "I2"
+  ],
+  "events": [
+   "ev-srinivasa-vishnupriya-mercy"
+  ],
+  "note": "После санньясы — хранитель-слуга; её ученик и «исключительный сосуд милости» (B 129, 912); по её желанию установил Божество Гауранги (B, T; ≠ M, ⚠4); вестник Шринивасы (БР 4.20–24, 4.39). = @vishnupriya F90, F94, F95, F97, F101, F102."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "guru",
+  "who": "@vishnupriya",
+  "facts": [
+   "F18",
+   "F21"
+  ],
+  "note": "B 129: «ученик Вишнуприи-тхакурани»; посвящение в первоисточниках не описано."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "served-by",
+  "who": "@shachi",
+  "facts": [
+   "F16",
+   "F40",
+   "I2"
+  ],
+  "events": [
+   "ev-lament-after-lord-leaves"
+  ],
+  "note": "После санньясы — хранитель-слуга Шачи и Вишнуприи (B 911; T 67–68); песня о плаче «свекрови и невестки». = @shachi F49, F54; во встрече со Шринивасой Шачи названа лишь в пересказе B и T (⚠3, @shachi F50)."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "served-by",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F16",
+   "F17"
+  ],
+  "note": "После сокрытия Махапрабху и Шачи служил Вишнуприе и Ишане (B 910 по скану; T 68); T 67 — оба удостоились служения семье Господа. = @ishana-navadvipa F22, F23."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F19",
+   "F20",
+   "F21",
+   "F22"
+  ],
+  "events": [
+   "ev-srinivasa-vishnupriya-mercy"
+  ],
+  "note": "Узнал его без представления, обнял, омыл слезами, не дал поклониться и пошёл к Вишнуприе (БР 4.20–24); по M — упросил Вишнуприю дать ему даршан; по ПВ 4.169 — встреча в Навадвипе (дальше — Ишана). = @srinivasa-acharya F41."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F7",
+   "F13",
+   "F14",
+   "F15",
+   "F40",
+   "F42"
+  ],
+  "events": [
+   "ev-kuliya-shachi-meeting",
+   "ev-goshtha-lila-navadvipa",
+   "ev-lament-after-lord-leaves"
+  ],
+  "note": "Господь очень любил мальчика Вамши (B 911; M 240); по преданию — был при его рождении (⚠Б6, ⚠1); семь дней в доме его отца; пады о Навадвипе и о разлуке после санньясы."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F7",
+   "F42"
+  ],
+  "events": [
+   "ev-kirtan-festival-advaita-house"
+  ],
+  "note": "По преданию — был при его рождении (B 911; T 68; M 240; = @advaita F123); пада ПК 26 — праздник киртана в доме Адвайты."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F29",
+   "F34"
+  ],
+  "note": "Его потомки приняли её прибежище и обосновались в Багхнапаре; внука Рамачандру она взяла в ученики. = @jahnava F96."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "other",
+  "who": "@keshava-bharati",
+  "facts": [
+   "F40"
+  ],
+  "note": "В песне — «безжалостный Кешава Бхарати» обрушил гром разлуки (упрёк любви, ⚠Б3)."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "neighbor",
+  "who": "@saranga-thakura",
+  "facts": [
+   "F9"
+  ],
+  "note": "По «Шрипата-парьятане» (через T) жили в Кулии-Пахарпуре вместе с Кавидаттой. = @saranga-thakura F10."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "other",
+  "who": "@devananda-pandita",
+  "facts": [
+   "F13"
+  ],
+  "note": "В доме отца Вамши в Кулии Господь наставил Девананду (B, T, M по ЧЧН; в ЧЧН имя не названо, ⚠10). = @devananda-pandita F29, F30, F42."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "deity-served",
+  "who": "@pranavallabha-kuliya",
+  "facts": [
+   "F25"
+  ],
+  "note": "M: Божество Кришны, установленное им в Коладвипе после ухода Вишнуприи (≠)."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "deity-served",
+  "who": "@gaura-deity-vishnupriya",
+  "facts": [
+   "F26",
+   "F28",
+   "F29"
+  ],
+  "events": [
+   "ev-vishnupriya-deity"
+  ],
+  "note": "Божество Гауранги — по B, T установлено им по желанию Вишнуприи; по M — установлено ею, им перенесено в Коладвип (⚠4); после её ухода служение — в Кулии(-Пахарпуре), позже у служителей из Малханы."
+ },
+ {
+  "from": "@vamshivadana",
+  "type": "deity-served",
+  "who": "@gopinatha-kuliya",
+  "facts": [
+   "F27"
+  ],
+  "note": "Родовое Божество его предков."
+ },
+ {
   "from": "@vasu-ghosha",
   "type": "sibling",
   "who": "@govinda-ghosha",

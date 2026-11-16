@@ -4454,6 +4454,10 @@
     "type": "met"
    },
    {
+    "from": "@vamshivadana",
+    "type": "other"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "companion"
    },
@@ -6825,6 +6829,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@vamshivadana",
+    "type": "deity-served"
+   },
+   {
     "from": "@vishnupriya",
     "type": "deity-served"
    }
@@ -7945,6 +7953,10 @@
    {
     "from": "@srivasa",
     "type": "other"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "served-by"
    },
    {
     "from": "@vasu-ghosha",
@@ -9171,6 +9183,14 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "served-by"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "guru"
    }
   ]
  },
@@ -12706,6 +12726,10 @@
    },
    {
     "from": "@vallabha-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@vamshivadana",
     "type": "other"
    },
    {
@@ -19673,6 +19697,10 @@
    },
    {
     "from": "@prakashananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@vamshivadana",
     "type": "other"
    }
   ]
@@ -29673,6 +29701,10 @@
    {
     "from": "@vakreshvara",
     "type": "served-by"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "other"
    }
   ]
  },
@@ -34622,6 +34654,10 @@
     "type": "companion"
    },
    {
+    "from": "@vamshivadana",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    }
@@ -38306,6 +38342,10 @@
     "type": "met"
    },
    {
+    "from": "@vamshivadana",
+    "type": "met"
+   },
+   {
     "from": "@vishnupriya",
     "type": "protege"
    }
@@ -38505,6 +38545,178 @@
    "ev-lament-after-lord-leaves",
    "ev-srinivasa-vishnupriya-mercy",
    "ev-jahnava-kheturi"
+  ],
+  "summary": "в Кришна-лиле — флейта Кришны, любимица Кришны (ГГД 179); гуру — Вишнуприя; происхождение — Кулия; явление — Чайтра-пурнима",
+  "card": "parshadas/cards/vamshivadana.yaml",
+  "article": {
+   "ru": "parshadas/ru/vamshivadana.md",
+   "en": "parshadas/en/vamshivadana.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1494 или 1505 (1416 или 1427 Шака)",
+    "tithi": "Чайтра-пурнима (Мадху-пурнима); по календарю ШЧСМ — Пурнима в конце Вишну-масы (Васанта-раса), в 2026 г. — 2 апреля",
+    "place": "#kulia",
+    "conf": "B 911: 1416 Шака, по иным — 1427; T 68: 1416 («Вамши-шикша») или 1427, «1495 или 1506» (пересчёт на год больше, ⚠2); M 240: «1466» (ошибка); место — дом отца в Кулии (M 240; T 68 — дом в Кулии-Пахарпуре). В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) — «День явления Шрилы Вамшивадананды Тхакура».",
+    "facts": [
+     "F5",
+     "F6",
+     "F7",
+     "F9"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#bilvagrama?",
+    "conf": "год, день и место ухода источники не называют; в конце жизни поселился в Бильваграме (B 912; T 68; M — жил там летом, ⚠5); в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F30",
+     "F32"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "пада «Ара на хериба прасара капале…» (ПК 1855) — разлука Навадвипы, Шачи и Вишнуприи после санньясы",
+    "facts": [
+     "F40"
+    ]
+   },
+   {
+    "title": "пада «Шачира нандана Гора…» (ПК 2564) — гоштха-лила в Навадвипе",
+    "facts": [
+     "F42"
+    ]
+   },
+   {
+    "title": "пада «Джая джая Набадвипа маджха…» (ПК 26) — киртан в доме Адвайты",
+    "facts": [
+     "F42"
+    ]
+   },
+   {
+    "title": "песни о дана-лиле, наука-виласе и вана-вихаре Кришны",
+    "facts": [
+     "F41"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "флейта Кришны (Вамши), любимица Кришны",
+    "source": "ГГД 179",
+    "level": "A",
+    "variants": [
+     "«Вайшнава-ванданы»: Джива 120 — «флейта Кришны»; «второй» Вриндаван Дас 112 — «прежде флейта в устах Кришны»; Девакинандана 86, «Вайшнавабхидхана» 32 — с флейтой связывают его песнь (F3). Флейта — вечная духовная спутница, не «предмет» (⚠Б1)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@madhava-dasa-kuliya",
+    "note": "Мадхава Дас по прозвищу Чхакари Чаттопадхьяя; был глубоко предан Господу; в его доме в Кулии Господь прожил семь дней (ЧЧН 9; ЧЧ Мадхья 16.208 — «дом Мадхава даса»; отождествление с отцом Вамши — по B, T, M, ⚠10)."
+   },
+   {
+    "type": "mother",
+    "who": "@chandrakala-devi"
+   },
+   {
+    "type": "son",
+    "who": "@chaitanya-dasa-vamshi",
+    "note": "Отец Рамачандры и Шачинанданы; приходил к Джахнаве и пировал на празднике в Кхетури (НВ 6.221, 8.59)."
+   },
+   {
+    "type": "son",
+    "who": "@nityananda-dasa-vamshi",
+    "note": "M — «Nitai dasa»."
+   },
+   {
+    "type": "relative",
+    "who": "@ramai-jahnava",
+    "note": "Внук: Рамачандра (Рамаи Тхакур), сын Чайтаньи Даса; Джахнава испросила его себе, посвятила и обучила в Кхардахе («Гаудия» 22.30–37); нашёл Божества Рамы-Канаи у Праскандана-тиртхи и установил в Багхнапаре; брахмачари (M); пада: «я — сын его сына» (ГПТ 25). = @jahnava F96."
+   },
+   {
+    "type": "relative",
+    "who": "@shachinandana-baghnapara",
+    "note": "Внук (сын Чайтаньи Даса). M: служил Раме и Кришне в Багхнапаре; его потомки — госвами Багхнапары."
+   },
+   {
+    "type": "served-by",
+    "who": "@vishnupriya",
+    "note": "После санньясы — хранитель-слуга; её ученик и «исключительный сосуд милости» (B 129, 912); по её желанию установил Божество Гауранги (B, T; ≠ M, ⚠4); вестник Шринивасы (БР 4.20–24, 4.39). = @vishnupriya F90, F94, F95, F97, F101, F102."
+   },
+   {
+    "type": "guru",
+    "who": "@vishnupriya",
+    "note": "B 129: «ученик Вишнуприи-тхакурани»; посвящение в первоисточниках не описано."
+   },
+   {
+    "type": "served-by",
+    "who": "@shachi",
+    "note": "После санньясы — хранитель-слуга Шачи и Вишнуприи (B 911; T 67–68); песня о плаче «свекрови и невестки». = @shachi F49, F54; во встрече со Шринивасой Шачи названа лишь в пересказе B и T (⚠3, @shachi F50)."
+   },
+   {
+    "type": "served-by",
+    "who": "@ishana-navadvipa",
+    "note": "После сокрытия Махапрабху и Шачи служил Вишнуприе и Ишане (B 910 по скану; T 68); T 67 — оба удостоились служения семье Господа. = @ishana-navadvipa F22, F23."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Узнал его без представления, обнял, омыл слезами, не дал поклониться и пошёл к Вишнуприе (БР 4.20–24); по M — упросил Вишнуприю дать ему даршан; по ПВ 4.169 — встреча в Навадвипе (дальше — Ишана). = @srinivasa-acharya F41."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Господь очень любил мальчика Вамши (B 911; M 240); по преданию — был при его рождении (⚠Б6, ⚠1); семь дней в доме его отца; пады о Навадвипе и о разлуке после санньясы."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "По преданию — был при его рождении (B 911; T 68; M 240; = @advaita F123); пада ПК 26 — праздник киртана в доме Адвайты."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Его потомки приняли её прибежище и обосновались в Багхнапаре; внука Рамачандру она взяла в ученики. = @jahnava F96."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "В песне — «безжалостный Кешава Бхарати» обрушил гром разлуки (упрёк любви, ⚠Б3)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@saranga-thakura",
+    "note": "По «Шрипата-парьятане» (через T) жили в Кулии-Пахарпуре вместе с Кавидаттой. = @saranga-thakura F10."
+   },
+   {
+    "type": "other",
+    "who": "@devananda-pandita",
+    "note": "В доме отца Вамши в Кулии Господь наставил Девананду (B, T, M по ЧЧН; в ЧЧН имя не названо, ⚠10). = @devananda-pandita F29, F30, F42."
+   },
+   {
+    "type": "deity-served",
+    "who": "@pranavallabha-kuliya",
+    "note": "M: Божество Кришны, установленное им в Коладвипе после ухода Вишнуприи (≠)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-deity-vishnupriya",
+    "note": "Божество Гауранги — по B, T установлено им по желанию Вишнуприи; по M — установлено ею, им перенесено в Коладвип (⚠4); после её ухода служение — в Кулии(-Пахарпуре), позже у служителей из Малханы."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gopinatha-kuliya",
+    "note": "Родовое Божество его предков."
+   }
   ],
   "related_by": [
    {
@@ -38724,6 +38936,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "served-by"
    },
    {
     "from": "@vishnupriya",
@@ -42458,6 +42674,10 @@
    {
     "from": "@jahnava",
     "type": "disciple"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "relative"
    }
   ]
  },
@@ -49062,6 +49282,12 @@
    "ev-jahnava-kheturi",
    "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart"
+  ],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "son"
+   }
   ]
  },
  {
@@ -50650,6 +50876,10 @@
    {
     "from": "@shivananda-sena",
     "type": "other"
+   },
+   {
+    "from": "@vamshivadana",
+    "type": "neighbor"
    },
    {
     "from": "@vasudeva-datta",
@@ -58458,5 +58688,104 @@
     "type": "mother"
    }
   ]
+ },
+ {
+  "id": "@madhava-dasa-kuliya",
+  "ru": "Мадхава Дас (Чхакари) Чаттопадхьяя, Кулия",
+  "en": "Madhava Dasa (Chhakari) Chattopadhyaya of Kuliya",
+  "note": "отец @vamshivadana; в его доме в Кулии Господь прожил семь дней (ЧЧ Мадхья 16.208; ЧЧН 9; B 911; T 68; M 240); не путать с @madhava-dasa-shrikhanda",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@chandrakala-devi",
+  "ru": "Чандракала-деви",
+  "en": "Chandrakala Devi",
+  "note": "мать @vamshivadana (B 911; T 68; M 240)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "mother"
+   }
+  ]
+ },
+ {
+  "id": "@nityananda-dasa-vamshi",
+  "ru": "Нитьянанда Дас, сын Вамшиваданы",
+  "en": "Nityananda Dasa, son of Vamshivadana",
+  "note": "B 912; T 68; M 241 («Nitai dasa»); не путать с @nityananda-dasa-author",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "son"
+   }
+  ]
+ },
+ {
+  "id": "@shachinandana-baghnapara",
+  "ru": "Шачинандана Госвами (Багхнапара)",
+  "en": "Shachinandana Gosvami (of Baghnapara)",
+  "note": "внук @vamshivadana, сын @chaitanya-dasa-vamshi, брат @ramai-jahnava; служил Раме-Канаи в Багхнапаре; его потомки — госвами Багхнапары (B 912; M 241)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "relative"
+   }
+  ]
+ },
+ {
+  "id": "@pranavallabha-kuliya",
+  "ru": "Пранаваллабха — Божество Вамшиваданы",
+  "en": "Pranavallabha, the Deity of Vamshivadana",
+  "note": "Кулия (B 912; T 68; M 241); не путать с Пранаваллабхой Бодхканы (B 926)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@gopinatha-kuliya",
+  "ru": "Гопинатха — родовое Божество Вамшиваданы",
+  "en": "Gopinatha, the ancestral Deity of Vamshivadana",
+  "note": "Кулия (B 912; T 68)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vamshivadana",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@rama-kanai-baghnapara",
+  "ru": "Рама-Канаи — Божества Багхнапары",
+  "en": "Rama-Kanai, the Deities of Baghnapara",
+  "note": "Рама и Кришна, найденные @ramai-jahnava у Праскандана-тиртхи во Врадже (B 912; T 68)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
  }
 ]
