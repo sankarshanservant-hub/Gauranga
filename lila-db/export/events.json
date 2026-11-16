@@ -8622,6 +8622,7 @@
    24
   ],
   "entries": [
+   "mpk-0017",
    "apr-0087",
    "cb-3034",
    "cc-1044",
@@ -8641,6 +8642,7 @@
    "govinda-karcha",
    "karnapura-ckm",
    "lochana-cm",
+   "mahabhava-prakasha",
    "murari-kcc"
   ]
  },
@@ -33745,9 +33747,11 @@
    24
   ],
   "entries": [
+   "mpk-0015",
    "vlm-0119"
   ],
   "sources": [
+   "mahabhava-prakasha",
    "vaishnava-lilamrita"
   ]
  },
@@ -34542,7 +34546,8 @@
    47
   ],
   "entries": [
-   "mpk-0011"
+   "mpk-0011",
+   "mpk-0013"
   ],
   "sources": [
    "mahabhava-prakasha"
@@ -34572,6 +34577,95 @@
   ],
   "entries": [
    "mpk-0012"
+  ],
+  "sources": [
+   "mahabhava-prakasha"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-dream-vaishnava-initiation",
+  "title": "Сон Пратапарудры и его вайшнавское посвящение; осада Мадары",
+  "title_en": "Prataparudra's dream and his Vaishnava initiation; the siege of Madara",
+  "period": "P09",
+  "order": 991,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "jagannatha"
+  ],
+  "notes": "Орийская традиция («Махабхава-пракаша» 3.41–48): во сне Кришна говорит царю; с того дня царь принимает вайшнавское посвящение и опирается на имя «Харе Кришна»; месяц осады Мадары; царь служит Господу как великий вайшнав.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "mpk-0016"
+  ],
+  "sources": [
+   "mahabhava-prakasha"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-learns-of-lord-panji",
+  "title": "Царь узнаёт о юном санньяси: весть Ленки и запись Тадхау в панджи",
+  "title_en": "The king learns of the young sannyasi: Lenka's news and Tadhau's entry in the panji",
+  "period": "P12",
+  "order": 2,
+  "cc": "Мадхья 11 (царь расспрашивает о Господе)",
+  "cb": "",
+  "themes": [
+   "jagannatha"
+  ],
+  "notes": "Орийская традиция («Махабхава-пракаша» 3.64–96; «Вайшнава-лиламрита» 5.3–6): в анавасару царь охраняет дверь Божества; Ленка сообщает о юном санньяси; Тадхау читает в храмовой летописи (панджи), что юный санньяси пришёл, увидел Джаганнатху, ушёл на юг и поселился в Кунджа-матхе; о Нём царю рассказывает Рамананда.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "mpk-0018"
+  ],
+  "sources": [
+   "mahabhava-prakasha"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-asks-jagannatha-tattva",
+  "title": "Рамананда приводит царя к Господу; царь вопрошает о таттве Джаганнатхи",
+  "title_en": "Ramananda brings the king to the Lord; the king asks about the truth of Jagannatha",
+  "period": "P14",
+  "order": 44,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "jagannatha"
+  ],
+  "notes": "Орийская традиция («Махабхава-пракаша» 3.97 и далее): Рамананда приводит Пратапарудру к Господу; царь называет Его аватарой тела Радхи, вспоминает, как во время танца в джагамохане Господь оставил след стопы в камне и как синий и белый облики стали одним телом, и просит рассеять сомнение о таттве Джаганнатхи.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "mpk-0019"
   ],
   "sources": [
    "mahabhava-prakasha"

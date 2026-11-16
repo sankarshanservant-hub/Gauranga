@@ -3760,7 +3760,10 @@
    "mkc-0161",
    "lcm-0208",
    "mkc-0162",
+   "mpk-0015",
    "vlm-0119",
+   "mpk-0016",
+   "mpk-0017",
    "apr-0088",
    "cb-3035",
    "ccd-0048",
@@ -3864,6 +3867,7 @@
    "gkd-0099",
    "gkr-0102",
    "kcm-0132",
+   "mpk-0018",
    "vv-0014",
    "vv-0043",
    "cc-2004",
@@ -4314,8 +4318,10 @@
    "mpk-0008",
    "mpk-0009",
    "mpk-0011",
+   "mpk-0013",
    "mpk-0012",
    "cc-0365",
+   "mpk-0019",
    "cc-0363",
    "pv-0016",
    "cc-0114",
@@ -4537,6 +4543,7 @@
    "lcm-0004",
    "mpk-0003",
    "vlm-0103",
+   "mpk-0014",
    "vlm-0104",
    "pad-0526",
    "pad-0545",
@@ -4589,9 +4596,10 @@
    "ev-danda-broken",
    "ev-first-sight-jagannatha-temple",
    "ev-ismail-gazi-raid-deities-hidden",
+   "ev-prataparudra-dream-vaishnava-initiation",
+   "ev-first-darshan-jagannatha",
    "ev-sarvabhauma-meeting",
    "ev-departure-for-south",
-   "ev-first-darshan-jagannatha",
    "ev-jagannatha-embraces-gaura",
    "ev-jagannatha-dasa-rahasa",
    "ev-jagannatha-dasa-bhagavata-meeting",
@@ -4615,6 +4623,7 @@
    "ev-return-visit-ramananda",
    "ev-return-from-south",
    "ev-prataparudra-asks-sarvabhauma",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-puri-devotees-introduced",
    "ev-kala-krishnadasa-dismissed",
    "ev-bhavananda-raya-pandu",
@@ -4773,6 +4782,7 @@
    "ev-mahabhava-prakasha-radha-tattva",
    "ev-lord-initiation-madhavendra-mp",
    "ev-worlds-pilgrims-srivasa-praise",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-raghavera-jhali",
    "ev-month-stored-prasada",
@@ -12938,11 +12948,13 @@
   "section": "",
   "lilas": [
    "vlm-0114",
+   "mpk-0018",
    "mpk-0010",
    "vlm-0115"
   ],
   "events": [
    "ev-madhavendra-bentapur-kirtan",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-ramananda-comes-to-puri"
   ]
  },
@@ -12970,6 +12982,7 @@
   "note": "Орисса; по «Вайшнава-лиламрите» 4.13 — здесь спрятали Божества Пури от набега",
   "section": "",
   "lilas": [
+   "mpk-0015",
    "vlm-0119"
   ],
   "events": [

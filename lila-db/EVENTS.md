@@ -3374,7 +3374,12 @@
 
 ## Набег Исмаила Гази: Божества Пури укрыты у Чилики / Ismail Gazi's raid: the Deities of Puri hidden by Chilika Lake  `ev-ismail-gazi-raid-deities-hidden` (1509–1510, возраст 23–24, вероятно)
 
+- mahabhava-prakasha (C): Гл. 3, 11–40 — [3.11–3.40](../mahabhava-prakasha/ru/03.md?plain=1#L22-L51) · `mpk-0015`
 - vaishnava-lilamrita (C): Гл. 4, 1–27 — [4.1–4.27](../vaishnava-lilamrita/ru/04.md?plain=1#L6-L32) · `vlm-0119`
+
+## Сон Пратапарудры и его вайшнавское посвящение; осада Мадары / Prataparudra's dream and his Vaishnava initiation; the siege of Madara  `ev-prataparudra-dream-vaishnava-initiation` (1510–1510, возраст 24–24, оценка)
+
+- mahabhava-prakasha (C): Гл. 3, 41–48 — [3.41–3.48](../mahabhava-prakasha/ru/03.md?plain=1#L56-L63) · `mpk-0016`
 
 ## Встреча с Сарвабхаумой / Meeting with Sarvabhauma  `ev-sarvabhauma-meeting` (1510–1510, возраст 24–24, оценка)
 
@@ -3406,6 +3411,7 @@
 
 ## Первый даршан Джаганнатхи / First darshan of Jagannatha  `ev-first-darshan-jagannatha` (1510–1510, возраст 24–24, вероятно)
 
+- mahabhava-prakasha (C): Гл. 3, 49–63 — [3.49–3.63](../mahabhava-prakasha/ru/03.md?plain=1#L64-L78) · `mpk-0017`
 - advaita-prakasha (D): Гл. 15, 119–121 — [119. Затем, уз–121. Затем Гор](../advaita-prakash/15.md?plain=1#L123-L125) · `apr-0087`
 - cb (A): Антья 2, 426–452 — [426–452](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L2098-L2225) · `cb-3034`
 - cc (A): Мадхья 6.3–4 — [3–4](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L31-L39) · `cc-1044`
@@ -3941,6 +3947,10 @@
 - vaishnava-vandana (B): Вандана Дживы, 77 — [77–77](../vaishnava-vandana/ru/01.md?plain=1#L173-L173) · `vv-0014`
 - vaishnava-vandana (B): Девакинандана, 65 — [65–65](../vaishnava-vandana/ru/02.md?plain=1#L228-L228) · `vv-0043`
 - vaishnava-lilamrita (C): Гл. 5, 23–26 — [5.23–5.26](../vaishnava-lilamrita/ru/05.md?plain=1#L32-L35) · `vlm-0127`
+
+## Царь узнаёт о юном санньяси: весть Ленки и запись Тадхау в панджи / The king learns of the young sannyasi: Lenka's news and Tadhau's entry in the panji  `ev-prataparudra-learns-of-lord-panji` (1512–1514, возраст 26–28, оценка)
+
+- mahabhava-prakasha (C): Гл. 3, 64–96 — [3.64–3.96](../mahabhava-prakasha/ru/03.md?plain=1#L79-L115) · `mpk-0018`
 
 ## Сарвабхаума представляет Господу вайшнавов Пури / Sarvabhauma introduces the Vaishnavas of Puri to the Lord  `ev-puri-devotees-introduced` (1512–1514, возраст 26–28, оценка)
 
@@ -5734,6 +5744,7 @@
 ## Беседа о таттве Радхи в Пури («Махабхава-пракаша») / The discourse on the truth of Radha in Puri (Mahabhava-prakasha)  `ev-mahabhava-prakasha-radha-tattva` (1516–1533, возраст 30–47, оценка)
 
 - mahabhava-prakasha (D): Гл. 2, 29–72, 123–169 (продолжается) — [2.29–2.72](../mahabhava-prakasha/ru/02.md?plain=1#L40-L87); [2.123–2.169](../mahabhava-prakasha/ru/02.md?plain=1#L146-L198) · `mpk-0011`
+- mahabhava-prakasha (D): Гл. 2, 170–210 и колофон — [2.170–2.210](../mahabhava-prakasha/ru/02.md?plain=1#L203-L247) · `mpk-0013`
 
 ## Рассказ Господа о посвящении: Кешава Бхарати и Мадхавендра Пури («Махабхава-пракаша») / The Lord's account of His initiation: Keshava Bharati and Madhavendra Puri (Mahabhava-prakasha)  `ev-lord-initiation-madhavendra-mp` (1516–1533, возраст 30–47, оценка)
 
@@ -5742,6 +5753,10 @@
 ## Существа всех миров приходят на даршан; Господь упрекает преданных за киртан о Нём; шутка Шриваса / Beings of all the worlds come for darśana; the Lord rebukes the devotees for singing of Him; Śrīvāsa's jest  `ev-worlds-pilgrims-srivasa-praise` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Мадхья 1.267–282 — [267–282](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2737-L2887) · `cc-0365`
+
+## Рамананда приводит царя к Господу; царь вопрошает о таттве Джаганнатхи / Ramananda brings the king to the Lord; the king asks about the truth of Jagannatha  `ev-prataparudra-asks-jagannatha-tattva` (1516–1533, возраст 30–47, оценка)
+
+- mahabhava-prakasha (C): Гл. 3, 97–124 (продолжается) — [3.97–3.124](../mahabhava-prakasha/ru/03.md?plain=1#L120-L147) · `mpk-0019`
 
 ## Экадаши в саду Джаганнатха-валлабха: Господь почитает махапрасад поклоном и вкушает наутро / Ekadashi in the Jagannatha-vallabha garden: the Lord honours the mahaprasada with obeisance and eats it the next morning  `ev-ekadashi-mahaprasada-jagannatha-vallabha` (1516–1533, возраст 30–47, оценка)
 

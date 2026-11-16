@@ -1866,6 +1866,7 @@
    "mkc-0161",
    "lcm-0208",
    "mkc-0162",
+   "mpk-0017",
    "apr-0088",
    "cb-3035",
    "ccd-0048",
@@ -2172,6 +2173,7 @@
    "gkd-0099",
    "gkr-0102",
    "kcm-0132",
+   "mpk-0018",
    "vv-0014",
    "vv-0043",
    "cc-2004",
@@ -3001,8 +3003,10 @@
    "vlb-0002",
    "mpk-0009",
    "mpk-0011",
+   "mpk-0013",
    "mpk-0012",
    "cc-0365",
+   "mpk-0019",
    "cc-0363",
    "pv-0016",
    "cc-0114",
@@ -4099,10 +4103,10 @@
    "ev-sakshi-gopala",
    "ev-ekamra-bhubaneshvara",
    "ev-first-sight-jagannatha-temple",
+   "ev-first-darshan-jagannatha",
    "ev-sarvabhauma-meeting",
    "ev-departure-for-south",
    "ev-gauda-devotees-longing-first-year",
-   "ev-first-darshan-jagannatha",
    "ev-kurma-vasudeva",
    "ev-jagannatha-embraces-gaura",
    "ev-jagannatha-dasa-bhagavata-meeting",
@@ -4181,6 +4185,7 @@
    "ev-devghar-leper",
    "ev-marwari-brahmana-son",
    "ev-prataparudra-asks-sarvabhauma",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-puri-devotees-introduced",
    "ev-kala-krishnadasa-dismissed",
    "ev-bhavananda-raya-pandu",
@@ -4416,6 +4421,7 @@
    "ev-mahabhava-prakasha-radha-tattva",
    "ev-lord-initiation-madhavendra-mp",
    "ev-worlds-pilgrims-srivasa-praise",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-raghavera-jhali",
    "ev-month-stored-prasada",
@@ -4895,6 +4901,7 @@
    "cc-1018",
    "lcm-0207",
    "mkc-0161",
+   "mpk-0016",
    "vlm-0105",
    "mkc-0168",
    "pad-0052",
@@ -5266,6 +5273,7 @@
    "ev-navadvipa-lament-after-sannyasa",
    "ev-advaita-feast-shantipura",
    "ev-first-sight-jagannatha-temple",
+   "ev-prataparudra-dream-vaishnava-initiation",
    "ev-jagannatha-dasa-rahasa",
    "ev-sarvabhauma-deliverance",
    "ev-ramananda-raya-godavari",
@@ -5569,6 +5577,7 @@
    "cc-4073",
    "brt-2024",
    "mpk-0011",
+   "mpk-0013",
    "mpk-0012",
    "pv-0002",
    "cc-4140",
@@ -6237,6 +6246,7 @@
    "gkr-0025",
    "lcm-0208",
    "mkc-0162",
+   "mpk-0015",
    "vlm-0119",
    "gkd-0070",
    "kcm-0113",
@@ -6380,6 +6390,7 @@
    "cc-4060",
    "cc-4092",
    "mpk-0008",
+   "mpk-0019",
    "pv-0016",
    "ccd-0093",
    "cc-4145",
@@ -6514,6 +6525,7 @@
    "ev-bengali-poet-drama-svarupa",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-ramananda-asks-jagannatha-tattva",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-kalidasa-foot-water",
    "ev-raghunatha-bhatta-sent-vrindavana",
@@ -20074,6 +20086,7 @@
    "kcm-0129",
    "vlm-0121",
    "kcm-0132",
+   "mpk-0018",
    "cc-0143",
    "cc-2005",
    "gkd-0100",
@@ -20169,6 +20182,8 @@
    "mpk-0008",
    "mpk-0009",
    "mpk-0011",
+   "mpk-0013",
+   "mpk-0019",
    "cc-0363",
    "pv-0016",
    "brt-4013",
@@ -20246,6 +20261,7 @@
    "ev-return-journey-central-india",
    "ev-return-visit-ramananda",
    "ev-kashi-mishra-residence",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-bhavananda-raya-pandu",
    "ev-ramananda-comes-to-puri",
    "ev-devotees-gather-nilachala",
@@ -20294,6 +20310,7 @@
    "ev-chaitra-navami-kashi-mishra-gathering",
    "ev-ramananda-asks-jagannatha-tattva",
    "ev-mahabhava-prakasha-radha-tattva",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-gadadhara-reads-bhagavata-puri",
    "ev-haridasa-departure",
@@ -21382,7 +21399,9 @@
    "vlm-0116",
    "vlm-0117",
    "vlm-0118",
+   "mpk-0015",
    "vlm-0119",
+   "mpk-0016",
    "ccd-0052",
    "ccd-0053",
    "ccd-0056",
@@ -21393,6 +21412,7 @@
    "cc-2002",
    "gkd-0098",
    "ccd-0062",
+   "mpk-0018",
    "mpk-0010",
    "vlm-0122",
    "vlm-0123",
@@ -21487,6 +21507,7 @@
    "cc-4094",
    "cc-4095",
    "mpk-0008",
+   "mpk-0019",
    "cc-4101",
    "ccd-0093",
    "ccd-0094",
@@ -21504,6 +21525,7 @@
    "jvn-0001",
    "ccd-0002",
    "mpk-0002",
+   "mpk-0014",
    "vlm-0104",
    "pad-0207",
    "cb-0009",
@@ -21519,6 +21541,7 @@
    "ev-jagannatha-vallabha-first-staging",
    "ev-ramananda-governor-rajamahendri",
    "ev-ismail-gazi-raid-deities-hidden",
+   "ev-prataparudra-dream-vaishnava-initiation",
    "ev-departure-for-south",
    "ev-kurma-vasudeva",
    "ev-south-conversions",
@@ -21528,6 +21551,7 @@
    "ev-return-from-south",
    "ev-prataparudra-asks-sarvabhauma",
    "ev-kashi-mishra-residence",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-ramananda-comes-to-puri",
    "ev-jivadeva-kavi-dindima-rajamahendri",
    "ev-lord-refuses-to-see-king",
@@ -21564,6 +21588,7 @@
    "ev-kamalakanta-letter-prataparudra",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-ramananda-asks-jagannatha-tattva",
+   "ev-prataparudra-asks-jagannatha-tattva",
    "ev-jagamohana-dance-govinda-crosses",
    "ev-gundicha-marjana",
    "ev-lord-disappearance",
@@ -45727,6 +45752,7 @@
    "vlm-0114",
    "vlm-0116",
    "vlm-0118",
+   "mpk-0018",
    "cc-0143",
    "cc-2005",
    "gkd-0100",
@@ -45745,6 +45771,7 @@
    "ev-madhavendra-bentapur-kirtan",
    "ev-madhavendra-puri-departure",
    "ev-ramananda-governor-rajamahendri",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-bhavananda-raya-pandu",
    "ev-devotees-gather-nilachala",
    "ev-ramananda-comes-to-puri",
@@ -49951,6 +49978,7 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0118",
+   "mpk-0018",
    "cc-0143",
    "mpk-0010",
    "cc-4092",
@@ -49961,6 +49989,7 @@
   ],
   "events": [
    "ev-ramananda-governor-rajamahendri",
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-bhavananda-raya-pandu",
    "ev-ramananda-comes-to-puri",
    "ev-gopinatha-pattanayaka-pardoned"
@@ -51334,7 +51363,8 @@
   "lilas": [
    "vlm-0111",
    "vlm-0112",
-   "cc-1039"
+   "cc-1039",
+   "mpk-0014"
   ],
   "events": [
    "ev-purushottama-chhera-panhara-kanchi",
@@ -55955,6 +55985,7 @@
   "note": "храмовый служитель-кхунтиа в Пури, современник Господа, автор «Махабхава-пракаши» (сын Ниранджаны Кхунтии); в «Вайшнава-лиламрите» строит мандапу рахасы у Бата-Ганеши (2.25, 2.27) — вероятно, то же лицо",
   "section": "Аллегорические лица",
   "lilas": [
+   "mpk-0015",
    "vlm-0105",
    "mpk-0004",
    "vlm-0125",
@@ -55966,13 +55997,16 @@
    "vlm-0142",
    "mpk-0007",
    "mpk-0009",
+   "mpk-0013",
    "vlm-0158",
    "vlm-0162",
    "mpk-0001",
    "mpk-0002",
-   "mpk-0003"
+   "mpk-0003",
+   "mpk-0014"
   ],
   "events": [
+   "ev-ismail-gazi-raid-deities-hidden",
    "ev-jagannatha-dasa-rahasa",
    "ev-ratha-yatra-gundicha",
    "ev-sanatana-suicide-forbidden",
@@ -55981,6 +56015,7 @@
    "ev-shivananda-kanhai-pilgrims-quarrel",
    "ev-gaudiyas-govardhana-clash",
    "ev-chaitra-navami-kashi-mishra-gathering",
+   "ev-mahabhava-prakasha-radha-tattva",
    "ev-balarama-dasa-departure",
    "ev-lord-disappearance"
   ]
@@ -56115,6 +56150,7 @@
   "note": "полководец бенгальского султана Хусейн-шаха; набег на Ориссу и Пури (≈1509–1510; «Вайшнава-лиламрита» 4.9)",
   "section": "Аллегорические лица",
   "lilas": [
+   "mpk-0015",
    "vlm-0119"
   ],
   "events": [
@@ -56143,9 +56179,11 @@
   "note": "придворный Пратапарудры, сообщает о приходе юного санньяси («Вайшнава-лиламрита» 5.4)",
   "section": "Аллегорические лица",
   "lilas": [
+   "mpk-0018",
    "vlm-0125"
   ],
   "events": [
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-ratha-yatra-gundicha"
   ]
  },
@@ -56156,9 +56194,11 @@
   "note": "читает царю панджи (храмовую хронику) («Вайшнава-лиламрита» 5.5)",
   "section": "Аллегорические лица",
   "lilas": [
+   "mpk-0018",
    "vlm-0125"
   ],
   "events": [
+   "ev-prataparudra-learns-of-lord-panji",
    "ev-ratha-yatra-gundicha"
   ]
  },
@@ -56229,6 +56269,19 @@
   ],
   "events": [
    "ev-jhankad-sarala-rasa"
+  ]
+ },
+ {
+  "id": "@nrisimha-mahapatra",
+  "ru": "Нрисимха Махапатра (Нрисимха Упарай)",
+  "en": "Nrisimha Mahapatra (Nrisimha Uparaya)",
+  "note": "глава храмовых служителей, паттаджоши; увёз Божество на слоне к Чилике при набеге Исмаила Гази («Махабхава-пракаша» 3.27–29; «Вайшнава-лиламрита» 4.12)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "mpk-0015"
+  ],
+  "events": [
+   "ev-ismail-gazi-raid-deities-hidden"
   ]
  }
 ]

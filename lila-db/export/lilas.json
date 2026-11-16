@@ -128495,6 +128495,68 @@
   "attestation": 5
  },
  {
+  "id": "mpk-0015",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 11–40",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P09",
+  "order": 990,
+  "title": "Набег Гази Исмаила: служители тайной южной дверью уносят Господа к Чилике",
+  "summary": "Пока Пратапарудра ходит в походы на юг, Гази Исмаил идёт на Нилачалу; служители храма (с ними, по словам Канаи, и он сам — «мы») открывают тайную южную бронзовую дверь с семью колокольцами и уносят «брахму» Владыки; Нрисимха Махапатра ночью увозит Его на слоне, потом лодкой на юг, к Чилике; сановник сообщает царю на берегу; царь в гневе возвращается, входит в пещеру Чадхеи и поклоняется Парабрахме.",
+  "persons": [
+   "@prataparudra",
+   "@ismail-gazi",
+   "@nrisimha-mahapatra",
+   "@kanhai-odia",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#chilika"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "«Вайшнава-лиламрита» 4.4–21; ЧБ Антья 4",
+  "notes": "Свидетельство храмового служителя («мы»). «Брахма» внутри Божества — орийское храмовое предание; для гаудия-вайшнавов Божество — Сам Господь (сноска).",
+  "themes": [
+   "jagannatha",
+   "muslims"
+  ],
+  "event": "ev-ismail-gazi-raid-deities-hidden",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.11",
+    "to": "3.40"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.11",
+    "to": "3.40",
+    "line": 22,
+    "line_to": 51,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L22-L51",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L22-L51"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "«Вайшнава-лиламрита» 4.8: 15-й анк Пратапарудры; набег Исмаила Гази по историческим данным ≈1509–1510",
+  "cb": "Антья 4 (упоминание Хусейн-шаха, разрушителя храмов Ориссы)",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 2
+ },
+ {
   "id": "vlm-0119",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 4, 1–27",
@@ -128554,7 +128616,126 @@
    23,
    24
   ],
+  "attestation": 2
+ },
+ {
+  "id": "mpk-0016",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 41–48",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P09",
+  "order": 991,
+  "title": "Сон Пратапарудры и его вайшнавское посвящение; осада Мадары",
+  "summary": "Во сне Кришна говорит царю; с того дня он принимает вайшнавское посвящение, опирается на имя «Харе Кришна»; месяц войска не могут взять крепость Мадару; вернувшись, царь служит Господу как великий вайшнав.",
+  "persons": [
+   "@prataparudra",
+   "@krishna"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "revelation",
+   "jagannatha"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-prataparudra-dream-vaishnava-initiation",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.41",
+    "to": "3.48"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.41",
+    "to": "3.48",
+    "line": 56,
+    "line_to": 63,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L56-L63",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L56-L63"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
   "attestation": 1
+ },
+ {
+  "id": "mpk-0017",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 49–63",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P10",
+  "order": 3,
+  "date": "918 сал (?), чайтра, двадаши, четверг",
+  "title": "Приход Шри Чайтаньи в Пури: юный санньяси с посохом и камандалу, «Радха, Радха!»",
+  "summary": "В чайтру 918-го года (?), в двадаши, в четверг, в Кшетру входит юный санньяси — луна Шачи — с посохом и камандалу, с толпами вайшнавов, восклицая «Радха, Радха!»; Он входит в храм под возгласы «Хари бол», получает прасад из бхога-мандапы; дандины называют Его безумцем; через несколько дней Он уходит на юг.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 6; «Вайшнава-лиламрита» 4.28–35",
+  "notes": "Дата прочитана неуверенно; сопоставление с годом 1510 — в сносках.",
+  "themes": [
+   "jagannatha",
+   "ecstasy"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "event": "ev-first-darshan-jagannatha",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.49",
+    "to": "3.63"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.49",
+    "to": "3.63",
+    "line": 64,
+    "line_to": 78,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L64-L78",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L64-L78"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "cc": "Мадхья 6",
+  "cb": "Антья 2",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 9
  },
  {
   "id": "apr-0088",
@@ -129639,7 +129820,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cb-3034",
@@ -129699,7 +129880,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-1044",
@@ -129753,7 +129934,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "ccd-0049",
@@ -129811,7 +129992,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "gkr-0026",
@@ -129873,7 +130054,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0111",
@@ -129928,7 +130109,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0119",
@@ -130071,7 +130252,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "mkc-0164",
@@ -130134,7 +130315,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-0310",
@@ -130194,7 +130375,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-1045",
@@ -147580,6 +147761,69 @@
   "attestation": 7
  },
  {
+  "id": "mpk-0018",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 64–96",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P12",
+  "order": 2,
+  "title": "Царь у двери анасары; Ленка и Тадхау с панджи; славословие «Гауранга — жизнь моя»; Рамананда",
+  "summary": "В месяц митхуна царь охраняет дверь анасары; Ленка сообщает о юном санньяси; Тадхау читает в панджи, что Он пришёл с преданными, увидел Владыку, ушёл на юг и поселился в Кунджа-матхе; следует славословие с припевом «Гауранга — жизнь моя»; о Господе царю рассказывает Рамананда Рай, сын Бхавананды из Бентапура, паттаджоши царя.",
+  "persons": [
+   "@prataparudra",
+   "@budha-lenka",
+   "@tadhau",
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@gopinatha-pattanayaka",
+   "@bhavananda-raya"
+  ],
+  "places": [
+   "#puri",
+   "#bentapur"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "«Вайшнава-лиламрита» 5.3–6; ЧЧ Мадхья 11",
+  "notes": "Рамананда — «преданный Кришны-младенца с джняна-мишра бхакти» (3.93) — сноска о ЧЧ Мадхья 8.",
+  "themes": [
+   "jagannatha"
+  ],
+  "event": "ev-prataparudra-learns-of-lord-panji",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.64",
+    "to": "3.96"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.64",
+    "to": "3.96",
+    "line": 79,
+    "line_to": 115,
+    "count": 33,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L79-L115",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L79-L115"
+   }
+  ],
+  "cc": "Мадхья 11 (царь расспрашивает о Господе)",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "vv-0014",
   "source": "vaishnava-vandana",
   "ref": "Вандана Дживы, 77",
@@ -148923,7 +149167,7 @@
    24,
    24
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "vlm-0123",
@@ -208872,6 +209116,68 @@
   "attestation": 1
  },
  {
+  "id": "mpk-0013",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 2, 170–210 и колофон",
+  "file": "mahabhava-prakasha/ru/02.md",
+  "period": "P14",
+  "order": 42.5,
+  "title": "Тайна гопи: девять «лун» и восемь сакхи; мольба преданных; конец главы 2",
+  "summary": "Прабху изъясняет тайну гопи: девять «лун», восемь сакхи с их именами и свойствами, махабхаву, в которой пребывает ум Кришны; преданные в слезах молят о милости; Канаи заключает: «То, что я услышал из уст гуру Гауранги, — ту махабхаву я и описал».",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@radha",
+   "@kanhai-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Понижено до D: схема сакхи и «лун» в духе шакта-тантры (Шри-чакра); у гаудия-вайшнавов сакхи — каява-вьюха Радхи (ЧЧ Ади 4; сноски). Отождествление Гауранги с Владыкой Ниладри (2.207) — сноска.",
+  "themes": [
+   "teaching"
+  ],
+  "bhava": [
+   "gopi"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-mahabhava-prakasha-radha-tattva",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/02.md",
+    "from": "2.170",
+    "to": "2.210"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/02.md",
+    "from": "2.170",
+    "to": "2.210",
+    "line": 203,
+    "line_to": 247,
+    "count": 41,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/02.md?plain=1#L203-L247",
+    "file_en": "mahabhava-prakasha/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/02.md?plain=1#L203-L247"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "mpk-0012",
   "source": "mahabhava-prakasha",
   "ref": "Гл. 2, 73–122",
@@ -208990,6 +209296,66 @@
   "age": [
    30,
    36
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "mpk-0019",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 97–124 (продолжается)",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "P14",
+  "order": 44,
+  "title": "Рамананда приводит царя к Господу; след стопы в камне; царь вопрошает о таттве Джаганнатхи",
+  "summary": "Рамананда, слуга Шачинанданы, приводит царя; царь, сложив ладони, называет Господа аватарой тела Радхи, вспоминает, как во время великого танца в джагамохане Он оставил след стопы в камне и как синий и белый облики стали одним телом, и просит рассеять сомнение: какова таттва Джаганнатхи, Которому служат Брахма и Шанкара?",
+  "persons": [
+   "@prataparudra",
+   "@ramananda-raya",
+   "@mahaprabhu",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 11–14",
+  "notes": "«Аватара тела Радхи» — сноска (ЧЧ Ади 1, 4).",
+  "themes": [
+   "teaching",
+   "jagannatha"
+  ],
+  "divergence": "След стопы в камне — в ЧЧ/ЧБ нет.",
+  "event": "ev-prataparudra-asks-jagannatha-tattva",
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.97",
+    "to": "3.124"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.97",
+    "to": "3.124",
+    "line": 120,
+    "line_to": 147,
+    "count": 28,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L120-L147",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L120-L147"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
   ],
   "attestation": 1
  },
@@ -271242,6 +271608,52 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/ru/08.md?plain=1#L486-L543",
     "file_en": "lochana/en/08.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/08.md?plain=1#L486-L543"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "mpk-0014",
+  "source": "mahabhava-prakasha",
+  "ref": "Гл. 3, 1–10",
+  "file": "mahabhava-prakasha/ru/03.md",
+  "period": "PX",
+  "order": 4,
+  "title": "Похвала царю Пратапарудре",
+  "summary": "Пратапарудра из Солнечного рода — «частица Вишну», рождённый по милости Джая-Дурги, сын Пурушоттама-девы, окружённый преданными Вишну, могучий силой Махарудры.",
+  "persons": [
+   "@prataparudra",
+   "@purushottama-deva",
+   "@kanhai-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "«Вайшнава-лиламрита» 4.1–2",
+  "notes": "Придворная похвала; о служении Рудре — сноска (Шива — лучший из вайшнавов, ШБ 12.13.16).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.1",
+    "to": "3.10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "mahabhava-prakasha/ru/03.md",
+    "from": "3.1",
+    "to": "3.10",
+    "line": 8,
+    "line_to": 17,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/ru/03.md?plain=1#L8-L17",
+    "file_en": "mahabhava-prakasha/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/mahabhava-prakasha/en/03.md?plain=1#L8-L17"
    }
   ],
   "attestation": 1
