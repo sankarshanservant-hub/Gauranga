@@ -927,3 +927,150 @@
   event: ev-gaudiyas-leave-nilachala
   verses:
     - {file: "vaishnava-lilamrita/ru/06.md", from: "6.59", to: "6.85"}
+
+- id: vlm-0142
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 86–93"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 21
+  title: "Побоище на Говардхане; слово Прабху о «битых»"
+  summary: "На Говардхане слуги Валлабхи бьют гаудиев, иные гибнут, иные остаются при Рупе; к Ратха-ятре Канхаи приносит весть, и, по Мадхаве, Прабху говорит: «Хорошо вышло: кто по нраву „битый“, тот и будет бит»."
+  persons: ["@mahaprabhu", "@kanhai-odia", "@rupa-gosvami", "@vallabha-bhatta"]
+  places: ["#govardhana", "#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: полемическое орийское предание; слова, приписанные Господу, противоречат Его отношению к преданным Гауды в ЧЧ (сноски перевода)."
+  themes: [offense]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-gaudiyas-govardhana-clash
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.86", to: "6.93"}
+
+- id: vlm-0143
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, «Восемь шлок Свами» (Sh1–Sh8e)"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 20.5
+  title: "«Восемь шлок» (Шикшаштака) с орийским переложением; конец главы 6"
+  summary: "Мадхава приводит восемь санскритских шлок «Шикшаштаки» — «чето-дарпана-марджанам», «намнам акари», «тринад апи суничена», «на дханам», «айи нанда-тануджа», «найанам галад-ашру», «югайитам нимешена», «ашлишйа ва» — каждую с орийскими двустишиями-переложением; по Мадхаве, их сложил Свами, описав в них бхаву Радхи."
+  persons: ["@jagannatha-dasa-odia", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Антья 20; «Падьявали»"
+  notes: "Атрибуция Джаганнатхе Дасу — орийское предание; гаудия-вайшнавы (Бхактисиддханта) признают «Шикшаштаку» сочинением Самого Махапрабху (сноски перевода). Метки шлок — 6.Sh1…6.Sh8e."
+  themes: [teaching]
+  teaching: [holy-name, prema]
+  scriptures: ["Шикшаштака"]
+  divergence: "Атрибуция: у Мадхавы — Джаганнатха Дас."
+  event: ev-shikshashtaka-recitation
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.Sh1", to: "6.Sh8e"}
+
+- id: vlm-0144
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 1–18"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 22
+  title: "Свами принимает мантру от Баларамы Даса; гнев Каши Мишры"
+  summary: "Свами решает принять мантру и поклоняться Кришне путём раги; Прабху посылает его к Балараме Дасу: «Кроме него, нет иного гуру»; Каши Мишра гневается, что брахман берёт мантру у шудры; Свами отвечает: «Шудра или брахман — все равны; драгоценность и в низком месте взять — дхарма»; Сарвабхаума и Лакшмидхара вразумляют Каши Мишру."
+  persons: ["@jagannatha-dasa-odia", "@balarama-dasa-odia", "@mahaprabhu", "@kashi-mishra", "@sarvabhauma", "@lakshmidhara-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ср. ЧЧ Мадхья 8.128 (гуру — знающий науку о Кришне); об отношении рагануги к шастрам — сноски перевода."
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-svami-initiated-by-balarama-dasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.1", to: "7.18"}
+
+- id: vlm-0145
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 19–30"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 23
+  title: "Камень с Говардханы для Рагхунатхи Даса; недовольство брахманов; Панчасакха и путь раги"
+  summary: "Прабху дарит Рагхунатхе Дасу камень с Говардханы: «Это шалаграма, не считай его обычным»; Сарвабхаума и Лакшмидхара в досаде, Каши Мишра гневается, что шудра получил право поклоняться шалаграме; Панчасакха с Прабху ежедневно вкушают расу, упиваются санкиртаной, оставив путь вайдхи, и созерцают бхаву гопи."
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@sarvabhauma", "@lakshmidhara-puri", "@kashi-mishra", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#puri", "#govardhana"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 6"
+  notes: "Рагануга у гаудия-вайшнавов не отменяет шастр (ЧЧ Мадхья 22; БРС 1.2.101; сноски)."
+  themes: [mercy, teaching]
+  cc: "Антья 6"
+  divergence: "В ЧЧ — говардхана-шила и гунджа-мала, поклонение водой и туласи; недовольства брахманов нет; Мадхава называет камень «шалаграмой», а Рагхунатху — «шудрой»."
+  event: ev-govardhana-shila-gunja-gift
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.19", to: "7.30"}
+
+- id: vlm-0146
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 31–92"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 5
+  title: "Война с Кришнадевой Раей: голод, падение Кондавиду, гибель Вирабхадры, мир"
+  summary: "Кришнадева Рая теснит Гаджапати; паводки и засухи губят урожай, Панчасакха с киртаном ходят по деревням; Кондавиду обороняют Бхадрадева и Дживадева, через месяц осады крепость пала, Дживадеву зарубили, Бхадрадеву взяли в плен; Кришнарай велит ему биться с простым воином, и царевич, не стерпев унижения, закалывается; Кришнарай оплакивает его; ради выкупа царицы Чампадеви Гаджапати отдаёт в жёны Кришнараю дочь Джагамохини и земли к югу от Кришны и возвращается в Кшетру."
+  persons: ["@prataparudra", "@krishnadeva-raya", "@virabhadra-gajapati", "@jivadeva", "@jagamohini", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#kondavidu", "#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Господь в эпизоде не участвует; исторический фон (Кондавиду пал ≈1515)."
+  themes: [jagannatha, kirtan]
+  divergence: "В ЧЧ/ЧБ не описано."
+  event: ev-kondavidu-fall-virabhadra
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.31", to: "7.92"}
+
+- id: vlm-0147
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 93–113"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 6
+  title: "Царь у Панчасакхи и Прабху; танец перед колесницей: «Это — Прабху!»"
+  summary: "Скорбящий царь призывает Балараму Даса и Прабху, просит имени и наставления, слушает киртан; на Ратха-ятре Чайтанья танцует перед колесницей среди Панчасакхи — то вырастая, то сжимаясь, со всеми чертами бхавы Радхи; царь говорит: «Это не человек — это воочию бхава Радхи», Рамананда подтверждает, и царь провозглашает Чайтанью Прабху перед народом."
+  persons: ["@mahaprabhu", "@prataparudra", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13–14"
+  notes: "Расараджа-махабхава — ср. ЧЧ Мадхья 8, Ади 4 (сноски)."
+  themes: [festival, ecstasy, mercy]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  divergence: "В ЧЧ — семь бенгальских групп киртана; всенародного провозглашения нет."
+  event: ev-prataparudra-proclaims-chaitanya-prabhu
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.93", to: "7.113"}
+
+- id: vlm-0148
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 114–125 (продолжается)"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 900
+  title: "Махабхава Прабху: Гамбхира, разлука, море, туча, Тота-Гопинатха"
+  summary: "Прабху пребывает в махабхаве в Гамбхире: встаёт, садится, катается по земле с криком «О Кришна!», оставляет счёт имён на поясном шнуре, бежит в храм искать Кришну, к морю — увидеть Его облик, теряет себя при виде тучи; бывает у Тота-Гопинатхи и в Кунджа-матхе."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–20"
+  notes: ""
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Антья 14–20"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.114", to: "7.125"}

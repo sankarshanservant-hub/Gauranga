@@ -2851,6 +2851,7 @@
    "cc-4116",
    "apr-0122",
    "cc-4100",
+   "vlm-0147",
    "gst-0005",
    "gst-0007",
    "cc-4118",
@@ -2925,9 +2926,13 @@
    "ccd-0074",
    "gkd-0183",
    "vlm-0141",
+   "vlm-0143",
    "cc-4019",
+   "vlm-0142",
+   "vlm-0144",
    "cc-0169",
    "cc-0171",
+   "vlm-0145",
    "cc-4021",
    "apr-0127",
    "cc-0356",
@@ -3159,6 +3164,7 @@
    "brt-3045",
    "brt-3046",
    "lcm-0249",
+   "vlm-0148",
    "krn-0002",
    "gkd-0186",
    "apr-0145",
@@ -4317,6 +4323,7 @@
    "ev-garuda-stambha-darshan",
    "ev-dola-yatra-puri",
    "ev-nityananda-kicks-shivananda",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-parameshvara-modaka",
    "ev-rupa-arrives-haridasa-puri",
    "ev-lord-debt-gauda-devotees",
@@ -4353,7 +4360,11 @@
    "ev-chhota-haridasa-punished",
    "ev-nakula-brahmachari",
    "ev-gaudiyas-leave-nilachala",
+   "ev-shikshashtaka-recitation",
+   "ev-gaudiyas-govardhana-clash",
+   "ev-svami-initiated-by-balarama-dasa",
    "ev-kamalakanta-letter-prataparudra",
+   "ev-govardhana-shila-gunja-gift",
    "ev-gopala-bhattacharya-mayavada",
    "ev-chhota-haridasa-prayaga",
    "ev-pradyumna-mishra-hears-ramananda",
@@ -4363,7 +4374,6 @@
    "ev-raghunatha-lord-instructions",
    "ev-svarupa-teaches-raghunatha-piriti",
    "ev-raghunatha-stops-invitations",
-   "ev-govardhana-shila-gunja-gift",
    "ev-raghunatha-rotten-rice",
    "ev-vallabha-sridhara-svami",
    "ev-gadadhara-vallabha-initiation",
@@ -4420,7 +4430,6 @@
    "ev-fall-into-ocean-fisherman",
    "ev-minaketana-ramadasa-kaviraja-house",
    "ev-nityananda-returns-to-puri",
-   "ev-shikshashtaka-recitation",
    "ev-shachi-vishnupriya-passing",
    "ev-shankara-ghosha-dampha",
    "ev-vishnu-puri-bhakti-ratnavali",
@@ -19787,6 +19796,8 @@
    "cc-4010",
    "cc-4043",
    "vlm-0137",
+   "vlm-0144",
+   "vlm-0145",
    "cc-4077",
    "cc-4088",
    "ccd-0091",
@@ -19873,6 +19884,8 @@
    "ev-rupa-puri-dramas",
    "ev-sanatana-puri-sores",
    "ev-mahamantra-order-dispute",
+   "ev-svami-initiated-by-balarama-dasa",
+   "ev-govardhana-shila-gunja-gift",
    "ev-vallabha-bhatta-puri",
    "ev-ramachandra-puri-criticism",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
@@ -20058,6 +20071,7 @@
    "ccd-0087",
    "cc-0353",
    "vlm-0130",
+   "vlm-0147",
    "apr-0128",
    "cc-4010",
    "gkd-0156",
@@ -20181,6 +20195,7 @@
    "ev-return-to-puri-from-vrindavana",
    "ev-puri-eighteen-years-associates",
    "ev-rupa-taught-by-ramananda-jagannatha-dasa",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-rupa-puri-dramas",
    "ev-rupa-sends-book-to-lord",
    "ev-atibada-name",
@@ -21359,6 +21374,8 @@
    "ccd-0083",
    "ccd-0086",
    "ccd-0087",
+   "vlm-0146",
+   "vlm-0147",
    "vlm-0136",
    "cc-0169",
    "cc-4092",
@@ -21431,6 +21448,8 @@
    "ev-vraja-parikrama",
    "ev-sanatana-kashi-instruction",
    "ev-return-to-puri-from-vrindavana",
+   "ev-kondavidu-fall-virabhadra",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-balarama-dasa-sand-chariot",
    "ev-kamalakanta-letter-prataparudra",
    "ev-gopinatha-pattanayaka-pardoned",
@@ -21609,6 +21628,7 @@
    "cc-0296",
    "gkd-0183",
    "vlm-0141",
+   "vlm-0142",
    "pvl-0131",
    "vlb-0011",
    "cc-3031",
@@ -21889,6 +21909,7 @@
    "ev-gosvamis-reveal-lost-tirthas",
    "ev-nakula-brahmachari",
    "ev-gaudiyas-leave-nilachala",
+   "ev-gaudiyas-govardhana-clash",
    "ev-raghunatha-dasa-joins-lord",
    "ev-chaitanya-swoons-vallabha-words",
    "ev-rupa-sanatana-vrindavana-vairagya",
@@ -26964,6 +26985,8 @@
    "vlm-0136",
    "vlm-0137",
    "vlm-0138",
+   "vlm-0144",
+   "vlm-0145",
    "cc-4093",
    "cc-4094",
    "cc-4095",
@@ -27018,6 +27041,8 @@
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
    "ev-shivananda-kanhai-pilgrims-quarrel",
+   "ev-svami-initiated-by-balarama-dasa",
+   "ev-govardhana-shila-gunja-gift",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-snana-yatra-anavasara-alalanatha",
    "ev-haridasa-departure",
@@ -30060,6 +30085,7 @@
    "gkd-0130",
    "brt-1029",
    "brt-0041",
+   "vlm-0145",
    "cc-4064",
    "cc-0366",
    "cc-4065",
@@ -30221,6 +30247,7 @@
    "ev-raghunatha-dasa-shantipura",
    "ev-gopala-ganthuli",
    "ev-gopala-milk-rupa-sanatana",
+   "ev-govardhana-shila-gunja-gift",
    "ev-raghunatha-dasa-saptagrama-arrest",
    "ev-panihati-chida-dadhi",
    "ev-raghunatha-dasa-escape",
@@ -30228,7 +30255,6 @@
    "ev-raghunatha-lord-instructions",
    "ev-svarupa-teaches-raghunatha-piriti",
    "ev-raghunatha-stops-invitations",
-   "ev-govardhana-shila-gunja-gift",
    "ev-raghunatha-rotten-rice",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-kalidasa-foot-water",
@@ -41986,6 +42012,7 @@
    "cc-3028",
    "cc-3029",
    "vlm-0134",
+   "vlm-0142",
    "cc-0361",
    "cc-4077",
    "gkd-0166",
@@ -42017,6 +42044,7 @@
    "ev-rupa-prayaga",
    "ev-raghupati-upadhyaya",
    "ev-vallabha-bhatta-puri",
+   "ev-gaudiyas-govardhana-clash",
    "ev-vallabha-sridhara-svami",
    "ev-gadadhara-vallabha-initiation",
    "ev-chaitanya-swoons-vallabha-words",
@@ -47036,15 +47064,23 @@
   "lilas": [
    "vlm-0105",
    "vlm-0125",
+   "vlm-0146",
+   "vlm-0147",
    "vlm-0135",
    "vlm-0136",
+   "vlm-0144",
+   "vlm-0145",
    "vlm-0104"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
    "ev-ratha-yatra-gundicha",
+   "ev-kondavidu-fall-virabhadra",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-atibada-name",
-   "ev-balarama-dasa-sand-chariot"
+   "ev-balarama-dasa-sand-chariot",
+   "ev-svami-initiated-by-balarama-dasa",
+   "ev-govardhana-shila-gunja-gift"
   ]
  },
  {
@@ -47496,6 +47532,8 @@
    "vlm-0125",
    "vlm-0130",
    "vlm-0131",
+   "vlm-0146",
+   "vlm-0147",
    "vlm-0133",
    "vlm-0134",
    "vlm-0135",
@@ -47503,6 +47541,9 @@
    "vlm-0137",
    "vlm-0139",
    "vlm-0141",
+   "vlm-0143",
+   "vlm-0144",
+   "vlm-0145",
    "vlm-0104"
   ],
   "events": [
@@ -47511,13 +47552,18 @@
    "ev-ratha-yatra-gundicha",
    "ev-rupa-taught-by-ramananda-jagannatha-dasa",
    "ev-kabir-in-puri",
+   "ev-kondavidu-fall-virabhadra",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-sanatana-taught-jagannatha-dasa",
    "ev-vallabha-bhatta-puri",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
    "ev-madhavi-in-goshthi",
-   "ev-gaudiyas-leave-nilachala"
+   "ev-gaudiyas-leave-nilachala",
+   "ev-shikshashtaka-recitation",
+   "ev-svami-initiated-by-balarama-dasa",
+   "ev-govardhana-shila-gunja-gift"
   ]
  },
  {
@@ -55582,19 +55628,25 @@
   "lilas": [
    "vlm-0105",
    "vlm-0125",
+   "vlm-0146",
+   "vlm-0147",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
    "vlm-0137",
+   "vlm-0145",
    "vlm-0104"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
    "ev-ratha-yatra-gundicha",
+   "ev-kondavidu-fall-virabhadra",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
-   "ev-mahamantra-order-dispute"
+   "ev-mahamantra-order-dispute",
+   "ev-govardhana-shila-gunja-gift"
   ]
  },
  {
@@ -55606,19 +55658,25 @@
   "lilas": [
    "vlm-0105",
    "vlm-0125",
+   "vlm-0146",
+   "vlm-0147",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
    "vlm-0137",
+   "vlm-0145",
    "vlm-0104"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
    "ev-ratha-yatra-gundicha",
+   "ev-kondavidu-fall-virabhadra",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
-   "ev-mahamantra-order-dispute"
+   "ev-mahamantra-order-dispute",
+   "ev-govardhana-shila-gunja-gift"
   ]
  },
  {
@@ -55630,17 +55688,23 @@
   "lilas": [
    "vlm-0105",
    "vlm-0125",
+   "vlm-0146",
+   "vlm-0147",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
+   "vlm-0145",
    "vlm-0104"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
    "ev-ratha-yatra-gundicha",
+   "ev-kondavidu-fall-virabhadra",
+   "ev-prataparudra-proclaims-chaitanya-prabhu",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
-   "ev-balarama-dasa-sand-chariot"
+   "ev-balarama-dasa-sand-chariot",
+   "ev-govardhana-shila-gunja-gift"
   ]
  },
  {
@@ -55652,11 +55716,13 @@
   "lilas": [
    "vlm-0112",
    "vlm-0123",
+   "vlm-0146",
    "vlm-0104"
   ],
   "events": [
    "ev-two-gita-govindas-test",
-   "ev-jivadeva-kavi-dindima-rajamahendri"
+   "ev-jivadeva-kavi-dindima-rajamahendri",
+   "ev-kondavidu-fall-virabhadra"
   ]
  },
  {
@@ -55671,7 +55737,8 @@
    "vlm-0132",
    "vlm-0136",
    "vlm-0137",
-   "vlm-0138"
+   "vlm-0138",
+   "vlm-0142"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
@@ -55679,7 +55746,8 @@
    "ev-sanatana-suicide-forbidden",
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
-   "ev-shivananda-kanhai-pilgrims-quarrel"
+   "ev-shivananda-kanhai-pilgrims-quarrel",
+   "ev-gaudiyas-govardhana-clash"
   ]
  },
  {
@@ -55823,10 +55891,12 @@
   "note": "правитель Виджаянагара (1509–1529); противник Пратапарудры на юге («Вайшнава-лиламрита» 4.8)",
   "section": "Аллегорические лица",
   "lilas": [
-   "vlm-0119"
+   "vlm-0119",
+   "vlm-0146"
   ],
   "events": [
-   "ev-ismail-gazi-raid-deities-hidden"
+   "ev-ismail-gazi-raid-deities-hidden",
+   "ev-kondavidu-fall-virabhadra"
   ]
  },
  {
@@ -55866,6 +55936,47 @@
   ],
   "events": [
    "ev-kabir-in-puri"
+  ]
+ },
+ {
+  "id": "@virabhadra-gajapati",
+  "ru": "Вирабхадра (Бхадрадева), сын Пратапарудры",
+  "en": "Virabhadra (Bhadradeva), son of Prataparudra",
+  "note": "царевич, оборонял Кондавиду, взят в плен Кришнадевой Раей и погиб («Вайшнава-лиламрита» 7.47–83); не путать с @virabhadra",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0146"
+  ],
+  "events": [
+   "ev-kondavidu-fall-virabhadra"
+  ]
+ },
+ {
+  "id": "@lakshmidhara-puri",
+  "ru": "Лакшмидхара (пандит в Пури)",
+  "en": "Lakshmidhara (a pandit of Puri)",
+  "note": "вместе с Сарвабхаумой вразумляет Каши Мишру («Вайшнава-лиламрита» 7.16–24); кто это — не выяснено",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0144",
+   "vlm-0145"
+  ],
+  "events": [
+   "ev-svami-initiated-by-balarama-dasa",
+   "ev-govardhana-shila-gunja-gift"
+  ]
+ },
+ {
+  "id": "@jagamohini",
+  "ru": "Джагамохини, дочь Пратапарудры",
+  "en": "Jagamohini, daughter of Prataparudra",
+  "note": "выдана за Кришнадеву Раю по мирному договору («Вайшнава-лиламрита» 7.90)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0146"
+  ],
+  "events": [
+   "ev-kondavidu-fall-virabhadra"
   ]
  }
 ]

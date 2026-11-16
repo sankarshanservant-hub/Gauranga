@@ -5288,10 +5288,18 @@
 - advaita-prakasha (D): Гл. 19, 101–116 — [101. Затем к п–116. Дивное бл](../advaita-prakash/19.md?plain=1#L105-L120) · `apr-0132`
 - cc (A): Антья 10.103–106 — [103–106](../chaitanya-charitamrita/vcd/txt/CC_Antya10.txt?plain=1#L1243-L1276) · `cc-4102`
 
+## Война с Кришнадевой Раей: голод, падение Кондавиду, гибель Вирабхадры, мир и брак Джагамохини / War with Krishnadeva Raya: famine, fall of Kondavidu, death of Virabhadra, peace and Jagamohini's marriage  `ev-kondavidu-fall-virabhadra` (1515–1516, возраст 29–30, оценка)
+
+- vaishnava-lilamrita (C): Гл. 7, 31–92 — [7.31–7.92](../vaishnava-lilamrita/ru/07.md?plain=1#L42-L111) · `vlm-0146`
+
 ## Нитьянанда пинает Шивананду Сену, оставшись без ночлега; Шриканта уходит вперёд к Господу / Nityananda kicks Shivananda Sena when left without lodging; Shrikanta goes ahead to the Lord  `ev-nityananda-kicks-shivananda` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Антья 12.7–33 — [7–33](../chaitanya-charitamrita/vcd/txt/ШБ.txt?plain=1#L96-L423) · `cc-4115`
 - cc (A): Антья 12.34–43 — [34–43](../chaitanya-charitamrita/vcd/txt/ШБ.txt?plain=1#L433-L553) · `cc-4116`
+
+## Царь у Панчасакхи и Прабху; на Ратха-ятре провозглашает: «Это — Прабху!» / The king with the Panchasakha and the Lord; at the Ratha-yatra he proclaims: 'This is the Lord!'  `ev-prataparudra-proclaims-chaitanya-prabhu` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 7, 93–113 — [7.93–7.113](../vaishnava-lilamrita/ru/07.md?plain=1#L116-L136) · `vlm-0147`
 
 ## Кондитер Парамешвара из Надии у Господа в Пури / Parameshvara the sweet-maker of Nadia with the Lord in Puri  `ev-parameshvara-modaka` (1516–1533, возраст 30–47, оценка)
 
@@ -5531,6 +5539,14 @@
 - chaitanya-chandrodaya (A): Акт 9, правешака (чета киннаров) — [**Женщина.** Благородный супруг! А каков–**Мужчина.** Тогда Шивананда сказал: «Уч](../chaitanya-chandrodaya/ru/09.md?plain=1#L69-L91) · `ccd-0075`
 - cc (A): Антья 2.36–78 — [36–78](../chaitanya-charitamrita/vcd/txt/CC_Antya02.txt?plain=1#L455-L964) · `cc-4019`
 
+## Побоище на Говардхане и слово Прабху / The brawl at Govardhana and the Lord's word  `ev-gaudiyas-govardhana-clash` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (D): Гл. 6, 86–93 — [6.86–6.93](../vaishnava-lilamrita/ru/06.md?plain=1#L103-L110) · `vlm-0142`
+
+## Джаганнатха Дас принимает дикшу от Баларамы Даса; гнев Каши Мишры / Jagannatha Dasa takes initiation from Balarama Dasa; Kashi Mishra's anger  `ev-svami-initiated-by-balarama-dasa` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 7, 1–18 — [7.1–7.18](../vaishnava-lilamrita/ru/07.md?plain=1#L8-L25) · `vlm-0144`
+
 ## Письмо Камалаканты Вишваса Пратапарудре о долге Адвайты: Господь наказывает «баулию», Адвайта радуется наказанию, Господь прощает и наставляет / Kamalakanta Vishvasa’s letter to Prataparudra about Advaita’s debt: the Lord punishes the “bauliya”, Advaita rejoices at the punishment, the Lord forgives and instructs  `ev-kamalakanta-letter-prataparudra` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Ади 12.28–38 — [28–38](../chaitanya-charitamrita/ed/vcd/CC_Adi12.md?plain=1#L293-L393) · `cc-0169`
@@ -5599,6 +5615,7 @@
 
 ## Господь дарит Рагхунатхе камень с Говардханы и ожерелье из гунджи / The Lord gives Raghunatha the Govardhana stone and the gunja necklace  `ev-govardhana-shila-gunja-gift` (1516–1533, возраст 30–47, оценка)
 
+- vaishnava-lilamrita (C): Гл. 7, 19–30 — [7.19–7.30](../vaishnava-lilamrita/ru/07.md?plain=1#L30-L41) · `vlm-0145`
 - cc (A): Антья 6.287–308 — [287–308](../chaitanya-charitamrita/vcd/txt/CC_Antya06.txt?plain=1#L2991-L3207) · `cc-4073`
 - gaura-krishnodaya (B): Сарга 16, 64–65 — [64–65](../gaura-krishnodaya/ru/16.md?plain=1#L145-L147) · `gkd-0160`
 - gaura-stotras (A): Рагхунатха, «Гауранга-става-калпатару» 11 — [11–11](../stotras/ru/02.md?plain=1#L25-L25) · `gst-0014`
@@ -5923,6 +5940,7 @@
 - padas (A): Нарахари (Саркар), ПК 1746 «আরে মোর গৌর কিশোর। নাহি জানে দিবানিশি» — [16.1–16.4](../padas/ru/03.md?plain=1#L491-L505) · `pad-0057`
 - padas (C): Без подписи (ГПТ — Васу Гхош; рук. П-Р-Са — Говинда Дас), ПК 1663 «চেতন পাইয়া গোরা রায়» — [17.1–17.5](../padas/ru/03.md?plain=1#L524-L536) · `pad-0058`
 - cc (A): Антья 18.3–23 — [3–23](../chaitanya-charitamrita/vcd/new/CC_Antya18.md?plain=1#L41-L238) · `cc-4155`
+- vaishnava-lilamrita (C): Гл. 7, 114–125 (продолжается) — [7.114–7.125](../vaishnava-lilamrita/ru/07.md?plain=1#L137-L148) · `vlm-0148`
 
 ## Господь видит во сне раса-лилу и томится в разлуке / The Lord sees the rasa-lila in a dream and pines in separation  `ev-rasa-dream-separation` (1516–1533, возраст 30–47, оценка)
 
@@ -6007,6 +6025,7 @@
 
 ## Шикшаштака: Господь произносит и вкушает восемь шлок наставления / The Shikshashtaka: the Lord recites and relishes the eight verses of instruction  `ev-shikshashtaka-recitation` (1516–1533, возраст 30–47, оценка)
 
+- vaishnava-lilamrita (C): Гл. 6, «Восемь шлок Свами» (Sh1–Sh8e) — [6.Sh1–6.Sh8e](../vaishnava-lilamrita/ru/06.md?plain=1#L114-L157) · `vlm-0143`
 - cc (A): Антья 20.8–37 — [8–37](../chaitanya-charitamrita/vcd/txt/CC_Antya20.txt?plain=1#L68-L318) · `cc-4168`
 - gaura-krishnodaya (B): Сарга 18, 37–38 — [37–38](../gaura-krishnodaya/ru/18.md?plain=1#L83-L85) · `gkd-0184`
 - gaura-stotras (A): «Шикшаштака» 1–8 («Падьявали» 22, 31, 32, 95, 71, 94, 328, 341) — [1–8](../stotras/ru/07.md?plain=1#L5-L19) · `gst-0026`

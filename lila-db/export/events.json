@@ -13828,7 +13828,8 @@
    "pad-0258",
    "pad-0057",
    "pad-0058",
-   "cc-4155"
+   "cc-4155",
+   "vlm-0148"
   ],
   "sources": [
    "advaita-prakasha",
@@ -13836,7 +13837,8 @@
    "gaura-stotras",
    "murari-kcc",
    "nityananda-vamsha",
-   "padas"
+   "padas",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -32003,6 +32005,7 @@
    47
   ],
   "entries": [
+   "vlm-0145",
    "cc-4073",
    "gkd-0160",
    "gst-0014",
@@ -32011,7 +32014,8 @@
   "sources": [
    "cc",
    "gaura-krishnodaya",
-   "gaura-stotras"
+   "gaura-stotras",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -32210,6 +32214,7 @@
    47
   ],
   "entries": [
+   "vlm-0143",
    "cc-4168",
    "gkd-0184",
    "gst-0026",
@@ -32218,7 +32223,8 @@
   "sources": [
    "cc",
    "gaura-krishnodaya",
-   "gaura-stotras"
+   "gaura-stotras",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -34082,6 +34088,126 @@
   ],
   "entries": [
    "vlm-0141"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-gaudiyas-govardhana-clash",
+  "title": "Побоище на Говардхане и слово Прабху",
+  "title_en": "The brawl at Govardhana and the Lord's word",
+  "period": "P14",
+  "order": 21,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 6.86–93): ученики Валлабхи бьют гаудиев на Говардхане; Канхаи приносит весть к Ратха-ятре; по Мадхаве, Прабху говорит: «Кто по нраву „битый“, тот и будет бит».",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0142"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-svami-initiated-by-balarama-dasa",
+  "title": "Джаганнатха Дас принимает дикшу от Баларамы Даса; гнев Каши Мишры",
+  "title_en": "Jagannatha Dasa takes initiation from Balarama Dasa; Kashi Mishra's anger",
+  "period": "P14",
+  "order": 22,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "offense"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 7.1–18): по слову Прабху Свами принимает мантру от шудры Баларамы Даса; Каши Мишра гневается, Свами отвечает: «Шудра или брахман — все равны»; Сарвабхаума и Лакшмидхара его вразумляют.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0144"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-kondavidu-fall-virabhadra",
+  "title": "Война с Кришнадевой Раей: голод, падение Кондавиду, гибель Вирабхадры, мир и брак Джагамохини",
+  "title_en": "War with Krishnadeva Raya: famine, fall of Kondavidu, death of Virabhadra, peace and Jagamohini's marriage",
+  "period": "P14",
+  "order": 5,
+  "years": [
+   1515,
+   1516
+  ],
+  "date_conf": "оценка",
+  "date_basis": "падение Кондавиду ≈1515 (исторические данные)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "kirtan"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 7.31–92): паводки и засухи, киртан Панчасакхи по деревням; осада Кондавиду, гибель Дживадевы, плен Бхадрадевы (Вирабхадры), его гибель от собственного меча; мир ценой брака Джагамохини с Кришнадевой Раей; царь возвращается в Кшетру.",
+  "age": [
+   29,
+   30
+  ],
+  "entries": [
+   "vlm-0146"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-proclaims-chaitanya-prabhu",
+  "title": "Царь у Панчасакхи и Прабху; на Ратха-ятре провозглашает: «Это — Прабху!»",
+  "title_en": "The king with the Panchasakha and the Lord; at the Ratha-yatra he proclaims: 'This is the Lord!'",
+  "period": "P14",
+  "order": 6,
+  "cc": "Мадхья 12–14 (ср.)",
+  "cb": "",
+  "themes": [
+   "festival",
+   "ecstasy",
+   "mercy"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 7.93–113): после войны царь ищет утешения у Баларамы Даса и Прабху; видя танец Прабху перед колесницей (Расараджа, махабхава), говорит: «Это не человек — это воочию бхава Радхи» и провозглашает Чайтанью Прабху перед народом.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0147"
   ],
   "sources": [
    "vaishnava-lilamrita"

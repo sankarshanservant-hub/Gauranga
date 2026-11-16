@@ -196922,6 +196922,73 @@
   "attestation": 6
  },
  {
+  "id": "vlm-0146",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 7, 31–92",
+  "file": "vaishnava-lilamrita/ru/07.md",
+  "period": "P14",
+  "order": 5,
+  "title": "Война с Кришнадевой Раей: голод, падение Кондавиду, гибель Вирабхадры, мир",
+  "summary": "Кришнадева Рая теснит Гаджапати; паводки и засухи губят урожай, Панчасакха с киртаном ходят по деревням; Кондавиду обороняют Бхадрадева и Дживадева, через месяц осады крепость пала, Дживадеву зарубили, Бхадрадеву взяли в плен; Кришнарай велит ему биться с простым воином, и царевич, не стерпев унижения, закалывается; Кришнарай оплакивает его; ради выкупа царицы Чампадеви Гаджапати отдаёт в жёны Кришнараю дочь Джагамохини и земли к югу от Кришны и возвращается в Кшетру.",
+  "persons": [
+   "@prataparudra",
+   "@krishnadeva-raya",
+   "@virabhadra-gajapati",
+   "@jivadeva",
+   "@jagamohini",
+   "@balarama-dasa-odia",
+   "@jagannatha-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia"
+  ],
+  "places": [
+   "#kondavidu",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Господь в эпизоде не участвует; исторический фон (Кондавиду пал ≈1515).",
+  "themes": [
+   "jagannatha",
+   "kirtan"
+  ],
+  "divergence": "В ЧЧ/ЧБ не описано.",
+  "event": "ev-kondavidu-fall-virabhadra",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.31",
+    "to": "7.92"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.31",
+    "to": "7.92",
+    "line": 42,
+    "line_to": 111,
+    "count": 62,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/07.md?plain=1#L42-L111",
+    "file_en": "vaishnava-lilamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L42-L111"
+   }
+  ],
+  "years": [
+   1515,
+   1516
+  ],
+  "date_conf": "оценка",
+  "date_basis": "падение Кондавиду ≈1515 (исторические данные)",
+  "age": [
+   29,
+   30
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-0299",
   "source": "cc",
   "ref": "Мадхья 1.48–50",
@@ -197624,6 +197691,78 @@
    47
   ],
   "attestation": 5
+ },
+ {
+  "id": "vlm-0147",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 7, 93–113",
+  "file": "vaishnava-lilamrita/ru/07.md",
+  "period": "P14",
+  "order": 6,
+  "title": "Царь у Панчасакхи и Прабху; танец перед колесницей: «Это — Прабху!»",
+  "summary": "Скорбящий царь призывает Балараму Даса и Прабху, просит имени и наставления, слушает киртан; на Ратха-ятре Чайтанья танцует перед колесницей среди Панчасакхи — то вырастая, то сжимаясь, со всеми чертами бхавы Радхи; царь говорит: «Это не человек — это воочию бхава Радхи», Рамананда подтверждает, и царь провозглашает Чайтанью Прабху перед народом.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@balarama-dasa-odia",
+   "@jagannatha-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 13–14",
+  "notes": "Расараджа-махабхава — ср. ЧЧ Мадхья 8, Ади 4 (сноски).",
+  "themes": [
+   "festival",
+   "ecstasy",
+   "mercy"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "divergence": "В ЧЧ — семь бенгальских групп киртана; всенародного провозглашения нет.",
+  "event": "ev-prataparudra-proclaims-chaitanya-prabhu",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.93",
+    "to": "7.113"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.93",
+    "to": "7.113",
+    "line": 116,
+    "line_to": 136,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/07.md?plain=1#L116-L136",
+    "file_en": "vaishnava-lilamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L116-L136"
+   }
+  ],
+  "cc": "Мадхья 12–14 (ср.)",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "gst-0005",
@@ -203428,6 +203567,71 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0143",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, «Восемь шлок Свами» (Sh1–Sh8e)",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 20.5,
+  "title": "«Восемь шлок» (Шикшаштака) с орийским переложением; конец главы 6",
+  "summary": "Мадхава приводит восемь санскритских шлок «Шикшаштаки» — «чето-дарпана-марджанам», «намнам акари», «тринад апи суничена», «на дханам», «айи нанда-тануджа», «найанам галад-ашру», «югайитам нимешена», «ашлишйа ва» — каждую с орийскими двустишиями-переложением; по Мадхаве, их сложил Свами, описав в них бхаву Радхи.",
+  "persons": [
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 20; «Падьявали»",
+  "notes": "Атрибуция Джаганнатхе Дасу — орийское предание; гаудия-вайшнавы (Бхактисиддханта) признают «Шикшаштаку» сочинением Самого Махапрабху (сноски перевода). Метки шлок — 6.Sh1…6.Sh8e.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name",
+   "prema"
+  ],
+  "scriptures": [
+   "Шикшаштака"
+  ],
+  "divergence": "Атрибуция: у Мадхавы — Джаганнатха Дас.",
+  "event": "ev-shikshashtaka-recitation",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.Sh1",
+    "to": "6.Sh8e"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.Sh1",
+    "to": "6.Sh8e",
+    "line": 114,
+    "line_to": 157,
+    "count": 40,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L114-L157",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L114-L157"
+   }
+  ],
+  "cc": "Антья 20",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 4
+ },
+ {
   "id": "cc-4019",
   "source": "cc",
   "ref": "Антья 2.36–78",
@@ -203495,6 +203699,131 @@
    47
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0142",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 6, 86–93",
+  "file": "vaishnava-lilamrita/ru/06.md",
+  "period": "P14",
+  "order": 21,
+  "title": "Побоище на Говардхане; слово Прабху о «битых»",
+  "summary": "На Говардхане слуги Валлабхи бьют гаудиев, иные гибнут, иные остаются при Рупе; к Ратха-ятре Канхаи приносит весть, и, по Мадхаве, Прабху говорит: «Хорошо вышло: кто по нраву „битый“, тот и будет бит».",
+  "persons": [
+   "@mahaprabhu",
+   "@kanhai-odia",
+   "@rupa-gosvami",
+   "@vallabha-bhatta"
+  ],
+  "places": [
+   "#govardhana",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Понижено до D: полемическое орийское предание; слова, приписанные Господу, противоречат Его отношению к преданным Гауды в ЧЧ (сноски перевода).",
+  "themes": [
+   "offense"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-gaudiyas-govardhana-clash",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.86",
+    "to": "6.93"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/06.md",
+    "from": "6.86",
+    "to": "6.93",
+    "line": 103,
+    "line_to": 110,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/06.md?plain=1#L103-L110",
+    "file_en": "vaishnava-lilamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/06.md?plain=1#L103-L110"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0144",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 7, 1–18",
+  "file": "vaishnava-lilamrita/ru/07.md",
+  "period": "P14",
+  "order": 22,
+  "title": "Свами принимает мантру от Баларамы Даса; гнев Каши Мишры",
+  "summary": "Свами решает принять мантру и поклоняться Кришне путём раги; Прабху посылает его к Балараме Дасу: «Кроме него, нет иного гуру»; Каши Мишра гневается, что брахман берёт мантру у шудры; Свами отвечает: «Шудра или брахман — все равны; драгоценность и в низком месте взять — дхарма»; Сарвабхаума и Лакшмидхара вразумляют Каши Мишру.",
+  "persons": [
+   "@jagannatha-dasa-odia",
+   "@balarama-dasa-odia",
+   "@mahaprabhu",
+   "@kashi-mishra",
+   "@sarvabhauma",
+   "@lakshmidhara-puri"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Ср. ЧЧ Мадхья 8.128 (гуру — знающий науку о Кришне); об отношении рагануги к шастрам — сноски перевода.",
+  "themes": [
+   "teaching",
+   "offense"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет.",
+  "event": "ev-svami-initiated-by-balarama-dasa",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.1",
+    "to": "7.18"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.1",
+    "to": "7.18",
+    "line": 8,
+    "line_to": 25,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/07.md?plain=1#L8-L25",
+    "file_en": "vaishnava-lilamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L8-L25"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "cc-0169",
@@ -203618,6 +203947,74 @@
    47
   ],
   "attestation": 1
+ },
+ {
+  "id": "vlm-0145",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 7, 19–30",
+  "file": "vaishnava-lilamrita/ru/07.md",
+  "period": "P14",
+  "order": 23,
+  "title": "Камень с Говардханы для Рагхунатхи Даса; недовольство брахманов; Панчасакха и путь раги",
+  "summary": "Прабху дарит Рагхунатхе Дасу камень с Говардханы: «Это шалаграма, не считай его обычным»; Сарвабхаума и Лакшмидхара в досаде, Каши Мишра гневается, что шудра получил право поклоняться шалаграме; Панчасакха с Прабху ежедневно вкушают расу, упиваются санкиртаной, оставив путь вайдхи, и созерцают бхаву гопи.",
+  "persons": [
+   "@mahaprabhu",
+   "@raghunatha-dasa",
+   "@sarvabhauma",
+   "@lakshmidhara-puri",
+   "@kashi-mishra",
+   "@balarama-dasa-odia",
+   "@jagannatha-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia"
+  ],
+  "places": [
+   "#puri",
+   "#govardhana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 6",
+  "notes": "Рагануга у гаудия-вайшнавов не отменяет шастр (ЧЧ Мадхья 22; БРС 1.2.101; сноски).",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "cc": "Антья 6",
+  "divergence": "В ЧЧ — говардхана-шила и гунджа-мала, поклонение водой и туласи; недовольства брахманов нет; Мадхава называет камень «шалаграмой», а Рагхунатху — «шудрой».",
+  "event": "ev-govardhana-shila-gunja-gift",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.19",
+    "to": "7.30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.19",
+    "to": "7.30",
+    "line": 30,
+    "line_to": 41,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/07.md?plain=1#L30-L41",
+    "file_en": "vaishnava-lilamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L30-L41"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 4
  },
  {
   "id": "cc-4021",
@@ -205425,7 +205822,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "gkd-0160",
@@ -205483,7 +205880,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "gst-0014",
@@ -205542,7 +205939,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "gst-0015",
@@ -205599,7 +205996,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "cc-4074",
@@ -213528,7 +213925,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-0046",
@@ -213594,7 +213991,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-0185",
@@ -213662,7 +214059,7 @@
    36,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1002",
@@ -213721,7 +214118,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4063",
@@ -213783,7 +214180,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4131",
@@ -213851,7 +214248,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0252",
@@ -213925,7 +214322,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "nvv-0003",
@@ -213991,7 +214388,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-0304",
@@ -214054,7 +214451,7 @@
    36,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1003",
@@ -214116,7 +214513,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4091",
@@ -214175,7 +214572,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gst-0006",
@@ -214235,7 +214632,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0032",
@@ -214301,7 +214698,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0170",
@@ -214366,7 +214763,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1004",
@@ -214426,7 +214823,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4108",
@@ -214484,7 +214881,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gst-0020",
@@ -214539,7 +214936,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0033",
@@ -214603,7 +215000,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0171",
@@ -214667,7 +215064,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1005",
@@ -214731,7 +215128,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4114",
@@ -214790,7 +215187,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0034",
@@ -214855,7 +215252,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1006",
@@ -214919,7 +215316,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4132",
@@ -215106,7 +215503,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4133",
@@ -215292,7 +215689,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1007",
@@ -215597,7 +215994,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0138",
@@ -215657,7 +216054,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-1008",
@@ -215719,7 +216116,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4136",
@@ -215975,7 +216372,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0274",
@@ -216040,7 +216437,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0324",
@@ -216103,7 +216500,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0325",
@@ -216166,7 +216563,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0326",
@@ -216228,7 +216625,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4141",
@@ -216361,7 +216758,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4147",
@@ -216547,7 +216944,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4148",
@@ -216683,7 +217080,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4151",
@@ -216927,7 +217324,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4152",
@@ -217061,7 +217458,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4163",
@@ -217308,7 +217705,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4164",
@@ -217501,7 +217898,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0055",
@@ -217565,7 +217962,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0056",
@@ -217626,7 +218023,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0258",
@@ -217691,7 +218088,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0057",
@@ -217754,7 +218151,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0058",
@@ -217818,7 +218215,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gkd-0177",
@@ -217944,7 +218341,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-4156",
@@ -218581,7 +218978,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "gkd-0184",
@@ -218640,7 +219037,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "gst-0026",
@@ -218709,7 +219106,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "jcm-0101",
@@ -218913,7 +219310,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "cb-3097",
@@ -219941,6 +220338,66 @@
    47
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0148",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 7, 114–125 (продолжается)",
+  "file": "vaishnava-lilamrita/ru/07.md",
+  "period": "P14",
+  "order": 900,
+  "title": "Махабхава Прабху: Гамбхира, разлука, море, туча, Тота-Гопинатха",
+  "summary": "Прабху пребывает в махабхаве в Гамбхире: встаёт, садится, катается по земле с криком «О Кришна!», оставляет счёт имён на поясном шнуре, бежит в храм искать Кришну, к морю — увидеть Его облик, теряет себя при виде тучи; бывает у Тота-Гопинатхи и в Кунджа-матхе.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 14–20",
+  "notes": "",
+  "themes": [
+   "ecstasy",
+   "separation"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "cc": "Антья 14–20",
+  "event": "ev-gambhira-divine-madness",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.114",
+    "to": "7.125"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.114",
+    "to": "7.125",
+    "line": 137,
+    "line_to": 148,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/07.md?plain=1#L137-L148",
+    "file_en": "vaishnava-lilamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L137-L148"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 7
  },
  {
   "id": "krn-0002",
