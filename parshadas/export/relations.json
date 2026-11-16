@@ -16120,6 +16120,331 @@
   "note": "Оба из Тирхута (T 100)."
  },
  {
+  "from": "@parameshvara-dasa",
+  "type": "guru",
+  "who": "@nityananda",
+  "facts": [
+   "F3",
+   "F6",
+   "F7",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F27",
+   "I3",
+   "I4"
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru",
+   "ev-nityananda-sent-to-gauda",
+   "ev-nityananda-preaching-gauda",
+   "ev-associates-of-nityananda-wonders"
+  ],
+  "note": "Ветвь древа Нитьянанды, «единственное прибежище — Нитьянанда» (ЧЧ Ади 11.29); «Нитьянанда — его жизнь, в его теле — игры Нитьянанды» (ЧБ Антья 5.732); один из двенадцати гопалов; шёл с Ним в Гауду (ЧБ Антья 5.231–240). Дикша не названа — «гуру» в смысле Господина-прибежища. = @nityananda F262, F267, F403."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F19",
+   "F20"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages"
+  ],
+  "note": "В Панихати прибежал к Господу и заплакал, увидев Его (ЧБ Антья 5.95–96); в его Божестве Гауранги проявился Махапрабху («Гаудия-бхашья»)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "deity-served",
+  "who": "@gaura-deity-antpur",
+  "facts": [
+   "F20"
+  ],
+  "note": "Божество Гауранги в (Тада-)Атпуре — по «Гаудия-бхашье» к ЧБ Антья 5.95–96; B 919, T 89 (⚠1)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "deity-served",
+  "who": "@radha-gopinatha-antpur",
+  "facts": [
+   "F18",
+   "F48",
+   "F49"
+  ],
+  "note": "Установил в Атпуре по велению Джахнавы (БР 13.245–246); ныне на одном троне с Баладевой (суждение Бхактисиддханты — противно таттве, F18)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "served-by",
+  "who": "@jahnava",
+  "facts": [
+   "F31",
+   "F32",
+   "F34",
+   "F35",
+   "F37",
+   "F38",
+   "F41",
+   "F42",
+   "F43",
+   "F44",
+   "F47",
+   "F48"
+  ],
+  "events": [
+   "ev-srinivasa-khardaha-jahnava",
+   "ev-jahnava-kheturi",
+   "ev-kheturi-festival",
+   "ev-jahnava-vrindavana",
+   "ev-jahnava-radha-for-madana-mohana"
+  ],
+  "note": "Её «очень дорогой слуга» (B 921): готовил путь в Кхетури (НВ 6.193), шёл с ней в Кхетури и Вриндаван, представлял ей Госвами (БР 11.101–106), вёз во Вриндаван изваяние Радхи для Гопинатхи (БР 13), по её велению явил служение Радха-Гопинатхе в Атпуре. Тип: Джахнава — та, кому он служил. = @jahnava F38, F44, F45, F51, F52, F72, F99, F100, F104."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@vasudha",
+  "facts": [
+   "F31",
+   "F32",
+   "F48"
+  ],
+  "note": "При Васудхе и Джахнаве в Кхардахе; им рассказал о Радхе у Гопинатхи (БР 13.242–243; T 200)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F32"
+  ],
+  "note": "M 190: привёл Шринивасу и к Вирачандре."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F32",
+   "F45",
+   "F46"
+  ],
+  "events": [
+   "ev-srinivasa-khardaha-jahnava"
+  ],
+  "note": "Узнал его в Кхардахе и отвёл к Джахнаве (БР 4.82–87); в Катве показал ему изваяние Радхи (БР 13.82–121); в Яджиграме рассказал о её установке (БР 13.223–239)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F33",
+   "F45"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ],
+  "note": "В Кхардахе указал ему путь в Нилачалу (БР 8.219; B 921 по скану; T 89); в Катве: «Пойте, о Нароттама, Шриниваса!» (БР 13.113)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@govinda-kaviraja",
+  "facts": [
+   "F39",
+   "F40"
+  ],
+  "note": "Представил Говинду Госвами Вриндавана и попросил их послушать его стихи — так тот получил имя «Кавираджа» (БР 11.114, 11.145–147)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "met",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F38"
+  ],
+  "events": [
+   "ev-jahnava-vrindavana"
+  ],
+  "note": "Назвал Джахнаве Госвами Вриндавана: Гопала Бхатта, Бхугарбха, Локанатха, Кришнадас Брахмачари, Кришна Пандит, Мадху Пандит, Джива (БР 11.104–105; НВ 9.16)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "met",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F38"
+  ],
+  "note": "Там же (M 68 ошибочно приписывает называние имён Дживе, ⚠8). = @jiva-gosvami F78."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@gopinatha-vrindavana",
+  "facts": [
+   "F43",
+   "F44",
+   "F45",
+   "F46",
+   "F47"
+  ],
+  "events": [
+   "ev-jahnava-gopinatha"
+  ],
+  "note": "Привёз Ему изваяние Радхи от Джахнавы; Радху поставили слева от Гопинатхи (БР 13.229–232; НВ 9.84). B — для Говиндадевы, «Према-виласа» — для Мадана-мохана (⚠5)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "co-worker",
+  "who": "@purandara-pandita",
+  "facts": [
+   "F19",
+   "F21"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages"
+  ],
+  "note": "Вдвоём прибежали к Господу в Панихати (ЧБ Антья 5.95–96); вместе шли с Нитьянандой."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "co-worker",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F21"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda"
+  ],
+  "note": "= @gadadhara-dasa F13, F16."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "co-worker",
+  "who": "@abhirama",
+  "facts": [
+   "F21"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda"
+  ],
+  "note": "Рамадас — в той же свите Нитьянанды (ЧБ Антья 5.231)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "co-worker",
+  "who": "@raghunatha-vaidya-upadhyaya",
+  "facts": [
+   "F19",
+   "F21"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda"
+  ]
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "co-worker",
+  "who": "@sundarananda",
+  "facts": [
+   "F25"
+  ],
+  "note": "Джаянанда: с Нитьянандой, Рамадасом и Сундаранандой (= @sundarananda F31)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages"
+  ],
+  "note": "Пришёл к Господу в дом Рагхавы в Панихати (= @raghava-pandita F23)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F26"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi"
+  ],
+  "note": "Гость праздника чида-дадхи (ЧЧ Антья 6.62)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@mahesha-pandita",
+  "facts": [
+   "F26",
+   "F33"
+  ],
+  "note": "Вместе на празднике в Панихати (ЧЧ Антья 6.62) и при прощании с Нароттамой в Кхардахе (БР 8.219–220). = @mahesha-pandita F28."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@kamalakara-pippalai",
+  "facts": [
+   "F30"
+  ],
+  "note": "В его шрипате в Акна-Махеше — чудо с шакалом (B 921; T 89)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F41"
+  ],
+  "note": "В Яджиграме рассказал ему о путешествии Ишвари; в Шрикханде получил от него припасы (БР 11.704–705, 11.747)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@santosha-datta",
+  "facts": [
+   "F41"
+  ],
+  "note": "Дары раджи для Ишвари вручены ему (БР 11.367; НВ 9.159)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F51"
+  ],
+  "events": [
+   "ev-kirtan-festival-advaita-house"
+  ],
+  "note": "Его пада о празднике киртана в доме Адвайты (ПК 23; M 219)."
+ },
+ {
+  "from": "@parameshvara-dasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F9",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F20",
+   "F24"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 11.29 — источник описания шрипата; «Гаудия-бхашья» к ЧБ Антья 5.95–96 и 5.240 — Божество Гауранги и гопала-бхава."
+ },
+ {
   "from": "@prabodhananda-sarasvati",
   "type": "guest",
   "who": "@mahaprabhu",

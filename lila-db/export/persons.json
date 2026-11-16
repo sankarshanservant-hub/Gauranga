@@ -4358,6 +4358,10 @@
     "type": "companion"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "guest"
    },
@@ -6684,6 +6688,10 @@
    {
     "from": "@jahnava",
     "type": "deity-served"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "other"
    }
   ]
  },
@@ -11270,6 +11278,10 @@
     "type": "companion"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "guru"
+   },
+   {
     "from": "@raghava-pandita",
     "type": "served-by"
    },
@@ -12678,6 +12690,10 @@
    },
    {
     "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@parameshvara-dasa",
     "type": "other"
    },
    {
@@ -14132,6 +14148,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "co-worker"
    },
    {
     "from": "@raghava-pandita",
@@ -24206,6 +24226,10 @@
     "type": "disciple"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -24891,6 +24915,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "co-worker"
    },
    {
     "from": "@raghunandana",
@@ -29743,6 +29771,10 @@
     "type": "other"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "met"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "disciple"
    },
@@ -30726,6 +30758,10 @@
    {
     "from": "@nityananda",
     "type": "host"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "other"
    },
    {
     "from": "@raghunatha-dasa",
@@ -33074,6 +33110,10 @@
     "type": "other"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@raghava-pandita",
     "type": "served-by"
    },
@@ -33362,6 +33402,10 @@
     "type": "companion"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "co-worker"
+   },
+   {
     "from": "@shridhara",
     "type": "companion"
    }
@@ -33410,6 +33454,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "co-worker"
    },
    {
     "from": "@raghava-pandita",
@@ -34373,6 +34421,10 @@
     "type": "son"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -34913,6 +34965,10 @@
     "type": "spouse"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "served-by"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -35022,6 +35078,10 @@
    {
     "from": "@nityananda",
     "type": "spouse"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "other"
    },
    {
     "from": "@shachi",
@@ -37100,6 +37160,10 @@
     "type": "other"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "met"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
@@ -38589,6 +38653,10 @@
     "type": "met"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "met"
+   },
+   {
     "from": "@raghunandana",
     "type": "protege"
    },
@@ -39619,6 +39687,10 @@
     "type": "other"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "met"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -40353,6 +40425,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@parameshvara-dasa",
     "type": "other"
    },
    {
@@ -43612,6 +43688,204 @@
    "ev-jahnava-kheturi",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Арджуна, друг Кришны во Врадже (ГГД 132); гуру — Нитьянанда; уход — Мадхусудана, пурнима; самадхи — Антпур (Атпур)",
+  "card": "parshadas/cards/parameshvara-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/parameshvara-dasa.md",
+   "en": "parshadas/en/parameshvara-dasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F53"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Мадхусудана (≈ вайшакха), пурнима",
+    "place": "",
+    "conf": "вайшакхи-пурнима — B 921, T 90, «Анубхашья» к ЧЧ Ади 11.29 согласны; по календарю ШЧСМ (541/ru, проверено 2026-11-16) — «День ухода Шрилы Парамешвари даса Тхакура», пурнима месяца Мадхусудана (1 мая 2026 г.), в один день с явлением Шринивасы Ачарьи; год и место ухода не названы",
+    "facts": [
+     "F53"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#antpur",
+     "facts": [
+      "F11",
+      "F54"
+     ],
+     "note": "перед храмом шрипата, между двумя бакулами и кадамбой, с туласи-мачей (по «Анубхашье»; B, T)"
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "пада «একদিন পহুঁ হাসি অদ্বৈত-মন্দিরে আসি» (ПК 23; ГПТ-1934, с. 246, № 26) — праздник киртана у Адвайты",
+    "facts": [
+     "F51"
+    ]
+   },
+   {
+    "title": "пада «প্রভুর আদেশ পাঞা ভকত সকল» (ГПТ-1934, с. 247, № 27) — семь групп киртана",
+    "facts": [
+     "F52"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Арджуна, друг (сакха) Кришны во Врадже; один из двенадцати гопалов Нитьянанды",
+    "source": "ГГД 132",
+    "level": "A",
+    "variants": [
+     "«Первая вандана» (ч. 4, ст. 34) — Субаху (против ГГД 129–132, ⚠11)",
+     "B 115 — пятый, B 271 — седьмой в перечне гопалов"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@nityananda",
+    "note": "Ветвь древа Нитьянанды, «единственное прибежище — Нитьянанда» (ЧЧ Ади 11.29); «Нитьянанда — его жизнь, в его теле — игры Нитьянанды» (ЧБ Антья 5.732); один из двенадцати гопалов; шёл с Ним в Гауду (ЧБ Антья 5.231–240). Дикша не названа — «гуру» в смысле Господина-прибежища. = @nityananda F262, F267, F403."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "В Панихати прибежал к Господу и заплакал, увидев Его (ЧБ Антья 5.95–96); в его Божестве Гауранги проявился Махапрабху («Гаудия-бхашья»)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-deity-antpur",
+    "note": "Божество Гауранги в (Тада-)Атпуре — по «Гаудия-бхашье» к ЧБ Антья 5.95–96; B 919, T 89 (⚠1)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-gopinatha-antpur",
+    "note": "Установил в Атпуре по велению Джахнавы (БР 13.245–246); ныне на одном троне с Баладевой (суждение Бхактисиддханты — противно таттве, F18)."
+   },
+   {
+    "type": "served-by",
+    "who": "@jahnava",
+    "note": "Её «очень дорогой слуга» (B 921): готовил путь в Кхетури (НВ 6.193), шёл с ней в Кхетури и Вриндаван, представлял ей Госвами (БР 11.101–106), вёз во Вриндаван изваяние Радхи для Гопинатхи (БР 13), по её велению явил служение Радха-Гопинатхе в Атпуре. Тип: Джахнава — та, кому он служил. = @jahnava F38, F44, F45, F51, F52, F72, F99, F100, F104."
+   },
+   {
+    "type": "other",
+    "who": "@vasudha",
+    "note": "При Васудхе и Джахнаве в Кхардахе; им рассказал о Радхе у Гопинатхи (БР 13.242–243; T 200)."
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "note": "M 190: привёл Шринивасу и к Вирачандре."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Узнал его в Кхардахе и отвёл к Джахнаве (БР 4.82–87); в Катве показал ему изваяние Радхи (БР 13.82–121); в Яджиграме рассказал о её установке (БР 13.223–239)."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "В Кхардахе указал ему путь в Нилачалу (БР 8.219; B 921 по скану; T 89); в Катве: «Пойте, о Нароттама, Шриниваса!» (БР 13.113)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-kaviraja",
+    "note": "Представил Говинду Госвами Вриндавана и попросил их послушать его стихи — так тот получил имя «Кавираджа» (БР 11.114, 11.145–147)."
+   },
+   {
+    "type": "met",
+    "who": "@gopala-bhatta",
+    "note": "Назвал Джахнаве Госвами Вриндавана: Гопала Бхатта, Бхугарбха, Локанатха, Кришнадас Брахмачари, Кришна Пандит, Мадху Пандит, Джива (БР 11.104–105; НВ 9.16)."
+   },
+   {
+    "type": "met",
+    "who": "@jiva-gosvami",
+    "note": "Там же (M 68 ошибочно приписывает называние имён Дживе, ⚠8). = @jiva-gosvami F78."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-vrindavana",
+    "note": "Привёз Ему изваяние Радхи от Джахнавы; Радху поставили слева от Гопинатхи (БР 13.229–232; НВ 9.84). B — для Говиндадевы, «Према-виласа» — для Мадана-мохана (⚠5)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@purandara-pandita",
+    "note": "Вдвоём прибежали к Господу в Панихати (ЧБ Антья 5.95–96); вместе шли с Нитьянандой."
+   },
+   {
+    "type": "co-worker",
+    "who": "@gadadhara-dasa",
+    "note": "= @gadadhara-dasa F13, F16."
+   },
+   {
+    "type": "co-worker",
+    "who": "@abhirama",
+    "note": "Рамадас — в той же свите Нитьянанды (ЧБ Антья 5.231)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@raghunatha-vaidya-upadhyaya"
+   },
+   {
+    "type": "co-worker",
+    "who": "@sundarananda",
+    "note": "Джаянанда: с Нитьянандой, Рамадасом и Сундаранандой (= @sundarananda F31)."
+   },
+   {
+    "type": "other",
+    "who": "@raghava-pandita",
+    "note": "Пришёл к Господу в дом Рагхавы в Панихати (= @raghava-pandita F23)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Гость праздника чида-дадхи (ЧЧ Антья 6.62)."
+   },
+   {
+    "type": "other",
+    "who": "@mahesha-pandita",
+    "note": "Вместе на празднике в Панихати (ЧЧ Антья 6.62) и при прощании с Нароттамой в Кхардахе (БР 8.219–220). = @mahesha-pandita F28."
+   },
+   {
+    "type": "other",
+    "who": "@kamalakara-pippalai",
+    "note": "В его шрипате в Акна-Махеше — чудо с шакалом (B 921; T 89)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "В Яджиграме рассказал ему о путешествии Ишвари; в Шрикханде получил от него припасы (БР 11.704–705, 11.747)."
+   },
+   {
+    "type": "other",
+    "who": "@santosha-datta",
+    "note": "Дары раджи для Ишвари вручены ему (БР 11.367; НВ 9.159)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Его пада о празднике киртана в доме Адвайты (ПК 23; M 219)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 11.29 — источник описания шрипата; «Гаудия-бхашья» к ЧБ Антья 5.95–96 и 5.240 — Божество Гауранги и гопала-бхава."
+   }
+  ],
   "related_by": [
    {
     "from": "@abhirama",
@@ -45143,6 +45417,10 @@
    },
    {
     "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@parameshvara-dasa",
     "type": "other"
    },
    {
@@ -49121,6 +49399,10 @@
     "type": "host"
    },
    {
+    "from": "@parameshvara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    }
@@ -49281,6 +49563,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "other"
    }
   ]
  },
@@ -50451,6 +50737,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "other"
    }
   ]
  },
@@ -53242,6 +53532,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@parameshvara-dasa",
+    "type": "co-worker"
    },
    {
     "from": "@raghava-pandita",
@@ -59160,6 +59454,36 @@
    {
     "from": "@abhirama",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@radha-gopinatha-antpur",
+  "ru": "Радха-Гопинатха — Божества Парамешвари даса (Атпур)",
+  "en": "Radha-Gopinatha, the Deities of Parameshvari Dasa (Atpur)",
+  "note": "установил @parameshvara-dasa по велению @jahnava (БР 13.245–246; B 920; T 89, 200); ныне на одном троне с Баладевой («Анубхашья» к ЧЧ Ади 11.29; B 918)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@parameshvara-dasa",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@gaura-deity-antpur",
+  "ru": "Божество Гауранги, которому служил Парамешвари дас (Атпур)",
+  "en": "the Deity of Gauranga served by Parameshvari Dasa (Atpur)",
+  "note": "по «Гаудия-бхашье» к ЧБ Антья 5.95–96 в Нём проявился Махапрабху (B 919; T 89)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@parameshvara-dasa",
+    "type": "deity-served"
    }
   ]
  }
