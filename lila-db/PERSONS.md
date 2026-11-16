@@ -787,3 +787,5 @@
 | @bhanudeva-odisha | Пратапа Бханудева | Pratapa Bhanudeva | царь Ориссы (Бханудева III?, XIV в.); почтил Шридхару Свами («Вайшнава-лиламрита» 2.100) |
 | @kapilendra | Капилешвара-дева (Капилендра) | Kapileshvara-deva (Kapilendra) | царь Ориссы (≈1435–1467), отец @purushottama-deva |
 | @saluva-narasimha | Салува Нарасимха | Saluva Narasimha | правитель Виджаянагара (Канчи); противник @purushottama-deva в предании о походе на Канчи |
+| @divakara-kavichandra | Дивакара (Кавичандра Рай) | Divakara (Kavichandra Raya) | брахман-учёный при Пурушоттама-деве, сложил «Абхинава Гита-говинду» с подписью царя («Вайшнава-лиламрита» 3.4–40); не путать с @kavichandra (спутником Господа, ГГД 171) |
+| @gopinatha-remuna | Гопинатха Кширачора (Божество в Ремуне) | Kshirachora Gopinatha (Deity of Remuna) | «Вор кширы»; у Мадхавы — также «Гопала» (3.50–75); не путать с @gopala-remuna |

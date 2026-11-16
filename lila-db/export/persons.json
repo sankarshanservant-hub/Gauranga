@@ -6139,6 +6139,7 @@
    "vlm-0108",
    "vlm-0110",
    "vlm-0111",
+   "vlm-0112",
    "apr-0011",
    "cc-1039",
    "apr-0019",
@@ -6346,6 +6347,7 @@
    "ev-gita-govinda-seva-puri",
    "ev-meghanada-wall",
    "ev-purushottama-chhera-panhara-kanchi",
+   "ev-two-gita-govindas-test",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
@@ -18725,6 +18727,7 @@
   "note": "гуру Господа",
   "section": "Спутники",
   "lilas": [
+   "vlm-0113",
    "cc-0038",
    "cc-0187",
    "jcm-0014",
@@ -18780,6 +18783,7 @@
    "cc-0102"
   ],
   "events": [
+   "ev-madhavendra-kshira-chora",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
    "ev-nityananda-leaves-home",
@@ -19046,6 +19050,7 @@
    "gkd-0065",
    "pvl-0213",
    "pvl-0248",
+   "vlm-0113",
    "cc-1031",
    "apr-0028",
    "cc-0038",
@@ -21167,6 +21172,7 @@
   "section": "Спутники",
   "lilas": [
    "lcm-0015",
+   "vlm-0112",
    "gkd-0005",
    "jcm-0016",
    "ccd-0052",
@@ -21283,6 +21289,7 @@
   ],
   "events": [
    "ev-narada-kailasa-message",
+   "ev-two-gita-govindas-test",
    "ev-associates-descend",
    "ev-gauda-king-persecutes-navadvipa",
    "ev-departure-for-south",
@@ -42185,8 +42192,12 @@
   "en": "Raghavendra Puri",
   "note": "ученик Мадхавендры Пури, гуру Рамананды Рая по «Бхаджана-нирнае»; не путать с @raghavendra-raya",
   "section": "Спутники",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "vlm-0113"
+  ],
+  "events": [
+   "ev-madhavendra-kshira-chora"
+  ],
   "related_by": [
    {
     "from": "@madhavendra-puri",
@@ -49779,6 +49790,7 @@
   "lilas": [
    "vlm-0107",
    "vlm-0108",
+   "vlm-0112",
    "cc-0238",
    "cc-1075",
    "cc-2010",
@@ -49790,6 +49802,7 @@
   "events": [
    "ev-jayadeva-in-puri",
    "ev-gita-govinda-seva-puri",
+   "ev-two-gita-govindas-test",
    "ev-keshava-kashmiri-defeat",
    "ev-ramananda-raya-godavari",
    "ev-svarupa-paramananda-arrive",
@@ -50895,10 +50908,12 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0111",
+   "vlm-0112",
    "cc-1039"
   ],
   "events": [
    "ev-purushottama-chhera-panhara-kanchi",
+   "ev-two-gita-govindas-test",
    "ev-sakshi-gopala-two-brahmins"
   ],
   "related_by": [
@@ -55403,9 +55418,12 @@
   "note": "«великий воитель» в перечне почитаемых вайшнавов Пури («Вайшнава-лиламрита» 1.77); кто это — не выяснено",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0112",
    "vlm-0104"
   ],
-  "events": []
+  "events": [
+   "ev-two-gita-govindas-test"
+  ]
  },
  {
   "id": "@kanhai-odia",
@@ -55511,6 +55529,32 @@
   ],
   "events": [
    "ev-purushottama-chhera-panhara-kanchi"
+  ]
+ },
+ {
+  "id": "@divakara-kavichandra",
+  "ru": "Дивакара (Кавичандра Рай)",
+  "en": "Divakara (Kavichandra Raya)",
+  "note": "брахман-учёный при Пурушоттама-деве, сложил «Абхинава Гита-говинду» с подписью царя («Вайшнава-лиламрита» 3.4–40); не путать с @kavichandra (спутником Господа, ГГД 171)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0112"
+  ],
+  "events": [
+   "ev-two-gita-govindas-test"
+  ]
+ },
+ {
+  "id": "@gopinatha-remuna",
+  "ru": "Гопинатха Кширачора (Божество в Ремуне)",
+  "en": "Kshirachora Gopinatha (Deity of Remuna)",
+  "note": "«Вор кширы»; у Мадхавы — также «Гопала» (3.50–75); не путать с @gopala-remuna",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0113"
+  ],
+  "events": [
+   "ev-madhavendra-kshira-chora"
   ]
  }
 ]

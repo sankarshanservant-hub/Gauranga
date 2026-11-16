@@ -166,6 +166,10 @@
 
 - vaishnava-lilamrita (C): Гл. 2, 112–131 — [2.112–2.131](../vaishnava-lilamrita/ru/02.md?plain=1#L129-L148) · `vlm-0111`
 
+## Две «Гита-говинды» перед Джаганнатхой и указ царя / The two Gita-govindas before Jagannatha and the king's edict  `ev-two-gita-govindas-test`
+
+- vaishnava-lilamrita (C): Гл. 3, 1–46 — [3.1–3.46](../vaishnava-lilamrita/ru/03.md?plain=1#L6-L55) · `vlm-0112`
+
 ## Кубера Ачарья и Лабха: зачатие Адвайты / Kubera Acharya and Labha: the conception of Advaita  `ev-advaita-parents-conception`
 
 - advaita-prakasha (D): Гл. 1, 16–53 — [16. Лабха-деви–53. Прасадом В](../advaita-prakash/01.md?plain=1#L20-L57) · `apr-0002`
@@ -274,6 +278,7 @@
 - gaura-krishnodaya (B): Сарга 7, 18–35 — [18–35](../gaura-krishnodaya/ru/07.md?plain=1#L43-L79) · `gkd-0065`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (817–819) — [817–819](../prema-vilasa/ru/25.md?plain=1#L2523-L2529) · `pvl-0213`
 - prema-vilasa (C): Виласа 24, 170–175 — [170–175](../prema-vilasa/ru/24.md?plain=1#L512-L527) · `pvl-0248`
+- vaishnava-lilamrita (C): Гл. 3, 47–77 (продолжается) — [3.47–3.77](../vaishnava-lilamrita/ru/03.md?plain=1#L56-L86) · `vlm-0113`
 - cc (A): Мадхья 4.143–169 — [143–169](../chaitanya-charitamrita/ed/vcd/CC_Madhya04.md?plain=1#L1150-L1358) · `cc-1031`
 
 ## Имя «Адвайта»: победа над дигвиджайи Шьямадасой / The name 'Advaita': victory over the digvijayi Shyamadasa  `ev-advaita-name-digvijayi`
