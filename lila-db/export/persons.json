@@ -4266,6 +4266,10 @@
     "type": "served-by"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "served-by"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -4284,6 +4288,10 @@
    {
     "from": "@jagannatha-mishra",
     "type": "son"
+   },
+   {
+    "from": "@jayadeva",
+    "type": "other"
    },
    {
     "from": "@jiva-gosvami",
@@ -4348,6 +4356,10 @@
    {
     "from": "@prabodhananda-sarasvati",
     "type": "guest"
+   },
+   {
+    "from": "@pradyumna-mishra",
+    "type": "companion"
    },
    {
     "from": "@prakashananda-sarasvati",
@@ -5009,6 +5021,10 @@
   ],
   "related_by": [
    {
+    "from": "@jayadeva",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "deity-served"
    },
@@ -5400,6 +5416,10 @@
   "related_by": [
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@jayadeva",
     "type": "other"
    },
    {
@@ -6012,6 +6032,10 @@
   "related_by": [
    {
     "from": "@jagadisha-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jayadeva",
     "type": "other"
    },
    {
@@ -7863,6 +7887,10 @@
     "type": "other"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "served-by"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "host"
    },
@@ -8407,6 +8435,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "served-by"
    },
    {
     "from": "@jagadisha-pandita",
@@ -9123,6 +9155,10 @@
    {
     "from": "@gauridasa-pandita",
     "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "served-by"
    },
    {
     "from": "@murari-gupta",
@@ -11140,6 +11176,10 @@
    {
     "from": "@haridasa-thakura",
     "type": "companion"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "served-by"
    },
    {
     "from": "@ishvara-puri",
@@ -18060,6 +18100,10 @@
     "type": "companion"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -18394,6 +18438,10 @@
    },
    {
     "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
     "type": "other"
    },
    {
@@ -19949,6 +19997,10 @@
     "type": "host"
    },
    {
+    "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
     "from": "@prakashananda-sarasvati",
     "type": "other"
    },
@@ -20568,12 +20620,20 @@
     "type": "met"
    },
    {
+    "from": "@jayadeva",
+    "type": "other"
+   },
+   {
     "from": "@madhavi-devi",
     "type": "other"
    },
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@pradyumna-mishra",
+    "type": "siksha-guru"
    },
    {
     "from": "@pundarika-vidyanidhi",
@@ -21249,6 +21309,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "friend"
+   },
+   {
+    "from": "@jayadeva",
+    "type": "other"
    },
    {
     "from": "@kashishvara",
@@ -22510,6 +22574,10 @@
    {
     "from": "@haridasa-thakura",
     "type": "host"
+   },
+   {
+    "from": "@jayadeva",
+    "type": "other"
    },
    {
     "from": "@jiva-gosvami",
@@ -24084,6 +24152,10 @@
     "type": "other"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "met"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "nephew"
    },
@@ -24379,6 +24451,10 @@
     "type": "other"
    },
    {
+    "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -24529,6 +24605,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "met"
+   },
+   {
+    "from": "@ishana-navadvipa",
     "type": "met"
    },
    {
@@ -26699,6 +26779,10 @@
     "type": "sibling"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "sibling"
    },
@@ -27303,6 +27387,10 @@
     "type": "disciple"
    },
    {
+    "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "other"
    },
@@ -27375,6 +27463,10 @@
     "type": "other"
    },
    {
+    "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
     "from": "@raghava-pandita",
     "type": "other"
    },
@@ -27405,6 +27497,10 @@
    {
     "from": "@madhava-ghosha",
     "type": "co-worker"
+   },
+   {
+    "from": "@pradyumna-mishra",
+    "type": "other"
    }
   ]
  },
@@ -27614,6 +27710,10 @@
    },
    {
     "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@pradyumna-mishra",
     "type": "other"
    },
    {
@@ -28012,6 +28112,10 @@
    },
    {
     "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jayadeva",
     "type": "other"
    },
    {
@@ -29336,6 +29440,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@jayadeva",
+    "type": "other"
    },
    {
     "from": "@jiva-gosvami",
@@ -32653,6 +32761,10 @@
     "type": "met"
    },
    {
+    "from": "@jayadeva",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "friend"
    },
@@ -33225,6 +33337,10 @@
   ],
   "related_by": [
    {
+    "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "met"
    }
@@ -33430,6 +33546,10 @@
    },
    {
     "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@pradyumna-mishra",
     "type": "other"
    },
    {
@@ -33914,6 +34034,10 @@
    {
     "from": "@govinda-maharaja",
     "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "met"
    },
    {
     "from": "@jahnava",
@@ -34454,6 +34578,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "met"
    },
    {
     "from": "@jagadisha-pandita",
@@ -35080,6 +35208,10 @@
    {
     "from": "@advaita",
     "type": "other"
+   },
+   {
+    "from": "@jayadeva",
+    "type": "other"
    }
   ]
  },
@@ -35396,6 +35528,10 @@
    {
     "from": "@damodara-pandita",
     "type": "met"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "other"
    },
    {
     "from": "@prabodhananda-sarasvati",
@@ -36956,6 +37092,10 @@
     "type": "other"
    },
    {
+    "from": "@jayadeva",
+    "type": "other"
+   },
+   {
     "from": "@prakashananda-sarasvati",
     "type": "other"
    },
@@ -38076,6 +38216,10 @@
     "type": "other"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "met"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -38374,6 +38518,10 @@
     "type": "other"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "served-by"
+   },
+   {
     "from": "@saranga-thakura",
     "type": "other"
    },
@@ -38413,6 +38561,146 @@
    "ev-srinivasa-vishnupriya-mercy",
    "ev-srinivasa-khardaha-jahnava",
    "ev-abhirama-whip-srinivasa"
+  ],
+  "card": "parshadas/cards/ishana-navadvipa.yaml",
+  "article": {
+   "ru": "parshadas/ru/ishana-navadvipa.md",
+   "en": "parshadas/en/ishana-navadvipa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#navadvipa?",
+    "conf": "день и год ухода неизвестны; сокрылся в Навадвипе вскоре после парикрамы Шринивасы, Нароттамы и Рамачандры — весть застала их на пути в Шрикханду (БР 13.21); пережил почти всех навадвипских спутников (БР 11.721; ⚠6); в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F38",
+     "F39",
+     "F40",
+     "F41"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@jagannatha-mishra",
+    "note": "Домашний слуга Джаганнатхи Мишры (B 908; T 67). = @jagannatha-mishra F98."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Носил маленького Нимая на руках, исполнял Его прихоти; Нимай не мог без него ни мгновения (БР 12.95–97); подавал воду для стоп (ЧБ Мадхья 8.59). Ветвь древа Чайтаньи (ЧЧ Ади 10.110)."
+   },
+   {
+    "type": "served-by",
+    "who": "@shachi",
+    "note": "Всю жизнь служил матери Господа (ЧБ Мадхья 8.74; «Гаудия-бхашья»); Шачи очень любила его («Вайшнава-вандана»); после санньясы — забота о доме; знаки Шачи после ухода Господа (пада Васу Гхоша); убирал по её зову (ЧЧ Мадхья 15.63). = @shachi F47, F49, F51, F151, F181."
+   },
+   {
+    "type": "served-by",
+    "who": "@vishnupriya",
+    "note": "После санньясы Господа заботился о ней (B 909; T 67; «Гаудия-бхашья»); при ней — вестник и провожатый Шринивасы («Према-виласа» 4, ур. C). = @vishnupriya F93, F99–F102, F106."
+   },
+   {
+    "type": "served-by",
+    "who": "@nityananda",
+    "note": "Подавал воду омыть стопы Гауре и Нитьянанде перед трапезой (ЧБ Мадхья 8.59). = @nityananda F174, F458."
+   },
+   {
+    "type": "served-by",
+    "who": "@vamshivadana",
+    "note": "После ухода Махапрабху и Шачи Вамшивадананда служил Вишнуприе и Ишане (B 910 по скану; T 68); T 67 — оба заботились о Вишнуприе и Шачи."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Привёл его к Вишнуприе и сопровождал к Джахнаве и Абхираме («Према-виласа» 4–5, ур. C); позвал его в Навадвипу (БР 11.723, 12.127) и провёл с Нароттамой и Рамачандрой по девяти островам (БР 12); прощание и весть об уходе (БР 13.8–21). = @srinivasa-acharya F109, F139, Q18."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Обнял и благословил его в доме Господа, отпустил в Нилачалу (БР 8.88–108; M 107; B 1099); провожатый в Навадвипа-парикраме (БР 12)."
+   },
+   {
+    "type": "met",
+    "who": "@ramachandra-kaviraja",
+    "note": "Благословил его в доме Джаганнатхи Мишры (B 1110; M pdf 182); провожатый в Навадвипа-парикраме (БР 12). = @jagannatha-mishra F106."
+   },
+   {
+    "type": "met",
+    "who": "@shyamananda",
+    "note": "M 206: в доме Гауранги благословил Дукхи Кришнадаса; первоисточник не назван (⚠8). = @jagannatha-mishra F105."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "note": "В Навадвипе был глубоким стариком, утешал её (M 69; БР 11.768); в Кхардахе — вестник и посланец с её письмом к Абхираме («Према-виласа» 5). = @jahnava F87."
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra",
+    "note": "В Кхардахе пошёл с Вирачандрой за Шринивасой («Према-виласа» 5.11–13)."
+   },
+   {
+    "type": "met",
+    "who": "@abhirama",
+    "note": "Вручил ему письмо Джахнавы; Абхирама посылал его за Шринивасой и дал его Шринивасе в спутники («Према-виласа» 5.35–64, ур. C)."
+   },
+   {
+    "type": "met",
+    "who": "@raghunandana",
+    "note": "Шриниваса рассказал Рагхунандане в Шрикханде о встрече с Ишаной и о его уходе (БР 13.17–21). = @raghunandana F62."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "B 1099 — среди престарелых спутников, которых видел Нароттама в Навадвипе (с Шукламбарой, Мурари, дасом Гададхарой). = @damodara-pandita F38."
+   },
+   {
+    "type": "other",
+    "who": "@shuklambara",
+    "note": "B 1099 — там же; по БР 8 — в доме Господа вместе с Ишаной."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.110 (57-я ветвь) и «Гаудия-бхашья» к ЧБ Мадхья 8.73–74 («благословеннейший из благословенных слуг мира»)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "Автор «Бхакти-ратнакары» — главного первоисточника о его последних годах (волны 8, 11–13)."
+   },
+   {
+    "type": "other",
+    "who": "@vasu-ghosha",
+    "note": "Пада ПК 2222: Шачи знаками говорит Ишане: «Гора ушёл, оставив Надию»."
+   },
+   {
+    "type": "other",
+    "who": "@ishana-sanatana-servant",
+    "note": "Тёзка, не путать: слуга Санатаны (ЧЧ Мадхья 20.23–36; B 417–418; T pdf 197; M 168)."
+   },
+   {
+    "type": "other",
+    "who": "@ishana-nagara",
+    "note": "Тёзка, не путать: ученик Адвайты, автор «Адвайта-пракаши» («Према-виласа» 24.370, 25.867; lila-db apr-0151)."
+   }
   ],
   "related_by": [
    {
@@ -38780,6 +39068,10 @@
    {
     "from": "@haridasa-thakura",
     "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "met"
    },
    {
     "from": "@jahnava",
@@ -39430,6 +39722,10 @@
     "type": "other"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "met"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -39787,6 +40083,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
+    "type": "met"
    },
    {
     "from": "@ishvara-puri",
@@ -40205,6 +40505,10 @@
    },
    {
     "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@pradyumna-mishra",
     "type": "other"
    },
    {
@@ -41563,6 +41867,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@ishana-navadvipa",
     "type": "other"
    },
    {
@@ -43643,6 +43951,12 @@
     "who": "@mukunda-datta",
     "note": "B 809 (гл. о Мукунде Датте) — упомянут как знаменитый дигвиджайи, чью учёность Махапрабху мог превзойти."
    }
+  ],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "other"
+   }
   ]
  },
  {
@@ -44036,6 +44350,10 @@
     "type": "other"
    },
    {
+    "from": "@jayadeva",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -44227,11 +44545,19 @@
     "type": "other"
    },
    {
+    "from": "@ishana-navadvipa",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "other"
    },
    {
     "from": "@jagadisha-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jayadeva",
     "type": "other"
    },
    {
@@ -44280,6 +44606,10 @@
    },
    {
     "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@pradyumna-mishra",
     "type": "other"
    },
    {
@@ -46805,6 +47135,121 @@
    "ev-return-to-puri-from-vrindavana",
    "ev-pradyumna-mishra-hears-ramananda"
   ],
+  "summary": "в нём — авеша Шри Гаурахари (ГГД 74); происхождение — Пури (Нилачала, Пурушоттама)",
+  "card": "parshadas/cards/pradyumna-mishra.yaml",
+  "article": {
+   "ru": "parshadas/ru/pradyumna-mishra.md",
+   "en": "parshadas/en/pradyumna-mishra.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "Уткала (Орисса); по «Гаудия-вайшнава-абхидхане» — сначала Шрихатта (⚠3)",
+    "conf": "год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F2",
+     "F3",
+     "F36"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F36"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "other",
+    "as": "в нём — авеша (вхождение) Шри Гаурахари",
+    "source": "ГГД 74",
+    "level": "B",
+    "variants": [
+     "Бхактисиддханта («Анубхашья» к ЧЧ Ади 10.35) и «Гаудия-вайшнава-абхидхана» относят стих к Прадьюмне Брахмачари (@nrisimhananda), не к Мишре (B 1004; T 82); B 897 и T 142 — к Мишре (⚠2). Отождествления в лиле Кришны источники не дают."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "siksha-guru",
+    "who": "@ramananda-raya",
+    "note": "По велению Господа слушал у него кришна-катху — как ученик (ЧЧ Антья 5.4–85; «Гаудия-бхашья» к ЧБ Ади 14.2); = @ramananda-raya F56–F66, F127, F157 (там связь siksha-disciple)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Ветвь самого Шри Чайтаньи (ЧЧ Ади 10.131); «Гаурасундара даровал ему Свои стопы» (ЧБ Антья 5.211); Господь — «жизнь Прадьюмны Мишры» (ЧБ Ади 14.2); по ГГД 74 — авеша Гаурахари (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Представил его Господу как «первого среди вайшнавов» (ЧЧ Мадхья 10.43; ЧЧН 8)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "Назван рядом с ним: ветви Господа (ЧЧ Ади 10.131), милость и встреча (Мадхья 1.129), встречавшие Господа (Мадхья 16.254, 25.222)."
+   },
+   {
+    "type": "other",
+    "who": "@bhavananda-raya",
+    "note": "Ветви Господа вместе (ЧЧ Ади 10.131); вместе в вандане Девакинанданы, 66."
+   },
+   {
+    "type": "other",
+    "who": "@vishnudasa",
+    "note": "ЧЧН 8: «это — Прадьюмна Мишра, это — Вишнудас»; у Карнапуры в махакавье 13 — рядом."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-mahapatra",
+    "note": "ЧБ Антья 3.184: вместе с Раманандой и Параманандой (Махапатрой) — уроженцы Ориссы, пришедшие к Господу."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "ЧБ Ади 14.2: Господь — жизнь Прадьюмны Мишры и сокровище Парамананды Пури."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimhananda",
+    "note": "Тёзка, не путать (Прадьюмна Брахмачари); к нему Бхактисиддханта и «Гаудия-вайшнава-абхидхана» относят ГГД 74 (B 1004; T 82; «Анубхашья» к Ади 10.35) (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@nakula-brahmachari",
+    "note": "ГГД 73–74: авирбхава Гаурахари — в Накуле, авеша — в Мишре Прадьюмне; по ЧЧ Антья 2 — авеша в Накуле."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.131 (ория-брахман), 10.35 (ГГД 74 — о Брахмачари), Мадхья 10.43 («дас»), Антья 5.7, 5.80, 5.83–84 (шаукра-брахман слушает Рамананду); «Гаудия-бхашья» к ЧБ Ади 14.2."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "ГГД 73–74 (авеша); ЧЧН 8 (представлен Господу; «Дас Махасоар» — отдельно, ⚠1); махакавья 13.70–71 (даршан стоп и слёзы)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "ЧБ Ади 14.2; Антья 3.184 («воплощённая према»), 5.211, 8.57 («первый в према-бхакти»)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "ЧЧ Ади 10.131; Мадхья 1.129, 1.264, 10.43; Антья 5 («Сказание о Прадьюмне Мишре»), 20.110."
+   }
+  ],
   "related_by": [
    {
     "from": "@ramananda-raya",
@@ -47340,6 +47785,10 @@
    {
     "from": "@madhavi-devi",
     "type": "uncle"
+   },
+   {
+    "from": "@pradyumna-mishra",
+    "type": "other"
    },
    {
     "from": "@ramananda-raya",
@@ -52347,6 +52796,187 @@
    "ev-devadasi-gita-govinda-song",
    "ev-last-twelve-years-gambhira",
    "ev-gambhira-divine-madness"
+  ],
+  "summary": "происхождение — Кендубилва (Кендули); уход — кришна-шаштхи месяца пауша = Мадхава-маса по вайшнавскому счёту",
+  "card": "parshadas/cards/jayadeva.yaml",
+  "article": {
+   "ru": "parshadas/ru/jayadeva.md",
+   "en": "parshadas/en/jayadeva.md"
+  },
+  "kind": "other",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#kendubilva?",
+    "conf": "век — спорно: XI–XII в. Шака (B, T, «Анубхашья» Ади 13.42) / начало XII в. н. э. (M) / XV в. н. э. (иное мнение у B, ⚠1); место — Кендубилва по большинству, иначе Уткала или юг (F4); в календаре ШЧСМ (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F3",
+     "F4",
+     "F71"
+    ]
+   },
+   "disappearance": {
+    "date": "Мадхава-маса, кришна-шаштхи (календарь ШЧСМ: 9 января 2026, 28 января 2027)",
+    "tithi": "кришна-шаштхи месяца пауша (B, T) = Мадхава-маса по вайшнавскому счёту",
+    "place": "#puri?",
+    "conf": "день — B и T совпадают с календарём ШЧСМ (проверено 2026-11-16); M — пауша-санкранти (≠). Место — три мнения: Джаганнатха-кшетра (Бхактисиддханта, «Анубхашья» Ади 13.42), Вриндаван, Кендубилва (⚠8)",
+    "facts": [
+     "F50",
+     "F51",
+     "F52",
+     "F53",
+     "F55",
+     "F71"
+    ]
+   },
+   "samadhi": []
+  },
+  "works": [
+   {
+    "title": "«Шри Гита-говинда» («Аштапади»)",
+    "facts": [
+     "F16",
+     "F19",
+     "F20",
+     "F21",
+     "F22",
+     "F23",
+     "F29",
+     "F56",
+     "F66"
+    ],
+    "note": "Сложена в Пури (B, T — по Бхактивиноде); песнь о надмирных играх Радхи и Говинды, полная випраламбха-расы (⚠Б1)."
+   },
+   {
+    "title": "«Дашаватара-стотра» (гимн десяти аватарам)",
+    "facts": [
+     "F11",
+     "F17"
+    ],
+    "note": "По M 73 — часть «Гита-говинды»."
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@bhojadeva"
+   },
+   {
+    "type": "mother",
+    "who": "@vamadevi"
+   },
+   {
+    "type": "spouse",
+    "who": "@padmavati-jayadeva",
+    "note": "Дана ему по велению Джаганнатхи; отрешённый Джаядева принял её, не имея выхода (F26–F27, ⚠Б3); видела Кришну в облике мужа и ела Его прасад (F30–F32); испытана царицей и оживлена святым именем (F46–F48, ⚠Б6). Все рассказы — предания (ур. D)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-madhava-jayadeva",
+    "note": "Обретены в реке Аджай; Они Сами помогли крыть крышу; служение у Кеши-гхата во Вриндаване; после его сокрытия перенесены царём Джайпура в Гхати (B 906; T 4)."
+   },
+   {
+    "type": "patron",
+    "who": "@lakshmana-sena",
+    "note": "Царь Бенгалии; Джаядева — его придворный пандит (поэт); по «Навадвипа-дхама-махатмье» царь, восхищённый «Дашаватара-стотрой», звал его во дворец и поселил в Чампахати."
+   },
+   {
+    "type": "friend",
+    "who": "@govardhana-acharya",
+    "note": "Придворный поэт Лакшманы Сены; сообщил царю, кто автор «Дашаватара-стотры»."
+   },
+   {
+    "type": "friend",
+    "who": "@umapatidhara",
+    "note": "Придворный поэт Лакшманы Сены, назван в «Гита-говинде» (1.4)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Не встречались в лиле Господа; по преданию (Бхактивинода) Господь явил ему облик Гауры и предрёк, что будет вкушать его поэму в Пури (⚠Б2). Махапрабху вкушал «Гита-говинду» со Сварупой и Раманандой (ЧЧ Ади 13.42; Мадхья 2.77, 10.115; Антья 15, 17, 20)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "По преданию, велел отдать ему Падмавати; приходил слушать «Гита-говинду» у садовницы (начало пения девадаси, ⚠Б5); T — Джаганнатха крыл крышу и вписал строку (⚠9)."
+   },
+   {
+    "type": "other",
+    "who": "@krishna",
+    "note": "По преданию (B, M) Сам Кришна вписал «дехи пада-паллавам ударам» и принял прасад из рук Падмавати (T — Джаганнатха; ⚠9, ⚠Б4)."
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "«Гита-говинда» — песнь о сокровенных играх Радхи и Говинды (⚠Б1)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Пел Господу «Гита-говинду» по Его настроению (ЧЧ Мадхья 10.115; Антья 15.84, 17.5–6, 17.62). = @svarupa-damodara F54, F79, F88."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Читал Господу стихи «Гита-говинды»; песни его «Джаганнатха-валлабха-натаки» — в манере Джаядевы. = @ramananda-raya F90."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Навадвипа-дхама-махатмья» — предание о Лакшмане Сене, Чампахати и видении Гауры; бхава Гауры в сердцах Джаядевы, Билвамангалы, Чандидаса, Видьяпати."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 13.42 — краткое жизнеописание; последние годы — в Джаганнатха-кшетре; запрет мирского прочтения песен (⚠Б1). T 263: слово «нактам» ГГ 1.1 и час ухода Бхактисиддханты."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "В «Падьявали» стихи из сочинений Джаядевы не включены, «Гита-говинда» и так ходила книгой. = @rupa-gosvami F540–F541."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Песня «Шри Джаядева-вандана» под именем «дас Рагхунатха» («Пада-калпатару»; B 651–652). = @raghunatha-dasa F69."
+   },
+   {
+    "type": "other",
+    "who": "@vidyapati",
+    "note": "Их песни вкушал Господь вместе (ЧЧ Ади 13.42 и др.)."
+   },
+   {
+    "type": "other",
+    "who": "@chandidasa",
+    "note": "Там же."
+   },
+   {
+    "type": "other",
+    "who": "@bilvamangala",
+    "note": "«Кришна-карнамрита»; в одном ряду у Бхактивиноды, Рупы и ЧЧ."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-kashmiri",
+    "note": "ЧЧ Ади 16.101: ободряя дигвиджайи, Господь говорит, что изъяны есть даже у Бхавабхути, Джаядевы, Калидасы. = @keshava-kashmiri F23."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Удержал Господа, бежавшего на пение «Гита-говинды» девадаси (ЧЧ Антья 13.78–88). = @govinda-servant F41."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta",
+    "note": "Комментарий «Кришна-валлабха» (под его именем) цитирует «Гита-говинду». = @gopala-bhatta F95."
+   },
+   {
+    "type": "other",
+    "who": "@prabodhananda-sarasvati",
+    "note": "T 177: толкование на «Гита-говинду» среди его сочинений."
+   }
   ]
  },
  {
@@ -52366,6 +52996,10 @@
    "ev-gambhira-divine-madness"
   ],
   "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "other"
+   },
    {
     "from": "@narahari-sarakara",
     "type": "other"
@@ -53355,6 +53989,12 @@
    "ev-last-twelve-years-gambhira",
    "ev-kurma-form-telinga-cows",
    "ev-krishna-resolves-advent-radha-bhava"
+  ],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "other"
+   }
   ]
  },
  {
@@ -53652,6 +54292,10 @@
    "ev-sanatana-escape-kashi"
   ],
   "related_by": [
+   {
+    "from": "@ishana-navadvipa",
+    "type": "other"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "servant"
@@ -57476,7 +58120,13 @@
   "note": "ориец, спутник Господа в Пури (ЧЧ Ади 10.135, Мадхья 10.46; ЧБ Антья 3.184, 5.212); не путать с @paramananda-puri",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@pradyumna-mishra",
+    "type": "other"
+   }
+  ]
  },
  {
   "id": "@kamalakanta-vipra",
@@ -57700,6 +58350,111 @@
    {
     "from": "@madhavi-devi",
     "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@padmavati-jayadeva",
+  "ru": "Падмавати (супруга Джаядевы)",
+  "en": "Padmavati (Jayadeva's wife)",
+  "note": "дочь брахмана, по велению Джаганнатхи отданная Джаядеве (B 901; T 3); не путать с @padmavati (мать Нитьянанды), @gauranga-priya",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "spouse"
+   }
+  ]
+ },
+ {
+  "id": "@radha-madhava-jayadeva",
+  "ru": "Радха-Мадхава — Божества Джаядевы",
+  "en": "Radha-Madhava, Jayadeva's Deities",
+  "note": "по преданию обретены в реке Аджай; ныне в Гхати, Джайпур (B 900, 906; T 1, 4)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@lakshmana-sena",
+  "ru": "Лакшмана Сена",
+  "en": "Lakshmana Sena",
+  "note": "царь Бенгалии (XII в.), при дворе которого был Джаядева (B 900; T 1; M 72)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "patron"
+   }
+  ]
+ },
+ {
+  "id": "@govardhana-acharya",
+  "ru": "Говардхана Ачарья",
+  "en": "Govardhana Acharya",
+  "note": "придворный поэт Лакшманы Сены, друг Джаядевы (B 900; T 1)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "friend"
+   }
+  ]
+ },
+ {
+  "id": "@umapatidhara",
+  "ru": "Умапатидхара",
+  "en": "Umapatidhara",
+  "note": "придворный поэт Лакшманы Сены, друг Джаядевы (B 900; «Гита-говинда» 1.4)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "friend"
+   }
+  ]
+ },
+ {
+  "id": "@bhojadeva",
+  "ru": "Бходжадева",
+  "en": "Bhojadeva",
+  "note": "отец Джаядевы (B 900; T 1; M 72; «Анубхашья» ЧЧ Ади 13.42)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@vamadevi",
+  "ru": "Вамадеви",
+  "en": "Vamadevi",
+  "note": "мать Джаядевы (B 900; T 1; M 72 — «Bamadevi»)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jayadeva",
+    "type": "mother"
    }
   ]
  }
