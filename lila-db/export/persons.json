@@ -4402,6 +4402,10 @@
     "type": "son"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "served-by"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "companion"
    },
@@ -6033,6 +6037,10 @@
    {
     "from": "@rasikananda",
     "type": "other"
+   },
+   {
+    "from": "@shikhi-mahiti",
+    "type": "deity-served"
    },
    {
     "from": "@svarupa-damodara",
@@ -19945,6 +19953,10 @@
     "type": "guru"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -20550,6 +20562,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@shikhi-mahiti",
+    "type": "co-worker"
    },
    {
     "from": "@srinivasa-acharya",
@@ -21265,6 +21281,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@shikhi-mahiti",
+    "type": "co-worker"
    },
    {
     "from": "@shivananda-sena",
@@ -28837,6 +28857,10 @@
     "type": "other"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "co-worker"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "other"
    },
@@ -32974,6 +32998,10 @@
    {
     "from": "@ramananda-raya",
     "type": "sibling"
+   },
+   {
+    "from": "@shikhi-mahiti",
+    "type": "co-worker"
    }
   ]
  },
@@ -33254,6 +33282,10 @@
    },
    {
     "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@shikhi-mahiti",
     "type": "other"
    },
    {
@@ -37017,6 +37049,10 @@
     "type": "other"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -37936,6 +37972,10 @@
     "type": "other"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "met"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -38616,6 +38656,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@shikhi-mahiti",
+    "type": "met"
    },
    {
     "from": "@shridhara-maharaja",
@@ -43860,6 +43904,10 @@
     "type": "other"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "lineage-predecessor"
    },
@@ -44092,6 +44140,10 @@
    },
    {
     "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@shikhi-mahiti",
     "type": "other"
    },
    {
@@ -46600,6 +46652,142 @@
    "ev-narottama-dream-ratha-kirtan",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Рагалекха, служанка Шри Радхи (ГГД 189); происхождение — Пури (Нилачала, Пурушоттама)",
+  "card": "parshadas/cards/shikhi-mahiti.yaml",
+  "article": {
+   "ru": "parshadas/ru/shikhi-mahiti.md",
+   "en": "parshadas/en/shikhi-mahiti.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F39"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#puri?",
+    "conf": "день, год и место ухода неизвестны; жил в Пури и после сокрытия Господа (БР 3, 8; НВ 4 — F36–F38); в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F36",
+     "F37",
+     "F38",
+     "F39"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Рагалекха, служанка (дāси) Шри Радхи",
+    "source": "ГГД 189",
+    "level": "A",
+    "variants": [
+     "ЧЧ Антья 2.105–106: Господь числит его в окружении Радхики (один из «трёх с половиной») — F4."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@murari-mahiti",
+    "note": "Младший брат (махакавья 13.90; ЧЧ Мадхья 10.44); раньше стал преданным Гауры и вместе с сестрой привёл к Нему старшего; Господь: «Ты — старший брат Мурари». T — «Murari Mahanta or Mahanti» (⚠3)."
+   },
+   {
+    "type": "sibling",
+    "who": "@madhavi-devi",
+    "note": "Младшая сестра; в Кришна-лиле — Калакели, он — Рагалекха, обе — служанки Радхи (ГГД 189); «половина» из «трёх с половиной» (ЧЧ Антья 2.105–106); вместе принимали Шринивасу (БР 3.185)."
+   },
+   {
+    "type": "uncle",
+    "who": "@bhavananda-raya",
+    "note": "По B 896 — сын брата Бхавананды Рая (только B, ⚠4; = @bhavananda-raya F8); в ЧЧ Мадхья 1.130 Господь встречается с ними обоими подряд."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Сокровенный спутник в Пури (ветвь древа, Ади 10.136; «три с половиной», Антья 2.105–106); по махакавье 13.89–109 — сон, объятие в джагамохане и с тех пор служение Гауре как своему Божеству (⚠Б2–⚠Б4)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-deity",
+    "note": "Слуга и «любящий слуга» Джаганнатхи (махакавья 13.89, 13.94); храмовый писарь — ликханадхикари (ЧЧ Мадхья 10.42), деула-карана («Анубхашья»), ведёт «Мадала-панджи» («Амрита-праваха-бхашья»; T)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@svarupa-damodara",
+    "note": "Вместе — в числе «трёх с половиной» (ЧЧ Антья 2.105–106); Господь встречает их подряд (Мадхья 1.130)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@ramananda-raya",
+    "note": "Вместе — в числе «трёх с половиной»; вместе встречали Господа (Мадхья 16.254) и Шринивасу (T 204)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Представил его Господу как писаря храма (ЧЧ Мадхья 10.42; ЧЧН 8; «Гаура-кришнодая» 11.5)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya",
+    "note": "Рядом в перечне ветвей (Ади 10.136); посылал Младшего Харидаса к его сестре за рисом (Антья 2.103)."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "Ходил за рисом к сестре Шикхи Махити (ЧЧ Антья 2.103) — лишь упоминание."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "После сокрытия Господа Шриниваса пришёл в его дом (БР 3.181–187); M — спутники узнали в нём Гаура-шакти и наставили. = @srinivasa-acharya F32."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Предчувствовал приход Нароттамы и встречал его у Львиных ворот; с Гопинатхой Ачарьей посылал на даршан (НВ 4.41, 4.166; БР 8)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@gopinatha-acharya",
+    "note": "Вместе с ним в Пури после сокрытия Господа (БР 8; НВ 4.40–43, 4.166)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@kanai-khutiya",
+    "note": "Вместе принимали Шринивасу (БР 3.184) и Нароттаму (НВ 4.42)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@vaninatha-raya",
+    "note": "Вместе встречали Господа (Мадхья 16.254), Шринивасу (БР 3.186) и Нароттаму (НВ 4.43)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.136/137 — рассказ о сне по махакавье Карнапуры (⚠1)."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "Автор махакавьи (13.89–109) — единственный первоисточник рассказа о сне (⚠6); ЧЧН 8 — сцена представления (⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 10.42 — о должности ликханадхикари и «Мадала-панджи» (по T)."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhavananda-raya",
@@ -46642,6 +46830,10 @@
   "related_by": [
    {
     "from": "@madhavi-devi",
+    "type": "sibling"
+   },
+   {
+    "from": "@shikhi-mahiti",
     "type": "sibling"
    }
   ]
@@ -46791,6 +46983,10 @@
    {
     "from": "@ramananda-raya",
     "type": "companion"
+   },
+   {
+    "from": "@shikhi-mahiti",
+    "type": "sibling"
    },
    {
     "from": "@svarupa-damodara",
@@ -46954,6 +47150,10 @@
     "type": "father"
    },
    {
+    "from": "@shikhi-mahiti",
+    "type": "uncle"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "other"
    }
@@ -47015,6 +47215,10 @@
    },
    {
     "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
+    "from": "@shikhi-mahiti",
     "type": "other"
    },
    {
@@ -47974,6 +48178,12 @@
   "events": [
    "ev-gopa-vesha-dadhi-utsava",
    "ev-narottama-puri"
+  ],
+  "related_by": [
+   {
+    "from": "@shikhi-mahiti",
+    "type": "co-worker"
+   }
   ]
  },
  {

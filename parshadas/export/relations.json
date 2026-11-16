@@ -20395,6 +20395,281 @@
   "note": "Благословила его во сне (F65)."
  },
  {
+  "from": "@shikhi-mahiti",
+  "type": "sibling",
+  "who": "@murari-mahiti",
+  "facts": [
+   "F8",
+   "F9",
+   "F12",
+   "F13",
+   "F20",
+   "F21",
+   "F22",
+   "F25",
+   "F26",
+   "F27",
+   "F30"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream",
+   "ev-puri-devotees-introduced"
+  ],
+  "note": "Младший брат (махакавья 13.90; ЧЧ Мадхья 10.44); раньше стал преданным Гауры и вместе с сестрой привёл к Нему старшего; Господь: «Ты — старший брат Мурари». T — «Murari Mahanta or Mahanti» (⚠3)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "sibling",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F2",
+   "F3",
+   "F4",
+   "F8",
+   "F11",
+   "F12",
+   "F13",
+   "F20",
+   "F21",
+   "F22",
+   "F25",
+   "F26",
+   "F34",
+   "F36"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream",
+   "ev-chhota-haridasa-punished",
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "Младшая сестра; в Кришна-лиле — Калакели, он — Рагалекха, обе — служанки Радхи (ГГД 189); «половина» из «трёх с половиной» (ЧЧ Антья 2.105–106); вместе принимали Шринивасу (БР 3.185)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "uncle",
+  "who": "@bhavananda-raya",
+  "facts": [
+   "F10",
+   "F29"
+  ],
+  "note": "По B 896 — сын брата Бхавананды Рая (только B, ⚠4; = @bhavananda-raya F8); в ЧЧ Мадхья 1.130 Господь встречается с ними обоими подряд."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F4",
+   "F5",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F25",
+   "F26",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "I1",
+   "I2"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream",
+   "ev-svarupa-paramananda-arrive",
+   "ev-puri-devotees-introduced",
+   "ev-natashala-kanai-return",
+   "ev-gauda-devotees-arrive-puri"
+  ],
+  "note": "Сокровенный спутник в Пури (ветвь древа, Ади 10.136; «три с половиной», Антья 2.105–106); по махакавье 13.89–109 — сон, объятие в джагамохане и с тех пор служение Гауре как своему Божеству (⚠Б2–⚠Б4)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F23"
+  ],
+  "note": "Слуга и «любящий слуга» Джаганнатхи (махакавья 13.89, 13.94); храмовый писарь — ликханадхикари (ЧЧ Мадхья 10.42), деула-карана («Анубхашья»), ведёт «Мадала-панджи» («Амрита-праваха-бхашья»; T)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "co-worker",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F4",
+   "F29"
+  ],
+  "events": [
+   "ev-svarupa-paramananda-arrive"
+  ],
+  "note": "Вместе — в числе «трёх с половиной» (ЧЧ Антья 2.105–106); Господь встречает их подряд (Мадхья 1.130)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "co-worker",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F4",
+   "F31",
+   "F36"
+  ],
+  "note": "Вместе — в числе «трёх с половиной»; вместе встречали Господа (Мадхья 16.254) и Шринивасу (T 204)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F30",
+   "F31",
+   "F36"
+  ],
+  "events": [
+   "ev-puri-devotees-introduced"
+  ],
+  "note": "Представил его Господу как писаря храма (ЧЧ Мадхья 10.42; ЧЧН 8; «Гаура-кришнодая» 11.5)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "other",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F5",
+   "F34"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Рядом в перечне ветвей (Ади 10.136); посылал Младшего Харидаса к его сестре за рисом (Антья 2.103)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "other",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F34"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Ходил за рисом к сестре Шикхи Махити (ЧЧ Антья 2.103) — лишь упоминание."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F35",
+   "F36",
+   "I3"
+  ],
+  "events": [
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "После сокрытия Господа Шриниваса пришёл в его дом (БР 3.181–187); M — спутники узнали в нём Гаура-шакти и наставили. = @srinivasa-acharya F32."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F37",
+   "F38"
+  ],
+  "events": [
+   "ev-narottama-puri",
+   "ev-narottama-dream-ratha-kirtan"
+  ],
+  "note": "Предчувствовал приход Нароттамы и встречал его у Львиных ворот; с Гопинатхой Ачарьей посылал на даршан (НВ 4.41, 4.166; БР 8)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "co-worker",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F37",
+   "F38"
+  ],
+  "events": [
+   "ev-narottama-puri"
+  ],
+  "note": "Вместе с ним в Пури после сокрытия Господа (БР 8; НВ 4.40–43, 4.166)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "co-worker",
+  "who": "@kanai-khutiya",
+  "facts": [
+   "F36",
+   "F38"
+  ],
+  "events": [
+   "ev-narottama-puri",
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "Вместе принимали Шринивасу (БР 3.184) и Нароттаму (НВ 4.42)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "co-worker",
+  "who": "@vaninatha-raya",
+  "facts": [
+   "F31",
+   "F36",
+   "F38"
+  ],
+  "events": [
+   "ev-natashala-kanai-return",
+   "ev-narottama-puri"
+  ],
+  "note": "Вместе встречали Господа (Мадхья 16.254), Шринивасу (БР 3.186) и Нароттаму (НВ 4.43)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F6",
+   "F12",
+   "F15",
+   "F19",
+   "I1"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.136/137 — рассказ о сне по махакавье Карнапуры (⚠1)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F19",
+   "F21",
+   "F24"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream"
+  ],
+  "note": "Автор махакавьи (13.89–109) — единственный первоисточник рассказа о сне (⚠6); ЧЧН 8 — сцена представления (⚠5)."
+ },
+ {
+  "from": "@shikhi-mahiti",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F16"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 10.42 — о должности ликханадхикари и «Мадала-панджи» (по T)."
+ },
+ {
   "from": "@shivananda-sena",
   "type": "companion",
   "who": "@mahaprabhu",
