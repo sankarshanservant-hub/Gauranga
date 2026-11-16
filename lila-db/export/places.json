@@ -3718,6 +3718,8 @@
   "lilas": [
    "lcm-0023",
    "cb-3032",
+   "vlm-0106",
+   "vlm-0107",
    "apr-0011",
    "cc-1039",
    "cc-1028",
@@ -3773,6 +3775,7 @@
    "cc-0310",
    "cc-1045",
    "lcm-0211",
+   "vlm-0105",
    "cc-1046",
    "vlm-0002",
    "cc-1047",
@@ -4468,8 +4471,12 @@
    "pvl-0170",
    "jvn-0001",
    "ccd-0002",
+   "vlm-0101",
    "mkc-0006",
+   "vlm-0102",
    "lcm-0004",
+   "vlm-0103",
+   "vlm-0104",
    "pad-0526",
    "pad-0545",
    "mkc-0062",
@@ -4495,6 +4502,8 @@
   "events": [
    "ev-narada-jagannatha-nilachala",
    "ev-shiva-receives-ekamra-kashiraja",
+   "ev-chodaganga-rahasa-origin",
+   "ev-jayadeva-in-puri",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
@@ -4516,6 +4525,7 @@
    "ev-departure-for-south",
    "ev-first-darshan-jagannatha",
    "ev-jagannatha-embraces-gaura",
+   "ev-jagannatha-dasa-rahasa",
    "ev-jagannatha-dasa-bhagavata-meeting",
    "ev-gopinatha-sarvabhauma-debate",
    "ev-jagannatha-turns-golden",
@@ -6748,6 +6758,7 @@
   "note": "река; по ЧЧ — место бесед с Раманандой Раем",
   "section": "",
   "lilas": [
+   "vlm-0106",
    "apr-0011",
    "cb-0071",
    "kcm-0122",
@@ -6785,6 +6796,7 @@
    "kcm-0131"
   ],
   "events": [
+   "ev-chodaganga-rahasa-origin",
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage",
    "ev-ramananda-raya-godavari",
@@ -12690,6 +12702,56 @@
   ],
   "events": [
    "ev-shyamananda-utkala"
+  ]
+ },
+ {
+  "id": "#bata-ganesha",
+  "ru": "Бата-Ганеша (Ганеша у баньяна)",
+  "en": "Bata-Ganesha",
+  "note": "Пури, двор храма Джаганнатхи; по «Вайшнава-лиламрите» — место рахасы и толкования «Бхагаваты» Джаганнатхой Дасом",
+  "section": "",
+  "lilas": [
+   "vlm-0105"
+  ],
+  "events": [
+   "ev-jagannatha-dasa-rahasa"
+  ]
+ },
+ {
+  "id": "#khandapada",
+  "ru": "Кхандапада",
+  "en": "Khandapada",
+  "note": "Орисса; прежнее местожительство Мадхавы Паттанаяка («Вайшнава-лиламрита» 1.57)",
+  "section": "",
+  "lilas": [
+   "vlm-0103"
+  ],
+  "events": []
+ },
+ {
+  "id": "#kenduli-prachi",
+  "ru": "Кендули (шасана на р. Прачи)",
+  "en": "Kenduli (on the Prachi)",
+  "note": "Орисса; по орийской традиции — родная деревня Джаядевы (бенгальская традиция — Кендули в Бирбхуме)",
+  "section": "",
+  "lilas": [
+   "vlm-0107"
+  ],
+  "events": [
+   "ev-jayadeva-in-puri"
+  ]
+ },
+ {
+  "id": "#niali",
+  "ru": "Ниали (храм Мадхавы)",
+  "en": "Niali (the Madhava temple)",
+  "note": "Орисса, на р. Прачи; Джаядева служил Мадхаве («Вайшнава-лиламрита» 2.58)",
+  "section": "",
+  "lilas": [
+   "vlm-0107"
+  ],
+  "events": [
+   "ev-jayadeva-in-puri"
   ]
  }
 ]

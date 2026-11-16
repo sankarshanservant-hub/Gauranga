@@ -138,6 +138,14 @@
 
 - cb (A): Антья 2, 315–395 — [315–395](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L1567-L1943) · `cb-3032`
 
+## Царь Чодаганга обновляет храм Джаганнатхи и учреждает киртан и танец махари / King Chodaganga renews the Jagannatha temple and institutes kirtan and the maharis' dance  `ev-chodaganga-rahasa-origin`
+
+- vaishnava-lilamrita (C): Гл. 2, 31–54 — [2.31–2.54](../vaishnava-lilamrita/ru/02.md?plain=1#L40-L63) · `vlm-0106`
+
+## Джаядева приходит в Пури / Jayadeva comes to Puri  `ev-jayadeva-in-puri`
+
+- vaishnava-lilamrita (C): Гл. 2, 55–58 (глава продолжается) — [2.55–2.58](../vaishnava-lilamrita/ru/02.md?plain=1#L64-L67) · `vlm-0107`
+
 ## Бхригу испытывает Брахму, Шиву и Вишну / Bhrigu tests Brahma, Shiva and Vishnu  `ev-bhrigu-tests-trimurti`
 
 - cb (A): Антья 9, 310–392 — [310–392](../chaitanya-bhagavata/ed/CB_Antya09.md?plain=1#L1543-L1947) · `cb-3117`
@@ -3370,6 +3378,10 @@
 ## Джаганнатха сходит с трона и обнимает Господа / Jagannatha steps down from His throne and embraces the Lord  `ev-jagannatha-embraces-gaura` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (C): Мадхья-кханда, «Встреча с Сарвабхаумой», 168+1–168+4 — [168+1–168+4](../lochana/ru/45.md?plain=1#L187-L196) · `lcm-0211`
+
+## Рахаса Джаганнатхи Даса у Бата-Ганеши / Jagannatha Dasa's rahasa at Bata-Ganesha  `ev-jagannatha-dasa-rahasa` (1510–1510, возраст 24–24, оценка)
+
+- vaishnava-lilamrita (C): Гл. 2, 1–30 — [2.1–2.30](../vaishnava-lilamrita/ru/02.md?plain=1#L6-L39) · `vlm-0105`
 
 ## Встреча с Джаганнатхой Дасом, толкователем «Бхагаваты» / Meeting with Jagannatha Dasa, expounder of the Bhagavata  `ev-jagannatha-dasa-bhagavata-meeting` (1510–1510, возраст 24–24, оценка)
 

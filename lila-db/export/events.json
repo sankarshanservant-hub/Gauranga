@@ -33433,6 +33433,75 @@
   ]
  },
  {
+  "id": "ev-jagannatha-dasa-rahasa",
+  "title": "Рахаса Джаганнатхи Даса у Бата-Ганеши",
+  "title_en": "Jagannatha Dasa's rahasa at Bata-Ganesha",
+  "period": "P10",
+  "order": 11,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "jagannatha"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 2.1–30; 4.37): собрания нама-санкиртаны с представлением раса-лилы у Бата-Ганеши в храме Джаганнатхи; ко времени прихода Господа в Пури рахаса уже существует. Время основания не указано.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "vlm-0105"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-chodaganga-rahasa-origin",
+  "title": "Царь Чодаганга обновляет храм Джаганнатхи и учреждает киртан и танец махари",
+  "title_en": "King Chodaganga renews the Jagannatha temple and institutes kirtan and the maharis' dance",
+  "period": "P00",
+  "order": 900,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "kirtan"
+  ],
+  "notes": "Предыстория рахасы по орийской традиции («Вайшнава-лиламрита» 2.31–54); XII в. (Чодаганга ≈1078–1147).",
+  "entries": [
+   "vlm-0106"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-jayadeva-in-puri",
+  "title": "Джаядева приходит в Пури",
+  "title_en": "Jayadeva comes to Puri",
+  "period": "P00",
+  "order": 905,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 2.55 и далее): брахман Джаядева из Кендули на Прачи, служивший Мадхаве в Ниали, приходит в Пури; XII в.",
+  "entries": [
+   "vlm-0107"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
   "id": "ev-shivananda-raises-jagadananda",
   "title": "Шивананда Сена воспитывает Джагадананду и приводит его к Господу в Надию",
   "title_en": "Shivananda Sena brings up Jagadananda and brings him to the Lord in Nadia",

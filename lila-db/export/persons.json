@@ -3371,6 +3371,7 @@
    "nvv-0043",
    "nvv-0045",
    "nvv-0047",
+   "vlm-0104",
    "pad-0526",
    "pad-0545",
    "pad-0547",
@@ -4824,6 +4825,7 @@
    "cc-1018",
    "lcm-0207",
    "mkc-0161",
+   "vlm-0105",
    "mkc-0168",
    "pad-0052",
    "cc-1052",
@@ -5191,6 +5193,7 @@
    "ev-navadvipa-lament-after-sannyasa",
    "ev-advaita-feast-shantipura",
    "ev-first-sight-jagannatha-temple",
+   "ev-jagannatha-dasa-rahasa",
    "ev-sarvabhauma-deliverance",
    "ev-ramananda-raya-godavari",
    "ev-tanjore-dhaleshvara",
@@ -5426,6 +5429,7 @@
    "pad-0223",
    "mkc-0151",
    "cc-1033",
+   "vlm-0105",
    "ccd-0055",
    "gkd-0079",
    "gkr-0032",
@@ -5683,6 +5687,7 @@
    "ev-navadvipa-lament-after-sannyasa",
    "ev-danda-broken",
    "ev-remuna-gopala",
+   "ev-jagannatha-dasa-rahasa",
    "ev-ramananda-raya-godavari",
    "ev-tanjore-dhaleshvara",
    "ev-rudrapati-travancore",
@@ -6130,6 +6135,7 @@
   "section": "Господь и Его формы",
   "lilas": [
    "lcm-0023",
+   "vlm-0106",
    "apr-0011",
    "cc-1039",
    "apr-0019",
@@ -6158,6 +6164,7 @@
    "mkc-0164",
    "cc-0310",
    "lcm-0211",
+   "vlm-0105",
    "cc-1046",
    "cc-1047",
    "lcm-0213",
@@ -6323,6 +6330,7 @@
    "pvl-0163",
    "pvl-0170",
    "ccd-0002",
+   "vlm-0101",
    "lcm-0004",
    "mkc-0062",
    "pad-0176",
@@ -6331,6 +6339,7 @@
   ],
   "events": [
    "ev-narada-jagannatha-nilachala",
+   "ev-chodaganga-rahasa-origin",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
@@ -6344,6 +6353,7 @@
    "ev-sarvabhauma-meeting",
    "ev-first-darshan-jagannatha",
    "ev-jagannatha-embraces-gaura",
+   "ev-jagannatha-dasa-rahasa",
    "ev-jagannatha-turns-golden",
    "ev-sarvabhauma-deliverance",
    "ev-nityananda-embraces-balarama-deity",
@@ -13951,6 +13961,7 @@
    "nvl-0065",
    "jcm-0001",
    "lcm-0004",
+   "vlm-0103",
    "jcm-0006",
    "pad-0122",
    "pad-0283",
@@ -20033,6 +20044,8 @@
    "brt-5031",
    "pvl-0163",
    "jvn-0001",
+   "vlm-0103",
+   "vlm-0104",
    "cb-0009",
    "pvl-0052",
    "jcm-0098",
@@ -20655,6 +20668,7 @@
    "nvl-0045",
    "pvl-0153",
    "pvl-0163",
+   "vlm-0104",
    "pad-0572",
    "cb-0009",
    "nvl-0001",
@@ -21253,6 +21267,7 @@
    "brt-7143",
    "jvn-0001",
    "ccd-0002",
+   "vlm-0104",
    "pad-0207",
    "cb-0009",
    "jcm-0098",
@@ -46837,8 +46852,13 @@
   "en": "Balarama Dasa (the Oriya)",
   "note": "ория-преданный, «которому покорны Джаганнатха и Баларама» (ванданы); возможно, поэт из «Панча-сакхи»; не путать с @balarama-dasa-poet",
   "section": "Аллегорические лица",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "vlm-0105",
+   "vlm-0104"
+  ],
+  "events": [
+   "ev-jagannatha-dasa-rahasa"
+  ]
  },
  {
   "id": "@bhagavatacharya",
@@ -47284,9 +47304,12 @@
   "note": "певец, «пением чарующий Джаганнатху» (ванданы); вероятно, поэт-ория",
   "section": "Аллегорические лица",
   "lilas": [
-   "vlm-0002"
+   "vlm-0105",
+   "vlm-0002",
+   "vlm-0104"
   ],
   "events": [
+   "ev-jagannatha-dasa-rahasa",
    "ev-jagannatha-dasa-bhagavata-meeting"
   ]
  },
@@ -47485,7 +47508,12 @@
   "en": "Madhava Pattanayaka",
   "note": "ория-спутник в Пури (ванданы)",
   "section": "Аллегорические лица",
-  "lilas": [],
+  "lilas": [
+   "vlm-0101",
+   "vlm-0102",
+   "vlm-0103",
+   "vlm-0104"
+  ],
   "events": []
  },
  {
@@ -49739,6 +49767,7 @@
   "note": "поэт, автор «Гита-говинды»; его песни вкушал Господь (ЧЧ Ади 13.42)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0107",
    "cc-0238",
    "cc-1075",
    "cc-2010",
@@ -49748,6 +49777,7 @@
    "cc-4170"
   ],
   "events": [
+   "ev-jayadeva-in-puri",
    "ev-keshava-kashmiri-defeat",
    "ev-ramananda-raya-godavari",
    "ev-svarupa-paramananda-arrive",
@@ -55308,6 +55338,98 @@
   "events": [
    "ev-rasikananda-initiation",
    "ev-shyamananda-utkala"
+  ]
+ },
+ {
+  "id": "@achyutananda-odia",
+  "ru": "Ачьютананда (ория, Панчасакха)",
+  "en": "Achyutananda (the Oriya, Panchasakha)",
+  "note": "орийский поэт из «Панчасакхи» («Вайшнава-лиламрита» 1.76, 2.26); не путать с @achyutananda",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0105",
+   "vlm-0104"
+  ],
+  "events": [
+   "ev-jagannatha-dasa-rahasa"
+  ]
+ },
+ {
+  "id": "@ananta-odia",
+  "ru": "Ананта (ория, Панчасакха)",
+  "en": "Ananta (the Oriya, Panchasakha)",
+  "note": "орийский поэт из «Панчасакхи» («Вайшнава-лиламрита» 1.76, 2.26); не путать с @ananta-acharya, @ananta-dasa",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0105",
+   "vlm-0104"
+  ],
+  "events": [
+   "ev-jagannatha-dasa-rahasa"
+  ]
+ },
+ {
+  "id": "@yashovanta-odia",
+  "ru": "Яшованта (ория, Панчасакха)",
+  "en": "Yashovanta (the Oriya, Panchasakha)",
+  "note": "орийский поэт из «Панчасакхи» («Вайшнава-лиламрита» 1.76, 2.26)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0105",
+   "vlm-0104"
+  ],
+  "events": [
+   "ev-jagannatha-dasa-rahasa"
+  ]
+ },
+ {
+  "id": "@jivadeva",
+  "ru": "Дживадева",
+  "en": "Jivadeva",
+  "note": "«великий воитель» в перечне почитаемых вайшнавов Пури («Вайшнава-лиламрита» 1.77); кто это — не выяснено",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0104"
+  ],
+  "events": []
+ },
+ {
+  "id": "@kanhai-odia",
+  "ru": "Канхаи (ория)",
+  "en": "Kanhai (the Oriya)",
+  "note": "построил мандапу рахасы у Бата-Ганеши («Вайшнава-лиламрита» 2.25, 2.27); кто это — не выяснено",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0105"
+  ],
+  "events": [
+   "ev-jagannatha-dasa-rahasa"
+  ]
+ },
+ {
+  "id": "@chodaganga",
+  "ru": "Чодаганга-дева (Чуданга-дева, Гангешвара)",
+  "en": "Chodagangadeva (Chudangadeva)",
+  "note": "царь Ориссы из династии Восточных Гангов (≈1078–1147); по орийской традиции — строитель храма Джаганнатхи",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0106"
+  ],
+  "events": [
+   "ev-chodaganga-rahasa-origin"
+  ]
+ },
+ {
+  "id": "@kamarnava",
+  "ru": "Камарнава",
+  "en": "Kamarnava",
+  "note": "сын и наследник @chodaganga («Вайшнава-лиламрита» 2.42, 2.47)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0106"
+  ],
+  "events": [
+   "ev-chodaganga-rahasa-origin"
   ]
  }
 ]

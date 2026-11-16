@@ -2866,6 +2866,107 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0106",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 31–54",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P00",
+  "order": 900,
+  "date": "XII в. (правление Чодаганги)",
+  "title": "Откуда рахаса: царь Чодаганга, обновление храма, киртан и танец махари",
+  "summary": "Со слов садху: царь Чуданга-дева, преданный Джаганнатхи, обновил храм и построил гарбха-гриху; к освящению гумути, передавая престол сыну Камарнаве, велел сделать мриданги из глины с Годавари, положил начало киртану и поставил махари танцевать перед Господом — это назвали танцем рахасы.",
+  "persons": [
+   "@chodaganga",
+   "@kamarnava",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#godavari"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Предание орийской традиции, за несколько веков до явления Господа; Мадхава передаёт его «из уст садху» (2.32).",
+  "themes": [
+   "jagannatha",
+   "kirtan"
+  ],
+  "event": "ev-chodaganga-rahasa-origin",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.31",
+    "to": "2.54"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.31",
+    "to": "2.54",
+    "line": 40,
+    "line_to": 63,
+    "count": 24,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L40-L63",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L40-L63"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0107",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 55–58 (глава продолжается)",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P00",
+  "order": 905,
+  "date": "XII в.",
+  "title": "Джаядева из Кендули приходит в Пури",
+  "summary": "Брахман Джаядева, автор «Гита-говинды», родом из шасаны Кендули на берегу Прачи, служивший Мадхаве в Ниали, приходит в лучшую из кшетр.",
+  "persons": [
+   "@jayadeva"
+  ],
+  "places": [
+   "#kenduli-prachi",
+   "#niali",
+   "#puri"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Рассказ продолжается на листе 53 (следующая порция) — расширить отрезок стихов. Родина Джаядевы — по орийской традиции; бенгальская традиция помещает Кендули в Бирбхум.",
+  "themes": [
+   "jagannatha"
+  ],
+  "scriptures": [
+   "Гита-говинда"
+  ],
+  "event": "ev-jayadeva-in-puri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.55",
+    "to": "2.58"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.55",
+    "to": "2.58",
+    "line": 64,
+    "line_to": 67,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L64-L67",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L64-L67"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cb-3092",
   "source": "cb",
   "ref": "Антья 6, 38–113",
@@ -129524,6 +129625,79 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/ru/45.md?plain=1#L187-L196",
     "file_en": "lochana/en/45.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/45.md?plain=1#L187-L196"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0105",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 1–30",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P10",
+  "order": 11,
+  "title": "Рахаса в Нилачале: нама-санкиртана и раса-лила у Бата-Ганеши",
+  "summary": "Свами (Джаганнатха Дас) учредил собрание «рахаса» — нама-санкиртану с представлением расы Радхи и Кришны под джханджу, мридангу и караталы, с песнями «Гита-говинды» и «Карнамриты»; мандапу у Бата-Ганеши построил Канхаи; там поют Панчасакха и Гопала Гуру, читают пураны, а Свами слагает «Бхагавату».",
+  "persons": [
+   "@jagannatha-dasa-odia",
+   "@kanhai-odia",
+   "@balarama-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@radha",
+   "@krishna",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#bata-ganesha"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "«Вайшнава-лиламрита» 4.37 (пилот)",
+  "notes": "Господь в эпизоде не участвует; описание учреждения орийской традиции. «Гопала Гуру» (2.27) — тот ли это Гопала-гуру Госвами, ученик Вакрешвары, — не выяснено. Единый облик Радха-Кришны (2.5) у Мадхавы — Джаганнатха; для гаудия-вайшнавов — Шри Чайтанья (ЧЧ Ади 1.5; сноска).",
+  "themes": [
+   "kirtan",
+   "jagannatha"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "scriptures": [
+   "Гита-говинда",
+   "Кришна-карнамрита"
+  ],
+  "divergence": "Известно только орийским источникам.",
+  "event": "ev-jagannatha-dasa-rahasa",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.1",
+    "to": "2.30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.1",
+    "to": "2.30",
+    "line": 6,
+    "line_to": 39,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L6-L39",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L6-L39"
    }
   ],
   "years": [
@@ -266027,6 +266201,55 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0101",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 1, 1–29",
+  "file": "vaishnava-lilamrita/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Мангалачарана: слава Джаганнатхи и Нилачалы",
+  "summary": "Автор воспевает Джаганнатху — сач-чид-ананду, в чьём имени все цели жизни и в чьём теле — лила Радхи и Кришны; Нилачала — вечная обитель, Голока на земле.",
+  "persons": [
+   "@jagannatha-deity",
+   "@madhava-pattanayaka"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Орийские образы (имя, сокрытое в теле Джаганнатхи; Шунья; лила Радха-Кришны в теле Джаганнатхи) пояснены в сносках перевода с позиции гаудия-вайшнавов.",
+  "themes": [
+   "author",
+   "jagannatha"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.1",
+    "to": "1.29"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.1",
+    "to": "1.29",
+    "line": 9,
+    "line_to": 37,
+    "count": 29,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/01.md?plain=1#L9-L37",
+    "file_en": "vaishnava-lilamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/01.md?plain=1#L9-L37"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "ccd-0003",
   "source": "chaitanya-chandrodaya",
   "ref": "Акт 1, пролог, ст. 8–13",
@@ -266349,6 +266572,55 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0102",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 1, 30–53",
+  "file": "vaishnava-lilamrita/ru/01.md",
+  "period": "PX",
+  "order": 2,
+  "title": "Слава вайшнавов Нилачалы",
+  "summary": "Вайшнавы Нилачалы, сделав имя Кришны плотом, собирались вместе, утверждали преданных в имени и, созерцая Джаганнатху — Владыку Радхи, — явили великую лилу в махабхаве; автор обещает немного рассказать об их деяниях.",
+  "persons": [
+   "@madhava-pattanayaka"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "author",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name",
+   "vaishnava"
+  ],
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.30",
+    "to": "1.53"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.30",
+    "to": "1.53",
+    "line": 41,
+    "line_to": 64,
+    "count": 24,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/01.md?plain=1#L41-L64",
+    "file_en": "vaishnava-lilamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/01.md?plain=1#L41-L64"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0004",
   "source": "jayananda-cm",
   "ref": "Статья Н. Васу 1897, вступление (рукопись, колофон Шака 1601)",
@@ -266590,6 +266862,53 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/3.01.md?plain=1#L5-L13",
     "file_en": "murari-gupta/en/3.01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/3.01.md?plain=1#L5-L13"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0103",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 1, 54–68",
+  "file": "vaishnava-lilamrita/ru/01.md",
+  "period": "PX",
+  "order": 3,
+  "title": "Мадхава Паттанаяк о себе: род, гуру Гададхара Пандит, покровитель Рамананда Рай",
+  "summary": "Автор — сын Бхагавана и Хирадеи, из рода каранов, со званием Паттанаяк, родом из Кхандапады, поселился в Пури; гуру — Гададхара Пандит, давший ему Гопала-мантру; опишет слышанное о преданных и виденное своими глазами; Рамананда Рай — его кормилец.",
+  "persons": [
+   "@madhava-pattanayaka",
+   "@gadadhara-pandita",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#khandapada",
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Автор называет себя очевидцем (1.66). Ученичество у Гададхары Пандита соответствует перечню его учеников (ЧЧ Ади 12) лишь косвенно — имени Мадхавы Паттанаяка там нет.",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.54",
+    "to": "1.68"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.54",
+    "to": "1.68",
+    "line": 65,
+    "line_to": 79,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/01.md?plain=1#L65-L79",
+    "file_en": "vaishnava-lilamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/01.md?plain=1#L65-L79"
    }
   ],
   "attestation": 1
@@ -267010,6 +267329,61 @@
   "cc": "Ади 5–6; Ади 1",
   "cb": "Ади 1.11–82",
   "attestation": 5
+ },
+ {
+  "id": "vlm-0104",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 1, 69–82",
+  "file": "vaishnava-lilamrita/ru/01.md",
+  "period": "PX",
+  "order": 4,
+  "title": "О сочинении: «Чайтанья-вилас» и «Вайшнава-лиламрита»; почитаемые вайшнавы",
+  "summary": "Автор сообщает, что в 14-й анк царя сочинил «Чайтанья-вилас» о санньясе Господа, а ныне, в 48-й анк, пишет о лилах вайшнавов; почитает стопы гуру Чайтаньи и Джаганнатхи, Рамананду Рая, Сварупу Дамодару, Панчасакху, Дживадеву и Рудрадеву.",
+  "persons": [
+   "@madhava-pattanayaka",
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@ramananda-raya",
+   "@svarupa-damodara",
+   "@balarama-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@jivadeva",
+   "@prataparudra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Анки Пратапарудры: 14-й ≈ 1516/17 г., 48-й ≈ 1535 г. (по принятому пересчёту; сноска перевода). «Джаганнатха» в 1.74 — по-видимому, Джаганнатха Дас; «Рудрадева» в 1.77 — вероятно, Пратапарудра (отождествления под вопросом). Для гаудия-вайшнавов Шри Чайтанья — не только гуру, но Сам Господь (сноска).",
+  "themes": [
+   "author"
+  ],
+  "date": "48-й анк Пратапарудры (≈1535)",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.69",
+    "to": "1.82"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/01.md",
+    "from": "1.69",
+    "to": "1.82",
+    "line": 84,
+    "line_to": 97,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/01.md?plain=1#L84-L97",
+    "file_en": "vaishnava-lilamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/01.md?plain=1#L84-L97"
+   }
+  ],
+  "attestation": 1
  },
  {
   "id": "pad-0526",
