@@ -13,7 +13,7 @@ Who he is in Krishna's eternal pastimes, Kavi Karnapura tells us:
 
 “Subahu, a cowherd of Vraja, is Uddharana Datta; Mahabahu, a friend in Vraja, is Sriman Mahesha Pandita.” (GGD 129)
 
-Subahu is a cowherd boy (*gopa*) of Vraja, a friend of Krishna and Balarama. He is one of the twelve gopalas —
+Subahu is a cowherd boy (*gopa*) of Vraja. He is one of the twelve gopalas —
 Balarama's principal companions in the service of friendship (*sakhya-rasa*), who came into Gaura's pastimes as the
 associates of Nityananda.[^1] In the lists of the twelve gopalas he stands now second, now eleventh: the
 “Gaura-ganoddesha-dipika” does not number them outright, and Lochana Dasa says simply: “Kala Krishnadasa and Uddharana
@@ -40,7 +40,7 @@ suvarna-vaniks were counted a low caste. Srila Bhaktisiddhanta Sarasvati writes 
 born in that milieu, became a vessel of Nityananda's mercy, and that, following his example, people born in “low”
 castes were able to give up pride in their birth; other trading communities too — the Kaloaras and Bhangaris — turned
 to the devotees of Hari. One of the biographies, following the “Gaudiya-bhashya,” speaks severely of the community's
-former state — want of learning, want of judgement, and a heart given over to thoughts of gold — and says that
+former state — want of learning, want of good sense, and a heart given over to thoughts of gold — and says that
 Nityananda, in the days of His manifest pastimes, delivered the whole community. What raised it was not any merit of
 birth nor any change of custom, but the mercy of Nityananda, which came through His eternal servant. <!-- F11 F12 F13 -->
 
@@ -92,15 +92,15 @@ Himself led kirtana in the homes of all the merchants of Saptagrama; they all to
 with all their hearts, and people marvelled at the love for Krishna that filled them. So the pastimes of sankirtana
 went on at Saptagrama, and, in Vrindavana Dasa's words, they could not be described in a hundred years (CB, Antya
 5.454–460). By Nityananda's mercy the vaniks of that day, though counted low and unlearned, attained prema-bhakti, and
-even a rebellious yavana took shelter at His feet; everywhere Nityananda preached love for the holy name. After Him
-Mahesha Pandita too came to Saptagrama, following the chida-dadhi festival at Panihati. <!-- F17 F18 F19 -->
+even a rebellious yavana took shelter at His feet; everywhere Nityananda preached love for the holy name. According to
+one of the biographies, after the chida-dadhi festival at Panihati Mahesha Pandita too followed Nityananda to Saptagrama. <!-- F17 F18 F19 -->
 
 Narahari Chakravarti in the “Bhakti-ratnakara” describes the same visit thus. Having lived at Khardaha and wishing to
 settle there, Nityananda went to Saptagrama to Uddharana and, showing him His mercy, entered his house with His
 companions. The townspeople came running; in Uddharana's house and in other homes there was great jubilation, and
 Nityananda sang and danced in ecstasy. For Uddharana's sake the merciful Nitai bestowed indescribable mercy on the
 vaniks. Elsewhere the same book says that Nityananda made Uddharana His own; intoxicated with prema, he served the Lord
-with a joyful heart and, living near Him at the Triveni, witnessed many of His pastimes (BR 8.168–186; 12.3722–3752).
+with a joyful heart and, living near Him at the Triveni, witnessed many of His pastimes (BR 12.3722–3752; 8.168–186, 199).
 <!-- F24 F25 -->
 
 Conquered by his pure love, Nityananda ate with great pleasure the rice, vegetables and other dishes that Uddharana
@@ -157,8 +157,8 @@ Vrindavana Dasa, listing the servants of Nityananda, says of him:
 Uddharana Datta disappeared — left this world — in the year 1463 of the Shaka era (1541/42), on the thirteenth lunar
 day of the dark fortnight of the month of Pausha (krishna-trayodashi).[^7] In the calendar of the Sri Chaitanya Saraswat
 Math this is the krishna-trayodashi of the month of Narayana; it next falls on 5 January 2027, and on the same day the
-departure of Srila Mahesha Pandita is honoured. His samadhi is to the west of the temple at Uddharanpur; according to
-some, it is in Vrindavana — so Srila Bhaktisiddhanta, too, writes. <!-- F31 F30 -->
+departure of Srila Mahesha Pandita is honoured. His samadhi is to the west of the temple at Uddharanpur, or, according to
+some, in Vrindavana; so Srila Bhaktisiddhanta, too, writes. <!-- F31 F30 -->
 
 Bereft of him, Saptagrama was orphaned. Narahari Chakravarti relates that when Narottama, on his journey through Gauda,
 entered Saptagrama full of love and asked where Uddharana's house was, someone answered in tears: “There it is. Burning
@@ -168,8 +168,8 @@ though they had lost their sight. Narottama came to his house, found the devotee
 their guru, bowed down to them and went on to Khardaha. <!-- F33 -->
 
 Jahnava Devi, too, visited his shripata. Returning from her pilgrimage, she stopped at Uddharana's house; the vaniks of
-Saptagrama, young and old, came out to meet her, and she, remembering his life, could not contain her feelings. All
-night a sankirtana festival went on there, and in the morning she returned by boat to Khardaha. “Not everything can be
+Saptagrama, young and old, came out to meet her, and she, remembering his life, could not contain her feelings. For
+one night a sankirtana festival went on there, and then she returned by boat to Khardaha. “Not everything can be
 told,” Narahari Chakravarti concludes, “in the accounts of Nityananda's beloved” (BR 11.773–779).[^8] <!-- F32 -->
 
 Uddharana's son was named Shrinivasa Datta Thakura — according to one of the biographies, his only son. When
