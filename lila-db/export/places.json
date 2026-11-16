@@ -4100,6 +4100,7 @@
    "cc-0330",
    "gst-0018",
    "vv-0077",
+   "mpk-0005",
    "vlm-0126",
    "mkc-0234",
    "vv-0067",
@@ -4153,6 +4154,7 @@
    "cc-0084",
    "cc-3128",
    "ccd-0087",
+   "mpk-0006",
    "cc-0353",
    "vlm-0127",
    "kcm-0162",
@@ -4307,6 +4309,8 @@
    "cc-4095",
    "cc-0364",
    "cc-3031",
+   "mpk-0007",
+   "mpk-0008",
    "cc-0365",
    "cc-0363",
    "pv-0016",
@@ -4760,6 +4764,8 @@
    "ev-ramachandra-puri-criticism",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-rupa-sanatana-vrindavana-vairagya",
+   "ev-chaitra-navami-kashi-mishra-gathering",
+   "ev-ramananda-asks-jagannatha-tattva",
    "ev-worlds-pilgrims-srivasa-praise",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-raghavera-jhali",
@@ -11249,7 +11255,8 @@
   "lilas": [
    "cc-1041",
    "cc-2094",
-   "cc-3128"
+   "cc-3128",
+   "mpk-0006"
   ],
   "events": [
    "ev-danda-broken",

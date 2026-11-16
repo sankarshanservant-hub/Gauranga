@@ -4228,6 +4228,7 @@
 - cc (A): Мадхья 16.48–54 — [48–54](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L385-L433) · `cc-2095`
 - mahabhava-prakasha (C): Гл. 1, 46–78 (продолжается) — [1.46–1.78](../mahabhava-prakasha/ru/01.md?plain=1#L58-L94) · `mpk-0004`
 - vaishnava-lilamrita (C): Гл. 5, 1–13 (продолжается) — [5.1–5.13](../vaishnava-lilamrita/ru/05.md?plain=1#L6-L18) · `vlm-0125`
+- mahabhava-prakasha (C): Гл. 1, 79–91 — [1.79–1.91](../mahabhava-prakasha/ru/01.md?plain=1#L99-L111) · `mpk-0005`
 - advaita-prakasha (D): Гл. 19, 117–132 — [117. В день пр–132. Я — ничто](../advaita-prakash/19.md?plain=1#L121-L136) · `apr-0133`
 - advaita-prakasha (D): Гл. 18, 25–43, 55–57 — [25. Услышав о б–43. Услышав эт](../advaita-prakash/18.md?plain=1#L29-L47); [55. Видя велик–57. После праз](../advaita-prakash/18.md?plain=1#L59-L61) · `apr-0120`
 - chaitanya-chandrodaya (A): Акт 10, праздник колесниц, ст. 41–58 — [*(Входит Каши-Мишра.)*–**Царь.** Начни это с сегодняшнего дня; ](../chaitanya-chandrodaya/ru/10.md?plain=1#L663-L835) · `ccd-0096`
@@ -5248,6 +5249,7 @@
 - cc (A): Ади 7.160–162 — [160–162](../chaitanya-charitamrita/ed/vcd/CC_Adi07.md?plain=1#L1620-L1640) · `cc-0084`
 - cc (A): Мадхья 25.215–230 — [215–230](../chaitanya-charitamrita/ed/vcd/CC_Madhya25.md?plain=1#L1792-L1912) · `cc-3128`
 - chaitanya-chandrodaya (A): Акт 9, возвращение, ст. 39–40 — [*(За сценой издалека громкий шум: «Слава–*Так заканчивается девятый акт «Шри Шри ](../chaitanya-chandrodaya/ru/09.md?plain=1#L473-L503) · `ccd-0087`
+- mahabhava-prakasha (C): Гл. 1, 92–98 — [1.92–1.98](../mahabhava-prakasha/ru/01.md?plain=1#L112-L118) · `mpk-0006`
 
 ## Восемнадцать лет в Нилачале: спутники, живущие с Господом, и ежегодные приходы преданных Гауды / Eighteen years in Nīlācala: the associates who lived with the Lord and the yearly visits of the devotees of Gauḍa  `ev-puri-eighteen-years-associates` (1516–1533, возраст 30–47, оценка)
 
@@ -5711,6 +5713,10 @@
 
 - cc (A): Мадхья 19.123–134 — [123–134](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L1023-L1111) · `cc-3031`
 
+## Собрание в доме Каши Мишры в шукла-навами чайтры: Господь в самадхи обнимает Рамананду / The gathering at Kashi Mishra's house on the bright ninth of Chaitra: the Lord in trance embraces Ramananda  `ev-chaitra-navami-kashi-mishra-gathering` (1516–1533, возраст 30–47, оценка)
+
+- mahabhava-prakasha (C): Гл. 1, 99–107 — [1.99–1.107](../mahabhava-prakasha/ru/01.md?plain=1#L119-L127) · `mpk-0007`
+
 ## Рупа в созерцании лилы смеётся при виде вайшнава; взаимное испрашивание прощения / Rupa, absorbed in the vision of the lila, laughs on seeing a Vaishnava; mutual asking of forgiveness  `ev-rupa-laughs-vaishnava-offense` (1516–1533, возраст 30–47, оценка)
 
 - bhakti-ratnakara (B): Таранга 5, 3805–3831 — [3805–3831](../bhakti-ratnakara/ru/05.md?plain=1#L12640-L12718) · `brt-2024`
@@ -5719,6 +5725,10 @@
 
 - vallabha-varta (D): Нидж-варта, варта-прасанг 22; § 1.2 — [2:1–1:9](../vallabha/ru/01.md?plain=1#L38-L66) · `vlb-0002`
 - vallabha-varta (D): Аштасакха ки варта, варта 4 (Кришнадас Адхикари), прасанг 2; § 1.13 — [13:1–1:23](../vallabha/ru/01.md?plain=1#L495-L597) · `vlb-0014`
+
+## Смех Господа в дашами и вопрос Рамананды о таттве Джаганнатхи / The Lord's laughter on dashami and Ramananda's question on the truth of Jagannatha  `ev-ramananda-asks-jagannatha-tattva` (1516–1533, возраст 30–47, оценка)
+
+- mahabhava-prakasha (C): Гл. 1, 108–136 (продолжается) — [1.108–1.136](../mahabhava-prakasha/ru/01.md?plain=1#L132-L160) · `mpk-0008`
 
 ## Существа всех миров приходят на даршан; Господь упрекает преданных за киртан о Нём; шутка Шриваса / Beings of all the worlds come for darśana; the Lord rebukes the devotees for singing of Him; Śrīvāsa's jest  `ev-worlds-pilgrims-srivasa-praise` (1516–1533, возраст 30–47, оценка)
 

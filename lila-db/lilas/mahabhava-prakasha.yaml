@@ -75,3 +75,84 @@
   event: ev-ratha-yatra-gundicha
   verses:
     - {file: "mahabhava-prakasha/ru/01.md", from: "1.46", to: "1.78"}
+
+- id: mpk-0005
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 79–91"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P12
+  order: 301
+  title: "Конец паханди; Канаи становится слугой Прабху и преданных; Шикхи и его брат"
+  summary: "Прабху танцует в паханди с возгласами «Радха! Радха!»; после шествия Канаи прибегает к Его стопам, сопровождает Его, служит преданным — Адвайте, Нитьянанде, Рамананде, пятидесяти девяти вайшнавам; карана Шикхи, сын Навагханы Тадау, с братом служат Прабху и преданным, вкушая остатки их трапезы."
+  persons: ["@kanhai-odia", "@mahaprabhu", "@advaita", "@nityananda", "@ramananda-raya", "@prataparudra", "@shikhi-mahiti", "@murari-mahiti"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13 (бхава Радхи на Ратха-ятре); Антья 2 (Шикхи Махити)"
+  notes: "Отождествление «двух братьев» с Шикхи и Мурари Махити — по ЧЧ, предположительно."
+  themes: [festival, ecstasy]
+  bhava: [radha]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.79", to: "1.91"}
+
+- id: mpk-0006
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 92–98"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P13
+  order: 900
+  title: "Возвращение Махапрабху в Шри Кшетру через Атхаранала; мадхья- и антья-лила"
+  summary: "Вместе с Тапаной и другими преданными Господь снова отправляется в путь и возвращается в Кшетру через Атхаранала; у Его стоп собираются Сварупа Дамодара, Гададхара, Рамананда, Кашишвара, Говинда; семь лет мадхья-лилы Он провёл вдали, восемнадцать лет антья-лилы — в Пури, в киртане."
+  persons: ["@mahaprabhu", "@tapana-mishra", "@svarupa-damodara", "@gadadhara-pandita", "@ramananda-raya", "@kashishvara", "@govinda-servant"]
+  places: ["#atharanala", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 1, 25"
+  notes: ""
+  themes: [pilgrimage]
+  divergence: "Мадхья-лила — семь лет (в ЧЧ Мадхья 1 — шесть)."
+  event: ev-return-to-puri-from-vrindavana
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.92", to: "1.98"}
+
+- id: mpk-0007
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 99–107"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P14
+  order: 40
+  title: "Собрание во дворе Каши Мишры: самадхи Господа, объятие Рамананды, махапрасад"
+  summary: "В шукла-навами чайтры (?) Канаи приходит к Господу; преданные украшают двор Каши Мишры; Господь, сосредоточенный, смотрит вверх, слёзы струятся, глаза застывают, тело погружается в самадхи; придя в себя, Он крепко обнимает Рамананду, усаживает преданных и даёт Сарвабхауме и всем махапрасад."
+  persons: ["@kanhai-odia", "@mahaprabhu", "@kashi-mishra", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Свидетельство очевидца; дата прочитана неуверенно."
+  themes: [ecstasy, prasada]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-chaitra-navami-kashi-mishra-gathering
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.99", to: "1.107"}
+
+- id: mpk-0008
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 108–136 (продолжается)"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P14
+  order: 41
+  title: "Смех Господа: «Я увидел Джаганнатху смеющимся»; вопрос Рамананды о таттве Джаганнатхи"
+  summary: "Утром в дашами после киртана Господь, вне Себя, смеётся и, глядя на Нила-чакру, говорит: «Сегодня Я увидел Джаганнатху смеющимся… увидел свет Брахмана»; со лба Его струится свет; царь растирает Его стопы, Сарвабхаума держит светильник; Рамананда осыпает Его стопы цветами: «Вы — Сам Господь; но в каком бхаве Господь стал Джаганнатхой — без трибханги, без флейты, без Вриндавана?»"
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 8 (Рамананда признаёт Господа); Мадхья 14 (Пратапарудра растирает стопы)"
+  notes: "«Свет Брахмана», «исполненный Брахмана» (1.116–118) — сноски с позицией гаудия-вайшнавов (ЧЧ Ади 2). Ответ Господа — в следующих порциях."
+  themes: [teaching, ecstasy, jagannatha]
+  teaching: [gaura-tattva]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-ramananda-asks-jagannatha-tattva
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.108", to: "1.136"}

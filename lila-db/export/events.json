@@ -11227,6 +11227,7 @@
    "cc-2095",
    "mpk-0004",
    "vlm-0125",
+   "mpk-0005",
    "apr-0133",
    "apr-0120",
    "ccd-0096"
@@ -14286,12 +14287,14 @@
    "apr-0118",
    "cc-0084",
    "cc-3128",
-   "ccd-0087"
+   "ccd-0087",
+   "mpk-0006"
   ],
   "sources": [
    "advaita-prakasha",
    "cc",
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "mahabhava-prakasha"
   ]
  },
  {
@@ -34451,6 +34454,67 @@
   ],
   "sources": [
    "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-chaitra-navami-kashi-mishra-gathering",
+  "title": "Собрание в доме Каши Мишры в шукла-навами чайтры: Господь в самадхи обнимает Рамананду",
+  "title_en": "The gathering at Kashi Mishra's house on the bright ninth of Chaitra: the Lord in trance embraces Ramananda",
+  "period": "P14",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "prasada"
+  ],
+  "calendar": "чайтра, шукла-навами (?)",
+  "notes": "Орийская традиция («Махабхава-пракаша» 1.99–107): преданные украшают двор Каши Мишры; Господь застывает со слезами, глядя вверх, затем обнимает Рамананду и даёт преданным махапрасад.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "mpk-0007"
+  ],
+  "sources": [
+   "mahabhava-prakasha"
+  ]
+ },
+ {
+  "id": "ev-ramananda-asks-jagannatha-tattva",
+  "title": "Смех Господа в дашами и вопрос Рамананды о таттве Джаганнатхи",
+  "title_en": "The Lord's laughter on dashami and Ramananda's question on the truth of Jagannatha",
+  "period": "P14",
+  "order": 41,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "ecstasy"
+  ],
+  "notes": "Орийская традиция («Махабхава-пракаша» 1.108 и далее): после утреннего киртана Господь смеётся: «Сегодня Я увидел Джаганнатху смеющимся»; царь растирает Его стопы, Сарвабхаума держит светильник; Рамананда спрашивает, почему у Джаганнатхи нет трибханги и флейты и в каком бхаве Господь стал Джаганнатхой.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "mpk-0008"
+  ],
+  "sources": [
+   "mahabhava-prakasha"
   ]
  },
  {
