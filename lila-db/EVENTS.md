@@ -144,11 +144,27 @@
 
 ## Джаядева приходит в Пури / Jayadeva comes to Puri  `ev-jayadeva-in-puri`
 
-- vaishnava-lilamrita (C): Гл. 2, 55–58 (глава продолжается) — [2.55–2.58](../vaishnava-lilamrita/ru/02.md?plain=1#L64-L67) · `vlm-0107`
+- vaishnava-lilamrita (C): Гл. 2, 55–58 — [2.55–2.58](../vaishnava-lilamrita/ru/02.md?plain=1#L64-L67) · `vlm-0107`
+
+## Служение танцем «Гита-говинды» в храме Джаганнатхи / The Gita-govinda dance service in the Jagannatha temple  `ev-gita-govinda-seva-puri`
+
+- vaishnava-lilamrita (C): Гл. 2, 59–74 — [2.59–2.74](../vaishnava-lilamrita/ru/02.md?plain=1#L72-L87) · `vlm-0108`
+
+## Шридхара Свами слагает «Бхавартха-дипику» / Shridhara Svami composes the Bhavartha-dipika  `ev-sridhara-svami-bhavartha-dipika`
+
+- vaishnava-lilamrita (C): Гл. 2, 75–101 — [2.75–2.101](../vaishnava-lilamrita/ru/02.md?plain=1#L88-L118) · `vlm-0109`
+
+## Возведение стены Мегханада вокруг храма Джаганнатхи / Building of the Meghanada wall round the Jagannatha temple  `ev-meghanada-wall`
+
+- vaishnava-lilamrita (C): Гл. 2, 102–111 — [2.102–2.111](../vaishnava-lilamrita/ru/02.md?plain=1#L119-L128) · `vlm-0110`
 
 ## Бхригу испытывает Брахму, Шиву и Вишну / Bhrigu tests Brahma, Shiva and Vishnu  `ev-bhrigu-tests-trimurti`
 
 - cb (A): Антья 9, 310–392 — [310–392](../chaitanya-bhagavata/ed/CB_Antya09.md?plain=1#L1543-L1947) · `cb-3117`
+
+## Пурушоттама-дева: чхера-панхара и поход на Канчи / Purushottama-deva: the chhera-panhara and the Kanchi expedition  `ev-purushottama-chhera-panhara-kanchi`
+
+- vaishnava-lilamrita (C): Гл. 2, 112–131 — [2.112–2.131](../vaishnava-lilamrita/ru/02.md?plain=1#L129-L148) · `vlm-0111`
 
 ## Кубера Ачарья и Лабха: зачатие Адвайты / Kubera Acharya and Labha: the conception of Advaita  `ev-advaita-parents-conception`
 

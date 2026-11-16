@@ -2918,13 +2918,13 @@
  {
   "id": "vlm-0107",
   "source": "vaishnava-lilamrita",
-  "ref": "Гл. 2, 55–58 (глава продолжается)",
+  "ref": "Гл. 2, 55–58",
   "file": "vaishnava-lilamrita/ru/02.md",
   "period": "P00",
   "order": 905,
   "date": "XII в.",
   "title": "Джаядева из Кендули приходит в Пури",
-  "summary": "Брахман Джаядева, автор «Гита-говинды», родом из шасаны Кендули на берегу Прачи, служивший Мадхаве в Ниали, приходит в лучшую из кшетр.",
+  "summary": "Брахман Джаядева, родом из шасаны Кендули на берегу Прачи, служивший Мадхаве в Ниали, приходит в лучшую из кшетр.",
   "persons": [
    "@jayadeva"
   ],
@@ -2936,12 +2936,9 @@
   "kind": "pre-advent",
   "authority": "C",
   "parallels": "",
-  "notes": "Рассказ продолжается на листе 53 (следующая порция) — расширить отрезок стихов. Родина Джаядевы — по орийской традиции; бенгальская традиция помещает Кендули в Бирбхум.",
+  "notes": "Родина Джаядевы — по орийской традиции; бенгальская традиция помещает Кендули в Бирбхум.",
   "themes": [
    "jagannatha"
-  ],
-  "scriptures": [
-   "Гита-говинда"
   ],
   "event": "ev-jayadeva-in-puri",
   "verses": [
@@ -2962,6 +2959,59 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L64-L67",
     "file_en": "vaishnava-lilamrita/en/02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L64-L67"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0108",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 59–74",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P00",
+  "order": 906,
+  "date": "XII–XIII вв.",
+  "title": "Джаядева слагает «Гита-говинду» в Пури; танец Падмавати; служение «Гита-говинды» при Бхимадеве",
+  "summary": "Поселившись в Кшетре, Джаядева подле Джаганнатхи слагает «Гита-говинду» и поёт лилу Радхи и Мадхавы, а его жена Падмавати танцует; царь учреждает ежедневное служение танцем «Гита-говинды», поставляет сари из Кендули и строит натамандиру; Джаядева уходит в Пури.",
+  "persons": [
+   "@jayadeva",
+   "@padmavati-jayadeva",
+   "@bhimadeva-odisha",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 2 и Антья 15–17 (Махапрабху вкушает песни «Гита-говинды»)",
+  "notes": "«Тот царь» в 2.68 — по-видимому, Бхимадева (2.74); кончина Джаядевы в Пури — орийская традиция.",
+  "themes": [
+   "jagannatha",
+   "kirtan"
+  ],
+  "scriptures": [
+   "Гита-говинда"
+  ],
+  "event": "ev-gita-govinda-seva-puri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.59",
+    "to": "2.74"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.59",
+    "to": "2.74",
+    "line": 72,
+    "line_to": 87,
+    "count": 16,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L72-L87",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L72-L87"
    }
   ],
   "attestation": 1
@@ -3022,6 +3072,115 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0109",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 75–101",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P00",
+  "order": 910,
+  "title": "Шридхара Свами и «Бхавартха-дипика»",
+  "summary": "Брахман Шридхара из Мареи, служивший Гопинатхе в Ремуне, читает «Гопала-тапани», принимает санньясу в Пури и слагает толкование «Бхагаваты», соединяющее знание с бхакти; пандиты Каши, Навадвипы и Шрирангама принимают его; он живёт махантом в Капиласе, царь Пратапа Бханудева дарует ему право гирлянды.",
+  "persons": [
+   "@shridhara-svami",
+   "@bhanudeva-odisha",
+   "@nrisimha"
+  ],
+  "places": [
+   "#marei",
+   "#remuna",
+   "#puri",
+   "#kapilas",
+   "#kashi",
+   "#navadvipa",
+   "#ranga-kshetra"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 7 (Махапрабху о Шридхаре Свами)",
+  "notes": "Слова о преданности (2.84–85, 2.93) — учение автора.",
+  "themes": [
+   "learning"
+  ],
+  "teaching": [
+   "bhakti-supremacy",
+   "scripture"
+  ],
+  "scriptures": [
+   "Бхавартха-дипика",
+   "Гопала-тапани-упанишада"
+  ],
+  "divergence": "У Мадхавы Шридхара — санньяси школы Шанкары, последователь адвайты, почитатель Шивы (2.81–82, 2.96, 2.99); по Бхактисиддханте — вайшнав линии Вишнусвами, толкование которого принимал Махапрабху (ЧЧ Антья 7). Сноски перевода.",
+  "event": "ev-sridhara-svami-bhavartha-dipika",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.75",
+    "to": "2.101"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.75",
+    "to": "2.101",
+    "line": 88,
+    "line_to": 118,
+    "count": 27,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L88-L118",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L88-L118"
+   }
+  ],
+  "cc": "Антья 7 (упоминание)",
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0110",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 102–111",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P00",
+  "order": 915,
+  "title": "Собака на рахасе и стена Мегханада; драма «Парашурама-виджая» при Капилендре",
+  "summary": "Во время рахасы в храм входит собака; по просьбе людей царь велит возвести стену Мегханада, её строят за год; в храме ставят драму «Парашурама-виджая», и все славят Капилешвара-деву.",
+  "persons": [
+   "@kapilendra",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "jagannatha"
+  ],
+  "event": "ev-meghanada-wall",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.102",
+    "to": "2.111"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.102",
+    "to": "2.111",
+    "line": 119,
+    "line_to": 128,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L119-L128",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L119-L128"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cb-3117",
   "source": "cb",
   "ref": "Антья 9, 310–392",
@@ -3077,6 +3236,56 @@
    }
   ],
   "cb": "Антья 9.310–392",
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0111",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 2, 112–131",
+  "file": "vaishnava-lilamrita/ru/02.md",
+  "period": "P00",
+  "order": 920,
+  "title": "Пурушоттама-дева: Бхога-мандапа, чхера-панхара, победа при Канчи милостью Джаги и Балии",
+  "summary": "Сын Капилендры Пурушоттама-дева строит Бхога-мандапу, даёт труппу танцовщиц для рахасы и по слову служителей сам метёт золотой метлой путь колесниц на Ратха-ятре (чхера-панхара); воюя с Салувой Нарасимхой, берёт в жёны его дочь — Джага и Балия на вороном и белом конях сражались за него; заключительная подпись главы.",
+  "persons": [
+   "@purushottama-deva",
+   "@kapilendra",
+   "@saluva-narasimha",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#kanchi"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 13 (чхера-панхара Пратапарудры); ЧЧ Мадхья 5 (Пурушоттама-дева и Сакши-Гопала)",
+  "notes": "2.131 — колофон главы («говорит Мадхава-дас»).",
+  "themes": [
+   "jagannatha"
+  ],
+  "event": "ev-purushottama-chhera-panhara-kanchi",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.112",
+    "to": "2.131"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/02.md",
+    "from": "2.112",
+    "to": "2.131",
+    "line": 129,
+    "line_to": 148,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/02.md?plain=1#L129-L148",
+    "file_en": "vaishnava-lilamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/02.md?plain=1#L129-L148"
+   }
+  ],
+  "cc": "Мадхья 13 (чхера-панхара при Пратапарудре)",
   "attestation": 1
  },
  {

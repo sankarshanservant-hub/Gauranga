@@ -10,6 +10,7 @@
    "lcm-0022",
    "lcm-0027",
    "pad-0262",
+   "vlm-0109",
    "pvl-0223",
    "cb-0014",
    "jcm-0013",
@@ -1398,6 +1399,7 @@
    "ev-gaura-advent-proclaimed",
    "ev-gaura-reveals-reasons-advent",
    "ev-krishna-resolves-gaura-advent",
+   "ev-sridhara-svami-bhavartha-dipika",
    "ev-advaita-marries-sita",
    "ev-navadvipa-vaishnavas-before-advent",
    "ev-haridasa-muslim-governor",
@@ -3720,6 +3722,10 @@
    "cb-3032",
    "vlm-0106",
    "vlm-0107",
+   "vlm-0108",
+   "vlm-0109",
+   "vlm-0110",
+   "vlm-0111",
    "apr-0011",
    "cc-1039",
    "cc-1028",
@@ -4504,6 +4510,10 @@
    "ev-shiva-receives-ekamra-kashiraja",
    "ev-chodaganga-rahasa-origin",
    "ev-jayadeva-in-puri",
+   "ev-gita-govinda-seva-puri",
+   "ev-sridhara-svami-bhavartha-dipika",
+   "ev-meghanada-wall",
+   "ev-purushottama-chhera-panhara-kanchi",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
@@ -5561,6 +5571,7 @@
   "section": "",
   "lilas": [
    "cb-3032",
+   "vlm-0109",
    "pvl-0210",
    "pvl-0245",
    "apr-0015",
@@ -5703,6 +5714,7 @@
   ],
   "events": [
    "ev-shiva-receives-ekamra-kashiraja",
+   "ev-sridhara-svami-bhavartha-dipika",
    "ev-advaita-meets-madhavendra",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
@@ -6564,6 +6576,7 @@
   "note": "Орисса, близ Баласора; Гопала (Кширачора-Гопинатха)",
   "section": "",
   "lilas": [
+   "vlm-0109",
    "apr-0011",
    "apr-0019",
    "cc-1030",
@@ -6593,6 +6606,7 @@
    "ccd-0089"
   ],
   "events": [
+   "ev-sridhara-svami-bhavartha-dipika",
    "ev-advaita-pilgrimage",
    "ev-madhavendra-kshira-chora",
    "ev-journey-to-puri",
@@ -6738,6 +6752,7 @@
   "note": "у Лочана Даса (A) и Мурари — место встречи с Раманандой; в изд. 1983 г. — Видьянагара",
   "section": "",
   "lilas": [
+   "vlm-0111",
    "cb-0069",
    "lcm-0220",
    "mkc-0175",
@@ -6745,6 +6760,7 @@
    "gkd-0082"
   ],
   "events": [
+   "ev-purushottama-chhera-panhara-kanchi",
    "ev-nityananda-pilgrimage",
    "ev-ramananda-raya-godavari",
    "ev-vishnu-kanchi",
@@ -6832,6 +6848,7 @@
   "note": "на Кавери; Ранганатха",
   "section": "",
   "lilas": [
+   "vlm-0109",
    "cb-0069",
    "cb-1027",
    "cc-1099",
@@ -6860,6 +6877,7 @@
    "brt-4049"
   ],
   "events": [
+   "ev-sridhara-svami-bhavartha-dipika",
    "ev-nityananda-pilgrimage",
    "ev-gita-reading-brahmana",
    "ev-srirangam-chaturmasya",
@@ -12752,6 +12770,32 @@
   ],
   "events": [
    "ev-jayadeva-in-puri"
+  ]
+ },
+ {
+  "id": "#marei",
+  "ru": "Мареи",
+  "en": "Marei",
+  "note": "Орисса; по «Вайшнава-лиламрите» 2.76 — родное селение Шридхары Свами (местоположение не выяснено)",
+  "section": "",
+  "lilas": [
+   "vlm-0109"
+  ],
+  "events": [
+   "ev-sridhara-svami-bhavartha-dipika"
+  ]
+ },
+ {
+  "id": "#kapilas",
+  "ru": "Капилас",
+  "en": "Kapilas",
+  "note": "холм и храм Шивы близ Дхенканала (Орисса); по «Вайшнава-лиламрите» 2.97 — местожительство Шридхары Свами",
+  "section": "",
+  "lilas": [
+   "vlm-0109"
+  ],
+  "events": [
+   "ev-sridhara-svami-bhavartha-dipika"
   ]
  }
 ]

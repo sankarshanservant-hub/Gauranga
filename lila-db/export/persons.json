@@ -6136,6 +6136,9 @@
   "lilas": [
    "lcm-0023",
    "vlm-0106",
+   "vlm-0108",
+   "vlm-0110",
+   "vlm-0111",
    "apr-0011",
    "cc-1039",
    "apr-0019",
@@ -6340,6 +6343,9 @@
   "events": [
    "ev-narada-jagannatha-nilachala",
    "ev-chodaganga-rahasa-origin",
+   "ev-gita-govinda-seva-puri",
+   "ev-meghanada-wall",
+   "ev-purushottama-chhera-panhara-kanchi",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
@@ -6474,6 +6480,7 @@
   "note": "аватара Человеко-льва; бхава Нрисимхи у Гауры",
   "section": "Господь и Его формы",
   "lilas": [
+   "vlm-0109",
    "brt-5069",
    "cb-0090",
    "brt-7050",
@@ -6498,6 +6505,7 @@
    "mkc-0013"
   ],
   "events": [
+   "ev-sridhara-svami-bhavartha-dipika",
    "ev-nityananda-childhood-dramas",
    "ev-astrologer-sarvajna",
    "ev-shrivasa-sees-chaturbhuja",
@@ -48858,6 +48866,7 @@
   "note": "автор комментария «Бхавартха-дипика» на «Бхагавату», почитаемый Господом",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0109",
    "cc-1070",
    "cc-2117",
    "gkd-0166",
@@ -48865,6 +48874,7 @@
    "cc-4081"
   ],
   "events": [
+   "ev-sridhara-svami-bhavartha-dipika",
    "ev-jiyada-nrisimha",
    "ev-jharikhanda-animals",
    "ev-vallabha-bhatta-puri",
@@ -49768,6 +49778,7 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0107",
+   "vlm-0108",
    "cc-0238",
    "cc-1075",
    "cc-2010",
@@ -49778,6 +49789,7 @@
   ],
   "events": [
    "ev-jayadeva-in-puri",
+   "ev-gita-govinda-seva-puri",
    "ev-keshava-kashmiri-defeat",
    "ev-ramananda-raya-godavari",
    "ev-svarupa-paramananda-arrive",
@@ -50882,9 +50894,11 @@
   "note": "царь Ориссы, перенёс Сакши-гопалу в Катак (ЧЧ Мадхья 5.120–124)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0111",
    "cc-1039"
   ],
   "events": [
+   "ev-purushottama-chhera-panhara-kanchi",
    "ev-sakshi-gopala-two-brahmins"
   ],
   "related_by": [
@@ -55430,6 +55444,73 @@
   ],
   "events": [
    "ev-chodaganga-rahasa-origin"
+  ]
+ },
+ {
+  "id": "@padmavati-jayadeva",
+  "ru": "Падмавати, жена Джаядевы",
+  "en": "Padmavati, Jayadeva's wife",
+  "note": "танцевала под песни «Гита-говинды» («Вайшнава-лиламрита» 2.64–65); не путать с @padmavati",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0108"
+  ],
+  "events": [
+   "ev-gita-govinda-seva-puri"
+  ]
+ },
+ {
+  "id": "@bhimadeva-odisha",
+  "ru": "Бхимадева (Анангабхима-дева III)",
+  "en": "Bhimadeva (Anangabhima-deva III)",
+  "note": "царь Ориссы (≈1211–1238); по орийской традиции учредил служение танцем «Гита-говинды» и натамандиру",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0108"
+  ],
+  "events": [
+   "ev-gita-govinda-seva-puri"
+  ]
+ },
+ {
+  "id": "@bhanudeva-odisha",
+  "ru": "Пратапа Бханудева",
+  "en": "Pratapa Bhanudeva",
+  "note": "царь Ориссы (Бханудева III?, XIV в.); почтил Шридхару Свами («Вайшнава-лиламрита» 2.100)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0109"
+  ],
+  "events": [
+   "ev-sridhara-svami-bhavartha-dipika"
+  ]
+ },
+ {
+  "id": "@kapilendra",
+  "ru": "Капилешвара-дева (Капилендра)",
+  "en": "Kapileshvara-deva (Kapilendra)",
+  "note": "царь Ориссы (≈1435–1467), отец @purushottama-deva",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0110",
+   "vlm-0111"
+  ],
+  "events": [
+   "ev-meghanada-wall",
+   "ev-purushottama-chhera-panhara-kanchi"
+  ]
+ },
+ {
+  "id": "@saluva-narasimha",
+  "ru": "Салува Нарасимха",
+  "en": "Saluva Narasimha",
+  "note": "правитель Виджаянагара (Канчи); противник @purushottama-deva в предании о походе на Канчи",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0111"
+  ],
+  "events": [
+   "ev-purushottama-chhera-panhara-kanchi"
   ]
  }
 ]
