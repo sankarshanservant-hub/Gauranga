@@ -364,3 +364,6 @@
 | #bhaduti-mathurapura | Бхадути-Матхурапур | Bhaduti-Mathurapur | деревня в Пабне; по одному из вариантов — дом дяди по матери, где вырос сын @kaliya-krishnadasa (B 933) |
 | #bhedo | Бхедо (Бхадуя) | Bhedo (Bhaduya) | округ Хугли, ≈ 3 мили к югу от #krishnapura-saptagrama, в миле к западу от ст. Бандел; почта Деванандапур; шрипаты @jhadu-thakura и @kalidasa («Анубхашья» к ЧЧ Антья 16.5–14; T 80; B 955) |
 | #shankhanagara | Шанкханагар (Шанкха-нагара) | Shankhanagara | одна из семи деревень #saptagrama, на реке Сарасвати; здесь прежде служили Божеству @kalidasa («Анубхашья» к ЧЧ Антья 16.5–14; T 80, 180; B 955) |
+| #putiya | Путия (Пунтия) | Putiya (Puntia) | округ Раджшахи (ныне Бангладеш); родина @gangamata-gosvamini, царство её отца @naresha-narayana (B 965; T 217) |
+| #shveta-ganga | Швета-ганга | Shveta-ganga | пруд в Пури, у Швета-мадхавы и Матсья-мадхавы, между Акшая-ватой и морем («Уткала-кханда» по B 966, T 217); здесь Ганга пришла к @gangamata-gosvamini |
+| #gangamata-matha | Гангамата-матх (дом Сарвабхаумы) | Gangamata Matha (house of Sarvabhauma) | Пури; прежний дом @sarvabhauma («Анубхашья» к ЧЧ Мадхья 6.8: к югу от храма, Балукханда, у Маркандея-сараса; B 965–967, ГВА — у #shveta-ganga); матх @gangamata-gosvamini, Божество @rasika-raya-gangamata |
