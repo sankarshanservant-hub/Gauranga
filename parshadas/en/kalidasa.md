@@ -150,6 +150,82 @@ Gauda” (CC, Antya 16.38). He was following the word of scripture which Kaviraj
 of a Vaishnava's feet, the water that has washed his feet, and the remnants of his meal help one in bhakti (16.60).
 <!-- F27 -->
 
+## In Nilachala
+Every year the Bengali devotees came to Puri for the Ratha-yatra to see Mahaprabhu. A year after their previous visit to
+the Lord, Kalidasa came with them:[^9]
+
+“The next year all the devotees of Gauda came again and, as before, met the Lord.” (CC, Antya 16.4)
+
+<!-- F28 --> The Lord, who dwells in every heart, at once understood who stood before Him, and was pleased with him:
+
+“When Kalidasa came to Nilachala, Mahaprabhu showed him great mercy.” (CC, Antya 16.39)
+
+<!-- F29 --> Every day, before going in to see Jagannatha, the Lord washed His feet at the Lion Gate:
+
+“Every day, when the Lord went to see Lord Jagannatha, Govinda accompanied Him with His waterpot. On the north side of the Simha-dvara, sheltered behind the gate, at the foot of the twenty-two steps, there was a small pit. In that pit the Lord would wash His feet, and then He would go to see Lord Jagannatha. Mahaprabhu had given Govinda a rule: ‘See that no one takes the water that washes My feet.’ No living being could take that water; only intimate devotees contrived to get it, on one pretext or another.” (CC, Antya 16.40–44)
+
+The pit lay outside the temple courtyard; now, writes Srila Bhaktisiddhanta, houses have been built on the spot.[^10]
+<!-- F30 --> This prohibition is neither a whim nor strictness for its own sake. The “Anubhashya” calls it “the strict rule
+of the Lord, who in the role of acharya teaches the world”: no one but the most intimate devotees may take the water that
+has washed His feet (headings to Antya 16.43–44). <!-- F31 --> And then one day:
+
+“One day, as the Lord was washing His feet there, Kalidasa came and held out his cupped hands. He drank one palmful, two palmfuls, three palmfuls, and then Mahaprabhu stopped him: ‘From now on, do not do this again. With this much I have fulfilled your desire.’” (CC, Antya 16.45–47)
+
+Kalidasa held his hands right beneath the Lord's feet, and no one hindered him.[^11] In stopping him the Lord was not
+angry: He Himself gave him the water from His feet and said that He had fulfilled his desire — and He forbade him to take
+it again so that the acharya's rule should stand. <!-- F32 --> Why then was Kalidasa given what was withheld from others?
+Kaviraja answers:
+
+“Lord Chaitanya, crest jewel of the all-knowing, knew Kalidasa's heart and his faith in the Vaishnavas. Pleased with him for that quality, the Lord showed him a mercy rarely granted to others.” (CC, Antya 16.48–49)
+
+Srila Bhaktisiddhanta says that for his transcendental faith in the Vaishnavas Kalidasa received a mercy unattainable
+even by Brahma and the rest (“Anubhashya,” heading to Antya 16.49). Having honoured the remnants and the foot-dust of
+Vaishnavas all his life, he had gained a store of spiritual merit (*sukriti*), and by its power he received the water from
+the feet of the Lord Himself. <!-- F33 Q6 -->
+
+But the mercy did not end there. Returning from darshan to the house of Kashi Mishra, the Lord took His midday meal, while
+Kalidasa waited at the gate:
+
+“Kalidasa was waiting hopefully at the outer door. Knowing this, the Lord gave Govinda a sign. Govinda understood all the Lord's signs and gave Kalidasa the plate with the Lord's remnants. Such is the greatness of the remnants of Vaishnavas: by taking them Kalidasa received the Lord's mercy in its fullest measure.” (CC, Antya 16.55–57)
+
+By honouring the remnants of the Vaishnavas, Kalidasa came to the remnants of Mahaprabhu Himself. <!-- F34 Q7 -->
+Kaviraja ends the story with the words: “In this way Mahaprabhu lived in Nilachala, and without anyone noticing He showed
+Kalidasa great mercy” (CC, Antya 16.64). No one else knew how deep that mercy was.[^12] <!-- F35 -->
+
+The “Prema-vilasa” too remembers Kalidasa. Sri Jahnava, instructing Nityananda Dasa, says: by the Lord's command no one
+took the water from His feet, and He forbade it to Govinda; but Kalidasa Mahashaya, full of faith, took the foot-water of
+Vaishnavas from every land and the remnants of everyone's meals, and the Lord, knowing this, praised his virtues with His
+own lips. One day at the Lion Gate he drank three handfuls, and the Lord let him drink no more (“Prema-vilasa”
+16.260–266). The poet says that Gaura, the ocean of prema, was then “afraid”: it is not fitting to give the water of His
+own feet to a sadhaka. This is no fear in the worldly sense, but the care of the Lord as a sannyasi, who in the role of
+acharya guards both the rule and the true good of the devotee himself.[^13] <!-- F38 -->
+
+## The Three Powers of Sadhana
+Having told of Kalidasa, Kaviraja turns to his readers:
+
+“Therefore, casting off disgust and shame, take the remnants (*jhuta*) of Vaishnavas; through them you will obtain all you desire. The remnants of Krishna are called *maha-prasada*; when they become the remnants of a devotee, they are called *maha-maha-prasada*. The dust of a devotee's feet, the water that has washed his feet, and the remnants of what he has eaten — these three are the strength of spiritual practice. By serving these three one attains love for Krishna; all the scriptures declare this loudly again and again. Therefore I tell you over and over: listen, O devotees! Serve these three with faith. These three bring the joy of Krishna's name and of love for Him, and through them one gains Krishna's grace. Kalidasa is the witness to this.” (CC, Antya 16.58–63)
+
+<!-- Q8 --> The dust of a Vaishnava's feet, the water from his feet and the remnants of his meal are three means that bestow
+bhakti. Whoever serves them sincerely and with faith attains the name of Krishna free of offences, and through the name,
+prema, the highest goal of life. Kalidasa is the living witness to this. <!-- I2 --> So too, in the review of the chapters
+at the end of the “Charitamrita,” Kaviraja says of this chapter:
+
+“In the sixteenth the Lord showed mercy to Kalidasa and revealed the fruit of eating the remnants of Vaishnavas.” (CC, Antya 20.128)
+
+<!-- F37 -->
+
+## Significance
+Kalidasa is an example of faith in the Vaishnavas that stands above birth. He sought not honour but the dust of the feet
+and the remnants of devotees, whatever their birth, and in humility called himself fallen before a Vaishnava of the
+sweepers' caste. And the Lord, who is pleased with one who has faith in His devotees and honours their remnants, showed
+him a mercy rarely granted to others: He gave him the water of His feet and the remnants of His own meal. There is nothing
+the Lord would not give to such a devotee. <!-- I1 I3 F33 -->
+
+One of the biographies remarks that Krishnadasa Kaviraja recorded this example for our sake — for those who seek the
+highest good on the path of pure devotion. Yet Kalidasa is not to be imitated outwardly: his deeds were born of faith in
+the transcendental nature of the Vaishnava, and without that faith, as Srila Bhaktisiddhanta warns, imitation becomes only
+an offence. <!-- I5 -->
+
 [^1]: Elsewhere the same biography that names Bhedo writes that Kalidasa lived in Shankhanagara — probably because his
     Deity was served there. Srila Bhaktisiddhanta names Bhedo as Kalidasa's shripat.
 [^2]: One of the biographies calls Kalidasa's Deity Madana-gopala and writes that He, formerly in Shankhanagara, is now
@@ -175,3 +251,15 @@ of a Vaishnava's feet, the water that has washed his feet, and the remnants of h
     “Hari-bhakti-vilasa” quotes it from the “Itihasa-samuchchaya.”
 [^8]: In one of the biographies the order is reversed: Kalidasa first hid nearby, and then came back and smeared himself
     with the dust. The “Charitamrita” says he first smeared himself and then hid.
+[^9]: One of the biographies writes that Kalidasa came “in the second year” of the yearly custom; the “Charitamrita”
+    (Antya 16.4) says only “the next year,” without counting years.
+[^10]: One of the biographies says in one place that Kalidasa himself carried the vessel of water for washing the Lord's
+    feet; elsewhere the same biography, like the “Charitamrita” (Antya 16.40), names Govinda. Govinda is correct.
+[^11]: One of the biographies writes that the Lord stopped Kalidasa when he held out his hands for the fourth time, and
+    that after His meal the Lord signalled to Govinda to bring prasada to Himself. According to the “Charitamrita,” the Lord
+    stopped him after three handfuls (Antya 16.46) and had Govinda give His remnants to Kalidasa (16.55–56).
+[^12]: According to one of the biographies, the Lord from Nilachala showed this mercy to Kalidasa while he lived in Bengal.
+    The “Charitamrita” speaks of mercy shown in Nilachala “without anyone noticing” (Antya 16.64); it says nothing of mercy
+    from afar.
+[^13]: The “Prema-vilasa” is a later and less reliable source than the “Charitamrita”; according to the “Charitamrita,”
+    when the Lord stopped Kalidasa He said: “With this much I have fulfilled your desire” (Antya 16.47).
