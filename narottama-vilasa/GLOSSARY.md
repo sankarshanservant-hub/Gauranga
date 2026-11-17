@@ -47,3 +47,4 @@
 | নীলাচল, ক্ষেত্র | Нилачала, Кшетра | Nilachala, the Kshetra |
 | গৌড় | Гауда | Gauda |
 | নবদ্বীপ, নদীয়া | Навадвипа, Надия | Navadvipa, Nadia |
+| কমলাকর পিপলাই | Камалакара Пиплаи (так в тексте НВ: পিপলাই; в «Бхакти-ратнакаре», `lila-db/PERSONS.md` и статьях `parshadas/` — **Пиппалаи**, পিপ্পলাই, @kamalakara-pippalai; текст перевода не менялся — заметка 2026-11-17, проверка @minaketana-ramadasa) | Kamalakara Piplai (NV spelling; elsewhere Pippalai) |
