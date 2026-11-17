@@ -37,6 +37,7 @@
 | @gaura-gadadhara-champahatti | Гаура-Гададхара — Божества в Чампахатти | Gaura-Gadadhara, the Deities of Champahatti | древние Божества, которым служил Двиджа Ванинатха (Чампахатта, Ритудвипа, Навадвипа; B 141) |
 | @gaura-deity-katwa | Божество Гауранги в Катве (у Гададхары Даса) | the Deity of Gauranga at Katwa (of Gadadhara Dasa) | установил Гададхара Дас после ухода Шачи и Вишнуприи; храм «Махапрабху-бари» на месте санньясы (B 815, T 84, БР 8.453) |
 | @bala-gopala-gadadhara-dasa | Бала-Гопала — Божество Гададхары Даса | Bala-Gopala, the Deity of Gadadhara Dasa | в его храме (Ариядаха); Нитьянанда прижал Его к груди (ЧБ Антья 5.374–377) |
+| @rasika-raya-gangamata | Шри Расика Рай — Божество Гангаматы Госвамини | Sri Rasika Raya, the Deity of Gangamata Gosvamini | Кришна; прежде — в доме @chandra-sharma-jaipur в Джайпуре; по велению Джаганнатхи во сне принесён к @gangamata-gosvamini в Пури (Шветаганга); ныне Радха-Расикарай в Гангамата-матхе (B 968–971; T 218); не путать с Расикараем Чандрашекхары из Шрикханды |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать · {карточка: в Кришна-лиле — Яшода, царица Враджа (ГГД 37) и др.; гуру — Адвайта Ачарья} |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара · {карточка: в Кришна-лиле — Нанда Махараджа, царь Враджа (ГГД 37) и др.; гуру — Адвайта Ачарья; происхождение — Шрихатта (Силхет)} |
@@ -805,3 +806,5 @@
 | @mahamaya-govinda | Махамая (жена Говинды Кавираджи) | Mahamaya (Govinda Kaviraja's wife) | милость ей оказал Шриниваса («Према-виласа» 20.15–16; B 944); не путать с @durga (Махамайя) |
 | @ghanashyama-kaviraja | Гханашьяма (внук Говинды Кавираджи) | Ghanashyama (Govinda Kaviraja's grandson) | сын @divyasimha-kaviraja (B 944); не путать с @narahari-chakravarti (Гханашьяма Дас) |
 | @madana-gopala-bhedo | Мадана-гопала — Божество Джхаду Тхакура (Бхедо) | Madana-gopala, the Deity of Jhadu Thakura (Bhedo) | Божество @jhadu-thakura в #bhedo; во времена «Анубхашьи» Ему служил рамаят Рамапрасад дас («Анубхашья» к ЧЧ Антья 16.5–14; T 80); B 955 ошибочно называет Его Божеством @kalidasa; не путать с @madana-gopala-deity, @madana-gopala-mamgachi |
+| @chandra-sharma-jaipur | Чандра Шарма (брахман из Джайпура) | Chandra Sharma (the brahmana of Jaipur) | в его доме прежде пребывал @rasika-raya-gangamata; по сну Джаганнатхи принёс Его к @gangamata-gosvamini (B 968, 970; T 218) |
+| @banamali-dasa-gangamata | Банамали Дас (преемник служения Расика Раю) | Banamali Dasa (successor in the service of Rasika Raya) | ему @gangamata-gosvamini вверила служение @rasika-raya-gangamata (B 971); не путать с @vanamali-acharya, @vanamali-dasa-vaidya, @banamali-lal-gosvami |
