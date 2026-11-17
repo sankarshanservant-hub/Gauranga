@@ -510,6 +510,54 @@ These books became a support for the acharyas who came after. Bhaktivinoda Thaku
 “Govinda-bhashya,” “Siddhanta-ratna” and “Prameya-ratnavali” in Puri, and later himself published many of his works.
 <!-- F84 -->
 
+## Departure
+How many years Baladeva lived is not known. His commentary on Sri Rupa's “Stava-mala” — more precisely, on the
+“Utkalika-vallari” included in it — is dated 1686 Shaka (1764); he was then perhaps about eighty-six, and this was
+evidently his last work. If he disappeared a few years later, he remained in this world for about ninety years.
+According to one of the biographies, Baladeva and his friend Krishnadeva Sarvabhauma departed from this world before the
+1770s, and their places were taken by disciples of the next two generations, among them Vrindavana-chandra Chakravarti
+and Bankavihari Vidyabhushana.[^40] According to other accounts, the dated commentary on the “Stava-mala” shows that
+Baladeva was still alive after the battle of Plassey (1757), and he disappeared in 1768.[^41] <!-- F53 F54 F55 -->
+
+The sources do not name the place of his departure. In the Vaishnava calendar of the Sri Chaitanya Saraswat Math the day
+of his departure is Gaura-dashami of the month of Trivikrama, the same day as Ganga-dashahara and the appearance of
+Gangamata Gosvamini (in 2026, 24 June); his appearance day is not in the calendar, and the biographies give neither the
+one nor the other. <!-- F56 -->
+
+## In Our Line
+In the succession of true gurus of the Brahma-Madhva-Gaudiya-Sarasvata-sampradaya Baladeva is remembered constantly.
+Srila Bhaktisiddhanta Sarasvati sings in his parampara song: *vishvanatha-bhakta-satha, baladeva, jagannatha, tanra priya
+bhaktivinoda* — “Vishvanatha with his devotees, Baladeva, Jagannatha, his dear Bhaktivinoda”: homage to Vishvanatha and
+all his disciples, to Baladeva, to Baladeva's disciple Jagannatha and to his dear follower Bhaktivinoda. What makes a
+true guru is not a link of initiation in a hereditary chain but complete dedication to the highest truth
+(brahma-nishtha). Answering his opponents, Srila Bhaktisiddhanta spoke in accord with the teaching of the Gosvamis as
+carried on by Vishvanatha, Baladeva, Jagannatha Dasa and Gaurakishora Dasa Babaji. <!-- F85 Q12 F87 -->
+
+In the chart of the Brahma-Madhva-Gaudiya-sampradaya given by Srila Sridhar Maharaj, Baladeva Vidyabhushana stands before
+Jagannatha Dasa Babaji. Asked about the gap of almost a century between them, Srila Sridhar Maharaj answered: our
+guru-parampara follows the ideal and not the body; it is a succession of instructing (shiksha) gurus. Baladeva's
+contribution, he says, is “not less important than that of the other great pillars of the line.” In a bodily sense he
+may have been a member of another line, the Madhva-sampradaya, but his contribution, especially his commentary on the
+“Vedanta-sutra,” which drew people to Gaudiya Vaishnavism, cannot be ignored, and our acharyas accepted it according to
+the degree, substance and purity of his thought. “We cannot reject him. He is our guru” (“Sri Guru and His Grace”).
+<!-- F88 -->
+
+The guru-parampara, Srila Sridhar Maharaj explains, is a current of spiritual truth and not a bodily succession: wherever
+by Krishna's will the highest is found, there it is accepted — from shastra-guru, shiksha-guru, diksha-guru, nama-guru.
+So too Baladeva's contribution has been accepted by our acharyas according to the substance and purity of his thought.
+<!-- I7 -->
+
+Our acharyas relied on him as a witness, too. Sanyal's book on Sri Krishna-Chaitanya, published by the Gaudiya Math,
+names among the later authors on whom it rests “Sri Baladeva Vidyabhushana, the first Gaudiya commentator of the
+‘Brahma-sutra.’” “Our Teachers” compares Baladeva's contribution with that of Sri Jiva and calls his works a treasure
+offered at the lotus feet of Sri Rupa. <!-- F89 I8 -->
+
+After the disappearance of Vishvanatha Chakravarti and Baladeva Vidyabhushana, according to one of the biographies, a
+fourth “dark age” began for Bengal Vaishnavism; “Our Teachers” adds that after Srila Baladeva's departure no acharya
+remained who was filled with his spirit of service, only some babajis absorbed in bhajana stayed true to the teaching,
+and pseudo-Vaishnava sects spread. But the Madhva-Gaudiya succession in the spirit of Rupa was not broken: teachers are
+sometimes solitary bhajananandis, sometimes preaching goshthyanandis, and the line that passed through Baladeva reached,
+through Jagannatha Dasa Babaji and Bhaktivinoda, Srila Bhaktisiddhanta. <!-- F86 -->
 
 [^1]: According to one biography, the name “Govinda Dasa” comes from his service to Rupa's Govinda; according to
     another, “Ekanti Govinda Dasa” is the name he received on initiation as a vairagi.
@@ -602,3 +650,10 @@ These books became a support for the acharyas who came after. Bhaktivinoda Thaku
 [^38]: The biography gives the year 1825; the date is plainly wrong.
 [^39]: The translation of the opening of the verse is ours (the text has not been checked in our repository). Murari is
     Krishna.
+[^40]: The printed text of this biography reads “before the seventh decade of the seventeenth century”; the sense is
+    the eighteenth. It also says that he “attained nirvana” — not our word: a Vaishnava does not dissolve into the
+    impersonal but leaves this world for the service of the Lord. The chronology is not consistent here either:
+    Bankavihari, according to the same biography, finished his book in 1722, when Baladeva was in his prime.
+    Bankavihari Vidyabhushana should not be confused with Baladeva.
+[^41]: Thus the year of departure is: after 1764, at about ninety, “before the 1770s” — according to one biography;
+    after 1757 — according to another; 1768 — according to a third.
