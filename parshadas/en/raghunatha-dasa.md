@@ -70,7 +70,7 @@ intimate disciple of Advaita, a devotee of the Lord, favoured by Vasudeva Datta.
 Raghunatha's diksha-guru (on Adi 10.41 and 10.91), and explains Karnapura's words “his disciple is Raghunatha” thus:
 “that is, an object of his mercy — not that he received initiation from him in particular” (on Antya 6.263).[^5]
 Raghunatha's kinsman and uncle Kalidasa was also a devotee of Mahaprabhu; he lived in Shankhanagara — or, by another
-account, in the village of Bheda (Bhaduya), some three miles south of Krishnapur and a mile west of the present Bandel
+account, in the village of Bhedo (Bhaduya), some three miles south of Krishnapur and a mile west of the present Bandel
 station. <!-- F13 F86 F87 -->
 
 Balarama Acharya was a recipient of Haridasa Thakura's mercy. After converting the harlot whom Ramachandra Khan had sent
