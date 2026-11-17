@@ -271635,6 +271635,51 @@
   "attestation": 1
  },
  {
+  "id": "gcc-0001",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 1, 1–12",
+  "file": "gaura-charita-chintamani/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Мангалачарана: слава Шри Гуру; смирение Нарахари",
+  "summary": "Нарахари (Гханашьяма Дас) в строфах разных размеров и в песнях на раги славит Шри Гурудеву, чьи стопы сокрушают беды и дают бхакти, называет себя падшим и лицемерным, молит о жизни у стоп гуру и о даре чистой бхакти; отвращается от общества тех, кто отвернулся от гуру; затем просит прощения за нарушение порядка в перечне спутников Господа.",
+  "persons": [
+   "@narahari-chakravarti"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Каждая строфа — в своём размере (чхандах) или раге; Нарахари — автор трактата о метрике «Чхандах-самудра».",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.1",
+    "to": "1.12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.1",
+    "to": "1.12",
+    "line": 11,
+    "line_to": 120,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/01.md?plain=1#L11-L120",
+    "file_en": "gaura-charita-chintamani/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/01.md?plain=1#L11-L120"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkr-0009",
   "source": "govinda-karcha",
   "ref": "Часть 1, 173",
@@ -272124,6 +272169,65 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/01.md?plain=1#L55-L85",
     "file_en": "divakara-jagannatha-charitamrita/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/01.md?plain=1#L55-L85"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gcc-0002",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 1, 13–32",
+  "file": "gaura-charita-chintamani/ru/01.md",
+  "period": "PX",
+  "order": 2,
+  "title": "Слава Гауре-Говинде, Нитьянанде, Адвайте и сотням спутников; ачарьи после Господа",
+  "summary": "Слава Гауре-Говинде, опьянённому санкиртаной в Навадвипе, Его родителям, Вишварупе, Лакшми и Вишнуприе; Нитьянанде и Адвайте с их родными; затем долгий перечень спутников — от Шриваса, Гададхары, Мадхавендры и Ишвары Пури до Шести Госвами, Сварупы, Рамананды, Сарвабхаумы, Харидаса, Пратапарудры и многих других; отдельные строфы — Виттхаланатхе из рода Валлабхи, Кришнадасу Кавираджу, Шринивасе, Нароттаме, Шьямананде, Хемалате, Рамачандре Кавираджу, Расике Мурари и другим преемникам. Нарахари просит прощения за порядок имён: преданных Гауры бесконечно много.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita",
+   "@srivasa",
+   "@gadadhara-pandita",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@krishnadasa-kaviraja",
+   "@srinivasa-acharya",
+   "@narottama-dasa",
+   "@shyamananda",
+   "@rasikananda"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "«Вайшнава-вандана» Девакинанданы; «Гаура-ганоддеша-дипика»",
+  "notes": "Перечень спутников (вандана) с вкраплением преемников XVI–XVII вв.",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.13",
+    "to": "1.32"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.13",
+    "to": "1.32",
+    "line": 131,
+    "line_to": 394,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/01.md?plain=1#L131-L394",
+    "file_en": "gaura-charita-chintamani/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/01.md?plain=1#L131-L394"
    }
   ],
   "attestation": 1
