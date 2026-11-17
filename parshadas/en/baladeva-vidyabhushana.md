@@ -260,6 +260,257 @@ and residents of Vrindavana rejoiced, and Vishvanatha blessed him and congratula
 Krishnadeva. He understood that he was leaving two experienced leaders who would carry on the community's work after his
 departure, and in his old age he was very happy. <!-- F47 -->
 
+## Keeper of the Flame
+On his return Baladeva began a commentary on the “Shat-sandarbha.” Soon afterwards Vishvanatha departed from this
+world, and it seemed to the Vaishnavas that a great lamp had gone out. Then Baladeva was recognized as the keeper of
+the flame — the foremost among those who understood Sri Chaitanya's teaching. After his teacher's disappearance he
+successfully led the Gaudiya Vaishnava movement from its centre in Vraja. One of the biographies remarks that Orissa's
+contribution to the success of this movement is no less than Bengal's, and that among the leaders from Orissa Baladeva
+is especially important — both as a leader at a turning point and as the author of a great many books. <!-- F48 -->
+
+He possessed an extraordinary mind and great strength of spirit: they sufficed not only to shield the sampradaya from
+the hostility of its rivals but to surpass them in thought. The age of Vishvanatha and Baladeva is the second notable
+period in the history of Gaudiya Vaishnava literature. Baladeva's life, says the same biography, was marked by two
+“great victories”: in the clash with a rival sampradaya, and in the Gaudiya exposition of Vedanta and the Upanishads —
+in commentaries and independent treatises. Both victories were service: the first preserved the seva of Govinda, the
+second showed the world that Mahaprabhu's teaching stands on the shruti. He was a writer of many-sided gifts, and in
+preaching as zealous as Sri Jiva. <!-- F49 -->
+
+Of his disciples the biographies name two as the most eminent, perfected souls: Sri Uddhava Dasa and Sri Nandana
+Mishra.[^23] Nandana Mishra, Baladeva's learned disciple, wrote a commentary on his “Siddhanta-darpana” and in its last
+verse named its author. <!-- F51 -->
+
+Through Uddhava Dasa a line runs from Baladeva to Jagannatha Dasa Babaji. Uddhava's disciple was Madhusudana Dasa — the
+celebrated Siddha Madhusudana Dasa Babaji of Surya-kunda — and he gave the dress of a babaji (paramahamsa-vesha) to
+Jagannatha Dasa Babaji.[^24] <!-- F52 -->
+
+## His Books: Philosophy
+Baladeva wrote on philosophy, grammar, poetry and poetics, and incidentally on history; some of his works are
+independent, others are commentaries on earlier books. The first and most famous of them is the “Govinda-bhashya,” a
+commentary on Vedanta in the light of the Gaudiya Vaishnava teaching of achintya-bhedabheda. As the last of the great
+expositors of Vedanta, Baladeva could survey all its currents and show the excellence and completeness of his own
+teaching. The “Govinda-bhashya” became the generally accepted Gaudiya commentary on Vedanta, and N. Sanyal's book on
+Mahaprabhu, published by the Gaudiya Math with a preface by Srila Bhaktisiddhanta, calls Sri Baladeva Vidyabhushana “the
+first Gaudiya commentator of the ‘Brahma-sutra.’” <!-- F60 F61 -->
+
+The chief position Baladeva refutes in the “Govinda-bhashya” and his other philosophical works is the kevala-advaita of
+the Mayavadis: the doctrine of a Brahman without qualities, of the falsity of the world and of the jiva's having no real
+existence. His arguments not only defend theism but point to achintya-bhedabheda: the relation of Ishvara and the jivas,
+inconceivable to the human mind, is at once non-difference and difference. The shruti contains statements of both kinds;
+exclusive dvaita and exclusive advaita each take only their own passages, while Baladeva showed that every word of the
+shruti carries equal weight and gave a place to both in achintya-bhedabheda — without logical flaw. This is no bargain
+struck between two schools: so the shruti itself teaches, and so Mahaprabhu taught.[^25] His arguments are complete,
+clear and subtle, his works a notable contribution to Indian theistic thought, and through them the Gaudiyas came into
+living contact with other schools and took a prominent place in the religious life of India. <!-- I1 I2 -->
+
+Why he undertook commentaries on the recognized shastras is explained by one of the biographies. Before Radha-Damodara
+and Baladeva, Gaudiya authors wrote independently and in a new way, but their works were valued only within the
+sampradaya; outside it they were not accepted as Vedanta and the Upanishads were. Baladeva therefore resolved to expound
+the principal recognized scriptures and show the world that Vedanta, the Upanishads and the ancient scholars support
+Gaudiya philosophy. Otherwise — for the religious mind of India is very conservative — the Gaudiyas would have been
+rejected as a dharma without support in Vedanta, and the treasures of the Gosvamis would have gone unappreciated.
+<!-- I3 -->
+
+On the “Govinda-bhashya” he also wrote a sub-commentary of his own, but later: at its beginning the “Siddhanta-ratna” is
+mentioned, which itself already refers to the “Govinda-bhashya” (8.31). The sub-commentary opens with obeisance to Sri
+Govinda, whom Rupa and Sanatana revealed, they “who dispelled the darkness of Mayavada”; then comes praise of Jiva: “May
+Jiva be my refuge, who freed all thinkers from the opposing doctrines — Sankhya, the Pashupatas, vivarta-vada”; then
+obeisance to Sri Chaitanya, Nityananda, Advaita and the other associates; then the history of the descent of the
+Gaudiya-sampradaya from Madhva and a list of acharyas from Madhva to Sri Chaitanya, beginning with Madhva's two direct
+disciples, Padmanabha and Narahari. This list was evidently taken from the “Gaura-ganoddesha-dipika,” Gopala Guru's
+“Sadhana-paddhati” and the writings of Dhyanachandra, Chaitanya Dasa and Manohara Dasa.[^26] <!-- F62 Q4 -->
+
+At the very beginning Baladeva gives notice that the views and arguments of his commentary will follow the
+“Srimad-Bhagavata-purana,” approved by Sri Chaitanya, and the teaching of Madhva — “according to the view of Madhva Muni
+accepted by Sri Chaitanya.” One of the biographies concludes from this that the teaching of the Gaudiyas is at root the
+system of Madhva, polished by the teaching of the “Bhagavata” and given its own philosophical form by what Sri Chaitanya
+emphasized. A Gaudiya Vaishnava would put it more precisely: the Gaudiyas accept the succession from Madhva, but what
+Mahaprabhu “emphasized” — Radha-Govinda, the prema of Vraja, achintya-bhedabheda — is His own gift, not the polishing of
+another's system.[^27] <!-- F63 I4 -->
+
+The “Siddhanta-ratna,” or “Bhashya-pithaka,” is an independent work full of arguments that supports the nine principles
+established in the “Govinda-bhashya”: “May this golden pedestal, the ‘Siddhanta-ratna,’ be the foundation of the
+commentary on Vedanta that reveals Krishna and contains the nine truths” (8.32). It has eight chapters (padas); their
+subjects are the highest goal of the jiva (parama-purushartha), the greatness of Bhagavan, the supreme reality of
+Vishnu, His being known as the object of all the Vedas, the refutation of the impersonal Brahman and of the doctrine of
+“experience alone,” and finally the arguments that the highest goal is bhakti.[^28] It begins with obeisance to
+Shyamasundara, Sri Chaitanya, Vyasa, Rupa and Sanatana — the two who rose like two moons and dispelled the darkness of
+Mayavada; it ends with the glorification of Sri Govinda, and its closing verse says: “May the bee of my heart drink deep
+of the honey of prema from the flowers of truth brought by Sri Chaitanya and spread by Ananda-tirtha (Madhva).”[^29]
+Baladeva himself wrote a commentary on the “Siddhanta-ratna”; one of the biographies calls it the “Sukshma.” It is he,
+and not Rupa, who actually wrote the “Siddhanta-ratna” and the “Kavya-kaustubha,” which are sometimes ascribed to Rupa
+Gosvami. <!-- F64 Q3 F65 -->
+
+The “Prameya-ratnavali” is a short and very important treatise on Gaudiya Vaishnava philosophy, set out in nine
+principles (prameyas). It begins with obeisance to the three principal Deities of the Gaudiyas — Govinda, Gopinatha and
+Madana-mohana — with a prayer for mercy to write of the nine most subtle truths; the second verse is obeisance to Sri
+Chaitanya with Nityananda and Advaita; in the next five he traces the Gaudiya-sampradaya from Madhva and lists the
+acharyas from Madhva to Sri Chaitanya. The nine principles are named in the verse *sri-madhvah praha vishnum paratamam
+akhilamnaya-vedyam…*, which says that Sri Madhvacharya taught them — and Sri Chaitanya Mahaprabhu taught the same
+principles:[^30] <!-- F58 Q5 -->
+
+1. Vishnu is the highest truth.
+2. He is known through the Vedas: He is their subject.
+3. The world is real.
+4. The jivas are distinct from Vishnu.
+5. The jivas are servants of Vishnu.
+6. Among souls there are grades: some are liberated, others bound.
+7. Liberation is the attainment of Vishnu's lotus feet.
+8. The way to it is unbroken bhakti.
+9. The means of true knowledge are three: shruti, direct perception and inference. <!-- F57 -->
+
+Each truth then receives a chapter of its own. Baladeva unfolds them according to the Gaudiya teaching, citing the
+Upanishads (the Katha, Shvetashvatara, “Gopala-tapani,” Mundaka, Chhandogya and Isha), the “Bhagavata,” the
+“Vishnu-purana,” the “Narada-pancharatra,” the “Mahabharata,” the “Gita,” the “Harivamsha,” the “Gautamiya-tantra,” the
+smritis, the “Vedanta-sutra,” the Kauthumi-shakha of the Vedas and the “Brahma-samhita,” and with a verse of the
+“Padma-purana” (the very one the Ramanandis cited in Galta) he shows that one must follow one of the four recognized
+Vaishnava sampradayas. At the end he asks the learned to fix in their hearts these nine pearls of truth set forth by
+Madhva Ananda; and the last verse is an obeisance to Sri Chaitanya, “the soul of Murari, the rasika,” by whose mercy the
+Gajapati Prataparudra was cleansed of all faults and found peace. The same verse opens the “Siddhanta-darpana.” Baladeva
+was evidently gladdened by the thought that Sri Chaitanya fully blessed Prataparudra, the ruler of his native Orissa.
+<!-- F57 F58 F59 -->
+
+The “Prameya-ratnavali,” together with the Sanskrit commentary “Kanti-mala,” was published by Gokula Gosvami and by the
+Calcutta Gaudiya Math; the author of the “Kanti-mala” called himself by the title “Vedanta-vagisha,” usual among
+pandits. Sanyal's book, published by the Gaudiya Math, says that this position of Madhva was specially accepted by
+Shripada Baladeva in the “Prameya-ratnavali,” “which finally establishes the descent of the Sri Gaudiya-sampradaya,
+following Sri Krishna-Chaitanya, from the school of Madhva and justifies the name accepted among the devotees —
+Madhva-Gaudiya (or Brahma-Madhva-Gaudiya) sampradaya.” So Srila Bhaktisiddhanta calls it; and the same tradition of the
+Gaudiya Vaishnavas, from Kavi Karnapura to Baladeva, says that Sri Chaitanya received initiation in the line of the
+Brahma-sampradaya, through Ishvara Puri — hence the name “Brahma-Madhva-Gaudiya-sampradaya.” The same succession from
+Madhva as in the “Prameya-ratnavali” is given in the “Gaura-ganoddesha-dipika” and by Gopala Guru. <!-- F59 F90 F58 -->
+
+The “Siddhanta-darpana” is a work on Vedanta with arguments in support of Gaudiya philosophy; Nandana Mishra, as has been
+said, wrote a commentary on it. Here Baladeva explains the nature of transcendental sound. The highest truth is one, but
+twofold — the Named and the Name:
+
+“The highest truth is one, yet it appears in two ways — as the Named and the Name.”[^31]
+
+The Named is Krishna, the Name is the pranava, om. As the Named appears in many forms — Matsya, Kurma and others — so the
+Name appears as omkara, the gayatri, the Vedas. He is without beginning and without end, and therefore His glorification
+too is eternal; He comes into this world and leaves it by His own will. The book also speaks of the Lord's three
+potencies — of knowledge, of action and of power — of the jivas as His rays, His separated particles, and of the Vedas
+as spoken by the perfect Lord and free from the four defects, the Puranas and Itihasas being equal to the Vedas. A Bengali
+translation of the “Siddhanta-darpana” was published by Bhaktivinoda Thakura (1890). <!-- F66 Q11 -->
+
+One of the biographies also ascribes to Baladeva the “Vedanta-shyamantaka,” an exposition of the essentials of Vedanta,
+and quotes several of its thoughts: of all the means of knowledge (perception, inference, word, presumption,
+non-apprehension, probability, tradition) the best is the word of the shruti, for the Vedas are eternal, transcendental
+and free from the four defects (1.51); of all the forms of Lakshmi, Srimati Radharani is Lakshmi Herself, as Krishna is
+Bhagavan Himself among the avataras (2.37); the jiva is by nature a servant of Hari (3.11, after the “Padma-purana”). The
+closing verse says that this “Shyamantaka of Vedanta” was composed by a brahmana bearing the name Radha-Damodara and
+offered to Sri Radhika; the biography understands this as “at the behest of my gurudeva, the brahmana Sri
+Radha-Damodara.”[^32] <!-- F73 Q10 -->
+
+The same biography sets out Baladeva's teaching as a whole. There are five tattvas — Ishvara, jiva, prakriti, kala and
+karma. Ishvara is omniscient, full of bliss and of all excellences; He is the Lord of Brahma and Shiva and remains when
+the world perishes. Krishna has three potencies — the higher (svarupa-shakti), the kshetrajna (jiva-shakti) and maya, as
+the “Vishnu-purana” teaches; the body and soul of God are not different. Krishna is two-armed, holding the flute, in a
+form of eternity, knowledge and bliss; He is called Govinda and Gopala. Lakshmi is non-different from Him and
+accompanies each of His forms; when He appears in a human form she comes with Him, and Radha is the Supreme Lakshmi (the
+“Brihad-gautamiya-tantra”).[^33] Krishna is Bhagavan Himself (by Shaunaka's word in the “Bhagavatam”), and His worship is
+the highest. The jiva is an atomic particle of the spiritual potency, eternal and by nature a servant of Hari;
+surrendering to the guru, a devotee of Krishna, it attains by his mercy Krishna-bhakti, and with it Krishna Himself.
+<!-- I6 -->
+
+## His Books: Commentaries
+Baladeva expounded the ten principal Upanishads — the Isha, Kena, Katha, Prashna, Mundaka, Taittiriya, Aitareya,
+Chhandogya, Mandukya and Brihadaranyaka;[^34] the Gaudiya Math published his commentary on the “Ishopanishad” together
+with Madhva's commentary and the “Vedarka-didhiti” of Bhaktivinoda Thakura. He also wrote a commentary on the
+“Gopala-tapani Upanishad.” <!-- F67 -->
+
+His commentary on the “Bhagavad-gita,” the “Gita-bhushana-bhashya,” explains it continuously, verse by verse, in the
+light of achintya-bhedabheda; the title, as usual with him, is given at the end. The Gaudiya Math issued it three times,
+and Bhaktivinoda Thakura published the “Gita” with his own Bengali translation, the “Vidvad-ranjana-bhashya,” and
+Baladeva's Sanskrit commentary (1891). Srila B. R. Sridhar Maharaj, speaking of his own “Gita,” said that in our line
+the “Gita” was commented on by Srila Vishvanatha Chakravarti Thakura, Srila Baladeva Vidyabhushana and other teachers,
+and that Bhaktivinoda, in translating it into Bengali, relied on the commentaries of Baladeva and Vishvanatha (“Our
+Teachers”). <!-- F68 -->
+
+It is said that he also expounded the “Bhagavata”: one of the biographies calls his commentary on the Tenth Canto the
+“Vaishnava-nandini,” and Srila Sridhar Maharaj says that he commented both on the “Srimad-Bhagavatam” and on Jiva's
+“Shat-sandarbha.” The commentary on the “Shat-sandarbha” was published in Calcutta by Sri Shyamlal; another biography
+speaks of a commentary on the “Tattva-sandarbha.” At the beginning of the commentary on the “Tattva-sandarbha” Baladeva
+glorifies Jiva: “May Jiva Prabhu be our refuge, who with the nectar of his speech restored the pure radiance of the
+Supreme Lord Krishna, dimmed by the mud of Sankhya, the dust of bad logic and the pit of vivarta.” There too he explains
+Jiva's words: “their” means Rupa and Sanatana, “friend” is Gopala Bhatta, and “the earlier Vaishnavas” are the books of
+Sri Madhva and others. Srila Bhaktisiddhanta refers to this commentary more than once in the “Anubhashya” (on CC,
+Madhya 6). <!-- F69 F70 -->
+
+The commentary on Rupa's “Laghu-bhagavatamrita,” the “Saranga-rangada,” was published in Calcutta by Atul Krishna
+Gosvami in the 412th year of the Chaitanya era; the “Anubhashya” quotes it many times in explaining CC, Adi 5 — on the
+sixteen kalas, on Vishnu's being untouched by the gunas, on Shesha and other subjects. The commentary on the
+“Vishnu-sahasra-nama” is called the “Namartha-sudha”; Bhaktivinoda Thakura published the “Vishnu-sahasra-nama” with this
+commentary (1886), and the “Anubhashya” (on CC, Adi 3) cites from it the explanation of the names *suvarna-varna,
+hemanga…*. Srila Bhaktisiddhanta refers to Baladeva in other places of the “Anubhashya” as well — thus in CC, Adi 6 he
+cites the “Govinda-bhashya,” and in Adi 13 the words of “Shripada Baladeva” on the Lord's appearance. <!-- F71 F72 F90 -->
+
+Baladeva laboured especially over the books of Sri Rupa. His commentary on the “Stava-mala,” the
+“Stava-mala-vibhushana,” was written in 1686 Shaka (1764) and has been published by various editors. From it we know how
+the “Govinda-virudavali” came to be: Govinda gave His garland to a poet from the south. It also contains the closing
+verse of the commentary on the “eighteen metres” and the introduction to the “Govinda-virudavali” with quotations from
+the “Virudavali-lakshana”; there too Baladeva calls the “Gitavali” a work of Rupa — “forty-one gathas taught by Sri
+Rupa.”[^35] Srila Sridhar Maharaj recalls how in one of his commentaries Baladeva explains that Rupa and Sanatana showed
+the world Govinda, “eternally served by the Supreme Goddess of fortune,” as one shows a jewel on the palm, turning it now
+one facet, now another (“Sri Guru and His Grace”). <!-- F81 -->
+
+He also wrote a commentary on Rupa's “Nataka-chandrika” (it has been published) and a commentary on Rasikananda's
+“Shyamananda-shataka.” <!-- F80 F82 -->
+
+## His Books: Grammar, Poetics, Poetry
+Baladeva's grammar, the “Vyakarana-kaumudi,” has not been published and is almost lost; its manuscript was in
+Vrindavana with Radhacharana Vidyavagisha. <!-- F74 -->
+
+The “Aishvarya-kadambini” is a poem glorifying Krishna's deeds in Vrindavana and Gokula: 224 shlokas in seven “vrishtis”
+(chapters). Its subjects are Krishna's tripad-aishvarya and His appearance; the birth of Vasudeva, Nanda and others in
+the Vrishni line; the birth of Radhika; the festivities after Krishna's birth; His childhood and boyhood and the slaying
+of Kamsa; the hymns of the sages; the coming to Gokula and the pastimes there. The editor of the journal “Gaudiya”
+ascribed it to Vishvanatha Chakravarti, but the last verse of the manuscript names Baladeva Vidyabhushana as its author.
+According to other accounts, Vishvanatha had his own “Aishvarya-kadambini” — on dvaita and advaita, on
+achintya-bhedabheda — while Baladeva's is a book on Krishna's majesty without such discussion.[^36] <!-- F75 -->
+
+The “Sahitya-kaumudi” is his commentary on Bharata's “Kavya-lakshana,” on which others had written before (the
+“Kavya-prakasha,” the “Kavya-pradipa”). At the end Baladeva says: “I have explained the whole ‘Kavya-lakshana’; this is a
+short commentary on the sutras of Bharata, composed by Vidyabhushana with the help of the existing commentaries of
+Mammata and others.” The manuscript scholar Peter Peterson mistakenly thought that the karikas on which the
+“Sahitya-kaumudi” is written belonged to Mammata. The treatise opens with a verse in glory of Sri Chaitanya:
+
+“I worship Vishnu, the ocean of bliss, by whose mercy, when He dwells among us as Sri Chaitanya, all the sins of the
+Gajapati are washed away and he at once attains peace; no one can conquer Him, yet His saintly associates bring Him
+under their sway.”[^37]
+
+In the next verse Baladeva hints at the book's title. It has ten chapters and an additional one on rules not found in
+Bharata; in the ninth chapter he cites the figured verses (chitra-kavya) of Rupa's “Stava-mala.” The book was printed in
+the “Kavyamala” series.[^38] On the “Sahitya-kaumudi” he himself wrote a commentary, the “Krishnanandini”; its
+manuscript is kept in the collection of the Maharaja of Alwar. <!-- F76 F77 -->
+
+He also had a commentary on Jayadeva's “Chandraloka” — apparently lost. <!-- F78 -->
+
+The “Chhanda-kaustubha” is an extensive treatise on prosody in 270 shlokas: the metres are described in stanzas
+glorifying Krishna. It begins with a well-known verse that Baladeva also places in other books of his: *nityam nivasatu
+hridaye chaitanyatma murarih…* — “May Murari, whose soul is Chaitanya, dwell eternally in the heart…”[^39] Raja
+Rajendralal Mitra mistakenly ascribed this work to Radha-Damodara; but at the end the author honours Radha-Damodara as
+“the ornament of the brahmana line, most dear to Hari,” so the writer is his disciple; and two manuscripts from Ayodhya
+name Vidyabhushana as the author outright. Krishnarama wrote a “Chhanda-kaustubha-tika” on the “Chhanda-kaustubha”;
+Baladeva himself also wrote a commentary on it. <!-- F79 Q8 -->
+
+The “Kavya-kaustubha” is a treatise on poetry; according to one of the biographies, a collection of select Sanskrit
+verses for Vaishnavas. The “Pada-kaustubha,” according to another account, is a collection of select prayers.
+<!-- F80 F82 -->
+
+The biographies also give full lists of his books — one of twenty-three titles, another with almost the same, adding the
+“Aishvarya-kadambini” and the commentary on the “Tattva-sandarbha”: the “Govinda-bhashya” and its commentary, the
+“Siddhanta-ratna” with the “Sukshma,” the “Vedanta-shyamantaka,” the “Prameya-ratnavali,” the “Siddhanta-darpana,” the
+“Sahitya-kaumudi” with the “Krishnanandini,” the “Kavya-kaustubha,” the “Vyakarana-kaumudi,” the “Pada-kaustubha,” the
+“Vaishnava-nandini,” commentaries on the “Gopala-tapani,” on the Isha and nine other Upanishads, the “Gita-bhushana,”
+the “Namartha-sudha,” the “Saranga-rangada,” the “Stava-mala-vibhushana,” and commentaries on the “Nataka-chandrika,”
+the “Chhanda-kaustubha,” the “Shyamananda-shataka” and the “Chandraloka.” <!-- F83 -->
+
+These books became a support for the acharyas who came after. Bhaktivinoda Thakura studied Baladeva's
+“Govinda-bhashya,” “Siddhanta-ratna” and “Prameya-ratnavali” in Puri, and later himself published many of his works.
+<!-- F84 -->
+
+
 [^1]: According to one biography, the name “Govinda Dasa” comes from his service to Rupa's Govinda; according to
     another, “Ekanti Govinda Dasa” is the name he received on initiation as a vairagi.
 [^2]: Family: Khandaits (according to one biography) or Vaishya farmers (according to another). The latter names
@@ -317,3 +568,37 @@ departure, and in his old age he was very happy. <!-- F47 -->
     triumph over rivals.
 [^22]: This is told by one of the biographies; according to it, the opponents were pandits of the Ramanuja-sampradaya
     (see n. 13).
+[^23]: One of the biographies calls the second disciple “Nanda Mishra.”
+[^24]: So according to one biography; according to another, there were two Uddhava Dasas between Baladeva and
+    Madhusudana Dasa: Baladeva's disciple Uddhava (or Uddhara) Dasa and his disciple, also Uddhava Dasa, who gave
+    renunciation to Madhusudana.
+[^25]: One of the biographies calls this a “reconciliation” of dvaita and advaita and a “balanced explanation.” For a
+    Gaudiya Vaishnava, achintya-bhedabheda is not a compromise between two schools but the original conclusion of the
+    shruti, revealed by Mahaprabhu and unfolded by Sri Jiva.
+[^26]: In the prayer the words “who dispelled the darkness of Mayavada” refer to Rupa and Sanatana (the text has the
+    plural).
+[^27]: This is a scholar's opinion; on how Srila Bhaktisiddhanta understands the connection with Madhva, see n. 17.
+[^28]: Eight padas are mentioned, but only seven subjects are listed.
+[^29]: The obeisance to the “two moons,” Rupa and Sanatana, is sometimes assigned to the “Prameya-ratnavali”; according
+    to the biography we follow, it stands at the beginning of the “Siddhanta-ratna.”
+[^30]: In our list the order of the fifth and sixth principles is as in the verse; in one place the same biography gives
+    them in reverse order. The verse number given in another biography has not been checked. In its chapter on Madhva
+    that biography speaks of “ten points” but lists nine.
+[^31]: *ekam eva param tattvam vachya-vachaka-bhava-bhak…* — our translation, from the beginning of the verse as given
+    in one of the biographies (the text has not been checked in our repository).
+[^32]: Literally the verse says only that the book was composed by a brahmana bearing the name Radha-Damodara. It is
+    therefore possible that the “Vedanta-shyamantaka” belongs to Radha-Damodara himself; the question remains open (cf.
+    Mitra's mistake about the “Chhanda-kaustubha” below).
+[^33]: The biography says: “when the Lord appears as an ordinary man, Lakshmi descends as an ordinary woman.” But the
+    Lord's humanlike pastimes (nara-lila) are not ordinary: the Lord and His eternal consort are not subject to maya;
+    their appearance is arranged by yogamaya.
+[^34]: The printed text has “Mundu” for the Mandukya; evidently a misprint.
+[^35]: In the printed editions of the “Stava-mala” the “Gitavali” has forty-two songs. One of the biographies calls the
+    commentary of 1764 a commentary on the “Utkalika-vallari,” a hymn included in the “Stava-mala.”
+[^36]: One of the biographies “asserts” that a separate “Aishvarya-kadambini” belongs to Baladeva; another distinguishes
+    the two books in the same way. The manuscript is described by R. Mitra (“Notices of Sanskrit Manuscripts,” vol. 7,
+    no. 2512).
+[^37]: Our translation, from the biography's rendering of the verse. The Gajapati is King Prataparudra.
+[^38]: The biography gives the year 1825; the date is plainly wrong.
+[^39]: The translation of the opening of the verse is ours (the text has not been checked in our repository). Murari is
+    Krishna.
