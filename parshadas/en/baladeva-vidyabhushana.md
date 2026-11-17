@@ -2,8 +2,8 @@
 *Баладева Видьябхушана · @baladeva-vidyabhushana*
 
 ## The Gaudiya Vedanta-acharya
-Srila Baladeva Vidyabhushana lived in the eighteenth century, after Vishvanatha Chakravarti Thakura, and he holds a
-place of his own in the history of the Gaudiya Vaishnavas: he was the first acharya of the line to write a commentary on
+Srila Baladeva Vidyabhushana lived in the eighteenth century; a younger contemporary and shiksha-disciple of
+Vishvanatha Chakravarti Thakura, he holds a place of his own in the history of the Gaudiya Vaishnavas: he was the first acharya of the line to write a commentary on
 the “Vedanta-sutra,” and for this he is called the Gaudiya Vedanta-acharya. The biographies name him Sri Baladeva,
 Baladeva Prabhu, Shrimad Baladeva Vidyabhushana Prabhu and Shripada Baladeva Vidyabhushana, while in the colophons of his
 books he signs himself simply “Vidyabhushana.” Srila Bhaktisiddhanta Sarasvati, quoting his explanations in the
@@ -49,13 +49,12 @@ In that school he accepted sannyasa. He preached Tattvavada with great force thr
 Purushottama-kshetra, Jagannatha Puri. There he debated with the local scholars, showing the depth of his learning, and
 his fame quickly spread through the region. <!-- F11 -->
 
-Baladeva's Madhva past is no accident in his life. “Our Teachers” says that before accepting Mahaprabhu's teaching he
+The books of our line also speak of his Madhva past. “Our Teachers” says that before accepting Mahaprabhu's teaching he
 belonged to the Madhva-sampradaya, and therefore knew equally well both the teaching of the Gaudiyas and the doctrine of
 Madhvacharya. Srila B. R. Sridhar Maharaj says of him: “Baladeva Vidyabhushana was very close to the
 Madhva-sampradaya,” and even: “he may be considered a member of another line, the Madhva-sampradaya, in a bodily sense”
 (“Sri Guru and His Grace”). This path was not a change of faith in any worldly sense: a line close to Mahaprabhu led a
-seeker of truth to the fullness of His teaching, and his knowledge of Tattvavada later served the Gaudiyas in their
-hardest hour.[^5] <!-- F12 -->
+seeker of truth to the fullness of His teaching.[^5] <!-- F12 -->
 
 ## Radha-Damodara
 In Puri he met the pandit Sri Radha-Damodara and spoke with him about the principles of bhakti. Radha-Damodara told him
@@ -103,7 +102,7 @@ in Galta, near Amber, the old capital of the Jaipur principality. When Sri Rupa'
 iconoclastic Muslims, the king of Amber moved Him to Galta to keep Him safe. Yet Galta, since the time of Payohari
 Krishnadasa, the guru of Prithviraja (Man Singh's great-grandfather), had been the chief seat of the Ramanandis in
 northern India, and it was the royal house of Amber itself that had given them land there. King Jai Singh built a huge
-temple in Galta and installed in it Rupa's Govinda-deva, the Deity whom Man Singh had already worshipped. The Ramanandis
+temple in Galta and installed in it Rupa's Govinda-deva. The Ramanandis
 saw that the Gaudiyas were in even greater favour at the court of Amber than they were, and this galled them.[^11]
 <!-- F22 -->
 
@@ -220,7 +219,7 @@ Gaudiya Vaishnava path. <!-- F40 -->
 
 Baladeva dedicated the commentary to Govinda and named it after Him: since Govindaji Himself had commanded it to be
 written, it is the “Govinda-bhashya.” And all the glory he gave to Him as well. In the verse with which his work ends he
-says that the name “Vidyabhushana,” “the ornament of learning,” and his renown were bestowed on him by Govinda Himself,
+says that the name “Vidyabhushana” and his renown were bestowed on him by Govinda Himself,
 who revealed this commentary in a dream:
 
 “May Govinda be victorious, the friend of Radha, beautiful of form, who in a dream pointed out this commentary and, in
@@ -244,8 +243,8 @@ According to tradition, Baladeva also established the service of the Deity Vijay
 The pandits, won over by his arguments, recognized him as an acharya and wished to become his disciples. Baladeva
 humbly declined. Of the four sampradayas, he said, the Sri-sampradaya is a genuine school that preaches the service of
 God as the best path; in defending the views of the Gaudiyas he did not wish to show it disrespect, and to offend the
-Sri-sampradaya would be a great offence. This is how a Vaishnava acts: a defeated opponent is no trophy, and the
-Sri-sampradaya remains a revered line of Vaishnavas.[^22] <!-- F44 -->
+Sri-sampradaya would be a great offence. This is how a Vaishnava acts: he debated for the sake of truth, not to gain
+disciples, and the Sri-sampradaya remained for him a revered line of Vaishnavas.[^22] <!-- F44 -->
 
 The Gaudiya world owes Baladeva much. He saved it from humiliation by its opponents, dispelled all doubts and won for
 the Gaudiyas recognition as a leading sampradaya. Had the principal Deity of the sampradaya, Rupa's Govinda-deva, passed
@@ -338,8 +337,8 @@ Shyamasundara, Sri Chaitanya, Vyasa, Rupa and Sanatana — the two who rose like
 Mayavada; it ends with the glorification of Sri Govinda, and its closing verse says: “May the bee of my heart drink deep
 of the honey of prema from the flowers of truth brought by Sri Chaitanya and spread by Ananda-tirtha (Madhva).”[^29]
 Baladeva himself wrote a commentary on the “Siddhanta-ratna”; one of the biographies calls it the “Sukshma.” It is he,
-and not Rupa, who actually wrote the “Siddhanta-ratna” and the “Kavya-kaustubha,” which are sometimes ascribed to Rupa
-Gosvami. <!-- F64 Q3 F65 -->
+and not Rupa Gosvami, to whom they are sometimes ascribed, who actually wrote the “Siddhanta-ratna” and the
+“Kavya-kaustubha.” <!-- F64 Q3 F65 -->
 
 The “Prameya-ratnavali” is a short and very important treatise on Gaudiya Vaishnava philosophy, set out in nine
 principles (prameyas). It begins with obeisance to the three principal Deities of the Gaudiyas — Govinda, Gopinatha and
@@ -372,8 +371,8 @@ was evidently gladdened by the thought that Sri Chaitanya fully blessed Pratapar
 
 The “Prameya-ratnavali,” together with the Sanskrit commentary “Kanti-mala,” was published by Gokula Gosvami and by the
 Calcutta Gaudiya Math; the author of the “Kanti-mala” called himself by the title “Vedanta-vagisha,” usual among
-pandits. Sanyal's book, published by the Gaudiya Math, says that this position of Madhva was specially accepted by
-Shripada Baladeva in the “Prameya-ratnavali,” “which finally establishes the descent of the Sri Gaudiya-sampradaya,
+pandits. Sanyal's book, published by the Gaudiya Math, says that these principles of Madhva were specially accepted by
+Shripada Baladeva in the “Prameya-ratnavali” — “which finally establishes the descent of the Sri Gaudiya-sampradaya,
 following Sri Krishna-Chaitanya, from the school of Madhva and justifies the name accepted among the devotees —
 Madhva-Gaudiya (or Brahma-Madhva-Gaudiya) sampradaya.” So Srila Bhaktisiddhanta calls it; and the same tradition of the
 Gaudiya Vaishnavas, from Kavi Karnapura to Baladeva, says that Sri Chaitanya received initiation in the line of the
