@@ -6,9 +6,11 @@ Among those who left home and family to live at Sri Chaitanya's feet in Nilachal
 Acharya. Krishnadasa Kaviraja calls him Bhagavan Acharya or simply the Acharya, and in one place “the lame Bhagavan
 Acharya”; Vrindavana Dasa calls him “Bhagavan Acharya, a great soul” (*mahashaya*); Kavi Karnapura, in the
 “Gaura-ganoddesha-dipika,” calls him “Acharya Bhagavan Khanja,” that is, the lame, and in his mahakavya, “known here as
-Bhagavan, the best of virtuous acharyas.” Svarupa Damodara, his close friend, calls him a *gopa*, a cowherd boy. In the
+Bhagavan, the best of virtuous acharyas”; Narahari Chakravarti in the “Bhakti-ratnakara” calls him “the lame Bhagavan,” and at the opening of one of its
+chapters glorifies him among the Lord's associates: “Glory… to the lame Bhagavan” (15.5). Svarupa Damodara, his close
+friend, calls him a *gopa*, a cowherd boy. In the
 biographies he is Sri Bhagavan Acharya and “the lame (*khanja*) Bhagavan Acharya,” and in one of them Khanja Bhagavan
-Dasa.[^1] <!-- F1 -->
+Dasa.[^1] <!-- F1 F46 -->
 
 He was indeed lame; the sources do not say why. But his lameness did not keep him far from the Lord: when Mahaprabhu once
 ran headlong towards a sand hill by the sea, the lame Bhagavan Acharya, as we shall see, hurried after Him with all the
@@ -36,7 +38,7 @@ One of the biographies cites a further verse from a list of the branches, which 
 body is full of radiance and the mere remembrance of whom awakens love for Gaura.[^2] <!-- F4 Q2 F5 Q13 -->
 
 ## From Halisahar
-Bhagavan Acharya lived in Halisahar, the ancient Kumarahatta, in what is now the district of North 24 Parganas; so also
+Bhagavan Acharya's home was Halisahar, the ancient Kumarahatta, in what is now the district of North 24 Parganas; so also
 writes Srila Bhaktisiddhanta in the “Anubhashya.” In the same Kumarahatta lived Shivananda Sena, Srivasa Pandita and
 Vasudeva Datta, and the biographies, listing its residents, name among them “the lame Bhagavan Acharya.” According to
 one biography, he appeared in Navadvipa and moved to Halisahar later.[^3] <!-- F7 F8 -->
@@ -54,17 +56,20 @@ Bhagavan Acharya himself was a man of great learning. The “Charitamrita” cal
 Nyayacharya. <!-- F11 -->
 
 What follows is known only from the biographies. Seeing that his son had been detached from the world since youth, the
-father married him to the daughter of Madhusudana Ghataka of Navadvipa, and Bhagavan had two sons, Raghunatha and
-Ramanatha. Raghunatha, who was called Raghunatha Acharya, is mentioned in the “Bhakti-ratnakara” as well, and Srila
+father arranged his marriage with a daughter of Madhusudana Ghataka of Navadvipa, and two sons were born to Bhagavan,
+Raghunatha and Ramanatha. Raghunatha, who was called Raghunatha Acharya, is mentioned in the “Bhakti-ratnakara” as well, and Srila
 Bhaktisiddhanta, citing it, names him as Bhagavan Acharya's son. But family life could not hold the Acharya. Overcoming
 its obstacles, he came to the Lord's feet in Nilachala; the Lord told him to return home, and he returned. Yet he could
-no longer live in the family: leaving his wife and sons in the care of his brother-in-law and his disciples, he left
+no longer live in the family: entrusting his wife and sons to his brother-in-law and his own disciples, he left
 home and went to Nilachala to be always at Mahaprabhu's feet.[^4] The sources do not give his disciples' names.
 <!-- F12 F13 F14 F15 F16 -->
 
 Many years later, when Sri Jahnava-devi was travelling from Khardaha to the festival at Kheturi, near Halisahar there
 joined her, in the words of the “Bhakti-ratnakara,” “Raghunatha Acharya, son of the lame Bhagavan, noble in every
-quality” (10.382).[^5] <!-- F18 Q12 -->
+quality” (10.382).[^5] The “Narottama-vilasa” speaks of the same meeting and calls Raghunatha, “son of the lame
+Bhagavan,” the dearest disciple of Jagadisha Pandita (6.214–215); and Srila Bhaktisiddhanta writes in the “Anubhashya”
+that Raghunathacharya, son of Khanja Bhagavan, was a disciple of Jagadisha Pandita Gosvami (on Adi 11.30).
+<!-- F18 Q12 F44 -->
 
 ## At the Lord's Feet
 When Mahaprabhu returned from His pilgrimage through South India and devotees began to stream to Him in Puri from every
@@ -72,6 +77,10 @@ side, Bhagavan Acharya too remained with Him:
 
 “Ramabhadra Acharya and Bhagavan Acharya also stayed at the Lord's feet, setting aside all other affairs.” (CC, Madhya
 10.184) <!-- F19 Q3 -->
+
+Govinda-deva tells the same in the “Gaura-krishnodaya”: before the bathing festival of Jagannatha, before the devotees
+of Bengal had arrived, there came after Paramananda Puri, Svarupa Damodara and Brahmananda Bharati “two bearing the title
+Acharya — Bhagavan and Ramabhadra; they entered Gaura's abode, and He received them with due honour” (11.29). <!-- F45 -->
 
 Vrindavana Dasa, listing the devotees who gathered to the Lord in Nilachala, says of him:
 
@@ -113,8 +122,8 @@ Antya 8.54–61).[^7] And in the months of chaturmasya he, like the other brahma
 time invite Him to rice cooked at home.” (CC, Antya 10.154–155) <!-- F25 F26 Q11 -->
 
 ## The Mayavadi Brother
-Bhagavan Acharya's younger brother, Gopala Bhattacharya, studied Vedanta in Kashi (Benares) and, having finished his
-studies, came to his elder brother in Puri. Bhagavan was glad that his brother had become a scholar, and brought him to
+Gopala Bhattacharya, Bhagavan Acharya's younger brother, had gone to Kashi (Benares) to study Vedanta and, his studies
+completed, came to his elder brother in Puri. Bhagavan was glad that his brother had become a scholar, and brought him to
 the Lord. But what Gopala had learned in Kashi was Mayavada, Shankara's interpretation, hostile to bhakti, and
 Mahaprabhu knew it:
 
@@ -203,7 +212,7 @@ composed a drama about Sri Chaitanya and wished to recite it to the Lord. One of
 in the guise of a brahmana, another a poet from East Bengal. First he recited the play to Bhagavan Acharya and other
 Vaishnavas, and they all liked it. <!-- F37 -->
 
-But Mahaprabhu had a rule: He would hear a song, verse or book only after Svarupa Damodara had heard and approved it,
+But Mahaprabhu had a rule: He would hear a song, verse or book only once Svarupa Damodara had first heard and approved it,
 for a mixing of incompatible rasas (*rasabhasa*) or anything opposed to siddhanta roused His anger (CC, Antya
 5.95–98). So Bhagavan Acharya asked Svarupa to hear the drama. He replied:
 
@@ -214,7 +223,7 @@ siddhanta brings no joy to hear; only one for whom Gaura's feet are the treasure
 Krishna and Gaura — like Sri Rupa, the mere openings of whose plays bring happiness (Antya 5.102–108). <!-- F38 F39 Q8 -->
 
 Here too Svarupa's reproach is loving: “you are generous,” he says — and indeed Bhagavan's readiness to hear anyone came
-from breadth of heart, not from lack of discernment. Bhagavan pressed his friend for two or three days, and at last he
+from breadth of heart, not from lack of discernment. Two or three days Bhagavan kept urging his friend, and at last he
 agreed (Antya 5.109–110). <!-- F40 -->
 
 The poet recited his opening verse (*nandi-shloka*):
@@ -223,8 +232,8 @@ The poet recited his opening verse (*nandi-shloka*):
 has appeared, bringing consciousness to the whole of inert nature. May that Krishna Chaitanya-deva grant you good
 fortune.” (CC, Antya 5.112)
 
-Svarupa asked him to explain it, and the poet said: Jagannatha is the beautiful body, and Sri Chaitanya the one embodied
-in it; He has appeared in Puri to bestow consciousness on the inert world (Antya 5.114–115). Everyone was pleased; only
+Svarupa asked him to explain it, and the poet said that Jagannatha is a lovely body and Sri Chaitanya its
+indweller; He has appeared in Puri to bestow consciousness on the inert world (Antya 5.114–115). Everyone was pleased; only
 Svarupa answered in anger:
 
 “‘O fool, you have brought about your own utter ruin! You have no faith in either of the two Lords! Lord Jagannatha is
@@ -244,12 +253,12 @@ took pity on him and instructed him to hear the “Bhagavata” from a Vaishnava
 company of Chaitanya's devotees; then you will come to know the waves of the ocean of *siddhanta*.’” (CC, Antya
 5.131–132)
 
-He also revealed in the poet's verse a hidden praise that Sarasvati had placed in his mouth, and the poet surrendered to
-the Lord's devotees. <!-- F41 F42 Q8 -->
+He also revealed in the poet's verse a hidden praise that Sarasvati had placed in his mouth, and the poet gave himself up to
+the devotees of the Lord. <!-- F41 F42 Q8 -->
 
 ## At Chataka Hill
 Krishnadasa Kaviraja recalls Bhagavan Acharya also in the account of how Mahaprabhu, on His way to the sea,
-caught sight of the sand hill Chataka and, taking it for Govardhana, ran towards it with the speed of the wind:
+caught sight of the sand hill Chataka and, thinking it was Govardhana, rushed towards it with the speed of the wind:
 
 “A cry went up, and there was a great uproar. Everyone, wherever he was, got up and ran. Among them were Svarupa,
 Jagadananda, Gadadhara Pandita, Ramai, Nandai and Shankara Pandita. Puri Gosani and Bharati Gosani came to the
@@ -292,16 +301,16 @@ lameness nor by learning. <!-- F2 F3 I2 -->
     “renunciation was foremost in him” (Antya 2.88).
 [^5]: One of the biographies, citing this verse, writes that both Bhagavan Acharya and his son accompanied Jahnava to
     Kheturi. But in the “Bhakti-ratnakara” (10.381–383) only the son joins her, and Bhagavan is named only as his father.
-[^6]: One of the biographies puts it thus: if they invited the Lord on a day when someone else had already invited Him, He
-    cancelled the earlier invitation and ate with them as much as they served. The “Charitamrita” says only that He
+[^6]: One of the biographies puts it thus: if He had already accepted someone else's invitation for that day and they then invited
+    Him, He set aside the earlier invitation and ate with them whatever they set before Him. The “Charitamrita” says only that He
     always accepted their invitations and ate as they wished.
 [^7]: One of the biographies, retelling this list, names Kashishvara, Bhagavan Acharya and Pradyumna Mishra as the chief
     among the Lord's loving devotees in Puri; in Vrindavana Dasa they simply stand among many.
 [^8]: One of the biographies writes that the Junior Haridasa came to beg rice from Madhavi-devi “in Bhagavan Acharya's
     house” and fell into conversation with her there; according to the “Charitamrita” (Antya 2.103) the Acharya sent him
     to her.
-[^9]: One of the biographies attributes to the Lord here the words that for a renunciant to converse with a woman is worse
-    than drinking poison. They are not in the “Charitamrita's” account of the Junior Haridasa (the Lord quotes the
+[^9]: One of the biographies attributes to the Lord here the words that conversing with women is, for a renunciant, more
+    harmful than taking poison. They are not in the “Charitamrita's” account of the Junior Haridasa (the Lord quotes the
     “Bhagavatam” 9.19.17); a similar thought appears in Madhya 11.8 (“Chaitanya-chandrodaya” 8.24), where the subject is a
     meeting with the king. Another biography, quoting verses 117–120, merges the two halves of verse 118 into one; we
     give them according to the “Charitamrita.”
