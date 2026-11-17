@@ -74,7 +74,7 @@ low family, even to an untouchable — and after the meal he asked for the remna
 aside, and when the leaf-plate was thrown away, even onto a rubbish heap, he honoured what was left on it.
 
 In this there is neither eccentricity nor defiance of social custom. A Vaishnava, in whatever family he is born, is worthy
-of worship; whoever judges a Vaishnava by caste goes, as the scriptures say, to hell. A Vaishnava is above the material
+of worship; whoever judges a Vaishnava by caste will, as the scriptures say, go to hell. A Vaishnava is above the material
 qualities of nature, and neither nation nor caste defines him. The remnants of a devotee's meal are no ordinary food but,
 in Kaviraja's words, *maha-maha-prasada*, and Kalidasa took them “seeing them as transcendental” (“Anubhashya,” heading
 to Antya 16.37). <!-- I3 -->
@@ -88,7 +88,7 @@ The bhuinmalis are one of the lowest castes of Bengal, a caste of sweepers akin 
 Vaishnava, and the Vaishnavas called him Jhadu Thakura. Having heard of his greatness, Kalidasa came to him with the best
 ripe, sweet mangoes to be had at that season. <!-- F16 F17 --> Jhadu was abashed: how could a man of high birth bow to him
 and bring him gifts? He could not believe his good fortune and felt he had no right to accept such honour — and yet he
-welcomed his guest with love:
+welcomed his guest warmly:
 
 “Jhadu Thakura was sitting with his wife; seeing Kalidasa, he received him with great respect. After talking with him a while, Jhadu Thakura said to him sweetly: ‘I am of low birth, and you are a most honoured guest. How shall I serve you? Give me leave to take provisions to a brahmana's house. There you can take prasada, and that will give me life.’” (CC, Antya 16.16–19)
 
@@ -180,7 +180,7 @@ Kaviraja answers:
 
 Srila Bhaktisiddhanta says that for his transcendental faith in the Vaishnavas Kalidasa received a mercy unattainable
 even by Brahma and the rest (“Anubhashya,” heading to Antya 16.49). Having honoured the remnants and the foot-dust of
-Vaishnavas all his life, he had gained a store of spiritual merit (*sukriti*), and by its power he received the water from
+Vaishnavas all his life, he had gained a store of spiritual merit (*sukriti*), by whose power he received the water from
 the feet of the Lord Himself. <!-- F33 Q6 -->
 
 But the mercy did not end there. Returning from darshan to the house of Kashi Mishra, the Lord took His midday meal, while
