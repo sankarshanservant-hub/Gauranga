@@ -49,7 +49,7 @@ battlefield to help him. By his strength he regained lost lands and pushed the b
 <!-- F14 F15 -->
 
 A well-known tradition is bound up with his marriage. Purushottama was betrothed to Padmavati, the
-daughter of the king of Kanchi. The king of Kanchi came to Puri to look at the bridegroom — and at the Ratha-yatra saw
+daughter of the king of Kanchi. The king of Kanchi travelled to Puri to see the groom for himself — and at the Ratha-yatra saw
 him, as the custom was, sweeping the road before Jagannatha's chariot with a golden broom. He himself worshipped Ganesha
 and had no such faith in Jagannatha; service to the Lord looked to him like the work of a sweeper, a lowly chandala, and
 he refused to give his daughter to such a man. Only the king of Kanchi judged so: for Purushottama and his line the broom
@@ -81,8 +81,8 @@ Who he was before, Kavi Karnapura tells us:
 (“Gaura-ganoddesha-dipika” 118)[^7] <!-- F11 Q1 -->
 
 The Puranas tell of Indradyumna. In the second half (*parardha*) of Brahma's life, in one of the Satya-yugas, Malava was
-ruled by a king of the solar dynasty, Indradyumna, a supreme devotee of Vishnu; his capital was Avantinagara, and his royal
-priest Vidyapati was also a devotee of Vishnu. Already in the first half of Brahma's life Lord Jagannatha had appeared in
+ruled by a king of the solar dynasty, Indradyumna, a supreme devotee of Vishnu; his capital was Avantinagara, and Vidyapati, the
+priest of his court, was likewise a devotee of Vishnu. Already in the first half of Brahma's life Lord Jagannatha had appeared in
 Nilachala as Nilamadhava to deliver fallen souls; He was served by Vishvavasu, chief of the Shabaras. Through Indradyumna,
 Vidyapati and Vishvavasu this Nilamadhava revealed Himself to the world as Jagannatha: to bless Indradyumna, the three
 *daru-brahmas* — Baladeva, Subhadra and Jagannatha, the Lord Himself in a form of wood — appeared at Banki-mohana.[^8] The
@@ -108,7 +108,7 @@ He usually came at midday, after his meal. <!-- F32 F33 Q11 -->
 
 Books are also ascribed to the king — the “Sarasvati-vilasa” (a *smriti* digest of which manuscripts survive), the
 “Pratapa-martanda,” the “Kautuka-chintamani” and the “Nirnaya-sangraha”; but according to one of the biographies the
-first two were written by his court scholars, Lolla Lakshmidhara and Ramakrishna. Some hold that the
+first two were written by scholars of his court, Lolla Lakshmidhara and Ramakrishna. Some hold that the
 “Bhagavad-bhakti-vilasa” and the “Hari-bhakti-vilasa” were named after the “Sarasvati-vilasa.” The catalogue of Bengali
 manuscripts of the Bangiya Sahitya Parishad in Calcutta lists a song signed by Prataparudra, though his authorship is
 doubtful: the poet begs Srimati Radharani to make him an ornament of Her body, the bells on Her feet, a chakora bird
@@ -116,7 +116,7 @@ before the moons of Her toenails, a bee at Her lotus feet, Her mirror, Her fan �
 and if not, to do with him as She pleases. <!-- F26 F27 -->
 
 At his command Ramananda Raya composed the “Jagannatha-vallabha-nataka,” “the musical drama of Ramananda,” “dear to
-Gajapati Prataparudra.” In the prologue the stage-director glorifies the king: at the mere sound of his name Sekandhara
+Gajapati Prataparudra.” In the prologue the stage-director glorifies the king: at his very name Sekandhara
 hides in a cave, the ornament of the land of Kalavarga looks about in tears, the king of Gurjara sees his capital as an
 old forest, and the lord of Gauda feels as if aboard a ship in a storm; to the hosts of hostile kings he is the Rudra of
 the fire at the world's end. And every song of the drama ends with his name:
@@ -134,8 +134,8 @@ heard: “Sri Gaurasundara has come to Nilachala.” At once he left Cuttack and
 
 But the Lord did not wish to meet him. A sannyasi must not see kings or women or converse with them: whoever seeks a
 king's favour wants to meet him for the sake of his own senses. Mahaprabhu, establishing the injunctions of scripture in
-the world, did not look upon women and did not seek to meet the king — and none of the devotees dared bring the emperor of
-Utkala to Him. This strictness was not disdain for the king but a lesson for all renunciants.[^11] <!-- F35 -->
+the world, did not look upon women and did not seek to meet the king — and none of the devotees ventured to lead the emperor
+of Utkala into His presence. This strictness was not disdain for the king but a lesson for all renunciants.[^11] <!-- F35 -->
 
 The king pleaded, “If you are afraid, arrange for me to see Him without His knowing.” Seeing his anguish, the devotees
 decided:
@@ -151,10 +151,10 @@ with bliss. <!-- F36 F37 Q2 -->
 Only one thing troubled him. In the Lord's long dance tears flowed from His eyes and saliva from His lips, and His whole
 body was covered with dust. Not understanding these manifestations of love for Krishna, the king harboured a doubt, but
 told no one. Vrindavana Dasa explains that Jagannatha Himself had appeared in the world in the form of a sannyasi to
-relish the pastimes of sankirtana, and the king did not know this secret, for the Lord's *maya* concealed it — and the Lord
-Himself revealed it to him.[^12] One of the biographies explains: the king's former offences, born of a lack of devotion
-to Krishna, had been washed away at the sight of the Lord's dance; but he relied too much on knowledge gained through the
-senses, and by his own judgement did not recognise Krishna in Gaurasundara, taking Sri Chaitanya for no more than a great
+relish the pastimes of sankirtana, and the king did not know this secret, for the Lord's *maya* — His internal potency, *yogamaya* — concealed it, and the
+Lord Himself revealed it to him.[^12] One of the biographies explains: the king's former offences, born of a lack of devotion
+to Krishna, had been washed away at the sight of the Lord's dance; but he leaned too heavily on what the
+senses tell, and by his own judgement did not recognise Krishna in Gaurasundara, taking Sri Chaitanya for no more than a great
 devotee. Therefore Jagannatha mercifully appeared to him in a dream. This very doubt, says Vrindavana Dasa, became the
 cause of mercy. <!-- F38 F41 -->
 
@@ -337,7 +337,7 @@ indirectly. <!-- F56 I3 -->
 
 Three rings were formed around the dancing Lord. The inner one was led by Nityananda, the second by the devotees headed by
 Mukunda and Kashishvara, and the outer one, holding back the press of the crowd, by the king himself with his retinue and
-guards (CC, Madhya 13.88–90). Resting his hand on the shoulder of his minister (*mahapatra*) Harichandana, the king watched
+guards (CC, Madhya 13.88–90). With a hand on the shoulder of Harichandana, his minister (*mahapatra*), the king watched
 the dance. Srivasa, absorbed in the dance, stood in front of him; Harichandana pushed him aside again and again, until
 Srivasa, not understanding who was jostling him, slapped him. When Harichandana flared up in anger, the king stopped him:
 
@@ -400,7 +400,7 @@ the Lord never showed. And all the devotees rejoiced that the king had at last r
 <!-- F65 -->
 
 That same day, when the chariot moved on towards Gundicha, it suddenly stopped and would not budge. The anxious king hurried
-there with his ministers and friends and ordered the strongest wrestlers to pull — in vain; he had mighty elephants yoked —
+there, ministers and friends with him, and ordered the strongest wrestlers to pull — in vain; he had mighty elephants yoked —
 the chariot stood still. Then the Lord came with His companions. He had the elephants unharnessed, gave the ropes to His
 own people, and Himself pushed the chariot from behind with His head — and it rolled forward with a roar and in a moment
 reached the gates of Gundicha. All marvelled at the Lord's power, and the king, his retinue and ministers were seized with
@@ -416,8 +416,8 @@ played the part of cowherd companions in this lila. <!-- F67 -->
 For two years the Lord longed to go to Vrindavana, but Ramananda and Sarvabhauma kept Him in Puri (CC, Madhya 16.84–89);
 according to one of the biographies, on one pretext or another and at the earnest request of the king, whom the news of
 the Lord's departure had saddened (CC, Madhya 16.3). When at last He was firmly resolved, the king himself arranged
-everything for His journey. On Vijaya-dashami the Lord came with Ramananda to Cuttack and rested in a garden under a bakula
-tree. Ramananda informed the king, and he hurried there:
+everything for His journey. On Vijaya-dashami the Lord came with Ramananda to Cuttack and rested beneath a bakula tree in a
+garden. Ramananda informed the king, and he hurried there:
 
 “Delighted at the news, the king came at once, and seeing the Lord, he fell flat on the ground like a rod. Overwhelmed by
 love, he rose and fell again and again; he offered prayers, the hair of his body stood on end, and tears flowed from his
@@ -475,7 +475,7 @@ In other years too, when the Lord with His devotees circled the temple in sankir
 retinue watched Him from a distance, and the queens from the upper storey of the palace (CC, Antya 10.58–63). <!-- F87 -->
 
 ## Other Accounts
-According to Murari Gupta, King Gajapati, wishing to see Mahaprabhu, summoned Sarvabhauma together with Ramananda (Murari
+In Murari Gupta the Gajapati, longing to see Mahaprabhu, calls Sarvabhauma and Ramananda to him (Murari
 4.16.1).[^19] From there Murari, like Lochana Dasa, tells a different story from Vrindavana Dasa and Krishnadasa Kaviraja.
 In Murari the king sees Gaura and Nityananda in the ecstasy of kirtana, and in a dream three times sees Them as Krishna and
 Balarama; in Lochana he sees a sannyasi in Jagannatha's place, and later, after a ten-day fast, at the request of
