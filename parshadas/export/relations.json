@@ -25839,6 +25839,257 @@
   "note": "Вместе в перечне двенадцати гопалов (B 271)."
  },
  {
+  "from": "@shuklambara",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F10",
+   "F15",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F28",
+   "F31",
+   "F33",
+   "F35",
+   "F36",
+   "F37",
+   "F45",
+   "F46",
+   "I1",
+   "I3"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema",
+   "ev-shuklambara-mercy",
+   "ev-shuklambara-feast-vijaya-vision"
+  ],
+  "note": "Господь с любовью ел рис из его сумы (ЧБ Мадхья 16; ЧЧ Ади 10.38, 17.20) и рис, сваренный им «не касаясь» (ЧБ Мадхья 26); даровал ему према-бхакти (ЧБ 16.134–137; Мурари 2.3.5–8; Лочан 25.159–174); после Гаи явил прему в его доме (ЧБ Мадхья 1). «Мой нищий слуга из жизни в жизнь» (16.122)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F9"
+  ],
+  "events": [
+   "ev-advaita-calls-lord"
+  ],
+  "note": "Назван в обете Адвайты низвести Кришну (ЧБ Ади 2.118–119; B 1007)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "companion",
+  "who": "@gangadasa-pandita",
+  "facts": [
+   "F9",
+   "F14"
+  ],
+  "note": "Вместе в обете Адвайты (= @gangadasa-pandita F35); вместе изумлялись перемене Господа после Гаи (T 34–35)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "companion",
+  "who": "@srivasa",
+  "facts": [
+   "F9",
+   "F10",
+   "F21",
+   "F43"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama"
+  ],
+  "note": "В обете Адвайты; в доме Шривасы Господь ел его рис (ЧБ Мадхья 16; БР 12.2754–2758); в действе у Чандрашекхары Шриваса — Нарада, Шукламбара — его ученик-брахмачари (Карнапура)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "host",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F12",
+   "F13"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Гададхара спрятался в его доме; Шукламбара ответил Господу: «Это Твой Гададхара» (ЧБ Мадхья 1.96; M 23). = @gadadhara-pandita F27–F28."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "host",
+  "who": "@shriman-pandita",
+  "facts": [
+   "F10",
+   "F11",
+   "F12"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Господь велел Шриману с Садашивой прийти в дом Шукламбары (ЧБ Мадхья 1.40, 1.78)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "host",
+  "who": "@sadashiva-pandita",
+  "facts": [
+   "F10",
+   "F11",
+   "F12"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Позван в его дом после Гаи (ЧБ Мадхья 1.40, 1.70, 1.81; B 1035; T 57)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "host",
+  "who": "@murari-gupta",
+  "facts": [
+   "F11",
+   "F12",
+   "F14"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "В его доме Господь увидел Мурари после Гаи (T 41; B 775; ЧБ Мадхья 1.70, 1.81). = @murari-gupta F32."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "host",
+  "who": "@nityananda",
+  "facts": [
+   "F37"
+  ],
+  "events": [
+   "ev-shuklambara-feast-vijaya-vision"
+  ],
+  "note": "Пришёл с Господом на трапезу в его дом (ЧБ Мадхья 26.20)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "host",
+  "who": "@vijaya-dasa",
+  "facts": [
+   "F41"
+  ],
+  "events": [
+   "ev-shuklambara-feast-vijaya-vision"
+  ],
+  "note": "В доме Шукламбары писец Виджая увидел золотую руку Господа (ЧБ Мадхья 26.36–45; БР 12.3470–3471)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@lakshmi",
+  "facts": [
+   "F36"
+  ],
+  "note": "Бросила милостивый взгляд на рис, что он варил (ЧБ Мадхья 26.18)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F47"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Показал его царю Пратапарудре среди гаудийцев (ЧЧ Мадхья 11.90; M 153)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F47"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ]
+ },
+ {
+  "from": "@shuklambara",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F48",
+   "F50"
+  ],
+  "events": [
+   "ev-srinivasa-second-vrindavana"
+  ],
+  "note": "Благословил Шринивасу в Навадвипе (БР 4.57–58; T 205; M 190); после его ухода Шриниваса снова пошёл во Вриндаван (B 670; T 206). = @srinivasa-acharya F91."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F49"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ],
+  "note": "Встретил и обнял Нароттаму в Навадвипе, расспрашивал о Госвами (НВ 3.121–128; M 107 — в доме Джаганнатхи Мишры, ⚠9; B 1099). = @jiva-gosvami F165; @ishana-navadvipa F28."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "companion",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F48",
+   "F49",
+   "F50"
+  ],
+  "note": "Вместе — среди престарелых спутников в Навадвипе (B 1099; БР 4.57–58); ушли из мира в одно время (B 670; T 206)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "companion",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F50"
+  ],
+  "note": "Ушли из мира в одно время (B 670; T 206)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F32"
+  ],
+  "note": "Автор рассказа о рисе Шукламбары; плод слушания (ЧБ Мадхья 16.151)."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F25",
+   "F31",
+   "F39"
+  ],
+  "note": "«Гаудия-бхашья» к ЧБ Мадхья 16.122–123 (речь Господа о нём как триданди-бхикшу), к 26.24 (чистота подаяния), к Ади 1.134."
+ },
+ {
+  "from": "@shuklambara",
+  "type": "other",
+  "who": "@pundarika-vidyanidhi",
+  "facts": [],
+  "note": "Не путать: «Шукламбара» — по одному мнению, имя отца Пундарики (B 748; «Гаудия-бхашья» к ЧБ Ади 2.36–37) — другое лицо."
+ },
+ {
   "from": "@srinivasa-acharya",
   "type": "father",
   "who": "@chaitanya-dasa",

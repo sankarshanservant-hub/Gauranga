@@ -370,3 +370,4 @@
 | #devagrama | Деваграм | Devagrama | округ Надия; место явления @vishvanatha-chakravarti (B 972; T 219; M 254) |
 | #baleshvara | Балешвар (Баласор) | Baleshvara (Balasore) | Орисса; округ, где близ Ремуны родился @baladeva-vidyabhushana (B 976; T 220; M 3) |
 | #amber | Амбер (Амер) | Amber (Amer) | старая столица Джайпурского княжества, близ Галты (B 989, 994) |
+| #house-shuklambara | дом Шукламбары Брахмачари | house of Shuklambara Brahmachari | Навадвипа (Майяпур), на берегу Ганги; према Господа после Гаи, трапеза Господа (ЧБ Мадхья 1.78, 26.22; БР 12.2314–2315, 12.3467–3472) |

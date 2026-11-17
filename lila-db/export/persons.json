@@ -4462,6 +4462,10 @@
     "type": "companion"
    },
    {
+    "from": "@shuklambara",
+    "type": "served-by"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -11480,6 +11484,10 @@
     "type": "companion"
    },
    {
+    "from": "@shuklambara",
+    "type": "host"
+   },
+   {
     "from": "@srivasa",
     "type": "host"
    },
@@ -12907,6 +12915,10 @@
     "type": "other"
    },
    {
+    "from": "@shuklambara",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "friend"
    },
@@ -14005,6 +14017,10 @@
     "type": "other"
    },
    {
+    "from": "@shuklambara",
+    "type": "host"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -14354,6 +14370,10 @@
    {
     "from": "@shachi",
     "type": "servant"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "companion"
    },
    {
     "from": "@srinivasa-acharya",
@@ -15270,6 +15290,10 @@
    {
     "from": "@shridhara",
     "type": "other"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "companion"
    },
    {
     "from": "@svarupa-damodara",
@@ -16779,6 +16803,10 @@
     "type": "other"
    },
    {
+    "from": "@shuklambara",
+    "type": "host"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -17835,6 +17863,10 @@
     "type": "other"
    },
    {
+    "from": "@shuklambara",
+    "type": "companion"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -18347,6 +18379,158 @@
    "ev-kuliya-shachi-meeting",
    "ev-gauda-devotees-yearly-visit",
    "ev-narottama-gauda-pilgrimage"
+  ],
+  "summary": "в Кришна-лиле — одна из жён брахманов-жрецов (ГГД 191) и др.; происхождение — Навадвипа",
+  "card": "parshadas/cards/shuklambara.yaml",
+  "article": {
+   "ru": "parshadas/ru/shuklambara.md",
+   "en": "parshadas/en/shuklambara.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "род, место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "ушёл из этого мира после встреч со Шринивасой и Нароттамой и до второго пути Шринивасы во Вриндаван — по B 670 и T 206, без первоисточника (⚠11); дата, место и самадхи неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F5",
+     "F50"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "одна из жён брахманов-жрецов (яджня-патни)",
+    "source": "ГГД 191",
+    "level": "A",
+    "variants": [
+     "ГГД 191: «некоторые говорят — прежде был брахманом-жрецом (яджника-брахманом)» — второе мнение там же (B 1007; T 56); не сливать (⚠Б3)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Судама (брахман, чей дроблёный рис Кришна выхватил в Двараке)",
+    "source": "ЧБ Мадхья 16.124 (слова Господа); БР 12.2755 («называя его Судамой»)",
+    "level": "A",
+    "variants": [
+     "В книгах B — нет; T 56–57 — по БР («calling him Sudama»). Иное соотнесение, чем ГГД 191; давать оба без выбора."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Господь с любовью ел рис из его сумы (ЧБ Мадхья 16; ЧЧ Ади 10.38, 17.20) и рис, сваренный им «не касаясь» (ЧБ Мадхья 26); даровал ему према-бхакти (ЧБ 16.134–137; Мурари 2.3.5–8; Лочан 25.159–174); после Гаи явил прему в его доме (ЧБ Мадхья 1). «Мой нищий слуга из жизни в жизнь» (16.122)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Назван в обете Адвайты низвести Кришну (ЧБ Ади 2.118–119; B 1007)."
+   },
+   {
+    "type": "companion",
+    "who": "@gangadasa-pandita",
+    "note": "Вместе в обете Адвайты (= @gangadasa-pandita F35); вместе изумлялись перемене Господа после Гаи (T 34–35)."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "note": "В обете Адвайты; в доме Шривасы Господь ел его рис (ЧБ Мадхья 16; БР 12.2754–2758); в действе у Чандрашекхары Шриваса — Нарада, Шукламбара — его ученик-брахмачари (Карнапура)."
+   },
+   {
+    "type": "host",
+    "who": "@gadadhara-pandita",
+    "note": "Гададхара спрятался в его доме; Шукламбара ответил Господу: «Это Твой Гададхара» (ЧБ Мадхья 1.96; M 23). = @gadadhara-pandita F27–F28."
+   },
+   {
+    "type": "host",
+    "who": "@shriman-pandita",
+    "note": "Господь велел Шриману с Садашивой прийти в дом Шукламбары (ЧБ Мадхья 1.40, 1.78)."
+   },
+   {
+    "type": "host",
+    "who": "@sadashiva-pandita",
+    "note": "Позван в его дом после Гаи (ЧБ Мадхья 1.40, 1.70, 1.81; B 1035; T 57)."
+   },
+   {
+    "type": "host",
+    "who": "@murari-gupta",
+    "note": "В его доме Господь увидел Мурари после Гаи (T 41; B 775; ЧБ Мадхья 1.70, 1.81). = @murari-gupta F32."
+   },
+   {
+    "type": "host",
+    "who": "@nityananda",
+    "note": "Пришёл с Господом на трапезу в его дом (ЧБ Мадхья 26.20)."
+   },
+   {
+    "type": "host",
+    "who": "@vijaya-dasa",
+    "note": "В доме Шукламбары писец Виджая увидел золотую руку Господа (ЧБ Мадхья 26.36–45; БР 12.3470–3471)."
+   },
+   {
+    "type": "other",
+    "who": "@lakshmi",
+    "note": "Бросила милостивый взгляд на рис, что он варил (ЧБ Мадхья 26.18)."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Показал его царю Пратапарудре среди гаудийцев (ЧЧ Мадхья 11.90; M 153)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra"
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Благословил Шринивасу в Навадвипе (БР 4.57–58; T 205; M 190); после его ухода Шриниваса снова пошёл во Вриндаван (B 670; T 206). = @srinivasa-acharya F91."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Встретил и обнял Нароттаму в Навадвипе, расспрашивал о Госвами (НВ 3.121–128; M 107 — в доме Джаганнатхи Мишры, ⚠9; B 1099). = @jiva-gosvami F165; @ishana-navadvipa F28."
+   },
+   {
+    "type": "companion",
+    "who": "@gadadhara-dasa",
+    "note": "Вместе — среди престарелых спутников в Навадвипе (B 1099; БР 4.57–58); ушли из мира в одно время (B 670; T 206)."
+   },
+   {
+    "type": "companion",
+    "who": "@narahari-sarakara",
+    "note": "Ушли из мира в одно время (B 670; T 206)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Автор рассказа о рисе Шукламбары; плод слушания (ЧБ Мадхья 16.151)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Гаудия-бхашья» к ЧБ Мадхья 16.122–123 (речь Господа о нём как триданди-бхикшу), к 26.24 (чистота подаяния), к Ади 1.134."
+   },
+   {
+    "type": "other",
+    "who": "@pundarika-vidyanidhi",
+    "note": "Не путать: «Шукламбара» — по одному мнению, имя отца Пундарики (B 748; «Гаудия-бхашья» к ЧБ Ади 2.36–37) — другое лицо."
+   }
   ],
   "related_by": [
    {
@@ -19071,6 +19255,10 @@
    {
     "from": "@shridhara",
     "type": "other"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "companion"
    }
   ]
  },
@@ -21906,6 +22094,10 @@
    },
    {
     "from": "@shridhara",
+    "type": "other"
+   },
+   {
+    "from": "@shuklambara",
     "type": "other"
    },
    {
@@ -24808,6 +25000,10 @@
    },
    {
     "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@shuklambara",
     "type": "other"
    },
    {
@@ -29623,6 +29819,12 @@
    "ev-gauda-devotees-set-out-puri",
    "ev-gauda-devotees-arrive-puri",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@shuklambara",
+    "type": "host"
+   }
   ]
  },
  {
@@ -29753,6 +29955,10 @@
    },
    {
     "from": "@shridhara",
+    "type": "other"
+   },
+   {
+    "from": "@shuklambara",
     "type": "other"
    },
    {
@@ -32234,6 +32440,10 @@
    {
     "from": "@mukunda-datta",
     "type": "friend"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "other"
    },
    {
     "from": "@svarupa-damodara",
@@ -39437,6 +39647,10 @@
     "type": "met"
    },
    {
+    "from": "@shuklambara",
+    "type": "met"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -40473,6 +40687,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "other"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "met"
    },
    {
     "from": "@srinivasa-acharya",
@@ -46782,6 +47000,10 @@
     "type": "other"
    },
    {
+    "from": "@shuklambara",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -48440,6 +48662,12 @@
    "ev-maya-tests-haridasa",
    "ev-tattva-shaktis",
    "ev-tattva-dasya-bhakta-bhava"
+  ],
+  "related_by": [
+   {
+    "from": "@shuklambara",
+    "type": "other"
+   }
   ]
  },
  {
@@ -53849,6 +54077,10 @@
    {
     "from": "@nityananda",
     "type": "host"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "host"
    }
   ]
  },
@@ -54089,6 +54321,10 @@
    {
     "from": "@murari-gupta",
     "type": "other"
+   },
+   {
+    "from": "@shuklambara",
+    "type": "host"
    }
   ]
  },
