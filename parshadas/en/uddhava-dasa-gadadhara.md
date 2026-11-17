@@ -27,7 +27,7 @@ Srila Bhaktisiddhanta Sarasvati Thakura quotes this verse in his “Anubhashya�
 has nothing about him beyond this verse. <!-- F5 -->
 
 The verse is brief, yet it says the essential. The wealth of prema, divine love for Krishna, is not won by learning,
-noble birth or austerity; Uddhava Dasa gave it to those who counted themselves lowest of all — the humble and the fallen.
+noble birth or austerity; Uddhava Dasa bestowed it on those who counted themselves lowest of all — the humble and the fallen.
 In this he followed his guru and Mahaprabhu Himself, who gave prema to all without distinction.
 
 ## An Avesha of the Moon
@@ -132,5 +132,5 @@ for the fallen. <!-- F2 F3 F4 -->
     agrees with the reference work, by which the Vrindavana Uddhava lived at Pavana-sarovara near Nandagrama.
 [^9]: By the “Bhakti-ratnakara” (6.509–542), the Vaishnavas, Uddhava among them, gathered at the temple of Govinda in
     Vrindavana; the cart set off on the road to Mathura, and the Gosvamis walked beside it for some time, and from
-    Mathura onward Jiva saw it off. One of the biographies writes that Uddhava went part of the way with them “from
+    Mathura onward Jiva escorted it. One of the biographies writes that Uddhava went part of the way with them “from
     Mathura towards North Bengal”; in the “Bhakti-ratnakara” it is from Vrindavana, and the goal of the journey is Gauda.
