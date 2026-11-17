@@ -24,7 +24,7 @@ names father and son among the branches of Nityananda's tree:
 “Sri Sadashiva Kaviraja was a great soul, and Sri Purushottama dasa was his son. From his birth he was absorbed in the
 feet of Nityananda, and he ceaselessly played childhood games with Krishna.” (CC, Adi 11.38–39)
 
-The biographies name three chief disciples of Purushottama — Madhavacharya, Yadavacharya and Devakinandana.[^3] And
+One of the biographies names three chief disciples of Purushottama — Madhavacharya, Yadavacharya and Devakinandana.[^3] And
 that the author of the “Vaishnava-vandana” was Purushottama's disciple, the vandana itself plainly says. <!-- F5 -->
 
 Purushottama was a parshada — an associate — of Nityananda Prabhu, and therefore his disciple Devakinandana belonged to
@@ -122,7 +122,7 @@ among the Vaishnavas was determined by diksha, not by birth. His life is almost 
 in the “Vaishnava-vandana”: a humble servant who called himself a sinner and a mute left a song in which the names of the
 Lord's companions are gathered for all who seek their grace. For the biographies he is above all a singer
 of the Vaishnavas, and in this lay his service: by glorifying the devotees he opened to others the way to that prema
-which, in his faith, only they can bestow. <!-- F12 I1 I2 -->
+which, as he sings, only they can bestow. <!-- F12 I1 I2 -->
 
 [^1]: He should not be confused with Devananda Pandita of Navadvipa, who is a different person. The name
     “Devaki-nandana” (“the joy of Devaki”) is also borne by Krishna Himself, the son of Devaki.
@@ -132,7 +132,7 @@ which, in his faith, only they can bestow. <!-- F12 I1 I2 -->
 [^3]: One of the biographies calls the first of them “Madhvacharya”; this is Madhavacharya, the husband of Ganga,
     Nityananda's daughter, not Madhvacharya, the founder of the sampradaya.
 [^4]: In one of the biographies the first line is printed (“ইষ্টদেব বন্দিত”) in a way that could be read as “praised by his
-    chosen deity”; this is evidently a misprint. The 1910 edition of the vandana has “I praise” (*বন্দোঁ*), and Jagadbandhu
+    chosen deity”; this is apparently a misprint. The 1910 edition of the vandana has “I praise” (*বন্দোঁ*), and Jagadbandhu
     Bhadra (1903) “I shall praise” (*বন্দিব*): the author is glorifying his guru.
 [^5]: Our edition of the “Anuraga-valli” has no such line. The word *bada* may also be understood as the “Large”
     vandana: in the view of scholars, Manohara Dasa means precisely the large vandana with the “four sampradayas,”
