@@ -132,14 +132,14 @@ respect: your standard is the logic of half a hen. If you accept neither, you ar
 the other is hypocrisy.’” (CC, Adi 5.174–177)
 
 The brother's unbelief wounded Ramadasa deeply. But Kaviraja took his side and rebuked his brother before the guest had
-gone:[^8] Nityananda is Baladeva Himself, and it is wrong to think Him lower than Chaitanya. Faith in Chaitanya without
+gone;[^8] according to one biography, he also told his brother that Nityananda is an avatara of Baladeva and that
+it is wrong to think Him lower than Chaitanya. Faith in Chaitanya without
 faith in Nityananda is not devotion but hypocrisy; and so one cannot say of the brother that he was a good devotee who
 lacked only one thing: the Two Brothers are one body.[^9] <!-- F24 F25 F27 Q3 -->
 
 “In anger Ramadasa broke his flute and went away, and at that very moment my brother was ruined.” (CC, Adi 5.178)
 
-The cowherd's flute he had brought to the festival was broken — thus Minaketana left a house where his Lord was not
-honoured. According to one biography, he simply left, displeased. The Bengali says of the brother: “at that very moment
+Breaking the cowherd's flute he had brought to the festival, Minaketana left a house where his Lord was not honoured. According to one biography, he simply left, displeased. The Bengali says of the brother: “at that very moment
 my brother met with utter ruin” (*sarva-nasha*). One biography explains that though the brother was devoted to Gaura,
 the offence against a devotee destroyed him and he fell; another, that he lost all his devotion. Ramadasa did not curse
 him: he only went away, and the ruin was the fruit of the offence against a Vaishnava and of unbelief in
