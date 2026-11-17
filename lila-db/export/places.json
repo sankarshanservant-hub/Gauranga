@@ -11272,5 +11272,32 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#putiya",
+  "ru": "Путия (Пунтия)",
+  "en": "Putiya (Puntia)",
+  "note": "округ Раджшахи (ныне Бангладеш); родина @gangamata-gosvamini, царство её отца @naresha-narayana (B 965; T 217)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#shveta-ganga",
+  "ru": "Швета-ганга",
+  "en": "Shveta-ganga",
+  "note": "пруд в Пури, у Швета-мадхавы и Матсья-мадхавы, между Акшая-ватой и морем («Уткала-кханда» по B 966, T 217); здесь Ганга пришла к @gangamata-gosvamini",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#gangamata-matha",
+  "ru": "Гангамата-матх (дом Сарвабхаумы)",
+  "en": "Gangamata Matha (house of Sarvabhauma)",
+  "note": "Пури; прежний дом @sarvabhauma («Анубхашья» к ЧЧ Мадхья 6.8: к югу от храма, Балукханда, у Маркандея-сараса; B 965–967, ГВА — у #shveta-ganga); матх @gangamata-gosvamini, Божество @rasika-raya-gangamata",
+  "section": "",
+  "lilas": [],
+  "events": []
  }
 ]

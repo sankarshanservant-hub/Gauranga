@@ -6067,6 +6067,10 @@
   ],
   "related_by": [
    {
+    "from": "@gangamata-gosvamini",
+    "type": "other"
+   },
+   {
     "from": "@jagadisha-pandita",
     "type": "other"
    },
@@ -7026,6 +7030,12 @@
     "type": "other",
     "who": "@sarvabhauma",
     "note": "В матхе Гангаматы (по T — прежний дом Сарвабхаумы) рядом с Расика Раем — Дамодара-шалаграма, которому служил Сарвабхаума."
+   }
+  ],
+  "related_by": [
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "deity-served"
    }
   ]
  },
@@ -13895,6 +13905,10 @@
     "type": "other"
    },
    {
+    "from": "@gangamata-gosvamini",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -20174,6 +20188,10 @@
    },
    {
     "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gangamata-gosvamini",
     "type": "other"
    },
    {
@@ -43945,6 +43963,10 @@
     "type": "other"
    },
    {
+    "from": "@gangamata-gosvamini",
+    "type": "guru"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    },
@@ -44380,6 +44402,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
+   },
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "lineage-predecessor"
    },
    {
     "from": "@jiva-gosvami",
@@ -46281,6 +46307,10 @@
     "type": "other"
    },
    {
+    "from": "@gangamata-gosvamini",
+    "type": "other"
+   },
+   {
     "from": "@gaurakishora-dasa-babaji",
     "type": "disciple"
    },
@@ -46771,6 +46801,111 @@
   "section": "Спутники",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Харидас Пандит (служитель Говинды); происхождение — Путия (Пунтия); явление — Джьештха шукла дашами; уход — Ашвина шукла экадаши",
+  "card": "parshadas/cards/gangamata-gosvamini.yaml",
+  "article": {
+   "ru": "parshadas/ru/gangamata-gosvamini.md",
+   "en": "parshadas/en/gangamata-gosvamini.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "Джьештха шукла дашами (по нашему календарю — Гаура-дашами месяца Тривикрама; 2026 г. — 24 июня)",
+    "place": "#putiya",
+    "conf": "год 1601 — по сведениям матха (B 969; T 218; ур. C); тити совпадает с календарём Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17: «День явления Шри Гангаматы Госвамини»)",
+    "facts": [
+     "F2",
+     "F48"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Ашвина шукла экадаши (только B 971)",
+    "place": "#puri?",
+    "conf": "1721 г., 120 лет от роду (B 969, 971; T 218; по сведениям матха, ур. C); место прямо не названо — в служении Расика-раю в Пури; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F43",
+     "F48"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@naresha-narayana",
+    "note": "Раджа Путии; хотел выдать её замуж; M — умер вместе с царицей, после чего она правила царством (⚠8)."
+   },
+   {
+    "type": "guru",
+    "who": "@haridasa-pandita-govinda",
+    "note": "Посвятил её во Вриндаване (18-слоговая мантра, храм Говиндаджи, Чайтра шукла экадаши); послал на Радха-кунду, затем в Пури, велел не покидать Кшетру. ЧЧ Ади 8.54–60 (Q1)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@ananta-acharya",
+    "note": "Гуру её гуру; по «Анубхашье» и ГГД 165 — Судеви, в преемстве матха — Винода-манджари."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@gadadhara-pandita",
+    "note": "Её линия — от Гаура-шакти Гададхары Пандита. = @gadadhara-pandita F79."
+   },
+   {
+    "type": "relative",
+    "who": "@lakshmipriya-gangamata",
+    "note": "Жена дяди по матери (B 964; «Анубхашья»; T — «aunt» / «niece») и старшая гуру-сестра; вместе на Радха-кунде, обход Говардханы; M — лишь ученица Харидаса, посланная ей в помощь (⚠2)."
+   },
+   {
+    "type": "disciple",
+    "who": "@mukundadeva-gangamata",
+    "note": "Царь Пури: слушал её «Бхагаватам», по сну Джаганнатхи дал место у Швета-ганги; после чуда Ганги принял у неё посвящение (по B, T — лишь он; M, ГВА — с пуджари/парихами, ⚠4); от земли-дакшины она отказалась, приняла ежедневный прасад для вайшнавов."
+   },
+   {
+    "type": "disciple",
+    "who": "@mahiratha-sharma",
+    "note": "Смарта-брахман из Дхананджаяпура; посвящён в Радха-Кришна-мантру; по её велению проповедовал (Ганджам — B; Бенгалия — M, «Махидхара», ⚠11)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@rasika-raya-gangamata",
+    "note": "По сну Джаганнатхи брахман Чандра Шарма принёс Его к ней; приняла по Его велению; служила до ухода. = @rasika-raya-gangamata F6–F27. «Анубхашья»: она привезла Его от Кришны Мишры из Джайпура (⚠6)."
+   },
+   {
+    "type": "other",
+    "who": "@chandra-sharma-jaipur",
+    "note": "Принёс Расика-рая и, когда она отказалась, оставил Его в её роще туласи."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@banamali-dasa-gangamata",
+    "note": "Ему вверила служение Расика-раю (B 971); по «Анубхашье» — (5) Шри Ванамали в преемстве матха (вывод, ⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "Веления во сне царю, ей и брахману; Сам источил Гангу из Своих стоп и омыл её (⚠Б2)."
+   },
+   {
+    "type": "other",
+    "who": "@ganga-devi",
+    "note": "Пришла к ней в Швета-ганге, желая её общества, и течением принесла её в храм (предание, ⚠Б2)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Его обветшавший дом в Пури, где оставался Дамодара-шалаграма, которому он служил, она восстановила — ныне Гангамата-матх («Анубхашья» к Мадхья 6.8)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 8.59–60 (преемство матха) и Мадхья 6.8 (дом Сарвабхаумы = Гангамата-матх); T 249 — беседовал в Пури с пуджари её матха."
+   }
+  ],
   "related_by": [
    {
     "from": "@gadadhara-pandita",
@@ -47954,6 +48089,12 @@
    "ev-first-sight-jagannatha-temple",
    "ev-paramananda-puri-well-ganga",
    "ev-farewell-gauda-devotees-instructions"
+  ],
+  "related_by": [
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "other"
+   }
   ]
  },
  {
@@ -61934,6 +62075,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@gangamata-gosvamini",
+    "type": "other"
+   },
+   {
     "from": "@rasika-raya-gangamata",
     "type": "served-by"
    }
@@ -61949,8 +62094,72 @@
   "events": [],
   "related_by": [
    {
+    "from": "@gangamata-gosvamini",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@rasika-raya-gangamata",
     "type": "served-by"
+   }
+  ]
+ },
+ {
+  "id": "@lakshmipriya-gangamata",
+  "ru": "Лакшмиприя (гуру-сестра Ганга-маты)",
+  "en": "Lakshmipriya (Gangamata's guru-sister)",
+  "note": "ученица Харидаса Пандита (@haridasa-pandita-govinda), жена дяди Ганга-маты по матери («Анубхашья» к ЧЧ Ади 8.59–60; B 964); на Радха-кунде повторяла 3 лакха имён в день (B 965; T 217; M 29); не путать с @lakshmipriya, @lakshmipriya-chakhandi",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "relative"
+   }
+  ]
+ },
+ {
+  "id": "@naresha-narayana",
+  "ru": "Нареша Нараяна (раджа Путии)",
+  "en": "Naresha Narayana (Raja of Putiya)",
+  "note": "отец @gangamata-gosvamini; #putiya (B 965; T 217; M 27)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@mukundadeva-gangamata",
+  "ru": "Мукундадева (царь Пури, ученик Ганга-маты)",
+  "en": "Mukundadeva (King of Puri, Gangamata's disciple)",
+  "note": "по сну Джаганнатхи дал ей место у #shveta-ganga, после чуда Ганги принял у неё посвящение (B 966–968; T 217–218; M 29–31); не путать с Мукундадевой, дедом Рупы и Санатаны",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@mahiratha-sharma",
+  "ru": "Махиратха Шарма (ученик Ганга-маты)",
+  "en": "Mahiratha Sharma (Gangamata's disciple)",
+  "note": "смарта-брахман из Дхананджаяпура, по её велению проповедовал в Ганджаме (B 968; T 218); у M — «Махидхара Шарма», «по всей Бенгалии» (M 31–32)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gangamata-gosvamini",
+    "type": "disciple"
    }
   ]
  }
