@@ -19232,6 +19232,319 @@
   "note": "«Анубхашья» к ЧЧ Ади 7.41, 7.64, 7.149, Мадхья 17.87, 17.104, 17.116, 25.45, 25.60; «Гаудия-бхашья» к ЧБ Мадхья 3.37–38, 20.34; предисловие к «Чайтанья-чандрамрите»: глава экаданди Каши, не Прабодхананда."
  },
  {
+  "from": "@prataparudra",
+  "type": "father",
+  "who": "@purushottama-deva",
+  "facts": [
+   "F3",
+   "F4",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21"
+  ],
+  "note": "Царь Ориссы до 1497 г., всецело преданный Джаганнатхе; метёл дорогу перед колесницей; война с Канчи и трон для Джаганнатхи (ср. ЧЧ Мадхья 5.120–124); предание о молочнице и Бханда-Ганеше — только T."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "son",
+  "who": "@purushottama-jana",
+  "facts": [
+   "F9",
+   "F71"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "B: сын царицы Гаури, старший; T: старший из пяти сыновей Гаури (оба — со ссылкой на БР 6.65, где лишь «сын»; ⚠2); «Бада Джана», приговоривший Гопинатху (ЧЧ Антья 9.99)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F25",
+   "F34",
+   "F35",
+   "F45",
+   "F46",
+   "F51",
+   "F52",
+   "F53",
+   "F54",
+   "F55",
+   "F56",
+   "F59",
+   "F61",
+   "F62",
+   "F63",
+   "F64",
+   "F65",
+   "F66",
+   "F67",
+   "F68",
+   "F69",
+   "F70",
+   "I1",
+   "I2",
+   "I3"
+  ],
+  "events": [
+   "ev-prataparudra-asks-sarvabhauma",
+   "ev-lord-refuses-to-see-king",
+   "ev-prataparudra-son-embraced",
+   "ev-ratha-yatra-gundicha",
+   "ev-prataparudra-mercy",
+   "ev-lord-pushes-chariot",
+   "ev-gopa-vesha-dadhi-utsava",
+   "ev-prataparudra-farewell-six-armed",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Господь как санньяси отказывался видеть царя (урок отрёкшимся, ⚠Б1), но, увидев его служение метлой, даровал милость: объятие в саду у Балаганди при «Гопи-гите», явленная айшварья, объятие у Катака — имя «Пратапарудра-сантрата» (ЧЧ Мадхья 11–16; Антья 9)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F11",
+   "F13",
+   "F39",
+   "F40",
+   "F55",
+   "I5"
+  ],
+  "events": [
+   "ev-prataparudra-dream-dusty-jagannatha"
+  ],
+  "note": "Слуга Джаганнатхи: метла и сандаловая вода перед колесницей (ЧЧ Мадхья 13.15–18); во сне Джаганнатха в пыли открывает ему единство с Шри Чайтаньей (ЧБ Антья 5.167–185); по ГГД 118 в прежнем рождении — Индрадьюмна, поклонявшийся Джаганнатхе."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "guru",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F32",
+   "F33",
+   "F56",
+   "F72",
+   "F78"
+  ],
+  "events": [
+   "ev-kashi-mishra-residence",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Царский жрец (пурохита, B); T и B (1028, 1033) — гуру царя: царь растирал ему стопы и слушал о служении Джаганнатхе (ЧЧ Антья 9.81–82); прямо «гуру» ЧЧ не говорит (⚠10)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "protege",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F29",
+   "F43",
+   "F44",
+   "F45",
+   "F46",
+   "F48",
+   "F49",
+   "F52",
+   "F56",
+   "F59",
+   "F80",
+   "I7"
+  ],
+  "events": [
+   "ev-prataparudra-asks-sarvabhauma",
+   "ev-lord-refuses-to-see-king",
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Придворный пандит царя (B 1018; T 112); посредник: совет прийти к Господу в облике вайшнава на Ратха-ятре (ЧЧ Мадхья 11.50–59); утешил царя после «прикосновения мирского»."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "protege",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F28",
+   "F30",
+   "F47",
+   "F53",
+   "F68",
+   "F69",
+   "F74",
+   "F81"
+  ],
+  "events": [
+   "ev-ramananda-comes-to-puri",
+   "ev-prataparudra-son-embraced",
+   "ev-prataparudra-farewell-six-armed"
+  ],
+  "note": "Правитель Годавари (Видьянагары), позже министр; отпущен царём к Господу с полным жалованьем; посредник; «Джаганнатха-валлабха-натака» — по повелению царя; после сокрытия Господа лишь Рамананда сохранил ему жизнь (БР 3.218). = @ramananda-raya F7, F40–F46, F86–F90, F135–F139, F156."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F51",
+   "F52"
+  ],
+  "events": [
+   "ev-lord-refuses-to-see-king"
+  ],
+  "note": "Передал Господу решимость царя стать йогом и послал ему накидку Господа (ЧЧ Мадхья 12.19–38)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F51"
+  ],
+  "note": "Господь сослался на его упрёк; Дамодара: Господь Сам встретится с царём, ибо покорён любовью (ЧЧ Мадхья 12.22–29). = @damodara-pandita F20."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F52"
+  ],
+  "note": "Через Говинду — накидка Господа для царя (ЧЧ Мадхья 12.36). = @govinda-servant F43."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F49"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Называл царю вайшнавов Гауды с крыши дворца (ЧЧ Мадхья 11.79–90)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@harichandana",
+  "facts": [
+   "F58",
+   "F68",
+   "F72"
+  ],
+  "note": "Министр (махапатра): на его плечо опирался царь на Ратха-ятре; его ударил Шриваса; рассказал царю о казни Гопинатхи (T 145); вёл подготовку пути Господа (ЧЧ Мадхья 16.113)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F58"
+  ],
+  "note": "«Счастливец ты: тебя коснулась рука Шриваса» — слова царя Харичандане (ЧЧ Мадхья 13.97)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "ruler-of",
+  "who": "@gopinatha-pattanayaka",
+  "facts": [
+   "F30",
+   "F70",
+   "F71",
+   "F72"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Тахсилдар в Маладжатхья-Дандапате; ради Господа царь простил долг, удвоил жалованье и почтил его (ЧЧ Антья 9)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@bhavananda-raya",
+  "facts": [
+   "F70",
+   "F72"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Род Бхавананды — почитаем царём (ЧЧ Антья 9.102–103). = @bhavananda-raya F38–F39."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@kamalakanta-vishvasa",
+  "facts": [
+   "F73"
+  ],
+  "events": [
+   "ev-kamalakanta-letter-prataparudra"
+  ],
+  "note": "Письмо царю о долге Адвайты (ЧЧ Ади 12.28–29)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F31"
+  ],
+  "note": "B 896: говорят, царь назначил её писцом «Мадала-панджи»."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "patron",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F22",
+   "F83"
+  ],
+  "note": "ЧЧН (пролог 1-го акта): драма ставится по повелению Гаджапати Пратапарудры, удручённого сокрытием Господа; Карнапура славит его доблесть и шанта-расу."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@gangadasa-pandita",
+  "facts": [
+   "F49"
+  ],
+  "note": "Среди вайшнавов, названных царю (ЧЧ Мадхья 11.85). = @gangadasa-pandita F52."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F79"
+  ],
+  "note": "Стих Баладевы: по милости Шри Чайтаньи Гаджапати стал безупречен и умиротворён. = @baladeva-vidyabhushana F58–F59."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F82"
+  ],
+  "note": "Пришёл в Нилачалу после сокрытия Господа и горевал, что не увидел царя (БР 3.213–221)."
+ },
+ {
+  "from": "@prataparudra",
+  "type": "other",
+  "who": "@radhakanta-puri",
+  "facts": [
+   "F78"
+  ],
+  "note": "T 202: Божество привёз из Канчи отец царя; затем — у Каши Мишры и Гопалы Гуру."
+ },
+ {
   "from": "@pundarika-vidyanidhi",
   "type": "father",
   "who": "@baneshvara-pundarika",

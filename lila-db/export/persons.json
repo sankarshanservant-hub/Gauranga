@@ -4398,6 +4398,10 @@
     "type": "met"
    },
    {
+    "from": "@prataparudra",
+    "type": "served-by"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -6108,6 +6112,10 @@
    },
    {
     "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    },
    {
@@ -11444,6 +11452,10 @@
     "type": "guru"
    },
    {
+    "from": "@prataparudra",
+    "type": "other"
+   },
+   {
     "from": "@purushottama-nagara",
     "type": "guru"
    },
@@ -15276,6 +15288,10 @@
     "type": "host"
    },
    {
+    "from": "@prataparudra",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "companion"
    },
@@ -18907,6 +18923,10 @@
     "type": "other"
    },
    {
+    "from": "@prataparudra",
+    "type": "other"
+   },
+   {
     "from": "@raghava-pandita",
     "type": "co-worker"
    },
@@ -19242,6 +19262,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    },
    {
@@ -20467,6 +20491,10 @@
     "type": "other"
    },
    {
+    "from": "@prataparudra",
+    "type": "protege"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "other"
    },
@@ -21098,6 +21126,10 @@
    {
     "from": "@pradyumna-mishra",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@prataparudra",
+    "type": "protege"
    },
    {
     "from": "@pundarika-vidyanidhi",
@@ -22030,6 +22062,176 @@
    "ev-devotees-lament-after-disappearance",
    "ev-narottama-dream-ratha-kirtan",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в лиле аватары — царь Индрадьюмна, некогда поклонявшийся… (ГГД 118); гуру — Каши Мишра; происхождение — Катака (Каттак)",
+  "card": "parshadas/cards/prataparudra.yaml",
+  "article": {
+   "ru": "parshadas/ru/prataparudra.md",
+   "en": "parshadas/en/prataparudra.md"
+  },
+  "kind": "ruler",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год и день явления книги не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F84"
+    ]
+   },
+   "disappearance": {
+    "date": "1540?",
+    "tithi": "",
+    "place": "",
+    "conf": "B, T: царствовал до 1540 г. (T: «до ухода в 1540»); БР 3.214, 3.219 — передал царство сыну ещё при Господе, после сокрытия Господа жил вдали от Нилачалы; ЧЧН (пролог) — после сокрытия Господа повелевает ставить драму в Пури (⚠4); в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F21",
+     "F81",
+     "F83",
+     "F84"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Сарасвати-виласа» (смрити) и др. — приписываются; по T, написаны придворными учёными",
+    "facts": [
+     "F26"
+    ]
+   },
+   {
+    "title": "песня-молитва Радхе с его подписью (авторство сомнительно)",
+    "facts": [
+     "F27"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "царь Индрадьюмна, некогда поклонявшийся Джаганнатхе («равный Индре»)",
+    "source": "ГГД 118",
+    "level": "A",
+    "variants": [
+     "B передаёт «процветающим Пратапарудрой» (⚠12)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@purushottama-deva",
+    "note": "Царь Ориссы до 1497 г., всецело преданный Джаганнатхе; метёл дорогу перед колесницей; война с Канчи и трон для Джаганнатхи (ср. ЧЧ Мадхья 5.120–124); предание о молочнице и Бханда-Ганеше — только T."
+   },
+   {
+    "type": "son",
+    "who": "@purushottama-jana",
+    "note": "B: сын царицы Гаури, старший; T: старший из пяти сыновей Гаури (оба — со ссылкой на БР 6.65, где лишь «сын»; ⚠2); «Бада Джана», приговоривший Гопинатху (ЧЧ Антья 9.99)."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Господь как санньяси отказывался видеть царя (урок отрёкшимся, ⚠Б1), но, увидев его служение метлой, даровал милость: объятие в саду у Балаганди при «Гопи-гите», явленная айшварья, объятие у Катака — имя «Пратапарудра-сантрата» (ЧЧ Мадхья 11–16; Антья 9)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "Слуга Джаганнатхи: метла и сандаловая вода перед колесницей (ЧЧ Мадхья 13.15–18); во сне Джаганнатха в пыли открывает ему единство с Шри Чайтаньей (ЧБ Антья 5.167–185); по ГГД 118 в прежнем рождении — Индрадьюмна, поклонявшийся Джаганнатхе."
+   },
+   {
+    "type": "guru",
+    "who": "@kashi-mishra",
+    "note": "Царский жрец (пурохита, B); T и B (1028, 1033) — гуру царя: царь растирал ему стопы и слушал о служении Джаганнатхе (ЧЧ Антья 9.81–82); прямо «гуру» ЧЧ не говорит (⚠10)."
+   },
+   {
+    "type": "protege",
+    "who": "@sarvabhauma",
+    "note": "Придворный пандит царя (B 1018; T 112); посредник: совет прийти к Господу в облике вайшнава на Ратха-ятре (ЧЧ Мадхья 11.50–59); утешил царя после «прикосновения мирского»."
+   },
+   {
+    "type": "protege",
+    "who": "@ramananda-raya",
+    "note": "Правитель Годавари (Видьянагары), позже министр; отпущен царём к Господу с полным жалованьем; посредник; «Джаганнатха-валлабха-натака» — по повелению царя; после сокрытия Господа лишь Рамананда сохранил ему жизнь (БР 3.218). = @ramananda-raya F7, F40–F46, F86–F90, F135–F139, F156."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Передал Господу решимость царя стать йогом и послал ему накидку Господа (ЧЧ Мадхья 12.19–38)."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "Господь сослался на его упрёк; Дамодара: Господь Сам встретится с царём, ибо покорён любовью (ЧЧ Мадхья 12.22–29). = @damodara-pandita F20."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Через Говинду — накидка Господа для царя (ЧЧ Мадхья 12.36). = @govinda-servant F43."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Называл царю вайшнавов Гауды с крыши дворца (ЧЧ Мадхья 11.79–90)."
+   },
+   {
+    "type": "other",
+    "who": "@harichandana",
+    "note": "Министр (махапатра): на его плечо опирался царь на Ратха-ятре; его ударил Шриваса; рассказал царю о казни Гопинатхи (T 145); вёл подготовку пути Господа (ЧЧ Мадхья 16.113)."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "«Счастливец ты: тебя коснулась рука Шриваса» — слова царя Харичандане (ЧЧ Мадхья 13.97)."
+   },
+   {
+    "type": "ruler-of",
+    "who": "@gopinatha-pattanayaka",
+    "note": "Тахсилдар в Маладжатхья-Дандапате; ради Господа царь простил долг, удвоил жалованье и почтил его (ЧЧ Антья 9)."
+   },
+   {
+    "type": "other",
+    "who": "@bhavananda-raya",
+    "note": "Род Бхавананды — почитаем царём (ЧЧ Антья 9.102–103). = @bhavananda-raya F38–F39."
+   },
+   {
+    "type": "other",
+    "who": "@kamalakanta-vishvasa",
+    "note": "Письмо царю о долге Адвайты (ЧЧ Ади 12.28–29)."
+   },
+   {
+    "type": "other",
+    "who": "@madhavi-devi",
+    "note": "B 896: говорят, царь назначил её писцом «Мадала-панджи»."
+   },
+   {
+    "type": "patron",
+    "who": "@kavi-karnapura",
+    "note": "ЧЧН (пролог 1-го акта): драма ставится по повелению Гаджапати Пратапарудры, удручённого сокрытием Господа; Карнапура славит его доблесть и шанта-расу."
+   },
+   {
+    "type": "other",
+    "who": "@gangadasa-pandita",
+    "note": "Среди вайшнавов, названных царю (ЧЧ Мадхья 11.85). = @gangadasa-pandita F52."
+   },
+   {
+    "type": "other",
+    "who": "@baladeva-vidyabhushana",
+    "note": "Стих Баладевы: по милости Шри Чайтаньи Гаджапати стал безупречен и умиротворён. = @baladeva-vidyabhushana F58–F59."
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "Пришёл в Нилачалу после сокрытия Господа и горевал, что не увидел царя (БР 3.213–221)."
+   },
+   {
+    "type": "other",
+    "who": "@radhakanta-puri",
+    "note": "T 202: Божество привёз из Канчи отец царя; затем — у Каши Мишры и Гопалы Гуру."
+   }
   ],
   "related_by": [
    {
@@ -28632,6 +28834,10 @@
     "type": "other"
    },
    {
+    "from": "@prataparudra",
+    "type": "guru"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -29051,6 +29257,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    },
    {
@@ -29943,6 +30153,10 @@
    },
    {
     "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    },
    {
@@ -34745,6 +34959,10 @@
    {
     "from": "@pradyumna-mishra",
     "type": "other"
+   },
+   {
+    "from": "@prataparudra",
+    "type": "patron"
    },
    {
     "from": "@raghunandana",
@@ -39609,6 +39827,10 @@
    {
     "from": "@parameshvara-dasa",
     "type": "met"
+   },
+   {
+    "from": "@prataparudra",
+    "type": "other"
    },
    {
     "from": "@raghunandana",
@@ -50462,6 +50684,10 @@
     "type": "other"
    },
    {
+    "from": "@prataparudra",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -50628,6 +50854,10 @@
    },
    {
     "from": "@pradyumna-mishra",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    },
    {
@@ -56249,6 +56479,10 @@
     "type": "son"
    },
    {
+    "from": "@prataparudra",
+    "type": "ruler-of"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "sibling"
    },
@@ -56501,6 +56735,10 @@
    },
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    }
   ]
@@ -57244,6 +57482,10 @@
    {
     "from": "@bhavananda-raya",
     "type": "other"
+   },
+   {
+    "from": "@prataparudra",
+    "type": "son"
    }
   ]
  },
@@ -58014,6 +58256,10 @@
    {
     "from": "@gopala-guru",
     "type": "other"
+   },
+   {
+    "from": "@prataparudra",
+    "type": "father"
    }
   ]
  },
@@ -58038,6 +58284,10 @@
   "related_by": [
    {
     "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
+    "from": "@prataparudra",
     "type": "other"
    },
    {
@@ -59418,6 +59668,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@prataparudra",
+    "type": "other"
+   },
+   {
     "from": "@vakreshvara",
     "type": "deity-served"
    }
@@ -60042,6 +60296,10 @@
    {
     "from": "@madhvacharya",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@prataparudra",
+    "type": "other"
    },
    {
     "from": "@ramanujacharya",
