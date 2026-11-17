@@ -260,7 +260,7 @@ is the charioteer: wherever the charioteer drives, there the chariot goes.” Th
 
 ## Intercessor for the King
 Prataparudra longed with all his heart to see the Lord, but the Lord, a sannyasi, would not agree to meet a king. When
-Nityananda sent the king one of the Lord’s kaupinas for consolation, the king began earnestly to beg Ramananda to
+Nityananda sent the king the Lord’s outer cloth (*bahirvasa*) for consolation, the king began earnestly to beg Ramananda to
 intercede. Through him he sent word that he was ready to give up his life if he did not see the Lord. The minister,
 skilled in affairs, again and again told the Lord of the king’s Vaishnava qualities and of his love for His feet — and
 the Lord’s heart softened. <!-- F44 F121 F136 F137 -->
