@@ -20,8 +20,8 @@ so poor that he had to beg for his food. Everything he collected in a day the br
 the remnants of His meal. Rapt in the mercy of Krishna he had received, he did not know what poverty was. He went from
 house to house singing the names of the Lord.” (CB, Madhya 16.111–115) <!-- F6 -->
 
-He was a brahmachari and lived on alms, and the biographies add that in this way Shuklambara enacted the pastimes of a
-poor brahmana begging for his food. But his poverty was no worldly destitution. He had nothing but Krishna, and so he
+He was a brahmachari and lived on alms, and the biographies add that in this way Shuklambara played the part of a
+needy brahmana living by begging. But his poverty was no worldly destitution. He had nothing but Krishna, and so he
 felt no want: day and night he sang the names and qualities of the Lord, and the beggar's bag was for him only a means of
 service. Only those whose eyes are turned outward saw him as a beggar; a servant of the Lord, says Vrindavana Dasa, can be
 recognized only by one who has himself received Sri Chaitanya's mercy (Madhya 16.116). He also compares Shuklambara with
@@ -34,7 +34,8 @@ transcendental sight a rich man, for he is rich in love for Mahaprabhu; and it r
 (CC, Antya 20.37) <!-- F5 F6 F7 I3 -->
 
 Nothing more is known of his worldly life. The sources name neither his parents nor his family, neither the year nor the
-day of his appearance, nor when and where he left this world; nor are his days found in the Vaishnava calendar of the
+day of his appearance, nor the exact time and place of his departure from this world; nor are his days found
+in the Vaishnava calendar of the
 Sri Chaitanya Saraswat Math. <!-- F5 -->
 
 ## A Priest's Wife and the Brahmana Sudama
@@ -68,9 +69,9 @@ show Himself to all, and together with devotees such as they were explain to peo
 deliver them. <!-- F8 F9 -->
 
 ## The Lord's First Prema — in His House
-When He returned from Gaya, Mahaprabhu was changed. Speaking of the holy place, He for the first time revealed to the
+Back from Gaya, Mahaprabhu was changed. Speaking of the holy place, He for the first time revealed to the
 devotees how love in separation from Krishna worked in Him, and on the next day He showed it in all its power — in the
-house of Shuklambara. One of the biographies places Nimai's return from Gaya in 1509 and says that Srivasa, Shriman,
+house of Shuklambara. One of the biographies dates Nimai's homecoming from Gaya to 1509 and says that Srivasa, Shriman,
 Gadadhara, Sadashiva and Shuklambara were amazed at the change in His nature. <!-- F10 F14 -->
 
 The first to see the Lord's transformations was Shriman Pandita. Coming to Himself, the Lord said to him:
@@ -141,7 +142,7 @@ Vrindavana Dasa, listing those who came, names Shuklambara too (Madhya 8.112–1
 sankirtana pastimes he was among Sri Chaitanya's many servants. <!-- F16 Q2 F17 Q7 -->
 
 He was also among those with whom the Lord sported in the waters of the Ganga when, after delivering Jagai and Madhai, He
-went with the devotees to bathe (Madhya 13.336–339). And on the great day when the Lord led sankirtana through the town and
+took the devotees to bathe in the river (Madhya 13.336–339). And on the great day when the Lord led sankirtana through the town and
 subdued the Kazi, Vrindavana Dasa names him among those who “knew well how to perform kirtan rightly” (23.150–152), and
 among those who wept with love at Shridhara's house:
 
@@ -181,11 +182,11 @@ laughing, the bag still on his shoulder.” (CB, Madhya 16.118–120)[^4]
 
 Narahari Chakravarti, showing pilgrims Srivasa's house, points to the platform (*khatta*) on which the Lord then sat: here,
 in the rapture of sankirtana, He thrust His hand into the bag of Shuklambara, who had just returned from begging, and with
-great love ate his rice, calling him Sudama; and Shuklambara, again and again expressing his humility, danced in the
-kirtan with the bag on his shoulder, and seeing his love the Lord and His companions rejoiced; then the Lord went home
+great love ate his rice, calling him Sudama; and Shuklambara, again and again expressing his humility, danced amid the
+singing, his bag still over his shoulder, and seeing his love the Lord and His companions rejoiced; then the Lord went home
 through the town (“Bhakti-ratnakara,” 12.2754–2758). <!-- F21 Q10 -->
 
-Seeing Shuklambara, the Lord began to glorify him:
+At the sight of Shuklambara the Lord began to sing his praises:
 
 “Looking at Shuklambara, the all-merciful Gauranga called to him: ‘Come! Come here! Life after life you remain My
 penniless servant. You give Me everything and yourself live on alms. I always long for your offerings, and even if you do
@@ -208,7 +209,7 @@ There is no worldly “poverty by the will of God” here, nor any seizing of wh
 of the Lord, who longs for His devotee's offering. He accepts love, not wealth, and so He Himself makes His servant
 possess nothing — so that all he has may belong to Him. <!-- F25 -->
 
-And having spoken so, the Lord put His hand into the bag:
+And having spoken so, the Lord put His hand into the bag: <!-- F52 -->
 
 “With these words Vishvambhara took a handful of raw rice from Shuklambara's bag and began to chew it. ‘O Lord, You have
 killed me!’ cried Shuklambara. ‘This rice is full of broken grains!’ The Lord replied: ‘I eat your broken rice, but I will
@@ -221,7 +222,7 @@ with unworthy food. But the Lord reassured him: a devotee's food He eats with ea
 of a non-devotee are of no use to Him. <!-- F23 F24 -->
 
 Seeing such compassion of the Lord, the devotees wept, fell wherever they were, took straw between their teeth and
-pleaded, “Lord, do not abandon me!” (16.129–132). And Shuklambara himself —
+pleaded, “Lord, do not abandon me!” (16.128–132). And Shuklambara himself —
 
 “The virtuous Shuklambara rolled on the ground, while the Lord of Vaikuntha ate his rice with relish.” (CB, Madhya
 16.133)[^5]
@@ -237,7 +238,8 @@ after life. And now I give you prema-bhakti. Know for certain that this gift is 
 16.134–137)
 
 Hearing that the Lord had granted Shuklambara prema, the Vaishnavas cried, “Jaya! Jaya! Hari! Hari!” (16.138), rejoicing
-to see such mercy. <!-- F28 F29 Q3 -->
+to see such mercy. Vrindavana Dasa adds: the servant of Him whom Lakshmi herself serves goes begging from door to door —
+and blessed is the one who grasps the secret of such pastimes (16.139). <!-- F28 F29 Q3 F52 -->
 
 Vrindavana Dasa explains what the Lord showed by this. Through the Vedas He Himself laid down the rules by which food is to
 be offered to Him, and He does not accept what is not offered by those rules; but for His devotees He may set aside every
@@ -247,7 +249,7 @@ injunction.
 16.143)
 
 The brahmana made no mudras of offering and did not even offer Him the rice, yet the Lord ate it with great longing
-(16.146). So He showed that the path of love (*anuraga*) is more glorious than the path of archana, and that devotion to
+(16.146). So He showed that the path of love (*anuraga*) surpasses in glory the path of archana, and that devotion to
 Krishna stands above all. Elsewhere one of the biographies places Shuklambara beside Sudama and the words of the
 “Bhagavad-gita” (9.26): the Lord gladly accepts what a devotee brings Him with love, and does not accept the gifts of a
 non-devotee. <!-- F30 I1 I5 -->
@@ -301,7 +303,8 @@ to Madhupuri and Dvaravati — and still he is unhappy: let the Lord give him th
 Madhya-khanda, pt. 2, v. 167)
 
 The brahmana fell to the ground and wept, and the Lord, unable to bear His devotee's suffering, cried aloud, “I have given
-prema, given prema!” — and Shuklambara's body trembled, thrilled all over, and his eyes filled with tears (vv. 159–174). In
+prema, given prema!” — and Shuklambara's body trembled, thrilled all over, and his eyes filled with tears (vv. 159–174). The 1983 edition of the poem adds
+that, rejoicing, he kept repeating Krishna's name, and the whole night passed in the rasa of Krishna. <!-- F56 --> In
 Karnapura's mahakavya Shuklambara pleads: “I have gone again and again to Dvaraka and Mathura — look but for a moment on
 me, unhappy as I am, and have mercy, Lord!” — and the Lord promises him: “This very day, here, you will have devotion to
 the Lord's lotus feet, full of love” (“Chaitanya-charita-mahakavya,” 6.8–11). And in Karnapura's drama Shuklambara says
@@ -341,7 +344,7 @@ ate it at the house of Vidura, the son of a shudra woman, for the sake of his de
 
 “But if you are still afraid, do not touch the food with your hands.” (CB, Madhya 26.13)
 
-So they advised him to cook without touching the food (*alagochhe*) and serve it to the Lord. <!-- F35 -->
+So they advised him to prepare the meal without his hands touching it (*alagochhe*) and serve it to the Lord. <!-- F35 -->
 
 “Having bathed, he boiled fragrant water. Then he dropped into it rice and the tender pith of the banana stem without
 touching them, and folded his hands in prayer. Then he began to sing joyfully: ‘Jaya Krishna, Govinda, Gopala, Vanamali!’
@@ -380,13 +383,19 @@ When the Lord had eaten, the devotees took up the vessels of prasada and in ecst
 (26.33). The Lord chewed betel, talked a little with His intimates (*ishtagoshthi*) about Krishna's pastimes and lay down to
 rest right there, in the house of the poor brahmana; the devotees too lay down after Him (26.32–36). <!-- F40 -->
 
-And then in Shuklambara's house another wonder took place. Among those resting was the scribe Vijaya, nicknamed
+And then in Shuklambara's house another, hidden pastime unfolded. Among those resting was the scribe Vijaya, nicknamed
 Ankharia — the finest copyist of Navadvipa, who had copied many books for the Lord. The Lord laid His hand on his body, and
 Vijaya saw it as it is: long and mighty, like a golden pillar set with jewels, shining like millions of suns and moons. He
 nearly cried out, but the Lord covered his mouth: “As long as you are in this world, tell no one what you have seen”
-(26.36–45). After that Vijaya wandered for a week beside himself. Srila Bhaktisiddhanta, telling of Vijaya in the
-“Anubhashya” on CC, Adi 10, also remembers that this happened “in the house of Shuklambara,” and so says the
-“Bhakti-ratnakara” (12.3470–3471). <!-- F41 -->
+(26.36–45).
+But Vijaya leapt up with a shout of joy and woke everyone. The Lord asked them all why he had suddenly cried out so, and
+Himself said: surely it is the power of the Ganga, to whom Vijaya is especially devoted; “or else in Shuklambara's house the
+Supreme Lord Himself is present. Krishna alone knows what was revealed to him” (26.46–52). After that Vijaya wandered for
+a week beside himself. Srila Bhaktisiddhanta, telling of Vijaya in the “Anubhashya” on CC, Adi 10, also remembers that
+this happened “in the house of Shuklambara,” and so says the “Bhakti-ratnakara” (12.3470–3471). <!-- F41 F53 -->
+
+“Such pastimes were revealed in Shuklambara's house,” says Vrindavana Dasa, and exclaims: “Who can describe the great
+fortune of Shuklambara, whose rice Gaurachandra ate?” (26.56–57) <!-- F53 -->
 
 Narahari Chakravarti, guiding pilgrims through Navadvipa, shows also the lane along which the Lord and His companions went
 to Shuklambara's that day: once the Lord, having asked for rice, went this way to his house; what can be said — the Lord ate
@@ -439,22 +448,36 @@ the ground; ‘Tell me who you are,’ he said, and embraced him.” (“Narotta
 Learning who stood before him, Shuklambara with tears recalled how Gaurachandra at Ramakeli, intoxicated with prema, had
 drawn Narottama to Himself and even then proclaimed his name; all the mahantas, he said, longed to see him; in separation
 from the Lord no one has peace of mind, and some had soon passed from sight. And he himself led Narottama to the Lord's
-devotees (3.123–128).[^13] Among the elder companions grieving in Mayapura over the Lord's disappearance Narottama saw
-Shuklambara, Ishana, Murari, Damodara and Dasa Gadadhara. <!-- F49 -->
+devotees (3.123–128). The “Bhakti-ratnakara” tells of the same meeting differently: entering the house of Jagannatha
+Mishra in Mayapura, Narottama found the merciful brahmachari Shuklambara there. He thought, “Though my heart burns with
+terrible grief, I am glad to see him: this must be Srinivasa's dear Narottama, the one whom the Lord drew to Himself at
+Ramakeli,” — asked his name, made himself known and embraced him with tears; Narottama fell at his feet and wept long in
+the courtyard of the Lord's house, and the brahmachari consoled him (“Bhakti-ratnakara,” 8.79–87).[^13] Among the elder
+companions grieving in Mayapura over the Lord's disappearance Narottama saw
+Shuklambara, Ishana, Murari, Damodara and Dasa Gadadhara. <!-- F49 F54 -->
 
-When and where Shuklambara left this world the primary sources do not say. According to the biographies, Shuklambara
-Brahmachari, Dasa Gadadhara and Narahari Sarakara Thakura entered the unmanifest pastimes after these meetings, and
-Srinivasa, grieving for them, went again to Vrindavana.[^14] Neither the date nor the place of his departure, nor his
-samadhi, do the sources name. <!-- F50 -->
+He left this world soon after these meetings. The “Bhakti-ratnakara” relates that a Vaishnava from Navadvipa came to
+Srinivasa Acharya and, asked for news, answered: “Shuklambara and other devotees have passed from sight in these few
+days” (9.53). Just then someone said that Dasa Gadadhara had disappeared that very day, and then came word of Narahari
+Sarakara Thakura as well; and Srinivasa, grieving for them, went again to Vrindavana (9.51–71). So say the biographies
+too: Shuklambara Brahmachari, Dasa Gadadhara and Narahari Sarakara Thakura entered the unmanifest pastimes, and after
+that Srinivasa went again to Vrindavana.[^14] Neither the date nor the place of his departure, nor his samadhi, do the
+sources name. <!-- F50 F55 -->
 
 ## His Memory
-The invocations of the “Bhakti-ratnakara” glorify him (“Glory to Narahari, Gauridasa and Shuklambara!” — 1.23); there too he
-is among the associates “ceaselessly absorbed in the Lord's virtues” (2.261). The “Narottama-vilasa” remembers him — in
+The invocations of the “Bhakti-ratnakara” glorify him (“Glory to Narahari, Gauridasa and Shuklambara!” — 1.23, and likewise
+at the opening of chapters 7 and 12–15); there too he is among the associates “ceaselessly absorbed in the Lord's virtues” (2.261). The “Narottama-vilasa” remembers him — in
 Narottama's dream of Gaura's kirtan (2.122), among the associates (4.130) and in a litany of prayer (11.280). Devakinandana
 Dasa sings in the “Vaishnava-vandana”:
 
 “I shall praise the brahmachari Shuklambara, to whom the Lord granted the boon of His own prema-bhakti.”
-(“Vaishnava-vandana,” pt. 2, v. 32) <!-- F51 -->
+(“Vaishnava-vandana,” pt. 2, v. 32)
+
+Other vandanas praise him too. The Sanskrit one ascribed to Jiva Gosvami names Sadashiva, Vidyanidhi, Shrigarbha,
+Shrinidhi, Buddhimanta and “the excellent Srila Shuklambara” — “these six great souls, brahmacharis full of love” (pt. 1,
+vv. 47–48); the tripadi-vandana calls them “heirs to the treasure of prema” (pt. 5, v. 34); the “First Vandana” recalls the
+journey to Puri: “Joyfully went Shuklambara Brahmachari, whose food the Lord Gaurahari ate” (pt. 4, v. 103); and his name
+is in Devakinandana's Sanskrit “Vaishnavabhidhana” too (pt. 3, v. 15). <!-- F51 -->
 
 ## Significance
 Shuklambara is one of the branches of Sri Chaitanya's tree, and Krishnadasa Kaviraja calls him “most fortunate”: the Lord
@@ -497,10 +520,11 @@ Chaitanya. <!-- F3 I1 I2 I3 I4 I5 -->
     of his house. Jayananda's account of Katwa and Kuliya we give as his own: his biography is less reliable than the
     “Chaitanya-bhagavata” and the “Charitamrita.”
 [^12]: One of the biographies gives the reference as “Madhya 11.92”; the verse is 11.90.
-[^13]: One of the biographies places this meeting in the house of Jagannatha Mishra: there Narottama received the darshan of
-    Shuklambara's feet, and Shuklambara, recognizing by the signs that he was a bearer of Sri Chaitanya's mercy, asked who
-    he was, raised him, embraced him tightly and long asked about the welfare and doings of the Gosvamis of Vrindavana —
-    Jiva and Lokanatha. There, by a slip, Shuklambara is called Chakravarti, and his words are ascribed to Lokanatha. We
-    follow the “Narottama-vilasa”: the meeting took place on the road to the Lord's house.
-[^14]: The biographies name no primary source, and the “Bhakti-ratnakara” and “Narottama-vilasa” do not mention
-    Shuklambara in this connection. One of the biographies names Dvija Haridasa together with them.
+[^13]: Both books are by Narahari Chakravarti, and we give both versions: in the “Narottama-vilasa” the meeting took place on
+    the road to the Lord's house, in the “Bhakti-ratnakara” in the house itself. One of the biographies follows the
+    “Bhakti-ratnakara” and adds that Shuklambara, recognizing by the signs that Narottama was a bearer of Sri Chaitanya's
+    mercy, raised him, embraced him tightly and long asked about the welfare and doings of the Gosvamis of Vrindavana —
+    Jiva and Lokanatha; there, by a slip, Shuklambara is called Chakravarti, and his words are ascribed to Lokanatha.
+[^14]: The biographies name no source; it is the “Bhakti-ratnakara” (9.51–71). One of them names Dvija Haridasa together
+    with them: according to the “Bhakti-ratnakara” (9.77–78), Srinivasa learned of his disappearance only on the way, in
+    Mathura.
