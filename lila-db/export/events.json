@@ -14622,6 +14622,7 @@
   "entries": [
    "vlm-0159",
    "apr-0145",
+   "dvk-0023",
    "gkd-0187",
    "jcm-0099",
    "jcm-0100",
@@ -14636,6 +14637,7 @@
   "sources": [
    "advaita-prakasha",
    "bhakti-ratnakara",
+   "divakara-jcm",
    "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
@@ -34765,7 +34767,38 @@
   "entries": [
    "dvk-0017",
    "dvk-0018",
-   "dvk-0020"
+   "dvk-0020",
+   "dvk-0021"
+  ],
+  "sources": [
+   "divakara-jcm"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-disguised-sweeper-name",
+  "title": "Пратапарудра, переодетый, подметает джагамохану и повторяет Имя; Господь поручает Джаганнатхе Дасу наставить царя",
+  "title_en": "Prataparudra, in disguise, sweeps the jagamohana and repeats the Name; the Lord entrusts Jagannatha Dasa with instructing the king",
+  "period": "P15",
+  "order": 5,
+  "cc": "ср. Мадхья 11–13 (Господь не принимает царя-вишайи; царь подметает перед колесницей)",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "jagannatha"
+  ],
+  "notes": "Орийское предание линии Атибади (Дивакар Дас, «Джаганнатха-чаритамрита» 7.84–7.105): Господь не даёт царю наставления («в расе вишайи бхакти не бывает»); царь, переодевшись, подметает джагамохану и вслед за Господом повторяет «Харе Рама Кришна»; Господь огорчён, но, когда царь падает к Его стопам, велит Джаганнатхе Дасу рассказать ему истину о преме — и сразу после этого входит в тело Джаганнатхи.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "dvk-0022"
   ],
   "sources": [
    "divakara-jcm"

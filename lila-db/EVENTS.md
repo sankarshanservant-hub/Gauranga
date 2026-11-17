@@ -5752,6 +5752,7 @@
 - divakara-jcm (D): Гл. 5, 25–108 — [5.25–5.108](../divakara-jagannatha-charitamrita/ru/05.md?plain=1#L34-L135) · `dvk-0017`
 - divakara-jcm (D): Гл. 6, 1–100 — [6.1–6.100](../divakara-jagannatha-charitamrita/ru/06.md?plain=1#L8-L139) · `dvk-0018`
 - divakara-jcm (D): Гл. 7, 20–63 — [7.20–7.63](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L31-L78) · `dvk-0020`
+- divakara-jcm (D): Гл. 7, 64–83 — [7.64–7.83](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L83-L105) · `dvk-0021`
 
 ## Рупа в созерцании лилы смеётся при виде вайшнава; взаимное испрашивание прощения / Rupa, absorbed in the vision of the lila, laughs on seeing a Vaishnava; mutual asking of forgiveness  `ev-rupa-laughs-vaishnava-offense` (1516–1533, возраст 30–47, оценка)
 
@@ -6153,6 +6154,10 @@
 
 - vaishnava-lilamrita (C): Гл. 9, 28–41 (продолжается) — [9.28–9.41](../vaishnava-lilamrita/ru/09.md?plain=1#L39-L52) · `vlm-0158`
 
+## Пратапарудра, переодетый, подметает джагамохану и повторяет Имя; Господь поручает Джаганнатхе Дасу наставить царя / Prataparudra, in disguise, sweeps the jagamohana and repeats the Name; the Lord entrusts Jagannatha Dasa with instructing the king  `ev-prataparudra-disguised-sweeper-name` (1533–1534, возраст 47–48, оценка)
+
+- divakara-jcm (D): Гл. 7, 84–105 — [7.84–7.105](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L106-L127) · `dvk-0022`
+
 ## Видение Враджи в небе перед уходом Господа / The vision of Vraja in the sky before the Lord's departure  `ev-vision-vraja-before-departure` (1533–1534, возраст 47–48, оценка)
 
 - gaura-krishnodaya (C): Сарга 18, 44–50 — [44–50](../gaura-krishnodaya/ru/18.md?plain=1#L97-L111) · `gkd-0186`
@@ -6161,6 +6166,7 @@
 
 - vaishnava-lilamrita (D): Гл. 9, 42–67 — [9.42–9.67](../vaishnava-lilamrita/ru/09.md?plain=1#L57-L82) · `vlm-0159`
 - advaita-prakasha (D): Гл. 21, 63–69 — [63. Однажды Го–69. Я ничтожне](../advaita-prakash/21.md?plain=1#L67-L73) · `apr-0145`
+- divakara-jcm (D): Гл. 7, 106–109 — [7.106–7.109](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L128-L131) · `dvk-0023`
 - gaura-krishnodaya (C): Сарга 18, 51–59 — [51–59](../gaura-krishnodaya/ru/18.md?plain=1#L113-L129) · `gkd-0187`
 - jayananda-cm (C): Виджая-кханда (75.2.14–15; 76.1.1–3) — статья Н. Васу 1897, «Особые сведения» 6 и краткое жизнеописание; Дж. Саркар 1922 — [6. Как Махапрабху сокрылся, — этой разди–Теперь мы узнали, что во время Ратха-ятр](../jayananda/ru/02-vasu-1897.md?plain=1#L710-L745); [> В Нилачале, ночью, Чайтанья в обители –> были падения метеоров, удары молний, землетрясения.](../jayananda/ru/02-vasu-1897.md?plain=1#L1359-L1428); [**Последняя сцена** (перевод из «Чайтань–Когда Он плясал на Биджае праздника коле](../jayananda/ru/04-sarkar-1922.md?plain=1#L7-L9) · `jcm-0099`
 - jayananda-cm (C): Уттара-кханда: краткое жизнеописание (Н. Васу 1897); Дж. Саркар 1922; цит. «После ухода Чайтаньи» — [> Нитьянанда и Адвайта Ачарья Госани усл–> все вайшнавы восклицают: «Слава, слава](../jayananda/ru/02-vasu-1897.md?plain=1#L1430-L1461); [Нитьянанда утешил учеников и поклялся пе–Нитьянанда утешил учеников и поклялся пе](../jayananda/ru/04-sarkar-1922.md?plain=1#L11-L11); [79:1–52:2](../jayananda/ru/05-quotes.md?plain=1#L1373-L1375) · `jcm-0100`

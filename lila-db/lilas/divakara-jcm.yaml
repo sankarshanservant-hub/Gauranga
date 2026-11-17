@@ -393,3 +393,80 @@
   event: ev-divakara-name-mantra-teachings
   verses:
     - {file: "divakara-jagannatha-charitamrita/ru/07.md", from: "7.20", to: "7.63"}
+
+- id: dvk-0021
+  source: divakara-jcm
+  ref: "Гл. 7, 64–83"
+  file: "divakara-jagannatha-charitamrita/ru/07.md"
+  period: P14
+  order: 45
+  title: "Конец наставления в джагамохане: всякая речь — Харинама; «повествование о пяти шлоках»"
+  summary: "Всё, что слышат в мире, от Вед до шутки, — Харинама; памятуйте «Харе Рама Кришна»: оно уничтожает авидью, рождения и карму; Кришна наслаждается с Радхой — потому Он «Рама»; эту расу показывать ученикам-расикам, а чужим — не говорить. Гаурахари удаляется в Свою обитель; Дивакар называет это учение «повествованием о пяти шлоках»."
+  persons: ["@mahaprabhu", "@radha", "@divakara-dasa"]
+  places: ["#puri"]
+  kind: teaching
+  authority: D
+  parallels: "ЧЧ Антья 3 (намабхаса)"
+  notes: "Сноски перевода с позицией гаудия-вайшнавов."
+  themes: [teaching]
+  teaching: [holy-name]
+  event: ev-divakara-name-mantra-teachings
+  verses:
+    - {file: "divakara-jagannatha-charitamrita/ru/07.md", from: "7.64", to: "7.83"}
+
+- id: dvk-0022
+  source: divakara-jcm
+  ref: "Гл. 7, 84–105"
+  file: "divakara-jagannatha-charitamrita/ru/07.md"
+  period: P15
+  order: 5
+  title: "Пратапарудра, переодетый, подметает джагамохану; «Имени касается вишайи!»"
+  summary: "Пратапарудра, рождённый ради бхакти, просит Господа о наставлении, но слышит: «в расе вишайи бхакти не бывает». Однажды, переодевшись, он с метлой подметает джагамохану; Господь приходит, кланяется Джаганнатхе и громко поёт «Харе Рама Кришна»; царь повторяет за Ним. Господь огорчён: «Имени касается вишайи — от этого бхакти слабеет»; царь падает к Его стопам, и Господь велит Ати Бада Джаганнатхе рассказать царю истину о преме."
+  persons: ["@prataparudra", "@mahaprabhu", "@jagannatha-dasa-odia", "@divakara-dasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Мадхья 11 (Господь не желает видеть царя), 13 (царь подметает путь колесницы), 14 (царь обретает милость, читая «Гопи-гиту»)"
+  notes: "Орийская версия; у ЧЧ царь обретает милость Господа сам, во время Ратха-ятры."
+  themes: [mercy, jagannatha, kirtan]
+  teaching: [holy-name]
+  event: ev-prataparudra-disguised-sweeper-name
+  verses:
+    - {file: "divakara-jagannatha-charitamrita/ru/07.md", from: "7.84", to: "7.105"}
+
+- id: dvk-0023
+  source: divakara-jcm
+  ref: "Гл. 7, 106–109"
+  file: "divakara-jagannatha-charitamrita/ru/07.md"
+  period: P15
+  order: 10
+  title: "Махапрабху входит в тело Джаганнатхи"
+  summary: "Сказав это, Шри Чайтанья вошёл (букв. «растворился») в тело Шри Джаганнатхи — вернулся туда, откуда пришёл; утвердив бхакти и оставив в мире её достоинство, Он удалился в Свою обитель."
+  persons: ["@mahaprabhu", "@divakara-dasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "ВЛ 9 (иная орийская версия); Лочан Дас (вхождение в Джаганнатху)"
+  notes: "Уход Господа — сокрытие по Его воле, тело Его — сач-чид-ананда (Бхактисиддханта; сноска перевода). Конец главы 7 (печ. с. 47, PDF 48) в комплект не попал — дослать переводчику."
+  themes: [departure, jagannatha]
+  event: ev-lord-disappearance
+  verses:
+    - {file: "divakara-jagannatha-charitamrita/ru/07.md", from: "7.106", to: "7.109"}
+
+- id: dvk-0024
+  source: divakara-jcm
+  ref: "Гл. 23, 1–46"
+  file: "divakara-jagannatha-charitamrita/ru/23.md"
+  period: PX
+  order: 23
+  title: "Ати Бада Госай учит учеников о славе даршана четырёх Божеств: Снана-ятра, колесница, Гундича"
+  summary: "Джаганнатха Дас говорит ученикам: и Махапрабху ценил эту радость — даршан четырёхчастного дару-облика (Баладева, Субхадра, Джаганнатха, Сударшана); по «Вишну-пуране» и «Сканда-пуране» — плоды лицезрения Снана-ятры, облика, обращённого к югу, Гундичи и колесницы: спасение рода, девятичастная бхакти, служение в обществе Кришны столько юг, сколько пылинок от колесницы упадёт на тело."
+  persons: ["@jagannatha-dasa-odia", "@mahaprabhu", "@divakara-dasa"]
+  places: ["#puri", "#gundicha"]
+  kind: author
+  authority: D
+  parallels: "ЧЧ Мадхья 11–14 (Господь на Снана-ятре и Ратха-ятре)"
+  notes: "В этих 46 двустишиях нет посвящения Джаганнатхи Даса Баларамой Дасом (вопреки ожиданию комплекта); «раздавленный под колесницей» (23.37) — чтение неуверенно."
+  themes: [author, festival, jagannatha]
+  verses:
+    - {file: "divakara-jagannatha-charitamrita/ru/23.md", from: "23.1", to: "23.46"}

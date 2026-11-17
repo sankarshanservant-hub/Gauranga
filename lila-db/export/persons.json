@@ -3024,6 +3024,7 @@
    "mpk-0019",
    "mpk-0020",
    "cc-0363",
+   "dvk-0021",
    "pv-0016",
    "cc-0114",
    "cc-4099",
@@ -3205,9 +3206,11 @@
    "vlm-0157",
    "vlm-0158",
    "krn-0002",
+   "dvk-0022",
    "vlm-0159",
    "gkd-0186",
    "apr-0145",
+   "dvk-0023",
    "gkd-0187",
    "jcm-0099",
    "kcm-0177",
@@ -3550,6 +3553,7 @@
    "pvl-0176",
    "pvl-0189",
    "anv-0002",
+   "dvk-0024",
    "pvl-0280",
    "pvl-0281",
    "nvv-0001",
@@ -4498,6 +4502,7 @@
    "ev-svarupa-damodara-departure",
    "ev-gadadhara-sent-to-gauda",
    "ev-balarama-dasa-departure",
+   "ev-prataparudra-disguised-sweeper-name",
    "ev-lord-disappearance",
    "ev-vision-vraja-before-departure",
    "ev-jiva-comes-to-vrindavana",
@@ -5615,6 +5620,7 @@
    "mpk-0013",
    "mpk-0012",
    "dvk-0020",
+   "dvk-0021",
    "pv-0002",
    "cc-4140",
    "cc-0046",
@@ -21579,6 +21585,7 @@
    "ccd-0094",
    "ccd-0095",
    "ccd-0096",
+   "dvk-0022",
    "jcm-0099",
    "lcm-0250",
    "vlm-0161",
@@ -21657,6 +21664,7 @@
    "ev-prataparudra-asks-jagannatha-tattva",
    "ev-jagamohana-dance-govinda-crosses",
    "ev-gundicha-marjana",
+   "ev-prataparudra-disguised-sweeper-name",
    "ev-lord-disappearance",
    "ev-devotees-lament-after-disappearance",
    "ev-radha-for-govinda-from-puri",
@@ -47859,6 +47867,7 @@
    "vlm-0149",
    "vlm-0156",
    "vlm-0158",
+   "dvk-0022",
    "vlm-0159",
    "vlm-0160",
    "vlm-0161",
@@ -47868,7 +47877,8 @@
    "dvk-0002",
    "dvk-0003",
    "dvk-0004",
-   "vlm-0104"
+   "vlm-0104",
+   "dvk-0024"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
@@ -47898,6 +47908,7 @@
    "ev-gambhira-divine-madness",
    "ev-svarupa-damodara-departure",
    "ev-balarama-dasa-departure",
+   "ev-prataparudra-disguised-sweeper-name",
    "ev-lord-disappearance",
    "ev-ramananda-departure-janmashtami"
   ]
@@ -56292,11 +56303,15 @@
    "dvk-0018",
    "dvk-0019",
    "dvk-0020",
+   "dvk-0021",
+   "dvk-0022",
+   "dvk-0023",
    "dvk-0001",
    "dvk-0002",
    "dvk-0003",
    "dvk-0004",
-   "dvk-0016"
+   "dvk-0016",
+   "dvk-0024"
   ],
   "events": [
    "ev-jagannatha-dasa-bhagavata-meeting",
@@ -56305,7 +56320,9 @@
    "ev-gaudiyas-leave-over-atibada",
    "ev-sarvabhauma-deliverance",
    "ev-divakara-name-mantra-teachings",
-   "ev-bahuda-return-chariots"
+   "ev-bahuda-return-chariots",
+   "ev-prataparudra-disguised-sweeper-name",
+   "ev-lord-disappearance"
   ]
  },
  {

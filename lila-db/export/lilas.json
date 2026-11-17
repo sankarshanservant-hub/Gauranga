@@ -210499,6 +210499,66 @@
   "attestation": 1
  },
  {
+  "id": "dvk-0021",
+  "source": "divakara-jcm",
+  "ref": "Гл. 7, 64–83",
+  "file": "divakara-jagannatha-charitamrita/ru/07.md",
+  "period": "P14",
+  "order": 45,
+  "title": "Конец наставления в джагамохане: всякая речь — Харинама; «повествование о пяти шлоках»",
+  "summary": "Всё, что слышат в мире, от Вед до шутки, — Харинама; памятуйте «Харе Рама Кришна»: оно уничтожает авидью, рождения и карму; Кришна наслаждается с Радхой — потому Он «Рама»; эту расу показывать ученикам-расикам, а чужим — не говорить. Гаурахари удаляется в Свою обитель; Дивакар называет это учение «повествованием о пяти шлоках».",
+  "persons": [
+   "@mahaprabhu",
+   "@radha",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "ЧЧ Антья 3 (намабхаса)",
+  "notes": "Сноски перевода с позицией гаудия-вайшнавов.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-divakara-name-mantra-teachings",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.64",
+    "to": "7.83"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.64",
+    "to": "7.83",
+    "line": 83,
+    "line_to": 105,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/07.md?plain=1#L83-L105",
+    "file_en": "divakara-jagannatha-charitamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/07.md?plain=1#L83-L105"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pv-0016",
   "source": "prema-vivarta",
   "ref": "Гл. 18, 1–21",
@@ -223159,6 +223219,70 @@
   "attestation": 3
  },
  {
+  "id": "dvk-0022",
+  "source": "divakara-jcm",
+  "ref": "Гл. 7, 84–105",
+  "file": "divakara-jagannatha-charitamrita/ru/07.md",
+  "period": "P15",
+  "order": 5,
+  "title": "Пратапарудра, переодетый, подметает джагамохану; «Имени касается вишайи!»",
+  "summary": "Пратапарудра, рождённый ради бхакти, просит Господа о наставлении, но слышит: «в расе вишайи бхакти не бывает». Однажды, переодевшись, он с метлой подметает джагамохану; Господь приходит, кланяется Джаганнатхе и громко поёт «Харе Рама Кришна»; царь повторяет за Ним. Господь огорчён: «Имени касается вишайи — от этого бхакти слабеет»; царь падает к Его стопам, и Господь велит Ати Бада Джаганнатхе рассказать царю истину о преме.",
+  "persons": [
+   "@prataparudra",
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 11 (Господь не желает видеть царя), 13 (царь подметает путь колесницы), 14 (царь обретает милость, читая «Гопи-гиту»)",
+  "notes": "Орийская версия; у ЧЧ царь обретает милость Господа сам, во время Ратха-ятры.",
+  "themes": [
+   "mercy",
+   "jagannatha",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-prataparudra-disguised-sweeper-name",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.84",
+    "to": "7.105"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.84",
+    "to": "7.105",
+    "line": 106,
+    "line_to": 127,
+    "count": 22,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/07.md?plain=1#L106-L127",
+    "file_en": "divakara-jagannatha-charitamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/07.md?plain=1#L106-L127"
+   }
+  ],
+  "cc": "ср. Мадхья 11–13 (Господь не принимает царя-вишайи; царь подметает перед колесницей)",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "vlm-0159",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 9, 42–67",
@@ -223219,7 +223343,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "gkd-0186",
@@ -223343,7 +223467,65 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
+ },
+ {
+  "id": "dvk-0023",
+  "source": "divakara-jcm",
+  "ref": "Гл. 7, 106–109",
+  "file": "divakara-jagannatha-charitamrita/ru/07.md",
+  "period": "P15",
+  "order": 10,
+  "title": "Махапрабху входит в тело Джаганнатхи",
+  "summary": "Сказав это, Шри Чайтанья вошёл (букв. «растворился») в тело Шри Джаганнатхи — вернулся туда, откуда пришёл; утвердив бхакти и оставив в мире её достоинство, Он удалился в Свою обитель.",
+  "persons": [
+   "@mahaprabhu",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ВЛ 9 (иная орийская версия); Лочан Дас (вхождение в Джаганнатху)",
+  "notes": "Уход Господа — сокрытие по Его воле, тело Его — сач-чид-ананда (Бхактисиддханта; сноска перевода). Конец главы 7 (печ. с. 47, PDF 48) в комплект не попал — дослать переводчику.",
+  "themes": [
+   "departure",
+   "jagannatha"
+  ],
+  "event": "ev-lord-disappearance",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.106",
+    "to": "7.109"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.106",
+    "to": "7.109",
+    "line": 128,
+    "line_to": 131,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/07.md?plain=1#L128-L131",
+    "file_en": "divakara-jagannatha-charitamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/07.md?plain=1#L128-L131"
+   }
+  ],
+  "years": [
+   1533,
+   1533
+  ],
+  "age": [
+   47,
+   47
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
+  "calendar": "ашадха",
+  "attestation": 8
  },
  {
   "id": "gkd-0187",
@@ -223412,7 +223594,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "jcm-0099",
@@ -223505,7 +223687,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "jcm-0100",
@@ -223599,7 +223781,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "kcm-0177",
@@ -223654,7 +223836,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "lcm-0250",
@@ -223723,7 +223905,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "vlm-0160",
@@ -223783,7 +223965,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "brt-4016",
@@ -223846,7 +224028,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "apr-0146",
@@ -223907,7 +224089,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "brt-0038",
@@ -224144,7 +224326,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "gst-0017",
@@ -226898,7 +227080,7 @@
   "date_conf": "вероятно",
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "vv-0002",
@@ -280700,6 +280882,55 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/anuragavalli/ru/01.md?plain=1#L98-L131",
     "file_en": "anuragavalli/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/anuragavalli/en/01.md?plain=1#L98-L131"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0024",
+  "source": "divakara-jcm",
+  "ref": "Гл. 23, 1–46",
+  "file": "divakara-jagannatha-charitamrita/ru/23.md",
+  "period": "PX",
+  "order": 23,
+  "title": "Ати Бада Госай учит учеников о славе даршана четырёх Божеств: Снана-ятра, колесница, Гундича",
+  "summary": "Джаганнатха Дас говорит ученикам: и Махапрабху ценил эту радость — даршан четырёхчастного дару-облика (Баладева, Субхадра, Джаганнатха, Сударшана); по «Вишну-пуране» и «Сканда-пуране» — плоды лицезрения Снана-ятры, облика, обращённого к югу, Гундичи и колесницы: спасение рода, девятичастная бхакти, служение в обществе Кришны столько юг, сколько пылинок от колесницы упадёт на тело.",
+  "persons": [
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 11–14 (Господь на Снана-ятре и Ратха-ятре)",
+  "notes": "В этих 46 двустишиях нет посвящения Джаганнатхи Даса Баларамой Дасом (вопреки ожиданию комплекта); «раздавленный под колесницей» (23.37) — чтение неуверенно.",
+  "themes": [
+   "author",
+   "festival",
+   "jagannatha"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/23.md",
+    "from": "23.1",
+    "to": "23.46"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/23.md",
+    "from": "23.1",
+    "to": "23.46",
+    "line": 8,
+    "line_to": 59,
+    "count": 46,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/23.md?plain=1#L8-L59",
+    "file_en": "divakara-jagannatha-charitamrita/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/23.md?plain=1#L8-L59"
    }
   ],
   "attestation": 1
