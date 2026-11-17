@@ -202,3 +202,88 @@ out. This vision was no dream in the worldly sense but the mercy of Srimati Radh
 servant. The story is also known in another version, where it is connected with his commentary on the
 “Charitamrita”;[^8] that commentary, says the author who relates it, shows how dear Krishnadasa Kaviraja is to Radharani
 and that his every word is the highest spiritual truth. <!-- F62 F64 -->
+
+## Books
+Vishvanatha was a great scholar, poet and philosopher, and few Gaudiya acharyas were so prolific. Almost all his books
+are written in Sanskrit — clear, simple and full of the nectar of devotion. In this clarity and simplicity lies their
+distinction: by his detailed explanations he made accessible the most difficult of Sri Rupa's works on rasa.
+<!-- F40 F41 -->
+
+His chief work is the “Sarartha-darshini,” an extensive commentary on all twelve cantos of the “Srimad-Bhagavatam.” Jiva
+Gosvami had expounded the “Bhagavatam” in the “Sandarbhas,” but not in a continuous commentary; Vishvanatha was the
+first to comment on every verse, in the light of the Gaudiya teaching of *achintya-bhedabheda*. On the Tenth Canto he
+followed Sanatana's “Vaishnava-toshani,” relied with great care on Jiva's “Sandarbhas,” quoted Rupa and the other
+Gosvamis of Vrindavana abundantly, and referred to the commentary of Shridhara Svami. His commentary on the
+“Bhagavad-gita” bears the same name, “Sarartha-darshini.”[^9] <!-- F49 -->
+
+To the books of Rupa Gosvami he devoted a whole series of works: the commentary “Ananda-chandrika” on the
+“Ujjvala-nilamani,” and commentaries on the “Bhakti-rasamrita-sindhu,” the “Dana-keli-kaumudi,” the “Lalita-madhava,”
+the “Vidagdha-madhava” and the “Hamsaduta.” Explaining in his commentary on the “Vidagdha-madhava” (1.4) Rupa's words
+“in a dream I was commanded by Bhagavan Sri Shankara-deva,” he specifies that Shankara-deva is Gopishvara, who dwells on
+the bank of Brahma-kunda. Following Rupa's “Samanya-virudavali-lakshana” and “Govinda-virudavali,” he wrote the
+“Nikunja-keli-virudavali.” His three brief digests of Rupa's books — the “Ujjvala-nilamani-kirana,” the
+“Bhakti-rasamrita-sindhu-bindu” and the “Bhagavatamrita-kana” — Vaishnavas remember with a saying: “Kirana, bindu,
+kana — with these three you will become a Vaishnava.” (Aufrecht in the “Catalogus Catalogorum” ascribed to Sanatana a
+“Bhakti-bindu” and an “Ujjvala-rasa-kana,” evidently confusing them with these books of Vishvanatha.)
+<!-- F48 F50 F51 F52 -->
+
+He also wrote commentaries on other books: the “Subodhini” on the “Alankara-kaustubha” and the “Sukha-vartini” on the
+“Ananda-vrindavana-champu” of Kavi Karnapura, commentaries on the “Gopala-tapani Upanishad” and the fifth chapter of the
+“Brahma-samhita,” a Sanskrit commentary on a book of Narottama Thakura,[^10] and a commentary on Krishnadasa Kaviraja's
+“Sri Chaitanya-charitamrita” — unfinished, according to one of the biographies. <!-- F42 -->
+
+Among his own compositions is the *mahakavya* “Sri Krishna-bhavanamrita”: 2,929 shlokas in twenty-three chapters on
+the transcendental loving pastimes of Sri Radha and Sri Krishna, two complete realities that complement each other. It
+is supplemented by the “Sankalpa-kalpadruma,” which in 104 verses sets out the path of *raga* to Sri Radha-Krishna in
+the mood of a dear friend (*priya-sakhi-bhava*), in subordination to the six Gosvamis of Vrindavana. The
+“Madhurya-kadambini,” in verse and prose (643 “shlokas”), tells how to attain service to the Lord. Then there are the
+“Sri Gauranga-lilamrita,” “Raga-vartma-chandrika,” “Chamatkara-chandrika,” “Sadhya-sadhana-kaumudi,”
+“Gauranga-smarana-dashaka,” the poems “Vraja-riti-chintamani” and “Prema-samputa,” the “Svapna-vilasamrita” and the
+“Bhakti-sara-pradarshini,” a commentary on the “Bhakti-rasamrita-sindhu.” An “Aishvarya-kadambini” is also ascribed to
+him, a book on the doctrines of *dvaita* and *advaita* in the light of *achintya-bhedabheda*, which seems to have been
+lost; but its authorship is disputed.[^11] <!-- F42 F43 F44 F46 F47 -->
+
+In Bengali he wrote songs: the “Gitavali” and the anthology of padas “Kshanada-gita-chintamani,” where his own songs are
+signed with the name Harivallabha; for some padas this anthology is the only witness. His shorter Sanskrit works are
+collected in the “Stavamrita-lahari.” These are octets and hymns to the guru and his whole line — the
+“Guru-tattvashtaka,” the “Mantra-datri-gurvashtaka,” the octets to the *parama-guru*, *paratpara-guru* and
+*parama-paratpara-guru*, the “Sri Lokanathashtaka,” the “Sri Narottamashtaka”; hymns to Shachinandana and to Svarupa
+Damodara; octets to the Deities of Vraja — Gopaladeva, Madana-Mohana, Govinda, Gopinatha, Gokulananda, Jagan-Mohana —
+to Radha-kunda and Shyama-kunda, to Vrinda-devi, to Vrindavana, Nandishvara and Govardhana; the
+“Svayam-bhagavad-ashtaka,” “Anuragavalli,” “Sri Radhika-dhyanamrita,” “Sri Rupa-chintamani,” “Nikunja-virudavali,”
+“Surata-kathamrita” and the same “Sankalpa-kalpadruma.” Narahari Chakravarti quotes verses of the “Stavamrita-lahari”:
+in the “Bhakti-ratnakara” (6.73 and 13.270) on Madana-Gopala and on Gopinatha, and in the “Narottama-vilasa” from the
+hymns to Lokanatha, Narottama, Ganganarayana and Krishnacharana. Of Narottama's singing it says:
+
+“To him who with his own dancing, destroying the pride of the gandharvas, astonished all the people of the age of Kali,
+who is renowned for the songs he himself created — to Sri Narottama, obeisances, obeisances!” (“Narottama-vilasa” 6.44)
+<!-- F45 F55 -->
+
+In his “remembrance of the eight periods of the day” (*ashtakaliya*) of Sri Gauranga he is said to have described a
+conversation between Gaura and Vishnupriya as well; but even there he does not step beyond the special character of the
+pastimes of Sri Lakshmi and Gaura-Narayana, and to see a Gaura-*nagara* here would be a mistake. Like Narottama, he
+glorified Jiva more than once together with the other Gosvami-gurus. <!-- F53 F54 -->
+
+Several traditions are connected with his books. When he was writing on the “Bhagavata,” rain began to fall and the
+water flooded everything around except the place where he sat, so that the ink did not run and the manuscript was
+saved. The life tells it in more detail: he was copying the “Bhagavata” for his guru, sitting in the shade by a pond,
+and in the ecstasy of love did not notice the rain. A zamindar passing by saw that it was pouring all around, yet not a
+drop fell on Vishvanatha; paying him respect, he told him of it, and Vishvanatha was much embarrassed. That same day he
+gave the finished manuscript to his guru. <!-- F56 -->
+
+According to the life, the commentary on the “Ananda-vrindavana-champu,” whose subtlety only pandits can grasp, he wrote
+by the command of Krishna-Chaitanya given in a dream, sitting in a cave on Govardhana. His commentaries on the
+“Bhagavata” and the “Gita” the life calls unequalled. In his commentary on the “Ujjvala-nilamani” he gave many
+explanations because of ill-natured people who do not understand Jiva's words and bring discussions of *tattva* into
+all the lilas:[^12] “Sri Vishvanatha is not different from Sri Jiva in his views”; in him Rupa's intention became
+manifest, and Sri Radhika with Her friends bestowed great mercy on him. <!-- F57 I4 -->
+
+One more tradition from the life. When Vishvanatha began a book, the “Chaitanya-rasayana,” Mahaprabhu stopped him in a
+dream: “You have set out to describe in it something different from the others. My wondrous pastime in the Kali-yuga
+many will come to know; My devotees, immersed in the rasa of My lilas, relish it and describe it in various ways — and
+as each describes it, so it is. Do not doubt.” Waking at the end of the night, he humbly lamented, and at the same time
+considered himself fortunate by the Lord's mercy. The “Chaitanya-rasayana” remained unfinished, but he sang the Lord's
+lilas tirelessly and that same day composed a beautiful song. The Lord's words do not mean that there is no truth; they
+speak of the inconceivable variety of His lilas: pure devotees relish and describe them in different ways, and all
+their descriptions are true; and Mahaprabhu's reproach was a mercy that kept Vishvanatha from wishing to correct
+others. <!-- F58 -->
