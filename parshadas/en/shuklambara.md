@@ -20,7 +20,7 @@ so poor that he had to beg for his food. Everything he collected in a day the br
 the remnants of His meal. Rapt in the mercy of Krishna he had received, he did not know what poverty was. He went from
 house to house singing the names of the Lord.” (CB, Madhya 16.111–115) <!-- F6 -->
 
-He was a brahmachari and lived on alms, and the biographies add that in this way Shuklambara played the part of a
+He was a brahmachari and lived on alms, and the biographies add that in this way Shuklambara showed the pastimes of a
 needy brahmana living by begging. But his poverty was no worldly destitution. He had nothing but Krishna, and so he
 felt no want: day and night he sang the names and qualities of the Lord, and the beggar's bag was for him only a means of
 service. Only those whose eyes are turned outward saw him as a beggar; a servant of the Lord, says Vrindavana Dasa, can be
@@ -35,8 +35,7 @@ transcendental sight a rich man, for he is rich in love for Mahaprabhu; and it r
 
 Nothing more is known of his worldly life. The sources name neither his parents nor his family, neither the year nor the
 day of his appearance, nor the exact time and place of his departure from this world; nor are his days found
-in the Vaishnava calendar of the
-Sri Chaitanya Saraswat Math. <!-- F5 -->
+in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. <!-- F5 -->
 
 ## A Priest's Wife and the Brahmana Sudama
 Who Shuklambara is in Krishna's pastimes, Kavi Karnapura tells us:
@@ -57,14 +56,14 @@ correspondence; we give both, neither merging them nor choosing between them. <!
 Even before the Lord appeared, Navadvipa hardly knew what kirtan of Krishna's names was, or dance and music dedicated to
 Him, or anything at all that concerns Krishna. People were busy with their pleasures, and the holy name from the lips of
 pure devotees only disturbed them; the devotees, fearing the blasphemers of the name (*pashandi*), anxiously told their
-grief to Krishna. Then Advaita Prabhu, the incarnation of Mahavishnu, in anger vowed to bring Krishna down. Among those
-he addressed was Shuklambara:
+grief to Krishna. Then Advaita Prabhu, the incarnation of Mahavishnu, in anger — born of compassion for a world turned
+away from God — vowed to bring Krishna down. Among those He addressed was Shuklambara:
 
 “Listen, Srivasa, Gangadasa and Shuklambara! I promise you that Lord Krishna will soon descend to the earth, and all
 will be able to see Him. He will deliver all living beings by teaching the science of devotional service, and you will
 help Him.” (CB, Adi 2.118–119)
 
-People had fallen into wrong thinking, Advaita said, because they had no faith in Krishna; but Krishna Himself would come,
+People had fallen into wrong thinking, Advaita Prabhu said, because they had no faith in Krishna; but Krishna Himself would come,
 show Himself to all, and together with devotees such as they were explain to people why one must serve Krishna — and so
 deliver them. <!-- F8 F9 -->
 
@@ -206,7 +205,7 @@ your offering, and I have no taste for anything you have not offered Me. That is
 that is why you are poor.” <!-- F25 -->
 
 There is no worldly “poverty by the will of God” here, nor any seizing of what belongs to another: it is the loving play
-of the Lord, who longs for His devotee's offering. He accepts love, not wealth, and so He Himself makes His servant
+of the Lord, Who longs for His devotee's offering. He accepts love, not wealth, and so He Himself makes His servant
 possess nothing — so that all he has may belong to Him. <!-- F25 -->
 
 And having spoken so, the Lord put His hand into the bag: <!-- F52 -->
@@ -238,7 +237,7 @@ after life. And now I give you prema-bhakti. Know for certain that this gift is 
 16.134–137)
 
 Hearing that the Lord had granted Shuklambara prema, the Vaishnavas cried, “Jaya! Jaya! Hari! Hari!” (16.138), rejoicing
-to see such mercy. Vrindavana Dasa adds: the servant of Him whom Lakshmi herself serves goes begging from door to door —
+to see such mercy. Vrindavana Dasa adds: the servant of Him Whom Lakshmi herself serves goes begging from door to door —
 and blessed is the one who grasps the secret of such pastimes (16.139). <!-- F28 F29 Q3 F52 -->
 
 Vrindavana Dasa explains what the Lord showed by this. Through the Vedas He Himself laid down the rules by which food is to
@@ -454,14 +453,14 @@ terrible grief, I am glad to see him: this must be Srinivasa's dear Narottama, t
 Ramakeli,” — asked his name, made himself known and embraced him with tears; Narottama fell at his feet and wept long in
 the courtyard of the Lord's house, and the brahmachari consoled him (“Bhakti-ratnakara,” 8.79–87).[^13] Among the elder
 companions grieving in Mayapura over the Lord's disappearance Narottama saw
-Shuklambara, Ishana, Murari, Damodara and Dasa Gadadhara. <!-- F49 F54 -->
+Shuklambara, Ishana, Murari, Damodara and Gadadhara Dasa. <!-- F49 F54 -->
 
 He left this world soon after these meetings. The “Bhakti-ratnakara” relates that a Vaishnava from Navadvipa came to
 Srinivasa Acharya and, asked for news, answered: “Shuklambara and other devotees have passed from sight in these few
-days” (9.53). Just then someone said that Dasa Gadadhara had disappeared that very day, and then came word of Narahari
-Sarakara Thakura as well; and Srinivasa, grieving for them, went again to Vrindavana (9.51–71). So say the biographies
-too: Shuklambara Brahmachari, Dasa Gadadhara and Narahari Sarakara Thakura entered the unmanifest pastimes, and after
-that Srinivasa went again to Vrindavana.[^14] Neither the date nor the place of his departure, nor his samadhi, do the
+days” (9.53). Just then someone said that Gadadhara Dasa had disappeared that very day, and then came word of Narahari
+Sarakara Thakura as well; and Srinivasa, grieving for them, went again to Vrindavana (9.51–71). The biographies say the same
+— that Shuklambara Brahmachari, Gadadhara Dasa and Narahari Sarakara Thakura entered the unmanifest pastimes before
+Srinivasa's second journey to Vrindavana.[^14] Neither the date nor the place of his departure, nor his samadhi, do the
 sources name. <!-- F50 F55 -->
 
 ## His Memory
