@@ -79,6 +79,77 @@ qualities of nature, and neither nation nor caste defines him. The remnants of a
 in Kaviraja's words, *maha-maha-prasada*, and Kalidasa took them “seeing them as transcendental” (“Anubhashya,” heading
 to Antya 16.37). <!-- I3 -->
 
+## At Jhadu Thakura's Home
+What this practice of Kalidasa's was like, Kaviraja shows by a single example:
+
+“There was a Vaishnava named Jhadu, of the *bhuinmali* caste. Kalidasa went to his home, taking mangoes with him. He presented the mangoes, bowed at his feet, and then paid his respects to his wife.” (CC, Antya 16.14–15)
+
+The bhuinmalis are one of the lowest castes of Bengal, a caste of sweepers akin to the haddis; but Jhadu was a true
+Vaishnava, and the Vaishnavas called him Jhadu Thakura. Having heard of his greatness, Kalidasa came to him with the best
+ripe, sweet mangoes to be had at that season. <!-- F16 F17 --> Jhadu was abashed: how could a man of high birth bow to him
+and bring him gifts? He could not believe his good fortune and felt he had no right to accept such honour — and yet he
+welcomed his guest with love:
+
+“Jhadu Thakura was sitting with his wife; seeing Kalidasa, he received him with great respect. After talking with him a while, Jhadu Thakura said to him sweetly: ‘I am of low birth, and you are a most honoured guest. How shall I serve you? Give me leave to take provisions to a brahmana's house. There you can take prasada, and that will give me life.’” (CC, Antya 16.16–19)
+
+<!-- F18 F19 --> Kalidasa answered him:
+
+“Kalidasa said, ‘Thakura, be merciful to me! I, a fallen sinner, have come to see you. By seeing you I have become pure. My purpose is fulfilled, and my life has borne its fruit. I have one desire, if you will be merciful: give me the dust of your feet, and place your foot on my head.’” (CC, Antya 16.20–22)
+
+One of the biographies adds a thought on the greatness of a Vaishnava: the Ganga purifies a sinner only when he touches
+her waters, but a Vaishnava purifies him merely by being seen.[^6] <!-- F20 I4 --> At these words Jhadu trembled: for him
+even to hear such things was a sin leading to hell. With folded hands he begged:
+
+“The Thakura said, ‘It is not fitting to say such things. I am of low birth, and you are a noble gentleman.’” (CC, Antya 16.23)
+
+In the headings of the “Anubhashya” Srila Bhaktisiddhanta calls these the humble words of Jhadu Thakura, “free of pride
+and giving honour to others” (*amani*, *manada*). <!-- F21 --> Then Kalidasa recited to him verses on the glory of a
+devotee:
+
+“Even a knower of the four Vedas is not dear to Me if he is not devoted to Me, but My devotee is dear to Me even if he was born a dog-eater. One should give to him and accept from him; he is to be worshipped just as I am.” (“Itihasa-samuchchaya,” quoted in the “Hari-bhakti-vilasa,” 10.91; CC, Antya 16.25)
+
+“I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brahmana endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brahmana swollen with pride cannot.” (“Srimad-Bhagavatam,” 7.9.10; CC, Antya 16.26)
+
+“Oh, how wonderful! Even a dog-eater is worthy of the highest honour if Your name is on the tip of his tongue. Those who utter Your name have already performed austerities and offered sacrifices; they have bathed in all the holy waters, they are truly noble, and they have studied the Vedas.” (“Srimad-Bhagavatam,” 3.33.7; CC, Antya 16.27)
+
+The first verse is spoken by the Lord Himself; the second is Prahlada's prayer to Lord Nrisimha; the third, Devahuti's
+words to Kapila.[^7] <!-- F22 Q3 Q4 Q5 --> Jhadu heard them with joy, but would not apply them to himself:
+
+“Hearing this, the Thakura said, ‘What scripture says is true: one in whom there is devotion to Krishna is not low. But I am of low birth, and I have no devotion to Krishna. Others may be so blessed, but I have no such power.’” (CC, Antya 16.28–29)
+
+From the lips of a great soul, he said, such words would rather cast him into hell. Srila Bhaktisiddhanta explains this
+passage with many testimonies from the “Mahabharata,” the “Srimad-Bhagavatam” and the “Padma” and “Garuda Puranas”: the mark
+of a brahmana is not birth but nature and conduct, and “transcendental brahmanhood belongs eternally to a Vaishnava.
+Therefore, if even one born in a low family has gained devotion to Krishna, he can no longer be of low caste.” And the
+words “I am not a Vaishnava” “only show Jhadu Thakura's magnanimity, worthy of a Vaishnava, and his freedom from pride.
+Maha-bhagavatas are free from identifying themselves with the body, and by their very nature they speak with the humility
+worthy of pure devotees” (“Anubhashya” to Antya 16.28–29). So speaks not one who lacks devotion, but one who has risen
+above every thought of his own greatness. <!-- F23 -->
+
+Kalidasa bowed and asked leave to go. Jhadu, honouring his guest, walked a little way with him and returned home. But
+Kalidasa did not leave:
+
+“When the Thakura had seen him off and returned home, Kalidasa went to the spot where Jhadu's footprints lay. He gathered up that dust, smeared it all over his body, and then hid near Jhadu's house.” (CC, Antya 16.31–32)
+
+He smeared himself with the dust, Srila Bhaktisiddhanta explains, because he saw a Vaishnava in Jhadu Thakura.[^8]
+<!-- F24 --> Meanwhile, in the house:
+
+“Entering the house, Jhadu Thakura saw the mangoes and offered them all to Krishnachandra within his mind. His wife took the mangoes out of their wrappings of banana leaf and bark and handed them to him, and he ate them, sucking out the juice. He sucked the stones and threw them into the wrappings; and when his wife had fed him, she ate after him. She filled the wrappings with the sucked stones, carried them outside and threw them into the pit for remnants.” (CC, Antya 16.33–36)
+
+“Offered within his mind” does not mean “thought of”: Jhadu Thakura, says Srila Bhaktisiddhanta, “the guru of all
+brahmanas,” worshipped within his mind the Deity manifest in the mind (*manomayi-archa*), and so ate the mangoes as
+Krishna's remnants; and his wife, a Vaishnavi, honoured the remnants of her Vaishnava husband (“Anubhashya,” headings to
+Antya 16.33, 16.35). <!-- F25 --> Then Kalidasa came out of hiding:
+
+“Kalidasa sucked those wrappings, stones and skins, and as he went on, he grew ever more jubilant with divine love.” (CC, Antya 16.37)
+
+The joy of love for Krishna awoke in him, and he felt himself purified. <!-- F26 -->
+
+So he did with everyone: “In this way Kalidasa honoured the remnants of all the Vaishnavas who lived in the land of
+Gauda” (CC, Antya 16.38). He was following the word of scripture which Kaviraja repeats at the end of the story: the dust
+of a Vaishnava's feet, the water that has washed his feet, and the remnants of his meal help one in bhakti (16.60).
+<!-- F27 -->
+
 [^1]: Elsewhere the same biography that names Bhedo writes that Kalidasa lived in Shankhanagara — probably because his
     Deity was served there. Srila Bhaktisiddhanta names Bhedo as Kalidasa's shripat.
 [^2]: One of the biographies calls Kalidasa's Deity Madana-gopala and writes that He, formerly in Shankhanagara, is now
@@ -92,3 +163,15 @@ to Antya 16.37). <!-- I3 -->
 [^5]: In the sixteenth chapter of the Antya-lila, to which the biography refers, there are no such words of the Lord: there
     it is Kaviraja himself who tells of Kalidasa. Closest to this is the “Prema-vilasa” (16.263): the Lord knew of
     Kalidasa's devotion and praised his virtues with His own lips.
+[^6]: These words are not in the “Charitamrita” (Antya 16.20–22); the biography puts them in Kalidasa's mouth. There too
+    Kalidasa replies to the abashed Jhadu that a great Vaishnava deserves honour even from brahmanas, the foremost of
+    society — words likewise absent from the “Charitamrita.” A similar thought is expressed by Srila Bhaktisiddhanta in the
+    “Anubhashya” to Antya 16.28–29, citing the “Padma Purana”: a Vaishnava, even one outside the varnas, purifies the three
+    worlds.
+[^7]: In the biographies the numbers of these verses are sometimes garbled: one gives the “Bhagavatam” verses as 7.9.9 and
+    3.33.8 (elsewhere in the same biography correctly 7.9.10 and 3.33.7); another gives the “Hari-bhakti-vilasa” verse as
+    10.29 (the numbering of the “Hari-bhakti-vilasa” differs between editions). One biography names the “Hari-bhakti-vilasa”
+    as the source of the first verse, another the “Itihasa-samuchchaya”; there is no contradiction, since the
+    “Hari-bhakti-vilasa” quotes it from the “Itihasa-samuchchaya.”
+[^8]: In one of the biographies the order is reversed: Kalidasa first hid nearby, and then came back and smeared himself
+    with the dust. The “Charitamrita” says he first smeared himself and then hid.
