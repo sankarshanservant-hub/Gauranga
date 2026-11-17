@@ -8,7 +8,7 @@ published by the Gaudiya Math, Krishnadasa Kaviraja calls him Bijali Khan; the b
 Pathan Bijli Khan,” “the prince Bijli Khan,” “the leader of the Pathans,” and, in the title of the chapter devoted to
 him, “the Pathan Vaishnava”[^1]. <!-- F1 -->
 
-By birth he was a Pathan, a Muslim, and he became a renowned Vaishnava: Mahaprabhu's mercy does not look at birth. Kaviraja Gosvami writes of him:
+By birth he was a Pathan, a Muslim, and he came to be known far and wide as a Vaishnava: Mahaprabhu's mercy does not look at birth. Kaviraja Gosvami writes of him:
 
 “He was young, the son of a king, and Ramadasa and the other Pathans were his servants.” (CC, Madhya 18.208)
 
@@ -21,7 +21,7 @@ meeting with the Lord, which Kaviraja Gosvami described in the eighteenth chapte
 after it. <!-- F2 F3 F4 F5 I1 Q2 -->
 
 ## On the Way from Vraja
-It was the year when Mahaprabhu, after the Ratha-yatra, left Puri for Vrindavana by the forest road through Jharikhanda.
+It was the year when Mahaprabhu, after the Ratha-yatra, left Puri for Vrindavana, taking the jungle path across Jharikhanda.
 With Him went Balabhadra Bhattacharya and his brahmana servant, whom Ramananda Raya and Svarupa Damodara had given the
 Lord as companions. In Vraja the Lord sank ever deeper into love, and once at Akrura-ghata He threw Himself into the
 Yamuna. The alarmed Balabhadra took counsel with the Sanodiya brahmana of Mathura, a disciple of Sri Madhavendra Puri,
@@ -45,21 +45,22 @@ Rajput would later say that his home was in this village. <!-- F8 -->
 
 ## The Pathan Horsemen
 “Just then ten horsemen arrived there — mleccha Pathans — and dismounted from their horses. Seeing the Lord, the
-mlecchas reasoned: ‘This sannyasi had boundless gold. These four highwaymen drugged him with datura, killed him and took
-all the sannyasi's wealth.’” (CC, Madhya 18.163–165)
+mlecchas reasoned: ‘This sannyasi had boundless gold…’” (CC, Madhya 18.163–164)
+
+His four companions, they decided, were highwaymen: they had drugged Him with datura, killed Him and taken all His
+wealth (CC, Madhya 18.165).
 
 Kaviraja Gosvami does not name the leader of this troop. Srila Bhaktisiddhanta Sarasvati in the “Anubhashya” says it
 plainly: “Who Bijali Khan, the leader of the troop of Pathans, was” (heading to CC, Madhya 18.208); so too Srila
 Bhaktivinoda Thakura and the biographies understand it: Bijli Khan rode at the head of ten Pathan horsemen[^4]. According
-to Bhaktivinoda Thakura and the biographies, it was Bijli Khan himself who suspected that the four companions had
-drugged the monk, killed him and were carrying off his wealth. The four were Krishnadasa the Rajput, the Sanodiya brahmana,
+to Bhaktivinoda Thakura and the biographies, it was Bijli Khan himself who voiced this suspicion. The four were Krishnadasa the Rajput, the Sanodiya brahmana,
 Balabhadra Bhattacharya and his brahmana companion. <!-- F6 F9 -->
 
 “Then the Pathans bound the four men and wanted to cut them down. The Bengalis all began to tremble. Krsnadasa was a
 Rajput and utterly fearless. That brahmana too was fearless, and very bold of speech.” (CC, Madhya 18.166–167) <!-- F10 -->
 
 The brahmana said that he was a brahmana of Mathura and that the unconscious sannyasi was his guru; because of an
-illness He sometimes faints, but He would soon come to Himself. Let the Pathans sit here a while, keeping them bound, and
+illness (so he explained it to strangers) He sometimes faints, but He would soon come to Himself. Let the Pathans sit here a while, keeping them bound, and
 when He wakes, ask Him — and if He says they have harmed Him, let them kill him, the brahmana[^5]. The brahmana also
 appealed to his connections: “I have a hundred men at the padsah's court” (CC, Madhya 18.169)[^6]. <!-- F11 F12 -->
 
@@ -85,7 +86,7 @@ At that very moment the Lord came to Himself.
 Lord, absorbed in love, cried out, it pierced the mlecchas' hearts like the point of a spear. Frightened, the mlecchas
 set the four men free, and the Lord did not see His companions in bonds.” (CC, Madhya 18.177–179)
 
-It was not the cry of a madman that frightened the armed horsemen, but the power of the holy name coming from the lips
+It was not a mere loud cry that frightened the armed horsemen, but the power of the holy name coming from the lips
 of the Lord Himself in the ecstasy of prema: as Srila Bhaktisiddhanta says, the sinful heart cannot bear the sound of
 the name of Hari. And that the Lord was not to see His companions in bonds was no accident but His will: He did not
 allow enmity to be shown to His devotees before His eyes. <!-- F15 -->
@@ -100,7 +101,8 @@ their suspicion: these four are robbers; they drugged Him, drove Him out of His 
 falling sickness I sometimes lose consciousness, and these four kindly look after Me.” (CC, Madhya 18.183–184)
 
 So the Lord spoke of Himself before strangers, concealing His prema, as the Sanodiya brahmana too had spoken of His
-“illness.” His unconsciousness is no disease but the highest state of divine love, which He did not reveal to those who
+“illness”; Srila Bhaktisiddhanta notes accordingly that on seeing the Pathans the Lord held His feelings in check. His
+unconsciousness is no disease but the highest state of divine love, which He did not reveal to those who
 could not understand it. <!-- F16 F17 -->
 
 ## The Debate on Scripture
@@ -121,7 +123,8 @@ Sufis, whose saying is “ana-l-haqq” (“I am the Truth”); in his view this
 <!-- F19 -->
 
 “He set forth the doctrine of the non-dual Brahman, and the Lord refuted him with the reasoning of his own scripture.
-Whatever he said, the Lord refuted it all.” (CC, Madhya 18.187–188)
+Whatever he said, the Lord refuted it all. No answer came to his lips, and he was struck utterly dumb.” (CC, Madhya
+18.187–188)
 
 The Lord did not reject His interlocutor's scripture or pass judgement on his faith: He took His stand on that very
 scripture and showed that its conclusion is love for the personal God and service to Him. He said:
@@ -140,8 +143,10 @@ and establishes God and service to Him; and of all its injunctions, the last, co
 own scripture, consider it carefully, and tell Me plainly what it has written at the end,” the Lord said (CC, Madhya
 18.198). Srila Bhaktivinoda Thakura explains: where the scripture describes how Muhammad saw God in the seventh heaven,
 it acknowledges the complete form of God; service to Him the Muslims call “ibadat,” and the goal of life this scripture
-names is love. One biography, following Bhaktivinoda, says that the Lord established devotion to Krishna from the Koran
-itself. <!-- F20 -->
+names is love. In the headings of the “Anubhashya” Srila Bhaktisiddhanta is more definite still: at the very end of the
+Koran there is a pointer to Krishna, to Brahman possessed of attributes (*savishesha*); the later injunction of the
+scripture — on devotion — is stronger than the earlier ones on karma and jnana. One biography, following Bhaktivinoda,
+says that the Lord grounded devotion to Krishna in the Koran's own words. <!-- F20 F31 -->
 
 The pir acknowledged that the Lord was right: yes, so it is written in the scripture, but no one can grasp and accept
 it; everyone speaks of the impersonal Lord, and no one knows that it is the Lord with form who is to be served. And he
@@ -151,7 +156,7 @@ said:
 scriptures, yet I cannot determine what the goal is and what the means. At the sight of You my tongue speaks the name
 of Krsna, and my pride — ‘I am a great scholar’ — is gone.” (CC, Madhya 18.201–203)
 
-The Pathans, already delighted by the mere sight of the Lord, hearing from Him the true conclusion on the goal and the
+The Pathans, already delighted by the mere sight of the Lord, on hearing Him set forth the real conclusion on the goal and the
 means (*sadhya-sadhana*), became still more attached to Him. And on the tongue of the one who had just been arguing,
 Krishna's name appeared of itself, without any effort: as Srila Bhaktisiddhanta says, at the sight of the Lord the name
 of Krishna appears of itself on the maulana's tongue, and his pride vanishes. <!-- F21 I2 -->
@@ -165,13 +170,13 @@ Lord instructed the pir in the name of Krishna and gave him the name “Ramadasa
 “Anubhashya” says[^9]. <!-- F22 F23 -->
 
 ## The Prince at the Lord's Feet
-Here Kaviraja Gosvami names the one for whose sake we tell this story:
+Having given the pir the name “Ramadasa,” Kaviraja Gosvami at once names the one for whose sake we tell this story:
 
-“The Lord gave him the name Ramadasa. Another Pathan there was named Bijali Khan. He was young, the son of a king, and
+“…Another Pathan there was named Bijali Khan. He was young, the son of a king, and
 Ramadasa and the other Pathans were his servants. Crying ‘Krsna!’, he fell at Mahaprabhu's feet, and the Lord placed
 His holy foot on his head.” (CC, Madhya 18.207–209)
 
-The biographies tell it thus: seeing the good fortune of his Pathan servant, the prince Bijli Khan himself said
+The biographies tell it thus: when the prince Bijli Khan saw what fortune had come to his Pathan servant, he too said
 “Krishna, Krishna” and fell at Mahaprabhu's feet, and the Lord showed mercy to him too. That the Lord touched his head
 with His foot they do not say; the “Charitamrita” and the “Anubhashya” say it plainly: the Lord placed His holy foot on
 his head — the highest blessing the Lord bestows on one who surrenders to Him. Srila Bhaktivinoda Thakura writes: “Bijali
@@ -200,8 +205,8 @@ Pathan Vaishnavas’”; one biography says the same. Where this village is, is 
 “Such are the pastimes of the Lord Sri Krsna Caitanya. Coming to the West, He blessed the yavanas and others.” (CC,
 Madhya 18.213)
 
-Srila Bhaktisiddhanta explains: coming to the United Provinces, the Lord delivers the mlecchas — the name for peoples who
-do not follow the Vedas. Then the Lord bathed in the Ganga at Soro-kshetra and went along her bank to
+Srila Bhaktisiddhanta explains: coming to the United Provinces, the Lord delivers the mlecchas. (Mlecchas is the name for
+peoples who do not follow the Vedas.) Then, after His bath in the Ganga at Soro-kshetra, the Lord followed her bank to
 Prayaga; Krishnadasa the Rajput and the Sanodiya brahmana begged Him to take them along as far as Prayaga: in a land of
 Muslims trouble might arise, and Balabhadra Bhattacharya did not know their language. Of Bijli Khan and his Pathans the
 sources say no more. <!-- F28 -->
@@ -216,8 +221,8 @@ He names only Ramadasa; his master's name is not in this verse. <!-- F29 -->
 ## Significance
 The whole story of Bijli Khan, told by Kaviraja Gosvami in the eighteenth chapter of the Madhya-lila (verses 159–212)
 and retold by the biographies, fits into a single day on the road from Vraja to Prayaga. But that day shows that
-Mahaprabhu's mercy does not look at birth: a young Pathan prince, a Muslim by birth, received it and became a renowned
-Vaishnava. Whoever sees the Lord and hears from Him the true conclusion about the goal and the path is himself drawn to
+Mahaprabhu's mercy does not look at birth: a young Pathan prince, a Muslim by birth, received it and became a celebrated
+Vaishnava. Whoever sees the Lord and hears from Him the real conclusion about the goal and the path is himself drawn to
 the name of Krishna — even one who had just been arguing with Him. And the good fortune of one devotee awakens faith in
 another: seeing what his servant had received, the master himself fell at the Lord's feet and became a maha-bhagavata,
 honoured at every holy place. <!-- I1 I2 I3 Q3 -->
@@ -225,18 +230,20 @@ honoured at every holy place. <!-- I1 I2 I3 Q3 -->
 ---
 
 [^1]: In all three verses (Madhya 18.207, 208, 212) the Bengali text of the Gaudiya Math edition reads বিজলী-খাঁন,
-    “Bijali Khan”; so too the “Anubhashya” and the “Amrita-pravaha-bhashya.” Another reading (বিজুলী) gives “Bijuli” or
-    “Vijuli Khan.” The biographies write “Bijli Khan,” and so do we.
+    “Bijali Khan”; so too the “Anubhashya” and the “Amrita-pravaha-bhashya.” The earlier Russian translation of the “Charitamrita” gave
+    “Vijali” and “Vijuli Khan” (after the reading বিজুলী). The biographies write “Bijli Khan,” and so do we.
 [^2]: One biography says that his father was as rich as a king, another that he was a wealthy man; yet both go on to
     call Bijli Khan a prince. We follow the “Charitamrita”: “the son of a king” (*rajara kumara*).
-[^3]: One biography says the Lord stopped because He saw that His companions had lost their way; according to the
+[^3]: One biography says the Lord stopped because He saw that His companions had strayed from the road; according to the
     “Charitamrita” (Madhya 18.159), it was because they were tired.
 [^4]: In the verses of the “Charitamrita” Bijli Khan is called only the young son of a king whom the Pathans served
     (Madhya 18.208), while the Sanodiya brahmana proposes to go with the Pathans before the *sikdar*, an officer
     (Madhya 18.168) — that is, someone else, of higher rank. That Bijli Khan led the horsemen is said by the
     “Anubhashya,” the “Amrita-pravaha-bhashya” and the biographies.
-[^5]: According to the “Charitamrita” (Madhya 18.167–171) it was the Sanodiya brahmana who spoke with the Pathans; one
-    biography writes that he spoke together with Krishnadasa the Rajput.
+[^5]: According to the verses of the “Charitamrita” (Madhya 18.167–171) it was the Sanodiya brahmana who spoke with the
+    Pathans; one biography writes that he spoke together with Krishnadasa the Rajput — and so too the heading of the
+    “Anubhashya” to Madhya 18.167 understands it: “Krishnadasa and the brahmana of Mathura fearlessly tell the Pathan who
+    they are.”
 [^6]: The biographies render these words variously: “I know hundreds of people at the emperor's court,” “the padishah of
     the place I come from has a hundred men”; elsewhere a biography is silent about this. We follow the
     “Charitamrita.”
