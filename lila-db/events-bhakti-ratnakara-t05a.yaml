@@ -1,0 +1,121 @@
+# События, заведённые по «Бхакти-ратнакаре», таранга 5, двустишия 1–1900
+
+- id: ev-advaita-mathura-blasphemer
+  title: "Адвайта в Матхуре усмиряет брахмана-хулителя вайшнавов, явив четырёхрукий облик"
+  title_en: "Advaita in Mathura subdues a brahmana who reviled Vaishnavas, revealing His four-armed form"
+  period: P01
+  order: 1.46
+  date_conf: оценка
+  date_basis: "во время паломничества Адвайты (до явления Господа)"
+  themes: [offense, revelation, mercy]
+  notes: "«Бхакти-ратнакара» 5.173–197 (рассказ Рагхавы Пандита «со слов старших»)."
+
+- id: ev-radha-kunda-excavation
+  title: "Радха-кунда и Шьяма-кунда наполняются водой: дар купца из Бадарикашрамы Рагхунатхе Дасу; Пандавы-деревья"
+  title_en: "Radha-kunda and Shyama-kunda are filled with water: a merchant from Badarikashrama brings Raghunatha Dasa money; the Pandavas as trees"
+  period: P15
+  order: 12.2
+  date_conf: оценка
+  date_basis: "при жизни Рагхунатхи Даса у Радха-кунды (после 1534)"
+  themes: [revelation, mercy]
+  notes: "«Бхакти-ратнакара» 5.531–553: Нараяна во сне посылает купца с монетами; Юдхиштхира во сне просит сохранить дерево у Манаса-павана-гхата, поэтому Шьяма-кунда не квадратная."
+
+- id: ev-sanatana-raghunatha-hut
+  title: "Санатана видит тигра у Манаса-павана-гхата и велит Рагхунатхе Дасу жить в хижине"
+  title_en: "Sanatana sees a tiger at Manasa-pavana-ghata and tells Raghunatha Dasa to live in a hut"
+  period: P15
+  order: 12.3
+  date_conf: оценка
+  date_basis: "после прихода Рагхунатхи к Радха-кунде"
+  themes: [mercy, teaching]
+  notes: "«Бхакти-ратнакара» 5.554–562."
+
+- id: ev-raghunatha-sakhisthali-leaf-cup
+  title: "Рагхунатха Дас отбрасывает чашку из листьев, сорванных в Сакхистхали — селении Чандравали"
+  title_en: "Raghunatha Dasa throws away a leaf cup made from leaves picked at Sakhisthali, the village of Chandravali"
+  period: P15
+  order: 12.4
+  date_conf: оценка
+  date_basis: "при жизни Рагхунатхи у Радха-кунды"
+  themes: [separation, krishna-lila]
+  notes: "«Бхакти-ратнакара» 5.563–574 (враджаваси Дас)."
+
+- id: ev-raghunatha-mental-sweet-rice
+  title: "Рагхунатха Дас мысленно вкушает рис с молоком; лекари Виттхаланатхи"
+  title_en: "Raghunatha Dasa mentally partakes of sweet rice; Vitthalanatha's physicians"
+  period: P15
+  order: 12.5
+  date_conf: оценка
+  date_basis: "при жизни Рагхунатхи у Радха-кунды; Виттхаланатха — после 1531"
+  themes: [prasada, revelation]
+  notes: "«Бхакти-ратнакара» 5.575–581."
+
+- id: ev-nityananda-govardhana-brahmana
+  title: "Нитьянанда у Говардханы является брахману Баладевой и надевает камень Говардханы в золоте"
+  title_en: "At Govardhana Nityananda appears to a brahmana as Baladeva and wears a Govardhana stone set in gold"
+  period: P05
+  order: 1.2
+  date_conf: оценка
+  date_basis: "во время паломничества Нитьянанды (до встречи с Господом)"
+  themes: [revelation, mercy, pilgrimage]
+  notes: "«Бхакти-ратнакара» 5.691–723 (рассказ Рагхавы Пандита)."
+
+- id: ev-sanatana-chakra-tirtha-shila
+  title: "Кришна-пастушок даёт престарелому Санатане шилу со следом Своей стопы для обхода (Чакра-тиртха)"
+  title_en: "Krishna as a cowherd boy gives the aged Sanatana a stone with His footprint to circumambulate (Chakra-tirtha)"
+  period: P15
+  order: 13.5
+  date_conf: оценка
+  date_basis: "в старости Санатаны, живущего у Чакра-тиртхи на Говардхане"
+  themes: [revelation, mercy, deities]
+  notes: "«Бхакти-ратнакара» 5.724–740."
+
+- id: ev-sanatana-braid-serpent
+  title: "Санатана принимает косу девочки за змею и признаёт верным сравнение Рупы"
+  title_en: "Sanatana mistakes a girl's braid for a serpent and accepts Rupa's simile as true"
+  period: P15
+  order: 13.6
+  date_conf: оценка
+  date_basis: "при Рупе и Рагхунатхе у Радха-кунды"
+  themes: [revelation, krishna-lila, learning]
+  notes: "«Бхакти-ратнакара» 5.754–765."
+
+- id: ev-rupa-dana-keli-kaumudi-raghunatha
+  title: "Рупа пишет «Дана-кели-каумуди», чтобы утешить Рагхунатху, обезумевшего от «Лалита-мадхавы»"
+  title_en: "Rupa writes the Dana-keli-kaumudi to console Raghunatha, maddened by the Lalita-madhava"
+  period: P15
+  order: 13.7
+  date_conf: оценка
+  date_basis: "после прихода Рагхунатхи во Врадж (1534)"
+  themes: [separation, learning, ecstasy]
+  notes: "«Бхакти-ратнакара» 5.766–774."
+
+- id: ev-radha-brings-rice-rupa
+  title: "Радхика под видом девочки-пастушки приносит Рупе продукты, чтобы он накормил Санатану молочным рисом"
+  title_en: "Radhika, disguised as a cowherd girl, brings Rupa ingredients to feed Sanatana sweet rice"
+  period: P14
+  order: 17.22
+  date_conf: оценка
+  date_basis: "при жизни Рупы и Санатаны у Павана-саровара (Нандишвара)"
+  themes: [prasada, revelation, mercy]
+  notes: "«Бхакти-ратнакара» 5.1312–1324."
+
+- id: ev-rupa-breath-blisters
+  title: "Дыхание Рупы в огне разлуки обжигает тело другого вайшнава"
+  title_en: "Rupa's breath, burning with separation, blisters another Vaishnava's body"
+  period: P14
+  order: 17.23
+  date_conf: оценка
+  date_basis: "при жизни Рупы во Врадже"
+  themes: [separation, ecstasy]
+  notes: "«Бхакти-ратнакара» 5.1325–1329."
+
+- id: ev-sanatana-vrajavasis-baithan
+  title: "Любовь враджаваси к Санатане; он остаётся в Байтхане"
+  title_en: "The Vrajavasis' love for Sanatana; he stays at Baithan"
+  period: P14
+  order: 17.24
+  date_conf: оценка
+  date_basis: "при жизни Санатаны во Врадже"
+  themes: [mercy, pilgrimage]
+  notes: "«Бхакти-ратнакара» 5.1339–1387."

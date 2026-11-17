@@ -28,7 +28,7 @@
 | প্রবোধানন্দ সরস্বতী | Прабодхананда Сарасвати | Prabodhananda Sarasvati |
 | শ্রীরঙ্গ(ক্ষেত্র), কাবেরী | Шрирангам (Шри Ранга-кшетра), Кавери | Srirangam (Sri Ranga-kshetra), Kaveri |
 | রঙ্গনাথ | Ранганатха | Ranganatha |
-| শ্রীনিবাস আচার্য | Шринивас Ачарья | Srinivasa Acharya |
+| শ্রীনিবাস আচার্য | Шриниваса Ачарья | Srinivasa Acharya |
 | নরোত্তম (ঠাকুর মহাশয়) | Нароттама (Тхакур Махашая) | Narottama (Thakura Mahashaya) |
 | শ্যামানন্দ (দুঃখী কৃষ্ণদাস) | Шьямананда (Духкхи Кришнадас) | Shyamananda (Duhkhi Krishnadasa) |
 | লোকনাথ (গোস্বামী), ভূগর্ভ | Локанатха (Госвами), Бхугарбха | Lokanatha (Gosvami), Bhugarbha |

@@ -1,0 +1,415 @@
+# Канаи Кхунтиа, «Махабхава-пракаша» (ория, XVI в.) — лилы в порядке изложения (формат — ../README.md).
+# Перевод: mahabhava-prakasha/ru/CC.md, метки **C.N.** (нумерация переводчика: в издании её нет). Записи добавлять в конец.
+
+- id: mpk-0001
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 1–15"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: PX
+  order: 1
+  title: "Мангалачарана: слава Владыке Нилачалы — Кришне-Вишну"
+  summary: "Канаи прославляет Джаганнатху, Владыку Нилачалы, как Кришну и Вишну, возлежащего на Шеше посреди океана, Которому служит Камала и о Чьих лотосных стопах размышляют мудрецы и йоги."
+  persons: ["@kanhai-odia", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Чтение местами неуверенно (сноски перевода)."
+  themes: [author, jagannatha]
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.1", to: "1.15"}
+
+- id: mpk-0002
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 16–35"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: PX
+  order: 2
+  title: "Слава Шри Гаурасундаре и Его преданным в Пури"
+  summary: "Гаурасундара, сын Шачи, юный санньяси золотого сияния, рождённый от калы Радхи, младший брат Нитьянанды, спаситель Джагая и Мадхая; Он сокрушил гордость Сарвабхаумы; Каши Мишра служит Его стопам, Сарвабхаума воспевает Его, у Его стоп — Гаджапати Пратапарудра."
+  persons: ["@kanhai-odia", "@mahaprabhu", "@nityananda", "@srivasa", "@sarvabhauma", "@kashi-mishra", "@prataparudra"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 1, 4; Мадхья 6, 10–14"
+  notes: "«Кала Парабрахмана», «рождён от калы Радхи» (1.18–19) — сноски с позицией гаудия-вайшнавов (ЧЧ Ади 1.5, Ади 4)."
+  themes: [author, teaching]
+  teaching: [gaura-tattva]
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.16", to: "1.35"}
+
+- id: mpk-0003
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 36–45"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: PX
+  order: 3
+  title: "Канаи о себе: сын Ниранджаны Кхунтии из Шанкха-кшетры"
+  summary: "Автор называет себя ничтожным сыном дваждырождённого; его отец — мудрый Ниранджана Кхунтиа; родина — Шанкха-кшетра близ Нила-шайлы, где пребывает богиня Харачанди, селение служителей Бога богов; он возвещает о приходе сына Шачи."
+  persons: ["@kanhai-odia"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Многие чтения неуверенны (сноски)."
+  themes: [author]
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.36", to: "1.45"}
+
+- id: mpk-0004
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 46–78 (продолжается)"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P12
+  order: 300
+  title: "Ратха-ятра глазами Канаи: паханди, чхера-панхара, танец Махапрабху; Харичандана отталкивает Шривасу; экстаз автора"
+  summary: "При Гундича-ятре Божеств выносят в паханди даитапати; Сударшана, Баладева, Субхадра и Джаганнатха выступают под гром телингских инструментов; Гаджапати метёт путь; Каши Мишра, Мукунда и преданные окружают Гаурангу; среди каранов царя — министр Лакшмидхара и Харичандана, который рукой отталкивает Шривасу, глядящего на танец; Канаи видит сияние махабхавы в лице Гауры, хватает Его стопы, его охватывают дрожь, пот, слёзы, а Прабху в беспамятстве катается по земле с пеной на устах."
+  persons: ["@kanhai-odia", "@mahaprabhu", "@prataparudra", "@kashi-mishra", "@mukunda-datta", "@harichandana", "@srivasa", "@lakshmidhara-puri", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13 (Харичандана и Шриваса, семь групп киртана, уддандa-нритья)"
+  notes: "Свидетельство очевидца: автор сам участвует в паханди как служитель. «Мукунда» — по-видимому, Мукунда Датта; «Лакшмидхара» — ср. «Вайшнава-лиламрита» 7.16 (отождествления под вопросом). Многие чтения неуверенны."
+  themes: [festival, ecstasy, jagannatha]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.46", to: "1.78"}
+
+- id: mpk-0005
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 79–91"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P12
+  order: 301
+  title: "Конец паханди; Канаи становится слугой Прабху и преданных; Шикхи и его брат"
+  summary: "Прабху танцует в паханди с возгласами «Радха! Радха!»; после шествия Канаи прибегает к Его стопам, сопровождает Его, служит преданным — Адвайте, Нитьянанде, Рамананде, пятидесяти девяти вайшнавам; карана Шикхи, сын Навагханы Тадау, с братом служат Прабху и преданным, вкушая остатки их трапезы."
+  persons: ["@kanhai-odia", "@mahaprabhu", "@advaita", "@nityananda", "@ramananda-raya", "@prataparudra", "@shikhi-mahiti", "@murari-mahiti"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13 (бхава Радхи на Ратха-ятре); Антья 2 (Шикхи Махити)"
+  notes: "Отождествление «двух братьев» с Шикхи и Мурари Махити — по ЧЧ, предположительно."
+  themes: [festival, ecstasy]
+  bhava: [radha]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.79", to: "1.91"}
+
+- id: mpk-0006
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 92–98"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P13
+  order: 900
+  title: "Возвращение Махапрабху в Шри Кшетру через Атхаранала; мадхья- и антья-лила"
+  summary: "Вместе с Тапаной и другими преданными Господь снова отправляется в путь и возвращается в Кшетру через Атхаранала; у Его стоп собираются Сварупа Дамодара, Гададхара, Рамананда, Кашишвара, Говинда; семь лет мадхья-лилы Он провёл вдали, восемнадцать лет антья-лилы — в Пури, в киртане."
+  persons: ["@mahaprabhu", "@tapana-mishra", "@svarupa-damodara", "@gadadhara-pandita", "@ramananda-raya", "@kashishvara", "@govinda-servant"]
+  places: ["#atharanala", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 1, 25"
+  notes: ""
+  themes: [pilgrimage]
+  divergence: "Мадхья-лила — семь лет (в ЧЧ Мадхья 1 — шесть)."
+  event: ev-return-to-puri-from-vrindavana
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.92", to: "1.98"}
+
+- id: mpk-0007
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 99–107"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P14
+  order: 40
+  title: "Собрание во дворе Каши Мишры: самадхи Господа, объятие Рамананды, махапрасад"
+  summary: "В шукла-навами чайтры (?) Канаи приходит к Господу; преданные украшают двор Каши Мишры; Господь, сосредоточенный, смотрит вверх, слёзы струятся, глаза застывают, тело погружается в самадхи; придя в себя, Он крепко обнимает Рамананду, усаживает преданных и даёт Сарвабхауме и всем махапрасад."
+  persons: ["@kanhai-odia", "@mahaprabhu", "@kashi-mishra", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Свидетельство очевидца; дата прочитана неуверенно."
+  themes: [ecstasy, prasada]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-chaitra-navami-kashi-mishra-gathering
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.99", to: "1.107"}
+
+- id: mpk-0008
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 108–136 (продолжается)"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P14
+  order: 41
+  title: "Смех Господа: «Я увидел Джаганнатху смеющимся»; вопрос Рамананды о таттве Джаганнатхи"
+  summary: "Утром в дашами после киртана Господь, вне Себя, смеётся и, глядя на Нила-чакру, говорит: «Сегодня Я увидел Джаганнатху смеющимся… увидел свет Брахмана»; со лба Его струится свет; царь растирает Его стопы, Сарвабхаума держит светильник; Рамананда осыпает Его стопы цветами: «Вы — Сам Господь; но в каком бхаве Господь стал Джаганнатхой — без трибханги, без флейты, без Вриндавана?»"
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 8 (Рамананда признаёт Господа); Мадхья 14 (Пратапарудра растирает стопы)"
+  notes: "«Свет Брахмана», «исполненный Брахмана» (1.116–118) — сноски с позицией гаудия-вайшнавов (ЧЧ Ади 2). Ответ Господа — в следующих порциях."
+  themes: [teaching, ecstasy, jagannatha]
+  teaching: [gaura-tattva]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-ramananda-asks-jagannatha-tattva
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.108", to: "1.136"}
+
+- id: mpk-0009
+  source: mahabhava-prakasha
+  ref: "Гл. 1, 137–158 и колофон"
+  file: "mahabhava-prakasha/ru/01.md"
+  period: P14
+  order: 41.5
+  title: "Господь открывает сокровенную бхаву узкому кругу; Канаи записывает её — происхождение книги"
+  summary: "Рамананда простирается; смеясь, Господь говорит Нитьянанде, что являет сегодня сокровенную бхаву преданных, о которой не говорят в собрании; Канаи, стоя позади в настроении слуги, записывает слова Господа по повелению Вакрешвары Пандита; преданные назвали книгу «Махабхава-пракаша»."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@nityananda", "@vakreshvara", "@kanhai-odia"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: "ЧЧ Мадхья 2, Антья 14–20 (сокровенные бхавы — для узкого круга)"
+  notes: "Отождествление «Вакрешвары» (1.146) — под вопросом в чтении."
+  themes: [author, teaching]
+  verses:
+    - {file: "mahabhava-prakasha/ru/01.md", from: "1.137", to: "1.158"}
+
+- id: mpk-0010
+  source: mahabhava-prakasha
+  ref: "Гл. 2, 1–28"
+  file: "mahabhava-prakasha/ru/02.md"
+  period: P12
+  order: 5
+  title: "Род Рамананды Рая; Рамананда оставляет Видьянагару и приходит к Господу; царь в доме Каши Мишры"
+  summary: "В Бентапуре, лучшем месте Панчакроши Пурушоттама-кшетры, жил Бхавананда Паттанаяк; его сыновья близки Пратапарудре, Гопинатха Паттанаяк несёт службу; Рамананда, получивший сан Рая, правит Видьянагарой, но, обезумев от расы Кришны и повторяя «Радха, Радха», оставляет дела и приходит в Пури; Пратапарудра простирается перед Господом в доме Каши Мишры: «Встань, встань, о царь!»"
+  persons: ["@ramananda-raya", "@bhavananda-raya", "@gopinatha-pattanayaka", "@prataparudra", "@mahaprabhu", "@kashi-mishra"]
+  places: ["#bentapur", "#vidyanagara", "#godavari", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 8, 10–11; «Вайшнава-лиламрита» 3.78–113, 4.144–147"
+  notes: ""
+  themes: [kirtan, learning]
+  divergence: "У Бхавананды три сына, Рамананда младший (ЧЧ Мадхья 10 — пять сыновей); Рамананда приходит, услышав о Гауранге (ЧЧ — встреча на Годавари)."
+  event: ev-ramananda-comes-to-puri
+  verses:
+    - {file: "mahabhava-prakasha/ru/02.md", from: "2.1", to: "2.28"}
+
+- id: mpk-0011
+  source: mahabhava-prakasha
+  ref: "Гл. 2, 29–72, 123–169 (продолжается)"
+  file: "mahabhava-prakasha/ru/02.md"
+  period: P14
+  order: 42
+  title: "Господь изъясняет таттву Радхи: слоги, сияние, Йогамайя и Бхавамайи; Радха — сияние Сурьи"
+  summary: "На вопрос Рамананды о Радхе Господь говорит о Ней как о свете букв и биджей, о владычице каналов тела, подобной огню и неприкосновенной, как самоцвет в огне; рассказывает о гневе Радхи на Голоке из-за Судамы; называет Её Йогамайей в женском облике и Бхавамайи; затем — как бог Солнца в аскезе отдал Кришне своё сияние, родившись Вришабхану, а сияние явилось Радхой у Кирттиды; объясняет имя «Радха»; на вопрос «если бхава — Радха, кто же гопи?» начинает новый ответ."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@radha", "@krishna"]
+  places: ["#puri"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: учение в духе Панчасакхи (биджи, нади, Шунья, Радха как сияние Сурьи) расходится с гаудия-вайшнавским: Радха — хладини-шакти, вечная возлюбленная Кришны (ЧЧ Ади 4; сноски перевода). Переведено точно."
+  themes: [teaching]
+  bhava: [radha]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-mahabhava-prakasha-radha-tattva
+  verses:
+    - {file: "mahabhava-prakasha/ru/02.md", from: "2.29", to: "2.72"}
+    - {file: "mahabhava-prakasha/ru/02.md", from: "2.123", to: "2.169"}
+
+- id: mpk-0012
+  source: mahabhava-prakasha
+  ref: "Гл. 2, 73–122"
+  file: "mahabhava-prakasha/ru/02.md"
+  period: P14
+  order: 43
+  title: "Рассказ Господа: Кешава Бхарати ведёт Его к Мадхавендре Пури; посвящение в мантру Радхи; даршан Радхи в колодце"
+  summary: "Господь рассказывает: придя в Кшетру, Он припал к стопам Кешавы Бхарати; тот назвал своим гуру Мадхавендру Пури, и они вдвоём искали его среди песчаных дюн; Мадхавендра дал мантру и таттву Радхи; в колодце у ашрама Господь увидел Гангу и Саму Радху с кувшином; без милости гуру никто не обретёт этой бхавы."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@madhavendra-puri", "@radha"]
+  places: ["#puri"]
+  kind: teaching
+  authority: D
+  parallels: "ЧЧ Ади 17 (дикша у Ишвары Пури в Гае); Мадхья 3 (санньяса у Кешавы Бхарати)"
+  notes: "Понижено до D: противоречит ЧЧ/ЧБ (дикша — от Ишвары Пури в Гае; Мадхавендра ушёл до прихода Господа в Пури; ср. «Вайшнава-лиламрита» 3.117). Переведено точно, сноски."
+  themes: [teaching]
+  divergence: "Посвящение — от Мадхавендры в Пури, а не от Ишвары Пури в Гае."
+  event: ev-lord-initiation-madhavendra-mp
+  verses:
+    - {file: "mahabhava-prakasha/ru/02.md", from: "2.73", to: "2.122"}
+
+- id: mpk-0013
+  source: mahabhava-prakasha
+  ref: "Гл. 2, 170–210 и колофон"
+  file: "mahabhava-prakasha/ru/02.md"
+  period: P14
+  order: 42.5
+  title: "Тайна гопи: девять «лун» и восемь сакхи; мольба преданных; конец главы 2"
+  summary: "Прабху изъясняет тайну гопи: девять «лун», восемь сакхи с их именами и свойствами, махабхаву, в которой пребывает ум Кришны; преданные в слезах молят о милости; Канаи заключает: «То, что я услышал из уст гуру Гауранги, — ту махабхаву я и описал»."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@radha", "@kanhai-odia"]
+  places: ["#puri"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: схема сакхи и «лун» в духе шакта-тантры (Шри-чакра); у гаудия-вайшнавов сакхи — каява-вьюха Радхи (ЧЧ Ади 4; сноски). Отождествление Гауранги с Владыкой Ниладри (2.207) — сноска."
+  themes: [teaching]
+  bhava: [gopi]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-mahabhava-prakasha-radha-tattva
+  verses:
+    - {file: "mahabhava-prakasha/ru/02.md", from: "2.170", to: "2.210"}
+
+- id: mpk-0014
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 1–10"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: PX
+  order: 4
+  title: "Похвала царю Пратапарудре"
+  summary: "Пратапарудра из Солнечного рода — «частица Вишну», рождённый по милости Джая-Дурги, сын Пурушоттама-девы, окружённый преданными Вишну, могучий силой Махарудры."
+  persons: ["@prataparudra", "@purushottama-deva", "@kanhai-odia"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: "«Вайшнава-лиламрита» 4.1–2"
+  notes: "Придворная похвала; о служении Рудре — сноска (Шива — лучший из вайшнавов, ШБ 12.13.16)."
+  themes: [author]
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.1", to: "3.10"}
+
+- id: mpk-0015
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 11–40"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P09
+  order: 990
+  title: "Набег Гази Исмаила: служители тайной южной дверью уносят Господа к Чилике"
+  summary: "Пока Пратапарудра ходит в походы на юг, Гази Исмаил идёт на Нилачалу; служители храма (с ними, по словам Канаи, и он сам — «мы») открывают тайную южную бронзовую дверь с семью колокольцами и уносят «брахму» Владыки; Нрисимха Махапатра ночью увозит Его на слоне, потом лодкой на юг, к Чилике; сановник сообщает царю на берегу; царь в гневе возвращается, входит в пещеру Чадхеи и поклоняется Парабрахме."
+  persons: ["@prataparudra", "@ismail-gazi", "@nrisimha-mahapatra", "@kanhai-odia", "@jagannatha-deity"]
+  places: ["#puri", "#chilika"]
+  kind: lila
+  authority: C
+  parallels: "«Вайшнава-лиламрита» 4.4–21; ЧБ Антья 4"
+  notes: "Свидетельство храмового служителя («мы»). «Брахма» внутри Божества — орийское храмовое предание; для гаудия-вайшнавов Божество — Сам Господь (сноска)."
+  themes: [jagannatha, muslims]
+  event: ev-ismail-gazi-raid-deities-hidden
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.11", to: "3.40"}
+
+- id: mpk-0016
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 41–48"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P09
+  order: 991
+  title: "Сон Пратапарудры и его вайшнавское посвящение; осада Мадары"
+  summary: "Во сне Кришна говорит царю; с того дня он принимает вайшнавское посвящение, опирается на имя «Харе Кришна»; месяц войска не могут взять крепость Мадару; вернувшись, царь служит Господу как великий вайшнав."
+  persons: ["@prataparudra", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [revelation, jagannatha]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-prataparudra-dream-vaishnava-initiation
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.41", to: "3.48"}
+
+- id: mpk-0017
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 49–63"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P10
+  order: 3
+  date: "918 сал (?), чайтра, двадаши, четверг"
+  title: "Приход Шри Чайтаньи в Пури: юный санньяси с посохом и камандалу, «Радха, Радха!»"
+  summary: "В чайтру 918-го года (?), в двадаши, в четверг, в Кшетру входит юный санньяси — луна Шачи — с посохом и камандалу, с толпами вайшнавов, восклицая «Радха, Радха!»; Он входит в храм под возгласы «Хари бол», получает прасад из бхога-мандапы; дандины называют Его безумцем; через несколько дней Он уходит на юг."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 6; «Вайшнава-лиламрита» 4.28–35"
+  notes: "Дата прочитана неуверенно; сопоставление с годом 1510 — в сносках."
+  themes: [jagannatha, ecstasy]
+  bhava: [radha]
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.49", to: "3.63"}
+
+- id: mpk-0018
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 64–96"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P12
+  order: 2
+  title: "Царь у двери анасары; Ленка и Тадхау с панджи; славословие «Гауранга — жизнь моя»; Рамананда"
+  summary: "В месяц митхуна царь охраняет дверь анасары; Ленка сообщает о юном санньяси; Тадхау читает в панджи, что Он пришёл с преданными, увидел Владыку, ушёл на юг и поселился в Кунджа-матхе; следует славословие с припевом «Гауранга — жизнь моя»; о Господе царю рассказывает Рамананда Рай, сын Бхавананды из Бентапура, паттаджоши царя."
+  persons: ["@prataparudra", "@budha-lenka", "@tadhau", "@mahaprabhu", "@ramananda-raya", "@gopinatha-pattanayaka", "@bhavananda-raya"]
+  places: ["#puri", "#bentapur"]
+  kind: lila
+  authority: C
+  parallels: "«Вайшнава-лиламрита» 5.3–6; ЧЧ Мадхья 11"
+  notes: "Рамананда — «преданный Кришны-младенца с джняна-мишра бхакти» (3.93) — сноска о ЧЧ Мадхья 8."
+  themes: [jagannatha]
+  event: ev-prataparudra-learns-of-lord-panji
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.64", to: "3.96"}
+
+- id: mpk-0019
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 97–124 (продолжается)"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P14
+  order: 44
+  title: "Рамананда приводит царя к Господу; след стопы в камне; царь вопрошает о таттве Джаганнатхи"
+  summary: "Рамананда, слуга Шачинанданы, приводит царя; царь, сложив ладони, называет Господа аватарой тела Радхи, вспоминает, как во время великого танца в джагамохане Он оставил след стопы в камне и как синий и белый облики стали одним телом, и просит рассеять сомнение: какова таттва Джаганнатхи, Которому служат Брахма и Шанкара?"
+  persons: ["@prataparudra", "@ramananda-raya", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 11–14"
+  notes: "«Аватара тела Радхи» — сноска (ЧЧ Ади 1, 4)."
+  themes: [teaching, jagannatha]
+  divergence: "След стопы в камне — в ЧЧ/ЧБ нет."
+  event: ev-prataparudra-asks-jagannatha-tattva
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.97", to: "3.124"}
+
+- id: mpk-0020
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 125–152"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P14
+  order: 44.5
+  title: "Ответ Господа о Джаганнатхе: «суть пранавы»; Кришна-царь в Двараке вспоминает Вриндаван"
+  summary: "Рамананда предаётся стопам Прабху; Господь поднимает его и говорит: «Тот, Кто Джаганнатха, — суть пранавы, Его облик — не одно лишь тело», и начинает повесть: Кришна, оставив Матхуру и флейту, царствует в Двараке в царском облачении, но, вспоминая бхаву любви, бродит с флейтой, и Лалита и восемь подруг сходятся на рахасу."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra", "@krishna", "@lalita"]
+  places: ["#puri", "#dvaraka"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 13 (Кришна в Двараке помнит Вриндаван); «Вайшнава-лиламрита» 1.7"
+  notes: "«Суть пранавы» — орийский образ (ср. ВЛ 1.7); для гаудия-вайшнавов Джаганнатха — Сам Кришна (сноски)."
+  themes: [teaching, jagannatha, krishna-lila]
+  event: ev-prataparudra-asks-jagannatha-tattva
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.125", to: "3.152"}
+
+- id: mpk-0021
+  source: mahabhava-prakasha
+  ref: "Гл. 3, 153–215 (текст обрывается)"
+  file: "mahabhava-prakasha/ru/03.md"
+  period: P00
+  order: 5
+  title: "Рахаса в Двараке; облик Раджендры перед гопи; царицы, Вринда, Субхадра у дверей и рассказ Рохини о Радхе"
+  summary: "На берегу Гомати гопи просят Кришну явить им облик царя Двараки; Он становится четвероруким Раджендрой в дивном убранстве, и Радха и Лалита погружаются в блаженство; вернувшись в Двараку, Кришна на ложе с Рукмини вскрикивает имя Радхи; царицы требуют объяснения, Он посылает их к Вринде; та велит позвать Йогамайю-Субхадру, чтобы она не впустила Кришну и Балараму, и Рохини начинает рассказ о Радхе — здесь текст издания обрывается."
+  persons: ["@krishna", "@radha", "@lalita", "@rukmini", "@satyabhama", "@subhadra", "@rohini", "@balarama", "@vrinda-devi"]
+  places: ["#dvaraka"]
+  kind: pre-advent
+  authority: C
+  parallels: "Предание о происхождении облика Джаганнатхи (Кришна и Баларама «тают», слушая Рохини); ЧЧ Мадхья 13"
+  notes: "Повесть рассказывает Сам Махапрабху (продолжение ответа на вопрос царя, mpk-0019–0020). Развязки в издании нет."
+  themes: [krishna-lila, jagannatha, separation]
+  bhava: [radha]
+  event: ev-jagannatha-form-origin-dvaraka
+  verses:
+    - {file: "mahabhava-prakasha/ru/03.md", from: "3.153", to: "3.215"}

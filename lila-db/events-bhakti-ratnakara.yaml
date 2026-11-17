@@ -169,3 +169,43 @@
   date_basis: "БР 3: вскоре после ухода Гададхары Пандита"
   themes: [departure, separation, revelation]
   notes: "«Бхакти-ратнакара» 3.296–370. По ПВ (виласа 4) Шриниваса узнаёт об уходе Гададхары в Джаджпуре."
+
+- id: ev-abhirama-gopinatha-khanakul
+  title: "Гопинатха является Абхираме Тхакуру: Рама-кунда в Кханакуле"
+  title_en: "Gopinatha appears to Abhirama Thakura: Rama-kunda at Khanakul"
+  period: P12
+  order: 112.6
+  date_conf: оценка
+  date_basis: "при жизни Нитьянанды (БР 4.120: Нитьянанда приходил к Абхираме)"
+  themes: [deities, revelation]
+  notes: "«Бхакти-ратнакара» 4.113–119 (рассказ старого брахмана из Кханакула); «Анурага-валли» 3 — Гопинатха явился при рытье Рама-кунды."
+
+- id: ev-srinivasa-ekachakra-vision
+  title: "Шриниваса в Экачакре: видение игр Нитьянанды со спутниками"
+  title_en: "Srinivasa at Ekachakra: a vision of Nityananda's pastimes with His associates"
+  period: P15
+  order: 64.2
+  date_conf: оценка
+  date_basis: "БР 4: после сокрытия Нитьянанды, по пути Шринивасы во Вриндаван"
+  themes: [pilgrimage, revelation, separation]
+  notes: "«Бхакти-ратнакара» 4.167–175; в «Према-виласе» путь Шринивасы через Экачакру не описан."
+
+- id: ev-radha-damodara-rupa-jiva
+  title: "Явление Радха-Дамодары: Рупа являет Божество для Дживы"
+  title_en: "The appearance of Radha-Damodara: Rupa manifests the Deity for Jiva"
+  period: P15
+  order: 13.1
+  date_conf: оценка
+  date_basis: "при жизни Рупы во Вриндаване, после прихода Дживы"
+  themes: [deities, revelation]
+  notes: "«Бхакти-ратнакара» 4.286–297 (шлоки «Садхана-дипики»): по повелению во сне Рупа своими руками являет Радха-Дамодару и отдаёт Дживе; Господь просит у Дживы еды и являет ему облик кишоры с флейтой."
+
+- id: ev-radha-ramana-shows-gaura
+  title: "Радха-рамана являет Гопале Бхатте облик Гаурасундары"
+  title_en: "Radha-ramana reveals the form of Gaurasundara to Gopala Bhatta"
+  period: P15
+  order: 16.7
+  date_conf: оценка
+  date_basis: "после явления Радха-раманы (БР 4)"
+  themes: [deities, revelation, separation]
+  notes: "«Бхакти-ратнакара» 4.341–350: Бхатта вспоминает своё служение Господу в доме отца, и Радха-рамана, покорённый его любовью, принимает облик Гауры."

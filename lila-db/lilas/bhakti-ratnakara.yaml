@@ -1372,3 +1372,668 @@
   event: ev-srinivasa-dream-nitai-advaita
   verses:
     - {file: "bhakti-ratnakara/ru/03.md", from: "362", to: "370"}
+
+- id: brt-0079
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 1–4"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: PX
+  order: 30.4
+  title: "Мангалачарана четвёртой таранги"
+  summary: "Слава Гаурачандре, Нитьянанде, Гададхаре, Шривасу и преданным Господа; автор просит слушателей внимать."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@srivasa"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "1", to: "4"}
+
+- id: brt-0080
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 5–23"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 58.1
+  title: "Шриниваса входит в Навадвипу; Вамшивадана узнаёт его у дома Господа"
+  summary: "У пределов Навадвипы Шриниваса плачет; входя, он видит игры Господа явленными — санкиртану в каждом доме, — а затем видит всех в океане горя; прохожий указывает ему дом Господа, и Вамшивадана, ещё не спросив, узнаёт Шринивасу и обнимает его."
+  persons: ["@srinivasa-acharya", "@vamshivadana", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 4 (pvl-0021)"
+  divergence: "В «Према-виласе» Шриниваса долго живёт за воротами дома как отрешённый и постится, пока Вамшивадана и Ишана не замечают его; здесь Вамшивадана сразу узнаёт его и ведёт к Вишнуприе."
+  themes: [separation, revelation]
+  event: ev-srinivasa-vishnupriya-mercy
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "5", to: "23"}
+
+- id: brt-0081
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 24–46"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 58.2
+  title: "Сон Вишнуприи о Господе и её милость к Шринивасе"
+  summary: "Вишнуприя рассказывает служанке сон: Господь во всей красоте пришёл к ней и велел оказать милость юноше-брахману Шринивасе, который придёт сегодня; Вамшивадана сообщает о нём; Шриниваса кланяется, Вишнуприя, оставаясь укрытой от взоров, с материнской любовью возлагает стопы ему на голову и велит накормить маха-прасадом."
+  persons: ["@vishnupriya", "@srinivasa-acharya", "@mahaprabhu", "@vamshivadana"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 4 (pvl-0021, pvl-0023)"
+  divergence: "В «Према-виласе» Вишнуприе во сне являются Чайтанья и Нитьянанда и упрекают её, что Шриниваса оставлен за воротами, — лишь после этого она возлагает стопу ему на голову и отсылает к Абхираме; здесь Господь заранее, во сне, возвещает его приход."
+  themes: [mercy, revelation, prasada]
+  event: ev-srinivasa-vishnupriya-mercy
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "24", to: "46"}
+
+- id: brt-0082
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 47–55"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 25.1
+  title: "Подвижничество Вишнуприи: счёт имён зёрнами риса; она хранит тело ради милости Шринивасе"
+  summary: "В разлуке с Господом Вишнуприя почти не спит, лишь на голой земле, исхудала; ведёт счёт имён Хари зёрнышками риса, варит их, предлагает Господу и вкушает лишь малую часть; все понимают, что она хранит тело ради милости к Шринивасе, который каждый день получает её даршан; матушка Шачи является ему как бы во сне."
+  persons: ["@vishnupriya", "@srinivasa-acharya", "@shachi", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 4 (pvl-0022); «Анурага-валли» 2 (anv-0014); «Адвайта-пракаша» 22"
+  notes: "Милость Шачи «как бы во сне» (4.55) — упоминание; Шачи к этому времени, по контексту, уже скрылась."
+  divergence: "«Према-виласа» и «Анурага-валли» уточняют: зёрнышко — за каждое произнесение шестнадцати имён маха-мантры; здесь — просто «счёт имён Хари»."
+  themes: [separation, prasada]
+  teaching: [holy-name]
+  event: ev-vishnupriya-austerity
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "47", to: "55"}
+
+- id: brt-0083
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 56–62"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 58.3
+  title: "Спутники Господа в Навадвипе принимают Шринивасу и посылают его во Вриндаван"
+  summary: "По Навадвипе разносится весть о «сосуде любви Гауры»; Мурари, Шривас, Дамодара, Санджая, Виджая, Шукламбара, Дас Гададхара и другие, почти мёртвые от разлуки, по воле Господа радуются ему; автор говорит, что Господь сохранил их в явленном мире ради милости Шринивасе; жена Шриваса и другие матери окружают его любовью; через несколько дней все велят ему спешить во Вриндаван."
+  persons: ["@srinivasa-acharya", "@murari-gupta", "@srivasa", "@damodara-pandita", "@shuklambara", "@gadadhara-dasa", "@malini"]
+  places: ["#navadvipa"]
+  kind: post-advent
+  authority: B
+  notes: "Санджая и Виджая названы без уточнений; тегами не отмечены."
+  themes: [mercy, separation]
+  event: ev-srinivasa-vishnupriya-mercy
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "56", to: "62"}
+
+- id: brt-0084
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 63–67"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 60.1
+  title: "Шантипур: скрывшийся Адвайта является Шринивасе"
+  summary: "Входя в Шантипур, Шриниваса скорбит, и Адвайта, уже скрывшийся, является и утешает его; Шриниваса думает, что это обман чувств, но повеление повторяется, сомнение уходит, и он в слезах спешит в обитель Адвайты."
+  persons: ["@srinivasa-acharya", "@advaita"]
+  places: ["#shantipura"]
+  kind: vision
+  authority: B
+  parallels: "«Према-виласа» 4 (pvl-0024)"
+  divergence: "В «Према-виласе» явившийся Адвайта долго говорит с Шринивасой: открывает, зачем Господь дал ему родиться, и отлучает ложных последователей; здесь — лишь краткое утешение."
+  themes: [revelation, separation]
+  event: ev-srinivasa-shantipura
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "63", to: "67"}
+
+- id: brt-0085
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 68–80"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 60.2
+  title: "Благословение Ситы Тхакурани"
+  summary: "Изнемогшая в разлуке Сита зовёт Шринивасу во внутренние покои, возлагает стопы ему на голову и, плача, предрекает: через него придёт благо миру, он раздаст прему и шастры о бхакти, к нему присоединятся другие, у него будет много последователей; велит спешить во Вриндаван принять посвящение; вверяет его Мадана-гопалу и знакомит с сыновьями и слугами."
+  persons: ["@sita-thakurani", "@srinivasa-acharya", "@madana-gopala-deity"]
+  places: ["#shantipura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 4 (pvl-0025); «Анурага-валли» 3 (anv-0017)"
+  divergence: "В «Према-виласе» Сита находит плачущего Шринивасу у Ганги и кормит его вместе с сыном Гопалой остатками трапезы Кришны; пророчества о его миссии там нет."
+  themes: [mercy, revelation]
+  event: ev-srinivasa-shantipura
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "68", to: "80"}
+
+- id: brt-0086
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 81–96"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 62.1
+  title: "Кхардаха: Парамешвари Дас, Васудха, Джахнава и Вирабхадра"
+  summary: "Парамешвари Дас узнаёт Шринивасу и ведёт его в дом Нитьянанды; Васудха, Джахнава и Вирабхадра в горе разлуки радуются ему; четыре-пять дней его не отпускают, милость являют Сурьядас, Гауридас, Махеша Пандит; Васудха и Джахнава велят идти к Абхираме, а затем во Вриндаван; по воле Нитьянанды Шриниваса видит многие тайны."
+  persons: ["@srinivasa-acharya", "@parameshvara-dasa", "@vasudha", "@jahnava", "@virabhadra", "@suryadasa-pandita", "@gauridasa-pandita", "@mahesha-pandita", "@nityananda"]
+  places: ["#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 5 (pvl-0027); «Анурага-валли» 3 (anv-0017)"
+  divergence: "В «Према-виласе» Шринивасу встречает Вирачандра, задрожавший при его приближении, Джахнава посылает Абхираме письмо — трижды ударить его плетью; Васудха и Парамешвари Дас там не упомянуты."
+  themes: [mercy, separation]
+  event: ev-srinivasa-khardaha-jahnava
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "81", to: "96"}
+
+- id: brt-0087
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 97–112"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 63.1
+  title: "Старый брахман из Кханакула рассказывает Шринивасе об Абхираме — Шридаме"
+  summary: "По дороге к Абхираме к Шринивасе присоединяется старый брахман из Кханакула, слышавший о нём в Кхардахе; он рассказывает: Абхирама грозен для безбожников, погружён в Нитьянанду, сведущ в шастрах, пляске и музыке, по воле Нитьянанды женат на Малини; в играх Кришны он — Шридама и явил этот облик слуге (шлока его ученика Ведагарбхи)."
+  persons: ["@srinivasa-acharya", "@abhirama", "@malini-abhirama", "@nityananda"]
+  places: ["#khanakul"]
+  kind: post-advent
+  authority: B
+  parallels: "ГГД (Абхирама — Шридама); «Анурага-валли» 3"
+  notes: "Рассказ встречного брахмана; Ведагарбха Ачарья — ученик Абхирамы, тегом не отмечен."
+  themes: [revelation]
+  event: ev-abhirama-whip-srinivasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "97", to: "112"}
+
+- id: brt-0088
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 113–119"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P12
+  order: 112.6
+  title: "Гопинатха является Абхираме и обретён у Рама-кунды"
+  summary: "Абхирама возжаждал служить Божеству; Гопинатха как бы во сне указывает ему место, и Абхирама, раскопав его, обретает Божество; вода пруда, где явился Гопинатха, прославилась как Рама-кунда; Абхирама и Малини со своими людьми служат Гопинатхе (рассказ брахмана)."
+  persons: ["@abhirama", "@malini-abhirama", "@gopinatha-khanakul"]
+  places: ["#khanakul"]
+  kind: miracle
+  authority: B
+  parallels: "«Анурага-валли» 3 (anv-0018: Гопинатха явился при рытье Рама-кунды)"
+  themes: [deities, revelation]
+  event: ev-abhirama-gopinatha-khanakul
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "113", to: "119"}
+
+- id: brt-0089
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 120–126"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P12
+  order: 112.7
+  title: "Абхирама берёт бревно как флейту; его безмолвие после ухода Нитьянанды"
+  summary: "Нитьянанда со спутниками иногда приходил к Абхираме; однажды в пляске, в погружении в сакхья-расу, Абхирама не нашёл флейты и взял как флейту бревно, которое не сдвинули бы и сто человек; теперь, после сокрытия Нитьянанды, он тяжко вздыхает и ни с кем не говорит — брахман предостерегает Шринивасу быть осторожным."
+  persons: ["@abhirama", "@nityananda"]
+  places: ["#khanakul"]
+  kind: miracle
+  authority: B
+  parallels: "ГГД 126; ванданы Дживы и Девакинанданы (бревно-флейта Абхирамы)"
+  themes: [ecstasy, separation]
+  bhava: [sakha]
+  event: ev-associates-of-nityananda-wonders
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "120", to: "126"}
+
+- id: brt-0090
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 127–148"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 63.2
+  title: "Абхирама испытывает Шринивасу и касается его плетью Джаямангалой"
+  summary: "Абхирама, погружённый в разлуку, решает испытать Шринивасу: даёт ему десять кард каури; Шриниваса готовит пищу на берегу Дарукешвары, предлагает Кришне и кормит четверых посланных Абхирамой; довольный, Абхирама трижды касается его плетью Джаямангалой, а когда хочет коснуться снова, Малини удерживает его руку: юноша обезумеет от премы и не исполнит своего дела; оба благословляют его и вверяют Радхе-Гопинатхе, посылая во Вриндаван."
+  persons: ["@abhirama", "@srinivasa-acharya", "@malini-abhirama", "@gopinatha-khanakul", "@krishna"]
+  places: ["#khanakul"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 5 (pvl-0028); «Анурага-валли» 3 (anv-0018)"
+  notes: "Автор подчёркивает: испытание — чтобы научить других."
+  divergence: "Сумма и число гостей: ПВ — восемь кара каури и двое вайшнавов, «Анурага-валли» — пять ганд и четверо, здесь — десять кард и четверо. В ПВ удары плетью велит Джахнава в письме; здесь Абхирама действует сам."
+  themes: [mercy, ecstasy]
+  event: ev-abhirama-whip-srinivasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "127", to: "148"}
+
+- id: brt-0091
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 149–155"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 64.1
+  title: "Прощание с Нарахари и Рагхунанданой в Шрикханде"
+  summary: "Шриниваса возвращается в Шрикханду; Нарахари и Рагхунандана расспрашивают его и позволяют идти во Вриндаван; Нарахари, не в силах отпустить его, рассказывает ему о дороге, и в благоприятный час Шриниваса отправляется в путь."
+  persons: ["@srinivasa-acharya", "@narahari-sarakara", "@raghunandana"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 5 (pvl-0029)"
+  themes: [separation, pilgrimage]
+  event: ev-srinivasa-journey-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "149", to: "155"}
+
+- id: brt-0092
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 156–161"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 64.2
+  title: "Прощание с матерью в Яджиграме; выход во второй светлый день аграхаяны"
+  summary: "В Яджиграме Шриниваса просит у матери позволения идти во Вриндаван; встревоженная, она не может запретить, пять-семь дней держит сына при себе; утешив её и простившись с селением, он выходит на второй день светлой половины аграхаяны."
+  persons: ["@srinivasa-acharya", "@lakshmipriya-chakhandi"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 5 (pvl-0029)"
+  calendar: "аграхаяна, светлая половина, 2-й лунный день (выход из дома)"
+  themes: [family, separation, pilgrimage]
+  event: ev-srinivasa-journey-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "156", to: "161"}
+
+- id: brt-0093
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 162–166"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 64.3
+  title: "Аградвипа, Катва, Маудешвар: место санньясы Господа и место Кундали-дамана"
+  summary: "Прощаясь с преданными в Аградвипе и других селениях, Шриниваса приходит в Кантака-нагар и плачет там, где Господь принял санньясу; в Маудешваре радуется даршану Шивы, слышит, как Господь избавил людей от страха перед змеями, и у места Кундали-дамана взывает к Нитьянанде."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@shiva"]
+  places: ["#agradvipa", "#katwa", "#maudeshvara"]
+  kind: post-advent
+  authority: B
+  notes: "Кундали-дамана — усмирение змея Нитьянандой (ср. событие ev-nityananda-kundalitala, «Кундалитала» в Экачакре); здесь лишь упоминание. «Господь» в 4.165, по-видимому, — Нитьянанда."
+  themes: [pilgrimage, separation]
+  event: ev-srinivasa-journey-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "162", to: "166"}
+
+- id: brt-0094
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 167–175"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 64.4
+  title: "Шриниваса в Экачакре: видение игр Нитьянанды со спутниками"
+  summary: "В Экачакре, в доме Хадаи Оджхи, Шриниваса ощущает Шветадвипу, видит места, где Нитьянанда играл игры Рамы, катается в пыли, воспевая Его; по воле Господа засыпает и как бы во сне видит великое празднество Нитьянанды со спутниками; проснувшись, слышит повеление идти во Вриндаван."
+  persons: ["@srinivasa-acharya", "@nityananda", "@hadai-pandita"]
+  places: ["#ekachakra"]
+  kind: vision
+  authority: B
+  themes: [pilgrimage, revelation, separation]
+  bhava: [balarama]
+  event: ev-srinivasa-ekachakra-vision
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "167", to: "175"}
+
+- id: brt-0095
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 176–188"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 64.5
+  title: "Гая, Каши (ученик Чандрашекхары), Айодхья, Праяга"
+  summary: "Жители селений бегут увидеть Шринивасу и стараются накормить его; в Гае он видит стопы Вишну и плачет, вспоминая встречу Господа с Ишварой Пури; в Каши ученик Чандрашекхары обнимает его, показывает, где останавливался Господь, и знакомит с последователями Господа; затем Айодхья и Праяга — и путь во Врадж."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@ishvara-puri", "@chandrashekhara-vaidya"]
+  places: ["#gaya", "#kashi", "#ayodhya", "#prayaga"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 5 (pvl-0031: Варанаси, дом Чандрашекхары, старый вайшнав — его ученик)"
+  divergence: "В «Према-виласе» путь лежит через Раджмахал и Патну, о Гае, Экачакре и Айодхье не сказано."
+  themes: [pilgrimage, separation]
+  event: ev-srinivasa-journey-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "176", to: "188"}
+
+- id: brt-0096
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 189–216"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 64.6
+  title: "У Вишрама-гхата Шриниваса слышит о сокрытии Кашишвары, Рагхунатхи Бхатты, Санатаны и Рупы"
+  summary: "В Матхуре, у Вишрама-гхата, Шриниваса слышит разговор брахманов: после сокрытия Господа в Нилачале скрылись Кашишвара и Рагхунатха Бхатта, несколько дней назад — Санатана, а теперь и Рупа; Гопала Бхатта, Рагхунатха и другие горят в разлуке; Шриниваса падает без чувств, раздирает грудь, хочет оставить тело; брахман из Матхуры удерживает его; он поворачивает назад, коря себя, что не поспешил, как велели владыки в Гауде и Кшетре."
+  persons: ["@srinivasa-acharya", "@kashishvara", "@raghunatha-bhatta", "@sanatana-gosvami", "@rupa-gosvami", "@gopala-bhatta", "@raghunatha-dasa", "@mahaprabhu"]
+  places: ["#mathura", "#vishrama-ghata"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 5 (pvl-0032); «Анурага-валли» 3 (anv-0019); «Карнананда» 6 (krn-0029)"
+  notes: "Сокрытие Кашишвары — только в этом перечне; «Анурага-валли» (4) тоже говорит, что Шриниваса пришёл после ухода Кашишвары."
+  divergence: "В «Према-виласе» и «Анурага-валли» уходят трое — Санатана, Рагхунатха Бхатта и Рупа; здесь к ним прибавлен Кашишвара."
+  themes: [departure, separation]
+  event: ev-rupa-sanatana-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "189", to: "216"}
+
+- id: brt-0097
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 217–232"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 66.1
+  title: "Рупа и Санатана являются Шринивасе под деревом: «прими мантру у Гопалы Бхатты и неси наши книги в Гауду»"
+  summary: "Ночью под деревом у дороги Шриниваса рыдает, и по воле Господа его одолевает сон; как бы во сне являются Санатана, Рупа и другие Госвами во всей красоте, возлагают стопы ему на голову, утешают: не время скорбеть — Гопала Бхатта неотличен от них, принять у него мантру, взять их книги и распространить в Гауде (шлока «Нава-падьи»); утром Шриниваса поворачивает к Вриндавану."
+  persons: ["@srinivasa-acharya", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@nrisimha-kaviraja"]
+  places: ["#mathura"]
+  kind: vision
+  authority: B
+  parallels: "«Према-виласа» 6 (pvl-0033); «Анурага-валли» 3 (anv-0020); «Карнананда» 6 (krn-0029); «Нава-падья» Нрисимхи Кавираджи"
+  divergence: "В «Анурага-валли» является один Рупа; в «Према-виласе» Рупа и Санатана являются воочию и велят ещё учиться у Дживы."
+  themes: [revelation, separation, mercy]
+  event: ev-srinivasa-vision-rupa-sanatana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "217", to: "232"}
+
+- id: brt-0098
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 232a–253"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 66.2
+  title: "Рупа и Санатана во сне возвещают Дживе и Гопале Бхатте приход Шринивасы"
+  summary: "В ту же ночь, на двадцатый день вайшакхи, Рупа и Санатана как бы во сне велят Дживе найти Шринивасу вечером при арати Говинды (золотистый, исхудалый, в слезах), чтобы он принял посвящение у Гопалы Бхатты, изучил их книги и с ними ушёл в Гауду: через него Гаура совершит много дел; затем просят Гопалу Бхатту сделать его учеником; наутро Джива приходит к плачущему Бхатте, они рассказывают друг другу сны; Бхатта готовит празднество восшествия Радха-раманы на трон."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@gopala-bhatta", "@srinivasa-acharya", "@govinda-deity", "@radha-ramana-deity"]
+  places: ["#vrindavana"]
+  kind: vision
+  authority: B
+  parallels: "«Према-виласа» 6 (pvl-0033); «Анурага-валли» 3 (anv-0021)"
+  notes: "Двустишие 232a — только в изд. 1888 и 1912/13 гг."
+  divergence: "В «Анурага-валли» Дживе и Гопале Бхатте во сне является один Рупа; здесь — Рупа и Санатана. Дата сходится: 20-й день (солнечного) месяца вайшакха здесь же назван ночью полнолуния (4.279), как и вайшакха-пурнима в «Анурага-валли»."
+  calendar: "вайшакха, 20-й день"
+  themes: [revelation, mercy]
+  event: ev-srinivasa-arrives-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "232a", to: "253"}
+
+- id: brt-0099
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 254–278"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 67.1
+  title: "Шриниваса вступает во Вриндаван; Джива находит его при вечернем арати Говинды; Кришна Пандит"
+  summary: "Джива всем объявляет о приходе Шринивасы и ждёт его; Шриниваса созерцает красоту Вриндавана — пчёл, павлинов, кукушек, оленей, — приходит на вечерний даршан Говинды и в экстазе лежит в стороне; Джива узнаёт его по преображениям бхавы, поднимает и обнимает, называя другом; Кришна Пандит, служитель Говинды, кормит его маха-прасадом, дарит бетель и гирлянду; Джива ведёт его к себе — Радха-Дамодара уже уложен на покой."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@govinda-deity", "@krishna-pandita-govinda", "@radha-damodara-deity"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 6 (pvl-0034); «Анурага-валли» 3–4 (anv-0021, anv-0028)"
+  themes: [ecstasy, deities, prasada]
+  event: ev-srinivasa-arrives-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "254", to: "278"}
+
+- id: brt-0100
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 279–285"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 67.2
+  title: "Ночь вайшакха-пурнимы; утром Джива даёт Шринивасе даршан Радха-Дамодары"
+  summary: "Шриниваса не спит всю ночь полнолуния вайшакхи, созерцая цветущие деревья и лианы; утром кланяется Дживе, и тот, обходясь с ним как с другом, даёт ему даршан Радха-Дамодары — сокровища жизни Дживы."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@radha-damodara-deity"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  calendar: "вайшакха, пурнима"
+  themes: [deities, ecstasy]
+  event: ev-srinivasa-arrives-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "279", to: "285"}
+
+- id: brt-0101
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 286–298"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 13.1
+  title: "Явление Радха-Дамодары: Рупа по повелению во сне являет Божество для Дживы; игры Радха-Дамодары с Дживой"
+  summary: "По повелению во сне Рупа своими руками являет Радха-Дамодару и отдаёт Дживе (шлоки «Садхана-дипики»); Радха-Дамодара — единственная жизнь Дживы: Господь просит у него еды, и Джива видит, как Он вкушает; однажды, улыбаясь, Он играет на флейте и говорит: «Посмотри на Меня!» — Джива, увидев облик кишоры, лишается чувств; Джива вверяет Шринивасу стопам Радха-Дамодары."
+  persons: ["@rupa-gosvami", "@jiva-gosvami", "@radha-damodara-deity", "@srinivasa-acharya", "@radha-krishna-gosvami"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  parallels: "«Садхана-дипика» Радха-Кришны Госвами"
+  notes: "Отступление автора о Божестве; в 4.298 — возврат к рассказу о Шринивасе."
+  themes: [deities, revelation]
+  bhava: [krishna]
+  event: ev-radha-damodara-rupa-jiva
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "286", to: "298"}
+
+- id: brt-0102
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 299–311"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 67.3
+  title: "У самадхи Рупы; Джива приводит Шринивасу к Гопале Бхатте"
+  summary: "Джива ведёт Шринивасу к самадхи Рупы, где тот падает в слезах, затем к Гопале Бхатте, плачущему в уединении; Бхатта, горящий в разлуке, радуется, возлагает стопы ему на голову, расспрашивает о пути, сам рассказывает о повелении Рупы и Санатаны во сне; по просьбе Дживы он соглашается дать посвящение на второй лунный день."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@gopala-bhatta", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 6 (pvl-0034); «Анурага-валли» 3 (anv-0021)"
+  calendar: "посвящение назначено на 2-й лунный день (после вайшакха-пурнимы)"
+  themes: [separation, mercy]
+  event: ev-srinivasa-arrives-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "299", to: "311"}
+
+- id: brt-0103
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 312–340"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 16.6
+  title: "Явление Радха-раманы из шалаграма Гопалы Бхатты (отступление автора)"
+  summary: "Джива показывает Шринивасе Радха-раману, и автор рассказывает о Его явлении: Гауранга велел Гопале Бхатте увидеть Хари в шалаграме; Рупа говорит, что Говинда желает отдельного служения от Бхатты; через несколько дней Господь Сам является из шалаграма на виду у людей — лик как у Говинды, грудь как у Гопинатхи, стопы как у Мадана-мохана; в вайшакха-пурниму — восшествие на трон, абхишека, празднество, храм; шлоки «Садхана-дипики» и «Мадана-рага-валли» Манохары Рая; Гопала Бхатта — Ананга- или Гуна-манджари (ГГД 184)."
+  persons: ["@gopala-bhatta", "@radha-ramana-deity", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@bhugarbha", "@govinda-deity", "@gopinatha-vrindavana", "@madana-mohana-vrindavana", "@radha-krishna-gosvami", "@ananga-manjari", "@jiva-gosvami", "@srinivasa-acharya"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  parallels: "«Анурага-валли» 1 (anv-0007); БР 1.199–208 (brt-0008)"
+  scriptures: ["ГГД 184"]
+  calendar: "вайшакха, пурнима (восшествие на трон)"
+  notes: "Манохара Рай — ученик из ветви Шринивасы; возможно, тот же, что автор «Анурага-валли» (тегом не отмечен)."
+  divergence: "В БР 1 служение Радха-рамане поручает Рупа по сну от Говинды; здесь Господь является Сам из шалаграма по обещанию Гауранги. В «Анурага-валли» Божество являет своей рукой Рупа."
+  themes: [deities, revelation, festival]
+  event: ev-radha-ramana-appearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "312", to: "340"}
+
+- id: brt-0104
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 341–350"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 16.7
+  title: "Радха-рамана являет Гопале Бхатте облик Гаурасундары"
+  summary: "Украшая Радха-раману цветами, Гопала Бхатта вспоминает, как по велению отца служил Гаурачандре в своём доме, и в слезах смотрит на Божество; покорённый его любовью, Радха-рамана тотчас принимает облик Гаурасундары; Бхатта падает на землю и воспевает Радха-раману — Горачанда; Радха-рамана исполняет всякое желание Бхатты."
+  persons: ["@gopala-bhatta", "@radha-ramana-deity", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  themes: [deities, revelation, separation]
+  bhava: [krishna]
+  teaching: [gaura-tattva]
+  event: ev-radha-ramana-shows-gaura
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "341", to: "350"}
+
+- id: brt-0105
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 351–374"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 67.4
+  title: "Шриниваса у Радха-раманы, Локанатхи и Бхугарбхи (Радха-винод), Гопинатхи и Мадана-мохана; самадхи Санатаны"
+  summary: "Шриниваса предаёт себя Радха-рамане; Джива ведёт его к Локанатхе и Бхугарбхе, которые обнимают его и вверяют Радха-виноду; затем к Гопинатхе, где его принимают Парамананда и Мадху Пандит, и к Мадана-мохану, где Кришнадас Брахмачари и другие обнимают его; у самадхи Санатаны он катается по земле, и все плачут с ним."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@radha-ramana-deity", "@lokanatha", "@bhugarbha", "@radha-vinoda-deity", "@gopinatha-vrindavana", "@paramananda-bhattacharya", "@madhu-pandita", "@madana-mohana-vrindavana", "@krishnadasa-brahmachari", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 4 (anv-0030: Шриниваса у Локанатхи)"
+  themes: [deities, separation, ecstasy]
+  event: ev-srinivasa-arrives-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "351", to: "374"}
+
+- id: brt-0106
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 375–389"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 68.1
+  title: "Посвящение Шринивасы у Гопалы Бхатты перед Радха-раманой"
+  summary: "Джива объявляет, что наутро Гопала Бхатта сделает Шринивасу учеником; перед Радха-раманой Бхатта посвящает его, объясняет порядок садханы, вверяет Радха-рамане и Гаурачандре, благословляет на всё совершенство и вверяет Дживе; Джива и Шриниваса кланяются друг другу и обнимаются в слезах; все приходят на даршан Радха-раманы, празднество."
+  persons: ["@srinivasa-acharya", "@gopala-bhatta", "@jiva-gosvami", "@radha-ramana-deity", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 6 (pvl-0035); «Анурага-валли» 3 (anv-0022); «Карнананда» 6 (krn-0030)"
+  calendar: "2-й лунный день после вайшакха-пурнимы"
+  divergence: "«Према-виласа» и «Анурага-валли» называют мантры и сиддха-имя Шринивасы (Мани-манджари); «Карнананда» — посвящение на сиденье, присланном Махапрабху; здесь об этом не сказано."
+  themes: [teaching, deities, festival]
+  teaching: [vaishnava]
+  event: ev-srinivasa-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "375", to: "389"}
+
+- id: brt-0107
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 390–393"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 68.2
+  title: "Шриниваса у Рагхунатхи Даса на Радха-кунде: Рагхава, Кришнадас Кавираджа"
+  summary: "Наутро после посвящения Джива посылает Шринивасу к Рагхунатхе Дасу на Радха-кунду; тот, Рагхава Госвами, Кришнадас Кавираджа и другие являют ему милость; три дня он проводит у Радха-кунды и Говардханы и с общего позволения возвращается во Вриндаван."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@raghunatha-dasa", "@raghava-gosvami-govardhana", "@krishnadasa-kaviraja"]
+  places: ["#radha-kunda", "#govardhana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 5 (Радха-кунда с Рагхунатхой Дасом)"
+  notes: "Краткий визит сразу после посвящения; подробный обход Враджа с Рагхавой — в БР 5."
+  themes: [pilgrimage, mercy]
+  event: ev-srinivasa-vraja-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "390", to: "393"}
+
+- id: brt-0108
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 394–395"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 78.1
+  title: "Шриниваса начинает учение у Дживы"
+  summary: "С позволения всех Шриниваса в благой день начинает учение; «Бхагавата» и книги Госвами без труда раскрываются ему, и все радуются."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 12 (pvl-0073); «Анурага-валли» 4 (anv-0025)"
+  themes: [learning]
+  teaching: [scripture]
+  event: ev-srinivasa-narottama-shyamananda-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "394", to: "395"}
+
+- id: brt-0109
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 396–404"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 79.1
+  title: "Шлока о ростке кадамбы из «Уджвала-ниламани»; Джива даёт Шринивасе звание «Ачарья»"
+  summary: "Читая в «Уджвала-ниламани» шлоку об уддипана-вибхаве — кадамба, посаженная Кришной у ворот Враджа, расцвела и мучит гопи в разлуке, — Джива не постигает её сокровенного смысла и спрашивает Шринивасу; Рупа открывает смысл Шринивасе, тот объясняет, все изумлены; с общего позволения Джива даёт ему звание «Шри Ачарья», смущённого утешает; по велению Дживы Ачарья обучает вайшнавов Враджа."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@rupa-gosvami", "@krishna"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 4–5 (anv-0026, anv-0034); «Према-виласа» 12 (pvl-0074)"
+  scriptures: ["Уджвала-ниламани, уддипана-вибхава"]
+  divergence: "В «Према-виласе» загадка — увядшие лианы при чтении «Лалита-мадхавы»; в «Анурага-валли» — та же шлока о кадамбе, но звание дано позже, торжественно после арати Говинды. Здесь смысл открывает Шринивасе Рупа."
+  themes: [learning, krishna-lila]
+  bhava: [gopi]
+  event: ev-srinivasa-acharya-title
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "396", to: "404"}
+
+- id: brt-0110
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 405–418"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 78.2
+  title: "Рупа во сне возвещает Шринивасе встречу с Нароттамой; их встреча"
+  summary: "Шриниваса тоскует по Нароттаме, о котором только слышал; Рупа во сне говорит: «Завтра ты встретишься с ним»; на следующий день они встречаются, плачут, в обоих пробуждается према; Шриниваса не может выпустить его из объятий и успокаивается, вспомнив пророчество Ситы; Нароттама смиренно кланяется ему; их любовь становится известна всем."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@rupa-gosvami", "@sita-thakurani"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 2 (nvl-0015); «Према-виласа» 12 (pvl-0073); «Анурага-валли» 4 (anv-0030)"
+  divergence: "В «Нароттама-виласе» Рупа во сне возвещает встречу и Шринивасе, и Дживе, встреча — у Говинды; в «Према-виласе» — в 5-й светлый день шраваны у Локанатхи, когда Нароттама уже посвящён; здесь посвящение Нароттамы следует за встречей (ср. БР 1.293: в пурниму шраваны)."
+  themes: [revelation, ecstasy]
+  event: ev-srinivasa-narottama-shyamananda-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "405", to: "418"}
+
+- id: brt-0111
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 419–423"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 75.1
+  title: "Посвящение Нароттамы у Локанатхи; учение у Дживы"
+  summary: "Нароттама предаёт себя Локанатхе, и тот, видя его усердие, с радостью даёт ему мантру; Гопала Бхатта и другие являют ему милость; Джива начинает учить его, и за немногие дни он постигает множество шастр, раскрывая смысл, недоступный другим."
+  persons: ["@narottama-dasa", "@lokanatha", "@gopala-bhatta", "@jiva-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 2 (nvl-0018); «Према-виласа» 11 (pvl-0064, pvl-0065); «Анурага-валли» 4 (anv-0031)"
+  divergence: "В «Према-виласе» и «Анурага-валли» Локанатха не принимал учеников и посвятил Нароттаму лишь после года тайного служения; здесь — кратко, «видя усердие»."
+  themes: [teaching, mercy, learning]
+  event: ev-narottama-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "419", to: "423"}
+
+- id: brt-0112
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 424–427"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: P15
+  order: 77.1
+  title: "Джива нарекает Нароттаму «Шри Махашая»; Шриниваса и Нароттама — две руки Дживы"
+  summary: "С общего позволения Джива даёт Нароттаме имя «Шри Махашая»; во Вриндаване радость; Шриниваса и Нароттама — предмет любви Дживы, словно две его руки; вместе с ними он вкушает бхакти-расу, погружённый в достоинства Рупы и Санатаны."
+  persons: ["@jiva-gosvami", "@narottama-dasa", "@srinivasa-acharya", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 2 (nvl-0019); «Према-виласа» 12 (pvl-0072)"
+  divergence: "В «Према-виласе» имя дано после рассказа об обожжённой руке и сиддха-имени Нароттамы; здесь — за успехи в учении."
+  themes: [mercy, learning]
+  event: ev-narottama-thakura-mahashaya
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "424", to: "427"}
+
+- id: brt-0113
+  source: bhakti-ratnakara
+  ref: "Таранга 4, 428–429"
+  file: "bhakti-ratnakara/ru/04.md"
+  period: PX
+  order: 31.4
+  title: "Подпись автора и колофон четвёртой таранги"
+  summary: "Слушающему с радостью Вишвамбхара дарует бхакти; Нарахари Дас, размышляя о стопах Шринивасы Ачарьи, рассказывает «Бхакти-ратнакару»; колофон."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/04.md", from: "428", to: "429"}

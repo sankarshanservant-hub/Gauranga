@@ -1,0 +1,48 @@
+# События, заведённые по «Бхакти-ратнакаре», тараги 8–9 (параллельная работа; формат — README.md, как events.yaml).
+# Новые события добавлять в конец.
+
+- id: ev-shyamananda-puri-associates-disappear
+  title: "Шьямананда в Пури застаёт сокрытие спутников Господа"
+  title_en: "Shyamananda in Puri witnesses the passing of the Lord's associates"
+  period: P15
+  order: 89.1
+  date_conf: оценка
+  themes: [departure, separation]
+  notes: "«Бхакти-ратнакара» 9.40–48: брахманы из Кшетры рассказывают Шринивасе, что спутники в Нилачале почти все скрылись, Шьямананда застал некоторых и, томимый разлукой, ушёл во Вриндаван. Ср. «Нароттама-виласа» 5 (nvl-0033): весть о том же в Яджиграме."
+
+- id: ev-vira-hambira-gosvamis-letter
+  title: "Письма Госвами из Вриндавана царю Вире Хамбиру и Шринивасе"
+  title_en: "Letters from the Gosvamis of Vrindavana to King Vira Hambira and Srinivasa"
+  period: P15
+  order: 90.6
+  date_conf: оценка
+  themes: [mercy]
+  notes: "«Бхакти-ратнакара» 9.5–34: раскаявшийся царь, похитивший книги, получает милостивое письмо Шри Дживы и пересылает письмо Госвами Шринивасе в Яджиграм."
+
+- id: ev-govinda-kaviraja-settles-budhari
+  title: "Говинда Кавираджа переселяется из Кумара-нагара в Телию Будхари"
+  title_en: "Govinda Kaviraja moves from Kumaranagara to Teliya Budhari"
+  period: P15
+  order: 96.6
+  date_conf: оценка
+  themes: [family]
+  notes: "«Бхакти-ратнакара» 9.121–136, 175–177: по совету Рамачандры, уходящего во Вриндаван, из-за бед с земельным владением; селение между Гангой и Падмой, где прежде бывал их дед Дамодара; жилище в Пашчимпаре."
+
+- id: ev-harinarayana-rama-mantra
+  title: "Харинараяна, царь Шикхара-бхуми, получает мантру Рамы от сына Трималлы Бхатты по устроению Шринивасы"
+  title_en: "Harinarayana, king of Shikharabhumi, receives the Rama mantra from Trimalla Bhatta's son, arranged by Srinivasa"
+  period: P15
+  order: 97
+  date_conf: оценка
+  themes: [mercy]
+  notes: "«Бхакти-ратнакара» 9.302–310: Шриниваса письмом вызывает из Ранга-кшетры сына Трималлы Бхатты; посвящение в Панчакуте; затем царь вверен Шринивасе. Ср. БР 1 (brt-0024): песня Говинды Кавираджи о Раме для Харинараяны."
+
+- id: ev-narahari-appears-raghunandana
+  title: "На поминальном празднике в Шрикханде Нарахари Саркар является Рагхунандане и принимает прасад"
+  title_en: "At the memorial festival in Shrikhanda Narahari Sarkara appears to Raghunandana and accepts prasada"
+  period: P15
+  order: 88.37
+  date_conf: оценка
+  calendar: "аграхаяна, двадаши тёмной половины"
+  themes: [revelation, prasada, departure]
+  notes: "«Бхакти-ратнакара» 9.689–699: Рагхунандана в медитации подносит прасад на сиденье Нарахари, открыв дверь, видит его в божественном облике; тот скрывается."

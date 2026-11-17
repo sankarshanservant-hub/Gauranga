@@ -1,11 +1,11 @@
 # Мадхава Паттанаяк, «Вайшнава-лиламрита» (ория, ≈1535) — лилы в порядке изложения (формат — ../README.md).
-# Пилот перевода с ория: переведены только гл. 4, ст. 28–81 (oriya-pilot/vaishnava-lilamrita/ru.md, метки **4.N.**).
+# Полный перевод (2026-11-16): vaishnava-lilamrita/ru/01–09.md, метки **C.N.**; пилот гл. 4, ст. 28–81 вошёл в главу 4.
 # Источник предложен уровня C (см. строку в SOURCES.md). Записи добавлять в конец.
 
 - id: vlm-0001
   source: vaishnava-lilamrita
   ref: "Гл. 4, 28–35"
-  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  file: "vaishnava-lilamrita/ru/04.md"
   period: P10
   order: 5
   title: "Юный санньяси Кришна Чайтанья в Пури: обморок перед Джаганнатхой, дом Сарвабхаумы"
@@ -22,12 +22,12 @@
   divergence: "Пребывание в Пури до ухода на юг — «месяц» (по ЧЧ Мадхья 7 — от пхалгуны до вайшакхи)."
   event: ev-sarvabhauma-meeting
   verses:
-    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.28", to: "4.35"}
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.28", to: "4.35"}
 
 - id: vlm-0002
   source: vaishnava-lilamrita
   ref: "Гл. 4, 36–50"
-  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  file: "vaishnava-lilamrita/ru/04.md"
   period: P10
   order: 12
   title: "Чайтанья и Джаганнатха Дас у Бата-Ганеши"
@@ -42,12 +42,12 @@
   divergence: "Известно только орийским источникам."
   event: ev-jagannatha-dasa-bhagavata-meeting
   verses:
-    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.36", to: "4.50"}
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.36", to: "4.50"}
 
 - id: vlm-0003
   source: vaishnava-lilamrita
   ref: "Гл. 4, 51–58"
-  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  file: "vaishnava-lilamrita/ru/04.md"
   period: P10
   order: 20
   title: "Споры с Сарвабхаумой; саттвика-бхавы Господа и прозрение Сарвабхаумы"
@@ -63,12 +63,12 @@
   divergence: "Прозрение Сарвабхаумы вызвано зрелищем саттвика-бхав, а не явлением шестирукого облика (ЧЧ)."
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.51", to: "4.58"}
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.51", to: "4.58"}
 
 - id: vlm-0004
   source: vaishnava-lilamrita
   ref: "Гл. 4, 59–81"
-  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  file: "vaishnava-lilamrita/ru/04.md"
   period: P11
   order: 30
   title: "Совет Сарвабхаумы и встреча с Раманандой Раем на Годавари"
@@ -83,4 +83,1301 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.59", to: "4.81"}
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.59", to: "4.81"}
+
+# --- Полный перевод (vaishnava-lilamrita/ru/CC.md, метки **C.N.**), с 2026-11-16 ---
+
+- id: vlm-0101
+  source: vaishnava-lilamrita
+  ref: "Гл. 1, 1–29"
+  file: "vaishnava-lilamrita/ru/01.md"
+  period: PX
+  order: 1
+  title: "Мангалачарана: слава Джаганнатхи и Нилачалы"
+  summary: "Автор воспевает Джаганнатху — сач-чид-ананду, в чьём имени все цели жизни и в чьём теле — лила Радхи и Кришны; Нилачала — вечная обитель, Голока на земле."
+  persons: ["@jagannatha-deity", "@madhava-pattanayaka"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Орийские образы (имя, сокрытое в теле Джаганнатхи; Шунья; лила Радха-Кришны в теле Джаганнатхи) пояснены в сносках перевода с позиции гаудия-вайшнавов."
+  themes: [author, jagannatha]
+  teaching: [holy-name]
+  verses:
+    - {file: "vaishnava-lilamrita/ru/01.md", from: "1.1", to: "1.29"}
+
+- id: vlm-0102
+  source: vaishnava-lilamrita
+  ref: "Гл. 1, 30–53"
+  file: "vaishnava-lilamrita/ru/01.md"
+  period: PX
+  order: 2
+  title: "Слава вайшнавов Нилачалы"
+  summary: "Вайшнавы Нилачалы, сделав имя Кришны плотом, собирались вместе, утверждали преданных в имени и, созерцая Джаганнатху — Владыку Радхи, — явили великую лилу в махабхаве; автор обещает немного рассказать об их деяниях."
+  persons: ["@madhava-pattanayaka"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author, kirtan]
+  teaching: [holy-name, vaishnava]
+  verses:
+    - {file: "vaishnava-lilamrita/ru/01.md", from: "1.30", to: "1.53"}
+
+- id: vlm-0103
+  source: vaishnava-lilamrita
+  ref: "Гл. 1, 54–68"
+  file: "vaishnava-lilamrita/ru/01.md"
+  period: PX
+  order: 3
+  title: "Мадхава Паттанаяк о себе: род, гуру Гададхара Пандит, покровитель Рамананда Рай"
+  summary: "Автор — сын Бхагавана и Хирадеи, из рода каранов, со званием Паттанаяк, родом из Кхандапады, поселился в Пури; гуру — Гададхара Пандит, давший ему Гопала-мантру; опишет слышанное о преданных и виденное своими глазами; Рамананда Рай — его кормилец."
+  persons: ["@madhava-pattanayaka", "@gadadhara-pandita", "@ramananda-raya"]
+  places: ["#khandapada", "#puri"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Автор называет себя очевидцем (1.66). Ученичество у Гададхары Пандита соответствует перечню его учеников (ЧЧ Ади 12) лишь косвенно — имени Мадхавы Паттанаяка там нет."
+  themes: [author]
+  verses:
+    - {file: "vaishnava-lilamrita/ru/01.md", from: "1.54", to: "1.68"}
+
+- id: vlm-0104
+  source: vaishnava-lilamrita
+  ref: "Гл. 1, 69–82"
+  file: "vaishnava-lilamrita/ru/01.md"
+  period: PX
+  order: 4
+  title: "О сочинении: «Чайтанья-вилас» и «Вайшнава-лиламрита»; почитаемые вайшнавы"
+  summary: "Автор сообщает, что в 14-й анк царя сочинил «Чайтанья-вилас» о санньясе Господа, а ныне, в 48-й анк, пишет о лилах вайшнавов; почитает стопы гуру Чайтаньи и Джаганнатхи, Рамананду Рая, Сварупу Дамодару, Панчасакху, Дживадеву и Рудрадеву."
+  persons: ["@madhava-pattanayaka", "@mahaprabhu", "@jagannatha-dasa-odia", "@ramananda-raya", "@svarupa-damodara", "@balarama-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@jivadeva", "@prataparudra"]
+  places: ["#puri"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Анки Пратапарудры: 14-й ≈ 1516/17 г., 48-й ≈ 1535 г. (по принятому пересчёту; сноска перевода). «Джаганнатха» в 1.74 — по-видимому, Джаганнатха Дас; «Рудрадева» в 1.77 — вероятно, Пратапарудра (отождествления под вопросом). Для гаудия-вайшнавов Шри Чайтанья — не только гуру, но Сам Господь (сноска)."
+  themes: [author]
+  date: "48-й анк Пратапарудры (≈1535)"
+  verses:
+    - {file: "vaishnava-lilamrita/ru/01.md", from: "1.69", to: "1.82"}
+
+- id: vlm-0105
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 1–30"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P10
+  order: 11
+  title: "Рахаса в Нилачале: нама-санкиртана и раса-лила у Бата-Ганеши"
+  summary: "Свами (Джаганнатха Дас) учредил собрание «рахаса» — нама-санкиртану с представлением расы Радхи и Кришны под джханджу, мридангу и караталы, с песнями «Гита-говинды» и «Карнамриты»; мандапу у Бата-Ганеши построил Канхаи; там поют Панчасакха и Гопала Гуру, читают пураны, а Свами слагает «Бхагавату»."
+  persons: ["@jagannatha-dasa-odia", "@kanhai-odia", "@balarama-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@radha", "@krishna", "@jagannatha-deity"]
+  places: ["#puri", "#bata-ganesha"]
+  kind: lila
+  authority: C
+  parallels: "«Вайшнава-лиламрита» 4.37 (пилот)"
+  notes: "Господь в эпизоде не участвует; описание учреждения орийской традиции. «Гопала Гуру» (2.27) — тот ли это Гопала-гуру Госвами, ученик Вакрешвары, — не выяснено. Единый облик Радха-Кришны (2.5) у Мадхавы — Джаганнатха; для гаудия-вайшнавов — Шри Чайтанья (ЧЧ Ади 1.5; сноска)."
+  themes: [kirtan, jagannatha]
+  teaching: [holy-name]
+  scriptures: ["Гита-говинда", "Кришна-карнамрита"]
+  divergence: "Известно только орийским источникам."
+  event: ev-jagannatha-dasa-rahasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.1", to: "2.30"}
+
+- id: vlm-0106
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 31–54"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P00
+  order: 900
+  date: "XII в. (правление Чодаганги)"
+  title: "Откуда рахаса: царь Чодаганга, обновление храма, киртан и танец махари"
+  summary: "Со слов садху: царь Чуданга-дева, преданный Джаганнатхи, обновил храм и построил гарбха-гриху; к освящению гумути, передавая престол сыну Камарнаве, велел сделать мриданги из глины с Годавари, положил начало киртану и поставил махари танцевать перед Господом — это назвали танцем рахасы."
+  persons: ["@chodaganga", "@kamarnava", "@jagannatha-deity"]
+  places: ["#puri", "#godavari"]
+  kind: pre-advent
+  authority: C
+  parallels: ""
+  notes: "Предание орийской традиции, за несколько веков до явления Господа; Мадхава передаёт его «из уст садху» (2.32)."
+  themes: [jagannatha, kirtan]
+  event: ev-chodaganga-rahasa-origin
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.31", to: "2.54"}
+
+- id: vlm-0107
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 55–58"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P00
+  order: 905
+  date: "XII в."
+  title: "Джаядева из Кендули приходит в Пури"
+  summary: "Брахман Джаядева, родом из шасаны Кендули на берегу Прачи, служивший Мадхаве в Ниали, приходит в лучшую из кшетр."
+  persons: ["@jayadeva"]
+  places: ["#kenduli-prachi", "#niali", "#puri"]
+  kind: pre-advent
+  authority: C
+  parallels: ""
+  notes: "Родина Джаядевы — по орийской традиции; бенгальская традиция помещает Кендули в Бирбхум."
+  themes: [jagannatha]
+  event: ev-jayadeva-in-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.55", to: "2.58"}
+
+- id: vlm-0108
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 59–74"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P00
+  order: 906
+  date: "XII–XIII вв."
+  title: "Джаядева слагает «Гита-говинду» в Пури; танец Падмавати; служение «Гита-говинды» при Бхимадеве"
+  summary: "Поселившись в Кшетре, Джаядева подле Джаганнатхи слагает «Гита-говинду» и поёт лилу Радхи и Мадхавы, а его жена Падмавати танцует; царь учреждает ежедневное служение танцем «Гита-говинды», поставляет сари из Кендули и строит натамандиру; Джаядева уходит в Пури."
+  persons: ["@jayadeva", "@padmavati-jayadeva", "@bhimadeva-odisha", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Мадхья 2 и Антья 15–17 (Махапрабху вкушает песни «Гита-говинды»)"
+  notes: "«Тот царь» в 2.68 — по-видимому, Бхимадева (2.74); кончина Джаядевы в Пури — орийская традиция."
+  themes: [jagannatha, kirtan]
+  scriptures: ["Гита-говинда"]
+  event: ev-gita-govinda-seva-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.59", to: "2.74"}
+
+- id: vlm-0109
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 75–101"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P00
+  order: 910
+  title: "Шридхара Свами и «Бхавартха-дипика»"
+  summary: "Брахман Шридхара из Мареи, служивший Гопинатхе в Ремуне, читает «Гопала-тапани», принимает санньясу в Пури и слагает толкование «Бхагаваты», соединяющее знание с бхакти; пандиты Каши, Навадвипы и Шрирангама принимают его; он живёт махантом в Капиласе, царь Пратапа Бханудева дарует ему право гирлянды."
+  persons: ["@shridhara-svami", "@bhanudeva-odisha", "@nrisimha"]
+  places: ["#marei", "#remuna", "#puri", "#kapilas", "#kashi", "#navadvipa", "#ranga-kshetra"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Антья 7 (Махапрабху о Шридхаре Свами)"
+  notes: "Слова о преданности (2.84–85, 2.93) — учение автора."
+  themes: [learning]
+  teaching: [bhakti-supremacy, scripture]
+  scriptures: ["Бхавартха-дипика", "Гопала-тапани-упанишада"]
+  divergence: "У Мадхавы Шридхара — санньяси школы Шанкары, последователь адвайты, почитатель Шивы (2.81–82, 2.96, 2.99); по Бхактисиддханте — вайшнав линии Вишнусвами, толкование которого принимал Махапрабху (ЧЧ Антья 7). Сноски перевода."
+  event: ev-sridhara-svami-bhavartha-dipika
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.75", to: "2.101"}
+
+- id: vlm-0110
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 102–111"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P00
+  order: 915
+  title: "Собака на рахасе и стена Мегханада; драма «Парашурама-виджая» при Капилендре"
+  summary: "Во время рахасы в храм входит собака; по просьбе людей царь велит возвести стену Мегханада, её строят за год; в храме ставят драму «Парашурама-виджая», и все славят Капилешвара-деву."
+  persons: ["@kapilendra", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: pre-advent
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [jagannatha]
+  event: ev-meghanada-wall
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.102", to: "2.111"}
+
+- id: vlm-0111
+  source: vaishnava-lilamrita
+  ref: "Гл. 2, 112–131"
+  file: "vaishnava-lilamrita/ru/02.md"
+  period: P00
+  order: 920
+  title: "Пурушоттама-дева: Бхога-мандапа, чхера-панхара, победа при Канчи милостью Джаги и Балии"
+  summary: "Сын Капилендры Пурушоттама-дева строит Бхога-мандапу, даёт труппу танцовщиц для рахасы и по слову служителей сам метёт золотой метлой путь колесниц на Ратха-ятре (чхера-панхара); воюя с Салувой Нарасимхой, берёт в жёны его дочь — Джага и Балия на вороном и белом конях сражались за него; заключительная подпись главы."
+  persons: ["@purushottama-deva", "@kapilendra", "@saluva-narasimha", "@jagannatha-deity"]
+  places: ["#puri", "#kanchi"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Мадхья 13 (чхера-панхара Пратапарудры); ЧЧ Мадхья 5 (Пурушоттама-дева и Сакши-Гопала)"
+  notes: "2.131 — колофон главы («говорит Мадхава-дас»)."
+  themes: [jagannatha]
+  event: ev-purushottama-chhera-panhara-kanchi
+  verses:
+    - {file: "vaishnava-lilamrita/ru/02.md", from: "2.112", to: "2.131"}
+
+- id: vlm-0112
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 1–46"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: P00
+  order: 925
+  date: "конец XV в. (Пурушоттама-дева, начало правления Пратапарудры)"
+  title: "Две «Гита-говинды»: испытание в храме и указ Рудрадевы; уход Кавичандры"
+  summary: "Учёный Дивакара (Кавичандра Рай) слагает «Новую Гита-говинду» с подписью Пурушоттама-девы, и прежние пады запрещают; при Рудрадеве обе рукописи кладут на ночь в гумути, и наутро книга Джаядевы оказывается сверху; царь велит петь «Гита-говинду» Джаядевы, высекает указ у ворот Джая-Виджаи; оскорблённый Кавичандра уходит, и в храме остаётся лишь песнь Джаядевы."
+  persons: ["@divakara-kavichandra", "@purushottama-deva", "@prataparudra", "@jivadeva", "@jayadeva", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: pre-advent
+  authority: C
+  parallels: "Приядас, «Бхактамала» (рассказ о двух книгах); ЧЧ Мадхья 2 (Господь вкушает «Гита-говинду»)"
+  notes: "«Рудрадева» — Пратапарудра (сноска перевода); анк указа (3.36) не прочитан. Указ, по-видимому, до прихода Господа в Пури (1510)."
+  themes: [jagannatha, kirtan]
+  scriptures: ["Гита-говинда"]
+  event: ev-two-gita-govindas-test
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.1", to: "3.46"}
+
+- id: vlm-0113
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 47–77 (продолжается)"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: P01
+  order: 1.75
+  title: "Мадхавендра в Ремуне: Гопала крадёт кширу для Своего преданного"
+  summary: "Царь Нрисимха привёз с Говардханы мурти Гопалы в Ремуна-катак; пришедший Мадхавендра теряет чувства перед Ним, служители не дают ему бхоги и запирают двери; во сне получив повеление, служитель находит под краем одежды Гопалы горшочек кширы и с мольбой о прощении подносит его Мадхавендре; Гопала прославляется как Кширачора; Мадхавендра долго живёт в Ремуне, к нему приходят ученики Рагхава и Ишвара."
+  persons: ["@madhavendra-puri", "@gopinatha-remuna", "@ishvara-puri", "@raghavendra-puri"]
+  places: ["#remuna"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Мадхья 4"
+  notes: "Отождествление «Рагхавы» с Рагхавендрой Пури — предположительно (сноска перевода)."
+  themes: [deities, prasada]
+  cc: "Мадхья 4"
+  divergence: "У Мадхавы Гопалу привёз в Ремуну царь Нрисимха с Говардханы, Божество зовётся и Гопалой, и Гопинатхой; служители отказывают Мадхавендре в бхоге; он живёт в Ремуне многие годы. В ЧЧ Гопала Мадхавендры — на Говардхане, в Ремуне — Гопинатха; Мадхавендра ни о чём не просит и уходит в ту же ночь, боясь славы."
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.47", to: "3.77"}
+
+- id: vlm-0114
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 78–83"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: P01
+  order: 1.76
+  title: "Мадхавендра, Ишвара и Рагхава в доме Бхавананды в Бентапуре"
+  summary: "По приглашению Бхавананды Мадхавендра с учениками Ишварой и Рагхавой, идя к Пурушоттаме, останавливается в Бентапуре и полмесяца в пхалгуне совершает киртан имени Хари под мридангу и гини."
+  persons: ["@madhavendra-puri", "@ishvara-puri", "@raghavendra-puri", "@bhavananda-raya"]
+  places: ["#bentapur"]
+  kind: pre-advent
+  authority: C
+  parallels: ""
+  notes: "«Рагхава» — возможно, Рагхавендра Пури (не выяснено). Анк в 3.83 не прочитан."
+  themes: [kirtan]
+  divergence: "Посещения Бентапура в ЧЧ нет."
+  event: ev-madhavendra-bentapur-kirtan
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.78", to: "3.83"}
+
+- id: vlm-0115
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 84–113"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: PX
+  order: 5
+  title: "Мадхава Паттанаяк о себе: сирота из Кхандапады у Мадхавендры и в доме Бхавананды; ученик и писец Рамананды"
+  summary: "В 21 год, потеряв родителей, автор уходит из Кхандапады в Кшетру; в Бентапуре видит киртан Мадхавендры и просит взять его; тот отсылает юношу к Бхавананде, а Рамананда, его старший сын, берёт мальчика-карана к себе, учит грамоте и поручает свои дела."
+  persons: ["@madhava-pattanayaka", "@madhavendra-puri", "@raghavendra-puri", "@bhavananda-raya", "@ramananda-raya"]
+  places: ["#khandapada", "#bentapur"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Автобиография очевидца; ср. 1.54–68 (Рамананда — «кормилец» автора)."
+  themes: [author]
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.84", to: "3.113"}
+
+- id: vlm-0116
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 114–121"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: P05
+  order: 3
+  date: "пхалгуна 5-го анка Пратапарудры (≈1500)"
+  title: "Уход Мадхавендры Пури в Ремуне"
+  summary: "Мадхавендра, покинув Кшетру, живёт в Ремуна-катаке и ежедневно совершает киртан перед Гопинатхой, проливая слёзы премы; в пхалгуне 5-го анка он уходит, воспевая имя; царь скорбит и прославляет его перед Бхаванандой."
+  persons: ["@madhavendra-puri", "@gopinatha-remuna", "@prataparudra", "@bhavananda-raya"]
+  places: ["#remuna"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Антья 8"
+  notes: "«Отошёл на небо» — обычное у Мадхавы выражение для ухода (сноска перевода); для гаудия-вайшнавов Мадхавендра вошёл в вечную лилу. Самадхи Мадхавендры почитается в Ремуне."
+  themes: [departure]
+  years: [1500, 1500]
+  date_conf: оценка
+  date_basis: "«Вайшнава-лиламрита» 3.117: пхалгуна 5-го анка Пратапарудры"
+  divergence: "В ЧЧ (Антья 8) он уходит, повторяя «айи дина-даярдра натха»; место и время не названы."
+  event: ev-madhavendra-puri-departure
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.114", to: "3.121"}
+
+- id: vlm-0117
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 122–131"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: P05
+  order: 50
+  title: "Рамананда Рай ставит «Джаганнатха-валлабху» в храме; титул «Рай»"
+  summary: "Рамананда, сильный в учёности, сочиняет песенные драмы, среди них «Джаганнатха-валлабху»; с одобрения царя её пять дней играют в Ната-мандире на Дола-ятре в пхалгуне 8-го анка; царь дарует Рамананде титул «Рай» и золотой жезл."
+  persons: ["@ramananda-raya", "@prataparudra", "@jagannatha-deity", "@radha", "@krishna"]
+  places: ["#puri"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Антья 5 (Рамананда учит девадаси своей драме)"
+  notes: ""
+  themes: [jagannatha, festival]
+  scriptures: ["Джаганнатха-валлабха-натака"]
+  event: ev-jagannatha-vallabha-first-staging
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.122", to: "3.131"}
+
+- id: vlm-0118
+  source: vaishnava-lilamrita
+  ref: "Гл. 3, 132–151"
+  file: "vaishnava-lilamrita/ru/03.md"
+  period: P05
+  order: 52
+  title: "Рамананда — правитель Раджамахендри; голод; погружённость в расу и упрёк царя"
+  summary: "В 9-й анк царь посылает Рамананду править Раджамахендри, и тот берёт с собой автора; в 13-й анк голод, Рамананда спасает людей; Бхавананда уходит; Рамананда, совершая омовение на Годавари, день и ночь живёт киртаном, песнями и «Гита-говиндой»; царь упрекает его: время войны, а он говорит о расе Кришны. Подпись главы."
+  persons: ["@ramananda-raya", "@prataparudra", "@madhava-pattanayaka", "@bhavananda-raya", "@gopinatha-pattanayaka", "@vaninatha-raya", "@kalanidhi", "@sudhanidhi"]
+  places: ["#rajamahendri", "#godavari"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Мадхья 8 (Рамананда на Годавари)"
+  notes: "Автор — при Рамананде, очевидец."
+  themes: [kirtan, learning]
+  divergence: "В ЧЧ Рамананда правит в Видьянагаре на Годавари; Бхавананда, по ЧЧ, жив при Махапрабху (Мадхья 10, Антья 9), а по Мадхаве уходит ≈1507."
+  event: ev-ramananda-governor-rajamahendri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/03.md", from: "3.132", to: "3.151"}
+
+- id: vlm-0119
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 1–27"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P09
+  order: 990
+  title: "Пратапарудра: южная война, набег Исмаила Гази, Божества укрыты у Чилики"
+  summary: "Гаджапати Пратапарудра воюет на юге с Кришнараем; с севера на Кшетру идёт Исмаил Гази; служители увозят Божества на слонах в крепость Кенкал и прячут в пещере Чадхеи у Чилики; царь, узнав, в гневе возвращается, со словами «это царство — Твоё» прогоняет млеччх до Мандарагады и вновь уходит на юг, памятуя Имя."
+  persons: ["@prataparudra", "@ismail-gazi", "@krishnadeva-raya", "@jagannatha-deity"]
+  places: ["#puri", "#chilika"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧБ Антья 4 (Хусейн-шах и храмы Ориссы)"
+  notes: "Похвала царю как «частице Вишну» (4.2) — придворная формула (сноска перевода)."
+  themes: [jagannatha, muslims]
+  divergence: "Мадхава относит приход Махапрабху в Пури ко времени этой войны (4.27–28)."
+  event: ev-ismail-gazi-raid-deities-hidden
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.1", to: "4.27"}
+
+- id: vlm-0120
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 82–133"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P11
+  order: 20
+  title: "Беседа с Раманандой: от пути раги к преме Радхи; «Ты — Мой гуру»"
+  summary: "Рамананда излагает путь раги по «Бхагавате», «Брахма-самхите», «Карнамрите» и «Гита-говинде», канта-прему и, наконец, прему Радхи как высшую цель; учит о хладини, махабхаве и мадане; спрашивает: «Не Сам ли Ты Господь, аватара Радхи?»; поёт «пахилехи рага», и Прабху в трепете закрывает ему уста; затем Махапрабху называет Рамананду Своим гуру и дваждырождённым."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@radha", "@krishna"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 8"
+  notes: "«Аватара Радхи» (4.116) — для гаудия-вайшнавов Шри Чайтанья — Сам Кришна в бхаве и сиянии Радхи (сноска)."
+  themes: [teaching, ecstasy]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Брахма-самхита", "Кришна-карнамрита", "Гита-говинда"]
+  cc: "Мадхья 8"
+  divergence: "Нет явления облика Расараджи-Махабхавы; книги «Брахма-самхита» и «Карнамрита» — источники Рамананды (в ЧЧ Господь находит их позже, Мадхья 9); Махапрабху прямо называет Рамананду гуру (в ЧЧ — «кто знает науку о Кришне, тот и гуру»); энергии — сандхини, самбандхини, хладини."
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.82", to: "4.133"}
+
+- id: vlm-0121
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 134–143"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P11
+  order: 900
+  title: "Южное паломничество и возвращение через Раджамандри: «Идём со Мной!»"
+  summary: "Пробыв у Рамананды десять дней, Прабху обходит Сетубандху, Рамешвару, Шрирангам, Удупи и другие тиртхи до Праяги, распространяя Кришна-катху и киртан; на обратном пути в Раджамандри зовёт Рамананду: «Оставь царскую службу — без тебя, гуру, в Нилачале мне нет смысла»; Рамананда обещает прийти, и Господь возвращается в Нилачалу."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#rajamahendri", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 9"
+  notes: ""
+  themes: [pilgrimage]
+  cc: "Мадхья 9"
+  divergence: "Праяга — на обратном пути с юга (в ЧЧ — позже, Мадхья 17–19); иной порядок святынь; место правления Рамананды — Раджамандри (в ЧЧ — Видьянагара)."
+  event: ev-return-visit-ramananda
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.134", to: "4.143"}
+
+- id: vlm-0122
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 144–147"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P12
+  order: 5
+  date: "19-й анк Пратапарудры"
+  title: "Рамананда приходит в Нилачалу и ведает делами храма"
+  summary: "В 19-й анк Рамананда прибывает в Нилачалу; царь поручает ему попечение о храме — смотреть за его доходами и расходами."
+  persons: ["@ramananda-raya", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 11"
+  notes: ""
+  themes: [jagannatha]
+  divergence: "В ЧЧ царь отпускает Рамананду со службы, сохраняя жалованье, чтобы он был с Господом."
+  event: ev-ramananda-comes-to-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.144", to: "4.147"}
+
+- id: vlm-0123
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 148–156"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P12
+  order: 6
+  title: "Дживадева Кави-диндима послан править Раджамахендри"
+  summary: "Вместо Рамананды царь посылает в Раджамахендри Дживадеву — раджа-гуру и поэта по прозванию «Кави-диндима», автора «Бхагата-вайбхавы» и драмы «Утсахавати», — даёт ему титул «Бахинипати» и войско."
+  persons: ["@jivadeva", "@prataparudra"]
+  places: ["#rajamahendri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Господь в эпизоде не участвует; ср. 1.77, 3.12, 3.41 о Дживадеве."
+  themes: [learning]
+  event: ev-jivadeva-kavi-dindima-rajamahendri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.148", to: "4.156"}
+
+- id: vlm-0124
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 157–160"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P12
+  order: 7
+  title: "Мандапа Рамананды для собраний вайшнавов"
+  summary: "Живя в Кшетре, Рамананда опекает вайшнавов и строит мандапу у северной стороны храма, где они собираются и отдают ум расе Кришны; подпись главы."
+  persons: ["@ramananda-raya", "@madhava-pattanayaka"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [kirtan]
+  divergence: "В ЧЧ не упоминается."
+  event: ev-ramananda-mandapa-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.157", to: "4.160"}
+
+- id: vlm-0125
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 1–13 (продолжается)"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P12
+  order: 300
+  date: "19-й анк Пратапарудры"
+  title: "Ратха-ятра: царь на чхера-панхаре видит киртан Горы"
+  summary: "О юном санньяси, вернувшемся с юга, царю рассказывают Рамананда, Будха Ленка и летописец Тадхау; совершая чхера-панхару колесницы, Пратапарудра видит киртан Горы и встречается с Ним; в киртане — Рамананда, Канхаи, Джаганнатха Дас и Панчасакха, Сварупа, Гададхара, Шивананда и многие другие."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya", "@budha-lenka", "@tadhau", "@kanhai-odia", "@jagannatha-dasa-odia", "@balarama-dasa-odia", "@yashovanta-odia", "@achyutananda-odia", "@ananta-odia", "@svarupa-damodara", "@gadadhara-pandita", "@shivananda-sena"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13–14"
+  notes: "Шивананда — вероятно, Шивананда Сена (не уточнено)."
+  themes: [festival, kirtan, jagannatha]
+  cc: "Мадхья 13"
+  divergence: "Встреча царя с Господом сразу после киртана (в ЧЧ — позже, в саду, с «Гопи-гитой», Мадхья 14); в киртане — орийская Панчасакха (в ЧЧ — семь групп бенгальских преданных)."
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.1", to: "5.13"}
+
+- id: vlm-0126
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 14–22"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P12
+  order: 301
+  title: "Царь говорит с Горой на Ратха-ятре; жилище в доме Каши Мишры"
+  summary: "Обрадованный киртаном, царь просит Гору постоянно совершать его здесь; Господь отвечает: «О царь, ты — слуга Джаганнатхи: что может быть больше?»; царь поручает Рамананде заботу о Нём, а Каши Мишре — принять Его, и Господь поселяется в доме Каши Мишры близ храма."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 10, 13–14"
+  notes: "Жилище — также событие ev-kashi-mishra-residence."
+  themes: [festival, kirtan, mercy]
+  divergence: "В ЧЧ Господь избегает царя, встреча — позже, в саду с «Гопи-гитой»; жилище у Каши Мишры устраивает Сарвабхаума до Ратха-ятры."
+  event: ev-prataparudra-meets-lord-ratha-kirtan
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.14", to: "5.22"}
+
+- id: vlm-0127
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 23–26"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 1
+  title: "Облик и распорядок Махапрабху в Пури: сто тысяч имён на шнуре с узлами"
+  summary: "Чтобы вкусить бхаву Радхи, Он явился в мир; на поясе Он носит шнур с узлами для счёта, ежедневно повторяет сто тысяч имён, с рассвета совершает киртан и в блаженстве живёт расой Кришны в мандапе у северной стороны храма."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Ади 4 (причина нисхождения)"
+  notes: "Описание очевидца; ср. 4.157–160 (мандапа Рамананды у северной стороны)."
+  themes: [kirtan, teaching]
+  bhava: [radha]
+  teaching: [holy-name, gaura-tattva]
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.23", to: "5.26"}
+
+- id: vlm-0128
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 27–34"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P13
+  order: 10
+  title: "Путь на север: Рамананда до Каттака, Рамакели, Рупа и Санатана"
+  summary: "Господь идёт на север; Рамананда провожает Его до Каттака; через Ремуну Он приходит в Рамакели, встречает Рупу и Санатану, велит им оставить царскую службу как достойным сосудам расы Кришны и возвращается в Кшетру, к радости Рамананды и Каши Мишры."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@rupa-gosvami", "@sanatana-gosvami", "@kashi-mishra"]
+  places: ["#cuttack", "#remuna", "#ramakeli", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 1, 16"
+  notes: ""
+  themes: [pilgrimage]
+  divergence: "Рамананда провожает до Каттака (в ЧЧ — до границы Ориссы); братья оставляют службу сразу (в ЧЧ — позже, Мадхья 19)."
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.27", to: "5.34"}
+
+- id: vlm-0129
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 35–42"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P13
+  order: 200
+  title: "Лесной дорогой в Праягу: встреча с Рупой; Рупа приходит в Нилачалу"
+  summary: "Господь лесной дорогой идёт в Праягу, десять дней проводит там с Рупой, зовёт его в Нилачалу и возвращается; Рупа приходит через Ремуну и Бхадрак и живёт в Нилачале, любя шастры и садху."
+  persons: ["@mahaprabhu", "@rupa-gosvami"]
+  places: ["#prayaga", "#remuna", "#bhadrak", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 17–19; Антья 1"
+  notes: "Приход Рупы в Пури — также событие ev-rupa-arrives-haridasa-puri."
+  themes: [pilgrimage]
+  divergence: "Без Вриндавана и Варанаси (ЧЧ Мадхья 17–25); Рупа приходит в Пури прямо из Праяги."
+  event: ev-rupa-shiksha-prayaga
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.35", to: "5.42"}
+
+- id: vlm-0130
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 43–61"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 3
+  title: "Рупа у Рамананды и Джаганнатхи Даса; недовольство Каши Мишры; Рупу посылают во Вриндаван"
+  summary: "Господь приводит Рупу к Рамананде: «Преподай ему таттву и путь расы»; Рамананда учит его пяти расам и аламкарам (моттаита, килакинчита); десять месяцев Рупа слушает «Бхагавату» у Свами, видя его саттвика-бхавы, и переписывает «Брахма-самхиту» и «Карнамриту»; Каши Мишра требует удалить «министра царя-млеччхи», и Господь посылает Рупу во Вриндаван — создать святую обитель и писать книги."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@ramananda-raya", "@jagannatha-dasa-odia", "@kashi-mishra"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 1"
+  notes: ""
+  themes: [teaching, learning]
+  teaching: [prema]
+  scriptures: ["Брахма-самхита", "Кришна-карнамрита", "Шримад-Бхагаватам"]
+  divergence: "В ЧЧ расе Рупу учит Сам Господь в Праяге (Мадхья 19), а Рамананда лишь разбирает его драмы; учёбы у Джаганнатхи Даса и недовольства Каши Мишры в ЧЧ нет (Рупа сам по смирению не подходит к храму); Рупа уходит во Вриндаван после Дола-ятры, через Бенгалию."
+  event: ev-rupa-taught-by-ramananda-jagannatha-dasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.43", to: "5.61"}
+
+- id: vlm-0131
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 62–72"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 4
+  date: "24-й анк Пратапарудры"
+  title: "Кабир в Пури и наставление Джаганнатхи Даса"
+  summary: "С севера приходит санньяси Джхолаа Кабир в шафрановых одеждах, с тумбурой, сладко поёт песни и любит Джаганнатху; Свами, услышав его бхаджан, обнимает его и учит: все равны, чандала и дваждырождённый; кто держит ум в Имени, легко обретает Кришну; желание мукти — как ад. Через месяц Кабир уходит."
+  persons: ["@kabir", "@jagannatha-dasa-odia", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Господь в эпизоде не упомянут."
+  themes: [jagannatha, teaching]
+  teaching: [holy-name, bhakti-supremacy]
+  divergence: "Известно только орийским источникам."
+  event: ev-kabir-in-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.62", to: "5.72"}
+
+- id: vlm-0132
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 73–81"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 11
+  title: "Санатана с язвами бросается под колесницу; укор Прабху"
+  summary: "Бывший министр царя-млеччхи Санатана приходит к Гундиче, покрытый язвами, и бросается под колесницу, чтобы расстаться с жизнью; Сварупа, Туласи, Панчасакха и Канхаи подхватывают его; Прабху укоряет его: «Где найдётся пандит учёнее тебя — а ты отнимаешь у тела жизнь!»"
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@svarupa-damodara", "@tulasi-mishra", "@achyutananda-odia", "@ananta-odia", "@kanhai-odia", "@yashovanta-odia"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 4"
+  notes: ""
+  themes: [mercy, offense]
+  cc: "Антья 4"
+  divergence: "В ЧЧ — лишь намерение Санатаны броситься под колесницу, раскрытое Господом; здесь он бросается, и спутники его поднимают."
+  event: ev-sanatana-suicide-forbidden
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.73", to: "5.81"}
+
+- id: vlm-0133
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 82–99"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 12
+  title: "Санатана год слушает Свами; Господь посылает его во Вриндаван"
+  summary: "Год в Нилачале Санатана слушает Свами: истины о Кришне, творении, дживе (слуге Кришны), бхеда-абхеде, трёх энергиях, аватарах, мадхурье и нара-лиле, кама-гаятри и пути раги, служении выше мукти; затем Прабху посылает его создать святую обитель во Вриндаване."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@jagannatha-dasa-odia"]
+  places: ["#puri", "#vrindavana"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 20–24 (Санатана-шикша)"
+  notes: "Пояснения по ачинтья-бхеда-абхеде и рагануге — в сносках перевода."
+  themes: [teaching]
+  teaching: [prema, bhakti-supremacy, vedanta]
+  divergence: "В ЧЧ учение Санатане даёт Сам Махапрабху в Варанаси; у Мадхавы — Джаганнатха Дас в Пури."
+  event: ev-sanatana-taught-jagannatha-dasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.82", to: "5.99"}
+
+- id: vlm-0134
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 100–108"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 13
+  title: "Валлабха в Нилачале: «Джаганнатха — Гопиджана-валлабха»"
+  summary: "С севера приходит Валлабха, преданный Гопалы; со Свами он читает «Бхагавату», на даршане постигает, что Джаганнатха — Гопиджана-валлабха; два месяца живёт в Пури на Ратха-ятру, радуется киртану Прабху и приходит на иштагоштхи."
+  persons: ["@vallabha-bhatta", "@jagannatha-dasa-odia", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 7"
+  notes: ""
+  themes: [jagannatha, learning]
+  divergence: "В ЧЧ — встреча с Махапрабху, спор о комментарии Шридхары и мантра от Гададхары; Джаганнатхи Даса нет."
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.100", to: "5.108"}
+
+- id: vlm-0135
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 109–129"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 14
+  date: "27-й анк Пратапарудры"
+  title: "«Атибада»: рассказ о смехе Кришны и Радхи; имя Джаганнатхи Даса"
+  summary: "Наедине Прабху просит Свами рассказать о прежнем облике; тот говорит: Радха и Кришна — одно тело, из смеха Кришны родился Ты, из смеха Радхи — я; Прабху обнимает его: «Ты очень велик (ати-бада) — у нас одна жизнь, различно лишь тело», повязывает ему на голову Свою уттарию и провозглашает его Атибадой перед Сварупой, Раманандой, Каши Мишрой и Панчасакхой."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@svarupa-damodara", "@ramananda-raya", "@kashi-mishra", "@balarama-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: сектантское предание Атибади, противоречащее гаура-таттве. По Бхактисиддханте, Шри Чайтанья — Сам Кришна в настроении и цвете Радхи (ЧЧ Ади 1, 4); «ативади» — в перечне апасампрадай (сноски перевода)."
+  themes: [teaching]
+  teaching: [gaura-tattva]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-atibada-name
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.109", to: "5.129"}
+
+- id: vlm-0136
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 130–164"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 15
+  title: "Баларама Дас и песчаная колесница"
+  summary: "Служители сгоняют Балараму Даса, сына Сомнатхи и автора «Рамаяны», с колесницы, когда он хочет поднести гирлянду; на берегу моря он делает колесницу из песка и зовёт Джаганнатху, Балараму и Субхадру; колесница на Данде не трогается ни днём, ни ночью; царю во сне Господь велит привести Его вместе с преданным; царь с Прабху, Свами и преданными с киртаном идёт к морю и с почётом приводит Балараму; тот подносит гирлянду — и колесница катится; подпись главы."
+  persons: ["@balarama-dasa-odia", "@prataparudra", "@mahaprabhu", "@jagannatha-dasa-odia", "@jagannatha-deity", "@kashi-mishra", "@tapana-mishra", "@kanhai-odia", "@ananta-acharya", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@tulasi-mishra", "@damodara-pandita"]
+  places: ["#puri"]
+  kind: miracle
+  authority: C
+  parallels: "ЧЧ Мадхья 14 (колесница останавливается и трогается от Махапрабху — иной рассказ)"
+  notes: "Отождествления «Тапана Ачарья» и «Ананта Ачарья» (5.152) под вопросом."
+  themes: [jagannatha, festival, mercy]
+  divergence: "Известно только орийским источникам."
+  event: ev-balarama-dasa-sand-chariot
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.130", to: "5.164"}
+
+- id: vlm-0137
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 1–18"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 16
+  title: "Спор о начале махамантры"
+  summary: "Канхаи начинает махамантру с «Харе Рама», Шивананда — с «Харе Кришна»; через Сварупу спор доходит до Свами и Прабху; в северной мандапе собираются Рамананда, Сарвабхаума, Каши Мишра, Гададхара и Панчасакха; по Мадхаве, Прабху решает: в Нилачале — «Харе Рама», в Гауде — «Харе Кришна»."
+  persons: ["@mahaprabhu", "@kanhai-odia", "@shivananda-sena", "@svarupa-damodara", "@jagannatha-dasa-odia", "@ramananda-raya", "@sarvabhauma", "@kashi-mishra", "@gadadhara-pandita", "@ananta-odia", "@achyutananda-odia"]
+  places: ["#puri"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: противоречит гаудия-вайшнавской традиции; у гаудия-вайшнавов (Бхактисиддханта) махамантра начинается с «Харе Кришна» (сноски перевода)."
+  themes: [teaching, kirtan]
+  teaching: [holy-name]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-mahamantra-order-dispute
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.1", to: "6.18"}
+
+- id: vlm-0138
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 19–25"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 17
+  title: "Шивананда, Канхаи и паломники"
+  summary: "Шивананда приводит паломников на Ратха-ятру и месяц живёт с ними в Кшетре; Канхаи, недовольный, пугает паломников, начинается распря, и Каши Мишра мирит их."
+  persons: ["@shivananda-sena", "@kanhai-odia", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Чтения «паломники», «каури» неуверенны."
+  themes: [offense]
+  divergence: "В ЧЧ Шивананда Сен сам несёт расходы бенгальских преданных (Мадхья 16, Антья 12)."
+  event: ev-shivananda-kanhai-pilgrims-quarrel
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.19", to: "6.25"}
+
+- id: vlm-0139
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 26–45"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 18
+  title: "Мадхави Даси в собрании и уход недовольных преданных"
+  summary: "Сестра Шикхи Маханти Мадхави Даси, преданная, слагает песни и поёт их перед Свами и Прабху; по Мадхаве, Прабху позволяет ей сидеть в гоштхи; преданные уходят в знак протеста, Свами защищает её, но её приход запрещают; Мадхава замечает, что не все гаудии равны Сварупе."
+  persons: ["@madhavi-devi", "@shikhi-mahiti", "@mahaprabhu", "@jagannatha-dasa-odia", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Антья 2 (Мадхави-деви)"
+  notes: "Понижено до D: противоречит ЧЧ — Махапрабху как санньяси строжайше избегал общения с женщинами (сноска перевода)."
+  themes: [kirtan, offense]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-madhavi-in-goshthi
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.26", to: "6.45"}
+
+- id: vlm-0140
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 46–58"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 19
+  title: "Младший Харидас и Мадхави; побои от Шикхи; уход Харидаса"
+  summary: "Младший Харидас под предлогами ходит к Мадхави за рисом и солью; соседи подозревают дурное, Шикхи Маханти запрещает и наконец бьёт его; гаудии докладывают Прабху, и Тот одобряет Шикхи и не желает видеть Харидаса; в горе Харидас ночью уходит из Нилачалы и бросается в Гангу."
+  persons: ["@chhota-haridasa", "@madhavi-devi", "@shikhi-mahiti", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 2"
+  notes: ""
+  themes: [offense, sannyasa]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 2"
+  divergence: "В ЧЧ — одна просьба о рисе для Господа; Господь Сам отвергает Харидаса, и тот входит в Тривени в Праяге; побоев от Шикхи нет."
+  event: ev-chhota-haridasa-punished
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.46", to: "6.58"}
+
+- id: vlm-0141
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 59–85 (продолжается)"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 20
+  title: "Гаудии покидают Нилачалу; «восемь шлок»; распря на Говардхане"
+  summary: "Обидевшись, что Прабху возвеличивает «Джагу Даса», гаудии ночью уходят; Шивананда просит вернуть их; по Мадхаве, Свами пишет восемь шлок о бхавах Прабху, а Шивананда несёт их как письмо Прабху; гаудии не возвращаются, идут во Вриндаван к Рупе и Санатане, а на Говардхане ссорятся с учениками Валлабхи."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@svarupa-damodara", "@shivananda-sena", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: полемическое орийское предание. «Шикшаштака» — сочинение Самого Махапрабху (ЧЧ Антья 20; «Падьявали»); гаудии ежегодно приходили к Господу (ЧЧ Мадхья 16, Антья 10, 12) — сноски перевода."
+  themes: [separation, offense]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-gaudiyas-leave-nilachala
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.59", to: "6.85"}
+
+- id: vlm-0142
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, 86–93"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 21
+  title: "Побоище на Говардхане; слово Прабху о «битых»"
+  summary: "На Говардхане слуги Валлабхи бьют гаудиев, иные гибнут, иные остаются при Рупе; к Ратха-ятре Канхаи приносит весть, и, по Мадхаве, Прабху говорит: «Хорошо вышло: кто по нраву „битый“, тот и будет бит»."
+  persons: ["@mahaprabhu", "@kanhai-odia", "@rupa-gosvami", "@vallabha-bhatta"]
+  places: ["#govardhana", "#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: полемическое орийское предание; слова, приписанные Господу, противоречат Его отношению к преданным Гауды в ЧЧ (сноски перевода)."
+  themes: [offense]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-gaudiyas-govardhana-clash
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.86", to: "6.93"}
+
+- id: vlm-0143
+  source: vaishnava-lilamrita
+  ref: "Гл. 6, «Восемь шлок Свами» (Sh1–Sh8e)"
+  file: "vaishnava-lilamrita/ru/06.md"
+  period: P14
+  order: 20.5
+  title: "«Восемь шлок» (Шикшаштака) с орийским переложением; конец главы 6"
+  summary: "Мадхава приводит восемь санскритских шлок «Шикшаштаки» — «чето-дарпана-марджанам», «намнам акари», «тринад апи суничена», «на дханам», «айи нанда-тануджа», «найанам галад-ашру», «югайитам нимешена», «ашлишйа ва» — каждую с орийскими двустишиями-переложением; по Мадхаве, их сложил Свами, описав в них бхаву Радхи."
+  persons: ["@jagannatha-dasa-odia", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Антья 20; «Падьявали»"
+  notes: "Атрибуция Джаганнатхе Дасу — орийское предание; гаудия-вайшнавы (Бхактисиддханта) признают «Шикшаштаку» сочинением Самого Махапрабху (сноски перевода). Метки шлок — 6.Sh1…6.Sh8e."
+  themes: [teaching]
+  teaching: [holy-name, prema]
+  scriptures: ["Шикшаштака"]
+  divergence: "Атрибуция: у Мадхавы — Джаганнатха Дас."
+  event: ev-shikshashtaka-recitation
+  verses:
+    - {file: "vaishnava-lilamrita/ru/06.md", from: "6.Sh1", to: "6.Sh8e"}
+
+- id: vlm-0144
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 1–18"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 22
+  title: "Свами принимает мантру от Баларамы Даса; гнев Каши Мишры"
+  summary: "Свами решает принять мантру и поклоняться Кришне путём раги; Прабху посылает его к Балараме Дасу: «Кроме него, нет иного гуру»; Каши Мишра гневается, что брахман берёт мантру у шудры; Свами отвечает: «Шудра или брахман — все равны; драгоценность и в низком месте взять — дхарма»; Сарвабхаума и Лакшмидхара вразумляют Каши Мишру."
+  persons: ["@jagannatha-dasa-odia", "@balarama-dasa-odia", "@mahaprabhu", "@kashi-mishra", "@sarvabhauma", "@lakshmidhara-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ср. ЧЧ Мадхья 8.128 (гуру — знающий науку о Кришне); об отношении рагануги к шастрам — сноски перевода."
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-svami-initiated-by-balarama-dasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.1", to: "7.18"}
+
+- id: vlm-0145
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 19–30"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 23
+  title: "Камень с Говардханы для Рагхунатхи Даса; недовольство брахманов; Панчасакха и путь раги"
+  summary: "Прабху дарит Рагхунатхе Дасу камень с Говардханы: «Это шалаграма, не считай его обычным»; Сарвабхаума и Лакшмидхара в досаде, Каши Мишра гневается, что шудра получил право поклоняться шалаграме; Панчасакха с Прабху ежедневно вкушают расу, упиваются санкиртаной, оставив путь вайдхи, и созерцают бхаву гопи."
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@sarvabhauma", "@lakshmidhara-puri", "@kashi-mishra", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#puri", "#govardhana"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 6"
+  notes: "Рагануга у гаудия-вайшнавов не отменяет шастр (ЧЧ Мадхья 22; БРС 1.2.101; сноски)."
+  themes: [mercy, teaching]
+  cc: "Антья 6"
+  divergence: "В ЧЧ — говардхана-шила и гунджа-мала, поклонение водой и туласи; недовольства брахманов нет; Мадхава называет камень «шалаграмой», а Рагхунатху — «шудрой»."
+  event: ev-govardhana-shila-gunja-gift
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.19", to: "7.30"}
+
+- id: vlm-0146
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 31–92"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 5
+  title: "Война с Кришнадевой Раей: голод, падение Кондавиду, гибель Вирабхадры, мир"
+  summary: "Кришнадева Рая теснит Гаджапати; паводки и засухи губят урожай, Панчасакха с киртаном ходят по деревням; Кондавиду обороняют Бхадрадева и Дживадева, через месяц осады крепость пала, Дживадеву зарубили, Бхадрадеву взяли в плен; Кришнарай велит ему биться с простым воином, и царевич, не стерпев унижения, закалывается; Кришнарай оплакивает его; ради выкупа царицы Чампадеви Гаджапати отдаёт в жёны Кришнараю дочь Джагамохини и земли к югу от Кришны и возвращается в Кшетру."
+  persons: ["@prataparudra", "@krishnadeva-raya", "@virabhadra-gajapati", "@jivadeva", "@jagamohini", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#kondavidu", "#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Господь в эпизоде не участвует; исторический фон (Кондавиду пал ≈1515)."
+  themes: [jagannatha, kirtan]
+  divergence: "В ЧЧ/ЧБ не описано."
+  event: ev-kondavidu-fall-virabhadra
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.31", to: "7.92"}
+
+- id: vlm-0147
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 93–113"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 6
+  title: "Царь у Панчасакхи и Прабху; танец перед колесницей: «Это — Прабху!»"
+  summary: "Скорбящий царь призывает Балараму Даса и Прабху, просит имени и наставления, слушает киртан; на Ратха-ятре Чайтанья танцует перед колесницей среди Панчасакхи — то вырастая, то сжимаясь, со всеми чертами бхавы Радхи; царь говорит: «Это не человек — это воочию бхава Радхи», Рамананда подтверждает, и царь провозглашает Чайтанью Прабху перед народом."
+  persons: ["@mahaprabhu", "@prataparudra", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13–14"
+  notes: "Расараджа-махабхава — ср. ЧЧ Мадхья 8, Ади 4 (сноски)."
+  themes: [festival, ecstasy, mercy]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  divergence: "В ЧЧ — семь бенгальских групп киртана; всенародного провозглашения нет."
+  event: ev-prataparudra-proclaims-chaitanya-prabhu
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.93", to: "7.113"}
+
+- id: vlm-0148
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 114–125 (продолжается)"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 900
+  title: "Махабхава Прабху: Гамбхира, разлука, море, туча, Тота-Гопинатха"
+  summary: "Прабху пребывает в махабхаве в Гамбхире: встаёт, садится, катается по земле с криком «О Кришна!», оставляет счёт имён на поясном шнуре, бежит в храм искать Кришну, к морю — увидеть Его облик, теряет себя при виде тучи; бывает у Тота-Гопинатхи и в Кунджа-матхе."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–20"
+  notes: ""
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Антья 14–20"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.114", to: "7.125"}
+
+- id: vlm-0149
+  source: vaishnava-lilamrita
+  ref: "Гл. 7, 126–148"
+  file: "vaishnava-lilamrita/ru/07.md"
+  period: P14
+  order: 901
+  title: "Махабхава Прабху (окончание): Гундича, пруды, Свами кормит Его; Панчасакха всегда при Нём"
+  summary: "Прабху созерцает облик Кришны в мандапе Гундичи, теряет чувства, катается в пыли, бежит к Нарендре и Маркандее, неистово танцует в киртане, не помнит о сне и еде; Свами насильно кормит Его; рядом со Сварупой Он являет махабхаву; Свами знает Его бхаву и просит отдать ум киртану; Прабху велит Панчасакхе всегда быть при Нём; подпись главы."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@svarupa-damodara", "@balarama-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–20"
+  notes: "Нара-лила — ЧЧ Мадхья 21 (сноска)."
+  themes: [ecstasy, separation, kirtan]
+  bhava: [radha]
+  divergence: "Заботу о Господе и знание Его бхавы Мадхава приписывает Свами; в ЧЧ — Сварупе Дамодаре и Рамананде (Антья 14–20)."
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "vaishnava-lilamrita/ru/07.md", from: "7.126", to: "7.148"}
+
+- id: vlm-0150
+  source: vaishnava-lilamrita
+  ref: "Гл. 8, 1–30"
+  file: "vaishnava-lilamrita/ru/08.md"
+  period: P14
+  order: 7
+  title: "Нагара-киртан и тряпица на мриданге: откуда «кхол»"
+  summary: "На рассвете Прабху с Панчасакхой и двумя мридангистами ведёт нагара-киртан; ребёнок, бросившись смотреть, падает с пинды, мать в гневе бросает в киртан тряпицы с нечистотами; Прабху в трепете кладёт их на мридангу: «Это не нечистоты — это сандал», — и велит впредь покрывать мридангу тканью; так мриданга стала называться кхол."
+  persons: ["@mahaprabhu", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Народная этимология слова «кхол» (сноски)."
+  themes: [kirtan, mercy]
+  divergence: "В ЧЧ/ЧБ нет; нагара-киртан там — прежде всего в Навадвипе (ЧЧ Ади 17)."
+  event: ev-nagara-kirtan-khol-origin
+  verses:
+    - {file: "vaishnava-lilamrita/ru/08.md", from: "8.1", to: "8.30"}
+
+- id: vlm-0151
+  source: vaishnava-lilamrita
+  ref: "Гл. 8, 31–69, 81–85"
+  file: "vaishnava-lilamrita/ru/08.md"
+  period: P14
+  order: 8
+  title: "Годовой круг киртана по Ориссе: Аларнатх, Экамра, Ниали, Кендули, Чандрабхага, Катак"
+  summary: "Прабху зовёт Панчасакху странствовать с киртаном: в анавасару — в Аларнатх, где Рамананда чествует вайшнавов; в пауша-пурниму — в Экамра-кшетру к Ананта-Васудеве и Лингарадже; затем Ниали и Кендули на Макара-мелу, Чандрабхага и служение Солнцу, Какатпур, Дола в Катаке у Пратапарудры, Вираджа и Вайтарани, Туласи-кшетра — и к Снана-ятре назад в Пури, год за годом."
+  persons: ["@mahaprabhu", "@balarama-dasa-odia", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@ramananda-raya", "@prataparudra"]
+  places: ["#alalanatha", "#bhubaneshvara", "#niali", "#kenduli-prachi", "#konark", "#cuttack", "#jajpur", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 11 (Аларнатх в анавасару)"
+  notes: "Пояснения о Лингарадже-Харихаре (Шива — лучший из вайшнавов, Бхаг. 12.13.16), поклонении Солнцу (Брахма-самхита 5.52), Мангале (5.44) — в сносках."
+  themes: [pilgrimage, kirtan, festival]
+  divergence: "В ЧЧ последние годы Господа проходят в Пури; круга странствий по Ориссе нет."
+  event: ev-odisha-kirtan-circuit
+  verses:
+    - {file: "vaishnava-lilamrita/ru/08.md", from: "8.31", to: "8.69"}
+    - {file: "vaishnava-lilamrita/ru/08.md", from: "8.81", to: "8.85"}
+
+- id: vlm-0152
+  source: vaishnava-lilamrita
+  ref: "Гл. 8, 70–80"
+  file: "vaishnava-lilamrita/ru/08.md"
+  period: P01
+  order: 0.5
+  title: "Джаджпур — родовое место Прабху: дед Упендра Мишра, бегство в Шрихатту; родичи чтят Господа"
+  summary: "На Дашашвамедха-гхате в Яджанагаре (Джаджпуре) — родовое место Прабху: дед Упендра, ведийский брахман из Ватсасы, владелец шасаны, пандит в шести даршанах, из страха перед Капилешвара-девой бежал в Шрихатту; его сын — Джаганнатха, от него — Прабху; родичи, узнав Его, поклоняются Его стопам, украшают дома и чтят Его."
+  persons: ["@mahaprabhu", "@upendra-mishra", "@jagannatha-mishra", "@kapilendra"]
+  places: ["#jajpur", "#shrihatta"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 13"
+  notes: ""
+  themes: [family]
+  divergence: "В ЧЧ Упендра Мишра живёт в Шрихатте; о происхождении из Ориссы не сказано."
+  event: ev-lord-ancestors-jajpur
+  verses:
+    - {file: "vaishnava-lilamrita/ru/08.md", from: "8.70", to: "8.80"}
+
+- id: vlm-0153
+  source: vaishnava-lilamrita
+  ref: "Гл. 8, 86–102, P0–P4 (продолжается)"
+  file: "vaishnava-lilamrita/ru/08.md"
+  period: P14
+  order: 8.5
+  title: "Роли в киртане: Панчасакха, Гададхара и Сварупа в Пури; плоды киртана; «Бхагавата» Свами; песня Джаги Даса"
+  summary: "Свами — гуру киртана, Баларама — зачинатель бхава-расы, Ананта и Яшованта — знатоки киртана; Гададхара не покидает Тота-Гопинатху, Сварупа слаб телом и никуда не ходит; киртан Панчасакхи дарует детей бездетным и спасает от зверей; рукописям «Бхагаваты» Свами поклоняются в деревнях; приведена песня «Льнёт мой ум к Твоим стопам, Гиридхара» с подписью Джаги Даса."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@balarama-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@gadadhara-pandita", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 16 (кшетра-санньяса Гададхары)"
+  notes: "Высший плод киртана — према (Шикшаштака 1; сноска)."
+  themes: [kirtan, teaching]
+  teaching: [holy-name]
+  divergence: "В ЧЧ о болезни Сварупы нет; первый знаток расы — Сварупа Дамодара."
+  event: ev-odisha-kirtan-circuit
+  verses:
+    - {file: "vaishnava-lilamrita/ru/08.md", from: "8.86", to: "8.P4"}
+
+- id: vlm-0154
+  source: vaishnava-lilamrita
+  ref: "Гл. 8, 103–114"
+  file: "vaishnava-lilamrita/ru/08.md"
+  period: P14
+  order: 8.6
+  title: "Раса в Джханкаде у Сарала-Чанди; конец главы 8"
+  summary: "Рамачандра, ученик Ачьютананды, зовёт Свами в Джханкадпур-Патану; там Прабху с сакхами устраивает расу, Сарала-Чанди названа пратимой Радхи, и в Прабху вновь пробуждается махабхава; так они странствуют по городам и деревням с киртаном."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ramachandra-odia"]
+  places: ["#jhankad"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Отождествление Сарала-Чанди с Радхой — орийское предание; позиция гаудия — в сноске."
+  themes: [kirtan, pilgrimage]
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-jhankad-sarala-rasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/08.md", from: "8.103", to: "8.114"}
+
+- id: vlm-0155
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 1–17"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P14
+  order: 30
+  date: "44-й анк Пратапарудры"
+  title: "Иштагоштхи Нилачалы; Рупа приносит «Видагдха-мадхаву», Рамананда испытывает её"
+  summary: "В иштагоштхи у северной стороны храма — Рамананда во главе, Прабху и Свами посередине, Панчасакха, Сварупа, Рагхунатха Дас, Сарвабхаума; из Вриндавана в 44-й анк приходит Рупа с драмой; Прабху велит Рамананде испытать её, Рупа читает шлоки от нанди до маны Радхи, Рамананда восхищён; «Видагдха-мадхава» прославляется; через четыре месяца Рупа уходит, и Рагхунатха Дас идёт с ним во Вриндаван."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@ramananda-raya", "@jagannatha-dasa-odia", "@balarama-dasa-odia", "@svarupa-damodara", "@raghunatha-dasa", "@sarvabhauma"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 1"
+  notes: ""
+  themes: [learning, teaching]
+  cc: "Антья 1"
+  divergence: "Дата (44-й анк ≈1531/32) много позже, чем по ЧЧ; чтение — в иштагоштхи, а не у Харидаса; Рупа уходит в Карттику, а не после Дола-ятры; Рагхунатха Дас уходит с Рупой (по ЧЧ — остаётся в Пури до ухода Господа)."
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.1", to: "9.17"}
+
+- id: vlm-0156
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 18–24"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P14
+  order: 950
+  title: "Уход Сварупы Дамодары в Гамбхире"
+  summary: "Сварупа долго страдает болезнью дыхания и уходит в Гамбхире в экадаши светлой половины Магхи; Ананта, Ачьюта, Яшованта и автор относят тело к морю; Прабху безмолвен, Рамананда оцепенел, Свами и Баларама скорбят."
+  persons: ["@svarupa-damodara", "@mahaprabhu", "@ramananda-raya", "@jagannatha-dasa-odia", "@balarama-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@yashovanta-odia", "@madhava-pattanayaka"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Свидетельство автора («мы отнесли тело к морю»)."
+  themes: [departure, separation]
+  calendar: "магха, шукла-экадаши"
+  divergence: "По ЧЧ (Антья 14–20) Сварупа неотлучно при Господе до конца; ухода Сварупы раньше Господа в ЧЧ нет."
+  event: ev-svarupa-damodara-departure
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.18", to: "9.24"}
+
+- id: vlm-0157
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 25–27"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P14
+  order: 951
+  title: "Гададхара послан в Гауду с вестью"
+  summary: "Прабху посылает Гададхару в Гауду известить преданных об уходе Сварупы; в начале Пхалгуны Гададхара отправляется."
+  persons: ["@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Понижено до D: противоречит ЧЧ (Мадхья 16, обет кшетра-санньясы) и самому Мадхаве (8.92)."
+  themes: [separation]
+  event: ev-gadadhara-sent-to-gauda
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.25", to: "9.27"}
+
+- id: vlm-0158
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 28–41 (продолжается)"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P14
+  order: 952
+  title: "Уход Баларамы Даса"
+  summary: "Баларама Дас, пандит, сведущий в веданте, автор «Рамаяны» и толкования «Гиты», всегда в киртане и Имени, оставляет пищу и в шукла-дашами Пхалгуны уходит в мандапе; Прабху, Свами, Панчасакха, Канхаи и Рамананда вспоминают его достоинства; тело погребено в песке у моря; Прабху и Свами безмолвны."
+  persons: ["@balarama-dasa-odia", "@mahaprabhu", "@jagannatha-dasa-odia", "@yashovanta-odia", "@kanhai-odia", "@achyutananda-odia", "@ananta-odia", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Входит в тело Джаганнатхи» (9.38) — орийский образ; чистые преданные отвергают сайуджью (Бхаг. 3.29.13; сноска)."
+  themes: [departure]
+  calendar: "пхалгуна, шукла-дашами"
+  divergence: "В ЧЧ/ЧБ нет."
+  event: ev-balarama-dasa-departure
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.28", to: "9.41"}
+
+- id: vlm-0159
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 42–67"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P15
+  order: 5
+  title: "Ранение стопы Прабху во время танца (орийское предание)"
+  summary: "Танцуя в неудержимой бхаве под кхол и картал, Прабху ударяет большой палец левой ноги о кирпич и падает без чувств; Свами, Кашишвара, Яшованта, Шриватса и Ананта поднимают Его и вечером в новолуние несут в северную мандапу; Он приходит в себя, хочет посмотреть танец в храме, но не может встать; Свами всю ночь при Нём."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@kashishvara", "@yashovanta-odia", "@ananta-odia", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда, «Чайтанья-мангала» (ранение левой ноги кирпичом)"
+  notes: "Понижено до D: орийское предание о конце земной лилы, противоречащее гаудия-вайшнавскому учению; по Бхактисиддханте тело Господа — сач-чид-ананда, не подвластное болезни и разрушению, уход — сокрытие (антардхана) по Его воле (сноски перевода). Переведено точно."
+  themes: [departure, kirtan]
+  divergence: "ЧЧ и ЧБ о ранении не сообщают; ЧЧ (Антья 20) ухода не описывает."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.42", to: "9.67"}
+
+- id: vlm-0160
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 68–100"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P15
+  order: 10
+  title: "Последние слова Прабху к Свами; сокрытие Прабху в храме в Акшая-тритью (орийское предание)"
+  summary: "Свами ухаживает за Прабху; Прабху говорит ему: «Пока ты здесь, нет для Меня срока; но воля Хари исполняется… Оставив тебя, куда Я уйду? Я буду высматривать дорогу, по которой придёшь ты»; в Акшая-тритью, в брахма-мухурту, по Мадхаве, прана покинула тело Прабху; рядом в храме был один Джаганнатха Дас; на рассвете он посылает за Рамой Раем."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда (ранение и жар); Лочана Дас (вхождение в Джаганнатху)"
+  notes: "Понижено до D (см. vlm-0159). Слова «прана покинула тело» переведены точно; для гаудия-вайшнавов уход Господа — сокрытие, подобное заходу солнца (БГ 4.9; сноска к 9.90)."
+  themes: [departure, separation]
+  calendar: "вайшакха, шукла-тритья (Акшая-тритья)"
+  divergence: "Дата — Акшая-тритья (у Джаянанды — в связи с Ратха-ятрой; у Лочаны — 7-я титхи ашадхи); при Прабху — Джаганнатха Дас, а не Сварупа и Рамананда (у Мадхавы Сварупа ушёл раньше)."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.68", to: "9.100"}
+
+- id: vlm-0161
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 101–128"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P15
+  order: 11
+  title: "Рама Рай и Гаджапати: тайное погребение в Койли-Вайкунтхе (орийское предание)"
+  summary: "Рама Рай велит запереть храм и шлёт письмо царю, выехавшему на Чандана-ятру; опасаясь смуты гаудийцев, они решают объявить, что «этот Прабху растворился в том Прабху», и тайно предают тело земле в Койли-Вайкунтхе, где хоронят прежние тела Джаганнатхи; знают лишь Рама Рай, Свами и один-два слуги; храм очищают."
+  persons: ["@ramananda-raya", "@prataparudra", "@jagannatha-dasa-odia", "@mahaprabhu"]
+  places: ["#puri", "#koili-vaikuntha"]
+  kind: lila
+  authority: D
+  parallels: "Лочана Дас (вхождение Господа в Джаганнатху); предание о Тота-Гопинатхе"
+  notes: "Понижено до D: противоречит гаудия-вайшнавскому учению о духовном теле Господа (сноски к 9.42, 9.102, 9.120). Переведено точно."
+  themes: [departure, jagannatha]
+  divergence: "Известно только орийским источникам."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.101", to: "9.128"}
+
+- id: vlm-0162
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 129–150"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P15
+  order: 20
+  title: "Весть о сокрытии Прабху: «слился с Джаганнатхой, как молния с облаком»; скорбь Панчасакхи; Ратха-ятра без Прабху"
+  summary: "В праздник Чанданы преданные узнают о сокрытии Прабху: «Он слился с телом Джаганнатхи, как молния скрылась в облаке»; вспоминают: «Прабху — Сам Бхагаван»; Панчасакха плачет, Ачьюта упрекает Свами, что тот не удержал Прабху; на Ратха-ятре царь, не найдя Прабху у колесницы, роняет золотую метлу; гаудийцы уносят весть в Гауду."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia", "@achyutananda-odia", "@kanhai-odia", "@yashovanta-odia", "@ananta-odia", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура, «Чайтанья-чаритамрита-махакавья» (плач преданных); Лочана Дас"
+  notes: "Мадхава сам называет уход Господа «антардхана» (сокрытие) — как гаудия-вайшнавы (сноска к 9.132)."
+  themes: [departure, separation, festival]
+  event: ev-lord-disappearance
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.129", to: "9.150"}
+
+- id: vlm-0163
+  source: vaishnava-lilamrita
+  ref: "Гл. 9, 151–164 и колофон"
+  file: "vaishnava-lilamrita/ru/09.md"
+  period: P15
+  order: 30
+  title: "Уход Рамананды Рая в Джанмаштами; распад кружка; завершение поэмы"
+  summary: "В Джанмаштами нет радостного киртана; Рамананда приходит в северную мандапу, плачет о Прабху и беседует со Свами; Свами уходит жить на берег моря, Ачьюта и Ананта — в свои края; вечером Рамананда уходит с именем «О Кришна!», и Джаганнатха Дас говорит: «Он — сиддха»; подпись Мадхавы и колофон «Так завершена „Вайшнава-лиламрита“»."
+  persons: ["@ramananda-raya", "@jagannatha-dasa-odia", "@achyutananda-odia", "@ananta-odia", "@madhava-pattanayaka"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Отошёл на небо» — обычный у Мадхавы оборот; для гаудия-вайшнавов Рамананда — вечный спутник Господа, вернувшийся к служению (сноска к 9.158)."
+  themes: [departure, separation]
+  calendar: "бхадра, кришна-аштами"
+  divergence: "ЧЧ/ЧБ об уходе Рамананды не сообщают."
+  event: ev-ramananda-departure-janmashtami
+  verses:
+    - {file: "vaishnava-lilamrita/ru/09.md", from: "9.151", to: "9.164"}

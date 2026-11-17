@@ -1,4 +1,4 @@
-"""Собирает перевод «Бхакти-ратнакары» (ru/en, тараги 01–15 — сколько готово) в MD, DOCX и PDF.
+"""Собирает перевод «Бхакти-ратнакары» (ru/en, тараги 01–15 и приложение 16 — сколько готово) в MD, DOCX и PDF.
 Использует функции разбора и вёрстки из ../govinda-kadacha/build.py. Запуск: python3 build.py [ru|en].
 """
 import importlib.util, os, re, sys
@@ -29,6 +29,8 @@ XVIII в., в пятнадцати «волнах» (тарангах). В це�
 сканам, для таранг 1–9 сверенное с первым изданием (Берхампур, 1888); оба — общественное достояние. Издание
 Гаудия-миссии (1960) привлекалось только для сверки чтений; его примечания и переводы шлок не использовались.
 Переведён **только текст поэмы**.
+В приложении — стихотворное «Содержание книги» (গ্রন্থানুবাদ) со сведениями автора о себе: этот раздел есть
+только в издании Гаудия-миссии, в старых изданиях его нет.
 
 **Нумерация.** В старых изданиях двустишия не нумерованы, поэтому принята нумерация издания Гаудия-миссии
 (общепринятая система ссылок); двустишия, которых там нет, отмечены буквой (371a), пропуски оговорены в
@@ -64,6 +66,8 @@ wave), and quotes a great number of Sanskrit verses and songs.
 scans, collated for tarangas 1–9 with the first edition (Berhampur, 1888); both are in the public domain. The
 Gaudiya Mission edition (1960) was consulted only to check readings; its notes and translations of the Sanskrit
 verses were not used. **Only the poem itself** is translated.
+The appendix gives the verse "Contents of the Book" (Granthanuvada) with the author's account of himself: this
+section is found only in the Gaudiya Mission edition and is absent from the old editions.
 
 **Numbering.** The old editions do not number the couplets, so the numbering of the Gaudiya Mission edition (the
 customary system of reference) is followed; couplets absent there are marked with a letter (371a), and omissions
@@ -84,7 +88,7 @@ notes at the end of each taranga.
 def build(lang):
     m = META[lang]
     toc, body = [], []
-    for i in range(1, 16):
+    for i in range(1, 17):  # 16 — приложение «Содержание книги» (только изд. 1960)
         key = f'{i:02d}'
         path = os.path.join(HERE, lang, key + '.md')
         if not os.path.exists(path):

@@ -1,0 +1,90 @@
+# События, заведённые по «Бхакти-ратнакаре», тарангам 13–15 (формат — README.md, как events.yaml).
+# Новые события добавлять в конец.
+
+- id: ev-vira-hambira-yajigrama
+  title: "Вира Хамбир в Яджиграме: встреча с Нароттамой и Рамачандрой, прощание и раскаяние перед Нароттамой"
+  title_en: "Vira Hambira at Yajigrama: meeting Narottama and Ramachandra; farewell and repentance before Narottama"
+  period: P15
+  order: 95.86
+  date_conf: оценка
+  date_basis: "после обхода Навадвипы (БР 12–13)"
+  themes: [mercy, offense]
+  notes: "«Бхакти-ратнакара» 13.33–61, 123–143: царь приходит из Вишнупура, узнаёт Нароттаму по сиянию, Шриниваса вверяет его Рамачандре Кавирадже; при прощании царь молит Нароттаму простить похищение книг; царица наряжает жену Ачарьи. Ср. ev-ramachandra-instructs-vira-hambira («Карнананда» 4)."
+
+- id: ev-srinivasa-kheturi-pashanda-brahmana
+  title: "Шриниваса в Кхетури через Канчанагарию и Будхари; брахман-спорщик принимает прибежище"
+  title_en: "Srinivasa goes to Kheturi via Kanchanagaria and Budhari; a disputatious brahmana takes shelter"
+  period: P15
+  order: 95.88
+  date_conf: оценка
+  themes: [kirtan, mercy]
+  notes: "«Бхакти-ратнакара» 13.151–171: в Кхетури, увидев Шринивасу и Нароттаму в санкиртане, брахман из Бенгалии — пашанда и мирской человек — принимает прибежище у Шринивасы, и тот вверяет его Нароттаме."
+
+- id: ev-raghunandana-disappearance
+  title: "Сокрытие Рагхунанданы Тхакура в Шрикханде и праздник его ухода"
+  title_en: "The disappearance of Raghunandana Thakura at Shrikhanda and the festival of his departure"
+  period: P15
+  order: 95.89
+  date_conf: оценка
+  date_basis: "по порядку БР 13: после обхода Навадвипы, до второй женитьбы Шринивасы"
+  calendar: "шравана, светлая половина, 4-й лунный день"
+  themes: [departure, kirtan, festival]
+  notes: "«Бхакти-ратнакара» 13.144–197: Рагхунандана велит Шринивасе вернуться из Кхетури поскорее, предрекает ему долгую жизнь и сохранение дхармы Господа (шлока «Бхаджанамриты»), вверяет сына Канаи Гауранге и Мадана-гопалу, три дня в санкиртане и скрывается; празднество устраивает Канаи; танец юного Маданы, сына Канаи."
+
+- id: ev-parameshvari-atpur-gopinatha
+  title: "Парамешвари Дас по велению Джахнавы являет служение Радха-Гопинатхе в Тада-Атпуре"
+  title_en: "By Jahnava's order Parameshvari Dasa establishes the service of Radha-Gopinatha at Tada-Atpur"
+  period: P15
+  order: 95.93
+  date_conf: оценка
+  date_basis: "после установления Радхи у Гопинатхи во Вриндаване (БР 13.242–247)"
+  themes: [deities, festival]
+  notes: "«Бхакти-ратнакара» 13.243–247; Тада-Атпур — ныне Антпур (Хугли). Подробностей автор не даёт."
+
+- id: ev-govinda-asks-haridasa-pandita
+  title: "Говинда просит у Харидаса Пандита рис с молоком"
+  title_en: "Govinda asks Haridasa Pandita for rice with milk"
+  period: P15
+  order: 111.71
+  date_conf: оценка
+  date_basis: "время служения Харидаса Пандита Говинде (после Ананты Ачарьи)"
+  themes: [deities, prasada]
+  notes: "«Бхакти-ратнакара» 13.313–316 по «Садхана-дипике» Радха-Кришны Госвами (ученика Харидаса): Рупа по повелению Господа вверил служение Говинде Харидасу; подвластный его служению, Говинда просил у него рис с молоком."
+
+- id: ev-ramachandra-yajigrama-kumuda-vision
+  title: "Рамачандра Кавираджа в Яджиграме смеётся, созерцая игру Радхи и Кришны (лунный свет вместо кумуд)"
+  title_en: "Ramachandra Kaviraja at Yajigrama laughs, beholding the pastime of Radha and Krishna (moonlight taken for lilies)"
+  period: P15
+  order: 112.2
+  date_conf: оценка
+  calendar: "ночь полнолуния"
+  themes: [krishna-lila, revelation]
+  notes: "«Бхакти-ратнакара» 14.46–66: Шриниваса объясняет Драупади (Ишвари): Кришна по ошибке срывает лунный свет вместо кумуд, подруги смеются, и Рамачандра, находясь там вместе с Ачарьей (в духовном облике), смеётся."
+
+- id: ev-virachandra-rejects-jayagopala
+  title: "Вирачандра отвергает Джаягопалу из Кадары и извещает Шринивасу письмом"
+  title_en: "Virachandra rejects Jayagopala of Kadara and informs Srinivasa by letter"
+  period: P15
+  order: 112.6
+  date_conf: оценка
+  themes: [offense, teaching]
+  teaching: [vaishnava]
+  notes: "«Бхакти-ратнакара» 14.179–191: каястха Джаягопала, стыдясь неучёности своего гуру, называл гуру парама-гуру; Вирачандра отверг его и письмом (санскрит) запретил своим и Шринивасе общаться с ним. Кратко — «Према-виласа» 19 (pvl-0169, при событии ev-virachandra-heals-blind-ramai)."
+
+- id: ev-rasikananda-initiation
+  title: "Расикананда (Расика Мурари): голос с неба, сон о Шьямананде, встреча и посвящение"
+  title_en: "Rasikananda (Rasika Murari): a voice from the sky, a dream of Shyamananda, the meeting and initiation"
+  period: P15
+  order: 103.2
+  date_conf: оценка
+  themes: [mercy, celestial]
+  notes: "«Бхакти-ратнакара» 15.26–53: сын Ачьюты, правителя Раяни, живший в Гханташиле; «Расика-мангала» П14–П16, Д1 (Кришна является ему у Суварнарекхи; встреча в Гхантшиле; посвящение в доме Расики). Кратко — «Према-виласа» 19 (pvl-0143)."
+
+- id: ev-rasikananda-elephant
+  title: "Расикананда усмиряет слона и делает его учеником; правитель-явана склоняется"
+  title_en: "Rasikananda subdues an elephant and makes it his disciple; the Muslim ruler bows down"
+  period: P15
+  order: 103.4
+  date_conf: оценка
+  themes: [mercy, muslims]
+  notes: "«Бхакти-ратнакара» 15.84–85 (кратко: слона натравил злодей, царь-явана); «Расика-мангала» Пш8–Пш10 (бешеный слон в Банпуре, Ахмед Бег, имя слона «Гопала Дас»)."

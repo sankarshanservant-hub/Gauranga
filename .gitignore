@@ -8,3 +8,4 @@ site/assets/src/audio/
 
 # Natural Earth (25 МБ на весь мир) — скачивается заново, см. maps/README.md; в сайт идёт обрезанная подложка site/data/basemap.json
 maps/src/natural-earth/
+.claude/worktrees/

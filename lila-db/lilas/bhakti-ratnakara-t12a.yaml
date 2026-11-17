@@ -1,0 +1,1805 @@
+# «Бхакти-ратнакара», таранга 12, двустишия 1–2000.
+# Записи в порядке изложения; id brt-6001…brt-6999. Формат — lila-db/README.md.
+
+- id: brt-6001
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1–16"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.74
+  title: "Мангала двенадцатой таранги"
+  summary: "Слава Гаурачандре, Нитьянанде, Адвайте, Шривасе, Гададхаре и длинному ряду спутников Господа — от Нарахари и Мурари до Госвами Вриндавана, Шринивасы, Нароттамы, Рамачандры и Шьямананды; призыв к слушателям."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@shyamananda"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1", to: "16"}
+
+- id: brt-6002
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 17–26"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.75
+  title: "Шриниваса оставляет учеников в Яджиграме и через Шрикханду идёт в Навадвипу"
+  summary: "Когда Джахнава ушла в Кхардаху, Шриниваса посылает вести в Вишнупур, оставляет Шридаса, Гокулананду и других учеников изучать шастры в Яджиграме, обещая скоро вернуться к приезду царя Хамбира; в Шрикханде Рагхунандана наедине говорит с ним и неохотно отпускает; с Нароттамой и Рамачандрой Шриниваса в упоении премой идёт в Навадвипу."
+  persons: ["@srinivasa-acharya", "@shridasa-chakravarti", "@gokulananda", "@vira-hambira", "@raghunandana", "@narottama-dasa", "@ramachandra-kaviraja", "@jahnava"]
+  places: ["#yajigrama", "#vana-vishnupura", "#shrikhanda", "#navadvipa"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage, separation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "17", to: "26"}
+
+- id: brt-6003
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 27–82"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.751
+  title: "Шриниваса у границ Навадвипы; слава Навадвипы и её девяти островов"
+  summary: "Приближаясь, Шриниваса в слезах кланяется земле Навадвипы; автор по «Вишну-пуране», «Гаура-ганоддеша-дипике», «Бхагавате», «Чайтанья-бхагавате» и «Чайтанья-чарите» Мурари раскрывает смысл имени: девять островов (на востоке Ганги — Антардвипа, Симантадвипа, Годрумадвипа, Мадхьядвипа; на западе — Коладвипа, Ритудвипа, Джахнудвипа, Модадрумадвипа, Рудрадвипа) и девять видов бхакти; названия селений, как во Врадже при Ваджранабхе, со временем спутались; дхама вечна, то явлена, то сокрыта, сжимается и раскрывается, как лотос, и в ней втайне явлены лилы всех прежних воплощений."
+  persons: ["@srinivasa-acharya"]
+  places: ["#navadvipa", "#ganga"]
+  kind: teaching
+  authority: B
+  themes: [pilgrimage, teaching]
+  teaching: [gaura-tattva, scripture]
+  scriptures: ["Вишну-пурана 2.3.6–7", "Бхаг. 7.5.23–24", "Бхаг. 7.9.38", "ЧБ Ади 2", "Чайтанья-чандрамрита"]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "27", to: "82"}
+
+- id: brt-6004
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 83–133"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.752
+  title: "Майяпур — Йогапитха Навадвипы; старый брахман на дороге; Ишана в доме Мишры встречает Шринивасу"
+  summary: "Майяпур, где родился Гаурачандра, — Йогапитха Навадвипы; по дороге старый брахман, только что видевший Ишану, рассказывает о его служении Шачи и любви к Нимаю, скорбит о запустении Надии и, узнав Шринивасу, обнимает его; в доме Джаганнатхи Мишры Ишана, плачущий в уединении с возгласами «Вишвамбхара!», обнимает Шринивасу, Нароттаму и Рамачандру; Шриниваса просит показать места Навадвипы, как Рагхава показал Врадж; Ишана обещает утром повести их и знакомит с любимыми спутниками Господа."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@ishana-navadvipa", "@shachi", "@mahaprabhu", "@raghava-gosvami-govardhana"]
+  places: ["#mayapur", "#house-jagannatha-mishra"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (Нароттама у Ишаны в Навадвипе) — ev-narottama-gauda-pilgrimage"
+  notes: "Ишана говорит, что передал через Нароттаму просьбу прийти (12.127). Цитаты о нём — ЧБ (служил Аи) и «Вайшнава-вандана»."
+  themes: [separation, pilgrimage]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "83", to: "133"}
+
+- id: brt-6005
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 134–181"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.753
+  title: "Обход Навадвипы: Антардвипа (Атопур) — Брахме открыты сокровенные желания Господа"
+  summary: "Утром Ишана ведёт троих из Майяпура в Атопур — древнюю Антардвипу: Брахма, смущённый похищением телят и мальчиков, поклонялся здесь Господу, и Гаурачандра явился ему; Брахма просил родиться в низкой семье, избавиться от гордыни и не быть вновь введённым в заблуждение; Господь втайне (антар) открыл ему, что примет настроение преданного, вкусит прему Радхи и исполнит три Своих желания (ЧЧ Ади 1.6), — отсюда имя; Ишана указывает и на Суварна-вихару."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@brahma", "@mahaprabhu"]
+  places: ["#antardvipa", "#mayapur"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о событии до явления Господа; в базе — как часть обхода. Брахма просит родиться в низкой семье — по преданию, Харидас Тхакур (здесь не названо)."
+  themes: [pilgrimage, revelation, celestial]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  scriptures: ["ЧЧ Ади 1.6"]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "134", to: "181"}
+
+- id: brt-6006
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 182–237"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.754
+  title: "Симантадвипа (Сималия): Шива воспевает спутников Господа, Парвати получает даршан Гауры"
+  summary: "На Кайласе Шива в экстазе пятью устами поёт имена преданных всех воплощений, которые явятся в Надии, и открывает Парвати, что Кришна придёт из лона Шачи в сиянии Радхи и раздаст прему; Парвати приходит в Навадвипу, поклоняется Господу, и Он является ей; она просит снять её оскорбление преданному и даровать милость; Господь обещает, и она наносит пыль с Его стоп на пробор (симанта), — отсюда имя; здесь бывали нагара-киртаны Господа."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@shiva", "@parvati", "@mahaprabhu"]
+  places: ["#simantadvipa", "#kailasa"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о событии до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  teaching: [gaura-tattva]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "182", to: "237"}
+
+- id: brt-6007
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 238–269"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.755
+  title: "Годрумадвипа (Гадигачха): Индра и корова Сурабхи созерцают Гауру"
+  summary: "Индра, всё ещё сокрушаясь об оскорблении во Врадже, спрашивает Сурабхи; та велит ему ждать скорого нисхождения Кришны как Гауранги; у подножия высокой ашваттхи Сурабхи поклоняется Господу, и Он является ей, обещая показать Свои игры в Надии; Индра приходит, и Вишвамбхара утешает его; отсюда имена Годрума и Гадигачха; здесь — игры Гауранги."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@indra", "@surabhi", "@mahaprabhu"]
+  places: ["#gadigachha"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о событии до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "238", to: "269"}
+
+- id: brt-6008
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 270–371"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.756
+  title: "Мадхьядвипа: Маджита и семь риши, Брахмана-пушкара, Уччахатта"
+  summary: "В Маджите (Мадхьядвипе) семь риши, восхваляя Навадвипу, поклоняются Господу, и в полдень Он является им, подобный полуденному солнцу, велит хранить Его игры в тайне; они селятся у Ганги близ Кумарахатты; в Вамана-паукхере (Брахмана-пушкаре) старому брахману, тоскующему по далёкой Пушкаре, тиртха является прудом и открывает, что в Навадвипе пребывают все тиртхи и вечно — Гаурачандра; в Хатаданге (Уччахатте) боги, собравшись как на рынке, мечтают родиться в Надии и танцуют, воспевая имена Господа."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@indra"]
+  places: ["#madhyadvipa", "#kumarahatta"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "270", to: "371"}
+
+- id: brt-6009
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 372–448"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.757
+  title: "Коладвипа (Кулия-Пахарпур) и Самудрагархи: Кола-дева, Ганга и Океан"
+  summary: "Брахману-почитателю Кола-девы Господь является Варахой величиной с гору (отсюда Коладвипа, именуемая Парвата) и обещает, что он увидит Его игры в Навадвипе; брахман по шастрам понимает, что Он придёт в Кали золотистым; в Самудрагархи Океан говорит Ганге о будущих играх Гауры на её берегах, а Ганга скорбит, что Господь уйдёт в Нилачалу к Океану; при явлении Господа Океан, приходя по Ганге, видит Гаурахари на троне с Нитьянандой, Гададхарой и спутниками, — отсюда Самудра-гати."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@varaha", "@ratnakara", "@ganga-devi", "@mahaprabhu", "@nityananda", "@gadadhara-pandita"]
+  places: ["#kulia", "#ganga"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до и во время явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  bhava: [varaha, aishvarya]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "372", to: "448"}
+
+- id: brt-6010
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 449–497"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.758
+  title: "Ритудвипа: Чампахатта, брахман с цветами чампаки, дом Ванинатхи; Ратупур и шесть времён года"
+  summary: "Чампака-хатта названа по рынку цветов чампы: старый брахман, медитируя на тёмного Кришну с цветами чампаки, увидел облик Гауры, подобный груде чампы, и во сне получил даршан Гаурахари; Ишана показывает дом брахмана Ванинатхи, дорогого Господу (ГГД); в Ратупуре (Ритудвипе) шесть времён года во главе с весной беседуют о нисхождении Гауры и поклоняются Ему."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vaninatha-gadadhara"]
+  places: ["#champahatti", "#ritudvipa"]
+  kind: lila
+  authority: B
+  notes: "Ванинатха из Чампахатты — по ГГД; в базе отождествлён с @vaninatha-gadadhara (братом Гададхары) по преданию (см. PERSONS.md)."
+  themes: [pilgrimage, revelation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "449", to: "497"}
+
+- id: brt-6011
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 498–548"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.759
+  title: "Видьянагар и Джахнудвипа: Брихаспати распространяет знание, Джахну Муни видит Кришну-санньяси"
+  summary: "Брихаспати, узнав, что Господь будет вести игру учёности в Надии, по Его повелению поселился в Видьянагаре и распространял там знание; в Джаннагаре (Джахнудвипе) Джахну Муни в медитации видит смуглого Кришну с флейтой, затем — юного золотого санньяси в каупине цвета зари; Господь обнимает его и скрывается."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@brihaspati", "@jahnu-muni", "@mahaprabhu", "@krishna"]
+  places: ["#vidyanagara-bengal", "#jahnudvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа."
+  themes: [pilgrimage, revelation, learning]
+  bhava: [sannyasi]
+  scriptures: ["ЧБ Ади"]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "498", to: "548"}
+
+- id: brt-6012
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 549–598"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.76
+  title: "Модадрумадвипа (Маугачхи, Рамават): Рама открывает Сите будущие игры Гауры"
+  summary: "Во время изгнания Рама с Ситой и Лакшманой жил здесь под огромным баньяном; Он открывает Сите, что в начале Кали родится брахманом золотого цвета, станет учёным, совершит пинду в Гае, умножит радость преданных и примет санньясу; Сита, закрыв глаза, видит пение и танец Гауры среди спутников; Лакшмана тоже узнаёт это; от радости (мода) — имя Модадрумадвипа; Ишана указывает путь Рамы в Уткалу к Сварнарекхе."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@rama", "@sita-devi", "@lakshmana", "@mahaprabhu"]
+  places: ["#modadrumadvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о Рама-лиле, связанной с Гаурой; Рама — источник пророчества."
+  themes: [pilgrimage, revelation]
+  bhava: [rama]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "549", to: "598"}
+
+- id: brt-6013
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 599–624"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 1.5
+  title: "Брахман из Маугачхи, почитатель Рамы, в час явления Господа узнаёт в Нём Раму"
+  summary: "Брахман-почитатель Рамы был в доме Мишры в миг явления: слыша клики богов, он понял, что Мишра — Дашаратха, а Шачи — Каушалья; дома, медитируя на Раму, он видит золотой облик сына Мишры, во сне — Гаурачандру, затем Раму с луком, Хануманом перед Ним; Господь велит хранить тайну; перед уходом старец поведал это Ишане; здесь Гаурачандра со спутниками являл игры Рамы — Ишана видел это сам."
+  persons: ["@ishana-navadvipa", "@mahaprabhu", "@jagannatha-mishra", "@shachi", "@rama", "@hanuman"]
+  places: ["#modadrumadvipa", "#house-jagannatha-mishra"]
+  kind: vision
+  authority: B
+  notes: "Рассказ Ишаны (со слов самого брахмана); известно, по-видимому, только по БР."
+  themes: [revelation, mercy]
+  bhava: [rama]
+  event: ev-rama-worshipper-sees-newborn-as-rama
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "599", to: "624"}
+
+- id: brt-6014
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 625–673, 697–750"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.761
+  title: "Вайкунтхапур и Матапур (Махатпур): Нарада видит Нараяну и Гауру; Пандавы и сон Юдхиштхиры"
+  summary: "Нарада, видевший, как Владыка Вайкунтхи радуется о Навадвипе, приходит к Шиве, затем в Двараке Кришна являет ему облик Гауры и велит возвестить о Его приходе; Нарада получает здесь даршан Гаурачандры (Нараяна-питха, Вайкунтхапур); в Махатпуре Пандавы в изгнании: Юдхиштхире в Экачакре во сне Баларама открывает, что Экачакра — место Его игр, а в Навадвипе Кришна и Баладева обещают играть с ними в Кали-югу; пять баньянов и Юдхиштхира-веди; Пандавы уходят в Уткалу, где Бхима убивает ракшаса и остаётся Божество Мадхавы."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narada", "@shiva", "@narayana", "@krishna", "@rukmini", "@mahaprabhu", "@yudhishthira", "@arjuna", "@balarama"]
+  places: ["#jahnudvipa", "#vaikuntha", "#kailasa", "#dvaraka", "#ekachakra"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа. Названия «Вайкунтхапур», «Матапур (Махатпур)» — по тексту; к какому из девяти островов они относятся, Ишана не говорит (тег #jahnudvipa — по соседству в рассказе, условно)."
+  themes: [pilgrimage, revelation, celestial]
+  bhava: [aishvarya]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "625", to: "673"}
+    - {file: "bhakti-ratnakara/ru/12.md", from: "697", to: "750"}
+
+- id: brt-6015
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 674–696"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 25.5
+  title: "Старый брахман из Вайкунтхапура видит Гауру с Лакшми в великолепии Вайкунтхи"
+  summary: "Старый учёный брахман, почитатель Лакшми-Нараяны, которого Валлабха Мишра чтил как гуру, был на свадьбе Лакшмиприи и, увидев Лакшми и Вишвамбхару, заплакал от блаженства; в своей ветхой хижине он молит Гаурачандру о милости, и в ней открывается великолепие Вайкунтхи: Гаура с Лакшми на драгоценном троне, затем Господь становится четырёхруким; Он называет брахмана Своим слугой из рождения в рождение, велит молчать и возлагает стопы ему на голову."
+  persons: ["@ishana-navadvipa", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: B
+  notes: "Рассказ Ишаны; известно, по-видимому, только по БР."
+  themes: [revelation, family]
+  bhava: [aishvarya, shakti]
+  event: ev-brahmana-sees-lakshmi-narayana-wedding
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "674", to: "696"}
+
+- id: brt-6016
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 751–808"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.762
+  title: "Рудрадвипа (Рахупур), Бильвапакша (Белпаукхера), Бхарадваджа-тила"
+  summary: "В Рахупуре Рудра со спутниками ещё до рождения Господа танцует, воспевая Его, и Гаурасундара, явившись незримо для других, обнимает его; в Белпаукхере у Божества пятиликого Шивы брахманы-подвижники полмесяца поклонялись листьями бильвы, и Шива обещал, что они родятся в Надии, будут учиться у Господа и служить Ему (Бильвапакша); на холме у Чакды мудрец Бхарадваджа, покорив Гаурахари премой, получил Его даршан."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@shiva", "@bharadvaja-muni", "@mahaprabhu"]
+  places: ["#rudradvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "751", to: "808"}
+
+- id: brt-6017
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 809–850"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.763
+  title: "Суварна-вихара: царь видит во сне золотого Гауру; возвращение в Майяпур"
+  summary: "Вайшнав, великая душа, рассказывает царю этих мест о золотом воплощении Кали и санкиртане в Навадвипе; царь раскаивается в поглощённости царскими делами, небесный голос обещает ему увидеть игры, и во сне он видит танец Вишвамбхары среди тысяч преданных; позже здесь Гаурахари танцевал с преданными, и люди дивились золотому сиянию — отсюда Суварна-вихара; Ишана с тремя спутниками возвращается в Майяпур, в дом Мишры."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@mahaprabhu"]
+  places: ["#antardvipa", "#mayapur", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage, kirtan, revelation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "809", to: "850"}
+
+
+- id: brt-6018
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 851–869"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 20
+  title: "Дом Мишры — Махайогапитха; свадьба Джаганнатхи и Шачи; восемь дочерей и рождение Вишварупы"
+  summary: "Войдя в дом Мишры, Ишана говорит Шринивасе, что это Махайогапитха, где сын Упендры с Шачи поклонялся Вишну в вишну-мандапе; Ниламбара Чакраварти отдал Шачи за Мишру; восемь дочерей ушли одна за другой, затем родился Вишварупа, постигший Веды и ньяю и всегда погружённый в Хари (цитата из «Чайтанья-чариты» Мурари, первая пракрама)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@jagannatha-mishra", "@shachi", "@nilambara-chakravarti", "@vishvarupa", "@upendra-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Ади 2.136–143; ЧЧ Ади 13"
+  notes: "С этого места до конца отрывка Ишана рассказывает о лилах Господа, показывая места в доме Мишры и вокруг («здесь…»); рассказ перемежается песнями-падами (Васудева Гхош, Нарахари и др.). Свадьба Джаганнатхи и Шачи — ev-jagannatha-mishra-marries-shachi (упоминание)."
+  themes: ["family"]
+  scriptures: ["Мурари, «Кришна-чайтанья-чарита», 1-я пракрама"]
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "851", to: "869"}
+
+- id: brt-6019
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 870–879"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 55
+  title: "Адвайта призывает Господа; Гаура в лоне Шачи; Адвайта почитает лоно; тринадцать месяцев"
+  summary: "Адвайта поклоняется Господу водой Ганги и туласи с громовыми возгласами, и Гаурачандра избирает прибежищем лоно Шачи; на шестом месяце Адвайта приходит в дом Мишры, почитает лоно Шачи сандалом и благовониями и обходит её кругом; Брахма и другие возносят хвалы; Господь пробыл в лоне тринадцать месяцев."
+  persons: ["@advaita", "@shachi", "@jagannatha-mishra", "@mahaprabhu", "@brahma"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "«Чайтанья-мангала» Лочана Даса (почитание лона); «Кришна-чайтанья-чаритамрита-махакавья» Кави Карнапуры 2.24 (цит.)"
+  notes: "Также ev-advaita-calls-lord (871), ev-gods-praise-lord-in-womb (877), ev-thirteen-months-in-womb (878)."
+  themes: ["revelation", "family", "celestial"]
+  scriptures: ["Карнапура, «Кришна-чайтанья-чаритамрита-махакавья» 2.24"]
+  event: ev-advaita-worships-shachi-womb
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "870", to: "879"}
+
+- id: brt-6020
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 880–943"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 70
+  title: "Явление Господа: Шака 1407, полнолуние Пхалгуны, лунное затмение и всеобщее пение имени; песни о рождении"
+  summary: "В 1407 году Шака, в полнолуние Пхалгуны, при накшатре Пхалгуни, во время лунного затмения Вишвамбхара нисходит из лона Шачи; под предлогом затмения все, даже яваны, поют имя Хари; в доме Мишры океан блаженства: Джаганнатха раздаёт дары, Адвайта ревёт от радости, боги осыпают цветами, Сита-деви входит в родильный покой, пастухи пляшут; приводятся песни Васудевы Гхоша и Нарахари о рождении."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@advaita", "@sita-thakurani", "@vasu-ghosha", "@narahari-chakravarti", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Также ev-advent-eclipse-devotees-rejoice, ev-advaita-proclaims-advent, ev-sita-visits-newborn (939). Цитаты: «Кришна-чайтанья-чарита» Мурари, «Прабхаса-кханда»."
+  cc: "Ади 13"
+  cb: "Ади 2–3"
+  themes: ["revelation", "festival", "kirtan"]
+  scriptures: ["«Прабхаса-кханда»", "Мурари, «Кришна-чайтанья-чарита», 1-я пракрама"]
+  event: ev-gaura-appearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "880", to: "943"}
+
+- id: brt-6021
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 944–947"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 5
+  title: "Восьмой день (аткауре), уттхана; знаки на стопах младенца"
+  summary: "Здесь на восьмой день раздавали восемь видов бобов, и двор заполнили дети; боги приходят видеть игры Господа; мать и отец видят на стопах Вишвамбхары разные знаки; женщины совершают благие обряды на празднике уттханы."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Знаки на стопах — ср. ev-footprints-gopala."
+  themes: ["festival", "family"]
+  event: ev-birth-festival-nimai-name
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "944", to: "947"}
+
+- id: brt-6022
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 948–952"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 12
+  title: "Под предлогом плача Младенец заставляет всех петь «Харибол»; таинственные проделки"
+  summary: "Вишвамбхара плачет, пока все не скажут «Харибол»; в четыре месяца, оставшись один, Он переставляет в доме припасы, а вернувшаяся Шачи находит Его спящим и гадает, кто это сделал."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["kirtan", "pranks"]
+  bhava: ["child"]
+  teaching: ["holy-name"]
+  event: ev-crying-stops-at-holy-name
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "948", to: "952"}
+
+- id: brt-6023
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 953–964"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 20
+  title: "Аннапрашана в шесть месяцев; имена Нимай и Вишвамбхара; Шачи лелеет младенца"
+  summary: "В шесть месяцев при аннапрашане было наречение имени — Нимай и Вишвамбхара (по народному обычаю); песня о ликовании Надии, младенец на коленях Ниламбары; Шачи подводит Ему глаза каджалом, кормит и поёт колыбельные."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@nilambara-chakravarti"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Колыбельная — также ev-shachi-lullaby."
+  themes: ["family", "festival"]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "953", to: "964"}
+
+- id: brt-6024
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 965–981"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 10
+  title: "Младенец ползает по двору; Мишра наряжает Его; «где глазки, носик?»"
+  summary: "Песни о ползающем Нимае: Джаганнатха Мишра убирает Ему волосы украшениями, Нимай сползает с колен отца и ползёт по двору, оглядываясь; мать зовёт Его, Он забирается к ней на колени; на вопрос матери Он показывает пальчиком глазки, носик и ротик."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family"]
+  bhava: ["child"]
+  event: ev-infant-with-shachi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "965", to: "981"}
+
+- id: brt-6025
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 982–985"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 32
+  title: "Младенец ложится на кольца змея; Вишварупа отряхивает пыль"
+  summary: "Ползая, Нимай доставил радость змею, улегшись на его кольцах; все в страхе вскрикнули — ради этого Ананта-дева и приходит этим путём; Вишварупа берёт брата на колени и отряхивает пыль."
+  persons: ["@mahaprabhu", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  cb: "Ади 4.63–76"
+  themes: ["revelation"]
+  bhava: ["child"]
+  event: ev-child-lies-on-snake
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "982", to: "985"}
+
+- id: brt-6026
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 986–999"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 30
+  title: "Первые шаги Вишвамбхары"
+  summary: "Когда Он начал ходить, во дворе была высшая радость; касание Его стоп снимает страдание земли (цитата из «Чайтанья-чариты» Мурари); песня: Шачи зовёт, Он встаёт, делает шаги, падает и, забравшись на колени, сосёт грудь; Вишвамбхара растёт по Своей воле."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family"]
+  bhava: ["child"]
+  scriptures: ["Мурари, «Кришна-чайтанья-чарита», 1-я пракрама"]
+  event: ev-first-steps
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "986", to: "999"}
+
+- id: brt-6027
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1000–1017"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 95
+  title: "Женщины на рассвете приходят к Нимаю и заставляют Его плясать под «Хари бол»; наказы матери"
+  summary: "Едва рассветает, женщины Навадвипы с подношениями приходят в дом Шачи взять Нимая на колени; хлопая в ладоши, они заставляют Его плясать, и Он, глядя на мать, приговаривает «Хари бол»; песня-наказ Шачи: играй с детьми, не уходи с глаз."
+  persons: ["@mahaprabhu", "@shachi", "@narahari-chakravarti"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["kirtan", "family"]
+  bhava: ["child"]
+  teaching: ["holy-name"]
+  event: ev-child-kirtan
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1000", to: "1017"}
+
+- id: brt-6028
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1018–1019"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 2
+  title: "Вишвамбхара мажется пылью и ест землю"
+  summary: "Вишвамбхара мажет тело пылью, и мать смеётся; чтобы кое-что сказать матери, Он отказывается от сандеша и ест землю."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "teaching"]
+  bhava: ["child"]
+  event: ev-eating-clay
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1018", to: "1019"}
+
+- id: brt-6029
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1020–1024"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 34
+  title: "Шачи рассказывает о Кришне и Камсе; Младенец в гневе: «Кто остался — уничтожу!»"
+  summary: "Укладывая сына, Шачи рассказывает истории из Пуран; Вишвамбхара отзывается хункарой; когда она говорит, как Кришна в Матхуре сбросил Камсу с помоста и убил его, Господь в гневе повторяет: «А кто ещё остался — того Я уничтожу!»"
+  persons: ["@mahaprabhu", "@shachi", "@krishna", "@kamsa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Известно, по-видимому, только по БР."
+  themes: ["revelation", "krishna-lila"]
+  bhava: ["child", "krishna"]
+  event: ev-infant-anger-kamsa-story
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1020", to: "1024"}
+
+- id: brt-6030
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1025–1027"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 34.5
+  title: "Во сне Младенец успокаивает Шиву и Брахму: «Опьяню живых существ санкиртаной»"
+  summary: "Лёжа в доме, Господь во сне говорит Шиве, Брахме и другим: «Не тревожьтесь: избавив живых существ, Я опьяню их санкиртаной»; мать в тревоге приговаривает «тьфу-тьфу»."
+  persons: ["@mahaprabhu", "@shachi", "@shiva", "@brahma"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Известно, по-видимому, только по БР."
+  themes: ["revelation", "celestial"]
+  bhava: ["child", "aishvarya"]
+  teaching: ["yuga-dharma"]
+  event: ev-infant-sleep-talk-gods
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1025", to: "1027"}
+
+- id: brt-6031
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1028–1033"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 40
+  title: "Боги толпой в доме Мишры; звон нупуров"
+  summary: "Шачи видит в доме великую толпу богов — Четырёхликого, Пятиликого и прочих — и в страхе отсылает сына к отцу; родители слышат звон ножных браслетов и на рассвете совершают благие обряды."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@brahma", "@shiva"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["celestial", "revelation"]
+  bhava: ["child"]
+  event: ev-gods-worship-infant-anklets
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1028", to: "1033"}
+
+- id: brt-6032
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1034–1056"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 92
+  title: "Вишвамбхара пляшет среди детей во дворе (песни Васудевы Гхоша и др.)"
+  summary: "Вишвамбхара пляшет среди нагих мальчиков во дворе Шачи; песни: Он прячется, закрыв лицо тканью, держится за край одежды матери, в яркой шапочке и с бубенцами на поясе пляшет, лепеча «Хари»."
+  persons: ["@mahaprabhu", "@shachi", "@vasu-ghosha"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "kirtan"]
+  bhava: ["child"]
+  event: ev-childhood-companions
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1034", to: "1056"}
+
+- id: brt-6033
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1057–1067"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 30
+  title: "Господь бродит по нечистым местам, играет в обезьян, сидит на выброшенных горшках"
+  summary: "Держась за край одежды матери, Он ходит повсюду, бродит по чистым и нечистым местам; играет в обезьян на берегу Ганги, разбрасывает вещи в доме, убегает от Шачи с палкой — люди говорят: «Совсем как Яшода»; сидит, весь в саже, на выброшенных горшках и не слушает слов о чистом и нечистом."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "teaching"]
+  bhava: ["child"]
+  teaching: ["purity"]
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1057", to: "1067"}
+
+- id: brt-6034
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1068–1069"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 50
+  title: "Кирпич, брошенный в мать, и кокос"
+  summary: "В гневе Нимай грозит матери кирпичом; Шачи лежит без чувств среди женщин, и Нимай приносит кокосовый орех."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "family"]
+  bhava: ["child"]
+  event: ev-brick-two-coconuts
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1068", to: "1069"}
+
+- id: brt-6035
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1070–1072"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 70
+  title: "Нимай и щенок"
+  summary: "Нимай играет со щенком и держит его на приступке дома; Шачи хитростью отпускает щенка, а Нимай плача бранит мать, и она утешает Его."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "mercy"]
+  bhava: ["child"]
+  event: ev-puppy-deliverance
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1070", to: "1072"}
+
+- id: brt-6036
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1073–1076"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 80
+  title: "Нимай съедает подношение Шаштхи; Шачи просит благословений у старших женщин"
+  summary: "Шачи идёт к баньяну поклоняться Шаштхи, а Вишвамбхара, не слушая запретов, съедает припасы для пуджи; Шачи, касаясь стоп пожилых женщин, просит благополучия для Нимая; женщины учат Его."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "festival"]
+  bhava: ["child"]
+  event: ev-shashthi-offering-eaten
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1073", to: "1076"}
+
+- id: brt-6037
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1077–1080"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 3
+  title: "Воры уносят нарядного Вишвамбхару"
+  summary: "Двое воров, позарившись на украшения, уносят Вишвамбхару на плечах, плутают по Надии и, бережно спустив Его здесь, убегают; никто не заметил этой забавы."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "mercy"]
+  bhava: ["child"]
+  event: ev-thieves-carry-off-nimai
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1077", to: "1080"}
+
+- id: brt-6038
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1081–1083"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 15
+  title: "Проказы Нимая в домах Надии"
+  summary: "Нимай заходит в чужие дома, доводит детей до слёз и разбивает горшки с йогуртом и молоком; соседи радостно приходят с жалобами, как гопи к Яшоде."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: ["pranks"]
+  bhava: ["child"]
+  event: ev-nimai-pranks-neighbours
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1081", to: "1083"}
+
+- id: brt-6039
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1084–1110"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 5
+  title: "Брахман-паломник: Дитя трижды съедает его подношение; видение восьмирукого облика"
+  summary: "В доме Мишры, славном гостеприимством, останавливается учёный брахман-тайртхика, почитатель Бала-гопалы с шестисложной мантрой; трижды, когда он предлагает Кришне пищу, Вишвамбхара приходит и ест её (третий раз — по просьбе Вишварупы); ночью Господь являет ему восьмирукий облик — с раковиной и диском, с маслом и флейтой — и Вриндаван с коровами, пастухами и гопи, велит молчать; брахман остаётся в Надии, тайно созерцая игры Господа."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  cb: "Ади 5.16–166"
+  themes: ["revelation", "mercy", "prasada"]
+  bhava: ["child", "aishvarya", "krishna"]
+  event: ev-tirthika-brahmana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1084", to: "1110"}
+
+- id: brt-6040
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1111–1115"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 81
+  title: "В экадаши Младенец плачет, пока не получит подношение Вишну у Джагадиши и Хираньи"
+  summary: "Сын Мишры безутешно плачет, желая кушаний, приготовленных Джагадишей и Хираньей для Вишну в экадаши; они приносят их ещё до подношения, и Он, вкусив, перестаёт плакать; Ишана показывает их дом — они дружили с Мишрой."
+  persons: ["@mahaprabhu", "@jagadisha-pandita", "@hiranya-pandita", "@jagannatha-mishra", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["prasada", "mercy"]
+  bhava: ["child"]
+  event: ev-jagadisha-hiranya-ekadashi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1111", to: "1115"}
+
+- id: brt-6041
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1116–1118"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 60
+  title: "Нимай просит поймать луну и птицу"
+  summary: "Если не давали желаемого, случалась беда: глядя в небо, Нимай просит мать поймать Ему луну, а увидев летящую птицу, плачет: «Поймай её и дай Мне»."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks"]
+  bhava: ["child"]
+  event: ev-nimai-asks-for-moon
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1116", to: "1118"}
+
+- id: brt-6042
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1119–1120"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 22
+  title: "Девочки и брахманы жалуются на проказы Нимая"
+  summary: "Девочки приходят рассказать Шачи о проказах Нимая, а благочестивые брахманы — Мишре."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks"]
+  event: ev-ganga-ghat-pranks
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1119", to: "1120"}
+
+- id: brt-6043
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1121–1124"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 8
+  title: "Нимай зовёт Вишварупу из собрания Адвайты; Ишана подаёт трапезу братьям"
+  summary: "Шачи посылает Вишвамбхару за Вишварупой в собрание Адвайты; держась за край одежды старшего брата, Он, очаровывая всех, приводит его домой; Ишана тотчас приготовил место, и братья сели за трапезу."
+  persons: ["@mahaprabhu", "@vishvarupa", "@advaita", "@shachi", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra", "#advaita-bhavana"]
+  kind: lila
+  authority: B
+  notes: "Свидетельство самого Ишаны (служил трапезе)."
+  themes: ["family"]
+  event: ev-nimai-in-advaita-assembly
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1121", to: "1124"}
+
+- id: brt-6044
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1125–1129"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 90
+  title: "Родители вразумляют Нимая за проделку с тарелкой Мурари Гупты"
+  summary: "Шачи и Мишра выговаривают сыну: во время трапезы Он справил малую нужду в тарелку Мурари Гупты, почитаемого, как риши; Мурари, будучи мудр, не счёл это виной."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@murari-gupta"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "«Чайтанья-мангала» Лочана Даса (lcm: Нимай передразнивает Мурари и обещает «узнаешь в час трапезы»)"
+  notes: "Насмешка над йогой Мурари здесь не упомянута — только последствие."
+  themes: ["pranks"]
+  bhava: ["child"]
+  event: ev-murari-yoga-mockery
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1125", to: "1129"}
+
+- id: brt-6045
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1130–1136"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 20
+  title: "Начало учения (хатэ-кхади); Мишра сам учит сына"
+  summary: "В благоприятный миг Мишра вкладывает в руку сына мел и пишет «ка, кха, га, гха» — Нимайчанд тотчас их произносит; в пору пауганды Он погружён в учение, и Джаганнатха Мишра сам даёт Ему уроки по книге."
+  persons: ["@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["learning"]
+  event: ev-hate-khadi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1130", to: "1136"}
+
+- id: brt-6046
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1137–1138"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 50
+  title: "Вишвамбхара велит матери соблюдать экадаши"
+  summary: "Вишвамбхара просит матушку Шачи соблюдать экадаши, и она с радостью соблюдает этот обет превыше всего."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["teaching", "festival"]
+  teaching: ["purity"]
+  event: ev-ekadashi-instruction-shachi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1137", to: "1138"}
+
+- id: brt-6047
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1139–1152"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 10
+  title: "Санньяса Вишварупы (Шанкараранья); плач семьи; Вишвамбхара утешает родителей"
+  summary: "Когда Мишра задумал женить Вишварупу, тот, видя бренность всего, принял санньясу ради Кришны под именем Шанкараранья и ушёл по тиртхам; Вишварупа — часть Баладевы, шестнадцати лет (цитата из «Чайтанья-чариты»); Вишвамбхара катается в пыли от разлуки, Шачи и Мишра плачут; Он утешает их: санньяса брата спасёт оба рода, а Он будет служить им."
+  persons: ["@vishvarupa", "@mahaprabhu", "@shachi", "@jagannatha-mishra", "@shankararanya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["sannyasa", "separation", "family"]
+  scriptures: ["Мурари, «Кришна-чайтанья-чарита», 1-я пракрама"]
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1139", to: "1152"}
+
+- id: brt-6048
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1153–1166"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 25
+  title: "Чуда-карма и прокалывание ушей; цирюльник видит чудо"
+  summary: "После санньясы Вишварупы непоседливость Нимая проходит; Мишра и Шачи по ведическому порядку совершают чуда-карму; в песне: брахманы читают Веды, музыканты играют; цирюльник, ещё не проколов уха, видит в нём [дивное] и по воле Господа молчит — автор ссылается на «Сандарбхи» Дживы."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@narahari-chakravarti", "@jiva-gosvami"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Деталь о цирюльнике — по-видимому, только БР (12.1160–1161)."
+  themes: ["festival", "family", "revelation"]
+  event: ev-chudakarana-karnavedha
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1153", to: "1166"}
+
+- id: brt-6049
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1167–1196"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 40
+  title: "Игры за домом; упанаяна Вишвамбхары в настроении Ваманы"
+  summary: "Нимай играет со сверстниками за домом, женщины на дороге любуются Им; Мишра назначает день и созывает родных для священного шнура; песни (в т. ч. Гханашьямы-Нарахари): обритая голова, красная ткань, посох и сума, Он в настроении Ваманы просит подаяние, жёны богов, смешавшись с людьми, подают Ему."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi", "@narahari-chakravarti"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["festival", "family"]
+  bhava: ["aishvarya"]
+  event: ev-upanayana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1167", to: "1196"}
+
+- id: brt-6050
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1197–1200"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 70
+  title: "Мишра отдаёт сына учиться к Гангадасу Пандиту"
+  summary: "Вишвамбхара всем сердцем рвётся учиться; Мишра отводит Его к Гангадасу Пандиту, тот учит Его грамматике, и Он день ото дня поражает всю Надию."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@gangadasa-pandita"]
+  places: ["#house-gangadasa"]
+  kind: lila
+  authority: B
+  themes: ["learning"]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1197", to: "1200"}
+
+- id: brt-6051
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1201–1203"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 55
+  title: "Обморок после бетеля; рассказ о Вишварупе"
+  summary: "Поев тамбулы, Господь внезапно лишается чувств; придя в себя, Он утешает родителей и много говорит о Вишварупе."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["revelation", "family"]
+  event: ev-betel-swoon-vishvarupa-message
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1201", to: "1203"}
+
+- id: brt-6052
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1204–1209"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 35
+  title: "Мишре снится, что Вишвамбхара принял санньясу"
+  summary: "Джаганнатха Мишра видит во сне сына санньяси, молит богов и говорит Шачи: «Мой Нимай не останется дома»; Шачи уверяет, что Нимай, кроме учёбы, ничего не любит и будет служить им, но Мишра не может забыть сон."
+  persons: ["@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family", "sannyasa"]
+  event: ev-jagannatha-mishra-dream
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1204", to: "1209"}
+
+- id: brt-6053
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1210–1217"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 60
+  title: "Уход Джаганнатхи Мишры; Вишвамбхара утешает мать"
+  summary: "Мишра в тоске говорит: «Сын покинет дом», — и у него открывается лихорадка; рассказ о его уходе разрывает сердце; Шачи и сын плачут, жители Навадвипы их утешают, Вишвамбхара утешает мать, для которой нет никого, кроме Него."
+  persons: ["@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["departure", "family", "separation"]
+  event: ev-jagannatha-mishra-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1210", to: "1217"}
+
+- id: brt-6054
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1218–1222"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 62
+  title: "Гнев Нимая из-за промедления с гирляндой для омовения"
+  summary: "Собираясь в Гангу, Нимай просит у матери гирлянды; из-за задержки в гневе крушит всё в доме и засыпает во дворе; проснувшись, получает гирлянды, омывается и радостно возвращается."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["pranks", "family"]
+  event: ev-nimai-anger-garland
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1218", to: "1222"}
+
+- id: brt-6055
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1223–1225"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P04
+  order: 63
+  title: "Нимай втайне приносит матери две толы золота"
+  summary: "Когда Шачи говорит, что в доме нет еды, Господь радостно приносит и отдаёт ей втайне две толы золота; мать тревожится, не понимая этой забавы."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family", "revelation"]
+  event: ev-nimai-brings-gold
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1223", to: "1225"}
+
+- id: brt-6056
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1226–1236"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 10
+  title: "Шачи думает о женитьбе сына; первая встреча с Лакшми у Ганги"
+  summary: "Пауганда кончается, наступает кайшора; Шачи думает о женитьбе сына, и у Господа возникает желание жениться ради её радости; идя к Ганге, Он встречает пришедшую омыться Лакшми-деви — песня о взглядах уголками глаз; Господь говорит Ишане: «Будет то, что у тебя на уме»."
+  persons: ["@mahaprabhu", "@shachi", "@lakshmipriya", "@narahari-chakravarti", "@ishana-navadvipa"]
+  places: ["#ganga", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family"]
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1226", to: "1236"}
+
+
+- id: brt-6057
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1237–1243"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 15
+  title: "Сватовство Ванамали Ачарьи; приготовления к свадьбе с Лакшми"
+  summary: "Ванамали Ачарья заводит с Шачи речь о Лакшми, дочери Валлабхи Ачарьи; мать говорит сыну о свадьбе, всё быстро приготовлено; разговоры о свадьбе в каждом доме Навадвипы; все преданные всех воплощений собрались в Надии, но по воле Господа не знают самих себя."
+  persons: ["@vanamali-acharya", "@shachi", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family"]
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1237", to: "1243"}
+
+- id: brt-6058
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1244–1359"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 25
+  title: "Свадьба с Лакшмиприей (песни Нарахари): адхивасы, женские обряды, шествие к дому Валлабхи"
+  summary: "Цикл песен: вся Надия спешит на свадьбу, женщины хвалят Валлабху Ачарью и свата; адхиваса в доме Шачи и в доме Валлабхи, омовение и наряд жениха, женские обряды; в благой час Гора с музыкой идёт к дому Валлабхи, тот встречает Его; Лакшми на троне, обмен взглядами, шутки женщин; на другой день Гора с Лакшми возвращается, Шачи берёт невестку на колени; Ишана: «Я видел это вдоволь»."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@shachi", "@narahari-chakravarti", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: B
+  themes: ["family", "festival"]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1244", to: "1359"}
+
+- id: brt-6059
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1360–1364"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 28
+  title: "Жизнь с Лакшми; Гаурачандра-Нараяна погружён в учёность"
+  summary: "В этом доме Вишвамбхара жил с Лакшми, которая служила Шачи; Владыка Лакшми, Гаурачандра-Нараяна, погружён в расу учёности с учениками, все учёные Надии почитают Его, и Он каждому оказывает должное уважение."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["learning", "family"]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1360", to: "1364"}
+
+- id: brt-6060
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1365"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 45
+  title: "Ишвара Пури получает бхикшу в доме Господа"
+  summary: "Поклонившись Ишваре Пури, Своему слуге, Господь заботливо приводит его и даёт ему бхикшу в этом доме."
+  persons: ["@mahaprabhu", "@ishvara-puri"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Упоминание."
+  themes: ["prasada"]
+  event: ev-ishvara-puri-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1365", to: "1365"}
+
+- id: brt-6061
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1366–1368"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 58
+  title: "Под видом «ваю» Господь являет прему"
+  summary: "Под предлогом болезни «ваю» Господь являет према-бхакти, почтенные люди придумывают средства, Господь сдерживает бхаву, и все радуются Его «выздоровлению»."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["ecstasy"]
+  event: ev-vayu-vyadhi-prema
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1366", to: "1368"}
+
+- id: brt-6062
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1369–1370"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 31
+  title: "У дверей вишну-мандапы Господь при полной луне играет на флейте"
+  summary: "Увидев полную луну, Гора Рай у дверей вишну-мандапы в том настроении играет на флейте; слышит лишь Аи."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["revelation"]
+  bhava: ["krishna"]
+  event: ev-shachi-flute-moon-visions
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1369", to: "1370"}
+
+- id: brt-6063
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1371–1372"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 65
+  title: "Господь с учениками отправляется в Вангу"
+  summary: "Желая облагодетельствовать Вангу, Господь, поклонившись матери, отправляется туда с учениками."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#east-bengal"]
+  kind: lila
+  authority: B
+  themes: ["pilgrimage", "learning"]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1371", to: "1372"}
+
+- id: brt-6064
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1373–1375"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 80
+  title: "Змея разлуки жалит Лакшми; её сокрытие на берегу Ганги"
+  summary: "Лакшми, оставаясь дома и вспоминая Господа, ужалена в стопу змеёй разлуки и сокрывается на берегу Ганги; Шачи плачет, её утешают."
+  persons: ["@lakshmipriya", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: B
+  themes: ["departure", "separation"]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1373", to: "1375"}
+
+- id: brt-6065
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1376–1378"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 85
+  title: "Возвращение из Ванги; Господь утешает мать"
+  summary: "Узнав о сокрытии Лакшми, Господь поспешно возвращается из Бенгалии, кланяется матери, утешает её и снова погружён с учениками в учёность."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["family", "separation"]
+  event: ev-return-from-east-bengal
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1376", to: "1378"}
+
+- id: brt-6066
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1379–1383"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 90
+  title: "Шачи избирает Вишнуприю у гхата Ганги; Кашинатха — сват"
+  summary: "Шачи ищет невесту и избирает Вишнуприю, дочь Санатаны Мишры, увидев её на гхате Ганги; Кашинатха Пандит по её велению сговаривается о свадьбе; Буддхиманта Кхан и Мукунда Санджая берут на себя расходы."
+  persons: ["@shachi", "@vishnupriya", "@sanatana-mishra", "@kashinatha", "@buddhimanta-khan", "@mukunda-sanjaya", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: B
+  themes: ["family"]
+  event: ev-vishnupriya-matchmaking
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1379", to: "1383"}
+
+- id: brt-6067
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1384–1622"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 100
+  title: "Свадьба с Вишнуприей «как у царского сына» (песни Нарахари); служение Вишнуприи Шачи"
+  summary: "Буддхиманта Кхан и другие ставят навесы и собирают припасы — свадьба «как у царского сына»; адхиваса, приглашения по всей Навадвипе, женщины набирают обрядовую воду; песни: горожанки собираются к Шачи, Шачи обходит дома родных, адхиваса в доме Санатаны Мишры; боги со Шивой, Брахмой, Индрой и Нарадой незримо приходят; шествие жениха, слепые и хромые выходят на дорогу; обмен гирляндами, хома, приданое, брачный покой; утром Гора с Вишнуприей возвращается, Шачи встречает их; Вишнуприя служит Вишну и Шачи."
+  persons: ["@mahaprabhu", "@vishnupriya", "@sanatana-mishra", "@shachi", "@buddhimanta-khan", "@mukunda-sanjaya", "@narahari-chakravarti", "@shiva", "@brahma", "@indra", "@narada", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra", "#house-sanatana-mishra", "#navadvipa"]
+  kind: lila
+  authority: B
+  themes: ["family", "festival", "celestial"]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1384", to: "1622"}
+
+- id: brt-6068
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1623–1628"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P06
+  order: 10
+  title: "Путь в Гаю и возвращение; Шачи ждёт сына у ворот"
+  summary: "Видя умножение пашандов, Господь решает идти в Гаю; утешив мать, уходит, совершает обряды, оказывает милость Ишваре Пури и возвращается; Шачи с благими обрядами ждёт Его за воротами."
+  persons: ["@mahaprabhu", "@shachi", "@ishvara-puri"]
+  places: ["#house-jagannatha-mishra", "#gaya"]
+  kind: lila
+  authority: B
+  notes: "Посвящение у Ишвары Пури — лишь намёк («оказав милость»), ср. ev-gaya-ishvara-puri-initiation."
+  themes: ["pilgrimage", "family"]
+  event: ev-departure-for-gaya
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1623", to: "1628"}
+
+- id: brt-6069
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1629–1646"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 5
+  title: "Возвращение из Гаи: встреча с матерью и Вишнуприей; рассказ о Гае Шриману и другим"
+  summary: "Вишвамбхара кланяется матери, Вишнуприя и её род ликуют; отпустив спутников, Он рассказывает Шриману Пандиту и ещё четырём-пяти людям о Гае и при имени святыни стоп Вишну утопает в слезах, зовёт всех завтра в дом Шукламбары; вайшнавы приходят, Надия говорит: «Нимай Пандит стал великим вайшнавом»; ночами Он без сна повторяет «Кришна»."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya", "@shriman-pandita", "@shuklambara"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Приглашение в дом Шукламбары — ev-shuklambara-house-prema."
+  themes: ["ecstasy", "separation"]
+  event: ev-return-navadvipa-welcome
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1629", to: "1646"}
+
+- id: brt-6070
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1647–1648"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 33
+  title: "В настроении Капилы Господь наставляет мать"
+  summary: "Вишвамбхара в настроении Капилы радостно учит мать многому, и Шачи, воплощение према-бхакти, получает прему."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["teaching"]
+  bhava: ["aishvarya"]
+  teaching: ["bhakti-supremacy"]
+  event: ev-kapila-bhava-instruction-shachi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1647", to: "1648"}
+
+- id: brt-6071
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1649–1662"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 37
+  title: "Ученики оставляют грамматику; первая санкиртана в доме Господа"
+  summary: "Ученики хотят заниматься, а Господь говорит о другом; по Его воле в их сердцах рождается према, и они поют вокруг танцующего Господа «Гопала, Говинда»; сбегаются преданные и жители Надии."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Также ev-return-from-gaya-teaching."
+  themes: ["kirtan", "learning", "ecstasy"]
+  event: ev-first-kirtan-with-students
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1649", to: "1662"}
+
+- id: brt-6072
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1663–1670"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 39
+  title: "«Я — Он!»; «ваю» вернулось; Шриваса утешает Шачи"
+  summary: "Господь, восклицая «Я — Он!», гонится за пашандами, катается по земле и замирает; люди говорят Шачи, что вернулась болезнь «ваю», и советуют охлаждающие средства; Шачи зовёт Шривасу, и тот с радостью её утешает; все говорят: «Это не человек»."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["ecstasy", "revelation"]
+  bhava: ["aishvarya"]
+  event: ev-shrivasa-good-madness
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1663", to: "1670"}
+
+- id: brt-6073
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1671–1676"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 39.7
+  title: "«Где Кришна?» — «В Твоём сердце»: Господь раздирает грудь"
+  summary: "Господь спрашивает каждого: «Где Кришна?»; Гададхара, неся тамбулу, отвечает: «Кришна всегда в Твоём сердце», и Господь раздирает грудь ногтями; Гададхара удерживает Его руки, и Шачи просит Гададхару всегда быть рядом с Нимаем."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["ecstasy", "separation"]
+  bhava: ["radha"]
+  event: ev-gadadhara-krishna-in-heart
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1671", to: "1676"}
+
+- id: brt-6074
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1677–1687"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 39.8
+  title: "Вечерние киртаны; угрозы пашанди; страх Шривасы"
+  summary: "По вечерам Мукунда читает шлоки, Господь в преме танцует всю ночь; пашанди грозят, что люди царя придут хватать вайшнавов, и предлагают выдать Шривасу; Шриваса пугается; Господь, Знающий сердца, ревёт: «Я низошёл, чтобы уничтожить страх преданных», — и желает явить Себя."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@srivasa"]
+  places: ["#house-jagannatha-mishra", "#house-srivasa"]
+  kind: lila
+  authority: B
+  themes: ["kirtan", "offense"]
+  event: ev-rumour-king-boats-shrivasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1677", to: "1687"}
+
+- id: brt-6075
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1688–1700"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 39.9
+  title: "Нарядный Господь бродит по Надии и являет Шривасе четырёхрукий облик"
+  summary: "Нарядно убравшись, Господь бродит по Надии (песня о Его красоте), в доме Шривасы являет четырёхрукий облик, оказав ему милость, затем возвращается и, говоря «Кришна», плачет без самообладания."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["revelation", "mercy"]
+  bhava: ["aishvarya"]
+  event: ev-shrivasa-sees-chaturbhuja
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1688", to: "1700"}
+
+- id: brt-6076
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1701–1703"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 60
+  title: "Бхава Варахи в доме Мурари"
+  summary: "Опьянённый настроением Варахи, Господь идёт в дом Мурари Гупты, принимает облик Варахи и оказывает ему милость; Его сердце неспокойно без Нитьянанды."
+  persons: ["@mahaprabhu", "@murari-gupta"]
+  places: ["#house-murari", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["revelation", "mercy"]
+  bhava: ["varaha"]
+  event: ev-varaha-bhava-murari
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1701", to: "1703"}
+
+- id: brt-6077
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1704–1723"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 30
+  title: "Явление Нитьянанды в Экачакре (тринадцатый день Магхи); уход из дома и странствия"
+  summary: "Нитьянанда — Халадхара, сын Хадаи Пандита и Падмавати из Экачакры в Рархе; песни о Его рождении в светлый тринадцатый день Магхи: Адвайта ревёт в Шантипуре, боги осыпают цветами, Ойха (Хадаи) раздаёт дары; под предлогом просьбы санньяси Он уходит из дома, странствует по святым местам и остаётся во Вриндаване, ожидая явления Господа."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati", "@advaita"]
+  places: ["#ekachakra", "#radha-desha", "#vrindavana"]
+  kind: lila
+  authority: B
+  notes: "Также ev-nityananda-leaves-home, ev-nityananda-pilgrimage."
+  calendar: "магха, светлая половина, 13-й день"
+  themes: ["revelation", "pilgrimage"]
+  event: ev-nityananda-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1704", to: "1723"}
+
+- id: brt-6078
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1724–1747"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 106
+  title: "Нитьянанда в доме Нанданы Ачарьи; сон Господа о Халадхаре; встреча; сломанная данда"
+  summary: "Узнав о сокрытом явлении Гауры, Нитьянанда приходит в Навадвипу в дом Нанданы Ачарьи; Господь в храме Вишну рассказывает сон о высоком человеке в синем с кувшином, спрашивавшем Его имя, — «думаю, это Халадхара»; Харидас и Шриваса тщетно ищут; Господь Сам находит Его и оставляет у Шривасы; Рамаи рассказывает, что ночью Нитьянанда с рыком сломал посох и разбил кувшин, и Господь улыбаясь идёт к Шривасе."
+  persons: ["@nityananda", "@mahaprabhu", "@nandana-acharya", "@haridasa-thakura", "@srivasa", "@srirama-pandita"]
+  places: ["#house-nandana-acharya", "#house-jagannatha-mishra", "#house-srivasa"]
+  kind: lila
+  authority: B
+  notes: "Сломанная данда — ev-nityananda-breaks-danda-navadvipa."
+  themes: ["revelation"]
+  bhava: ["balarama"]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1724", to: "1747"}
+
+- id: brt-6079
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1748–1749"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 98
+  title: "Господь посылает Раму Пандита в Шантипур за Адвайтой"
+  summary: "Охваченный премой, Господь посылает Шри Раму Пандита в Шантипур привести Адвайту Ачарью; далее Ишана рассказывает о жизни Адвайты."
+  persons: ["@mahaprabhu", "@srirama-pandita", "@advaita"]
+  places: ["#house-jagannatha-mishra", "#shantipura"]
+  kind: lila
+  authority: B
+  notes: "Продолжение — 12.1794–1801 (brt того же события ниже)."
+  themes: ["revelation"]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1748", to: "1749"}
+
+- id: brt-6080
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1750–1768"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 1.1
+  title: "Предки Адвайты из Наваграма близ Шрихатты; явление Адвайты седьмого Магхи"
+  summary: "Предки Адвайты жили в Наваграме близ Шрихатты; отец — Кувера Пандит (по ГГД — Кувера, друг Махадевы), мать — Набха; у них, давно желавших сына, в светлый седьмой день Магхи родился Адвайтачандра — песни о ликовании Наваграма; при рождении все поют «Кришна», «Говинда»; детские игры Адвайты — нектар."
+  persons: ["@advaita", "@kuvera-pandita", "@labha"]
+  places: ["#lauda", "#shrihatta"]
+  kind: lila
+  authority: B
+  calendar: "магха, светлая половина, 7-й день"
+  divergence: "Мать Адвайты названа Набхой (в «Адвайта-пракаше» — Лабха); имя отца — Кувера Пандит (Кувера Мишра)."
+  themes: ["revelation", "family"]
+  scriptures: ["Гаура-ганоддеша-дипика"]
+  event: ev-advaita-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1750", to: "1768"}
+
+- id: brt-6081
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1769–1777"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 1.45
+  title: "Кувера и Набха переселяются в Шантипур; паломничество Адвайты и Вриндаван; возвращение в Шантипур"
+  summary: "Ради жизни у Ганги Кувера и Набха с сыном переселяются в Шантипур, дают ему изучить шастры и сокрываются; Адвайта под предлогом Гаи странствует, поклоняется Кришне во Вриндаване, где узнаёт о времени Его явления в Навадвипе; странствует по Гауде и Ванге и через Навадвипу приходит в Шантипур, где жители устраивают Ему жилище."
+  persons: ["@advaita", "@kuvera-pandita", "@labha"]
+  places: ["#shantipura", "#vrindavana", "#gaya"]
+  kind: lila
+  authority: B
+  notes: "Также ev-advaita-studies-shantipura, ev-advaita-parents-departure."
+  themes: ["pilgrimage"]
+  event: ev-advaita-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1769", to: "1777"}
+
+- id: brt-6082
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1778–1787"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 1.96
+  title: "Женитьба Адвайты на Шри и Сите, дочерях Нрисимхи Бхадури"
+  summary: "Достойные люди Шантипура хлопочут о женитьбе Адвайты, Он с улыбкой соглашается; Нрисимха Бхадури отдаёт Ему двух дочерей — Шри и Ситу; по ГГД Сита — Йогамайя, а Шри — её проявление."
+  persons: ["@advaita", "@sita-thakurani", "@shri-thakurani", "@nrisimha-bhaduri"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  themes: ["family"]
+  scriptures: ["Гаура-ганоддеша-дипика"]
+  event: ev-advaita-marries-sita
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1778", to: "1787"}
+
+- id: brt-6083
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1788–1793"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P01
+  order: 4
+  title: "Адвайта живёт в Шантипуре и в Надии (у Шривасы); Его рёв приводит Кришну"
+  summary: "Адвайта живёт то в Шантипуре, то в Надии, чаще в доме Шривасы, в тоске по Кришне поклоняется Ему, и от Его рёва Кришна явился; Он видит удивительные игры Господа в Надии, лишь намекая на них, и, явив Господа, уходит в Шантипур."
+  persons: ["@advaita", "@srivasa", "@mahaprabhu"]
+  places: ["#shantipura", "#house-srivasa", "#advaita-bhavana"]
+  kind: lila
+  authority: B
+  themes: ["revelation"]
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1788", to: "1793"}
+
+- id: brt-6084
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1794–1800"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 98
+  title: "Адвайта с Ситой и домочадцами приходит к Господу в Навадвипу"
+  summary: "Рама Пандит передаёт повеление; Адвайта в восторге премы, Сита-деви собирает всё для поклонения, и Адвайта с домочадцами идёт в Надию; Господь поспешно идёт в дом Шривасы им навстречу; затем в Своём доме Он плачет, зовя Пундарику Видьянидхи то отцом, то другом."
+  persons: ["@advaita", "@sita-thakurani", "@srirama-pandita", "@mahaprabhu", "@pundarika-vidyanidhi"]
+  places: ["#shantipura", "#house-srivasa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["revelation"]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1794", to: "1800"}
+
+- id: brt-6085
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1801–1816"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 73
+  title: "Пундарика Видьянидхи из Чакрашалы приходит ночью к Господу"
+  summary: "Пундарика жил в Чакрашале близ Чатиграма и имел дом в Навадвипе; все принимают его за мирянина; притянутый Господом, он ночью приходит, падает без чувств, сокрушается; Господь обнимает его, говоря: «Я насмотрелся на Преманидхи», орошает слезами; Пундарика кланяется Господу и Адвайте, встречается с преданными и уходит в своё жилище."
+  persons: ["@pundarika-vidyanidhi", "@mahaprabhu", "@advaita"]
+  places: ["#chakrashala", "#chattagrama", "#house-jagannatha-mishra", "#house-pundarika"]
+  kind: lila
+  authority: B
+  notes: "Сомнение Гададхары и его посвящение (суть события в ЧБ Мадхья 7) здесь не упомянуты — лишь приход Пундарики."
+  themes: ["ecstasy", "revelation"]
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1801", to: "1816"}
+
+- id: brt-6086
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1817–1835"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 107.8
+  title: "Сон Шачи о четырёх мальчиках; Нитьянанда обедает в доме Господа, Ишана подаёт воду"
+  summary: "Шачи рассказывает сон: пятилетние Гаура и Нитьянанда, ссорясь, вошли в святилище Вишну; там было четверо — Гаура, Нитьянанда, Кришна и сын Рохини; Нитьянанда взял за руку Кришну, Гаура — Балараму, вчетвером они вырывали друг у друга кушанья, и Нитьянанда попросил у неё риса; Господь велит накормить Нитьянанду; Ишана омывает Им стопы, Шачи созерцает тёмный и белый облики, Ишана собирает остатки с листьев."
+  persons: ["@shachi", "@mahaprabhu", "@nityananda", "@krishna", "@balarama", "@gadadhara-pandita", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Трапеза — также ev-nityananda-meal-shachi."
+  divergence: "В ЧБ Мадхья 8 Божества Кришны и Баларамы гонят «самозванцев» и спорят с ними; в БР четверо вместе едят и ссорятся из-за кушаний, а Ишана сам служит трапезе."
+  themes: ["revelation", "prasada"]
+  bhava: ["balarama"]
+  event: ev-shachi-dream-krishna-balarama-deities
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1817", to: "1835"}
+
+- id: brt-6087
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1836–1846"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 125
+  title: "Господь являет облики аватар; певец Шивы: Господь в бхаве Махеши"
+  summary: "С Нитьянандой и спутниками Господь в санкиртане становится Матсьей, Курмой, Варахой, Ваманой и другими — это видят лишь близкие слуги; приходит певец песен о Шиве, и Господь в настроении Махеши, сказав «Я и есть тот Махеша», садится ему на плечи (песня о Шиве), затем сдерживает бхаву и дарит ему такую милостыню, что тому больше не пришлось просить."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["revelation", "mercy"]
+  bhava: ["shiva", "aishvarya"]
+  event: ev-shiva-singer
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1836", to: "1846"}
+
+- id: brt-6088
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1847–1890"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 80
+  title: "Великий танец Гауры со спутниками во дворе; санкиртаны у Ганги и у Шривасы (песни)"
+  summary: "По списку ЧБ — Нитьянанда, Гададхара, Адвайта, Шриваса, Гангадас, Ванамали, Виджая, Нандана, Джагадиша, Кашишвара и многие другие — Господь пляшет с ними во дворе (песни на разных рагах); Шачи омывается слезами; ночами у Шривасы, днём на берегу Ганги идёт санкиртана; Ишана исполняет любые Его повеления; песня Баларамы Даса о Его танце."
+  persons: ["@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@advaita", "@srivasa", "@shachi", "@balarama-dasa-poet", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra", "#house-srivasa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: ["kirtan", "ecstasy"]
+  scriptures: ["ЧБ Мадхья 8"]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1847", to: "1890"}
+
+- id: brt-6089
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1891–1894"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.5
+  title: "«Семь прахар» в доме Шривасы"
+  summary: "Однажды в великом блаженстве Господь один идёт в дом Шривасы, являет там игры в настроении «семи прахар» и возвращается; затем с близкими идёт в цветник, погружённый в беседы о Кришне."
+  persons: ["@mahaprabhu", "@srivasa", "@ishana-navadvipa"]
+  places: ["#house-srivasa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Упоминание."
+  themes: ["revelation"]
+  bhava: ["aishvarya"]
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1891", to: "1894"}
+
+- id: brt-6090
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1895–1901"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 109.8
+  title: "Нагой Нитьянанда приходит, когда Господь сидит с Вишнуприей; четыре сандеша"
+  summary: "Господь сидит в комнате, Вишнуприя подаёт тамбулу; входит нагой, шатающийся в экстазе Нитьянанда; Вишвамбхара Сам надевает на Него одежду, Шачи улыбается, считая Его сыном, и даёт Ему четыре сандеша — Он съедает их, и это великая потеха."
+  persons: ["@nityananda", "@mahaprabhu", "@vishnupriya", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  divergence: "В ЧБ Мадхья 11 Шачи даёт Нитьянанде пять сандешей (здесь — четыре)."
+  themes: ["ecstasy", "prasada"]
+  bhava: ["balarama"]
+  event: ev-nityananda-sandesh-shachi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1895", to: "1901"}
+
+- id: brt-6091
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1902–1913"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 115
+  title: "Каупина Нитьянанды разорвана и роздана; вода с Его стоп"
+  summary: "Господь выпрашивает каупину Нитьянанды, рвёт её на куски и раздаёт всем — все возлагают их на головы; в преме Он даёт всем испить воды, омывшей стопы Нитьянанды; затем танец санкиртаны (песни)."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Вода со стоп — также ev-nityananda-foot-water."
+  themes: ["ecstasy", "kirtan"]
+  event: ev-nityananda-kaupina
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1902", to: "1913"}
+
+- id: brt-6092
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1914–1929"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 121
+  title: "Нитьянанда и Харидас возвещают повеление; освобождение Джагая и Мадхая; танец у дома Господа"
+  summary: "Господь посылает Нитьянанду и Харидаса по Надии возвестить повеление поклоняться Кришне; Господь освобождает разбойников Джагая и Мадхая, и они сидят перед Ним; Шачи с Вишнуприей смотрят из комнаты; песня: Гаура пляшет, Джагай и Мадхай от Его прикосновения катаются по земле, пляшут боги."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura", "@jagai-madhai", "@shachi", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: B
+  notes: "Также ev-preaching-door-to-door."
+  themes: ["mercy", "kirtan"]
+  teaching: ["holy-name"]
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1914", to: "1929"}
+
+- id: brt-6093
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1930–1933"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.86
+  title: "Игры в Ганге; трапеза; боги незримо служат спящему Господу"
+  summary: "После санкиртаны Господь со спутниками играет в водах Ганги, возвращается, кланяется Туласи, вкушает прасад Вишну и ложится; незримо приходят боги и служат Ему."
+  persons: ["@mahaprabhu", "@ishana-navadvipa"]
+  places: ["#ganga", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: ["celestial", "prasada"]
+  event: ev-jala-keli-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1930", to: "1933"}
+
+- id: brt-6094
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1934"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 121.6
+  title: "Милость тёще Шривасы (упоминание)"
+  summary: "Однажды Господь идёт в дом Шривасы и, оказав милость его тёще, возвращается домой."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: B
+  notes: "Упоминание."
+  divergence: "В ЧБ Мадхья 16 тёщу, спрятавшуюся на киртане, выводят за волосы; в БР сказано лишь, что Господь «оказал милость» тёще Шривасы."
+  themes: ["mercy"]
+  event: ev-shrivasa-mother-in-law-expelled
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1934", to: "1934"}
+
+- id: brt-6095
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1935–1939"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 126
+  title: "«Лишённое премы тело оставлю»: Господь бросается в Гангу"
+  summary: "Обойдя город с санкиртаной, Господь говорит: «Лишённое премы, это тело я оставлю здесь», — и бросается в Гангу; Нитьянанда и Харидас вытаскивают Его."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura"]
+  places: ["#ganga"]
+  kind: lila
+  authority: B
+  themes: ["ecstasy", "separation"]
+  event: ev-jump-into-ganga
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1935", to: "1939"}
+
+- id: brt-6096
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1940–1953"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 135
+  title: "Санкиртана у дома (песни); действо в доме Чандрашекхары"
+  summary: "Близ дома Господь вне Себя в санкиртане (песни); Он велит Садашиве и Буддхиманте Кхану приготовить браслеты, сари, корсажи и украшения и идёт в дом Чандрашекхары Ачарьи танцевать в нарядах Лакшми и других; затем возвращается и садится среди спутников."
+  persons: ["@mahaprabhu", "@sadashiva-pandita", "@buddhimanta-khan", "@chandrashekhara-acharya"]
+  places: ["#house-jagannatha-mishra", "#house-chandrashekhara"]
+  kind: lila
+  authority: B
+  themes: ["kirtan", "revelation"]
+  bhava: ["shakti"]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1940", to: "1953"}
+
+- id: brt-6097
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1954–1983"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 112.8
+  title: "Адвайта проповедует превосходство знания, чтобы получить наказание; Господь в Шантипуре"
+  summary: "Не вынося, что Господь чтит Его как гуру, Адвайта с Харидасом уходит в Шантипур и толкует, что джняна выше бхакти; Сита говорит Шри: «Господь непременно придёт»; Господь с Нитьянандой идёт туда, по пути оказав милость санньяси в Лалитапуре; на ответ «Выше всего — джняна» Он бьёт Адвайту, хватает за волосы; Сита просит пощадить, Адвайта пляшет от радости; все плачут; Господь даёт благословение, обедает у Адвайты и, пробыв несколько дней, возвращается."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda", "@haridasa-thakura", "@sita-thakurani", "@shri-thakurani", "@achyutananda"]
+  places: ["#shantipura", "#lalitapura"]
+  kind: lila
+  authority: B
+  notes: "Санньяси в Лалитапуре — ev-lalitapura-sannyasi (упоминание)."
+  themes: ["teaching", "mercy"]
+  teaching: ["bhakti-supremacy"]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1954", to: "1983"}
+
+- id: brt-6098
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1984–1988"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 112.85
+  title: "Адвайта отвергает Шанкару, своего последователя, утвердившегося в джняне"
+  summary: "Ветвь Адвайты по имени Шанкара утвердился на стороне джняны; Адвайта снова и снова говорит ему: «Я сделал так ради Своего желания; брось это, безумец, ты погиб», — тот не бросил, и Адвайта отверг его; посеянное им семя отвращения, по словам мудрых, постепенно разрослось."
+  persons: ["@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  notes: "Ср. ЧЧ Ади 12 (о последователях Адвайты, отклонившихся от Его воли)."
+  themes: ["teaching", "offense"]
+  teaching: ["bhakti-supremacy"]
+  event: ev-advaita-rejects-shankara
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1984", to: "1988"}
+
+- id: brt-6099
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1989–2000"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 127.5
+  title: "Возвращение в Надию; оскорбление Шачи перед Адвайтой (начало)"
+  summary: "Нитьянанда, Адвайта и Харидас с Господом приходят из Шантипура в Надию; санкиртана у Шривасы, затем у Мурари; сидя дома, Господь говорит близким: мать совершила оскорбление перед Адвайтой и избавится от него, возложив на голову пыль с Его стоп; Ишана объясняет: Вишварупа принял санньясу, сидя в собрании Адвайты, и Шачи в разлуке думала: «У Адвайты нет милосердия, Он выгнал Вишварупу из дома…»"
+  persons: ["@mahaprabhu", "@shachi", "@advaita", "@nityananda", "@haridasa-thakura", "@srivasa", "@mukunda-datta", "@vakreshvara", "@vishvarupa", "@ishana-navadvipa"]
+  places: ["#house-jagannatha-mishra", "#house-srivasa", "#house-murari"]
+  kind: lila
+  authority: B
+  notes: "Эпизод продолжается после 2000 (следующая часть таранги)."
+  themes: ["offense", "mercy"]
+  teaching: ["vaishnava"]
+  event: ev-shachi-receives-prema
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1989", to: "2000"}

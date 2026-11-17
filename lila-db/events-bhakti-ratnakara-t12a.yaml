@@ -1,0 +1,61 @@
+# События, заведённые по «Бхакти-ратнакаре», таранга 12, двустишия 1–2000 (формат — README.md, как events.yaml).
+# Новые события добавлять в конец.
+
+- id: ev-navadvipa-parikrama-ishana
+  title: "Обход Навадвипы: Ишана водит Шринивасу, Нароттаму и Рамачандру по девяти островам"
+  title_en: "The Navadvipa parikrama: Ishana guides Srinivasa, Narottama and Ramachandra through the nine islands"
+  period: P15
+  order: 95.75
+  date_conf: оценка
+  date_basis: "после возвращения Джахнавы из Вриндавана в Кхардаху (БР 12.17)"
+  themes: [pilgrimage, separation]
+  notes: "«Бхакти-ратнакара» 12: Шриниваса из Яджиграма через Шрикханду идёт в Навадвипу; Ишана, слуга Шачи, в доме Мишры встречает их и на другой день ведёт по Антардвипе, Симантадвипе, Годрумадвипе, Мадхьядвипе, Коладвипе, Ритудвипе, Джахнудвипе, Модадрумадвипе и Рудрадвипе, рассказывая о славе мест и о лилах Господа; в Майяпуре — о рождении и играх Господа. Ср. ev-narottama-gauda-pilgrimage («Нароттама-виласа» 3)."
+
+- id: ev-rama-worshipper-sees-newborn-as-rama
+  title: "Брахман — почитатель Рамы в час явления Господа видит в Нём Раму"
+  title_en: "A brahmana worshipper of Rama sees the newborn Lord as Rama"
+  period: P02
+  order: 1.5
+  years: [1486, 1486]
+  date_conf: оценка
+  date_basis: "в день явления Господа (БР 12.600)"
+  themes: [revelation, mercy]
+  notes: "Только «Бхакти-ратнакара» 12.599–624: брахман из Маугачхи, бывший в доме Мишры в час явления, узнаёт в Мишре Дашаратху, в Шачи — Каушалью; во сне ему является Гаурачандра, затем Рама с луком и стрелами и Хануманом; Господь велит хранить это в тайне; перед уходом брахман поведал об этом Ишане."
+
+- id: ev-brahmana-sees-lakshmi-narayana-wedding
+  title: "Старый брахман-почитатель Лакшми-Нараяны узнаёт в Лакшмиприе и Гауре Лакшми и Нараяну"
+  title_en: "An old brahmana worshipper of Lakshmi-Narayana recognises Lakshmipriya and Gaura as Lakshmi and Narayana"
+  period: P05
+  order: 25.5
+  date_conf: оценка
+  date_basis: "в день свадьбы с Лакшмиприей и после неё (БР 12.678)"
+  themes: [revelation, family]
+  notes: "Только «Бхакти-ратнакара» 12.674–697: друг и почитаемый гуру Валлабхи Мишры из Вайкунтхапура; в его хижине открывается великолепие Вайкунтхи: Гаура с Лакшми на троне, затем Он становится четырёхруким; велит хранить это в тайне."
+
+- id: ev-infant-anger-kamsa-story
+  title: "Шачи рассказывает Младенцу о Кришне и Камсе: «А кто остался — того Я уничтожу!»"
+  title_en: "Shachi tells the Infant of Krishna and Kamsa: 'Whoever is left, I will destroy!'"
+  period: P02
+  order: 34
+  date_conf: оценка
+  themes: [revelation, krishna-lila]
+  notes: "Только «Бхакти-ратнакара» 12.1020–1024 (рассказ Ишаны)."
+
+- id: ev-infant-sleep-talk-gods
+  title: "Младенец во сне успокаивает Шиву и Брахму: «Опьяню живых существ санкиртаной»"
+  title_en: "The Infant, in sleep, reassures Shiva and Brahma: 'I will intoxicate the living beings with sankirtana'"
+  period: P02
+  order: 34.5
+  date_conf: оценка
+  themes: [revelation, celestial]
+  notes: "Только «Бхакти-ратнакара» 12.1025–1027 (рассказ Ишаны)."
+
+- id: ev-advaita-rejects-shankara
+  title: "Адвайта отвергает последователя Шанкару, утвердившегося в джняне"
+  title_en: "Advaita rejects His follower Shankara, who held fast to jnana"
+  period: P07
+  order: 112.85
+  date_conf: оценка
+  date_basis: "после того как Адвайта нарочно проповедовал превосходство знания (БР 12.1984)"
+  themes: [teaching, offense]
+  notes: "Только «Бхакти-ратнакара» 12.1984–1988; ср. ЧЧ Ади 12 (о последователях Адвайты, отклонившихся от Его воли)."
