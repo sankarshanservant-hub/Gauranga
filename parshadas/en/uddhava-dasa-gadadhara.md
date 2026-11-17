@@ -10,7 +10,7 @@ single line with three other devotees:
 “Srinatha Chakravarti, Uddhava Dasa, Jitamitra and Jagannatha Dasa of Kashthakata.” (CC, Adi 12.83)[^1]
 <!-- F1 F2 Q1 -->
 
-Beyond this the primary sources say almost nothing of his life in the world. Neither his birthplace nor his family is
+Beyond this the primary sources say almost nothing of his life. Neither his birthplace nor his family is
 known, nor the year and day of his appearance, nor when and where he left this world; his days are not in the Vaishnava
 calendar of the Sri Chaitanya Saraswat Math either. All that has come down to us about him is a few lines: a place in the
 list of branches, the praise of a disciple of Gadadhara, and Karnapura's word about his eternal nature.
@@ -28,13 +28,13 @@ has nothing about him beyond this verse. <!-- F5 -->
 
 The verse is brief, yet it says the essential. The wealth of prema, divine love for Krishna, is not won by learning,
 noble birth or austerity; Uddhava Dasa bestowed it on those who counted themselves lowest of all — the humble and the fallen.
-In this he followed his guru and Mahaprabhu Himself, who gave prema to all without distinction.
+In this he followed his guru and Mahaprabhu Himself, Who gave prema to all without distinction.
 
 ## An Avesha of the Moon
 Who he is in the Lord's eternal pastimes Kavi Karnapura tells in the “Gaura-ganoddesha-dipika”:
 
-“The wise should know Acharya Chandrashekhara as Chandra (the Moon); Shriman Uddhava Dasa is also an avesha-avatara of
-the Moon.” (GGD 112) <!-- F3 Q3 -->
+“The discerning should know Acharya Chandrashekhara as Chandra (the Moon); Sriman Uddhava Dasa too is an empowered
+incarnation (*avesha-avatara*) of the Moon.” (GGD 112) <!-- F3 Q3 -->
 
 In the same verse Acharya Chandrashekhara is called the Moon itself; Uddhava Dasa is one in whom the Moon is present by
 its potency (*avesha*)[^3]. This is Karnapura's word about the eternal nature of an associate, not about a rebirth in the
@@ -44,10 +44,10 @@ eternal pastimes.
 ## Welcoming Jahnava
 The biographies do not cite it, but Uddhava apparently appears once more in the “Bhakti-ratnakara.” When Jahnava Devi,
 the eternal consort of Nityananda, was going to the great festival at Kheturi, many mahantas met her at Kantaka-nagara —
-Katwa. Narahari Chakravarti lists them: Kashi Pandita, Nayana Mishra, Jagannatha of Kashthakata, Jitamishra, Raghu
-Mishra, Pushpa-Gopala, Lakshminatha Pandita, Vaninatha, Vallabha, Chaitanya Dasa, Hari Acharya, Bhagavatacharya — and
-among them “generous Uddhava” (“Bhakti-ratnakara,” 10.414–418). Almost all these names also stand in the list of
-Gadadhara's branch in the “Charitamrita” (Adi 12.79–86); so this Uddhava is most probably Uddhava Dasa of Gadadhara's
+Katwa. Among them Narahari Chakravarti names Shivananda, Vaninatha, Vallabha, Chaitanya Dasa, Hari Acharya,
+Bhagavatacharya, Nartaka-Gopala, Jitamishra, Raghu Mishra, Kashinatha Pandita, Nayana Mishra, Jagannatha of
+Kashthakata, Pushpa-Gopala, Raghunatha, Lakshminatha Pandita — and “generous Uddhava” (“Bhakti-ratnakara,” 10.414–418).
+Almost all these names also stand in the list of Gadadhara's branch in the “Charitamrita” (Adi 12.79–87); so this Uddhava is most probably Uddhava Dasa of Gadadhara's
 branch[^4]. <!-- F15 -->
 
 If so, then even after the Lord's disappearance he remained among the disciples of Gadadhara and with them welcomed
@@ -58,11 +58,11 @@ Several Vaishnavas bore the name Uddhava Dasa, and the accounts of them are easi
 “Gaudiya-vaishnava-abhidhana” names, besides our Uddhava, two more (according to one of the biographies, at least two).
 <!-- F6 -->
 
-The first lived in Vraja, in a hut on the bank of Pavana-sarovara in Nandagrama, performed his bhajana there and was a
+The first lived in Vraja, in a hut by Pavana-sarovara at Nandagrama, performed his bhajana there and was a
 follower of Sanatana Gosvami[^5]. <!-- F7 -->
 
 The second is the renowned composer of padas Sri Uddhava Dasa of the village of Tenya (Teyagram) in Murshidabad district.
-His real name was Sri Krishnakanta Majumdar; he received mantra from Sri Radhamohana Thakura and, according to one of the
+By birth he was named Sri Krishnakanta Majumdar; he received mantra from Sri Radhamohana Thakura and, according to one of the
 biographies, composed many songs about the pastimes of Radha and Krishna. <!-- F8 -->
 
 ## Uddhava Dasa in Vrindavana
@@ -71,9 +71,10 @@ the chapter on our Uddhava: one without reservation, another plainly taking them
 “Charitamrita” nor the “Bhakti-ratnakara” says so, and the identity (like the difference) cannot be proved[^6]. We
 therefore tell of the Vrindavana Uddhava separately.
 
-When Sri Rupa Gosvami was living in Vrindavana, in his old age he could no longer climb Govardhana to the Deity of
-Gopala, though he longed with all his heart to see Him. Seeing this longing, Gopala Himself, as if out of fear of the
-mlecchas, came to Mathura and stayed in the house of Vitthalanatha, the younger son of Vallabha Bhatta. So Rupa received
+When Sri Rupa Gosvami was living in Vrindavana, in his old age he could no longer make the journey to Govardhana, to the
+Deity of Gopala, though he longed with all his heart to see Him (Rupa and Sanatana had never dared to climb the hill of
+Govardhana itself). Seeing this longing, Gopala Himself, as if out of fear of the
+mlecchas, came to Mathura and lived at the home of Vitthalanatha, Vallabha Bhatta's younger son. So Rupa received
 His darshana:
 
 “For fear of the mlecchas Gopala came to the city of Mathura and stayed for a month in the house of Vitthaleshvara. Then
@@ -84,8 +85,8 @@ Among those with whom Rupa beheld Gopala, Krishnadasa Kaviraja also names Uddhav
 
 “Sri Uddhava Dasa and Madhava, Sri Gopala Dasa and Narayana Dasa…” (CC, Madhya 18.51)[^7] <!-- F10 Q4 -->
 
-Later, when Srinivasa Acharya came to Vrindavana, at the hut of Sanatana Gosvami in Nandishvara he met Sanatana's
-disciples, and the “Bhakti-ratnakara” says: “Sri Uddhava Dasa, Madhava and all who were there met one another and were
+Later, when Srinivasa Acharya came to Vrindavana, he visited the hut of Sanatana Gosvami in Nandishvara, where
+Vaishnavas welcomed him, and the “Bhakti-ratnakara” says: “Sri Uddhava Dasa, Madhava and all who were there met one another and were
 overjoyed” (5.1333)[^8]. Srinivasa and Raghava Gosvami, going round Vrindavana-dhama, came to Uddhava Dasa more than once,
 and each time he received them and served them with the greatest love. <!-- F12 F13 Q5 -->
 
@@ -113,8 +114,7 @@ for the fallen. <!-- F2 F3 F4 -->
 [^2]: One of the biographies quotes the verse with the reading “-chitta” (“bestows a heart full of prema”); another and
     the “Anubhashya” read “-vitta” (“the whole wealth of prema”), as in our translation. The biographies call the author
     of the “Shakha-nirnayamrita” Yadunatha Dasa, the “Anubhashya” Yadunandana Dasa.
-[^3]: The verse does not say which Uddhava Dasa is meant; one of the biographies (and the tradition) refers it to
-    Gadadhara's branch, while the “Anubhashya” on Adi 12.83 does not quote it. That biography also numbers the verse
+[^3]: The verse does not say which Uddhava Dasa is meant; one of the biographies refers it to Gadadhara's branch, while the “Anubhashya” on Adi 12.83 does not quote it. That biography also numbers the verse
     “192,” whereas in its chapter on Chandrashekhara the same verse is 112, as in our edition of the
     “Gaura-ganoddesha-dipika.”
 [^4]: The biographies do not cite this passage; referring “generous Uddhava” to Gadadhara's branch rests on the make-up
@@ -128,7 +128,8 @@ for the fallen. <!-- F2 F3 F4 -->
     “Bhakti-ratnakara” 5.1333; in fact that verse describes the meeting with Srinivasa.
 [^8]: The biographies say that Srinivasa and Raghava came to the hut of Uddhava Dasa himself. By the
     “Bhakti-ratnakara” (5.1330–1334), Srinivasa came to the hut of Sanatana in Nandishvara, where Gopala Mishra, the son
-    of Sanatana's priest, and other disciples of Sanatana also were, and there he met Uddhava Dasa and Madhava. This
+    of Sanatana's priest and Sanatana's disciple, was staying, and there he met Uddhava Dasa, Madhava and others; there
+    was a great festival, and the night was spent in nama-sankirtana. This
     agrees with the reference work, by which the Vrindavana Uddhava lived at Pavana-sarovara near Nandagrama.
 [^9]: By the “Bhakti-ratnakara” (6.509–542), the Vaishnavas, Uddhava among them, gathered at the temple of Govinda in
     Vrindavana; the cart set off on the road to Mathura, and the Gosvamis walked beside it for some time, and from

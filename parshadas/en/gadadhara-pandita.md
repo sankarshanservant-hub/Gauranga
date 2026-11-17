@@ -380,7 +380,7 @@ festival in Kheturi, and after the Lord's disappearance and the departure of his
 the Lord's mission in obedience to his father. The “Shakha-nirnayamrita” itself (“The Nectar of Determining the
 Branches”) is a book about Gadadhara's disciples, written by his disciple Yadunatha Dasa; he also indicated that
 Chandrashekhara Acharya appeared in Shrihatta. This book glorifies Achyutananda with the stanza “mahā-rasāmṛtānandam…”
-and mentions (35) Uddhava Dasa — whom the “Charitamrita” too calls a branch of Gadadhara (Adi 12.84). <!-- F81 F117 F82
+and mentions (35) Uddhava Dasa — whom the “Charitamrita” too calls a branch of Gadadhara (Adi 12.83). <!-- F81 F117 F82
 Q13 F83 -->
 
 Gadadhara's beloved disciple was Paramananda Gosvami: together with Madhu Pandita he found the Deity of Gopinatha on the
