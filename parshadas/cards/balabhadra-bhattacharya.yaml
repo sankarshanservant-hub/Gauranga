@@ -45,7 +45,7 @@ relations:
   - {type: host, who: "@vallabha-bhatta", facts: [F42], events: [ev-vallabha-bhatta-adaila], note: "По его просьбе Балабхадра готовил для Господа в Адаиле (ЧЧ Мадхья 19.87). = @vallabha-bhatta F31."}
   - {type: other, who: "@haridasa-thakura", facts: [F46], events: [ev-haridasa-sthavara-jangama-deliverance], note: "Слышал от Балабхадры о спасении существ Джхарикханды (ЧЧ Антья 3.72). = @haridasa-thakura F110."}
   - {type: other, who: "@sanatana-gosvami", facts: [F47], events: [ev-sanatana-returns-vrindavana-forest-path], note: "Записал у Балабхадры путь Господа во Вриндаван (ЧЧ Антья 4.210; B 458). = @sanatana-gosvami F307."}
-  - {type: other, who: "@bijuli-khan", facts: [F38, F39], events: [ev-pathans-ramadasa], note: "Отряд патханов схватил спутников Господа, приняв их за отравителей (ЧЧ Мадхья 18.163–184; по T и B — во главе с Биджли Ханом)."}
+  - {type: other, who: "@bijli-khan", facts: [F38, F39], events: [ev-pathans-ramadasa], note: "Отряд патханов схватил спутников Господа, приняв их за отравителей (ЧЧ Мадхья 18.163–184; по T и B — во главе с Биджли Ханом)."}
   - {type: other, who: "@madhavendra-puri", facts: [F25], note: "Объяснил санодия-брахману связь Господа с Мадхавендрой (ЧЧ Мадхья 17.174). = @madhavendra-puri F127."}
   - {type: other, who: "@bhaktisiddhanta", facts: [F2, F3, F41, I2], note: "«Анубхашья» к ЧЧ Ади 10.146 (Мадхурекшана; санньяси и брахмачари), к Мадхья 19.87 («Бхаттачарья» — Балабхадра); заголовок издания к Мадхья 17.16 (⚠Б3)."}
 unnamed:
