@@ -66,7 +66,7 @@ against him. This is no worldly anecdote but a twofold lesson: unconditional obe
 of the senses that devotion gives. <!-- F14 -->
 
 ## Guru and Line of Succession
-Having finished grammar, Vishvanatha went to Saiyadabad, in the district of Murshidabad, to study the scriptures of
+Having finished grammar, Vishvanatha went to Saiyadabad (Saidabad), in the district of Murshidabad, to study the scriptures of
 bhakti. There lived Krishnacharana Chakravarti and his disciple Radharamana Chakravarti, a Sanskrit pandit and
 philosopher. Radharamana became first Vishvanatha's *shiksha-guru*, his teacher, and then his *diksha-guru* as well.[^3]
 Krishnacharana in turn was the disciple and, by some accounts, the adopted son of Ganganarayana Chakravarti, a disciple
@@ -118,7 +118,7 @@ Vishvanatha's hands, and soon he himself left this world at Radha-kunda. <!-- F2
 The blessing of the guru which Vishvanatha had earned by obedience showed itself in this: he lived in various places of
 Vraja-dhama and wrote a multitude of books that became a treasure of the sampradaya. He would stay for long periods in
 many *mathas*, encouraging the Vaishnavas there, and at times he gathered everyone in one place so that they could
-exchange their thoughts; for this he founded centres in Mathura, Vrindavana, Radha-kunda, Yavata, Govardhana and other
+exchange their thoughts; for this he founded centres in Mathura, Vrindavana, Radha-kunda, Yavat (Javat), Govardhana and other
 places. So he breathed new life into the Gaudiya Vaishnavas. That time became a glorious age of preaching, and behind
 it stood the firmness of his character, his renunciation, his learning, and above all his deep insight into the
 innermost meaning of the books of Rupa, Sanatana and Jiva, and his gift for revealing that meaning.
