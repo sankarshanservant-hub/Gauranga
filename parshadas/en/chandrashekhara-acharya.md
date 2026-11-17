@@ -35,8 +35,8 @@ One of the biographies explains that all of Mahaprabhu's elders descend to the e
 
 Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who he was before:
 
-“The wise should know Acharya Chandrashekhara as Chandra (the Moon); Shriman Uddhava Dasa is also an avesha-avatara of
-the Moon.” (GGD 112)
+“The discerning should know Acharya Chandrashekhara as Chandra (the Moon); Sriman Uddhava Dasa too is an empowered
+incarnation (*avesha-avatara*) of the Moon.” (GGD 112)
 
 There too, speaking of the nine nidhis — treasures who were born as the Lord's favourites with the titles “nidhi,”
 “ratna” and “garbha” — Karnapura names “Shriman Acharyaratna” among them (GGD 102–103). Srila Bhaktisiddhanta Sarasvati,
