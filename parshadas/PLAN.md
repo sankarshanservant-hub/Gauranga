@@ -181,7 +181,7 @@ B — вероятно, больше сотни).
 | @jhadu-thakura (081) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bijli-khan (082) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @minaketana-ramadasa (083) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @gangamata-gosvamini (084) | ✓ | в работе | — |
+| @gangamata-gosvamini (084) | ✓ | ✓ (PDF) | — |
 | @rasika-raya-gangamata (085) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vishvanatha-chakravarti (086) | ✓ | в работе | — |
 

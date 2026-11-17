@@ -7,7 +7,7 @@ she entered the spiritual succession of Sri Gadadhara Pandita and restored in Pu
 where Mahaprabhu had once been a guest. Neither the “Chaitanya-charitamrita” nor the other primary sources tell of her;
 her name and her place in the succession are given by Srila Bhaktisiddhanta Sarasvati in the “Anubhashya”, and everything
 else is known from tradition and from the records of her abode, the Gangamata Matha in Puri. The name her father gave her
-was Shachi Devi, or simply Shachi. She came to be called Gangamata, “mother of the Ganga”, only later, after the miracle of
+was Shachi Devi, or simply Shachi. She came to be called Gangamata only later, after the miracle of
 the Ganga described below; the name of her matha comes from the same event[^1]. <!-- F1 -->
 
 Shachi was the daughter — according to one of the biographies, the only daughter — of Raja Sri Naresha Narayana of Putiya,
@@ -30,7 +30,7 @@ to go to Vrindavana — and then, as this account says, the moon of her good for
 
 ## The Succession of Gadadhara Pandita
 In Vrindavana Shachi took shelter of Haridasa Pandita Gosvami, and through him her spiritual line goes back to Gaura's own
-shakti, Sri Gadadhara Pandita. Gadadhara's disciple was Ananta Acharya, and his dear disciple was Haridasa Pandita, who in
+shakti, Sri Gadadhara Pandita. Gadadhara's disciple was Ananta Acharya, and Ananta Acharya's dear disciple was Haridasa Pandita, who in
 the days of Krishnadasa Kaviraja had charge of the service in the temple of Sri Govinda in Vrindavana. The
 “Charitamrita” says of him:
 
@@ -104,7 +104,7 @@ already entered His eternal, unmanifest pastimes. <!-- F18 F19 -->
 The house of Sarvabhauma had fallen into ruin: no one had lived in it for a long time. Only one dilapidated building
 remained, where Sri Damodara-shalagrama abided, whom Vasudeva Sarvabhauma himself had once served; there was no longer
 anyone to worship Him. Shachi established His service according to the rules of the shastras; the
-“Gaudiya-vaishnava-abhidhana” calls this shalagrama Sri Radha-Damodara. In this house Mahaprabhu, in mahabhava, first
+“Gaudiya-vaishnava-abhidhana” calls Him Sri Radha-Damodara. In this house Mahaprabhu, in mahabhava, first
 accepted hospitality in Nilachala: that Sarvabhauma's house is now known as the Gangamata Matha is stated by Srila
 Bhaktisiddhanta in the “Anubhashya” to CC, Madhya 6.8. Sarvabhauma then lived, he says, south of the Sri Mandira, in
 Balukhanda, on the bank of Markandeya-saras; the biographies, for their part, place his house and Gangamata's abode on the
@@ -172,7 +172,7 @@ misfortune, and the service of Jagannatha fell into disorder. So it is with an o
 (*vaishnava-aparadha*): it is not revenge or the Deity's punishment, but the consequence of the offence itself, and only the
 forgiveness of the one offended can remove it. And the Lord stands up for His devotee. <!-- F33 -->
 
-Jagannatha appeared in a dream to King Mukundadeva. Conquered by her pure devotion, He said, He Himself had made the Ganga
+Jagannatha appeared in a dream to King Mukundadeva. He said that, conquered by her pure devotion, He Himself had made the Ganga
 flow from His lotus feet and had bathed her in the streams of His *charanamrita*. According to one account, the Lord
 angrily ordered her immediate release: “I Myself wished to bathe her holy feet — that is why the Ganga brought her into My
 temple.” If the servants begged her forgiveness and accepted a mantra from her, their offence would vanish; and if the king
@@ -245,7 +245,7 @@ day of her departure is not in the calendar[^14]. <!-- F48 -->
 
 ## Significance
 Shachi, the princess of Putiya, left a palace for Krishna, took shelter of a guru and gave herself entirely to bhajana and
-to his will. And the Lord glorified her: Jagannatha Himself bathed her with the Ganga from His feet, the king of Puri became
+to her guru's will. And the Lord glorified her: Jagannatha Himself bathed her with the Ganga from His feet, the king of Puri became
 her disciple, and Rasika Raya Himself came to accept her service. Her form did not diminish her position as guru. Goda
 Devi, Jahnava, Gangamata, Hemalata Thakurani and others, though they appeared in a woman's body, are *jagad-gurus*, teachers
 of the whole world. She gave initiation not in defiance of her times, but by the mercy of her guru and at the direct
