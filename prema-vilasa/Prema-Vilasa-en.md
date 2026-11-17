@@ -9925,7 +9925,7 @@ without Gaura's mercy the lila has no end to be found."
 everyone knew that he had realized Gauranga.
 
 **198.** From the time he took shelter at the Prabhu's feet
-until his death — what was there not!
+until his departure — what was there not!
 
 **199.** How much sadhana he performed, how much he described!
 In this way he spent thirty-six years.[^14-33]
