@@ -1360,6 +1360,7 @@
    "lcm-0003",
    "dvk-0003",
    "lcm-0004",
+   "dvk-0004",
    "lcm-0005",
    "pad-0526",
    "pad-0545",
@@ -3790,8 +3791,12 @@
    "lcm-0211",
    "vlm-0105",
    "cc-1046",
+   "dvk-0005",
    "vlm-0002",
    "cc-1047",
+   "dvk-0006",
+   "dvk-0007",
+   "dvk-0008",
    "lcm-0212",
    "mkc-0165",
    "cc-1048",
@@ -4546,6 +4551,7 @@
    "lcm-0004",
    "mpk-0003",
    "vlm-0103",
+   "dvk-0004",
    "mpk-0014",
    "vlm-0104",
    "pad-0526",
@@ -4606,6 +4612,8 @@
    "ev-jagannatha-embraces-gaura",
    "ev-jagannatha-dasa-rahasa",
    "ev-jagannatha-dasa-bhagavata-meeting",
+   "ev-svami-initiated-by-balarama-dasa",
+   "ev-atibada-name",
    "ev-gopinatha-sarvabhauma-debate",
    "ev-jagannatha-turns-golden",
    "ev-sarvabhauma-deliverance",
@@ -4742,7 +4750,6 @@
    "ev-rupa-sends-book-to-lord",
    "ev-sanatana-puri-sores",
    "ev-anupama-rama-devotion",
-   "ev-atibada-name",
    "ev-sanatana-hot-sand-test",
    "ev-jagadananda-advises-sanatana",
    "ev-damodara-vakya-danda",
@@ -4760,7 +4767,6 @@
    "ev-gaudiyas-leave-nilachala",
    "ev-shikshashtaka-recitation",
    "ev-gaudiyas-govardhana-clash",
-   "ev-svami-initiated-by-balarama-dasa",
    "ev-kamalakanta-letter-prataparudra",
    "ev-govardhana-shila-gunja-gift",
    "ev-gopala-bhattacharya-mayavada",
@@ -12873,10 +12879,13 @@
   "note": "Пури, двор храма Джаганнатхи; по «Вайшнава-лиламрите» — место рахасы и толкования «Бхагаваты» Джаганнатхой Дасом",
   "section": "",
   "lilas": [
-   "vlm-0105"
+   "vlm-0105",
+   "dvk-0005",
+   "dvk-0004"
   ],
   "events": [
-   "ev-jagannatha-dasa-rahasa"
+   "ev-jagannatha-dasa-rahasa",
+   "ev-jagannatha-dasa-bhagavata-meeting"
   ]
  },
  {

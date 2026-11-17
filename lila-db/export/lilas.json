@@ -130685,6 +130685,70 @@
   "attestation": 11
  },
  {
+  "id": "dvk-0005",
+  "source": "divakara-jcm",
+  "ref": "Гл. 2, 1–57",
+  "file": "divakara-jagannatha-charitamrita/ru/02.md",
+  "period": "P10",
+  "order": 12,
+  "title": "Шри Чайтанья слушает «Бхагавату» Джаганнатхи Даса под баньяном; ропот вайшнавов об «непосвящённых» орийских брахманах",
+  "summary": "Придя в Пурушоттаму, Махапрабху слышит, как Джаганнатха Дас излагает Десятую песнь «Бхагаваты» перед Ганешей у баньяна; два с половиной дня оба в узах премы; Прабху говорит: «Ты не отличен от Шри Мурти». Бенгальские вайшнавы ропщут: Он сблизился с орийским брахманом, а уткальские брахманы не получили посвящения и к ним нельзя прикасаться; Прабху отвечает шлокой: «невежда или учёный — брахман есть Моё тело». Джаганнатха Дас приходит в матх с абхадой и признаётся, что не имеет дикши; шлоки о силе дикши.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri",
+   "#bata-ganesha"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ВЛ 4.36–50",
+  "notes": "Сектантская версия Атибади: Джаганнатха Дас «не отличен от Джаганнатхи», Господь — словно его слуга (2.22–2.30); в ЧЧ/ЧБ эпизода нет (сноски перевода).",
+  "themes": [
+   "learning",
+   "ecstasy",
+   "jagannatha"
+  ],
+  "teaching": [
+   "vaishnava",
+   "associates-tattva"
+  ],
+  "event": "ev-jagannatha-dasa-bhagavata-meeting",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/02.md",
+    "from": "2.1",
+    "to": "2.57"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/02.md",
+    "from": "2.1",
+    "to": "2.57",
+    "line": 8,
+    "line_to": 76,
+    "count": 57,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/02.md?plain=1#L8-L76",
+    "file_en": "divakara-jagannatha-charitamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/02.md?plain=1#L8-L76"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 2
+ },
+ {
   "id": "vlm-0002",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 4, 36–50",
@@ -130740,7 +130804,7 @@
    24,
    24
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "cc-1047",
@@ -130802,6 +130866,195 @@
    24
   ],
   "attestation": 11
+ },
+ {
+  "id": "dvk-0006",
+  "source": "divakara-jcm",
+  "ref": "Гл. 2, 58–141",
+  "file": "divakara-jagannatha-charitamrita/ru/02.md",
+  "period": "P10",
+  "order": 13,
+  "title": "Учение о дикше и гуру: кто может и кто не может быть гуру",
+  "summary": "Плоды посвящения (шлоки о дикше, уничтожающей великие грехи); не-вайшнав не может быть гуру, сколь бы знатен и учён он ни был; посвящённый от брахмана, кшатрия, вайшьи или шудры идёт в разные миры, а от вайшнава обретает всё; длинный перечень телесных и нравственных изъянов, при которых нельзя принимать Имя от гуру; кто поклоняется Хари и знает прему Кишори и Кишоры — годен в гуру для всех варн, будь то шудра или женщина. Джаганнатха Дас просит у Прабху Имя; Прабху велит Матте Балараме посвятить его («Харер нама…»).",
+  "persons": [
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu",
+   "@balarama-dasa-odia",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "Ср. ЧЧ Мадхья 8 (гуру — из любой варны, если знает таттву Кришны); ЧЧ Ади 17.21 («Харер нама…»)",
+  "notes": "Многие шлоки о признаках гуру — из смрити и тантр, источники не установлены (сноски перевода).",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "vaishnava",
+   "holy-name",
+   "scripture"
+  ],
+  "event": "ev-svami-initiated-by-balarama-dasa",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/02.md",
+    "from": "2.58",
+    "to": "2.141"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/02.md",
+    "from": "2.58",
+    "to": "2.141",
+    "line": 82,
+    "line_to": 181,
+    "count": 84,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/02.md?plain=1#L82-L181",
+    "file_en": "divakara-jagannatha-charitamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/02.md?plain=1#L82-L181"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "dvk-0007",
+  "source": "divakara-jcm",
+  "ref": "Гл. 2, 142–171",
+  "file": "divakara-jagannatha-charitamrita/ru/02.md",
+  "period": "P10",
+  "order": 14,
+  "title": "Матта Баларама посвящает Джаганнатху Даса перед Махапрабху",
+  "summary": "Баларама Дас, «опьянённый Именем», по слову Прабху посвящает Джаганнатху Даса: тилака «Хари-мандир», чётки из лотосовых семян и туласи, знаки раковины и диска, санкальпа, ньясы, медитация на Джаганнатху; посреди вайшнавов, пред лицом Махапрабху он даёт Имя, царя мантр, шестнадцать имён, гаятри Четы, мантру Тхакура и Тхакурани и пять имён Джаганнатхи. Дивакар велит держаться мантры своей линии.",
+  "persons": [
+   "@balarama-dasa-odia",
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ВЛ 7.1–18 (посвящение позже, при гневе Каши Мишры)",
+  "notes": "У Дивакара посвящение следует сразу за встречей под баньяном; в ВЛ — позже. Гуру Господа по ЧЧ/ЧБ — Ишвара Пури; посвящение Джаганнатхи Даса Баларамой Дасом гаудия-источники не знают.",
+  "themes": [
+   "kirtan",
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-svami-initiated-by-balarama-dasa",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/02.md",
+    "from": "2.142",
+    "to": "2.171"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/02.md",
+    "from": "2.142",
+    "to": "2.171",
+    "line": 186,
+    "line_to": 215,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/02.md?plain=1#L186-L215",
+    "file_en": "divakara-jagannatha-charitamrita/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/02.md?plain=1#L186-L215"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "dvk-0008",
+  "source": "divakara-jcm",
+  "ref": "Гл. 3, 1–57",
+  "file": "divakara-jagannatha-charitamrita/ru/03.md",
+  "period": "P10",
+  "order": 15,
+  "title": "Служение Джаганнатхи Даса; рассказ о смехе Кришны и Радхи; имя «Атибада»; печаль вайшнавов",
+  "summary": "Джаганнатха Дас каждый день лично служит Махапрабху: умывание, зубная палочка, омовение, одежда, чистка посоха и камандалу. Прабху просит рассказать о его прежнем облике; тот описывает Вайкунтху-лотос, где Кришна в объятии Радхи: из смеха Кришны явился Чайтанья, из смеха Радхи — он сам, и оба посланы на землю. Прабху снимает Своё покрывало, повязывает ему на голову и называет его Атибадой; так его зовёт весь мир, а бенгальские вайшнавы печалятся и идут жаловаться Прабху.",
+  "persons": [
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu",
+   "@krishna",
+   "@radha",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ВЛ 5.109–129",
+  "notes": "Сектантское предание Атибади; по ЧЧ Ади 1.5 и Ади 4 Шри Чайтанья — Сам Кришна в бхаве и сиянии Радхи; «ативади» — в перечне апасампрадай (сноски перевода).",
+  "themes": [
+   "revelation",
+   "mercy"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "associates-tattva"
+  ],
+  "event": "ev-atibada-name",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.1",
+    "to": "3.57"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.1",
+    "to": "3.57",
+    "line": 8,
+    "line_to": 73,
+    "count": 57,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/03.md?plain=1#L8-L73",
+    "file_en": "divakara-jagannatha-charitamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/03.md?plain=1#L8-L73"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0212",
@@ -201228,7 +201481,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "cc-4041",
@@ -204719,7 +204972,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "cc-0169",
@@ -271737,6 +271990,58 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/01.md?plain=1#L65-L79",
     "file_en": "vaishnava-lilamrita/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/01.md?plain=1#L65-L79"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0004",
+  "source": "divakara-jcm",
+  "ref": "Гл. 1, 72–96",
+  "file": "divakara-jagannatha-charitamrita/ru/01.md",
+  "period": "PX",
+  "order": 4,
+  "title": "Кали-юга; явление Шри Чайтаньи; рождение и учение Джаганнатхи Даса",
+  "summary": "Люди Кали погрязли в грехе; Господь, явившись в Навадвипе и приняв санньясу под именем Шри Чайтанья, велит «частице Радхи» родиться на земле и распространять имя Хари; Джаганнатха Дас рождается в Капилешварапуре у пурана-панды Бхагавана и Падмы в шукла-аштами Бхадры, в двенадцать лет женится, изучает Веды, грамматику, «Махабхарату», «Рамаяну» и «Бхагавату» с толкованиями и к восемнадцати годам читает «Бхагавату» перед Бата-Ганешей.",
+  "persons": [
+   "@divakara-dasa",
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#puri",
+   "#bata-ganesha"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ВЛ 4 (Джаганнатха Дас у Бата-Ганеши)",
+  "notes": "Житие Джаганнатхи Даса по линии Атибади; «частица Радхи» — сноски с позицией гаудия-вайшнавов. Колофон главы 1 — «Анукрамани» (?).",
+  "themes": [
+   "author",
+   "learning"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.72",
+    "to": "1.96"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.72",
+    "to": "1.96",
+    "line": 106,
+    "line_to": 130,
+    "count": 25,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/01.md?plain=1#L106-L130",
+    "file_en": "divakara-jagannatha-charitamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/01.md?plain=1#L106-L130"
    }
   ],
   "attestation": 1

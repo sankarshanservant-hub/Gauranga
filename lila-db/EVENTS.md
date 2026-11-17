@@ -3437,6 +3437,7 @@
 
 ## Встреча с Джаганнатхой Дасом, толкователем «Бхагаваты» / Meeting with Jagannatha Dasa, expounder of the Bhagavata  `ev-jagannatha-dasa-bhagavata-meeting` (1510–1510, возраст 24–24, оценка)
 
+- divakara-jcm (D): Гл. 2, 1–57 — [2.1–2.57](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L8-L76) · `dvk-0005`
 - vaishnava-lilamrita (C): Гл. 4, 36–50 — [4.36–4.50](../vaishnava-lilamrita/ru/04.md?plain=1#L44-L58) · `vlm-0002`
 
 ## Вечерний даршан: Джаганнатха становится золотистым / Evening darshan: Jagannatha turns golden  `ev-jagannatha-turns-golden` (1510–1510, возраст 24–24, оценка)
@@ -5424,6 +5425,7 @@
 
 ## Джаганнатха Дас получает имя «Атибада» / Jagannatha Dasa receives the name 'Atibada'  `ev-atibada-name` (1516–1533, возраст 30–47, оценка)
 
+- divakara-jcm (D): Гл. 3, 1–57 — [3.1–3.57](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L8-L73) · `dvk-0008`
 - vaishnava-lilamrita (D): Гл. 5, 109–129 — [5.109–5.129](../vaishnava-lilamrita/ru/05.md?plain=1#L130-L150) · `vlm-0135`
 
 ## Господь запрещает Санатане самоубийство: «твоё тело — Моя собственность» / The Lord forbids Sanatana's suicide: "your body is My property"  `ev-sanatana-suicide-forbidden` (1516–1533, возраст 30–47, оценка)
@@ -5581,6 +5583,8 @@
 
 ## Джаганнатха Дас принимает дикшу от Баларамы Даса; гнев Каши Мишры / Jagannatha Dasa takes initiation from Balarama Dasa; Kashi Mishra's anger  `ev-svami-initiated-by-balarama-dasa` (1516–1533, возраст 30–47, оценка)
 
+- divakara-jcm (D): Гл. 2, 58–141 — [2.58–2.141](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L82-L181) · `dvk-0006`
+- divakara-jcm (D): Гл. 2, 142–171 — [2.142–2.171](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L186-L215) · `dvk-0007`
 - vaishnava-lilamrita (C): Гл. 7, 1–18 — [7.1–7.18](../vaishnava-lilamrita/ru/07.md?plain=1#L8-L25) · `vlm-0144`
 
 ## Письмо Камалаканты Вишваса Пратапарудре о долге Адвайты: Господь наказывает «баулию», Адвайта радуется наказанию, Господь прощает и наставляет / Kamalakanta Vishvasa’s letter to Prataparudra about Advaita’s debt: the Lord punishes the “bauliya”, Advaita rejoices at the punishment, the Lord forgives and instructs  `ev-kamalakanta-letter-prataparudra` (1516–1533, возраст 30–47, оценка)
