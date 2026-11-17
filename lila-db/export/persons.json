@@ -4500,6 +4500,10 @@
    {
     "from": "@vishnupriya",
     "type": "spouse"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
    }
   ]
  },
@@ -5472,6 +5476,10 @@
    },
    {
     "from": "@shridhara-maharaja",
+    "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
     "type": "other"
    }
   ]
@@ -7009,12 +7017,12 @@
    {
     "type": "served-by",
     "who": "@gangamata-gosvamini",
-    "note": "Сначала отказалась (нищета и страх оскорбления — B 970; невозможность царского служения — B 968, T 218, ⚠3); по Его слову во сне приняла Его, кормила, служила по четыре прахары в день на подаяние; Он устроил припасы от купцов; по Его велению передала служение ученику и вошла в вечную лилу, созерцая Его (1721, ашвина-шукла-экадаши — B 971)."
+    "note": "Сначала отказалась (нищета и страх оскорбления — B 970; невозможность царского служения — B 968, T 218, ⚠3); по Его слову во сне приняла Его, кормила, служила по четыре прахары в день на подаяние; Он устроил припасы от купцов; по Его велению передала служение ученику и вошла в вечную лилу, созерцая Его (1721, ашвина-шукла-экадаши — B 971). По «Анубхашье» к ЧЧ Ади 8.59–60, она сама принесла Его от Кришны Мишры из Джайпура и открыла служение Ему в доме Сарвабхаумы (⚠5)."
    },
    {
     "type": "served-by",
     "who": "@banamali-dasa-gangamata",
-    "note": "Преемник служения: ему Гангамата вверила служение Расика Раю (B 971)."
+    "note": "Преемник служения: ему Гангамата вверила служение Расика Раю (B 971); по всей видимости — «Шри Ванамали», следующий за ней в преемстве матха по «Анубхашье» к ЧЧ Ади 8.59–60 (вывод)."
    },
    {
     "type": "other",
@@ -9313,6 +9321,10 @@
    {
     "from": "@vamshivadana",
     "type": "guru"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
    }
   ]
  },
@@ -22900,6 +22912,10 @@
     "type": "met"
    },
    {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
+   },
+   {
     "from": "@yamunacharya",
     "type": "other"
    }
@@ -23786,6 +23802,10 @@
    },
    {
     "from": "@vasudeva-vipra",
+    "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
     "type": "other"
    },
    {
@@ -36589,6 +36609,10 @@
    {
     "from": "@subuddhi-raya",
     "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "lineage-predecessor"
    }
   ]
  },
@@ -36697,6 +36721,10 @@
    {
     "from": "@advaita",
     "type": "son"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "opposed"
    }
   ]
  },
@@ -37721,6 +37749,10 @@
    {
     "from": "@vallabha-bhatta",
     "type": "met"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
    }
   ]
  },
@@ -40268,6 +40300,10 @@
    {
     "from": "@vishnupriya",
     "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "lineage-predecessor"
    }
   ]
  },
@@ -41881,6 +41917,10 @@
     "type": "other"
    },
    {
+    "from": "@vishvanatha-chakravarti",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@yamunacharya",
     "type": "other"
    }
@@ -42616,6 +42656,12 @@
    "ev-narottama-pyre-gambhila",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "lineage-predecessor"
+   }
   ]
  },
  {
@@ -43297,6 +43343,10 @@
    },
    {
     "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
     "type": "other"
    }
   ]
@@ -46222,6 +46272,10 @@
    {
     "from": "@vishnupriya",
     "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
    }
   ]
  },
@@ -46551,6 +46605,10 @@
     "type": "other"
    },
    {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
+   },
+   {
     "from": "@yamunacharya",
     "type": "other"
    }
@@ -46630,6 +46688,257 @@
   "section": "Спутники",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Радхарамана Чакраварти; происхождение — Деваграм; уход — Васанта-панчами месяца магха",
+  "card": "parshadas/cards/vishvanatha-chakravarti.yaml",
+  "article": {
+   "ru": "parshadas/ru/vishvanatha-chakravarti.md",
+   "en": "parshadas/en/vishvanatha-chakravarti.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1638",
+    "tithi": "",
+    "place": "#devagrama",
+    "conf": "год: B, T — 1638 (1560 шака); T «по другим» — 1656; M — 1586 шака (1664) (⚠3); дня явления нет и в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17)",
+    "facts": [
+     "F6",
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "1708?",
+    "tithi": "Васанта-панчами месяца магха (B, M); по нашему календарю — Гаура-панчами Мадхава-масы (Шри Кришна Васанта-панчами; 23.01.2026, 12.02.2027); T — «шукла- или кришна-панчами магхи»",
+    "place": "#radha-kunda?",
+    "conf": "титхи — B, M и календарь согласны; год (ок. 1708, 1630 шака) и место (Радха-кунда) — только T; B — «после Галты» (ок. 1706)",
+    "facts": [
+     "F74",
+     "F75",
+     "F76"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Сарартха-даршини» — сплошной комментарий ко всем 12 песням «Бхагаватам»",
+    "facts": [
+     "F42",
+     "F44",
+     "F46",
+     "F49",
+     "F24"
+    ]
+   },
+   {
+    "title": "комментарий к «Гите» («Сарартха-даршини» по B; «Сарартха-варшини» по T, M)",
+    "facts": [
+     "F42",
+     "F44",
+     "F46",
+     "F79"
+    ]
+   },
+   {
+    "title": "комментарии к книгам Рупы: «Ананда-чандрика» («Уджджвала-ниламани»), к БРС, «Дана-кели-каумуди», «Лалита-мадхаве», «Видагдха-мадхаве», «Хамсадуте»",
+    "facts": [
+     "F42",
+     "F44",
+     "F50",
+     "F57"
+    ]
+   },
+   {
+    "title": "изложения: «Уджджвала-ниламани-кирана», «Бхакти-расамрита-синдху-бинду», «Бхагаватамрита-кана»",
+    "facts": [
+     "F42",
+     "F44",
+     "F48",
+     "F52"
+    ]
+   },
+   {
+    "title": "«Шри Кришна-бхаванамрита» (махакавья), «Санкалпа-калпадрума», «Мадхурья-кадамбини», «Рага-вартма-чандрика» и др.",
+    "facts": [
+     "F42",
+     "F43",
+     "F44",
+     "F46"
+    ]
+   },
+   {
+    "title": "«Ставамрита-лахари» (сборник стотр)",
+    "facts": [
+     "F45"
+    ]
+   },
+   {
+    "title": "«Кшанада-гита-чинтамани» (антология пад), «Гитавали»; песни под подписью «Харивалабха»",
+    "facts": [
+     "F4",
+     "F42",
+     "F55"
+    ]
+   },
+   {
+    "title": "«Субодхини» («Аланкара-каустубха»), «Сукха-вартини» («Ананда-вриндавана-чампу»), комментарии к «Гопала-тапани», «Брахма-самхите» (гл. 5), ЧЧ",
+    "facts": [
+     "F42",
+     "F44",
+     "F46",
+     "F57",
+     "Q4"
+    ]
+   },
+   {
+    "title": "«Мантрартха-дипика» — рассказ о полуслоге кама-гаятри",
+    "facts": [
+     "F59"
+    ]
+   },
+   {
+    "title": "«Айшварья-кадамбини» — атрибуция спорна",
+    "facts": [
+     "F46",
+     "F47"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@radharamana-chakravarti",
+    "note": "Шикша-, затем дикша-гуру (B 972); M 254 — дикша от Кришначараны; НВ-прил. — «Рамачарана» (⚠4)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@krishnacharana-chakravarti",
+    "note": "Гуру его гуру; жил в Саиядабаде; по M 254 — дал ему мантра-дикшу (⚠4)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@ganganarayana-chakravarti",
+    "note": "«Ганга» в его стихе-мангале; Кришначарана — его ученик и, по некоторым, приёмный сын; хвалы ему — в «Ставамрита-лахари» (НВ 10, 12)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@narottama-dasa",
+    "note": "Четвёртый от Нароттамы в линии; «Нароттамаштака»; «Санкалпа-калпадрума» — под руководством Локанатхи и Нароттамы."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@lokanatha",
+    "note": "«Натха» в стихе-мангале; «Локанатхаштака»."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@krishnadasa-kaviraja",
+    "note": "В шикша-линии по Бхактисиддханте; жил в его бхаджан-кутире на Радха-кунде; видение Радхи подтвердило слова Кавираджа о полуслоге («она — Моя нарма-сахачари», ⚠Б2)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@mukunda-dasa-radhakunda",
+    "note": "Ученик Кавираджа; у него изучал книги Госвами (M 254–255; НВ-прил.)."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@baladeva-vidyabhushana",
+    "note": "Самый способный ученик; учил его «Бхагавате» и ачинтья-бхеда-абхеде; послал в Галту; после его ухода Баладева возглавил движение. Подробности — реестр Баладевы."
+   },
+   {
+    "type": "disciple",
+    "who": "@krishnadeva-sarvabhauma",
+    "note": "Вместе с Баладевой послан на диспут в Галту (B; у T, M — только Баладева, ⚠5)."
+   },
+   {
+    "type": "disciple",
+    "who": "@jagannatha-chakravarti",
+    "note": "Отец Нарахари Чакраварти (БР 15.47–48; T 70 — двусмысленно, ⚠12); посвящён, когда Вишванатха пришёл в Гауду (НВ-прил.)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "Сын его ученика; приводит стихи «Ставамрита-лахари» в БР и НВ; по НВ-прил. — видел Вишванатху во сне."
+   },
+   {
+    "type": "opposed",
+    "who": "@rupa-kaviraja",
+    "note": "Опроверг его учение «ати-бари» в «Сарартха-даршини» на Третью песнь (T); B — ученик Шринивасы, НВ-прил. — ученик Кришначараны (⚠10)."
+   },
+   {
+    "type": "opposed",
+    "who": "@balarama-mishra",
+    "note": "B 972: «движение Баларамы, сына Адвайты, и его потомков» — без первоисточника (⚠Б6)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gokulananda-deity",
+    "note": "Установил служение; храм на Радха-кунде (B) / во Вриндаване (T) (⚠7); по НВ-прил. — Божество передал ему брахмачари по велению Самого Гокулананды."
+   },
+   {
+    "type": "deity-served",
+    "who": "@govardhana-shila-raghunatha",
+    "note": "Шила Рагхунатхи Даса ныне почитается в храме Гокулананды (B); по НВ-прил. — через Кавираджа, Мукунду и Кришнаприю."
+   },
+   {
+    "type": "other",
+    "who": "@krishnapriya-radhakunda",
+    "note": "Давала ему служить Говардхана-шиле (НВ-прил.)."
+   },
+   {
+    "type": "other",
+    "who": "@jai-singh-ii",
+    "note": "Пригласил его в Галту (B) / в Джайпур (T) / прислал гонца во Вриндаван (M) (⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "Явилась ему у Радха-кунды и открыла смысл полуслога кама-гаятри (⚠Б1, ⚠Б2)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "По НВ-прил. — во сне остановил его «Чайтанья-расаяну» (⚠Б10)."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "Опирался на «Сандарбхи»; прославлял Дживу; «не отличен от Дживы во взглядах» (НВ-прил., B 527; ⚠11). = @jiva-gosvami F107, F363."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Последовал его примеру, уйдя во Вриндаван; комментарии и изложения его книг. = @rupa-gosvami F326, F327, F575."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Следовал «Вайшнава-тошани». = @sanatana-gosvami F400, F401, F483."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Шикша-парампара; «почтение Вишванатхе и его ученикам…» (⚠Б7)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Издал «Гиту» с его комментарием (1886)."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Рассказ о полуслоге в предисловии к ЧЧ (= @bhakti-pramoda-puri F23)."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "Беседа Гауры и Вишнуприи в его аштакалия-смаране (B 134, ⚠Б9)."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-pramoda-puri",
@@ -54262,6 +54571,12 @@
   ],
   "events": [
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "lineage-predecessor"
+   }
   ]
  },
  {
@@ -58915,6 +59230,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "siksha-disciple"
    }
   ]
  },
@@ -59349,6 +59668,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "disciple"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "opposed"
    }
   ]
  },
@@ -59815,6 +60138,10 @@
    {
     "from": "@vamshidasa-babaji",
     "type": "met"
+   },
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
    }
   ]
  },
@@ -62160,6 +62487,126 @@
    {
     "from": "@gangamata-gosvamini",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@radharamana-chakravarti",
+  "ru": "Радхарамана Чакраварти",
+  "en": "Radharamana Chakravarti",
+  "note": "пандит из Саиядабада (Муршидабад), ученик @krishnacharana-chakravarti; шикша- и дикша-гуру @vishvanatha-chakravarti (B 972; T 219)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "guru"
+   }
+  ]
+ },
+ {
+  "id": "@krishnadeva-sarvabhauma",
+  "ru": "Кришнадева Сарвабхаума",
+  "en": "Krishnadeva Sarvabhauma",
+  "note": "ученик @vishvanatha-chakravarti; с @baladeva-vidyabhushana послан на диспут в Галту (B 975, 991); не путать с @krishnadeva-sharma",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@jai-singh-ii",
+  "ru": "Джай Сингх II (царь Джайпура)",
+  "en": "Jai Singh II (King of Jaipur)",
+  "note": "пригласил @vishvanatha-chakravarti в Галту на диспут (ок. 1706; B 975, 990)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@jagannatha-chakravarti",
+  "ru": "Джаганнатха Чакраварти (отец Нарахари Чакраварти)",
+  "en": "Jagannatha Chakravarti (father of Narahari Chakravarti)",
+  "note": "ученик @vishvanatha-chakravarti (БР 15.48; T 70)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@mukunda-dasa-radhakunda",
+  "ru": "Мукунда дас (ученик Кришнадаса Кавираджа)",
+  "en": "Mukunda Dasa (Krishnadasa Kaviraja's disciple)",
+  "note": "жил в бхаджан-кутире Кавираджа на Радха-кунде; у него учился @vishvanatha-chakravarti (M 254); не путать с @mukunda-dasa (Шрикханда)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "siksha-guru"
+   }
+  ]
+ },
+ {
+  "id": "@krishnapriya-radhakunda",
+  "ru": "Кришнаприя Тхакурани (Радха-кунда)",
+  "en": "Krishnapriya Thakurani (of Radha-kunda)",
+  "note": "дочь Вишнуприи, дочери @ganganarayana-chakravarti; хранила Говардхана-шилу Рагхунатхи Даса («Нароттама-виласа», прил.); не путать с @krishnapriya-srinivasa",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@gokulananda-deity",
+  "ru": "Гокулананда — Божество Вишванатхи Чакраварти",
+  "en": "Gokulananda, Vishvanatha Chakravarti's Deity",
+  "note": "Радха-кунда (B 972) / Вриндаван (T 220); не путать с @gokulananda (Чакраварти)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@govardhana-shila-raghunatha",
+  "ru": "Говардхана-шила Рагхунатхи Даса",
+  "en": "the Govardhana-shila of Raghunatha Dasa",
+  "note": "дана Господом @raghunatha-dasa (ЧЧ Антья 6); ныне — в храме Гокулананды (B 972)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vishvanatha-chakravarti",
+    "type": "deity-served"
    }
   ]
  }

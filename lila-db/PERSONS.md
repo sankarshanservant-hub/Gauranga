@@ -316,7 +316,7 @@
 | @bhaktisiddhanta | Бхактисиддханта Сарасвати (Прабхупада) | Bhaktisiddhanta Sarasvati (Prabhupada) | ачарья, сын Бхактивиноды; основатель Гаудия-матха |
 | @jagannatha-dasa-babaji | Джаганнатха дас Бабаджи | Jagannatha Dasa Babaji | «вайшнава-сарвабхаума»; указал место явления Господа и день явления Вишнуприи; не путать с @jagannatha-dasa-odia |
 | @kanai-shrikhanda | Канаи Тхакур (Шрикханда) | Kanai Thakura (of Shrikhanda) | сын Рагхунанданы; по повелению Нарахари — служение Гауранге и Вишнуприе (B 131) |
-| @vishvanatha-chakravarti | Вишванатха Чакраварти Тхакур | Vishvanatha Chakravarti Thakura | ачарья XVII–XVIII вв., комментатор «Бхагаваты» |
+| @vishvanatha-chakravarti | Вишванатха Чакраварти Тхакур | Vishvanatha Chakravarti Thakura | ачарья XVII–XVIII вв., комментатор «Бхагаваты» · {карточка: гуру — Радхарамана Чакраварти; происхождение — Деваграм; уход — Васанта-панчами месяца магха} |
 | @ramachandra-khan | Рамачандра Кхан | Ramachandra Khan | заминдар Бенаполя (Джессор), враг вайшнавов: подослал блудницу к Харидасу, отвёл Нитьянанде коровник (ЧЧ Антья 3) |
 | @krishnadasa-sarakhela | Кришнадас Саркхел | Krishnadasa Sarakhela | младший брат Сурьядаса Пандита, твёрдо верил в Нитьянанду (ЧЧ Ади 11.25); не путать с @krishnadasa-badagachhi |
 | @shrimati-virachandra | Шримати (жена Вирачандры) | Shrimati (Virachandra's wife) | дочь Ядунанданы (Ядунатхи) Ачарьи и Видьюнмалы из Джхаматпура; не путать с @radha |
