@@ -97,6 +97,169 @@ shiksha-guru; diksha he received from Radha-Damodara.[^10] <!-- F17 F18 -->
 Baladeva lived as a renunciant: he accepted the dress of a Vaishnava vairagi, and one of the biographies calls him “an
 ideal sannyasi.” <!-- F21 -->
 
+## The Dispute at Galta
+To understand what the Gaudiyas owe Baladeva, one must recall what happened at the beginning of the eighteenth century
+in Galta, near Amber, the old capital of the Jaipur principality. When Sri Rupa's Govinda-deva was threatened by
+iconoclastic Muslims, the king of Amber moved Him to Galta to keep Him safe. Yet Galta, since the time of Payohari
+Krishnadasa, the guru of Prithviraja (Man Singh's great-grandfather), had been the chief seat of the Ramanandis in
+northern India, and it was the royal house of Amber itself that had given them land there. King Jai Singh built a huge
+temple in Galta and installed in it Rupa's Govinda-deva, the Deity whom Man Singh had already worshipped. The Ramanandis
+saw that the Gaudiyas were in even greater favour at the court of Amber than they were, and this galled them.[^11]
+<!-- F22 -->
+
+As long as Man Singh and his descendants were close to the Gaudiya Vaishnava teachers, the Ramanandis did not dare to
+show hostility. But in time the firmness and learning of the Gaudiya priests of Govinda in Galta declined, their
+successors became mere temple servants, and then the local Ramanandi scholars and sadhus began to attack them in every
+way, to take from them the service of Govinda and drive the Gaudiyas out of Amber. <!-- F23 -->
+
+The Ramanandis' argument was this: the Gaudiyas have no right to serve as priests, because their sampradaya is not
+recognized. In support they cited a verse known from the “Padma-purana”:
+
+“Mantras outside a sampradaya are considered fruitless. Therefore in Kali there will be four (founders of)
+sampradayas — the Vaishnavas Sri, Brahma, Rudra and Sanaka, who purify the earth.”[^12]
+
+A mantra bears no fruit until one joins one of the four sampradayas, whose acharyas are Ramanuja, Madhva, Vishnusvami
+and Nimbarka, and whose first gurus are Lakshmi, Brahma, Rudra and the Sanat-kumaras. The Ramanandis also demanded proof
+that the philosophy of the Gaudiyas agreed with Vedanta and the Upanishads. The Bengali priests could not defend
+themselves, and Jai Singh was greatly troubled. <!-- F24 Q6 -->
+
+King Jai Singh II was a great scholar. He did not wish either to expel the Gaudiya priests or to hand over the Deity's
+service to the Ramanandis until the latter had debated with the leaders of the Gaudiyas themselves, and he invited
+Vishvanatha Chakravarti to Galta, to answer the opponents, establish the strength of the teaching and win recognition
+for the sampradaya. The challenge raised at the Jaipur court was simple: no acharya of the Gaudiyas had written a
+commentary on Vedanta. “Our Teachers” adds that the Ramanandis opposed the worship of Radha-Govinda, held Narayana to be
+the principal Deity and claimed that Mahaprabhu's movement stood outside the four sampradayas, while Maharaja Jai Singh,
+a patron of the Gaudiyas who had studied the works of the Gosvamis, of Kaviraja Gosvami and of Vrindavana Dasa,
+arranged a debate on whose outcome the fate of worship in all Rajasthan depended.[^13] <!-- F25 F26 -->
+
+According to a tradition handed down in the line of teachers, the dispute in Galta took place in 1626 Shaka (1704);
+according to other accounts, around 1706 (1628 Shaka).[^14] Vishvanatha was by then too old for such a journey and sent
+his younger disciples in his place: Baladeva and his friend Krishnadeva Sarvabhauma, also a disciple of Vishvanatha; one
+of the biographies calls them “two rising stars of the Gaudiya Vaishnava world.” According to other accounts,
+Vishvanatha wanted one of the young scholarly devotees to represent the sampradaya; the choice fell on Baladeva, a master
+of all the principal shastras, and he went to Jaipur alone.[^15] <!-- F27 F28 F50 -->
+
+## Two Ways — and a Third
+The question before the Gaudiyas was this. Either they belong to the sampradaya of Madhva — then let them prove their
+unity with it in philosophy and in the order of worship. Or they are independent — then they must have their own
+commentary on Vedanta: it was the established rule that a sampradaya claiming independence shows the foundation of its
+teaching in the Vedanta-sutras. The position of the Gaudiyas was unusual. Their historical roots lay in the line of
+Madhva, yet they did not regard his commentary on the sutras as their own, for they had accepted achintya-bhedabheda,
+whereas Madhva in his bhashya teaches difference;[^16] and in philosophy and in ritual they differed so much from the
+Madhvas that other sampradayas did not regard them as Madhvas. <!-- F29 -->
+
+Neither Sri Chaitanya nor the six Gosvamis accepted Madhva's bhashya in full as the teaching of the Gaudiyas, nor did
+they write a commentary of their own on the sutras. The Gosvamis quoted Madhva in support of their conclusions, but they
+also drew support from Ramanuja, Sridhara Svami and others. Sri Chaitanya, in Varanasi and on other occasions, affirmed
+that the true commentary on Vedanta is the “Bhagavata-purana”; Sanatana in the “Brihad-bhagavatamrita” and Jiva in the
+“Sandarbhas” strengthened this idea. But every Vaishnava reveres the “Bhagavata,” and it was not the exclusive property
+of the Gaudiyas; so the Ramanandis demanded one of two things: either prove identity with Madhva by accepting his
+bhashya and order of worship, or produce a commentary of their own. <!-- F30 -->
+
+Baladeva took another way. He showed that the Gaudiya-sampradaya descends in succession from the line of Madhva and that
+the foundations of its teaching and philosophy are found there, and at the same time he stressed what the Gaudiyas
+themselves had brought and how their teaching and practice differ. First he showed that both sampradayas agree in the
+nine truths taught by Madhva, and then how the Gaudiyas had unfolded them in their own way, up to achintya-bhedabheda.
+The Gaudiyas, then, are not cut off from Madhva: part of the edifice of their teaching stands on his doctrine of the
+difference between the jiva and Ishvara. But the edifice itself is Mahaprabhu's gift, and achintya-bhedabheda is not a
+concession to two contending schools or a midpoint between them, but the original conclusion of the shruti, revealed by
+Mahaprabhu and unfolded by the Gosvamis.[^17] <!-- F31 -->
+
+Baladeva also pointed out that the idea of achintya-bhedabheda first appears in Madhva himself — in the
+“Bhagavata-tatparya” (11.7.51), where he quotes a verse of the ancient treatise “Brahma-tarka.” Sri Jiva knew that the
+seed of achintya-bhedabheda lay in the “Tatparya”: at the beginning of the “Shat-sandarbha” he says that he followed
+Madhva's “Tatparya” and accepted what it cites from the “Brahma-tarka,” though he had not found the treatise itself.
+Later Baladeva included this reasoning in the “Siddhanta-ratna,” the “Prameya-ratnavali,” the commentary on the
+“Govinda-bhashya” and other works of his, thereby paying deep respect to Madhva. <!-- F32 Q7 -->
+
+The Ramanandis were convinced that the Gaudiyas did indeed descend from Madhva and owed him something. But all the more
+insistently they demanded to see the Gaudiyas' own commentary: since they had something to say beyond Madhva and had a
+philosophical system of their own, let them show it in an exposition of the sutras. The “Bhagavata” they did not accept
+as a commentary on Vedanta. In this way they compelled Baladeva to compose the “Govinda-bhashya.” <!-- F33 -->
+
+Before a huge assembly of pandits Baladeva challenged all to a learned debate. The debate was long and heated, and no
+one could stand against his conclusions, learning and penetration. He maintained that Sri Chaitanya, the founder of the
+Gaudiya-sampradaya, had accepted the “Srimad-Bhagavatam” as the best commentary on Vedanta, and that the Gaudiyas
+therefore saw no need for a separate commentary. So the “Charitamrita” teaches in Mahaprabhu's words:
+
+“Therefore the Bhagavatam is the very meaning of the sutras: by nature it is the author's own commentary on the sutras
+he himself composed. ‘This book of eighteen thousand verses, named Srimad-Bhagavatam, is the meaning of the
+Brahma-sutras. It settles the sense of the Mahabharata, it is a commentary on the Gayatri, and it is enriched by the
+import of the Vedas’ (Garuda Purana).” (CC, Madhya 25.136–137)[^18]
+
+At this the pandits cried out: “He admits himself that there is no commentary!” <!-- F34 Q13 -->
+
+Baladeva promised to show the Gaudiyas' commentary on Vedanta within a few days. The pandits were astonished and
+suspected a trick, but for the time being fell silent. And their demand carried weight in those days: a sampradaya was
+recognized as authoritative only if it had its own bhashyas on the “Vedanta-sutra,” the Upanishads, the
+“Vishnu-sahasra-nama” and the “Bhagavad-gita” — and the Rupanuga-sampradaya had no commentary on the
+“Vedanta-sutra”: in its place it revered the “Srimad-Bhagavatam,” which the Ramanandis did not accept. <!-- F35 -->
+
+## The “Govinda-bhashya”
+It is said that he was given eighteen days for a commentary on the sutras. How long he actually took to write it, the
+biographies tell differently: eighteen days, seven days, a few days, or three months.[^19] <!-- F36 -->
+
+Deeply troubled, Baladeva went to the temple of Sri Govinda, Rupa's Deity, bowed down before Him prostrating with eight
+limbs of the body, and told Him everything; he prayed to his guru and to the Lord for the strength to write such a
+commentary. “Our Teachers” says that he first received the blessings of the Vaishnavas of the sampradaya and only then
+bowed before Govindadeva, asking for His mercy. According to one account, a garland fell from Govindaji's neck, and the
+pujaris placed it on Baladeva's chest; he took this as a sign that the Lord was giving him His authority. <!-- F38 F39 -->
+
+That same night Govinda appeared to him in a dream and said: “Compose the commentary. I Myself will approve it, and no
+one will find a flaw in it.” Baladeva himself, in the “Siddhanta-ratna,” which he also calls the “Bhashya-pithaka,” “the
+pedestal of the commentary,” writes that Sri Govinda-deva commanded him to compose this commentary — instructed and
+encouraged him in a dream (8.31). Full of joy and strength, he absorbed himself in meditation on Govinda's lotus feet and
+began to write. <!-- F37 Q2 -->
+
+The thought of such a commentary had lived in him before: while still studying Vedanta under Radha-Damodara and
+Pitambara, he had thought of an exposition of the sutras for Vaishnava students, and the debates with opponents in Galta
+only gave him the occasion to complete it. The commentary was finished within the appointed time. “By the Lord's
+blessing even the impossible becomes possible,” says one of the biographies: he expounded the five hundred sutras of the
+“Vedanta-sutra,” kept within the time allowed, and missed none of the subtleties of the divine aesthetics of the pure
+Gaudiya Vaishnava path. <!-- F40 -->
+
+Baladeva dedicated the commentary to Govinda and named it after Him: since Govindaji Himself had commanded it to be
+written, it is the “Govinda-bhashya.” And all the glory he gave to Him as well. In the verse with which his work ends he
+says that the name “Vidyabhushana,” “the ornament of learning,” and his renown were bestowed on him by Govinda Himself,
+who revealed this commentary in a dream:
+
+“May Govinda be victorious, the friend of Radha, beautiful of form, who in a dream pointed out this commentary and, in
+His generosity, bestowed on me the ornament of learning and renown.”[^20] <!-- F41 F3 Q9 -->
+
+## Govinda's Victory
+The commentary won the king's praise. With it in hand Baladeva entered the debate again, silenced all the opponents'
+arguments and established the supreme excellence of Gaudiya Vaishnava philosophy. The scholars of other sampradayas,
+on seeing the commentary, were struck by its quality and were left speechless; the Gaudiya-sampradaya was declared the
+victor, and the king and all the Gaudiyas rejoiced. Only a great acharya such as Shankara, Madhva or Ramanuja, says “Our
+Teachers,” could write a commentary on the “Vedanta-sutra” on his own — and the pandits were abashed. Relying on his
+commentary, Baladeva refuted the Ramanandis' arguments and established the supreme position of Sri Radha and Sri Krishna
+and of Their worship; the good name of the Gaudiya school was preserved. But for him this was no worldly victory in
+debate; it was service to Rupa's Govinda: the Deity remained with His servants, and Mahaprabhu's teaching was
+defended.[^21] <!-- F42 -->
+
+From that day the king of Jaipur ordered everyone to attend the arati of Sri Govinda, the Deity beloved of the Gaudiyas.
+So Mahaprabhu's teaching prevailed in Rajasthan, and to this day Sri Sri Radha-Govinda are worshipped in Jaipur.
+According to tradition, Baladeva also established the service of the Deity Vijaya Gopala in Galta. <!-- F43 F45 -->
+
+The pandits, won over by his arguments, recognized him as an acharya and wished to become his disciples. Baladeva
+humbly declined. Of the four sampradayas, he said, the Sri-sampradaya is a genuine school that preaches the service of
+God as the best path; in defending the views of the Gaudiyas he did not wish to show it disrespect, and to offend the
+Sri-sampradaya would be a great offence. This is how a Vaishnava acts: a defeated opponent is no trophy, and the
+Sri-sampradaya remains a revered line of Vaishnavas.[^22] <!-- F44 -->
+
+The Gaudiya world owes Baladeva much. He saved it from humiliation by its opponents, dispelled all doubts and won for
+the Gaudiyas recognition as a leading sampradaya. Had the principal Deity of the sampradaya, Rupa's Govinda-deva, passed
+under the control of another community, and had the Bengali priests been driven out of Amber, the Gaudiya-sampradaya in
+western India would have suffered a grievous blow. For the wide success of the Gaudiya mission had aroused envy, and
+after the departure of Sri Jiva, until Vishvanatha and Baladeva came, the opponents took advantage of the fact that in
+Vraja it was hard to find an eminent Gaudiya able to answer them. “Our Teachers” says that thanks to Baladeva the
+Rupanuga-sampradaya was finally established as an independent tradition. <!-- F46 -->
+
+Victorious, Baladeva returned to Vrindavana, fell at Vishvanatha's lotus feet and told him everything. The Vaishnavas
+and residents of Vrindavana rejoiced, and Vishvanatha blessed him and congratulated both his disciples, Baladeva and
+Krishnadeva. He understood that he was leaving two experienced leaders who would carry on the community's work after his
+departure, and in his old age he was very happy. <!-- F47 -->
+
 [^1]: According to one biography, the name “Govinda Dasa” comes from his service to Rupa's Govinda; according to
     another, “Ekanti Govinda Dasa” is the name he received on initiation as a vairagi.
 [^2]: Family: Khandaits (according to one biography) or Vaishya farmers (according to another). The latter names
@@ -118,3 +281,39 @@ ideal sannyasi.” <!-- F21 -->
     Pandita, an associate of Mahaprabhu in the sixteenth century.
 [^10]: According to another biography, he studied “Gaudiya literature” under Pitambara Dasa and the “Bhagavata-purana”
     later under Vishvanatha. Thus his diksha-guru was Radha-Damodara, and his shiksha-gurus Vishvanatha and Pitambara.
+[^11]: Which Jai Singh built the temple in Galta, the biography leaves unclear: in one place Jai Singh I, in another
+    Jai Singh II; the dispute was arranged by Jai Singh II.
+[^12]: Our translation, from the “Anuragavalli” (ch. 8), where these shlokas are given in full; Baladeva's
+    “Prameya-ratnavali” also cites them.
+[^13]: According to two biographies, the opponents were acharyas of the Ramanuja-sampradaya: they denied the historical
+    basis of the Gaudiyas and their connection with any of the four lines, and either urged the king to take initiation
+    from a Ramanuji (according to one account) or demanded that the Gaudiyas give up the service of Govinda and Gopinatha
+    (according to the other); the king, himself a follower of the Gaudiyas, sent a messenger to Vrindavana to ask
+    Vishvanatha whether the Gaudiyas had such a commentary. The dispute took place, according to some accounts, in Galta,
+    according to others at the court in Jaipur. “Our Teachers” says that the Ramanandis traced their origin to the
+    Sri-sampradaya, which partly reconciles the accounts. We follow the one according to which the dispute was raised by
+    the Ramanandis in Galta.
+[^14]: 1704 according to the tradition of the line of teachers; elsewhere in the same biography “around 1706”; another
+    biography gives 1628 Shaka (1706).
+[^15]: Only one biography says that Krishnadeva Sarvabhauma went with Baladeva; according to the others and to “Our
+    Teachers,” Baladeva was sent alone.
+[^16]: One of the biographies here calls Madhva's teaching “shuddhadvaita”; this is a mistake: “shuddhadvaita” is the
+    teaching of Vallabha, while Madhva taught dvaita (Tattvavada).
+[^17]: One of the biographies calls achintya-bhedabheda a “middle way” and a “reconciliation” of dvaita and advaita and
+    says that Baladeva “placed the Gaudiya tradition far above that of the Madhvas.” According to Srila Bhaktisiddhanta,
+    our sampradaya is the Brahma-Madhva-Gaudiya: the succession from Madhva is genuine, but Mahaprabhu's teaching is His
+    own gift, not a development or combination of earlier schools.
+[^18]: One of the biographies puts into Baladeva's mouth the claim that the “Bhagavatam” “calls itself” a commentary on
+    the “Brahma-sutras.” The verse *artho 'yam brahma-sutranam…*, which says so, is from the “Garuda-purana” (Sri Jiva
+    cites it in the “Tattva-sandarbha,” and Mahaprabhu in CC, Madhya 25.137); it is not in the “Bhagavatam” itself.
+[^19]: Eighteen days and, according to another opinion, three months — according to one biography; seven days or three
+    months — according to another; “a few days” — according to a third; seven days — according to “Our Teachers.”
+[^20]: Our translation, from the verse given by one of the biographies (the text has not been checked in our
+    repository). According to other accounts, the title “Vidyabhushana” was given him by the pandits in the king's
+    assembly in honour of his learning, or he received it after the victory in Galta; the third biography does not say
+    how he got the title. Baladeva himself ascribes it to Govinda's mercy.
+[^21]: The biographies speak of Baladeva's “victories” and of the “rout” of his opponents. For a Gaudiya Vaishnava the
+    meaning of these events lies in service to the Deity and the defence of Mahaprabhu's teaching, not in a worldly
+    triumph over rivals.
+[^22]: This is told by one of the biographies; according to it, the opponents were pandits of the Ramanuja-sampradaya
+    (see n. 13).
