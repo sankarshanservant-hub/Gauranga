@@ -273974,6 +273974,54 @@
   "attestation": 2
  },
  {
+  "id": "dvk-0025",
+  "source": "divakara-jcm",
+  "ref": "Гл. 7, 110–114",
+  "file": "divakara-jagannatha-charitamrita/ru/07.md",
+  "period": "PX",
+  "order": 7,
+  "title": "Заключение главы 7: Кришна явился в облике Чайтаньи",
+  "summary": "Джаганнатха Дас с радостью служит бхакти; в то время люди не знали бхакти и имени Хари, говорили «я — Брахман» и жили в раджасе и тамасе; тогда Кришна явился в облике Чайтаньи — оставив всё, поклоняйтесь Ему; стопы Кришна-Чайтаньи — прибежище брахмана Дивакары.",
+  "persons": [
+   "@divakara-dasa",
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 3 (причина нисхождения — распространение Имени)",
+  "notes": "Колофон главы 7; с той же страницы начинается глава 8 (не переводится).",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "holy-name"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.110",
+    "to": "7.114"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.110",
+    "to": "7.114",
+    "line": 136,
+    "line_to": 140,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/07.md?plain=1#L136-L140",
+    "file_en": "divakara-jagannatha-charitamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/07.md?plain=1#L136-L140"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0008",
   "source": "jayananda-cm",
   "ref": "Статья Н. Васу 1897: девять кханд (3.1.3–6)",
@@ -281201,6 +281249,58 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/anuragavalli/ru/08.md?plain=1#L206-L288",
     "file_en": "anuragavalli/en/08.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/anuragavalli/en/08.md?plain=1#L206-L288"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0026",
+  "source": "divakara-jcm",
+  "ref": "Гл. 23, 47–94",
+  "file": "divakara-jagannatha-charitamrita/ru/23.md",
+  "period": "PX",
+  "order": 24,
+  "title": "Слава Пурушоттамы; Джаганнатха без желаний — в бхаве Радхи; аватары возвращаются в Него (конец поэмы)",
+  "summary": "Даже подневольный носильщик и скот, приведённые в кшетру, обретают плод; Нрисимха говорит Прахладе: идущие в Пурушоттаму обретают девятичастную, затем восьмидесятиоднократную бхакти, а хулители очищаются за пол-данды. Радха и Кришна — одна бхава мадхурьи, без стремления к айшварье; все аватары — «тела желания», а у Джаганнатхи желаний нет: Он в бхаве Радхи; аватары, совершив дело, возвращаются и сливаются с Ним; Он — Бхагаван без рождения, Лакшми-Нараяна и Лакшми-Нрисимха. Колофон главы 23 завершает поэму.",
+  "persons": [
+   "@divakara-dasa",
+   "@jagannatha-dasa-odia",
+   "@radha",
+   "@krishna"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 4.8–12 (все аватары пребывают в Кришне при Его нисхождении)",
+  "notes": "Для гаудия-вайшнавов источник аватар — Сам Кришна (Бхаг. 1.3.28), Джаганнатха — Сам Кришна; «бесформенная Сущность» (23.89) — сноска перевода.",
+  "themes": [
+   "author",
+   "jagannatha",
+   "pilgrimage"
+  ],
+  "teaching": [
+   "scripture"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/23.md",
+    "from": "23.47",
+    "to": "23.94"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/23.md",
+    "from": "23.47",
+    "to": "23.94",
+    "line": 64,
+    "line_to": 123,
+    "count": 48,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/23.md?plain=1#L64-L123",
+    "file_en": "divakara-jagannatha-charitamrita/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/23.md?plain=1#L64-L123"
    }
   ],
   "attestation": 1
