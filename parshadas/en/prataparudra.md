@@ -390,6 +390,131 @@ own people, and Himself pushed the chariot from behind with His head — and it 
 reached the gates of Gundicha. All marvelled at the Lord's power, and the king, his retinue and ministers were seized with
 prema at the sight of Mahaprabhu's greatness (CC, Madhya 14.47–60). <!-- F66 -->
 
+## Nanda-utsava and the Farewell for Vrindavana
+On the day of the Nanda-utsava the Lord, dressed as a cowherd boy with pots of milk and yoghurt on His shoulders, enacted
+the pastimes of Vraja with the devotees. The king himself was there, together with Sarvabhauma, Kashi Mishra and the
+temple superintendent Tulasi Padichha; at his order the superintendent brought cloth that Jagannatha had worn, to tie
+around the heads of the celebrants (CC, Madhya 15.17–20, 15.27). One of the biographies says that the king and Sarvabhauma
+played the part of cowherd companions in this lila. <!-- F67 -->
+
+For two years the Lord longed to go to Vrindavana, but Ramananda and Sarvabhauma — at the king's earnest request — kept Him
+in Puri on one pretext or another (CC, Madhya 16.84–89). When at last He was firmly resolved, the king himself arranged
+everything for His journey. On Vijaya-dashami the Lord came with Ramananda to Cuttack and rested in a garden under a bakula
+tree. Ramananda informed the king, and he hurried there:
+
+“Delighted at the news, the king came at once, and seeing the Lord, he fell flat on the ground like a rod. Overwhelmed by
+love, he rose and fell again and again; he offered prayers, the hair of his body stood on end, and tears flowed from his
+eyes. Seeing his devotion, the Lord was pleased at heart. Mahaprabhu rose and embraced him. Again the king offered prayers
+and bowed down, and his body was bathed in tears of the Lord's mercy. Ramananda calmed the king and seated him, and the
+Lord showed him mercy in body, mind and words. Gauraraya showed him such mercy that He came to be called ‘the Saviour of
+Prataparudra.’” (CC, Madhya 16.103–108)
+
+Ever since, one of Gaurasundara's names has been *Prataparudra-santrata*, “the Saviour of Prataparudra.”[^17] <!-- F69 -->
+
+After taking leave of the Lord, the king sent an edict to his governors: in every village on the Lord's route five or seven
+new houses were to be built and stocked with all that was needed, and they themselves were to serve Him day and night. He
+entrusted its execution to his ministers Harichandana and Mangaraja; at the river he ordered a new boat kept ready and a
+memorial pillar set up where the Lord would cross, so that the place would become a tirtha and so that he himself might
+leave his body there (CC, Madhya 16.110–115). Ramananda, Mangaraja and Harichandana escorted the Lord across the river
+Chitrotpala. <!-- F68 -->
+
+## That the Lord Might Stay
+Ramananda's brother Gopinatha Pattanayaka, a son of Bhavananda Raya, owed the treasury two lakhs of *kahanas* of cowries. In
+payment he brought the king ten or twelve horses; the king sent the prince, a connoisseur of horses, to value them — he
+set a low price, and Gopinatha mocked his habit of throwing back his head. The offended prince — “Bada Jana,” the heir; in
+the “Charitamrita,” Prince Purushottama Jana (Antya 9.99) — obtained leave to raise Gopinatha onto the *changa*, the
+platform from which the condemned were thrown onto swords.[^18] The devotees came to Mahaprabhu to plead for Gopinatha, but
+the Lord, displeased at being troubled with worldly affairs, resolved to go away to Alalanatha. <!-- F70 F71 -->
+
+By the Lord's inner prompting the minister Harichandana Patra told the king everything. The king had not even known of the
+execution: “I want the money, not his life” — and he cancelled it at once. And at midday, when as usual he was massaging
+Kashi Mishra's feet, Mishra hinted that the Lord meant to leave Puri, because He was being troubled on account of
+Bhavananda's family. The king replied:
+
+“I give up all the money, if only the Lord will stay here. If I can have the Lord's darshana for even a moment, not even
+millions of *chintamani* gems can equal it. And what are these two lakhs of kahanas? A paltry thing! My life and my
+kingdom I offer at the Lord's feet in worship.” (CC, Antya 9.94–96)
+
+He remitted Gopinatha's entire debt, doubled his salary and honoured him with a silk cloth (*neta-dhati*) (CC, Antya
+9.80–101, 9.130–139). He forgave him also remembering how close Gopinatha was to Mahaprabhu and to Ramananda. So the
+“Charitamrita” says, listing the Lord's pastimes:
+
+“Gopinatha Pattanayaka, Ramananda's brother, was about to be put to death by the king, and the Lord became his saviour.”
+(CC, Madhya 1.265)
+
+His readiness to give up everything if only the Lord would stay in Puri is the proof of his love for the Lord's feet.
+<!-- F72 Q10 I6 -->
+
+There was another incident. Kamalakanta Vishvasa, a servant and disciple of Advaita Acharya, without his master's
+knowledge sent the king a letter (CC, Adi 12.28–29): Advaita, he wrote, was God Himself but was in debt — and he asked for
+money. The Lord punished Kamalakanta by not admitting him to His presence for a time. <!-- F73 -->
+
+## Other Accounts
+According to Murari Gupta, King Gajapati, wishing to see Mahaprabhu, summoned Sarvabhauma together with Ramananda (Murari
+4.16.1).[^19] From there Murari, like Lochana Dasa, tells a different story from Vrindavana Dasa and Krishnadasa Kaviraja.
+In Murari the king sees Gaura and Nityananda in the ecstasy of kirtana, and in a dream three times sees Them as Krishna and
+Balarama; in Lochana he sees a sannyasi in Jagannatha's place, and later, after a ten-day fast, at the request of
+Paramananda Puri and all the devotees, the Lord receives him in Kashi Mishra's house. In both the Lord reveals to the king
+His six-armed form; in Lochana He also instructs him in a king's duty — to protect his subjects. The revealed form is the
+Lord's revelation to His devotee, not a wonder for its own sake. <!-- F74 F75 -->
+
+According to a tradition given in one of the biographies, after the Lord left Puri for Vrindavana the king, unable to bear
+the separation, had a Deity of the Lord carved, appointed fifty-four brahmins for His service and granted a large estate
+for it. In the palace at Puri, among many Deities, Gaura-Nityananda and Gaura-Gadadhara are worshipped to this day.
+<!-- F76 -->
+
+Other Deities too are connected with Prataparudra. His father, Purushottama-deva, brought Deities from Kanchi, among them
+Radhakanta; He was installed near the Chatrabhoga of the Jagannatha temple, and later Kashi Mishra, “Prataparudra's guru,”
+asked for Him — and in Kashi Mishra's house, where the Lord lived, Sri Sri Radhakanta were installed in the time of Gopala
+Guru. And according to the “Sadhana-dipika,” cited in the “Bhakti-ratnakara” (6.92–110), after the passing of Brihadbhanu,
+in whose house the Deity of Radharani had lived as his daughter, the king came to Radhanagara and saw Her; in a dream
+Radhika told him to take Her to the temple of Jagannatha. She was installed in the Chakrabeda, and people worshipped Her as
+Lakshmi. <!-- F77 F78 -->
+
+Baladeva Vidyabhushana ends his “Prameya-ratnavali” with a bow to Sri Chaitanya, “by whose mercy the Gajapati became
+faultless and attained peace”; with the same verse he opens the “Siddhanta-darpana” and his treatise on poetics.
+<!-- F79 -->
+
+## After the Lord's Disappearance
+The “Bhakti-ratnakara” tells what became of the king when the Lord disappeared from sight:
+
+“Then, hearing the news that the Lord had disappeared from sight, the king, flinging himself down, rolled on the ground.
+Striking his head with his hands, he fell unconscious; Raya Ramananda alone preserved his life. Unable to bear separation
+from the Lord, the king stayed some distance away from Nilachala.” (“Bhakti-ratnakara” 3.217–219) <!-- F81 Q12 -->
+
+When, soon after the Lord's disappearance, Srinivasa came to Nilachala, the king's state of separation was, in Narahari's
+words, beyond description, and Srinivasa himself grieved that he had not been able to see the king (“Bhakti-ratnakara”
+3.213, 3.220). <!-- F82 -->
+
+Yet even in separation the king went on serving the Lord. Kavi Karnapura opens the “Chaitanya-chandrodaya” with the
+stage-director producing the drama at the command of Gajapati Prataparudra during the festival of Jagannatha's procession
+to Gundicha: the king had come by right of service, but his heart was wounded by grief at the disappearance of Sri Krishna
+Chaitanya, and so even this supreme festival gave him no joy. Karnapura extols his valour and his tranquillity in
+*shanta-rasa*. Thus the king became both the commissioner and the patron of the drama that has preserved for us many of the
+Lord's pastimes.[^20] <!-- F83 -->
+
+When and where Prataparudra left this world the sources do not say; the biographies carry his reign down to 1540. The days
+of his appearance and departure are not in the calendar of the Sri Chaitanya Saraswat Math either. <!-- F84 F21 -->
+
+## Significance
+Prataparudra is the one who in a former birth worshipped Jagannatha as King Indradyumna and who became a vessel of
+Gauranga's boundless mercy. His story is a lesson about mercy. The Lord, a strict sannyasi, refused to see the king: a
+king's office is dangerous for a renunciant, and He taught this to His companions. But His severity was only outward;
+inwardly He was won by the king's pure devotion and bestowed on him causeless mercy — first indirectly, through his son,
+His cloth and the sight of secret pastimes, and then by His embrace. <!-- F11 F25 I1 I3 -->
+
+The key to this mercy was humility. Birth, learning and wealth breed pride, but the king, who had all three, took up a
+sweeper's broom, massaged his guru's feet, called himself a servant of the Lord's servants and counted even a slap from a
+Vaishnava as good fortune. He came to the Lord through devotees — through Sarvabhauma, Ramananda, Nityananda — for mercy
+comes through a devotee. His kingship became service: the broom before the chariot, a living fence around the kirtana, the
+edict for the Lord's journey, the remission of a debt for the Lord's sake — “my life and my kingdom” he was ready to offer
+at His feet. <!-- F65 I2 I7 I6 -->
+
+And the dream of Jagannatha in the dust teaches something else: the Lord cannot be grasped by the senses or by one's own
+judgement. Jagannatha and Sri Chaitanya are one, and this is revealed only by Their mercy. That is why in the Lord's lila
+love, mercy and instruction to the world are so inseparable — and why Gaurasundara is called the Saviour of Prataparudra.
+<!-- I5 I4 F69 -->
+
 [^1]: According to the “Bhakti-ratnakara” (3.214), while the Lord was still present the king handed the kingdom to his son
     with auspicious rites and spent his days with Sarvabhauma and Ramananda; according to historical records, he ruled even
     after the Lord's disappearance (1533), until about 1540. One of the biographies writes that he remained on the throne
@@ -433,3 +558,15 @@ prema at the sight of Mahaprabhu's greatness (CC, Madhya 14.47–60). <!-- F66 -
     chariot's route to Gundicha.
 [^16]: One of the biographies calls this garment a used loincloth, “one of the Lord's kaupinas.” In the “Charitamrita”
     (Madhya 12.34–36) it is a *bahirvasa* — an outer garment, a wrap.
+[^17]: In the database of pastimes the appearance of the six-armed form is also assigned to this meeting at Cuttack. In
+    the “Charitamrita” (Madhya 16.100–108) it is not there; the Lord reveals the six-armed form to the king in Lochana Dasa
+    (Shesha 51) and in Murari Gupta (4.16), and in a different setting (see “Other Accounts”).
+[^18]: One of the biographies calls the offender Prataparudra's eldest son, another “Boro Jana,” which in Oriya means “the
+    heir.”
+[^19]: In one of the biographies this verse is cited as “fourth prakrama, fifteenth sarga, verse 1”; in our edition of Murari
+    it is 4.16.1.
+[^20]: The sources disagree about the king's last years. According to the “Bhakti-ratnakara,” he handed the kingdom to his
+    son while the Lord was still present (3.214), and after the Lord's disappearance lived away from Nilachala (3.219);
+    according to historical records, which the biographies follow, he ruled until about 1540; and in the prologue of the
+    “Chaitanya-chandrodaya” the king, after the Lord's disappearance, is in Puri at the festival of the procession to
+    Gundicha and commands the drama to be staged.
