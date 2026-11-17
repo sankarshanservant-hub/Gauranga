@@ -33,7 +33,7 @@ Chaitanya Saraswat Math.[^5] <!-- F5 -->
 The "Bhakti-ratnakara" tells of the birth itself. The child stayed in his mother's womb longer than was due, and Sunanda
 suffered greatly. A maidservant went to tell Damodara. He was at that moment performing puja to the Goddess and
 told her by a glance and a sign to take the yantra of the Devi to the woman in labour and show it to
-her. The maidservant did not understand the sign: she quickly washed the yantra and gave Sunanda the water to drink
+her. The maidservant did not understand the sign: she hastily rinsed the yantra and had Sunanda drink the water
 ("Bhakti-ratnakara" 9.149). And the mother was easily delivered of a son. The author of the "Bhakti-ratnakara" sees in this
 one of the two reasons why Govinda in his youth was devoted to the Goddess: he was born after his mother had drunk the water of
 her yantra. <!-- F6 Q1 -->
@@ -57,7 +57,7 @@ Bhagavati herself spoke, unseen:
 
 Govinda understood that no path and no worship loosens the bonds except service to Krishna. Thus the one he worshipped
 herself directed him to Krishna, for she too serves His feet.[^6] From that day Govinda ardently longed to serve Krishna.
-He considered himself fortunate that his elder brother had taken shelter at Srinivasa's feet, for by his brother's
+He counted it his good fortune that his elder brother had taken shelter at Srinivasa's feet, for by his brother's
 mercy he himself had been blessed. <!-- F9 F10 F11 Q2 -->
 
 He longed to reach the Acharya's feet and was about to set out for Yajigrama — but learned that Srinivasa had already
@@ -68,7 +68,7 @@ father, and he had not listened. The "Bhakti-ratnakara" gives his lament:
 man's son, am utterly lost. This is only the fault of my karma — to whom can I tell it?" ("Bhakti-ratnakara"
 9.165–166)[^7] <!-- F12 Q3 -->
 
-The Devi herself, out of causeless mercy, had told him to serve Krishna, and some inclination to that service had
+The Devi herself, in her causeless mercy, had told him to serve Krishna, and some inclination to that service had
 already arisen in him; but where was he to find a true guru? When this sorrow seized him again, a voice once more rang
 out from the sky:
 
@@ -78,8 +78,8 @@ From that day, says the "Bhakti-ratnakara," attachment to Krishna was born in Go
 rejoiced greatly. <!-- F13 Q4 -->
 
 ## The Move to Teliya-Budhari
-Meanwhile the Vaishnavas of Gauda were longing for Srinivasa and sent Ramachandra to Vrindavana to bring the Acharya
-back. On the eve of his departure Ramachandra, with great tenderness, spoke in private with his brother — a learned man,
+Meanwhile the Vaishnavas of Gauda were longing for Srinivasa and sent Ramachandra to Vrindavana to fetch the
+Acharya home. On the eve of his departure Ramachandra, with great tenderness, spoke in private with his brother — a learned man,
 skilful in affairs and first in everything. He rejoiced at his thirst to serve Krishna and promised that as
 soon as the Acharya came, all his desires would be fulfilled. But to live in Kumaranagara, he said, was now dangerous:
 there was unrest over their land. Let Govinda settle in Teliya-Budhari — a holy place between the Ganga and the
@@ -94,10 +94,10 @@ feet? When will the Acharya give me the diksha-mantra and, delivering this falle
 elder brother he could find no peace ("Bhakti-ratnakara" 9.133–138, 9.175–177). <!-- F46 -->
 
 ## Initiation
-At the devotees' wish Srinivasa returned from Vrindavana to Gauda. Narottama and Shyamananda were with him, and a flood
-of Hari-kirtana spread over all Gauda. The Acharya travelled with Ramachandra through Vana-Vishnupura, Yajigrama,
+At the devotees' wish Srinivasa returned from Vrindavana to Gauda. Narottama and Shyamananda were with him, and
+Hari-kirtana swept over all Gauda like a river in spate. The Acharya travelled with Ramachandra through Vana-Vishnupura, Yajigrama,
 Kantaknagara, Khanda and Kanchanagadiya; and there a messenger came running to him from Budhari: "Sri Govinda and the
-others are waiting for you." When the Acharya arrived at Teliya-Budhari, Govinda and the whole village received him with
+others are waiting for you." When the Acharya reached Teliya-Budhari, Govinda and the whole village received him with
 great solemnity. <!-- F16 -->
 
 Govinda with deep devotion invited the Acharya to his house and begged for mercy. In tears he fell at his elder
@@ -138,7 +138,7 @@ approved by all" (9.48–49). The "Bhakti-ratnakara" also says that Sri Jiva, Sr
 his songs, together gave him the title Kaviraja, and praised him greatly in verse (1.446–447). Srila Bhaktisiddhanta, in
 the "Anubhashya" on CC, Adi 10.85, writes that the name "Kaviraja" was given to Ramachandra Sena and his younger brother
 Govinda by Jiva Gosvami. According to one of the biographies, the title was given to him by Jiva Gosvami, Srinivasa
-Acharya, Jahnava-mata and others, delighted by his songs full of bhakti.[^11] <!-- F24 Q6 F47 -->
+Acharya and Jahnava-mata, among others, delighted by his songs full of bhakti.[^11] <!-- F24 Q6 F47 -->
 
 One of the Gosvamis' tributes has been preserved in the "Bhakti-ratnakara":
 
@@ -175,7 +175,7 @@ supreme joy ("Bhakti-ratnakara" 1.461–462). Verses of this drama about Ramacha
 ("Prema-vilasa" 20.94–95). <!-- F21 F39 Q8 -->
 
 Govinda is best known for his padas, songs for kirtana. One of the biographies mentions his song collections, such as the
-"Gitamrita," as well known in Bengali literature.[^14] He composed his songs in Brajabuli, after the model of Vidyapati's
+"Gitamrita," as famous in Bengali letters.[^14] He composed his songs in Brajabuli, after the model of Vidyapati's
 padas: from there came their language and form, while their content is the pastimes of Sri Gaura and Sri Radha-Krishna.
 According to one of the biographies, his songs embody all the rasas described by Sri Rupa Gosvami in the
 "Bhakti-rasamrita-sindhu" and the "Ujjvala-nilamani": shanta, dasya, sakhya, vatsalya and madhurya. The "Prema-vilasa"
@@ -189,14 +189,14 @@ pastimes of Radha-Krishna in the manner of verses on rasa, and the earth floated
 Rupa's teaching on the rasas, and that is why they so move the hearts of their hearers. <!-- F22 F27 F28 I3 -->
 
 The biographies quote several of his padas. One is a song of self-surrender to the Lord, "Bhajahu re mana
-Sri-Nanda-nandana…": O mind, serve the son of Nanda; a rare human birth and the company of sadhus have been given to you —
+Sri-Nanda-nandana…": O mind, serve the son of Nanda; a human birth, so seldom gained, and the company of sadhus have been given to you —
 cross the ocean of existence; wealth, youth and sons are unreliable, and Govinda dasa's desire is the nine kinds of
 bhakti. The "Prema-vilasa" says he composed this song when he came to Srinivasa (14.185). Two padas about Gaura were composed for
 kirtana: "Kandala kanaya kalevara kanti…" — of the Lord Whose body shines like gold and is bathed in streams of tears of
 love: He Himself chants His name and has others chant it, dances and makes even the deaf, the dull and the blind dance,
 and embraces all without distinction; and "Sabahu gayata sabahu nachata…" — all sing and dance, and Gaura takes the
 fallen in His arms, crying "Hari, Hari!", and Himself, without waiting to be asked, gives away prema in full. And,
-finally, the song of separation "Madhava, tuhu rahila Madhupura…": Madhava, You have stayed in Mathura, and all Vraja is in
+finally, the song of separation "Madhava, tuhu rahila Madhupura…": O Madhava, You remained in Mathura, and all Vraja is in
 turmoil — Yashoda and Nanda sit as if blind, friends, flute and cows are abandoned, and the Yamuna is full to the brim.
 This is vipralambha, the love of the residents of Vraja in separation from Krishna, the highest expression of their
 prema. <!-- F29 Q9 -->
@@ -210,9 +210,9 @@ Vaishnavas," asked him, Govinda composed for him a song about Sri Rama, signing 
 heart: [Rama is] Harinarayana's chosen God" (ibid. 1.456–460). <!-- F30 F31 F32 -->
 
 ## In the Circle of Srinivasa and Narottama
-When the great festival at Kheturi was being prepared, the news reached Srinivasa and his companions at Budhari, in
-the house of Govinda Kaviraja, and from there they all went together to Kheturi. Srinivasa, his disciple Ramachandra and
-Ramachandra's brother Govinda actively helped to arrange the festival. The "Narottama-vilasa" relates that Srinivasa came to
+When the great festival at Kheturi was being prepared, the news reached Srinivasa and his companions at Govinda
+Kaviraja's house in Budhari, and from there they all went together to Kheturi. Srinivasa, his disciple Ramachandra and
+Govinda, Ramachandra's younger brother, took an active part in arranging the festival. The "Narottama-vilasa" relates that Srinivasa came to
 Kheturi "with Govinda and others," and Narottama introduced to Shyamananda "Ramachandra, Govinda and others bearing
 the title 'Kaviraja'" (6.138, 6.155). Srinivasa sent Govinda Kaviraja to Shyamananda, and at his request Govinda showed
 him the five other Deities and the place where the stores for the festival were kept (6.165–171); and when the guests
@@ -225,7 +225,7 @@ Kaviraja respectfully received her and performed puja to her; after spending the
 Kheturi.[^15] Later, at the Acharya's bidding, Govinda accompanied Jahnava to Vrindavana, bowed there to the Gosvamis, and,
 on returning, passed on their words to Narottama together with the book "Gopala-virudavali"; and when Jahnava was on her
 way back, he took care of her reception in Budhari ("Narottama-vilasa" 9.23–297). He also received in his home
-Virachandra, Nityananda's son: Virachandra came to Budhari, to the house of Govinda Kaviraja, and Govinda welcomed him
+Virachandra, Nityananda's son: Virachandra came to Govinda Kaviraja's home in Budhari, and Govinda welcomed him
 with great devotion and performed puja to him; pleased, Virachandra stayed with him two days and then went on to
 Kheturi. <!-- F37 F38 -->
 

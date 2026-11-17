@@ -419,12 +419,15 @@ Narottama names him again and again in the signature lines of the songs of the �
 to him, as to his brother Govinda, by Jiva — so Srila Bhaktisiddhanta also writes in the “Anubhashya” (on CC, Adi
 10.85).[^13] <!-- F87 F89 -->
 
-His brother Govinda, an ardent shakta, received a sign from Bhagavati (“Bhakti-ratnakara,” wave 9) and wished to take
+His brother Govinda, still a devotee of the Goddess at the time, received a sign from Bhagavati (“Bhakti-ratnakara,” wave 9) and wished to take
 shelter of Srinivasa, but Srinivasa had already gone to Vrindavana. The devotees of Gauda sent Ramachandra after him, and
-Ramachandra told Govinda to move from Kumarahatta to Teliya Budhari. At the devotees' wish Srinivasa returned to Gauda and
+Ramachandra told Govinda to move from Kumaranagara (so in the “Bhakti-ratnakara,” 9.133; one of the
+biographies calls it Kumarahatta) to Teliya Budhari. At the devotees' wish Srinivasa returned to Gauda and
 came to Budhari. Ramachandra and Govinda received him with pomp, and in Govinda's house Srinivasa initiated him into the
-Radha-Krishna mantra (“Bhakti-ratnakara,” 10.171). Delighted with Govinda's songs, Jiva, Srinivasa and Jahnava gave him
-the title “kaviraja.” <!-- F90 Q26 -->
+Radha-Krishna mantra (“Bhakti-ratnakara,” 10.171). The title “kaviraja” was acknowledged for Govinda by many: by
+Srinivasa, delighted with his prose, verses and songs on the pastimes of Sri Krishna Chaitanya (“Bhakti-ratnakara,”
+10.292–296), by the Gosvamis of Vrindavana when Govinda came there with Jahnava (ibid. 11.145–147; 1.446–447), and by
+Jiva (“Anubhashya” on CC, Adi 10.85); one of the biographies names Jiva, Srinivasa, Jahnava and others. <!-- F90 Q26 -->
 
 ## The Second Visit to Vrindavana
 When Shuklambara, Gadadhara Dasa and Narahari had departed, Srinivasa, grieving, went to Vrindavana again; there he learned
@@ -630,7 +633,8 @@ Srinivasa Prabhu, my ocean of mercy, be victorious!” (“Narottama-vilasa,” 
 
 The verses Ghanashyama Dasa cites also give material for Srinivasa's life. <!-- F132 Q13 -->
 
-The old poet Govinda Dasa, in the song “Jaya jaya Srinivasa gunadhama…,” glorifies Srinivasa, abode of virtues and
+The poet Govindadasa — so Srinivasa's disciple Govinda Kaviraja signed his padas — in the song “Jaya jaya Srinivasa
+gunadhama…,” glorifies Srinivasa, abode of virtues and
 saviour of the fallen: his body is fairer than gold, he is clad in silk, he utters the Name of love and expounds the
 “Bhagavata,” surrounded by his devotees and companions; “Radhe, Krishna, Govinda” never leaves his lips; he serves
 Chaitanya, relishes His pastimes, and in his hand is a wish-fulfilling tree of books. <!-- F133 Q14 -->
