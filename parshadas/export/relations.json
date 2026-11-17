@@ -1204,7 +1204,7 @@
  {
   "from": "@balabhadra-bhattacharya",
   "type": "other",
-  "who": "@bijuli-khan",
+  "who": "@bijli-khan",
   "facts": [
    "F38",
    "F39"
@@ -2838,6 +2838,126 @@
    "Q7",
    "Q8"
   ]
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "met",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F8",
+   "F9",
+   "F15",
+   "F16",
+   "F17",
+   "F20",
+   "F21",
+   "F24",
+   "F25",
+   "F26",
+   "I1",
+   "I3"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Отряд Биджли Хана схватил спутников Господа, приняв их за отравителей; очнувшись, Господь плясал с «Хари!», патханы отпустили пленных; после спора Господа с пиром Биджли Хан, видя удачу слуги, сказал «Кришна, Кришна» и пал к стопам; Господь поставил стопу ему на голову (ЧЧ Мадхья 18.163–212; ⚠Б2, ⚠Б6)."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "servant",
+  "who": "@ramadasa-pathan",
+  "facts": [
+   "F5",
+   "F18",
+   "F19",
+   "F20",
+   "F22",
+   "F23",
+   "F24"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "«Пир» в чёрном, слуга Биджли Хана (ЧЧ 18.208); спорил с Господом о Коране и получил от Него имя «Рамадас» (18.185–207); видя его удачу, Биджли Хан и сам принял прибежище (B 961, T 103)."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "opposed",
+  "who": "@krishnadasa-rajput",
+  "facts": [
+   "F10",
+   "F14"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Схвачен отрядом; пригрозил патханам своими двумястами воинами (ЧЧ: «турками») и сотней пушек (ЧЧ 18.173–175)."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "opposed",
+  "who": "@krishnadasa-mathura",
+  "facts": [
+   "F9",
+   "F10",
+   "F11",
+   "F12",
+   "F13"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Санодия-брахман, ученик Мадхавендры Пури; схвачен; бесстрашно объяснил предводителю, что санньяси — его гуру (ЧЧ 18.167–171; по B — вместе с Кришнадасом, ⚠2)."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "opposed",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F9",
+   "F10",
+   "F16"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Схвачен как «бенгальский мошенник», дрожал; после освобождения усадил Господа (= @balabhadra-bhattacharya F38–F39)."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F19",
+   "F20",
+   "F24",
+   "F27"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 18: Биджали Хан и его всадники — «преданные Кришны»; пир — суфий; «деревня патханов-вайшнавов» (источник B 893, ⚠7)."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F6",
+   "F15",
+   "F19",
+   "F22",
+   "F24",
+   "F25",
+   "F26"
+  ],
+  "note": "«Анубхашья» к ЧЧ Мадхья 18.164–212: Биджали Хан — предводитель отряда патханов; касание стопой; маха-бхагавата."
+ },
+ {
+  "from": "@bijli-khan",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "Q2"
+  ],
+  "note": "Описал встречу в ЧЧ Мадхья 18 (T 102)."
  },
  {
   "from": "@buddhimanta-khan",
@@ -14105,6 +14225,185 @@
    "F18"
   ],
   "note": "«Анубхашья» к ЧЧ Ади 11.32 — главный источник сведений о шрипате и о сомнительном родстве; 28 июня 1931 г. принял на себя управление шрипатом в Чакдахе; шрипат — в перечне матхов Шрилы Прабхупады (T 255, 269)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "guru",
+  "who": "@nityananda",
+  "facts": [
+   "F2",
+   "F8",
+   "F14",
+   "F16",
+   "F17",
+   "F18",
+   "F29",
+   "I1"
+  ],
+  "events": [
+   "ev-minaketana-ramadasa-kaviraja-house"
+  ],
+  "note": "Слуга (бхритья) авадхуты Нитьянанды, «обитель премы» (ЧЧ Ади 5.161), Его ветвь (Ади 11.53); «Анубхашья» к 5.161 — ученик авадхуты, сам маха-бхагавата парамахамса (F8). Вознегодовал за непочтение к Нитьянанде (⚠Б1). = @nityananda F393–F397."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "host",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F9",
+   "F10",
+   "F22",
+   "F25",
+   "F29",
+   "I3"
+  ],
+  "events": [
+   "ev-minaketana-ramadasa-kaviraja-house",
+   "ev-kaviraja-nityananda-jhamatpur"
+  ],
+  "note": "Гость по приглашению на суточном киртане в его доме в Джхаматпуре (ЧЧ Ади 5.162; «Анубхашья» — обычай писем-приглашений); Кавираджа стал на его сторону и упрекнул брата, за что Нитьянанда во сне послал его во Вриндаван (Ади 5.174–196)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "opposed",
+  "who": "@gunarnava-mishra",
+  "facts": [
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21"
+  ],
+  "events": [
+   "ev-minaketana-ramadasa-kaviraja-house"
+  ],
+  "note": "Служитель Божества в доме Кавираджи, не приветствовавший слугу Нитьянанды; назван «вторым Ромахаршаной» (ЧЧ Ади 5.168–171); брахман не рассердился (5.171; T 97 ≠ T 196, ⚠7). Кто сидел во дворе — ⚠6."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "opposed",
+  "who": "@kaviraja-brother",
+  "facts": [
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F28"
+  ],
+  "events": [
+   "ev-minaketana-ramadasa-kaviraja-house"
+  ],
+  "note": "Спор при уходе; брат верил в Чайтанью, но не в Нитьянанду; Рамадас огорчился, в гневе сломал флейту и ушёл, и брат «в тот же миг» погиб духовно (ЧЧ Ади 5.172–178; не «проклятие» — ⚠Б3). Имя брата по «Абхидхане» — Шьямадас (T 196)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "companion",
+  "who": "@jahnava",
+  "facts": [
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F35"
+  ],
+  "events": [
+   "ev-kheturi-festival-invitations",
+   "ev-kheturi-festival",
+   "ev-kheturi-mahantas-depart"
+  ],
+  "note": "В свите Джахнавы на пути в Кхетури (БР 10.374; НВ 6.190; ПВ 19.309); трапеза у её жилища (НВ 8.50); по её велению вернулся в Кхардаху (НВ 8.152–153). = @jahnava F51–F52."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "companion",
+  "who": "@kamalakara-pippalai",
+  "facts": [
+   "F30",
+   "F32",
+   "F34"
+  ],
+  "note": "Рядом в перечнях свиты Джахнавы (БР 10.374–375; НВ 6.188–190, 8.152)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "companion",
+  "who": "@murari-chaitanya-dasa",
+  "facts": [
+   "F30",
+   "F32"
+  ],
+  "note": "Рядом в БР 10.374 и НВ 6.187."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "companion",
+  "who": "@jnanadasa",
+  "facts": [
+   "F30",
+   "F32"
+  ],
+  "note": "Рядом в БР 10.374 и НВ 6.187."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F30"
+  ],
+  "note": "Тёзка (Рамадас), не путать; T 96 по ошибке ставит Абхираму в перечень БР 10.374 (⚠8; = @abhirama ⚠4)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
+  "who": "@ramadasa-shivananda-son",
+  "facts": [],
+  "note": "Тёзка, не путать (ЧЧ Ади 10.62)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
+  "who": "@ramadasa-phulia",
+  "facts": [],
+  "note": "Тёзка, не путать («Према-виласа» 24)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F7"
+  ],
+  "note": "По ГГД 67–68 (наше прочтение) Нишатха и Улмука вошли в Вирачандру, а не в Минакетану (⚠1)."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F7",
+   "F8",
+   "F15"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 5.161–171 и 11.53: авадхута-парамахамса, каништха, Ромахаршана; ГГД 68."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F12",
+   "F17",
+   "F19",
+   "F20",
+   "F25"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 5.165–177 — источник рассуждений B (не назван у B; ⚠5)."
  },
  {
   "from": "@mukunda-datta",

@@ -4194,6 +4194,10 @@
     "type": "companion"
    },
    {
+    "from": "@bijli-khan",
+    "type": "met"
+   },
+   {
     "from": "@buddhimanta-khan",
     "type": "neighbor"
    },
@@ -11287,6 +11291,10 @@
    },
    {
     "from": "@mahesha-pandita",
+    "type": "guru"
+   },
+   {
+    "from": "@minaketana-ramadasa",
     "type": "guru"
    },
    {
@@ -25009,6 +25017,10 @@
     "type": "other"
    },
    {
+    "from": "@minaketana-ramadasa",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -27996,6 +28008,10 @@
    {
     "from": "@balabhadra-bhattacharya",
     "type": "co-worker"
+   },
+   {
+    "from": "@bijli-khan",
+    "type": "opposed"
    },
    {
     "from": "@madhavendra-puri",
@@ -31165,7 +31181,7 @@
    },
    {
     "type": "other",
-    "who": "@bijuli-khan",
+    "who": "@bijli-khan",
     "note": "Отряд патханов схватил спутников Господа, приняв их за отравителей (ЧЧ Мадхья 18.163–184; по T и B — во главе с Биджли Ханом)."
    },
    {
@@ -31180,6 +31196,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bijli-khan",
+    "type": "opposed"
+   },
    {
     "from": "@damodara-pandita",
     "type": "companion"
@@ -34732,6 +34752,10 @@
     "type": "other"
    },
    {
+    "from": "@minaketana-ramadasa",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -35297,6 +35321,10 @@
    {
     "from": "@mahesha-pandita",
     "type": "other"
+   },
+   {
+    "from": "@minaketana-ramadasa",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -41631,6 +41659,10 @@
     "type": "other"
    },
    {
+    "from": "@bijli-khan",
+    "type": "other"
+   },
+   {
     "from": "@damayanti",
     "type": "other"
    },
@@ -41665,6 +41697,10 @@
    {
     "from": "@madhava-ghosha",
     "type": "other"
+   },
+   {
+    "from": "@minaketana-ramadasa",
+    "type": "host"
    },
    {
     "from": "@murari-gupta",
@@ -43772,6 +43808,10 @@
    {
     "from": "@jahnava",
     "type": "disciple"
+   },
+   {
+    "from": "@minaketana-ramadasa",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -45930,6 +45970,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@bijli-khan",
+    "type": "other"
+   },
+   {
     "from": "@buddhimanta-khan",
     "type": "other"
    },
@@ -45979,6 +46023,10 @@
    },
    {
     "from": "@madhvacharya",
+    "type": "other"
+   },
+   {
+    "from": "@minaketana-ramadasa",
     "type": "other"
    },
    {
@@ -46109,6 +46157,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@bijli-khan",
+    "type": "other"
+   },
+   {
     "from": "@buddhimanta-khan",
     "type": "other"
    },
@@ -46234,6 +46286,10 @@
    },
    {
     "from": "@mahesha-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@minaketana-ramadasa",
     "type": "other"
    },
    {
@@ -52147,6 +52203,10 @@
     "type": "companion"
    },
    {
+    "from": "@minaketana-ramadasa",
+    "type": "companion"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -52385,6 +52445,10 @@
   "related_by": [
    {
     "from": "@jahnava",
+    "type": "companion"
+   },
+   {
+    "from": "@minaketana-ramadasa",
     "type": "companion"
    },
    {
@@ -54278,6 +54342,126 @@
    "ev-minaketana-ramadasa-kaviraja-house",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в лиле аватары — «иной Санкаршана, изначальный вьюха» (ГГД 68) и др.; гуру — Нитьянанда; происхождение — Джхаматпур",
+  "card": "parshadas/cards/minaketana-ramadasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/minaketana-ramadasa.md",
+   "en": "parshadas/en/minaketana-ramadasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "родители, год и место явления неизвестны (B 962, T 96); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F3"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода (сокрытия) ни одна книга не называет; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F3"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "«иной Санкаршана, изначальный вьюха»",
+    "source": "ГГД 68 (наш перевод)",
+    "level": "A",
+    "variants": [
+     "«Анубхашья» к ЧЧ Ади 11.53: «Минакетана Рама — другая вьюха Санкаршаны».",
+     "B 962, T 96: в него (одного) вошли Нишатха и Улмука, сыновья Баларамы, — прочтение авторов против санскрита (по ГГД 67–68 они вошли в Вирачандру), ⚠1."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "вечно совершенный маха-бхагавата, парамахамса-авадхута вне варнашрамы, погружённый в настроение Враджа",
+    "source": "«Анубхашья» к ЧЧ Ади 5.161, 5.163",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@nityananda",
+    "note": "Слуга (бхритья) авадхуты Нитьянанды, «обитель премы» (ЧЧ Ади 5.161), Его ветвь (Ади 11.53); «Анубхашья» к 5.161 — ученик авадхуты, сам маха-бхагавата парамахамса (F8). Вознегодовал за непочтение к Нитьянанде (⚠Б1). = @nityananda F393–F397."
+   },
+   {
+    "type": "host",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Гость по приглашению на суточном киртане в его доме в Джхаматпуре (ЧЧ Ади 5.162; «Анубхашья» — обычай писем-приглашений); Кавираджа стал на его сторону и упрекнул брата, за что Нитьянанда во сне послал его во Вриндаван (Ади 5.174–196)."
+   },
+   {
+    "type": "opposed",
+    "who": "@gunarnava-mishra",
+    "note": "Служитель Божества в доме Кавираджи, не приветствовавший слугу Нитьянанды; назван «вторым Ромахаршаной» (ЧЧ Ади 5.168–171); брахман не рассердился (5.171; T 97 ≠ T 196, ⚠7). Кто сидел во дворе — ⚠6."
+   },
+   {
+    "type": "opposed",
+    "who": "@kaviraja-brother",
+    "note": "Спор при уходе; брат верил в Чайтанью, но не в Нитьянанду; Рамадас огорчился, в гневе сломал флейту и ушёл, и брат «в тот же миг» погиб духовно (ЧЧ Ади 5.172–178; не «проклятие» — ⚠Б3). Имя брата по «Абхидхане» — Шьямадас (T 196)."
+   },
+   {
+    "type": "companion",
+    "who": "@jahnava",
+    "note": "В свите Джахнавы на пути в Кхетури (БР 10.374; НВ 6.190; ПВ 19.309); трапеза у её жилища (НВ 8.50); по её велению вернулся в Кхардаху (НВ 8.152–153). = @jahnava F51–F52."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalakara-pippalai",
+    "note": "Рядом в перечнях свиты Джахнавы (БР 10.374–375; НВ 6.188–190, 8.152)."
+   },
+   {
+    "type": "companion",
+    "who": "@murari-chaitanya-dasa",
+    "note": "Рядом в БР 10.374 и НВ 6.187."
+   },
+   {
+    "type": "companion",
+    "who": "@jnanadasa",
+    "note": "Рядом в БР 10.374 и НВ 6.187."
+   },
+   {
+    "type": "other",
+    "who": "@abhirama",
+    "note": "Тёзка (Рамадас), не путать; T 96 по ошибке ставит Абхираму в перечень БР 10.374 (⚠8; = @abhirama ⚠4)."
+   },
+   {
+    "type": "other",
+    "who": "@ramadasa-shivananda-son",
+    "note": "Тёзка, не путать (ЧЧ Ади 10.62)."
+   },
+   {
+    "type": "other",
+    "who": "@ramadasa-phulia",
+    "note": "Тёзка, не путать («Према-виласа» 24)."
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "note": "По ГГД 67–68 (наше прочтение) Нишатха и Улмука вошли в Вирачандру, а не в Минакетану (⚠1)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 5.161–171 и 11.53: авадхута-парамахамса, каништха, Ромахаршана; ГГД 68."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 5.165–177 — источник рассуждений B (не назван у B; ⚠5)."
+   }
+  ],
   "related_by": [
    {
     "from": "@abhirama",
@@ -54307,6 +54491,10 @@
   ],
   "related_by": [
    {
+    "from": "@minaketana-ramadasa",
+    "type": "opposed"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    }
@@ -54323,6 +54511,12 @@
   ],
   "events": [
    "ev-minaketana-ramadasa-kaviraja-house"
+  ],
+  "related_by": [
+   {
+    "from": "@minaketana-ramadasa",
+    "type": "opposed"
+   }
   ]
  },
  {
@@ -54778,6 +54972,10 @@
   "related_by": [
    {
     "from": "@abhirama",
+    "type": "other"
+   },
+   {
+    "from": "@minaketana-ramadasa",
     "type": "other"
    },
    {
@@ -56056,6 +56254,10 @@
    {
     "from": "@abhirama",
     "type": "other"
+   },
+   {
+    "from": "@minaketana-ramadasa",
+    "type": "other"
    }
   ]
  },
@@ -56519,6 +56721,10 @@
     "type": "companion"
    },
    {
+    "from": "@bijli-khan",
+    "type": "opposed"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "companion"
    },
@@ -56539,19 +56745,97 @@
   ],
   "events": [
    "ev-pathans-ramadasa"
+  ],
+  "related_by": [
+   {
+    "from": "@bijli-khan",
+    "type": "servant"
+   }
   ]
  },
  {
-  "id": "@bijuli-khan",
-  "ru": "Биджули (Виджали) Кхан",
-  "en": "Bijuli Khan",
-  "note": "юный царевич-патан, ставший маха-бхагаватой (ЧЧ Мадхья 18.207–212)",
+  "id": "@bijli-khan",
+  "ru": "Биджли Хан",
+  "en": "Bijli Khan",
+  "note": "юный царевич-патхан, ставший маха-бхагаватой (ЧЧ Мадхья 18.207–212); по изданию Гаудия Матха বিজলী-খাঁন («Биджали Хан» в выверенной редакции ЧЧ), у ВЧД — «Виджали/Виджули Кхан»; бывший тег @bijuli-khan (2026-11-17)",
   "section": "Аллегорические лица",
   "lilas": [
    "cc-3017"
   ],
   "events": [
    "ev-pathans-ramadasa"
+  ],
+  "card": "parshadas/cards/bijli-khan.yaml",
+  "article": {
+   "ru": "parshadas/ru/bijli-khan.md",
+   "en": "parshadas/en/bijli-khan.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F4"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F4"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "Отряд Биджли Хана схватил спутников Господа, приняв их за отравителей; очнувшись, Господь плясал с «Хари!», патханы отпустили пленных; после спора Господа с пиром Биджли Хан, видя удачу слуги, сказал «Кришна, Кришна» и пал к стопам; Господь поставил стопу ему на голову (ЧЧ Мадхья 18.163–212; ⚠Б2, ⚠Б6)."
+   },
+   {
+    "type": "servant",
+    "who": "@ramadasa-pathan",
+    "note": "«Пир» в чёрном, слуга Биджли Хана (ЧЧ 18.208); спорил с Господом о Коране и получил от Него имя «Рамадас» (18.185–207); видя его удачу, Биджли Хан и сам принял прибежище (B 961, T 103)."
+   },
+   {
+    "type": "opposed",
+    "who": "@krishnadasa-rajput",
+    "note": "Схвачен отрядом; пригрозил патханам своими двумястами воинами (ЧЧ: «турками») и сотней пушек (ЧЧ 18.173–175)."
+   },
+   {
+    "type": "opposed",
+    "who": "@krishnadasa-mathura",
+    "note": "Санодия-брахман, ученик Мадхавендры Пури; схвачен; бесстрашно объяснил предводителю, что санньяси — его гуру (ЧЧ 18.167–171; по B — вместе с Кришнадасом, ⚠2)."
+   },
+   {
+    "type": "opposed",
+    "who": "@balabhadra-bhattacharya",
+    "note": "Схвачен как «бенгальский мошенник», дрожал; после освобождения усадил Господа (= @balabhadra-bhattacharya F38–F39)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 18: Биджали Хан и его всадники — «преданные Кришны»; пир — суфий; «деревня патханов-вайшнавов» (источник B 893, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Мадхья 18.164–212: Биджали Хан — предводитель отряда патханов; касание стопой; маха-бхагавата."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Описал встречу в ЧЧ Мадхья 18 (T 102)."
+   }
   ],
   "related_by": [
    {
