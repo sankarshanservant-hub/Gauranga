@@ -18,9 +18,10 @@ especially favoured the Vaishnava faith. <!-- F15 F21 F22 F23 -->
 Yet it is not his royal glory that draws the hearts of Vaishnavas to him. The Vaishnava books of that age say that he was
 very dear to Mahaprabhu, to Ramananda Raya, to Kashi Mishra and to Sarvabhauma Bhattacharya, and almost every biography
 calls him a vessel of Gauranga's boundless mercy. The Lord, a sannyasi, long refused to see him — and yet granted him such
-mercy that Gaurasundara came to be called “the Saviour of Prataparudra.” This path, from refusal to embrace, is the story
-told here. The sources give neither the year nor the day of his appearance; the day of his departure is not given either, and its
-year only tentatively; these days are not in the Vaishnava calendar of the Sri Chaitanya Saraswat Math either. <!-- F24 F25 F84 -->
+mercy that Gaurasundara came to be called “the Saviour of Prataparudra,” and Vrindavana Dasa, listing the Lord's pastimes
+at the start of his book, names among them “the deliverance of Prataparudra” (CB, Adi 1.160). This path, from refusal to
+embrace, is the story told here. The sources give neither the year nor the day of his appearance; the day of his departure is not given either, and its
+year only tentatively; these days are not in the Vaishnava calendar of the Sri Chaitanya Saraswat Math either. <!-- F24 F25 F84 F85 -->
 
 ## The Gajapati Line
 The Orissan temple chronicle “Madala-panji” tells how his dynasty began. The last king of the Ganga dynasty,
@@ -125,9 +126,11 @@ Gajapati Rudra, lord of men.” (“Jagannatha-vallabha-nataka” 1.22) <!-- F28
 
 ## The Secret Darshan and the Dream
 Vrindavana Dasa and Krishnadasa Kaviraja tell differently how the king came to the Lord, and we give both accounts
-without merging them.[^10] In the “Chaitanya-bhagavata” it begins when the king, who had been away on a military campaign,
-returned to Cuttack and heard: “Sri Gaurasundara has come to Nilachala.” At once he left Cuttack and hurried to Puri to see
-the Lord. <!-- F34 -->
+without merging them.[^10] According to the “Chaitanya-bhagavata,” when the Lord first came to Nilachala the king was not
+in Utkala: he had gone to war against Vijayanagara and so did not see the Lord at that time (CB, Antya 3.269–270). Later,
+when the Lord had come back to Puri from Gauda, the king, who had been away on a military campaign, returned to Cuttack and
+heard: “Sri Gaurasundara has come to Nilachala.” At once he left Cuttack and hurried to Puri to see the Lord.
+<!-- F34 F85 -->
 
 But the Lord did not wish to meet him. A sannyasi must not see kings or women or converse with them: whoever seeks a
 king's favour wants to meet him for the sake of his own senses. Mahaprabhu, establishing the injunctions of scripture in
@@ -175,14 +178,25 @@ me and accept me as Your servant.” (CB, Antya 5.182–184)
 So the king realised that Sri Chaitanya is Jagannatha Himself and that They are one (CB, Antya 5.185). The Lord cannot be
 known by sensory knowledge or by one's own judgement: this is revealed only by His mercy. <!-- F40 I5 -->
 
-Then Vrindavana Dasa describes the meeting: in a flower garden where the Lord sat with His companions, the king, coming
-without his retinue, fell at His feet, offered prayers and received His blessing. The Lord told him:
+Then Vrindavana Dasa describes the meeting. One day the Lord was sitting with His companions in a flower garden; the king
+came there alone, without his retinue, fell at His feet and swooned with bliss — in tears, trembling, his hair standing on
+end. Seeing on him the marks of devotion to Vishnu, the Lord touched him with His hand: “Rise.” Coming to himself, the king
+clasped His feet and prayed at length: “Save me, save me, O ocean of mercy, Sri Krishna Chaitanya, friend of the fallen,
+beloved of Lakshmi, Murari who delights in sankirtana, ornament of sannyasa — be merciful to me and never forsake me!”
+Pleased, the Lord blessed him: may he have devotion to Krishna; let him do nothing but Krishna's work and ceaselessly
+perform Krishna-sankirtana — the Sudarshana disc of Vishnu would protect him. And He said:
 
-“I have come here for the sake of three persons: you, Sarvabhauma and Ramananda Raya.” (CB, Antya 5.202) <!-- F42 Q13 -->
+“I have come here for the sake of three persons: you, Sarvabhauma and Ramananda Raya.” (CB, Antya 5.202)
+
+The Lord asked the king not to reveal to anyone Who He was — otherwise He would leave this place; He gave him His own
+garland and sent him away. Bowing again and again, the king left, accepting His will with all his heart, and from then on
+meditated constantly on His feet. “Whoever hears how Prataparudra met the Lord,” Vrindavana Dasa concludes, “obtains the
+treasure of prema” (CB, Antya 5.186–208). <!-- F42 Q13 F86 -->
 
 ## “Not Even in a Dream”
-In Krishnadasa Kaviraja the events run otherwise. When the Lord first came to Nilachala the king was on campaign; returning
-to Cuttack, he learned that the Lord had already gone on pilgrimage to the south. Then he summoned Sarvabhauma:
+In Krishnadasa Kaviraja the events run otherwise. The king summoned Sarvabhauma to his palace when the Lord was already
+travelling in the south (CC, Madhya 10.3); one of the biographies explains that on returning to Cuttack the king no longer
+found the Lord in Puri. The king said:
 
 “I have heard that a great soul has come from Gauda and is staying in your house, and that He is supremely merciful.” (CC,
 Madhya 10.5)
@@ -211,8 +225,8 @@ When the Lord returned, Sarvabhauma conveyed the king's request to Him. The Lord
 11.7)
 
 Sarvabhauma objected that the king was a great devotee and a servant of Jagannatha. But the Lord answered that a king was
-still as dangerous to a sannyasi as a venomous snake, and forbade him: “If you speak of this again, you will not see Me
-here” (CC, Madhya 11.9–12). These comparisons concern the royal office and worldly association for a renunciant, not the
+still as dangerous to a sannyasi as a venomous snake, and forbade him: “If you speak of this once more, you will not see Me
+here any longer” (CC, Madhya 11.9–12). These comparisons concern the royal office and worldly association for a renunciant, not the
 Vaishnava king himself: the Lord kept the purity of His sannyasa-lila as a lesson to the world, while inwardly He was
 already won by the king's love. <!-- F45 Q4 -->
 
@@ -243,8 +257,10 @@ the “Bhagavatam” on the rasa dance — and the Lord would embrace him (CC, M
 Meanwhile the devotees came from Gauda, and the Lord returned from Alalanatha. From the palace roof the king watched the
 procession of Vaishnavas — there were nearly two hundred of them — while Gopinatha Acharya, at Sarvabhauma's wish, named
 each one for him. The king asked why they went to the Lord before going to Jagannatha; Sarvabhauma answered that such is
-the way of love. The king saw them circle the temple with loud kirtana, and his thirst to see the Lord grew ever stronger.
-He ordered lodging and prasada to be provided for them (CC, Madhya 11.79–90). <!-- F49 -->
+the way of love. He ordered lodging and prasada to be provided for them (CC, Madhya 11.79–90). And when the Lord with His
+devotees circled the temple with loud kirtana, the king, hearing of it, climbed with his attendants onto the palace roof,
+watched the unprecedented kirtana in wonder, and his eagerness to see the Lord grew boundless (CC, Madhya 11.236–237).
+<!-- F49 F87 -->
 
 From Cuttack he wrote to Sarvabhauma again and again begging for a meeting, and when the Lord did not consent, asked him to
 convey his plea to all the Lord's close companions: if they were kind to him, they would intercede for him at Mahaprabhu's
@@ -397,8 +413,9 @@ temple superintendent Tulasi Padichha; at his order the superintendent brought c
 around the heads of the celebrants (CC, Madhya 15.17–20, 15.27). One of the biographies says that the king and Sarvabhauma
 played the part of cowherd companions in this lila. <!-- F67 -->
 
-For two years the Lord longed to go to Vrindavana, but Ramananda and Sarvabhauma — at the king's earnest request — kept Him
-in Puri on one pretext or another (CC, Madhya 16.84–89). When at last He was firmly resolved, the king himself arranged
+For two years the Lord longed to go to Vrindavana, but Ramananda and Sarvabhauma kept Him in Puri (CC, Madhya 16.84–89);
+according to one of the biographies, on one pretext or another and at the earnest request of the king, whom the news of
+the Lord's departure had saddened (CC, Madhya 16.3). When at last He was firmly resolved, the king himself arranged
 everything for His journey. On Vijaya-dashami the Lord came with Ramananda to Cuttack and rested in a garden under a bakula
 tree. Ramananda informed the king, and he hurried there:
 
@@ -415,8 +432,13 @@ After taking leave of the Lord, the king sent an edict to his governors: in ever
 new houses were to be built and stocked with all that was needed, and they themselves were to serve Him day and night. He
 entrusted its execution to his ministers Harichandana and Mangaraja; at the river he ordered a new boat kept ready and a
 memorial pillar set up where the Lord would cross, so that the place would become a tirtha; there, at that crossing, he wished one day to
-leave his own body (CC, Madhya 16.110–115). Ramananda, Mangaraja and Harichandana escorted the Lord across the river
-Chitrotpala. <!-- F68 -->
+leave his own body (CC, Madhya 16.110–115). In the evening, as the Lord set out, the king had the queens seated in
+covered tents on elephants; lined up along the road, they bowed from afar to the Lord as He bathed in the Chitrotpala and
+cried “Krishna! Krishna!” in tears (CC, Madhya 16.117–121). Ramananda, Mangaraja and Harichandana escorted the Lord across
+the river Chitrotpala. By the king's order the temple superintendent sent the Lord prasada every day, and in every village
+the king's servants gave Him a new house and provisions (CC, Madhya 16.124, 16.152): “on the way Prataparudra served Him in
+many ways,” says the “Charitamrita” (Madhya 1.148). And when later the Lord agreed to spend the four months of chaturmasya in
+Puri, the king was delighted (CC, Madhya 16.285). <!-- F68 F88 -->
 
 ## That the Lord Might Stay
 Ramananda's brother Gopinatha Pattanayaka, a son of Bhavananda Raya, owed the treasury two lakhs of *kahanas* of cowries. In
@@ -449,6 +471,9 @@ There was another incident. Kamalakanta Vishvasa, a servant and disciple of Adva
 knowledge sent the king a letter (CC, Adi 12.28–29): Advaita, he wrote, was God Himself but was in debt — and he asked for
 money. The Lord punished Kamalakanta by not admitting him to His presence for a time. <!-- F73 -->
 
+In other years too, when the Lord with His devotees circled the temple in sankirtana in seven groups, the king and his
+retinue watched Him from a distance, and the queens from the upper storey of the palace (CC, Antya 10.58–63). <!-- F87 -->
+
 ## Other Accounts
 According to Murari Gupta, King Gajapati, wishing to see Mahaprabhu, summoned Sarvabhauma together with Ramananda (Murari
 4.16.1).[^19] From there Murari, like Lochana Dasa, tells a different story from Vrindavana Dasa and Krishnadasa Kaviraja.
@@ -457,6 +482,17 @@ Balarama; in Lochana he sees a sannyasi in Jagannatha's place, and later, after 
 Paramananda Puri and all the devotees, the Lord receives him in Kashi Mishra's house. In both the Lord reveals to the king
 His six-armed form; in Lochana He also instructs him in a king's duty — to protect his subjects. The revealed form is the
 Lord's revelation to His devotee, not a wonder for its own sake. <!-- F74 F75 -->
+
+The Oriya poet Govinda-deva gives his own account in the “Sri Gaura-krishnodaya.” For him King Prataparudra is an
+incarnation of Indra (1.45; in Karnapura he is Indradyumna, “equal to Indra”). The king comes to Puri with his army, and
+Sarvabhauma advises him to clasp the Lord's feet at the Gundicha-yatra while singing “Krishna, Krishna” (11.11–14); from the
+palace roof the king watches the Bengali devotees arrive, his son is brought to the Lord, and at the Ratha-yatra the king
+sweeps the chariots with a broom and sprinkles them with water mixed with camphor and sandal (11.31–51). During the dance
+before the chariot he falls at the Lord's feet, and the Lord, in bhava, embraces him, then, coming to outer consciousness,
+withdraws as if reproaching Himself (11.58); in the garden the king, in disguise, recites the verses of the gopis in
+separation, and the Lord embraces him, saying, “Read on!” (11.61–62). And at Cuttack, as He leaves for Vrindavana, the Lord
+reveals to the king His six-armed form composed of Rama and Krishna, and the king falls weeping to the ground until the
+Lord, resuming His own form, touches him with His hand (13.3–5). <!-- F89 -->
 
 According to a tradition given in one of the biographies, after the Lord left Puri for Vrindavana the king, unable to bear
 the separation, had a Deity of the Lord carved, appointed fifty-four brahmins for His service and granted a large estate
@@ -559,9 +595,9 @@ love, mercy and instruction to the world are so inseparable — and why Gaurasun
     chariot's route to Gundicha.
 [^16]: One of the biographies calls this garment a used loincloth, “one of the Lord's kaupinas.” In the “Charitamrita”
     (Madhya 12.34–36) it is a *bahirvasa* — an outer garment, a wrap.
-[^17]: In the database of pastimes the appearance of the six-armed form is also assigned to this meeting at Cuttack. In
-    the “Charitamrita” (Madhya 16.100–108) it is not there; the Lord reveals the six-armed form to the king in Lochana Dasa
-    (Shesha 51) and in Murari Gupta (4.16), and in a different setting (see “Other Accounts”).
+[^17]: In the “Charitamrita” (Madhya 16.100–108) there is no six-armed form at this meeting at Cuttack; its revelation to the
+    king here, at Cuttack, is described by Govinda-deva (“Gaura-krishnodaya” 13.3–5), while Lochana Dasa (Shesha 51) and
+    Murari Gupta (4.16) place it in Puri, in a different setting (see “Other Accounts”).
 [^18]: One of the biographies calls the offender Prataparudra's eldest son, another “Boro Jana,” which in Oriya means “the
     heir.”
 [^19]: In one of the biographies this verse is cited as “fourth prakrama, fifteenth sarga, verse 1”; in our edition of Murari
