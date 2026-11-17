@@ -11186,6 +11186,10 @@
     "type": "companion"
    },
    {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "companion"
    },
@@ -33470,6 +33474,10 @@
     "type": "companion"
    },
    {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "co-worker"
    },
@@ -42733,6 +42741,10 @@
     "type": "other"
    },
    {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -49629,6 +49641,10 @@
   ],
   "related_by": [
    {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gopala-bhatta",
     "type": "other"
    },
@@ -51983,6 +51999,10 @@
   ],
   "related_by": [
    {
+    "from": "@devakinandana-dasa",
+    "type": "guru"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    }
@@ -52229,6 +52249,10 @@
    "ev-panihati-chida-dadhi"
   ],
   "related_by": [
+   {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
    {
     "from": "@purushottama-nagara",
     "type": "father"
@@ -52735,6 +52759,10 @@
    "ev-devananda-mercy"
   ],
   "related_by": [
+   {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
    {
     "from": "@devananda-pandita",
     "type": "other"
@@ -54926,6 +54954,10 @@
    "ev-gopala-guru-mahamantra"
   ],
   "related_by": [
+   {
+    "from": "@devakinandana-dasa",
+    "type": "other"
+   },
    {
     "from": "@gopala-guru",
     "type": "other"
@@ -60554,6 +60586,109 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Пурушоттама Дас (Нагара Пурушоттама); происхождение — Кумарахатта (Халисахар)",
+  "card": "parshadas/cards/devakinandana-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/devakinandana-dasa.md",
+   "en": "parshadas/en/devakinandana-dasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "B, T, M года, дня и места явления не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F16"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "когда и где ушёл из этого мира — неизвестно; самадхи не названо; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F16"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Вайшнава-вандана» (бенгальская; краткая — 147 двустиший, изд. 1910 г.; «знаменитая вандана» у B — в иной редакции, ⚠4; «большая» вандана с «четырьмя сампрадаями» — по «Анурага-валли», ⚠3)",
+    "facts": [
+     "F7",
+     "F8",
+     "F9",
+     "F12",
+     "F13",
+     "F14",
+     "F15",
+     "Q1",
+     "Q3",
+     "Q4",
+     "Q5"
+    ]
+   },
+   {
+    "title": "«Шри Вайшнавабхидхана» (санскрит, 53 шлоки; B — «Вайшнава-абхидхана»; цитируется в БР 12)",
+    "facts": [
+     "F11"
+    ]
+   },
+   {
+    "title": "пады о Гауре («Бхакти-ратнакара» 12: «Посреди Надии — что за облик…», «Нет, нет никого, кроме Гауранги…»)",
+    "facts": [
+     "F10"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@purushottama-nagara",
+    "note": "Мантра-гуру (B 945; T 92; M 140 — один из трёх главных учеников; B 926); вандана ч. 2, ст. 87–89; «Вайшнавабхидхана» ст. 1, 31; «Анурага-валли» 8.44. = @purushottama-nagara F22, F31, F33."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Принадлежал к Его семье (паривара) через гуру — спутника Нитьянанды (B 945; ⚠Б4)."
+   },
+   {
+    "type": "other",
+    "who": "@sadashiva-kaviraja",
+    "note": "Отец его гуру (ЧЧ Ади 11.38); славит его в вандане (ч. 2, ст. 71; T 92)."
+   },
+   {
+    "type": "other",
+    "who": "@manohara-dasa-author",
+    "note": "«Анурага-валли» 8.44–46 называет его учеником Пурушоттамы и автором ванданы (B 945 цитирует; третья строка B — иначе, ⚠3)."
+   },
+   {
+    "type": "other",
+    "who": "@sundarananda",
+    "note": "Его вандана о Сундарананде (кадамба на лимонном дереве; ч. 2, ст. 84) — B 273 (ур. C, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-dasa-author",
+    "note": "«Карнананда» 5.179–180 ссылается на его вандану (о Гопале Бхатте)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "«Бхакти-ратнакара» 12 приводит две его пады о Гауре и шлоку «Вайшнавабхидханы»."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-chapala",
+    "note": "Лишь позднее предание (Джагадбандху Бхадра, 1903 — предположение; 24 «автобиографических» паяра, по Маджумдару — подделка): будто бы это он, оскорбивший Шривасу, прощённый и посланный к Пурушоттаме. В B, T, M этого нет; ЧЧ Ади 17.37–58 и ЧБ Антья 4.346–385 его не называют. Ур. D (⚠1, ⚠Б1)."
+   }
+  ],
   "related_by": [
    {
     "from": "@purushottama-nagara",
