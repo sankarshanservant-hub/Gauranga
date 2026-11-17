@@ -3799,6 +3799,9 @@
    "dvk-0008",
    "lcm-0212",
    "mkc-0165",
+   "dvk-0009",
+   "dvk-0010",
+   "dvk-0011",
    "cc-1048",
    "gkd-0071",
    "lcm-0213",
@@ -3828,10 +3831,13 @@
    "gst-0025",
    "pad-0052",
    "cc-1050",
+   "dvk-0012",
    "gkd-0074",
    "cc-1051",
+   "dvk-0013",
    "kcm-0115",
    "cc-1052",
+   "dvk-0014",
    "cc-1053",
    "cb-3041",
    "cc-1054",
@@ -4614,6 +4620,7 @@
    "ev-jagannatha-dasa-bhagavata-meeting",
    "ev-svami-initiated-by-balarama-dasa",
    "ev-atibada-name",
+   "ev-gaudiyas-leave-over-atibada",
    "ev-gopinatha-sarvabhauma-debate",
    "ev-jagannatha-turns-golden",
    "ev-sarvabhauma-deliverance",
@@ -4937,6 +4944,8 @@
    "pvl-0045",
    "pvl-0046",
    "ccd-0039",
+   "dvk-0010",
+   "dvk-0011",
    "cc-2051",
    "cc-2052",
    "cc-2068",
@@ -5343,6 +5352,7 @@
    "ev-lokanatha-sent-to-vrindavana",
    "ev-lokanatha-bhugarbha-in-vraja",
    "ev-radha-desha-wandering",
+   "ev-gaudiyas-leave-over-atibada",
    "ev-ratha-yatra-gundicha",
    "ev-hera-panchami",
    "ev-ramakeli-rupa-sanatana",
@@ -6765,6 +6775,7 @@
    "mkc-0156",
    "kcm-0110",
    "lcm-0204",
+   "dvk-0009",
    "kcm-0142",
    "cc-2105",
    "vlm-0151",
@@ -6781,6 +6792,7 @@
    "ev-jajpur-viraja",
    "ev-toll-collector-binds-mukunda",
    "ev-ekamra-bhubaneshvara",
+   "ev-gaudiyas-leave-over-atibada",
    "ev-gauda-devotees-arrive-puri",
    "ev-ramananda-farewell-remuna",
    "ev-odisha-kirtan-circuit",
@@ -9953,6 +9965,7 @@
   "note": "Бенгалия, столица царей Малла (Маллабхум); Вира Хамбир; «Гупта-Вриндаван»",
   "section": "",
   "lilas": [
+   "dvk-0010",
    "brt-0043",
    "brt-3033",
    "krn-0008",
@@ -10022,6 +10035,7 @@
    "pvl-0173"
   ],
   "events": [
+   "ev-gaudiyas-leave-over-atibada",
    "ev-srinivasa-birth",
    "ev-books-stolen-vana-vishnupura",
    "ev-narottama-returns-kheturi",
@@ -12881,11 +12895,13 @@
   "lilas": [
    "vlm-0105",
    "dvk-0005",
+   "dvk-0014",
    "dvk-0004"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
-   "ev-jagannatha-dasa-bhagavata-meeting"
+   "ev-jagannatha-dasa-bhagavata-meeting",
+   "ev-sarvabhauma-deliverance"
   ]
  },
  {

@@ -3440,6 +3440,12 @@
 - divakara-jcm (D): Гл. 2, 1–57 — [2.1–2.57](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L8-L76) · `dvk-0005`
 - vaishnava-lilamrita (C): Гл. 4, 36–50 — [4.36–4.50](../vaishnava-lilamrita/ru/04.md?plain=1#L44-L58) · `vlm-0002`
 
+## Гаудии уходят из Пури из-за титула «Атибада» / The Gaudiyas leave Puri over the title «Atibada»  `ev-gaudiyas-leave-over-atibada` (1510–1510, возраст 24–24, оценка)
+
+- divakara-jcm (D): Гл. 3, 58–104 — [3.58–3.104](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L78-L128) · `dvk-0009`
+- divakara-jcm (D): Гл. 3, 105–148 — [3.105–3.148](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L133-L180) · `dvk-0010`
+- divakara-jcm (D): Гл. 3, 149–188 — [3.149–3.188](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L185-L224) · `dvk-0011`
+
 ## Вечерний даршан: Джаганнатха становится золотистым / Evening darshan: Jagannatha turns golden  `ev-jagannatha-turns-golden` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 203–214 (с 204+1–204+2) — [203–214](../lochana/ru/45.md?plain=1#L301-L340) · `lcm-0213`
@@ -3474,9 +3480,12 @@
 - gaura-stotras (A): Рупа, Третья «Чайтаньяштака» 2 — [2–2](../stotras/ru/06.md?plain=1#L7-L7) · `gst-0025`
 - padas (C): Васу Гхош, ГПТ1 с. 402 (№ 2) «অচৈতন্য শ্রীচৈতন্য সার্ব্বভৌম-ঘরে» — [11.1–11.8](../padas/ru/03.md?plain=1#L335-L356) · `pad-0052`
 - cc (A): Мадхья 6.139–182 — [139–182](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1134-L1498) · `cc-1050`
+- divakara-jcm (D): Гл. 4, 1–39 — [4.1–4.39](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L8-L66) · `dvk-0012`
 - gaura-krishnodaya (B): Сарга 8, 55–56 — [55–56](../gaura-krishnodaya/ru/08.md?plain=1#L121-L123) · `gkd-0074`
 - cc (A): Мадхья 6.183–198 — [183–198](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1506-L1628) · `cc-1051`
+- divakara-jcm (D): Гл. 4, 40–105 — [4.40–4.105](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L72-L170) · `dvk-0013`
 - cc (A): Мадхья 6.199–215 — [199–215](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1636-L1764) · `cc-1052`
+- divakara-jcm (D): Гл. 4, 106–149 — [4.106–4.149](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L176-L223) · `dvk-0014`
 - cc (A): Мадхья 6.216–238 — [216–238](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1772-L1956) · `cc-1053`
 - cc (A): Мадхья 6.239–247 — [239–247](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1964-L2030) · `cc-1054`
 - cc (A): Мадхья 6.248–258 — [248–258](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L2038-L2126) · `cc-1055`

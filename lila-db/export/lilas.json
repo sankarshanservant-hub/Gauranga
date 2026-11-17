@@ -131187,6 +131187,196 @@
   "attestation": 11
  },
  {
+  "id": "dvk-0009",
+  "source": "divakara-jcm",
+  "ref": "Гл. 3, 58–104",
+  "file": "divakara-jagannatha-charitamrita/ru/03.md",
+  "period": "P10",
+  "order": 16,
+  "title": "Вайшнавы, обиженные «Атибадой», уходят в Яджапур; письмо Махапрабху «тринад апи»",
+  "summary": "Вайшнавы упрекают Прабху за титул «Атибада»; Он прославляет Пурушоттаму, где даже камни и дерево — боги, а бхакти входит без садханы. Обиженные, они уходят в Яджанагару; Господь с шестью вайшнавами остаётся и посылает Харидаса с письмом-шлокой «будучи смиреннее травинки…», которую в собрании читает Джагадананда; вайшнавы зовут Самого Прабху; Он с Джаганнатхой Дасом идёт в Яджапур, но снова называет его «Атибадой», и вайшнавы печалятся.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@haridasa-thakura",
+   "@jagadananda-pandita",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri",
+   "#jajpur"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "«Шикшаштака» 3 (ЧЧ Антья 20) — шлока письма",
+  "notes": "Сектантское предание Атибади; в ЧЧ/ЧБ нет. Кто такой «Харидас» здесь — не уточнено (сноски перевода).",
+  "themes": [
+   "separation",
+   "offense",
+   "teaching"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-gaudiyas-leave-over-atibada",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.58",
+    "to": "3.104"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.58",
+    "to": "3.104",
+    "line": 78,
+    "line_to": 128,
+    "count": 47,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/03.md?plain=1#L78-L128",
+    "file_en": "divakara-jagannatha-charitamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/03.md?plain=1#L78-L128"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0010",
+  "source": "divakara-jcm",
+  "ref": "Гл. 3, 105–148",
+  "file": "divakara-jagannatha-charitamrita/ru/03.md",
+  "period": "P10",
+  "order": 17,
+  "title": "Вайшнавы уходят в Вана-Вишнупур; письмо Махапрабху о Пурушоттаме; «Харе Кришна Рама»",
+  "summary": "Вайшнавы зовут Прабху в Гауду и по тиртхам; Он отвечает шлокой и словами: «Мой ум и разум ищут прибежища у Джаганнатхи», и они уходят в Бана-Вишнупур, где ставят матх. Через год Мадхо Дас передаёт: пусть Он идёт по тиртхам, ведь Он стал соблюдать орийские обычаи; Прабху шлёт письмо: Я видел Каши, Матхуру, Вриндаван, Двараку, Айодхью и Бадарику, но Джаганнатха в Нилачале чарует мир — здесь Я и останусь. Вайшнавы решают уйти во Вриндаван и меняют обычаи Пурушоттамы: вместо «Харе Рама Кришна» говорят «Харе Кришна Рама», вместо нирмальи почитают пыль Вриндавана.",
+  "persons": [
+   "@mahaprabhu",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri",
+   "#vana-vishnupura",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "Ср. ЧЧ Мадхья 3, 16 (Господь живёт в Пури по слову Шачи)",
+  "notes": "Сектантская версия: по ЧЧ Господь живёт в Пури по слову Шачи (Мадхья 3, 16), а Госвами идут во Вриндаван по Его повелению (Мадхья 19–23). Порядок слов махамантры — у гаудия-вайшнавов «Харе Кришна… Харе Рама» (Кали-сантарана-упанишад; сноски перевода).",
+  "themes": [
+   "separation",
+   "jagannatha"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-gaudiyas-leave-over-atibada",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.105",
+    "to": "3.148"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.105",
+    "to": "3.148",
+    "line": 133,
+    "line_to": 180,
+    "count": 44,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/03.md?plain=1#L133-L180",
+    "file_en": "divakara-jagannatha-charitamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/03.md?plain=1#L133-L180"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0011",
+  "source": "divakara-jcm",
+  "ref": "Гл. 3, 149–188",
+  "file": "divakara-jagannatha-charitamrita/ru/03.md",
+  "period": "P10",
+  "order": 18,
+  "title": "Гаудии во Вриндаване; Рупа и Санатана приходят на Гундича-ятру; Господь толкает колесницу головой",
+  "summary": "Во Вриндаване гаудии оставляют Пурушоттаму: Ямуна вместо моря, Мадана-мохан вместо Джаганнатхи, путь раги вместо предписаний; проявляется слава шести Госаев. По слову Прабху Матхура Дас приводит Рупу и Санатану с двадцатью спутниками на Гундича-ятру; они видят, как Шри Чайтанья толкает колесницу головой, и Он обнимает их. «Шесть вайшнавов» — Нитьянанда, Санатана, Рупа, Рагхунатха Дас, Джива и Гопала Дас; каждый год они приходят на Гундичу и возвращаются во Вриндаван. Прабху остаётся в Пурушоттаме и поёт «Харе Рама Кришна».",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@nityananda",
+   "@raghunatha-dasa",
+   "@jiva-gosvami",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#vrindavana",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 13 (Господь толкает колесницу головой); ЧЧ Антья 1, 4 (Рупа и Санатана в Пури)",
+  "notes": "Список «шести Госаев» у Дивакара иной, чем у гаудия-вайшнавов (Рупа, Санатана, Рагхунатха Бхатта, Рагхунатха Дас, Джива, Гопала Бхатта); Джива при Господе в Пури не бывал (сноски перевода).",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "event": "ev-gaudiyas-leave-over-atibada",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.149",
+    "to": "3.188"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/03.md",
+    "from": "3.149",
+    "to": "3.188",
+    "line": 185,
+    "line_to": 224,
+    "count": 40,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/03.md?plain=1#L185-L224",
+    "file_en": "divakara-jagannatha-charitamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/03.md?plain=1#L185-L224"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-1048",
   "source": "cc",
   "ref": "Мадхья 6.68–117",
@@ -131555,7 +131745,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3037",
@@ -131623,7 +131813,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "gkr-0027",
@@ -131807,7 +131997,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "mkc-0167",
@@ -131870,7 +132060,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3038",
@@ -131933,7 +132123,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "gkr-0028",
@@ -132056,7 +132246,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "apr-0089",
@@ -132113,7 +132303,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "bkm-0009",
@@ -132169,7 +132359,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3040",
@@ -132233,7 +132423,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cc-1049",
@@ -132291,7 +132481,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "ccd-0051",
@@ -132362,7 +132552,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "gkd-0072",
@@ -132430,7 +132620,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "gkr-0029",
@@ -132553,7 +132743,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "kcm-0116",
@@ -132613,7 +132803,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "kcm-0117",
@@ -132678,7 +132868,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "kcm-0122",
@@ -132806,7 +132996,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "mkc-0168",
@@ -132873,7 +133063,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "vv-0053",
@@ -132931,7 +133121,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cc-0311",
@@ -132990,7 +133180,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "gst-0025",
@@ -133048,7 +133238,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "pad-0052",
@@ -133116,7 +133306,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cc-1050",
@@ -133190,7 +133380,72 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
+ },
+ {
+  "id": "dvk-0012",
+  "source": "divakara-jcm",
+  "ref": "Гл. 4, 1–39",
+  "file": "divakara-jagannatha-charitamrita/ru/04.md",
+  "period": "P10",
+  "order": 31,
+  "title": "Махапрабху со Свами у Сарвабхаумы; учение об «аманеха» и махапрасаде",
+  "summary": "Чтобы спасти гордого учёностью Сарвабхауму, Прабху с Джаганнатхой Дасом приходит к нему; Сарвабхаума простирается и спрашивает о неподнесённой пище (аманеха) и о том, когда она становится махапрасадом. Прабху объясняет: Пурушоттама — кшетра освобождения, где Балабхадра, Субхадра, Джаганнатха и Сударшана явлены в четырёхчастном облике; найведью подносят Балабхадре, он передаёт Субхадре, она — в уста Прабху, и вкушённое Им — махапрасад; биджи «шрим», «хрим», «клим» — Шеша, Субхадра и Джаганнатха.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma",
+   "@jagannatha-dasa-odia",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 6 (Сарвабхаума принимает махапрасад)",
+  "notes": "У Дивакара Сарвабхаума наставляется в присутствии Джаганнатхи Даса; в ЧЧ — иначе (сноски перевода).",
+  "themes": [
+   "teaching",
+   "prasada",
+   "jagannatha"
+  ],
+  "teaching": [
+   "prasada-teaching"
+  ],
+  "event": "ev-sarvabhauma-deliverance",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.1",
+    "to": "4.39"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.1",
+    "to": "4.39",
+    "line": 8,
+    "line_to": 66,
+    "count": 39,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/04.md?plain=1#L8-L66",
+    "file_en": "divakara-jagannatha-charitamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/04.md?plain=1#L8-L66"
+   }
+  ],
+  "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 14
  },
  {
   "id": "gkd-0074",
@@ -133250,7 +133505,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cc-1051",
@@ -133313,7 +133568,72 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
+ },
+ {
+  "id": "dvk-0013",
+  "source": "divakara-jcm",
+  "ref": "Гл. 4, 40–105",
+  "file": "divakara-jagannatha-charitamrita/ru/04.md",
+  "period": "P10",
+  "order": 32,
+  "title": "Учение Сарвабхауме о бхакти: царь мантр, Радха в теле Джаганнатхи, Харинама «Харе Рама Кришна»",
+  "summary": "Сарвабхаума спрашивает, как рождается бхакти; Прабху учит почитать тело Джаганнатхи через царя мантр в мантре, янтре и тантре, воспевать имя Хари; Джаганнатха — Парабрахман, из Которого выходят аватары; Радха «рождена» из Его тела и пребывает в Нём, а Радха Вриндавана — от неё; биджи «шрим», «хрим», «клим» соотнесены с именами Хари, Рамы и Кришны; длинная хвала Радхе, от взгляда Которой рождаются миры и Которой подвластен Джаганнатха; Харинама «Харе Рама Кришна» — царь мантр.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma",
+   "@radha",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Тантрическое учение линии Атибади; по гаудия-вайшнавам Радха вечна и не «рождается», она — хладини-шакти Кришны (ЧЧ Ади 4) — сноски перевода.",
+  "themes": [
+   "teaching",
+   "jagannatha"
+  ],
+  "teaching": [
+   "holy-name",
+   "prema"
+  ],
+  "event": "ev-sarvabhauma-deliverance",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.40",
+    "to": "4.105"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.40",
+    "to": "4.105",
+    "line": 72,
+    "line_to": 170,
+    "count": 66,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/04.md?plain=1#L72-L170",
+    "file_en": "divakara-jagannatha-charitamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/04.md?plain=1#L72-L170"
+   }
+  ],
+  "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 14
  },
  {
   "id": "kcm-0115",
@@ -133436,7 +133756,73 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
+ },
+ {
+  "id": "dvk-0014",
+  "source": "divakara-jcm",
+  "ref": "Гл. 4, 106–149",
+  "file": "divakara-jagannatha-charitamrita/ru/04.md",
+  "period": "P10",
+  "order": 33,
+  "title": "Царь мантр и «пять состояний»; слава Пурушоттама-кшетры",
+  "summary": "Прабху продолжает: шестнадцатисложный царь мантр «Харе Рама Кришна» пробуждает всю бхакти, даже у животных и червей, если звучит громко; пять состояний (внешнее, джива, внутреннее, высшее, главное — «Ом») — Джаганнатха как Панча-таттва; Пурушоттама в пять крош на голове Ананты дарует дхарму, артху, каму и мокшу; здесь вместе Матхура, Дварака, Каши, Айодхья и Вриндаван; вошедший между Калпаврикшей и Джаганнатхой обретает бхакти; оставивший этот град ради иного родится асуром.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri",
+   "#bata-ganesha"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "ЧЧ Антья 3 (Харидас: громкое воспевание благо и для животных — ср.)",
+  "notes": "Учение о превосходстве Пурушоттамы над Вриндаваном — против ЧЧ (Голока-Вриндавана высшая; Ади 5) — сноски перевода.",
+  "themes": [
+   "teaching",
+   "jagannatha",
+   "pilgrimage"
+  ],
+  "teaching": [
+   "holy-name",
+   "scripture"
+  ],
+  "event": "ev-sarvabhauma-deliverance",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.106",
+    "to": "4.149"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.106",
+    "to": "4.149",
+    "line": 176,
+    "line_to": 223,
+    "count": 44,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/04.md?plain=1#L176-L223",
+    "file_en": "divakara-jagannatha-charitamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/04.md?plain=1#L176-L223"
+   }
+  ],
+  "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 14
  },
  {
   "id": "cc-1053",
@@ -133501,7 +133887,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3041",
@@ -133616,7 +134002,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3044",
@@ -133739,7 +134125,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3045",
@@ -133870,7 +134256,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3046",
@@ -133981,7 +134367,7 @@
    24,
    24
   ],
-  "attestation": 13
+  "attestation": 14
  },
  {
   "id": "cb-3047",
