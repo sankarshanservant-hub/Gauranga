@@ -31,12 +31,12 @@ original sources do not give the year, and the day of his appearance is not in t
 Chaitanya Saraswat Math.[^5] <!-- F5 -->
 
 The "Bhakti-ratnakara" tells of the birth itself. The child stayed in his mother's womb longer than was due, and Sunanda
-suffered greatly. A maidservant went to tell Damodara. He was at that moment performing puja to the Goddess and, without
-breaking it off, told her by a glance and a sign to take the yantra of the Devi to the woman in labour and show it to
+suffered greatly. A maidservant went to tell Damodara. He was at that moment performing puja to the Goddess and
+told her by a glance and a sign to take the yantra of the Devi to the woman in labour and show it to
 her. The maidservant did not understand the sign: she quickly washed the yantra and gave Sunanda the water to drink
 ("Bhakti-ratnakara" 9.149). And the mother was easily delivered of a son. The author of the "Bhakti-ratnakara" sees in this
-one of the two reasons why Govinda in his youth was devoted to the Goddess: he was born after the water of her yantra had
-been drunk. <!-- F6 Q1 -->
+one of the two reasons why Govinda in his youth was devoted to the Goddess: he was born after his mother had drunk the water of
+her yantra. <!-- F6 Q1 -->
 
 Soon after Govinda's birth his father left this world, and the brothers grew up in the house of their grandfather,
 Damodara. <!-- F7 -->
@@ -175,13 +175,13 @@ Rupa's teaching on the rasas, and that is why they so move the hearts of their h
 The biographies quote several of his padas. One is a song of self-surrender to the Lord, "Bhajahu re mana
 Sri-Nanda-nandana…": O mind, serve the son of Nanda; a rare human birth and the company of sadhus have been given to you —
 cross the ocean of existence; wealth, youth and sons are unreliable, and Govinda dasa's desire is the nine kinds of
-bhakti. The "Prema-vilasa" says he composed this song when he came to Srinivasa (14.185). Two padas about Gaura are sung in
+bhakti. The "Prema-vilasa" says he composed this song when he came to Srinivasa (14.185). Two padas about Gaura were composed for
 kirtana: "Kandala kanaya kalevara kanti…" — of the Lord whose body shines like gold and is bathed in streams of tears of
 love: He Himself chants His name and has others chant it, dances and makes even the deaf, the dull and the blind dance,
 and embraces all without distinction; and "Sabahu gayata sabahu nachata…" — all sing and dance, and Gaura takes the
 fallen in His arms, crying "Hari, Hari!", and Himself, without waiting to be asked, gives away prema in full. And,
 finally, the song of separation "Madhava, tuhu rahila Madhupura…": Madhava, You have stayed in Mathura, and all Vraja is in
-turmoil — Yashoda and Nanda sit as if blind, friends, flute and cows are abandoned, and the Yamuna overflows with tears.
+turmoil — Yashoda and Nanda sit as if blind, friends, flute and cows are abandoned, and the Yamuna is full to the brim.
 This is vipralambha, the love of the residents of Vraja in separation from Krishna, the highest expression of their
 prema. <!-- F29 Q9 -->
 
@@ -194,7 +194,7 @@ Vaishnavas," asked him, Govinda composed for him a song about Sri Rama, signing 
 heart: Rama is Harinarayana's chosen Lord" (ibid. 1.456–460). <!-- F30 F31 F32 -->
 
 ## In the Circle of Srinivasa and Narottama
-When Narottama was arranging the great festival at Kheturi, the news reached Srinivasa and his companions at Budhari, in
+When the great festival at Kheturi was being prepared, the news reached Srinivasa and his companions at Budhari, in
 the house of Govinda Kaviraja, and from there they all went together to Kheturi. Srinivasa, his disciple Ramachandra and
 Ramachandra's brother Govinda actively helped to arrange the festival. The "Narottama-vilasa" relates that Srinivasa sent
 Govinda Kaviraja to Shyamananda, and he showed Shyamananda the Deities and the stores for the festival (6.165–171); and
@@ -210,7 +210,7 @@ Virachandra, Nityananda's son: Virachandra came to Budhari, to the house of Govi
 with great devotion and performed puja to him; pleased, Virachandra stayed with him two days and then went on to
 Kheturi. <!-- F37 F38 -->
 
-Govinda knew well the hearts of his elder companions. The "Karnananda," having said that Ramachandra and Narottama are
+Govinda knew well the hearts of Ramachandra and Narottama. The "Karnananda," having said that Ramachandra and Narottama are
 equal in virtue and there is no difference between them, adds: "The inner essence of both is known to Kaviraja Govinda,
 and Govinda Chakravarti knows it too" (3.245). <!-- F40 -->
 
