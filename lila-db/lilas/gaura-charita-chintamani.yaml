@@ -98,7 +98,7 @@
 
 - id: gcc-0006
   source: gaura-charita-chintamani
-  ref: "Кирана 3, 1–11"
+  ref: "Кирана 3, 1–13"
   file: "gaura-charita-chintamani/ru/03.md"
   period: P07
   order: 91
@@ -109,8 +109,86 @@
   kind: lila
   authority: C
   parallels: ""
-  notes: "Начало кираны 3 (шаййоттхана)."
+  notes: "Кирана 3 — «Описание пробуждения (шаййоттханы)»."
   themes: [krishna-lila, ecstasy]
   event: ev-gaura-ashtakala-pratah
   verses:
-    - {file: "gaura-charita-chintamani/ru/03.md", from: "3.1", to: "3.11"}
+    - {file: "gaura-charita-chintamani/ru/03.md", from: "3.1", to: "3.13"}
+
+- id: gcc-0007
+  source: gaura-charita-chintamani
+  ref: "Кирана 4, 1–22"
+  file: "gaura-charita-chintamani/ru/04.md"
+  period: P07
+  order: 92
+  title: "Утро: Гаура во дворе Шачи среди рядов преданных; Нитьянанда любуется младшим Братом"
+  summary: "Проснувшийся Гаура сидит во дворе дома Шачи, окружённый бесчисленными спутниками, словно золотая гора Сумеру — богами; даже Шеша не в силах описать эту красу; преданные ликуют; Нитьянанда, опьянённый любовью к младшему Брату, любуется Гаурой; описана и красота Самого Нитьянанды."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Нитьянанда — Баларама, старший брат Кришны (сноска перевода)."
+  themes: [krishna-lila, ecstasy]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/04.md", from: "4.1", to: "4.22"}
+
+- id: gcc-0008
+  source: gaura-charita-chintamani
+  ref: "Кирана 5, 1–9"
+  file: "gaura-charita-chintamani/ru/05.md"
+  period: P07
+  order: 93
+  title: "Утро: любовь стариков Надии к Гауре"
+  summary: "Пожилые мужчины и женщины Надии, любящие Гауру как родного ребёнка, тайком говорят друг другу о Нём, опираясь на посохи, приходят во двор Шачи, молят богов о Его благе, а испив красоту Его лица, словно снова становятся юными."
+  persons: ["@mahaprabhu", "@shachi", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ватсалья-бхава жителей Навадвипы."
+  themes: [family, ecstasy]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/05.md", from: "5.1", to: "5.9"}
+
+- id: gcc-0009
+  source: gaura-charita-chintamani
+  ref: "Кирана 6, 1–16"
+  file: "gaura-charita-chintamani/ru/06.md"
+  period: P07
+  order: 94
+  title: "Утро во дворе Шачи: женщины, любящие Гауру материнской любовью; Шачи просит Ситу благословить Нимая и Нитая"
+  summary: "Пожилые женщины Надии, исполненные родительской любви, — Сита Тхакурани, Малини, супруга Шриваса, и другие — любуются Гаурой, благословляют Его и молят богов о Его благе; Шачи просит Ситу благословить Нимая и Нитая."
+  persons: ["@mahaprabhu", "@shachi", "@sita-thakurani", "@malini", "@nityananda", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Ади (Сита и Малини при Шачи)"
+  notes: "Кирана 6 — «Описание превосходства премы [женщин], исполненных родительской любви»."
+  themes: [family, ecstasy]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/06.md", from: "6.1", to: "6.16"}
+
+- id: gcc-0010
+  source: gaura-charita-chintamani
+  ref: "Кирана 7, 1–12"
+  file: "gaura-charita-chintamani/ru/07.md"
+  period: P07
+  order: 95
+  title: "Утро: нагари Надии тайком рассказывают друг другу, как увидели Гауру"
+  summary: "Молодые женщины Навадвипы, исполненные премы к Гауре, на рассвете под предлогом домашних дел тайком собираются и рассказывают друг другу, как накануне, обманув строгих свекровей, золовок и тётушек, хоть на миг увидели Гауру на дороге; одна, вернувшись в слезах, уверяет свекровь, что испугалась змеи; нагари желают счастья лишь в счастье Гауры."
+  persons: ["@mahaprabhu", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Гаура-нагари-бхава Нарахари; по Шриле Бхактисиддханте Сарасвати и ЧБ Ади 15 гаудия-вайшнавы отвергают гаура-нагари-ваду: Гаура — Кришна в настроении Радхи, вкушающий Её любовь, а не наслаждающийся; описания понимаются как прославление красоты Гауры и пробуждаемой ею премы (сноска 3 кираны 7)."
+  themes: [ecstasy]
+  teaching: [gaura-tattva, prema]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/07.md", from: "7.1", to: "7.12"}

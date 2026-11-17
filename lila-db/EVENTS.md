@@ -1816,7 +1816,11 @@
 
 ## Аштакалия-лила Гауры: пратах — пробуждение Господа / Gaura's ashtakaliya-lila: pratah — the Lord's awakening  `ev-gaura-ashtakala-pratah` (1509–1510, возраст 23–24, оценка)
 
-- gaura-charita-chintamani (C): Кирана 3, 1–11 — [3.1–3.11](../gaura-charita-chintamani/ru/03.md?plain=1#L9-L151) · `gcc-0006`
+- gaura-charita-chintamani (C): Кирана 3, 1–13 — [3.1–3.13](../gaura-charita-chintamani/ru/03.md?plain=1#L9-L173) · `gcc-0006`
+- gaura-charita-chintamani (C): Кирана 4, 1–22 — [4.1–4.22](../gaura-charita-chintamani/ru/04.md?plain=1#L9-L238) · `gcc-0007`
+- gaura-charita-chintamani (C): Кирана 5, 1–9 — [5.1–5.9](../gaura-charita-chintamani/ru/05.md?plain=1#L9-L95) · `gcc-0008`
+- gaura-charita-chintamani (C): Кирана 6, 1–16 — [6.1–6.16](../gaura-charita-chintamani/ru/06.md?plain=1#L9-L200) · `gcc-0009`
+- gaura-charita-chintamani (C): Кирана 7, 1–12 — [7.1–7.12](../gaura-charita-chintamani/ru/07.md?plain=1#L9-L237) · `gcc-0010`
 
 ## Господь посещает Адвайту / The Lord visits Advaita  `ev-visit-advaita` (1509–1510, возраст 23–24, оценка)
 
