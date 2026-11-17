@@ -20,13 +20,13 @@ him Sri Minaketana or simply Ramadasa;[^2] one of them speaks of him as “a dev
 Who his parents were, and where and when he appeared in this world, is not known. Nor does anyone say when or where he
 left this world, and the Vaishnava calendar of Sri Chaitanya Saraswat Math has no days for him. Even the place where he
 lived is not stated exactly: the “Chaitanya-charitamrita” says only that he came to Jhamatpur by invitation, while the
-biographies suppose that he lived somewhere nearby or in Jhamatpur itself.[^3] <!-- F3 F4 -->
+biographies suppose that he lived somewhere nearby or in Jhamatpur itself.[^3] <!-- F3 F4 F39 -->
 
 The “Charitamrita” calls Nityananda the Avadhuta — a name for a wanderer bound by no outward rules. His servant was an
 avadhuta too. In the “Anubhashya” on this verse Srila Bhaktisiddhanta Sarasvati cites Sridhara Svami's gloss (on the
 “Bhagavatam,” 3.1.19): an avadhuta is *asamskrita-deha*, one who takes no care of his body and bears no ritual marks on
 it. The disciple of the Avadhuta Nityananda, Srila Bhaktisiddhanta explains, is likewise an eternally perfect
-maha-bhagavata, a paramahamsa above varnashrama: his body bore the marks of no varna and no ashrama; he was absorbed in
+maha-bhagavata, a paramahamsa above varnashrama: his body bore the marks of no varna and no ashrama; he was immersed in
 the mood of Vraja and gave no thought to the body. One of the biographies calls him exactly that — a maha-bhagavata, or
 paramahamsa — the words with which the “Anubhashya” heads the next verse. Here lies the key to all that happened later
 in Jhamatpur: Minaketana's actions were neither oddities nor rudeness, but the rapture of a devotee for whom outward
@@ -81,7 +81,7 @@ prema, he called out “Nityananda!” in a thunderous roar (*hunkara*), and the
 bliss. <!-- F13 F14 -->
 
 ## “A Second Romaharshana”
-In Kaviraja's house a brahmana named Gunarnava Mishra served the Deity:
+In Kaviraja's house the Deity was served by a brahmana, Gunarnava Mishra:
 
 “A respectable brahmana named Gunarnava Mishra was serving the Deity there.” (CC, Adi 5.168)
 
@@ -104,7 +104,7 @@ seat or greet Him — and for this Baladeva punished him, taking his life. Gunar
 honour Nityananda's servant is to fail to honour Balarama Himself. One biography draws a lesson from this: a proud man
 is fit neither to speak the “Bhagavatam,” which is non-different from Krishna, nor to serve the Deity. <!-- F19 I2 -->
 
-Can Minaketana be called proud for this anger? Bhaktivinoda Thakura answers: devotees do not blame him and do not call
+Can Minaketana be called proud for this anger? Bhaktivinoda Thakura answers: devotees find no fault in him and do not call
 him proud. It was anger not for himself but for his Lord, the anger of Balarama's servant and friend — and how little
 worldly resentment there was in it the “Charitamrita” shows at once:
 
@@ -122,9 +122,11 @@ describe:
 brother. My brother had firm faith in Chaitanya Prabhu, but towards Nityananda only a semblance of faith.” (CC, Adi
 5.172–173)
 
-In the Bengali, the brother had towards Nityananda only *vishvasa-abhasa*, “a semblance of faith.” He had seen how the
-guest behaved, and he started an argument with him; according to one biography, this was after Gunarnava had left. The
-brother's name, according to the “Gaudiya-vaishnava-abhidhana,” was Shyamadasa. <!-- F22 F23 -->
+In the Bengali, the brother had towards Nityananda only *vishvasa-abhasa*, “a semblance of faith”; the “Anubhashya”
+explains: “very slight faith.” He had seen how the guest behaved, and he started an argument with him; according to one
+biography, this was after Gunarnava had left. Bhaktivinoda Thakura, introducing this chapter, writes that the brother
+took the pujari's side and did not acknowledge Nityananda's greatness. The brother's name, according to the
+“Gaudiya-vaishnava-abhidhana,” was Shyamadasa. <!-- F22 F23 F37 -->
 
 “Knowing this, Ramadasa was grieved at heart, and so I rebuked my brother: ‘The two brothers are one body, equally
 manifest. If you do not accept Nityananda, you will be utterly ruined. You have faith in one but show the other no
@@ -132,15 +134,16 @@ respect: your standard is the logic of half a hen. If you accept neither, you ar
 the other is hypocrisy.’” (CC, Adi 5.174–177)
 
 The brother's unbelief wounded Ramadasa deeply. But Kaviraja took his side and rebuked his brother before the guest had
-gone;[^8] according to one biography, he also told his brother that Nityananda is an avatara of Baladeva and that
-it is wrong to think Him lower than Chaitanya. Faith in Chaitanya without
-faith in Nityananda is not devotion but hypocrisy; and so one cannot say of the brother that he was a good devotee who
-lacked only one thing: the Two Brothers are one body.[^9] <!-- F24 F25 F27 Q3 -->
+gone;[^8] according to one biography, he also told his brother that Nityananda is an avatara of Baladeva and that it is
+wrong to think Him lower than Chaitanya. Faith in Chaitanya without faith in Nityananda is not devotion but
+hypocrisy; and so one cannot say of the brother that he was a good devotee who lacked only one thing: the Two Brothers
+are one body.[^9] <!-- F24 F25 F27 Q3 -->
 
 “In anger Ramadasa broke his flute and went away, and at that very moment my brother was ruined.” (CC, Adi 5.178)
 
-Breaking the cowherd's flute he had brought to the festival, Minaketana left a house where his Lord was not honoured. According to one biography, he simply left, displeased. The Bengali says of the brother: “at that very moment
-my brother met with utter ruin” (*sarva-nasha*). One biography explains that though the brother was devoted to Gaura,
+Breaking the cowherd's flute he had brought to the festival, Minaketana left a house where his Lord was not honoured.
+According to one biography, he simply left, displeased. The Bengali says of the brother: “at that very moment my
+brother met with utter ruin” (*sarva-nasha*). One biography explains that though the brother was devoted to Gaura,
 the offence against a devotee destroyed him and he fell; another, that he lost all his devotion. Ramadasa did not curse
 him: he only went away, and the ruin was the fruit of the offence against a Vaishnava and of unbelief in
 Nityananda.[^10] <!-- F26 F28 -->
@@ -159,8 +162,8 @@ Nityananda revealed His form to him, surrounded by His associates in the dress o
 touched me with His hand and sent me forth; and the Lord disappeared with His associates.” (CC, Adi 5.195–196)
 
 So he gained a life in Vrindavana, and, according to one biography, the service of the feet of Radha and Krishna as
-well. Another biography tells the dream thus: Nityananda with His associates encouraged him and told him to go to
-Vrindavana for his highest good. <!-- F29 -->
+well. Another biography tells the dream thus: Nityananda with His associates encouraged him and bade him go to
+Vrindavana for his supreme welfare. <!-- F29 -->
 
 The lesson is twofold. An offence against a devotee ruins even one who is faithful to Gaura; and, conversely, merely
 defending Nityananda's servant was enough to win His mercy and Vrindavana. One biography concludes that by serving
@@ -183,8 +186,8 @@ Mahidhara.” (“Bhakti-ratnakara” 10.372–374)
 
 The words that the mere sight of these Vaishnavas purifies the three worlds are said of the whole company — and so of
 Ramadasa too. With Jahnava also went Kamalakara Pippalai, Sri Shankara and many others;[^12] her way lay through
-Ambika-Kalna, Navadvipa and Shantipur. The “Prema-vilasa” (19.306–311) also names Minaketana Ramadasa among those who
-came with Jahnava from Khardaha. <!-- F30 F31 F35 Q5 -->
+Ambika-Kalna, Navadvipa and Shantipur. The “Prema-vilasa” (19.306–311) and the biographies also name Minaketana
+Ramadasa among those who came with Jahnava from Khardaha. <!-- F30 F31 F35 F36 Q5 -->
 
 On the second day of the festival in Kheturi, in the courtyard of the house where Jahnava stayed, he sat down to the
 meal with her other companions (“Narottama-vilasa” 8.48–50). And when Jahnava set out from Kheturi for Vrindavana, she
@@ -193,6 +196,12 @@ told him, Vrindavana, Kamalakara Pippalai and a few other Vaishnavas to return t
 “Sri Minaketana Ramadasa, Vrindavana, Kamalakara Piplai and some others — to all these the Ishvari gave the command to
 go to Khardaha; having taken leave, no one could be calm.” (“Narottama-vilasa” 8.152–153) <!-- F33 F34 -->
 
+The same Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to
+him as well:
+
+“O Sri Minaketana Ramadasa, full of prema, grant me joy in the qualities of Nityananda!” (“Namamrita-samudra” 42)
+<!-- F38 -->
+
 Nothing more is known of him.
 
 ## Significance
@@ -200,9 +209,9 @@ Minaketana Ramadasa is a servant of the Avadhuta Nityananda, an “abode of prem
 in the eternal pastimes “the other Sankarshana.” His rapture of love — tears that made everyone around him weep, the
 thunderous call “Nityananda!”, the blows of his flute that puzzle those who measure a Vaishnava by outward rules —
 shows what Nityananda's associates are like. His anger at disrespect to Nityananda did not make him proud: devotees do
-not blame him, and he himself at once danced and sang. Through him Krishnadasa Kaviraja received the lesson that began
-his journey to Vrindavana: the Two Brothers are one body, and to slight Nityananda's servant brings ruin, while to
-defend him brings His mercy. <!-- F2 F7 F28 F29 I1 I3 I4 -->
+not find fault with him, and he himself at once danced and sang. Through him Krishnadasa Kaviraja received the
+lesson that began his journey to Vrindavana: the Two Brothers are one body, and to slight Nityananda's servant
+brings ruin, while to defend him brings His mercy. <!-- F2 F7 F28 F29 I1 I3 I4 -->
 
 [^1]: One biography assigns this verse to Adi 5.162; probably a different numbering of the edition.
 [^2]: He should not be confused with his namesakes: Abhirama Thakura, who was also called Ramadasa, one of the twelve
@@ -210,7 +219,9 @@ defend him brings His mercy. <!-- F2 F7 F28 F29 I1 I3 I4 -->
     Ramadasa of Phulia, a disciple of Haridasa (“Prema-vilasa” 24); Ramadasa, a branch of Chaitanya's tree (CC, Adi
     10.113); and Minaketana, son of Kamai, in a genealogy of kulina brahmanas (“Prema-vilasa” 24.881).
 [^3]: One and the same biography says in one place that, judging by Kaviraja's account, he lived somewhere near
-    Jhamatpur, and in another that he too lived in Jhamatpur.
+    Jhamatpur, and in another that he too lived in Jhamatpur. The twentieth-century reference work “Gaudiya-vaishnava-
+    abhidhana” names as his shripatas Jhamatpur and Balapa-grama (Radhanagara) near Rampurhat, where Krishna and Balarama
+    are served and where his samadhi stands.
 [^4]: Some biographies understand the verse differently: as if Nishatha and Ulmuka (in one of them, “Unmukha”) entered
     an expansion of Nityananda and became two persons, Minaketana and Ramadasa. And since the “Charitamrita” and the
     “Bhakti-ratnakara” clearly speak of one person, they suppose that both brothers entered the one Minaketana
@@ -219,13 +230,15 @@ defend him brings His mercy. <!-- F2 F7 F28 F29 I1 I3 I4 -->
     “Charitamrita.”
 [^5]: One biography says elsewhere that Gunarnava was invited to the festival as a pujari; according to the
     “Charitamrita,” he served the Deity in Kaviraja's own house.
-[^6]: According to one biography and to our translation of the “Amrita-pravaha-bhashya,” it was Gunarnava himself who
-    sat in the courtyard; but the “Charitamrita” (Adi 5.163, 5.169; in verse 5.169, in the Gaudiya Math edition,
-    *vasiya*, “to the one seated”) says that Ramadasa sat in the courtyard.
+[^6]: That Ramadasa sat down in the courtyard the “Charitamrita” says plainly (Adi 5.163). In verse 5.169 (*angane
+    vasiya*, “sitting in the courtyard,” in the Gaudiya Math edition) these words can also be taken of the brahmana: so
+    the “Amrita-pravaha-bhashya” understands them (“Gunarnava Mishra, the servant of the Deity, sitting in the courtyard,
+    did not greet Nityananda's servant”), and after it one of the biographies, though elsewhere the same biography seats
+    Ramadasa in the courtyard. We follow verse 5.163.
 [^7]: One and the same biography tells this differently in two places: in one, Gunarnava made no reply to the reproach
     and went on with his service; in the other, he was even glad that Ramadasa had reproached him. That Ramadasa danced
     and sang, the biographies do not mention.
-[^8]: According to one biography, Ramadasa, on learning of the brother's unbelief, broke his flute and left, and only
+[^8]: According to one biography, Ramadasa, on learning of the brother's unbelief, broke his flute and went away, and only
     after that did Kaviraja rebuke his brother; in the “Charitamrita” (Adi 5.174–178) and in another biography the
     rebuke comes before Ramadasa leaves.
 [^9]: One biography quotes verse 5.175 with a misprint (“এক অনু” for “একতনু,” “one body”), followed, in quotation
