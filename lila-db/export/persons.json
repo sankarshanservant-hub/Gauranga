@@ -5459,6 +5459,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@rasika-raya-gangamata",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "other"
    },
@@ -6093,6 +6097,10 @@
    {
     "from": "@ramanujacharya",
     "type": "deity-served"
+   },
+   {
+    "from": "@rasika-raya-gangamata",
+    "type": "other"
    },
    {
     "from": "@rasikananda",
@@ -6946,6 +6954,78 @@
    {
     "from": "@madhava-ghosha",
     "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@rasika-raya-gangamata",
+  "ru": "Шри Расика Рай — Божество Гангаматы Госвамини",
+  "en": "Sri Rasika Raya, the Deity of Gangamata Gosvamini",
+  "note": "Кришна; прежде — в доме @chandra-sharma-jaipur в Джайпуре; по велению Джаганнатхи во сне принесён к @gangamata-gosvamini в Пури (Шветаганга); ныне Радха-Расикарай в Гангамата-матхе (B 968–971; T 218); не путать с Расикараем Чандрашекхары из Шрикханды",
+  "section": "Господь и Его формы",
+  "lilas": [],
+  "events": [],
+  "summary": "в Кришна-лиле — Шри Кришна (B 970); происхождение — Джайпур",
+  "card": "parshadas/cards/rasika-raya-gangamata.yaml",
+  "article": {
+   "ru": "parshadas/ru/rasika-raya-gangamata.md",
+   "en": "parshadas/en/rasika-raya-gangamata.md"
+  },
+  "kind": "deity",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#puri",
+    "conf": "день и год Его прихода к Гангамате (праздник явления — пракатья-махотсава, F18) источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) Его дней нет",
+    "facts": [
+     "F7",
+     "F12",
+     "F18"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Шри Кришна («Шри Кришна-виграха», «Сам Шри Хари»)",
+    "source": "B 970; T 218",
+    "level": "D"
+   }
+  ],
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@chandra-sharma-jaipur",
+    "note": "Прежде служил Ему в Джайпуре; из-за бедности (B 970) или после сева-апарадхи и бездетности (B 968, T 218) — ⚠1; по сну Джаганнатхи принёс Его в Пури и, когда Гангамата отказалась, оставил ночью в роще туласи."
+   },
+   {
+    "type": "served-by",
+    "who": "@gangamata-gosvamini",
+    "note": "Сначала отказалась (нищета и страх оскорбления — B 970; невозможность царского служения — B 968, T 218, ⚠3); по Его слову во сне приняла Его, кормила, служила по четыре прахары в день на подаяние; Он устроил припасы от купцов; по Его велению передала служение ученику и вошла в вечную лилу, созерцая Его (1721, ашвина-шукла-экадаши — B 971)."
+   },
+   {
+    "type": "served-by",
+    "who": "@banamali-dasa-gangamata",
+    "note": "Преемник служения: ему Гангамата вверила служение Расика Раю (B 971)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "Шри Джаганнатха во сне повелел брахману отвезти Расика Рая к Гангамате в Пурушоттама-кшетру."
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "По B 968 брахман принёс Его вместе со Шри Радхарани; ныне — Шри Шри Радха-Расикарай (B 968; T 218); B 970 и T о Её приходе молчат (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "В матхе Гангаматы (по T — прежний дом Сарвабхаумы) рядом с Расика Раем — Дамодара-шалаграма, которому служил Сарвабхаума."
    }
   ]
  },
@@ -20147,6 +20227,10 @@
    {
     "from": "@ramananda-raya",
     "type": "friend"
+   },
+   {
+    "from": "@rasika-raya-gangamata",
+    "type": "other"
    },
    {
     "from": "@rupa-gosvami",
@@ -46691,6 +46775,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@rasika-raya-gangamata",
+    "type": "served-by"
    }
   ]
  },
@@ -61833,6 +61921,36 @@
    {
     "from": "@jhadu-thakura",
     "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@chandra-sharma-jaipur",
+  "ru": "Чандра Шарма (брахман из Джайпура)",
+  "en": "Chandra Sharma (the brahmana of Jaipur)",
+  "note": "в его доме прежде пребывал @rasika-raya-gangamata; по сну Джаганнатхи принёс Его к @gangamata-gosvamini (B 968, 970; T 218)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasika-raya-gangamata",
+    "type": "served-by"
+   }
+  ]
+ },
+ {
+  "id": "@banamali-dasa-gangamata",
+  "ru": "Банамали Дас (преемник служения Расика Раю)",
+  "en": "Banamali Dasa (successor in the service of Rasika Raya)",
+  "note": "ему @gangamata-gosvamini вверила служение @rasika-raya-gangamata (B 971); не путать с @vanamali-acharya, @vanamali-dasa-vaidya, @banamali-lal-gosvami",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasika-raya-gangamata",
+    "type": "served-by"
    }
   ]
  }
