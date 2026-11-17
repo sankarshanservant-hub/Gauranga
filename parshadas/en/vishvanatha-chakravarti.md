@@ -6,7 +6,7 @@ Between the age of Sri Chaitanya and His associates and the modern era lies a lo
 age of the Gaudiya Vaishnavas. Its guardian and foremost teacher was Srila Vishvanatha Chakravarti Thakura. He is also
 called Sripada Vishvanatha Chakravarti and Vishvanatha Chakravarti-pada, and in Vraja-mandala he was acknowledged as a
 *sarvabhauma*, the one whose word carries the greatest weight. He lived in the seventeenth and eighteenth centuries,
-three generations of disciples after Narottama Thakura, and spent most of his life in Vraja: at Radha-kunda, in
+the fourth in the succession of disciples from Narottama Thakura, and spent most of his life in Vraja: at Radha-kunda, in
 Vrindavana and in other holy places. His commentaries on the “Srimad-Bhagavatam” and the “Bhagavad-gita,” his digests of
 Rupa Gosvami's books and his own poems and prayers are read by Gaudiya Vaishnavas to this day. <!-- F1 F5 -->
 
@@ -17,8 +17,8 @@ A Sanskrit verse explains the meaning of his name:
 the circle of devotees, he came to be called Chakravarti.”[^1]
 
 The word *chakravarti* ordinarily means “one who turns the wheel (*chakra*) of power,” that is, an emperor. The
-devotees themselves, it is said, gave him this title; but in the more devotional reading it points to one who stands
-first in the circle of Vaishnavas, as the verse says. <!-- F2 F3 Q2 -->
+devotees themselves, it is said, gave him this title; but in a reading closer to the devotees' hearts the word points
+to one who stands first in the circle of Vaishnavas, just as the verse says. <!-- F2 F3 Q2 -->
 
 He had a second name as well: Harivallabha, or Harivallabha Dasa. With it he signed his Bengali songs: in his anthology
 “Kshanada-gita-chintamani” the padas end with the words *kahe harivallabha*, “so says Harivallabha.” Some hold that he
@@ -62,8 +62,8 @@ gossiping about the young man who had married and then gone off to Vrindavana, a
 down with your wife.” Vishvanatha obeyed; but, keeping silent, he lay so as not to touch her, spent the whole night
 joyfully chanting the Holy Name, and at dawn, in his old blanket, returned to his own place. Everyone was amazed, while
 the guru rejoiced to see that his disciple was fully master of his senses, and from then on would listen to no one
-against him. This is no worldly anecdote but a twofold lesson: unconditional obedience to the guru, and a renunciation
-that has no need to run away. <!-- F14 -->
+against him. This is no worldly anecdote but a twofold lesson: unconditional obedience to the guru, and the full mastery
+of the senses that devotion gives. <!-- F14 -->
 
 ## Guru and Line of Succession
 Having finished grammar, Vishvanatha went to Saiyadabad, in the district of Murshidabad, to study the scriptures of
@@ -112,14 +112,14 @@ In Vrindavana he settled at Radha-kunda, in the *bhajana-kutir* of Krishnadasa K
 disciple Mukunda Dasa lived. Under him Vishvanatha carefully studied the books of the Gosvamis, and there too he later
 wrote many of his commentaries on them. The life adds that on coming to Vraja he first walked all over it and only then
 settled at Radha-kunda. Mukunda Dasa, Kaviraja's disciple and long-time servant, had been inconsolable after his
-master's departure until he found Vishvanatha; a book of lilas which Mukunda had not managed to finish he completed by
+master's departure until he found Vishvanatha; a book of lilas which he had not managed to finish Mukunda completed by
 Vishvanatha's hands, and soon he himself left this world at Radha-kunda. <!-- F29 -->
 
 The blessing of the guru which Vishvanatha had earned by obedience showed itself in this: he lived in various places of
 Vraja-dhama and wrote a multitude of books that became a treasure of the sampradaya. He would stay for long periods in
 many *mathas*, encouraging the Vaishnavas there, and at times he gathered everyone in one place so that they could
 exchange their thoughts; for this he founded centres in Mathura, Vrindavana, Radha-kunda, Yavata, Govardhana and other
-places. So new life was breathed into the Gaudiya Vaishnavas. That time became a glorious age of preaching, and behind
+places. So he breathed new life into the Gaudiya Vaishnavas. That time became a glorious age of preaching, and behind
 it stood the firmness of his character, his renunciation, his learning, and above all his deep insight into the
 innermost meaning of the books of Rupa, Sanatana and Jiva, and his gift for revealing that meaning.
 <!-- F30 F31 F32 F33 I1 -->
@@ -133,7 +133,7 @@ merciful. <!-- F36 -->
 Some sixty years after the departure of Narottama Thakura, currents alien to the accepted teaching arose among the
 followers of Mahaprabhu, and it was Vishvanatha who stood against them. One of the biographies names two such
 currents. The first came from Balarama, the son of Advaita Acharya, and his descendants. The biography gives no details
-and the primary sources are silent about it; but the “Charitamrita” already says that in time Advaita's followers
+and the primary sources are silent on the matter; but the “Charitamrita” already says that in time Advaita's followers
 divided: some kept His instructions, others went their own way, and these are mere chaff winnowed from the grain.[^5]
 The second current was connected with Rupa Kaviraja, who called himself a disciple of Srinivasa Acharya.[^6] In the same
 years some of Vishvanatha's Bengali writings also appeared. <!-- F22 F23 -->
