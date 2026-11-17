@@ -1,0 +1,105 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/shuklambara.md и lila-db.
+id: "@shuklambara"
+names:
+  ru: "Шукламбара Брахмачари"
+  en: "Shuklambara Brahmachari"
+  variants: ["Шри Шукламбара Брахмачари", "Шукламбара", "брахман Шукламбара (ЧБ, Мурари)", "праведный (сукрити) Шукламбара (ЧБ Мадхья 16.133)", "Шукламбара, лучший из дваждырождённых (Карнапура)", "Suklambhara / Suklambara Brahmacari (M)"]
+  facts: [F1]
+kind: associate
+circle: [navadvipa]
+period: [P07, P09, P12, P13, P15]
+period_note: "Лично — в Навадвипе после возвращения Господа из Гаи (P07: према в его доме, рис из сумы, трапеза у него, киртаны; F10–F44); после санньясы — в Шантипуре (P09; ЧЧ Мадхья 3.153; по Джаянанде — зван в Катву, F45); ходил с гаудийцами в Пури на Ратха-ятру (P12; F46–F47); Господь принял подаяние в его доме по пути из Кулии (P13, только Лочан, ⚠12); после сокрытия Господа встречал Шринивасу и Нароттаму в Навадвипе (P15; F48–F49). P01 — лишь назван в обете Адвайты (ЧБ Ади 2.118–119, F9). Пляска в Кхетури (БР 10.593, НВ 7.117) — видение Господа со спутниками, не включено."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "род, место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет"
+    facts: [F5]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "ушёл из этого мира после встреч со Шринивасой и Нароттамой и до второго пути Шринивасы во Вриндаван — по B 670 и T 206, без первоисточника (⚠11); дата, место и самадхи неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет"
+    facts: [F5, F50]
+origin:
+  places: ["#navadvipa"]
+  family: []
+  varna: "брахман (ЧБ Мадхья 26.14; Мурари 2.1.20); найштхика-брахмачари, живший подаянием"
+  facts: [F4, F5, F25]
+relations:
+  - {type: served-by, who: "@mahaprabhu", facts: [F10, F15, F21, F22, F23, F24, F25, F26, F28, F31, F33, F35, F36, F37, F45, F46, I1, I3],
+     events: [ev-shuklambara-house-prema, ev-shuklambara-mercy, ev-shuklambara-feast-vijaya-vision],
+     note: "Господь с любовью ел рис из его сумы (ЧБ Мадхья 16; ЧЧ Ади 10.38, 17.20) и рис, сваренный им «не касаясь» (ЧБ Мадхья 26); даровал ему према-бхакти (ЧБ 16.134–137; Мурари 2.3.5–8; Лочан 25.159–174); после Гаи явил прему в его доме (ЧБ Мадхья 1). «Мой нищий слуга из жизни в жизнь» (16.122)."}
+  - {type: other, who: "@advaita", facts: [F9], events: [ev-advaita-calls-lord], note: "Назван в обете Адвайты низвести Кришну (ЧБ Ади 2.118–119; B 1007)."}
+  - {type: companion, who: "@gangadasa-pandita", facts: [F9, F14], note: "Вместе в обете Адвайты (= @gangadasa-pandita F35); вместе изумлялись перемене Господа после Гаи (T 34–35)."}
+  - {type: companion, who: "@srivasa", facts: [F9, F10, F21, F43], events: [ev-chandrashekhara-drama], note: "В обете Адвайты; в доме Шривасы Господь ел его рис (ЧБ Мадхья 16; БР 12.2754–2758); в действе у Чандрашекхары Шриваса — Нарада, Шукламбара — его ученик-брахмачари (Карнапура)."}
+  - {type: host, who: "@gadadhara-pandita", facts: [F12, F13], events: [ev-shuklambara-house-prema], note: "Гададхара спрятался в его доме; Шукламбара ответил Господу: «Это Твой Гададхара» (ЧБ Мадхья 1.96; M 23). = @gadadhara-pandita F27–F28."}
+  - {type: host, who: "@shriman-pandita", facts: [F10, F11, F12], events: [ev-shuklambara-house-prema], note: "Господь велел Шриману с Садашивой прийти в дом Шукламбары (ЧБ Мадхья 1.40, 1.78)."}
+  - {type: host, who: "@sadashiva-pandita", facts: [F10, F11, F12], events: [ev-shuklambara-house-prema], note: "Позван в его дом после Гаи (ЧБ Мадхья 1.40, 1.70, 1.81; B 1035; T 57)."}
+  - {type: host, who: "@murari-gupta", facts: [F11, F12, F14], events: [ev-shuklambara-house-prema], note: "В его доме Господь увидел Мурари после Гаи (T 41; B 775; ЧБ Мадхья 1.70, 1.81). = @murari-gupta F32."}
+  - {type: host, who: "@nityananda", facts: [F37], events: [ev-shuklambara-feast-vijaya-vision], note: "Пришёл с Господом на трапезу в его дом (ЧБ Мадхья 26.20)."}
+  - {type: host, who: "@vijaya-dasa", facts: [F41], events: [ev-shuklambara-feast-vijaya-vision], note: "В доме Шукламбары писец Виджая увидел золотую руку Господа (ЧБ Мадхья 26.36–45; БР 12.3470–3471)."}
+  - {type: other, who: "@lakshmi", facts: [F36], note: "Бросила милостивый взгляд на рис, что он варил (ЧБ Мадхья 26.18)."}
+  - {type: other, who: "@gopinatha-acharya", facts: [F47], events: [ev-prataparudra-watches-devotees-roof], note: "Показал его царю Пратапарудре среди гаудийцев (ЧЧ Мадхья 11.90; M 153)."}
+  - {type: other, who: "@prataparudra", facts: [F47], events: [ev-prataparudra-watches-devotees-roof]}
+  - {type: met, who: "@srinivasa-acharya", facts: [F48, F50], events: [ev-srinivasa-second-vrindavana], note: "Благословил Шринивасу в Навадвипе (БР 4.57–58; T 205; M 190); после его ухода Шриниваса снова пошёл во Вриндаван (B 670; T 206). = @srinivasa-acharya F91."}
+  - {type: met, who: "@narottama-dasa", facts: [F49], events: [ev-narottama-gauda-pilgrimage], note: "Встретил и обнял Нароттаму в Навадвипе, расспрашивал о Госвами (НВ 3.121–128; M 107 — в доме Джаганнатхи Мишры, ⚠9; B 1099). = @jiva-gosvami F165; @ishana-navadvipa F28."}
+  - {type: companion, who: "@gadadhara-dasa", facts: [F48, F49, F50], note: "Вместе — среди престарелых спутников в Навадвипе (B 1099; БР 4.57–58); ушли из мира в одно время (B 670; T 206)."}
+  - {type: companion, who: "@narahari-sarakara", facts: [F50], note: "Ушли из мира в одно время (B 670; T 206)."}
+  - {type: other, who: "@vrindavana-dasa", facts: [F32], note: "Автор рассказа о рисе Шукламбары; плод слушания (ЧБ Мадхья 16.151)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F25, F31, F39], note: "«Гаудия-бхашья» к ЧБ Мадхья 16.122–123 (речь Господа о нём как триданди-бхикшу), к 26.24 (чистота подаяния), к Ади 1.134."}
+  - {type: other, who: "@pundarika-vidyanidhi", facts: [], note: "Не путать: «Шукламбара» — по одному мнению, имя отца Пундарики (B 748; «Гаудия-бхашья» к ЧБ Ади 2.36–37) — другое лицо."}
+identities:
+  - in: krishna-lila
+    as: "одна из жён брахманов-жрецов (яджня-патни)"
+    source: "ГГД 191"
+    level: A
+    facts: [F2]
+    variants: ["ГГД 191: «некоторые говорят — прежде был брахманом-жрецом (яджника-брахманом)» — второе мнение там же (B 1007; T 56); не сливать (⚠Б3)."]
+  - in: krishna-lila
+    as: "Судама (брахман, чей дроблёный рис Кришна выхватил в Двараке)"
+    source: "ЧБ Мадхья 16.124 (слова Господа); БР 12.2755 («называя его Судамой»)"
+    level: A
+    facts: [F26]
+    variants: ["В книгах B — нет; T 56–57 — по БР («calling him Sudama»). Иное соотнесение, чем ГГД 191; давать оба без выбора."]
+events:
+  - ev-advaita-calls-lord
+  - ev-return-from-gaya-teaching
+  - ev-shuklambara-house-prema
+  - ev-shuklambara-mercy
+  - ev-jala-keli-navadvipa
+  - ev-chandrashekhara-drama
+  - ev-shuklambara-feast-vijaya-vision
+  - ev-sannyasa-katwa
+  - ev-shantipura-reunion
+  - ev-gauda-devotees-set-out-puri
+  - ev-prataparudra-watches-devotees-roof
+  - ev-kuliya-shachi-meeting
+  - ev-srinivasa-second-vrindavana
+  - ev-narottama-gauda-pilgrimage
+events_note: "ev-shuklambara-mercy в lila-db объединяет рис из сумы (ЧБ Мадхья 16) и прему по молитве о Матхуре (Мурари 2.3, Лочан 25, Карнапура 6) — у авторов разные сцены (⚠13); ev-sannyasa-katwa — лишь по Джаянанде (зван идти в Катву, ур. D); ev-kuliya-shachi-meeting — подаяние в его доме только у Лочана (Шеша 51.52, ⚠12). Не включены: ev-kheturi-festival (видение Господа со спутниками, БР 10.593, НВ 7.117)."
+teachings_given: []
+teachings_received:
+  - {what: "«Без любви к Кришне паломничество не приносит плода» (Мурари 2.3.6–7; Лочан 25.165–168)", facts: [F33]}
+works: []
+places: ["#navadvipa", "#house-shuklambara", "#ganga", "#house-srivasa", "#house-chandrashekhara", "#shantipura", "#puri", "#mathura", "#dvaraka"]
+places_facts: [F4, F10, F21, F33, F35, F43, F45, F46, F49]
+character:
+  - {trait: "довольство в бедности: всё собранное подаянием подносил Кришне, жил остатками и не чувствовал нужды", facts: [F5, F6, F25], events: [ev-shuklambara-mercy]}
+  - {trait: "смирение и страх оскорбить Господа: «Ты погубил меня!», «Ты хочешь провести меня»", facts: [F24, F35]}
+  - {trait: "жажда премы: обошёл Матхуру и Двараку и просил у Господа любви", facts: [F33]}
+  - {trait: "служение в экстазе Господа: отирал Его лицо, плакал и танцевал с сумой на плече", facts: [F15, F21, F34]}
+  - {trait: "любовь к спутникам после сокрытия Господа: обнимал и расспрашивал Шринивасу и Нароттаму", facts: [F48, F49]}
+significance: {facts: [F25, F28, F30, F31, F32, I1, I2, I3, I4, I5]}
+sources:
+  T: "56–57 (гл.); 34–35, 41, 45, 205–206"
+  M: "глав нет; 23, 25, 85–86, 107, 153, 190"
+  B: "1007–1010 (гл.); 670, 748 (тёзка), 775, 806, 832, 848, 1035, 1099"
+  other: ["ГГД 191", "ЧЧ Ади 10.38, 17.20; Мадхья 3.153, 11.90; Антья 10.9–11", "ЧБ Ади 1.134, 2.118–119; Мадхья 1.40–96, 8.106–116, 13.336–339, 16.108–152, 23.152, 23.452, 26.1–45; Антья 8.23", "«Гаудия-бхашья» к ЧБ Мадхья 16.122–123, 26.24, Ади 1.134", "Мурари 2.1.19–21, 2.3.5–8, 2.4.1–2, 2.11.25, 4.17.8", "Лочан: Сутра 2.99; Мадхья 24.35–37, 25.159–174, 30.76, 32.77, 32.117; Шеша 51.52", "Карнапура, махакавья 6.8–11, 6.23, 11.8; «Чайтанья-чандродая» 1.25, 1.65–66, акт 3", "БР 1.23, 2.261, 4.57–58, 10.593, 12.1853, 12.2314–2319, 12.2754–2758, 12.3467–3472", "«Нароттама-виласа» 2.122, 3.121–128, 4.130, 7.117, 11.280", "Джаянанда, Вайрагья-кханда 24; § 74", "«Вайшнава-вандана» (Девакинандана 32)", "пада Нарахари «জয় জয় আরতি গৌরকিশোর»"]
+article: {ru: "parshadas/ru/shuklambara.md", en: "parshadas/en/shuklambara.md"}
+open_questions:
+  - "Отождествление в лиле Кришны: яджня-патни или брахман-жрец (оба — ГГД 191); Судама — по ЧБ Мадхья 16.124."
+  - "Время и обстоятельства ухода: только B 670 и T 206, без первоисточника (⚠11)."
+  - "Встреча с Нароттамой: в доме Джаганнатхи Мишры (M 107) или на дороге к нему (НВ 3.121) (⚠9)."
+  - "Род, родители, годы жизни неизвестны; в календаре ШЧСМ его дней нет."
