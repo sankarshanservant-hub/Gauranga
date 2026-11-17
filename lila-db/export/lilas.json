@@ -270933,6 +270933,57 @@
   "attestation": 1
  },
  {
+  "id": "dvk-0002",
+  "source": "divakara-jcm",
+  "ref": "Гл. 1, 35–59",
+  "file": "divakara-jagannatha-charitamrita/ru/01.md",
+  "period": "PX",
+  "order": 2,
+  "title": "Признаки преданных; гуру-пранали Дивакара; верность своему преемству и своей дхарме",
+  "summary": "Дивакар перечисляет «признаки» разных разрядов существ и учит, что без женского тела не познать бхавы исступления; приводит свою гуру-пранали — от себя через Ванамали, Джаганнатху Даса, Балараму Даса, Хридаянанду и Гауридаса Пандита к Шри Чайтанье и далее к Нараяне; велит почитать всех вайшнавов, но не оставлять своего поклонения и своей дхармы (стихи «Вишну-пураны» и «Гиты»).",
+  "persons": [
+   "@divakara-dasa",
+   "@jagannatha-dasa-odia",
+   "@gauridasa-pandita",
+   "@hridaya-chaitanya",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧБ Ади 17, ЧЧ Ади 9 (посвящение Господа от Ишвары Пури — иное преемство)",
+  "notes": "Пранали через Гауридаса — Хридаянанду — Балараму Даса гаудия-вайшнавами не признаётся; «женское тело» для сакхи-бхавы — против ЧЧ Мадхья 22.156–157 (сиддха-деха); сноски перевода.",
+  "themes": [
+   "author",
+   "teaching"
+  ],
+  "teaching": [
+   "vaishnava",
+   "scripture"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.35",
+    "to": "1.59"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.35",
+    "to": "1.59",
+    "line": 55,
+    "line_to": 85,
+    "count": 25,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/01.md?plain=1#L55-L85",
+    "file_en": "divakara-jagannatha-charitamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/01.md?plain=1#L55-L85"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkr-0080",
   "source": "govinda-karcha",
   "ref": "Часть 8, 1771–1774",
@@ -271296,6 +271347,59 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/01.md?plain=1#L41-L64",
     "file_en": "vaishnava-lilamrita/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/01.md?plain=1#L41-L64"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0003",
+  "source": "divakara-jcm",
+  "ref": "Гл. 1, 60–71",
+  "file": "divakara-jagannatha-charitamrita/ru/01.md",
+  "period": "PX",
+  "order": 3,
+  "title": "Атибади-предание: Шри Чайтанья — из смеха Кришны, Джаганнатха Дас — из смеха Радхи",
+  "summary": "На Вайкунтхе Радха и Кришна восседают на одном сиденье в единой бхаве; глядя на лицо Радхи, Кришна смеётся — из этого смеха является Чайтанья; Радха смеётся, глядя на Кришну, — из Её смеха рождается Ати Бада Джаганнатха; вечный Господь говорит: «Мы оба явимся в мире смертных», и велит Чайтанье с двенадцатью сакхи явиться в Надии и вести киртан имени Хари.",
+  "persons": [
+   "@divakara-dasa",
+   "@jagannatha-dasa-odia",
+   "@mahaprabhu",
+   "@krishna",
+   "@radha"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ВЛ 5.116–5.117 (тот же рассказ в устах Джаганнатхи Даса)",
+  "notes": "Сектантское предание Атибади; по ЧЧ Ади 1.5 и Ади 4 Шри Чайтанья — Сам Кришна в бхаве и сиянии Радхи; Вайкунтха вместо Голоки (ЧЧ Ади 5) — сноски перевода.",
+  "themes": [
+   "author",
+   "celestial"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.60",
+    "to": "1.71"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.60",
+    "to": "1.71",
+    "line": 89,
+    "line_to": 100,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/01.md?plain=1#L89-L100",
+    "file_en": "divakara-jagannatha-charitamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/01.md?plain=1#L89-L100"
    }
   ],
   "attestation": 1
