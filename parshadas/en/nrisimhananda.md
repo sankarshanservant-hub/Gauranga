@@ -18,7 +18,8 @@ Pradyumna Brahmachari; Kavi Karnapura in his drama “Chaitanya-chandrodaya” c
 Nrisimhananda-brahmachari, formerly known as Pradyumna-brahmachari,” says that the Lord Himself gave him the new name for
 his worship of Nrisimha, and explains the name in two ways: “the joy of Nrisimha” and “he who rejoices in Nrisimha”
 (act 9). Srila Bhaktisiddhanta Sarasvati writes in the “Anubhashya”: “Pradyumna, or Nrisimha Brahmachari.” Nrisimha was
-his chosen Deity (*ishta-deva*); the “Charitamrita” says so plainly — “his worshipful Deity, Nrisimha” (Antya 2.61).
+his chosen Deity (*ishta-deva*); the “Charitamrita” says so plainly: he set out the third offering “for his worshipful
+Deity, Nrisimha” (Antya 2.61).
 <!-- F1 F2 -->
 
 Of his worldly life the sources say almost nothing: neither his birthplace, nor his parents, nor the year and day of his
@@ -70,7 +71,7 @@ the road stood rows of flowering *bakula* trees, and here and there on either si
 were set with jewels, and lotuses bloomed in them; many birds chattered, and the water was like nectar. A cool breeze
 blew, bearing many fragrances. Thus he paved the road as far as Kanai's Natashala.” (CC, Madhya 1.155–159) <!-- F13 -->
 
-Kanai-natashala is a village on the Ganges near Gauda; according to one of the biographies, it lies some two hundred
+Kanai-natashala is a village near Gauda; according to one of the biographies, it lies some two hundred
 miles north of Calcutta, five miles from Rajmahal, in what is now the Santal Parganas district. Beyond that place the
 road would not go:
 
@@ -95,9 +96,10 @@ and flowers and the ground strewn with blossoms (13.37). Lochana Dasa, too, sing
 “Chaitanya-mangala,” but tells of it in his own way.[^5] <!-- F16 -->
 
 This is no daydream and no play of fancy. Service in the mind (*manasi-seva*) is as real as service with physical
-articles, and even higher; one of the biographies recalls that Rupa Gosvami in the “Bhakti-rasamrita-sindhu” gives the
-example of a brahmana of Pratishthanapura who by service in the mind attained the company of Narayana in
-Vaikuntha.[^6] And that Nrisimhananda's meditation could go no further than Kanai-natashala was a revelation of the
+articles, and even higher. Rupa Gosvami in the “Bhakti-rasamrita-sindhu” speaks of such service: “Some, joyfully
+serving Hari with offerings made in the mind, attained Him face to face — Him whom speech and mind cannot reach”
+(1.2.182). One of the biographies recalls here the story of a brahmana of Pratishthanapura who by service in the mind
+attained the company of Narayana in Vaikuntha.[^6] And that Nrisimhananda's meditation could go no further than Kanai-natashala was a revelation of the
 Lord's will: serving in his mind, the devotee learned where the Lord would go — and the prediction came true.
 <!-- I1 Q14 F14 -->
 
@@ -134,7 +136,7 @@ Literally the verse speaks of Pradyumna Mishra, the Orissan devotee of Puri. But
 which calls Nrisimhananda “an avesha of Gaura.”[^7] <!-- F8 Q6 -->
 
 Neither avesha nor avirbhava means possession. The Lord does not seize a devotee with an alien power: He who is drawn by
-love comes Himself to one who loves Him. “The Lord is always drawn by prema, for such is His nature” (CC, Antya 2.34) —
+love comes Himself to one who loves Him. “He is drawn by prema: that is the Lord's innate nature” (CC, Antya 2.34) —
 and therefore, Kaviraja continues, Sri Chaitanya constantly manifested Himself in four places: in mother Shachi's
 household shrine, where Nityananda dances, at Shrivasa's kirtana and in the house of Raghava Pandita (Antya 2.34–35,
 79–80). So the Lord delivers even those who cannot come to Him themselves. <!-- F11 I4 -->
@@ -154,8 +156,9 @@ Antya-lila. <!-- F18 F31 -->
 
 Then Nrisimhananda came to them. Seeing their sorrow, he asked its cause, and Shivananda replied: the Lord promised to
 come — why has He not come? “Hearing this, the brahmachari said, ‘Be content. I shall bring Him on the third day’” (CC,
-Antya 2.51).[^8] Both knew his power and his love for the Lord, and believed him without a moment's doubt (Antya 2.52).
-<!-- F19 F20 -->
+Antya 2.51).[^8] Both knew his power and his love for the Lord, and believed him without a moment's doubt (Antya 2.52). In Karnapura the story begins differently: Shivananda himself turns to him — “Teacher! The Lord said, ‘I
+shall come,’ and He has not come” — and he replies, “I myself shall bring Him; wait two days” (act 9).
+<!-- F19 F20 F35 -->
 
 For two days he remained in meditation, and then he said to Shivananda:
 
@@ -241,9 +244,9 @@ of Nrisimhananda bears witness that the Lord still comes to those who serve Him 
     Piyariganj (in the district of Ambua, or Ambika, near Kalna); perhaps the two brahmacharis have been confused here.
 [^2]: The “Anubhashya” and one of the biographies place this line in the ninth chapter of the Antya-khanda of the
     “Chaitanya-bhagavata”; in our edition it is Antya 8.12 — evidently the chapters are divided differently in different
-    editions. Another biography gives the numbers of both passages as though they came from the “Charitamrita.” Some of
-    the biographies' references to the “Charitamrita” are also inexact: verses Antya 2.53 and 2.76 are assigned there to
-    the Adi-lila.
+    editions. Another biography cites the first passage (Antya 3.186–187) as verses of the “Charitamrita,” and the second
+    with a different number (Antya 8.92). Some references to the “Charitamrita” in the first of them are also inexact:
+    verses Antya 2.53 and 2.76 are assigned there to the Adi-lila.
 [^3]: The authenticity of Govinda Dasa's “Karcha” is disputed.
 [^4]: According to one of the biographies, the meditation broke off when the Lord reached Kanai-natashala, and only then
     did Nrisimhananda understand that He would go no further. According to the “Charitamrita,” he told the devotees so
@@ -257,14 +260,17 @@ of Nrisimhananda bears witness that the Lord still comes to those who serve Him 
     him with one of his sannyasi namesakes (Nrisimha Puri, Narasimha Tirtha). In Murari Gupta the road runs “from the
     Kshetra” (usually the name of Puri, though the Lord is already in Bengal at this time). We follow the
     “Charitamrita.”
-[^6]: The verse number (1.2.182) we give after one of the biographies; we have not been able to verify it.
+[^6]: The verse number (Purva-vibhaga 2.182) is correct; the translation of the verse is ours. The story of the brahmana
+    of Pratishthanapura itself (after the “Brahma-vaivarta Purana”: he cooked sweet rice for the Lord in his mind, burnt
+    his fingers, and the Lord of Vaikuntha took him to Himself) is told not in Rupa Gosvami's verse but in Srila
+    Vishvanatha Chakravarti's commentary on it.
 [^7]: The “Charitamrita” itself assigns the kinds of mercy the other way round: entering (avesha) in Nakula, appearing
     (avirbhava) before Nrisimhananda (Adi 10.57–59; Antya 2.4–6). Srila Bhaktisiddhanta in the “Anubhashya” on Adi 10.35
     cites the verse GGD 74 under Pradyumna Brahmachari, and on Adi 10.57 speaks of Mahaprabhu's entering into
-    Nrisimhananda; elsewhere (on Adi 10.56), following the “Gaura-ganoddesha,” he names appearance and entering in
-    Nakula Brahmachari and Pradyumna Mishra. In the narrative we follow the words of the “Charitamrita.”
-[^8]: The biographies say “within three days” and that Pausha had “almost ended”; according to the “Charitamrita” — “on
-    the third day,” when the month had already passed (Antya 2.47, 2.51).
+    Nrisimhananda; on Adi 10.56 he names entering “in Nakula or Pradyumna Brahmachari,” and then, following the
+    “Gaura-ganoddesha,” appearance and entering in Nakula Brahmachari and Pradyumna Mishra. In the narrative we follow the words of the “Charitamrita.”
+[^8]: One of the biographies says “within three days,” and both say that Pausha had “almost ended”; according to the
+    “Charitamrita” — “on the third day,” when the month had already passed (Antya 2.47, 2.51).
 [^9]: That Shivananda's house was in Kumarahatta is stated by the “Anubhashya” on Adi 10.35 (the Lord came there from
     Raghava's house in Panihati) and by the biographies. In the “Chaitanya-chandrodaya” Nrisimhananda says, “The Lord
     has been brought to Raghava's house,” and the events themselves are placed in the year when Ramananda Raya
