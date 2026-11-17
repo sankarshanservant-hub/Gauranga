@@ -8,8 +8,7 @@ published by the Gaudiya Math, Krishnadasa Kaviraja calls him Bijali Khan; the b
 Pathan Bijli Khan,” “the prince Bijli Khan,” “the leader of the Pathans,” and, in the title of the chapter devoted to
 him, “the Pathan Vaishnava”[^1]. <!-- F1 -->
 
-By birth he was a Pathan, a Muslim; and that he became a renowned Vaishnava speaks not of any lowliness of his birth but
-of the mercy of Mahaprabhu, which does not look at birth. Kaviraja Gosvami writes of him:
+By birth he was a Pathan, a Muslim, and he became a renowned Vaishnava: Mahaprabhu's mercy does not look at birth. Kaviraja Gosvami writes of him:
 
 “He was young, the son of a king, and Ramadasa and the other Pathans were his servants.” (CC, Madhya 18.208)
 
@@ -53,7 +52,7 @@ Kaviraja Gosvami does not name the leader of this troop. Srila Bhaktisiddhanta S
 plainly: “Who Bijali Khan, the leader of the troop of Pathans, was” (heading to CC, Madhya 18.208); so too Srila
 Bhaktivinoda Thakura and the biographies understand it: Bijli Khan rode at the head of ten Pathan horsemen[^4]. According
 to Bhaktivinoda Thakura and the biographies, it was Bijli Khan himself who suspected that the four companions had
-drugged the Lord, killed Him and were robbing Him. The four were Krishnadasa the Rajput, the Sanodiya brahmana,
+drugged the monk, killed him and were carrying off his wealth. The four were Krishnadasa the Rajput, the Sanodiya brahmana,
 Balabhadra Bhattacharya and his brahmana companion. <!-- F6 F9 -->
 
 “Then the Pathans bound the four men and wanted to cut them down. The Bengalis all began to tremble. Krsnadasa was a
@@ -201,8 +200,8 @@ Pathan Vaishnavas’”; one biography says the same. Where this village is, is 
 “Such are the pastimes of the Lord Sri Krsna Caitanya. Coming to the West, He blessed the yavanas and others.” (CC,
 Madhya 18.213)
 
-Srila Bhaktisiddhanta explains: coming to the United Provinces, the Lord delivers the mlecchas — as the old books call
-peoples who do not follow the Vedas. Then the Lord bathed in the Ganga at Soro-kshetra and went along her bank to
+Srila Bhaktisiddhanta explains: coming to the United Provinces, the Lord delivers the mlecchas — the name for peoples who
+do not follow the Vedas. Then the Lord bathed in the Ganga at Soro-kshetra and went along her bank to
 Prayaga; Krishnadasa the Rajput and the Sanodiya brahmana begged Him to take them along as far as Prayaga: in a land of
 Muslims trouble might arise, and Balabhadra Bhattacharya did not know their language. Of Bijli Khan and his Pathans the
 sources say no more. <!-- F28 -->
