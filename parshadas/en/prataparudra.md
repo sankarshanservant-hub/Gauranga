@@ -19,8 +19,8 @@ Yet it is not his royal glory that draws the hearts of Vaishnavas to him. The Va
 very dear to Mahaprabhu, to Ramananda Raya, to Kashi Mishra and to Sarvabhauma Bhattacharya, and almost every biography
 calls him a vessel of Gauranga's boundless mercy. The Lord, a sannyasi, long refused to see him — and yet granted him such
 mercy that Gaurasundara came to be called “the Saviour of Prataparudra.” This path, from refusal to embrace, is the story
-told here. The sources give neither the year nor the day of his appearance or departure, and these days are not in the
-Vaishnava calendar of the Sri Chaitanya Saraswat Math either. <!-- F24 F25 F84 -->
+told here. The sources give neither the year nor the day of his appearance; the day of his departure is not given either, and its
+year only tentatively; these days are not in the Vaishnava calendar of the Sri Chaitanya Saraswat Math either. <!-- F24 F25 F84 -->
 
 ## The Gajapati Line
 The Orissan temple chronicle “Madala-panji” tells how his dynasty began. The last king of the Ganga dynasty,
@@ -47,7 +47,7 @@ Purushottama-deva had surrendered himself wholly to Jagannatha, and Jagannatha H
 battlefield to help him. By his strength he regained lost lands and pushed the borders of the kingdom to Rajamahendri.
 <!-- F14 F15 -->
 
-A tradition still remembered in Orissa is bound up with his marriage. Purushottama was betrothed to Padmavati, the
+A well-known tradition is bound up with his marriage. Purushottama was betrothed to Padmavati, the
 daughter of the king of Kanchi. The king of Kanchi came to Puri to look at the bridegroom — and at the Ratha-yatra saw
 him, as the custom was, sweeping the road before Jagannatha's chariot with a golden broom. He himself worshipped Ganesha
 and had no such faith in Jagannatha; service to the Lord looked to him like the work of a sweeper, a lowly chandala, and
@@ -228,8 +228,8 @@ Sarvabhauma found himself between two fires — the Lord's will and the king's a
 ## The Intercessors
 The first to plead for the king was Ramananda Raya. Prataparudra released him from service with full salary and came
 with him from Cuttack to Puri. Ramananda went first of all to the Lord and, telling of the king's Vaishnava qualities and
-his love for the Lord, softened His heart. The king had told him that no one is more fortunate than one who worships Sri
-Chaitanya's feet, and the Lord answered that serving such a mahabhagavata as Ramananda would bring the king good:
+his love for the Lord, softened His heart. The king, for his part, had told Ramananda that no one is more fortunate than one who worships
+Sri Chaitanya's feet; and the Lord said that serving such a mahabhagavata as Ramananda would bring the king good:
 
 “The king has come to love you so much, and for this quality Krishna will accept him as His own. ‘O Partha, those who are
 devoted only to Me are not truly My devotees; but those who are devoted to My devotees I consider the best of My
@@ -414,8 +414,8 @@ Ever since, one of Gaurasundara's names has been *Prataparudra-santrata*, “the
 After taking leave of the Lord, the king sent an edict to his governors: in every village on the Lord's route five or seven
 new houses were to be built and stocked with all that was needed, and they themselves were to serve Him day and night. He
 entrusted its execution to his ministers Harichandana and Mangaraja; at the river he ordered a new boat kept ready and a
-memorial pillar set up where the Lord would cross, so that the place would become a tirtha and so that he himself might
-leave his body there (CC, Madhya 16.110–115). Ramananda, Mangaraja and Harichandana escorted the Lord across the river
+memorial pillar set up where the Lord would cross, so that the place would become a tirtha; there, at that crossing, he wished one day to
+leave his own body (CC, Madhya 16.110–115). Ramananda, Mangaraja and Harichandana escorted the Lord across the river
 Chitrotpala. <!-- F68 -->
 
 ## That the Lord Might Stay
@@ -493,7 +493,8 @@ Chaitanya, and so even this supreme festival gave him no joy. Karnapura extols h
 *shanta-rasa*. Thus the king became both the commissioner and the patron of the drama that has preserved for us many of the
 Lord's pastimes.[^20] <!-- F83 -->
 
-When and where Prataparudra left this world the sources do not say; the biographies carry his reign down to 1540. The days
+Where Prataparudra left this world the sources do not say, and the primary sources do not give the year; one of the
+biographies places his departure in 1540, the year in which his reign ends. The days
 of his appearance and departure are not in the calendar of the Sri Chaitanya Saraswat Math either. <!-- F84 F21 -->
 
 ## Significance
@@ -504,8 +505,8 @@ inwardly He was won by the king's pure devotion and bestowed on him causeless me
 His cloth and the sight of secret pastimes, and then by His embrace. <!-- F11 F25 I1 I3 -->
 
 The key to this mercy was humility. Birth, learning and wealth breed pride, but the king, who had all three, took up a
-sweeper's broom, massaged his guru's feet, called himself a servant of the Lord's servants and counted even a slap from a
-Vaishnava as good fortune. He came to the Lord through devotees — through Sarvabhauma, Ramananda, Nityananda — for mercy
+sweeper's broom, massaged his guru's feet, called himself a servant of the Lord's servants and counted as good fortune even the slap
+a Vaishnava gave his minister. He came to the Lord through devotees — through Sarvabhauma, Ramananda, Nityananda — for mercy
 comes through a devotee. His kingship became service: the broom before the chariot, a living fence around the kirtana, the
 edict for the Lord's journey, the remission of a debt for the Lord's sake — “my life and my kingdom” he was ready to offer
 at His feet. <!-- F65 I2 I7 I6 -->
@@ -518,7 +519,7 @@ love, mercy and instruction to the world are so inseparable — and why Gaurasun
 [^1]: According to the “Bhakti-ratnakara” (3.214), while the Lord was still present the king handed the kingdom to his son
     with auspicious rites and spent his days with Sarvabhauma and Ramananda; according to historical records, he ruled even
     after the Lord's disappearance (1533), until about 1540. One of the biographies writes that he remained on the throne
-    until he left this world in 1540; but the sources do not expressly give even this as the year of his departure. More on
+    until he left this world in 1540; the primary sources do not give the year of his departure. More on
     this under “After the Lord's Disappearance.”
 [^2]: One of the biographies also calls her Rupambika.
 [^3]: In the “Charitamrita” (Adi 10.134–136) Prataparudra is a branch of the tree of Sri Chaitanya Himself, and he is not
