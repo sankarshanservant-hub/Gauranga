@@ -32,7 +32,7 @@ origin:
 relations:
   - {type: father, who: "@govardhana-majumdar", facts: [F7, F11, F85, F91, F92, F94, F99, F104], events: [ev-raghunatha-dasa-saptagrama-arrest, ev-raghunatha-dasa-escape]}
   - {type: uncle, who: "@hiranya-majumdar", facts: [F8, F10, F11, F85, F93], event: ev-raghunatha-dasa-saptagrama-arrest}
-  - {type: relative, who: "@kalidasa", facts: [F86, F87], note: "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхеде (T 80–81)."}
+  - {type: relative, who: "@kalidasa", facts: [F86, F87], note: "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхедо (T 80–81)."}
   - {type: guru, who: "@yadunandana-acharya", facts: [F2, F13, F39, F86, F98], note: "Дикша-гуру; жрец семьи, ученик Адвайты, облагодетельствованный Васудевой Даттой; его поручение стало поводом к побегу."}
   - {type: siksha-guru, who: "@svarupa-damodara", facts: [F2, F15, F39, F102, F103, F108, F110, F122], events: [ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-svarupa-teaches-raghunatha-piriti, ev-raghunatha-rotten-rice], note: "«Сварупов Рагху»: Господь вручил его Сварупе как сына и слугу и велел учиться у него; хранитель его кадчи."}
   - {type: companion, who: "@mahaprabhu", facts: [F15, F28, F39, F73, F90, F92, F100, F101, F102, F104, F105, F106, F108, F109], events: [ev-raghunatha-dasa-shantipura, ev-panihati-chida-dadhi, ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-raghunatha-stops-invitations, ev-govardhana-shila-gunja-gift, ev-raghunatha-rotten-rice], note: "Шантипур; Пури — 16 лет (ЧЧ Ади 10.93; 8 — поздние списки B); дар камня Говардханы и гирлянды гунджи."}
