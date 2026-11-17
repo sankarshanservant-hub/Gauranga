@@ -270442,6 +270442,54 @@
   "attestation": 1
  },
  {
+  "id": "dvk-0001",
+  "source": "divakara-jcm",
+  "ref": "Гл. 1, 1–34",
+  "file": "divakara-jagannatha-charitamrita/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Мангалачарана Дивакара; Атибада Госай и шестнадцать учеников — «частицы Радхи и сакхи»",
+  "summary": "Брахман Дивакара кланяется своему гуру, вайшнавам и богам, затем — Ати Бада Госаю (Джаганнатхе Дасу) и его шестнадцати ученикам, перечисляя их имена; учит, что Джаганнатха Дас рождён из частицы Радхи, а ученики — частицы шестнадцати сакхи, пришедшие в мир ради лилы.",
+  "persons": [
+   "@divakara-dasa",
+   "@jagannatha-dasa-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ВЛ 5.119 (титул «Атибада»)",
+  "notes": "Учение линии Атибади; гаудия-вайшнавы его не принимают (ЧЧ Ади 1.5, Ади 4; «ативади» — в перечне апасампрадай у Бхактисиддханты Сарасвати) — сноски перевода.",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.1",
+    "to": "1.34"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/01.md",
+    "from": "1.1",
+    "to": "1.34",
+    "line": 11,
+    "line_to": 50,
+    "count": 34,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/01.md?plain=1#L11-L50",
+    "file_en": "divakara-jagannatha-charitamrita/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/01.md?plain=1#L11-L50"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkr-0009",
   "source": "govinda-karcha",
   "ref": "Часть 1, 173",

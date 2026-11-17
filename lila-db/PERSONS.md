@@ -789,6 +789,7 @@
 | @kapilendra | Капилешвара-дева (Капилендра) | Kapileshvara-deva (Kapilendra) | царь Ориссы (≈1435–1467), отец @purushottama-deva |
 | @saluva-narasimha | Салува Нарасимха | Saluva Narasimha | правитель Виджаянагара (Канчи); противник @purushottama-deva в предании о походе на Канчи |
 | @divakara-kavichandra | Дивакара (Кавичандра Рай) | Divakara (Kavichandra Raya) | брахман-учёный при Пурушоттама-деве, сложил «Абхинава Гита-говинду» с подписью царя («Вайшнава-лиламрита» 3.4–40); не путать с @kavichandra (спутником Господа, ГГД 171) |
+| @divakara-dasa | Дивакар Дас (Дивакара Мишра) | Divakara Dasa (Divakara Mishra) | орийский поэт XVII в. линии Атибади, пятый в преемстве от @jagannatha-dasa-odia; автор «Джаганнатха-чаритамриты»; не путать с @divakara-kavichandra |
 | @gopinatha-remuna | Гопинатха Кширачора (Божество в Ремуне) | Kshirachora Gopinatha (Deity of Remuna) | «Вор кширы»; у Мадхавы — также «Гопала» (3.50–75); не путать с @gopala-remuna |
 | @ismail-gazi | Исмаил Гази | Ismail Gazi | полководец бенгальского султана Хусейн-шаха; набег на Ориссу и Пури (≈1509–1510; «Вайшнава-лиламрита» 4.9) |
 | @krishnadeva-raya | Кришнадева Рая (Кришнарай) | Krishnadeva Raya | правитель Виджаянагара (1509–1529); противник Пратапарудры на юге («Вайшнава-лиламрита» 4.8) |

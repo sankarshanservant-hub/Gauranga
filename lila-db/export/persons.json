@@ -47765,6 +47765,7 @@
    "vlm-0161",
    "vlm-0162",
    "vlm-0163",
+   "dvk-0001",
    "vlm-0104"
   ],
   "events": [
@@ -56163,6 +56164,17 @@
   "events": [
    "ev-two-gita-govindas-test"
   ]
+ },
+ {
+  "id": "@divakara-dasa",
+  "ru": "Дивакар Дас (Дивакара Мишра)",
+  "en": "Divakara Dasa (Divakara Mishra)",
+  "note": "орийский поэт XVII в. линии Атибади, пятый в преемстве от @jagannatha-dasa-odia; автор «Джаганнатха-чаритамриты»; не путать с @divakara-kavichandra",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "dvk-0001"
+  ],
+  "events": []
  },
  {
   "id": "@gopinatha-remuna",
