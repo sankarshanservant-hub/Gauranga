@@ -41,7 +41,7 @@ writes Srila Bhaktisiddhanta in the “Anubhashya.” In the same Kumarahatta li
 Vasudeva Datta, and the biographies, listing its residents, name among them “the lame Bhagavan Acharya.” According to
 one biography, he appeared in Navadvipa and moved to Halisahar later.[^3] <!-- F7 F8 -->
 
-His family was prominent and wealthy, but worldly. Krishnadasa Kaviraja writes:
+His father was a wealthy man, wholly worldly. Krishnadasa Kaviraja writes:
 
 “His father, Shatananda Khan, was deeply engaged in worldly affairs, but the Acharya had turned his back on them:
 renunciation was foremost in him.” (CC, Antya 2.88)
@@ -94,9 +94,8 @@ a meal. At home he would cook rice and many kinds of vegetable dishes, and he wo
 (CC, Antya 2.84–87) <!-- F21 F22 F23 Q4 -->
 
 The biographies see in him a great Vaishnava, learned, noble, exceedingly generous and simple of heart; Svarupa will say
-of him, “most generous” (Antya 5.101). For this simplicity and generosity the Lord loved him especially. Svarupa Damodara
-was his close friend, and Mahaprabhu so treasured this devotee that He could not refuse him when he invited Him; and the
-Acharya himself would cook rice and vegetables at home and feed the Lord alone. <!-- F21 F22 F23 -->
+of him, “most generous” (Antya 5.101). For this simplicity and generosity the Lord loved him especially, and treasured
+him so much that He could not refuse when he invited Him to a meal. <!-- F21 F22 F23 -->
 
 The “Charitamrita” says the same in the account of Ramachandra Puri. When, because of his reproaches, the Lord cut down
 His food, in the homes of Gadadhara Pandita, Bhagavan Acharya and Sarvabhauma He still ate as they wished:
@@ -108,8 +107,7 @@ The Lord, the independent Master, Himself gives Himself into the power of His de
 
 When the devotees of Gauda came to Puri headed by Advaita Acharya, Mahaprabhu went out to meet them with His
 companions; in the long list of those who joyfully went with the Lord, Vrindavana Dasa names Bhagavan Acharya too (CB,
-Antya 8.54–61).[^7] And in the months of chaturmasya, when the Gaudiyas stayed on in Puri, he, like the other brahmanas,
-cooked for the Lord himself:
+Antya 8.54–61).[^7] And in the months of chaturmasya he, like the other brahmanas, cooked for the Lord himself:
 
 “Gopinatha Acharya, Jagadananda, Kashishvara, Bhagavan, Ramabhadra Acharya, Shankara and Vakreshvara would from time to
 time invite Him to rice cooked at home.” (CC, Antya 10.154–155) <!-- F25 F26 Q11 -->
@@ -177,7 +175,7 @@ Bhagavan Acharya's name is linked with another lesson the Lord gave in Puri — 
 named Chota Haridasa. The Acharya himself called him, brought him over and said, ‘Go in my name to Shikhi Mahiti's
 sister, ask her for one *mana* of white rice and bring it.’” (CC, Antya 2.101–103)
 
-A *mana* was a measure of grain used in Utkala, and the rice he wanted was fine white rice. Shikhi Mahiti's sister was
+A *mana* was a measure of grain used in Utkala; the biographies specify that the rice was fine. Shikhi Mahiti's sister was
 Madhavi-devi — an elderly ascetic, a supreme Vaishnavi, whom the Lord counted among the intimate companions of Srimati
 Radharani: of the “three and a half” such companions in this world, she is the “half.”[^8] <!-- F33 -->
 
@@ -237,7 +235,7 @@ the Lord, you have committed an offence! In the Lord there is never any differen
 Antya 5.117–122) <!-- F41 Q8 -->
 
 Sri Jagannatha is the Lord Himself, the Daru-brahman manifest as the Deity, not a wooden image; and the Lord's body is
-not different from Him. A biography retelling this dispute names two offences of the poet: he saw a jiva in the Lord and
+not different from Him. One of the biographies, retelling this dispute, names two offences of the poet: he saw a jiva in the Lord and
 separated the Lord's body from the Lord Himself; but the first thing Svarupa says in the “Charitamrita” is that the poet
 made Sri Jagannatha out to be an inert body of prakriti. The assembly was amazed. And Svarupa, seeing the poet's shame,
 took pity on him and instructed him to hear the “Bhagavata” from a Vaishnava and take shelter at the Lord's feet:
@@ -250,7 +248,7 @@ He also revealed in the poet's verse a hidden praise that Sarasvati had placed i
 the Lord's devotees. <!-- F41 F42 Q8 -->
 
 ## At Chataka Hill
-The last time Krishnadasa Kaviraja names Bhagavan Acharya is in the account of how Mahaprabhu, on His way to the sea,
+Krishnadasa Kaviraja recalls Bhagavan Acharya also in the account of how Mahaprabhu, on His way to the sea,
 caught sight of the sand hill Chataka and, taking it for Govardhana, ran towards it with the speed of the wind:
 
 “A cry went up, and there was a great uproar. Everyone, wherever he was, got up and ran. Among them were Svarupa,
