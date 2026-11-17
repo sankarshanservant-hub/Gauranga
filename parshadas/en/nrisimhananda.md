@@ -122,8 +122,8 @@ All three kinds of this mercy were tasted by Shivananda Sena (Adi 10.60). <!-- F
 
 Srila Bhaktisiddhanta explains in the “Anubhashya” on this passage: when the Lord is present in person, the devotees all
 appear alike — as servants of one kind; but Sriman Mahaprabhu Himself entered Nrisimhananda, and therefore Shivananda
-Sena and others saw him exactly like Sri Gaurasundara: full of love for Krishna and performing more wonderful,
-unearthly deeds than all the other devotees. They saw him so not because he himself had become God, but by the power of
+Sena and others saw in him the very likeness of Sri Gaurasundara: filled with love for Krishna and performing more
+wonderful, unearthly deeds than any other devotee. They saw him so not because he himself had become God, but by the power of
 the Lord who had entered His servant. <!-- F10 Q3 -->
 
 And Kavi Karnapura writes in the “Gaura-ganoddesha-dipika”:
@@ -147,14 +147,14 @@ How the Lord appeared to Nrisimhananda, Krishnadasa Kaviraja tells in the second
 “Appearing before Nrisimhananda, He took a meal. Hear of it attentively.” (CC, Antya 2.36) <!-- F17 Q9 -->
 
 Once Shrikanta Sena, Shivananda's nephew, came to Puri alone. For two months he lived near the Lord, and then the Lord
-sent him back to Bengal with a message: this year let no one come — He Himself would come to Gauda and meet Advaita and
+sent him back to Bengal with a message: this year let no one come — He would come to Gauda in person, to see Advaita and
 all the devotees; and in the month of Pausha He would be Shivananda's guest, and Jagadananda, who lived with him, would
 cook for Him (Antya 2.37–43). The devotees rejoiced and stayed at home. Shivananda and Jagadananda made everything ready
 and throughout Pausha waited for the Lord every day until evening. But the month passed, the Lord did not come, and
 both grew sorrowful (Antya 2.44–47). The “Charitamrita” does not name the year of these events: it was already in the
 Antya-lila. <!-- F18 F31 -->
 
-Then Nrisimhananda came to them. Seeing their sorrow, he asked its cause, and Shivananda replied: the Lord promised to
+Then Nrisimhananda came to them. Seeing their sorrow, he asked why they grieved, and Shivananda replied: the Lord promised to
 come — why has He not come? “Hearing this, the brahmachari said, ‘Be content. I shall bring Him on the third day’” (CC,
 Antya 2.51).[^8] Both knew his power and his love for the Lord, and believed him without a moment's doubt (Antya 2.52). In Karnapura the story begins differently: Shivananda himself turns to him — “Teacher! The Lord said, ‘I
 shall come,’ and He has not come” — and he replies, “I myself shall bring Him; wait two days” (act 9).
