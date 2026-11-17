@@ -278,7 +278,7 @@ friend of Svarupa Damodara and one to whose wishes the Lord submitted at table. 
 scholarly renown to live at the Lord's feet. His magnanimity was so great that he was ready to hear anyone — the brother
 who brought Mayavada from Kashi, and the poet he knew; and so his friend Svarupa twice lovingly protected him, and
 through him all of us. Simplicity and generosity of heart made him especially dear to the Lord. And his obedience to his
-friend, his meals for the Lord and his slow running after Him to Chataka hill speak of a devotion hindered neither by
+friend, his meals for the Lord and his slow walk in His wake to Chataka hill speak of a devotion hindered neither by
 lameness nor by learning. <!-- F2 F3 I2 -->
 
 [^1]: He should not be confused with his namesakes: Bhagavan Pandita, in whose body, according to the “Charitamrita”
