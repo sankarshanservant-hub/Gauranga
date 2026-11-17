@@ -382,11 +382,11 @@ parakiya. They were all immersed in bliss, relishing this”. (“Karnananda”,
 
 What Jiva intended in his commentary “Lochana-rochani” on the “Ujjvala-nilamani” was disclosed by Vishvanatha Chakravarti in
 his commentary “Ananda-chandrika”, and the purpose of that intention was explained by Narahari Chakravarti. In the
-“Narottama-vilasa” (in the verses about himself as author) he writes: in his commentary on the “Ujjvala-nilamani” Jiva gave
-many explanations for the sake of people of a bad disposition; the ill-intentioned do not grasp Jiva's words; statements
-of tattva are brought into all the lilas. Jiva is a follower of Rupa; by his mercy the truth reveals itself in the heart
-— who, then, can understand the words of such a Jiva? And Vishvanatha is not different from Jiva in outlook: Rupa's intention
-was manifest in him, and together with Radhika and her friends he showed the world great mercy. <!-- F107 F108 Q18 -->
+“Narottama-vilasa” (in the verses about himself as author) he writes that in his commentary on the “Ujjvala-nilamani” Vishvanatha gave many explanations for
+the sake of people of a bad disposition, since the ill-intentioned do not grasp Jiva's words: Jiva is a follower of Rupa;
+by his mercy the truth reveals itself in him — who, then, can understand the words of such a Jiva? And Vishvanatha is
+not different from Jiva in outlook: Rupa's intention was manifest in him, and Sri Radhika with Her friends showed him
+great mercy. <!-- F107 F108 Q18 -->
 
 The dispute over svakiya and parakiya did not die down later either. Tradition tells that the Jaipur pandita-digvijayi
 Krishnadeva Sharma, with a decree from the Delhi padishah Muhammad Shah, at the head of troops and vassals, appeared at the
