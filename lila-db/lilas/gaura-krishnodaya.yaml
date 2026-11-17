@@ -2071,7 +2071,7 @@
   order: 9.5
   title: "Приход Парамананды Пури, Сварупы Дамодары и других"
   summary: "Перед Снана-ятрой приходят Парамананда Пури с Камаланандой, Сварупа Дамодара, Брахмананда Бхарати, Бхагаван и Рамабхадра Ачарьи; Господь почитает их."
-  persons: ["@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@brahmananda-bharati"]
+  persons: ["@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@brahmananda-bharati", "@bhagavan-acharya"]
   places: ["#puri"]
   kind: lila
   authority: B

@@ -128,8 +128,8 @@ A large company of Nityananda's associates went with her from Khardaha: Paramesh
 Sarakhela, Madhava Acharya — Nityananda's son-in-law, Raghupati Vaidya, Minaketana Ramadasa, Murari Chaitanya Dasa,
 Jnanadasa, Mahidhara, Sri Shankara, Kamalakara Pippalai, Gauranga Dasa, Nakadi, Krishna Dasa, Damodara, Balarama Dasa,
 Sri Mukunda and Vrindavana Dasa Thakura, as well as Srivasa's brothers Shripati and Shrinidhi.[^11] The
-“Bhakti-ratnakara” (10.375–382) names separately among her companions Parameshvari Dasa, Kamalakara Pippalai, and
-Bhagavan Acharya with his son Raghunatha Acharya, and of her companions, Minaketana Ramadasa among them, it says that the
+“Bhakti-ratnakara” (10.375–382) names separately among her companions Parameshvari Dasa and Kamalakara Pippalai, tells
+that at Halisahar she was joined by Raghunatha Acharya, son of the lame Bhagavan, and of her companions, Minaketana Ramadasa among them, it says that the
 mere sight of such Vaishnavas sanctifies the three worlds. Her disciples Jnanadasa and Manohara Dasa went with her, and, according to the
 “Prema-vilasa,” little Kanu Thakura as well. Krishnadasa of Akai-hat, too, came with them all to Kantaka-nagara
 (Katwa) (“Bhakti-ratnakara” 10.409); one of the biographies sees in him Kala Krishnadasa, one of the twelve gopalas, but
