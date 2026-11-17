@@ -4182,6 +4182,10 @@
     "type": "served-by"
    },
    {
+    "from": "@bhagavan-acharya",
+    "type": "served-by"
+   },
+   {
     "from": "@bhavananda-raya",
     "type": "companion"
    },
@@ -12645,6 +12649,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@buddhimanta-khan",
     "type": "other"
    },
@@ -13772,6 +13780,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@bhagavan-acharya",
     "type": "other"
    },
    {
@@ -15036,6 +15048,10 @@
    {
     "from": "@advaita",
     "type": "other"
+   },
+   {
+    "from": "@bhagavan-acharya",
+    "type": "neighbor"
    },
    {
     "from": "@buddhimanta-khan",
@@ -20053,6 +20069,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@bhavananda-raya",
     "type": "other"
    },
@@ -21379,6 +21399,10 @@
    {
     "from": "@balabhadra-bhattacharya",
     "type": "other"
+   },
+   {
+    "from": "@bhagavan-acharya",
+    "type": "friend"
    },
    {
     "from": "@bhavananda-raya",
@@ -26187,6 +26211,10 @@
     "type": "host"
    },
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    },
@@ -27736,6 +27764,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@chhota-haridasa",
     "type": "other"
    },
@@ -28464,6 +28496,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@buddhimanta-khan",
     "type": "other"
    },
@@ -29138,6 +29174,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "neighbor"
+   },
    {
     "from": "@buddhimanta-khan",
     "type": "co-worker"
@@ -30497,6 +30537,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
    {
     "from": "@chhota-haridasa",
     "type": "other"
@@ -32185,6 +32229,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "neighbor"
+   },
+   {
     "from": "@chhota-haridasa",
     "type": "other"
    },
@@ -33296,6 +33344,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -35181,6 +35233,10 @@
    },
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@bhagavan-acharya",
     "type": "other"
    },
    {
@@ -38015,6 +38071,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
    {
     "from": "@damodara-pandita",
     "type": "met"
@@ -45797,6 +45857,10 @@
     "type": "other"
    },
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-ballabha-tirtha",
     "type": "lineage-predecessor"
    },
@@ -48631,6 +48695,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "siksha-disciple"
    }
@@ -48807,6 +48875,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
    {
     "from": "@bhavananda-raya",
     "type": "nephew"
@@ -48992,6 +49064,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
    {
     "from": "@bhavananda-raya",
     "type": "niece"
@@ -49211,6 +49287,170 @@
    "ev-chaitanya-dasa-feast",
    "ev-chataka-parvata-govardhana",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — пастушок, друг Кришны в сакхья-расе (ЧЧ Антья 2.85) и др.; происхождение — Кумарахатта (Халисахар)",
+  "card": "parshadas/cards/bhagavan-acharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhagavan-acharya.md",
+   "en": "parshadas/en/bhagavan-acharya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#navadvipa?",
+    "conf": "по T («Гаудия-вайшнава-абхидхана») — явился в Навадвипе, затем жил в Халисахаре; B — житель Халисахара (⚠10); год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) его дней нет",
+    "facts": [
+     "F7",
+     "F8",
+     "F17"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "дата, место и обстоятельства ухода неизвестны (ни B, ни T); в календаре ШЧСМ (541/ru, проверено 2026-11-17) его дней нет",
+    "facts": [
+     "F17"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "кала (часть) Гауры",
+    "source": "ГГД 74",
+    "level": "A",
+    "variants": [
+     "T 140 — «expansion» Махапрабху; передавать «часть (кала) Гауры» (⚠Б3)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "пастушок (гопа), друг Кришны в сакхья-расе",
+    "source": "ЧЧ Антья 2.85",
+    "level": "A",
+    "variants": [
+     "Сварупа называет его «гопа» (ЧЧ Антья 5.101). Имя пастушка источники не называют."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Безраздельно предан стопам Господа; оставив всё, жил у Его стоп в Пури (ЧЧ Мадхья 10.184); приглашал Его и кормил одного (Антья 2.86–87); по его приглашению Господь ел по его желанию (Антья 8.88); по «Абхидхане» Господь сперва отослал его домой (F13, ⚠9)."
+   },
+   {
+    "type": "sibling",
+    "who": "@gopala-bhattacharya",
+    "note": "Младший брат, майявади, изучил Веданту в Каши; Господь внешне учтив с ним ради Бхагавана; по слову Сварупы Бхагаван отослал его на родину (ЧЧ Антья 2.89–100)."
+   },
+   {
+    "type": "friend",
+    "who": "@svarupa-damodara",
+    "note": "Дружба (сакхья) со Сварупой (ЧЧ Антья 2.85); Сварупа с любовным гневом удержал его от слушания майявады (2.93–100) и упрекнул за просьбу послушать драму поэта (5.99–110); = @svarupa-damodara F48–F56."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "Послал его к Мадхави-деви за маном тонкого риса для трапезы Господа; за беседу с женщиной Господь отказал Харидасу в доступе (ЧЧ Антья 2.101–113)."
+   },
+   {
+    "type": "other",
+    "who": "@madhavi-devi",
+    "note": "От её имени (через Младшего Харидаса) получил рис (ЧЧ Антья 2.103–107)."
+   },
+   {
+    "type": "other",
+    "who": "@shikhi-mahiti",
+    "note": "Рядом в перечне ветвей в Пури (ЧЧ Ади 10.136); его сестра Мадхави дала рис."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Господь велел Говинде не пускать Младшего Харидаса (ЧЧ Антья 2.112–113)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Вместе с ним и Сарвабхаумой — те, чьи приглашения Господь принимал всегда (ЧЧ Антья 8.88)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Там же (ЧЧ Антья 8.88); T: пришёл к Господу после избавления Сарвабхаумы."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "note": "В пору урезанной из-за Рамачандры Пури меры пищи Господь у него ел по его желанию (B 801; T 149)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "Бежали за Господом к Чатака-парвате (ЧЧ Антья 14.90)."
+   },
+   {
+    "type": "other",
+    "who": "@brahmananda-bharati",
+    "note": "Рядом в перечне ветвей (Ади 10.136) и у Чатака-парваты (Антья 14.90)."
+   },
+   {
+    "type": "other",
+    "who": "@pradyumna-mishra",
+    "note": "Вместе в перечне ЧБ Антья 8.56–61; T 142 — «главные среди любящих преданных Пури» (вольность, = @pradyumna-mishra ⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "Там же; вместе готовили для Господа (ЧЧ Антья 10.154–155)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Шёл с Господом встречать Адвайту и гаудийцев (ЧБ Антья 8.54–61; T 141)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@shivananda-sena",
+    "note": "Хромой Бхагаван Ачарья жил в Кумарахатте (Халисахаре), как и Шивананда, Шриваса, Васудева Датта (B 779; T 73); = @shivananda-sena F14."
+   },
+   {
+    "type": "neighbor",
+    "who": "@srivasa",
+    "note": "Там же (B 779; T 73)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@vasudeva-datta",
+    "note": "Там же (B 779; T 73)."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "К Джахнаве у Халисахара присоединился его сын Рагхунатха Ачарья (БР 10.382); T 140 — «и он, и сын» (ошибка T, ⚠5; ср. карточку @jahnava)."
+   },
+   {
+    "type": "other",
+    "who": "@nandana-acharya",
+    "note": "Не путать: тоже хромой; двустишие «Карчи» о «Кханджане Ачарье» B 758 относит к Нандане, наш перевод «Карчи» — видимо, к Бхагавану Ачарье (= @nandana-acharya ⚠3; ур. D)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-pandita",
+    "note": "Тёзка, не путать (ЧЧ Ади 10.69; ЧБ Антья 8 — среди гаудийцев)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.136 (Халисахар, сын Рагхунатха по БР, ГГД 74), к Антья 2.95–98 (яд майявады — подзаголовки, которые B пересказывает), к Ади 12.88 («другой» Бхагаван Ачарья ветви Гададхары, ⚠3)."
+   }
   ],
   "related_by": [
    {
@@ -52299,6 +52539,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -54313,6 +54557,12 @@
    "ev-jagadisha-hiranya-ekadashi",
    "ev-gauda-devotees-set-out-puri",
    "ev-gauda-devotees-yearly-visit"
+  ],
+  "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -56045,6 +56295,10 @@
    "ev-gopala-bhattacharya-mayavada"
   ],
   "related_by": [
+   {
+    "from": "@bhagavan-acharya",
+    "type": "sibling"
+   },
    {
     "from": "@svarupa-damodara",
     "type": "other"
