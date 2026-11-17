@@ -35,4 +35,5 @@ for kind in kinds:
         nums = re.findall(r'(?m)^\*\*\d+\.(\d+)\.\*\*', out)
         assert [int(x) for x in nums] == list(range(1, len(nums) + 1)), (kind, 'numbering')
         print(kind, cc, 'units', len(nums), 'notes', len(labels))
+    os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, 'w', encoding='utf-8').write(out)
