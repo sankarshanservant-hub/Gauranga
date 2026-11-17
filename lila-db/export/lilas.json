@@ -61581,6 +61581,66 @@
   "attestation": 5
  },
  {
+  "id": "gcc-0005",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 2, 1–26a",
+  "file": "gaura-charita-chintamani/ru/02.md",
+  "period": "P07",
+  "order": 90,
+  "title": "Нишанта: спящая Навадвипа, спутники у дома Господа; Гаура во сне говорит словами Кришны к Радхе",
+  "summary": "На исходе ночи спит Надия; спутники, ночующие вокруг дома Господа, томятся в ожидании Его пробуждения. Описаны покои и ложе, золотое тело спящего Гауры — словно вершина Сумеру посреди Молочного океана, прекраснее множества Мадан. Во сне Гаура вспоминает игры с Радхой в никундже Враджа и говорит словами Кришны, обращёнными к Ней, и молит: «рождение за рождением да буду Я слугой стоп Владыки гопи»; затем снова затихает во сне.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 14–19 (Господь в бхаве Радхи и во сне видит игры Враджа — ср.)",
+  "notes": "Описание красоты Гауры через действие на женщин — сноска с позицией Бхактисиддханты против гаура-нагари-вады (ЧБ Ади 15). Издание заново нумерует строфы после 2.20 — у переводчика 2.14a–2.26a.",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "event": "ev-gaura-ashtakala-nishanta",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/02.md",
+    "from": "2.1",
+    "to": "2.26a"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/02.md",
+    "from": "2.1",
+    "to": "2.26a",
+    "line": 9,
+    "line_to": 440,
+    "count": 33,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/02.md?plain=1#L9-L440",
+    "file_en": "gaura-charita-chintamani/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/02.md?plain=1#L9-L440"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "kcm-0057",
   "source": "karnapura-ckm",
   "ref": "Сарга 6, 49–52",
@@ -61763,6 +61823,63 @@
    24
   ],
   "attestation": 5
+ },
+ {
+  "id": "gcc-0006",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 3, 1–11",
+  "file": "gaura-charita-chintamani/ru/03.md",
+  "period": "P07",
+  "order": 91,
+  "title": "Пратах: Гаура говорит во сне; спутники встают и идут к Его опочивальне",
+  "summary": "Утро в Навадвипе: Гаура ещё спит; Его прелестный сон радует тело, ум и глаза; во сне Он являет дивное «прежнее» настроение, и снова в Нём рождается застенчивость; спутники, слыша Его речи, встают со своих постелей и идут к Его опочивальне, чтобы разбудить Его.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Начало кираны 3 (шаййоттхана).",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/03.md",
+    "from": "3.1",
+    "to": "3.11"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/03.md",
+    "from": "3.1",
+    "to": "3.11",
+    "line": 9,
+    "line_to": 151,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/03.md?plain=1#L9-L151",
+    "file_en": "gaura-charita-chintamani/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/03.md?plain=1#L9-L151"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-7047",
@@ -272654,6 +272771,54 @@
   "attestation": 1
  },
  {
+  "id": "gcc-0003",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 1, 33–58",
+  "file": "gaura-charita-chintamani/ru/01.md",
+  "period": "PX",
+  "order": 3,
+  "title": "Нарахари о себе и о книге; слава Надии; размеры поэмы",
+  "summary": "Спутники Гауры вечны, с вечно новым Владыкой — их вечные игры; Нарахари молит их о служении и рассказывает о себе: родился в Гауде, на берегу Ганги, в семье брахманов, отец — вайшнав Джаганнатха, два имени — Нарахари и Гханашьяма; человеческое рождение прошло впустую; боится, что книга останется незаконченной, и оправдывается шлокой «тад-ваг-висарго…» («Бхагавата» 1.5.11). Тот же Луна Враджа — Луна Надии; слава Надии и сына Шачи; поэт говорит, что сложил размеры многих видов по матрам и слогам, и называет книгу драгоценным самоцветом.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "БР 1 (Нарахари о себе)",
+  "notes": "Автобиографические сведения Нарахари (отец Джаганнатха, два имени).",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.33",
+    "to": "1.58"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.33",
+    "to": "1.58",
+    "line": 401,
+    "line_to": 600,
+    "count": 26,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/01.md?plain=1#L401-L600",
+    "file_en": "gaura-charita-chintamani/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/01.md?plain=1#L401-L600"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0004",
   "source": "jayananda-cm",
   "ref": "Статья Н. Васу 1897, вступление (рукопись, колофон Шака 1601)",
@@ -273038,6 +273203,52 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/01.md?plain=1#L106-L130",
     "file_en": "divakara-jagannatha-charitamrita/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/01.md?plain=1#L106-L130"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gcc-0004",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 1, 59–62",
+  "file": "gaura-charita-chintamani/ru/01.md",
+  "period": "PX",
+  "order": 4,
+  "title": "Порядок восьми периодов: сутра аштакалия-лилы Гауры",
+  "summary": "Нарахари называет восемь периодов суток — конец ночи, утро, первую половину дня, полдень, послеполуденную пору, вечер, раннюю ночь и глубокую ночь — и кратко излагает игры Гауры в каждом, начиная с того, как в конце ночи Гора, погружённый в сон, лежит на ложе. Колофон: первая кирана — «Изложение сутр и прочего».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "Аштакалия-лила Кришны («Говинда-лиламрита»); «Гауранга-смарана-мангала-стотра» Бхактивиноды",
+  "notes": "",
+  "themes": [
+   "author",
+   "krishna-lila"
+  ],
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.59",
+    "to": "1.62"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/01.md",
+    "from": "1.59",
+    "to": "1.62",
+    "line": 609,
+    "line_to": 650,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/01.md?plain=1#L609-L650",
+    "file_en": "gaura-charita-chintamani/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/01.md?plain=1#L609-L650"
    }
   ],
   "attestation": 1

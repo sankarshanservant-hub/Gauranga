@@ -1810,6 +1810,14 @@
 - lochana-cm (B): Мадхья-кханда, «Милость к Мукунде», 87–93 — [87–93](../lochana/ru/26.md?plain=1#L197-L215) · `lcm-0115`
 - murari-kcc (A): Пракрама 2, сарга 4, шлоки 33–35 — [33–35](../murari-gupta/ru/2.04.md?plain=1#L69-L73) · `mkc-0081`
 
+## Аштакалия-лила Гауры: нишанта — сон Господа на исходе ночи / Gaura's ashtakaliya-lila: nishanta — the Lord's sleep at the end of night  `ev-gaura-ashtakala-nishanta` (1509–1510, возраст 23–24, оценка)
+
+- gaura-charita-chintamani (C): Кирана 2, 1–26a — [2.1–2.26a](../gaura-charita-chintamani/ru/02.md?plain=1#L9-L440) · `gcc-0005`
+
+## Аштакалия-лила Гауры: пратах — пробуждение Господа / Gaura's ashtakaliya-lila: pratah — the Lord's awakening  `ev-gaura-ashtakala-pratah` (1509–1510, возраст 23–24, оценка)
+
+- gaura-charita-chintamani (C): Кирана 3, 1–11 — [3.1–3.11](../gaura-charita-chintamani/ru/03.md?plain=1#L9-L151) · `gcc-0006`
+
 ## Господь посещает Адвайту / The Lord visits Advaita  `ev-visit-advaita` (1509–1510, возраст 23–24, оценка)
 
 - bhakti-ratnakara (B): Таранга 12, 2338–2348 — [2338–2348](../bhakti-ratnakara/ru/12.md?plain=1#L7569-L7599) · `brt-7047`
