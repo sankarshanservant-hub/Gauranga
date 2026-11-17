@@ -14274,7 +14274,8 @@
    "F18",
    "F19",
    "F20",
-   "F21"
+   "F21",
+   "F37"
   ],
   "events": [
    "ev-minaketana-ramadasa-kaviraja-house"
@@ -14309,7 +14310,8 @@
    "F32",
    "F33",
    "F34",
-   "F35"
+   "F35",
+   "F36"
   ],
   "events": [
    "ev-kheturi-festival-invitations",
@@ -14384,6 +14386,18 @@
  {
   "from": "@minaketana-ramadasa",
   "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F30",
+   "F31",
+   "F32",
+   "F38"
+  ],
+  "note": "Автор БР и «Нароттама-виласы»; в «Намамрита-самудре» (42) молится ему: «полный премы… даруй мне радость в достоинствах Нитьянанды»."
+ },
+ {
+  "from": "@minaketana-ramadasa",
+  "type": "other",
   "who": "@bhaktisiddhanta",
   "facts": [
    "F7",
@@ -14401,7 +14415,8 @@
    "F17",
    "F19",
    "F20",
-   "F25"
+   "F25",
+   "F37"
   ],
   "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 5.165–177 — источник рассуждений B (не назван у B; ⚠5)."
  },
