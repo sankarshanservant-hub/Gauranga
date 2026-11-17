@@ -46750,7 +46750,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 3
  },
  {
   "id": "cc-0252",
@@ -46808,7 +46808,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 3
  },
  {
   "id": "ccd-0018",
@@ -46836,7 +46836,7 @@
    "mercy",
    "ecstasy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
@@ -46855,8 +46855,6 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/01.md?plain=1#L543-L554"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -46867,7 +46865,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 4
  },
  {
   "id": "kcm-0050",
@@ -46896,7 +46894,7 @@
   "teaching": [
    "bhakti-supremacy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/06.md",
@@ -46915,8 +46913,6 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L198-L267"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -46927,7 +46923,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 4
  },
  {
   "id": "lcm-0106",
@@ -46960,7 +46956,7 @@
   "scriptures": [
    "Нарада-панчаратра 1.2.6"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "lochana/ru/25.md",
@@ -46981,8 +46977,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/25.md?plain=1#L67-L122"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -46993,7 +46987,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 4
  },
  {
   "id": "mkc-0072",
@@ -47022,7 +47016,7 @@
   "teaching": [
    "bhakti-supremacy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "murari-gupta/ru/2.03.md",
@@ -47043,8 +47037,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.03.md?plain=1#L13-L21"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -47055,7 +47047,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 4
  },
  {
   "id": "vv-0036",
@@ -47113,7 +47105,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 3
  },
  {
   "id": "cb-1047",
@@ -47435,12 +47427,12 @@
   "kind": "lila",
   "authority": "A",
   "parallels": "",
-  "notes": "Продолжение милости к Шукламбаре (2.3.5–9).",
+  "notes": "Продолжение молитвы Шукламбары о преме (2.3.5–9).",
   "themes": [
    "ecstasy",
    "mercy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "murari-gupta/ru/2.04.md",
@@ -47461,8 +47453,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.04.md?plain=1#L5-L7"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -47473,7 +47463,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 4
  },
  {
   "id": "pvl-0186",
@@ -64953,7 +64943,7 @@
    23,
    24
   ],
-  "attestation": 7
+  "attestation": 3
  },
  {
   "id": "lcm-0140",

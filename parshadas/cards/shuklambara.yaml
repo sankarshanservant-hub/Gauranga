@@ -29,7 +29,7 @@ origin:
   facts: [F4, F5, F25]
 relations:
   - {type: served-by, who: "@mahaprabhu", facts: [F10, F15, F21, F22, F23, F24, F25, F26, F28, F31, F33, F35, F36, F37, F45, F46, I1, I3],
-     events: [ev-shuklambara-house-prema, ev-shuklambara-mercy, ev-shuklambara-feast-vijaya-vision],
+     events: [ev-shuklambara-house-prema, ev-shuklambara-mercy, ev-shuklambara-prema-prayer, ev-shuklambara-feast-vijaya-vision],
      note: "Господь с любовью ел рис из его сумы (ЧБ Мадхья 16; ЧЧ Ади 10.38, 17.20) и рис, сваренный им «не касаясь» (ЧБ Мадхья 26); даровал ему према-бхакти (ЧБ 16.134–137; Мурари 2.3.5–8; Лочан 25.159–174); после Гаи явил прему в его доме (ЧБ Мадхья 1). «Мой нищий слуга из жизни в жизнь» (16.122)."}
   - {type: other, who: "@advaita", facts: [F9], events: [ev-advaita-calls-lord], note: "Назван в обете Адвайты низвести Кришну (ЧБ Ади 2.118–119; B 1007)."}
   - {type: companion, who: "@gangadasa-pandita", facts: [F9, F14], note: "Вместе в обете Адвайты (= @gangadasa-pandita F35); вместе изумлялись перемене Господа после Гаи (T 34–35)."}
@@ -67,6 +67,7 @@ events:
   - ev-advaita-calls-lord
   - ev-return-from-gaya-teaching
   - ev-shuklambara-house-prema
+  - ev-shuklambara-prema-prayer
   - ev-shuklambara-mercy
   - ev-jala-keli-navadvipa
   - ev-chandrashekhara-drama
@@ -78,7 +79,7 @@ events:
   - ev-kuliya-shachi-meeting
   - ev-srinivasa-second-vrindavana
   - ev-narottama-gauda-pilgrimage
-events_note: "ev-shuklambara-mercy в lila-db объединяет рис из сумы (ЧБ Мадхья 16) и прему по молитве о Матхуре (Мурари 2.3, Лочан 25, Карнапура 6) — у авторов разные сцены (⚠13); ev-sannyasa-katwa — лишь по Джаянанде (зван идти в Катву, ур. D); ev-kuliya-shachi-meeting — подаяние в его доме только у Лочана (Шеша 51.52, ⚠12). Не включены: ev-kheturi-festival (видение Господа со спутниками, БР 10.593, НВ 7.117)."
+events_note: "Рис из сумы (ЧБ Мадхья 16) — ev-shuklambara-mercy; према по молитве о Матхуре (Мурари 2.3, Лочан 25, Карнапура 6) — ev-shuklambara-prema-prayer (разделены при проверке, ⚠13); ev-sannyasa-katwa — лишь по Джаянанде (зван идти в Катву, ур. D); ev-kuliya-shachi-meeting — подаяние в его доме только у Лочана (Шеша 51.52, ⚠12). Не включены: ev-kheturi-festival (видение Господа со спутниками, БР 10.593, НВ 7.117)."
 teachings_given: []
 teachings_received:
   - {what: "«Без любви к Кришне паломничество не приносит плода» (Мурари 2.3.6–7; Лочан 25.165–168)", facts: [F33]}
@@ -88,7 +89,7 @@ places_facts: [F4, F10, F21, F33, F35, F43, F45, F46, F49]
 character:
   - {trait: "довольство в бедности: всё собранное подаянием подносил Кришне, жил остатками и не чувствовал нужды", facts: [F5, F6, F25], events: [ev-shuklambara-mercy]}
   - {trait: "смирение и страх оскорбить Господа: «Ты погубил меня!», «Ты хочешь провести меня»", facts: [F24, F35]}
-  - {trait: "жажда премы: обошёл Матхуру и Двараку и просил у Господа любви", facts: [F33]}
+  - {trait: "жажда премы: обошёл Матхуру и Двараку и просил у Господа любви", facts: [F33], events: [ev-shuklambara-prema-prayer]}
   - {trait: "служение в экстазе Господа: отирал Его лицо, плакал и танцевал с сумой на плече", facts: [F15, F21, F34]}
   - {trait: "любовь к спутникам после сокрытия Господа: обнимал и расспрашивал Шринивасу и Нароттаму", facts: [F48, F49]}
 significance: {facts: [F25, F28, F30, F31, F32, I1, I2, I3, I4, I5]}

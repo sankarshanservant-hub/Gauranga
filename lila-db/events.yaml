@@ -1549,15 +1549,25 @@
   themes: [celestial, mercy, revelation]
   notes: "Мурари 2.3.1–4."
 
+- id: ev-shuklambara-prema-prayer
+  title: "Шукламбара просит премы: «Разве шакалы не ходят туда?»"
+  title_en: "Shuklambara asks for prema: “Do jackals not go there too?”"
+  period: P07
+  order: 71
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "Мурари 2.3.5–9, 2.4.1–2; Лочан, Мадхья 25.159–175; Карнапура, махакавья 6.8–11, «Чайтанья-чандродая» 1.65–66. Когда Господь раздаёт дары, Шукламбара, обошедший Матхуру и Двараку, просит любви и обретает прему. Иная сцена, чем рис из сумы (ev-shuklambara-mercy): у ЧБ (Мадхья 16) према дарована после риса, у Мурари — по просьбе (отделено при проверке @shuklambara, 2026-11-17)."
+
 - id: ev-shuklambara-mercy
-  title: "Милость к Шукламбаре Брахмачари"
-  title_en: "Mercy to Shuklambara Brahmachari"
+  title: "Милость к Шукламбаре Брахмачари: Господь ест рис из его сумы"
+  title_en: "Mercy to Shuklambara Brahmachari: the Lord eats rice from his begging bag"
   period: P07
   order: 72
   cc: "Ади 10, 17"
   cb: "Мадхья 16"
   themes: [mercy, teaching]
-  notes: "Мурари 2.3.5–9."
+  notes: "ЧБ Мадхья 16.108–152; ЧЧ Ади 10.38, 17.20. Молитва о преме у Мурари, Лочана и Карнапуры — отдельное событие ev-shuklambara-prema-prayer."
 
 - id: ev-gadadhara-initiation-pundarika
   title: "Пундарика Видьянидхи в Навадвипе: Гададхара сомневается в нём и принимает у него посвящение"

@@ -1446,7 +1446,7 @@
   notes: "Господь не умаляет святых мест: одно телесное пребывание в них без любви не приносит плода (сноска перевода)."
   themes: [mercy, teaching]
   teaching: [bhakti-supremacy]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "murari-gupta/ru/2.03.md", from: "5", to: "9"}
 
@@ -1502,9 +1502,9 @@
   kind: lila
   authority: A
   parallels: ""
-  notes: "Продолжение милости к Шукламбаре (2.3.5–9)."
+  notes: "Продолжение молитвы Шукламбары о преме (2.3.5–9)."
   themes: [ecstasy, mercy]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "murari-gupta/ru/2.04.md", from: "1", to: "2"}
 

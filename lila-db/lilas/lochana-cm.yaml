@@ -2246,7 +2246,7 @@
   themes: [mercy, teaching]
   teaching: [bhakti-supremacy]
   scriptures: ["Нарада-панчаратра 1.2.6"]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "lochana/ru/25.md", from: "159", to: "175"}
 

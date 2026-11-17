@@ -4713,9 +4713,46 @@
   ]
  },
  {
+  "id": "ev-shuklambara-prema-prayer",
+  "title": "Шукламбара просит премы: «Разве шакалы не ходят туда?»",
+  "title_en": "Shuklambara asks for prema: “Do jackals not go there too?”",
+  "period": "P07",
+  "order": 71,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "notes": "Мурари 2.3.5–9, 2.4.1–2; Лочан, Мадхья 25.159–175; Карнапура, махакавья 6.8–11, «Чайтанья-чандродая» 1.65–66. Когда Господь раздаёт дары, Шукламбара, обошедший Матхуру и Двараку, просит любви и обретает прему. Иная сцена, чем рис из сумы (ev-shuklambara-mercy): у ЧБ (Мадхья 16) према дарована после риса, у Мурари — по просьбе (отделено при проверке @shuklambara, 2026-11-17).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0018",
+   "kcm-0050",
+   "lcm-0106",
+   "mkc-0072",
+   "mkc-0075"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya",
+   "karnapura-ckm",
+   "lochana-cm",
+   "murari-kcc"
+  ]
+ },
+ {
   "id": "ev-shuklambara-mercy",
-  "title": "Милость к Шукламбаре Брахмачари",
-  "title_en": "Mercy to Shuklambara Brahmachari",
+  "title": "Милость к Шукламбаре Брахмачари: Господь ест рис из его сумы",
+  "title_en": "Mercy to Shuklambara Brahmachari: the Lord eats rice from his begging bag",
   "period": "P07",
   "order": 72,
   "cc": "Ади 10, 17",
@@ -4724,7 +4761,7 @@
    "mercy",
    "teaching"
   ],
-  "notes": "Мурари 2.3.5–9.",
+  "notes": "ЧБ Мадхья 16.108–152; ЧЧ Ади 10.38, 17.20. Молитва о преме у Мурари, Лочана и Карнапуры — отдельное событие ev-shuklambara-prema-prayer.",
   "years": [
    1509,
    1510
@@ -4738,21 +4775,12 @@
   "entries": [
    "cc-0118",
    "cc-0252",
-   "ccd-0018",
-   "kcm-0050",
-   "lcm-0106",
-   "mkc-0072",
    "vv-0036",
-   "mkc-0075",
    "cb-2008"
   ],
   "sources": [
    "cb",
    "cc",
-   "chaitanya-chandrodaya",
-   "karnapura-ckm",
-   "lochana-cm",
-   "murari-kcc",
    "vaishnava-vandana"
   ]
  },

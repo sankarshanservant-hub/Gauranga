@@ -49961,6 +49961,7 @@
     "events": [
      "ev-shuklambara-house-prema",
      "ev-shuklambara-mercy",
+     "ev-shuklambara-prema-prayer",
      "ev-shuklambara-feast-vijaya-vision"
     ],
     "note": "Господь с любовью ел рис из его сумы (ЧБ Мадхья 16; ЧЧ Ади 10.38, 17.20) и рис, сваренный им «не касаясь» (ЧБ Мадхья 26); даровал ему према-бхакти (ЧБ 16.134–137; Мурари 2.3.5–8; Лочан 25.159–174); после Гаи явил прему в его доме (ЧБ Мадхья 1). «Мой нищий слуга из жизни в жизнь» (16.122)."
@@ -50201,6 +50202,7 @@
    "ev-advaita-calls-lord",
    "ev-return-from-gaya-teaching",
    "ev-shuklambara-house-prema",
+   "ev-shuklambara-prema-prayer",
    "ev-shuklambara-mercy",
    "ev-jala-keli-navadvipa",
    "ev-chandrashekhara-drama",
@@ -50213,7 +50215,7 @@
    "ev-srinivasa-second-vrindavana",
    "ev-narottama-gauda-pilgrimage"
   ],
-  "events_note": "ev-shuklambara-mercy в lila-db объединяет рис из сумы (ЧБ Мадхья 16) и прему по молитве о Матхуре (Мурари 2.3, Лочан 25, Карнапура 6) — у авторов разные сцены (⚠13); ev-sannyasa-katwa — лишь по Джаянанде (зван идти в Катву, ур. D); ev-kuliya-shachi-meeting — подаяние в его доме только у Лочана (Шеша 51.52, ⚠12). Не включены: ev-kheturi-festival (видение Господа со спутниками, БР 10.593, НВ 7.117).",
+  "events_note": "Рис из сумы (ЧБ Мадхья 16) — ev-shuklambara-mercy; према по молитве о Матхуре (Мурари 2.3, Лочан 25, Карнапура 6) — ev-shuklambara-prema-prayer (разделены при проверке, ⚠13); ev-sannyasa-katwa — лишь по Джаянанде (зван идти в Катву, ур. D); ev-kuliya-shachi-meeting — подаяние в его доме только у Лочана (Шеша 51.52, ⚠12). Не включены: ev-kheturi-festival (видение Господа со спутниками, БР 10.593, НВ 7.117).",
   "teachings_given": [],
   "teachings_received": [
    {
@@ -50269,6 +50271,9 @@
     "trait": "жажда премы: обошёл Матхуру и Двараку и просил у Господа любви",
     "facts": [
      "F33"
+    ],
+    "events": [
+     "ev-shuklambara-prema-prayer"
     ]
    },
    {

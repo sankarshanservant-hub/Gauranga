@@ -1444,16 +1444,19 @@
 - murari-kcc (A): Пракрама 2, сарга 3, шлоки 1–4 — [1–4](../murari-gupta/ru/2.03.md?plain=1#L5-L11) · `mkc-0071`
 - cb (A): Мадхья 13, 368–385 — [368–385](../chaitanya-bhagavata/ed/CB_Madhya13.md?plain=1#L1747-L1832) · `cb-1087`
 
-## Милость к Шукламбаре Брахмачари / Mercy to Shuklambara Brahmachari  `ev-shuklambara-mercy` (1509–1510, возраст 23–24, оценка)
+## Шукламбара просит премы: «Разве шакалы не ходят туда?» / Shuklambara asks for prema: “Do jackals not go there too?”  `ev-shuklambara-prema-prayer` (1509–1510, возраст 23–24, оценка)
 
-- cc (A): Ади 10.38 — [38–38](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi10.md?plain=1#L393-L393) · `cc-0118`
-- cc (A): Ади 17.20 — [20–20](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L213-L213) · `cc-0252`
 - chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 65–66 — [**Шукламбара** *(смиренно)*. Владыка!–> и изливается через глаза и волоски.](../chaitanya-chandrodaya/ru/01.md?plain=1#L543-L554) · `ccd-0018`
 - karnapura-ckm (A): Сарга 6, 8–11 — [8–11](../karnapura-mahakavya/ru/06.md?plain=1#L198-L267) · `kcm-0050`
 - lochana-cm (B): Мадхья-кханда, «Према-дана-лила», 159–175 — [159–175](../lochana/ru/25.md?plain=1#L67-L122) · `lcm-0106`
 - murari-kcc (A): Пракрама 2, сарга 3, шлоки 5–9 — [5–9](../murari-gupta/ru/2.03.md?plain=1#L13-L21) · `mkc-0072`
-- vaishnava-vandana (B): Девакинандана, 32 — [32–32](../vaishnava-vandana/ru/02.md?plain=1#L117-L117) · `vv-0036`
 - murari-kcc (A): Пракрама 2, сарга 4, шлоки 1–2 — [1–2](../murari-gupta/ru/2.04.md?plain=1#L5-L7) · `mkc-0075`
+
+## Милость к Шукламбаре Брахмачари: Господь ест рис из его сумы / Mercy to Shuklambara Brahmachari: the Lord eats rice from his begging bag  `ev-shuklambara-mercy` (1509–1510, возраст 23–24, оценка)
+
+- cc (A): Ади 10.38 — [38–38](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi10.md?plain=1#L393-L393) · `cc-0118`
+- cc (A): Ади 17.20 — [20–20](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L213-L213) · `cc-0252`
+- vaishnava-vandana (B): Девакинандана, 32 — [32–32](../vaishnava-vandana/ru/02.md?plain=1#L117-L117) · `vv-0036`
 - cb (A): Мадхья 16, 109–152 — [109–152](../chaitanya-bhagavata/ed/CB_Madhya16.md?plain=1#L507-L718) · `cb-2008`
 
 ## Пундарика Видьянидхи в Навадвипе: Гададхара сомневается в нём и принимает у него посвящение / Pundarika Vidyanidhi in Navadvipa: Gadadhara doubts him and takes initiation from him  `ev-gadadhara-initiation-pundarika` (1509–1510, возраст 23–24, оценка)
