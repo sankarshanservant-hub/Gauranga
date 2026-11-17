@@ -17685,6 +17685,174 @@
   ]
  },
  {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F1",
+   "F3",
+   "F9",
+   "F10",
+   "F13",
+   "F14",
+   "F17",
+   "F25",
+   "F27",
+   "F30",
+   "I3",
+   "I4"
+  ],
+  "events": [
+   "ev-nakula-brahmachari",
+   "ev-natashala-kanai-return",
+   "ev-nrisimhananda-three-offerings",
+   "ev-tattva-three-ways-deliverance",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Господь дал ему имя «Нрисимхананда» (ЧЧ Ади 10.35; Антья 2.53); тринадцатая ветвь древа Чайтаньи; Господь являлся ему (авирбхава, ЧЧ Ади 10.59, Антья 2.4–6), вкусил три его подношения и в Пури прославил его стряпню (Антья 2.36–78)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "deity-served",
+  "who": "@nrisimha",
+  "facts": [
+   "F2",
+   "F4",
+   "F5",
+   "F6",
+   "F24",
+   "F26",
+   "F29"
+  ],
+  "note": "Иштадева; почитатель Нрисимхи (ЧЧ Ади 10.35; Антья 2.61); Нрисимха воочию беседовал с ним и проявлялся в его теле (ЧБ Антья 8.12, 3.186)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F24",
+   "F26",
+   "F27"
+  ],
+  "events": [
+   "ev-nrisimhananda-three-offerings"
+  ],
+  "note": "Одно из трёх подношений — Джаганнатхе; Господь показал неотличие (ЧЧ Антья 2.60–67)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "host",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F17",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F28",
+   "F29",
+   "F30"
+  ],
+  "events": [
+   "ev-nrisimhananda-three-offerings"
+  ],
+  "note": "В его доме (Кумарахатта) Нрисимхананда готовил три подношения; Шивананда приносил продукты, усомнился и уверился, когда Господь Сам рассказал об этом в Пури. = @shivananda-sena F49–F55."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F19",
+   "F20"
+  ],
+  "events": [
+   "ev-nrisimhananda-three-offerings"
+  ],
+  "note": "Вместе с Шиванандой ждал Господа в пауше; Нрисимхананда утешил обоих (ЧЧ Антья 2.45–52). = @jagadananda-pandita F33."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@shrikanta-sena",
+  "facts": [
+   "F18"
+  ],
+  "note": "Принёс весть, что Господь придёт в Гауду в пауше (ЧЧ Антья 2.37–44)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@nakula-brahmachari",
+  "facts": [
+   "F9"
+  ],
+  "events": [
+   "ev-nakula-brahmachari"
+  ],
+  "note": "Пара примеров милости: в Накулу Господь «вошёл» (авеша), перед Нрисимханандой «являлся» (авирбхава) (ЧЧ Ади 10.57–59; Антья 2.4–6); у ГГД 73–74 — наоборот (⚠2)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@pradyumna-mishra",
+  "facts": [
+   "F8"
+  ],
+  "note": "Тёзка; ГГД 74 («авеша — в Мишре по имени Прадьюмна») Бхактисиддханта относит к Прадьюмне Брахмачари (⚠2). = @pradyumna-mishra F4."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F7",
+   "F8",
+   "F10"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.35, 10.57, 10.58: ветвь Чайтаньи, ГГД 74 — о нём, авеша Махапрабху в нём, Пияригандж близ Калны."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F32"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Указал его царю Пратапарудре среди бенгальских преданных (ЧЧ Мадхья 11.87)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F16"
+  ],
+  "events": [
+   "ev-natashala-kanai-return"
+  ],
+  "note": "Лочан: Господь объяснил Парамананде Пури, что повернул назад от Натшалы Канаи, исполняя мысленное желание Нрисимхананды."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@nrisimha-puri",
+  "facts": [],
+  "note": "Тёзка (санньяси, ГГД 100), не путать; возможно, с ним смешан «санньяси Нрисимхананда» у Лочана (⚠5)."
+ },
+ {
+  "from": "@nrisimhananda",
+  "type": "other",
+  "who": "@narasimha-tirtha",
+  "facts": [],
+  "note": "Тёзка (санньяси, ГГД 100), не путать."
+ },
+ {
   "from": "@paramananda-puri",
   "type": "guru",
   "who": "@madhavendra-puri",

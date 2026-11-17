@@ -4370,6 +4370,10 @@
     "type": "other"
    },
    {
+    "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
     "from": "@paramananda-puri",
     "type": "companion"
    },
@@ -6099,6 +6103,10 @@
     "type": "met"
    },
    {
+    "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "deity-served"
    },
@@ -6178,6 +6186,10 @@
    "ev-avatara-kinds"
   ],
   "related_by": [
+   {
+    "from": "@nrisimhananda",
+    "type": "deity-served"
+   },
    {
     "from": "@srivasa",
     "type": "deity-served"
@@ -26869,6 +26881,10 @@
     "type": "companion"
    },
    {
+    "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
     "from": "@paramananda-puri",
     "type": "other"
    },
@@ -27962,6 +27978,10 @@
     "type": "disciple"
    },
    {
+    "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
     "from": "@pradyumna-mishra",
     "type": "other"
    },
@@ -28031,6 +28051,122 @@
    "ev-nakula-brahmachari",
    "ev-tattva-three-ways-deliverance",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в его теле проявлялся Нрисимха (ЧБ Антья 3.186, 8.12) и др.",
+  "card": "parshadas/cards/nrisimhananda.yaml",
+  "article": {
+   "ru": "parshadas/ru/nrisimhananda.md",
+   "en": "parshadas/en/nrisimhananda.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; лишь Лочан говорит, что «санньяси Нрисимхананда обрёл Вайкунтху», не закончив мысленную дорогу, — против ЧЧ (⚠5, ⚠Б6); в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F7",
+     "F16"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "other",
+    "as": "в нём — авеша Шри Гаурахари (ГГД 74 в толковании Шрилы Бхактисиддханты)",
+    "source": "ГГД 74 («Анубхашья» к ЧЧ Ади 10.35); «Гаудия-вайшнава-абхидхана»",
+    "level": "B",
+    "variants": [
+     "Буква ГГД 74 — «в Мишре по имени Прадьюмна» (B 897, T 142 относят к Прадьюмне Мишре); ЧЧ Ади 10.59, Антья 2.4–6 говорят о нём как об авирбхаве, а авешу относят к Накуле (⚠2)."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "в его теле проявлялся Нрисимха; с ним воочию беседовал Нрисимхадева",
+    "source": "ЧБ Антья 3.186, 8.12",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Господь дал ему имя «Нрисимхананда» (ЧЧ Ади 10.35; Антья 2.53); тринадцатая ветвь древа Чайтаньи; Господь являлся ему (авирбхава, ЧЧ Ади 10.59, Антья 2.4–6), вкусил три его подношения и в Пури прославил его стряпню (Антья 2.36–78)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@nrisimha",
+    "note": "Иштадева; почитатель Нрисимхи (ЧЧ Ади 10.35; Антья 2.61); Нрисимха воочию беседовал с ним и проявлялся в его теле (ЧБ Антья 8.12, 3.186)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "Одно из трёх подношений — Джаганнатхе; Господь показал неотличие (ЧЧ Антья 2.60–67)."
+   },
+   {
+    "type": "host",
+    "who": "@shivananda-sena",
+    "note": "В его доме (Кумарахатта) Нрисимхананда готовил три подношения; Шивананда приносил продукты, усомнился и уверился, когда Господь Сам рассказал об этом в Пури. = @shivananda-sena F49–F55."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Вместе с Шиванандой ждал Господа в пауше; Нрисимхананда утешил обоих (ЧЧ Антья 2.45–52). = @jagadananda-pandita F33."
+   },
+   {
+    "type": "other",
+    "who": "@shrikanta-sena",
+    "note": "Принёс весть, что Господь придёт в Гауду в пауше (ЧЧ Антья 2.37–44)."
+   },
+   {
+    "type": "other",
+    "who": "@nakula-brahmachari",
+    "note": "Пара примеров милости: в Накулу Господь «вошёл» (авеша), перед Нрисимханандой «являлся» (авирбхава) (ЧЧ Ади 10.57–59; Антья 2.4–6); у ГГД 73–74 — наоборот (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@pradyumna-mishra",
+    "note": "Тёзка; ГГД 74 («авеша — в Мишре по имени Прадьюмна») Бхактисиддханта относит к Прадьюмне Брахмачари (⚠2). = @pradyumna-mishra F4."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.35, 10.57, 10.58: ветвь Чайтаньи, ГГД 74 — о нём, авеша Махапрабху в нём, Пияригандж близ Калны."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Указал его царю Пратапарудре среди бенгальских преданных (ЧЧ Мадхья 11.87)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "Лочан: Господь объяснил Парамананде Пури, что повернул назад от Натшалы Канаи, исполняя мысленное желание Нрисимхананды."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimha-puri",
+    "note": "Тёзка (санньяси, ГГД 100), не путать; возможно, с ним смешан «санньяси Нрисимхананда» у Лочана (⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@narasimha-tirtha",
+    "note": "Тёзка (санньяси, ГГД 100), не путать."
+   }
   ],
   "related_by": [
    {
@@ -29601,6 +29737,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@nrisimhananda",
     "type": "other"
    },
    {
@@ -32455,6 +32595,10 @@
     "type": "other"
    },
    {
+    "from": "@nrisimhananda",
+    "type": "host"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -34165,6 +34309,10 @@
   ],
   "related_by": [
    {
+    "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
     "from": "@pradyumna-mishra",
     "type": "other"
    },
@@ -34202,6 +34350,10 @@
   "related_by": [
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@nrisimhananda",
     "type": "other"
    },
    {
@@ -46542,6 +46694,10 @@
     "type": "other"
    },
    {
+    "from": "@nrisimhananda",
+    "type": "other"
+   },
+   {
     "from": "@paramananda-puri",
     "type": "other"
    },
@@ -49693,6 +49849,10 @@
   "related_by": [
    {
     "from": "@bhagavan-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@nrisimhananda",
     "type": "other"
    },
    {
@@ -53178,6 +53338,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@nrisimhananda",
+    "type": "other"
    }
   ]
  },
@@ -53188,7 +53352,13 @@
   "note": "санньяси (ГГД 100: «Шри Нрисимха»; ванданы); не путать с @nrisimhananda",
   "section": "Спутники и другие лица (дополнения)",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@nrisimhananda",
+    "type": "other"
+   }
+  ]
  },
  {
   "id": "@paramananda-avadhuta",
