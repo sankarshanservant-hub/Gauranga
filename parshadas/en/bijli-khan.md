@@ -176,7 +176,7 @@ Having given the pir the name “Ramadasa,” Kaviraja Gosvami at once names the
 Ramadasa and the other Pathans were his servants. Crying ‘Krsna!’, he fell at Mahaprabhu's feet, and the Lord placed
 His holy foot on his head.” (CC, Madhya 18.207–209)
 
-The biographies tell it thus: when the prince Bijli Khan saw what fortune had come to his Pathan servant, he too said
+The biographies tell it thus: the prince Bijli Khan, beholding what fortune had come to his Pathan servant, likewise said
 “Krishna, Krishna” and fell at Mahaprabhu's feet, and the Lord showed mercy to him too. That the Lord touched his head
 with His foot they do not say; the “Charitamrita” and the “Anubhashya” say it plainly: the Lord placed His holy foot on
 his head — the highest blessing the Lord bestows on one who surrenders to Him. Srila Bhaktivinoda Thakura writes: “Bijali
@@ -234,7 +234,7 @@ honoured at every holy place. <!-- I1 I2 I3 Q3 -->
     “Vijali” and “Vijuli Khan” (after the reading বিজুলী). The biographies write “Bijli Khan,” and so do we.
 [^2]: One biography says that his father was as rich as a king, another that he was a wealthy man; yet both go on to
     call Bijli Khan a prince. We follow the “Charitamrita”: “the son of a king” (*rajara kumara*).
-[^3]: One biography says the Lord stopped because He saw that His companions had strayed from the road; according to the
+[^3]: One biography says the Lord stopped because His companions, as He noticed, had strayed from the road; according to the
     “Charitamrita” (Madhya 18.159), it was because they were tired.
 [^4]: In the verses of the “Charitamrita” Bijli Khan is called only the young son of a king whom the Pathans served
     (Madhya 18.208), while the Sanodiya brahmana proposes to go with the Pathans before the *sikdar*, an officer
