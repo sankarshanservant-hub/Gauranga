@@ -2,9 +2,9 @@
 *Девакинандана Дас · @devakinandana-dasa*
 
 ## The Singer of the Vaishnavas
-Devakinandana Dasa entered the history of the Gaudiya Vaishnavas as a singer of the Vaishnavas. His “Vaishnava-vandana,”
+Devakinandana Dasa is known above all as a singer of the Vaishnavas. His “Vaishnava-vandana,”
 a Bengali poem of obeisance in which he glorifies by name the companions of Sri Chaitanya and Nityananda and all the
-Lord's devotees, is, in the words of the biographies, famous; one of them calls it an important book, because it
+Lord's devotees, is, in the words of one of the biographies, famous; another calls it an important book, because it
 glorifies the lives of a great many Vaishnavas. Almost everything we know about him we know from his own verses and from
 the few lines later authors devoted to him. <!-- F13 I2 -->
 
@@ -76,8 +76,8 @@ is Vaishnava humility, not a confession of pride: one who sings the praises of t
 to speak of them. And yet to sing of them is the good fortune of a mute and the joy of the heart; and he begs the
 Vaishnavas to forgive his fault and make this lowly one their servant. He names the fruit of the vandana himself: all
 desires are fulfilled, the bonds of Yama are cut, and the treasure of love, rare in the world, comes within reach — in
-his image it is as if plundered, so freely do the Vaishnavas give it away to those who glorify them. Liberation and
-prema come by the Vaishnavas' grace, and with this longing, he concludes, speaks Devakinandana Dasa. <!-- F12 -->
+his image it is as if plundered, so freely do the Vaishnavas give it away to those who glorify them. Release from the bonds of Yama
+and prema come only by the Vaishnavas' grace, and with this longing, he concludes, speaks Devakinandana Dasa. <!-- F12 -->
 
 The short “Vaishnava-vandana” published in 1910 has a hundred and forty-seven couplets and ends thus:
 
@@ -105,7 +105,7 @@ Devakinandana was an outstanding composer of padas. Two of his songs about Gaura
 Lord took up weapons and slew the asuras, but now, taking up no weapon and slaying no one, He has purified the hearts of
 all. <!-- F10 -->
 
-Besides the Bengali vandana he composed in Sanskrit the “Vaishnavabhidhana” (“The Naming of the Vaishnavas”) — fifty-three
+Besides the Bengali vandana he composed in Sanskrit the “Vaishnavabhidhana” — fifty-three
 shlokas, closed by a colophon bearing the name Devakinandana Kaviraja. From it the “Bhakti-ratnakara” quotes a shloka on
 Nityananda's parents, Padmavati and Mukunda. <!-- F11 -->
 
@@ -119,16 +119,16 @@ life before he met his guru there is no reliable information.[^8] <!-- F16 -->
 ## Significance
 Devakinandana Dasa was the disciple of a companion of Nityananda and through him a member of His family; his place
 among the Vaishnavas was determined by diksha, not by birth. His life is almost hidden from us, but his voice lives on
-in the “Vaishnava-vandana”: a humble servant who called himself a sinner and a mute made it so that the names of the
-Lord's companions are repeated to this day by those who seek their grace. For the biographies he is above all a singer
+in the “Vaishnava-vandana”: a humble servant who called himself a sinner and a mute left a song in which the names of the
+Lord's companions are gathered for all who seek their grace. For the biographies he is above all a singer
 of the Vaishnavas, and in this lay his service: by glorifying the devotees he opened to others the way to that prema
 which, in his faith, only they can bestow. <!-- F12 I1 I2 -->
 
 [^1]: He should not be confused with Devananda Pandita of Navadvipa, who is a different person. The name
     “Devaki-nandana” (“the joy of Devaki”) is also borne by Krishna Himself, the son of Devaki.
-[^2]: The colophon of the Sanskrit vandana calls him “Kaviraja,” a title usually borne by physicians of the vaidya caste
-    and by poets. Only one of the biographies speaks of his caste; the others do not name it, and nothing can be
-    asserted here.
+[^2]: Only one of the biographies says that he came from a brahmana family; the others do not name his caste. And the
+    colophon of the Sanskrit vandana calls him “Kaviraja,” a title usually borne by physicians of the vaidya caste and
+    by poets. Nothing can be asserted here.
 [^3]: One of the biographies calls the first of them “Madhvacharya”; this is Madhavacharya, the husband of Ganga,
     Nityananda's daughter, not Madhvacharya, the founder of the sampradaya.
 [^4]: In one of the biographies the first line is printed (“ইষ্টদেব বন্দিত”) in a way that could be read as “praised by his
