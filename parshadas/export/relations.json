@@ -1236,6 +1236,341 @@
   "note": "«Анубхашья» к ЧЧ Ади 10.146 (Мадхурекшана; санньяси и брахмачари), к Мадхья 19.87 («Бхаттачарья» — Балабхадра); заголовок издания к Мадхья 17.16 (⚠Б3)."
  },
  {
+  "from": "@baladeva-vidyabhushana",
+  "type": "guru",
+  "who": "@radha-damodara-gosvami",
+  "facts": [
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F40",
+   "F73",
+   "F79"
+  ],
+  "note": "Дикша-гуру; учил веданте и «Шат-сандарбхе»; встреча — в Пури (M) / настоятель Шьямасундара-кунджа во Вриндаване (B) / «учёный из Канауджа» (T) (⚠3). Ошибочно считался автором «Чханда-каустубхи» (Митра, F79)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "siksha-guru",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F16",
+   "F17",
+   "F18",
+   "F25",
+   "F28",
+   "F47",
+   "F48",
+   "F85"
+  ],
+  "note": "Учил «Бхагавате» и ачинтья-бхеда-абхеде; послал в Галту; после его ухода Баладева возглавил движение во Врадже. = @vishvanatha-chakravarti F65–F77."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "siksha-guru",
+  "who": "@pitambara-dasa-vraja",
+  "facts": [
+   "F16",
+   "F19",
+   "F40",
+   "Q1"
+  ],
+  "note": "Учил «прочим шастрам» (B) / гаудийской литературе (T); «Сиддханта-ратна» 8.35 — по его милости. Не @pitambara (⚠11)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-predecessor",
+  "who": "@nayanananda-gopivallabhapura",
+  "facts": [
+   "F8",
+   "F14",
+   "F15"
+  ],
+  "note": "Парама-гуру (B 976; T 221)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-predecessor",
+  "who": "@rasikananda",
+  "facts": [
+   "F8",
+   "F13",
+   "F15",
+   "F82"
+  ],
+  "note": "Радха-Дамодара — ученик его внука Наянананды (T, B) или его самого (M) (⚠3); комментарий на «Шьямананда-шатаку». = @rasikananda F41, F51–F52."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-predecessor",
+  "who": "@shyamananda",
+  "facts": [
+   "F8",
+   "F14",
+   "F15"
+  ],
+  "note": "Его проповедь преобразила Баласор; основал Шьямасундара-кундж во Вриндаване (B)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-predecessor",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F15"
+  ]
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-predecessor",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F15"
+  ],
+  "note": "Начало его дикша-линии «в линии Нитьянанды» (T 221)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-predecessor",
+  "who": "@madhvacharya",
+  "facts": [
+   "F9",
+   "F10",
+   "F11",
+   "F12",
+   "F29",
+   "F31",
+   "F32",
+   "F57",
+   "F58",
+   "F59",
+   "F62",
+   "F63",
+   "I4"
+  ],
+  "note": "Прежде — санньяси школы таттвавады (T, M); в «Прамея-ратнавали» — девять начал Мадхвы и список ачарьев от Мадхвы до Махапрабху; связь — по Бхактисиддханте (Брахма-мадхва-гаудия) и SG («в телесном смысле») (⚠Б1)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "friend",
+  "who": "@krishnadeva-sarvabhauma",
+  "facts": [
+   "F28",
+   "F47",
+   "F50",
+   "F54"
+  ],
+  "note": "Друг и товарищ по Галте (только B; T, M, N — Баладева «один», ⚠6)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "disciple",
+  "who": "@uddhava-dasa-baladeva",
+  "facts": [
+   "F51",
+   "F52"
+  ],
+  "note": "Один из двух главных учеников (T, M); от него линия к Джаганнатхе дасу Бабаджи."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "disciple",
+  "who": "@nandana-mishra",
+  "facts": [
+   "F51",
+   "F66"
+  ],
+  "note": "«Нандана» (B, M) / «Нанда» (T) Мишра; комментарий к «Сиддханта-дарпане» (B)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "lineage-successor",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F52",
+   "F85",
+   "F87",
+   "F88"
+  ],
+  "note": "Через Уддхаву Даса (у T — двух Уддхав) и Мадхусудану Даса Бабаджи с Сурья-кунды; в песни-парампаре Бхактисиддханты — «баладева, джаганнатха»."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "deity-served",
+  "who": "@govinda-deity",
+  "facts": [
+   "F2",
+   "F22",
+   "F37",
+   "F38",
+   "F39",
+   "F41",
+   "F43",
+   "F46",
+   "F81"
+  ],
+  "note": "Говинда Рупы в Галте/Джайпуре: имя «Говинда дас»; веление (сон, гирлянда) написать «Говинда-бхашью», названную Его именем. = @rupa-gosvami F331."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "deity-served",
+  "who": "@vijaya-gopala-galta",
+  "facts": [
+   "F45"
+  ],
+  "note": "«Говорят», установил Его служение в Галте (только T 221)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@jai-singh-ii",
+  "facts": [
+   "F22",
+   "F24",
+   "F25",
+   "F26",
+   "F42",
+   "F43"
+  ],
+  "note": "Царь Джайпура, устроивший диспут; похвалил комментарий (B); повелел всем посещать арати Говинды (M) (⚠16)."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "opposed",
+  "who": "@ramanujacharya",
+  "facts": [
+   "F26",
+   "F34",
+   "F35",
+   "F42",
+   "F44"
+  ],
+  "note": "Противники в Галте — рамануджи (T, M) / рамананди (B, N) (⚠5); после спора он отказался принять их в ученики из почтения к Шри-сампрадае (M). = @ramanujacharya F55, F63."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F4",
+   "F13",
+   "F32",
+   "F46",
+   "F62",
+   "F70"
+  ],
+  "note": "«Второй Джива»; комментарий на «Шат-/Таттва-сандарбху», хвала Дживе. = @jiva-gosvami F367–F373."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F2",
+   "F64",
+   "F71",
+   "F74",
+   "F81"
+  ],
+  "note": "Комментарии на «Става-малу», «Лагху-бхагаватамриту», «Натака-чандрику»; «Гитавали» — Рупы. = @rupa-gosvami F251, F331, F332, F445–F452, F522, F568, F574."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F30",
+   "F62",
+   "F64",
+   "F81"
+  ],
+  "note": "= @sanatana-gosvami F402, F474."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F70"
+  ],
+  "note": "Толкование «друга» в «Таттва-сандарбхе» (B 619). = @gopala-bhatta F80."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@gopala-guru",
+  "facts": [
+   "F62"
+  ],
+  "note": "Список ачарьев — и по его «Садхана-паддхати» (B 981). = @gopala-guru F49."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F58",
+   "F59",
+   "F76"
+  ],
+  "note": "Стихи о милости Шри Чайтаньи к Гаджапати — в «Прамея-ратнавали», «Сиддханта-дарпане», «Сахитья-каумуди»."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F57",
+   "F58",
+   "F63",
+   "F64",
+   "F76"
+  ],
+  "note": "Поклоны и стихи Шри Чайтанье в начале и конце трудов."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F66",
+   "F67",
+   "F68",
+   "F72",
+   "F84"
+  ],
+  "note": "Изучал его труды в Пури; издал «Вишну-сахасра-наму» (1886), «Сиддханта-дарпану» (1890), «Гиту» (1891) с его комментариями. = @bhaktivinoda F58, F126."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F70",
+   "F71",
+   "F72",
+   "F85",
+   "F87",
+   "F89",
+   "F90"
+  ],
+  "note": "Шикша-парампара («баладева, джаганнатха…»); «Анубхашья» цитирует его комментарии."
+ },
+ {
+  "from": "@baladeva-vidyabhushana",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F12",
+   "F18",
+   "F69",
+   "F81",
+   "F88",
+   "I7"
+  ],
+  "note": "SG: «в телесном смысле, может быть, — член Мадхва-сампрадаи… Он — наш гуру»."
+ },
+ {
   "from": "@bhagavan-acharya",
   "type": "served-by",
   "who": "@mahaprabhu",

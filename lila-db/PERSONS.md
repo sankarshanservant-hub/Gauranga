@@ -683,7 +683,7 @@
 | @murari-pandita-utkala | Мурари Пандит (отец Гопалы Гуру) | Murari Pandita (father of Gopala Guru) | ориссийский брахман (T 201); не путать с @murari-gupta |
 | @adikanda-dasa | Адиканда Дас | Adikanda Dasa | составитель рукописи «Гуру-пранали» линии Гопалы Гуру (B 278–279) |
 | @radhavallabha-dasa-vrindavana | Радхаваллабха Дас (из линии Гопалы Гуру) | Radhavallabha Dasa (of Gopala Guru's line) | старый вайшнав в кундже Дживы во Вриндаване, дал Манохаре Дасу рукопись Гопалы Гуру («Анурага-валли» 8.15–18); не путать с @radhavallabha-chaudhuri |
-| @baladeva-vidyabhushana | Баладева Видьябхушана | Baladeva Vidyabhushana | автор «Говинда-бхашьи» и «Прамея-ратнавали»; не путать с @baladeva-mahiti |
+| @baladeva-vidyabhushana | Баладева Видьябхушана | Baladeva Vidyabhushana | автор «Говинда-бхашьи» и «Прамея-ратнавали»; не путать с @baladeva-mahiti · {карточка: гуру — Радха-Дамодара Госвами; происхождение — Балешвар (Баласор); уход — по нашему календарю — Гаура-дашами Тривикрама-масы} |
 | @gopinatha-shrikhanda | Гопинатха — Божество в Шрикханде | Gopinatha, the Deity of Shrikhanda | домашнее Божество Мукунды Даса; мальчик Рагхунандана накормил Его ладду, половина ладду — в руке Божества (B 287–288; T 71; M 142–144) |
 | @uddhava-dasa-padakarta | Уддхава Дас, падакарта | Uddhava Dasa, the song-poet | автор пад о ладду Рагхунанданы и о встрече Рагхунанданы с Абхирамой (B 287–288; T 71; M 142); по «Гаудия-вайшнава-абхидхане» (T 97) поэт Уддхава Дас — Кришнаканта Маджумдар из Тейаграма, ученик Радхамоханы Тхакура; не путать с @uddhava-dasa-gadadhara, @uddhava-dasa-vraja |
 | @vamshi-raya-shrikhanda | Вамши Рай (Шрикханда) | Vamshi Raya (of Shrikhanda) | сын Канаи Тхакура, внук Рагхунанданы (B 290; M pdf 170 — «Вамшивадана»); не путать с @vamshivadana |
@@ -820,3 +820,7 @@
 | @krishnapriya-radhakunda | Кришнаприя Тхакурани (Радха-кунда) | Krishnapriya Thakurani (of Radha-kunda) | дочь Вишнуприи, дочери @ganganarayana-chakravarti; хранила Говардхана-шилу Рагхунатхи Даса («Нароттама-виласа», прил.); не путать с @krishnapriya-srinivasa |
 | @gokulananda-deity | Гокулананда — Божество Вишванатхи Чакраварти | Gokulananda, Vishvanatha Chakravarti's Deity | Радха-кунда (B 972) / Вриндаван (T 220); не путать с @gokulananda (Чакраварти) |
 | @govardhana-shila-raghunatha | Говардхана-шила Рагхунатхи Даса | the Govardhana-shila of Raghunatha Dasa | дана Господом @raghunatha-dasa (ЧЧ Антья 6); ныне — в храме Гокулананды (B 972) |
+| @pitambara-dasa-vraja | Питамбара (Питамбар Дас), учитель Баладевы | Pitambara (Pitambara Dasa), Baladeva's teacher | XVIII в.; учитель @baladeva-vidyabhushana («Сиддханта-ратна» 8.35; B 976–977; T 221); не путать с @pitambara (ГГД 168) |
+| @uddhava-dasa-baladeva | Уддхава Дас (ученик Баладевы) | Uddhava Dasa (Baladeva's disciple) | ученик @baladeva-vidyabhushana; от него линия к @jagannatha-dasa-babaji (T 221–222; M 10, 60); не путать с @uddhava-dasa-vraja, @uddhava-dasa-gadadhara |
+| @nandana-mishra | Нандана (Нанда) Мишра | Nandana (Nanda) Mishra | ученик @baladeva-vidyabhushana, комментатор «Сиддханта-дарпаны» (B 984; T 221; M 10) |
+| @vijaya-gopala-galta | Виджая-Гопала — Божество в Галте | Vijaya Gopala, the Deity of Galta | по преданию, служение установил @baladeva-vidyabhushana (T 221) |

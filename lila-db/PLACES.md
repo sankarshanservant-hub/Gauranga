@@ -368,3 +368,5 @@
 | #shveta-ganga | Швета-ганга | Shveta-ganga | пруд в Пури, у Швета-мадхавы и Матсья-мадхавы, между Акшая-ватой и морем («Уткала-кханда» по B 966, T 217); здесь Ганга пришла к @gangamata-gosvamini |
 | #gangamata-matha | Гангамата-матх (дом Сарвабхаумы) | Gangamata Matha (house of Sarvabhauma) | Пури; прежний дом @sarvabhauma («Анубхашья» к ЧЧ Мадхья 6.8: к югу от храма, Балукханда, у Маркандея-сараса; B 965–967, ГВА — у #shveta-ganga); матх @gangamata-gosvamini, Божество @rasika-raya-gangamata |
 | #devagrama | Деваграм | Devagrama | округ Надия; место явления @vishvanatha-chakravarti (B 972; T 219; M 254) |
+| #baleshvara | Балешвар (Баласор) | Baleshvara (Balasore) | Орисса; округ, где близ Ремуны родился @baladeva-vidyabhushana (B 976; T 220; M 3) |
+| #amber | Амбер (Амер) | Amber (Amer) | старая столица Джайпурского княжества, близ Галты (B 989, 994) |

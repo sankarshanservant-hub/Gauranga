@@ -4182,6 +4182,10 @@
     "type": "served-by"
    },
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@bhagavan-acharya",
     "type": "served-by"
    },
@@ -6495,6 +6499,10 @@
    "ev-virachandra-jiva-vrindavana"
   ],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "deity-served"
+   },
    {
     "from": "@bhugarbha",
     "type": "deity-served"
@@ -21825,6 +21833,10 @@
   ],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@bhavananda-raya",
     "type": "ruler-of"
    },
@@ -22804,6 +22816,10 @@
     "type": "guest"
    },
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
    },
@@ -23702,6 +23718,10 @@
   "related_by": [
    {
     "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
+   {
+    "from": "@baladeva-vidyabhushana",
     "type": "other"
    },
    {
@@ -29032,6 +29052,10 @@
     "type": "companion"
    },
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -30016,6 +30040,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
    {
     "from": "@bhugarbha",
     "type": "companion"
@@ -37672,6 +37700,10 @@
   ],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "companion"
    },
@@ -41415,6 +41447,10 @@
   ],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
    },
@@ -41520,6 +41556,10 @@
    "ev-narottama-sacred-thread"
   ],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-predecessor"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -42334,6 +42374,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-predecessor"
+   },
    {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
@@ -46135,6 +46179,10 @@
     "type": "other"
    },
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-ballabha-tirtha",
     "type": "lineage-predecessor"
    },
@@ -46307,6 +46355,10 @@
    },
    {
     "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
+   {
+    "from": "@baladeva-vidyabhushana",
     "type": "other"
    },
    {
@@ -46641,6 +46693,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
    },
@@ -46957,6 +47013,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "siksha-guru"
+   },
    {
     "from": "@bhakti-pramoda-puri",
     "type": "other"
@@ -54514,6 +54574,10 @@
   ],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "lineage-predecessor"
    },
@@ -56722,6 +56786,10 @@
     "type": "met"
    },
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -58639,6 +58707,10 @@
   ],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-ballabha-tirtha",
     "type": "other"
    },
@@ -59301,6 +59373,253 @@
   "section": "Спутники и другие лица (дополнения)",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Радха-Дамодара Госвами; происхождение — Балешвар (Баласор); уход — по нашему календарю — Гаура-дашами Тривикрама-масы",
+  "card": "parshadas/cards/baladeva-vidyabhushana.yaml",
+  "article": {
+   "ru": "parshadas/ru/baladeva-vidyabhushana.md",
+   "en": "parshadas/en/baladeva-vidyabhushana.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1680-е?",
+    "tithi": "",
+    "place": "#baleshvara",
+    "conf": "B — «по-видимому, 1680-е» (вывод автора), деревня близ Ремуны, «говорят»; T — XVII в., вероятно округ Баласор близ Ремуны; M — начало XVIII в., Балешвар (⚠1); дня явления нет и в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17)",
+    "facts": [
+     "F5",
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "1768?",
+    "tithi": "по нашему календарю — Гаура-дашами Тривикрама-масы (в день Ганга-дашахары; 24.06.2026); B, T, M титхи не дают",
+    "place": "",
+    "conf": "год: M — 1768; B — после 1764, около 90 лет, и «до 1770-х» (B 987, опечатка «XVII в.»); T — после 1757 (⚠9); место не названо",
+    "facts": [
+     "F53",
+     "F54",
+     "F55",
+     "F56"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Говинда-бхашья» — комментарий на «Веданта-сутру» по велению Говинды; подкомментарий к ней",
+    "facts": [
+     "F37",
+     "F40",
+     "F41",
+     "F61",
+     "F62",
+     "F63",
+     "I1",
+     "I2"
+    ]
+   },
+   {
+    "title": "«Сиддханта-ратна» («Бхашья-питхака») и комментарий к ней («Сукшма», T)",
+    "facts": [
+     "F19",
+     "F37",
+     "F64",
+     "F65"
+    ]
+   },
+   {
+    "title": "«Прамея-ратнавали» — девять прамей и преемство от Мадхвы",
+    "facts": [
+     "F57",
+     "F58",
+     "F59"
+    ]
+   },
+   {
+    "title": "«Сиддханта-дарпана»",
+    "facts": [
+     "F66"
+    ]
+   },
+   {
+    "title": "«Веданта-шьямантака» (T, M; авторство — ⚠17)",
+    "facts": [
+     "F73"
+    ]
+   },
+   {
+    "title": "комментарии: десять упанишад, «Гопала-тапани», «Гита-бхушана», «Вайшнава-нандини» (Бхагаватам), «Шат-/Таттва-сандарбха», «Намартха-судха» (Вишну-сахасра-нама), «Саранга-рангада» (Лагху-бхагаватамрита)",
+    "facts": [
+     "F67",
+     "F68",
+     "F69",
+     "F70",
+     "F71",
+     "F72"
+    ]
+   },
+   {
+    "title": "комментарии на книги Рупы: «Става-мала-вибхушана» (1764), «Натака-чандрика»; на «Шьямананда-шатаку»",
+    "facts": [
+     "F80",
+     "F81",
+     "F82"
+    ]
+   },
+   {
+    "title": "грамматика, поэтика, поэзия: «Вьякарана-каумуди», «Сахитья-каумуди» с «Кришнанандини», «Чандралока», «Чханда-каустубха», «Кавья-каустубха», «Пада-каустубха», «Айшварья-кадамбини»",
+    "facts": [
+     "F74",
+     "F75",
+     "F76",
+     "F77",
+     "F78",
+     "F79",
+     "F80",
+     "F82"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@radha-damodara-gosvami",
+    "note": "Дикша-гуру; учил веданте и «Шат-сандарбхе»; встреча — в Пури (M) / настоятель Шьямасундара-кунджа во Вриндаване (B) / «учёный из Канауджа» (T) (⚠3). Ошибочно считался автором «Чханда-каустубхи» (Митра, F79)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@vishvanatha-chakravarti",
+    "note": "Учил «Бхагавате» и ачинтья-бхеда-абхеде; послал в Галту; после его ухода Баладева возглавил движение во Врадже. = @vishvanatha-chakravarti F65–F77."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@pitambara-dasa-vraja",
+    "note": "Учил «прочим шастрам» (B) / гаудийской литературе (T); «Сиддханта-ратна» 8.35 — по его милости. Не @pitambara (⚠11)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@nayanananda-gopivallabhapura",
+    "note": "Парама-гуру (B 976; T 221)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@rasikananda",
+    "note": "Радха-Дамодара — ученик его внука Наянананды (T, B) или его самого (M) (⚠3); комментарий на «Шьямананда-шатаку». = @rasikananda F41, F51–F52."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@shyamananda",
+    "note": "Его проповедь преобразила Баласор; основал Шьямасундара-кундж во Вриндаване (B)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@hridaya-chaitanya"
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@gauridasa-pandita",
+    "note": "Начало его дикша-линии «в линии Нитьянанды» (T 221)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@madhvacharya",
+    "note": "Прежде — санньяси школы таттвавады (T, M); в «Прамея-ратнавали» — девять начал Мадхвы и список ачарьев от Мадхвы до Махапрабху; связь — по Бхактисиддханте (Брахма-мадхва-гаудия) и SG («в телесном смысле») (⚠Б1)."
+   },
+   {
+    "type": "friend",
+    "who": "@krishnadeva-sarvabhauma",
+    "note": "Друг и товарищ по Галте (только B; T, M, N — Баладева «один», ⚠6)."
+   },
+   {
+    "type": "disciple",
+    "who": "@uddhava-dasa-baladeva",
+    "note": "Один из двух главных учеников (T, M); от него линия к Джаганнатхе дасу Бабаджи."
+   },
+   {
+    "type": "disciple",
+    "who": "@nandana-mishra",
+    "note": "«Нандана» (B, M) / «Нанда» (T) Мишра; комментарий к «Сиддханта-дарпане» (B)."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Через Уддхаву Даса (у T — двух Уддхав) и Мадхусудану Даса Бабаджи с Сурья-кунды; в песни-парампаре Бхактисиддханты — «баладева, джаганнатха»."
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-deity",
+    "note": "Говинда Рупы в Галте/Джайпуре: имя «Говинда дас»; веление (сон, гирлянда) написать «Говинда-бхашью», названную Его именем. = @rupa-gosvami F331."
+   },
+   {
+    "type": "deity-served",
+    "who": "@vijaya-gopala-galta",
+    "note": "«Говорят», установил Его служение в Галте (только T 221)."
+   },
+   {
+    "type": "other",
+    "who": "@jai-singh-ii",
+    "note": "Царь Джайпура, устроивший диспут; похвалил комментарий (B); повелел всем посещать арати Говинды (M) (⚠16)."
+   },
+   {
+    "type": "opposed",
+    "who": "@ramanujacharya",
+    "note": "Противники в Галте — рамануджи (T, M) / рамананди (B, N) (⚠5); после спора он отказался принять их в ученики из почтения к Шри-сампрадае (M). = @ramanujacharya F55, F63."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "«Второй Джива»; комментарий на «Шат-/Таттва-сандарбху», хвала Дживе. = @jiva-gosvami F367–F373."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Комментарии на «Става-малу», «Лагху-бхагаватамриту», «Натака-чандрику»; «Гитавали» — Рупы. = @rupa-gosvami F251, F331, F332, F445–F452, F522, F568, F574."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "= @sanatana-gosvami F402, F474."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta",
+    "note": "Толкование «друга» в «Таттва-сандарбхе» (B 619). = @gopala-bhatta F80."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "note": "Список ачарьев — и по его «Садхана-паддхати» (B 981). = @gopala-guru F49."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Стихи о милости Шри Чайтаньи к Гаджапати — в «Прамея-ратнавали», «Сиддханта-дарпане», «Сахитья-каумуди»."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Поклоны и стихи Шри Чайтанье в начале и конце трудов."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Изучал его труды в Пури; издал «Вишну-сахасра-наму» (1886), «Сиддханта-дарпану» (1890), «Гиту» (1891) с его комментариями. = @bhaktivinoda F58, F126."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Шикша-парампара («баладева, джаганнатха…»); «Анубхашья» цитирует его комментарии."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-maharaja",
+    "note": "SG: «в телесном смысле, может быть, — член Мадхва-сампрадаи… Он — наш гуру»."
+   }
+  ],
   "related_by": [
    {
     "from": "@gopala-bhatta",
@@ -59837,6 +60156,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@rasikananda",
     "type": "relative"
    }
@@ -59851,6 +60174,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "guru"
+   },
    {
     "from": "@rasikananda",
     "type": "lineage-successor"
@@ -60710,6 +61037,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "opposed"
+   },
    {
     "from": "@madhvacharya",
     "type": "other"
@@ -62630,6 +62961,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@baladeva-vidyabhushana",
+    "type": "friend"
+   },
+   {
     "from": "@vishvanatha-chakravarti",
     "type": "disciple"
    }
@@ -62644,6 +62979,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "other"
+   },
    {
     "from": "@vishvanatha-chakravarti",
     "type": "other"
@@ -62721,6 +63060,66 @@
   "related_by": [
    {
     "from": "@vishvanatha-chakravarti",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@pitambara-dasa-vraja",
+  "ru": "Питамбара (Питамбар Дас), учитель Баладевы",
+  "en": "Pitambara (Pitambara Dasa), Baladeva's teacher",
+  "note": "XVIII в.; учитель @baladeva-vidyabhushana («Сиддханта-ратна» 8.35; B 976–977; T 221); не путать с @pitambara (ГГД 168)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "siksha-guru"
+   }
+  ]
+ },
+ {
+  "id": "@uddhava-dasa-baladeva",
+  "ru": "Уддхава Дас (ученик Баладевы)",
+  "en": "Uddhava Dasa (Baladeva's disciple)",
+  "note": "ученик @baladeva-vidyabhushana; от него линия к @jagannatha-dasa-babaji (T 221–222; M 10, 60); не путать с @uddhava-dasa-vraja, @uddhava-dasa-gadadhara",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@nandana-mishra",
+  "ru": "Нандана (Нанда) Мишра",
+  "en": "Nandana (Nanda) Mishra",
+  "note": "ученик @baladeva-vidyabhushana, комментатор «Сиддханта-дарпаны» (B 984; T 221; M 10)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@vijaya-gopala-galta",
+  "ru": "Виджая-Гопала — Божество в Галте",
+  "en": "Vijaya Gopala, the Deity of Galta",
+  "note": "по преданию, служение установил @baladeva-vidyabhushana (T 221)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@baladeva-vidyabhushana",
     "type": "deity-served"
    }
   ]
