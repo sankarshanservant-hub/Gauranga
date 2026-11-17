@@ -175,7 +175,7 @@ B — вероятно, больше сотни).
 | @subuddhi-raya (075) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @raghupati-upadhyaya (076) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @govinda-kaviraja (077) | ✓ | ✓ (PDF) | — |
-| @devakinandana-dasa (078) | ✓ | ✓ (PDF) | — |
+| @devakinandana-dasa (078) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhagavan-acharya (079) | ✓ | ✓ (PDF) | — |
 | @kalidasa (080) | ✓ | ✓ (PDF) | — |
 
