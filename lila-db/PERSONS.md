@@ -803,3 +803,4 @@
 | @harerama-dasa-babaji | Харерама дас Бабаджи | Harerama Dasa Babaji | служитель шрипата @kaliya-krishnadasa в Акаихате во времена «Анубхашьи» (к ЧЧ Ади 11.37); B 932 — ныне его преемник |
 | @mahamaya-govinda | Махамая (жена Говинды Кавираджи) | Mahamaya (Govinda Kaviraja's wife) | милость ей оказал Шриниваса («Према-виласа» 20.15–16; B 944); не путать с @durga (Махамайя) |
 | @ghanashyama-kaviraja | Гханашьяма (внук Говинды Кавираджи) | Ghanashyama (Govinda Kaviraja's grandson) | сын @divyasimha-kaviraja (B 944); не путать с @narahari-chakravarti (Гханашьяма Дас) |
+| @madana-gopala-bhedo | Мадана-гопала — Божество Джхаду Тхакура (Бхедо) | Madana-gopala, the Deity of Jhadu Thakura (Bhedo) | Божество @jhadu-thakura в #bhedo; во времена «Анубхашьи» Ему служил рамаят Рамапрасад дас («Анубхашья» к ЧЧ Антья 16.5–14; T 80); B 955 ошибочно называет Его Божеством @kalidasa; не путать с @madana-gopala-deity, @madana-gopala-mamgachi |
