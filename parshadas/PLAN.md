@@ -186,7 +186,7 @@ B — вероятно, больше сотни).
 | @vishvanatha-chakravarti (086) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @baladeva-vidyabhushana (087) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @uddhava-dasa-gadadhara (088) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @nrisimhananda (090) | ✓ | в работе | — |
+| @nrisimhananda (090) | ✓ | ✓ (PDF) | — |
 | @shuklambara (091) | ✓ | в работе | — |
 | @prataparudra (092) | ✓ | в работе | — |
 

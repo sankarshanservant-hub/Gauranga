@@ -16,7 +16,7 @@ And once more, in the Antya-lila:
 So the original sources call him: Vrindavana Dasa — Pradyumna Brahmachari; Murari Gupta — now Nrisimhananda, now
 Pradyumna Brahmachari; Kavi Karnapura in his drama “Chaitanya-chandrodaya” calls him “the famous Sri
 Nrisimhananda-brahmachari, formerly known as Pradyumna-brahmachari,” says that the Lord Himself gave him the new name for
-his worship of Nrisimha, and explains the name in two ways: “the joy of Nrisimha” and “he who gives joy to Nrisimha”
+his worship of Nrisimha, and explains the name in two ways: “the joy of Nrisimha” and “he who rejoices in Nrisimha”
 (act 9). Srila Bhaktisiddhanta Sarasvati writes in the “Anubhashya”: “Pradyumna, or Nrisimha Brahmachari.” Nrisimha was
 his chosen Deity (*ishta-deva*); the “Charitamrita” says so plainly — “his worshipful Deity, Nrisimha” (Antya 2.61).
 <!-- F1 F2 -->
@@ -86,7 +86,7 @@ Kaviraja again recalls “how Nrisimhananda decorated the road for Him” (Madhy
 Other original sources also remember this road. Murari Gupta writes that Nrisimhananda, absorbed in thought, paved the
 way to Madhupuri with gold, silver, coral and gems, spread it with the finest Chinese silks and with flowers without
 stems, and adorned it with ponds of lotuses and water lilies, with jewelled steps, cygnets and water hens; bringing the
-road to Krishna's “place of dancing,” he enacted there Krishna's forest pastimes, and then, laughing and dancing,
+road to the “place of dancing,” he enacted there Krishna's forest pastimes, and then, laughing and dancing,
 announced to the devotees that from there the Lord would turn back. The devotees walked around him and fell prostrate
 before him, and he lovingly bowed to them in return (Murari Gupta's “Karcha,” 3.17.6–13); and later Murari recalls “the
 excellent road laid down by Sri Nrisimhananda” (4.25.30). Govinda-deva in the “Gaura-krishnodaya” says that the Lord
