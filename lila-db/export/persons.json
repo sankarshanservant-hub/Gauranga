@@ -37639,7 +37639,8 @@
    },
    {
     "type": "other",
-    "who": "@uddhava-dasa-gadadhara"
+    "who": "@uddhava-dasa-vraja",
+    "note": "Среди провожавших повозку с книгами (БР 6.514); вриндаванский Уддхава, не из ветви Гададхары (lila-db/review/tags-2026-10-24, п. 7)."
    },
    {
     "type": "other",
@@ -47195,10 +47196,6 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
-   },
-   {
-    "from": "@jiva-gosvami",
-    "type": "other"
    }
   ]
  },
@@ -61534,6 +61531,10 @@
    "ev-gopala-mathura-vitthaleshvara"
   ],
   "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
    {
     "from": "@srinivasa-acharya",
     "type": "other"

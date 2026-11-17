@@ -85,7 +85,7 @@ relations:
   - {type: other, who: "@vrindavana-dasa", facts: [F98, F383]}
   - {type: other, who: "@murari-gupta", facts: [F44, F383]}
   - {type: other, who: "@subuddhi-raya", facts: [F47]}
-  - {type: other, who: "@uddhava-dasa-gadadhara", facts: [F172]}
+  - {type: other, who: "@uddhava-dasa-vraja", facts: [F172], note: "Среди провожавших повозку с книгами (БР 6.514); вриндаванский Уддхава, не из ветви Гададхары (lila-db/review/tags-2026-10-24, п. 7)."}
   - {type: other, who: "@vira-hambira", facts: [F100, F173, F174], events: [ev-books-stolen-vana-vishnupura, ev-vira-hambira-conversion]}
   - {type: other, who: "@gadadhara-dasa", facts: [F85]}
   - {type: deity-served, who: "@radha-damodara-deity", facts: [F86, F87, F146, F183, F336, F381], note: "Явлено Рупой и отдано Дживе (БР); изначальное Божество ныне в Джайпуре, во Вриндаване — пракаша (B) / поклоняются во Вриндаване (T)."}
