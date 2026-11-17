@@ -6,33 +6,35 @@ In Puri, at the abode of Gangamata Gosvamini on the bank of the Shvetaganga, Sri
 The biographies call Him Sri Rasika Raya, Sri Rasikaraya and, reverently, Sri Rasika Raya Jiu. Today in Gangamata's matha He
 is served together with Sri Radha, and the Divine Couple is known as Sri Sri Radha-Rasikaraya. He is Krishna Himself: when
 Gangamata first saw Him, she received the darshan of Sri Govinda, and when she heard His word in a dream, she marvelled that
-Sri Hari Himself wished to eat from her hands[^1]. According to one of the biographies, Gangamata's matha stands where the
-house of Sarvabhauma Bhattacharya once was. <!-- F1 F2 F29 -->
+Sri Hari Himself wished to eat from her hands[^1]. Gangamata's matha stands where the house of Sarvabhauma Bhattacharya once
+was: so the biographies say, and Srila Bhaktisiddhanta Sarasvati says the same in the “Anubhashya”[^2]. <!-- F1 F2 F29 -->
 
-All that is known of Him took place after Sri Chaitanya's disappearance, in the days of Gangamata Gosvamini. Neither the
-“Chaitanya-charitamrita” nor any other primary source speaks of Him; the story has been preserved by the biographies of
-Gangamata and by the tradition of her matha.
+All that is known of Him took place after Sri Chaitanya's disappearance, in the days of Gangamata Gosvamini. The
+“Chaitanya-charitamrita” itself and the other primary sources do not speak of Him. But Srila Bhaktisiddhanta, in his
+“Anubhashya” on the “Chaitanya-charitamrita”, listing the spiritual succession of the Gangamata Matha, writes of Gangamata
+that, having brought the Deity Sri Rasikaraya from Krishna Mishra of Jaipur, she opened His service in Purushottama, in the
+house of Sarvabhauma[^3]. The detailed story of Him has been preserved by the biographies of Gangamata. <!-- F30 -->
 
 ## In a brahmana's house in Jaipur
 Sri Rasika Raya formerly resided in Jaipur, in Rajasthan, in the house of a brahmana named Sri Chandra Sharma, a pious devotee.
-But the brahmana was poor and could not serve Him as was fitting[^2]. <!-- F3 F4 F5 -->
+But the brahmana was poor and could not serve Him as was fitting[^4]. <!-- F3 F4 F5 -->
 
 ## Jagannatha's command
-Then Sri Jagannatha appeared to the brahmana in a dream and told him to hand Rasika Raya over to Gangamata. “Rasika Raya is not
+Then Sri Jagannatha came to the brahmana in a dream and bade him hand Rasika Raya over to Gangamata. “Rasika Raya is not
 served properly in your house,” the Lord said. “Take Him quickly to Gangamata, who lives on the bank of the Shvetaganga in Sri
-Purushottama-kshetra; otherwise misfortune will befall you”[^3]. <!-- F6 -->
+Purushottama-kshetra; otherwise misfortune will befall you”[^5]. <!-- F6 -->
 
 Having received the Lord's command, the brahmana set out at once, taking Rasika Raya with him, and came to Sri Kshetra. There he
-sought out Gangamata, came to her door and asked her to accept the service of Rasika Raya[^4]. <!-- F7 F8 -->
+sought out Gangamata, came to her door and asked her to accept the service of Rasika Raya[^6]. <!-- F7 F8 -->
 
 ## The refusal and the night in the tulasi grove
 Gangamata was overjoyed to see the Deity. But when she had heard the brahmana out, she declined: “I am a beggar woman and live on
-alms (*madhukari*). How can I serve Him? Take Him back — do not make me an offender”[^5]. <!-- F9 F10 -->
+alms (*madhukari*). How can I serve Him? Take Him back — do not make me an offender”[^7]. <!-- F9 F10 -->
 
-The brahmana did not know what to do. He pondered for a long time, and at last, at night, he left Sri Rasika Raya in the tulasi
+The brahmana was at a loss. He pondered for a long time, and at last, at night, he left Sri Rasika Raya in the tulasi
 grove by her abode and went away — he all but fled. That same night Rasika Raya Himself came to Gangamata in a dream: “I have
 come here to accept your service. The brahmana left Me in the tulasi grove and went away. I have not eaten anything yet — feed
-Me”[^6]. <!-- F11 F12 -->
+Me”[^8]. <!-- F11 F12 -->
 
 ## The first night of service
 The dream filled her with wonder. Thrilling with love, she bathed in haste, went to the tulasi grove and saw Sri Rasika Raya
@@ -41,7 +43,7 @@ Him bhoga. And Gangamata saw the hungry Rasika Raya swiftly partake of all she h
 spread a new cloth and laid the Thakura down to rest. <!-- F13 F14 F15 F16 -->
 
 In the morning the devotees came. Seeing Sri Rasika Raya, they were astonished. From then on Gangamata, with great love, cooked
-for Him rice, vegetable dishes (*vyanjana*), cakes (*pitha*) and drinks (*pana*) and fed Him[^7]. His service took up four
+for Him rice, vegetable dishes (*vyanjana*), cakes (*pitha*) and drinks (*pana*) and fed Him[^9]. His service took up four
 praharas of her every day. <!-- F17 F18 F19 -->
 
 ## Service on alms
@@ -59,8 +61,9 @@ might go with His name on her lips. This was not weariness of life but longing f
 about anything. Place My service in the hands of a worthy disciple and come to My abode (*dhama*).” <!-- F24 F25 -->
 
 Then Gangamata entrusted the service of Rasika Raya to a quiet, peaceful devotee, Banamali Dasa; by Rasika Raya's words, he
-was her disciple[^8]. She herself, contemplating the feet of Sri Rasika Raya and His beauty, departed from this world and entered
-the eternal lila at the age of one hundred and twenty, in 1721, on the ashvina-shukla-ekadashi[^9]. <!-- F26 F27 -->
+was her disciple[^10]. In the succession of the matha given by Srila Bhaktisiddhanta, Sri Vanamali is named immediately
+after Gangamata — in all likelihood this is he[^11]. She herself, contemplating the feet of Sri Rasika Raya and His beauty, departed from this world and entered
+the eternal lila at the age of one hundred and twenty, in 1721, on the ashvina-shukla-ekadashi[^12]. <!-- F26 F27 F31 -->
 
 ## In Gangamata's matha today
 Today five Divine Couples reside in Gangamata's matha: Sri Sri Radha-Rasikaraya, Radha-Shyamasundara, Radha-Madana-mohana,
@@ -78,26 +81,35 @@ extended her service; and when the time came, He called her to His own abode. <!
 [^1]: “Govinda” here is simply a name of Krishna. This is not Sri Govindadeva of Rupa Gosvami, although Sri Rasika Raya did come
     from Jaipur, where Govindadeva now resides. Nor should He be confused with Sri Rasikaraya, the Deity of Chandrashekhara
     Vaidya of Shrikhanda.
-[^2]: So in the detailed account of Sri Rasika Raya. According to other accounts, including one of the biographies, the brahmana
+[^2]: The biographies place Gangamata's abode on the bank of the Shvetaganga; Srila Bhaktisiddhanta, in the “Anubhashya” on
+    Madhya 6.8, writes that Sarvabhauma lived south of the Sri Mandira, in Balukhanda, on the bank of Markandeya-saras, and
+    that this house is now known as the Gangamata Matha.
+[^3]: “Anubhashya” on Adi 8.59–60. The biographies tell it otherwise: they name Sri Rasika Raya's former servant as the
+    brahmana Chandra Sharma, and say that the brahmana himself brought the Deity to Gangamata. Where exactly Gangamata
+    received the Deity, Srila Bhaktisiddhanta does not specify.
+[^4]: So in the detailed account of Sri Rasika Raya. According to other accounts, including one of the biographies, the brahmana
     had committed an offence in service (*seva-aparadha*), and for that reason he was left without descendants. The sources
     speak here of the consequences of an offence in the service of the Deity, not of a worldly curse; the brahmana's piety is
     stressed all the same.
-[^3]: So in the detailed account of Sri Rasika Raya. According to other accounts, Jagannatha told the brahmana: “Give the
+[^5]: So in the detailed account of Sri Rasika Raya. According to other accounts, Jagannatha told the brahmana: “Give the
     service of this Deity to Gangamata, and your offence and fear will go”; or: thus he would be freed from the consequences
     of his offences.
-[^4]: According to one account, the brahmana brought Rasika Raya together with Sri Radharani and wished to entrust Gangamata
+[^6]: According to one account, the brahmana brought Rasika Raya together with Sri Radharani and wished to entrust Gangamata
     with the service of both Deities; the others say not a word about Her. Today in the matha They are served as the Divine
     Couple — Sri Sri Radha-Rasikaraya.
-[^5]: According to other accounts, Gangamata declined because she could not maintain service on a royal scale (*raja-seva*).
-[^6]: Other accounts are briefer: Rasika Raya Himself told her in a dream to accept Him and serve Him. The dreams in this story
+[^7]: According to other accounts, Gangamata declined because she could not maintain service on a royal scale (*raja-seva*).
+[^8]: Other accounts are briefer: Rasika Raya Himself told her in a dream to accept Him and serve Him. The dreams in this story
     are not visions that merely “seemed” to be, but His will and His direct word, just as was Jagannatha's command to the
     brahmana.
-[^7]: According to other accounts, as bidden in the dream, Gangamata in great joy held a festival of the appearance
+[^9]: According to other accounts, as bidden in the dream, Gangamata in great joy held a festival of the appearance
     (*prakatya-mahotsava*) of the Deities; in the detailed account of Sri Rasika Raya, instead of a festival there are the night
     feeding and the devotees' astonishment in the morning.
-[^8]: The source does not say outright that Banamali Dasa was her disciple; this follows from Rasika Raya's instruction to hand
+[^10]: The source does not say outright that Banamali Dasa was her disciple; this follows from Rasika Raya's instruction to hand
     the service over to a worthy disciple.
-[^9]: According to the matha itself, Gangamata appeared in 1601, on the jyeshtha-shukla-dashami, and entered the eternal lila in
+[^11]: “Anubhashya” on Adi 8.59–60: in this list Gangamata is followed by Sri Vanamali, then Bhagavan Dasa, Madhusudana Dasa
+    and others, down to the present mahanta of the matha. That Vanamali is the same Banamali Dasa is not said outright; it
+    follows from the name (in Bengali “Banamali” and “Vanamali” are spelt alike) and from his place immediately after her.
+[^12]: According to the matha itself, Gangamata appeared in 1601, on the jyeshtha-shukla-dashami, and entered the eternal lila in
     1721; this agrees with her hundred and twenty years. The Vaishnava calendar of Sri Chaitanya Saraswat Math marks her
     appearance day — the Gaura-dashami of the month of Trivikrama (jyeshtha-shukla-dashami); the day of her departure (the
     Gaura-ekadashi of the month of Padmanabha) is not in the calendar.
