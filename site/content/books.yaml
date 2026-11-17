@@ -334,14 +334,14 @@ bhakti-ratnakara:
     - "Язык и форма: бенгальская поэма в 15 волнах (тарангах) со множеством санскритских цитат"
     - "Издания: 1888 (Берхампур), 1912–1913 (Муршидабад) — основа перевода; Гаудия-миссия"
     - "Место в традиции: поздняя, но широко принятая традицией и Гаудия Матхом история Госвами и их преемников (B)"
-    - "Наш текст: таранги 1–4"
+    - "Наш текст: полный перевод — 15 таранг и стихотворное содержание книги (Грантханувада)"
   facts_en:
     - "Author: Narahari Chakravarti (Ghanashyama Dasa), son of Jagannatha Chakravarti, a disciple of Vishvanatha Chakravarti; he served as cook of Govinda-deva in Vrindavana"
     - "Date: 18th century"
     - "Language and form: Bengali poem in 15 waves (tarangas) with many Sanskrit quotations"
     - "Editions: 1888 (Berhampur), 1912–1913 (Murshidabad) — the basis of the translation; Gaudiya Mission"
     - "Place in the tradition: a late but widely accepted (by the tradition and the Gaudiya Math) history of the Gosvamis and their successors (B)"
-    - "Our text: tarangas 1–4"
+    - "Our text: complete translation — 15 tarangas and the versified table of contents (Granthanuvada)"
   about_ru:
     - "«Океан сокровищ преданности» — огромная летопись: жизнь шести Госвами, Шринивасы, Нароттамы и Шьямананды, их странствия, описания парикрамы по Враджу и Навадвипе с преданиями каждого места. Шрила Бхактисиддханта Сарасвати опирался на неё, восстанавливая Навадвипа-дхаму."
   about_en:
@@ -461,20 +461,42 @@ vallabha:
 
 vaishnava-lilamrita:
   facts_ru:
-    - "Автор: Мадхава Паттанаяк — по самому тексту, ученик Гададхары Пандита, живший в Пури при Господе"
-    - "Время: ок. 1535 г."
-    - "Язык: ория"
-    - "Издание: сводное издание Б. Ч. Ачарьи (1986), по поздним пальмолистовым спискам"
-    - "Место в традиции: в гаудия-традиции не цитируется; содержит орийские предания (C)"
-    - "Наш текст: пилотный перевод отрывка (гл. 4, 28–81)"
+    - "Автор: Мадхава Паттанаяк — по самому тексту, ученик Гададхары Пандита, писец Рамананды Рая, живший в Пури при Господе; упомянут в «Вайшнава-ванданах»"
+    - "Время: по словам автора, 48-й год правления Пратапарудры (≈ 1535 г.)"
+    - "Язык и форма: орийская поэма в девяти главах, двустишиями"
+    - "Издание: сводное издание Б. Ч. Ачарьи (Самбалпур, 1986), по поздним пальмолистовым спискам"
+    - "Место в традиции: в гаудия-традиции не цитируется; автор — из орийской линии Джаганнатхи Даса (Атибади); содержит орийские предания, неизвестные ЧЧ и ЧБ (C)"
+    - "Наш текст: полный перевод девяти глав; оригинал, транслитерация и пословный — в полном издании (готовится)"
   facts_en:
-    - "Author: Madhava Pattanayak — according to the text itself, a disciple of Gadadhara Pandita who lived in Puri in the Lord’s time"
-    - "Date: c. 1535"
-    - "Language: Oriya"
-    - "Edition: the collected edition of B. Ch. Acharya (1986), from late palm-leaf copies"
-    - "Place in the tradition: not quoted in the Gaudiya tradition; contains Oriya traditions (C)"
-    - "Our text: a pilot translation of a passage (ch. 4, 28–81)"
+    - "Author: Madhava Pattanayak — according to the text itself, a disciple of Gadadhara Pandita and scribe of Ramananda Raya who lived in Puri in the Lord’s time; mentioned in the Vaishnava-vandanas"
+    - "Date: by the author’s own words, the 48th year of Prataparudra’s reign (≈ 1535)"
+    - "Language and form: Odia poem in nine chapters, in couplets"
+    - "Edition: the collected edition of B. Ch. Acharya (Sambalpur, 1986), from late palm-leaf copies"
+    - "Place in the tradition: not quoted in the Gaudiya tradition; the author belongs to the Odia line of Jagannatha Dasa (Atibadi); contains Odia traditions unknown to CC and CB (C)"
+    - "Our text: complete translation of the nine chapters; the original, transliteration and word-for-word are in the full edition (in preparation)"
   about_ru:
-    - "Орийское свидетельство о приходе Шри Чайтаньи в Пури. Перевод пилотный — первая проба работы с орийскими текстами."
+    - "Свидетельство орийского вайшнава о Пури времён Махапрабху: слава Джаганнатхи и Нилачалы, цари Ориссы, Рамананда Рай и его семья, Панчасакха — пять орийских поэтов-вайшнавов, жизнь Господа в Пури и Его уход по орийскому преданию. Многое здесь — рассказ очевидца, которого нет ни в «Чайтанья-чаритамрите», ни в «Чайтанья-бхагавате»."
+    - "Мадхава во многом согласен с ЧЧ — о нисхождении Господа ради бхавы Радхи, о беседе с Раманандой, о махабхаве в Гамбхире, — но местами ставит Джаганнатху Даса рядом с Самим Господом и следует орийскому преданию об уходе. Перевод передаёт автора точно; в каждом таком месте примечание излагает позицию гаудия-вайшнавов по Шриле Бхактисиддханте Сарасвати."
   about_en:
-    - "An Oriya testimony of Sri Chaitanya’s arrival in Puri. The translation is a pilot — a first trial of working with Oriya texts."
+    - "The testimony of an Odia Vaishnava about Puri in Mahaprabhu’s time: the glory of Jagannatha and Nilachala, the kings of Orissa, Ramananda Raya and his family, the Panchasakha — five Odia Vaishnava poets, the Lord’s life in Puri and His disappearance according to the Odia tradition. Much of it is an eyewitness account found neither in the Chaitanya-charitamrita nor in the Chaitanya-bhagavata."
+    - "Madhava agrees with CC on much — the Lord’s descent for the sake of Radha’s mood, the talk with Ramananda, the mahabhava in the Gambhira — but in places he sets Jagannatha Dasa beside the Lord Himself and follows the Odia tradition of the disappearance. The translation renders the author exactly; at each such place a note gives the Gaudiya Vaishnava position according to Srila Bhaktisiddhanta Sarasvati."
+
+mahabhava-prakasha:
+  facts_ru:
+    - "Автор: Канаи (Канхаи) Кхунтиа — служитель храма Джаганнатхи (кхунтиа), современник и очевидец лил Махапрабху в Пури; упомянут в «Вайшнава-лиламрите»"
+    - "Время: XVI в."
+    - "Язык и форма: орийская поэма двустишиями; три главы, текст обрывается"
+    - "Издание: Факир Мохан Дас (Барипада, 1965) — единственное, по неполной рукописи"
+    - "Место в традиции: в гаудия-традиции не цитируется; ценна как свидетельство храмового служителя (C)"
+    - "Наш текст: полный перевод сохранившегося текста (583 двустишия)"
+  facts_en:
+    - "Author: Kanai (Kanhai) Khuntia — a servant of the Jagannatha temple (khuntia), contemporary and eyewitness of Mahaprabhu’s pastimes in Puri; mentioned in the Vaishnava-lilamrita"
+    - "Date: 16th century"
+    - "Language and form: Odia poem in couplets; three chapters, the text breaks off"
+    - "Edition: Fakir Mohan Das (Baripada, 1965) — the only one, from an incomplete manuscript"
+    - "Place in the tradition: not quoted in the Gaudiya tradition; valuable as the testimony of a temple servant (C)"
+    - "Our text: complete translation of the surviving text (583 couplets)"
+  about_ru:
+    - "«Явление махабхавы» — о Махапрабху глазами служителя Джаганнатхи: Ратха-ятра и танец Господа перед колесницей, Его махабхава, Пратапарудра и его приближённые, Рамананда Рай. Рукопись обрывается, не дойдя до развязки."
+  about_en:
+    - "“The manifestation of mahabhava” — Mahaprabhu through the eyes of a servant of Jagannatha: the Ratha-yatra and the Lord’s dance before the chariot, His mahabhava, Prataparudra and his ministers, Ramananda Raya. The manuscript breaks off before the denouement."

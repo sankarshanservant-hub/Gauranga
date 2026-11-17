@@ -23,7 +23,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 OUT = os.path.join(ROOT, 'site', 'data', 'library')
 
 # group: 'skt' санскритские сочинения · 'bng' бенгальские жития · 'late' поздние сочинения о спутниках ·
-# 'pada' пады, гимны, ванданы · 'other' иные традиции и прочее
+# 'ory' орийские сочинения · 'pada' пады, гимны, ванданы · 'other' иные традиции и прочее
 BOOKS = [
     dict(id='cc', group='bng', title='Шри Чайтанья-чаритамрита', title_en='Sri Chaitanya-charitamrita',
          author='Кришнадас Кавирадж Госвами', author_en='Krishnadasa Kaviraja Gosvami',
@@ -76,7 +76,7 @@ BOOKS = [
          author='Нитьянанда Дас', author_en='Nityananda Dasa', ru=['prema-vilasa/ru/*.md'], en=['prema-vilasa/en/*.md']),
     dict(id='nityananda-vamsha', group='late', title='Нитьянанда-вамша-вистара', title_en='Nityananda-vamsha-vistara',
          author='', author_en='', ru=['nityananda-vamsha/ru/*.md'], en=['nityananda-vamsha/en/*.md']),
-    dict(id='bhakti-ratnakara', group='late', title='Бхакти-ратнакара (таранги 1–4)', title_en='Bhakti-ratnakara (tarangas 1–4)',
+    dict(id='bhakti-ratnakara', group='late', title='Бхакти-ратнакара', title_en='Bhakti-ratnakara',
          author='Нарахари Чакраварти', author_en='Narahari Chakravarti', ru=['bhakti-ratnakara/ru/*.md'], en=['bhakti-ratnakara/en/*.md']),
     dict(id='narottama-vilasa', group='late', title='Нароттама-виласа', title_en='Narottama-vilasa',
          author='Нарахари Чакраварти', author_en='Narahari Chakravarti', ru=['narottama-vilasa/ru/*.md'], en=['narottama-vilasa/en/*.md']),
@@ -95,14 +95,22 @@ BOOKS = [
          ru=['vaishnava-vandana/ru/*.md'], en=['vaishnava-vandana/en/*.md']),
     dict(id='vallabha', group='other', title='Шри Чайтанья в текстах других традиций', title_en='Sri Chaitanya in the texts of other traditions',
          author='варты Валлабхи, «Бхактамалы»', author_en='Vallabha vartas, Bhaktamalas', ru=['vallabha/ru/*.md'], en=['vallabha/en/*.md']),
-    dict(id='vaishnava-lilamrita', group='other', title='Вайшнава-лиламрита (гл. 4, 28–81)', title_en='Vaishnava-lilamrita (ch. 4, 28–81)',
-         author='Мадхава Паттанаяк (ория)', author_en='Madhava Pattanayak (Oriya)',
-         ru=['oriya-pilot/vaishnava-lilamrita/ru.md'], en=['oriya-pilot/vaishnava-lilamrita/en.md']),
+    dict(id='vaishnava-lilamrita', group='ory', title='Вайшнава-лиламрита', title_en='Vaishnava-lilamrita',
+         author='Мадхава Паттанаяк', author_en='Madhava Pattanayak',
+         note='Перевод с ория без участия носителя языка; сомнительные места помечены (?) и (??).',
+         note_en='Translated from Odia without a native speaker; doubtful readings are marked (?) and (??).',
+         ru=['vaishnava-lilamrita/ru/*.md'], en=['vaishnava-lilamrita/en/*.md'], chap_title=True),
+    dict(id='mahabhava-prakasha', group='ory', title='Махабхава-пракаша', title_en='Mahabhava-prakasha',
+         author='Канаи Кхунтиа', author_en='Kanai Khuntia',
+         note='Перевод с ория без участия носителя языка; текст поэмы дошёл неполным.',
+         note_en='Translated from Odia without a native speaker; the poem has come down incomplete.',
+         ru=['mahabhava-prakasha/ru/*.md'], en=['mahabhava-prakasha/en/*.md'], chap_title=True),
 ]
 GROUPS = [
     ('skt', 'Санскритские сочинения', 'Sanskrit works'),
     ('bng', 'Бенгальские жизнеописания', 'Bengali biographies'),
     ('late', 'Сочинения о спутниках и преемниках', 'Works on the associates and successors'),
+    ('ory', 'Орийские сочинения', 'Odia works'),
     ('pada', 'Пады, гимны, ванданы', 'Padas, hymns, vandanas'),
     ('other', 'Иные традиции', 'Other traditions'),
 ]
@@ -154,6 +162,16 @@ def chapters_of(book, lang):
     for f in files_of(pats):
         md = open(f, encoding='utf-8').read()
         t = cc_title(f, lang) if book.get('cc') else (first_heading(md) or os.path.basename(f)[:-3])
+        if book.get('chap_title'):
+            # «Автор. «Книга», глава N» + «## тема» → «Глава N. Тема» (заголовок книги в главе не нужен)
+            n = re.search(r'(?:глава|Chapter)\s+(\d+)\s*$', t)
+            sub = re.search(r'^##\s+(.+)$', md, re.M)
+            if n:
+                t = ('Глава' if lang == 'ru' else 'Chapter') + f' {n.group(1)}' + (f'. {sub.group(1).strip()}' if sub else '')
+                md = re.sub(r'^#\s+.*\n', '', md, count=1)
+                if sub:
+                    md = md.replace(sub.group(0), '', 1)   # тема — уже в названии главы
+            md = re.sub(r'\s*(?:Оригинал, транслитерация и пословный перевод — в|The original, transliteration and word-for-word translation are in) `full/\d+\.md`\.', ' Оригинал, транслитерация и пословный перевод — в полном издании (готовится).' if lang == 'ru' else ' The original, transliteration and word-for-word translation are in the full edition (in preparation).', md)
         out.append((t, md, os.path.relpath(f, ROOT)))
     # заголовок повторяет название книги в каждой главе (Карнапура) — берём первый подзаголовок
     ts = [t for t, _, _ in out]

@@ -65,6 +65,8 @@ SOURCES = {
     'bhaktamal': ('Бхактамалы', 'Bhaktamalas', 'Набхадас и др.', 'Nabhadasa and others'),
     'vallabha-varta': ('Варты Валлабхи', 'Vallabha vartas', 'традиция Валлабхи', 'Vallabha tradition'),
     'vaishnava-lilamrita': ('Вайшнава-лиламрита', 'Vaishnava-lilamrita', 'Мадхава Паттанаяк', 'Madhava Pattanayak'),
+    'mahabhava-prakasha': ('Махабхава-пракаша', 'Mahabhava-prakasha', 'Канаи Кхунтиа', 'Kanai Khuntia'),
+    'divakara-jcm': ('Джаганнатха-чаритамрита', 'Jagannatha-charitamrita', 'Дивакар Дас', 'Divakara Dasa'),
     'murari-kcc': ('Шри Кришна-Чайтанья-чаритамрита', 'Sri Krishna-Chaitanya-charitamrita', 'Мурари Гупта', 'Murari Gupta'),
     'karnapura-ckm': ('Чайтанья-чарита-махакавья', 'Chaitanya-charita-mahakavya', 'Кави Карнапура', 'Kavi Karnapura'),
     'chaitanya-chandrodaya': ('Чайтанья-чандродая', 'Chaitanya-chandrodaya', 'Кави Карнапура', 'Kavi Karnapura'),
