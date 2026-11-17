@@ -183,7 +183,8 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   display: block; width: 100%; border: 0; background: none; padding: 2px 4px;
   font: 600 clamp(20px, 1.9vw, 24px)/1.08 var(--display); color: var(--ink); text-wrap: balance;
 }
-.episode:hover .episode__name, .episode.is-open .episode__name { color: #7a3d0e; }
+.episode.is-open .episode__name { color: #7a3d0e; }
+@media (hover: hover) { .episode:hover .episode__name { color: #7a3d0e; } }
 .episode__more { margin: 3px 0 0; font: italic 15px/1.2 var(--display); color: var(--sepia); }
 .episode__more span { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .ph { width: 74%; max-height: 100%; aspect-ratio: 1; color: var(--sepia); opacity: .55; }
@@ -227,7 +228,8 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   display: block; width: 100%; border: 0; background: none; padding: 2px 4px;
   font: 600 clamp(18px, 1.7vw, 21px)/1.12 var(--display); color: var(--ink); text-wrap: balance;
 }
-.card__name:hover, .card.is-open .card__name { color: #7a3d0e; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.card.is-open .card__name { color: #7a3d0e; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+@media (hover: hover) { .card__name:hover { color: #7a3d0e; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; } }
 .card__when { margin: 3px 0 0; font: 15px/1.25 var(--body); color: var(--ink-soft); font-variant-numeric: tabular-nums; }
 .card__count { margin: 2px 0 0; font: italic 14px/1.2 var(--display); color: var(--sepia); }
 
@@ -251,7 +253,7 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 1px 2px 3px rgba(80, 45, 10, .18);
   transition: background .2s, transform .2s;
 }
-.book:hover { background: linear-gradient(rgba(255, 248, 228, .9), rgba(246, 222, 172, .8)); transform: translateX(2px); }
+@media (hover: hover) { .book:hover { background: linear-gradient(rgba(255, 248, 228, .9), rgba(246, 222, 172, .8)); transform: translateX(2px); } }
 .book[aria-current="true"] { background: #5a3416; color: #f8e6c2; border-color: #5a3416; }
 .book[aria-current="true"] .book__author { color: #e4c99a; }
 .book__t { font: 600 16px/1.1 var(--display); }
@@ -277,7 +279,7 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 }
 .band__arrow--prev { left: 10px; }
 .band__arrow--next { right: 10px; }
-.band__arrow:hover { background: rgba(70, 42, 18, .9); }
+@media (hover: hover) { .band__arrow:hover { background: rgba(70, 42, 18, .9); } }
 
 .hint { margin: 0; max-width: 70ch; text-align: center; font: italic 15px/1.35 var(--display); color: #e9cf9e; }
 .legend {
@@ -360,7 +362,7 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   box-shadow: 0 1px 0 rgba(255, 255, 255, .45) inset, 1px 2px 3px rgba(80, 45, 10, .16);
 }
 .people-btn svg { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; }
-.people-btn:hover { background: linear-gradient(rgba(122, 61, 14, .22), rgba(122, 61, 14, .3)); }
+@media (hover: hover) { .people-btn:hover { background: linear-gradient(rgba(122, 61, 14, .22), rgba(122, 61, 14, .3)); } }
 .people-btn[aria-current="true"] { background: #5a3416; color: #f8e6c2; border-color: #5a3416; }
 .episode .people-btn { margin-top: 8px; width: auto; display: inline-flex; font-size: 15px; }
 .mbooks .people-btn { padding-block: 8px; }
@@ -399,14 +401,14 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 .tabs button { flex: 1; border: 0; background: none; padding: 8px 8px; font: 600 16.5px/1 var(--display); letter-spacing: .02em; color: #f1d9a8; }
 .tabs button + button { border-left: 1px solid rgba(233, 194, 122, .25); }
 .tabs button[aria-current="page"] { background: rgba(233, 194, 122, .9); color: #2a1a0c; }
-.tabs button:hover:not([aria-current="page"]) { background: rgba(233, 194, 122, .15); }
+@media (hover: hover) { .tabs button:hover:not([aria-current="page"]) { background: rgba(233, 194, 122, .15); } }
 body:not([data-tab="lilas"]) .legend, body:not([data-tab="lilas"]) .jump { visibility: hidden; }
 
 /* ——— лист бумаги для карты и спутников ——— */
 .view--sheet { padding: 0 max(16px, 2vw); }
 .sheet {
   position: relative;
-  height: calc(100vh - var(--top) - 70px); min-height: 380px;
+  height: calc(100vh - var(--top) - 70px); height: calc(100dvh - var(--top) - 70px); min-height: 380px;
   background: #ead6a6 url("assets/img/paper.webp") center / 480px auto repeat;
   border-radius: 4px; padding: 14px;
   box-shadow: 16px 26px 30px rgba(0, 0, 0, .55), 2px 3px 3px rgba(0, 0, 0, .35), inset 0 0 40px rgba(110, 60, 15, .25);
@@ -440,7 +442,8 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
 }
 .pm.show-l .pm__l { display: block; }
 .pm__l i { font-style: normal; font-weight: 500; color: #8a5a2b; font-size: 12px; }
-.pm:hover .pm__l, .pm:focus-visible .pm__l, .pm.is-cur .pm__l { display: block; z-index: 2; }
+.pm:focus-visible .pm__l, .pm.is-cur .pm__l { display: block; z-index: 2; }
+@media (hover: hover) { .pm:hover .pm__l { display: block; z-index: 2; } }
 .pm--site { display: none; }
 .map:is([data-z="hi"], [data-z="max"]) .pm--site { display: block; }
 .pm__pin {
@@ -468,7 +471,7 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
   border: 0; background: none; padding: 5px 10px; font: 600 14px/1.2 var(--display); color: #5a3416; cursor: pointer;
 }
 .map-regions button + button, .map-base button + button { border-left: 1px solid rgba(122, 61, 14, .25); }
-.map-regions button:hover, .map-base button:hover { background: rgba(181, 84, 27, .12); }
+@media (hover: hover) { .map-regions button:hover, .map-base button:hover { background: rgba(181, 84, 27, .12); } }
 .map-base { justify-self: start; }
 .map-base button[aria-pressed="true"] { background: #7a3d0e; color: #fbeed0; }
 .map-search input {
@@ -503,7 +506,7 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
   border: 0; background: none; padding: 0; text-align: left;
   font: inherit; color: #7a3d0e; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;
 }
-.link-btn:hover { color: #4a250b; }
+@media (hover: hover) { .link-btn:hover { color: #4a250b; } }
 
 /* спутники */
 .sheet--people { display: flex; flex-direction: column; padding: 22px clamp(18px, 3vw, 40px); }
@@ -540,7 +543,7 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
 .lib-back { display: block; margin: 0 0 10px; font: 15px var(--body); }
 .lib-toc { margin: 8px 0 0; padding: 0; list-style: none; display: grid; gap: 4px; font: 15px/1.3 var(--body); color: var(--ink-soft); }
 .lib-toc .link-btn { font: 15.5px/1.3 var(--body); text-decoration: none; color: var(--ink); }
-.lib-toc .link-btn:hover { text-decoration: underline; }
+@media (hover: hover) { .lib-toc .link-btn:hover { text-decoration: underline; } }
 .lib-toc .link-btn.is-cur { color: #7a3d0e; font-weight: 600; text-decoration: underline; }
 .lib-main { position: relative; z-index: 3; min-height: 0; display: flex; flex-direction: column; }
 .lib-bar { display: flex; align-items: center; gap: 10px; padding: 2px 16px 8px; border-bottom: 1px solid rgba(122, 61, 14, .25); }
@@ -607,7 +610,7 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
   .top__nav { flex: 1 1 100%; max-width: none; margin-top: 0; }
   .tabs button { flex: 1; padding: 8px 4px; font-size: 15px; }
   body:not([data-tab="lilas"]) .jump { display: none; }
-  .sheet { height: calc(100vh - 230px); }
+  .sheet { height: calc(100vh - 230px); height: calc(100dvh - 230px); }
   .map-ui { left: 14px; right: 60px; bottom: 34px; max-width: none; gap: 4px; }
   .map-layers { font-size: 13px; }
   .map-note { font-size: 12.5px; }
@@ -645,7 +648,7 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
     display: grid; gap: 6px; margin: 14px 16px 0; padding: 0; list-style: none;
   }
   .mbooks .book { padding-block: 6px; }
-  .reader { padding-block: 0; }
+  .reader { padding-block: env(safe-area-inset-top, 0px) env(safe-area-inset-bottom, 0px); } /* стрелки свитка — над полоской «Домой» */
   /* окно чтения на телефоне: больше места тексту — без даты и возраста, кнопки меньше,
      шапка и нижняя навигация ближе к скалкам, поля чуть уже */
   .scroll__when { display: none; }
@@ -671,3 +674,12 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
   .card { transition: none; }
 }
 [hidden] { display: none !important; }
+
+/* ── новое поведение (скилл apple-design, vendor/hk-feel; прежнее — html[data-feel="old"]) ──
+   свиток сворачивается тем же путём, что разворачивался; крестик — 44px для пальца; :hover выше — только при мыши */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+@keyframes rollup { from { clip-path: inset(0 0 0 0); opacity: 1; } to { clip-path: inset(0 0 92% 0); opacity: 0; } }
+html:not([data-feel="old"]) .scroll.rollup { animation: rollup .26s cubic-bezier(.4, 0, 1, 1) forwards; }
+.scroll__close::before { content: ""; position: absolute; inset: -7px; }
+body.is-reading .ainst { display: none !important; } /* приглашение «Установить» не ложится поверх свитка */
+@media (prefers-reduced-motion: reduce) { html:not([data-feel="old"]) .scroll.rollup { animation: none; } }

@@ -1,6 +1,11 @@
 /* Лента эпизодов и лил, окно чтения. Данные — data/timeline.json и data/verses/*.json (site/tools/build_data.py). */
 (function () {
   'use strict';
+  // новое поведение (vendor/hk-feel, «Было · Стало»; прежнее — ?feel=old): свиток сворачивается так же, как разворачивался,
+  // «назад» сворачивает свиток, музыка — только по кнопке ♪
+  function FEEL() { return !!(window.HKFeel && window.HKFeel.on()); }
+  function REDUCED() { return matchMedia('(prefers-reduced-motion: reduce)').matches; }
+  function readerPush() { if (FEEL() && !(history.state && history.state.glReader)) history.pushState(Object.assign({}, history.state, { glReader: 1 }), '', location.href); }
 
   const T = {
     ru: {
@@ -295,7 +300,7 @@
   function openReader(evId, srcId) {
     const same = S.reader && S.reader.mode === 'books' && S.reader.ev === evId;
     S.reader = { mode: 'books', ev: evId, src: srcId, all: same ? S.reader.all : null };
-    $('reader').hidden = false; document.body.classList.add('is-reading');
+    $('reader').hidden = false; document.body.classList.add('is-reading'); readerPush();
     renderReader(); $('r-body').scrollTop = 0;
     markCurrentBook();
     $('r-close').focus({ preventScroll: true });
@@ -307,7 +312,21 @@
       renderReader(); $('r-body').scrollTop = 0;
     }).catch(() => { if (S.reader && S.reader.ev === evId) $('r-body').innerHTML = `<p class="scroll__msg">${t().failed}</p>`; });
   }
+  // свиток: «назад» (жест, кнопка) сворачивает его, а не уводит со страницы; сворачивается тем же путём, что разворачивался
+  window.addEventListener('popstate', (e) => { if (S.reader && !(e.state && e.state.glReader)) closeReaderAnim(); });
   function closeReader() {
+    if (FEEL() && history.state && history.state.glReader) { history.back(); return; }  // закроет popstate
+    closeReaderAnim();
+  }
+  let rollTok = 0;
+  function closeReaderAnim() {
+    const sc = document.querySelector('#reader .scroll');
+    if (!FEEL() || REDUCED() || !sc || $('reader').hidden) { closeReaderNow(); return; }
+    const tok = ++rollTok, was = S.reader;
+    sc.classList.add('rollup');
+    setTimeout(() => { sc.classList.remove('rollup'); if (tok === rollTok && S.reader === was) closeReaderNow(); }, 260);
+  }
+  function closeReaderNow() {
     const r = S.reader;
     $('reader').hidden = true; document.body.classList.remove('is-reading'); S.reader = null; markCurrentBook();
     if (r && r.mode === 'place' && S.tab === 'map') { history.replaceState(null, '', '#map'); drawPlaces(); }
@@ -330,7 +349,7 @@
     const { list } = peopleOf(key);
     if (!list.length) return;
     S.reader = { mode: 'people', key, person: list[0] };
-    $('reader').hidden = false; document.body.classList.add('is-reading');
+    $('reader').hidden = false; document.body.classList.add('is-reading'); readerPush();
     renderReader(); $('r-body').scrollTop = 0;
     markCurrentBook();
     $('r-close').focus({ preventScroll: true });
@@ -467,7 +486,7 @@
   }
   function openSide(state) {
     S.reader = state;
-    $('reader').hidden = false; document.body.classList.add('is-reading');
+    $('reader').hidden = false; document.body.classList.add('is-reading'); readerPush();
     renderReader(); $('r-body').scrollTop = 0; markCurrentBook();
   }
   function openPerson(tag) { openSide({ mode: 'person', tag }); }
@@ -996,7 +1015,8 @@
   /* ——— фоновая музыка: «Prema Dhama», 8 частей по 10 мин, по кругу. Звук браузер разрешает только после
      действия пользователя, поэтому при включённой музыке она начинается с первого нажатия на странице. ——— */
   const MUSIC = Array.from({ length: 8 }, (_, i) => `assets/audio/prema-dhama-${i + 1}.mp3`);
-  const M = { on: true, part: 0, time: 0, el: null, next: null, started: false, fade: 0 };
+  // новое поведение: без сохранённого выбора музыка выключена — включается кнопкой ♪, а не первым касанием где угодно
+  const M = { on: !FEEL(), part: 0, time: 0, el: null, next: null, started: false, fade: 0 };
   try {
     const m = JSON.parse(localStorage.getItem('gl-music') || 'null');
     if (m) { M.on = m.on !== false; M.part = (m.part | 0) % MUSIC.length; M.time = +m.time || 0; }
