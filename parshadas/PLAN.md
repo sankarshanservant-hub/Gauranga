@@ -178,7 +178,7 @@ B — вероятно, больше сотни).
 | @devakinandana-dasa (078) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhagavan-acharya (079) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @kalidasa (080) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @jhadu-thakura (081) | ✓ | в работе | — |
+| @jhadu-thakura (081) | ✓ | ✓ (PDF) | — |
 | @bijli-khan (082) | ✓ | в работе | — |
 | @minaketana-ramadasa (083) | ✓ | в работе | — |
 
