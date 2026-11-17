@@ -2129,7 +2129,7 @@ Vaishnava theology, the text is translated as it stands and the divergence is no
 
 **46.** Seeing thus the holy places of the forests, unattainable even in hundreds of heavenly worlds, enjoying Himself, the Golden One spent several days as if a moment.
 
-**47.** Once, when He was sitting in solitude on the bank of the river under a tamarind tree, a certain prince named Krishna[dasa], at once renouncing [the world], wakeful, came to Him for shelter.
+**47.** Once, when He was sitting in solitude on the bank of the river under a tamarind tree, a certain Rajput (*rajaputra*) named Krishna[dasa], at once renouncing [the world], wakeful, came to Him for shelter.
 
 **48.** Showing him favour and making him His follower, increasing his wealth of prema a millionfold, Gaura then manifested Himself everywhere in the form that delights the women of Vraja.[^14-8]
 
@@ -2192,9 +2192,9 @@ Vaishnava theology, the text is translated as it stands and the divergence is no
 [^14-5]: CC Madhya 18: at Arishtagrama the Lord, having questioned the inhabitants and received no answer, Himself discovered Radha-kunda and Shyama-kunda in two rice fields and bathed in them.
 [^14-6]: CC Madhya 18: the Lord did not climb Govardhana, considering it non-different from Krishna; then Gopala, on the pretext of a threatened Muslim raid, came down to the village of Ganthuli, and the Lord beheld Him for three days. In Govinda-deva — Gosthali and four days.
 [^14-7]: CC Madhya 18: on the hill of Nandishvara the Lord saw in a cave the Deities of Nanda, Yashoda and Krishna.
-[^14-8]: CC Madhya 18: Krishnadasa the Rajput (a prince) took shelter of the Lord in Vrindavana under the tamarind (Imli-tala).
+[^14-8]: CC Madhya 18.82–90: Krishnadasa was a Rajput by birth, a householder living across the Yamuna (18.82, 86); at the tamarind (Amli-tala) he took shelter of the Lord and, leaving home, wife and children, became His companion (18.88–90). *Rajaputra* (literally “a king's son”) here means “a Rajput”; the CC calls Bijli Khan the prince (*rajara kumara*, Madhya 18.208).
 [^14-9]: CC Madhya 18: people said that Krishna had appeared again on the lake of Kaliya (they had seen a fisherman's torch in a boat); the Lord, laughing, explained this and did not allow Himself to be taken for Krishna. Govinda-deva conveys this briefly.
-[^14-10]: CC Madhya 18: on the way to Prayaga the Lord converted a band of Pathans; their leader Bijuli Khan and others became Vaishnavas, and one received the name Ramadasa.
+[^14-10]: CC Madhya 18.163–212: on the way to Prayaga the Lord bestowed His mercy on a band of Pathans: the *pir* in black received from Him the name Ramadasa, and their master, the young prince Bijli Khan, and the others became Vaishnavas — the “Pathan Vaishnavas.”
 [^14-11]: CC Madhya 19: at Prayaga the Lord met Rupa and Anupama; Vallabha Bhatta invited the Lord to Adaila, and Raghupati Upadhyaya recited verses to Him. Govinda-deva places their service before Rupa's arrival.
 [^14-12]: CC Madhya 19: Rupa distributed his wealth, left money for Sanatana's ransom and came with Anupama (Vallabha) to the Lord at Prayaga; the Lord embraced them.
 

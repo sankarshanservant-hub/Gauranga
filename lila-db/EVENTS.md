@@ -4632,7 +4632,7 @@
 - gaura-krishnodaya (B): Сарга 14, 51–58 — [51–58](../gaura-krishnodaya/ru/14.md?plain=1#L113-L127) · `gkd-0143`
 - cc (A): Мадхья 18.139–158 — [139–158](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya18.md?plain=1#L1440-L1630) · `cc-3015`
 
-## Обращение пуштунов на пути в Праягу; Рамадас / The conversion of the Pathans on the way to Prayaga; Ramadasa  `ev-pathans-ramadasa` (1514–1516, возраст 28–30, оценка)
+## Милость патханам на пути в Праягу; Рамадас и Биджли Хан / Mercy to the Pathans on the way to Prayaga; Ramadasa and Bijli Khan  `ev-pathans-ramadasa` (1514–1516, возраст 28–30, оценка)
 
 - cc (A): Мадхья 18.159–184 — [159–184](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya18.md?plain=1#L1640-L1890) · `cc-3016`
 - gaura-krishnodaya (B): Сарга 14, 59–60 — [59–60](../gaura-krishnodaya/ru/14.md?plain=1#L129-L131) · `gkd-0144`
