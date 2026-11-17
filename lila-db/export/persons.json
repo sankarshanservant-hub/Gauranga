@@ -33012,7 +33012,7 @@
    {
     "type": "relative",
     "who": "@kalidasa",
-    "note": "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхеде (T 80–81)."
+    "note": "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхедо (T 80–81)."
    },
    {
     "type": "guru",
@@ -42312,6 +42312,10 @@
     "type": "other"
    },
    {
+    "from": "@jhadu-thakura",
+    "type": "guest"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "relative"
    }
@@ -46186,6 +46190,10 @@
    },
    {
     "from": "@jayadeva",
+    "type": "other"
+   },
+   {
+    "from": "@jhadu-thakura",
     "type": "other"
    },
    {
@@ -57138,6 +57146,52 @@
   "events": [
    "ev-kalidasa-foot-water"
   ],
+  "summary": "происхождение — Бхедо (Бхадуя)",
+  "card": "parshadas/cards/jhadu-thakura.yaml",
+  "article": {
+   "ru": "parshadas/ru/jhadu-thakura.md",
+   "en": "parshadas/en/jhadu-thakura.md"
+  },
+  "kind": "associate",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#bhedo?",
+    "conf": "год, день и место явления источники не называют (F9); шрипат — в Бхедо (F5); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F3",
+     "F9"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "время и место ухода неизвестны (F9); в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет",
+    "facts": [
+     "F9"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "guest",
+    "who": "@kalidasa",
+    "note": "Калидас пришёл к нему с манго, поклонился ему и жене, просил пыль его стоп и прочёл шлоки о величии преданного; Джхаду из смирения отказывался, проводил его; Калидас натёрся пылью его следов и вкусил выброшенные остатки манго, предложенного Кришне (ЧЧ Антья 16.14–37; lila-db cc-4144). Жили в одной деревне — Бхедо (T 80; «Анубхашья» к Антья 16.5–14). = @kalidasa F16–F26."
+   },
+   {
+    "type": "deity-served",
+    "who": "@madana-gopala-bhedo",
+    "note": "Мадана-гопал — его Божество; во времена «Анубхашьи» Ему служил рамаят Рамапрасад дас в Бхедо; T 80 — служат и теперь в Бхадуе. B 955 ошибочно называет Его Божеством Калидаса (⚠1)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Антья 16: шрипат в Бхедо и Божество; трансцендентное брахманство вайшнава; «я не вайшнав» — смирение маха-бхагаваты; *амани манада*; «гуру всех брахманов», поклонение *маномайи-арче*. «The Harmonist» (1929, ч. 12): Джхару, явившийся в семье метельщиков (F26)."
+   }
+  ],
   "related_by": [
    {
     "from": "@kalidasa",
@@ -61470,6 +61524,21 @@
    {
     "from": "@govinda-kaviraja",
     "type": "relative"
+   }
+  ]
+ },
+ {
+  "id": "@madana-gopala-bhedo",
+  "ru": "Мадана-гопала — Божество Джхаду Тхакура (Бхедо)",
+  "en": "Madana-gopala, the Deity of Jhadu Thakura (Bhedo)",
+  "note": "Божество @jhadu-thakura в #bhedo; во времена «Анубхашьи» Ему служил рамаят Рамапрасад дас («Анубхашья» к ЧЧ Антья 16.5–14; T 80); B 955 ошибочно называет Его Божеством @kalidasa; не путать с @madana-gopala-deity, @madana-gopala-mamgachi",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jhadu-thakura",
+    "type": "deity-served"
    }
   ]
  }
