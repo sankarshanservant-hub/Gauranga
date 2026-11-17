@@ -1236,6 +1236,283 @@
   "note": "«Анубхашья» к ЧЧ Ади 10.146 (Мадхурекшана; санньяси и брахмачари), к Мадхья 19.87 («Бхаттачарья» — Балабхадра); заголовок издания к Мадхья 17.16 (⚠Б3)."
  },
  {
+  "from": "@bhagavan-acharya",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F13",
+   "F19",
+   "F21",
+   "F23",
+   "F24",
+   "F26",
+   "F33",
+   "F35",
+   "F43"
+  ],
+  "events": [
+   "ev-devotees-gather-nilachala",
+   "ev-chhota-haridasa-punished",
+   "ev-ramachandra-puri-criticism",
+   "ev-chaitanya-dasa-feast",
+   "ev-chataka-parvata-govardhana"
+  ],
+  "note": "Безраздельно предан стопам Господа; оставив всё, жил у Его стоп в Пури (ЧЧ Мадхья 10.184); приглашал Его и кормил одного (Антья 2.86–87); по его приглашению Господь ел по его желанию (Антья 8.88); по «Абхидхане» Господь сперва отослал его домой (F13, ⚠9)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "sibling",
+  "who": "@gopala-bhattacharya",
+  "facts": [
+   "F9",
+   "F10",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32"
+  ],
+  "events": [
+   "ev-gopala-bhattacharya-mayavada"
+  ],
+  "note": "Младший брат, майявади, изучил Веданту в Каши; Господь внешне учтив с ним ради Бхагавана; по слову Сварупы Бхагаван отослал его на родину (ЧЧ Антья 2.89–100)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "friend",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F22",
+   "F29",
+   "F30",
+   "F31",
+   "F38",
+   "F39",
+   "F40",
+   "F41"
+  ],
+  "events": [
+   "ev-gopala-bhattacharya-mayavada",
+   "ev-bengali-poet-drama-svarupa"
+  ],
+  "note": "Дружба (сакхья) со Сварупой (ЧЧ Антья 2.85); Сварупа с любовным гневом удержал его от слушания майявады (2.93–100) и упрекнул за просьбу послушать драму поэта (5.99–110); = @svarupa-damodara F48–F56."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F23",
+   "F33",
+   "F34",
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Послал его к Мадхави-деви за маном тонкого риса для трапезы Господа; за беседу с женщиной Господь отказал Харидасу в доступе (ЧЧ Антья 2.101–113)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F33",
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "От её имени (через Младшего Харидаса) получил рис (ЧЧ Антья 2.103–107)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@shikhi-mahiti",
+  "facts": [
+   "F4",
+   "F33"
+  ],
+  "note": "Рядом в перечне ветвей в Пури (ЧЧ Ади 10.136); его сестра Мадхави дала рис."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Господь велел Говинде не пускать Младшего Харидаса (ЧЧ Антья 2.112–113)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F24"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism"
+  ],
+  "note": "Вместе с ним и Сарвабхаумой — те, чьи приглашения Господь принимал всегда (ЧЧ Антья 8.88)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F20",
+   "F24"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism"
+  ],
+  "note": "Там же (ЧЧ Антья 8.88); T: пришёл к Господу после избавления Сарвабхаумы."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@ramachandra-puri",
+  "facts": [
+   "F24"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism"
+  ],
+  "note": "В пору урезанной из-за Рамачандры Пури меры пищи Господь у него ел по его желанию (B 801; T 149)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F43"
+  ],
+  "events": [
+   "ev-chataka-parvata-govardhana"
+  ],
+  "note": "Бежали за Господом к Чатака-парвате (ЧЧ Антья 14.90)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@brahmananda-bharati",
+  "facts": [
+   "F4",
+   "F43"
+  ],
+  "events": [
+   "ev-chataka-parvata-govardhana"
+  ],
+  "note": "Рядом в перечне ветвей (Ади 10.136) и у Чатака-парваты (Антья 14.90)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@pradyumna-mishra",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri"
+  ],
+  "note": "Вместе в перечне ЧБ Антья 8.56–61; T 142 — «главные среди любящих преданных Пури» (вольность, = @pradyumna-mishra ⚠5)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F25",
+   "F26"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri",
+   "ev-chaitanya-dasa-feast"
+  ],
+  "note": "Там же; вместе готовили для Господа (ЧЧ Антья 10.154–155)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri"
+  ],
+  "note": "Шёл с Господом встречать Адвайту и гаудийцев (ЧБ Антья 8.54–61; T 141)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "neighbor",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F7"
+  ],
+  "note": "Хромой Бхагаван Ачарья жил в Кумарахатте (Халисахаре), как и Шивананда, Шриваса, Васудева Датта (B 779; T 73); = @shivananda-sena F14."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "neighbor",
+  "who": "@srivasa",
+  "facts": [
+   "F7"
+  ],
+  "note": "Там же (B 779; T 73)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "neighbor",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F7"
+  ],
+  "note": "Там же (B 779; T 73)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F14",
+   "F18"
+  ],
+  "note": "К Джахнаве у Халисахара присоединился его сын Рагхунатха Ачарья (БР 10.382); T 140 — «и он, и сын» (ошибка T, ⚠5; ср. карточку @jahnava)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@nandana-acharya",
+  "facts": [],
+  "note": "Не путать: тоже хромой; двустишие «Карчи» о «Кханджане Ачарье» B 758 относит к Нандане, наш перевод «Карчи» — видимо, к Бхагавану Ачарье (= @nandana-acharya ⚠3; ур. D)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@bhagavan-pandita",
+  "facts": [],
+  "note": "Тёзка, не путать (ЧЧ Ади 10.69; ЧБ Антья 8 — среди гаудийцев)."
+ },
+ {
+  "from": "@bhagavan-acharya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F5",
+   "F7",
+   "F14",
+   "F30"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.136 (Халисахар, сын Рагхунатха по БР, ГГД 74), к Антья 2.95–98 (яд майявады — подзаголовки, которые B пересказывает), к Ади 12.88 («другой» Бхагаван Ачарья ветви Гададхары, ⚠3)."
+ },
+ {
   "from": "@bhakti-ballabha-tirtha",
   "type": "guru",
   "who": "@bhakti-dayita-madhava",
