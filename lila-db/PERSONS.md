@@ -217,7 +217,7 @@
 | @bhugarbha | Бхугарбха (Госвами) | Bhugarbha (Gosvami) | спутник Господа, во Вриндаване — друг Локанатхи; Нандимукхи (по «Према-виласе») · {карточка: в Кришна-лиле — Према-манджари (ГГД 187); гуру — Гададхара Пандит; происхождение — Навадвипа; уход — шукла-чатурдаши месяца Карттика} |
 | @nityananda-dasa-author | Нитьянанда Дас (автор «Према-виласы») | Nityananda Dasa (author of the Prema-vilasa) | Баларама Дас, ученик Джахнавы (для записей kind: author); не путать с @nityananda |
 | @ramachandra-kaviraja | Рамачандра Кавираджа | Ramachandra Kaviraja | ученик Шринивасы Ачарьи, друг Нароттамы; брат Говинды Кавираджи |
-| @govinda-kaviraja | Говинда Кавираджа (Говиндадас) | Govinda Kaviraja (Govindadasa) | поэт, брат Рамачандры Кавираджи, ученик Шринивасы Ачарьи |
+| @govinda-kaviraja | Говинда Кавираджа (Говиндадас) | Govinda Kaviraja (Govindadasa) | поэт, брат Рамачандры Кавираджи, ученик Шринивасы Ачарьи · {карточка: гуру — Шриниваса Ачарья (Тхакур); происхождение — Шрикханда; уход — ашвина, шукла-пратипад} |
 | @malini-abhirama | Малини (супруга Абхирамы) | Malini (Abhirama's wife) | удержала руку Абхирамы с плетью («Према-виласа» 5); не путать с @malini |
 | @lokanatha-pandita | Локанатха Пандит (сын Ратнагарбхи) | Lokanatha Pandita (son of Ratnagarbha) | двоюродный брат и спутник Вишварупы, его ученик после санньясы («Према-виласа» 7); не путать с @lokanatha |
 | @krishnananda-datta | Кришнананда Датта (Рай, Маджумдар) | Krishnananda Datta (Raya, Majumdar) | отец Нароттамы, правитель Гарерхата (Кхетури) |
@@ -801,3 +801,5 @@
 | @gopala-akai-hat | Шри Гопала джиу — Божество шрипата Акаихат | Sri Gopala Jiu, the Deity of the Akai Hat sripat | шрипат @kaliya-krishnadasa; по преданию ныне в доме махантов в #kadui (B 932) |
 | @vijayagovinda-gosvami | Виджаяговинда Госвами | Vijayagovinda Gosvami | потомок @kaliya-krishnadasa, глава рода в Сонатале (Пабна) («Анубхашья» к ЧЧ Ади 11.37; B 933) |
 | @harerama-dasa-babaji | Харерама дас Бабаджи | Harerama Dasa Babaji | служитель шрипата @kaliya-krishnadasa в Акаихате во времена «Анубхашьи» (к ЧЧ Ади 11.37); B 932 — ныне его преемник |
+| @mahamaya-govinda | Махамая (жена Говинды Кавираджи) | Mahamaya (Govinda Kaviraja's wife) | милость ей оказал Шриниваса («Према-виласа» 20.15–16; B 944); не путать с @durga (Махамайя) |
+| @ghanashyama-kaviraja | Гханашьяма (внук Говинды Кавираджи) | Ghanashyama (Govinda Kaviraja's grandson) | сын @divyasimha-kaviraja (B 944); не путать с @narahari-chakravarti (Гханашьяма Дас) |

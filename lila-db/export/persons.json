@@ -22698,6 +22698,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -24295,6 +24299,10 @@
    },
    {
     "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-kaviraja",
     "type": "other"
    },
    {
@@ -28514,6 +28522,10 @@
    {
     "from": "@gopala-guru",
     "type": "servant"
+   },
+   {
+    "from": "@govinda-kaviraja",
+    "type": "other"
    },
    {
     "from": "@haridasa-thakura",
@@ -34688,6 +34700,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "host"
+   },
+   {
     "from": "@govinda-maharaja",
     "type": "other"
    },
@@ -35253,6 +35269,10 @@
    },
    {
     "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-kaviraja",
     "type": "other"
    },
    {
@@ -35926,6 +35946,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-kaviraja",
     "type": "other"
    },
    {
@@ -37498,6 +37522,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@jahnava",
     "type": "met"
    },
@@ -38955,6 +38983,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "guru"
+   },
+   {
     "from": "@govinda-servant",
     "type": "met"
    },
@@ -40005,6 +40037,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "friend"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    },
@@ -40673,6 +40709,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "sibling"
+   },
+   {
     "from": "@ishana-navadvipa",
     "type": "met"
    },
@@ -40783,6 +40823,183 @@
    "ev-narottama-pyre-gambhila",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "summary": "гуру — Шриниваса Ачарья (Тхакур); происхождение — Шрикханда; уход — ашвина, шукла-пратипад",
+  "card": "parshadas/cards/govinda-kaviraja.yaml",
+  "article": {
+   "ru": "parshadas/ru/govinda-kaviraja.md",
+   "en": "parshadas/en/govinda-kaviraja.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1459 г. Шака (1537/38) — по B",
+    "tithi": "",
+    "place": "#kumaranagara?",
+    "conf": "год — только B 944, без первоисточника (⚠11); место — дом деда Дамодары (БР 9.143–153; где именно — не сказано; братья жили в Кумаранагаре, БР 9.133); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет",
+    "facts": [
+     "F4",
+     "F5",
+     "F6"
+    ]
+   },
+   "disappearance": {
+    "date": "1535 г. Шака (1613) — по B",
+    "tithi": "ашвина, шукла-пратипад (по B)",
+    "place": "",
+    "conf": "только B 944 (⚠11); место не названо; ПВ 14.199 — 36 (32) лет бхаджана после посвящения; в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет (в Падманабха-масу на Гаура-пратипад — другие лица)",
+    "facts": [
+     "F19",
+     "F44"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "пады (брадж-були, по образцу Видьяпати): о Гауре, о Радхе-Кришне по пяти расам, песни разлуки, смиренной предании («Бхаджаху ре мана»), о Шринивасе, о Нароттаме, о Раме; 460 — в «Пада-калпатару»",
+    "facts": [
+     "F27",
+     "F28",
+     "F29",
+     "F30",
+     "F31",
+     "F32"
+    ]
+   },
+   {
+    "title": "драма «Сангита-мадхава» (пурварага Радхи и Кришны; с позволения Сантоши Датты)",
+    "facts": [
+     "F21",
+     "F39"
+    ]
+   },
+   {
+    "title": "«Гитамрита» (по B; как название книги — не подтверждено, ⚠8)",
+    "facts": [
+     "F22"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@chiranjiva-sena",
+    "note": "Житель Шрикханды, спутник Господа; по ГГД 194–207 — Чандрика (по порядку перечня); сокрылся вскоре после рождения Говинды (БР 9.152)."
+   },
+   {
+    "type": "mother",
+    "who": "@sunanda-mother-ramachandra",
+    "note": "Дочь Дамодары; трудные роды и вода янтры (БР 9.144–150)."
+   },
+   {
+    "type": "sibling",
+    "who": "@ramachandra-kaviraja",
+    "note": "Старший брат; через его милость Говинда пришёл к Шринивасе; велел переселиться в Телия Будхари (БР 9.121–135); просил Ачарью о посвящении брата (БР 10.166–170); по ПВ 14 — привёл Шринивасу к больному Говинде."
+   },
+   {
+    "type": "grandfather",
+    "who": "@damodara-sena-kavi",
+    "note": "Дед по матери, поэт-шакта (БР 9.143; M 154); T 212 и B 1108 — ученик Нарахари (⚠5); B 939 один раз — «পিতামহ» (описка)."
+   },
+   {
+    "type": "guru",
+    "who": "@srinivasa-acharya",
+    "note": "Посвятил в мантру Радха-Кришны в Будхари (БР 10.171; по ПВ 14 — после исцеления остатками); велел описывать лилу Чайтаньи (БР 10.294) и Радхи-Кришны, читать БРС и «Уджджвалу» (ПВ 14.188–192); дал славу «Кавираджи» (БР 10.296). = @srinivasa-acharya F90."
+   },
+   {
+    "type": "spouse",
+    "who": "@mahamaya-govinda",
+    "note": "Махамая (B 944; ПВ 20.16); милость ей оказал Шриниваса (ПВ 20.15; «Карнананда» 1.113)."
+   },
+   {
+    "type": "son",
+    "who": "@divyasimha-kaviraja",
+    "note": "Ученик Шринивасы («Карнананда» 1.114); по ПВ 14 — ходил с письмом за Шринивасой и встретил его."
+   },
+   {
+    "type": "relative",
+    "who": "@ghanashyama-kaviraja",
+    "note": "Внук, сын Дивьясимхи (только B 944)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@jiva-gosvami",
+    "note": "Дал (с другими Госвами) звание «Кавираджа» (B 523; T 189 — «Анубхашья» к ЧЧ Ади 10.85; БР 1.446–447, ⚠3); в письмах просил присылать его песни (БР 1.449–450; 14.41). = @jiva-gosvami F180."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Принимал её в Будхари (M 66); шёл с ней во Вриндаван (БР 10.749; НВ 9); B 941 — среди давших титул. = @jahnava F56, F101."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "Представил его Госвами и попросил послушать его стихи (БР 11.115, 11.145–147). = @parameshvara-dasa F39–F40."
+   },
+   {
+    "type": "friend",
+    "who": "@narottama-dasa",
+    "note": "Песнь «Слава Тхакуру Нароттаме» (БР 1.438–444); жил с ним и Рамачандрой в Кхетури (БР 14.30); передал ему слова Госвами и «Гопала-вирудавали» (НВ 9.141–142)."
+   },
+   {
+    "type": "friend",
+    "who": "@santosha-datta",
+    "note": "С его позволения сочинил «Сангита-мадхаву»; «едины во всём, различны лишь тела» (БР 1.461, 1.480)."
+   },
+   {
+    "type": "host",
+    "who": "@virabhadra",
+    "note": "M 14–15: Вирачандра два дня гостил в его доме в Будхари; он совершил ему пуджу."
+   },
+   {
+    "type": "other",
+    "who": "@shyamananda",
+    "note": "Послан Шринивасой к Шьямананде (НВ 6.165)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "На празднике в Кхетури приставлен к жилищу Рагхунанданы (НВ 6.320)."
+   },
+   {
+    "type": "other",
+    "who": "@harinarayana-raja",
+    "note": "По его просьбе сложил песнь о Раме (БР 1.456–460)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Песни — по расам «Бхакти-расамрита-синдху» и «Уджджвала-ниламани» (B 941; ПВ 14.191–192). = @rupa-gosvami F328."
+   },
+   {
+    "type": "other",
+    "who": "@vidyapati",
+    "note": "Слагал пады по образцу пад Видьяпати (B 941)."
+   },
+   {
+    "type": "other",
+    "who": "@durga",
+    "note": "Прежде поклонялся Бхагавати; её голос велел служить Кришне (БР 9.159; ПВ 14.119–128); ПВ 18.202–205 — Дурга приводит его в пример Чанд Раю (⚠Б1, ⚠Б3)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.78–79 (младший сын Чирандживы — Говинда дас Кавирадж, автор пад) и 10.85 (Джива дал имя «Кавираджа»)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Тёзка, не путать: слуга Господа в Пури (у B — «Шри Говинда дас»)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-acharya",
+    "note": "Тёзка, не путать: «слагатель песен и стихов» ГГД 41 (Паурнамаси) — спутник Господа."
+   }
   ],
   "related_by": [
    {
@@ -41041,6 +41258,10 @@
    },
    {
     "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-kaviraja",
     "type": "other"
    },
    {
@@ -44367,6 +44588,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@govinda-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@jahnava",
     "type": "servant"
    },
@@ -45934,6 +46159,10 @@
    },
    {
     "from": "@govinda-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-kaviraja",
     "type": "other"
    },
    {
@@ -48215,6 +48444,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    }
@@ -49902,6 +50135,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-kaviraja",
+    "type": "father"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "friend"
    },
@@ -49925,6 +50162,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-kaviraja",
+    "type": "grandfather"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "disciple"
    }
@@ -49941,6 +50182,12 @@
   ],
   "events": [
    "ev-ramachandra-kaviraja-birth"
+  ],
+  "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "mother"
+   }
   ]
  },
  {
@@ -50221,6 +50468,12 @@
   "events": [
    "ev-ganganarayana-conversion",
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "son"
+   }
   ]
  },
  {
@@ -50269,6 +50522,10 @@
    "ev-narottama-branches"
   ],
   "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "friend"
+   },
    {
     "from": "@jahnava",
     "type": "host"
@@ -50598,6 +50855,10 @@
    "ev-jiva-srinivasa-letters"
   ],
   "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "other"
+   },
    {
     "from": "@srinivasa-acharya",
     "type": "other"
@@ -51268,7 +51529,13 @@
   "note": "слагатель песен о Радхе и Кришне (ГГД 41: Паурнамаси)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "other"
+   }
+  ]
  },
  {
   "id": "@govinda-puri",
@@ -61166,6 +61433,36 @@
    {
     "from": "@kaliya-krishnadasa",
     "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@mahamaya-govinda",
+  "ru": "Махамая (жена Говинды Кавираджи)",
+  "en": "Mahamaya (Govinda Kaviraja's wife)",
+  "note": "милость ей оказал Шриниваса («Према-виласа» 20.15–16; B 944); не путать с @durga (Махамайя)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "spouse"
+   }
+  ]
+ },
+ {
+  "id": "@ghanashyama-kaviraja",
+  "ru": "Гханашьяма (внук Говинды Кавираджи)",
+  "en": "Ghanashyama (Govinda Kaviraja's grandson)",
+  "note": "сын @divyasimha-kaviraja (B 944); не путать с @narahari-chakravarti (Гханашьяма Дас)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@govinda-kaviraja",
+    "type": "relative"
    }
   ]
  }
