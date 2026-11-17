@@ -170,10 +170,26 @@
     jump.innerHTML = `<option value="" disabled>${tt.jumpLabel}…</option>` + S.data.episodes.map(ep => `<optgroup label="${esc(L(ep, 'title'))}">` + ep.events.map(e => `<option value="${e.id}">${esc(L(e, 'title'))}</option>`).join('') + '</optgroup>').join('');
     jump.value = S.open || '';
   }
+  // телефон, новое поведение (vendor/hk-feel; прежнее — ?feel=old): писания раскрытой лилы — лист снизу на плотной бумаге.
+  // Выезжает при раскрытии лилы, смахивается вниз (лила сворачивается), «×» — то же; другая лила — тот же лист, без повторного выезда.
+  const phone = () => matchMedia('(max-width: 700px)').matches;
+  const sheetMode = () => FEEL() && phone();
+  let mbCtl = null, mbShown = false;
+  function mbSheet() {
+    return mbCtl || (mbCtl = window.HKFeel.sheet({ el: mbooks, scroller: () => mbooks, threshold: 0.35,
+      onClosed: () => { if (mbCtl.open) return; mbShown = false; document.body.classList.remove('mb-open'); mbooks.classList.remove('is-sheet'); mbooks.innerHTML = ''; if (S.open) openLila(S.open); } }));
+  }
   function renderMobileBooks() {
     const [, ev] = S.open ? findEv(S.open) : [null, null];
-    mbooks.innerHTML = ev ? booksHtml(ev) : '';
+    if (!sheetMode()) { mbooks.classList.remove('is-sheet'); document.body.classList.remove('mb-open'); mbShown = false; mbooks.innerHTML = ev ? booksHtml(ev) : ''; markCurrentBook(); return; }
+    if (!ev) { if (mbShown && mbCtl && mbCtl.open) mbSheet().hide(); else { mbooks.innerHTML = ''; mbooks.classList.remove('is-sheet'); } return; }
+    const tt = t();
+    mbooks.innerHTML = `<li class="mb-head"><span class="mb-grab" aria-hidden="true"></span><span class="mb-title"><b>${esc(L(ev, 'title'))}</b><small>${tt.sources(ev.sources.length)}</small></span>` +
+      `<button type="button" class="mb-x" data-mbx aria-label="${S.lang === 'en' ? 'Close' : 'Закрыть'}">×</button></li>` + booksHtml(ev);
+    mbooks.classList.add('is-sheet');
     markCurrentBook();
+    document.body.classList.add('mb-open');
+    if (!mbShown || !mbSheet().open) { mbShown = true; mbooks.scrollTop = 0; mbSheet().show(); }
   }
 
   function xOf(el) { return el.getBoundingClientRect().left - ribbon.getBoundingClientRect().left + ribbon.scrollLeft; }
@@ -276,6 +292,7 @@
   $('next').addEventListener('click', () => step(1));
   jump.addEventListener('change', () => openLila(jump.value, true, true));
   mbooks.addEventListener('click', e => {
+    if (e.target.closest('[data-mbx]')) { if (mbCtl && mbCtl.open) mbSheet().hide(); return; }
     const pb = e.target.closest('.people-btn'); if (pb) { openPeople(pb.dataset.people); return; }
     const b = e.target.closest('.book'); if (b) openReader(b.dataset.ev, b.dataset.src);
   });
@@ -1085,7 +1102,11 @@
     S.data = d;
     const h = location.hash.slice(1);
     if (findEp(h)) S.ep = h;
-    else { S.open = findEv(h)[0] ? h : 'ev-gaura-appearance'; S.ep = findEv(S.open)[0].id; }
+    else {
+      // телефон, новое поведение: без адреса лилы ничего не раскрываем — лист с писаниями выезжает, когда человек сам выберет лилу
+      const def = 'ev-gaura-appearance', want = findEv(h)[0] ? h : null;
+      S.open = want || (sheetMode() ? null : def); S.ep = findEv(want || def)[0].id;
+    }
     S.tab = TABS.includes(h) ? h : h.startsWith('lib/') ? 'lib' : h.startsWith('map/') ? 'map' : 'lilas';
     if (h.startsWith('lib/')) { const [, b, n] = h.split('/'); LIB.book = b || null; LIB.ch = n ? +n - 1 : null; }
     applyLang();

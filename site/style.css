@@ -683,3 +683,29 @@ html:not([data-feel="old"]) .scroll.rollup { animation: rollup .26s cubic-bezier
 .scroll__close::before { content: ""; position: absolute; inset: -7px; }
 body.is-reading .ainst { display: none !important; } /* приглашение «Установить» не ложится поверх свитка */
 @media (prefers-reduced-motion: reduce) { html:not([data-feel="old"]) .scroll.rollup { animation: none; } }
+
+/* телефон, новое поведение: писания раскрытой лилы — лист снизу (app.js renderMobileBooks); прежнее — список под лентой */
+@media (max-width: 700px) {
+  html:not([data-feel="old"]) .mbooks.is-sheet {
+    position: fixed; z-index: 30; left: 0; right: 0; bottom: 0; margin: 0;
+    max-height: min(50dvh, 460px); overflow-y: auto; overscroll-behavior: contain;
+    padding: 6px 14px calc(14px + env(safe-area-inset-bottom, 0px));
+    background: linear-gradient(#f6e7c4, #eed8a8); color: var(--ink);
+    border-radius: 18px 18px 0 0; border-top: 1px solid rgba(138, 90, 43, .45);
+    box-shadow: 0 -14px 40px rgba(0, 0, 0, .55); will-change: transform;
+  }
+  html:not([data-feel="old"]) .mbooks.is-sheet .mb-head {
+    position: sticky; top: -6px; z-index: 1; display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 2px 8px;
+    margin: -6px -14px 2px; padding: 16px 10px 8px 16px; background: linear-gradient(#f6e7c4 80%, rgba(246, 231, 196, 0));
+  }
+  html:not([data-feel="old"]) .mb-grab { position: absolute; top: 6px; left: 50%; width: 40px; height: 5px; margin-left: -20px; border-radius: 3px; background: rgba(107, 63, 23, .35); }
+  html:not([data-feel="old"]) .mb-title b { display: block; font: 600 19px/1.15 var(--display); }
+  html:not([data-feel="old"]) .mb-title small { font: italic 14px/1.2 var(--body); color: var(--ink-soft); }
+  html:not([data-feel="old"]) .mb-x { width: 44px; height: 44px; border: 0; border-radius: 50%; background: rgba(107, 63, 23, .1); color: var(--ink); font: 24px/1 var(--display); }
+  html:not([data-feel="old"]) .mbooks.is-sheet .book { background: rgba(255, 250, 236, .75); padding-block: 9px; }
+  html:not([data-feel="old"]) .mbooks.is-sheet .book__t { font-size: 17px; }
+  html:not([data-feel="old"]) .mbooks.is-sheet .book__author { font-size: 13.5px; }
+  html:not([data-feel="old"]) body.is-reading .mbooks.is-sheet { visibility: hidden; } /* под открытым свитком не мешает */
+  body.mb-open .ainst { display: none !important; } /* приглашение «Установить» не ложится на лист */
+  body.mb-open .foot { visibility: hidden; } /* подсказка и легенда внизу страницы — под листом (main — свой слой, лист его не перекрывает) */
+}
