@@ -133890,6 +133890,70 @@
   "attestation": 14
  },
  {
+  "id": "dvk-0015",
+  "source": "divakara-jcm",
+  "ref": "Гл. 4, 150–161",
+  "file": "divakara-jagannatha-charitamrita/ru/04.md",
+  "period": "P10",
+  "order": 34,
+  "title": "Богини Пурушоттамы; Прабху говорит Сарвабхауме аштаку о жажде кришна-премы",
+  "summary": "В Пурушоттаме пребывают Сарасвати, Вималакши, дочь Варуны (Лакшми) и Мангала; разумному незачем идти в иные кшетры. Перед Сарвабхаумой Прабху произносит аштаку о жажде кришна-премы; вайшнавы и Джаганнатха Дас слушают и хранят её в сердце.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma",
+   "@jagannatha-dasa-odia",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "Ср. ЧЧ Антья 20 («Шикшаштака»)",
+  "notes": "Какая аштака имеется в виду — не сказано (сноски перевода).",
+  "themes": [
+   "teaching",
+   "jagannatha"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "event": "ev-sarvabhauma-deliverance",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.150",
+    "to": "4.161"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/04.md",
+    "from": "4.150",
+    "to": "4.161",
+    "line": 228,
+    "line_to": 239,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/04.md?plain=1#L228-L239",
+    "file_en": "divakara-jagannatha-charitamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/04.md?plain=1#L228-L239"
+   }
+  ],
+  "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 14
+ },
+ {
   "id": "cb-3041",
   "source": "cb",
   "ref": "Антья 3, 156–166",
@@ -160111,7 +160175,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "gkd-0116",
@@ -160168,7 +160232,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-2072",
@@ -209544,6 +209608,67 @@
   "attestation": 1
  },
  {
+  "id": "dvk-0017",
+  "source": "divakara-jcm",
+  "ref": "Гл. 5, 25–108",
+  "file": "divakara-jagannatha-charitamrita/ru/05.md",
+  "period": "P14",
+  "order": 41,
+  "title": "Вопрос Нитьянанды: кавача мантры «Харе Рама Кришна»",
+  "summary": "Нитьянанда спрашивает Прабху о каваче мантры; Прабху излагает её: слоги «ха», «ре», «ра», «ма», «кри», «шна» помещаются на части тела, их хранят сакхи Радхи (Лалита, Вишакха, Чампакалата, Читра, Тунгавидья, Индулекха…), манджари и пастушки-друзья Кришны (Судама, Шридама, Субала, Арджуна, Стока-Кришна…), стороны света — пастушки Махабаху, Вришабха и другие; у каждого слога свой цвет и он уничтожает особый род грехов; книгу не говорить лицемерам и непреданным; облёкшийся кавачей Имени бесстрашен и обретает бхакти. Джаганнатха Дас принимает это учение в сердце.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda",
+   "@jagannatha-dasa-odia",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Тантрическая кавача линии Атибади; порядок мантры «Харе Рама» — орийский (гаудия-вайшнавы следуют Кали-сантарана-упанишад: «Харе Кришна…»). Сноски перевода.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-divakara-name-mantra-teachings",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/05.md",
+    "from": "5.25",
+    "to": "5.108"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/05.md",
+    "from": "5.25",
+    "to": "5.108",
+    "line": 34,
+    "line_to": 135,
+    "count": 84,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/05.md?plain=1#L34-L135",
+    "file_en": "divakara-jagannatha-charitamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/05.md?plain=1#L34-L135"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "mpk-0008",
   "source": "mahabhava-prakasha",
   "ref": "Гл. 1, 108–136 (продолжается)",
@@ -209735,6 +209860,69 @@
   "attestation": 1
  },
  {
+  "id": "dvk-0018",
+  "source": "divakara-jcm",
+  "ref": "Гл. 6, 1–100",
+  "file": "divakara-jagannatha-charitamrita/ru/06.md",
+  "period": "P14",
+  "order": 42,
+  "title": "Учение о мурти Джаганнатхи: Владыка над Владыкой, источник аватар, тиртх и Вед; путь раги",
+  "summary": "При даршане Джаганнатхи вайшнавы спрашивают, как в Нём обретают према-бхакти; Прабху толкует шлоки (в т. ч. «ишварах парамах кришнах»): мурти Джаганнатхи — Кришна над Кришной, Брахман над Брахманом; в лотосе-янтре Радха и Кришна на одном престоле; Голока — Бада-данда, маха-нитья — джагамохана, парама-нитья — престол; из мурти выходят все аватары, кшетры, тиртхи и Веды, всё рождено из Омкары; Шеша, Субхадра и Радха с Кришной в дару-мурти; путём раги поклоняйся Ему. Ати Бада записывает эту речь шлоками и чаупади и читает её в джагамохане; Дивакар называет книгу практикой свакия-бхакти.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@radha",
+   "@krishna",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "«Брахма-самхита» 5.1–5.3 (шлоки о Кришне и лотосе Голоки — в переосмыслении)",
+  "notes": "Отождествление Голоки с Бада-дандой и храмом Пури, превосходство мурти Джаганнатхи над Кришной — учение Атибади; у гаудия-вайшнавов Джаганнатха — Сам Кришна, Голока — высшая обитель (ЧЧ Ади 5); свакия-вада расходится с учением Рупы Госвами о паракия-расе Враджа. Сноски перевода.",
+  "themes": [
+   "teaching",
+   "jagannatha"
+  ],
+  "teaching": [
+   "scripture"
+  ],
+  "event": "ev-divakara-name-mantra-teachings",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/06.md",
+    "from": "6.1",
+    "to": "6.100"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/06.md",
+    "from": "6.1",
+    "to": "6.100",
+    "line": 8,
+    "line_to": 139,
+    "count": 100,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/06.md?plain=1#L8-L139",
+    "file_en": "divakara-jagannatha-charitamrita/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/06.md?plain=1#L8-L139"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "mpk-0011",
   "source": "mahabhava-prakasha",
   "ref": "Гл. 2, 29–72, 123–169 (продолжается)",
@@ -209876,6 +210064,80 @@
   "attestation": 1
  },
  {
+  "id": "dvk-0019",
+  "source": "divakara-jcm",
+  "ref": "Гл. 7, 1–19",
+  "file": "divakara-jagannatha-charitamrita/ru/07.md",
+  "period": "P14",
+  "order": 43,
+  "title": "Махапрабху со спутниками в джагамохане; гаудии на Гундича-ятре и Бахуде",
+  "summary": "Однажды Прабху приходит в джагамохану; с Ним Гауридас Пандит, Матта Баларама, Рупа, Санатана, Рагхунатха Бхатта, Джива, Гопала Дас, Рагхунатха Дас, Каши Мишра, Сарвабхаума, Гопинатха Ачарья, Джагадананда, Мукунда Датта, Дамодара, Рамананда, Нитьянанда и Адвайта; Он обходит Джаганнатху четыре раза и двенадцать раз простирается. Гаудийские вайшнавы приходят на Гундичу, служат девять дней ятры, а после Бахуды, в шукла-экадаши ашадхи, все кланяются Прабху.",
+  "persons": [
+   "@mahaprabhu",
+   "@gauridasa-pandita",
+   "@balarama-dasa-odia",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@raghunatha-bhatta",
+   "@jiva-gosvami",
+   "@raghunatha-dasa",
+   "@kashi-mishra",
+   "@sarvabhauma",
+   "@gopinatha-acharya",
+   "@jagadananda-pandita",
+   "@mukunda-datta",
+   "@ramananda-raya",
+   "@nityananda",
+   "@advaita",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 12–14 (Гундича-ятра)",
+  "notes": "Сборный перечень спутников, исторически не бывших вместе (напр., Джива в Пури); сноски перевода.",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "event": "ev-bahuda-return-chariots",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.1",
+    "to": "7.19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.1",
+    "to": "7.19",
+    "line": 8,
+    "line_to": 26,
+    "count": 19,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/07.md?plain=1#L8-L26",
+    "file_en": "divakara-jagannatha-charitamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/07.md?plain=1#L8-L26"
+   }
+  ],
+  "cc": "Мадхья 14 (упоминание)",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 3
+ },
+ {
   "id": "mpk-0012",
   "source": "mahabhava-prakasha",
   "ref": "Гл. 2, 73–122",
@@ -209994,6 +210256,68 @@
   "age": [
    30,
    36
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "dvk-0020",
+  "source": "divakara-jcm",
+  "ref": "Гл. 7, 20–63",
+  "file": "divakara-jagannatha-charitamrita/ru/07.md",
+  "period": "P14",
+  "order": 44,
+  "title": "Махапрабху толкует Харинаму: «Хари», «Рама», «Кришна»",
+  "summary": "Джаганнатха Дас, Нитьянанда и вайшнавы спрашивают о Харинаме; Прабху толкует: «Хари» пребывает во всех существах и памятованием уничтожает грех; «Рама» — потому что Кришна наслаждается расой с Радхой (шлока «вайдагдхья-сара-сарвасвам…»), это облик сач-чид-ананды; «Кришна» — высшее блаженство, тёмный, как сапфир, «Гокулананда», «Нанданандана» — явившийся у Нанды в Двапара-югу; всё, что произносит речь и видит глаз, — Харинама.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@nityananda",
+   "@radha",
+   "@divakara-dasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "Толкования махамантры у гаудия-вайшнавов (Рама — Радха-рамана); ЧЧ Ади 17.22",
+  "notes": "Близко к гаудийскому толкованию «Рамы» как Радха-рамана; «бесформенный Брахман» (7.40) — сноска с позицией гаудия-вайшнавов.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-divakara-name-mantra-teachings",
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.20",
+    "to": "7.63"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/07.md",
+    "from": "7.20",
+    "to": "7.63",
+    "line": 31,
+    "line_to": 78,
+    "count": 44,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/07.md?plain=1#L31-L78",
+    "file_en": "divakara-jagannatha-charitamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/07.md?plain=1#L31-L78"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
   ],
   "attestation": 1
  },
@@ -273173,6 +273497,51 @@
   "cc": "Ади 5–6; Ади 1",
   "cb": "Ади 1.11–82",
   "attestation": 5
+ },
+ {
+  "id": "dvk-0016",
+  "source": "divakara-jcm",
+  "ref": "Гл. 5, 1–24",
+  "file": "divakara-jagannatha-charitamrita/ru/05.md",
+  "period": "PX",
+  "order": 5,
+  "title": "Дивакар о себе и о книге",
+  "summary": "Из страха перед хулителями Дивакар пишет немного и сокровенно; называет отца Джанадеву, деда Джагу Даса, прадеда Нанду Даса, мать Чампу, готру Бхарадваджа; его уму не мило ничто, кроме Джаганнатхи (шлока «не Вриндаван, не Айодхья…»); книгу он сложил, передавая смысл шлок и наставления Госая; Шри Чайтанья, наставивший Сарвабхауму, двадцать четыре года прожил в кшетре.",
+  "persons": [
+   "@divakara-dasa",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 1 (по ЧЧ Господь прожил в Пури восемнадцать лет после санньясы и странствий)",
+  "notes": "«Двадцать четыре года в кшетре» — расходится с ЧЧ (сноски перевода).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/05.md",
+    "from": "5.1",
+    "to": "5.24"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "divakara-jagannatha-charitamrita/ru/05.md",
+    "from": "5.1",
+    "to": "5.24",
+    "line": 8,
+    "line_to": 33,
+    "count": 24,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/ru/05.md?plain=1#L8-L33",
+    "file_en": "divakara-jagannatha-charitamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/divakara-jagannatha-charitamrita/en/05.md?plain=1#L8-L33"
+   }
+  ],
+  "attestation": 1
  },
  {
   "id": "jcm-0006",

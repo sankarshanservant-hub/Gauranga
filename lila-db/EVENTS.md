@@ -3487,6 +3487,7 @@
 - cc (A): Мадхья 6.199–215 — [199–215](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1636-L1764) · `cc-1052`
 - divakara-jcm (D): Гл. 4, 106–149 — [4.106–4.149](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L176-L223) · `dvk-0014`
 - cc (A): Мадхья 6.216–238 — [216–238](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1772-L1956) · `cc-1053`
+- divakara-jcm (D): Гл. 4, 150–161 — [4.150–4.161](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L228-L239) · `dvk-0015`
 - cc (A): Мадхья 6.239–247 — [239–247](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1964-L2030) · `cc-1054`
 - cc (A): Мадхья 6.248–258 — [248–258](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L2038-L2126) · `cc-1055`
 - cc (A): Мадхья 6.259–278 — [259–278](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L2134-L2287) · `cc-1056`
@@ -4286,6 +4287,7 @@
 
 - cc (A): Мадхья 14.244–247 — [244–247](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L2002-L2026) · `cc-2071`
 - gaura-krishnodaya (B): Сарга 12, 21–22 — [21–22](../gaura-krishnodaya/ru/12.md?plain=1#L51-L53) · `gkd-0116`
+- divakara-jcm (D): Гл. 7, 1–19 — [7.1–7.19](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L8-L26) · `dvk-0019`
 
 ## Шёлковые верёвки для Джаганнатхи: служение жителей Кулинаграмы / Silk ropes for Jagannatha: the service of the residents of Kulinagrama  `ev-kulinagrama-silk-ropes` (1512–1514, возраст 26–28, оценка)
 
@@ -5744,6 +5746,12 @@
 ## Собрание в доме Каши Мишры в шукла-навами чайтры: Господь в самадхи обнимает Рамананду / The gathering at Kashi Mishra's house on the bright ninth of Chaitra: the Lord in trance embraces Ramananda  `ev-chaitra-navami-kashi-mishra-gathering` (1516–1533, возраст 30–47, оценка)
 
 - mahabhava-prakasha (C): Гл. 1, 99–107 — [1.99–1.107](../mahabhava-prakasha/ru/01.md?plain=1#L119-L127) · `mpk-0007`
+
+## Наставления Махапрабху о Харинаме, каваче Имени и мурти Джаганнатхи (по Дивакару Дасу) / Mahaprabhu's teachings on the Harinama, the kavacha of the Name and the murti of Jagannatha (according to Divakara Dasa)  `ev-divakara-name-mantra-teachings` (1516–1533, возраст 30–47, оценка)
+
+- divakara-jcm (D): Гл. 5, 25–108 — [5.25–5.108](../divakara-jagannatha-charitamrita/ru/05.md?plain=1#L34-L135) · `dvk-0017`
+- divakara-jcm (D): Гл. 6, 1–100 — [6.1–6.100](../divakara-jagannatha-charitamrita/ru/06.md?plain=1#L8-L139) · `dvk-0018`
+- divakara-jcm (D): Гл. 7, 20–63 — [7.20–7.63](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L31-L78) · `dvk-0020`
 
 ## Рупа в созерцании лилы смеётся при виде вайшнава; взаимное испрашивание прощения / Rupa, absorbed in the vision of the lila, laughs on seeing a Vaishnava; mutual asking of forgiveness  `ev-rupa-laughs-vaishnava-offense` (1516–1533, возраст 30–47, оценка)
 
