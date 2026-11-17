@@ -181,6 +181,8 @@
   }
   function renderMobileBooks() {
     const [, ev] = S.open ? findEv(S.open) : [null, null];
+    // прототип листа писаний (proto/lila-sheet.js, ?proto=sheet): три варианта на выбор — рисует он, а не этот код
+    if (window.GLProto && sheetMode() && window.GLProto.render(ev)) return;
     if (!sheetMode()) { mbooks.classList.remove('is-sheet'); document.body.classList.remove('mb-open'); mbShown = false; mbooks.innerHTML = ev ? booksHtml(ev) : ''; markCurrentBook(); return; }
     if (!ev) { if (mbShown && mbCtl && mbCtl.open) mbSheet().hide(); else { mbooks.innerHTML = ''; mbooks.classList.remove('is-sheet'); } return; }
     const tt = t();
@@ -1094,6 +1096,16 @@
   window.addEventListener('pagehide', musicSave);
   musicLabel();
   if (M.on) musicPlay(); // если браузер разрешит — сразу, иначе с первого нажатия
+
+  // для прототипа листа писаний (proto/lila-sheet.js): данные и действия ленты, без доступа к её внутреннему состоянию
+  window.GLApp = {
+    booksHtml, when, esc, L, t: () => t(), lang: () => S.lang,
+    figHtml: (id) => fig(id, LOTUS), image: (id) => IMAGES[id] || null,
+    closeLila: () => { if (S.open) openLila(S.open); },
+    openReader: (ev, src) => openReader(ev, src), openPeople: (key) => openPeople(key),
+    event: (id) => findEv(id)[1] || null,
+    mbooks,
+  };
 
   /* ——— запуск: по умолчанию раскрыт эпизод «Явление Господа» и лила рождения ——— */
   fetch('data/persons.json').then(r => r.json()).then(p => { S.persons = p; renderReader(); if (S.tab === 'people') renderPeopleList(); }).catch(() => { S.persons = {}; });
