@@ -170,28 +170,62 @@
     jump.innerHTML = `<option value="" disabled>${tt.jumpLabel}…</option>` + S.data.episodes.map(ep => `<optgroup label="${esc(L(ep, 'title'))}">` + ep.events.map(e => `<option value="${e.id}">${esc(L(e, 'title'))}</option>`).join('') + '</optgroup>').join('');
     jump.value = S.open || '';
   }
-  // телефон, новое поведение (vendor/hk-feel; прежнее — ?feel=old): писания раскрытой лилы — лист снизу на плотной бумаге.
-  // Выезжает при раскрытии лилы, смахивается вниз (лила сворачивается), «×» — то же; другая лила — тот же лист, без повторного выезда.
+  // телефон, новое поведение (vendor/hk-feel; прежнее — ?feel=old): раскрытая лила — своя страница во весь экран.
+  // Выбор владельца 18.11.2026 из прототипа «Детенты · Страница · Полка»: большая картинка, название, писания крупными строками.
+  // «‹ Лилы», смахивание вниз или «назад» (жест, кнопка браузера) — к ленте, лила сворачивается. Свиток открывается поверх.
   const phone = () => matchMedia('(max-width: 700px)').matches;
   const sheetMode = () => FEEL() && phone();
-  let mbCtl = null, mbShown = false;
-  function mbSheet() {
-    return mbCtl || (mbCtl = window.HKFeel.sheet({ el: mbooks, scroller: () => mbooks, threshold: 0.35,
-      onClosed: () => { if (mbCtl.open) return; mbShown = false; document.body.classList.remove('mb-open'); mbooks.classList.remove('is-sheet'); mbooks.innerHTML = ''; if (S.open) openLila(S.open); } }));
+  let lp = null;
+  function lpFill(ev) {
+    const tt = t();
+    lp.el.innerHTML = `<div class="lpage__scroll"><figure class="lpage__hero">${fig(ev.id, LOTUS)}</figure>
+      <div class="lpage__head"><p class="lpage__k">${S.lang === 'en' ? 'Lila' : 'Лила'}</p><h2>${esc(L(ev, 'title'))}</h2><p>${esc(when(ev))}</p></div>
+      <div class="lpage__sec"><h3>${esc(tt.sources(ev.sources.length))}</h3><ul class="lpage__list">${booksHtml(ev)}</ul></div></div>
+      <header class="lpage__bar"><button type="button" class="lpage__back" aria-label="${S.lang === 'en' ? 'Back to the ribbon' : 'Назад к ленте'}">‹ ${S.lang === 'en' ? 'Lilas' : 'Лилы'}</button><b>${esc(L(ev, 'title'))}</b></header>`;
+    const sc = lp.el.querySelector('.lpage__scroll'), bar = lp.el.querySelector('.lpage__bar'), hero = lp.el.querySelector('.lpage__hero');
+    sc.addEventListener('scroll', () => {
+      const y = sc.scrollTop;
+      bar.classList.toggle('is-solid', y > hero.offsetHeight - 70);
+      if (!reduced()) hero.style.transform = `translate3d(0,${(y * 0.35).toFixed(1)}px,0)`;  // картинка уходит медленнее текста
+    }, { passive: true });
+    lp.el.setAttribute('aria-label', L(ev, 'title'));
+    markCurrentBook();
+  }
+  function lpClose() {
+    if (!lp || !lp.ctl.open) return;
+    if (history.state && history.state.glLila) { history.back(); return; }  // закроет popstate
+    lp.ctl.hide();
+  }
+  window.addEventListener('popstate', (e) => { if (lp && lp.ctl.open && !(e.state && e.state.glLila)) lp.ctl.hide(); });
+  function lilaPage(ev) {
+    if (lp) { lpFill(ev); if (!lp.ctl.open) lp.ctl.show(); return; }
+    const el = document.createElement('section');
+    el.className = 'lpage'; el.setAttribute('role', 'dialog'); el.setAttribute('aria-modal', 'true');
+    document.body.appendChild(el);
+    const ctl = window.HKFeel.sheet({ el, size: () => innerHeight, threshold: 0.28, scroller: () => el.querySelector('.lpage__scroll'), skip: '.lpage__back',
+      onClosed: () => {
+        if (ctl.open) return;
+        el.remove(); lp = null; document.body.classList.remove('lp-open');
+        if (history.state && history.state.glLila) history.back();  // смахнули — убрать и запись в истории
+        if (S.open) openLila(S.open);
+      } });
+    el.addEventListener('click', (e) => {
+      const tg = e.target instanceof Element ? e.target : null; if (!tg) return;
+      if (tg.closest('.lpage__back')) { lpClose(); return; }
+      const pb = tg.closest('.people-btn'); if (pb) { openPeople(pb.dataset.people); return; }
+      const b = tg.closest('.book'); if (b) openReader(b.dataset.ev, b.dataset.src);
+    });
+    lp = { el, ctl };
+    lpFill(ev);
+    document.body.classList.add('lp-open');
+    if (!(history.state && history.state.glLila)) history.pushState(Object.assign({}, history.state, { glLila: 1 }), '', location.href);
+    ctl.show();
   }
   function renderMobileBooks() {
     const [, ev] = S.open ? findEv(S.open) : [null, null];
-    // прототип листа писаний (proto/lila-sheet.js, ?proto=sheet): три варианта на выбор — рисует он, а не этот код
-    if (window.GLProto && sheetMode() && window.GLProto.render(ev)) return;
-    if (!sheetMode()) { mbooks.classList.remove('is-sheet'); document.body.classList.remove('mb-open'); mbShown = false; mbooks.innerHTML = ev ? booksHtml(ev) : ''; markCurrentBook(); return; }
-    if (!ev) { if (mbShown && mbCtl && mbCtl.open) mbSheet().hide(); else { mbooks.innerHTML = ''; mbooks.classList.remove('is-sheet'); } return; }
-    const tt = t();
-    mbooks.innerHTML = `<li class="mb-head"><span class="mb-grab" aria-hidden="true"></span><span class="mb-title"><b>${esc(L(ev, 'title'))}</b><small>${tt.sources(ev.sources.length)}</small></span>` +
-      `<button type="button" class="mb-x" data-mbx aria-label="${S.lang === 'en' ? 'Close' : 'Закрыть'}">×</button></li>` + booksHtml(ev);
-    mbooks.classList.add('is-sheet');
-    markCurrentBook();
-    document.body.classList.add('mb-open');
-    if (!mbShown || !mbSheet().open) { mbShown = true; mbooks.scrollTop = 0; mbSheet().show(); }
+    if (!sheetMode()) { mbooks.innerHTML = ev ? booksHtml(ev) : ''; markCurrentBook(); return; }
+    mbooks.innerHTML = '';
+    if (ev) lilaPage(ev); else if (lp) lpClose();
   }
 
   function xOf(el) { return el.getBoundingClientRect().left - ribbon.getBoundingClientRect().left + ribbon.scrollLeft; }
@@ -233,7 +267,7 @@
       });
       renderMobileBooks();
     }
-    if (S.open) { jump.value = S.open; history.replaceState(null, '', '#' + S.open); }
+    if (S.open) { jump.value = S.open; history.replaceState(history.state, '', '#' + S.open); }  // состояние не теряем: в нём отметка страницы лилы (glLila)
     setTimeout(() => S.open && centerOn(S.open, smooth), reduced() ? 0 : 470);
   }
 
@@ -294,7 +328,6 @@
   $('next').addEventListener('click', () => step(1));
   jump.addEventListener('change', () => openLila(jump.value, true, true));
   mbooks.addEventListener('click', e => {
-    if (e.target.closest('[data-mbx]')) { if (mbCtl && mbCtl.open) mbSheet().hide(); return; }
     const pb = e.target.closest('.people-btn'); if (pb) { openPeople(pb.dataset.people); return; }
     const b = e.target.closest('.book'); if (b) openReader(b.dataset.ev, b.dataset.src);
   });
@@ -1034,11 +1067,13 @@
   /* ——— фоновая музыка: «Prema Dhama», 8 частей по 10 мин, по кругу. Звук браузер разрешает только после
      действия пользователя, поэтому при включённой музыке она начинается с первого нажатия на странице. ——— */
   const MUSIC = Array.from({ length: 8 }, (_, i) => `assets/audio/prema-dhama-${i + 1}.mp3`);
-  // новое поведение: без сохранённого выбора музыка выключена — включается кнопкой ♪, а не первым касанием где угодно
-  const M = { on: !FEEL(), part: 0, time: 0, el: null, next: null, started: false, fade: 0 };
+  // Без сохранённого выбора музыка выключена — включается кнопкой ♪, а не первым касанием где угодно; выключили однажды —
+  // сама больше не заиграет (владелец, 18.11.2026; отдельная отметка gl-music-off, её снимает только кнопка ♪).
+  const M = { on: false, part: 0, time: 0, el: null, next: null, started: false, fade: 0 };
   try {
     const m = JSON.parse(localStorage.getItem('gl-music') || 'null');
-    if (m) { M.on = m.on !== false; M.part = (m.part | 0) % MUSIC.length; M.time = +m.time || 0; }
+    if (m) { M.on = m.on === true; M.part = (m.part | 0) % MUSIC.length; M.time = +m.time || 0; }
+    if (localStorage.getItem('gl-music-off') === '1') M.on = false;
   } catch (e) { /* ничего */ }
   const musicBtn = $('music');
   function musicSave() { try { localStorage.setItem('gl-music', JSON.stringify({ on: M.on, part: M.part, time: M.el ? M.el.currentTime : M.time })); } catch (e) { /* ничего */ } }
@@ -1047,9 +1082,33 @@
     musicBtn.setAttribute('aria-label', S.lang === 'en' ? (M.on ? 'Turn music off' : 'Turn music on') : (M.on ? 'Выключить музыку' : 'Включить музыку'));
     musicBtn.title = musicBtn.getAttribute('aria-label');
   }
+  // Громкость — через Web Audio (GainNode): на iPhone громкость <audio> из кода не меняется, и без этого музыка
+  // включалась сразу на полную. Нарастание медленное (≈ 8 с, по мягкой кривой), затухание при выключении — 0,6 с.
+  let AC = null;
+  function ac() {
+    if (!AC) { const C = window.AudioContext || window.webkitAudioContext; if (C) { try { AC = new C(); } catch (e) { AC = null; } } }
+    if (AC && AC.state === 'suspended') AC.resume().catch(() => {});
+    return AC;
+  }
+  function gainOf(a) {
+    if (a._g !== undefined) return a._g;
+    a._g = null;
+    const c = ac();
+    if (c) { try { const src = c.createMediaElementSource(a), g = c.createGain(); g.gain.value = 0; src.connect(g); g.connect(c.destination); a.volume = 1; a._g = g; } catch (e) { a._g = null; } }
+    return a._g;
+  }
   function audioFor(i) { const a = new Audio(MUSIC[i]); a.preload = 'auto'; a.volume = 0; return a; }
   function fadeTo(a, v, ms, done) {
-    clearInterval(M.fade);
+    clearInterval(M.fade); clearTimeout(M.fadeT);
+    const g = gainOf(a);
+    if (g) {
+      const now = AC.currentTime, p = g.gain;
+      p.cancelScheduledValues(now); p.setValueAtTime(p.value, now);
+      if (v > p.value) p.setTargetAtTime(v, now, ms / 1000 / 3);  // нарастание — плавная кривая, без рывка в начале
+      else p.linearRampToValueAtTime(v, now + ms / 1000);
+      if (done) M.fadeT = setTimeout(done, ms);
+      return;
+    }
     const from = a.volume, t0 = performance.now();
     M.fade = setInterval(() => {
       const k = Math.min(1, (performance.now() - t0) / ms);
@@ -1061,19 +1120,22 @@
   function musicPlay() {
     if (!M.el) {
       M.el = audioFor(M.part);
+      gainOf(M.el);  // звук — сразу через регулятор, иначе первые мгновения прозвучат громко
       M.el.currentTime = M.time;
       M.el.addEventListener('ended', musicNext);
       M.el.addEventListener('timeupdate', () => {
         if (!M.next && M.el.duration && M.el.duration - M.el.currentTime < 20) M.next = audioFor((M.part + 1) % MUSIC.length);
       });
     }
-    M.el.play().then(() => { M.started = true; fadeTo(M.el, VOL, 2500); }).catch(() => { M.started = false; });
+    ac();
+    M.el.play().then(() => { M.started = true; fadeTo(M.el, VOL, 8000); }).catch(() => { M.started = false; });
   }
   function musicNext() {
     M.part = (M.part + 1) % MUSIC.length;
     const n = M.next || audioFor(M.part);
     M.next = null; M.el = null; M.time = 0;
-    M.el = n; n.volume = VOL;
+    M.el = n;
+    { const g = gainOf(n); if (g) g.gain.value = VOL; else n.volume = VOL; }
     n.addEventListener('ended', musicNext);
     n.addEventListener('timeupdate', () => {
       if (!M.next && n.duration && n.duration - n.currentTime < 20) M.next = audioFor((M.part + 1) % MUSIC.length);
@@ -1086,9 +1148,11 @@
     e.stopPropagation();
     if (M.on && !M.started) { musicPlay(); return; } // была включена, но браузер ждал нажатия
     M.on = !M.on; musicLabel(); musicSave();
+    try { if (M.on) localStorage.removeItem('gl-music-off'); else localStorage.setItem('gl-music-off', '1'); } catch (e) { /* ничего */ }
     if (M.on) musicPlay(); else musicPause();
   });
   function firstGesture() {
+    if (AC && AC.state === 'suspended') AC.resume().catch(() => {});  // звук через Web Audio iOS пускает только после касания
     if (M.on && !M.started) musicPlay();
   }
   ['pointerdown', 'keydown'].forEach(ev => document.addEventListener(ev, firstGesture, { capture: true }));
@@ -1096,16 +1160,6 @@
   window.addEventListener('pagehide', musicSave);
   musicLabel();
   if (M.on) musicPlay(); // если браузер разрешит — сразу, иначе с первого нажатия
-
-  // для прототипа листа писаний (proto/lila-sheet.js): данные и действия ленты, без доступа к её внутреннему состоянию
-  window.GLApp = {
-    booksHtml, when, esc, L, t: () => t(), lang: () => S.lang,
-    figHtml: (id) => fig(id, LOTUS), image: (id) => IMAGES[id] || null,
-    closeLila: () => { if (S.open) openLila(S.open); },
-    openReader: (ev, src) => openReader(ev, src), openPeople: (key) => openPeople(key),
-    event: (id) => findEv(id)[1] || null,
-    mbooks,
-  };
 
   /* ——— запуск: по умолчанию раскрыт эпизод «Явление Господа» и лила рождения ——— */
   fetch('data/persons.json').then(r => r.json()).then(p => { S.persons = p; renderReader(); if (S.tab === 'people') renderPeopleList(); }).catch(() => { S.persons = {}; });

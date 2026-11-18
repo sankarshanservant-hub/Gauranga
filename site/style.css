@@ -266,7 +266,7 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 .auth--A { background: #6d4512; }
 .auth--B { background: #8d6326; }
 .auth--C { background: #a88a5c; }
-.auth--D { background: #b9ab93; color: #3b2412; }
+.auth--D { background: #8f7f63; color: #fff6e2; } /* белая буква, как у A–C (владелец, 18.11.2026): на тёмной легенде тёмная «D» терялась */
 
 .mbooks { display: none; }
 
@@ -684,28 +684,33 @@ html:not([data-feel="old"]) .scroll.rollup { animation: rollup .26s cubic-bezier
 body.is-reading .ainst { display: none !important; } /* приглашение «Установить» не ложится поверх свитка */
 @media (prefers-reduced-motion: reduce) { html:not([data-feel="old"]) .scroll.rollup { animation: none; } }
 
-/* телефон, новое поведение: писания раскрытой лилы — лист снизу (app.js renderMobileBooks); прежнее — список под лентой */
-@media (max-width: 700px) {
-  html:not([data-feel="old"]) .mbooks.is-sheet {
-    position: fixed; z-index: 30; left: 0; right: 0; bottom: 0; margin: 0;
-    max-height: min(50dvh, 460px); overflow-y: auto; overscroll-behavior: contain;
-    padding: 6px 14px calc(14px + env(safe-area-inset-bottom, 0px));
-    background: linear-gradient(#f6e7c4, #eed8a8); color: var(--ink);
-    border-radius: 18px 18px 0 0; border-top: 1px solid rgba(138, 90, 43, .45);
-    box-shadow: 0 -14px 40px rgba(0, 0, 0, .55); will-change: transform;
-  }
-  html:not([data-feel="old"]) .mbooks.is-sheet .mb-head {
-    position: sticky; top: -6px; z-index: 1; display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 2px 8px;
-    margin: -6px -14px 2px; padding: 16px 10px 8px 16px; background: linear-gradient(#f6e7c4 80%, rgba(246, 231, 196, 0));
-  }
-  html:not([data-feel="old"]) .mb-grab { position: absolute; top: 6px; left: 50%; width: 40px; height: 5px; margin-left: -20px; border-radius: 3px; background: rgba(107, 63, 23, .35); }
-  html:not([data-feel="old"]) .mb-title b { display: block; font: 600 19px/1.15 var(--display); }
-  html:not([data-feel="old"]) .mb-title small { font: italic 14px/1.2 var(--body); color: var(--ink-soft); }
-  html:not([data-feel="old"]) .mb-x { width: 44px; height: 44px; border: 0; border-radius: 50%; background: rgba(107, 63, 23, .1); color: var(--ink); font: 24px/1 var(--display); }
-  html:not([data-feel="old"]) .mbooks.is-sheet .book { background: rgba(255, 250, 236, .75); padding-block: 9px; }
-  html:not([data-feel="old"]) .mbooks.is-sheet .book__t { font-size: 17px; }
-  html:not([data-feel="old"]) .mbooks.is-sheet .book__author { font-size: 13.5px; }
-  html:not([data-feel="old"]) body.is-reading .mbooks.is-sheet { visibility: hidden; } /* под открытым свитком не мешает */
-  body.mb-open .ainst { display: none !important; } /* приглашение «Установить» не ложится на лист */
-  body.mb-open .foot { visibility: hidden; } /* подсказка и легенда внизу страницы — под листом (main — свой слой, лист его не перекрывает) */
-}
+/* телефон, новое поведение: раскрытая лила — своя страница во весь экран (app.js lilaPage, выбор владельца 18.11.2026) */
+.lpage { position: fixed; inset: 0; z-index: 30; color: var(--ink); will-change: transform; box-shadow: 0 -10px 40px rgba(0, 0, 0, .5);
+  background: radial-gradient(120% 50% at 50% 22%, #fff1d2, rgba(255, 241, 210, 0) 70%), linear-gradient(#f8ebcd, #efdcb2 60%, #ead3a4); }
+body.is-reading .lpage { visibility: hidden; } /* свиток — поверх страницы */
+body.lp-open .ainst, body.lp-open .foot { visibility: hidden; }
+.lpage__scroll { position: absolute; inset: 0; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; }
+.lpage__hero { margin: 0; box-sizing: border-box; overflow: hidden; height: min(52dvh, 440px); display: flex; align-items: center; justify-content: center;
+  padding: calc(env(safe-area-inset-top, 0px) + 54px) 24px 10px; will-change: transform; }
+.lpage__hero img { width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 18px 26px rgba(80, 40, 5, .35)); }
+.lpage__hero .ph { width: 60%; color: #8a5a2b; }
+.lpage__head { padding: 4px 22px 6px; text-align: center; }
+.lpage__k { margin: 0; font: 600 12.5px/1 var(--body); letter-spacing: .18em; text-transform: uppercase; color: #8a5a2b; }
+.lpage__head h2 { margin: 8px 0 4px; font: 600 30px/1.08 var(--display); letter-spacing: -.01em; text-wrap: balance; }
+.lpage__head p:last-child { margin: 0; font: italic 16px/1.3 var(--body); color: var(--ink-soft); }
+.lpage__sec { padding: 18px 16px calc(28px + env(safe-area-inset-bottom, 0px)); }
+.lpage__sec h3 { margin: 0 6px 10px; font: 600 13px/1 var(--body); letter-spacing: .14em; text-transform: uppercase; color: #8a5a2b; }
+.lpage__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.lpage__list .book { background: rgba(255, 250, 236, .78); padding-block: 14px; border-radius: 12px; transform: none; }
+.lpage__list .book__t { font-size: 19px; }
+.lpage__list .book__author { font-size: 14.5px; }
+.lpage__list .people-btn { padding-block: 12px; }
+.lpage__bar { position: absolute; left: 0; right: 0; top: 0; z-index: 2; display: flex; align-items: center; gap: 10px;
+  padding: calc(env(safe-area-inset-top, 0px) + 8px) 12px 8px; transition: background-color .2s, box-shadow .2s; }
+.lpage__bar.is-solid { background: rgba(246, 231, 196, .86); -webkit-backdrop-filter: blur(16px) saturate(1.5); backdrop-filter: blur(16px) saturate(1.5); box-shadow: 0 1px 0 rgba(138, 90, 43, .25); }
+.lpage__back { display: inline-flex; align-items: center; gap: 4px; height: 40px; padding: 0 14px 0 8px; border: 0; border-radius: 999px; background: rgba(255, 248, 230, .75); color: var(--ink); font: 600 17px/1 var(--display); }
+.lpage__back:active { transform: scale(.95); }
+.lpage__bar b { flex: 1; min-width: 0; font: 600 18px/1.1 var(--display); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; opacity: 0; transition: opacity .2s; }
+.lpage__bar.is-solid b { opacity: 1; }
+@media (prefers-reduced-transparency: reduce) { .lpage__bar.is-solid { background: #f6e7c4; -webkit-backdrop-filter: none; backdrop-filter: none; } }
+@media (prefers-reduced-motion: reduce) { .lpage__bar, .lpage__bar b { transition: none; } }
