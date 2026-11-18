@@ -2882,7 +2882,9 @@
    "@radha",
    "@narahari-chakravarti"
   ],
-  "places": [],
+  "places": [
+   "#javat"
+  ],
   "kind": "lila",
   "authority": "C",
   "parallels": "Ср. «Говинда-лиламрита»; пады о переодеваниях Кришны",
