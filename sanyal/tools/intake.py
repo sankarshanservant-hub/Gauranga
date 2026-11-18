@@ -1,4 +1,5 @@
-"""Вносит фрагмент перевода Саньяла: python3 -I sanyal/tools/intake.py <папка с порцией> SN-<раздел>-NN
+"""Вносит фрагмент перевода Саньяла: python3 -I sanyal/tools/intake.py <папка с порцией> SN-<раздел>-NN [+N|-N …]
++N / -N — абзац N на стыке фрагментов переведён в этом / в соседнем фрагменте (склейка разорванной фразы).
 Сверяет номера абзацев [N] с фрагментом (sanyal/tools/split.py), снимает номера, дописывает sanyal/ru/<раздел>.md;
 REPORT — в sanyal/review/reports-<раздел>.md."""
 import os, re, sys, subprocess, tempfile
@@ -15,8 +16,10 @@ body = re.sub(r'<!--.*?-->', '', raw, flags=re.S).strip()
 got = []
 for a, b in re.findall(r'(?m)^\[(\d+)(?:[–-](\d+))?\]', body):
     got += list(range(int(a), int(b or a) + 1))
+for x in sys.argv[3:]:
+    want = sorted(set(want) | {int(x[1:])}) if x[0] == '+' else [w for w in want if w != int(x[1:])]
 assert got == want, (portion, 'абзацы', sorted(set(want) ^ set(got)), len(want), len(got))
-for pat in (r'статуя|статуи|изваян|идол|вожделен|похот|страст',):
+for pat in (r'статуя|статуи|изваян|\bидол(?!опоклон)|вожделен|похот|(?<!при)(?<!беспри)страст',):
     for l in body.splitlines():
         if re.search(pat, l, re.I): print('СТОП-СЛОВО:', l[:150])
 body = re.sub(r'(?m)^\[\d+(?:[–-]\d+)?\]\s*', '', body)

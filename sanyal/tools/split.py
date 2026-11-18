@@ -52,7 +52,7 @@ def main(outdir):
         if cur:
             frags.append(cur)
         if len(frags) > 1 and sum(len(x.split()) for x in frags[-1]) < 500:   # короткий хвост — к предыдущему
-            frags[-2] += frags.pop()
+            tail = frags.pop(); frags[-1] += tail   # не «frags[-2] += frags.pop()»: индекс -2 вычисляется до pop
         start = 1
         for i, fr in enumerate(frags, 1):
             name = f'SN-{code}-{i:02d}.txt'
