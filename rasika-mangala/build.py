@@ -62,7 +62,8 @@ def prepare(text, key, lang):
         order.setdefault(m.group(1), len(order) + 1)
     for lab in kept:
         order.setdefault(lab, len(order) + 1)
-    body = re.sub(r'\[\^([^\]]+)\]', lambda m: f'[^{key}-{order[m.group(1)]}]', body).replace('][^', '],[^')
+    body = re.sub(r'\[\^([^\]]+)\]', lambda m: f'[^{key}-{order[m.group(1)]}]', body)
+    body = re.sub(r'(\[\^[^\]]+\])(?=\[\^)', r'\1,', body)          # две сноски подряд: «1,2»
     notes = '\n\n'.join(f'[^{key}-{order[l]}]: {kept[l]}' for l in sorted(kept, key=lambda l: order[l]))
     return body.rstrip() + '\n\n' + notes + '\n'
 
