@@ -367,6 +367,7 @@
 - cc (A): Антья 3.98–142 — [98–142](../chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L1059-L1492) · `cc-4031`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (850–853) — [850–853](../prema-vilasa/ru/25.md?plain=1#L2622-L2631) · `pvl-0221`
 - prema-vilasa (C): Виласа 24, 261–289 — [261–289](../prema-vilasa/ru/24.md?plain=1#L785-L871) · `pvl-0256`
+- sanyal (C): Т. II, гл. 19 —  · `sn-0018`
 
 ## Харидас перед мусульманским правителем / Haridasa before the Muslim governor  `ev-haridasa-muslim-governor`
 
@@ -377,6 +378,7 @@
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (845–849) — [845–849](../prema-vilasa/ru/25.md?plain=1#L2607-L2619) · `pvl-0220`
 - prema-vilasa (C): Виласа 24, 250–260 — [250–260](../prema-vilasa/ru/24.md?plain=1#L752-L782) · `pvl-0255`
 - cb (A): Ади 16, 148–171 — [148–171](../chaitanya-bhagavata/ed/CB_Adi16.md?plain=1#L735-L844) · `cb-0114`
+- sanyal (C): Т. II, гл. 20 —  · `sn-0019`
 
 ## Змей у пещеры Харидаса обретает освобождение / The snake at Haridasa's cave attains liberation  `ev-haridasa-snake`
 
@@ -1264,6 +1266,7 @@
 
 ## Под видом «болезни вайю» Господь являет прему / Under the pretext of a disorder of vayu, the Lord manifests prema  `ev-vayu-vyadhi-prema` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 11 —  · `sn-0010`
 - bhakti-ratnakara (B): Таранга 12, 1366–1368 — [1366–1368](../bhakti-ratnakara/ru/12.md?plain=1#L4277-L4283) · `brt-6061`
 - bhakti-ratnakara (B): Таранга 12, 2213–2215 — [2213–2215](../bhakti-ratnakara/ru/12.md?plain=1#L7194-L7200) · `brt-7032`
 - cb (A): Ади 12, 67–87 — [67–87](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L337-L437) · `cb-0087`
@@ -1276,6 +1279,8 @@
 
 ## Победа над дигвиджайи Кешавой Кашмири / Victory over the digvijayi Keshava Kashmiri  `ev-keshava-kashmiri-defeat` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 17 —  · `sn-0016`
+- sanyal (C): Т. II, гл. 18 —  · `sn-0017`
 - gaura-krishnodaya (B): Сарга 5, 11–27 — [11–27](../gaura-krishnodaya/ru/05.md?plain=1#L27-L61) · `gkd-0042`
 - bhaktamal (D): Приядас, кавитты 333–336 (к чхаппаю 75 о Кешаве Бхатте; изд. 1914, с. 90–91); § 4.2 — [333–336](../vallabha/ru/04.md?plain=1#L64-L87) · `bkm-0010`
 - bhakti-ratnakara (B): Таранга 2, 227–253 — [227–253](../bhakti-ratnakara/ru/02.md?plain=1#L683-L761) · `brt-0050`
@@ -1322,6 +1327,7 @@
 
 ## Тапана Мишра в Восточной Бенгалии: Господь велит ему идти в Каши / Tapana Mishra in East Bengal: the Lord sends him to Kashi  `ev-tapana-mishra-east-bengal` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 14 —  · `sn-0013`
 - advaita-prakasha (D): Гл. 13, 66–71 — [66. Через неск–71. Звали его Т](../advaita-prakash/13.md?plain=1#L70-L75) · `apr-0065`
 - cb (A): Ади 14, 109–155 — [109–155](../chaitanya-bhagavata/ed/CB_Adi14.md?plain=1#L506-L736) · `cb-0104`
 - cc (A): Ади 16.10–18 — [10–18](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L113-L193) · `cc-0230`
@@ -1329,6 +1335,7 @@
 
 ## Уход Лакшмиприи / Lakshmipriya's departure  `ev-lakshmipriya-departure` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 13 —  · `sn-0012`
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 104–108 — [104–108](../lochana/ru/20.md?plain=1#L349-L361) · `lcm-0081`
 - murari-kcc (A): Пракрама 1, сарга 11, шлоки 17–20 — [17–20](../murari-gupta/ru/1.11.md?plain=1#L37-L43) · `mkc-0044`
 - advaita-prakasha (D): Гл. 13, 65 — [65. А тем врем–65. А тем врем](../advaita-prakash/13.md?plain=1#L69-L69) · `apr-0064`
@@ -1367,6 +1374,8 @@
 
 ## Свадьба с Вишнуприей / Marriage with Vishnupriya  `ev-marriage-vishnupriya` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 15 —  · `sn-0014`
+- sanyal (C): Т. II, гл. 16 —  · `sn-0015`
 - cb (A): Ади 15, 68–125 — [68–125](../chaitanya-bhagavata/ed/CB_Adi15.md?plain=1#L335-L608) · `cb-0108`
 - advaita-prakasha (D): Гл. 13, 75–81 — [75. Затем пред–81. Уповая на с](../advaita-prakash/13.md?plain=1#L79-L85) · `apr-0067`
 - bhakti-ratnakara (B): Таранга 12, 1384–1622 — [1384–1622](../bhakti-ratnakara/ru/12.md?plain=1#L4331-L5302) · `brt-6067`
@@ -2302,6 +2311,7 @@
 
 ## Шридхара Кхолавеча: Господь шутит с ним, берёт его банановые побеги, цветы и плоды и пьёт из его дырявого железного кувшина / Shridhara Kholavecha: the Lord jokes with him, takes his banana stems, flowers and fruits, and drinks from his broken iron pot  `ev-shridhara-kholavecha` (1509–1510, возраст 23–24, оценка)
 
+- sanyal (C): Т. II, гл. 12 —  · `sn-0011`
 - cb (A): Ади 12, 178–213 — [178–213](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L888-L1051) · `cb-0091`
 - bhakti-ratnakara (B): Таранга 12, 3136–3146 — [3136–3146](../bhakti-ratnakara/ru/12.md?plain=1#L10333-L10364) · `brt-7084`
 - cb (A): Мадхья 9, 135–188 — [135–188](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L673-L932) · `cb-1066`
