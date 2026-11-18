@@ -453,6 +453,24 @@ stotras:
   about_en:
     - "Hymns of those who lived near the Lord: Rupa Gosvami spent about ten months with him in Puri, Raghunatha Dasa sixteen years. The hymns contain brief but precise mentions of the Puri pastimes on which the Chaitanya-charitamrita relies. The Shikshashtaka is Mahaprabhu’s own eight instructions."
 
+sarvabhauma-shataka:
+  facts_ru:
+    - "Автор: по преданию — Васудева Сарвабхаума Бхаттачарья, логик и ведантист Пури, обращённый Шри Чайтаньей (ЧБ Антья 3, ЧЧ Мадхья 6)"
+    - "Язык и форма: санскритский гимн, 101 шлока (сто и фалашрути), разные размеры"
+    - "Источник: вторичная копия из книги «Sri Gauranga Mahima»; печатного издания мы не видели"
+    - "Место в традиции: подлинность сомнительна — двух шлок Сарвабхаумы из ЧЧ в тексте нет, есть поздние формулы и вставные циклы; вероятно, поздняя сборная шатака (D)"
+    - "Наш текст: полный перевод"
+  facts_en:
+    - "Author: traditionally Vasudeva Sarvabhauma Bhattacharya, the logician and Vedantist of Puri converted by Sri Chaitanya (CB Antya 3, CC Madhya 6)"
+    - "Language and form: Sanskrit hymn, 101 verses (a hundred and a phala-shruti), various metres"
+    - "Source: a secondary copy from the book Sri Gauranga Mahima; we have not seen a printed edition"
+    - "Place in the tradition: authenticity doubtful — the two verses of Sarvabhauma from the CC are not in it, and it has late formulas and inserted cycles; probably a late composite shataka (D)"
+    - "Our text: complete translation"
+  about_ru:
+    - "«Сто шлок Сарвабхаумы» — хвала Гауре: Кришна, нисшедший в век Кали ради падших, дающий Имя чандалам и яванам; описания Его облика, циклы шлок с припевами. Единственная повествовательная шлока — первый даршан Джаганнатхи, когда Господь упал без чувств (ст. 15), — событие, очевидцем которого был Сарвабхаума."
+  about_en:
+    - "“A hundred verses of Sarvabhauma” — praise of Gaura: Krishna descended in the age of Kali for the fallen, giving the Name to chandalas and yavanas; descriptions of His form, cycles of verses with refrains. The only narrative verse — the first darshan of Jagannatha, when the Lord fell unconscious (v. 15) — is an event Sarvabhauma himself witnessed."
+
 vaishnava-vandana:
   facts_ru:
     - "Состав: санскритская вандана, приписываемая Дживе Госвами; бенгальская «Вайшнава-вандана» Девакинанданы Даса (XVI в.); «Первая вандана» и вандана «второго» Вриндавана Даса (изд. 1910)"
