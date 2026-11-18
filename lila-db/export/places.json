@@ -5137,6 +5137,8 @@
    "brt-0103",
    "brt-0104",
    "anv-0008",
+   "rm-0019",
+   "rm-0022",
    "cc-3006",
    "brt-0010",
    "nvl-0006",
@@ -5470,6 +5472,8 @@
    "ev-radha-ramana-appearance",
    "ev-radha-ramana-shows-gaura",
    "ev-vrindavana-two-teachers-rule",
+   "ev-shyamananda-ordered-to-utkala-agra",
+   "ev-rasika-visits-vraja",
    "ev-gopala-mathura-vitthaleshvara",
    "ev-lokanatha-forbids-mention",
    "ev-srinivasa-journey-vrindavana",
@@ -5622,6 +5626,7 @@
    "pvl-0134",
    "gkd-0164",
    "vlb-0014",
+   "rm-0022",
    "cc-3006",
    "brt-1009",
    "anv-0019",
@@ -5702,6 +5707,7 @@
    "ev-hari-bhakti-vilasa",
    "ev-jiva-comes-to-vrindavana",
    "ev-bengali-servants-shrinathji",
+   "ev-rasika-visits-vraja",
    "ev-gopala-mathura-vitthaleshvara",
    "ev-rupa-sanatana-departure",
    "ev-srinivasa-vision-rupa-sanatana",
@@ -5974,6 +5980,7 @@
    "cc-4012",
    "cc-4023",
    "cc-4081",
+   "rm-0019",
    "pvl-0031",
    "brt-0095",
    "pvl-0060",
@@ -6001,6 +6008,7 @@
    "ev-rupa-puri-dramas",
    "ev-chhota-haridasa-prayaga",
    "ev-vallabha-sridhara-svami",
+   "ev-shyamananda-ordered-to-utkala-agra",
    "ev-srinivasa-journey-vrindavana",
    "ev-narottama-path-vision",
    "ev-jahnava-vrindavana",
@@ -7323,6 +7331,7 @@
    "cc-0137",
    "brt-1024",
    "vlb-0014",
+   "rm-0022",
    "brt-0107",
    "pad-0559",
    "brt-3003",
@@ -7375,6 +7384,7 @@
    "ev-chataka-parvata-govardhana",
    "ev-raghunatha-dasa-radha-kunda",
    "ev-sanatana-chakra-tirtha-shila",
+   "ev-rasika-visits-vraja",
    "ev-srinivasa-vraja-pilgrimage",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-comes-to-vrindavana",
@@ -8641,12 +8651,16 @@
   "lilas": [
    "gkr-0022",
    "cb-3025",
+   "rm-0018",
+   "rm-0023",
    "brt-8047",
    "brt-8048"
   ],
   "events": [
    "ev-journey-to-puri",
    "ev-danda-broken",
+   "ev-krishna-appears-to-rasika-ghatashila",
+   "ev-gopivallabhapura-founded",
    "ev-shyamananda-utkala",
    "ev-rasikananda-initiation"
   ]
@@ -10207,6 +10221,9 @@
   "note": "Орисса (Уткала), на Суварнарекхе; Шьямананда и Расикананда, Божество Говинды",
   "section": "",
   "lilas": [
+   "rm-0023",
+   "rm-0026",
+   "rm-0027",
    "pvl-0143",
    "brt-8051",
    "pvl-0144",
@@ -10214,6 +10231,9 @@
    "pvl-0175"
   ],
   "events": [
+   "ev-gopivallabhapura-founded",
+   "ev-gopivallabha-wedding",
+   "ev-rasika-sixty-four-angas",
    "ev-shyamananda-utkala",
    "ev-virachandra-pilgrimage"
   ]
@@ -10225,6 +10245,10 @@
   "note": "Орисса (Уткала); родная деревня Шьямананды",
   "section": "",
   "lilas": [
+   "rm-0024",
+   "rm-0025",
+   "rm-0026",
+   "rm-0029",
    "brt-0021",
    "brt-3047",
    "pvl-0143",
@@ -10234,6 +10258,10 @@
    "pvl-0175"
   ],
   "events": [
+   "ev-rasika-dharenda-rasamaya",
+   "ev-bhima-shirikara-delivered",
+   "ev-gopivallabha-wedding",
+   "ev-rasika-mughal-ghee",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala",
    "ev-shyamananda-utkala",
@@ -11116,10 +11144,12 @@
   "section": "",
   "lilas": [
    "brt-1049",
+   "rm-0019",
    "anv-0037"
   ],
   "events": [
    "ev-arrival-mathura",
+   "ev-shyamananda-ordered-to-utkala-agra",
    "ev-books-leave-vrindavana"
   ]
  },
@@ -12057,6 +12087,9 @@
    "rm-0011",
    "rm-0012",
    "rm-0014",
+   "rm-0016",
+   "rm-0017",
+   "rm-0019",
    "brt-8047",
    "brt-8048",
    "brt-8049"
@@ -12069,6 +12102,9 @@
    "ev-dayaladasi-gives-name-rasika",
    "ev-rasikananda-hears-bhagavata",
    "ev-rasikananda-seven-days-forest",
+   "ev-rasikananda-marries-ichchha",
+   "ev-rasikananda-detachment",
+   "ev-shyamananda-ordered-to-utkala-agra",
    "ev-shyamananda-utkala",
    "ev-rasikananda-initiation"
   ]
@@ -12080,10 +12116,17 @@
   "note": "на Суварнарекхе (ныне Джаркханд); встреча Расикананды со Шьяманандой (T 215–216; B 1106)",
   "section": "",
   "lilas": [
+   "rm-0018",
+   "rm-0019",
+   "rm-0020",
+   "rm-0021",
    "brt-8048"
   ],
   "events": [
-   "ev-rasikananda-initiation"
+   "ev-krishna-appears-to-rasika-ghatashila",
+   "ev-shyamananda-ordered-to-utkala-agra",
+   "ev-rasikananda-initiation",
+   "ev-shyamananda-utkala"
   ]
  },
  {
@@ -12592,10 +12635,13 @@
   "note": "приморский край у устья Хугли (Мединипур); родина жены Расикананды Иччхадеви (Шьямадаси), дочери правителя Балабхадры Даса («Расика-мангала» П10–П12)",
   "section": "",
   "lilas": [
-   "rm-0014"
+   "rm-0014",
+   "rm-0015",
+   "rm-0016"
   ],
   "events": [
-   "ev-rasikananda-seven-days-forest"
+   "ev-rasikananda-seven-days-forest",
+   "ev-rasikananda-marries-ichchha"
   ]
  },
  {
@@ -12604,8 +12650,12 @@
   "en": "Chakulia",
   "note": "на пути из Гхантшилы к Пури; дом йогина Дамодары, его посвящение Шьяманандой при Расикананде («Расика-мангала» Д1)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "rm-0021"
+  ],
+  "events": [
+   "ev-shyamananda-utkala"
+  ]
  },
  {
   "id": "#barakola",
@@ -12613,8 +12663,27 @@
   "en": "Barakola",
   "note": "место праздника Панчама-дола Шьямананды и Расикананды в вайшакху («Расика-мангала» Д9–Д10)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "rm-0028"
+  ],
+  "events": [
+   "ev-rasika-forest-to-guru"
+  ]
+ },
+ {
+  "id": "#balarampura",
+  "ru": "Баларампур",
+  "en": "Balarampur",
+  "note": "Уткала (Ванабхуми); ученики Шьямананды («Расика-мангала», Дакшина 8–9)",
+  "section": "",
+  "lilas": [
+   "rm-0028",
+   "rm-0029"
+  ],
+  "events": [
+   "ev-rasika-forest-to-guru",
+   "ev-rasika-mughal-ghee"
+  ]
  },
  {
   "id": "#rajagarha",

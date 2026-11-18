@@ -34256,6 +34256,7 @@
    "pvl-0199",
    "brt-0101",
    "brt-0103",
+   "rm-0019",
    "cc-3006",
    "krn-0028",
    "pvl-0031",
@@ -34431,6 +34432,7 @@
    "ev-jiva-exiled-by-rupa",
    "ev-radha-damodara-rupa-jiva",
    "ev-radha-ramana-appearance",
+   "ev-shyamananda-ordered-to-utkala-agra",
    "ev-gopala-mathura-vitthaleshvara",
    "ev-srinivasa-journey-vrindavana",
    "ev-rupa-sanatana-departure",
@@ -38962,6 +38964,15 @@
    "rm-0002",
    "rm-0003",
    "rm-0004",
+   "rm-0018",
+   "rm-0019",
+   "rm-0020",
+   "rm-0021",
+   "rm-0022",
+   "rm-0023",
+   "rm-0024",
+   "rm-0028",
+   "rm-0029",
    "brt-3006",
    "brt-0021",
    "brt-3002",
@@ -39074,6 +39085,15 @@
    "ev-shyamananda-birth-dandeshvara",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-pilgrimage",
+   "ev-krishna-appears-to-rasika-ghatashila",
+   "ev-shyamananda-ordered-to-utkala-agra",
+   "ev-rasikananda-initiation",
+   "ev-shyamananda-utkala",
+   "ev-rasika-visits-vraja",
+   "ev-gopivallabhapura-founded",
+   "ev-rasika-dharenda-rasamaya",
+   "ev-rasika-forest-to-guru",
+   "ev-rasika-mughal-ghee",
    "ev-radha-for-govinda-from-puri",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-srinivasa-narottama-shyamananda-vrindavana",
@@ -39094,9 +39114,7 @@
    "ev-jahnava-vrindavana",
    "ev-srinivasa-second-vrindavana",
    "ev-vrindavana-messengers-gauda",
-   "ev-shyamananda-utkala",
    "ev-srinivasa-samadhi-nose-ring",
-   "ev-rasikananda-initiation",
    "ev-kheturi-six-deities",
    "ev-kheturi-festival-invitations",
    "ev-kheturi-festival",
@@ -39852,6 +39870,21 @@
    "rm-0012",
    "rm-0013",
    "rm-0014",
+   "rm-0015",
+   "rm-0016",
+   "rm-0017",
+   "rm-0018",
+   "rm-0019",
+   "rm-0020",
+   "rm-0021",
+   "rm-0022",
+   "rm-0023",
+   "rm-0024",
+   "rm-0025",
+   "rm-0026",
+   "rm-0027",
+   "rm-0028",
+   "rm-0029",
    "pad-0559",
    "brt-0022",
    "pad-0560",
@@ -39884,13 +39917,25 @@
    "ev-rasikananda-hears-bhagavata",
    "ev-rasikananda-studies",
    "ev-rasikananda-seven-days-forest",
+   "ev-rasikananda-marries-ichchha",
+   "ev-rasikananda-detachment",
+   "ev-krishna-appears-to-rasika-ghatashila",
+   "ev-shyamananda-ordered-to-utkala-agra",
+   "ev-rasikananda-initiation",
+   "ev-shyamananda-utkala",
+   "ev-rasika-visits-vraja",
+   "ev-gopivallabhapura-founded",
+   "ev-rasika-dharenda-rasamaya",
+   "ev-bhima-shirikara-delivered",
+   "ev-gopivallabha-wedding",
+   "ev-rasika-sixty-four-angas",
+   "ev-rasika-forest-to-guru",
+   "ev-rasika-mughal-ghee",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-shyamananda-nupura",
    "ev-books-leave-vrindavana",
    "ev-narottama-shyamananda-nrisimhapura",
-   "ev-shyamananda-utkala",
    "ev-vrindavana-messengers-gauda",
-   "ev-rasikananda-initiation",
    "ev-rasikananda-elephant",
    "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart",
@@ -40471,13 +40516,16 @@
   "note": "санньяси, побеждённый в споре Шьяманандой и ставший его учеником",
   "section": "Спутники",
   "lilas": [
+   "rm-0021",
+   "rm-0024",
    "brt-8049",
    "brt-8050",
    "pvl-0144",
    "pvl-0175"
   ],
   "events": [
-   "ev-shyamananda-utkala"
+   "ev-shyamananda-utkala",
+   "ev-rasika-dharenda-rasamaya"
   ],
   "related_by": [
    {
@@ -53958,6 +54006,9 @@
    "rm-0012",
    "rm-0013",
    "rm-0014",
+   "rm-0015",
+   "rm-0016",
+   "rm-0017",
    "brt-8048"
   ],
   "events": [
@@ -53969,6 +54020,8 @@
    "ev-rasikananda-hears-bhagavata",
    "ev-rasikananda-studies",
    "ev-rasikananda-seven-days-forest",
+   "ev-rasikananda-marries-ichchha",
+   "ev-rasikananda-detachment",
    "ev-rasikananda-initiation"
   ],
   "related_by": [
@@ -54063,8 +54116,16 @@
   "en": "Gopivallabha Raya, Rasikananda's family Deity",
   "note": "Божество рода Ачьюты, взятое Расиканандой при уходе из дома; имя дал Шьямананда, назвав и село Гопиваллабхапуром («Расика-мангала» Д3, с. 71–73)",
   "section": "Аллегорические лица",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "rm-0023",
+   "rm-0026",
+   "rm-0027"
+  ],
+  "events": [
+   "ev-gopivallabhapura-founded",
+   "ev-gopivallabha-wedding",
+   "ev-rasika-sixty-four-angas"
+  ],
   "related_by": [
    {
     "from": "@rasikananda",
@@ -54080,10 +54141,19 @@
   "section": "Аллегорические лица",
   "lilas": [
    "rm-0014",
+   "rm-0015",
+   "rm-0016",
+   "rm-0021",
+   "rm-0022",
+   "rm-0023",
    "brt-8048"
   ],
   "events": [
    "ev-rasikananda-seven-days-forest",
+   "ev-rasikananda-marries-ichchha",
+   "ev-shyamananda-utkala",
+   "ev-rasika-visits-vraja",
+   "ev-gopivallabhapura-founded",
    "ev-rasikananda-initiation"
   ],
   "related_by": [
@@ -54159,10 +54229,88 @@
   "note": "правитель Хиджли, отец @shyamadasi, тесть @rasikananda («Расика-мангала», Пурва 10)",
   "section": "Аллегорические лица",
   "lilas": [
-   "rm-0014"
+   "rm-0014",
+   "rm-0015"
   ],
   "events": [
-   "ev-rasikananda-seven-days-forest"
+   "ev-rasikananda-seven-days-forest",
+   "ev-rasikananda-marries-ichchha"
+  ]
+ },
+ {
+  "id": "@sadashiva-hijli",
+  "ru": "Садашива Дас (Хиджли)",
+  "en": "Sadashiva Dasa (of Hijli)",
+  "note": "брат @balabhadra-dasa-hijli, устроил свадьбу @rasikananda и @shyamadasi («Расика-мангала», Пурва 11–12; Дакшина 2)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0015",
+   "rm-0016"
+  ],
+  "events": [
+   "ev-rasikananda-marries-ichchha"
+  ]
+ },
+ {
+  "id": "@rasamaya-dharenda",
+  "ru": "Расамая (Расамаядас)",
+  "en": "Rasamaya (Rasamayadasa)",
+  "note": "внук Бхимы Ширикары из Дхаренды, ученик @damodara-yogi, один из первых шьямананди; отец автора «Расика-мангалы» @gopijana-vallabha-dasa",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0024",
+   "rm-0025",
+   "rm-0026",
+   "rm-0029"
+  ],
+  "events": [
+   "ev-rasika-dharenda-rasamaya",
+   "ev-bhima-shirikara-delivered",
+   "ev-gopivallabha-wedding",
+   "ev-rasika-mughal-ghee"
+  ]
+ },
+ {
+  "id": "@vamshi-dharenda",
+  "ru": "Вамши (Дхаренда)",
+  "en": "Vamshi (of Dharenda)",
+  "note": "брат @rasamaya-dharenda, внук Бхимы Ширикары («Расика-мангала», Дакшина 4–6)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0024",
+   "rm-0026"
+  ],
+  "events": [
+   "ev-rasika-dharenda-rasamaya",
+   "ev-gopivallabha-wedding"
+  ]
+ },
+ {
+  "id": "@tulasidasa-rasika",
+  "ru": "Туласидас",
+  "en": "Tulasidasa",
+  "note": "сын Гопаладаса, ученика Хридаянанды; юный певец песен о Кришне при @rasikananda («Расика-мангала», Дакшина 4); тождество с Туласидасом из Пурвы 1 не установлено",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0024"
+  ],
+  "events": [
+   "ev-rasika-dharenda-rasamaya"
+  ]
+ },
+ {
+  "id": "@bhima-shirikara",
+  "ru": "Бхима Ширикара (Шрикара)",
+  "en": "Bhima Shirikara (Shrikara)",
+  "note": "правитель Дхаренды, приносивший животных в жертву; принял прибежище у @rasikananda («Расика-мангала», Дакшина 4–5)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0024",
+   "rm-0025"
+  ],
+  "events": [
+   "ev-rasika-dharenda-rasamaya",
+   "ev-bhima-shirikara-delivered"
   ]
  },
  {
@@ -54172,9 +54320,12 @@
   "note": "автор «Расика-мангалы» (1658–1660), сын Расамайи (Вишнудаса) из круга @rasikananda; не путать с @gopijanavallabha, @gopijanavallabha-chattaraja",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0018",
    "rm-0001"
   ],
-  "events": [],
+  "events": [
+   "ev-krishna-appears-to-rasika-ghatashila"
+  ],
   "related_by": [
    {
     "from": "@rasikananda",

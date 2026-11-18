@@ -7295,8 +7295,38 @@
 
 - rasika-mangala (B): Пурва 7, 1–124 — [1–124](../rasika-mangala/ru/1-07.md?plain=1#L11-L380) · `rm-0011`
 
+## Мальчик Расика слушает «Бхагавату» на коленях у отца и падает без чувств при рассказе о разлуке гопи / The boy Rasika hears the Bhagavata on his father's lap and faints at the account of the gopis' separation  `ev-rasikananda-hears-bhagavata` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 8, 1–87 — [1–87](../rasika-mangala/ru/1-08.md?plain=1#L15-L273) · `rm-0012`
+
+## Учение Расики: грамматика и шастры у пяти учителей; Джаганнатха Мишра и Харидас Дубе / Rasika's studies: grammar and shastras under five teachers; Jagannatha Mishra and Haridasa Dube  `ev-rasikananda-studies` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 9, 1–89 — [1–89](../rasika-mangala/ru/1-09.md?plain=1#L16-L280) · `rm-0013`
+
+## Расика, услышав, что Кришна не вернулся во Врадж, семь дней скитается по лесам в разлуке; Дубе утешает его по «Бхагаватамрите» / Hearing that Krishna did not return to Vraja, Rasika wanders the forests seven days in separation; Dube consoles him from the Bhagavatamrita  `ev-rasikananda-seven-days-forest` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 10, 1–142 — [1–142](../rasika-mangala/ru/1-10.md?plain=1#L11-L434) · `rm-0014`
+
+## Свадьба Расики и Иччха-деи (Шьямадаси) в Хиджли / Rasika's wedding with Ichchha-dei (Shyamadasi) at Hijli  `ev-rasikananda-marries-ichchha` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 11, 1–23 — [1–23](../rasika-mangala/ru/1-11.md?plain=1#L9-L119) · `rm-0015`
+- rasika-mangala (B): Пурва 12, 1–154 — [1–154](../rasika-mangala/ru/1-12.md?plain=1#L11-L470) · `rm-0016`
+
+## Отрешённость Расики после свадьбы: он плачет в уединении и убеждает отца поклоняться Кришне / Rasika's detachment after the wedding: he weeps in solitude and urges his father to worship Krishna  `ev-rasikananda-detachment` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 13, 1–20 — [1–20](../rasika-mangala/ru/1-13.md?plain=1#L9-L104) · `rm-0017`
+
+## В лесу у Гхатшилы Расике является Кришна и возвещает, что его гуру будет Шьямананда / In the forest near Ghatshila Krishna appears to Rasika and announces that Shyamananda will be his guru  `ev-krishna-appears-to-rasika-ghatashila` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 14, 1–73 — [1–73](../rasika-mangala/ru/1-14.md?plain=1#L11-L227) · `rm-0018`
+
+## Говинда велит Шьямананде идти в Уткал к Расике; в Агре котвал заточает вайшнавов и, покаранный ночью, служит им / Govinda bids Shyamananda go to Utkala for Rasika; at Agra the kotwal imprisons the Vaishnavas and, punished at night, serves them  `ev-shyamananda-ordered-to-utkala-agra` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 15, 1–69 — [1–69](../rasika-mangala/ru/1-15.md?plain=1#L11-L215) · `rm-0019`
+
 ## Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара / Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara  `ev-shyamananda-utkala` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Дакшина 1, 1–102 — [1–102](../rasika-mangala/ru/2-01.md?plain=1#L13-L316) · `rm-0021`
 - bhakti-ratnakara (B): Таранга 9, 242–259 — [242–259](../bhakti-ratnakara/ru/09.md?plain=1#L728-L779) · `brt-4045`
 - narottama-vilasa (B): Виласа 3, 65–99 — [65–99](../narottama-vilasa/ru/03.md?plain=1#L200-L302) · `nvl-0024`
 - prema-vilasa (C): Виласа 19, 56–92 — [56–92](../prema-vilasa/ru/19.md?plain=1#L170-L278) · `pvl-0143`
@@ -7313,21 +7343,42 @@
 - bhakti-ratnakara (B): Таранга 10, 52–91 — [52–91](../bhakti-ratnakara/ru/10.md?plain=1#L158-L275) · `brt-5005`
 - bhakti-ratnakara (B): Таранга 10, 98–129 — [98–129](../bhakti-ratnakara/ru/10.md?plain=1#L296-L389) · `brt-5007`
 
-## Мальчик Расика слушает «Бхагавату» на коленях у отца и падает без чувств при рассказе о разлуке гопи / The boy Rasika hears the Bhagavata on his father's lap and faints at the account of the gopis' separation  `ev-rasikananda-hears-bhagavata` (1533–1534, возраст 47–48, оценка)
-
-- rasika-mangala (B): Пурва 8, 1–87 — [1–87](../rasika-mangala/ru/1-08.md?plain=1#L15-L273) · `rm-0012`
-
-## Учение Расики: грамматика и шастры у пяти учителей; Джаганнатха Мишра и Харидас Дубе / Rasika's studies: grammar and shastras under five teachers; Jagannatha Mishra and Haridasa Dube  `ev-rasikananda-studies` (1533–1534, возраст 47–48, оценка)
-
-- rasika-mangala (B): Пурва 9, 1–89 — [1–89](../rasika-mangala/ru/1-09.md?plain=1#L16-L280) · `rm-0013`
-
-## Расика, услышав, что Кришна не вернулся во Врадж, семь дней скитается по лесам в разлуке; Дубе утешает его по «Бхагаватамрите» / Hearing that Krishna did not return to Vraja, Rasika wanders the forests seven days in separation; Dube consoles him from the Bhagavatamrita  `ev-rasikananda-seven-days-forest` (1533–1534, возраст 47–48, оценка)
-
-- rasika-mangala (B): Пурва 10, 1–85 — [1–85](../rasika-mangala/ru/1-10.md?plain=1#L11-L263) · `rm-0014`
-
 ## Расикананда (Расика Мурари): голос с неба, сон о Шьямананде, встреча и посвящение / Rasikananda (Rasika Murari): a voice from the sky, a dream of Shyamananda, the meeting and initiation  `ev-rasikananda-initiation` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Пурва 16, 1–90 — [1–90](../rasika-mangala/ru/1-16.md?plain=1#L11-L278) · `rm-0020`
 - bhakti-ratnakara (B): Таранга 15, 26–53 — [26–53](../bhakti-ratnakara/ru/15.md?plain=1#L80-L161) · `brt-8048`
+
+## Расика во Врадже: у Говардханы ему является Кришна в облике враджаваси и велит вернуться в Уткал / Rasika in Vraja: at Govardhana Krishna appears as a Vrajavasi and sends him back to Utkala  `ev-rasika-visits-vraja` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 2, 1–73 — [1–73](../rasika-mangala/ru/2-02.md?plain=1#L10-L226) · `rm-0022`
+
+## Расика оставляет дом и поселяется на Суварнарекхе; Шьямананда нарекает Божество Гопиваллабха-раем, а селение — Гопиваллабхапуром / Rasika leaves home and settles on the Suvarnarekha; Shyamananda names the Deity Gopivallabha Raya and the village Gopivallabhapura  `ev-gopivallabhapura-founded` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 3, 1–100 — [1–100](../rasika-mangala/ru/2-03.md?plain=1#L10-L307) · `rm-0023`
+
+## Шьямананда просит у Расики «подаяния» — спасти все живые существа; Расика в Дхаренде у Расамайи и Вамши; песнь юного Туласидаса / Shyamananda begs Rasika to deliver all beings; Rasika at Dharenda with Rasamaya and Vamshi; young Tulasidasa's song  `ev-rasika-dharenda-rasamaya` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 4, 1–70 — [1–70](../rasika-mangala/ru/2-04.md?plain=1#L10-L217) · `rm-0024`
+
+## Спор с пандитами в Дхаренде: Бхима Ширикара с родом принимает прибежище у Расики и оставляет убой животных / Debate with the pandits at Dharenda: Bhima Shirikara and his clan take shelter of Rasika and give up animal slaughter  `ev-bhima-shirikara-delivered` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 5, 1–67 — [1–67](../rasika-mangala/ru/2-05.md?plain=1#L11-L209) · `rm-0025`
+
+## Свадьба Шри Гопиваллабха-рая: явление Божества Тхакурани в Дхаренде; письмо Расики жителям Дхаренды / The wedding of Sri Gopivallabha Raya: the Thakurani Deity at Dharenda; Rasika's letter to the people of Dharenda  `ev-gopivallabha-wedding` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 6, 1–23 — [1–23](../rasika-mangala/ru/2-06.md?plain=1#L9-L119) · `rm-0026`
+
+## Расика исполняет и преподаёт шестьдесят четыре анги бхакти; почитает всякого вайшнава наравне с Кришной / Rasika practises and teaches the sixty-four limbs of bhakti; honours every Vaishnava equal to Krishna  `ev-rasika-sixty-four-angas` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 7, 1–66 — [1–66](../rasika-mangala/ru/2-07.md?plain=1#L11-L206) · `rm-0027`
+
+## По письму Шьямананды Расика, не доев, один, в сумерках и под дождём идёт к нему через лес с тиграми и слонами / At Shyamananda's letter Rasika leaves his meal and goes alone at dusk in the rain through a forest of tigers and elephants  `ev-rasika-forest-to-guru` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 8, 1–75 — [1–75](../rasika-mangala/ru/2-08.md?plain=1#L11-L233) · `rm-0028`
+
+## Ночью за гхи для вайшнавов Расика входит в дом могола; тот бьёт его, а затем, потеряв всё, становится садху / Fetching ghee for Vaishnavas at night, Rasika enters a Mughal's house; struck by him, the man later loses all and becomes a sadhu  `ev-rasika-mughal-ghee` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 9, 1–16 — [1–16](../rasika-mangala/ru/2-09.md?plain=1#L9-L84) · `rm-0029`
 
 ## Расикананда усмиряет слона и делает его учеником; правитель-явана склоняется / Rasikananda subdues an elephant and makes it his disciple; the Muslim ruler bows down  `ev-rasikananda-elephant` (1533–1534, возраст 47–48, оценка)
 
