@@ -6583,8 +6583,13 @@
 - prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
 - bhakti-ratnakara (B): Таранга 4, 375–389 — [375–389](../bhakti-ratnakara/ru/04.md?plain=1#L1140-L1182) · `brt-0106`
 
+## Рождение Шьямананды в Дандешваре у Кришны Мандала и Дурики; отрешённость и уход из дома / Shyamananda's birth at Dandeshvara to Krishna Mandala and Durika; his detachment and leaving home  `ev-shyamananda-birth-dandeshvara` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 2, 1–37 — [1–37](../rasika-mangala/ru/1-02.md?plain=1#L10-L118) · `rm-0002`
+
 ## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Пурва 2, 38–54 — [38–54](../rasika-mangala/ru/1-02.md?plain=1#L121-L169) · `rm-0003`
 - bhakti-ratnakara (B): Таранга 1, 350–381 — [350–381](../bhakti-ratnakara/ru/01.md?plain=1#L1050-L1143) · `brt-0021`
 - bhakti-ratnakara (B): Таранга 6, 14–19 — [14–19](../bhakti-ratnakara/ru/06.md?plain=1#L44-L59) · `brt-3002`
 - prema-vilasa (C): Виласа 12, 200–256 — [200–256](../prema-vilasa/ru/12.md?plain=1#L602-L770) · `pvl-0077`
@@ -6594,6 +6599,10 @@
 ## Юный Нароттама слушает рассказы брахмана Кришнадаса о Господе, спутниках и Шринивасе / Young Narottama hears the brahmana Krishnadasa's accounts of the Lord, His associates and Srinivasa  `ev-narottama-hears-krishnadasa` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 2, 34–99 — [34–99](../narottama-vilasa/ru/02.md?plain=1#L104-L307) · `nvl-0011`
+
+## Странствие Шьямананды по святым местам Индии и возвращение во Врадж / Shyamananda's pilgrimage through the holy places of India and return to Vraja  `ev-shyamananda-pilgrimage` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 2, 55–105 — [55–105](../rasika-mangala/ru/1-02.md?plain=1#L172-L322) · `rm-0004`
 
 ## Духкхи Кришнадас приходит во Вриндаван: Рагхунатха Дас, Кришнадас Кавираджа, Джива / Duhkhi Krishnadasa comes to Vrindavana: Raghunatha Dasa, Krishnadasa Kaviraja, Jiva  `ev-shyamananda-comes-to-vrindavana` (1533–1534, возраст 47–48, оценка)
 
@@ -7257,12 +7266,22 @@
 - karnananda (C): Нирьяса 3, 274–432 — [274–432](../karnananda/ru/03.md?plain=1#L823-L1297) · `krn-0020`
 - karnananda (C): Нирьяса 3, 433–500 и колофон — [433–500](../karnananda/ru/03.md?plain=1#L1300-L1501) · `krn-0021`
 
+## Рохини в Маллабхуми; Ачьюта, отец Расикананды, женится на Бхавани из Катаки / Rohini in Mallabhumi; Achyuta, Rasikananda's father, marries Bhavani of Cuttack  `ev-achyuta-marries-bhavani` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 3, 27–87 — [27–87](../rasika-mangala/ru/1-03.md?plain=1#L89-L269) · `rm-0006`
+
 ## Рамачандра Кавираджа наставляет Виру Хамбира в садхана- и рагануга-бхакти / Ramachandra Kaviraja instructs Vira Hambira in sadhana- and raganuga-bhakti  `ev-ramachandra-instructs-vira-hambira` (1533–1534, возраст 47–48, оценка)
 
 - bhakti-ratnakara (B): Таранга 13, 53–61 — [53–61](../bhakti-ratnakara/ru/13.md?plain=1#L161-L185) · `brt-8005`
 - karnananda (C): Нирьяса 4, 1–38 — [1–38](../karnananda/ru/04.md?plain=1#L5-L116) · `krn-0022`
 - karnananda (C): Нирьяса 4, 39–474 и колофон — [39–474](../karnananda/ru/04.md?plain=1#L119-L1433) · `krn-0023`
 - karnananda (C): Нирьяса 6, 123–136 — [123–136](../karnananda/ru/06.md?plain=1#L411-L454) · `krn-0032`
+
+## Рождение Расикананды в Рохини в ночь Дипавали 1512 г. Шаки (1590) / Rasikananda's birth at Rohini on the night of Dipavali, 1512 Shaka (1590)  `ev-rasikananda-birth` (1590–1590, возраст 104–104, точно)
+
+- rasika-mangala (B): Пурва 3, 1–26 — [1–26](../rasika-mangala/ru/1-03.md?plain=1#L11-L86) · `rm-0005`
+- rasika-mangala (B): Пурва 4, 1–66 — [1–66](../rasika-mangala/ru/1-04.md?plain=1#L11-L206) · `rm-0007`
+- rasika-mangala (B): Пурва 4, 67–127 — [67–127](../rasika-mangala/ru/1-04.md?plain=1#L209-L389) · `rm-0008`
 
 ## Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара / Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara  `ev-shyamananda-utkala` (1533–1534, возраст 47–48, оценка)
 

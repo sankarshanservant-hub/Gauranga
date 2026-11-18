@@ -15880,6 +15880,7 @@
    48
   ],
   "entries": [
+   "rm-0003",
    "brt-0021",
    "brt-3002",
    "pvl-0077",
@@ -15889,7 +15890,8 @@
   "sources": [
    "bhakti-ratnakara",
    "padas",
-   "prema-vilasa"
+   "prema-vilasa",
+   "rasika-mangala"
   ]
  },
  {
@@ -35290,6 +35292,126 @@
   ],
   "sources": [
    "prema-vivarta"
+  ]
+ },
+ {
+  "id": "ev-shyamananda-birth-dandeshvara",
+  "title": "Рождение Шьямананды в Дандешваре у Кришны Мандала и Дурики; отрешённость и уход из дома",
+  "title_en": "Shyamananda's birth at Dandeshvara to Krishna Mandala and Durika; his detachment and leaving home",
+  "period": "P15",
+  "order": 68.9,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "sannyasa"
+  ],
+  "notes": "«Расика-мангала», Пурва 2; ср. БР 1, «Према-виласа» 12.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0002"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-shyamananda-pilgrimage",
+  "title": "Странствие Шьямананды по святым местам Индии и возвращение во Врадж",
+  "title_en": "Shyamananda's pilgrimage through the holy places of India and return to Vraja",
+  "period": "P15",
+  "order": 69.4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "«Расика-мангала», Пурва 2.55–105: подробный маршрут (Вакрешвара, Вайдьянатха, Хастинапура, Курукшетра, Наймиша, Махендра, Сапта-Годавари, Критамала, Тамрапарни, Махишмати, Курманатха и др.), во многом по перечню тиртх паломничества Баларамы в «Бхагавате» (10.78–79).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0004"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-achyuta-marries-bhavani",
+  "title": "Рохини в Маллабхуми; Ачьюта, отец Расикананды, женится на Бхавани из Катаки",
+  "title_en": "Rohini in Mallabhumi; Achyuta, Rasikananda's father, marries Bhavani of Cuttack",
+  "period": "P15",
+  "order": 102.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Расика-мангала», Пурва 3.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0006"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-rasikananda-birth",
+  "title": "Рождение Расикананды в Рохини в ночь Дипавали 1512 г. Шаки (1590)",
+  "title_en": "Rasikananda's birth at Rohini on the night of Dipavali, 1512 Shaka (1590)",
+  "period": "P15",
+  "order": 102.6,
+  "years": [
+   1590,
+   1590
+  ],
+  "date_conf": "точно",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "celestial",
+   "revelation"
+  ],
+  "notes": "«Расика-мангала», Пурва 4: чудесная беременность Бхавани, положение светил, младенец плачет, слыша имя Кришны.",
+  "age": [
+   104,
+   104
+  ],
+  "entries": [
+   "rm-0005",
+   "rm-0007",
+   "rm-0008"
+  ],
+  "sources": [
+   "rasika-mangala"
   ]
  },
  {

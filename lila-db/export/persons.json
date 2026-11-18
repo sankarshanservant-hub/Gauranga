@@ -3443,6 +3443,7 @@
    "kcm-0002",
    "lcm-0019",
    "mkc-0002",
+   "rm-0001",
    "ss-0001",
    "ccd-0003",
    "dvk-0002",
@@ -11028,6 +11029,7 @@
    "lcm-0001",
    "ccd-0002",
    "lcm-0019",
+   "rm-0001",
    "gcc-0002",
    "mpk-0002",
    "lcm-0004",
@@ -12880,6 +12882,7 @@
    "jcm-0001",
    "lcm-0001",
    "ccd-0002",
+   "rm-0001",
    "gcc-0002",
    "lcm-0003",
    "lcm-0004",
@@ -34242,6 +34245,7 @@
    "dvk-0019",
    "anv-0006",
    "krn-0002",
+   "rm-0004",
    "brt-0038",
    "brt-0039",
    "cc-4051",
@@ -34421,6 +34425,7 @@
    "ev-bahuda-return-chariots",
    "ev-gopala-bhatta-comes-vrindavana",
    "ev-prema-for-srinivasa",
+   "ev-shyamananda-pilgrimage",
    "ev-jiva-comes-to-vrindavana",
    "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-exiled-by-rupa",
@@ -38954,6 +38959,9 @@
    "vlb-0006",
    "pvl-0078",
    "pvl-0055",
+   "rm-0002",
+   "rm-0003",
+   "rm-0004",
    "brt-3006",
    "brt-0021",
    "brt-3002",
@@ -39047,6 +39055,7 @@
    "brt-8056",
    "brt-8060",
    "brt-8061",
+   "rm-0001",
    "gcc-0002",
    "pvl-0171",
    "pvl-0175",
@@ -39062,8 +39071,10 @@
    "ev-vrindavana-mahants-shrinathji",
    "ev-gauridasa-deities",
    "ev-narottama-birth",
-   "ev-radha-for-govinda-from-puri",
+   "ev-shyamananda-birth-dandeshvara",
    "ev-shyamananda-initiation-ambika",
+   "ev-shyamananda-pilgrimage",
+   "ev-radha-for-govinda-from-puri",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-srinivasa-narottama-shyamananda-vrindavana",
    "ev-shyamananda-nupura",
@@ -39156,6 +39167,7 @@
    "pvl-0078",
    "brt-3045",
    "brt-3046",
+   "rm-0003",
    "brt-0021",
    "brt-3002",
    "pvl-0077",
@@ -39830,6 +39842,10 @@
   "note": "сын Ачьютананды (раджи) из Рохини, главный ученик Шьямананды; не путать с @achyutananda",
   "section": "Спутники",
   "lilas": [
+   "rm-0003",
+   "rm-0005",
+   "rm-0007",
+   "rm-0008",
    "pad-0559",
    "brt-0022",
    "pad-0560",
@@ -39849,11 +39865,13 @@
    "pvl-0151",
    "nvl-0051",
    "pvl-0166",
+   "rm-0001",
    "gcc-0002",
    "pvl-0175"
   ],
   "events": [
    "ev-shyamananda-initiation-ambika",
+   "ev-rasikananda-birth",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-shyamananda-nupura",
    "ev-books-leave-vrindavana",
@@ -47139,10 +47157,12 @@
   "note": "мать Шьямананды (БР 1)",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0002",
    "brt-0021",
    "brt-3047"
   ],
   "events": [
+   "ev-shyamananda-birth-dandeshvara",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala"
   ]
@@ -47154,10 +47174,12 @@
   "note": "отец Шьямананды, садгоп из Дандешвара (БР 1)",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0002",
    "brt-0021",
    "brt-3047"
   ],
   "events": [
+   "ev-shyamananda-birth-dandeshvara",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala"
   ]
@@ -53915,9 +53937,14 @@
   "note": "отец @rasikananda, заминдар Рохини (Раяни) на Суварнарекхе, из каранов (T 215; M 158); не путать с @achyutananda",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0006",
+   "rm-0007",
+   "rm-0008",
    "brt-8048"
   ],
   "events": [
+   "ev-achyuta-marries-bhavani",
+   "ev-rasikananda-birth",
    "ev-rasikananda-initiation"
   ],
   "related_by": [
@@ -54041,12 +54068,30 @@
   ]
  },
  {
+  "id": "@bhavani-rayani",
+  "ru": "Бхавани",
+  "en": "Bhavani",
+  "note": "мать @rasikananda, жена @achyutananda-rayani, дочь Халадхары из Катаки («Расика-мангала», Пурва 3–4)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0006",
+   "rm-0007",
+   "rm-0008"
+  ],
+  "events": [
+   "ev-achyuta-marries-bhavani",
+   "ev-rasikananda-birth"
+  ]
+ },
+ {
   "id": "@gopijana-vallabha-dasa",
   "ru": "Гопиджана-валлабха Дас",
   "en": "Gopijana-vallabha Dasa",
   "note": "автор «Расика-мангалы» (1658–1660), сын Расамайи (Вишнудаса) из круга @rasikananda; не путать с @gopijanavallabha, @gopijanavallabha-chattaraja",
   "section": "Аллегорические лица",
-  "lilas": [],
+  "lilas": [
+   "rm-0001"
+  ],
   "events": [],
   "related_by": [
    {

@@ -224430,6 +224430,180 @@
   "attestation": 3
  },
  {
+  "id": "rm-0002",
+  "source": "rasika-mangala",
+  "ref": "Пурва 2, 1–37",
+  "file": "rasika-mangala/ru/1-02.md",
+  "period": "P15",
+  "order": 2,
+  "title": "Рождение Шьямананды в Дандешваре; отрешённость и уход из дома",
+  "summary": "Песнь во славу Шьямананды и Расикананды и перечень того, о чём будет рассказано (как они покорили грешный Уткал); в святом селении Дандешвара у почитающих брахманов Кришны Мандала и Дурики рождается Шьямананда; поглощённый расой Кришны, он не думает о браке и удовольствиях, жаждет увидеть Враджапури и обойти землю и, передав дом брату Балараме, уходит.",
+  "persons": [
+   "@shyamananda",
+   "@krishna-mandala",
+   "@durika"
+  ],
+  "places": [
+   "#dandeshvara"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "БР 1; «Према-виласа» 12",
+  "notes": "",
+  "themes": [
+   "family",
+   "sannyasa"
+  ],
+  "event": "ev-shyamananda-birth-dandeshvara",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-02.md",
+    "from": "1",
+    "to": "37"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-02.md",
+    "from": "1",
+    "to": "37",
+    "line": 10,
+    "line_to": 118,
+    "count": 37,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-02.md?plain=1#L10-L118",
+    "file_en": "rasika-mangala/en/1-02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-02.md?plain=1#L10-L118"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0003",
+  "source": "rasika-mangala",
+  "ref": "Пурва 2, 38–54",
+  "file": "rasika-mangala/ru/1-02.md",
+  "period": "P15",
+  "order": 3,
+  "title": "Духкхи Кришнадас у Хридаянанды в Амбике: имя «Шьямананда» и повеление спасти Уткал",
+  "summary": "Брат Баларама уходит искать его по тиртхам; в Амбике он видит Шри Чайтанья-рая и Нитьянанду, простирается перед Хридаянандой; на вопрос «Чей ты слуга?» отвечает: «Меня зовут Духкхи Кришнадас, из рождения в рождение я — твой слуга»; Хридаянанда даёт наставление и имя Шьямананда и велит сделать вайшнавами все дома Уткала, предрекая: по твоей милости в Уткале явится человек, равный тебе, — с ним дай прему всем (шестнадцать имён «Харе Кришна» — повеление Чайтаньи).",
+  "persons": [
+   "@shyamananda",
+   "@hridaya-chaitanya",
+   "@rasikananda"
+  ],
+  "places": [
+   "#ambika-kalna"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "«Према-виласа» 12; БР 1",
+  "notes": "Предсказание Хридаянанды о Расикананде (2.50) — особенность «Расика-мангалы».",
+  "themes": [
+   "mercy",
+   "teaching",
+   "revelation"
+  ],
+  "event": "ev-shyamananda-initiation-ambika",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-02.md",
+    "from": "38",
+    "to": "54"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-02.md",
+    "from": "38",
+    "to": "54",
+    "line": 121,
+    "line_to": 169,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-02.md?plain=1#L121-L169",
+    "file_en": "rasika-mangala/en/1-02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-02.md?plain=1#L121-L169"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "rm-0004",
+  "source": "rasika-mangala",
+  "ref": "Пурва 2, 55–105",
+  "file": "rasika-mangala/ru/1-02.md",
+  "period": "P15",
+  "order": 4,
+  "title": "Странствие Шьямананды по святым местам и жизнь во Врадже рядом с Дживой Госвами",
+  "summary": "В суровой отрешённости, без сознания тела, не обходя места по порядку и ни у кого не спрашивая дороги, Шьямананда проходит Вакрешвару, Вайдьянатху, Хастинапур, Курукшетру, Наймишаранью, Махендру, Сапта-Годавари, Критамалу и Тамрапарни, Махишмати, Курманатху и многие другие тиртхи; спутники ищут его из края в край; он возвращается в Матхуру, обходит кунджу за кунджей, плачет в поглощённости Кришной и живёт во Врадже с Дживой Госвами и Хариприя-дасом.",
+  "persons": [
+   "@shyamananda",
+   "@jiva-gosvami"
+  ],
+  "places": [
+   "#vrindavana"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "БР 1, 6 (жизнь у Дживы); маршрут — по перечню тиртх паломничества Баларамы в «Бхагавате» 10.78–79",
+  "notes": "",
+  "themes": [
+   "pilgrimage",
+   "separation"
+  ],
+  "event": "ev-shyamananda-pilgrimage",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-02.md",
+    "from": "55",
+    "to": "105"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-02.md",
+    "from": "55",
+    "to": "105",
+    "line": 172,
+    "line_to": 322,
+    "count": 51,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-02.md?plain=1#L172-L322",
+    "file_en": "rasika-mangala/en/1-02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-02.md?plain=1#L172-L322"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "dvk-0022",
   "source": "divakara-jcm",
   "ref": "Гл. 7, 84–105",
@@ -224490,6 +224664,58 @@
   "age": [
    47,
    48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0005",
+  "source": "rasika-mangala",
+  "ref": "Пурва 3, 1–26",
+  "file": "rasika-mangala/ru/1-03.md",
+  "period": "P15",
+  "order": 5,
+  "title": "Грешный Уткал и мольбы преданных Кришне о спасении живых существ",
+  "summary": "Автор описывает грехи Уткала: насилие над садху из жажды богатства, ложные святыни и пуджи; преданные Кришны день и ночь молят Господа о спасении живых существ, и любящий Своих преданных Господь по их слову решает послать Расику.",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "mercy"
+  ],
+  "event": "ev-rasikananda-birth",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-03.md",
+    "from": "1",
+    "to": "26"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-03.md",
+    "from": "1",
+    "to": "26",
+    "line": 11,
+    "line_to": 86,
+    "count": 26,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-03.md?plain=1#L11-L86",
+    "file_en": "rasika-mangala/en/1-03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-03.md?plain=1#L11-L86"
+   }
+  ],
+  "years": [
+   1590,
+   1590
+  ],
+  "date_conf": "точно",
+  "age": [
+   104,
+   104
   ],
   "attestation": 1
  },
@@ -224555,6 +224781,180 @@
   "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
   "calendar": "ашадха",
   "attestation": 8
+ },
+ {
+  "id": "rm-0006",
+  "source": "rasika-mangala",
+  "ref": "Пурва 3, 27–87",
+  "file": "rasika-mangala/ru/1-03.md",
+  "period": "P15",
+  "order": 6,
+  "title": "Рохини в Маллабхуми — родина Расикананды; Ачьюта и его женитьба на Бхавани",
+  "summary": "Селение Рохини (Рауни) в Маллабхуми, «равное Каттаку»: двенадцать лингамов Рамешвары, сады, крепость, санньяси с дандой, торговцы; Ачьюта из благородного рода каранов, преданный имени Хари и служению брахманам, подвижник из рождения в рождение, берёт в жёны Бхавани, дочь Халадхары из Каттака; пышная свадьба.",
+  "persons": [
+   "@achyutananda-rayani",
+   "@bhavani-rayani"
+  ],
+  "places": [
+   "#rohini-rayani",
+   "#mallabhumi",
+   "#cuttack"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "БР 15 (Раяни)",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-achyuta-marries-bhavani",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-03.md",
+    "from": "27",
+    "to": "87"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-03.md",
+    "from": "27",
+    "to": "87",
+    "line": 89,
+    "line_to": 269,
+    "count": 61,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-03.md?plain=1#L89-L269",
+    "file_en": "rasika-mangala/en/1-03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-03.md?plain=1#L89-L269"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0007",
+  "source": "rasika-mangala",
+  "ref": "Пурва 4, 1–66",
+  "file": "rasika-mangala/ru/1-04.md",
+  "period": "P15",
+  "order": 7,
+  "title": "Нисхождение Расики: чудесная беременность Бхавани и рождение в ночь Дипавали 1512 г. Шаки",
+  "summary": "Преданные у стоп Господа молят об Уткале; дорогие спутники Расики сходят с ним; Бхавани зачинает, всё прекраснее день ото дня, соседи дивятся и гадают — Брахма ли, Шамбху ли, Нараяна ли; в новолуние Дипа-ятры, при тысячах светильников, на 18-й день Тулы 1512 г. Шаки рождается Расика; положение светил, благие признаки, знаки на стопах; боги проливают дождь цветов.",
+  "persons": [
+   "@rasikananda",
+   "@bhavani-rayani",
+   "@achyutananda-rayani"
+  ],
+  "places": [
+   "#rohini-rayani"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Точная дата и гороскоп рождения Расикананды — только здесь.",
+  "themes": [
+   "family",
+   "celestial",
+   "revelation"
+  ],
+  "event": "ev-rasikananda-birth",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-04.md",
+    "from": "1",
+    "to": "66"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-04.md",
+    "from": "1",
+    "to": "66",
+    "line": 11,
+    "line_to": 206,
+    "count": 66,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-04.md?plain=1#L11-L206",
+    "file_en": "rasika-mangala/en/1-04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-04.md?plain=1#L11-L206"
+   }
+  ],
+  "years": [
+   1590,
+   1590
+  ],
+  "date_conf": "точно",
+  "age": [
+   104,
+   104
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0008",
+  "source": "rasika-mangala",
+  "ref": "Пурва 4, 67–127",
+  "file": "rasika-mangala/ru/1-04.md",
+  "period": "P15",
+  "order": 8,
+  "title": "Обряды и ликование: брахманы предсказывают, что сын станет преданным Кришны; младенец плачет при имени Кришны",
+  "summary": "Мать любуется сыном; Ачьюта созывает знающих Веды брахманов, раздаёт дары; брахманы возвещают: этот сын — преданный, дорогой Кришне; женщины в праздничных нарядах благословляют, ставят Шаштхи в покое шестого дня; младенец плачет, и затихает, лишь слыша имя Кришны, — ещё во чреве он слушал его; вайшнавы поют имя Кришны в доме Ачьюты, люди приходят и уходят.",
+  "persons": [
+   "@rasikananda",
+   "@bhavani-rayani",
+   "@achyutananda-rayani"
+  ],
+  "places": [
+   "#rohini-rayani"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "family",
+   "kirtan",
+   "revelation"
+  ],
+  "event": "ev-rasikananda-birth",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-04.md",
+    "from": "67",
+    "to": "127"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-04.md",
+    "from": "67",
+    "to": "127",
+    "line": 209,
+    "line_to": 389,
+    "count": 61,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-04.md?plain=1#L209-L389",
+    "file_en": "rasika-mangala/en/1-04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-04.md?plain=1#L209-L389"
+   }
+  ],
+  "years": [
+   1590,
+   1590
+  ],
+  "date_conf": "точно",
+  "age": [
+   104,
+   104
+  ],
+  "attestation": 1
  },
  {
   "id": "gkd-0186",
@@ -236839,7 +237239,7 @@
    47,
    48
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "brt-3002",
@@ -236899,7 +237299,7 @@
    47,
    48
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "nvl-0011",
@@ -237031,7 +237431,7 @@
    47,
    48
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "pad-0559",
@@ -237096,7 +237496,7 @@
    47,
    48
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "brt-0022",
@@ -263233,7 +263633,7 @@
    47,
    48
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "brt-8055",
@@ -273223,6 +273623,53 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.01.md?plain=1#L19-L33",
     "file_en": "murari-gupta/en/1.01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.01.md?plain=1#L19-L33"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0001",
+  "source": "rasika-mangala",
+  "ref": "Пурва 1, 1–194",
+  "file": "rasika-mangala/ru/1-01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Вандана: Шьямананда, Расикананда, Гауранга со спутниками, святые места, ученики Шьямананды и спутники Расики",
+  "summary": "Мангала-шлоки (Кришна Сам вписал строку лишь в «Гита-говинду», а Шьямананда — знак-точку, тилаку от Радхи); поклонение гуру Шьямананде и его супругам, Шри Чайтанье, Нитьянанде, Адвайте и их спутникам, Пурушоттаме и иным дхамам; длинный перечень учеников Шьямананды и спутников Расикананды с краткими чертами (Туласидас — гуру санкиртаны, рядом с Расикой с рождения: когда Расике не удаётся полить Туласи, он пьёт воду со стоп Туласидаса); смирение автора и плод слушания книги.",
+  "persons": [
+   "@gopijana-vallabha-dasa",
+   "@shyamananda",
+   "@rasikananda",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Хвалы Шьямананде как «Махапрабху», «Самой Радхике», нисходящему из века в век — возвышенная речь автора; сноски перевода дают гаудия-вайшнавскую позицию.",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/1-01.md",
+    "from": "1",
+    "to": "194"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/1-01.md",
+    "from": "1",
+    "to": "194",
+    "line": 45,
+    "line_to": 624,
+    "count": 194,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/1-01.md?plain=1#L45-L624",
+    "file_en": "rasika-mangala/en/1-01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-01.md?plain=1#L45-L624"
    }
   ],
   "attestation": 1

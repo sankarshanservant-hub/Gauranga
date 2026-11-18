@@ -5120,6 +5120,7 @@
    "cc-0065",
    "pvl-0132",
    "krn-0002",
+   "rm-0004",
    "gkd-0188",
    "cc-4051",
    "brt-0040",
@@ -5458,6 +5459,7 @@
    "ev-fall-into-ocean-fisherman",
    "ev-kaviraja-nityananda-jhamatpur",
    "ev-prema-for-srinivasa",
+   "ev-shyamananda-pilgrimage",
    "ev-devotees-lament-after-disappearance",
    "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-comes-to-vrindavana",
@@ -7843,6 +7845,7 @@
    "brt-3044",
    "brt-3045",
    "brt-3046",
+   "rm-0003",
    "apr-0136",
    "nvv-0005",
    "nvv-0006",
@@ -7878,8 +7881,8 @@
    "ev-nakula-brahmachari",
    "ev-gadadhara-gives-hridayananda",
    "ev-hridaya-chaitanya-name",
-   "ev-nityananda-marriage",
    "ev-shyamananda-initiation-ambika",
+   "ev-nityananda-marriage",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-shyamananda-returns-utkala",
    "ev-narottama-gauda-pilgrimage",
@@ -8151,7 +8154,8 @@
    "cc-2104",
    "vlm-0128",
    "vv-0065",
-   "vlm-0151"
+   "vlm-0151",
+   "rm-0006"
   ],
   "events": [
    "ev-sakshi-gopala-two-brahmins",
@@ -8165,7 +8169,8 @@
    "ev-gadadhara-leaves-kshetra-sannyasa",
    "ev-ramakeli-rupa-sanatana",
    "ev-gauda-devotees-yearly-visit",
-   "ev-odisha-kirtan-circuit"
+   "ev-odisha-kirtan-circuit",
+   "ev-achyuta-marries-bhavani"
   ]
  },
  {
@@ -10697,12 +10702,14 @@
   "note": "селение семьи Шьямананды",
   "section": "",
   "lilas": [
+   "rm-0002",
    "brt-0021",
    "brt-3002",
    "brt-3047",
    "brt-8047"
   ],
   "events": [
+   "ev-shyamananda-birth-dandeshvara",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala",
    "ev-shyamananda-utkala"
@@ -12040,11 +12047,16 @@
   "note": "родина Расикананды; по БР 15.21–23 и «Расика-мангале» (П3) — в Маллабхуми, на Суварнарекхе, у села течёт Доланга, рядом Бараджита; T: Мединипур, у слияния Суварнарекхи и Доланги (T 215; M 158; B 1106)",
   "section": "",
   "lilas": [
+   "rm-0006",
+   "rm-0007",
+   "rm-0008",
    "brt-8047",
    "brt-8048",
    "brt-8049"
   ],
   "events": [
+   "ev-achyuta-marries-bhavani",
+   "ev-rasikananda-birth",
    "ev-shyamananda-utkala",
    "ev-rasikananda-initiation"
   ]
@@ -12551,9 +12563,11 @@
   "note": "край (паргана) на Суварнарекхе, где Рохини (Раяни) и Гопиваллабхапур («Бхакти-ратнакара» 15.21; «Расика-мангала» П3, Д3); не путать с Маллабхумом Вана-Вишнупура",
   "section": "",
   "lilas": [
+   "rm-0006",
    "brt-8047"
   ],
   "events": [
+   "ev-achyuta-marries-bhavani",
    "ev-shyamananda-utkala"
   ]
  },
