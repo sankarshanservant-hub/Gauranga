@@ -112,7 +112,7 @@ def build(lang):
         v, ll = map(int, os.path.basename(path)[:-3].split('-'))
         text = open(path, encoding='utf-8').read().strip()
         h = re.match(r'# [^.]+\.\s*(.+)', text)
-        text = re.sub(r'^# [^\n]+', '## ' + h.group(1).strip(), text, count=1)
+        text = re.sub(r'^# ', '## ', text, count=1)   # полный заголовок «Вибхага. Лахари N. …» — по нему сайт связывает главы с базой лил
         text = prepare(text, f'{v}{ll:02d}', lang)
         if v != cur:
             cur = v

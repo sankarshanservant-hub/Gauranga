@@ -105,7 +105,7 @@ The *Sri Rasika-mangala* is a Bengali poem on the life of Rasikananda (Rasika-Mu
 
 *The Eastern Part*
 
-## Lahari 1. Obeisances to the Vaishnavas
+## Purva-vibhaga. Lahari 1. Obeisances to the Vaishnavas
 
 *Mangala-shlokas to Shyamananda, Rasikananda and the Gosvamis; a song of obeisance to the guru Shyamananda and his wives, to Sri Chaitanya, Nityananda, Advaita and their associates, to the holy places, to Shyamananda's disciples and Rasikananda's companions; the author's humility and the fruit of hearing the Rasika-mangala*
 
@@ -880,7 +880,7 @@ the son of Rasamaya joyfully composed [this].
 [^101-73]: The 1941 edition reads "না হইবে" ("there will not be"); the 1997 edition reads "না লইবে" ("do not impute"); translated by the latter reading.
 
 
-## Lahari 2. Pilgrimage to the Holy Places
+## Purva-vibhaga. Lahari 2. Pilgrimage to the Holy Places
 
 *A song in glory of Shyamananda and Rasikananda and an outline of what will be told; Shyamananda's birth in Dandeshvara to Krishna Mandala and Durika, his detachment and departure from home; his meeting with Hridayananda in Ambika and the name "Shyamananda"; Shyamananda's pilgrimage to the holy places, his return to Vraja and his life there in the company of Jiva Gosvami*
 
@@ -1269,7 +1269,7 @@ the son of Rasamaya joyfully composed [this].
 [^102-31]: Jiva Gosani is Jiva Gosvami, under whom, according to BR 15, Shyamananda studied the books on bhakti in Vrindavana (cf. 101). Thakura Haripriya-dasa has not been identified; the 1997 edition reads "Thakura Haripriya" (*ṭhākura haripriyā*). It could also be taken as an epithet of Jiva: "Thakura, servant of Haripriya (Radha)", but "with all of them" points to several persons.
 
 
-## Lahari 3. Description of the Glory of Rohini
+## Purva-vibhaga. Lahari 3. Description of the Glory of Rohini
 
 *A song in glory of Shyamananda and Rasikananda; the sinfulness of Utkala and the devotees' prayers to Krishna for the deliverance of living beings; Rohini in Mallabhumi, Rasikananda's native village, its beauty and wealth; Achyuta, Rasikananda's father, and his marriage to Bhavani*
 
@@ -1597,7 +1597,7 @@ the son of Rasamaya joyfully composed [this].
 [^103-27]: "[The followers] of Shyamananda" — *śyāmānandī*, the Shyamanandis, i.e. Shyamananda's line; "people of Krishna" — see note 19. "The supreme object of worship" — *parama upāsya*.
 
 
-## Lahari 4. Description of the Pastime of Rasika's Birth
+## Purva-vibhaga. Lahari 4. Description of the Pastime of Rasika's Birth
 
 *A song in glory of Shyamananda and Rasikananda; the devotees' prayers for Utkala and Rasika's descent; Bhavani's wondrous pregnancy, conjectures and blessings; the birth of Rasikananda on the night of Dipavali in Shaka 1512, the position of the planets and the beauty of the infant; gifts and rites, the women's blessings; the infant weeps on hearing Krishna's name; the rejoicing of the Vaishnavas in Achyuta's house*
 
@@ -2048,7 +2048,7 @@ the son of Rasamaya joyfully composed [this].
 [^104-21]: The eight siddhis (*aṣṭa-siddhi*) are the mystic perfections of the yogis (anima, laghima, etc.; Bhag. 11.15); the nine nidhis (*nava-nidhi*) are the nine treasures of Kubera, an emblem of inexhaustible wealth. Here they stand for the prosperity that came to the house with Rasika's birth: pure devotees do not seek siddhis (Bhag. 11.14.14). "His" (*tā̃ra*) apparently refers to Achyuta (cf. 129).
 
 
-## Lahari 5. The Name-Giving
+## Purva-vibhaga. Lahari 5. The Name-Giving
 
 *A song in glory of Shyamananda and Rasikananda; the name-giving rite: the astrologers, the horoscope and the name Rasika, and, at Achyuta's request, Murari; Rasika's infant play and ornaments; hearing songs about Krishna the infant weeps, and the household, suspecting the evil eye, calls in exorcists; the blessings of the brahmanas*
 
@@ -2267,7 +2267,7 @@ the son of Rasamaya joyfully composed [this].[^105-14]
 [^105-14]: The author's signature is given by the common formula; here it is in the tripadi metre and reads slightly differently: "Making the holy feet of Shyamananda an ornament on his head, the son of Rasamaya sings."
 
 
-## Lahari 6. Description of the Childhood Pastimes
+## Purva-vibhaga. Lahari 6. Description of the Childhood Pastimes
 
 *A verse in glory of Prabhu Murari and a song in glory of Shyamananda; the infant Rasika crawls about the courtyard and carries out everyone's requests; the rite of the first feeding with rice — among the objects laid out he chooses the Bhagavatam; games and kirtana with the children, ecstasy at the name of Krishna; honouring Tulasi, the ashvattha, the Vaishnavas and the brahmanas, cleaning the holy places; the townspeople's love for Achyuta's son*
 
@@ -2635,7 +2635,7 @@ the son of Rasamaya joyfully composed [this].
 [^106-19]: "The Tulasi platforms" — *tulasī cauṛā*; corrected in the edition's list of errata to *caurā*: a raised platform for the Tulasi plant (cf. lahari 3, note 17: tulasi-mancha).
 
 
-## Lahari 7. Description of the Childhood Pastimes
+## Purva-vibhaga. Lahari 7. Description of the Childhood Pastimes
 
 *The ear-piercing ceremony: Rasika faints on hearing the musicians sing of Krishna; Dayaladasi Thakurani comes to see the child, foretells his service in Utkala and gives him the name of Hari in his ear; the boy chants a hundred thousand names daily; with the children he enacts Krishna's pastimes after the Bhagavata*
 
@@ -3084,7 +3084,7 @@ the son of Rasamaya joyfully composed [this].
 [^107-32]: "The Sri Bhagavata embodied" — *śrī-bhāgavata-murati*: his whole play is the Bhagavata in living forms. Rasika-shekhara ("crown of the rasikas") is Rasikananda (lahari 4, note 2). 123 — cf. 81 (*bhāgavata-anukrame*, "in the order of the Bhagavata").
 
 
-## Lahari 8. Hearing the Srimad-Bhagavatam
+## Purva-vibhaga. Lahari 8. Hearing the Srimad-Bhagavatam
 
 *A shloka on the superiority of bhakti over liberation and a song in glory of Shyamananda; the boy Rasika plays Bhagavata pastimes with the children day and night and forgets to eat; at his request Achyuta invites a learned brahmana to recite the Bhagavata, and Rasika, sitting on his father's lap, hears in order of Krishna's deeds in Mathura and Dvaraka, and faints at the account of the gopis' separation; he shapes a Deity and worships Him, holds sankirtana with the children and plays at pilgrimage; people call him Krishna's companion and bless him*
 
@@ -3412,7 +3412,7 @@ the son of Rasamaya joyfully composed [this].
 [^108-25]: "Cross over the age of Kali" — *tara kali-kāla*: by hearing this book, overcome [the miseries of] the Kali age. Cf. the call to listen at the close of lahari 7 (123).
 
 
-## Lahari 9. Description of the Delights of Learning
+## Purva-vibhaga. Lahari 9. Description of the Delights of Learning
 
 *A shloka in glory of Rasikananda and a song; the rite of beginning to write, performed by the astrologer Vasudeva; Rasika quickly masters the letters and the phalas, then studies grammar and the shastras with five teachers in the places where his father, the adhikari of Mallabhumi, takes him along, and surpasses all in exposition; Jagannatha Mishra reads the Bhagavata with him and, amazed at his explanations, weeps and blesses him; study with Haridasa Dube, their discussions of prema-bhakti and Dube's praise of the boy; the fruits of hearing*
 
@@ -3751,7 +3751,7 @@ the son of Rasamaya joyfully composed [this].
 [^109-27]: "The devotees of Krishna" — *kārṣṇa-jana*; read in the 1941 edition (a superscript repha), note 66; lahari 3, note 19).
 
 
-## Lahari 10. Description of the Pastimes of Adolescence
+## Purva-vibhaga. Lahari 10. Description of the Pastimes of Adolescence
 
 *A song in glory of Shyamananda and Rasikananda; reading the Tenth Canto of the Bhagavata with Hari Dube, Rasika hears that Krishna did not return to Vraja and, weeping like the gopis in separation, wanders the forests for seven days without food or water; Achyuta and the townspeople find him and carry him home; Dube, citing Rupa's Bhagavatamrita, explains to him that Krishna returned to Vraja and never leaves it, and Rasika comes back to himself; Achyuta entrusts his son to Dube; Rasika becomes a master of all the shastras, composes songs and shlokas, and his detachment grows; Achyuta looks for a bride for him; Balabhadra Dasa, the ruler of Hijli, and his daughter Ichchha-dei; Achyuta frees Balabhadra, detained by the subadar in Medinipur over arrears, and Balabhadra, seeing Rasika, offers him his daughter in marriage*
 
@@ -4264,7 +4264,7 @@ the son of Rasamaya joyfully composed [this].
 [^110-37]: "Devotees of Krishna" — *kārṣṇa-jana* (note 13). Rasikendra is Rasikananda (notes 2, 14). "Description of [his] nature" (140) — *svabhāva varṇanā*; cf. 81.
 
 
-## Lahari 11. Description of the Wedding Preparations
+## Purva-vibhaga. Lahari 11. Description of the Wedding Preparations
 
 *A song in glory of Achyuta's son; Achyuta announces Balabhadra's proposal to his kin, and all prepare gifts and clean the house; Balabhadra announces to his own kin that Ichchha-dei will be Rasika's wife, and praises the bridegroom; Balabhadra's sudden passing; his brother Sadashiva, true to the given word, fixes the auspicious time with astrologers, prepares the feast, adorns the house and sends men to fetch the bridegroom; Achyuta summons his kin, and they gather*
 
@@ -4420,7 +4420,7 @@ the son of Rasamaya joyfully composed [this].[^111-15]
 [^111-15]: "Devotees of Krishna" — *kārṣṇa-jana* (lahari 10, note 13). "The description of the wedding" — *vibhā varṇana*; the 1997 edition has *vibhā āyojana*, "the wedding preparations" (cf. the title of the lahari). The author's signature (the second half of the stanza) is given in the standard formula; in the tripadi metre it runs: "Making the holy feet of Shyamananda the ornament on his head, the son of Rasamaya sings" (cf. lahari 5, note 14).
 
 
-## Lahari 12. Description of the Wedding
+## Purva-vibhaga. Lahari 12. Description of the Wedding
 
 *A song in glory of Shyamananda and Rasikananda; Rasika's wedding procession, with brahmanas, kinsfolk, gifts and music, goes to Hijli, and on the way all marvel at the bridegroom's beauty; Sadashiva receives the guests, adorns the house and the wedding pavilion and lights countless lamps; Rasika is dressed as a bridegroom and goes in procession to the pavilion, where the brahmanas bless him; the adorning of the bride Ichchha-dei, the wedding rite and the dowry; the return home, Achyuta's joy and the feasting of the kinsfolk*
 
@@ -5037,7 +5037,7 @@ the son of Rasamaya joyfully composed [this].[^112-71]
 [^112-71]: The author's signature is rendered by the standard formula; here the verb is *kautuke racilā*, "joyfully (with delight) composed".
 
 
-## Lahari 13. Description of the Mood of Renunciation
+## Purva-vibhaga. Lahari 13. Description of the Mood of Renunciation
 
 *A song in glory of Shyamananda; after the wedding Rasika lives at home, relishing the "Bhagavata" in the company of devotees; in seclusion he chants the name of Hari, weeps, rolls on the ground and calls on Krishna as his only refuge; his family search for him in the forests and bring him home; he regards his home as poison and wishes to leave, taking renunciation; Achyuta urges him to stay, and Rasika replies that only Krishna, His name, His lilas, Vrindavana and devotion are real, and calls on his father to worship Krishna*
 
@@ -5180,7 +5180,7 @@ the son of Rasamaya joyfully composed [this].[^113-16]
 [^113-16]: The author's signature (the second half of the stanza) is given in the common formula; here it is in tripadi metre and reads differently: "Shyamananda's feet are all the wealth of the son of Rasamaya" (*śyāmānanda-pada, sakala sampada, rasamayera nandane*); cf. lahari 5, note 14; lahari 11, note 15.
 
 
-## Lahari 14. The Vision of Sri Krishna and the Hearing of His Command
+## Purva-vibhaga. Lahari 14. The Vision of Sri Krishna and the Hearing of His Command
 
 *A song in glory of Shyamananda; absorbed in love for Krishna, Rasika wanders through Achyuta's domains, settles with his family at Ghantashila and reads the Bhagavata in the Jagannatha pavilion; in the forests on the Suvarnarekha, where the Pandavas once rested, he reads the Bhagavata, sings the name and feeds the Vaishnavas; as he sits in meditation at dusk, Krishna appears to him and declares that his teacher will be Shyamananda, in whose form His beloved has taken birth; Krishna vanishes, and Rasika weeps in separation until morning; the household find him in the forest and bring him home; Rasika, heedless of the joys of home, longs for Krishna and Shyamananda; the author promises to tell how Shyamananda came from Vraja to Utkala, and speaks of his own service to both since childhood*
 
@@ -5456,7 +5456,7 @@ the son of Rasamaya joyfully composed [this].
 [^114-22]: "Devotees of Krishna" — *kārṣṇa-jana* (lahari 10, note 13). "The treasure of love for Krishna" — *kṛṣṇa-prema-dhana*; the edition gives in a footnote the variant *kṛṣṇa-prāṇa-dhana*: "Krishna, the treasure of life".
 
 
-## Lahari 15. The Journey from Vraja-dhama to Gauda
+## Purva-vibhaga. Lahari 15. The Journey from Vraja-dhama to Gauda
 
 *A song in glory of Shyamananda; Rasikendra thinks of Shyamananda without cease; in Vraja, Madana-gopala Sri Govinda at night commands Shyamananda to go to Utkala, instruct Rasika-Murari and preach prema-bhakti, and conveys the same command to him through Sri Jiva Gosvami; taking leave of Jiva and the Vaishnavas of Vraja, Shyamananda sets out with his disciples; in Agra the Mughal kotwal throws the Vaishnavas into prison, but at night an unknown person punishes him, and the kotwal begs forgiveness and serves them for a month; by way of Varanasi and Prayaga Shyamananda comes to Rohini and, learning that Rasika is at Ghantashila, goes there*
 
@@ -5730,7 +5730,7 @@ the son of Rasamaya joyfully composed [this].
 [^115-27]: "Devotees of Krishna" — *kārṣṇa-jana* (lahari 10, note 13; lahari 14, note 22).
 
 
-## Lahari 16. The Meeting with Sri Shyamananda
+## Purva-vibhaga. Lahari 16. The Meeting with Sri Shyamananda
 
 *A song in glory of Shyamananda; at Ghantashila Rasika listens to the "Bhagavata" in the raja's assembly and questions the brahmanas about its meaning; Shyamananda enters, and the raja and everyone receive him with reverence; Rasika and Shyamananda recognize each other in their hearts and weep; in private Rasika falls at his feet, Shyamananda embraces him and says that he has come from Vrindavana by Krishna's command to see him; spending the chaturmasya together, they discuss the scriptures, and Shyamananda reveals to Rasika the path of worshipping Radha and Krishna in Vrindavana in the mood of madhurya and the power of prema, by which Krishna is conquered; Shyamananda embraces and blesses Rasika; thus the Purva-vibhaga concludes*
 
@@ -6093,7 +6093,7 @@ the son of Rasamaya joyfully composed [this].
 
 *The Southern Part*
 
-## Lahari 1. The Deliverance of Damodara
+## Dakshina-vibhaga. Lahari 1. The Deliverance of Damodara
 
 *A song in glory of Shyamananda; Shyamananda lives at Ghantashila, holding kirtana in every house; in Rasika's house he lets little Devaki hear the sixteen names "Hare Krishna"; Rasika, recalling Krishna's command and Dayaladasi's prediction, asks for initiation and receives the mantra, and his wife Ichchha-dei receives initiation and the name Shyamadasi; in the raja's assembly Shyamananda in anger strikes the distracted Rasika with his foot, and Rasika sees in this release from bondage; Shyamananda prepares to go to Nilachala and to Vraja, tells Rasika to stay at home for a while and then come to Vraja, promising to take him along from there; on the way they come to Chakuliya, to Damodara, a learned yogi; Shyamananda reveals bhakti to him, and in the forest by the river Kharva Krishna appears to Damodara with Shyamananda on His left in the form of His beloved; Damodara with his family accepts initiation; Shyamananda departs for Nilachala and Vraja; the author says he heard all this from the lips of Damodara and Rasika*
 
@@ -6494,7 +6494,7 @@ the son of Rasamaya joyfully composed [this].
 [^201-40]: The son of Achyuta is Rasikananda. "Composed" — *granthana*, literally "strung together, woven". "Devotees of Krishna" (101) — *kārṣṇa-jana* (Purva, lahari 10, note 13; lahari 14, note 22).
 
 
-## Lahari 2. Sri Rasika's Darshan of Vraja-mandala
+## Dakshina-vibhaga. Lahari 2. Sri Rasika's Darshan of Vraja-mandala
 
 *A song in glory of Shyamananda; Shyamananda stays in Vraja; Shyamadasi, by the order of Sadashiva Dasa, is staying in Hijli, while Rasika lives at Taniya, in the house of Ananta; Rasika tells her that he is leaving for Vraja, and when she begs him to take her along, he tells her to serve the sadhus at home and promises to take her later; through the forest country Rasika hastens to Vraja: in Mathura he sees the place of Krishna's appearance, in Vrindavana Madana-gopala and Govinda, and goes round the twelve forests; at Govardhana Krishna appears to him in the form of a Vrajavasi and commands him to return to Utkala and give bhakti, saying that Shyamananda is waiting for him in Mathura; in Mathura Rasika meets Shyamananda and asks to be allowed to stay in Vraja, but Shyamananda reminds him of the command given at Govardhana; amazed, Rasika obeys, and together they go to Utkala; at Segala Vishnudasa with his family becomes a disciple and receives the name Dasa Rasamaya; Rasika returns home*
 
@@ -6793,7 +6793,7 @@ the son of Rasamaya joyfully composed [this].
 [^202-34]: The colophon is; on the title see note 1.
 
 
-## Lahari 3. The Manifestation of Sri Gopivallabhapur
+## Dakshina-vibhaga. Lahari 3. The Manifestation of Sri Gopivallabhapur
 
 *A song in glory of Shyamananda; by Shyamananda's mercy prema grows in Rasika's heart; he cares nothing for the household, serves the Vaishnavas and guests, drinks the water from their feet and partakes of their remnants without regard to caste; after Achyuta's departure the brothers quarrel, and the relatives revile Rasika and blaspheme the Vaishnavas; unable to bear this, Rasika, together with Shyamadasi, who resolves to follow him, leaves home and on the bank of the Suvarnarekha finds a beautiful hidden village — "the hidden Vrindavana"; he settles there, at Kashipur, taking with him only the family Deity, whom a raja of the Bhanja line had earlier taken by force, and serves the Vaishnavas; Shyamananda comes, and Rasika and Shyamadasi serve him; Shyamananda names the Deity Gopivallabha-raya and the village Sri Gopivallabhapur, foretells the manifestation of Govinda there, and makes Shyamadasi the overseer of the service*
 
@@ -7193,7 +7193,7 @@ the son of Rasamaya joyfully composed [this].
 [^203-44]: The colophon is: "ইতি শ্রীরসিকমঙ্গল দক্ষিণ-বিভাগে শ্রীগোপীবল্লভপুর-প্রকাশ-নাম তৃতীয়লহরী সম্পূর্ণা"; on the title see note 1.
 
 
-## Lahari 4. The Meeting of Rasamaya and Tulasi
+## Dakshina-vibhaga. Lahari 4. The Meeting of Rasamaya and Tulasi
 
 *A song in glory of Shyamananda; Shyamananda asks Rasika for alms — to deliver all living beings by giving everyone the sixteen names "Hare Krishna" and prema-bhakti, from the raja to the chandala — and Damodara receives the same command; Rasika begins to accept disciples — the first ten are named — and kirtana and the service of Vaishnavas spread throughout Utkala; Rasika goes first to Dharenda, ruled by the impious Bhima Shirikara, who sacrifices animals and mocks the Vaishnavas; Rasika stays with Bhima's grandsons Rasamaya and Vamshi, early Shyamanandis and disciples of Damodara, who receive him with honour, drink the water from his feet and beg mercy for Bhima and his brother; during the meal the young Tulasidasa, son of Gopaladasa, a disciple of Hridayananda, sings a song about Krishna, and Rasika listens to it in ecstasy all night; from that day Rasika takes Rasamaya's family, together with Tulasi, into his company*
 
@@ -7469,7 +7469,7 @@ the son of Rasamaya joyfully composed [this].
 [^204-27]: The colophon is; on the title see note 1. Lahari 5 begins.
 
 
-## Lahari 5. The Deliverance of Bhima Shrikara
+## Dakshina-vibhaga. Lahari 5. The Deliverance of Bhima Shrikara
 
 *A song in glory of Shyamananda; for four months Rasika stays in Rasamaya's house at Dharenda and holds sankirtana everywhere; Bhima Shirikara, the lord of Dharenda, rebukes Achyuta's young son for abandoning his studies and becoming a Vaishnava; Rasika proposes to summon the pandits and decide by the shastras which dharma is highest; in the debate he crushes the pride of all the brahmanas, expounding the shastras according to Svami, and Bhima with his brother and his whole family take shelter of him and give up the killing of living beings; Rasika instructs people of every caste, and Dharenda becomes like Vraja; with boys dressed as the maidens of Vraja and as Krishna he enacts Krishna's forest pastimes and returns to the village with music and sankirtana, and the people call him an incarnation*
 
@@ -7739,7 +7739,7 @@ the son of Rasamaya joyfully composed [this].
 [^205-28]: "[His] nature" — *sbabhāba*; the 1997 ed. reads *prabhāba*, "[his] power, glory". "Achyuta's son speaks it, dwelling [in my] heart" — the author ascribes his inspiration to Rasikananda.
 
 
-## Lahari 6. Description of the Wedding of Sri Sri Gopivallabha-raya
+## Dakshina-vibhaga. Lahari 6. Description of the Wedding of Sri Sri Gopivallabha-raya
 
 *A song in glory of Shyamananda; while living at Dharenda, Rasika plans the wedding of Gopivallabha-raya: craftsmen manifest the Deity of Thakurani, and in the house of Rasamaya and Vamshi provisions and gifts are prepared; sadhus and brahmanas are invited, Rasamayadasa performs the adhivasa and has the Deity brought, and over three festivals the Divine Couple are united; Rasika in ecstasy beholds Them, feeds the sadhus and sends them off with honour, and returns home with the Deity; the people of Dharenda, like the maidens of Vraja, pine in separation from him, while Rasika weeps remembering his pastimes there and sends them a letter describing those pastimes; at the reading of the letter all weep, and Rasika's elder brother Pattanayaka Jagannatha loses consciousness; the author extols the fortune of those who played with Rasika*
 
@@ -7909,7 +7909,7 @@ the son of Rasamaya joyfully composed [this].[^206-21]
 [^206-22]: The colophon is; on the title see note 1.
 
 
-## Lahari 7. The Manifestation of the Sixty-four Limbs of Bhakti
+## Dakshina-vibhaga. Lahari 7. The Manifestation of the Sixty-four Limbs of Bhakti
 
 *A song in glory of Shyamananda; Rasika lives in his own home, and day by day prema-bhakti grows, and service is rendered to thousands of Vaishnavas; he honours the sadhus more than Krishna and himself dresses Sri Gopivallabha-raya with Thakurani; the author lists how Rasika firmly practises the sixty-four limbs of bhakti — from taking shelter of the guru to residing in Mathura in his mind — and, practising them himself, teaches them to others; a mere glance from him is enough for a person to surrender exclusively to Krishna; Rasika never transgresses the orders of the guru, Krishna and the sadhus, is ready to give himself with his whole family to the sadhus, and honours anyone on whom he sees the mark of a Vaishnava as equal to Krishna, be he a brahmana or a Huna or a mleccha; by his mercy all become pure in heart*
 
@@ -8188,7 +8188,7 @@ the son of Rasamaya joyfully composed [this].
 [^207-34]: The colophon is; on the title see note 1.
 
 
-## Lahari 8. The Display of Devotion to the Guru
+## Dakshina-vibhaga. Lahari 8. The Display of Devotion to the Guru
 
 *A song in glory of Shyamananda and Rasika; the author praises Rasika's virtues — his beauty, learning, eloquence, humility and mercy to all living beings — and blesses Utkala, his parents, his village and all who see his feet; Shyamananda comes to Balarampur, where he gains many disciples, and sends Rasika a letter: "Come to me quickly"; the letter reaches Rasika at his meal, and without finishing he rises at once and goes alone, at dusk and in the rain, through a forest where tigers, rhinoceroses and elephants live; Shyamananda, learning from the servants how he travelled, is grieved, tells him to convert the forest country (Vanabhumi), and plans the Panchama-dola festival in the month of Vaishakha at Barakola; the author urges that their pastimes not be considered human*
 
@@ -8482,7 +8482,7 @@ the son of Rasamaya joyfully composed [this].
 [^208-28]: The name is given by the colophon: "গুরুভক্তিপ্রদর্শন-নাম অষ্টম-লহরী" (*guru-bhakti-pradarśana*). The colophon ends the lahari (cf. note 1); lahari 9 begins.
 
 
-## Lahari 9. Preparations for the Panchama-dola
+## Dakshina-vibhaga. Lahari 9. Preparations for the Panchama-dola
 
 *A song in glory of Shyamananda; Rasika stays at Balarampur; twenty Vaishnavas come to him, and at midnight, when there is no ghee to feed them, he himself goes into the town for it and in the dark enters the house of a mleccha, a Mughal; the man beats him, and Rasika says with a smile that he will hurt his hand on his hard body; the astonished Mughal falls at his feet, but within a few days loses his horses, elephants, wealth and family; terrified, he seeks Rasika's shelter, and Rasika tells him to worship Krishna and be merciful to all living beings; the yavana becomes a sadhu and is rich again; at Shyamananda's order Rasika gathers provisions, comes to Dharenda, to Rasamaya's house, and tells everyone to prepare for the Panchama-dola on the spring full moon of Vaishakha; all joyfully bring offerings*
 
@@ -8634,7 +8634,7 @@ the son of Rasamaya joyfully composed [this].[^209-17]
 [^209-18]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-দক্ষিণ-বিভাগে পঞ্চমদোল-আয়োজন-নাম নবম-লহরী সম্পূর্ণা"; on the title see note 1.
 
 
-## Lahari 10. The Description of the Panchama-dola
+## Dakshina-vibhaga. Lahari 10. The Description of the Panchama-dola
 
 *A song in glory of Shyamananda; on the way from Dharenda Rasika stays at Vasantapur with three disciples of Shyamananda, accepts many disciples there and calls everyone to the Dola-yatra; at Barakola he meets Shyamananda and promises that provisions will be brought from every land; at Shyamananda's order a pavilion for the rasa is built and the place adorned like Vaikuntha, and Rasika brings the Deity Shyama-raya from Dharenda; on the full moon of Vaishakha the Dola-yatra is celebrated: kirtan parties, rajas and bhunyas, the subadar of Medinipur and hundreds of thousands of people gather and throw phagu and abir — this is the first joint pastime of Shyamananda and Rasika; at the festival Vishvanatha Bhunya, brother of Raja Harichandana, skilled in music and letters, at Vamshi's request receives initiation from Rasika and the name Shyama-manohara, gives up worldly life, defeats the adherents of all doctrines in debate and accepts many disciples; Shyamananda sends the Vaishnavas off with gifts*
 
@@ -8930,7 +8930,7 @@ the son of Rasamaya joyfully composed [this].
 [^210-32]: The colophon is; on the title see note 1.
 
 
-## Lahari 11. The Curse Laid on Shyamadasi for an Offence in Krishna's Service
+## Dakshina-vibhaga. Lahari 11. The Curse Laid on Shyamadasi for an Offence in Krishna's Service
 
 *A song in glory of Shyamananda; after the Dola-yatra Harabola, the yavana ruler, seeing the festival, calls Shyamananda Narayana, holds a three-day festival of sankirtana at Alamganj in Medinipur and worships him as Ishvara; Shyamananda accepts many disciples in Dharenda; at the request of Rasamaya, Vamshi and Bhima Shirikara he enters married life and in Greater Balarampur takes as his wife Shyamapriya, the daughter of Jagannatha; Rasika returns home; one day Shyamadasi, while preparing vegetables for the offering to the Deity, leaves her work to feed her crying first-born son Vrajananda, and Rasika in anger says that her sons will not remain with her; so six sons one after another leave this world, and by his mercy three remain — Radhananda, Krishnagati and Radhakrishnadasa; Hridayananda comes to Dharenda and orders Shyamananda, Rasika and Damodara to give everyone in Utkala Chaitanya's prema-bhakti and the name Hare Krishna*
 
@@ -9213,7 +9213,7 @@ the son of Rasamaya joyfully composed [this].
 [^211-32]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-দক্ষিণ-বিভাগে কৃষ্ণসেবাপরাধে শ্যামদাসী-প্রতি অভিশাপপ্রদান-নাম একাদশ-লহরী সম্পূর্ণা" (*kṛṣṇasebāparādhe śyāmadāsī-prati abhiśāpa-pradāna*, lit. "The Pronouncing of a Curse on Shyamadasi for an Offence in Krishna's Service"); the 1997 edition omits Shyamadasi's name in the colophon. Lahari 12 begins.
 
 
-## Lahari 12. The Meeting with Raja Vaidyanatha Bhanja
+## Dakshina-vibhaga. Lahari 12. The Meeting with Raja Vaidyanatha Bhanja
 
 *A song in glory of Shyamananda; Shyamananda travels through the country with Rasika: at Naihati, at Arjuni's, he holds three festivals and accepts disciples, Rasika accepts many disciples at Kashiyari, Shyamananda shows mercy to Haridasa at Jhatiyara and to Bhimadhana at Murura, who gives him the village of Sri Govindapur, where Shyamananda builds a house and where Shyamapriya, Gaurangadasi and Yamuna come; Shyamananda orders Rasika to deliver the king and subjects of Utkala; Rasika comes to Rajgarh, to the learned assembly of Raja Vaidyanatha Bhanja and his two brothers, versed in the shastras but ignorant of devotion to Krishna; the author describes Rasika's beauty, with the Bhagavata in his hands; women, scholars, friends, servants, sadhus and men of knowledge see in him a jewel among men, like Narayana; the three brothers fall at his feet, wash them, glorify him as Narayana and entertain him with honour; the author promises to tell next of the instruction*
 
@@ -9546,7 +9546,7 @@ the son of Rasamaya joyfully composed [this].
 [^212-42]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-দক্ষিণবিভাগে রাজা বৈদ্যনাথ-ভঞ্জ-মিলন-নাম দ্বাদশ-লহরী সম্পূর্ণা."
 
 
-## Lahari 13. The Establishment of Krishna's Worship through the Examination of All the Scriptures
+## Dakshina-vibhaga. Lahari 13. The Establishment of Krishna's Worship through the Examination of All the Scriptures
 
 *A song in glory of Shyamananda; Raja Vaidyanatha asks Rasika to instruct the three brothers, and Rasika promises to initiate them and teaches them to worship Krishna alone, giving up the worship of various gods; the court bhattacharyas demand a learned debate, and Rasika, examining Sankhya, Mimamsa, Patanjali's yoga, logic, Vaisheshika, Vedanta, the four Vedas, the thirty-six smritis, poetry and grammar, shows that the essence of all the shastras is prema-bhakti for Krishna; the panditas admit that they cannot answer him, call him an avatara of Vyasa and Shuka and equal to Narayana; the raja asks about the truth of the living being, and Rasika tells how the jiva, not knowing Krishna, wanders by his karma in the cycle of births, suffers in the womb, remembers his past births and prays to Narayana for deliverance; the brothers ask why, once born, he forgets Krishna*
 
@@ -9852,7 +9852,7 @@ the son of Rasamaya joyfully composed [this].
 [^213-34]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-দক্ষিণবিভাগে সর্ব্বশাস্ত্রবিচারে কৃষ্ণভজন-স্থাপন-নাম ত্রয়োদশ-লহরী সম্পূর্ণা" (*sarbbaśāstra-bicāre kṛṣṇabhajana-sthāpana*); the 1997 edition reads the same; on the title see note 1.
 
 
-## Lahari 14. The Examination of the Truth of the Jiva and of Abhidheya
+## Dakshina-vibhaga. Lahari 14. The Examination of the Truth of the Jiva and of Abhidheya
 
 *A song in glory of Shyamananda; Rasika continues to instruct the raja and the three brothers: once born and touching the earth, the jiva by maya forgets Krishna and in childhood, youth, maturity and old age does not worship Him, wandering through eighty-four lakhs of species; Krishna is the Lord and father of all, and the four varnas were born from Him; the human body is rare and fleeting, its end is certain, kinsmen are strangers, pride ruins; Rasika bids them chant the name without delay, serve the sadhus and Vaishnavas while staying at home, take shelter of a guru wholly surrendered to Krishna, of whatever caste he may be, and never take instruction from one who is not devoted to Krishna, even if he is learned in the Vedas; the panditas cannot refute him, all give up the worship of other gods and surrender to Krishna; the author promises to tell how they gave up the killing of living beings*
 
@@ -10137,7 +10137,7 @@ the son of Rasamaya joyfully composed [this].
 [^214-34]: The colophon is; on the title see note 1. Lahari 15 begins.
 
 
-## Lahari 15. The Instruction to Maharaja Vaidyanatha Bhanja on Meditation on Vrindavana and on Worship
+## Dakshina-vibhaga. Lahari 15. The Instruction to Maharaja Vaidyanatha Bhanja on Meditation on Vrindavana and on Worship
 
 *A song in glory of Shyamananda; before the king and the bhattacharyas Rasika speaks of the greatness of the sadhus and of their association: one who does not worship Krishna lives like a tree, breathes like a blacksmith's bellows, and in intelligence is like a hog, a dog, a camel and an ass, while a brahmana averse to Krishna is lower than a devoted shvapacha; the gods are Krishna's servants, and one may worship Him while remaining at home; subjects of every class surrender to Krishna; Rasika asks the three brothers for alms — the giving up of the killing of living beings — and names the eight who fall into hell for killing an animal; the brothers and all the people take exclusive shelter, the bhattacharyas acknowledge Rasika as an associate of Krishna and bless him, the king worships his feet, and the brothers receive the Krishna-mantra; Rasika teaches them to meditate on Krishna, the Lord of Vrindavana, in the mood of madhurya and describes Vrindavana — the Kalindi, the twelve forests, the wish-fulfilling trees, the jewelled pavilion and temple, the throne, the form of Radha and Krishna, the playing of the flute and the circle of the gopis; the brothers firmly devote themselves to the worship of Krishna*
 
@@ -10687,7 +10687,7 @@ the son of Rasamaya joyfully composed [this].
 [^215-63]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-দক্ষিণবিভাগে মহারাজা বৈদ্যনাথ ভঞ্জের প্রতি বৃন্দাবন-ধ্যান-ভজনোপদেশ-নাম পঞ্চদশ-লহরী সম্পূর্ণা"; on the title see note 1.
 
 
-## Lahari 16. The Deliverance of Uddanda
+## Dakshina-vibhaga. Lahari 16. The Deliverance of Uddanda
 
 *A song in glory of Shyamananda; through Rasika's instruction the three brothers become wholly devoted, and in Bhanjabhum all the people, Shaivas and Shaktas, give up the killing of living beings; when during a reading of the Bhagavata the raja is distracted by his steward, the brahmana Ramakrishna, Rasika's disciple, slaps him; the raja restrains the enraged courtiers, falls at Ramakrishna's feet and thanks him for his deliverance, and Rasika is convinced that the raja has become a Vaishnava; taking leave of the raja, Rasika returns to Shyamananda at Govindapur; Shyamananda goes with Rasika to Nrisimhapur, to the bhuiyan Uddanda-raya, who robs and beats Vaishnavas; at night a mahapurusha appears to Uddanda and bids him take shelter of Shyamananda, and, seeing Shyamananda, he takes his shelter with his whole family; Shyamananda has Shyama-raya brought from Dharenda and holds three festivals; Uddanda serves the sadhus, repents of having destroyed thousands of sadhus and hands over the gudris taken from the Vaishnavas — seven hundred and eighteen — and Shyamananda distributes them to the Vaishnavas; seeing him, everyone becomes a sadhu; thus the Dakshina-vibhaga ends*
 
@@ -11014,7 +11014,7 @@ the son of Rasamaya joyfully composed [this].
 
 *The Western Part*
 
-## Lahari 1. Preparations for the Spring Rasa at Sri Gopivallabhapur
+## Pashchima-vibhaga. Lahari 1. Preparations for the Spring Rasa at Sri Gopivallabhapur
 
 *A song in glory of Shyamananda; Shyamananda comes with the Deity Shyama-raya to Kashiyari, manifests Thakurani, celebrates the wedding of Thakura and holds three festivals, and there Purushottama, Damodara, Mathuradasa, Haraghosha Mahapatra and the brahmana Haridasa receive the mantra from him; in Dharenda, at an assembly with Rasika, Damodara and other devotees, Shyamananda orders a great Rasa-yatra to be proclaimed for the spring full moon of Vaishakha and entrusts Rasika with gathering the provisions; Rasika's followers spend a whole year clearing the thorny thickets from the site at Sri Gopivallabhapur and build a pavilion, while Rasika himself in one year gathers mountains of grain, sweets, fruits, vegetables and spices; an octagonal circle of the rasa is built with paintings, a fence, four gates and high platforms, with the gods, instruments, banners and indrajala; the circle is adorned with cloths, garlands and canopies, and by the wish-fulfilling tree at the eight corners eight Deities are installed with eight Thakuranis; the author says that he cannot describe it and writes by the mercy of Rasika, whom he saw with his own eyes from childhood*
 
@@ -11345,7 +11345,7 @@ the son of Rasamaya joyfully composed [this].
 [^301-51]: The colophon is: «ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে শ্রীগোপীবল্লভপুরে বাসন্তরাসোদ্যমনাম প্রথম-লহরী সম্পূর্ণা» (*bāsanta-rāsa-udyama*); the ligature «দ্য» (×4) has the same form as in «বিদ্যমান» (57). In note 1 the same place is read «রাসোত্থম» and understood as *-rāsodyama*; the 1941 edition apparently has precisely «দ্য»: *udyama*, "undertaking, preparations". On the spring rasa at the full moon of Vaishakha — note 12; on the rasa-lila — lahari 2, note 7.
 
 
-## Lahari 2. The Description of the Adhivasa of the Rasa
+## Pashchima-vibhaga. Lahari 2. The Description of the Adhivasa of the Rasa
 
 *A song in glory of Shyamananda; having gathered everything needed over a year, Rasika opens the Rasa-yatra on the spring full moon of Vaishakha; there arrive Shyamananda, Hridayananda, Auliya Thakura, Vidyutmala Thakurani, Subaladasa, the descendants of Nityananda and Advaita, the followers of the twelve gopalas and the sixty-four mahantas, kings and countless people; in the evening the adhivasa of the festival is performed, and Rasika worships Shyamananda, Hridayananda and the mahantas; hundreds of thousands partake of prasada, the demigods serve unrecognized together with the people, and all call Rasika a partial incarnation; eight boys, among them Rasamaya's son Gopijana-vallabha, are dressed as the eight sakhis, and the boy Raghunatha as Krishna; all forget themselves in bliss, as though Vrindavana had appeared*
 
@@ -11675,7 +11675,7 @@ the son of Rasamaya joyfully composed [this].
 [^302-45]: The title is "The Description of the Adhivasa of the Rasa". The colophon stands below ॥76॥ in the right column; below it are a rule and the editor's footnote to 60.
 
 
-## Lahari 3. The Description of the Rasa
+## Pashchima-vibhaga. Lahari 3. The Description of the Rasa
 
 *A song in glory of Shyamananda; at Sri Gopivallabhapur on the bank of the Suvarnarekha, on the spring full moon of Vaishakha, Rasika opens the rasa: amid the thunder of instruments and sankirtana, amid hosts of people and gods, boys enact the rasa-lila following the five chapters of the Bhagavata — the call of the flute, the coming of the gopis, the words of Krishna sending them home to their husbands, the gopis' weeping and their reply that they will not leave His feet; Krishna smilingly calls the gopis, and the boys dance the rasa in the midst of the circle of sankirtana; the bliss of Vrindavana appears, the people are amazed and call Rasika a second Narayana; the author writes by the grace of Rasika, the son of Achyuta*
 
@@ -11965,7 +11965,7 @@ the son of Rasamaya joyfully composed [this].
 [^303-41]: The colophon is: «ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে রাস-বর্ণন-নাম তৃতীয়-লহরী সম্পূর্ণা» (*rāsa-barṇana*) — "The Description of the Rasa".
 
 
-## Lahari 4. The Description of the Rasa-yatra
+## Pashchima-vibhaga. Lahari 4. The Description of the Rasa-yatra
 
 *A song in glory of Shyamananda; at Sri Gopivallabhapur, as in a second Vrindavana, Rasika continues the Rasa-yatra, and the boys, in the order of the Bhagavata, represent how Krishna hides from the proud gopis, taking one gopi away with Him, how the gopis search for Him through the forests, questioning the trees, in their absorption enact His pastimes, find the chosen one whom He has left, and all together sing of Him; all say Rasika was born of a portion of Narayana; when Rasika comes from his house to the place of the rasa, a cobra bites him on the foot; he tells no one anything and all night watches the rasa in bliss, the snake perishes in the crowd, trampled to dust, and in the morning two fangs are taken out of his foot, and the poison vanishes without any charms; the author glorifies Rasika and promises prema-bhakti to the hearers of the Rasika-mangala*
 
@@ -12283,7 +12283,7 @@ the son of Rasamaya joyfully composed [this].
 [^304-52]: The colophon is: «ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে রাসযাত্রা-বর্ণন-নাম চতুর্থ-লহরী সম্পূর্ণা» (*rāsayātrā-barṇana*) — "The Description of the Rasa-yatra".
 
 
-## Lahari 5. The Completion of the Rasa-lila
+## Pashchima-vibhaga. Lahari 5. The Completion of the Rasa-lila
 
 *A song in glory of Shyamananda; following the order of the Bhagavata, the boys enact the gopis' lament for Krishna, His return, the consoling of the gopis and the dance of the rasa, and all call Rasika a partial incarnation; the next day, at the people's request, Rasika orders the rasa to be prepared again, but in the evening a storm breaks, and Shyamananda declares that the measure of the rasa is one night; in the morning a dadhi-kada is held with kirtana, in which Hridayananda dances; Rasika bows to Shyamananda, Hridayananda and the elders, embraces the Vaishnavas, sports in the waters of the Suvarnarekha, feeds and honours everyone and sends the guests off with honour; all praise Rasika, who gave prema-bhakti in every house; the author promises the listeners deliverance from the age of Kali*
 
@@ -12671,7 +12671,7 @@ the son of Rasamaya joyfully composed [this].
 [^305-62]: The colophon is: «ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে রাসলীলা-সমাপন-নাম পঞ্চম-লহরী সম্পূর্ণা» (*rāsalīlā-samāpana*) — "The Completion of the Rasa-lila".
 
 
-## Lahari 6. The Departure for Banapur
+## Pashchima-vibhaga. Lahari 6. The Departure for Banapur
 
 *A song in glory of Shyamananda; after the Rasa-yatra Shyamananda stays some days in the village, and Rasika with his family serves him; at Shyamananda's bidding the bashful Rasika expounds Krishna-katha in the assembly, so that the learned are amazed and people of all classes, even mlecchas, take shelter of Krishna; Raghunatha sends his brother with news that a Yavana is oppressing Sri Radhanagar; Shyamananda hastens with Rasika to Dharenda, Raghunatha Pattanayaka asks that men be sent to the subahdar Ahmed Beg, and Rasika with attendants and Vamshidasa sets out for Banapur*
 
@@ -12824,7 +12824,7 @@ the son of Rasamaya joyfully composed [this].[^306-20]
 [^306-21]: Colophon: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে বানপুরোদ্দেশ্যে গমন-নাম ষষ্ঠ-লহরী সম্পূর্ণা" (*bānapuroddeśye gamana*) — "The Departure for Banapur".
 
 
-## Lahari 7. The Preaching of the Holy Name and the Description of the Wild Elephant's Ravages
+## Pashchima-vibhaga. Lahari 7. The Preaching of the Holy Name and the Description of the Wild Elephant's Ravages
 
 *A song in glory of Shyamananda; Rasika, intoxicated with love for Krishna, travels to Banapur, staying nowhere longer than two days, and everywhere thousands become his disciples; he commands his disciples Ramakrishna and Dinashyama, and also Vamshidasa, to give the Hari-nama to all, from rajas to chandalas, and countless low-born people in the forest country and in Utkala are converted; at Banapur is camped the cruel governor Ahmed Beg, who has ruined the rajas and bhunyas of Orissa and keeps them about him in fear; Rasika stays with Raja Vaidyanatha, rajas, subjects, officials and hundreds of yavanas flock to him, and Shyamananda's affair concerning the village is settled by a document; the governor, seeing the crowds going to Rasika with the cry of "Hari," grows angry, reviles him as a cheat and sends for him, demanding a miracle like Kabir's; the rajas are afraid and his companions urge Rasika to flee, but he goes to the governor; meanwhile a wild, maddened elephant is ravaging Banapur, and when Rasika arrives the elephant bursts into the town, all flee in terror to the rooftops, and Rasika resolves to save everyone and make the elephant a sadhu — that elephant will become his servant*
 
@@ -13258,7 +13258,7 @@ the son of Rasamaya joyfully composed [this].
 [^307-63]: The colophon is (note 1). Lahari 7 ends with the author's signature (98).
 
 
-## Lahari 8. The Deliverance of the Maddened Elephant
+## Pashchima-vibhaga. Lahari 8. The Deliverance of the Maddened Elephant
 
 *A song in glory of Shyamananda; the subahdar, sitting on his terrace, orders the rajas to bring Rasika: let him give the Holy Name to the elephant ravaging Banapur, and if he survives he will be acknowledged as Narayana; the rajas despair, but Rasika, relying on Krishna's shelter, goes out to meet the elephant; his companions flee, and the subahdar repents of having summoned a sadhu to his doom; Rasika instructs the elephant to serve Krishna, reminding it of Indra and Gajendra; the elephant, gaining divine knowledge, falls at his feet, receives in its ear the sixteen names of "Hare Krishna" and the name Gopala Dasa, and, intoxicated with prema, goes off into the forest; all see Rasika's power, and Ahmed Beg falls at his feet and begs forgiveness; Rasika explains that Narayana, the maintainer of countless universes, dwells in the heart of every being, and so he did no violence to the elephant but gave it Krishna's name; the elephant gives up its wicked deeds, and the king of the yavanas rejoices*
 
@@ -13715,7 +13715,7 @@ the son of Rasamaya joyfully composed [this].
 [^308-63]: Colophon (note 1): *mattahasti uddhāra* — "The Deliverance of the Maddened Elephant".
 
 
-## Lahari 9. The Taking of Refuge by the Subahdar Ahmed Beg and the Gajapati Nrisimhadeva
+## Pashchima-vibhaga. Lahari 9. The Taking of Refuge by the Subahdar Ahmed Beg and the Gajapati Nrisimhadeva
 
 *A song in glory of Shyamananda; Rasika sets forth the truth to the subahdar Ahmed Beg with the evidence of the scriptures, and he, falling to the ground, recognizes him as a portion of Narayana; seeing the subahdar's humility, the rajas take shelter of Rasika, and in Banapur a multitude of people become disciples; Raja Harinarayana, the lord of Panchati, persuades the Gajapati Nrisimhadeva to see Rasika; Rasika himself comes to the Gajapati, the king prostrates himself before him and asks him to play the flute, and at the sound of the flute the king and the rajas swoon; declining to sit beside the king, Rasika sets forth the essence of the shastras — service to sadhus, the punishment of those who persecute sadhus, compassion for all beings — and asks the king as alms to give up the killing of living beings; the king gives it up, surrenders wholly to Rasika and honours his command like the command of Jagannatha; following him, the rajas take shelter of Rasika, and the subjects of Utkala become Vaishnavas*
 
@@ -14074,7 +14074,7 @@ the son of Rasamaya joyfully composed [this].
 [^309-53]: Colophon: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে সুবা আহম্মদীবেগ ও গজপতি নৃসিংহদেবের শরণ-গ্রহণ-নাম নবম-লহরী সম্পূর্ণা" (note 1). Lahari 9 runs 1–80.
 
 
-## Lahari 10. The Guru-Devotion and Sadhu-Service of the Elephant Gopala Dasa
+## Pashchima-vibhaga. Lahari 10. The Guru-Devotion and Sadhu-Service of the Elephant Gopala Dasa
 
 *A song in glory of Shyamananda; after some days in Banapur, Rasika sets out to see Shyamananda, but the ruler of Hijli carries off his disciples, the singers Shyamadasa and Mohana; Rasika refuses food and returns to Banapur, and the rajas secure their release; the elephant Gopala Dasa comes to Rasika, hears Krishna-katha and goes off to wander among the holy places; when Rasika and his companions lose their way in the forest and are left without food, the elephant brings them rice from a householder; Rasika instructs him to serve the sadhus, and the elephant becomes a great Vaishnava, while Rasika's touch purifies people of every class; a description of Rasika's form; at night Jagannatha commands Rasika to manifest Him as Sri Govinda, and Rasika meets two brother craftsmen from Nilachala, Raghunatha and Ananda; convinced of Jagannatha's command, he longs in bliss to see Govinda*
 
@@ -14413,7 +14413,7 @@ the son of Rasamaya joyfully composed [this].
 [^310-39]: Colophon: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে গোপালদাস-হস্তীর গুরুভক্তি ও সাধুসেবা-নাম দশম-লহরী সম্পূর্ণা" (note 1).
 
 
-## Lahari 11. The Manifestation of the Deity of Sri Govinda in Sri Gopivallabhapur
+## Pashchima-vibhaga. Lahari 11. The Manifestation of the Deity of Sri Govinda in Sri Gopivallabhapur
 
 *A song in glory of Shyamananda; Rasika comes to Shyamananda in Thuriya, who embraces him and asks about the events in Banapur; the companions tell of the elephant and all the rest, Rasika offers Shyamananda clothes, ornaments and jewels, and they spend days and nights in talk of Krishna; Rasika presents the craftsman brothers Raghu and Ananda, Shyamananda manifests a Deity and names Him Vrindavanachandra, and bids Rasika manifest Sri Govinda in Gopivallabhapur with the craftsmen; on an auspicious day Govinda-raya becomes manifest, Rasika rewards the craftsmen, installs the Deity in the temple and holds a great festival; thereafter he lives at home in the service of Govinda, in sankirtana and in service to guru, Krishna and the sadhus*
 
@@ -14568,7 +14568,7 @@ the son of Rasamaya joyfully composed [this].[^311-21]
 [^311-22]: Colophon (note 1).
 
 
-## Lahari 12. The Manifestation of Shyamasundarpur
+## Pashchima-vibhaga. Lahari 12. The Manifestation of Shyamasundarpur
 
 *A song in glory of Shyamananda; Shyamananda, living in Thuriya, calls Rasika to him; so many sadhus and guests arrive that he tells Rasika to beg for a few more homesteads, and the raja of Ghantashila gives them the village of Satuti, which is named Sri Shyamasundarpur; Shyamananda, while living in Ayodhya, builds a house there, lives in Little Govindapur and leaves three Thakuranis there; rajas and subjects give many villages, and the sadhus are served throughout Utkala; Shyamananda playfully tells everyone to call Rasika "Thakura Gosani"; the disciples of Shyamananda and Rasika number hundreds of thousands; in Thuriya, at the Dola festival, Shyamananda hears a call to go to Vraja and, in separation from Krishna, remains three days under a tree; Rasika, refusing food and water, and the rajas beg him to stay in Utkala; Shyamananda falls gravely ill, and Rasika brings from Harichandana in Balarampur the "Hemasagara" oil, which cures him; in Kashiyari a wicked Yavana official, enraged by the sankirtana, seizes everyone — apparently Shyamananda himself with his companions, soon loses everything and takes refuge with Shyamananda; in Narayanagarh Shyamananda tells the bhuiyan Shyamapala not to keep a Yavana guard at his door and, seeing his regard for the Yavanas, departs; from then on no Yavanas live in Narayanagarh*
 
@@ -14905,7 +14905,7 @@ the son of Rasamaya joyfully composed [this].
 [^312-45]: The author's signature (78) and the colophon are: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে শ্যামসুন্দরপুর-প্রকাশ-নাম দ্বাদশ-লহরী সম্পূর্ণা" (*śyāmasundarapura-prakāśa*; note 1).
 
 
-## Lahari 13. The Description of Sri Sri Rasikananda Prabhu's Separation at the Disappearance of Sri Sri Shyamananda Prabhu
+## Pashchima-vibhaga. Lahari 13. The Description of Sri Sri Rasikananda Prabhu's Separation at the Disappearance of Sri Sri Shyamananda Prabhu
 
 *A song in glory of Shyamananda; Shyamananda and Rasika give prema in all lands; in Ambika Adhikari Thakura departs, and Shyamananda, weeping for Hridayananda, says he will no longer remain on earth; in the month of Phalguna an aradhana festival is held in Shyamasundarpur, and the whole community gathers; in Govindapur, after Damodara's departure, a festival is held in his memory and again the day of Adhikari Gosani is kept; Shyamananda tells Rasika that he has fulfilled the Lord's command to deliver, together with him, the living beings of Utkala, and that Krishna bids him depart; in Nrisimhapur, in the house of Uddanda-raya, he is ill for four months, refuses treatment and in place of medicine orders unceasing sankirtana; when Rasika begs leave to go to Vrindavana, he tells him to remain in Utkala, preach and care for all, places his feet on his head, ties a cloth on him with his own hand, applies tilaka and gives him all authority in the community; in Shaka 1552, on the first day of the dark fortnight of Ashadha after the Snana-yatra, amid the sound of sankirtana, Shyamananda departs; Rasika falls unconscious and laments for him; the disciples console him, but he is inconsolable; in that village, by the rules of the shastras, the place of his departure is established; the author promises to tell of the festivals and asks pardon for faults in the order of the narrative*
 
@@ -15213,7 +15213,7 @@ the son of Rasamaya joyfully composed [this].
 [^313-35]: The author's signature (75) and the colophon are: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে শ্রীশ্রীশ্যামানন্দপ্রভুর তিরোভাবে শ্রীশ্রীরসিকানন্দ-প্রভুর বিরহ-বর্ণন-নাম ত্রয়োদশ-লহরী সম্পূর্ণা" — the title agrees with the heading (note 1).
 
 
-## Lahari 14. The Description of Shyamananda's Branches
+## Pashchima-vibhaga. Lahari 14. The Description of Shyamananda's Branches
 
 *A song in glory of Shyamananda; in separation from Shyamananda, Rasika gathers the devotees of Krishna to hold the twelfth-day festival and appoints the first aradhana in Govindapur; he tells the brothers to invite all the Shyamanandis, to decide who will be adhikari of the community and of Sri Govinda's service, and to name to him all of Shyamananda's disciples; the devotees, praising Rasika's three sons and daughter, choose his eldest son, Radhananda, full of prema for Krishna; Rasika embraces him, ties a cloth on his head and entrusts to him the service of Sri Govinda; the brothers say the Shyamanandis are countless as the waves of the ocean; the author lists Rasika's disciples — brahmanas, kings, renunciants — among them Ramakrishna, who crossed a river on a crocodile, Gokula Dasa, who manifested bhakti in Kendujhar, and Govinda Bhattacharya, who preached in Bengal, — and says they cannot be counted*
 
@@ -15914,7 +15914,7 @@ the son of Rasamaya joyfully composed [this].
 [^314-89]: The author's signature (170) and the colophon are: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে শ্যামানন্দ-শাখাবর্ণন-নাম চতুর্দ্দশ-লহরী সম্পূর্ণা" — the title agrees with the heading (note 1).
 
 
-## Lahari 15. The Description of Shyamananda's Sub-branches
+## Pashchima-vibhaga. Lahari 15. The Description of Shyamananda's Sub-branches
 
 *A song in glory of Shyamananda and Rasikendra; Rasika tells the brothers to name to him in order the disciples and the disciples' disciples of those to whom Shyamananda gave the shelter of his feet; they name the disciples of Damodara — the first Shyamanandis Rasamaya and Vamshidasa, those who gave themselves to Damodara with their whole families, Anandadasa called Sadavarta, and many others, — the disciples of Nagara Uddhava, Shyamarangini and Purushottama, and a multitude of other disciples of the brothers; then the principal disciples' disciples, followers of Dinashyama, Ramakrishna, Vamshi, Manohara and Mukunda: a pujari, brahmanas, bhuiyans and Bhanjas, musicians, garland-makers, and women disciples bearing the names of gopis; the Shyamanandis, like the waves of the ocean, know no one but Krishna, and whoever hears their names at once obtains prema for Krishna*
 
@@ -16277,7 +16277,7 @@ the son of Rasamaya joyfully composed [this].
 [^315-46]: The author's signature (86) and the colophon are: "ইতি শ্রীরসিকমঙ্গল-পশ্চিম-বিভাগে শ্যামানন্দোপশাখা-বর্ণননাম পঞ্চদশ-লহরী সম্পূর্ণা" — the title agrees with the heading (note 1).
 
 
-## Lahari 16. The Description of the Great Festival of Separation from Sri Sri Shyamananda Prabhu
+## Pashchima-vibhaga. Lahari 16. The Description of the Great Festival of Separation from Sri Sri Shyamananda Prabhu
 
 *A song in glory of Shyamananda and Rasikendra; having heard from the brothers about the Shyamanandis, Rasika writes to everyone — kings, bhuiyans, Vaishnavas, sannyasis, brahmanas — inviting them to the great festival, and himself sets out to collect alms; mountains of rice, beans, flour, sugar, ghee and oil are stored, sweets, fruits, coconuts, spices, vegetables and utensils, and lodgings are built for the sadhus — four times as much as for the Great Rasa; the festival ground is adorned, and the circle of the rasa is built with a throne, canopies, banners and auspicious pots; on the full moon of Jyeshtha, the day of the Deity's bathing, Rasika performs the adhivasa; communities, mahantas, Vaishnavas, Vrajavasis, kings and subjects gather, and Rasika honours everyone with gifts, first of all Tulasi, who began the sankirtana; with the onset of the first day of the dark fortnight the festival begins: hundreds of brahmanas cook and serve, thousands at once honour prasada, and the demigods, unrecognised, feast and play with Rasika; after the meal with the mahantas and the brothers Rasika dances in the kirtana, showing all the signs of ecstasy, amid lights and the sounds of many instruments, as if Vrindavana had appeared before the eyes; the author asks the learned not to count his faults and concludes the Pashchima-vibhaga*
 
@@ -16600,7 +16600,7 @@ the son of Rasamaya joyfully composed [this].
 
 *The Northern Part*
 
-## Lahari 1. The Description of the Farewell of the Mahantas and Vaishnavas at the End of the Festival of Separation, and of the Attainment of Vrindavana by Kishora and Chintamani
+## Uttara-vibhaga. Lahari 1. The Description of the Farewell of the Mahantas and Vaishnavas at the End of the Festival of Separation, and of the Attainment of Vrindavana by Kishora and Chintamani
 
 *A song in glory of Shyamananda; the author begins the Uttara-vibhaga; Rasika dances for twelve days at the festival of separation, and at its close a dadhi-kada is held amid the thunder of mridangas, with turmeric, curd and abir, and the dancing lasts until evening; Rasika generously gives gifts and sends off the rajas, the subjects, the saints, his kinsmen and the kirtaniyas, and all call him a partial incarnation; from then on he institutes the festival of twelve days; the elders Sri Kishora and Chintamani Dasa, brothers by birth, throw down the garments offered to them and revile Rasika, but he rejoices that the cloth has fallen on his head, as Shyamananda once tied a cloth on it, and humbly begs them for mercy; that same night the brothers fall ill and in anger leave for Kashiyari; Rasika follows them alone through the forests, serves them and calls physicians; the brothers admit that they have offended Rasika, in whose heart dwell Chaitanya, Nityananda, Advaita, their associates, Krishna and Shyamananda, and call him a portion of Narayana; after some days they depart for Vaikuntha; Rasika mourns them, holds a festival in their memory and goes to Dharenda, where a brahmana celebrates the days of the aradhana of Damodara Gosani; Rasika wanders, absorbed in festivals; the author promises the listeners deliverance from the age of Kali*
 
@@ -16879,7 +16879,7 @@ the son of Rasamaya joyfully composed [this].
 [^401-34]: The author's signature (65) and the colophon are; the title is as in the heading (note 1).
 
 
-## Lahari 2. The Determination of the Annual Festivals
+## Uttara-vibhaga. Lahari 2. The Determination of the Annual Festivals
 
 *A song in glory of Shyamananda; in Dharenda Rasika, with astrologer brahmanas and his kinsmen, establishes the annual festivals: twelve days of Shyamananda's aradhana after the full moon of the Bathing of the Deity, a festival for the Ratha-yatra, Hera-panchami and the appearance of Sri Chaitanya, for which he himself begs alms of cowries and handfuls of rice, five days of the aradhana of Subala-chandra in the month of gamha, the appearance of Krishna, the appearance of Thakurani — Radha, Kumara-purnima, the rasa festival on the full moon after Utthana-ekadashi and eight days in memory of Hridayananda before Dola-purnima — thirty festivals in all; Rasika wanders with hundreds of sadhus, mahantas, Rasamaya's community, Thakura Tulasi and bhattacharyas, crowds stream to see him, and in the houses where he stays provisions appear from no one knows where; for the festival days he returns home; after Shyamananda's festival at Govindapur he announces to the community Shyamananda's order to settle the three mothers, the Thakuranis, with the Deities in one house at Shyamasundarpur; Shyamapriya agrees to follow Rasika, and he remains in that village*
 
@@ -17152,7 +17152,7 @@ the son of Rasamaya joyfully composed [this].
 [^402-34]: The author's signature (64) and the colophon are; the title matches the heading (note 1). Below come a rule and the heading of lahari 3.
 
 
-## Lahari 3. The Description of the Crushing of the Pride of Uddanda the Bhuiyan and of the People of Hijli
+## Uttara-vibhaga. Lahari 3. The Description of the Crushing of the Pride of Uddanda the Bhuiyan and of the People of Hijli
 
 *A song in glory of Shyamananda; Rasika stays in the village and at his pleasure composes thirteen padas on prema for Krishna; he announces to Uddanda the bhuiyan Shyamananda's order to settle the three mothers together in Sri Shyamanandapur, but the bhuiyan in his pride will not give up Vrindavanachandra; the angered Rasika vows not to drink water in his land, foretells that Uddanda will be no more on earth, and leaves home alone, but Shyamananda's voice stops him: "I have struck him down; take Vrindavanachandra and unite [everyone]"; in the guise of a Vrajavasi Rasika lives unrecognised in Mayna, initiates the brothers Chandrabhanu and Shyamarasika and others, and astonishes the learned, until Vamshidasa reveals to all who he is; in Hijli the scholars led by Mimamsa-mandana cannot answer him and revile Shyamananda; by a letter Rasika vows not to drink water in Hijli and foretells that they will all leave the body and, born again, receive the Harinama from him; the mimamsaka who ordered the letter tied to a dog's neck perishes, torn by a dog, and within half a year the others perish too; born again, they receive the Harinama from Rasika, and all Hijli turns to Krishna*
 
@@ -17336,7 +17336,7 @@ the son of Rasamaya joyfully composed [this].[^403-24]
 [^403-24]: "Devotees of Krishna" — *kārṣṇa-jana* (Purva, lahari 10, note 13; Purva, lahari 11, note 15): in the 1941 edition the repha is printed to the right of the conjunct. "The word of good fame" — *suyaśaḥ-bacana*. The author's signature (the second half of the stanza) is given in the standard formula; in the tripadi metre it runs: "Making the holy feet of Shyamananda the ornament on his head, the son of Rasamaya sings" (Purva, lahari 11, note 15). The colophon is; the title is as in the heading of the lahari (note 1). Lahari 3 — stanzas 1–25, complete.
 
 
-## Lahari 4. The Description of the Conspiracy against Rasikananda Prabhu Owing to Gaurangadasi's Unwillingness that the Three Thakuranis Live Together
+## Uttara-vibhaga. Lahari 4. The Description of the Conspiracy against Rasikananda Prabhu Owing to Gaurangadasi's Unwillingness that the Three Thakuranis Live Together
 
 *A song in glory of Shyamananda; Rasika comes to Gopivallabhapur and hears that Uddanda, for his offence, has perished with all his line, while the people glorify Rasika; he ceremonially brings Shyamapriya Thakurani and Vrindavanachandra to Shyamasundarpur, settles the three Thakuranis there together and celebrates the third twelve-day festival, to which kings, subjects, mahantas, Vrajavasis, Gaudiyas and the whole Shyamanandi community gather; but the Thakuranis do not get along, they quarrel and abuse Rasika, and he only laughs; Shyamapriya asks him to build three houses, but Rasika holds firmly to the guru's order; the angered elder Thakurani, Gaurangadasi, secretly conspires with Vidyutmala, Harikara and others: they write a forged letter in Rasika's name to Shyamapriya about poisoning Gaurangadasi, and she keeps it at her breast until the day of the dadhi-kada; some of the conspirators want to take Rasika's life on the spot, others to drive him away; during the dadhi-sankirtana Gaurangadasi demands judgement before the whole assembly and bids Padmanabha and Gopidasa read the letter; the author glorifies Rasika, by whose word poison becomes nectar*
 
@@ -17590,7 +17590,7 @@ the son of Rasamaya joyfully composed [this].[^404-32]
 [^404-32]: "Supremely deep" (58) — *ati parama gahana*. The author's signature (59) and the colophon are; the title is as in the heading (note 1).
 
 
-## Lahari 5. The Description of the Failure of Gaurangadasi's Conspiracy through the Power of the Glory of Sri Sri Rasikananda Prabhu
+## Uttara-vibhaga. Lahari 5. The Description of the Failure of Gaurangadasi's Conspiracy through the Power of the Glory of Sri Sri Rasikananda Prabhu
 
 *A song in glory of Shyamananda; at the dadhi-kada Rasika, grey with the dust of the rasa and spattered with drops of curd, sits among his own with Krishna and Shyamananda in his heart, and the five sons of Rasamaya, as though sensing the plot, sit down around him, resolved to strike down the wicked and give their lives for Rasika; Padmanabha and Gopidasa read the letter, whose edge the elder mother holds — and in it appear verses of the Bhagavata from all twelve cantos, the siddhanta of the six shastras, the meaning of the Vedas, songs of Jayadeva and at the end three shlokas in glory of Rasika, threatening his revilers with hell; the conspirators, whispering, run off one after another, the Thakurani throws down the letter and weeps, and all acknowledge Rasika's glory; because of the incessant troubles Rasika resolves to hold the festivals at Gopivallabhapur and goes to Raja Ramachandra Dhal, and when the raja disregards his words, he leaves his land in anger, accepting not even water there, and foretells his ruin; the raja soon loses his life and many of his domains, and his son — a great Vaishnava, a disciple of Rasika — is placed on the throne; one festival of twelve days Rasika celebrates at Kusharada, in the kingdom of Patna; five such festivals took place in three villages, and twenty at Gopivallabhapur; the author promises to tell of them*
 
@@ -17838,7 +17838,7 @@ the son of Rasamaya joyfully composed [this].
 [^405-32]: The author's signature (57) and the colophon are; the title is as in note 1. Below is a rule.
 
 
-## Lahari 6. The Description of the Twelve-Day Festival in Sri Gopivallabhapur
+## Uttara-vibhaga. Lahari 6. The Description of the Twelve-Day Festival in Sri Gopivallabhapur
 
 *A song in glory of Shyamananda; Rasika resolves to hold the festival in Gopivallabhapur on the Suvarnarekha, which all call the hidden Vrindavana; in the kadamba grove, beneath trees adorned with canopies, strings of jewels, chamaras and garlands, is the circle of the rasa with a pavilion and a jewelled throne; around it are Vrajavasis, Gaudiyas, people of Utkala, Shyamanandis, rajas and subjects, and hundreds of traders bringing goods and beads from Vraja, and everything is sold; Rasika buys everything and lavishes sweets, provisions, clothes and ornaments beyond measure on hundreds of thousands of people; amid lights and fireworks, kirtana and music, Sri Govinda-raya in twelve attires goes in procession to the place of the rasa, Rasika sprinkles the way with sandal water, the rajas pelt one another with powders, and for twelve days Rasika dances, overcome by the eight sattvika-bhavas, and embraces everyone; calling himself ignorant, the author says he writes by the inspiration of the son of Achyuta*
 
@@ -18094,7 +18094,7 @@ the son of Rasamaya joyfully composed [this].
 [^406-30]: The author's signature (61) and the colophon are; the title is as in note 1.
 
 
-## Lahari 7. The Glorification of the Greatness of Sri Sri Rasikananda Prabhu and the Description of Jagannathadeva's Command concerning the Journey to Nilachala
+## Uttara-vibhaga. Lahari 7. The Glorification of the Greatness of Sri Sri Rasikananda Prabhu and the Description of Jagannathadeva's Command concerning the Journey to Nilachala
 
 *A song in glory of Shyamananda; the great festival at Sri Gopivallabhapur grows day by day ten times more splendid than the earlier ones — the circle of the rasa, the procession of Sri Govinda-raya, the sankirtana, the feeding of the Vaishnavas, the lights, the kadamba groves, the bank of the Suvarnarekha — a hidden Vrindavan; when the river's stream moves away to the far bank, Rasika bids the Suvarnarekha, if she is a servant of Sri Chaitanya, to come to this bank, and that same night a flood brings the water back; a storm gathers over the feast of thousands of sadhus, Rasika bids Indra not to wet the assembly of Vaishnavas — and the rain pours all around the village without dropping a single drop in it; in the midst of the festival the elephant Gopala Dasa suddenly arrives, falls at Rasika's feet and, at his command, from then on comes only at night to hear kirtan and take prasada; at night in Nilachala Jagannatha bids the Mudiratha tell the maharaja to send for Rasika and give him the cloth from His holy body; the raja, receiving the same command, sends two brahmanas with the cloth; Rasika, keeping vigil at the festival, hears a voice: "Come quickly and see My lotus feet," and calls everyone to the Ratha-yatra; the brahmanas hand him the cloth and the raja's request, and Rasika ties it on his head; the author promises to tell of the pastimes in Nilachala that he saw while with him*
 
@@ -18335,7 +18335,7 @@ the son of Rasamaya joyfully composed [this].
 [^407-20]: "The pastimes in Nilachala" — *nīlācala khelā*: they are told in the following laharis. 61b — *ye kichu dekhila līlā saṅge thāki' tā̃ra*: understood as the author speaking of himself (forms in *-ila* are not rare in the poem for the first person); it can also be understood as "what [people] saw while staying with him." "A description of [his] nature" (62) — *sbabhāba-barṇanā* (lahari 6, 60, note 29).
 
 
-## Lahari 8. The Manifestation of His Own Glory at Muktapur on the Way to Nilachala
+## Uttara-vibhaga. Lahari 8. The Manifestation of His Own Glory at Muktapur on the Way to Nilachala
 
 *A song in glory of Shyamananda; hearing the message from the brahmanas' lips, Rasika sets out for Nilachala with singers and men of letters and countless sadhus, kings, subjects and pilgrims; in every village people marvel at the thousands of his companions and bring sida, and Rasika has the gifts distributed first to the elders, Vaishnavas and brahmanas, and then to all in turn; the eight siddhis and nine treasures follow him unfailingly; at Muktapur the wicked headman of the village refuses shelter to thousands of Vaishnavas: "Stay under the trees," — and Rasika, reproaching him in jest, gladly settles with everyone under the trees; a north wind rises, fire flares up and burns hundreds of large houses; in fear the villagers say: "Rasika has brought ruin," fall at his feet and beg for protection; Rasika, hearing the praise, looking with nectarean eyes, his voice faltering with the bliss of Krishna, asks the fire to spare the wretched, the fire is at once put out, and all the people of the village become Rasika's servants*
 
@@ -18481,7 +18481,7 @@ the son of Rasamaya joyfully composed [this].[^408-15]
 [^408-15]: "The manifestation [of the power]" (20) — *parakāśa*. "There is no limit" (21) — *dite nāhi sīmā*, literally "a limit cannot be set." The author's signature is given in the standard formula (README § 4); here it is in tripadi metre and reads differently: *śyāmānanda-pada, sakala sampada, rasamaẏera nandane* — "Shyamananda's feet are all the wealth of the son of Rasamaya" (cf. Purva, lahari 5, note 14). Lahari 8 comprises stanzas 1–21.
 
 
-## Lahari 9. The Description of the Sinking of the Boat in the Midst of the Vaitarani River and of the Rescue from It of the Devotees and the Book Srimad-Bhagavatam
+## Uttara-vibhaga. Lahari 9. The Description of the Sinking of the Boat in the Midst of the Vaitarani River and of the Rescue from It of the Devotees and the Book Srimad-Bhagavatam
 
 *A song in glory of Shyamananda; Rasika travels to Nilachala with great devotees, amid cries of "Hari!", singing, flutes and vinas; thousands of people gather to see him, many become his disciples, and all Utkala takes exclusive shelter in Krishna; at Dhamnagar Rasika leaves his palanquin and goes on foot; at Jajpur he bathes in the Vaitarani at the Ashvamedha ghat, sees Varahanatha, holds kirtan, dances and gives gifts to the brahmanas; the next day, on the flooded river, the wind and waves capsize the boat carrying two or three hundred people, but where a twenty-cubit pole finds no bottom the water becomes knee-deep for all, and Rasika turns the boat over; people on the banks lament the drowned, while others say that in Rasika's boat no one will perish; boats sent out pick everyone up; the manuscript of the Bhagavata is missing, the brahmana Radhamadhava finds it in the river, but neither he nor dozens of people can lift it out of the water, while Rasika lifts it into the boat with his hand, lighter than a flower; the author asks the learned not to hold against him faults in the order of the narrative*
 
@@ -18769,7 +18769,7 @@ the son of Rasamaya joyfully composed [this].
 [^409-27]: The colophon in the 1941 edition.
 
 
-## Lahari 10. The Immovable Chariot of Sri Sri Jagannathadeva in Nilachala Set in Motion by the Touch of Sri Sri Rasikananda Prabhu
+## Uttara-vibhaga. Lahari 10. The Immovable Chariot of Sri Sri Jagannathadeva in Nilachala Set in Motion by the Touch of Sri Sri Rasikananda Prabhu
 
 *A song in glory of Shyamananda; Rasika crosses the river without the loss of a single thing and, refusing to sit in a palanquin, goes on foot so fast that his companions cannot keep up, though his tender feet have cracked and are bleeding; on the day of the festival he arrives at Tulasi-chaura; the three chariots of Jagannatha come to a halt at Baligandi, and neither hundreds of thousands of pilgrims, nor the king with his ministers, nor elephants and horses can move them; Jagannatha bids Mudiratha tell the king that the chariot will move only when His dear devotee Murari comes; the gajapati meets Rasika and falls at his feet; the crowds leave the chariots to see Rasika; he offers gifts to the chariots and dances in the sankirtana of Rasamaya's community with Tulasidasa, while the people call him a second Narayana; Rasika pushes the chariot with his head, and the chariots, set in motion, swiftly reach their place; the gajapati glorifies Rasika and gives him lodging and prasada; Rasika visits the tirthas and mathas of Nilachala, receives land from the king, lays out a flower garden and a matha, makes gifts to the brahmanas and residents, and promises to come to every Ratha-yatra*
 
@@ -19041,7 +19041,7 @@ the son of Rasamaya joyfully composed [this].
 [^410-26]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-উত্তর-বিভাগে শ্রীশ্রীরসিকানন্দ প্রভুর স্পর্শে নীলাচলে শ্রীশ্রীজগন্নাথদেবের অচল রথ সচল হওন-নাম দশম-লহরী সম্পূর্ণা" (*śrīśrīrasikānanda prabhura sparśe nīlācale śrīśrījagannāthadebera acala ratha sacala haona*). Lahari 10 ends (॥69॥ — the author's signature).
 
 
-## Lahari 11. The Sending of Wild Elephants at the Request of Shah Shuja and the Giving of Hari-nama to Two Wild Tigers
+## Uttara-vibhaga. Lahari 11. The Sending of Wild Elephants at the Request of Shah Shuja and the Giving of Hari-nama to Two Wild Tigers
 
 *A song in glory of Shyamananda; for the sake of the festivals Rasika constantly travels with his companions, serving the guru, Krishna and the sadhus; kings and subjects vie with one another to invite him, everywhere the eight siddhis and the nine treasures are with him, and he floods every land with love for Krishna; wicked people tell the Padishah of the great mahanta of Orissa who gives Hari-nama to the forest elephants and with whom Jagannatha converses, and Shah Shuja sends a khoja with a thousand horses and elephants to Gopivallabhapur to demand a miracle: let Rasika by his command bring elephants out of the forest; the Hindu community is alarmed, but Rasika answers with a smile that he knows no tricks, his Master is Krishna, and let the khoja keep the yavanas away while the twelve-day festival lasts and make his preparations; the khoja builds an enclosure, and at night, at Rasika's command, the elephant Gopala Dasa leads fourteen forest elephants into it; the khoja falls at Rasika's feet and acknowledges him as Ishvara, the elephants are taken to the Padishah, and the yavanas acknowledge Rasika as Narayana; in Varahabhumi the companions, losing their way at night, enter a dense forest where two tigers block the path; Rasika steps forward and gives them Hari-nama, and the tigers, bowing, lead everyone out of the forest to a village; people gather to see this, and Rasika bids his companions keep his manifestations secret; the author glorifies Rasika, who gave prema-bhakti to all of Utkala*
 
@@ -19365,7 +19365,7 @@ the son of Rasamaya joyfully composed [this].
 [^411-28]: The colophon is; the title as in the heading of the lahari. On Shah Shuja — note 9.
 
 
-## Lahari 12. The Deliverance of the Lord of the Kols
+## Uttara-vibhaga. Lahari 12. The Deliverance of the Lord of the Kols
 
 *A song in glory of Shyamananda; year after year Rasika travels through every land and floods gods and men with love for Krishna; on the way to Nagpur, going through the forest, he and his companions come into the domain of the cruel lord of the Kols, who with a huge host of Kols slays brahmanas, sannyasis, kings and subjects; scouts tell the lord that a wealthy rajaguru is coming with loads of silk and jewels, and he orders the roads blocked, the travellers surrounded with seven rings, and all of them killed at night and their goods taken; Rasika seats his companions around his palanquin and bids them chant the Hari-nama; at night four invisible great beings come to the lord, beat him and bid him fall at Rasika's feet and accept initiation into the Hari-nama; bleeding, he tells this to his kin, comes to Rasika with his whole clan and falls at his feet; Rasika embraces him, he gains divine knowledge and offers praise; Rasika initiates his clan into the Hari-nama, and all sing kirtan and dance; the lord feasts Rasika for several days, gives him gifts and escorts him through the forest; the forest tribes who sacrificed brahmanas to their goddess give up their wicked deeds, build temples and install Deities; Rasika enters Nagpur, and thousands become his disciples*
 
@@ -19629,7 +19629,7 @@ the son of Rasamaya joyfully composed [this].
 [^412-21]: The colophon is: "ইতি শ্রীরসিকমঙ্গল-উত্তর-বিভাগে কোলাধিপতির উদ্ধার-নাম দ্বাদশ-লহরী সম্পূর্ণা" (*kolādhipatira uddhāra*). Lahari 12 ends (॥70॥ — the author's signature).
 
 
-## Lahari 13. The Ending of the Drought in Shekharabhumi
+## Uttara-vibhaga. Lahari 13. The Ending of the Drought in Shekharabhumi
 
 *A song in glory of Shyamananda; Rasika comes to Shekharabhumi, and the king, honouring him as a second Narayana, begs for help: for three years there has been no rain, and for want of water the subjects are leaving for other villages; Rasika bids him hold a great festival and gather the sadhus; during the sankirtana and the feasting of the sadhus he commands King Indra to send rain, and clouds cover the sky over Shekhara: a downpour fills the ponds and reservoirs, and in the month of Magha the rivers flood; the king recognizes Rasika as a second Narayana; the author glorifies Rasika, who never stays at home even for a moment but travels to deliver living beings, weeps with love for Krishna, speaks of Krishna to the pandits and spreads sankirtana and prema-bhakti in every land of Utkala*
 
@@ -19798,7 +19798,7 @@ the son of Rasamaya joyfully composed [this].
 [^413-15]: The colophon is (note 1). Lahari 13 ends (॥42॥ — the author's signature); below a rule, lahari 14 begins.
 
 
-## Lahari 14. The Receiving by Sri Sri Rasikananda Prabhu, in a Dream, of the Command of Sri Sri Bhagavan to Depart to Krishna's Abode, at Bhograi
+## Uttara-vibhaga. Lahari 14. The Receiving by Sri Sri Rasikananda Prabhu, in a Dream, of the Command of Sri Sri Bhagavan to Depart to Krishna's Abode, at Bhograi
 
 *A song in glory of Shyamananda; Rasika visits Kendubilva, the place of Jayadeva, Vishnupur and Ambuya, goes round the holy places on both banks of the Ganga and every year goes to Nilachala for the Ratha-yatra; in every land he spreads the talk of Krishna, service to the guru, Krishna, the sadhus and the brahmanas, and kirtan, and on the road Sri Chaitanya travelled he performs worship; his daily and nightly routine is described by dandas; every year he celebrates twelve festivals, and all Utkala takes refuge in Krishna; one day in seclusion Rasika reflects that Chaitanya, Nityananda, Advaita and their associates have disappeared, and Shyamananda and the mahantas too have departed, and resolves to return to his own abode, to Krishna in Vrindavana; he reveals this to those close to him and tells two of them — Gopijanavallabha and Tulasi — that at Bhograi after sankirtana, as he was pondering a book with closed eyes, the youthful Shyama with a flute appeared to him and bade him depart, and when he hesitated, angrily repeated the command three times; they fall to the ground, and Rasika, embracing them, says that he will always remain with them*
 
@@ -20148,7 +20148,7 @@ the son of Rasamaya joyfully composed [this].
 [^414-40]: The author's signature (86) and the colophon are; the title is as in note 1 (*sbapnābeśe*, "in a dream"). Below is a rule.
 
 
-## Lahari 15. The Telling to the Disciples of the Departure to Goloka, and the Command to Build the Samadhi at Gopala's Place in Remuna
+## Uttara-vibhaga. Lahari 15. The Telling to the Disciples of the Departure to Goloka, and the Command to Build the Samadhi at Gopala's Place in Remuna
 
 *A song in glory of Shyamananda; in seclusion Rasika discloses to those close to him that the command to depart has definitely been given him and that he will not remain in the terrible Kali, when the yavanas will grow strong and people abandon righteousness; he recounts his life: eighteen years of secret bhajan from birth, initiation from Shyamananda and nineteen years and seven months of wandering with him, and after Shyamananda's departure twenty-four years and nine months of service by his command, the yearly festivals and twelve-day aradhanas in Govindapur, Shyamasundarpur, Kusharada and Gopivallabhapur — sixty-two years and four months in all; only his wish for a month-long festival, another pilgrimage to Vrindavana and the feeding of Vaishnavas on the Ganga has gone unfulfilled; he asks that his samadhi be made in Remuna, at the place of Gopala, who stole kshira for Madhavendra Puri; those close to him weep in dread, and Rasika consoles them; ill omens appear — earthquakes, a rain of blood, strife — all beings grieve, and the author promises to tell of Rasika's disappearance*
 
@@ -20436,7 +20436,7 @@ the son of Rasamaya joyfully composed [this].
 [^415-34]: The title follows the colophon: "ইতি শ্রীরসিকমঙ্গল-উত্তর-বিভাগে শিষ্যগণ প্রতি গোলোক-গমন-কথন ও রেমুণাতে গোপাল-স্থানে সমাধিনির্ম্মাণ-করণে আদেশ-প্রদান-নাম পঞ্চদশ-লহরী সম্পূর্ণা" (*śiṣyagaṇa prati goloka-gamana-kathana o remuṇāte gopāla-sthāne samādhinirmmāṇa-karaṇe ādeśa-pradāna*). Gopala is the Deity of Kshirachora Gopinatha at Remuna (notes 23 and 25; lahari 16, note 1). Lahari 15 is 1–69; on the lower half of lahari 16 begins.
 
 
-## Lahari 16. The Absorption of Sri Sri Rasikananda Prabhu into the Holy Form of Sri Sri Kshirachora Gopinatha-jiu at Remuna
+## Uttara-vibhaga. Lahari 16. The Absorption of Sri Sri Rasikananda Prabhu into the Holy Form of Sri Sri Kshirachora Gopinatha-jiu at Remuna
 
 *A song in glory of Shyamananda; the author begins the account of Rasika's departure: in Phalguna, on the day of pratipad after Shiva-chaturdashi, he disappeared and went to Vrindavana; resolving to go to Krishna, Rasika comes to Banshda, where a small thorn pricks his foot and a fever begins; he asks that a place be made for him at the feet of Gopala-raya at Remuna; around him sankirtana resounds day and night, thousands of sadhus are fed, kings, subjects and disciples gather, and every place where he rests becomes greater than Vaikuntha; when they wish to carry him to Gopiballavpur, the palanquin grows heavy and will not leave the ground, and at his command all set out for Remuna; there Rasika enters the temple alone, and a brahmana sees him enter the body of Gopala; the palanquin is empty; those close to him, keeping the secret, screen the place with cloth and before Gopala raise a samadhi with clothes, ornaments, garlands and fragrances; the author glorifies Rasika, who age after age accepts a body for the sake of living beings, names his poem — four vibhagas, sixty-four laharis — asks the learned to forgive its faults, praises Rasika, the husband of Shyamadasi, and relates that he began the poem on Vasanta-panchami in the ninth anka of Gajapati Balabhadra and completed it two years and eight months later, on a Sunday, on the bright panchami of the month Kanya in the twelfth anka*
 
