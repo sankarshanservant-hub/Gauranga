@@ -114,6 +114,11 @@ BOOKS = [
          note='Перевод с ория без участия носителя языка; текст поэмы дошёл неполным.',
          note_en='Translated from Odia without a native speaker; the poem has come down incomplete.',
          ru=['mahabhava-prakasha/ru/*.md'], en=['mahabhava-prakasha/en/*.md'], chap_title=True),
+    dict(id='sanyal', group='gm', title='Шри Кришна Чайтанья', title_en='Sree Krishna Chaitanya',
+         author='Нишиканта Саньял', author_en='Nisikanta Sanyal',
+         note='Перевод с английского; т. I–II (1933), с предисловием Шрилы Бхактисиддханты Сарасвати. Только RU.',
+         note_en='Russian translation only; the English original is not reproduced here.',
+         ru_full='sanyal/Sanyal-Sree-Krishna-Chaitanya-ru.md', level=2, chapters='sanyal/{lang}/*.md'),
 ]
 GROUPS = [
     ('skt', 'Санскритские сочинения', 'Sanskrit works'),
@@ -121,6 +126,7 @@ GROUPS = [
     ('late', 'Сочинения о спутниках и преемниках', 'Works on the associates and successors'),
     ('ory', 'Орийские сочинения', 'Odia works'),
     ('pada', 'Пады, гимны, ванданы', 'Padas, hymns, vandanas'),
+    ('gm', 'Сочинения Гаудия Матха', 'Works of the Gaudiya Math'),
     ('other', 'Иные традиции', 'Other traditions'),
 ]
 CC_LILA = {'Adi': ('Ади-лила', 'Adi-lila'), 'Madhya': ('Мадхья-лила', 'Madhya-lila'), 'Antya': ('Антья-лила', 'Antya-lila')}
@@ -229,7 +235,9 @@ def main():
             for lang in ('ru', 'en'):
                 titles = [c['t'] for c in entry[lang]]
                 for f in sorted(glob.glob(os.path.join(ROOT, b['chapters'].format(lang=lang)))):
-                    h = re.sub(r'\[\^[^\]]+\]', '', first_heading(open(f, encoding='utf-8').read()) or '').strip()
+                    md_f = open(f, encoding='utf-8').read()
+                    h0 = first_heading(md_f) or ((re.search(r'^##\s+(.+)$', md_f, re.M) or [None, ''])[1])
+                    h = re.sub(r'\[\^[^\]]+\]', '', h0 or '').strip()
                     if h in titles:
                         index['files'][os.path.relpath(f, ROOT)] = [b['id'], lang, titles.index(h)]
         index['books'].append(entry)
