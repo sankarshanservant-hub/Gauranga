@@ -4554,11 +4554,13 @@
    "brt-0074",
    "brt-4017",
    "brt-0075",
+   "rm-0062",
    "krn-0028",
    "anv-0023",
    "brt-3006",
    "brt-3007",
    "krn-0029",
+   "rm-0066",
    "pad-0566",
    "brt-0023",
    "nvl-0029",
@@ -4895,9 +4897,11 @@
    "ev-virachandra-marriage",
    "ev-srinivasa-hears-disappearance-dream",
    "ev-srinivasa-gadadhara-puri",
+   "ev-rasika-moves-ratha",
    "ev-srinivasa-journey-vrindavana",
    "ev-radha-for-govinda-from-puri",
    "ev-srinivasa-vision-rupa-sanatana",
+   "ev-rasikananda-departure-remuna",
    "ev-narottama-initiation",
    "ev-narottama-returns-kheturi",
    "ev-narottama-puri",
@@ -6783,7 +6787,9 @@
    "jcm-0084",
    "vlm-0128",
    "vlm-0129",
-   "ccd-0089"
+   "ccd-0089",
+   "rm-0067",
+   "rm-0068"
   ],
   "events": [
    "ev-sridhara-svami-bhavartha-dipika",
@@ -6800,7 +6806,8 @@
    "ev-jayananda-named",
    "ev-ramakeli-rupa-sanatana",
    "ev-rupa-shiksha-prayaga",
-   "ev-shivananda-toll-arrest"
+   "ev-shivananda-toll-arrest",
+   "ev-rasikananda-departure-remuna"
   ]
  },
  {
@@ -6831,6 +6838,7 @@
    "brt-0043",
    "pvl-0020",
    "brt-0076",
+   "rm-0061",
    "nvl-0031"
   ],
   "events": [
@@ -6848,6 +6856,7 @@
    "ev-srinivasa-birth",
    "ev-gadadhara-departure",
    "ev-srinivasa-dream-nitai-advaita",
+   "ev-rasika-journey-nilachala",
    "ev-narottama-shyamananda-nrisimhapura"
   ]
  },
@@ -8661,6 +8670,8 @@
    "rm-0023",
    "rm-0039",
    "rm-0041",
+   "rm-0058",
+   "rm-0059",
    "brt-8047",
    "brt-8048"
   ],
@@ -8670,6 +8681,7 @@
    "ev-krishna-appears-to-rasika-ghatashila",
    "ev-gopivallabhapura-founded",
    "ev-gopivallabhapura-rasa-yatra",
+   "ev-gopivallabhapura-twelve-day-festival",
    "ev-shyamananda-utkala",
    "ev-rasikananda-initiation"
   ]
@@ -10245,6 +10257,9 @@
    "rm-0052",
    "rm-0053",
    "rm-0057",
+   "rm-0058",
+   "rm-0059",
+   "rm-0063",
    "pvl-0143",
    "brt-8051",
    "pvl-0144",
@@ -10261,6 +10276,8 @@
    "ev-govinda-gopivallabhapura-installed",
    "ev-shyamananda-viraha-mahotsava",
    "ev-uddanda-pride-three-thakuranis",
+   "ev-gopivallabhapura-twelve-day-festival",
+   "ev-rasika-shah-shuja-elephants-tigers",
    "ev-shyamananda-utkala",
    "ev-virachandra-pilgrimage"
   ]

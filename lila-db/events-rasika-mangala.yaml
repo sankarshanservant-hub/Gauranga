@@ -374,3 +374,55 @@
   cb: ""
   themes: [offense, family, revelation]
   notes: "«Расика-мангала», Уттара 3–5."
+
+- id: ev-gopivallabhapura-twelve-day-festival
+  title: "Двенадцатидневный праздник в Гопиваллабхапуре: Суварнарекха возвращается к берегу, дождь обходит собрание вайшнавов"
+  title_en: "The twelve-day festival at Gopivallabhapura: the Suvarnarekha returns to its bank, the rain spares the Vaishnava assembly"
+  period: P15
+  order: 103.6
+  cc: ""
+  cb: ""
+  themes: [festival, deities]
+  notes: "«Расика-мангала», Уттара 6–7; затем повеление Джаганнатхи идти в Нилачалу."
+
+- id: ev-rasika-journey-nilachala
+  title: "Путь Расики в Нилачалу: пожар в Муктапуре, крушение лодки на Вайтарани"
+  title_en: "Rasika's journey to Nilachala: the fire at Muktapur, the boat capsizing on the Vaitarani"
+  period: P15
+  order: 103.62
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, mercy]
+  notes: "«Расика-мангала», Уттара 8–9: где шест в двадцать локтей не достаёт дна, вода становится всем по колено; спасены преданные и книга «Бхагаваты»."
+
+- id: ev-rasika-moves-ratha
+  title: "Колесница Джаганнатхи, застывшая у Балиганди, трогается от прикосновения Расики"
+  title_en: "Jagannatha's chariot, stuck at Baliganda, moves at Rasika's touch"
+  period: P15
+  order: 103.64
+  cc: ""
+  cb: ""
+  themes: [jagannatha, festival]
+  notes: "«Расика-мангала», Уттара 10: Джаганнатха велит через Мудиратху ждать Своего дорогого преданного Мурари; гаджапати падает к стопам Расики."
+
+- id: ev-rasika-shah-shuja-elephants-tigers
+  title: "По требованию Шаха Шуджи Расика выводит из леса слонов; Хари-нама двум тиграм; спасение владыки колов; дождь в Шекхарабхуми"
+  title_en: "At Shah Shuja's demand Rasika brings elephants from the forest; Hari-nama to two tigers; the deliverance of the Kol chief; rain in Shekharabhumi"
+  period: P15
+  order: 103.66
+  cc: ""
+  cb: ""
+  themes: [mercy, muslims]
+  notes: "«Расика-мангала», Уттара 11–13."
+
+- id: ev-rasikananda-departure-remuna
+  title: "Уход Расикананды: он входит в тело Кширачоры Гопинатхи в Ремуне"
+  title_en: "Rasikananda's departure: he enters the form of Kshirachora Gopinatha at Remuna"
+  period: P15
+  order: 103.7
+  years: [1652, 1652]
+  date_conf: вероятно
+  cc: ""
+  cb: ""
+  themes: [departure, deities, separation]
+  notes: "«Расика-мангала», Уттара 14–16: сон-повеление в Бхограи, рассказ ученикам о своей жизни (62 года 4 месяца), повеление поставить самадхи у Гопалы в Ремуне; пхальгуна, пратипада после Шива-чатурдаши; паланкин пуст, самадхи без тела."

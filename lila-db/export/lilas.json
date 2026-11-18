@@ -236624,12 +236624,12 @@
  {
   "id": "rm-0057",
   "source": "rasika-mangala",
-  "ref": "Уттара 5, 1–23",
+  "ref": "Уттара 5, 1–57",
   "file": "rasika-mangala/ru/4-05.md",
   "period": "P15",
   "order": 57,
   "title": "Провал заговора: подложное письмо оборачивается стихами во славу Расики",
-  "summary": "На дадхи-каде пятеро сыновей Расамайи садятся вокруг Расики, готовые отдать за него жизнь; когда читают письмо, в нём оказываются стихи «Бхагаваты» из всех двенадцати песней, сиддханта шести шастр, смысл Вед, песни Джаядевы и три шлоки во славу Расики, грозящие хулителям адом; заговорщики разбегаются, Тхакурани плачет; Расика из-за смут решает справлять праздники в Гопиваллабхапуре и покидает землю раджи Рамачандры Дхала.",
+  "summary": "На дадхи-каде пятеро сыновей Расамайи садятся вокруг Расики, готовые отдать за него жизнь; когда читают письмо, в нём оказываются стихи «Бхагаваты» из всех двенадцати песней, сиддханта шести шастр, смысл Вед, песни Джаядевы и три шлоки во славу Расики, грозящие хулителям адом; заговорщики разбегаются, Тхакурани плачет; Расика из-за смут решает справлять праздники в Гопиваллабхапуре и в гневе покидает землю раджи Рамачандры Дхала.",
   "persons": [
    "@rasikananda",
    "@gaurangadasi",
@@ -236652,20 +236652,20 @@
    {
     "file": "rasika-mangala/ru/4-05.md",
     "from": "1",
-    "to": "23"
+    "to": "57"
    }
   ],
   "verses_resolved": [
    {
     "file": "rasika-mangala/ru/4-05.md",
     "from": "1",
-    "to": "23",
+    "to": "57",
     "line": 11,
-    "line_to": 77,
-    "count": 23,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-05.md?plain=1#L11-L77",
+    "line_to": 179,
+    "count": 57,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-05.md?plain=1#L11-L179",
     "file_en": "rasika-mangala/en/4-05.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-05.md?plain=1#L11-L77"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-05.md?plain=1#L11-L179"
    }
   ],
   "years": [
@@ -236920,6 +236920,65 @@
    48
   ],
   "attestation": 2
+ },
+ {
+  "id": "rm-0058",
+  "source": "rasika-mangala",
+  "ref": "Уттара 6, 1–61",
+  "file": "rasika-mangala/ru/4-06.md",
+  "period": "P15",
+  "order": 58,
+  "title": "Двенадцатидневный праздник в Гопиваллабхапуре — «сокровенном Вриндаване»",
+  "summary": "В роще кадамб — круг расы с шатром и драгоценным троном; собираются враджаваси, гаудии, уткальцы, шьямананди, раджи, торговцы из Враджа; Расика одаривает сотни тысяч людей; при огнях и киртане Шри Говинда-рай в двенадцати нарядах шествует к месту расы; Расика двенадцать дней танцует, охваченный восемью саттвика-бхавами.",
+  "persons": [
+   "@rasikananda",
+   "@govinda-gopivallabhapura"
+  ],
+  "places": [
+   "#gopivallabhapura",
+   "#suvarnarekha"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "deities",
+   "ecstasy"
+  ],
+  "event": "ev-gopivallabhapura-twelve-day-festival",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-06.md",
+    "from": "1",
+    "to": "61"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-06.md",
+    "from": "1",
+    "to": "61",
+    "line": 11,
+    "line_to": 191,
+    "count": 61,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-06.md?plain=1#L11-L191",
+    "file_en": "rasika-mangala/en/4-06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-06.md?plain=1#L11-L191"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0080",
@@ -237340,6 +237399,66 @@
   "attestation": 1
  },
  {
+  "id": "rm-0059",
+  "source": "rasika-mangala",
+  "ref": "Уттара 7, 1–63",
+  "file": "rasika-mangala/ru/4-07.md",
+  "period": "P15",
+  "order": 59,
+  "title": "Суварнарекха возвращается к берегу; дождь обходит собрание; повеление Джаганнатхи идти в Нилачалу",
+  "summary": "Когда река уходит к дальнему берегу, Расика велит Суварнарекхе, если она служанка Шри Чайтаньи, вернуться, и ночью паводок возвращает воду; на угощение садху надвигается буря, Расика велит Индре не мочить вайшнавов, и дождь льёт вокруг селения, не уронив в нём ни капли; слон Гопала Дас приходит на праздник и с тех пор приходит ночью слушать киртан; Джаганнатха велит радже послать Расике ткань со Своего тела, и Расика слышит голос: «Скорее приди и увидь Мои лотосные стопы».",
+  "persons": [
+   "@rasikananda",
+   "@gopala-dasa-elephant",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#gopivallabhapura",
+   "#suvarnarekha"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "jagannatha",
+   "revelation"
+  ],
+  "event": "ev-gopivallabhapura-twelve-day-festival",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-07.md",
+    "from": "1",
+    "to": "63"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-07.md",
+    "from": "1",
+    "to": "63",
+    "line": 10,
+    "line_to": 196,
+    "count": 63,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-07.md?plain=1#L10-L196",
+    "file_en": "rasika-mangala/en/4-07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-07.md?plain=1#L10-L196"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pvl-0024",
   "source": "prema-vilasa",
   "ref": "Виласа 4, 252–272",
@@ -237408,6 +237527,60 @@
    48
   ],
   "attestation": 2
+ },
+ {
+  "id": "rm-0060",
+  "source": "rasika-mangala",
+  "ref": "Уттара 8, 1–21",
+  "file": "rasika-mangala/ru/4-08.md",
+  "period": "P15",
+  "order": 60,
+  "title": "Путь в Нилачалу; пожар в Муктапуре",
+  "summary": "Расика идёт в Нилачалу с певцами, садху, царями и паломниками; в каждом селении приносят сиду, и он велит раздавать дары сперва старшим и вайшнавам; в Муктапуре злой глава селения отказывает вайшнавам в крове, Расика с радостью располагается под деревьями, а поднявшийся ветер раздувает огонь, сжигающий дома.",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "pilgrimage",
+   "offense"
+  ],
+  "event": "ev-rasika-journey-nilachala",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-08.md",
+    "from": "1",
+    "to": "21"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-08.md",
+    "from": "1",
+    "to": "21",
+    "line": 9,
+    "line_to": 109,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-08.md?plain=1#L9-L109",
+    "file_en": "rasika-mangala/en/4-08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-08.md?plain=1#L9-L109"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0084",
@@ -237586,6 +237759,62 @@
   "attestation": 2
  },
  {
+  "id": "rm-0061",
+  "source": "rasika-mangala",
+  "ref": "Уттара 9, 1–74",
+  "file": "rasika-mangala/ru/4-09.md",
+  "period": "P15",
+  "order": 61,
+  "title": "Крушение лодки на Вайтарани: вода становится по колено; спасена «Бхагавата»",
+  "summary": "В Дхамнагаре Расика оставляет паланкин и идёт пешком; в Джаджпуре омывается в Вайтарани, видит Вараханатху, поёт киртан; на разлившейся реке ветер опрокидывает лодку с сотнями людей, но там, где шест в двадцать локтей не достаёт дна, вода становится всем по колено, и Расика переворачивает лодку; спасены преданные и книга «Шримад-Бхагаватам».",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [
+   "#jajpur"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "pilgrimage",
+   "mercy"
+  ],
+  "event": "ev-rasika-journey-nilachala",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-09.md",
+    "from": "1",
+    "to": "74"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-09.md",
+    "from": "1",
+    "to": "74",
+    "line": 10,
+    "line_to": 229,
+    "count": 74,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-09.md?plain=1#L10-L229",
+    "file_en": "rasika-mangala/en/4-09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-09.md?plain=1#L10-L229"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "anv-0017",
   "source": "anuragavalli",
   "ref": "Манджари 3, 28–33",
@@ -237703,6 +237932,63 @@
    48
   ],
   "attestation": 3
+ },
+ {
+  "id": "rm-0062",
+  "source": "rasika-mangala",
+  "ref": "Уттара 10, 1–69",
+  "file": "rasika-mangala/ru/4-10.md",
+  "period": "P15",
+  "order": 62,
+  "title": "Колесница Джаганнатхи трогается от прикосновения Расики",
+  "summary": "Расика с растрескавшимися стопами спешит пешком в Нилачалу; три колесницы останавливаются у Балиганди, и их не могут сдвинуть ни сотни тысяч паломников, ни царь, ни слоны; Джаганнатха велит Мудиратхе передать царю, что колесница тронется, лишь когда придёт Его дорогой преданный Мурари; гаджапати встречает Расику и падает к его стопам; от его прикосновения колесница трогается.",
+  "persons": [
+   "@rasikananda",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Ср. ЧЧ Мадхья 14: колесница трогается от толчка Махапрабху.",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "event": "ev-rasika-moves-ratha",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-10.md",
+    "from": "1",
+    "to": "69"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-10.md",
+    "from": "1",
+    "to": "69",
+    "line": 11,
+    "line_to": 215,
+    "count": 69,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-10.md?plain=1#L11-L215",
+    "file_en": "rasika-mangala/en/4-10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-10.md?plain=1#L11-L215"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0086",
@@ -237890,6 +238176,64 @@
    48
   ],
   "attestation": 3
+ },
+ {
+  "id": "rm-0063",
+  "source": "rasika-mangala",
+  "ref": "Уттара 11, 1–85",
+  "file": "rasika-mangala/ru/4-11.md",
+  "period": "P15",
+  "order": 63,
+  "title": "Шах Шуджа требует чуда: слон Гопала Дас приводит четырнадцать лесных слонов; Хари-нама двум тиграм",
+  "summary": "Злые люди доносят падишаху о маханте Ориссы, дающем Хари-наму слонам; Шах Шуджа посылает ходжу с войском требовать, чтобы Расика привёл из леса слонов; Расика отвечает, что не знает фокусов, его Владыка — Кришна; ночью по его повелению слон Гопала Дас приводит в загон четырнадцать лесных слонов, и ходжа признаёт его Ишварой; в Варахабхуми, заблудившись в лесу, Расика даёт Хари-наму двум диким тиграм.",
+  "persons": [
+   "@rasikananda",
+   "@shah-shuja",
+   "@gopala-dasa-elephant"
+  ],
+  "places": [
+   "#gopivallabhapura"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "mercy",
+   "muslims"
+  ],
+  "event": "ev-rasika-shah-shuja-elephants-tigers",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-11.md",
+    "from": "1",
+    "to": "85"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-11.md",
+    "from": "1",
+    "to": "85",
+    "line": 11,
+    "line_to": 263,
+    "count": 85,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-11.md?plain=1#L11-L263",
+    "file_en": "rasika-mangala/en/4-11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-11.md?plain=1#L11-L263"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0087",
@@ -238132,6 +238476,60 @@
    48
   ],
   "attestation": 3
+ },
+ {
+  "id": "rm-0064",
+  "source": "rasika-mangala",
+  "ref": "Уттара 12, 1–70",
+  "file": "rasika-mangala/ru/4-12.md",
+  "period": "P15",
+  "order": 64,
+  "title": "Спасение владыки колов",
+  "summary": "По пути в Нагпур владыка колов, убивающий брахманов и путников, окружает караван Расики, приняв его за богатого раджу-гуру; Расика велит спутникам повторять Хари-наму; ночью четверо невидимых великих существ бьют владыку и велят ему пасть к стопам Расики; тот со всем родом принимает Хари-наму.",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "mercy",
+   "revelation"
+  ],
+  "event": "ev-rasika-shah-shuja-elephants-tigers",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-12.md",
+    "from": "1",
+    "to": "70"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-12.md",
+    "from": "1",
+    "to": "70",
+    "line": 10,
+    "line_to": 217,
+    "count": 70,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-12.md?plain=1#L10-L217",
+    "file_en": "rasika-mangala/en/4-12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-12.md?plain=1#L10-L217"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0091",
@@ -238939,6 +239337,60 @@
   "attestation": 3
  },
  {
+  "id": "rm-0065",
+  "source": "rasika-mangala",
+  "ref": "Уттара 13, 1–42",
+  "file": "rasika-mangala/ru/4-13.md",
+  "period": "P15",
+  "order": 65,
+  "title": "Дождь после трёх лет засухи в Шекхарабхуми",
+  "summary": "Царь Шекхарабхуми молит о помощи: три года нет дождя; Расика велит устроить праздник с санкиртаной и угощением садху и повелевает Индре пролить дождь — ливень наполняет пруды, а в магху разливаются реки; автор славит Расику, который ни на миг не остаётся дома, странствуя ради спасения живых существ.",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "event": "ev-rasika-shah-shuja-elephants-tigers",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-13.md",
+    "from": "1",
+    "to": "42"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-13.md",
+    "from": "1",
+    "to": "42",
+    "line": 11,
+    "line_to": 134,
+    "count": 42,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-13.md?plain=1#L11-L134",
+    "file_en": "rasika-mangala/en/4-13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-13.md?plain=1#L11-L134"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "anv-0020",
   "source": "anuragavalli",
   "ref": "Манджари 3, 126–158",
@@ -239126,6 +239578,64 @@
    48
   ],
   "attestation": 5
+ },
+ {
+  "id": "rm-0066",
+  "source": "rasika-mangala",
+  "ref": "Уттара 14, 1–86",
+  "file": "rasika-mangala/ru/4-14.md",
+  "period": "P15",
+  "order": 66,
+  "title": "Распорядок дня Расики; сон в Бхограи: юный Шьяма трижды велит ему уходить",
+  "summary": "Расика посещает Кендубилву Джаядевы, Вишнупур, Амбую, обе стороны Ганги, каждый год ходит на Ратха-ятру и поклоняется на пути, которым шёл Шри Чайтанья; описан его распорядок по дандам; размышляя, что Чайтанья, Нитьянанда, Адвайта, Шьямананда и маханты сокрылись, он решает вернуться к Кришне; он рассказывает Гопиджана-валлабхе и Туласи, что в Бхограи ему явился юный Шьяма с флейтой и трижды, в гневе, велел уходить.",
+  "persons": [
+   "@rasikananda",
+   "@gopijana-vallabha-dasa",
+   "@tulasidasa-rasika",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "revelation",
+   "separation"
+  ],
+  "event": "ev-rasikananda-departure-remuna",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-14.md",
+    "from": "1",
+    "to": "86"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-14.md",
+    "from": "1",
+    "to": "86",
+    "line": 10,
+    "line_to": 265,
+    "count": 86,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-14.md?plain=1#L10-L265",
+    "file_en": "rasika-mangala/en/4-14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-14.md?plain=1#L10-L265"
+   }
+  ],
+  "years": [
+   1652,
+   1652
+  ],
+  "date_conf": "вероятно",
+  "age": [
+   166,
+   166
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0097",
@@ -239449,6 +239959,63 @@
    48
   ],
   "attestation": 3
+ },
+ {
+  "id": "rm-0067",
+  "source": "rasika-mangala",
+  "ref": "Уттара 15, 1–69",
+  "file": "rasika-mangala/ru/4-15.md",
+  "period": "P15",
+  "order": 67,
+  "title": "Расика рассказывает свою жизнь и велит поставить самадхи в Ремуне, у Гопалы",
+  "summary": "Расика говорит, что не останется в страшной Кали; он рассказывает жизнь: восемнадцать лет тайного бхаджана, посвящение у Шьямананды и девятнадцать лет семь месяцев странствий с ним, после его ухода — двадцать четыре года девять месяцев служения; всего шестьдесят два года четыре месяца; неисполненными остались лишь месячный праздник, новое паломничество во Вриндаван и угощение вайшнавов на Ганге; он просит сделать его самадхи в Ремуне, у Гопалы, укравшего кширу для Мадхавендры Пури; являются дурные знамения.",
+  "persons": [
+   "@rasikananda",
+   "@gopinatha-remuna",
+   "@shyamananda"
+  ],
+  "places": [
+   "#remuna"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Единственная хронология жизни Расикананды «из его уст».",
+  "themes": [
+   "separation",
+   "departure"
+  ],
+  "event": "ev-rasikananda-departure-remuna",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-15.md",
+    "from": "1",
+    "to": "69"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-15.md",
+    "from": "1",
+    "to": "69",
+    "line": 11,
+    "line_to": 215,
+    "count": 69,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-15.md?plain=1#L11-L215",
+    "file_en": "rasika-mangala/en/4-15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-15.md?plain=1#L11-L215"
+   }
+  ],
+  "years": [
+   1652,
+   1652
+  ],
+  "date_conf": "вероятно",
+  "age": [
+   166,
+   166
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0099",
@@ -239953,6 +240520,64 @@
    48
   ],
   "attestation": 4
+ },
+ {
+  "id": "rm-0068",
+  "source": "rasika-mangala",
+  "ref": "Уттара 16, 1–63",
+  "file": "rasika-mangala/ru/4-16.md",
+  "period": "P15",
+  "order": 68,
+  "title": "Уход Расикананды: он входит в тело Кширачоры Гопинатхи; колофон поэмы",
+  "summary": "В пхальгуну, в пратипаду после Шива-чатурдаши, колючка ранит Расике стопу в Баншде, начинается жар; вокруг него не смолкает санкиртана; когда его хотят нести в Гопиваллабхапур, паланкин не отрывается от земли, и все идут в Ремуну; Расика один входит в храм, и брахман видит, как он вошёл в тело Гопалы; паланкин пуст; близкие, храня тайну, воздвигают перед Гопалой самадхи с одеждами и украшениями; автор называет поэму — четыре вибхаги, шестьдесят четыре лахари — и даёт дату её завершения.",
+  "persons": [
+   "@rasikananda",
+   "@gopinatha-remuna",
+   "@gopijana-vallabha-dasa"
+  ],
+  "places": [
+   "#remuna"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Вхождение в Божество — сокрытие, не саюджья (сноска перевода).",
+  "themes": [
+   "departure",
+   "deities",
+   "separation"
+  ],
+  "event": "ev-rasikananda-departure-remuna",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/4-16.md",
+    "from": "1",
+    "to": "63"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/4-16.md",
+    "from": "1",
+    "to": "63",
+    "line": 10,
+    "line_to": 196,
+    "count": 63,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/4-16.md?plain=1#L10-L196",
+    "file_en": "rasika-mangala/en/4-16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-16.md?plain=1#L10-L196"
+   }
+  ],
+  "years": [
+   1652,
+   1652
+  ],
+  "date_conf": "вероятно",
+  "age": [
+   166,
+   166
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0106",

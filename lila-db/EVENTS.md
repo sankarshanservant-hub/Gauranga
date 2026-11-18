@@ -7455,7 +7455,33 @@
 
 - rasika-mangala (B): Уттара 3, 1–25 — [1–25](../rasika-mangala/ru/4-03.md?plain=1#L9-L129) · `rm-0055`
 - rasika-mangala (B): Уттара 4, 1–59 — [1–59](../rasika-mangala/ru/4-04.md?plain=1#L11-L185) · `rm-0056`
-- rasika-mangala (B): Уттара 5, 1–23 — [1–23](../rasika-mangala/ru/4-05.md?plain=1#L11-L77) · `rm-0057`
+- rasika-mangala (B): Уттара 5, 1–57 — [1–57](../rasika-mangala/ru/4-05.md?plain=1#L11-L179) · `rm-0057`
+
+## Двенадцатидневный праздник в Гопиваллабхапуре: Суварнарекха возвращается к берегу, дождь обходит собрание вайшнавов / The twelve-day festival at Gopivallabhapura: the Suvarnarekha returns to its bank, the rain spares the Vaishnava assembly  `ev-gopivallabhapura-twelve-day-festival` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 6, 1–61 — [1–61](../rasika-mangala/ru/4-06.md?plain=1#L11-L191) · `rm-0058`
+- rasika-mangala (B): Уттара 7, 1–63 — [1–63](../rasika-mangala/ru/4-07.md?plain=1#L10-L196) · `rm-0059`
+
+## Путь Расики в Нилачалу: пожар в Муктапуре, крушение лодки на Вайтарани / Rasika's journey to Nilachala: the fire at Muktapur, the boat capsizing on the Vaitarani  `ev-rasika-journey-nilachala` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 8, 1–21 — [1–21](../rasika-mangala/ru/4-08.md?plain=1#L9-L109) · `rm-0060`
+- rasika-mangala (B): Уттара 9, 1–74 — [1–74](../rasika-mangala/ru/4-09.md?plain=1#L10-L229) · `rm-0061`
+
+## Колесница Джаганнатхи, застывшая у Балиганди, трогается от прикосновения Расики / Jagannatha's chariot, stuck at Baliganda, moves at Rasika's touch  `ev-rasika-moves-ratha` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 10, 1–69 — [1–69](../rasika-mangala/ru/4-10.md?plain=1#L11-L215) · `rm-0062`
+
+## По требованию Шаха Шуджи Расика выводит из леса слонов; Хари-нама двум тиграм; спасение владыки колов; дождь в Шекхарабхуми / At Shah Shuja's demand Rasika brings elephants from the forest; Hari-nama to two tigers; the deliverance of the Kol chief; rain in Shekharabhumi  `ev-rasika-shah-shuja-elephants-tigers` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 11, 1–85 — [1–85](../rasika-mangala/ru/4-11.md?plain=1#L11-L263) · `rm-0063`
+- rasika-mangala (B): Уттара 12, 1–70 — [1–70](../rasika-mangala/ru/4-12.md?plain=1#L10-L217) · `rm-0064`
+- rasika-mangala (B): Уттара 13, 1–42 — [1–42](../rasika-mangala/ru/4-13.md?plain=1#L11-L134) · `rm-0065`
+
+## Уход Расикананды: он входит в тело Кширачоры Гопинатхи в Ремуне / Rasikananda's departure: he enters the form of Kshirachora Gopinatha at Remuna  `ev-rasikananda-departure-remuna` (1652–1652, возраст 166–166, вероятно)
+
+- rasika-mangala (B): Уттара 14, 1–86 — [1–86](../rasika-mangala/ru/4-14.md?plain=1#L10-L265) · `rm-0066`
+- rasika-mangala (B): Уттара 15, 1–69 — [1–69](../rasika-mangala/ru/4-15.md?plain=1#L11-L215) · `rm-0067`
+- rasika-mangala (B): Уттара 16, 1–63 — [1–63](../rasika-mangala/ru/4-16.md?plain=1#L10-L196) · `rm-0068`
 
 ## Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса / The disappearance of the Kheturi Deities; the six Deities and Gauranga's image from Vipradasa's granary  `ev-kheturi-six-deities` (1533–1534, возраст 47–48, оценка)
 
