@@ -3447,6 +3447,7 @@
 
 ## Первый даршан Джаганнатхи / First darshan of Jagannatha  `ev-first-darshan-jagannatha` (1510–1510, возраст 24–24, вероятно)
 
+- sarvabhauma-shataka (D): Шл. 15 — [15–15](../sarvabhauma-shataka/ru/01.md?plain=1#L33-L33) · `ss-0002`
 - mahabhava-prakasha (C): Гл. 3, 49–63 — [3.49–3.63](../mahabhava-prakasha/ru/03.md?plain=1#L64-L78) · `mpk-0017`
 - advaita-prakasha (D): Гл. 15, 119–121 — [119. Затем, уз–121. Затем Гор](../advaita-prakash/15.md?plain=1#L123-L125) · `apr-0087`
 - cb (A): Антья 2, 426–452 — [426–452](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L2098-L2225) · `cb-3034`
@@ -7583,6 +7584,14 @@
 ## Предки Госвами: от Сарваджни, царя Карнаты, до Кумары-девы / The ancestry of the Gosvamis: from Sarvajna, king of Karnata, to Kumara-deva  `ev-gosvamis-ancestry`
 
 - bhakti-ratnakara (B): Таранга 1, 540–580 — [540–580](../bhakti-ratnakara/ru/01.md?plain=1#L1657-L1769) · `brt-0029`
+
+## Гаура велит устанавливать в каждом доме мурти Хари и служить Радха-Кришне / Gaura bids the devotees install the Deity of Hari in every home and serve Radha-Krishna  `ev-ss-gaura-orders-hari-murti-every-home`
+
+- sarvabhauma-shataka (D): Шл. 2, 65 — [2–2](../sarvabhauma-shataka/ru/01.md?plain=1#L7-L7); [65–65](../sarvabhauma-shataka/ru/01.md?plain=1#L135-L135) · `ss-0003`
+
+## Вайшнавы по повелению Господа разносят Имя в каждую страну и каждый дом / By the Lord's order the Vaishnavas carry the Name to every land and every home  `ev-ss-vaishnavas-preach-every-home`
+
+- sarvabhauma-shataka (D): Шл. 30–35, 47–49 — [30–35](../sarvabhauma-shataka/ru/01.md?plain=1#L63-L73); [47–49](../sarvabhauma-shataka/ru/01.md?plain=1#L99-L103) · `ss-0004`
 
 ## Шри Чайтанья — Бхагаван; Брахман — Его сияние, Параматма — Его полное проявление / Sri Chaitanya is Bhagavan; Brahman is His effulgence, Paramatma His plenary portion  `ev-tattva-chaitanya-bhagavan`
 

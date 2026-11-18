@@ -129889,6 +129889,64 @@
   "attestation": 1
  },
  {
+  "id": "ss-0002",
+  "source": "sarvabhauma-shataka",
+  "ref": "Шл. 15",
+  "file": "sarvabhauma-shataka/ru/01.md",
+  "period": "P10",
+  "order": 2,
+  "title": "Первый даршан Пурушоттамы: Господь устремляется обнять Джаганнатху и падает без чувств",
+  "summary": "Увидев Пурушоттаму, золотой Хари в радости устремился прижать к сердцу Того, чьё сияние подобно грозовой туче, и упал на землю, лишившись чувств от наплыва всех бхав.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 6; ЧБ Антья 2",
+  "notes": "Единственная шлока шатаки, прямо описывающая событие, очевидцем которого был Сарвабхаума.",
+  "themes": [
+   "jagannatha",
+   "ecstasy"
+  ],
+  "event": "ev-first-darshan-jagannatha",
+  "verses": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "15",
+    "to": "15"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "15",
+    "to": "15",
+    "line": 33,
+    "line_to": 33,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L33-L33",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L33-L33"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "cc": "Мадхья 6",
+  "cb": "Антья 2",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 10
+ },
+ {
   "id": "mpk-0017",
   "source": "mahabhava-prakasha",
   "ref": "Гл. 3, 49–63",
@@ -129947,7 +130005,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "apr-0088",
@@ -131032,7 +131090,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cb-3034",
@@ -131092,7 +131150,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cc-1044",
@@ -131146,7 +131204,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "ccd-0049",
@@ -131204,7 +131262,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "gkr-0026",
@@ -131266,7 +131324,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "kcm-0111",
@@ -131321,7 +131379,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "kcm-0119",
@@ -131464,7 +131522,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "mkc-0164",
@@ -131527,7 +131585,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cc-0310",
@@ -131587,7 +131645,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cc-1045",
@@ -151082,7 +151140,7 @@
    24,
    24
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "vlm-0123",
@@ -273170,6 +273228,54 @@
   "attestation": 1
  },
  {
+  "id": "ss-0001",
+  "source": "sarvabhauma-shataka",
+  "ref": "Шл. 1–14",
+  "file": "sarvabhauma-shataka/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Сотня шлок у стоп Гауры: Кришна, нисшедший в век Кали ради падших",
+  "summary": "Автор склоняется перед Гаурой и приносит Ему «сотню [шлок]»; Гаура танцует в санкиртане, утвердив служение Радха-Кришне; Он даёт мадхура-бхакти по стопам враджских гопи; Он спасает павших от скверны Кали; Кришна, игравший с Радхой в роще, ныне пребывает на земле как Гаура вместе с Гададхарой; перечень признаков бхакти (служение гуру с доверием и др.).",
+  "persons": [
+   "@sarvabhauma",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧБ Антья 3 и ЧЧ Мадхья 6 упоминают сто шлок Сарвабхаумы; шл. 8c совпадает с перечнем анг бхакти в «Бхакти-расамрита-синдху»",
+  "notes": "Отождествление с сотней шлок ЧБ/ЧЧ сомнительно: двух шлок Сарвабхаумы из ЧЧ Мадхья 6 («вайрагья-видья…», «калан наштам…») в тексте нет.",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "yuga-dharma"
+  ],
+  "verses": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "1",
+    "to": "14"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "1",
+    "to": "14",
+    "line": 5,
+    "line_to": 31,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L5-L31",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L5-L31"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "vlm-0101",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 1, 1–29",
@@ -274145,6 +274251,70 @@
   "attestation": 1
  },
  {
+  "id": "ss-0003",
+  "source": "sarvabhauma-shataka",
+  "ref": "Шл. 2, 65",
+  "file": "sarvabhauma-shataka/ru/01.md",
+  "period": "PX",
+  "order": 3,
+  "title": "Повеление Гауры: мурти Хари в каждом доме",
+  "summary": "Гаура утверждает в каждом доме служение Радха-Кришне и говорит преданным: «Мурти Хари с прекрасными членами, сладостную, изогнутую в трёх местах, устанавливайте в каждом доме».",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "",
+  "notes": "В ЧЧ/ЧБ такого повеления нет; вероятно, отражает практику конца XVI в. и позднее.",
+  "themes": [
+   "teaching",
+   "deities"
+  ],
+  "teaching": [
+   "vaishnava",
+   "bhakti-supremacy"
+  ],
+  "event": "ev-ss-gaura-orders-hari-murti-every-home",
+  "verses": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "2",
+    "to": "2"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "65",
+    "to": "65"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "2",
+    "to": "2",
+    "line": 7,
+    "line_to": 7,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L7-L7",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L7-L7"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "65",
+    "to": "65",
+    "line": 135,
+    "line_to": 135,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L135-L135",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L135-L135"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "vlm-0103",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 1, 54–68",
@@ -274753,6 +274923,72 @@
   "attestation": 5
  },
  {
+  "id": "ss-0004",
+  "source": "sarvabhauma-shataka",
+  "ref": "Шл. 30–35, 47–49",
+  "file": "sarvabhauma-shataka/ru/01.md",
+  "period": "PX",
+  "order": 4,
+  "title": "Имя для всех: чандалы, яваны и грешники поют Имя; вайшнавы умоляют падших",
+  "summary": "Когда нисшёл Гаура, чандалы, яваны, глупцы, женщины и дети стали вайшнавами и поют имена и качества Хари; вайшнавы из милости берут падших за руки и умоляют принять Имя; по повелению Господа они взывают Именем в каждой стране и в каждом доме; с тех пор как Гауранга стал раздавать прему, грешники, пьяницы и разбойники, опьянённые, громко поют Имя Кришны.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "D",
+  "parallels": "ср. ЧЧ Ади 7; ЧБ (Джагай и Мадхай)",
+  "notes": "",
+  "themes": [
+   "teaching",
+   "mercy",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name",
+   "yuga-dharma"
+  ],
+  "event": "ev-ss-vaishnavas-preach-every-home",
+  "verses": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "30",
+    "to": "35"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "47",
+    "to": "49"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "30",
+    "to": "35",
+    "line": 63,
+    "line_to": 73,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L63-L73",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L63-L73"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "47",
+    "to": "49",
+    "line": 99,
+    "line_to": 103,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L99-L103",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L99-L103"
+   }
+  ],
+  "cc": "ср. Ади 7.92–98; Мадхья 7.128",
+  "attestation": 1
+ },
+ {
   "id": "vlm-0104",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 1, 69–82",
@@ -275169,6 +275405,86 @@
    }
   ],
   "attestation": 2
+ },
+ {
+  "id": "ss-0005",
+  "source": "sarvabhauma-shataka",
+  "ref": "Шл. 16–29, 36–46, 50–101",
+  "file": "sarvabhauma-shataka/ru/01.md",
+  "period": "PX",
+  "order": 5,
+  "title": "Восхваления облика и качеств Гаурачандры; аштаки с припевами; обличение гаура-вимукх",
+  "summary": "Описания облика Гауры (кудри, цветы, самоцветы, серьги, ожерелья — облик Навадвипы, а не санньяси); цикл из десяти шлок с припевом «да сияет в сердце Гаурачандра, царь танцоров» (52–61); аштака «Гаурачандра, поклон Тебе» (66–73); кто отвернулся от Гауранги, тот не бхагавата, даже если любит вайшнавов и жаден до киртана (83–87); молитвы о милости.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "49 — отзвук Гиты 18.66; 38 — «Бхагавата» 9.4.18–20",
+  "notes": "Сборный характер: вставные циклы с припевами, повторы пад. Ст. 39 (махатмы «равны Кришне») — сноска перевода.",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "vaishnava"
+  ],
+  "verses": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "16",
+    "to": "29"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "36",
+    "to": "46"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "50",
+    "to": "101"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "16",
+    "to": "29",
+    "line": 35,
+    "line_to": 61,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L35-L61",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L35-L61"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "36",
+    "to": "46",
+    "line": 77,
+    "line_to": 97,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L77-L97",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L77-L97"
+   },
+   {
+    "file": "sarvabhauma-shataka/ru/01.md",
+    "from": "50",
+    "to": "101",
+    "line": 105,
+    "line_to": 209,
+    "count": 52,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L105-L209",
+    "file_en": "sarvabhauma-shataka/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L105-L209"
+   }
+  ],
+  "attestation": 1
  },
  {
   "id": "vlm-0115",
