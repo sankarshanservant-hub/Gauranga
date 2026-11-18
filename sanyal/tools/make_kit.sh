@@ -7,4 +7,5 @@ mkdir -p $K/frag $K/ref
 cp sanyal/KIT-README.md sanyal/TASK-translation-ru.md $K/
 python3 -I sanyal/tools/split.py $K/frag
 cp sources/sanyal/Sanyal_1933_scan_ocr.txt $K/ref/scan-1933-ocr.txt
+cp sources/sanyal/Sanyal_vol1-2_retyped.txt $K/ref/retyped-en.txt
 rm -f "$OUT"; (cd $T && zip -qr "$OUT" sanyal-kit); rm -rf $T; echo "$OUT"
