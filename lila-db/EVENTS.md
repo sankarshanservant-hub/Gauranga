@@ -138,6 +138,10 @@
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (854–855) — [854–855](../prema-vilasa/ru/25.md?plain=1#L2634-L2637) · `pvl-0222`
 - prema-vilasa (C): Виласа 24, 290–320 — [290–320](../prema-vilasa/ru/24.md?plain=1#L874-L964) · `pvl-0257`
 
+## Игры Радхи и Кришны в Явате (рассказ Ямуны Ганге, «Гаура-чарита-чинтамани») / Radha and Krishna's pastimes at Yavata (Yamuna's account to Ganga, Gaura-charita-chintamani)  `ev-gcc-radha-krishna-yavata`
+
+- gaura-charita-chintamani (C): Кирана 17, 39–49 — [17.39–17.49](../gaura-charita-chintamani/ru/17.md?plain=1#L513-L757) · `gcc-0022`
+
 ## Шива, побеждённый Сударшаной за Каширадждой, получает от Кришны Экамра-вану / Shiva, defeated by Sudarshana for siding with the King of Kashi, receives Ekamra-vana from Krishna  `ev-shiva-receives-ekamra-kashiraja`
 
 - cb (A): Антья 2, 315–395 — [315–395](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L1567-L1943) · `cb-3032`

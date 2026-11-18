@@ -4849,6 +4849,7 @@
    "gst-0001",
    "gst-0023",
    "apr-0022",
+   "gcc-0022",
    "cb-3032",
    "cb-3092",
    "apr-0011",
@@ -5269,6 +5270,7 @@
    "ev-advaita-advent-cause",
    "ev-krishna-resolves-gaura-advent",
    "ev-brahma-steals-calves-haridasa",
+   "ev-gcc-radha-krishna-yavata",
    "ev-shiva-receives-ekamra-kashiraja",
    "ev-brahmana-doubts-nityananda-conduct",
    "ev-advaita-pilgrimage",
@@ -5505,6 +5507,7 @@
    "gst-0023",
    "lcm-0028",
    "apr-0022",
+   "gcc-0022",
    "apr-0017",
    "apr-0018",
    "apr-0042",
@@ -5806,6 +5809,7 @@
    "ev-krishna-resolves-gaura-advent",
    "ev-narada-shvetadvipa-balarama",
    "ev-brahma-steals-calves-haridasa",
+   "ev-gcc-radha-krishna-yavata",
    "ev-advaita-vishakha-painting",
    "ev-advaita-madhavendra-initiation",
    "ev-gaura-appearance",
@@ -40502,6 +40506,7 @@
   "note": "автор «Бхакти-ратнакары», «Нароттама-виласы», «Гита-чандродаи» (XVIII в.); не путать с @narahari-sarakara",
   "section": "Спутники",
   "lilas": [
+   "gcc-0022",
    "pad-0554",
    "pad-0522",
    "brt-6020",
@@ -40898,6 +40903,7 @@
    "brt-2020"
   ],
   "events": [
+   "ev-gcc-radha-krishna-yavata",
    "ev-advaita-birth",
    "ev-nityananda-birth",
    "ev-gaura-appearance",

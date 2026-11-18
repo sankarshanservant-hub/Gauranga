@@ -406,3 +406,22 @@
   event: ev-gaura-ashtakala-pratah
   verses:
     - {file: "gaura-charita-chintamani/ru/17.md", from: "17.1", to: "17.38"}
+
+- id: gcc-0022
+  source: gaura-charita-chintamani
+  ref: "Кирана 17, 39–49"
+  file: "gaura-charita-chintamani/ru/17.md"
+  period: P00
+  order: 50
+  title: "Ямуна рассказывает Ганге об играх Радхи и Кришны в Явате"
+  summary: "Ганга просит Ямуну развеять тоску её сердца рассказом о любви Радхи и Мадхавы; Ямуна рассказывает три игры в Явате: Кришна подплывает к купающейся Радхе под видом лотоса; ночью, переодетый молодой женой, приходит с Кундалатой и разминает Радхе стопы, и Радха разгадывает его; переодетый брахманом, постящимся ради луны, получает от Джатилы позволение прийти к Радхе и целует «луну» Её лица."
+  persons: ["@krishna", "@radha", "@narahari-chakravarti"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: "Ср. «Говинда-лиламрита»; пады о переодеваниях Кришны"
+  notes: "Вставная Кришна-лила внутри аштакалии Гауры; према гопи — не мирская страсть, брак гопи — устроение йогамайи (сноски перевода)."
+  themes: [krishna-lila]
+  event: ev-gcc-radha-krishna-yavata
+  verses:
+    - {file: "gaura-charita-chintamani/ru/17.md", from: "17.39", to: "17.49"}
