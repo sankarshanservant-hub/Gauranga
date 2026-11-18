@@ -231289,7 +231289,7 @@
  {
   "id": "rm-0029",
   "source": "rasika-mangala",
-  "ref": "Дакшина 9, 1–16",
+  "ref": "Дакшина 9, 1–21",
   "file": "rasika-mangala/ru/2-09.md",
   "period": "P15",
   "order": 29,
@@ -231318,20 +231318,20 @@
    {
     "file": "rasika-mangala/ru/2-09.md",
     "from": "1",
-    "to": "16"
+    "to": "21"
    }
   ],
   "verses_resolved": [
    {
     "file": "rasika-mangala/ru/2-09.md",
     "from": "1",
-    "to": "16",
+    "to": "21",
     "line": 9,
-    "line_to": 84,
-    "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-09.md?plain=1#L9-L84",
+    "line_to": 109,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-09.md?plain=1#L9-L109",
     "file_en": "rasika-mangala/en/2-09.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-09.md?plain=1#L9-L84"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-09.md?plain=1#L9-L109"
    }
   ],
   "years": [
@@ -231645,6 +231645,66 @@
   "attestation": 4
  },
  {
+  "id": "rm-0030",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 10, 1–73",
+  "file": "rasika-mangala/ru/2-10.md",
+  "period": "P15",
+  "order": 30,
+  "title": "Панчама-дола в Бараколе: первый общий праздник Шьямананды и Расики",
+  "summary": "По пути Расика в Васантапуре принимает многих учеников; в Бараколе строят павильон для расы и украшают место, словно Вайкунтху; Расика привозит из Дхаренды Божество Шьяма-рая; в полнолуние Вайшакха празднуют Дола-ятру: киртанные общины, раджи, бхуньи, субадар Мединипура, сотни тысяч людей сыплют фагу и абир; Вишванатха Бхунья, брат раджи Харичанданы, принимает посвящение у Расики.",
+  "persons": [
+   "@shyamananda",
+   "@rasikananda",
+   "@vamshi-dharenda"
+  ],
+  "places": [
+   "#barakola",
+   "#dharenda"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "kirtan",
+   "deities"
+  ],
+  "event": "ev-panchama-dola-barakola",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-10.md",
+    "from": "1",
+    "to": "73"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-10.md",
+    "from": "1",
+    "to": "73",
+    "line": 11,
+    "line_to": 227,
+    "count": 73,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-10.md?plain=1#L11-L227",
+    "file_en": "rasika-mangala/en/2-10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-10.md?plain=1#L11-L227"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "vlm-0163",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 9, 151–164 и колофон",
@@ -231825,6 +231885,68 @@
   "attestation": 1
  },
  {
+  "id": "rm-0031",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 11, 1–69",
+  "file": "rasika-mangala/ru/2-11.md",
+  "period": "P15",
+  "order": 31,
+  "title": "Харабола чтит Шьямананду как Нараяну; брак Шьямананды; «проклятие» Шьямадаси",
+  "summary": "Яванский правитель Харабола, увидев праздник, называет Шьямананду Нараяной и устраивает трёхдневную санкиртану в Аламгандже; по просьбе Расамайи, Вамши и Бхимы Шьямананда берёт в жёны Шьямаприю; Шьямадаси, готовя овощи для подношения Божеству, бросает работу, чтобы накормить плачущего первенца Враджананду, и Расика в гневе говорит, что её сыновья не останутся с ней; шестеро сыновей один за другим уходят, по его милости остаются трое — Радхананда, Кришнагати и Радхакришнадас.",
+  "persons": [
+   "@shyamananda",
+   "@shyamapriya",
+   "@rasikananda",
+   "@shyamadasi",
+   "@radhananda-gopivallabhapura"
+  ],
+  "places": [
+   "#medinipur",
+   "#gopivallabhapura"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Эпизод о «проклятии» известен только из «Расика-мангалы»; автор называет его так в колофоне.",
+  "themes": [
+   "family",
+   "offense",
+   "muslims"
+  ],
+  "event": "ev-shyamananda-marriage-shyamadasi-curse",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-11.md",
+    "from": "1",
+    "to": "69"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-11.md",
+    "from": "1",
+    "to": "69",
+    "line": 10,
+    "line_to": 214,
+    "count": 69,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-11.md?plain=1#L10-L214",
+    "file_en": "rasika-mangala/en/2-11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-11.md?plain=1#L10-L214"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0150",
   "source": "advaita-prakasha",
   "ref": "Гл. 22, 27–64",
@@ -231872,6 +231994,122 @@
     "line_to": 68,
     "count": null,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/22.md?plain=1#L31-L68"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0032",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 12, 1–79",
+  "file": "rasika-mangala/ru/2-12.md",
+  "period": "P15",
+  "order": 32,
+  "title": "Странствия по краю; Говиндапур; Расика в собрании раджи Вайдьянатхи Бханджи",
+  "summary": "Шьямананда и Расика устраивают праздники и принимают учеников; Бхимадхана дарит Шьямананде селение Говиндапур; Шьямананда велит Расике спасти раджу и подданных Уткала; в Раджгархе, в собрании учёных раджи Вайдьянатхи Бханджи и двух его братьев, знатоков шастр без бхакти, все видят в Расике с «Бхагаватой» в руках сокровище, подобное Нараяне.",
+  "persons": [
+   "@shyamananda",
+   "@rasikananda",
+   "@vaidyanatha-bhanja",
+   "@shyamapriya"
+  ],
+  "places": [
+   "#govindapura-utkala",
+   "#rajgarh-mayurbhanj"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "event": "ev-vaidyanatha-bhanja-converted",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-12.md",
+    "from": "1",
+    "to": "79"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-12.md",
+    "from": "1",
+    "to": "79",
+    "line": 10,
+    "line_to": 244,
+    "count": 79,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-12.md?plain=1#L10-L244",
+    "file_en": "rasika-mangala/en/2-12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-12.md?plain=1#L10-L244"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0033",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 13, 1–75",
+  "file": "rasika-mangala/ru/2-13.md",
+  "period": "P15",
+  "order": 33,
+  "title": "Разбор всех шастр: суть их — према-бхакти к Кришне; учение о дживе",
+  "summary": "Расика учит трёх братьев поклоняться одному Кришне; бхаттачарьи требуют спора, и он, разбирая санкхью, мимансу, йогу, ньяю, вайшешику, веданту, Веды, смрити, поэзию и грамматику, показывает, что суть всех шастр — према-бхакти к Кришне; пандиты называют его воплощением Вьясы и Шуки; на вопрос раджи об истине дживы он рассказывает, как джива, не зная Кришну, по карме скитается в круговороте рождений и страдает во чреве.",
+  "persons": [
+   "@rasikananda",
+   "@vaidyanatha-bhanja"
+  ],
+  "places": [
+   "#rajgarh-mayurbhanj"
+  ],
+  "kind": "teaching",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "teaching"
+  ],
+  "event": "ev-vaidyanatha-bhanja-converted",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-13.md",
+    "from": "1",
+    "to": "75"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-13.md",
+    "from": "1",
+    "to": "75",
+    "line": 11,
+    "line_to": 233,
+    "count": 75,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-13.md?plain=1#L11-L233",
+    "file_en": "rasika-mangala/en/2-13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-13.md?plain=1#L11-L233"
    }
   ],
   "years": [
@@ -232132,6 +232370,62 @@
   "attestation": 3
  },
  {
+  "id": "rm-0034",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 14, 1–68",
+  "file": "rasika-mangala/ru/2-14.md",
+  "period": "P15",
+  "order": 34,
+  "title": "Истина о дживе и абхидхея: имя, садху, гуру из любой касты",
+  "summary": "Джива по майе забывает Кришну и блуждает по 84 лакхам видов жизни; Кришна — Господь и отец всех; человеческое тело редко; надо без промедления воспевать имя, служить вайшнавам, оставаясь дома, принять прибежище у гуру, всецело преданного Кришне, какой бы касты он ни был, и не брать наставлений у непреданного, пусть даже знатока Вед; все оставляют поклонение иным богам.",
+  "persons": [
+   "@rasikananda",
+   "@vaidyanatha-bhanja"
+  ],
+  "places": [
+   "#rajgarh-mayurbhanj"
+  ],
+  "kind": "teaching",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "teaching"
+  ],
+  "event": "ev-vaidyanatha-bhanja-converted",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-14.md",
+    "from": "1",
+    "to": "68"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-14.md",
+    "from": "1",
+    "to": "68",
+    "line": 11,
+    "line_to": 212,
+    "count": 68,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-14.md?plain=1#L11-L212",
+    "file_en": "rasika-mangala/en/2-14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-14.md?plain=1#L11-L212"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0147",
   "source": "advaita-prakasha",
   "ref": "Гл. 21, 98–109",
@@ -232177,6 +232471,63 @@
     "line_to": 113,
     "count": null,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/21.md?plain=1#L102-L113"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0035",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 15, 1–135",
+  "file": "rasika-mangala/ru/2-15.md",
+  "period": "P15",
+  "order": 35,
+  "title": "Наставление радже о величии садху, медитации на Вриндаван и служении; братья оставляют убой",
+  "summary": "Не поклоняющийся Кришне живёт как дерево и дышит как кузнечные мехи; брахман, отвернувшийся от Кришны, ниже преданного-швапачи; боги — слуги Кришны; Расика просит у трёх братьев подаяния — отказа от убийства живых существ; братья и народ становятся безраздельно преданными, бхаттачарьи признают его спутником Кришны, братья получают мантру; наставление о медитации на Вриндаван и служении.",
+  "persons": [
+   "@rasikananda",
+   "@vaidyanatha-bhanja"
+  ],
+  "places": [
+   "#rajgarh-mayurbhanj"
+  ],
+  "kind": "teaching",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Ср. «Бхагавата» 2.3.18–19 и 7.9.10 (швапача).",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "event": "ev-vaidyanatha-bhanja-converted",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-15.md",
+    "from": "1",
+    "to": "135"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-15.md",
+    "from": "1",
+    "to": "135",
+    "line": 11,
+    "line_to": 419,
+    "count": 135,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-15.md?plain=1#L11-L419",
+    "file_en": "rasika-mangala/en/2-15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-15.md?plain=1#L11-L419"
    }
   ],
   "years": [
@@ -232247,6 +232598,69 @@
     "line_to": 177,
     "count": null,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/21.md?plain=1#L114-L177"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0036",
+  "source": "rasika-mangala",
+  "ref": "Дакшина 16, 1–72",
+  "file": "rasika-mangala/ru/2-16.md",
+  "period": "P15",
+  "order": 36,
+  "title": "Пощёчина Рамакришны радже; спасение Удданды-рая в Нрисимхапуре",
+  "summary": "В Бханджабхуме шиваиты и шакты оставляют убийство живых существ; когда раджа во время чтения «Бхагаваты» отвлекается на управляющего, брахман Рамакришна, ученик Расики, даёт ему пощёчину, и раджа, удержав придворных, падает к его стопам и благодарит; Расика возвращается к Шьямананде в Говиндапур; бхуиян Нрисимхапура Удданда-рай грабит и бьёт вайшнавов, но ночью ему является махапуруша и велит принять прибежище у Шьямананды.",
+  "persons": [
+   "@ramakrishna-rasika",
+   "@vaidyanatha-bhanja",
+   "@rasikananda",
+   "@shyamananda",
+   "@uddanda-raya"
+  ],
+  "places": [
+   "#rajgarh-mayurbhanj",
+   "#govindapura-utkala",
+   "#nrisimhapura"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "teaching",
+   "mercy",
+   "revelation"
+  ],
+  "event": "ev-ramakrishna-slaps-raja",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/2-16.md",
+    "from": "1",
+    "to": "72"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/2-16.md",
+    "from": "1",
+    "to": "72",
+    "line": 11,
+    "line_to": 224,
+    "count": 72,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/2-16.md?plain=1#L11-L224",
+    "file_en": "rasika-mangala/en/2-16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-16.md?plain=1#L11-L224"
    }
   ],
   "years": [
@@ -232807,6 +233221,65 @@
   "attestation": 1
  },
  {
+  "id": "rm-0037",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 1, 1–71",
+  "file": "rasika-mangala/ru/3-01.md",
+  "period": "P15",
+  "order": 37,
+  "title": "Приготовления к весенней расе в Гопиваллабхапуре",
+  "summary": "Шьямананда в Кашияри являет Тхакурани Шьяма-раю и даёт мантру многим; в Дхаренде велит провозгласить великую Раса-ятру весенним полнолунием Вайшакхи и поручает Расике сбор припасов; спутники целый год расчищают место в Гопиваллабхапуре, Расика собирает горы припасов; строят восьмиугольный круг расы с росписями, оградой и четырьмя воротами.",
+  "persons": [
+   "@shyamananda",
+   "@rasikananda",
+   "@damodara-yogi"
+  ],
+  "places": [
+   "#gopivallabhapura",
+   "#dharenda"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "deities"
+  ],
+  "event": "ev-gopivallabhapura-rasa-yatra",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-01.md",
+    "from": "1",
+    "to": "71"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-01.md",
+    "from": "1",
+    "to": "71",
+    "line": 14,
+    "line_to": 224,
+    "count": 71,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-01.md?plain=1#L14-L224",
+    "file_en": "rasika-mangala/en/3-01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-01.md?plain=1#L14-L224"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "nvv-0024",
   "source": "nityananda-vamsha",
   "ref": "Глава 3, 198–238",
@@ -232915,6 +233388,124 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/nityananda-vamsha/ru/03.md?plain=1#L741-L753",
     "file_en": "nityananda-vamsha/en/03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/nityananda-vamsha/en/03.md?plain=1#L741-L753"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0038",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 2, 1–76",
+  "file": "rasika-mangala/ru/3-02.md",
+  "period": "P15",
+  "order": 38,
+  "title": "Адхиваса расы: собираются Хридаянанда, потомки Нитьянанды и Адвайты; мальчики — восемь сакхи и Кришна",
+  "summary": "Прибывают Шьямананда, Хридаянанда, Аулия Тхакур, Видьютмала Тхакурани, Субаладас, потомки Нитьянанды и Адвайты, последователи двенадцати гопал и шестидесяти четырёх махантов, раджи и народ; адхиваса; сотни тысяч вкушают прасад, полубоги неузнанными служат вместе с людьми; восемь мальчиков, среди них сын Расамайи Гопиджана-валлабха (сам автор), наряжают восемью сакхи, а мальчика Рагхунатху — Кришной.",
+  "persons": [
+   "@rasikananda",
+   "@shyamananda",
+   "@hridaya-chaitanya",
+   "@gopijana-vallabha-dasa"
+  ],
+  "places": [
+   "#gopivallabhapura"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Автор — очевидец и участник: в детстве играл одну из сакхи.",
+  "themes": [
+   "festival",
+   "kirtan",
+   "prasada"
+  ],
+  "event": "ev-gopivallabhapura-rasa-yatra",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-02.md",
+    "from": "1",
+    "to": "76"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-02.md",
+    "from": "1",
+    "to": "76",
+    "line": 10,
+    "line_to": 235,
+    "count": 76,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-02.md?plain=1#L10-L235",
+    "file_en": "rasika-mangala/en/3-02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-02.md?plain=1#L10-L235"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0039",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 3, 1–65",
+  "file": "rasika-mangala/ru/3-03.md",
+  "period": "P15",
+  "order": 39,
+  "title": "Раса-лила по «Бхагавате» на берегу Суварнарекхи",
+  "summary": "При санкиртане и сонмах людей и богов мальчики по пяти главам «Бхагаваты» разыгрывают раса-лилу: зов флейты, приход гопи, слова Кришны, отсылающего их к мужьям, плач гопи и их ответ; Кришна с улыбкой зовёт их, и начинается танец расы; является блаженство Вриндавана.",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [
+   "#gopivallabhapura",
+   "#suvarnarekha"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "krishna-lila",
+   "kirtan"
+  ],
+  "event": "ev-gopivallabhapura-rasa-yatra",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-03.md",
+    "from": "1",
+    "to": "65"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-03.md",
+    "from": "1",
+    "to": "65",
+    "line": 11,
+    "line_to": 203,
+    "count": 65,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-03.md?plain=1#L11-L203",
+    "file_en": "rasika-mangala/en/3-03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-03.md?plain=1#L11-L203"
    }
   ],
   "years": [
@@ -233244,6 +233835,62 @@
   "attestation": 3
  },
  {
+  "id": "rm-0040",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 4, 1–67",
+  "file": "rasika-mangala/ru/3-04.md",
+  "period": "P15",
+  "order": 40,
+  "title": "Исчезновение Кришны в расе; укус кобры: Расика всю ночь смотрит расу, яд исчезает сам",
+  "summary": "Мальчики представляют, как Кришна скрывается от возгордившихся гопи, уводя одну, как гопи ищут Его по лесам и находят покинутую избранницу; по пути на место расы Расику в стопу кусает кобра; он никому не говорит и всю ночь в блаженстве смотрит расу; змея гибнет в толпе, а утром из его стопы вынимают два зуба, и яд исчезает без заговоров.",
+  "persons": [
+   "@rasikananda"
+  ],
+  "places": [
+   "#gopivallabhapura"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "krishna-lila"
+  ],
+  "event": "ev-gopivallabhapura-rasa-yatra",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-04.md",
+    "from": "1",
+    "to": "67"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-04.md",
+    "from": "1",
+    "to": "67",
+    "line": 11,
+    "line_to": 209,
+    "count": 67,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-04.md?plain=1#L11-L209",
+    "file_en": "rasika-mangala/en/3-04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-04.md?plain=1#L11-L209"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "anv-0029",
   "source": "anuragavalli",
   "ref": "Манджари 4, 103–113",
@@ -233302,6 +233949,187 @@
    48
   ],
   "attestation": 3
+ },
+ {
+  "id": "rm-0041",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 5, 1–84",
+  "file": "rasika-mangala/ru/3-05.md",
+  "period": "P15",
+  "order": 41,
+  "title": "Завершение раса-лилы; «мера расы — одна ночь»; дадхи-када с танцем Хридаянанды",
+  "summary": "Мальчики представляют плач гопи, возвращение Кришны и танец расы; на другой день Расика хочет повторить расу, но разражается гроза, и Шьямананда велит: мера расы — одна ночь; наутро дадхи-када с киртаном, в которой танцует Хридаянанда; Расика играет в водах Суварнарекхи, кормит и одаривает всех и отпускает гостей.",
+  "persons": [
+   "@rasikananda",
+   "@shyamananda",
+   "@hridaya-chaitanya"
+  ],
+  "places": [
+   "#gopivallabhapura",
+   "#suvarnarekha"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "festival",
+   "krishna-lila",
+   "kirtan"
+  ],
+  "event": "ev-gopivallabhapura-rasa-yatra",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-05.md",
+    "from": "1",
+    "to": "84"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-05.md",
+    "from": "1",
+    "to": "84",
+    "line": 10,
+    "line_to": 259,
+    "count": 84,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-05.md?plain=1#L10-L259",
+    "file_en": "rasika-mangala/en/3-05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-05.md?plain=1#L10-L259"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0042",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 6, 1–20",
+  "file": "rasika-mangala/ru/3-06.md",
+  "period": "P15",
+  "order": 42,
+  "title": "Кришна-катха Расики; притеснения в Радханагаре; путь в Банапур",
+  "summary": "После Раса-ятры застенчивый Расика по велению Шьямананды толкует в собрании Кришна-катху, и учёные изумляются, а люди всех сословий, вплоть до млеччхов, принимают прибежище Кришны; Рагхунатха шлёт весть, что в Радханагаре притесняет явана; Рагхунатха Паттанаяка просит отправить людей к субадару Ахмеду Бегу, и Расика с Вамшидасом отправляется в Банапур.",
+  "persons": [
+   "@rasikananda",
+   "@shyamananda",
+   "@ahmad-beg"
+  ],
+  "places": [
+   "#gopivallabhapura",
+   "#dharenda",
+   "#radhanagara-utkala",
+   "#banapura"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "teaching",
+   "muslims"
+  ],
+  "event": "ev-rasika-to-banapura-ahmad-beg",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-06.md",
+    "from": "1",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-06.md",
+    "from": "1",
+    "to": "20",
+    "line": 9,
+    "line_to": 104,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-06.md?plain=1#L9-L104",
+    "file_en": "rasika-mangala/en/3-06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-06.md?plain=1#L9-L104"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "rm-0043",
+  "source": "rasika-mangala",
+  "ref": "Пашчима 7, 1–66",
+  "file": "rasika-mangala/ru/3-07.md",
+  "period": "P15",
+  "order": 43,
+  "title": "Хари-нама всем по пути в Банапур; Ахмед Бег посылает за Расикой",
+  "summary": "Расика нигде не задерживается дольше двух дней, тысячи становятся его учениками; он велит Рамакришне, Динашьяме и Вамшидасу давать Хари-наму всем, от раджей до чандалов; в Банапуре он останавливается у раджи Вайдьянатхи, к нему стекаются раджи, чиновники и сотни яванов; наместник Ахмед Бег, разоривший раджей Ориссы, гневается, хулит его как обманщика и посылает за ним.",
+  "persons": [
+   "@rasikananda",
+   "@ramakrishna-rasika",
+   "@ahmad-beg",
+   "@vaidyanatha-bhanja"
+  ],
+  "places": [
+   "#banapura"
+  ],
+  "kind": "post-advent",
+  "authority": "B",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "mercy",
+   "kirtan",
+   "muslims"
+  ],
+  "event": "ev-rasika-to-banapura-ahmad-beg",
+  "verses": [
+   {
+    "file": "rasika-mangala/ru/3-07.md",
+    "from": "1",
+    "to": "66"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "rasika-mangala/ru/3-07.md",
+    "from": "1",
+    "to": "66",
+    "line": 12,
+    "line_to": 207,
+    "count": 66,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/ru/3-07.md?plain=1#L12-L207",
+    "file_en": "rasika-mangala/en/3-07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-07.md?plain=1#L12-L207"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-0012",

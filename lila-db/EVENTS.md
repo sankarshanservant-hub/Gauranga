@@ -7378,7 +7378,42 @@
 
 ## Ночью за гхи для вайшнавов Расика входит в дом могола; тот бьёт его, а затем, потеряв всё, становится садху / Fetching ghee for Vaishnavas at night, Rasika enters a Mughal's house; struck by him, the man later loses all and becomes a sadhu  `ev-rasika-mughal-ghee` (1533–1534, возраст 47–48, оценка)
 
-- rasika-mangala (B): Дакшина 9, 1–16 — [1–16](../rasika-mangala/ru/2-09.md?plain=1#L9-L84) · `rm-0029`
+- rasika-mangala (B): Дакшина 9, 1–21 — [1–21](../rasika-mangala/ru/2-09.md?plain=1#L9-L109) · `rm-0029`
+
+## Панчама-дола в Бараколе — первый общий праздник Шьямананды и Расики / The Panchama-dola at Barakola — the first joint festival of Shyamananda and Rasika  `ev-panchama-dola-barakola` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 10, 1–73 — [1–73](../rasika-mangala/ru/2-10.md?plain=1#L11-L227) · `rm-0030`
+
+## Брак Шьямананды со Шьямаприей; «проклятие» Шьямадаси за оскорбление в служении Кришне / Shyamananda marries Shyamapriya; Shyamadasi's 'curse' for an offence in Krishna's service  `ev-shyamananda-marriage-shyamadasi-curse` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 11, 1–69 — [1–69](../rasika-mangala/ru/2-11.md?plain=1#L10-L214) · `rm-0031`
+
+## Расика в Раджгархе: спор с бхаттачарьями о сути всех шастр; раджа Вайдьянатха Бхандж с братьями и народом оставляет убой и принимает посвящение / Rasika at Rajgarh: debate with the bhattacharyas on the essence of all shastras; Raja Vaidyanatha Bhanja, his brothers and people give up slaughter and are initiated  `ev-vaidyanatha-bhanja-converted` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 12, 1–79 — [1–79](../rasika-mangala/ru/2-12.md?plain=1#L10-L244) · `rm-0032`
+- rasika-mangala (B): Дакшина 13, 1–75 — [1–75](../rasika-mangala/ru/2-13.md?plain=1#L11-L233) · `rm-0033`
+- rasika-mangala (B): Дакшина 14, 1–68 — [1–68](../rasika-mangala/ru/2-14.md?plain=1#L11-L212) · `rm-0034`
+- rasika-mangala (B): Дакшина 15, 1–135 — [1–135](../rasika-mangala/ru/2-15.md?plain=1#L11-L419) · `rm-0035`
+
+## Брахман Рамакришна даёт пощёчину радже за невнимание к «Бхагавате»; раджа благодарит его / The brahmana Ramakrishna slaps the raja for inattention to the Bhagavata; the raja thanks him  `ev-ramakrishna-slaps-raja` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 16, 1–72 — [1–72](../rasika-mangala/ru/2-16.md?plain=1#L11-L224) · `rm-0036`
+
+## Спасение Удданды-рая в Нрисимхапуре: махапуруша во сне велит ему принять прибежище у Шьямананды / The deliverance of Uddanda Raya at Nrisimhapura: a mahapurusha in a dream bids him take shelter of Shyamananda  `ev-uddanda-delivered` (1533–1534, возраст 47–48, оценка)
+
+
+## Великая Раса-ятра в Гопиваллабхапуре: мальчики разыгрывают раса-лилу по пяти главам «Бхагаваты»; укус кобры / The great Rasa-yatra at Gopivallabhapura: boys enact the rasa-lila from the five chapters of the Bhagavata; the cobra's bite  `ev-gopivallabhapura-rasa-yatra` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 1, 1–71 — [1–71](../rasika-mangala/ru/3-01.md?plain=1#L14-L224) · `rm-0037`
+- rasika-mangala (B): Пашчима 2, 1–76 — [1–76](../rasika-mangala/ru/3-02.md?plain=1#L10-L235) · `rm-0038`
+- rasika-mangala (B): Пашчима 3, 1–65 — [1–65](../rasika-mangala/ru/3-03.md?plain=1#L11-L203) · `rm-0039`
+- rasika-mangala (B): Пашчима 4, 1–67 — [1–67](../rasika-mangala/ru/3-04.md?plain=1#L11-L209) · `rm-0040`
+- rasika-mangala (B): Пашчима 5, 1–84 — [1–84](../rasika-mangala/ru/3-05.md?plain=1#L10-L259) · `rm-0041`
+
+## Расика идёт в Банапур к наместнику Ахмеду Бегу, по пути давая Хари-наму всем, от раджей до чандалов / Rasika goes to Banapur to the governor Ahmad Beg, giving Hari-nama to all on the way, from rajas to chandalas  `ev-rasika-to-banapura-ahmad-beg` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 6, 1–20 — [1–20](../rasika-mangala/ru/3-06.md?plain=1#L9-L104) · `rm-0042`
+- rasika-mangala (B): Пашчима 7, 1–66 — [1–66](../rasika-mangala/ru/3-07.md?plain=1#L12-L207) · `rm-0043`
 
 ## Расикананда усмиряет слона и делает его учеником; правитель-явана склоняется / Rasikananda subdues an elephant and makes it his disciple; the Muslim ruler bows down  `ev-rasikananda-elephant` (1533–1534, возраст 47–48, оценка)
 

@@ -35964,6 +35964,223 @@
   ]
  },
  {
+  "id": "ev-panchama-dola-barakola",
+  "title": "Панчама-дола в Бараколе — первый общий праздник Шьямананды и Расики",
+  "title_en": "The Panchama-dola at Barakola — the first joint festival of Shyamananda and Rasika",
+  "period": "P15",
+  "order": 103.391,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "kirtan",
+   "deities"
+  ],
+  "notes": "«Расика-мангала», Дакшина 9–10: Божество Шьяма-рай из Дхаренды; посвящение Вишванатхи Бхуньи.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0030"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-shyamananda-marriage-shyamadasi-curse",
+  "title": "Брак Шьямананды со Шьямаприей; «проклятие» Шьямадаси за оскорбление в служении Кришне",
+  "title_en": "Shyamananda marries Shyamapriya; Shyamadasi's 'curse' for an offence in Krishna's service",
+  "period": "P15",
+  "order": 103.392,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "offense"
+  ],
+  "notes": "«Расика-мангала», Дакшина 11: правитель-явана Харабола почитает Шьямананду как Нараяну; из девяти сыновей Расики остаются трое — Радхананда, Кришнагати, Радхакришнадас.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0031"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-vaidyanatha-bhanja-converted",
+  "title": "Расика в Раджгархе: спор с бхаттачарьями о сути всех шастр; раджа Вайдьянатха Бхандж с братьями и народом оставляет убой и принимает посвящение",
+  "title_en": "Rasika at Rajgarh: debate with the bhattacharyas on the essence of all shastras; Raja Vaidyanatha Bhanja, his brothers and people give up slaughter and are initiated",
+  "period": "P15",
+  "order": 103.393,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "notes": "«Расика-мангала», Дакшина 12–15: учение о дживе, абхидхее, гуру из любой касты.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0032",
+   "rm-0033",
+   "rm-0034",
+   "rm-0035"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-ramakrishna-slaps-raja",
+  "title": "Брахман Рамакришна даёт пощёчину радже за невнимание к «Бхагавате»; раджа благодарит его",
+  "title_en": "The brahmana Ramakrishna slaps the raja for inattention to the Bhagavata; the raja thanks him",
+  "period": "P15",
+  "order": 103.394,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "offense"
+  ],
+  "notes": "«Расика-мангала», Дакшина 16.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0036"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-uddanda-delivered",
+  "title": "Спасение Удданды-рая в Нрисимхапуре: махапуруша во сне велит ему принять прибежище у Шьямананды",
+  "title_en": "The deliverance of Uddanda Raya at Nrisimhapura: a mahapurusha in a dream bids him take shelter of Shyamananda",
+  "period": "P15",
+  "order": 103.395,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "revelation"
+  ],
+  "notes": "«Расика-мангала», Дакшина 16.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [],
+  "sources": []
+ },
+ {
+  "id": "ev-gopivallabhapura-rasa-yatra",
+  "title": "Великая Раса-ятра в Гопиваллабхапуре: мальчики разыгрывают раса-лилу по пяти главам «Бхагаваты»; укус кобры",
+  "title_en": "The great Rasa-yatra at Gopivallabhapura: boys enact the rasa-lila from the five chapters of the Bhagavata; the cobra's bite",
+  "period": "P15",
+  "order": 103.396,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "krishna-lila",
+   "kirtan"
+  ],
+  "notes": "«Расика-мангала», Пашчима 1–5: прибывают Хридаянанда, потомки Нитьянанды и Адвайты; автор в детстве играл одну из восьми сакхи; Расика, укушенный коброй, всю ночь смотрит расу, яд исчезает сам.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0037",
+   "rm-0038",
+   "rm-0039",
+   "rm-0040",
+   "rm-0041"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
+  "id": "ev-rasika-to-banapura-ahmad-beg",
+  "title": "Расика идёт в Банапур к наместнику Ахмеду Бегу, по пути давая Хари-наму всем, от раджей до чандалов",
+  "title_en": "Rasika goes to Banapur to the governor Ahmad Beg, giving Hari-nama to all on the way, from rajas to chandalas",
+  "period": "P15",
+  "order": 103.397,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "muslims",
+   "kirtan"
+  ],
+  "notes": "«Расика-мангала», Пашчима 6–7; наместник посылает за Расикой — продолжение в лахари 7 далее (дикий слон, ср. ev-rasikananda-elephant).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "rm-0042",
+   "rm-0043"
+  ],
+  "sources": [
+   "rasika-mangala"
+  ]
+ },
+ {
   "id": "ev-ss-gaura-orders-hari-murti-every-home",
   "title": "Гаура велит устанавливать в каждом доме мурти Хари и служить Радха-Кришне",
   "title_en": "Gaura bids the devotees install the Deity of Hari in every home and serve Radha-Krishna",

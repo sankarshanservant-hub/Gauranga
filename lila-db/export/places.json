@@ -8606,11 +8606,13 @@
   "section": "",
   "lilas": [
    "gkr-0018",
-   "rm-0014"
+   "rm-0014",
+   "rm-0031"
   ],
   "events": [
    "ev-keshava-samanta-medinipur",
-   "ev-rasikananda-seven-days-forest"
+   "ev-rasikananda-seven-days-forest",
+   "ev-shyamananda-marriage-shyamadasi-curse"
   ]
  },
  {
@@ -8653,6 +8655,8 @@
    "cb-3025",
    "rm-0018",
    "rm-0023",
+   "rm-0039",
+   "rm-0041",
    "brt-8047",
    "brt-8048"
   ],
@@ -8661,6 +8665,7 @@
    "ev-danda-broken",
    "ev-krishna-appears-to-rasika-ghatashila",
    "ev-gopivallabhapura-founded",
+   "ev-gopivallabhapura-rasa-yatra",
    "ev-shyamananda-utkala",
    "ev-rasikananda-initiation"
   ]
@@ -10224,6 +10229,13 @@
    "rm-0023",
    "rm-0026",
    "rm-0027",
+   "rm-0031",
+   "rm-0037",
+   "rm-0038",
+   "rm-0039",
+   "rm-0040",
+   "rm-0041",
+   "rm-0042",
    "pvl-0143",
    "brt-8051",
    "pvl-0144",
@@ -10234,6 +10246,9 @@
    "ev-gopivallabhapura-founded",
    "ev-gopivallabha-wedding",
    "ev-rasika-sixty-four-angas",
+   "ev-shyamananda-marriage-shyamadasi-curse",
+   "ev-gopivallabhapura-rasa-yatra",
+   "ev-rasika-to-banapura-ahmad-beg",
    "ev-shyamananda-utkala",
    "ev-virachandra-pilgrimage"
   ]
@@ -10249,6 +10264,9 @@
    "rm-0025",
    "rm-0026",
    "rm-0029",
+   "rm-0030",
+   "rm-0037",
+   "rm-0042",
    "brt-0021",
    "brt-3047",
    "pvl-0143",
@@ -10262,6 +10280,9 @@
    "ev-bhima-shirikara-delivered",
    "ev-gopivallabha-wedding",
    "ev-rasika-mughal-ghee",
+   "ev-panchama-dola-barakola",
+   "ev-gopivallabhapura-rasa-yatra",
+   "ev-rasika-to-banapura-ahmad-beg",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala",
    "ev-shyamananda-utkala",
@@ -10637,12 +10658,14 @@
   "note": "Уткала (Орисса); селение, где жил Шьямананда («Нароттама-виласа» 4)",
   "section": "",
   "lilas": [
+   "rm-0036",
    "brt-4022",
    "nvl-0031",
    "brt-4045",
    "brt-8051"
   ],
   "events": [
+   "ev-ramakrishna-slaps-raja",
    "ev-narottama-shyamananda-nrisimhapura",
    "ev-shyamananda-utkala"
   ]
@@ -12664,10 +12687,12 @@
   "note": "место праздника Панчама-дола Шьямананды и Расикананды в вайшакху («Расика-мангала» Д9–Д10)",
   "section": "",
   "lilas": [
-   "rm-0028"
+   "rm-0028",
+   "rm-0030"
   ],
   "events": [
-   "ev-rasika-forest-to-guru"
+   "ev-rasika-forest-to-guru",
+   "ev-panchama-dola-barakola"
   ]
  },
  {
@@ -12683,6 +12708,53 @@
   "events": [
    "ev-rasika-forest-to-guru",
    "ev-rasika-mughal-ghee"
+  ]
+ },
+ {
+  "id": "#govindapura-utkala",
+  "ru": "Говиндапур (Уткала)",
+  "en": "Govindapur (Utkala)",
+  "note": "селение, подаренное @shyamananda Бхимадханой; дом Шьямананды («Расика-мангала», Дакшина 12, 16)",
+  "section": "",
+  "lilas": [
+   "rm-0032",
+   "rm-0036"
+  ],
+  "events": [
+   "ev-vaidyanatha-bhanja-converted",
+   "ev-ramakrishna-slaps-raja"
+  ]
+ },
+ {
+  "id": "#rajgarh-mayurbhanj",
+  "ru": "Раджгарх (Маюрбханджа)",
+  "en": "Rajgarh (Mayurbhanj)",
+  "note": "столица раджи Вайдьянатхи Бханджи («Расика-мангала», Дакшина 12–16)",
+  "section": "",
+  "lilas": [
+   "rm-0032",
+   "rm-0033",
+   "rm-0034",
+   "rm-0035",
+   "rm-0036"
+  ],
+  "events": [
+   "ev-vaidyanatha-bhanja-converted",
+   "ev-ramakrishna-slaps-raja"
+  ]
+ },
+ {
+  "id": "#banapura",
+  "ru": "Банапур",
+  "en": "Banapur",
+  "note": "Орисса; ставка наместника Ахмеда Бега («Расика-мангала», Пашчима 6–7)",
+  "section": "",
+  "lilas": [
+   "rm-0042",
+   "rm-0043"
+  ],
+  "events": [
+   "ev-rasika-to-banapura-ahmad-beg"
   ]
  },
  {
@@ -12753,9 +12825,11 @@
   "note": "селение в Ориссе; дом брахмана Брихадбхану, где пребывало Божество Радхи, позднее отправленное к Говинде (БР 6.89–93 по «Садхана-дипике»)",
   "section": "",
   "lilas": [
+   "rm-0042",
    "brt-3007"
   ],
   "events": [
+   "ev-rasika-to-banapura-ahmad-beg",
    "ev-radha-for-govinda-from-puri"
   ]
  },
