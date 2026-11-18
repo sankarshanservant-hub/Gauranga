@@ -800,12 +800,12 @@
 
 - id: rm-0043
   source: rasika-mangala
-  ref: "Пашчима 7, 1–66"
+  ref: "Пашчима 7, 1–98"
   file: "rasika-mangala/ru/3-07.md"
   period: P15
   order: 43
   title: "Хари-нама всем по пути в Банапур; Ахмед Бег посылает за Расикой"
-  summary: "Расика нигде не задерживается дольше двух дней, тысячи становятся его учениками; он велит Рамакришне, Динашьяме и Вамшидасу давать Хари-наму всем, от раджей до чандалов; в Банапуре он останавливается у раджи Вайдьянатхи, к нему стекаются раджи, чиновники и сотни яванов; наместник Ахмед Бег, разоривший раджей Ориссы, гневается, хулит его как обманщика и посылает за ним."
+  summary: "Расика нигде не задерживается дольше двух дней, тысячи становятся его учениками; он велит Рамакришне, Динашьяме и Вамшидасу давать Хари-наму всем, от раджей до чандалов; в Банапуре он останавливается у раджи Вайдьянатхи, к нему стекаются раджи, чиновники и сотни яванов; наместник Ахмед Бег, разоривший раджей Ориссы, гневается, хулит его как обманщика и посылает за ним; описание бесчинств дикого слона в Банапуре."
   persons: ["@rasikananda", "@ramakrishna-rasika", "@ahmad-beg", "@vaidyanatha-bhanja"]
   places: ["#banapura"]
   kind: post-advent
@@ -815,4 +815,270 @@
   themes: [mercy, kirtan, muslims]
   event: ev-rasika-to-banapura-ahmad-beg
   verses:
-    - {file: "rasika-mangala/ru/3-07.md", from: "1", to: "66"}
+    - {file: "rasika-mangala/ru/3-07.md", from: "1", to: "98"}
+
+- id: rm-0044
+  source: rasika-mangala
+  ref: "Пашчима 8, 1–106"
+  file: "rasika-mangala/ru/3-08.md"
+  period: P15
+  order: 44
+  title: "Бешеный слон Банапура получает Хари-наму и имя Гопала Дас"
+  summary: "Субадар велит привести Расику: пусть даст Хари-наму слону, опустошающему Банапур, — уцелеет, признают его Нараяной; спутники разбегаются, субадар раскаивается; Расика, полагаясь на Кришну, идёт навстречу слону и наставляет его служить Кришне, напоминая об Индре и Гаджендре; слон падает к его стопам, получает в ухо шестнадцать имён «Харе Кришна» и имя Гопала Дас и, опьянённый премой, уходит в лес; Ахмед Бег падает к стопам Расики."
+  persons: ["@rasikananda", "@ahmad-beg", "@gopala-dasa-elephant"]
+  places: ["#banapura"]
+  kind: miracle
+  authority: B
+  parallels: "БР 15"
+  notes: ""
+  themes: [mercy, muslims, kirtan]
+  event: ev-rasikananda-elephant
+  verses:
+    - {file: "rasika-mangala/ru/3-08.md", from: "1", to: "106"}
+
+- id: rm-0045
+  source: rasika-mangala
+  ref: "Пашчима 9, 1–80"
+  file: "rasika-mangala/ru/3-09.md"
+  period: P15
+  order: 45
+  title: "Ахмед Бег и гаджапати Нрисимхадева принимают прибежище; флейта Расики"
+  summary: "Расика излагает субадару истину по писаниям, и тот признаёт его частью Нараяны; раджи прибегают к Расике; раджа Харинараяна убеждает гаджапати Нрисимхадеву увидеть его; Расика сам приходит к царю, тот просит сыграть на флейте, и от её звуков царь и раджи лишаются чувств; отказавшись сесть рядом с царём, Расика излагает суть шастр — служение садху, кару гонителям садху, сострадание ко всем."
+  persons: ["@rasikananda", "@ahmad-beg", "@nrisimhadeva-gajapati"]
+  places: ["#banapura"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [mercy, teaching, ecstasy, muslims]
+  event: ev-ahmad-beg-gajapati-shelter
+  verses:
+    - {file: "rasika-mangala/ru/3-09.md", from: "1", to: "80"}
+
+- id: rm-0046
+  source: rasika-mangala
+  ref: "Пашчима 10, 1–83"
+  file: "rasika-mangala/ru/3-10.md"
+  period: P15
+  order: 46
+  title: "Певцы Шьямадас и Мохана в плену; слон Гопала Дас кормит вайшнавов и становится великим вайшнавом"
+  summary: "Правитель Хиджли уводит учеников-певцов Расики; он отказывается от пищи, и раджи добиваются их освобождения; слон Гопала Дас слушает Кришна-катху и уходит по святым местам; когда Расика со спутниками, заблудившись в лесу, остаётся без пищи, слон приносит им рис от домохозяина; Расика наставляет его служить садху; описание облика Расики."
+  persons: ["@rasikananda", "@gopala-dasa-elephant"]
+  places: ["#banapura", "#hijli"]
+  kind: miracle
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [mercy]
+  event: ev-elephant-gopala-dasa-serves
+  verses:
+    - {file: "rasika-mangala/ru/3-10.md", from: "1", to: "83"}
+
+- id: rm-0047
+  source: rasika-mangala
+  ref: "Пашчима 11, 1–20"
+  file: "rasika-mangala/ru/3-11.md"
+  period: P15
+  order: 47
+  title: "Явление Шри Говинды в Гопиваллабхапуре"
+  summary: "Расика приходит к Шьямананде в Тхурию и подносит ему дары; мастера Рагху и Ананда являют Божество, которое Шьямананда называет Вриндаванчандрой, и по его велению в Гопиваллабхапуре является Шри Говинда-рай; Расика устанавливает Божество в храме и устраивает великий праздник."
+  persons: ["@rasikananda", "@shyamananda", "@govinda-gopivallabhapura"]
+  places: ["#thuria", "#gopivallabhapura"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [deities, festival]
+  event: ev-govinda-gopivallabhapura-installed
+  verses:
+    - {file: "rasika-mangala/ru/3-11.md", from: "1", to: "20"}
+
+- id: rm-0048
+  source: rasika-mangala
+  ref: "Пашчима 12, 1–78"
+  file: "rasika-mangala/ru/3-12.md"
+  period: P15
+  order: 48
+  title: "Шьямасундарпур; «Тхакур Госани»; Шьямананда слышит зов во Врадж"
+  summary: "Садху так много, что раджа Гхатшилы дарит селение Сатути — Шри Шьямасундарпур; Шьямананда оставляет в Малом Говиндапуре трёх Тхакурани; раджи дарят множество селений; Шьямананда в шутку велит звать Расику «Тхакур Госани»; учеников у них — сотни тысяч; на празднике Долы в Тхурии Шьямананда слышит зов идти во Врадж и тоскует в разлуке."
+  persons: ["@shyamananda", "@rasikananda"]
+  places: ["#shyamasundarpura", "#thuria", "#govindapura-utkala"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [deities, separation]
+  event: ev-shyamasundarpura-founded
+  verses:
+    - {file: "rasika-mangala/ru/3-12.md", from: "1", to: "78"}
+
+- id: rm-0049
+  source: rasika-mangala
+  ref: "Пашчима 13, 1–75"
+  file: "rasika-mangala/ru/3-13.md"
+  period: P15
+  order: 49
+  title: "Уход Шьямананды в Нрисимхапуре (1552 г. Шаки); разлука Расикананды"
+  summary: "В Амбике уходит Хридаянанда, и Шьямананда говорит, что больше не останется на земле; после ухода Дамодары справляют праздник в его память; Шьямананда говорит Расике, что исполнил повеление спасти живых существ Уткала; в Нрисимхапуре, в доме Удданды-рая, он четыре месяца болеет, вместо лечения велит непрестанную санкиртану, оставляет Расику в Уткале, возлагает стопы ему на голову, повязывает ткань, ставит тилаку и отдаёт ему власть в общине; в первый день тёмной половины ашадхи 1552 г. Шаки под звуки санкиртаны Шьямананда уходит; Расика падает без чувств."
+  persons: ["@shyamananda", "@rasikananda", "@hridaya-chaitanya", "@damodara-yogi", "@uddanda-raya"]
+  places: ["#nrisimhapura", "#ambika-kalna"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: "Дата ухода Шьямананды (1630) — по «Расика-мангале»."
+  themes: [departure, separation, kirtan]
+  event: ev-shyamananda-departure-nrisimhapura
+  verses:
+    - {file: "rasika-mangala/ru/3-13.md", from: "1", to: "75"}
+
+- id: rm-0050
+  source: rasika-mangala
+  ref: "Пашчима 14, 1–170"
+  file: "rasika-mangala/ru/3-14.md"
+  period: P15
+  order: 50
+  title: "Радхананда — адхикари служения Говинде; ученики Шьямананды"
+  summary: "Расика собирает преданных на праздник двенадцатого дня в Говиндапуре и велит назвать всех учеников Шьямананды; преданные избирают старшего сына Расики, Радхананду, и Расика повязывает ему ткань и вверяет служение Шри Говинде; автор перечисляет учеников Шьямананды."
+  persons: ["@rasikananda", "@radhananda-gopivallabhapura", "@shyamananda"]
+  places: ["#govindapura-utkala", "#gopivallabhapura"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [separation, festival]
+  event: ev-shyamananda-viraha-mahotsava
+  verses:
+    - {file: "rasika-mangala/ru/3-14.md", from: "1", to: "170"}
+
+- id: rm-0051
+  source: rasika-mangala
+  ref: "Пашчима 15, 1–86"
+  file: "rasika-mangala/ru/3-15.md"
+  period: P15
+  order: 51
+  title: "Ветви Шьямананды: ученики учеников"
+  summary: "Братья называют учеников Дамодары — первых шьямананди Расамайю и Вамшидаса, Анандадаса «Садаварту» и других, — учеников Нагары Уддхавы, Шьямарангини, Пурушоттамы и спутников Динашьямы, Рамакришны, Вамши, Манохары, Мукунды: пуджари, брахманов, бхуиянов, Бханджей, музыкантов, цветочников и учениц с именами гопи."
+  persons: ["@rasikananda", "@damodara-yogi", "@rasamaya-dharenda", "@vamshi-dharenda", "@ramakrishna-rasika"]
+  places: []
+  kind: author
+  authority: B
+  parallels: ""
+  notes: "Ценнейший перечень общины шьямананди XVII в."
+  themes: [author]
+  event: ev-shyamananda-viraha-mahotsava
+  verses:
+    - {file: "rasika-mangala/ru/3-15.md", from: "1", to: "86"}
+
+- id: rm-0052
+  source: rasika-mangala
+  ref: "Пашчима 16, 1–76"
+  file: "rasika-mangala/ru/3-16.md"
+  period: P15
+  order: 52
+  title: "Великий праздник разлуки по Шьямананде"
+  summary: "Расика приглашает царей, бхуиянов, вайшнавов, санньяси и брахманов и сам собирает подаяние; запасают горы припасов, строят жилища для садху вчетверо больше, чем для Великой расы, и круг расы с троном; в полнолуние джйештхи, в день Снана-ятры, совершают адхивасу; сходятся общины, маханты, вайшнавы и враджаваси."
+  persons: ["@rasikananda"]
+  places: ["#gopivallabhapura"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [separation, festival, kirtan]
+  event: ev-shyamananda-viraha-mahotsava
+  verses:
+    - {file: "rasika-mangala/ru/3-16.md", from: "1", to: "76"}
+
+- id: rm-0053
+  source: rasika-mangala
+  ref: "Уттара 1, 1–65"
+  file: "rasika-mangala/ru/4-01.md"
+  period: P15
+  order: 53
+  title: "Окончание праздника разлуки: дадхи-када, двенадцать дней; Кишора и Чинтамани бранят Расику и уходят во Вриндаван"
+  summary: "Расика двенадцать дней танцует на празднике разлуки, затем дадхи-када до вечера; он одаривает и отпускает гостей и с тех пор вводит праздник двенадцати дней; старшие братья Кишора и Чинтамани Дас бросают поднесённые им одежды и бранят Расику, а он радуется, что ткань упала ему на голову, и смиренно молит их; они уходят во Вриндаван."
+  persons: ["@rasikananda", "@kishoradasa-shyamananda"]
+  places: ["#gopivallabhapura", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [festival, separation]
+  event: ev-shyamananda-viraha-mahotsava
+  verses:
+    - {file: "rasika-mangala/ru/4-01.md", from: "1", to: "65"}
+
+- id: rm-0054
+  source: rasika-mangala
+  ref: "Уттара 2, 1–64"
+  file: "rasika-mangala/ru/4-02.md"
+  period: P15
+  order: 54
+  title: "Тридцать ежегодных праздников; странствия Расики с садху"
+  summary: "В Дхаренде Расика с астрологами утверждает ежегодные праздники: двенадцать дней арадханы Шьямананды после Снана-пурнимы, Ратха-ятру, Хера-панчами, явление Шри Чайтаньи (для которого он сам собирает подаяние каури и горстями риса), арадхану Субала-чандры, рождение Кришны и Радхи, Кумара-пурниму, расу после Уттхана-экадаши, восемь дней памяти Хридаянанды — всего тридцать; Расика странствует с сотнями садху."
+  persons: ["@rasikananda", "@shyamananda", "@hridaya-chaitanya", "@mahaprabhu"]
+  places: ["#dharenda"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [festival]
+  event: ev-rasika-annual-festivals
+  verses:
+    - {file: "rasika-mangala/ru/4-02.md", from: "1", to: "64"}
+
+- id: rm-0055
+  source: rasika-mangala
+  ref: "Уттара 3, 1–25"
+  file: "rasika-mangala/ru/4-03.md"
+  period: P15
+  order: 55
+  title: "Тринадцать пад Расики; гордыня Удданды; Расика неузнанным живёт в Майне"
+  summary: "Расика слагает тринадцать пад о преме к Кришне; Удданда-бхуиян в гордыне не отдаёт Вриндаванчандру, чтобы поселить трёх матерей вместе по повелению Шьямананды; Расика зарекается пить воду в его земле и уходит, но голос Шьямананды останавливает его: «Я покарал его»; в облике враджаваси Расика неузнанным живёт в Майне, посвящает братьев Чандрабхану и Шьямарасику и изумляет учёных."
+  persons: ["@rasikananda", "@uddanda-raya", "@shyamananda"]
+  places: ["#hijli"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [offense, revelation]
+  event: ev-uddanda-pride-three-thakuranis
+  verses:
+    - {file: "rasika-mangala/ru/4-03.md", from: "1", to: "25"}
+
+- id: rm-0056
+  source: rasika-mangala
+  ref: "Уттара 4, 1–59"
+  file: "rasika-mangala/ru/4-04.md"
+  period: P15
+  order: 56
+  title: "Три Тхакурани в Шьямасундарпуре; заговор Гаурангадаси"
+  summary: "Удданда за оскорбление погиб со всем родом; Расика переносит Шьямаприю и Вриндаванчандру в Шьямасундарпур, поселяет трёх Тхакурани вместе и справляет третий двенадцатидневный праздник; Тхакурани ссорятся и бранят Расику, а он смеётся и держится повеления гуру; старшая, Гаурангадаси, с Видьютмалой, Харикарой и другими пишет от имени Расики подложное письмо об отравлении Гаурангадаси."
+  persons: ["@rasikananda", "@gaurangadasi", "@shyamapriya", "@uddanda-raya"]
+  places: ["#shyamasundarpura"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: "Конфликт в семье Шьямананды после его ухода известен только из «Расика-мангалы»."
+  themes: [offense, family]
+  event: ev-uddanda-pride-three-thakuranis
+  verses:
+    - {file: "rasika-mangala/ru/4-04.md", from: "1", to: "59"}
+
+- id: rm-0057
+  source: rasika-mangala
+  ref: "Уттара 5, 1–23"
+  file: "rasika-mangala/ru/4-05.md"
+  period: P15
+  order: 57
+  title: "Провал заговора: подложное письмо оборачивается стихами во славу Расики"
+  summary: "На дадхи-каде пятеро сыновей Расамайи садятся вокруг Расики, готовые отдать за него жизнь; когда читают письмо, в нём оказываются стихи «Бхагаваты» из всех двенадцати песней, сиддханта шести шастр, смысл Вед, песни Джаядевы и три шлоки во славу Расики, грозящие хулителям адом; заговорщики разбегаются, Тхакурани плачет; Расика из-за смут решает справлять праздники в Гопиваллабхапуре и покидает землю раджи Рамачандры Дхала."
+  persons: ["@rasikananda", "@gaurangadasi", "@rasamaya-dharenda"]
+  places: ["#shyamasundarpura", "#gopivallabhapura"]
+  kind: miracle
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [offense, revelation]
+  event: ev-uddanda-pride-three-thakuranis
+  verses:
+    - {file: "rasika-mangala/ru/4-05.md", from: "1", to: "23"}

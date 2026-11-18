@@ -5143,6 +5143,7 @@
    "brt-0010",
    "nvl-0006",
    "anv-0029",
+   "rm-0053",
    "krn-0028",
    "anv-0023",
    "brt-3006",
@@ -5476,6 +5477,7 @@
    "ev-rasika-visits-vraja",
    "ev-gopala-mathura-vitthaleshvara",
    "ev-lokanatha-forbids-mention",
+   "ev-shyamananda-viraha-mahotsava",
    "ev-srinivasa-journey-vrindavana",
    "ev-radha-for-govinda-from-puri",
    "ev-rupa-sanatana-departure",
@@ -7862,6 +7864,7 @@
    "nvv-0007",
    "nvv-0008",
    "nvv-0009",
+   "rm-0049",
    "brt-0021",
    "brt-3002",
    "pvl-0077",
@@ -7893,6 +7896,7 @@
    "ev-hridaya-chaitanya-name",
    "ev-shyamananda-initiation-ambika",
    "ev-nityananda-marriage",
+   "ev-shyamananda-departure-nrisimhapura",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-shyamananda-returns-utkala",
    "ev-narottama-gauda-pilgrimage",
@@ -10236,6 +10240,11 @@
    "rm-0040",
    "rm-0041",
    "rm-0042",
+   "rm-0047",
+   "rm-0050",
+   "rm-0052",
+   "rm-0053",
+   "rm-0057",
    "pvl-0143",
    "brt-8051",
    "pvl-0144",
@@ -10249,6 +10258,9 @@
    "ev-shyamananda-marriage-shyamadasi-curse",
    "ev-gopivallabhapura-rasa-yatra",
    "ev-rasika-to-banapura-ahmad-beg",
+   "ev-govinda-gopivallabhapura-installed",
+   "ev-shyamananda-viraha-mahotsava",
+   "ev-uddanda-pride-three-thakuranis",
    "ev-shyamananda-utkala",
    "ev-virachandra-pilgrimage"
   ]
@@ -10267,6 +10279,7 @@
    "rm-0030",
    "rm-0037",
    "rm-0042",
+   "rm-0054",
    "brt-0021",
    "brt-3047",
    "pvl-0143",
@@ -10283,6 +10296,7 @@
    "ev-panchama-dola-barakola",
    "ev-gopivallabhapura-rasa-yatra",
    "ev-rasika-to-banapura-ahmad-beg",
+   "ev-rasika-annual-festivals",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala",
    "ev-shyamananda-utkala",
@@ -10659,6 +10673,7 @@
   "section": "",
   "lilas": [
    "rm-0036",
+   "rm-0049",
    "brt-4022",
    "nvl-0031",
    "brt-4045",
@@ -10666,6 +10681,7 @@
   ],
   "events": [
    "ev-ramakrishna-slaps-raja",
+   "ev-shyamananda-departure-nrisimhapura",
    "ev-narottama-shyamananda-nrisimhapura",
    "ev-shyamananda-utkala"
   ]
@@ -12660,11 +12676,15 @@
   "lilas": [
    "rm-0014",
    "rm-0015",
-   "rm-0016"
+   "rm-0016",
+   "rm-0046",
+   "rm-0055"
   ],
   "events": [
    "ev-rasikananda-seven-days-forest",
-   "ev-rasikananda-marries-ichchha"
+   "ev-rasikananda-marries-ichchha",
+   "ev-elephant-gopala-dasa-serves",
+   "ev-uddanda-pride-three-thakuranis"
   ]
  },
  {
@@ -12718,11 +12738,15 @@
   "section": "",
   "lilas": [
    "rm-0032",
-   "rm-0036"
+   "rm-0036",
+   "rm-0048",
+   "rm-0050"
   ],
   "events": [
    "ev-vaidyanatha-bhanja-converted",
-   "ev-ramakrishna-slaps-raja"
+   "ev-ramakrishna-slaps-raja",
+   "ev-shyamasundarpura-founded",
+   "ev-shyamananda-viraha-mahotsava"
   ]
  },
  {
@@ -12751,10 +12775,47 @@
   "section": "",
   "lilas": [
    "rm-0042",
-   "rm-0043"
+   "rm-0043",
+   "rm-0044",
+   "rm-0045",
+   "rm-0046"
   ],
   "events": [
-   "ev-rasika-to-banapura-ahmad-beg"
+   "ev-rasika-to-banapura-ahmad-beg",
+   "ev-rasikananda-elephant",
+   "ev-ahmad-beg-gajapati-shelter",
+   "ev-elephant-gopala-dasa-serves"
+  ]
+ },
+ {
+  "id": "#shyamasundarpura",
+  "ru": "Шьямасундарпур (Сатути)",
+  "en": "Shyamasundarpur (Satuti)",
+  "note": "селение, подаренное раджей Гхатшилы Шьямананде и Расике («Расика-мангала», Пашчима 12; Уттара 4)",
+  "section": "",
+  "lilas": [
+   "rm-0048",
+   "rm-0056",
+   "rm-0057"
+  ],
+  "events": [
+   "ev-shyamasundarpura-founded",
+   "ev-uddanda-pride-three-thakuranis"
+  ]
+ },
+ {
+  "id": "#thuria",
+  "ru": "Тхурия",
+  "en": "Thuria",
+  "note": "Уткала; место жительства @shyamananda («Расика-мангала», Пашчима 11–12)",
+  "section": "",
+  "lilas": [
+   "rm-0047",
+   "rm-0048"
+  ],
+  "events": [
+   "ev-govinda-gopivallabhapura-installed",
+   "ev-shyamasundarpura-founded"
   ]
  },
  {

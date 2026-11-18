@@ -3261,6 +3261,7 @@
    "cc-0175",
    "pvl-0017",
    "pvl-0018",
+   "rm-0054",
    "anv-0010",
    "brt-0068",
    "anv-0011",
@@ -4551,6 +4552,7 @@
    "ev-advaita-followers-split",
    "ev-srinivasa-father-death-yajigrama",
    "ev-srinivasa-shrikhanda",
+   "ev-rasika-annual-festivals",
    "ev-srinivasa-hears-disappearance-dream",
    "ev-srinivasa-gadadhara-puri",
    "ev-srinivasa-dream-nitai-advaita",
@@ -38981,6 +38983,12 @@
    "rm-0038",
    "rm-0041",
    "rm-0042",
+   "rm-0047",
+   "rm-0048",
+   "rm-0049",
+   "rm-0050",
+   "rm-0054",
+   "rm-0055",
    "brt-3006",
    "brt-0021",
    "brt-3002",
@@ -39108,6 +39116,12 @@
    "ev-ramakrishna-slaps-raja",
    "ev-gopivallabhapura-rasa-yatra",
    "ev-rasika-to-banapura-ahmad-beg",
+   "ev-govinda-gopivallabhapura-installed",
+   "ev-shyamasundarpura-founded",
+   "ev-shyamananda-departure-nrisimhapura",
+   "ev-shyamananda-viraha-mahotsava",
+   "ev-rasika-annual-festivals",
+   "ev-uddanda-pride-three-thakuranis",
    "ev-radha-for-govinda-from-puri",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-srinivasa-narottama-shyamananda-vrindavana",
@@ -39202,6 +39216,8 @@
    "rm-0003",
    "rm-0038",
    "rm-0041",
+   "rm-0049",
+   "rm-0054",
    "brt-0021",
    "brt-3002",
    "pvl-0077",
@@ -39242,6 +39258,8 @@
    "ev-hridaya-chaitanya-name",
    "ev-shyamananda-initiation-ambika",
    "ev-gopivallabhapura-rasa-yatra",
+   "ev-shyamananda-departure-nrisimhapura",
+   "ev-rasika-annual-festivals",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-srinivasa-narottama-shyamananda-vrindavana",
    "ev-shyamananda-nupura",
@@ -39916,6 +39934,20 @@
    "rm-0041",
    "rm-0042",
    "rm-0043",
+   "rm-0044",
+   "rm-0045",
+   "rm-0046",
+   "rm-0047",
+   "rm-0048",
+   "rm-0049",
+   "rm-0050",
+   "rm-0051",
+   "rm-0052",
+   "rm-0053",
+   "rm-0054",
+   "rm-0055",
+   "rm-0056",
+   "rm-0057",
    "pad-0559",
    "brt-0022",
    "pad-0560",
@@ -39968,12 +40000,20 @@
    "ev-ramakrishna-slaps-raja",
    "ev-gopivallabhapura-rasa-yatra",
    "ev-rasika-to-banapura-ahmad-beg",
+   "ev-rasikananda-elephant",
+   "ev-ahmad-beg-gajapati-shelter",
+   "ev-elephant-gopala-dasa-serves",
+   "ev-govinda-gopivallabhapura-installed",
+   "ev-shyamasundarpura-founded",
+   "ev-shyamananda-departure-nrisimhapura",
+   "ev-shyamananda-viraha-mahotsava",
+   "ev-rasika-annual-festivals",
+   "ev-uddanda-pride-three-thakuranis",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-shyamananda-nupura",
    "ev-books-leave-vrindavana",
    "ev-narottama-shyamananda-nrisimhapura",
    "ev-vrindavana-messengers-gauda",
-   "ev-rasikananda-elephant",
    "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart",
    "ev-narottama-sacred-thread"
@@ -40556,6 +40596,8 @@
    "rm-0021",
    "rm-0024",
    "rm-0037",
+   "rm-0049",
+   "rm-0051",
    "brt-8049",
    "brt-8050",
    "pvl-0144",
@@ -40564,7 +40606,9 @@
   "events": [
    "ev-shyamananda-utkala",
    "ev-rasika-dharenda-rasamaya",
-   "ev-gopivallabhapura-rasa-yatra"
+   "ev-gopivallabhapura-rasa-yatra",
+   "ev-shyamananda-departure-nrisimhapura",
+   "ev-shyamananda-viraha-mahotsava"
   ],
   "related_by": [
    {
@@ -54077,10 +54121,12 @@
   "note": "сын @rasikananda, продолжатель его проповеди (B 976; M 160); не путать с Радханандой — учеником Шьямананды",
   "section": "Аллегорические лица",
   "lilas": [
-   "rm-0031"
+   "rm-0031",
+   "rm-0050"
   ],
   "events": [
-   "ev-shyamananda-marriage-shyamadasi-curse"
+   "ev-shyamananda-marriage-shyamadasi-curse",
+   "ev-shyamananda-viraha-mahotsava"
   ],
   "related_by": [
    {
@@ -54126,9 +54172,11 @@
   "note": "установлен Шьяманандой, служение вверено @rasikananda (T 216; M 158, 214; B 1107)",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0047",
    "brt-8051"
   ],
   "events": [
+   "ev-govinda-gopivallabhapura-installed",
    "ev-shyamananda-utkala"
   ],
   "related_by": [
@@ -54317,13 +54365,17 @@
    "rm-0024",
    "rm-0025",
    "rm-0026",
-   "rm-0029"
+   "rm-0029",
+   "rm-0051",
+   "rm-0057"
   ],
   "events": [
    "ev-rasika-dharenda-rasamaya",
    "ev-bhima-shirikara-delivered",
    "ev-gopivallabha-wedding",
-   "ev-rasika-mughal-ghee"
+   "ev-rasika-mughal-ghee",
+   "ev-shyamananda-viraha-mahotsava",
+   "ev-uddanda-pride-three-thakuranis"
   ]
  },
  {
@@ -54335,12 +54387,14 @@
   "lilas": [
    "rm-0024",
    "rm-0026",
-   "rm-0030"
+   "rm-0030",
+   "rm-0051"
   ],
   "events": [
    "ev-rasika-dharenda-rasamaya",
    "ev-gopivallabha-wedding",
-   "ev-panchama-dola-barakola"
+   "ev-panchama-dola-barakola",
+   "ev-shyamananda-viraha-mahotsava"
   ]
  },
  {
@@ -54379,11 +54433,13 @@
   "section": "Аллегорические лица",
   "lilas": [
    "rm-0031",
-   "rm-0032"
+   "rm-0032",
+   "rm-0056"
   ],
   "events": [
    "ev-shyamananda-marriage-shyamadasi-curse",
-   "ev-vaidyanatha-bhanja-converted"
+   "ev-vaidyanatha-bhanja-converted",
+   "ev-uddanda-pride-three-thakuranis"
   ]
  },
  {
@@ -54394,11 +54450,13 @@
   "section": "Аллегорические лица",
   "lilas": [
    "rm-0036",
-   "rm-0043"
+   "rm-0043",
+   "rm-0051"
   ],
   "events": [
    "ev-ramakrishna-slaps-raja",
-   "ev-rasika-to-banapura-ahmad-beg"
+   "ev-rasika-to-banapura-ahmad-beg",
+   "ev-shyamananda-viraha-mahotsava"
   ]
  },
  {
@@ -54408,10 +54466,15 @@
   "note": "бхуиян Нрисимхапура, грабивший вайшнавов; принял прибежище у @shyamananda после видения махапуруши («Расика-мангала», Дакшина 16)",
   "section": "Аллегорические лица",
   "lilas": [
-   "rm-0036"
+   "rm-0036",
+   "rm-0049",
+   "rm-0055",
+   "rm-0056"
   ],
   "events": [
-   "ev-ramakrishna-slaps-raja"
+   "ev-ramakrishna-slaps-raja",
+   "ev-shyamananda-departure-nrisimhapura",
+   "ev-uddanda-pride-three-thakuranis"
   ]
  },
  {
@@ -54422,10 +54485,56 @@
   "section": "Аллегорические лица",
   "lilas": [
    "rm-0042",
-   "rm-0043"
+   "rm-0043",
+   "rm-0044",
+   "rm-0045"
   ],
   "events": [
-   "ev-rasika-to-banapura-ahmad-beg"
+   "ev-rasika-to-banapura-ahmad-beg",
+   "ev-rasikananda-elephant",
+   "ev-ahmad-beg-gajapati-shelter"
+  ]
+ },
+ {
+  "id": "@gaurangadasi",
+  "ru": "Гаурангадаси",
+  "en": "Gaurangadasi",
+  "note": "старшая супруга @shyamananda («старшая Тхакурани»); противилась совместному житью трёх Тхакурани («Расика-мангала», Дакшина 12; Уттара 4–5)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0056",
+   "rm-0057"
+  ],
+  "events": [
+   "ev-uddanda-pride-three-thakuranis"
+  ]
+ },
+ {
+  "id": "@nrisimhadeva-gajapati",
+  "ru": "Нрисимхадева, гаджапати",
+  "en": "Nrisimhadeva, the Gajapati",
+  "note": "царь Ориссы, принявший прибежище у @rasikananda в Банапуре («Расика-мангала», Пашчима 9)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0045"
+  ],
+  "events": [
+   "ev-ahmad-beg-gajapati-shelter"
+  ]
+ },
+ {
+  "id": "@gopala-dasa-elephant",
+  "ru": "Гопала Дас (слон)",
+  "en": "Gopala Dasa (the elephant)",
+  "note": "бешеный слон Банапура, получивший от @rasikananda Хари-наму и имя («Расика-мангала», Пашчима 8, 10)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0044",
+   "rm-0046"
+  ],
+  "events": [
+   "ev-rasikananda-elephant",
+   "ev-elephant-gopala-dasa-serves"
   ]
  },
  {
@@ -56480,10 +56589,12 @@
   "note": "ученик Шьямананды, певец его киртана (БР 15.41, 60, 72; «Расика-мангала» — «Кишора-адхьяпака»)",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0053",
    "brt-8048",
    "brt-8050"
   ],
   "events": [
+   "ev-shyamananda-viraha-mahotsava",
    "ev-rasikananda-initiation",
    "ev-shyamananda-utkala"
   ]

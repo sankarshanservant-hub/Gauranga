@@ -7413,11 +7413,49 @@
 ## Расика идёт в Банапур к наместнику Ахмеду Бегу, по пути давая Хари-наму всем, от раджей до чандалов / Rasika goes to Banapur to the governor Ahmad Beg, giving Hari-nama to all on the way, from rajas to chandalas  `ev-rasika-to-banapura-ahmad-beg` (1533–1534, возраст 47–48, оценка)
 
 - rasika-mangala (B): Пашчима 6, 1–20 — [1–20](../rasika-mangala/ru/3-06.md?plain=1#L9-L104) · `rm-0042`
-- rasika-mangala (B): Пашчима 7, 1–66 — [1–66](../rasika-mangala/ru/3-07.md?plain=1#L12-L207) · `rm-0043`
+- rasika-mangala (B): Пашчима 7, 1–98 — [1–98](../rasika-mangala/ru/3-07.md?plain=1#L12-L303) · `rm-0043`
 
 ## Расикананда усмиряет слона и делает его учеником; правитель-явана склоняется / Rasikananda subdues an elephant and makes it his disciple; the Muslim ruler bows down  `ev-rasikananda-elephant` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Пашчима 8, 1–106 — [1–106](../rasika-mangala/ru/3-08.md?plain=1#L11-L326) · `rm-0044`
 - bhakti-ratnakara (B): Таранга 15, 84–86 — [84–86](../bhakti-ratnakara/ru/15.md?plain=1#L262-L268) · `brt-8052`
+
+## Ахмед Бег и гаджапати Нрисимхадева принимают прибежище у Расики; звуки его флейты / Ahmad Beg and the Gajapati Nrisimhadeva take shelter of Rasika; the sound of his flute  `ev-ahmad-beg-gajapati-shelter` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 9, 1–80 — [1–80](../rasika-mangala/ru/3-09.md?plain=1#L11-L248) · `rm-0045`
+
+## Слон Гопала Дас слушает Кришна-катху и приносит рис заблудившимся вайшнавам / The elephant Gopala Dasa hears Krishna-katha and brings rice to the lost Vaishnavas  `ev-elephant-gopala-dasa-serves` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 10, 1–83 — [1–83](../rasika-mangala/ru/3-10.md?plain=1#L10-L256) · `rm-0046`
+
+## Явление Шри Говинды в Гопиваллабхапуре; Шьямананда являет Вриндаванчандру / The appearance of Sri Govinda at Gopivallabhapura; Shyamananda manifests Vrindavanachandra  `ev-govinda-gopivallabhapura-installed` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 11, 1–20 — [1–20](../rasika-mangala/ru/3-11.md?plain=1#L9-L104) · `rm-0047`
+
+## Шьямасундарпур; Шьямананда велит звать Расику «Тхакур Госани»; зов во Врадж / Shyamasundarpur; Shyamananda bids all call Rasika 'Thakur Gosani'; the call to Vraja  `ev-shyamasundarpura-founded` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 12, 1–78 — [1–78](../rasika-mangala/ru/3-12.md?plain=1#L11-L242) · `rm-0048`
+
+## Уход Шьямананды в Нрисимхапуре; он передаёт Расике власть в общине / Shyamananda's departure at Nrisimhapura; he hands Rasika the authority over the community  `ev-shyamananda-departure-nrisimhapura` (1630–1630, возраст 144–144, точно)
+
+- rasika-mangala (B): Пашчима 13, 1–75 — [1–75](../rasika-mangala/ru/3-13.md?plain=1#L11-L233) · `rm-0049`
+
+## Праздник разлуки по Шьямананде: Радхананда — адхикари служения Говинде; перечень ветвей Шьямананды / The festival of separation for Shyamananda: Radhananda made adhikari of Govinda's service; the branches of Shyamananda  `ev-shyamananda-viraha-mahotsava` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 14, 1–170 — [1–170](../rasika-mangala/ru/3-14.md?plain=1#L11-L518) · `rm-0050`
+- rasika-mangala (B): Пашчима 15, 1–86 — [1–86](../rasika-mangala/ru/3-15.md?plain=1#L11-L266) · `rm-0051`
+- rasika-mangala (B): Пашчима 16, 1–76 — [1–76](../rasika-mangala/ru/3-16.md?plain=1#L11-L236) · `rm-0052`
+- rasika-mangala (B): Уттара 1, 1–65 — [1–65](../rasika-mangala/ru/4-01.md?plain=1#L14-L206) · `rm-0053`
+
+## Расика устанавливает тридцать ежегодных праздников общины / Rasika establishes the thirty annual festivals of the community  `ev-rasika-annual-festivals` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 2, 1–64 — [1–64](../rasika-mangala/ru/4-02.md?plain=1#L11-L200) · `rm-0054`
+
+## Гордыня Удданды и заговор Гаурангадаси против Расики: три Тхакурани в Шьямасундарпуре; подложное письмо оборачивается стихами во славу Расики / Uddanda's pride and Gaurangadasi's plot against Rasika: the three Thakuranis at Shyamasundarpur; the forged letter turns into verses glorifying Rasika  `ev-uddanda-pride-three-thakuranis` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 3, 1–25 — [1–25](../rasika-mangala/ru/4-03.md?plain=1#L9-L129) · `rm-0055`
+- rasika-mangala (B): Уттара 4, 1–59 — [1–59](../rasika-mangala/ru/4-04.md?plain=1#L11-L185) · `rm-0056`
+- rasika-mangala (B): Уттара 5, 1–23 — [1–23](../rasika-mangala/ru/4-05.md?plain=1#L11-L77) · `rm-0057`
 
 ## Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса / The disappearance of the Kheturi Deities; the six Deities and Gauranga's image from Vipradasa's granary  `ev-kheturi-six-deities` (1533–1534, возраст 47–48, оценка)
 
