@@ -138,6 +138,15 @@
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (854–855) — [854–855](../prema-vilasa/ru/25.md?plain=1#L2634-L2637) · `pvl-0222`
 - prema-vilasa (C): Виласа 24, 290–320 — [290–320](../prema-vilasa/ru/24.md?plain=1#L874-L964) · `pvl-0257`
 
+## Игры Радхи и Кришны в Явате (рассказ Ямуны Ганге, «Гаура-чарита-чинтамани») / Radha and Krishna's pastimes at Yavata (Yamuna's account to Ganga, Gaura-charita-chintamani)  `ev-gcc-radha-krishna-yavata`
+
+- gaura-charita-chintamani (C): Кирана 17, 39–49 — [17.39–17.49](../gaura-charita-chintamani/ru/17.md?plain=1#L513-L757) · `gcc-0022`
+- gaura-charita-chintamani (C): Кирана 17, 50–54 — [17.50–17.54](../gaura-charita-chintamani/ru/17.md?plain=1#L784-L884) · `gcc-0023`
+
+## Нишанта и утро Радхи и Кришны во Врадже (рассказ Ямуны, «Гаура-чарита-чинтамани») / The nishanta and morning of Radha and Krishna in Vraja (Yamuna's account, Gaura-charita-chintamani)  `ev-gcc-radha-krishna-nishanta-pratah`
+
+- gaura-charita-chintamani (C): Кирана 17, 55–62 — [17.55–17.62](../gaura-charita-chintamani/ru/17.md?plain=1#L917-L1026) · `gcc-0024`
+
 ## Шива, побеждённый Сударшаной за Каширадждой, получает от Кришны Экамра-вану / Shiva, defeated by Sudarshana for siding with the King of Kashi, receives Ekamra-vana from Krishna  `ev-shiva-receives-ekamra-kashiraja`
 
 - cb (A): Антья 2, 315–395 — [315–395](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L1567-L1943) · `cb-3032`
@@ -1810,6 +1819,29 @@
 - lochana-cm (B): Мадхья-кханда, «Милость к Мукунде», 87–93 — [87–93](../lochana/ru/26.md?plain=1#L197-L215) · `lcm-0115`
 - murari-kcc (A): Пракрама 2, сарга 4, шлоки 33–35 — [33–35](../murari-gupta/ru/2.04.md?plain=1#L69-L73) · `mkc-0081`
 
+## Аштакалия-лила Гауры: нишанта — сон Господа на исходе ночи / Gaura's ashtakaliya-lila: nishanta — the Lord's sleep at the end of night  `ev-gaura-ashtakala-nishanta` (1509–1510, возраст 23–24, оценка)
+
+- gaura-charita-chintamani (C): Кирана 2, 1–26a — [2.1–2.26a](../gaura-charita-chintamani/ru/02.md?plain=1#L9-L440) · `gcc-0005`
+
+## Аштакалия-лила Гауры: пратах — пробуждение Господа / Gaura's ashtakaliya-lila: pratah — the Lord's awakening  `ev-gaura-ashtakala-pratah` (1509–1510, возраст 23–24, оценка)
+
+- gaura-charita-chintamani (C): Кирана 3, 1–13 — [3.1–3.13](../gaura-charita-chintamani/ru/03.md?plain=1#L9-L173) · `gcc-0006`
+- gaura-charita-chintamani (C): Кирана 4, 1–22 — [4.1–4.22](../gaura-charita-chintamani/ru/04.md?plain=1#L9-L238) · `gcc-0007`
+- gaura-charita-chintamani (C): Кирана 5, 1–9 — [5.1–5.9](../gaura-charita-chintamani/ru/05.md?plain=1#L9-L95) · `gcc-0008`
+- gaura-charita-chintamani (C): Кирана 6, 1–16 — [6.1–6.16](../gaura-charita-chintamani/ru/06.md?plain=1#L9-L200) · `gcc-0009`
+- gaura-charita-chintamani (C): Кирана 7, 1–12 — [7.1–7.12](../gaura-charita-chintamani/ru/07.md?plain=1#L9-L237) · `gcc-0010`
+- gaura-charita-chintamani (C): Кирана 7, 13–16, 29–39 — [7.13–7.39](../gaura-charita-chintamani/ru/07.md?plain=1#L260-L450) · `gcc-0011`
+- gaura-charita-chintamani (C): Кирана 8, 1–21 — [8.1–8.21](../gaura-charita-chintamani/ru/08.md?plain=1#L9-L384) · `gcc-0012`
+- gaura-charita-chintamani (C): Кирана 9, 1–23 — [9.1–9.23](../gaura-charita-chintamani/ru/09.md?plain=1#L7-L329) · `gcc-0013`
+- gaura-charita-chintamani (C): Кирана 10, 1–27 — [10.1–10.27](../gaura-charita-chintamani/ru/10.md?plain=1#L9-L369) · `gcc-0014`
+- gaura-charita-chintamani (C): Кирана 11, 1–19 — [11.1–11.19](../gaura-charita-chintamani/ru/11.md?plain=1#L9-L253) · `gcc-0015`
+- gaura-charita-chintamani (C): Кирана 12, 1–11 — [12.1–12.11](../gaura-charita-chintamani/ru/12.md?plain=1#L9-L111) · `gcc-0016`
+- gaura-charita-chintamani (C): Кирана 13, 1–6 — [13.1–13.6](../gaura-charita-chintamani/ru/13.md?plain=1#L9-L60) · `gcc-0017`
+- gaura-charita-chintamani (C): Кирана 14, 1–8 — [14.1–14.8](../gaura-charita-chintamani/ru/14.md?plain=1#L9-L94) · `gcc-0018`
+- gaura-charita-chintamani (C): Кирана 15, 1–8 — [15.1–15.8](../gaura-charita-chintamani/ru/15.md?plain=1#L9-L82) · `gcc-0019`
+- gaura-charita-chintamani (C): Кирана 16, 1–8 — [16.1–16.8](../gaura-charita-chintamani/ru/16.md?plain=1#L9-L84) · `gcc-0020`
+- gaura-charita-chintamani (C): Кирана 17, 1–38 — [17.1–17.38](../gaura-charita-chintamani/ru/17.md?plain=1#L9-L506) · `gcc-0021`
+
 ## Господь посещает Адвайту / The Lord visits Advaita  `ev-visit-advaita` (1509–1510, возраст 23–24, оценка)
 
 - bhakti-ratnakara (B): Таранга 12, 2338–2348 — [2338–2348](../bhakti-ratnakara/ru/12.md?plain=1#L7569-L7599) · `brt-7047`
@@ -3415,6 +3447,7 @@
 
 ## Первый даршан Джаганнатхи / First darshan of Jagannatha  `ev-first-darshan-jagannatha` (1510–1510, возраст 24–24, вероятно)
 
+- sarvabhauma-shataka (D): Шл. 15 — [15–15](../sarvabhauma-shataka/ru/01.md?plain=1#L33-L33) · `ss-0002`
 - mahabhava-prakasha (C): Гл. 3, 49–63 — [3.49–3.63](../mahabhava-prakasha/ru/03.md?plain=1#L64-L78) · `mpk-0017`
 - advaita-prakasha (D): Гл. 15, 119–121 — [119. Затем, уз–121. Затем Гор](../advaita-prakash/15.md?plain=1#L123-L125) · `apr-0087`
 - cb (A): Антья 2, 426–452 — [426–452](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L2098-L2225) · `cb-3034`
@@ -3437,7 +3470,14 @@
 
 ## Встреча с Джаганнатхой Дасом, толкователем «Бхагаваты» / Meeting with Jagannatha Dasa, expounder of the Bhagavata  `ev-jagannatha-dasa-bhagavata-meeting` (1510–1510, возраст 24–24, оценка)
 
+- divakara-jcm (D): Гл. 2, 1–57 — [2.1–2.57](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L8-L76) · `dvk-0005`
 - vaishnava-lilamrita (C): Гл. 4, 36–50 — [4.36–4.50](../vaishnava-lilamrita/ru/04.md?plain=1#L44-L58) · `vlm-0002`
+
+## Гаудии уходят из Пури из-за титула «Атибада» / The Gaudiyas leave Puri over the title «Atibada»  `ev-gaudiyas-leave-over-atibada` (1510–1510, возраст 24–24, оценка)
+
+- divakara-jcm (D): Гл. 3, 58–104 — [3.58–3.104](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L78-L128) · `dvk-0009`
+- divakara-jcm (D): Гл. 3, 105–148 — [3.105–3.148](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L133-L180) · `dvk-0010`
+- divakara-jcm (D): Гл. 3, 149–188 — [3.149–3.188](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L185-L224) · `dvk-0011`
 
 ## Вечерний даршан: Джаганнатха становится золотистым / Evening darshan: Jagannatha turns golden  `ev-jagannatha-turns-golden` (1510–1510, возраст 24–24, оценка)
 
@@ -3473,10 +3513,14 @@
 - gaura-stotras (A): Рупа, Третья «Чайтаньяштака» 2 — [2–2](../stotras/ru/06.md?plain=1#L7-L7) · `gst-0025`
 - padas (C): Васу Гхош, ГПТ1 с. 402 (№ 2) «অচৈতন্য শ্রীচৈতন্য সার্ব্বভৌম-ঘরে» — [11.1–11.8](../padas/ru/03.md?plain=1#L335-L356) · `pad-0052`
 - cc (A): Мадхья 6.139–182 — [139–182](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1134-L1498) · `cc-1050`
+- divakara-jcm (D): Гл. 4, 1–39 — [4.1–4.39](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L8-L66) · `dvk-0012`
 - gaura-krishnodaya (B): Сарга 8, 55–56 — [55–56](../gaura-krishnodaya/ru/08.md?plain=1#L121-L123) · `gkd-0074`
 - cc (A): Мадхья 6.183–198 — [183–198](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1506-L1628) · `cc-1051`
+- divakara-jcm (D): Гл. 4, 40–105 — [4.40–4.105](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L72-L170) · `dvk-0013`
 - cc (A): Мадхья 6.199–215 — [199–215](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1636-L1764) · `cc-1052`
+- divakara-jcm (D): Гл. 4, 106–149 — [4.106–4.149](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L176-L223) · `dvk-0014`
 - cc (A): Мадхья 6.216–238 — [216–238](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1772-L1956) · `cc-1053`
+- divakara-jcm (D): Гл. 4, 150–161 — [4.150–4.161](../divakara-jagannatha-charitamrita/ru/04.md?plain=1#L228-L239) · `dvk-0015`
 - cc (A): Мадхья 6.239–247 — [239–247](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L1964-L2030) · `cc-1054`
 - cc (A): Мадхья 6.248–258 — [248–258](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L2038-L2126) · `cc-1055`
 - cc (A): Мадхья 6.259–278 — [259–278](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L2134-L2287) · `cc-1056`
@@ -4276,6 +4320,7 @@
 
 - cc (A): Мадхья 14.244–247 — [244–247](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L2002-L2026) · `cc-2071`
 - gaura-krishnodaya (B): Сарга 12, 21–22 — [21–22](../gaura-krishnodaya/ru/12.md?plain=1#L51-L53) · `gkd-0116`
+- divakara-jcm (D): Гл. 7, 1–19 — [7.1–7.19](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L8-L26) · `dvk-0019`
 
 ## Шёлковые верёвки для Джаганнатхи: служение жителей Кулинаграмы / Silk ropes for Jagannatha: the service of the residents of Kulinagrama  `ev-kulinagrama-silk-ropes` (1512–1514, возраст 26–28, оценка)
 
@@ -5424,6 +5469,7 @@
 
 ## Джаганнатха Дас получает имя «Атибада» / Jagannatha Dasa receives the name 'Atibada'  `ev-atibada-name` (1516–1533, возраст 30–47, оценка)
 
+- divakara-jcm (D): Гл. 3, 1–57 — [3.1–3.57](../divakara-jagannatha-charitamrita/ru/03.md?plain=1#L8-L73) · `dvk-0008`
 - vaishnava-lilamrita (D): Гл. 5, 109–129 — [5.109–5.129](../vaishnava-lilamrita/ru/05.md?plain=1#L130-L150) · `vlm-0135`
 
 ## Господь запрещает Санатане самоубийство: «твоё тело — Моя собственность» / The Lord forbids Sanatana's suicide: "your body is My property"  `ev-sanatana-suicide-forbidden` (1516–1533, возраст 30–47, оценка)
@@ -5581,6 +5627,8 @@
 
 ## Джаганнатха Дас принимает дикшу от Баларамы Даса; гнев Каши Мишры / Jagannatha Dasa takes initiation from Balarama Dasa; Kashi Mishra's anger  `ev-svami-initiated-by-balarama-dasa` (1516–1533, возраст 30–47, оценка)
 
+- divakara-jcm (D): Гл. 2, 58–141 — [2.58–2.141](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L82-L181) · `dvk-0006`
+- divakara-jcm (D): Гл. 2, 142–171 — [2.142–2.171](../divakara-jagannatha-charitamrita/ru/02.md?plain=1#L186-L215) · `dvk-0007`
 - vaishnava-lilamrita (C): Гл. 7, 1–18 — [7.1–7.18](../vaishnava-lilamrita/ru/07.md?plain=1#L8-L25) · `vlm-0144`
 
 ## Письмо Камалаканты Вишваса Пратапарудре о долге Адвайты: Господь наказывает «баулию», Адвайта радуется наказанию, Господь прощает и наставляет / Kamalakanta Vishvasa’s letter to Prataparudra about Advaita’s debt: the Lord punishes the “bauliya”, Advaita rejoices at the punishment, the Lord forgives and instructs  `ev-kamalakanta-letter-prataparudra` (1516–1533, возраст 30–47, оценка)
@@ -5731,6 +5779,13 @@
 ## Собрание в доме Каши Мишры в шукла-навами чайтры: Господь в самадхи обнимает Рамананду / The gathering at Kashi Mishra's house on the bright ninth of Chaitra: the Lord in trance embraces Ramananda  `ev-chaitra-navami-kashi-mishra-gathering` (1516–1533, возраст 30–47, оценка)
 
 - mahabhava-prakasha (C): Гл. 1, 99–107 — [1.99–1.107](../mahabhava-prakasha/ru/01.md?plain=1#L119-L127) · `mpk-0007`
+
+## Наставления Махапрабху о Харинаме, каваче Имени и мурти Джаганнатхи (по Дивакару Дасу) / Mahaprabhu's teachings on the Harinama, the kavacha of the Name and the murti of Jagannatha (according to Divakara Dasa)  `ev-divakara-name-mantra-teachings` (1516–1533, возраст 30–47, оценка)
+
+- divakara-jcm (D): Гл. 5, 25–108 — [5.25–5.108](../divakara-jagannatha-charitamrita/ru/05.md?plain=1#L34-L135) · `dvk-0017`
+- divakara-jcm (D): Гл. 6, 1–100 — [6.1–6.100](../divakara-jagannatha-charitamrita/ru/06.md?plain=1#L8-L139) · `dvk-0018`
+- divakara-jcm (D): Гл. 7, 20–63 — [7.20–7.63](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L31-L78) · `dvk-0020`
+- divakara-jcm (D): Гл. 7, 64–83 — [7.64–7.83](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L83-L105) · `dvk-0021`
 
 ## Рупа в созерцании лилы смеётся при виде вайшнава; взаимное испрашивание прощения / Rupa, absorbed in the vision of the lila, laughs on seeing a Vaishnava; mutual asking of forgiveness  `ev-rupa-laughs-vaishnava-offense` (1516–1533, возраст 30–47, оценка)
 
@@ -6132,6 +6187,10 @@
 
 - vaishnava-lilamrita (C): Гл. 9, 28–41 (продолжается) — [9.28–9.41](../vaishnava-lilamrita/ru/09.md?plain=1#L39-L52) · `vlm-0158`
 
+## Пратапарудра, переодетый, подметает джагамохану и повторяет Имя; Господь поручает Джаганнатхе Дасу наставить царя / Prataparudra, in disguise, sweeps the jagamohana and repeats the Name; the Lord entrusts Jagannatha Dasa with instructing the king  `ev-prataparudra-disguised-sweeper-name` (1533–1534, возраст 47–48, оценка)
+
+- divakara-jcm (D): Гл. 7, 84–105 — [7.84–7.105](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L106-L127) · `dvk-0022`
+
 ## Видение Враджи в небе перед уходом Господа / The vision of Vraja in the sky before the Lord's departure  `ev-vision-vraja-before-departure` (1533–1534, возраст 47–48, оценка)
 
 - gaura-krishnodaya (C): Сарга 18, 44–50 — [44–50](../gaura-krishnodaya/ru/18.md?plain=1#L97-L111) · `gkd-0186`
@@ -6140,6 +6199,7 @@
 
 - vaishnava-lilamrita (D): Гл. 9, 42–67 — [9.42–9.67](../vaishnava-lilamrita/ru/09.md?plain=1#L57-L82) · `vlm-0159`
 - advaita-prakasha (D): Гл. 21, 63–69 — [63. Однажды Го–69. Я ничтожне](../advaita-prakash/21.md?plain=1#L67-L73) · `apr-0145`
+- divakara-jcm (D): Гл. 7, 106–109 — [7.106–7.109](../divakara-jagannatha-charitamrita/ru/07.md?plain=1#L128-L131) · `dvk-0023`
 - gaura-krishnodaya (C): Сарга 18, 51–59 — [51–59](../gaura-krishnodaya/ru/18.md?plain=1#L113-L129) · `gkd-0187`
 - jayananda-cm (C): Виджая-кханда (75.2.14–15; 76.1.1–3) — статья Н. Васу 1897, «Особые сведения» 6 и краткое жизнеописание; Дж. Саркар 1922 — [6. Как Махапрабху сокрылся, — этой разди–Теперь мы узнали, что во время Ратха-ятр](../jayananda/ru/02-vasu-1897.md?plain=1#L710-L745); [> В Нилачале, ночью, Чайтанья в обители –> были падения метеоров, удары молний, землетрясения.](../jayananda/ru/02-vasu-1897.md?plain=1#L1359-L1428); [**Последняя сцена** (перевод из «Чайтань–Когда Он плясал на Биджае праздника коле](../jayananda/ru/04-sarkar-1922.md?plain=1#L7-L9) · `jcm-0099`
 - jayananda-cm (C): Уттара-кханда: краткое жизнеописание (Н. Васу 1897); Дж. Саркар 1922; цит. «После ухода Чайтаньи» — [> Нитьянанда и Адвайта Ачарья Госани усл–> все вайшнавы восклицают: «Слава, слава](../jayananda/ru/02-vasu-1897.md?plain=1#L1430-L1461); [Нитьянанда утешил учеников и поклялся пе–Нитьянанда утешил учеников и поклялся пе](../jayananda/ru/04-sarkar-1922.md?plain=1#L11-L11); [79:1–52:2](../jayananda/ru/05-quotes.md?plain=1#L1373-L1375) · `jcm-0100`
@@ -6523,8 +6583,13 @@
 - prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
 - bhakti-ratnakara (B): Таранга 4, 375–389 — [375–389](../bhakti-ratnakara/ru/04.md?plain=1#L1140-L1182) · `brt-0106`
 
+## Рождение Шьямананды в Дандешваре у Кришны Мандала и Дурики; отрешённость и уход из дома / Shyamananda's birth at Dandeshvara to Krishna Mandala and Durika; his detachment and leaving home  `ev-shyamananda-birth-dandeshvara` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 2, 1–37 — [1–37](../rasika-mangala/ru/1-02.md?plain=1#L10-L118) · `rm-0002`
+
 ## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Пурва 2, 38–54 — [38–54](../rasika-mangala/ru/1-02.md?plain=1#L121-L169) · `rm-0003`
 - bhakti-ratnakara (B): Таранга 1, 350–381 — [350–381](../bhakti-ratnakara/ru/01.md?plain=1#L1050-L1143) · `brt-0021`
 - bhakti-ratnakara (B): Таранга 6, 14–19 — [14–19](../bhakti-ratnakara/ru/06.md?plain=1#L44-L59) · `brt-3002`
 - prema-vilasa (C): Виласа 12, 200–256 — [200–256](../prema-vilasa/ru/12.md?plain=1#L602-L770) · `pvl-0077`
@@ -6534,6 +6599,10 @@
 ## Юный Нароттама слушает рассказы брахмана Кришнадаса о Господе, спутниках и Шринивасе / Young Narottama hears the brahmana Krishnadasa's accounts of the Lord, His associates and Srinivasa  `ev-narottama-hears-krishnadasa` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 2, 34–99 — [34–99](../narottama-vilasa/ru/02.md?plain=1#L104-L307) · `nvl-0011`
+
+## Странствие Шьямананды по святым местам Индии и возвращение во Врадж / Shyamananda's pilgrimage through the holy places of India and return to Vraja  `ev-shyamananda-pilgrimage` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 2, 55–105 — [55–105](../rasika-mangala/ru/1-02.md?plain=1#L172-L322) · `rm-0004`
 
 ## Духкхи Кришнадас приходит во Вриндаван: Рагхунатха Дас, Кришнадас Кавираджа, Джива / Duhkhi Krishnadasa comes to Vrindavana: Raghunatha Dasa, Krishnadasa Kaviraja, Jiva  `ev-shyamananda-comes-to-vrindavana` (1533–1534, возраст 47–48, оценка)
 
@@ -7197,6 +7266,10 @@
 - karnananda (C): Нирьяса 3, 274–432 — [274–432](../karnananda/ru/03.md?plain=1#L823-L1297) · `krn-0020`
 - karnananda (C): Нирьяса 3, 433–500 и колофон — [433–500](../karnananda/ru/03.md?plain=1#L1300-L1501) · `krn-0021`
 
+## Рохини в Маллабхуми; Ачьюта, отец Расикананды, женится на Бхавани из Катаки / Rohini in Mallabhumi; Achyuta, Rasikananda's father, marries Bhavani of Cuttack  `ev-achyuta-marries-bhavani` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 3, 27–87 — [27–87](../rasika-mangala/ru/1-03.md?plain=1#L89-L269) · `rm-0006`
+
 ## Рамачандра Кавираджа наставляет Виру Хамбира в садхана- и рагануга-бхакти / Ramachandra Kaviraja instructs Vira Hambira in sadhana- and raganuga-bhakti  `ev-ramachandra-instructs-vira-hambira` (1533–1534, возраст 47–48, оценка)
 
 - bhakti-ratnakara (B): Таранга 13, 53–61 — [53–61](../bhakti-ratnakara/ru/13.md?plain=1#L161-L185) · `brt-8005`
@@ -7204,8 +7277,56 @@
 - karnananda (C): Нирьяса 4, 39–474 и колофон — [39–474](../karnananda/ru/04.md?plain=1#L119-L1433) · `krn-0023`
 - karnananda (C): Нирьяса 6, 123–136 — [123–136](../karnananda/ru/06.md?plain=1#L411-L454) · `krn-0032`
 
+## Рождение Расикананды в Рохини в ночь Дипавали 1512 г. Шаки (1590) / Rasikananda's birth at Rohini on the night of Dipavali, 1512 Shaka (1590)  `ev-rasikananda-birth` (1590–1590, возраст 104–104, точно)
+
+- rasika-mangala (B): Пурва 3, 1–26 — [1–26](../rasika-mangala/ru/1-03.md?plain=1#L11-L86) · `rm-0005`
+- rasika-mangala (B): Пурва 4, 1–66 — [1–66](../rasika-mangala/ru/1-04.md?plain=1#L11-L206) · `rm-0007`
+- rasika-mangala (B): Пурва 4, 67–132 — [67–132](../rasika-mangala/ru/1-04.md?plain=1#L209-L404) · `rm-0008`
+
+## Наречение имени: Расика, а по просьбе Ачьюты — Мурари; младенец плачет, слыша песни о Кришне / Name-giving: Rasika, and at Achyuta's wish Murari; the infant weeps on hearing songs of Krishna  `ev-rasikananda-naming` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 5, 1–36 — [1–36](../rasika-mangala/ru/1-05.md?plain=1#L9-L184) · `rm-0009`
+
+## Первое кормление Расики рисом: из разложенных вещей он выбирает «Бхагаватам» / Rasika's first rice-feeding: among the objects laid out he chooses the Bhagavatam  `ev-rasikananda-annaprashana-bhagavata` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 6, 1–104 — [1–104](../rasika-mangala/ru/1-06.md?plain=1#L16-L325) · `rm-0010`
+
+## Даяладаси Тхакурани предсказывает служение Расики в Уткале и даёт ему на ухо имя Хари / Dayaladasi Thakurani foretells Rasika's service in Utkala and whispers the Name of Hari into his ear  `ev-dayaladasi-gives-name-rasika` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 7, 1–124 — [1–124](../rasika-mangala/ru/1-07.md?plain=1#L11-L380) · `rm-0011`
+
+## Мальчик Расика слушает «Бхагавату» на коленях у отца и падает без чувств при рассказе о разлуке гопи / The boy Rasika hears the Bhagavata on his father's lap and faints at the account of the gopis' separation  `ev-rasikananda-hears-bhagavata` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 8, 1–87 — [1–87](../rasika-mangala/ru/1-08.md?plain=1#L15-L273) · `rm-0012`
+
+## Учение Расики: грамматика и шастры у пяти учителей; Джаганнатха Мишра и Харидас Дубе / Rasika's studies: grammar and shastras under five teachers; Jagannatha Mishra and Haridasa Dube  `ev-rasikananda-studies` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 9, 1–89 — [1–89](../rasika-mangala/ru/1-09.md?plain=1#L16-L280) · `rm-0013`
+
+## Расика, услышав, что Кришна не вернулся во Врадж, семь дней скитается по лесам в разлуке; Дубе утешает его по «Бхагаватамрите» / Hearing that Krishna did not return to Vraja, Rasika wanders the forests seven days in separation; Dube consoles him from the Bhagavatamrita  `ev-rasikananda-seven-days-forest` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 10, 1–142 — [1–142](../rasika-mangala/ru/1-10.md?plain=1#L11-L434) · `rm-0014`
+
+## Свадьба Расики и Иччха-деи (Шьямадаси) в Хиджли / Rasika's wedding with Ichchha-dei (Shyamadasi) at Hijli  `ev-rasikananda-marries-ichchha` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 11, 1–23 — [1–23](../rasika-mangala/ru/1-11.md?plain=1#L9-L119) · `rm-0015`
+- rasika-mangala (B): Пурва 12, 1–154 — [1–154](../rasika-mangala/ru/1-12.md?plain=1#L11-L470) · `rm-0016`
+
+## Отрешённость Расики после свадьбы: он плачет в уединении и убеждает отца поклоняться Кришне / Rasika's detachment after the wedding: he weeps in solitude and urges his father to worship Krishna  `ev-rasikananda-detachment` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 13, 1–20 — [1–20](../rasika-mangala/ru/1-13.md?plain=1#L9-L104) · `rm-0017`
+
+## В лесу у Гхатшилы Расике является Кришна и возвещает, что его гуру будет Шьямананда / In the forest near Ghatshila Krishna appears to Rasika and announces that Shyamananda will be his guru  `ev-krishna-appears-to-rasika-ghatashila` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 14, 1–73 — [1–73](../rasika-mangala/ru/1-14.md?plain=1#L11-L227) · `rm-0018`
+
+## Говинда велит Шьямананде идти в Уткал к Расике; в Агре котвал заточает вайшнавов и, покаранный ночью, служит им / Govinda bids Shyamananda go to Utkala for Rasika; at Agra the kotwal imprisons the Vaishnavas and, punished at night, serves them  `ev-shyamananda-ordered-to-utkala-agra` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 15, 1–69 — [1–69](../rasika-mangala/ru/1-15.md?plain=1#L11-L215) · `rm-0019`
+
 ## Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара / Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara  `ev-shyamananda-utkala` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Дакшина 1, 1–102 — [1–102](../rasika-mangala/ru/2-01.md?plain=1#L13-L316) · `rm-0021`
 - bhakti-ratnakara (B): Таранга 9, 242–259 — [242–259](../bhakti-ratnakara/ru/09.md?plain=1#L728-L779) · `brt-4045`
 - narottama-vilasa (B): Виласа 3, 65–99 — [65–99](../narottama-vilasa/ru/03.md?plain=1#L200-L302) · `nvl-0024`
 - prema-vilasa (C): Виласа 19, 56–92 — [56–92](../prema-vilasa/ru/19.md?plain=1#L170-L278) · `pvl-0143`
@@ -7224,11 +7345,143 @@
 
 ## Расикананда (Расика Мурари): голос с неба, сон о Шьямананде, встреча и посвящение / Rasikananda (Rasika Murari): a voice from the sky, a dream of Shyamananda, the meeting and initiation  `ev-rasikananda-initiation` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Пурва 16, 1–90 — [1–90](../rasika-mangala/ru/1-16.md?plain=1#L11-L278) · `rm-0020`
 - bhakti-ratnakara (B): Таранга 15, 26–53 — [26–53](../bhakti-ratnakara/ru/15.md?plain=1#L80-L161) · `brt-8048`
+
+## Расика во Врадже: у Говардханы ему является Кришна в облике враджаваси и велит вернуться в Уткал / Rasika in Vraja: at Govardhana Krishna appears as a Vrajavasi and sends him back to Utkala  `ev-rasika-visits-vraja` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 2, 1–73 — [1–73](../rasika-mangala/ru/2-02.md?plain=1#L10-L226) · `rm-0022`
+
+## Расика оставляет дом и поселяется на Суварнарекхе; Шьямананда нарекает Божество Гопиваллабха-раем, а селение — Гопиваллабхапуром / Rasika leaves home and settles on the Suvarnarekha; Shyamananda names the Deity Gopivallabha Raya and the village Gopivallabhapura  `ev-gopivallabhapura-founded` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 3, 1–100 — [1–100](../rasika-mangala/ru/2-03.md?plain=1#L10-L307) · `rm-0023`
+
+## Шьямананда просит у Расики «подаяния» — спасти все живые существа; Расика в Дхаренде у Расамайи и Вамши; песнь юного Туласидаса / Shyamananda begs Rasika to deliver all beings; Rasika at Dharenda with Rasamaya and Vamshi; young Tulasidasa's song  `ev-rasika-dharenda-rasamaya` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 4, 1–70 — [1–70](../rasika-mangala/ru/2-04.md?plain=1#L10-L217) · `rm-0024`
+
+## Спор с пандитами в Дхаренде: Бхима Ширикара с родом принимает прибежище у Расики и оставляет убой животных / Debate with the pandits at Dharenda: Bhima Shirikara and his clan take shelter of Rasika and give up animal slaughter  `ev-bhima-shirikara-delivered` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 5, 1–67 — [1–67](../rasika-mangala/ru/2-05.md?plain=1#L11-L209) · `rm-0025`
+
+## Свадьба Шри Гопиваллабха-рая: явление Божества Тхакурани в Дхаренде; письмо Расики жителям Дхаренды / The wedding of Sri Gopivallabha Raya: the Thakurani Deity at Dharenda; Rasika's letter to the people of Dharenda  `ev-gopivallabha-wedding` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 6, 1–23 — [1–23](../rasika-mangala/ru/2-06.md?plain=1#L9-L119) · `rm-0026`
+
+## Расика исполняет и преподаёт шестьдесят четыре анги бхакти; почитает всякого вайшнава наравне с Кришной / Rasika practises and teaches the sixty-four limbs of bhakti; honours every Vaishnava equal to Krishna  `ev-rasika-sixty-four-angas` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 7, 1–66 — [1–66](../rasika-mangala/ru/2-07.md?plain=1#L11-L206) · `rm-0027`
+
+## По письму Шьямананды Расика, не доев, один, в сумерках и под дождём идёт к нему через лес с тиграми и слонами / At Shyamananda's letter Rasika leaves his meal and goes alone at dusk in the rain through a forest of tigers and elephants  `ev-rasika-forest-to-guru` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 8, 1–75 — [1–75](../rasika-mangala/ru/2-08.md?plain=1#L11-L233) · `rm-0028`
+
+## Ночью за гхи для вайшнавов Расика входит в дом могола; тот бьёт его, а затем, потеряв всё, становится садху / Fetching ghee for Vaishnavas at night, Rasika enters a Mughal's house; struck by him, the man later loses all and becomes a sadhu  `ev-rasika-mughal-ghee` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 9, 1–21 — [1–21](../rasika-mangala/ru/2-09.md?plain=1#L9-L109) · `rm-0029`
+
+## Панчама-дола в Бараколе — первый общий праздник Шьямананды и Расики / The Panchama-dola at Barakola — the first joint festival of Shyamananda and Rasika  `ev-panchama-dola-barakola` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 10, 1–73 — [1–73](../rasika-mangala/ru/2-10.md?plain=1#L11-L227) · `rm-0030`
+
+## Брак Шьямананды со Шьямаприей; «проклятие» Шьямадаси за оскорбление в служении Кришне / Shyamananda marries Shyamapriya; Shyamadasi's 'curse' for an offence in Krishna's service  `ev-shyamananda-marriage-shyamadasi-curse` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 11, 1–69 — [1–69](../rasika-mangala/ru/2-11.md?plain=1#L10-L214) · `rm-0031`
+
+## Расика в Раджгархе: спор с бхаттачарьями о сути всех шастр; раджа Вайдьянатха Бхандж с братьями и народом оставляет убой и принимает посвящение / Rasika at Rajgarh: debate with the bhattacharyas on the essence of all shastras; Raja Vaidyanatha Bhanja, his brothers and people give up slaughter and are initiated  `ev-vaidyanatha-bhanja-converted` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 12, 1–79 — [1–79](../rasika-mangala/ru/2-12.md?plain=1#L10-L244) · `rm-0032`
+- rasika-mangala (B): Дакшина 13, 1–75 — [1–75](../rasika-mangala/ru/2-13.md?plain=1#L11-L233) · `rm-0033`
+- rasika-mangala (B): Дакшина 14, 1–68 — [1–68](../rasika-mangala/ru/2-14.md?plain=1#L11-L212) · `rm-0034`
+- rasika-mangala (B): Дакшина 15, 1–135 — [1–135](../rasika-mangala/ru/2-15.md?plain=1#L11-L419) · `rm-0035`
+
+## Брахман Рамакришна даёт пощёчину радже за невнимание к «Бхагавате»; раджа благодарит его / The brahmana Ramakrishna slaps the raja for inattention to the Bhagavata; the raja thanks him  `ev-ramakrishna-slaps-raja` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Дакшина 16, 1–72 — [1–72](../rasika-mangala/ru/2-16.md?plain=1#L11-L224) · `rm-0036`
+
+## Спасение Удданды-рая в Нрисимхапуре: махапуруша во сне велит ему принять прибежище у Шьямананды / The deliverance of Uddanda Raya at Nrisimhapura: a mahapurusha in a dream bids him take shelter of Shyamananda  `ev-uddanda-delivered` (1533–1534, возраст 47–48, оценка)
+
+
+## Великая Раса-ятра в Гопиваллабхапуре: мальчики разыгрывают раса-лилу по пяти главам «Бхагаваты»; укус кобры / The great Rasa-yatra at Gopivallabhapura: boys enact the rasa-lila from the five chapters of the Bhagavata; the cobra's bite  `ev-gopivallabhapura-rasa-yatra` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 1, 1–71 — [1–71](../rasika-mangala/ru/3-01.md?plain=1#L14-L224) · `rm-0037`
+- rasika-mangala (B): Пашчима 2, 1–76 — [1–76](../rasika-mangala/ru/3-02.md?plain=1#L10-L235) · `rm-0038`
+- rasika-mangala (B): Пашчима 3, 1–65 — [1–65](../rasika-mangala/ru/3-03.md?plain=1#L11-L203) · `rm-0039`
+- rasika-mangala (B): Пашчима 4, 1–67 — [1–67](../rasika-mangala/ru/3-04.md?plain=1#L11-L209) · `rm-0040`
+- rasika-mangala (B): Пашчима 5, 1–84 — [1–84](../rasika-mangala/ru/3-05.md?plain=1#L10-L259) · `rm-0041`
+
+## Расика идёт в Банапур к наместнику Ахмеду Бегу, по пути давая Хари-наму всем, от раджей до чандалов / Rasika goes to Banapur to the governor Ahmad Beg, giving Hari-nama to all on the way, from rajas to chandalas  `ev-rasika-to-banapura-ahmad-beg` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 6, 1–20 — [1–20](../rasika-mangala/ru/3-06.md?plain=1#L9-L104) · `rm-0042`
+- rasika-mangala (B): Пашчима 7, 1–98 — [1–98](../rasika-mangala/ru/3-07.md?plain=1#L12-L303) · `rm-0043`
 
 ## Расикананда усмиряет слона и делает его учеником; правитель-явана склоняется / Rasikananda subdues an elephant and makes it his disciple; the Muslim ruler bows down  `ev-rasikananda-elephant` (1533–1534, возраст 47–48, оценка)
 
+- rasika-mangala (B): Пашчима 8, 1–106 — [1–106](../rasika-mangala/ru/3-08.md?plain=1#L11-L326) · `rm-0044`
 - bhakti-ratnakara (B): Таранга 15, 84–86 — [84–86](../bhakti-ratnakara/ru/15.md?plain=1#L262-L268) · `brt-8052`
+
+## Ахмед Бег и гаджапати Нрисимхадева принимают прибежище у Расики; звуки его флейты / Ahmad Beg and the Gajapati Nrisimhadeva take shelter of Rasika; the sound of his flute  `ev-ahmad-beg-gajapati-shelter` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 9, 1–80 — [1–80](../rasika-mangala/ru/3-09.md?plain=1#L11-L248) · `rm-0045`
+
+## Слон Гопала Дас слушает Кришна-катху и приносит рис заблудившимся вайшнавам / The elephant Gopala Dasa hears Krishna-katha and brings rice to the lost Vaishnavas  `ev-elephant-gopala-dasa-serves` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 10, 1–83 — [1–83](../rasika-mangala/ru/3-10.md?plain=1#L10-L256) · `rm-0046`
+
+## Явление Шри Говинды в Гопиваллабхапуре; Шьямананда являет Вриндаванчандру / The appearance of Sri Govinda at Gopivallabhapura; Shyamananda manifests Vrindavanachandra  `ev-govinda-gopivallabhapura-installed` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 11, 1–20 — [1–20](../rasika-mangala/ru/3-11.md?plain=1#L9-L104) · `rm-0047`
+
+## Шьямасундарпур; Шьямананда велит звать Расику «Тхакур Госани»; зов во Врадж / Shyamasundarpur; Shyamananda bids all call Rasika 'Thakur Gosani'; the call to Vraja  `ev-shyamasundarpura-founded` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 12, 1–78 — [1–78](../rasika-mangala/ru/3-12.md?plain=1#L11-L242) · `rm-0048`
+
+## Уход Шьямананды в Нрисимхапуре; он передаёт Расике власть в общине / Shyamananda's departure at Nrisimhapura; he hands Rasika the authority over the community  `ev-shyamananda-departure-nrisimhapura` (1630–1630, возраст 144–144, точно)
+
+- rasika-mangala (B): Пашчима 13, 1–75 — [1–75](../rasika-mangala/ru/3-13.md?plain=1#L11-L233) · `rm-0049`
+
+## Праздник разлуки по Шьямананде: Радхананда — адхикари служения Говинде; перечень ветвей Шьямананды / The festival of separation for Shyamananda: Radhananda made adhikari of Govinda's service; the branches of Shyamananda  `ev-shyamananda-viraha-mahotsava` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пашчима 14, 1–170 — [1–170](../rasika-mangala/ru/3-14.md?plain=1#L11-L518) · `rm-0050`
+- rasika-mangala (B): Пашчима 15, 1–86 — [1–86](../rasika-mangala/ru/3-15.md?plain=1#L11-L266) · `rm-0051`
+- rasika-mangala (B): Пашчима 16, 1–76 — [1–76](../rasika-mangala/ru/3-16.md?plain=1#L11-L236) · `rm-0052`
+- rasika-mangala (B): Уттара 1, 1–65 — [1–65](../rasika-mangala/ru/4-01.md?plain=1#L14-L206) · `rm-0053`
+
+## Расика устанавливает тридцать ежегодных праздников общины / Rasika establishes the thirty annual festivals of the community  `ev-rasika-annual-festivals` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 2, 1–64 — [1–64](../rasika-mangala/ru/4-02.md?plain=1#L11-L200) · `rm-0054`
+
+## Гордыня Удданды и заговор Гаурангадаси против Расики: три Тхакурани в Шьямасундарпуре; подложное письмо оборачивается стихами во славу Расики / Uddanda's pride and Gaurangadasi's plot against Rasika: the three Thakuranis at Shyamasundarpur; the forged letter turns into verses glorifying Rasika  `ev-uddanda-pride-three-thakuranis` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 3, 1–25 — [1–25](../rasika-mangala/ru/4-03.md?plain=1#L9-L129) · `rm-0055`
+- rasika-mangala (B): Уттара 4, 1–59 — [1–59](../rasika-mangala/ru/4-04.md?plain=1#L11-L185) · `rm-0056`
+- rasika-mangala (B): Уттара 5, 1–57 — [1–57](../rasika-mangala/ru/4-05.md?plain=1#L11-L179) · `rm-0057`
+
+## Двенадцатидневный праздник в Гопиваллабхапуре: Суварнарекха возвращается к берегу, дождь обходит собрание вайшнавов / The twelve-day festival at Gopivallabhapura: the Suvarnarekha returns to its bank, the rain spares the Vaishnava assembly  `ev-gopivallabhapura-twelve-day-festival` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 6, 1–61 — [1–61](../rasika-mangala/ru/4-06.md?plain=1#L11-L191) · `rm-0058`
+- rasika-mangala (B): Уттара 7, 1–63 — [1–63](../rasika-mangala/ru/4-07.md?plain=1#L10-L196) · `rm-0059`
+
+## Путь Расики в Нилачалу: пожар в Муктапуре, крушение лодки на Вайтарани / Rasika's journey to Nilachala: the fire at Muktapur, the boat capsizing on the Vaitarani  `ev-rasika-journey-nilachala` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 8, 1–21 — [1–21](../rasika-mangala/ru/4-08.md?plain=1#L9-L109) · `rm-0060`
+- rasika-mangala (B): Уттара 9, 1–74 — [1–74](../rasika-mangala/ru/4-09.md?plain=1#L10-L229) · `rm-0061`
+
+## Колесница Джаганнатхи, застывшая у Балиганди, трогается от прикосновения Расики / Jagannatha's chariot, stuck at Baliganda, moves at Rasika's touch  `ev-rasika-moves-ratha` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 10, 1–69 — [1–69](../rasika-mangala/ru/4-10.md?plain=1#L11-L215) · `rm-0062`
+
+## По требованию Шаха Шуджи Расика выводит из леса слонов; Хари-нама двум тиграм; спасение владыки колов; дождь в Шекхарабхуми / At Shah Shuja's demand Rasika brings elephants from the forest; Hari-nama to two tigers; the deliverance of the Kol chief; rain in Shekharabhumi  `ev-rasika-shah-shuja-elephants-tigers` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Уттара 11, 1–85 — [1–85](../rasika-mangala/ru/4-11.md?plain=1#L11-L263) · `rm-0063`
+- rasika-mangala (B): Уттара 12, 1–70 — [1–70](../rasika-mangala/ru/4-12.md?plain=1#L10-L217) · `rm-0064`
+- rasika-mangala (B): Уттара 13, 1–42 — [1–42](../rasika-mangala/ru/4-13.md?plain=1#L11-L134) · `rm-0065`
+
+## Уход Расикананды: он входит в тело Кширачоры Гопинатхи в Ремуне / Rasikananda's departure: he enters the form of Kshirachora Gopinatha at Remuna  `ev-rasikananda-departure-remuna` (1652–1652, возраст 166–166, вероятно)
+
+- rasika-mangala (B): Уттара 14, 1–86 — [1–86](../rasika-mangala/ru/4-14.md?plain=1#L10-L265) · `rm-0066`
+- rasika-mangala (B): Уттара 15, 1–69 — [1–69](../rasika-mangala/ru/4-15.md?plain=1#L11-L215) · `rm-0067`
+- rasika-mangala (B): Уттара 16, 1–63 — [1–63](../rasika-mangala/ru/4-16.md?plain=1#L10-L196) · `rm-0068`
 
 ## Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса / The disappearance of the Kheturi Deities; the six Deities and Gauranga's image from Vipradasa's granary  `ev-kheturi-six-deities` (1533–1534, возраст 47–48, оценка)
 
@@ -7524,6 +7777,14 @@
 ## Предки Госвами: от Сарваджни, царя Карнаты, до Кумары-девы / The ancestry of the Gosvamis: from Sarvajna, king of Karnata, to Kumara-deva  `ev-gosvamis-ancestry`
 
 - bhakti-ratnakara (B): Таранга 1, 540–580 — [540–580](../bhakti-ratnakara/ru/01.md?plain=1#L1657-L1769) · `brt-0029`
+
+## Гаура велит устанавливать в каждом доме мурти Хари и служить Радха-Кришне / Gaura bids the devotees install the Deity of Hari in every home and serve Radha-Krishna  `ev-ss-gaura-orders-hari-murti-every-home`
+
+- sarvabhauma-shataka (D): Шл. 2, 65 — [2–2](../sarvabhauma-shataka/ru/01.md?plain=1#L7-L7); [65–65](../sarvabhauma-shataka/ru/01.md?plain=1#L135-L135) · `ss-0003`
+
+## Вайшнавы по повелению Господа разносят Имя в каждую страну и каждый дом / By the Lord's order the Vaishnavas carry the Name to every land and every home  `ev-ss-vaishnavas-preach-every-home`
+
+- sarvabhauma-shataka (D): Шл. 30–35, 47–49 — [30–35](../sarvabhauma-shataka/ru/01.md?plain=1#L63-L73); [47–49](../sarvabhauma-shataka/ru/01.md?plain=1#L99-L103) · `ss-0004`
 
 ## Шри Чайтанья — Бхагаван; Брахман — Его сияние, Параматма — Его полное проявление / Sri Chaitanya is Bhagavan; Brahman is His effulgence, Paramatma His plenary portion  `ev-tattva-chaitanya-bhagavan`
 

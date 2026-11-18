@@ -9,7 +9,7 @@ cp divakara-jagannatha-charitamrita/KIT-README.md oriya-pilot/METHOD.md $K/
 for k in src full ru en; do cp vaishnava-lilamrita/$k/01.md $K/sample/$k.md; done
 S=sources/oriya/divakara-jagannatha-charitamrita
 P=$S/Divakara-Das_Jagannatha-Charitamrita_ed-Janardan-Kar_Cuttack-1927_IA-jagannathamruta-gita-1927.pdf
-for n in $(seq 2 47) $(seq 140 144); do pdfimages -png -f $n -l $n $P $T/x; mv $T/x-000.png $K/img/$(printf 'd-%03d.png' $n); done
+for n in $(seq 2 48) $(seq 140 144); do pdfimages -png -f $n -l $n $P $T/x; mv $T/x-000.png $K/img/$(printf 'd-%03d.png' $n); done
 cp $S/Divakara-Das_Jagannatha-Charitamrita_ed-Janardan-Kar_Cuttack-1927_IA-OCR.txt $K/ocr/DD_IA-OCR.txt
 cp sources/oriya/dictionaries/Brooks_*.pdf $K/dict/Brooks_1874.pdf
 cp sources/oriya/dictionaries/Maltby_*.pdf $K/dict/Maltby_1874.pdf

@@ -49,6 +49,42 @@ META = {
 }
 
 
+def lo_pdf(docx, pdf):
+    """PDF через LibreOffice из DOCX: reportlab неверно раскладывает ория рядом с кириллицей (наложения, квадраты).
+    В DOCX включаем «не растягивать строки с ручным переносом» (иначе стихи растягиваются по ширине)."""
+    import shutil, subprocess, tempfile, zipfile
+    tmp = docx + '.tmp'
+    with zipfile.ZipFile(docx) as zi, zipfile.ZipFile(tmp, 'w', zipfile.ZIP_DEFLATED) as zo:
+        for it in zi.infolist():
+            data = zi.read(it.filename)
+            if it.filename == 'word/settings.xml':
+                x = data.decode('utf-8')
+                if 'doNotExpandShiftReturn' not in x:
+                    x = (x.replace('<w:compat>', '<w:compat><w:doNotExpandShiftReturn/>', 1) if '<w:compat>' in x
+                         else x.replace('</w:settings>', '<w:compat><w:doNotExpandShiftReturn/></w:compat></w:settings>'))
+                data = x.encode('utf-8')
+            zo.writestr(it, data)
+    os.replace(tmp, docx)
+    fonts = os.path.expanduser('~/.fonts')
+    os.makedirs(fonts, exist_ok=True)
+    if not os.path.exists(os.path.join(fonts, os.path.basename(ORYA_FONT))):
+        shutil.copy(ORYA_FONT, fonts); subprocess.run(['fc-cache', '-f'], check=False)
+    with tempfile.TemporaryDirectory() as d:
+        subprocess.run(['soffice', '--headless', '--convert-to', 'pdf', '--outdir', d, docx], check=True,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        shutil.move(os.path.join(d, os.path.basename(docx)[:-5] + '.pdf'), pdf)
+
+
+def renumber(text, key):
+    """Сноски главы: словесные метки → номера по порядку первой ссылки ([^bhela-42] → [^01-1])."""
+    order = {}
+    for mm in re.finditer(r'\[\^([^\]]+)\](?!:)', text):
+        order.setdefault(mm.group(1), len(order) + 1)
+    for mm in re.finditer(r'(?m)^\[\^([^\]]+)\]:', text):     # определение без ссылки — в конец
+        order.setdefault(mm.group(1), len(order) + 1)
+    return re.sub(r'\[\^([^\]]+)\]', lambda mm: f'[^{key}-{order[mm.group(1)]}]', text)
+
+
 def build(lang):
     m = META[lang]
     toc, body = [], []
@@ -61,14 +97,14 @@ def build(lang):
         # служебная строка о файле full/CC.md в книге не нужна
         text = re.sub(r'(?m)^\*(Перевод с ория|Translated from O).*\n?', '', text)
         text = re.sub(r'(?m)^\[\^intro-1\]:.*\n?', '', text)   # сведения сноски — в предисловии
-        text = re.sub(r'\[\^([^\]]+)\]', lambda mm: f'[^{key}-{mm.group(1)}]', text)
+        text = renumber(text, key).replace('][^', '],[^')     # две сноски подряд: «1,2»
         toc.append('- ' + text.splitlines()[0].lstrip('# ').strip())
         body.append(text)
     md = m['preface'].rstrip() + '\n\n' + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
     open(os.path.join(HERE, m['out'] + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
     kb.build_docx(blocks, os.path.join(HERE, m['out'] + '.docx'))
-    kb.build_pdf(blocks, os.path.join(HERE, m['out'] + '.pdf'), m['title'], m['author'])
+    lo_pdf(os.path.join(HERE, m['out'] + '.docx'), os.path.join(HERE, m['out'] + '.pdf'))
     print(lang, 'ok', len(blocks))
 
 

@@ -1,0 +1,103 @@
+# Сарвабхаума Бхаттачарья (по преданию), «Сарвабхаума-шатака» — лилы и темы в порядке изложения (формат — ../README.md).
+# Перевод: sarvabhauma-shataka/ru/01.md, метки **N.** — номера шлок (101). Подлинность сомнительна: см. sarvabhauma-shataka/review/reports.md. Записи добавлять в конец.
+
+- id: ss-0001
+  source: sarvabhauma-shataka
+  ref: "Шл. 1–14"
+  file: "sarvabhauma-shataka/ru/01.md"
+  period: PX
+  order: 1
+  title: "Сотня шлок у стоп Гауры: Кришна, нисшедший в век Кали ради падших"
+  summary: "Автор склоняется перед Гаурой и приносит Ему «сотню [шлок]»; Гаура танцует в санкиртане, утвердив служение Радха-Кришне; Он даёт мадхура-бхакти по стопам враджских гопи; Он спасает павших от скверны Кали; Кришна, игравший с Радхой в роще, ныне пребывает на земле как Гаура вместе с Гададхарой; перечень признаков бхакти (служение гуру с доверием и др.)."
+  persons: ["@sarvabhauma", "@mahaprabhu", "@gadadhara-pandita"]
+  places: []
+  kind: author
+  authority: D
+  parallels: "ЧБ Антья 3 и ЧЧ Мадхья 6 упоминают сто шлок Сарвабхаумы; шл. 8c совпадает с перечнем анг бхакти в «Бхакти-расамрита-синдху»"
+  notes: "Отождествление с сотней шлок ЧБ/ЧЧ сомнительно: двух шлок Сарвабхаумы из ЧЧ Мадхья 6 («вайрагья-видья…», «калан наштам…») в тексте нет."
+  themes: [author]
+  teaching: [gaura-tattva, yuga-dharma]
+  verses:
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "1", to: "14"}
+
+- id: ss-0002
+  source: sarvabhauma-shataka
+  ref: "Шл. 15"
+  file: "sarvabhauma-shataka/ru/01.md"
+  period: P10
+  order: 2
+  title: "Первый даршан Пурушоттамы: Господь устремляется обнять Джаганнатху и падает без чувств"
+  summary: "Увидев Пурушоттаму, золотой Хари в радости устремился прижать к сердцу Того, чьё сияние подобно грозовой туче, и упал на землю, лишившись чувств от наплыва всех бхав."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Мадхья 6; ЧБ Антья 2"
+  notes: "Единственная шлока шатаки, прямо описывающая событие, очевидцем которого был Сарвабхаума."
+  themes: [jagannatha, ecstasy]
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "15", to: "15"}
+
+- id: ss-0003
+  source: sarvabhauma-shataka
+  ref: "Шл. 2, 65"
+  file: "sarvabhauma-shataka/ru/01.md"
+  period: PX
+  order: 3
+  title: "Повеление Гауры: мурти Хари в каждом доме"
+  summary: "Гаура утверждает в каждом доме служение Радха-Кришне и говорит преданным: «Мурти Хари с прекрасными членами, сладостную, изогнутую в трёх местах, устанавливайте в каждом доме»."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "В ЧЧ/ЧБ такого повеления нет; вероятно, отражает практику конца XVI в. и позднее."
+  themes: [teaching, deities]
+  teaching: [vaishnava, bhakti-supremacy]
+  event: ev-ss-gaura-orders-hari-murti-every-home
+  verses:
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "2", to: "2"}
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "65", to: "65"}
+
+- id: ss-0004
+  source: sarvabhauma-shataka
+  ref: "Шл. 30–35, 47–49"
+  file: "sarvabhauma-shataka/ru/01.md"
+  period: PX
+  order: 4
+  title: "Имя для всех: чандалы, яваны и грешники поют Имя; вайшнавы умоляют падших"
+  summary: "Когда нисшёл Гаура, чандалы, яваны, глупцы, женщины и дети стали вайшнавами и поют имена и качества Хари; вайшнавы из милости берут падших за руки и умоляют принять Имя; по повелению Господа они взывают Именем в каждой стране и в каждом доме; с тех пор как Гауранга стал раздавать прему, грешники, пьяницы и разбойники, опьянённые, громко поют Имя Кришны."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: D
+  parallels: "ср. ЧЧ Ади 7; ЧБ (Джагай и Мадхай)"
+  notes: ""
+  themes: [teaching, mercy, kirtan]
+  teaching: [holy-name, yuga-dharma]
+  event: ev-ss-vaishnavas-preach-every-home
+  verses:
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "30", to: "35"}
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "47", to: "49"}
+
+- id: ss-0005
+  source: sarvabhauma-shataka
+  ref: "Шл. 16–29, 36–46, 50–101"
+  file: "sarvabhauma-shataka/ru/01.md"
+  period: PX
+  order: 5
+  title: "Восхваления облика и качеств Гаурачандры; аштаки с припевами; обличение гаура-вимукх"
+  summary: "Описания облика Гауры (кудри, цветы, самоцветы, серьги, ожерелья — облик Навадвипы, а не санньяси); цикл из десяти шлок с припевом «да сияет в сердце Гаурачандра, царь танцоров» (52–61); аштака «Гаурачандра, поклон Тебе» (66–73); кто отвернулся от Гауранги, тот не бхагавата, даже если любит вайшнавов и жаден до киртана (83–87); молитвы о милости."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: D
+  parallels: "49 — отзвук Гиты 18.66; 38 — «Бхагавата» 9.4.18–20"
+  notes: "Сборный характер: вставные циклы с припевами, повторы пад. Ст. 39 (махатмы «равны Кришне») — сноска перевода."
+  themes: [author]
+  teaching: [gaura-tattva, vaishnava]
+  verses:
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "16", to: "29"}
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "36", to: "46"}
+    - {file: "sarvabhauma-shataka/ru/01.md", from: "50", to: "101"}

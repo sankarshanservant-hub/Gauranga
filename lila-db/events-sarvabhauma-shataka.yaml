@@ -1,0 +1,22 @@
+# События, заведённые при внесении «Сарвабхаума-шатаки» (sarvabhauma-shataka/; источник sarvabhauma-shataka).
+# Формат — README.md, раздел «События». Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-ss-gaura-orders-hari-murti-every-home
+  title: "Гаура велит устанавливать в каждом доме мурти Хари и служить Радха-Кришне"
+  title_en: "Gaura bids the devotees install the Deity of Hari in every home and serve Radha-Krishna"
+  period: PX
+  order: 50
+  cc: ""
+  cb: ""
+  themes: [teaching, deities]
+  notes: "Только «Сарвабхаума-шатака» 2, 65 (мурти в позе трибханги); в ЧЧ/ЧБ такого повеления нет; переводчик считает это признаком позднего происхождения текста."
+
+- id: ev-ss-vaishnavas-preach-every-home
+  title: "Вайшнавы по повелению Господа разносят Имя в каждую страну и каждый дом"
+  title_en: "By the Lord's order the Vaishnavas carry the Name to every land and every home"
+  period: PX
+  order: 51
+  cc: "ср. Ади 7.92–98; Мадхья 7.128"
+  cb: ""
+  themes: [teaching, mercy, kirtan]
+  notes: "«Сарвабхаума-шатака» 30–35, 47–49, 62: взгляд «задним числом» на распространение Имени — чандалы, яваны и грешники поют Имя, вайшнавы из милости умоляют падших его принять."
