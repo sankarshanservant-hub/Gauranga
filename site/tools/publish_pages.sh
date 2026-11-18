@@ -11,8 +11,6 @@ mkdir -p assets data
 cp -r "$ROOT/site/assets/img" "$ROOT/site/assets/audio" assets/
 cp -r "$ROOT/site/data/." data/
 cp -r "$ROOT/site/vendor" .
-# прототипы (включаются только ?proto=…): proto/
-[ -d "$ROOT/site/proto" ] && cp -r "$ROOT/site/proto" .
 # без интернета и установка (README.md): помощник, приглашение, манифест, значки
 cp "$ROOT/site/sw.js" "$ROOT/site/offline.js" "$ROOT/site/manifest.webmanifest" .
 cp -r "$ROOT/site/icons" .
