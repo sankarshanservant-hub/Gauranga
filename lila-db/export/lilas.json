@@ -2916,6 +2916,100 @@
   "attestation": 1
  },
  {
+  "id": "gcc-0023",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 17, 50–54",
+  "file": "gaura-charita-chintamani/ru/17.md",
+  "period": "P00",
+  "order": 52,
+  "title": "Ямуна рассказывает о переодеваниях Радхи",
+  "summary": "Ямуна завершает рассказ об играх в Явате и рассказывает ещё четыре игры: Радха, переодетая Субалой; Радха — «своя собственная вестница»; Радха под покрывалом, которую Вринда выдаёт за богиню никунджи; Радха под видом вестницы Чандравали.",
+  "persons": [
+   "@radha",
+   "@krishna",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#javat"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "Пады о Радхе, переодетой Субалой (Субала-милан)",
+  "notes": "Према гопи — чистая према (сноска 46 кираны 17).",
+  "themes": [
+   "krishna-lila"
+  ],
+  "event": "ev-gcc-radha-krishna-yavata",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/17.md",
+    "from": "17.50",
+    "to": "17.54"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/17.md",
+    "from": "17.50",
+    "to": "17.54",
+    "line": 784,
+    "line_to": 884,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/17.md?plain=1#L784-L884",
+    "file_en": "gaura-charita-chintamani/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/17.md?plain=1#L784-L884"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gcc-0024",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 17, 55–62",
+  "file": "gaura-charita-chintamani/ru/17.md",
+  "period": "P00",
+  "order": 53,
+  "title": "Нишанта и утро Радхи и Кришны; здесь рукопись обрывается",
+  "summary": "Ямуна начинает рассказ об играх Радхи и Кришны по периодам суток: на исходе ночи Вринда будит Пару голосами птиц, пчёлы предостерегают, Кришна наряжает Радху, раздаётся крик Каккхати, Они обмениваются одеждами и расстаются; утром Паурнамаси и Яшода будят Кришну, Мукхара и Джатила — Радху, а подруга объясняет жёлтую одежду на Её теле отблеском зари. На этом агартальская рукопись обрывается (сноска редактора).",
+  "persons": [
+   "@radha",
+   "@krishna",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#javat"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "«Говинда-лиламрита» 1–2 (нишанта и пратах Кришны)",
+  "notes": "Издание внутри кираны 17 заново считает строфы нишанты (1–5) и утра (1–2); у переводчика — сквозные 17.56–17.62. Колофона кираны 17 нет: текст обрывается на pdf 200.",
+  "themes": [
+   "krishna-lila"
+  ],
+  "event": "ev-gcc-radha-krishna-nishanta-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/17.md",
+    "from": "17.55",
+    "to": "17.62"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/17.md",
+    "from": "17.55",
+    "to": "17.62",
+    "line": 917,
+    "line_to": 1026,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/17.md?plain=1#L917-L1026",
+    "file_en": "gaura-charita-chintamani/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/17.md?plain=1#L917-L1026"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cb-3032",
   "source": "cb",
   "ref": "Антья 2, 315–395",

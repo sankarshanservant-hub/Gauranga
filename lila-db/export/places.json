@@ -9953,6 +9953,8 @@
   "section": "",
   "lilas": [
    "gcc-0022",
+   "gcc-0023",
+   "gcc-0024",
    "pvl-0044",
    "pvl-0046",
    "pvl-0066",
@@ -9965,6 +9967,7 @@
   ],
   "events": [
    "ev-gcc-radha-krishna-yavata",
+   "ev-gcc-radha-krishna-nishanta-pratah",
    "ev-lokanatha-sent-to-vrindavana",
    "ev-lokanatha-bhugarbha-in-vraja",
    "ev-narottama-initiation",

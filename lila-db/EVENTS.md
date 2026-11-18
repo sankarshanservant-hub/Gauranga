@@ -141,6 +141,11 @@
 ## Игры Радхи и Кришны в Явате (рассказ Ямуны Ганге, «Гаура-чарита-чинтамани») / Radha and Krishna's pastimes at Yavata (Yamuna's account to Ganga, Gaura-charita-chintamani)  `ev-gcc-radha-krishna-yavata`
 
 - gaura-charita-chintamani (C): Кирана 17, 39–49 — [17.39–17.49](../gaura-charita-chintamani/ru/17.md?plain=1#L513-L757) · `gcc-0022`
+- gaura-charita-chintamani (C): Кирана 17, 50–54 — [17.50–17.54](../gaura-charita-chintamani/ru/17.md?plain=1#L784-L884) · `gcc-0023`
+
+## Нишанта и утро Радхи и Кришны во Врадже (рассказ Ямуны, «Гаура-чарита-чинтамани») / The nishanta and morning of Radha and Krishna in Vraja (Yamuna's account, Gaura-charita-chintamani)  `ev-gcc-radha-krishna-nishanta-pratah`
+
+- gaura-charita-chintamani (C): Кирана 17, 55–62 — [17.55–17.62](../gaura-charita-chintamani/ru/17.md?plain=1#L917-L1026) · `gcc-0024`
 
 ## Шива, побеждённый Сударшаной за Каширадждой, получает от Кришны Экамра-вану / Shiva, defeated by Sudarshana for siding with the King of Kashi, receives Ekamra-vana from Krishna  `ev-shiva-receives-ekamra-kashiraja`
 
