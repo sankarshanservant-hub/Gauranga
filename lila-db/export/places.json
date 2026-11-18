@@ -384,6 +384,7 @@
    "kcm-0033",
    "lcm-0090",
    "mkc-0054",
+   "sn-0023",
    "brt-2008",
    "cc-0244",
    "ccd-0011",
@@ -1535,10 +1536,10 @@
    "ev-haridasa-arrives",
    "ev-haridasa-phulia-benapole",
    "ev-departure-for-gaya",
+   "ev-return-from-gaya-teaching",
    "ev-gaya-ishvara-puri-initiation",
    "ev-gaya-heavenly-voice-return",
    "ev-return-navadvipa-welcome",
-   "ev-return-from-gaya-teaching",
    "ev-chhakari-worship",
    "ev-advaita-gita-dream",
    "ev-shachi-receives-prema",
@@ -3708,6 +3709,9 @@
    "brt-6068",
    "brt-7041",
    "jcm-0033",
+   "sn-0021",
+   "sn-0022",
+   "sn-0023",
    "gkd-0043",
    "kcm-0035",
    "cb-0122",
@@ -3750,6 +3754,7 @@
    "ev-nityananda-pilgrimage",
    "ev-departure-for-gaya",
    "ev-gaya-ishvara-puri-initiation",
+   "ev-return-from-gaya-teaching",
    "ev-mandara-fever-brahmana-water",
    "ev-gaya-vishnupada-prema",
    "ev-jagannatha-mishra-accepts-pinda",
@@ -7622,6 +7627,7 @@
    "jcm-0093",
    "pvl-0274",
    "sn-0019",
+   "sn-0020",
    "jcm-0110"
   ],
   "events": [
@@ -7636,7 +7642,8 @@
    "ev-crowds-cross-ganga-phulia",
    "ev-shantipura-reunion",
    "ev-nityananda-preaching-gauda",
-   "ev-virachandra-marriage"
+   "ev-virachandra-marriage",
+   "ev-haridasa-namabhasa-yavanas"
   ]
  },
  {

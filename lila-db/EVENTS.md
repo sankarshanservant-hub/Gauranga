@@ -1444,6 +1444,7 @@
 - karnapura-ckm (A): Сарга 4, 21–24 — [21–24](../karnapura-mahakavya/ru/04.md?plain=1#L478-L545) · `kcm-0033`
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 1–17 — [1–17](../lochana/ru/23.md?plain=1#L11-L62) · `lcm-0090`
 - murari-kcc (A): Пракрама 1, сарга 15, шлоки 1–6 — [1–6](../murari-gupta/ru/1.15.md?plain=1#L5-L15) · `mkc-0054`
+- sanyal (C): Т. II, гл. 22 —  · `sn-0021`
 
 ## В пути в Гаю: урок об оленях / On the way to Gaya: the lesson of the deer  `ev-gaya-journey-deer-lesson` (1508–1509, возраст 22–23, оценка)
 
@@ -1460,6 +1461,7 @@
 
 ## Встреча с Ишварой Пури в Гае и посвящение / Meeting Ishvara Puri in Gaya and initiation  `ev-gaya-ishvara-puri-initiation` (1508–1509, возраст 22–23, оценка)
 
+- sanyal (C): Т. II, гл. 23 —  · `sn-0022`
 - gaura-krishnodaya (B): Сарга 5, 28–29 — [28–29](../gaura-krishnodaya/ru/05.md?plain=1#L63-L65) · `gkd-0043`
 - cb (A): Ади 17, 46–63 — [46–63](../chaitanya-bhagavata/ed/CB_Adi17.md?plain=1#L233-L315) · `cb-0122`
 - advaita-prakasha (D): Гл. 14, 1–19 — [1. Слава, слав–19. Увидев ско](../advaita-prakash/14.md?plain=1#L5-L23) · `apr-0068`
@@ -1509,6 +1511,7 @@
 
 ## После Гаи: Господь учит учеников, что истинное знание — бхакти / After Gaya: the Lord teaches His students that true knowledge is bhakti  `ev-return-from-gaya-teaching` (1509–1510, возраст 23–24, оценка)
 
+- sanyal (C): Т. II, гл. 24 —  · `sn-0023`
 - advaita-prakasha (D): Гл. 14, 22–48 — [22. Постепенно–48. А другие с](../advaita-prakash/14.md?plain=1#L26-L52) · `apr-0070`
 - bhakti-ratnakara (B): Таранга 2, 254–264 — [254–264](../bhakti-ratnakara/ru/02.md?plain=1#L764-L794) · `brt-0051`
 - cb (A): Мадхья 1, 144–186 — [144–186](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L725-L932) · `cb-1007`
@@ -5867,6 +5870,7 @@
 ## Беседа Господа с Харидасом: как спасутся яваны — проблеск имени (намабхаса) / The Lord's talk with Haridasa: how the yavanas will be delivered — namabhasa  `ev-haridasa-namabhasa-yavanas` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Антья 3.49–64 — [49–64](../chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L500-L699) · `cc-4028`
+- sanyal (C): Т. II, гл. 21 —  · `sn-0020`
 
 ## Харидас: санкиртана Господа освобождает движущихся и неподвижных существ / Haridasa: the Lord's sankirtana delivers moving and nonmoving beings  `ev-haridasa-sthavara-jangama-deliverance` (1516–1533, возраст 30–47, оценка)
 
