@@ -64019,7 +64019,7 @@
  {
   "id": "gcc-0014",
   "source": "gaura-charita-chintamani",
-  "ref": "Кирана 10, 1–14",
+  "ref": "Кирана 10, 1–27",
   "file": "gaura-charita-chintamani/ru/10.md",
   "period": "P07",
   "order": 99,
@@ -64048,20 +64048,77 @@
    {
     "file": "gaura-charita-chintamani/ru/10.md",
     "from": "10.1",
-    "to": "10.14"
+    "to": "10.27"
    }
   ],
   "verses_resolved": [
    {
     "file": "gaura-charita-chintamani/ru/10.md",
     "from": "10.1",
-    "to": "10.14",
+    "to": "10.27",
     "line": 9,
-    "line_to": 174,
-    "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/10.md?plain=1#L9-L174",
+    "line_to": 369,
+    "count": 27,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/10.md?plain=1#L9-L369",
     "file_en": "gaura-charita-chintamani/en/10.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/10.md?plain=1#L9-L174"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/10.md?plain=1#L9-L369"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gcc-0015",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 11, 1–19",
+  "file": "gaura-charita-chintamani/ru/11.md",
+  "period": "P07",
+  "order": 100,
+  "title": "Небесные женщины спорят о нагари Надии и о Гауре",
+  "summary": "Глядя с неба на Гауру во дворе Шачи, небесные женщины спорят о нагари Надии и о Самом Гауре: одна гневно защищает женщин Надии как верных жён, другие насмешливо отвечают и рассказывают, как женщины Надии на дорогах ищут Его даршана.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Позиция гаудия-вайшнавов о нагари и небожительницах (Бхактисиддханта против гаура-нагари-вады, ЧБ Ади 15) — сноски перевода.",
+  "themes": [
+   "celestial",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/11.md",
+    "from": "11.1",
+    "to": "11.19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/11.md",
+    "from": "11.1",
+    "to": "11.19",
+    "line": 9,
+    "line_to": 253,
+    "count": 19,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/11.md?plain=1#L9-L253",
+    "file_en": "gaura-charita-chintamani/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/11.md?plain=1#L9-L253"
    }
   ],
   "years": [
@@ -64339,6 +64396,69 @@
   "attestation": 4
  },
  {
+  "id": "gcc-0016",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 12, 1–11",
+  "file": "gaura-charita-chintamani/ru/12.md",
+  "period": "P07",
+  "order": 101,
+  "title": "Боги в небе над двором Шачи созерцают Гауру и поют Его имена",
+  "summary": "Сонмы богов, застыв в небе над двором Шачи, созерцают Гауру среди спутников, рассказывают друг другу о любви к Нему жителей Надии и о Его детских играх, славят Его красоту — соединение Гаури и Шьямы — и, танцуя, поют гирлянды Его имён («слава, Вишвамбхара, Кришна, сын Шачи…»).",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 1.5",
+  "notes": "«Соединение Гаури и Шьямы» — Гаура как Радха и Кришна в одном облике (ЧЧ Ади 1.5).",
+  "themes": [
+   "celestial",
+   "kirtan",
+   "ecstasy"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "holy-name"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/12.md",
+    "from": "12.1",
+    "to": "12.11"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/12.md",
+    "from": "12.1",
+    "to": "12.11",
+    "line": 9,
+    "line_to": 111,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/12.md?plain=1#L9-L111",
+    "file_en": "gaura-charita-chintamani/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/12.md?plain=1#L9-L111"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkd-0045",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 5, 31",
@@ -64527,6 +64647,63 @@
   "attestation": 4
  },
  {
+  "id": "gcc-0017",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 13, 1–6",
+  "file": "gaura-charita-chintamani/ru/13.md",
+  "period": "P07",
+  "order": 102,
+  "title": "Гандхарвы и киннары мечтают о служении Гауре",
+  "summary": "Гандхарвы и киннары, ликуя, созерцают Гауру в доме Шачи и поверяют друг другу стремления — пасть к Его стопам на берегу Ганги, слышать Его киртан, жить в Надии, пить Его красоту и служить Его стопам; затем, встав кругами в небе, поют Его славу.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "celestial",
+   "kirtan"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/13.md",
+    "from": "13.1",
+    "to": "13.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/13.md",
+    "from": "13.1",
+    "to": "13.6",
+    "line": 9,
+    "line_to": 60,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/13.md?plain=1#L9-L60",
+    "file_en": "gaura-charita-chintamani/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/13.md?plain=1#L9-L60"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0121",
   "source": "lochana-cm",
   "ref": "Мадхья-кханда, «Истина об Адвайте», 110–118",
@@ -64584,6 +64761,63 @@
    24
   ],
   "attestation": 6
+ },
+ {
+  "id": "gcc-0018",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 14, 1–8",
+  "file": "gaura-charita-chintamani/ru/14.md",
+  "period": "P07",
+  "order": 103,
+  "title": "Гандхарви и киннари поверяют подругам мечты о Гауре",
+  "summary": "Незримые гандхарви и киннари не сводят глаз с лица Гауры; одна за другой они поверяют подругам мечты — смотреть издали, как Гора идёт по дороге Надии, родиться молодой женой в Надии и вместе с нагари ходить к Нему.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Позиция гаудия-вайшнавов о нагари и небожительницах (Бхактисиддханта против гаура-нагари-вады, ЧБ Ади 15) — сноски перевода.",
+  "themes": [
+   "celestial",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/14.md",
+    "from": "14.1",
+    "to": "14.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/14.md",
+    "from": "14.1",
+    "to": "14.8",
+    "line": 9,
+    "line_to": 94,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/14.md?plain=1#L9-L94",
+    "file_en": "gaura-charita-chintamani/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/14.md?plain=1#L9-L94"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "mkc-0087",
@@ -64765,6 +64999,63 @@
    24
   ],
   "attestation": 6
+ },
+ {
+  "id": "gcc-0019",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 15, 1–8",
+  "file": "gaura-charita-chintamani/ru/15.md",
+  "period": "P07",
+  "order": 104,
+  "title": "Наги выходят из земли созерцать Гауру и славят Его милость",
+  "summary": "Наги, незримо выйдя из расселин земли, созерцают Гауру во дворе Шачи и рассказывают друг другу о Его играх на берегу Ганги, о красоте, перед которой теряют самообладание жители Надии, о Его милости к хромым, слепым и немым.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "celestial",
+   "mercy"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/15.md",
+    "from": "15.1",
+    "to": "15.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/15.md",
+    "from": "15.1",
+    "to": "15.8",
+    "line": 9,
+    "line_to": 82,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/15.md?plain=1#L9-L82",
+    "file_en": "gaura-charita-chintamani/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/15.md?plain=1#L9-L82"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "kcm-0063",
@@ -65071,6 +65362,63 @@
     "line_to": 1264,
     "count": 21,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya15.md?plain=1#L1104-L1264"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gcc-0020",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 16, 1–8",
+  "file": "gaura-charita-chintamani/ru/16.md",
+  "period": "P07",
+  "order": 105,
+  "title": "Жёны нагов славят удачу жителей Навадвипы",
+  "summary": "Жёны нагов, склонившись к стопам Гауры, в преме славят удачу жителей Навадвипы, сетуют на свою долю и рассказывают подругам о красоте и деяниях Гауры, которые им довелось видеть.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Позиция гаудия-вайшнавов о нагари и небожительницах (Бхактисиддханта против гаура-нагари-вады, ЧБ Ади 15) — сноски перевода.",
+  "themes": [
+   "celestial",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/16.md",
+    "from": "16.1",
+    "to": "16.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/16.md",
+    "from": "16.1",
+    "to": "16.8",
+    "line": 9,
+    "line_to": 84,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/16.md?plain=1#L9-L84",
+    "file_en": "gaura-charita-chintamani/en/16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/16.md?plain=1#L9-L84"
    }
   ],
   "years": [
@@ -65886,6 +66234,69 @@
    24
   ],
   "attestation": 8
+ },
+ {
+  "id": "gcc-0021",
+  "source": "gaura-charita-chintamani",
+  "ref": "Кирана 17, 1–38",
+  "file": "gaura-charita-chintamani/ru/17.md",
+  "period": "P07",
+  "order": 106,
+  "title": "Ганга и Ямуна тайно приходят к дому Шачи; Ганга рассказывает об играх Гауры и Вишнуприи по часам дня",
+  "summary": "Жители Надии спешат к дому Шачи, где Гаура сияет среди спутников; с ними тайно приходят Ганга и Ямуна, и Ямуна просит Гангу рассказать об играх Гауры и Вишнуприи днём и ночью; Ганга по порядку рассказывает о восьми периодах: Гаура встаёт и выходит из покоев, Вишнуприя с Шачи принимает Его остатки трапезы и делит их с подругами; игры пурваханны — тамбула, взгляды «глаза в глаза».",
+  "persons": [
+   "@mahaprabhu",
+   "@vishnupriya",
+   "@shachi",
+   "@ganga-devi",
+   "@narahari-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Игры с Вишнуприей — до санньясы, в доме Шачи; позиция гаудия-вайшнавов о нагара-бхаве — сноска 3 кираны 17.",
+  "themes": [
+   "family",
+   "ecstasy"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "event": "ev-gaura-ashtakala-pratah",
+  "verses": [
+   {
+    "file": "gaura-charita-chintamani/ru/17.md",
+    "from": "17.1",
+    "to": "17.38"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-charita-chintamani/ru/17.md",
+    "from": "17.1",
+    "to": "17.38",
+    "line": 9,
+    "line_to": 506,
+    "count": 38,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/ru/17.md?plain=1#L9-L506",
+    "file_en": "gaura-charita-chintamani/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-charita-chintamani/en/17.md?plain=1#L9-L506"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "jcm-0046",
