@@ -192,3 +192,82 @@
   event: ev-gaura-ashtakala-pratah
   verses:
     - {file: "gaura-charita-chintamani/ru/07.md", from: "7.1", to: "7.12"}
+
+- id: gcc-0011
+  source: gaura-charita-chintamani
+  ref: "Кирана 7, 13–16, 29–39"
+  file: "gaura-charita-chintamani/ru/07.md"
+  period: P07
+  order: 96
+  title: "Нагари Надии: рассказы продолжаются; свёкор хвалит Нимая Пандита как обуздавшего чувства"
+  summary: "Нагари продолжают рассказывать подругам о вчерашних встречах с Гаурой; свёкор с сыном хвалят Нимая Пандита как обуздавшего чувства и милостивого и велят не запрещать невесткам Его даршан — как жёны брахманов во Врадже обрели Кришну; одна невестка свободно выходит увидеть Гауру с Гададхарой и Нитьянандой, другая в доме Мурари Гупты видит, как женщины готовят Ему сандал и гирлянды; нагари вспоминают счастье минувшего дня. Колофон кираны 7."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@nityananda", "@murari-gupta", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Бхаг. 10.23 (жёны брахманов)"
+  notes: "Строфы 7.17–7.28 утрачены в скане (нет тетради печ. с. 81–88); после 7.30 в издании ॥39॥ (вероятно, опечатка). Позиция гаудия-вайшнавов о нагари — сноска 3 кираны 7."
+  themes: [ecstasy]
+  teaching: [prema]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/07.md", from: "7.13", to: "7.39"}
+
+- id: gcc-0012
+  source: gaura-charita-chintamani
+  ref: "Кирана 8, 1–21"
+  file: "gaura-charita-chintamani/ru/08.md"
+  period: P07
+  order: 97
+  title: "Нагари рассказывают сны о Гауре; юный Шьяма во сне становится Гаурой"
+  summary: "Утром нагари рассказывают друг другу сны минувшей ночи: одна во сне умащала Гауру сандалом и украшала гирляндами в доме Шриваса, другой в лесной беседке явился юный Шьяма и на её глазах стал Гаурой."
+  persons: ["@mahaprabhu", "@srivasa", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Сон, в котором Шьяма становится Гаурой, — образ единства Кришны и Гауры (ср. ЧЧ Мадхья 8.282 — Рамананда видит Кришну в Гауре). Позиция гаудия-вайшнавов о нагари — сноски перевода."
+  themes: [ecstasy, revelation]
+  teaching: [gaura-tattva]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/08.md", from: "8.1", to: "8.21"}
+
+- id: gcc-0013
+  source: gaura-charita-chintamani
+  ref: "Кирана 9, 1–23"
+  file: "gaura-charita-chintamani/ru/09.md"
+  period: P07
+  order: 98
+  title: "Астролог о величии Шачи; свекровь посылает невесток к Гауре; мечтания нагари"
+  summary: "Свекровь, обрадованная словами астролога о величии Шачи, сама посылает невесток в дом Шачи; нагари, ликуя, идут увидеть Гауру и по очереди рассказывают свои мечтания о встрече с Ним."
+  persons: ["@mahaprabhu", "@shachi", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Позиция гаудия-вайшнавов о нагари — сноски перевода."
+  themes: [ecstasy]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/09.md", from: "9.1", to: "9.23"}
+
+- id: gcc-0014
+  source: gaura-charita-chintamani
+  ref: "Кирана 10, 1–14"
+  file: "gaura-charita-chintamani/ru/10.md"
+  period: P07
+  order: 99
+  title: "Небесные женщины над Навадвипой любуются Гаурой и спорят о Его нраве"
+  summary: "На рассвете небесные женщины, кружа над Навадвипой, любуются Гаурой и дивятся преме жителей и нагари Надии; одна, видя Его томные глаза, решает, будто Он провёл ночь с нагари, подруги спорят о Его «тайных играх», а другая укоряет их: Гаура — сын учёнейшего Джаганнатхи Мишры, светильник чистого рода, идущий путём дхармы; одна из небожительниц жаждет стать спутницей нагари Надии."
+  persons: ["@mahaprabhu", "@narahari-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Ади 15 (Господь не шутил с женщинами); Бхаг. 7.9.38 (channaḥ kalau)"
+  notes: "Догадки небожительниц о «тайных играх нагары» — их пересуды, которые в самом тексте опровергаются; позиция гаудия-вайшнавов (Бхактисиддханта против гаура-нагари-вады) — сноски 2 и 12 кираны 10."
+  themes: [celestial, ecstasy]
+  teaching: [gaura-tattva]
+  event: ev-gaura-ashtakala-pratah
+  verses:
+    - {file: "gaura-charita-chintamani/ru/10.md", from: "10.1", to: "10.14"}

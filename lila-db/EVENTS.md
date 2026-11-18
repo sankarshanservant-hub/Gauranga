@@ -1821,6 +1821,10 @@
 - gaura-charita-chintamani (C): Кирана 5, 1–9 — [5.1–5.9](../gaura-charita-chintamani/ru/05.md?plain=1#L9-L95) · `gcc-0008`
 - gaura-charita-chintamani (C): Кирана 6, 1–16 — [6.1–6.16](../gaura-charita-chintamani/ru/06.md?plain=1#L9-L200) · `gcc-0009`
 - gaura-charita-chintamani (C): Кирана 7, 1–12 — [7.1–7.12](../gaura-charita-chintamani/ru/07.md?plain=1#L9-L237) · `gcc-0010`
+- gaura-charita-chintamani (C): Кирана 7, 13–16, 29–39 — [7.13–7.39](../gaura-charita-chintamani/ru/07.md?plain=1#L260-L450) · `gcc-0011`
+- gaura-charita-chintamani (C): Кирана 8, 1–21 — [8.1–8.21](../gaura-charita-chintamani/ru/08.md?plain=1#L9-L384) · `gcc-0012`
+- gaura-charita-chintamani (C): Кирана 9, 1–23 — [9.1–9.23](../gaura-charita-chintamani/ru/09.md?plain=1#L7-L329) · `gcc-0013`
+- gaura-charita-chintamani (C): Кирана 10, 1–14 — [10.1–10.14](../gaura-charita-chintamani/ru/10.md?plain=1#L9-L174) · `gcc-0014`
 
 ## Господь посещает Адвайту / The Lord visits Advaita  `ev-visit-advaita` (1509–1510, возраст 23–24, оценка)
 
