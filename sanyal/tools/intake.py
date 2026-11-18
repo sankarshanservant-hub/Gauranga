@@ -16,7 +16,7 @@ got = []
 for a, b in re.findall(r'(?m)^\[(\d+)(?:[–-](\d+))?\]', body):
     got += list(range(int(a), int(b or a) + 1))
 assert got == want, (portion, 'абзацы', sorted(set(want) ^ set(got)), len(want), len(got))
-for pat in (r'статуя|статуи|изваян|идол|вожделен|похот|страст',):
+for pat in (r'статуя|статуи|изваян|\bидол(?!опоклон)|вожделен|похот|(?<!при)(?<!беспри)страст',):
     for l in body.splitlines():
         if re.search(pat, l, re.I): print('СТОП-СЛОВО:', l[:150])
 body = re.sub(r'(?m)^\[\d+(?:[–-]\d+)?\]\s*', '', body)
