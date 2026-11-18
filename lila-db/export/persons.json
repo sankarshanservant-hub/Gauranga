@@ -39846,6 +39846,12 @@
    "rm-0005",
    "rm-0007",
    "rm-0008",
+   "rm-0009",
+   "rm-0010",
+   "rm-0011",
+   "rm-0012",
+   "rm-0013",
+   "rm-0014",
    "pad-0559",
    "brt-0022",
    "pad-0560",
@@ -39872,6 +39878,12 @@
   "events": [
    "ev-shyamananda-initiation-ambika",
    "ev-rasikananda-birth",
+   "ev-rasikananda-naming",
+   "ev-rasikananda-annaprashana-bhagavata",
+   "ev-dayaladasi-gives-name-rasika",
+   "ev-rasikananda-hears-bhagavata",
+   "ev-rasikananda-studies",
+   "ev-rasikananda-seven-days-forest",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-shyamananda-nupura",
    "ev-books-leave-vrindavana",
@@ -53940,11 +53952,23 @@
    "rm-0006",
    "rm-0007",
    "rm-0008",
+   "rm-0009",
+   "rm-0010",
+   "rm-0011",
+   "rm-0012",
+   "rm-0013",
+   "rm-0014",
    "brt-8048"
   ],
   "events": [
    "ev-achyuta-marries-bhavani",
    "ev-rasikananda-birth",
+   "ev-rasikananda-naming",
+   "ev-rasikananda-annaprashana-bhagavata",
+   "ev-dayaladasi-gives-name-rasika",
+   "ev-rasikananda-hears-bhagavata",
+   "ev-rasikananda-studies",
+   "ev-rasikananda-seven-days-forest",
    "ev-rasikananda-initiation"
   ],
   "related_by": [
@@ -54055,9 +54079,11 @@
   "note": "жена @rasikananda, дочь Балабхадры Даса из Хиджли; имя «Шьямадаси» дал при посвящении Шьямананда; адхикари служения в Гопиваллабхапуре («Расика-мангала» П10–П12, Д1, Д3; БР 15.30 — Иччха)",
   "section": "Аллегорические лица",
   "lilas": [
+   "rm-0014",
    "brt-8048"
   ],
   "events": [
+   "ev-rasikananda-seven-days-forest",
    "ev-rasikananda-initiation"
   ],
   "related_by": [
@@ -54076,11 +54102,67 @@
   "lilas": [
    "rm-0006",
    "rm-0007",
-   "rm-0008"
+   "rm-0008",
+   "rm-0009"
   ],
   "events": [
    "ev-achyuta-marries-bhavani",
-   "ev-rasikananda-birth"
+   "ev-rasikananda-birth",
+   "ev-rasikananda-naming"
+  ]
+ },
+ {
+  "id": "@dayaladasi-thakurani",
+  "ru": "Даяладаси Тхакурани",
+  "en": "Dayaladasi Thakurani",
+  "note": "«служанка Чайтаньи», держала храм в краю Рохини; дала младенцу @rasikananda имя Хари на ухо («Расика-мангала», Пурва 7)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0011"
+  ],
+  "events": [
+   "ev-dayaladasi-gives-name-rasika"
+  ]
+ },
+ {
+  "id": "@jagannatha-mishra-mallabhumi",
+  "ru": "Джаганнатха Мишра (учитель Расикананды)",
+  "en": "Jagannatha Mishra (Rasikananda's teacher)",
+  "note": "учитель в Маллабхуми, читал с @rasikananda «Бхагавату» («Расика-мангала», Пурва 9); не путать с @jagannatha-mishra",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0013"
+  ],
+  "events": [
+   "ev-rasikananda-studies"
+  ]
+ },
+ {
+  "id": "@haridasa-dube",
+  "ru": "Харидас (Хари) Дубе",
+  "en": "Haridasa (Hari) Dube",
+  "note": "учитель @rasikananda, знаток «Бхагаваты» и према-бхакти («Расика-мангала», Пурва 9–10)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0013",
+   "rm-0014"
+  ],
+  "events": [
+   "ev-rasikananda-studies",
+   "ev-rasikananda-seven-days-forest"
+  ]
+ },
+ {
+  "id": "@balabhadra-dasa-hijli",
+  "ru": "Балабхадра Дас",
+  "en": "Balabhadra Dasa",
+  "note": "правитель Хиджли, отец @shyamadasi, тесть @rasikananda («Расика-мангала», Пурва 10)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "rm-0014"
+  ],
+  "events": [
+   "ev-rasikananda-seven-days-forest"
   ]
  },
  {

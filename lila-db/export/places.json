@@ -8595,10 +8595,12 @@
   "note": "юго-запад Бенгалии; на пути в Пури («Кадача Говинды Даса»)",
   "section": "",
   "lilas": [
-   "gkr-0018"
+   "gkr-0018",
+   "rm-0014"
   ],
   "events": [
-   "ev-keshava-samanta-medinipur"
+   "ev-keshava-samanta-medinipur",
+   "ev-rasikananda-seven-days-forest"
   ]
  },
  {
@@ -12050,6 +12052,11 @@
    "rm-0006",
    "rm-0007",
    "rm-0008",
+   "rm-0009",
+   "rm-0010",
+   "rm-0011",
+   "rm-0012",
+   "rm-0014",
    "brt-8047",
    "brt-8048",
    "brt-8049"
@@ -12057,6 +12064,11 @@
   "events": [
    "ev-achyuta-marries-bhavani",
    "ev-rasikananda-birth",
+   "ev-rasikananda-naming",
+   "ev-rasikananda-annaprashana-bhagavata",
+   "ev-dayaladasi-gives-name-rasika",
+   "ev-rasikananda-hears-bhagavata",
+   "ev-rasikananda-seven-days-forest",
    "ev-shyamananda-utkala",
    "ev-rasikananda-initiation"
   ]
@@ -12564,10 +12576,12 @@
   "section": "",
   "lilas": [
    "rm-0006",
+   "rm-0013",
    "brt-8047"
   ],
   "events": [
    "ev-achyuta-marries-bhavani",
+   "ev-rasikananda-studies",
    "ev-shyamananda-utkala"
   ]
  },
@@ -12577,8 +12591,12 @@
   "en": "Hijli",
   "note": "приморский край у устья Хугли (Мединипур); родина жены Расикананды Иччхадеви (Шьямадаси), дочери правителя Балабхадры Даса («Расика-мангала» П10–П12)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "rm-0014"
+  ],
+  "events": [
+   "ev-rasikananda-seven-days-forest"
+  ]
  },
  {
   "id": "#chakulia",

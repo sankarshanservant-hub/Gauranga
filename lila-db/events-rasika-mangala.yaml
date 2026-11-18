@@ -42,3 +42,63 @@
   cb: ""
   themes: [family, celestial, revelation]
   notes: "«Расика-мангала», Пурва 4: чудесная беременность Бхавани, положение светил, младенец плачет, слыша имя Кришны."
+
+- id: ev-rasikananda-naming
+  title: "Наречение имени: Расика, а по просьбе Ачьюты — Мурари; младенец плачет, слыша песни о Кришне"
+  title_en: "Name-giving: Rasika, and at Achyuta's wish Murari; the infant weeps on hearing songs of Krishna"
+  period: P15
+  order: 102.7
+  cc: ""
+  cb: ""
+  themes: [family, ecstasy]
+  notes: "«Расика-мангала», Пурва 5."
+
+- id: ev-rasikananda-annaprashana-bhagavata
+  title: "Первое кормление Расики рисом: из разложенных вещей он выбирает «Бхагаватам»"
+  title_en: "Rasika's first rice-feeding: among the objects laid out he chooses the Bhagavatam"
+  period: P15
+  order: 102.8
+  cc: ""
+  cb: ""
+  themes: [family, revelation, kirtan]
+  notes: "«Расика-мангала», Пурва 6; ср. выбор «Бхагаваты» младенцем Нимаем в ЧБ."
+
+- id: ev-dayaladasi-gives-name-rasika
+  title: "Даяладаси Тхакурани предсказывает служение Расики в Уткале и даёт ему на ухо имя Хари"
+  title_en: "Dayaladasi Thakurani foretells Rasika's service in Utkala and whispers the Name of Hari into his ear"
+  period: P15
+  order: 102.9
+  cc: ""
+  cb: ""
+  themes: [mercy, revelation, kirtan]
+  notes: "«Расика-мангала», Пурва 7: после обряда прокалывания ушей; мальчик затем ежедневно повторяет сто тысяч имён и с детьми разыгрывает лилы Кришны."
+
+- id: ev-rasikananda-hears-bhagavata
+  title: "Мальчик Расика слушает «Бхагавату» на коленях у отца и падает без чувств при рассказе о разлуке гопи"
+  title_en: "The boy Rasika hears the Bhagavata on his father's lap and faints at the account of the gopis' separation"
+  period: P15
+  order: 103.0
+  cc: ""
+  cb: ""
+  themes: [ecstasy, separation, deities, kirtan]
+  notes: "«Расика-мангала», Пурва 8."
+
+- id: ev-rasikananda-studies
+  title: "Учение Расики: грамматика и шастры у пяти учителей; Джаганнатха Мишра и Харидас Дубе"
+  title_en: "Rasika's studies: grammar and shastras under five teachers; Jagannatha Mishra and Haridasa Dube"
+  period: P15
+  order: 103.05
+  cc: ""
+  cb: ""
+  themes: [learning]
+  notes: "«Расика-мангала», Пурва 9."
+
+- id: ev-rasikananda-seven-days-forest
+  title: "Расика, услышав, что Кришна не вернулся во Врадж, семь дней скитается по лесам в разлуке; Дубе утешает его по «Бхагаватамрите»"
+  title_en: "Hearing that Krishna did not return to Vraja, Rasika wanders the forests seven days in separation; Dube consoles him from the Bhagavatamrita"
+  period: P15
+  order: 103.1
+  cc: ""
+  cb: ""
+  themes: [separation, ecstasy, teaching]
+  notes: "«Расика-мангала», Пурва 10; затем Ачьюта ищет сыну невесту — Иччха-деи, дочь Балабхадры Даса из Хиджли."

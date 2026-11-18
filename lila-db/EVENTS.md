@@ -7281,7 +7281,19 @@
 
 - rasika-mangala (B): Пурва 3, 1–26 — [1–26](../rasika-mangala/ru/1-03.md?plain=1#L11-L86) · `rm-0005`
 - rasika-mangala (B): Пурва 4, 1–66 — [1–66](../rasika-mangala/ru/1-04.md?plain=1#L11-L206) · `rm-0007`
-- rasika-mangala (B): Пурва 4, 67–127 — [67–127](../rasika-mangala/ru/1-04.md?plain=1#L209-L389) · `rm-0008`
+- rasika-mangala (B): Пурва 4, 67–132 — [67–132](../rasika-mangala/ru/1-04.md?plain=1#L209-L404) · `rm-0008`
+
+## Наречение имени: Расика, а по просьбе Ачьюты — Мурари; младенец плачет, слыша песни о Кришне / Name-giving: Rasika, and at Achyuta's wish Murari; the infant weeps on hearing songs of Krishna  `ev-rasikananda-naming` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 5, 1–36 — [1–36](../rasika-mangala/ru/1-05.md?plain=1#L9-L184) · `rm-0009`
+
+## Первое кормление Расики рисом: из разложенных вещей он выбирает «Бхагаватам» / Rasika's first rice-feeding: among the objects laid out he chooses the Bhagavatam  `ev-rasikananda-annaprashana-bhagavata` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 6, 1–104 — [1–104](../rasika-mangala/ru/1-06.md?plain=1#L16-L325) · `rm-0010`
+
+## Даяладаси Тхакурани предсказывает служение Расики в Уткале и даёт ему на ухо имя Хари / Dayaladasi Thakurani foretells Rasika's service in Utkala and whispers the Name of Hari into his ear  `ev-dayaladasi-gives-name-rasika` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 7, 1–124 — [1–124](../rasika-mangala/ru/1-07.md?plain=1#L11-L380) · `rm-0011`
 
 ## Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара / Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara  `ev-shyamananda-utkala` (1533–1534, возраст 47–48, оценка)
 
@@ -7300,6 +7312,18 @@
 - bhakti-ratnakara (B): Таранга 10, 9–24 — [9–24](../bhakti-ratnakara/ru/10.md?plain=1#L29-L74) · `brt-5003`
 - bhakti-ratnakara (B): Таранга 10, 52–91 — [52–91](../bhakti-ratnakara/ru/10.md?plain=1#L158-L275) · `brt-5005`
 - bhakti-ratnakara (B): Таранга 10, 98–129 — [98–129](../bhakti-ratnakara/ru/10.md?plain=1#L296-L389) · `brt-5007`
+
+## Мальчик Расика слушает «Бхагавату» на коленях у отца и падает без чувств при рассказе о разлуке гопи / The boy Rasika hears the Bhagavata on his father's lap and faints at the account of the gopis' separation  `ev-rasikananda-hears-bhagavata` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 8, 1–87 — [1–87](../rasika-mangala/ru/1-08.md?plain=1#L15-L273) · `rm-0012`
+
+## Учение Расики: грамматика и шастры у пяти учителей; Джаганнатха Мишра и Харидас Дубе / Rasika's studies: grammar and shastras under five teachers; Jagannatha Mishra and Haridasa Dube  `ev-rasikananda-studies` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 9, 1–89 — [1–89](../rasika-mangala/ru/1-09.md?plain=1#L16-L280) · `rm-0013`
+
+## Расика, услышав, что Кришна не вернулся во Врадж, семь дней скитается по лесам в разлуке; Дубе утешает его по «Бхагаватамрите» / Hearing that Krishna did not return to Vraja, Rasika wanders the forests seven days in separation; Dube consoles him from the Bhagavatamrita  `ev-rasikananda-seven-days-forest` (1533–1534, возраст 47–48, оценка)
+
+- rasika-mangala (B): Пурва 10, 1–85 — [1–85](../rasika-mangala/ru/1-10.md?plain=1#L11-L263) · `rm-0014`
 
 ## Расикананда (Расика Мурари): голос с неба, сон о Шьямананде, встреча и посвящение / Rasikananda (Rasika Murari): a voice from the sky, a dream of Shyamananda, the meeting and initiation  `ev-rasikananda-initiation` (1533–1534, возраст 47–48, оценка)
 

@@ -135,7 +135,7 @@
 
 - id: rm-0008
   source: rasika-mangala
-  ref: "Пурва 4, 67–127"
+  ref: "Пурва 4, 67–132"
   file: "rasika-mangala/ru/1-04.md"
   period: P15
   order: 8
@@ -150,4 +150,118 @@
   themes: [family, kirtan, revelation]
   event: ev-rasikananda-birth
   verses:
-    - {file: "rasika-mangala/ru/1-04.md", from: "67", to: "127"}
+    - {file: "rasika-mangala/ru/1-04.md", from: "67", to: "132"}
+
+- id: rm-0009
+  source: rasika-mangala
+  ref: "Пурва 5, 1–36"
+  file: "rasika-mangala/ru/1-05.md"
+  period: P15
+  order: 9
+  title: "Наречение имени Расики; младенческие игры; плач при песнях о Кришне"
+  summary: "Астрологи составляют гороскоп и дают имя Расика, а по просьбе Ачьюты — Мурари; младенческие игры и украшения; слыша песни о Кришне, младенец плачет, и домашние, думая о дурном глазе, зовут знахарей; брахманы благословляют."
+  persons: ["@rasikananda", "@achyutananda-rayani", "@bhavani-rayani"]
+  places: ["#rohini-rayani"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [family, ecstasy]
+  event: ev-rasikananda-naming
+  verses:
+    - {file: "rasika-mangala/ru/1-05.md", from: "1", to: "36"}
+
+- id: rm-0010
+  source: rasika-mangala
+  ref: "Пурва 6, 1–104"
+  file: "rasika-mangala/ru/1-06.md"
+  period: P15
+  order: 10
+  title: "Детские игры Расики; на первом кормлении рисом он выбирает «Бхагаватам»"
+  summary: "Младенец ползает по двору и исполняет просьбы всех; на обряде анна-прашаны среди разложенных вещей он берёт «Бхагаватам»; киртан с детьми и экстаз при имени Кришны; он чтит Туласи, ашваттху, вайшнавов и брахманов, убирает святые места; горожане любят сына Ачьюты."
+  persons: ["@rasikananda", "@achyutananda-rayani"]
+  places: ["#rohini-rayani"]
+  kind: post-advent
+  authority: B
+  parallels: "ср. ЧБ Ади (Нимай выбирает «Бхагавату»)"
+  notes: ""
+  themes: [family, revelation, kirtan]
+  event: ev-rasikananda-annaprashana-bhagavata
+  verses:
+    - {file: "rasika-mangala/ru/1-06.md", from: "1", to: "104"}
+
+- id: rm-0011
+  source: rasika-mangala
+  ref: "Пурва 7, 1–124"
+  file: "rasika-mangala/ru/1-07.md"
+  period: P15
+  order: 11
+  title: "Прокалывание ушей; Даяладаси Тхакурани даёт младенцу имя Хари; сто тысяч имён в день"
+  summary: "На обряде прокалывания ушей Расика лишается чувств, услышав песнь музыкантов о Кришне; Даяладаси Тхакурани, «служанка Чайтаньи», держащая храм в этом краю, приходит увидеть младенца, берёт его на колени, предсказывает его служение в Уткале и даёт ему на ухо имя Хари; мальчик ежедневно повторяет сто тысяч имён и с детьми разыгрывает лилы Кришны по «Бхагавате»."
+  persons: ["@rasikananda", "@dayaladasi-thakurani", "@achyutananda-rayani"]
+  places: ["#rohini-rayani"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: "Даяладаси Тхакурани и её роль в детстве Расикананды известны только из «Расика-мангалы»."
+  themes: [mercy, revelation, kirtan, ecstasy]
+  event: ev-dayaladasi-gives-name-rasika
+  verses:
+    - {file: "rasika-mangala/ru/1-07.md", from: "1", to: "124"}
+
+- id: rm-0012
+  source: rasika-mangala
+  ref: "Пурва 8, 1–87"
+  file: "rasika-mangala/ru/1-08.md"
+  period: P15
+  order: 12
+  title: "Слушание «Бхагаваты»: обморок при рассказе о разлуке гопи; мальчик лепит Божество и устраивает санкиртану"
+  summary: "Расика день и ночь играет с детьми в лилы по «Бхагавате», забывая о еде; Ачьюта приглашает учёного брахмана читать «Бхагавату», и Расика на коленях отца слушает о деяниях Кришны в Матхуре и Двараке, а при рассказе о разлуке гопи падает без чувств; он лепит Божество и поклоняется Ему, устраивает с детьми санкиртану, играет в паломничество; люди называют его спутником Кришны."
+  persons: ["@rasikananda", "@achyutananda-rayani"]
+  places: ["#rohini-rayani"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [ecstasy, separation, deities, kirtan]
+  event: ev-rasikananda-hears-bhagavata
+  verses:
+    - {file: "rasika-mangala/ru/1-08.md", from: "1", to: "87"}
+
+- id: rm-0013
+  source: rasika-mangala
+  ref: "Пурва 9, 1–89"
+  file: "rasika-mangala/ru/1-09.md"
+  period: P15
+  order: 13
+  title: "Начало учения: пять учителей, Джаганнатха Мишра плачет над толкованиями мальчика; беседы с Харидасом Дубе о према-бхакти"
+  summary: "Астролог Васудева совершает обряд начала письма; Расика быстро осваивает буквы, затем грамматику и шастры у пяти учителей, куда его берёт отец, адхикари Маллабхуми, и превосходит всех в толковании; Джаганнатха Мишра читает с ним «Бхагавату» и, поражённый толкованиями, плачет и благословляет его; учёба у Харидаса Дубе, беседы о према-бхакти, хвала Дубе мальчику."
+  persons: ["@rasikananda", "@achyutananda-rayani", "@jagannatha-mishra-mallabhumi", "@haridasa-dube"]
+  places: ["#mallabhumi"]
+  kind: post-advent
+  authority: B
+  parallels: ""
+  notes: ""
+  themes: [learning]
+  event: ev-rasikananda-studies
+  verses:
+    - {file: "rasika-mangala/ru/1-09.md", from: "1", to: "89"}
+
+- id: rm-0014
+  source: rasika-mangala
+  ref: "Пурва 10, 1–85"
+  file: "rasika-mangala/ru/1-10.md"
+  period: P15
+  order: 14
+  title: "Семь дней в лесах в разлуке с Кришной; утешение по «Бхагаватамрите»; сватовство к дочери Балабхадры из Хиджли"
+  summary: "Читая с Хари Дубе Десятую песнь, Расика слышит, что Кришна не вернулся во Врадж, и, плача, как гопи в разлуке, семь дней без еды и воды скитается по лесам; Ачьюта с горожанами находит его; Дубе по «Бхагаватамрите» Рупы объясняет, что Кришна вернулся во Врадж и никогда не покидает его, и Расика приходит в себя; он становится знатоком шастр, слагает песни и шлоки, в нём растёт отрешённость; Ачьюта вызволяет Балабхадру Даса, правителя Хиджли, задержанного субадаром в Мединипуре, и тот предлагает Расике в жёны дочь Иччха-деи."
+  persons: ["@rasikananda", "@haridasa-dube", "@achyutananda-rayani", "@balabhadra-dasa-hijli", "@shyamadasi"]
+  places: ["#rohini-rayani", "#hijli", "#medinipur"]
+  kind: post-advent
+  authority: B
+  parallels: "Рупа, «Лагху-бхагаватамрита» (Кришна вечно во Врадже)"
+  notes: ""
+  themes: [separation, ecstasy, teaching, family]
+  event: ev-rasikananda-seven-days-forest
+  verses:
+    - {file: "rasika-mangala/ru/1-10.md", from: "1", to: "85"}
