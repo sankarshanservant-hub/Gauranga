@@ -544,6 +544,7 @@
 
 ## Явление Шри Гауранги / The appearance of Sri Gauranga  `ev-gaura-appearance` (1486–1486, возраст 0–0, точно)
 
+- sanyal (C): Т. II, гл. 3 —  · `sn-0002`
 - gaura-krishnodaya (B): Сарга 2, 9–18 — [9–18](../gaura-krishnodaya/ru/02.md?plain=1#L23-L43) · `gkd-0010`
 - advaita-prakasha (D): Гл. 10, 77–93 — [77. У Самого Б–93. При явлени](../advaita-prakash/10.md?plain=1#L81-L97) · `apr-0042`
 - bhakti-ratnakara (B): Таранга 12, 880–943 — [880–943](../bhakti-ratnakara/ru/12.md?plain=1#L2675-L2877) · `brt-6020`
@@ -690,6 +691,7 @@
 
 ## Дитя ложится на змея во дворе (Ананта служит Господу) / The Child lies down on a snake in the courtyard (Ananta serves the Lord)  `ev-child-lies-on-snake` (1486–1487, возраст 0–1, оценка)
 
+- sanyal (C): Т. II, гл. 4 —  · `sn-0003`
 - bhakti-ratnakara (B): Таранга 12, 982–985 — [982–985](../bhakti-ratnakara/ru/12.md?plain=1#L2997-L3006) · `brt-6025`
 - cb (A): Ади 4, 63–76 — [63–76](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L320-L385) · `cb-0036`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 73 (2.2, № 33) «নিমাই চঞ্চল খেপা কিছুই না মানে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 10 — [22.1–22.6](../padas/ru/19.md?plain=1#L587-L602) · `pad-0409`
@@ -736,6 +738,7 @@
 - cc (A): Ади 14.38 — [38–38](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L397-L397) · `cc-0207`
 - gaura-krishnodaya (B): Сарга 3, 24–29 — [24–29](../gaura-krishnodaya/ru/03.md?plain=1#L55-L65) · `gkd-0020`
 - padas (C): Нарахари (?), ГПТ1 с. 74 (2.2, № 35), двустишия 4–6 — [24.4–24.6](../padas/ru/19.md?plain=1#L649-L655) · `pad-0413`
+- sanyal (C): Т. II, гл. 5 —  · `sn-0004`
 
 ## Шачи слышит из уст Нимая звук флейты и имя Радхи / Shachi hears the sound of a flute and Radha's name from Nimai's mouth  `ev-flute-sound-radha-name` (1487–1491, возраст 1–5, оценка)
 
@@ -853,6 +856,7 @@
 - cb (A): Ади 6, 16–41 — [16–41](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L84-L203) · `cb-0047`
 - cc (A): Ади 10.69–71 — [69–71](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L703-L723) · `cc-0130`
 - cc (A): Ади 14.39 — [39–39](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L407-L407) · `cc-0208`
+- sanyal (C): Т. II, гл. 6 —  · `sn-0005`
 
 ## Нимай высмеивает йогу Мурари Гупты / Nimai mocks Murari Gupta's yoga  `ev-murari-yoga-mockery` (1487–1491, возраст 1–5, оценка)
 
@@ -896,6 +900,7 @@
 
 ## Санньяса Вишварупы / Vishvarupa's sannyasa  `ev-vishvarupa-sannyasa` (1491–1496, возраст 5–10, оценка)
 
+- sanyal (C): Т. II, гл. 7 —  · `sn-0006`
 - cb (A): Ади 7, 9–33 — [9–33](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L52-L172) · `cb-0050`
 - bhakti-ratnakara (B): Таранга 12, 1139–1152 — [1139–1152](../bhakti-ratnakara/ru/12.md?plain=1#L3495-L3537) · `brt-6047`
 - bhakti-ratnakara (B): Таранга 12, 2171–2177 — [2171–2177](../bhakti-ratnakara/ru/12.md?plain=1#L7068-L7086) · `brt-7025`
@@ -1006,6 +1011,7 @@
 
 ## Нимай приносит матери золото: «Кришна дал нам» / Nimai brings His mother gold: 'Krishna has given it to us'  `ev-nimai-brings-gold` (1491–1496, возраст 5–10, оценка)
 
+- sanyal (C): Т. II, гл. 8 —  · `sn-0007`
 - bhakti-ratnakara (B): Таранга 12, 1223–1225 — [1223–1225](../bhakti-ratnakara/ru/12.md?plain=1#L3782-L3788) · `brt-6055`
 - cb (A): Ади 8, 165–182 — [165–182](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L826-L911) · `cb-0062`
 
@@ -1138,6 +1144,7 @@
 
 ## Свадьба с Лакшмиприей / Marriage with Lakshmipriya  `ev-marriage-lakshmipriya` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 9 —  · `sn-0008`
 - advaita-prakasha (D): Гл. 12, 121–124 — [121. Мало-пома–124. Мой Госпо](../advaita-prakash/12.md?plain=1#L125-L128) · `apr-0059`
 - bhakti-ratnakara (B): Таранга 12, 1244–1359 — [1244–1359](../bhakti-ratnakara/ru/12.md?plain=1#L3854-L4256) · `brt-6058`
 - bhakti-ratnakara (B): Таранга 12, 2195–2200 — [2195–2200](../bhakti-ratnakara/ru/12.md?plain=1#L7140-L7155) · `brt-7029`
@@ -1227,6 +1234,7 @@
 
 ## Ишвара Пури в Навадвипе: встречи с Адвайтой и Нимаем / Ishvara Puri in Navadvipa: meetings with Advaita and Nimai  `ev-ishvara-puri-navadvipa` (1496–1508, возраст 10–22, оценка)
 
+- sanyal (C): Т. II, гл. 10 —  · `sn-0009`
 - advaita-prakasha (D): Гл. 13, 1–18 — [1. Слава, слав–18. Несколько д](../advaita-prakash/13.md?plain=1#L5-L22) · `apr-0061`
 - bhakti-ratnakara (B): Таранга 12, 1365 — [1365–1365](../bhakti-ratnakara/ru/12.md?plain=1#L4274-L4274) · `brt-6060`
 - bhakti-ratnakara (B): Таранга 12, 2205–2212 — [2205–2212](../bhakti-ratnakara/ru/12.md?plain=1#L7170-L7191) · `brt-7031`

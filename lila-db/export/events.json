@@ -1625,6 +1625,7 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
+   "sn-0002",
    "gkd-0010",
    "apr-0042",
    "brt-6020",
@@ -1660,7 +1661,8 @@
    "lochana-cm",
    "murari-kcc",
    "padas",
-   "prema-vilasa"
+   "prema-vilasa",
+   "sanyal"
   ]
  },
  {
@@ -2698,6 +2700,7 @@
    10
   ],
   "entries": [
+   "sn-0006",
    "cb-0050",
    "brt-6047",
    "brt-7025",
@@ -2725,7 +2728,8 @@
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "prema-vilasa"
+   "prema-vilasa",
+   "sanyal"
   ]
  },
  {
@@ -3475,6 +3479,7 @@
    22
   ],
   "entries": [
+   "sn-0008",
    "apr-0059",
    "brt-6058",
    "brt-7029",
@@ -3529,6 +3534,7 @@
    "lochana-cm",
    "murari-kcc",
    "padas",
+   "sanyal",
    "vaishnava-vandana"
   ]
  },
@@ -3619,6 +3625,7 @@
    22
   ],
   "entries": [
+   "sn-0009",
    "apr-0061",
    "brt-6060",
    "brt-7031",
@@ -3628,7 +3635,8 @@
   "sources": [
    "advaita-prakasha",
    "bhakti-ratnakara",
-   "cb"
+   "cb",
+   "sanyal"
   ]
  },
  {
@@ -19518,6 +19526,7 @@
    1
   ],
   "entries": [
+   "sn-0003",
    "brt-6025",
    "cb-0036",
    "pad-0409"
@@ -19525,7 +19534,8 @@
   "sources": [
    "bhakti-ratnakara",
    "cb",
-   "padas"
+   "padas",
+   "sanyal"
   ]
  },
  {
@@ -19599,14 +19609,16 @@
    "cb-0040",
    "cc-0207",
    "gkd-0020",
-   "pad-0413"
+   "pad-0413",
+   "sn-0004"
   ],
   "sources": [
    "bhakti-ratnakara",
    "cb",
    "cc",
    "gaura-krishnodaya",
-   "padas"
+   "padas",
+   "sanyal"
   ]
  },
  {
@@ -25503,12 +25515,14 @@
    10
   ],
   "entries": [
+   "sn-0007",
    "brt-6055",
    "cb-0062"
   ],
   "sources": [
    "bhakti-ratnakara",
-   "cb"
+   "cb",
+   "sanyal"
   ]
  },
  {
@@ -29204,12 +29218,14 @@
    "brt-7020",
    "cb-0047",
    "cc-0130",
-   "cc-0208"
+   "cc-0208",
+   "sn-0005"
   ],
   "sources": [
    "bhakti-ratnakara",
    "cb",
    "cc",
+   "sanyal",
    "vaishnava-vandana"
   ]
  },
