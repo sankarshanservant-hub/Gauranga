@@ -14267,6 +14267,7 @@
    "nvl-0065",
    "jcm-0001",
    "ss-0001",
+   "sna-0001",
    "gcc-0002",
    "lcm-0004",
    "vlm-0103",
@@ -24854,7 +24855,9 @@
    "pvl-0168",
    "nvv-0049",
    "nvv-0067",
+   "pn-0002",
    "lcm-0030",
+   "pn-0003",
    "jcm-0006",
    "jcm-0098",
    "cb-3089"
@@ -43730,7 +43733,9 @@
   "en": "Yadunatha Dasa, author of the Shakha-nirnayamrita",
   "note": "ученик Гададхары Пандита (T 50, 77, 97; B 740); не путать с @yadunatha-kavichandra",
   "section": "Спутники",
-  "lilas": [],
+  "lilas": [
+   "sna-0001"
+  ],
   "events": [],
   "related_by": [
    {
@@ -43742,6 +43747,29 @@
     "type": "disciple"
    }
   ]
+ },
+ {
+  "id": "@ramagopala-dasa-pata",
+  "ru": "Рамагопала Дас, автор «Пата-нирнаи»",
+  "en": "Ramagopala Dasa, author of the Pata-nirnaya",
+  "note": "бенгальский поэт, перечень патов спутников (хронограмма 1597 г. Шаки ≈ 1675)",
+  "section": "Спутники",
+  "lilas": [
+   "pn-0001"
+  ],
+  "events": []
+ },
+ {
+  "id": "@abhirama-dasa-author",
+  "ru": "Абхирама Дас, автор «Пата-парьятаны»",
+  "en": "Abhirama Dasa, author of the Pata-paryatana",
+  "note": "бенгальский поэт ветви Абхирамы Тхакура",
+  "section": "Спутники",
+  "lilas": [
+   "pn-0002",
+   "pn-0003"
+  ],
+  "events": []
  },
  {
   "id": "@bhagavata-dasa-gadadhara",
