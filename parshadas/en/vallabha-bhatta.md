@@ -399,6 +399,12 @@ distinguishes “the original Vallabha,” a follower of Gadadhara, from the tea
 Its reproaches concern the later tradition, not Vallabha himself, whom in the “Charitamrita” the Lord Himself calls a
 great devotee (Antya 7.127). <!-- F81 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Sri Vallabha Bhatta! Punish me yourself: I am drunk with pride and do not know myself.” (“Namamrita-samudra” 251)
+<!-- F88 -->
+
 ## Significance
 The life of Vallabha Bhatta bears witness to Mahaprabhu's mercy towards a scholar. At Prayaga, a pandita of noble family,
 he passed the Lord's test: in the humble Rupa and Anupama, on whose lips the name of Krishna dances, he saw “the best of

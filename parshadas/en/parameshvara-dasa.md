@@ -253,6 +253,12 @@ Srila Parameshvari Dasa Thakura” — the purnima of the month of Madhusudana (
 appearance of Srinivasa Acharya is observed. No source names the year or place of his departure, nor the day of his
 appearance. His samadhi is in Atpur, before the temple, between the bakulas and the kadamba. <!-- F53 F54 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Parameshvara Dasa, dear to Nityananda! Let not even a breeze of jnana and karma touch me.” (“Namamrita-samudra” 256)
+<!-- F55 -->
+
 ## Significance
 Parameshvari Dasa is Krishna's eternal friend Arjuna, who came with Balarama into the pastimes of Nityananda.
 “Nityananda is his life; in his body Nityananda plays”: so Vrindavana Dasa sees him, and therefore, in the words of

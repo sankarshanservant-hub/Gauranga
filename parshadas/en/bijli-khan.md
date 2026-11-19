@@ -218,6 +218,13 @@ attraction to true love, became blessed; even a wicked Yavana there became Ramad
 
 He names only Ramadasa; his master's name is not in this verse. <!-- F29 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with his companions:
+
+“Sri Bijuli Khan! Together with your companions be merciful: may renunciation be born in my mind.” (“Namamrita-samudra”
+272)
+<!-- F32 -->
+
 ## Significance
 The whole story of Bijli Khan, told by Kaviraja Gosvami in the eighteenth chapter of the Madhya-lila (verses 159–212)
 and retold by the biographies, fits into a single day on the road from Vraja to Prayaga. But that day shows that

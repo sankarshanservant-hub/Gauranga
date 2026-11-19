@@ -340,6 +340,13 @@ So the Lord, the Teacher of the world, was teaching the people when He reduced H
 Himself Ramachandra Puri’s disciple, and when He defended him before the devotees: He taught amanitva, taught that a
 sannyasi must not indulge the tongue, and taught where offence against the guru leads. <!-- I10 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Ramachandra Puri! Grant this always: that I never speak of Krishna to those who have no faith.” (“Namamrita-samudra”
+253)
+<!-- F47 -->
+
 ## Vibhishana
 Who Ramachandra Puri was before, Kavi Karnapura tells us:
 

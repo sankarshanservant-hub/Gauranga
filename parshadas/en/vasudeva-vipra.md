@@ -206,6 +206,13 @@ Srila Bhaktisiddhanta explains this verse in the “Anubhashya”: a Vaishnava's
 enjoyment, like the body of a karmi, a jnani or one with other desires. A devotee's body is full of spiritual bliss, fit
 for the service of Krishna, and in it eternity, knowledge and bliss shine forth. <!-- F40 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, asks of him what
+his story teaches:
+
+“Vasudeva Vipra! Take away my pride in the body: let there be no disgust in me, but abundant compassion for living
+beings.” (“Namamrita-samudra” 228)
+<!-- F41 -->
+
 ## Significance
 Vasudeva Vipra shows how the Lord finds a devotee whom the world does not notice. Destitute, sick and shunned, he was a noble
 brahmana and the best of devotees, and Mahaprabhu Himself came to him, Himself embraced him and Himself made his glory
