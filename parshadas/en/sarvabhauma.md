@@ -232,6 +232,126 @@ revealed eighteen, joining each word of the verse with the word “atmarama”: 
 said, are inconceivable and steal the hearts of the perfected and of seekers alike (6.187–198).[^8] Later the Lord called this
 “the madness in My words,” which Sarvabhauma took to be the truth (Madhya 24.7). <!-- F52 Q4 -->
 
+## Mercy
+Hearing these explanations, Sarvabhauma understood Who stood before him:
+
+“Hearing this, the Bhattacharya was struck with wonder. Knowing the Lord to be Krishna, he began to reproach himself: ‘He
+is Krishna Himself, and I, not knowing it, have committed a great offence in my pride.’ Reproaching himself, he took
+shelter of the Lord, and the Lord then resolved to show him mercy.” (CC, Madhya 6.199–201)
+
+One of the biographies says that, “utterly defeated,” he reproached himself for having neglected the path of bhakti until
+then. But it was not the debate that conquered Sarvabhauma. Gopinatha had said from the very beginning that God is known
+only by His mercy, and the “Charitamrita” stresses exactly this: the Lord “resolved to show him mercy,” “by the Lord's
+mercy all truths were revealed to him” (6.201, 6.205). The talks on Vedanta and on “atmarama” were only the occasion; what
+melted Sarvabhauma's heart was mercy. <!-- F53 -->
+
+And the Lord revealed Himself to him:
+
+“The Lord showed him His own form: He became four-armed. First He showed him the four-armed form, and then His very own
+form — dark, with the flute at His lips.” (CC, Madhya 6.202–203)
+
+Vrindavana Dasa describes this revelation differently: with a loud cry the Lord assumed a six-armed form, “wonderfully
+beautiful and shining like millions of suns,” and at the sight of it Sarvabhauma fell senseless (CB, Antya 3.100–108). The
+biographies describe the six-armed form of Gaurachandra thus: two arms of Sri Krishna, two of Sri Ramachandra and two His
+own.[^9] This was a darshana the Lord granted by His own will and mercy, not a “vision” in the worldly sense of the word: He
+Himself told Sarvabhauma to keep what he had seen secret as long as He remained in this world (3.148–149). The Deity of
+Mahaprabhu in His six-armed form, according to one of the biographies, is worshipped to this day in the Jagannatha temple
+in Puri. <!-- F54 F61 Q5 -->
+
+Sarvabhauma fell flat in obeisance, and by the Lord's mercy the whole truth awoke in him: he sang the power of the holy
+name and the greatness of the gift of prema, and in a moment, within less than half an hour, composed a hundred verses in
+the Lord's praise — “verses such as even Brihaspati could not compose” (CC, Madhya 6.206).[^10] The Lord embraced him, and
+Sarvabhauma lost consciousness in bliss; the eight sattvika transformations appeared on his body — tears, stupor, thrill,
+sweat, trembling — and he danced, sang, wept and fell down, longing to touch the Lord's feet (6.207–208). In Vrindavana Dasa
+the Lord places His hand on his head and His foot on his chest, and Sarvabhauma, clasping His feet, cries out: “Today I
+have caught the thief who stole my heart” (CB, Antya 3.109–113). <!-- F55 F56 F57 -->
+
+Gopinatha Acharya rejoiced: “It is that very Bhattacharya whom You have brought to such a state!” The Lord replied: “You
+are a devotee, and through association with you Jagannatha has shown him full mercy” (CC, Madhya 6.210–211). And
+Sarvabhauma, coming to himself, prayed:
+
+“That You have delivered the world is a small deed; that You have delivered me — that is a wondrous power! Logic had made
+me as hard and dull as a lump of iron, yet You have melted me — mighty is Your power!” (CC, Madhya 6.213–214)
+
+Vrindavana Dasa gives the Lord's answer as well:
+
+“Listen, Sarvabhauma: you are My eternal companion. That is why you can see My glory and greatness. It is for your sake
+alone that I have come here, so that you may worship Me without restraint.” (CB, Antya 3.142–143)
+
+A day later, when Gopinatha reminded him that his prediction had come true, Sarvabhauma bowed to him:
+
+“You are a great devotee (*maha-bhagavata*), and I am blinded by logic; the Lord has shown me mercy through my connection
+with you.” (CC, Madhya 6.246)
+
+Gopinatha danced for joy, clapping his hands, and Sarvabhauma glorified him as the kinsman through whom he had received
+mercy. <!-- F58 F133 -->
+
+## Two Verses
+Of the hundred verses, two have been preserved. After Jagannatha's darshana Sarvabhauma returned home with Jagadananda and
+Damodara, gave them much maha-prasada for the Lord, and wrote two verses on a palm leaf. Mukunda Datta took the leaf from
+Jagadananda's hands and copied them onto the wall at the entrance to the Lord's room; and when the Lord, having read it,
+tore the leaf up, the devotees had already learned the verses from the wall:[^11]
+
+“I take refuge in the one primeval Person, the ocean of mercy, who has assumed the form of Sri Krishna Chaitanya to teach
+detachment, knowledge and devotion to Himself.
+
+He appeared under the name Krishna Chaitanya to revive His own devotional yoga, which had been lost through time. May the
+bee of my mind sink deep, deep into His lotus feet.” (CC, Madhya 6.254–255; “Chaitanya-chandrodaya” 6.74–75)
+
+These two verses, says Krishnadasa Kaviraja, “are a jewelled necklace on the devotees' necks, and like the beat of a great
+drum they proclaim Sarvabhauma's glory” (6.256). Murari Gupta, too, gives the same two verses as Sarvabhauma's prayer: in
+his account Sarvabhauma addresses the Lord after He, before many brahmanas, has set forth to him the hidden meaning of
+Vedanta — shelter at His feet (3.12.12–18). Vrindavana Dasa paraphrases verses close to them among those Sarvabhauma
+uttered while holding the Lord's feet (CB, Antya 3.123–127). <!-- F59 F60 Q6 F134 -->
+
+## Faith in Maha-prasada
+The next morning, just before sunrise, the Lord Himself came to Sarvabhauma's house with Jagannatha's prasada and garland.
+Sarvabhauma had just woken and, rising, cried out, “Krishna! Krishna!” — and the Lord rejoiced to hear it. Without having
+brushed his teeth or bathed, Sarvabhauma joyfully honoured the prasada, reciting two verses of the “Padma Purana,” the
+first of which runs:
+
+“Even if it is dry, stale or brought from a distant land, it should be eaten as soon as it is received. Here there is no
+consideration of time.” (CC, Madhya 6.225)
+
+Seeing this, the Lord embraced him, and both danced in tears, trembling and sweat. The Lord said:
+
+“Today I have conquered the three worlds without effort. Today I have ascended to Vaikuntha. Today all My desires are
+fulfilled, for Sarvabhauma has come to have faith in maha-prasada.” (CC, Madhya 6.230–231) <!-- F62 Q7 -->
+
+“From that time the Bhattacharya's pride was broken. He knew nothing but Chaitanya's feet, and he explained scripture as
+teaching nothing but bhakti.” (CC, Madhya 6.236–237)
+
+The next day Sarvabhauma came to the Lord before he had even seen Jagannatha, repenting of his former frame of mind, and
+asked what is most important in the practice of bhakti. The Lord answered: nama-sankirtana — and explained the verse
+“*harer nama harer nama harer namaiva kevalam*” (6.239–243). From then on Sarvabhauma constantly repeated the names of Sri
+Krishna Chaitanya, the son of Shachi; this became his meditation and the essence of his practice (6.257–258). <!-- F123 F124 -->
+
+## “Bhakti-pade”
+Once, bowing to the Lord, Sarvabhauma recited Brahma's prayer from the “Bhagavatam” (10.14.8) — but as he recited it he
+changed two syllables at the end: instead of *mukti-pade* (“at the feet of liberation”) he said *bhakti-pade*. The Lord
+asked why he had changed the verse. Sarvabhauma answered that the fruit of bhakti is higher than liberation, that merging
+into the impersonal Brahman is given as punishment to those hostile to God's service, and that devotees do not accept it.
+The Lord objected that the word *mukti-pada* has another meaning too: He at whose feet liberation dwells — that is,
+Krishna Himself. But Sarvabhauma stood his ground:
+
+“When I say the word ‘mukti’, my mind feels disgust and dread; when I say the word ‘bhakti’, it fills with delight.” (CC,
+Madhya 6.276)
+
+The Lord laughed and embraced him firmly. So the fearless champion of Advaita became a steadfast champion of bhakti: “The
+Bhattacharya had once studied and taught Mayavada, yet by Chaitanya's grace such words now sprang from his lips” (6.278).
+One of the biographies says that through his association with the Lord he could not even bring himself to say
+“liberation” and said “devotion” instead. <!-- F63 F64 F65 Q8 -->
+
+The conversion of the foremost scholar of Puri became a sign to all: “seeing the Bhattacharya become a Vaishnava, everyone
+knew the Lord to be the son of the king of Vraja Himself,” and Kashi Mishra and all the residents of Nilachala came to take
+shelter at His feet (CC, Madhya 6.280–281). The scholars of Puri took His shelter, and after them many nobles of Odisha and
+the king himself came to the Lord. <!-- F66 -->
+
+Kavi Karnapura in his mahakavya adds one more story. When the Lord was already leaving Puri for the south, Gopinatha showed
+Him a manuscript, and in a verse of Sarvabhauma's the Lord saw the name “Krishna”; He fell down in ecstasy and next
+morning, thinking He had offended Sarvabhauma, returned to Puri to serve him (mahakavya 12.35–58). In Karnapura, too, the
+Lord shows Sarvabhauma a four-armed form (12.33). <!-- F134 -->
+
 [^1]: According to one of the biographies, Vidyanagara lies on the outskirts of Navadvipa, whose centre is held to be
     Mayapur, the Lord's birthplace, and is called a quarter of Navadvipa. Srila Bhaktisiddhanta in the “Anubhashya” on CC,
     Adi 10.130 (as another biography reports) writes that it is a village about two and a half miles from both Navadvipa
@@ -255,3 +375,14 @@ said, are inconceivable and steal the hearts of the perfected and of seekers ali
     conversion, who quotes Shankara's verse on devotion (CB, Antya 3.47–54).
 [^8]: In Vrindavana Dasa Sarvabhauma gives thirteen explanations, and the Lord's are not counted (CB, Antya 3.94–98). Nine
     and eighteen are according to the “Charitamrita” (Madhya 6.190, 6.195; 24.4).
+[^9]: So say the biographies; Vrindavana Dasa does not enumerate the arms. According to tradition the Lord held the bow and
+    arrow of Rama, the flute of Krishna, and the staff and waterpot of a sannyasi. The “Charitamrita” and Karnapura's
+    mahakavya speak of a four-armed form and the form of Krishna, while Vrindavana Dasa and Lochana Dasa speak of a
+    six-armed one (Lochana, 45.243–245); one of the biographies combines the accounts: first the four-armed form, then
+    Krishna with the flute, and finally the six-armed form.
+[^10]: One of the biographies speaks of a hundred and one verses and calls the hymn the “Sri Chaitanya-shatakam.” The
+    “Charitamrita” and Vrindavana Dasa speak of a hundred; in Vrindavana Dasa the Lord foretells that whoever hears or reads
+    them will attain devotion to Him, and that the hymn will be known as the “Sarvabhauma-shataka” (CB, Antya 3.130,
+    3.146–147).
+[^11]: So in the “Charitamrita” (Madhya 6.251–252) and in Karnapura's drama; one of the biographies in one place ascribes it
+    to Jagadananda.
