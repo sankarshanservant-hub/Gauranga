@@ -22,7 +22,7 @@ Krishna's eternal pastimes: Sadashiva Pandita does not appear in the “Gaura-ga
 belongs to Sri Advaita and to Sadashiva Kaviraja, a different person.[^1] <!-- F5 -->
 
 ## Nityananda Lived in His House
-A special fortune fell to Sadashiva Pandita when Sri Nityananda Prabhu came to Navadvipa. Krishnadasa Kaviraja says
+A special fortune fell to Sadashiva Pandita when Sri Nityananda Prabhu arrived in Navadvipa. Krishnadasa Kaviraja says
 that at first (*prathamei*) Nityananda lived in his house, and Vrindavana Dasa that Nityananda formerly (*purve*) lived
 in his house. According to the biographies, on coming to Navadvipa Nityananda stayed with him before anyone else, and
 Sadashiva's house became Nityananda's first dwelling in Navadvipa.[^2] <!-- F6 -->
@@ -65,7 +65,7 @@ Seeing and hearing of the unheard-of transformations of love in the Lord, they m
 another, they shared what each thought of what they had seen (CB, Madhya 1.109–110). <!-- F10 -->
 
 That the Lord called Sadashiva among the few to whom He would reveal the secret pain of separation from Krishna shows
-how dear he was to Him. <!-- I1 -->
+how near he was to the Lord's heart. <!-- I1 -->
 
 ## The Night Kirtanas
 When the Lord began sankirtana, the devotees sang with Him every night in the house of Shrivasa, and sometimes in the
@@ -74,7 +74,7 @@ part in these kirtanas, beside Vakreshvara, Shrigarbha and Shuklambara (CB, Madh
 repeats the same list (12.1853). Thus he was among those with whom the sankirtana movement began. <!-- F13 Q6 -->
 
 One of the biographies observes: worldly people are absorbed in their affairs by day and sleep by night, but the
-devotees who had taken shelter of the Lord did not sleep at night, spending the nights in kirtana — and Sadashiva was
+devotees who had made the Lord their refuge let the nights pass not in sleep but in kirtana — and Sadashiva was
 among them. <!-- I2 -->
 
 He was with the Lord too when, after the deliverance of Jagai and Madhai, the Lord sported with His companions in the
@@ -157,8 +157,8 @@ to fulfil it in boundless joy. Of when and how he left this world the sources ar
     “Chaitanya-bhagavata” the words *pandita-murari* are printed with a hyphen, which also allows the reading “Sadashiva
     and Pandita Murari”; but nowhere else does Vrindavana Dasa call Murari a Pandita, whereas he does so call Sadashiva
     (Antya 8.19), as does the “Charitamrita” (Adi 10.34).
-[^5]: One of the biographies writes that the Lord told Sadashiva and Buddhimanta who would play which role and what to
-    wear; in the “Chaitanya-bhagavata” it is one speech of the Lord to them both, in which He Himself names who will take
+[^5]: One of the biographies writes that the Lord told Sadashiva and Buddhimanta which part each companion was to take and in
+    what dress; in the “Chaitanya-bhagavata” it is one speech of the Lord to them both, in which He Himself names who will take
     which guise (Madhya 18.7–13), so there is no real disagreement.
 [^6]: One of the biographies renders the verse as “in the guise of Lakshmi”; the “Bhakti-ratnakara” has “in the guise of
     Lakshmi and others” (*lakshmi adi kache*). The biographies number the verses differently (12.2902–2903 and
