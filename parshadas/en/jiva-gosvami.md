@@ -1528,6 +1528,13 @@ Dasa, Raghunatha Bhatta. In the list of the guru-parampara in the same manuscrip
 edition: Sanatana and Rupa, Bhatta Raghunatha, Bhatta Gopala, Jiva, Raghunatha; whether it belongs to the author or to a
 copyist is unclear. <!-- F364 F365 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Sri Jiva, Subuddhi Mishra, Raghava, Kamsari! Do whatever is fitting — I myself can say nothing.” (“Namamrita-samudra”
+31)
+<!-- F391 -->
+
 ## After Jiva: Vishvanatha and Baladeva
 Jiva explained the “Bhagavatam” in the “Sandarbhas”, but not in a continuous commentary; a continuous one was written only
 by Vishvanatha Chakravarti, who relied especially on the “Sandarbhas”. Indeed, after Jiva's departure, until Vishvanatha

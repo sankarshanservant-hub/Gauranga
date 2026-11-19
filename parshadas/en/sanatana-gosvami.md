@@ -1617,6 +1617,13 @@ he bears the look of an avadhuta; like a great lake covered with duckweed, he gi
 The “Bhakti-ratnakara” recalls this too: “Kavi Karnapura, dear to the Lord, wrote a book and told of the grace shown to
 Sanatana” (1.657). <!-- F443 Q65 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Rupa:
+
+“O Rupa and Sanatana, dear to Gaura, His very life! Give me the strength to describe the Lord's deeds.”
+(“Namamrita-samudra” 29)
+<!-- F496 -->
+
 ## Writings
 Of the books Sanatana wrote at Gaurasundara's command, four are known: the “Brihad-bhagavatamrita” with the commentary “Dig-darshini”; the “Hari-bhakti-vilasa,” also
 with the commentary “Dig-darshini”; the “Lila-stava,” or “Dashama-charita”; and the “Vaishnava-toshani”

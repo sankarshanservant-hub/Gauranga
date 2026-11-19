@@ -2037,6 +2037,13 @@ of the great rasa: his darshana, touch and words are nectar; he is deep, steadfa
 prema-bhakti, who revealed the great gem of ujjvala-prema; he renounced Gauda, is adorned with virtues, gladdens the
 learned, lives in Vrindavana, and his fame is pure. <!-- F614 F615 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Sanatana, asking for strength to describe the Lord's deeds:
+
+“O Rupa and Sanatana, dear to Gaura, His very life! Give me the strength to describe the Lord's deeds.”
+(“Namamrita-samudra” 29)
+<!-- F650 -->
+
 ## Departure and Memorial Places
 Rupa left this world in Vraja, on the twelfth day of the bright fortnight of the month of Shravana; by our calendar this is
 the Gaura-dvadashi of the month of Shridhara, the morning after the Gaura-ekadashi that begins the Jhulana-yatra (on the
