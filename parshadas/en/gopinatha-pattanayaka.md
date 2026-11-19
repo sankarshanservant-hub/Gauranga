@@ -198,8 +198,8 @@ pay raised or his post restored: He had only been asked to save Gopinatha from d
 fruit. The Lord's intentions cannot be fathomed even by Brahma and Shiva (CC, Antya 9.108–115). <!-- F35 -->
 
 When Kashi Mishra came to the Lord and told Him of the king's decision, Mahaprabhu exclaimed: “Kashi Mishra, what have
-you done? Have you made Me accept a gift from the king?” (CC, Antya 9.117). Srila Bhaktisiddhanta explains that for a
-sannyasi to accept the king's wealth (*rajartha-pratigraha*) is not permissible. But Mishra conveyed the king's words to
+you done? Have you made Me accept a gift from the king?” (CC, Antya 9.117). The “Anubhashya” calls this *rajartha-pratigraha*,
+the acceptance of the king's wealth. But Mishra conveyed the king's words to
 Him: all Bhavananda's sons are dear to me, I regard them as my own family and so have given them posts; Gopinatha, in
 handling the king's business, usually kept two to four lakhs of kahanas, and I did not call him to account; this time
 he fell out with the heir, and I did not know that my son meant to destroy him (CC, Antya 9.118–126). Hearing this, the
