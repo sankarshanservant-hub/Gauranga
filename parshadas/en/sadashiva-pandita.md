@@ -27,7 +27,7 @@ that at first (*prathamei*) Nityananda lived in his house, and Vrindavana Dasa t
 in his house. According to the biographies, on coming to Navadvipa Nityananda stayed with him before anyone else, and
 Sadashiva's house became Nityananda's first dwelling in Navadvipa.[^2] <!-- F6 -->
 
-Nityananda is not a wanderer in need of lodging but Balarama Himself, the Lord's eternal companion and first servant;
+Nityananda is not a wanderer in need of lodging but Balarama Himself, the Lord's eternal companion and servant;
 to receive Him in one's home is not to show hospitality but to be blessed with service to Him. It is above all for this
 mercy that Vaishnavas remember Sadashiva.
 
@@ -36,8 +36,8 @@ When the Lord returned from Gaya, His companions saw a change in Him: Nimai Pand
 debaters, who used to meet the Vaishnavas with mockery, had now become the topmost Vaishnava. This change astonished
 them all — Shrivasa, Shriman, Gadadhara, Sadashiva, Shuklambara.[^3] <!-- F11 F12 I3 -->
 
-Then, Vrindavana Dasa relates, the Lord told Shriman Pandita in private that He wished to reveal His heart's pain to
-those close to Him, and said:
+Then, Vrindavana Dasa relates, the Lord told Shriman Pandita that He wished to reveal His heart's pain to
+those close to Him, and bade him:
 
 “Come early in the morning, the two of you — you and Sadashiva — to the house of Shuklambara Brahmachari.” (CB, Madhya
 1.40) <!-- F7 Q3 -->
@@ -50,18 +50,19 @@ Pandita and Murari — to you I shall pour out My grief.’” (CB, Madhya 1.69�
 *Gohari*, one of the biographies explains, is an entreaty, an outpouring of grief before one from whom sympathy and help
 are hoped for. <!-- F8 Q4 -->
 
-Next morning the devotees gathered in Shuklambara's house; Shriman Pandita and Gadadhara Pandita came there, and “soon
+Next morning Shriman Pandita and Gadadhara Pandita came to Shuklambara's house, and “soon
 all the Lord's intimate companions, such as Sadashiva, Murari, Shriman and Shuklambara, gathered there” (CB, Madhya
-1.81). Then Vishvambhara Himself came and revealed to them the prema of separation from Krishna. <!-- F9 Q5 --> The
-biographies say that there the Lord told Sadashiva and the other devotees of His service to Krishna, and that Sadashiva
-was among the first to see prema manifest in Him after Gaya; so too says Srila Bhaktisiddhanta's “Anubhashya.” Vrindavana
-Dasa writes:
+1.81). Then Vishvambhara Himself came and revealed to them the prema of separation from Krishna. <!-- F9 Q5 -->
+
+The biographies say that there the Lord told Sadashiva and the other devotees of His service to Krishna — Srila
+Bhaktisiddhanta's “Anubhashya” says the same — and that Sadashiva was among the first to see prema manifest in the Lord
+after Gaya. Vrindavana Dasa writes:
 
 “All the devotees, such as Gadadhara, Sadashiva, Shriman Pandita and Shuklambara, were struck to the depths of their
 hearts.” (CB, Madhya 1.108)
 
-Seeing and hearing of the unheard-of transformations of love in the Lord, they marvelled, and afterwards, meeting other
-Vaishnavas, they vied with one another in telling what they had seen (CB, Madhya 1.109–110). <!-- F10 -->
+Seeing and hearing of the unheard-of transformations of love in the Lord, they marvelled, and afterwards, meeting one
+another, they shared what each thought of what they had seen (CB, Madhya 1.109–110). <!-- F10 -->
 
 That the Lord called Sadashiva among the few to whom He would reveal the secret pain of separation from Krishna shows
 how dear he was to Him. <!-- I1 -->
@@ -132,7 +133,7 @@ lists, and the “First Vandana” praises “the wise Sadashiva Pandita, in who
 Only a few lines about Sadashiva Pandita have survived, but each of them speaks of service. Nityananda lived in his
 house; the Lord called him into the close circle where He revealed the pain of separation from Krishna; night after
 night he sang kirtana with the Lord; the Lord's command to prepare garments for His pastime he took on his head and went
-to fulfil it, beside himself with joy. Of when and how he left this world the sources are silent; but the
+to fulfil it in boundless joy. Of when and how he left this world the sources are silent; but the
 “Charitamrita” has said the main thing about him: all his hope was on the Lord's feet. <!-- F2 F6 I1 I2 -->
 
 [^1]: Sadashiva Pandita is not Sadashiva Kaviraja, the vaidya, father of Nagara Purushottama and companion of
