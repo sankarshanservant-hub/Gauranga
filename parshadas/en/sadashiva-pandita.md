@@ -8,15 +8,15 @@ branches of Sri Chaitanya's tree, names him thus:
 
 “Sadashiva Pandita set all his hope on the Lord's feet, and at first Nityananda lived in his house.” (CC, Adi 10.34)
 
-In the “Anubhashya” on this verse Srila Bhaktisiddhanta Sarasvati calls him the twelfth branch of the tree and a
-resident of Navadvipa. <!-- F2 F3 F4 Q1 -->
+In the “Anubhashya” on this verse Srila Bhaktisiddhanta Sarasvati calls him the twelfth branch of the tree, a
+resident of Navadvipa and the Lord's companion in kirtana. And in his commentary on the “Chaitanya-bhagavata” (Adi 2.31)
+he names “Pandita Sadashiva” among the many devotees of the Lord who were born in Navadvipa. <!-- F2 F3 F4 Q1 F22 -->
 
 Vrindavana Dasa calls him now Sadashiva Pandita, now simply Sadashiva, and once Sri Sadashiva; elsewhere he calls him
 “pure-hearted” (*shuddha-mati*). Murari Gupta writes “Sri Sadashiva Pandita,” and the biographies likewise call him Sri
 Sadashiva Pandita, Sadashiva Pandita and Sadashiva. <!-- F1 -->
 
-Nothing more is known of his worldly life. Neither the original sources nor the biographies name his birthplace other
-than Navadvipa, his family or his caste, nor the year and day of his appearance, nor when and where he left this world;
+Nothing more is known of his life. Neither the original sources nor the biographies name any other birthplace of his, his family or his caste, nor the year and day of his appearance, nor when and where he left this world;
 nor are his days found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. Nor do they say who he is in
 Krishna's eternal pastimes: Sadashiva Pandita does not appear in the “Gaura-ganoddesha-dipika,” where the name Sadashiva
 belongs to Sri Advaita and to Sadashiva Kaviraja, a different person.[^1] <!-- F5 -->
@@ -45,7 +45,7 @@ those close to Him, and bade him:
 Shriman passed on the Lord's words to the devotees:
 
 “Coming back to Himself, He told us: ‘Let us meet tomorrow early in the morning in Shuklambara's house. You, Sadashiva
-Pandita and Murari — to you I shall pour out My grief.’” (CB, Madhya 1.69–70)[^4]
+Pandita and Murari — to you all I shall pour out My grief.’” (CB, Madhya 1.69–70)[^4]
 
 *Gohari*, one of the biographies explains, is an entreaty, an outpouring of grief before one from whom sympathy and help
 are hoped for. <!-- F8 Q4 -->
@@ -102,8 +102,12 @@ This was neither a performance nor a dressing-up. That day the Lord appeared in 
 form of Prakriti, My energy,” as He Himself says — and, by His word, only one who has conquered his senses is entitled
 to see this pastime (CB, Madhya 18.18). The garments prepared by Sadashiva and Buddhimanta were service to this lila.
 
-The “Bhakti-ratnakara” too preserves the memory of this service. When Narahari leads Shrinivasa through Navadvipa, he
-shows him Chandrashekhara's house and says:
+The “Bhakti-ratnakara” too preserves the memory of this service. Following Vrindavana Dasa, Narahari Chakravarti tells
+how the son of Shachi, absorbed in sankirtana, called Sadashiva and Buddhimanta Khan: that day He would go to
+Chandrashekhara's house and dance with everyone in the guise of Lakshmi and others, and they were to make ready conch
+bangles, saris, bodices, gold and other ornaments — for each the garments befitting him (12.1949–1952). <!-- F21 -->
+
+And when Narahari leads Shrinivasa through Navadvipa, he shows him Chandrashekhara's house and says:
 
 “Here Sadashiva and Buddhimanta Khan together prepared many garments. Gaura-raya will dance in the guise of Lakshmi and
 others, and there will be a kirtana that maddens the world.” (“Bhakti-ratnakara” 12.2903–2904)[^6] <!-- F18 Q8 -->
@@ -148,10 +152,11 @@ to fulfil it in boundless joy. Of when and how he left this world the sources ar
     house; according to the “Chaitanya-bhagavata,” He first came to Nandana Acharya, and lived with Sadashiva as well.
 [^3]: Nimai's mockery of the Vaishnavas before Gaya was the play of His learning, not a former error; on returning from
     Gaya the Lord was not “converted” but only revealed what He had always been.
-[^4]: One of the biographies refers these words directly to “all” the devotees; in Vrindavana Dasa they are the Lord's
-    words, passed on by Shriman and addressed to Shriman himself: “you, Sadashiva Pandita and Murari.” The Bengali
-    *sadashiva pandita-murari* grammatically also allows the reading “Sadashiva and Pandita Murari,” but the
-    “Charitamrita” (Adi 10.34) and Vrindavana Dasa himself (Antya 8.19) give the title Pandita to Sadashiva.
+[^4]: According to Vrindavana Dasa, the Lord said this to “all” (*sabe*, Madhya 1.69) — to those who were with Him
+    then — and called by name Shriman (“you”), Sadashiva Pandita and Murari. In the Bengali edition of the
+    “Chaitanya-bhagavata” the words *pandita-murari* are printed with a hyphen, which also allows the reading “Sadashiva
+    and Pandita Murari”; but nowhere else does Vrindavana Dasa call Murari a Pandita, whereas he does so call Sadashiva
+    (Antya 8.19), as does the “Charitamrita” (Adi 10.34).
 [^5]: One of the biographies writes that the Lord told Sadashiva and Buddhimanta who would play which role and what to
     wear; in the “Chaitanya-bhagavata” it is one speech of the Lord to them both, in which He Himself names who will take
     which guise (Madhya 18.7–13), so there is no real disagreement.
