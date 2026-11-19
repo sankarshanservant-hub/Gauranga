@@ -10,7 +10,6 @@
 
 ## Translator's Preface
 
-
 The *Śrī Jagannātha-vallabha-nāṭaka*, "The Drama of the Beloved of Jagannatha", is a Sanskrit musical drama (*saṅgīta-nāṭaka*) in five acts. Its author is Ramananda Raya, one of the closest associates of Sri Chaitanya Mahaprabhu. The drama tells of the love of Radha and Krishna in Vrindavana, from the first meeting of their glances to their union. It contains 21 songs (*gītas*) in the style of Jayadeva's *Gīta-govinda*. Each song has a named raga and a refrain (*dhruva*), and in its last line the poet names himself and dedicates the song to the king of Orissa, Gajapati Prataparudra.
 
 ### Ramananda Raya according to the *Chaitanya-charitamrita*

@@ -32,8 +32,7 @@ poem** has been translated: the editors' explanations and notes have been neithe
 within each vilasa (the numbering is the translator's own: the 1924 edition has almost none, and that of the
 2021 edition contains many errors); each tripadi, song (pada) and Sanskrit shloka is given a single number. The
 Sanskrit shlokas are translated; where the author names the source, it is given. The vilasa titles are
-descriptive and supplied by the translator (except those the author gives in his colophons). Names and terms
-follow `GLOSSARY.md`.
+descriptive and supplied by the translator (except those the author gives in his colophons).
 
 **Notes** at the end of each vilasa explain realia and persons, record divergences from the
 *Bhakti-ratnakara*, *Prema-vilasa*, *Chaitanya-charitamrita* and *Chaitanya-bhagavata*, and note the readings of
@@ -424,7 +423,6 @@ With a pleased heart he bestowed his mercy on Narottama.
 
 **118.** *Whose power of mercy the great sage named Narottama came to know,*
 *whose detachment from worldly things is vast — we take shelter of him, Lokanatha Prabhu.*
-
 
 **119.** Glory to Sri Thakura Mahashaya Narottama,
 the dearest disciple of Lokanatha Gosvami!
@@ -914,7 +912,6 @@ the sweetest streams of prema flowed from his eyes.
 **99.** Who can understand this way of Narottama's?
 Again and again he listened to the lives of Prabhu's devotees.
 
-
 **100.** He constantly reproached himself
 for not having seen such an incarnation of Prabhu.
 
@@ -1283,7 +1280,6 @@ and in a dream Sri Rupa said to Srinivasa:
 
 **222.** "O Srinivasa! When this night turns to morning,
 you will meet Narottama."
-
 
 **223.** Having said this, the Gosvami vanished;
 Srinivasa awoke and saw that the night was over.
@@ -5968,7 +5964,6 @@ and Sri Ishvari went to Prabhu's temple.
 
 **210.** As she gazed her fill on the sweetness of Prabhu's form,
 the pujari brought and gave her a garland-prasada.
-
 
 **211.** It was time for the evening arati, and to see it
 countless people came into Prabhu's courtyard.

@@ -2500,7 +2500,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the eighteenth sarga, "The Prelude to Sannyasa" (Sannyasa-sutra), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita." Thus the second prakrama is complete.*
 
-
 [^218-1]: Murari suggests interpreting the sannyasa mantra, which speaks of identity with Brahman, through the genitive case: not "I am He" but "I am His," that is, the Lord's servant. This is how the Gaudiya Vaishnava tradition understands the great sayings of the Upanishads.
 [^218-2]: That is, skilful interpretation does not console the Lord: in the mood of a devotee He grieves that the sannyasa mantra, by its very sound, speaks of identity with Brahman.
 [^218-ad]: Cf. 2.16, the note to v. 4: "portion" (amsha) does not diminish Advaita — according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
@@ -2558,7 +2557,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the first sarga, "The Words of the Women of Kantakanagara" (Kantakanagara-nagari-vachana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^301-1]: Damodara Pandita, who questions Murari: the poem is framed as their dialogue.
 [^301-2]: Purushottama is Puri, the city of Jagannatha.
 [^301-3]: The syntax of the second half of the verse is not entirely clear; the translation gives the probable sense.
@@ -2614,7 +2612,6 @@ Bhaktisiddhanta Sarasvati.
 **19.** Whoever thus hears of the auspicious sannyasa that Bhagavan Himself accepted, which brings bliss to the twice-born, will attain liberation and whatever his heart desires.
 
 *Thus ends the second sarga, "The Purification of the Ashrama of Sannyasa" (Sannyasashrama-pavana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^302-1]: Literally "naked"; probably an image of shame: the Lord asks a blessing of them, His servants. The reading may be corrupt.
 [^302-2]: Nrihari is here Krishna: Gaura, playing the part of a devotee, accepts sannyasa in order to attain Him.
@@ -2672,7 +2669,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** Thus have I heard and seen the auspicious chanting of Sri Hari and the other deeds of Bhagavan, and I have told it all in full. This blessed account of Hari's glory grants every happiness to men.
 
 *Thus ends the third sarga, "Wandering in the Radha Country" (Radhadesha-bhramana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^303-1]: From here to the end of the sarga the narrator is Chandrashekhara Acharyaratna, who has returned to the devotees in Navadvipa (cf. Sargas 3.1 and 3.4).
 [^303-2]: The Abode of Shri (Shriniketana) — an epithet of the Lord as the abode of the goddess Lakshmi.
@@ -2767,7 +2763,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the fourth sarga, "Pastimes at Sri Advaita's House" (Shri-advaita-vati-vihara), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^304-1]: Keshava is here a name of the Lord (Krishna Chaitanya).
 [^304-2]: Pushpagrama ("Flower Village") — apparently Phuliya, a village near Shantipura.
 [^304-3]: "Peerless" (advitiya, literally "without a second") — a play on the name Advaita ("Non-dual").
@@ -2831,7 +2826,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the fifth sarga, "The Breaking of the Staff" (Danda-bhanjana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^305-1]: Kavya is the planet Venus (Shukra). Nityananda, walking in front, is compared to Venus, the Lord to the moon.
 [^305-2]: The narrator, Murari, is addressing Damodara (see Sarga 3.1).
 [^305-3]: Literally "his weariness gone": on seeing the Lord and His companions, the toll-collector apparently gave up his greed of his own accord.
@@ -2888,7 +2882,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** Whoever hears this holy account of Hari, which takes away all sins, will gain endless happiness, the fruit of pilgrimage and the fruit of all sacrificial rites at the holy places of the ancestors, and will be endowed with every virtue.
 
 *Thus ends the sixth sarga, "Wandering in the Southern Country" (Dakshinadesha-bhramana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^306-1]: Tamolipta (Tamralipta), an ancient port town in south-western Bengal (present-day Tamluk).
 [^306-2]: All the witnesses read "in Varanasi". Cf. the legend of the Deity Gopala who followed a brahmana in order to bear witness to the word given him.
@@ -2950,7 +2943,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** Having beheld her, Krishna, the sole purifier of all the worlds, went on His way, singing the names of Krishna in sankirtana together with the company of His devotees.
 
 *Thus ends the seventh sarga, "Beholding Sri Viraja" (Shri-viraja-darshana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^307-1]: Literally "the Ambashtha", the vaidya (physician) caste to which Mukunda Datta belonged.
 [^307-2]: That is, Nityananda had wandered off on His own and turned up only later (v. 9).
@@ -3014,7 +3006,6 @@ Bhaktisiddhanta Sarasvati.
 **24.** Whoever recites this hymn to Purari, composed by the lotus-eyed Purushottama[^308-12], will gain even here eternal love, so hard to attain even for the hosts of sages and gods.
 
 *Thus ends the eighth sarga, "Beholding Mahadeva" (Mahadeva-darshana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^308-1]: Ekamraka (Ekamra) is Bhubaneshvara in Orissa, the holy city of Shiva. Girisha ("Lord of the Mountains") and Girija ("Daughter of the Mountains") are Shiva and Parvati; the "king of mountains" is the Himalaya, where Shiva dwells on Kailasa: here in Ekamraka he dwells just as he does there.
 [^308-2]: The White Mountain is Kailasa, the abode of Shiva.
@@ -3080,7 +3071,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the ninth sarga, "The Rule on Eating the Remnants of Offerings to Sri Shiva" (Shri-shiva-nirmalya-bhojana-vyavastha), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^309-1]: The Bindu lake is the Bindu-sarovara, the sacred pond of Bhubaneshvara (see Sarga 3.08, v. 7).
 [^309-2]: Bhuvaneshvara ("Lord of the Worlds") is Shiva as worshipped at Ekamraka (Krittivasa, Sarga 3.08); the town itself takes its name from him.
 [^309-3]: Nirmalya: the remnants (flowers, food, etc.) of offerings made to a deity.
@@ -3136,7 +3126,6 @@ Bhaktisiddhanta Sarasvati.
 **20.** People who hear and sing of these wondrous doings of the two of Them come to see the highest truth and reach the supreme abode of Murari, from which there is never again a fall.
 
 *Thus ends the tenth sarga, "Beholding Sri Purushottama" (Shri-purushottama-darshana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^310-1]: The Kapota-linga ("the linga of the dove"), a shrine of Shiva on the way from Bhubaneshvara to Puri.
 [^310-2]: The Bhargavi is a river in Orissa flowing near Puri.
@@ -3201,7 +3190,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the eleventh sarga, "The Glory of Sri Mahaprasada" (Shri-mahaprasada-mahima), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^311-1]: The first line of this verse is metrically short in all the editions; the text seems damaged, though the sense is clear.
 [^311-2]: That is, away from the Deity of Jagannatha, out of the temple.
 [^311-3]: Narahari ("Hari in human form"): here a name of Krishna.
@@ -3252,7 +3240,6 @@ Bhaktisiddhanta Sarasvati.
 **19.** When Sarvabhauma had spoken thus, the Husband of Shri, who submits to His devotees, impulsively, with feeling and tenderness, took him by the hand, pressed him to His heart and embraced him with His two beautiful arms.
 
 *Thus ends the twelfth sarga, "Mercy to Sarvabhauma" (Sarvabhauma-anugraha), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^312-1]: Nrihari ("Hari in human form"): here Jagannatha.
 [^312-2]: The Lord of the ashramas: the Lord as a sannyasi, in the highest of the four ashramas.
@@ -3314,7 +3301,6 @@ Bhaktisiddhanta Sarasvati.
 **23.** And, embracing him while he was still speaking, the Lord, whose form is full of compassion and who is skilled in every way of comforting, consoled him with His love.
 
 *Thus ends the thirteenth sarga, "Consoling Sarvabhauma" (Sarvabhauma-santvana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^313-1]: Kashinatha Mishra (Kashi Mishra): a Vaishnava of Puri, in whose house the Lord later lived.
 [^313-2]: The Lord speaks in loving self-abasement: He explains His wish to leave such beauty by saying that Jagannatha has not granted Him the mercy to stay.

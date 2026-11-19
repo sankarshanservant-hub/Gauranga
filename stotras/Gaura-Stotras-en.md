@@ -25,7 +25,7 @@ stotras and builds his narrative on them.
 3. Sri Chaitanya Mahaprabhu, the *Shikshashtaka* ("Eight Verses of Instruction"), preserved by Rupa in his anthology
    *Padyavali*, and two further verses signed there with His name.
 
-Sixty-four verses in all. A detailed catalogue is in `CATALOG.md`.
+Sixty-four verses in all.
 
 **Sources.** The *Stava-mala* — the Kāvyamālā edition, no. 84 (Bombay, Nirnaya Sagar, 1903); the *Padyavali* — the
 edition of Ramanarayana Vidyaratna (Berhampore, 1911); the *Stava-vali* — the Sanskrit text of Puridasa's critical
@@ -42,8 +42,7 @@ refrains repeated in each verse are kept. Double meanings (shlesha), realia and 
 *Chaitanya-charitamrita* (CC) are explained in the notes. Theological explanations follow the tradition of Srila
 Bhaktisiddhanta Sarasvati: Sri Gaura is Krishna Himself, who took the bhava and lustre of Radha in order to taste the
 sweetness of Her love; His "madness" in separation is the highest manifestation of mahabhava, not a worldly disorder;
-the love of the gopis of which these hymns speak has nothing in common with worldly passion. Names and terms follow
-`GLOSSARY.md`.
+the love of the gopis of which these hymns speak has nothing in common with worldly passion.
 
 ---
 
@@ -93,10 +92,10 @@ the love of the gopis of which these hymns speak has nothing in common with worl
 [^01-7]: The kaupina and the ruddy (*aruṇa*, saffron) cloth are the dress of a sannyasi. "The splendour of a golden mountain" (Sumeru) is His golden lustre, which as it were serves Him on all sides.
 [^01-8]: "His own names" (*nija-madhura-nāmāvali*): the Names of Krishna are His own names.
 [^01-9]: Cf. Rupa's *Vidagdha-madhava* 1.2 (*anarpita-carīṁ cirāt…*), quoted in CC Adi 1.4: out of mercy the Lord brought a gift long not given — the highest, radiant rasa of devotion.
-[^01-10]: That is, repeating the Names while counting them (on beads or knots); cf. Rupa's Chaitanyashtaka I.5 (our file 04). The third line follows Puridasa (*iti prāyāṁ śikṣāṁ janaka iva tebhyaḥ paridiśan*); the GGM text has *caraṇa-madhupebhyaḥ*, "to the bees [at His] feet".
+[^01-10]: That is, repeating the Names while counting them (on beads or knots); cf. Rupa's Chaitanyashtaka I.5. The third line follows Puridasa (*iti prāyāṁ śikṣāṁ janaka iva tebhyaḥ paridiśan*); the GGM text has *caraṇa-madhupebhyaḥ*, "to the bees [at His] feet".
 [^01-11]: The Garuda-stambha is the pillar bearing the image of Garuda in the temple of Jagannatha; the Lord usually beheld Jagannatha standing behind it (CC Madhya 11, Antya 14). It is called "loving" because Garuda is the Lord's devoted servant.
 [^01-12]: A description of the posture in which the Lord began to dance in kirtana. *Agaṇita-pulakaḥ* follows Puridasa (*premṇā agaṇita-pulakaḥ*).
-[^01-13]: *saras-tīrārāme* (GGM *sarottīrārāme*; in Puridasa the line is garbled by OCR, the sense being the same) — a garden on a lake shore; in Puri, probably the gardens by the Narendra-sarovara or the Jagannatha-vallabha garden. The author does not name the place.
+[^01-13]: *saras-tīrārāme* — a garden on a lake shore; in Puri, probably the gardens by the Narendra-sarovara or the Jagannatha-vallabha garden. The author does not name the place.
 [^01-14]: Cf. CC Antya 14–19 — the pastimes of the Lord's divine madness in separation from Krishna, which Raghunatha witnessed.
 
 ---
@@ -178,12 +177,12 @@ the love of the gopis of which these hymns speak has nothing in common with worl
 
 ---
 
-[^03-1]: Base text: Puridasa's edition (1947), checked against the GGM e-text; the verse numbers agree in both. The verses are chosen for their direct mention of Gaura; see `CATALOG.md`.
+[^03-1]: Base text: Puridasa's edition (1947), checked against the GGM e-text; the verse numbers agree in both. The verses are chosen for their direct mention of Gaura.
 [^03-2]: Gaura-tattva in a word: the son of Shachi is none other than the son of Nanda, lord of Nandishvara (Nandagrama); the guru is Krishna's dearest servant (in the Gaudiya understanding, one of Radha's attendants). "Dharma and adharma" are the path of pious rites and its opposite: both lie within worldly existence.
 [^03-3]: Svarupa is Svarupa Damodara; Sri Rupa is Rupa Gosvami; "his elder brother" is Sanatana Gosvami. The king of hills is Govardhana; the lake of Gandharva (Radha) is Radha-kunda; Madhupuri is Mathura.
-[^03-4]: Cf. *Gauranga-stava-kalpataru* 11 (file 02) and CC Antya 6: by giving Raghunatha the stone from Govardhana, the Lord as it were entrusted him to Govardhana itself. "[Govardhana's] beloved" — because Govardhana is the best of Hari's servants.
+[^03-4]: Cf. *Gauranga-stava-kalpataru* 11 and CC Antya 6: by giving Raghunatha the stone from Govardhana, the Lord as it were entrusted him to Govardhana itself. "[Govardhana's] beloved" — because Govardhana is the best of Hari's servants.
 [^03-5]: Sri Damodara is Svarupa Damodara: the Lord placed Raghunatha in his care (CC Antya 6). The well of household life is his father's wealthy house, from which Raghunatha fled to the Lord.
-[^03-6]: "The two Rupas" (*rūpa-yugam*) — probably Svarupa and Rupa (Raghunatha constantly names them together: *Manah-shiksha* 3, *Sva-niyama* 1 — verse 2 of this file); possibly Rupa and Sanatana. The verse was written in Vraja, at Radha-kunda, after the departure of the Lord and of Svarupa, and apparently of Rupa.
+[^03-6]: "The two Rupas" (*rūpa-yugam*) — probably Svarupa and Rupa; possibly Rupa and Sanatana. The verse was written in Vraja, at Radha-kunda, after the departure of the Lord and of Svarupa, and apparently of Rupa.
 [^03-7]: "Burst, forehead" — a cry of despair: according to popular belief, one's fate is written on the forehead.
 [^03-8]: The kumuda is the night-lily that opens under the moon; Chaitanya-*chandra* ("moon") opens it. The bees are thoughts hovering about Him.
 
@@ -218,7 +217,7 @@ the love of the gopis of which these hymns speak has nothing in common with worl
 [^04-3]: "Distilled essence" (*viniryāsa*) — Gaura is the very essence of the gopis' love for Krishna (cf. CC Adi 4 on Radha and Gaura).
 [^04-4]: The verse is built on shlesha (double meaning). Of Gaura: "bearing [His companion] Svarupa [Damodara]; beloved of Advaita [Acharya]; refuge of Shrivasa [Pandita]; giving greatness to Paramananda [Puri]; hastening to pour mercy on Gajapati (Prataparudra, king of Orissa, CC Madhya 12–14)". Of Krishna-Vishnu: "manifesting a peerless form (*svarūpa*), beloved of non-duality (*advaita* — He is one in many forms), refuge of Shri (Lakshmi), source of the highest bliss (*paramānanda*), Hari, deliverer of the afflicted, hastening to save Gajendra, king of elephants". "Hari" also means a lion: a lion merciful to an elephant is a deliberate paradox.
 [^04-5]: "Garments gleaming like the rays of the morning sun" — the saffron dress of a sannyasi.
-[^04-6]: The knots on the cord are for counting the number of Names repeated (cf. *Shachisunv-ashtaka* 5, file 01). "Long as door-bolts" (*argala*) — arms reaching to the knees (*ājānu-bāhu*), a mark of a great personality.
+[^04-6]: The knots on the cord are for counting the number of Names repeated. "Long as door-bolts" (*argala*) — arms reaching to the knees (*ājānu-bāhu*), a mark of a great personality.
 [^04-7]: The gardens on the shore at Puri reminded the Lord of the forests of Vrindavana; cf. CC Madhya 14 and Antya 14–19.
 [^04-8]: The Lord's dance before Jagannatha's chariot at the Ratha-yatra (CC Madhya 13). Rupa describes the Ratha-yatra as an eyewitness: he spent some ten months in Puri and saw the Ratha-yatra (CC Antya 1).
 [^04-9]: Phala-shruti. The commentary: "a path of remembrance of Gauranga" — the octave helps one to meditate on Chaitanya.
@@ -342,6 +341,6 @@ the love of the gopis of which these hymns speak has nothing in common with worl
 
 ---
 
-[^08-1]: Base text: the *Padyavali*, 1911 edition (Berhampore). Both verses are signed "Śrī-bhagavataḥ" ("[a verse] of Bhagavan"); the commentator Virachandra Gosvami explains that Rupa here cites "two verses of Bhagavan Shachinandana", in which He, filled with avesha (absorption in the pastime), depicts Krishna's childhood pranks, and the Bengali note to the first says: "this verse was composed by Bhagavan". There are no other verses in the *Padyavali* composed by Mahaprabhu or praising Gaura Himself (see `CATALOG.md`); the attribution of these two verses follows the 1911 edition.
+[^08-1]: Base text: the *Padyavali*, 1911 edition (Berhampore). Both verses are signed "Śrī-bhagavataḥ" ("[a verse] of Bhagavan"); the commentator Virachandra Gosvami explains that Rupa here cites "two verses of Bhagavan Shachinandana", in which He, filled with avesha (absorption in the pastime), depicts Krishna's childhood pranks, and the Bengali note to the first says: "this verse was composed by Bhagavan".
 [^08-2]: Bala-Krishna is the child Krishna. The little thief needs darkness so as not to be seen.
 [^08-3]: The commentary: with a movement of His eyes He asks the cowherd women, "Don't tell Mother!" — a display of Krishna's childish cleverness.
