@@ -466,6 +466,13 @@ disciple in appearance only. The Lord and Paramananda Puri honoured him as a dis
 Mahaprabhu announced that He was staying with him so as to avoid reproach. What came of his discipleship is seen in
 Madhavendra's last days. <!-- F134 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with his disciples Ananta and Ishvara Puri:
+
+“Ananta, Ishvara, O Madhavendra Puri! Be merciful and make me drunk with the rasa of Radha and Krishna.”
+(“Namamrita-samudra” 22)
+<!-- F283 -->
+
 ## Departure
 Towards the end of his life Madhavendra grew weak and could no longer move. He chanted the names of Krishna and wept,
 for he was in deep separation — in the mood of Radha after Krishna's departure for Mathura. Like every pure devotee,

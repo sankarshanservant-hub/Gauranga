@@ -396,6 +396,12 @@ Himself in Utkala” (part 2, 26); “from the breeze from his body prema-bhakti
 “Narottama-vilasa” Narottama in a vision beholds him among Gaura's dancing companions (7.117). When Vasudeva Datta left
 this world, the sources do not say. <!-- F43 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Uddharana:
+
+“Vasudeva Datta, Uddharana, Purandara! Save me — so cries this wretched sinner.” (“Namamrita-samudra” 24)
+<!-- F48 -->
+
 ## His Significance
 Vasudeva Datta's life teaches the boundless nature of a Vaishnava's selfless love: he sought nothing for himself —
 neither wealth, nor liberation, nor even escape from hell — and desired only that all souls should turn to Krishna. The

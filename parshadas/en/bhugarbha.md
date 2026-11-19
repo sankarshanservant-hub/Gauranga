@@ -52,6 +52,12 @@ another without a trace of rivalry or envy. This does not mean they lived under 
 of kindred souls, and that love itself served the following of Vrishabhanu's daughter and delighted Radhanatha. Of
 dividing into parties they never even thought. <!-- I2 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well — and, as in life, together with Lokanatha:
+
+“O Sri Bhugarbha, Lokanatha! Take pity this once — there is no one as fallen as I.” (“Namamrita-samudra” 27)
+<!-- F45 -->
+
 ## The Road to Vraja
 Lokanatha and Bhugarbha came to live in Vraja at Mahaprabhu's command, even before Rupa and Sanatana; they were the first
 of Chaitanya's devotees to leave for Vrindavana. Lokanatha was the first Gaudiya Vaishnava whom the Lord told to go
