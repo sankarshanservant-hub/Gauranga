@@ -597,6 +597,12 @@ read the riddle, Mahaprabhu became ever more absorbed in His states, and the dev
 soon withdraw. Svarupa was alarmed, and in reply to his question the Lord revealed that the purpose of His descent had
 been fulfilled. <!-- F74 F75 Q22 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where he asks the Lord's associates to reveal His pastimes to him,
+turns to him as well:
+
+“Pandita Jagadananda, grant me those feet — the feet of Him who mounted Murari's shoulders.” (“Namamrita-samudra” 137)
+<!-- F105 -->
+
 ## Satyabhama
 Kavi Karnapura says of him in the “Gaura-ganoddesha-dipika”:
 

@@ -272,6 +272,12 @@ When and where Bhagavan Acharya left this world, the sources do not say; neither
 place of his samadhi is known, and his days are not found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
 <!-- F17 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Bhagavan Acharya! Let me sing how Jagai and Madhai obtained prema.” (“Namamrita-samudra” 131)
+<!-- F47 -->
+
 ## Significance
 Bhagavan Acharya is a portion of Gaura and a cowherd boy of Vraja, a friend of Krishna; in Mahaprabhu's pastimes he is a
 friend of Svarupa Damodara and one to whose wishes the Lord submitted at table. He left a wealthy home, wife, sons and

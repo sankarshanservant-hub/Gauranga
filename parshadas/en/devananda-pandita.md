@@ -359,6 +359,13 @@ calendar of the Sri Chaitanya Saraswat Math, marks the day of his departure on t
 Narayana, which corresponds to Pausha (Saphala Ekadashi; in 2027 it falls on January 3).[^16] The year and place of his
 departure, the place of his samadhi and the day of his appearance are not named in the sources. <!-- F40 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well — by his service, “reciter of the Bhagavata”:
+
+“Devananda, reciter of the Bhagavata! Show me that pastime of the Lord — the night play in the waters of the Ganga with
+the devotees.” (“Namamrita-samudra” 148)
+<!-- F45 -->
+
 ## Significance
 Devananda's story is a lesson about *vaishnava-aparadha*. A scholar and ascetic, celibate from childhood, he expounded
 the “Bhagavatam” for years — and did not know its essence, because he did not serve the devotees and allowed an offence

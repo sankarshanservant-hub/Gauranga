@@ -596,6 +596,12 @@ Madhava Gosvami. On 2 September 1951 Srila Bhakti Vilasa Tirtha Gosvami laid the
 of Ramananda and Mahaprabhu on the spot where Sri Chaitanya’s footprints remain. Later the seventy-fifth anniversary of
 the Ramananda Gaudiya Math was solemnly celebrated in Kovvur. <!-- F150 F151 F152 F153 F154 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Raya Ramananda, ocean of rasa! Grant me always the company of devotees who relish rasa.” (“Namamrita-samudra” 65)
+<!-- F159 -->
+
 ## In the Eternal Pastimes
 In the line of Srila Bhaktivinoda Thakura, which the Gaudiya Math follows, Ramananda in the Vraja pastimes is Vishakha,
 just as Svarupa Damodara is Lalita (see the article on Svarupa Damodara). When the Lord, embracing Svarupa and Ramananda, spoke of how Radha reveals to

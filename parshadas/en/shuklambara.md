@@ -478,6 +478,14 @@ vv. 47–48); the tripadi-vandana calls them “heirs to the treasure of prema�
 journey to Puri: “Joyfully went Shuklambara Brahmachari, whose food the Lord Gaurahari ate” (pt. 4, v. 103); and his name
 is in Devakinandana's Sanskrit “Vaishnavabhidhana” too (pt. 3, v. 15). <!-- F51 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O dear Shuklambara, dweller of Nadia! If you spurn me with contempt, people will laugh.” (“Namamrita-samudra” 68)
+
+And in another verse of the same collection (138) Narahari recalls how lovingly the Lord ate his rice.
+<!-- F57 -->
+
 ## Significance
 Shuklambara is one of the branches of Sri Chaitanya's tree, and Krishnadasa Kaviraja calls him “most fortunate”: the Lord
 Himself would ask him for food, and at times even snatch it from him to eat. In this lies his whole life. Outwardly he was

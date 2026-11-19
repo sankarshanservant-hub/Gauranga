@@ -339,6 +339,13 @@ devotees from Mathura (“Gaura-krishnodaya” 14.57); the “Charitamrita” na
 One of the biographies says that Lochana Dasa too, in the “Chaitanya-mangala,” tells how the Lord wandered with Balabhadra
 Bhattacharya by the Yamuna and through Vrindavana's twelve forests.[^10] <!-- F48 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Balabhadra Bhattacharya! This is my prayer: may my mind abide in singing the qualities of Gaurachandra.”
+(“Namamrita-samudra” 96)
+<!-- F52 -->
+
 ## Significance
 Balabhadra Bhattacharya's life, as the sources know it, is above all a long road at the Lord's side. Yet that road holds
 what Krishnadasa Kaviraja expressed in a single verse: a true devotee who served the Lord as His brahmachari. Svarupa and
