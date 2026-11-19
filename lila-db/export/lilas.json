@@ -7447,6 +7447,53 @@
   "attestation": 4
  },
  {
+  "id": "jcv-0002",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 2, 1–83",
+  "file": "jagadisha-charitra-vijaya/ru/02.md",
+  "period": "P01",
+  "order": 2,
+  "title": "Рождение Джагадиши Пандита: дар Нараяны Камалакше и Бхагьявати",
+  "summary": "Бхагаватананда во сне велит автору описать житие Джагадиши; брахман Камалакша из восточного края и его жена Бхагьявати получают от Нараяны дар — сына-вайшнава; Джагадиша рождается в Бхима-экадаши; празднество, аннапрашана и наречение имени.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@kamalaksha-jagadisha",
+   "@bhagyavati",
+   "@ananda-dasa-jcv"
+  ],
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 10.73 (Джагадиша Пандит — ветвь Господа)",
+  "notes": "Рождение Джагадиши известно только из этого жития.",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "event": "ev-jagadisha-pandita-birth",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/02.md",
+    "from": "1",
+    "to": "83"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/02.md",
+    "from": "1",
+    "to": "83",
+    "line": 7,
+    "line_to": 255,
+    "count": 83,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/02.md?plain=1#L7-L255",
+    "file_en": "jagadisha-charitra-vijaya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/02.md?plain=1#L7-L255"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0013",
   "source": "jayananda-cm",
   "ref": "Надия-кханда, разд. 3 (фрагм. 3); статья Н. Васу 1897, «Состояние страны»",
@@ -277627,6 +277674,52 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/govinda-kadacha/ru/01.md?plain=1#L555-L555",
     "file_en": "govinda-kadacha/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/govinda-kadacha/en/01.md?plain=1#L555-L555"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "jcv-0001",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 1, 1–95",
+  "file": "jagadisha-charitra-vijaya/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Мангалачарана: Чайтанья, Нитьянанда, Адвайта; слава Джагадиши; линия гуру автора",
+  "summary": "Начало утрачено; поклонение Чайтанье и Нитьянанде, клич Адвайты и нисхождение Господа, Гададхара и Шриваса; призыв Махапрабху петь Имя; слава Джагадише Пандиту; линия гуру автора — Рагхунатха Ачарья, Бхагаватананда (как он получил имя), Премананда, Радхачарана; поклонение Госвами и шестидесяти четырём махантам.",
+  "persons": [
+   "@ananda-dasa-jcv",
+   "@jagadisha-pandita",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/01.md",
+    "from": "1",
+    "to": "95"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/01.md",
+    "from": "1",
+    "to": "95",
+    "line": 10,
+    "line_to": 315,
+    "count": 95,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/01.md?plain=1#L10-L315",
+    "file_en": "jagadisha-charitra-vijaya/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/01.md?plain=1#L10-L315"
    }
   ],
   "attestation": 1

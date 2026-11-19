@@ -452,6 +452,9 @@
 | @hari-bhatta | Хари Бхатта | Hari Bhatta | ория-спутник в Пури (ванданы) |
 | @hariharananda | Харихарананда (Бхарати) | Hariharananda (Bharati) | санньяси (ванданы) |
 | @jagadisha-pandita | Джагадиша Пандит | Jagadisha Pandita | спутник Господа и Нитьянанды, танцор (ГГД 143); не путать с @jagadisha-mishra |
+| @kamalaksha-jagadisha | Камалакша | Kamalaksha | брахман из Восточной Бенгалии, отец @jagadisha-pandita («Джагадиша-чаритра-виджая», 2) |
+| @bhagyavati | Бхагьявати | Bhagyavati | мать @jagadisha-pandita («Джагадиша-чаритра-виджая», 2) |
+| @ananda-dasa-jcv | Ананда Дас, автор «Джагадиша-чаритра-виджаи» | Ananda Dasa, author of the Jagadisha-charitra-vijaya | XVIII в., в линии ученика Джагадиши (Рагхунатха Ачарья, Бхагаватананда, Премананда, Радхачарана) |
 | @jagannatha-dasa-odia | Джаганнатха Дас (ория) | Jagannatha Dasa (the Oriya) | певец, «пением чарующий Джаганнатху» (ванданы); вероятно, поэт-ория |
 | @jagannatha-sena | Джаганнатха Сен | Jagannatha Sena | спутник Господа (ГГД 194–207; ванданы) |
 | @jagannatha-tirtha | Джаганнатха Тиртха | Jagannatha Tirtha | санньяси (ГГД 100) |

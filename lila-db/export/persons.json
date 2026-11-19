@@ -3460,6 +3460,7 @@
    "lcm-0001",
    "mkc-0001",
    "ccd-0002",
+   "jcv-0001",
    "jcm-0002",
    "kcm-0002",
    "lcm-0019",
@@ -11077,6 +11078,7 @@
    "jcm-0001",
    "lcm-0001",
    "ccd-0002",
+   "jcv-0001",
    "lcm-0019",
    "rm-0001",
    "sn-0001",
@@ -12934,6 +12936,7 @@
    "jcm-0001",
    "lcm-0001",
    "ccd-0002",
+   "jcv-0001",
    "rm-0001",
    "sn-0001",
    "gcc-0002",
@@ -48176,6 +48179,7 @@
   "note": "спутник Господа и Нитьянанды, танцор (ГГД 143); не путать с @jagadisha-mishra",
   "section": "Аллегорические лица",
   "lilas": [
+   "jcv-0002",
    "cb-0016",
    "vv-0064",
    "brt-6040",
@@ -48189,11 +48193,13 @@
    "cb-3102",
    "vv-0061",
    "cc-4065",
+   "jcv-0001",
    "cb-0007",
    "cb-3089",
    "cc-0157"
   ],
   "events": [
+   "ev-jagadisha-pandita-birth",
    "ev-navadvipa-vaishnavas-before-advent",
    "ev-jagadisha-hiranya-ekadashi",
    "ev-gaura-dance-with-devotees",
@@ -48225,6 +48231,46 @@
     "from": "@shachi",
     "type": "neighbor"
    }
+  ]
+ },
+ {
+  "id": "@kamalaksha-jagadisha",
+  "ru": "Камалакша",
+  "en": "Kamalaksha",
+  "note": "брахман из Восточной Бенгалии, отец @jagadisha-pandita («Джагадиша-чаритра-виджая», 2)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0002"
+  ],
+  "events": [
+   "ev-jagadisha-pandita-birth"
+  ]
+ },
+ {
+  "id": "@bhagyavati",
+  "ru": "Бхагьявати",
+  "en": "Bhagyavati",
+  "note": "мать @jagadisha-pandita («Джагадиша-чаритра-виджая», 2)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0002"
+  ],
+  "events": [
+   "ev-jagadisha-pandita-birth"
+  ]
+ },
+ {
+  "id": "@ananda-dasa-jcv",
+  "ru": "Ананда Дас, автор «Джагадиша-чаритра-виджаи»",
+  "en": "Ananda Dasa, author of the Jagadisha-charitra-vijaya",
+  "note": "XVIII в., в линии ученика Джагадиши (Рагхунатха Ачарья, Бхагаватананда, Премананда, Радхачарана)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0002",
+   "jcv-0001"
+  ],
+  "events": [
+   "ev-jagadisha-pandita-birth"
   ]
  },
  {

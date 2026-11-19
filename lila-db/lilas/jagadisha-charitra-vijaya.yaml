@@ -1,0 +1,39 @@
+# Ананда Дас, «Джагадиша-чаритра-виджая» — лилы в порядке изложения (формат — ../README.md).
+# Перевод: jagadisha-charitra-vijaya/ru/VV.md (VV — варна), метки **N.** — свой счёт внутри варны.
+
+- id: jcv-0001
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 1, 1–95"
+  file: "jagadisha-charitra-vijaya/ru/01.md"
+  period: PX
+  order: 1
+  title: "Мангалачарана: Чайтанья, Нитьянанда, Адвайта; слава Джагадиши; линия гуру автора"
+  summary: "Начало утрачено; поклонение Чайтанье и Нитьянанде, клич Адвайты и нисхождение Господа, Гададхара и Шриваса; призыв Махапрабху петь Имя; слава Джагадише Пандиту; линия гуру автора — Рагхунатха Ачарья, Бхагаватананда (как он получил имя), Премананда, Радхачарана; поклонение Госвами и шестидесяти четырём махантам."
+  persons: ["@ananda-dasa-jcv", "@jagadisha-pandita", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/01.md", from: "1", to: "95"}
+
+- id: jcv-0002
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 2, 1–83"
+  file: "jagadisha-charitra-vijaya/ru/02.md"
+  period: P01
+  order: 2
+  title: "Рождение Джагадиши Пандита: дар Нараяны Камалакше и Бхагьявати"
+  summary: "Бхагаватананда во сне велит автору описать житие Джагадиши; брахман Камалакша из восточного края и его жена Бхагьявати получают от Нараяны дар — сына-вайшнава; Джагадиша рождается в Бхима-экадаши; празднество, аннапрашана и наречение имени."
+  persons: ["@jagadisha-pandita", "@kamalaksha-jagadisha", "@bhagyavati", "@ananda-dasa-jcv"]
+  places: []
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Ади 10.73 (Джагадиша Пандит — ветвь Господа)"
+  notes: "Рождение Джагадиши известно только из этого жития."
+  themes: [family, revelation]
+  event: ev-jagadisha-pandita-birth
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/02.md", from: "1", to: "83"}

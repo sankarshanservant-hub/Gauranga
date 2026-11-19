@@ -584,6 +584,10 @@
 - padas (C): Баларама Дас, ГПТ1 с. 450 (№ 36) «ভাবের আবেশে বহু সীতাপতি মোর পহুঁ» — [22.1–22.4](../padas/ru/13.md?plain=1#L617-L626) · `pad-0281`
 - advaita-prakasha (D): Гл. 10, 94–95 — [94. Шри Адвайт–95. Харидас и д](../advaita-prakash/10.md?plain=1#L98-L99) · `apr-0042b`
 
+## Рождение Джагадиши Пандита у Камалакши и Бхагьявати; аннапрашана и имя / The birth of Jagadisha Pandita to Kamalaksha and Bhagyavati; annaprashana and naming  `ev-jagadisha-pandita-birth`
+
+- jagadisha-charitra-vijaya (C): Варна 2, 1–83 — [1–83](../jagadisha-charitra-vijaya/ru/02.md?plain=1#L7-L255) · `jcv-0002`
+
 ## Брахман — почитатель Рамы в час явления Господа видит в Нём Раму / A brahmana worshipper of Rama sees the newborn Lord as Rama  `ev-rama-worshipper-sees-newborn-as-rama` (1486–1486, возраст 0–0, оценка)
 
 - bhakti-ratnakara (B): Таранга 12, 599–624 — [599–624](../bhakti-ratnakara/ru/12.md?plain=1#L1828-L1903) · `brt-6013`
