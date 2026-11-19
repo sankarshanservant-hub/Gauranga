@@ -4271,6 +4271,10 @@
     "type": "companion"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "companion"
+   },
+   {
     "from": "@govinda-ghosha",
     "type": "companion"
    },
@@ -6097,6 +6101,10 @@
   "related_by": [
    {
     "from": "@gangamata-gosvamini",
+    "type": "other"
+   },
+   {
+    "from": "@gopinatha-pattanayaka",
     "type": "other"
    },
    {
@@ -21139,6 +21147,10 @@
     "type": "son"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "sibling"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    },
@@ -21834,6 +21846,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "co-worker"
    },
@@ -22292,6 +22308,10 @@
    {
     "from": "@gopala-guru",
     "type": "other"
+   },
+   {
+    "from": "@gopinatha-pattanayaka",
+    "type": "ruler-of"
    },
    {
     "from": "@govinda-servant",
@@ -28855,6 +28875,10 @@
     "type": "other"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "other"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    },
@@ -34715,6 +34739,10 @@
    {
     "from": "@bhavananda-raya",
     "type": "son"
+   },
+   {
+    "from": "@gopinatha-pattanayaka",
+    "type": "sibling"
    },
    {
     "from": "@ramananda-raya",
@@ -46856,6 +46884,10 @@
     "type": "other"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "other"
+   },
+   {
     "from": "@haridasa-thakura",
     "type": "other"
    },
@@ -47072,6 +47104,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@gopinatha-pattanayaka",
     "type": "other"
    },
    {
@@ -50889,6 +50925,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@gopinatha-pattanayaka",
+    "type": "father"
+   },
    {
     "from": "@madhavi-devi",
     "type": "uncle"
@@ -56624,6 +56664,123 @@
    "ev-bhavananda-raya-pandu",
    "ev-gopinatha-pattanayaka-pardoned"
   ],
+  "summary": "в Кришна-лиле — один из пяти Пандавов — сыновей Панду (ЧЧ Ади 10.132) и др.; происхождение — Бентпур (Бентапур)",
+  "card": "parshadas/cards/gopinatha-pattanayaka.yaml",
+  "article": {
+   "ru": "parshadas/ru/gopinatha-pattanayaka.md",
+   "en": "parshadas/en/gopinatha-pattanayaka.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место явления не названы ни в книгах, ни в первоисточниках; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-19) дня явления нет",
+    "facts": [
+     "F10"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-19) дня ухода нет (есть лишь день ухода Рамананды Рая)",
+    "facts": [
+     "F10"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "один из пяти Пандавов — сыновей Панду (который — не сказано)",
+    "source": "ЧЧ Ади 10.132; Мадхья 10.53 (слова Господа Бхавананде Раю)",
+    "level": "A",
+    "variants": [
+     "ГГД об отождествлении Гопинатхи молчит; из братьев лишь Рамананда отождествлён с Арджуной (ГГД 120–122)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "вместе с братьями — ветвь древа Чайтаньи (в «Анубхашье» — восьмая: «пять братьев во главе с Раманандой»)",
+    "source": "ЧЧ Ади 10.133–134",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@bhavananda-raya",
+    "note": "Отец — в играх Кришны Панду (ЧЧ Ади 10.132; Мадхья 10.53); отдал Господу себя и пятерых сыновей (Мадхья 10.55); благодарил Господа за спасение сына, «как Пандавов» (Антья 9.130–131). Подробно — @bhavananda-raya."
+   },
+   {
+    "type": "sibling",
+    "who": "@ramananda-raya",
+    "note": "Старший брат; «Анубхашья» к Антье 9.73 — Гопинатха «младший брат Рамананды»; Гопинатха: Рамананде и Ванинатхе Господь дал свободу от мирского (Антья 9.138). = @ramananda-raya F6, F9, F141."
+   },
+   {
+    "type": "sibling",
+    "who": "@vaninatha-raya",
+    "note": "Брат; во время дела Гопинатхи его с семьями связали и увели — он бесстрашно повторял «Харе Кришна» (ЧЧ Антья 9.34, 9.55–58)."
+   },
+   {
+    "type": "sibling",
+    "who": "@kalanidhi"
+   },
+   {
+    "type": "sibling",
+    "who": "@sudhanidhi"
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Господь отказался вмешаться, явив дхарму санньяси, и отослал преданных к Джаганнатхе, но спас его «милостью под покровом иного» (ЧЧ Антья 9.58, 9.150; Мадхья 1.265); Гопинатха на чанге созерцал Его стопы, затем молил об избавлении от мирского; Господь: «вы пятеро — Мои вечные слуги; не тратьте царского, остаток — на дхарму» (Антья 9.141–144)."
+   },
+   {
+    "type": "ruler-of",
+    "who": "@prataparudra",
+    "note": "Тип по CARDS.md: Пратапарудра — его государь; тахсилдар царя в Маладжатхья-Дандапате; царь отменил казнь, простил долг в два лакха кахан, удвоил жалованье и сам надел на него нетадхати (ЧЧ Антья 9.49–51, 9.94–107). = @prataparudra F30, F70–F71."
+   },
+   {
+    "type": "opposed",
+    "who": "@purushottama-jana",
+    "note": "Царевич (Бада Джана, наследник): занизил цену коней, был осмеян Гопинатхой и поднял его на чангу; по словам царя, хотел лишь устрашить (ЧЧ Антья 9.22–30, 9.99; ⚠8); затем по воле царя призвал его и отпустил (9.104)."
+   },
+   {
+    "type": "other",
+    "who": "@harichandana",
+    "note": "Харичандана Патра рассказал царю и просил отменить казнь (ЧЧ Антья 9.45–51); по B и T — по внутреннему побуждению Господа (⚠4)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "Удержал Господа от ухода в Алаланатху и передал всё царю: «Гопинатха не ищет у Тебя мирского; у него нет иного прибежища» (ЧЧ Антья 9.67–79, 9.80–126)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "С другими преданными молил Господа спасти род Бхавананды (ЧЧ Антья 9.36–37; = @svarupa-damodara F130)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "Господь отослал преданных молиться Джаганнатхе, Который может «сделать, не сделать и сделать иначе»; «сегодня его спас Джаганнатха» (ЧЧ Антья 9.43–44, 9.65)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Мадхья 10.49 и Антье 9: он среди четырёх сыновей Бхавананды; «младший брат Рамананды», «не торговец»; невмешательство Господа — урок отрёкшимся; вечный слуга и дома — маха-санньяси."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Антье 9: чанга, кахан, насмешка над царевичем, «муддати», нетадхати; «крипа-виварта» — милость в виде мирского блага."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhavananda-raya",
@@ -56661,6 +56818,10 @@
     "type": "son"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "sibling"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "sibling"
    }
@@ -56682,6 +56843,10 @@
    {
     "from": "@bhavananda-raya",
     "type": "son"
+   },
+   {
+    "from": "@gopinatha-pattanayaka",
+    "type": "sibling"
    },
    {
     "from": "@ramananda-raya",
@@ -57635,6 +57800,10 @@
     "type": "other"
    },
    {
+    "from": "@gopinatha-pattanayaka",
+    "type": "opposed"
+   },
+   {
     "from": "@prataparudra",
     "type": "son"
    }
@@ -58435,6 +58604,10 @@
   "related_by": [
    {
     "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
+    "from": "@gopinatha-pattanayaka",
     "type": "other"
    },
    {

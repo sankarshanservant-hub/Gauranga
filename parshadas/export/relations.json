@@ -7606,6 +7606,231 @@
   "note": "ГГД 163: Тунгавидья — Прабодхананда (к варианту M)."
  },
  {
+  "from": "@gopinatha-pattanayaka",
+  "type": "father",
+  "who": "@bhavananda-raya",
+  "facts": [
+   "F2",
+   "F3",
+   "F5",
+   "F7",
+   "F11",
+   "F37"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Отец — в играх Кришны Панду (ЧЧ Ади 10.132; Мадхья 10.53); отдал Господу себя и пятерых сыновей (Мадхья 10.55); благодарил Господа за спасение сына, «как Пандавов» (Антья 9.130–131). Подробно — @bhavananda-raya."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "sibling",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F2",
+   "F3",
+   "F4",
+   "F6",
+   "F39"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Старший брат; «Анубхашья» к Антье 9.73 — Гопинатха «младший брат Рамананды»; Гопинатха: Рамананде и Ванинатхе Господь дал свободу от мирского (Антья 9.138). = @ramananda-raya F6, F9, F141."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "sibling",
+  "who": "@vaninatha-raya",
+  "facts": [
+   "F4",
+   "F11",
+   "F22",
+   "F29",
+   "F39"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Брат; во время дела Гопинатхи его с семьями связали и увели — он бесстрашно повторял «Харе Кришна» (ЧЧ Антья 9.34, 9.55–58)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "sibling",
+  "who": "@kalanidhi",
+  "facts": [
+   "F4",
+   "F11"
+  ]
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "sibling",
+  "who": "@sudhanidhi",
+  "facts": [
+   "F4",
+   "F11"
+  ]
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F5",
+   "F6",
+   "F11",
+   "F19",
+   "F20",
+   "F21",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F29",
+   "F30",
+   "F31",
+   "F35",
+   "F36",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F43",
+   "I1",
+   "I2",
+   "I3"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Господь отказался вмешаться, явив дхарму санньяси, и отослал преданных к Джаганнатхе, но спас его «милостью под покровом иного» (ЧЧ Антья 9.58, 9.150; Мадхья 1.265); Гопинатха на чанге созерцал Его стопы, затем молил об избавлении от мирского; Господь: «вы пятеро — Мои вечные слуги; не тратьте царского, остаток — на дхарму» (Антья 9.141–144)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "ruler-of",
+  "who": "@prataparudra",
+  "facts": [
+   "F9",
+   "F12",
+   "F16",
+   "F26",
+   "F32",
+   "F33",
+   "F34"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Тип по CARDS.md: Пратапарудра — его государь; тахсилдар царя в Маладжатхья-Дандапате; царь отменил казнь, простил долг в два лакха кахан, удвоил жалованье и сам надел на него нетадхати (ЧЧ Антья 9.49–51, 9.94–107). = @prataparudra F30, F70–F71."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "opposed",
+  "who": "@purushottama-jana",
+  "facts": [
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F33"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Царевич (Бада Джана, наследник): занизил цену коней, был осмеян Гопинатхой и поднял его на чангу; по словам царя, хотел лишь устрашить (ЧЧ Антья 9.22–30, 9.99; ⚠8); затем по воле царя призвал его и отпустил (9.104)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "other",
+  "who": "@harichandana",
+  "facts": [
+   "F25",
+   "F26"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Харичандана Патра рассказал царю и просил отменить казнь (ЧЧ Антья 9.45–51); по B и T — по внутреннему побуждению Господа (⚠4)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "other",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F30",
+   "F31",
+   "F32",
+   "F36"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Удержал Господа от ухода в Алаланатху и передал всё царю: «Гопинатха не ищет у Тебя мирского; у него нет иного прибежища» (ЧЧ Антья 9.67–79, 9.80–126)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F23"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "С другими преданными молил Господа спасти род Бхавананды (ЧЧ Антья 9.36–37; = @svarupa-damodara F130)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "other",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F24",
+   "F30"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Господь отослал преданных молиться Джаганнатхе, Который может «сделать, не сделать и сделать иначе»; «сегодня его спас Джаганнатха» (ЧЧ Антья 9.43–44, 9.65)."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F11",
+   "F21",
+   "F23",
+   "F31",
+   "F39",
+   "F40",
+   "F41",
+   "F43"
+  ],
+  "note": "«Анубхашья» к ЧЧ Мадхья 10.49 и Антье 9: он среди четырёх сыновей Бхавананды; «младший брат Рамананды», «не торговец»; невмешательство Господа — урок отрёкшимся; вечный слуга и дома — маха-санньяси."
+ },
+ {
+  "from": "@gopinatha-pattanayaka",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F12",
+   "F15",
+   "F18",
+   "F28",
+   "F33",
+   "F43"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Антье 9: чанга, кахан, насмешка над царевичем, «муддати», нетадхати; «крипа-виварта» — милость в виде мирского блага."
+ },
+ {
   "from": "@govinda-ghosha",
   "type": "sibling",
   "who": "@madhava-ghosha",
