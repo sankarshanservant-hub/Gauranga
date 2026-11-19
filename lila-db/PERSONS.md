@@ -455,6 +455,15 @@
 | @kamalaksha-jagadisha | Камалакша | Kamalaksha | брахман из Восточной Бенгалии, отец @jagadisha-pandita («Джагадиша-чаритра-виджая», 2) |
 | @bhagyavati | Бхагьявати | Bhagyavati | мать @jagadisha-pandita («Джагадиша-чаритра-виджая», 2) |
 | @ananda-dasa-jcv | Ананда Дас, автор «Джагадиша-чаритра-виджаи» | Ananda Dasa, author of the Jagadisha-charitra-vijaya | XVIII в., в линии ученика Джагадиши (Рагхунатха Ачарья, Бхагаватананда, Премананда, Радхачарана) |
+| @duhkhini-jagadisha | Духкхини, жена Джагадиши Пандита | Duhkhini, wife of Jagadisha Pandita | дочь Тапаны Пандита; подруга Шачи, нянчила Нимая; служила Гаура-Гопалу в Яшоде («Джагадиша-чаритра-виджая», 5–10) |
+| @tapana-pandita-jcv | Тапана Пандит, тесть Джагадиши | Tapana Pandita, Jagadisha's father-in-law | бедный брахман из Восточной Бенгалии («Джагадиша-чаритра-виджая», 5) |
+| @vidyanidhi-bhattacharya-jcv | Видьянидхи Бхаттачарья | Vidyanidhi Bhattacharya | пандит, учивший о бесформенном Брахмане, побеждён Джагадишей и стал вайшнавом («Джагадиша-чаритра-виджая», 4); не Пундарика Видьянидхи |
+| @raghunatha-acharya-jcv | Рагхунатха Ачарья (сын Бхагавана Ачарьи) | Raghunatha Acharya (son of Bhagavan Acharya) | ученик @jagadisha-pandita, проповедовал в Малипаре; первый в линии гуру автора «Джагадиша-чаритра-виджаи» (1, 11, 12) |
+| @kamalakanta-durgapur | Камалаканта Дас из Дургапура | Kamalakanta Dasa of Durgapur | ученик @jagadisha-pandita («Джагадиша-чаритра-виджая», 11–12) |
+| @ramabhadra-jagadisha | Рамабхадра, сын Джагадиши Пандита | Ramabhadra, son of Jagadisha Pandita | получил от отца шакти («Джагадиша-чаритра-виджая», 12) |
+| @rasamanjari-jagadisha | Расаманджари, дочь Джагадиши Пандита | Rasamanjari, daughter of Jagadisha Pandita | выдана за Гопиваллабху, внука Нитьянанды, в Джирате («Джагадиша-чаритра-виджая», 12) |
+| @gopivallabha-jirat | Гопиваллабха (Гопала-валлабха) из Джираты | Gopivallabha (Gopala-vallabha) of Jirat | сын @madhava-acharya-ganga и @ganga-nityananda («Джагадиша-чаритра-виджая», 12) |
+| @bhagavatananda-jcv | Бхагаватананда | Bhagavatananda | гуру линии автора «Джагадиша-чаритра-виджаи», повелевший ему во сне написать житие (1–3) |
 | @jagannatha-dasa-odia | Джаганнатха Дас (ория) | Jagannatha Dasa (the Oriya) | певец, «пением чарующий Джаганнатху» (ванданы); вероятно, поэт-ория |
 | @jagannatha-sena | Джаганнатха Сен | Jagannatha Sena | спутник Господа (ГГД 194–207; ванданы) |
 | @jagannatha-tirtha | Джаганнатха Тиртха | Jagannatha Tirtha | санньяси (ГГД 100) |

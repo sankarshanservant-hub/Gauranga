@@ -576,6 +576,7 @@
 
 ## В час явления Господа Адвайта с Харидасом пляшут, а преданные во время затмения омываются в Ганге и раздают дары / At the hour of the Lord's advent Advaita dances with Haridasa, and the devotees bathe in the Ganga during the eclipse and give gifts  `ev-advent-eclipse-devotees-rejoice` (1486–1486, возраст 0–0, точно)
 
+- jagadisha-charitra-vijaya (C): Варна 7, 1–25 — [1–25](../jagadisha-charitra-vijaya/ru/07.md?plain=1#L7-L79) · `jcv-0007`
 - cc (A): Ади 13.98–103 — [98–103](../chaitanya-charitamrita/ed/vcd/CC_Adi13.md?plain=1#L997-L1077) · `cc-0194`
 
 ## Адвайта в час явления возвещает: «Привёл Гауру!» / At the hour of the advent Advaita proclaims: “I have brought Gaura!”  `ev-advaita-proclaims-advent` (1486–1486, возраст 0–0, точно)
@@ -587,6 +588,22 @@
 ## Рождение Джагадиши Пандита у Камалакши и Бхагьявати; аннапрашана и имя / The birth of Jagadisha Pandita to Kamalaksha and Bhagyavati; annaprashana and naming  `ev-jagadisha-pandita-birth`
 
 - jagadisha-charitra-vijaya (C): Варна 2, 1–83 — [1–83](../jagadisha-charitra-vijaya/ru/02.md?plain=1#L7-L255) · `jcv-0002`
+
+## Детство и учёба Джагадиши Пандита; упанаяна / Jagadisha Pandita's childhood and studies; upanayana  `ev-jagadisha-childhood-upanayana`
+
+- jagadisha-charitra-vijaya (C): Варна 3, 1–57 — [1–57](../jagadisha-charitra-vijaya/ru/03.md?plain=1#L7-L191) · `jcv-0003`
+
+## Джагадиша опровергает учение о бесформенном Брахмане и обращает Видьянидхи Бхаттачарью / Jagadisha refutes the doctrine of the formless Brahman and converts Vidyanidhi Bhattacharya  `ev-jagadisha-vidyanidhi-debate`
+
+- jagadisha-charitra-vijaya (C): Варна 4, 1–138 — [1–138](../jagadisha-charitra-vijaya/ru/04.md?plain=1#L7-L434) · `jcv-0004`
+
+## Свадьба Джагадиши Пандита и Духкхини / The marriage of Jagadisha Pandita and Duhkhini  `ev-jagadisha-marriage-duhkhini`
+
+- jagadisha-charitra-vijaya (C): Варна 5, 1–77 — [1–77](../jagadisha-charitra-vijaya/ru/05.md?plain=1#L7-L367) · `jcv-0005`
+
+## Уход родителей Джагадиши; шраддха; переселение в Навадвипу / Departure of Jagadisha's parents; shraddha; settling in Navadvipa  `ev-jagadisha-settles-navadvipa`
+
+- jagadisha-charitra-vijaya (C): Варна 6, 1–166 — [1–166](../jagadisha-charitra-vijaya/ru/06.md?plain=1#L7-L529) · `jcv-0006`
 
 ## Брахман — почитатель Рамы в час явления Господа видит в Нём Раму / A brahmana worshipper of Rama sees the newborn Lord as Rama  `ev-rama-worshipper-sees-newborn-as-rama` (1486–1486, возраст 0–0, оценка)
 
@@ -857,12 +874,17 @@
 ## В экадаши Господь-ребёнок просит подношение Вишну в домах Джагадиши и Хираньи / On Ekadashi the child Lord asks for the offering to Vishnu in the houses of Jagadisha and Hiranya  `ev-jagadisha-hiranya-ekadashi` (1487–1491, возраст 1–5, оценка)
 
 - vaishnava-vandana (B): «Первая вандана», 106–107 — [106–107](../vaishnava-vandana/ru/04.md?plain=1#L350-L353) · `vv-0064`
+- jagadisha-charitra-vijaya (C): Варна 7, 26–71 — [26–71](../jagadisha-charitra-vijaya/ru/07.md?plain=1#L82-L221) · `jcv-0008`
 - bhakti-ratnakara (B): Таранга 12, 1111–1115 — [1111–1115](../bhakti-ratnakara/ru/12.md?plain=1#L3411-L3423) · `brt-6040`
 - bhakti-ratnakara (B): Таранга 12, 2145–2146 — [2145–2146](../bhakti-ratnakara/ru/12.md?plain=1#L6990-L6993) · `brt-7020`
 - cb (A): Ади 6, 16–41 — [16–41](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L84-L203) · `cb-0047`
 - cc (A): Ади 10.69–71 — [69–71](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L703-L723) · `cc-0130`
 - cc (A): Ади 14.39 — [39–39](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L407-L407) · `cc-0208`
 - sanyal (C): Т. II, гл. 6 —  · `sn-0005`
+
+## Нимай съедает подношение во время пуджи Джагадиши и открывает ему и Духкхини Свой облик / Nimai eats the offering during Jagadisha's puja and reveals His form to him and Duhkhini  `ev-jagadisha-ekadashi-revelation` (1487–1491, возраст 1–5, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 7, 72–113 — [72–113](../jagadisha-charitra-vijaya/ru/07.md?plain=1#L224-L349) · `jcv-0009`
 
 ## Нимай высмеивает йогу Мурари Гупты / Nimai mocks Murari Gupta's yoga  `ev-murari-yoga-mockery` (1487–1491, возраст 1–5, оценка)
 
@@ -3062,6 +3084,14 @@
 - cc (A): Ади 10.17–20 — [17–20](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L183-L213) · `cc-0112`
 - vaishnava-vandana (B): Вандана Дживы, 80 — [80–80](../vaishnava-vandana/ru/01.md?plain=1#L179-L179) · `vv-0016`
 
+## Господь открывает Джагадише будущую санньясу и посылает его в Нилачалу / The Lord reveals His coming sannyasa to Jagadisha and sends him to Nilachala  `ev-jagadisha-sent-nilachala` (1509–1510, возраст 23–24, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 7, 114–130 — [114–130](../jagadisha-charitra-vijaya/ru/07.md?plain=1#L352-L400) · `jcv-0010`
+
+## Джагадиша приносит на спине Джаганнатху из Пури в Яшоду; местный царь даёт землю / Jagadisha carries Jagannatha on his back from Puri to Yashoda; the local king grants land  `ev-jagadisha-brings-jagannatha-yashoda` (1509–1510, возраст 23–24, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 8, 1–84 — [1–84](../jagadisha-charitra-vijaya/ru/08.md?plain=1#L7-L328) · `jcv-0011`
+
 ## Господь покидает Навадвипу / The Lord leaves Navadvipa  `ev-leaving-navadvipa` (1510–1510, возраст 23–24, вероятно)
 
 - cb (A): Мадхья 28, 1–14 — [1–14](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L12-L74) · `cb-2069`
@@ -3213,6 +3243,14 @@
 - padas (C): Баларама Дас, ПК 2251 = ГПТ1 с. 19 (№ 51) «হরি হরি এ বড় বিস্ময় লাগে মনে» — [17.1–17.4](../padas/ru/11.md?plain=1#L668-L682) · `pad-0222`
 - padas (C): Баларама Дас, ПК 2252 = ГПТ1 с. 19 (№ 50) «রূপ কোটি কাম জিনি» — [18.1–18.4](../padas/ru/11.md?plain=1#L700-L714) · `pad-0223`
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 14–33 (с 15+1–15+15, 31+1, 32+1) — [14–33](../lochana/ru/41.md?plain=1#L50-L158) · `lcm-0188`
+
+## Махапрабху и Нитьянанда ночью приходят в Яшоду к Джагадише; чудеса трапезы; трое сыновей входят в Господа / Mahaprabhu and Nityananda come by night to Jagadisha in Yashoda; wonders of the meal; the three sons enter the Lord  `ev-lord-visits-yashoda` (1510–1510, возраст 24–24, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 9, 1–112 — [1–112](../jagadisha-charitra-vijaya/ru/09.md?plain=1#L7-L342) · `jcv-0012`
+
+## Явление Божества Гаура-Гопалы в Яшоде; Духкхини выбирает служение Гопалу / Appearance of the Gaura-Gopala Deity in Yashoda; Duhkhini chooses to serve Gopala  `ev-gaura-gopala-yashoda` (1510–1510, возраст 24–24, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 10, 1–138 — [1–138](../jagadisha-charitra-vijaya/ru/10.md?plain=1#L7-L418) · `jcv-0013`
 
 ## Преданные Навадвипы связывают Господа святым именем / The devotees of Navadvipa bind the Lord with the holy name  `ev-devotees-bind-lord-by-name` (1510–1510, возраст 24–24, оценка)
 
@@ -3581,6 +3619,10 @@
 
 - cc (A): Мадхья 7.3–6 — [3–6](../chaitanya-charitamrita/ed/vcd/CC_Madhya07.md?plain=1#L31-L55) · `cc-1060`
 - gaura-krishnodaya (B): Сарга 8, 42–54 — [42–54](../gaura-krishnodaya/ru/08.md?plain=1#L93-L119) · `gkd-0073`
+
+## В пути в Нилачалу Джагадиша танцует перед Господом и получает имя Нритья-виноди / On the way to Nilachala Jagadisha dances before the Lord and receives the name Nritya-vinodi  `ev-jagadisha-nritya-vinodi` (1510–1510, возраст 24–24, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 11, 1–37 — [1–37](../jagadisha-charitra-vijaya/ru/11.md?plain=1#L7-L185) · `jcv-0014`
 
 ## Пурушоттама Ачарья принимает санньясу в Варанаси — Сварупа Дамодара / Purushottama Acharya takes sannyasa in Varanasi — Svarupa Damodara  `ev-purushottama-acharya-sannyasa` (1510–1511, возраст 24–25, оценка)
 
@@ -4675,6 +4717,10 @@
 ## Тайный совет Господа с Нитьянандой в Нилачале: Вирачандра будет нисшествием Гауранги / The Lord's secret counsel with Nityananda at Nilachala: Virachandra will be Gauranga's own descent  `ev-virachandra-secret-counsel` (1512–1514, возраст 26–28, оценка)
 
 - vaishnava-vandana (C): Вандана в трипади, 16–17 — [16–17](../vaishnava-vandana/ru/05.md?plain=1#L63-L66) · `vv-0067`
+
+## Рождение Рагхунатхи у Бхагавана Ачарьи по слову Господа; посвящение и обучение у Джагадиши / Birth of Raghunatha to Bhagavan Acharya by the Lord's word; initiation and training by Jagadisha  `ev-raghunatha-acharya-initiation` (1512–1514, возраст 26–28, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 11, 38–106 — [38–106](../jagadisha-charitra-vijaya/ru/11.md?plain=1#L188-L398) · `jcv-0015`
 
 ## Господь отговаривает Пратапарудру от войны с Гаудой / The Lord dissuades Prataparudra from war with Gauda  `ev-lord-warns-prataparudra-war` (1512–1514, возраст 26–28, оценка)
 
@@ -7747,6 +7793,10 @@
 ## Манохара Дас завершает «Анурага-валли» во Вриндаване (самват 1753, шака 1618 = 1696 г.) / Manohara Dasa completes the Anuraga-valli in Vrindavana (Samvat 1753, Shaka 1618 = 1696)  `ev-anuragavalli-composed` (1696–1696, возраст 210–210, точно)
 
 - anuragavalli (C): Манджари 8, 137–144 — [137–144](../anuragavalli/ru/08.md?plain=1#L466-L495) · `anv-0055`
+
+## Дети и ученики Джагадиши; передача шакти Рамабхадре; сокрытие Джагадиши Пандита / Jagadisha's children and disciples; transmission of shakti to Ramabhadra; disappearance of Jagadisha Pandita  `ev-jagadisha-disappearance` (1533–1534, возраст 47–48, оценка)
+
+- jagadisha-charitra-vijaya (C): Варна 12, 1–52 — [1–52](../jagadisha-charitra-vijaya/ru/12.md?plain=1#L7-L160) · `jcv-0016`
 
 ## Истина о Нитьянанде и Адвайте / The truth about Nityananda and Advaita  `ev-tattva-nityananda-advaita`
 
