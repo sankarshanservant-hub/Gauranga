@@ -277927,6 +277927,51 @@
   "attestation": 1
  },
  {
+  "id": "pn-0001",
+  "source": "pata-nirnaya",
+  "ref": "Пата-нирная 1–79",
+  "file": "pata-nirnaya/ru/PN.md",
+  "period": "PX",
+  "order": 1,
+  "title": "«Пата-нирная»: дхамы Господа и шрипаты Его спутников",
+  "summary": "Перечень дхам Господа и шрипатов спутников — мест их рождения и игр в Бенгалии и Ориссе; плод паломничества по ним; хронограмма (1597 г. Шаки) и подпись Рамагопалы Даса.",
+  "persons": [
+   "@ramagopala-dasa-pata"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "B",
+  "parallels": "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "pata-nirnaya/ru/PN.md",
+    "from": "1",
+    "to": "79"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "pata-nirnaya/ru/PN.md",
+    "from": "1",
+    "to": "79",
+    "line": 9,
+    "line_to": 258,
+    "count": 79,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/pata-nirnaya/ru/PN.md?plain=1#L9-L258",
+    "file_en": "pata-nirnaya/en/PN.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/pata-nirnaya/en/PN.md?plain=1#L9-L258"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "rm-0001",
   "source": "rasika-mangala",
   "ref": "Пурва 1, 1–194",
@@ -278051,6 +278096,52 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/ru/01.md?plain=1#L5-L31",
     "file_en": "sarvabhauma-shataka/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/sarvabhauma-shataka/en/01.md?plain=1#L5-L31"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "sna-0001",
+  "source": "shakha-nirnayamrita",
+  "ref": "Шл. 1–59",
+  "file": "shakha-nirnayamrita/ru/SNA.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Вандана ветвям Гададхары Пандита",
+  "summary": "59 шлок поклонения ученикам и последователям Гададхары Пандита: Дхрувананда, Шридхара Брахмачари, Ананта Ачарья, Наянананда Мишра, Ачьютананда, Бхугарбха Госвами, Бхагавата Дас, Джаянанда, Мадхава Ачарья, Чандрашекхара, Вакрешвара, Дамодара Пандит и другие.",
+  "persons": [
+   "@yadunatha-dasa-shakha",
+   "@gadadhara-pandita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "B",
+  "parallels": "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "shakha-nirnayamrita/ru/SNA.md",
+    "from": "1",
+    "to": "59"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "shakha-nirnayamrita/ru/SNA.md",
+    "from": "1",
+    "to": "59",
+    "line": 5,
+    "line_to": 125,
+    "count": 59,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/shakha-nirnayamrita/ru/SNA.md?plain=1#L5-L125",
+    "file_en": "shakha-nirnayamrita/en/SNA.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/shakha-nirnayamrita/en/SNA.md?plain=1#L5-L125"
    }
   ],
   "attestation": 1
@@ -278591,6 +278682,52 @@
   "attestation": 1
  },
  {
+  "id": "pn-0002",
+  "source": "pata-nirnaya",
+  "ref": "Пата-парьятана 1–57",
+  "file": "pata-nirnaya/ru/PP.md",
+  "period": "PX",
+  "order": 2,
+  "title": "«Пата-парьятана»: пять дхам, двенадцать шрипатов гопал",
+  "summary": "Пять дхам Господа, Нитьянанды и Адвайты; двенадцать шрипатов гопал с их враджскими именами; сёла других спутников, великие шрипаты Аградвипа и Шрикханда.",
+  "persons": [
+   "@abhirama-dasa-author",
+   "@abhirama"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "B",
+  "parallels": "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "pata-nirnaya/ru/PP.md",
+    "from": "1",
+    "to": "57"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "pata-nirnaya/ru/PP.md",
+    "from": "1",
+    "to": "57",
+    "line": 7,
+    "line_to": 185,
+    "count": 57,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/pata-nirnaya/ru/PP.md?plain=1#L7-L185",
+    "file_en": "pata-nirnaya/en/PP.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/pata-nirnaya/en/PP.md?plain=1#L7-L185"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "vlm-0102",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 1, 30–53",
@@ -279026,6 +279163,52 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/3.01.md?plain=1#L5-L13",
     "file_en": "murari-gupta/en/3.01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/3.01.md?plain=1#L5-L13"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pn-0003",
+  "source": "pata-nirnaya",
+  "ref": "Шакха-нирная 1–17",
+  "file": "pata-nirnaya/ru/ASN.md",
+  "period": "PX",
+  "order": 3,
+  "title": "«Шакха-нирная Абхирамачандры»: ученики Абхирамы Тхакура",
+  "summary": "Двадцать четыре с половиной «ветви» Абхирамы Тхакура и их сёла.",
+  "persons": [
+   "@abhirama-dasa-author",
+   "@abhirama"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "B",
+  "parallels": "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "verses": [
+   {
+    "file": "pata-nirnaya/ru/ASN.md",
+    "from": "1",
+    "to": "17"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "pata-nirnaya/ru/ASN.md",
+    "from": "1",
+    "to": "17",
+    "line": 5,
+    "line_to": 53,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/pata-nirnaya/ru/ASN.md?plain=1#L5-L53",
+    "file_en": "pata-nirnaya/en/ASN.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/pata-nirnaya/en/ASN.md?plain=1#L5-L53"
    }
   ],
   "attestation": 1

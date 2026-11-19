@@ -12,3 +12,7 @@
 - `src/img/` — три страницы (200 dpi), `src/*_tesseract-pages.txt` — наш OCR, `src/*_IA-ocr-pages.txt` — OCR archive.org.
 - Комплект: `sh shakha-nirnayamrita/tools/make_kit.sh <выход.zip>`; инструкция — `KIT-README.md`.
 - Связь: `parshadas/GLOSSARY.md` («Шакха-нирнаямрита», «Шакха-нирная»), статьи `parshadas/` о Гададхаре, Бхугарбхе и др.
+
+## Перевод
+
+Внесено 2026-11-19 (RU/EN, `tools/intake.py`); отчёты — `review/`; база лил — `lila-db/lilas/shakha-nirnayamrita.yaml`.

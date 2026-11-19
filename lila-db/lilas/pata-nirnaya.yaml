@@ -1,0 +1,59 @@
+# «Пата-нирная», «Пата-парьятана», «Шакха-нирная Абхирамачандры» (формат — ../README.md).
+
+- id: pn-0001
+  source: pata-nirnaya
+  ref: "Пата-нирная 1–79"
+  file: "pata-nirnaya/ru/PN.md"
+  period: PX
+  order: 1
+  title: "«Пата-нирная»: дхамы Господа и шрипаты Его спутников"
+  summary: "Перечень дхам Господа и шрипатов спутников — мест их рождения и игр в Бенгалии и Ориссе; плод паломничества по ним; хронограмма (1597 г. Шаки) и подпись Рамагопалы Даса."
+  persons: ["@ramagopala-dasa-pata"]
+  places: []
+  kind: author
+  authority: B
+  parallels: "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»"
+  notes: ""
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "pata-nirnaya/ru/PN.md", from: "1", to: "79"}
+
+- id: pn-0002
+  source: pata-nirnaya
+  ref: "Пата-парьятана 1–57"
+  file: "pata-nirnaya/ru/PP.md"
+  period: PX
+  order: 2
+  title: "«Пата-парьятана»: пять дхам, двенадцать шрипатов гопал"
+  summary: "Пять дхам Господа, Нитьянанды и Адвайты; двенадцать шрипатов гопал с их враджскими именами; сёла других спутников, великие шрипаты Аградвипа и Шрикханда."
+  persons: ["@abhirama-dasa-author", "@abhirama"]
+  places: []
+  kind: author
+  authority: B
+  parallels: "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»"
+  notes: ""
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "pata-nirnaya/ru/PP.md", from: "1", to: "57"}
+
+- id: pn-0003
+  source: pata-nirnaya
+  ref: "Шакха-нирная 1–17"
+  file: "pata-nirnaya/ru/ASN.md"
+  period: PX
+  order: 3
+  title: "«Шакха-нирная Абхирамачандры»: ученики Абхирамы Тхакура"
+  summary: "Двадцать четыре с половиной «ветви» Абхирамы Тхакура и их сёла."
+  persons: ["@abhirama-dasa-author", "@abhirama"]
+  places: []
+  kind: author
+  authority: B
+  parallels: "ЧЧ Ади 12 (ветвь Гададхары); «Гаура-ганоддеша-дипика»"
+  notes: ""
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "pata-nirnaya/ru/ASN.md", from: "1", to: "17"}
+

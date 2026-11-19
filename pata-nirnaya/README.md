@@ -15,3 +15,7 @@
   Рукопись PP — Сахитья Паришат № 1440. Маджумдар использует PP в своём указателе спутников (сокращение «অভি»).
 - Исходные файлы: `sources/associates/kishori-das-texts/pata-nirnaya-paryatan/`.
 - Комплект: `sh pata-nirnaya/tools/make_kit.sh <выход.zip>`; инструкция — `KIT-README.md`.
+
+## Перевод
+
+Внесено 2026-11-19 (RU/EN, `tools/intake.py`); отчёты — `review/`; база лил — `lila-db/lilas/pata-nirnaya.yaml`.

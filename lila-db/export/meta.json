@@ -108,7 +108,9 @@
   "rasika-mangala": "B",
   "gaura-charita-chintamani": "C",
   "sarvabhauma-shataka": "D",
-  "sanyal": "C"
+  "sanyal": "C",
+  "shakha-nirnayamrita": "B",
+  "pata-nirnaya": "B"
  },
  "themes": [
   "author",
@@ -167,6 +169,7 @@
  ],
  "persons": [
   "@abhirama",
+  "@abhirama-dasa-author",
   "@achyutananda",
   "@achyutananda-odia",
   "@achyutananda-rayani",
@@ -741,6 +744,7 @@
   "@ramadasa-vipra",
   "@ramadasa-vishvasa",
   "@ramagiri-raya",
+  "@ramagopala-dasa-pata",
   "@ramai-blind",
   "@ramai-jahnava",
   "@ramai-puri",
