@@ -555,3 +555,83 @@ sanyal:
     - "Богословское введение (цель и метод теистического повествования, природа Кришны, история атеизма и теизма, ачарьи, аватары) и подробная жизнь Шри Чайтаньи от Навадвипы до Гаи — каждая лила с толкованием в духе Шрилы Бхактисиддханты Сарасвати."
   about_en:
     - "A theological introduction (aim and method of a theistic narrative, the nature of Krishna, the history of atheism and theism, the acharyas, the avataras) and a detailed life of Sri Chaitanya from Navadvipa to Gaya — every lila interpreted in the spirit of Srila Bhaktisiddhanta Sarasvati."
+
+gaura-charita-chintamani:
+  facts_ru:
+    - "Автор: Нарахари Чакраварти (Гханашьяма Дас), автор «Бхакти-ратнакары» и «Нароттама-виласы»"
+    - "Время: XVIII в."
+    - "Язык и форма: бенгальская поэма в «киранах», каждая строфа — в своём размере или на свою рагу"
+    - "Издание: изд. Харидаса Даса (Навадвип, 1947), первая часть; рукопись обрывается"
+    - "Место в традиции: аштакалия-лила (памятование игр по часам суток), а не жизнеописание; киранам о «нагари» даны сноски: гаура-нагари-вада отвергнута Бхактисиддхантой (C)"
+    - "Наш текст: 17 киран до обрыва рукописи"
+  facts_en:
+    - "Author: Narahari Chakravarti (Ghanashyama Dasa), author of the Bhakti-ratnakara and Narottama-vilasa"
+    - "Date: 18th century"
+    - "Language and form: Bengali poem in “kiranas”, each stanza in its own metre or raga"
+    - "Edition: ed. Haridasa Dasa (Navadvipa, 1947), first part; the manuscript breaks off"
+    - "Place in the tradition: ashtakaliya-lila (remembrance of the pastimes by the hours of the day), not a biography; the “nagari” passages are annotated: gaura-nagari-vada was rejected by Bhaktisiddhanta (C)"
+    - "Our text: 17 kiranas up to where the manuscript breaks off"
+  about_ru:
+    - "«Драгоценный камень жития Гауры» — игры Шри Гауры в Навадвипе по часам суток в изящных стихах знатока метрики."
+  about_en:
+    - "“The wish-fulfilling gem of Gaura’s life” — Sri Gaura’s pastimes in Navadvipa through the hours of the day in the refined verse of a master of prosody."
+
+shakha-nirnayamrita:
+  facts_ru:
+    - "Автор: Ядунатха Дас"
+    - "Время: XVII в."
+    - "Язык и форма: санскрит, 59 шлок-ванданы"
+    - "Издание: текст напечатан в «Гаура-бхакта-амрита-лахари» Кишори Даса Бабаджи"
+    - "Место в традиции: перечень ветви Гададхары Пандита; Маджумдар пользуется им в списке спутников (B)"
+    - "Наш текст: полный перевод"
+  facts_en:
+    - "Author: Yadunatha Dasa"
+    - "Date: 17th century"
+    - "Language and form: Sanskrit, 59 verses of vandana"
+    - "Edition: text printed in Kishori Dasa Babaji’s Gaura-bhakta-amrita-lahari"
+    - "Place in the tradition: list of Gadadhara Pandita’s branch; Majumdar uses it in his list of associates (B)"
+    - "Our text: complete translation"
+  about_ru:
+    - "Поклонение ученикам и последователям Гададхары Пандита — один из главных источников о его ветви."
+  about_en:
+    - "Homage to the disciples and followers of Gadadhara Pandita — one of the main sources on his branch."
+
+pata-nirnaya:
+  facts_ru:
+    - "Авторы: Рамагопала Дас («Пата-нирная»); Абхирама Дас («Пата-парьятана», «Шакха-нирная Абхирамачандры»)"
+    - "Время: XVII в. (хронограмма «Пата-нирнаи» — 1597 г. Шаки, ок. 1675)"
+    - "Язык и форма: бенгальские двустишия"
+    - "Издание: изд. Кишори Даса Бабаджи и публикация 1911 г. («Сахитья-паришат-патрика»)"
+    - "Место в традиции: перечни патов (мест) спутников и ветви Абхирамы; ценны как старое предание о местах (B)"
+    - "Наш текст: полный перевод трёх текстов"
+  facts_en:
+    - "Authors: Ramagopala Dasa (Pata-nirnaya); Abhirama Dasa (Pata-paryatana, Shakha-nirnaya of Abhiramachandra)"
+    - "Date: 17th century (chronogram of the Pata-nirnaya: 1597 Shaka, c. 1675)"
+    - "Language and form: Bengali couplets"
+    - "Edition: ed. Kishori Dasa Babaji and the 1911 publication (Sahitya-parishat-patrika)"
+    - "Place in the tradition: lists of the associates’ patas (places) and of Abhirama’s branch; valuable as old tradition about the places (B)"
+    - "Our text: complete translation of the three texts"
+  about_ru:
+    - "Перечни святых мест спутников Шри Чайтаньи в Бенгалии и Ориссе, двенадцати шрипатов гопал и учеников Абхирамы Тхакура."
+  about_en:
+    - "Lists of the holy places of Sri Chaitanya’s associates in Bengal and Orissa, of the twelve shripatas of the gopalas and of Abhirama Thakura’s disciples."
+
+divakara-jcm:
+  facts_ru:
+    - "Автор: Дивакар Дас (Дивакара Мишра), пятый в преемстве учеников Джаганнатхи Даса (Атибади)"
+    - "Время: XVII в."
+    - "Язык и форма: орийская поэма; переведены гл. 1–7 и 23"
+    - "Издание: Катак, 1927"
+    - "Место в традиции: поздний сектантский текст линии Атибади, возвышающий Джаганнатху Даса над спутниками Господа; ЧЧ и ЧБ Джаганнатху Даса не упоминают; Бхактисиддханта числит эту линию среди апасампрадай — сведения малодостоверны (D)"
+    - "Наш текст: главы 1–7 и 23 (о Шри Чайтанье и Пури)"
+  facts_en:
+    - "Author: Divakara Dasa (Divakara Mishra), fifth in the line of Jagannatha Dasa’s disciples (Atibadi)"
+    - "Date: 17th century"
+    - "Language and form: Odia poem; chapters 1–7 and 23 translated"
+    - "Edition: Cuttack, 1927"
+    - "Place in the tradition: a late sectarian text of the Atibadi line exalting Jagannatha Dasa above the Lord’s associates; the CC and CB do not mention Jagannatha Dasa; Bhaktisiddhanta counts this line among the apasampradayas — low reliability (D)"
+    - "Our text: chapters 1–7 and 23 (on Sri Chaitanya and Puri)"
+  about_ru:
+    - "Житие Джаганнатхи Даса, «Ати Бада Госая», и его встречи со Шри Чайтаньей в Пури — орийское предание XVII в., ценное как свидетельство, но не как авторитет."
+  about_en:
+    - "The life of Jagannatha Dasa, “Ati Bada Gosai”, and his meetings with Sri Chaitanya in Puri — a 17th-century Odia tradition, valuable as testimony but not as authority."
