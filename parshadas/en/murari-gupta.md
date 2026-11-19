@@ -31,7 +31,7 @@ together with Svarupa Damodara he is praised as one of the two moons that “hav
 (Adi 4.227–228). And the Lord Himself, speaking in Puri with Vallabha Bhatta, recalls: “Kashishvara, Mukunda, Vasudeva, Murari and all the other devotees who descended in Gauda…” (CC, Antya 7.49). <!-- F7 Q24 -->
 
 The original sources call him by various names. The Lord addresses him affectionately simply as “Gupta” (CC, Madhya
-15.138, 15.153; CB, Madhya 3.44; Antya 4.317, 4.342), and once calls him “Murari Pandita” (CB, Madhya 1.70). In his own
+15.138, 15.153; CB, Madhya 3.44; Antya 4.317, 4.342). In his own
 poem Murari calls himself “Murari the vaidya,” that is, the physician, and “a lion among physicians” (“Kadacha” 2.2.11,
 2.4.22, 2.7.18, 2.9.1, 4.17.11); Vrindavana Dasa calls him “the best of physicians” (CB, Madhya 10.10–11). The Lord gave
 him one more name — “Ramadasa,” of which we shall speak below — and later generations call him Murari Gupta Thakura.
@@ -136,8 +136,8 @@ When Nimai Pandita returned from Gaya, where He had received initiation from Ish
 the proud conqueror of all the scholars of Navadvipa had become a devotee such as the world had never seen. Murari heard
 the news from Shriman Pandita. Having been with the Lord, Shriman told the Vaishnavas: “Seeing such extraordinary
 devotion to God in Him, I no longer consider Him a mere mortal. When He came to Himself, He said to us: ‘Let us meet
-tomorrow early in the morning in the house of Shuklambara. O Sadashiva and Murari Pandita, I want to reveal to you what
-My heart is pining for’” (CB, Madhya 1.68–70). In the morning, in the house of Shuklambara Brahmachari, there gathered
+tomorrow early in the morning in the house of Shuklambara. You, Sadashiva Pandita and Murari — to you all I shall pour out
+My grief’” (CB, Madhya 1.68–70). In the morning, in the house of Shuklambara Brahmachari, there gathered
 “all the Lord's intimate associates, such as Sadashiva, Murari, Shriman and Shuklambara” (1.81), and with wonder and
 joy they saw Him weeping for Krishna. The biographies say that the Lord's wondrous transformations in Shuklambara's
 house were witnessed by Gadadhara, Sadashiva, Murari, Shrivasa and Shriman. <!-- F32 Q21 -->
