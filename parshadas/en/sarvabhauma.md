@@ -352,6 +352,87 @@ Him a manuscript, and in a verse of Sarvabhauma's the Lord saw the name “Krish
 morning, thinking He had offended Sarvabhauma, returned to Puri to serve him (mahakavya 12.35–58). In Karnapura, too, the
 Lord shows Sarvabhauma a four-armed form (12.33). <!-- F134 -->
 
+## Farewell before the South
+Krishnadasa Kaviraja gives the dates precisely: the Lord took sannyasa in the month of Magha, came to Puri in Phalguna,
+and after the Dola-yatra, in Chaitra, delivered Sarvabhauma; and at the beginning of Vaishakha He resolved to go south
+(CC, Madhya 7.4–6). When He came to Sarvabhauma to ask leave, Sarvabhauma fell at His feet:
+
+“By the piety of many births I obtained Your company, and now Providence is breaking it off. If a thunderbolt struck my
+head or my son died, I could bear it; but separation from You I cannot bear.” (CC, Madhya 7.47–48)
+
+The Lord put off His departure and spent five days in his house; the mother of Shathi cooked for Him (7.50–54).
+<!-- F67 F129 -->
+
+When at last the Lord set off along the seashore towards Alalanatha, Sarvabhauma sent four sets of kaupinas and outer
+cloths after Him with a brahmana and, taking leave, earnestly begged Him:
+
+“Ramananda Raya lives on the bank of the Godavari; he is the governor of Vidyanagara. Do not neglect him, thinking him a
+shudra and a worldly man (*vishayi*). At my request, be sure to meet him. He is the one man worthy of Your company; in all
+the world there is no devotee who relishes rasa (*rasika*) as he does. <…> Not understanding his extraordinary words and
+actions, I used to mock him, knowing him to be a Vaishnava. By Your grace I now understand who he truly is.” (CC, Madhya
+7.62–67) <!-- F68 F69 Q9 -->
+
+Srila Bhaktisiddhanta explains in the “Anubhashya” that Sarvabhauma had noticed Vaishnava qualities in Ramananda even
+before, and, having become a devotee, recognised in him an *adhikari-rasika-bhakta*, a true connoisseur of rasa. One of the
+biographies adds that by the Lord's mercy Sarvabhauma's divine eyes were opened, and together with the Lord's nature he
+came to know Ramananda's as well. Even the greatest learning fails, without mercy, to recognise either the Lord or His pure
+devotee: Sarvabhauma at first recognised neither Mahaprabhu nor Ramananda. In Nilachala a special friendship bound the
+two; both, like Purushottama Acharya, later Svarupa Damodara, had come from Navadvipa. <!-- F71 F72 I2 -->
+
+The Lord embraced him and said, “Worship Krishna at home and bless Me, so that by your grace I may return to Nilachala”
+(7.69) — and departed, while Sarvabhauma fell senseless to the ground. The Lord did not look back: such are the hearts of
+the great — “harder than a thunderbolt, softer than a flower” (7.72–73). Nityananda lifted Sarvabhauma up and sent him
+home. <!-- F129 -->
+
+On the Godavari the Lord told Ramananda that He had come at Sarvabhauma's request, and Ramananda replied:
+
+“Sarvabhauma regards me as his servant; even in my absence he is careful of my welfare. By his mercy I have seen You.”
+(CC, Madhya 8.32–33)
+
+And the Lord told Ramananda how, purified in Sarvabhauma's company, He had asked him to explain the truth of devotion to
+Krishna — and Sarvabhauma had answered that he could not tell it himself, but that Ramananda Raya knew it (8.124–125).
+<!-- F70 F128 -->
+
+## The Lord's Return
+When Mahaprabhu returned from the south, Sarvabhauma, after the long separation, met Him on the seashore beside himself
+with joy; he wept, fallen at His feet. He brought the Lord home, fed Him maha-prasada and himself massaged His feet, and the
+Lord, to please him, spent the night in his house telling of His journey:
+
+“The Lord said, ‘I have travelled to so many holy places, yet I have not seen a single Vaishnava equal to you. Ramananda
+Raya alone gave Me great happiness.’ The Bhattacharya said, ‘That is why I asked You to meet him.’” (CC, Madhya 9.356–357)
+<!-- F73 -->
+
+Even before the Lord's return the king, at Sarvabhauma's request, had set aside for Him Kashi Mishra's quiet house near
+the temple. After Jagannatha's darshana Sarvabhauma took the Lord there and, seated at His right, began to introduce to
+Him the devotees of Puri: Janardana, Krishnadasa of the golden staff, the scribe Shikhi Mahiti, Pradyumna Mishra —
+“foremost among the Vaishnavas,” Murari Mahiti, Chandaneshvara, Simheshvara and others; and when Bhavananda Raya came with
+his sons, he said, “This is Bhavananda Raya. His eldest son is Ramananda Raya” (CC, Madhya 10.29–50). <!-- F75 F76 -->
+
+Here too the Lord told Sarvabhauma how His companion in the south, Kala Krishnadasa, had behaved, and sent him away
+(10.62–63). Svarupa Damodara, on coming to Puri, met Sarvabhauma and the others (10.127); Jagadananda, who had come with the
+Lord, had first seen him in those early days. <!-- F74 F77 -->
+
+On another day the Lord was speaking of Krishna with Sarvabhauma and other devotees when Govinda arrived, the servant of
+Ishvara Puri, sent by his guru to serve the Lord. Sarvabhauma asked why Ishvara Puri had had a servant from a shudra
+family. The Lord replied that Ishvara Puri, like the Lord Himself, is independent, and his mercy is not bound by rules:
+Krishna ate in Vidura's house, and His mercy waits only for loving service. And then He asked in His turn:
+
+“Bhattacharya, consider this: My guru's servant is worthy of My respect. It is not proper for Me to have him serve Me, yet
+My guru has ordered it. What am I to do?” The Bhatta said, “The guru's order is mighty, and one must not transgress it.”
+(CC, Madhya 10.142–144)
+
+And the Lord accepted Govinda; according to one of the biographies, on Sarvabhauma's advice He accepted Kashishvara too at
+that time. The Lord Himself needs no one's service; having accepted a guru, He showed how a disciple honours the guru's will
+and all that is connected with him. <!-- F78 -->
+
+At that time Brahmananda Bharati, a godbrother of Keshava Bharati, also came to Puri. He said that two Brahmans had appeared
+in Puri — the “moving” golden one, Mahaprabhu, and the “unmoving” dark one, Jagannatha — and when the Lord disputed it, he
+left the dispute to Sarvabhauma's judgement, citing the verse of the “Vishnu-sahasranama” on the golden Lord who is a
+sannyasi. Sarvabhauma declared him the winner (CC, Madhya 10.167–172), and when Bharati told how, on seeing the Lord, he had
+felt the presence of Krishna Himself, Sarvabhauma confirmed it: without prema there is no seeing Krishna — it was only by
+the Lord's mercy that Bharati had received His darshana. The Lord exclaimed: “Vishnu! Vishnu! What are you saying,
+Sarvabhauma? Such excessive praise is a mark of censure” (10.180–182).[^12] <!-- F79 -->
+
 [^1]: According to one of the biographies, Vidyanagara lies on the outskirts of Navadvipa, whose centre is held to be
     Mayapur, the Lord's birthplace, and is called a quarter of Navadvipa. Srila Bhaktisiddhanta in the “Anubhashya” on CC,
     Adi 10.130 (as another biography reports) writes that it is a village about two and a half miles from both Navadvipa
@@ -386,3 +467,6 @@ Lord shows Sarvabhauma a four-armed form (12.33). <!-- F134 -->
     3.146–147).
 [^11]: So in the “Charitamrita” (Madhya 6.251–252) and in Karnapura's drama; one of the biographies in one place ascribes it
     to Jagadananda.
+[^12]: One of the biographies puts the verse of the “Vishnu-sahasranama” into Sarvabhauma's mouth. According to the
+    “Charitamrita” it is Bharati himself who cites it (Madhya 10.170), while Sarvabhauma only awards him the victory and
+    speaks of his darshana of Krishna.
