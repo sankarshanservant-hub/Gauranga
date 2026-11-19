@@ -33,9 +33,10 @@ appearance; one late reference work places his birth in the first half of the fo
 cites no original source. Nor is the day of his appearance found in the Vaishnava calendar of the Sri Chaitanya Saraswat
 Math. <!-- F3 F4 F5 F6 Q13 -->
 
-His brother was Vidya-vachaspati. The “Charitamrita” names them together — “the two brothers, Sarvabhauma and
-Vidya-vachaspati” (Madhya 15.133); when the Lord came from Puri to Bengal, “He stayed in the house of Vidya-vachaspati”
-(Madhya 1.150), and according to one of the biographies this was in that same Vidyanagara. One of them adds that
+His brother was Vidya-vachaspati. The “Charitamrita” names them together: the Lord showed His mercy “to the two brothers,
+Sarvabhauma and Vidya-vachaspati” (Madhya 15.133); when the Lord came from Puri to Bengal, “He stayed in the house of
+Vidya-vachaspati” (Madhya 1.150) — in Vidyanagara, as Vrindavana Dasa says (CB, Antya 3.274). Vrindavana Dasa also bows to
+their father Visharada, “whose sons were Sarvabhauma and Vachaspati” (3.403). One of the biographies adds that
 Vidya-vachaspati taught philosophy and scripture to Rupa and Sanatana. Sarvabhauma's sister was married to Gopinatha
 Acharya, likewise a native of Navadvipa and a devotee of the Lord of long standing; the “Charitamrita” calls Gopinatha
 “Visharada's son-in-law” (Madhya 6.18), and Sanatana Gosvami in the “Vaishnava-toshani” names both brothers among his
@@ -197,6 +198,12 @@ the influence of maya,” did not understand Him (3.17, 3.75). This is the yogam
 same Vrindavana Dasa calls Sarvabhauma the Lord's eternal companion. Sarvabhauma's former Advaita was part of the lila and a
 lesson to the world — but Mayavada does not thereby become true, and the Lord conceded nothing to it. <!-- F133 -->
 
+Murari Gupta records the words Sarvabhauma then spoke among his own people: “This man is born of a great family and is a
+great scholar, but He is so young — how will He keep the dharma of sannyasa? Let us make Him twice-born anew and teach Him
+the Vedanta of the Self.” Hearing of it, the Lord answered with a smile: let them give Him the sacred thread again — then He
+would offer the brahmana flowers, betel and garlands; and Sarvabhauma, hearing this reply, was abashed and spoke so no more
+(3.12.9–11). Yet, Murari adds, “even this error was an excess of Janardana's mercy to Sri Sarvabhauma” (3.12.8). <!-- F140 -->
+
 ## Seven Days of Vedanta
 The next morning, after Jagannatha's darshana, Sarvabhauma seated the Lord in his house and began to explain Vedanta to Him:
 “To hear Vedanta is the duty of a sannyasi” (CC, Madhya 6.121). For seven days the Lord listened in silence like an
@@ -251,12 +258,13 @@ And the Lord revealed Himself to him:
 form — dark, with the flute at His lips.” (CC, Madhya 6.202–203)
 
 Vrindavana Dasa describes this revelation differently: with a loud cry the Lord assumed a six-armed form, “wonderfully
-beautiful and shining like millions of suns,” and at the sight of it Sarvabhauma fell senseless (CB, Antya 3.100–108). The
-biographies describe the six-armed form of Gaurachandra thus: two arms of Sri Krishna, two of Sri Ramachandra and two His
+beautiful and shining like millions of suns,” and at the sight of it Sarvabhauma fell senseless (CB, Antya 3.100–108). Srila
+Bhaktisiddhanta also speaks of the six-armed form: “He saw the six-armed form of the Lord” (“Anubhashya” on CC, Adi 10.130).
+The biographies describe the six-armed form of Gaurachandra thus: two arms of Sri Krishna, two of Sri Ramachandra and two His
 own.[^9] This was a darshana the Lord granted by His own will and mercy, not a “vision” in the worldly sense of the word: He
-Himself told Sarvabhauma to keep what he had seen secret as long as He remained in this world (3.148–149). The Deity of
-Mahaprabhu in His six-armed form, according to one of the biographies, is worshipped to this day in the Jagannatha temple
-in Puri. <!-- F54 F61 Q5 -->
+Himself told Sarvabhauma to keep what he had seen secret as long as He remained in this world — and at once told him to
+serve with devotion the feet of Nityananda, “My second body” (3.148–150). The Deity of Mahaprabhu in His six-armed form,
+according to one of the biographies, is worshipped to this day in the Jagannatha temple in Puri. <!-- F54 F61 Q5 F139 F141 -->
 
 Sarvabhauma fell flat in obeisance, and by the Lord's mercy the whole truth awoke in him: he sang the power of the holy
 name and the greatness of the gift of prema, and in a moment, within less than half an hour, composed a hundred verses in
@@ -346,6 +354,9 @@ The conversion of the foremost scholar of Puri became a sign to all: “seeing t
 knew the Lord to be the son of the king of Vraja Himself,” and Kashi Mishra and all the residents of Nilachala came to take
 shelter at His feet (CC, Madhya 6.280–281). The scholars of Puri took His shelter, and after them many nobles of Odisha and
 the king himself came to the Lord. <!-- F66 -->
+
+The news reached even Kashi. Prakashananda Sarasvati, mocking the Lord, said: “Sarvabhauma Bhattacharya is a formidable
+scholar, yet I hear that in Chaitanya's company he has gone mad” (CC, Madhya 17.119). <!-- F137 -->
 
 Kavi Karnapura in his mahakavya adds one more story. Once, when the Lord was leaving Puri, Gopinatha showed
 Him a manuscript, and in a verse of Sarvabhauma's the Lord saw the name “Krishna”; He fell down in ecstasy and next
@@ -564,7 +575,7 @@ And the Lord hastened to Amogha. Placing His hand on his chest, He said that a b
 no place for envy:
 
 “Through Sarvabhauma's company your impurity has been destroyed, and when the taint is gone, a soul takes the name of
-Krishna. Get up, Amogha, chant the name of Krishna, and the Lord will at once show you His mercy.” (CC, Madhya 15.276–277)
+Krishna. Get up, Amogha, take the name of Krishna, and Bhagavan will soon show you His mercy.” (CC, Madhya 15.276–277)
 
 Amogha sprang up and in the frenzy of prema began to cry, “Krishna! Krishna!”; trembling, tears, thrill and sweat appeared
 on his body. He fell at the Lord's feet, begging forgiveness, and slapped his own cheeks until they swelled, until Gopinatha
@@ -591,11 +602,17 @@ Brahman in the form of water. Sarvabhauma, worship the Daru-brahma. Vachaspati, 
 At the feast in the garden near Gundicha the Lord seated Sarvabhauma at His left and asked again and again that the best
 food be served to him, and Gopinatha, serving his brother-in-law, joked about his former life. Sarvabhauma replied: “I was
 a logician of crooked intellect. It is by your grace that I have gained this wealth” (CC, Madhya 12.177–181). In the water
-sports on the lake he and Ramananda “lost all their gravity and became like children” (14.82). On fixed days of the month
+sports on the lake he and Ramananda “lost all their gravity and became like children” (14.82). Laughing, the Lord asked
+Gopinatha to restrain the two grave pandits, but Gopinatha replied that a drop of the ocean of His mercy had overflowed
+them: “His whole life was spent eating the oilcake of dry logic, and now You give him the nectar of divine pastimes to
+drink. Such is Your mercy!” (14.83–87). On fixed days of the month
 the Lord dined at his house or at Gadadhara Pandita's, and in their homes He ate as they wished: there He “had no
 independence” (Antya 10.153; 8.88–89). When the Lord returned from Vrindavana, Sarvabhauma came out to meet Him and together
 with Gadadhara brought maha-prasada for Him and His companions (Madhya 25.227–230); the Lord gave him His own prasada (Antya
-16.106) and introduced Sanatana Gosvami to him (Antya 4.108–110). <!-- F106 F107 F131 F132 -->
+16.106) and introduced Sanatana Gosvami to him (Antya 4.108–110). He was at hand in small things too: with Gopinatha he
+watched from a distance as the Lord met the Gaudiya devotees, and then came himself to greet them (Madhya 11.123–124,
+11.133); of him, Kashi Mishra and the temple superintendent the Lord begged leave to clean the Gundicha temple (12.72–73);
+through him, Ramananda and Vaninatha the king sent the Lord prasada (14.24). <!-- F106 F107 F131 F132 F136 F138 -->
 
 He was present, too, at the examination of Rupa Gosvami's dramas, when the Lord came to Rupa with him, Ramananda and Svarupa
 and they relished the rasa, poetic beauty and diction of his verses (CC, Antya 1.103–115); and in the
@@ -632,6 +649,11 @@ Bhishma's promise.” (CC, Madhya 16.143–144)
 In the same way, Sarvabhauma said, the Lord had protected Gadadhara's vow, though it was not easy for Him either to part
 from him; and the two of them, stricken with the grief of separation, returned to Nilachala (16.146–147). <!-- F109 -->
 
+In Karnapura's drama Sarvabhauma is the king's constant companion in conversation during these years. While the Lord is in
+the south, the two of them listen together to the brahmanas returning from the Godavari (“Chaitanya-chandrodaya,” act 7);
+while the Lord is on His way to Vrindavana, Sarvabhauma talks with the king of His journey and consoles Ramananda: “Such
+are the Lord's pastimes” (act 9); and when the Lord returns, both fall flat before Him, and He embraces them. <!-- F142 -->
+
 ## The Journey to Kashi
 Of one later event both the “Charitamrita” and Kavi Karnapura tell. Krishnadasa Kaviraja, in his brief summary of the
 Lord's pastimes, mentions that the Gaudiya devotees on their way to Puri met Sarvabhauma, who was going to Kashi:
@@ -652,6 +674,10 @@ Gopinatha Acharya — sunk in separation from Gaura: they had forgotten food and
 “All long to see Srinivasa; Srinivasa went to the house of Sarvabhauma. Sri Raya Ramananda came there too; sitting
 together, the two sing the virtues of Gaurachandra. <…> Both of them are drowning in an ocean of great grief, but seeing
 Srinivasa, they felt joy in their hearts.” (“Bhakti-ratnakara”, 3.155–156, 158) <!-- F114 Q14 -->
+
+According to Lochana Dasa's “Chaitanya-mangala” — in the part found only in the 1983 edition — at the hour of the Lord's
+disappearance “Sarvabhauma Bhattacharya together with his son” cried out: “Lord, Lord! Hear us, Gauraraya!” (52.94+33).
+<!-- F143 -->
 
 When, where and how Sarvabhauma departed from this world is not known; nor is the day of his departure found in the
 calendar of the Sri Chaitanya Saraswat Math. His grief in his last years was not worldly sorrow but the separation of an
@@ -681,6 +707,16 @@ the hand and told him to make known in waking life the conclusions he had seen. 
 
 — and next his wife and daughter: “O mother of Shathi! O Shathi! I pray at your feet: may I not see, even in a dream,
 those who have turned away from Sri Gaura” (12). <!-- F118 F135 -->
+
+Later works remember him too. Jayananda writes that when the king of Gauda, on a slander, ordered Nadia laid waste, “the
+son of Visharada, Sarvabhauma Bhattacharya, left for Utkala with all his family,” and Prataparudra honoured him “on a
+jewelled throne,” while his brother Vidya-vachaspati stayed in Gauda; he also calls Sarvabhauma “an avatara of Vyasa,” the
+first to proclaim the Lord's life, and the author of a “Thousand Names of Chaitanya.” The “Advaita-prakasha” calls him
+“like Brihaspati,” one who “once held to dry knowledge” but “by the touchstone that is Gaura became the best of devotees,”
+and says that the young Gaura, still in Navadvipa, studied logic under him for two years — of which neither Krishnadasa
+Kaviraja nor Vrindavana Dasa says anything. The “Vaishnava-vandanas” — the Sanskrit one ascribed to Jiva Gosvami and the
+Bengali one of Devakinandana — glorify him as Brihaspati. These are late traditions, and we give them only as such.
+<!-- F144 -->
 
 ## Significance
 Sarvabhauma is Brihaspati, the Lord's eternal companion “birth after birth,” who came with Him to become a living witness
