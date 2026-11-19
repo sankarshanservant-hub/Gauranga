@@ -199,6 +199,12 @@ When Shikhi Mahiti left this world is not known. The sources name neither the da
 appearance and departure, nor are his days found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
 <!-- F39 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Shikhi Mahiti, do me this good: may I have love for Sri Krishna Chaitanya and Jagannatha.” (“Namamrita-samudra” 49)
+<!-- F41 -->
+
 [^1]: One of the biographies gives “Mahanta, or Mahanti” as the name of his younger brother Murari; in the
     “Anubhashya” “Mahanti” stands next to the name of Shikhi himself.
 [^2]: Only one biography speaks of this kinship. The “Charitamrita” names only Shikhi Mahiti's brother and sister (Adi

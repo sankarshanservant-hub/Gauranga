@@ -136,6 +136,13 @@ The biographies also cite Raghupati's verses heard in Adail among the arguments 
 compiled: since Rupa included in it verses he had heard in Adail in the Lord's presence, the anthology took shape after
 that meeting. <!-- F13 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, asking for the true siddhanta:
+
+“Sri Chandrashekhara, Raghupati Upadhyaya! Grant that the true siddhanta be revealed in my heart.” (“Namamrita-samudra”
+48)
+<!-- F28 -->
+
 ## Significance
 We know little of Raghupati Upadhyaya, but that little is a summit. In Vallabha's house, in the presence of Rupa
 Gosvami, the Lord by His questions drew from His devotee's lips the whole essence of the object of worship: Shyama,

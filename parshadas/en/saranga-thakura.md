@@ -35,6 +35,12 @@ And the Bengali tripadi vandana adds that “six score” — a hundred and twen
 (tripadi “Vaishnava-vandana,” 89). One absorbed in the holy name knows no fear, and even snakes found shelter beside
 him. <!-- F30 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Sundarananda:
+
+“Saranga, Sundarananda, generous Govinda! Free me from the torments of samsara.” (“Namamrita-samudra” 51)
+<!-- F33 -->
+
 ## The Vow and the Lord’s Will
 Saranga Thakura displayed the pastime of a supremely solitary bhajana. It is said that he vowed never to accept
 disciples, fearing that they would distract him from his service. <!-- F11 -->

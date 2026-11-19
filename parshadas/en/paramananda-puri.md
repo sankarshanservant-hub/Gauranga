@@ -473,6 +473,13 @@ in Shantipura, says: “Damodara Svarupa and Paramananda Puri direct the feast, 
 wedding to Vrindavana, took sannyasa from Paramananda Puri and afterwards learned bhajana from Rupa and Sanatana
 (24.436; 25.891).[^25] <!-- F66 F67 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Brahmananda, Sri Paramananda Puri! Hold me by the hair and keep me always on the path of bhakti.”
+(“Namamrita-samudra” 45)
+<!-- F75 -->
+
 ## After the Lord’s Disappearance
 Paramananda Puri outlived Mahaprabhu. When, after the Lord’s disappearance, Srinivasa Acharya came to Puri, he stayed
 with Gadadhara Pandita and met there Ramananda Raya, Sarvabhauma, Vakreshvara, Paramananda Puri, Shikhi Mahiti,

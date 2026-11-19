@@ -79,6 +79,12 @@ qualities of nature, and neither nation nor caste defines him. The remnants of a
 in Kaviraja's words, *maha-maha-prasada*, and Kalidasa took them “seeing them as transcendental” (“Anubhashya,” heading
 to Antya 16.37). <!-- I3 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, asks of him exactly
+this — right after a prayer to Jhadu Thakura for the dust of the Vaishnavas' feet:
+
+“O Kalidasa! This is my great hope: may my faith in the remnants of the Vaishnavas' food grow.” (“Namamrita-samudra” 40)
+<!-- F41 -->
+
 ## At Jhadu Thakura's Home
 What this practice of Kalidasa's was like, Kaviraja shows by a single example:
 
