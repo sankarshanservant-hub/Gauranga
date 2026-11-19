@@ -186,8 +186,7 @@ stores, Bhavananda swept and sprinkled, and “Buddhimanta Khan puts sandal past
 when the Lord came to Kulia, countless people of Navadvipa ran to Him — Shachi, Vishnupriya, Sulochana, Murari Gupta,
 Gopinatha, Buddhimanta Khan, the raja-pandita Sanatana, Purandara Acharya and many others.[^8] <!-- F27 F28 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, too, prays to him in the “Namamrita-samudra,” his appeals to the Lord's associates:
 
 “Grant this, wise Buddhimanta Khan: may Sri Gaura-Govinda become the Lord of my life.” (“Namamrita-samudra” 57)
 <!-- F31 -->

@@ -303,8 +303,8 @@ Navadvipa he stayed with Advaita. <!-- F75 -->
 The biographies of the Lord's associates invariably place his name among the chief heroes of their narrative,
 alongside the names of his guru and his godbrothers. <!-- F78 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Ananta Puri and their guru Madhavendra:
+In the “Namamrita-samudra,” where Narahari Chakravarti invokes the Lord's associates one after another, Ishvara Puri is
+named together with Ananta Puri and their guru Madhavendra:
 
 “Ananta, Ishvara, O Madhavendra Puri! Be merciful and make me drunk with the rasa of Radha and Krishna.”
 (“Namamrita-samudra” 22)

@@ -399,8 +399,8 @@ distinguishes “the original Vallabha,” a follower of Gadadhara, from the tea
 Its reproaches concern the later tradition, not Vallabha himself, whom in the “Charitamrita” the Lord Himself calls a
 great devotee (Antya 7.127). <!-- F81 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+In the part of the “Namamrita-samudra” where Narahari Chakravarti asks the Lord's associates for Vaishnava qualities, a
+prayer for humility is addressed to Vallabha Bhatta:
 
 “Sri Vallabha Bhatta! Punish me yourself: I am drunk with pride and do not know myself.” (“Namamrita-samudra” 251)
 <!-- F88 -->

@@ -460,8 +460,8 @@ Shridhara’s leaking iron pot, calling it “water offered by a devotee”; fro
 north-eastern part of Mayapura, says Srila Bhaktivinoda, is called to this day the place where the kirtana rested.
 <!-- F65 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, too, prays to him in the “Namamrita-samudra,” his appeals to the Lord's associates, calling him
+“dear to Gauranga”:
 
 “O Shridhara Thakura, dear to Gauranga! Casting off shame I ask: take away my misery.” (“Namamrita-samudra” 32)
 <!-- F68 -->

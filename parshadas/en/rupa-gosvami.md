@@ -2037,8 +2037,8 @@ of the great rasa: his darshana, touch and words are nectar; he is deep, steadfa
 prema-bhakti, who revealed the great gem of ujjvala-prema; he renounced Gauda, is adorned with virtues, gladdens the
 learned, lives in Vrindavana, and his fame is pure. <!-- F614 F615 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Sanatana, asking for strength to describe the Lord's deeds:
+Narahari Chakravarti, who himself described so many deeds of the Lord and His associates, asks Rupa and Sanatana in the
+“Namamrita-samudra” — his prayers to the Lord's associates — for exactly that strength:
 
 “O Rupa and Sanatana, dear to Gaura, His very life! Give me the strength to describe the Lord's deeds.”
 (“Namamrita-samudra” 29)

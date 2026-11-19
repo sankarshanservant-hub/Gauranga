@@ -252,8 +252,8 @@ under this name. In general, quite a few padas on Gauranga bear the names of his
 cannot all be accepted indiscriminately — not everything ascribed to them is genuine. Some consider the Sanskrit hymns
 “Sri Gaura-namamrita-stotra” and “Sri Shachisutashtaka” to be the works of Raghunandana himself. <!-- F74 I3 F75 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Pundarika Vidyanidhi:
+Narahari Chakravarti prays to him as well in the “Namamrita-samudra,” his appeals to the Lord's associates — together
+with Pundarika Vidyanidhi:
 
 “Vidyanidhi, Halayudha, Sri Raghunandana! Make me rich just once by giving me the wealth of prema.” (“Namamrita-samudra”
 20)

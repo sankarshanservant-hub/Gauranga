@@ -596,8 +596,7 @@ Madhava Gosvami. On 2 September 1951 Srila Bhakti Vilasa Tirtha Gosvami laid the
 of Ramananda and Mahaprabhu on the spot where Sri Chaitanya’s footprints remain. Later the seventy-fifth anniversary of
 the Ramananda Gaudiya Math was solemnly celebrated in Kovvur. <!-- F150 F151 F152 F153 F154 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, in the “Namamrita-samudra,” his prayers to the Lord's associates, calls him an “ocean of rasa”:
 
 “O Raya Ramananda, ocean of rasa! Grant me always the company of devotees who relish rasa.” (“Namamrita-samudra” 65)
 <!-- F159 -->

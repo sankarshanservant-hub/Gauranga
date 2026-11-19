@@ -137,8 +137,8 @@ nothing for himself” (“Vaishnava-vandana,” pt. 1, 134). The “Bhakti-ratn
 went round all the holy places of Gauda and, wholly absorbed in Nityananda's qualities, served His feet without
 ceasing. <!-- F43 F25 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Vasudeva Datta:
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, addresses him
+together with Vasudeva Datta:
 
 “Vasudeva Datta, Uddharana, Purandara! Save me — so cries this wretched sinner.” (“Namamrita-samudra” 24)
 <!-- F53 -->

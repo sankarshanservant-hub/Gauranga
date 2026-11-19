@@ -546,8 +546,8 @@ Bhaktivinoda Thakura writes that on Gopala Bhatta lay the care that no one shoul
 show groundless disregard for vaidhi-bhakti (“Jaiva-dharma”, ch. 39); together with Rupa and others he restored the lost
 holy places of Vrindavana and composed many books, among them a bhakti-smriti (“Sajjana-toshani”, 2.7). <!-- F91 Q34 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Raghunatha Dasa:
+In Narahari Chakravarti's “Namamrita-samudra,” a book of prayers to the Lord's associates, a verse is addressed to him
+together with Raghunatha Dasa:
 
 “Sri Gopala Bhatta, O Raghunatha Dasa! With a straw between my teeth I pray: make me your own.” (“Namamrita-samudra” 30)
 <!-- F110 -->

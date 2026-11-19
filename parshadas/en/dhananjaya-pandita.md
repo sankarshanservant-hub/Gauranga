@@ -102,10 +102,11 @@ yogurt:
 His name also appears in the list of Nityananda's servants in the “Chaitanya-bhagavata” (Antya 5) — the very verse
 quoted above — and in the Bengali “First Vandana,” which is ascribed to Vrindavana Dasa and repeats that list. <!-- F39 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+In the “Namamrita-samudra,” where Narahari Chakravarti invokes the Lord's associates one after another, Dhananjaya is
+named beside Ratnabahu and Bhavananda:
 
-“O Ratnabahu, Bhavananda, Dhananjaya! Mercy shown to the afflicted only increases one's glory.” (“Namamrita-samudra” 52)
+“O Ratnabahu, Bhavananda, Dhananjaya! Show mercy to the afflicted, and your glory will only grow.” (“Namamrita-samudra”
+52)
 <!-- F41 -->
 
 There is also a tradition that in the neighbourhood of Shitalagrama he turned many robbers and godless men to

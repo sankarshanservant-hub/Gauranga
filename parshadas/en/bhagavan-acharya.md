@@ -267,16 +267,16 @@ seashore, and the lame Bhagavan Acharya followed very slowly.” (CC, Antya 14.8
 Lame, falling behind everyone — and yet hastening to where the Lord had sped: so the “Charitamrita” remembers him.[^10]
 <!-- F43 Q9 -->
 
+Narahari Chakravarti remembers him too. In the part of the “Namamrita-samudra” where he asks the Lord's associates to
+reveal Gaura's pastimes to him, this prayer is addressed to Bhagavan Acharya:
+
+“O Bhagavan Acharya! Let me sing how Jagai and Madhai obtained prema.” (“Namamrita-samudra” 131)
+<!-- F47 -->
+
 ## Departure
 When and where Bhagavan Acharya left this world, the sources do not say; neither the day of his appearance nor the
 place of his samadhi is known, and his days are not found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
 <!-- F17 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
-
-“O Bhagavan Acharya! Let me sing how Jagai and Madhai obtained prema.” (“Namamrita-samudra” 131)
-<!-- F47 -->
 
 ## Significance
 Bhagavan Acharya is a portion of Gaura and a cowherd boy of Vraja, a friend of Krishna; in Mahaprabhu's pastimes he is a

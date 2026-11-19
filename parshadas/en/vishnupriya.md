@@ -647,8 +647,8 @@ Srila Bhaktisiddhanta also chose the day of Vishnupriya's appearance to re-estab
 this took place amid kirtana on 5 February 1919 at the Ultadanga Math, the Bhaktivinoda-asana, and the “Amrita Bazar
 Patrika” wrote about it[^24]. <!-- F149 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to her as
-well, together with Lakshmipriya:
+Among the prayers of the “Namamrita-samudra,” in which Narahari Chakravarti calls upon the Lord's associates, is one
+addressed to her and Lakshmipriya:
 
 “Lakshmi and Vishnupriya Devi, with your companions! Be merciful: may the pastimes in Nadia abide in my mind.”
 (“Namamrita-samudra” 6)

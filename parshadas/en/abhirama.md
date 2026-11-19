@@ -380,8 +380,8 @@ the Lord's associates to Virachandra, though chronologically this is doubtful. J
 sannyasa Nityananda left Navadvipa with Ramadasa, Parameshvara and Sundarananda, and that when news came of the Lord's
 disappearance, “Ramadasa and the companions were struck dumb.” <!-- F59 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, in the “Namamrita-samudra,” his prayers to the Lord's associates, asks the formidable Abhirama for
+protection:
 
 “O Abhirama! This I say to you: protect me from the godless asuras.” (“Namamrita-samudra” 64)
 <!-- F62 -->

@@ -595,8 +595,8 @@ of Svarupa and Rupa.” All our former gurus called themselves followers of Svar
 the circle of Svarupa, Rupa and Raghunatha has entered the intimate bhajana of Gaurasundara. That is why the
 Vaishnavas honor Svarupa as the eternal “lord of the Madhva-Gaudiyas.” <!-- F145 F100 I5 F2 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well — in the second prayer, beside Gadadhara and Srivasa:
+Narahari Chakravarti remembers him too: in the “Namamrita-samudra,” his prayers to the Lord's associates, Svarupa is
+named in the very second verse, beside Gadadhara and Srivasa:
 
 “Gadadhara, Srinivasa, Svarupa, Narahari! Be merciful and give me to drink the nectar of Gaura's prema.”
 (“Namamrita-samudra” 2)

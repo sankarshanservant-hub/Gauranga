@@ -396,8 +396,8 @@ Himself in Utkala” (part 2, 26); “from the breeze from his body prema-bhakti
 “Narottama-vilasa” Narottama in a vision beholds him among Gaura's dancing companions (7.117). When Vasudeva Datta left
 this world, the sources do not say. <!-- F43 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Uddharana:
+Narahari Chakravarti entreats him as well in the “Namamrita-samudra,” a collection of appeals to the Lord's associates —
+together with Uddharana:
 
 “Vasudeva Datta, Uddharana, Purandara! Save me — so cries this wretched sinner.” (“Namamrita-samudra” 24)
 <!-- F48 -->

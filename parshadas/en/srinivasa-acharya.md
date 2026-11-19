@@ -643,8 +643,8 @@ Narottama in the “Prarthana” prays, “Be merciful, Sri Acharya Prabhu Srini
 Ramachandra.” And after Srinivasa's departure he composed the lament of separation “Ye anila prema-dhana…” — “Where has he
 gone, Prabhu Acharya Thakura, who brought the treasure of love and abundant mercy?” <!-- F134 Q1 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Narottama and Shyamananda:
+Narahari Chakravarti himself, Srinivasa's biographer, near the end of the “Namamrita-samudra” — his prayers to the
+Lord's associates — calls on him together with Narottama and Shyamananda:
 
 “O Srinivasa! Narottama! Shyamananda! Be merciful to me together with your followers — I am very wicked.”
 (“Namamrita-samudra” 270)

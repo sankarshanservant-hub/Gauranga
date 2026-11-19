@@ -65,8 +65,8 @@ He possessed great power. His best-known wonder is preserved by Devakinandana in
 
 These flowers, it is said, he afterwards offered in the service of the Deity Radha-ramana. <!-- F21 F22 Q7 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Saranga:
+Narahari Chakravarti calls on him too in the “Namamrita-samudra,” his book of appeals to the Lord's associates —
+together with Saranga:
 
 “Saranga, Sundarananda, generous Govinda! Free me from the torments of samsara.” (“Namamrita-samudra” 51)
 <!-- F34 -->

@@ -204,8 +204,8 @@ Yet even after the departure of Mahaprabhu and His companions the Ghosha brother
 to the “Bhakti-ratnakara” (10.572 ff.), when Narottama Dasa sang at the great festival in Kheturi, Sri Chaitanya appeared
 there with His companions, and among them were Madhava Ghosha, Vasu Ghosha and Govinda Ghosha. <!-- F39 Q9 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti remembers him too: in the “Namamrita-samudra,” where his prayers call upon the Lord's associates,
+Vasu Ghosha is named in one row with Murari, Govinda and Mukunda:
 
 “Murari, Govinda, O Mukunda, Vasu Ghosha! Clasping your feet I pray: forgive my faults.” (“Namamrita-samudra” 21)
 <!-- F40 -->

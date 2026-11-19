@@ -276,10 +276,10 @@ In Bengal Chandrashekhara was also present, according to one of the biographies,
 Badagachhi: there Srivasa, Advaita, Sri Chandrashekhara, Murari Gupta and other devotees of Gaurasundara gathered and
 sang sankirtana. <!-- F46 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well — by his title, Acharyaratna:
+In Narahari Chakravarti's “Namamrita-samudra” — where he asks the Lord's associates to reveal Gaura's pastimes to him —
+Chandrashekhara is called by his title, Acharyaratna:
 
-“Sri Acharyaratna! May He be merciful to me who expounded the truth through the mouth of the dead son.”
+“Sri Acharyaratna! May He who expounded the truth through the mouth of the dead son be merciful to me.”
 (“Namamrita-samudra” 152)
 <!-- F55 -->
 

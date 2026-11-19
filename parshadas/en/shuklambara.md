@@ -478,8 +478,7 @@ vv. 47–48); the tripadi-vandana calls them “heirs to the treasure of prema�
 journey to Puri: “Joyfully went Shuklambara Brahmachari, whose food the Lord Gaurahari ate” (pt. 4, v. 103); and his name
 is in Devakinandana's Sanskrit “Vaishnavabhidhana” too (pt. 3, v. 15). <!-- F51 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti entreats him as well in the “Namamrita-samudra,” his appeals to the Lord's associates:
 
 “O dear Shuklambara, dweller of Nadia! If you spurn me with contempt, people will laugh.” (“Namamrita-samudra” 68)
 

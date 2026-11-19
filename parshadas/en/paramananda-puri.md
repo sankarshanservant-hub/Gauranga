@@ -473,8 +473,8 @@ in Shantipura, says: “Damodara Svarupa and Paramananda Puri direct the feast, 
 wedding to Vrindavana, took sannyasa from Paramananda Puri and afterwards learned bhajana from Rupa and Sanatana
 (24.436; 25.891).[^25] <!-- F66 F67 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+In Narahari Chakravarti's “Namamrita-samudra,” where the Lord's associates are invoked one after another, there is a
+verse for him too — together with Brahmananda:
 
 “O Brahmananda, Sri Paramananda Puri! Hold me by the hair and keep me always on the path of bhakti.”
 (“Namamrita-samudra” 45)

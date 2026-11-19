@@ -353,18 +353,18 @@ The place where the Lord forgave Devananda and Gopala Chapala was revealed by Sr
 in the month of Kartika 1922 he came to Kuliya and identified it. On this place of aparadha-bhanjana now stands the Sri
 Chaitanya Saraswat Math. <!-- F39 -->
 
+In Narahari Chakravarti's “Namamrita-samudra” — where he asks the Lord's associates to reveal Gaura's pastimes to him —
+Devananda is called by his service, “reciter of the Bhagavata”:
+
+“Devananda, reciter of the Bhagavata! Show me that pastime — the night play in the waters of the Ganga with the
+devotees.” (“Namamrita-samudra” 148)
+<!-- F45 -->
+
 ## Departure
 Devananda Pandita left this world on the ekadashi of the month of Pausha, in the dark half of the moon. Our calendar, the
 calendar of the Sri Chaitanya Saraswat Math, marks the day of his departure on the krishna-ekadashi of the month of
 Narayana, which corresponds to Pausha (Saphala Ekadashi; in 2027 it falls on January 3).[^16] The year and place of his
 departure, the place of his samadhi and the day of his appearance are not named in the sources. <!-- F40 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well — by his service, “reciter of the Bhagavata”:
-
-“Devananda, reciter of the Bhagavata! Show me that pastime of the Lord — the night play in the waters of the Ganga with
-the devotees.” (“Namamrita-samudra” 148)
-<!-- F45 -->
 
 ## Significance
 Devananda's story is a lesson about *vaishnava-aparadha*. A scholar and ascetic, celibate from childhood, he expounded

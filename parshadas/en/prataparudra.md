@@ -529,15 +529,15 @@ Chaitanya, and so even this supreme festival gave him no joy. Karnapura extols h
 *shanta-rasa*. Thus the king became both the commissioner and the patron of the drama that has preserved for us many of the
 Lord's pastimes.[^20] <!-- F83 -->
 
-Where Prataparudra left this world the sources do not say, and the primary sources do not give the year; one of the
-biographies places his departure in 1540, the year in which his reign ends. The days
-of his appearance and departure are not in the calendar of the Sri Chaitanya Saraswat Math either. <!-- F84 F21 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, who told of his grief in the “Bhakti-ratnakara,” turned to him as well in the “Namamrita-samudra,”
+his prayers to the Lord's associates:
 
 “O King Prataparudra, this is my plea: destroy the villains — lust, anger and the rest.” (“Namamrita-samudra” 55)
 <!-- F90 -->
+
+Where Prataparudra left this world the sources do not say, and the primary sources do not give the year; one of the
+biographies places his departure in 1540, the year in which his reign ends. The days
+of his appearance and departure are not in the calendar of the Sri Chaitanya Saraswat Math either. <!-- F84 F21 -->
 
 ## Significance
 Prataparudra is the one who in a former birth worshipped Jagannatha as King Indradyumna and who became a vessel of

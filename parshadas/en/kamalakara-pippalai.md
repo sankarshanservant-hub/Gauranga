@@ -134,6 +134,13 @@ Pandita Kanai” (BR 10.375). His name also appears in the “Narottama-vilasa�
 of Vaishnavas reached (6.188), among the mahantas who sat down to the feast in Jahnava’s courtyard on the festival’s second day (8.51) and among those whom Ishvari, Jahnava-devi,
 told to return to Kharadaha (8.152–153); the “Prema-vilasa” mentions him too (19.309). <!-- F33 F34 Q8 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, addresses him
+together with Mahesha Pandita:
+
+“Sri Kamalakara Piplai, O Mahesha, hear me! Deliver this unworthy one, and your fame will be proclaimed without end.”
+(“Namamrita-samudra” 37)
+<!-- F37 -->
+
 ## Departure
 According to the “Vaishnavachara-darpana,” once his daughter was married, Kamalakara went to Vrindavana-dhama and,
 living there, disappeared from view. The Adhikaris of Mahesh keep a tradition that he left this world in the Shaka year
@@ -157,13 +164,6 @@ overwhelmed by a childlike mood” (100); the tripadi vandana, “Thakura Pippal
 pastimes and play are like a child’s” (85); and beside him in both stands Kamalakara Dasa — he “whose bliss is
 sankirtana” (100), and “whose highest exultation is in the sankirtana of Krishna” (86).[^14] In Devakinandana’s Sanskrit list of the names of Vaishnavas “Sri Kamalakara” is named among the
 associates as well (32). <!-- F7 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Mahesha Pandita:
-
-“Sri Kamalakara Piplai, and you too, O Mahesha, hear me! Deliver this unworthy one, and your fame will be proclaimed
-without end.” (“Namamrita-samudra” 37)
-<!-- F37 -->
 
 The extraordinary conduct and extraordinary love of which Krishnadasa Kaviraja speaks are the love of Mahabala, the
 friend of Krishna and Balarama. Its fruit has remained in the world: at the Lord’s command Kamalakara left everything to

@@ -483,8 +483,8 @@ Krishnadasa Kaviraja names him, too, among those who stayed to live with the Lor
 With them, and with Govinda among them, the Lord went every morning for darshan of Jagannatha (Madhya 15.184).
 <!-- Q12 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Nor is he forgotten in the “Namamrita-samudra,” where Narahari Chakravarti invokes the Lord's associates one after
+another:
 
 “Govinda, Garuda, Kavichandra, Kashishvara! Make this fallen one a servant of your servants.” (“Namamrita-samudra” 17)
 

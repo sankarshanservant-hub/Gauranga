@@ -460,18 +460,18 @@ Vaishnava scriptures. Sanatana Gosvami, in the auspicious opening verses of his 
 of sannyasis, surrounded by disciples, through whom the immortal tree of devotion to Krishna sprouted in the world.”
 <!-- F135 F136 F137 -->
 
+Together with his disciples Ananta and Ishvara Puri, Narahari Chakravarti calls on him in the “Namamrita-samudra,” his
+book of prayers to the Lord's associates:
+
+“Ananta, Ishvara, O Madhavendra Puri! Be merciful and make me drunk with the rasa of Radha and Krishna.”
+(“Namamrita-samudra” 22)
+<!-- F283 -->
+
 Among those who called themselves his disciples was also Ramachandra Puri. Where he came from is unknown. Formally he
 was a sannyasi of one of the ten orders of Shankara; he inclined to dry knowledge and the philosophy of Mayavada — a
 disciple in appearance only. The Lord and Paramananda Puri honoured him as a disciple of Madhavendra, and in Benares
 Mahaprabhu announced that He was staying with him so as to avoid reproach. What came of his discipleship is seen in
 Madhavendra's last days. <!-- F134 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with his disciples Ananta and Ishvara Puri:
-
-“Ananta, Ishvara, O Madhavendra Puri! Be merciful and make me drunk with the rasa of Radha and Krishna.”
-(“Namamrita-samudra” 22)
-<!-- F283 -->
 
 ## Departure
 Towards the end of his life Madhavendra grew weak and could no longer move. He chanted the names of Krishna and wept,

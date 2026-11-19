@@ -268,8 +268,8 @@ In the three chambers of the temple are worshipped the Deities of Gauridasa Pand
 Jagannatha, Balarama, Sita and Rama[^16]. A little to the west of the shripata stand the house and temple of Suryadasa
 Sarakhela, and further west the ashrama of Bhagavan Dasa Babaji. <!-- F23 F24 F26 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, author of the “Bhakti-ratnakara,” entreats him too in the “Namamrita-samudra,” his prayers to the
+Lord's associates:
 
 “Gauridasa, Nandana Acharya, Vanamali! Make this wretch a beggar longing for your dancing.” (“Namamrita-samudra” 19)
 <!-- F73 -->

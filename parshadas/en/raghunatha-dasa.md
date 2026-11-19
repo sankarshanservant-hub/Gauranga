@@ -648,8 +648,8 @@ B. R. Sridhar Maharaj, in the “Prabhupada-padma-stavaka,” his hymn to Srila 
 service to Sri Radha's feet — approved by Gaura, known by Svarupa, honoured by Rupa's elder brother, distributed by Rupa
 and others, tasted by Raghunatha and his companions, and guarded by Jiva and others. <!-- F141 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Gopala Bhatta:
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, addresses him
+together with Gopala Bhatta:
 
 “Sri Gopala Bhatta, O Raghunatha Dasa! With a straw between my teeth I pray: make me your own.” (“Namamrita-samudra” 30)
 <!-- F142 -->

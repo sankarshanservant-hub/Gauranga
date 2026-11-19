@@ -195,15 +195,14 @@ duties, “Gopinatha Acharya, together with Shikhi Mahiti, quickly sent him to h
 Jagannatha's darshan has come” (8).[^8] Shikhi Mahiti is also among the companions whom Narottama saw in a dream
 playing with the Lord in the kirtana before the chariot (“Narottama-vilasa” 4.135). <!-- F37 F38 Q10 -->
 
-When Shikhi Mahiti left this world is not known. The sources name neither the day, nor the year, nor the place of his
-appearance and departure, nor are his days found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
-<!-- F39 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Nor is he forgotten in Narahari Chakravarti's “Namamrita-samudra,” a book of prayers to the Lord's associates:
 
 “O Shikhi Mahiti, do me this good: may I have love for Sri Krishna Chaitanya and Jagannatha.” (“Namamrita-samudra” 49)
 <!-- F41 -->
+
+When Shikhi Mahiti left this world is not known. The sources name neither the day, nor the year, nor the place of his
+appearance and departure, nor are his days found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
+<!-- F39 -->
 
 [^1]: One of the biographies gives “Mahanta, or Mahanti” as the name of his younger brother Murari; in the
     “Anubhashya” “Mahanti” stands next to the name of Shikhi himself.

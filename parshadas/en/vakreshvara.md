@@ -221,15 +221,15 @@ of Vakreshvara; it was published by Srila Bhaktisiddhanta Sarasvati[^11]. At the
 glorifies Rupa, Vakreshvara and other gurus but does not name Gopala Guru: perhaps he was not of his branch.
 <!-- F60 F61 -->
 
-## Departure
-Vakreshvara Pandita left this world on the shukla-shashthi of the month of Ashadha[^12]. Where this happened and where
-his samadhi is, the biographies do not say. <!-- F62 -->
-
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Vamshivadana:
+Narahari Chakravarti also remembers him in the “Namamrita-samudra,” where he invokes the Lord's associates one after
+another — together with Vamshivadana:
 
 “Sri Vamshivadana, Vakreshvara, Shivananda! Dispel my sorrow and grant me bliss just once.” (“Namamrita-samudra” 33)
 <!-- F70 -->
+
+## Departure
+Vakreshvara Pandita left this world on the shukla-shashthi of the month of Ashadha[^12]. Where this happened and where
+his samadhi is, the biographies do not say. <!-- F62 -->
 
 ## Aniruddha and Tungavidya
 Who Vakreshvara is in the eternal pastimes is told by Kavi Karnapura in the “Gaura-ganoddesha-dipika”:

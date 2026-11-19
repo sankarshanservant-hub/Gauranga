@@ -363,8 +363,8 @@ support for carrying [souls] across the current of worldly existence,” “Kash
 all his heart. He received the right to serve Govinda-chandra, the rasika; he longs only for His lotus face, the life of
 his life” (398). <!-- F55 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Govinda, the Lord's servant:
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, names him beside
+Govinda, the Lord's servant:
 
 “Govinda, Garuda, Kavichandra, Kashishvara! Make this fallen one a servant of your servants.” (“Namamrita-samudra” 17)
 <!-- F56 -->

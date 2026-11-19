@@ -1113,10 +1113,10 @@ punishment from the Lord; and His riddle announced that the purpose was fulfille
 Whoever takes shelter of His feet will, in the words of the “Charitamrita,” easily find shelter at the feet of Sri
 Chaitanya. <!-- I14 I13 -->
 
-Narahari Chakravarti begins his “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after
-another — with these words:
+Narahari Chakravarti's “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after another —
+opens with a verse that names Advaita too:
 
-“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at your feet!” (“Namamrita-samudra” 1)
+“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at Your feet!” (“Namamrita-samudra” 1)
 
 A little further on he entreats Advaita's parents, Kuvera and Nabha Devi, as well:
 

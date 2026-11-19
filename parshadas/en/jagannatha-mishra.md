@@ -262,8 +262,8 @@ another. And on 13 June 1934,[^15] while the foundations of the new temple at th
 four-armed Deity of Vishnu — Adhokshaja — was taken from the earth. It was He whom Jagannatha Mishra had worshipped in
 his home. <!-- F107 F108 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Shachi and Nityananda's parents:
+Narahari Chakravarti, in the “Namamrita-samudra,” his prayers to the Lord's associates, addresses him together with
+Shachi and Nityananda's parents:
 
 “Shachi, Jagannatha, Padma, Hadai Pandita! Mercy to an ignorant child — that is what befits you.” (“Namamrita-samudra”
 4)

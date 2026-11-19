@@ -342,8 +342,7 @@ bestowed on all His dear associates the bhavas Brahma longs for — the anuraga 
 Devakinandana in the “Vaishnava-vandana” ascribes to Gadadhara Dasa the wonder of a karavi bud that became fragrant
 like a lotus;[^20] he also glorifies him as “Radhika,” “the daughter of Vrishabhanu.”[^21] <!-- F50 F51 F55 F56 F60 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well:
+Narahari Chakravarti, too, prays to him in the “Namamrita-samudra,” his book of appeals to the Lord's associates:
 
 “Gadadhara Dasa, keep me at those feet, that in life and in death I may never forget Gauranga.” (“Namamrita-samudra” 16)
 <!-- F61 -->

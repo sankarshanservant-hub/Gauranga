@@ -662,8 +662,8 @@ Bhaktisiddhanta's sixty-second birthday, his Vyasa-puja was held here. Srivasa-a
 temples of the Gaudiya Math. Later Bhakti Vilasa Tirtha Maharaja, fulfilling Bhaktisiddhanta's wish, built at
 Srivasa-angana, next to the Advaita-bhavana, a temple of Gadadhara. <!-- F58 F114 F138 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him — here
-called Srinivasa — right after the Pancha-tattva:
+Right after the Pancha-tattva — in the second verse of the “Namamrita-samudra,” where Narahari Chakravarti's prayers
+call upon the Lord's associates — he is named too, here as Srinivasa:
 
 “Gadadhara, Srinivasa, Svarupa, Narahari! Be merciful and give me to drink the nectar of Gaura's prema.”
 (“Namamrita-samudra” 2)

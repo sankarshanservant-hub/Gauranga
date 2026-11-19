@@ -1592,7 +1592,7 @@ of “Sri Nityananda Prabhu” and closes with the line “Krishna Chaitanya, Pr
 Narahari Chakravarti begins his “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after
 another — with these words:
 
-“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at your feet!” (“Namamrita-samudra” 1)
+“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at Your feet!” (“Namamrita-samudra” 1)
 
 Nityananda's name runs through many other of his prayers as well; thus he asks Vasudha and Jahnava:
 

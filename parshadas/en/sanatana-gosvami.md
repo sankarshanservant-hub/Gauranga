@@ -1617,8 +1617,8 @@ he bears the look of an avadhuta; like a great lake covered with duckweed, he gi
 The “Bhakti-ratnakara” recalls this too: “Kavi Karnapura, dear to the Lord, wrote a book and told of the grace shown to
 Sanatana” (1.657). <!-- F443 Q65 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well, together with Rupa:
+In the “Namamrita-samudra,” where Narahari Chakravarti's prayers call upon the Lord's associates, Sanatana is invoked
+together with Rupa:
 
 “O Rupa and Sanatana, dear to Gaura, His very life! Give me the strength to describe the Lord's deeds.”
 (“Namamrita-samudra” 29)

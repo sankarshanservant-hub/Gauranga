@@ -416,8 +416,8 @@ Ramananda Raya and Nityananda Prabhu any intelligent person will see and underst
 for materialism in Vaishnavas, only heap up offences; and to imitate the outward guise of a paramahamsa without those
 qualities is ruinous (on Antya 6.18). <!-- F82 -->
 
-Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
-well — by his title, Vidyanidhi:
+In Narahari Chakravarti's “Namamrita-samudra,” a book of prayers to the Lord's associates, he is called by his title,
+Vidyanidhi:
 
 “Vidyanidhi, Halayudha, Sri Raghunandana! Make me rich just once by giving me the wealth of prema.” (“Namamrita-samudra”
 20)
