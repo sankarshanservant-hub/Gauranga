@@ -22,7 +22,7 @@ with a bow to the Lord “who turned Sarvabhauma, his heart hardened by false ar
 
 ## Family and Birthplace
 His father was Maheshvara Visharada of Vidyanagara, a village near Navadvipa.[^1] Visharada's house stood by an
-embankment on the Ganga, and Devananda Pandita lived nearby; his school, then, was somewhere in Kuliya. Vrindavana Dasa
+embankment, and Devananda Pandita lived nearby; his school, then, was somewhere in Kuliya. Vrindavana Dasa
 tells how the Lord, walking through Navadvipa with His devotees, came to this place:
 
 “So Lord Vishvambhara came near the embankment that guarded the house of Maheshvara Visharada, the father of Sarvabhauma
@@ -35,7 +35,7 @@ Math. <!-- F3 F4 F5 F6 Q13 -->
 
 His brother was Vidya-vachaspati. The “Charitamrita” names them together — “the two brothers, Sarvabhauma and
 Vidya-vachaspati” (Madhya 15.133); when the Lord came from Puri to Bengal, “He stayed in the house of Vidya-vachaspati”
-(Madhya 1.150), and according to the biographies this was in that same Vidyanagara. One of them adds that
+(Madhya 1.150), and according to one of the biographies this was in that same Vidyanagara. One of them adds that
 Vidya-vachaspati taught philosophy and scripture to Rupa and Sanatana. Sarvabhauma's sister was married to Gopinatha
 Acharya, likewise a native of Navadvipa and a devotee of the Lord of long standing; the “Charitamrita” calls Gopinatha
 “Visharada's son-in-law” (Madhya 6.18), and Sanatana Gosvami in the “Vaishnava-toshani” names both brothers among his
@@ -44,7 +44,7 @@ teachers. <!-- F8 F9 -->
 Sarvabhauma's wife, whom everyone called “the mother of Shathi,” was devoted to Mahaprabhu with all her soul and loved Him
 as a mother. Their daughter Shathi was married to Amogha, a brahmana of a noble kulina family, whose story is still to
 come. Sarvabhauma also had a son, Chandaneshvara.[^2] An aunt of his lived in Puri; in her house, in a quiet spot, the Lord
-was lodged at his request in the first days. Sarvabhauma's own house in Puri, with its room for the Shalagrama, later
+was lodged at his request in the first days. Sarvabhauma's own house in Puri, with its room for the shalagrama, later
 became the Gangamata Math, and the shalagrama Damodara whom Sarvabhauma served is worshipped there to this day.
 <!-- F10 F11 F12 F13 -->
 
@@ -169,7 +169,7 @@ He told his brother-in-law plainly: you are the greatest of scholars, but not a 
 you, and so the truth about Him is closed to you; you yourself have seen in the Lord a love such as is not found among men,
 and still “you take all this for the Lord's maya, mere worldly behaviour” (6.85–91). One of the biographies calls this error
 “the maya of knowledge” (*jnana-maya*): pride of learning keeps one from feeling what one's eyes behold. The manifestations
-of prema in the Lord are not maya; maya lies in the vision that takes them for something worldly. <!-- F41 F43 -->
+of prema in the Lord are not maya; maya lies in the outlook that takes them for something worldly. <!-- F41 F43 -->
 
 Sarvabhauma smilingly objected that he was arguing only for the sake of truth:
 
@@ -262,7 +262,7 @@ Sarvabhauma fell flat in obeisance, and by the Lord's mercy the whole truth awok
 name and the greatness of the gift of prema, and in a moment, within less than half an hour, composed a hundred verses in
 the Lord's praise — “verses such as even Brihaspati could not compose” (CC, Madhya 6.206).[^10] The Lord embraced him, and
 Sarvabhauma lost consciousness in bliss; the eight sattvika transformations appeared on his body — tears, stupor, thrill,
-sweat, trembling — and he danced, sang, wept and fell down, longing to touch the Lord's feet (6.207–208). In Vrindavana Dasa
+sweat, trembling and the rest — and he danced, sang, wept and fell down, longing to touch the Lord's feet (6.207–208). In Vrindavana Dasa
 the Lord places His hand on his head and His foot on his chest, and Sarvabhauma, clasping His feet, cries out: “Today I
 have caught the thief who stole my heart” (CB, Antya 3.109–113). <!-- F55 F56 F57 -->
 
@@ -278,7 +278,7 @@ Vrindavana Dasa gives the Lord's answer as well:
 “Listen, Sarvabhauma: you are My eternal companion. That is why you can see My glory and greatness. It is for your sake
 alone that I have come here, so that you may worship Me without restraint.” (CB, Antya 3.142–143)
 
-A day later, when Gopinatha reminded him that his prediction had come true, Sarvabhauma bowed to him:
+The next day, when Gopinatha reminded him that his prediction had come true, Sarvabhauma bowed to him:
 
 “You are a great devotee (*maha-bhagavata*), and I am blinded by logic; the Lord has shown me mercy through my connection
 with you.” (CC, Madhya 6.246)
@@ -347,7 +347,7 @@ knew the Lord to be the son of the king of Vraja Himself,” and Kashi Mishra an
 shelter at His feet (CC, Madhya 6.280–281). The scholars of Puri took His shelter, and after them many nobles of Odisha and
 the king himself came to the Lord. <!-- F66 -->
 
-Kavi Karnapura in his mahakavya adds one more story. When the Lord was already leaving Puri for the south, Gopinatha showed
+Kavi Karnapura in his mahakavya adds one more story. Once, when the Lord was leaving Puri, Gopinatha showed
 Him a manuscript, and in a verse of Sarvabhauma's the Lord saw the name “Krishna”; He fell down in ecstasy and next
 morning, thinking He had offended Sarvabhauma, returned to Puri to serve him (mahakavya 12.35–58). In Karnapura, too, the
 Lord shows Sarvabhauma a four-armed form (12.33). <!-- F134 -->
@@ -409,8 +409,8 @@ Him the devotees of Puri: Janardana, Krishnadasa of the golden staff, the scribe
 his sons, he said, “This is Bhavananda Raya. His eldest son is Ramananda Raya” (CC, Madhya 10.29–50). <!-- F75 F76 -->
 
 Here too the Lord told Sarvabhauma how His companion in the south, Kala Krishnadasa, had behaved, and sent him away
-(10.62–63). Svarupa Damodara, on coming to Puri, met Sarvabhauma and the others (10.127); Jagadananda, who had come with the
-Lord, had first seen him in those early days. <!-- F74 F77 -->
+(10.62–63). Svarupa Damodara, on coming to Puri, met Sarvabhauma and the others (10.127); and Jagadananda, who had come with the
+Lord from Navadvipa, had known him since the very first days in Puri. <!-- F74 F77 -->
 
 On another day the Lord was speaking of Krishna with Sarvabhauma and other devotees when Govinda arrived, the servant of
 Ishvara Puri, sent by his guru to serve the Lord. Sarvabhauma asked why Ishvara Puri had had a servant from a shudra
@@ -515,7 +515,7 @@ Svarupa, lest he offend one of the sannyasis by a lack of due honour (CC, Madhya
 
 The cooking was done by the mother of Shathi, a devotee of the Lord and a skilled cook, and Sarvabhauma helped her. For the
 Lord he set aside a separate room in the quietest part of the house, next to the room where food was offered to the
-Shalagrama, and on a whole leaf of a huge banana tree he heaped a mountain of rice drenched in ghee, surrounding it with
+shalagrama, and on a whole leaf of a huge banana tree he heaped a mountain of rice drenched in ghee, surrounding it with
 countless dishes of Bengal and Odisha (15.199–221). At noon the Lord came and marvelled: how could so much be cooked in six
 hours? All this had already been offered to Krishna — so Radha and Krishna had tasted the feast, and the remnants would be
 His. Sarvabhauma replied:
@@ -575,7 +575,7 @@ dear to Me — to say nothing of others.” (CC, Madhya 15.283–284) <!-- F103 
 
 Then the Lord came to Sarvabhauma, embraced him and told him to bathe, go to Jagannatha and break his fast: “Amogha is a
 child; he is your son. A father does not hold his child's faults against him, for he is the child's protector. He has
-become a Vaishnava now, and his offence is gone; so show him your favour” (15.291–292). The mother of Shathi was consoled
+become a Vaishnava now, and his offence is gone; so show him your favour” (15.291–292). The Lord consoled the mother of Shathi
 too. And Amogha from then on became the Lord's exclusive devotee and constantly chanted the names of Krishna (15.296). So,
 says Krishnadasa Kaviraja, the Lord took His meal in Sarvabhauma's house, and in it Sarvabhauma's love became known
 (15.299). <!-- F105 Q10 -->
