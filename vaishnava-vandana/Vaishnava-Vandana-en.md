@@ -512,7 +512,7 @@ each associate is mentioned in the five texts and in GGD.
 [^01-101]: Madhu Pandita — probably the one who served the Deity of Gopinatha in Vrindavana (cf. v. 20). The reading is unclear; according to Majumdar, it may be an epithet of Govinda Acharya.
 [^01-102]: GGD 41: Govinda Acharya, composer of songs and verses, is Paurnamasi. Devakinandana (Part 2, v. 103): "who composed the wondrous dhamali of Radha and Krishna".
 [^01-103]: GGD 119.
-[^01-104]: I.e. according to the vandanas the Lord showed Prataparudra His six-armed form (so also Devakinandana, Part 2, v. 105). According to CC Madhya 6 the six-armed form was shown to Sarvabhauma; grammatically the verse may refer to both.
+[^01-104]: I.e. according to the vandanas the Lord showed Prataparudra His six-armed form (so also Devakinandana, Part 2, v. 105). Per CC Madhya 6.202–203 the Lord showed Sarvabhauma a four-armed form and then His form as Krishna with the flute; the six-armed form shown to Sarvabhauma is from CB Antya 3 (and the Anubhashya on CC Adi 10.130); grammatically the verse may refer to both.
 [^01-105]: In Devakinandana (Part 2, vv. 106–107): the brahmana Yadunatha, Vipradasa the Oriya, the brahmana Haridasa, the physician Vishnudasa, whose singing delighted the Lord, and his brother Vanamali Dasa.
 [^01-106]: Cf. CC Antya 10 (the Oriya devotees).
 [^01-107]: Kanai Khutiya — in CC Madhya 15 he played Nanda at the Nandotsava festival in Puri.
@@ -1128,7 +1128,7 @@ with this longing speaks Devakinandana Dasa.
 [^02-69]: Cf. Part 1, vv. 104–105 and notes.
 [^02-70]: Dhamali — playful songs about Radha and Krishna. GGD 41: Govinda Acharya is Paurnamasi.
 [^02-71]: GGD 119; on Sarvabhauma's verses about the Lord (the *Chaitanya-shataka*) — CC Madhya 6.
-[^02-72]: According to CC Madhya 6 the six-armed form was shown to Sarvabhauma; the vandanas say this of Prataparudra (cf. Part 1, v. 106).
+[^02-72]: Per CC Madhya 6.202–203 the Lord showed Sarvabhauma a four-armed form and then His form as Krishna with the flute; the six-armed form shown to Sarvabhauma is from CB Antya 3 (and the Anubhashya on CC Adi 10.130); the vandanas say this of Prataparudra (cf. Part 1, v. 106).
 [^02-73]: Cf. Part 1, vv. 107–108.
 [^02-74]: CC Madhya 15 (Kanai Khutiya as Nanda at the Nandotsava festival); Part 1, vv. 109–110.
 [^02-75]: Cf. Part 1, v. 110 and note.
@@ -2444,7 +2444,7 @@ with this longing it was composed by Vrindavana Dasa.[^05-96]
 [^05-73]: Cf. Pt. 1, 102; Pt. 2, 101. "Six score" — a hundred and twenty snakes; the number is known only from this vandana.
 [^05-74]: Cf. Pt. 1, 103–104; Pt. 2, 101–102.
 [^05-75]: Cf. Pt. 1, 105; Pt. 2, 102.
-[^05-76]: Cf. Pt. 1, 105–106; Pt. 2, 103–105. In CC (Madhya 6) the six-armed form is shown to Sarvabhauma, not to Prataparudra (see Pt. 1, note to v. 106).
+[^05-76]: Cf. Pt. 1, 105–106; Pt. 2, 103–105. The vandanas say this of Prataparudra; per CC Madhya 6.202–203 the Lord showed Sarvabhauma a four-armed form and then His form as Krishna with the flute; the six-armed form shown to Sarvabhauma is from CB Antya 3 (and the Anubhashya on CC Adi 10.130) (see Pt. 1, note to v. 106).
 [^05-77]: Cf. Pt. 1, 107–108; Pt. 2, 106–107.
 [^05-78]: Vv. 97–100 — cf. Pt. 1, 109–110; Pt. 2, 109–111.
 [^05-79]: Cf. Pt. 1, 111; Pt. 2, 69; above, v. 58.
