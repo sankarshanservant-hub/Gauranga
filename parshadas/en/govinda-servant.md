@@ -483,6 +483,17 @@ Krishnadasa Kaviraja names him, too, among those who stayed to live with the Lor
 With them, and with Govinda among them, the Lord went every morning for darshan of Jagannatha (Madhya 15.184).
 <!-- Q12 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Govinda, Garuda, Kavichandra, Kashishvara! Make this fallen one a servant of your servants.” (“Namamrita-samudra” 17)
+
+Another verse reads as if about him alone — for who but he served the Lord's feet day and night?
+
+“O Sri Govinda, dear to Gaura, treasury of bhakti! Grant me service to Gaura's lotus feet day and night.”
+(“Namamrita-samudra” 66)
+<!-- F67 -->
+
 ## After the Lord's Disappearance
 When the Lord withdrew from the world, Govinda lived in the deep sorrow of separation. Soon young Srinivasa came to
 Nilachala, sent by Narahari Thakura from Shrikhanda; he had learned of the Lord's disappearance on the way. In Puri he

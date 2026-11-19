@@ -204,6 +204,12 @@ Yet even after the departure of Mahaprabhu and His companions the Ghosha brother
 to the “Bhakti-ratnakara” (10.572 ff.), when Narottama Dasa sang at the great festival in Kheturi, Sri Chaitanya appeared
 there with His companions, and among them were Madhava Ghosha, Vasu Ghosha and Govinda Ghosha. <!-- F39 Q9 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Murari, Govinda, O Mukunda, Vasu Ghosha! Clasping your feet I pray: forgive my faults.” (“Namamrita-samudra” 21)
+<!-- F40 -->
+
 ## Significance
 Vasu Ghosha is an eternal companion of Gaura, the sakhi Gunatunga of Sri Radha's circle, the singer to whose voice Sri
 Chaitanya and Nityananda danced. His songs, simple and heartfelt, have remained living kirtana in the Gaudiya Vaishnava
