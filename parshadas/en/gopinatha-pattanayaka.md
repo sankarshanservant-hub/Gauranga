@@ -72,14 +72,14 @@ or twelve horses; take them at a fair valuation,” and he led them to the palac
 
 The king sent one of the princes, a judge of horses, to value them, together with ministers and companions. The prince
 set the price far below the true one, and Gopinatha flared up (CC, Antya 9.22–23). The prince had a habit of turning
-his neck again and again and glancing upward, and Gopinatha jibed: “My horses raise their necks, but they do not look
-upward — so their price cannot be set so low.” Srila Bhaktivinoda gives the sense of the jibe plainly: my horse is
+his neck again and again and glancing upward, and Gopinatha jibed: “My horse raises its neck, but it does not look
+upward. So it is not right to set its price low.” Srila Bhaktivinoda gives the sense of the jibe plainly: my horse is
 worth no less than you. He said it without fear, Kaviraja tells us, for the king had always favoured him (CC, Antya
 9.24–26). <!-- F14 F15 -->
 
 Stung, the prince went to his father and slandered Gopinatha: the man makes excuses and has no intention of paying; let
-me raise him onto the *changa*, and the debt will be recovered. The king replied: “Do as you see fit, so long as the
-money comes back” (CC, Antya 9.27–29). The changa was a scaffold of execution: naked swords were set beneath it, and the
+me raise him onto the *changa*, and the debt will be recovered. The king replied: “Go and do whatever is best. Use any
+means by which I may get the money” (CC, Antya 9.27–29). The changa was a scaffold of execution: naked swords were set beneath it, and the
 condemned man was thrown down onto them. The prince had Gopinatha raised onto the scaffold and the swords set below (CC,
 Antya 9.30). This was Prataparudra's eldest son, the heir to the throne, Purushottama Jana, who was called Bara-Jana (CC,
 Antya 9.13, 9.99, 9.104).[^6] The king himself, as it later turned out, knew nothing of the scaffold and the swords, and
@@ -96,8 +96,8 @@ Antya 9.13–15) <!-- F19 -->
 
 The Lord asked why he was being put to death, and they told Him the whole story (CC, Antya 9.16). Having heard it,
 Mahaprabhu answered “with a show of affectionate anger,” taking no one's side: what fault is there in the king, if his
-money is not paid? He who collects revenue in the king's name, the Lord said, squanders it without fear of his master
-on harlots and dancers; a sensible servant of the king first pays what is due and spends on himself only what is left.
+money is not paid? For he, the Lord said, collects the revenue in the king's name and, without fear of him, squanders it
+on harlots and dancers; a sensible servant first pays the king what is due and spends on himself only what is left.
 “The king himself will collect the money due on his accounts. I am a detached sannyasi; what can I do in this?” (CC,
 Antya 9.31–35). Srila Bhaktisiddhanta Sarasvati explains that here the Lord displays detachment and shows what the
 dharma of a sannyasi is. <!-- F20 F21 -->
@@ -134,8 +134,8 @@ Mishra, effortlessly saved Gopinatha from death (CC, Antya 9.150).[^11] The king
 money comes in and his life is spared.” (CC, Antya 9.49–50) <!-- F25 F26 -->
 
 Harichandana conveyed the king's will to the prince, and Gopinatha was at once taken down from the scaffold (CC, Antya
-9.51). Asked how he would pay the revenue, Gopinatha answered: “Take the horses at their true price, and the rest I will
-pay little by little, whatever I can.” The horses were taken at a fair price, a date was fixed for the rest of the debt,
+9.51). Asked how he would pay the revenue, Gopinatha answered: “Take the horses at their proper value. The rest I will pay
+little by little, whatever I can.” The horses were taken at a fair price, a date was fixed for the rest of the debt,
 and he was sent home (CC, Antya 9.52–54). Thus by Mahaprabhu's mercy Gopinatha was saved, and Kaviraja himself, early
 in the Madhya-lila, listing the Lord's pastimes, mentions this one:
 
@@ -159,7 +159,7 @@ That same day Kashi Mishra, the royal priest and Prataparudra's guru, came to Ma
 anxiety with him. Bhavananda's family, He said, serve the king and spend the king's money, and when the king demands
 what is his, they come to Me; four times people have run to Me with news of the scaffold. “Today Jagannatha has
 protected him; but tomorrow who will protect him if he does not pay the king's money?” Worldly news robs Me of peace,
-and I shall go to Alalanatha to live there in solitude (CC, Antya 9.59–66). The Lord speaks these words in the role of a
+and I shall go to Alalanatha to live there in solitude (CC, Antya 9.59–66). The Lord speaks thus as a
 sannyasi, who should not listen to worldly talk: they teach detachment, but do not condemn His servants. <!-- F30 -->
 
 Kashi Mishra fell at His feet and begged Him not to leave the Kshetra. One who serves You for worldly ends, he said, is
@@ -208,8 +208,13 @@ official, but of a sovereign about those close to him. <!-- F34 F36 -->
 
 ## The Shadow of the Fruit
 Then Bhavananda Raya came to Mahaprabhu with his five sons, and all fell at His feet. The Lord raised Bhavananda and
-embraced him, and Bhavananda said: “My whole family are Your servants. You have shown Your affection for Your devotees,
-as long ago You delivered the five Pandavas from danger” (CC, Antya 9.127–131). <!-- F37 -->
+embraced him, and Bhavananda said:
+
+“My whole family are Your servants. Saving us in this danger, Lord, You have bought us again for a price. Now You have
+shown Your affection for Your devotees, as long ago You delivered the five Pandavas from danger.” (CC, Antya 9.130–131)
+
+He who in Krishna's pastimes was King Pandu here recalled how the Lord had protected his sons then too (CC, Antya
+9.127–131). <!-- F37 -->
 
 Then Gopinatha bowed at the Lord's feet, the king's silk cloth still on his head, and told how kind the king had been to
 him:
@@ -219,7 +224,7 @@ peril of death on top of the *changa*! On the other, silk cloth again — all th
 meditated on Your feet, and by the power of remembering Your feet I obtained this fruit. Seeing all this happen to me,
 people are amazed; they sing and praise the glory of Your mercy.” (CC, Antya 9.133–136) <!-- F38 -->
 
-Standing on the scaffold above the swords, Gopinatha had thought not of rescue but of the Lord's feet. And now, when
+Facing death, Gopinatha had remembered the Lord's feet. And now, when
 life, honour and wealth had come back to him twofold, he was not beguiled by them:
 
 “But this is not the chief fruit of remembering You. It is only a semblance of fruit (*phalabhasa*), for worldly things
@@ -276,7 +281,7 @@ Lord, outwardly refusing to help, saved him in such a way that no one saw His ha
 through Harichandana, through Kashi Mishra and the king's love. So was revealed the “mercy veiled beneath another guise”
 of which the “Chaitanya-charitamrita” speaks. <!-- I1 F27 F35 -->
 
-Gopinatha himself showed how a devotee receives mercy. In the hour of death he meditated on the Lord's feet and ascribed
+Gopinatha himself showed how a devotee receives mercy. Facing death he meditated on the Lord's feet and ascribed
 his whole deliverance to Him alone; and when life, office and wealth came back to him twofold, he called them only the
 shadow of the fruit and prayed for freedom from worldly things — such as Ramananda and Vaninatha had. <!-- I2 -->
 
