@@ -144,8 +144,7 @@ bodices and golden ornaments (12.1949–1952; as the biography gives it). <!-- Q
 
 The same “Bhakti-ratnakara” preserves the memory of the place. When Narahari leads Srinivasa through Navadvipa, he shows
 him the spot by Chandrashekhara's house where the two of them, Sadashiva and Buddhimanta Khan, made ready all kinds of garments for
-Gaura-raya's dance in the attire of Lakshmi and for a kirtana that maddens the whole world (12.2902–2904; as given by the
-biographies). <!-- F20 -->
+Gaura-raya's dance in the guise of Lakshmi and others and for a kirtana that maddens the whole world (12.2903–2904). <!-- F20 -->
 
 ## Play in the Ganga
 After delivering Jagai and Madhai, the Lord played with His associates in the waters of the Ganga, and in the list of

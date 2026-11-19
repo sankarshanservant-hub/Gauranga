@@ -38,7 +38,7 @@ relations:
   - {type: friend, who: "@mukunda-sanjaya", facts: [F7, F8, F10, F13],
      note: "Вдвоём — богатые почтенные люди Навадвипы, помогали бедным лекарствами (B 825; T 47); вместе пришли лечить «болезнь вайю» (ЧБ Ади 12.72); Мукунда Санджая хотел разделить расходы на свадьбу, назвав его «друг, брат» (ЧБ Ади 15.70)."}
   - {type: co-worker, who: "@sadashiva-pandita", facts: [F19, F20], events: [ev-chandrashekhara-drama],
-     note: "Вдвоём по велению Господа готовили облачения для действа в доме Чандрашекхары (ЧБ Мадхья 18.7, 18.14; БР 12.2902–2904 — по T/B, не сверено). B 826 пишет их подряд без союза — это двое."}
+     note: "Вдвоём по велению Господа готовили облачения для действа в доме Чандрашекхары (ЧБ Мадхья 18.7, 18.14; БР 12.2903–2904 — сверено). B 826 пишет их подряд без союза — это двое."}
   - {type: other, who: "@chandrashekhara-acharya", facts: [F18, F19, F20], events: [ev-chandrashekhara-drama], note: "Действо и киртаны в его доме. = @chandrashekhara-acharya F17."}
   - {type: other, who: "@srivasa", facts: [F18], events: [ev-closed-door-kirtan-scoffers], note: "Ночные киртаны в храме Шривасы (ЧБ Мадхья 8.110–116). = @srivasa F139."}
   - {type: other, who: "@advaita", facts: [F23, F24, F27], events: [ev-shantipura-reunion, ev-gauda-devotees-set-out-puri],
