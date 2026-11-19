@@ -1,7 +1,7 @@
 #!/bin/sh
 # Комплекты для перевода статей Бхактивиноды Тхакура (бенгали → RU+EN) в отдельном чате.
 #   sh bhaktivinoda-articles/tools/make_kit.sh <выходная-папка> [часть]
-# Части (каждая ≤ ~25 МБ): 1 — группы A+B (BVA-01…20), 2 — C, BVA-21…46, 3 — C, BVA-47…72, 4 — D (BVA-73…87).
+# Части (каждая ≤ ~25 МБ): 1 — группы A+B (BVA-01…20, 88), 2 — C, BVA-21…46, 3 — C, BVA-47…72, 4 — D (BVA-73…87).
 # Без второго аргумента собираются все четыре: bhaktivinoda-articles-kit-partN.zip
 # Список статей и страниц — bhaktivinoda-articles/articles.tsv (src/pdf_from/pdf_to — основа; alt — сверка).
 set -e
@@ -12,10 +12,11 @@ S=sources/bhaktivinoda-articles/src
 SCM_PDF=$S/prabandhabali_MayapurSCM_text.pdf;            SCM_OCR=$S/prabandhabali_MayapurSCM_ocr-pages.txt
 ST5_PDF=$S/sajjana-toshani-thakur/ST5_1893_dli315943.pdf; ST5_OCR=$S/sajjana-toshani-thakur/ST5_1893_ocr-pages.txt
 GVS_PDF=$S/prabandhavali_v1_GVS1950.pdf;                  GVS_OCR=$S/prabandhavali_v1_GVS1950_ocr-pages.txt
+VP1_PDF=$S/vishnupriya-patrika/VP_vol01_1891_CSSSC.pdf;   VP1_OCR=$S/vishnupriya-patrika/VP_vol01_1891_tesseract.txt
 TSV=bhaktivinoda-articles/articles.tsv
 
-pdf_of() { case $1 in SCM04) echo $SCM_PDF;; ST5) echo $ST5_PDF;; GVS) echo $GVS_PDF;; esac; }
-ocr_of() { case $1 in SCM04) echo $SCM_OCR;; ST5) echo $ST5_OCR;; GVS) echo $GVS_OCR;; esac; }
+pdf_of() { case $1 in SCM04) echo $SCM_PDF;; ST5) echo $ST5_PDF;; GVS) echo $GVS_PDF;; VP1) echo $VP1_PDF;; esac; }
+ocr_of() { case $1 in SCM04) echo $SCM_OCR;; ST5) echo $ST5_OCR;; GVS) echo $GVS_OCR;; VP1) echo $VP1_OCR;; esac; }
 
 # страницы источника: изображения (150 dpi, серые JPEG) + OCR с метками
 put_pages() { # src from to dir
@@ -28,7 +29,7 @@ put_pages() { # src from to dir
 }
 
 part_of() { # id -> part
-  n=$(echo $1 | sed 's/BVA-0*//'); if [ $n -le 20 ]; then echo 1; elif [ $n -le 46 ]; then echo 2; elif [ $n -le 72 ]; then echo 3; else echo 4; fi
+  n=$(echo $1 | sed 's/BVA-0*//'); if [ $n -le 20 ] || [ $n -ge 88 ]; then echo 1; elif [ $n -le 46 ]; then echo 2; elif [ $n -le 72 ]; then echo 3; else echo 4; fi
 }
 
 build_part() {

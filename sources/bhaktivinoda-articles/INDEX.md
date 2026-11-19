@@ -122,15 +122,15 @@ EN перевод: **да** — найден на BVI (совпадение по
 | 18 | Śrī Śrī Kṛṣṇa Dāsa Kavirāja Gosvāmī Prabhu | ST2 № 10 | 1885 | https://bhaktivinodainstitute.org/sri-sri-krsna-dasa-kaviraja-gosvami-prabhu/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 2? |
 | 19 | Śrī Śrī Raghunātha Dāsa Gosvāmī | ST2 № 10 | 1885 | https://bhaktivinodainstitute.org/sri-sri-raghunatha-dasa-gosvami/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 2? |
 | 20 | Śrī Bhāgavatācārya | ST10 № 2 | 1885 | https://bhaktivinodainstitute.org/sri-bhagavatacarya/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 10? |
-| 21 | Śrī Sīmantadvīpa | VP2  | 1891 | https://bhaktivinodainstitute.org/sri-simantadvipa/ | не найден (VP т. 1 1891 CSSSC — проверяется; т. 2 нет) |
+| 21 | Śrī Sīmantadvīpa | VP2  | 1891 | https://bhaktivinodainstitute.org/sri-simantadvipa/ | не найден (в скане VP т. 1 — только № 1–3, с. 1–23; дальнейших номеров нет) |
 | 22 | The Place of Śrīla Bhāgavatācārya (Śrīla Bhāgavatācāryera Pāṭa) | ST10 № 1 | 1898 | https://bhaktivinodainstitute.org/srila-bhagavatacaryera-pata-the-place-of-srila-bhagavatacarya/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 10? |
 | 23 | Śrīmad Bhāgavatācārya | ST9 № 12 | 1898 | https://bhaktivinodainstitute.org/srimad-bhagavatacarya/ | не найден |
-| 24 | Śrī Śrī Nāma Haṭṭa (The Marketplace of the Holy Name) | VP2  | 1891 | https://bhaktivinodainstitute.org/sri-sri-nama-hatta-the-martketplace-of-the-holy-name/ | не найден (VP т. 1 1891 CSSSC — проверяется; т. 2 нет) |
-| 25 | Śrī Śrī Navadvīpa Dhāma | VP2 № 5 | 1891 | https://bhaktivinodainstitute.org/sri-sri-navadvipa-dhama/ | не найден (VP т. 1 1891 CSSSC — проверяется; т. 2 нет) |
+| 24 | Śrī Śrī Nāma Haṭṭa (The Marketplace of the Holy Name) | VP2  | 1891 | https://bhaktivinodainstitute.org/sri-sri-nama-hatta-the-martketplace-of-the-holy-name/ | не найден (в скане VP т. 1 — только № 1–3, с. 1–23; дальнейших номеров нет) |
+| 25 | Śrī Śrī Navadvīpa Dhāma | VP2 № 5 | 1891 | https://bhaktivinodainstitute.org/sri-sri-navadvipa-dhama/ | не найден (в скане VP т. 1 — только № 1–3, с. 1–23; дальнейших номеров нет) |
 | 26 | Śrī Śrī Abhirāma Gosvāmī | ST2 № 5 | 1885 | https://bhaktivinodainstitute.org/sri-sri-abhirama-gosvami/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 2? |
 | 27 | Śrī Śrī Hari Dāsa Ṭhākura | ST2 № 9 | 1885 | https://bhaktivinodainstitute.org/sri-sri-hari-dasa-thakura/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 2? |
-| 28 | The Place of Śrī Nakula Brahmacārī (Śrī Nakula Brahmacārīra Pāṭa) | VP2 № 3 | 1890 | https://bhaktivinodainstitute.org/sri-nakula-brahmacarira-pata-the-place-of-sri-nakula-brahmacari/ | не найден (VP т. 1 1891 CSSSC — проверяется; т. 2 нет) |
-| 29 | Śrīpāṭa Denuḍa | VP2 № 6 | 1890 | https://bhaktivinodainstitute.org/sripata-denuda/ | не найден (VP т. 1 1891 CSSSC — проверяется; т. 2 нет) |
+| 28 | The Place of Śrī Nakula Brahmacārī (Śrī Nakula Brahmacārīra Pāṭa) | VP2 № 3 | 1890 | https://bhaktivinodainstitute.org/sri-nakula-brahmacarira-pata-the-place-of-sri-nakula-brahmacari/ | **найден: «Вишнуприя-патрика», 1-й год (Чайтаньябда 405 = 1891), с. 21–23 = pdf 39–41** (`src/vishnupriya-patrika/VP_vol01_1891_CSSSC.pdf`; конец повреждён) → BVA-88 |
+| 29 | Śrīpāṭa Denuḍa | VP2 № 6 | 1890 | https://bhaktivinodainstitute.org/sripata-denuda/ | не найден (в скане VP т. 1 — только № 1–3, с. 1–23; дальнейших номеров нет) |
 | 30 | Śrī Śrī Jīva Gosvāmī Prabhu | ST2 № 12 | 1885 | https://bhaktivinodainstitute.org/sri-sri-jiva-gosvami-prabhu/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 2? |
 | 31 | Śrīdhāma Māyāpura | ST5 № 12 | 1893 | https://bhaktivinodainstitute.org/sridhama-mayapura/ | **найден: ST5 №12, с. 221 = pdf 254–255** («শ্রীধাম মায়াপুর») → BVA-12 |
 | 32 | Śrī Śrī Sanātana Gosvāmī Prabhu | ST2 № 7 | 1885 | https://bhaktivinodainstitute.org/sri-sri-sanatana-gosvami-prabhu/ | не найден; лид: EAP341 (Чанданнагар) — экз. ST т. 2? |
