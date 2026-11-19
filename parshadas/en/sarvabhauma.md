@@ -505,6 +505,133 @@ as a cowherd boy with a yoke of milk and yoghurt, danced with the devotees, the 
 Sarvabhauma (15.17–20); one of the biographies says that the king and Sarvabhauma played His cowherd companions in this
 lila. <!-- F92 F93 Q11 -->
 
+## The Feast in Sarvabhauma's House
+When after the Chaturmasya the Gaudiya devotees had gone home, Sarvabhauma came to the Lord and with folded hands asked Him
+to take His meals at his house for a whole month. The Lord refused: it was against the dharma of a sannyasi. Sarvabhauma
+asked for twenty days, fifteen, ten — the Lord would agree to only one; at last they settled on five. And so that every day
+of the month one of the Lord's sannyasis would dine with him, Sarvabhauma invited Paramananda Puri for five days, his close
+friend Svarupa Damodara for four, and eight other sannyasis for two days each; the Lord he asked to come alone or with
+Svarupa, lest he offend one of the sannyasis by a lack of due honour (CC, Madhya 15.186–198). <!-- F94 -->
+
+The cooking was done by the mother of Shathi, a devotee of the Lord and a skilled cook, and Sarvabhauma helped her. For the
+Lord he set aside a separate room in the quietest part of the house, next to the room where food was offered to the
+Shalagrama, and on a whole leaf of a huge banana tree he heaped a mountain of rice drenched in ghee, surrounding it with
+countless dishes of Bengal and Odisha (15.199–221). At noon the Lord came and marvelled: how could so much be cooked in six
+hours? All this had already been offered to Krishna — so Radha and Krishna had tasted the feast, and the remnants would be
+His. Sarvabhauma replied:
+
+“O Lord, do not be astonished. By the potency of Him who will eat it, the feast was made ready. My wife did not have to
+labour at the cooking. He by whose potency the feast was made ready knows how it was done.” (CC, Madhya 15.232–233)
+<!-- F95 F96 -->
+
+And when the Lord objected that no one could eat so much, Sarvabhauma said:
+
+“At Nilachala You eat fifty-two times, and the food of each offering comes in hundreds upon hundreds of loads. In Dvaraka
+You eat in the palaces of the sixteen thousand queens, in the homes of Your eighteen mothers and in the houses of the
+Yadavas. In Vraja You eat twice a day, morning and evening, in the houses of all the cowherds — Your uncles on Your father's
+and mother's side, the husbands of Your aunts and others — and of all Your friends. At the Govardhana sacrifice You ate
+heaps upon heaps of food. Compared with that, this food is not even one mouthful. You are the Lord Himself, and I am a
+tiny, wretched soul. Please accept this one mouthful of *madhukari*.” (CC, Madhya 15.239–243)[^14]
+
+The Lord smiled and sat down to eat. One of the biographies sees in this service the model of a Vaishnava householder, like
+Advaita and Srivasa, who gave his home, his family and his social duties to the service of the Lord. <!-- F97 I5 -->
+
+## Amogha
+Sarvabhauma's son-in-law Amogha, Shathi's husband, came of a noble kulina family but loved to find fault with others.
+Knowing his ways, Sarvabhauma stood at the door with a stick in his hand; but while he was serving, Amogha slipped in and,
+seeing the feast, said: “This food would satisfy ten or twelve people, and one sannyasi eats so much all by himself!” (CC,
+Madhya 15.248). Sarvabhauma ran after him with the stick, but he escaped; and the mother of Shathi, hearing what had
+happened, beat her head and breast in grief and cried again and again, “Let Shathi become a widow!” (15.252). The Lord only
+laughed, calmed them both, ate the prasada and was very pleased. <!-- F98 F99 -->
+
+This is neither worldly cruelty nor an outburst of temper. For Sarvabhauma and his wife, blasphemy against the Lord who had
+come into their home was unbearable. One of the biographies explains: a devotee living in society as a householder does
+not belong to it; his concern is Bhagavan's pleasure, and one who reviles the Lord or His devotees is given up, be he guru,
+father or mother — so Bali gave up Shukra, Prahlada Hiranyakashipu, Bharata Kaikeyi (cf. “Bhagavatam” 5.5.18,
+10.74.40).[^15] To the mother of Shathi her son-in-law was dearer than to Sarvabhauma himself — and yet she wished him dead;
+and Srivasa, for the same reason, seeing the Lord's displeasure, had his own mother-in-law dragged out of the house by her
+hair (CB, Madhya 16.4–17). The acts of such devotees cannot be measured by a worldly yardstick. <!-- F100 I3 -->
+
+Having seen the Lord home, Sarvabhauma repented at His feet of the offence done to Him in his house, and on returning told
+his wife that he did not wish to see that blasphemer's face again, and had word sent to Shathi: “Tell Shathi to leave him:
+he has fallen (*patita*)” (CC, Madhya 15.264). That same night Amogha fled, and in the morning he fell ill with cholera.
+Sarvabhauma saw in this the direct fruit of the offence: “An offence against the Lord bears fruit at once” (15.268) — and
+recalled the words of Shukadeva: “Offence against great souls destroys a man's life, fortune, fame and dharma, his higher
+worlds and blessings — all that is good for him” (“Bhagavatam” 10.4.46; CC, Madhya 15.270). He and his wife fasted;
+Gopinatha told the Lord of it. <!-- F101 F102 F127 -->
+
+And the Lord hastened to Amogha. Placing His hand on his chest, He said that a brahmana's heart is the seat of Krishna and
+no place for envy:
+
+“Through Sarvabhauma's company your impurity has been destroyed, and when the taint is gone, a soul takes the name of
+Krishna. Get up, Amogha, chant the name of Krishna, and the Lord will at once show you His mercy.” (CC, Madhya 15.276–277)
+
+Amogha sprang up and in the frenzy of prema began to cry, “Krishna! Krishna!”; trembling, tears, thrill and sweat appeared
+on his body. He fell at the Lord's feet, begging forgiveness, and slapped his own cheeks until they swelled, until Gopinatha
+held him back. The Lord consoled him:
+
+“Because you are related to Sarvabhauma, you are dear to Me. Even the servants, maids and dogs in Sarvabhauma's house are
+dear to Me — to say nothing of others.” (CC, Madhya 15.283–284) <!-- F103 F104 -->
+
+Then the Lord came to Sarvabhauma, embraced him and told him to bathe, go to Jagannatha and break his fast: “Amogha is a
+child; he is your son. A father does not hold his child's faults against him, for he is the child's protector. He has
+become a Vaishnava now, and his offence is gone; so show him your favour” (15.291–292). The mother of Shathi was consoled
+too. And Amogha from then on became the Lord's exclusive devotee and constantly chanted the names of Krishna (15.296). So,
+says Krishnadasa Kaviraja, the Lord took His meal in Sarvabhauma's house, and in it Sarvabhauma's love became known
+(15.299). <!-- F105 Q10 -->
+
+## At the Lord's Side
+From then on Sarvabhauma was beside the Lord in all the important events of His life in Puri. The Lord entrusted the two
+brothers with the service of two of His manifestations:
+
+“As the Daru-brahma, Brahman in the form of wood, He is Sri Purushottama Himself; and the Bhagirathi is the Jala-brahma,
+Brahman in the form of water. Sarvabhauma, worship the Daru-brahma. Vachaspati, serve the Jala-brahma.” (CC, Madhya
+15.135–136) <!-- F126 -->
+
+At the feast in the garden near Gundicha the Lord seated Sarvabhauma at His left and asked again and again that the best
+food be served to him, and Gopinatha, serving his brother-in-law, joked about his former life. Sarvabhauma replied: “I was
+a logician of crooked intellect. It is by your grace that I have gained this wealth” (CC, Madhya 12.177–181). In the water
+sports on the lake he and Ramananda “lost all their gravity and became like children” (14.82). On fixed days of the month
+the Lord dined at his house or at Gadadhara Pandita's, and in their homes He ate as they wished: there He “had no
+independence” (Antya 10.153; 8.88–89). When the Lord returned from Vrindavana, Sarvabhauma came out to meet Him and together
+with Gadadhara brought maha-prasada for Him and His companions (Madhya 25.227–230); the Lord gave him His own prasada (Antya
+16.106) and introduced Sanatana Gosvami to him (Antya 4.108–110). <!-- F106 F107 F131 F132 -->
+
+He was present, too, at the examination of Rupa Gosvami's dramas, when the Lord came to Rupa with him, Ramananda and Svarupa
+and they relished the rasa, poetic beauty and diction of his verses (CC, Antya 1.103–115); and in the
+“Chaitanya-chandrodaya” (act 9) Karnapura puts a verse about Rupa into Sarvabhauma's mouth. Before him and Ramananda the
+Lord glorified the holy qualities of Haridasa (Antya 11.50), and one of the biographies says that Sarvabhauma was present
+also when the Lord consoled Sanatana, who wished to take his own life.[^16] He was among the devotees of Puri who met the
+Lord on His return from Bengal (Madhya 16.254). <!-- F110 F112 F113 -->
+
+The highest praise Sarvabhauma heard from the Lord's own lips, before Vallabha Bhatta:
+
+“Sarvabhauma Bhattacharya knows the six systems of philosophy (*darshanas*). In these six systems he is the guru of the
+world, and he is the best of bhagavatas. He showed Me the farthest limit of bhakti-yoga; by his grace I came to know that
+the yoga of devotion to Krishna is the essence.” (CC, Antya 7.21–22)
+
+Deep knowledge of the six philosophical systems together with the highest devotion — the rarest of combinations.
+<!-- F111 Q12 -->
+
+## “Stay until the Ratha-yatra”
+The king, fearing that the Lord would leave Puri, called Sarvabhauma and Ramananda to him and begged them to keep Him there
+by every means. When the Lord told them that He wished to go to Vrindavana, they asked Him to stay until the Ratha-yatra; in
+Kartika they said it was too cold — and so, afraid of separation, they found one pretext after another to put off His
+departure (CC, Madhya 16.4–10). At last, two years later, the Lord embraced them both and said: “I long very much to go to
+Vrindavana, but because of your insistence I have not gone for two years” (16.88) — and they, understanding that it is not
+good to press one's will upon the Lord, let Him go after the rainy season, on the day of Vijaya-dashami (16.92–94).
+<!-- F108 -->
+
+When the Lord was leaving Puri, Gadadhara Pandita, His friend from childhood, wished to go with Him; the Lord sent him back,
+and when the boat put off, Gadadhara fell senseless. The Lord charged Sarvabhauma to take care of him, and Sarvabhauma
+consoled him:
+
+“Get up — such is the Lord's *lila*. You know how Krishna gave up His own promise: moved by mercy for His devotee, He kept
+Bhishma's promise.” (CC, Madhya 16.143–144)
+
+In the same way, Sarvabhauma said, the Lord had protected Gadadhara's vow, though it was not easy for Him either to part
+from him; and the two of them, stricken with the grief of separation, returned to Nilachala (16.146–147). <!-- F109 -->
+
 [^1]: According to one of the biographies, Vidyanagara lies on the outskirts of Navadvipa, whose centre is held to be
     Mayapur, the Lord's birthplace, and is called a quarter of Navadvipa. Srila Bhaktisiddhanta in the “Anubhashya” on CC,
     Adi 10.130 (as another biography reports) writes that it is a village about two and a half miles from both Navadvipa
@@ -544,3 +671,9 @@ lila. <!-- F92 F93 Q11 -->
     speaks of his darshana of Krishna.
 [^13]: The biographies differ as to who named the Gaudiya devotees for the king: according to one it was Gopinatha,
     according to another Sarvabhauma. There is no contradiction: according to the “Charitamrita” both of them did.
+[^14]: One of the biographies says “fifty-six times,” following the present-day count of the “fifty-six offerings”
+    (*chhappan bhog*); in the “Charitamrita” it is fifty-two.
+[^15]: The verse the biography refers to (printed as “5.18”) is “Bhagavatam” 5.5.18, the instruction of Rishabhadeva: he is
+    no guru, no father and no mother who does not free one from the round of birth and death.
+[^16]: In the “Charitamrita” (Antya 4) Sarvabhauma is not named at this point; he is only among those to whom the Lord later
+    introduced Sanatana (4.108–110).
