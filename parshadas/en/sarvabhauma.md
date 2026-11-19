@@ -632,6 +632,76 @@ Bhishma's promise.” (CC, Madhya 16.143–144)
 In the same way, Sarvabhauma said, the Lord had protected Gadadhara's vow, though it was not easy for Him either to part
 from him; and the two of them, stricken with the grief of separation, returned to Nilachala (16.146–147). <!-- F109 -->
 
+## The Journey to Kashi
+Of one later event both the “Charitamrita” and Kavi Karnapura tell. Krishnadasa Kaviraja, in his brief summary of the
+Lord's pastimes, mentions that the Gaudiya devotees on their way to Puri met Sarvabhauma, who was going to Kashi:
+
+“On the way they all met Sarvabhauma Bhattacharya, who was going on to Kashi.” (CC, Madhya 1.141)
+
+In Karnapura's drama (“Chaitanya-chandrodaya,” act 10) Sarvabhauma says that he is going to Varanasi without the Lord's
+consent, to bring the scholars there to His teaching: “Though the Lord's mercy depends on His will, He Himself is subject
+to mercy, so that at times mercy too acts on its own.” Meeting Advaita and the other Gaudiyas, he bows to them and talks
+with them; Karnapura's mahakavya says the same (14.42–56). How this journey ended, and whether Sarvabhauma returned to Puri,
+the sources do not say.[^17] <!-- F125 -->
+
+## After the Lord's Disappearance
+Sarvabhauma outlived the Lord's disappearance. When, soon after it, young Srinivasa came to Puri, he found the Lord's
+companions in Nilachala — Ramananda, Sarvabhauma, Vakreshvara, Paramananda Puri, Shikhi Mahiti, Govinda, Shankara,
+Gopinatha Acharya — sunk in separation from Gaura: they had forgotten food and sleep. The “Bhakti-ratnakara” tells:
+
+“All long to see Srinivasa; Srinivasa went to the house of Sarvabhauma. Sri Raya Ramananda came there too; sitting
+together, the two sing the virtues of Gaurachandra. <…> Both of them are drowning in an ocean of great grief, but seeing
+Srinivasa, they felt joy in their hearts.” (“Bhakti-ratnakara”, 3.155–156, 158) <!-- F114 Q14 -->
+
+When, where and how Sarvabhauma departed from this world is not known; nor is the day of his departure found in the
+calendar of the Sri Chaitanya Saraswat Math. His grief in his last years was not worldly sorrow but the separation of an
+eternal companion from his Lord.
+
+## Remembrance
+After him Sarvabhauma's house in Puri stood empty for a long time and fell into ruin; only the shalagrama Damodara whom he
+had served remained. Later Haridasa Gosvami sent Shachi Devi, the future Gangamata Gosvamini, to live there and perform
+her bhajana, and the place became the Gangamata Math; Sarvabhauma's shalagrama is worshipped there to this day. And in his
+birthplace, Vidyanagara, Srila Bhaktisiddhanta Sarasvati on 5 March 1936 opened the Sarvabhauma Gaudiya Math and installed
+Deities there; during the parikrama of the islands of Navadvipa, on Gaura-chaturdashi, the pilgrims of the Sri Chaitanya
+Saraswat Math pass through the Vidyanagar Sarvabhauma Gaudiya Math as well. <!-- F121 F122 -->
+
+Tradition also links Sarvabhauma with the handing down of the teaching. It is said that the conclusions of Vedanta which
+he heard from the Lord in Nilachala he passed on to his disciple Madhusudana Vachaspati, and he to Jiva Gosvami; Srila
+Bhaktivinoda Thakura writes in the “Jaiva-dharma” (ch. 39) that the Lord entrusted the preaching of siddhanta to
+Sarvabhauma, and he, through one of his disciples, passed this task on to Sri Jiva. According to one of the biographies,
+Baladeva Vidyabhushana too learned from Radha-Damodara Gosvami, among other things, Gaurasundara's instructions to
+Sarvabhauma. Sanatana Gosvami in the introduction to the “Vaishnava-toshani” (v. 5) glorifies his teachers — Sarvabhauma
+Bhattacharya, Vidya-vachaspati and others. <!-- F115 F116 F117 -->
+
+Narahari Sarakara in the “Bhajanamrita” (9–11) tells that in a dream Gaurachandra appeared to him holding Sarvabhauma by
+the hand and told him to make known in waking life the conclusions he had seen. And Narahari Chakravarti in the
+“Namamrita-samudra,” calling upon the Lord's companions, addresses him too:
+
+“O Vasudeva Sarvabhauma Bhattacharya! Make me mad with the virtues of your Gauranga!” (“Namamrita-samudra” 11)
+
+— and next his wife and daughter: “O mother of Shathi! O Shathi! I pray at your feet: may I not see, even in a dream,
+those who have turned away from Sri Gaura” (12). <!-- F118 F135 -->
+
+## Significance
+Sarvabhauma is Brihaspati, the Lord's eternal companion “birth after birth,” who came with Him to become a living witness
+of His mercy. The greatest of scholars, the teacher of Advaitin sannyasis, became the humble servant of a young sannyasi who
+could not bear even the word “mukti” — and the Lord Himself called him the guru of the world, the best of bhagavatas, who
+had shown Him the farthest limit of bhakti-yoga. <!-- F7 F133 F111 -->
+
+One of the biographies says that the deliverance of Sarvabhauma, like that of Prakashananda Sarasvati, is a still greater
+miracle of mercy than the deliverance of Jagai and Madhai. Mayavada is the chief obstacle on the path to love of Krishna:
+by denying the eternity of the Lord's name, form, qualities and pastimes it bars the way to prema, and that is why all the
+Vaishnava acharyas opposed the doctrine of *vivarta-vada*. The stronger the fortress, the brighter the mercy that melted
+it. <!-- F119 I4 -->
+
+His story also teaches how this mercy comes. Even the greatest learning without it fails to recognise either the Lord or
+His pure devotee; and it comes through a devotee: Sarvabhauma himself acknowledged that he received it only through his
+kinship with Gopinatha Acharya, who convinced the foremost scholar of eastern India that Sri Chaitanya is Krishna Himself.
+And through Sarvabhauma in his turn King Prataparudra and many nobles of Odisha came to the Lord. <!-- F120 I2 I6 -->
+
+The biographies see in his transformation — from a proud Advaitin scholar to a fervent Vaishnava and great saint — an
+example for scholars to come: by becoming, like him, devotees of Mahaprabhu, they will attain the highest good. <!-- I1 -->
+
 [^1]: According to one of the biographies, Vidyanagara lies on the outskirts of Navadvipa, whose centre is held to be
     Mayapur, the Lord's birthplace, and is called a quarter of Navadvipa. Srila Bhaktisiddhanta in the “Anubhashya” on CC,
     Adi 10.130 (as another biography reports) writes that it is a village about two and a half miles from both Navadvipa
@@ -677,3 +747,5 @@ from him; and the two of them, stricken with the grief of separation, returned t
     no guru, no father and no mother who does not free one from the round of birth and death.
 [^16]: In the “Charitamrita” (Antya 4) Sarvabhauma is not named at this point; he is only among those to whom the Lord later
     introduced Sanatana (4.108–110).
+[^17]: According to the “Anubhashya” (as one of the biographies reports), Sarvabhauma had taken the vow never to leave
+    Puri. The sources do not reconcile these accounts; we give both.
