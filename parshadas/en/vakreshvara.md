@@ -225,6 +225,12 @@ glorifies Rupa, Vakreshvara and other gurus but does not name Gopala Guru: perha
 Vakreshvara Pandita left this world on the shukla-shashthi of the month of Ashadha[^12]. Where this happened and where
 his samadhi is, the biographies do not say. <!-- F62 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Vamshivadana:
+
+“Sri Vamshivadana, Vakreshvara, Shivananda! Dispel my sorrow and grant me bliss just once.” (“Namamrita-samudra” 33)
+<!-- F70 -->
+
 ## Aniruddha and Tungavidya
 Who Vakreshvara is in the eternal pastimes is told by Kavi Karnapura in the “Gaura-ganoddesha-dipika”:
 

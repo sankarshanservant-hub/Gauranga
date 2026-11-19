@@ -227,6 +227,12 @@ Vamshivadana's life was described, by tradition, by his grandson Sri Vallabha Da
 accounts of him in the “Shripata-paryatana” and the “Bhakti-ratnakara” as well, and a short biography in the
 “Gaudiya-vaishnava-abhidhana.”[^21] <!-- F43 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Vakreshvara:
+
+“Sri Vamshivadana, Vakreshvara, Shivananda! Dispel my sorrow and grant me bliss just once.” (“Namamrita-samudra” 33)
+<!-- F45 -->
+
 ## Significance
 Vamshivadana Thakura is Krishna's flute, the eternal companion of His lips, who appeared in Navadvipa to serve Gauranga in
 those closest to Him. When the Lord took sannyasa, Vamshi remained as guardian of His mother and consort; when Shachi

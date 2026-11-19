@@ -158,6 +158,13 @@ pastimes and play are like a child’s” (85); and beside him in both stands Ka
 sankirtana” (100), and “whose highest exultation is in the sankirtana of Krishna” (86).[^14] In Devakinandana’s Sanskrit list of the names of Vaishnavas “Sri Kamalakara” is named among the
 associates as well (32). <!-- F7 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Mahesha Pandita:
+
+“Sri Kamalakara Piplai, and you too, O Mahesha, hear me! Deliver this unworthy one, and your fame will be proclaimed
+without end.” (“Namamrita-samudra” 37)
+<!-- F37 -->
+
 The extraordinary conduct and extraordinary love of which Krishnadasa Kaviraja speaks are the love of Mahabala, the
 friend of Krishna and Balarama. Its fruit has remained in the world: at the Lord’s command Kamalakara left everything to
 serve Him, and Jagannatha of Mahesh, who chose His servant Himself, accepts service from his line to this day.

@@ -140,6 +140,15 @@ who had appeared in a family of sweepers, and that the Lord, by granting Kalidas
 objection that a Vaishnava's remnants may not be honoured because of his birth, and proclaimed the boundless power of
 mahaprasada to bring one who is new on the spiritual path to success. <!-- F26 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Jhadu Dasa! Again and again I ask: let the dust of the Vaishnavas' feet be my all.” (“Namamrita-samudra” 39)
+
+The next verse is a prayer to Kalidasa for faith in the Vaishnavas' remnants: the two verses together recall that very
+meeting.
+<!-- F28 -->
+
 This is not a challenge to the social order nor a social reform, but faith in the transcendental nature of a Vaishnava.
 Mahaprabhu showed Kalidasa His mercy for his faith in the Vaishnavas, not for a struggle against custom. But the lesson
 here is given not by Kalidasa alone, but by Jhadu Thakura too: his humility, as Srila Bhaktisiddhanta says, is *amani*

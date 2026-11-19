@@ -66,6 +66,13 @@ way: Devakinandana Dasa as “a great madman [of love],” and the vandana of th
 Krishna”; both place him beside Jagadisha Pandita. His name also stands in Devakinandana's list of Vaishnavas.
 <!-- F21 I2 F34 F36 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well, together with Kamalakara Pippalai:
+
+“Sri Kamalakara Piplai, and you too, O Mahesha, hear me! Deliver this unworthy one, and your fame will be proclaimed
+without end.” (“Namamrita-samudra” 37)
+<!-- F37 -->
+
 In the “Chaitanya-mangala” Lochana Dasa names Mahesha Pandita among the companions gathered around Gauranga in
 Navadvipa when the Lord was giving away prema: “Sri Rama Pandita and Mahesha Pandita, Haridasa, Nandana Acharya — the
 righteous…” (Madhya 24.59).[^7] <!-- F33 -->
