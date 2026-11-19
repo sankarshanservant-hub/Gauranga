@@ -35,6 +35,10 @@ Alalanatha, or Brahmagiri, six kroshas (about twelve miles) west of Puri, and wa
 village of Bentpur. His descendants live there to this day and bear the family title “Chaudhuri Pattanayaka.”
 <!-- F7 F8 -->
 
+The family stayed linked with Puri later as well. Kaviraja mentions that the learned Ramadasa Vishvasa, after settling in
+Puri, taught the “Kavya-prakasha” to “the Pattanayaka family” — according to the “Anubhashya,” the descendants of
+Bhavananda (CC, Antya 13.111); whether Gopinatha himself was among the pupils is not said. <!-- F45 -->
+
 Gopinatha served Maharaja Prataparudra. He was, as the “Chaitanya-charitamrita” says, a *raja-vishayi*, a keeper of the
 king's property: he collected the revenue of the district of Malajathya-Dandapata and delivered it to the royal
 treasury (CC, Antya 9.17–18); Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” calls this office that of a
@@ -45,7 +49,8 @@ appearance, nor when or where he departed from this world, nor his wife or child
 calendar of the Sri Chaitanya Saraswat Math. <!-- F10 -->
 
 ## At the Lord's Feet
-Gopinatha first saw Mahaprabhu when the Lord returned to Puri from His pilgrimage through South India:
+In the “Chaitanya-charitamrita” Gopinatha first comes before Mahaprabhu when the Lord returned to Puri from His pilgrimage
+through South India:
 
 “Just then Bhavananda Raya arrived and, with his four sons, fell at Mahaprabhu's feet.” (CC, Madhya 10.49)
 
@@ -56,11 +61,11 @@ are no stranger. Birth after birth you and your family have been My servants” 
 Lord's feet on their heads, and the Lord sent them home, keeping only Vaninatha with Him (Madhya 10.60–61).
 <!-- F11 -->
 
-Kavi Karnapura also saw that meeting. In the drama “Chaitanya-chandrodaya,” Sarvabhauma, presenting the devotees of Puri
+Kavi Karnapura also describes that meeting. In the drama “Chaitanya-chandrodaya,” Sarvabhauma, presenting the devotees of Puri
 to the Lord, says: “These are the brothers of Ramananda Raya” (act 8); and in his poem on the Lord, Karnapura writes:
 “And his five sons too — Ramananda and the rest — remaining by the side of the great Merciful One and serving Him,
-became truly most dear to Him” (“Chaitanya-charita-mahakavya” 13.135). The word “birth after birth My servants”
-Gopinatha was soon to prove in his own life. <!-- F11 -->
+became truly most dear to Him” (“Chaitanya-charita-mahakavya” 13.135). The truth of the words “birth after birth My servants”
+Gopinatha later came to know in his own life. <!-- F11 -->
 
 ## The Horses and the Prince
 Once, when the accounts were settled, Gopinatha was found to owe arrears of two lakhs of kahanas of cowries. A kahana,
@@ -144,6 +149,9 @@ saviour.” (CC, Madhya 1.265)[^12]
 
 In the “Anubhashya” this verse is headed: “The deliverance of Gopinatha, who had fallen under the king's wrath.”
 <!-- F26 F27 F28 Q3 -->
+
+And at the end of the book, listing the contents of the chapters of the Antya-lila, Kaviraja names the ninth chapter by
+this affair: “In the ninth: the release of Gopinatha Pattanayaka…” (CC, Antya 20.116). <!-- F44 -->
 
 Meanwhile Mahaprabhu asked the messenger what Vaninatha had been doing as they led him away bound. The man told Him that
 Vaninatha was fearlessly chanting “Hare Krishna, Hare Krishna,” counting the names on the fingers of both hands and
