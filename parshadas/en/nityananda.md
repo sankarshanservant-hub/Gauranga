@@ -1589,6 +1589,16 @@ Swami is called “nityanandavesha” — empowered by Shripada Nityananda Prabh
 of “Sri Nityananda Prabhu” and closes with the line “Krishna Chaitanya, Prabhu Nityananda, Advaita, Gadadhara, Srivasa.”
 <!-- F440 F441 F442 -->
 
+Narahari Chakravarti begins his “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after
+another — with these words:
+
+“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at your feet!” (“Namamrita-samudra” 1)
+
+Nityananda's name runs through many other of his prayers as well; thus he asks Vasudha and Jahnava:
+
+“Vasudha and Jahnava Devi, be merciful to me: may the pastimes of your Nitai be revealed to me.” (“Namamrita-samudra” 7)
+<!-- F461 -->
+
 ## Significance
 Nityananda is a mercy to which anyone may turn. Madhava is pleased by bhakti alone, not by birth, learning or wealth:
 “what good conduct had the hunter, what age had Dhruva…” (“Padyavali,” 8). Krishna grants good even to those who remember

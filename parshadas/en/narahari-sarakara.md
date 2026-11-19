@@ -329,6 +329,13 @@ Prabodhananda Sarasvati is named by neither — his name appears in the “Gaura
 as the “Bhakti-ratnakara.” Such is the way of those who sing of the Lord's pastimes: they leave something for later
 “Vyasas.” The silence of one biography is no sign of ill will. <!-- F86 I4 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well — in the second prayer, beside Gadadhara, Srivasa and Svarupa:
+
+“Gadadhara, Srinivasa, Svarupa, Narahari! Be merciful and give me to drink the nectar of Gaura's prema.”
+(“Namamrita-samudra” 2)
+<!-- F87 -->
+
 ## Madhumati
 In Krishna's eternal pastimes Narahari is Madhumati, the dearest friend (prana-sakhi) of Sri Radha, the daughter of
 Vrishabhanu, in Vrindavana. Kavi Karnapura writes:

@@ -1113,6 +1113,16 @@ punishment from the Lord; and His riddle announced that the purpose was fulfille
 Whoever takes shelter of His feet will, in the words of the “Charitamrita,” easily find shelter at the feet of Sri
 Chaitanya. <!-- I14 I13 -->
 
+Narahari Chakravarti begins his “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after
+another — with these words:
+
+“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at your feet!” (“Namamrita-samudra” 1)
+
+A little further on he entreats Advaita's parents, Kuvera and Nabha Devi, as well:
+
+“Be gracious, Sri Kuvera and Nabha Devi, that I may serve the feet of your son Advaita.” (“Namamrita-samudra” 5)
+<!-- F161 -->
+
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
     elements; Vishnu, glancing at maya, is the efficient cause of the world, while in the form of Sri Advaita Narayana
     Himself becomes its material cause (CC, Adi 6.14–17). This does not mean that the Lord turns into matter or is

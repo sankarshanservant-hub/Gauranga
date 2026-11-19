@@ -450,6 +450,16 @@ Prabhupada's wish Bhakti Vilasa Tirtha Maharaja built a temple of Gadadhara besi
 Srivasa-angana, and Bhakti Pramoda Puri Maharaja in 1989 founded in Ishodyan the Sri Gopinath Gaudiya Math for the
 service of Sri Sri Gaura-Gadadhara. <!-- F121 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, names him in the
+very second prayer, and then entreats his parents as well:
+
+“Gadadhara, Srinivasa, Svarupa, Narahari! Be merciful and give me to drink the nectar of Gaura's prema.”
+(“Namamrita-samudra” 2)
+
+“Madhava and Ratnavati, take pity on this wretch: may my mind rest at the feet of your son Gadadhara.”
+(“Namamrita-samudra” 9)
+<!-- F123 -->
+
 ## Radha in Gaura-lila
 Who Gadadhara was in Krishna-lila is told by the “Gaura-ganoddesha-dipika” of Kavi Karnapura:
 
