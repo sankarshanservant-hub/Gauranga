@@ -3,6 +3,7 @@ import importlib.util, os, re, sys, glob
 HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('rm', os.path.join(HERE, '..', 'rasika-mangala', 'build.py'))
 rm = importlib.util.module_from_spec(spec); spec.loader.exec_module(rm)
+rm.ED = {'ru': ('изд. 1947 г.',), 'en': '1947 edition'}   # изд. Харидаса Даса
 def parse(md):
     # строфы «**К.N.**» — тоже стихи (с переносами строк), а не абзацы прозы
     return [('verse', d) if k == 'p' and re.match(r'^\*\*\d+\.\d+[a-zа-я]?\.\*\*', d[0]) else (k, d) for k, d in rm.parse(md)]

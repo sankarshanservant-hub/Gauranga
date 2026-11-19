@@ -18,6 +18,7 @@ META = {
     'ru': dict(out='Rasika-Mangala-ru', title='Шри Расика-мангала', author='Гопиджана-валлабха Дас (рус. пер.)'),
     'en': dict(out='Rasika-Mangala-en', title='Sri Rasika-mangala', author='Gopijana-vallabha Dasa (Eng. tr.)'),
 }
+ED = {'ru': ('изд. 1941 г.',), 'en': '1941 edition'}   # издание-основа; другие книги переопределяют
 WORK = re.compile(r'pdf|RM-\d|OCR|файл|\bfiles?\b|колонтитул|running head|раскладк|layout|страниц|\bpages?\b|\bпеч\. с\.|printed p|под чертой|below the (?:line|rule)|после колофона|after the colophon|начинается (?:на|с новой)|begins (?:on|with a new)|кончается полным|ends with a complete|^Лахари \d+ — \d|^Lahari \d+ (?:—|comprises) \d', re.I)
 
 
@@ -37,12 +38,14 @@ def clean_note(t, lang):
     sents = out
     t = ' '.join(sents).strip()
     if lang == 'ru':
-        t = re.sub(r'\b[Пп]о скану\b', lambda m: m.group(0)[0] + 'о изд. 1941 г.', t)
-        t = re.sub(r'\b[Нн]а скане\b', lambda m: ('В' if m.group(0)[0] == 'Н' else 'в') + ' изд. 1941 г.', t)
-        t = re.sub(r'\bСкан:', 'В изд. 1941 г.:', t).replace('чтение скана', 'чтение изд. 1941 г.')
+        e = ED['ru'][0]
+        t = re.sub(r'\b[Пп]о (?:скану|изображению)\b', lambda m: m.group(0)[0] + 'о ' + e, t)
+        t = re.sub(r'\b[Нн]а (?:скане|изображении)\b', lambda m: ('В' if m.group(0)[0] == 'Н' else 'в') + ' ' + e, t)
+        t = re.sub(r'\bСкан:', 'В ' + e + ':', t).replace('чтение скана', 'чтение ' + e)
     else:
-        t = re.sub(r'\b(?:in|from|on|per) the scan\b', 'in the 1941 edition', t)
-        t = re.sub(r'\b[Tt]he scan\b', lambda m: m.group(0)[0] + 'he 1941 edition', t)
+        e = ED['en']
+        t = re.sub(r'\b(?:in|from|on|per|against) the (?:scan|page image|image)\b', 'in the ' + e, t)
+        t = re.sub(r'\b[Tt]he scan\b', lambda m: m.group(0)[0] + 'he ' + e, t)
     t = re.sub(r'\s{2,}', ' ', t).strip(' ;,')
     return t if re.search(r'\w', t) else ''
 
