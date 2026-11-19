@@ -253,6 +253,12 @@ The Junior Haridasa was a pure and supremely saintly devotee of Mahaprabhu. He s
 sang for Him after leaving his body, when no one but the Lord could hear him; and his very story became the lesson Mahaprabhu taught
 all who seek pure devotion. <!-- F43 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, remembers him too —
+by the very thing for which he is known:
+
+“Haridasa, dear to Gaura, found worthy of His punishment! Punish me and destroy my offences.” (“Namamrita-samudra” 63)
+<!-- F48 -->
+
 [^1]: He should not be confused with his namesakes: Srila Haridasa Thakura, the Namacharya; the Senior Haridasa (Bada
     Haridasa), the Lord's other singer; Haridasa Pandita, the servant of Govindadeva in Vrindavana; Dvija Haridasa
     (Haridasa Acharya); the Haridasa of the second kirtana group at the Ratha-yatra (CC, Madhya 13.39; Srila

@@ -235,6 +235,12 @@ doctrine, did not name Prabodhananda because of the words “gaura-nagara-vara�
 this is why the biographers are silent about him. But none of Gaura's devotees accepted such fabrications.
 <!-- F31 F45 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Sri Prabodhananda! I pray to you: make me drunk, just once, with Gaura's qualities.” (“Namamrita-samudra” 60)
+<!-- F48 -->
+
 ## Prabodhananda and Prakashananda
 In those same years there lived in Kashi a sannyasi with a similar name — Prakashananda Sarasvati, a learned mayavadi,
 the head of a great many ekadandi sannyasis of Shankara's school. The “Chaitanya-charitamrita” (Adi 7, Madhya 25) tells

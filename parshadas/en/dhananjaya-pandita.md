@@ -102,6 +102,12 @@ yogurt:
 His name also appears in the list of Nityananda's servants in the “Chaitanya-bhagavata” (Antya 5) — the very verse
 quoted above — and in the Bengali “First Vandana,” which is ascribed to Vrindavana Dasa and repeats that list. <!-- F39 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Ratnabahu, Bhavananda, Dhananjaya! Mercy shown to the afflicted only increases one's glory.” (“Namamrita-samudra” 52)
+<!-- F41 -->
+
 There is also a tradition that in the neighbourhood of Shitalagrama he turned many robbers and godless men to
 devotion.[^12] <!-- F36 -->
 

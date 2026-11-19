@@ -533,6 +533,12 @@ Where Prataparudra left this world the sources do not say, and the primary sourc
 biographies places his departure in 1540, the year in which his reign ends. The days
 of his appearance and departure are not in the calendar of the Sri Chaitanya Saraswat Math either. <!-- F84 F21 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O King Prataparudra, this is my plea: destroy the villains — lust, anger and the rest.” (“Namamrita-samudra” 55)
+<!-- F90 -->
+
 ## Significance
 Prataparudra is the one who in a former birth worshipped Jagannatha as King Indradyumna and who became a vessel of
 Gauranga's boundless mercy. His story is a lesson about mercy. The Lord, a strict sannyasi, refused to see the king: a

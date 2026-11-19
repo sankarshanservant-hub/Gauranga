@@ -380,6 +380,12 @@ the Lord's associates to Virachandra, though chronologically this is doubtful. J
 sannyasa Nityananda left Navadvipa with Ramadasa, Parameshvara and Sundarananda, and that when news came of the Lord's
 disappearance, “Ramadasa and the companions were struck dumb.” <!-- F59 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“O Abhirama! This I say to you: protect me from the godless asuras.” (“Namamrita-samudra” 64)
+<!-- F62 -->
+
 ## Departure
 Abhirama Thakura left this world on the krishna-saptami of the month of Chaitra — the seventh lunar day of the dark
 fortnight of Madhusudana-masa; so say Srila Bhaktisiddhanta and the biographies, and the same day is marked in the

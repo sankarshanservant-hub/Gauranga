@@ -187,6 +187,12 @@ stores, Bhavananda swept and sprinkled, and “Buddhimanta Khan puts sandal past
 when the Lord came to Kulia, countless people of Navadvipa ran to Him — Shachi, Vishnupriya, Sulochana, Murari Gupta,
 Gopinatha, Buddhimanta Khan, the raja-pandita Sanatana, Purandara Acharya and many others.[^8] <!-- F27 F28 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well:
+
+“Grant this, wise Buddhimanta Khan: may Sri Gaura-Govinda become the Lord of my life.” (“Namamrita-samudra” 57)
+<!-- F31 -->
+
 ## Significance
 When and where Buddhimanta Khan appeared and when he left this world, who his parents and family were — no source says;
 nor are his days in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. <!-- F29 -->
