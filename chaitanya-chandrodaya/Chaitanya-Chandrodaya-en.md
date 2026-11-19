@@ -4627,7 +4627,7 @@ So let me approach. *(Approaches.)*
 **Gopinatha Acharya** *(looking ahead, to himself)*. Ah, I have heard of a certain Damodara-svarupa, a disciple of Chaitanyananda — a very great renunciant, a devotee of the Lord, very learned — who, though his guru asked him many times, "Study Vedanta and teach it", never did so. On the contrary —
 
 > **11.** He accepted the fourth ashrama only from the longing to give up everything;
-> but out of thirst for the pollen of the lotus feet of Sri Krishna, ah, he held even that as nothing, though he wore it.[^08-19]
+> but out of passion for the pollen of the lotus feet of Sri Krishna, ah, he held even that as nothing, though he wore it.[^08-19]
 
 That is he. I shall report to the Lord. *(Approaches.)* Master! Here, here is that Damodara-svarupa of whom You have heard.
 
@@ -4832,7 +4832,7 @@ So, svamin, it is the time of the evening incense offering (*dhūpa*) of the god
 **Sarvabhauma** *(to himself)*. The excess of his love has passed all measure. What is to be done?
 
 > **30.** To go and tell Him again? Ah, no, that will not do: His resolve is dense — firm, heavy, long-drawn.
-> And this one's great thirst is almost invincible — broad, keen, mature: neither of them is able to conquer the other.[^08-38]
+> And this one's great passion is almost invincible — broad, keen, mature: neither of them is able to conquer the other.[^08-38]
 
 So now a stratagem is needed. *(Aloud.)* Great King! Be comforted, be comforted: there is a certain means by which the tree of your desire may bear fruit.
 

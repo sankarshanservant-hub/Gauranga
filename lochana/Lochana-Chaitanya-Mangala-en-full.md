@@ -31104,7 +31104,7 @@ long to turn their arms into wings.
 
 *Word for word:* rangera mandirakhani — the temple of delight; nana-ratna diya go — of many jewels; gadhaila bada anubandhe — was carved with great care; lila-vinoda-kala — the art of playful lilas; bhavera vilasa go — the play of bhavas; madana-bedana bhavi kande — thinking of Madana's pain, she weeps
 
-**16.** [His body,] a temple of delight, was as if fashioned
+**16.** [His body,] a temple of delight, was carved
 with great care from many jewels.
 The art of playful lilas, the play of bhavas...
 thinking of Madana's pain, [a woman] weeps.

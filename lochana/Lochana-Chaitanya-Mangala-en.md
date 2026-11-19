@@ -9366,7 +9366,7 @@ and drew with it the line of sandal on Gora's forehead?
 At the sight of this form all the women of noble families
 long to turn their arms into wings.
 
-**16.** [His body,] a temple of delight, was as if fashioned
+**16.** [His body,] a temple of delight, was carved
 with great care from many jewels.
 The art of playful lilas, the play of bhavas...
 thinking of Madana's pain, [a woman] weeps.

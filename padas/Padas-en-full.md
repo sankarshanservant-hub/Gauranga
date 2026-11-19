@@ -21941,7 +21941,7 @@ coveted by the fair women of the three worlds!
 *Word for word:* aruṇa pāṭera basana — garment of red silk; chale — in the guise of; taruṇī-hṛdaya-rāga — the red (passion) of young hearts; uchale — overflows
 
 **4.4.** In the guise of His red silk garment
-the red love (raga) of young hearts seems to overflow.
+the red passion of young hearts seems to overflow.
 
 বাহু উঠাইয়া মোড়য়ে তনু ।
 ছটায় বিজুরী ঝলকে জনু ॥
@@ -21978,7 +21978,7 @@ says Yadu: all pride is broken.[^14-10]
 
 [^14-8]: PK — vol. 4 (pt. 2), 4th shakha, 29th pallava, mark "॥২॥২৪৫৯॥," raga "tatha," IA 354459; in PK the pada stands among the gaura-chandrikas to the description of beauty (before it, Premadasa's PK 2458; after it, PK 2460 and the description of Radha's beauty, "atha śrīrādhāyāṃ yathā"). GPT1 — p. 120, section on Gaura's form, no. 27 ("yatharaga"), GPT2 — sec. 3.1, no. 27. The pada is not in BR, KGC or PS (catalogue: YD-008). The signature "yadu" (Yadu) may belong to Yadunatha Kavichandra, a contemporary of the Lord (M-1961 ascribes to him padas on Gaura's bhavas), or to the later poet Yadunandana Dasa (17th c.); PK 2459–2460 show no sign of an eyewitness; C.
 [^14-9]: "Playful fair ones" (raṅgiṇī), "young hearts" (4.4), "pride" (4.7) — the motif of the townswomen captivated by Gaura's beauty: the language of nagari-bhava (Gaura as nagara); we translate faithfully to the author. Vrindavana Dasa stresses that in this incarnation the Lord never looked at another man's wife; worship of Gaura in the spirit of "gaura-nagari" is not accepted by the Gaudiya tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta). In PK the pada is a gaura-chandrika: it sets the tone for the description of the beauty of Radha and Krishna, and the attraction here is an image of prema for Krishna, not of a worldly feeling. "Knot" (loṭana) — hair gathered in a knot; "cām̐cara keśa" — curly locks.
-[^14-10]: "Red silk… red love" — a play on words: "raga" means both "red colour" and "attraction, love." Keshara — the nagakeshara flower (or kadamba). "Pride is broken" (bhāṅgala māna) — "mana," the beloved's offended pride, melts before Gaura's beauty. PK manuscripts: "ka" — "chāla," "uchāla," "araṅga" for "chale," "uchale," "taraṅga"; "kha, gha, cha" — "madana" for "damana" (4.1: "subdues Madana").
+[^14-10]: "Red silk… red passion" — a play on words: "raga" means both "red colour" and "attraction, love." Keshara — the nagakeshara flower (or kadamba). "Pride is broken" (bhāṅgala māna) — "mana," the beloved's offended pride, melts before Gaura's beauty. PK manuscripts: "ka" — "chāla," "uchāla," "araṅga" for "chale," "uchale," "taraṅga"; "kha, gha, cha" — "madana" for "damana" (4.1: "subdues Madana").
 
 ## 5. Yadu — "bikaca kanayā-kamala-kām̐ti…" (PK 2460; GPT1 p. 120, no. 28)
 *Gauranga's form and bhava: the lustre of a full-blown golden lotus, a face like the full moon, teeth like pomegranate seeds,
@@ -38340,7 +38340,7 @@ His curved fine brows — Ananga's bow — put to shame serpents and rows of bee
 *Word for word:* tilakita bhāla — the forehead with tilaka; capala śruti-kuṇḍala — earrings swaying in the ears; nāsā — the nose; garuṛa-cañcu — like Garuda's beak; rucikārī — lovely; sugaṭhana gaṇḍa — finely sculpted cheeks; gīma garabita — a proud neck; guru bhujayuga — mighty arms; dvirada-śuṇḍa-madahārī — stealing the pride of an elephant's trunk
 
 **29.5.** Tilaka on His forehead, earrings swaying in His ears, His nose like Garuda's beak, lovely;
-cheeks and proud neck finely shaped, His mighty arms steal the pride of an elephant's trunk.
+cheeks and proud neck finely sculpted, His mighty arms steal the pride of an elephant's trunk.
 
 ত্রিভুবনবিজয় বক্ষ বর পরিসর কঠিন কপাট কি পটতর হোয় ।
 নাভি সরসি শৈবাল লোম লস ত্রিবলি ত্রিবেণী কো ধরু ধৃতি জোয় ॥
