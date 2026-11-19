@@ -2039,7 +2039,7 @@ the son of Rasamaya joyfully composed [this].
 
 [^104-17]: Prahlada heard Narada's instructions while in his mother's womb (Bhag. 7.7). "That came from the lips" — *mukha-cyute*; a variant noted in the edition reads *mukhāśrite*, "that dwelt on the lips."
 
-[^104-18]: Dayaladasi (*dayāla-dāsī*) — apparently a name (it could also be understood as "a kind maidservant"). In lahari 5 she is called "Dayaladasi Thakurani," a devotee of Chaitanya living in that region at her own temple; she whispered the holy name into the infant's ear, and later Rasikananda recalls that he heard the name from her in childhood.
+[^104-18]: Dayaladasi (*dayāla-dāsī*) — apparently a name (it could also be understood as "a kind maidservant"). In lahari 7 (couplet 22) she is called "Dayaladasi Thakurani," a devotee of Chaitanya living in that region at her own temple; she whispered the holy name into the infant's ear, and later Rasikananda recalls that he heard the name from her in childhood.
 
 [^104-19]: Murali and venu are flutes; the rabab is a stringed instrument; the shinga (*śiṅgā*) is a curved horn; the vishana (*viṣāṇa*) is a horn. "Beta" — *beta-viṣāṇa*, the reading in the 1941 edition is clear; possibly a reed (*vetra*) pipe or a horn with a cane; unclear.
 
