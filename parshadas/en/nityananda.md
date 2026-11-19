@@ -1666,7 +1666,7 @@ Ekachakra.
 Krishna had appeared in Navadvipa; according to another, He came to know it in His heart. He Himself, as He told the Lord
 at their meeting, had heard it from great Vaishnavas (see below).
 [^19]: So according to most biographies. One of them, in its account of Sadashiva Pandita, calls Sadashiva's house
-Nityananda's first dwelling in Navadvipa; the “Charitamrita” says this without the word “first”: “Sadashiva Pandita set all his hope on the Lord’s feet, and at first Nityananda lived in his house” (CC, Adi 10.34); and the “Chaitanya-bhagavata” calls Sadashiva the one “in whose house Nityananda formerly
+Nityananda's first dwelling in Navadvipa; so says the “Charitamrita” too (*prathamei*, “at the very first”): “Sadashiva Pandita set all his hope on the Lord’s feet, and at first Nityananda lived in his house” (CC, Adi 10.34); and the “Chaitanya-bhagavata” calls Sadashiva the one “in whose house Nityananda formerly
 lived” (CB, Antya 8.19).
 [^20]: One biography says “with a plough and a mace on his shoulders”; in the “Chaitanya-bhagavata” (Madhya 3.143) it is an enormous pole at his shoulder, and our edition explains that this is Baladeva's club or plough.
 [^21]: Baladeva's “wine” — varuni — is in His lila no worldly intoxicant; Srivasa's answer itself discloses the meaning:
