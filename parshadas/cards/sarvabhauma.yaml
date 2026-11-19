@@ -1,0 +1,159 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/sarvabhauma.md и lila-db.
+id: "@sarvabhauma"
+names:
+  ru: "Сарвабхаума Бхаттачарья"
+  en: "Sarvabhauma Bhattacharya"
+  variants: ["Васудева (собственное имя)", "Шрила Васудева Сарвабхаума (B)", "Васудева Бхаттачарья Сарвабхаума (B 233)", "Vasudeva Sarvabhauma Bhattacharya (T)", "Sarvabhauma Pandit (T 204, M 29)", "Сарвабхаума Махашой (ЧБ)", "Васудева Сарвабхаума (Мурари)", "Бхаттачарья (ЧЧ)"]
+  facts: [F1, F2]
+kind: associate
+circle: [puri]
+period: [P10, P11, P12, P13, P14, P15]
+period_note: "Лично — с прихода Господа в Пури (P10: обморок в храме, дом Сарвабхаумы, веданта, обращение; ЧЧ Мадхья 6) через проводы на юг (P11), посредничество за царя и пир с Амогхой (P12), удержание Господа от Вриндавана и утешение Гададхары (P13), поздние игры в Пури и уход в Каши (P14; ЧЧ Мадхья 1.141, ЧЧН 10) до встречи со Шринивасой после сокрытия Господа (P15; БР 3). До P10 — лишь в рассказах о прошлом (учёба, Митхила, Навадвипа; F14–F21)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#vidyanagara-bengal?"
+    conf: "день и год явления источники не называют; T 112 по ГВА — «первая половина XIV в. эры Шака» (без первоисточника); родина — Видьянагара близ Навадвипы, где жил отец (F3–F4); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-19) дня явления нет"
+    facts: [F3, F4, F6]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "день, год и место ухода неизвестны; после сокрытия Господа жив (БР 3 — встреча со Шринивасой, F114); ЧЧ Мадхья 1.141, ЧЧН 10 — уходил в Каши (F125); в календаре ШЧСМ (541/ru, проверено 2026-11-19) дня ухода нет (есть лишь парикрама Видьянагар Сарвабхаума Гаудия Матха в Гаура-чатурдаши, F122)"
+    facts: [F114, F122, F125]
+origin:
+  places: ["#vidyanagara-bengal", "#navadvipa", "#kulia"]
+  family: ["@maheshvara-visharada", "@vidya-vachaspati", "@gopinatha-acharya", "@chandaneshvara", "@shathira-mata", "@shathi", "@amogha"]
+  varna: "брахман-кулин из раррхи (T 112)"
+  facts: [F3, F4, F5, F6, F8, F9, F10, F11]
+relations:
+  - {type: father, who: "@maheshvara-visharada", facts: [F3, F5, F38], note: "Отец, из Видьянагара; дом у дамбы близ дома Девананды (ЧБ Мадхья 21.6–7); однокашник Ниламбары Чакраварти (ЧЧ Мадхья 6.53)."}
+  - {type: sibling, who: "@vidya-vachaspati", facts: [F8, F126], note: "Брат (ЧЧ Мадхья 15.133); Господь поручил Сарвабхауме служение Джаганнатхе, Вачаспати — Ганге (15.136); у Вачаспати Господь останавливался в Бенгалии (Мадхья 1.150; T 82). M 163 — учитель Рупы и Санатаны."}
+  - {type: in-law, who: "@gopinatha-acharya", facts: [F9, F30, F36, F43, F45, F46, F58, F86, F102, F120, F131], events: [ev-gopinatha-sarvabhauma-debate],
+     note: "Муж сестры (ЧЧ Ади 10.130; Мадхья 6.112): доказывал ему божественность Господа; через родство с ним Сарвабхаума обрёл милость (Мадхья 6.245–246; B 1021; B 718); сообщил Господу о посте супругов (Мадхья 15.272)."}
+  - {type: son, who: "@chandaneshvara", facts: [F10, F32], note: "B 1019 — «Чандрашекхара» (⚠2); по ЧЧ Мадхья 6.33 — Чанданешвара: проводил спутников Господа на даршан."}
+  - {type: spouse, who: "@shathira-mata", facts: [F11, F95, F99, F105], events: [ev-amogha-cholera], note: "«Мать Шатхи», преданная Господу; готовила пир (ЧЧ Мадхья 15.200); прокляла зятя за хулу (15.252; ⚠Б5)."}
+  - {type: daughter, who: "@shathi", facts: [F11, F99, F127], note: "Жена Амогхи; Сарвабхаума велел ей оставить падшего мужа (ЧЧ Мадхья 15.264)."}
+  - {type: in-law, who: "@amogha", facts: [F11, F98, F101, F103, F104, F105, F127], events: [ev-amogha-cholera], note: "Зять: хулил Господа на пиру, заболел холерой, исцелён и стал преданным (ЧЧ Мадхья 15.245–296)."}
+  - {type: guru, who: "@pakshadhara-mishra", facts: [F14, F15, F18], note: "Учитель ньяи в Митхиле (B 1018; «Анубхашья» через T 112) — по преданию; Д. Ч. Бхаттачарья считает это легендой (⚠3)."}
+  - {type: disciple, who: "@raghunatha-shiromani", facts: [F17], note: "«По мнению некоторых», логик Рагхунатха Широмани учился у Сарвабхаумы (T 112, по «Анубхашье»)."}
+  - {type: disciple, who: "@madhusudana-vachaspati", facts: [F115], note: "Предание: передал ему заключения веданты, слышанные от Господа, а тот — Дживе (B 519; «Джайва-дхарма», гл. 39 — B 535)."}
+  - {type: served-by, who: "@mahaprabhu", facts: [F21, F25, F28, F33, F34, F35, F37, F39, F40, F42, F47, F48, F49, F50, F52, F53, F54, F55, F56, F57, F59, F62, F63, F64, F65, F67, F68, F69, F73, F78, F79, F94, F96, F97, F105, F108, F109, F110, F111, F123, F124, F133, F134, I1, I2],
+     events: [ev-first-darshan-jagannatha, ev-sarvabhauma-meeting, ev-gopinatha-sarvabhauma-debate, ev-sarvabhauma-deliverance, ev-sarvabhauma-verse-lord-returns, ev-departure-for-south, ev-return-from-south, ev-govinda-ishvara-puri-servant, ev-brahmananda-bharati-deerskin, ev-amogha-cholera, ev-puri-festivals-year-cycle, ev-departure-for-gauda, ev-vallabha-bhatta-puri],
+     note: "Сначала хотел быть наставником юного санньяси (учил Его веданте семь дней); по милости Господа обратился, увидел Его облик (ЧЧ — четырёхрукий и Кришна; ЧБ — шестирукий, ⚠8), сложил сто шлок; затем — Его преданный и спутник; Господь называл его Своим вечным спутником (ЧБ Антья 3.142) и учителем бхакти (ЧЧ Антья 7.21–22)."}
+  - {type: other, who: "@nityananda", facts: [F30, F31, F88], note: "Поклонился Ему как главе отряда (ЧЧ Мадхья 6.31; B 1019); Нитьянанда ходатайствовал за царя (B 1027)."}
+  - {type: other, who: "@mukunda-datta", facts: [F30, F59], note: "Мукунда привёл к нему Гопинатху; переписал его шлоки на стену (ЧЧ Мадхья 6.251–252)."}
+  - {type: other, who: "@jagadananda-pandita", facts: [F59, F60, F77], note: "Через Джагадананду послал Господу две шлоки на пальмовом листе (ЧЧ Мадхья 6.248–253). = @jagadananda-pandita F16–F20."}
+  - {type: other, who: "@damodara-pandita", facts: [F59, F74, F88], note: "С Джагаданандой и Дамодарой ходил на даршан и послал прасад (ЧЧ Мадхья 6.248); Кала Кришнадас (B 999)."}
+  - {type: friend, who: "@ramananda-raya", facts: [F69, F70, F71, F72, F108, F128], events: [ev-ramananda-raya-godavari], note: "Просил Господа встретиться с ним на Годавари (ЧЧ Мадхья 7.61–67); дружба в Нилачале (B 233); вместе удерживали Господа от Вриндавана (Мадхья 16). = @ramananda-raya F11, F13–F15."}
+  - {type: patron, who: "@prataparudra", facts: [F20, F80, F81, F82, F83, F84, F85, F86, F87, F88, F89, F90, F91, F92, F93, F108, I6],
+     events: [ev-prataparudra-asks-sarvabhauma, ev-lord-refuses-to-see-king, ev-prataparudra-watches-devotees-roof, ev-prataparudra-mercy, ev-ratha-yatra-gundicha, ev-gopa-vesha-dadhi-utsava],
+     note: "Придворный пандит царя; посредник милости Господа к нему (подзаголовок B 1024): совет — раса-панча-адхьяя в саду в Балаганди (ЧЧ Мадхья 11.53–58; 14.5). = @prataparudra F29, F43–F52, F56, F59, F62, F67, F68, F80."}
+  - {type: other, who: "@govinda-servant", facts: [F78], events: [ev-govinda-ishvara-puri-servant], note: "Спросил о слуге-шудре и посоветовал исполнить приказ гуру (ЧЧ Мадхья 10.136–146). = @govinda-servant F9–F12."}
+  - {type: other, who: "@kashishvara", facts: [F78], note: "T 115, B 828: Господь принял Кашишвару и Говинду по совету Сарвабхаумы."}
+  - {type: other, who: "@brahmananda-bharati", facts: [F79], events: [ev-brahmananda-bharati-deerskin], note: "Судья в споре «движущийся и недвижный Брахман» (ЧЧ Мадхья 10.167–182; ⚠11)."}
+  - {type: other, who: "@kala-krishnadasa", facts: [F74], events: [ev-kala-krishnadasa-dismissed], note: "Господь рассказал Сарвабхауме о его падении (ЧЧ Мадхья 10.62–63)."}
+  - {type: other, who: "@pradyumna-mishra", facts: [F75], events: [ev-puri-devotees-introduced], note: "Представил его Господу как лучшего из вайшнавов (ЧЧ Мадхья 10.43)."}
+  - {type: other, who: "@bhavananda-raya", facts: [F75], events: [ev-puri-devotees-introduced], note: "Представил его как отца Рамананды (ЧЧ Мадхья 10.50). = @bhavananda-raya F20."}
+  - {type: other, who: "@kashi-mishra", facts: [F66, F76, F90], events: [ev-kashi-mishra-residence], note: "Отвёл Господа в дом Каши Мишры (ЧЧ Мадхья 10.29–36); вместе дивились милости к царю (13.62)."}
+  - {type: other, who: "@paramananda-puri", facts: [F94], note: "Пять дней угощения из месяца (ЧЧ Мадхья 15.193–198; T 116, T 130; B 793). = @paramananda-puri."}
+  - {type: other, who: "@svarupa-damodara", facts: [F71, F77, F94], note: "Сварупе — четыре дня угощения; оба пришли в Пури из Навадвипы (B 233)."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F106, F109, F132], events: [ev-departure-for-gauda], note: "Господь поручил ему Гададхару, упавшего без чувств, и тот утешил его (ЧЧ Мадхья 16.142–147)."}
+  - {type: other, who: "@rupa-gosvami", facts: [F110, F112], events: [ev-rupa-puri-dramas], note: "Присутствовал при разборе драм Рупы (ЧЧ Антья 1.103–115); ЧЧН 9 — стих о Рупе в его устах (B 291)."}
+  - {type: other, who: "@sanatana-gosvami", facts: [F110, F117, F132], note: "Антья 4.108–110 — Господь представил ему Санатану; B 1030 — при утешении Санатаны (⚠13); «Вайшнава-тошани» — Санатана славит его среди учителей (B 407, 490)."}
+  - {type: other, who: "@haridasa-thakura", facts: [F110], events: [ev-haridasa-departure], note: "При нём Господь прославлял Харидаса (ЧЧ Антья 11.50)."}
+  - {type: other, who: "@vallabha-bhatta", facts: [F111], events: [ev-vallabha-bhatta-puri], note: "Перед ним Господь прославил Сарвабхауму (ЧЧ Антья 7.21–22)."}
+  - {type: met, who: "@srinivasa-acharya", facts: [F114], events: [ev-srinivasa-gadadhara-puri], note: "После сокрытия Господа Шриниваса пришёл в его дом; туда пришёл Рамананда (БР 3.155–158; B 264; T 204; M 189)."}
+  - {type: other, who: "@devananda-pandita", facts: [F5], note: "Жил у дома его отца в Кулии (ЧБ Мадхья 21.6–7; T 62)."}
+  - {type: other, who: "@gangamata-gosvamini", facts: [F121], note: "Поселилась в его обветшалом доме в Пури, где остался его Дамодара-шалаграма; дом стал Гангамата-матхом (B 965–969; T 217–218; M 29)."}
+  - {type: deity-served, who: "@damodara-shalagrama-sarvabhauma", facts: [F121], note: "Шалаграма, которому служил Сарвабхаума; ныне в Гангамата-матхе (B 969; T 218)."}
+  - {type: other, who: "@shadbhuja-gaura-puri", facts: [F54, F61], note: "T 114: Божество Махапрабху в шестируком облике почитается в храме Джаганнатхи."}
+  - {type: other, who: "@advaita", facts: [F23], note: "T 18: сочинил санскритские стотры во славу Адвайты."}
+  - {type: other, who: "@narahari-sarakara", facts: [F118], note: "«Бхаджанамрита» 9–11: Гаура явился Нарахари во сне, держа за руку Сарвабхауму (B 185–186)."}
+  - {type: other, who: "@baladeva-vidyabhushana", facts: [F116], note: "M 3: Радха-Дамодара наставлял Баладеву в учении Господа Сарвабхауме."}
+  - {type: other, who: "@jiva-gosvami", facts: [F115], note: "Предание: сиддханта — через ученика Сарвабхаумы к Дживе (B 519, 535)."}
+  - {type: other, who: "@shankaracharya", facts: [F19, F48, F50], note: "Учил веданту по комментарию Шанкары; Господь: Шанкара действовал по велению Господа (ЧЧ Мадхья 6.180–182); ⚠6."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F2, F4, F14, F16, F17, F21, F69, F122], note: "«Анубхашья» к ЧЧ Ади 10.130 и Мадхья 7.63 (через T 112, T 123); открыл Сарвабхаума Гаудия Матх в Видьянагаре (T 261)."}
+identities:
+  - in: other-avatara
+    as: "Брихаспати, гуру полубогов, Владыка речи"
+    source: "ГГД 119"
+    level: A
+    facts: [F7]
+    variants: ["T 112: Брихаспати родился Сарвабхаумой, чтобы послужить игре освобождения майявади; ЧЧ Мадхья 6.191 — Господь: «ты сам Брихаспати»."]
+  - in: tattva
+    as: "вечный спутник Господа «из рождения в рождение»"
+    source: "ЧБ Антья 2.497; 3.142"
+    level: A
+    facts: [F133]
+    variants: []
+events:
+  - ev-first-darshan-jagannatha
+  - ev-sarvabhauma-meeting
+  - ev-gopinatha-sarvabhauma-debate
+  - ev-sarvabhauma-deliverance
+  - ev-sarvabhauma-verse-lord-returns
+  - ev-first-year-festivals-puri
+  - ev-departure-for-south
+  - ev-ramananda-raya-godavari
+  - ev-return-from-south
+  - ev-prataparudra-asks-sarvabhauma
+  - ev-kashi-mishra-residence
+  - ev-puri-devotees-introduced
+  - ev-kala-krishnadasa-dismissed
+  - ev-bhavananda-raya-pandu
+  - ev-govinda-ishvara-puri-servant
+  - ev-brahmananda-bharati-deerskin
+  - ev-lord-refuses-to-see-king
+  - ev-snana-yatra-anavasara-alalanatha
+  - ev-prataparudra-watches-devotees-roof
+  - ev-gauda-devotees-arrive-puri
+  - ev-gundicha-marjana
+  - ev-gundicha-garden-feast
+  - ev-ratha-yatra-gundicha
+  - ev-prataparudra-mercy
+  - ev-indradyumna-jala-keli
+  - ev-gopa-vesha-dadhi-utsava
+  - ev-amogha-cholera
+  - ev-farewell-gauda-devotees-instructions
+  - ev-puri-festivals-year-cycle
+  - ev-departure-for-gauda
+  - ev-return-to-puri-from-vrindavana
+  - ev-rupa-puri-dramas
+  - ev-sanatana-puri-sores
+  - ev-vallabha-bhatta-puri
+  - ev-ramachandra-puri-criticism
+  - ev-sarvabhauma-to-varanasi
+  - ev-chaitanya-dasa-feast
+  - ev-haridasa-departure
+  - ev-srinivasa-gadadhara-puri
+events_note: "ev-sarvabhauma-deliverance — ЧЧ Мадхья 6.118–281, ЧБ Антья 3, Мурари 3.12, Карнапура 12, ЧЧН 6, Лочан 45; облик: ЧЧ — четырёхрукий и Кришна, ЧБ/Лочан — шестирукий (⚠8). ev-sarvabhauma-verse-lord-returns — только Карнапура 12.35–58. ev-sarvabhauma-to-varanasi — ЧЧ Мадхья 1.141, ЧЧН 10, Карнапура 14.42–56 (против «кшетра-санньясы», ⚠4). ev-amogha-cholera — ЧЧ Мадхья 15.186–299. Прочие 72 события lila-db с @sarvabhauma — по `python3 lila-db/query.py who:@sarvabhauma`."
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "сто шлок во славу Господа (B: «Шри Чайтанья-шатакам», 101 стих, ⚠9); две из них — ЧЧ Мадхья 6.254–255 («ваирагья-видья…», «калан наштам…»)", facts: [F56, F59, F60]}
+  - {title: "стотры Адвайте: «Адвайта-двадаша-нама-стотра», «Адвайташтака», «Адвайташтоттара…» (T 18)", facts: [F23]}
+places: ["#vidyanagara-bengal", "#navadvipa", "#kulia", "#mithila", "#puri", "#atharanala", "#house-kashi-mishra", "#alalanatha", "#godavari", "#balagandi", "#gundicha", "#narendra-sarovara", "#siddha-bakula", "#kashi", "#gangamata-matha", "#sarvabhauma-gaudiya-matha"]
+places_facts: [F4, F5, F14, F16, F20, F21, F25, F69, F76, F85, F92, F110, F121, F122, F125, F130]
+character:
+  - {trait: "несравненная учёность и память (ньяя и веданта; выучил книги Митхилы наизусть)", facts: [F14, F15, F16, F19, F111]}
+  - {trait: "до обращения — гордость учёностью и покровительственное отношение к юному санньяси; после — смирение, покаяние и благодарность родственнику-вайшнаву", facts: [F40, F42, F46, F53, F58, F131], events: [ev-sarvabhauma-deliverance]}
+  - {trait: "заботливость и гостеприимство: бережёт бесчувственного Господа, кормит Его и спутников, месяц угощает санньяси", facts: [F28, F29, F37, F94, F95, F96, F97]}
+  - {trait: "полная преданность после обращения: не выносит даже слова «мукти», вера в махапрасад выше правил чистоты", facts: [F62, F63, F64, F65, F123]}
+  - {trait: "непереносимость хулы на Господа — даже от зятя (⚠Б5)", facts: [F98, F99, F101, F127], events: [ev-amogha-cholera]}
+  - {trait: "посредник милости: царь и знать Одиши пришли к Господу через него", facts: [F66, F80, F85, F91, F92, I6]}
+  - {trait: "любовь к Господу, удерживающая Его от ухода во Вриндаван; скорбь разлуки (обморок при проводах на юг)", facts: [F108, F129]}
+significance: {facts: [F7, F53, F65, F80, F111, F133, I1, I2, I3, I4, I5, I6]}
+sources:
+  T: "111–116 (гл.); 18, 35, 47, 50, 62, 70, 82, 104–105, 107–108, 117–120, 123–125, 127, 130, 133, 139, 141–142, 144, 149, 159, 168, 178, 204, 217–218, 261, 269"
+  M: "глав нет; 3, 18, 29, 90, 163, 189"
+  B: "1018–1030 (гл.); 57, 103, 185–186, 206, 233–244, 263–264, 291, 313, 407, 490, 519, 535, 663, 718, 754, 764, 793, 801, 804, 821, 828, 836, 897, 965–969, 997–1000, 1003, 1013–1016"
+  other: ["ГГД 119", "ЧЧ Ади 10.130", "ЧЧ Мадхья 1.99–101, 1.141, 1.150; 6; 7.3–74; 8.30–46, 8.124–125; 9.343–357; 10.3–184; 11; 12.5–37, 12.177–181; 13.58–62, 13.186–188; 14.5, 14.82; 15.17–21, 15.133–136, 15.186–299; 16.4–10, 16.86–95, 16.140–148; 24.4–7; 25.227–230", "ЧЧ Антья 1.103–115; 4.108–110; 7.20–22; 8.88; 10.153; 11.50; 16.106", "ЧБ Мадхья 16.4–15, 21.5–8; Антья 2.426–501; 3.1–155; 5.202", "Мурари 3.11–3.14", "Карнапура, махакавья 12; 14.42–56", "ЧЧН 6, 9, 10", "Лочан 45", "БР 3.155–158", "«Вайшнава-тошани», вступление 5", "«Бхаджанамрита» 9–11"]
+article: {ru: "parshadas/ru/sarvabhauma.md", en: "parshadas/en/sarvabhauma.md"}
+open_questions:
+  - "Сын: Чандрашекхара (B) или Чанданешвара (ЧЧ Мадхья 6.33, T) (⚠2)."
+  - "Какой облик явил Господь: четырёхрукий и Кришна (ЧЧ, Карнапура) или шестирукий (ЧБ, Лочан, B) (⚠8); сто или сто один стих (⚠9)."
+  - "Учёба в Митхиле — предание или факт (⚠3)."
+  - "Кшетра-санньяса («Анубхашья») и уход в Каши (ЧЧ Мадхья 1.141, ЧЧН 10) (⚠4)."
+  - "Дни, годы и место явления и ухода неизвестны; в календаре ШЧСМ их нет."
