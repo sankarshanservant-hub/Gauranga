@@ -20123,7 +20123,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-582]: That is, Lakshmipati does not want to separate Krishna from Balarama and serve Krishna alone as distinct from Baladeva.
 [^05-583]: The initiation of Nityananda by Lakshmipati is told in the *Bhakti-ratnakara*; the CC and CB do not mention it.
 [^05-584]: The source of the verse is not named.
-[^05-585]: Pandura (Pandurapura) is Pandharpur, where Lakshmipati gave Nityananda initiation (above). A reads «পাণ্ডুরগ্রামীর ভক্তি কহনে না যায়» (pāṇḍura-grāmīr, "of the people of Pandura").
+[^05-585]: Pandura (Pandurapura) is Pandharpur, where Lakshmipati gave Nityananda initiation (above). A reads «পাণ্ডুরগ্রামীর ভক্তি কহনে না যায়» (pāṇḍura-grāmīr, "of the people of Pandura"); garbled in the 1960 edition.
 [^05-586]: Pratichi-tirtha — lit. "the western tirtha"; the place has not been identified. On Nityananda's travels and His meeting with Madhavendra Puri see CB Adi 9.
 [^05-587]: Couplets 2333 and 2334 are from CB Adi 9 (chapter not verified).
 [^05-588]: Setubandha is the site of Rama's "bridge" in South India; Rameshvara is the Shiva-linga installed there by Rama.
@@ -20376,7 +20376,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-835]: Shyama is the dark colour of Krishna, gaura the golden colour of Radha. The understanding of the second half of the stanza is conjectural: তাহার অবধি দেখায়া জগতে, হাসে জগজন নয়নলোভা (*tāhāra avadhi dekhāyā jagate, hāse jagajana nayana-lobhā*).
 [^05-836]: Dark Krishna in golden Radha's embrace resembles a thundercloud with lightning.
 [^05-837]: Dakshina ("courteous"), shatha ("deceitful", 3533) and dhrishta ("brazen", 3535) are types of the hero-lover (nayaka) in his relation to his beloveds in Rupa Gosvami's *Ujjvala-nilamani*, along with anukula ("devoted to one", 3525).
-[^05-838]: The verses of this portion are from the *Ujjvala-nilamani* (the chapters on heroes and heroines); "there" refers to that book, cited above, although songs are quoted immediately before 3521.
+[^05-838]: "there" refers to that book, cited above, although songs are quoted immediately before 3521.
 [^05-839]: CC Madhya 8; the quotation runs 3526–3532. A crore is ten million.
 [^05-840]: Svakiya is "one's own" (married to the hero), parakiya is "another's" (bound to the hero by secret love); the text has স্বীয়া (*svīyā*), the same as svakiya. The *Ujjvala-nilamani* counts three hundred and sixty varieties of heroine.
 [^05-841]: Mugdha ("young, inexperienced"), madhya ("middle") and pragalbha ("mature, bold", 3562) are the three varieties of heroine (nayika) by youth and experience.
@@ -25875,7 +25875,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^08-14]: Sitanatha ("the Lord of Sita") — Advaita Acharya.
 [^08-15]: Literally, "the Purandara of Shantipura": Purandara is an epithet of Indra, here "lord". "Unseen by the world" (prapancha agochara) — that is, in His unmanifest pastimes.
 [^08-16]: Achyutananda — the son of Advaita Acharya.
-[^08-17]: The Acharya — Advaita Acharya.
+[^08-17]: The Acharya — Advaita Acharya. Couplets 119–120 are lost in the 1960 edition at a page break; they are translated from the 1912/13 edition.
 [^08-18]: Nilachala-chandra ("the Moon of Nilachala") — Jagannatha in Puri.
 [^08-19]: Nitai and Chaitanya — the Deities of Nityananda and Gaura in Ambika (see BR 7).
 [^08-20]: Saptagrama — an ancient town on the Ganga near Triveni, north of Calcutta; a place of Nityananda's preaching, the birthplace of Uddharana Datta and Raghunatha Dasa Gosvami.
@@ -33172,7 +33172,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^11-34]: The *Gopala-virudavali* is a poem in praise of Krishna (Gopala) by Jiva Gosvami.
 [^11-35]: Understood thus: Krishnadasa Kaviraja and the others (285) showed their love to Bhagavan Kaviraja (a disciple of Srinivasa and companion of Govinda) and the rest of the party. The grammar also allows another sense: "Bhagavan Kaviraja and all the others showed their love…".
 [^11-36]: Sri Bhatta Gosvami is Gopala Bhatta Gosvami. The 1912/13 ed. has «শ্রীভট্টগোস্বামি» (*śrībhaṭṭagosvāmi*). In 297 the same edition has «আইলাম» (literally "[we] came"), the 1960 ed. «আইলেন» ("they came"); translated by the sense.
-[^11-37]: "Thoroughly dry" — the 1912/13 ed. has «অতিশুষ্ক শুষ্ক» (*ati-śuṣka śuṣka*, a doubling for emphasis). The original plays on words: *santoṣa santoṣe*, "Santosha with satisfaction."
+[^11-37]: "Thoroughly dry" — the 1912/13 ed. has «অতিশুষ্ক শুষ্ক» (*ati-śuṣka śuṣka*, a doubling for emphasis); *śuka śuka* in the 1960 ed. is the same word. The original plays on words: *santoṣa santoṣe*, "Santosha with satisfaction."
 [^11-38]: Bara Gangadasa is a disciple of Gauridasa Pandita (11.264), apparently the same as in BR 7.434. Here the 1912/13 ed. has «বড়» (*baṛa*, "elder"), in 11.260–261 «বড়ু» (*baṛu*); the 1960 ed. reads *baḍu gaṅgādāsa* (*baḍu*, "young brahmana"); the name is given as in 7.434.
 [^11-39]: So in the 1912/13 ed. (*nirakhiyā*, "looking"); the 1960 ed. has *jijñāsiyā*, "asking." Who tells of Vraja (338–339) is not stated; by the sense it is Ishvari, who has just returned from Vraja.
 [^11-40]: A danda is about 24 minutes; six dandas are about two and a half hours.
@@ -47009,7 +47009,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-224]: So in the 1912/13 ed.: "হাতে দীপ সপ্ত-প্রদক্ষিণ করে, বরে উরুথিয়া যাইতে ঘরে." Uruthi is the rite of receiving the bridegroom (see 1325 and the note of the 1912/13 ed. there); circling the groom seven times with a lamp is part of that rite (cf. 1326).
 [^12-225]: "The wedding platform" renders ছোড়লা: apparently the place of the wedding rite where the bride and groom stand. The meaning is conjectural.
 [^12-226]: The 1912/13 ed. reads "বাজত থর, নাহি অতুল, ঝলকে কমুক কাঁতি" (bājata thara, nāhi atula); "bracelets" follows G "কঙ্গক" (kaṅkaṇa?); কমুক (kamuka) in A is possibly kanaka, "golden luster." The sense of the line is not quite clear.
-[^12-227]: "To Krishna" — কৃষ্ণে (kṛṣṇe): so in the 1912/13 ed.. Narahari calls Gaura Krishna.
+[^12-227]: "To Krishna" — কৃষ্ণে (kṛṣṇe): so in the 1912/13 ed.; in the 1960 ed. the word is garbled. Narahari calls Gaura Krishna.
 [^12-228]: "Narahari's Lord" (*narahari-nātha*): the Lord of the poet Narahari, i.e. Gaura; the poet's usual signature in a pada (likewise in 1570, 1574).
 [^12-229]: "Bridal chamber": *bāsara-ghara*, the room in the bride's house where the newlyweds spend the first night surrounded by the women of the family, who joke with the groom.
 [^12-230]: The 1912/13 ed. reads "কাঁপে সেনা রসের আবেশে"; সেনা is understood as সে না ("she"; cf. 1291, 1478).
@@ -47064,7 +47064,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-277]: ভাগ ভূয়শ রস (bhaga bhuyasha rasa) — so in the 1912/13 ed.; the sense is unclear; translated tentatively (ভাগ = "fortune," ভূয়শঃ = "abundantly").
 [^12-278]: সুবলনি is tentatively translated as "slender." The 1960 ed. reads "clad in garments of Chinese silk (চীন বসন) of dense radiance"; the word চীন is absent in the 1912/13 ed..
 [^12-279]: "The former rasa" (পুরুব-রস, *puruva-rasa*) — probably the mood of Krishna's former pastimes in Vraja. "The Bodiless One" (অতনু, *atanu*) is Kamadeva.
-[^12-280]: The raga is named আম্রপঞ্চক (*āmrapañcaka*): so in the 1912/13 ed.. Possibly the same as the raga Amra-panchama in the list of ragas in Taranga 5.
+[^12-280]: The raga is named আম্রপঞ্চক (*āmrapañcaka*): so in the 1912/13 ed.; garbled in the 1960 ed. Possibly the same as the raga Amra-panchama in the list of ragas in Taranga 5.
 [^12-281]: The 1912/13 ed. reads "সঙ্গীত রঙ্গিতরঙ্গিত-চরণা" (*saṅgīta raṅgita-raṅgita-caraṇā*); the 1960 ed. has "সঙ্গীত-রঙ্গিত রর্দিত চরণ." Tentatively rendered "feet frolicking (রঙ্গিত) in music."
 [^12-282]: Bandhuli (বাধুলি, probably বান্ধুলি, *bāndhuli*) is the bandhuka, a bright red flower. In the 1912/13 ed. the word ওট ("lips") carries the editor's gloss "ওষ্ঠ"; not translated. Balarama Dasa is a Vaishnava poet, an author of padas; this is his signature (*bhaṇitā*).
 [^12-283]: The "seven praharas" (সাত-প্রহরিয়া ভাব, *sāta-prahariyā bhāva*) — the Lord's great revelation in Srivasa's house, when for twenty-one hours (seven praharas of three hours each) He displayed His divine nature and sat on Vishnu's throne (CB Madhya-khanda 9).
@@ -47113,7 +47113,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-326]: Nimai's commentary (*tippani*) on grammar is also mentioned in CB, Adi-khanda.
 [^12-327]: Krishnananda and Kamalakanta — according to CB (Adi-khanda), together with Murari Gupta, fellow students of Nimai at the school of Gangadasa Pandita. "Trick questions" — *phāṅki*: ingenious catch questions on grammar.
 [^12-328]: For the words "শ্রীপুরীর প্রীতি" (*śrīpurīra prīti*, "Sri Puri's love") the 1912/13 edition gives a footnote variant, "মুরারির প্রীতি" (*murārira prīti*, "Murari's love").
-[^12-329]: According to GGD, Murari Gupta is Hanuman, whom tradition regards as a portion of Rudra (Shiva).
+[^12-329]: According to GGD, Murari Gupta is Hanuman.
 [^12-330]: The *Krishna-lilamrita* is a book by Ishvara Puri; on his stay in the house of Gopinatha Acharya, how he read it to Gadadhara and asked Nimai to point out its faults, see CB Adi-khanda.
 [^12-331]: The city of Madhu is Mathura. An allusion to how Krishna, entering Mathura, visited the weaver, the garland-maker Sudama and Kubja (*Bhag.* 10.41–42).
 [^12-332]: The sarvajna ("all-knowing one") is a soothsayer of Navadvipa; the story of how Nimai asked him about His previous births is in CB Adi-khanda.
@@ -47413,7 +47413,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-619]: "Taka-taka thai-ta…," "thonka na-na-na…" are dance-rhythm syllables and drum bols; in the edition of the 1912/13 edition: "উঘটি তক তক, থৈ তা থৈ থৈ থি নি নি না … থোঙ্ক না না না না, থোঙ্গ থুঙ্কট, ধো ধিলঙ্গ ধিকি ধি নি নি না." A tana is a melodic run, an ornament of the melody.
 [^12-620]: "All the people" follows B, সব লোক (*saba loka*); the 1960 edition has সপ্তলোক (*saptaloka*): "the path along which the seven worlds move is resplendent."
 [^12-621]: Varuni and Revati are the consorts of Balarama; Nityananda is Balarama (Haladhara) in Gaura's lila.
-[^12-622]: A quotation from Kavi Karnapura's *Gaura-ganoddesha-dipika*. "From portions" follows the 1960 edition, অংশসম্ভবে (*aṁśa-sambhave*); the edition of the 1912/13 edition has "শ্রীবারুণীরেবতী-বংশসম্ভবে" (*vaṁśa-sambhave*, "born in the line of Varuni and Revati"). Kakudmi (Raivata) is the king, Revati's father, who gave her in marriage to Balarama (*Bhag.* 9.3).
+[^12-622]: A quotation from Kavi Karnapura's *Gaura-ganoddesha-dipika*. অংশসম্ভবে (*aṁśa-sambhave*); the edition of the 1912/13 edition has "শ্রীবারুণীরেবতী-বংশসম্ভবে". (*vaṁśa-sambhave*, "born in the line of Varuni and Revati"). Kakudmi (Raivata) is the king, Revati's father, who gave her in marriage to Balarama (*Bhag.* 9.3).
 [^12-623]: Kalavani follows the 1960 edition, কলাবাণী (*kalābāṇī*); the edition of the 1912/13 edition has "কালাবাণী" (*kālābāṇī*). Ananga Manjari is, in the Vraja lila, the younger sister of Sri Radha. "By the earlier principle" (পূর্বন্যায়াৎ, *pūrva-nyāyāt*) apparently refers to what the GGD says above: several persons can be combined in one associate of the Lord.
 [^12-623a]: "The refuge of the life" — প্রাণগতি (*prāṇa-gati*), so in the 1912/13 edition ("ভক্তিদাতা শ্রীবসু জাহ্নবী প্রাণগতি"); the 1960 edition has প্রাণপতি ("lord of the life"), as in 3998.
 [^12-624]: Literally, "offer tilanjali to [their] families" — the funeral libation of water with sesame; "to give tilanjali" means to part with something forever. A poetic figure for Nityananda's irresistible beauty.
