@@ -55,3 +55,14 @@ PDF не качали (7–140 МБ; `_text.pdf` 6–10 МБ при необхо
   английских номеров) и «Srila Bhaktivinoda Thakura» (Bhaktabandhav, Нараяна Махарадж, по статьям ST) — не проверялись.
   Gopal Jiu «Sri Krishna Kathamrita Bindu» (на archive.org: `bindu342`, `bindu-595-…`) — тоже переводы отдельных статей,
   не сверялись.
+
+## Часть 2: Кишори Дас Бабаджи (результат — `sources/associates/KISHORI-DAS-BABAJI.md`)
+- archive.org: запросы «kishori das baba(ji)», «"vaishnav research institute"», «gurudham halisahar», «kishoridas»,
+  «chaitanya doba» → ~35 разных изданий (почти все дважды загружены «Vaishnav Granth», с префиксами вида `scGg_`/`dVov_`),
+  плюс HPD-загрузки (`nityananda_vamsha_vistara`, `shyamananda_prakash`, `jnanadasa_padavali`,
+  `chaitanya_chandramrita_bengali`, `narottama_vilasa`, `SriSitaThakuraniVishayakaGranthadvayabengali`) и
+  Muthulakshmi (`SAjJ_…`, `sage_…`, `IDDS_…`).
+- Скачаны (локально, `sources/associates/files/kishori-das/`, в git не входят) djvu.txt: Лекхака-паричай, Шастра-паричай,
+  Тиртха-парьятан, Джхаду Тхакур, Панихати, Сита Тхакурани (OCR пуст), хинди-Лахари, «Kishori Das Granthavali» (другое лицо).
+  OCR журнала `ShripadIshvaraPuriMagazine` — латинская каша, удалён.
+- Веб-поиск (англ., бенг.) о его биографии — пусто (выдача про Гауракишору Даса Бабаджи). «Абхирама-лиламрита» 1981 — не найдена.
