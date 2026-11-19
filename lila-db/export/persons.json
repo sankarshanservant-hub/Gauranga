@@ -4459,6 +4459,10 @@
     "type": "companion"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "served-by"
+   },
+   {
     "from": "@shachi",
     "type": "son"
    },
@@ -7089,6 +7093,36 @@
    {
     "from": "@gangamata-gosvamini",
     "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@damodara-shalagrama-sarvabhauma",
+  "ru": "Дамодара — шалаграма Сарвабхаумы",
+  "en": "Damodara, Sarvabhauma's shalagrama",
+  "note": "шалаграма, которому служил @sarvabhauma; ныне в Гангамата-матхе в Пури (B 965, 969; T 218; M 29)",
+  "section": "Господь и Его формы",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@shadbhuja-gaura-puri",
+  "ru": "Шестирукий Махапрабху — Божество в храме Джаганнатхи",
+  "en": "the six-armed Mahaprabhu, the Deity in the Jagannatha temple",
+  "note": "Пури; по T 114 — память об облике, явленном @sarvabhauma; ср. @gaura-shadbhuja-saptagrama",
+  "section": "Господь и Его формы",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    }
   ]
  },
@@ -11497,6 +11531,10 @@
     "type": "companion"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -12932,6 +12970,10 @@
     "type": "companion"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -14044,6 +14086,10 @@
    {
     "from": "@sadashiva-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    },
    {
     "from": "@shachi",
@@ -16143,6 +16189,10 @@
     "type": "friend"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -17400,6 +17450,10 @@
     "type": "other"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -17906,6 +17960,10 @@
    {
     "from": "@raghunandana",
     "type": "guru"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    },
    {
     "from": "@shivananda-sena",
@@ -18972,6 +19030,10 @@
    {
     "from": "@raghava-pandita",
     "type": "co-worker"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    },
    {
     "from": "@shachi",
@@ -20464,6 +20526,285 @@
    "ev-srinivasa-gadadhara-puri",
    "ev-narottama-dream-ratha-kirtan"
   ],
+  "summary": "в лиле аватары — Брихаспати, гуру полубогов, Владыка речи (ГГД 119) и др.; гуру — Пакшадхара Мишра; происхождение — Видьянагара (Бенгалия)",
+  "card": "parshadas/cards/sarvabhauma.yaml",
+  "article": {
+   "ru": "parshadas/ru/sarvabhauma.md",
+   "en": "parshadas/en/sarvabhauma.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#vidyanagara-bengal?",
+    "conf": "день и год явления источники не называют; T 112 по ГВА — «первая половина XIV в. эры Шака» (без первоисточника); родина — Видьянагара близ Навадвипы, где жил отец (F3–F4); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-19) дня явления нет",
+    "facts": [
+     "F3",
+     "F4",
+     "F6"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; после сокрытия Господа жив (БР 3 — встреча со Шринивасой, F114); ЧЧ Мадхья 1.141, ЧЧН 10 — уходил в Каши (F125); в календаре ШЧСМ (541/ru, проверено 2026-11-19) дня ухода нет (есть лишь парикрама Видьянагар Сарвабхаума Гаудия Матха в Гаура-чатурдаши, F122)",
+    "facts": [
+     "F114",
+     "F122",
+     "F125"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "сто шлок во славу Господа (B: «Шри Чайтанья-шатакам», 101 стих, ⚠9); две из них — ЧЧ Мадхья 6.254–255 («ваирагья-видья…», «калан наштам…»)",
+    "facts": [
+     "F56",
+     "F59",
+     "F60"
+    ]
+   },
+   {
+    "title": "стотры Адвайте: «Адвайта-двадаша-нама-стотра», «Адвайташтака», «Адвайташтоттара…» (T 18)",
+    "facts": [
+     "F23"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "Брихаспати, гуру полубогов, Владыка речи",
+    "source": "ГГД 119",
+    "level": "A",
+    "variants": [
+     "T 112: Брихаспати родился Сарвабхаумой, чтобы послужить игре освобождения майявади; ЧЧ Мадхья 6.191 — Господь: «ты сам Брихаспати»."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "вечный спутник Господа «из рождения в рождение»",
+    "source": "ЧБ Антья 2.497; 3.142",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@maheshvara-visharada",
+    "note": "Отец, из Видьянагара; дом у дамбы близ дома Девананды (ЧБ Мадхья 21.6–7); однокашник Ниламбары Чакраварти (ЧЧ Мадхья 6.53)."
+   },
+   {
+    "type": "sibling",
+    "who": "@vidya-vachaspati",
+    "note": "Брат (ЧЧ Мадхья 15.133); Господь поручил Сарвабхауме служение Джаганнатхе, Вачаспати — Ганге (15.136); у Вачаспати Господь останавливался в Бенгалии (Мадхья 1.150; T 82). M 163 — учитель Рупы и Санатаны."
+   },
+   {
+    "type": "in-law",
+    "who": "@gopinatha-acharya",
+    "note": "Муж сестры (ЧЧ Ади 10.130; Мадхья 6.112): доказывал ему божественность Господа; через родство с ним Сарвабхаума обрёл милость (Мадхья 6.245–246; B 1021; B 718); сообщил Господу о посте супругов (Мадхья 15.272)."
+   },
+   {
+    "type": "son",
+    "who": "@chandaneshvara",
+    "note": "B 1019 — «Чандрашекхара» (⚠2); по ЧЧ Мадхья 6.33 — Чанданешвара: проводил спутников Господа на даршан."
+   },
+   {
+    "type": "spouse",
+    "who": "@shathira-mata",
+    "note": "«Мать Шатхи», преданная Господу; готовила пир (ЧЧ Мадхья 15.200); прокляла зятя за хулу (15.252; ⚠Б5)."
+   },
+   {
+    "type": "daughter",
+    "who": "@shathi",
+    "note": "Жена Амогхи; Сарвабхаума велел ей оставить падшего мужа (ЧЧ Мадхья 15.264)."
+   },
+   {
+    "type": "in-law",
+    "who": "@amogha",
+    "note": "Зять: хулил Господа на пиру, заболел холерой, исцелён и стал преданным (ЧЧ Мадхья 15.245–296)."
+   },
+   {
+    "type": "guru",
+    "who": "@pakshadhara-mishra",
+    "note": "Учитель ньяи в Митхиле (B 1018; «Анубхашья» через T 112) — по преданию; Д. Ч. Бхаттачарья считает это легендой (⚠3)."
+   },
+   {
+    "type": "disciple",
+    "who": "@raghunatha-shiromani",
+    "note": "«По мнению некоторых», логик Рагхунатха Широмани учился у Сарвабхаумы (T 112, по «Анубхашье»)."
+   },
+   {
+    "type": "disciple",
+    "who": "@madhusudana-vachaspati",
+    "note": "Предание: передал ему заключения веданты, слышанные от Господа, а тот — Дживе (B 519; «Джайва-дхарма», гл. 39 — B 535)."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Сначала хотел быть наставником юного санньяси (учил Его веданте семь дней); по милости Господа обратился, увидел Его облик (ЧЧ — четырёхрукий и Кришна; ЧБ — шестирукий, ⚠8), сложил сто шлок; затем — Его преданный и спутник; Господь называл его Своим вечным спутником (ЧБ Антья 3.142) и учителем бхакти (ЧЧ Антья 7.21–22)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Поклонился Ему как главе отряда (ЧЧ Мадхья 6.31; B 1019); Нитьянанда ходатайствовал за царя (B 1027)."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta",
+    "note": "Мукунда привёл к нему Гопинатху; переписал его шлоки на стену (ЧЧ Мадхья 6.251–252)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Через Джагадананду послал Господу две шлоки на пальмовом листе (ЧЧ Мадхья 6.248–253). = @jagadananda-pandita F16–F20."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "С Джагаданандой и Дамодарой ходил на даршан и послал прасад (ЧЧ Мадхья 6.248); Кала Кришнадас (B 999)."
+   },
+   {
+    "type": "friend",
+    "who": "@ramananda-raya",
+    "note": "Просил Господа встретиться с ним на Годавари (ЧЧ Мадхья 7.61–67); дружба в Нилачале (B 233); вместе удерживали Господа от Вриндавана (Мадхья 16). = @ramananda-raya F11, F13–F15."
+   },
+   {
+    "type": "patron",
+    "who": "@prataparudra",
+    "note": "Придворный пандит царя; посредник милости Господа к нему (подзаголовок B 1024): совет — раса-панча-адхьяя в саду в Балаганди (ЧЧ Мадхья 11.53–58; 14.5). = @prataparudra F29, F43–F52, F56, F59, F62, F67, F68, F80."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Спросил о слуге-шудре и посоветовал исполнить приказ гуру (ЧЧ Мадхья 10.136–146). = @govinda-servant F9–F12."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "T 115, B 828: Господь принял Кашишвару и Говинду по совету Сарвабхаумы."
+   },
+   {
+    "type": "other",
+    "who": "@brahmananda-bharati",
+    "note": "Судья в споре «движущийся и недвижный Брахман» (ЧЧ Мадхья 10.167–182; ⚠11)."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Господь рассказал Сарвабхауме о его падении (ЧЧ Мадхья 10.62–63)."
+   },
+   {
+    "type": "other",
+    "who": "@pradyumna-mishra",
+    "note": "Представил его Господу как лучшего из вайшнавов (ЧЧ Мадхья 10.43)."
+   },
+   {
+    "type": "other",
+    "who": "@bhavananda-raya",
+    "note": "Представил его как отца Рамананды (ЧЧ Мадхья 10.50). = @bhavananda-raya F20."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "Отвёл Господа в дом Каши Мишры (ЧЧ Мадхья 10.29–36); вместе дивились милости к царю (13.62)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "Пять дней угощения из месяца (ЧЧ Мадхья 15.193–198; T 116, T 130; B 793). = @paramananda-puri."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Сварупе — четыре дня угощения; оба пришли в Пури из Навадвипы (B 233)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Господь поручил ему Гададхару, упавшего без чувств, и тот утешил его (ЧЧ Мадхья 16.142–147)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Присутствовал при разборе драм Рупы (ЧЧ Антья 1.103–115); ЧЧН 9 — стих о Рупе в его устах (B 291)."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Антья 4.108–110 — Господь представил ему Санатану; B 1030 — при утешении Санатаны (⚠13); «Вайшнава-тошани» — Санатана славит его среди учителей (B 407, 490)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "При нём Господь прославлял Харидаса (ЧЧ Антья 11.50)."
+   },
+   {
+    "type": "other",
+    "who": "@vallabha-bhatta",
+    "note": "Перед ним Господь прославил Сарвабхауму (ЧЧ Антья 7.21–22)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "После сокрытия Господа Шриниваса пришёл в его дом; туда пришёл Рамананда (БР 3.155–158; B 264; T 204; M 189)."
+   },
+   {
+    "type": "other",
+    "who": "@devananda-pandita",
+    "note": "Жил у дома его отца в Кулии (ЧБ Мадхья 21.6–7; T 62)."
+   },
+   {
+    "type": "other",
+    "who": "@gangamata-gosvamini",
+    "note": "Поселилась в его обветшалом доме в Пури, где остался его Дамодара-шалаграма; дом стал Гангамата-матхом (B 965–969; T 217–218; M 29)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@damodara-shalagrama-sarvabhauma",
+    "note": "Шалаграма, которому служил Сарвабхаума; ныне в Гангамата-матхе (B 969; T 218)."
+   },
+   {
+    "type": "other",
+    "who": "@shadbhuja-gaura-puri",
+    "note": "T 114: Божество Махапрабху в шестируком облике почитается в храме Джаганнатхи."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "T 18: сочинил санскритские стотры во славу Адвайты."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-sarakara",
+    "note": "«Бхаджанамрита» 9–11: Гаура явился Нарахари во сне, держа за руку Сарвабхауму (B 185–186)."
+   },
+   {
+    "type": "other",
+    "who": "@baladeva-vidyabhushana",
+    "note": "M 3: Радха-Дамодара наставлял Баладеву в учении Господа Сарвабхауме."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "Предание: сиддханта — через ученика Сарвабхаумы к Дживе (B 519, 535)."
+   },
+   {
+    "type": "other",
+    "who": "@shankaracharya",
+    "note": "Учил веданту по комментарию Шанкары; Господь: Шанкара действовал по велению Господа (ЧЧ Мадхья 6.180–182); ⚠6."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.130 и Мадхья 7.63 (через T 112, T 123); открыл Сарвабхаума Гаудия Матх в Видьянагаре (T 261)."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhagavan-acharya",
@@ -21185,6 +21526,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "friend"
    },
    {
     "from": "@shikhi-mahiti",
@@ -21922,6 +22267,10 @@
     "type": "companion"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shikhi-mahiti",
     "type": "co-worker"
    },
@@ -22344,6 +22693,10 @@
    {
     "from": "@ramananda-raya",
     "type": "ruler-of"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "patron"
    },
    {
     "from": "@shivananda-sena",
@@ -23369,6 +23722,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "other"
    },
@@ -24268,6 +24625,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    },
    {
     "from": "@shridhara-maharaja",
@@ -27362,6 +27723,10 @@
     "type": "companion"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -28459,6 +28824,10 @@
     "type": "other"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "guest"
    },
@@ -28903,6 +29272,10 @@
     "type": "other"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@vakreshvara",
     "type": "other"
    }
@@ -29338,6 +29711,10 @@
    },
    {
     "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
+    "from": "@sarvabhauma",
     "type": "other"
    },
    {
@@ -30221,6 +30598,10 @@
     "type": "other"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "in-law"
+   },
+   {
     "from": "@shikhi-mahiti",
     "type": "co-worker"
    },
@@ -30770,6 +31151,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "guru"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "sibling"
    }
   ]
  },
@@ -30898,6 +31283,10 @@
   "related_by": [
    {
     "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@sarvabhauma",
     "type": "other"
    },
    {
@@ -31391,6 +31780,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    },
    {
     "from": "@shridhara",
@@ -34186,6 +34579,10 @@
    {
     "from": "@ramananda-raya",
     "type": "other"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    }
   ]
  },
@@ -34676,6 +35073,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "son"
    }
   ]
  },
@@ -36376,6 +36777,10 @@
    },
    {
     "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@sarvabhauma",
     "type": "other"
    },
    {
@@ -38421,6 +38826,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "other"
    },
@@ -39924,6 +40333,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "met"
    },
    {
     "from": "@shachi",
@@ -46068,6 +46481,10 @@
     "type": "met"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "other"
    },
@@ -47287,6 +47704,10 @@
     "type": "other"
    },
    {
+    "from": "@sarvabhauma",
+    "type": "other"
+   },
+   {
     "from": "@shikhi-mahiti",
     "type": "other"
    },
@@ -48057,6 +48478,10 @@
    {
     "from": "@rasika-raya-gangamata",
     "type": "served-by"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    }
   ]
  },
@@ -50385,6 +50810,10 @@
    {
     "from": "@ramananda-raya",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    }
   ]
  },
@@ -50944,6 +51373,10 @@
    {
     "from": "@ramananda-raya",
     "type": "father"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    },
    {
     "from": "@shikhi-mahiti",
@@ -52452,6 +52885,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "guru"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "disciple"
    }
   ]
  },
@@ -58725,6 +59162,10 @@
    {
     "from": "@ramanujacharya",
     "type": "opposed"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "other"
    }
   ]
  },
@@ -58809,6 +59250,12 @@
   ],
   "events": [
    "ev-amogha-cholera"
+  ],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "in-law"
+   }
   ]
  },
  {
@@ -58826,6 +59273,12 @@
   "events": [
    "ev-departure-for-south",
    "ev-amogha-cholera"
+  ],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "spouse"
+   }
   ]
  },
  {
@@ -58839,6 +59292,12 @@
   ],
   "events": [
    "ev-amogha-cholera"
+  ],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "daughter"
+   }
   ]
  },
  {
@@ -60639,6 +61098,10 @@
    },
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sarvabhauma",
     "type": "other"
    },
    {
@@ -62987,6 +63450,10 @@
    {
     "from": "@devananda-pandita",
     "type": "neighbor"
+   },
+   {
+    "from": "@sarvabhauma",
+    "type": "father"
    }
   ]
  },
@@ -64109,6 +64576,36 @@
    {
     "from": "@baladeva-vidyabhushana",
     "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@pakshadhara-mishra",
+  "ru": "Пакшадхара Мишра",
+  "en": "Pakshadhara Mishra",
+  "note": "великий найяик Митхилы; по преданию — учитель @sarvabhauma (B 1018; T 112)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "guru"
+   }
+  ]
+ },
+ {
+  "id": "@raghunatha-shiromani",
+  "ru": "Рагхунатха Широмани",
+  "en": "Raghunatha Shiromani",
+  "note": "логик Навадвипы, автор «Дидхити»; по мнению некоторых — ученик @sarvabhauma (T 112)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@sarvabhauma",
+    "type": "disciple"
    }
   ]
  }
