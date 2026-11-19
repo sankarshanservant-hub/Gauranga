@@ -23669,6 +23669,185 @@
   "note": "Предания (БР): Радха приносит продукты для сладкого риса; коса — «змея» в «Чату-пушпанджали»."
  },
  {
+  "from": "@sadashiva-pandita",
+  "type": "guest",
+  "who": "@nityananda",
+  "facts": [
+   "F6",
+   "F20"
+  ],
+  "events": [
+   "ev-nityananda-first-meeting"
+  ],
+  "note": "Придя в Навадвипу, Нитьянанда поначалу жил в его доме (ЧЧ Ади 10.34; ЧБ Антья 8.19 — «прежде»); ≠ ЧБ Мадхья 3.124, Антья 8.22 — сначала пришёл к Нандане Ачарье (⚠1)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "other",
+  "who": "@nandana-acharya",
+  "facts": [
+   "F6"
+  ],
+  "note": "По ЧБ (Мадхья 3.124; Антья 8.22) Нитьянанда вначале пришёл в его дом; по ЧЧ Ади 10.34 — поначалу жил у Садашивы (⚠1)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "servant",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F2",
+   "F3",
+   "F7",
+   "F8",
+   "F9",
+   "F10",
+   "F13",
+   "F14",
+   "F15",
+   "F17",
+   "F18",
+   "F19",
+   "I1",
+   "I2"
+  ],
+  "events": [
+   "ev-return-navadvipa-welcome",
+   "ev-shuklambara-house-prema",
+   "ev-closed-door-kirtan-scoffers",
+   "ev-jala-keli-navadvipa",
+   "ev-chandrashekhara-drama",
+   "ev-gauda-devotees-set-out-puri"
+  ],
+  "note": "Ветвь древа Чайтаньи (ЧЧ Ади 10.34); в числе немногих позван в дом Шукламбары услышать о горе разлуки Господа (ЧБ Мадхья 1.40, 1.69–70); участник ночного киртана, водных игр; по велению Господа готовил облачения для действа (ЧБ Мадхья 18.7, 18.14)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "co-worker",
+  "who": "@buddhimanta-khan",
+  "facts": [
+   "F15",
+   "F16",
+   "F17",
+   "F18"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama"
+  ],
+  "note": "Вдвоём готовили облачения для действа в доме Чандрашекхары (ЧБ Мадхья 18.7, 18.14; БР 12.2903–2904)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "companion",
+  "who": "@shriman-pandita",
+  "facts": [
+   "F7",
+   "F8",
+   "F9",
+   "F10"
+  ],
+  "events": [
+   "ev-return-navadvipa-welcome",
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Господь велел Шриману прийти с Садашивой в дом Шукламбары (ЧБ Мадхья 1.40); Шриман передал слова Господа «ты, Садашива Пандит и Мурари» (1.69–70)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "companion",
+  "who": "@murari-gupta",
+  "facts": [
+   "F8",
+   "F9"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Вместе позваны и собрались в доме Шукламбары (ЧБ Мадхья 1.70, 1.81)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "companion",
+  "who": "@shuklambara",
+  "facts": [
+   "F9",
+   "F10",
+   "F13"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Собрание в его доме после Гаи (ЧБ Мадхья 1.78–81, 1.108)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "companion",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F9",
+   "F10"
+  ],
+  "events": [
+   "ev-shuklambara-house-prema"
+  ],
+  "note": "Вместе были в доме Шукламбары (ЧБ Мадхья 1.79–81, 1.108)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F13"
+  ],
+  "events": [
+   "ev-closed-door-kirtan-scoffers"
+  ],
+  "note": "Ночной киртан в доме Шриваса (ЧБ Мадхья 8.111–116)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "other",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F13",
+   "F15",
+   "F18"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama"
+  ],
+  "note": "Киртан и действо в его доме (ЧБ Мадхья 8.111; 18). = @chandrashekhara-acharya F17."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-gauda-devotees-set-out-puri"
+  ],
+  "note": "Шёл с преданными Гауды во главе с Адвайтой в Нилачалу (ЧБ Антья 8)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "other",
+  "who": "@sadashiva-kaviraja",
+  "facts": [],
+  "note": "Тёзка, не путать: вайдья, отец Нагары Пурушоттамы, спутник Нитьянанды (ЧЧ Ади 11.38; ЧБ Антья 5.741; ГГД 156)."
+ },
+ {
+  "from": "@sadashiva-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F4",
+   "F10"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.34: житель Навадвипы, спутник в киртане; отождествляет его с Садашивой ЧБ Мадхья 1 и 18 (⚠5)."
+ },
+ {
   "from": "@sanatana-gosvami",
   "type": "father",
   "who": "@kumara-deva",
