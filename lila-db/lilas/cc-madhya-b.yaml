@@ -87,13 +87,14 @@
   order: 3
   title: "Бхавананда Рай с сыновьями: «Ты — Панду, жена твоя — Кунти»; Ванинатха — слуга Господа"
   summary: "Пришёл Бхавананда Рай с четырьмя сыновьями. Господь прославил Рамананду и его отца, у которого такой сын, и сказал: «Ты — Панду, твоя жена — Кунти, а пять твоих сыновей — пятеро Пандавов». Бхавананда, называя себя падшим шудрой, отдал Господу себя, дом и сыновей; Господь принял его как Своего, обещал скорый приход Рамананды и оставил при Себе Ванинатху Паттанаяка."
-  persons: ["@mahaprabhu", "@bhavananda-raya", "@ramananda-raya", "@vaninatha-raya", "@sarvabhauma"]
+  persons: ["@mahaprabhu", "@bhavananda-raya", "@ramananda-raya", "@vaninatha-raya", "@sarvabhauma", "@gopinatha-pattanayaka"]
   places: ["#puri", "#house-kashi-mishra"]
   kind: lila
   authority: A
   themes: [mercy, revelation]
   cc: "Мадхья 10"
   event: ev-bhavananda-raya-pandu
+  notes: "Четыре сына, пришедшие с Бхаванандой (10.49), по «Анубхашье» к 10.49 — Ванинатха, Гопинатха (@gopinatha-pattanayaka), Каланидхи и Судханидхи; Рамананда (@ramananda-raya) упомянут, но был ещё в Видьянагаре (10.59). = parshadas/facts/gopinatha-pattanayaka.md F11."
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya10.md", from: "49", to: "61"}
 

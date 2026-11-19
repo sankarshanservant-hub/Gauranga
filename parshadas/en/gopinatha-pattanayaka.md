@@ -75,8 +75,8 @@ promised to clear the debt little by little by selling his property; and in part
 or twelve horses; take them at a fair valuation,” and he led them to the palace gate (CC, Antya 9.20–21).[^5]
 <!-- F12 F13 -->
 
-The king sent one of the princes, a judge of horses, to value them, together with ministers and companions. The prince
-set the price far below the true one, and Gopinatha flared up (CC, Antya 9.22–23). The prince had a habit of turning
+To value them the king dispatched a prince who knew horses well, together with ministers and companions. He named a
+price far below the true one, and Gopinatha flared up (CC, Antya 9.22–23). The prince had a habit of turning
 his neck again and again and glancing upward, and Gopinatha jibed: “My horse raises its neck, but it does not look
 upward. So it is not right to set its price low.” Srila Bhaktivinoda gives the sense of the jibe plainly: my horse is
 worth no less than you. He said it without fear, Kaviraja tells us, for the king had always favoured him (CC, Antya
@@ -85,7 +85,7 @@ worth no less than you. He said it without fear, Kaviraja tells us, for the king
 Stung, the prince went to his father and slandered Gopinatha: the man makes excuses and has no intention of paying; let
 me raise him onto the *changa*, and the debt will be recovered. The king replied: “Go and do whatever is best. Use any
 means by which I may get the money” (CC, Antya 9.27–29). The changa was a scaffold of execution: naked swords were set beneath it, and the
-condemned man was thrown down onto them. The prince had Gopinatha raised onto the scaffold and the swords set below (CC,
+condemned man was thrown down onto them. On the prince's order Gopinatha was lifted onto the scaffold and the swords were set below (CC,
 Antya 9.30). This was Prataparudra's eldest son, the heir to the throne, Purushottama Jana, who was called Bara-Jana (CC,
 Antya 9.13, 9.99, 9.104).[^6] The king himself, as it later turned out, knew nothing of the scaffold and the swords, and
 the prince, by the king's account, only meant to frighten Gopinatha; but in the eyes of all who saw it, the threat was
@@ -107,7 +107,7 @@ on harlots and dancers; a sensible servant first pays the king what is due and s
 Antya 9.31–35). Srila Bhaktisiddhanta Sarasvati explains that here the Lord displays detachment and shows what the
 dharma of a sannyasi is. <!-- F20 F21 -->
 
-Then another messenger came running: Vaninatha and the other brothers had been bound and taken away with their
+Then another messenger came running: Vaninatha and others had been seized, bound and led off with their
 families (CC, Antya 9.34).[^8] Svarupa Damodara and the other devotees fell at the Lord's feet: “The family of Ramananda
 Raya are all Your servants. Such indifference is not fitting for You” (CC, Antya 9.37). But the Lord answered angrily:
 am I to go to the king, spread out the end of My cloth and beg him for money? A sannyasi is fit to receive at most five
@@ -167,7 +167,7 @@ That same day Kashi Mishra, the royal priest and Prataparudra's guru, came to Ma
 anxiety with him. Bhavananda's family, He said, serve the king and spend the king's money, and when the king demands
 what is his, they come to Me; four times people have run to Me with news of the scaffold. “Today Jagannatha has
 protected him; but tomorrow who will protect him if he does not pay the king's money?” Worldly news robs Me of peace,
-and I shall go to Alalanatha to live there in solitude (CC, Antya 9.59–66). The Lord speaks thus as a
+and I shall go to Alalanatha to live there in solitude (CC, Antya 9.59–66). The Lord speaks these words as a
 sannyasi, who should not listen to worldly talk: they teach detachment, but do not condemn His servants. <!-- F30 -->
 
 Kashi Mishra fell at His feet and begged Him not to leave the Kshetra. One who serves You for worldly ends, he said, is
