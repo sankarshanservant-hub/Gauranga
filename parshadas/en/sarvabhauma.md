@@ -433,6 +433,78 @@ felt the presence of Krishna Himself, Sarvabhauma confirmed it: without prema th
 the Lord's mercy that Bharati had received His darshana. The Lord exclaimed: “Vishnu! Vishnu! What are you saying,
 Sarvabhauma? Such excessive praise is a mark of censure” (10.180–182).[^12] <!-- F79 -->
 
+## Mediator of Mercy to the King
+One of the biographies calls Sarvabhauma “the Lord's eternal companion, who brought Mahaprabhu's mercy to King
+Prataparudra.” The king was very dear to him — as to Ramananda and to Kashi Mishra — and through him Prataparudra came
+little by little to know Sri Chaitanya and became His great devotee. Vrindavana Dasa records the words the Lord spoke to
+Ramananda: “I have come here for the sake of three: you, Sarvabhauma and Ramananda Raya” (CB, Antya 5.202); and Murari
+Gupta says that King Gajapati, wishing to see the Lord, summoned Sarvabhauma together with Ramananda. <!-- F80 I6 -->
+
+While the Lord was still in the south, the king called Sarvabhauma to the palace and asked him to arrange a meeting.
+Sarvabhauma warned him that this would be very hard: a renounced sannyasi, “not even in a dream would He meet a king” (CC,
+Madhya 10.8) — but he promised to try. And asked why he had not kept the Lord back, he answered: “He is the Lord Himself,
+fully independent — Sri Krishna in person. He depends on no one” (10.15). And the king said:
+
+“Bhatta, you are the crest-jewel of the learned. Since you call Him Krishna, I accept it as the truth.” (CC, Madhya 10.17)
+<!-- F81 F82 -->
+
+When the Lord returned, Sarvabhauma, hesitantly, told Him of the king's longing. The Lord covered His ears with His hands,
+uttered the name of Narayana and said that for a renounced sannyasi to see a king is like swallowing poison; “if you speak
+of this once more, you will not see Me here any longer” (CC, Madhya 11.6–12). This severity concerned not the Vaishnava
+king but the duty of a sannyasi, which the Lord kept for the world's instruction. Returning from Cuttack, the king summoned
+Sarvabhauma again and, learning of the firm refusal, said that without the Lord's mercy he needed neither kingdom nor life.
+Sarvabhauma found himself between two fires — and found a way out:
+
+“He is subject to love, and your love is very deep; He will surely show His mercy to you. <…> On the day of the
+Ratha-yatra the Lord, with all His devotees, will dance before the chariot, overwhelmed with love. In that ecstasy of love
+He will enter the flower garden. At that time you must lay aside your royal dress and come alone.” (CC, Madhya 11.52,
+11.54–55)
+
+There, he said, the king should clasp the Lord's feet and recite the verses on the rasa dance — the five chapters of the
+“Bhagavatam” (10.29–33) — and the Lord, unaware of the outer world, hearing Krishna's name, would embrace the king as a
+Vaishnava (11.56–57). <!-- F83 F84 F85 -->
+
+He also told the king that the Snana-yatra was three days off; and when after it, in the days of anavasara, the Lord in
+separation from Jagannatha went away to Alalanatha, Sarvabhauma brought Him back to Puri and informed the king (CC, Madhya
+11.60–65). <!-- F130 -->
+
+When some two hundred devotees arrived from Gauda, the king went up to the palace roof with Sarvabhauma and Gopinatha and
+asked to have each one named. Sarvabhauma named Svarupa Damodara — “Mahaprabhu's second body” — and Govinda, and the
+others, whom he himself did not yet know, were named at his request by Gopinatha, who knew them all from Navadvipa:
+Advaita, Srivasa, Gangadasa, Acharya Nandana, the residents of Kulina-grama and of Khanda — Narahari, Mukunda Dasa,
+Raghunandana and others (CC, Madhya 11.70–93).[^13] The king asked why they were going to the Lord before going to the
+temple, and Sarvabhauma answered: “This is the natural way of love: their hearts long to meet Mahaprabhu. First they will
+all meet Him; then they will go with Him to see Jagannatha” (11.106–107). And when the king marvelled at their radiance,
+Sarvabhauma explained that this sankirtana of love is Chaitanya's own creation, and that only one who has received a
+particle of His mercy can accept Him as Krishna (11.97–103). <!-- F86 F87 Q13 -->
+
+From Cuttack the king wrote to Sarvabhauma, begging him to have all the Lord's close companions plead for him. Sarvabhauma
+showed the letter to the devotees, who marvelled at the king's devotion but doubted whether such a thing could be spoken of
+to the Lord. Then Sarvabhauma proposed: “Let us all go to Him, just this once. We will not ask Him to meet the king; we will
+only tell Him how the king is behaving” (CC, Madhya 12.15). Nityananda stepped forward; the Lord did not agree to a
+meeting, but Nityananda obtained His outer cloth from Govinda, and it was sent to the king through Sarvabhauma (12.37).
+<!-- F88 F89 -->
+
+At the Ratha-yatra the king, who was sweeping the road before the chariot, by the Lord's mercy understood the secret of His
+dancing in seven groups of devotees at once and gave Sarvabhauma a sign of it: “The king and Sarvabhauma silently exchanged
+knowing signs; no one else knew Chaitanya's secret” (CC, Madhya 13.58). Sarvabhauma and Kashi Mishra, the king's guru, were
+astonished at the grace shown to the king (13.62). And when the king caught the falling Lord and He, outwardly displeased,
+exclaimed that a worldly man had touched Him (13.182), the king trembled, but Sarvabhauma reassured him:
+
+“Do not worry. The Lord is very pleased with you. He is only making you an example in order to teach His own people.” (CC,
+Madhya 13.186–187)
+
+At heart the Lord was already won by the king's love; His displeasure was outward and served as a lesson, not worldly
+disdain. Sarvabhauma promised to choose his moment and present the king's request to the Lord. <!-- F90 F91 -->
+
+And the moment came in the garden at Balagandi. As Sarvabhauma had advised, the king laid aside his royal dress and,
+alone, in the simple guise of a Vaishnava, with the devotees' leave, clasped the feet of the resting Lord, massaged them
+and recited the verses on the rasa dance. When he reached the verse “*tava kathamritam*” (“Bhagavatam” 10.31.9), the Lord
+rose and embraced him (CC, Madhya 14.5–10) — just as Sarvabhauma had foretold. At the Nanda-utsava, when the Lord, dressed
+as a cowherd boy with a yoke of milk and yoghurt, danced with the devotees, the king too was there with Kashi Mishra and
+Sarvabhauma (15.17–20); one of the biographies says that the king and Sarvabhauma played His cowherd companions in this
+lila. <!-- F92 F93 Q11 -->
+
 [^1]: According to one of the biographies, Vidyanagara lies on the outskirts of Navadvipa, whose centre is held to be
     Mayapur, the Lord's birthplace, and is called a quarter of Navadvipa. Srila Bhaktisiddhanta in the “Anubhashya” on CC,
     Adi 10.130 (as another biography reports) writes that it is a village about two and a half miles from both Navadvipa
@@ -470,3 +542,5 @@ Sarvabhauma? Such excessive praise is a mark of censure” (10.180–182).[^12] 
 [^12]: One of the biographies puts the verse of the “Vishnu-sahasranama” into Sarvabhauma's mouth. According to the
     “Charitamrita” it is Bharati himself who cites it (Madhya 10.170), while Sarvabhauma only awards him the victory and
     speaks of his darshana of Krishna.
+[^13]: The biographies differ as to who named the Gaudiya devotees for the king: according to one it was Gopinatha,
+    according to another Sarvabhauma. There is no contradiction: according to the “Charitamrita” both of them did.
