@@ -189,7 +189,7 @@ B — вероятно, больше сотни).
 | @nrisimhananda (090) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shuklambara (091) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @prataparudra (092) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @sarvabhauma (093) | в работе | — | — |
+| @sarvabhauma (093) | ✓ | в работе | — |
 | @gopinatha-pattanayaka (094) | ✓ | ✓ (PDF) | — |
 | @sadashiva-pandita (095) | ✓ | ✓ (PDF) | — |
 
