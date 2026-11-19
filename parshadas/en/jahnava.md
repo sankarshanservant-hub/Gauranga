@@ -324,6 +324,12 @@ shalagrama. Some of the Deities were installed by Purushottama; the rest, it is 
 why the shripat is also called the “pat of Vasu and Jahnava.” Here the service passed from mahanta to mahanta: Gopala
 Dasa, Ramakrishna, Bihari Dasa, Rama Dasa, another Gopala Dasa and at that time the aged Sitanatha Dasa. <!-- F109 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to her as
+well, together with Vasudha:
+
+“Vasudha and Jahnava Devi, be merciful to me: may the pastimes of your Nitai be revealed to me.” (“Namamrita-samudra” 7)
+<!-- F116 -->
+
 ## Revati and Ananga-manjari
 Who is Jahnava in the eternal pastimes of Krishna? Kavi Karnapura answers in the “Gaura-ganoddesha-dipika”:
 

@@ -1209,6 +1209,13 @@ Lord's birthplace was rediscovered at the end of the nineteenth century, Jaganna
 Deities of Jagannatha and Shachi be worshipped there in one temple, and Mahaprabhu with Lakshmipriya and Vishnupriya in
 another. <!-- Q10 Q6 F66 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to her as
+well, together with Jagannatha Mishra and Nityananda's parents:
+
+“Shachi, Jagannatha, Padma, Hadai Pandita! Mercy to an ignorant child — that is what befits you.” (“Namamrita-samudra”
+4)
+<!-- F209 -->
+
 ## Queen of Vraja
 Who, then, was this brahmana woman of Navadvipa, a widow who lost eight daughters and her husband and let two sons go
 into sannyasa? The original sources answer with one voice: the Mother of the universe, Yashoda, service to Vishnu

@@ -893,6 +893,12 @@ Srivasa explained to him and Nityananda who Jagai and Madhai were; Vasudeva Datt
 the same boundless compassion as Haridasa; and Srila Bhakti Prajnan Yati Maharaja was inspired by his life from
 childhood, and above all by the words “Even if my body is cut to pieces…” (CB, Adi 16.94). <!-- F129 F136 -->
 
+Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to him as
+well — third, right after the Pancha-tattva:
+
+“Haridasa, ocean of mercy, dear to Gaura! Make the holy Name manifest in my sinful heart.” (“Namamrita-samudra” 3)
+<!-- F137 -->
+
 ## Significance
 Haridasa Thakura is Brahma and Prahlada, an eternal associate sent into the world before the Lord. Through him the Lord
 revealed the glory of the holy name, and his very life was a preaching of the name: in deed — three hundred thousand
