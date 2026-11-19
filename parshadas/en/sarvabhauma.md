@@ -21,7 +21,7 @@ with a bow to the Lord “who turned Sarvabhauma, his heart hardened by false ar
 (CC, Madhya 6.1). <!-- F22 -->
 
 ## Family and Birthplace
-His father was Maheshvara Visharada of Vidyanagara, a village near Navadvipa.[^1] Visharada's house stood by an
+He was the son of Maheshvara Visharada of Vidyanagara, a village near Navadvipa.[^1] Visharada's house stood by an
 embankment, and Devananda Pandita lived nearby; his school, then, was somewhere in Kuliya. Vrindavana Dasa
 tells how the Lord, walking through Navadvipa with His devotees, came to this place:
 
@@ -65,7 +65,7 @@ with Him in order, at the appointed hour, to be turned by Him and to show the wo
 ## The Scholar of Navadvipa
 In his student years nyaya was not taught in Bengal: the higher books were lacking. Tradition tells that, having finished
 his studies at home, Vasudeva went to Mithila, then the centre of nyaya, whose school was headed by the great logician
-Pakshadhara Mishra. The scholars of Mithila would not let students from elsewhere copy their books, lest they lose the
+Pakshadhara Mishra. The scholars of Mithila refused to let outside pupils copy their books, lest they lose the
 glory of being its only masters; and Vasudeva, gifted with a matchless memory, learned them all by heart. On his return he
 wrote them down at home, opened a school of nyaya and taught many; so the centre of the science moved from Mithila to
 Navadvipa, which to this day is famed as the foremost school of nyaya.[^3] “In the opinion of some,” as Srila
@@ -104,7 +104,7 @@ signs of divine love cannot belong to this world. I think this person is Sri Kri
 
 He had heard that the young scholar of Navadvipa had taken sannyasa, and now, struck by the Lord's beauty and by the signs
 of love on His body, he understood that this was no ordinary man. For a long time the Lord did not come to Himself, and the
-hour of Jagannatha's offering was drawing near; so Sarvabhauma, with the help of his disciples and the temple attendants,
+hour of Jagannatha's offering was drawing near; so Sarvabhauma, aided by his disciples and the temple attendants,
 had Him carried to his house. The task of carrying Him fell to those very attendants who carry Jagannatha to His chariot,
 and they bore Mahaprabhu on their shoulders, loudly chanting the names of Hari (CB, Antya 2.446–448). At home, seeing no
 breath, Sarvabhauma grew anxious; he held a wisp of cotton to the Lord's nostrils and was calmed only when he saw it stir
@@ -184,7 +184,7 @@ as the *yuga-avatara*. He cited the “Bhagavatam” (10.8.13; 11.5.31–32) and
 tranquil” (Dana-dharma 149; CC, Madhya 6.104).[^5] As the husband of Sarvabhauma's sister he could afford to speak to him
 freely: “he would instruct his brother-in-law with censure, praise and jest” (6.112). <!-- F44 F45 Q3 F9 -->
 
-When Gopinatha and Mukunda bitterly told the Lord how Sarvabhauma, denying His divinity and wishing to be His teacher, had
+When Gopinatha and Mukunda bitterly told the Lord how Sarvabhauma, denying His divinity and wanting to instruct Him, had
 found fault with Him, the Lord stopped them:
 
 “Do not speak like that. The Bhattacharya is kind to Me. He wants to protect My vows of sannyasa, and out of fatherly
@@ -216,7 +216,7 @@ Madhya 6.131, 6.138) <!-- F47 F48 -->
 
 The direct meaning of the Upanishads, the Lord said, is the very essence of Vedanta, while Sarvabhauma abandons the direct
 sense of the words (*abhidha*) for an indirect one (*lakshana*). The “attributelessness” of Brahman in the shruti denies only
-material qualities; Brahman is Bhagavan Himself, full of countless perfections, with an eternal spiritual form. Citing the
+material qualities; Brahman is Bhagavan Himself, full of countless perfections, with an eternal spiritual form. Drawing on the
 Upanishads and Puranas, the Lord explained the sutras, refuted Advaita and established the eternal distinction between
 Brahman and the jiva, the teaching of the Lord's energies and of the transformation of energy (*parinama-vada*).
 Sarvabhauma defended his position with “captious wrangling, quibbling, points of defeat and the like” (6.177),[^6] but the
@@ -246,7 +246,7 @@ Hearing these explanations, Sarvabhauma understood Who stood before him:
 is Krishna Himself, and I, not knowing it, have committed a great offence in my pride.’ Reproaching himself, he took
 shelter of the Lord, and the Lord then resolved to show him mercy.” (CC, Madhya 6.199–201)
 
-One of the biographies says that, “utterly defeated,” he reproached himself for having neglected the path of bhakti until
+One of the biographies says that, “utterly defeated,” he blamed himself for having slighted the path of bhakti until
 then. But it was not the debate that conquered Sarvabhauma. Gopinatha had said from the very beginning that God is known
 only by His mercy, and the “Charitamrita” stresses exactly this: the Lord “resolved to show him mercy,” “by the Lord's
 mercy all truths were revealed to him” (6.201, 6.205). The talks on Vedanta and on “atmarama” were only the occasion; what
@@ -260,7 +260,7 @@ form — dark, with the flute at His lips.” (CC, Madhya 6.202–203)
 Vrindavana Dasa describes this revelation differently: with a loud cry the Lord assumed a six-armed form, “wonderfully
 beautiful and shining like millions of suns,” and at the sight of it Sarvabhauma fell senseless (CB, Antya 3.100–108). Srila
 Bhaktisiddhanta also speaks of the six-armed form: “He saw the six-armed form of the Lord” (“Anubhashya” on CC, Adi 10.130).
-The biographies describe the six-armed form of Gaurachandra thus: two arms of Sri Krishna, two of Sri Ramachandra and two His
+The biographies describe the six-armed form of Gaurachandra thus: two of Sri Krishna's arms, two of Sri Ramachandra's and two of His
 own.[^9] This was a darshana the Lord granted by His own will and mercy, not a “vision” in the worldly sense of the word: He
 Himself told Sarvabhauma to keep what he had seen secret as long as He remained in this world — and at once told him to
 serve with devotion the feet of Nityananda, “My second body” (3.148–150). The Deity of Mahaprabhu in His six-armed form,
@@ -269,7 +269,7 @@ according to one of the biographies, is worshipped to this day in the Jagannatha
 Sarvabhauma fell flat in obeisance, and by the Lord's mercy the whole truth awoke in him: he sang the power of the holy
 name and the greatness of the gift of prema, and in a moment, within less than half an hour, composed a hundred verses in
 the Lord's praise — “verses such as even Brihaspati could not compose” (CC, Madhya 6.206).[^10] The Lord embraced him, and
-Sarvabhauma lost consciousness in bliss; the eight sattvika transformations appeared on his body — tears, stupor, thrill,
+Sarvabhauma lost consciousness in bliss; all eight sattvika transformations showed on his body — tears, stupor, thrill,
 sweat, trembling and the rest — and he danced, sang, wept and fell down, longing to touch the Lord's feet (6.207–208). In Vrindavana Dasa
 the Lord places His hand on his head and His foot on his chest, and Sarvabhauma, clasping His feet, cries out: “Today I
 have caught the thief who stole my heart” (CB, Antya 3.109–113). <!-- F55 F56 F57 -->
@@ -423,7 +423,7 @@ Here too the Lord told Sarvabhauma how His companion in the south, Kala Krishnad
 (10.62–63). Svarupa Damodara, on coming to Puri, met Sarvabhauma and the others (10.127); and Jagadananda, who had come with the
 Lord from Navadvipa, had known him since the very first days in Puri. <!-- F74 F77 -->
 
-On another day the Lord was speaking of Krishna with Sarvabhauma and other devotees when Govinda arrived, the servant of
+On another day the Lord was talking of Krishna with Sarvabhauma and others when Govinda arrived, the servant of
 Ishvara Puri, sent by his guru to serve the Lord. Sarvabhauma asked why Ishvara Puri had had a servant from a shudra
 family. The Lord replied that Ishvara Puri, like the Lord Himself, is independent, and his mercy is not bound by rules:
 Krishna ate in Vidura's house, and His mercy waits only for loving service. And then He asked in His turn:
@@ -447,7 +447,7 @@ Sarvabhauma? Such excessive praise is a mark of censure” (10.180–182).[^12] 
 ## Mediator of Mercy to the King
 One of the biographies calls Sarvabhauma “the Lord's eternal companion, who brought Mahaprabhu's mercy to King
 Prataparudra.” The king was very dear to him — as to Ramananda and to Kashi Mishra — and through him Prataparudra came
-little by little to know Sri Chaitanya and became His great devotee. Vrindavana Dasa records the words the Lord spoke to
+little by little to know Sri Chaitanya and grew into His great devotee. Vrindavana Dasa records the words the Lord spoke to
 Ramananda: “I have come here for the sake of three: you, Sarvabhauma and Ramananda Raya” (CB, Antya 5.202); and Murari
 Gupta says that King Gajapati, wishing to see the Lord, summoned Sarvabhauma together with Ramananda. <!-- F80 I6 -->
 
@@ -459,7 +459,7 @@ fully independent — Sri Krishna in person. He depends on no one” (10.15). An
 “Bhatta, you are the crest-jewel of the learned. Since you call Him Krishna, I accept it as the truth.” (CC, Madhya 10.17)
 <!-- F81 F82 -->
 
-When the Lord returned, Sarvabhauma, hesitantly, told Him of the king's longing. The Lord covered His ears with His hands,
+When the Lord returned, Sarvabhauma, hesitantly, told Him of the king's longing. The Lord stopped His ears with His hands,
 uttered the name of Narayana and said that for a renounced sannyasi to see a king is like swallowing poison; “if you speak
 of this once more, you will not see Me here any longer” (CC, Madhya 11.6–12). This severity concerned not the Vaishnava
 king but the duty of a sannyasi, which the Lord kept for the world's instruction. Returning from Cuttack, the king summoned
@@ -490,7 +490,7 @@ Sarvabhauma explained that this sankirtana of love is Chaitanya's own creation, 
 particle of His mercy can accept Him as Krishna (11.97–103). <!-- F86 F87 Q13 -->
 
 From Cuttack the king wrote to Sarvabhauma, begging him to have all the Lord's close companions plead for him. Sarvabhauma
-showed the letter to the devotees, who marvelled at the king's devotion but doubted whether such a thing could be spoken of
+let the devotees read the letter; they marvelled at the king's devotion but doubted whether such a thing could be spoken of
 to the Lord. Then Sarvabhauma proposed: “Let us all go to Him, just this once. We will not ask Him to meet the king; we will
 only tell Him how the king is behaving” (CC, Madhya 12.15). Nityananda stepped forward; the Lord did not agree to a
 meeting, but Nityananda obtained His outer cloth from Govinda, and it was sent to the king through Sarvabhauma (12.37).
@@ -556,10 +556,10 @@ happened, beat her head and breast in grief and cried again and again, “Let Sh
 laughed, calmed them both, ate the prasada and was very pleased. <!-- F98 F99 -->
 
 This is neither worldly cruelty nor an outburst of temper. For Sarvabhauma and his wife, blasphemy against the Lord who had
-come into their home was unbearable. One of the biographies explains: a devotee living in society as a householder does
+come into their home was unbearable. One of the biographies explains: a devotee who lives in society, a householder, does
 not belong to it; his concern is Bhagavan's pleasure, and one who reviles the Lord or His devotees is given up, be he guru,
 father or mother — so Bali gave up Shukra, Prahlada Hiranyakashipu, Bharata Kaikeyi (cf. “Bhagavatam” 5.5.18,
-10.74.40).[^15] To the mother of Shathi her son-in-law was dearer than to Sarvabhauma himself — and yet she wished him dead;
+10.74.40).[^15] Amogha meant more to the mother of Shathi than to Sarvabhauma himself — and yet she wished him dead;
 and Srivasa, for the same reason, seeing the Lord's displeasure, had his own mother-in-law dragged out of the house by her
 hair (CB, Madhya 16.4–17). The acts of such devotees cannot be measured by a worldly yardstick. <!-- F100 I3 -->
 
@@ -578,13 +578,13 @@ no place for envy:
 Krishna. Get up, Amogha, take the name of Krishna, and Bhagavan will soon show you His mercy.” (CC, Madhya 15.276–277)
 
 Amogha sprang up and in the frenzy of prema began to cry, “Krishna! Krishna!”; trembling, tears, thrill and sweat appeared
-on his body. He fell at the Lord's feet, begging forgiveness, and slapped his own cheeks until they swelled, until Gopinatha
+on his body. Falling at the Lord's feet, he begged forgiveness and struck his own cheeks till they were swollen, until Gopinatha
 held him back. The Lord consoled him:
 
 “Because you are related to Sarvabhauma, you are dear to Me. Even the servants, maids and dogs in Sarvabhauma's house are
 dear to Me — to say nothing of others.” (CC, Madhya 15.283–284) <!-- F103 F104 -->
 
-Then the Lord came to Sarvabhauma, embraced him and told him to bathe, go to Jagannatha and break his fast: “Amogha is a
+Then the Lord came to Sarvabhauma, embraced him, bade him bathe, go to Jagannatha and break his fast: “Amogha is a
 child; he is your son. A father does not hold his child's faults against him, for he is the child's protector. He has
 become a Vaishnava now, and his offence is gone; so show him your favour” (15.291–292). The Lord consoled the mother of Shathi
 too. And Amogha from then on became the Lord's exclusive devotee and constantly chanted the names of Krishna (15.296). So,
@@ -618,7 +618,7 @@ He was present, too, at the examination of Rupa Gosvami's dramas, when the Lord 
 and they relished the rasa, poetic beauty and diction of his verses (CC, Antya 1.103–115); and in the
 “Chaitanya-chandrodaya” (act 9) Karnapura puts a verse about Rupa into Sarvabhauma's mouth. Before him and Ramananda the
 Lord glorified the holy qualities of Haridasa (Antya 11.50), and one of the biographies says that Sarvabhauma was present
-also when the Lord consoled Sanatana, who wished to take his own life.[^16] He was among the devotees of Puri who met the
+also when the Lord consoled Sanatana, who meant to end his life.[^16] He was among the devotees of Puri who met the
 Lord on His return from Bengal (Madhya 16.254). <!-- F110 F112 F113 -->
 
 The highest praise Sarvabhauma heard from the Lord's own lips, before Vallabha Bhatta:
@@ -747,7 +747,7 @@ example for scholars to come: by becoming, like him, devotees of Mahaprabhu, the
     say it was his son, without giving a name.
 [^3]: So the biographies write, citing the “Anubhashya” as well. The historian Dineshchandra Bhattacharya considers the
     story of Mithila a legend: in his view Vasudeva studied the new nyaya (*navya-nyaya*) under his father Visharada and
-    never went to Mithila.
+    did not go to Mithila at all.
 [^4]: The sources do not agree about the vow never to leave Puri: the “Charitamrita” (Madhya 1.141) and Karnapura's drama
     and mahakavya say that Sarvabhauma later went to Kashi; see the section “The Journey to Kashi.”
 [^5]: In one of the biographies the reference to the second “Bhagavatam” verse is printed as “11.53.31–32” — a misprint for
@@ -756,7 +756,7 @@ example for scholars to come: by becoming, like him, devotees of Mahaprabhu, the
 [^6]: One of the biographies writes that, stung by the Lord's words, Sarvabhauma “even grew a little angry.” The
     “Charitamrita” says nothing of anger — only that he defended his doctrine with the arguments of logic.
 [^7]: One of the biographies adds that the Lord also showed that at heart Shankara was a true devotee, as his writings
-    reveal. This is not in the “Charitamrita”: there Shankara only carried out the Lord's order, and the Mayavadi
+    reveal. This is not in the “Charitamrita”: there Shankara was only fulfilling the Lord's order, and the Mayavadi
     commentary is ruinous to whoever hears it (Madhya 6.169). In Vrindavana Dasa it is Sarvabhauma himself, before his
     conversion, who quotes Shankara's verse on devotion (CB, Antya 3.47–54).
 [^8]: In Vrindavana Dasa Sarvabhauma gives thirteen explanations, and the Lord's are not counted (CB, Antya 3.94–98). Nine
