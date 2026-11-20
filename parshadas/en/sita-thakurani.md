@@ -73,7 +73,8 @@ Gokula Himself — only His colour was the opposite. Every limb was finely forme
 limb bore auspicious marks. Seeing the child's divine radiance, she was filled with delight, and her heart melted with a
 mother's love.” (CC, Adi 13.115–116)
 
-She saw in the Infant Kana Himself, Krishna of Gokula — only His colour was different, golden. <!-- F15 -->
+She was struck by the Infant's superhuman form: she recognized in Him Kana Himself, Krishna of Gokula, only of another,
+golden colour. <!-- F15 -->
 
 ## The Name “Nimai”
 Then Sita blessed the Infant, tied a protective amulet (*raksha-kavacha*) on Him and gave Him a name:
@@ -146,8 +147,7 @@ and at noon the kirtana began. <!-- F31 Q7 -->
 
 ## The Chastisement of Advaita
 Once Advaita, expounding the “Yoga-vasishtha” in Shantipura, began to extol the path of abstract knowledge, hostile to
-bhakti. It was a ruse: Advaita longed to be punished by the Lord — for punishment from the Lord is the guru's mercy, and
-abundant mercy. The Lord understood His design, came with Nityananda to Shantipura and showed His anger against the
+bhakti. It was a ruse: Advaita longed to be punished by the Lord, for punishment from the Lord is the guru's abundant mercy. The Lord understood His design, came with Nityananda to Shantipura and showed His anger against the
 detractor of bhakti (CB, Madhya 19.118–127). <!-- F26 -->
 
 Seeing the Lord in such a mood, Advaita's wife grew anxious and bowed to Him in her mind:
@@ -160,7 +160,7 @@ reserve proper to a married woman, and in her heart, casting off all self-import
 <!-- F26 -->
 
 “Which is higher — knowledge or bhakti?” the Lord asked. “Knowledge,” Advaita answered, “and the one who knows has no
-need to keep to the path of bhakti.” Then the Lord, “to teach the people,” dragged Advaita from His seat into the
+need to keep to the path of bhakti.” Then the Lord, to teach the people a lesson, dragged Advaita from His seat into the
 courtyard, threw Him to the ground and began to beat Him (CB, Madhya 19.131–134). And Sita interceded for her husband:
 
 “Advaita's chaste wife, the mother of the whole universe, understood what was happening, yet still she tried to stop the
@@ -218,7 +218,7 @@ Chaitanya. Following the longing of her heart, His chaste wife prepared various 
 that the Lord greatly likes shak, and so she brought and gave Advaita ten kinds of shak. Advaita Acharya cooked, and His
 chaste wife helped Him. So they floated in an ocean of bliss.” (CB, Antya 9.19–24)
 
-And Advaita, sharing His concern with her, says: “O mother of Krishnadasa, listen...” (Antya 9.25). <!-- F34 Q2 -->
+And Advaita, sharing His concern with her, says: “O mother of Krishnadasa, listen…” (Antya 9.25). <!-- F34 Q2 -->
 
 The Lord, ever absorbed in Krishna's name, accepted their invitations only for their joy. Sita, full of motherly love,
 treated Him as her own son, and the Lord regarded her with the same reverence and love as Shachi. Kavi Karnapura in his
@@ -237,8 +237,8 @@ When, at Shachi's word, Nityananda came with His wives to Shantipura, Sita, seei
 overjoyed and embraced them as tenderly as Shachi had embraced them. <!-- F37 -->
 
 ## Her Last Years
-The Lord withdrew from sight, and Advaita too left the world before Sita. Sita, in separation from the Lord, could barely
-remain in her body. Then young Srinivasa came to Shantipura: having received Vishnupriya's blessing and the mercy of the
+The Lord withdrew from sight, and after Him, still before Sita, so did Advaita. Sita, in separation from the Lord, could barely
+remain in her body. Then Srinivasa came to Shantipura: having received Vishnupriya's blessing and the mercy of the
 Navadvipa devotees, he was passing through Shantipura on his way to Khardaha. Narahari Chakravarti tells of this
 meeting:
 
@@ -269,7 +269,7 @@ Madhya-khanda), and in the account of the Lord's coming to Shantipura after the 
 in bliss.”[^12] <!-- F40 -->
 
 Later works have preserved traditions about her. The “Prema-vilasa” (24.322–368) tells that Nrisimha Bhaduri was a
-brahmana from Narayanapura near Saptagrama; the girls' mother left the world early, and of the two sisters Sita was the
+brahmana from Narayanapura near Saptagrama; the girls' mother had left the world, leaving them behind, and of the two sisters Sita was the
 elder and Shri the younger; Sita is Yogamaya, and Shri is her manifestation. In a dream Nrisimha saw that Advaita would
 be the husband of both; then came the meeting with Bada Shyamadasa in Kulia and the wedding in Phulia, the expenses of
 which were borne by Hiranya and Govardhana. On the day the bride first served food, the wind blew away her veil, and the
@@ -279,7 +279,7 @@ received the Krishna mantra from her: Nandini served her feet, while Jangali pra
 tradition of the “Jangali-tota” is connected with her name. In another chapter (4.273–315) Sita finds Srinivasa weeping
 and feeds him, together with Gopala, with the remnants of Advaita's meal, and, speaking of Kamadeva Nagara, says that she
 rejected both him and her maidservant Nandini. The “Advaita-prakasha,” ascribed to Ishana Nagara, tells that Nrisimha
-found Sita in a lotus, that she received the Krishna mantra in a dream from Madhavendra Puri, that she foresaw Krishna's
+found Sita in a lotus, that she received the Krishna mantra in a dream from Madhavendra Puri, that on the day of the swing festival she foresaw Krishna's
 appearance in the form of Radha and came to bless Gauranga; it gives the birth dates of her sons, says that she
 initiated Krishna Mishra and his wife, grieved for Gaura and went to Him in Nilachala, raised Ishana himself and, after
 Advaita's departure, told him to marry. These traditions are late, and we give them only as traditions.[^13]
