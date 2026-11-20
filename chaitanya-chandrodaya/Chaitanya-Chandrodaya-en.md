@@ -725,7 +725,7 @@ But in essence:
 
 [^01-20]: A double meaning. *Kṛṣṇa-pakṣa* is "the dark fortnight" and "the side of Krishna"; *doṣākara* is "the maker of night", i.e. the moon, and "a mine of vices", i.e. Kali; *viṣṇu-pada* is "the sky" and "the feet of Vishnu". The moon wanes in the dark fortnight and does no harm to the sky; so Kali grows weak when people are on Krishna's side and cannot harm those who have taken refuge at the feet of Vishnu. Kali, from behind the scenes, is offended at being called a *doṣā-kara* and at the same time compared with the moon (the "nectar-maker", *sudhākara*).
 
-[^01-21]: In the electronic text this speech is wrongly assigned to Kali; but the address "king of the age" (*yugarāja*) and the sense of verse 14 show that Adharma is speaking (in the Kāvyamālā edition the speaker's name has been lost in the OCR).
+[^01-21]: In the electronic text this speech is wrongly assigned to Kali; but the address "king of the age" (*yugarāja*) and the sense of verse 14 show that Adharma is speaking.
 
 [^01-22]: The construction is *yenaikena mayā sa yasya vaśagaḥ*: "he by whom alone — by me — [all this was done] is subject to him", i.e. Adharma, who crushed Dharma, is merely Kali's servant.
 
@@ -835,7 +835,7 @@ But in essence:
 
 [^01-75]: *Bhāgavata Purāṇa* 6.11.24, the prayer of Vritrasura.
 
-[^01-76]: The electronic text has a lacuna here (only "*śrīvāsaḥ:* +"); Shrivasa's speech with verse 66 and the following prose is supplied from the Kāvyamālā edition (v. 58). M. Guha's edition (v. 66) has here *nirbhartsitāḥ smaḥ*, "we were scolded" (corrupted in the Kāvyamālā OCR into *nirmitāḥ smaḥ*); Guha explains *dito* as "cut off" and *anayopacityā* as "by evil instruction/influence"; *deyatvena* in the Kāvyamālā OCR is an error for *devatvena* ("as God"). "Seeing in Him only her son" (*asmin putra-dhiyā*) refers to Shachi: so Guha's Bengali translation and Krishnadasa Baba's Hindi translation understand it.
+[^01-76]: The electronic text has a lacuna here (only "*śrīvāsaḥ:* +"); Shrivasa's speech with verse 66 and the following prose is supplied from the Kāvyamālā edition (v. 58). M. Guha's edition (v. 66) has here *nirbhartsitāḥ smaḥ*, "we were scolded"; Guha explains *dito* as "cut off" and *anayopacityā* as "by evil instruction/influence". "Seeing in Him only her son" (*asmin putra-dhiyā*) refers to Shachi: so Guha's Bengali translation and Krishnadasa Baba's Hindi translation understand it.
 
 [^01-77]: Kapila, the son of Devahuti, expounded to her Sankhya and bhakti-yoga (*Bhāgavata Purāṇa*, Canto 3).
 
@@ -2192,7 +2192,7 @@ So now the performance has stopped here. For this is the lila of the Lord Himsel
 [^03-52]: The implication: by offering the flowers to Krishna, the old woman has truly "worshipped the god".
 [^03-53]: Literally "the theft of the flowers, looking at your face, is *samarthitam*". Understood according to M. Guha's Bengali translation: "looking at the face" is an idiom for "out of regard, indulging you", and the theft is forgiven. The literal meaning of *samarthitam* is "considered, decided".
 [^03-54]: According to the Kāvyamālā: *yaśasyaṁ … mā 'stu śuṣko vivādaḥ*; the electronic text is corrupt here (*yaśasāṁ … śulko vivādam*).
-[^03-55]: *Preṅkhola*, "swinging": the "creeper-arms" swinging in walking are subject to toll. In the Kāvyamālā the line is indistinctly read by the OCR.
+[^03-55]: *Preṅkhola*, "swinging": the "creeper-arms" swinging in walking are subject to toll.
 [^03-56]: Mahakala is Shiva; *mahā-kāla* also means "very black".
 [^03-57]: *Candraka* is the "eye" of a peacock feather; Chandrashekhara means "crested with the moon" (Shiva) and "crested with the eyes of peacock feathers".
 [^03-58]: *Gaurī* is a name of Parvati and means "fair (of skin)": i.e. Krishna is the husband of the fair gopis. Hence the old woman's indignation.
@@ -2730,7 +2730,7 @@ For Keshava Bharati is the Shruti herself, since she is the speech (*bhāratī*)
 [^04-2]: Prakrit *assa aggaeṇāhaṁ paḍhāidā* (*chāyā* *asyāgrajenāhaṁ pāṭhitā*), "I have been taught by His elder brother": an allusion to Vishvarupa, Vishvambhara's elder brother, who left for sannyasa. *Tassa ṭhāṇe pucchissaṁ*, "I shall ask Him": so M. Guha's Bengali translation understands it ("I shall speak with Him about this"); and indeed Shachi at once asks her son about it.
 [^04-3]: The Kāvyamālā has *saṁvid eva bhavatī* ("you are consciousness itself") and *ajñāna-vikasitam* ("a manifestation of ignorance") instead of *ajñāna-vilasitam*.
 [^04-4]: In the Kāvyamālā there is a further exchange here. Shachi: "But that is You Yourself." The Lord: "So be it, but still I shall strive for that from which I too shall gain the greatest glory."
-[^04-5]: The reading *paripālakaḥ*, "protector, guardian", is adopted: so in M. Guha, in the edition of J. Vidyasagara (commentary: *rakṣakaḥ*, "defender") and in Krishnadasa Baba's Hindi translation. The electronic text has *paripākaḥ* ("ripened fruit"), the Kāvyamālā OCR the corrupt *pariṣāṅkas*.
+[^04-5]: The reading *paripālakaḥ*, "protector, guardian", is adopted: so in M. Guha, in the edition of J. Vidyasagara (commentary: *rakṣakaḥ*, "defender") and in Krishnadasa Baba's Hindi translation. The electronic text has *paripākaḥ* ("ripened fruit").
 [^04-6]: A play of assonances: *-ghaṭa-ghaṭana-vighaṭana-nāṭaka-paripāṭī-pāṭavasya … -ghaṭamāna-tamaḥ-kāṭavasya*. *Kāṭava*, "bitterness, impurity" (*kaṭutva*, *mālinya*): so in the commentaries of M. Guha and J. Vidyasagara — by the nectar of His fame the impurity of darkness in the hearts is washed away (*dhāvita*); so too Guha's Bengali translation ("the dark impurity of hearts is washed away").
 [^04-7]: *Graha*, "planet" and "seizer, one who takes possession": the husband accuses the West of being the haunt of all lovers. The western quarter is *vāruṇī dik* (the quarter of Varuna; *vāruṇī* is also "an intoxicating drink"). The red-hot iron (*paritaptam ayaḥ*) is the image of an ordeal (*divya*): it does not burn the innocent.
 [^04-8]: *Sāyāhna* ("evening", masculine) is represented as the lover of the Western Quarter (feminine). There is a play on words: the sun is called *dinamaṇi*, "the jewel of the day" (Kāvyamālā *dinapati*, "lord of the day"); the evening glow is the red garment slipped from her hips.
@@ -3216,7 +3216,7 @@ Come, let us sit in private with those whom we have not seen for so long.
 
 [^05-35]: Women in Sanskrit drama usually speak Prakrit; the stage direction stresses that Shachi, contrary to this, speaks Sanskrit.
 
-[^05-36]: *Phalituṁ* ("to bear fruit"): so in GGM and in Jivananda Vidyasagara, and M. Guha translates likewise ("to give fruit"); *phaṇituṁ* in the Kāvyamālā OCR is a misprint. The first half of the verse is understood as a rhetorical question: the creeper of motherly love can bear no fruit higher than this. So M. Guha's Bengali translation ("higher than you yourself") and Jivananda's commentary (higher than this meeting and embrace) understand it. Grammatically an affirmative understanding is also possible (*kim api*, "a certain"): "the creeper of motherly love is able to bear a certain highest, best fruit".
+[^05-36]: *Phalituṁ* ("to bear fruit"): so in GGM and in Jivananda Vidyasagara, and M. Guha translates likewise ("to give fruit"). The first half of the verse is understood as a rhetorical question: the creeper of motherly love can bear no fruit higher than this. So M. Guha's Bengali translation ("higher than you yourself") and Jivananda's commentary (higher than this meeting and embrace) understand it. Grammatically an affirmative understanding is also possible (*kim api*, "a certain"): "the creeper of motherly love is able to bear a certain highest, best fruit".
 
 [^05-37]: A play on words: *bhavati bhavatī*, "you, lady (*bhavatī*), are…"; *kṣamā* is both "forbearance, forgiveness" and "earth": Shachi is Forbearance embodied (or Mother Earth).
 
@@ -3999,7 +3999,7 @@ Here are words of the Puranas, for example: "…whose friend is the supreme blis
 [^06-14]: That is, the dispute is whether the worship of the two-armed Krishna with the flute (Gopinatha) is ancient, in contrast to that of the four-armed Vishnu. Remuna (near Balasore) is the site of the temple of Kshira-chora-Gopinatha.
 [^06-15]: *Śekhara*, a garland or head-ornament of the Deity.
 [^06-16]: *Muralī-mukha*, "He at whose lips is the flute", i.e. Krishna the flute-player (here the form of Gopinatha in Remuna); so M. Guha's Bengali translation ("Murali-vadana") and Krishnadasa Baba's Hindi translation ("Krishna with the flute") understand it.
-[^06-17]: The reading of GGM and M. Guha, *-bādho labdha-srutā* (in the Kāvyamālā, by the OCR, possibly *-bādhoruddha-srutā*). The sense according to Guha's Bengali translation: the stream of the nectar of sweetness, bursting from behind the "barrier" of the bent elbow and other joints, floods the earth, and the right arm eclipses the beauty of Krishna with the flute. *Vilakṣayati* literally means "puts to confusion, shames"; Guha and Krishnadasa Baba's Hindi translation render it more mildly as "reveals".
+[^06-17]: The reading of GGM and M. Guha, *-bādho labdha-srutā*. The sense according to Guha's Bengali translation: the stream of the nectar of sweetness, bursting from behind the "barrier" of the bent elbow and other joints, floods the earth, and the right arm eclipses the beauty of Krishna with the flute. *Vilakṣayati* literally means "puts to confusion, shames"; Guha and Krishnadasa Baba's Hindi translation render it more mildly as "reveals".
 [^06-18]: Mahendra is the mountains and land in the south of Utkala (Orissa).
 [^06-19]: So according to the Kāvyamālā and M. Guha (*gajapati-mahārājena*), and likewise in Krishnadasa Baba's Hindi translation; *gaṅgā-pati* in GGM is apparently a corruption. Gajapati ("lord of elephants") is the title of the kings of Orissa. Purushottama-deva is a fifteenth-century king of Orissa who, according to tradition, brought Sakshi-gopala from Vijayanagara (Vidyanagara) to Cuttack.
 [^06-20]: *Akāṇḍopaplava-khaṇḍa*, "a fragment of unexpected calamity"; a play *daṇḍa*, "staff" — "punishment" is possible. Kamalapura is a village by the river (Bhargi) near Puri.
@@ -4445,13 +4445,13 @@ so the name of Krishna is higher than the name of Rama.
 [^07-13]: *Gaurayan*, "making white/golden": an allusion to the name Gaura.
 [^07-14]: Translated according to the Kāvyamālā: "…*nirupama-kṛpābhirāme prema-saubhagavati bhagavati kanaka-ketakopavana iva*…". The electronic text of GGM has a repetition (*vihita-viśrāme*… twice) and omits the word *bhagavati*.
 [^07-15]: A play on words: *kṛta-samūhaḥ samūhaḥ*, "a throng (*samūha*) that made conjectures (*samūha*)". Cf. also *samanantaram ananta-rahasye*, "at once… full of endless mystery".
-[^07-16]: GGM: *vevīyamānāśru* ("trembling, in tears"); KM (by the OCR): *sarerīyamāṇāśru*, apparently *sa rerīyamāṇāśru*, "with flowing tears".
+[^07-16]: GGM: *vevīyamānāśru* ("trembling, in tears"); KM: *sarerīyamāṇāśru*, apparently *sa rerīyamāṇāśru*, "with flowing tears".
 [^07-17]: A play: *subhagambhāvuka* ("becoming fortunate") — *bhāvuka* ("sensitive, full of bhava").
 [^07-18]: In GGM the stanza is broken up into speeches without a number (the number 8 is missing); in KM it is marked ॥८॥. We keep the number 8.
 [^07-19]: *Yamaka* (assonance): *sānurāge na rāge*, *bhakti-yoge na yoge*, *upadehe na dehe*; *muktā na muktāḥ*, "the liberated, not pearls"; *prakṛti-sarasa*, "juicy, full of rasa by nature" (and of a pearl, "moistly lustrous"). GGM *prayāsattiḥ*, KM *pratyāsattiḥ* ("nearness"): translated according to KM.
 [^07-20]: *Aghāri*, "the enemy of (the demon) Agha", i.e. Krishna.
-[^07-21]: That is, Krishna (*śyāmāmṛta*, "the dark nectar"), "drunk" by the gazes of the gopis. GGM *cuṣantu*, KM (OCR) *cuṣyantu*.
-[^07-22]: Chakoras, by poetic convention, feed on moonlight: the radiance of Krishna's nails is so bright that the road seems licked by them. KM (OCR) *nīcān* instead of *līḍhān*, probably an OCR error; translated according to GGM.
+[^07-21]: That is, Krishna (*śyāmāmṛta*, "the dark nectar"), "drunk" by the gazes of the gopis. GGM *cuṣantu*, KM *cuṣyantu*.
+[^07-22]: Chakoras, by poetic convention, feed on moonlight: the radiance of Krishna's nails is so bright that the road seems licked by them. KM *nīcān* instead of *līḍhān*, translated according to GGM.
 [^07-23]: GGM *pāntu vaḥ* ("you"), KM *pāntu naḥ* ("us").
 [^07-24]: The Shrivatsa is the curl-mark on Vishnu's chest; the Kaustubha His gem; Rama (Lakshmi) dwells on His chest. The red trace of Radha's feet eclipses all three.
 [^07-25]: This and the next stanza are the words of Radha (or of Her friend); cf. their use in the *Chaitanya-charitamrita* (Madhya 8) in the description of the conversation with Ramananda.
@@ -4466,7 +4466,7 @@ so the name of Krishna is higher than the name of Rama.
 [^07-34]: KM adds: *sva-sva-matācārya-varyāṇām*, "of the best teachers of each one's own doctrine".
 [^07-35]: GGM: *karhy eva syāma* ("when shall we be…?"); KM: *kva smaḥ*, "where were we?" Translated according to KM.
 [^07-36]: GGM *tad etan namenam āśayāmaḥ* is a corruption; according to KM: *tad etad annam enam āśayāmaḥ*.
-[^07-37]: In GGM wrongly ||20|| (a repeated number); in KM ॥२०॥, because there Malla Bhatta's stanza (here 20) is unnumbered in the OCR. The numbering further on is aligned: 21–26.
+[^07-37]: In GGM wrongly ||20|| (a repeated number); in KM ॥२०॥. The numbering further on is aligned: 21–26.
 [^07-38]: Cf. the same story in the *Chaitanya-charitamrita* (Madhya-lila, ch. 9).
 [^07-39]: A well-known stanza cited as from the *Padma Purāṇa* (the *Śata-nāma-stotra* of Rama); cf. the *Rāma-tāpanī Upaniṣad*.
 [^07-40]: An etymology cited by the Gaudiya Vaishnavas with reference to the *Mahābhārata* (Udyoga-parva).
@@ -4476,7 +4476,7 @@ so the name of Krishna is higher than the name of Rama.
 [^07-44]: A play: *kṛṣṇa-pakṣa-pātāḥ*, "partisans of Krishna", but also *kṛṣṇa-pakṣa*, "the dark half of the month".
 [^07-45]: The voice behind the scenes (the temple servants) announces the time of the darshan of Jagannatha, but the King takes it as an omen (*vāk-śakuna*, "an omen in words") answering his question.
 [^07-46]: A play on words: *Puruṣottama*, "the Supreme Person" (a name of Krishna, here of Chaitanya), and *Puruṣottama-kṣetra*, Puri.
-[^07-47]: In GGM and in M. Guha this is a separate speech of the Bhattacharya (and so it is translated). In KM (by the OCR) these words seem to continue the King's speech ("…Bhattacharya, a pilgrim…").
+[^07-47]: In GGM and in M. Guha this is a separate speech of the Bhattacharya (and so it is translated). In KM these words seem to continue the King's speech ("…Bhattacharya, a pilgrim…").
 [^07-48]: In GGM wrongly ||24|| (a repeated number); in KM ॥२४॥, with a different numbering of the preceding stanzas.
 [^07-49]: *Ratnākara*, "the Abode of Jewels", the ocean. The two "moving jewel mountains" are Nilachala ("the Blue Mountain", i.e. Jagannatha) and Chaitanya, golden like Mount Sumeru.
 
@@ -5244,7 +5244,7 @@ Well, I shall sit quietly somewhere here and wait for the King to enter. *(Does 
 [^08-53]: In the Kāvyamālā edition: *svata eva mahattaro 'yam*, "he is very great in himself as well".
 [^08-54]: A verse from the *Stotra-ratna* of Yamunacharya (21 in the electronic text; in other editions the numbering may differ).
 [^08-55]: Damodara here is Damodara Pandita, the elder brother of Shankara Pandita, not Svarupa Damodara (to whom the speech is addressed).
-[^08-56]: Yameshvara is a temple of Shiva in Puri; near it, according to tradition, Gadadhara settled (the site of Tota-Gopinatha). In the Kāvyamālā edition (OCR) *mameśvarasya*, apparently an error.
+[^08-56]: Yameshvara is a temple of Shiva in Puri; near it, according to tradition, Gadadhara settled (the site of Tota-Gopinatha). In the Kāvyamālā edition *mameśvarasya*, apparently an error.
 [^08-57]: "The lord of sages" is Madhavendra Puri, the guru of Advaita and of Paramananda Puri.
 [^08-58]: A play on the name "Svarupa": *svaṁ rūpam asyāsti*, "he has his own form", i.e. he does not change.
 [^08-59]: In the Kāvyamālā edition *aṁśubhir vinā*, "without rays", instead of *uḍubhir vinā*, "without stars".
@@ -5262,7 +5262,7 @@ Well, I shall sit quietly somewhere here and wait for the King to enter. *(Does 
 [^08-71]: *Maṅgala-sūtra*, the protective cord (*kaṅkaṇa*) tied on the hand at a vow before a festival; at the chariot festival the King performs the duties of a servant (sweeping before the chariot).
 [^08-72]: So in the electronic text; Sarvabhauma, however, had left earlier. In the Kāvyamālā edition the speech belongs to "all" (*sarve*), which is more logical.
 [^08-73]: *Bhāgavata Purāṇa* 11.2.2 (the words of Narada to King Vasudeva; the address "O King" in the mouth of Chaitanya unwittingly applies to Prataparudra). In the electronic text the verse is unnumbered; the number 54 follows the Kāvyamālā edition.
-[^08-74]: The electronic text has *ajani*, "became", the Kāvyamālā edition *bhavati*; the beginning of the verse is damaged in the Kāvyamālā OCR.
+[^08-74]: The electronic text has *ajani*, "became", the Kāvyamālā edition *bhavati*.
 
 ---
 
@@ -6893,7 +6893,7 @@ And still let this be:[^10-83]
 [^10-48]: The Jaganmohana is the front hall of the temple; the bhoga-mandapa the hall for food offerings.
 [^10-49]: A play on words: *pūrṇa / apūrṇa*, "full / empty", but also "perfect / imperfect": the people unwittingly teach to accept fullness (bhakti) and reject the empty.
 [^10-50]: *Snigdha*, "smooth" and "loving"; *niravakara*, "without rubbish", "unstained".
-[^10-51]: GGM has the misprint *stahganam*, KM (OCR) *khaganam*; M. Guha's edition reads *sthaganam*, "halt, stopping", and his translation: "the chariot of the sun stopped in the sky". Further on Guha, like KM, has *stambhaṁ vātasya*, "the stupor of the wind" (GGM *stambhaṁ vā tasya*). The verse distributes over the universe the eight sattvika-bhavas (thrill, stupor, trembling, tears, sweat and so on).
+[^10-51]: GGM has the misprint *stahganam*, KM *khaganam*; M. Guha's edition reads *sthaganam*, "halt, stopping", and his translation: "the chariot of the sun stopped in the sky". Further on Guha, like KM, has *stambhaṁ vātasya*, "the stupor of the wind" (GGM *stambhaṁ vā tasya*). The verse distributes over the universe the eight sattvika-bhavas (thrill, stupor, trembling, tears, sweat and so on).
 [^10-52]: *Auttānapādi* is Dhruva, the son of King Uttanapada, who became the Pole Star.
 [^10-53]: The Netrotsava ("festival of the eyes") is the day when, after the anavasara, Jagannatha shows Himself again to the people, on the eve of the Ratha-yatra.
 [^10-54]: *Yathā lapati, tathā manye bhavantam eva śrāvayati*: the King hears Kashi Mishra from afar and understands his loud speech as a reminder to Tulasi Mishra of his duties; so in M. Guha ("from how loudly this Kashi Mishra speaks, it seems to me that he is letting you hear it").

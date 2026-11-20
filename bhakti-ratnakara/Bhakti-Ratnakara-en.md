@@ -2799,7 +2799,7 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^01-55]: Cf. CC Antya 4: the Lord showed the world the sense-control of Ramananda, the impartiality of Damodara, the forbearance of Haridasa and the humility of Sanatana and Rupa.
 [^01-56]: That the young Jiva saw the Lord at Ramakeli is a tradition Narahari relates on the word of "very old people"; cf. CC.
 [^01-57]: CC Madhya 19–20.
-[^01-58]: Verses 658–659 are Kavi Karnapura's Chaitanya-chandrodaya 9.34–35 (`../chaitanya-chandrodaya/en/09.md`); 660 is apparently from the same work.
+[^01-58]: 660 is apparently from the same work.
 [^01-59]: Madgram (Margram) is a village; the descendants of this brahmana, a disciple of Sanatana, lived there in the author's time.
 [^01-60]: So in the 1912/13 edition ("Chandradvipa"); the 1960 edition has "the people of Navadvipa".
 [^01-61]: So in the 1960 edition; the 1912/13 edition has "eight kroshas". A krosha is a measure of length of about 3–3.5 km.
@@ -19549,7 +19549,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-8]: On Mahaprabhu's journey to Vraja see CC Madhya 17–18; on His charge to compile the scriptures on Mathura and recover the forgotten holy places, CC Madhya 23 (His instruction to Sanatana).
 [^05-9]: A yojana is an ancient Indian measure of distance, four kroshas. From here to 73 Raghava cites the scriptures on the glory of Mathura.
 [^05-10]: Hara and Gauri are Shiva and Parvati; in 58 Shiva addresses Parvati as "O Mahadevi." The words of the Adi-varaha Purana (41, 50, 60, 66, 72) are spoken by Lord Varaha to the Earth (Vasundhara, Vasudha).
-[^05-11]: "Equal": A (clearly so in the scan), B and C read "samasta" ("all"), the 1960 edition "samandha"; translated by the sense as "samaṁ [tu]" ("equal"), probably the original reading of the verse.
+[^05-11]: "Equal": A, B and C read "samasta" ("all"), the 1960 edition "samandha"; translated by the sense as "samaṁ [tu]" ("equal"), probably the original reading of the verse.
 [^05-12]: "Sets out to see it" follows A and C (yāy); the 1960 edition reads "cāy," "wishes to see it," which is closer to the verse in 64.
 [^05-13]: The city of Madhu (Madhupuri) is Mathura, named after the asura Madhu.
 [^05-14]: Madhupuri ("the city of Madhu") is Mathura.
@@ -19567,7 +19567,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-26]: Shaukari is Soron (Shukara-kshetra) by the Ganga, the place of Varaha's appearance; Vateshvara is Bateshwar on the Yamuna below Agra, with its Shiva temple; Yayavara has not been identified.
 [^05-27]: Adi-Shukara ("the Primeval Boar") is Varaha, who lifted the Earth from the waters (cf. 131).
 [^05-28]: Shurasena was an ancient ruler of Mathura who gave his name to the country (Shurasena); according to the Puranas, Krishna's grandfather, the father of Vasudeva.
-[^05-29]: So in all copies (checked against the scans of A and C): barāhadaśana hrada (in the 1960 edition in quotation marks, as one name). Possibly distorted present-day local names of Yayavara and Shaukari.
+[^05-29]: So in all copies: barāhadaśana hrada (in the 1960 edition in quotation marks, as one name). Possibly distorted present-day local names of Yayavara and Shaukari.
 [^05-30]: The quotation is abridged ("and so on"). Who frees Yayavara is not named in the passage (apparently the Yamuna, the passage being from the Yamuna-mahatmya); in 131 "he" is Yayavara.
 [^05-31]: The twelve forests of Vraja: west of the Yamuna — Madhuvana, Talavana, Kumudavana, Bahulavana, Kamyavana, Khadiravana and Vrindavana; east of it — Bhadravana, Bhandiravana, Bilvavana, Lohavana and Mahavana.
 [^05-32]: A gavyuti is two kroshas; twelve gavyutis are twenty-four kroshas (cf. 136).
@@ -19598,7 +19598,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-57]: So in the 1888 and 1912/13 editions (*uttara-kūloktam*); the 1960 edition reads *uttarottaroktam*: "the fruit [at these places] is declared ever greater and greater." The meaning of the verse is unclear.
 [^05-58]: Gatashrama ("He whose weariness has passed") — the Deity of Krishna at Vishrama ghat.
 [^05-59]: Ardhachandra ("half-moon") is a crescent-shaped area in the middle of Mathura (cf. 5.198–202). There follow the twelve tirthas south of Vishranti (249–285), then the tirthas to the north (from 286).
-[^05-60]: A (in the scan) reads *guhya-tīrtha*, C *guha tīrtha* (the 1960 edition interprets it as "Guha"); in verses 252 and 256, *guhyam*, "secret." "Guhya-tirtha" is adopted.
+[^05-60]: A reads *guhya-tīrtha*, C *guha tīrtha* (the 1960 edition interprets it as "Guha"); in verses 252 and 256, *guhyam*, "secret." "Guhya-tirtha" is adopted.
 [^05-61]: The agnishtoma is a Vedic soma sacrifice.
 [^05-62]: Bali, king of the asuras, grandson of Prahlada; from him the Lord Vamana begged three steps of land.
 [^05-63]: A sankranti is the day the Sun enters a new sign of the zodiac. The rajasuya is the Vedic royal sacrifice.
@@ -19634,7 +19634,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-93]: The son of Rohini (385) is Balarama; Nityananda is Balarama Himself, and so in 387 Mathura is called the land of His former birth. On Nityananda's pilgrimage to the holy places before He met Mahaprabhu, see CB Adi 9.
 [^05-94]: The source of the shloka is not given. Vasava is Indra; his city is Amaravati. The 1960 edition reads keśavasya, "the city of Keshava."
 [^05-95]: "Shri" is Shrivana, that is, Bilvavana; "Maha" is Mahavana (so the 1960 edition also explains).
-[^05-96]: The first half-line (mahāvanaṁ gokulākhyaṁ madhu vṛndāvanaṁ tathā) is found in the 1912/13 edition (in the scan of A and in copy B: «মহাবনং গোকুলাখ্যং মধু বৃন্দাবনং তথা»); it is absent in the 1960 edition.
+[^05-96]: The first half-line (mahāvanaṁ gokulākhyaṁ madhu vṛndāvanaṁ tathā) is found in the 1912/13 edition; it is absent in the 1960 edition.
 [^05-97]: An upavana is a lesser forest, a grove (as distinct from the twelve principal forests, vana).
 [^05-98]: The asura is Dhenuka, who had taken the form of an ass; according to the *Bhagavata Purana* (*Bhag.* 10.15) Balarama killed him, hurling him onto a palm tree.
 [^05-99]: Dantavakra, king of Karusha and cousin of Shishupala, was Krishna's enemy; Krishna killed him with His club (*Bhag.* 10.78). More on this in 409–420.
@@ -19646,13 +19646,13 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-105]: The *Gopala-champu* is a work of Jiva Gosvami. The daughter of the Sun (tapanajā) is the Yamuna. "Encampment" (vraja) is a cowherd settlement.
 [^05-106]: The abode of Purushottama is Puri (Jagannatha Puri), called Purushottama-kshetra.
 [^05-107]: The sense seems to be: the circuit will not at once follow the order of the forests given in the *Adi-varaha Purana*, but will gradually come to it. The reading "সেরূপ নহিব, ক্রমে হইব তেমন" (serūpa nahiba, krame haiba temana) is the same in A, B, C and G.
-[^05-108]: Shashthikara (ṣaṣṭhīkarāṭavī, "the forest of Shashthikara"; so in the scans of A and C) is apparently present-day Chhatikara between Mathura and Vrindavana, where the temple of Garuda-Govinda stands. The present-day name in the text is ṣaṣṭhīgharā.
-[^05-109]: Shakatarohana means "mounting the cart." In 441 it is said that today this is the village of Shakata (śakaṭā grām — so in the scans of A and C).
+[^05-108]: Shashthikara is apparently present-day Chhatikara between Mathura and Vrindavana, where the temple of Garuda-Govinda stands. The present-day name in the text is ṣaṣṭhīgharā.
+[^05-109]: Shakatarohana means "mounting the cart." In 441 it is said that today this is the village of Shakata.
 [^05-110]: The Vidyadharas are semi-divine celestial beings.
 [^05-111]: Garuda is the bird who carries Vishnu. Shridama is Krishna's cowherd friend, the brother of Srimati Radhika.
 [^05-112]: The *Laghu-bhagavatamrita* is a work of Rupa Gosvami. Tarkshya is Garuda. So in the 1912/13 edition (B: laghu-bhāgavatāmṛte); the 1960 edition reads "Sri Bhagavatamrita."
 [^05-113]: Gandheshvara — literally "the Lord of fragrances" (gandha, "fragrance").
-[^05-114]: Satoha is a village south of Mathura; its kunda is known as Shantanu-kunda. The text reads sātoṅā (সাতোঙা, in the scans of A and C; the 1960 edition has sātoñā).
+[^05-114]: Satoha is a village south of Mathura; its kunda is known as Shantanu-kunda. The text reads sātoṅā.
 [^05-115]: Bahulavana is the fifth of the twelve forests of Vraja (cf. 464), southwest of Mathura.
 [^05-116]: Sankarshana-kunda and Mana-sarasi (in the verse at 466, Manasa-saras) are ponds of Bahulavana.
 [^05-117]: Madhu is the month of Chaitra (March–April).
@@ -19664,7 +19664,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-123]: The night bath in Radha-kunda is taken on the Bahula-ashtami, the eighth lunar day of the dark fortnight of the month of Kartika (cf. 504).
 [^05-124]: The *Stavavali* is a collection of prayers by Raghunatha Dasa Gosvami; the *Vraja-vilasa-stava* is one of them.
 [^05-125]: In the 1960 ed., here and in 496, "kundas" (kuṇḍa) instead of "kunjas" (kuñja); cf. 497 and 498, where both editions have kunjas.
-[^05-126]: So in A and C (by the scans): «সারস লস হংস লাখ» (sārasa lasa haṃsa lākh); lasa is understood as "sport, show off their beauty" (lasat). The 1960 edition reads mārasa-lana-haṃsa.
+[^05-126]: So in A and C: «সারস লস হংস লাখ» (sārasa lasa haṃsa lākh); lasa is understood as "sport, show off their beauty" (lasat). The 1960 edition reads mārasa-lana-haṃsa.
 [^05-127]: The festival of lamps (Dipotsava, Dipavali) falls on the new moon of the month of Kartika.
 [^05-128]: Prabodhini is the ekadashi of the bright fortnight of Kartika, when Vishnu awakens from His sleep (Utthana Ekadashi).
 [^05-129]: On Mahaprabhu's discovery of Radha-kunda and Shyama-kunda in the rice fields of Arita, see CC Madhya 18.
@@ -19672,7 +19672,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-131]: Badarikashrama (Badrinath) is a place of pilgrimage in the Himalayas; "the Lord" and "Narayana" (538) here are the Deity of Badri-Narayana.
 [^05-132]: Yudhishthira is the eldest of the five Pandava brothers, the heroes of the *Mahabharata*. Cf. 5.600: at the Manasa-pavana-ghat the Pandavas abide in the form of trees.
 [^05-133]: The Manasa-pavana-ghat is a ghat on the northern bank of Shyama-kunda, by Subala's kunja (5.599), dear to Radha (5.600).
-[^05-134]: Chaurasa — "square," with even sides. So in the 1888 and 1960 editions (নহিল "did not become"); the 1912/13 edition (by the scan of A) reads রহিল "remained," apparently a misprint (cf. "শ্যামকুণ্ড বক্র" in 547: the kunda is crooked).
+[^05-134]: Chaurasa — "square," with even sides. So in the 1888 and 1960 editions (নহিল "did not become"); the 1912/13 edition reads রহিল "remained," apparently a misprint (cf. "শ্যামকুণ্ড বক্র" in 547: the kunda is crooked).
 [^05-135]: Sakhisthali is a village near Govardhana, the place of Chandravali, Radha's rival (see 572). The palasha is a tree with large leaves (Butea monosperma).
 [^05-136]: A sadhaka is a practicing devotee; a siddha is a perfected one. The sense: though Raghunatha abides in the body of a sadhaka, his acts are those of an eternal associate devoted to Radha.
 [^05-137]: "In his mind" (মানসে): in mental service (manasi-seva).
@@ -19680,7 +19680,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-139]: Sri Kunda is Radha-kunda. The stone from Govardhana (shila) and the necklace of gunja berries were given to Raghunatha Dasa by Mahaprabhu (CC Antya 6).
 [^05-140]: Malyahari (Malyaharini)-kunda is a pond near Radha-kunda. The pastime with the pearls is described in Raghunatha Dasa's *Mukta-charita* (586).
 [^05-141]: Shivakhora and Bhanukhora are ponds near Radha-kunda.
-[^05-142]: So in the 1888 and 1912/13 editions (শুষ্ক "withered"; checked against the scans); the 1960 edition reads শুদ্ধ, "pure."
+[^05-142]: So in the 1888 and 1912/13 editions; the 1960 edition reads শুদ্ধ, "pure."
 [^05-143]: The subject is not named in the original (তেঁহো "he"); probably Srinivasa bowed to Krishnadasa Kaviraja as was fitting.
 [^05-144]: The Pandavas are the five princely brothers, heroes of the *Mahabharata*. The Manasa-pavana ghat is at Shyama-kunda (see 599).
 [^05-145]: Sri Kunda is Radha-kunda. Mukharai is a village named after Mukhara (605).
@@ -19688,7 +19688,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-147]: Narada wished to see Krishna's pastimes with the gopis; Vrinda (Vrinda-devi) is the goddess of Vrindavana, the arranger of Radha and Krishna's meetings.
 [^05-148]: Shankhachuda was a servant of Kuvera who tried to abduct the gopis; Krishna slew him and gave his jewel to Balarama (*Bhag.* 10.34).
 [^05-149]: Palika is one of the yutheshvaris, the leaders of bands of gopis.
-[^05-150]: "yamunā ata grāmete" in all copies (G, A, B, C; checked against the scan of A); taken as the name of a village (Yamuna-ata; possibly Yamunavata). It could also be understood as "far away is the Yamuna, in the village of Ata."
+[^05-150]: "yamunā ata grāmete" in all copies; taken as the name of a village (Yamuna-ata; possibly Yamunavata). It could also be understood as "far away is the Yamuna, in the village of Ata."
 [^05-151]: Indradhvaja-vedi is "the altar of Indra's banner." Krishna persuaded Nanda to replace the yearly worship of Indra with the worship of Govardhana (*Bhag.* 10.24; cf. 634).
 [^05-152]: Rina-mochana means "releasing from debts," Papa-mochana "releasing from sins."
 [^05-153]: Sankarshana is Balarama.
@@ -19717,7 +19717,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-176]: Gandharva (Gandharvika) is Radha. Madana is the god of love; Krishna poses as a toll collector for King Madana.
 [^05-177]: The *Dana-keli-kaumudi* is a one-act play (bhanika) by Rupa Gosvami on the dana-lila.
 [^05-178]: The guardians of the worlds (lokapalas) are the gods who protect the quarters: Indra (east), Yama (south), Varuna (west), Kuvera (north); see 672–673.
-[^05-179]: Manasa-jahnavi ("the Ganga of Manasa") is Manasi-ganga. Gandharvika is Radha; the Crusher of Mura is Krishna. "At the foot of the serpent": *bhogi-mūle*, so in A, B and C (checked against the scan of A); "serpent" (*bhogī*) follows the 1960 edition's gloss; the word also means "enjoyer."
+[^05-179]: Manasa-jahnavi ("the Ganga of Manasa") is Manasi-ganga. Gandharvika is Radha; the Crusher of Mura is Krishna. "At the foot of the serpent": *bhogi-mūle*, so in A, B and C; "serpent" (*bhogī*) follows the 1960 edition's gloss; the word also means "enjoyer."
 [^05-180]: The Yadavas here are the cowherds of Vraja: Nanda's clan is counted as a branch of the line of Yadu.
 [^05-181]: Balai (Balaichand) is an affectionate name of Balarama; Nityananda is Balarama Himself.
 [^05-182]: The 1960 edition has "ascetic" (*yati*) instead of "form" (*mūrti*).
@@ -19728,7 +19728,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-187]: So in the text: the command comes from Chakra-tirtha itself; it can also be understood as "[there was] a command to live here, at Chakra-tirtha."
 [^05-188]: According to tradition, this Govardhana stone bearing Krishna's footprint is kept in Vrindavana, in the Radha-Damodara temple.
 [^05-189]: Manasa-jahnavi is Manasi-ganga (see 675). The surety (*pratibhū*): Govardhana as the witness and guarantor of the pastimes of the young couple, Radha and Krishna.
-[^05-190]: The name apparently comes from Hindi "made [Him] swear" (*saũh karāī*). A reads «সোঁকরাই» (sõkarāi) in the scan; the 1960 edition "saukarāi"; the line is missing in C.
+[^05-190]: The name apparently comes from Hindi "made [Him] swear" (*saũh karāī*). A reads «সোঁকরাই» (sõkarāi) in the edition; the 1960 edition "saukarāi"; the line is missing in C.
 [^05-191]: According to the *Bhagavata-mahatmya* of the Skanda Purana, Uddhava, who dwells as grasses and creepers at Govardhana, appeared to Krishna's queens from Dvaraka, who had come to Vraja with Vajranabha, and told them about Krishna.
 [^05-192]: Govinda-ghat is a ghat on Radha-kunda. The speaker is Raghava Pandita.
 [^05-193]: Rupa and Raghunatha (Raghunatha Dasa Gosvami) were then living at Radha-kunda; Sanatana, at Govardhana.
@@ -19738,11 +19738,11 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-197]: Nirmanchhana is a rite in which something precious is waved over a beloved person (as a sign of readiness to give it up for him) to ward off misfortune. "Coming out from Govardhana" probably means coming out from under the hill that Krishna lifted; compare verse 780, where the gopis perform nirmanchhana even with their sons. The author derives the name Nimgrama from this rite.
 [^05-198]: The patala (pāṭala) is a tree with fragrant pink flowers (Stereospermum).
 [^05-199]: Dera means "camp, halting place." Nanda and all the cowherds were moving from Shashthighara to Nandishvara.
-[^05-200]: So in A (by the scan): "এই কুঞ্জে নবাগ্রাম" (C "নবা গ্রাম"); the sense is unclear: possibly "কুঞ্জ-নামা গ্রাম," "the village named Kunja," which agrees with the name Kunjera in 784. Sri Kunda is Radha-kunda.
-[^05-201]: A (by the scan) reads "মোয়নাখ্যা" ("called Moyana"), the 1960 edition "মোরনাখ্যা" ("called Morana"); translated after the 1960 edition, the reading is unclear.
+[^05-200]: So in A: "এই কুঞ্জে নবাগ্রাম" (C "নবা গ্রাম"); the sense is unclear: possibly "কুঞ্জ-নামা গ্রাম," "the village named Kunja," which agrees with the name Kunjera in 784. Sri Kunda is Radha-kunda.
+[^05-201]: A reads "মোয়নাখ্যা" ("called Moyana"), the 1960 edition "মোরনাখ্যা" ("called Morana"); translated after the 1960 edition, the reading is unclear.
 [^05-202]: The source of the verse has not been identified (the text has only "তথাহি"). Surya is the father of the Yamuna.
 [^05-203]: "Keu na ai" (keu nā āi) is Braj-bhasha for "Why has [She] not come?"
-[^05-204]: "ভদায়র" (bhadāyara): so in A (by the scan); the 1960 edition apparently has "ভদ্রায়র". Bhadra is one of the leaders of the groups of gopis (yutheshvaris).
+[^05-204]: "ভদায়র" (bhadāyara): so in A; the 1960 edition apparently has "ভদ্রায়র". Bhadra is one of the leaders of the groups of gopis (yutheshvaris).
 [^05-205]: The name is explained by the words "mag hera" (mag herā), "they gazed at the road."
 [^05-206]: Phagua is the gift claimed at the Holi festival; phagu (gulal) is the red powder people throw on one another at Holi. The author derives the name Ganthuli from "ganthi," "knot."
 [^05-207]: So in the text: Vitthala (Vitthalanatha, 805; Vitthaleshvara, 815) served a Deity of Sri Krishna Chaitanya.
@@ -19751,8 +19751,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-210]: After Krishna lifted Govardhana, Indra together with the celestial cow Surabhi came to beg His forgiveness (*Bhag.* 10.27).
 [^05-211]: Devashirsha means "head of the gods"; munishirsha (823), "head of the sages." G writes "দেবশীর্ষস্থানকুণ্ড" as a single name.
 [^05-212]: Pramodana is from pramoda, "joy, delight" (see 826).
-[^05-213]: Kandara means "cave, ravine," setu "bridge, dam"; A (by the scan) reads «সেতু কন্দরা» (setu kandarā), the 1960 edition as one word; the sense of the name is unclear.
-[^05-214]: The 1960 edition reads gandhaśilā basiyā ("being set"; so translated); A (by the scan) has «গন্ধশিলা রসিয়া» (rasiyā, possibly "full of rasa"); the reading is unclear. Gandha-shila means "the fragrant stone."
+[^05-213]: Kandara means "cave, ravine," setu "bridge, dam"; A reads «সেতু কন্দরা» (setu kandarā), the 1960 edition as one word; the sense of the name is unclear.
+[^05-214]: The 1960 edition reads gandhaśilā basiyā ("being set"; so translated); A has «গন্ধশিলা রসিয়া» (rasiyā, possibly "full of rasa"); the reading is unclear. Gandha-shila means "the fragrant stone."
 [^05-215]: According to tradition, Nanda and the cowherds wished to travel as pilgrims to Badri-narayana (Badarikashrama in the Himalayas); Krishna revealed Narayana to them here — hence Adi-Badri (827).
 [^05-216]: Kanva is the sage in whose hermitage Shakuntala grew up (*Mahabharata*).
 [^05-217]: Kamyavana is the fourth of the twelve forests of Vraja (see 835), in the western part of Vraja; today Kaman.
@@ -19768,7 +19768,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-227]: The 1960 ed. has "Mohini-kunda" (as in 864).
 [^05-228]: Pichhalini-shila means "the slippery stone": one slides down from it (868).
 [^05-229]: Bajana means "playing musical instruments"; Bajana-shila is "the stone of music."
-[^05-230]: Santana: so in A (by the scan: «সন্তনকুণ্ড») and in the 1960 edition. Prithudaka is also the name of a famous tirtha at Kurukshetra.
+[^05-230]: Santana: so in A and in the 1960 edition. Prithudaka is also the name of a famous tirtha at Kurukshetra.
 [^05-231]: The asura Vyoma, taking the form of a cowherd boy, during a game of "thieves and sheep" carried the boys off into a cave; Krishna slew him (*Bhag.* 10.37).
 [^05-232]: Dhulauda means "[the place where] the dust flies up."
 [^05-233]: Uddhava is Krishna's friend and counselor, sent by Him from Mathura to console Nanda, Yashoda and the gopis (*Bhag.* 10.46–47).
@@ -19777,15 +19777,15 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-236]: Svarnahara means "golden necklace"; sona (Hindi) means "gold."
 [^05-237]: Varshana is the village of King Vrishabhanu, Radha's father, at the foot of the hill; see 890–894.
 [^05-238]: Sankari-khor is the narrow path between the two hills of Varshana (893). Garh means "fort"; the hilltops are so called. Dana, mana and vilasa are the play of the toll (891), Radhika's sulking and the play (892).
-[^05-239]: The verse number follows the 1912/13 ed. (by the scan of A: "উদ্দীপনে বয়ঃসন্ধৌ ৬ শ্লোকঃ"); in the 1960 ed. the number is garbled by OCR (possibly "৮").
+[^05-239]: The verse number follows the 1912/13 ed..
 [^05-240]: A play on words: guṇī means "girded with a cord" and "full of merits"; upacaya "fullness" and "rise"; valibhiḥ "with the folds [of the belly]" and "with the strong [allies]." Subjects greet a new king with music and gifts.
 [^05-241]: The 1960 ed. has "in this kunda."
-[^05-242]: The verse number in the editions is unclear: in the 1912/13 edition (by the scan of A) it is "12," the same as for 901; in the 1960 edition it is garbled by OCR ("১২৭"). The number is omitted.
+[^05-242]: The verse number in the editions is unclear: in the 1912/13 edition it is "12," the same as for 901. The number is omitted.
 [^05-243]: Chiksauli is a village next to Varshana; its former name Chitrashali is connected with Rai's wondrous (chitra) attire.
 [^05-244]: Gahvara-vana ("the forest in the gorge") is a grove on the hill of Varshana.
 [^05-245]: The pastime of sowing pearls is described in the *Mukta-charita* of Raghunatha Dasa Gosvami.
 [^05-246]: Vrishabhanupura is Varshana. This Bhanukhora is a pond at Varshana; not to be confused with the Bhanukhora near Radha-kunda (587).
-[^05-247]: All copies read jiyāla (checked against the scan of A) (the jiyala tree); possibly an error for piyāla (cf. Piyala-sarovara, 915).
+[^05-247]: All copies read jiyāla (the jiyala tree); possibly an error for piyāla (cf. Piyala-sarovara, 915).
 [^05-248]: Pilu is a tree (Salvadora) with edible berries.
 [^05-249]: Prema-vaichittya is a state of love in which the beloved, even while near her Lover, experiences separation from Him (UN, section on separation).
 [^05-250]: Sanketa ("signal, place of tryst") is a village between Varshana and Nandagrama, where the sakhis arranged the secret meetings of Radha and Krishna.
@@ -19796,18 +19796,18 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-255]: Probably the *Mathura-mahatmya* of Rupa Gosvami, a compilation of Puranic verses on the Mathura-mandala. The 1960 edition lacks the introductory line.
 [^05-256]: Mahaprabhu saw the Deities of Nanda, Yashoda and Krishna in a cave on Nandishvara hill (CC Madhya 18); see 942–953.
 [^05-257]: Parjanya is the father of Nanda and the grandfather of Krishna; Devamidha is his father.
-[^05-258]: Giridhara ("the Holder of the hill") is Krishna. The name Kshunahara is connected with Parjanya's fast ("giving up food"); A (by the scan) reads «ক্ষুণ্ণাহার» in both places (kṣuṇṇāhāra: kṣuṇṇa "cut down," āhāra "food"), the 1960 edition kṣuṇāhāra.
+[^05-258]: Giridhara ("the Holder of the hill") is Krishna. The name Kshunahara is connected with Parjanya's fast ("giving up food"); A reads «ক্ষুণ্ণাহার» in both places (kṣuṇṇāhāra: kṣuṇṇa "cut down," āhāra "food"), the 1960 edition kṣuṇāhāra.
 [^05-259]: Paurnamasi is the venerable ascetic of Vraja, an incarnation of Yogamaya and the grandmother of Madhumangala; she arranges the meetings of Radha and Krishna (see 969).
 [^05-260]: Mana is the heroine's loving pique; abhisara is her secret going out to the tryst.
 [^05-261]: Nandimukhi is the granddaughter of Paurnamasi and the daughter of Sandipani Muni; she helps arrange the meetings of Radha and Krishna. Avanti (Ujjain, 972) is the city where Sandipani lived.
 [^05-262]: The *Bhakti-rasamrita-sindhu* is Rupa Gosvami's treatise on bhakti-rasa; the Dakshina-vibhaga ("Southern Division") is its second part, on the components of rasa; a lahari ("wave") is a chapter. There Krishna's age is treated as an uddipana (a stimulus of feeling). Kaumara is early childhood, pauganda boyhood, kaishora early youth.
 [^05-263]: The Pashchima-vibhaga ("Western Division") of the BRS deals with the five principal rasas; its third lahari is on the rasa of friendship (sakhya).
-[^05-264]: The verse number is omitted: the 1912/13 edition (by the scan of A) has "৫৪", apparently a misprint for 24 (cf. 23 in 983 and 25 in 989); the 1960 edition has "verses 23–24".
+[^05-264]: The verse number is omitted: the 1912/13 edition has "৫৪", apparently a misprint for 24 (cf. 23 in 983 and 25 in 989); the 1960 edition has "verses 23–24".
 [^05-265]: "Dark curling locks" follows the 1888 and 1912/13 editions (*nīlālaka*). The 1960 edition reads *līlālaka*: "locks playfully [arranged]".
 [^05-266]: The narma-sakhas are Krishna's most intimate friends, confidants of His heart's secrets.
 [^05-267]: Ujjvala-rasa ("the radiant rasa") is madhura-rasa, the love of the gopis for Krishna.
 [^05-268]: Kandarpa is Kamadeva, the god of love.
-[^05-269]: "Absorbed": rata, so in the 1960 edition and apparently in A (by the scan; the letters are smudged); the 1888 edition has "rada".
+[^05-269]: "Absorbed": rata, so in the 1960 edition and apparently in A; the 1888 edition has "rada".
 [^05-270]: Skt. *vayaḥ-sandhi* ("the meeting of ages"), *navya*, *vyakta*, *pūrṇa*.
 [^05-271]: Karela-kunda is a pond near Nandishvara (Nandagrama); karil (*karīla*) is a thorny shrub of Vraja (*Capparis decidua*).
 [^05-272]: Madhusudana ("the slayer of Madhu") is a name of Krishna; the same word also means a bee ("drinker of honey").
@@ -19821,21 +19821,21 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-280]: *Krūra* means "cruel". Cf. the gopis' reproach in the *Bhagavatam* (10.39): he who is called Akrura ("not cruel") is cruel.
 [^05-281]: Uddhava is Krishna's friend and counsellor in Mathura; sent by Him to Vraja to console Nanda, Yashoda and the gopis, he gave the gopis a message about yoga and knowledge (*Bhag.* 10.46–47). Yogiya-sthana means "the place of yoga".
 [^05-282]: Udho is the popular form of Uddhava's name; Udho-kriya-sthana means "the place of Uddhava's doings".
-[^05-283]: Kanu is Krishna. Kusumabana ("whose arrows are flowers") is Kamadeva. "Playing" is *khuralī* (A, by the scan: «মুরলি খুরলি»; the 1960 edition *muralī buvali*).
+[^05-283]: Kanu is Krishna. Kusumabana ("whose arrows are flowers") is Kamadeva. "Playing" is *khuralī*.
 [^05-284]: Govindadasa is the poet Govindadasa Kaviraja, a disciple of Srinivasa Acharya; his name is the signature of the pada.
-[^05-285]: Gendukhora (*gendu*, "ball"; *khor*, "hollow") is a place of ball games near Nandishvara. Reading after B (*gedu-khor*; cf. «গেদু», "ball," in 1055); A (by the scan) and the 1960 edition have «গেছুখোর» (*gechhu-khor*).
+[^05-285]: Gendukhora (*gendu*, "ball"; *khor*, "hollow") is a place of ball games near Nandishvara. Reading after B (*gedu-khor*; cf. «গেদু», "ball," in 1055); A and the 1960 edition have «গেছুখোর» (*gechhu-khor*).
 [^05-286]: Jiva Gosvami's *Gopala-champu* has two parts, the Purva (first) and the Uttara (second); its chapters are called purana ("filling").
 [^05-287]: A difficult passage: *asmat-tṛṇ-mātra-da-paricaraṇaḥ*; translated after the anvaya of the 1960 edition ("whose service gives us only thirst").
-[^05-288]: So in the 1960 edition (*Bhag.* 10.15.14); the 1912/13 edition (by the scan of A) has «১৫ অধ্যায়ে ১৩ শ্লোকঃ», the thirteenth verse.
+[^05-288]: So in the 1960 edition (*Bhag.* 10.15.14); the 1912/13 edition has «১৫ অধ্যায়ে ১৩ শ্লোকঃ», the thirteenth verse.
 [^05-289]: Gupta-kunda means "the secret pond".
 [^05-290]: Meheran is a village near Nandagrama. Abhinanda is Nanda's elder brother.
 [^05-291]: Javata (*Yāvaṭa*) is a village not far from Nandagrama where Radha lived in the house of Her father-in-law; Yaograma (*yāo-grāma*) is its local name.
 [^05-292]: Abhimanyu is the cowherd regarded as Radha's husband; Jatila is his mother, Kutila his sister. Mukhara (1076) is Radha's grandmother.
-[^05-293]: The *Gitavali* is a collection of songs by Rupa Gosvami within the *Stavamala*. Sanatana in the last line is the poet's signature: the name of his elder brother, Sanatana Gosvami. The 1960 edition does not name the raga; the 1912/13 edition (by the scan of A) has «ধানাশ্রীঃ। ৬৩৬ পৃং। ১—৬।», i.e. raga Dhanashri, "p. 636, [verses] 1–6".
+[^05-293]: The *Gitavali* is a collection of songs by Rupa Gosvami within the *Stavamala*. Sanatana in the last line is the poet's signature: the name of his elder brother, Sanatana Gosvami. The 1960 edition does not name the raga; the 1912/13 edition has «ধানাশ্রীঃ। ৬৩৬ পৃং। ১—৬।», i.e. raga Dhanashri, "p. 636, [verses] 1–6".
 [^05-294]: Pivana (*pīvana*) means "drinking" (cf. 1087). The word *nadī* ("river") is in all copies; the sense is unclear — perhaps a stream by the kunda.
 [^05-295]: Ladili (*lāḍilī*, Braj) means "darling", an affectionate name of Radha.
 [^05-296]: Amrita-hasta means "nectar-handed": whatever Radha cooks becomes like nectar. This boon is usually attributed to the sage Durvasa; here, at Narada-kunda, the sage is not named.
-[^05-297]: Iya (*iyā*), aiya (*āiyā*) are sung syllables; "ta ta thira mira…" (1097, 1100, 1102) are the syllables of the dance rhythm (bols), given in transliteration; checked against the scan of A (which has «বুদ্ধ ঝিক্ ঝিক্ ঝিক্», «থুন্না দ্রমকট», «কিটিঝক্»).
+[^05-297]: Iya (*iyā*), aiya (*āiyā*) are sung syllables; "ta ta thira mira…" (1097, 1100, 1102) are the syllables of the dance rhythm (bols), given in transliteration of A (which has «বুদ্ধ ঝিক্ ঝিক্ ঝিক্», «থুন্না দ্রমকট», «কিটিঝক্»).
 [^05-298]: Shyamaghana ("dark cloud") is Krishna (cf. Ghanashyama).
 [^05-299]: Manasija ("born of the mind") is Kamadeva.
 [^05-300]: There follow padas about how Krishna in various guises makes His way into Javata to Radha; "once", "and once" are their headings in the text.
@@ -19862,23 +19862,23 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-321]: Piyaso is from Hindi *pyās*, "thirst".
 [^05-322]: Sahara (now Sahar) is a village of Vraja, the abode of Upananda, Nanda's elder brother; hence Krishna is to him "his brother's son" (1208).
 [^05-323]: Subhadra is Upananda's son, Krishna's cousin; not to be confused with Subhadra, Krishna's sister.
-[^05-324]: A (by the scan) reads «শ্যামঃ সূক্ষ্মমতির্বাগতিমধুরো জ্যোতির্বিদামগ্রণীঃ» (*sūkṣma-matir vāg-ati-madhuraḥ*), which confirms the translation; the 1960 edition is garbled. The Lord of Speech (Gishpati) is Brihaspati, the preceptor of the gods.
+[^05-324]: A reads «শ্যামঃ সূক্ষ্মমতির্বাগতিমধুরো জ্যোতির্বিদামগ্রণীঃ» (*sūkṣma-matir vāg-ati-madhuraḥ*), which confirms the translation; the 1960 edition is garbled. The Lord of Speech (Gishpati) is Brihaspati, the preceptor of the gods.
 [^05-325]: Kundalata is Subhadra's wife, a friend of Radha; by Yashoda's order she brings Radha to cook for Krishna (1213).
-[^05-326]: A (by the scan) reads «সাঁখি» (sā̃khi); the 1888 edition sakhi, the 1960 edition sīkhi.
+[^05-326]: A reads «সাঁখি» (sā̃khi); the 1888 edition sakhi, the 1960 edition sīkhi.
 [^05-327]: Talao (Hindi *tālāb*, *tālāo*) means "pond".
 [^05-328]: Madhumangala is a brahmana, Krishna's jesting friend, the grandson of Paurnamasi.
 [^05-329]: Chhatrapati means "possessor of the umbrella": the royal umbrella (*chhatra*) is the sign of kingship.
 [^05-330]: Umrao (Persian *umarā*, "nobles") means a nobleman, a high dignitary; hence the name of the village Umrao (1258), where Kishori-kunda is (cf. BR 1.325).
 [^05-331]: In the 1960 ed.: "Sri Madhumangala, without saying anything, ran away."
-[^05-332]: A and C (by the scans) read «এবে কৃষ্ণ দেহ রাজ্যে কর অধিকার», understood as *kṛṣṇa-deha-rājye* ("in the kingdom of Krishna's body"); it could also be taken as "now give Krishna (?), rule the kingdom." In the 1960 ed.: "Now take Krishna, rule the kingdom."
+[^05-332]: A and C read «এবে কৃষ্ণ দেহ রাজ্যে কর অধিকার», understood as *kṛṣṇa-deha-rājye* ("in the kingdom of Krishna's body"); it could also be taken as "now give Krishna (?), rule the kingdom." In the 1960 ed.: "Now take Krishna, rule the kingdom."
 [^05-333]: Kishori-kunda is a pond at the village of Umrao (1258) near Chhatravana; Kishori ("the young girl") is Radha, the daughter of Vrishabhanu. On Lokanatha Gosvami's life here and on the Deity Radha-vinoda, see BR 1.325–338.
-[^05-334]: Nari and Semari are neighbouring villages of Vraja near Chhata, where a goddess is worshipped (cf. 1276); according to Narahari, their names go back to the former Kinnari and Shyamari (1271–1275). A and C (by the scans) read «নরীসেমরী» (narīsemarī); the 1960 edition nirīsemarī.
+[^05-334]: Nari and Semari are neighbouring villages of Vraja near Chhata, where a goddess is worshipped (cf. 1276); according to Narahari, their names go back to the former Kinnari and Shyamari (1271–1275). A and C read «নরীসেমরী» (narīsemarī); the 1960 edition nirīsemarī.
 [^05-335]: Shyama-sakhi is Krishna in the guise of a gopi friend named Shyama.
 [^05-336]: A kinnari is a celestial musician woman (of the race of the kinnaras).
 [^05-337]: Which Devi is meant is not said: perhaps Radha (cf. 1275) or the goddess worshipped in this village (on it, see 1270–1271).
 [^05-338]: Chhatravana — from *chhatra*, "royal umbrella": here Krishna was proclaimed king; today the town of Chhata.
 [^05-339]: Radha-sthali — "the place of Radha": here Radha was anointed to the throne of Vrindavana (see verse 1280).
-[^05-340]: The Creator (Vidhi) is Brahma; Savitri is a goddess, Brahma's consort; Manasi-ganga is at Govardhana. The last words of the verse read "সোন্মত্তরাধাস্থলী" (sonmatta-rādhāsthalī) in the 1912/13 and 1960 editions; even in the scan of A the letters are not quite clear (possibly «সাস্মাংস্তু», sāsmāṁs tu); translated after the anvaya of the 1960 edition (sā asmān — "that… us").
+[^05-340]: The Creator (Vidhi) is Brahma; Savitri is a goddess, Brahma's consort; Manasi-ganga is at Govardhana. The last words of the verse read "সোন্মত্তরাধাস্থলী" (sonmatta-rādhāsthalī) in the 1912/13 and 1960 editions; even in the edition of A the letters are not quite clear (possibly «সাস্মাংস্তু», sāsmāṁs tu); translated after the anvaya of the 1960 edition (sā asmān — "that… us").
 [^05-341]: Khadiravana is the seventh of the twelve forests of Vraja; *khadira* is the catechu acacia.
 [^05-342]: *Sangama* — "meeting, union".
 [^05-343]: Kadamba-khandi — "a grove of kadambas".
@@ -19892,7 +19892,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-351]: Bedokhor (*beṛokhor*): the meaning of the name is not explained in the text; in Vraja place names "khor" is a narrow passage between hills (cf. Sankari-khor).
 [^05-352]: Pahari means "hill"; Charana-pahari is "the Hill of the Feet" (the name is explained in 1397).
 [^05-353]: The name Haroyal is apparently connected with *hārā*, "to lose" (see 1399). This Krishna-kunda is a different one from that in 1389.
-[^05-354]: A (by the scan) reads «সাতোঙা» (*sātoṅā*), as in 450: the same village of Satoha, the place of austerities of the sage Shantanu (5.450).
+[^05-354]: A reads «সাতোঙা» (*sātoṅā*), as in 450: the same village of Satoha, the place of austerities of the sage Shantanu (5.450).
 [^05-355]: Kupa means "well"; Vadya-shila is "the stone of musical instruments".
 [^05-356]: The name is explained by the word *pāi(la)*, "She found".
 [^05-357]: Chalana-shila is "the stone of walking".
@@ -19900,14 +19900,14 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-359]: Bichhor (*bichhoṛ*) means "separation" (see 1410). The Moon-faced One (*candramukhī*) is apparently Radha.
 [^05-360]: Kadamba-khandi is "the kadamba grove". A play on words: Tiloyar — *tilek* ("not for a moment").
 [^05-361]: Shringaravata is "the banyan of adornment".
-[^05-362]: A (by the scan) reads «বাসোনী» (*bāsonī*), the 1960 edition *vāsosī*; the name is connected with *suvāsa*, "fragrance".
+[^05-362]: A reads «বাসোনী» (*bāsonī*), the 1960 edition *vāsosī*; the name is connected with *suvāsa*, "fragrance".
 [^05-363]: Paya is from *payaḥ*, "milk".
 [^05-364]: Kotara means "a hollow in a tree". Kotavana is apparently present-day Kotvan, near the northern border of Vraja.
 [^05-365]: Sheshashayi ("He who lies on Shesha") is a place near the northern border of Vraja with a Deity of Vishnu lying on the serpent Shesha (Ananta); Kshira-samudra ("the Ocean of Milk") is a pond there.
 [^05-366]: Goshtha means "a cowherd settlement"; here it is Vraja.
-[^05-367]: A (by the scan) has «খম্ব হরে খামী গ্রাম» (*khamba hare khāmī grām*), the 1960 edition *khakhahare "khānigrām"* (only *khānigrām* marked as a name). The division into village names is conjectural.
+[^05-367]: A has «খম্ব হরে খামী গ্রাম» (*khamba hare khāmī grām*), the 1960 edition *khakhahare "khānigrām"* (only *khānigrām* marked as a name). The division into village names is conjectural.
 [^05-368]: Banachari is a village on the northern border of Vraja (today Banchari).
-[^05-369]: A (by the scan) has «খররো» (*khararo*), the 1960 edition *thararo* (in quotation marks as a name). The name seems to be connected with *khair*, "welfare".
+[^05-369]: A has «খররো» (*khararo*), the 1960 edition *thararo* (in quotation marks as a name). The name seems to be connected with *khair*, "welfare".
 [^05-370]: Ujani is from *ujāna*, "against the current".
 [^05-371]: Khelanavana means "the forest of games"; Khela-tirtha, "the holy place of games". Khelana-vata means "the banyan of games"; so in the 1912/13 edition; the 1960 edition has "of this Khelanavana".
 [^05-372]: Rama-ghat is a place on the bank of the Yamuna where Balarama performed the rasa-lila with the gopis during His visit to Vraja (*Bhag.* 10.65).
@@ -19918,25 +19918,25 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-377]: The king of birds is Garuda. "Surpassing the moon": so in the 1912/13 edition (*jini*); the 1960 edition has "like the moon" (*jani*).
 [^05-378]: Ghanashyama is the author's second name; here it is the poet's signature (*bhanita*). "Offers himself in sacrifice": *nichani*, the custom of waving oneself around the beloved, giving oneself for him.
 [^05-379]: A single earring is a traditional feature of Balarama's appearance.
-[^05-380]: "Neck": *kaṇṭha*; the scan of A clearly reads «ত্রিবলি বলিত কণ্ঠ সুললিত কক্ষ» (in the OCR copies a syllable is lost).
+[^05-380]: "Neck": *kaṇṭha*; the edition of A clearly reads «ত্রিবলি বলিত কণ্ঠ সুললিত কক্ষ».
 [^05-381]: Malakosha is the name of the raga. *Madhu-yamini* means "spring night" (Madhu is the spring month Chaitra).
-[^05-382]: So in A (by the scan: «বহু পিয় চউতোর সকল»): *cauṭora*, apparently "on all four sides"; *bahu piya*, "many beloveds". The Lord (*nāha*) is Baladeva.
-[^05-383]: So in A (by the scan: «মগন ঘন ভণ তন আয়য়ে»): *ghana bhaṇa tana āyaye* is translated conjecturally ("flocks with a dense humming"); *paraśa pararasa* (B: *para rasa*), "the supreme rasa of touch" (possibly "the rasa of mutual touch"). Narahari is the poet's signature.
+[^05-382]: So in A: *cauṭora*, apparently "on all four sides"; *bahu piya*, "many beloveds". The Lord (*nāha*) is Baladeva.
+[^05-383]: So in A: *ghana bhaṇa tana āyaye* is translated conjecturally ("flocks with a dense humming"); *paraśa pararasa* (B: *para rasa*), "the supreme rasa of touch" (possibly "the rasa of mutual touch"). Narahari is the poet's signature.
 [^05-384]: In the standard numbering, *Bhag.* 10.65.18.
 [^05-385]: The text has one introductory line for both verses. In the standard numbering, *Bhag.* 10.65.19–20.
 [^05-386]: Varuni is the goddess of intoxicating drink, the daughter of Varuna; according to tradition, she appeared at the churning of the ocean together with the nectar. In the *Harivamsha* (1498) she speaks these words to Balarama.
-[^05-387]: Mridanga: so in A (by the scan: «মৃদঙ্গ পিনাক বীণা») and in the 1960 edition; "স্বর্গ" in the OCR of copy B is a recognition error. The pinaka is a stringed instrument.
-[^05-388]: Shankarabharana is the name of a raga. "Da drimi…", "taka…" here and further in the songs are syllables of dance and drum rhythm (bols), given in transliteration; checked against the scan of A (in 1504: «ধা দৃগু দৃগুধ বিথুঙ্কট»).
+[^05-387]: Mridanga: so in A and in the 1960 edition. The pinaka is a stringed instrument.
+[^05-388]: Shankarabharana is the name of a raga. "Da drimi…", "taka…" here and further in the songs are syllables of dance and drum rhythm (bols), given in transliteration of A (in 1504: «ধা দৃগু দৃগুধ বিথুঙ্কট»).
 [^05-389]: Ghanashyama — here, in 1510 and 1513 — is the poet's signature (the second name of Narahari Chakravarti).
-[^05-390]: Kedara is the name of a raga; triputa is the name of a tala (rhythmic cycle). Ratipati ("the husband of Rati") is Kamadeva. A (by the scan) reads «বাজে ঝিগ ঝিগ ঝিগ ঝেন্দ্রাং» ("jhig").
-[^05-391]: "অলি যোর" (ali yora) in all copies (checked against the scan of A); the sense is unclear; translated "the bees hum in swarms."
+[^05-390]: Kedara is the name of a raga; triputa is the name of a tala (rhythmic cycle). Ratipati ("the husband of Rati") is Kamadeva. A reads «বাজে ঝিগ ঝিগ ঝিগ ঝেন্দ্রাং» ("jhig").
+[^05-391]: "অলি যোর" (ali yora) in all copies; the sense is unclear; translated "the bees hum in swarms."
 [^05-392]: "Offers himself" — nichhani: a rite in which one "offers oneself" for the beloved, warding off misfortune from him; the usual formula of the poet's signature (likewise in 1534).
 [^05-393]: Cf. *Bhagavatam* (10.65): Balarama, coming to Vraja, spent two spring months with the gopis, drank varuni and, when the Yamuna did not come at His call, drew her with His plough.
-[^05-394]: "Having sat": basiyā, so in the 1960 edition and apparently in A (by the scan: «বসিয়া রমণীগণ সঙ্গে»); the OCR of A/B has "বগিয়া".
+[^05-394]: "Having sat": basiyā, so in the 1960 edition and apparently in A.
 [^05-395]: Deshapala is the name of a raga. Stanzas 1538–1539 are in Sanskrit. Halayudha ("armed with the plough") is a name of Balarama.
 [^05-396]: Nrihari is the same as Narahari: the poet's signature. "Sa ri ga ma pa dha ni" are the names of the svaras (notes); "dhiki dhikata dheya", "tenna" are rhythmic syllables (bols), given in transliteration.
 [^05-397]: Shri is the name of a raga. Revati is the wife of Balarama. "Re" is a singing vocative. "He frees from the burden of composure" (dhṛti-bhara-mocana) — that is, He deprives [the lovely women] of their composure.
-[^05-398]: A (by the scan) reads «নরহরিমব» (naraharimaba), the 1960 edition «নরহরিমধ»; the sense is unclear; translated "[Lord of] Narahari" (the poet's signature). What follows are rhythmic syllables; G "অইনব", A/B "অইঅ".
+[^05-398]: A reads «নরহরিমব» (naraharimaba), the 1960 edition «নরহরিমধ»; the sense is unclear; translated "[Lord of] Narahari" (the poet's signature). What follows are rhythmic syllables; G "অইনব", A/B "অইঅ".
 [^05-399]: A verse of Raghunatha Dasa Gosvami. Krishna (kṛṣṇā, "the dark one") is here the Yamuna; the Plough-bearer (hali) is Balarama; Rama-ghatta is Rama-ghat.
 [^05-400]: On Nityananda's pilgrimage to the tirthas before meeting Sri Chaitanya, see CB Adi 9.
 [^05-401]: Shakata (śākaṭa) is a kind of tree; by the sense, one that grew from the tooth-stick Nityananda had used.
@@ -19944,36 +19944,36 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-403]: Kachchhavana (kaccha-vana; kacchapa, "turtle") is a forest near Rama-ghat.
 [^05-404]: Bhushanavana — "the forest of ornaments."
 [^05-405]: Bhandiravata is the banyan in Bhandiravana, on the eastern bank of the Yamuna, where Balarama killed the asura Pralamba (*Bhag.* 10.18); Akshayavata ("the undecaying banyan") is its present popular name (1567).
-[^05-406]: The Slayer of Baka (*bakabhid*) is Krishna; Madana is Kamadeva, the god of love; Bhandiraka is Bhandira. The verse number follows the 1960 edition (৯৩); B reads "৯৬," apparently an OCR error (96 is the number of the verse at 1601).
+[^05-406]: The Slayer of Baka (*bakabhid*) is Krishna; Madana is Kamadeva, the god of love; Bhandiraka is Bhandira. The verse number follows the 1960 edition (৯৩).
 [^05-407]: Munjatavi and Ishikatavi mean "the thicket of munja grass" and "the thicket of ishika reeds"; here Krishna swallowed the forest fire (*Bhag.* 10.19; see 1585).
-[^05-408]: Bhandari: so in A (by the scan: «ঐ যে ভাণ্ডারী গ্রাম») and in the 1960 edition (*bhāṇḍārī*).
+[^05-408]: Bhandari: so in A and in the 1960 edition (*bhāṇḍārī*).
 [^05-409]: Tapovana means "the forest of austerity": here the daughters of the cowherds kept a vow to the goddess Katyayani in order to obtain Krishna as their husband (*Bhag.* 10.22).
 [^05-410]: Chir-ghat means "the ghat of the garments," the place where Krishna stole the gopis' clothes (*Bhag.* 10.22; see 1590–1594). Katyayani is a name of the goddess Durga.
 [^05-411]: The story of Nanda's abduction by Varuna's servant is in *Bhag.* 10.28.
 [^05-412]: Bhaya means "fear."
 [^05-413]: Vatsavana means "the forest of the calves"; Brahma's theft of the calves and cowherd boys is in *Bhag.* 10.13.
-[^05-414]: Balihara: so in A (by the scan: «এই বলিহারা নাম গ্রাম») and B; the name is associated with *bāla-hara*, "the stealing of the boys." The 1960 edition reads *bālahārā*, and for "the boys and the rest" (*bālakādi*) has *bālakāri*.
+[^05-414]: Balihara: so in A and B; the name is associated with *bāla-hara*, "the stealing of the boys." The 1960 edition reads *bālahārā*, and for "the boys and the rest" (*bālakādi*) has *bālakāri*.
 [^05-415]: The name is derived from *parīkṣā*, "test."
 [^05-416]: Sei (*sei*) means "that [very one]"; the name is explained at 1607.
-[^05-417]: A (by the scan) reads «এচোমুহা গ্রামে» (*ecomuhā*), as does the 1960 edition; understood as *e comuhā*, "this [village of] Chomuha." The name apparently comes from *catur-mukha*, "the Four-faced One."
+[^05-417]: A reads «এচোমুহা গ্রামে» (*ecomuhā*), as does the 1960 edition; understood as *e comuhā*, "this [village of] Chomuha." The name apparently comes from *catur-mukha*, "the Four-faced One."
 [^05-418]: Bhiru-chaturmukha means "the Frightened Four-faced One." "Together with [its] Lord" (*seśam*) follows the 1960 edition's anvaya (*īśa-sahitam*).
-[^05-419]: Sarpa-sthali means "the place of the serpent"; Aghavana, "the forest of Agha"; Aghasura is the demon in the form of a huge serpent who swallowed the cowherd boys (*Bhag.* 10.12). Sapoli follows A (by the scan: «অঘবন নাম লোকে কহয়ে সপৌলী», *sapaulī*) and B (*sapolī*).
+[^05-419]: Sarpa-sthali means "the place of the serpent"; Aghavana, "the forest of Agha"; Aghasura is the demon in the form of a huge serpent who swallowed the cowherd boys (*Bhag.* 10.12). Sapoli follows A and B (*sapolī*).
 [^05-420]: The Conqueror of Mura (*murajit*) is Krishna. The aranis are the two wooden sticks with which fire is kindled by friction; "the fire at the edge of the aranis" (*araṇyos taṭa-pāvaka*) is a tentative understanding. The 1960 edition gives no anvaya for this verse.
 [^05-421]: The name Jayet is derived from *jaya*, "victory."
-[^05-422]: A (by the scan) reads «অঘাসুর বধে এসিয়ান। তেঞি এসেয়ানো গ্রাম সেহোনা আখ্যান» (*e siyān*, *e seyāno*); the 1960 edition has *soyāno*; Seyano is adopted, from *seyānā*, "clever, shrewd." Sehona (*sehonā*) reads the same in all copies.
+[^05-422]: A reads «অঘাসুর বধে এসিয়ান। তেঞি এসেয়ানো গ্রাম সেহোনা আখ্যান» (*e siyān*, *e seyāno*); the 1960 edition has *soyāno*; Seyano is adopted, from *seyānā*, "clever, shrewd." Sehona (*sehonā*) reads the same in all copies.
 [^05-423]: So in the 1912/13 edition (*grām*); the 1960 edition has "names given by the cowherds in ancient times" (*nām*).
 [^05-424]: The hill by Krishna-kunda is *kṛṣṇakuṇḍa-ṭīlā* (*ṭīlā*, "hill, mound"); this Krishna-kunda is different from those at 1389 and 1398.
-[^05-425]: Maghera: so in A (by the scan: «দেখ মঘেরা এ গ্রাম। পূর্ব্বে জানাইল মঘহেরা হয় নাম»); the 1960 edition has *aghērā*. This is not the village of Maghera at 792–793. The words *pūrve jānāila* can also be understood as "earlier [I] told [you]" (cf. 792–793).
-[^05-426]: A (by the scan) reads «এ আটস্থ গ্রামে» (*āṭastha*), the 1960 edition *āṭastu*; Atas is adopted. The name is apparently connected with Ashtavakra. Ashtavakra is a sage whose body was bent in eight places.
+[^05-425]: Maghera: so in A; the 1960 edition has *aghērā*. This is not the village of Maghera at 792–793. The words *pūrve jānāila* can also be understood as "earlier [I] told [you]" (cf. 792–793).
+[^05-426]: A reads «এ আটস্থ গ্রামে» (*āṭastha*), the 1960 edition *āṭastu*; Atas is adopted. The name is apparently connected with Ashtavakra. Ashtavakra is a sage whose body was bent in eight places.
 [^05-427]: Shakra-sthana means "the place of Shakra" (Indra). Indra's downpour upon Vraja and Krishna's lifting of Govardhana are in *Bhag.* 10.24–25.
 [^05-428]: The name Varahar is derived from *varāha*, "boar."
 [^05-429]: The name Harasali is apparently derived from *rāsa-sthalī*, "the place of the rasa dance."
-[^05-430]: "Lovely": *valgu*, so in A (by the scan: «বৈদগ্ধ্যোজ্জ্বলবল্গুবল্লববধূবর্গেণ»; two syllables, as the metre requires); the 1960 edition has *bandhura* (same meaning).
+[^05-430]: "Lovely": *valgu*, so in A; the 1960 edition has *bandhura* (same meaning).
 [^05-431]: *Bhakti-rasamrita* is the *Bhakti-rasamrita-sindhu* of Sri Rupa Gosvami. The mangalacharana is the auspicious verses at the beginning of a book.
 [^05-432]: The eastern country (*pūrva deśa*) is Bengal, Jiva's homeland.
 [^05-433]: A digvijayi ("conqueror of the quarters") is a scholar who travels about defeating everyone in debate. A jaya-patri ("certificate of victory") is a written admission of defeat given by the loser to the victor.
 [^05-434]: Surukhuru (*surukhuru*) is a village on the eastern bank of the Yamuna, where Krishna showed favour to the gods (1672).
-[^05-435]: "O Vasudha": *vasudhe*, so in A (by the scan: «তত্র গত্বাচ বসুধে»); the OCR copies have *vandhe* (Varaha addressing the Earth, as in other verses of the Adi-varaha Purana).
+[^05-435]: "O Vasudha": *vasudhe*, so in A; as in other verses of the Adi-varaha Purana).
 [^05-436]: Vasudeva (*vāsudeva*) is a name of Krishna ("the son of Vasudeva"), here the Deity of Bhandira; not to be confused with His father Vasudeva (*vasudeva*).
 [^05-437]: The name Chhaheri (*chāheri*) is explained by the word "shade" (*chāyā*, 1684).
 [^05-438]: A math (*māṭh*) is a large clay vessel (see 1687). Mathgrama is probably present-day Mant near Bhandiravana.
@@ -19985,12 +19985,12 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-444]: Sanatana is the poet's signature: in the songs of the *Gitavali* Rupa Gosvami puts the name of his elder brother, Sanatana Gosvami (see 5.1083). Manasa is a Himalayan lake, the home of swans.
 [^05-445]: Garga (Gargacharya) is the priest of the Yadu dynasty; at Nanda's request he secretly, fearing Kamsa, gave names to Rama (Balarama) and Krishna (*Bhag.* 10.8).
 [^05-446]: The verse numbers of the *Padyavali* here and below are as in the editions of the *Bhakti-ratnakara*. Gorochana is a bright yellow fragrant pigment obtained from cows; tilaka is drawn with it.
-[^05-447]: The 1960 ed. has "কংসের আবাসে" (kamsera avase, "in Kamsa's abode"), the 1912/13 ed. (by the scan of A) "কংসের আরামে" (kamsera arame, "in Kamsa's garden / for Kamsa's pleasure"). Translated by the sense: Trinavarta is a demon sent by Kamsa.
+[^05-447]: The 1960 ed. has "কংসের আবাসে" (kamsera avase, "in Kamsa's abode"), the 1912/13 ed. "কংসের আরামে" (kamsera arame, "in Kamsa's garden / for Kamsa's pleasure"). Translated by the sense: Trinavarta is a demon sent by Kamsa.
 [^05-448]: Brahmanda-ghat ("the ghat of the universe") is a ghat on the Yamuna near Mahavana (Gokula).
 [^05-449]: Dhanishtha is one of the gopis, a maidservant in Nanda's house.
 [^05-450]: Shambhu is Shiva; the Lotus-born is Brahma; the enemy of Krauncha is Karttikeya (Skanda); the lord of the gods is Indra; the lord of wealth is Kubera. "Thoo-thoo" is the spitting with which the mother wards off the evil eye and evil spirits.
 [^05-451]: Saumitri is Lakshmana, the son of Sumitra. Hearing His mother's story, Krishna remembers His own pastime as Rama.
-[^05-452]: The verse begins in A (by the scan) «শ্যামোচ্চন্দ্রা স্বপিষি» (*śyāmocchandrā*: "the night (*śyāmā*) with the moon risen high"); the 1960 ed. reads «যামোচ্চন্দ্রা» (*yāmocchandrā*), which it explains as "the night is almost over". Either way the sense is late night. Narahari ("man-lion") is Nrisimha, who tore apart the Danava Hiranyakashipu.
+[^05-452]: The verse begins in A «শ্যামোচ্চন্দ্রা স্বপিষি» (*śyāmocchandrā*: "the night (*śyāmā*) with the moon risen high"); the 1960 ed. reads «যামোচ্চন্দ্রা» (*yāmocchandrā*), which it explains as "the night is almost over". Either way the sense is late night. Narahari ("man-lion") is Nrisimha, who tore apart the Danava Hiranyakashipu.
 [^05-453]: Yamalarjuna-bhanjana-tirtha ("the tirtha of the breaking of the twin arjuna trees") is the place where Krishna, tied to the mortar, dragged it between two arjuna trees and felled them, freeing Kuvera's sons Nalakuvara and Manigriva (*Bhag.* 10.10).
 [^05-454]: Gopishvara is Mahadeva (Shiva) in Mahavana.
 [^05-455]: Sapta-samudrika ("[the well] of the seven seas") is a well in Mahavana. Pinda is a memorial offering to the ancestors.
@@ -20005,9 +20005,9 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-464]: The *Sri Chaitanya-charita* is the Sanskrit poem of Murari Gupta (*Sri Krishna-chaitanya-charitamrita*). "In the second sarga" follows the 1912/13 ed.; in the 1960 ed. the introductory line has only "in the fourth prakrama". Sri Madhava is the Deity of Veni-madhava at Prayaga (cf. CC Madhya 17).
 [^05-465]: Akshaya-vata ("the imperishable banyan") is the sacred banyan at Prayaga; the Triveni is the confluence of the Ganga, Yamuna and Sarasvati there.
 [^05-466]: The 1960 ed. reads "জামদগ্ন্যো মহাত্মা চ" — "the great-souled son of Jamadagni", i.e. the lord of warriors is Parashurama himself.
-[^05-467]: Sakarauri — a village whose name is derived here from "সঙ্কলয়ে" ("they gathered together"). The 1912/13 ed. (by the scan of A) reads «সকরৌরী» (sakaraurī); the 1960 ed. «সকরেলী» (sakarelī).
+[^05-467]: Sakarauri — a village whose name is derived here from "সঙ্কলয়ে" ("they gathered together"). The 1912/13 ed. reads «সকরৌরী» (sakaraurī); the 1960 ed. «সকরেলী» (sakarelī).
 [^05-468]: In the verse Vrishabhanu is called vṛṣa-ravi (ravi = bhānu, "sun"). Kirtida is Radha's mother; Gandharva is Radha.
-[^05-469]: Krittika (kṛttikā; so also in A by the scan: «কৃত্তিকা উদরে») — here the name of Radha's mother; in verse 1811 she is Kirtida.
+[^05-469]: Krittika — here the name of Radha's mother; in verse 1811 she is Kirtida.
 [^05-470]: Subhanu is Vrishabhanu's brother (cf. 5.1203). Suchandrabhanu (sucandrabhānu) — possibly Chandrabhanu, Vrishabhanu's younger brother, with the prefix su- ("beautiful").
 [^05-471]: Vasudeva (vāsudeva) — here Krishna, the son of Vasudeva (vasudeva), the father spoken of in the second line.
 [^05-472]: Ambika-kanana ("Ambika's grove", Ambikavana) — a place near Mathura where the cowherds of Vraja worshipped Shiva and the goddess Ambika and where Krishna freed Nanda from the serpent (*Bhag.* 10.34). Here it is on the bank of the Krishna-ganga; Gokarna is the Shiva worshipped there (cf. 5.302–332).
@@ -20019,8 +20019,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-478]: Bhojana-sthala ("the place of the meal").
 [^05-479]: The four kinds of food — that which is chewed, sucked, licked and drunk. In the 1960 ed. "যাজ্ঞিকবিপ্র" — "of the sacrificing brahmanas"; in the 1912/13 ed. "যাজ্ঞিকবিজ্ঞ" — "of the learned sacrificers".
 [^05-480]: So in the 1912/13 ed. (dvādaśamam); the 1960 ed. reads dvādaśakam ("[of the] twelve"). Vrindavana is the twelfth in the Adi-varaha Purana's list of the twelve forests of Vraja.
-[^05-481]: *Bhag.* 10.11.28 — the number as in the 1960 ed.; the 1912/13 ed. (by the scan of A) has «১১ অধ্যায়ে ১২ শ্লোকঃ», apparently a misprint. The words of Upananda, who proposes that the cowherds move from Gokula to Vrindavana.
-[^05-482]: *Bhag.* 10.21.10 — the number as in the 1912/13 ed. (by the scan of A: «২১ অধ্যায়ে ১০ শ্লোকঃ»); the 1960 ed. has "১৭". The words of the gopis.
+[^05-481]: *Bhag.* 10.11.28 — the number as in the 1960 ed.; the 1912/13 ed. has «১১ অধ্যায়ে ১২ শ্লোকঃ», apparently a misprint. The words of Upananda, who proposes that the cowherds move from Gokula to Vrindavana.
+[^05-482]: *Bhag.* 10.21.10 — the number as in the 1912/13 ed.; the 1960 ed. has "১৭". The words of the gopis.
 [^05-483]: The Sushumna is the principal subtle channel (nadi) of the body in yoga teaching: since the forest is Krishna's body, the Yamuna (Kalindi) is called its Sushumna.
 [^05-484]: A yojana is four kroshas, so five yojanas are twenty kroshas; in 1905 Narahari resolves the difference from the popular "sixteen kroshas" by the inconceivable potency of the abode.
 [^05-485]: Pratima (pratimā) — a temple Deity: worldly people see in Govinda only the Deity in the temple, while His intimate ones see Krishna Himself.
@@ -20032,8 +20032,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-491]: So in the 1912/13 ed. (divyaṁ vraja-vayo-rūpam); the 1960 ed. reads divya-vrajyā-vayo-rūpam ("divine in gait, age and form"); likewise in 1935.
 [^05-492]: Prakritis — here, Krishna's feminine energies, His principal beloveds (Lalita and the others, 1939–1945).
 [^05-493]: The eight friends around the Yogapitha: in front (in the 1960 ed.'s anvaya, in the west) Lalita, in the north-west Shyamala, in the north Madhumati, in the north-east Dhanya (in the anvaya, Dhanishtha), in the east Vishakha, in the south-east Shaibya, in the south Padma, in the south-west Bhadra. The 1960 ed.'s anvaya takes "Hari's beloved" (haripriyā) with Vishakha; it may also be a separate name (cf. Haripriya in 1944).
-[^05-494]: Reading unclear: the 1960 ed. has sarvādhikā ("surpassing all"; in the anvaya, sarva-sādhikā, "accomplishing all that Krishna desires"); in A (by the scan, 500 dpi) the print is blurred: «সর্ব্ব[স]াধিকা», apparently sarva-sādhikā, as in the anvaya; translated after the text of the 1960 ed.
-[^05-495]: So in the 1912/13 ed. (by the scan of A: «ষোড়শী প্রকৃতিশ্রেষ্ঠা»); the 1960 ed. reads ṣoḍaśa-prakṛti-śreṣṭhā ("the best of the sixteen prakritis").
+[^05-494]: Reading unclear: the 1960 ed. has sarvādhikā ("surpassing all"; in the anvaya, sarva-sādhikā, "accomplishing all that Krishna desires"); in A the print is blurred: «সর্ব্ব[স]াধিকা», apparently sarva-sādhikā, as in the anvaya; translated after the text of the 1960 ed.
+[^05-495]: So in the 1912/13 ed.; the 1960 ed. reads ṣoḍaśa-prakṛti-śreṣṭhā ("the best of the sixteen prakritis").
 [^05-496]: In the 1960 ed. the number 1946 is skipped: 1947 follows directly after 1945; no text is missing in the 1912/13 ed.
 [^05-497]: In the standard numbering, *Bhakti-rasamrita-sindhu* 1.2.239; both editions have "১১১". Keshi-tirtha is a ghat on the Yamuna in Vrindavana where Krishna killed the demon Keshi.
 [^05-498]: "Exceedingly enchanting" follows the 1912/13 edition (*dvibhujāti manohara*, "two-armed, exceedingly…"); the 1960 edition reads *dvibhujādi*: "two-armed and so on — enchanting."
@@ -20052,14 +20052,14 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-511]: The rishi, the metre (chhandas), the devata, the shakti and the shadanga (sixfold nyasa, touching parts of the body with the mantra) are the required elements in the tantras' description of a mantra.
 [^05-512]: A lakh is a hundred thousand. A homa is a fire sacrifice; ghee is clarified butter. Kahlara (1981) is the white water lily.
 [^05-513]: Dhiroddhata ("steady and haughty"), dhirodatta ("steady and noble") and dhira-lalita ("steady and playful") are types of the hero-lover (nayaka) in poetics. Gopikanatha ("lord of the gopis") is Gopinatha.
-[^05-514]: The text of 1983–1987 is difficult; translated according to the 1912/13 edition (checked against the scan of A: «মাধুর্য্যং গোবিদাং পতৌ», «বাল্যতঃ সমতিক্রান্তঃ»), with the help of the anvaya of the 1960 edition. According to the 1960 edition, the Lord of the cowherds (*govidāṁ pati*) is Gopinatha, who abides in the ravine of Govardhana; it is Govinda who has gone beyond kaishora (1986–1987). Kandarpa is the god of love; here, amorous feeling.
+[^05-514]: The text of 1983–1987 is difficult; translated according to the 1912/13 edition, with the help of the anvaya of the 1960 edition. According to the 1960 edition, the Lord of the cowherds (*govidāṁ pati*) is Gopinatha, who abides in the ravine of Govardhana; it is Govinda who has gone beyond kaishora (1986–1987). Kandarpa is the god of love; here, amorous feeling.
 [^05-515]: Sangava is the time after early morning, about three muhurtas (2 h 24 min) after sunrise.
 [^05-516]: Ratna-mandapa: "jewelled pavilion"; Shringara-: "pavilion of amorous adornment"; Saubhagya-: "of good fortune"; Maha-madhurya-: "of great sweetness"; Samrajya- (1996): "of sovereignty"; Ananda-: "of bliss"; Surata-: "of amorous delights."
-[^05-517]: So in the 1912/13 edition (by the scan of A): «সাম্রাজ্যমণ্ডপং নাম তথা সুরতমণ্ডপং। আনন্দমণ্ডপং নাম তথা সুরতমণ্ডপং» — "Surata-mandapa" is named twice (the reading «মবলত» in the OCR copies is a distortion of «সুরত»). The 1960 edition lacks the half-verse with "Ananda-mandapa." The eight names are reached by counting also the epithets of 1994 ("Unassailable for Chandravali," "Temple of Radha's Good Fortune").
+[^05-517]: So in the 1912/13 edition: «সাম্রাজ্যমণ্ডপং নাম তথা সুরতমণ্ডপং। আনন্দমণ্ডপং নাম তথা সুরতমণ্ডপং» — "Surata-mandapa" is named twice. The 1960 edition lacks the half-verse with "Ananda-mandapa." The eight names are reached by counting also the epithets of 1994 ("Unassailable for Chandravali," "Temple of Radha's Good Fortune").
 [^05-518]: A patala is a chapter of a tantra.
 [^05-519]: Bhojana-tila: "the hill of the meal"; apparently the hill by Bhojana-sthali, where the brahmanas' wives fed Krishna, and from where Raghava spoke of Vrindavana and the Yogapitha.
 [^05-520]: Saubhari was a sage who performed austerities in the waters of the Yamuna; because of his curse Garuda could not fly here, and so the serpent Kaliya took refuge here from Garuda (*Bhag.* 10.17).
-[^05-521]: Gonarakha follows the 1912/13 edition (by the scan of A: «গোনরখ নাম গ্রাম জানে সর্ব্বজন»); the 1960 edition has "Sanarakha" (সনোরখ); cf. the present-day village of Sunrakh near Vrindavana, associated with Saubhari.
+[^05-521]: Gonarakha follows the 1912/13 edition; the 1960 edition has "Sanarakha" (সনোরখ); cf. the present-day village of Sunrakh near Vrindavana, associated with Saubhari.
 [^05-522]: Kaliya-hrada is the pool in the Yamuna at Vrindavana where the many-headed serpent Kaliya lived, subdued by Krishna (*Bhag.* 10.16); below it is also called Kaliya-tirtha, Kali-tirtha, Kali-hrada. The kadamba of play (*keli-kadamba*, 2002) is the tree by the pool from which Krishna leapt into the water.
 [^05-523]: Ramanaka-dvipa is an island in the ocean, Kaliya's former home (*Bhag.* 10.16–17).
 [^05-524]: The verse number follows the 1960 edition (*Bhag.* 10.16.62); the 1912/13 edition has "৫৫" (the fifty-fifth). Krishna speaks, addressing Kaliya.
@@ -20069,7 +20069,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-528]: The day of the Sun is Sunday; sankranti is the day the Sun enters a new sign of the zodiac.
 [^05-529]: Sanatana Gosvami's place is by the Dvadashaditya hill, where the temple of Madanamohana was later built.
 [^05-530]: Praskandana ("outflowing") is a tirtha and ghat on the Yamuna in Vrindavana, next to Dvadashaditya-tirtha described above; the name is explained in 2032–2034.
-[^05-531]: The text of the verse is corrupted in the OCR copies; the second half is translated from the scan of A: «তত্তৎকোমলসান্দ্রসুন্দরতরশ্রীমৎসদঙ্গোচ্ছলদ্গন্ধৈর্হারি সুবারি সুদ্যুতি» (tat-tat-komala-sāndra-sundaratara-śrīmat-sad-aṅgocchalad-gandhair hāri suvāri sudyuti).
+[^05-531]: (tat-tat-komala-sāndra-sundaratara-śrīmat-sad-aṅgocchalad-gandhair hāri suvāri sudyuti).
 [^05-532]: The 1960 edition reads "śrīkṛṣṇacaitanyābhinna" — "non-different from Sri Krishna Chaitanya". Advaita Acharya, the closest associate of Mahaprabhu, lived in Shantipura.
 [^05-533]: "Mādhavendra-purīśvara" — "the master Madhavendra Puri"; it can also be understood as "Madhavendra Puri [and] Ishvara [Puri]".
 [^05-534]: Shrihatta is present-day Sylhet (Bangladesh). Kuvera Pandita (in PV, Kuvera Acharya) is Advaita's father.
@@ -20106,8 +20106,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-565]: The Purusha-bodhini is a passage ascribed to the Atharva-veda, known from Vaishnava quotations. The syntax of the phrase ("ity anena") is unclear; the translation follows the explanation in 2196a. স্বমনু (*svamanu*) is taken as "His own mantra" (*manu*, mantra).
 [^05-566]: Not in the 1960 edition.
 [^05-567]: The *Vishnu-sahasra-nama* ("The Thousand Names of Vishnu") of the *Mahabharata* (Anushasana-parva); the 1960 edition adds "(*Mahabharata*, Dana-dharma) *Sri Vishnu-divya-sahasra-nama-stotra*." So also in 2209.
-[^05-568]: The words of Garga to Nanda (*Bhag.* 10.8.13). The verse number follows the 1960 edition; the 1912/13 edition (by the scan of A) has «৮ অধ্যায়ে ৯ শ্লোকঃ».
-[^05-569]: *Bhag.* 11.5.32. The verse number follows the 1960 edition; the 1912/13 edition (by the scan of A) has «৫ অধ্যায়ে ২৯ শ্লোকঃ».
+[^05-568]: The words of Garga to Nanda (*Bhag.* 10.8.13). The verse number follows the 1960 edition; the 1912/13 edition has «৮ অধ্যায়ে ৯ শ্লোকঃ».
+[^05-569]: *Bhag.* 11.5.32. The verse number follows the 1960 edition; the 1912/13 edition has «৫ অধ্যায়ে ২৯ শ্লোকঃ».
 [^05-570]: The 1960 edition reads "Who can tell of the pastimes of the Lord?"
 [^05-571]: Akrura is Akrura-tirtha (see 1857). Cf. CC Madhya 18: because of the crowds in Vrindavana Mahaprabhu stayed at Akrura-tirtha, took His meals there and sat beneath a tamarind (Imli-tala).
 [^05-572]: Krishnadasa, a Rajput, became Mahaprabhu's servant in Vraja and accompanied Him to Prayaga (CC Madhya 18).
@@ -20123,7 +20123,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-582]: That is, Lakshmipati does not want to separate Krishna from Balarama and serve Krishna alone as distinct from Baladeva.
 [^05-583]: The initiation of Nityananda by Lakshmipati is told in the *Bhakti-ratnakara*; the CC and CB do not mention it.
 [^05-584]: The source of the verse is not named.
-[^05-585]: Pandura (Pandurapura) is Pandharpur, where Lakshmipati gave Nityananda initiation (above). A (by the scan) reads «পাণ্ডুরগ্রামীর ভক্তি কহনে না যায়» (pāṇḍura-grāmīr, "of the people of Pandura"); garbled in the OCR of the 1960 edition.
+[^05-585]: Pandura (Pandurapura) is Pandharpur, where Lakshmipati gave Nityananda initiation (above). A reads «পাণ্ডুরগ্রামীর ভক্তি কহনে না যায়» (pāṇḍura-grāmīr, "of the people of Pandura"); garbled in the 1960 edition.
 [^05-586]: Pratichi-tirtha — lit. "the western tirtha"; the place has not been identified. On Nityananda's travels and His meeting with Madhavendra Puri see CB Adi 9.
 [^05-587]: Couplets 2333 and 2334 are from CB Adi 9 (chapter not verified).
 [^05-588]: Setubandha is the site of Rama's "bridge" in South India; Rameshvara is the Shiva-linga installed there by Rama.
@@ -20142,7 +20142,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-601]: Vamshivata — "the banyan of the flute": from here Krishna called the gopis with His flute to the rasa dance.
 [^05-602]: The text does not say which Gosvami.
 [^05-603]: Krishna's meeting with the gopis, His questions and His advice to return home (2389) — Bhag. 10.29.
-[^05-604]: অসমতা (asamatā; so in A by the scan: «রাসারম্ভে অসমতা দেখি গোপীগণে») — lit. "inequality" (or "disagreement"); the sense is unclear: perhaps the pride of the gopis (Bhag. 10.29) or the inequality between Radha and the other gopis. Krishna's disappearance, the search, the gopis' song and His return (2390–2398) — Bhag. 10.29–32.
+[^05-604]: অসমতা — lit. "inequality" (or "disagreement"); the sense is unclear: perhaps the pride of the gopis (Bhag. 10.29) or the inequality between Radha and the other gopis. Krishna's disappearance, the search, the gopis' song and His return (2390–2398) — Bhag. 10.29–32.
 [^05-605]: The rasa dance — Bhag. 10.33.
 [^05-606]: A kalpa is a day of Brahma, an immense span of time. Vyasa describes the rasa in the *Bhagavatam* (Tenth Canto, chapters 29–33).
 [^05-607]: *Bhag.* 10.33.2–10 (here 2403–2411). Modes (svara-jāti) are melodic series; dhruva is a kind of song and its measure (tala).
@@ -20158,9 +20158,9 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-617]: Sangita is music in the broad sense: song, instrumental music and dance (see 2494–2497). From 2486 Raghava begins an exposition of the theory of music.
 [^05-618]: Isha is Shiva; Nandi is Shiva's attendant; Bharata is the sage to whom the *Natya-shastra* is ascribed; Kohala is an ancient teacher of music and drama; Dashasya ("the Ten-faced") is Ravana; Rambha is an apsara.
 [^05-619]: The *Sangita-parijata*, *Sangita-shiromani*, *Sangita-sara*, *Sangita-damodara* and *Sangita-muktavali* (2496–2532) are Sanskrit treatises on music; the editions give no verse numbers. No source is named for the verses 2489, 2491 and 2493.
-[^05-620]: *Tat tiryaṅ-nara-devādi-manohāri*: so in A (by the scan: «তত্তির্য্যঙ্‌নরদেবাদিমনোহারি প্রকীর্ত্তিতং»).
+[^05-620]: *Tat tiryaṅ-nara-devādi-manohāri*: so in A.
 [^05-621]: Nada is sound as the basis of music; svara is a musical tone (note); raga is a melodic mode.
-[^05-622]: Anjaneya ("the son of Anjana") is Hanuman, to whom tradition ascribes one of the schools of Indian music. So in A (by the scan: «আঞ্জনেয়ঃ») and B; G has *āgneya*. The gourd is the resonator of the vina with which Sarasvati is depicted.
+[^05-622]: Anjaneya ("the son of Anjana") is Hanuman, to whom tradition ascribes one of the schools of Indian music. So in A and B; G has *āgneya*. The gourd is the resonator of the vina with which Sarasvati is depicted.
 [^05-623]: A play on words: *nāda* = *na* + *da*. In the original fire is called *havya-vāhana* ("the bearer of oblations").
 [^05-624]: Mandra, madhya and tara are the low, middle and high registers of the voice.
 [^05-625]: The trivarga is the three aims of life: dharma, artha and kama; the chaturvarga is the four, with moksha added.
@@ -20171,13 +20171,13 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-630]: Nadis are the channels of the subtle body.
 [^05-631]: Shadja, rishabha, gandhara, madhyama, panchama, dhaivata and nishada are the seven svaras of the Indian scale, abbreviated sa, ri, ga, ma, pa, dha, ni (see 2576–2577).
 [^05-632]: The names of the shrutis (2557–2565) are translated according to A/B/C. The 1960 edition has Chalanika instead of Kandalika (in rishabha), Sarasa instead of Saragha (in gandhara), Madhavi instead of Magadhi (in madhyama), Jaya instead of Mata (Yata) (in dhaivata), and Matra instead of Vijaya (in nishada).
-[^05-633]: In 2561 A/B/C have *mātā* (Mata), in the verse 2564 *yāta-rasāmṛtā* (Yata); the 1960 edition has *jāyā* (Jaya) in both places. The readings of A are checked against the scan («মাতা রসা অমৃতে ধৈবতে», «যাতরসামৃতা চেতি»).
-[^05-634]: So in A/B/C (*brahmāṇḍa*, "the universe"; in A by the scan: «ব্রহ্মাণ্ড না জানে»); the 1960 edition has *brahmāo* ("even Brahma"); cf. the verse 2569.
-[^05-635]: Yoga-rudha is a word whose meaning is both derived from its components (yoga) and fixed by usage (rudhi). "Manifesting" follows A/B/C (*sphuran*); the 1960 edition has *svanan* ("sounding"). In the last line the scan of A reads «যস্মাদ্রঞ্জয়ন্তি» (*yasmād rañjayanti*, "delight"; garbled in the OCR copies).
+[^05-633]: In 2561 A/B/C have *mātā* (Mata), in the verse 2564 *yāta-rasāmṛtā* (Yata); the 1960 edition has *jāyā* (Jaya) in both places. The readings of A are («মাতা রসা অমৃতে ধৈবতে», «যাতরসামৃতা চেতি»).
+[^05-634]: So in A/B/C; the 1960 edition has *brahmāo* ("even Brahma"); cf. the verse 2569.
+[^05-635]: Yoga-rudha is a word whose meaning is both derived from its components (yoga) and fixed by usage (rudhi). "Manifesting" follows A/B/C (*sphuran*); the 1960 edition has *svanan* ("sounding"). In the last line the edition of A reads «যস্মাদ্রঞ্জয়ন্তি».
 [^05-636]: A play on words: *ṣaḍ-ja*, "born of six."
 [^05-637]: Damodara is an authority on music, the author of a treatise; which one is not stated in the text. A nadi is a channel of the subtle body (see 2547).
-[^05-638]: *Ṛṣabha* also means "bull." A (by the scan), B and C have *ṛṣabhasyeti*, the 1960 edition *vṛṣabhasyeva* ("like a bull's"); translated according to the 1960 edition (the sense is clearer).
-[^05-639]: "In the throat and in the ear": so in A (by the scan: «বায়ুর্গলে শ্রোত্রে চ চালয়ন্») and B; the 1960 edition has *gandhaṁ…* ("fragrance").
+[^05-638]: *Ṛṣabha* also means "bull." A, B and C have *ṛṣabhasyeti*, the 1960 edition *vṛṣabhasyeva* ("like a bull's"); translated according to the 1960 edition (the sense is clearer).
+[^05-639]: "In the throat and in the ear": so in A and B; the 1960 edition has *gandhaṁ…* ("fragrance").
 [^05-640]: Prana, apana, samana, udana and vyana are the five vital airs (pranas) of the body.
 [^05-641]: A play on words: madhyama is "the middle one" (from "the middle place," 2589); panchama is "the fifth," from the five pranas (2590); dhaivata echoes *dhāvan* ("running," 2592); nishada comes from *niṣīdanti* ("they sit down").
 [^05-642]: The chataka is a bird believed to drink only rainwater; the krauncha is a heron.
@@ -20192,19 +20192,19 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-651]: All copies read *tāla* here and below (2645–2657); the 1960 edition adds "(tanas)" to the heading and has *tāna* in the verses 2650–2652. In content these are the tanas, melodic sequences derived from the murchhanas (cf. 2538–2539); the kuta-tanas (*kūṭa-tāna*) are composite tanas obtained by permuting the svaras.
 [^05-652]: Damodara is a theorist of music; the source of the quotation is not identified.
 [^05-653]: The Agnishtoma is a Vedic soma sacrifice; in the treatises on music the pure tanas bear the names of Vedic sacrifices. "Becomes auspicious" is *śivo bhavet*, a play on words: after praising Shiva one "becomes shiva (auspicious)."
-[^05-654]: So in A (by the scan: «সন্তি প্রয়োগবৈধুর্য্যান্ন ময়া তাঃ প্রকীর্ত্তিতাঃ»; *prayoga-vaidhuryān na*, "owing to unfitness for practice — not"); the 1960 edition has *vaidhuryāya*, C *vaidhuryām*.
+[^05-654]: So in A; the 1960 edition has *vaidhuryāya*, C *vaidhuryām*.
 [^05-655]: Varna is the character of melodic movement: sthayi, arohi, avarohi and sanchari (see 2659–2665).
-[^05-656]: *Sthāyy-anugatārtha*: so in A (by the scan: «স্থায্যনুগতার্থ»), B, C; understood after the verse 2664: the names arohi ("ascending") and avarohi ("descending") speak for themselves.
+[^05-656]: *Sthāyy-anugatārtha*: so in A, B, C; understood after the verse 2664: the names arohi ("ascending") and avarohi ("descending") speak for themselves.
 [^05-657]: Alankara (lit. "ornament") is a melodic figure, an ordered combination of svaras; below (2674–2693) examples are given for each kind of varna.
 [^05-658]: The couplet 2679 has "Prachchhadana"; the verse has *sandhi-pracchādana* (A, B, C *sandhiḥ pracchādanam*).
-[^05-659]: A (by the scan: «আদ্যং স্বরং চতুর্ব্বারং দ্বিবারঞ্চ তৃতীয়কং») and B read *dvivāraṃ ca tṛtīyakam* ("the third twice"); the 1960 edition has *ādyaṃ svaraṃ dvivāraṃ ca caturvāraṃ dvitīyakam* ("the first twice, the second four times"). Translated according to the sense of the couplet 2681 and the example.
+[^05-659]: A and B read *dvivāraṃ ca tṛtīyakam* ("the third twice"); the 1960 edition has *ādyaṃ svaraṃ dvivāraṃ ca caturvāraṃ dvitīyakam* ("the first twice, the second four times"). Translated according to the sense of the couplet 2681 and the example.
 [^05-660]: "The lion's backward glance" (*siṃhāvalokana*) is a turn in which the melody, having moved forward, returns to its beginning, like a lion looking back over the way it has come.
 [^05-661]: The vadi ("the sounding one") is the chief tone of a raga; here it is identified with the amsha-svara.
 [^05-662]: Not in the 1960 edition. The *Gita-prakasha* is a treatise on music.
 [^05-663]: So in the 1912/13 edition. In the 1960 edition the attributions are transposed: verse 2705 is assigned to the *Sangita-parijata*, and 2706 is introduced with "And further."
 [^05-664]: Shuddha means "pure," vikrita "modified," sankirna "mixed."
 [^05-665]: The words "Others [say]: 'Thus [the jatis] are twofold'" are not in the 1960 edition. Harinayaka is the author of a treatise on music. The eighteen are the seven shuddha and the eleven vikrita (2722–2725).
-[^05-666]: A (by the scan: «গান্ধারী পঞ্চমান্ধ্রীচ ষড়্জাপি চবতী তথা») and B read *ṣaḍjāpi cavatī*, the 1960 edition *ṣaḍjāpi dhaivatī* ("and also Shadja and Dhaivati"); the reading is corrupt. Translated as *ṣaḍjodīcyavatī*: Dhaivati has already been named among the shuddha (2722), and in the treatises Shadjodichyavati is among the eleven vikrita.
+[^05-666]: A and B read *ṣaḍjāpi cavatī*, the 1960 edition *ṣaḍjāpi dhaivatī* ("and also Shadja and Dhaivati"); the reading is corrupt. Translated as *ṣaḍjodīcyavatī*: Dhaivati has already been named among the shuddha (2722), and in the treatises Shadjodichyavati is among the eleven vikrita.
 [^05-667]: So in all copies (*kārmāvarī*, *gāndhārodīccarā*, *madhyamodīccarā*); the treatises usually have Karmaravi, Gandharodichyava, Madhyamodichyava.
 [^05-668]: The 1960 edition's paraphrase takes *śuddhā-siddhā-vikṛtānām* as "the shuddha, siddha and vikrita"; cf. 2726, where the vikrita are derived from the union of shuddha.
 [^05-669]: So in the 1960 edition (*sahasra*, cf. the verse 2738); the 1888 and 1912/13 editions have *sahaja* ("natural"), probably a misprint. Meru is the world mountain at the centre of the universe.
@@ -20212,27 +20212,27 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-671]: Raginis are female ragas, the "consorts" of the male ragas.
 [^05-672]: In the 1888 edition this verse is preceded by a further half-verse: "Only six ragas are named, and thirty raginis."
 [^05-673]: So in the 1912/13 edition (*bhāṣā*); the 1960 edition has Vibhasha.
-[^05-674]: The names in 2751–2757 follow the 1912/13 edition (checked against the scan of A); the 1960 edition has Sindhuda (2752), Purabi, Kanada, Koda (2753), Veloyari, Vairagi (2754), Pahida (2756).
+[^05-674]: The names in 2751–2757 follow the 1912/13 edition; the 1960 edition has Sindhuda (2752), Purabi, Kanada, Koda (2753), Veloyari, Vairagi (2754), Pahida (2756).
 [^05-675]: The 1960 edition's paraphrase takes *vīṇayā* as "she who holds the vina," that is, Sarasvati.
 [^05-676]: Sampurna ("full") is a raga of seven svaras, shadava one of six, audava one of five.
 [^05-677]: So in the 1888 and 1912/13 editions (*nāṭa-ghaṇṭāravo*); the 1960 edition has "Nata, Ghanta-raga." *Bhūpatī* is the reading of G and C; B has *bhūpakṣī*.
 [^05-678]: The *Kohaliya* is a treatise ascribed to Kohala (see 2493).
 [^05-679]: Here and below are names of ragas. Dhannasika is the raga Dhanashri. *Deśākhyāśāvarī* is taken, as in the 1960 edition's paraphrase, as two ragas: Desha (*deśākhyā*, "called Desha") and Ashavari.
 [^05-680]: Harinayaka is a medieval theorist of music (cf. 2789, 2827, 2842).
-[^05-681]: *Tārā-ṣālaga-gauḍakaḥ*: so in A (by the scan: «শ্রীকণ্ঠশ্চৈব ভৌলীচ তারাষালগগৌড়কঃ») and the 1960 edition; taken as three ragas: Tara, Shalaga, Gaudaka.
+[^05-681]: *Tārā-ṣālaga-gauḍakaḥ*: so in A and the 1960 edition; taken as three ragas: Tara, Shalaga, Gaudaka.
 [^05-682]: Audava is a raga of five svaras, as shadava is a raga of six (2774–2780).
 [^05-683]: That is, the raga Pratapa-saindhavi (the 1960 edition's paraphrase has "Pratapasindhu"); "the second" is apparently a second variety of Saindhavi.
 [^05-684]: The copies read *turaska* (G), *turakṣa* (A, B, C); the usual form is *turuṣka*, Turushka.
 [^05-685]: Sankirna ("mixed") ragas are those arising from the union of two or more ragas (2790).
-[^05-686]: So in A (by the scan: «সমুৎপন্না মুখাবরী»), B, C (*mukhāvarī*); the 1960 edition has Sukhavari (*sukhāvarī*).
-[^05-687]: So in G (*raṅga-bhūmau*, "on the stage"); the 1912/13 edition (by the scan of A: «বঙ্গভূমৌ») has *vaṅga-bhūmau* ("in the land of Banga"), apparently a misprint.
+[^05-686]: So in A, B, C (*mukhāvarī*); the 1960 edition has Sukhavari (*sukhāvarī*).
+[^05-687]: So in G (*raṅga-bhūmau*, "on the stage"); the 1912/13 edition has *vaṅga-bhūmau* ("in the land of Banga"), apparently a misprint.
 [^05-688]: A danda is a measure of time of 24 minutes; ten dandas are four hours.
 [^05-689]: Anibaddha ("unbound") is free singing not held together by bandha (construction from parts, metre and words); nibaddha ("bound") is song built from dhatus and angas (2838). Alapa is the unhurried unfolding of a raga without tala.
 [^05-690]: Varnalankara is ornamentation with syllables: meaningless syllables ("a-ta-na-ri" and the like) or the names of the svaras (sa, ri, ga, ma, pa, dha, ni); see 2824, 2828.
 [^05-691]: Hunkara is the sound "hum," an inarticulate utterance of the voice. Hara is Shiva; Gauri is his consort.
 [^05-692]: A gamaka is a melodic ornament (oscillation, sliding of the tone).
 [^05-693]: The Queen of Vrindavana (Vrindavaneshvari) is Radha.
-[^05-694]: Angas are the component parts of a song. Shuddha ("pure"), chhayalaga ("bearing the shadow [of another]") and kshudra ("small") are the three kinds of nibaddha. So in G (*chāyālaga*); A (by the scan: «শুদ্ধা, ছায়া নগ ক্ষুদ্র», «ছায়া নগং»), B, C have "ছায়া নগ" (*chāyā naga*), apparently a misprint of the old editions.
+[^05-694]: Angas are the component parts of a song. Shuddha ("pure"), chhayalaga ("bearing the shadow [of another]") and kshudra ("small") are the three kinds of nibaddha. So in G (*chāyālaga*); A, B, C have "ছায়া নগ" (*chāyā naga*), apparently a misprint of the old editions.
 [^05-695]: Salaga (in the treatises usually *sālaga*) is the same as chhayalaga; sankirna here is kshudra (2844).
 [^05-696]: A play on words: *prabandha* — *prakṛṣṭa bandha*, "excellent construction."
 [^05-697]: Prabandha, vastu and rupaka are three names for a song composition (nibaddha): prabandha has four dhatus and six angas, vastu three dhatus and five angas, rupaka two dhatus and two angas (see 2850–2852). The angas are the constituent elements of a song (see 2872–2884).
@@ -20246,35 +20246,35 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-705]: Svara is the notes (sa, ri, ga…); biruda is laudatory epithets naming qualities; pada is meaningful words; tenaka (tena) is the auspicious syllables "tena"; patha is syllables imitating the sound of instruments (drums); tala is the rhythmic cycle.
 [^05-706]: Chachchatputa, yati and adi (2881) are names of talas.
 [^05-707]: Here jati is a class of prabandha by the number of its angas (compare the other sense of the word in 2541–2543). The muni, according to the 1960 edition, is Bharata.
-[^05-708]: All copies (A by the scan: «তালেনৈকেন বাদ্যাভ্যাং ত্রিভির্বা») read *vādyābhyām* ("with two instruments"); from the sense (compare "prabandhas with many talas" in 2896) *dvābhyām* ("with two [talas]") is possible.
+[^05-708]: All copies read *vādyābhyām* ("with two instruments"); from the sense (compare "prabandhas with many talas" in 2896) *dvābhyām* ("with two [talas]") is possible.
 [^05-709]: The shuka is a parrot, the shari his mate (a female parrot or myna), and the cuckoo (pika) the Indian koel. The birds sing songs of the medini (2903–2907, 2908–2911) and nandini (2912–2914) types, which contain the angas: words, biruda epithets, svaras ("sa ri ga"), tena ("tenna"), patha ("dha dha"); syllables without meaning are rendered by their sound.
 [^05-710]: The Daughter of the Ocean is Lakshmi.
-[^05-711]: The syllables are given after G and B, checked against the scan of A («ঝান্তা ঝাং ঝান্তা তাথা বিত কতো থুন্না দৃমিকি ত্রিগও তকতা তা থৈয়া»); G "বান্তা বাং ঝান্তা তাখা বিতকতো থুন্না দৃমকি ত্রিগও তকতা তা থৈয়া," B "ঝাসন্তা ঝাং ঝান্তা তাখা বিত কতো থুন্না দুমিকি…".
+[^05-711]: The syllables are given after G and B of A («ঝান্তা ঝাং ঝান্তা তাথা বিত কতো থুন্না দৃমিকি ত্রিগও তকতা তা থৈয়া»); G "বান্তা বাং ঝান্তা তাখা বিতকতো থুন্না দৃমকি ত্রিগও তকতা তা থৈয়া," B "ঝাসন্তা ঝাং ঝান্তা তাখা বিত কতো থুন্না দুমিকি…".
 [^05-712]: The sense of the word "shakti" (*śakti*, "power, capacity"; in the 1960 edition শাক্তি) is unclear here; translated literally.
 [^05-713]: Ela is one of the classical prabandhas (complex song forms); next (2918–2927) twenty-six prabandhas are listed.
-[^05-714]: The names of the prabandhas are given as in the text; the readings of several are unclear (OCR): স্বরাদ্যকরণং (Svaradya-karana); বর্তন্যথ — B বদ্ধন্যথ, G বত্মস্যিথ, C বর্মন্যথ, understood as *vartany atha* ("then Vartani"); মাতিলক (possibly Umatilaka); সিংহনীল (possibly Simhalila). Angacharini (*aṅga-cāriṇī*) may be not a separate name but a qualifier of Varnasvara (compare its four varieties in 2918–2919).
-[^05-715]: So in A (by the scan: «লাহড়ী চ প্রকীর্ত্তিতা … তথা সরভনীলকঃ»): "লাহড়ী" (*lāhaḍī*, Lahadi); "সরভনীলক" (*sarabhanīlaka*; possibly Sharabhalila — cf. the name of a tala in 2968). Here the list of the twenty-six prabandhas (2921–2927) ends.
+[^05-714]: The names of the prabandhas are given as in the text; the readings of several are unclear: স্বরাদ্যকরণং (Svaradya-karana); বর্তন্যথ — B বদ্ধন্যথ, G বত্মস্যিথ, C বর্মন্যথ, understood as *vartany atha* ("then Vartani"); মাতিলক (possibly Umatilaka); সিংহনীল (possibly Simhalila). Angacharini (*aṅga-cāriṇī*) may be not a separate name but a qualifier of Varnasvara (compare its four varieties in 2918–2919).
+[^05-715]: So in A: "লাহড়ী" (*lāhaḍī*, Lahadi); "সরভনীলক" (*sarabhanīlaka*; possibly Sharabhalila — cf. the name of a tala in 2968). Here the list of the twenty-six prabandhas (2921–2927) ends.
 [^05-716]: Svarartha ("meaning [from] the svaras") is a prabandha in which the desired meaning is expressed by the syllables of the svaras alone (sa, ri, ga, ma, pa, dha, ni), see 2931; shuddha means "pure," mishra "mixed."
 [^05-717]: The indication of the raga ("রাগঃ কেদার") is in B; the 1960 edition does not have it. The song 2933–2936 is an example of the svarartha prabandha sung by the bee (2929–2932).
-[^05-718]: The second half of the line follows the scan of A: «ব্রজরমণীমণি-মুখপদ্ম পরিমল লুব্ধ বঙ্ক রতন সমা» (*lubdha* "greedy, enamoured," *baṅka* "graceful," *ratana-samā* "like a jewel"; the OCR of copy B has «নিব … সগা»). In the OCR of the 1960 edition this half and the first half of 2936 are lost.
+[^05-718]: The second half of the line follows the edition of A: «ব্রজরমণীমণি-মুখপদ্ম পরিমল লুব্ধ বঙ্ক রতন সমা».
 [^05-719]: Ghanashyama is the author's second name, Narahari. The svara syllables follow the 1960 edition ("পমগমম্মগরি মপধনিপধনিধা"); in B the line is corrupt.
 [^05-720]: Shuda (in the treatises *sūḍa*) is a song form woven of many talas (2941–2942).
 [^05-721]: All copies read "সংজ্ঞা রসালগ" (*saṃjñā rasālaga*); understood as *saṃjñār sālaga* ("the term… salaga"), cf. 2944. Salaga is the same term as in 2843.
-[^05-722]: Dhruvaka, manthaka and the rest are kinds of salaga shuda. "বাসক" (*vāsaka*): so in A (by the scan: «বাসকঃ প্রতিতালশ্চ», «চত্বারো বাসকাঃ»), C and the 1960 edition; possibly the *rāsaka* of the treatises.
+[^05-722]: Dhruvaka, manthaka and the rest are kinds of salaga shuda. "বাসক" (*vāsaka*): so in A, C and the 1960 edition; possibly the *rāsaka* of the treatises.
 [^05-723]: The nine kinds (2946) and ten more give nineteen. The 1960 edition reads "ভুবি" ("on earth") instead of "ভুরি" ("a multitude").
-[^05-724]: So in A (by the scan: «আদির্যতির্নসারুশ্চাড্ডতালস্ত্রিপুটস্তথা»): "নসারু" (*nasāru*; G "ন্সারু"); "চাজ্ঞতাল" is understood as *cāḍḍatāla* ("and also addatala"); the 1960 edition's translation has "অজ্ঞ" (*ajña*).
+[^05-724]: So in A: "নসারু" (*nasāru*; G "ন্সারু"); "চাজ্ঞতাল" is understood as *cāḍḍatāla* ("and also addatala"); the 1960 edition's translation has "অজ্ঞ" (*ajña*).
 [^05-725]: The 1960 edition reads "গতিশুদ্ধি" ("purity of movement") instead of "গীতশুদ্ধি" ("purity of song").
 [^05-726]: Isha ("the Lord") is Shiva; Girija ("Daughter of the Mountain") is Parvati, Shakti. Ghañ is a suffix of Sanskrit grammar.
 [^05-727]: Sharajanma ("born in the reeds") is Kartikeya, the son of Shiva; Maruta is the god of the wind. "A" is the long vowel in the word *tāla*.
 [^05-728]: Vachaspati is an author whom Narahari cites; his treatise has not been identified.
-[^05-729]: The names of the talas follow A/B/C; in the 1960 edition a number of readings differ: "চচ্চৎপুট" (A/C "চঞ্চৎপুট"; the usual chachchatputa is adopted, cf. 2876), "রঙ্গলীল", "হংসলীল", "বর্ণলীল" (A/B/C "-নীল"). Many names are distorted by OCR.
-[^05-730]: A (by the scan: «জয়তালঃ সুদুর্ব্বলঃ»), B, C read "সুদুর্বলঃ" (*sudurbala*); the 1960 edition reads "কুড়ুককঃ" (*kuḍukkaka*, kudukkaka).
-[^05-731]: A (by the scan: «সান্দীকুন্দমুকুন্দকৌ»), B and the 1960 edition read "সান্দীকুন্দ" (*sāndīkunda*), C "নান্দীকুন্দ" (*nāndīkunda*).
-[^05-732]: Not in the 1960 edition: there the second half of 2975 is "তস্মাদুপরি বিজ্ঞেয়ঃ পার্বতীলোচনস্তথা" (the text between the two occurrences of "বিজ্ঞেয়" is skipped). Text from A (by the scan): «… রাজনারায়ণস্তস্মাদ্বিদ্বদ্ভিঃ পরিকীর্ত্তিতঃ» (*vidvadbhiḥ parikīrtitaḥ*, "declared by the learned"); «বিদ্বপ্তি» in the OCR of copy B is a distortion, not the name of a tala.
+[^05-729]: The names of the talas follow A/B/C; in the 1960 edition a number of readings differ: "চচ্চৎপুট" (A/C "চঞ্চৎপুট"; the usual chachchatputa is adopted, cf. 2876), "রঙ্গলীল", "হংসলীল", "বর্ণলীল" (A/B/C "-নীল").
+[^05-730]: A, B, C read "সুদুর্বলঃ" (*sudurbala*); the 1960 edition reads "কুড়ুককঃ" (*kuḍukkaka*, kudukkaka).
+[^05-731]: A, B and the 1960 edition read "সান্দীকুন্দ" (*sāndīkunda*), C "নান্দীকুন্দ" (*nāndīkunda*).
+[^05-732]: Not in the 1960 edition: there the second half of 2975 is "তস্মাদুপরি বিজ্ঞেয়ঃ পার্বতীলোচনস্তথা" (the text between the two occurrences of "বিজ্ঞেয়" is skipped). Text from A: «… রাজনারায়ণস্তস্মাদ্বিদ্বদ্ভিঃ পরিকীর্ত্তিতঃ» (*vidvadbhiḥ parikīrtitaḥ*, "declared by the learned"); not the name of a tala.
 [^05-733]: A matra is a unit of time. Anudruta, druta, laghu, guru and pluta are the five angas (measures) of tala: a quarter matra, half a matra, one, two and three matras (2982).
-[^05-734]: The signs in A (by the scan): «( আকারো যথা—, ।, ৬, । । ।, )» — apparently some of the signs did not print; the 1960 edition has "লঘু (), গুরু (৬), পুত (0)"; the Bengali translation of the 1960 edition gives laghu "|", guru "৬", pluta "||".
-[^05-735]: "সাবধিক" (so in A by the scan: «এতেষাং সাবধিকঘাতস্থানমাহ») — meaning unclear; understood as *sāvadhika* ("with measure").
-[^05-736]: A (by the scan) reads «দ্রুতাশ্রয়স্তু কথিতং চতুরঙ্গুলমুচ্ছ্রিতং» (*drutāśrayas tu*, "for druta, however"); translated by the sense ("for the one called druta").
+[^05-734]: The signs in A: «( আকারো যথা—, ।, ৬, । । ।, )» — apparently some of the signs did not print; the 1960 edition has "লঘু (), গুরু (৬), পুত (0)"; the Bengali translation of the 1960 edition gives laghu "|", guru "৬", pluta "||".
+[^05-735]: "সাবধিক" — meaning unclear; understood as *sāvadhika* ("with measure").
+[^05-736]: A reads «দ্রুতাশ্রয়স্তু কথিতং চতুরঙ্গুলমুচ্ছ্রিতং» (*drutāśrayas tu*, "for druta, however"); translated by the sense ("for the one called druta").
 [^05-737]: The 1960 edition reads "চানুদ্রুতঃ" ("and anudruta"), which agrees with the beginning of the verse, where druta is of four fingers.
 [^05-738]: A sounded (*saśabda*) stroke is a clap; a soundless (*niḥśabda*) one is a movement of the hand without sound.
 [^05-739]: The 1960 edition reads: "in pluta, one sounded, six soundless in it" ("ছয়" instead of "দ্বয়"); the Sanskrit verse 2991 confirms two soundless strokes.
@@ -20288,40 +20288,40 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-747]: Graha ("seizing") is the entry of the tala relative to the beginning of the song (3029–3037); laya is tempo (3038–3042); yati is the order in which the tempo is carried (3043–3046); mana is the concluding action of the tala (3047–3051).
 [^05-748]: নয় means "nine" or possibly a negation ("not [only]"); eleven qualities are listed in 3022–3024 and 3026; the sense is unclear.
 [^05-749]: Anagata ("not yet come"), sama ("simultaneous"), atita ("past").
-[^05-750]: All copies (A by the scan: «বিন্যস্য গীয়তে তালস্তদা তালগ্রহঃ স্মৃতঃ») read তালগ্রহঃ (*tālagrahaḥ*, "tala graha"); from the sense (the definition of atita graha) one would expect *tadātītagrahaḥ* ("then — atita graha"). Kala is a beat (unit of time) of the tala.
-[^05-751]: The last word of the first line is, by the scan of A, apparently «স্ফুরিতে» (*sphurite*, "is manifest"; the OCR copies have স্থরিতে, হরিতে, C স্রিতে). Druta ("fast"), vilambita ("slow"), madhya ("middle") are the kinds of tempo.
+[^05-750]: All copies read তালগ্রহঃ (*tālagrahaḥ*, "tala graha"); from the sense (the definition of atita graha) one would expect *tadātītagrahaḥ* ("then — atita graha"). Kala is a beat (unit of time) of the tala.
+[^05-751]: The last word of the first line is, by the edition of A, apparently «স্ফুরিতে». Druta ("fast"), vilambita ("slow"), madhya ("middle") are the kinds of tempo.
 [^05-752]: Vachaspati is a theorist of music whom Narahari quotes; his treatise is not named.
 [^05-753]: Yati here is a quality of song, the order in which the laya (tempo) is carried, not the name of a tala as in 2881. Srotovaha ("flowing as a stream"), sama ("even"), gopuchchhika ("[like] a cow's tail").
-[^05-754]: Avarta is a cycle (round) of the tala; vardhamana ("increasing"), hiyamana ("decreasing"). In A (by the scan: «দ্বিতীয় আবর্ত্ত বর্দ্ধমানাখ্য নির্দ্ধার») and B, 3048 has vardhamana, as in 3047; translated after the 1960 edition and verse 3051 — hiyamana.
+[^05-754]: Avarta is a cycle (round) of the tala; vardhamana ("increasing"), hiyamana ("decreasing"). In A and B, 3048 has vardhamana, as in 3047; translated after the 1960 edition and verse 3051 — hiyamana.
 [^05-755]: The names of the gamakas are given as in the text; in other treatises several of them are known in the forms lina (nila), kurula (kuvala), ullasita (unnamita).
 [^05-756]: The damaru is a small hourglass-shaped drum. Druta and laghu are measures of duration in the tala (a laghu is twice as long as a druta).
 [^05-757]: Prolonged singing — *pluta*, an overlong sound.
 [^05-758]: Magha and Pausha are winter months (December to February).
 [^05-759]: Couplets 3069a–3069b are not in the 1960 edition; they are in the 1912/13 edition (A, B).
-[^05-760]: So in A (by the scan: «নোক্তাস্তে চেদ্গ্রহস্তেষাং জ্ঞানে তত্ত্বিলোক্যতাং») and B: জ্ঞানে (*jñāne*, "in knowledge"); the 1960 edition has গানে ("if they appear in singing, let them be noticed").
+[^05-760]: So in A and B: জ্ঞানে (*jñāne*, "in knowledge"); the 1960 edition has গানে ("if they appear in singing, let them be noticed").
 [^05-761]: Sharira (*śārīra*) in music theory is the natural quality of the voice, the capacity to manifest a raga without training; the 1960 edition understands *suśārīra* as "with a handsome body."
 [^05-762]: Graha (here the point at which the song enters relative to the tala), mana (measure) and laya (tempo) are terms of the theory of tala. The sthanas are the three registers of the voice.
 [^05-763]: "Merits and faults" (*guṇa-doṣakāḥ*) follows B (1912/13 edition); the 1960 edition reads *gāna-doṣakāḥ*, "faults of singing."
-[^05-764]: রাগ যকারাদি (*rāga yakārādi*): so in A (by the scan), B and the 1960 edition; the meaning of "yakara" has not been established.
+[^05-764]: রাগ যকারাদি (*rāga yakārādi*): so in A, B and the 1960 edition; the meaning of "yakara" has not been established.
 [^05-765]: "From the poison of bad association" (*duḥsaṅga-viṣa-mukta*) follows B; the 1960 edition reads "freed from bad association" (*duḥsaṅga-vimukta*).
 [^05-766]: Or: "Finely wrought songs in the languages of various lands" (*susaṃskṛta*).
 [^05-767]: Tata ("stretched") are stringed instruments, anaddha ("covered") drums, shushira ("hollow") wind instruments, ghana ("solid") percussion of metal and the like. The muraja is a drum, the vamshi (vamsha) a flute, the kamsya-tala bronze cymbals.
-[^05-768]: The names of the instruments are given as in the text, after the 1912/13 edition (checked against the scan of A: «ত্রিশরী শততন্ত্রী চ … গদাবারুণ হস্তশ্চ রুদ্রোহথ স্বরমণ্ডলঃ। কবিলাসো…»); the 1960 edition has shatachandri (for shatatantri), shara-mandala (for svara-mandala), kapilasa (for kavilasa). গদাবারণহস্ত (B গদাবারুণ হস্ত) may be two names: gada and varanahasta.
-[^05-769]: The names follow A and C; the 1960 edition has ghanta-vadya (for ghata-vadya), and its Bengali translation chandu (for changava). The readings মন্থ (mantha) and মড্ডু (maddu) are confirmed by the scan of A («ডমরুষ্টমকির্মন্থো হুড়ুক্কা মড্ডুডিণ্ডিমৌ»).
+[^05-768]: The names of the instruments are given as in the text, after the 1912/13 edition; the 1960 edition has shatachandri (for shatatantri), shara-mandala (for svara-mandala), kapilasa (for kavilasa). গদাবারণহস্ত (B গদাবারুণ হস্ত) may be two names: gada and varanahasta.
+[^05-769]: The names follow A and C; the 1960 edition has ghanta-vadya (for ghata-vadya), and its Bengali translation chandu (for changava). The readings মন্থ (mantha) and মড্ডু (maddu) are confirmed by the edition of A («ডমরুষ্টমকির্মন্থো হুড়ুক্কা মড্ডুডিণ্ডিমৌ»).
 [^05-770]: The *Sangita-darpana* is a Sanskrit treatise on music (Damodara Mishra, 17th century).
 [^05-771]: Here the varnas are the syllables by which drum strokes are rendered (patha-varnas; compare 3131, 3133).
 [^05-772]: Umapati ("the husband of Uma") is Shiva.
 [^05-773]: Following A and C; the 1960 edition has pari (for pavi, 3135–3136) and todahi (for dodahi).
-[^05-774]: A (by the scan) and C read অঙ্গুলী ন্যূনেতে ("by the decrease of fingers"), the 1960 edition অঙ্গুলি-নানেতে; translated by the sense as "by their measure in fingers" (*māne*).
+[^05-774]: A and C read অঙ্গুলী ন্যূনেতে ("by the decrease of fingers"), the 1960 edition অঙ্গুলি-নানেতে; translated by the sense as "by their measure in fingers" (*māne*).
 [^05-775]: Matanga is an ancient muni, author of the treatise on music *Brihaddeshi*.
-[^05-776]: A (by the scan) reads «কর্ত্তর্য্যুদ্ধুর এবচ» (*kartary uddhura*, "kartari and uddhura"), which confirms the Bengali translation of the 1960 edition, where the lord of sages is also identified as Bharata. Kampaka follows A and C (the 1960 edition কম্পিকা, kampika).
+[^05-776]: A reads «কর্ত্তর্য্যুদ্ধুর এবচ» (*kartary uddhura*, "kartari and uddhura"), which confirms the Bengali translation of the 1960 edition, where the lord of sages is also identified as Bharata. Kampaka follows A and C (the 1960 edition কম্পিকা, kampika).
 [^05-777]: The four classes of instruments: tata — stringed, saushira (sushira) — wind, anaddha — covered with skin (drums), ghana — solid (cymbals, bells and the like). "For men" follows B (*mānavānām*); the 1960 edition has *kinnarāṇām* ("for the Kinnaras") in the text and gives *mānavānām* as a variant.
 [^05-778]: "In all instruments" follows the 1888 edition (সর্ব) and the 1960 edition; the 1912/13 edition reads স্বর বাদ্য, "in svaras and instruments." Kandarpa is Kamadeva, the god of love.
-[^05-779]: "The enchantress of the worlds" follows the 1888 and 1912/13 editions (ভুবনমোহিনী); the 1960 edition reads "the enchantress of Govinda." The alavani (*alāvanī*) is probably a vina with a gourd resonator (compare the alapini vina of the music treatises); so in A (by the scan: «বাজায়েন অলাবনী যন্ত্র»).
+[^05-779]: "The enchantress of the worlds" follows the 1888 and 1912/13 editions (ভুবনমোহিনী); the 1960 edition reads "the enchantress of Govinda." The alavani (*alāvanī*) is probably a vina with a gourd resonator (compare the alapini vina of the music treatises); so in A.
 [^05-780]: The brahma-vina, kachchhapi-vina (the "tortoise" vina), rudra-vina, vipanchi, kinnari, sarangi and svara-mandala (3159–3166) are kinds of vina and other stringed instruments.
 [^05-781]: Yantraka (*yantraka*, literally "instrument") — which instrument is meant has not been determined; যন্ত্রক বিলাস is understood as "on the yantraka with grace (*vilāsa*)."
 [^05-782]: Lalita, Vishakha, Suchitra (Chitra), Champakalatika, Rangadevi, Sudevi, Tungavidya and Indulekha (3159–3166) are the eight principal sakhis of Radha.
-[^05-783]: The mardala is a drum. "Madal" is by the sense: the 1888 and 1912/13 editions read মাদক (*mādaka*), probably for মাদল (madal, a drum); the 1960 edition reads মৃদঙ্গ (mridanga); A by the scan has «মর্দ্দল মাদক».
+[^05-783]: The mardala is a drum. "Madal" is by the sense: the 1888 and 1912/13 editions read মাদক (*mādaka*), probably for মাদল (madal, a drum); the 1960 edition reads মৃদঙ্গ (mridanga); A by the edition has «মর্দ্দল মাদক».
 [^05-784]: The muraja is a kind of drum (mridanga); the upanga is an accompanying instrument, its exact kind not determined.
 [^05-785]: The Lord of Uma is Shiva.
 [^05-786]: Natya is dramatic performance with speech and abhinaya; nritya is dance that expresses feelings (bhava); nritta is pure dance without expressing meaning. In the 1888 and 1912/13 editions the words নৃত্য (nritya) and নৃত্ত (nritta) are usually not distinguished in spelling; the distinction follows the 1960 edition and the sense. On the arts being born of the Vedas compare 2490.
@@ -20329,12 +20329,12 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-788]: "Of these the first" follows the 1888 and 1912/13 editions (*tatrādyam*); the 1960 edition reads *tac cādau* ("and this was set forth by Bharata in the beginning").
 [^05-789]: "Supremely" follows the 1960 edition (*param*); the 1888 and 1912/13 editions read নরং (*naram*), probably an error.
 [^05-790]: Nataka, prakarana, bhana and prahasana are kinds of drama (rupaka) in Sanskrit dramaturgy; natika and prakaranika (3194), sattaka, trotaka, goshthi and vrindaka (3195) are kinds of "minor" drama.
-[^05-791]: Dattila follows the 1960 edition (দন্থিলাদি, i.e. দত্তিলাদি); the 1888 and 1912/13 editions (A by the scan) read দন্তিনাদি (*dantinādi*), apparently a misprint.
+[^05-791]: Dattila follows the 1960 edition (দন্থিলাদি, i.e. দত্তিলাদি); the 1888 and 1912/13 editions read দন্তিনাদি (*dantinādi*), apparently a misprint.
 [^05-792]: Tandu is an attendant of Shiva who, according to tradition, passed the tandava on to Bharata; the dance is named after him.
 [^05-793]: The 1960 edition reads Sangita-damodara. The sense of the words "cutting and piercing" (*chedanam bhedanam*) and "connected with speech" (*vāṇīgatam*) is unclear; translated literally.
 [^05-794]: Makaradhvaja ("he whose banner bears the makara") is Kamadeva.
-[^05-795]: The gloss in parentheses follows the 1912/13 edition (by the scan of A: «আদ্যে প্রধানে রসে। রসজনকৈর্ভাবৈশ্চেষ্টিতৈরিতং … আশ্লেষ আলিঙ্গনমিত্যর্থঃ»); the 1960 edition lacks it. The first rasa is shringara, the amorous rasa.
-[^05-796]: A karana is a unit of dance movement. "Dombika" follows the 1888 edition (ড়ন্বিকা) and A (by the scan: «কোহলোক্তনৃত্যবিশেষাড়াম্বিকা», ḍāmbikā); the 1960 edition reads আরম্ভিকা (*ārambhikā*).
+[^05-795]: The gloss in parentheses follows the 1912/13 edition; the 1960 edition lacks it. The first rasa is shringara, the amorous rasa.
+[^05-796]: A karana is a unit of dance movement. "Dombika" follows the 1888 edition (ড়ন্বিকা) and A; the 1960 edition reads আরম্ভিকা (*ārambhikā*).
 [^05-797]: The angas are the principal parts of the body, the upangas the minor ones (eyes, brows, lips and the like), the pratyangas the secondary ones (neck, shoulders and others).
 [^05-798]: Sharngadeva is the author of the treatise on music and dance *Sangita-ratnakara* (13th century).
 [^05-799]: "Nine" is said, but ten are named (counting the "ornaments"); translated as in the text, and likewise in the verse 3224.
@@ -20344,26 +20344,26 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-803]: The hudduka is a kind of drum.
 [^05-804]: Saushthava is the correct, balanced posture of the dancer; chaturasra (3245) is the "four-cornered," stable position of the body.
 [^05-805]: A hastaka (hasta) is a hand gesture in dance and abhinaya.
-[^05-806]: So in all copies (অঙ্গহাব, *aṅga-hāva*, "expressive movement of the body"), also in the verse 3253; possibly to be read *aṅga-hāra* (angahara, a sequence of dance movements). Checked against the scan of A («অঙ্গ হাব সহ নৃত্য হস্তা», «অঙ্গহাবেন সহিতা»).
+[^05-806]: So in all copies (অঙ্গহাব, *aṅga-hāva*, "expressive movement of the body"), also in the verse 3253; possibly to be read *aṅga-hāra* (angahara, a sequence of dance movements). Checked in the edition of A («অঙ্গ হাব সহ নৃত্য হস্তা», «অঙ্গহাবেন সহিতা»).
 [^05-807]: In all editions the name of Bharata carries a footnote: "Bharata is the compiler of the sutras of the natya-shastras."
-[^05-808]: The names of the gestures are given in transliteration (pataka, "flag"; ardhachandra, "half-moon"; hamsasya, "swan's beak," and so on). The count of twenty-four results if, as in the 1960 edition, arala-mushti is one name and kavi a separate one; in the *Natya-shastra* arala and mushti are two gestures, and then তাম্রচূড়োহপরঃ কবিঃ (so in A by the scan; the OCR of copy B has কপিঃ) may mean something else.
-[^05-809]: Verses 3270–3277 are rules for the use of pataka; the text is corrupt in places in all copies: পেটে (*peṭe*, "peta") and পুষ্করে (*puṣkare*, "pushkara" — a lotus, a pond or a drum) are given by their sound (so also in A by the scan: «এষ স্পর্শে চ পেটে চ», «পুষ্করে গ্রহণে স্বধঃ»).
+[^05-808]: The names of the gestures are given in transliteration (pataka, "flag"; ardhachandra, "half-moon"; hamsasya, "swan's beak," and so on). The count of twenty-four results if, as in the 1960 edition, arala-mushti is one name and kavi a separate one; in the *Natya-shastra* arala and mushti are two gestures, and then তাম্রচূড়োহপরঃ কবিঃ may mean something else.
+[^05-809]: Verses 3270–3277 are rules for the use of pataka; the text is corrupt in places in all copies: পেটে (*peṭe*, "peta") and পুষ্করে (*puṣkare*, "pushkara" — a lotus, a pond or a drum) are given by their sound.
 [^05-810]: Thirteen results if khataka-vardhamanaka is one name (as in the *Natya-shastra*); the 1960 edition divides the compound otherwise: pushpaputa-utsanga as one name, khataka and vardhamanaka as two.
-[^05-811]: তেন মুখাভিধৌ (*tena mukhābhidhau*); in the *Natya-shastra* the gesture after udvritta is talamukha — possibly *tālamukhābhidhau*; so also in A by the scan («হস্তৌ তেন মুখাভিধৌ»).
+[^05-811]: তেন মুখাভিধৌ (*tena mukhābhidhau*); in the *Natya-shastra* the gesture after udvritta is talamukha — possibly *tālamukhābhidhau*; so also in A by the edition («হস্তৌ তেন মুখাভিধৌ»).
 [^05-812]: Suchi-agratala-sanchara is one name, as in the 1960 edition; since suchi is named separately in 3297, a division is possible: suchi, agratala-sanchara. The list continues in 3299.
-[^05-813]: So in all copies: udghatita is named twice (here and in 3298); uchchhedha (*ucchedha*) is possibly *utsedha* ("raising"); so also in A by the scan («তাড়িতোদ্ঘট্টিতোচ্ছেধ উদ্ঘাটিত»). The count of thirteen results if suchi-agratala-sanchara is one name (see 3298).
+[^05-813]: So in all copies: udghatita is named twice (here and in 3298); uchchhedha (*ucchedha*) is possibly *utsedha* ("raising"); so also in A by the edition («তাড়িতোদ্ঘট্টিতোচ্ছেধ উদ্ঘাটিত»). The count of thirteen results if suchi-agratala-sanchara is one name (see 3298).
 [^05-814]: "In a suitable raga" is yathā-rāgaḥ (likewise in 3320); no raga is named.
 [^05-815]: The 1912/13 and 1960 editions have a footnote: if a plantain trunk is turned with its root upward, such are the thighs.
-[^05-816]: Pathas are syllables of dance and drum rhythm (bols); given after the 1912/13 edition (checked against the scan of A), the 1960 edition differs in places.
+[^05-816]: Pathas are syllables of dance and drum rhythm (bols); given after the 1912/13 edition, the 1960 edition differs in places.
 [^05-817]: "Offers himself" is niramanchhana (*niramañchana*), the same as nichhani (cf. 1523). Ghanashyama is the poet's signature (cf. 1507).
 [^05-818]: A tana is a melodic figure, a run elaborating the raga.
 [^05-819]: The 1888 edition has ধৈরজ ধন, "the wealth of composure" (cf. 3315).
-[^05-820]: Stanzas 3352–3353 are checked against the scan of A («প্রফুল্লিত মুখকঞ্জ বসন, দশনাবলি ললিত হসন … লোল লোচন চঞ্চল ভরু»). বসন (*vasana*, "garment") is unclear in this line, possibly বদন ("face"); ভরু (G; B ভর) is taken as ভুরু ("brows").
-[^05-821]: মহীধর (*mahīdhara*, "upholder of the mountain") is taken as a name of Krishna, who lifted Govardhana; the sense of the line is unclear. দি দি দিগণ (so in A by the scan: «রাধিকা করকঞ্জহি মহিধর চরণ রঞ্জনা … দি দি দিগণ হস্ত অভিনয়») is taken as rhythm syllables.
+[^05-820]: Stanzas 3352–3353 are of A («প্রফুল্লিত মুখকঞ্জ বসন, দশনাবলি ললিত হসন … লোল লোচন চঞ্চল ভরু»). বসন (*vasana*, "garment") is unclear in this line, possibly বদন ("face"); ভরু (G; B ভর) is taken as ভুরু ("brows").
+[^05-821]: মহীধর (*mahīdhara*, "upholder of the mountain") is taken as a name of Krishna, who lifted Govardhana; the sense of the line is unclear. দি দি দিগণ is taken as rhythm syllables.
 [^05-822]: The *Govinda-lilamrita* is Krishnadasa Kaviraja's poem on the daily pastimes of Radha and Krishna; this verse lists the eight periods of the day (ashta-kaliya-lila), and the song 3400–3407 follows them in order. Sangava is the time after morning, before midday; pradosha is the beginning of night, dusk. The introductory line naming the source is absent in the 1960 edition.
-[^05-823]: সাবান সময়ে (*sābāna samaye*, 1960 edition), B সবে সময়ে (*sabe samaye*); A by the scan reads «সাঁঝহু সময়ে» (*sā̃jha-hu samaye*, "at evening time"), which confirms the translation (cf. *sāyam* in verse 3399).
-[^05-824]: Literally "the place of the play of [the month of] Phaguna": A by the scan reads «ফল্গুন খেলাস্থান» (*phalguna*; the OCR of the 1960 edition and copy B has ফন্তুন, ফন্তণ); Phalguna (February–March) is the month of the Holi festival.
-[^05-825]: A by the scan reads «বাজত রস ভোরি» (*bājata*, "sounds"); read as রাজত (*rājata*, "shines"), from the sense (a conjecture).
+[^05-823]: সাবান সময়ে (*sābāna samaye*, 1960 edition), B সবে সময়ে (*sabe samaye*); A by the edition reads «সাঁঝহু সময়ে» (*sā̃jha-hu samaye*, "at evening time"), which confirms the translation (cf. *sāyam* in verse 3399).
+[^05-824]: Literally "the place of the play of [the month of] Phaguna": A by the edition reads «ফল্গুন খেলাস্থান»; Phalguna (February–March) is the month of the Holi festival.
+[^05-825]: A by the edition reads «বাজত রস ভোরি» (*bājata*, "sounds"); read as রাজত (*rājata*, "shines"), from the sense (a conjecture).
 [^05-826]: The pichkari is a pump-syringe from which coloured water is sprayed at Holi; "hori" (3431) is the cry of the Holi festival.
 [^05-827]: Kunja-devi means "the goddess of the kunja." By the sakhis' plan Radha, sitting alone under a veil, plays the goddess of this grove, and Vrinda-devi presents Her to Krishna as the goddess of the nikunja (3437–3450).
 [^05-828]: Kunja-devi, "the goddess of the kunja": by the wish of the sakhis Radha plays a forest goddess whom Krishna worships (see 3436–3448). Viparita-rati is "reversed" love-play; Lalita plays on the "worshipper" seating the "goddess" on His lap.
@@ -20376,11 +20376,11 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-835]: Shyama is the dark colour of Krishna, gaura the golden colour of Radha. The understanding of the second half of the stanza is conjectural: তাহার অবধি দেখায়া জগতে, হাসে জগজন নয়নলোভা (*tāhāra avadhi dekhāyā jagate, hāse jagajana nayana-lobhā*).
 [^05-836]: Dark Krishna in golden Radha's embrace resembles a thundercloud with lightning.
 [^05-837]: Dakshina ("courteous"), shatha ("deceitful", 3533) and dhrishta ("brazen", 3535) are types of the hero-lover (nayaka) in his relation to his beloveds in Rupa Gosvami's *Ujjvala-nilamani*, along with anukula ("devoted to one", 3525).
-[^05-838]: The verses of this portion are from the *Ujjvala-nilamani* (the chapters on heroes and heroines); "there" refers to that book, cited above, although songs are quoted immediately before 3521.
+[^05-838]: "there" refers to that book, cited above, although songs are quoted immediately before 3521.
 [^05-839]: CC Madhya 8; the quotation runs 3526–3532. A crore is ten million.
 [^05-840]: Svakiya is "one's own" (married to the hero), parakiya is "another's" (bound to the hero by secret love); the text has স্বীয়া (*svīyā*), the same as svakiya. The *Ujjvala-nilamani* counts three hundred and sixty varieties of heroine.
 [^05-841]: Mugdha ("young, inexperienced"), madhya ("middle") and pragalbha ("mature, bold", 3562) are the three varieties of heroine (nayika) by youth and experience.
-[^05-842]: A (by the scan) reads «মৃদ্বী ১ তথা ক্ষমা ২», written separately, which also allows the reading *kṣamā* ("patient"); the translation follows 3546 («মৃদু অক্ষমা», "gentle, incapable").
+[^05-842]: A reads «মৃদ্বী ১ তথা ক্ষমা ২», written separately, which also allows the reading *kṣamā* ("patient"); the translation follows 3546 («মৃদু অক্ষমা», "gentle, incapable").
 [^05-843]: Dhira ("composed"), adhira ("uncomposed") and dhira-adhira ("composed and uncomposed") are varieties of the madhya and the pragalbha by their conduct in mana (3554–3559, 3565–3570).
 [^05-844]: "Pure reproach" — পবিত্র ভর্ৎসন (*pavitra bhartsana*) in all copies; apparently a reproach without coarse words, unlike the adhira (3556).
 [^05-845]: "With hints" follows the 1912/13 and 1888 editions (ভঙ্গিতে); the 1960 edition has ভর্ৎসিতে, "rebuking".
@@ -20388,24 +20388,24 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-847]: Jyotsni — [going to the tryst] on a moonlit night, tamasi — on a dark night; the attire accordingly light or dark.
 [^05-848]: Vasaka — the turn, the appointed day (night) of the tryst; vasaka-sajjika is the same as vasaka-sajja (3576).
 [^05-849]: "Fallen [at her feet]" follows the 1960 edition (its Bengali rendering of the verse has পদানত); the text has *prāptaṁ patitaṁ*, "who has come [and] fallen".
-[^05-850]: "Krishna" follows the 1912/13 edition (by the scan of A: «দূরদেশং গতে কৃষ্ণে»); the 1960 edition has কান্তে, "the beloved".
+[^05-850]: "Krishna" follows the 1912/13 edition; the 1960 edition has কান্তে, "the beloved".
 [^05-851]: The son of Gandini is Akrura (see 3601). The *Hamsa-duta* is a poem by Sri Rupa Gosvami.
 [^05-852]: A play on words: the name Akrura means "not cruel," krura means "cruel."
 [^05-853]: Svadhina-bhartrika, "she whose husband is under [her] sway": one of the eight states of the heroine (nayika) in the *Ujjvala-nilamani*; the definition is in 3606.
-[^05-854]: The number of the definition follows the 1912/13 edition (by the scan of A: «স্থায়িভাবপ্রকরণে ১১২ লক্ষণং»); the 1960 edition has the hundred and second.
+[^05-854]: The number of the definition follows the 1912/13 edition; the 1960 edition has the hundred and second.
 [^05-855]: Sambhoga is the enjoyment of union; in the *Ujjvala-nilamani* it is of four kinds: sankshipta ("brief"), sankirna ("mixed"), sampanna ("full") and samriddhiman ("perfect"). The same work counts prema-vaichittya among the kinds of separation (vipralambha); Narahari stresses that it is felt in the very midst of union.
-[^05-856]: কুসুম-শেষে (*kusuma-śeṣe*) in all copies; understood as কুসুম-শেজে, "on the bed of flowers"; so also in A by the scan («রহয়ে কুসুমশেষে অঙ্গ গড়াইয়া»).
+[^05-856]: কুসুম-শেষে (*kusuma-śeṣe*) in all copies; understood as কুসুম-শেজে, "on the bed of flowers"; so also in A by the edition («রহয়ে কুসুমশেষে অঙ্গ গড়াইয়া»).
 [^05-857]: The helpers (sahaya) of the hero according to the *Ujjvala-nilamani*: the cheta, a clever servant who arranges meetings; the vita, an expert in attire and in the science of love; the vidushaka, a jester fond of food; the pithamarda, a friend almost equal to the hero; the priya-narma-sakha, an intimate friend initiated into the deepest secrets (the definitions are in 3635–3646).
 [^05-858]: In the Bengali couplet 3637 the name is Bhringa; in the verse, Bhringara.
 [^05-859]: In the verse 3640 the name is Bharatibandha.
 [^05-860]: Arjuna is a cowherd boy, an intimate friend of Krishna in Vraja (not the son of Pandu).
 [^05-861]: Svayam-duti, "one's own messenger": a lover who reveals his or her love in person; apta-duti, "a trusted messenger" (see 3649–3653, 3670–3673).
-[^05-862]: Translated after the 1960 edition, অস্যাসাধারণা (*asyāsādhāraṇāḥ*, "His special"); A by the scan has «অন্যাঃ সাধারণা দূত্যো» ("other — common messengers"), C অস্যাঃ সাধারণা; the reading of the 1960 edition is adopted, as it agrees with the second line (where those "common to both" are contrasted with the special ones). Lingini is a wandering female ascetic, one of the messengers in the *Ujjvala-nilamani*.
+[^05-862]: Translated after the 1960 edition, অস্যাসাধারণা (*asyāsādhāraṇāḥ*, "His special"); A by the edition has «অন্যাঃ সাধারণা দূত্যো» ("other — common messengers"), C অস্যাঃ সাধারণা; the reading of the 1960 edition is adopted, as it agrees with the second line (where those "common to both" are contrasted with the special ones). Lingini is a wandering female ascetic, one of the messengers in the *Ujjvala-nilamani*.
 [^05-863]: The gloss follows the 1912/13 edition (B); it is absent from the 1960 edition.
-[^05-864]: সর্বগণাগ্রিমাঃ in A (checked against the scan)/B, "foremost of all the groups"; C and the 1960 edition have সর্বগুণাগ্রিমাঃ, "foremost in all virtues."
+[^05-864]: সর্বগণাগ্রিমাঃ in A/B, "foremost of all the groups"; C and the 1960 edition have সর্বগুণাগ্রিমাঃ, "foremost in all virtues."
 [^05-865]: The kinds of trusted messengers (apta-duti) according to the *Ujjvala-nilamani*: the amitartha guesses [the feelings of both] from hints on her own, the nisrishtartha is the one entrusted with the task, the patrahari carries letters (3677–3682).
 [^05-866]: The craftswoman (shilpakari), the astrologer (daivajna), the ascetic (lingini), the maidservant (paricharika), the foster-sister (dhatreyi, the daughter of a nurse), the forest goddesses (vana-devi) and the sakhi are the kinds of messengers in the *Ujjvala-nilamani* (3685).
-[^05-867]: "Today" follows A (by the scan: «কহে এই কুঞ্জে অদ্য দোঁহার ঘটনা») and B (অদ্য, *adya*); the 1960 edition has অন্য (*anya*, "another").
+[^05-867]: "Today" follows A and B (অদ্য, *adya*); the 1960 edition has অন্য (*anya*, "another").
 [^05-868]: Lavanga Manjari and Bhanumati are Radha's maidservants (paricharikas).
 [^05-869]: Sambhoga is the enjoyment of the lovers' union, as opposed to vipralambha (separation). Primary (mukhya) sambhoga is in waking life, secondary (gauna) in dreams; each is of four kinds (3698–3701).
 [^05-870]: Pravasa is separation through the beloved's going away, either not far or far. Sankshipta means "brief", sankirna "mixed", sampanna "attained", samriddhiman "abundant" sambhoga (3702–3712).
@@ -20413,8 +20413,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-872]: The title follows A/B (শ্রীবৃহৎকৃষ্ণগণোদ্দেশদীপিকায়াং); it is garbled in the 1960 edition. Apparently the longer recension of Rupa Gosvami's *Radha-krishna-ganoddesha-dipika*. Verses 3716–3730 list the eight companions attached to each of Radha's eight principal sakhis.
 [^05-873]: The order "Malati, Madhavi" follows A/B/C; the 1960 edition names Madhavi first, as in 3717.
 [^05-874]: All copies read সুচিত্রাদি (*suchitrādi*, "Suchitra and the others"); translated by sense.
-[^05-875]: Kamini follows A (by the scan: «কামিনী কামনগরী») and B; the 1960 edition has রামিনী (Ramini), C বামিনী (Vamini).
-[^05-876]: Rangavati follows A (by the scan: «রঙ্গবাটী সুসঙ্গতা»), B and C; the 1960 edition has রঙ্গবাটা (Rangavata).
+[^05-875]: Kamini follows A and B; the 1960 edition has রামিনী (Ramini), C বামিনী (Vamini).
+[^05-876]: Rangavati follows A, B and C; the 1960 edition has রঙ্গবাটা (Rangavata).
 [^05-877]: মধুরেন্দিরা is taken as two names, Madhura and Indira; otherwise the list has seven names.
 [^05-878]: *Ujjvala-nilamani*, the section on sakhis: the seventeen activities of a sakhi. The numbers (1)–(17) are in the text of the 1888 and 1912/13 editions; the 1960 edition does not have them.
 [^05-879]: Gopishvara is Shiva (Mahadeva), guardian of Vrindavana, worshipped in the form of a linga in Vrindavana; not to be confused with the Gopishvara of Mahavana (5.1765).
@@ -20427,7 +20427,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^05-886]: Govinda-svami-tirtha — a holy place in Vrindavana with the Deity Govinda-svami (see 3760–3761).
 [^05-887]: Cf. Brahma's prayer to be born in Gokula even as a blade of grass (*Bhag.* 10.14.34).
 [^05-888]: Apparently CC Adi 5 (the description of the Deity Govinda in Vrindavana); where the quotation ends is not marked in the text — probably 3783–3785.
-[^05-889]: Manmatha is Kamadeva, the god of love. The common text of the CC has "manmatha-madana" ("the Enchanter of Kamadeva Himself"); here all copies (A by the scan: «সাক্ষাৎ মন্মথমথন») read "manmatha-mathana" ("the Crusher of Manmatha").
+[^05-889]: Manmatha is Kamadeva, the god of love. The common text of the CC has "manmatha-madana" ("the Enchanter of Kamadeva Himself"); here all copies read "manmatha-mathana" ("the Crusher of Manmatha").
 [^05-890]: Padmasana ("the one seated on the lotus") is Brahma; cf. in the CC: "on whom Padmasana meditates in his own world." The line can also be understood as "on whom people always meditate in the lotus posture." The eighteen-syllable mantra is the Gopala-mantra (cf. the *Gopala-tapani Upanishad*).
 [^05-891]: That is, regards the Deity as a mere man-made object.
 [^05-892]: The swing is the Dola-yatra festival, the chariot the Ratha-yatra; the platform (mancha) is apparently the platform on which the Deity is brought out at a festival.
@@ -22123,27 +22123,27 @@ Narahari Dasa tells the *Bhakti-ratnakara*.[^06-71]
 [^06-11]: The three principal Deities of Vrindavana, manifested in the time of Rupa and Sanatana (BR 2), here already together with Radha.
 [^06-12]: Prataparudra was the king of Orissa, a devotee of Mahaprabhu. Jana (Oriya *jenā*) is a title of the princes of Orissa.
 [^06-13]: The two Prabhus are Sri Govinda and Sri Madanamohana, with whom Radha was not present (63–64). Thakurani ("the Mistress") here means a Deity of Radha.
-[^06-14]: The introductory line is the same in the 1888, 1912/13 and 1960 editions (checked against the scans).
+[^06-14]: The introductory line is the same in the 1888, 1912/13 and 1960 editions.
 [^06-15]: The Daughter of the Sun is the Yamuna; the priyaka is the kadamba tree. Madana-gopala is the same as Madanamohana. In the 1960 edition the end of the verse reads *nija-pada-namantaṁ rakṣa mām* ("protect me, who bow to Your feet"); translated here according to the 1888 and 1912/13 editions, *nija-sadanam anurakṣa mām*, which the metre also confirms.
 [^06-16]: The Kshetra is Purushottama-kshetra (Puri). Bara Jana ("the elder prince") is Purushottama Jana; cf. CC Antya 9.
 [^06-17]: The chakra-beda is the circular enclosure (inner courtyard) of the Jagannatha temple in Puri (cf. BR 3.258). Radhika is speaking: the Deity worshipped in the chakra-beda as Lakshmi.
 [^06-18]: This is Sakshi-gopala, the Deity of Gopala who came from Vrindavana to Orissa to bear witness to a promise made to a brahmana (CC Madhya 5). The Sadhana-dipika is a book by Radha-Krishna Gosvami (see BR 2).
-[^06-19]: The usual formula is *kartum akartum anyatha kartum* ("to do, not to do, and to do otherwise"); here all editions read *karttuṁ na karttuṁ tat karttuṁ* ("to do, not to do, to do that"; so also in the scans of the 1888 and 1912/13 editions); translated by the sense of the formula.
+[^06-19]: The usual formula is *kartum akartum anyatha kartum* ("to do, not to do, and to do otherwise"); here all editions read *karttuṁ na karttuṁ tat karttuṁ*; translated by the sense of the formula.
 [^06-20]: Odra (Odra-desha) is the same as Utkala, Orissa.
 [^06-21]: The prince is Purushottama Jana (Bara Jana, 75, 82).
 [^06-22]: CC Adi 1; Narahari gives it in a somewhat different wording. The Deities are called here *ṭhākura* ("Thakuras").
 [^06-23]: Radha-vinoda is the Deity of Lokanatha Gosvami, Radha-ramana that of Gopala Bhatta Gosvami, Radha-damodara that of Jiva Gosvami (Vrindavana).
 [^06-24]: Sri Acharya Thakura is Srinivasa Acharya; Thakura Mahashaya is Narottama.
 [^06-25]: Mayapura is the place in Navadvipa where Sri Chaitanya was born.
-[^06-26]: Lit. "by the Lord's command all, remaining beside the Lord"; G and A have *saba* ("all, everything"), C *sabe* ("all"; so in the scans). Also possible: "[Srinivasa], remaining beside the Lord by His command, [performs] all [the service]" — the interpretation is ambiguous.
-[^06-27]: The 1888 and 1912/13 editions (in the scans) read ফাল্গুণস্থ লীলা / ফাল্গুনস্থ লীলা (*phālgunastha-līlā*, "the play of [the month of] Phalguna"); in G the word is garbled by OCR. Phalguna (February–March) is the month of Holi; "Phagutala" means "the place of phagu" (the coloured powder of Holi). The author does not say where in Vraja this place lies.
-[^06-28]: The 1888 and 1912/13 editions (in the scans) read ফল্গুনাদি (*phalgun-ādi*, "phalgu and the rest"); *phalgu* (Bengali ফাগু, phagu) is the red powder of Holi (cf. 155). The vina is a stringed instrument.
-[^06-29]: "Phagu": here the 1888 and 1912/13 editions (in the scans) read ফল্গুন (*phalguna*), and at 155 ফল্গুন (C) / ফগুন (A); that is, phagu, the red powder of Holi (cf. 158, 163). "হৈল অরুণ আচ্ছন্ন" can also be understood as "the sun was hidden."
+[^06-26]: Lit. "by the Lord's command all, remaining beside the Lord"; G and A have *saba* ("all, everything"), C *sabe*. Also possible: "[Srinivasa], remaining beside the Lord by His command, [performs] all [the service]" — the interpretation is ambiguous.
+[^06-27]: The 1888 and 1912/13 editions read ফাল্গুণস্থ লীলা / ফাল্গুনস্থ লীলা (*phālgunastha-līlā*, "the play of [the month of] Phalguna"). Phalguna (February–March) is the month of Holi; "Phagutala" means "the place of phagu" (the coloured powder of Holi). The author does not say where in Vraja this place lies.
+[^06-28]: The 1888 and 1912/13 editions read ফল্গুনাদি (*phalgun-ādi*, "phalgu and the rest"); *phalgu* (Bengali ফাগু, phagu) is the red powder of Holi (cf. 155). The vina is a stringed instrument.
+[^06-29]: "Phagu": here the 1888 and 1912/13 editions read ফল্গুন (*phalguna*), and at 155 ফল্গুন (C) / ফগুন (A); that is, phagu, the red powder of Holi (cf. 158, 163). "হৈল অরুণ আচ্ছন্ন" can also be understood as "the sun was hidden."
 [^06-30]: The temple of the Sun is at Surya-kunda near Radha-kunda; on the pretext of worshipping the Sun, Radha goes out to meet Krishna (cf. BR 5.1078).
 [^06-31]: Svarupa is Svarupa Damodara, Mahaprabhu's associate in Puri; Raghunatha Dasa lived under his care, and after the Lord's departure with Rupa and Sanatana in Vraja. By this time all three had already departed.
 [^06-32]: The shila from Govardhana and the gunja necklace were given to Raghunatha Dasa by Mahaprabhu (CC Antya 6).
 [^06-33]: Mahajana literally means "a great man"; the word is also used of a wealthy merchant or banker. Here apparently a well-to-do resident of Mathura who equips Srinivasa for the journey.
-[^06-34]: The verbs of 258 are in the first person (kailu, niyojilu; so also in the 1888 and 1912/13 editions, checked against the scans): 258–259 are the mahajana's report to the Gosvami that everything is ready.
+[^06-34]: The verbs of 258 are in the first person: 258–259 are the mahajana's report to the Gosvami that everything is ready.
 [^06-35]: Apparently the lists of the Gosvamis' works in BR 1 are meant.
 [^06-36]: Madanamohana is the same Deity as Madana-gopala (265–266).
 [^06-37]: A samadhi is the tomb of a saintly Vaishnava. Sanatana Gosvami's samadhi is beside the Madanamohana temple in Vrindavana.
@@ -22158,16 +22158,16 @@ Narahari Dasa tells the *Bhakti-ratnakara*.[^06-71]
 [^06-46]: The verse is ascribed to Narottama Dasa Thakura; the 1960 edition calls the Prema-bhakti-chandrika a work of Thakura Mahashaya.
 [^06-47]: The songs 292–295, 299–302 and 303–305 are in Braj-bhasha.
 [^06-48]: The swan (hamsa) is believed to be able to separate milk from water — an image of discerning the true from the false.
-[^06-49]: Madho (Madhava) is the signature (bhanita) of the song's author. "People hear" renders শুনত জন (śunata jana): so in the 1888 edition (in the scan) and in G; in the 1912/13 edition the word is damaged but reads the same.
+[^06-49]: Madho (Madhava) is the signature (bhanita) of the song's author. "People hear" renders শুনত জন (śunata jana): so in the 1888 edition and in G; in the 1912/13 edition the word is damaged but reads the same.
 [^06-50]: A yupa is the post to which the sacrificial animal is tied; figuratively, the support of every spiritual endeavour.
-[^06-51]: "The relish that delights the tongue" renders রসনাকে রস তূপ (rasanāke rasa tūpa): so in the 1888 and 1912/13 editions (in the scans). The meaning of *tūpa* is unclear — perhaps "heap, treasury" (Skt. *stūpa*): "a treasury of taste for the tongue"; the translation is tentative.
+[^06-51]: "The relish that delights the tongue" renders রসনাকে রস তূপ (rasanāke rasa tūpa): so in the 1888 and 1912/13 editions. The meaning of *tūpa* is unclear — perhaps "heap, treasury" (Skt. *stūpa*): "a treasury of taste for the tongue"; the translation is tentative.
 [^06-52]: Vyasa is the signature (bhanita) of the author of songs 299–305; apparently Harirama Vyasa, a sixteenth-century poet of Vrindavana.
 [^06-53]: The Gosvami is Gopala Bhatta Gosvami, Srinivasa's guru (cf. 318, where Jiva also goes to him).
 [^06-54]: The brahmana Haridasa Acharya (Dvija Haridasa) is an associate of Mahaprabhu, the father of Shridasa and Gokulananda (325); on him see BR 1.
 [^06-55]: On Jagadananda Pandita's journey to Vrindavana and his return to the Lord, see CC Antya 13.
 [^06-56]: Kshetra is Purushottama-kshetra, that is, Puri (Nilachala).
 [^06-57]: An allusion to Advaita's riddle (tarja), conveyed to the Lord by Jagadananda (CC Antya 19) — a sign that the Lord's mission in the world was fulfilled.
-[^06-58]: Kanaiya (below also Kanai) is a brahmana, a resident of Vraja, close to Rupa and Sanatana; not to be confused with Kanai, an affectionate name of Krishna. In the 1888 and 1912/13 editions (in the scans) the name reads কানা'য়া (*kānā'yā*, at 373 and 385), i.e. কানাইয়া — Kanaiya, with the "i" elided.
+[^06-58]: Kanaiya (below also Kanai) is a brahmana, a resident of Vraja, close to Rupa and Sanatana; not to be confused with Kanai, an affectionate name of Krishna. In the 1888 and 1912/13 editions the name reads কানা'য়া (*kānā'yā*, at 373 and 385), i.e. কানাইয়া — Kanaiya, with the "i" elided.
 [^06-59]: Madhukari — alms that a renunciant gathers a little at a time from many houses, as a bee (madhukara) gathers nectar from flowers.
 [^06-60]: From the context (402), a verse of Gopala Bhatta's own; source not established. Bhandira is Bhandiravana; the Kalindi is the Yamuna.
 [^06-61]: The books of the Gosvamis, which Srinivasa is taking to Gauda (Bengal); Gauda-mandala is the region of Gauda.
@@ -22177,10 +22177,10 @@ Narahari Dasa tells the *Bhakti-ratnakara*.[^06-71]
 [^06-65]: Srinivasa's song (461–468) is composed in the voice of Radha, telling her friend of Govinda's beauty.
 [^06-66]: Gaja-mukta: a pearl said to be born in an elephant's head; here, a nose ornament.
 [^06-67]: The chuda is the topknot crowned with a peacock feather; Madana is Kamadeva, the god of love.
-[^06-68]: "Curve": *bāhur balanī* (so in the 1888 and 1912/13 editions, in the scans); the meaning of the word is unclear (perhaps "roundness, curve" or "bracelet"). The vermilion-tinged tips of the arms are the reddish palms and fingers.
+[^06-68]: "Curve": *bāhur balanī*; the meaning of the word is unclear (perhaps "roundness, curve" or "bracelet"). The vermilion-tinged tips of the arms are the reddish palms and fingers.
 [^06-69]: Raghava Pandita here and in 535 is Raghava Gosvami, who lived at Govardhana (see BR 4.392), not Raghava Pandita of Panihati.
-[^06-70]: So in all editions (Bāṇī Kṛṣṇadāsa; the 1912/13 edition reads "শ্রীগোবিন্দ বাণী কৃষ্ণদাস অত্যুদার", in the scan); "Vani" is apparently a byname distinguishing this Krishnadasa from others, like "Premi" in 512.
-[^06-71]: The signature is present in all editions (in the 1888 and 1912/13 editions, checked against the scans).
+[^06-70]: So in all editions; "Vani" is apparently a byname distinguishing this Krishnadasa from others, like "Premi" in 512.
+[^06-71]: The signature is present in all editions.
 
 ---
 
@@ -24109,9 +24109,9 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 
 *Thus in the Sri Bhakti-ratnakara ends the seventh wave, called "The Description of the Spreading of the Books of Bhakti and Other Matters".*
 
-[^07-1]: Sri Sanjaya (śrīsañjaya): so in all editions (in the 1888 and 1912/13 editions, checked against the scans).
-[^07-2]: So in all editions (duḥkhinī kṛṣṇadāsa; in the 1888 and 1912/13 editions, checked against the scans); in BR 1 and usually he is Duhkhi Krishnadasa.
-[^07-3]: So in the 1888 and 1912/13 editions (sarvasiddhi; in the scans); the 1960 edition has "success in the undertaking" (kāryasiddhi).
+[^07-1]: Sri Sanjaya (śrīsañjaya): so in all editions.
+[^07-2]: So in all editions; in BR 1 and usually he is Duhkhi Krishnadasa.
+[^07-3]: So in the 1888 and 1912/13 editions; the 1960 edition has "success in the undertaking" (kāryasiddhi).
 [^07-4]: The forest road through Jharikhanda: by it the Lord went to Vrindavana (CC Madhya 17), and Sanatana went from Vrindavana to Puri (CC Antya 4).
 [^07-5]: Vira Hambira was the king of Mallabhum (of the Malla dynasty), whose capital was Vana-Vishnupura (now Bishnupur, Bankura district, West Bengal); he later became a disciple of Srinivasa Acharya.
 [^07-6]: Literally "having counted" (gaṇiyā) — here, an astrological calculation; cf. 7.85 below, where the king addresses the astrologer.
@@ -24124,7 +24124,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^07-13]: The one who appeared is not named; the golden body points to Gauranga.
 [^07-14]: The Mahashaya is Narottama (Thakura Mahashaya). Santosha Datta is his cousin, the son of Purushottama Datta of Kheturi (BR 1).
 [^07-15]: Krishnavallabha is a brahmana of Deuli, a village near Vishnupura (see 134); from this meeting he is devoted to Srinivasa.
-[^07-16]: So in the 1888 and 1912/13 editions (*adhyakṣa*; the 1888 edition checked in the scan; "keeper, custodian"); the 1960 edition reads "the acharya of these jewel-books" (cf. 95).
+[^07-16]: So in the 1888 and 1912/13 editions; the 1960 edition reads "the acharya of these jewel-books" (cf. 95).
 [^07-17]: The *Bhramara-gita* ("Song to the Bee") — Radha's words addressed to a bee in separation from Krishna (*Bhag.* 10.47).
 [^07-18]: Sangopanga (সাঙ্গোপাঙ্গ) literally means "with angas and upangas", "with limbs and lesser limbs", that is, with all His associates; cf. *Bhag.* 11.5.32 and CC Adi 3.
 [^07-19]: Keshava Bharati is the sannyasi from whom Mahaprabhu took sannyasa in Katwa (Kantaka-nagara).
@@ -24143,7 +24143,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^07-32]: Gauranga is the Deity of Gauranga at Kantaka-nagara (Katwa), where Mahaprabhu accepted sannyasa.
 [^07-33]: The Deities of Gaura and Nityananda at Ambika, served by Gauridasa Pandita (see 320 ff.) and later by Hridaya Chaitanya.
 [^07-34]: Subala is one of Krishna's closest friends (a priya-narma-sakha); in Gaura's pastimes Subala is Gauridasa Pandita (GGD 128, see 328).
-[^07-35]: "The seventh verse" (৭ অঙ্কে) is the reading of the 1888 and 1912/13 editions (in the scans); the 1960 edition has the eighth.
+[^07-35]: "The seventh verse" (৭ অঙ্কে) is the reading of the 1888 and 1912/13 editions; the 1960 edition has the eighth.
 [^07-36]: The source of the verse has not been identified.
 [^07-37]: Suryadasa Sarakhel is the elder brother of Gauridasa, the father of Vasudha and Jahnava, the wives of Nityananda. Shaligrama (331) is Suryadasa's village, from which Gauridasa moved to Ambika.
 [^07-38]: Harinadi is a village on the bank of the Ganga, on the Shantipura side (as the story implies); Ambika lies on the other bank.
@@ -24160,7 +24160,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^07-49]: Cf. Dharenda-Bahadurpur (BR 1.354), the former village of Shyamananda's family, where, by tradition, he was born.
 [^07-50]: Vishnupura (Vana-Vishnupura) is the capital of the kingdom of Mallabhum in West Bengal, where Srinivasa Acharya lived; its king Vira Hambira (472) is his disciple.
 [^07-51]: A play on words: *vana* in the name Vana-Vishnupura means "forest"; অরণ্য (*aranya*) also means "forest, wilderness".
-[^07-52]: "By insisting" is literally "making bold" (প্রৌঢ় করি, so in the 1888 and 1960 editions; the 1912/13 edition, in the scan, has simply প্রৌঢ়). The 1888 edition reads "I cannot even say" (কহিতেও) instead of "I cannot even carry out" (করিতেও).
+[^07-52]: "By insisting" is literally "making bold". The 1888 edition reads "I cannot even say" (কহিতেও) instead of "I cannot even carry out" (করিতেও).
 [^07-53]: The 1960 edition reads āpane ("himself") for āsane ("on seats"): "he himself seated them."
 [^07-54]: Thakura Narahari is Narahari Sarakara of Shrikhanda, whom Srinivasa had visited before (BR 3.298); Sri Raghunandana (524) is his nephew.
 [^07-55]: Gadadhara Dasa is an associate of the Lord and of Nityananda (see BR 3). In 527–532 the subject is apparently he; if so, "the Lord's courtyard" in 531 is the courtyard of the Lord's temple in Kantaka-nagara (Katwa).
@@ -24170,7 +24170,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^07-59]: A play on the name: Gadadhara Dasa (who lived in Kantaka-nagara) grieves for Gadadhara Pandita (602–603). Possibly: the glory of Gadadhara Dasa is known only to Gadadhara Pandita (cf. 605), or the other way round.
 [^07-60]: The king of robbers is Vira Hambira, king of Vana-Vishnupur, whose men stole the books; this is told at the beginning of this taranga.
 [^07-61]: So in the 1912/13 and 1888 editions (bhakti-marma); the 1960 edition reads bhakti-dharma, "the dharma of bhakti".
-[^07-62]: "Did not act" follows the 1888 edition ("তমু মমতা না কৈলা", in the scan) and the 1960 edition; the 1912/13 edition lacks the negative ("তমু মমতা কৈলা": "he did act from the feeling 'mine'"), which also breaks the metre.
+[^07-62]: "Did not act" follows the 1888 edition and the 1960 edition; the 1912/13 edition lacks the negative ("তমু মমতা কৈলা": "he did act from the feeling 'mine'"), which also breaks the metre.
 
 ---
 
@@ -25875,21 +25875,21 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^08-14]: Sitanatha ("the Lord of Sita") — Advaita Acharya.
 [^08-15]: Literally, "the Purandara of Shantipura": Purandara is an epithet of Indra, here "lord". "Unseen by the world" (prapancha agochara) — that is, in His unmanifest pastimes.
 [^08-16]: Achyutananda — the son of Advaita Acharya.
-[^08-17]: The Acharya — Advaita Acharya. Couplets 119–120 are lost in the OCR of the 1960 edition at a page break; they are translated from the 1912/13 edition.
+[^08-17]: The Acharya — Advaita Acharya. Couplets 119–120 are lost in the 1960 edition at a page break; they are translated from the 1912/13 edition.
 [^08-18]: Nilachala-chandra ("the Moon of Nilachala") — Jagannatha in Puri.
 [^08-19]: Nitai and Chaitanya — the Deities of Nityananda and Gaura in Ambika (see BR 7).
 [^08-20]: Saptagrama — an ancient town on the Ganga near Triveni, north of Calcutta; a place of Nityananda's preaching, the birthplace of Uddharana Datta and Raghunatha Dasa Gosvami.
 [^08-21]: Here, at Triveni, the Yamuna and the Sarasvati branch off from the Ganga ("the three streams").
 [^08-22]: Mahaprabhu sent Nityananda from Puri to preach in Bengal (CB Antya 5).
-[^08-23]: The Shesha-khanda ("the last khanda") — the Antya-khanda of CB. The quotation is CB Adi 1.175 (in the Gaudiya Math numbering: the summary of the Antya-khanda); the 1960 edition (in the scan) prints "আ ২।১৭৫".
+[^08-23]: The Shesha-khanda ("the last khanda") — the Antya-khanda of CB. The quotation is CB Adi 1.175 (in the Gaudiya Math numbering: the summary of the Antya-khanda); the 1960 edition prints "আ ২।১৭৫".
 [^08-24]: Ramadasa (usually identified with Abhirama Thakura) and Gadadhara Dasa — associates of Nityananda.
 [^08-25]: Raghava Pandita of Panihati — an associate of Mahaprabhu; not Raghava Gosvami of Vraja.
-[^08-26]: CB Adi 2.50 (so also the 1960 edition, in the scan: "আ ২।৫০"). A yojana is a measure of distance (about 13 km).
+[^08-26]: CB Adi 2.50. A yojana is a measure of distance (about 13 km).
 [^08-27]: Khardaha is a village on the Ganges where Nityananda lived with His family. Padmavati is Nityananda's mother.
 [^08-28]: Purandara Pandita was a devotee of Khardaha; Nityananda's kirtana in his temple is described in CB Antya 5.
 [^08-29]: Uddharana Datta, one of the twelve gopalas, was an associate of Nityananda from Saptagrama, of the merchant community (the suvarna-vaniks).
 [^08-30]: Mahaprabhu here is Nityananda.
-[^08-31]: So in the 1888 and 1912/13 editions (গোকুল নগরে, in the scans); the 1960 edition reads "in the town of Nadia."
+[^08-31]: So in the 1888 and 1912/13 editions; the 1960 edition reads "in the town of Nadia."
 [^08-32]: Vrindavana Dasa, the author of CB, describes Nityananda's journey through Panihati, Khardaha, Saptagrama and Navadvipa in CB Antya 5.
 [^08-33]: The son of Narayani is Vrindavana Dasa. "The sutra of the Shesha-khanda" is the summary of the contents of the Shesha- (Antya-) khanda that Vrindavana Dasa gives in the Adi-khanda of CB; cf. 8.152.
 [^08-34]: Vasudha and Jahnava are the consorts of Nityananda; Virabhadra (Virachandra) is His son (cf. BR 4.88).
@@ -25900,7 +25900,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^08-39]: Shikhi Mahiti was an associate of Mahaprabhu in Puri, a scribe at the temple of Jagannatha (cf. BR 3.181).
 [^08-40]: Cf. 8.83: in Ramakeli Mahaprabhu called Narottama to Himself.
 [^08-41]: The Simha-dvara ("Lion Gate") is the main, eastern entrance of the Jagannatha temple in Puri.
-[^08-42]: So in the 1888 and 1912/13 editions ("পরিচয় পাইনু কুন ব্রাহ্মণের দ্বারে", in the scans; "পাইনু", "I learned", or possibly "we learned": then it is the thought of the Lord's associates, "[who he is] we learned from a certain brahmana"); the 1960 edition reads "পাইল": "he learned of them from a certain brahmana."
+[^08-42]: So in the 1888 and 1912/13 editions; the 1960 edition reads "পাইল": "he learned of them from a certain brahmana."
 [^08-43]: The clouds and collyrium refer to the dark Jagannatha, the silver and the kunda (white jasmine) to the fair Baladeva.
 [^08-44]: Sudarshana is Vishnu's disc; on the altar of the Jagannatha temple it stands beside the Deities in the form of a pillar.
 [^08-45]: Haridasa Thakura, the Lord's associate who chanted the holy name without cease; his samadhi (tomb) is on the ocean shore in Puri (CC Antya 11).
@@ -25923,7 +25923,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^08-62]: A maund is a Bengali measure of weight.
 [^08-63]: Cf. BR 3: in Gadadhara's copy of the *Bhagavata* the letters were in places washed away by the tears of Sri Chaitanya and Gadadhara.
 [^08-64]: Narahari follows the tradition according to which Mahaprabhu disappeared in the temple of Tota-Gopinatha; there are other traditions as well (of the Lord's disappearance into Jagannatha).
-[^08-65]: "Out" renders bāhire (rhyming with mandire): so in all editions (in the 1888 and 1912/13 editions, checked against the scans; the OCR reading "nagara" of the 1912/13 edition is an error).
+[^08-65]: "Out" renders bāhire (rhyming with mandire): so in all editions.
 [^08-66]: On this see BR 3: Srinivasa was on his way to Puri, learned on the road of the Lord's disappearance and resolved to leave the body; the Lord consoled him in a dream.
 [^08-67]: Cf. BR 3: Gadadhara told Srinivasa to go to Vrindavana, and first to Gauda.
 [^08-68]: "He" is apparently Gadadhara Pandita; the speaker is Mamu Gosvami, his disciple.
@@ -28249,7 +28249,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 
 [^09-1]: Nabha Devi is the mother of Advaita Acharya; Ratnavati is the mother of Gadadhara Pandita, and Padmavati the mother of Nityananda.
 [^09-2]: The king recalls how his robbers stole the books of the Gosvamis that Srinivasa was carrying from Vrindavana to Gauda (BR 7).
-[^09-3]: So in the 1888 and 1912/13 editions (ভক্তিরস, bhakti-rasa, "the sweetness, the taste of devotion"; checked against the scans). The 1960 edition has ভক্তিবশ (bhakti-vaśa): "he is subject to your devotion."
+[^09-3]: So in the 1888 and 1912/13 editions. The 1960 edition has ভক্তিবশ (bhakti-vaśa): "he is subject to your devotion."
 [^09-4]: That is, in Shrikshetra (Puri), as stated in 43.
 [^09-5]: "In this veiled way" renders প্রকারে (prakāre), literally "in a certain manner", that is, indirectly: the blessing lies in the words of 60.
 [^09-6]: Magha is the month of January–February.
@@ -28286,8 +28286,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^09-37]: Margashirsha (Agrahayana) is November–December; ekadashi is the eleventh lunar day. This is the day of Narahari Sarakara's departure.
 [^09-38]: The son of Nityananda is Virachandra (Virabhadra); which of Advaita's sons is meant is not said.
 [^09-39]: "The jewel of bhakti" (bhakti-ratna) is a play on the title of the book, *Bhakti-ratnakara*.
-[^09-40]: Here and below (393–401) the commas between the names follow the 1960 edition; A/B/C have none, and the boundaries of some names are unclear (395 Nandana Pandita, or Nandana and Purandara Pandita; 397 Murari Chaitanyadasa, or Murari and Chaitanyadasa). "Vaninatha Vasu" — so in the 1888 and 1912/13 editions (বাণীনাথ বসু, checked against the scans); the 1960 edition has bāṇīnātha bandhu.
-[^09-41]: All editions (scans of A and C) have "বসন্ত লবনি" (vasanta labani); whether this is one name or two is unclear; possibly "Navani".
+[^09-40]: Here and below (393–401) the commas between the names follow the 1960 edition; A/B/C have none, and the boundaries of some names are unclear (395 Nandana Pandita, or Nandana and Purandara Pandita; 397 Murari Chaitanyadasa, or Murari and Chaitanyadasa). "Vaninatha Vasu" — so in the 1888 and 1912/13 editions; the 1960 edition has bāṇīnātha bandhu.
+[^09-41]: All editions have "বসন্ত লবনি" (vasanta labani); whether this is one name or two is unclear; possibly "Navani".
 [^09-42]: Sri Madhava Acharya is also named in 394, and Vaninatha in 393 and 395; so in all editions.
 [^09-43]: In the 1888 and 1912/13 editions শ্রীপুষ্প গোপাল (Sripushpa gopala) is written as two words — possibly two persons: Sri Pushpa and Gopala.
 [^09-44]: CC Adi 11 (the branches of Nityananda); the CC has "the trunk, the great branch" (skandha-mahashakha), here "a branch like a trunk."
@@ -28318,7 +28318,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^09-69]: Krishna Mishra and Gopala are sons of Advaita Acharya (cf. 9.532).
 [^09-70]: Virabhadra (Virachandra, 595–596) is the son of Nityananda.
 [^09-71]: A play on words: the mardala (drum) "crushes" (mardana) the unbelievers (pashandas).
-[^09-72]: The jhanjh is a pair of large cymbals; the khamak and khanjari are small percussion instruments (the khanjari is a tambourine). The 1912/13 edition glosses "khamak" as "মধ্যে ঝাঁজসহিত বাদ্যযন্ত্র" — "an instrument with small cymbals in the middle" (checked against the scan).
+[^09-72]: The jhanjh is a pair of large cymbals; the khamak and khanjari are small percussion instruments (the khanjari is a tambourine). The 1912/13 edition glosses "khamak" as "মধ্যে ঝাঁজসহিত বাদ্যযন্ত্র" — "an instrument with small cymbals in the middle".
 [^09-73]: Pathaksharas — the spoken syllables of drum rhythms (cf. patha-varna in Taranga 5).
 [^09-74]: So in the 1912/13 edition (ālāp-varṇa-rīte). The 1960 edition reads "ālāp-varṇana-rīte" — "in the order of alapa described [in the shastras]."
 [^09-75]: Terms of the theory of music set out in detail in Taranga 5 (from 5.2490); the 1912/13 edition has a note to 607: "shruti and the rest — see the fifth taranga."
@@ -28330,7 +28330,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^09-81]: The mangala-arati is the arati before dawn. "The Lord" here and below is the Deity of Gauranga in Shrikhanda (cf. BR 8.431–432).
 [^09-82]: The masters (প্রভুগণ) are apparently the mahantas, the Lord's associates (Virabhadra, Srinivasa and others); cf. "the Lord's beloved ones" in 658.
 [^09-83]: The festival in Shrikhanda fell on the Ekadashi of the dark half of the month of Agrahayana, the day of Thakura Narahari's departure (cf. 9.374, 513); the night of Ekadashi was spent without sleep, in sankirtana.
-[^09-84]: All editions (scans of A, C, G) have only this line; in the 1960 edition the missing line is marked by a row of asterisks (a lacuna). "Great master" is mahādhīra (A, C, G); the OCR of copy B has "মহাবীর" ("great hero") — a recognition error.
+[^09-84]: All editions have only this line; in the 1960 edition the missing line is marked by a row of asterisks (a lacuna). "Great master" is mahādhīra (A, C, G). ("great hero") — a recognition error.
 [^09-85]: The parana is the breaking of the Ekadashi fast on the following day, Dvadashi.
 [^09-86]: Charanamrita is the water that has bathed the Deity's feet.
 [^09-87]: The bhoga-mandira is the room where food (bhoga) is offered to the Deity.
@@ -30676,16 +30676,16 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^10-6]: So in the 1912/13 edition (*nirṇaye*, "set apart, assigned"); the 1960 edition reads *nirmāṇaye*, "built."
 [^10-7]: So in the 1912/13 edition (*e mahat āyojana*); the 1960 edition reads *e hetu āyojana*, "that is why the preparations."
 [^10-8]: Gokula is Gokulananda.
-[^10-9]: So in the 1912/13 edition (*śiṣṭagaṇa*, "respectable people"; checked against the scan); the 1960 edition reads *śiṣyagaṇa*, "disciples."
+[^10-9]: So in the 1912/13 edition; the 1960 edition reads *śiṣyagaṇa*, "disciples."
 [^10-10]: That is, what is usually done on a day of disappearance (a feast) the Vaishnavas cannot do on Ekadashi, since they fast; therefore the festival with its feast is completed on dvadashi (75–79).
 [^10-11]: So in the 1912/13 edition (*tomāra manera kathā*); the 1960 edition reads *tomāya manera kathā*, "I tell you in private what is on my mind."
 [^10-12]: Prabhu here is probably Srinivasa Acharya, who has just eaten prasada (113): the disciples eat the remnants from the guru's plate; cf. "Prabhu" for Srinivasa in 146–152. In 100 "the Lord" (śrīprabhu) is Krishna, to whom the bhoga was offered.
 [^10-13]: On Krishnavallabha of Deuli see BR 7.133. Vyasa Acharya Chakravarti is probably Vyasa Chakravarti, the reader of the king of Vishnupura (BR 7.150).
 [^10-14]: Vallavikanta Kaviraja is a disciple of Srinivasa; not to be confused with the Deity Sri Vallavikanta at Kheturi.
 [^10-15]: Probably the same Kaviraja Karnapura to whose book the author refers in BR 8.554; not Kavi Karnapura, the son of Shivananda Sena.
-[^10-16]: The 1912/13 edition (scan) reads "রূপ নিমু’ বীর ভৌমালয়" (after "নিমু," at the end of the line, a mark like an apostrophe); the 1960 edition has rūpa nimubīr bhaumālay. The division into names (Rupa, Nimu, Vira) and a place name (Bhaumalaya) is conjectural.
-[^10-17]: Panchakuta is probably Panchakot, a region in western Bengal. Seragarh and Kadhai have not been identified; "Kadhai" — so in the 1912/13 edition (কঢ়ই, checked against the scan) and the 1960 edition; kaṭai in the OCR of copy B is a recognition error.
-[^10-18]: The 1912/13 edition (scan) reads "এ দ্বয়" ("these two"); "এ ছয়" ("these six") in the 1960 edition and in the OCR of copy B is apparently an error. "The two brothers" are Ramakrishna and Kumuda.
+[^10-16]: The 1912/13 edition reads "রূপ নিমু’ বীর ভৌমালয়" (after "নিমু," at the end of the line, a mark like an apostrophe); the 1960 edition has rūpa nimubīr bhaumālay. The division into names (Rupa, Nimu, Vira) and a place name (Bhaumalaya) is conjectural.
+[^10-17]: Panchakuta is probably Panchakot, a region in western Bengal. Seragarh and Kadhai have not been identified; "Kadhai" — so in the 1912/13 edition and the 1960 edition.
+[^10-18]: The 1912/13 edition reads "এ দ্বয়" ("these two"); "এ ছয়" "The two brothers" are Ramakrishna and Kumuda.
 [^10-19]: The sons of Sri Gopala Chakravarti, Srinivasa's father-in-law; cf. BR 8.499 (Shyamadasa and Ramachandra, who are also called Shyamananda and Ramacharana).
 [^10-20]: Ramachandra's younger brother is Govinda (Kaviraja), who had moved to Teliya Budhari (BR 9.126–133).
 [^10-21]: Prabhu here and in 149–156 is Srinivasa Acharya.
@@ -30697,7 +30697,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^10-27]: Cf. 232: in the dream the Lord told Ramachandra that on seeing each other he and Narottama would remember what had been before.
 [^10-28]: So in the 1912/13 ed. ("কে বুঝিতে পারে"); the 1960 ed. has "কে কহিতে পারে," "who can say."
 [^10-29]: On Srinivasa's marriage see BR 8; on his second journey to Vrindavana, BR 9.
-[^10-30]: "Fifteen" — "পঞ্চদশ" (pañcadaśa) both in the 1912/13 edition (scan) and in the 1960 edition; the sign "৬" in the OCR of copy B is a recognition error.
+[^10-30]: "Fifteen" — "পঞ্চদশ" (pañcadaśa) both in the 1912/13 edition and in the 1960 edition.
 [^10-31]: Gokula (Gokula Dasa) and Devidasa are disciples of Narottama who took part in his kirtana.
 [^10-32]: Sri Govinda is Govinda Kaviraja (Govindadasa), the younger brother of Ramachandra Kaviraja and a celebrated poet of padas; on his name "Kaviraja" see 296.
 [^10-33]: Prabhu here is Srinivasa Acharya (cf. "Sri Acharya Prabhu" in 313).
@@ -30707,15 +30707,15 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^10-37]: The Prabhus (plural) are the revered senior Vaishnavas invited to the festival: Jahnava Devi and others; their journey is told next.
 [^10-38]: The *Narottama-vilasa* is another work by Narahari Chakravarti, a life of Narottama.
 [^10-39]: The Lord is Nityananda, Jahnava's husband, who had by this time already disappeared; in 360–363 He speaks of Himself as accompanying her unseen to the festival and to Vrindavana.
-[^10-40]: The names in 373–377 are divided according to the punctuation of the 1960 edition; other readings are possible: "Minaketana Ramadasa" is one person (an associate of Nityananda), and "manohara" may also be an epithet ("charming"); "Jiva Pandita" is also possible as a single name. "Nrisimha Chaitanya" is one person, as in 519 and in CC Adi 11.53 ("নৃসিংহচৈতন্য, মীনকেতন রামদাস"); the 1912/13 edition (scan) reads "নৃসিংহ চৈতন্য জীব পণ্ডিত কানাই," without punctuation. Kamalakara Pippalai is one of the twelve gopalas, associates of Nityananda; Vrindavana Dasa is apparently the author of the CB.
+[^10-40]: The names in 373–377 are divided according to the punctuation of the 1960 edition; other readings are possible: "Minaketana Ramadasa" is one person (an associate of Nityananda), and "manohara" may also be an epithet ("charming"); "Jiva Pandita" is also possible as a single name. "Nrisimha Chaitanya" is one person, as in 519 and in CC Adi 11.53 ("নৃসিংহচৈতন্য, মীনকেতন রামদাস"); the 1912/13 edition reads "নৃসিংহ চৈতন্য জীব পণ্ডিত কানাই," without punctuation. Kamalakara Pippalai is one of the twelve gopalas, associates of Nityananda; Vrindavana Dasa is apparently the author of the CB.
 [^10-41]: Halisahar (Kumarahatta) is a village on the Ganga north of Calcutta, the birthplace of Ishvara Puri.
-[^10-42]: The lame Bhagavan is apparently Bhagavan Acharya, an associate of Mahaprabhu (called lame — খঞ্জ — in CC Antya 14.90); the identification is conjectural. The 1912/13 edition (scan) reads "খঞ্জ ভগবানাত্মজ রঘুনাথাচার্য্য."
+[^10-42]: The lame Bhagavan is apparently Bhagavan Acharya, an associate of Mahaprabhu (called lame — খঞ্জ — in CC Antya 14.90); the identification is conjectural. The 1912/13 edition reads "খঞ্জ ভগবানাত্মজ রঘুনাথাচার্য্য."
 [^10-43]: "The Lord" (prabhu) is apparently Nityananda, going unseen with Jahnava (cf. 358–364); possibly Jahnava herself is meant.
 [^10-44]: Apparently Vamshivadana Thakura (Vamshidasa), an associate of Mahaprabhu; not Vamshidasa Chakravarti of 10.300–328.
 [^10-45]: Hridayananda is the same Hridaya Chaitanya (387), disciple of Gauridasa Pandita and guru of Shyamananda. Sri Chaitanya and Nityananda in 388–389 are the Deities of Gaura and Nitai at Ambika whom he served.
 [^10-46]: The courtyard (angana) of Srivasa Pandita's house in Navadvipa, the place of Mahaprabhu's nightly kirtanas.
-[^10-47]: Akaihat is a village near Kantaka-nagara (Katwa). Krishnadasa of Akaihat is apparently Kala Krishnadasa, a branch of Nityananda (CC Adi 11.37); the text (scan of the 1912/13 edition: "আকাইহাটের কৃষ্ণদাসাদি") does not give the byname "Kala."
-[^10-48]: Here and below (414–417) the commas between the names follow the 1960 edition; the 1912/13 edition has none, and the boundaries of some names are unclear (414: Vallabha and Chaitanyadasa, or one person; 415: Jita Mishra is written as one word, jitāmiśra, in both editions; 417: "শ্রীপুষ্পগোপাল" is written here as one word in the 1912/13 edition, cf. 9.407). Checked against the scan of the 1912/13 edition.
+[^10-47]: Akaihat is a village near Kantaka-nagara (Katwa). Krishnadasa of Akaihat is apparently Kala Krishnadasa, a branch of Nityananda (CC Adi 11.37); the text does not give the byname "Kala."
+[^10-48]: Here and below (414–417) the commas between the names follow the 1960 edition; the 1912/13 edition has none, and the boundaries of some names are unclear (414: Vallabha and Chaitanyadasa, or one person; 415: Jita Mishra is written as one word, jitāmiśra, in both editions; 417: "শ্রীপুষ্পগোপাল" is written here as one word in the 1912/13 edition, cf. 9.407). Checked in the edition of the 1912/13 edition.
 [^10-49]: Kathakata (kāṭhakāṭā; in the 1912/13 edition kāṣṭhakāṭā), literally "woodcutter," is Jagannatha's byname.
 [^10-50]: In Kantaka-nagara (Katwa) Mahaprabhu accepted sannyasa from Keshava Bharati.
 [^10-51]: The full moon of the month of Phalguna (February–March) is the appearance day of Sri Chaitanya (Gaura-purnima). The six Sri Deities are those of Narottama's temple in Kheturi; Srinivasa performs their abhisheka, and their names are given below.
@@ -30725,8 +30725,8 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^10-55]: The Lords (*prabhu-gana*) are the six Deities named in 483; so also below in 505–506.
 [^10-56]: The same verse of Narottama is quoted in BR 1.426.
 [^10-57]: Devidasa, Vallava Dasa (529), Gauranga Dasa (530) and Gokula (531) are Narottama's associates (527), the players and singers of his kirtana. The mardala is a two-headed drum.
-[^10-58]: So in the 1912/13 ed. (scan: "শ্রীবল্লবদাসাদি") and the 1960 ed.: "বল্লবদাস" (*vallava-dāsa*); possibly Vallabha Dasa (*vallabha-dāsa*) is meant.
-[^10-59]: Anibaddha ("unbound") is free singing, alapa; nibaddha ("bound") is song built of parts, with metre and words (cf. 5.2815). The second line has "অনিবদ্ধ" (*anibaddha*) both in the 1912/13 ed. (scan: "অনিবদ্ধ গীত গোকুলাদি আলাপয়") and in the 1960 ed.; "নিবদ্ধ" in the OCR of copy B is a recognition error.
+[^10-58]: So in the 1912/13 ed. and the 1960 ed.: "বল্লবদাস" (*vallava-dāsa*); possibly Vallabha Dasa (*vallabha-dāsa*) is meant.
+[^10-59]: Anibaddha ("unbound") is free singing, alapa; nibaddha ("bound") is song built of parts, with metre and words (cf. 5.2815). The second line has "অনিবদ্ধ" (*anibaddha*) both in the 1912/13 ed. and in the 1960 ed..
 [^10-60]: Varna-nyasa and svara-alapa are techniques of alapa (cf. varnalankara and varnalapa in Taranga 5, 5.2810–2848).
 [^10-61]: That is, Narottama first sings a song about Gauranga in the mood of Radha (547–548), and then songs about the pastimes of Radha and Krishna.
 [^10-62]: Svarupa is Svarupa Damodara, who sang for Mahaprabhu in Puri.
@@ -30735,14 +30735,14 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^10-65]: That is, the Lord's associates living in this world (the manifest) and those who had already departed from it (the unmanifest) appeared together.
 [^10-66]: Vidyavachaspati — the brother of Sarvabhauma Bhattacharya (CC Madhya 1).
 [^10-67]: Shriman Pandita — an associate of Mahaprabhu in Navadvipa, who held the lamp during His kirtana (CC Adi 10).
-[^10-68]: আচার্য-নন্দন (*ācārya-nandana*) — taken as Nandana Acharya (cf. "Acharya Purandara" in 593), an associate of Mahaprabhu; it may also be understood as "Yadu, the son of the Acharya." The 1912/13 edition (scan) has separate words without punctuation: "শ্রীমান্ পণ্ডিত যদু আচার্য্য নন্দন."
+[^10-68]: আচার্য-নন্দন (*ācārya-nandana*) — taken as Nandana Acharya (cf. "Acharya Purandara" in 593), an associate of Mahaprabhu; it may also be understood as "Yadu, the son of the Acharya." The 1912/13 edition has separate words without punctuation: "শ্রীমান্ পণ্ডিত যদু আচার্য্য নন্দন."
 [^10-69]: Nakula Brahmachari — a Bengali Vaishnava in whose body Mahaprabhu manifested Himself (CC Antya 2).
 [^10-70]: Possibly also: "Srinivasa and Narottama calmed everyone."
-[^10-71]: The phagu play (ফাগু-খেলা) is the Holi festival, when people sprinkle one another with colored powder. ফল্গু (*phalgu*; OCR ফন্ত) is the red powder for this play, the same as phagu; the 1912/13 edition (scan) has ফল্গু (here and in 638).
+[^10-71]: The phagu play (ফাগু-খেলা) is the Holi festival, when people sprinkle one another with colored powder. ফল্গু is the red powder for this play, the same as phagu; the 1912/13 edition has ফল্গু (here and in 638).
 [^10-72]: That is, to the Deities in the temple at Kheturi.
 [^10-73]: Yadu is probably Sri Yadunandana, who came to Kheturi with the party from Kantaka-nagara (cf. 410–427); the text does not specify.
 [^10-74]: Sri Madhava is Madhava Acharya (702).
-[^10-75]: The 1912/13 edition (scan) and the 1960 edition have ভুঞ্জাইল (*bhuñjāila*), "fed"; "তৃপ্তাইল" in the OCR of copy B is a recognition error.
+[^10-75]: The 1912/13 edition and the 1960 edition have ভুঞ্জাইল (*bhuñjāila*), "fed".
 [^10-76]: Pratipada is the first lunar day after the full moon; the second lunar day is dvitiya.
 [^10-77]: Santosha Datta's desire was apparently that the guests should cook for themselves in their lodgings from what he had given them (cf. 718).
 [^10-78]: So in the 1912/13 edition (dāruṇa pāṣāṇa, "hard stone"); the 1960 edition reads dāru pāṣāṇa, "wood and stone".
@@ -30751,7 +30751,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^10-81]: Manifest and unmanifest (prakaṭa-aprakaṭa) associates are those still present in this world and those who had already departed; the appearance of Gaura, Nityananda and Advaita with them during the kirtana at the Kheturi festival is told earlier in this taranga.
 [^10-82]: The sense of the second line is not quite clear (tomarā yāibā saṅge se pathe lahiyā, lit. "you will go along, taking by that road"): perhaps Narottama and his companions are to accompany Ishvari on her way, or to lead others by the same road.
 [^10-83]: Thakura Mahashaya is Narottama; Ramachandra is Ramachandra Kaviraja.
-[^10-84]: The scan of the 1912/13 edition shows the colophon in full: iti śrīmadbhaktiratnākare śrīnarottamālaye mahāmahotsava śrījāhnavī-vṛndāvanayātrādivarṇanaṁ nāma daśamastaraṅgaḥ (its beginning was lost in the OCR); so also the 1960 edition (śrīśrīmad…, śrījāhnavā…) — the differences are orthographic.
+[^10-84]: The edition of the 1912/13 edition shows the colophon in full: iti śrīmadbhaktiratnākare śrīnarottamālaye mahāmahotsava śrījāhnavī-vṛndāvanayātrādivarṇanaṁ nāma daśamastaraṅgaḥ; so also the 1960 edition (śrīśrīmad…, śrījāhnavā…) — the differences are orthographic.
 
 ---
 
@@ -33154,7 +33154,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^11-16]: Bhakti-devi ("the goddess Bhakti") — here Jahnava Ishvari as bhakti embodied (108).
 [^11-17]: The Acharya is Srinivasa Acharya. His disciples Govinda (Govinda Kaviraja, younger brother of Ramachandra Kaviraja) and Bhagavan Kaviraja had come to Vrindavana with Jahnava.
 [^11-18]: Cf. CC Madhya 18: because of the crowds, Mahaprabhu stayed at Akrura-ghat and accepted alms there.
-[^11-19]: So in the 1912/13 edition (scan). In the 1960 edition, instead of "praṇame" ("bow down") — "prathame" ("first"); possibly a misprint or an OCR error.
+[^11-19]: So in the 1912/13 edition. In the 1960 edition, instead of "praṇame" ("bow down") — "prathame" ("first").
 [^11-20]: The principal Deities of Vrindavana: Govinda (of Rupa Gosvami), Gopinatha (of Madhu Pandita), Madanamohana (of Sanatana Gosvami), Radha-vinoda (of Lokanatha Gosvami), Radha-ramana (of Gopala Bhatta Gosvami), Radha-damodara (of Jiva Gosvami).
 [^11-21]: Kaviraja — lit. "king of poets"; here it is told how Govinda (Govindadasa) received this title from the Gosvamis of Vrindavana.
 [^11-22]: Sri Dasa Gosani is Raghunatha Dasa Gosvami; Radhika-kunda is Radha-kunda. Rupa Gosvami (151) had by this time already entered the unmanifest pastimes.
@@ -33165,15 +33165,15 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^11-27]: So in the 1912/13 edition (śrīrāmera, "of Sri Rama," that is, Balarama); the 1960 edition reads śyāmera, "of Shyama."
 [^11-28]: Pauganda is the age from the sixth to the tenth year.
 [^11-29]: The Lord is Nityananda: at Khardaha He unseen commanded Jahnava to return soon after Vrindavana (10.358–363).
-[^11-30]: "Will take her place" — *basibena* ("will sit, will be placed"): so in the 1912/13 ed. (scan: "বামে বসিবেন তেঁহ"); *balibena* ("will say") in the 1960 ed. and in the OCR of copy B is an error.
+[^11-30]: "Will take her place" — *basibena* ("will sit, will be placed"): so in the 1912/13 ed..
 [^11-31]: That is, a Deity of Sri Radha for Gopinatha, matching Him in height.
 [^11-32]: Gopishvara is Shiva (Mahadeva) in Vrindavana.
 [^11-33]: Suryadasa (Sarakhel) was the father of Vasudha and Jahnava, the wives of Nityananda, and the elder brother of Gauridasa Pandita.
 [^11-34]: The *Gopala-virudavali* is a poem in praise of Krishna (Gopala) by Jiva Gosvami.
 [^11-35]: Understood thus: Krishnadasa Kaviraja and the others (285) showed their love to Bhagavan Kaviraja (a disciple of Srinivasa and companion of Govinda) and the rest of the party. The grammar also allows another sense: "Bhagavan Kaviraja and all the others showed their love…".
-[^11-36]: Sri Bhatta Gosvami is Gopala Bhatta Gosvami. The 1912/13 ed. (scan) has «শ্রীভট্টগোস্বামি» (*śrībhaṭṭagosvāmi*). In 297 the same edition has «আইলাম» (literally "[we] came"), the 1960 ed. «আইলেন» ("they came"); translated by the sense.
-[^11-37]: "Thoroughly dry" — the 1912/13 ed. (scan) has «অতিশুষ্ক শুষ্ক» (*ati-śuṣka śuṣka*, a doubling for emphasis); *śuka śuka* in the OCR of the 1960 ed. is the same word. The original plays on words: *santoṣa santoṣe*, "Santosha with satisfaction."
-[^11-38]: Bara Gangadasa is a disciple of Gauridasa Pandita (11.264), apparently the same as in BR 7.434. Here the 1912/13 ed. (scan) has «বড়» (*baṛa*, "elder"), in 11.260–261 «বড়ু» (*baṛu*); the 1960 ed. reads *baḍu gaṅgādāsa* (*baḍu*, "young brahmana"); the name is given as in 7.434.
+[^11-36]: Sri Bhatta Gosvami is Gopala Bhatta Gosvami. The 1912/13 ed. has «শ্রীভট্টগোস্বামি» (*śrībhaṭṭagosvāmi*). In 297 the same edition has «আইলাম» (literally "[we] came"), the 1960 ed. «আইলেন» ("they came"); translated by the sense.
+[^11-37]: "Thoroughly dry" — the 1912/13 ed. has «অতিশুষ্ক শুষ্ক» (*ati-śuṣka śuṣka*, a doubling for emphasis); *śuka śuka* in the 1960 ed. is the same word. The original plays on words: *santoṣa santoṣe*, "Santosha with satisfaction."
+[^11-38]: Bara Gangadasa is a disciple of Gauridasa Pandita (11.264), apparently the same as in BR 7.434. Here the 1912/13 ed. has «বড়» (*baṛa*, "elder"), in 11.260–261 «বড়ু» (*baṛu*); the 1960 ed. reads *baḍu gaṅgādāsa* (*baḍu*, "young brahmana"); the name is given as in 7.434.
 [^11-39]: So in the 1912/13 ed. (*nirakhiyā*, "looking"); the 1960 ed. has *jijñāsiyā*, "asking." Who tells of Vraja (338–339) is not stated; by the sense it is Ishvari, who has just returned from Vraja.
 [^11-40]: A danda is about 24 minutes; six dandas are about two and a half hours.
 [^11-41]: Which Gosvami is not stated; possibly Lokanatha Gosvami, Narottama's guru, whose words Govinda had conveyed to him (cf. 11.276–279).
@@ -33183,10 +33183,10 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^11-45]: The commas between the names (400–403) follow the 1960 edition; the 1912/13 edition has none, and the name boundaries are taken as in BR 10.743–746. "Murari Chaitanya" is one name, as in the 1912/13 edition (the 1960 edition has "Murari, Chaitanya"). "The handsome Gauranga" renders gaurāṅgasundara. In 402, রঘুপতি বৈদ্য উপাধ্যায় মনোহর is divided as in BR 10.745: Raghupati Vaidya and Upadhyaya Manohara.
 [^11-46]: Here begins the old brahmana's long narrative; it is given without quotation marks, and only the speeches inserted into it are quoted.
 [^11-47]: According to the *Mahabharata* (Adi-parva), the Pandavas with their mother Kunti lived in Ekachakra disguised as brahmanas, and there Bhima killed the Rakshasa Baka.
-[^11-48]: So in the 1912/13 edition (kāla-prabhāvete, "by the power of time"); the 1960 edition has kali-prabhāvete, "by the power of [the age of] Kali". The 1912/13 reading is confirmed by the scan («কাল প্রভাবেতে গোপ্য হৈলা সে সকলে»).
+[^11-48]: So in the 1912/13 edition (kāla-prabhāvete, "by the power of time"); the 1960 edition has kali-prabhāvete, "by the power of [the age of] Kali". The 1912/13 reading is confirmed by the edition («কাল প্রভাবেতে গোপ্য হৈলা সে সকলে»).
 [^11-49]: Nityananda is Balarama Himself (cf. CC Adi 5); the prophecy refers to His birth in Ekachakra.
 [^11-50]: The old brahmana is still speaking (from 11.416). This Ojha is Nityananda's grandfather, the father of Hadai Pandita; "ojha" is a title of a priestly brahmana (cf. BR 5.2253).
-[^11-51]: A gai (gāi, গাঁই) is a lineage branch of the Rarhi brahmanas of Bengal, named after an ancestral village; Bandyaghati is the Bandyopadhyaya clan. The construction "although … still" seems to indicate that the Sundaramala branch was not counted among the highest. The reading is confirmed by the scan of the 1912/13 edition: «যদ্যপি সুন্দরামল বন্দিঘাটি গাঁই। তথাপি বেষ্টিত শ্রেষ্ঠ পূজ্য সর্ব্ব ঠাঁই»; বেষ্টিত (beṣṭita, lit. "surrounded") is translated by sense as "held".
+[^11-51]: A gai (gāi, গাঁই) is a lineage branch of the Rarhi brahmanas of Bengal, named after an ancestral village; Bandyaghati is the Bandyopadhyaya clan. The construction "although … still" seems to indicate that the Sundaramala branch was not counted among the highest. The reading is confirmed by the edition of the 1912/13 edition: «যদ্যপি সুন্দরামল বন্দিঘাটি গাঁই। তথাপি বেষ্টিত শ্রেষ্ঠ পূজ্য সর্ব্ব ঠাঁই»; বেষ্টিত (beṣṭita, lit. "surrounded") is translated by sense as "held".
 [^11-52]: Hado (hāḍo) is from হাড় "bone." The unattractive name was apparently meant to ward misfortune away from the child, since the earlier children had died.
 [^11-53]: A yajamana is one for whom a brahmana priest performs rites; Hadai was a priest (ojha).
 [^11-54]: Krishna's ages: kaumara — up to five years, pauganda — from five to ten, kaishora — from ten to fifteen.
@@ -33207,7 +33207,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^11-69]: "কৃষ্ণদাস পণ্ডিতাদি" — possibly one of the Krishnadasas among Jahnava's companions (11.400–401: Krishnadasa Sarakhel, Krishnadasa the best of brahmanas); the reading "Krishnadasa, the panditas and others" is also possible.
 [^11-70]: Vishvakarma is the divine architect, builder of the abodes of the gods.
 [^11-71]: Sri Vasu (শ্রীবসু) is Vasudha, Nityananda's wife and Jahnava's sister; both are daughters of Suryadasa Sarakhel (cf. 634).
-[^11-72]: "Swarms upon swarms" — «পুঞ্জ পুঞ্জ»; below the line the 1912/13 edition (scan) notes «কুঞ্জ পুঞ্জ, পাঠান্তর», a variant *kuñja puñja*: "in the groves, swarms [of bees]."
+[^11-72]: "Swarms upon swarms" — «পুঞ্জ পুঞ্জ»; পাঠান্তর», a variant *kuñja puñja*: "in the groves, swarms [of bees].".
 [^11-73]: Chuya (cuyā) is a fragrant oil, a perfume. "In vessels; many flower garlands" follows the 1912/13 ed. (pātre nānā puṣpa-hāra); the 1960 ed. has "many offerings of flowers" (nānā puṣpa-upahāra).
 [^11-74]: "Token offering waved before" renders Bengali nichani: something waved around a beloved person to ward off misfortune and then given away as worthless; the sense is that before His beauty champaka, keshara (saffron) and gold are worth nothing.
 [^11-75]: Sri Vasu[dha] (śrībasu) is Vasudha, Nityananda's wife, Jahnava's elder sister (cf. 8.210). Here and in 640–655 Jahnava's dream in Ekachakra continues.
@@ -37245,7 +37245,7 @@ in the corners of their eyes — so many kinds of playful glances!
 **1285.** How much they say to one another — indistinctly, under their breath;
 which of them, in the way of playful beauties, does not offer herself up [for Him]?
 With their garments, ornaments and attire they destroy [all] composure —
-who could find a comparison for that beauty?[^12-163]
+who could find a comparison for that beauty?
 
 **1286.** Anklets, belts of bells, the sounds of many instruments —
 how sweet it is, words cannot express.
@@ -46786,14 +46786,14 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 
 [^12-1]: Lakshmi is Lakshmipriya, Mahaprabhu's first wife; Vishnupriya, His second. Vasu is Vasudha, Nityananda's wife together with Jahnava.
 [^12-2]: Raghunatha Dasa and Raghunatha Bhatta.
-[^12-3]: śrīgopāla nārāyaṇa (so in the 1912/13 ed., checked against the scan, and in the 1960 ed.) — two persons (Gopala and Narayana) or one name, "Gopala-narayana"; who is meant has not been established.
-[^12-4]: The nine divisions (dvipas) of Bharata-varsha according to the *Vishnu Purana*; Narahari takes the ninth, unnamed one as Navadvipa (see 36). Tamraparna — so in the 1960 ed.; the 1912/13 ed. (checked against the scan) has tāmravarṇa, "Tamravarna."
+[^12-3]: śrīgopāla nārāyaṇa — two persons (Gopala and Narayana) or one name, "Gopala-narayana"; who is meant has not been established.
+[^12-4]: The nine divisions (dvipas) of Bharata-varsha according to the *Vishnu Purana*; Narahari takes the ninth, unnamed one as Navadvipa (see 36). Tamraparna — so in the 1960 ed.; the 1912/13 ed. has tāmravarṇa, "Tamravarna."
 [^12-5]: The Sanskrit explanation of the verse stands both in the main text of the 1912/13 ed. and in the 1960 ed. Shridhara Svami is the commentator on the *Bhagavatam* and the *Vishnu Purana*. A play on words: "the ninth island" (navama dvīpa) is Navadvipa (nava-dvīpa, "nine islands").
 [^12-6]: The White Island (sitadvīpa) is Shvetadvipa. The 1912/13 ed. notes a variant reading: sitadvīpaṃ prāhuḥ ("call [it] the White Island").
 [^12-7]: A play on words: nava-dvīpa ("nine islands") and nava-dīpta ("nine shining").
 [^12-8]: Vajranabha is Krishna's great-grandson, who restored the villages of Vraja (BR 5).
 [^12-9]: The eight siddhis are mystic perfections; the nine nidhis, treasures (of Kubera). Dharma, artha, kama and moksha are the four goals of human life.
-[^12-10]: The Suradhuni is the Ganga. The 1912/13 ed. (checked against the scan) reads mukutā-sraja, "a garland of pearls"; the OCR of the 1960 ed. is garbled (mukutā-bhraja).
+[^12-10]: The Suradhuni is the Ganga. The 1912/13 ed. reads mukutā-sraja, "a garland of pearls".
 [^12-11]: The lord of serpents is Shesha (Ananta), who sings the Lord's glory with a thousand mouths.
 [^12-12]: Ghanashyama is the poetic name of Narahari Chakravarti.
 [^12-13]: The *Sri Chaitanya-chandramrita* is a Sanskrit poem by Prabodhananda Sarasvati.
@@ -46805,7 +46805,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-19]: Antardvipa ("the Inner Island") is the first of the nine islands of Navadvipa, on the eastern bank of the Ganga; Mayapura belongs to it. Ishana explains the origin of the name further on.
 [^12-20]: In the original, "তার মায়া" (tāra māyā), "His maya": the Lord's power by which He conceals Himself and bewilders even Brahma.
 [^12-21]: Brahma's stealing of the calves and cowherd boys and his prayers to Krishna: *Bhag.* 10.13–14.
-[^12-22]: "Pride" — দর্প (darpa): so in the 1912/13 ed. (checked against the scan) and in the 1960 ed.; "দর্পণ" ("mirror") in the OCR copies of the 1912/13 ed. is a recognition error.
+[^12-22]: "Pride" — দর্প (darpa): so in the 1912/13 ed. and in the 1960 ed.; "দর্পণ"
 [^12-23]: According to the *Gaura-ganoddesha-dipika*, Brahma appeared in the Lord's pastimes as Haridasa Thakura, who was born in a Muslim family; Narahari himself does not name him here.
 [^12-24]: Brahma stole the calves and cowherd boys of Vraja and was bewildered by Krishna's maya (*Bhag.* 10.13).
 [^12-25]: The 1960 edition reads "প্রভুর বর" (*prabhura bara*), "having obtained the Lord's boon"; the 1912/13 edition (A and B) reads "প্রভুর বড়" (*prabhura baṛa*), which is followed here.
@@ -46823,21 +46823,21 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-37]: Kumarahatta is present-day Halisahar, on the eastern bank of the Ganga downstream from Navadvipa; the birthplace of Ishvara Puri.
 [^12-38]: Vamana-paukhera is a village in Madhyadvipa; the name is a popular form of "Brahmana-pushkara" (312; Bengali *bāmun*, "brahmana," *pokhar*, "pond"). Here the 1912/13 ed. has বামন পৌখৈরা (*bāmana paukhairā*), with the editor's note of a variant বামন পৌখেরা.
 [^12-39]: Pushkara is the famous sacred lake and tirtha in Rajasthan, near Ajmer, the "king of tirthas."
-[^12-40]: তাঁর রীত (*tāṅra rīta*), "his custom, behavior": so in the 1912/13 ed. (checked against the scan) and in the 1960 ed.; "প্রীত" ("love") in the OCR copies of the 1912/13 ed. is a recognition error.
+[^12-40]: তাঁর রীত (*tāṅra rīta*), "his custom, behavior": so in the 1912/13 ed. and in the 1960 ed.; "প্রীত"
 [^12-41]: Hatadanga (Uchchahatta) is a village in Navadvipa, within Madhyadvipa, on the eastern bank of the Ganga; the origin of its old name is explained in 353–368.
 [^12-42]: Uchchahatta (uccahaṭṭa): ucca, "high," "loud"; haṭṭa, "market." The two reasons for the name are the "market" of the gods' talk and the loud kirtana on a high place (365–368).
 [^12-43]: Kuliya-Paharpura is a village on the western bank of the Ganga, traditionally identified with the area of the present town of Navadvip. This is Koladvipa, one of the nine islands of Navadvipa; its other name, Parvata ("mountain"), is explained in 374–399.
 [^12-44]: Kola-deva is Lord Varaha, the Boar (Skt. kola, "boar"); in 381 He is called Varaha-deva outright.
 [^12-45]: Samudragarhi (now Samudragarh) is a village on the western bank of the Ganga, south of the town of Navadvipa. The name is explained in 404–445: Samudra-gati, "the coming of the Ocean."
 [^12-46]: Jahnavi ("the daughter of Jahnu") and the Suradhuni (422; "the river of the gods") are names of the Ganga.
-[^12-47]: "The garb of a sannyasi": সন্ন্যাসিবেশ (*sannyāsi-veśa*), so in the 1912/13 ed. (checked against the scan) and in the 1960 ed.; "সন্নিবেশ" in the OCR copies of the 1912/13 ed. is a recognition error. The Lord's sannyasa is meant (cf. 412, 416).
+[^12-47]: "The garb of a sannyasi": সন্ন্যাসিবেশ (*sannyāsi-veśa*), so in the 1912/13 ed. and in the 1960 ed.. The Lord's sannyasa is meant (cf. 412, 416).
 [^12-48]: According to the CC (Adi 13), Mahaprabhu appeared on the full moon of the month of Phalguna during a lunar eclipse, when people, by custom, were chanting the names of Hari.
 [^12-49]: Champaka-hatta ("the champaka market"), now Champahati, is a village near Samudragarhi. The name is explained in 450–453 and 474; in 478–481 the form is "Champahatta." The champaka is a tree with fragrant golden-yellow flowers (Bengali *champa*).
-[^12-50]: "Famous": the 1912/13 ed. (checked against the scan) reads বিদিত (*vidita*, "well known"); the 1960 edition has দিব্য (*divya*, "divine").
+[^12-50]: "Famous": the 1912/13 ed. reads বিদিত (*vidita*, "well known"); the 1960 edition has দিব্য (*divya*, "divine").
 [^12-51]: Cf. *Bhag.* 11.5.32.
 [^12-52]: গৌর-অবতারি (*gaura-avatāri*) is understood as "Gaura, the Source of avataras" (*avatārī*, the one from whom all avataras proceed); "Gaura-avatara" is also possible.
 [^12-53]: *Hatta* (হট্ট) means a market: the profusion of words of praise is likened to the many voices of a market. The understanding of this line is tentative.
-[^12-54]: "Gaurachandra" follows the 1960 edition; the 1912/13 ed. (checked against the scan: "এই চম্পাহট্টে গণসনে। বিহরয়ে যৈছে…") lacks the word, and the line is metrically incomplete.
+[^12-54]: "Gaurachandra" follows the 1960 edition; the 1912/13 ed. lacks the word, and the line is metrically incomplete.
 [^12-55]: Vaninatha is a brahmana of Champahatta, an associate of Mahaprabhu; tradition connects him with the temple of Gaura-Gadadhara at Champahati.
 [^12-56]: Only one line (half) of a verse of the GGD is quoted; the editions do not give the verse number.
 [^12-57]: Ratupura is a village that Narahari connects with Ritudvipa, one of the nine islands of Navadvipa; the explanation of the name begins at 485.
@@ -46849,14 +46849,14 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-63]: The staff (danda) and the kamandalu (waterpot) are a sannyasi's belongings; the shikha is the tuft of hair on the crown of the head, shaved off on accepting sannyasa.
 [^12-64]: Maugachhi is a village on the western bank of the Ganga, the former Modadrumadvipa (551); *moda-druma* means "tree of joy." The name is explained further on in the narrative.
 [^12-65]: Janaki is Sita, the daughter of King Janaka; Lakshmana is Rama's younger brother. Rama's exile is the story of the *Ramayana*. Ramachandra in 557–566 is the Lord Rama Himself, not Srinivasa's companion Ramachandra Kaviraja.
-[^12-66]: "Here" — এথায় (*ethāya*): so in the 1912/13 ed. (checked against the scan) and in the 1960 ed.; "পরায়" in the OCR copies of the 1912/13 ed. is a recognition error.
+[^12-66]: "Here" — এথায় (*ethāya*): so in the 1912/13 ed. and in the 1960 ed..
 [^12-67]: Here Rameshvara is the Shiva installed by Rama in Utkala by the river Svarnarekha (on the border of Bengal and Orissa), not Rameshvaram in South India.
-[^12-68]: "Most wondrous" — পরমাদ্ভুত (*paramādbhuta*): so in the 1912/13 ed. (checked against the scan) and in the 1960 ed.; "পরাভূত" in the OCR copies of the 1912/13 ed. is a recognition error.
+[^12-68]: "Most wondrous" — পরমাদ্ভুত (*paramādbhuta*): so in the 1912/13 ed. and in the 1960 ed..
 [^12-69]: Literally "at the time of disappearance (aprakata)"; it may also be understood as "after the Lord's disappearance".
 [^12-70]: Vaikunthapura is a village in Modadrumadvipa; according to the account below, here Narada beheld Vaikuntha and its Lord.
 [^12-71]: Narayana-pitha ("the seat of Narayana") is another name of Vaikunthapura (cf. 670–671).
 [^12-72]: Vallabha Mishra (Vallabhacharya) of Navadvipa was the father of Lakshmipriya, the first wife of Mahaprabhu (CB Adi-khanda). Lakshmi in 678–689 is Lakshmipriya.
-[^12-73]: "There" follows the 1912/13 ed. (checked against the scan: *se divasa sei vipra chila sei khāne*). The 1960 ed. reads "here" (*ei khāne*).
+[^12-73]: "There" follows the 1912/13 ed.. The 1960 ed. reads "here" (*ei khāne*).
 [^12-74]: Matapura is a village in Navadvipa; its former name, Mahatpura (702), is explained by the story of the Pandavas' stay here (703–728).
 [^12-75]: "Mahat-prasanga-pura" means "the village of association with the great" (*mahat*, "great"; *prasanga*, "association, connection"), that is, with the Pandavas.
 [^12-76]: In the *Mahabharata* the Pandavas, during their wanderings, live in Ekachakra, and Bhima slays the rakshasa Baka there. Bengali tradition identifies this Ekachakra with the village in Rarh that is the birthplace of Nityananda.
@@ -46867,14 +46867,14 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-81]: Yudhishthira-vedi — "Yudhishthira's altar." "Mound" renders ṭālā (টালা); the 1912/13 edition has an editor's note on this word: "টীলা অর্থাৎ উচ্চস্থান" ("tila, that is, a raised place").
 [^12-82]: The *Mahabharata* places the year of living unrecognized (ajnata-vasa) in the kingdom of Virata; Narahari relates a local tradition of Navadvipa.
 [^12-83]: Sri Madhava — a Deity of Vishnu in Utkala near Puri; which shrine is meant has not been identified.
-[^12-84]: Rahupura — so in the 1912/13 and 1960 eds., checked against the scans (রাহুপুর, *rāhupura*); the forms "রাদুপুর," "রাছুপুর," "রাঢ়ুপুর" in the OCR copies are recognition errors. "Rudrapura" — রুদ্রপুর in the 1960 ed., রুদপুর in the 1912/13 ed. Rudradvipa is one of the nine islands of Navadvipa, named after Rudra (Shiva).
+[^12-84]: Rahupura — so in the 1912/13 and 1960 eds.s (রাহুপুর, *rāhupura*); the forms "রাদুপুর," "রাছুপুর," "Rudrapura" — রুদ্রপুর in the 1960 ed., রুদপুর in the 1912/13 ed. Rudradvipa is one of the nine islands of Navadvipa, named after Rudra (Shiva).
 [^12-85]: Belpaukhera (বেলপৌখেরা) — a village; its former name Bilvapaksha is explained in 778 and 791: bilva — the bilva tree (with whose leaves Shiva is worshipped), pakṣa — a fortnight.
 [^12-86]: Bharaidanga (ভারইডাঙ্গা) — a village; its former name is Bharadvaja-tila, "Bharadvaja's mound" (see 807).
 [^12-87]: Bharadvaja — a Vedic rishi, one of the seven great sages.
 [^12-88]: Chakradaha — now Chakdaha (Chakda), a town on the Ganga (Hooghly) in Nadia district, downstream from Navadvipa.
 [^12-89]: Suvarna-vihara (সুবর্ণবিহার) — a village in Navadvipa; the name means "the sporting of the golden [form]" (suvarṇa — gold, vihāra — play, sporting); it is explained in 837.
 [^12-90]: pīta-varṇa — literally "of yellow color," that is, golden; cf. *Bhag.* 10.8.13, where Garga lists the colors of the Lord's incarnations in the yugas, among them yellow (pīta).
-[^12-91]: puruṣa soṅariyā — so in the 1912/13 and 1960 eds. (checked against the scans: পুরুষ সোঙরিয়া); probably "remembering the Purusha," that is, the Lord (Mahaprabhu); possibly to be read pūrva — "remembering the past."
+[^12-91]: puruṣa soṅariyā — so in the 1912/13 and 1960 eds.; probably "remembering the Purusha," that is, the Lord (Mahaprabhu); possibly to be read pūrva — "remembering the past."
 [^12-92]: The son of Upendra is Jagannatha Mishra; Upendra Mishra is his father (CC Adi 13). The Vishnu-mandapa is the room for the worship of Vishnu in the house.
 [^12-93]: Nilambara Chakravarti — Shachi's father, Mahaprabhu's maternal grandfather (CC Adi 13).
 [^12-94]: Vishvarupa — Mahaprabhu's elder brother; he later accepted sannyasa and left home. The eight daughters of Shachi who passed away one after another are also mentioned in CC Adi 13.
@@ -46898,10 +46898,10 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-112]: A Bengali rite on the eighth day after birth (atkaure): children are given eight kinds of fried beans and peas.
 [^12-113]: Utthana (946–947) is the rite and festival when the infant is first lifted up. The marks on the feet are the marks of Vishnu (the flag, the thunderbolt and others); this episode is also in CB Adi-khanda.
 [^12-114]: The annaprashana is the rite of an infant's first feeding with rice.
-[^12-115]: The angada is an armlet worn above the elbow, the valaya a bracelet at the wrist, the kharu anklets; magara (magarā; so in the 1912/13 ed., checked against the scan: মগরা খাড়ু) probably means "makara-shaped" (the sense is not quite clear). An amulet of a tiger's claw is worn by children for protection.
+[^12-115]: The angada is an armlet worn above the elbow, the valaya a bracelet at the wrist, the kharu anklets; magara probably means "makara-shaped" (the sense is not quite clear). An amulet of a tiger's claw is worn by children for protection.
 [^12-116]: Nichhani (নিছনি) is the custom of "offering oneself up" for a beloved, warding off misfortune from him.
 [^12-117]: In the original তুড়ী (tuḍī), the Bengali form of the name of the raga Todi.
-[^12-118]: "কোলে চড় সিয়া" (*koḷe caḍa siyā*) — so in the 1912/13 ed. (checked against the scan; "চড় পিয়া," "চড় নিয়া" in the OCR are recognition errors), "চড়সিয়া" in the 1960 ed.; understood as *caḍa āsiyā*, "come, climb up."
+[^12-118]: "কোলে চড় সিয়া" (*koḷe caḍa siyā*) — so in the 1912/13 ed., "চড়সিয়া" in the 1960 ed.; understood as *caḍa āsiyā*, "come, climb up."
 [^12-119]: "Offers himself" — *nichhani*: a rite in which an object is waved around a beloved person and cast away, warding off misfortune from him; the poet offers himself in this way. Narahari is the poet's signature (likewise in 997, 1003, 1012).
 [^12-120]: Ananta-deva is Ananta (Shesha), the divine serpent who is Vishnu's couch; that is, the snake the Lord played with was Ananta. Cf. CB, Adi-khanda.
 [^12-121]: Vishvarupa is Vishvambhara's elder brother; he later took sannyasa and left home.
@@ -46910,15 +46910,15 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-124]: "Thu-thu" — থুথুৎকার (*thuthutkāra*), spitting to ward off misfortune and the evil eye.
 [^12-125]: On Vasudeva Ghosha see the note to 12.900; his signature (*bhaṇitā*) closes the songs in 1038, 1043 and 1048.
 [^12-126]: Bhatiyali (ভাট্যালি, *bhāṭyāli*) is a Bengali melody type, literally "of the river," "boatmen's."
-[^12-127]: The 1912/13 ed. (checked against the scan) reads "সুরঙ্গ চতুনা মাথে, গলায় সোনার কাঁটি" (*suraṅga catunā*, *sonāra kāṃṭi*); *catunā* is understood as চৌতনী (*cautanī*), a child's cap, and *kāṃṭi* (= কণ্ঠি) as "a golden necklace." The forms "রঙ্গ," "স্বর," "কীটি," "কাটা" in the OCR are recognition errors.
+[^12-127]: The 1912/13 ed. reads "সুরঙ্গ চতুনা মাথে, গলায় সোনার কাঁটি" (*suraṅga catunā*, *sonāra kāṃṭi*); *catunā* is understood as চৌতনী (*cautanī*), a child's cap, and *kāṃṭi* (= কণ্ঠি) as "a golden necklace." The forms "রঙ্গ," "স্বর," "কীটি,"
 [^12-128]: "Offers himself" is nichhani (*nichhani*); see the note to 12.979. Narahari is the poet's signature.
 [^12-129]: Cf. CC Adi 14; CB, Adi-khanda.
 [^12-130]: Shashthi is a goddess, the protectress of children; she is worshipped beneath a banyan tree.
-[^12-131]: The 1912/13 edition (checked against the scan) reads "শিখায়েন যত তাহা করিতে না পারি" ("…I cannot do"); translated after the 1960 edition, "কহিতে না পারি" ("I cannot tell").
+[^12-131]: The 1912/13 edition reads "শিখায়েন যত তাহা করিতে না পারি" ("…I cannot do"); translated after the 1960 edition, "কহিতে না পারি" ("I cannot tell").
 [^12-132]: The story of the two thieves is in CB, Adi-khanda.
 [^12-133]: A tairthika is a pilgrim who travels to the holy places (the 1912/13 edition glosses: তীর্থবাসী). His story is in CB, Adi-khanda.
 [^12-134]: A shalagrama is a sacred stone, a manifestation of Vishnu worshipped as the Deity; here, a shalagrama in the form of Bala-gopala (Krishna as a child), which the brahmana wore at his neck.
-[^12-135]: "Laughing with great joy": the 1912/13 edition (checked against the scan; the word "মহা-/হর্ষে" is split by a page break) reads "মহাহর্ষে হাসি এক গ্রাস অন্ন খায়"; the 1960 edition has "মহাহর্ষে আসি" ("coming in great joy").
+[^12-135]: "Laughing with great joy": the 1912/13 edition reads "মহাহর্ষে হাসি এক গ্রাস অন্ন খায়"; the 1960 edition has "মহাহর্ষে আসি" ("coming in great joy").
 [^12-136]: Vishvarupa is Nimai's elder brother, who later took sannyasa.
 [^12-137]: Jagadisha and Hiranya are brahmanas of Nadia, friends of Jagannatha Mishra. Cf. CC Adi 14; CB, Adi-khanda.
 [^12-138]: The speaker is Ishana, a servant in Shachi's house.
@@ -46928,7 +46928,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-142]: The *Sri Chaitanya-charita* (in the 1960 edition: *Sri Krishna-chaitanya-charita*) — the Sanskrit life of the Lord composed by Murari Gupta; "the physician" (vaidya) is Murari himself, a vaidya by caste, who is telling the story.
 [^12-143]: Both shlokas (1143–1144) stand under one introductory line. Narahari here is a name of the Lord (lit. "Hari in the form of a man"; Nrisimha is also so called), not the author of the poem.
 [^12-144]: Chuda-karma (chudakarana) — the Vedic rite of a child's first tonsure, in which a tuft (chuda) is left on the crown; here the ear-piercing is performed together with it (1158–1160).
-[^12-145]: The Sandarbhas — the *Shat-sandarbha* of Sri Jiva Gosvami, which discusses, among other things, the nature of the Lord's body, which only resembles a human one (cf. 1160). The link with the barber's story: the miracle of the ear (1160) shows that the Lord's body is spiritual and only resembles a human one, which is what Sri Jiva discusses; Narahari (the author), "having received permission," merely rejoices in it without expounding it himself. So also in the 1912/13 ed. (checked against the scan): "নরহরি আজ্ঞা পাঞা আনন্দ করিল" (the second line is not quite clear).
+[^12-145]: The Sandarbhas — the *Shat-sandarbha* of Sri Jiva Gosvami, which discusses, among other things, the nature of the Lord's body, which only resembles a human one (cf. 1160). The link with the barber's story: the miracle of the ear (1160) shows that the Lord's body is spiritual and only resembles a human one, which is what Sri Jiva discusses; Narahari (the author), "having received permission," merely rejoices in it without expounding it himself. So also in the 1912/13 ed.: "নরহরি আজ্ঞা পাঞা আনন্দ করিল" (the second line is not quite clear).
 [^12-146]: The songs 1163–1166 (and later 1193–1196) are in Brajabuli, the literary language of Vaishnava lyric poetry.
 [^12-147]: "Ulu-lu" — the joyful cry of Bengali women at festivals and auspicious rites.
 [^12-148]: Sutas, magadhas and bandis — traditional reciters, singers of genealogies and panegyrists.
@@ -46946,20 +46946,19 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-160]: The married women — āiho śuiho (Bengali eyo): women whose husbands are living; only they are called to perform the auspicious wedding rites. The second part of the phrase seems to be a rhyming echo-word.
 [^12-161]: The women's rites (strī-ācāra) are wedding customs performed by women according to family tradition, apart from the injunctions of the shastras.
 [^12-162]: Fetching the water (pāni sāhā) is a wedding custom: married women go singing to the river (here, the Ganga) for water to bathe the groom (cf. 1286, 1292). "Ulu-ulu" is the joyful cry of Bengali women at festivities.
-[^12-163]: avekata (= avyakta, "indistinctly") — so in the 1912/13 ed. (checked against the scan: "কহে অবেকত") and in the 1960 ed.; bhāve kata in the OCR of copy B is a recognition error.
-[^12-164]: kalarave sabhe ("amid the clamour all") — so in the 1912/13 ed. (checked against the scan: "কলরবে সভে"); "কলরবে ভে," "কলরবে গভে" in the OCR are recognition errors.
-[^12-165]: 1290–1291 survive only in fragments in the 1960 edition (OCR); translated from the 1912/13 edition, checked against the scan: "কেহো হলদি মাখায় গায়। হলদি মলিন হেরি হাসে সবে, পরাণ নিছয়ে তায়," "কেহ গন্ধদ্রব্য দেই অঙ্গে। সেনা অঙ্গগন্ধে, এ গন্ধমদ হরে, কে দিবে উপমা অঙ্গে" (*upamā aṅge*, "a comparison for the body").
+[^12-164]: kalarave sabhe ("amid the clamour all") — so in the 1912/13 ed.; "কলরবে ভে,"
+[^12-165]: 1290–1291 survive only in fragments in the 1960 edition; translated from the 1912/13 edition: "কেহো হলদি মাখায় গায়। হলদি মলিন হেরি হাসে সবে, পরাণ নিছয়ে তায়," "কেহ গন্ধদ্রব্য দেই অঙ্গে। সেনা অঙ্গগন্ধে, এ গন্ধমদ হরে, কে দিবে উপমা অঙ্গে" (*upamā aṅge*, "a comparison for the body").
 [^12-166]: Towel — pāni-tolā, literally "that which takes up the water".
 [^12-167]: "Ulu-ulu" (Bengali *ulu*) is the joyful cry that Bengali women raise at weddings and festivals as an auspicious sign.
 [^12-168]: Godhuli, "the hour of cow-dust," is twilight, when the herds return home; in Bengal it is considered an auspicious time for a wedding.
-[^12-169]: "Thai tata" (থৈ তত) and "khonga khoddina" (*khoṅga khoddina*, 1960 ed.; the 1912/13 ed., checked against the scan, has খোঙ্গ খোগিন, *khoṅga khogina*?) are onomatopoeic syllables (bols) of dance and drums; the exact reading of the second remains unclear even on the scan.
-[^12-170]: The besara is a nose pendant. So in the 1960 ed. (*besara*); the 1912/13 ed. (checked against the scan) has কেসর (*kesara*, "filament, mane"), which gives no sense here (probably a misprint); translated after the 1960 ed.
-[^12-171]: "At the place of the wedding rite" renders ছোড়লায় (*chhoḍalāy*): so in the 1912/13 ed. (checked against the scan: "পিঁড়ির উপরে ছোড়লায়") and in the 1960 ed.; probably ছাঁদলা (*chhā̃dalā*), the enclosed spot of the Bengali wedding rite (the meaning is conjectural). The *piṛi* (পিঁড়ি) is a low wooden stool on which the bridegroom stands.
+[^12-169]: "Thai tata" (থৈ তত) and "khonga khoddina" are onomatopoeic syllables (bols) of dance and drums; the exact reading of the second remains unclear even in the edition.
+[^12-170]: The besara is a nose pendant. So in the 1960 ed. (*besara*); the 1912/13 ed. has কেসর (*kesara*, "filament, mane"), which gives no sense here (probably a misprint); translated after the 1960 ed.
+[^12-171]: "At the place of the wedding rite" renders ছোড়লায় (*chhoḍalāy*): so in the 1912/13 ed. and in the 1960 ed.; probably ছাঁদলা (*chhā̃dalā*), the enclosed spot of the Bengali wedding rite (the meaning is conjectural). The *piṛi* (পিঁড়ি) is a low wooden stool on which the bridegroom stands.
 [^12-172]: Uruthi (উরুথিতে, *uruthite*): according to a note in the 1912/13 ed., to honour the bridegroom by offering him durva grass, betel, a lamp and other auspicious items with the cry "ulu," and to raise him [from his seat].
-[^12-173]: Raybar (রায়বার) is panegyric verse recited by the bhats (bards) at festivities. So in the 1960 ed.; the 1912/13 ed. (checked against the scan) has কায়বার (*kāyabāra*), another form of the same word (likewise in 1269, 1593, 1609).
+[^12-173]: Raybar (রায়বার) is panegyric verse recited by the bhats (bards) at festivities. So in the 1960 ed.; the 1912/13 ed. has কায়বার (*kāyabāra*), another form of the same word (likewise in 1269, 1593, 1609).
 [^12-174]: The basar (বাসর) is the room where the newlyweds spend the wedding night surrounded by women who joke and sing.
-[^12-175]: "Composure" renders ধৃতি (*dhṛti*, "steadiness"; it rhymes with প্রীতি): so in the 1912/13 ed. (checked against the scan: "আউলাইয়া নারে, ধরিতে ধৃতি"); "ধুতি" in the OCR of copy B is a recognition error.
-[^12-176]: The end of the line is "জয় কি নরহরি, ভবন পঁহু ক বিলাস" (so in the 1912/13 ed., checked against the scan, and in the 1960 ed.); the sense is unclear, the translation tentative.
+[^12-175]: "Composure" renders ধৃতি (*dhṛti*, "steadiness"; it rhymes with প্রীতি): so in the 1912/13 ed..
+[^12-176]: The end of the line is "জয় কি নরহরি, ভবন পঁহু ক বিলাস"; the sense is unclear, the translation tentative.
 [^12-177]: Ishvara Puri was a disciple of Madhavendra Puri; later, in Gaya, he gave the Lord initiation. Here Narahari calls him the Lord's "own servant." On his stay in Navadvipa and bhiksha at the Lord's house, see CB Adi-khanda.
 [^12-178]: "Vayu" ("wind") is a disorder which, according to Ayurveda, is caused by a disturbance of the wind in the body; this is how those around Him explained the Lord's symptoms of prema (CB Adi-khanda). His "illness" is lila.
 [^12-179]: The Vishnu-mandapa is the hall for the worship of Vishnu in the house of Jagannatha Mishra.
@@ -46970,20 +46969,20 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-184]: The adhivasa is the rite on the eve of the wedding: the groom (bride) is touched with fragrant substances (gandha) and other auspicious articles, garlands and sandal paste are offered, and blessings are pronounced.
 [^12-185]: "Fetching the water" (jala sādhā, pāni sādhā) is a wedding rite: married women go with music to the Ganga and bring water for the ritual bath of the groom (bride).
 [^12-186]: The songs 1403–1418 depict the feelings of the young wives of Nadia for Gaura (nagari-bhava); 1404–1406 is a townswoman's dream. The dream is her imagination: in His lila the Lord did not touch women and in Navadvipa did not look at them (CB, Adi). The Gaudiya Vaishnava tradition (Srila Bhaktisiddhanta Sarasvati) does not accept gaura-nagari, the worship of Gaura as a nagara, a lover.
-[^12-187]: So in the 1912/13 edition (checked against the scan: "অনুরাগে নব নব নারী," anurāge, "in love"); the 1960 edition apparently has aṅgarāge ("[with] body ointment"), but the OCR of the 1960 edition is corrupt here.
-[^12-188]: "Lining" renders আঁজি (āṃji): so in the 1912/13 ed. (checked against the scan: "আঁজি কঞ্জনয়ান") and in the 1960 ed.; ali, aji in the OCR are recognition errors.
-[^12-189]: The 1912/13 ed. (checked against the scan) reads "পরশ পররশ" (paraśa pararaśa); understood as paraspara rasa, "rasa on one another"; possibly "the touch — the highest rasa." The sense is unclear.
-[^12-190]: "Coming near Ai" is āika niyare (āika — "of Ai," that is, of Shachi, in the Brajabuli genitive). The word vihi (so in the 1912/13 ed., checked against the scan: "অঞ্জলি ভরি ভরি বিহি"; in brackets in the 1960 edition) is understood as vidhi, "duly, according to rite"; possibly "the Creator." The champaka buds are the women's joined fingers.
-[^12-191]: The dark hair of the bowing, golden-bodied women evokes a cloud with lightning. The 1912/13 ed. (checked against the scan) reads "সজল জলদ কির, চর তছু ভাঁতি"; the 1960 ed. has thira-cara, understood as "now still, now moving" (the reading of A remains unclear even on the scan). "Dark" is asita (A, on the scan: "অসিত সুকাঁতি"; the 1960 edition has amita, "immeasurable").
+[^12-187]: So in the 1912/13 edition; the 1960 edition apparently has aṅgarāge ("[with] body ointment").
+[^12-188]: "Lining" renders আঁজি (āṃji): so in the 1912/13 ed. and in the 1960 ed.; ali.
+[^12-189]: The 1912/13 ed. reads "পরশ পররশ" (paraśa pararaśa); understood as paraspara rasa, "rasa on one another"; possibly "the touch — the highest rasa." The sense is unclear.
+[^12-190]: "Coming near Ai" is āika niyare (āika — "of Ai," that is, of Shachi, in the Brajabuli genitive). The word vihi is understood as vidhi, "duly, according to rite"; possibly "the Creator." The champaka buds are the women's joined fingers.
+[^12-191]: The dark hair of the bowing, golden-bodied women evokes a cloud with lightning. The 1912/13 ed. reads "সজল জলদ কির, চর তছু ভাঁতি"; the 1960 ed. has thira-cara, understood as "now still, now moving". "Dark" is asita.
 [^12-192]: Tudi (tuḍi) is apparently the same as raga Todi (1403, 1407).
 [^12-193]: The songs 1419–1444 continue the theme of the feelings of the women of Nadia for Gaura (nagari-bhava; see the note on 12.1404); the Gaudiya Vaishnava tradition (Srila Bhaktisiddhanta Sarasvati) does not accept gaura-nagari. Madana is Kamadeva, the god of love.
 [^12-194]: The women's rites (stri-achara) are wedding rites performed by women according to family and local custom.
 [^12-195]: āiha-suiha — married women whose husbands are living (Bengali eyo); only they perform the auspicious wedding rites.
 [^12-196]: Shashthi is a goddess, the protectress of children; her worship is part of Bengali wedding rites. "The place of Shashthi" (ṣaṣṭhī-thala) is the place of her worship.
-[^12-197]: "Sat" renders বৈসে (baise): so in the 1912/13 ed. (checked against the scan: "কেবা, বৈসে প্রবেশিয়া ভবন-মাঝে"); baine, naige, haile in the OCR are recognition errors.
+[^12-197]: "Sat" renders বৈসে (baise): so in the 1912/13 ed.; baine, naige.
 [^12-198]: Purandara is Indra, the king of the gods.
-[^12-199]: "পরশপর পহুঁ চরিত ভনি অনিবার মুদমতি গতি নয়ী" — so in the 1912/13 ed. (checked against the scan); the sense of mudamati-gati nayī is unclear, the translation tentative.
-[^12-200]: Rhythm syllables of the drums; the 1912/13 ed. (checked against the scan) reads "থোঙ্গ থোঙ্কণ ঝিকি কু ঝাঙ্কিট, ঠিঠ্ঠি টন ন ন ন নায়ে"; the 1960 ed. (OCR) thoda thoskaṇa biki ku jhānkiṭa, ṭhiṭhaṭhi ṭana nanalananāye. "Skilled" renders sughara (A, on the scan: "সুঘর বাদক বৃন্দ").
+[^12-199]: "পরশপর পহুঁ চরিত ভনি অনিবার মুদমতি গতি নয়ী" — so in the 1912/13 ed.; the sense of mudamati-gati nayī is unclear, the translation tentative.
+[^12-200]: Rhythm syllables of the drums; the 1912/13 ed. reads "থোঙ্গ থোঙ্কণ ঝিকি কু ঝাঙ্কিট, ঠিঠ্ঠি টন ন ন ন নায়ে"; the 1960 ed. thoda thoskaṇa biki ku jhānkiṭa, ṭhiṭhaṭhi ṭana nanalananāye. "Skilled" renders sughara.
 [^12-201]: Ulu (ulu-dhvani) is the auspicious prolonged cry of Bengali women at festivities. "Brahmanas" is bhūsura in the original, "gods on earth."
 [^12-202]: "In a suitable raga" — yathā-rāga (likewise in 1477, 1481, 1487, 1491, 1495); the raga is not named.
 [^12-203]: The lord of the gods is Indra; Shachi here is his consort (the namesake of the Lord's mother).
@@ -46992,44 +46991,44 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-206]: Aiha-suiha (āiha-suiha; cf. Bengali eyo) — married women whose husbands are living; only they perform the auspicious wedding rites.
 [^12-207]: "To take upon oneself the ills (balai)" — an expression of tender love: "may all the ills that threaten you fall on me."
 [^12-208]: Nichhani — a rite in which something (or oneself) is "given away" for a beloved to ward off misfortune from him; here the full moon itself is only such an offering for that face.
-[^12-209]: "Sets out" renders করত বিজয় (karata vijaya): so in the 1912/13 ed. (checked against the scan) and in the 1960 ed.; "কানন," "ধর দির" in the OCR are recognition errors. The songs 1491–1498 are in Brajabuli.
-[^12-210]: The list of musical instruments is given in transliteration. The 1912/13 ed. (checked against the scan) reads "শৃঙ্গিকাক বিলাস কংসারি… মঞ্জু কুণ্ডলী বারুণা" — rendered "shringika, kaka-vilasa"; "বারুণা" (bāruṇā) is unidentified. The last line consists of drum-rhythm syllables (bols); on the scan of A: "তক থোঙ্গ থোঙ্গিন, তক থবিকু তক তক থুনা".
-[^12-211]: "Dhi dhi kata…" are dance-rhythm syllables (bols); the 1912/13 ed. (checked against the scan) reads "ধি ধি কট ধা ধিনি নি নি নি দৃক্কুতা দৃমিত কথঈ". Ghanashyama is the poet's signature (Narahari Chakravarti's other name). The end of the line on the scan of A is "শ্যাম হিয় উমতা অঈ" (umatā aī, "enraptured").
+[^12-209]: "Sets out" renders করত বিজয় (karata vijaya): so in the 1912/13 ed. and in the 1960 ed.; "কানন," The songs 1491–1498 are in Brajabuli.
+[^12-210]: The list of musical instruments is given in transliteration. The 1912/13 ed. reads "শৃঙ্গিকাক বিলাস কংসারি… মঞ্জু কুণ্ডলী বারুণা" — rendered "shringika, kaka-vilasa"; "বারুণা" (bāruṇā) is unidentified. The last line consists of drum-rhythm syllables (bols); in the edition of A: "তক থোঙ্গ থোঙ্গিন, তক থবিকু তক তক থুনা".
+[^12-211]: "Dhi dhi kata…" are dance-rhythm syllables (bols); the 1912/13 ed. reads "ধি ধি কট ধা ধিনি নি নি নি দৃক্কুতা দৃমিত কথঈ". Ghanashyama is the poet's signature (Narahari Chakravarti's other name). The end of the line in the edition of A is "শ্যাম হিয় উমতা অঈ" (umatā aī, "enraptured").
 [^12-212]: The four kinds of instruments: tata (stringed), ghana (solid — cymbals, gongs), anaddha (covered with skin — drums), shushira (wind).
-[^12-213]: Lasya is a gentle, graceful dance. The rhythm syllables (bols) follow the 1912/13 ed. (checked against the scan: "ভণ তক তক থৈ থৈ থৈ, আই অতি নি নি নি তিয়া"); "আই জাতি" in the OCR of copy B is an error.
+[^12-213]: Lasya is a gentle, graceful dance. The rhythm syllables (bols) follow the 1912/13 ed..
 [^12-214]: The Thousand-faced One is Ananta (Shesha); Vidhi is Brahma; Mahesha is Shiva; Girija is Parvati. In A/B the words "বিহি মহেশ" are erroneously repeated.
 [^12-215]: "In a suitable raga" — yathā-rāga (likewise in 1503, 1507, 1511, 1527, 1531); the raga is not named.
 [^12-216]: The songs 1499–1510 again depict the feelings of the women of Nadia ("nagaris," 1507) for Gaura (nagari-bhava); see the note on 12.1404.
 [^12-217]: Jhapa (jhāpā) — a golden hair ornament (a pendant for the braid).
 [^12-218]: Gandharaja — a fragrant white flower (gardenia); champa (champaka) — a tree with fragrant golden-yellow flowers.
 [^12-219]: Nichhani — a rite in which something (or oneself) is "given away" for a beloved to ward off misfortune from him; here hundreds of Kamadevas give themselves as a ransom for that beauty.
-[^12-220]: "As if" — "মেন" (mena): so in the 1912/13 ed. (checked against the scan: "আহা মরি মরি মেন") and in the 1960 ed.; probably a misprint for "যেন" (yena), and so understood.
+[^12-220]: "As if" — "মেন" (mena): so in the 1912/13 ed. and in the 1960 ed.; probably a misprint for "যেন" (yena), and so understood.
 [^12-221]: The bridal chamber — basara-ghara: the room where on the wedding night the women of the house surround the couple with jokes and songs.
-[^12-222]: Chhodla (ছোড়লা, *chhoḍalā*; in the 1912/13 ed., checked against the scan, "ছোড় লাতে"; likewise "ছোড়লা শোভয়ে" in 1536 and "ছোড়লায়" in 1319): the meaning is unclear; apparently the place of the wedding rite, a platform under a canopy (cf. Bengali *chhādnātalā*).
+[^12-222]: Chhodla: the meaning is unclear; apparently the place of the wedding rite, a platform under a canopy (cf. Bengali *chhādnātalā*).
 [^12-223]: Aiha-suiha (āiha-suiha) — married women whose husbands are living; only they perform the auspicious wedding rites.
-[^12-224]: So in the 1912/13 ed. (checked against the scan): "হাতে দীপ সপ্ত-প্রদক্ষিণ করে, বরে উরুথিয়া যাইতে ঘরে." Uruthi is the rite of receiving the bridegroom (see 1325 and the note of the 1912/13 ed. there); circling the groom seven times with a lamp is part of that rite (cf. 1326).
-[^12-225]: "The wedding platform" renders ছোড়লা (*chhoḍalā*; so in the 1912/13 ed., checked against the scan: "ছোড়লা শোভয়ে সেই খানে"; cf. 1319, 1527): apparently the place of the wedding rite where the bride and groom stand. The meaning is conjectural.
-[^12-226]: The 1912/13 ed. (checked against the scan) reads "বাজত থর, নাহি অতুল, ঝলকে কমুক কাঁতি" (bājata thara, nāhi atula); "bracelets" follows G "কঙ্গক" (kaṅkaṇa?); কমুক (kamuka) in A is possibly kanaka, "golden luster." The sense of the line is not quite clear.
-[^12-227]: "To Krishna" — কৃষ্ণে (kṛṣṇe): so in the 1912/13 ed. (checked against the scan: "কৃষ্ণে কন্যা দান, করি কত সাধে"); in the OCR of the 1960 ed. the word is garbled. Narahari calls Gaura Krishna.
+[^12-224]: So in the 1912/13 ed.: "হাতে দীপ সপ্ত-প্রদক্ষিণ করে, বরে উরুথিয়া যাইতে ঘরে." Uruthi is the rite of receiving the bridegroom (see 1325 and the note of the 1912/13 ed. there); circling the groom seven times with a lamp is part of that rite (cf. 1326).
+[^12-225]: "The wedding platform" renders ছোড়লা: apparently the place of the wedding rite where the bride and groom stand. The meaning is conjectural.
+[^12-226]: The 1912/13 ed. reads "বাজত থর, নাহি অতুল, ঝলকে কমুক কাঁতি" (bājata thara, nāhi atula); "bracelets" follows G "কঙ্গক" (kaṅkaṇa?); কমুক (kamuka) in A is possibly kanaka, "golden luster." The sense of the line is not quite clear.
+[^12-227]: "To Krishna" — কৃষ্ণে (kṛṣṇe): so in the 1912/13 ed.; in the 1960 ed. the word is garbled. Narahari calls Gaura Krishna.
 [^12-228]: "Narahari's Lord" (*narahari-nātha*): the Lord of the poet Narahari, i.e. Gaura; the poet's usual signature in a pada (likewise in 1570, 1574).
 [^12-229]: "Bridal chamber": *bāsara-ghara*, the room in the bride's house where the newlyweds spend the first night surrounded by the women of the family, who joke with the groom.
-[^12-230]: The 1912/13 ed. (checked against the scan) reads "কাঁপে সেনা রসের আবেশে"; সেনা is understood as সে না ("she"; cf. 1291, 1478); "মেনা" in the OCR is a recognition error.
-[^12-231]: "Reddish feet" — "রাঙ্গাপায়" (rāṅgā pāya): so in the 1912/13 ed. (checked against the scan: "নিছয়ে জীবন রাঙ্গাপায়"); the 1960 ed. (OCR) has "রাধা পায়," probably a recognition error.
+[^12-230]: The 1912/13 ed. reads "কাঁপে সেনা রসের আবেশে"; সেনা is understood as সে না ("she"; cf. 1291, 1478).
+[^12-231]: "Reddish feet" — "রাঙ্গাপায়" (rāṅgā pāya): so in the 1912/13 ed.; the 1960 ed. has "রাধা পায়," probably a recognition error.
 [^12-232]: Kushandika: the rite before the sacred fire that concludes the wedding (performed after the wedding night).
 [^12-233]: Following A/B *karite*; the 1960 ed. reads *kahite*: "Who can describe the longing of them all?"
-[^12-234]: "A great tumult" is understood as ḍambara ("noise, pomp; multitude"); the 1912/13 ed. (checked against the scan) reads "ভূরি ভূম্বুর(?) করত ঘন," the 1960 ed. (OCR) "ভূগ্গর"; the spelling remains unclear even on the scan. The same word occurs in 1612 ("a vast throng").
-[^12-235]: The 1912/13 ed. (checked against the scan) reads "মরুজ মর্দ্দল, ত্রিসরি কুণ্ডলি পটহ পুষ্কল, কুকু নুনু নুনু, নু ধা" — trisari, kundali, pataha, pushkala (a drum); the drum syllables follow the scan of A; in G they are garbled ("বুকু হুম, সু সুধা").
-[^12-1613a]: So in the 1960 ed.; in the 1912/13 ed. (checked against the scan) the strophe is shorter: "অতি হি সুমধুর, বচনে সুনিপুণ, গৌরহরি যশ গায়" — the words "পরিতোষ করই সভায়। চলল নিজ-নিজ গেহে সবে মিলি" ("He satisfies everyone. All went together to their own homes") are absent from it.
+[^12-234]: "A great tumult" is understood as ḍambara ("noise, pomp; multitude"); the 1912/13 ed. reads "ভূরি ভূম্বুর(?) করত ঘন," the 1960 ed. "ভূগ্গর"; the spelling remains unclear even in the edition. The same word occurs in 1612 ("a vast throng").
+[^12-235]: The 1912/13 ed. reads "মরুজ মর্দ্দল, ত্রিসরি কুণ্ডলি পটহ পুষ্কল, কুকু নুনু নুনু, নু ধা" — trisari, kundali, pataha, pushkala (a drum); the drum syllables follow the edition of A; in G they are garbled ("বুকু হুম, সু সুধা").
+[^12-1613a]: So in the 1960 ed.; in the 1912/13 ed. the strophe is shorter: "অতি হি সুমধুর, বচনে সুনিপুণ, গৌরহরি যশ গায়" — the words "পরিতোষ করই সভায়। চলল নিজ-নিজ গেহে সবে মিলি" ("He satisfies everyone. All went together to their own homes") are absent from it.
 [^12-236]: Godhuli: dusk, the "hour of cow-dust," when the herds return home. The Suradhuni ("river of the gods") is the Ganga.
 [^12-237]: That is, He accepted initiation from him (CB Adi-khanda). On Ishvara Puri see 12.1365.
 [^12-238]: Shriman Pandita is an associate of the Lord in Navadvipa; he was among the first to whom the Lord, on returning from Gaya, told of the pilgrimage (CB Adi-khanda).
 [^12-239]: Vishnupada ("the foot of Vishnu") is the temple at Gaya bearing the footprint of Vishnu; pilgrims perform rites for their ancestors there.
-[^12-240]: Shuklambara Brahmachari is a devotee of Navadvipa; in his house on the next day the Lord manifested prema (CB Adi-khanda). The 1912/13 ed. (checked against the scan; faint impression) reads "কালি শুক্লাম্বর ঘরে"; "গরান্বয," "শুরাশ্বর" in the OCR are recognition errors.
+[^12-240]: Shuklambara Brahmachari is a devotee of Navadvipa; in his house on the next day the Lord manifested prema (CB Adi-khanda). The 1912/13 ed. reads "কালি শুক্লাম্বর ঘরে"; "গরান্বয,"
 [^12-241]: Kapila is an avatara of the Lord, the son of Devahuti, who instructed his mother in knowledge and bhakti (*Bhag.*, Canto Three).
 [^12-242]: The text has শ্রীনিবাস (Srinivasa) — here this is Srivasa, Srinivasa Pandita, not Srinivasa Acharya who is listening to the account. Cf. CB Madhya-khanda: Srivasa explained to Shachi that this was not "vayu" but bhakti-yoga.
 [^12-243]: The king is the Muslim ruler of Gauda (Bengal); a Yavana is a foreigner of another faith, here a Muslim.
-[^12-244]: The 1912/13 ed. (checked against the scan) reads "অতনু-ধনু দূরে, দরপ ভুরুদিঠি, ভঙ্গি কি মধুর ভাঁতিয়া"; দরপ (darapa) is understood as darpa, "pride"; the sense of the line is conjectural.
-[^12-245]: The 1912/13 ed. (checked against the scan) reads "কটি-দেশ কৃশ ঘন, অংশু অংশুক ভ্রাজয়ে" — aṃśu aṃśuka, "the garment shines with rays"; "অংশ," "অংগ্ত" in the OCR are recognition errors.
+[^12-244]: The 1912/13 ed. reads "অতনু-ধনু দূরে, দরপ ভুরুদিঠি, ভঙ্গি কি মধুর ভাঁতিয়া"; দরপ (darapa) is understood as darpa, "pride"; the sense of the line is conjectural.
+[^12-245]: The 1912/13 ed. reads "কটি-দেশ কৃশ ঘন, অংশু অংশুক ভ্রাজয়ে" — aṃśu aṃśuka, "the garment shines with rays"; "অংশ,"
 [^12-246]: Ghanashyama is the poet's signature (the second name of Narahari Chakravarti). নিছনি (nichhani) is the rite of "offering oneself" for the beloved's well-being.
 [^12-247]: On the Lord's pastime in the mood of Varaha in the house of Murari Gupta, see CB Madhya-khanda.
 [^12-248]: The source of the verse is not named in the text; not identified.
@@ -47039,11 +47038,11 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-252]: According to CB (Adi-khanda), a wandering sannyasi asked the parents for the boy Nityananda as his companion, and He went away with him.
 [^12-253]: Nandana Acharya was a devotee of Navadvipa; in his house Nityananda stayed on coming to Navadvipa (CB Madhya-khanda).
 [^12-254]: The banner bearing a palm tree (তালধ্বজ, tāladhvaja) is the emblem of Balarama.
-[^12-255]: "How… shines": in the 1912/13 ed. the word is illegible even on the scan (heavy impression: ঝোহে? সোহে?), probably "সোহে" (sohe, "shines"); the 1960 ed. has "ভুবন মোহে" (bhuvana mohe, "enchants the world").
-[^12-256]: "Offered prayers" — স্তুতি (stuti): so in the 1912/13 ed. (checked against the scan: "করিলেন স্তুতি সবে") and in the 1960 ed.; "তত" in the OCR is a recognition error.
+[^12-255]: "How… shines": in the 1912/13 ed. the word is illegible even in the edition (heavy impression: ঝোহে? সোহে?), probably "সোহে" (sohe, "shines"); the 1960 ed. has "ভুবন মোহে" (bhuvana mohe, "enchants the world").
+[^12-256]: "Offered prayers" — স্তুতি (stuti): so in the 1912/13 ed. and in the 1960 ed..
 [^12-257]: Ramai Pandita (Sri Rama Pandita, 1749) was the younger brother of Srivasa Pandita.
-[^12-258]: "Thaita taka taka thona" are dance-rhythm syllables (bols). "Festivity" — বিলস (vilasa): so in the 1912/13 ed. (checked against the scan: "পহুঁক জনম, বিলস বরণব কোন") and in the 1960 ed.; "খিল" in the OCR is a recognition error.
-[^12-1756a]: Nabha (নাভা) — so in the 1912/13 ed. (checked against the scan: "নাভা নামে শ্রীকুবের মিশ্রের ঘরণী"; likewise in 1759, 1769–1770) and in the 1960 ed. In the *Advaita-prakasha* Advaita's mother is called Labha.
+[^12-258]: "Thaita taka taka thona" are dance-rhythm syllables (bols). "Festivity" — বিলস (vilasa): so in the 1912/13 ed. and in the 1960 ed..
+[^12-1756a]: Nabha (নাভা) — so in the 1912/13 ed. and in the 1960 ed. In the *Advaita-prakasha* Advaita's mother is called Labha.
 [^12-259]: The subject is not named in the text.
 [^12-260]: That is, ostensibly to perform the memorial rite (shraddha) for His parents at Gaya.
 [^12-261]: In W this couplet stands without a number in the block "## 1783"; the number 1777 follows the sequence of G (between 1776 and 1778).
@@ -47057,26 +47056,26 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-269]: "Premanidhi" ("treasure of prema") is a play on words: "Vidyanidhi" means "treasure of learning."
 [^12-270]: So in the 1912/13 ed.: প্রণমে ("bows"). The 1960 ed. reads প্রথমে ("first"): "Then first, recognizing the Lord as his own, he offered obeisances to Sri Advaita Acharya."
 [^12-271]: Shachi's dream of Krishna and Balarama, the feeding of Nityananda in the Lord's house, as well as the Lord's manifestations in the forms of the avataras (1837) and the episode of the singer of songs about Shiva (1839–1846), are described in CB Madhya-khanda.
-[^12-272]: "Dark and white" renders শ্যাম শুক্ল রূপ: so in the 1912/13 ed. (checked against the scan); "শুরু" in the OCR copies is a recognition error. The dark form of Krishna and the white form of Balarama.
+[^12-272]: "Dark and white" renders শ্যাম শুক্ল রূপ: so in the 1912/13 ed.. The dark form of Krishna and the white form of Balarama.
 [^12-273]: The Lord's absorption in the mood of Shiva is His lila.
-[^12-274]: চরম (charama) — so in the 1912/13 ed. (checked against the scan: "ভূষণাম্বর, চরম পরম উজোর"); probably = চর্ম ("hide"; the hide is Shiva's garment).
+[^12-274]: চরম (charama) — so in the 1912/13 ed.; probably = চর্ম ("hide"; the hide is Shiva's garment).
 [^12-275]: The quotation (1849–1854) is from CB Madhya-khanda.
-[^12-276]: বলি (bali) — so in the 1912/13 ed. (checked against the scan: "নটন জন রঞ্জন, বলি কলিকাল…"); translated as বলী ("mighty"); "saying" is also possible.
-[^12-277]: ভাগ ভূয়শ রস (bhaga bhuyasha rasa) — so in the 1912/13 ed. (checked against the scan: "ভণ ঘনশ্যাম, ভাগ ভূয়শ রস, বিতরণ লাগি ললিত অবতার"); the sense is unclear; translated tentatively (ভাগ = "fortune," ভূয়শঃ = "abundantly").
-[^12-278]: সুবলনি (subalani; so in the 1912/13 ed., checked against the scan) is tentatively translated as "slender." The 1960 ed. reads "clad in garments of Chinese silk (চীন বসন) of dense radiance"; the word চীন is absent in the 1912/13 ed. (scan: "পহিরণ বসন ঘন কিরণ").
+[^12-276]: বলি (bali) — so in the 1912/13 ed.; translated as বলী ("mighty"); "saying" is also possible.
+[^12-277]: ভাগ ভূয়শ রস (bhaga bhuyasha rasa) — so in the 1912/13 ed.; the sense is unclear; translated tentatively (ভাগ = "fortune," ভূয়শঃ = "abundantly").
+[^12-278]: সুবলনি is tentatively translated as "slender." The 1960 ed. reads "clad in garments of Chinese silk (চীন বসন) of dense radiance"; the word চীন is absent in the 1912/13 ed..
 [^12-279]: "The former rasa" (পুরুব-রস, *puruva-rasa*) — probably the mood of Krishna's former pastimes in Vraja. "The Bodiless One" (অতনু, *atanu*) is Kamadeva.
-[^12-280]: The raga is named আম্রপঞ্চক (*āmrapañcaka*): so in the 1912/13 ed. (checked against the scan: "পুনঃ আম্রপঞ্চকঃ"); garbled in the OCR of the 1960 ed. Possibly the same as the raga Amra-panchama in the list of ragas in Taranga 5.
-[^12-281]: The 1912/13 ed. (checked against the scan) reads "সঙ্গীত রঙ্গিতরঙ্গিত-চরণা" (*saṅgīta raṅgita-raṅgita-caraṇā*); the 1960 ed. has "সঙ্গীত-রঙ্গিত রর্দিত চরণ." Tentatively rendered "feet frolicking (রঙ্গিত) in music."
+[^12-280]: The raga is named আম্রপঞ্চক (*āmrapañcaka*): so in the 1912/13 ed.; garbled in the 1960 ed. Possibly the same as the raga Amra-panchama in the list of ragas in Taranga 5.
+[^12-281]: The 1912/13 ed. reads "সঙ্গীত রঙ্গিতরঙ্গিত-চরণা" (*saṅgīta raṅgita-raṅgita-caraṇā*); the 1960 ed. has "সঙ্গীত-রঙ্গিত রর্দিত চরণ." Tentatively rendered "feet frolicking (রঙ্গিত) in music."
 [^12-282]: Bandhuli (বাধুলি, probably বান্ধুলি, *bāndhuli*) is the bandhuka, a bright red flower. In the 1912/13 ed. the word ওট ("lips") carries the editor's gloss "ওষ্ঠ"; not translated. Balarama Dasa is a Vaishnava poet, an author of padas; this is his signature (*bhaṇitā*).
 [^12-283]: The "seven praharas" (সাত-প্রহরিয়া ভাব, *sāta-prahariyā bhāva*) — the Lord's great revelation in Srivasa's house, when for twenty-one hours (seven praharas of three hours each) He displayed His divine nature and sat on Vishnu's throne (CB Madhya-khanda 9).
 [^12-284]: Following A/B (আইলা, "came"). The 1960 ed. reads হইল বিহ্বল: "[here He] became beside Himself."
-[^12-285]: The 1912/13 ed. (checked against the scan) reads "শোভা নিরুপম, ভণ তন আয়ত"; understood as ভণত ন আয়ত, "words cannot express [it]" (the reading is not quite clear).
+[^12-285]: The 1912/13 ed. reads "শোভা নিরুপম, ভণ তন আয়ত"; understood as ভণত ন আয়ত, "words cannot express [it]" (the reading is not quite clear).
 [^12-286]: Jagai and Madhai were brahmana brothers of Navadvipa who had become robbers and drunkards; the Lord and Nityananda delivered them. The command to Nityananda and Haridasa to preach from house to house (1915) and the deliverance of Jagai and Madhai are described in CB Madhya-khanda 13.
 [^12-287]: Govinda, Madhava and Vasu (Vasudeva) Ghosha — brothers, kirtana singers, associates of Mahaprabhu.
 [^12-288]: Cf. the account in CB (Madhya-khanda) of Srivasa's mother-in-law, who secretly hid in the house during the night kirtana.
 [^12-289]: Cf. CB Madhya-khanda, where the Lord leaps into the Ganga and Nityananda and Haridasa pull Him out. The Lord's words about a body "devoid of prema" are His lila, displaying the mood of a devotee.
-[^12-290]: The 1912/13 ed. (checked against the scan) reads "ঝলকত অঙ্গ-কিরণ মনরঞ্জন, কনক মেরু দূরে দামিনী-দাম" (the line is present in A); in the 1960 ed. the line is garbled by OCR. The word দূরে is understood as "leaving far behind."
-[^12-291]: The 1912/13 ed. (checked against the scan) reads "বন্ধুর বদন, মদন মদ-মরদন… শ্রুতিজিতি তরুণ, অরুণমণি কুণ্ডল" (the strophe is present in A). বন্ধুর (*bandhura*) is understood as Sanskrit *bandhura*, "lovely"; "শ্রুতিজিতি" (*śruti jiti*) tentatively as "in the ears… surpassing."
+[^12-290]: The 1912/13 ed. reads "ঝলকত অঙ্গ-কিরণ মনরঞ্জন, কনক মেরু দূরে দামিনী-দাম" (the line is present in A). The word দূরে is understood as "leaving far behind."
+[^12-291]: The 1912/13 ed. reads "বন্ধুর বদন, মদন মদ-মরদন… শ্রুতিজিতি তরুণ, অরুণমণি কুণ্ডল" (the strophe is present in A). বন্ধুর (*bandhura*) is understood as Sanskrit *bandhura*, "lovely"; "শ্রুতিজিতি" (*śruti jiti*) tentatively as "in the ears… surpassing."
 [^12-292]: Chandrashekhara Acharya, the Lord's uncle, was the husband of Shachi's sister. On the performance in his house, where the Lord danced in the role of Lakshmi and Sadashiva and Buddhimanta Khan prepared the costumes, see CB Madhya 18.
 [^12-293]: The episode 1955–1983: cf. CB Madhya 19. Advaita, burdened by the Lord's reverence, deliberately extols jnana in order to receive punishment from Him.
 [^12-294]: Shri Thakurani is apparently Shri-devi, Advaita's second wife, the sister of Sita.
@@ -47085,10 +47084,10 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-297]: On Shachi's offence against Advaita and its forgiveness, see CB Madhya 22.
 [^12-298]: Narahari here is Narahari Sarakara Thakura of Shrikhanda, an associate of the Lord (not the author of the *Bhakti-ratnakara*); likewise in 2021.
 [^12-299]: "Offer themselves": আপনা নিছয়ে (āpanā nichaye, G আপনি); the custom of nichhani, in which, out of love, something is waved around the beloved, as if offering oneself in his place.
-[^12-300]: Srinivasa is Srivasa Pandita (Srinivasa being the full form of his name). "Showers" is বরষত (baraṣata), so in the scan of the 1912/13 edition (printed with a break at the caesura, "বর-ষত").
-[^12-301]: Vasu Ghosha is Vasudeva Ghosha (বাসু ঘোষ, *vāsu ghoṣa*, per the scan of the 1912/13 edition).
-[^12-302]: "Changas and dhakkas": চঙ্গড়ক (caṅgaḍaka), understood as চঙ্গ + ঢক্ক (kinds of drums); "to every end": চলু ওর (calu ora); both readings are confirmed by the scan of the 1912/13 edition. "Nishanas" (large kettledrums) follows A/B নিশান (niśāna); the 1960 edition has বিষাণ (viṣāṇa, "horns"). "Cymbals" follows A ঝাঁঝ (jhāṃjha); the 1960 edition has বাজ ("sound").
-[^12-303]: "By the former rasa" — পুরুব (*puruba*, "former"), i.e. by the mood of the former pastimes in Vraja; so in the scan of the 1912/13 edition and in the 1960 edition (the OCR of copy B, "পুরুষ", is an error).
+[^12-300]: Srinivasa is Srivasa Pandita (Srinivasa being the full form of his name). "Showers" is বরষত (baraṣata), so in the 1912/13 edition (printed with a break at the caesura, "বর-ষত").
+[^12-301]: Vasu Ghosha is Vasudeva Ghosha.
+[^12-302]: "Changas and dhakkas": চঙ্গড়ক (caṅgaḍaka), understood as চঙ্গ + ঢক্ক (kinds of drums); "to every end": চলু ওর (calu ora); both readings are confirmed by the edition of the 1912/13 edition. "Nishanas" (large kettledrums) follows A/B নিশান (niśāna); the 1960 edition has বিষাণ (viṣāṇa, "horns"). "Cymbals" follows A ঝাঁঝ (jhāṃjha); the 1960 edition has বাজ ("sound").
+[^12-303]: "By the former rasa" — পুরুব (*puruba*, "former"), i.e. by the mood of the former pastimes in Vraja; so in the 1912/13 edition and in the 1960 edition.
 [^12-304]: The lord of the gods is Indra; the Lord of Parvati is Shiva; the Four-faced is Brahma. "Humbly entreats" — করত পরিহার (*karata parihāra*): in Brajabuli পরিহার means a humble entreaty.
 [^12-305]: The river of the gods is the Ganga. Jagannatha ("Lord of the world") here is the Deity they worship.
 [^12-306]: The *Sri Chaitanya-charita-mahakavya* is Kavi Karnapura's Sanskrit poem (the same one called the *Sri Krishna-chaitanya-charitamrita-mahakavya* in 12.879).
@@ -47100,7 +47099,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-312]: So in the 1912/13 edition: মন্দিরা (*mandirā*, hand cymbals). The 1960 edition has মন্দির (*mandira*, "temple").
 [^12-313]: Dhati (ধটী, *dhaṭī*) is a waistcloth; neta (নেত, *neta*) is a fine (silk) cloth.
 [^12-314]: The Acharya is Advaita Acharya. Haddipa (হড্ডিপ, *haḍḍipa*) — the Hadis, a caste of sweepers and cleaners.
-[^12-315]: Nrihari ("Hari in human form") is Mahaprabhu. "Out of compassion gave [teaching]" follows the scan of the 1912/13 edition: "… ভগবান্ স্বাত্মতন্ত্রোঽপি কারুণ্যেনাদ্য শিক্ষয়ন্" (*kāruṇyenādya śikṣayan*, "out of compassion, now teaching", a participle without a finite verb); the 1960 edition has অভ্যশিক্ষয়ৎ (*abhyaśikṣayat*, "taught"). The sense is the same.
+[^12-315]: Nrihari ("Hari in human form") is Mahaprabhu. "Out of compassion gave [teaching]" follows the edition of the 1912/13 edition: "… ভগবান্ স্বাত্মতন্ত্রোঽপি কারুণ্যেনাদ্য শিক্ষয়ন্" (*kāruṇyenādya śikṣayan*, "out of compassion, now teaching", a participle without a finite verb); the 1960 edition has অভ্যশিক্ষয়ৎ (*abhyaśikṣayat*, "taught"). The sense is the same.
 [^12-316]: Keshava Bharati is the sannyasi from whom the Lord later accepted sannyasa in Kantaka-nagara (Katwa).
 [^12-317]: "Ai" (mother, i.e. Shachi) follows the 1912/13 edition (A and B "আই"); the 1960 edition has "যাই" ("going"). On the worship of Shashthi, cf. 12.1074–1075.
 [^12-318]: Probably the Deities of Nitai and Chaitanya served by Gauridasa Pandita at Ambika (Kalna); on them, BR 7.317–320, 356–357.
@@ -47114,27 +47113,27 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-326]: Nimai's commentary (*tippani*) on grammar is also mentioned in CB, Adi-khanda.
 [^12-327]: Krishnananda and Kamalakanta — according to CB (Adi-khanda), together with Murari Gupta, fellow students of Nimai at the school of Gangadasa Pandita. "Trick questions" — *phāṅki*: ingenious catch questions on grammar.
 [^12-328]: For the words "শ্রীপুরীর প্রীতি" (*śrīpurīra prīti*, "Sri Puri's love") the 1912/13 edition gives a footnote variant, "মুরারির প্রীতি" (*murārira prīti*, "Murari's love").
-[^12-329]: According to GGD, Murari Gupta is Hanuman, whom tradition regards as a portion of Rudra (Shiva).
+[^12-329]: According to GGD, Murari Gupta is Hanuman.
 [^12-330]: The *Krishna-lilamrita* is a book by Ishvara Puri; on his stay in the house of Gopinatha Acharya, how he read it to Gadadhara and asked Nimai to point out its faults, see CB Adi-khanda.
 [^12-331]: The city of Madhu is Mathura. An allusion to how Krishna, entering Mathura, visited the weaver, the garland-maker Sudama and Kubja (*Bhag.* 10.41–42).
 [^12-332]: The sarvajna ("all-knowing one") is a soothsayer of Navadvipa; the story of how Nimai asked him about His previous births is in CB Adi-khanda.
 [^12-333]: Shridhara — a poor and simple-hearted devotee of Navadvipa who sold banana leaves and fruit; Nimai playfully haggled with him over the price (CB Adi-khanda).
-[^12-334]: "Pastimes of eagerness for a fight" — *yuddha-kāma-līlā*, probably referring to the Lord's playful squabbles with Shridhara (12.2234); so also in the scan of the 1912/13 edition ("যুদ্ধ কাম লীলা"), the meaning unclear. The second line follows A ("yabe," "when"); the 1960 edition has "sabe": "all do whatever the Lord wishes."
-[^12-335]: "Srivasa" follows the scan of the 1912/13 edition: "অকস্মাৎ শ্রীবাসপণ্ডিত সনে দেখা" (the OCR readings G "pravāsa," B "ābāda" are errors).
+[^12-334]: "Pastimes of eagerness for a fight" — *yuddha-kāma-līlā*, probably referring to the Lord's playful squabbles with Shridhara (12.2234); so also in the 1912/13 edition ("যুদ্ধ কাম লীলা"), the meaning unclear. The second line follows A ("yabe," "when"); the 1960 edition has "sabe": "all do whatever the Lord wishes."
+[^12-335]: "Srivasa" follows the edition of the 1912/13 edition: "অকস্মাৎ শ্রীবাসপণ্ডিত সনে দেখা".
 [^12-336]: Keshava Kashmiri — a scholar from Kashmir, an acharya of the Nimbarka sampradaya; on the Lord's victory over this digvijayi see CC Adi 16 and CB Adi-khanda.
 [^12-337]: There follows (2255–2271) the succession of teachers of the Nimbarka sampradaya, going back to Narayana; Hamsa is the Lord in the form of a swan; "the four Sanas" (*catuḥsana*) are the four Kumaras: Sanaka, Sanandana, Sanatana and Sanatkumara. Nimbaditya is Nimbarka.
 [^12-338]: Srinivasacharya — an acharya of the Nimbarka sampradaya; not to be confused with Srinivasa Acharya, the hero of this book.
 [^12-339]: The Gopala Bhatta of 2269 is a teacher of the Nimbarka sampradaya, not Gopala Bhatta Gosvami.
-[^12-340]: The meaning of the line is unclear (the scan of the 1912/13 edition and the 1960 edition agree: বর্ণি লীলাভোগ «লঘুকেশব»-নামেতে, barṇi līlābhoga "laghukeśava"-nāmete). Probably it means that, ashamed of his former pride, Keshava Kashmiri signed his writings on the lilas with the name "Laghu-Keshava" ("the lesser Keshava").
+[^12-340]: The meaning of the line is unclear. Probably it means that, ashamed of his former pride, Keshava Kashmiri signed his writings on the lilas with the name "Laghu-Keshava" ("the lesser Keshava").
 [^12-341]: Tapana Mishra was a learned brahmana of East Bengal; the Lord instructed him in harinama as the path for the age of Kali and told him to settle in Kashi (CB Adi-khanda; CC Adi 16).
 [^12-342]: While the Lord was in Bengal, His first wife, Lakshmipriya, departed from this world (cf. 12.1373–1376).
 [^12-343]: Bengal (বঙ্গদেশ) here is East Bengal; Nimai mimicked the speech of its people (CB Adi-khanda).
 [^12-344]: Ramai is Rama Pandita, Srivasa's younger brother. Shriman Pandita's account of the change in the Lord after Gaya and Gadadhara's weeping in Shuklambara's house — CB Madhya-khanda.
-[^12-345]: "How the outpouring of prema began" — প্রেমারম্ভ (*premārambha*, "the beginning of prema"), so in the scan of the 1912/13 edition and in the 1960 edition (the OCR of copy B, "প্রেমার্ত," is an error). For the word "ব্রহ্মচারী" ("the brahmachari") the 1912/13 edition gives a footnote variant, "গৌরহরি" ("Gaurahari").
+[^12-345]: "How the outpouring of prema began" — প্রেমারম্ভ (*premārambha*, "the beginning of prema"), so in the 1912/13 edition and in the 1960 edition. For the word "ব্রহ্মচারী" ("the brahmachari") the 1912/13 edition gives a footnote variant, "গৌরহরি" ("Gaurahari").
 [^12-346]: Ratnagarbha Acharya was a devotee of Navadvipa from the same homeland as Jagannatha Mishra; hearing him recite a verse of the *Bhagavata* about Krishna, the Lord fainted from prema (CB Madhya-khanda).
 [^12-347]: The devotees' report to Advaita and the Lord's visit with Gadadhara to Advaita, who worships Him (2338–2347) — CB Madhya-khanda.
 [^12-348]: Kanai Natashala is a village on the way from Bihar to Bengal (by tradition, near Rajmahal). According to CB (Madhya-khanda), on returning from Gaya the Lord told the devotees that there Krishna had appeared to Him in the form of a beautiful dark boy.
-[^12-349]: বল্গিয়া মরয়ে (*balgiya maraye*) — according to a note in the 1912/13 edition, "leaping about and babbling in every way"; literally "they die raving." So also in 2355 (the scan of the 1912/13 edition has বল্গিয়া there too; "বলিয়া" in the OCR is an error).
+[^12-349]: বল্গিয়া মরয়ে (*balgiya maraye*) — according to a note in the 1912/13 edition, "leaping about and babbling in every way"; literally "they die raving." So also in 2355.
 [^12-350]: "Offer [for Him]" is nichhani (নিছয়ে); see the note on 12.979.
 [^12-351]: A nagara is a town dandy, a gallant lover; nagarali is a nagara's finery.
 [^12-352]: The song 2380–2383 depicts the feelings of the young women of Nadia for Gaura; see the note on 12.1404.
@@ -47143,11 +47142,11 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-355]: Virasana, the "hero's posture," is a seated posture.
 [^12-356]: Narayani was Srivasa's niece, later the mother of Vrindavana Dasa, the author of the *Chaitanya-bhagavata*.
 [^12-357]: The quotation is from CB Madhya-khanda (Vishvambhara as Nityananda saw Him in the house of Nandana Acharya); it continues after 2429.
-[^12-358]: "White" is শুক্ল (*śukla*), so in the scan of the 1912/13 edition: "তথি শোভে শুক্ল যজ্ঞসূত্র অতিক্ষীণ" (cf. 12.1831).
+[^12-358]: "White" is শুক্ল (*śukla*), so in the 1912/13 edition: "তথি শোভে শুক্ল যজ্ঞসূত্র অতিক্ষীণ" (cf. 12.1831).
 [^12-359]: মায়ুর (*māyura*) is the name of a raga; possibly the same as the raga Maura (মাউর) in 12.1759.
 [^12-360]: The Vyasa-puja is the worship of Vyasa as the original guru, performed by sannyasis on the full-moon day; on Nityananda's Vyasa-puja in the house of Srivasa (2445–2467), see CB Madhya-khanda.
 [^12-361]: বামনা (*bāmanā*) is a colloquial form of the word "brahmana."
-[^12-362]: The sense of the second line is unclear: "নিত্যানন্দচন্দ্রে প্রকাশয়ে ভক্তি করি" (*nityānandacandre prakāśaye bhakti kari*), so in the scan of the 1912/13 edition; the 1960 edition has "নিত্যানন্দচান্দ্র" (*nityānandacāndra*). Also possible: "Nityanandachandra reveals [it] with reverence."
+[^12-362]: The sense of the second line is unclear: "নিত্যানন্দচন্দ্রে প্রকাশয়ে ভক্তি করি" (*nityānandacandre prakāśaye bhakti kari*), so in the 1912/13 edition; the 1960 edition has "নিত্যানন্দচান্দ্র" (*nityānandacāndra*). Also possible: "Nityanandachandra reveals [it] with reverence."
 [^12-363]: Varuni is an intoxicating drink dear to Balarama; কাদম্বিনী (*kādambinī*), as the 1912/13 edition explains, is also "a kind of intoxicating drink" (মদবিশেষ). The Lord drank Ganga water; His mood of Balarama is lila.
 [^12-364]: The six-armed form (ষড়্ভুজ, *ṣaḍbhuja*) of the Lord unites the features of Rama, Krishna and Gaura Himself as a sannyasi; on how Nityananda beheld it, see CB Madhya-khanda.
 [^12-365]: Nada (নাঢ়া, *nāṛhā*) is the nickname by which the Lord called Advaita Acharya.
@@ -47167,81 +47166,81 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-379]: How the Lord tested Srivasa, asking whether he would keep Nityananda with him whatever He might do, is told in CB Madhya-khanda.
 [^12-380]: So in B ("এই ঠাই"). The 1960 edition has "in one place" ("এক ঠাই").
 [^12-381]: Govinda Datta is an associate of the Lord, the leading singer of His kirtana (CC Adi 10). সম্প্রদা (*sampradā*) is a group of kirtana singers with its lead singer.
-[^12-382]: সোন (*sona*; so in the scan of the 1912/13 edition, the 1960 edition has শোন) means "gold" (সোনা). ভাঙনি (*bhāṅani*) means bearing, graceful pose.
+[^12-382]: সোন means "gold" (সোনা). ভাঙনি (*bhāṅani*) means bearing, graceful pose.
 [^12-383]: The Mandakini is the heavenly Ganga: tears pour from His eyes like her streams.
 [^12-384]: Kusumashara ("He whose arrows are flowers"), Manmatha (2562), Madana (2564, 2574) and Atanu ("the Bodiless One," 2568) are names of Kamadeva, the god of love.
 [^12-385]: "Dha dha dhigi ti" are drum-rhythm syllables (bol).
-[^12-386]: Purandara is Indra, the king of the gods. The sense of the second half of the line is unclear: "ধনি কলি কাল ভাগ লহু পটতর" (*bhāga lahu paṭatara*, so also in the scan of the 1912/13 edition), lit. "fortune — a slight comparison."
-[^12-387]: That is, the bhava of His former lila (as Krishna). "Former" is পুরুব (*puruba*), so in the scan of the 1912/13 edition (OCR: G "পুকুব," B "পুরুষ"); cf. 12.2025.
+[^12-386]: Purandara is Indra, the king of the gods. The sense of the second half of the line is unclear: "ধনি কলি কাল ভাগ লহু পটতর", lit. "fortune — a slight comparison."
+[^12-387]: That is, the bhava of His former lila (as Krishna). "Former" is পুরুব (*puruba*), so in the 1912/13 edition; cf. 12.2025.
 [^12-388]: The Kinnaras are celestial singers and musicians.
-[^12-389]: A hastaka is a hand gesture in dance. "Swift, well-formed" follows the reading "ত্রস্ত কলিত" (*trasta kalita*; so also in the scan of the 1912/13 edition); the sense is unclear.
+[^12-389]: A hastaka is a hand gesture in dance. "Swift, well-formed" follows the reading "ত্রস্ত কলিত"; the sense is unclear.
 [^12-390]: In the 1912/13 edition the commas stand thus: "বামে পহু পণ্ডিত, গদাধর দক্ষিণেতে, নিতাই সুন্দর, সমুখে শ্রীঅদ্বৈত," which also allows the reading: "To the Lord's left is the Pandita, to the right Gadadhara, [beside Him] the handsome Nitai." The translation follows the metre of the stanza.
-[^12-391]: "Rama on the left" is "রাম বামে" (*rāma bāme*), so in the scan of the 1912/13 edition and in the 1960 edition (B's OCR "রাস নামে" is an error). Garuda is probably Garudai (cf. 12.1852). The mardala is a drum.
+[^12-391]: "Rama on the left" is "রাম বামে" (*rāma bāme*), so in the 1912/13 edition and in the 1960 edition. Garuda is probably Garudai (cf. 12.1852). The mardala is a drum.
 [^12-392]: Measure: বন্ধান (*bandhāna*), the metre or structure of a musical piece in kirtana.
-[^12-393]: "The guise of a wrestler" is মল্লবেশ (*mallaveśa*), so in the scan of the 1912/13 edition (OCR: G "মজবেশ," B "মন্সবেশ"). Nityananda is Balarama, famed as a wrestler.
-[^12-394]: The lord of Shantipura is Advaita. The end of the stanza follows the scan of the 1912/13 edition: "ধরিয়া শ্রীচরণ, করয়ে রোদন, পণ্ডিত শ্রীবাস উদার" (garbled in B's OCR as "গঞ্চিত বীনান উদার"; missing from G's OCR).
-[^12-395]: "All but die, raving" is মরয়ে বল্গিয়া (*maraye balgiyā*), so in the scan of the 1912/13 edition (B's OCR "বঙ্গিয়া"); cf. 12.2352.
+[^12-393]: "The guise of a wrestler" is মল্লবেশ (*mallaveśa*), so in the 1912/13 edition. Nityananda is Balarama, famed as a wrestler.
+[^12-394]: The lord of Shantipura is Advaita. The end of the stanza follows the edition of the 1912/13 edition: "ধরিয়া শ্রীচরণ, করয়ে রোদন, পণ্ডিত শ্রীবাস উদার".
+[^12-395]: "All but die, raving" is মরয়ে বল্গিয়া (*maraye balgiyā*), so in the 1912/13 edition; cf. 12.2352.
 [^12-396]: Murari here is a name of the Lord ("the enemy of [the demon] Mura"), not the author of the book, Murari Gupta.
-[^12-397]: "Couch" — খট্টা (khaṭṭā). Cf. the account in CB (Madhya-khanda) of how the Lord in Srivasa's house sat on Vishnu's couch and took the shalagramas into His lap. "Sat on the couch" is "বসিলা খট্টায়," so in the scan of the 1912/13 edition and in the 1960 edition.
+[^12-397]: "Couch" — খট্টা (khaṭṭā). Cf. the account in CB (Madhya-khanda) of how the Lord in Srivasa's house sat on Vishnu's couch and took the shalagramas into His lap. "Sat on the couch" is "বসিলা খট্টায়," so in the 1912/13 edition and in the 1960 edition.
 [^12-397a]: The quotation from CB (2588–2590) ends here: so the 1912/13 edition places the quotation marks.
-[^12-398]: "In the mood of servitude" is দাস্যভাবে (*dāsya-bhāve*), so in the scan of the 1912/13 edition (OCR: G "দাশ্ভাবে," B "দ্যভাবে").
+[^12-398]: "In the mood of servitude" is দাস্যভাবে (*dāsya-bhāve*), so in the 1912/13 edition.
 [^12-399]: Janaki is Sita; "the life of Janaki" is Rama. The Lord speaks to Murari in the mood of Rama; on Murari as Hanuman see the note on 12.2194.
 [^12-400]: Ramadasa — "the servant of Rama."
-[^12-401]: "In the third prakrama" — so in the scan of the 1912/13 edition ("তথাহি শ্রীচৈতন্যচরিতে তৃতীয়প্রক্রমে"). In the 1960 edition: "in the *Sri Krishna-chaitanya-charita*, in the second prakrama, in the seventh sarga." The *Sri Chaitanya-charita* is Murari Gupta's Sanskrit poem; the verse number is not given in the editions. The shlokas 2601–2609 continue the same quotation.
+[^12-401]: "In the third prakrama" — so in the 1912/13 edition ("তথাহি শ্রীচৈতন্যচরিতে তৃতীয়প্রক্রমে"). In the 1960 edition: "in the *Sri Krishna-chaitanya-charita*, in the second prakrama, in the seventh sarga." The *Sri Chaitanya-charita* is Murari Gupta's Sanskrit poem; the verse number is not given in the editions. The shlokas 2601–2609 continue the same quotation.
 [^12-402]: "Now, the ashtaka" (অথাষ্টকং) is a subheading in the 1912/13 edition; in the 1960 edition an editor's heading stands in its place. The eight shlokas 2601–2608 are Murari Gupta's *Ramashtaka*. Brihaspati and Kavi (Shukra) are the planets Jupiter and Venus.
-[^12-403]: "Like glowing gold" — অশীতকনকদ্যুতি (*aśīta-kanaka-dyuti*, "with the lustre of gold that is not cold"), so in the scan of the 1912/13 edition ("কুর্ব্বত্যশীতকনকদ্যুতি"); the 1960 edition has অসিতকনকদ্যুতি (*asita-*). The sense of the first two lines is apparently that the five fingers of Sita, holding the lotus, look like five more petals.
+[^12-403]: "Like glowing gold" — অশীতকনকদ্যুতি (*aśīta-kanaka-dyuti*, "with the lustre of gold that is not cold"), so in the 1912/13 edition ("কুর্ব্বত্যশীতকনকদ্যুতি"); the 1960 edition has অসিতকনকদ্যুতি (*asita-*). The sense of the first two lines is apparently that the five fingers of Sita, holding the lotus, look like five more petals.
 [^12-404]: The descendant of Kushika is the sage Vishvamitra, whose sacrifice Rama protected from the rakshasas (*Ramayana*, Bala-kanda).
 [^12-405]: A pun: "adūṣaṇa" means both "free of Dushana" (the rakshasa slain by Rama in the Dandaka forest together with Khara and Trishiras) and "free of defilement." Sugriva's enemy is Vali; the Ten-faced is Ravana.
-[^12-406]: "Knows no restraint" — "আনন্দে আনন্দে না বাঁধে থেহ" (*nā bāṅdhe theha*, "holds no steadiness"), so in the scan of the 1912/13 edition (OCR: G "না বাধে খে," B "খেহ").
-[^12-407]: Per the scan of the 1912/13 edition: "মহিম মহিমা কো কহু তুর … প্রেম অমিয় হরখি বরখি তরখিত মহি মাতিয়া" (so also B's OCR; G's OCR is garbled). "তরখিত" (*tarakhita*) is taken as "thirsting" (*tṛṣita*); "তুর" (*tura*, probably "thy," তোর) is not rendered.
+[^12-406]: "Knows no restraint" — "আনন্দে আনন্দে না বাঁধে থেহ" (*nā bāṅdhe theha*, "holds no steadiness"), so in the 1912/13 edition.
+[^12-407]: Per the edition of the 1912/13 edition: "মহিম মহিমা কো কহু তুর … প্রেম অমিয় হরখি বরখি তরখিত মহি মাতিয়া". "তরখিত" (*tarakhita*) is taken as "thirsting" (*tṛṣita*); "তুর" (*tura*, probably "thy," তোর) is not rendered.
 [^12-408]: Here and further in the songs on the bank of the Ganga, the epithets about young women are motifs of nagari-bhava; see the note on 12.1404.
 [^12-409]: The epithets about young women (2630, 2632, 2635) are motifs of nagari-bhava; see the note on 12.1404.
-[^12-410]: The name of the raga is "বেরগুপ্ত" (*beragupta*): so printed both in the 1912/13 edition (per the scan) and in the 1960 edition; the raga is not identified (probably a corruption).
-[^12-411]: "Adornment" — শিঙারু (*śiṅāru*, শিঙ্গার): the scan of the 1912/13 edition has "সব মদ সকল শিঙারু" (faint print; G's OCR "শিল্পার").
-[^12-412]: "Resoundingly" — সুস্বরে (*susvare*), so in the scan of the 1912/13 edition (OCR: G "হম্বরে," B "স্বন্বরে").
-[^12-413]: "Stone" — শিলা (*śilā*), so also in the scan of the 1912/13 edition ("গন্ধ চন্দন শিলা ধূপ দীপ জ্বালি"); probably the stone on which sandal is ground.
+[^12-410]: The name of the raga is "বেরগুপ্ত" (*beragupta*): so printed both in the 1912/13 edition and in the 1960 edition; the raga is not identified (probably a corruption).
+[^12-411]: "Adornment" — শিঙারু (*śiṅāru*, শিঙ্গার): the edition of the 1912/13 edition has "সব মদ সকল শিঙারু".
+[^12-412]: "Resoundingly" — সুস্বরে (*susvare*), so in the 1912/13 edition.
+[^12-413]: "Stone" — শিলা (*śilā*), so also in the 1912/13 edition ("গন্ধ চন্দন শিলা ধূপ দীপ জ্বালি"); probably the stone on which sandal is ground.
 [^12-414]: "Duhkhi" means "the wretched one," "Sukhi" — "the happy one." On Srivasa's maidservant who brought water for the Lord's abhisheka, see CB Madhya-khanda.
 [^12-415]: Kholavecha, "seller of khola" (cups and leaves made from banana bark), is Shridhara's byname. His praise and the Lord's boon (Shridhara asked only for devotion) are in the CB account (Madhya-khanda) of the "seven praharas."
-[^12-416]: "Murari-vallabha" (*murāri-vallabha*) — "the Beloved of Murari" (or "dear to Murari," that is, to Krishna); the text (so also the scan of the 1912/13 edition: "মুরারিবল্লভ নাম হইল প্রকাশ") does not make clear whether the name belongs to the Lord or to Murari Gupta.
+[^12-416]: "Murari-vallabha" (*murāri-vallabha*) — "the Beloved of Murari" (or "dear to Murari," that is, to Krishna); the text does not make clear whether the name belongs to the Lord or to Murari Gupta.
 [^12-417]: Mukunda is Mukunda Datta. The Lord at first would not admit him into His presence because he kept company with those who reject bhakti, and then forgave him (CB Madhya-khanda).
 [^12-417a]: "গৌরাঙ্গের বাক্যে নিত্যানন্দের যে রীত" (so the 1912/13 edition): which deed is meant the text does not say; probably it looks ahead to the next couplet: at the Lord's word Nityananda stays in Srivasa's house.
-[^12-418]: The story of the crow and Malini's bowl is in CB Madhya-khanda. The 1912/13 edition (per the scan) has no quotation marks: "শ্রীমালিনী দুঃখী দেখি জিজ্ঞাসিল তারে." Translated according to the sense of the CB account; the 1960 edition puts দুঃখী (*duḥkhī*, "distressed") in quotation marks as the maidservant's name — "Sri Malini, seeing Duhkhi, asked her."
+[^12-418]: The story of the crow and Malini's bowl is in CB Madhya-khanda. The 1912/13 edition has no quotation marks: "শ্রীমালিনী দুঃখী দেখি জিজ্ঞাসিল তারে." Translated according to the sense of the CB account; the 1960 edition puts দুঃখী (*duḥkhī*, "distressed") in quotation marks as the maidservant's name — "Sri Malini, seeing Duhkhi, asked her."
 [^12-419]: Chitragupta is Yama's scribe, who records the good and bad deeds of living beings.
-[^12-420]: "The two sinners" — so in the scan of the 1912/13 edition: "জগাই মাধাই দুই পাপি উদ্ধারিলা" (*dui pāpi*); the 1960 edition has "দুই ভাই" (*dui bhāi*), "the two brothers."
-[^12-421]: "Devotion" is ভক্তি (*bhakti*), so in the scan of the 1912/13 edition ("দেবের দুর্লভ ভক্তি দিলা দুই জনে") and in the 1960 edition (B's OCR "শক্তি" is an error).
+[^12-420]: "The two sinners" — so in the 1912/13 edition: "জগাই মাধাই দুই পাপি উদ্ধারিলা" (*dui pāpi*); the 1960 edition has "দুই ভাই" (*dui bhāi*), "the two brothers."
+[^12-421]: "Devotion" is ভক্তি (*bhakti*), so in the 1912/13 edition ("দেবের দুর্লভ ভক্তি দিলা দুই জনে") and in the 1960 edition.
 [^12-422]: Madhai's ghat (Madhai-ghat) is a ghat on the Ganga in Navadvipa that Madhai, at Nityananda's order, built in atonement for his sins, and where he begged everyone's forgiveness (CB Madhya-khanda).
 [^12-423]: Madhava is Madhai's name (Jagai is Jagannatha).
-[^12-424]: "Mother-in-law" is শাশুড়ী (*śāśuḍī*), so in the scan of the 1912/13 edition and in the 1960 edition, as in CB (B's OCR "শালী" is an error). "Basket" is ডোল (*ḍola*); the 1912/13 edition glosses it as a covering made of rope or matting.
+[^12-424]: "Mother-in-law" is শাশুড়ী (*śāśuḍī*), so in the 1912/13 edition and in the 1960 edition, as in CB. "Basket" is ডোল (*ḍola*); the 1912/13 edition glosses it as a covering made of rope or matting.
 [^12-425]: Shuklambara Brahmachari lived on alms; the Lord, absorbed in kirtana, eats the raw rice from his bag, calling him Sudama — the poor brahmana, Krishna's childhood friend, whose rice Krishna lovingly ate in Dvaraka (*Bhag.* 10.80–81). The episode: CB Madhya-khanda.
-[^12-426]: Onomatopoeia of the mridanga's beats; per the scan of the 1912/13 edition: "দৃমিকি দৃমি, দাঁ দাঁ দৃমি কট, ধিকট ধিলঙ্গ" (*dṛmiki dṛmi, dāṃ dāṃ dṛmi kaṭa, dhikaṭa dhilaṅga*).
-[^12-427]: "Glows" — লস (*lasa*): "চাঁদ বদন লস," so in the scan of the 1912/13 edition (B's OCR "লল").
-[^12-428]: Per the scan of the 1912/13 edition: "বাজত ঝাঁঝ সু-খমক খোল কত" (*jhāṃjha su-khamaka*; OCR: B "ঝাঁঝ দ্থ-খমক," 1960 ed. "বাউল খমক"). The khamak is a small percussion (plucked-string) instrument.
-[^12-429]: "Putting to shame" — নিরসি (*nirasi*), so in the scan of the 1912/13 edition, with the footnote gloss "নিরসি — নিরাশ করিয়া" ("having made hopeless"); the 1960 ed. has nirakhi ("looking at"). Lapana ("face, mouth") is in both editions.
+[^12-426]: Onomatopoeia of the mridanga's beats; in the edition of the 1912/13 edition: "দৃমিকি দৃমি, দাঁ দাঁ দৃমি কট, ধিকট ধিলঙ্গ" (*dṛmiki dṛmi, dāṃ dāṃ dṛmi kaṭa, dhikaṭa dhilaṅga*).
+[^12-427]: "Glows" — লস (*lasa*): "চাঁদ বদন লস," so in the 1912/13 edition.
+[^12-428]: Per the edition of the 1912/13 edition: "বাজত ঝাঁঝ সু-খমক খোল কত". The khamak is a small percussion (plucked-string) instrument.
+[^12-429]: "Putting to shame" — নিরসি (*nirasi*), so in the 1912/13 edition, with the footnote gloss "নিরসি — নিরাশ করিয়া" ("having made hopeless"); the 1960 ed. has nirakhi ("looking at"). Lapana ("face, mouth") is in both editions.
 [^12-429a]: "প্রভু প্রিয় সঞ্জয়ের এই ঘর" (so the 1912/13 edition): apparently Mukunda Sanjaya, in whose house Nimai taught His pupils (cf. 12.1383, 2213).
 [^12-430]: The jackfruit (panasa) is covered with small spikes — a figure for the hairs standing on end in ecstasy (pulaka).
-[^12-431]: Per the scan of the 1912/13 edition: "কনক জিনি যনু, মদন ময় তনু" (*yanu* = জনু, "as if"): "the body, as if surpassing gold, full of [the beauty of] Madana."
-[^12-432]: Per the scan of the 1912/13 edition: "সঘনে জয় জয়, ভণত অতিশয়, শ্যাম ঘন মুদ মাতিয়া" — "ভণত" ("says") introduces the poet's signature: "শ্যাম ঘন" (Shyama-ghana) is Ghanashyama, Narahari's other name (cf. 12.2559). The 1960 ed. has "হাম ঘন" ("I…").
+[^12-431]: Per the edition of the 1912/13 edition: "কনক জিনি যনু, মদন ময় তনু" (*yanu* = জনু, "as if"): "the body, as if surpassing gold, full of [the beauty of] Madana."
+[^12-432]: Per the edition of the 1912/13 edition: "সঘনে জয় জয়, ভণত অতিশয়, শ্যাম ঘন মুদ মাতিয়া" — "ভণত" ("says") introduces the poet's signature: "শ্যাম ঘন" (Shyama-ghana) is Ghanashyama, Narahari's other name (cf. 12.2559). The 1960 ed. has "হাম ঘন" ("I…").
 [^12-433]: Here (2802) and in the songs 2803–2831, the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
-[^12-434]: Yadunandana Chakravarti, a disciple of Dasa Gadadhara, was a poet-padakarta; his signature appears in 2807, 2814 ("Yadu"), 2823. The heading follows the scan of the 1912/13 edition: "তত্রাদৌ শ্রীদাস-গদাধরঠকুরস্য শিষ্য-শ্রীযদুনন্দনচক্রবর্ত্তি-কৃত গীতে যথা" (B's OCR "śrīvāsa-" is an error).
+[^12-434]: Yadunandana Chakravarti, a disciple of Dasa Gadadhara, was a poet-padakarta; his signature appears in 2807, 2814 ("Yadu"), 2823. The heading follows the edition of the 1912/13 edition: "তত্রাদৌ শ্রীদাস-গদাধরঠকুরস্য শিষ্য-শ্রীযদুনন্দনচক্রবর্ত্তি-কৃত গীতে যথা".
 [^12-435]: "Another": কশ্চিৎ / কাচিৎ (kaścit / kācit, "a certain"; the gender agrees with the raga's name) in A/B here and at 2815, 2819, 2824, 2830; in the 1960 ed. only at 2824 and 2830. Apparently "another [song] in the raga …."
-[^12-436]: Per the scan of the 1912/13 edition: "সহজ ভাঙর ভঙ্গিমা কাজে। পরাণে আঁজুলি কি আর লাজে," understood as "the natural curving posture [so] works." Ajuli is an address to a teasing friend (after the 1912/13 edition's gloss on 2829); here it is printed আঁজুলি (*āṃjuli*), so "a handful [of farewell water]" is also possible: "[I] have given up my life — what shame is left?"
+[^12-436]: Per the edition of the 1912/13 edition: "সহজ ভাঙর ভঙ্গিমা কাজে। পরাণে আঁজুলি কি আর লাজে," understood as "the natural curving posture [so] works." Ajuli is an address to a teasing friend (after the 1912/13 edition's gloss on 2829); here it is printed আঁজুলি (*āṃjuli*), so "a handful [of farewell water]" is also possible: "[I] have given up my life — what shame is left?"
 [^12-437]: Devakinandana is the poet whose signature stands in this song. Ajuli (আজলি, *ājali*): according to the footnote gloss of the 1912/13 edition, "one who speaks in mockery (in jest)," i.e. a teasing friend; cf. 2811.
 [^12-438]: The songs 2832–2869 continue the theme of the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404. Poets' signatures: Narahari (2842, 2861), Yadunandana (2850, 2857, 2869).
-[^12-439]: "The moon's" — ইন্দু (*indu*), so in the scan of the 1912/13 edition ("চন্দনের বিন্দু ইন্দু-গরবের কাল") and in the 1960 ed. (B's OCR "ইন্দ্র" is an error).
+[^12-439]: "The moon's" — ইন্দু (*indu*), so in the 1912/13 edition ("চন্দনের বিন্দু ইন্দু-গরবের কাল") and in the 1960 ed..
 [^12-440]: কাচিচ্চ / কশ্চিচ্চ (*kācic ca / kaścic ca*, "and a certain [other]") — the word before the raga name in A/B (feminine with a ragini, masculine with a raga); rendered "And another [song]". Mallarika is the name of a ragini.
-[^12-441]: "In every direction, joy for the women" — দিশা নারী-সুখ (*diśā nārī-sukha*), so also in the scan of the 1912/13 edition ("ছটায় গগন আলো দিশা নারী সুখ"); the sense is unclear, possibly "I can find no limit to the joy" (*nāri*, "I cannot").
-[^12-442]: The raga name: the 1960 ed. has বল্লরী (*vallarī*); the scan of the 1912/13 edition has "কাচিচ্চ বল্ললী" (*vallalī*), probably a misprint.
+[^12-441]: "In every direction, joy for the women" — দিশা নারী-সুখ (*diśā nārī-sukha*), so also in the 1912/13 edition ("ছটায় গগন আলো দিশা নারী সুখ"); the sense is unclear, possibly "I can find no limit to the joy" (*nāri*, "I cannot").
+[^12-442]: The raga name: the 1960 ed. has বল্লরী (*vallarī*); the edition of the 1912/13 edition has "কাচিচ্চ বল্ললী" (*vallalī*), probably a misprint.
 [^12-443]: The songs 2870–2879 continue the theme of the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404. Poets' signatures: Yadunandana (2874), Vasudeva Ghosha (2879).
 [^12-444]: আজুলি (*ājuli*) — "simple, naive girl," an address to a friend.
 [^12-445]: "How can family honor survive" — so in B (কুল কি রহিবে তার); the 1960 ed. has "what can family honor do to her?" (কুল কি করিবে তার).
 [^12-446]: Shadja is the first of the seven svaras; by tradition the peacock's cry resembles this note.
-[^12-447]: Ghanashyama is the poetic name of Narahari Chakravarti. "So wretched" — দীন (*dīna*), so also in the scan of the 1912/13 edition ("ভণত ঘন ঘন-শ্যাম ঐছন, দীন কি হোয়ব আর").
-[^12-448]: "পুনশ্চ গৌরড়ী" (*gauraḍī*) — so in the scan of the 1912/13 edition and in the 1960 ed.; taken as raga Gauri (cf. 12.2018).
+[^12-447]: Ghanashyama is the poetic name of Narahari Chakravarti. "So wretched" — দীন (*dīna*), so also in the 1912/13 edition ("ভণত ঘন ঘন-শ্যাম ঐছন, দীন কি হোয়ব আর").
+[^12-448]: "পুনশ্চ গৌরড়ী" (*gauraḍī*) — so in the 1912/13 edition and in the 1960 ed.; taken as raga Gauri (cf. 12.2018).
 [^12-449]: "Crest-jewels of the accomplished" — so in B (সুঘর-শিরোমণি); the 1960 ed. has "crest-jewels of skilled dancers" (সুনট-শিরোমণি).
 [^12-450]: According to CB (Madhya 18), the Lord allowed only those who had conquered their senses to watch this dance; then Advaita and Srivasa began to refuse to go, and the Lord by His will made everyone "yogeshvaras," masters of yoga, beyond agitation. In this dance the Lord appeared in the role of Rukmini.
-[^12-451]: Per the scan of the 1912/13 edition: "কর্ণভূষণ, তরল মৃদুতর, গণ্ড যুগ যনু, ভ্রমর ভুরু বর" (*yanu* = জনু, "as if"); the 1960 edition has ভ্রমণ (*bhramaṇa*, "swinging") for ভ্রমর. "The hair charmingly bound" takes বন্ধন ("binding"); the print has "চিকুর চয় কমনীয় বন্দন."
-[^12-452]: Per the scan of the 1912/13 edition: "কঞ্চু অঞ্চিত বক্ষ মৃদুতর" (*kañcu* = কঞ্চুক, "bodice") and "কনকাঙ্গুলি-অঙ্গুরী জনু রঞ্জনা" (*janu rañjanā*, "as if for delight"); the OCR of both copies is garbled here.
-[^12-453]: "Pouring forth rasa" — রস ঝরু (*rasa jharu*), so in the scan of the 1912/13 edition ("অতুল উদর, সুঠান রস ঝরু") and in the 1960 edition (B's OCR "রস বর"). "Offers [his] life [for Him]" is nichhani (*nichhani*); see the note to 12.979. Narahari is the poet's signature.
+[^12-451]: Per the edition of the 1912/13 edition: "কর্ণভূষণ, তরল মৃদুতর, গণ্ড যুগ যনু, ভ্রমর ভুরু বর" (*yanu* = জনু, "as if"); the 1960 edition has ভ্রমণ (*bhramaṇa*, "swinging") for ভ্রমর. "The hair charmingly bound" takes বন্ধন ("binding"); the print has "চিকুর চয় কমনীয় বন্দন."
+[^12-452]: Per the edition of the 1912/13 edition: "কঞ্চু অঞ্চিত বক্ষ মৃদুতর" (*kañcu* = কঞ্চুক, "bodice") and "কনকাঙ্গুলি-অঙ্গুরী জনু রঞ্জনা" (*janu rañjanā*, "as if for delight").
+[^12-453]: "Pouring forth rasa" — রস ঝরু (*rasa jharu*), so in the 1912/13 edition ("অতুল উদর, সুঠান রস ঝরু") and in the 1960 edition. "Offers [his] life [for Him]" is nichhani (*nichhani*); see the note to 12.979. Narahari is the poet's signature.
 [^12-454]: Cf. CB Madhya 18: in the house of Chandrashekhara Acharya the Lord, in the mood of the Mother of the world, gave the devotees His breast; the same chapter tells of the effulgence that remained in his house for seven days (2929).
 [^12-455]: Not in the 1960 edition.
 [^12-456]: The episode of Murari Gupta's bowing and his dream (2935–2953) — CB Madhya 20.
@@ -47249,7 +47248,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-458]: Prakashananda [Sarasvati] — a Mayavada sannyasi of Kashi (Varanasi) who taught that the Lord's form is unreal; later Mahaprabhu converted him in Varanasi (CC Adi 7, Madhya 25).
 [^12-459]: Cf. CB Madhya 20: in ecstasy Murari offered Krishna rice with ghee by handfuls, saying "Eat!" — hence the Lord's "indigestion" (2957–2962).
 [^12-460]: Cf. CB Madhya 20: Murari resolved to leave the body before the Lord's disappearance, and the Lord, coming to him, took the knife away.
-[^12-461]: Visharada's embankment (*jangala*) — জাঙ্গাল (*jāṅgāla*), so in the scan of the 1912/13 edition ("এই বিশারদের জাঙ্গাল এই খানে") and in the 1960 edition (B's OCR "জল"). Devananda Pandita — a reciter of the *Bhagavata* in Navadvipa who offended Srivasa; the meeting with him and with the drunkards (2976–2980) — CB Madhya 21.
+[^12-461]: Visharada's embankment (*jangala*) — জাঙ্গাল (*jāṅgāla*), so in the 1912/13 edition ("এই বিশারদের জাঙ্গাল এই খানে") and in the 1960 edition. Devananda Pandita — a reciter of the *Bhagavata* in Navadvipa who offended Srivasa; the meeting with him and with the drunkards (2976–2980) — CB Madhya 21.
 [^12-462]: Maheshvara Visharada — the father of Vasudeva Sarvabhauma, the famous logician who lived in Puri (Nilachala) at the court of King Prataparudra; Gopinatha Acharya was his sister's husband (CC Madhya 6).
 [^12-463]: The sense is unclear: "তেঁহ গেলে যে যে ভক্ত প্রভুরে মিলিল। সে সভে না দেখে তাঁর মনে খেদ হৈল" (so the 1912/13 edition; *se sabhe nā dekhe tāṃra mane kheda haila*) — it can also be understood as "those [devotees] did not see him, and there was sorrow in his heart."
 [^12-464]: Narahari — Narahari Sarakara, the Lord's associate, not the author of the poem.
@@ -47257,22 +47256,22 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-466]: Govinda Ghosha is an associate of the Lord, a kirtana singer, brother of Madhava and Vasudeva Ghosha; this is his signature (bhanita).
 [^12-467]: Shuka is Shukadeva, the narrator of the *Bhagavata*; Virinchi is Brahma. Kamala (3002) is Lakshmi.
 [^12-468]: The poet's signature (bhanita); which Ramachandra is meant, the text does not say.
-[^12-469]: "চাঁচর চিকুর চূড়া ভালে সে বলিয়া" (*cūṛā bhāle se baliyā*) — so also in the scan of the 1912/13 edition; the sense is not quite clear, translated by sense — "gathered in a topknot above the forehead."
+[^12-469]: "চাঁচর চিকুর চূড়া ভালে সে বলিয়া" (*cūṛā bhāle se baliyā*) — so also in the 1912/13 edition; the sense is not quite clear, translated by sense — "gathered in a topknot above the forehead."
 [^12-470]: Shekhara Raya (Raya-shekhara) is a Vaishnava poet, an author of padas in Brajabuli; this is his signature (bhanita).
 [^12-471]: Srinivasa here (and in 3029) is Srivasa Pandita, whose full name is Srinivasa, not Srinivasa Acharya.
 [^12-472]: Shamana is Yama, the lord of death. The heavenly trees are the wish-fulfilling trees (surataru): the Lord surpassed them in generosity.
-[^12-473]: "The earth" follows B ("ধরণি"); the 1960 edition has "তরুণী" ("young women"), probably an OCR error.
+[^12-473]: "The earth" follows B ("ধরণি"); the 1960 edition has "তরুণী" ("young women").
 [^12-474]: The 1912/13 edition notes a variant reading: "Gokulapati" ("Lord of Gokula") instead of "Golokapati."
 [^12-475]: Shripada is the Lord's respectful way of addressing Nityananda.
 [^12-476]: Ananga ("the bodiless one") is Kama, the god of love; likewise in 3071.
-[^12-477]: "ত্রিভুবন দরপিত এ দোঁহার রসে" — so also in the scan of the 1912/13 edition; দরপিত (*darapita*) is understood as দরবিত ("melted"; cf. on the same page "না দরপে … পাষাণ হৃদয়," "the heart of stone does not melt"). "These two" are Gaura and Gadadhara.
+[^12-477]: "ত্রিভুবন দরপিত এ দোঁহার রসে" — so also in the 1912/13 edition; দরপিত (*darapita*) is understood as দরবিত ("melted"; cf. on the same page "না দরপে … পাষাণ হৃদয়," "the heart of stone does not melt"). "These two" are Gaura and Gadadhara.
 [^12-478]: Svarupa is Svarupa Damodara. Yadu is the poet's signature (bhanita), a short form of the name (Yadunatha or Yadunandana); likewise in 3053 and 3060.
 [^12-479]: Aja is Brahma, Bhava is Shiva.
 [^12-480]: The Thief (চোরা) — probably Krishna, the "stealer" of butter and of hearts, hidden in Gaura's golden form.
 [^12-481]: The Sanskrit note (শ্রীনরহরিসরকারঠক্কুরস্য গীতমিদম্) stands after this song in the 1912/13 and 1960 editions: the Narahari Dasa of the signature is Narahari Sarakara, not the author of the *Bhakti-ratnakara*. The Pandita is Gadadhara Pandita: Radha stands at Krishna's left.
 [^12-482]: Kanu is Krishna. The comparisons refer to Gaura and Gadadhara. Rati is the consort of Kama.
-[^12-483]: Nayanananda was a Vaishnava poet, an author of padas, the nephew and disciple of Gadadhara Pandita; this is his signature (bhanita). The note "this is a song of Sri Narahari Sarakara Thakura," which stands before this song, in the scan of the 1912/13 edition closes the preceding song (3063–3067, signed Narahari Dasa) and does not belong to the song 3068–3075.
-[^12-484]: Per the scan of the 1912/13 edition: "সুরধুনীতীরে নাচে রঙ্গিয়া সঙ্গিয়া" (*raṅgiyā saṅgiyā*, "merry, with the companions"); the OCR of both copies is garbled.
+[^12-483]: Nayanananda was a Vaishnava poet, an author of padas, the nephew and disciple of Gadadhara Pandita; this is his signature (bhanita). The note "this is a song of Sri Narahari Sarakara Thakura," which stands before this song, in the 1912/13 edition closes the preceding song (3063–3067, signed Narahari Dasa) and does not belong to the song 3068–3075.
+[^12-484]: Per the edition of the 1912/13 edition: "সুরধুনীতীরে নাচে রঙ্গিয়া সঙ্গিয়া" (*raṅgiyā saṅgiyā*, "merry, with the companions").
 [^12-485]: Srinivasa here is Srivasa Pandita (Srivasa is a short form of the name Srinivasa), not Srinivasa Acharya.
 [^12-486]: Yadu is the poet's signature (bhanita).
 [^12-487]: Govinda is probably Govinda Ghosha, the brother of Vasudeva Ghosha, a kirtana singer. "His qualities" renders নিজ-গুণ (*nija-guṇa*, "own qualities").
@@ -47281,39 +47280,39 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-490]: "His own ghat" renders নিজ-ঘাট (*nija-ghāṭa*), the Lord's ghat. Madhai's ghat is a ghat on the Ganga which, according to CB (Madhya-khanda), the repentant Madhai made. Madhai's ghat, Barakona-ghat (3125) and Nagariya-ghat (3126) are ghats of the Ganga in Navadvipa on the route of the nagara-kirtana.
 [^12-491]: Kshetrapala means the guardian of the holy land; here, Shiva as the guardian of Navadvipa.
 [^12-492]: মূর্তি (*mūrti*) is understood as the Deity of Ganesha, which disappeared when the Lord took sannyasa (3129); it may also be understood as the "form" of Ganesha himself.
-[^12-493]: "Weep" — কাঁদে (*kā̃de*), so in the scan of the 1912/13 edition ("কাঁদে নিত্যানন্দাদ্বৈত-আদি যত জন") and in the 1960 edition; "কাছে" in the OCR of copy B is an error.
-[^12-494]: Patadanga — "পাটডাঙ্গা" (*pāṭaḍāṅgā*), so in the scan of the 1912/13 edition ("গাদিগাছা পাটডাঙ্গা-আদি গ্রাম দিয়া"); the 1960 edition has "পারডাঙ্গা" (*pāraḍāṅgā*, Paradanga). On Gadigachha see 12.239.
+[^12-493]: "Weep" — কাঁদে (*kā̃de*), so in the 1912/13 edition ("কাঁদে নিত্যানন্দাদ্বৈত-আদি যত জন") and in the 1960 edition.
+[^12-494]: Patadanga — "পাটডাঙ্গা" (*pāṭaḍāṅgā*), so in the 1912/13 edition ("গাদিগাছা পাটডাঙ্গা-আদি গ্রাম দিয়া"); the 1960 edition has "পারডাঙ্গা" (*pāraḍāṅgā*, Paradanga). On Gadigachha see 12.239.
 [^12-495]: CB Madhya 23; the 1960 edition gives 23.513. The quotation is in Bengali verse from the *Chaitanya-bhagavata*.
 [^12-496]: On the morning after Janmashtami (3148–3152) the Nanda-utsava is celebrated, Nanda's festival for the birth of his son, when the cowherds of Gokula joyfully drenched one another with yogurt, milk, ghee and turmeric (cf. *Bhag.* 10.5).
 [^12-497]: Sundarananda and Gauridasa Pandita are associates of Nityananda; in Krishna's lila they are, according to GGD, cowherd boys (among the twelve gopalas). "Sundara" in 3163 and 3170 is Sundarananda.
 [^12-498]: Carrying-pole renders ভার (*bhāra*): a pole on the shoulder with loads hung at both ends (here, pots).
-[^12-499]: "পুরুব প্রকট, সুঅট মিভাদর" — so (with a misplaced space) in the scan of the 1912/13 edition: সু-অটমি ভাদর (*su-aṭami bhādara*), "the blessed ashtami of [the month of] Bhadra," Krishna's birthday.
-[^12-500]: Per the scan of the 1912/13 edition: "বান্ধি নট পটি, পাগ মৃদুভর" (*naṭa paṭi, pāga mṛdubhara*): পটি is a band, পাগ a turban, মৃদুভর "soft, full." "শিরি-বাস" (Shirivasa) is Srivasa, as the 1912/13 edition glosses it.
-[^12-500a]: Per the scan of the 1912/13 edition: "ভাণ্ড দধি যুত, চিত্র বাহুঁক, কান্ধে করু, করে লগুড় কাহুকো"; বাহুঁক (*bāhuṃka*) is taken as বাঁক, a carrying-pole for pots (OCR: B "বাহুক," G "বঁহুক").
-[^12-501]: The ascetic renders যতি (*yati*), so also in the scan of the 1912/13 edition; apparently Nityananda the avadhuta.
+[^12-499]: "পুরুব প্রকট, সুঅট মিভাদর" — so (with a misplaced space) in the 1912/13 edition: সু-অটমি ভাদর (*su-aṭami bhādara*), "the blessed ashtami of [the month of] Bhadra," Krishna's birthday.
+[^12-500]: Per the edition of the 1912/13 edition: "বান্ধি নট পটি, পাগ মৃদুভর" (*naṭa paṭi, pāga mṛdubhara*): পটি is a band, পাগ a turban, মৃদুভর "soft, full." "শিরি-বাস" (Shirivasa) is Srivasa, as the 1912/13 edition glosses it.
+[^12-500a]: Per the edition of the 1912/13 edition: "ভাণ্ড দধি যুত, চিত্র বাহুঁক, কান্ধে করু, করে লগুড় কাহুকো"; বাহুঁক (*bāhuṃka*) is taken as বাঁক, a carrying-pole for pots.
+[^12-501]: The ascetic renders যতি (*yati*), so also in the 1912/13 edition; apparently Nityananda the avadhuta.
 [^12-502]: "Dha dhi dhi ki taka…" are syllables of the drum rhythm (bols); likewise in 3195.
 [^12-503]: Radha's birth festival (Radhashtami) falls on the bright ashtami of Bhadra, half a month after Janmashtami. Pundarika Vidyanidhi, according to GGD, is Vrishabhanu, Radha's father; hence the festival is held in his house (cf. 3196).
 [^12-504]: Gadadhara Pandita, according to GGD, is Sri Radha.
 [^12-505]: Kama (কাম, *kāma*) is Kamadeva, the god of love. The 1960 edition has গোপরূপের ("of the cowherd's form") instead of গোরারূপের ("of Gora's form"). The 1912/13 edition notes for কনকের কাম the variant reading কনকের দাম ("a golden garland").
 [^12-506]: Ketaki (ketaka) is the screw pine with fragrant golden-yellow flowers; gorochana is a bright yellow fragrant pigment obtained from cows.
 [^12-507]: The song 3204–3209, like the song of the dana-lila (3220–3223), touches on the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
-[^12-508]: Sangali (সাঙলি, *sāṅali*) and Dhavali (ধবলি, *dhavali*, "White") are names of cows. So in the scan of the 1912/13 edition: "সাঙলি ধবলি বলি সঘনে ডাকিল" (G's OCR is corrupt).
+[^12-508]: Sangali (সাঙলি, *sāṅali*) and Dhavali (ধবলি, *dhavali*, "White") are names of cows. So in the 1912/13 edition: "সাঙলি ধবলি বলি সঘনে ডাকিল".
 [^12-509]: The dana-lila is Krishna's pastime of demanding a "toll" (দান, *dāna*) from the gopis on their way; on the song 3220–3223 see the note on 12.1404.
-[^12-510]: "ফুল বল" (*phula bala*) — so also in the scan of the 1912/13 edition; read as ফুলবন (*phulabana*), "flower garden" (cf. "পুষ্পবাটী" in 3225 and "ফুলবন দেখি" in 3293).
+[^12-510]: "ফুল বল" (*phula bala*) — so also in the 1912/13 edition; read as ফুলবন (*phulabana*), "flower garden" (cf. "পুষ্পবাটী" in 3225 and "ফুলবন দেখি" in 3293).
 [^12-511]: Pasha-sari (পাশা-সারি, *pāśā-sāri*) is a game of dice played with pieces on a board.
-[^12-512]: "গৌরাঙ্গচাঁদের মনে কি ভাব পড়িল" — so in the scan of the 1912/13 edition (the OCR of both copies is garbled).
+[^12-512]: "গৌরাঙ্গচাঁদের মনে কি ভাব পড়িল" — so in the 1912/13 edition.
 [^12-513]: *Duyā*, *chāri*, *pañcha*, *tina* — "two," "four," "five," "three": the scores that players call out as they throw the dice in the game of pasha-sari.
 [^12-514]: Here and in the song 3271–3274, the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
-[^12-515]: "তারা, মৃদু মৃদু হাসি হাসিয়া" — so in the scan of the 1912/13 edition (the word হাসি is faintly printed; B's OCR is garbled): "smiling gently, gently."
+[^12-515]: "তারা, মৃদু মৃদু হাসি হাসিয়া" — so in the 1912/13 edition: "smiling gently, gently."
 [^12-516]: The 1960 edition reads গোরারূপ মেঘের বিজুরী, "Gora's form is lightning in a cloud."
-[^12-517]: Translated according to the 1912/13 edition (scan): ভুঞ্জিব কি সভারে ভুঞ্জায়. The 1960 edition reads ভুঞ্জিব কি? — সভারে সুধায়, "'Shall I eat?' He asks everyone."
+[^12-517]: Translated according to the 1912/13 edition: ভুঞ্জিব কি সভারে ভুঞ্জায়. The 1960 edition reads ভুঞ্জিব কি? — সভারে সুধায়, "'Shall I eat?' He asks everyone."
 [^12-518]: Phagu is a colored (usually red) powder that people throw on one another at the spring festival of Holi.
 [^12-519]: Abir and gulal are coloured (red) powders that people throw on one another at Holi; a pichkari (3315, 3322) is a syringe-pump from which coloured water is squirted.
 [^12-520]: A motif of the feelings of the young women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
 [^12-521]: The text has শ্রীনিবাস (Srinivasa) — here Srivasa (Srinivasa Pandita), not Srinivasa Acharya, who is listening to the account.
-[^12-522]: Narahari, here and in 3345, is Narahari Sarakara, the Lord's associate, not the author of the poem. "Hari" (হরি), so also in the scan of the 1912/13 edition ("নরহরি হরি ছিরিবাস মুরারি"), is probably a shortened name of one of the associates (Haridasa?); the text does not make it clear.
-[^12-523]: "Dvija Haridasa" (Haridasa the brahmana) is দ্বিজ হরিদাস (*dvija haridāsa*), so in the scan of the 1912/13 edition ("সঞ্জয় বিজয় বাজায়ত খোল। দ্বিজ হরিদাস করত উতরোল"); B's OCR "ছিল হরিদাস" is an error.
-[^12-524]: "Thukkuta thai…", "dan drimi ki…" are syllables of the dance rhythm (bols) and the sounds of the drums; per the scan of the 1912/13 edition: "উঘটি থুক্কুট, থৈ তা তক তক, থো দি দৃমি কট, দাঁ দৃমি কি দৃমি, দৃমি কি মুরজ মৃদঙ্গ বাদক বায়ই." The muraja is a kind of drum.
+[^12-522]: Narahari, here and in 3345, is Narahari Sarakara, the Lord's associate, not the author of the poem. "Hari" (হরি), so also in the 1912/13 edition ("নরহরি হরি ছিরিবাস মুরারি"), is probably a shortened name of one of the associates (Haridasa?); the text does not make it clear.
+[^12-523]: "Dvija Haridasa" (Haridasa the brahmana) is দ্বিজ হরিদাস (*dvija haridāsa*), so in the 1912/13 edition ("সঞ্জয় বিজয় বাজায়ত খোল। দ্বিজ হরিদাস করত উতরোল").
+[^12-524]: "Thukkuta thai…", "dan drimi ki…" are syllables of the dance rhythm (bols) and the sounds of the drums; in the edition of the 1912/13 edition: "উঘটি থুক্কুট, থৈ তা তক তক, থো দি দৃমি কট, দাঁ দৃমি কি দৃমি, দৃমি কি মুরজ মৃদঙ্গ বাদক বায়ই." The muraja is a kind of drum.
 [^12-525]: Gadadhara Pandita, according to GGD, is Radha; hence "a woman full of rasa". The "Pandita" in 3346 is the same.
 [^12-526]: Shivananda is the signature of the song's author (probably Shivananda Sena, the Lord's associate).
 [^12-527]: Balarama performed the rasa-lila with the gopis in Vraja (*Bhag.* 10.65); Nityananda is Balarama, hence "Nityananda-Haladhara".
@@ -47322,9 +47321,9 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-530]: Murari (lit. "the enemy of [the demon] Mura") is here a name of the Lord; so the 1960 edition understands it.
 [^12-531]: CC Madhya 19 (the chapter on the instructions to Sri Rupa; the 1960 edition also gives a reference to it); Narahari calls the Madhya-lila the "Madhya-khanda".
 [^12-532]: The five verses (3366–3370) come under one introductory line; the source is not named and has not been identified. These are the eight periods of the day (ashtakaliya-lila) of Gaura: the end of night, morning, forenoon, midday, afternoon, evening, the beginning of night and night; the verb "remember" is implied in the verses (so in the 1960 edition).
-[^12-533]: Per the scan of the 1912/13 edition: "পূর্ব্বাহ্নসময়ে ভক্তমন্দিরে পরমোৎসুকং" (*pūrvāhna-samaye bhakta-mandire paramotsukam*); the OCR of both copies is garbled here.
+[^12-533]: Per the edition of the 1912/13 edition: "পূর্ব্বাহ্নসময়ে ভক্তমন্দিরে পরমোৎসুকং" (*pūrvāhna-samaye bhakta-mandire paramotsukam*).
 [^12-534]: The 1960 edition has "raga Shri".
-[^12-535]: "For a moment" — পল ছন (*pala chhana*; so also in the scan of the 1912/13 edition: "পল ছন শয়ন সেবই সব দাস"), taken as *pala-kṣaṇa*.
+[^12-535]: "For a moment" — পল ছন, taken as *pala-kṣaṇa*.
 [^12-536]: Gopala Chapala — a brahmana of Navadvipa, an opponent of kirtana. His offence against Srivasa, his leprosy and cure, and also the curse of the brahmana who was not admitted to the kirtana (3410–3415), are described in CC Adi 17; according to the CC, Gopala Chapala was cured when, at the Lord's word, he begged Srivasa's forgiveness.
 [^12-537]: The Lord rejoiced at the curse "may Your worldly happiness be destroyed," for He Himself intended to leave worldly life and accept sannyasa (CC Adi 17).
 [^12-538]: Chaitanyadasa — a poet, the author of this song (his signature).
@@ -47335,98 +47334,98 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^12-543]: The departure of Srivasa's son during the kirtana, and the teaching that the Lord spoke through the mouth of the dead boy, are described in CB Madhya 25.
 [^12-544]: Sri Vijaya (Vijaya Dasa) was the Lord's scribe, who copied books for Him; in CC Adi 10 the Lord calls him Ratna-bahu. His vision from the touch of the Lord's hand in Shuklambara's house is described in CB (Madhya-khanda).
 [^12-545]: মধু (*madhu*) means both "honey" and an intoxicating drink (varuni) dear to Balarama. In the mood of Balarama (Haladhara) the Lord demands it, and Nityananda gives Him Ganga water.
-[^12-546]: Devakinandana is the poet; this is his signature (bhanita); see 12.2829. "A rogue, a boar wallowing in the mire" renders ভাড়িয়া গড়িয়া শূকর (*bhāṛiyā gaṛiyā śūkara*; so also in the scan of the 1912/13 edition: "সে ভাড়িয়া গড়িয়া শূকর"), understood as ভাঁড়িয়া ("rogue") and গড়িয়া ("wallowing").
+[^12-546]: Devakinandana is the poet; this is his signature (bhanita); see 12.2829. "A rogue, a boar wallowing in the mire" renders ভাড়িয়া গড়িয়া শূকর, understood as ভাঁড়িয়া ("rogue") and গড়িয়া ("wallowing").
 [^12-547]: Balarama is the signature of the poet Balarama Dasa (bhanita).
-[^12-548]: "In bewilderment" renders ধাঁদে (*dhā̃de*), so in the scan of the 1912/13 edition ("বধির জড় কাঁদে ধাঁদে"; the OCR has ধাদে).
+[^12-548]: "In bewilderment" renders ধাঁদে (*dhā̃de*), so in the 1912/13 edition.
 [^12-549]: Yadu is the poet's signature (bhanita).
 [^12-550]: The students offended the Lord when, in ecstasy, He was chanting "gopi, gopi," and He chased them with a stick; after this He resolved to accept sannyasa in order to deliver the offenders as well. CC Adi 17; CB Madhya-khanda.
 [^12-551]: CB Madhya-khanda; the 1960 edition gives 27.13–14. The quotation (3511–3512) is in Bengali verse from the *Chaitanya-bhagavata*.
-[^12-552]: "As much as [you] could" follows the sense; the scan of the 1912/13 edition has "এবে মাতা কীর্ত্তনাস্বাদিলা যত্ন পা'য়া" (*yatna pā'yā*, "with effort"?; possibly যত পা'য়া, "as much as [you] got"); the 1960 edition has যত পানয় (*yata pānaya*).
+[^12-552]: "As much as [you] could" follows the sense; the edition of the 1912/13 edition has "এবে মাতা কীর্ত্তনাস্বাদিলা যত্ন পা'য়া" (*yatna pā'yā*, "with effort"?; possibly যত পা'য়া, "as much as [you] got"); the 1960 edition has যত পানয় (*yata pānaya*).
 [^12-553]: CB Madhya-khanda; no verse number is given in the editions. The quotation (3519–3520) is in Bengali verse from the *Chaitanya-bhagavata*.
-[^12-554]: "The flowers do not bloom" follows the sense, reading না বিকসে (*nā vikase*); the scan of the 1912/13 edition and the 1960 edition print "নাবিক সে" (*nābika se*), apparently a wrong division of words.
-[^12-555]: A Sanskrit drama by Kavi Karnapura; the verse number is not given in the editions. The chintamani is the wish-fulfilling gem. "The ten directions": per the scan of the 1912/13 edition, "অন্ধীকৃত্য দিশো দশোঽন্ধতমসীকৃত্য" (*diśo daśo 'ndhatamasīkṛtya*), i.e. দশ দিশঃ, "the ten directions."
+[^12-554]: "The flowers do not bloom" follows the sense, reading না বিকসে (*nā vikase*); the edition of the 1912/13 edition and the 1960 edition print "নাবিক সে" (*nābika se*), apparently a wrong division of words.
+[^12-555]: A Sanskrit drama by Kavi Karnapura; the verse number is not given in the editions. The chintamani is the wish-fulfilling gem. "The ten directions": in the edition of the 1912/13 edition, "অন্ধীকৃত্য দিশো দশোঽন্ধতমসীকৃত্য" (*diśo daśo 'ndhatamasīkṛtya*), i.e. দশ দিশঃ, "the ten directions."
 [^12-556]: CC Madhya 3 (in CC, the Madhya-lila). The quotation is in Bengali verse from the *Chaitanya-charitamrita*.
-[^12-557]: Phuliya follows B, ফুলিয়া (*phuliyā*); the 1960 edition has কুলিয়া (*kuliyā*, Kuliya). Phuliya is a village on the Ganga near Shantipura where Haridasa Thakura lived. The reading remains unclear in the scan of the 1912/13 edition as well: in this type ফ and ক are almost indistinguishable here.
-[^12-558]: "To Phuliya" follows B, ফুলিয়া; the 1960 edition has কুলিয়া (Kuliya) here too. "By way of Kuliya" — কুলিয়া হইয়া in all copies; on Kuliya see 12.372. In the scan of the 1912/13 edition ফ/ক cannot be told apart in either word (see the note on 3570).
+[^12-557]: Phuliya follows B, ফুলিয়া (*phuliyā*); the 1960 edition has কুলিয়া (*kuliyā*, Kuliya). Phuliya is a village on the Ganga near Shantipura where Haridasa Thakura lived. The reading remains unclear in the 1912/13 edition as well: in this type ফ and ক are almost indistinguishable here.
+[^12-558]: "To Phuliya" follows B, ফুলিয়া; the 1960 edition has কুলিয়া (Kuliya) here too. "By way of Kuliya" — কুলিয়া হইয়া in all copies; on Kuliya see 12.372. In the edition of the 1912/13 edition ফ/ক cannot be told apart in either word (see the note on 3570).
 [^12-559]: Bhiksha is the meal offered to a sannyasi.
-[^12-560]: "Of the arms" — বাহুশোভা (*bāhu-śobhā*), so in the scan of the 1912/13 edition ("কিবা বাহুশোভা, মুনিমনো-লোভা"); the 1960 edition has বহু শোভা (*bahu śobhā*), "what great beauty."
+[^12-560]: "Of the arms" — বাহুশোভা (*bāhu-śobhā*), so in the 1912/13 edition ("কিবা বাহুশোভা, মুনিমনো-লোভা"); the 1960 edition has বহু শোভা (*bahu śobhā*), "what great beauty."
 [^12-561]: "… ঘন, শ্যামের হৃদয়-মাঝে" (*ghana, śyāmera hṛdaya-mājhe*) is understood as the signature of Ghanashyama (the other name of Narahari Chakravarti); it may also be read "shine constantly in the heart of Shyama."
 [^12-562]: CB Antya-khanda. The quotation is in Bengali verse from the *Chaitanya-bhagavata*.
 [^12-563]: "To take upon oneself the ills (balai)" — an expression of tender love: "may all the ills that threaten you fall on me."
 [^12-564]: CB Antya 5; the 1960 edition gives 5.231–233. Ojha, "teacher," is an honorific byname of Raghunatha Vaidya.
 [^12-565]: "Here comes" renders আয়ত (*āyata*), understood as Brajabuli "comes, goes." The avadhuta is Nityananda.
-[^12-566]: Cf. CC Adi 5: Sankarshana, Shesha and the purusha-avataras are expansions of Balarama (Nityananda). "Narayana the source of the avataras" (অবতারী নারায়ণ) here apparently means Maha-Vishnu, the purusha-avatara. The scan of the 1912/13 edition has "শেষশায়ী সঙ্কীর্ত্তন-অবতারী নারায়ণ" ("sankirtana"), apparently a misprint; the 1960 edition's reading "শেষশায়ী সঙ্কর্ষণ" is adopted.
-[^12-567]: "Grows cold" — শীত (*śīta*), so in the scan of the 1912/13 edition ("খেনে কালা খেনে গোরা অঙ্গ হয় শীত"); the 1960 ed. has স্ফীত (*sphīta*, "swells").
-[^12-568]: Yadu is the poet's signature (bhanita). The poet laments that he alone was left unsubmerged by the flood of prema. The end of the line, per the scan of the 1912/13 edition: "এ ভব অচলে যদু রহল অবধি" (*rahala avadhi*, "remained aside / beyond the limit"); in the 1960 ed. the name reads যহু (*yahu*).
-[^12-569]: "The bound" — অবধি (*avadhi*, "limit"), so in the scan of the 1912/13 edition ("অবধি করুণাসিন্ধু কাটিয়া মুহান"); the 1960 ed. has আবদ্ধ (*ābaddha*): "cutting open the mouth of the enclosed ocean of mercy."
+[^12-566]: Cf. CC Adi 5: Sankarshana, Shesha and the purusha-avataras are expansions of Balarama (Nityananda). "Narayana the source of the avataras" (অবতারী নারায়ণ) here apparently means Maha-Vishnu, the purusha-avatara. The edition of the 1912/13 edition has "শেষশায়ী সঙ্কীর্ত্তন-অবতারী নারায়ণ" ("sankirtana"), apparently a misprint; the 1960 edition's reading "শেষশায়ী সঙ্কর্ষণ" is adopted.
+[^12-567]: "Grows cold" — শীত (*śīta*), so in the 1912/13 edition ("খেনে কালা খেনে গোরা অঙ্গ হয় শীত"); the 1960 ed. has স্ফীত (*sphīta*, "swells").
+[^12-568]: Yadu is the poet's signature (bhanita). The poet laments that he alone was left unsubmerged by the flood of prema. The end of the line, in the edition of the 1912/13 edition: "এ ভব অচলে যদু রহল অবধি" (*rahala avadhi*, "remained aside / beyond the limit"); in the 1960 ed. the name reads যহু (*yahu*).
+[^12-569]: "The bound" — অবধি (*avadhi*, "limit"), so in the 1912/13 edition ("অবধি করুণাসিন্ধু কাটিয়া মুহান"); the 1960 ed. has আবদ্ধ (*ābaddha*): "cutting open the mouth of the enclosed ocean of mercy."
 [^12-570]: Panihati is a village on the bank of the Ganga north of Calcutta, the home of Raghava Pandita; here Nityananda, having come from Puri, began His preaching in Bengal (CB Antya 5).
 [^12-571]: Raghava Pandita, the Lord's associate from Panihati, is famous for the bags (jhali) of delicacies he brought to the Lord in Puri every year; Makaradhvaja Kara was the keeper of those bags (CC Antya 10).
-[^12-571a]: "Greatly rich" follows the 1960 ed., মহাধনী (*mahādhanī*); the scan of the 1912/13 edition has "দীনহীন জনে, করে মহাধ্বনি" (*mahādhvani*, "a great sound"), apparently a misprint.
+[^12-571a]: "Greatly rich" follows the 1960 ed., মহাধনী (*mahādhanī*); the edition of the 1912/13 edition has "দীনহীন জনে, করে মহাধ্বনি" (*mahādhvani*, "a great sound"), apparently a misprint.
 [^12-572]: The motif of chaste women's feelings for the Lord, as in the songs of nagari-bhava; see the note on 12.1404.
 [^12-573]: Sri Raghavananda is apparently Raghava Pandita himself (cf. 3663–3665).
 [^12-574]: CB Antya 5; the 1960 ed. gives 5.303. The quotation is Bengali verse of the *Chaitanya-bhagavata*.
-[^12-575]: CB Antya 5; the 1960 ed. gives 5.418–419 (the figures partly corrupted by OCR). "Servants" (3677) is ভৃত্যগণেরে (*bhṛtyagaṇere*), so in the scan of the 1912/13 edition; the 1960 ed. has বিপ্রগণেরে (*vipragaṇere*), "brahmanas." "Desired" (3676): the 1912/13 edition বাঞ্ছিত (*vāñchita*), the 1960 ed. অভীষ্ট (*abhīṣṭa*); the meaning is the same.
-[^12-576]: Sri Chaitanyadasa and Murari Pandita are associates of Nityananda; in the scan of the 1912/13 edition too the names stand without a comma ("শ্রীচৈতন্যদাস মুরারি পণ্ডিত যত"), so a single person is also possible — Murari Chaitanyadasa (cf. 9.397 and the note there). The text does not make it clear.
-[^12-577]: "Granted the meeting" — মিলায়ল (*milāyala*, "brought together, united"), so in the scan of the 1912/13 edition ("আনি মিলায়ল বিধি"); the 1960 ed. has বিলায়ল (*bilāyala*), "distributed."
+[^12-575]: CB Antya 5; the 1960 ed. gives 5.418–419. "Servants" (3677) is ভৃত্যগণেরে (*bhṛtyagaṇere*), so in the 1912/13 edition; the 1960 ed. has বিপ্রগণেরে (*vipragaṇere*), "brahmanas." "Desired" (3676): the 1912/13 edition বাঞ্ছিত (*vāñchita*), the 1960 ed. অভীষ্ট (*abhīṣṭa*); the meaning is the same.
+[^12-576]: Sri Chaitanyadasa and Murari Pandita are associates of Nityananda; in the 1912/13 edition too the names stand without a comma ("শ্রীচৈতন্যদাস মুরারি পণ্ডিত যত"), so a single person is also possible — Murari Chaitanyadasa (cf. 9.397 and the note there). The text does not make it clear.
+[^12-577]: "Granted the meeting" — মিলায়ল (*milāyala*, "brought together, united"), so in the 1912/13 edition ("আনি মিলায়ল বিধি"); the 1960 ed. has বিলায়ল (*bilāyala*), "distributed."
 [^12-578]: Saptagrama is an ancient trading town on the Ganga (Hugli), north of Khardaha; there lived Uddharana Datta, an intimate associate of Nityananda from the merchant caste (the suvarna-baniks; cf. 3751).
 [^12-579]: "The former pastimes" are the pastimes of Krishna in Vraja, where Nityananda was Balarama. The line is understood tentatively: পুরুব বিলাসী রঙ্গী সঙ্গের সঙ্গিয়া (*puruba bilāsī raṅgī saṅgera saṅgiyā*).
-[^12-580]: Prasada Dasa is the poet's signature: "পরসাদ দাস" (*parasāda dāsa*), so in the scan of the 1912/13 edition and in the 1960 edition (B's OCR "পরমাদ" is an error).
-[^12-581]: "A jewelled necklace with its tarala" — "বক্ষে তরল* মণিহার," so in the scan of the 1912/13 edition, with the footnote gloss "তরল — হারের মধ্যস্থিত মণি" (the tarala is the central gem of a necklace); the 1960 edition has "সুললিত হার" (*sulalita hāra*), "a lovely necklace."
-[^12-581a]: Per the scan of the 1912/13 edition: "পদতল তাল-বলিত মণি মঞ্জরী" (as in B's OCR); the 1960 edition has "পদতলতলে বলিত মণিমঞ্জরী."
-[^12-582]: "With leaps" — লম্ফে লম্ফে (*lamphe lamphe*), so in the scan of the 1912/13 edition ("লম্ফে লম্ফে যায় নিতাই"; the OCR has "লক্ষে লক্ষে").
+[^12-580]: Prasada Dasa is the poet's signature: "পরসাদ দাস" (*parasāda dāsa*), so in the 1912/13 edition and in the 1960 edition.
+[^12-581]: "A jewelled necklace with its tarala" — "বক্ষে তরল* মণিহার," so in the 1912/13 edition, with the footnote gloss "তরল — হারের মধ্যস্থিত মণি" (the tarala is the central gem of a necklace); the 1960 edition has "সুললিত হার" (*sulalita hāra*), "a lovely necklace."
+[^12-581a]: Per the edition of the 1912/13 edition: "পদতল তাল-বলিত মণি মঞ্জরী"; the 1960 edition has "পদতলতলে বলিত মণিমঞ্জরী."
+[^12-582]: "With leaps" — লম্ফে লম্ফে (*lamphe lamphe*), so in the 1912/13 edition.
 [^12-583]: Ramai is probably Ramadasa (Abhirama), Sundara is Sundarananda, and Gauridasa is Gauridasa Pandita — all three associates of Nityananda. The reading "beautiful Ramai" is also possible.
 [^12-584]: Jnanadasa is a sixteenth-century Vaishnava poet, author of padas, a follower of Nityananda and Jahnava; this is his signature.
 [^12-585]: Nagara, "the beloved, the gallant hero," is an epithet of Gaura in songs about the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
 [^12-586]: Lochana (Lochana Dasa) is a Vaishnava poet, the author of the *Chaitanya-mangala*; this is his signature.
-[^12-587]: Per the scan of the 1912/13 edition: "শান্তিপুর-পতি, পরমসুন্দর, চরিত বরলীলা যাত। … বিপুল পুলকিত গাত" (*baralīlā yāta*; *pulakita gāta*, "body covered with thrills"); the 1960 edition has "বরলীলা যতি," "পুলকিত গতি." The word যাত (*yāta*) is unclear; "[a treasury]" is conjectural.
-[^12-588]: Not in the 1960 edition: couplets 3781a–3781c (with Ghanashyama's signature) are found in the 1912/13 edition (checked against the scan: "হসই মধুর মৃদু গদ গদ বাণী। জপই কি কোউ মরম নাহি জানি…").
-[^12-589]: "In that mood" — সে-ভাবে (*se bhāve*), so in the scan of the 1912/13 edition; the 1960 edition has সে ভয়ে (*se bhaye*, "in that fear").
-[^12-590]: "Slaps His arms like a wrestler" — মালসাট (*mālasāṭ*), a wrestler's challenge. Kali is the personified age of Kali; B's কপি (*kapi*) is an OCR error.
-[^12-591]: "His fame" — "ভুবন ভরিল ওনা যশে" (so the scan of the 1912/13 edition); ওনা (*onā*) is taken as "his."
+[^12-587]: Per the edition of the 1912/13 edition: "শান্তিপুর-পতি, পরমসুন্দর, চরিত বরলীলা যাত। … বিপুল পুলকিত গাত" (*baralīlā yāta*; *pulakita gāta*, "body covered with thrills"); the 1960 edition has "বরলীলা যতি," "পুলকিত গতি." The word যাত (*yāta*) is unclear; "[a treasury]" is conjectural.
+[^12-588]: Not in the 1960 edition: couplets 3781a–3781c (with Ghanashyama's signature) are found in the 1912/13 edition.
+[^12-589]: "In that mood" — সে-ভাবে (*se bhāve*), so in the 1912/13 edition; the 1960 edition has সে ভয়ে (*se bhaye*, "in that fear").
+[^12-590]: "Slaps His arms like a wrestler" — মালসাট (*mālasāṭ*), a wrestler's challenge. Kali is the personified age of Kali.
+[^12-591]: "His fame" — "ভুবন ভরিল ওনা যশে"; ওনা (*onā*) is taken as "his."
 [^12-592]: "Slapping [His palm] under His arm" — কাখতালি (*kā̃khatāli*): striking the palm pressed under the armpit, a gesture of jubilation.
 [^12-593]: Ghanashyama is the poet's signature (the second name of Narahari Chakravarti), not Krishna.
-[^12-592a]: "Weep" — "ভয়েতে পাষণ্ড কাঁদে," so in the scan of the 1912/13 edition; the 1960 edition has কাঁপে ("tremble"), which rhymes better with দাপে.
+[^12-592a]: "Weep" — "ভয়েতে পাষণ্ড কাঁদে," so in the 1912/13 edition; the 1960 edition has কাঁপে ("tremble"), which rhymes better with দাপে.
 [^12-594]: The CB (Antya-khanda) tells of Nityananda's coming from Saptagrama to Advaita in Shantipura and then to Navadvipa.
-[^12-595]: Vasu — বাসু (*vāsu*), so in the scan of the 1912/13 edition ("এ দুখ না সহে গায়, বাসু কেনে মরিয়া না যায়"; B's OCR বানু): Vasu Ghosha, the author of the song, in the signature (bhanita). The 1960 edition has সেই (*sei*): "why does she not die."
-[^12-596]: "To Srivasa's house" — "শ্রীবাসভবনে গেলা প্রেমাবিষ্ট হৈয়া," so in the scan of the 1912/13 edition ("প্রবাস-ভবনে" in the OCR of the 1960 edition is an error); likewise in 3842: "মালিনী শ্রীবাসে সন্তোষিয়া প্রতি ঘরে."
+[^12-595]: Vasu — বাসু (*vāsu*), so in the 1912/13 edition: Vasu Ghosha, the author of the song, in the signature (bhanita). The 1960 edition has সেই (*sei*): "why does she not die."
+[^12-596]: "To Srivasa's house" — "শ্রীবাসভবনে গেলা প্রেমাবিষ্ট হৈয়া," so in the 1912/13 edition; likewise in 3842: "মালিনী শ্রীবাসে সন্তোষিয়া প্রতি ঘরে."
 [^12-597]: The story of the robbers who plotted to steal Nityananda's ornaments and of their conversion — CB Antya-khanda.
 [^12-598]: The quotation (3847–3850) is in Bengali verse from the *Chaitanya-bhagavata*. In the 1960 edition 3847 begins with এই মত ("thus").
-[^12-599]: Khanayora, Baragachhi, Dogachhiya — villages where Nityananda wandered. Khanayora is খানাযোড়া (*khānāyoṛā*), as the village is usually named in the *Chaitanya-bhagavata*; the scan of the 1912/13 edition has "খালাযোড়া বড়গাছি আর দোগাছিয়া" (*khālāyoṛā*), the 1960 edition "খানচৌড়া" (*khānacauṛā*). On Kuliya see 12.372.
+[^12-599]: Khanayora, Baragachhi, Dogachhiya — villages where Nityananda wandered. Khanayora is খানাযোড়া (*khānāyoṛā*), as the village is usually named in the *Chaitanya-bhagavata*; the edition of the 1912/13 edition has "খালাযোড়া বড়গাছি আর দোগাছিয়া" (*khālāyoṛā*), the 1960 edition "খানচৌড়া" (*khānacauṛā*). On Kuliya see 12.372.
 [^12-600]: By His loud calls (roars) Advaita induced the Lord to descend (CC Adi 3).
 [^12-601]: The father of Achyuta is Advaita, the father of Achyutananda.
-[^12-602]: Saranga — সারঙ্গ (*sāraṅga*), so in the scan of the 1912/13 edition ("অভিরাম সারঙ্গ সুন্দর মনোহর"; OCR: G "সারগ," B "মারঙ্গ").
+[^12-602]: Saranga — সারঙ্গ (*sāraṅga*), so in the 1912/13 edition.
 [^12-603]: Hari Hod was the local ruler (in 3933, "raja") of the village of Baragachhi (on it see 12.3848–3850); his son Krishnadasa Hod was an associate of Nityananda.
 [^12-604]: Suryadasa Sarakhel is the elder brother of Gauridasa Pandita (cf. BR 7.330). "Sarakhel" (সরখেল, *sarakhela*) is a title conferred by the Muslim ruler of Gauda, from Persian *sar-i-khail*, "head of a troop."
 [^12-605]: The *Vaishnavabhidhana* is apparently a Sanskrit enumeration of Vaishnavas composed by Devakinandana Dasa, the author of the *Vaishnava-vandana* (see the note on 12.94).
 [^12-606]: Gai: see the note on 11.441. Karana (করণ, *karaṇa*) here apparently means the marriage connections of a kulina family, by which its purity was judged.
 [^12-607]: Kulinas are the highest rank of Bengali brahmanas. The sense: the family from which Hadai Pandita took his wife (Padmavati) is also related to kulinas; literally "surrounded by kulinas" (কুলীনে বেষ্টিত, *kulīne beṣṭita*); cf. the note on 11.441.
-[^12-608]: Varuni and Revati are the consorts of Balarama; the GGD identifies Vasudha and Jahnava with them. "Vasu" (বসু) is a short form of the name Vasudha. B has বসন (*basana*) for বসু — an OCR error.
-[^12-609]: "A seat" — আসনে (*āsane*), so in the scan of the 1912/13 edition ("বসাইয়া আসনে কুশল জিজ্ঞাসয়") and in the 1960 edition (B's OCR "আপনে" is an error).
-[^12-610]: "Undertaken" — করিয়াছ (*kariyācha*, "have done"), so in the scan of the 1912/13 edition ("আপুনি যে করিয়াছ হইব সর্ব্বথা"); the 1960 edition has কহিয়াছ (*kahiyācha*) — "what you have said."
+[^12-608]: Varuni and Revati are the consorts of Balarama; the GGD identifies Vasudha and Jahnava with them. "Vasu" (বসু) is a short form of the name Vasudha.
+[^12-609]: "A seat" — আসনে (*āsane*), so in the 1912/13 edition ("বসাইয়া আসনে কুশল জিজ্ঞাসয়") and in the 1960 edition.
+[^12-610]: "Undertaken" — করিয়াছ (*kariyācha*, "have done"), so in the 1912/13 edition ("আপুনি যে করিয়াছ হইব সর্ব্বথা"); the 1960 edition has কহিয়াছ (*kahiyācha*) — "what you have said."
 [^12-611]: After B: সভার উল্লাস (*sabhāra ullāsa*) — "everyone rejoiced"; the 1960 edition has পরম উল্লাস (*parama ullāsa*) — "there was supreme joy."
 [^12-612]: After B: নিত্যানন্দে সভে লৈয়া (*nityānande sabhe laiyā*) — "everyone, taking Nityananda along"; the 1960 edition has নিত্যানন্দ সভে লৈয়া — "Nityananda, taking everyone along."
 [^12-613]: This Krishnadasa is Suryadasa's younger brother (Krishnadasa Sarakhel, CC Adi 11), not Krishnadasa the son of Hari Hod of Baragachhi (3872).
 [^12-614]: Krishnadasa Pandita is Suryadasa's younger brother, whom Suryadasa sent on ahead with the articles for the rite (12.3940–3941); not to be confused with Krishnadasa, son of Raja Hari Hor, Nityananda's host in Baragachhi (12.3933, 3938).
-[^12-615]: "As if" — যনু (*yanu* = জনু), so in the scan of the 1912/13 edition ("তড়িত কুঙ্কুম কেতকী যনু") and in the 1960 edition (B's OCR "মনু"). Ketaki is the pandanus, a flower with golden petals.
-[^12-616]: "Cannot keep her feet on the ground" is literal. The second half (হিয়া ধৈরয বাঁধে, *hiyā dhairaya bā̃dhe*, "binds the heart with patience") is understood as "[barely] holds her heart"; so in the scan of the 1912/13 edition: "পণ্ডিত ঘরণী, ধরণিতে পদ, না ধরয়ে, হিয়া ধৈরয বাঁধে."
-[^12-617]: "Supremely elegant" — "পরম সুঘর নিতাই হলধর," so in the scan of the 1912/13 edition: সুঘর (*sughara*, Brajabuli "elegant, comely"; OCR: G "স্থবর," B "স্রথর").
-[^12-618]: "The brahmanas" — ভূসুর (*bhūsura*, "gods on earth"), so in the scan of the 1912/13 edition ("করত ভূসুরবৃন্দ জয় জয়"; OCR: G "ভূম্গুর," B "ভূঙ্র").
-[^12-619]: "Taka-taka thai-ta…," "thonka na-na-na…" are dance-rhythm syllables and drum bols; per the scan of the 1912/13 edition: "উঘটি তক তক, থৈ তা থৈ থৈ থি নি নি না … থোঙ্ক না না না না, থোঙ্গ থুঙ্কট, ধো ধিলঙ্গ ধিকি ধি নি নি না." A tana is a melodic run, an ornament of the melody.
+[^12-615]: "As if" — যনু (*yanu* = জনু), so in the 1912/13 edition ("তড়িত কুঙ্কুম কেতকী যনু") and in the 1960 edition. Ketaki is the pandanus, a flower with golden petals.
+[^12-616]: "Cannot keep her feet on the ground" is literal. The second half (হিয়া ধৈরয বাঁধে, *hiyā dhairaya bā̃dhe*, "binds the heart with patience") is understood as "[barely] holds her heart"; so in the 1912/13 edition: "পণ্ডিত ঘরণী, ধরণিতে পদ, না ধরয়ে, হিয়া ধৈরয বাঁধে."
+[^12-617]: "Supremely elegant" — "পরম সুঘর নিতাই হলধর," so in the 1912/13 edition: সুঘর.
+[^12-618]: "The brahmanas" — ভূসুর (*bhūsura*, "gods on earth"), so in the 1912/13 edition.
+[^12-619]: "Taka-taka thai-ta…," "thonka na-na-na…" are dance-rhythm syllables and drum bols; in the edition of the 1912/13 edition: "উঘটি তক তক, থৈ তা থৈ থৈ থি নি নি না … থোঙ্ক না না না না, থোঙ্গ থুঙ্কট, ধো ধিলঙ্গ ধিকি ধি নি নি না." A tana is a melodic run, an ornament of the melody.
 [^12-620]: "All the people" follows B, সব লোক (*saba loka*); the 1960 edition has সপ্তলোক (*saptaloka*): "the path along which the seven worlds move is resplendent."
 [^12-621]: Varuni and Revati are the consorts of Balarama; Nityananda is Balarama (Haladhara) in Gaura's lila.
-[^12-622]: A quotation from Kavi Karnapura's *Gaura-ganoddesha-dipika*. "From portions" follows the 1960 edition, অংশসম্ভবে (*aṁśa-sambhave*); the scan of the 1912/13 edition has "শ্রীবারুণীরেবতী-বংশসম্ভবে" (*vaṁśa-sambhave*, "born in the line of Varuni and Revati"). Kakudmi (Raivata) is the king, Revati's father, who gave her in marriage to Balarama (*Bhag.* 9.3).
-[^12-623]: Kalavani follows the 1960 edition, কলাবাণী (*kalābāṇī*); the scan of the 1912/13 edition has "কালাবাণী" (*kālābāṇī*). Ananga Manjari is, in the Vraja lila, the younger sister of Sri Radha. "By the earlier principle" (পূর্বন্যায়াৎ, *pūrva-nyāyāt*) apparently refers to what the GGD says above: several persons can be combined in one associate of the Lord.
-[^12-623a]: "The refuge of the life" — প্রাণগতি (*prāṇa-gati*), so in the scan of the 1912/13 edition ("ভক্তিদাতা শ্রীবসু জাহ্নবী প্রাণগতি"); the 1960 edition has প্রাণপতি ("lord of the life"), as in 3998.
+[^12-622]: A quotation from Kavi Karnapura's *Gaura-ganoddesha-dipika*. অংশসম্ভবে (*aṁśa-sambhave*); the edition of the 1912/13 edition has "শ্রীবারুণীরেবতী-বংশসম্ভবে". (*vaṁśa-sambhave*, "born in the line of Varuni and Revati"). Kakudmi (Raivata) is the king, Revati's father, who gave her in marriage to Balarama (*Bhag.* 9.3).
+[^12-623]: Kalavani follows the 1960 edition, কলাবাণী (*kalābāṇī*); the edition of the 1912/13 edition has "কালাবাণী" (*kālābāṇī*). Ananga Manjari is, in the Vraja lila, the younger sister of Sri Radha. "By the earlier principle" (পূর্বন্যায়াৎ, *pūrva-nyāyāt*) apparently refers to what the GGD says above: several persons can be combined in one associate of the Lord.
+[^12-623a]: "The refuge of the life" — প্রাণগতি (*prāṇa-gati*), so in the 1912/13 edition ("ভক্তিদাতা শ্রীবসু জাহ্নবী প্রাণগতি"); the 1960 edition has প্রাণপতি ("lord of the life"), as in 3998.
 [^12-624]: Literally, "offer tilanjali to [their] families" — the funeral libation of water with sesame; "to give tilanjali" means to part with something forever. A poetic figure for Nityananda's irresistible beauty.
 [^12-625]: Kshetra is Sri Kshetra (Puri). How Nityananda broke Mahaprabhu's sannyasa staff on the way to Puri is told in CC Madhya 5 and CB Antya 2.
-[^12-626]: The son of Nabha is Advaita Acharya, the son of Nabha Devi and Kuvera Pandita. The mother's name is Nabha (নাভা): so in the scan of the 1912/13 edition ("শ্রীনাভানন্দন," with the footnote gloss "অদ্বৈত"; in 4024, "নাভা-গর্ভে"); the *Advaita-prakasha* calls her Labha.
+[^12-626]: The son of Nabha is Advaita Acharya, the son of Nabha Devi and Kuvera Pandita. The mother's name is Nabha (নাভা): so in the 1912/13 edition ("শ্রীনাভানন্দন," with the footnote gloss "অদ্বৈত"; in 4024, "নাভা-গর্ভে"); the *Advaita-prakasha* calls her Labha.
 [^12-627]: Lakshmi is Lakshmipriya, the Lord's first wife; Vishnupriya is His second wife.
 [^12-628]: Mukunda in 4054 is probably Mukunda Datta, the singer of the Lord's kirtana; Sri Mukunda here is Mukunda Dasa of Shrikhanda, the elder brother of Narahari Sarakara and the father of Raghunandana.
-[^12-629]: Srivasa has already been named in 4053; so also in the scan of the 1912/13 edition: "দ্বিজহরিদাস ব্রহ্মচারী শুক্লাম্বর। শ্রীবাসপণ্ডিত নন্দনাচার্য্য শ্রীধর" (*śrīvāsa-paṇḍita*); in the 1960 edition the word is corrupted by OCR. The repetition is apparently the author's; perhaps শ্রীরাম পণ্ডিত (*śrīrāma paṇḍita*), Shrirama Pandita, Srivasa's brother, was meant.
+[^12-629]: Srivasa has already been named in 4053; so also in the 1912/13 edition: "দ্বিজহরিদাস ব্রহ্মচারী শুক্লাম্বর। শ্রীবাসপণ্ডিত নন্দনাচার্য্য শ্রীধর" (*śrīvāsa-paṇḍita*). The repetition is apparently the author's; perhaps শ্রীরাম পণ্ডিত (*śrīrāma paṇḍita*), Shrirama Pandita, Srivasa's brother, was meant.
 [^12-630]: Sri Chandrashekhara Acharya has already been named in 4053; so in all copies.
 [^12-631]: মাধবেন্দ্রপুরীশ্বর (*mādhavendra-purīśvara*) — "the master Madhavendra Puri", as in 5.2025–2062; perhaps two persons are meant, Madhavendra Puri and Ishvara Puri.
 [^12-632]: Vallabha (Anupama) is the younger brother of Sanatana and Rupa and the father of Jiva Gosvami.
-[^12-633]: "Loses his composure in bliss" — per the scan of the 1912/13 edition: "আনন্দে অধৈর্য্য না ধরিতে পারে হিয়া" (*ānande adhairya*; the middle letter of the first word is damaged; OCR: B "আনালা," 1960 edition "সামনে অধ").
+[^12-633]: "Loses his composure in bliss" — in the edition of the 1912/13 edition: "আনন্দে অধৈর্য্য না ধরিতে পারে হিয়া".
 
 ---
 
@@ -48816,12 +48815,12 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^13-19]: Narahari Sarakara Thakura, Raghunandana's uncle and guru (also in 192).
 [^13-20]: Shravana is a month of the rainy season (July–August). This is the day of Raghunandana's disappearance.
 [^13-21]: "In youth" — Bengali kaiśore, in the age of kaishora; pauganda (192) is the age from five to ten.
-[^13-22]: "At the parting": A (scan) reads গন্তুকালে (*gantukāle*, "at the time of going").
+[^13-22]: "At the parting": A reads গন্তুকালে (*gantukāle*, "at the time of going").
 [^13-23]: Not the Gopalpura near Kheturi, but a village in Rarh (West Bengal).
 [^13-24]: Gauranga-priya is Srinivasa's second wife; the first is Ishvari (Draupadi).
 [^13-25]: Probably a hint at Advaita Acharya, who lived in Shantipura.
 [^13-26]: So in A/B, "ব্রাহ্মণী" ("the brahmana's wife"); the 1960 edition has "ব্রাহ্মণ" — "the brahmana says".
-[^13-27]: This is the Deity of Radhika that Jahnava had made and sent with Parameshvari Dasa to Sri Gopinatha in Vrindavana (11.715–717; 13.70–71). "The one we had brought": A (scan) reads যাঁরে (*yā̃re*, "whom").
+[^13-27]: This is the Deity of Radhika that Jahnava had made and sent with Parameshvari Dasa to Sri Gopinatha in Vrindavana (11.715–717; 13.70–71). "The one we had brought": A reads যাঁরে (*yā̃re*, "whom").
 [^13-28]: Thakurani ("the Mistress") is the earlier Deity of Radha, already present with Gopinatha; now Gopinatha stands between two Radhas (cf. 269–270).
 [^13-29]: Tada-Atpur (in the text তড়া আঠপুর; in the 1960 ed. summary আটপুর) is a village in present-day Hooghly district (West Bengal), now Antpur; the Deity of Radha-Gopinatha installed by Parameshvari Dasa is worshipped there.
 [^13-30]: Rajbalhat is a village in present-day Hooghly district; the Jhamatpur near it is apparently not the Jhamatpur that was the birthplace of Krishnadasa Kaviraja (Bardhaman district).
@@ -48841,7 +48840,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^13-44]: Vasudeva (who in 345 and 357 tells Virachandra about the places) and Uddhava are not further identified; Yadava is probably Yadava Acharya (323, 330).
 [^13-45]: Krittika — Radha's mother, the wife of Vrishabhanu. The 1960 edition reads "আনে" (*āne*, "brings"): "Vrishabhanu, going out to meet him, brings Nanda into the house."
 [^13-46]: Kala ("the Dark One") — Krishna.
-[^13-47]: In the 1912/13 edition (A and B) the stanza is shorter: "নানা আভরণ, দধি দুগ্ধ ঘৃত, ঢালে নন্দালয়ে গিয়া" (*nānā ābharaṇa, dadhi dugdha ghṛta, ḍhāle nandālaye giyā*) — apparently the segment "পরি গোপগণ, হরষে সরস হিয়া, হরিদ্রাসহিত" has dropped out; the stanza is translated in full from the 1960 edition. The A reading is confirmed by the scan.
+[^13-47]: In the 1912/13 edition (A and B) the stanza is shorter: "নানা আভরণ, দধি দুগ্ধ ঘৃত, ঢালে নন্দালয়ে গিয়া" (*nānā ābharaṇa, dadhi dugdha ghṛta, ḍhāle nandālaye giyā*) — apparently the segment "পরি গোপগণ, হরষে সরস হিয়া, হরিদ্রাসহিত" has dropped out; the stanza is translated in full from the 1960 edition. The A reading is confirmed by the edition.
 [^13-48]: Ghanashyama is the author's second name, Narahari Chakravarti; here it is the poet's signature (bhanita).
 [^13-49]: That is, the sacred banyan Bhandira itself can no longer be seen; cf. 380–381, where Virachandra beholds it in a vision.
 [^13-50]: That is, Janmashtami, the day of Krishna's appearance. Radha's birth festival (Radhashtami, 403) falls on the bright ashtami of the same month.
@@ -49649,13 +49648,13 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 
 [^14-1]: Acharyaratna is the title of Chandrashekhara Acharya, a relative and associate of the Lord (CC Adi 10).
 [^14-2]: Jiva Gosvami's four letters (18, 22, 32, 36) are written in Sanskrit prose; in the 1960 edition they stand outside the numbering of the couplets. Sri Vrindavana-natha ("the Lord of Vrindavana") and Sri Vrindavana-chandra ("the Moon of Vrindavana," 32, 36) are Krishna.
-[^14-3]: The titles by the scan of A: শ্রীরসামৃতসিন্ধু-শ্রীমাধবমহোৎসবোত্তরচম্পূ-হরিনামামৃতানাং (*rasāmṛtasindhu … harināmāmṛtānām*). The *Madhava-mahotsava* is Jiva's poem on the coronation of Radha as queen of Vrindavana; the *Uttara-champu* is the second part of the *Gopala-champu* (cf. 22).
-[^14-4]: "[Convey]": A (scan) reads বাচ্যাঃ (*vācyāḥ*, "are to be told").
-[^14-5]: Bhadra is the month of August–September; *sudi* is the bright (waxing) half of the month. No day is given (A, scan: ইতি ভাদ্র সুদী).
+[^14-3]: The titles by the edition of A: শ্রীরসামৃতসিন্ধু-শ্রীমাধবমহোৎসবোত্তরচম্পূ-হরিনামামৃতানাং (*rasāmṛtasindhu … harināmāmṛtānām*). The *Madhava-mahotsava* is Jiva's poem on the coronation of Radha as queen of Vrindavana; the *Uttara-champu* is the second part of the *Gopala-champu* (cf. 22).
+[^14-4]: "[Convey]": A reads বাচ্যাঃ (*vācyāḥ*, "are to be told").
+[^14-5]: Bhadra is the month of August–September; *sudi* is the bright (waxing) half of the month. No day is given.
 [^14-6]: Srinivasa's son, named by Jiva Gosvami (20); not to be confused with Vrindavana Dasa Thakura, the author of CB.
-[^14-7]: By the scan of A: বিরোধী ভগবদ্ভক্তের্বিদাহীন্দ্রিয়দেহয়োঃ শোকস্তথাপি কর্ত্তব্যো যদি শোচো নিবর্ত্ততে (*virodhī bhagavad-bhakter vidāhīndriya-dehayoḥ / śokas tathāpi kartavyo yadi śoco nivartate*); *śoco* is taken as *śocyo*, "the one mourned": grief would be fitting only if it brought him back. The opening of the letter in A: স্বস্তি মুখমিদং— শমিহ সমীহিতং শ্রীবৃন্দাবনবাসরূপং বসত্যেব (*svasti-mukham idaṃ: śam iha, samīhitaṃ śrī-vṛndāvana-vāsa-rūpaṃ vasaty eva*).
+[^14-7]: By the edition of A: বিরোধী ভগবদ্ভক্তের্বিদাহীন্দ্রিয়দেহয়োঃ শোকস্তথাপি কর্ত্তব্যো যদি শোচো নিবর্ত্ততে (*virodhī bhagavad-bhakter vidāhīndriya-dehayoḥ / śokas tathāpi kartavyo yadi śoco nivartate*); *śoco* is taken as *śocyo*, "the one mourned": grief would be fitting only if it brought him back. The opening of the letter in A: স্বস্তি মুখমিদং— শমিহ সমীহিতং শ্রীবৃন্দাবনবাসরূপং বসত্যেব (*svasti-mukham idaṃ: śam iha, samīhitaṃ śrī-vṛndāvana-vāsa-rūpaṃ vasaty eva*).
 [^14-8]: The *Vaishnava-toshani* is a commentary on the Tenth Canto of the *Bhagavatam*; the *Durgama-sangamani* is Jiva's commentary on the *Bhakti-rasamrita-sindhu*; the *Hari-namamrita-vyakarana* is Jiva's Sanskrit grammar, in which the rules are set out through the names of Krishna (*bhashya* and *vritti* are kinds of commentary); the *Uttara-gopala-champu* is the second part of the *Gopala-champu*.
-[^14-9]: In A (scan) the cluster is printed indistinctly (শ্র…ত্বানুধ্যানং), in the 1960 ed. by OCR *śaratvāmudhyānaṃ*; understood as *śaśvad-anudhyānaṃ*, "constant remembrance."
+[^14-9]: In A the cluster is printed indistinctly (শ্র…ত্বানুধ্যানং), understood as *śaśvad-anudhyānaṃ*, "constant remembrance.".
 [^14-10]: The 1912/13 ed. notes a variant reading: *vidyāvān*, "learned," instead of *vidyamāna*, "now living." Vyasa Acharya is Vyasa Chakravarti, a disciple of Srinivasa (21).
 [^14-11]: The 1912/13 ed. notes that one manuscript has "Srinivasa" in place of "Sri Govinda."
 [^14-12]: *Bhakti-rasamrita-sindhu* 1.2.295: "Service [is to be rendered] in the form of a sadhaka and in the form of a siddha…". The agamas are scriptures on temple worship and ritual.
@@ -49666,7 +49665,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^14-17]: "Chest" — the 1912/13 and 1960 eds. have *uru* ("thigh"), understood as *ura* ("chest").
 [^14-18]: "Offers himself" is nichhani (*nichhani*). Ghanashyama Dasa is the poet's signature (the second name of Narahari Chakravarti).
 [^14-19]: Borakuli is the village where Govinda Chakravarti, a disciple of Srinivasa, lived (see 90–93); here Srinivasa installed his Deity, Sri Radha-vinoda (110–111). The 1960 edition's section heading before 89 is omitted.
-[^14-20]: Govinda Chakravarti, a disciple of Srinivasa and a skilled singer, was called "Bhavuka Chakravarti" for his ecstasies (145). "Received" follows A: the scan reads গণসহ আচার্য্যে দিলেন নিজালয়ে (*dilen*, lit. "gave [shelter] in his own home"); the 1960 edition has *milen* ("met").
+[^14-20]: Govinda Chakravarti, a disciple of Srinivasa and a skilled singer, was called "Bhavuka Chakravarti" for his ecstasies (145). "Received" follows A: the edition reads গণসহ আচার্য্যে দিলেন নিজালয়ে (*dilen*, lit. "gave [shelter] in his own home"); the 1960 edition has *milen* ("met").
 [^14-21]: Mahala is the village from which Govinda Chakravarti moved to Borakuli; the author gives no further details.
 [^14-22]: Gopiramana (in 135, Gopiramana Chakravarti) was a disciple of Hridayananda (Hridaya Chaitanya) of Ambika (Kalna).
 [^14-23]: Thakura Ramai is apparently Ramachandra (Ramai), the adopted son and disciple of Jahnava Ishvari; Balarama here is probably the Deity of Balarama whom he served. The identification is tentative.
@@ -49677,7 +49676,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^14-28]: The courtyard of the Lord is the courtyard of the temple of Sri Radha-vinoda (cf. 120).
 [^14-29]: Bhavuka (bhāvuka) means "full of bhava, ecstatic."
 [^14-30]: Raghunatha is a name of Rama: this man is passed off as an incarnation of the Lord (cf. 171).
-[^14-31]: Reading unclear: কহয়ে কবীন্দ্র বঙ্গদেশেতে প্রচার (kahaye kabīndra baṅgadeśete pracāra), so in G and B, confirmed by the scan of A; "Kavindra" ("king of poets") is apparently a nickname or title of this false teacher.
+[^14-31]: Reading unclear: কহয়ে কবীন্দ্র বঙ্গদেশেতে প্রচার (kahaye kabīndra baṅgadeśete pracāra), so in G and B, confirmed by the edition of A; "Kavindra" ("king of poets") is apparently a nickname or title of this false teacher.
 [^14-32]: The quotation (169–175) is CB Adi-khanda 14 (on the Lord's journey through East Bengal); there Vrindavana Dasa speaks of the false incarnations of his own time.
 [^14-33]: Dine tina avasthā, "three conditions in a day": i.e. he is subject to bodily changes like any ordinary person.
 [^14-34]: A brahma-daitya is the ghost of a dead brahmana, a demon.
@@ -49686,12 +49685,12 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^14-37]: The parama-guru is the guru of one's guru.
 [^14-38]: Prasāda means "grace," and also the sanctified remnants of food; which is meant here the text does not show (cf. the letter at 185a: "has slighted my grace").
 [^14-39]: Virachandra's letter (Sanskrit prose) is in A/B and in the 1960 edition, but the 1960 edition gives it no number; the number 185a follows the sequence.
-[^14-40]: By the scan of A: ভবদীয়াবশ্যস্মরণীয়-শ্রীবীরচন্দ্রদেবঃ (*bhavadīyāvaśya-smaraṇīya-*), i.e. *bhavadīya-avaśya-smaraṇīya*, "yours, ever to be remembered."
-[^14-41]: "To his sons": so A (scan) and the 1960 edition (পুত্রে, *putre*).
+[^14-40]: By the edition of A: ভবদীয়াবশ্যস্মরণীয়-শ্রীবীরচন্দ্রদেবঃ (*bhavadīyāvaśya-smaraṇīya-*), i.e. *bhavadīya-avaśya-smaraṇīya*, "yours, ever to be remembered."
+[^14-41]: "To his sons": so A and the 1960 edition (পুত্রে, *putre*).
 [^14-42]: Gopijana-vallabha, Ramakrishna and Ramachandra are the sons of Virachandra.
 [^14-43]: A work by Narahari himself on the life of Srinivasa Acharya.
 [^14-44]: The garland of command (ājñā-mālā) is a garland from the Deity of Govinda in Vrindavana, given as a sign of command.
-[^14-45]: Reading unclear: প্রেম-নাম করি কহত ভাগবতে (prema-nāma kari kahata bhāgavate) — bhāgavate is taken as "the bhagavatas" (devotees); "in the *Bhagavata*" is also possible. The reading is confirmed by the scan of A.
+[^14-45]: Reading unclear: প্রেম-নাম করি কহত ভাগবতে (prema-nāma kari kahata bhāgavate) — bhāgavate is taken as "the bhagavatas" (devotees); "in the *Bhagavata*" is also possible. The reading is confirmed by the edition of A.
 [^14-46]: Govindadasa is the poet Govindadasa Kaviraja, a disciple of Srinivasa; this is his signature in the song.
 [^14-47]: Radha-vinoda here is the Deity of Lokanatha Gosvami in Vrindavana (not the Deity in Govinda Chakravarti's house, 156).
 [^14-48]: The six Deities of Kheturi (cf. BR 10.483): Gauranga, Vallavikanta, Vrajamohana, Krishna, Radha-kanta, Radha-ramana; "Radha-Krishna" here is Sri Krishna (with Radha).
@@ -50195,27 +50194,27 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 *Thus in the Sri Bhakti-ratnakara ends the fifteenth wave, called "The Description of the Lives of Sri Shyamananda and Others".*
 
 [^15-1]: The Gadadhara in 1 is Gadadhara Pandita; the second Gadadhara here is apparently Gadadhara Dasa.
-[^15-2]: The original has "শ্রীশঙ্করানন্দময়" (śrī-śaṅkarānandamaya; so also A, scan): taken as "Sri Shankara" + "full of bliss"; a reading as the name "Shankarananda" is also possible.
+[^15-2]: The original has "শ্রীশঙ্করানন্দময়": taken as "Sri Shankara" + "full of bliss"; a reading as the name "Shankarananda" is also possible.
 [^15-3]: Sri Acharya is Srinivasa Acharya.
 [^15-4]: Rayani (রয়নী; today apparently Rohini in Jhargram district, West Bengal) is Rasikananda's native village. The Suvarnarekha is a river flowing through Jharkhand, West Bengal and Orissa to the Bay of Bengal.
-[^15-5]: By the scan of A: the village is বারায়িত (*bārāyita*), the river ডোলঙ্গনদী (*ḍolaṅga-nadī*), "the Dolanga river." The location has not been identified.
+[^15-5]: By the edition of A: the village is বারায়িত (*bārāyita*), the river ডোলঙ্গনদী (*ḍolaṅga-nadī*), "the Dolanga river." The location has not been identified.
 [^15-6]: Ghantashila (G ঘণ্টাশিলা, A, B ঘণ্টশিলা) is apparently present-day Ghatshila on the Suvarnarekha (Jharkhand), associated with a legend of the Pandavas.
-[^15-7]: So A (scan: সর্ব্বশ্রেষ্ঠ শ্রীভক্তি) and the 1960 edition (সর্বশ্রেষ্ঠ ভক্তি, *sarvaśreṣṭha bhakti*); শক্তি in B is an OCR error.
+[^15-7]: So A and the 1960 edition (সর্বশ্রেষ্ঠ ভক্তি, *sarvaśreṣṭha bhakti*).
 [^15-8]: Kishora is Kishoradasa (41), a disciple of Shyamananda; Murari is Rasikananda.
 [^15-9]: Madhuvana here is the name of one of Shyamananda's disciples.
-[^15-10]: The reading is confirmed by the scan of A: শ্যামর গৌর, চরিত চয় বিলপত (*śyāmara gaura, carita caya bilapata*); in the next line, নিরুপম পহু পরি, কর গুণ শুনইতে — পহু পরি কর is taken as *pahu-parikara*, "the Lord's associates." *Śyāmara* may also be read as "Shyama [Shyamananda]": "[Shyamananda] laments over the many deeds of Gaura." The translation is conjectural.
+[^15-10]: The reading is confirmed by the edition of A: শ্যামর গৌর, চরিত চয় বিলপত (*śyāmara gaura, carita caya bilapata*); in the next line, নিরুপম পহু পরি, কর গুণ শুনইতে — পহু পরি কর is taken as *pahu-parikara*, "the Lord's associates." *Śyāmara* may also be read as "Shyama [Shyamananda]": "[Shyamananda] laments over the many deeds of Gaura." The translation is conjectural.
 [^15-11]: Stanza 70 is the last stanza of the song 67–70. Ghanashyama is the poet's signature (bhanita), the second name of Narahari Chakravarti (cf. 90). "Offers himself" renders *nichhani*, the same as nirmanchhana.
 [^15-12]: Gopivallabhapura is a village on the Suvarnarekha river (now in Jhargram district, West Bengal), the chief place of Rasikananda's service; Sri Govinda is the Deity he served there.
 [^15-13]: According to tradition, a Muslim ruler set a wild elephant upon Rasikananda; Rasikananda tamed it and initiated it, and the elephant served the Vaishnavas.
-[^15-14]: *Nā gaṇilā ghara*, lit. "he took no account of home": apparently Rasikananda wandered without thought of home; the sense is not quite clear (the reading is confirmed by the scan of A).
+[^15-14]: *Nā gaṇilā ghara*, lit. "he took no account of home": apparently Rasikananda wandered without thought of home; the sense is not quite clear.
 [^15-15]: Ambikapura is Ambika (Kalna); the Prabhu is Hridaya Chaitanya, Shyamananda's guru (94).
 [^15-16]: Nitai and Chaitanya are the Deities at Ambika served by Gauridasa Pandita and then by Hridaya Chaitanya (see taranga 8).
 [^15-17]: Duhkhini Krishnadasa is Shyamananda's former name.
 [^15-18]: According to tradition, Shyamananda found Sri Radha's anklet (nupura) in one of the groves of Vrindavana; tradition connects this event with his name "Shyamananda" and with the distinctive tilaka of his followers.
 [^15-19]: Harirama Acharya and Ramakrishna Acharya (121) were brahmana brothers; according to NV, Narottama and Ramachandra Kaviraja converted them, and Harirama became Ramachandra's disciple, Ramakrishna Narottama's.
 [^15-20]: Krishna-raya is apparently the Deity served by Harirama. By the scans: A অনুপম রসময় অমৃতধার … ভণব কি নরহরি মহিম অপার, the 1960 edition অনুপম বরষত অমৃতধার … ভণব কি নরহরি—মহিমা অপার.
-[^15-21]: Arya means "noble, worthy." After the 1960 edition: পরমপণ্ডিত ভক্তিপথে মহা আর্য (*bhakti-pathe mahā ārya*); in A the beginning of the second line is lost in the margin of the scan (ভক্তি-… মহা-আর্য্য).
-[^15-22]: "Destroys" follows the 1960 edition: নাশয়ে পাষণ্ডমত (*nāśaye*); in A the beginning of the line is lost in the margin of the scan (…য়ে পাষণ্ড-মত).
+[^15-21]: Arya means "noble, worthy." After the 1960 edition: পরমপণ্ডিত ভক্তিপথে মহা আর্য (*bhakti-pathe mahā ārya*); in A the beginning of the second line is lost in the margin of the edition (ভক্তি-… মহা-আর্য্য).
+[^15-22]: "Destroys" follows the 1960 edition: নাশয়ে পাষণ্ডমত (*nāśaye*); in A the beginning of the line is lost in the margin of the edition (…য়ে পাষণ্ড-মত).
 [^15-23]: Ganganarayana Chakravarti was a learned brahmana, one of Narottama's closest disciples; NV tells of him.
 
 ---
@@ -50435,7 +50434,7 @@ that I may be immersed without cease in the *Bhakti-ratnakara*.[^16-35]
 [^16-26]: The two Bhattas are Gopala Bhatta and Raghunatha Bhatta; Raghunatha is Raghunatha Dasa. To become grey with dust is to roll in the dust in ecstasy while repeating the names.
 [^16-27]: Subuddhi Raya, a former ruler of Gauda, later lived in Vraja; Raghava is Raghava Pandita (Gosvami) of Govardhana, the guide of Srinivasa and Narottama in taranga 5; Bhugarbha and Lokanatha are associates of the Lord, the first whom He sent to Vrindavana.
 [^16-28]: Govinda, Madhava and Vasu (Vasudeva) Ghosha are brothers, singers and associates of the Lord. Hari has not been identified. Shuklambara Brahmachari is an associate of the Lord in Navadvipa.
-[^16-29]: Shashthidhara (in the scan *yaṣṭhīdhara*; cf. the note on Shashthidhara in BR 1) is a kirtan singer, not identified. Haridasa "the best of brahmanas" (*dvija-vara*): which Haridasa is meant is unclear. Shridhara, who sold kholas (cups of banana leaf), is a poor brahmana, an associate of the Lord in Navadvipa. Kamsari is apparently Kamsari Sena; Vallabha is not identified; Dhananjaya is Dhananjaya Pandita, an associate of Nityananda. A "dancing dog" is a tame one, obedient to its masters.
+[^16-29]: Shashthidhara is a kirtan singer, not identified. Haridasa "the best of brahmanas" (*dvija-vara*): which Haridasa is meant is unclear. Shridhara, who sold kholas (cups of banana leaf), is a poor brahmana, an associate of the Lord in Navadvipa. Kamsari is apparently Kamsari Sena; Vallabha is not identified; Dhananjaya is Dhananjaya Pandita, an associate of Nityananda. A "dancing dog" is a tame one, obedient to its masters.
 [^16-30]: Kavichandra is an associate of the Lord; Vidyanidhi is Pundarika Vidyanidhi; Madhu Pandita is the servant of the Deity Gopinatha in Vrindavana.
 [^16-31]: The author does not say where exactly. According to the account accepted in the tradition, Narahari's family lived in Bengal, and he himself went to Vrindavana, where, by tradition, he served in the kitchen of the Deity Sri Govinda.
 [^16-32]: Vishvanatha Chakravarti Thakura (17th–18th c.) is the acharya, commentator on the *Srimad-Bhagavatam* and the books of the Gosvamis, who lived in Vrindavana. Jagannatha Chakravarti, Narahari's father, is known only as his disciple (so also in the accepted biography of Narahari).

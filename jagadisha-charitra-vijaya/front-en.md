@@ -1,0 +1,27 @@
+# Sri Jagadisha-charitra-vijaya
+
+*"The Victory of Jagadisha's Life"*
+
+*A poem by Ananda Dasa, Bengali, 18th century. Twelve varnas*
+
+*Translated from the Bengali into English*
+
+---
+
+## Translator's Note
+
+The *Jagadisha-charitra-vijaya* is the only separate life of **Jagadisha Pandita**, associate of Sri Chaitanya and Nityananda, the "dancer" (Nritya-vinodi), who founded the service of Sri Jagannatha and Sri Gaura-Gopala in the village of Yashoda (Yatra) near Chakdaha. The *Chaitanya-charitamrita* and *Chaitanya-bhagavata* only mention him; his birth, childhood, marriage to Duhkhini, settling in Navadvipa, the coming of Jagannatha to Yashoda, the visit of Mahaprabhu and Nityananda there after the sannyasa, the appearance of Gaura-Gopala, and Jagadisha's disciples and descendants are known from this text alone.
+
+**The author.** Ananda Dasa is sixth in the line of disciples from Jagadisha (Jagadisha → Raghunatha Acharya → Bhagavatananda → Premananda → Radhacharana → Ananda Dasa). He wrote, he says, at the order of Bhagavatananda, who appeared to him in a dream, and he transmits the traditions of his line and of the Yashoda shripata.
+
+**Source.** The translation follows the edition of Kishori Dasa Babaji (1st ed., 1402 B.S., c. 1996), printed from a manuscript dated 1737 Shaka (1815/16 CE); the beginning of the first varna is lost in the manuscript. Couplets are numbered within each varna; Sanskrit shlokas and the "tathahi…" introductions are translated in place. The editor's preface, survey and footnotes were neither translated nor used. Uncertain readings are listed in a separate list of questions and in the notes.
+
+**The author and Gaudiya Vaishnava teaching.** The translation renders the text exactly; where the author differs from other sources or his words could be misread, the notes give the Gaudiya Vaishnava position according to Srila Bhaktisiddhanta Sarasvati.
+- Ananda Dasa identifies Jagadisha Pandita of Yashoda, the "dancer" (in the *Gaura-ganoddesha-dipika*, 143, Chandrahasa of Vraja), with the Jagadisha of Navadvipa from whom, together with Hiranya, the child Nimai begged the Ekadashi offering. Other sources apparently speak of two different associates.
+- At the end the author calls Jagadisha the sakhi Kalavati in Vraja (12.45), which differs from the *Gaura-ganoddesha-dipika*.
+- The argument for a formless Brahman in varna 4 is the opponent's, refuted by Jagadisha; Brahman is the effulgence of the Lord's body (*Brahma-samhita* 5.40).
+- The words "the guru is Ishvara Himself" (11.89) are understood by the *Gurvashtaka*: the guru is the Lord's dearest servant.
+- The Deity whom the craftsman manifests at Mahaprabhu's order is the Lord Himself (10.88–91: whoever sees a difference between the Lord, His devotee and His Deity goes to hell).
+- The departure of Jagadisha's three sons (9.106) is not a punishment but their entry into the Lord.
+
+Reliability: a late life from the descendants of the line; its chronology and some details are not confirmed by early sources, but the local traditions of Yashoda are preserved only here.

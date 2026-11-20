@@ -1240,7 +1240,7 @@ Bhaktisiddhanta Sarasvati.
 
 *Word for word:* adau — first; jatah — was born; dvija-shreshthah — the best of the twice-born; shri-madhava-puri — Sri Madhava Puri; prabhuh — the master; ishvara-amshah — a portion of the Lord; dvidha — twofold; bhutva — having become; advaita-acharyah — Advaita Acharya; cha — and; sad-gunah — of good qualities.
 
-**5.** First was born the best of the twice-born, the master Sri Madhava Puri. A portion of the Lord, dividing in two, appeared both as him and as Advaita Acharya, rich in virtues[^104-2].
+**5.** First was born the best of the twice-born, the master Sri Madhava Puri. A portion of the Lord, dividing in two, appeared both as him and as Advaita Acharya, rich in virtues.
 
 ### Verse 6
 
@@ -1581,12 +1581,11 @@ Bhaktisiddhanta Sarasvati.
 *Thus ends the fourth sarga, "On the Descents" (Avatara-anukarana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
 
 [^104-1]: Nrihari ("Man-Hari") is usually a name of Nrisimha; here, as in v. 33, it names the Lord in general.
-[^104-2]: The sense is that a single portion of the Lord appeared in two ways — as Madhavendra Puri and as Advaita Acharya. "Portion" does not diminish Advaita: in Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord; Madhavendra Puri is His guru and the root of the tree of devotion.
 [^104-3]: The brahmana's account itself is not given in the poem; Murari relates only its substance (vv. 9–11). Possibly "Bitten by a Snake" (Nagadashta) is the brahmana's name.
-[^104-4]: According to tradition, Haridasa is a portion of Brahma, who appeared as a devotee to atone for an offence.
+[^104-4]: According to tradition, who appeared as a devotee to atone for an offence.
 [^104-5]: The avatara of the Dvapara age is usually named otherwise; here Murari Gupta names Prithu, the king who first established the order of worship. The Bhagavata Purana (11.5.27–28) describes the avatara of the Dvapara age differently: dark-complexioned, in yellow garments, bearing the marks of Vishnu, worshipped according to the rules of the Vedas and tantras.
 [^104-6]: Bhargava is Parashurama, the descendant of Bhrigu.
-[^104-7]: "Portion" (amsha) does not diminish Nityananda here: in the same verse Murari calls Him "the Lord Himself," and in v. 15 "the second form of Sri Krishna." According to Gaudiya Vaishnava teaching Nityananda is Balarama Himself.
+[^104-7]: (amsha) does not diminish Nityananda here: in the same verse Murari calls Him "the Lord Himself," and in v. 15 "the second form of Sri Krishna." According to Gaudiya Vaishnava teaching Nityananda is Balarama Himself.
 [^104-ya]: Sri Chaitanya is the yuga-avatara of the Kali age, who establishes sankirtana (cf. Bhagavata Purana 11.5.32); yet He is not one avatara among others: in Gaudiya Vaishnava teaching He is Krishna Himself, Svayam Bhagavan, in the mood and lustre of Radha (so Murari too, 4.20.19 and 4.26.18).
 
 ---
@@ -1954,7 +1953,7 @@ Bhaktisiddhanta Sarasvati.
 [^105-7]: The "exalted position" (uccha) of a planet in astrology is the sign of its greatest strength.
 [^105-8]: The Vatsya is Jagannatha Mishra, of the Vatsya clan.
 [^105-9]: Probably the rite marking the end of the lying-in period; another understanding is possible — the child's first standing up.
-[^105-10]: "Portion" (amsha; also in v. 15) does not mean that the Lord appeared only in part: in v. 17 Murari says plainly that "Hari Himself was born." Nor is this an ordinary conception: just as, according to the Bhagavata Purana (10.2.16–18), the Lord entered the mind of Vasudeva and through him Devaki, so here Achyuta entered the mind of Jagannatha (v. 2), and Shachi received his splendour.
+[^105-10]: (amsha; also in v. 15) does not mean that the Lord appeared only in part: in v. 17 Murari says plainly that "Hari Himself was born." Nor is this an ordinary conception: just as, according to the Bhagavata Purana (10.2.16–18), the Lord entered the mind of Vasudeva and through him Devaki, so here Achyuta entered the mind of Jagannatha (v. 2), and Shachi received his splendour.
 
 ---
 
@@ -6736,7 +6735,7 @@ Bhaktisiddhanta Sarasvati.
 [^202-3]: A vaidya is a member of the physician caste. Mukunda Datta was a vaidya; "another vaidya" is apparently the author himself, Murari Gupta.
 [^202-4]: Bhagavad-gita 10.15.
 [^202-5]: Shvetashvatara Upanishad 3.19 (as the poem reads it). "Without hands and feet" here means without material hands and feet; the Lord's hands and feet are spiritual, and that is why He is "swift" and "grasps." So the Lord, having appeared as the Boar, laughs at the Veda for seemingly calling Him handless and footless: it has no power to describe Him directly (vv. 21, 24).
-[^202-am]: Here the Lord is in the mood of a devotee longing for Hari (v. 7), and the voice from above answers Him in keeping with that mood. "Portion" (amsha) does not diminish Him: the same voice calls Him Bhagavan, descended to bestow love (v. 9), and immediately afterwards He Himself reveals His nature as the Lord (v. 15). For Gaudiya Vaishnavas Sri Chaitanya is Krishna Himself in the mood of Radha (cf. 1.04, the note to v. 26).
+[^202-am]: Here the Lord is in the mood of a devotee longing for Hari (v. 7), and the voice from above answers Him in keeping with that mood. (amsha) does not diminish Him: the same voice calls Him Bhagavan, descended to bestow love (v. 9), and immediately afterwards He Himself reveals His nature as the Lord (v. 15). For Gaudiya Vaishnavas Sri Chaitanya is Krishna Himself in the mood of Radha (cf. 1.04, the note to v. 26).
 [^202-6]: Ambashtha is the name of the vaidya caste; here, Murari.
 [^202-7]: A verse of the Brihan-naradiya Purana. In verses 29–33 the Lord comments on its words.
 [^202-8]: "Na" (nā) means "man, person"; the explanation apparently plays on the beginning of the word nama ("name"). The sense of verses 29–32 is unclear in places; the translation is tentative.
@@ -11866,7 +11865,7 @@ Bhaktisiddhanta Sarasvati.
 *Thus ends the sixteenth sarga, "The Manifestation of All Energies" (Sarva-shakti-prakasha), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
 [^216-1]: The play in Chandrashekhara's house (see sarga 2.15) continues: Haridasa comes out first, staff in hand, like a herald or a watchman.
-[^216-2]: Advaita is called a "portion" (kala) of the Lord, as in 1.04.5; this does not diminish Him: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
+[^216-2]: (kala) of the Lord, as in 1.04.5; this does not diminish Him: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
 [^216-3]: Baladeva is Nityananda.
 [^216-4]: Vasudeva is a name of Krishna. The compound may also be understood as "in a special attire prepared by Vasudeva."
 [^216-5]: The breeze from the Malaya hills in South India, where sandalwood grows, is famed in poetry for its coolness and fragrance.
@@ -12524,7 +12523,7 @@ Bhaktisiddhanta Sarasvati.
 
 [^218-1]: Murari suggests interpreting the sannyasa mantra, which speaks of identity with Brahman, through the genitive case: not "I am He" but "I am His," that is, the Lord's servant. This is how the Gaudiya Vaishnava tradition understands the great sayings of the Upanishads.
 [^218-2]: That is, skilful interpretation does not console the Lord: in the mood of a devotee He grieves that the sannyasa mantra, by its very sound, speaks of identity with Brahman.
-[^218-ad]: Cf. 2.16, the note to v. 4: "portion" (amsha) does not diminish Advaita — according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
+[^218-ad]: Cf. 2.16. (amsha) does not diminish Advaita — according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
 [^218-3]: The word sadhu here, as commonly in Bengal, means a merchant engaged in overseas trade.
 [^218-4]: The sense is unfolded in v. 29: the Lord bids Murari to serve Advaita Acharya diligently. It may also be understood as "you are always detached — so carry out My word."
 [^218-5]: Kantaka (Kantakanagara) is present-day Katwa on the bank of the Ganga.
@@ -13963,7 +13962,7 @@ Bhaktisiddhanta Sarasvati.
 [^304-8]: A blade of grass between the teeth is a sign of utter humility.
 [^304-9]: Advaita wonders that He feels no pain of separation and asks whether it is the Lord who holds His love in check; the Lord replies that if it showed itself in full, He would be unable to leave.
 [^304-10]: Gopinatha Acharya, a brahmana of Navadvipa who later met the Lord in Puri.
-[^304-ad]: "Portion" (amsha) does not diminish Advaita: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself, together with Sadashiva, non-different from the Lord (cf. 1.04, note to v. 5; 2.18, note to v. 29); "Shiva" here is Sadashiva, with whom Advaita is one.
+[^304-ad]: (amsha) does not diminish Advaita: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself, together with Sadashiva, non-different from the Lord (cf. 1.04, note to v. 5; 2.18, note to v. 29); "Shiva" here is Sadashiva, with whom Advaita is one.
 [^304-11]: In Haridasa Dasa's edition (witness C) this verse comes after the next one, which is more natural to the sense.
 
 ---

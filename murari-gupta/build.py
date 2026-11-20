@@ -9,6 +9,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('kb', os.path.join(HERE, '..', 'govinda-kadacha', 'build.py'))
 kb = importlib.util.module_from_spec(spec); spec.loader.exec_module(kb)
 
+# очистка сносок от рабочих пометок (OCR, PDF, «по скану», файлы) — общая с ../rasika-mangala/build.py
+_rmspec = importlib.util.spec_from_file_location('rm_clean', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'rasika-mangala', 'build.py'))
+RM = importlib.util.module_from_spec(_rmspec); _rmspec.loader.exec_module(RM)
+
 PRAKRAMA = {
     'ru': {1: 'Пракрама первая', 2: 'Пракрама вторая', 3: 'Пракрама третья', 4: 'Пракрама четвёртая'},
     'en': {1: 'Prakrama One', 2: 'Prakrama Two', 3: 'Prakrama Three', 4: 'Prakrama Four'},
@@ -125,6 +129,7 @@ def build(lang, full=False):
     md = ('\n\n'.join(pre) + '\n\n---\n\n' + INTRO[lang] + '\n---\n\n' + f"## {l['toc']}\n\n" + '\n'.join(toc)
           + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n')
     out = f"Murari-Gupta-Kadacha-{lang}" + ('-full' if full else '')
+    md = RM.clean_md(md, lang)
     open(os.path.join(HERE, out + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
     kb.build_docx(blocks, os.path.join(HERE, out + '.docx'))

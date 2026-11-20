@@ -1,0 +1,133 @@
+# События по «Джагадиша-чаритра-виджае» (jagadisha-charitra-vijaya/; источник jagadisha-charitra-vijaya).
+
+- id: ev-jagadisha-pandita-birth
+  title: "Рождение Джагадиши Пандита у Камалакши и Бхагьявати; аннапрашана и имя"
+  title_en: "The birth of Jagadisha Pandita to Kamalaksha and Bhagyavati; annaprashana and naming"
+  period: P01
+  order: 90
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Джагадиша-чаритра-виджая», 2: дар Нараяны — сын-вайшнав; рождение в Бхима-экадаши."
+
+- id: ev-jagadisha-childhood-upanayana
+  title: "Детство и учёба Джагадиши Пандита; упанаяна"
+  title_en: "Jagadisha Pandita's childhood and studies; upanayana"
+  period: P01
+  order: 91
+  cc: ""
+  cb: ""
+  themes: [learning, family]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-vidyanidhi-debate
+  title: "Джагадиша опровергает учение о бесформенном Брахмане и обращает Видьянидхи Бхаттачарью"
+  title_en: "Jagadisha refutes the doctrine of the formless Brahman and converts Vidyanidhi Bhattacharya"
+  period: P01
+  order: 92
+  cc: ""
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [vedanta]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-marriage-duhkhini
+  title: "Свадьба Джагадиши Пандита и Духкхини"
+  title_en: "The marriage of Jagadisha Pandita and Duhkhini"
+  period: P01
+  order: 93
+  cc: ""
+  cb: ""
+  themes: [family, festival]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-settles-navadvipa
+  title: "Уход родителей Джагадиши; шраддха; переселение в Навадвипу"
+  title_en: "Departure of Jagadisha's parents; shraddha; settling in Navadvipa"
+  period: P01
+  order: 94
+  cc: ""
+  cb: ""
+  themes: [family, departure, pilgrimage]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-ekadashi-revelation
+  title: "Нимай съедает подношение во время пуджи Джагадиши и открывает ему и Духкхини Свой облик"
+  title_en: "Nimai eats the offering during Jagadisha's puja and reveals His form to him and Duhkhini"
+  period: P03
+  order: 82
+  cc: ""
+  cb: ""
+  themes: [revelation, pranks, prasada]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-sent-nilachala
+  title: "Господь открывает Джагадише будущую санньясу и посылает его в Нилачалу"
+  title_en: "The Lord reveals His coming sannyasa to Jagadisha and sends him to Nilachala"
+  period: P07
+  order: 382
+  cc: ""
+  cb: ""
+  themes: [sannyasa, jagannatha]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-brings-jagannatha-yashoda
+  title: "Джагадиша приносит на спине Джаганнатху из Пури в Яшоду; местный царь даёт землю"
+  title_en: "Jagadisha carries Jagannatha on his back from Puri to Yashoda; the local king grants land"
+  period: P07
+  order: 383
+  cc: ""
+  cb: ""
+  themes: [jagannatha, deities, pilgrimage]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-lord-visits-yashoda
+  title: "Махапрабху и Нитьянанда ночью приходят в Яшоду к Джагадише; чудеса трапезы; трое сыновей входят в Господа"
+  title_en: "Mahaprabhu and Nityananda come by night to Jagadisha in Yashoda; wonders of the meal; the three sons enter the Lord"
+  period: P09
+  order: 30
+  cc: ""
+  cb: ""
+  themes: [prasada, mercy, jagannatha]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-gaura-gopala-yashoda
+  title: "Явление Божества Гаура-Гопалы в Яшоде; Духкхини выбирает служение Гопалу"
+  title_en: "Appearance of the Gaura-Gopala Deity in Yashoda; Duhkhini chooses to serve Gopala"
+  period: P09
+  order: 31
+  cc: ""
+  cb: ""
+  themes: [deities, revelation, teaching]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-nritya-vinodi
+  title: "В пути в Нилачалу Джагадиша танцует перед Господом и получает имя Нритья-виноди"
+  title_en: "On the way to Nilachala Jagadisha dances before the Lord and receives the name Nritya-vinodi"
+  period: P10
+  order: 41
+  cc: ""
+  cb: ""
+  themes: [kirtan, ecstasy]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-raghunatha-acharya-initiation
+  title: "Рождение Рагхунатхи у Бхагавана Ачарьи по слову Господа; посвящение и обучение у Джагадиши"
+  title_en: "Birth of Raghunatha to Bhagavan Acharya by the Lord's word; initiation and training by Jagadisha"
+  period: P12
+  order: 306
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  teaching: [associates-tattva]
+  notes: "Только в «Джагадиша-чаритра-виджае»."
+
+- id: ev-jagadisha-disappearance
+  title: "Дети и ученики Джагадиши; передача шакти Рамабхадре; сокрытие Джагадиши Пандита"
+  title_en: "Jagadisha's children and disciples; transmission of shakti to Ramabhadra; disappearance of Jagadisha Pandita"
+  period: P15
+  order: 132
+  cc: ""
+  cb: ""
+  themes: [departure, family]
+  notes: "Только в «Джагадиша-чаритра-виджае»."

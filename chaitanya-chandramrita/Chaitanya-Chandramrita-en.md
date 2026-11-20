@@ -114,7 +114,7 @@ Sanskrit, in agreement with the Russian translation (same numbering and notes).
 
 **28.** Such a relationship with the *rasa* of the Lord's lotus feet as no one in this world has had, will have or has — all this the non-envious come to know through the outpouring mercy of this Gaura, who sports with the supreme wealth: devotion to Himself.
 
-[^01-1]: In the 1951 edition this verse stands in brackets without a number; it is probably a later insertion. It could not be found in the OCR copy of the Bengali edition with Bhaktisiddhanta Sarasvati's translation.
+[^01-1]: In the 1951 edition this verse stands in brackets without a number; it is probably a later insertion.
 
 [^01-2]: Mahaprabhu worshipped Jagannatha in Puri as another form of His own (more precisely, as Himself). Here it is said: "longing to see Himself — Jagannatha."
 

@@ -777,7 +777,7 @@ The householder Vaishnavas of the "Sri" *sampradaya*, when leaving home, never t
 
 >> No relationship with the *rasa* of Bhagavan's lotus feet has anyone in this world had, will have or has; but since the mercy of Gaurasundara, who sports with His supreme wealth — devotion to Himself — has become manifest, the non-envious devotees marked by that mercy have come to know all that sweetness of *rasa*. That is, that secret relationship with the *rasa* of Krishna's lotus feet which no one has ever had, will have or has even now, the associates of Gaura constantly realize by Gaura's mercy.
 
-[^01-1]: In the 1951 edition this verse stands in brackets without a number; it is probably a later insertion. It could not be found in the OCR copy of the Bengali edition with Bhaktisiddhanta Sarasvati's translation.
+[^01-1]: In the 1951 edition this verse stands in brackets without a number; it is probably a later insertion.
 
 [^01-2]: Mahaprabhu worshipped Jagannatha in Puri as another form of His own (more precisely, as Himself). Here it is said: "longing to see Himself — Jagannatha."
 

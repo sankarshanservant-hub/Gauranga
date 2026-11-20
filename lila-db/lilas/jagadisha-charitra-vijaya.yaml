@@ -1,0 +1,327 @@
+# Ананда Дас, «Джагадиша-чаритра-виджая» — лилы в порядке изложения (формат — ../README.md).
+# Перевод: jagadisha-charitra-vijaya/ru/VV.md (VV — варна), метки **N.** — свой счёт внутри варны.
+
+- id: jcv-0001
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 1, 1–95"
+  file: "jagadisha-charitra-vijaya/ru/01.md"
+  period: PX
+  order: 1
+  title: "Мангалачарана: Чайтанья, Нитьянанда, Адвайта; слава Джагадиши; линия гуру автора"
+  summary: "Начало утрачено; поклонение Чайтанье и Нитьянанде, клич Адвайты и нисхождение Господа, Гададхара и Шриваса; призыв Махапрабху петь Имя; слава Джагадише Пандиту; линия гуру автора — Рагхунатха Ачарья, Бхагаватананда (как он получил имя), Премананда, Радхачарана; поклонение Госвами и шестидесяти четырём махантам."
+  persons: ["@ananda-dasa-jcv", "@jagadisha-pandita", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/01.md", from: "1", to: "95"}
+
+- id: jcv-0002
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 2, 1–83"
+  file: "jagadisha-charitra-vijaya/ru/02.md"
+  period: P01
+  order: 2
+  title: "Рождение Джагадиши Пандита: дар Нараяны Камалакше и Бхагьявати"
+  summary: "Бхагаватананда во сне велит автору описать житие Джагадиши; брахман Камалакша из восточного края и его жена Бхагьявати получают от Нараяны дар — сына-вайшнава; Джагадиша рождается в Бхима-экадаши; празднество, аннапрашана и наречение имени."
+  persons: ["@jagadisha-pandita", "@kamalaksha-jagadisha", "@bhagyavati", "@ananda-dasa-jcv"]
+  places: []
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Ади 10.73 (Джагадиша Пандит — ветвь Господа)"
+  notes: "Рождение Джагадиши известно только из этого жития."
+  themes: [family, revelation]
+  event: ev-jagadisha-pandita-birth
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/02.md", from: "1", to: "83"}
+
+- id: jcv-0003
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 3, 1–57"
+  file: "jagadisha-charitra-vijaya/ru/03.md"
+  period: P01
+  order: 3
+  title: "Детские игры, учёба и упанаяна Джагадиши"
+  summary: "Младенец твердит имя Кришны и играет в санкиртану, лепит образ Кришны и поклоняется ему; в 5 лет начинает учиться, к 8 годам осваивает шастры, «Бхагавату» чтит как облик Кришны; упанаяна в 9 лет."
+  persons: ["@jagadisha-pandita", "@kamalaksha-jagadisha", "@bhagyavati"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [learning, family]
+  event: ev-jagadisha-childhood-upanayana
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/03.md", from: "1", to: "57"}
+
+- id: jcv-0004
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 4, 1–138"
+  file: "jagadisha-charitra-vijaya/ru/04.md"
+  period: P01
+  order: 4
+  title: "Спор с Видьянидхи Бхаттачарьей о Брахмане"
+  summary: "Джагадиша учит брахманских юношей и делает их вайшнавами; пандит Видьянидхи доказывает, что Брахман бесформен (рассказ о Раме, Садашиве и Ханумане); Джагадиша опровергает его рассказом о том, что сияние — вибхути Рамы, «Бхагаватой», словами Шивы и Парвати и Гитой; Видьянидхи предаётся и обретает прему."
+  persons: ["@jagadisha-pandita", "@vidyanidhi-bhattacharya-jcv"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [vedanta, bhakti-supremacy]
+  event: ev-jagadisha-vidyanidhi-debate
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/04.md", from: "1", to: "138"}
+
+- id: jcv-0005
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 5, 1–77"
+  file: "jagadisha-charitra-vijaya/ru/05.md"
+  period: P01
+  order: 5
+  title: "Свадьба Джагадиши и Духкхини"
+  summary: "Рождение младшего брата Махеши; брахман Тапана сватает дочь Духкхини; обряды, процессия, каньядана и возвращение."
+  persons: ["@jagadisha-pandita", "@mahesha-pandita", "@tapana-pandita-jcv", "@duhkhini-jagadisha"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family, festival]
+  event: ev-jagadisha-marriage-duhkhini
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/05.md", from: "1", to: "77"}
+
+- id: jcv-0006
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 6, 1–166"
+  file: "jagadisha-charitra-vijaya/ru/06.md"
+  period: P01
+  order: 6
+  title: "Уход родителей и переселение в Навадвипу"
+  summary: "Джагадиша наставляет престарелых родителей в слушании и воспевании, и они уходят в обитель Вишну; шраддха перед шалаграмой с маха-прасадом; ради жизни у Ганги он с Духкхини и Махешей переселяется в Навадвипу."
+  persons: ["@jagadisha-pandita", "@duhkhini-jagadisha", "@mahesha-pandita", "@kamalaksha-jagadisha", "@bhagyavati"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family, departure, pilgrimage]
+  event: ev-jagadisha-settles-navadvipa
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/06.md", from: "1", to: "166"}
+
+- id: jcv-0007
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 7, 1–25"
+  file: "jagadisha-charitra-vijaya/ru/07.md"
+  period: P01
+  order: 7
+  title: "Явление Господа в доме Шачи; Духкхини нянчит Нимая"
+  summary: "Джагадиша живёт рядом с Джаганнатхой Мишрой и молит о нисхождении; Господь является; Духкхини, подруга Шачи, нянчит Нимая."
+  persons: ["@jagadisha-pandita", "@duhkhini-jagadisha", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family]
+  bhava: [child]
+  event: ev-advent-eclipse-devotees-rejoice
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/07.md", from: "1", to: "25"}
+
+- id: jcv-0008
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 7, 26–71"
+  file: "jagadisha-charitra-vijaya/ru/07.md"
+  period: P03
+  order: 8
+  title: "Нимай требует экадашное подношение Джагадиши и Хираньи"
+  summary: "Плачущий Нимай требует найведью, приготовленную Джагадишей и Хираньей в экадаши, и съедает её."
+  persons: ["@mahaprabhu", "@jagadisha-pandita", "@hiranya-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [pranks, prasada]
+  event: ev-jagadisha-hiranya-ekadashi
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/07.md", from: "26", to: "71"}
+
+- id: jcv-0009
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 7, 72–113"
+  file: "jagadisha-charitra-vijaya/ru/07.md"
+  period: P03
+  order: 9
+  title: "Нимай открывается Джагадише и Духкхини"
+  summary: "В другой экадаши Нимай съедает подношение во время пуджи Джагадиши; Духкхини видит четырёхрукий облик; Господь говорит, что они Его спутники из Двапара-юги."
+  persons: ["@mahaprabhu", "@jagadisha-pandita", "@duhkhini-jagadisha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [revelation]
+  teaching: [associates-tattva]
+  event: ev-jagadisha-ekadashi-revelation
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/07.md", from: "72", to: "113"}
+
+- id: jcv-0010
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 7, 114–130"
+  file: "jagadisha-charitra-vijaya/ru/07.md"
+  period: P07
+  order: 10
+  title: "Господь посылает Джагадишу в Нилачалу"
+  summary: "После киртанов у Шривасы и усмирения Кази Господь открывает Джагадише, что примет санньясу, и велит идти в Нилачалу."
+  persons: ["@mahaprabhu", "@jagadisha-pandita", "@srivasa", "@chand-kazi", "@duhkhini-jagadisha", "@mahesha-pandita"]
+  places: ["#navadvipa", "#house-srivasa", "#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [sannyasa, kirtan]
+  event: ev-jagadisha-sent-nilachala
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/07.md", from: "114", to: "130"}
+
+- id: jcv-0011
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 8, 1–84"
+  file: "jagadisha-charitra-vijaya/ru/08.md"
+  period: P07
+  order: 11
+  title: "Джагадиша приносит Джаганнатху в Яшоду"
+  summary: "Путь в Пури через Ремуну и Катак; Джагадиша просит у Джаганнатхи прежнее тело Божества из Койли-вайкунтхи, и Господь соглашается ехать у него на спине; с позволения царя он один несёт Его в Яшоду; местный царь не может сдвинуть Божество, просит прощения и даёт землю."
+  persons: ["@jagadisha-pandita", "@mahesha-pandita", "@duhkhini-jagadisha"]
+  places: ["#remuna", "#puri", "#yashoda-gram"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [jagannatha, deities, pilgrimage]
+  event: ev-jagadisha-brings-jagannatha-yashoda
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/08.md", from: "1", to: "84"}
+
+- id: jcv-0012
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 9, 1–112"
+  file: "jagadisha-charitra-vijaya/ru/09.md"
+  period: P09
+  order: 12
+  title: "Ночной приход Махапрабху и Нитьянанды в Яшоду"
+  summary: "После санньясы Господь из Шантипура приходит с Нитьянандой к Джагадише; корова сама даёт молоко, манго в пауше, рыба из реки для Нитьянанды; Духкхини мешает паясу рукой, а обжигается рука Господа; трое сыновей Джагадиши, нарушившие чистоту подношения, по его молитве оставляют тела и входят в Господа."
+  persons: ["@mahaprabhu", "@nityananda", "@jagadisha-pandita", "@duhkhini-jagadisha", "@mahesha-pandita"]
+  places: ["#katwa", "#shantipura", "#yashoda-gram"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [prasada, mercy]
+  event: ev-lord-visits-yashoda
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/09.md", from: "1", to: "112"}
+
+- id: jcv-0013
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 10, 1–138"
+  file: "jagadisha-charitra-vijaya/ru/10.md"
+  period: P09
+  order: 13
+  title: "Явление Гаура-Гопалы в Яшоде"
+  summary: "По слову Господа мастер за одну ночь являет Божество Господа-младенца; Духкхини находит плачущего Нимая и кормит его; Господь вновь приходит, учит, что не отличен от Своего Божества и преданного; Нитьянанда видит Гопалу у груди Духкхини; она выбирает служение Гаура-Гопалу."
+  persons: ["@mahaprabhu", "@nityananda", "@duhkhini-jagadisha", "@jagadisha-pandita"]
+  places: ["#shantipura", "#yashoda-gram"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [deities, revelation, teaching]
+  event: ev-gaura-gopala-yashoda
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/10.md", from: "1", to: "138"}
+
+- id: jcv-0014
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 11, 1–37"
+  file: "jagadisha-charitra-vijaya/ru/11.md"
+  period: P10
+  order: 14
+  title: "Джагадиша — Нритья-виноди; Нитьянанду посылают в Гауду"
+  summary: "По пути в Нилачалу Джагадиша танцует впереди киртана и получает имя Нритья-виноди; после Юга Господь посылает Нитьянанду с Джагадишей, Рамадасом и Гададхарой в Гауду и велит Бхагавану Ачарье жить домохозяином."
+  persons: ["@mahaprabhu", "@jagadisha-pandita", "@nityananda", "@abhirama", "@gadadhara-dasa", "@bhagavan-acharya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [kirtan, ecstasy]
+  event: ev-jagadisha-nritya-vinodi
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/11.md", from: "1", to: "37"}
+
+- id: jcv-0015
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 11, 38–106"
+  file: "jagadisha-charitra-vijaya/ru/11.md"
+  period: P12
+  order: 15
+  title: "Рагхунатха Ачарья: рождение, посвящение, обучение"
+  summary: "У Бхагавана Ачарьи рождается Рагхунатха и отдан Джагадише; посвящение его и Камалаканты; наставление Махапрабху: Кришна — полный Брахман, Чайтанья — Кришна, садху-санга, навадха-бхакти, гуру, сиддха-деха."
+  persons: ["@raghunatha-acharya-jcv", "@bhagavan-acharya", "@jagadisha-pandita", "@kamalakanta-durgapur"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-raghunatha-acharya-initiation
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/11.md", from: "38", to: "106"}
+
+- id: jcv-0016
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 12, 1–52"
+  file: "jagadisha-charitra-vijaya/ru/12.md"
+  period: P15
+  order: 16
+  title: "Потомки и ученики Джагадиши; его сокрытие"
+  summary: "Ученики проповедуют; дочь Расаманджари выдана за Гопиваллабху, внука Нитьянанды, в Джирате; передача шакти Рамабхадре; сокрытие в пауша шукла-тритию; во Вриндаване Джагадиша — Калавати."
+  persons: ["@jagadisha-pandita", "@raghunatha-acharya-jcv", "@kamalakanta-durgapur", "@rasamanjari-jagadisha", "@gopivallabha-jirat", "@madhava-acharya-ganga", "@ganga-nityananda", "@ramabhadra-jagadisha"]
+  places: ["#jirat", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [departure, family]
+  event: ev-jagadisha-disappearance
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/12.md", from: "1", to: "52"}
+
+- id: jcv-0017
+  source: jagadisha-charitra-vijaya
+  ref: "Варна 12, 53–108"
+  file: "jagadisha-charitra-vijaya/ru/12.md"
+  period: PX
+  order: 17
+  title: "Содержание книги; заключительная вандана"
+  summary: "Перечень двенадцати варн; песнь Гауранге; прославление Чайтаньи, Нитьянанды, Адвайты, Шриваса, Гададхары, шести Госвами и Шринивасы Ачарьи; мольба к Бхагаватананде."
+  persons: ["@ananda-dasa-jcv", "@bhagavatananda-jcv"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jagadisha-charitra-vijaya/ru/12.md", from: "53", to: "108"}

@@ -55,6 +55,7 @@
    "pvl-0037",
    "cc-0189",
    "mkc-0012",
+   "jcv-0007",
    "pvl-0227",
    "cc-0191",
    "cb-0064",
@@ -202,6 +203,8 @@
    "mkc-0022",
    "cb-0043",
    "vv-0064",
+   "jcv-0008",
+   "jcv-0009",
    "brt-7015",
    "lcm-0042",
    "mkc-0023",
@@ -638,6 +641,7 @@
    "apr-0070",
    "brt-0051",
    "cb-1007",
+   "jcv-0010",
    "jcm-0037",
    "kcm-0041",
    "lcm-0097",
@@ -1737,6 +1741,8 @@
    "cc-0307",
    "pad-0073",
    "cb-3006",
+   "jcv-0012",
+   "jcv-0013",
    "cb-3007",
    "mkc-0141",
    "cb-3008",
@@ -1939,6 +1945,7 @@
    "cc-1047",
    "dvk-0006",
    "dvk-0007",
+   "jcv-0014",
    "dvk-0008",
    "lcm-0212",
    "mkc-0165",
@@ -3460,6 +3467,7 @@
    "lcm-0001",
    "mkc-0001",
    "ccd-0002",
+   "jcv-0001",
    "jcm-0002",
    "kcm-0002",
    "lcm-0019",
@@ -3859,6 +3867,7 @@
    "ev-srivasa-saved-from-death",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
+   "ev-advent-eclipse-devotees-rejoice",
    "ev-mishra-family-migrates-navadvipa",
    "ev-vishvarupa-birth",
    "ev-nityananda-birth",
@@ -3870,7 +3879,6 @@
    "ev-nature-heralds-advent",
    "ev-nityananda-roar-gaura-birth",
    "ev-advaita-proclaims-advent",
-   "ev-advent-eclipse-devotees-rejoice",
    "ev-rama-worshipper-sees-newborn-as-rama",
    "ev-nilambara-prediction",
    "ev-brahmana-astrologer-names-vishvambhara",
@@ -3897,6 +3905,7 @@
    "ev-flute-sound-radha-name",
    "ev-tirthika-brahmana",
    "ev-jagadisha-hiranya-ekadashi",
+   "ev-jagadisha-ekadashi-revelation",
    "ev-nimai-hide-and-seek",
    "ev-nimai-cowherd-son-butter",
    "ev-nimai-pranks-neighbours",
@@ -3978,6 +3987,7 @@
    "ev-gaya-ascetic-samadhi",
    "ev-gaya-heavenly-voice-return",
    "ev-return-navadvipa-welcome",
+   "ev-jagadisha-sent-nilachala",
    "ev-chhakari-worship",
    "ev-advaita-gita-dream",
    "ev-shachi-receives-prema",
@@ -4147,6 +4157,8 @@
    "ev-gangadhara-becomes-chaitanya-dasa",
    "ev-keshava-bharati-dances-katwa",
    "ev-radha-desha-wandering",
+   "ev-lord-visits-yashoda",
+   "ev-gaura-gopala-yashoda",
    "ev-lord-praises-ganga",
    "ev-chandrashekhara-sent-back",
    "ev-advaita-boat-ganga-vrindavana",
@@ -4186,6 +4198,7 @@
    "ev-jagannatha-embraces-gaura",
    "ev-jagannatha-dasa-bhagavata-meeting",
    "ev-svami-initiated-by-balarama-dasa",
+   "ev-jagadisha-nritya-vinodi",
    "ev-atibada-name",
    "ev-gaudiyas-leave-over-atibada",
    "ev-gopinatha-sarvabhauma-debate",
@@ -7654,6 +7667,7 @@
    "cc-0038",
    "cc-0187",
    "lcm-0029",
+   "jcv-0007",
    "cc-0188",
    "jcm-0012",
    "pvl-0227",
@@ -8276,6 +8290,7 @@
    "ev-gaura-appearance",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
+   "ev-advent-eclipse-devotees-rejoice",
    "ev-mishra-family-migrates-navadvipa",
    "ev-jagannatha-mishra-marries-shachi",
    "ev-advaita-initiates-mishra-shachi",
@@ -8778,6 +8793,7 @@
    "cc-0038",
    "cc-0187",
    "lcm-0029",
+   "jcv-0007",
    "cc-0188",
    "jcm-0012",
    "pvl-0227",
@@ -8985,6 +9001,7 @@
    "ev-gaura-appearance",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
+   "ev-advent-eclipse-devotees-rejoice",
    "ev-mishra-family-migrates-navadvipa",
    "ev-jagannatha-mishra-marries-shachi",
    "ev-advaita-initiates-mishra-shachi",
@@ -10632,6 +10649,8 @@
    "mkc-0139",
    "cc-0307",
    "pad-0073",
+   "jcv-0012",
+   "jcv-0013",
    "cb-3008",
    "jcm-0065",
    "mkc-0140",
@@ -10710,6 +10729,7 @@
    "lcm-0210",
    "cc-0310",
    "cc-1046",
+   "jcv-0014",
    "lcm-0212",
    "dvk-0011",
    "gkr-0027",
@@ -11077,6 +11097,7 @@
    "jcm-0001",
    "lcm-0001",
    "ccd-0002",
+   "jcv-0001",
    "lcm-0019",
    "rm-0001",
    "sn-0001",
@@ -11412,6 +11433,8 @@
    "ev-nityananda-follows-to-katwa",
    "ev-sannyasa-katwa",
    "ev-radha-desha-wandering",
+   "ev-lord-visits-yashoda",
+   "ev-gaura-gopala-yashoda",
    "ev-lord-praises-ganga",
    "ev-chandrashekhara-sent-back",
    "ev-advaita-boat-ganga-vrindavana",
@@ -11436,6 +11459,7 @@
    "ev-ekamra-bhubaneshvara",
    "ev-sarvabhauma-meeting",
    "ev-first-darshan-jagannatha",
+   "ev-jagadisha-nritya-vinodi",
    "ev-gaudiyas-leave-over-atibada",
    "ev-kashi-mishra-residence",
    "ev-sarvabhauma-deliverance",
@@ -12934,6 +12958,7 @@
    "jcm-0001",
    "lcm-0001",
    "ccd-0002",
+   "jcv-0001",
    "rm-0001",
    "sn-0001",
    "gcc-0002",
@@ -14916,6 +14941,7 @@
    "pad-0558",
    "brt-7096",
    "lcm-0192",
+   "jcv-0014",
    "brt-7123",
    "cc-2079",
    "cc-0153",
@@ -14975,6 +15001,7 @@
    "ev-gaura-morning-navadvipa",
    "ev-holi-navadvipa-gadadhara",
    "ev-shantipura-reunion",
+   "ev-jagadisha-nritya-vinodi",
    "ev-nityananda-sent-to-gauda",
    "ev-nityananda-preaching-gauda",
    "ev-gadadhara-dasa-kazi-hari",
@@ -15074,6 +15101,7 @@
    "brt-7042",
    "apr-0070",
    "brt-0051",
+   "jcv-0010",
    "cb-1014",
    "kcm-0046",
    "cb-1003",
@@ -15508,6 +15536,7 @@
    "ev-gaya-ishvara-puri-initiation",
    "ev-return-navadvipa-welcome",
    "ev-return-from-gaya-teaching",
+   "ev-jagadisha-sent-nilachala",
    "ev-advaita-gita-dream",
    "ev-shachi-receives-prema",
    "ev-shuklambara-house-prema",
@@ -19942,6 +19971,7 @@
    "cc-1045",
    "cc-1046",
    "cc-1047",
+   "jcv-0014",
    "lcm-0212",
    "mkc-0165",
    "cc-1048",
@@ -20128,6 +20158,7 @@
    "ev-first-darshan-jagannatha",
    "ev-sarvabhauma-meeting",
    "ev-departure-for-south",
+   "ev-jagadisha-nritya-vinodi",
    "ev-gopinatha-sarvabhauma-debate",
    "ev-sarvabhauma-deliverance",
    "ev-sarvabhauma-verse-lord-returns",
@@ -24813,6 +24844,7 @@
    "pad-0376",
    "jcm-0052",
    "jcm-0065",
+   "jcv-0014",
    "brt-7123",
    "cc-0140",
    "cc-2079",
@@ -24871,6 +24903,7 @@
    "ev-nanda-utsava-navadvipa",
    "ev-sannyasa-decision-devotees-grief",
    "ev-chandrashekhara-sent-back",
+   "ev-jagadisha-nritya-vinodi",
    "ev-nityananda-sent-to-gauda",
    "ev-nityananda-panihati-abhisheka",
    "ev-nityananda-preaching-gauda",
@@ -41351,6 +41384,7 @@
   "note": "варендра-брахман, ученик и зять Нитьянанды; не путать с @madhava-acharya-kavivallabha",
   "section": "Спутники",
   "lilas": [
+   "jcv-0016",
    "vv-0057",
    "pvl-0158",
    "pvl-0271",
@@ -41364,6 +41398,7 @@
    "pvl-0166"
   ],
   "events": [
+   "ev-jagadisha-disappearance",
    "ev-nityananda-marriage",
    "ev-ganga-marries-madhava",
    "ev-virachandra-marriage",
@@ -41390,6 +41425,7 @@
   "note": "дочь Нитьянанды и Васудхи, супруга Мадхавы Ачарьи; не путать с @ganga-devi",
   "section": "Спутники",
   "lilas": [
+   "jcv-0016",
    "pvl-0231",
    "pvl-0270",
    "vv-0057",
@@ -41408,6 +41444,7 @@
    "pvl-0167"
   ],
   "events": [
+   "ev-jagadisha-disappearance",
    "ev-nityananda-marriage",
    "ev-ganga-marries-madhava",
    "ev-virachandra-marriage",
@@ -46324,9 +46361,11 @@
   "note": "учёный преданный в Пури, брат Гопалы Бхаттачарьи; хромой («кханджа»; ГГД 74 — часть Гауры), родом из Халишахара (Кумарахатты) (B 947); у T 73 — «Кхандж Бхагаван дас» (`lila-db/review/tags-2026-10-24.md`, п. 8)",
   "section": "Аллегорические лица",
   "lilas": [
+   "jcv-0014",
    "kcm-0138",
    "cb-3043",
    "cc-2014",
+   "jcv-0015",
    "cc-4021",
    "cc-4022",
    "cc-4058",
@@ -46336,8 +46375,10 @@
    "cc-0144"
   ],
   "events": [
+   "ev-jagadisha-nritya-vinodi",
    "ev-devotees-gather-nilachala",
    "ev-svarupa-paramananda-arrive",
+   "ev-raghunatha-acharya-initiation",
    "ev-gopala-bhattacharya-mayavada",
    "ev-chhota-haridasa-punished",
    "ev-bengali-poet-drama-svarupa",
@@ -47274,6 +47315,11 @@
   "note": "спутник Нитьянанды (один из двенадцати гопалов); в Кхардахе",
   "section": "Аллегорические лица",
   "lilas": [
+   "jcv-0005",
+   "jcv-0006",
+   "jcv-0010",
+   "jcv-0011",
+   "jcv-0012",
    "vv-0061",
    "cc-4065",
    "brt-0086",
@@ -47283,6 +47329,11 @@
    "cc-0157"
   ],
   "events": [
+   "ev-jagadisha-marriage-duhkhini",
+   "ev-jagadisha-settles-navadvipa",
+   "ev-jagadisha-sent-nilachala",
+   "ev-jagadisha-brings-jagannatha-yashoda",
+   "ev-lord-visits-yashoda",
    "ev-nityananda-preaching-gauda",
    "ev-panihati-chida-dadhi",
    "ev-srinivasa-khardaha-jahnava",
@@ -48176,32 +48227,62 @@
   "note": "спутник Господа и Нитьянанды, танцор (ГГД 143); не путать с @jagadisha-mishra",
   "section": "Аллегорические лица",
   "lilas": [
+   "jcv-0002",
    "cb-0016",
+   "jcv-0003",
+   "jcv-0004",
+   "jcv-0005",
+   "jcv-0006",
+   "jcv-0007",
    "vv-0064",
+   "jcv-0008",
+   "jcv-0009",
    "brt-6040",
    "brt-7020",
    "cb-0047",
    "cc-0130",
    "cc-0208",
+   "jcv-0010",
+   "jcv-0011",
    "brt-7082",
    "brt-7062",
    "cb-2052",
+   "jcv-0012",
+   "jcv-0013",
+   "jcv-0014",
+   "jcv-0015",
    "cb-3102",
    "vv-0061",
    "cc-4065",
+   "jcv-0016",
+   "jcv-0001",
    "cb-0007",
    "cb-3089",
    "cc-0157"
   ],
   "events": [
+   "ev-jagadisha-pandita-birth",
    "ev-navadvipa-vaishnavas-before-advent",
+   "ev-jagadisha-childhood-upanayana",
+   "ev-jagadisha-vidyanidhi-debate",
+   "ev-jagadisha-marriage-duhkhini",
+   "ev-jagadisha-settles-navadvipa",
+   "ev-advent-eclipse-devotees-rejoice",
    "ev-jagadisha-hiranya-ekadashi",
+   "ev-jagadisha-ekadashi-revelation",
+   "ev-jagadisha-sent-nilachala",
+   "ev-jagadisha-brings-jagannatha-yashoda",
    "ev-gaura-dance-with-devotees",
    "ev-mahaprakasha-abhisheka",
    "ev-shridhara-kholavecha",
+   "ev-lord-visits-yashoda",
+   "ev-gaura-gopala-yashoda",
+   "ev-jagadisha-nritya-vinodi",
+   "ev-raghunatha-acharya-initiation",
    "ev-gauda-devotees-set-out-puri",
    "ev-nityananda-preaching-gauda",
    "ev-panihati-chida-dadhi",
+   "ev-jagadisha-disappearance",
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
@@ -48226,6 +48307,188 @@
     "type": "neighbor"
    }
   ]
+ },
+ {
+  "id": "@kamalaksha-jagadisha",
+  "ru": "Камалакша",
+  "en": "Kamalaksha",
+  "note": "брахман из Восточной Бенгалии, отец @jagadisha-pandita («Джагадиша-чаритра-виджая», 2)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0002",
+   "jcv-0003",
+   "jcv-0006"
+  ],
+  "events": [
+   "ev-jagadisha-pandita-birth",
+   "ev-jagadisha-childhood-upanayana",
+   "ev-jagadisha-settles-navadvipa"
+  ]
+ },
+ {
+  "id": "@bhagyavati",
+  "ru": "Бхагьявати",
+  "en": "Bhagyavati",
+  "note": "мать @jagadisha-pandita («Джагадиша-чаритра-виджая», 2)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0002",
+   "jcv-0003",
+   "jcv-0006"
+  ],
+  "events": [
+   "ev-jagadisha-pandita-birth",
+   "ev-jagadisha-childhood-upanayana",
+   "ev-jagadisha-settles-navadvipa"
+  ]
+ },
+ {
+  "id": "@ananda-dasa-jcv",
+  "ru": "Ананда Дас, автор «Джагадиша-чаритра-виджаи»",
+  "en": "Ananda Dasa, author of the Jagadisha-charitra-vijaya",
+  "note": "XVIII в., в линии ученика Джагадиши (Рагхунатха Ачарья, Бхагаватананда, Премананда, Радхачарана)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0002",
+   "jcv-0001",
+   "jcv-0017"
+  ],
+  "events": [
+   "ev-jagadisha-pandita-birth"
+  ]
+ },
+ {
+  "id": "@duhkhini-jagadisha",
+  "ru": "Духкхини, жена Джагадиши Пандита",
+  "en": "Duhkhini, wife of Jagadisha Pandita",
+  "note": "дочь Тапаны Пандита; подруга Шачи, нянчила Нимая; служила Гаура-Гопалу в Яшоде («Джагадиша-чаритра-виджая», 5–10)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0005",
+   "jcv-0006",
+   "jcv-0007",
+   "jcv-0009",
+   "jcv-0010",
+   "jcv-0011",
+   "jcv-0012",
+   "jcv-0013"
+  ],
+  "events": [
+   "ev-jagadisha-marriage-duhkhini",
+   "ev-jagadisha-settles-navadvipa",
+   "ev-advent-eclipse-devotees-rejoice",
+   "ev-jagadisha-ekadashi-revelation",
+   "ev-jagadisha-sent-nilachala",
+   "ev-jagadisha-brings-jagannatha-yashoda",
+   "ev-lord-visits-yashoda",
+   "ev-gaura-gopala-yashoda"
+  ]
+ },
+ {
+  "id": "@tapana-pandita-jcv",
+  "ru": "Тапана Пандит, тесть Джагадиши",
+  "en": "Tapana Pandita, Jagadisha's father-in-law",
+  "note": "бедный брахман из Восточной Бенгалии («Джагадиша-чаритра-виджая», 5)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0005"
+  ],
+  "events": [
+   "ev-jagadisha-marriage-duhkhini"
+  ]
+ },
+ {
+  "id": "@vidyanidhi-bhattacharya-jcv",
+  "ru": "Видьянидхи Бхаттачарья",
+  "en": "Vidyanidhi Bhattacharya",
+  "note": "пандит, учивший о бесформенном Брахмане, побеждён Джагадишей и стал вайшнавом («Джагадиша-чаритра-виджая», 4); не Пундарика Видьянидхи",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0004"
+  ],
+  "events": [
+   "ev-jagadisha-vidyanidhi-debate"
+  ]
+ },
+ {
+  "id": "@raghunatha-acharya-jcv",
+  "ru": "Рагхунатха Ачарья (сын Бхагавана Ачарьи)",
+  "en": "Raghunatha Acharya (son of Bhagavan Acharya)",
+  "note": "ученик @jagadisha-pandita, проповедовал в Малипаре; первый в линии гуру автора «Джагадиша-чаритра-виджаи» (1, 11, 12)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0015",
+   "jcv-0016"
+  ],
+  "events": [
+   "ev-raghunatha-acharya-initiation",
+   "ev-jagadisha-disappearance"
+  ]
+ },
+ {
+  "id": "@kamalakanta-durgapur",
+  "ru": "Камалаканта Дас из Дургапура",
+  "en": "Kamalakanta Dasa of Durgapur",
+  "note": "ученик @jagadisha-pandita («Джагадиша-чаритра-виджая», 11–12)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0015",
+   "jcv-0016"
+  ],
+  "events": [
+   "ev-raghunatha-acharya-initiation",
+   "ev-jagadisha-disappearance"
+  ]
+ },
+ {
+  "id": "@ramabhadra-jagadisha",
+  "ru": "Рамабхадра, сын Джагадиши Пандита",
+  "en": "Ramabhadra, son of Jagadisha Pandita",
+  "note": "получил от отца шакти («Джагадиша-чаритра-виджая», 12)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0016"
+  ],
+  "events": [
+   "ev-jagadisha-disappearance"
+  ]
+ },
+ {
+  "id": "@rasamanjari-jagadisha",
+  "ru": "Расаманджари, дочь Джагадиши Пандита",
+  "en": "Rasamanjari, daughter of Jagadisha Pandita",
+  "note": "выдана за Гопиваллабху, внука Нитьянанды, в Джирате («Джагадиша-чаритра-виджая», 12)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0016"
+  ],
+  "events": [
+   "ev-jagadisha-disappearance"
+  ]
+ },
+ {
+  "id": "@gopivallabha-jirat",
+  "ru": "Гопиваллабха (Гопала-валлабха) из Джираты",
+  "en": "Gopivallabha (Gopala-vallabha) of Jirat",
+  "note": "сын @madhava-acharya-ganga и @ganga-nityananda («Джагадиша-чаритра-виджая», 12)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0016"
+  ],
+  "events": [
+   "ev-jagadisha-disappearance"
+  ]
+ },
+ {
+  "id": "@bhagavatananda-jcv",
+  "ru": "Бхагаватананда",
+  "en": "Bhagavatananda",
+  "note": "гуру линии автора «Джагадиша-чаритра-виджаи», повелевший ему во сне написать житие (1–3)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "jcv-0017"
+  ],
+  "events": []
  },
  {
   "id": "@jagannatha-dasa-odia",
@@ -49260,6 +49523,7 @@
   "note": "запретил киртан, усмирён Господом",
   "section": "Аллегорические лица",
   "lilas": [
+   "jcv-0010",
    "cb-2046",
    "brt-0053",
    "brt-7005",
@@ -49274,6 +49538,7 @@
    "cb-0008"
   ],
   "events": [
+   "ev-jagadisha-sent-nilachala",
    "ev-nagara-kirtana-kazi"
   ],
   "related_by": [
@@ -49927,6 +50192,7 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vv-0064",
+   "jcv-0008",
    "brt-6040",
    "brt-7020",
    "cb-0047",

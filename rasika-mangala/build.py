@@ -18,15 +18,28 @@ META = {
     'ru': dict(out='Rasika-Mangala-ru', title='Шри Расика-мангала', author='Гопиджана-валлабха Дас (рус. пер.)'),
     'en': dict(out='Rasika-Mangala-en', title='Sri Rasika-mangala', author='Gopijana-vallabha Dasa (Eng. tr.)'),
 }
+ED = {'ru': ('изд. 1941 г.',), 'en': '1941 edition'}   # издание-основа; другие книги переопределяют
+GENERIC_ED = {'ru': ('изданию', 'издании'), 'en': 'edition'}   # для clean_md: «по изданию», «в издании», «in the edition»
 WORK = re.compile(r'pdf|RM-\d|OCR|файл|\bfiles?\b|колонтитул|running head|раскладк|layout|страниц|\bpages?\b|\bпеч\. с\.|printed p|под чертой|below the (?:line|rule)|после колофона|after the colophon|начинается (?:на|с новой)|begins (?:on|with a new)|кончается полным|ends with a complete|^Лахари \d+ — \d|^Lahari \d+ (?:—|comprises) \d', re.I)
+
+
+WORK_GENERIC = re.compile(r'\bpdf\b|\bOCR\b|\.md\b|\bfiles?\b|\bфайл|порци|\bportions?\b|колонтитул|running head|под чертой|below the (?:line|rule)', re.I)
 
 
 def clean_note(t, lang):
     """Сноска без рабочих пометок; пустая строка — если от неё ничего не осталось."""
-    t = re.sub(r'\s*\((?:печ\.|printed)[^()]*\)', '', t)
+    if WORK is not WORK_GENERIC:
+        t = re.sub(r'\s*\((?:печ\.|printed)[^()]*\)', '', t)
     t = re.sub(r'\s*\([^()]*(?:pdf|скан|scan|OCR|RM-\d|файл|files?\b|вырезк|cut-out|crop)[^()]*\)', '', t, flags=re.I)
     t = re.sub(r',?\s*(?:—\s*)?(?:(?:на|on) )?pdf \d+(?:[–-]\d+)?(?:\s*(?:вверху|внизу|at the top|at the bottom))?', '', t)
     t = re.sub(r'[,;]?\s*(?:сверено|checked) (?:по скану|against the scan)', '', t)
+    if WORK is WORK_GENERIC:      # «в OCR издания X» — это чтение самого издания X
+        t = re.sub(r'\b([Вв]) OCR(?:-копии)? издания\b', r'\1 издании', t)
+        t = re.sub(r'\b([Вв]) OCR(?:-копии)? (?=изд)', r'\1 ', t)
+        t = re.sub(r'\b[Вв] OCR-копии\b', lambda m: m.group(0)[0] + ' копии', t)
+        t = re.sub(r'\b(in|from) the OCR (?:text )?of (?=the )', r'\1 ', t)
+    t = re.sub(r'\b([Пп]о|[Нн]а) скан[уе] (?=изд\.)', lambda m: (m.group(1) if m.group(1).lower() == 'по' else ('В' if m.group(1)[0] == 'Н' else 'в')) + ' ', t)
+    t = re.sub(r'\b(in|on|from) the scan of (?=the \d)', r'\1 ', t)
     out = []
     for sent in re.split(r'(?<=[.!?»”"])\s+(?=[А-ЯЁA-Z«“"*(])', t):
         if not WORK.search(sent):
@@ -37,14 +50,46 @@ def clean_note(t, lang):
     sents = out
     t = ' '.join(sents).strip()
     if lang == 'ru':
-        t = re.sub(r'\b[Пп]о скану\b', lambda m: m.group(0)[0] + 'о изд. 1941 г.', t)
-        t = re.sub(r'\b[Нн]а скане\b', lambda m: ('В' if m.group(0)[0] == 'Н' else 'в') + ' изд. 1941 г.', t)
-        t = re.sub(r'\bСкан:', 'В изд. 1941 г.:', t).replace('чтение скана', 'чтение изд. 1941 г.')
+        e = ED['ru'][0]; e2 = ED['ru'][1] if len(ED['ru']) > 1 else e
+        t = re.sub(r'\b[Пп]о (?:скану|изображению)\b', lambda m: m.group(0)[0] + 'о ' + e, t)
+        t = re.sub(r'\b[Нн]а (?:скане|изображении)\b', lambda m: ('В' if m.group(0)[0] == 'Н' else 'в') + ' ' + e2, t)
+        t = re.sub(r'\bСкан:', 'В ' + e2 + ':', t).replace('чтение скана', 'чтение ' + (e if e[0].isdigit() or 'изд.' in e else 'издания'))
     else:
-        t = re.sub(r'\b(?:in|from|on|per) the scan\b', 'in the 1941 edition', t)
-        t = re.sub(r'\b[Tt]he scan\b', lambda m: m.group(0)[0] + 'he 1941 edition', t)
+        e = ED['en']
+        t = re.sub(r'\b(?:in|from|on|per|against) the (?:scan|page image)\b', 'in the ' + e, t)
+        t = re.sub(r'\b[Tt]he scan\b', lambda m: m.group(0)[0] + 'he ' + e, t)
     t = re.sub(r'\s{2,}', ' ', t).strip(' ;,')
     return t if re.search(r'\w', t) else ''
+
+
+def clean_md(md, lang, ed=None):
+    """Чистит от рабочих пометок все сноски уже собранной книги (метки не меняет); пустые сноски и ссылки на них убирает.
+    ed — издание-основа: ('по-форма', 'в-форма') для RU и строка для EN; по умолчанию — «изданию/издании», «edition»."""
+    global ED, WORK
+    old = ED, WORK; ED = {'ru': ed[0], 'en': ed[1]} if ed else GENERIC_ED; WORK = WORK_GENERIC
+    try:
+        drop, paras, cur = set(), [], None
+        def flush():
+            if cur is None: return
+            lab, txt = cur
+            c = clean_note(' '.join(txt.split()), lang)
+            if c: paras.append(f'[^{lab}]: {c}\n')
+            else: drop.add(lab)
+        for line in md.splitlines(keepends=True):
+            m = re.match(r'\[\^([^\]]+)\]:\s*(.*)', line, re.S)
+            if m:
+                flush(); cur = (m.group(1), m.group(2)); continue
+            if cur is not None and line.strip():
+                cur = (cur[0], cur[1] + ' ' + line); continue
+            flush(); cur = None
+            paras.append(line)
+        flush()
+        out = ''.join(paras)
+        if drop:
+            out = re.sub(r'(?<!^)\[\^([^\]]+)\](?!:)', lambda m: '' if m.group(1) in drop else m.group(0), out, flags=re.M)
+        return re.sub(r'\n{3,}', '\n\n', out)
+    finally:
+        ED, WORK = old
 
 
 def prepare(text, key, lang):

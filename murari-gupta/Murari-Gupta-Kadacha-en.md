@@ -328,7 +328,7 @@ Bhaktisiddhanta Sarasvati.
 
 **4.** Now I shall tell you of something else — of the descent of Hari's own portions, the devotees who are forms of the Lord, though renowned as pure devotees.
 
-**5.** First was born the best of the twice-born, the master Sri Madhava Puri. A portion of the Lord, dividing in two, appeared both as him and as Advaita Acharya, rich in virtues[^104-2].
+**5.** First was born the best of the twice-born, the master Sri Madhava Puri. A portion of the Lord, dividing in two, appeared both as him and as Advaita Acharya, rich in virtues.
 
 **6.** The disciple of them both was the divine Chandrashekhara, a portion of the Moon; of great fame, he is renowned on earth as Acharyaratna.
 
@@ -389,12 +389,11 @@ Bhaktisiddhanta Sarasvati.
 *Thus ends the fourth sarga, "On the Descents" (Avatara-anukarana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
 
 [^104-1]: Nrihari ("Man-Hari") is usually a name of Nrisimha; here, as in v. 33, it names the Lord in general.
-[^104-2]: The sense is that a single portion of the Lord appeared in two ways — as Madhavendra Puri and as Advaita Acharya. "Portion" does not diminish Advaita: in Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord; Madhavendra Puri is His guru and the root of the tree of devotion.
 [^104-3]: The brahmana's account itself is not given in the poem; Murari relates only its substance (vv. 9–11). Possibly "Bitten by a Snake" (Nagadashta) is the brahmana's name.
-[^104-4]: According to tradition, Haridasa is a portion of Brahma, who appeared as a devotee to atone for an offence.
+[^104-4]: According to tradition, who appeared as a devotee to atone for an offence.
 [^104-5]: The avatara of the Dvapara age is usually named otherwise; here Murari Gupta names Prithu, the king who first established the order of worship. The Bhagavata Purana (11.5.27–28) describes the avatara of the Dvapara age differently: dark-complexioned, in yellow garments, bearing the marks of Vishnu, worshipped according to the rules of the Vedas and tantras.
 [^104-6]: Bhargava is Parashurama, the descendant of Bhrigu.
-[^104-7]: "Portion" (amsha) does not diminish Nityananda here: in the same verse Murari calls Him "the Lord Himself," and in v. 15 "the second form of Sri Krishna." According to Gaudiya Vaishnava teaching Nityananda is Balarama Himself.
+[^104-7]: (amsha) does not diminish Nityananda here: in the same verse Murari calls Him "the Lord Himself," and in v. 15 "the second form of Sri Krishna." According to Gaudiya Vaishnava teaching Nityananda is Balarama Himself.
 [^104-ya]: Sri Chaitanya is the yuga-avatara of the Kali age, who establishes sankirtana (cf. Bhagavata Purana 11.5.32); yet He is not one avatara among others: in Gaudiya Vaishnava teaching He is Krishna Himself, Svayam Bhagavan, in the mood and lustre of Radha (so Murari too, 4.20.19 and 4.26.18).
 
 ---
@@ -472,7 +471,7 @@ Bhaktisiddhanta Sarasvati.
 [^105-7]: The "exalted position" (uccha) of a planet in astrology is the sign of its greatest strength.
 [^105-8]: The Vatsya is Jagannatha Mishra, of the Vatsya clan.
 [^105-9]: Probably the rite marking the end of the lying-in period; another understanding is possible — the child's first standing up.
-[^105-10]: "Portion" (amsha; also in v. 15) does not mean that the Lord appeared only in part: in v. 17 Murari says plainly that "Hari Himself was born." Nor is this an ordinary conception: just as, according to the Bhagavata Purana (10.2.16–18), the Lord entered the mind of Vasudeva and through him Devaki, so here Achyuta entered the mind of Jagannatha (v. 2), and Shachi received his splendour.
+[^105-10]: (amsha; also in v. 15) does not mean that the Lord appeared only in part: in v. 17 Murari says plainly that "Hari Himself was born." Nor is this an ordinary conception: just as, according to the Bhagavata Purana (10.2.16–18), the Lord entered the mind of Vasudeva and through him Devaki, so here Achyuta entered the mind of Jagannatha (v. 2), and Shachi received his splendour.
 
 ---
 
@@ -1416,7 +1415,7 @@ Bhaktisiddhanta Sarasvati.
 [^202-3]: A vaidya is a member of the physician caste. Mukunda Datta was a vaidya; "another vaidya" is apparently the author himself, Murari Gupta.
 [^202-4]: Bhagavad-gita 10.15.
 [^202-5]: Shvetashvatara Upanishad 3.19 (as the poem reads it). "Without hands and feet" here means without material hands and feet; the Lord's hands and feet are spiritual, and that is why He is "swift" and "grasps." So the Lord, having appeared as the Boar, laughs at the Veda for seemingly calling Him handless and footless: it has no power to describe Him directly (vv. 21, 24).
-[^202-am]: Here the Lord is in the mood of a devotee longing for Hari (v. 7), and the voice from above answers Him in keeping with that mood. "Portion" (amsha) does not diminish Him: the same voice calls Him Bhagavan, descended to bestow love (v. 9), and immediately afterwards He Himself reveals His nature as the Lord (v. 15). For Gaudiya Vaishnavas Sri Chaitanya is Krishna Himself in the mood of Radha (cf. 1.04, the note to v. 26).
+[^202-am]: Here the Lord is in the mood of a devotee longing for Hari (v. 7), and the voice from above answers Him in keeping with that mood. (amsha) does not diminish Him: the same voice calls Him Bhagavan, descended to bestow love (v. 9), and immediately afterwards He Himself reveals His nature as the Lord (v. 15). For Gaudiya Vaishnavas Sri Chaitanya is Krishna Himself in the mood of Radha (cf. 1.04, the note to v. 26).
 [^202-6]: Ambashtha is the name of the vaidya caste; here, Murari.
 [^202-7]: A verse of the Brihan-naradiya Purana. In verses 29–33 the Lord comments on its words.
 [^202-8]: "Na" (nā) means "man, person"; the explanation apparently plays on the beginning of the word nama ("name"). The sense of verses 29–32 is unclear in places; the translation is tentative.
@@ -2364,7 +2363,7 @@ Bhaktisiddhanta Sarasvati.
 *Thus ends the sixteenth sarga, "The Manifestation of All Energies" (Sarva-shakti-prakasha), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
 [^216-1]: The play in Chandrashekhara's house (see sarga 2.15) continues: Haridasa comes out first, staff in hand, like a herald or a watchman.
-[^216-2]: Advaita is called a "portion" (kala) of the Lord, as in 1.04.5; this does not diminish Him: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
+[^216-2]: (kala) of the Lord, as in 1.04.5; this does not diminish Him: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
 [^216-3]: Baladeva is Nityananda.
 [^216-4]: Vasudeva is a name of Krishna. The compound may also be understood as "in a special attire prepared by Vasudeva."
 [^216-5]: The breeze from the Malaya hills in South India, where sandalwood grows, is famed in poetry for its coolness and fragrance.
@@ -2500,10 +2499,9 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the eighteenth sarga, "The Prelude to Sannyasa" (Sannyasa-sutra), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita." Thus the second prakrama is complete.*
 
-
 [^218-1]: Murari suggests interpreting the sannyasa mantra, which speaks of identity with Brahman, through the genitive case: not "I am He" but "I am His," that is, the Lord's servant. This is how the Gaudiya Vaishnava tradition understands the great sayings of the Upanishads.
 [^218-2]: That is, skilful interpretation does not console the Lord: in the mood of a devotee He grieves that the sannyasa mantra, by its very sound, speaks of identity with Brahman.
-[^218-ad]: Cf. 2.16, the note to v. 4: "portion" (amsha) does not diminish Advaita — according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
+[^218-ad]: Cf. 2.16. (amsha) does not diminish Advaita — according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself (together with Sadashiva), non-different from the Lord.
 [^218-3]: The word sadhu here, as commonly in Bengal, means a merchant engaged in overseas trade.
 [^218-4]: The sense is unfolded in v. 29: the Lord bids Murari to serve Advaita Acharya diligently. It may also be understood as "you are always detached — so carry out My word."
 [^218-5]: Kantaka (Kantakanagara) is present-day Katwa on the bank of the Ganga.
@@ -2557,7 +2555,6 @@ Bhaktisiddhanta Sarasvati.
 **19.** Many such fair words and others besides passed in their talk with one another; drinking in the face of lotus-eyed Vishvambhara, they forgot their own bodies."
 
 *Thus ends the first sarga, "The Words of the Women of Kantakanagara" (Kantakanagara-nagari-vachana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^301-1]: Damodara Pandita, who questions Murari: the poem is framed as their dialogue.
 [^301-2]: Purushottama is Puri, the city of Jagannatha.
@@ -2615,7 +2612,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the second sarga, "The Purification of the Ashrama of Sannyasa" (Sannyasashrama-pavana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^302-1]: Literally "naked"; probably an image of shame: the Lord asks a blessing of them, His servants. The reading may be corrupt.
 [^302-2]: Nrihari is here Krishna: Gaura, playing the part of a devotee, accepts sannyasa in order to attain Him.
 [^302-3]: The Lord Himself speaks the mantra into Keshava Bharati's ear, as though initiating him, and only then receives it from him.
@@ -2672,7 +2668,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** Thus have I heard and seen the auspicious chanting of Sri Hari and the other deeds of Bhagavan, and I have told it all in full. This blessed account of Hari's glory grants every happiness to men.
 
 *Thus ends the third sarga, "Wandering in the Radha Country" (Radhadesha-bhramana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^303-1]: From here to the end of the sarga the narrator is Chandrashekhara Acharyaratna, who has returned to the devotees in Navadvipa (cf. Sargas 3.1 and 3.4).
 [^303-2]: The Abode of Shri (Shriniketana) — an epithet of the Lord as the abode of the goddess Lakshmi.
@@ -2767,7 +2762,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the fourth sarga, "Pastimes at Sri Advaita's House" (Shri-advaita-vati-vihara), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^304-1]: Keshava is here a name of the Lord (Krishna Chaitanya).
 [^304-2]: Pushpagrama ("Flower Village") — apparently Phuliya, a village near Shantipura.
 [^304-3]: "Peerless" (advitiya, literally "without a second") — a play on the name Advaita ("Non-dual").
@@ -2778,7 +2772,7 @@ Bhaktisiddhanta Sarasvati.
 [^304-8]: A blade of grass between the teeth is a sign of utter humility.
 [^304-9]: Advaita wonders that He feels no pain of separation and asks whether it is the Lord who holds His love in check; the Lord replies that if it showed itself in full, He would be unable to leave.
 [^304-10]: Gopinatha Acharya, a brahmana of Navadvipa who later met the Lord in Puri.
-[^304-ad]: "Portion" (amsha) does not diminish Advaita: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself, together with Sadashiva, non-different from the Lord (cf. 1.04, note to v. 5; 2.18, note to v. 29); "Shiva" here is Sadashiva, with whom Advaita is one.
+[^304-ad]: (amsha) does not diminish Advaita: according to Gaudiya Vaishnava teaching He is Maha-Vishnu Himself, together with Sadashiva, non-different from the Lord (cf. 1.04, note to v. 5; 2.18, note to v. 29); "Shiva" here is Sadashiva, with whom Advaita is one.
 [^304-11]: In Haridasa Dasa's edition (witness C) this verse comes after the next one, which is more natural to the sense.
 
 ---
@@ -2830,7 +2824,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** So saying, He took Him into His embrace and spoke sweetly: "You must always carry out just what I intend"[^305-6].
 
 *Thus ends the fifth sarga, "The Breaking of the Staff" (Danda-bhanjana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^305-1]: Kavya is the planet Venus (Shukra). Nityananda, walking in front, is compared to Venus, the Lord to the moon.
 [^305-2]: The narrator, Murari, is addressing Damodara (see Sarga 3.1).
@@ -2888,7 +2881,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** Whoever hears this holy account of Hari, which takes away all sins, will gain endless happiness, the fruit of pilgrimage and the fruit of all sacrificial rites at the holy places of the ancestors, and will be endowed with every virtue.
 
 *Thus ends the sixth sarga, "Wandering in the Southern Country" (Dakshinadesha-bhramana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^306-1]: Tamolipta (Tamralipta), an ancient port town in south-western Bengal (present-day Tamluk).
 [^306-2]: All the witnesses read "in Varanasi". Cf. the legend of the Deity Gopala who followed a brahmana in order to bear witness to the word given him.
@@ -2950,7 +2942,6 @@ Bhaktisiddhanta Sarasvati.
 **21.** Having beheld her, Krishna, the sole purifier of all the worlds, went on His way, singing the names of Krishna in sankirtana together with the company of His devotees.
 
 *Thus ends the seventh sarga, "Beholding Sri Viraja" (Shri-viraja-darshana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^307-1]: Literally "the Ambashtha", the vaidya (physician) caste to which Mukunda Datta belonged.
 [^307-2]: That is, Nityananda had wandered off on His own and turned up only later (v. 9).
@@ -3014,7 +3005,6 @@ Bhaktisiddhanta Sarasvati.
 **24.** Whoever recites this hymn to Purari, composed by the lotus-eyed Purushottama[^308-12], will gain even here eternal love, so hard to attain even for the hosts of sages and gods.
 
 *Thus ends the eighth sarga, "Beholding Mahadeva" (Mahadeva-darshana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^308-1]: Ekamraka (Ekamra) is Bhubaneshvara in Orissa, the holy city of Shiva. Girisha ("Lord of the Mountains") and Girija ("Daughter of the Mountains") are Shiva and Parvati; the "king of mountains" is the Himalaya, where Shiva dwells on Kailasa: here in Ekamraka he dwells just as he does there.
 [^308-2]: The White Mountain is Kailasa, the abode of Shiva.
@@ -3080,7 +3070,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the ninth sarga, "The Rule on Eating the Remnants of Offerings to Sri Shiva" (Shri-shiva-nirmalya-bhojana-vyavastha), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^309-1]: The Bindu lake is the Bindu-sarovara, the sacred pond of Bhubaneshvara (see Sarga 3.08, v. 7).
 [^309-2]: Bhuvaneshvara ("Lord of the Worlds") is Shiva as worshipped at Ekamraka (Krittivasa, Sarga 3.08); the town itself takes its name from him.
 [^309-3]: Nirmalya: the remnants (flowers, food, etc.) of offerings made to a deity.
@@ -3136,7 +3125,6 @@ Bhaktisiddhanta Sarasvati.
 **20.** People who hear and sing of these wondrous doings of the two of Them come to see the highest truth and reach the supreme abode of Murari, from which there is never again a fall.
 
 *Thus ends the tenth sarga, "Beholding Sri Purushottama" (Shri-purushottama-darshana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^310-1]: The Kapota-linga ("the linga of the dove"), a shrine of Shiva on the way from Bhubaneshvara to Puri.
 [^310-2]: The Bhargavi is a river in Orissa flowing near Puri.
@@ -3201,7 +3189,6 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the eleventh sarga, "The Glory of Sri Mahaprasada" (Shri-mahaprasada-mahima), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
 
-
 [^311-1]: The first line of this verse is metrically short in all the editions; the text seems damaged, though the sense is clear.
 [^311-2]: That is, away from the Deity of Jagannatha, out of the temple.
 [^311-3]: Narahari ("Hari in human form"): here a name of Krishna.
@@ -3252,7 +3239,6 @@ Bhaktisiddhanta Sarasvati.
 **19.** When Sarvabhauma had spoken thus, the Husband of Shri, who submits to His devotees, impulsively, with feeling and tenderness, took him by the hand, pressed him to His heart and embraced him with His two beautiful arms.
 
 *Thus ends the twelfth sarga, "Mercy to Sarvabhauma" (Sarvabhauma-anugraha), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^312-1]: Nrihari ("Hari in human form"): here Jagannatha.
 [^312-2]: The Lord of the ashramas: the Lord as a sannyasi, in the highest of the four ashramas.
@@ -3314,7 +3300,6 @@ Bhaktisiddhanta Sarasvati.
 **23.** And, embracing him while he was still speaking, the Lord, whose form is full of compassion and who is skilled in every way of comforting, consoled him with His love.
 
 *Thus ends the thirteenth sarga, "Consoling Sarvabhauma" (Sarvabhauma-santvana), of the third prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
-
 
 [^313-1]: Kashinatha Mishra (Kashi Mishra): a Vaishnava of Puri, in whose house the Lord later lived.
 [^313-2]: The Lord speaks in loving self-abasement: He explains His wish to leave such beauty by saying that Jagannatha has not granted Him the mercy to stay.

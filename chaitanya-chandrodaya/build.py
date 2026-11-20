@@ -7,6 +7,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('kb', os.path.join(HERE, '..', 'govinda-kadacha', 'build.py'))
 kb = importlib.util.module_from_spec(spec); spec.loader.exec_module(kb)
 
+# очистка сносок от рабочих пометок (OCR, PDF, «по скану», файлы) — общая с ../rasika-mangala/build.py
+_rmspec = importlib.util.spec_from_file_location('rm_clean', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'rasika-mangala', 'build.py'))
+RM = importlib.util.module_from_spec(_rmspec); _rmspec.loader.exec_module(RM)
+
 PREFACE_RU = """# Шри Чайтанья-чандродая
 
 *«Восход луны Чайтаньи»*
@@ -121,6 +125,7 @@ def build(lang):
         toc.append('- ' + text.splitlines()[0].lstrip('# ').strip())
         body.append(text)
     md = m['pre'] + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
+    md = RM.clean_md(md, lang)
     open(os.path.join(HERE, OUT + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
     kb.build_docx(blocks, os.path.join(HERE, OUT + '.docx'))

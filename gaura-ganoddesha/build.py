@@ -8,6 +8,10 @@ import importlib.util, os
 HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('kb', os.path.join(HERE, '..', 'govinda-kadacha', 'build.py'))
 kb = importlib.util.module_from_spec(spec); spec.loader.exec_module(kb)
+
+# очистка сносок от рабочих пометок (OCR, PDF, «по скану», файлы) — общая с ../rasika-mangala/build.py
+_rmspec = importlib.util.spec_from_file_location('rm_clean', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'rasika-mangala', 'build.py'))
+RM = importlib.util.module_from_spec(_rmspec); _rmspec.loader.exec_module(RM)
 spec2 = importlib.util.spec_from_file_location('cc', os.path.join(HERE, '..', 'chaitanya-chandramrita', 'build.py'))
 cc = importlib.util.module_from_spec(spec2); spec2.loader.exec_module(cc)
 
@@ -141,6 +145,7 @@ def build(out, preface, full=False, lang='ru'):
             text = cc.with_skt(text, load_skt(lang), lab=m['lab'])
         body.append(text)
     md = preface + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
+    md = RM.clean_md(md, lang)
     open(os.path.join(HERE, out + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
     kb.build_docx(blocks, os.path.join(HERE, out + '.docx'))

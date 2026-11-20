@@ -7447,6 +7447,53 @@
   "attestation": 4
  },
  {
+  "id": "jcv-0002",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 2, 1–83",
+  "file": "jagadisha-charitra-vijaya/ru/02.md",
+  "period": "P01",
+  "order": 2,
+  "title": "Рождение Джагадиши Пандита: дар Нараяны Камалакше и Бхагьявати",
+  "summary": "Бхагаватананда во сне велит автору описать житие Джагадиши; брахман Камалакша из восточного края и его жена Бхагьявати получают от Нараяны дар — сына-вайшнава; Джагадиша рождается в Бхима-экадаши; празднество, аннапрашана и наречение имени.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@kamalaksha-jagadisha",
+   "@bhagyavati",
+   "@ananda-dasa-jcv"
+  ],
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 10.73 (Джагадиша Пандит — ветвь Господа)",
+  "notes": "Рождение Джагадиши известно только из этого жития.",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "event": "ev-jagadisha-pandita-birth",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/02.md",
+    "from": "1",
+    "to": "83"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/02.md",
+    "from": "1",
+    "to": "83",
+    "line": 7,
+    "line_to": 255,
+    "count": 83,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/02.md?plain=1#L7-L255",
+    "file_en": "jagadisha-charitra-vijaya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/02.md?plain=1#L7-L255"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0013",
   "source": "jayananda-cm",
   "ref": "Надия-кханда, разд. 3 (фрагм. 3); статья Н. Васу 1897, «Состояние страны»",
@@ -7547,7 +7594,9 @@
     "line": 33,
     "line_to": 262,
     "count": 30,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L33-L262"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L33-L262",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L33-L262"
    }
   ],
   "cb": "Ади 2.56–77, 96–110; 16.1–15",
@@ -9068,6 +9117,52 @@
   "attestation": 2
  },
  {
+  "id": "jcv-0003",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 3, 1–57",
+  "file": "jagadisha-charitra-vijaya/ru/03.md",
+  "period": "P01",
+  "order": 3,
+  "title": "Детские игры, учёба и упанаяна Джагадиши",
+  "summary": "Младенец твердит имя Кришны и играет в санкиртану, лепит образ Кришны и поклоняется ему; в 5 лет начинает учиться, к 8 годам осваивает шастры, «Бхагавату» чтит как облик Кришны; упанаяна в 9 лет.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@kamalaksha-jagadisha",
+   "@bhagyavati"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "learning",
+   "family"
+  ],
+  "event": "ev-jagadisha-childhood-upanayana",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/03.md",
+    "from": "1",
+    "to": "57"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/03.md",
+    "from": "1",
+    "to": "57",
+    "line": 7,
+    "line_to": 191,
+    "count": 57,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/03.md?plain=1#L7-L191",
+    "file_en": "jagadisha-charitra-vijaya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/03.md?plain=1#L7-L191"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pvl-0190",
   "source": "prema-vilasa",
   "ref": "Виласа 23, 12–58",
@@ -9499,6 +9594,54 @@
   ],
   "cb": "Ади 2.78–95, 111–126; 11.52–68",
   "attestation": 8
+ },
+ {
+  "id": "jcv-0004",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 4, 1–138",
+  "file": "jagadisha-charitra-vijaya/ru/04.md",
+  "period": "P01",
+  "order": 4,
+  "title": "Спор с Видьянидхи Бхаттачарьей о Брахмане",
+  "summary": "Джагадиша учит брахманских юношей и делает их вайшнавами; пандит Видьянидхи доказывает, что Брахман бесформен (рассказ о Раме, Садашиве и Ханумане); Джагадиша опровергает его рассказом о том, что сияние — вибхути Рамы, «Бхагаватой», словами Шивы и Парвати и Гитой; Видьянидхи предаётся и обретает прему.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@vidyanidhi-bhattacharya-jcv"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "vedanta",
+   "bhakti-supremacy"
+  ],
+  "event": "ev-jagadisha-vidyanidhi-debate",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/04.md",
+    "from": "1",
+    "to": "138"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/04.md",
+    "from": "1",
+    "to": "138",
+    "line": 7,
+    "line_to": 434,
+    "count": 138,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/04.md?plain=1#L7-L434",
+    "file_en": "jagadisha-charitra-vijaya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/04.md?plain=1#L7-L434"
+   }
+  ],
+  "attestation": 1
  },
  {
   "id": "pvl-0224",
@@ -10004,6 +10147,53 @@
   "attestation": 8
  },
  {
+  "id": "jcv-0005",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 5, 1–77",
+  "file": "jagadisha-charitra-vijaya/ru/05.md",
+  "period": "P01",
+  "order": 5,
+  "title": "Свадьба Джагадиши и Духкхини",
+  "summary": "Рождение младшего брата Махеши; брахман Тапана сватает дочь Духкхини; обряды, процессия, каньядана и возвращение.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@mahesha-pandita",
+   "@tapana-pandita-jcv",
+   "@duhkhini-jagadisha"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-jagadisha-marriage-duhkhini",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/05.md",
+    "from": "1",
+    "to": "77"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/05.md",
+    "from": "1",
+    "to": "77",
+    "line": 7,
+    "line_to": 367,
+    "count": 77,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/05.md?plain=1#L7-L367",
+    "file_en": "jagadisha-charitra-vijaya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/05.md?plain=1#L7-L367"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0014",
   "source": "jayananda-cm",
   "ref": "Надия-кханда, разд. 4, 1–9 (фрагм. 4)",
@@ -10299,6 +10489,58 @@
   "attestation": 8
  },
  {
+  "id": "jcv-0006",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 6, 1–166",
+  "file": "jagadisha-charitra-vijaya/ru/06.md",
+  "period": "P01",
+  "order": 6,
+  "title": "Уход родителей и переселение в Навадвипу",
+  "summary": "Джагадиша наставляет престарелых родителей в слушании и воспевании, и они уходят в обитель Вишну; шраддха перед шалаграмой с маха-прасадом; ради жизни у Ганги он с Духкхини и Махешей переселяется в Навадвипу.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@duhkhini-jagadisha",
+   "@mahesha-pandita",
+   "@kamalaksha-jagadisha",
+   "@bhagyavati"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "family",
+   "departure",
+   "pilgrimage"
+  ],
+  "event": "ev-jagadisha-settles-navadvipa",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/06.md",
+    "from": "1",
+    "to": "166"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/06.md",
+    "from": "1",
+    "to": "166",
+    "line": 7,
+    "line_to": 529,
+    "count": 166,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/06.md?plain=1#L7-L529",
+    "file_en": "jagadisha-charitra-vijaya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/06.md?plain=1#L7-L529"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "mkc-0012",
   "source": "murari-kcc",
   "ref": "Пракрама 1, сарга 4, шлоки 13–16",
@@ -10348,6 +10590,71 @@
   "cc": "Ади 13",
   "cb": "Ади 2.28–55",
   "attestation": 8
+ },
+ {
+  "id": "jcv-0007",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 7, 1–25",
+  "file": "jagadisha-charitra-vijaya/ru/07.md",
+  "period": "P01",
+  "order": 7,
+  "title": "Явление Господа в доме Шачи; Духкхини нянчит Нимая",
+  "summary": "Джагадиша живёт рядом с Джаганнатхой Мишрой и молит о нисхождении; Господь является; Духкхини, подруга Шачи, нянчит Нимая.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@duhkhini-jagadisha",
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-advent-eclipse-devotees-rejoice",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "1",
+    "to": "25"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "1",
+    "to": "25",
+    "line": 7,
+    "line_to": 79,
+    "count": 25,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/07.md?plain=1#L7-L79",
+    "file_en": "jagadisha-charitra-vijaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/07.md?plain=1#L7-L79"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "ЧЧ Ади 13.89, 99–103: в час явления Господа (Шака 1407, пхалгуна-пурнима), во время лунного затмения",
+  "calendar": "пхалгуна, пурнима; лунное затмение",
+  "cc": "Ади 13.99–103",
+  "attestation": 2
  },
  {
   "id": "cc-0188",
@@ -10677,7 +10984,9 @@
     "line": 285,
     "line_to": 371,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L285-L371"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L285-L371",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L285-L371"
    }
   ],
   "attestation": 3
@@ -11236,7 +11545,9 @@
     "line": 394,
     "line_to": 480,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L394-L480"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L394-L480",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L394-L480"
    }
   ],
   "cc": "Ади 13",
@@ -12730,7 +13041,9 @@
     "line": 501,
     "line_to": 547,
     "count": 7,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L501-L547"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L501-L547",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L501-L547"
    }
   ],
   "years": [
@@ -13396,7 +13709,9 @@
     "line": 570,
     "line_to": 843,
     "count": 35,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L570-L843"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L570-L843",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L570-L843"
    }
   ],
   "years": [
@@ -14098,7 +14413,9 @@
     "line": 864,
     "line_to": 996,
     "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L864-L996"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L864-L996",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L864-L996"
    }
   ],
   "years": [
@@ -15067,7 +15384,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi13.md?plain=1#L997-L1077"
    }
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "brt-6013",
@@ -15349,7 +15666,9 @@
     "line": 1270,
     "line_to": 1337,
     "count": 9,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1270-L1337"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1270-L1337",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1283-L1350"
    }
   ],
   "years": [
@@ -17147,7 +17466,9 @@
     "line": 1019,
     "line_to": 1249,
     "count": 31,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1019-L1249"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1019-L1249",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1019-L1262"
    }
   ],
   "years": [
@@ -18406,7 +18727,9 @@
     "line": 1360,
     "line_to": 1404,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1360-L1404"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1360-L1404",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1373-L1417"
    }
   ],
   "cc": "Ади 14",
@@ -18834,7 +19157,9 @@
     "line": 1427,
     "line_to": 1517,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1427-L1517"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1427-L1517",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1440-L1534"
    }
   ],
   "cb": "Ади 4.77–83",
@@ -19878,7 +20203,9 @@
     "line": 1934,
     "line_to": 2003,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1934-L2003"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1934-L2003",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1947-L2020"
    }
   ],
   "cc": "Ади 14",
@@ -21165,7 +21492,127 @@
    1,
    5
   ],
-  "attestation": 5
+  "attestation": 6
+ },
+ {
+  "id": "jcv-0008",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 7, 26–71",
+  "file": "jagadisha-charitra-vijaya/ru/07.md",
+  "period": "P03",
+  "order": 8,
+  "title": "Нимай требует экадашное подношение Джагадиши и Хираньи",
+  "summary": "Плачущий Нимай требует найведью, приготовленную Джагадишей и Хираньей в экадаши, и съедает её.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagadisha-pandita",
+   "@hiranya-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "pranks",
+   "prasada"
+  ],
+  "event": "ev-jagadisha-hiranya-ekadashi",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "26",
+    "to": "71"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "26",
+    "to": "71",
+    "line": 82,
+    "line_to": 221,
+    "count": 46,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/07.md?plain=1#L82-L221",
+    "file_en": "jagadisha-charitra-vijaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/07.md?plain=1#L82-L221"
+   }
+  ],
+  "cc": "Ади 10.70–71; Ади 14",
+  "cb": "Ади 6.16–41",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "jcv-0009",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 7, 72–113",
+  "file": "jagadisha-charitra-vijaya/ru/07.md",
+  "period": "P03",
+  "order": 9,
+  "title": "Нимай открывается Джагадише и Духкхини",
+  "summary": "В другой экадаши Нимай съедает подношение во время пуджи Джагадиши; Духкхини видит четырёхрукий облик; Господь говорит, что они Его спутники из Двапара-юги.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagadisha-pandita",
+   "@duhkhini-jagadisha"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "revelation"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-jagadisha-ekadashi-revelation",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "72",
+    "to": "113"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "72",
+    "to": "113",
+    "line": 224,
+    "line_to": 349,
+    "count": 42,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/07.md?plain=1#L224-L349",
+    "file_en": "jagadisha-charitra-vijaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/07.md?plain=1#L224-L349"
+   }
+  ],
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 1
  },
  {
   "id": "brt-7015",
@@ -22336,7 +22783,9 @@
     "line": 1538,
     "line_to": 1779,
     "count": 28,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1538-L1779"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1538-L1779",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1555-L1796"
    }
   ],
   "cc": "Ади 14",
@@ -23354,7 +23803,9 @@
     "line": 1800,
     "line_to": 1911,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1800-L1911"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1800-L1911",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L1813-L1924"
    }
   ],
   "cc": "Ади 14",
@@ -24312,7 +24763,7 @@
    1,
    5
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "brt-7020",
@@ -24373,7 +24824,7 @@
    1,
    5
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "cb-0047",
@@ -24441,7 +24892,7 @@
    1,
    5
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "cc-0130",
@@ -24503,7 +24954,7 @@
    1,
    5
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "cc-0208",
@@ -24565,7 +25016,7 @@
    1,
    5
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "brt-6044",
@@ -25724,7 +26175,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "cb-2041",
@@ -26595,7 +27046,9 @@
     "line": 2024,
     "line_to": 2261,
     "count": 26,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2024-L2261"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2024-L2261",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L2037-L2274"
    }
   ],
   "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
@@ -28560,7 +29013,9 @@
     "line": 2284,
     "line_to": 2391,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2284-L2391"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2284-L2391",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L2301-L2404"
    }
   ],
   "cc": "Ади 14",
@@ -29446,7 +29901,9 @@
     "line": 2414,
     "line_to": 2571,
     "count": 20,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2414-L2571"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2414-L2571",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L2431-L2584"
    }
   ],
   "calendar": "экадаши",
@@ -29954,7 +30411,9 @@
     "line": 2594,
     "line_to": 2594,
     "count": 1,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2594-L2594"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2594-L2594",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L2611-L2611"
    }
   ],
   "cc": "Ади 15",
@@ -30317,7 +30776,9 @@
     "line": 2615,
     "line_to": 2728,
     "count": 15,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2615-L2728"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2615-L2728",
+    "file_en": "karnapura-mahakavya/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/02.md?plain=1#L2628-L2741"
    }
   ],
   "cc": "Ади 15",
@@ -31443,7 +31904,9 @@
     "line": 31,
     "line_to": 100,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L31-L100"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L31-L100",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L31-L100"
    }
   ],
   "cc": "Ади 15",
@@ -33601,7 +34064,9 @@
     "line": 123,
     "line_to": 253,
     "count": 15,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L123-L253"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L123-L253",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L123-L253"
    }
   ],
   "cc": "Ади 14",
@@ -34372,7 +34837,9 @@
     "line": 276,
     "line_to": 858,
     "count": 64,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L276-L858"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L276-L858",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L289-L861"
    }
   ],
   "cc": "Ади 15",
@@ -35326,7 +35793,9 @@
     "line": 880,
     "line_to": 1636,
     "count": 91,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L880-L1636"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L880-L1636",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L884-L1655"
    }
   ],
   "cc": "Ади 15",
@@ -36859,7 +37328,9 @@
     "line": 1657,
     "line_to": 1793,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L1657-L1793"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L1657-L1793",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L1676-L1813"
    }
   ],
   "cc": "Ади 15",
@@ -41082,7 +41553,9 @@
     "line": 1814,
     "line_to": 2096,
     "count": 32,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L1814-L2096"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L1814-L2096",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L1834-L2100"
    }
   ],
   "cc": "Ади 16",
@@ -42654,7 +43127,9 @@
     "line": 2117,
     "line_to": 2600,
     "count": 57,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2117-L2600"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2117-L2600",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L2108-L2607"
    }
   ],
   "cc": "Ади 16",
@@ -43223,7 +43698,9 @@
     "line": 2621,
     "line_to": 2774,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2621-L2774"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2621-L2774",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L2628-L2781"
    }
   ],
   "cc": "Ади 16",
@@ -43657,7 +44134,9 @@
     "line": 2795,
     "line_to": 2969,
     "count": 21,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2795-L2969"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2795-L2969",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L2802-L2978"
    }
   ],
   "cb": "Ади 15.38–67",
@@ -44471,7 +44950,9 @@
     "line": 2990,
     "line_to": 3166,
     "count": 21,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2990-L3166"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2990-L3166",
+    "file_en": "karnapura-mahakavya/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/03.md?plain=1#L2986-L3158"
    }
   ],
   "cc": "Ади 16",
@@ -47014,7 +47495,9 @@
     "line": 26,
     "line_to": 455,
     "count": 58,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L26-L455"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L26-L455",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L25-L462"
    }
   ],
   "cc": "Ади 17",
@@ -47618,7 +48101,9 @@
     "line": 478,
     "line_to": 545,
     "count": 9,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L478-L545"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L478-L545",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L485-L552"
    }
   ],
   "cc": "Ади 17",
@@ -47799,7 +48284,9 @@
     "line": 568,
     "line_to": 1111,
     "count": 71,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L568-L1111"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L568-L1111",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L575-L1126"
    }
   ],
   "years": [
@@ -48214,7 +48701,9 @@
     "line": 1134,
     "line_to": 1247,
     "count": 15,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1134-L1247"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1134-L1247",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L1149-L1262"
    }
   ],
   "cb": "Ади 17.16–27",
@@ -48844,7 +49333,9 @@
     "line": 1270,
     "line_to": 1381,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1270-L1381"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1270-L1381",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L1285-L1392"
    }
   ],
   "cc": "Ади 17",
@@ -49326,7 +49817,9 @@
     "line": 1404,
     "line_to": 1496,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1404-L1496"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1404-L1496",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L1415-L1507"
    }
   ],
   "cb": "Ади 17.28–45, 64–79",
@@ -49788,7 +50281,9 @@
     "line": 1519,
     "line_to": 1541,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1519-L1541"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1519-L1541",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L1530-L1553"
    }
   ],
   "cb": "Ади 17.113–140",
@@ -49979,7 +50474,9 @@
     "line": 1562,
     "line_to": 1743,
     "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1562-L1743"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/04.md?plain=1#L1562-L1743",
+    "file_en": "karnapura-mahakavya/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/04.md?plain=1#L1574-L1760"
    }
   ],
   "cb": "Ади 17.113–140",
@@ -50376,6 +50873,69 @@
   "attestation": 8
  },
  {
+  "id": "jcv-0010",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 7, 114–130",
+  "file": "jagadisha-charitra-vijaya/ru/07.md",
+  "period": "P07",
+  "order": 10,
+  "title": "Господь посылает Джагадишу в Нилачалу",
+  "summary": "После киртанов у Шривасы и усмирения Кази Господь открывает Джагадише, что примет санньясу, и велит идти в Нилачалу.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagadisha-pandita",
+   "@srivasa",
+   "@chand-kazi",
+   "@duhkhini-jagadisha",
+   "@mahesha-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-srivasa",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "sannyasa",
+   "kirtan"
+  ],
+  "event": "ev-jagadisha-sent-nilachala",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "114",
+    "to": "130"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/07.md",
+    "from": "114",
+    "to": "130",
+    "line": 352,
+    "line_to": 400,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/07.md?plain=1#L352-L400",
+    "file_en": "jagadisha-charitra-vijaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/07.md?plain=1#L352-L400"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0037",
   "source": "jayananda-cm",
   "ref": "Надия-кханда: «После возвращения из Гаи», «Толки о его безумии» (цитаты)",
@@ -50498,7 +51058,9 @@
     "line": 206,
     "line_to": 317,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L206-L317"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L206-L317",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L205-L316"
    }
   ],
   "cc": "Ади 17",
@@ -50701,6 +51263,67 @@
    24
   ],
   "attestation": 8
+ },
+ {
+  "id": "jcv-0011",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 8, 1–84",
+  "file": "jagadisha-charitra-vijaya/ru/08.md",
+  "period": "P07",
+  "order": 11,
+  "title": "Джагадиша приносит Джаганнатху в Яшоду",
+  "summary": "Путь в Пури через Ремуну и Катак; Джагадиша просит у Джаганнатхи прежнее тело Божества из Койли-вайкунтхи, и Господь соглашается ехать у него на спине; с позволения царя он один несёт Его в Яшоду; местный царь не может сдвинуть Божество, просит прощения и даёт землю.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@mahesha-pandita",
+   "@duhkhini-jagadisha"
+  ],
+  "places": [
+   "#remuna",
+   "#puri",
+   "#yashoda-gram"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "jagannatha",
+   "deities",
+   "pilgrimage"
+  ],
+  "event": "ev-jagadisha-brings-jagannatha-yashoda",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/08.md",
+    "from": "1",
+    "to": "84"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/08.md",
+    "from": "1",
+    "to": "84",
+    "line": 7,
+    "line_to": 328,
+    "count": 84,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/08.md?plain=1#L7-L328",
+    "file_en": "jagadisha-charitra-vijaya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/08.md?plain=1#L7-L328"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "jcm-0038",
@@ -50982,7 +51605,9 @@
     "line": 36,
     "line_to": 185,
     "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L36-L185"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L36-L185",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L35-L184"
    }
   ],
   "cc": "Ади 17.71",
@@ -51043,7 +51668,9 @@
     "line": 1813,
     "line_to": 2014,
     "count": 26,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L1813-L2014"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L1813-L2014",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L1830-L2050"
    }
   ],
   "cc": "Ади 17.71",
@@ -54744,7 +55371,9 @@
     "line": 340,
     "line_to": 476,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L340-L476"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L340-L476",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L339-L488"
    }
   ],
   "cc": "Ади 17",
@@ -55021,7 +55650,9 @@
     "line": 44,
     "line_to": 175,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L44-L175"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L44-L175",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L44-L189"
    }
   ],
   "cc": "Ади 17",
@@ -55581,7 +56212,9 @@
     "line": 198,
     "line_to": 267,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L198-L267"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L198-L267",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L212-L285"
    }
   ],
   "cc": "Ади 10, 17",
@@ -56492,7 +57125,9 @@
     "line": 288,
     "line_to": 332,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L288-L332"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L288-L332",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L302-L350"
    }
   ],
   "years": [
@@ -56852,7 +57487,9 @@
     "line": 353,
     "line_to": 623,
     "count": 34,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L353-L623"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L353-L623",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L367-L641"
    }
   ],
   "cc": "Ади 17",
@@ -57148,7 +57785,9 @@
     "line": 1957,
     "line_to": 2204,
     "count": 31,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1957-L2204"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1957-L2204",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1983-L2243"
    }
   ],
   "cb": "Мадхья 8.77–95",
@@ -57203,7 +57842,9 @@
     "line": 880,
     "line_to": 1080,
     "count": 25,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L880-L1080"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L880-L1080",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L885-L1086"
    }
   ],
   "cb": "Мадхья 8.77–95",
@@ -60818,7 +61459,9 @@
     "line": 644,
     "line_to": 779,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L644-L779"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L644-L779",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L658-L798"
    }
   ],
   "cc": "Ади 17",
@@ -61067,7 +61710,9 @@
     "line": 802,
     "line_to": 932,
     "count": 17,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L802-L932"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L802-L932",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L821-L951"
    }
   ],
   "years": [
@@ -61805,7 +62450,9 @@
     "line": 955,
     "line_to": 1047,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L955-L1047"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L955-L1047",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L974-L1066"
    }
   ],
   "years": [
@@ -62119,7 +62766,9 @@
     "line": 2652,
     "line_to": 2878,
     "count": 29,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L2652-L2878"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L2652-L2878",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L2676-L2902"
    }
   ],
   "cc": "Ади 10",
@@ -62168,7 +62817,9 @@
     "line": 1070,
     "line_to": 1091,
     "count": 3,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1070-L1091"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1070-L1091",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1102-L1123"
    }
   ],
   "cc": "Ади 10",
@@ -62599,7 +63250,9 @@
     "line": 1112,
     "line_to": 1180,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1112-L1180"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1112-L1180",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1131-L1200"
    }
   ],
   "cc": "Ади 17",
@@ -63035,7 +63688,9 @@
     "line": 1203,
     "line_to": 1404,
     "count": 25,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1203-L1404"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1203-L1404",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1223-L1424"
    }
   ],
   "cb": "Мадхья 2.126–158",
@@ -63352,7 +64007,9 @@
     "line": 1427,
     "line_to": 1602,
     "count": 23,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1427-L1602"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1427-L1602",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1447-L1627"
    }
   ],
   "years": [
@@ -63658,7 +64315,9 @@
     "line": 1625,
     "line_to": 1715,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1625-L1715"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1625-L1715",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1663-L1753"
    }
   ],
   "years": [
@@ -64414,7 +65073,9 @@
     "line": 499,
     "line_to": 702,
     "count": 27,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L499-L702"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L499-L702",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L511-L716"
    }
   ],
   "cb": "Мадхья 6",
@@ -64475,7 +65136,9 @@
     "line": 1736,
     "line_to": 1934,
     "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1736-L1934"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L1736-L1934",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L1761-L1960"
    }
   ],
   "cb": "Мадхья 6",
@@ -66018,7 +66681,9 @@
     "line": 2225,
     "line_to": 2292,
     "count": 9,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L2225-L2292"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L2225-L2292",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L2264-L2327"
    }
   ],
   "cc": "Ади 17",
@@ -66394,7 +67059,9 @@
     "line": 2332,
     "line_to": 2397,
     "count": 8,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L2332-L2397"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L2332-L2397",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L2358-L2436"
    }
   ],
   "years": [
@@ -67342,7 +68009,9 @@
     "line": 2418,
     "line_to": 2641,
     "count": 28,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L2418-L2641"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/06.md?plain=1#L2418-L2641",
+    "file_en": "karnapura-mahakavya/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L2444-L2668"
    }
   ],
   "cc": "Ади 17",
@@ -69762,7 +70431,9 @@
     "line": 42,
     "line_to": 291,
     "count": 33,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L42-L291"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L42-L291",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L42-L293"
    }
   ],
   "years": [
@@ -70007,7 +70678,9 @@
     "line": 312,
     "line_to": 561,
     "count": 33,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L312-L561"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L312-L561",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L314-L578"
    }
   ],
   "years": [
@@ -70185,7 +70858,9 @@
     "line": 584,
     "line_to": 674,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L584-L674"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L584-L674",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L601-L678"
    }
   ],
   "years": [
@@ -71587,7 +72262,9 @@
     "line": 696,
     "line_to": 857,
     "count": 20,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L696-L857"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L696-L857",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L701-L862"
    }
   ],
   "years": [
@@ -74197,7 +74874,9 @@
     "line": 1103,
     "line_to": 1193,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1103-L1193"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1103-L1193",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1109-L1195"
    }
   ],
   "years": [
@@ -74494,7 +75173,9 @@
     "line": 1216,
     "line_to": 1304,
     "count": 11,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1216-L1304"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1216-L1304",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1218-L1306"
    }
   ],
   "cb": "Мадхья 12.1–31",
@@ -74736,7 +75417,9 @@
     "line": 1325,
     "line_to": 1481,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1325-L1481"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1325-L1481",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1327-L1484"
    }
   ],
   "years": [
@@ -74788,7 +75471,9 @@
     "line": 1502,
     "line_to": 1502,
     "count": 1,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1502-L1502"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1502-L1502",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1505-L1505"
    }
   ],
   "years": [
@@ -75284,7 +75969,9 @@
     "line": 1525,
     "line_to": 1569,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1525-L1569"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1525-L1569",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1528-L1572"
    }
   ],
   "cb": "Мадхья 12.32–63",
@@ -75499,7 +76186,9 @@
     "line": 1590,
     "line_to": 1699,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1590-L1699"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1590-L1699",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1593-L1702"
    }
   ],
   "years": [
@@ -79526,7 +80215,9 @@
     "line": 1720,
     "line_to": 1763,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1720-L1763"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1720-L1763",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1723-L1767"
    }
   ],
   "years": [
@@ -79962,7 +80653,9 @@
     "line": 1784,
     "line_to": 1914,
     "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1784-L1914"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1784-L1914",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1788-L1920"
    }
   ],
   "cc": "Ади 17",
@@ -80328,7 +81021,9 @@
     "line": 1935,
     "line_to": 2025,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1935-L2025"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L1935-L2025",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L1941-L2031"
    }
   ],
   "cc": "Ади 17",
@@ -80879,7 +81574,9 @@
     "line": 2048,
     "line_to": 2183,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2048-L2183"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2048-L2183",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L2054-L2190"
    }
   ],
   "cc": "Ади 17",
@@ -81621,7 +82318,9 @@
     "line": 725,
     "line_to": 1167,
     "count": 52,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L725-L1167"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L725-L1167",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L739-L1181"
    }
   ],
   "cc": "Ади 17",
@@ -81677,7 +82376,9 @@
     "line": 1189,
     "line_to": 1792,
     "count": 74,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L1189-L1792"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L1189-L1792",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L1204-L1809"
    }
   ],
   "cc": "Ади 17",
@@ -81736,7 +82437,9 @@
     "line": 2035,
     "line_to": 2631,
     "count": 72,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L2035-L2631"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L2035-L2631",
+    "file_en": "karnapura-mahakavya/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/05.md?plain=1#L2058-L2659"
    }
   ],
   "cc": "Ади 17",
@@ -81796,7 +82499,9 @@
     "line": 2206,
     "line_to": 2401,
     "count": 26,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2206-L2401"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2206-L2401",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L2213-L2410"
    }
   ],
   "cc": "Ади 17",
@@ -83712,7 +84417,9 @@
     "line": 2422,
     "line_to": 2422,
     "count": 1,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2422-L2422"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2422-L2422",
+    "file_en": "karnapura-mahakavya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/07.md?plain=1#L2418-L2418"
    }
   ],
   "years": [
@@ -84160,7 +84867,9 @@
     "line": 26,
     "line_to": 187,
     "count": 23,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L26-L187"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L26-L187",
+    "file_en": "karnapura-mahakavya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/08.md?plain=1#L26-L187"
    }
   ],
   "cc": "Ади 17",
@@ -84527,7 +85236,9 @@
     "line": 204,
     "line_to": 297,
     "count": 15,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L204-L297"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L204-L297",
+    "file_en": "karnapura-mahakavya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/08.md?plain=1#L204-L297"
    }
   ],
   "cc": "Ади 17",
@@ -85018,7 +85729,9 @@
     "line": 316,
     "line_to": 670,
     "count": 53,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L316-L670"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L316-L670",
+    "file_en": "karnapura-mahakavya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/08.md?plain=1#L316-L663"
    }
   ],
   "cc": "Ади 17",
@@ -85079,7 +85792,9 @@
     "line": 688,
     "line_to": 1016,
     "count": 48,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L688-L1016"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L688-L1016",
+    "file_en": "karnapura-mahakavya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/08.md?plain=1#L682-L1010"
    }
   ],
   "cc": "Ади 17",
@@ -85595,7 +86310,9 @@
     "line": 1035,
     "line_to": 1169,
     "count": 19,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L1035-L1169"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/08.md?plain=1#L1035-L1169",
+    "file_en": "karnapura-mahakavya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/08.md?plain=1#L1029-L1164"
    }
   ],
   "cc": "Ади 17",
@@ -85791,7 +86508,9 @@
     "line": 26,
     "line_to": 1112,
     "count": 136,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/09.md?plain=1#L26-L1112"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/09.md?plain=1#L26-L1112",
+    "file_en": "karnapura-mahakavya/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/09.md?plain=1#L26-L1125"
    }
   ],
   "years": [
@@ -85850,7 +86569,9 @@
     "line": 1135,
     "line_to": 2109,
     "count": 117,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/09.md?plain=1#L1135-L2109"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/09.md?plain=1#L1135-L2109",
+    "file_en": "karnapura-mahakavya/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/09.md?plain=1#L1152-L2147"
    }
   ],
   "years": [
@@ -85909,7 +86630,9 @@
     "line": 25,
     "line_to": 996,
     "count": 117,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/10.md?plain=1#L25-L996"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/10.md?plain=1#L25-L996",
+    "file_en": "karnapura-mahakavya/en/10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/10.md?plain=1#L25-L1018"
    }
   ],
   "years": [
@@ -108253,7 +108976,9 @@
     "line": 30,
     "line_to": 526,
     "count": 62,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L30-L526"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L30-L526",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L30-L530"
    }
   ],
   "cc": "Ади 10, 17",
@@ -108314,7 +109039,9 @@
     "line": 547,
     "line_to": 841,
     "count": 38,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L547-L841"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L547-L841",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L551-L848"
    }
   ],
   "cc": "Ади 10, 17",
@@ -109447,7 +110174,9 @@
     "line": 862,
     "line_to": 884,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L862-L884"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L862-L884",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L869-L892"
    }
   ],
   "years": [
@@ -111092,7 +111821,9 @@
     "line": 907,
     "line_to": 952,
     "count": 7,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L907-L952"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L907-L952",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L915-L961"
    }
   ],
   "years": [
@@ -111385,7 +112116,9 @@
     "line": 975,
     "line_to": 998,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L975-L998"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L975-L998",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L984-L1007"
    }
   ],
   "cc": "Ади 17",
@@ -111912,7 +112645,9 @@
     "line": 1021,
     "line_to": 1042,
     "count": 3,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1021-L1042"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1021-L1042",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1030-L1051"
    }
   ],
   "cb": "Мадхья 26; Мадхья 27",
@@ -113501,7 +114236,9 @@
     "line": 1948,
     "line_to": 1992,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1948-L1992"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1948-L1992",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1958-L2002"
    }
   ],
   "years": [
@@ -113687,7 +114424,9 @@
     "line": 1065,
     "line_to": 1065,
     "count": 1,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1065-L1065"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1065-L1065",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1074-L1074"
    }
   ],
   "years": [
@@ -115497,7 +116236,9 @@
     "line": 1088,
     "line_to": 1130,
     "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1088-L1130"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1088-L1130",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1097-L1139"
    }
   ],
   "cb": "Мадхья 28",
@@ -117074,7 +117815,9 @@
     "line": 1153,
     "line_to": 1284,
     "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1153-L1284"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1153-L1284",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1162-L1294"
    }
   ],
   "years": [
@@ -119366,7 +120109,9 @@
     "line": 1306,
     "line_to": 1371,
     "count": 8,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1306-L1371"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1306-L1371",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1317-L1382"
    }
   ],
   "years": [
@@ -119689,6 +120434,129 @@
    24
   ],
   "attestation": 9
+ },
+ {
+  "id": "jcv-0012",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 9, 1–112",
+  "file": "jagadisha-charitra-vijaya/ru/09.md",
+  "period": "P09",
+  "order": 12,
+  "title": "Ночной приход Махапрабху и Нитьянанды в Яшоду",
+  "summary": "После санньясы Господь из Шантипура приходит с Нитьянандой к Джагадише; корова сама даёт молоко, манго в пауше, рыба из реки для Нитьянанды; Духкхини мешает паясу рукой, а обжигается рука Господа; трое сыновей Джагадиши, нарушившие чистоту подношения, по его молитве оставляют тела и входят в Господа.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda",
+   "@jagadisha-pandita",
+   "@duhkhini-jagadisha",
+   "@mahesha-pandita"
+  ],
+  "places": [
+   "#katwa",
+   "#shantipura",
+   "#yashoda-gram"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "prasada",
+   "mercy"
+  ],
+  "event": "ev-lord-visits-yashoda",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/09.md",
+    "from": "1",
+    "to": "112"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/09.md",
+    "from": "1",
+    "to": "112",
+    "line": 7,
+    "line_to": 342,
+    "count": 112,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/09.md?plain=1#L7-L342",
+    "file_en": "jagadisha-charitra-vijaya/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/09.md?plain=1#L7-L342"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "jcv-0013",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 10, 1–138",
+  "file": "jagadisha-charitra-vijaya/ru/10.md",
+  "period": "P09",
+  "order": 13,
+  "title": "Явление Гаура-Гопалы в Яшоде",
+  "summary": "По слову Господа мастер за одну ночь являет Божество Господа-младенца; Духкхини находит плачущего Нимая и кормит его; Господь вновь приходит, учит, что не отличен от Своего Божества и преданного; Нитьянанда видит Гопалу у груди Духкхини; она выбирает служение Гаура-Гопалу.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda",
+   "@duhkhini-jagadisha",
+   "@jagadisha-pandita"
+  ],
+  "places": [
+   "#shantipura",
+   "#yashoda-gram"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "deities",
+   "revelation",
+   "teaching"
+  ],
+  "event": "ev-gaura-gopala-yashoda",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/10.md",
+    "from": "1",
+    "to": "138"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/10.md",
+    "from": "1",
+    "to": "138",
+    "line": 7,
+    "line_to": 418,
+    "count": 138,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/10.md?plain=1#L7-L418",
+    "file_en": "jagadisha-charitra-vijaya/en/10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/10.md?plain=1#L7-L418"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "cb-3007",
@@ -122285,7 +123153,9 @@
     "line": 1392,
     "line_to": 1436,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1392-L1436"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1392-L1436",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1403-L1447"
    }
   ],
   "cc": "Мадхья 3",
@@ -123320,7 +124190,9 @@
     "line": 1457,
     "line_to": 1545,
     "count": 11,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1457-L1545"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1457-L1545",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1468-L1556"
    }
   ],
   "cc": "Мадхья 3",
@@ -124718,7 +125590,9 @@
     "line": 1566,
     "line_to": 1676,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1566-L1676"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1566-L1676",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1577-L1688"
    }
   ],
   "cc": "Мадхья 3",
@@ -126464,7 +127338,9 @@
     "line": 1699,
     "line_to": 1720,
     "count": 3,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1699-L1720"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1699-L1720",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1711-L1728"
    }
   ],
   "cc": "Мадхья 3",
@@ -127848,7 +128724,9 @@
     "line": 1743,
     "line_to": 1743,
     "count": 1,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1743-L1743"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1743-L1743",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1751-L1751"
    }
   ],
   "cc": "Мадхья 4",
@@ -128922,7 +129800,9 @@
     "line": 1766,
     "line_to": 1766,
     "count": 1,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1766-L1766"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1766-L1766",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1774-L1774"
    }
   ],
   "cc": "Мадхья 5",
@@ -129099,7 +129979,9 @@
     "line": 1788,
     "line_to": 1811,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1797-L1820"
    }
   ],
   "cc": "Мадхья 5",
@@ -129402,7 +130284,9 @@
     "line": 1834,
     "line_to": 1880,
     "count": 7,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1834-L1880"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1834-L1880",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1843-L1889"
    }
   ],
   "cb": "Антья 2",
@@ -131135,7 +132019,9 @@
     "line": 29,
     "line_to": 205,
     "count": 21,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L29-L205"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L29-L205",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L29-L201"
    }
   ],
   "cc": "Мадхья 6",
@@ -131192,7 +132078,9 @@
     "line": 2070,
     "line_to": 2179,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2070-L2179"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2070-L2179",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L2078-L2174"
    }
   ],
   "cc": "Мадхья 7",
@@ -132140,7 +133028,9 @@
     "line": 1902,
     "line_to": 1925,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1902-L1925"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1902-L1925",
+    "file_en": "karnapura-mahakavya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/11.md?plain=1#L1912-L1935"
    }
   ],
   "years": [
@@ -132199,7 +133089,9 @@
     "line": 2202,
     "line_to": 2575,
     "count": 41,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2202-L2575"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2202-L2575",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L2210-L2583"
    }
   ],
   "cc": "Мадхья 7",
@@ -132979,6 +133871,68 @@
   "attestation": 2
  },
  {
+  "id": "jcv-0014",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 11, 1–37",
+  "file": "jagadisha-charitra-vijaya/ru/11.md",
+  "period": "P10",
+  "order": 14,
+  "title": "Джагадиша — Нритья-виноди; Нитьянанду посылают в Гауду",
+  "summary": "По пути в Нилачалу Джагадиша танцует впереди киртана и получает имя Нритья-виноди; после Юга Господь посылает Нитьянанду с Джагадишей, Рамадасом и Гададхарой в Гауду и велит Бхагавану Ачарье жить домохозяином.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagadisha-pandita",
+   "@nityananda",
+   "@abhirama",
+   "@gadadhara-dasa",
+   "@bhagavan-acharya",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-jagadisha-nritya-vinodi",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/11.md",
+    "from": "1",
+    "to": "37"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/11.md",
+    "from": "1",
+    "to": "37",
+    "line": 7,
+    "line_to": 185,
+    "count": 37,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/11.md?plain=1#L7-L185",
+    "file_en": "jagadisha-charitra-vijaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/11.md?plain=1#L7-L185"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "dvk-0008",
   "source": "divakara-jcm",
   "ref": "Гл. 3, 1–57",
@@ -133534,7 +134488,9 @@
     "line": 2596,
     "line_to": 2665,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2596-L2665"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2596-L2665",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L2604-L2673"
    }
   ],
   "cc": "Мадхья 8",
@@ -133906,7 +134862,9 @@
     "line": 2688,
     "line_to": 2844,
     "count": 21,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2688-L2844"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2688-L2844",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L2696-L2855"
    }
   ],
   "years": [
@@ -134714,7 +135672,9 @@
     "line": 226,
     "line_to": 756,
     "count": 65,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L226-L756"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L226-L756",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L222-L758"
    }
   ],
   "cc": "Мадхья 6",
@@ -134774,7 +135734,9 @@
     "line": 1304,
     "line_to": 1696,
     "count": 45,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L1304-L1696"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L1304-L1696",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L1296-L1690"
    }
   ],
   "cc": "Мадхья 6",
@@ -134839,7 +135801,9 @@
     "line": 1717,
     "line_to": 2047,
     "count": 39,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L1717-L2047"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L1717-L2047",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L1711-L2042"
    }
   ],
   "cc": "Мадхья 6",
@@ -134896,7 +135860,9 @@
     "line": 2867,
     "line_to": 2957,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2867-L2957"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L2867-L2957",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L2878-L2968"
    }
   ],
   "cc": "Мадхья 8",
@@ -135666,7 +136632,9 @@
     "line": 778,
     "line_to": 1283,
     "count": 57,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L778-L1283"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/12.md?plain=1#L778-L1283",
+    "file_en": "karnapura-mahakavya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/12.md?plain=1#L781-L1275"
    }
   ],
   "years": [
@@ -143296,7 +144264,9 @@
     "line": 47,
     "line_to": 201,
     "count": 20,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L47-L201"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L47-L201",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L47-L204"
    }
   ],
   "years": [
@@ -144295,7 +145265,9 @@
     "line": 337,
     "line_to": 383,
     "count": 7,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L337-L383"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L337-L383",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L340-L386"
    }
   ],
   "cc": "Мадхья 9",
@@ -144695,7 +145667,9 @@
     "line": 406,
     "line_to": 450,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L406-L450"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L406-L450",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L409-L453"
    }
   ],
   "cc": "Мадхья 9",
@@ -145003,7 +145977,9 @@
     "line": 224,
     "line_to": 314,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L224-L314"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L224-L314",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L227-L317"
    }
   ],
   "cc": "Мадхья 9",
@@ -145287,7 +146263,9 @@
     "line": 715,
     "line_to": 759,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L715-L759"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L715-L759",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L732-L776"
    }
   ],
   "cc": "Мадхья 9",
@@ -145866,7 +146844,9 @@
     "line": 473,
     "line_to": 694,
     "count": 27,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L473-L694"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L473-L694",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L476-L711"
    }
   ],
   "cc": "Мадхья 9",
@@ -149805,7 +150785,9 @@
     "line": 780,
     "line_to": 1142,
     "count": 42,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L780-L1142"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L780-L1142",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L797-L1164"
    }
   ],
   "cc": "Мадхья 8",
@@ -150492,7 +151474,9 @@
     "line": 1433,
     "line_to": 1634,
     "count": 25,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1433-L1634"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1433-L1634",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L1442-L1643"
    }
   ],
   "cc": "Мадхья 10",
@@ -151413,7 +152397,9 @@
     "line": 2484,
     "line_to": 2841,
     "count": 45,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L2484-L2841"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L2484-L2841",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L2496-L2856"
    }
   ],
   "cc": "Мадхья 10",
@@ -151472,7 +152458,9 @@
     "line": 2863,
     "line_to": 3066,
     "count": 26,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L2863-L3066"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L2863-L3066",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L2879-L3082"
    }
   ],
   "cc": "Мадхья 10",
@@ -151526,7 +152514,9 @@
     "line": 3089,
     "line_to": 3242,
     "count": 19,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L3089-L3242"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L3089-L3242",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L3105-L3260"
    }
   ],
   "cc": "Мадхья 10",
@@ -151586,7 +152576,9 @@
     "line": 3264,
     "line_to": 3332,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L3264-L3332"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L3264-L3332",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L3283-L3352"
    }
   ],
   "cc": "Мадхья 10",
@@ -152661,7 +153653,9 @@
     "line": 2028,
     "line_to": 2461,
     "count": 49,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L2028-L2461"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L2028-L2461",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L2037-L2473"
    }
   ],
   "years": [
@@ -154673,6 +155667,66 @@
   "attestation": 1
  },
  {
+  "id": "jcv-0015",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 11, 38–106",
+  "file": "jagadisha-charitra-vijaya/ru/11.md",
+  "period": "P12",
+  "order": 15,
+  "title": "Рагхунатха Ачарья: рождение, посвящение, обучение",
+  "summary": "У Бхагавана Ачарьи рождается Рагхунатха и отдан Джагадише; посвящение его и Камалаканты; наставление Махапрабху: Кришна — полный Брахман, Чайтанья — Кришна, садху-санга, навадха-бхакти, гуру, сиддха-деха.",
+  "persons": [
+   "@raghunatha-acharya-jcv",
+   "@bhagavan-acharya",
+   "@jagadisha-pandita",
+   "@kamalakanta-durgapur"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "associates-tattva"
+  ],
+  "event": "ev-raghunatha-acharya-initiation",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/11.md",
+    "from": "38",
+    "to": "106"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/11.md",
+    "from": "38",
+    "to": "106",
+    "line": 188,
+    "line_to": 398,
+    "count": 69,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/11.md?plain=1#L188-L398",
+    "file_en": "jagadisha-charitra-vijaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/11.md?plain=1#L188-L398"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cb-3102",
   "source": "cb",
   "ref": "Антья 8, 3–46",
@@ -154989,7 +156043,9 @@
     "line": 1165,
     "line_to": 1364,
     "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L1187-L1373"
    }
   ],
   "calendar": "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава",
@@ -155611,7 +156667,9 @@
     "line": 32,
     "line_to": 193,
     "count": 22,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L32-L193"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L32-L193",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L32-L189"
    }
   ],
   "cc": "Мадхья 11",
@@ -155677,7 +156735,9 @@
     "line": 211,
     "line_to": 749,
     "count": 73,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L211-L749"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L211-L749",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L208-L737"
    }
   ],
   "cc": "Мадхья 11",
@@ -155738,7 +156798,9 @@
     "line": 1037,
     "line_to": 1200,
     "count": 25,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L1037-L1200"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L1037-L1200",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L1025-L1186"
    }
   ],
   "cc": "Мадхья 11",
@@ -155795,7 +156857,9 @@
     "line": 1219,
     "line_to": 1495,
     "count": 41,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L1219-L1495"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L1219-L1495",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L1209-L1480"
    }
   ],
   "cc": "Мадхья 11",
@@ -155858,7 +156922,9 @@
     "line": 1512,
     "line_to": 2079,
     "count": 76,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L1512-L2079"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L1512-L2079",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L1501-L2059"
    }
   ],
   "cc": "Мадхья 11",
@@ -156378,7 +157444,9 @@
     "line": 768,
     "line_to": 1018,
     "count": 35,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L768-L1018"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L768-L1018",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L756-L1006"
    }
   ],
   "years": [
@@ -156766,7 +157834,9 @@
     "line": 143,
     "line_to": 301,
     "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L143-L301"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L143-L301",
+    "file_en": "karnapura-mahakavya/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/18.md?plain=1#L148-L307"
    }
   ],
   "calendar": "Чандана-ятра",
@@ -157771,7 +158841,9 @@
     "line": 2096,
     "line_to": 2486,
     "count": 55,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L2096-L2486"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/14.md?plain=1#L2096-L2486",
+    "file_en": "karnapura-mahakavya/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/14.md?plain=1#L2076-L2473"
    }
   ],
   "cc": "Мадхья 11",
@@ -157830,7 +158902,9 @@
     "line": 36,
     "line_to": 252,
     "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L36-L252"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L36-L252",
+    "file_en": "karnapura-mahakavya/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/15.md?plain=1#L37-L253"
    }
   ],
   "calendar": "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава",
@@ -157886,7 +158960,9 @@
     "line": 1558,
     "line_to": 1691,
     "count": 17,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L1558-L1691"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L1558-L1691",
+    "file_en": "karnapura-mahakavya/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/15.md?plain=1#L1548-L1682"
    }
   ],
   "calendar": "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава",
@@ -158068,7 +159144,9 @@
     "line": 1387,
     "line_to": 1410,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1387-L1410"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1387-L1410",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L1396-L1419"
    }
   ],
   "years": [
@@ -158483,7 +159561,9 @@
     "line": 273,
     "line_to": 1535,
     "count": 144,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L273-L1535"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L273-L1535",
+    "file_en": "karnapura-mahakavya/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/15.md?plain=1#L274-L1525"
    }
   ],
   "cc": "Мадхья 12",
@@ -159745,7 +160825,9 @@
     "line": 1714,
     "line_to": 2178,
     "count": 57,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L1714-L2178"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L1714-L2178",
+    "file_en": "karnapura-mahakavya/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/15.md?plain=1#L1705-L2174"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -159803,7 +160885,9 @@
     "line": 2201,
     "line_to": 2430,
     "count": 29,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L2201-L2430"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/15.md?plain=1#L2201-L2430",
+    "file_en": "karnapura-mahakavya/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/15.md?plain=1#L2197-L2427"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -159865,7 +160949,9 @@
     "line": 38,
     "line_to": 366,
     "count": 42,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L38-L366"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L38-L366",
+    "file_en": "karnapura-mahakavya/en/16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/16.md?plain=1#L40-L371"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -159925,7 +161011,9 @@
     "line": 389,
     "line_to": 662,
     "count": 37,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L389-L662"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L389-L662",
+    "file_en": "karnapura-mahakavya/en/16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/16.md?plain=1#L394-L670"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -159988,7 +161076,9 @@
     "line": 683,
     "line_to": 820,
     "count": 19,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L683-L820"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L683-L820",
+    "file_en": "karnapura-mahakavya/en/16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/16.md?plain=1#L691-L829"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -160044,7 +161134,9 @@
     "line": 841,
     "line_to": 1044,
     "count": 19,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L841-L1044"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/16.md?plain=1#L841-L1044",
+    "file_en": "karnapura-mahakavya/en/16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/16.md?plain=1#L850-L1054"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -160098,7 +161190,9 @@
     "line": 46,
     "line_to": 173,
     "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L46-L173"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L46-L173",
+    "file_en": "karnapura-mahakavya/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/17.md?plain=1#L72-L187"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -160155,7 +161249,9 @@
     "line": 571,
     "line_to": 947,
     "count": 45,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L571-L947"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L571-L947",
+    "file_en": "karnapura-mahakavya/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/17.md?plain=1#L587-L947"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -160211,7 +161307,9 @@
     "line": 970,
     "line_to": 1168,
     "count": 26,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L970-L1168"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L970-L1168",
+    "file_en": "karnapura-mahakavya/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/17.md?plain=1#L970-L1169"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -160268,7 +161366,9 @@
     "line": 1191,
     "line_to": 1485,
     "count": 39,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L1191-L1485"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L1191-L1485",
+    "file_en": "karnapura-mahakavya/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/17.md?plain=1#L1192-L1485"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -160325,7 +161425,9 @@
     "line": 34,
     "line_to": 125,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L34-L125"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L34-L125",
+    "file_en": "karnapura-mahakavya/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/18.md?plain=1#L38-L129"
    }
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
@@ -161022,7 +162124,9 @@
     "line": 835,
     "line_to": 926,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L835-L926"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L835-L926",
+    "file_en": "karnapura-mahakavya/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/18.md?plain=1#L841-L932"
    }
   ],
   "cc": "Мадхья 15",
@@ -172882,7 +173986,9 @@
     "line": 1657,
     "line_to": 2005,
     "count": 41,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1657-L2005"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1657-L2005",
+    "file_en": "karnapura-mahakavya/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/13.md?plain=1#L1666-L2001"
    }
   ],
   "cc": "Мадхья 11–14",
@@ -174251,7 +175357,9 @@
     "line": 44,
     "line_to": 232,
     "count": 27,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L44-L232"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L44-L232",
+    "file_en": "karnapura-mahakavya/en/19.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/19.md?plain=1#L50-L234"
    }
   ],
   "years": [
@@ -174307,7 +175415,9 @@
     "line": 378,
     "line_to": 641,
     "count": 38,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L378-L641"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L378-L641",
+    "file_en": "karnapura-mahakavya/en/19.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/19.md?plain=1#L382-L645"
    }
   ],
   "years": [
@@ -174365,7 +175475,9 @@
     "line": 661,
     "line_to": 1499,
     "count": 119,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L661-L1499"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L661-L1499",
+    "file_en": "karnapura-mahakavya/en/19.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/19.md?plain=1#L665-L1499"
    }
   ],
   "years": [
@@ -174421,7 +175533,9 @@
     "line": 1518,
     "line_to": 1865,
     "count": 49,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L1518-L1865"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L1518-L1865",
+    "file_en": "karnapura-mahakavya/en/19.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/19.md?plain=1#L1518-L1839"
    }
   ],
   "years": [
@@ -174476,7 +175590,9 @@
     "line": 37,
     "line_to": 238,
     "count": 25,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L37-L238"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L37-L238",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L41-L242"
    }
   ],
   "years": [
@@ -174772,7 +175888,9 @@
     "line": 249,
     "line_to": 360,
     "count": 17,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L249-L360"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/19.md?plain=1#L249-L360",
+    "file_en": "karnapura-mahakavya/en/19.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/19.md?plain=1#L251-L363"
    }
   ],
   "years": [
@@ -175578,7 +176696,9 @@
     "line": 699,
     "line_to": 765,
     "count": 9,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L699-L765"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L699-L765",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L707-L774"
    }
   ],
   "cc": "Мадхья 1; Мадхья 16",
@@ -176322,7 +177442,9 @@
     "line": 261,
     "line_to": 438,
     "count": 23,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L261-L438"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L261-L438",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L265-L445"
    }
   ],
   "cc": "Мадхья 16",
@@ -176974,7 +178096,9 @@
     "line": 591,
     "line_to": 677,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L591-L677"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L591-L677",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L598-L684"
    }
   ],
   "cc": "Мадхья 1",
@@ -180067,7 +181191,9 @@
     "line": 459,
     "line_to": 569,
     "count": 15,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L459-L569"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L459-L569",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L462-L575"
    }
   ],
   "cc": "Мадхья 16",
@@ -181650,7 +182776,9 @@
     "line": 788,
     "line_to": 833,
     "count": 7,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L788-L833"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L788-L833",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L797-L843"
    }
   ],
   "cc": "Мадхья 17",
@@ -199416,7 +200544,9 @@
     "line": 319,
     "line_to": 818,
     "count": 72,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L319-L818"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L319-L818",
+    "file_en": "karnapura-mahakavya/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/18.md?plain=1#L326-L824"
    }
   ],
   "years": [
@@ -199715,7 +200845,9 @@
     "line": 943,
     "line_to": 1059,
     "count": 18,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L943-L1059"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L943-L1059",
+    "file_en": "karnapura-mahakavya/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/18.md?plain=1#L949-L1066"
    }
   ],
   "years": [
@@ -200213,7 +201345,9 @@
     "line": 1076,
     "line_to": 1131,
     "count": 9,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L1076-L1131"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/18.md?plain=1#L1076-L1131",
+    "file_en": "karnapura-mahakavya/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/18.md?plain=1#L1083-L1138"
    }
   ],
   "cc": "Ади 10; Антья 10",
@@ -202212,7 +203346,9 @@
     "line": 196,
     "line_to": 548,
     "count": 44,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L196-L548"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/17.md?plain=1#L196-L548",
+    "file_en": "karnapura-mahakavya/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/17.md?plain=1#L210-L564"
    }
   ],
   "years": [
@@ -226266,7 +227402,9 @@
     "line": 856,
     "line_to": 925,
     "count": 10,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L856-L925"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L856-L925",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L866-L935"
    }
   ],
   "years": [
@@ -226753,7 +227891,9 @@
     "line": 290,
     "line_to": 650,
     "count": 45,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L290-L650"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L290-L650",
+    "file_en": "karnapura-mahakavya/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/01.md?plain=1#L289-L649"
    }
   ],
   "years": [
@@ -227418,7 +228558,9 @@
     "line": 948,
     "line_to": 1106,
     "count": 21,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L948-L1106"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/20.md?plain=1#L948-L1106",
+    "file_en": "karnapura-mahakavya/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L958-L1117"
    }
   ],
   "age": [
@@ -228550,6 +229692,70 @@
    48
   ],
   "attestation": 2
+ },
+ {
+  "id": "jcv-0016",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 12, 1–52",
+  "file": "jagadisha-charitra-vijaya/ru/12.md",
+  "period": "P15",
+  "order": 16,
+  "title": "Потомки и ученики Джагадиши; его сокрытие",
+  "summary": "Ученики проповедуют; дочь Расаманджари выдана за Гопиваллабху, внука Нитьянанды, в Джирате; передача шакти Рамабхадре; сокрытие в пауша шукла-тритию; во Вриндаване Джагадиша — Калавати.",
+  "persons": [
+   "@jagadisha-pandita",
+   "@raghunatha-acharya-jcv",
+   "@kamalakanta-durgapur",
+   "@rasamanjari-jagadisha",
+   "@gopivallabha-jirat",
+   "@madhava-acharya-ganga",
+   "@ganga-nityananda",
+   "@ramabhadra-jagadisha"
+  ],
+  "places": [
+   "#jirat",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "departure",
+   "family"
+  ],
+  "event": "ev-jagadisha-disappearance",
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/12.md",
+    "from": "1",
+    "to": "52"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/12.md",
+    "from": "1",
+    "to": "52",
+    "line": 7,
+    "line_to": 160,
+    "count": 52,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/12.md?plain=1#L7-L160",
+    "file_en": "jagadisha-charitra-vijaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/12.md?plain=1#L7-L160"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
  },
  {
   "id": "rm-0016",
@@ -277286,7 +278492,9 @@
     "line": 22,
     "line_to": 156,
     "count": 17,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L22-L156"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L22-L156",
+    "file_en": "karnapura-mahakavya/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/01.md?plain=1#L21-L155"
    }
   ],
   "attestation": 1
@@ -277632,6 +278840,52 @@
   "attestation": 1
  },
  {
+  "id": "jcv-0001",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 1, 1–95",
+  "file": "jagadisha-charitra-vijaya/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Мангалачарана: Чайтанья, Нитьянанда, Адвайта; слава Джагадиши; линия гуру автора",
+  "summary": "Начало утрачено; поклонение Чайтанье и Нитьянанде, клич Адвайты и нисхождение Господа, Гададхара и Шриваса; призыв Махапрабху петь Имя; слава Джагадише Пандиту; линия гуру автора — Рагхунатха Ачарья, Бхагаватананда (как он получил имя), Премананда, Радхачарана; поклонение Госвами и шестидесяти четырём махантам.",
+  "persons": [
+   "@ananda-dasa-jcv",
+   "@jagadisha-pandita",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/01.md",
+    "from": "1",
+    "to": "95"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/01.md",
+    "from": "1",
+    "to": "95",
+    "line": 10,
+    "line_to": 315,
+    "count": 95,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/01.md?plain=1#L10-L315",
+    "file_en": "jagadisha-charitra-vijaya/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/01.md?plain=1#L10-L315"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0002",
   "source": "jayananda-cm",
   "ref": "Ади-кханда: поклонение мудрецам и тиртхам (рукопись № 546)",
@@ -277713,7 +278967,9 @@
     "line": 179,
     "line_to": 267,
     "count": 11,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L179-L267"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L179-L267",
+    "file_en": "karnapura-mahakavya/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/01.md?plain=1#L178-L266"
    }
   ],
   "attestation": 1
@@ -285066,6 +286322,49 @@
     "line_to": 939,
     "count": 27,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Adi01.md?plain=1#L809-L939"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "jcv-0017",
+  "source": "jagadisha-charitra-vijaya",
+  "ref": "Варна 12, 53–108",
+  "file": "jagadisha-charitra-vijaya/ru/12.md",
+  "period": "PX",
+  "order": 17,
+  "title": "Содержание книги; заключительная вандана",
+  "summary": "Перечень двенадцати варн; песнь Гауранге; прославление Чайтаньи, Нитьянанды, Адвайты, Шриваса, Гададхары, шести Госвами и Шринивасы Ачарьи; мольба к Бхагаватананде.",
+  "persons": [
+   "@ananda-dasa-jcv",
+   "@bhagavatananda-jcv"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/12.md",
+    "from": "53",
+    "to": "108"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagadisha-charitra-vijaya/ru/12.md",
+    "from": "53",
+    "to": "108",
+    "line": 163,
+    "line_to": 389,
+    "count": 56,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/ru/12.md?plain=1#L163-L389",
+    "file_en": "jagadisha-charitra-vijaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagadisha-charitra-vijaya/en/12.md?plain=1#L163-L389"
    }
   ],
   "attestation": 1
