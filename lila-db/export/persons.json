@@ -4211,6 +4211,18 @@
     "type": "patron"
    },
    {
+    "from": "@chand-kazi",
+    "type": "opposed"
+   },
+   {
+    "from": "@chand-kazi",
+    "type": "nephew"
+   },
+   {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "relative"
    },
@@ -4305,6 +4317,10 @@
    {
     "from": "@jagadisha-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@jagai-madhai",
+    "type": "other"
    },
    {
     "from": "@jagannatha-mishra",
@@ -6239,6 +6255,10 @@
    "ev-avatara-kinds"
   ],
   "related_by": [
+   {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
    {
     "from": "@nrisimhananda",
     "type": "deity-served"
@@ -9637,6 +9657,10 @@
   ],
   "related_by": [
    {
+    "from": "@chand-kazi",
+    "type": "uncle"
+   },
+   {
     "from": "@gangadasa-pandita",
     "type": "other"
    },
@@ -11545,6 +11569,10 @@
     "type": "other"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "friend"
    },
@@ -11611,6 +11639,10 @@
    {
     "from": "@jagadisha-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@jagai-madhai",
+    "type": "other"
    },
    {
     "from": "@jahnava",
@@ -13040,6 +13072,10 @@
     "type": "other"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "guru"
    },
@@ -13073,6 +13109,10 @@
    },
    {
     "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jagai-madhai",
     "type": "other"
    },
    {
@@ -14807,6 +14847,10 @@
     "type": "companion"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -15687,6 +15731,10 @@
     "type": "other"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "companion"
    },
@@ -15717,6 +15765,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@jagai-madhai",
+    "type": "other"
    },
    {
     "from": "@jagannatha-mishra",
@@ -16521,6 +16573,10 @@
     "type": "other"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "other"
    },
@@ -16543,6 +16599,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@jagai-madhai",
+    "type": "other"
    },
    {
     "from": "@kashishvara",
@@ -17247,6 +17307,10 @@
    },
    {
     "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@jagai-madhai",
     "type": "other"
    },
    {
@@ -18769,6 +18833,10 @@
     "type": "companion"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "relative"
    },
@@ -19761,6 +19829,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "other"
@@ -23087,6 +23159,10 @@
     "type": "other"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -24094,6 +24170,10 @@
     "type": "host"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@jayadeva",
     "type": "other"
    },
@@ -25007,6 +25087,10 @@
     "type": "other"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "uncle"
    },
@@ -25179,6 +25263,130 @@
    "ev-chand-raya-deliverance",
    "ev-tattva-chaitanya-gives-rare-prema",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в лиле аватары — Джая и Виджая, привратники Вайкунтхи, родившиеся… (ГГД 115); происхождение — Навадвипа",
+  "card": "parshadas/cards/jagai-madhai.yaml",
+  "article": {
+   "ru": "parshadas/ru/jagai-madhai.md",
+   "en": "parshadas/en/jagai-madhai.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#navadvipa",
+    "conf": "годы и дни явления источники не называют; родились и жили в Навадвипе (ЧЧ Мадхья 1.193; ЧБ 13.122); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) их дней нет",
+    "facts": [
+     "F2",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "когда и где ушли из этого мира — неизвестно; в календаре ШЧСМ (541/ru, проверено 2026-11-20) дней ухода нет",
+    "facts": [
+     "F49"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "Джая и Виджая, привратники Вайкунтхи, родившиеся по своей воле",
+    "source": "ГГД 115; «Анубхашья» к ЧЧ Ади 10.120",
+    "level": "A",
+    "variants": [
+     "«Према-виласа» 21 — так же (ур. C); B, T, M отождествления не дают."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Спаситель братьев: решил их спасти, был ранен Мадхаем, просил их у Господа «в подаяние», простил Мадхая и отдал ему Свои заслуги, вложил в него силу; велел построить гхат на Ганге (ЧБ Мадхья 13, 15). = @nityananda F190–F203, F446–F448."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Призвал чакру, обнял Джагая и даровал ему према-бхакти, явил четырёхрукий облик; отослал Мадхая к стопам Нитьянанды; принял их грехи, назвал Своими слугами, дал им Свою гирлянду (ЧБ Мадхья 13)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Вместе с Нитьянандой проповедовал им; отговаривал подходить; бежал от них (ЧБ 13.62–109). = @haridasa-thakura F83–F84."
+   },
+   {
+    "type": "other",
+    "who": "@gangadasa-pandita",
+    "note": "Вместе со Шривасой рассказал Господу, кто они (ЧБ 13.120–123); был в доме при их освобождении (B 746–747)."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Рассказал Господу о них (ЧБ 13.121); у Мурари просил Господа спасти «Джаганнатху и Мадхаву» (2.13.17)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Харидас жаловался Ему на Нитьянанду (ЧБ 13.135–152); при потемнении тела Господа: «Ты как Гокулачандра» (13.299–300)."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "Лочан: рвётся покарать братьев, затем по велению Господа приводит их к Нему; у Мурари (2.13) — обещание Господа спасти их."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya",
+    "note": "Свидетель их освобождения (ЧБ 13.240; T 51; B 741)."
+   },
+   {
+    "type": "other",
+    "who": "@vakreshvara",
+    "note": "Свидетель их освобождения (ЧБ 13.240; B 196)."
+   },
+   {
+    "type": "other",
+    "who": "@pundarika-vidyanidhi",
+    "note": "Видя их прему, погрузился в экстаз (T 54; B 751)."
+   },
+   {
+    "type": "other",
+    "who": "@yama",
+    "note": "Читрагупта не может перечесть их грехов; Яма пляшет в любви к Кришне, славя их спасение (ЧБ Мадхья 14)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Гаудия-бхашья» к ЧБ (имена, место гхата Мадхая, вайшнава-апарадха); T 253 — нападение 1925 г. сравнено с их нападением на Нитьянанду."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "«Я грешнее Джагая и Мадхая» (ЧЧ Ади 5.205)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "«Мы в миллионы раз ниже Джагая и Мадхая» (ЧЧ Мадхья 1.192–196)."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "То же; B 462 — песнь-молитва."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "«Господь спас даже Джагая и Мадхая, а меня оставил» (ЧЧ Мадхья 11.45)."
+   }
   ],
   "related_by": [
    {
@@ -25998,6 +26206,10 @@
   "related_by": [
    {
     "from": "@bhugarbha",
+    "type": "other"
+   },
+   {
+    "from": "@chand-kazi",
     "type": "other"
    },
    {
@@ -27109,6 +27321,10 @@
     "type": "other"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -27352,6 +27568,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
    {
     "from": "@gangadasa-pandita",
     "type": "other"
@@ -33817,6 +34037,10 @@
     "type": "guru"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -36051,6 +36275,10 @@
    "ev-subuddhi-raya-holy-name"
   ],
   "related_by": [
+   {
+    "from": "@chand-kazi",
+    "type": "subject-of"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "ruler-of"
@@ -44004,6 +44232,10 @@
     "type": "other"
    },
    {
+    "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "siksha-disciple"
    },
@@ -48373,6 +48605,10 @@
     "type": "other"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "other"
    },
@@ -48580,6 +48816,10 @@
     "type": "other"
    },
    {
+    "from": "@chand-kazi",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "other"
    },
@@ -48661,6 +48901,10 @@
    },
    {
     "from": "@jagadisha-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jagai-madhai",
     "type": "other"
    },
    {
@@ -48937,6 +49181,10 @@
    {
     "from": "@bhaktivinoda",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@chand-kazi",
+    "type": "other"
    },
    {
     "from": "@gaurakishora-dasa-babaji",
@@ -51341,6 +51589,12 @@
    "ev-nagara-kirtana-kazi",
    "ev-advaita-followers-split",
    "ev-chand-raya-deliverance"
+  ],
+  "related_by": [
+   {
+    "from": "@jagai-madhai",
+    "type": "other"
+   }
   ]
  },
  {
@@ -56644,6 +56898,130 @@
   ],
   "events": [
    "ev-nagara-kirtana-kazi"
+  ],
+  "summary": "происхождение — Навадвипа; самадхи — Бамунпукур (Брахмана-пушкарини, Вамана-пукур)",
+  "card": "parshadas/cards/chand-kazi.yaml",
+  "article": {
+   "ru": "parshadas/ru/chand-kazi.md",
+   "en": "parshadas/en/chand-kazi.md"
+  },
+  "kind": "ruler",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день рождения источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) нет",
+    "facts": [
+     "F6",
+     "F50"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#bamunpukur?",
+    "conf": "об уходе из этого мира источники ничего не сообщают; гробница (самадхи) — в Бамунпукуре (B 1062; T 39); в календаре ШЧСМ (541/ru, проверено 2026-11-20) нет",
+    "facts": [
+     "F46",
+     "F50"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#bamunpukur",
+     "facts": [
+      "F46"
+     ],
+     "note": "гробница; «Анубхашья» — сохранилась; T — рядом старое дерево голока-чампа, чтут и индусы, и мусульмане; T 269 — в перечне центров, основанных Бхактисиддхантой (ур. C/D)"
+    }
+   ]
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "opposed",
+    "who": "@mahaprabhu",
+    "note": "Разбил мриданг и запретил киртан (ЧБ Мадхья 23.101–107; ЧЧ Ади 17.124–128); Господь с ночным шествием пришёл к его дому."
+   },
+   {
+    "type": "nephew",
+    "who": "@mahaprabhu",
+    "note": "«Родство по деревне»: Ниламбара Чакраварти — Кази «дядя» (чача), Господь — его «племянник» (ЧЧ Ади 17.148–150); Господь зовёт его «дядя» (17.172)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Милость и наставление (не посвящение): Господь наставил его (ЧЧ Ади 17.152–218; «Гаура-кришнодая» 5.44 — «наставил в истинном писании»), даровал милость, и Кази молил о преданности (17.220)."
+   },
+   {
+    "type": "uncle",
+    "who": "@nilambara-chakravarti",
+    "note": "По деревне — «дядя» (чача) Кази (ЧЧ Ади 17.148; «Анубхашья»); ≠ T 39 — «брат» Ниламбары (⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimha",
+    "note": "Во сне Нрисимхадева вскочил ему на грудь и пригрозил (ЧЧ Ади 17.178–186; «Анубхашья» к 17.179); БР 2.310 — Господь стал Нрисимхой."
+   },
+   {
+    "type": "subject-of",
+    "who": "@gauda-sultan",
+    "note": "Подчинён падишаху Гауды (Хусейн Шаху — «Анубхашья» к ЧЧ Ади 17.195); по АПБ и B — его родственник; по «Анубхашье» — «говорят, был его гуру»; БР 2.298 — царь очень его любил."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Вёл переднюю группу шествия (ЧЧ Ади 17.136; по ЧБ 23.142 — среднюю)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Вёл одну из групп шествия (ЧЧ 17.136 — среднюю; ЧБ 23.141 — переднюю); B 734 — Кази стал другом и поклялся не мешать киртану."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Танцевал рядом с Господом в шествии (ЧЧ 17.137); пашанди: «Кази положит конец веселью Нитьянанды» (ЧБ 23.113); = @nityananda F210, F449."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "По ЧБ 23.143 — вёл последнюю группу; T — мриданг разбит у дома Шривасы, Кхол-бхангар данга = Шривас-ангана (⚠1); = @srivasa F81, F113."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara",
+    "note": "Кази шёл с киртаном до двора Шридхары и там повернул назад (АПБ к ЧЧ Ади 17.70); дом Шридхары — близ гробницы Кази (B 771; T 58, ⚠10); = @shridhara F11, F42, F65."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-dasa",
+    "note": "B 137 сравнивает: как Господь заставил Чанд Кази произнести имя Хари, так Гададхара дас — кази своей деревни (тёзка, не он); = @gadadhara-dasa F35."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "ЧБ Мадхья 23 подробно описывает шествие и разгром дома, но не беседу; ЧЧ Ади 17.138, 142 отсылает к нему и восполняет беседой."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 17: дом рода Кази в Брахмана-пушкарини, три «писания яванов», Кази повернул назад у двора Шридхары."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 17 и «Гаудия-бхашья» к ЧБ Мадхья 23: фаудждар, имена, потомки, гробница, улица Вамана-пукура, Кхол-бхангар данга; T 269 — центр у самадхи Чанд Кази."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Указал место, где Кази разбил мриданг (T 223; = @srivasa F113)."
+   }
   ],
   "related_by": [
    {
