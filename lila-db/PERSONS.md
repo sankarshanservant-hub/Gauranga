@@ -828,3 +828,4 @@
 | @vijaya-gopala-galta | Виджая-Гопала — Божество в Галте | Vijaya Gopala, the Deity of Galta | по преданию, служение установил @baladeva-vidyabhushana (T 221) |
 | @pakshadhara-mishra | Пакшадхара Мишра | Pakshadhara Mishra | великий найяик Митхилы; по преданию — учитель @sarvabhauma (B 1018; T 112) |
 | @raghunatha-shiromani | Рагхунатха Широмани | Raghunatha Shiromani | логик Навадвипы, автор «Дидхити»; по мнению некоторых — ученик @sarvabhauma (T 112) |
+| @bhavananda-gopinatha | Бхавананда, служитель Гопинатхи | Bhavananda, servant of Gopinatha | собрат (сатиртха) @madhu-pandita по гуру, служил Гопинатхе во Вриндаване (БР 13.320; M pdf 23); ветвь Гададхары по «Шакха-нирнае» («Анубхашья» к ЧЧ Ади 12.87); не путать с @bhavananda-raya |
