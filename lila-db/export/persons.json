@@ -4351,6 +4351,10 @@
     "type": "guest"
    },
    {
+    "from": "@lakshmipriya",
+    "type": "spouse"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "companion"
    },
@@ -4497,6 +4501,10 @@
    {
     "from": "@shuklambara",
     "type": "served-by"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -8144,6 +8152,10 @@
     "type": "other"
    },
    {
+    "from": "@lakshmipriya",
+    "type": "in-law"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "host"
    },
@@ -8170,6 +8182,10 @@
    {
     "from": "@shridhara",
     "type": "other"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "friend"
    },
    {
     "from": "@srinivasa-acharya",
@@ -8698,6 +8714,10 @@
     "type": "spouse"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "friend"
    },
@@ -8825,6 +8845,10 @@
    {
     "from": "@shachi",
     "type": "son"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "other"
    }
   ]
  },
@@ -8918,6 +8942,132 @@
    "ev-return-from-east-bengal",
    "ev-lord-consoles-shachi-before-sannyasa",
    "ev-sannyasa-katwa"
+  ],
+  "summary": "в Кришна-лиле — Рукмини, дочь Бхишмаки (ГГД 45) и др.; происхождение — Навадвипа",
+  "card": "parshadas/cards/lakshmipriya.yaml",
+  "article": {
+   "ru": "parshadas/ru/lakshmipriya.md",
+   "en": "parshadas/en/lakshmipriya.md"
+  },
+  "kind": "family",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#navadvipa",
+    "conf": "год и день явления источники не называют; родилась в Навадвипе в доме Валлабхачарьи (по месту жительства отца); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) дня явления нет",
+    "facts": [
+     "F8",
+     "F10"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#ganga",
+    "conf": "день и год ухода неизвестны; ушла из этого мира на берегу Ганги в Навадвипе, пока Господь был в Восточной Бенгалии (ЧБ Ади 14.103–105; ЧЧ Ади 16.20–21); в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет",
+    "facts": [
+     "F10",
+     "F37",
+     "F38",
+     "F39",
+     "F40",
+     "F41"
+    ],
+    "events": [
+     "ev-lakshmipriya-departure"
+    ],
+    "note": "Как ушла — источники расходятся: змея разлуки (ЧЧ Ади 16.21; Лочан; M), «тело-подобие» и созерцание стоп Господа на берегу Ганги (ЧБ Ади 14.104–105; B, T), буквальный укус змеи (Мурари 1.11.21–28, Карнапура 3.96–105, Джаянанда); не мирская смерть (⚠Б1)."
+   }
+  },
+  "identities": [
+   {
+    "in": "rama-lila",
+    "as": "Джанаки (Сита), дочь Джанаки",
+    "source": "ГГД 45",
+    "level": "A",
+    "variants": [
+     "B 1051 — в составе «ГГД 44», B 133 — «ГГД 43» (⚠1)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Рукмини, дочь Бхишмаки",
+    "source": "ГГД 45; ЧБ Ади 10.102 (Валлабха = Бхишмака)",
+    "level": "A",
+    "variants": [
+     "B 1052: «Махалакшми, неотличная от Рукмини»."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "Лакшми, шри-шакти Гаура-Нараяны (рядом с бху-шакти Вишнуприей и лила-шакти Дхамы); экспансия и служанка Радхи",
+    "source": "ЧЧН 1.28–29; ГГД 45; T 65; B 133",
+    "level": "A",
+    "variants": [
+     "Лочан ru/21.120 — «некая шакти, часть Лакшми, ушла на Вайкунтху» (⚠Б4); не Радха — Радха в Гаура-лиле Гададхара (T 44; ⚠Б5)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "spouse",
+    "who": "@mahaprabhu",
+    "note": "Первая супруга: Лакшми Гаура-Нараяны (ГГД 45; ЧЧН 1.28); растирала Ему стопы, вместе с Ним кормила гостей; уходя в Восточную Бенгалию, Он велел ей служить матери (ЧБ Ади 14.51); после её ухода утешил мать знанием истины (ЧБ Ади 14.183–188; ЧЧ Ади 16.22–23)."
+   },
+   {
+    "type": "father",
+    "who": "@vallabhacharya",
+    "note": "По ГГД 44 — Джанака, царь Митхилы, и Бхишмака, царь Видарбхи; отдал дочь Господу (ЧБ Ади 10.102–105)."
+   },
+   {
+    "type": "in-law",
+    "who": "@shachi",
+    "note": "Свекровь: ввела невестку в дом, видела в ней Камалу; Лакшми служила ей больше, чем Туласи; плач Шачи после её ухода. = @shachi F28–F30, F80, F115–F118, F140."
+   },
+   {
+    "type": "other",
+    "who": "@vanamali-acharya",
+    "note": "Сват: предложил союз Шачи, после отказа и намёка Нимая устроил брак (ЧБ Ади 10.52–77); по ГГД 49 — Вишвамитра и брахман, посланный Рукмини."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "Вторая супруга Господа: Лакшмиприя — шри-шакти, Вишнуприя — бху-шакти (T 65; B 133; ЧЧН 1.28–29); по B 134 Лакшмиприя сокрылась, когда Вишнуприя возросла для служения. = @vishnupriya F15, F112–F116, F120, F168."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "T 44, 65: шакти Гаура-Нараяны — Лакшмиприя и Вишнуприя, шакти Гаура-Кришны — Гададхара (Радха)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Предложил (1892) поклоняться в Майяпуре Махапрабху с Лакшми и Вишнуприей (T 223)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 14.62–68 (Лакшмиприя-деви, ГГД 44–45) и Ади 16.21 («ужаленная чёрной змеёй разлуки, уходит из явленных игр»)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "«Намамрита-самудра» 6 — молитва Лакшми и Вишнуприи."
+   },
+   {
+    "type": "other",
+    "who": "@lakshmipriya-chakhandi",
+    "note": "Тёзка, не путать: мать Шринивасы Ачарьи."
+   },
+   {
+    "type": "other",
+    "who": "@lakshmipriya-gangamata",
+    "note": "Тёзка, не путать: гуру-сестра Гангаматы."
+   }
   ],
   "related_by": [
    {
@@ -9396,6 +9546,10 @@
    {
     "from": "@ishana-navadvipa",
     "type": "served-by"
+   },
+   {
+    "from": "@lakshmipriya",
+    "type": "other"
    },
    {
     "from": "@murari-gupta",
@@ -11571,6 +11725,10 @@
     "type": "host"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "host"
    },
@@ -13014,6 +13172,10 @@
     "type": "other"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "spouse"
+   },
+   {
     "from": "@srivasa",
     "type": "friend"
    },
@@ -13157,6 +13319,199 @@
    "ev-narottama-hears-krishnadasa",
    "ev-jahnava-kheturi",
    "ev-tattva-nityananda-advaita"
+  ],
+  "summary": "по таттве — Бхагавати Йогамайя, нисшедшая как Сита (ГГД 86) и др.; явление — Гаура-панчами Хришикеша-масы",
+  "card": "parshadas/cards/sita-thakurani.yaml",
+  "article": {
+   "ru": "parshadas/ru/sita-thakurani.md",
+   "en": "parshadas/en/sita-thakurani.md"
+  },
+  "kind": "family",
+  "circle": [
+   "elders",
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "Гаура-панчами Хришикеша-масы (≈ бхадра, шукла-панчами)",
+    "place": "",
+    "conf": "по календарю Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20): «День явления Шри Ситы Деви, супруги Шри Адвайты Прабху» — в 2026 г. 16 сентября; T, M, B дат не дают; год и место явления неизвестны (Нараянапур — лишь ПВ 24, «Адвайта-пракаша»)",
+    "facts": [
+     "F2",
+     "F44"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#shantipura?",
+    "conf": "день, год и место ухода неизвестны; после Адвайты (F38) и до прихода Джахнавы в Шантипур по пути в Кхетури (M 66; F39); в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет",
+    "facts": [
+     "F38",
+     "F39"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "Бхагавати Йогамайя, нисшедшая как Сита; её проявление — Шри",
+    "source": "ГГД 86",
+    "level": "A",
+    "variants": [
+     "T 76 даёт номер «81–84» (⚠1); ПВ 24.326 — «Йогамайя, Дурга, Бхагавати» (ур. C)."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "в Кришна-лиле — Паурнамаси (мать Сандипани, бабушка Мадхумангалы и Нандимукхи, ученица Нарады)",
+    "source": "M 216 со ссылкой на прежнее изд. «Гаура-паршада-чаритавали»; «Адвайта-пракаша» гл. 10 («Паурнамаси-Йогамайя»)",
+    "level": "D",
+    "variants": [
+     "Против ГГД 41 (Паурнамаси — Говинда Ачарья); в нынешнем B (2019) нет (⚠2)."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "Катьяяни",
+    "source": "Лочан, Сутра-кханда 599–631",
+    "level": "B",
+    "variants": [
+     "Катьяяни — имя Йогамайи; ≠ формулировке ГГД 86 (⚠2)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@nrisimha-bhaduri",
+    "note": "БР 12.≈1781–1785 (по B 1050); T 18; M 216, 220; в ЧЧ и ЧБ не назван."
+   },
+   {
+    "type": "sibling",
+    "who": "@shri-thakurani",
+    "note": "Сестра и вторая жена Адвайты; по ГГД 86 — её проявление (пракаша); по ПВ 24.325 — младшая."
+   },
+   {
+    "type": "spouse",
+    "who": "@advaita",
+    "note": "Свадьба в Пхулии (M 216); вступилась за Него, когда Господь Его наказывал (ЧБ Мадхья 19.135–137); Адвайта ушёл раньше неё (F38). = @advaita F37, F38, F56, F108, F149."
+   },
+   {
+    "type": "son",
+    "who": "@achyutananda",
+    "note": "Старший сын (T 76: 1428 г. шаки, ⚠6); с родителями ежегодно ходил в Пури (B 1050; M 219)."
+   },
+   {
+    "type": "son",
+    "who": "@krishna-mishra",
+    "note": "M 220; T 76 (по «Адвайта-чарите»); Адвайта зовёт её «матушкой Кришнадаса» (ЧБ Антья 9.25); по «Адвайта-пракаше» она посвятила его и его жену (F45, ур. D)."
+   },
+   {
+    "type": "son",
+    "who": "@gopala-dasa-advaita",
+    "note": "M 220 «Гопала Мишра»; T 76 «Гопала Дас»; встречал Джахнаву (M 66)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Ватсалья: дары и имя «Нимай» (ЧЧ Ади 13.111–118); Господь называл её «матерью» (ЧБ Мадхья 19.227) и почитал как Шачи (M 219–220); кормила Его в Шантипуре и Пури (ЧЧ Мадхья 3.41; ЧБ Антья 9.19–24)."
+   },
+   {
+    "type": "friend",
+    "who": "@shachi",
+    "note": "«Одного сердца» (M 218); учила её уходу за Младенцем (M 217); четыре дня была с ней после санньясы Господа (M 218). = @shachi F87–F92."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-mishra",
+    "note": "Почтила его и получила почести при прощании (ЧЧ Ади 13.118); M 216 — весть Адвайте от него. = @jagannatha-mishra F34, F35, F76."
+   },
+   {
+    "type": "other",
+    "who": "@vishvarupa",
+    "note": "Благословила «обоих братьев» (ЧЧ Ади 13.117)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Смеялся её словам при наказании Адвайты; после её трапезы разбросал рис (ЧБ Мадхья 19). = @nityananda F208."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Свидетель в Шантипуре; с Адвайтой плясал при явлении Господа (B 866). = @haridasa-thakura F61–F62."
+   },
+   {
+    "type": "other",
+    "who": "@srirama-pandita",
+    "note": "Принёс весть об откровении Господа (ЧБ Мадхья 6)."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Обняла её и Васудху (M 65); к приходу Джахнавы в Шантипур уже ушла (M 66). = @jahnava F37, F55."
+   },
+   {
+    "type": "other",
+    "who": "@vasudha"
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "Благословила, вверила Мадана-Гопалу (БР 4.63–80). = @srinivasa-acharya F44."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "Его пада (ПК 23) о празднике в доме Адвайты. = @parameshvara-dasa F51."
+   },
+   {
+    "type": "other",
+    "who": "@malini",
+    "note": "Пады Нарахари; «Намамрита-самудра» 10 — в одном ряду хранительниц Гауры."
+   },
+   {
+    "type": "other",
+    "who": "@madhavendra-puri",
+    "note": "Только «Адвайта-пракаша» (ур. D): дал ей мантру во сне."
+   },
+   {
+    "type": "disciple",
+    "who": "@nandini-sita",
+    "note": "Служанка; получила от неё мантру Кришны (ПВ 24.354–355, ур. C); по ПВ 4 позже отвергнута ею (за Камадевой Нагарой)."
+   },
+   {
+    "type": "disciple",
+    "who": "@jangali",
+    "note": "Служанка-подвижница; мантра от Ситы, Джангали-тота (ПВ 24.354–368, ур. C)."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-shyamadasa",
+    "note": "ПВ 24.350–351 (ур. C): вскормлен ею, видел её четырёхрукой."
+   },
+   {
+    "type": "other",
+    "who": "@ishana-nagara",
+    "note": "«Адвайта-пракаша» (ур. D): растила его; после ухода Адвайты велела ему жениться."
+   },
+   {
+    "type": "other",
+    "who": "@yogamaya",
+    "note": "По ГГД 86 — Йогамайя (см. identities)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-acharya",
+    "note": "ГГД 41: Паурнамаси — он (против отождествления Ситы с Паурнамаси у M, ⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 13.111–118 и Мадхья 3.41 — B пересказывает её без ссылки."
+   }
   ],
   "related_by": [
    {
@@ -14070,6 +14425,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@lakshmipriya",
+    "type": "other"
    },
    {
     "from": "@madhavendra-puri",
@@ -15487,6 +15846,10 @@
     "type": "friend"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "spouse"
    }
@@ -16214,6 +16577,10 @@
    },
    {
     "from": "@shridhara",
+    "type": "other"
+   },
+   {
+    "from": "@sita-thakurani",
     "type": "other"
    },
    {
@@ -20167,6 +20534,10 @@
    {
     "from": "@shachi",
     "type": "guest"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "other"
    },
    {
     "from": "@vallabha-bhatta",
@@ -26185,6 +26556,10 @@
   ],
   "related_by": [
    {
+    "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    }
@@ -26235,6 +26610,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@lakshmipriya",
+    "type": "father"
    },
    {
     "from": "@pundarika-vidyanidhi",
@@ -27083,6 +27462,10 @@
    },
    {
     "from": "@nandana-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@sita-thakurani",
     "type": "other"
    },
    {
@@ -31725,6 +32108,10 @@
    {
     "from": "@nandana-acharya",
     "type": "met"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "son"
    }
   ]
  },
@@ -37115,6 +37502,10 @@
     "type": "other"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -37227,6 +37618,10 @@
    },
    {
     "from": "@shachi",
+    "type": "other"
+   },
+   {
+    "from": "@sita-thakurani",
     "type": "other"
    },
    {
@@ -37824,6 +38219,10 @@
    {
     "from": "@advaita",
     "type": "in-law"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "father"
    }
   ]
  },
@@ -37851,6 +38250,10 @@
    {
     "from": "@advaita",
     "type": "spouse"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "sibling"
    }
   ]
  },
@@ -37938,6 +38341,10 @@
    {
     "from": "@advaita",
     "type": "son"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "son"
    }
   ]
  },
@@ -37987,6 +38394,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "son"
+   },
+   {
+    "from": "@sita-thakurani",
     "type": "son"
    }
   ]
@@ -38077,6 +38488,10 @@
    },
    {
     "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@sita-thakurani",
     "type": "other"
    }
   ]
@@ -40923,6 +41338,10 @@
     "type": "met"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -41054,6 +41473,10 @@
    "ev-srinivasa-mother-departure"
   ],
   "related_by": [
+   {
+    "from": "@lakshmipriya",
+    "type": "other"
+   },
    {
     "from": "@narahari-sarakara",
     "type": "other"
@@ -45049,6 +45472,10 @@
     "type": "other"
    },
    {
+    "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
     "from": "@minaketana-ramadasa",
     "type": "other"
    },
@@ -46544,6 +46971,10 @@
    {
     "from": "@raghava-pandita",
     "type": "guest"
+   },
+   {
+    "from": "@sita-thakurani",
+    "type": "other"
    }
   ]
  },
@@ -48220,6 +48651,10 @@
     "type": "other"
    },
    {
+    "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -48352,6 +48787,10 @@
     "type": "other"
    },
    {
+    "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -48437,6 +48876,10 @@
    {
     "from": "@gaurakishora-dasa-babaji",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@lakshmipriya",
+    "type": "other"
    },
    {
     "from": "@shridhara-maharaja",
@@ -50804,6 +51247,12 @@
    "ev-chandrashekhara-drama",
    "ev-jahnava-vrindavana",
    "ev-tattva-krishna-advent-reasons"
+  ],
+  "related_by": [
+   {
+    "from": "@sita-thakurani",
+    "type": "other"
+   }
   ]
  },
  {
@@ -54089,6 +54538,10 @@
   "related_by": [
    {
     "from": "@govinda-kaviraja",
+    "type": "other"
+   },
+   {
+    "from": "@sita-thakurani",
     "type": "other"
    }
   ]
@@ -59244,6 +59697,12 @@
   ],
   "events": [
    "ev-advaita-marries-sita"
+  ],
+  "related_by": [
+   {
+    "from": "@sita-thakurani",
+    "type": "other"
+   }
   ]
  },
  {
@@ -59257,6 +59716,12 @@
   ],
   "events": [
    "ev-jangali-tota"
+  ],
+  "related_by": [
+   {
+    "from": "@sita-thakurani",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -59270,6 +59735,12 @@
   ],
   "events": [
    "ev-jangali-tota"
+  ],
+  "related_by": [
+   {
+    "from": "@sita-thakurani",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -65125,6 +65596,10 @@
    {
     "from": "@gangamata-gosvamini",
     "type": "relative"
+   },
+   {
+    "from": "@lakshmipriya",
+    "type": "other"
    }
   ]
  },

@@ -14521,6 +14521,172 @@
   "note": "«Намамрита-самудра» 166 — молитва к «Шри Курме Тхакуру, жителю Курмы»."
  },
  {
+  "from": "@lakshmipriya",
+  "type": "spouse",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F7",
+   "F11",
+   "F14",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F27",
+   "F28",
+   "F29",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F36",
+   "F37",
+   "F38",
+   "F43",
+   "F44",
+   "F46",
+   "I3"
+  ],
+  "events": [
+   "ev-lakshmipriya-first-meeting",
+   "ev-marriage-lakshmipriya",
+   "ev-nimai-pandit-teaching",
+   "ev-lakshmi-feast-vaishnavas",
+   "ev-east-bengal-tour",
+   "ev-return-from-east-bengal"
+  ],
+  "note": "Первая супруга: Лакшми Гаура-Нараяны (ГГД 45; ЧЧН 1.28); растирала Ему стопы, вместе с Ним кормила гостей; уходя в Восточную Бенгалию, Он велел ей служить матери (ЧБ Ади 14.51); после её ухода утешил мать знанием истины (ЧБ Ади 14.183–188; ЧЧ Ади 16.22–23)."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "father",
+  "who": "@vallabhacharya",
+  "facts": [
+   "F2",
+   "F7",
+   "F8",
+   "F9",
+   "F15",
+   "F16",
+   "F19",
+   "F20",
+   "F22"
+  ],
+  "note": "По ГГД 44 — Джанака, царь Митхилы, и Бхишмака, царь Видарбхи; отдал дочь Господу (ЧБ Ади 10.102–105)."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "in-law",
+  "who": "@shachi",
+  "facts": [
+   "F13",
+   "F14",
+   "F23",
+   "F25",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F32",
+   "F34",
+   "F37",
+   "F42",
+   "F43",
+   "F45"
+  ],
+  "events": [
+   "ev-lakshmipriya-matchmaking",
+   "ev-return-from-east-bengal"
+  ],
+  "note": "Свекровь: ввела невестку в дом, видела в ней Камалу; Лакшми служила ей больше, чем Туласи; плач Шачи после её ухода. = @shachi F28–F30, F80, F115–F118, F140."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@vanamali-acharya",
+  "facts": [
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F17"
+  ],
+  "events": [
+   "ev-lakshmipriya-matchmaking"
+  ],
+  "note": "Сват: предложил союз Шачи, после отказа и намёка Нимая устроил брак (ЧБ Ади 10.52–77); по ГГД 49 — Вишвамитра и брахман, посланный Рукмини."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F4",
+   "F5",
+   "F6",
+   "F45",
+   "F46",
+   "F49"
+  ],
+  "note": "Вторая супруга Господа: Лакшмиприя — шри-шакти, Вишнуприя — бху-шакти (T 65; B 133; ЧЧН 1.28–29); по B 134 Лакшмиприя сокрылась, когда Вишнуприя возросла для служения. = @vishnupriya F15, F112–F116, F120, F168."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F4",
+   "F5"
+  ],
+  "note": "T 44, 65: шакти Гаура-Нараяны — Лакшмиприя и Вишнуприя, шакти Гаура-Кришны — Гададхара (Радха)."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F48"
+  ],
+  "note": "Предложил (1892) поклоняться в Майяпуре Махапрабху с Лакшми и Вишнуприей (T 223)."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F8",
+   "F41"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 14.62–68 (Лакшмиприя-деви, ГГД 44–45) и Ади 16.21 («ужаленная чёрной змеёй разлуки, уходит из явленных игр»)."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F49"
+  ],
+  "note": "«Намамрита-самудра» 6 — молитва Лакшми и Вишнуприи."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@lakshmipriya-chakhandi",
+  "facts": [],
+  "note": "Тёзка, не путать: мать Шринивасы Ачарьи."
+ },
+ {
+  "from": "@lakshmipriya",
+  "type": "other",
+  "who": "@lakshmipriya-gangamata",
+  "facts": [],
+  "note": "Тёзка, не путать: гуру-сестра Гангаматы."
+ },
+ {
   "from": "@madhava-ghosha",
   "type": "sibling",
   "who": "@govinda-ghosha",
@@ -28220,6 +28386,336 @@
   "who": "@pundarika-vidyanidhi",
   "facts": [],
   "note": "Не путать: «Шукламбара» — по одному мнению, имя отца Пундарики (B 748; «Гаудия-бхашья» к ЧБ Ади 2.36–37) — другое лицо."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "father",
+  "who": "@nrisimha-bhaduri",
+  "facts": [
+   "F2",
+   "F3",
+   "F44"
+  ],
+  "note": "БР 12.≈1781–1785 (по B 1050); T 18; M 216, 220; в ЧЧ и ЧБ не назван."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "sibling",
+  "who": "@shri-thakurani",
+  "facts": [
+   "F3",
+   "F6",
+   "F44"
+  ],
+  "note": "Сестра и вторая жена Адвайты; по ГГД 86 — её проявление (пракаша); по ПВ 24.325 — младшая."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "spouse",
+  "who": "@advaita",
+  "facts": [
+   "F3",
+   "F4",
+   "F5",
+   "F11",
+   "F12",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F29",
+   "F33",
+   "F34",
+   "F35",
+   "F39"
+  ],
+  "events": [
+   "ev-advaita-marries-sita",
+   "ev-advaita-yoga-vasishtha-beating",
+   "ev-advaita-feast-shantipura"
+  ],
+  "note": "Свадьба в Пхулии (M 216); вступилась за Него, когда Господь Его наказывал (ЧБ Мадхья 19.135–137); Адвайта ушёл раньше неё (F38). = @advaita F37, F38, F56, F108, F149."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "son",
+  "who": "@achyutananda",
+  "facts": [
+   "F24",
+   "F30",
+   "F34",
+   "F36"
+  ],
+  "events": [
+   "ev-advaita-comes-to-navadvipa"
+  ],
+  "note": "Старший сын (T 76: 1428 г. шаки, ⚠6); с родителями ежегодно ходил в Пури (B 1050; M 219)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "son",
+  "who": "@krishna-mishra",
+  "facts": [
+   "F1",
+   "F36"
+  ],
+  "note": "M 220; T 76 (по «Адвайта-чарите»); Адвайта зовёт её «матушкой Кришнадаса» (ЧБ Антья 9.25); по «Адвайта-пракаше» она посвятила его и его жену (F45, ур. D)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "son",
+  "who": "@gopala-dasa-advaita",
+  "facts": [
+   "F36",
+   "F39"
+  ],
+  "note": "M 220 «Гопала Мишра»; T 76 «Гопала Дас»; встречал Джахнаву (M 66)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F10",
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F26",
+   "F27",
+   "F29",
+   "F31",
+   "F33",
+   "F34",
+   "F35",
+   "I1"
+  ],
+  "events": [
+   "ev-sita-visits-newborn",
+   "ev-advaita-yoga-vasishtha-beating",
+   "ev-nityananda-advaita-meal-quarrel",
+   "ev-advaita-feast-shantipura",
+   "ev-advaita-feeds-lord-hailstorm"
+  ],
+  "note": "Ватсалья: дары и имя «Нимай» (ЧЧ Ади 13.111–118); Господь называл её «матерью» (ЧБ Мадхья 19.227) и почитал как Шачи (M 219–220); кормила Его в Шантипуре и Пури (ЧЧ Мадхья 3.41; ЧБ Антья 9.19–24)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "friend",
+  "who": "@shachi",
+  "facts": [
+   "F18",
+   "F19",
+   "F20",
+   "F22",
+   "F23",
+   "F32"
+  ],
+  "note": "«Одного сердца» (M 218); учила её уходу за Младенцем (M 217); четыре дня была с ней после санньясы Господа (M 218). = @shachi F87–F92."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F11",
+   "F18",
+   "F19",
+   "F20",
+   "F23"
+  ],
+  "note": "Почтила его и получила почести при прощании (ЧЧ Ади 13.118); M 216 — весть Адвайте от него. = @jagannatha-mishra F34, F35, F76."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@vishvarupa",
+  "facts": [
+   "F16",
+   "F23"
+  ],
+  "note": "Благословила «обоих братьев» (ЧЧ Ади 13.117)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F27",
+   "F28",
+   "F30",
+   "F37"
+  ],
+  "note": "Смеялся её словам при наказании Адвайты; после её трапезы разбросал рис (ЧБ Мадхья 19). = @nityananda F208."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F11",
+   "F27",
+   "F29",
+   "F30"
+  ],
+  "note": "Свидетель в Шантипуре; с Адвайтой плясал при явлении Господа (B 866). = @haridasa-thakura F61–F62."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@srirama-pandita",
+  "facts": [
+   "F24"
+  ],
+  "events": [
+   "ev-advaita-comes-to-navadvipa"
+  ],
+  "note": "Принёс весть об откровении Господа (ЧБ Мадхья 6)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F37",
+   "F39"
+  ],
+  "events": [
+   "ev-jahnava-kheturi"
+  ],
+  "note": "Обняла её и Васудху (M 65); к приходу Джахнавы в Шантипур уже ушла (M 66). = @jahnava F37, F55."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@vasudha",
+  "facts": [
+   "F37"
+  ]
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F38"
+  ],
+  "events": [
+   "ev-srinivasa-shantipura",
+   "ev-srinivasa-khardaha-jahnava"
+  ],
+  "note": "Благословила, вверила Мадана-Гопалу (БР 4.63–80). = @srinivasa-acharya F44."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F31"
+  ],
+  "events": [
+   "ev-kirtan-festival-advaita-house"
+  ],
+  "note": "Его пада (ПК 23) о празднике в доме Адвайты. = @parameshvara-dasa F51."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@malini",
+  "facts": [
+   "F42",
+   "F43"
+  ],
+  "note": "Пады Нарахари; «Намамрита-самудра» 10 — в одном ряду хранительниц Гауры."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F45"
+  ],
+  "events": [
+   "ev-sita-initiation"
+  ],
+  "note": "Только «Адвайта-пракаша» (ур. D): дал ей мантру во сне."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "disciple",
+  "who": "@nandini-sita",
+  "facts": [
+   "F44"
+  ],
+  "note": "Служанка; получила от неё мантру Кришны (ПВ 24.354–355, ур. C); по ПВ 4 позже отвергнута ею (за Камадевой Нагарой)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "disciple",
+  "who": "@jangali",
+  "facts": [
+   "F44"
+  ],
+  "events": [
+   "ev-jangali-tota"
+  ],
+  "note": "Служанка-подвижница; мантра от Ситы, Джангали-тота (ПВ 24.354–368, ур. C)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@chhota-shyamadasa",
+  "facts": [
+   "F44"
+  ],
+  "note": "ПВ 24.350–351 (ур. C): вскормлен ею, видел её четырёхрукой."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@ishana-nagara",
+  "facts": [
+   "F45"
+  ],
+  "note": "«Адвайта-пракаша» (ур. D): растила его; после ухода Адвайты велела ему жениться."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@yogamaya",
+  "facts": [
+   "F6",
+   "F7",
+   "F40"
+  ],
+  "note": "По ГГД 86 — Йогамайя (см. identities)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@govinda-acharya",
+  "facts": [
+   "F7"
+  ],
+  "note": "ГГД 41: Паурнамаси — он (против отождествления Ситы с Паурнамаси у M, ⚠2)."
+ },
+ {
+  "from": "@sita-thakurani",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F13",
+   "F17",
+   "F18",
+   "F33"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 13.111–118 и Мадхья 3.41 — B пересказывает её без ссылки."
  },
  {
   "from": "@srinivasa-acharya",
