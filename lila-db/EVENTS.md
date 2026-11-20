@@ -3135,14 +3135,14 @@
 ## Освобождение Сарвабхаумы / Deliverance of Sarvabhauma  `ev-sarvabhauma-deliverance` (1510–1510, возраст 24–24, оценка)
 
 - vaishnava-lilamrita (C): Гл. 4, 51–58 — [4.51–4.58](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L29-L36) · `vlm-0003`
-- cb (A): Антья 3, 7–64 — [7–64](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L42-L322) · `cb-3037`
+- cb (A): Антья 3, 7–64 — [7–64](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L42-L324) · `cb-3037`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 215–234 (с 223+1–223+4, 231+1–231+2) — [215–234](../lochana/ru/45.md?plain=1#L343-L418) · `lcm-0214`
 - murari-kcc (A): Пракрама 3, сарга 12, шлоки 7–11 — [7–11](../murari-gupta/ru/3.12.md?plain=1#L17-L25) · `mkc-0167`
-- cb (A): Антья 3, 65–79 — [65–79](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L327-L394) · `cb-3038`
-- cb (A): Антья 3, 80–99 — [80–99](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L399-L493) · `cb-3039`
+- cb (A): Антья 3, 65–79 — [65–79](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L329-L396) · `cb-3038`
+- cb (A): Антья 3, 80–99 — [80–99](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L401-L495) · `cb-3039`
 - advaita-prakasha (D): Гл. 15, 127–128 — [127. Через нес–128. Прежде Са](../advaita-prakash/15.md?plain=1#L131-L132) · `apr-0089`
 - bhaktamal (D): Приядас, кавитта 331; § 4.1 — [331–331](../vallabha/ru/04.md?plain=1#L43-L43) · `bkm-0009`
-- cb (A): Антья 3, 106–155 — [106–155](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L513-L748) · `cb-3040`
+- cb (A): Антья 3, 106–155 — [106–155](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L515-L752) · `cb-3040`
 - cc (A): Мадхья 6.118–138 — [118–138](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md?plain=1#L1218-L1418) · `cc-1049`
 - chaitanya-chandrodaya (A): Акт 6, утро: милость к Сарвабхауме, ст. 26–44 — [*(Все проводят часы в любезной беседе.)*–*Так заканчивается шестой акт «Шри Чайта](../chaitanya-chandrodaya/ru/06.md?plain=1#L514-L758) · `ccd-0051`
 - gaura-krishnodaya (B): Сарга 8, 24–41 — [24–41](../gaura-krishnodaya/ru/08.md?plain=1#L55-L91) · `gkd-0072`
@@ -3171,19 +3171,19 @@
 
 ## Жители Нилачалы: «Это движущийся Джаганнатха» / The people of Nilachala: 'He is the moving Jagannatha'  `ev-puri-people-moving-jagannatha` (1510–1510, возраст 24–24, )
 
-- cb (A): Антья 3, 156–166 — [156–166](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L753-L803) · `cb-3041`
+- cb (A): Антья 3, 156–166 — [156–166](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L757-L807) · `cb-3041`
 
 ## Нитьянанда взбирается на трон и обнимает Божество Баларамы / Nityananda climbs the throne and embraces the Deity of Balarama  `ev-nityananda-embraces-balarama-deity` (1510–1510, возраст 24–24, )
 
-- cb (A): Антья 3, 192–202 — [192–202](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L933-L983) · `cb-3044`
+- cb (A): Антья 3, 192–202 — [192–202](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L937-L987) · `cb-3044`
 
 ## Лунной ночью: киртан Господа на берегу океана / The Lord's moonlit kirtana on the ocean shore  `ev-ocean-shore-moonlit-kirtan` (1510–1510, возраст 24–24, )
 
-- cb (A): Антья 3, 203–227, 263–268 — [203–227](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L988-L1105); [263–268](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1282-L1307) · `cb-3045`
+- cb (A): Антья 3, 203–227, 263–268 — [203–227](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L992-L1109); [263–268](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1286-L1311) · `cb-3045`
 
 ## Гададхара читает Господу «Бхагавату» / Gadadhara reads the Bhagavata to the Lord  `ev-gadadhara-reads-bhagavata-puri` (1510–1510, возраст 24–24, )
 
-- cb (A): Антья 3, 228–231 — [228–231](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1110-L1125) · `cb-3046`
+- cb (A): Антья 3, 228–231 — [228–231](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1114-L1129) · `cb-3046`
 - cb (A): Антья 10, 32–57 — [32–57](../chaitanya-bhagavata/ed/CB_Antya10.md?plain=1#L164-L286) · `cb-3121`
 
 ## Первые праздники в Пури: Дола-ятра и Рама-навами / The first festivals in Puri: Dola-yatra and Rama-navami  `ev-first-year-festivals-puri` (1510–1510, возраст 24–24, )
@@ -3712,12 +3712,12 @@
 
 ## Приход в Пури Парамананды Пури, Сварупы Дамодары и других / The arrival in Puri of Paramananda Puri, Svarupa Damodara and others  `ev-svarupa-paramananda-arrive` (1512–1514, возраст 26–28, оценка)
 
-- cb (A): Антья 3, 167–178 — [167–178](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L808-L863) · `cb-3042`
+- cb (A): Антья 3, 167–178 — [167–178](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L812-L867) · `cb-3042`
 - cc (A): Мадхья 10.91–101 — [91–101](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya10.md?plain=1#L914-L1014) · `cc-2009`
 - gaura-krishnodaya (B): Сарга 11, 28–29 — [28–29](../gaura-krishnodaya/ru/11.md?plain=1#L67-L69) · `gkd-0106`
 - cc (A): Мадхья 10.102–117 — [102–117](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya10.md?plain=1#L1024-L1174) · `cc-2010`
 - cc (A): Мадхья 10.118–129 — [118–129](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya10.md?plain=1#L1184-L1300) · `cc-2011`
-- cb (A): Антья 3, 179–191 — [179–191](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L868-L928) · `cb-3043`
+- cb (A): Антья 3, 179–191 — [179–191](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L872-L932) · `cb-3043`
 - cc (A): Мадхья 1.129–130 — [129–130](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya01.md?plain=1#L1341-L1351) · `cc-0326`
 
 ## Брахмананда Бхарати оставляет оленью шкуру / Brahmananda Bharati gives up his deerskin  `ev-brahmananda-bharati-deerskin` (1512–1514, возраст 26–28, оценка)
@@ -3809,7 +3809,7 @@
 
 ## Ганга входит в колодец Парамананды Пури / The Ganga enters Paramananda Puri's well  `ev-paramananda-puri-well-ganga` (1512–1514, возраст 26–28, )
 
-- cb (A): Антья 3, 232–262 — [232–262](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1130-L1277) · `cb-3047`
+- cb (A): Антья 3, 232–262 — [232–262](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1134-L1281) · `cb-3047`
 
 ## Адвайта начинает киртан имён Гауранги / Advaita begins the kirtana of Gauranga's names  `ev-advaita-gaura-kirtan` (1512–1514, возраст 26–28, оценка)
 
@@ -4331,12 +4331,12 @@
 
 ## Господь в доме Видья-Вачаспати: толпы жаждут Его видеть / The Lord at Vidya-vachaspati's house: crowds long to see Him  `ev-vidya-vachaspati-house` (1514–1516, возраст 28–30, оценка)
 
-- cb (A): Антья 3, 269–284 — [269–284](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1312-L1387) · `cb-3048`
+- cb (A): Антья 3, 269–284 — [269–284](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1316-L1391) · `cb-3048`
 - cc (A): Мадхья 1.150–151 — [150–151](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya01.md?plain=1#L1551-L1561) · `cc-0339`
 - jayananda-cm (C): Виджая-кханда: «В Баяре» (С. Сен) — [33:1–27:2](../jayananda/ru/06-manuscripts.md?plain=1#L1051-L1054) · `jcm-0085`
 - karnapura-ckm (A): Сарга 20, 26–30 — [26–30](../karnapura-mahakavya/ru/20.md?plain=1#L591-L677) · `kcm-0174`
 - murari-kcc (A): Пракрама 3, сарга 17, шлоки 14–16 — [14–16](../murari-gupta/ru/3.17.md?plain=1#L31-L35) · `mkc-0186`
-- cb (A): Антья 3, 285–342 — [285–342](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1392-L1677) · `cb-3049`
+- cb (A): Антья 3, 285–342 — [285–342](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1396-L1681) · `cb-3049`
 
 ## Кулия: прощение Гопалы Чапалы / Kuliya: Gopala Chapala forgiven  `ev-gopala-chapala-forgiven` (1514–1516, возраст 28–30, оценка)
 
@@ -4345,20 +4345,20 @@
 
 ## Кулия: Господь выходит к толпам; тысячи групп киртана / Kulia: the Lord comes out to the crowds; thousands of kirtana parties  `ev-kulia-mass-kirtan` (1514–1516, возраст 28–30, оценка)
 
-- cb (A): Антья 3, 343–411 — [343–411](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1682-L2022) · `cb-3050`
-- cb (A): Антья 3, 412–441 — [412–439](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2027-L2156) · `cb-3051`
+- cb (A): Антья 3, 343–411 — [343–411](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1686-L2026) · `cb-3050`
+- cb (A): Антья 3, 412–441 — [412–439](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2031-L2160) · `cb-3051`
 
 ## Кулия: брахман-хулитель вайшнавов получает лекарство — прославлять вайшнавов / Kulia: a brahmana who blasphemed Vaishnavas receives the remedy — to glorify them  `ev-kulia-offender-brahmana-remedy` (1514–1516, возраст 28–30, оценка)
 
-- cb (A): Антья 3, 442–463 — [442–463](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2168-L2267) · `cb-3052`
+- cb (A): Антья 3, 442–463 — [442–463](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2172-L2271) · `cb-3052`
 
 ## Милость к Девананде Пандиту / Mercy to Devananda Pandita  `ev-devananda-mercy` (1514–1516, возраст 28–30, оценка)
 
-- cb (A): Антья 3, 464–503 — [464–503](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2272-L2460) · `cb-3053`
+- cb (A): Антья 3, 464–503 — [464–503](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2276-L2464) · `cb-3053`
 - cc (A): Ади 10.77 — [77–77](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi10.md?plain=1#L783-L783) · `cc-0132`
 - cc (A): Мадхья 1.152–154 — [152–154](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya01.md?plain=1#L1571-L1591) · `cc-0340`
 - murari-kcc (A): Пракрама 3, сарга 17, шлоки 17–20 — [17–20](../murari-gupta/ru/3.17.md?plain=1#L37-L43) · `mkc-0187`
-- cb (A): Антья 3, 504–543 — [504–543](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2465-L2654) · `cb-3054`
+- cb (A): Антья 3, 504–543 — [504–543](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2469-L2658) · `cb-3054`
 
 ## Владыка Гауды видит толпы, идущие за Господом / The Sultan of Gauda sees the crowds following the Lord  `ev-gauda-sultan-sees-crowds` (1514–1516, возраст 28–30, оценка)
 
