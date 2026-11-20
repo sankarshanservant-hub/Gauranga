@@ -8,7 +8,7 @@ we know of his life. The sources call him Sri Madhu Pandita and Srila Madhu Pand
 “Bhakti-ratnakara” calls him “the adhikari of Sri Gopinatha,” that is, the one entrusted with the Deity's service and
 care, and in the “Narottama-vilasa” “Sri Madhu Pandita Gosvami.”[^1] <!-- F1 -->
 
-Of his worldly life almost nothing is known. The sources name neither his family and lineage, nor the year and day of
+Of his life beyond this service very little is known. The sources name neither his family and lineage, nor the year and day of
 his appearance, nor when and where he left this world; nor are his days found in the Vaishnava calendar of the Sri
 Chaitanya Saraswat Math. Neither the “Chaitanya-charitamrita” nor the “Chaitanya-bhagavata” speaks of him; the Vaishnava
 vandanas call him a servant of Lord Sri Chaitanya, but whether he met Mahaprabhu in person the sources do not say.
@@ -55,9 +55,9 @@ The words about lameness and dullness of mind are the humility of Kaviraja Gosva
 Pandita.[^5] Madana-mohana is the Lord of *sambandha*, knowledge of the soul's relationship with Krishna; Govindadeva is
 the Lord of *abhidheya*, the path of service; Gopinatha is the Lord of *prayojana*, the highest goal, the prema of the
 gopis whom He calls to the rasa with His flute. So Srila Bhaktisiddhanta explains these verses in the “Anubhashya.” By
-granting the Gaudiya Vaishnavas the right to serve Them, these three Deities made them Their intimates, as the
-“Amrita-pravaha-bhashya” of Srila Bhaktivinoda Thakura explains: service is the sign that the Lord has accepted the
-servant as His own. To Madhu Pandita the Lord entrusted the service of the Deity of the highest goal.
+granting the Gaudiya Vaishnavas the right to serve Them, these three Deities made them Their intimates — so the
+“Amrita-pravaha-bhashya” of Srila Bhaktivinoda Thakura explains Adi 1.19. Service itself, then, is the sign that the
+Lord has accepted the servant as His own. To Madhu Pandita the Lord entrusted the service of the Deity of the highest goal.
 <!-- F14 F15 Q4 Q5 Q6 Q7 I2 I3 -->
 
 ## Gopinatha at Vamshivata
@@ -85,14 +85,14 @@ beautiful and sweet is the life of Sri Gopinatha, and whoever hears of it even o
 (2.480–483).[^7] <!-- F8 F11 F12 F13 F17 Q3 I1 -->
 
 ## With Radha and Ananga-manjari
-In Vraja Madhu Pandita manifested the service of Gopinatha, the Lord of the highest goal, together with Sri Radha, the
+In Vraja it was Madhu Pandita who brought to light the worship of Gopinatha, the Lord of the highest goal, together with Sri Radha, the
 daughter of Vrishabhanu, and Sri Jahnava — Ananga-manjari, Radha's younger sister. This is the eternal lila of the Lord
 and His eternal companions, and there is nothing mundane in it. Other associates of Gaura manifested the same service
 of Gopinatha: Abhirama at Khanakula-Krishnanagara in Gauda-mandala, and Gadadhara Pandita, Madhu Pandita's guru, in
 Purushottama-dhama in Kshetra-mandala, likewise with Radha and Ananga-manjari.[^8] <!-- F16 -->
 
 ## In the Vrindavana of Jiva's Time
-When Srinivasa came to Vrindavana, Jiva Gosvami brought him to Gopala Bhatta and Radha-ramana and introduced him to
+When Srinivasa came to Vrindavana, Jiva Gosvami took him to Gopala Bhatta and to Radha-ramana and made him known to
 Lokanatha, Bhugarbha, Paramananda and Madhu Pandita. The “Bhakti-ratnakara” describes their meeting before Gopinatha:
 
 “Then Sri Jiva, taking Srinivasa, went for the darshan of Gopinatha. Srinivasa, at the darshan of Sri Gopinatha, lost
@@ -119,24 +119,28 @@ tell. He gave him darshan of Radha-Gopinatha and, bringing a garland-prasada, ga
 When Jahnava-devi came to Vrindavana, the heads of the Vaishnavas went out to greet her — Jiva, Gopala Bhatta,
 Lokanatha, Bhugarbha and Madhu Pandita. At Akrura-ghata, at her request, Parameshvari Dasa named those who approached,
 pointing to each with his hand: “…this is Sri Madhu Pandita, this is the renowned Jiva” (“Bhakti-ratnakara”
-11.100–106).[^10] <!-- F21 -->
+11.100–106).[^10] Then the Gosvamis, in great joy, bowed down to her to the ground, while Jahnava, prema-bhakti
+embodied, held herself to be small (11.107–108); in their company she went to the chief temples of Vrindavana —
+Madana-mohana, Govinda and Gopinatha. <!-- F21 F28 -->
 
 He also met Nityananda's son Virachandra (Virabhadra) when he came to Vrindavana: among the mahajanas of Vraja who went
 out to receive him, the “Bhakti-ratnakara” names Madhu Pandita — “the adhikari of Sri Gopinatha” — and his godbrother
-Bhavananda, “whose great joy is the service of Gopinatha” (13.319–320).[^11] Madhu Pandita was joined to Bhavananda and
-to Paramananda Bhattacharya by friendship and by their shared service of Gopinatha. <!-- F22 -->
+Bhavananda, “whose great joy is the service of Gopinatha” (13.319–320).[^11] Madhu Pandita was joined to Paramananda
+Bhattacharya by friendship, and to Bhavananda by the shared service of Gopinatha as well. <!-- F22 -->
 
 ## In the Prayers of the Vaishnavas
 Madhu Pandita's name entered the vandanas, the hymns of praise to the Lord's associates. The vandana attributed to Jiva
 Gosvami says, “I praise the Pandita named Madhu,” and “Purushottama Brahmachari and the Pandita named Madhu, servants of
 Lord Sri Chaitanya, merciful great souls”; Devakinandana writes, “I praise Sri Madhu Pandita”; the vandana in the
-tripadi metre says, “Purushottama Brahmachari and Sri Madhu Pandita, the two noble servants of Chaitanya, I praise.”[^12]
-Narahari Dasa, in his song listing the Lord's associates, strings his name together with others: “Kavichandra,
+tripadi metre names him twice: “Then I shall glorify the feet of Pandita Madhu, whom all call the Vaishnava Pandita,” and
+“Purushottama Brahmachari and Sri Madhu Pandita, the two noble servants of Chaitanya, I praise.”[^12] A song listing the
+Lord's associates and signed “Narahari” — it is found in the closing chapter of the “Bhakti-ratnakara” as well, so it
+was probably composed by Narahari Chakravarti himself — strings his name together with others: “Kavichandra,
 Vidyanidhi, Sri Madhu Pandita and all the others dear to Gaura — of these jewel-names I shall make a necklace.”
-<!-- F23 F24 -->
+<!-- F23 F24 F27 -->
 
-Narahari Chakravarti, the author of the “Bhakti-ratnakara,” in the “Namamrita-samudra,” his prayers to the Lord's
-associates, calls on him together with Kashi Mishra and Gangadasa:
+In the “Namamrita-samudra,” his prayers to the Lord's associates, Narahari Chakravarti calls on him together with
+Kashi Mishra and Gangadasa:
 
 “O Sri Madhu Pandita, Kashi Mishra, Gangadasa! I place my hope in your feet — do not leave me without hope.”
 (“Namamrita-samudra” 34)
