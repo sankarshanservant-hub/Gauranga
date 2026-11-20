@@ -498,12 +498,14 @@ His name.” Good people accepted the instruction, others cursed, and those who 
 Srivasa's courtyard said that such company had been Nimai Pandita's undoing. <!-- F83 Q10 -->
 
 One day they saw two drunken brothers in the street, Jagai and Madhai — by people's account, of a noble brahmana family.
-Nityananda disclosed to Haridasa that He wished to deliver them; Haridasa at first advised not to approach such
-offenders, and Nityananda said to him:
+Nityananda, wishing to deliver them, said to Haridasa:
 
 “‘O Haridasa, see how wretched they are! Born brahmanas, they have fallen so low; they will never escape the punishment
 of Yamaraja. When the Yavanas were beating you nearly to death, you cared only for their welfare.’” (CB, Madhya
 13.63–65)
+
+The truth about Nityananda was revealed to Haridasa, and he understood that the brothers were already delivered; he
+replied: “Whatever You desire is the desire of the Lord” (CB, Madhya 13.70–71).
 
 The two preachers approached and repeated the Lord's words to the brothers, but these rushed at them in a fury, and the
 preachers fled; Haridasa, already old, could hardly keep up with Nityananda. In the evening he complained to Advaita in
