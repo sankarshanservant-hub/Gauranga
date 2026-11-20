@@ -4335,6 +4335,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@kurma-vipra",
+    "type": "guest"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "companion"
    },
@@ -16858,6 +16862,10 @@
     "type": "other"
    },
    {
+    "from": "@kurma-vipra",
+    "type": "other"
+   },
+   {
     "from": "@mukunda-datta",
     "type": "co-worker"
    },
@@ -24931,6 +24939,10 @@
     "type": "other"
    },
    {
+    "from": "@kurma-vipra",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -28239,6 +28251,87 @@
   "events": [
    "ev-kurma-vasudeva"
   ],
+  "summary": "происхождение — Курма-кшетра (Шрикурмам)",
+  "card": "parshadas/cards/kurma-vipra.yaml",
+  "article": {
+   "ru": "parshadas/ru/kurma-vipra.md",
+   "en": "parshadas/en/kurma-vipra.md"
+  },
+  "kind": "associate",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники не сообщают; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) дня явления нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники об уходе ничего не сообщают; в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет",
+    "facts": []
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "guest",
+    "who": "@mahaprabhu",
+    "note": "Господь остановился у него на ночь: омовение стоп, угощение, хвала; Курма просил взять его с Собой, но Господь велел оставаться дома, непрестанно повторять имя Кришны и по Его повелению стать гуру и наставлять всех; обещал: «здесь же снова обретёшь Моё общество» (ЧЧ Мадхья 7.121–135). Курма долго провожал Его. Ход встречи у Мурари, Карнапуры, в ЧЧН, ГКД и у Лочана различается (⚠5)."
+   },
+   {
+    "type": "friend",
+    "who": "@vasudeva-vipra",
+    "note": "Прокажённый брахман той же местности; от Курмы узнал, что Господь ушёл; после ухода Господа оба обнялись и плакали, вспоминая Его милость (ЧЧ Мадхья 7.149). У Мурари и Лочана Господь наставляет обоих вместе. Другое лицо — не путать."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Брахман-слуга, сопровождавший Господа на юг (ЧЧ Мадхья 7.39–40) — по T, был с Господом в Курма-кшетре."
+   },
+   {
+    "type": "other",
+    "who": "@ramanujacharya",
+    "note": "Предание «Прапаннамриты» (по «Анубхашье» к ЧЧ Мадхья 7.113) об открытии служения Божеству Курмы — о месте."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Мадхья 7.113, 7.130 (наставление «оставайся дома» — отбросить гордость «всецело отданного бхаджану», делать дело гуру со смирением); «The Harmonist» 1928 (под его редакцией)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Основной рассказ — ЧЧ Мадхья 7.121–135; на его примере автор показывает, как Господь поступал повсюду (7.131–133)."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "«Кадача» 3.14.13–20."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "Махакавья 12.102–117; «Чайтанья-чандродая», акт 7."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-deva-kavi",
+    "note": "«Гаура-кришнодая» 9.4–12."
+   },
+   {
+    "type": "other",
+    "who": "@lochana-dasa",
+    "note": "Шеша-кханда, «Странствие Господа по Югу», 46.4–14."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "«Намамрита-самудра» 166 — молитва к «Шри Курме Тхакуру, жителю Курмы»."
+   }
+  ],
   "related_by": [
    {
     "from": "@vasudeva-vipra",
@@ -28354,6 +28447,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@kurma-vipra",
+    "type": "friend"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "other"
@@ -35403,6 +35500,10 @@
     "type": "other"
    },
    {
+    "from": "@kurma-vipra",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -36765,6 +36866,10 @@
    },
    {
     "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
+   {
+    "from": "@kurma-vipra",
     "type": "other"
    },
    {
@@ -42956,6 +43061,10 @@
     "type": "other"
    },
    {
+    "from": "@kurma-vipra",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -44442,6 +44551,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@kurma-vipra",
     "type": "other"
    },
    {
@@ -47589,6 +47702,10 @@
    },
    {
     "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
+    "from": "@kurma-vipra",
     "type": "other"
    },
    {
@@ -52647,6 +52764,10 @@
   "related_by": [
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@kurma-vipra",
     "type": "other"
    },
    {
@@ -62494,6 +62615,10 @@
    {
     "from": "@baladeva-vidyabhushana",
     "type": "opposed"
+   },
+   {
+    "from": "@kurma-vipra",
+    "type": "other"
    },
    {
     "from": "@madhvacharya",
