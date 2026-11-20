@@ -1,0 +1,881 @@
+# English translation, Ādi-līlā 10 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Description of the Branches of the Main Trunk
+
+## 1
+w: of Śrī Caitanya’s  lotus feet
+w: to the bees  obeisance  obeisance
+w: in any way  by taking shelter  of whom
+w: even a dog  of that fragrance  a partaker  may become
+tr: Again and again I bow to the devotees who, like bees, drink the honey of Śrī Caitanya’s lotus feet. Even one as low as a dog, if he takes shelter of them in any way at all, comes to share in the fragrance of those feet.
+fn: *Anubhāṣya*: the “dog” is one absorbed in enjoyment and without faith in the Lord’s devotees; to “share in the fragrance” of the feet is to receive devotion to Gaura.
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  to Nityānanda
+w: glory to Advaitacandra  glory  to the host of Gaura’s devotees
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya and Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: of this gardener — of this tree  inexpressible  the account
+w: now  hear  of the main branches  of the names  the account
+tr: This gardener, this tree, is beyond all telling. Now hear the names of its principal branches.
+
+## 4
+w: of Caitanya Gosāñi  as many  associates  the host
+w: lesser or greater  status  their  not  is  determinable
+tr: Caitanya Gosāñi’s associates are a vast host, and no one can determine who among them is greater and who is lesser.
+fn: Heading in the edition: “Among Gaura’s devotees there is no division into higher and lower.”
+
+## 5
+w: as many  as many  great souls  made  of them all  an enumeration
+w: anyone  to make  is not able  of senior and junior  the order
+tr: Many great souls have listed them all, yet none has been able to set them in order of seniority.
+
+## 6
+w: therefore  to them all  having made  obeisance
+w: names  only  I give  fault  do not take  my
+tr: Therefore, bowing down to them all, I shall simply name them. Please do not count this as a fault in me.
+
+## 7
+w: I worship  of Śrī Kṛṣṇa Caitanya,
+w: the immortal tree of love,  the dear ones
+w: in the form of branches  the devotees
+w: of love for Kṛṣṇa  the fruit  who give
+tr: Śrī Kṛṣṇa Caitanya is the immortal tree of love. I worship His dear devotees, who are the branches of that tree and give everyone the fruit of love for Kṛṣṇa.
+fn: *Amṛta-pravāha-bhāṣya*: the wish-fulfilling tree of love is Śrī Kṛṣṇa Caitanya Himself, and His dear devotees are its branches, which give the fruit of love for Kṛṣṇa.
+
+## 8
+w: Śrīvāsa  Paṇḍita  and  Śrī  Rāma  Paṇḍita
+w: two  brothers —  two  branches  in the world  renowned
+tr: Śrīvāsa Paṇḍita and Śrī Rāma Paṇḍita — two brothers, two branches — are renowned throughout the world.
+fn: In the Gauḍīya Maṭha edition the branches are listed under numbered headings: (1 — a, b, c, d) Śrīvāsa, Śrī Rāma and their two brothers; (2) Candraśekhara; (3) Puṇḍarīka Vidyānidhi, and so on; the offshoots of a branch are marked with letters (20a — Satyarāja, an offshoot of Haridāsa’s branch). The ordinal numbers of the branches in the translation follow these headings. *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Śrīvāsa was Nārada Muni, and Śrī Rāma the sage Parvata, Nārada’s friend; Śrīvāsa’s wife Mālinī was Ambikā, Kṛṣṇa’s nurse; Śrīvāsa’s niece Nārāyaṇī was the mother of Ṭhākura Vṛndāvana dāsa. After Mahāprabhu took sannyāsa, Śrīvāsa left Navadvīpa and settled in Kumārahaṭṭa.
+
+## 9
+w: Śrīpati,  Śrīnidhi —  their  two  brothers
+w: of the four  brothers  menservants and maidservants,  household
+tr: Śrīpati and Śrīnidhi are their two brothers, and the four brothers had menservants, maidservants and a whole household.
+
+## 10
+w: of the two  branches  among the offshoots  of them all  the counting
+w: in whose  house  Mahāprabhu’s  constant  saṅkīrtana
+tr: All of them are counted among the offshoots of these two branches. In their house Mahāprabhu held saṅkīrtana constantly.
+fn: Heading in the edition: “Their undivided devotion to Gaura.”
+
+## 11
+w: with their family  render  who  Caitanya  service
+w: Gauracandra  besides  not  know  goddess or god
+tr: With their whole family they served Śrī Caitanya, and apart from Gauracandra they knew no god or goddess.
+
+## 12
+w: ‘Ācāryaratna’  the name  bears  big  one  branch
+w: his  associates  his  branches and offshoots
+tr: Another great branch bears the name Ācāryaratna; his associates are its branches and offshoots.
+
+## 13
+w: of Ācāryaratna  the name  ‘Śrī Candraśekhara’
+w: in whose  house  in the mood of the Goddess  danced  the Lord
+tr: Ācāryaratna’s own name is Śrī Candraśekhara. In his house the Lord danced in the form of the Goddess, the Ādi-śakti.
+fn: *Anubhāṣya*: in Candraśekhara’s house a sacred drama was performed in which Mahāprabhu danced as the Goddess (*Caitanya-bhāgavata*, Madhya 18); the place is now known as Vraja-pattana. Candraśekhara was with Mahāprabhu in Kāṭoyā at His sannyāsa and, returning to Navadvīpa, told everyone of it. *Amṛta-pravāha-bhāṣya*: according to some books, Candraśekhara was the husband of the sister of Mahāprabhu’s mother.
+
+## 14
+w: Puṇḍarīka  Vidyānidhi —  a great  branch  I know
+w: whose  name  uttering  the Lord  wept  Himself
+tr: Puṇḍarīka Vidyānidhi is a great branch; the Lord Himself would weep as He spoke his name.
+fn: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Puṇḍarīka Vidyānidhi was Vṛṣabhānu, the father of Śrī Rādhā; Mahāprabhu called him “Father” and gave him the name Premanidhi. A disciple of Śrī Mādhavendra Purī, he was the guru of Gadādhara Paṇḍita and the friend of Svarūpa Dāmodara; his home was in Cāṭigrām.
+
+## 15
+w: a great  branch —  Gadādhara  Paṇḍita  Gosāñi
+w: he  Lakṣmī in form,  to him  equal  anyone  there is not
+tr: Another great branch is Gadādhara Paṇḍita Gosāñi. He is the very form of Lakṣmī, and none is his equal.
+fn: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Gadādhara Paṇḍita is Śrī Rādhā, the queen of Vṛndāvana; Svarūpa Dāmodara saw in him the Lakṣmī of Vraja. His branch is described at the end of Ādi 12.
+
+## 16
+w: his  disciples and their disciples —  his  offshoots
+w: in this way  of all  the branches and offshoots  the account
+tr: His disciples and their disciples are the offshoots of this branch, and so it is with all the other branches and offshoots.
+
+## 17
+w: Vakreśvara  Paṇḍita —  of the Lord  a very  dear  servant
+w: in one ecstasy  twenty-four  praharas  whose  dance
+tr: Vakreśvara Paṇḍita was a servant very dear to the Lord. In a single unbroken ecstasy he could dance for twenty-four praharas — three days and nights.
+
+## 18
+w: Himself  Mahāprabhu  sings  whose  at the time of dancing
+w: the Lord’s  feet  clasping  Vakreśvara  says
+tr: While he danced, Mahāprabhu Himself would sing, and once Vakreśvara clasped the Lord’s feet and said:
+
+## 19
+w: ten  thousand  Gandharvas  to me  give,  O moon-faced One
+w: they  sing,  I  dance —  then  my  happiness
+tr: “O moon-faced Lord, give me ten thousand Gandharvas! Let them sing while I dance — that would be my joy.”
+
+## 20
+w: the Lord  says —  you  My  wing  one  side
+w: in the sky  flying  I would go,  if I got  another  wing
+tr: The Lord replied, “You are one of My wings. If I had another like you, I would fly up into the sky.”
+
+## 21
+w: Paṇḍita  Jagadānanda  of the Lord  the very life
+w: among people  famed  who  of Satyabhāmā  the manifestation
+tr: Paṇḍita Jagadānanda is the Lord’s very life. He is renowned as a manifestation of Satyabhāmā.
+fn: *Anubhāṣya*: in Navadvīpa he joined the Lord’s kīrtanas at Śrīvāsa’s house and in the home of Candraśekhara; after the Lord’s sannyāsa, on the way to Orissa, he carried His staff and begged alms for Him.
+
+## 22
+w: out of love  to do  wants  for the Lord  care and nurture
+w: for renunciation  people  fearing  the Lord  not  accepts  ever
+tr: Out of love he longed to surround the Lord with care and comfort, but the Lord, guarding His renunciation and wary of what people would say, never accepted it.
+
+## 23
+w: the two  little squabbles  start  quarrels
+w: of his  love  the account  later  I shall tell  all
+tr: So the two of them would fall into little quarrels. I shall tell the whole story of his love later on.
+
+## 24
+w: Rāghava  Paṇḍita —  of the Lord  an early  follower
+w: his  branch  main  one —  Makaradhvaja  Kara
+tr: Rāghava Paṇḍita was one of the Lord’s first followers, and his chief branch is Makaradhvaja Kara.
+fn: *Anubhāṣya*: Rāghava Paṇḍita’s home was in Pānihāṭi on the bank of the Gaṅgā; his samādhi is there, and the Deity Śrī Madana-mohana is still served nearby. Makaradhvaja Kara also lived in Pānihāṭi.
+
+## 25
+w: his  sister  Damayantī  of the Lord  dear  maidservant
+w: of the Lord  the provisions  who  makes  all year round
+tr: His sister Damayantī, a dear maidservant of the Lord, prepared provisions for Him all year round.
+
+## 26
+w: those  all  provisions  as many  in bags  filling
+w: Rāghava  taking  goes  secretly  keeping
+tr: Filling bags with all those provisions, Rāghava would carry them secretly to the Lord.
+
+## 27
+w: all the year  them  the Lord  accepts
+w: ‘Rāghava’s bags’  calling  the fame  of which
+tr: All year round the Lord accepted them, and they became famous as “Rāghava’s bags.”
+fn: The bags are described in Antya 10.
+
+## 28
+w: those  all  provisions  later  I shall make  in detail
+w: of which  in the hearing  of devotees  flow  streams of tears
+tr: I shall describe those provisions in detail later. Hearing of them, the devotees shed streams of tears.
+
+## 29
+w: of the Lord  extremely  dear —  Paṇḍita  Gaṅgādāsa
+w: by whose  remembrance  there is  of all  bonds  destruction
+tr: Paṇḍita Gaṅgādāsa was extremely dear to the Lord. Simply to remember him destroys all bondage.
+
+## 30
+w: Caitanya’s  associate —  Śrī  Ācārya  Purandara
+w: father  calling  whom  addresses  Gaurāṅgasundara
+tr: Śrī Purandara Ācārya was an associate of Śrī Caitanya; Gaurāṅgasundara called him Father.
+fn: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pānihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
+
+## 31
+w: Dāmodara  Paṇḍita  the branch  in love  fierce
+w: of the Lord  towards  who  made  a chastisement in words
+tr: Dāmodara Paṇḍita, another branch, was so fierce in his love that he even rebuked the Lord.
+
+## 32
+w: of the rebuke  the story  I shall tell  later  in detail  making
+w: with the rebuke  pleased  the Lord  him  sent  to Nadīyā
+tr: I shall tell the story of that rebuke in detail later. Pleased with it, the Lord sent him to Nadīyā.
+fn: *Amṛta-pravāha-bhāṣya*: the rebuke is described in Antya 3. *Anubhāṣya*: at the Lord’s wish Dāmodara Paṇḍita went to Gauḍa to be with Mother Śacī, and for the Ratha-yātrā he would come to Purī again with the devotees (*Caitanya-bhāgavata*, Antya 9).
+
+## 33
+w: his  younger brother  a branch —  Śaṅkara  Paṇḍita
+w: ‘the Lord’s footrest’  whose  name  is known
+tr: His younger brother, Śaṅkara Paṇḍita, is a branch known by the name “the Lord’s footrest.”
+
+## 34
+w: Sadāśiva  Paṇḍita  whose  at the Lord’s feet  hope
+w: at the very first  Nityānanda’s  in whose  house  dwelling
+tr: Sadāśiva Paṇḍita set all his hope on the Lord’s feet, and at first Nityānanda lived in his house.
+
+## 35
+w: of Śrī Nṛsiṁha  a worshipper —  Pradyumna  Brahmacārī
+w: the Lord  his  name  made  ‘Nṛsiṁhānanda’  making
+tr: Pradyumna Brahmacārī was a worshipper of Śrī Nṛsiṁha, and the Lord gave him the name Nṛsiṁhānanda.
+
+## 36
+w: Nārāyaṇa  Paṇḍita  one  most  generous
+w: of Caitanya  the feet  besides  not  knows  anything else
+tr: Nārāyaṇa Paṇḍita was a most generous soul who knew nothing but the feet of Śrī Caitanya.
+
+## 37
+w: Śrīmān  Paṇḍita  a branch —  of the Lord  own  servant
+w: the torch  holds  when  the Lord  dances
+tr: Śrīmān Paṇḍita, a branch and the Lord’s personal servant, held the torch whenever the Lord danced.
+
+## 38
+w: Śuklāmbara  Brahmacārī  very  fortunate
+w: whose  rice  begging  snatching  ate  the Lord
+tr: Śuklāmbara Brahmacārī was most fortunate: the Lord Himself would beg his rice, or snatch it from him, and eat it.
+fn: *Anubhāṣya*: in Navadvīpa Mahāprabhu would joyfully snatch and eat the rice that Śuklāmbara had gathered by begging (*Caitanya-bhāgavata*, Madhya 16 and 25).
+
+## 39
+w: Nandana  Ācārya  a branch  in the world  famed
+w: hiding  the two  Lords  in whose  house  stayed
+tr: Nandana Ācārya is a branch renowned throughout the world, for the two Lords hid in his house.
+
+## 40
+w: Śrī  Mukunda  Datta  a branch —  of the Lord  a fellow student
+w: in whose  kīrtana  dances  Caitanya Gosāñi
+tr: Śrī Mukunda Datta, another branch, was the Lord’s fellow student; when he sang kīrtana, Caitanya Gosāñi danced.
+
+## 41
+w: Vāsudeva  Datta —  of the Lord  a servant  great-souled
+w: with a thousand mouths  whose  qualities  telling  cannot be done
+tr: Vāsudeva Datta was the Lord’s great-souled servant; even with a thousand mouths one could not tell his virtues.
+
+## 42
+w: in the world  as many  beings,  their  sins  taking
+w: hell  to suffer  wants  the beings  setting free
+tr: He wished to take upon himself the sins of every living being in the world and suffer in hell himself, if only they could be set free.
+fn: His prayer is described in Madhya 15.159–180 (*Anubhāṣya*).
+
+## 43
+w: of the branch Haridāsa Ṭhākura  wonderful  the character
+w: three  hundred thousand  names  he  takes  without fail
+tr: Haridāsa Ṭhākura, another branch, lived a wondrous life: without fail he chanted three hundred thousand names every day.
+
+## 44
+w: his  endless  virtues —  I tell  only a glimpse
+w: Ācārya Gosāñi  whom  fed  the śrāddha plate
+tr: His virtues are endless; I can give only a glimpse of them. It was he whom Advaita Ācārya fed from the plate of the memorial offering, the *śrāddha-pātra*.
+fn: The *śrāddha-pātra* is offered to the most worthy brāhmaṇa; Advaita Ācārya offered it to Haridāsa, who was born in a Muslim family (Antya 3).
+
+## 45
+w: like Prahlāda  his  of virtues  the waves
+w: even when beaten by the Yavanas  whose  not  a frown
+tr: The waves of his virtues were like Prahlāda’s: even when the Yavanas beat him, he did not so much as frown.
+
+## 46
+w: he  perfection  attained when  his  body  taking  on His lap
+w: danced  Caitanya Prabhu  in great  joy
+tr: When he attained perfection, Caitanya Prabhu took his body in His arms and danced in great joy.
+
+## 47
+w: his  pastimes  has described  Vṛndāvana dāsa
+w: whatever  remains,  later  I shall make  known
+tr: Vṛndāvana dāsa has described his pastimes; what remains I shall tell later.
+
+## 48
+w: his  offshoots —  all the  of Kulīna-grāma  people
+w: Satyarāja and others —  of his  mercy  the recipients
+tr: All the people of Kulīna-grāma are his offshoots; Satyarāja and others received his mercy.
+fn: *Anubhāṣya*: Satyarāja Khān was the son of Guṇarāja Khān of Kulīna-grāma and the father of Rāmānanda Vasu. Haridāsa Ṭhākura spent a cāturmāsya in Kulīna-grāma and blessed the whole Vasu family. Mahāprabhu asked Satyarāja to bring silk ropes for Jagannātha every year and explained to him who is a Vaiṣṇava, a better Vaiṣṇava and the best of Vaiṣṇavas (Madhya 15–16).
+
+## 49
+w: Śrī  Murāri  Gupta  a branch —  of love  a storehouse
+w: of the Lord  the heart  melts  hearing  the humility  whose
+tr: Śrī Murāri Gupta is a branch, a storehouse of love; whenever the Lord heard his humble words, His heart would melt.
+fn: *Anubhāṣya*: Murāri Gupta, the author of the *Śrī Caitanya-carita*, was born of a physician family of Śrīhaṭṭa and later lived in Navadvīpa; he was older than Mahāprabhu. In his house the Lord showed His form as Varāha, and to him He revealed Himself as Śrī Rāma.
+
+## 50
+w: gifts  not  accepts,  not  takes  anyone’s  wealth
+w: his own calling  following  makes  of the family  support
+tr: He accepted no gifts and took no one’s money, but supported his family by his own calling.
+fn: *Amṛta-pravāha-bhāṣya*: *ātma-vṛtti* — the calling proper to one’s own class: Murāri Gupta was a physician (kavirāja).
+
+## 51
+w: treatment  gives  to whom  being  merciful
+w: of the body  the disease,  of worldly existence  the disease —  both  his  are destroyed
+tr: All whom he treated with kindness were freed from both diseases — the disease of the body and the disease of worldly existence.
+
+## 52
+w: Śrīmān  Sena  of the Lord  a servant  foremost
+w: of Caitanya  the feet  besides  not  knows  anything else
+tr: Śrīmān Sena was a foremost servant of the Lord and knew nothing but the feet of Śrī Caitanya.
+
+## 53
+w: Śrī  Gadādhara  dāsa  a branch  above all
+w: of the Kazis  in the mouths  who  made utter  ‘Hari’
+tr: Śrī Gadādhara dāsa is a branch above all others; he made even the Kazis utter the name of Hari.
+fn: *Anubhāṣya*: Gadādhara dāsa lived at Eṛiyādaha on the Gaṅgā and was one of Nityānanda’s chief helpers in preaching in Gauḍa. The local Kazi opposed the kīrtana; one night Gadādhara came to him singing and asked him to say the name of Hari. The Kazi replied, “I will say ‘Hari’ tomorrow,” and Gadādhara, full of love, cried out, “Why tomorrow? You have just said ‘Hari’!” He is the radiance of Śrī Rādhā and is counted among the associates of both Gaura and Nityānanda.
+
+## 54
+w: Śivānanda  Sena —  of the Lord  a servant  intimate
+w: to the Lord’s place  going  all  take  whose  company
+tr: Śivānanda Sena was an intimate servant of the Lord; all who went to see the Lord went in his company.
+
+## 55
+w: every year  the Lord’s devotees  with him  taking
+w: to Nīlācala  goes  on the way  care  taking
+tr: Every year he took the Lord’s devotees with him to Nīlācala, caring for them all along the way.
+fn: *Anubhāṣya*: Śivānanda Sena lived in Kumārahaṭṭa (Hālisahar); every year he guided the devotees of Gauḍa to Nīlācala and bore all the costs of the journey (Madhya 16.19–26).
+
+## 56
+w: to the devotees  mercy  shows  the Lord  in these three  forms
+w: ‘sākṣāt’,  ‘āveśa’  and  ‘āvirbhāva’  in the form
+tr: The Lord shows His mercy to the devotees in three ways: by being with them in person (*sākṣāt*), by entering someone with His power (*āveśa*), and by appearing where He is not present in person (*āvirbhāva*).
+
+## 57
+w: in ‘sākṣāt’  all  the devotees  see  without distinction
+w: Nakula  Brahmacārī’s  in the body  the Lord’s  ‘āveśa’
+tr: In His direct presence all the devotees see Him alike; in the body of Nakula Brahmacārī there was the Lord’s *āveśa*.
+fn: *Anubhāṣya*: according to the *Gaura-gaṇoddeśa-dīpikā* (74) it is the other way round: the Lord’s *āvirbhāva* was in Nakula Brahmacārī and His *āveśa* in Pradyumna Miśra. The Lord always manifests Himself (*āvirbhāva*) in four places: in Śacī’s house, in Nityānanda’s dancing, in Śrīvāsa’s kīrtana and in Rāghava’s house (Antya 2.34–35).
+
+## 58
+w: ‘Pradyumna  Brahmacārī’  his  earlier  name  was
+w: ‘Nṛsiṁhānanda’  the name  the Lord  afterwards  indeed  gave
+tr: His earlier name was Pradyumna Brahmacārī; afterwards the Lord gave him the name Nṛsiṁhānanda.
+
+## 59
+w: in him  there was  Caitanya’s  ‘āvirbhāva’
+w: extraordinary  such  of the Lord  many  ways
+tr: In him Śrī Caitanya manifested Himself (*āvirbhāva*). The Lord has many such wonderful, unearthly ways.
+
+## 60
+w: tasted  these  all  rasas  Sena  Śivānanda
+w: in detail  I shall tell  later  all this  bliss
+tr: Śivānanda Sena tasted all these rasas; I shall describe this bliss in detail later.
+fn: *Anubhāṣya*: Śivānanda Sena experienced and tasted all three kinds of the Lord’s mercy — *sākṣāt*, *āveśa* and *āvirbhāva* (Antya 2).
+
+## 61
+w: Śivānanda’s  offshoots —  his  associates
+w: sons  servants and others  taking together  Caitanya’s  servants
+tr: The offshoots of Śivānanda are his own people — his sons, his servants and others, all devoted to the service of Śrī Caitanya.
+
+## 62
+w: Caitanya dāsa,  Rāmadāsa,  and  Karṇapūra
+w: three  sons  of Śivānanda,  of the Lord  heroic devotees
+tr: Caitanya dāsa, Rāmadāsa and Karṇapūra, the three sons of Śivānanda, were heroic devotees of the Lord.
+fn: *Anubhāṣya*: Caitanya dāsa, the eldest, wrote a commentary on the *Kṛṣṇa-karṇāmṛta*. Karṇapūra, also called Paramānanda dāsa or Purī dāsa, a disciple of Śrīnātha Paṇḍita, wrote the *Ānanda-vṛndāvana-campū*, the *Alaṅkāra-kaustubha*, the drama *Śrī Caitanya-candrodaya*, the *Gaura-gaṇoddeśa-dīpikā* and other works.
+
+## 63
+w: Śrī Vallabha  Sena,  and  Sena  Śrīkānta
+w: through relation with Śivānanda  of the Lord  devotees  exclusive
+tr: Śrī Vallabha Sena and Śrīkānta Sena, related to Śivānanda, were wholly devoted to the Lord.
+fn: *Anubhāṣya*: Śrīvallabha and Śrīkānta were the sons of Śivānanda’s sister. When on the way to Purī Nityānanda scolded Śivānanda and pushed him with His foot, Śrīkānta took offence, left the party and reached the Lord first; the all-knowing Lord consoled him and told Govinda to give him His remnants while he stayed in Nīlācala (Antya 12). At the Ratha-yātrā both brothers sang in Mukunda’s party (Madhya 13).
+
+## 64
+w: dear to the Lord  Govindānanda —  a great devotee
+w: of the Lord  the kīrtana singer  first —  Śrī  Govinda  Datta
+tr: Govindānanda, dear to the Lord, was a great devotee, and Śrī Govinda Datta was the leading singer in the Lord’s kīrtana.
+fn: *Anubhāṣya*: in the kīrtanas of Navadvīpa Govinda Datta was the lead singer (*mūla-gāyaka*); his home was at Sukhacara near Khaḍadaha.
+
+## 65
+w: Śrī  Vijaya  dāsa  by name  of the Lord  the copyist
+w: to the Lord  many  books  gave  having written out
+tr: Śrī Vijaya dāsa was the Lord’s copyist; he wrote out many books for Him.
+fn: *Anubhāṣya*: Vijaya dāsa, a scribe of Navadvīpa, was one of the *nava-nidhi* (nine treasures); in Śuklāmbara’s house the Lord showed him special mercy (*Caitanya-bhāgavata*, Madhya 25).
+
+## 66
+w: ‘Ratnabāhu’  calling  the Lord  kept  his  name
+w: the renunciant  of the Lord  dear  Kṛṣṇadāsa  by name
+tr: The Lord named him Ratnabāhu, “Jewel-armed.” Akiñcana Kṛṣṇadāsa, too, was dear to the Lord.
+
+## 67
+w: the seller of banana-leaf cups  Śrīdhara  of the Lord  a dear servant
+w: with whom  the Lord  makes  constantly  jokes
+tr: Śrīdhara, who sold cups of banana bark, was a dear servant of the Lord, and the Lord was always joking with him.
+fn: *Anubhāṣya*: Śrīdhara was a poor brāhmaṇa of Navadvīpa who lived by his banana grove; the Lord bargained and quarrelled with him playfully over his goods, showed him mercy during the *sāta-prahariyā* manifestation, drank water from his old leaking iron pot at the time of the Kazi’s subjugation, and on the night before His sannyāsa ate the gourd Śrīdhara had brought. According to Karṇapūra he is Kusumāsava, one of the twelve cowherd boys.
+
+## 68
+w: the Lord  from whom  daily  takes  banana pith  banana flowers  fruit
+w: whose  broken  iron pot  from  the Lord  drank  water
+tr: Every day the Lord took banana pith, banana flowers and fruit from him, and once He drank water from his broken iron pot.
+
+## 69
+w: of the Lord  very dear  servant  Bhagavān  Paṇḍita
+w: in whose  body  Kṛṣṇa  formerly  was  seated
+tr: Bhagavān Paṇḍita was a servant very dear to the Lord; once Kṛṣṇa had dwelt within his body.
+
+## 70
+w: Jagadīśa  Paṇḍita,  and  Hiraṇya  Mahāśaya
+w: to whom  mercy  showed  in childhood  the Lord  merciful
+tr: Jagadīśa Paṇḍita and Hiraṇya Mahāśaya received the compassionate Lord’s mercy when He was still a child.
+
+## 71
+w: in these  two houses  the Lord  on Ekādaśī  day
+w: Viṣṇu’s  offering  begging  ate  Himself
+tr: In these two houses, on the day of Ekādaśī, the Lord begged for the food offered to Viṣṇu and ate it Himself.
+fn: *Anubhāṣya*: the story is told in the *Caitanya-bhāgavata*, Ādi 4. According to the *Gaura-gaṇoddeśa-dīpikā*, in Kṛṣṇa’s pastimes they were the wives of the sacrificing brāhmaṇas (*yajña-patnīs*), and now the Lord begged for their food and ate it on Ekādaśī.
+
+## 72
+w: of the Lord  pupils  two —  Puruṣottama,  Sañjaya
+w: in grammar  two  students —  two  great souls
+tr: Puruṣottama and Sañjaya, two great souls, were the Lord’s pupils in grammar.
+fn: *Anubhāṣya*: from the *Caitanya-bhāgavata* one might take “Puruṣottama Sañjaya” for one person, the son of Mukunda Sañjaya, in whose house Nimāi taught His pupils; by calling Puruṣottama and Sañjaya two students and two great souls, Kavirāja Gosvāmī corrects that understanding.
+
+## 73
+w: Vanamālī  Paṇḍita  a branch  famous  in the world
+w: golden  club  plough  who  saw  in the Lord’s  hand
+tr: Vanamālī Paṇḍita is a branch renowned throughout the world; he saw a golden club and plough in the Lord’s hands.
+
+## 74
+w: of Śrī Caitanya  very  dear  Buddhimanta  Khān
+w: from birth  obedient  he  a servant  chief
+tr: Buddhimanta Khān was very dear to Śrī Caitanya; obedient to Him all his life, he was among His chief servants.
+fn: *Anubhāṣya*: Buddhimanta Khān, a wealthy devotee of Navadvīpa, bore all the expenses of the Lord’s second marriage, to Viṣṇupriyā, the daughter of Sanātana Miśra, and gathered the clothes and ornaments for the drama in Candraśekhara’s house.
+
+## 75
+w: Garuḍa  Paṇḍita  takes  the auspicious holy name
+w: by the power of the name  poison  whom  not  overpowered
+tr: Garuḍa Paṇḍita constantly chanted the auspicious holy name, and by the power of the name even a snake’s poison could not harm him.
+
+## 76
+w: Gopīnātha  Siṁha —  one  of Caitanya  servant
+w: Akrūra  calling  the Lord  with whom  joked
+tr: Gopīnātha Siṁha was a servant of Śrī Caitanya, and the Lord would jokingly call him Akrūra.
+
+## 77
+w: the Bhāgavata reciter  Devānanda  by Vakreśvara’s mercy
+w: of the Bhāgavata  the devotional meaning  received  the Lord  from
+tr: Devānanda, the reciter of the *Bhāgavata*, is an offshoot of Vakreśvara’s branch. By Vakreśvara’s mercy he received from the Lord the devotional meaning of the *Bhāgavata*.
+fn: In the edition the heading is “(5a) the branch of Devānanda Paṇḍita,” that is, an offshoot of Vakreśvara’s branch (5). *Anubhāṣya*: Devānanda, who sought liberation, used to recite the *Bhāgavata*; once his students drove out Śrīvāsa, who was weeping at the reading, and Mahāprabhu sternly rebuked Devānanda for his disrespect to a Vaiṣṇava. Later Vakreśvara Paṇḍita stayed in his house and sang of Kṛṣṇa; by his mercy Devānanda came to understand the Lord’s glory, and the Lord told him to explain the *Bhāgavata* in the light of bhakti (Madhya 1: the mercy at Kuliyā). In Kṛṣṇa’s pastimes he is Bhāguri Muni, the paṇḍita of Nanda’s court.
+
+## 78–79
+w: of Khaṇḍa  the residents  Mukunda dāsa,  Śrī  Raghunandana
+w: Narahari dāsa,  Cirañjīva,  Sulocana
+w: these  all  great branches —  of Caitanya’s  mercy  abodes
+w: of love  fruits  flowers  make  everywhere  gift
+tr: Mukunda dāsa, Śrī Raghunandana, Narahari dāsa, Ciranjīva and Sulocana, all of Śrīkhaṇḍa, are great branches, abodes of Śrī Caitanya’s mercy. Everywhere they give away the fruits and flowers of love.
+fn: *Anubhāṣya*: Mukunda dāsa was the elder brother of Narahari Sarakāra Ṭhākura, and Raghunandana was Mukunda’s son; Raghunandana’s descendants still live in Śrīkhaṇḍa, four miles west of Kāṭoyā. Narahari’s disciple was Locana dāsa Ṭhākura, the author of the *Caitanya-maṅgala*. The sons of Ciranjīva were Rāmacandra Kavirāja, a disciple of Śrīnivāsa Ācārya, and the poet Govinda dāsa Kavirāja. Mukunda’s wonderful love for Kṛṣṇa is described in Madhya 15.113–131.
+
+## 80
+w: of Kulīna-grāma  the residents  Satyarāja,  Rāmānanda
+w: Yadunātha,  Puruṣottama,  Śaṅkara,  Vidyānanda
+tr: From Kulīna-grāma came Satyarāja, Rāmānanda, Yadunātha, Puruṣottama, Śaṅkara and Vidyānanda.
+fn: In the edition they are offshoots of Haridāsa’s branch (20a–20e), like all the people of Kulīna-grāma (10.48). *Anubhāṣya*: all of them belonged to the Vasu family, devotees of Kṛṣṇa skilled in enacting His pastimes and followers of Haridāsa Ṭhākura; in the *Gaura-gaṇoddeśa-dīpikā* Rāmānanda Vasu and Satyarāja are Kalakaṇṭhī and Sukaṇṭhī.
+
+## 81
+w: Vāṇīnātha  Vasu  and others  all  of the village  people
+w: all  Caitanya’s servants —  Caitanya  the treasure of their life
+tr: Vāṇīnātha Vasu and all the other villagers were servants of Śrī Caitanya, and He was the treasure of their lives.
+
+## 82
+w: the Lord  says,  of Kulīna-grāma  who  is  a dog
+w: he  to Me  dear,  other  people  let alone
+tr: The Lord said, “Even a dog of Kulīna-grāma is dear to Me — what to speak of its people!
+
+## 83
+w: of the people of Kulīna-grāma  the fortune  to describe  is not possible
+w: pigs  herds  the Ḍoma,  he too  of Kṛṣṇa  sings
+tr: “The good fortune of the people of Kulīna-grāma is beyond words: even the Ḍoma who herds the pigs there sings of Kṛṣṇa.”
+
+## 84
+w: Anupama  Vallabha,  Śrī  Rūpa  Sanātana
+w: these  three  branches  of the tree  on the west  are counted
+tr: Anupama Vallabha, Śrī Rūpa and Sanātana are counted as the three branches on the western side of the tree.
+fn: *Anubhāṣya*: Anupama was the younger brother of Śrī Sanātana and Śrī Rūpa and the father of Śrī Jīva; his earlier name was Vallabha, and Mahāprabhu gave him the name Anupama. He worshipped Śrī Rāma and saw Mahāprabhu as Śrī Rāmacandra Himself. In Śaka 1436, on the way to Nīlācala, he left his body on the bank of the Gaṅgā.
+
+## 85
+w: of them  among  Rūpa  Sanātana —  the great branch
+w: Anupama,  Jīva,  Rājendra and others —  offshoots
+tr: Among them Rūpa and Sanātana are the great branch, and Anupama, Jīva, Rājendra and others are its offshoots.
+fn: *Anubhāṣya*: Śrī Jīva, the son of Śrī Vallabha, studied all the scriptures in Kāśī under Madhusūdana Vācaspati and then took shelter of Śrī Rūpa and Sanātana in Vṛndāvana; after their departure he was the foremost ācārya of the Gauḍīya Vaiṣṇavas and sent Śrīnivāsa, Narottama and Śyāmānanda to Gauḍa with the books of the Gosvāmīs.
+
+## 86
+w: of the gardener  by the wish  the branches  greatly  grew
+w: growing  the western  lands  all  covered
+tr: By the gardener’s wish these branches grew so vast that they covered all the western lands.
+
+## 87
+w: up to the banks of the river Sindhu  and  the Himālaya
+w: Vṛndāvana  Mathurā and others  as many  holy places  there are
+tr: They spread as far as the banks of the Sindhu and the Himālaya, over Vṛndāvana, Mathurā and every holy place.
+fn: Heading in the edition: “The deliverance of all Bhārata.”
+
+## 88
+w: of the two  branches  with the fruit of love  everything  was flooded
+w: the fruit of love  tasting  the people  maddened  became
+tr: The fruits of love from these two branches flooded everything, and tasting them the people grew mad with love.
+
+## 89
+w: of the west  the people  all  foolish  of bad conduct
+w: there  preached  the two  devotional  good conduct
+tr: The people of the west were all foolish and of degraded conduct; there the two brothers taught the good conduct of bhakti.
+fn: Headings in the edition to 10.89–90: “(1) establishing the conduct of bhakti,” “(2) recovering the lost holy places and (3) preaching the worship of the Deities.” *Amṛta-pravāha-bhāṣya*: through contact with the Muslims the people of the western regions had lost proper conduct; by the mercy of Rūpa and Sanātana they turned to righteous ways.
+
+## 90
+w: by the scriptures’ sight  made  of the lost holy places  recovery
+w: in Vṛndāvana  made  of Deity worship  the spreading
+tr: Guided by the scriptures they recovered the lost holy places, and in Vṛndāvana they spread the worship of the Deities.
+fn: *Amṛta-pravāha-bhāṣya*: the lost holy places are Rādhā-kuṇḍa and others; the Deities are Śrī Madana-mohana, Śrī Govinda, Śrī Gopīnātha and others — seven in all.
+
+## 91
+w: Mahāprabhu’s  dear  servant —  Raghunātha dāsa
+w: everything  giving up  made  at the Lord’s  soles of the feet  dwelling
+tr: Raghunātha dāsa was a dear servant of Mahāprabhu; giving up everything, he made his home at the Lord’s feet.
+fn: *Anubhāṣya*: Raghunātha dāsa was born about Śaka 1416 in the village of Kṛṣṇapura near Saptagrāma, in the house of Govardhana, the younger brother of Hiraṇya Majumadāra, in a Kāyastha family. According to the *Gaura-gaṇoddeśa-dīpikā* he is Rasa-mañjarī (others say Rati-mañjarī or Bhānumatī).
+
+## 92
+w: the Lord  entrusted  him  of Svarūpa  into the hands
+w: the Lord’s  confidential service  did  Svarūpa  with
+tr: The Lord placed him in the care of Svarūpa, with whom he rendered the Lord confidential service.
+fn: *Amṛta-pravāha-bhāṣya*: confidential service is that to which outsiders have no access — all that the Lord needs at the time of His bath, His meals, His rest and His kīrtana; in 10.93 it is called intimate service (*antaraṅga-sevā*).
+
+## 93
+w: sixteen  years  did  intimate  service
+w: of Svarūpa  at the disappearance  came  to Vṛndāvana
+tr: For sixteen years he served the Lord intimately, and when Svarūpa departed from this world, he came to Vṛndāvana.
+fn: Heading in the edition: “After the departure of Śrī Gaura and Svarūpa — to Vṛndāvana.”
+
+## 94
+w: in Vṛndāvana  of the two  brothers  the feet  having seen
+w: at Govardhana  I shall give up  the body  a leap from the cliff  making
+tr: He thought, “In Vṛndāvana I shall see the feet of the two brothers, and then at Govardhana I shall give up my body by throwing myself from the hill.”
+
+## 95
+w: this  indeed  resolution  making  came  to Vṛndāvana
+w: having come  of Rūpa and Sanātana  worshipped  the feet
+tr: With this resolve he came to Vṛndāvana and bowed down at the feet of Rūpa and Sanātana.
+
+## 96
+w: then  the two  brothers  him  to die  not  allowed
+w: their own  third  brother  making  near  kept
+tr: But the two brothers would not let him die; they kept him close by as their own third brother.
+
+## 97
+w: of Mahāprabhu  the pastimes  all  outer and inner
+w: the two  brothers  from his  mouth  hear  constantly
+tr: From his lips the two brothers constantly heard all the pastimes of Mahāprabhu, both outer and inner.
+
+## 98
+w: food and water  giving up  made  what to speak of other things
+w: palas  two or three  of buttermilk  makes  eating
+tr: He gave up food and water, to say nothing of anything else, taking only two or three palas of buttermilk.
+
+## 99
+w: a thousand  prostrations  makes,  takes  a hundred thousand  names
+w: two  thousand  to Vaiṣṇavas  daily  obeisances
+tr: Every day he offered a thousand prostrations, chanted a hundred thousand names and bowed down to two thousand Vaiṣṇavas.
+
+## 100
+w: night and day  to Rādhā and Kṛṣṇa  in the mind  service
+w: for a prahara  Mahāprabhu’s  of the character  narration
+tr: Night and day he served Rādhā and Kṛṣṇa within his mind, and for one prahara he spoke of the life of Mahāprabhu.
+fn: *Amṛta-pravāha-bhāṣya*: service in the mind — meditation on the service of the eight periods of the day (*aṣṭa-kālīya*), together with chanting the holy name.
+
+## 101
+w: at the three  junctures of the day  in Rādhā-kuṇḍa  unfailing  bath
+w: to the residents of Vraja  Vaiṣṇavas  embrace  gives
+tr: At dawn, noon and evening he bathed in Rādhā-kuṇḍa without fail, and he embraced the Vaiṣṇavas of Vraja.
+
+## 102
+w: seven and a half  praharas  makes  of bhakti  in the practice
+w: four  daṇḍas  sleep,  that  is not  on some days
+tr: He spent seven and a half praharas a day in the practice of bhakti and slept for four daṇḍas — on some days not even that.
+
+## 103
+w: his  way of practice  to hear  wonderful
+w: those  Rūpa and Raghunātha  masters  who  my
+tr: His way of practice is wonderful to hear of. These two, Rūpa and Raghunātha, are my masters.
+fn: Heading in the edition: “The author regards himself as the eternal servant of Rūpa and Raghunātha.” *Anubhāṣya*: Kṛṣṇadāsa Kavirāja Gosvāmī called Śrī Raghunātha dāsa and Śrī Rūpa “my master” (*prabhu*), and that is why at the end of every chapter he writes, “Hoping for the feet of Śrī Rūpa and Raghunātha…”; the opinion that Raghunātha Bhaṭṭa is meant here and was Kavirāja’s guru has no evidence.
+
+## 104
+w: of them  all  how  was  with the Lord  the meeting
+w: later  in detail  that  I shall make  the description
+tr: How each of them met the Lord I shall describe in detail later.
+fn: Raghunātha’s meeting with the Lord is told in Antya 6 (*Amṛta-pravāha-bhāṣya*).
+
+## 105
+w: Śrī  Gopāla  Bhaṭṭa —  one  branch  the very best
+w: Rūpa and Sanātana  with  whose  loving conversation
+tr: Śrī Gopāla Bhaṭṭa is a branch of the very highest order; he would converse about love with Rūpa and Sanātana.
+fn: *Anubhāṣya*: Gopāla Bhaṭṭa, a brāhmaṇa from the south, was a friend of Śrī Rūpa and Sanātana; in his name Sanātana compiled the *Hari-bhakti-vilāsa*; he made the first draft of the *Ṣaṭ-sandarbha*, which Śrī Jīva later put in order, and he installed the Deity of Śrī Rādhā-ramaṇa. His disciples were Śrīnivāsa Ācārya and Gopīnātha Pūjārī. He forbade Kavirāja Gosvāmī to write about him in this book, and so only his name is given here.
+
+## 106
+w: Śaṅkarāraṇya —  of the Ācārya’s  tree  one  branch
+w: Mukunda,  Kāśīnātha,  Rudra —  as offshoots  are written
+tr: Śaṅkarāraṇya is one branch of the Ācārya’s tree, and Mukunda, Kāśīnātha and Rudra are recorded as its offshoots.
+fn: *Anubhāṣya*: Śaṅkarāraṇya is Viśvarūpa, the elder brother of Mahāprabhu (according to the *Gaura-gaṇoddeśa-dīpikā*, Saṅkarṣaṇa); he took sannyāsa and left this world in Śaka 1432 at Pāṇḍarapura (Madhya 9.299–300). Mukunda is Mukunda Sañjaya, in whose house Viśvambhara taught; Kāśīnātha is the brāhmaṇa who arranged the Lord’s marriage with Viṣṇupriyā; Rudra is Rudra Paṇḍita.
+
+## 107
+w: Śrīnātha  Paṇḍita —  of the Lord’s  mercy  the recipient
+w: whose  service to Kṛṣṇa  seeing  captivated  the three worlds
+tr: Śrīnātha Paṇḍita received the Lord’s mercy; seeing his service to Kṛṣṇa, the three worlds were captivated.
+fn: *Anubhāṣya*: Śrīnātha Paṇḍita lived in Kāñcaḍāpāḍā and installed the Deity Śrī Kṛṣṇa-rāya there; he was the guru of Kavi Karṇapūra.
+
+## 108
+w: Jagannātha  Ācārya  of the Lord  dear  servant
+w: by the Lord’s  order  he  made  a dwelling by the Gaṅgā
+tr: Jagannātha Ācārya was a dear servant of the Lord; at the Lord’s command he made his home by the Gaṅgā.
+fn: *Amṛta-pravāha-bhāṣya*: on the bank of the Alakanandā within Navadvīpa he founded a village called Gaṅgā-vāsa.
+
+## 109
+w: Kṛṣṇadāsa  Vaidya,  and  Paṇḍita  Śekhara
+w: Kavicandra,  and  the kīrtana singer  Ṣaṣṭhīvara
+tr: Other branches are Kṛṣṇadāsa Vaidya, Paṇḍita Śekhara, Kavicandra and the kīrtana singer Ṣaṣṭhīvara;
+
+## 110
+w: Śrīnātha  Miśra,  Śubhānanda,  Śrīrāma,  Īśāna
+w: Śrīnidhi,  Śrī Gopīkānta,  Miśra  Bhagavān
+tr: Śrīnātha Miśra, Śubhānanda, Śrīrāma, Īśāna, Śrīnidhi, Śrī Gopīkānta, Bhagavān Miśra;
+
+## 111
+w: Subuddhi  Miśra,  Hṛdayānanda,  Kamala-nayana
+w: Maheśa  Paṇḍita,  Śrīkara,  Śrī  Madhusūdana
+tr: Subuddhi Miśra, Hṛdayānanda, Kamala-nayana, Maheśa Paṇḍita, Śrīkara, Śrī Madhusūdana;
+
+## 112
+w: Puruṣottama,  Śrī  Gālīma,  Jagannātha dāsa
+w: Śrī  Candraśekhara  Vaidya,  Dvija  Haridāsa
+tr: Puruṣottama, Śrī Gālīma, Jagannātha dāsa, Śrī Candraśekhara Vaidya, Dvija Haridāsa;
+fn: *Anubhāṣya*: Candraśekhara Vaidya, a scribe by profession, is the one in whose house the Lord stayed in Kāśī (10.152–154).
+
+## 113
+w: Rāmadāsa,  Kavidatta,  Śrī  Gopāla dāsa
+w: Bhāgavatācārya,  Ṭhākura  Sāraṅga dāsa
+tr: Rāmadāsa, Kavidatta, Śrī Gopāla dāsa, Bhāgavatācārya, Ṭhākura Sāraṅga dāsa;
+fn: *Amṛta-pravāha-bhāṣya*: Bhāgavatācārya lived in Varāhanagara, where his hermitage is still called “Bhāgavatācārya’s seat”; Ṭhākura Sāraṅga dāsa was from Māmagāchi. The heading in the edition has “Śārṅga Ṭhākura.” *Anubhāṣya*: Bhāgavatācārya’s name was Raghunātha; the Lord gave him that title on hearing him recite the *Bhāgavatam* (*Caitanya-bhāgavata*, Antya 5).
+
+## 114
+w: Jagannātha  Tīrtha,  the brāhmaṇa  Śrī  Jānakīnātha
+w: Gopāla  Ācārya,  and  the brāhmaṇa  Vāṇīnātha
+tr: Jagannātha Tīrtha, the brāhmaṇa Śrī Jānakīnātha, Gopāla Ācārya and the brāhmaṇa Vāṇīnātha.
+
+## 115
+w: Govinda,  Mādhava,  Vāsudeva —  three  brothers
+w: of them all  in the kīrtana  dance  Caitanya and Nitāi
+tr: Govinda, Mādhava and Vāsudeva were three brothers, and when they sang kīrtana, Caitanya and Nitāi danced.
+fn: *Anubhāṣya*: the Ghoṣa brothers — Govinda, Mādhava and Vāsudeva — came of a Kāyastha family of northern Rāḍha; Mādhava Ghoṣa was a matchless kīrtana singer, very dear to Nityānanda. *Amṛta-pravāha-bhāṣya*: Govinda installed the Deity of Gopīnātha at Agradvīpa.
+
+## 116
+w: Rāmadāsa  Abhirāma —  of fraternal  love  a heap
+w: of sixteen bearers  the log  lifting  who  made  a flute
+tr: Rāmadāsa Abhirāma was a treasury of loving friendship. He lifted a log that it took sixteen men to carry and made a flute of it.
+fn: In the edition the heading is “(84) Ṭhākura Abhirāma.” *Amṛta-pravāha-bhāṣya*: Abhirāma lived at Khānākula-Kṛṣṇanagara.
+
+## 117
+w: by the Lord’s  order  Nityānanda  to Gauḍa  went
+w: with Him  three persons  by the Lord’s order  came
+tr: At the Lord’s command Nityānanda went to Gauḍa, and by the Lord’s command three devotees went with Him:
+
+## 118
+w: Śrī  Rāmadāsa,  Mādhava,  and  Vāsudeva  Ghoṣa
+w: the Lord  with  stayed  Govinda  getting  joy
+tr: Śrī Rāmadāsa, Mādhava and Vāsudeva Ghoṣa. Govinda stayed with the Lord, and was overjoyed to do so.
+fn: Heading in the edition to 10.117: “Abhirāma, Mādhava and Vāsu Ghoṣa preach the holy name in Gauḍa with Nitāi.”
+
+## 119
+w: Bhāgavatācārya,  Cirañjīva  Śrī  Raghunandana
+w: Śrī Mādhavācārya,  Kamalākānta,  Śrī  Yadunandana
+tr: Other branches are Bhāgavatācārya, Ciranjīva, Śrī Raghunandana, Śrī Mādhavācārya, Kamalākānta and Śrī Yadunandana.
+fn: In the edition’s heading Bhāgavatācārya, Ciranjīva and Raghunandana are marked with their earlier numbers (75, 41, 39a) — they are the same persons named above; the new branches are (85) Mādhavācārya, (86) Kamalākānta and (87) Yadunandana. *Anubhāṣya*: Kamalākānta is Kamalākānta Viśvāsa of Advaita’s party; Yadunandana Ācārya belongs to Advaita’s branch (Antya 6.160–169).
+
+## 120
+w: of great  mercy  recipients  of the Lord  Jagāi,  Mādhāi
+w: ‘deliverer of the fallen’  of the name  witnesses  the two  brothers
+tr: Jagāi and Mādhāi received the Lord’s great mercy; these two brothers bear witness to His name “Deliverer of the Fallen.”
+fn: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Jagāi and Mādhāi are Jaya and Vijaya, the gatekeepers of Vaikuṇṭha, born of their own will in Navadvīpa. Brāhmaṇas by birth, they lived as robbers and were steeped in every sin, but by the mercy of Mahāprabhu and Nityānanda they received the holy name and became great devotees.
+
+## 121
+w: of the devotees of Gauḍa  made  brief  account
+w: endless  Caitanya’s devotees  cannot  be  counted
+tr: I have given a brief account of the devotees of Gauḍa; Śrī Caitanya’s devotees are endless and cannot be counted.
+
+## 122
+w: in Nīlācala  these  all  devotees  with the Lord
+w: in two  places  service to the Lord  did  in various ways
+tr: All these devotees were also with the Lord in Nīlācala, and in both places they served Him in many ways.
+fn: Heading in the edition: “Their service to Gaura both in Gauḍa and in Oḍra.”
+
+## 123
+w: only  in Nīlācala  of the Lord  who  who  devotees
+w: briefly  I make  something  about them  all  an account
+tr: Now I shall speak briefly of the Lord’s devotees who were with Him only in Nīlācala.
+
+## 124–126
+w: in Nīlācala  with the Lord  all  devotees
+w: of all  the chief  of the Lord  the heart  two persons
+w: Paramānanda  Purī,  and  Svarūpa  Dāmodara
+w: Gadādhara,  Jagadānanda,  Śaṅkara,  Vakreśvara
+w: Dāmodara  Paṇḍita,  Ṭhākura  Haridāsa
+w: Raghunātha  Vaidya,  and  Raghunātha  dāsa
+tr: Of all the devotees who lived with the Lord in Nīlācala, two were foremost, the Lord’s very heart: Paramānanda Purī and Svarūpa Dāmodara. With them were Gadādhara, Jagadānanda, Śaṅkara, Vakreśvara, Dāmodara Paṇḍita, Ṭhākura Haridāsa, Raghunātha Vaidya and Raghunātha dāsa.
+fn: Heading in the edition: “The most eminent — (1) Śrī Paramānanda and (2) Śrī Svarūpa.” For the devotees of Nīlācala the numbering of the branches in the headings starts afresh. *Anubhāṣya*: Raghunātha Vaidya (Upādhyāya) came to Nityānanda at Pānihāṭi and in His company showed the mood of Revatī; later he lived in Purī by the sea (*Caitanya-bhāgavata*, Antya 5).
+
+## 127
+w: these and others  former companions  great  devotees
+w: in Nīlācala  staying  the Lord’s  render  service
+tr: These and other great devotees, His companions from before, stayed in Nīlācala and served the Lord there.
+
+## 128
+w: and  as many  devotees  residents of Gauḍa
+w: every year  the Lord  see  to Nīlācala  coming
+tr: And all the devotees who lived in Gauḍa came every year to Nīlācala to see the Lord.
+
+## 129
+w: in Nīlācala  with the Lord  first  meeting
+w: of those  devotees  now  I make  the counting
+tr: Now I shall list the devotees who first met the Lord in Nīlācala.
+
+## 130
+w: a great branch  one —  Sārvabhauma  Bhaṭṭācārya
+w: his  sister’s husband  Śrī Gopīnāthācārya
+tr: One great branch is Sārvabhauma Bhaṭṭācārya, and another is his sister’s husband, Śrī Gopīnātha Ācārya.
+fn: *Anubhāṣya*: Sārvabhauma Bhaṭṭācārya, whose name was Vāsudeva, came from Vidyānagara and taught Vedānta in Nīlācala. At first he expounded Vedānta to Mahāprabhu according to Śaṅkara, but then learned its true meaning from Him and saw His six-armed form (Madhya 6); his *Caitanya-śataka* is full of devotion to Gaura. Gopīnātha Ācārya was a brāhmaṇa of Navadvīpa and a companion of the Lord.
+
+## 131
+w: Kāśī  Miśra,  Pradyumna  Miśra,  Rāya  Bhavānanda
+w: whom  meeting  the Lord  felt  joy
+tr: Then come Kāśī Miśra, Pradyumna Miśra and Bhavānanda Rāya, whose company gave the Lord great joy.
+fn: *Anubhāṣya*: Kāśī Miśra was the king’s priest, and in his house the Lord lived in Nīlācala. Pradyumna Miśra, an Oriya and a great devotee, was sent by the Lord to hear Kṛṣṇa-kathā from Rāmānanda Rāya (Antya 5). Bhavānanda Rāya, the father of Rāmānanda Rāya, lived near Ālālanātha; before, he was King Pāṇḍu.
+
+## 132
+w: embracing  him  spoke  words
+w: you  Pāṇḍu,  the five Pāṇḍavas —  your  sons
+tr: Embracing him, the Lord said, “You are Pāṇḍu, and your sons are the five Pāṇḍavas:
+
+## 133
+w: Rāmānanda  Rāya,  Paṭṭanāyaka  Gopīnātha
+w: Kalānidhi,  Sudhānidhi,  Nāyaka  Vāṇīnātha
+tr: “Rāmānanda Rāya, Gopīnātha Paṭṭanāyaka, Kalānidhi, Sudhānidhi and Vāṇīnātha Nāyaka.
+
+## 134
+w: these  five  sons  your —  to Me  dear ones
+w: Rāmānanda  with  My  difference of body  only
+tr: “These five sons of yours are dear to Me, and between Rāmānanda and Me there is a difference of body alone.”
+
+## 135–136
+w: Pratāparudra  the king,  and  the Oriyā  Kṛṣṇānanda
+w: Paramānanda  Mahāpātra,  the Oriyā  Śivānanda
+w: Bhagavān  Ācārya,  called Brahmānanda  Bhāratī
+w: Śrī  Śikhi  Māhiti,  and  Murāri  Māhiti
+tr: Other branches are King Pratāparudra, Kṛṣṇānanda of Orissa, Paramānanda Mahāpātra, Śivānanda of Orissa, Bhagavān Ācārya, Brahmānanda Bhāratī, Śrī Śikhi Māhiti and Murāri Māhiti.
+
+## 137
+w: Mādhavī  Devī —  of Śikhi Māhiti  the sister
+w: of Śrī Rādhā  maidservants  among  whose  name  is counted
+tr: Mādhavī Devī, the sister of Śikhi Māhiti, is counted among the maidservants of Śrī Rādhā.
+fn: *Anubhāṣya*: the Lord counted her among Rādhikā’s associates (Antya 2.104–106); in the world, He said, there are three and a half worthy souls — Svarūpa Gosāñi, Rāmānanda Rāya and Śikhi Māhiti, and his sister is the “half.”
+
+## 138
+w: of Īśvara  Purī  a disciple —  Brahmacārī  Kāśīśvara
+w: Śrī Govinda  by name  his  dear  follower
+tr: Brahmacārī Kāśīśvara was a disciple of Īśvara Purī, and Śrī Govinda was his dear follower.
+fn: *Amṛta-pravāha-bhāṣya*: Govinda and Kāśīśvara were disciples of Īśvara Purī; when he left this world, they came to Mahāprabhu in Nīlācala at his order. *Anubhāṣya*: in the *Gaura-gaṇoddeśa-dīpikā* they are Bhṛṅgāra and Bhaṅgura, servants in Vṛndāvana. For the Lord’s service Govinda did not hesitate to step over His body, though for his own sake he would never have done so (Madhya 10).
+
+## 139
+w: at his  departure  both  his  order  receiving
+w: in Nīlācala  at the Lord’s place  met  having come
+tr: At the time of his departure both received his order, came to Nīlācala and met the Lord.
+
+## 140
+w: of the guru  through the relation  honour  showed  to both
+w: his  order  accepting  service  gave  to both
+tr: Out of regard for their connection with His Guru, the Lord honoured them both, yet in obedience to the Guru’s order He gave them His service.
+fn: Heading in the edition: “Honouring the relation to the Guru, and by the rule ‘the Guru’s order is not to be questioned,’ He accepted their service.”
+
+## 141
+w: personal service  to Govinda  gave  the Lord
+w: Jagannātha  to see  ahead  goes  Kāśīśvara
+tr: The Lord gave Govinda the service of His person, and when He went to see Jagannātha, Kāśīśvara walked ahead of Him.
+
+## 142
+w: untouched  goes  Gosāñi  in the press of people
+w: the people  pushing aside  a path  makes  Kāśī  the strong
+tr: Through the dense crowd the Lord passed untouched, for the mighty Kāśīśvara pushed the people aside and cleared the way.
+
+## 143
+w: Rāmāi  Nandāi —  both  of the Lord  servants
+w: Govinda  with  service  render  constantly
+tr: Rāmāi and Nandāi, both servants of the Lord, served constantly alongside Govinda.
+fn: *Anubhāṣya*: in the *Gaura-gaṇoddeśa-dīpikā* they are Payoda and Vārida, who looked after the water in Vraja; they served the Lord under Govinda’s guidance.
+
+## 144
+w: twenty-two  jars  of water  daily  fills  Rāmāi
+w: by Govinda’s  order  service  renders  Nandāi
+tr: Every day Rāmāi filled twenty-two jars of water, and Nandāi served as Govinda directed.
+
+## 145
+w: Kṛṣṇadāsa  by name  a pure  Kulīna  brāhmaṇa
+w: whom  with  taking  made  to the south  the journey
+tr: A pure Kulīna brāhmaṇa named Kṛṣṇadāsa went with the Lord on His journey to the south.
+fn: In the edition’s heading he is “Kālā Kṛṣṇadāsa, the brāhmaṇa”; he is described in Madhya 7 and 9.
+
+## 146
+w: Balabhadra  Bhaṭṭācārya —  for bhakti  qualified
+w: on the journey to Mathurā  of the Lord  who  the brahmacārī
+tr: Balabhadra Bhaṭṭācārya, a true devotee, served the Lord as His brahmacārī on the journey to Mathurā.
+
+## 147
+w: Baḍa  Haridāsa,  and  Choṭa  Haridāsa
+w: two  kīrtana singers  stay  of Mahāprabhu  at the side
+tr: Baḍa Haridāsa and Choṭa Haridāsa, two kīrtana singers, stayed by Mahāprabhu’s side.
+
+## 148
+w: Rāmabhadrācārya,  and  the Oriyā  Siṁheśvara
+w: Tapana  Ācārya,  and  Raghu,  Nīlāmbara
+tr: There were also Rāmabhadra Ācārya, Siṁheśvara of Orissa, Tapana Ācārya, Raghu and Nīlāmbara;
+
+## 149
+w: Siṅgābhaṭṭa,  Kāmābhaṭṭa,  Dantura  Śivānanda
+w: in Gauḍa  formerly  servant  of the Lord  dear  Kamalānanda
+tr: Siṅgābhaṭṭa, Kāmābhaṭṭa, Dantura Śivānanda, and Kamalānanda, who had been a dear servant of the Lord in Gauḍa.
+
+## 150
+w: Acyutānanda —  of Advaita Ācārya  the son
+w: in Nīlācala  stays  of the Lord’s  feet  in the shelter
+tr: Acyutānanda, the son of Advaita Ācārya, stayed in Nīlācala in the shelter of the Lord’s feet.
+
+## 151
+w: Nirloma  Gaṅgādāsa,  and  Viṣṇudāsa
+w: of these all  with the Lord  in Nīlācala  dwelling
+tr: Nirloma Gaṅgādāsa and Viṣṇudāsa also lived with the Lord in Nīlācala.
+
+## 152–153
+w: in Vārāṇasī  of the Lord  devotees  three  persons
+w: Candraśekhara  Vaidya,  and  Miśra  Tapana
+w: Raghunātha  Bhaṭṭācārya —  of the Miśra  the son
+w: the Lord  when  to Kāśī  came  having seen  Vṛndāvana
+tr: In Vārāṇasī the Lord had three devotees: Candraśekhara the physician, Tapana Miśra and his son Raghunātha Bhaṭṭācārya. When the Lord came to Kāśī after seeing Vṛndāvana,
+
+## 154
+w: in Candraśekhara’s house  made  two  months  stay
+w: in Tapana Miśra’s  house  meals  two  months
+tr: He stayed for two months in Candraśekhara’s house and for two months took His meals in the house of Tapana Miśra.
+
+## 155
+w: Raghunātha  in childhood  did  of the Lord  service
+w: of the remnants  cleaning  and  of the feet  massage
+tr: As a boy Raghunātha served the Lord, cleaning up after His meals and massaging His feet.
+
+## 156
+w: grown up  to Nīlācala  went  of the Lord  to the place
+w: eight months  stayed  meals  gives  on some  days
+tr: When he grew up he went to the Lord in Nīlācala and stayed for eight months, on some days cooking for Him.
+
+## 157
+w: the Lord’s  order  receiving  to Vṛndāvana  came
+w: having come  Śrī  Rūpa  Gosāñi’s  near  stayed
+tr: Then, at the Lord’s command, he went to Vṛndāvana and stayed near Śrī Rūpa Gosvāmī.
+
+## 158
+w: in his  place  Rūpa  Gosāñi  hears  the Bhāgavata
+w: by the Lord’s  mercy  he  with love for Kṛṣṇa  mad
+tr: Rūpa Gosvāmī heard the *Bhāgavatam* from him, and by the Lord’s mercy he was mad with love for Kṛṣṇa.
+fn: *Anubhāṣya* (after Antya 13): when sending him away, the Lord embraced him and gave him Jagannātha’s long tulasī garland and betel. In Śrī Rūpa’s assembly he recited the *Bhāgavatam* in a voice as sweet as the cuckoo’s, singing each verse in three or four rāgas; through his disciple he had the temple of Govinda built. He neither heard nor spoke of worldly matters and spent all eight praharas of the day in talks of Kṛṣṇa and worship. According to the *Gaura-gaṇoddeśa-dīpikā* (185) he is Rāga-mañjarī, who dwells in a hut by Rādhā-kuṇḍa.
+
+## 159
+w: in this way  countless  Caitanya’s  devotees
+w: only a glimpse  I write,  fully  cannot  be  told
+tr: Thus Śrī Caitanya’s devotees are countless; I write of only a few, for they cannot be fully told.
+fn: Heading in the edition: “Branch by branch and offshoot by offshoot, the countless devotees of Gaura deliver the three worlds.”
+
+## 160
+w: on each  branch  grow  millions  millions  of twigs
+w: its  disciples and their disciples,  its  smaller twigs
+tr: Millions upon millions of twigs grow on every branch; its disciples and their disciples are its smaller twigs.
+
+## 161
+w: all  filled  are  with flowers and fruits of love
+w: flooded  the three worlds  in the waters of love for Kṛṣṇa
+tr: All of them are laden with the flowers and fruits of love, and they have flooded the three worlds with the waters of love for Kṛṣṇa.
+
+## 162
+w: of each  branch  the power  endless  the glory
+w: ‘with a thousand mouths’  of which  to set  cannot  a limit
+tr: The power and glory of each branch are endless; even He who has a thousand mouths cannot find their limit.
+
+## 163
+w: briefly  have told  Mahāprabhu’s  devotees
+w: all  to tell  cannot  ‘the Thousand-mouthed One’
+tr: I have told of Mahāprabhu’s devotees only briefly; even the Thousand-mouthed One could not tell of them all.
+
+## 164
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

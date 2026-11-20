@@ -1,0 +1,909 @@
+# English translation, Ādi-līlā 7 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: Setting Forth the Account of the Pañca-tattva
+
+## 1
+w: of the shelterless  the only shelter  having bowed
+w: to the deprived  the highest  who grants
+w: to Śrī Caitanya  is written  His
+w: in giving prema-bhakti  magnanimity
+tr: I bow to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good. Now I write of the magnanimity with which He bestows love and devotion for Kṛṣṇa.
+fn: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
+
+## 2
+w: glory  glory  to Mahāprabhu  Śrī  Kṛṣṇa  Caitanya
+w: His  at the feet sheltered  he  greatly  blessed
+tr: Glory, glory to Mahāprabhu Śrī Kṛṣṇa Caitanya! Whoever takes shelter at His feet is truly blessed.
+
+## 3
+w: earlier  the guru and the rest  six  to the truths  I made  obeisance
+w: the truth of the guru  I have told  now  of the five  the consideration
+tr: At the beginning I offered obeisance to the six truths, headed by the guru. I have spoken of the truth of the guru; now I shall consider the other five.
+fn: *Amṛta-pravāha-bhāṣya*: in the first chapter the truth of the guru was described — as the initiating and the instructing guru; the six truths are those of the verse *vande gurūn īśa-bhaktān* (Ādi 1.1), and now the remaining five are examined.
+
+## 4
+w: the five truths  descended  Caitanya  with
+w: the five truths  taking  He performs  of saṅkīrtana  in the joy
+tr: The five truths descended together with Śrī Caitanya, and with them He delights in saṅkīrtana.
+
+## 5
+w: the five truths  one substance  there is not  any  difference
+w: rasa  to taste  the truth  manifold  distinctions
+tr: The five truths are one substance; there is no difference between them at all. Yet to taste rasa, the one truth appears in different forms.
+fn: *Anubhāṣya*: in substance the five truths are one, without duality, but for the sake of the pastimes and the tasting of rasa the one truth is fivefold. The devotee in form, the devotee in essence and the incarnation of a devotee are the Lord Himself, His *prakāśa* and His *aṁśa* (*viṣṇu-tattva*); the potency of devotion and the pure devotee are potencies non-different from Him, who serve Him. Without either the worshipped or the worshipper there would be no pastime of tasting rasa.
+
+## 6
+w: of five truths  composed  Kṛṣṇa
+w: devotee in form  devotee in essence
+w: the devotee-avatāra  called a devotee
+w: I bow to  the devotional potency
+tr: “I bow to Kṛṣṇa, who is manifest as five truths — the Pañca-tattva: as a devotee in form and a devotee in essence, as the incarnation of a devotee, as the one called a devotee, and as the potency of devotion.” (Śrī Rūpa Gosvāmī)
+fn: According to the *Anubhāṣya*: the devotee in form is Śrī Gaurāṅga, who tastes His own sweetness; the devotee in essence (in the form of His brother) is Śrī Nityānanda; the devotee-avatāra is Śrī Advaita; the one called a devotee is Śrīvāsa and others, established in *śānta*, *dāsya* and the other rasas; the potency is Gadādhara, Svarūpa Dāmodara, Rāmānanda and others. The same verse as Ādi 1.14; ascribed in the edition to Śrī Rūpa Gosvāmī.
+
+## 7
+w: Himself  Bhagavān  Kṛṣṇa  the one  Lord
+w: without a second  Nanda’s son  of rasikas  the crown
+tr: Kṛṣṇa is Bhagavān Himself, the one Lord of all. He has no equal; He is the son of Nanda and the crown of all who relish rasa.
+
+## 8
+w: of the rāsa and other pastimes the enjoyer  of the maidens of Vraja  the lover
+w: others  as many  all  you see  His  associates
+tr: He enjoys the rāsa dance and His other pastimes and is the beloved of the maidens of Vraja; all the others you see are His associates.
+
+## 9
+w: that  Kṛṣṇa  has descended  as Śrī Kṛṣṇa Caitanya
+w: those  associates  with Him  all  blessed
+tr: That same Kṛṣṇa has descended as Śrī Kṛṣṇa Caitanya, and with Him have come all those associates, every one of them blessed.
+
+## 10
+w: alone  the Lord-truth  Caitanya  the Lord
+w: of a devotee’s sentiment full  His  pure  body
+tr: Lord Caitanya alone is the Supreme Lord, yet His pure, spiritual body is filled with the sentiment of a devotee.
+fn: The edition’s heading: “Though He is the Lord of all, Śrī Kṛṣṇa Caitanya is full of the mood of one who is subordinate.” *Anubhāṣya*: Śrī Caitanya is the one Supreme Lord of all conscious beings (*nityo nityānām…*); though non-different from the son of the king of Vraja, He takes a form full of the mood of serving Kṛṣṇa. That form must not be thought of as a body for worldly enjoyment or counted among the jīvas of this world: it is manifest in pure *sattva* (*viśuddha-sattva*) and is revealed to a heart illumined by it.
+
+## 11
+w: of Kṛṣṇa’s sweetness  one  wondrous  property
+w: Himself  to taste  Kṛṣṇa  takes on  a devotee’s sentiment
+tr: Kṛṣṇa’s sweetness has one wondrous property: to taste Himself, He takes on the sentiment of His own devotee.
+fn: The edition’s heading: “To taste His own sweetness, Kṛṣṇa descends as Gaura — ‘in the form of a devotee’.” *Anubhāṣya*: Kṛṣṇa, the abode of all sweetness, though He is Himself the object of love (*viṣaya*), takes on the sentiment of its subject (*āśraya*) and tastes the joy of serving Himself; yet Śrī Caitanya is not merely a form of the *āśraya*: He is the original Lord Himself (*svayaṁ-rūpa*).
+
+## 12
+w: therefore  a devotee’s sentiment  takes  Caitanya  Gosāñi
+w: ‘devotee in essence’  His  Nityānanda  the brother
+tr: That is why Caitanya Gosāñi appears in the mood of a devotee, and His brother Nityānanda is the devotee in essence (*bhakta-svarūpa*).
+
+## 13
+w: ‘the devotee-avatāra’  His  the Ācārya  Gosāñi
+w: these  three  truths  all  as Lord  holding  we sing
+tr: Advaita Ācārya is His incarnation as a devotee (*bhakta-avatāra*). These three truths we all glorify as the Lord — as Prabhu.
+
+## 14
+w: one  Mahāprabhu  and  Prabhus  two
+w: the two  Prabhus  serve  Mahāprabhu’s  feet
+tr: One is Mahāprabhu, and the other two are Prabhus; the two Prabhus serve the feet of Mahāprabhu.
+
+## 15
+w: these  three  truths  ‘worshipable by all’  as  we accept
+w: the fourth  which  the devotee-truth  ‘worshipper’  as  we know
+tr: These three truths we accept as worshipable by all; the fourth, the truth of the devotee, we know as the worshipper.
+fn: *Anubhāṣya*: Śrī Mahāprabhu is the highest Truth, above all, while Śrī Nityānanda and Śrī Advaita are *īśvara-tattvas* subordinate to Him; all three are worshipable by everyone else. The fourth truth is the pure devotees, the fifth the intimate (*antaraṅga*) devotees; both are worshippers. The two worshipable truths, though the last two worship them, are themselves engaged in the service of Śrī Gaurāṅga.
+
+## 16
+w: Śrīvāsa and others  all  millions  millions  devotees
+w: ‘pure devotee’-truth  within  of them all  the counting
+tr: The countless millions of devotees headed by Śrīvāsa are all counted among the pure devotees (*śuddha-bhakta*).
+
+## 17
+w: Gadādhara Paṇḍita and others  the Lord’s  ‘potency’-avatāras
+w: ‘intimate devotees’  as  counting  of whom
+tr: Gadādhara Paṇḍita and others are incarnations of the Lord’s potency (*śakti*); they are counted as His intimate devotees.
+fn: *Anubhāṣya*: the truths of *śakti* — the intimate devotees — abide in *madhura-rasa*, which includes *vātsalya*, *sakhya* and *dāsya*; the servants of Śrī Nityānanda and Śrī Advaita, the pure devotees, usually abide in *vātsalya*, *sakhya*, *dāsya* and *śānta*. When their love for Śrī Gaurasundara grows intense, they take shelter of *madhura-rasa* under the guidance of the intimate devotees. Pure devotees are those who, free from other desires, do not cover their service to Kṛṣṇa with *karma* or *jñāna*; the intimate devotees are those wholly given to *madhura-rasa* alone.
+
+## 18–19
+w: with whom all  taking  the Lord’s  eternal  pastimes
+w: with whom all  taking  the Lord’s  of kīrtana  spreading
+w: with whom all  taking  He does  of prema  tasting
+w: with whom all  taking  giving  He makes  prema’s treasure
+tr: With them the Lord enjoys His eternal pastimes, with them He spreads the kīrtana, with them He tastes prema, and with them He gives away the treasure of prema.
+fn: *Anubhāṣya*: “with them” — with all four: with His *prakāśa* (Śrī Nityānanda), with the avatāra of the Puruṣa (Śrī Advaita), with the intimate devotees and with the pure devotees. The edition’s heading: “With the four truths — the Lord’s pastimes, preaching, tasting and giving.”
+
+## 20–21
+w: those  five truths  together  to the earth  coming
+w: of the ancient storehouse of prema  the seal  breaking open
+w: the five  together  plunder  prema  do  tasting
+w: as much  as much  they drink  thirst  grows  every moment
+tr: Coming to earth together, the five truths broke the seal of the ancient storehouse of prema. Together they plunder that love and taste it, and the more they drink, the more their thirst grows at every moment.
+fn: *Amṛta-pravāha-bhāṣya*: the storehouse of prema is the pastimes of Śrī Kṛṣṇa. It had come into the world before, but it was locked and sealed; in the descent of Śrī Caitanya the Pañca-tattva broke the seal, threw open the doors and tasted prema, plundering it.
+
+## 22
+w: again  again  giving to drink  become  greatly maddened
+w: they dance  weep  laugh  sing  like  the intoxicated
+tr: Again and again they give it to others to drink and grow wild with love; they dance, weep, laugh and sing as though intoxicated.
+
+## 23
+w: fit and unfit  consideration  there is not  there is not  proper place and improper
+w: whoever  wherever  is found  there  they make  of prema  the gift
+tr: They make no distinction between the fit and the unfit, nor between a proper place and an improper one: wherever they find anyone, there they give prema.
+
+## 24
+w: plundering  eating  giving  the storehouse  they empty
+w: wondrous  storehouse  prema  a hundredfold  grows
+tr: Plundering, tasting and giving, they empty the storehouse; yet so wondrous is this storehouse that the prema in it grows a hundredfold.
+
+## 25
+w: surged  of prema the flood  on all sides  spreads
+w: women  old men  boys  youths  all  it drowns
+tr: The flood of prema surged and spread on every side, drowning everyone — women and old men, boys and youths.
+
+## 26
+w: the good  the wicked  the lame  the dull  the blind
+w: in the flood of prema  drowned  of the world  the people
+tr: The good and the wicked, the lame, the dull and the blind — the flood of prema engulfed all the people of the world.
+
+## 27
+w: the world  drowned  of the jīvas  became  the seed  destroyed
+w: that  seeing  of the five  persons  supreme  joy
+tr: The world was drowned, and the seed of the jīvas’ bondage was destroyed. Seeing this, the five felt the highest joy.
+fn: *Anubhāṣya*: in the Lord’s *jīva-śakti*, together with the inclination towards Kṛṣṇa, there lies hidden the seed of the desire to enjoy in turning away from Him. As a seed in flooded earth can put forth no shoot, so in the flood of prema the seed of every desire other than service to Kṛṣṇa perished. *Amṛta-pravāha-bhāṣya*: there perished the seed of the bondage of *avidyā* — the soul’s forgetfulness that it is Kṛṣṇa’s servant.
+
+## 28
+w: as much  as much  rain of prema  make  the five persons
+w: so much  so much  rises  the water  pervades  the three worlds
+tr: The more the five pour down the rain of prema, the higher the waters rise, until they fill the three worlds.
+
+## 29–30
+w: Māyāvādīs  those devoted to karma  the false logicians
+w: blasphemers  pāṣaṇḍīs  all  students  the lowest
+w: they  all  very clever  running  fled
+w: that  flood  them all  to touch  could not
+tr: But the Māyāvādīs, those devoted to fruitive work, the false logicians, the blasphemers, the pāṣaṇḍīs and the lowest of students — all these, being very clever, ran away, and the flood could not touch them.
+fn: *Amṛta-pravāha-bhāṣya*: the Māyāvādīs are the sannyāsīs Prakāśānanda and others; those devoted to karma — Devānanda and other karmīs without bhakti, the *smārtas*, for whom karma and its fruits are the chief goal; the false logicians — Sārvabhauma and other godless logicians; the blasphemers — the one whom the Lord drove away with a stick, Gopāla Cāpāla and others who reviled the Lord and His devotees; the pāṣaṇḍīs — those who place other gods on a level with the Lord; the lowest of students — those for whom learning is only a cause for argument and not a way to God.
+
+## 31–32
+w: that  seeing  Mahāprabhu  makes  reflection
+w: the world  to drown  I  made  effort
+w: some  some  escaped  the vow  became  broken
+w: them all  to drown  I shall set  some  play
+tr: Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall devise a playful ruse.”
+
+## 33
+w: thus  saying  in the mind  some  making  deliberation
+w: the sannyāsa order  the Lord  made  acceptance
+tr: Saying this and deliberating within Himself, the Lord accepted the order of sannyāsa.
+
+## 34
+w: twenty-four  years  He remained  in the householder order
+w: in the twenty-fifth  year  He took  to the renunciant’s dharma
+tr: For twenty-four years He lived as a householder; in His twenty-fifth year He took up the dharma of a renunciant.
+fn: *Anubhāṣya*: Śrī Mahāprabhu accepted sannyāsa in Śaka 1432, in the month of Māgha, during the bright fortnight, at Katwa, from the *daṇḍi-svāmī* Śrī Keśava Bhāratī of the school of Śrī Śaṅkara (under the Śṛṅgerī Maṭha in the south).
+
+## 35
+w: sannyāsa  having taken  the Lord  made  attraction
+w: all who  had fled  the logicians and the rest
+tr: Having taken sannyāsa, the Lord drew to Himself all who had fled — the logicians and the rest.
+
+## 36
+w: students  pāṣaṇḍīs  karmīs  blasphemers and others  all
+w: they  coming  at the Lord’s feet  become  bowed down
+tr: Students, pāṣaṇḍīs, karmīs, blasphemers and all the others came and bowed down at the Lord’s feet.
+
+## 37
+w: offences  He forgave  they sank  in the waters of prema
+w: who  will escape  the Lord’s  in the great net of prema
+tr: He forgave their offences, and they sank into the waters of prema. Who can escape the Lord’s great net of love?
+
+## 38
+w: all  to deliver  the Lord  the avatāra of mercy
+w: all  to deliver  He uses  stratagems  boundless
+tr: The Lord is the avatāra of mercy who came to deliver everyone, and to that end He devises countless stratagems.
+
+## 39
+w: then  His own  devotees  He made  all  mlecchas  and others
+w: all  escaped  only  of Kāśī  the Māyāvādīs
+tr: He made His devotees of all — even the mlecchas and others; only the Māyāvādīs of Kāśī escaped.
+
+## 40
+w: to Vṛndāvana  going  the Lord  stayed  in Kāśī
+w: the Māyāvādīs  Him  began  to blaspheme
+tr: On His way to Vṛndāvana the Lord stayed in Kāśī, and the Māyāvādīs began to blaspheme Him:
+
+## 41
+w: a sannyāsī  being  He does  singing  dancing
+w: not  does  of Vedānta  hearing  does  saṅkīrtana
+tr: “Though a sannyāsī, He sings and dances. He does not hear Vedānta, but performs saṅkīrtana.
+fn: *Anubhāṣya*: by the rule of the *smṛti*, a sannyāsī must give up singing, dancing and playing music and always study Vedānta; seeing that Mahāprabhu did not hear Śaṅkara’s Māyāvāda but danced in love, absorbed in singing of Kṛṣṇa, the sannyāsīs of Kāśī took Him to be ignorant of the dharma of sannyāsa.
+
+## 42
+w: a foolish  sannyāsī  his own dharma  not  knows
+w: sentimental  being  He wanders  with the sentimentalists  together
+tr: This foolish sannyāsī does not know His own dharma; a sentimentalist Himself, He wanders about with sentimentalists.”
+
+## 43
+w: this  all  hearing  the Lord  smiles  in the mind  in the mind
+w: disregard  making  to anyone  not  made  conversation
+tr: Hearing all this, the Lord smiled within, and, paying no heed, He spoke with none of them.
+
+## 44
+w: disregard  making  He made  to Mathurā  going
+w: Mathurā  having seen  again  He made  return
+tr: Disregarding them, He went on to Mathurā, and after seeing it He came back again.
+
+## 45
+w: in Kāśī  the scribe  the śūdra  Śrī Candraśekhara
+w: his  in the house  stayed  the Lord  the independent  Īśvara
+tr: In Kāśī lived the scribe Śrī Candraśekhara, a śūdra, and the Lord, supremely independent, stayed in his house.
+fn: *Amṛta-pravāha-bhāṣya*: Candraśekhara was a *vaidya*, and so by varṇa a śūdra. It is not proper for a sannyāsī to spend the night in a śūdra’s house, but Mahāprabhu stayed with him out of mercy, for He is the independent Lord: before His mercy brāhmaṇa and śūdra are equal.
+
+## 46
+w: of Tapana Miśra  in the house  alms  taking
+w: of sannyāsīs  in company  not  accepts  invitation
+tr: He took His meals at the house of Tapana Miśra and accepted no invitation in the company of the sannyāsīs.
+
+## 47
+w: Sanātana  Gosāñi  coming  there  met
+w: his  instruction  for the sake of  the Lord  two months  stayed
+tr: Sanātana Gosāñi came and met Him there, and to instruct him the Lord stayed two months.
+
+## 48
+w: him  He taught  all  of the Vaiṣṇavas  the dharma
+w: Śrī Bhāgavata and other  of the scriptures  all  secret  heart
+tr: He taught him the whole dharma of the Vaiṣṇavas and all the hidden heart of the *Bhāgavata* and the other scriptures.
+
+## 49
+w: meanwhile  Candraśekhara  Miśra Tapana
+w: grieved  being  at the Lord’s feet  made  petition
+tr: Meanwhile Candraśekhara and Tapana Miśra, deeply grieved, came to the Lord’s feet with a petition:
+
+## 50
+w: how much  shall we hear  O Lord  of You  the blasphemy
+w: not  we can  bear  now  we shall give up  life
+tr: “How much longer must we hear You blasphemed, O Lord? We cannot bear it; we would rather give up our lives.
+
+## 51
+w: You  blaspheme  all  of sannyāsīs  the company
+w: to hear  not  we can  bursts  heart and ears
+tr: All the sannyāsīs revile You, and we cannot listen to it: our hearts and ears are bursting.”
+
+## 52
+w: this  hearing  remains  the Lord  slightly  smiling
+w: at that  time  one  brāhmaṇa  met  coming
+tr: Hearing this, the Lord only smiled a little. Just then a brāhmaṇa came to meet Him.
+
+## 53
+w: coming  petition  makes  the feet  clasping
+w: one  thing  I beg  give  pleased  being
+tr: He came and, clasping the Lord’s feet, made his petition: “I beg one thing of You; be pleased and grant it.
+
+## 54
+w: all  sannyāsīs  I  have made  invitation
+w: You  if  come  fulfilled  becomes  my  heart
+tr: I have invited all the sannyāsīs; if You come too, my heart’s desire will be fulfilled.
+
+## 55
+w: not  You go  sannyāsī-gatherings  this  I  know
+w: to me  mercy  show  the invitation  accepting
+tr: I know that You do not go to gatherings of sannyāsīs; yet be merciful to me and accept my invitation.”
+
+## 56
+w: the Lord  smiling  the invitation  made  acceptance
+w: to the sannyāsīs  mercy  for the sake of  this  gesture  His
+tr: Smiling, the Lord accepted the invitation; He made this gesture to show mercy to the sannyāsīs.
+
+## 57
+w: that  brāhmaṇa  knows  the Lord  not  goes  to anyone’s  house
+w: by His  inspiration  Him  great insistence  makes
+tr: The brāhmaṇa knew that the Lord does not go to anyone’s house, but, inspired by the Lord Himself, he pressed Him with great insistence.
+fn: *Amṛta-pravāha-bhāṣya*: wishing to show mercy to the sannyāsīs, the Lord Himself moved the brāhmaṇa’s heart, and so he begged with such insistence.
+
+## 58
+w: on the next  day  went  the Lord  that  brāhmaṇa’s  house
+w: He saw  are seated  of sannyāsīs  the company
+tr: The next day the Lord went to the brāhmaṇa’s house and saw the sannyāsīs all seated there.
+
+## 59
+w: to all  bowing  He went  to wash the feet
+w: the feet  having washed  sat  in that  place
+tr: Bowing to them all, He went to wash His feet, and when He had washed them He sat down in that very place.
+
+## 60
+w: sitting  He made  some  of majesty  display
+w: greatly effulgent  body  of millions of suns  the splendour
+tr: As He sat there, He revealed a little of His majesty: His body shone with great effulgence, with the splendour of millions of suns.
+fn: As in the Gauḍīya Maṭha edition: «কোটীসূর্য্যাভাস» (another reading: «কোটিসূর্য্যাভাস»); the sense is the same.
+
+## 61
+w: by the splendour  He attracted  all  of the sannyāsīs  the minds
+w: rose  the sannyāsīs  all  leaving  their seats
+tr: That splendour drew the minds of all the sannyāsīs, and they all rose from their seats.
+
+## 62
+w: Prakāśānanda  by name  one  sannyāsī  chief
+w: to the Lord  spoke  something  showing  respect
+tr: The chief among the sannyāsīs, Prakāśānanda by name, addressed the Lord with respect:
+fn: *Anubhāṣya* (on 7.149): Prakāśānanda Sarasvatī was then the leader of the sannyāsīs of Śaṅkara’s school in Kāśī. Some mistakenly identify him with Prabodhānanda Sarasvatī, the author of the *Caitanya-candrāmṛta* and the *Rādhā-rasa-sudhā-nidhi*, but they are different persons.
+
+## 63
+w: here  come  Gosāñi  listen  Śrīpāda
+w: in an impure  place  You sit  what  dejection
+tr: “Come here, Gosāñi; listen, Śrīpāda. You are sitting in an impure place — why are You so downcast?”
+
+## 64
+w: the Lord  says  I  am  of a lower sampradāya
+w: of you all  in the assembly  to sit  not  befits
+tr: The Lord replied, “I belong to a lower sampradāya; it is not fitting for Me to sit in your assembly.”
+fn: *Anubhāṣya*: of the ten names of sannyāsīs instituted by Śaṅkarācārya, “Tīrtha”, “Āśrama” and “Sarasvatī” are held higher than the rest. Mahāprabhu had taken sannyāsa in the “Bhāratī” line and therefore called Prakāśānanda Sarasvatī’s school the higher one. In this way He showed the humility of a Vaiṣṇava sannyāsī, who seeks no honour for himself and gives honour to others.
+
+## 65
+w: himself  Prakāśānanda  by the hand  taking
+w: seated  in the midst of the assembly  respect  showing
+tr: Then Prakāśānanda himself took Him by the hand and, with respect, seated Him in the midst of the assembly.
+
+## 66
+w: he asked  Your  name  ‘Śrī Kṛṣṇa Caitanya’
+w: of Keśava Bhāratī  the disciple  therefore  You  are glorious
+tr: He asked, “Your name is Śrī Kṛṣṇa Caitanya, is it not? You are a disciple of Keśava Bhāratī, and so You are worthy of glory.
+
+## 67
+w: of the sampradāya  a sannyāsī  You  You live  in this  town
+w: for what  reason  us all  not  You make  seeing
+tr: You are a sannyāsī of our own sampradāya and You live in this town; why then do You not come to see us?
+
+## 68
+w: a sannyāsī  being  You do  dancing and singing
+w: sentimentalists  all  with  taking  You do  kīrtana
+tr: Though You are a sannyāsī, You dance and sing, and You take all these sentimentalists with You and perform kīrtana.
+
+## 69
+w: Vedānta-study  meditation  of a sannyāsī  the dharma
+w: that  abandoning  You do  why  of sentimentalists  the work
+tr: The study of Vedānta and meditation are the dharma of a sannyāsī; why do You abandon them and do the work of sentimentalists?
+
+## 70
+w: by Your splendour  we see  You  directly  Nārāyaṇa
+w: low conduct  You do  why  in this  what  reason
+tr: From Your splendour we see that You are Nārāyaṇa Himself; why then do You behave so lowly? What is the reason?”
+
+## 71
+w: the Lord  says  listen  Śrīpāda  of this  the reason
+w: the guru  Me  a fool  seeing  made  chastisement
+tr: The Lord said, “Listen, Śrīpāda, to the reason for this. My guru saw that I was a fool, and he chastised Me:
+fn: *Anubhāṣya*: Śrī Caitanya, Himself the sole object of the Vedānta, teaches who is fit to study it: one who is humbler than a blade of grass, more tolerant than a tree, who seeks no honour and gives honour to others. In calling Himself a fool, He, the Lord of the fourteen worlds, shows the humility of a disciple; the real fool is one who judges the object of the Vedānta by the mind and senses.
+
+## 72
+w: a fool  You are  Your  there is not  qualification for Vedānta
+w: ‘the Kṛṣṇa-mantra’  chant  always  this  of mantras the essence
+tr: ‘You are a fool; You are not qualified for Vedānta. Always chant the Kṛṣṇa-mantra — it is the essence of all mantras.
+
+## 73
+w: the Kṛṣṇa-mantra  from  will be  from saṁsāra  release
+w: Kṛṣṇa’s name  from  You will attain  Kṛṣṇa’s  feet
+tr: From the Kṛṣṇa-mantra will come release from saṁsāra, and by Kṛṣṇa’s name You will attain Kṛṣṇa’s feet.
+fn: *Anubhāṣya* (after the *Bhakti-sandarbha*, 284): the mantras too are names of the Lord, adorned with the word *namaḥ* and the like, and the sages have placed a special power in them; the name alone, depending on nothing else, is able to give the highest goal of life. Initiation is needed to curb the impure tendencies of those whose minds are attached to the body and restless.
+
+## 74
+w: the name  without  in the age of Kali  there is not  other  dharma
+w: of all mantras the essence  the name  this  of scripture the heart
+tr: In the age of Kali there is no dharma other than the name; the name is the essence of all mantras — this is the heart of the scriptures.’
+
+## 75
+w: thus  saying  one  verse  he taught  Me
+w: in the throat  keeping  this  verse  make  reflection
+tr: Saying this, he taught Me a verse: ‘Keep this verse on Your lips and reflect on it.’
+
+## 76
+w: of Hari  the name  of Hari  the name
+w: of Hari  the name  indeed  only
+w: in Kali  there is not  indeed  there is not  indeed
+w: there is not  indeed  way  other
+tr: “The name of Hari, the name of Hari, the name of Hari alone! In the age of Kali there is no other way, there is no other way, there is no other way.” (Bṛhan-nāradīya Purāṇa, 38.126)
+fn: *Anubhāṣya*: in Satya-yuga the way is meditation, in Tretā sacrifice, in Dvāpara the worship of the Deity; in Kali there is none of these — there is only one way, the name of Hari; all other means are fruitless in Kali.
+
+## 77
+w: this  order  receiving  the name  I take  constantly
+w: the name  taking  taking  My  bewildered  became  mind
+tr: Receiving this order, I took the name constantly, and as I chanted on and on, My mind grew bewildered.
+
+## 78
+w: composure  to hold  I cannot  I became  mad
+w: I laugh  I weep  I dance  I sing  like  one intoxicated
+tr: I could no longer keep My composure; I became mad. I laughed and wept, I danced and sang like one intoxicated.
+
+## 79
+w: then  composure  holding  in the mind  I made  consideration
+w: by Kṛṣṇa’s name  knowledge-covered  became  My
+tr: Then, gathering My composure, I reflected: ‘Kṛṣṇa’s name has covered all My knowledge.
+
+## 80
+w: mad  have become  I  composure  there is not  in the mind
+w: thus  thinking  I submitted  at the guru’s  feet
+tr: I have gone mad; there is no composure left in My mind.’ Thinking this, I came to the feet of My guru and said:
+
+## 81
+w: what  mantra  you gave  Gosāñi  what  its  power
+w: chanting  chanting  the mantra  made  mad
+tr: ‘What mantra have you given Me, Gosāñi? What power it has! Chanting it again and again, I have gone mad.
+
+## 82
+w: it makes laugh  makes dance  Me  makes  weep
+w: this  hearing  the guru  to Me  spoke  words
+tr: It makes Me laugh, it makes Me dance, it makes Me weep.’ Hearing this, My guru spoke these words to Me:
+
+## 83
+w: of the great mantra of Kṛṣṇa’s name  this  indeed  the nature
+w: whoever  chants  his  for Kṛṣṇa  arises  bhāva
+tr: ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens bhāva for Kṛṣṇa in whoever chants it.
+fn: *Anubhāṣya* (on 7.74): “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare — these sixteen names destroy the impurity of Kali; no higher means is to be found in all the Vedas” (*Kali-santaraṇa Upaniṣad*). On 7.83: the mantras of the Pañcarātra are called simply mantras, while the names of the Lord are called the *mahā-mantra*.
+
+## 84
+w: for Kṛṣṇa  prema  the supreme  goal of life
+w: before which  like straw  the four  goals of life
+tr: Prema for Kṛṣṇa is the supreme aim of human life; before it the four other goals are like straw.
+
+## 85
+w: the fifth  goal of life  an ocean of the nectar of the bliss of prema
+w: of Brahman and the rest  the bliss  of which  is not  one  drop
+tr: The fifth goal of life is prema, a boundless ocean of nectarean bliss; the bliss of Brahman and all the rest is not equal to a single drop of it.
+fn: As in the Gauḍīya Maṭha edition: «ব্রহ্মাদি আনন্দ» (“the bliss of Brahman and the rest”; the heading: “Prema, which puts liberation and the rest to shame, is the fifth goal of life”). *Amṛta-pravāha-bhāṣya*: even the bliss of Brahman, the first stage of liberation, cannot be compared with a single drop of prema. Other editions read «মোক্ষাদি» (“liberation and the rest”).
+
+## 86
+w: of Kṛṣṇa’s name  the fruit  ‘prema’  in all scriptures  it is said
+w: by good fortune  that  prema  in You  has made  dawning
+tr: All the scriptures say that the fruit of Kṛṣṇa’s name is prema, and by good fortune that prema has dawned in You.
+
+## 87
+w: by prema’s  nature  it makes  of mind and body  agitation
+w: of Kṛṣṇa’s  feet  for the attainment  arises  greed
+tr: It is the nature of prema to stir both mind and body and to awaken a burning longing to attain Kṛṣṇa’s feet.
+
+## 88
+w: by prema’s  nature  the devotee  laughs  weeps  sings
+w: mad  becoming  dances  here and there  runs
+tr: Moved by prema, the devotee laughs, weeps and sings; as if mad, he dances and runs here and there.
+fn: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of bhāva and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
+
+## 89–90
+w: perspiration  trembling  hair standing on end and tears  faltering voice  pallor
+w: madness  despondency  steadiness  pride  joy  humility
+w: with so many  feelings  prema  the devotees  makes dance
+w: in Kṛṣṇa’s  ocean of the nectar of bliss  makes float
+tr: Perspiration, trembling, hair standing on end, tears, a faltering voice and change of colour; madness, despondency, steadiness, pride, joy and humility — with all these feelings prema makes the devotees dance and sets them afloat on the ocean of the nectar of Kṛṣṇa’s bliss.
+
+## 91
+w: good  it is  You have attained  You  the supreme goal of life
+w: by Your  prema  I  have become  fulfilled
+tr: It is good that You have attained the supreme goal of life; by Your prema my own life has been fulfilled.
+
+## 92
+w: dance  sing  with the devotees  perform  saṅkīrtana
+w: Kṛṣṇa’s name  teaching  deliver  all people
+tr: Dance, sing and perform saṅkīrtana with the devotees; teach Kṛṣṇa’s name and deliver all people.’
+fn: *Anubhāṣya*: to those whom Gurudeva sees to be qualified he gives the right to dance, sing and perform saṅkīrtana with like-minded devotees, and they, following in his steps, serve the deliverance of the world; the unqualified should chant Kṛṣṇa’s name in solitude.
+
+## 93
+w: thus  saying  one  verse  he taught  Me
+w: of the Bhāgavata  the essence  this  he says  again  again
+tr: Saying this, he taught Me a verse and told Me again and again: ‘This is the essence of the *Bhāgavata*.’
+
+## 94
+w: one with such a vow  by the chanting of the names of his beloved
+w: in whom love has arisen  with melted heart  loudly
+w: laughs  then  weeps  cries out  sings
+w: like a madman  dances  beyond the world
+tr: “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+fn: *Anubhāṣya*: these words were spoken by Kavi, one of the nine Yogendras, to King Nimi. *Evaṁ-vrataḥ* — one whose vow is the service of hearing, chanting and the like; *druta-cittaḥ* — with a heart full of longing; *loka-bāhyaḥ* — indifferent to people’s laughter, blame or praise.
+
+## 95
+w: this  his  in the words  I  firm  faith  holding
+w: constantly  Kṛṣṇa’s name  saṅkīrtana  I do
+tr: With firm faith in these words of his, I constantly perform the saṅkīrtana of Kṛṣṇa’s name.
+
+## 96
+w: that  Kṛṣṇa’s name  at times  makes sing  makes dance
+w: I sing  I dance  not  I  by My own will
+tr: That name of Kṛṣṇa sometimes makes Me sing and dance; I do not sing and dance of My own will.
+fn: *Anubhāṣya*: Śrī Nāma Prabhu Himself, by His own will, moved Śrī Gaurasundara to sing and dance; Gaurasundara did not chant the name as though it were a thing of this world. Those who, driven by restless senses, make the name their plaything and try to lord it over Him, reap only the fruits of karma instead of bhajana.
+
+## 97
+w: in Kṛṣṇa’s name  which  of the ocean of bliss  the tasting
+w: the bliss of Brahman  of that  before  like water in a ditch
+tr: Before the ocean of bliss tasted in Kṛṣṇa’s name, the bliss of Brahman is like water in a ditch.
+
+## 98
+w: from seeing You face to face  the joy
+w: in the pure ocean  situated  for me
+w: joys  become like a calf’s hoofprint
+w: of Brahman  even  O Guru of the world
+tr: “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)
+
+## 99
+w: the Lord’s  sweet words  hearing  of the sannyāsīs  the company
+w: their hearts  turning  went  they speak  sweet  words
+tr: Hearing the Lord’s sweet words, the sannyāsīs had a change of heart, and they answered Him with gentle words:
+
+## 100
+w: whatever  You have said  You  all  true  is
+w: love for Kṛṣṇa  he  attains  whose  fortune has dawned
+tr: “All that You have said is true: love for Kṛṣṇa is attained only by one whose good fortune has dawned.
+
+## 101
+w: to Kṛṣṇa  devotion  You practise  in this  of all  the satisfaction
+w: Vedānta  not  You hear  why  its  what  fault
+tr: You have devotion for Kṛṣṇa, and we are all pleased with that. But why do You not hear Vedānta? What fault is there in it?”
+fn: The edition’s heading to 7.100–101: “Even so — only ordinary regard for bhakti, but firm faith in Māyāvāda.” *Anubhāṣya*: the Māyāvādīs are pleased when Kṛṣṇa is served with body and mind as a temporary practice, for they consider bhakti a kind of karma; and by “Vedānta” they mean the Upaniṣads and the *Brahma-sūtra* as interpreted by Śaṅkara.
+
+## 102
+w: this  hearing  smiling  the Lord  spoke  words
+w: offence  not  you take  if  I make  submission
+tr: Hearing this, the Lord smiled and said, “If you will not take offence, I shall explain.”
+
+## 103
+w: this  hearing  say  all  of the sannyāsīs  the company
+w: You  we see  as  directly  Nārāyaṇa
+tr: At this all the sannyāsīs said, “We see You as Nārāyaṇa Himself.
+
+## 104
+w: Your  words  hearing  are soothed  the ears
+w: Your  sweetness  seeing  are soothed  the eyes
+tr: Your words soothe our ears, and the sight of Your sweetness soothes our eyes.
+
+## 105
+w: by Your  influence  of all  joyful  the minds
+w: ever  unfitting  not are  Your  words
+tr: Your presence has filled all our hearts with joy, and Your words are never unfitting.”
+
+## 106
+w: the Lord  says  the Vedānta-sūtra  of Īśvara  the words
+w: in the form of Vyāsa  composed  it  Śrī Nārāyaṇa
+tr: The Lord said, “The *Vedānta-sūtra* is the word of the Lord: Śrī Nārāyaṇa Himself composed it in the form of Vyāsa.
+fn: As in the Gauḍīya Maṭha edition: «তাহা» (“it”; another reading «যাহা», “which”); the sense is the same. *Anubhāṣya*: the Vedas came into the world from the breath of Śrī Nārāyaṇa; Śrī Vyāsa, who composed the sūtras, is His empowered avatāra (*śaktyāveśa*), and so the sūtras too are the word of Nārāyaṇa Himself.
+
+## 107
+w: error  inattention  the wish to deceive  imperfection of the senses
+w: of Īśvara  in the words  there are not  faults  these  all
+tr: Error, inattention, the wish to deceive and the imperfection of the senses — none of these faults is found in the words of the Lord.
+
+## 108
+w: the Upaniṣads  together with  the sūtras  speak  which  truth
+w: by the primary sense  that  meaning  of supreme  greatness
+tr: The truth that the sūtras declare together with the Upaniṣads is of supreme greatness when taken in its primary sense.
+fn: The edition’s heading: “In the primary sense (*abhidhā*) the object of the Vedānta is Bhagavān, the Truth endowed with attributes.” *Anubhāṣya*: the primary sense (*mukhya-vṛtti*, *abhidhā*) is what a word means by dictionary and grammar; the secondary sense (*gauṇa-vṛtti*, *lakṣaṇā*) is another meaning connected with it, resorted to out of some need.
+
+## 109
+w: by the secondary sense  the  commentary  made  the Ācārya
+w: its  by hearing  ruin  goes  all  work
+tr: But to hear the commentary that the Ācārya wrote in the secondary sense is to lose every spiritual gain.
+
+## 110
+w: his  there is not  fault  of Īśvara  the order  receiving
+w: the secondary meaning  he made  the primary  meaning  covering
+tr: The fault is not his: he received the Lord’s order and so gave the secondary meaning, covering the primary.
+fn: The edition’s heading to 7.109: “Hearing Śaṅkara’s commentary, composed in the secondary sense to bewilder the asuras, brings ruin.” *Amṛta-pravāha-bhāṣya*: Śaṅkara, an avatāra of Śiva, was carrying out the Lord’s will, and therefore he is not at fault. In the *Padma Purāṇa* Śiva says: “Māyāvāda is a false doctrine, Buddhism in disguise. In the age of Kali I Myself, in the form of a brāhmaṇa, shall set it forth to bewilder the world.”
+
+## 111
+w: ‘Brahman’-in the word  in the primary  sense  says  ‘Bhagavān’
+w: with spiritual majesty  full  having none above or equal
+tr: In its primary sense the word “Brahman” means Bhagavān, full of spiritual majesty, with none above Him or equal to Him.
+
+## 112
+w: His  opulence  body  all  of spiritual form
+w: the spiritual opulence  covering  he calls  ‘formless’
+tr: His opulence and His body are all spiritual in form; but, covering His spiritual opulence, the Ācārya calls Him “formless”.
+
+## 113
+w: spiritual bliss  His body  His  abode  retinue
+w: Him  they call  of material sattva  a transformation
+tr: His body, His abode and His retinue are spiritual bliss, yet they say that He is a transformation of material *sattva*.
+
+## 114
+w: his  fault  there is not  he  order-carrying  servant
+w: but  whoever  hears  his  is  utter ruin
+tr: The fault is not his, for he is a servant who carries out orders; but whoever listens to him meets with utter ruin.
+
+## 115
+w: material  taking  he regards  Viṣṇu’s body
+w: Viṣṇu-blasphemy  other  there is not  this  above
+tr: One who regards the body of Viṣṇu as material commits the gravest blasphemy against Viṣṇu; there is none greater than this.
+
+## 116
+w: of Īśvara  the truth  like  blazing  fire
+w: of the jīva  the nature  like  of a spark  a particle
+tr: The truth of the Lord is like a blazing fire, and the jīva in its true nature is like a particle of a spark.
+
+## 117
+w: the jīva-truth  potency  the Kṛṣṇa-truth  the possessor of potency
+w: Gītā  Viṣṇu Purāṇa and others  in that  the evidence
+tr: The jīva is a potency (*śakti*); Kṛṣṇa is the possessor of all potency (*śaktimān*). The *Gītā*, the *Viṣṇu Purāṇa* and other scriptures bear witness to this.
+
+## 118
+w: inferior  this  beyond this  but  another
+w: nature  know  My  superior
+w: consisting of jīvas  O mighty-armed
+w: by which  this  is taken up  the world
+tr: “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, who take up this world for their own enjoyment.” (Bhagavad-gītā, 7.5)
+fn: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, *māyā*; the other, superior nature is the jīvas, and *māyā* has no part in forming the jīva — only its seeming material self belongs to *māyā*.
+
+## 119
+w: Viṣṇu’s potency  superior  is declared
+w: called the knower of the field  likewise  superior
+w: called ignorance and karma  another
+w: a third  potency  is held to be
+tr: “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
+fn: *Amṛta-pravāha-bhāṣya*: Viṣṇu’s potency is threefold: the superior (*parā*) is the spiritual potency (*cit-śakti*); the *kṣetrajña* is the jīva potency; that called ignorance and karma is *māyā*.
+
+## 120
+w: such  the jīva-truth  taking  writing  the supreme truth
+w: covering  he made  the highest  of Īśvara  greatness
+tr: Yet the Ācārya took such a jīva and declared it to be the Supreme Truth, and so he hid the supreme greatness of the Lord.
+fn: The edition’s heading: “To take the Lord, like the jīva, as subject to ignorance is also Māyāvāda.” *Amṛta-pravāha-bhāṣya*: the jīva is a particular potency of the Lord; if it is established not as a particle of consciousness (*aṇu-caitanya*) but as Brahman, the doctrine is bound to be mistaken.
+
+## 121
+w: of Vyāsa  in the sūtras  is told  ‘transformation’-doctrine
+w: Vyāsa  mistaken  saying  his  raised  dispute
+tr: In Vyāsa’s sūtras the doctrine of transformation (*pariṇāma-vāda*) is taught; but Śaṅkara said that Vyāsa was mistaken and raised a dispute.
+fn: The edition’s heading: “The *Brahma-sūtra* accepts *śakti-pariṇāma-vāda*, the doctrine of the transformation of the potency.”
+
+## 122
+w: in the transformation-doctrine  Īśvara  becomes  changeable
+w: thus  saying  ‘appearance’-doctrine  establishment  which  he made
+tr: He argued that under the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.
+fn: *Amṛta-pravāha-bhāṣya*: Śaṅkara argued that by *pariṇāma-vāda* the Lord would have to be called changeable, and that to accept it would be to call Vyāsa mistaken; so he established *vivarta-vāda* (in his commentary on *Brahma-sūtra* 2.1.14). But in the sūtras the transformation is the work of the Lord’s inconceivable potency, acting by His will alone.
+
+## 123
+w: in reality  the transformation-doctrine  that  alone  the authority
+w: in the body  the sense of self  is  of vivarta  the place
+tr: In truth the doctrine of transformation alone is authoritative; illusion lies in taking the body for the self.
+fn: *Amṛta-pravāha-bhāṣya*: *vivarta* is taking a thing for what it is not, “like a rope for a snake”. The jīva is a pure particle of spirit, and when, embodied as a human being, it takes this body for its self, that is *vivarta*. To transfer this fault to the world and to the jīva, calling them false, is groundless: both the world and the jīva are real, coming from the real Brahman.
+
+## 124
+w: with inconceivable potency  endowed  Śrī Bhagavān
+w: by His will  in the form of the world  undergoes  transformation
+tr: Śrī Bhagavān possesses inconceivable potency, and by His own will He is transformed into the world.
+fn: The edition’s heading to 7.127: “Though His potency is transformed, He Himself remains unchanged.” *Anubhāṣya* (after Śrī Jīva Gosvāmī’s *Paramātma-sandarbha*, 58): it is not the essence (*svarūpa*) of the Supreme that is transformed but His potency called *dravya*, which is the expansion of His essence; He Himself, by His inconceivable potency, remains unchanged, like the *cintāmaṇi* or the lodestone, which, without changing, produce jewels or move iron. The world therefore is not false: what is false is only the identification of the self with the body.
+
+## 125
+w: still  by inconceivable potency  He is  unchanged
+w: the material  cintāmaṇi  in this  as an example  we hold
+tr: Yet by that same inconceivable potency He remains unchanged. We find an example of this even in this world — the *cintāmaṇi* stone.
+
+## 126
+w: various  heaps of jewels  come  from the cintāmaṇi
+w: yet  the gem  remains  in its own nature  unchanged
+tr: Heaps of various jewels come from the *cintāmaṇi*, yet the gem itself remains unchanged in its nature.
+
+## 127
+w: in a material thing  if  inconceivable potency  is
+w: of Īśvara  inconceivable potency  in this  what  wonder
+tr: If even a material thing possesses inconceivable power, what wonder is there in the inconceivable potency of the Lord?
+
+## 128
+w: ‘praṇava’  that  great utterance  of the Vedas  the source
+w: the Lord’s own form  praṇava  of all universes  the abode
+tr: The *praṇava* (oṁ) is the great utterance, the source of the Vedas; the *praṇava* is the Lord Himself in sound, the abode of all the universes.
+fn: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of the Vedas; it stands at the beginning and at the end of every Vedic mantra and is the Lord Himself in sound: “The sound *a* denotes Kṛṣṇa, the one Lord of all the worlds; *u* denotes Rādhā; and *m* the jīva.”
+
+## 129
+w: the shelter of all  of Īśvara  makes  praṇava  indication
+w: ‘tat tvam asi’  the utterance  is  of the Veda  one  part
+tr: The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* is one particular statement of the Veda.
+fn: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad* 6.8.7) applies only to one part of it.
+
+## 130
+w: ‘praṇava’  the great utterance  that  making  covering
+w: as the great utterance  making  of ‘tat tvam asi’  establishment
+tr: The *praṇava* is the great utterance; but he covered this and set up *tat tvam asi* as the great utterance instead.
+
+## 131
+w: in all the Vedas and sūtras  is made  of Kṛṣṇa  the naming
+w: the primary sense  abandoning  he made  secondary  explanation
+tr: All the Vedas and sūtras name Kṛṣṇa in their primary sense; but he abandoned the primary sense and explained them by the secondary one (*lakṣaṇā*).
+fn: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
+
+## 132
+w: self-evident  the Veda  of proofs  the crest-jewel
+w: by lakṣaṇā  if one makes  of self-evidence  the loss
+tr: The Veda is self-evident, the crest-jewel of all proofs; interpreted by the secondary sense, it loses that self-evidence.
+
+## 133
+w: in this  way  in every sūtra  the natural meaning  abandoning
+w: the secondary meaning  explanation  he makes  all  imagining
+tr: So in every sūtra he abandoned the natural meaning and explained it by a secondary one, inventing it all himself.”
+
+## 134
+w: in this  way  in every sūtra  He makes  fault-finding
+w: hearing  astonished  became  of the sannyāsīs  the company
+tr: In this way He showed the faults in the commentary on every sūtra, and the sannyāsīs were astonished to hear it.
+
+## 135
+w: all  the sannyāsīs  say  listen  Śrīpāda
+w: You  which  have refuted  the meaning  this  is not  a matter of dispute
+tr: All the sannyāsīs said, “Listen, Śrīpāda: the meaning You have refuted is beyond dispute.
+fn: *Amṛta-pravāha-bhāṣya*: “O Śrī Kṛṣṇa Caitanya, the reasoning by which You have refuted Śaṅkara’s meaning is no idle quarrel: a fortunate person accepts it as the truth.”
+
+## 136
+w: by the Ācārya imagined  the meaning  this  all  we know
+w: of the sampradāya  out of deference  the truth  this  we accept
+tr: We all know that the meaning is the Ācārya’s own invention; yet out of deference to our sampradāya we accept it as the truth.
+
+## 137
+w: the primary meaning  explanation  make  let us see  Your  power
+w: in the primary meaning  set  the Lord  the sūtras  all
+tr: Explain the primary meaning; let us see Your power.” And the Lord set about explaining all the sūtras in their primary meaning:
+
+## 138
+w: the great reality  ‘Brahman’  we call  ‘Śrī Bhagavān’
+w: with six kinds of majesty  full  of the Supreme Truth  the abode
+tr: “The great reality called Brahman is Śrī Bhagavān, full of the six kinds of majesty, the abode of the Supreme Truth.
+fn: The edition’s heading: “The Lord’s explanation: (1) Bhagavān Kṛṣṇa is the *sambandha*.” *Amṛta-pravāha-bhāṣya*: in the *Bṛhad-āraṇyaka Upaniṣad* (*pūrṇam adaḥ…*, 5.1) the Supreme Truth, full of the six opulences, is called “the great reality”; the Purāṇas describe the same marks by the word “Bhagavān”. So wherever the Vedas say “Brahman”, the word fulfils its meaning when it is understood as Śrī Bhagavān.
+
+## 139
+w: in His own form and majesty  His  there is not  of māyā  a trace
+w: of all  the Vedas  is  Bhagavān  that  ‘sambandha’
+tr: In His own form and majesty there is not a trace of *māyā*; in all the Vedas Bhagavān is the *sambandha* — the One to whom everything is related.
+
+## 140
+w: Him  ‘featureless’  we call  the spiritual potency  not  accepting
+w: half  of His being  not  if one accepts  fullness  is  harmed
+tr: To call Him featureless (*nirviśeṣa*) is to deny His spiritual potency; and one who does not accept half of His being diminishes His fullness.
+fn: *Amṛta-pravāha-bhāṣya*: Bhagavān, embracing the featureless aspect within Himself, is eternally endowed with attributes; to call Him featureless is not to accept His *cit-śakti*. Brahman possesses spiritual potency and is therefore personal; one who does not accept half of His being diminishes His fullness.
+
+## 141
+w: Bhagavān-attainment for  which  I make  means
+w: hearing and the rest  devotion  of Kṛṣṇa’s attainment  the help
+tr: The means by which one attains Bhagavān is devotion beginning with hearing; it is what brings one to Kṛṣṇa.
+
+## 142
+w: that  of all the Vedas  ‘abhidheya’  the name
+w: from sādhana-bhakti  is  of prema  the sprouting
+tr: All the Vedas call this the *abhidheya*, the means to be practised; from devotion in practice (*sādhana-bhakti*) prema springs up.
+fn: The edition’s heading to 7.141: “(2) *Sādhana-bhakti*, beginning with hearing, is the means — the *abhidheya*.” *Amṛta-pravāha-bhāṣya*: to attain the shelter of Bhagavān’s feet, all the Vedas prescribe *sādhana-bhakti*; from its nine forms, beginning with hearing, Kṛṣṇa-prema springs up.
+
+## 143
+w: Kṛṣṇa’s  for the feet  is  if  deep attachment
+w: Kṛṣṇa  except  elsewhere  his  not  remains  attachment
+tr: When deep attachment for Kṛṣṇa’s feet arises, no attachment to anything other than Kṛṣṇa remains.
+
+## 144
+w: the fifth  goal of life  that  great treasure of prema
+w: Kṛṣṇa’s  sweetness-rasa  makes  taste
+tr: That great treasure of prema is the fifth goal of life; it lets one taste the rasa of Kṛṣṇa’s sweetness.
+fn: The edition’s heading to 7.143: “(3) Kṛṣṇa-prema is the goal (*prayojana*), the fifth aim of life.”
+
+## 145
+w: prema  from  Kṛṣṇa  becomes  to His own  devotee subject
+w: prema  from  one gains  Kṛṣṇa’s  the joy-rasa of service
+tr: By prema Kṛṣṇa comes under the control of His devotee, and by prema one tastes the joy of serving Kṛṣṇa.
+
+## 146
+w: sambandha  abhidheya  prayojana  by name
+w: these  three  meanings  in all the sūtras  the conclusion
+tr: *Sambandha*, *abhidheya* and *prayojana* — relationship, means and goal: in these three meanings all the sūtras find their conclusion.”
+fn: *Amṛta-pravāha-bhāṣya*: knowledge of *sambandha* is the answer to the questions: who am I, what is this world, who is Bhagavān and what is our relationship; *abhidheya* is what one must do, having learned this; *prayojana* is the fruit of that endeavour. *Anubhāṣya* (on 7.106): the first two chapters of the *Vedānta-sūtra* speak of *sambandha*, the third of *abhidheya*, *sādhana-bhakti*, the fourth of *prayojana*, love for Bhagavān; the natural commentary on the sūtras, written by Vyāsa himself, is the *Śrīmad-Bhāgavatam*.
+
+## 147
+w: in this  way  of all the sūtras  the explanation  hearing
+w: all  the sannyāsīs  say  humility  showing
+tr: Hearing all the sūtras explained in this way, all the sannyāsīs humbly said:
+
+## 148
+w: made of the Vedas  the form  You  directly  Nārāyaṇa
+w: forgive  the offence  before  which  we made  blasphemy
+tr: “You are the Vedas embodied — Nārāyaṇa Himself. Forgive us for having blasphemed You before.”
+
+## 149
+w: that  from  of the sannyāsīs  turned  went  the minds
+w: ‘Kṛṣṇa’  ‘Kṛṣṇa’  the name  always  they make  taking
+tr: From that time the sannyāsīs’ hearts were changed, and they always took the name “Kṛṣṇa, Kṛṣṇa”.
+
+## 150
+w: in this  way  of them all  forgiving  the offences
+w: to all  Kṛṣṇa’s name  He made  grace
+tr: So He forgave their offences and graced them all with Kṛṣṇa’s name.
+
+## 151
+w: then  all  sannyāsīs  Mahāprabhu  taking
+w: alms  took  all  in the middle  seating
+tr: Then all the sannyāsīs took their meal together with Mahāprabhu, seating Him in their midst.
+
+## 152
+w: alms  having taken  Mahāprabhu  came  to His lodging
+w: such  wonderful  pastime  performs  the beautiful Gaurāṅga
+tr: After the meal Mahāprabhu returned to His lodging. Such are the wonderful pastimes of the beautiful Gaurāṅga.
+
+## 153
+w: Candraśekhara  Tapana  Miśra  and  Sanātana
+w: hearing  seeing  joyful  of all  the minds
+tr: Candraśekhara, Tapana Miśra and Sanātana rejoiced at heart to hear and see all this.
+
+## 154
+w: the Lord  to see  come  all  sannyāsīs
+w: the Lord’s  praise  makes  all  Vārāṇasī
+tr: All the sannyāsīs came to see the Lord, and all Vārāṇasī sang His praises.
+
+## 155
+w: to the city of Vārāṇasī  came  Śrī Kṛṣṇa Caitanya
+w: with the city  all the people  became  greatly blessed
+tr: Śrī Kṛṣṇa Caitanya had come to Vārāṇasī, and the city and all its people were greatly blessed.
+
+## 156
+w: hundreds of thousands  of people  come  the Lord  to see
+w: a great crowd  formed  at the door  they cannot  enter
+tr: People came in their hundreds of thousands to see the Lord; there was such a crowd at the door that no one could get in.
+
+## 157
+w: the Lord  when  goes  to see Viśveśvara
+w: hundreds of thousands  of people  coming  gather  at that  place
+tr: Whenever the Lord went to see Viśveśvara, hundreds of thousands of people gathered there.
+
+## 158
+w: bath  to take  when  He goes  to the bank of the Gaṅgā
+w: there  all  the people  make  a great crowd
+tr: When He went to bathe on the bank of the Gaṅgā, there too all the people thronged in a great crowd.
+
+## 159
+w: arms  raising  the Lord  says  say  Hari  Hari
+w: the sound of Hari  make  the people  heaven and earth  filling
+tr: Raising His arms, the Lord would say, “Chant ‘Hari! Hari!’”, and the people’s cry of “Hari!” filled heaven and earth.
+
+## 160
+w: the people  having delivered  the Lord’s  to depart  came  the mind
+w: to Vṛndāvana  He sent  Śrī Sanātana
+tr: Having delivered the people, the Lord decided to leave, and He sent Śrī Sanātana to Vṛndāvana.
+
+## 161
+w: night and day  of the people  hearing  the clamour
+w: Vārāṇasī  leaving  the Lord  came  to Nīlācala
+tr: Hearing the clamour of the crowds night and day, the Lord left Vārāṇasī and returned to Nīlācala.
+
+## 162
+w: this  pastime  I shall tell  later  in detail  making
+w: briefly  I have told  here  the occasion  finding
+tr: I shall tell these pastimes in detail later; here I have told them briefly, as the occasion arose.
+fn: *Amṛta-pravāha-bhāṣya*: “later” — see *Madhya-līlā*, chapter 25.
+
+## 163
+w: in this  form of the Pañca-tattva  Śrī Kṛṣṇa Caitanya
+w: Kṛṣṇa’s name and prema  giving  the world  made  blessed
+tr: Thus, in the form of the Pañca-tattva, Śrī Kṛṣṇa Caitanya blessed the whole world, giving everyone Kṛṣṇa’s name and love for Him.
+
+## 164
+w: to Mathurā  He sent  Rūpa and Sanātana
+w: the two  generals  made  of bhakti  spreading
+tr: He sent Rūpa and Sanātana to Mathurā, and these two commanders spread bhakti there.
+
+## 165
+w: Nityānanda Gosāñi  He sent  to the land of Gauḍa
+w: He  bhakti  preached  in every possible way
+tr: He sent Nityānanda Gosāñi to the land of Gauḍa, and there He preached bhakti in every possible way.
+
+## 166
+w: Himself  to the southern  country  made  going
+w: in village  in village  He made  of Kṛṣṇa’s name  spreading
+tr: He Himself went to the south and spread Kṛṣṇa’s name from village to village.
+
+## 167
+w: Setubandha  as far as  He made  of bhakti  preaching
+w: Kṛṣṇa-prema  giving  He made  of all  deliverance
+tr: As far as Setubandha He preached bhakti, and, giving Kṛṣṇa-prema, He delivered everyone.
+
+## 168
+w: thus  indeed  I have told  of the Pañca-tattva  the explanation
+w: of this  by hearing  comes  of Caitanya’s truth  knowledge
+tr: Thus I have given the explanation of the Pañca-tattva; by hearing it one comes to know the truth of Caitanya.
+
+## 169
+w: Śrī Caitanya  Nityānanda  Advaita  three  persons
+w: Śrīvāsa  Gadādhara  and others  all  devotees
+tr: Śrī Caitanya, Nityānanda and Advaita — the three; Śrīvāsa, Gadādhara and all the other devotees —
+
+## 170
+w: of all  at the lotus feet  millions of  obeisances
+w: somehow  I tell  something  of Caitanya’s pastimes
+tr: at the lotus feet of all of them I bow millions of times, and as best I can I tell something of Caitanya’s pastimes.
+
+## 171
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+

@@ -1,0 +1,754 @@
+# CC Madhya 25, stage A, part 2 (verses 136–276); read by build_en.py together with Madhya25.txt
+# Verses already revised elsewhere — word-by-word and translation verbatim from ed/en-rev: 141 (= Madhya 8.265), 148 (= Madhya 8.65), 149 (= Madhya 24.107), 151 (= Madhya 17.142), 152 (= Madhya 6.186); partly: 142 (~ Ādi 1.91), 147 and 191 (2nd line ~ Madhya 15.104), 150 (~ Madhya 24.46), 227 (1st line ~ Madhya 16.252), 232 (1st line ~ Madhya 6.285).
+
+@136
+therefore  the Bhāgavata  —  of the sūtras  of the meaning  the embodiment
+by himself composed  of the sūtras  his own  commentary  in nature
+= Therefore the *Bhāgavatam* is the meaning of the *sūtras* in embodied form: it is by nature the author’s own commentary on the *sūtras* he himself composed.
+
+@137
+the meaning  this  of the Brahma-sūtras
+of the meaning of the Mahābhārata  the determination
+of the Gāyatrī  of a commentary  in the form  it
+by the meaning of the Vedas  enriched
+a book  of eighteen thousand (verses)
+Śrīmad-Bhāgavatam  named
+= “This book named *Śrīmad-Bhāgavatam*, of eighteen thousand verses, is the meaning of the *Brahma-sūtras*; it settles the meaning of the *Mahābhārata*; it has the form of a commentary on the Gāyatrī; and it is enriched by the meaning of the Vedas.” (Garuḍa Purāṇa)
+
+@138
+of all  the Vedas and Itihāsas
+the essence  the essence  extracted
+= “… the very essence of all the Vedas and Itihāsas, extracted.” (Śrīmad-Bhāgavatam, 1.3.42)
+
+@139
+of all Vedānta  the essence  indeed
+Śrīmad-Bhāgavatam  is held to be
+by its  nectar of rasa  of one satisfied
+not  elsewhere  can be  attraction  ever
+= “*Śrīmad-Bhāgavatam* is held to be the essence of all Vedānta. One who is satisfied with the nectar of its *rasa* is never attracted to anything else.” (Śrīmad-Bhāgavatam, 12.13.15)
+
+@140
+of the Gāyatrī  with the meaning  this  book’s  beginning
+satyaṁ  paraṁ (the Supreme Truth)  —  sambandha  dhīmahi (let us meditate)  —  in sādhana (abhidheya)  prayojana
+= This book begins with the meaning of the Gāyatrī: “*satyaṁ param*” (the Supreme Truth) is the *sambandha*, and “*dhīmahi*” (let us meditate) is both the practice (*sādhana*) and the goal (*prayojana*).
+
+@141
+birth and so on  of this  from whom  directly  indirectly  and  in all purposes  fully aware  self-luminous
+revealed  the Veda  through the heart  who  to the first poet  are bewildered  about whom  the wise
+of fire  water  earth  as  the interchange  in whom  the threefold creation  real
+by power  His own  always  free of all deception  the truth  supreme  let us meditate on
+= “Let us meditate on the Supreme Truth, from whom, directly and indirectly, this universe arises, endures and dissolves; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)
+
+@142
+dharma  wholly-cast-out  deceit  here  supreme  of the non-envious  of the saints
+to be known  real  here  substance  bestowing good  the threefold miseries  uprooting
+in the beautiful Bhāgavata  by the great sage  composed  what  by others?  the Lord
+at once  in the heart  is captured  here  by the pious  who wish to hear  that very moment
+= “In this beautiful *Bhāgavatam*, composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)
+
+@143
+of devotion to Kṛṣṇa  of rasa  the very form  Śrī Bhāgavata
+therefore  the Vedic  scriptures  than  supreme  greatness
+= The *Śrī Bhāgavatam* is the very form of the *rasa* of devotion to Kṛṣṇa; therefore its greatness surpasses that of the Vedic scriptures.
+
+@144
+of the Vedas  wish-fulfilling  of the tree  fallen  the fruit
+from Śuka’s  mouth  with nectar  juice  filled
+drink  the Bhāgavatam  rasa  up to (the bliss of) liberation
+again and again  O  rasikas  on earth  bhāvukas
+= “O *rasikas*, O *bhāvukas* on earth! Again and again drink the *Bhāgavatam*, the ripe fruit fallen from the wish-fulfilling tree of the Vedas, filled with nectarean juice from the mouth of Śuka: drink its *rasa*, which embraces even the bliss of liberation.” (Śrīmad-Bhāgavatam, 1.1.3)
+
+@145
+we  but  not  are satiated
+by the exploits  of Uttamaśloka
+which  for those who hear  rasa  who know
+sweet  sweet  at every  step
+= “We are never satiated with the exploits of Uttamaśloka, for to those who know *rasa* and hear of them they grow sweeter and sweeter at every step.” (Śrīmad-Bhāgavatam, 1.1.19)
+
+@146
+therefore  the Bhāgavata  do  study
+this  from  you will gain  of the sūtras  of the śruti  of the meaning  the essence
+= Therefore study the *Bhāgavatam* carefully: from it you will gain the essential meaning of the *sūtras* and the *śruti*.
+
+@147
+constantly  do  saṅkīrtana of Kṛṣṇa’s name
+easily  liberation  you will attain  you will attain  the treasure of love
+= Always chant the name of Kṛṣṇa in *saṅkīrtana*: you will easily attain liberation, and you will attain the treasure of love.
+
+@148
+one who has realised Brahman  serene in self
+not  grieves  not  desires
+equal  to all  beings
+for Me  devotion  attains  supreme
+= “One who has realised Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)
+
+@149
+the liberated  even  by līlā  a form
+having assumed  Bhagavān  worship
+= “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (words of the author of the Sarvajña-bhāṣya, quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 10.87.21)
+
+@150
+firmly established  though  in transcendence of the guṇas
+of Uttamaśloka  by the pastimes
+captivated  in mind  O royal sage
+the narration  which  I studied
+= “O royal sage, although I was firmly established in transcendence of the *guṇas*, my mind was captivated by the pastimes of Uttamaśloka, and so I studied this narration.” (Śrīmad-Bhāgavatam, 2.1.9)
+
+@151
+of Him  the lotus-eyed  of the lotus feet
+with the filaments  mixed  of tulasī  of the nectar  the breeze
+having entered within  through its own passage  caused  in them
+agitation  devoted to the imperishable Brahman  even  of mind and body
+= “The breeze that bore the fragrance of tulasī, mingled with the pollen of the lotus-eyed Lord’s lotus feet, entered their nostrils and stirred both their minds and their bodies, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)
+
+@152
+delighting in the ātmā  and  the sages
+free from knots  even  to Urukrama
+perform  causeless  devotion
+of such  qualities  is Hari
+= “Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.” (Śrīmad-Bhāgavatam, 1.7.10)
+
+@153
+at that time  that  Mahārāṣṭrian  brāhmaṇa
+in the assembly  told  of that  verse  the explanation
+= Just then the brāhmaṇa from Mahārāṣṭra told the assembly how that verse had been explained.
+
+@154
+of this  verse  the meaning  the Lord  sixty-one  ways
+has given  which  hearing  people  are amazed
+= “The Lord has explained the meaning of this verse in sixty-one ways; all who hear it are amazed.”
+
+@155
+then  all  the people  to hear  insistence  showed
+sixty-one  meanings  the Lord  unfolding  told
+= Then everyone insisted on hearing them, and the Lord unfolded the sixty-one meanings in detail.
+
+@156
+hearing  of the people  great  amazement  arose
+Caitanya Gosāñi  —  Śrī Kṛṣṇa  they concluded
+= Hearing them, the people were struck with wonder and concluded that Caitanya Gosāñi is Śrī Kṛṣṇa Himself.
+
+@157
+thus  having spoken  rising  went  Gaurahari
+obeisances  offer  the people  the sound of ‘Hari’  making
+= Having said this, Gaurahari rose and left, and the people bowed down to Him, calling out the name of Hari.
+
+@158
+all  of Kāśī  the residents  perform  saṅkīrtana of the Name
+in love  laugh  weep  sing  perform  dance
+= All the residents of Kāśī took up the *saṅkīrtana* of the Name; in love they laughed, wept, sang and danced.
+
+@159
+the sannyāsīs  the paṇḍitas  do  of the Bhāgavata  study
+Vārāṇasī  the city  the Lord  made  deliverance
+= The *sannyāsīs* and *paṇḍitas* began to study the *Bhāgavatam*. Thus the Lord delivered the city of Vārāṇasī.
+
+@160
+His own  people  taking  the Lord  came  to His lodging
+Vārāṇasī  became  a second  Nadīyā  town
+= Taking His own people with Him, the Lord came back to His lodging. Vārāṇasī had become a second Nadīyā.
+
+@161
+His own  associates  with  the Lord  says  a smile  making
+to Kāśī  I  came  to sell  the wares of bhāva
+= Surrounded by His own associates, the Lord said with a smile, “I came to Kāśī to sell My wares of ecstatic feeling (*bhāva*).
+
+@162
+in Kāśī  a buyer  there is not  the goods  not  sell
+again  to My country  carrying  to take  not  is possible
+= In Kāśī there were no buyers, and the goods would not sell; yet they could not be carried back home again.
+
+@163
+I  the load  would carry  of you  all  sorrow  arose
+of you  all  by the wish  without  price  I distributed
+= I would have carried the load back, but you were all grieved; so, by your wish, I have given it away free of charge.”
+
+@164
+all  say  —  the people  to deliver  Your  descent
+the east  the south  the west  You have made  deliverance
+= Everyone said, “You have descended to deliver the people. You have delivered the east, the south and the west.
+
+@165
+only one  Vārāṇasī  was  from You  turned away
+it  having delivered  You made  of us  all  happiness
+= Vārāṇasī alone was turned away from You; by delivering it, You have made us all happy.”
+
+@166
+in Vārāṇasī  town  when  an uproar  arose
+hearing  villagers  country  people  to come  began
+= When the uproar arose in the town of Vārāṇasī, people from the villages and the countryside heard of it and began to come.
+
+@167
+lakhs  crores  of people  come  there is no  counting
+in the cramped  place  of the Lord  not  get  sight
+= People came in hundreds of thousands, in millions, beyond counting; in that cramped place they could not get a sight of the Lord.
+
+@168
+the Lord  when  to bathe  goes  to see Viśveśvara
+on two  sides  the people  make  of the Lord  beholding
+= Whenever the Lord went to bathe or to see Viśveśvara, people lined both sides of the way to behold Him.
+
+@169
+arms  raising  the Lord  says  —  say  ‘Kṛṣṇa’  ‘Hari’
+prostrated obeisances  offer  the people  the sound of ‘Hari’  making
+= Raising His arms, the Lord would say, “Say ‘Kṛṣṇa!’ Say ‘Hari!’” and the people fell down before Him, calling out the name of Hari.
+
+@170
+in this way  days  five  the people  delivering
+the next  day  departed  the Lord  uneasy  becoming
+= In this way the Lord delivered the people for five days; the next day He set out, His heart uneasy.
+
+@171
+at night  rising  the Lord  when  made  departure
+behind  following  took  then  devotees  five  persons
+= When the Lord rose at night and set off, five devotees followed close behind Him:
+
+@172
+Tapana Miśra  Raghunātha  the Mahārāṣṭrian  brāhmaṇa
+Candraśekhara  Paramānanda the kīrtana singer  —  five  persons
+= Tapana Miśra, Raghunātha, the brāhmaṇa from Mahārāṣṭra, Candraśekhara and Paramānanda the *kīrtana* singer — these were the five.
+
+@173
+all  wish  with the Lord  to Nīlācala  to go
+to all  leave  gave  the Lord  with care
+= All of them wished to go to Nīlācala with the Lord, but He took leave of them all with loving care:
+
+@174
+whose  wish  later  come  Me  to see
+now  I  alone  shall go  of Jhārikhaṇḍa  by the path
+= “Whoever wishes may come later to see Me; now I shall go alone by the path through Jhārikhaṇḍa.”
+
+@175
+to Sanātana  He said  —  you  go  to Vṛndāvana
+your  two  brothers  there  have made  their way
+= To Sanātana He said, “Go to Vṛndāvana. Your two brothers have already gone there.
+
+@176
+with a patched quilt and a water pot  My  penniless  devotees
+to Vṛndāvana  when they come  them  do  take care of
+= My penniless devotees, who own only a patched quilt and a water pot — when they come to Vṛndāvana, take care of them.”
+
+@177
+thus  saying  went  the Lord  all  embracing
+all  fell  there  unconscious  becoming
+= Saying this, the Lord embraced them all and departed, and they all fell to the ground unconscious.
+
+@178
+after a while  rising  all  in sorrow  home  came
+Sanātana Gosāñi  for Vṛndāvana  set out
+= After a while they got up and returned home in sorrow, and Sanātana Gosāñi set out for Vṛndāvana.
+
+@179
+meanwhile  Rūpa Gosāñi  when  to Mathurā  came
+at Dhruva-ghāṭa  him  Subuddhi Rāya  met
+= Meanwhile, when Rūpa Gosāñi came to Mathurā, Subuddhi Rāya met him at Dhruva-ghāṭa.
+
+@180
+formerly  when  Subuddhi Rāya  was  in Gauḍa  a governor
+Husain Khān  the Saiyad  did  his  service
+= Formerly, when Subuddhi Rāya was a governor (*adhikārī*) in Gauḍa, Saiyad Husain Khān was in his service.
+
+@181
+a large pond  to dig  him  munsif  made
+a fault  finding  Rāya  him  with a whip  struck
+= Rāya put him in charge (*munsīph*) of digging a large pond; finding a fault in his work, Rāya struck him with a whip.
+
+@182
+later  when  Husain Khān  in Gauḍa  king  became
+Subuddhi Rāya  he  greatly  advanced
+= Later, when Husain Khān became king of Gauḍa, he greatly advanced Subuddhi Rāya.
+
+@183
+his  wife  on his  body  sees  of the beating  the marks
+Subuddhi Rāya  to kill  says  to the king
+= His wife saw the marks of the whipping on his body and urged the king to have Subuddhi Rāya killed.
+
+@184
+the king  says  —  my  patron  Rāya  is  a father
+him  shall kill  I  —  good  is not  the word
+= The king said, “Rāya has been my patron; he is a father to me. That I should kill him — such talk is not right.”
+
+@185
+the wife  says  —  his caste  take  if  of life  not  you will deprive
+the king  says  —  caste  if taken  he  not  will live
+= His wife said, “If you will not take his life, then take his caste.” The king said, “If his caste is taken, he will not survive.”
+
+@186
+the wife  to die  wishes  the king  into a dilemma  fell
+from a karoyā  water  his  into the mouth  had put
+= His wife threatened to die, and the king was caught in a dilemma. At last he had water from a Muslim’s water pot (*karoyā*) put into Subuddhi Rāya’s mouth.
+
+@187
+then  Subuddhi Rāya  that  pretext  obtaining
+to Vārāṇasī  came  all  worldly affairs  giving up
+= Taking this as his pretext (*chadma*), Subuddhi Rāya gave up all his worldly affairs and came to Vārāṇasī.
+
+@188
+atonement  asked  he  of the paṇḍitas  the group
+they  say  —  boiling  ghee  drinking  give up  your life
+= He asked the *paṇḍitas* what atonement he should perform. They said, “Drink boiling ghee and give up your life.”
+
+@189
+someone  says  —  this  is not (so)  slight  the fault  is
+hearing  remained  Rāya  having  doubt
+= Another said, “Not so: the fault is slight.” Hearing this, Rāya was left in doubt.
+
+@190
+then  when  Mahāprabhu  to Vārāṇasī  came
+Him  meeting  Rāya  his own  story  told
+= Then, when Mahāprabhu came to Vārāṇasī, Rāya met Him and told Him his story.
+
+@191
+the Lord  says  —  from here  go  to Vṛndāvana
+constantly  do  saṅkīrtana of Kṛṣṇa’s name
+= The Lord said, “Go from here to Vṛndāvana and always chant the name of Kṛṣṇa in *saṅkīrtana*.
+
+@192
+by one  semblance of the Name (nāmābhāsa)  your  sins and faults  will go
+and  the Name  taking  Kṛṣṇa’s feet  you will attain
+= By the mere semblance of the Name (*nāmābhāsa*) your sins and faults will go; and by chanting the Name itself you will attain Kṛṣṇa’s feet.
+
+@193
+and  Kṛṣṇa’s name  taking  in Kṛṣṇa’s abode  residence
+of the greatest sins  is  this  the atonement
+= Chanting Kṛṣṇa’s name further, you will dwell in Kṛṣṇa’s abode. This is the atonement even for the greatest sins.”
+
+@194
+receiving  the order  Rāya  for Vṛndāvana  set out
+Prayāga  Ayodhyā  by way of  to Naimiṣāraṇya  came
+= Receiving this order, Rāya set out for Vṛndāvana and, by way of Prayāga and Ayodhyā, came to Naimiṣāraṇya.
+
+@195
+some  days  Rāya  in Naimiṣāraṇya  stayed
+the Lord  Vṛndāvana  from  to Prayāga  went
+= Rāya stayed some days in Naimiṣāraṇya; meanwhile the Lord went from Vṛndāvana to Prayāga.
+
+@196
+to Mathurā  coming  Rāya  of the Lord  news  received
+of the Lord  meeting  not  getting  in his mind  great  sorrow  arose
+= Coming to Mathurā, Rāya received news of the Lord; having missed meeting Him, he was deeply grieved.
+
+@197
+dry  wood  bringing  Rāya  sells  in Mathurā
+five  six  paisā  there are  for one  each  bundle
+= Rāya would gather dry wood and sell it in Mathurā, earning five or six *paisā* a bundle.
+
+@198
+himself  lives  of one  paisā  chickpeas  chewing
+the other  paisā  with a merchant  keeps  saving
+= He himself lived on one *paisā*’s worth of chickpeas and kept the rest of his money with a merchant.
+
+@199
+a poor  Vaiṣṇava  seeing  him  makes  eat
+Gauḍīyas  when they come  yogurt  rice  oil  massage
+= Whenever he saw a poor Vaiṣṇava, he fed him; and when Gauḍīyas came, he gave them yogurt and rice and had them massaged with oil.
+
+@200
+Rūpa Gosāñi  having come  to him  much  affection  showed
+with himself  taking  the twelve  forests  showed
+= When Rūpa Gosāñi came, Rāya showed him great affection, took him along and showed him the twelve forests.
+
+@201
+a month  only  Rūpa Gosāñi  stayed  in Vṛndāvana
+quickly  setting out  came  in search of Sanātana
+= Rūpa Gosāñi stayed in Vṛndāvana only a month; then he quickly set out in search of Sanātana.
+
+@202
+by the Gaṅgā  bank  path  the Lord  to Prayāga  came
+that  hearing  the two  brothers  by that  path  went
+= The Lord had come to Prayāga by the path along the bank of the Gaṅgā; hearing this, the two brothers went by that same path.
+
+@203
+meanwhile  Sanātana  Gosāñi  to Prayāga  coming
+to Mathurā  came  Sanātana  the royal road  by
+= Meanwhile Sanātana Gosāñi, having come to Prayāga, went on to Mathurā by the royal road.
+
+@204
+in Mathurā  Subuddhi Rāya  him  met
+of Rūpa and Anupama  the news  all  told
+= In Mathurā Subuddhi Rāya met him and told him all the news of Rūpa and Anupama.
+
+@205
+by the Gaṅgā path  the two  brothers  by the royal road  Sanātana
+therefore  with them  together  not  took place  meeting
+= The two brothers went by the Gaṅgā path and Sanātana by the royal road; that is why he did not meet them.
+
+@206
+Subuddhi Rāya  much  affection  shows  to Sanātana
+of worldly relations  affection  Sanātana  not  accepts
+= Subuddhi Rāya showed Sanātana great affection, but Sanātana would not accept an affection rooted in worldly relationships (*vyavahāra-sneha*).
+
+@207
+greatly  renounced  Sanātana  wanders  in forest  after forest
+under every tree  in every grove  stays  night and day
+= Supremely renounced, Sanātana wandered from forest to forest, staying night and day now under one tree, now in another grove.
+
+@208
+on the glory of Mathurā  of scriptures  collection  making
+lost  holy places  manifest  made  in the forests  wandering
+= He collected the scriptures on the glories of Mathurā and, wandering through the forests, brought the lost holy places to light.
+
+@209
+in this way  Sanātana  in Vṛndāvana  stayed
+Rūpa Gosāñi  the two  brothers  to Kāśī  came
+= Thus Sanātana stayed in Vṛndāvana, while the two brothers, Rūpa Gosāñi and Anupama, came to Kāśī.
+
+@210
+the Mahārāṣṭrian  brāhmaṇa  Śekhara  Tapana Miśra
+with three  persons  Rūpa  made  meeting
+= There Rūpa met the three — the brāhmaṇa from Mahārāṣṭra, Candraśekhara and Tapana Miśra.
+
+@211
+in Śekhara’s  house  lodging  in Miśra’s  house  meals
+from Miśra’s mouth  hears  to Sanātana  the Lord’s  teachings
+= He lodged in Candraśekhara’s house and took his meals in Miśra’s house, and from Miśra he heard the teachings the Lord had given Sanātana.
+
+@212
+in Kāśī  the Lord’s  deeds  hearing  of the three  from the mouths
+to the sannyāsīs  mercy  hearing  he felt  great  happiness
+= Hearing from the three about the Lord’s deeds in Kāśī, and of His mercy to the *sannyāsīs*, he was overjoyed.
+
+@213
+toward Mahāprabhu  of the people  reverence  seeing
+happy  became  from the people’s mouths  kīrtana  hearing
+= Seeing the people’s reverence for Mahāprabhu and hearing *kīrtana* from their lips, he rejoiced.
+
+@214
+days  ten  staying  Rūpa  to Gauḍa  journey  made
+of Sanātana and Rūpa  this  account  I have told
+= After staying ten days, Rūpa set out for Gauḍa. Thus I have told the story of Sanātana and Rūpa.
+
+@215
+meanwhile  Mahāprabhu  when  to Nīlādri  went
+on the solitary  forest path  great  happiness  He felt
+= Meanwhile, as Mahāprabhu went toward Nīlādri, He felt great joy on the solitary forest path.
+
+@216
+happily  walking  comes  the Lord  with Balabhadra
+as before  with the deer and others  together  made  various  sports
+= Happily the Lord journeyed on with Balabhadra and, as before, sported in many ways with the deer and other creatures.
+
+@217
+to Āṭhāranālā  coming  the Bhaṭṭācārya  brāhmaṇa
+sending  summoned  His own  devotees
+= Coming to Āṭhāranālā, He sent the brāhmaṇa Bhaṭṭācārya ahead to call His devotees.
+
+@218
+hearing  the devotees  as if  again  came to life
+in the body  life  when it comes  —  as  the senses  rise up
+= Hearing the news, the devotees seemed to come back to life — as the senses rise up when life returns to the body.
+
+@219
+with bliss  overwhelmed  the devotees  running  came
+to Narendra  coming  all  the Lord  met
+= Overwhelmed with bliss, the devotees came running; at Narendra lake they all met the Lord.
+
+@220
+of Purī and Bhāratī  the Lord  honoured  the feet
+both  Mahāprabhu  gave  loving  embraces
+= The Lord bowed at the feet of Purī and Bhāratī, and both of them embraced Mahāprabhu with love.
+
+@221
+Svarūpa Dāmodara  Paṇḍita  Gadādhara
+Jagadānanda  Kāśīśvara  Govinda  Vakreśvara
+= Svarūpa Dāmodara, Gadādhara Paṇḍita, Jagadānanda, Kāśīśvara, Govinda, Vakreśvara,
+
+@222
+Kāśī Miśra  Pradyumna  Miśra  Dāmodara Paṇḍita
+Haridāsa Ṭhākura  and  Śaṅkara Paṇḍita
+= Kāśī Miśra, Pradyumna Miśra, Dāmodara Paṇḍita, Haridāsa Ṭhākura and Śaṅkara Paṇḍita —
+
+@223
+and  all  devotees  of the Lord  at the feet  fell
+all  embracing  the Lord  overwhelmed with love  became
+= these and all the other devotees fell at the Lord’s feet, and the Lord, embracing them all, was overwhelmed with love.
+
+@224
+in the ocean of bliss  float  all  the devotees
+all  taking  goes  the Lord  for darśana of Jagannātha
+= All the devotees floated in an ocean of bliss. Taking them all with Him, the Lord went to see Jagannātha.
+
+@225
+Jagannātha  seeing  the Lord  overwhelmed with love  became
+with the devotees  for a long time  dancing and singing  did
+= Seeing Jagannātha, the Lord was overwhelmed with love, and for a long time He danced and sang with the devotees.
+
+@226
+Jagannātha’s  servants  bringing  garland and prasāda  gave
+Tulasī the paḍichā  coming  the feet  honoured
+= Jagannātha’s servants brought garlands and *prasāda* and gave them to Him, and Tulasī, the *paḍichā*, came and bowed at His feet.
+
+@227
+Mahāprabhu  has come  in the town  an uproar  arose
+Sārvabhauma  Rāmānanda  Vāṇīnātha  met (Him)
+= “Mahāprabhu has come!” — the town was in an uproar, and Sārvabhauma, Rāmānanda and Vāṇīnātha came to meet Him.
+
+@228
+all  with  taking  the Lord  to the residence at Miśra’s  came
+Sārvabhauma and the Paṇḍita  the Gosāñi  invitation  made
+= Taking everyone with Him, the Lord came to His residence at Kāśī Miśra’s house, and Sārvabhauma and Gadādhara Paṇḍita invited Him to a meal.
+
+@229
+the Lord  says  —  mahā-prasāda  bring  to this  place
+with all  here  today  I shall take  my meal
+= The Lord said, “Bring the *mahā-prasāda* here: today I shall eat here with everyone.”
+
+@230
+then  both  Jagannātha’s  prasāda  brought
+with all  Mahāprabhu  meal  took
+= Then the two of them brought Jagannātha’s *prasāda*, and Mahāprabhu ate with everyone.
+
+@231
+thus  I have told  —  the Lord  having seen  Vṛndāvana
+again  made  how  the journey to Nīlādri
+= Thus I have told how the Lord, after seeing Vṛndāvana, journeyed back to Nīlādri.
+
+@232
+this  whoever  faith  having  does  hearing
+soon  attains  he  Caitanya’s  feet
+= Whoever hears this with faith will soon attain the feet of Caitanya.
+
+@233
+of the Madhya-līlā  I have made  this  brief survey
+six  years  He made  how  goings and comings
+= Thus I have given a brief survey of the Madhya-līlā — how for six years the Lord travelled away and came back.
+
+@234
+the last  eighteen  years  in Nīlācala  residence
+with the devotees  enjoys  the pastimes of kīrtana
+= The last eighteen years He lived in Nīlācala, enjoying the pastimes of *kīrtana* with His devotees.
+
+@235
+of the Madhya-līlā  the sequence  now  I make  recapitulation
+recapitulation  when made  there is  of the narrative  the relish
+= Now I shall recapitulate the Madhya-līlā in order, for in recapitulation the narrative is relished anew.
+
+@236
+in the first  chapter  —  of the final pastimes  the synopsis
+within it  of some  parts  detailed  description
+= In the First Chapter: a synopsis of the final pastimes, with some parts described in detail.
+
+@237
+in the second  chapter  —  the Lord’s  description of the ecstatic utterances (pralāpa)
+within it  of various  bhāvas  a brief survey
+= In the Second Chapter: a description of the Lord’s ecstatic utterances (*pralāpa*), with a brief survey of various *bhāvas*.
+
+@238
+in the third  chapter  —  the Lord’s  I have told  sannyāsa
+in the Ācārya’s  house  how  He enjoyed  pastimes
+= In the Third Chapter I have told of the Lord’s *sannyāsa* and of His pastimes in the house of the Ācārya.
+
+@239
+in the fourth  of Mādhava Purī  the relishing of the life
+the installation of Gopāla  of the theft of the sweet rice  the description
+= In the Fourth: the relishing of Mādhava Purī’s life, the installation of Gopāla, and the story of the stolen sweet rice (*kṣīra*).
+
+@240
+in the fifth  —  of Sākṣi-gopāla  the story  the description
+Nityānanda  tells  the Lord  does  relishing
+= In the Fifth: the story of Sākṣi-gopāla, which Nityānanda told and the Lord relished.
+
+@241
+in the sixth  —  Sārvabhauma  He made  the deliverance
+in the seventh  —  the pilgrimage  the deliverance of Vāsudeva
+= In the Sixth: how the Lord delivered Sārvabhauma. In the Seventh: His pilgrimage and the deliverance of Vāsudeva.
+
+@242
+in the eighth  —  the conversation with Rāmānanda  in detail
+Himself  heard  of all  conclusions  the essence
+= In the Eighth: the conversation with Rāmānanda in detail, in which the Lord Himself heard “the essence of all conclusions.”
+
+@243
+in the ninth  —  I told  the tour of the southern holy places
+in the tenth  —  I told  the meeting with all the Vaiṣṇavas
+= In the Ninth I told of His tour of the holy places of the South; in the Tenth, of His meeting with all the Vaiṣṇavas.
+
+@244
+in the eleventh  —  at the Śrī Mandira  the beḍā-saṅkīrtana (around the temple)
+in the twelfth  —  of the Guṇḍicā temple  the cleaning  the washing
+= In the Eleventh: the *beḍā-saṅkīrtana* around the Śrī Mandira; in the Twelfth: the cleaning and washing of the Guṇḍicā temple.
+
+@245
+in the thirteenth  —  before the chariot  the Lord’s  dancing
+in the fourteenth  —  of the Herā-pañcamī festival  the witnessing
+= In the Thirteenth: the Lord’s dancing before the chariot; in the Fourteenth: His witnessing of the Herā-pañcamī festival.
+
+@246
+within it  of Vraja  of the goddesses  of the bhāvas  the hearing
+Svarūpa  told  the Lord  did  relishing
+= Within it is the hearing of the *bhāvas* of the divine maidens of Vraja: Svarūpa described them, and the Lord relished them.
+
+@247
+in the fifteenth  —  of the devotees  the virtues  Himself  told
+in Sārvabhauma’s house  a meal  Amogha  He delivered
+= In the Fifteenth: the Lord Himself spoke of His devotees’ virtues, took a meal at Sārvabhauma’s house and delivered Amogha.
+
+@248
+in the sixteenth  —  the journey to Vṛndāvana  by the road through Gauḍa
+again  to Nīlācala  came  Nāṭaśālā  from
+= In the Sixteenth: the journey toward Vṛndāvana by way of Gauḍa, and the return to Nīlācala from Nāṭaśālā.
+
+@249
+in the seventeenth  —  by the forest path  the journey to Mathurā
+in the eighteenth  —  in Vṛndāvana  the wandering in pastimes
+= In the Seventeenth: the journey to Mathurā by the forest path; in the Eighteenth: His wanderings in pastimes through Vṛndāvana.
+
+@250
+in the nineteenth  —  Mathurā  from  the journey to Prayāga
+within it  to Śrī Rūpa  the infusion of śakti
+= In the Nineteenth: the journey from Mathurā to Prayāga, and within it the infusion of *śakti* into Śrī Rūpa.
+
+@251
+in the twentieth  chapter  —  with Sanātana  the meeting
+within it  of Bhagavān  of the nature  the description
+= In the Twentieth Chapter: the meeting with Sanātana, and within it a description of the nature (*svarūpa*) of Bhagavān.
+
+@252
+in the twenty-first  —  of Kṛṣṇa’s majesty  and sweetness  the description
+in the twenty-second  —  of the twofold  sādhana-bhakti  the explanation
+= In the Twenty-first: a description of Kṛṣṇa’s majesty and sweetness; in the Twenty-second: an explanation of the two kinds of *sādhana-bhakti*.
+
+@253
+in the twenty-third  —  of loving devotion  of the rasas  the telling
+in the twenty-fourth  —  ‘ātmārāmāḥ’  of the verse’s meaning  the description
+= In the Twenty-third: an account of the *rasas* of *prema-bhakti*; in the Twenty-fourth: an explanation of the meanings of the *ātmārāma* verse.
+
+@254
+in the twenty-fifth  —  the residents of Kāśī  Vaiṣṇavas  making
+Kāśī  from  again  to Nīlācala  the coming
+= In the Twenty-fifth: how the residents of Kāśī were made Vaiṣṇavas, and the return from Kāśī to Nīlācala.
+
+@255
+of the twenty-five  chapters  this  I have made  recapitulation
+whose  by the hearing  there is  of the book’s meaning  the relish
+= Thus I have recapitulated the twenty-five chapters; by hearing this, one relishes the meaning of the book.
+
+@256
+in brief  I have told  this  essence of the Madhya-līlā
+in millions of books  to describe  not  possible  its  full extent
+= I have told the essence of the Madhya-līlā in brief; its full extent could not be described even in millions of books.
+
+@257
+the jīvas  to deliver  the Lord  wandered  from land  to land
+Himself  relishing  bhakti  made  manifest
+= To deliver the *jīvas*, the Lord wandered from land to land; relishing *bhakti* Himself, He revealed it to the world.
+
+@258
+the truth of Kṛṣṇa  the truth of bhakti  the truth of prema  and
+the truth of bhāva  the truth of rasa  of the truth of līlā  the essence
+= The truth of Kṛṣṇa, the truth of *bhakti*, the truth of *prema*, the truth of *bhāva*, the truth of *rasa*, and the essence of the truth of *līlā* —
+
+@259
+of the Śrī Bhāgavata  the truth  the rasa  He made  preaching
+equal to Kṛṣṇa  the Bhāgavata  He made known  to the world
+= these, and the truth and *rasa* of the *Śrī Bhāgavatam*, He preached; and He made known to the world that the *Bhāgavatam* is equal to Kṛṣṇa.
+
+@260
+the devotees  for the sake of  He expounded  with His own  mouth
+sometimes  through the devotees’ mouths  making them speak  heard  Himself
+= For the sake of His devotees He expounded these truths with His own lips; and sometimes He had His devotees speak them and listened Himself.
+
+@261
+to Śrī Caitanya  equal  another  merciful  magnanimous
+affectionate to devotees  not  I see  in the three worlds  other
+= In the three worlds I see no one else as merciful, as magnanimous and as affectionate to His devotees as Śrī Caitanya.
+
+@262
+faith  having  this  līlā  hear  O devotees
+of this  by the hearing  you will attain  Caitanya’s  feet
+= O devotees, hear these pastimes with faith: by hearing them you will attain the feet of Caitanya.
+
+@263
+of this  by the grace  you will attain  of the truth of Kṛṣṇa  the essence
+of all the scriptures  of the conclusions  here  you will reach  the far shore
+= By its grace you will attain the essence of the truth of Kṛṣṇa; here you will reach the far shore of the conclusions of all the scriptures.
+
+@264
+Kṛṣṇa’s  līlā  of nectar  the essence  its  hundreds  hundreds  streams
+in the ten directions  flow  which  from
+that  Caitanya’s  līlā  is  a lake  inexhaustible
+of the mind  the swan  let roam  in it
+= Kṛṣṇa’s *līlā* is the essence of nectar, and that from which its hundreds upon hundreds of streams flow in all ten directions is Caitanya’s *līlā* — an inexhaustible lake. Let the swan of your mind roam there.
+
+@265
+O devotees  hear  my  humble  words
+of you  all  the dust of the feet  on my body  ornament  making
+something  I  make  petition
+= O devotees, hear my humble words. Making the dust of your feet the ornament of my body, I make a petition to you.
+
+@266
+of devotion to Kṛṣṇa  the conclusions  in which (lake)  blossoming  of lotuses  the forest
+its  honey  making  relishing
+of prema  of rasa  in the forest of kumudas  blossoming  night and day
+there  let roam  of the mind  the bees
+= In that lake the conclusions of devotion to Kṛṣṇa are a forest of blossoming lotuses: relish their honey. And in the forest of *kumuda* lilies — the *rasa* of *prema* — which blooms night and day, let the bees of your mind roam.
+
+@267
+of various  bhāvas  the devotees  swans  cakravākas
+in which  all  make  sport
+of Kṛṣṇa’s  play  the lotus stems  which  finding  at all times
+the devotee  swans  make  their food
+= Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in that lake; Kṛṣṇa’s play is the lotus stems, and finding them at all times the devotee-swans feed on them.
+
+@268
+to that  lake  going  swans  cakravākas  becoming
+always  there  do  enjoy
+will be cut off  all  sorrows  you will attain  supreme  happiness
+without effort  there will be  the elation of prema
+= Go to that lake, become swans and *cakravākas*, and sport there for ever. All your sorrows will be cut away, you will attain the highest happiness, and the elation of *prema* will come without effort.
+
+@269
+this  nectar  constantly  the sādhus  great souls  clouds
+on the garden of the world  make  showering
+by that  grow  nectarean fruits  the devotees  eat  constantly
+by their  love  live  the people of the world
+= The *sādhus* and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees eat them constantly, and by their love the people of the world live.
+
+@270
+Caitanya’s līlā  —  a filling of nectar  Kṛṣṇa’s līlā  —  fine camphor
+the two  combining  become  exquisite sweetness
+of the sādhus and guru  by the grace  that  whoever  relishes
+he  knows  of sweetness  the abundance
+= Caitanya’s *līlā* is a filling of nectar (*amṛta-pūra*), and Kṛṣṇa’s *līlā* is fine camphor; combined, the two become an exquisite sweetness. Whoever relishes it by the grace of the *sādhus* and the guru knows the abundance of that sweetness.
+
+@271
+which  the nectar of līlā  without  eats  if  food and drink
+then  of the devotee  feeble  the life
+whose  of a single drop  by drinking  blossoming  in body and mind
+laughs  sings  does  dancing
+= If a devotee takes food and drink without the nectar of this *līlā*, his life grows feeble; but by drinking a single drop of it he blossoms in body and mind, and laughs, sings and dances.
+
+@272
+this  nectar  do  drinking  whose  equal  there is not  other
+in the heart  making  firm  faith
+not  fall  into the pit of false argument  into the impure  harsh  whirlpool
+into which  having fallen  there is  total ruin
+= Drink this nectar, which has no equal, with firm faith in your heart. Do not fall into the pit of false argument, into its impure and harsh whirlpool: whoever falls there meets total ruin.
+
+@273
+Śrī Caitanya  Nityānanda  Śrī Advaita  the devotees
+and  all  listening  devotees
+of you  all  the holy feet  I make  on my head  an ornament
+from which  of the cherished desire  fulfilment
+= Śrī Caitanya, Nityānanda, Śrī Advaita, the assembly of devotees, and all you devotees who listen — I make your holy feet the ornament of my head, for from them comes the fulfilment of every cherished desire.
+
+@274
+of Śrī Rūpa  Sanātana  Raghunātha  Jīva  the feet
+on my head  holding  —  in which  I place  my hope
+endowed with the nectar of Kṛṣṇa’s līlā  the Caitanya-caritāmṛta
+tells  a little  lowly  Kṛṣṇadāsa
+= Holding on my head the feet of Śrī Rūpa, Sanātana, Raghunātha and Jīva, in whom I place my hope, lowly Kṛṣṇadāsa tells a little of the *Caitanya-caritāmṛta*, which is filled with the nectar of Kṛṣṇa’s *līlā*.
+
+@275
+of Śrīman Madana-Gopāla
+and Govinda-deva  for the satisfaction
+offered to Caitanya  may be  this
+Caitanya-caritāmṛta
+= “For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.”
+
+@276
+that  this  most secret  the nectar of Gaura’s līlā  which
+indeed  by the mass of people  not honoured  by them  unattainable
+loss  this  here  what  to me  relished  since  on all sides
+by the large-hearted  the noble-minded  joy  their  expands
+= “This most secret nectar of Gaura’s *līlā* is indeed not honoured by the mass of people: to them it is unattainable. What loss is that to me? Relished on all sides by the large-hearted and noble-minded, it expands their joy.”

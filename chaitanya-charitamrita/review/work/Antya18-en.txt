@@ -1,0 +1,749 @@
+# English translation, Antya-līlā 18 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 revision).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya18.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
+# Two shifts: shift 1 — verses 1–60 (scan pp. 1049–1052); shift 2 — 61–121.
+# Verbatim from revised chapters: 2 (= Ādi 1.18), 121 (= Ādi 1.110); line 2 of 120 (= Antya 1.222, 6.328).
+
+## 0
+tr: The Fall into the Ocean
+
+## 1
+w: of the autumn  moonlit  ocean  by the sight  arisen  the Yamunā
+w: from the mistaking  running  who  into this  from Hari  separation’s  burning  ocean  as if
+w: plunged  unconscious  in the water  remaining  the night  whole
+w: at dawn  found  by His own  may protect  He  Śacī’s  son  here  us
+tr: Once, seeing the ocean in the light of the autumn moon, Śrī Śacīnandana took it for the Yamunā and ran towards it. He plunged into its waters as if into an ocean of the burning pain of separation from Hari, and lay there unconscious the whole night; at dawn His own devotees found Him. May that son of Śacī protect us here.
+fn: Heading in the edition: a prayer for the mercy of the Lord who, in separation from Kṛṣṇa, drifts on the ocean, having taken it for the Yamunā. *Anubhāṣya*: “His own” — His most intimate devotees.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: in this way  Mahāprabhu  in Nīlācala  stays
+w: night  and day  of Kṛṣṇa  separation  in the ocean  floats
+tr: In this way Mahāprabhu lived in Nīlācala, floating night and day in the ocean of separation from Kṛṣṇa.
+
+## 4
+w: autumn  season’s  night  all  with moonlight  bright
+w: the Lord  His own  companions  taking  wanders  night  whole
+tr: It was an autumn night, bright everywhere with moonlight, and the Lord spent the whole night roaming with His companions.
+fn: Heading in the edition: the moonlit autumn night awakens (*uddīpana*) the feelings of the *rāsa-līlā*.
+
+## 5
+w: in garden  after garden  wanders  wonders  to see
+w: of the rāsa  pastime  songs  verses  reciting  hearing
+tr: He wandered from garden to garden, delighting in their wonders, reciting and hearing songs and verses about the rāsa dance.
+
+## 6
+w: the Lord  absorbed in love  does  singing  dancing
+w: sometimes  absorbed in love  of the rāsa  pastime  imitation
+tr: Absorbed in love, the Lord sang and danced, and at times, in that same rapture, He enacted the *rāsa-līlā*.
+
+## 7
+w: sometimes  in the madness of feeling  the Lord  here and there  runs
+w: on the ground  falling  sometimes  swoons  sometimes  rolling  goes
+tr: Sometimes, in the madness of ecstatic feeling, the Lord ran here and there; sometimes He fell to the ground and swooned, and sometimes He rolled about.
+
+## 8
+w: of the rāsa  pastime  one  verse  when  recites  hears
+w: as before  then  the meaning  gives  Himself
+tr: Whenever He recited or heard a verse about the *rāsa-līlā*, He Himself would explain its meaning, as before.
+
+## 9
+w: in this way  in the rāsa-līlā  are  as many  verses
+w: of all  the meaning  gives  feels  sometimes  joy  sorrow
+tr: In this way He explained the meaning of every verse about the *rāsa-līlā*, feeling now joy, now sorrow.
+fn: *Anubhāṣya*: joy in the pastimes of union (*sambhoga*) of Kṛṣṇa, sorrow in the pastimes of separation (*vipralambha*) of the gopīs.
+
+## 10
+w: of those  all  verses  the meaning  those  all  transformations
+w: those  all  to describe  the book  becomes  very  long
+tr: To describe the meaning of all those verses and all those ecstatic transformations would make the book far too long.
+
+## 11
+w: in twelve  years  whatever  pastimes  moment  by moment
+w: of excessive  length  for fear  in the book  not  did I  write
+tr: For fear of excessive length, I have not written down all the pastimes that took place moment by moment during those twelve years.
+
+## 12
+w: before  as  I have shown  the direction  indicating
+w: so  know  of the transformations  of the ravings  the description
+tr: As before, I have only pointed the way; understand this description of His ecstatic transformations and ravings in the same way.
+
+## 13
+w: with a thousand  mouths  if  speaks  Ananta
+w: of one  day’s  pastimes  still  not  finds  the end
+tr: Even if Ananta were to describe them with His thousand mouths, He could not reach the end of the pastimes of a single day.
+
+## 14
+w: ten million  ages  for  if  were to write  Gaṇeśa
+w: of one  day’s  pastimes  still  not  finds  the end
+tr: Even if Gaṇeśa were to write for ten million ages, he could not come to the end of the pastimes of a single day.
+
+## 15
+w: of the devotee  love’s  transformations  seeing  Kṛṣṇa’s  wonder
+w: Kṛṣṇa  whose  not  finds  end  who  insignificant  else
+tr: Seeing the transformations of love in His devotee, even Kṛṣṇa is struck with wonder! If Kṛṣṇa Himself cannot find their end, what hope is there for any lesser being?
+
+## 16–17
+w: of the devotee’s  love  which  states  which  courses  kinds
+w: as much  sorrow  as much  happiness  as many  transformations
+w: Kṛṣṇa  that  fully  not  can  know
+w: a devotee’s  mood  accepts  that  to taste
+tr: Kṛṣṇa cannot fully know all the states of His devotee’s love, its courses and its kinds, all its sorrow, all its happiness and all its transformations. So, to taste them, He accepts the mood of a devotee.
+fn: Heading in the edition: to understand the love of the gopīs and to know the measure of its taste, Kṛṣṇa accepts the feeling of a gopī.
+
+## 18
+w: Kṛṣṇa  makes dance  love  the devotee  makes dance
+w: itself  dances  the three  dance  in one place
+tr: Love makes Kṛṣṇa dance and makes the devotee dance, and it dances itself: all three dance together in one place.
+
+## 19
+w: of love  the transformations  to describe  wants  whoever  person
+w: the moon  to catch  wants  as if  being  a dwarf
+tr: Whoever wants to describe the transformations of love is like a dwarf who wants to catch the moon.
+
+## 20
+w: the wind  as  of the ocean’s  water  carries off  one  drop
+w: of Kṛṣṇa  love  a drop  so  of the living being  the touch
+tr: As the wind carries off a single drop of the ocean’s water, so a living being can touch only a drop of love for Kṛṣṇa.
+
+## 21
+w: moment  by moment  rise  of love  waves  endless
+w: a living being  insignificant  how  their  will find  end
+tr: Moment by moment endless waves of love rise up. How could an insignificant living being ever find their end?
+
+## 22
+w: Śrī  Kṛṣṇa  Caitanya  what  does  tasting
+w: only  alone  know  that  Svarūpa  and the others  the circle
+tr: Only Svarūpa and the others of His inner circle know what Śrī Kṛṣṇa Caitanya tasted.
+fn: Heading in the edition: only Svarūpa, Rāma Rāya and the others — the host of Kṛṣṇa’s potencies — can enter into the feelings of the Lord.
+
+## 23
+w: a living being  being  makes  whoever  of it  description
+w: himself  to purify  of it  touches  one  drop
+tr: When a mere living being describes it, he touches but a single drop of it, to purify himself.
+
+## 24
+w: in this way  of the rāsa  verses  all  recited
+w: at the end  of the water  pastimes  a verse  to recite  began
+tr: In this way the Lord recited all the verses about the rāsa dance, and at the end He began to recite a verse about the water pastimes:
+
+## 25
+w: with them  accompanied  fatigue  to remove  of bodies  by the contact
+w: crushed  garland’s  He  from the breasts  with kuṅkuma  reddened
+w: by bees like the lords of the Gandharvas  followed  entered  the water
+w: weary  with she-elephants  the king of elephants  like  having broken the dikes
+tr: “Weary, Kṛṣṇa entered the water with the gopīs to relieve His fatigue, as a king of elephants who has broken through the dikes enters the water with his she-elephants; for He too had passed beyond the bounds of worldly convention. His garland, crushed by the contact of their bodies, was reddened with *kuṅkuma* from the gopīs’ breasts, and bees followed Him, singing like the lords of the Gandharvas.” (Śrīmad-Bhāgavatam, 10.33.22)
+fn: *Anubhāṣya*: “having broken the dikes” (*bhinna-setuḥ*) is said both of the king of elephants and of Kṛṣṇa — Bhagavān Himself, who passes beyond the bounds of worldly convention; the bees sing like the lords of the Gandharvas (*gandharva-pāḥ*).
+
+## 26
+w: in this way  Mahāprabhu  wandering  wandering
+w: Āiṭoṭā  from  the ocean  sees  suddenly
+tr: Wandering about in this way, Mahāprabhu suddenly saw the ocean from Āiṭoṭā.
+
+## 27
+w: in the moon’s  radiance  surging  waves  bright
+w: glittering  make  as if  the Yamunā’s  water
+tr: The surging waves, bright in the moonlight, glittered like the waters of the Yamunā.
+
+## 28
+w: for the Yamunā  mistaking  the Lord  running  went
+w: unnoticed  going  into the ocean’s  water  a leap  gave
+tr: Taking it for the Yamunā, the Lord ran towards it and, unnoticed by anyone, leapt into the ocean.
+
+## 29
+w: on falling  there was  a swoon  nothing  not  knows
+w: sometimes  sink  sometimes  float  of waves  the host
+tr: As soon as He fell in, He swooned and knew nothing. The waves now sank Him beneath the water, now raised Him to the surface.
+
+## 30
+w: by the waves  carried  drifts  like  a dry  log
+w: who  to understand  can  this  Caitanya’s  drama
+tr: Carried by the waves, He drifted about like a dry log. Who can understand this wondrous dance of Caitanya?
+
+## 31
+w: of Koṇārka  towards  the Lord  the waves  taking  go
+w: sometimes  sinking  keep  sometimes  floating  taking  go
+tr: The waves carried the Lord towards Koṇārka, sometimes keeping Him under the water, sometimes bearing Him along on the surface.
+fn: *Anubhāṣya*: Koṇārka stands on the seashore, nineteen miles north of Purī, where a temple of the Sun was built of black stone, a masterpiece of architecture. *Amṛta-pravāha-bhāṣya*: Koṇārka is Arka-tīrtha.
+
+## 32
+w: in the Yamunā  water  pastimes  the gopīs  with
+w: Kṛṣṇa  performs  Mahāprabhu  absorbed  in that  play
+tr: Kṛṣṇa was enjoying water pastimes with the gopīs in the Yamunā, and Mahāprabhu was absorbed in that play.
+fn: Heading in the edition: the *udghūrṇā* of the Lord, absorbed in feeling and thinking Himself a maidservant of the gopīs. The *Anubhāṣya* refers to verses 80–82.
+
+## 33
+w: here  Svarūpa  and the others  the Lord  not  seeing
+w: where  has gone  the Lord  say  startled  being
+tr: Meanwhile Svarūpa and the others, not seeing the Lord, cried out in alarm, “Where has the Lord gone?”
+
+## 34
+w: with the speed of the mind  went  the Lord  to see  could not
+w: the Lord  not  seeing  doubts  to make  began
+tr: The Lord had gone with the speed of the mind, and no one saw Him go. With Him nowhere to be seen, they began to wonder:
+
+## 35
+w: Jagannātha  to see  or  to a temple  went
+w: in another  garden  or  in madness  fell
+tr: “Has He gone to see Jagannātha, or to some other temple? Into another garden? Or has He fallen down somewhere in His madness?
+
+## 36
+w: to the Guṇḍicā  temple  went  or  to Narendra
+w: to Caṭaka  hill  went  or  to Koṇārka
+tr: Has He gone to the Guṇḍicā temple, or to Narendra Lake? To the Caṭaka hill, or to Koṇārka?”
+
+## 37
+w: this  saying  all  wander  the Lord  looking for
+w: of the ocean  to the shore  came  some  people  taking
+tr: Saying this, they all went about looking for the Lord, and then came to the seashore, taking a few others with them.
+
+## 38
+w: searching  wandering  thus  of the night  the end  came
+w: departure  has made  the Lord  conclusion  made
+tr: In this search the night came to an end, and they concluded, “The Lord has departed.”
+fn: Heading in the edition: not finding the Lord, they conclude that He has departed (*antarddhāna*).
+
+## 39
+w: the Lord’s  in separation  whose  in the body  not  life
+w: of harm  fear  except  whose  in the mind  not  other
+tr: In separation from the Lord they all felt as if life had left their bodies, and no one could think of anything but the fear that some harm had come to Him.
+
+## 40
+w: harm  fearing  of loved ones  hearts  are  indeed
+tr: “The hearts of those who love always fear some harm.” (Abhijñāna-śakuntala, Act 4)
+fn: Heading in the edition: when the beloved is not seen, the loving heart fears harm; these are the words of Priyaṁvadā to Śakuntalā.
+
+## 41
+w: of the ocean  to the shore  coming  counsel  took
+w: Cirāyu  hill  towards  some people  went
+tr: Coming to the seashore, they took counsel together, and some of them went towards the Cirāyu hill.
+fn: *Anubhāṣya*: the Cirāyu hill is the Caṭaka hill (36).
+
+## 42
+w: eastern  direction  goes  Svarūpa  taking  some  people
+w: of the ocean  on the shore  in the water  makes  the Lord’s  search
+tr: Svarūpa went east with a few others, searching for the Lord along the shore and in the waters of the sea.
+
+## 43
+w: with grief  overwhelmed  all  not  consciousness
+w: yet  in love  wander  making  the Lord’s  search
+tr: They were all overwhelmed with grief and hardly conscious, yet, moved by love, they kept on searching for Him.
+
+## 44
+w: they see  a  fisherman  comes  on his shoulder  net  carrying
+w: laughs  weeps  dances  sings  says  Hari  Hari
+tr: Then they saw a fisherman coming along with his net on his shoulder. He was laughing, weeping, dancing and singing, and saying, “Hari! Hari!”
+
+## 45
+w: the fisherman’s  behaviour  seeing  of all  wonder
+w: Svarūpa  Gosāñi  him  asks  news
+tr: Everyone was astonished to see how the fisherman was behaving, and Svarūpa Gosāñi asked him what had happened:
+
+## 46
+w: tell  fisherman  this  way  did you see  one person
+w: your  this  state  why  tell  please  the reason
+tr: “Tell us, fisherman, have you seen someone around here? And why are you in such a state? Tell us the reason.”
+
+## 47
+w: the fisherman  says  here  a single  man  not  I saw
+w: the net  while drawing  a  dead body  my  into the net  came
+tr: The fisherman said, “I have not seen a single person here. But as I was drawing in my net, a dead body came into it.
+
+## 48
+w: a big  fish  thinking  I  hauled up  with effort
+w: the corpse  on seeing  my  fear  came  in the mind
+tr: Thinking it was a big fish, I hauled it up with great effort, but when I saw the corpse my heart was filled with fear.
+
+## 49
+w: the net  while freeing  his  body  touch  there was
+w: at the mere touch  that  spirit  into my heart  entered
+tr: As I was freeing the net, I touched his body, and at that very touch the spirit entered my heart.
+fn: Heading in the edition (from 46): the fisherman, “possessed by a spirit”, tells of the Lord and His state. *Amṛta-pravāha-bhāṣya*: at the touch of the Lord the fisherman was seized by divine love (*premāveśa*), but he took it for a spirit that had entered him.
+
+## 50
+w: from fear  trembling  came  my  from the eyes  flows  water
+w: choked  voice  hairs  stood up  all
+tr: I began to tremble with fear, tears flowed from my eyes, my voice choked, and all my hair stood on end.
+
+## 51
+w: whether  a brahma-daitya  or  a spirit  to say  not  possible
+w: at the mere sight  a man’s  enters  it  body
+tr: Whether it is a *brahma-daitya* or a spirit, I cannot say, but the moment anyone sees it, it enters his body.
+
+## 52
+w: the body  long  his  cubits  five or seven
+w: each  arm  leg  his  three  three  cubits
+tr: His body is long — five or seven cubits — and each of his arms and legs is three cubits long.
+
+## 53
+w: of the bones  joints  coming loose  the skin  makes  hangs slack
+w: that  seeing  life  whose  not  stays  in the body
+tr: The joints of his bones have come loose, and his skin hangs slack. Who could see that and not have the life frightened out of him?
+
+## 54
+w: a corpse’s  form  taking  stays  upturned  eyes
+w: sometimes  goṅ goṅ  makes  sometimes  I see  unconscious
+tr: He lies there like a corpse, his eyes turned upward. Sometimes he makes a sound — “goṅ, goṅ” — and sometimes I see him lying unconscious.
+
+## 55
+w: with my own eyes  I have seen  me  has seized  that  spirit
+w: I  if I die  my  how  will live  wife  children
+tr: I have seen him with my own eyes, and that spirit has seized me. If I die, how will my wife and children live?
+
+## 56
+w: of that  indeed  spirit  the story  telling  not  possible
+w: to the exorcist  I am going  if  he  the spirit  drives out
+tr: That spirit is beyond describing. I am going to an exorcist — perhaps he can drive the spirit out.
+
+## 57
+w: alone  at night  wandering  fish  I catch  in lonely places
+w: spirits  ghosts  to me  not  attach  Nṛsiṁha  by remembering
+tr: I wander alone at night, catching fish in lonely places, yet spirits and ghosts do not touch me, because I remember Nṛsiṁha.
+
+## 58
+w: this  spirit  at Nṛsiṁha’s  name  presses  twice as hard
+w: his  form  seeing  fear  strikes  the mind
+tr: But at the name of Nṛsiṁha this spirit presses on me twice as hard. The mere sight of his form fills my mind with fear.
+
+## 59
+w: there  not  go  I  forbid  you
+w: there  if you go  that  spirit  will seize  all
+tr: Do not go there — I forbid you! If you go there, that spirit will seize you all.”
+
+## 60
+w: this  hearing  Svarūpa  Gosāñi  the whole  truth  knowing
+w: to the fisherman  some  speaks  very sweet  words
+tr: Hearing this, Svarūpa Gosāñi understood the whole truth and spoke to the fisherman in sweet words:
+
+## 61
+w: I  a great  exorcist  I know how  spirits  to drive out
+w: a mantra  reciting  holy  hand  placed  his  on the head
+tr: “I am a great exorcist; I know how to drive out spirits.” Reciting a mantra, he placed his holy hand on the fisherman’s head.
+fn: Heading in the edition: Svarūpa reassures the fisherman and frees him from fear. *Amṛta-pravāha-bhāṣya*: with a clap of Kṛṣṇa’s name Svarūpa drove the “spirit” — that is, his fear — out of the fisherman.
+
+## 62
+w: three  slaps  giving  says  the spirit  has fled
+w: fear  not  have  saying  calm  made
+tr: Then he slapped the fisherman three times and calmed him, saying, “The spirit has fled. Do not be afraid!”
+
+## 63
+w: on one side  love  on the other  fear  doubly  restless
+w: of fear  the part  went  he  became  somewhat  calm
+tr: Love on the one hand and fear on the other had made him doubly restless. Now that the fear was gone, he recovered himself a little.
+
+## 64
+w: Svarūpa  says  whom  you  make  a spirit  the notion
+w: a spirit  is not  He  Kṛṣṇa  Caitanya  the Supreme Lord
+tr: Svarūpa said, “The one you take for a spirit is no spirit at all. He is Kṛṣṇa Caitanya, the Supreme Lord.
+
+## 65
+w: absorbed in love  fell  He  of the ocean  into the water
+w: Him  you  hauled up  in your own  net
+tr: Absorbed in love, He fell into the sea, and you hauled Him up in your net.
+
+## 66
+w: His  by the touch  arose  your  for Kṛṣṇa  love’s awakening
+w: a spirit  ghost  thinking  your  arose  great  fear
+tr: By His touch love for Kṛṣṇa awoke in you, but because you thought He was a spirit or a ghost, you were seized by great fear.
+
+## 67
+w: now  the fear  has gone  your  mind  has become  calm
+w: where  Him  you have hauled up  show  me
+tr: Now the fear has gone, and your mind is calm. Show me where you hauled Him up.”
+
+## 68
+w: the fisherman  says  the Lord  I have seen  again and again
+w: He  is not  this  very  distorted  form
+tr: The fisherman said, “I have seen the Lord many times. That is not Him — this one has a terribly distorted form.”
+
+## 69
+w: Svarūpa  says  in Him  occur  of love  transformations
+w: of the bones  joints  come apart  becomes  very  long in form
+tr: Svarūpa said, “These are transformations of love in Him: the joints of His bones come apart, and His body grows very long.”
+
+## 70
+w: hearing  that  fisherman  delighted  became
+w: all  taking  went  Mahāprabhu  showed
+tr: Hearing this, the fisherman was delighted. He took them all along and showed them Mahāprabhu.
+
+## 71
+w: on the ground  fallen  He lies  long  whole  body
+w: from the water  white  body  sand  has stuck  to the body
+tr: He was lying on the ground, His whole body elongated, white from the water and covered with sand.
+
+## 72
+w: very long  slack  of the body  the skin  hangs loose
+w: a long  way  lifting  to bring  not  possible
+tr: His body was very long and slack, and its skin hung loose. It was impossible to lift Him and carry Him so far.
+
+## 73
+w: the wet  loincloth  removing  a dry  putting on
+w: on the outer cloth  laid  the sand  brushing off
+tr: They removed His wet loincloth and dressed Him in a dry one, brushed off the sand and laid Him on His outer cloth.
+fn: Heading in the edition: efforts and service to bring the Lord back to consciousness.
+
+## 74
+w: all  together  loudly  doing  perform  saṅkīrtana
+w: loudly  doing  Kṛṣṇa’s  name  say  of the Lord  into the ear
+tr: Then all of them together began loud saṅkīrtana, chanting the name of Kṛṣṇa loudly into the Lord’s ear.
+
+## 75
+w: after some time  the Lord’s  ear  the sound  touched
+w: a loud cry  making  the Lord  at once  rose
+tr: After some time the sound reached His ears, and with a mighty cry He at once rose up.
+
+## 76
+w: on rising  bones  all  fitted  in their own places
+w: in half-external consciousness  here and there  makes  looking
+tr: As soon as He stood up, all His bones returned to their places, and in half-external consciousness He looked all around.
+
+## 77
+w: in three states  Mahāprabhu  remains  all the time
+w: the internal state  the external state  half-external  and
+tr: Mahāprabhu was always in one of three states: the internal state, the external state, and the half-external.
+
+## 78
+w: of the internal state  some  absorption  some  external  awareness
+w: that  state  call  the devotees  half-external  by name
+tr: When something of the absorption of the internal state remains along with some external awareness, the devotees call that state “half-external.”
+fn: Heading in the edition: the half-external consciousness of the Lord, who regards Himself as a maidservant of the gopīs (*citra-jalpa*).
+
+## 79
+w: in the half-external  speaks  the Lord  in words of raving
+w: to the sky  speaks  the Lord  listen  the devotees
+tr: In the half-external state the Lord spoke in ravings, as if to the sky, and the devotees listened:
+
+## 80
+w: the Kālindī  seeing  I  went  to Vṛndāvana
+w: I see  water  play  does  of the king of Vraja  the son
+tr: “Seeing the Kālindī, I went to Vṛndāvana, and I see the son of the king of Vraja playing in the water.
+
+## 81
+w: Rādhikā  and the other  gopīs  with  together  gathering
+w: of the Yamunā  in the water  with great  delight  does  play
+tr: Together with Rādhikā and the other gopīs He is enjoying His pastimes in the waters of the Yamunā with great delight.
+
+## 82
+w: on the bank  staying  watch  I  the sakhīs  with
+w: one sakhī  to the sakhīs  shows  that  play
+tr: Standing on the bank with the sakhīs, I watch, and one sakhī points out that play to the others.
+fn: *Anubhāṣya*: the sakhīs are “I and others like Me” — young maidservants (*mañjarīs*), each wholly devoted to the joy of serving her own group leader (*yūtheśvarī*); this rules out *ahaṅgrahopāsanā*, the practitioner’s worship of himself as God.
+
+## 83
+w: silk  garments  ornaments
+w: handing over  into the sakhīs’ hands
+w: fine  white  cloth  wearing
+w: Kṛṣṇa  taking  His beloveds
+w: made  plunging into the water
+w: water  pastimes  arranged  beautifully
+tr: Handing their silk garments and ornaments to the sakhīs and dressed in fine white cloth, Kṛṣṇa and His beloveds went down into the water, and He began delightful water pastimes.
+fn: Heading in the edition: regarding Himself as a maidservant of the gopīs, the Lord describes Kṛṣṇa’s water pastimes with Śrī Rādhā and the other gopīs (*citra-jalpa*).
+
+## 84
+w: O  friend  see  Kṛṣṇa’s  water  pastimes’  play
+w: Kṛṣṇa  maddened  best of elephants
+w: restless  hand  lotus
+w: the gopīs  making  His own  companions
+tr: O sakhī, see the play of Kṛṣṇa’s water pastimes! Like a maddened lord of elephants, His lotus hands never still, Kṛṣṇa has taken the gopīs with Him.
+fn: The line “O sakhī, see…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: *kara-puṣkara* — lotus hands; according to another opinion, the tip of the trunk.
+
+## 85
+w: began  water  play
+w: at one another  water  throwing back and forth
+w: tumult  rain  water  streams
+w: for all  victory  defeat
+w: not  any  certainty
+w: water  battle  grew  boundless
+tr: The water play began. They splashed one another; there was a tumult, and water rained down in streams. No one could tell who was winning and who was losing, and the battle in the water raged beyond all bounds.
+
+## 86
+w: rain  steady  lightning flashes
+w: sprinkles  dark  new cloud
+w: the cloud  rains  the lightning  upon
+w: of the sakhīs  the eyes
+w: thirsty  cātakī birds
+w: that  nectar  with joy  drink
+tr: The steady flashes of lightning rained water on the dark new cloud, and the cloud rained upon the lightning. The eyes of the sakhīs, like thirsty *cātakī* birds, drank that nectar with joy.
+fn: *Amṛta-pravāha-bhāṣya*: the gopīs, like steady flashes of lightning, showered water on Kṛṣṇa, dark as a new cloud, and the cloud — Kṛṣṇa — showered water back upon the lightning.
+
+## 87
+w: first  battle  water against water
+w: then  battle  hand against hand
+w: after that  battle  face to face
+w: then  battle  heart to heart
+w: then  there was  word against word
+w: then  there was  battle  nail against nail
+tr: First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and last of all a battle of nails.
+fn: The *Anubhāṣya* gives a variant reading: *radā-radi* (“tooth against tooth”) for *hṛdā-hṛdi* (“chest to chest”).
+
+## 88
+w: with a thousand  hands  water  sprinkles
+w: with a thousand  eyes  the gopīs  sees
+w: with a thousand  feet  near  in going
+w: with a thousand  mouths  in kissing
+w: with a thousand  bodies  in embracing
+w: the gopīs’  jests  hears  with a thousand  ears
+tr: With a thousand hands He sprinkled water, with a thousand eyes He looked at the gopīs, with a thousand feet He drew near them, with a thousand mouths He kissed them, with a thousand bodies He embraced them, and with a thousand ears He heard the gopīs’ playful jests.
+
+## 89
+w: Kṛṣṇa  Rādhā  taking  by force
+w: went  neck-deep  into the water
+w: left  there  where  fathomless  water
+w: She  Kṛṣṇa’s  neck  holding
+w: floats  the water  upon
+w: uprooted by an elephant  like  a lotus plant
+tr: Kṛṣṇa drew Rādhā by force into neck-deep water and let Her go where it was fathomless. Clasping Kṛṣṇa’s neck, She floated on the water like a lotus plant uprooted by an elephant.
+
+## 90
+w: as many  cowherd  beauties
+w: Kṛṣṇa  so many  forms  taking
+w: of all  the garments  made  taking away
+w: the Yamunā’s  water  clear
+w: limbs  make  shimmering
+w: with joy  Kṛṣṇa  makes  beholding
+tr: Assuming as many forms as there were beautiful cowherd girls, Kṛṣṇa took away all their garments. Their bodies shimmered in the clear water of the Yamunā, and He gazed on them with joy.
+
+## 91
+w: lotus  creepers  sakhīs  host
+w: gave  to some  help
+w: her  into the hand  a leaf  offered
+w: some  loosened  locks of hair
+w: in front  made  lower garment
+w: of the hands  some  a bodice  held
+tr: The lotus creepers, like a host of sakhīs, came to the help of some of them, placing leaves in their hands. Some let down their hair, which covered them in front like a lower garment, and for others their own hands became a bodice.
+fn: *Amṛta-pravāha-bhāṣya*: a lotus leaf served them like a hand to cover the body; some let down their hair and imagined it a lower garment, and others made a bodice of their hands. The *Anubhāṣya* gives a variant reading: “made a bodice in a svastika” — apparently, with arms crossed over the breast.
+
+## 92
+w: Kṛṣṇa’s  quarrel  with Rādhā
+w: the gopīs  that very moment
+w: golden lotuses  into the grove  went  to hide
+w: up to the neck  bodies  into the water  enter
+w: faces  only  on the water  float
+w: lotuses  faces  not  can  distinguish
+tr: When Kṛṣṇa began a quarrel with Rādhā, the gopīs at once went to hide among the golden lotuses. They sank into the water up to their necks, so that only their faces showed, and I could not tell those faces from the lotuses.
+
+## 93
+w: here  Kṛṣṇa  with Rādhā
+w: did  what  was  in the mind
+w: the gopīs  to search for  went
+w: then  Rādhā  subtle-minded
+w: knowing  the sakhīs’  whereabouts
+w: the sakhīs  among  coming  joined
+tr: Meanwhile Kṛṣṇa, alone with Rādhā, did as He had wished and then went to look for the gopīs. Then perceptive Rādhā, knowing where Her sakhīs were hiding, came and mingled among them.
+
+## 94
+w: as many  golden lotuses  in the water  float
+w: so many  blue lotuses  them  beside
+w: coming  coming  make  meeting
+w: blue lotuses  golden lotuses  strike against
+w: battle  occurs  each
+w: with amusement  watch  from the bank  the sakhīs
+tr: As many golden lotuses as floated on the water, so many blue lotuses came up beside them, and every blue lotus that met a golden one did battle with it; the sakhīs watched from the bank with delight.
+fn: *Amṛta-pravāha-bhāṣya*: the golden lotuses are the gopīs, and the blue lotuses Kṛṣṇa; the sakhīs, devoted to service, watched their play from the bank.
+
+## 95
+w: cakravāka birds’  flock
+w: separate  separate  in pairs
+w: the water  from  made  rising
+w: rose  of lotuses  a cluster
+w: separate  separate  in pairs
+w: the cakravākas  made  covering
+tr: A flock of *cakravāka* birds rose from the water, pair by pair. Then a cluster of lotuses rose, pair by pair, and covered the *cakravākas*.
+fn: *Amṛta-pravāha-bhāṣya* (on 95–98): the *cakravākas* are the breasts of the gopīs, the blue lotuses are Kṛṣṇa’s hands, and the red water lilies are the gopīs’ hands, which protect the *cakravākas*. Ordinarily the *cakravāka* bird feeds on the lotus, but in this play of Kṛṣṇa the insentient lotus tastes the sentient *cakravāka*: their natures are reversed.
+
+## 96
+w: rose  many  red water lilies
+w: separate  separate  in pairs
+w: of the lotuses  made  warding off
+w: the lotus  wants  plundering  to take
+w: the water lily  wants  to protect
+w: the cakravākas  for the sake of  of the two  battle
+tr: Next many red water lilies (*utpala*) rose, pair by pair, and warded off the lotuses. The lotuses wanted to carry off the *cakravākas* as plunder, and the water lilies wanted to protect them; so for the sake of the *cakravākas* the two fought.
+
+## 97
+w: lotuses  water lilies  insentient
+w: cakravākas  sentient
+w: the cakravākas  the lotuses  taste
+w: here  of the two  reversed  position
+w: nature  became  opposite
+w: Kṛṣṇa’s  in the kingdom  such  rule  is
+tr: Lotuses and water lilies are insentient, while *cakravākas* are sentient; yet here the lotuses taste the *cakravākas*. The positions of the two are reversed, and their natures have turned into their opposites: such is the rule in Kṛṣṇa’s kingdom.
+
+## 98
+w: of the friend (the sun)  the friend  the neighbour
+w: the cakravākas  plunders  coming
+w: Kṛṣṇa’s  in the kingdom  such  conduct
+w: unacquainted  of the enemy  the friend
+w: protects  the water lily  this  great  wonder
+w: this  great  contradiction  ornament
+tr: The lotus comes and plunders the *cakravāka*, its neighbour and the friend of its own friend, the sun — such is the way in Kṛṣṇa’s kingdom. And the water lily protects the friend of its enemy, the sun, though it does not even know him — a great wonder! This is the great ornament called “contradiction” (*virodha*).
+fn: *Anubhāṣya*: the sun is the lotus’s friend, for at sunrise the lotus opens and the *cakravākas* are reunited; but at sunrise the *utpala* closes, so the sun is its enemy, and the *cakravāka* is a stranger to it, since it blooms at night. The lotus — Kṛṣṇa’s hand — attacking the *cakravāka* — the gopī’s breast — is “apparent contradiction” (*virodhābhāsa*); the *utpala* — the gopī’s hand — protecting the *cakravāka* is “contradiction” (*virodha*).
+
+## 99
+w: hyperbole  apparent contradiction
+w: two  ornaments  manifestation
+w: making  Kṛṣṇa  openly  showed
+w: which  making  tasting
+w: delighted  My  mind
+w: eyes  ears  the pair  were refreshed
+tr: Thus Kṛṣṇa openly displayed two figures of speech, hyperbole (*atiśayokti*) and apparent contradiction (*virodhābhāsa*). As I tasted them, My mind was delighted, and My eyes and ears were refreshed.
+fn: *Anubhāṣya*: *atiśayokti* (hyperbole) is naming the object of comparison in place of the thing compared, in the firm conviction that they are one (*Sāhitya-darpaṇa*, ch. 10); *virodhābhāsa* (apparent contradiction) is speaking of what involves no contradiction as though it were contradictory (*Kāvya-prakāśa*, ch. 10).
+
+## 100
+w: such  wonderful  play  having made
+w: to the bank  came  Śrī Hari
+w: with  taking  all  beloveds
+w: fragrant  oil  massage
+w: āmalakī  rubbing with paste
+w: service  do  on the bank  the sakhīs
+tr: After such wonderful play Śrī Hari came up onto the bank with all His beloveds, and there the sakhīs served Them, massaging Them with fragrant oil and rubbing Them with *āmalakī* paste.
+fn: Heading in the edition: the varied service rendered to Śrī Kṛṣṇa by the transcendental (*aprākṛta*) *mañjarīs* together with the gopīs.
+
+## 101
+w: again  did  bathing
+w: dry  clothes  putting on
+w: to the jewelled  house  made  coming
+w: by Vṛndā  arranged  the articles
+w: fragrances  flowers  ornaments
+w: forest  dress  made  arranging
+tr: Then They bathed again, put on dry clothes and came to a jewelled pavilion. There Vṛndā had prepared fragrances, flowers and ornaments for Them, and They put on forest attire.
+
+## 102
+w: in Vṛndāvana  trees  creepers
+w: wonderful  their  story
+w: twelve  months  bear  flowers  fruits
+w: in Vṛndāvana  the goddesses
+w: of the bowers  maidservants  as many  persons
+w: fruits  picking  bringing  all
+tr: The trees and creepers of Vṛndāvana are wonderful indeed: all twelve months of the year they bear flowers and fruits. The goddesses of the forest and all the maidservants of the bowers picked the fruits and brought them.
+
+## 103
+w: excellent  preparation  making
+w: big  big  platters  filling
+w: in the jewelled  house  the dais  upon
+w: of eating  order  making
+w: have set out  row  by row
+w: in front  seats  of sitting  for
+tr: They prepared the fruits with great care, filled large platters with them and set these out in rows on a raised dais in the jewelled pavilion, in the order in which they were to be eaten; and in front they placed seats.
+
+## 104
+w: just  coconuts  of many  kinds
+w: just  mangoes  of many  sorts
+w: bananas  jujubes  of various  kinds
+w: jackfruits  dates  oranges
+w: tangerines  jāma fruits  pomelos
+w: grapes  almonds  dried fruits  as many  more
+tr: There were coconuts of many kinds and mangoes of many sorts, bananas and jujubes of various kinds, jackfruits, dates, oranges, tangerines, *jāma* fruits, pomelos (*sāntārā*), grapes, almonds, and all kinds of dried fruits and nuts.
+fn: *Anubhāṣya*: *koli* — the jujube (*badarī*); *sāntārā* — a large citrus like the pomelo; *meoyā* — pistachios, almonds and other choice fruits of cold lands.
+
+## 105
+w: melons  kṣīrikā cucumbers  palm fruits
+w: keśura roots  water chestnuts  lotus stalks
+w: bilva  pīlu  pomegranates and others  as many
+w: in some  land  of which  fame
+w: in Vṛndāvana  all  obtainable
+w: a thousand  kinds  to write  possible  how many
+tr: Melons, *kṣīrikā* cucumbers, palm fruits, *keśura* roots, water chestnuts, lotus stalks, *bilva*, *pīlu*, pomegranates and many more — whatever fruit is famous in any land is found in Vṛndāvana. There are a thousand kinds; how many can be written down?
+
+## 106
+w: gaṅgājala  amṛtakeli
+w: pīyūṣagranthi  karpūrakeli
+w: sarapūrī  amṛti  padmacini
+w: of sugar  kṣīrisāra  trees
+w: at home  making  various  sweets
+w: Rādhā  which  Kṛṣṇa  for  brought
+tr: *Gaṅgājala*, *amṛtakeli*, *pīyūṣagranthi*, *karpūrakeli*, *sarapūrī*, *amṛti*, *padmacini*, and little trees made of sugar and *kṣīrisāra* — all these various sweets Rādhā had made at home and brought for Kṛṣṇa.
+fn: *Anubhāṣya*: *gaṅgājala* and the rest are sweet balls and various cakes made of curd (*chānā*) with sugar; *khaṇḍa-kṣīrisāra* — sugar sweets shaped like trees.
+
+## 107
+w: of the food  the fine arrangement  seeing
+w: Kṛṣṇa  became  very  happy
+w: sitting  made  forest  meal
+w: with  taking  the sakhīs
+w: Rādhā  made  eating
+w: the two  made  in the house  lying down
+tr: Seeing how finely the food was arranged, Kṛṣṇa was delighted and sat down to the forest meal. Then Rādhā ate with Her sakhīs, and the two of Them lay down to rest in the pavilion.
+
+## 108
+w: someone  does  fanning
+w: someone  feet  massaging
+w: someone  makes  betel  eating
+w: Rādhā  Kṛṣṇa  sleep  went
+w: the sakhīs  lying down  did
+w: seeing  My  happy  became  mind
+tr: Some fanned Them, some massaged Their feet, some gave Them betel to chew. Rādhā and Kṛṣṇa fell asleep, and the sakhīs lay down too. My heart was happy to see it.
+
+## 109
+w: at that time  Me  seizing
+w: great  uproar  making
+w: you all  here  taking  brought
+w: where  the Yamunā  Vṛndāvana
+w: where  Kṛṣṇa  the gopīs
+w: that  happiness  broken  you have caused
+tr: Just then you all seized Me, made a great uproar and brought Me here. Where is the Yamunā now, where is Vṛndāvana? Where are Kṛṣṇa and the gopīs? You have broken My happiness!”
+fn: Heading in the edition: the Lord longs for Kṛṣṇa’s happiness.
+
+## 110
+w: this much  while saying  the Lord’s  full  external consciousness  came
+w: Svarūpa  Gosāñi  seeing  him  asked
+tr: As He said this, the Lord came fully back to external consciousness. Seeing Svarūpa Gosāñi, He asked him,
+
+## 111
+w: here  why  you  Me  taking  have brought
+w: Svarūpa  Gosāñi  then  to speak  began
+tr: “Why have you brought Me here?” Then Svarūpa Gosāñi began to speak:
+
+## 112
+w: for the Yamunā  mistaking  You  into the ocean  fell
+w: of the ocean  by the waves  coming  so  far  came
+tr: “Taking the ocean for the Yamunā, You fell into it, and the waves carried You this far!
+
+## 113
+w: this  fisherman  in the net  taking  You  hauled up
+w: Your  by the touch  he  with love  mad  became
+tr: This fisherman hauled You up in his net, and by Your touch he became mad with love.
+
+## 114
+w: all  night  all  we wander  You  searching
+w: the fisherman’s  from the mouth  hearing  we found  coming
+tr: All night long we wandered about searching for You; then we heard the fisherman’s story, came here and found You.
+
+## 115
+w: You  under the guise of a swoon  in Vṛndāvana  see  play
+w: Your  swoon  seeing  all  in the mind  feel  pain
+tr: You seem to have swooned, yet You are watching pastimes in Vṛndāvana. But we, seeing You unconscious, suffer with all our hearts.
+
+## 116
+w: Kṛṣṇa’s  name  on taking  Your  half-external  came
+w: in that  which  ravings  You made  that  indeed  we heard
+tr: When we chanted the name of Kṛṣṇa, You came to half-external consciousness, and we heard Your ravings.”
+
+## 117
+w: the Lord  says  in a dream  seeing  I went  to Vṛndāvana
+w: I see  Kṛṣṇa  rāsa  does  the gopīs  with
+tr: The Lord said, “I dreamt that I had gone to Vṛndāvana, and there I see Kṛṣṇa dancing the rāsa with the gopīs.
+
+## 118
+w: water  play  having done  made  forest  meal
+w: seeing  I  ravings  made  so  it seems  to the mind
+tr: After the water pastimes He enjoyed a forest meal. Seeing all this, I suppose I spoke in ravings.”
+
+## 119
+w: then  Svarūpa  Gosāñi  Him  bath  causing
+w: the Lord  taking  home  came  delighted  being
+tr: Then Svarūpa Gosāñi bathed the Lord and, overjoyed, brought Him home.
+
+## 120
+w: thus  indeed  I have told  the Lord’s  into the ocean  fall
+w: this  whoever  hears  attains  Caitanya’s  feet
+tr: Thus I have told of the Lord’s fall into the ocean. Whoever hears this attains the feet of Caitanya.
+fn: Heading in the edition: whoever hears of this *mahābhāva* of the Lord, even one bereft of consciousness (*acaitanya*), gains consciousness (*caitanya*) — turning towards Kṛṣṇa.
+
+## 121
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

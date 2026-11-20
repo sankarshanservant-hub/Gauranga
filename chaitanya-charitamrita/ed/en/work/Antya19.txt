@@ -1,0 +1,692 @@
+# CC Antya 19 (stage A): our English translation from the Bengali and English word-by-word.
+# Text of the Gauḍīya Maṭha edition (ed/fixes/Antya19.txt): 7 no āmi; 24 jāniyā (not jāniyāo); 41 jāni’; 47, 50 niṣṭhura; 51 āpanā-hāte;
+# 53 hāhā, vākya; 70 caraṇopādhānam; 83 yāṅhā; 86 antarddhāna; 111 śrī-caitanya-caritāmṛta.
+# Verbatim from revised chapters (ed/en-rev/): 2 (= Ādi 1.18), 75 (= Antya 14.72), 112 (= Ādi 1.110); line 1 of 77 (Antya 15.4, 17.3);
+# 105 as Madhya 23.36 (here navaḥ premā, “this new prema”).
+# 21 kāye nāhika āula: as in the Amṛta-pravāha-bhāṣya (“the āul, the bāul mad with love, is no longer engaged in worldly affairs”);
+# the Anubhāṣya also cites another reading (“there is no more disorder in the work of preaching love”).
+# 76 ends “makes me mad with joy”, the refrain of the Caitanya-stava-kalpavṛkṣa (Antya 6.327, 14.73, 16.87, 17.72).
+@title The Divine Madness of Śrī Caitanya
+
+@1
+I bow down  to Him  Kṛṣṇa  Caitanya
+of those devoted to their mothers  the crown jewel
+raving  His face  rubbing
+in the spring garden  sported  who
+= I bow down to Śrī Kṛṣṇa Caitanya, the crown jewel of all who are devoted to their mothers. Raving in divine madness, He rubbed His face against the walls; and He sported in the spring garden.
+
+@2
+glory  glory  to Śrī Caitanya  glory  to Nityānanda
+glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+= Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+@3
+in this way  Mahāprabhu  for Kṛṣṇa  absorbed in love
+mad  ravings  makes  night  and day
+= In this way Mahāprabhu, absorbed in love for Kṛṣṇa, spoke the ravings of divine madness night and day.
+
+@4
+to the Lord  very  dear  Paṇḍita  Jagadānanda
+in whose  conduct  the Lord  finds  joy
+= Jagadānanda Paṇḍita was very dear to the Lord, and the Lord took joy in his conduct.
+
+@5
+every  year  the Lord  him  sends  to Nadia
+by separation  grieved  knowing  His mother  to console
+= Every year the Lord sent him to Nadia to console His mother, for He knew how she grieved in separation from Him.
+
+@6
+to Nadia  go  to Mother  tell  My obeisances
+in My  name  the lotus feet  touch  her
+= “Go to Nadia and convey My obeisances to Mother. Touch her lotus feet on My behalf.
+
+@7
+tell  her  you  please remember
+every day  coming  your  I worship  feet
+= Tell her: ‘Please remember — every day I come and bow at your feet.
+
+@8
+on whatever  day  your  wish  to feed (Me)
+on that  day  surely  I  do  eat
+= On any day you wish to feed Me, I certainly come and eat.
+
+@9
+your  service  giving up  I  took  sannyāsa
+a madman  becoming  I  made  of duty  ruin
+= I gave up serving you and took *sannyāsa*. I became a madman and abandoned My duty.
+
+@10
+this  offence  you  not  take  My
+on you  dependent  I  son  indeed  your
+= Do not hold this offence against Me. I am dependent on you — I am your son.
+
+@11
+in Nīlācala  stay  I  your  by order
+as long as  I live  so long  I  cannot  leave
+= I stay in Nīlācala by your order, and as long as I live I cannot leave it.’ ”
+
+@12
+in the cowherd  pastime  received  which  prasāda  cloth
+to Mother  sends  that  of Purī  at the word
+= The cloth *prasāda* that the Lord received at the festival of Jagannātha’s cowherd pastime He sent to His mother at the request of Paramānanda Purī.
+
+@13
+Jagannātha’s  best  prasāda  bringing  with care
+to Mother  separately  sends  and  to the devotees
+= He also took care to obtain the best of Jagannātha’s *prasāda*, and He sent it separately to His mother and to the devotees.
+
+@14
+of those devoted to their mothers  the Lord  is  the crown jewel
+sannyāsa  having taken  always  serves  His mother
+= The Lord is the crown jewel of all who are devoted to their mothers. Even after taking *sannyāsa*, He always served His mother.
+
+@15
+Jagadānanda  to Nadia  going  with Mother  met
+the Lord’s  as many  messages  all  told
+= Jagadānanda went to Nadia, met the Lord’s mother and told her all the Lord’s messages.
+
+@16
+the Ācārya and other  devotees  met  prasāda  giving
+from Mother  leave  took  a month  staying
+= He met Advaita Ācārya and the other devotees and gave them *prasāda*. After staying a month, he took leave of the Lord’s mother.
+
+@17
+of the Ācārya  to  going  leave  asked
+Ācārya  Gosāñi  for the Lord  a message  gave
+= He went to the Ācārya to take leave of him, and Ācārya Gosāñi gave him a message for the Lord.
+
+@18
+a tarjā  riddle  the Ācārya  speaks  in hints
+the Lord  only  understands  anyone  understand  not  can
+= The Ācārya spoke a riddle in the form of a *tarjā* (*tarjā-prahelī*), full of hints, which only the Lord could understand; no one else could.
+
+@19
+to the Lord  tell  my  ten million  obeisances
+this  submission  His  at the feet  my
+= “Convey my countless obeisances to the Lord, and lay this submission of mine at His feet:
+
+@20
+to the madman  tell  people  have become  mad
+to the madman  tell  in the market  not  sells  rice
+= Tell the madman (*bāul*) that the people have gone mad. Tell the madman that rice no longer sells in the market.
+
+@21
+to the madman  tell  in work  is not  the āul
+to the madman  tell  this  has said  a madman
+= Tell the madman that the *āul* — the one mad with love — is no longer engaged in worldly affairs. Tell the madman that a madman has said this.”
+
+@22
+this  hearing  Jagadānanda  to laugh  began
+to Nīlācala  coming  then  to the Lord  told
+= Hearing this, Jagadānanda began to laugh. Then he returned to Nīlācala and told it to the Lord.
+
+@23
+the tarjā  hearing  Mahāprabhu  slightly  smiled
+his  whatever  order  saying  silence  kept
+= Hearing the *tarjā*, Mahāprabhu smiled slightly and said, “That is his order.” Then He fell silent.
+
+@24
+learning (of this)  Svarūpa  Gosāñi  the Lord  asked
+this  of the tarjā  the meaning  to understand  I could not
+= Learning of this, Svarūpa Gosāñi asked the Lord, “I could not understand the meaning of this *tarjā*.”[^24-1]
+
+@25
+the Lord  says  the Ācārya  is  a worshipper  great
+of the Āgama  scriptures  in the rules  and regulations  expert
+= The Lord said, “The Ācārya is a great worshipper, expert in the rules and regulations of the Āgama scriptures.
+
+@26
+for worship  the Deity  makes  invocation
+for worship  some  time  makes  keeping (Him) present
+= For worship he invokes the Deity, and for the worship he keeps the Deity present for some time.
+
+@27
+the worship  completion  when  afterwards  makes  sending away
+of the tarjā  not  I know  the meaning  what  his  mind
+= When the worship is completed, he then sends the Deity away. I do not know the meaning of the *tarjā*, or what is in his mind.
+
+@28
+a great  master of mystic power  the Ācārya  in tarjās  skilled
+even I  to understand  cannot  of the tarjā  the meaning
+= The Ācārya is a great master of mystic power, skilled in *tarjās*. Even I cannot understand the meaning of his *tarjā*.”
+
+@29
+hearing  astonished  became  all  the devotees
+Svarūpa  Gosāñi  somewhat  became  downcast
+= Hearing this, all the devotees were astonished, and Svarūpa Gosāñi became somewhat downcast.
+
+@30
+that  day  from  of the Lord  another  state  arose
+of Kṛṣṇa  separation’s  state  doubly  increased
+= From that day the Lord’s condition changed: His feeling of separation from Kṛṣṇa grew twice as strong.
+
+@31
+of madness  ravings  behaviour  makes  night  and day
+in Rādhā’s  feeling  absorbed  separation  grows  every moment
+= Night and day He behaved and raved like one mad. Absorbed in the feelings of Rādhā, He felt the separation grow every moment.
+
+@32
+suddenly  appears  Kṛṣṇa’s  to Mathurā  departure
+of udghūrṇā  the state  arose  of madness  a symptom
+= Suddenly Kṛṣṇa’s departure for Mathurā appeared before Him, and the state of *udghūrṇā*, a symptom of divine madness, arose in Him.
+
+@33
+Rāmānanda’s  neck  holding  makes  ravings
+Svarūpa  asks  taking (him) as  His own  friends
+= Holding Rāmānanda by the neck, He raved, and He questioned Svarūpa, taking him for one of His own friends (*sakhīs*).
+
+@34
+long ago  as  Viśākhā  Rādhikā  asked
+that  verse  reciting  ravings  to make  began
+= Reciting the verse with which Rādhikā once questioned Viśākhā, He began to rave:
+
+@35
+where  of Nanda’s  dynasty  the moon  where  with peacock feathers  adorned
+where  deep  of the flute  the sound  where  indeed  of the sapphire  the luster
+where  in the rāsa  with rapture  dancing  where  O friend  of life  the saving medicine (-)
+treasure  My  dearest friend  where  alas  alas  ah  fie on  the Creator
+= “O friend, where is Kṛṣṇa, the moon of Nanda’s dynasty, adorned with peacock feathers? Where is He whose flute sounds so deep, whose luster is like the sapphire? Where is He who dances in the rapture of the *rāsa*? Where is He — My treasure, the medicine that saves My life, My dearest friend? Alas! Alas! Fie on the Creator!” (Lalita-mādhava, 3.25)
+
+@36
+of the king of Vraja  the dynasty  the ocean of milk
+Kṛṣṇa  in it  the full  moon
+being born  made  the world  illumined
+of luster  the nectar  who  drink
+constantly  drinking  live
+of Vraja’s  people  the eyes  cakora birds
+= “The dynasty of the king of Vraja is an ocean of milk, and Kṛṣṇa, born in it like the full moon, has lit up the world. The eyes of the people of Vraja are *cakora* birds: they drink the nectar of His luster constantly, and only by drinking it do they live.
+
+@37
+O friend  O  where  Kṛṣṇa  let (Me) see
+for a moment  whose  face
+not  seeing  breaks  the heart
+quickly  show  not  remains  life
+= O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or My life will not remain.
+
+@38
+these  of Vraja  the women
+by the sun of desire  scorched  night lotuses
+own  of the rays (hands)  the nectar  giving  as a gift
+blossoming  makes  who
+where  My  moon  that
+show  O friend  save  My  life
+= The women of Vraja are night-blooming lotuses scorched by the sun of loving desire (*kāma*). Where is that moon of Mine who makes them blossom with the gift of the nectar of His rays — His hands? O friend, show Him to Me and save My life!
+
+@39
+where  that  of the crown  the beauty
+of the peacock feathers  the waving
+in a new cloud  like  a rainbow
+the yellow garment  lightning’s  flash
+the pearl  necklace  a line of herons
+a new cloud  surpassing  the dark body
+= Where is the beauty of His crown, with its waving peacock feathers, like a rainbow in a fresh cloud? His yellow garment is a flash of lightning, His pearl necklace a line of herons, and His dark body surpasses a fresh rain cloud.
+
+@40
+once  whose  in the eyes  catches
+always  his  in the heart  stays awake
+Kṛṣṇa’s  body  like  mango  sap
+of women  into the mind  entering  goes
+with effort  not  comes out
+a body  is not  of the seyākul  a thorn
+= Once Kṛṣṇa’s body catches someone’s eye, it stays awake in that heart forever, like the sap of the mango tree. It enters the minds of women and will not come out, however hard they try. It is not a body — it is a thorn of the *seyākul* bush!
+
+@41
+surpassing  the tamāla’s  luster
+to the sapphire  equal  the luster
+by that  luster  the world  maddens
+of amorous  rasa  the essence  straining
+with it  of the moon  the light  mixing
+I know  the Creator  fashioned  Him
+= His luster surpasses the luster of the *tamāla* tree, it is like the sapphire, and with that luster He maddens the world. Surely the Creator fashioned Him by straining out the very essence of the *rasa* of love and mixing it with moonlight.
+
+@42
+where  that  of the flute  the sound
+of a new cloud  the thunder  surpassing
+the world  attracts  to the hearing  of which
+rising  run  of Vraja  the people
+thirsty  cātaka birds
+coming  drink  of luster  the nectar  streams
+= Where is the sound of that flute which surpasses the thunder of a fresh cloud and draws the whole world to hear it? At its sound the people of Vraja rise and run like thirsty *cātaka* birds, and come to drink the streams of the nectar of His luster.
+
+@43
+My  that  treasury of arts (the moon)
+of life  saving  the great medicine
+O friend  My  He  dearest friend
+the body  lives  Him  without
+fie  on this  life
+the Creator  makes  such  mockery
+= He is My moon, the treasury of all arts, the great medicine that saves My life. O friend, He is My dearest friend. Yet My body lives on without Him — fie on such a life! What a mockery the Creator has made of Me!
+
+@44
+who  a person  to live  not  wants
+him  why  makes live
+the Creator  against  rises  anger  and grief
+the Creator  makes  rebuke
+Kṛṣṇa  gives  reproach
+reciting  of the Bhāgavatam  one  verse
+= “Why does he make one live who does not want to live?” — so anger and grief rose in Him against the Creator. Reciting a verse from the *Bhāgavatam*, He rebuked the Creator and reproached Kṛṣṇa:
+
+@45
+O  Creator  your  not  anywhere  mercy
+having joined  by friendship  by love  embodied beings
+them  and  unfulfilled  you separate  pointlessly
+the doings  your  of a child  the doings  like
+= “O Creator, there is no mercy in you anywhere! You join embodied beings in friendship and love, and then, before their desires are fulfilled, you pointlessly separate them. Your doings are like the play of a child.” (Śrīmad-Bhāgavatam, 10.39.19)
+
+@46
+not  you know  of love  the heart
+in vain  you make  labour
+your  doings  a child  like
+you  if  hold of  I get
+then  to you  a lesson  I will give
+such  that  not  you make  arrangement
+= “You do not know the heart of love, and you labour in vain. Your doings are like a child’s. If I can only get hold of you, I will teach you such a lesson that you will never arrange such things again!
+
+@47
+O  Creator  you  very  cruel
+for each other  hard to win  people
+in love  making  union
+unfulfilled  why  you make  far apart
+= O Creator, you are very cruel! You bring together in love those who are so hard for each other to win. Why then do you part them before their desires are fulfilled?
+
+@48
+O  Creator  merciless
+showing  Kṛṣṇa’s face
+eyes  mind  you tempted  My
+for a moment  to make  drinking
+snatching  you took  to another  place
+sin  you committed  of the given  taking back
+= O merciless Creator! You showed Me Kṛṣṇa’s face and tempted My eyes and mind. I had drunk it for only a moment when you snatched it away and took it elsewhere. You have committed the sin of taking back what you gave.
+
+@49
+Akrūra  makes  your  offence
+to me  why  you make  anger
+this  if  you say  O villain
+you  Akrūra’s  form  assuming
+Kṛṣṇa  you took  theft  making
+of another  is not  such  behaviour
+= If you say, villain, ‘It is Akrūra who has wronged you — why are you angry with me?’ — then know that it was you who took the form of Akrūra and stole Kṛṣṇa away. No one else behaves like this.
+
+@50
+My own  of deeds  the fault
+with you  why  I make  anger
+your  My  relation  far distant
+who  My  of life  the Lord
+together  I lived  with whom  in company
+that  Kṛṣṇa  became  cruel
+= But it is the fault of My own deeds — why should I be angry with you? You and I have nothing to do with each other. It is Kṛṣṇa, the Lord of My life, with whom I lived together, who has become so cruel!
+
+@51
+all  giving up  I serve  whom
+He  with His own  hand  kills
+in killing  a woman  Kṛṣṇa’s  is not  fear
+Him  for  I  die
+turning back  not  looks  Hari
+in a moment  broke  the love
+= He whom I serve, having given up everything for Him, kills Me with His own hand. Kṛṣṇa has no fear of killing a woman. I am dying for Him, yet Hari will not even turn back to look at Me. In a moment He has broken our love.
+
+@52
+with Kṛṣṇa  why  I make  anger
+My own  ill fate’s  the fault
+has ripened  My  this  of sin  the fruit
+who  Kṛṣṇa  My  to love subject
+Him  made  indifferent
+this  My  misfortune  mighty
+= But why should I be angry with Kṛṣṇa? It is the fault of My own ill fate: the fruit of My sins has ripened. Kṛṣṇa, who is subject to My love, has been made indifferent to Me — so mighty is My misfortune!”
+
+@53
+in this way  Gaura  Rāya
+in grief  makes  alas  alas
+alas  Kṛṣṇa  You  went  where
+of the gopīs  the feeling  in the heart
+their  words  lamenting
+Govinda  Dāmodara  Mādhava (thus)
+= In this way Gaura Rāya cried in grief, “Alas! Alas! O Kṛṣṇa, where have You gone?” With the feelings of the *gopīs* in His heart, He lamented in their words: “O Govinda! O Dāmodara! O Mādhava!”
+
+@54
+then  Svarūpa  Rāma  Rāya
+making  various  means
+of Mahāprabhu  make  consoling
+they sing  auspicious  songs
+the Lord’s  turned  mind
+the Lord’s  somewhat  calm  became  mind
+= Then Svarūpa and Rāmānanda Rāya tried in various ways to console Mahāprabhu. They sang auspicious songs and turned the Lord’s mind, and His mind grew somewhat calm.
+
+@55
+in this way  in raving  half  the night  passed
+in the Gambhīrā  Svarūpa  Gosāñi  the Lord  put to bed
+= In this way half the night passed in His ravings. Then Svarūpa Gosāñi put the Lord to bed in the Gambhīrā.
+
+@56
+the Lord  having put to bed  Rāmānanda  went  home
+Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
+= After putting the Lord to bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
+
+@57
+absorbed in love  of Mahāprabhu  overflowing  the mind
+of the name  saṅkīrtana  doing  makes  waking
+= Mahāprabhu’s mind was overflowing with love, and He stayed awake chanting the holy name.
+
+@58
+in separation  agitated  the Lord  in distress  rose
+of the Gambhīrā  against the walls  His face  to rub  began
+= Agitated by separation, the Lord rose in distress and began to rub His face against the walls of the Gambhīrā.
+
+@59
+on His face  cheeks  nose  wounds  became  countless
+absorbed in feeling  not  knows  the Lord  falls  of blood  a stream
+= Countless wounds appeared on His face, cheeks and nose, and blood streamed from them, but the Lord, absorbed in feeling, did not know it.
+
+@60
+all  night  makes  in ecstasy  of the face  rubbing
+goṅ-goṅ  sounds  makes  Svarūpa  heard  then
+= All night, in ecstasy, He rubbed His face and made sounds like “goṅ-goṅ.” Then Svarūpa heard Him.
+
+@61
+a lamp  lighting  into the room  went  seeing  the Lord’s  face
+Svarūpa  Govinda  of both  arose  great  sorrow
+= They lit a lamp and went into the room, and when Svarūpa and Govinda saw the Lord’s face, they were both deeply grieved.
+
+@62
+the Lord  to the bed  bringing  to lie down  made
+why  did  this  You  Svarūpa  asked
+= They brought the Lord to His bed and made Him lie down, and Svarūpa asked, “Why did You do this?”
+
+@63
+the Lord  says  in distress  in the room  not  I can  remain
+the door  seeking  I wandered  quickly  outside  to go
+= The Lord said, “In My distress I could not stay in the room. I wandered about looking for the door, to get out quickly.
+
+@64
+the door  not  finding  the face  strikes  on all sides
+wounds  come  blood  falls  not  I can  go
+= Not finding the door, I struck My face against the walls on every side. I was wounded and blood flowed, but I could not get out.”
+
+@65
+in the state of madness  the Lord’s  steady  is not  mind
+whatever  He does  whatever  He says  of madness  a symptom
+= In the state of divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
+
+@66
+Svarūpa  Gosāñi  then  anxiety  felt  in his mind
+the devotees  gathering  counsel  held  on the next  day
+= Then Svarūpa Gosāñi became anxious, and the next day he gathered the devotees and took counsel with them.
+
+@67
+all  the devotees  together  then  the Lord  entreated
+Śaṅkara  Paṇḍita  the Lord’s  with  made sleep
+= All the devotees together entreated the Lord, and they had Śaṅkara Paṇḍita sleep with Him.
+
+@68
+the Lord’s  feet  at the base  Śaṅkara  makes  lying
+the Lord  him  upon  makes  of the feet  stretching
+= Śaṅkara lay at the Lord’s feet, and the Lord would stretch His feet out over him.
+
+@69
+the Lord’s  feet’s pillow  calling  his  name  became
+long ago  of Vidura  as  Śrī  Śuka  described
+= So he became known as “the pillow for the Lord’s feet,” just as Śrī Śuka once described Vidura:
+
+@70
+thus  speaking  Vidura  humble
+of the thousand-headed  of the feet  the pillow
+thrilled  with hairs  in talk of Bhagavān
+being urged  the sage  began to speak
+= “When the humble Vidura, the pillow for the feet of the thousand-headed Lord, had spoken thus, the sage Maitreya, urged on to speak of Bhagavān, his hairs standing on end with joy, began his account.” (Śrīmad-Bhāgavatam, 3.13.5)
+
+@71
+Śaṅkara  makes  the Lord’s  feet  massaging
+falling asleep  he drops  so  makes  lying
+= Śaṅkara would massage the Lord’s feet, fall asleep and lie there just as he was.
+
+@72
+uncovered  in body  lying  Śaṅkara  sleep  goes
+the Lord  rising  His own  quilt  him  wraps
+= When Śaṅkara lay asleep with his body uncovered, the Lord would rise and wrap him in His own quilt.
+
+@73
+constantly  sleeps  Śaṅkara  quickly  awake
+sitting  the feet  pressing  makes  of the night  waking
+= Śaṅkara would keep falling asleep but quickly wake again, and then he would sit up, press the Lord’s feet, and stay awake through the night.
+
+@74
+of him  for fear  cannot  the Lord  outside  go
+of him  for fear  cannot  against the wall  His lotus face  rub
+= Because of him the Lord could not go out, nor could He rub His lotus face against the walls.
+
+@75
+this  pastime  of Mahāprabhu  Raghunātha dāsa
+in the Caitanya-stava-kalpavṛkṣa  has  described
+= Raghunātha dāsa has described this pastime of Mahāprabhu in his *Caitanya-stava-kalpavṛkṣa*:
+
+@76
+from His own  millions of lives  equal to  from Vraja  from separation
+ravings  from madness  constantly  much  making  bewildered in mind
+leaving  on the wall  incessantly  by the rubbing of His moonlike face  blood
+from wounds arisen  Gaurāṅga  in my heart  rising  me  maddens
+= “In separation from His Vraja, which He held as dear as millions of lives, He was bewildered in mind and raved constantly in His madness. Ceaselessly rubbing His moonlike face against the wall, He left on it the blood that flowed from His wounds. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 6)
+
+@77
+in this way  Mahāprabhu  night  and day
+in the ocean of love  immersed  remains  now  sinks  floats
+= In this way, night and day, Mahāprabhu remained immersed in the ocean of love, now sinking, now rising to the surface.
+
+@78
+one  time  of Vaiśākha  on the full-moon  day
+at night  Mahāprabhu  went  to a garden
+= Once, on the full-moon day of the month of Vaiśākha, Mahāprabhu went to a garden at night.
+
+@79
+Jagannātha-vallabha  named  of gardens  the foremost
+entry  made  the Lord  taking  the devotees
+= Taking the devotees with Him, the Lord entered the foremost of gardens, named Jagannātha-vallabha.
+
+@80
+blossoming  trees  creepers  like  Vṛndāvana
+parrots  female parrots  cuckoos  bees  make  conversation
+= The trees and creepers were in full bloom, as in Vṛndāvana, and parrots — *śukas* and *śārīs* — cuckoos and bees were all conversing.
+
+@81
+of flowers  the fragrance  carrying  blows  the Malaya  breeze
+a teacher  becoming  the trees and creepers  teaches  dancing
+= Carrying the fragrance of the flowers, the breeze from the Malaya hills blew, and like a teacher it taught the trees and creepers to dance.
+
+@82
+of the full moon  by the light  supremely  bright
+the trees  creepers and all  in the moonlight  make  glittering
+= Everything shone brightly in the light of the full moon; the trees, the creepers and all else glittered in the moonlight.
+
+@83
+the six  seasons  where  spring  foremost
+seeing  delighted  became  Gaura  Bhagavān
+= All six seasons were present there, with spring foremost among them. Seeing this, Gaura Bhagavān was delighted.
+
+@84
+lalita  lavaṅga-latā  the song  having (them) sing
+dance  doing  roams  the Lord  His own associates  with
+= Having His associates sing the song “Lalita-lavaṅga-latā,” the Lord danced and roamed about with them.
+
+@85
+each  tree  creeper  in this way  wandering  wandering
+of an aśoka  beneath  Kṛṣṇa  sees  suddenly
+= Wandering in this way from tree to tree and creeper to creeper, He suddenly saw Kṛṣṇa beneath an *aśoka* tree.
+
+@86
+Kṛṣṇa  seeing  Mahāprabhu  running  went
+in front  seeing  smiling  Kṛṣṇa  disappearance  made
+= Seeing Kṛṣṇa, Mahāprabhu ran towards Him, but Kṛṣṇa, seeing Him before Him, smiled and disappeared.
+
+@87
+first  found  Kṛṣṇa  Him  again  losing
+on the ground  fell  the Lord  unconscious  becoming
+= He had found Kṛṣṇa, only to lose Him again, and the Lord fell to the ground unconscious.
+
+@88
+Kṛṣṇa’s  holy  body’s  with the fragrance  is filled  the garden
+that  fragrance  getting  the Lord  became  unconscious
+= The garden was filled with the fragrance of Kṛṣṇa’s holy body, and catching that fragrance, the Lord lost consciousness.
+
+@89
+constantly  into the nostrils  enters  Kṛṣṇa’s  fragrance
+the fragrance  tasting  the Lord  became  mad
+= The fragrance of Kṛṣṇa entered His nostrils constantly, and as He relished it, the Lord went mad.
+
+@90
+for Kṛṣṇa’s  fragrance  longing  Rādhā  to her friend  which  spoke
+that  verse  reciting  the Lord  the meaning  made
+= The Lord recited the verse that Rādhā, longing for Kṛṣṇa’s fragrance, spoke to Her friend, and He explained its meaning:
+
+@91
+musk  surpassing  of His body  of fragrance  by the waves  attracting women
+of His own body  in the eight lotuses  with camphor  mixed  of the lotus  fragrance  spreading
+musk  camphor  fine  sandal  aguru  fragrant  with paste  anointed
+He  My  Madana-mohana  O friend  increases  of the nostrils  the longing
+= “O friend, with waves of the fragrance of His body, which surpasses musk, He draws women to Him; from the eight lotuses of His body He spreads the fragrance of the lotus mixed with camphor; and He is anointed with a fragrant paste of musk, camphor, fine sandal and *aguru*. That Madana-mohana of Mine deepens the longing of My nostrils.” (Govinda-līlāmṛta, 8.6)
+
+@92
+musk  blue lotus
+their  which  fragrance
+that  surpassing  Kṛṣṇa’s  body’s  fragrance
+pervades  the fourteen  worlds
+makes  all  attraction
+of women  the eyes  makes  blind
+= “The fragrance of Kṛṣṇa’s body surpasses the fragrance of musk and the blue lotus. It pervades the fourteen worlds, draws everyone, and makes the eyes of women blind.
+
+@93
+O friend  O  Kṛṣṇa’s  fragrance  the world  maddens
+of a woman  into the nostrils  enters
+all  time  there  stays
+to Kṛṣṇa’s  side  seizing  takes  away
+= O friend, Kṛṣṇa’s fragrance maddens the world! It enters a woman’s nostrils and stays there for ever; it seizes her and carries her away to Kṛṣṇa’s side.
+
+@94
+eyes  navel  face
+pair of hands  feet
+these  eight  lotuses  on Kṛṣṇa’s  body
+with camphor  anointed  a lotus
+its  such as  fragrance
+that  fragrance  of the eight lotuses  with
+= His eyes, navel, face, hands and feet are the eight lotuses on Kṛṣṇa’s body. The fragrance of a lotus anointed with camphor — that is the fragrance of those eight lotuses.
+
+@95
+in gold  set  sandal
+it  making  grinding
+with it  aguru  kuṅkuma  musk
+with camphor  paste  on the body
+the original  body’s  fragrance  with
+mixing  it  as if  made  theft
+= Sandalwood set in gold is ground, and *aguru*, *kuṅkuma*, musk and camphor are mixed with it; this paste is applied to His body, and mingling with the body’s own fragrance, it seems to steal it away and hide it.
+
+@96
+steals  of women  bodies  and minds
+the nostrils  makes  whirl
+loosens  the knots of their garments  undoes  hair  braids
+making  first  mad
+makes dance  the world’s  women
+such  a robber  Kṛṣṇa’s body’s  fragrance
+= The fragrance of Kṛṣṇa’s body steals the bodies and minds of women; it sets their nostrils reeling, loosens the knots of their garments and undoes their braided hair. First it drives the women of the world mad, and then it makes them dance — such a robber is the fragrance of Kṛṣṇa’s body!
+
+@97
+by that  fragrance  conquered  nostrils
+always  make  for the fragrance  hope
+sometimes  get  sometimes  not  get
+getting  drinking  the belly  fill
+more  more  still  make
+not  getting  from thirst  dying  go
+= The nostrils conquered by that fragrance always long for it. Sometimes they get it and sometimes not. When they get it, they drink their fill and still cry, ‘More! More!’ When they do not, they die of thirst.
+
+@98
+Madana-mohana  the actor
+spreading out  of fragrance  a market
+the world’s  women  customers  tempts
+without  price  gives  fragrance
+fragrance  giving  makes  blind
+home  to go  the way  not  find
+= Madana-mohana, the actor, has opened a market of fragrance and tempts the women of the world to come as customers. He gives the fragrance free of charge, but having given it, He makes them blind, and they cannot find their way home.”
+
+@99
+in this way  Gaurahari
+by the fragrance  made  mind  theft
+like a bee  here and there  runs
+goes  trees  creepers  to the side of
+Kṛṣṇa  will appear  in that  hope
+Kṛṣṇa  not  finds  fragrance  only  finds
+= In this way the fragrance stole the mind of Gaurahari, and He ran here and there like a bee. He went to the trees and creepers in the hope that Kṛṣṇa would appear, but He did not find Kṛṣṇa — He found only His fragrance.
+
+@100
+Svarūpa  Rāmānanda  sing
+the Lord  dances  happiness  feels
+in this way  morning  came
+Svarūpa  Rāmānanda  Rāya
+making  various  means
+of Mahāprabhu  external  awareness  made
+= Svarūpa and Rāmānanda sang, and the Lord danced and was happy. In this way morning came. Then, by various means, Svarūpa and Rāmānanda Rāya brought Mahāprabhu back to external awareness.
+
+@101
+devotion to His mother  ravings
+against the walls  the face  rubbing
+at the appearance of Kṛṣṇa’s  fragrance  divine dancing
+these  four  pastimes  distinguishing
+has sung  in this  chapter
+Kṛṣṇadāsa  of Rūpa Gosāñi  the servant
+= His devotion to His mother, His ravings, His rubbing His face against the walls, and His divine dancing when the fragrance of Kṛṣṇa appeared to Him — these four pastimes Kṛṣṇadāsa, the servant of Rūpa Gosāñi, has sung in this chapter.
+
+@102
+in this way  Mahāprabhu  regaining  consciousness
+bath  taking  made  of Jagannātha  seeing
+= Having thus regained consciousness, Mahāprabhu bathed and went to see Lord Jagannātha.
+
+@103
+unearthly  Kṛṣṇa’s  pastimes  divine power  their
+of reasoning  the object  is not  the conduct  whose
+= Kṛṣṇa’s pastimes are unearthly, and divine is their power; His conduct lies beyond the reach of reasoning.
+
+@104
+this  love  always  is awake  in whose  heart
+even scholars  his  behaviour  to understand  not  can
+= Even scholars cannot understand the behaviour of one in whose heart this love is always awake.
+
+@105
+of the fortunate  this  new  prema
+in whose  blossoms  heart
+by knowers of the scriptures  even  his
+ways  quite  very hard to understand
+= “The ways of the fortunate soul in whose heart this new *prema* has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)
+
+@106
+unearthly  the Lord’s  behaviour  ravings  hearing
+argument  not  make  hear  faith  having
+= When you hear of the Lord’s unearthly behaviour and ravings, do not argue — hear with faith.
+
+@107
+of this  for the truth  the evidence  in the Śrī Bhāgavatam
+of Śrī Rādhā  the ravings  in the Bhramara-gītā
+= Evidence of their truth is found in the *Śrī Bhāgavatam*: the ravings of Śrī Rādhā in the *Bhramara-gītā*.
+
+@108
+of the queens  the songs  as  of the Tenth  at the end
+scholars  not  understand  their  meaning  special
+= So too are the songs of the queens at the end of the Tenth Canto, whose special meaning scholars do not understand.
+
+@109
+Mahāprabhu  Nityānanda  of the two  of the servant  the servant
+on whom  mercy  bestow  his  is  in this  faith
+= One on whom Mahāprabhu and Nityānanda, or the servant of Their servant, bestow Their mercy has faith in this.
+
+@110
+faith  having  hear  this  in hearing  great joy
+will destroy  spiritual and other  of false arguments and others  sufferings
+= Hear this with faith — there is great joy in hearing it. It will destroy the threefold miseries, beginning with those of body and mind, and the pain of false arguments.
+
+@111
+the Śrī Caitanya-caritāmṛta  ever  new
+hearing  hearing  are soothed  the heart  and ears
+= The *Śrī Caitanya-caritāmṛta* is ever new. As one hears it again and again, the heart and the ears are soothed.
+
+@112
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+= Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
+@notes
+[^24-1]: So in the Gauḍīya Maṭha edition: *jāniyā* (“learning [of this]”). Other editions read *jāniyāo*, “though he knew [the meaning]”: “Though Svarūpa Gosāñi knew it, he still asked.”
