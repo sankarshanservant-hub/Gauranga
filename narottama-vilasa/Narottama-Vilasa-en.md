@@ -1435,7 +1435,7 @@ so Sri Jiva Gosvami explained to Narottama.[^02-12]
 **271.** Thus, speaking of many things in prema,
 they entered the temple of Sri Gopinatha.
 
-**272.** Sri Madhu Pandita informed the Gosvami:[^02-13]
+**272.** [Sri Jiva] informed Sri Madhu Pandita Gosvami:[^02-13]
 "Narottama has come from Gauda today."
 
 **273.** Narottama fell at the Gosvami's feet,
@@ -1611,7 +1611,7 @@ Narahari tells the *Narottama-vilasa*.
 [^02-10]: "What had gone before": the Lord's prophecy in the dream about his future disciple Narottama (Vilasa 1).
 [^02-11]: Neither edition names the source of the verse.
 [^02-12]: According to tradition, the form of Krishna manifested by Vajranabha is divided among the three Deities of Vrindavana: the face is Govinda's, the chest Gopinatha's, the feet Madanamohana's.
-[^02-13]: Madhu Pandita, the servant of the Deity Gopinatha in Vrindavana.
+[^02-13]: Madhu Pandita, the servant of the Deity Gopinatha in Vrindavana. It is Jiva who informs him (the subject carries over from 270–271): "শ্রীমধু পণ্ডিত গোস্বামীরে জানাইলা" — "informed Sri Madhu Pandita Gosvami"; "the Gosvami" in 273–275 is Madhu Pandita himself.
 [^02-14]: That is, Jiva returned to his dwelling together with Srinivasa and Narottama.
 [^02-15]: "Service in the mind" (manasi-seva): inner service of Radha and Krishna in meditation; Narottama's service in Vrindavana is told at greater length in the *Bhakti-ratnakara*.
 
