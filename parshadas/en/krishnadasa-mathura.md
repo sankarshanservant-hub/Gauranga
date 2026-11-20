@@ -422,8 +422,8 @@ Subuddhi and the Sanoriya brahmana, and learned from them that Rupa and Anupama 
 left by the road along the Ganga.[^15] <!-- F66 -->
 
 ## Significance
-Of the Sanodiya brahmana we know almost nothing beyond a few weeks spent with the Lord; yet much was contained in those
-weeks. His discipleship under Madhavendra and the Lord's meal in his house showed what *daiva-varnashrama* is: a
+Of the Sanodiya brahmana we know almost nothing beyond the days he spent with the Lord; yet much was contained in those
+days. His discipleship under Madhavendra and the Lord's meal in his house showed what *daiva-varnashrama* is: a
 Vaishnava is judged by his devotion, not by his birth, and dharma is set by the conduct of the mahajanas. The Lord's bow
 to him taught that all that is connected with the guru — the guru's godbrothers too — is to be honoured. And he himself,
 recognizing the Lord's connection with Madhavendra by His love alone, showed that the *prema* of separation knows its own
