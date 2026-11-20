@@ -10,8 +10,8 @@ Sarasvati (on CC, Adi 14.62–68). The biographies also honour her as Sri Lakshm
 Ishvari, “the Mistress,” and call her *sati-sadhvi*, a faithful and chaste wife.[^1] <!-- F1 -->
 
 Her pastimes in this world are brief: the meeting with the Lord by the Ganga, the matchmaking, the wedding, a short time
-of service in Shachi's house — and her departure while the Lord was travelling in East Bengal. Vrindavana Dasa names the
-last two events already in the list of pastimes with which the “Chaitanya-bhagavata” opens:
+of service in Shachi's house — and her departure while the Lord was travelling in East Bengal. Her departure and the
+Lord's second marriage Vrindavana Dasa names already in the list of pastimes with which the “Chaitanya-bhagavata” opens:
 
 “In the Adi-khanda the Lord's consort (Lakshmipriya) leaves the world, and the Lord marries a second time — the daughter
 of the Raja Pandita (Vishnupriya).” (CB, Adi 1.110) <!-- F47 Q3 -->
@@ -271,7 +271,8 @@ Hearing of His wife's departure, the Lord bowed His head and for a while was sil
 “For a while He grieved like an ordinary man, and then, with perfect composure, He spoke.” (CB, Adi 14.181)
 
 His sorrow is not the power of grief over Him: it is *nara-lila*, the Lord's pastime in human form, in which He expresses
-feelings as a human being would. Then He spoke of the highest truth: “Mother, why do you grieve? What is ordained cannot
+feelings as a human being would. Then He spoke of the highest truth: who in this world is anyone's husband, anyone's son? No one here belongs to anyone,
+and to think otherwise is delusion (CB, Adi 14.182). “Mother, why do you grieve? What is ordained cannot
 be averted; the course of time is irresistible, and every tie here may break at any moment — that is why the Vedas call
 this world impermanent. All the universes are in the power of the Supreme Lord — who but He can join and separate? Why
 then grieve over what has come to pass by His will? Who is more fortunate than a pious wife who attains the Ganga before
