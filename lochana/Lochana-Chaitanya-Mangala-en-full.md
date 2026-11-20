@@ -11504,7 +11504,7 @@ both cheeks radiant, His form beautiful.
 [^09-9]: Here and further on (vv. 59, 75, 90) Lochana Dasa describes the attraction of the women of Nadia to Gaura in the spirit of his *nagari-bhava*, in which Gaura is the *nagara*, the beloved of the townswomen. The Gaudiya tradition, following Vrindavana Dasa and Krishnadasa Kaviraja, does not accept worship of Gaura in such a bhava; Bhaktisiddhanta counts the "Gaura-nagari" among the deviant schools. We translate the text as it stands.
 [^09-10]: In A this stanza is given in brackets together with the disha and is unnumbered; in the 1983 edition it is the first stanza of the song.
 [^09-11]: Sindura is red powder, the mark of a married woman; pithali is rice paste for auspicious designs; they are distributed to women at a birth festival.
-[^09-12]: The name comes from *nim*, the bitter neem tree: by custom a child is given a "bitter" name to avert misfortune and the evil eye. According to the *Chaitanya-charitamrita* (Adi 13.118), the name Nimai was given by Sita Thakurani to protect Him from witches.
+[^09-12]: The name comes from *nim*, the bitter neem tree: by custom a child is given a "bitter" name to avert misfortune and the evil eye. According to the *Chaitanya-charitamrita* (Adi 13.117), the name Nimai was given by Sita Thakurani to protect Him from witches.
 [^09-13]: *Ashtakalai* — the distribution to children of eight kinds of pulses and grains on the eighth day after birth; on the ninth night, a festival with music.
 
 ---
