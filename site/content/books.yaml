@@ -77,13 +77,13 @@ karnapura-ckm:
     - "Время: завершена в 1464 г. Шака (1542) — по указанию в самой поэме (20.49)"
     - "Язык и форма: санскритская махакавья в 20 саргах (1911–1912 стихов), разными размерами"
     - "Место в традиции: высокая поэзия; сюжетом во многом следует Мурари Гупте; авторитет (A)"
-    - "Наш текст: перевод по изданию Харидаса Шастри (1983); с оригиналом, транслитерацией, пословным и примечаниями"
+    - "Наш текст: полный перевод на русский и английский по изданию Харидаса Шастри (1983); с оригиналом, транслитерацией, пословным и примечаниями"
   facts_en:
     - "Author: Kavi Karnapura (Paramananda Dasa, Puridasa), youngest son of Shivananda Sena; as a child he received Mahaprabhu’s mercy in Puri"
     - "Date: completed in 1464 Shaka (1542), as stated in the poem itself (20.49)"
     - "Language and form: Sanskrit mahakavya in 20 sargas (1911–1912 verses) in various metres"
     - "Place in the tradition: high poetry; in its narrative it largely follows Murari Gupta; authority (A)"
-    - "Our text: translated after the edition of Haridasa Shastri (1983); with original, transliteration, word-for-word and notes"
+    - "Our text: complete Russian and English translation after the edition of Haridasa Shastri (1983); with original, transliteration, word-for-word and notes"
   about_ru:
     - "Это первое из трёх больших сочинений Карнапуры о Господе. Поэт пересказывает жизнь Шри Чайтаньи языком классической санскритской поэзии: с описаниями времён года, ночей и рассвета, с игрой слов и звуков (ямака). Сюжет — от причин нисхождения до лил в Пури."
   about_en:
@@ -575,6 +575,26 @@ gaura-charita-chintamani:
     - "«Драгоценный камень жития Гауры» — игры Шри Гауры в Навадвипе по часам суток в изящных стихах знатока метрики."
   about_en:
     - "“The wish-fulfilling gem of Gaura’s life” — Sri Gaura’s pastimes in Navadvipa through the hours of the day in the refined verse of a master of prosody."
+
+jagadisha-charitra-vijaya:
+  facts_ru:
+    - "Автор: Ананда Дас — шестой в линии учеников от Джагадиши (Рагхунатха Ачарья, Бхагаватананда, Премананда, Радхачарана)"
+    - "Время: XVIII в.; рукопись-основа издания — 1737 г. Шака (1815/16)"
+    - "Язык и форма: бенгальская поэма в 12 варнах (паяры, трипади, санскритские шлоки)"
+    - "Издание: изд. Кишори Даса Бабаджи (1-е изд., ок. 1996); начало первой варны в рукописи утрачено"
+    - "Место в традиции: позднее житие из линии потомков-учеников; сливает двух Джагадиш (танцора из Яшоды и навадвипского спутника Хираньи); местные предания Яшоды сохранены только здесь (C)"
+    - "Наш текст: полный перевод"
+  facts_en:
+    - "Author: Ananda Dasa — sixth in the line of disciples from Jagadisha (Raghunatha Acharya, Bhagavatananda, Premananda, Radhacharana)"
+    - "Date: 18th century; the base manuscript of the edition — 1737 Shaka (1815/16)"
+    - "Language and form: Bengali poem in 12 varnas (payars, tripadis, Sanskrit shlokas)"
+    - "Edition: ed. Kishori Dasa Babaji (1st ed., c. 1996); the beginning of the first varna is lost in the manuscript"
+    - "Place in the tradition: a late life from the line of descendant disciples; merges two Jagadishas (the dancer of Yashoda and Hiranya’s companion in Navadvipa); the local traditions of Yashoda survive only here (C)"
+    - "Our text: complete translation"
+  about_ru:
+    - "Житие Джагадиши Пандита: детство и женитьба на Духкхини, Джаганнатха, принесённый на спине из Пури в Яшоду, ночной приход Махапрабху и Нитьянанды, явление Божества Гаура-Гопалы."
+  about_en:
+    - "The life of Jagadisha Pandita: childhood and marriage to Duhkhini, Jagannatha carried on his back from Puri to Yashoda, the night visit of Mahaprabhu and Nityananda, the appearance of the Gaura-Gopala Deity."
 
 shakha-nirnayamrita:
   facts_ru:
