@@ -1,0 +1,521 @@
+# English translation, Ādi-līlā 12 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Description of the Branches of the Advaita Trunk
+
+## 1
+w: of Advaita’s  feet  lotus  the bees  those
+w: the essence and the empty  bearing  all
+w: rejecting  the empty  the bearers of the essence
+w: I bow to  whose life is Caitanya
+tr: Like bees, all the followers of Śrī Advaita hover about His lotus feet, yet some of them hold the essence and others are empty. Rejecting the empty, I bow to those who hold the essence, whose very life is Śrī Caitanya.
+fn: Heading in the edition: “The servants of Advaita are of two kinds: those who take the essence (*sāra-grāhī*) and the empty.” *Anubhāṣya*: *sāra*, the essence, are the people of Gaurahari who follow Advaita; *asāra*, the empty, are those who merely fancy themselves His followers but have turned away from Gaurahari — Māyāvādīs devoid of pure devotion; those who hold the essence are the *bhāgavatas*, whose life is Gaura. According to the edition’s *Kathāsāra*, the author calls *sāra-grāhī* the Vaiṣṇavas who follow the view of Śrī Acyutānanda (12.73), and all the rest *asāra*.
+
+## 2
+w: glory  glory  Mahāprabhu  Śrī Kṛṣṇa Caitanya
+w: glory  glory  Nityānanda  glory to Advaita  the blessed
+tr: Glory, glory to Mahāprabhu Śrī Kṛṣṇa Caitanya! Glory, glory to Nityānanda, and glory to the blessed Advaita!
+
+## 3
+w: of Śrī  Caitanya  the immortal  tree
+w: the second  trunk  who is
+w: of the glorious  Advaitacandra
+w: who are the branches  the followers  we bow to
+tr: The glorious Advaitacandra is the second trunk of the immortal tree of Śrī Caitanya, and His followers are the branches of that trunk. To them we bow down.
+
+## 4
+w: of the tree  the second  trunk  —  Ācārya Gosāñi
+w: His  as many  branches  grew,  of them  record  there is none
+tr: The second trunk of the tree is Ācārya Gosāñi. So many branches grew from Him that there is no writing them all down.
+
+## 5
+w: of Caitanya the gardener  of the water of mercy  by the sprinkling
+w: by that  water  nourished  the trunk  grows  day by day
+tr: Caitanya the gardener waters this trunk with His mercy, and, nourished by that water, it grows day by day.
+fn: Heading in the edition: “By Gaura’s mercy only those servants of Advaita who take the essence flourish.”
+
+## 6
+w: on that  trunk  as many  fruits of love  grew
+w: with those  fruits of love for Kṛṣṇa  the world  was filled
+tr: So many fruits of love for Kṛṣṇa ripened on that trunk that they filled the whole world.
+
+## 7
+w: that  water  through the trunk  makes  into the branches  passage
+w: with fruit and flower  they grow  —  the branches  became  wide-spreading
+tr: Through the trunk that water rises into the branches, and they spread far and wide, laden with flowers and fruit.
+
+## 8
+w: at first  indeed  of one mind  the Ācārya’s  followers
+w: later  two views  arose  of fate  by reason
+tr: At first the Ācārya’s followers were all of one mind; but later, as fate would have it, two views arose among them.
+
+## 9
+w: some  indeed  by the Ācārya’s  order,  some  indeed  independent
+w: their own views  invent  to fate  subject
+tr: Some kept to the Ācārya’s order; others, in the grip of fate, grew self-willed and invented doctrines of their own.
+fn: Heading in the edition: “Those who take the essence serve Gaura in loyalty to Advaita; the empty, going their own way, oppose Gaura.”
+
+## 10
+w: the Ācārya’s  teaching  which,  that  teaching  the essence
+w: His  order  transgressing  goes,  he  indeed  empty
+tr: The Ācārya’s teaching is the essence; whoever goes against His order is empty, mere chaff.
+fn: Heading in the edition: “Loyalty to the Ācārya is the essence; anything else is empty.” *Sāra* is “essence, kernel”; *asāra*, “empty, without a kernel”. *Amṛta-pravāha-bhāṣya*: those who walk the path the Ācārya taught are pure Vaiṣṇavas; those who, subject to fate, left it and invented a teaching of their own are *asāra*.
+
+## 11
+w: of the empty  in naming  here  there is no  need
+w: the difference  to know  I make  together  the count
+tr: There is no need here to name the empty ones; I list them together only to make the difference plain.
+
+## 12
+w: a heap of paddy  one measures  just as  chaff  together with
+w: afterwards  the chaff  blowing away  cleaning  to do
+tr: It is like a heap of paddy: one first measures it along with its chaff, and afterwards winnows the chaff away to clean the grain.
+fn: Heading in the edition to 11–12: “Why the non-devotees who fancy themselves servants of Advaita are mentioned, and an example.” *Amṛta-pravāha-bhāṣya*: we have no concern with the names of the *asāra*; yet, to keep the Vaiṣṇavas who take the essence apart from the empty, I name them together, as chaff is winnowed from the grain. Chaff (*pātanā*) is the empty paddy that holds no rice.
+
+## 13
+w: Acyutānanda  —  a great  branch,  the Ācārya’s  son
+w: from birth  served  he  Caitanya’s  feet
+tr: Acyutānanda, the Ācārya’s son, is a great branch. From his very birth he served the feet of Śrī Caitanya.
+fn: In the edition the branches of Śrī Advaita are listed under numbered headings: (1) Acyutānanda, (2) Kṛṣṇa Miśra, (3) Gopāla, (4) Kamalākānta Viśvāsa, (5) Yadunandana Ācārya, (6)–(38) in 12.58–65; the offshoots of Gadādhara Paṇḍita are numbered (1)–(33), 12.79–87. *Anubhāṣya*: Acyutānanda was Advaita’s eldest son (*Caitanya-bhāgavata*, Antya 9). Devoted to Mahāprabhu from childhood, he never married; later, in Purī, he took shelter of Śrī Gadādhara Paṇḍita, and the *Gaura-gaṇoddeśa-dīpikā* calls him Gadādhara’s disciple (some see in him Kārttikeya, others the gopī Acyutā).
+
+## 14
+w: of Caitanya  Gosāñi  the guru  —  Keśava  Bhāratī
+w: these  of his father  words  hearing,  pain  he felt  great
+tr: When he heard his father say that Keśava Bhāratī was the guru of Caitanya Gosāñi, he was deeply pained.
+
+## 15
+w: about the guru of the world  You  give  such  instruction
+w: Your  this  by instruction  ruined  is  the land
+tr: “How can You teach such a thing about the guru of the world?” he said. “This teaching of Yours will bring ruin on the whole land.
+
+## 16
+w: of the fourteen  worlds  the guru  —  Caitanya Gosāñi
+w: His  guru  —  another,  this  in any  scripture  is not
+tr: Caitanya Gosāñi is the guru of the fourteen worlds; no scripture anywhere says that anyone else is His guru.”
+
+## 17
+w: of five  years  a boy  speaks  of conclusions  the essence
+w: hearing  obtained  the Ācārya  satisfaction  boundless
+tr: Hearing a boy of five speak the very essence of the scriptures’ conclusions, the Ācārya was boundlessly pleased.
+fn: *Anubhāṣya*: in the year Mahāprabhu set His heart on going from Nīlācala to Vṛndāvana by way of Rāmakeli (1433–34 of the Śaka era), Acyutānanda was only five years old (*Caitanya-bhāgavata*, Antya 4).
+
+## 18
+w: Kṛṣṇa  Miśra  by name  another  the Ācārya’s son
+w: Caitanya Gosāñi  dwells  in whose  heart
+tr: Another of the Ācārya’s sons was named Kṛṣṇa Miśra, and Caitanya Gosāñi dwelt in his heart.
+fn: *Anubhāṣya* (after the *Advaita-carita*): of Advaita’s six sons, three — Acyuta, Kṛṣṇa Miśra and Gopāla — served Śrī Gaurāṅga; they are called the three jewels born from the ocean of Sītā’s womb.
+
+## 19
+w: Śrī  Gopāla  by name  another  the Ācārya’s  son
+w: his  story,  hear,  most  wonderful
+tr: Śrī Gopāla was yet another son of the Ācārya. Listen to his story, for it is most wonderful.
+
+## 20
+w: in the Guṇḍicā  temple  Mahāprabhu’s  before
+w: in the kīrtana  dancing  does  in great  joy of love
+tr: When Mahāprabhu was cleansing the Guṇḍicā temple, Gopāla danced before Him in the kīrtana, filled with the great joy of love.
+fn: The edition’s *Kathāsāra*: this was in Gopāla’s youth, at the cleansing of the Guṇḍicā temple. *Anubhāṣya*: see Madhya 12.143–149.
+
+## 21
+w: many  ecstasies arising  in his body,  wondrous  dancing
+w: the two  Gosāñis  ‘Hari’  say,  delighted  at heart
+tr: Many ecstasies arose in his body, and his dancing was wondrous; the two Gosāñis, delighted at heart, called out, “Hari!”
+fn: The two Gosāñis are Mahāprabhu and Advaita.
+
+## 22
+w: dancing  and dancing  Gopāla  became  unconscious
+w: on the ground  he fell,  in his body  there was no  awareness
+tr: In the midst of his dancing Gopāla fainted and fell to the ground, with no sign of awareness left in his body.
+
+## 23
+w: grieved  became  the Ācārya  his son  on His lap  taking
+w: protection  makes  of Nṛsiṁha  the mantra  reciting
+tr: The Ācārya was grieved. Taking His son on His lap, He recited the mantra of Nṛsiṁha to protect him.
+
+## 24
+w: many  mantras  recites  the Ācārya,  not  comes  consciousness
+w: at the Ācārya’s  grief  the Vaiṣṇavas  do  weeping
+tr: He recited mantra after mantra, but the boy did not come to, and the Vaiṣṇavas wept to see the Ācārya’s grief.
+
+## 25
+w: then  Mahāprabhu  his  on the chest  hand  placing
+w: ‘get up,  Gopāla’  —  say  say  ‘Hari’  ‘Hari’
+tr: Then Mahāprabhu placed His hand on the boy’s chest and said, “Get up, Gopāla! Say ‘Hari! Hari!’”
+
+## 26
+w: rose  Gopāla  the Lord’s  touch and voice  perceiving
+w: delighted  becoming  all  make  the cry of ‘Hari’
+tr: Feeling the Lord’s touch and hearing His voice, Gopāla rose, and everyone, overjoyed, raised the cry of “Hari!”
+
+## 27
+w: the Ācārya’s  other  son  —  Śrī  Balarāma
+w: other  son  —  ‘Svarūpa’  a branch,  ‘Jagadīśa’  by name
+tr: The Ācārya had other sons as well: Śrī Balarāma, Svarūpa and one named Jagadīśa.
+fn: *Anubhāṣya*: Balarāma, Svarūpa and Jagadīśa turned away from Gaura; they were *smārtas* or Māyāvādīs, and therefore not Vaiṣṇavas (compare 12.1 and 12.10: “the empty”).
+
+## 28
+w: ‘Kamalākānta  Viśvāsa’  by name  the Ācārya’s  servant
+w: the Ācārya’s  dealings  all  —  to him  known
+tr: The Ācārya had a servant named Kamalākānta Viśvāsa, who knew all His affairs.
+fn: The *Anubhāṣya* distinguishes Kamalākānta Viśvāsa, Advaita’s servant, from the brāhmaṇa Kamalākānta of Navadvīpa, whom Paramānanda Purī brought with him to Nīlācala (Madhya 10.94).
+
+## 29
+w: in Nīlācala  he  a  letter  writing
+w: to Pratāparudra  gave  sending
+tr: In Nīlācala he wrote a letter and sent it to King Pratāparudra.
+
+## 30
+w: of that  letter  the matter  the Ācārya  does not  know
+w: somehow  that  letter  came  to the Lord
+tr: The Ācārya knew nothing about the letter, and somehow it found its way to the Lord.
+
+## 31
+w: in that  letter  written  is  —  this  indeed  the writing
+w: as God  the Ācārya  he has  established
+tr: In that letter he had proclaimed the Ācārya to be God Himself.
+
+## 32
+w: but  His  by fate  some  has come about  debt
+w: the debt  to pay off  I ask  coins  three hundred
+tr: “But by fate,” it went on, “He has fallen into some debt, and to pay it off I ask for three hundred coins.”
+
+## 33
+w: the letter  reading  the Lord’s  in mind  arose  sorrow
+w: outwardly  smiling  something  says  the moon-faced
+tr: The Lord read the letter and was pained at heart; yet, smiling outwardly, the moon-faced One said:
+
+## 34
+w: the Ācārya  he has established  making  God
+w: in this  fault  there is none,  the Ācārya  —  truly  God
+tr: “He has proclaimed the Ācārya to be God, and in that there is no fault: the Ācārya truly is God.
+
+## 35
+w: God’s  poverty  making  he has made  begging
+w: therefore  punishment  giving  I shall make  a lesson
+tr: But he has made God out to be poor and gone begging for Him. So I shall punish him and teach him a lesson.”
+fn: Heading in the edition: “To take Nārāyaṇa, full in all six opulences, for a poor man, as though He were a *jīva*, is Māyāvāda, the creed of the *bāuls*.” *Anubhāṣya*: *īśvarera dainya kari’* — “making the Lord out to be poor”.
+
+## 36
+w: to Govinda  order  He gave  —  here  today  from
+w: the madcap  ‘Viśvāsa’  here  not  you shall let  come
+tr: He ordered Govinda, “From today on, do not let that madcap Viśvāsa come here.”
+fn: *Amṛta-pravāha-bhāṣya*: Kamalākānta Viśvāsa was called “the madcap Viśvāsa” because his conclusions were like the ravings of a madman (*bāul*).
+
+## 37
+w: of the punishment  hearing  ‘Viśvāsa’  became  most  unhappy
+w: hearing  of the Lord’s  punishment  the Ācārya  delighted
+tr: Viśvāsa was deeply distressed to hear of his punishment, but when the Ācārya heard of it, He was delighted.
+
+## 38
+w: to Viśvāsa  He says  —  you  very  fortunate
+w: you  has made  punishment  the Lord  Bhagavān
+tr: He said to Viśvāsa, “You are most fortunate: the Lord, Bhagavān Himself, has punished you.
+
+## 39
+w: before  Mahāprabhu  Me  would show  honour
+w: pain  feeling  in mind  I  made  a plan
+tr: In the past Mahāprabhu used to honour Me. This pained Me, and I thought of a way to change it.
+
+## 40
+w: liberation  —  the highest  making  I gave  of the Vāsiṣṭha  an exposition
+w: angry  becoming  the Lord  Me  did  dishonour
+tr: I expounded the *Yoga-vāsiṣṭha*, extolling liberation as the highest goal, and the Lord grew angry and treated Me with dishonour.
+fn: *Amṛta-pravāha-bhāṣya*: while explaining the *Yoga-vāsiṣṭha*, Advaita on some pretext declared liberation higher than devotion. *Anubhāṣya*: the *Yoga-vāsiṣṭha Rāmāyaṇa* teaches Māyāvāda — liberation as *nirvāṇa*, merging into Brahman — and is opposed to devotion to Viṣṇu; pure devotees therefore do not read it.
+
+## 41
+w: punishment  receiving  came  My  supreme  joy
+w: which  punishment  received  fortunate  Śrī Mukunda
+tr: Being punished brought Me the greatest joy; fortunate Śrī Mukunda received the same punishment.
+
+## 42
+w: which  punishment  received  Śrī  Śacī  the fortunate
+w: that  punishment-mercy  other  people  will get  where
+tr: So did the fortunate Śrī Śacī. Where else could anyone find such mercy in the guise of punishment?”
+fn: *Anubhāṣya*: for Advaita’s punishment see *Caitanya-bhāgavata*, Madhya 19; for Mukunda’s, Madhya 10; for Mother Śacī’s, Madhya 22.
+
+## 43
+w: so  saying  the Ācārya  him  making  reassurance
+w: joyful  becoming  came  to Mahāprabhu
+tr: With these words the Ācārya comforted him, and then, joyful, He went to Mahāprabhu.
+
+## 44
+w: to the Lord  He says  —  Your  not  I understand  this  pastime
+w: than Me  of mercy a vessel  You have made  Kamalā
+tr: He said to the Lord, “I do not understand this pastime of Yours. You have made Kamalā a greater vessel of Your mercy than Me.
+
+## 45
+w: to Me even  ever  such  not  is  mercy
+w: at Your  feet  I  what  did  offence
+tr: Such mercy You have never shown even Me. What offence have I committed at Your feet?”
+
+## 46
+w: this  hearing  Mahāprabhu  to laugh  began
+w: having called  Kamalākānta  gracious  became
+tr: Hearing this, Mahāprabhu began to laugh; He sent for Kamalākānta and was gracious to him.
+
+## 47
+w: the Ācārya  says  —  to him  why  You gave  audience
+w: in two  ways  he makes  of Me  a mockery
+tr: The Ācārya said, “Why have You let him see You again? He makes a mockery of Me in two ways.”
+fn: *Anubhāṣya*: “He calls Me the transcendent Nārāyaṇa, yet in practice he takes Me for a poor worldly man begging for money.”
+
+## 48
+w: hearing  the Lord’s  mind  pleased  became
+w: of the two  the inner words  the two  alone  knew
+tr: The Lord was pleased at heart to hear this. Only the two of Them knew what lay within each other’s words.
+
+## 49
+w: the Lord  says  —  madcap,  thus  why  you do
+w: of the Ācārya  honour  dharma  harm  that  you practise
+tr: The Lord said, “Madcap, why do you behave like this? What you do harms the Ācārya’s honour and His dharma.
+
+## 50
+w: acceptance  ever  not  one should do  of a king’s wealth
+w: of the worldly  food  if one eats  defiled  becomes  the mind
+tr: A Vaiṣṇava ācārya must never accept a king’s wealth as a gift. If he eats the food of worldly men, his mind is defiled.
+fn: Heading in the edition to 50–52: “The Lord sets out the duty of a Vaiṣṇava ācārya.”
+
+## 51
+w: the mind  defiled  when it becomes  there is no  of Kṛṣṇa  remembrance
+w: of Kṛṣṇa  remembrance  without  becomes  fruitless  life
+tr: When the mind is defiled, one cannot remember Kṛṣṇa, and without remembrance of Kṛṣṇa life bears no fruit.
+
+## 52
+w: before people  shame  arises,  dharma  and good name  are  harmed
+w: such  deeds  not  do  ever  this  knowing
+tr: It brings shame before the world and ruins one’s dharma and good name. Know this, and never do such a thing.”
+fn: *Amṛta-pravāha-bhāṣya* to 49–53: though the Ācārya is Īśvara, His human pastime as the teacher of the world is well known, and for an ācārya to beg money from a king to pay a debt is shameless. Greed must be shunned in every way; a king is by nature a worldly man, and eating his food defiles the heart; with a defiled heart one does not remember Kṛṣṇa, and life passes without fruit. This is forbidden to all, and to ācāryas above all: one who gives instruction in the holy name for money is no teacher of the name but an offender against it.
+
+## 53
+w: this  teaching  for everyone,  all  in mind  took
+w: Ācārya Gosāñi  in mind  joy  felt
+tr: This teaching was meant for everyone, and everyone took it to heart, while Ācārya Gosāñi rejoiced within.
+
+## 54
+w: the Ācārya’s  intention  the Lord  alone  understands
+w: the Lord’s  deep  words  the Ācārya  understands
+tr: Only the Lord understood the Ācārya’s intention, and the Ācārya understood the Lord’s deep words.
+
+## 55
+w: in this  indeed  episode  there is  much  to consider
+w: of the book  the lengthening  for fear  I cannot  write
+tr: There is much to consider in this episode, but I cannot write of it for fear of making the book too long.
+
+## 56
+w: Śrī  Yadunandana Ācārya  —  Advaita’s  branch
+w: his  of branches  and offshoots  the host  there is no  record
+tr: Śrī Yadunandana Ācārya is a branch of Advaita; his own branches and offshoots are past all writing.
+
+## 57
+w: of Vāsudeva  Datta  he  of the mercy  recipient
+w: in every way  has taken shelter of  Caitanya’s  feet
+tr: He received the mercy of Vāsudeva Datta and with all his heart took shelter of Śrī Caitanya’s feet.
+fn: *Anubhāṣya*: Yadunandana Ācārya was the initiating guru of Śrī Raghunātha dāsa Gosvāmī (Antya 6.160–169). Vāsudeva Datta is Madhuvrata, a singer of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 140; see Ādi 10.41).
+
+## 58
+w: Bhāgavata Ācārya,  and  Viṣṇudāsa Ācārya
+w: Cakrapāṇi  Ācārya,  and  Ananta  Ācārya
+tr: Other branches are Bhāgavata Ācārya, Viṣṇudāsa Ācārya, Cakrapāṇi Ācārya and Ananta Ācārya.
+fn: *Anubhāṣya*: Bhāgavata Ācārya was first among Advaita’s followers and later among Gadādhara’s; he wrote the *Prema-taraṅgiṇī* (*Śākhā-nirṇayāmṛta* 6). Viṣṇudāsa Ācārya went with Acyutānanda to the festival at Kheturi. Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja; later he too joined the branch of Gadādhara (see 12.80).
+
+## 59
+w: Nandinī,  and  Kāmadeva,  Caitanya dāsa
+w: Durlabha  Viśvāsa,  and  Vanamāli dāsa
+tr: Then come Nandinī, Kāmadeva, Caitanya dāsa, Durlabha Viśvāsa and Vanamāli dāsa.
+
+## 60
+w: Jagannātha  Kara,  and  Kara  Bhavanātha
+w: Hṛdayānanda  Sena,  and  dāsa  Bholānātha
+tr: Jagannātha Kara, Bhavanātha Kara, Hṛdayānanda Sena and Bholānātha dāsa.
+
+## 61
+w: Yādava dāsa,  Vijaya dāsa,  Janārdana
+w: Ananta dāsa,  Kānu Paṇḍita,  dāsa  Nārāyaṇa
+tr: Yādava dāsa, Vijaya dāsa, Janārdana, Ananta dāsa, Kānu Paṇḍita and Nārāyaṇa dāsa.
+
+## 62
+w: Śrīvatsa  Paṇḍita,  Brahmacārī  Haridāsa
+w: Puruṣottama  Brahmacārī  and  Kṛṣṇadāsa
+tr: Śrīvatsa Paṇḍita, Haridāsa Brahmacārī, Puruṣottama Brahmacārī and Kṛṣṇadāsa.
+
+## 63
+w: Puruṣottama  Paṇḍita,  and  Raghunātha
+w: Vanamālī  Kavicandra,  and  Vaidyanātha
+tr: Puruṣottama Paṇḍita, Raghunātha, Vanamālī Kavicandra and Vaidyanātha.
+
+## 64
+w: Lokanātha  Paṇḍita,  and  Murāri  Paṇḍita
+w: Śrī  Haricaraṇa,  and  Mādhava  Paṇḍita
+tr: Lokanātha Paṇḍita, Murāri Paṇḍita, Śrī Haricaraṇa and Mādhava Paṇḍita.
+
+## 65
+w: Vijaya  Paṇḍita,  and  Paṇḍita  Śrī Rāma
+w: countless  Advaita’s branches  how many  shall I take  names
+tr: Vijaya Paṇḍita and Śrī Rāma Paṇḍita. The branches of Advaita are countless, so how many names can I give?
+fn: *Anubhāṣya*: Śrī Rāma Paṇḍita is the younger brother of Śrīvāsa Paṇḍita (see Ādi 10.8); in the *Gaura-gaṇoddeśa-dīpikā* (91) he is the sage Parvata, Nārada’s friend.
+
+## 66
+w: by the gardener  given  water  the Advaita  trunk  supplies
+w: by that  water  live  the branches  —  flowers and fruit  they gain
+tr: The water of mercy the gardener gives sustains the Advaita trunk, and by it the branches live and bear flowers and fruit.
+fn: Heading in the edition: “By the power of Gaura’s mercy the servants of Advaita who take the essence flourish.”
+
+## 67
+w: of these  among  after the gardener  some  branches
+w: do not  accept  Caitanya  the gardener  misfortune  by reason of
+tr: But when Caitanya the gardener had concluded His manifest pastimes, some of these branches, to their misfortune, turned their backs on Him.
+fn: Heading in the edition to 67–69: “Only the unfortunate empty ones, who fancy themselves servants of Advaita, oppose Gaura, and, bereft of His mercy, perish.” *Amṛta-pravāha-bhāṣya* to 67–73: Advaita is a trunk of the wish-fulfilling tree of bhakti; Śrī Caitanya, as the gardener, waters and nourishes that trunk and its branches. But some branches, by misfortune, behind the gardener’s back refused to accept Him and declared the trunk alone to be the cause of the tree. Ungratefully they rejected Mahāprabhu, who created and sustains the Advaita trunk; no more water reached those sinful branches, and, for want of water, they withered, dried up and died.
+
+## 68
+w: He created them,  He kept them alive,  Him  they did not  accept
+w: ungrateful  they became,  with them  the trunk  angry  became
+tr: He had brought them forth and kept them alive, yet they would not accept Him. They proved ungrateful, and the trunk grew angry with them.
+
+## 69
+w: angry  becoming  the trunk  to them  water  does not  pass
+w: for want of water  withered  branches  drying up  die
+tr: In its anger the trunk let no water pass to them, and for want of water the branches withered, dried up and died.
+
+## 70
+w: without consciousness  the body  —  dry  wood  like
+w: while living  dead  he,  when he dies  punishes  Yama
+tr: A body without consciousness (*caitanya*) is like dry wood. So too, one without Caitanya is dead while still alive, and when he dies, Yama punishes him.
+fn: A play on words: *caitanya-rahita* means both “without consciousness” and “without Caitanya”. Heading in the edition: “The devotee of Gaura-Kṛṣṇa is a guru to Yama; one who turns from Gaura-Kṛṣṇa is subject to Yama’s punishment.” The *Anubhāṣya* quotes Yama’s words to his messengers (*Śrīmad-Bhāgavatam* 6.3.29): “Bring me those wicked ones whose tongue does not speak the names and qualities of the Lord, whose heart does not remember His lotus feet, whose head has not bowed even once to Kṛṣṇa — those who have not done their duty to Viṣṇu.”
+
+## 71
+w: only  these  followers  towards  is not  this  punishment
+w: from Caitanya  turned away  whoever,  he  indeed  a pāṣaṇḍa
+tr: This punishment is not for these alone: whoever turns away from Caitanya is a *pāṣaṇḍa*, a godless man.
+
+## 72
+w: whether  a scholar,  or  an ascetic,  or  a householder,  a sannyāsī
+w: from Caitanya  turned away  whoever,  his  this  fate
+tr: Scholar or ascetic, householder or sannyāsī — whoever turns away from Caitanya meets this fate.
+
+## 73
+w: whoever  took  of Śrī  Acyutānanda  the view
+w: those  the Ācārya’s  followers  —  great devotees
+tr: Those followers of the Ācārya who accepted the view of Śrī Acyutānanda are *mahā-bhāgavatas*, great devotees.
+
+## 74
+w: those very ones  —  of the Ācārya’s  mercy  recipients
+w: without effort  attained  they  Caitanya’s  feet
+tr: It is they who received the Ācārya’s mercy, and without effort they attained the feet of Caitanya.
+fn: Heading in the edition to 73–74: “Only Acyuta’s followers take the essence: they are devotees of Gaura who have received Advaita’s mercy.” Some editions add a verse here: “অচ্যুতের যেই মত, সেই মত সার / আর যত মত সব হইল ছারখার” (“The view of Acyuta is the essence; all other views have crumbled to dust”). It is not in the Gauḍīya Maṭha edition, and the numbering follows the edition.
+
+## 75
+w: to those  followers of the Ācārya  my  millions of  obeisances
+w: Acyutānanda  like,  Caitanya  —  the life  whose
+tr: To those followers of the Ācārya who are like Acyutānanda, whose very life is Caitanya, I offer obeisances millions of times.
+
+## 76
+w: thus  indeed  I have told  of Ācārya Gosāñi  the followers
+w: of the three  trunks  I made  of the branches  a brief  count
+tr: Thus I have told of the followers of Ācārya Gosāñi, and have briefly counted the branches of the three trunks.
+fn: The three trunks are the main trunk, Śrī Caitanya Himself (Ādi 9.12; Ādi 10), and the trunks of Śrī Nityānanda (Ādi 11) and Śrī Advaita; the followers of Gadādhara Paṇḍita the author goes on to call offshoots (12.78).
+
+## 77
+w: of the branches  the offshoots,  of them  there is no  count
+w: only a little  telling  I give  a glimpse
+tr: The offshoots of these branches are past counting; I have told only a little, to give a glimpse of them.
+
+## 78
+w: of Śrī  Gadādhara  Paṇḍita  the offshoots  most excellent
+w: his  offshoots  some  I make  indeed  a count
+tr: The offshoots of Śrī Gadādhara Paṇḍita are most excellent, and I shall now name some of them.
+fn: Gadādhara Paṇḍita himself is a great branch of the main trunk (Ādi 10.15). Heading in the edition: “Śrī Gadādhara’s disciples, or offshoots.” Other editions read here *paṇḍita śākhāte mahottama*, “Paṇḍita is the most excellent among the branches”.
+
+## 79
+w: of the branches  the best  Dhruvānanda,  Śrīdhara  Brahmacārī
+w: Bhāgavatācārya,  Haridāsa  Brahmacārī
+tr: The finest of them is Dhruvānanda; after him come Śrīdhara Brahmacārī, Bhāgavatācārya and Haridāsa Brahmacārī.
+fn: *Anubhāṣya*: Dhruvānanda Brahmacārī is, according to the *Gaura-gaṇoddeśa-dīpikā* (152), Lalitā, one of her manifestations; the *Śākhā-nirṇayāmṛta* says that Śrī Gadādhara in his mercy bestowed his own nature on him. Śrīdhara Brahmacārī is Candralatikā (*GGD* 194, 199). Haridāsa Brahmacārī is counted among the followers both of Advaita (12.62) and of Gadādhara. The edition’s heading names Bhāgavatācārya “Raghunātha Bhāgavatācārya”.
+
+## 80
+w: Ananta  Ācārya,  Kavidatta,  Miśra Nayana
+w: Gaṅgāmantrī,  Māmu  Ṭhākura,  Kaṇṭhābharaṇa
+tr: Ananta Ācārya, Kavidatta, Nayana Miśra, Gaṅgāmantrī, Māmu Ṭhākura and Kaṇṭhābharaṇa.
+fn: *Anubhāṣya*: Mahāprabhu called Māmu Ṭhākura *māmā*, “uncle” (mother’s brother), and so he came to be known; his real name was Jagannātha Cakravartī, and he was a nephew of Nīlāmbara Cakravartī. After Gadādhara’s departure he took charge of the service of Śrī Ṭoṭā-gopīnātha in Purī. Kaṇṭhābharaṇa is Ananta Caṭṭarāja (*GGD* 196, 206).
+
+## 81
+w: Bhūgarbha  Gosāñi,  and  Bhāgavata  dāsa
+w: who  both  coming  made  in Vṛndāvana  their dwelling
+tr: Bhūgarbha Gosāñi and Bhāgavata dāsa both came to Vṛndāvana and made their home there.
+fn: *Anubhāṣya*: Bhūgarbha Gosvāmī is Prema-mañjarī (*GGD* 187), the bosom friend of Śrī Lokanātha Gosvāmī; he served Śrī Govindadeva in Vṛndāvana. Bhāgavata dāsa was his companion (*Śākhā-nirṇayāmṛta* 31).
+
+## 82
+w: Vāṇīnātha  Brahmacārī  —  a great  soul
+w: Vallabha  Caitanya dāsa  —  with love for Kṛṣṇa  filled
+tr: Vāṇīnātha Brahmacārī was a great soul, and Vallabha-caitanya dāsa was full of love for Kṛṣṇa.
+
+## 83
+w: Śrīnātha  Cakravartī,  and  Uddhava  dāsa
+w: Jitāmitra,  of Kāṣṭhakāṭā  Jagannātha dāsa
+tr: Śrīnātha Cakravartī, Uddhava dāsa, Jitāmitra and Jagannātha dāsa of Kāṣṭhakāṭā.
+fn: *Anubhāṣya*: Kāṣṭhakāṭā (Kāṭhādiyā) was Jagannātha dāsa’s village in Vikramapura, in the district of Dhaka; the *Śākhā-nirṇayāmṛta* (48) says that he brought the blessing of the holy name to Tripura.
+
+## 84
+w: Śrī  Hari  Ācārya,  dāsa  Puriyā Gopāla
+w: Kṛṣṇadāsa  Brahmacārī,  Puṣpagopāla
+tr: Śrī Hari Ācārya, Puriyā Gopāla dāsa, Kṛṣṇadāsa Brahmacārī and Puṣpagopāla.
+fn: *Anubhāṣya*, after the *Śākhā-nirṇayāmṛta* (38): Gopāla dāsa of Sādipura preached the holy name in Vikramapura. Kṛṣṇadāsa Brahmacārī is Indulekhā, one of the eight sakhīs (*GGD* 164); he lived in Vṛndāvana.
+
+## 85
+w: Śrīharṣa,  Raghu Miśra,  Paṇḍita  Lakṣmīnātha
+w: of Baṅgavāṭī  Caitanya dāsa,  Śrī  Raghunātha
+tr: Śrīharṣa, Raghu Miśra, Lakṣmīnātha Paṇḍita, Caitanya dāsa of Baṅgavāṭī and Śrī Raghunātha.
+
+## 86
+w: Amogha  Paṇḍita,  Hastigopāla,  Caitanya-vallabha
+w: Yadu  Gāṅguli  and  Maṅgala  Vaiṣṇava
+tr: Amogha Paṇḍita, Hastigopāla, Caitanya-vallabha, Yadu Gāṅguli and Maṅgala Vaiṣṇava.
+
+## 87
+w: Cakravartī  Śivānanda  among the branches  unbounded
+w: of Madana-gopāla  at the feet  whose  rest
+tr: Among the branches Śivānanda Cakravartī stood out in his ardour; his heart found its rest at the feet of Madana-gopāla.
+fn: *Anubhāṣya*: Śivānanda Cakravartī is a manifestation of Lavaṅga-mañjarī (*GGD* 183); he lived in Vṛndāvana (see Ādi 8.70).
+
+## 88
+w: thus  indeed  briefly  I have told  of the Paṇḍita  the followers
+w: likewise  other  of branches and offshoots  the count
+tr: Thus I have briefly told of the Paṇḍita’s followers; in the same way one could count many other branches and offshoots.
+fn: *Anubhāṣya*: in the *Śākhā-nirṇaya* Yadunandana dāsa names twenty-three more branches of Gadādhara, among them Vallabha Bhaṭṭa (after whom the Vallabha sampradāya, the path of *puṣṭi*, is known), Madhu Paṇḍita (who established the service of Śrī Gopīnātha in Vṛndāvana) and Lokanātha Bhaṭṭa (the guru of Ṭhākura Narottama).
+
+## 89
+w: of the Paṇḍita  the followers  all  —  devotees  blessed
+w: the beloved of their life  —  of all  Śrī  Kṛṣṇa  Caitanya
+tr: All the Paṇḍita’s followers are blessed devotees, and Śrī Kṛṣṇa Caitanya is the beloved of their lives.
+
+## 90
+w: of these  three  trunks  I made  of the branches  the count
+w: by remembering them all  of worldly bondage  release
+tr: I have now counted the branches of these three trunks. Whoever remembers them is freed from the bondage of worldly existence.
+fn: Heading in the edition to 90–91: “The glory of remembering the followers of Nitāi, Advaita and Gadādhara.”
+
+## 91
+w: by remembering them all  I attain  Caitanya’s  feet
+w: by remembering them all  there is  of desires  fulfilment
+tr: By remembering them one attains the feet of Śrī Caitanya; by remembering them every desire is fulfilled.
+
+## 92
+w: therefore  of them all  I worship  the feet
+w: of Caitanya the gardener  I tell  of the pastimes  the sequence
+tr: Therefore I bow down at the feet of them all, and now I shall tell, in due order, the pastimes of Caitanya the gardener.
+
+## 93
+w: of Gaura’s pastimes  the nectar ocean  —  shoreless,  fathomless
+w: who  to make  can  in it  of plunging  the wish
+tr: The nectar ocean of Gaura’s pastimes is shoreless and fathomless. Who could even dream of plunging into it?
+fn: Heading in the edition to 93–94: “The author’s humility.”
+
+## 94
+w: its  by the fragrance of sweetness  enticed  becomes  the mind
+w: therefore  on the shore  standing  I taste  one  drop
+tr: Yet the fragrance of its sweetness entices my heart, and so, standing on the shore, I taste a single drop.
+
+## 95
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

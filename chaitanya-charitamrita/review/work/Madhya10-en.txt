@@ -1,0 +1,1005 @@
+# English translation, Madhya-līlā 10 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya10.txt, .p2.txt), revised against the Bengali and the «Anubhāṣya».
+
+## 0
+tr: The Meeting with the Vaiṣṇavas
+
+## 1
+w: that  I worship  Gaura the raincloud
+w: His own  who  by the nectar of the sight
+w: by the drought of separation  withered
+w: the crops of the devotees  brought back to life
+tr: I worship that raincloud, Gaura, who by the nectar of His own sight brought back to life the crops of His devotees, withered by the drought of separation.
+fn: Heading in the edition: “Obeisance to Gaura, the treasure of the devotees’ life.”
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
+
+## 3
+w: earlier  when  Mahāprabhu  went  south
+w: Pratāparudra  the king  then  summoned  Sārvabhauma
+tr: Earlier, when Mahāprabhu had gone to the south, King Pratāparudra summoned Sārvabhauma.
+
+## 4
+w: to sit  a seat  he gave  making  obeisance
+w: of Mahāprabhu  the news  then  he asked  him
+tr: Bowing to him, the king offered him a seat and then asked him for news of Mahāprabhu.
+
+## 5
+w: I have heard  in your  house  a  great soul
+w: Gauḍa  from  has come  He  full of great mercy
+tr: “I have heard that a great soul has come from Gauḍa and is staying in your house, and that He is supremely merciful.
+
+## 6
+w: to you  great  mercy  He showed  say  all people
+w: mercy  showing  arrange  for me  His  sight
+tr: Everyone says that He has shown you great mercy. Be kind enough to let me see Him.”
+
+## 7
+w: the Bhaṭṭa  says  what  you have heard  all  true  is
+w: His  sight  for you  happening  not  is
+tr: The Bhaṭṭācārya said, “All that you have heard is true. But it is not possible for you to see Him.
+
+## 8
+w: renounced  sannyāsī  He  lives  in solitude
+w: even in a dream  not  does  He  meeting a king
+tr: He is a renounced sannyāsī who lives in solitude; not even in a dream would He meet a king.
+
+## 9
+w: still  somehow  for you  I would have arranged  a sight
+w: just now  has made  He  to the south  departure
+tr: Still, I would have found some way to arrange for you to see Him; but just now He has gone to the south.”
+
+## 10
+w: the king  says  Jagannātha  leaving  why  did He go
+w: the Bhaṭṭa  says  of a great soul  this  one  pastime
+tr: The king asked, “Why did He leave Jagannātha and go away?” The Bhaṭṭācārya replied, “That is a pastime of great souls.
+fn: *Anubhāṣya*: on verses 10–11 it refers to Madhya 8.39 and *Śrīmad-Bhāgavatam* 4.30.37 — devotees travel to purify the holy places.
+
+## 11
+w: the holy places  pure  to make  He makes  a pilgrimage
+w: on that  pretext  delivers  worldly  people
+tr: To purify the holy places, He travels on pilgrimage, and on that pretext He delivers worldly people.
+
+## 12
+w: like you  devotees
+w: become holy places  yourselves  O lord
+w: make holy  the holy places
+w: by Him within  who bears the club
+tr: “Devotees such as you are themselves holy places, my lord. By the Lord who dwells within your hearts, you make even the holy places holy.” (Śrīmad-Bhāgavatam, 1.13.10)
+fn: The same verse as Ādi 1.63; translation as there. Here the edition reads «তীর্থীভূতাঃ» (in Ādi 1.63, «তীর্থভূতাঃ»).
+
+## 13
+w: of a Vaiṣṇava  this  is  one  nature  unchanging
+w: He  a jīva  is not  He is  the independent  Lord
+tr: That is the unchanging nature of a Vaiṣṇava. But He is no jīva: He is the independent Lord Himself.”
+fn: *Anubhāṣya*: pure devotees purify the holy places by their coming and deliver the worldly people who live there — such is their eternal nature, for they suffer at the suffering of others; but Śrī Mahāprabhu, though He plays the part of a devotee, is the independent Supreme Lord Himself.
+
+## 14
+w: the king  says  Him  you  to go  why  did you let
+w: at His feet  falling  effort  making  why  not  did you keep (Him)
+tr: The king said, “Why did you let Him go? Why did you not fall at His feet and do all you could to keep Him here?”
+
+## 15
+w: the Bhaṭṭācārya  says  He  Himself  the Lord  independent
+w: directly  Śrī Kṛṣṇa  He  is not  dependent on others
+tr: The Bhaṭṭācārya said, “He is the Lord Himself, fully independent — Śrī Kṛṣṇa in person. He depends on no one.
+
+## 16
+w: still  to keep  Him  great effort  I made
+w: of the Lord  independent  the will  to keep (Him)  I could not
+tr: Even so, I tried very hard to keep Him; but the Lord’s will is His own, and I could not hold Him back.”
+
+## 17
+w: the king  says  Bhaṭṭa  you  of the learned  the crest-jewel
+w: you  Him  Kṛṣṇa  call  therefore  as truth  I accept
+tr: The king said, “Bhaṭṭa, you are the crest-jewel of the learned. Since you call Him Kṛṣṇa, I accept it as the truth.
+
+## 18
+w: again  here  His  when there is  coming
+w: once  seeing  I will make  fruitful  my eyes
+tr: When He comes here again, let me see Him even once, so that my eyes may find their fulfilment.”
+
+## 19
+w: the Bhaṭṭācārya  says  He  will come  shortly
+w: to stay  for Him  a  place  I want  secluded
+tr: The Bhaṭṭācārya said, “He will come back soon. I would like a secluded place for Him to stay.
+
+## 20
+w: of the Lord (Jagannātha)  near  and  it should be  in solitude
+w: such  a decision  making  give  a  place
+tr: It should be close to Jagannātha and yet quiet. Please decide on such a place and grant it.”
+
+## 21
+w: the king  says  such  of Kāśī Miśra  the house
+w: of the Lord  near  it is  very  secluded
+tr: The king said, “Kāśī Miśra’s house is just such a place. It is near the Lord and very secluded.”
+fn: *Anubhāṣya*: Kāśī Miśra’s house is the present Śrī Rādhākānta Maṭha in the Bālisāhi quarter, a little south of the temple; in those days the place was secluded.
+
+## 22
+w: so  saying  the king  remains  eager  being
+w: the Bhaṭṭācārya  to Kāśī Miśra  told  coming
+tr: Having said this, the king waited eagerly, and the Bhaṭṭācārya went and told Kāśī Miśra.
+
+## 23
+w: Kāśī Miśra  says  I  very  fortunate
+w: in my  house  of Prabhupāda  will be  the stay
+tr: Kāśī Miśra said, “I am most fortunate: Prabhupāda will stay in my house!”
+fn: *Anubhāṣya*: Mahāprabhu, Nityānanda and Advaita are called “Prabhupāda” because They are *viṣṇu-tattva*, the eternal Lord of the *jīva*; the Gurudeva is called “Oṁ Viṣṇupāda”, and a pure Vaiṣṇava “Śrīpāda”.
+
+## 24
+w: in this way  of Puruṣottama the residents  all  people
+w: the Lord  to meet  of all  eager  the minds
+tr: In this way all the people of Puruṣottama were eager to meet the Lord.
+
+## 25
+w: of all people  the eagerness  when  extremely  increased
+w: Mahāprabhu  the south  from  quickly  came
+tr: When everyone’s longing had grown intense, Mahāprabhu hastened back from the south.
+fn: Heading in the edition: “The longing to serve is the thread that binds the devotee and Bhagavān.”
+
+## 26
+w: hearing  joyful  became  of all  the minds
+w: all  coming  to Sārvabhauma  made  a request
+tr: Hearing of it, everyone rejoiced. They all came to Sārvabhauma and pleaded with him:
+
+## 27
+w: the Lord  with  for us all  arrange  a sight
+w: by your  grace  may we obtain  of the Lord  the feet
+tr: “Arrange for us all to see the Lord. By your grace may we reach His feet.”
+
+## 28
+w: the Bhaṭṭācārya  says  tomorrow  of Kāśī Miśra  to the house
+w: the Lord  will go  there  I will bring together  you all
+tr: The Bhaṭṭācārya said, “Tomorrow the Lord will go to Kāśī Miśra’s house; there I will bring you all to meet Him.”
+
+## 29
+w: the next  day  Mahāprabhu  the Bhaṭṭācārya  with
+w: Jagannātha’s  sight  He had  with great joy
+tr: The next day Mahāprabhu went with the Bhaṭṭācārya and joyfully saw Jagannātha.
+
+## 30
+w: mahā-prasāda  giving  there  met (Him)  the servants
+w: Mahāprabhu  all of them  gave  embrace
+tr: There the servants of the Deity met Him and gave Him *mahā-prasāda*, and Mahāprabhu embraced them all.
+
+## 31
+w: the sight  having had  the Lord  went  outside
+w: the Bhaṭṭācārya  brought  Him  to Kāśī Miśra’s house
+tr: Having seen Jagannātha, the Lord came out, and the Bhaṭṭācārya brought Him to Kāśī Miśra’s house.
+fn: The edition reads «দরশন করি’ প্রভু» (the earlier text had «মহাপ্রভু»); the Bengali and the transliteration follow the edition (scan, p. 501).
+
+## 32
+w: Kāśī Miśra  coming  fell  of the Lord  at the feet
+w: the house  together with  himself  to Him  made  offering
+tr: Kāśī Miśra came and fell at the Lord’s feet, and offered Him his house and his very self.
+
+## 33
+w: the Lord  four-armed form  to him  showed
+w: His own  making  him  embrace  He gave
+tr: The Lord showed him His four-armed form, made him His own and embraced him.
+
+## 34
+w: then  Mahāprabhu  there  sat  on a seat
+w: all around  sat  headed by Nityānanda  the devotees
+tr: Then Mahāprabhu sat down there, and the devotees headed by Nityānanda sat all around Him.
+
+## 35
+w: pleased  became  seeing  the Lord  of the residence  the arrangement
+w: in which  residence  is  for the Lord  every provision
+tr: The Lord was pleased to see how the residence was arranged: it held everything He would need.
+
+## 36
+w: Sārvabhauma  says  Lord  suitable  Your  residence
+w: You  acceptance  make  of Kāśī Miśra  the hope
+tr: Sārvabhauma said, “Lord, this residence is worthy of You. Kāśī Miśra hopes that You will accept it.”
+
+## 37
+w: the Lord  says  this  body  of you all
+w: whatever  you  say  that  duty  My
+tr: The Lord said, “This body belongs to all of you. Whatever you say, that I must do.”
+
+## 38
+w: then  Sārvabhauma  of the Lord  at the right side  sitting
+w: to introduce  began  all  of Puruṣottama the residents
+tr: Then Sārvabhauma, seated at the Lord’s right, began to introduce to Him all the residents of Puruṣottama:
+
+## 39
+w: these  all  people  Lord  live  in Nīlācala
+w: eager  they have been  all  You  to meet
+tr: “Lord, all these people live in Nīlācala. They have all been longing to meet You.
+
+## 40
+w: thirsty  cātaka birds  as  make  cries of distress
+w: so  these  all  all  make  acceptance
+tr: Just as thirsty *cātaka* birds cry out in distress, so do these people. Please accept them all.
+
+## 41
+w: of Jagannātha a servant  this  name  Janārdana
+w: during the anavasara  does  of the Lord  service to the divine body
+tr: This is Janārdana, a servant of Jagannātha. During the *anavasara* he serves the Lord’s divine body.
+fn: *Amṛta-pravāha-bhāṣya*: the *anavasara* is the period after the Snāna-yātrā until the darśana of “Nava-yauvana”.
+
+## 42
+w: Kṛṣṇadāsa  name  this  golden  staff-bearer
+w: Śikhi Māhiti by name  this  the scribe
+tr: This is Kṛṣṇadāsa, who bears the golden staff, and this is Śikhi Māhiti, the scribe.
+fn: *Amṛta-pravāha-bhāṣya*: the *likhana-adhikārī* is the official holding the post of *deula-karaṇa*, who keeps the temple chronicle (the “Mādalā-pāñji”). *Anubhāṣya*: on Śikhi Māhiti see Antya 2.104–106.
+
+## 43
+w: Pradyumna Miśra  this  of Vaiṣṇavas  the chief
+w: of Jagannātha  the chief cook  he  Dāsa  by name
+tr: This is Pradyumna Miśra, foremost among the Vaiṣṇavas. He is Jagannātha’s chief cook and is known by the name Dāsa.
+fn: *Amṛta-pravāha-bhāṣya*: *mahā-soyāra* means *mahā-sūpakāra*, the chief cook, the superintendent of the kitchen. *Anubhāṣya*: adding “dāsa” to a brāhmaṇa’s name, as a sign that he is a servant of Viṣṇu, is sanctioned also by Culli Bhaṭṭa.
+
+## 44
+w: Murāri Māhiti  this  of Śikhi Māhiti  the brother
+w: Your  feet  except  other  refuge  he has not
+tr: This is Murāri Māhiti, Śikhi Māhiti’s brother. He has no refuge but Your feet.
+
+## 45
+w: Candaneśvara  Siṁheśvara  Murāri  the brāhmaṇa
+w: Viṣṇudāsa  these  meditate on  Your  feet
+tr: These are Candaneśvara, Siṁheśvara, Murāri the brāhmaṇa and Viṣṇudāsa; they all meditate on Your feet.
+
+## 46
+w: the Prahararāja  Mahāpātra  this  of great wisdom
+w: Paramānanda  Mahāpātra  his  (name) joined (to the title)
+tr: This is the Prahararāja Mahāpātra, a man of great wisdom; his name is Paramānanda Mahāpātra.
+fn: *Anubhāṣya*: *prahararāja* is a hereditary title of a family of royal priests in Utkala: when the king dies, one of them sits on the throne holding the royal sceptre for one *prahara*, until the heir is anointed, so that the throne is never left empty. In the edition this is one person: “(10) Paramānanda”.
+
+## 47
+w: all these  Vaiṣṇavas  of this  holy place  the ornaments
+w: with single-minded devotion  think of  all  Your  feet
+tr: All these Vaiṣṇavas are the ornaments of this holy place. With one-pointed devotion they all think of Your feet.”
+
+## 48
+w: then  all  on the ground  falling  like rods  becoming
+w: all  embraced  the Lord  grace  showing
+tr: Then they all fell flat on the ground like rods, and the Lord graciously embraced each of them.
+
+## 49
+w: at that time  came  there  Bhavānanda Rāya
+w: four sons with  falls  of Mahāprabhu  at the feet
+tr: Just then Bhavānanda Rāya arrived and, with his four sons, fell at Mahāprabhu’s feet.
+fn: *Anubhāṣya*: the four sons are Rāmānanda Rāya’s brothers — Vāṇīnātha, Gopīnātha, Kalānidhi and Sudhānidhi (see Ādi 10.133).
+
+## 50
+w: Sārvabhauma  says  this  Rāya  Bhavānanda
+w: his  first  son  Rāya  Rāmānanda
+tr: Sārvabhauma said, “This is Bhavānanda Rāya. His eldest son is Rāmānanda Rāya.”
+
+## 51
+w: then  Mahāprabhu  him  gave  embrace
+w: praise  making  speaks  of Rāmānanda  in detail
+tr: Then Mahāprabhu embraced him and spoke at length in praise of Rāmānanda:
+
+## 52
+w: a jewel like Rāmānanda  whose  son
+w: his  glory  in the world  to describe  not  is possible
+tr: “The glory of one whose son is a jewel like Rāmānanda cannot be described in this world.
+
+## 53
+w: directly  Pāṇḍu  you  your  wife  Kuntī
+w: the five Pāṇḍavas  your  five sons  greatly wise
+tr: You are Pāṇḍu himself, and your wife is Kuntī; your five wise sons are the five Pāṇḍavas.”
+
+## 54
+w: Rāya  says  I  a śūdra  worldly  fallen
+w: yet  You  touch (me)  this  the mark of the Lord
+tr: Rāya said, “I am a fallen, worldly śūdra, yet You touch me — this is the mark of the Lord.
+
+## 55
+w: with my own house, wealth, servants and five sons
+w: myself  have surrendered  I  at Your  feet
+tr: Together with my house, my wealth, my servants and my five sons, I have surrendered myself at Your feet.
+
+## 56
+w: this  Vāṇīnātha  will remain  at Your  feet
+w: whenever  whatever  order  that  he will carry out  in service
+tr: Vāṇīnātha here will stay at Your feet and carry out whatever You order, whenever You order it.
+
+## 57
+w: as Your own  knowing  with me  hesitation  not  have
+w: whatever  whenever  desire  then  that  order  give
+tr: Regard me as Your own and do not hold back with me: whatever You wish, whenever You wish it, simply give the order.”
+fn: *Amṛta-pravāha-bhāṣya*: “know me as Your own” — that is, be kind to me as to one of Your own; there is no need to hesitate in anything.
+
+## 58
+w: the Lord  says  what  hesitation  you  are not  a stranger
+w: birth  after birth  you  My  with your family  servant
+tr: The Lord said, “Why should I hold back? You are no stranger. Birth after birth you and your family have been My servants.
+
+## 59
+w: days five or seven  within  will come  Rāmānanda
+w: him  with  complete  will be  My  joy
+tr: Rāmānanda will come within five or seven days. In his company My joy will be complete.”
+
+## 60
+w: so  saying  the Lord  him  gave  embrace
+w: his  sons  all  on their heads  held  His feet
+tr: Saying this, the Lord embraced him, and his sons all placed the Lord’s feet on their heads.
+fn: *Anubhāṣya*: *śire* — each on his own head.
+
+## 61
+w: then  Mahāprabhu  him  home  sent
+w: Vāṇīnātha Paṭṭanāyaka  near (Him)  He kept
+tr: Then Mahāprabhu sent him home, keeping Vāṇīnātha Paṭṭanāyaka with Him.
+
+## 62
+w: the Bhaṭṭācārya  all  the people  leave to go  had them take
+w: then  the Lord  Kālā Kṛṣṇadāsa  called
+tr: The Bhaṭṭācārya saw all the people off, and the Lord then called for Kālā Kṛṣṇadāsa.
+
+## 63
+w: the Lord  says  Bhaṭṭācārya  hear  his  conduct
+w: to the south  had gone  he  Me  with
+tr: The Lord said, “Bhaṭṭācārya, hear what this man did. He went with Me to the south.
+
+## 64
+w: to the Bhaṭṭathāris  he went  Me  leaving
+w: the Bhaṭṭathāris  from  him  I brought  rescuing
+tr: There he left Me and went off to the Bhaṭṭathāris; I rescued him from them and brought him back.
+
+## 65
+w: now  I  here  having brought (him)  have dismissed (him)
+w: where  he wishes  let him go  with Me  no  longer  responsibility
+tr: Now that I have brought him here, I have dismissed him. Let him go wherever he likes; I am no longer responsible for him.”
+
+## 66
+w: this  hearing  Kṛṣṇadāsa  to weep  began
+w: the midday duties  to perform  Mahāprabhu  going  went
+tr: Hearing this, Kṛṣṇadāsa began to weep, and Mahāprabhu went off to attend to His midday duties.
+
+## 67
+w: Nityānanda  Jagadānanda  Mukunda  Dāmodara
+w: the four  counsel  then  held  in private
+tr: Then Nityānanda, Jagadānanda, Mukunda and Dāmodara took counsel together in private:
+fn: *Amṛta-pravāha-bhāṣya*: *antara* — secretly, or stepping aside.
+
+## 68
+w: to the land of Gauḍa  to send  we want  one person
+w: to mother  will tell  going  of the Lord  the coming
+tr: “We need to send someone to Gauḍa to tell mother Śacī that the Lord has returned.
+
+## 69
+w: headed by Advaita and Śrīvāsa  all  the devotees
+w: all  will come  hearing  of the Lord  the coming
+tr: When they hear of the Lord’s return, all the devotees headed by Advaita and Śrīvāsa will come.
+
+## 70
+w: this  Kṛṣṇadāsa  we will  to Gauḍa  send
+w: so  saying  him  they kept  reassuring
+tr: We will send this Kṛṣṇadāsa to Gauḍa.” Saying this, they reassured him and kept him with them.
+
+## 71
+w: the next  day  to the Lord  they made  a request
+w: permission  give  to the land of Gauḍa  let us send  one person
+tr: The next day they put their request to the Lord: “Give us permission to send someone to Gauḍa.
+
+## 72
+w: of Your  going south  hearing  Śacī  mother
+w: headed by Advaita  the devotees  all  are  grief  suffering
+tr: Ever since they heard that You went south, mother Śacī and all the devotees headed by Advaita have been grieving.
+
+## 73
+w: one person  going  let him tell  the good  news
+w: the Lord  says  that  do  what  wish  your
+tr: Let someone go and tell them the good news.” The Lord said, “Do as you wish.”
+
+## 74
+w: then  that  Kṛṣṇadāsa  to Gauḍa  they sent
+w: to the Vaiṣṇavas all  to give  mahā-prasāda  they gave (him)
+tr: So they sent Kṛṣṇadāsa to Gauḍa with *mahā-prasāda* for all the Vaiṣṇavas.
+
+## 75
+w: then  to the land of Gauḍa  came  Kālā Kṛṣṇadāsa
+w: to Navadvīpa  went  he  to mother Śacī
+tr: Kālā Kṛṣṇadāsa came to Gauḍa and went to mother Śacī in Navadvīpa.
+
+## 76
+w: mahā-prasāda  giving  to her  he made  obeisance
+w: the south  from  has come  the Lord  he tells  the news
+tr: He gave her the *mahā-prasāda*, bowed to her and told her the news: the Lord had come back from the south.
+
+## 77
+w: hearing  joyful  became  of mother Śacī  the heart
+w: headed by Śrīvāsa  and  all  all  the devotees
+tr: Hearing it, mother Śacī rejoiced at heart, and so did Śrīvāsa and all the other devotees.
+
+## 78
+w: hearing  of all  there was  supreme  delight
+w: to Advaita Ācārya’s house  went  Kṛṣṇadāsa
+tr: Everyone who heard it was overjoyed. Then Kṛṣṇadāsa went to the house of Advaita Ācārya.
+
+## 79
+w: to the Ācārya  prasāda  giving  making  obeisance
+w: fully  he told  of Mahāprabhu  the news
+tr: He gave the Ācārya the *prasāda*, bowed to Him and told Him all the news of Mahāprabhu.
+
+## 80
+w: hearing  of the Ācārya Gosāñi  joy  arose
+w: absorbed in love  much  dancing, singing and roaring  He did
+tr: Hearing it, Ācārya Gosāñi was filled with joy. Absorbed in love, He danced and sang and roared again and again.
+
+## 81–84
+w: of Haridāsa Ṭhākura  there was  supreme  joy
+w: Vāsudeva  Datta  Gupta  Murāri  Sena  Śivānanda
+w: Ācāryaratna  and  Paṇḍita  Vakreśvara
+w: Ācāryanidhi  and  Paṇḍita  Gadādhara
+w: Śrīrāma  Paṇḍita  and  Paṇḍita  Dāmodara
+w: Śrīmān  Paṇḍita  and  Vijaya  Śrīdhara
+w: Rāghava Paṇḍita  and  Ācārya  Nandana
+w: how many  shall I name  more  all  the devotees
+tr: Haridāsa Ṭhākura was overjoyed, and so were Vāsudeva Datta, Murāri Gupta, Śivānanda Sena, Ācāryaratna, Vakreśvara Paṇḍita, Ācāryanidhi, Gadādhara Paṇḍita, Śrīrāma Paṇḍita, Dāmodara Paṇḍita, Śrīmān Paṇḍita, Vijaya, Śrīdhara, Rāghava Paṇḍita, Ācārya Nandana — how can I name all the other devotees?
+
+## 85
+w: hearing  of all  there was  supreme  delight
+w: all  together  went  to Śrī Advaita
+tr: Filled with delight, they all went together to Śrī Advaita.
+
+## 86
+w: of the Ācārya  all  made  the feet  worship
+w: Ācārya Gosāñi  all  gave  embrace
+tr: All of them bowed at the Ācārya’s feet, and Ācārya Gosāñi embraced them all.
+
+## 87
+w: days  two or three  the Ācārya  a great festival  held
+w: to Nīlācala  to go  the Ācārya  decision  firm  made
+tr: For two or three days the Ācārya held a great festival, and then He firmly resolved to go to Nīlācala.
+
+## 88
+w: all  together  in Navadvīpa  in one place  gathering
+w: to Nīlādri  they set out  of mother Śacī  permission  taking
+tr: They all gathered together in Navadvīpa and, taking mother Śacī’s permission, set out for Nīlādri.
+
+## 89
+w: of the Lord  the news  hearing  of Kulīna-grāma the residents
+w: Satyarāja and Rāmānanda  joined  all  coming
+tr: Hearing the news of the Lord, the residents of Kulīna-grāma — Satyarāja, Rāmānanda and all the rest — came and joined them.
+
+## 90
+w: Mukunda  Narahari  Raghunandana  Khaṇḍa  from
+w: to the Ācārya  came  to Nīlācala  to go
+tr: Mukunda, Narahari and Raghunandana came from Khaṇḍa to the Ācārya, to go with Him to Nīlācala.
+
+## 91
+w: at that time  the south  from  Paramānanda Purī
+w: along the bank of the Gaṅgā  came  to the town of Nadīyā
+tr: At that time Paramānanda Purī, coming from the south along the bank of the Gaṅgā, arrived in the town of Nadīyā.
+
+## 92
+w: mother’s  in the house  happily  he took  rest
+w: mother  to him  alms (a meal)  gave  showing  respect
+tr: He stayed happily in mother Śacī’s house, and she respectfully gave him his meal.
+
+## 93
+w: of the Lord  the return  he  there  heard
+w: quickly  to Nīlācala  to go  his  desire  arose
+tr: There he heard of the Lord’s return, and he wanted to go to Nīlācala at once.
+fn: *Anubhāṣya*: Paramānanda Purī learnt of the Lord’s return while still in Śrī Māyāpura, from Kālā Kṛṣṇadāsa, whom he had known before.
+
+## 94
+w: of the Lord  one  devotee  dvija Kamalākānta  by name
+w: him  taking  to Nīlācala  he set out
+tr: Taking with him one of the Lord’s devotees, a brāhmaṇa named Kamalākānta, he set out for Nīlācala.
+
+## 95
+w: quickly  coming  he  met  the Lord
+w: of the Lord  joy  there was  obtaining  him
+tr: He came quickly and met the Lord, and the Lord rejoiced to have him there.
+
+
+## 96
+w: in ecstatic love  He made  his  feet  worship
+w: he  in ecstatic love  made  to the Lord  an embrace
+tr: Overwhelmed with love, the Lord bowed down at his feet; and Paramānanda Purī, overwhelmed with love, embraced Him.
+
+## 97
+w: the Lord  says  in your company  to live  desire  there is
+w: to Me  mercy  showing  make  Nīlādri  your shelter
+tr: The Lord said, “I long to live in your company. Be merciful to Me and make Nīlādri your home.”
+
+## 98
+w: Purī  says  in Your company  to live  desire  I have
+w: from Gauḍa  setting out  I have come  to the city of Nīlācala
+tr: Purī replied, “I too long to live in Your company. That is why I set out from Gauḍa and came to the city of Nīlācala.
+
+## 99
+w: from the south  hearing of  Your  return
+w: Śacī  delighted  and  all  the devotees
+tr: When they heard that You had come back from the south, Śacī was overjoyed, and so were all the devotees.
+
+## 100
+w: all  are coming  You  to see
+w: their  delay  seeing  I have come  quickly
+tr: They are all coming to see You, but since they were delayed, I hurried on ahead.”
+
+## 101
+w: of Kāśī Miśra  in the house  secluded  one  room
+w: the Lord  to him  gave  and  for service  a servant
+tr: The Lord gave him a secluded room in Kāśī Miśra’s house, and a servant to attend him.
+
+## 102
+w: on the next  day  came  Svarūpa  Dāmodara
+w: of the Lord  most  intimate  of rasa  an ocean
+tr: The next day Svarūpa Dāmodara arrived — the Lord’s most intimate companion, an ocean of rasa.
+
+## 103
+w: “Puruṣottama Ācārya”  his  name  in his former āśrama
+w: in Navadvīpa  lived  he  of the Lord  at the feet
+tr: In his former *āśrama* his name was Puruṣottama Ācārya, and he lived in Navadvīpa at the Lord’s feet.
+
+## 104
+w: of the Lord  the sannyāsa  seeing  maddened  becoming
+w: sannyāsa  acceptance  he made  to Vārāṇasī  going
+tr: When he saw the Lord accept sannyāsa, he became as if mad; he went to Vārāṇasī and took sannyāsa himself.
+
+## 105
+w: “Caitanyānanda”  guru  his  order  gave  to him
+w: Vedānta  having studied  teach  to all  people
+tr: His guru, Caitanyānanda, ordered him, “Study Vedānta and teach it to everyone.”
+fn: *Anubhāṣya*: Caitanyānanda is Caitanyānanda Bhāratī (so the commentary on the *Caitanya-candrodaya-nāṭaka*).
+
+## 106
+w: supremely  renounced  he  supremely  learned
+w: with body and mind  he has taken shelter  of Śrī Kṛṣṇa’s  pastimes
+tr: He was supremely renounced and supremely learned, and with body and mind he had taken shelter of Śrī Kṛṣṇa’s pastimes.
+fn: *Anubhāṣya* quotes Kavi Karṇapūra’s *Caitanya-candrodaya-nāṭaka*: he accepted the fourth āśrama by the force of renunciation alone, yet out of love for the pollen of Śrī Kṛṣṇa’s lotus feet he held that very āśrama of little account.
+
+## 107
+w: “free of cares  Kṛṣṇa  I shall worship”  for this  very  reason
+w: in madness  made  he  sannyāsa  acceptance
+tr: “I shall worship Kṛṣṇa free of every care” — for this very reason he accepted sannyāsa in his madness.
+
+## 108
+w: sannyāsa  he took  of the śikhā  and the sacred thread  giving up  in the form
+w: the yogapaṭṭa  not  was given  the name  became  “Svarūpa”
+tr: He took sannyāsa by giving up his *śikhā* and sacred thread, but he did not receive the *yogapaṭṭa*, and his name became “Svarūpa.”
+fn: The edition reads *yoga-paṭṭa nā dila* (“the *yogapaṭṭa* was not given”); another reading is *nā nila* (“he did not take”). *Anubhāṣya*: he performed the rites of sannyāsa — the eight śrāddhas, the virajā-homa, shaving the śikhā, giving up the thread — but did not wait for the *yogapaṭṭa*, the sannyāsa name and the daṇḍa; so he kept the name “Dāmodara Svarūpa,” the name of a lifelong celibate (*naiṣṭhika-brahmacārī*). *Amṛta-pravāha-bhāṣya*: he took sannyāsa not to add to any pride of āśrama, but only to serve Kṛṣṇa free of care.
+
+## 109
+w: from his guru  permission  asking  he came  to Nīlācala
+w: night and day  of love for Kṛṣṇa  in the bliss  overwhelmed
+tr: With his guru’s leave he came to Nīlācala, and there, night and day, he was overwhelmed with the bliss of love for Kṛṣṇa.
+
+## 110
+w: of learning  the limit  speech  there is not  with anyone
+w: in solitude  he lives  people  all  do not  know (him)
+tr: His learning knew no bounds, yet he spoke with no one; he lived in solitude, and people knew nothing of him.
+
+## 111
+w: of Kṛṣṇa-rasa  of the truth  the knower  his body  of love  the form
+w: directly  of Mahāprabhu  a second  self
+tr: He knew the truth of Kṛṣṇa-rasa, and his very body was love itself; he was, in truth, Mahāprabhu’s second self.
+fn: *Amṛta-pravāha-bhāṣya*: whoever saw him felt as if a second form of Mahāprabhu had arisen. Heading in the edition: “The Lord’s second form.”
+
+## 112
+w: a book  a verse  a song  anyone  to the Lord  brings
+w: Svarūpa  examination  when he has made  afterwards  the Lord  hears
+tr: If anyone brought the Lord a book, a verse or a song, the Lord would hear it only after Svarūpa had examined it.
+
+## 113
+w: contrary to the conclusions of bhakti  and  rasābhāsa
+w: on hearing  there is not  of the Lord  of the heart  delight
+tr: Anything contrary to the conclusions of bhakti, or any *rasābhāsa* (a mere semblance of rasa), brought the Lord’s heart no delight when He heard it.
+
+## 114
+w: therefore  Svarūpa Gosāñi  makes  examination
+w: pure  it is  if  to the Lord  he has it  heard
+tr: Therefore Svarūpa Gosāñi examined everything, and only if it was pure did he let the Lord hear it.
+
+## 115
+w: Vidyāpati  Caṇḍīdāsa  the Śrī Gīta-govinda
+w: with these  three  songs  he gives  to the Lord  joy
+tr: With the songs of Vidyāpati and Caṇḍīdāsa and the *Śrī Gīta-govinda* — these three — he delighted the Lord.
+fn: *Amṛta-pravāha-bhāṣya*: Vidyāpati was an old Vaiṣṇava poet of Mithilā; Caṇḍīdāsa, an old Bengali Vaiṣṇava poet of the village of Nānnura (Bīrbhūm district); the *Śrī Gīta-govinda* is Śrī Jayadeva’s celebrated poem of Sanskrit songs on Kṛṣṇa-rasa.
+
+## 116
+w: in music  like a Gandharva  in scripture  Bṛhaspati
+w: like Dāmodara  another  there is not  great-minded one
+tr: In music he was like a Gandharva, in scripture a Bṛhaspati; there was no one else so great-minded as Dāmodara.
+fn: *Amṛta-pravāha-bhāṣya*: Mahāprabhu had earlier given him the name “Dāmodara,” seeing his skill in song; joined to the name “Svarūpa,” given by his sannyāsa-guru, it made him “Dāmodara-Svarūpa.” He also wrote a book on the science of music, the *Saṅgīta-Dāmodara*.
+
+## 117
+w: of Advaita and Nityānanda  the most  beloved
+w: of Śrīvāsa and the other  devotees  he is  dear as life
+tr: He was most dear to Advaita and Nityānanda, and to Śrīvāsa and the other devotees he was as dear as life itself.
+
+## 118
+w: that  Dāmodara  coming  prostrate  fell
+w: the feet  clasping  a verse  to recite  began
+tr: Dāmodara came and fell prostrate before the Lord; then, clasping His feet, he began to recite this verse:
+fn: The edition reads *caraṇe dhariyā* (“clasping His feet”); another reading is *paḍiyā* (“falling at His feet”).
+
+## 119
+w: easily  shaking off the dust  of distress  making pure  unfolding  fragrant joy
+w: stilling  of the scriptures  the disputes  rasa  bestowing  offering the heart  divine madness
+w: ever  with devotion  delighting  full of rapture  of sweetness  the very limit
+w: O Śrī Caitanya  of mercy  ocean  Your  mercy  may it be  rising in fullness
+tr: “O Śrī Caitanya, ocean of mercy! Your mercy blows away all sorrow as easily as dust. It is pure; in it the highest bliss blossoms, and before it all quarrels over scripture fall silent. It bestows rasa and fills the heart with divine madness; it ever draws one to devotion, it intoxicates with rapture, and in it lies the very limit of sweetness. May that all-auspicious mercy rise upon me!” (Caitanya-candrodaya-nāṭaka, 8.14)
+fn: *Anubhāṣya*: the Lord’s mercy first ends the *anarthas* and purifies the heart, so that the bliss of serving Kṛṣṇa is revealed; then it gives the conclusions of bhakti, and through them rasa and the madness of love; and at last attachment to bhakti and the summit of sweetness. *Sa-madayā* — full of rapture (*mada*); with the reading *śama-dayā*, “bestowing peace.” Heading in the edition: “In the *Caitanya-candrodaya-nāṭaka* Dāmodara-Svarūpa enters while the Lord is speaking with Sārvabhauma, and offers this prayer.”
+
+## 120
+w: raising him  Mahāprabhu  made  an embrace
+w: both  in ecstatic love  became  unconscious
+tr: Mahāprabhu raised him up and embraced him, and both of them, overwhelmed with love, lost consciousness.
+
+## 121
+w: after a while  both  steady  when  became
+w: then  Mahāprabhu  to him  to speak  began
+tr: After a while, when they had both grown calm, Mahāprabhu began to speak to him:
+
+## 122
+w: you  that  would come  today  in a dream  I saw
+w: well  it has been  a blind man  as if  two  eyes  obtained
+tr: “Today I saw in a dream that you would come. How good this is! It is as if a blind man had received his sight.”
+
+## 123
+w: Svarūpa  says  my Lord  my  forgive  offence
+w: You  leaving  elsewhere  I went  I committed  a blunder
+tr: Svarūpa said, “My Lord, forgive my offence. I left You and went elsewhere, and that was a grave mistake.
+
+## 124
+w: for Your  feet  my  there is not  of love  a trace
+w: You  leaving  sinful  I  went  to another land
+tr: I have not a trace of love for Your feet; sinner that I am, I left You and went off to another land.
+
+## 125
+w: I  You  left  You  me  not  left
+w: of mercy  the rope  around the neck  binding  to Your feet  You brought
+tr: I left You, but You did not leave me: You bound me by the neck with the rope of Your mercy and brought me back to Your feet.”
+
+## 126
+w: then  Svarūpa  made  of Nitāi  the feet  worship
+w: Nityānanda Prabhu  made  a loving embrace
+tr: Then Svarūpa bowed at the feet of Nitāi, and Nityānanda Prabhu embraced him with love.
+
+## 127
+w: Jagadānanda  Mukunda  Śaṅkara  Sārvabhauma
+w: with all  as befitting  he made  meeting
+tr: He met Jagadānanda, Mukunda, Śaṅkara and Sārvabhauma, greeting each as was fitting.
+
+## 128
+w: of Paramānanda  Purī  he made  the feet  worship
+w: Purī Gosāñi  him  made  loving  embrace
+tr: He bowed at the feet of Paramānanda Purī, and Purī Gosāñi embraced him with love.
+
+## 129
+w: Mahāprabhu  gave  to him  secluded  a dwelling
+w: for water and other  services  He gave  one  servant
+tr: Mahāprabhu gave him a secluded dwelling and a servant to bring him water and see to his other needs.
+
+## 130
+w: the next  day  with Sārvabhauma  and other  devotees
+w: sitting  is  Mahāprabhu  in the joy of talks about Kṛṣṇa
+tr: The next day Mahāprabhu was sitting with Sārvabhauma and other devotees, joyfully speaking of Kṛṣṇa.
+
+## 131
+w: at that time  of Govinda  there was  the arrival
+w: obeisance  making  he speaks  humble words
+tr: At that moment Govinda arrived; bowing down, he humbly said:
+
+## 132
+w: of Īśvara Purī  the servant  “Govinda”  my  name
+w: of Purī Gosāñi  by the order  I have come  to Your  place
+tr: “I am the servant of Īśvara Purī, and my name is Govinda. On Purī Gosāñi’s order I have come to You.
+
+## 133
+w: at the time of attaining perfection  Gosāñi  order  gave  to me
+w: to Kṛṣṇa Caitanya  going  serve  Him
+tr: At the time of his passing, Gosāñi ordered me, ‘Go to Kṛṣṇa Caitanya and serve Him.’
+
+## 134
+w: Kāśīśvara  will come  all  holy places  having seen
+w: of my master  by the order  I  have come  to Your feet  hastening
+tr: Kāśīśvara will come after visiting all the holy places, but on my master’s order I have hurried to Your feet.”
+
+## 135
+w: the Lord  said  Purīśvara  parental affection  shows  to Me
+w: mercy  showing  to Me  he has sent  you
+tr: The Lord said, “Purīśvara has always had a father’s affection for Me; out of mercy he has sent you to Me.”
+
+## 136
+w: this  hearing  Sārvabhauma  the Lord  asked
+w: Purī Gosāñi  a śūdra servant  why  then  kept
+tr: Hearing this, Sārvabhauma asked the Lord, “Why did Purī Gosāñi keep a servant of śūdra birth?”
+
+## 137
+w: the Lord  says  Īśvara  is  supremely  independent
+w: of Īśvara  the mercy  is not  subject to the Vedas
+tr: The Lord said, “Īśvara is supremely independent, and Īśvara’s mercy is not subject to the injunctions of the Vedas.
+fn: *Anubhāṣya*: according to smṛti, a brāhmaṇa who accepts a man of another varṇa as his disciple or servant becomes fallen — hence Sārvabhauma’s question. Mahāprabhu answers: “My gurudeva is ‘Īśvara,’ a lord of the world; the smṛti that governs ordinary jīvas has no hold on him, and the mercy of such a powerful one is never bound by Vedic injunctions.” The Lord plays on the name of Īśvara Purī.
+
+## 138
+w: of Īśvara  the mercy  caste and family  does not  regard
+w: in Vidura’s  house  Kṛṣṇa  took  a meal
+tr: The mercy of Īśvara takes no account of caste or family: Kṛṣṇa ate in the house of Vidura.
+fn: *Anubhāṣya*: as Kṛṣṇa, the guru of the world, set aside worldly considerations of caste and family and ate in Vidura’s house, so Īśvara Purī mercifully disregarded Govinda’s birth in a śūdra family: knowing that a Vaiṣṇava is worthy of brāhmaṇa status through initiation, he initiated him and accepted him as his servant.
+
+## 139
+w: loving  service  depends on  only  of Śrī Kṛṣṇa  the mercy
+w: by love  controlled  becoming  He does  independent  conduct
+tr: Śrī Kṛṣṇa’s mercy depends on nothing but loving service; won over by love, He acts with complete freedom.
+fn: The edition reads *sneha-sevāpekṣā* (“depends on loving service”); another reading is *sneha-leśāpekṣā* (“waits for a mere trace of love”). *Amṛta-pravāha-bhāṣya*: service is of two kinds, service in love (*sneha-sevā*) and service in reverence (*maryādā-sevā*); Kṛṣṇa’s mercy comes where there is service in love.
+
+## 140
+w: than reverence  millions of times  happiness  in loving  dealings
+w: supreme bliss  there is  whose  name  on hearing
+tr: For Him whose very name brings supreme bliss to those who hear it, loving dealings give millions of times more joy than reverential formality.”
+
+## 141
+w: this  saying  Govinda  He made  an embrace
+w: Govinda  made  of the Lord  the feet  worship
+tr: Saying this, the Lord embraced Govinda, and Govinda bowed at His feet.
+
+## 142
+w: the Lord  says  Bhaṭṭācārya  make  consideration
+w: of the guru  the servant  is  worthy of honour  for Me
+tr: The Lord said, “Bhaṭṭācārya, consider this: My guru’s servant is worthy of My respect.
+
+## 143
+w: him  service to Myself  to have him do  not  is proper
+w: the guru  the order  has given  what  can I do  remedy
+tr: It is not proper for Me to have him serve Me, yet My guru has ordered it. What am I to do?”
+
+## 144
+w: Bhaṭṭa  says  of the guru  the order  is  powerful
+w: the guru’s order  not  one transgresses  scripture  the evidence
+tr: The Bhaṭṭa said, “The guru’s order is mighty, and one must not transgress it. Scripture bears witness to this:
+
+## 145
+w: he  having heard  on his mother  by Bhārgava
+w: of the father  by the order  a blow struck  as on an enemy
+w: accepted  of the elder brother  the command  that
+w: the order  of elders  indeed  not to be deliberated
+tr: “Lakṣmaṇa had heard how Paraśurāma, on his father’s order, struck down even his own mother as though she were an enemy; and so he accepted his elder brother’s command, for the orders of one’s elders are not to be questioned.” (Raghuvaṁśa, 14.46)
+fn: *Anubhāṣya*: the command of Śrī Rāmacandra was to take Sītā to the forest. The source is given as in the edition (*Raghuvaṁśa*, canto 14, verse 46).
+
+## 146
+w: without deliberation  of the guru  the order
+w: by me  must be carried out  of the great soul
+w: the good  indeed  thus  for you  and
+w: for me  and also  especially
+tr: “I must carry out the order of my guru, that great soul, without deliberation; in this lies your good, and mine above all.” (Rāmāyaṇa, Ayodhyā-kāṇḍa, 22.9)
+fn: *Anubhāṣya*: the guru here is Rāma’s father, Daśaratha.
+
+## 147
+w: then  Mahāprabhu  him  made  acceptance
+w: of His own  sacred  body  for the service  He gave  the right
+tr: Then Mahāprabhu accepted him and gave him the right to serve His own sacred person.
+
+## 148
+w: of the Lord  dear  servant  as  all  give  honour
+w: all  of the Vaiṣṇavas  Govinda  does  care
+tr: Everyone honoured Govinda as the Lord’s dear servant, and Govinda looked after all the Vaiṣṇavas.
+
+## 149
+w: junior  senior kīrtana singer  two  Haridāsas
+w: Rāmāi  Nandāi  stay  of Govinda  by the side
+tr: The two Haridāsas, the junior and the senior, both kīrtana singers, and Rāmāi and Nandāi stayed with Govinda.
+
+## 150
+w: with Govinda  together  they do  of the Lord  service
+w: of Govinda  of the fortune  the limit  not  can be  described
+tr: Together with Govinda they served the Lord. No one can describe how boundless Govinda’s good fortune was.
+
+## 151
+w: the next  day  Mukunda Datta  says  to the Lord  at His place
+w: Brahmānanda Bhāratī  has come  for Your  sight
+tr: The next day Mukunda Datta came to the Lord and said, “Brahmānanda Bhāratī has come to see You.
+
+## 152
+w: permission  give  if  him  shall I bring  here
+w: the Lord  says  guru  he  I shall go  his  to the presence
+tr: If You permit, shall I bring him here?” The Lord said, “He is a guru to Me; I shall go to him Myself.”
+fn: *Anubhāṣya* (heading): the Lord keeps to propriety (*maryādā*); at 173 Brahmānanda Bhāratī is called “equal to a guru.” *Amṛta-pravāha-bhāṣya*: Brahmānanda Bhāratī was worthy of the Lord’s respect through his relation to Keśava Bhāratī.
+
+## 153
+w: this  saying  Mahāprabhu  with the devotees
+w: setting out  came  of Brahmānanda Bhāratī  before
+tr: Saying this, Mahāprabhu set out with the devotees and came before Brahmānanda Bhāratī.
+
+## 154
+w: Brahmānanda  had put on  of deerskin  a garment
+w: that  seeing  the Lord  pain  felt  at heart
+tr: Brahmānanda was wearing a deerskin, and when the Lord saw it He was pained at heart.
+
+## 155
+w: seeing  indeed  pretence  He made  as if  He sees  not
+w: Mukunda  He asks  where  Bhāratī Gosāñi
+tr: Though He saw him, He pretended not to, and asked Mukunda, “Where is Bhāratī Gosāñi?”
+
+## 156
+w: Mukunda  says  here  in front  see  present
+w: the Lord  says  he  is not  you  are ignorant
+tr: Mukunda said, “Here he is, right before You.” The Lord said, “That is not he. You are mistaken.
+
+## 157
+w: one  as another  you call  there is not  your  knowledge
+w: Bhāratī Gosāñi  why  would wear  a hide
+tr: You are taking someone else for him; you simply do not know. Why would Bhāratī Gosāñi wear a hide?”
+
+## 158
+w: hearing  Brahmānanda  makes  in his heart  reflection
+w: my  skin garment  this  not  pleases  Him
+tr: Hearing this, Brahmānanda reflected in his heart: “He does not like this skin garment of mine.
+
+## 159
+w: rightly  He speaks  the skin garment  pride  for the sake of  I wear
+w: by wearing a skin garment  saṁsāra  not  I cross
+tr: He is right: I wear this skin only out of pride. Wearing a skin will not carry me across saṁsāra.
+fn: *Anubhāṣya* (on 154): a garment of skin, grass or bark is worn only by one who has left home for the forest (*Manu-saṁhitā*, ch. 6); but to wear a skin out of pride, to win people’s regard, does not free one from saṁsāra: “Though the fruit of the kataka tree clears water, the water does not become clear merely by uttering its name” (*Manu* 6.67) — so the mere bearing of outer signs is not the cause of dharma.
+
+## 160
+w: today  from  not  I shall wear  this  skin garment
+w: the Lord  the outer cloth  had brought  knowing  his heart
+tr: From today I shall not wear this skin.” Knowing his heart, the Lord had a sannyāsī’s outer cloth brought for him.
+
+## 161
+w: the skin garment  casting off  Brahmānanda  put on  cloth
+w: the Lord  coming  made  his  feet  worship
+tr: When Brahmānanda had cast off the skin and put on cloth, the Lord came and bowed at his feet.
+
+## 162
+w: Bhāratī  says  Your  conduct  people  to teach
+w: again  not  You will make  obeisance  fear  I feel  in my heart
+tr: Bhāratī said, “Your conduct is meant to teach people. I am afraid in my heart that You will not bow to me again.
+fn: *Anubhāṣya*: “Your conduct is only to teach people. If I do not keep the right conduct You expect of me, You Yourself will not bow to me again and will disregard me. That is what I fear.”
+
+## 163
+w: at present  “two Brahmans”  here  “moving and unmoving”
+w: Jagannātha  unmoving  You  Brahman  moving
+tr: Now there are two Brahmans here, the moving and the unmoving: Jagannātha is the unmoving Brahman, and You are the moving Brahman.
+fn: *Anubhāṣya*: the Deity of Śrī Jagannātha is the unmoving Brahman, and Śrī Caitanya Mahāprabhu the moving Brahman; both, the masters of māyā, are now present in Śrī Puruṣottama. At 166 the Lord plays on the name “Brahmānanda.”
+
+## 164
+w: You  golden-coloured  He  dark-coloured
+w: the two  Brahmans  have made  of the whole  world  deliverance
+tr: You are golden in colour and He is dark; these two Brahmans have delivered the whole world.”
+
+## 165
+w: the Lord  says  the truth  I speak  by your  arrival
+w: two  Brahmans  have appeared  in Śrī Puruṣottama
+tr: The Lord said, “I tell you the truth: with your arrival two Brahmans have become manifest in Śrī Puruṣottama.
+
+## 166
+w: “Brahmānanda”  named  you  the golden Brahman  “moving”
+w: dark-coloured  Jagannātha  is seated  “unmoving”
+tr: You, whose name is Brahmānanda, are the golden Brahman, the moving one, while dark Jagannātha sits there unmoving.”
+
+## 167
+w: Bhāratī  says  Sārvabhauma  arbiter  becoming
+w: Him  with  my  “argument”  judge  attention  giving
+tr: Bhāratī said, “Sārvabhauma, be the arbiter and consider carefully this argument between Him and me.
+
+## 168
+w: “pervaded”  “pervader”  in the relation  the jīva  Brahman  I know
+w: the jīva  pervaded  Brahman  the pervader  in scripture  it is explained
+tr: I understand the jīva and Brahman as the pervaded (*vyāpya*) and the pervader (*vyāpaka*): the jīva is the pervaded and Brahman the pervader, as scripture explains.
+
+## 169
+w: the skin  removing  He made  of me  purification
+w: of us two  in the relation of pervaded and pervader  this  indeed  the reason
+tr: He has purified me by removing my skin, and the reason is just this: He is the pervader, and I am the pervaded.
+fn: *Amṛta-pravāha-bhāṣya*: Brahman is all-pervading (*vyāpaka*), while the jīva is atomic (*aṇu*) and pervaded by Brahman. He who took off my skin and purified me is the pervader, and I am the pervaded; so judge who is “Brahman” here — I, Brahmānanda Bhāratī, or He, Kṛṣṇa Caitanya.
+
+## 170
+w: of golden  colour  with limbs of gold
+w: with beautiful limbs  wearing sandal armlets
+w: sannyāsa  taking  self-restrained  peaceful
+w: to steadfastness and peace  devoted
+tr: “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 75)
+fn: The same verse as Ādi 3.49 (= Madhya 6.104); translation as there. Here the edition gives the source as Dāna-dharma, chapter 127 (at Ādi 3.49, 149); the reference is kept as at Ādi 3.49.
+
+## 171
+w: these  all  of the names  He  is  the very abode
+w: anointed with sandal  the prasāda cords  on both arms  armlets
+tr: He is the very abode of all these names: the sandal-anointed prasāda cords on His two arms are His armlets.”
+fn: *Amṛta-pravāha-bhāṣya*: the armlets on the Lord’s arms are the prasāda cord itself, smeared with sandal; so the name *candanāṅgadī* (“wearing sandal armlets”) of verse 170 finds its place in Him.
+
+## 172
+w: Bhaṭṭācārya  says  Bhāratī  I see  your  victory
+w: the Lord  says  whatever  you say  that  true  is
+tr: The Bhaṭṭācārya said, “Bhāratī, I see that the victory is yours.” The Lord said, “Whatever you say is true.
+
+## 173
+w: of guru and disciple  in a dispute  of the disciple  certain  defeat
+w: Bhāratī  says  this  is not  another  reason  there is
+tr: In a dispute between guru and disciple, the disciple’s defeat is certain.” Bhāratī said, “That is not so; there is another reason.
+
+## 174
+w: before the devotees  You lose  You  this  Your  nature
+w: another  one  hear  You  Your own  glory
+tr: It is Your nature to be defeated by Your devotees. And hear one thing more, about Your own power.
+
+## 175
+w: since birth  practised  I  “formless” meditation
+w: You  seeing  Kṛṣṇa  became  to me  manifest
+tr: All my life I meditated on the formless, but now that I have seen You, Kṛṣṇa has become manifest before me.
+
+## 176
+w: Kṛṣṇa’s name  springs up  on my lips  in mind and eyes  Kṛṣṇa
+w: You  as that form  seeing  my heart  thirsting
+tr: The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see that very form in You, and my heart is filled with longing.
+
+## 177
+w: Bilvamaṅgala  underwent  just as  the state  his own
+w: Him  seeing  that  state  has become  mine
+tr: The very change that Bilvamaṅgala underwent has come over me on seeing Him:
+
+## 178
+w: of nondualism  the path  by travellers  worshipped
+w: on the throne of self-bliss  having received initiation
+w: by a cunning  certain  we  by force
+w: maidservants  made  of the cowherd wives  by the lover
+tr: “I was worshipped by those who walk the path of non-dualism, and I had received initiation on the throne of the bliss of the self; yet a certain rogue, a lover of the cowherd maidens, has forcibly made me a maidservant.” (Śrī Kṛṣṇa-karṇāmṛta)
+fn: The source is given as in the edition. *Anubhāṣya*: “we” is a plural of respect, to be understood as “I”; the travellers on the path of advaita are the *kevalādvaitins*, who teach the formless Brahman; those “initiated on the throne of their own bliss” are such as follow the path of yoga; the rogue, the lover of the cowherd maidens, is the son of Nanda. Bilvamaṅgala Ṭhākura had been an advaitin in a former life, then became a devotee of Kṛṣṇa and told of it himself (on 175–177).
+
+## 179
+w: the Lord  says  for Kṛṣṇa  your  deep  love  is
+w: wherever  the eyes  fall  there  Kṛṣṇa’s manifestation  is
+tr: The Lord said, “You have deep love for Kṛṣṇa; wherever your eyes fall, Kṛṣṇa manifests to you.”
+
+## 180
+w: Bhaṭṭācārya  says  Your  is  true  word
+w: before (him)  if  Kṛṣṇa  gives  direct  sight
+tr: The Bhaṭṭācārya said, “What You say is true — if Kṛṣṇa has indeed appeared before him face to face.
+fn: *Anubhāṣya* (on 179–181): what Mahāprabhu says — that the mahā-bhāgavata Brahmānanda has seen Kṛṣṇa — is true, for Kṛṣṇa appears face to face before a mahā-bhāgavata; but without abundant prema such vision is impossible, and Brahmānanda saw Kṛṣṇa by Mahāprabhu’s mercy.
+
+## 181
+w: love  without  ever  is not  His  direct vision
+w: His  by the mercy  there is  sight  his
+tr: Without prema there is never a direct vision of Him; it is by the mercy of this One that Bhāratī has had His darśana.”
+fn: *Anubhāṣya*: the first *iṅhāra* means “by the mercy of Śrī Mahāprabhu,” the second “Brahmānanda Bhāratī’s”: he had darśana, that is, he saw Kṛṣṇa.
+
+## 182
+w: the Lord  says  “Viṣṇu”  “Viṣṇu”  what  you say  Sārvabhauma
+w: “excessive praise”  is  this  of censure  the mark
+tr: The Lord said, “Viṣṇu! Viṣṇu! What are you saying, Sārvabhauma? Such excessive praise is a mark of censure.”
+
+## 183
+w: this  saying  Bhāratī  taking  to His own residence  He came
+w: Bhāratī Gosāñi  of the Lord  near  stayed
+tr: Saying this, the Lord brought Bhāratī to His own residence, and from then on Bhāratī Gosāñi stayed with Him.
+
+## 184
+w: Rāmabhadrācārya  and  Bhagavān  Ācārya
+w: at the Lord’s feet  stayed  both  leaving  all  affairs
+tr: Rāmabhadrācārya and Bhagavān Ācārya also stayed at the Lord’s feet, setting aside all other affairs.
+fn: *Anubhāṣya*: on Rāmabhadrācārya see Ādi 10.148; on Bhagavān Ācārya, Ādi 10.135–136.
+
+## 185
+w: Kāśīśvara  Gosāñi  came  the next  day
+w: honour  showing  the Lord  kept  His own  place
+tr: The next day Kāśīśvara Gosāñi came, and the Lord received him with honour and kept him with Himself.
+fn: *Anubhāṣya*: on Kāśīśvara see the *Anubhāṣya* to Ādi 8.66; Murāri’s diary says: “Then all the devotees who lived in Gauḍa wished to go to Nīlācala to see Gaurāṅga: Śrī Kāśīśvara Gosvāmī…”
+
+## 186
+w: the Lord  taking  he gives  of the Lord  the sight
+w: of people  the crowd  ahead  all  making  keeping back
+tr: He would take the Lord for the darśana of Jagannātha, walking ahead and keeping back the crowds.
+
+## 187
+w: all  rivers  streams  as  in the ocean  merge
+w: so  of Mahāprabhu  the devotees  wherever  they  were
+tr: As all rivers and streams flow into the ocean, so Mahāprabhu’s devotees, wherever they were,
+
+## 188
+w: all  coming  met  of the Lord  at the holy feet
+w: the Lord  mercy  showing  all  kept  with Himself
+tr: all came and met at the Lord’s holy feet, and the Lord mercifully kept them all with Him.
+
+## 189
+w: thus  indeed  I have told  of the Lord  with the Vaiṣṇavas  meeting
+w: this  whoever  hears  attains  Caitanya’s  feet
+tr: Thus I have described the Lord’s meeting with the Vaiṣṇavas. Whoever hears this attains the feet of Caitanya.
+
+## 190
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

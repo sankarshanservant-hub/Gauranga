@@ -1,0 +1,509 @@
+# English translation, Antya-līlā 17 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 revision).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya17.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
+# One shift: verses 1–73 (scan pp. 1042–1048).
+# Verbatim from revised chapters: 2 (= Ādi 1.18), 31 (= Madhya 24.52), 71 (= Antya 16.86), 73 (= Ādi 1.110).
+
+## 0
+tr: The Tortoise Form in Ecstasy, and the Ravings of Madness
+
+## 1
+w: is described  of Śrīla  Gauracandra
+w: most  wonderful  unearthly
+w: by whom  seen  from their mouths  having heard
+w: of divine madness  the conduct
+tr: From the lips of those who saw them with their own eyes I have heard of the most wonderful, unearthly deeds of Śrīla Gauracandra in His divine madness, and now I describe them.
+fn: *Anubhāṣya*: those who saw it were the most fortunate intimate devotees headed by Dāmodara and Raghunātha; “wonderful” — such as had never been heard of, “unearthly” — such as had never been seen. Heading in the edition: the transcendental pastimes of Gaura, heard from the lips of the guru by the path of *śrauta* (hearing).
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: in this way  Mahāprabhu  night  and day
+w: of madness  the behaviour  ravings  makes  absorbed in love
+tr: In this way, night and day, Mahāprabhu, absorbed in love, behaved like one mad and spoke in ravings.
+
+## 4
+w: one  day  the Lord  Svarūpa  Rāmānanda  with
+w: half  the night  passed  of Kṛṣṇa  talks  in the delight
+tr: One day the Lord passed half the night with Svarūpa and Rāmānanda, delighting in talks about Kṛṣṇa.
+
+## 5
+w: when  whatever  feeling  the Lord  makes  arise
+w: to the feeling  suited  a song  sings  Svarūpa  Mahāśaya
+tr: Whatever feeling arose in the Lord, Svarūpa Mahāśaya would sing a song to suit it.
+
+## 6
+w: Vidyāpati  Caṇḍīdāsa  the Śrī Gīta-govinda
+w: to the feeling  suited  verses  recites  Rāya  Rāmānanda
+tr: And Rāya Rāmānanda would recite verses suited to His feelings from Vidyāpati, Caṇḍīdāsa and the *Śrī Gīta-govinda*.
+
+## 7
+w: now and  then  Himself  the Lord  a verse  reciting
+w: of the verse  the meaning  makes  the Lord  lament  making
+tr: Now and then the Lord would Himself recite a verse and, lamenting, explain its meaning.
+
+## 8
+w: in this way  in various  feelings  half  the night  passed
+w: the Lord  to bed  having put  the two  home  went
+tr: So, amid many feelings, half the night went by. Then the two put the Lord to bed and went home.
+
+## 9
+w: of the Gambhīrā  at the door  Govinda  made  his bed
+w: at midnight  the Lord  makes  loud  saṅkīrtana
+tr: Govinda lay down to sleep at the door of the Gambhīrā, and at midnight the Lord began to chant the holy names aloud.
+
+## 10
+w: suddenly  hears  the Lord  of Kṛṣṇa’s  flute  the song
+w: absorbed in feeling  the Lord  there  made  departure
+tr: Suddenly the Lord heard the song of Kṛṣṇa’s flute and, absorbed in feeling, set off towards it.
+
+## 11
+w: in the three  doors  the panels  so  are  indeed  fastened
+w: absorbed in feeling  the Lord  went  outside  becoming
+tr: The three doors stayed shut as they were, yet the Lord, lost in that feeling, passed outside.
+
+## 12
+w: of the Siṁha-dvāra  to the south  are  Tailaṅga  cows  the herd
+w: there  going  fell  the Lord  becoming  unconscious
+tr: To the south of the Siṁha-dvāra there was a herd of cows from Tailaṅga. The Lord went there and fell down unconscious.
+
+## 13
+w: here  Govinda  of Mahāprabhu  the sound  not  getting
+w: Svarūpa  called  the doors  opening
+tr: Meanwhile Govinda, no longer hearing any sound from Mahāprabhu, opened the doors and called Svarūpa.
+
+## 14
+w: then  Svarūpa  Gosāñi  with  taking  the devotees
+w: torches  lighting  make  for the Lord  a search
+tr: Then Svarūpa Gosāñi took the devotees with him, and they lit torches and went in search of the Lord.
+
+## 15
+w: here and  there  searching  to the Siṁha-dvāra  went
+w: of the cows  among  going  the Lord  found
+tr: After searching here and there, they went to the Siṁha-dvāra and found the Lord among the cows.
+
+## 16
+w: of the belly  inside  hands  and feet  of a tortoise  the shape
+w: in the mouth  foam  thrilled limbs  in the eyes  streams of tears
+tr: His hands and feet had drawn inside His body, and He had the shape of a tortoise. There was foam at His mouth, the hair of His body stood on end, and tears streamed from His eyes.
+
+## 17
+w: unconscious  is lying  like  a pumpkin  fruit
+w: outside  stupor  within  with bliss  overwhelmed
+tr: He lay unconscious, like a great pumpkin: outwardly inert, but within overwhelmed with bliss.
+
+## 18
+w: cows  all  on every side  sniff  the Lord’s  holy  body
+w: away  driven  not  leave  the Lord’s  holy  body’s  company
+tr: On every side the cows were sniffing the Lord’s holy body; even when driven away, they would not leave His side.
+
+## 19
+w: much  made  effort  not  becomes  conscious
+w: the Lord  lifting  home  brought  the devotees
+tr: The devotees tried hard to revive Him, but He did not regain consciousness. Then they lifted the Lord and carried Him home.
+
+## 20
+w: loud  making  in the ears  make  of the name  saṅkīrtana
+w: after a long  while  Mahāprabhu  regained  consciousness
+tr: They sang the holy name loudly into His ears, and after a long while Mahāprabhu regained consciousness.
+fn: Heading in the edition: by the loud *saṅkīrtana* the Lord regains consciousness — a half-outward consciousness (*ardha-bāhya*).
+
+## 21
+w: conscious  when He became  hands  and feet  outside  came
+w: as before  in proper proportion  the body  became
+tr: As He came to Himself, His hands and feet emerged again, and His body returned to its proper form, as before.
+
+## 22
+w: rising  sat  the Lord  looks  here and there
+w: to Svarūpa  says  you  Me  have brought  where
+tr: The Lord sat up and looked about Him. He said to Svarūpa, “Where have you brought Me?
+
+## 23
+w: the flute’s  sound  hearing  I  went  to Vṛndāvana
+w: I see  in the pasture  the flute  plays  of the king of Vraja  the son
+tr: Hearing the sound of the flute, I went to Vṛndāvana, and I saw the son of the king of Vraja playing His flute in the pasture.
+
+## 24
+w: of the signal  of the flute  at the call  Rādhā  went  to the bower  house
+w: to the bower  went  Kṛṣṇa  pastimes  to make
+tr: At the signal call of His flute Rādhā went to the bower, and Kṛṣṇa too went there for His pastimes.
+
+## 25
+w: Him  behind  behind  I  made  going
+w: His  ornaments’  by the jingling  My  was stolen  hearing
+tr: I followed close behind Him, and the jingling of His ornaments captivated My ears.
+
+## 26
+w: the gopīs  with  pastimes  laughter  jesting
+w: voice’s  sound  words  hearing  My  ears’ joy
+tr: Kṛṣṇa was enjoying His pastimes with the *gopīs*, laughing and jesting, and My ears rejoiced to hear His voice and His words.
+
+## 27
+w: at that time  you  all  an uproar  making
+w: Me  here  taking  brought  force  using
+tr: Just then all of you raised an uproar and brought Me here by force.
+
+## 28
+w: to hear  not  did I get  those  nectar  like  words
+w: to hear  not  did I get  of the ornaments  of the flute  the sound
+tr: I could no longer hear those words, sweet as nectar; I could no longer hear the jingling of His ornaments and the sound of His flute.”
+
+## 29
+w: absorbed in feeling  to Svarūpa  says  choked  words
+w: My ears  with thirst  I die  recite  nectar of rasa  I shall hear
+tr: Absorbed in feeling, the Lord said to Svarūpa in a choked voice, “My ears are dying of thirst. Recite something full of the nectar of *rasa* — let Me hear it.”
+
+## 30
+w: Svarūpa  Gosāñi  of the Lord  the mood  knowing
+w: of the Bhāgavata  a verse  recites  sweet  making
+tr: Svarūpa Gosāñi, knowing the Lord’s mood, sweetly recited a verse from the *Bhāgavata*:
+
+## 31
+w: what  woman  O dear one  Your  of sweet words  by the nectar  of the flute  by the song
+w: enchanted  from the conduct of the noble  not  would stray  in the three worlds
+w: of the three worlds  the beauty  this  and  having seen  form
+w: which  cows  birds  trees  deer  thrills of rapture  bore
+tr: “O Kṛṣṇa, what woman in the three worlds, enchanted by the song of Your flute with its sweet, nectarean notes, would not stray from the conduct of the noble? Seeing this form of Yours, the beauty of the three worlds, even cows, birds, trees and deer bristle with rapture.” (Śrīmad-Bhāgavatam, 10.29.40)
+fn: The same verse as Madhya 24.52; translation as there. The *Anubhāṣya* refers to Madhya 24.52. Heading in the edition: the sweetness of Kṛṣṇa’s flute enchants and draws all His servants, whatever they may be.
+
+## 32
+w: hearing  the Lord  in the mood of the gopīs  absorbed  became
+w: of the Bhāgavata  the verse’s meaning  to make  began
+tr: Hearing this, the Lord became absorbed in the mood of the *gopīs* and began to explain the meaning of the verse:
+
+## 33
+w: there was  in the gopīs’  mood  absorption
+w: made  into the rāsa  entry
+w: Kṛṣṇa’s  hearing  of disregard  words
+w: Kṛṣṇa’s  mouth’s  smiling  words
+w: as rejection  them  true  taking
+w: in anger  to Kṛṣṇa  gives  reproach
+tr: Immersed in that mood, He entered the *rāsa* dance. There He heard Kṛṣṇa, smiling, speak words of indifference, and, taking them for a true rejection, He reproached Kṛṣṇa in anger:
+fn: Heading in the edition: a gopī describes her feelings for Kṛṣṇa (*citra-jalpa*). *Amṛta-pravāha-bhāṣya*: in the *rāsa-līlā* the gopīs heard Kṛṣṇa’s indifferent words and took it as true that He had rejected them.
+
+## 34
+w: O lover  say  You  making  certain
+w: these  three worlds  filling
+w: there are  as many  worthy  women
+w: Your  flute  whom  not  attracts
+tr: “O Beloved, tell us truly: of all the worthy women who fill the three worlds, which is not drawn by Your flute?
+
+## 35
+w: You made  in the world  the flute’s  sound
+w: of perfected mantras  a yoginī
+w: a go-between  becoming  enchants  women’s  minds
+w: great  longing  increasing
+w: the noble  path  making them leave
+w: bringing  to You  makes  offering
+tr: You sent the sound of Your flute into the world, and like a *yoginī* perfect in her mantras, it becomes a go-between and enchants the minds of women. It swells their longing, makes them forsake the path of the noble, and delivers them to You.
+
+## 36
+w: dharma  You make them leave  by the flute
+w: You strike  of glances  of Kāma  with the arrows
+w: shame  fear  all  You make them leave
+w: now  at us  making  anger
+w: saying  husbands  in leaving  a fault
+w: righteous  becoming  dharma  You teach
+tr: With Your flute You make us abandon *dharma*; You strike us with the arrows of Kāma, Your sidelong glances, and make us cast off shame and fear and everything else. And now You are angry with us, You say it is wrong to leave our husbands, and, like a man of virtue, You teach us *dharma*!
+fn: Heading in the edition: “The transcendental young Madana, or Kāmadeva Anaṅga.”
+
+## 37
+w: other  words  other  mind
+w: outwardly  other  conduct
+w: this  all  of a cheat  the artifices
+w: You  know  jest
+w: is  women’s  utter ruin
+w: give up  these  all  tricks
+tr: Your words say one thing, Your mind another, and outwardly You act in yet another way — all these are the artifices of a cheat. For You it is a jest, but for women it is utter ruin. Give up all these tricks!
+
+## 38
+w: the flute’s  sound  nectar  outdoes
+w: nectar  equal  sweet  words
+w: nectar  equal  the ornaments’  jingling
+w: by the three  nectars  steals  the ears
+w: steals  the mind  steals  the life
+w: how  a woman  will hold  her heart
+tr: The sound of Your flute outdoes nectar; Your sweet words are like nectar, and the jingling of Your ornaments is like nectar too. With these three nectars You steal our ears, You steal our minds, You steal our very life. How can a woman keep hold of her heart?”
+fn: *Anubhāṣya*: *ghole* — from the colloquial *ghola khāoyāya*, “makes [it] drink buttermilk”, that is, outdoes, overpowers nectar. *Amṛta-pravāha-bhāṣya* understands it otherwise: the sound of the flute is nectarean buttermilk. In other editions (variant readings noted in the *Anubhāṣya*) — *role*, “with the sound”, and *ugāre*, “pours forth”.
+
+## 39
+w: so much  saying  absorbed in anger
+w: of feeling  on the waves  floats
+w: of longing  in the ocean  sinks  the mind
+w: Rādhā’s  longing  words
+w: reciting  Himself  explaining
+w: Kṛṣṇa’s  sweetness  makes  tasting
+tr: Having said this in anger, He floated on the waves of feeling, and His mind sank into an ocean of longing. Then He recited the words of Rādhā in Her yearning and, explaining them Himself, tasted the sweetness of Kṛṣṇa:
+
+## 40
+w: of a thundering  cloud  whose voice  the ears  drawing  lovely  jingling
+w: of jest  rasa  hinting  syllables  words  meanings  artful  speech
+w: of Ramā and the others  of the fairest women  the hearts  stealing  of the flute  the soft note
+w: He  My  Madana-mohana  O friend  increases  of the ears  the longing
+tr: “O friend, His voice is like the rumbling of a thundercloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and other lovely women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
+
+## 41
+w: of the voice  deep  sound
+w: of a new cloud  the rumbling  conquering
+w: whose  by the quality  the cuckoo  is put to shame
+w: of it  one  of hearing  by a drop
+w: drowns  of the world  the ears
+w: again  the ears  returning  not  come
+tr: “The deep sound of His voice conquers the rumbling of a new cloud, and its sweetness puts the cuckoo to shame. Even a single drop of it, entering the ear, drowns the ears of the world, and those ears never come back again.
+fn: *Amṛta-pravāha-bhāṣya*: the “ears” of the world are the other sounds of the world — once the least particle of this sound enters the ear, it so drowns them that they never come back.
+
+## 42
+w: tell  O friend  what  shall I do  means
+w: of Kṛṣṇa  that  sound’s  by the qualities
+w: were stolen  My  ears
+w: now  not  get  of thirst  dying  go
+tr: Tell Me, O friend, what shall I do? The charms of that sound of Kṛṣṇa’s stole My ears, and now, deprived of it, they are dying of thirst.
+
+## 43
+w: of the anklets  of the waist-bells  the sound
+w: of swans  and cranes  conquering
+w: the bracelets’  sound  the caṭaka birds  puts to shame
+w: once  whoever  hears
+w: pervading  stays  in his  ears
+w: another  sound  into those  ears  not  goes
+tr: The sound of the bells on His ankles and waist conquers the cries of swans and cranes, and the jingling of His bracelets puts the *caṭaka* birds to shame. Once anyone hears it, it fills his ears and stays there, and no other sound can enter them again.
+fn: The *caṭaka* is a small chirping bird, the sparrow — not the *cātaka* that drinks only the rain (Antya 15.65). *Amṛta-pravāha-bhāṣya*: the *caṭaka* is a particular bird.
+
+## 44
+w: those  holy  mouth’s  words
+w: nectar  than  higher nectar
+w: of the smile  the camphor  in them  mixed
+w: sound  meaning  two  powers
+w: various  rasas  make  manifest
+w: every syllable  with jest  adorned
+tr: The words of His holy mouth are a nectar higher than nectar, and the camphor of His smile is mixed into them. Their two powers, sound and meaning, bring out every kind of *rasa*, and every syllable is adorned with jest.
+fn: *Amṛta-pravāha-bhāṣya*: the two powers are the power of sound (*śabda-śakti*) and the power of meaning (*artha-śakti*); the words bring out the various rasas, beginning with *śṛṅgāra*.
+
+## 45
+w: that  of nectar  one  drop
+w: of the ears  the cakora  the life
+w: of the ears  the cakora  lives  on that  hope
+w: by fortune  sometimes  gets
+w: by misfortune  sometimes  not  gets
+w: not  getting  dies  of thirst
+tr: One drop of that nectar is the very life of the *cakora* bird of the ears, and on the hope of it alone that *cakora* lives. Sometimes, by good fortune, it gets that drop; sometimes, by ill fortune, it goes without, and then it dies of thirst.
+
+## 46
+w: which  the flute’s  sweet  sound
+w: once  it  hearing
+w: of the world  the women’s  hearts  are thrown into turmoil
+w: the sash  knots  fall  slipping loose
+w: without  price  become  maidservants
+w: crazed  becoming  to Kṛṣṇa’s  side  run
+tr: Let the women of the world hear but once the sweet sound of His flute, and their hearts are thrown into turmoil. The knots of their sashes slip loose; they become His unbought maidservants and, as if crazed, run to Kṛṣṇa’s side.
+
+## 47
+w: even  Lakṣmī  the goddess
+w: she  that  soft song  hearing
+w: to Kṛṣṇa’s  side  comes  in hope
+w: not  gets  Kṛṣṇa’s  company
+w: grow  of thirst  the waves
+w: austerity  performs  still  not  gets
+tr: Even the goddess Lakṣmī, hearing that soft song, comes to Kṛṣṇa in hope. But she does not obtain Kṛṣṇa’s company; the waves of her thirst only swell, and though she performs austerities, she still does not attain Him.
+
+## 48
+w: these  sound-nectars  four
+w: whose  is  fortune  great
+w: he  with his ears  this  makes  drinking
+w: this  who  not  hears
+w: those  ears  were born  why
+w: a cracked cowrie  like  those  ears
+tr: Only one whose fortune is great drinks these four nectars of sound with his ears. As for one who does not hear them — why were such ears ever born? They are no better than a cracked cowrie shell.”
+fn: *Amṛta-pravāha-bhāṣya*: the four nectars of sound are Kṛṣṇa’s words, the jingling of His ankle-bells and bracelets, His voice and the sound of His flute.
+
+## 49
+w: making  such  lament
+w: arose  agitation  feeling
+w: in the mind  any  no  support
+w: agitation  despondency  resolve
+w: eagerness  fear  steadiness  remembrance
+w: of various  feelings  there was  a meeting
+tr: As He lamented in this way, agitation and other feelings arose in Him, and His mind had nothing to hold on to. Agitation, despondency, resolve, eagerness, fear, steadiness and remembrance — so many feelings came together in Him at once.
+fn: Heading in the edition: the mingling of feelings (*bhāva-śābalya*) in the Lord.
+
+## 50
+w: in the mixture of feelings  Rādhā’s  words
+w: in Līlāśuka  was  revealed
+w: in that  feeling  recites  one  verse
+w: of madness  by the power
+w: that  verse’s  makes  meaning
+w: which  meaning  not  know  people
+tr: Rādhā’s words, spoken in such a mixture of feelings, had been revealed to Līlāśuka. In that same mood the Lord recited one of his verses and, by the power of His divine madness, drew out a meaning that people do not know:
+fn: *Amṛta-pravāha-bhāṣya*: Līlāśuka is Bilvamaṅgala Gosvāmī (Bilvamaṅgala Ṭhākura). In other editions (as noted in the *Anubhāṣya*) — “Līlāsukha”.
+
+## 51
+w: what  here  shall we do  to whom  shall we speak  done  is done  in hope
+w: speak  talk  other  auspicious  alas  in the heart  lying
+w: in the sweetest  sweet  smiling form  of mind  and eyes  the festival
+w: wretched  most wretched  for Kṛṣṇa  thirst  ever longer  alas  grows
+tr: “What are we to do now? To whom can we speak? What was done in hope of Him is done. Speak of something else, something auspicious. Ah, but He lies in My heart! For Kṛṣṇa — the festival of mind and eyes, whose smiling form is sweeter than the sweetest — My wretched, most wretched thirst, alas, grows ever longer.” (Kṛṣṇa-karṇāmṛta, 42)
+fn: *Anubhāṣya*: “we” — Rādhā and Her friends, for they are in the same plight; the one lying in the heart is the enemy Kāma, who cannot be driven out and who is killing Her; the thirst is “wretched, most wretched”, that is, faint with longing.
+
+## 52
+w: this  of Kṛṣṇa  in separation
+w: from agitation  the mind  steady  is not
+w: of attaining  the means  thinking of  not  goes
+w: and  you  friends
+w: with despondency  crazed  mind
+w: whom  shall I ask  who  will tell  the means
+tr: “In this separation from Kṛṣṇa My mind is so agitated that it cannot be still, and I cannot think how to attain Him. And you, My friends — your minds too are crazed with despondency. Whom shall I ask? Who will tell Me the way?
+
+## 53
+w: alas  alas  O friend  what  shall I do  means
+w: what  shall I do  where  shall I go
+w: where  going  Kṛṣṇa  shall I find
+w: Kṛṣṇa  without  life  My  goes
+tr: Alas, alas, O friend, what shall I do? What can I do, where can I turn? Where must I go to find Kṛṣṇa? Without Kṛṣṇa My life is leaving Me.”
+
+## 54
+w: for a moment  the mind  steady  becomes
+w: then  in the mind  considers
+w: speaking  there was  a feeling’s rising
+w: Piṅgalā’s  words’  remembrance
+w: brought about  a feeling  resolve
+w: by that  makes  of the meaning  determination
+tr: For a moment His mind became steady, and He reflected. But as soon as He began to speak, a new feeling arose: the remembrance of Piṅgalā’s words brought Him to a resolve, and in that mood He settled the meaning of the verse:
+fn: *Amṛta-pravāha-bhāṣya*: Piṅgalā said, “Hope is the greatest misery; giving up hope is the greatest happiness” (*Śrīmad-Bhāgavatam* 11.8.44). *Anubhāṣya*: for the story of Piṅgalā see Śrīmad-Bhāgavatam, 11.8.22–44, and the *Mahābhārata*, *Śānti-parva* (*Mokṣa-dharma-parva*), ch. 174.
+
+## 55
+w: I see  this  means
+w: for Kṛṣṇa  hope  I shall give up
+w: hope  giving up  happy  becomes  the mind
+w: leaving  of Kṛṣṇa  talk  inauspicious
+w: speak  other  talk  auspicious
+w: whereby  is  of Kṛṣṇa  forgetting
+tr: “I see only this way: I will give up My hope for Kṛṣṇa. Once hope is gone, the mind is happy. Leave this inauspicious talk of Kṛṣṇa and speak of something else, something auspicious, so that I may forget Him.”
+
+## 56
+w: even as She spoke  there was  remembrance
+w: in the heart  there was  Kṛṣṇa’s  manifestation
+w: to the friend  says  becoming  astonished
+w: whom  I want  to give up
+w: He  lying  is  in the heart
+w: by any  way  not  can I  give up
+tr: But even as She spoke, She remembered Him, and Kṛṣṇa appeared in Her heart. In astonishment She told Her friend, “He whom I want to forsake lies in My heart, and try as I may, I cannot let Him go.”
+fn: Heading in the edition: Kṛṣṇa, as the transcendental Kāmadeva, takes possession of the heart.
+
+## 57
+w: of Rādhā’s  feeling  the nature  is other
+w: in Kṛṣṇa  makes  of Kāma  the perception
+w: in the perception of Kāma  fear  arose  in the heart
+w: says  who  the world  strikes down
+w: he  has entered  within
+w: this  enemy  not  lets  forget
+tr: Such is the wondrous nature of Rādhā’s feeling that it made Her see Kṛṣṇa as Kāmadeva, and at that thought Her heart was seized with fear. She said, “He who strikes down the whole world has entered My heart. This enemy will not let Me forget Him.”
+fn: *Anubhāṣya*: *māre* — that is, “Māra”: He conquers the world as Kāmadeva. *Amṛta-pravāha-bhāṣya*: it makes Her see Kṛṣṇa as Kandarpa.
+
+## 58
+w: of eagerness  the supremacy
+w: conquering  other  feelings’  armies
+w: rising  there was  in its own  kingdom  in the mind
+w: in the mind  there was  craving
+w: not  is  under her own  control
+w: in sorrow  the mind  She makes  reproaches
+tr: Then eagerness, conquering the armies of all the other feelings, rose to supremacy in its own kingdom, Her mind. Craving seized that mind, and, no longer mistress of Herself, She reproached it in sorrow:
+
+## 59
+w: mind  My  wayward  wretched
+w: water  without  like  a fish
+w: Kṛṣṇa  without  in a moment  dying  goes
+w: sweet  smiling  by the face
+w: of mind  and eyes  the elixir
+w: for Kṛṣṇa  thirst  twofold  increases
+tr: “My mind is wayward and wretched. Like a fish without water, without Kṛṣṇa it dies in an instant. And Kṛṣṇa’s sweetly smiling face, the elixir of mind and eyes, makes My thirst for Him twice as great.
+fn: *Amṛta-pravāha-bhāṣya*: *vāma-dīna* — wretched through its waywardness (*vāmya*).
+
+## 60
+w: alas  alas  Kṛṣṇa  of life  the treasure
+w: alas  alas  lotus-eyed
+w: alas  alas  divine  of virtues  ocean
+w: alas  alas  Śyāmasundara
+w: alas  alas  yellow cloth  wearing
+w: alas  alas  of the rāsa  pastimes  lover
+tr: Alas, Kṛṣṇa, treasure of My life! Alas, lotus-eyed one! Alas, divine ocean of virtues! Alas, Śyāmasundara! Alas, You who wear yellow cloth! Alas, Beloved, playful hero of the *rāsa* dance!
+
+## 61
+w: where  going  You  shall I find
+w: You  say  there  I shall go
+w: so much  saying  went  running
+w: Svarūpa  rising  in his arms  taking
+w: the Lord  brought  holding
+w: in His own  place  seated  taking
+tr: Where must I go to find You? Tell Me, and I will go there!” Saying this, the Lord ran off. But Svarūpa rose, caught Him in his arms, brought Him back and seated Him in His own place.
+
+## 62
+w: in a moment  of the Lord  outer consciousness  came
+w: to Svarūpa  an order  gave
+w: Svarūpa  something  make  sweet  song
+w: Svarūpa  sings  Vidyāpati
+w: of the Gīta-govinda  songs
+w: hearing  the Lord’s  were soothed  ears
+tr: In a moment the Lord came back to outer consciousness and said to Svarūpa, “Svarūpa, sing something sweet.” Svarūpa sang songs of Vidyāpati and of the *Gīta-govinda*, and the songs soothed the Lord’s ears.
+
+## 63
+w: in this way  Mahāprabhu  every  night  and day
+w: of madness  the behaviour  is  in raving  words
+tr: In this way, every night and day, Mahāprabhu behaved like one mad and spoke in ravings.
+
+## 64
+w: in one  day  as many as  are  of feeling  transformations
+w: with a thousand  mouths  describes  if  not  reaches  the end
+tr: Even if one with a thousand mouths were to describe all the transformations of feeling that arose in Him in a single day, he could not reach their end.
+fn: *Anubhāṣya* (on 65): even Ananta-deva, of boundless power, cannot describe with a thousand mouths the pastimes of Śrī Gaurāṅga in divine madness.
+
+## 65
+w: a jīva  lowly  what  will make  of it  description
+w: of the branch and the moon  by the logic  I make  an indication
+tr: What can a lowly *jīva* like me describe of it? As one shows the moon by pointing to a branch, I give only an indication.
+
+## 66
+w: this  whoever  hears  his  are soothed  mind  and ears
+w: unearthly  secret  love’s  workings  becomes  knowledge
+tr: Whoever hears this finds his mind and ears soothed and comes to know the unearthly workings of hidden love.
+
+## 67
+w: wonderful  most secret  of love  the sweetness’  glory
+w: Himself  tasting  the Lord  showed  the limit
+tr: The Lord Himself tasted the wondrous sweetness of that most secret love in all its glory, and showed its utmost limit.
+
+## 68
+w: wonderfully  merciful  Caitanya  wonderfully  generous
+w: such  merciful  a giver  in the world  not  we hear  another
+tr: Caitanya is wonderfully merciful, wonderfully generous! We have never heard of another giver in this world so merciful.
+
+## 69
+w: with all  the heart  worship  O people  Caitanya’s  feet
+w: which  from  you will get  for Kṛṣṇa  of love  of the nectar  the treasure
+tr: O people, worship the feet of Caitanya with all your heart! From them you will receive a treasure — the nectar of love for Kṛṣṇa.
+
+## 70
+w: this  indeed  I have told  of the Lord  of the tortoise form  the state
+w: of madness  the behaviour  in it  of madness  ravings
+tr: Thus I have told how the Lord, in ecstasy, took the form of a tortoise, how He acted in His divine madness, and what ravings He uttered.
+fn: Heading in the edition: the divine madness of the Lord described — *udghūrṇā* and *citra-jalpa*.
+
+## 71
+w: this  pastime  in his own  book  Raghunātha  dāsa
+w: in the Caitanya-stava-kalpavṛkṣa  has  described
+tr: Raghunātha dāsa has described this pastime in his own book, the *Caitanya-stava-kalpavṛkṣa*:
+
+## 72
+w: not opening  of doors  the three  high  and  of walls  the three  ah
+w: crossing over  high  of Kaliṅga  the cows  among  fallen
+w: from the body’s  arising  contraction  a tortoise  like  from Kṛṣṇa  great  from separation
+w: shining  Gaurāṅga  in my heart  rising  me  maddens
+tr: “Ah! Without opening the three doors, He passed high over the three tall walls and fell among the cows of Kaliṅga. Through His great separation from Kṛṣṇa His body contracted, and He appeared like a tortoise. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 5)
+fn: *Anubhāṣya*: the three doors were in the house of Kāśī Miśra; “the cows of Kaliṅga” are the Tailaṅga cows — the capital of Tailaṅga, Kariṅga or Southern Kaliṅga, stood where the Godāvarī meets the sea, and a Tailaṅga cow is called in Sanskrit *kāliṅgika-surabhi*. Heading in the edition: the *Stavāvalī*, *Caitanya-stava-kalpavṛkṣa*, verse 5.
+
+## 73
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

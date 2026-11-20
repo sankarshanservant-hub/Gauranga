@@ -1,0 +1,602 @@
+# English translation, Ādi-līlā 16 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: A Brief Description of the Youthful Pastimes
+
+## 1
+w: of mercy  nectar  the river  whose
+w: the universe  flooding  although
+w: flowing downward  always  shines
+w: that  Caitanya Prabhu  I worship
+tr: I worship Caitanya Prabhu. The river of His nectarean mercy floods the whole universe, and yet, like every river, it always flows downward — to the lowly.
+fn: A play on words: *nīca-gā* means both “flowing downward” and “going to the lowly”. *Anubhāṣya*: the Lord’s mercy is always turned towards the humble and destitute, who have neither wealth nor greatness.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: may He be victorious  in His youth  Caitanya
+w: embodied  on entering household life
+w: by Lakṣmī  worshipped  then  by the goddess of speech
+w: of the directions  of the conqueror  of the conquest  under the pretext
+tr: Glory to Caitanya in His youth! When He entered household life, Lakṣmī herself served Him in visible form; and then Sarasvatī, the goddess of speech, worshipped Him as well, taking His victory over the conqueror of all directions as her occasion.
+fn: *Anubhāṣya*: Lakṣmī, having taken a body, served the Lord when He entered household life; Sarasvatī, the goddess of speech, honoured Him when He defeated the *digvijayī* — the scholar Keśava Kāśmīrī, “conqueror of the directions”. Heading in the edition: “Gaurahari, worshipped by Lakṣmī and Sarasvatī.”
+
+## 4
+w: thus  of youth  of the pastimes  of the outline  the sequence
+w: the students  to teach  He made  beginning
+tr: Here, in outline, are the pastimes of His youth. He began to teach students of His own.
+fn: *Anubhāṣya*: *kaiśora*, youth, is the period from the eleventh year of life to the fifteenth.
+
+## 5
+w: hundreds  hundreds  students  with  always  teaching
+w: the explanations  hearing  of all  people  astonished  minds
+tr: He taught constantly, with hundreds of students around Him, and all who heard His explanations were amazed.
+
+## 6
+w: in all the śāstras  all  paṇḍitas  meet  defeat
+w: by His courteous manner  anyone’s  pain  not  arises
+tr: In every branch of learning every paṇḍita met defeat at His hands, yet His manner was so courteous that no one was hurt.
+
+## 7
+w: various  pranks  He plays  the students  with
+w: in the Jāhnavī  water sports  He has  with many  delights
+tr: With His students He played all kinds of pranks, and they sported merrily in the waters of the Gaṅgā.
+
+## 8
+w: after some  days  made  the Lord  to Baṅga  journey
+w: wherever  He went,  there  He made them take up  of the holy name  the chanting
+tr: After some time the Lord went to East Bengal, and wherever He went He had the people take up the chanting of the holy name.
+fn: *Amṛta-pravāha-bhāṣya* (introduction to the chapter): the Lord went to East Bengal to gather funds; there He held learned discussions and spread the chanting of the holy name.
+
+## 9
+w: of learning  the power  seeing  wonder  in heart
+w: hundreds  hundreds  students  coming  began  to study
+tr: Seeing the power of His learning, hundreds of students came in wonder to study with Him.
+
+## 10
+w: in that  land  a brāhmaṇa,  named —  Miśra  Tapana
+w: to settle  could not  the goal and the means
+tr: In that land lived a brāhmaṇa named Tapana Miśra, who could not settle what the goal of life is and how it is reached.
+fn: *Amṛta-pravāha-bhāṣya*: *sādhya* is what is attained; *sādhana* is the means by which it is attained.
+
+## 11
+w: in many scriptures  in many statements  in mind  confusion  arises
+w: the goal and the means  best  not  is  certain
+tr: Many scriptures and many opinions had confused his mind, and he could not decide which goal is highest and which means is best.
+fn: *Anubhāṣya*: one who seeks the highest good should not study many books or live by expounding scripture (*Śrīmad-Bhāgavatam* 7.13.8); the flowery words of scriptures that nourish karma and knowledge lead the inexperienced away from pure devotion (11.21.30, 36). Through Tapana Miśra’s doubts the Lord teaches those who follow many scriptures and many teachers. Later, in Vārāṇasī, Tapana Miśra heard the Lord’s answers to Śrī Sanātana’s questions on the goal and the means, and his doubts were resolved.
+
+## 12
+w: in a dream  a  brāhmaṇa  says —  listen,  Tapana
+w: of Nimāi Paṇḍita  to the place  make  going
+tr: In a dream a brāhmaṇa said to him, “Listen, Tapana. Go to Nimāi Paṇḍita.
+
+## 13
+w: He  your  goal and means  will make  certain
+w: directly  the Lord  He is —  there is no  doubt
+tr: He will settle for you the goal and the means. He is the Lord Himself — have no doubt of it.”
+
+## 14
+w: the dream  seeing  Miśra  coming  of the Lord  at the feet
+w: of the dream  the account  all  made  submission
+tr: After this dream Miśra came to the Lord’s feet and told Him all that he had dreamt.
+
+## 15
+w: the Lord  pleased  becoming  the goal and the means  told
+w: of the holy name  the chanting  do —  instruction  gave
+tr: Pleased with him, the Lord explained the goal and the means, and instructed him: “Chant the holy name.”
+fn: *Amṛta-pravāha-bhāṣya*: the Lord said that neither knowledge of the non-dual Brahman nor the pleasures of heaven is the goal of the soul; its only goal is love for Kṛṣṇa. Karma and knowledge are not the means to it; the only means is pure devotion that takes shelter of the name of Kṛṣṇa.
+
+## 16
+w: his  wish —  with the Lord  in Navadvīpa  to live
+w: the Lord  order  gave —  you  go  to Vārāṇasī
+tr: He wished to live with the Lord in Navadvīpa, but the Lord told him, “Go to Vārāṇasī.
+
+## 17
+w: there  with Me  your  will be  meeting
+w: the order  receiving  Miśra  made  to Kāśī  going
+tr: There we shall meet again.” Receiving this order, Miśra went to Kāśī.
+
+## 18
+w: of the Lord  endless  pastimes  to understand  not  I can
+w: from His own company  sending away  why  He sends  to Kāśī
+tr: The Lord’s pastimes are endless and beyond my understanding. Why did He send Miśra away from His company to Kāśī?
+
+## 19
+w: in this  way  of Baṅga  to the people  did  to all  good
+w: the name  giving  devotees  He made,  teaching  paṇḍitas
+tr: In this way the Lord did good to all the people of East Bengal: giving them the holy name He made them devotees, and teaching them He made them paṇḍitas.
+fn: *Amṛta-pravāha-bhāṣya*: the Lord gave the people of Bengal the name of Kṛṣṇa — “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare” — and so made them devotees, and by teaching them the śāstras He made many of them scholars.
+
+## 20
+w: in this  way  in Baṅga  the Lord  enjoys  various  pastimes
+w: here  in Navadvīpa  Lakṣmī  in separation  sorrowful  became
+tr: While the Lord enjoyed these many pastimes in East Bengal, here in Navadvīpa Lakṣmī grieved in separation from Him.
+
+## 21
+w: of the Lord  the snake of separation  Lakṣmī  bit
+w: of the snake of separation  by the poison  her  passing to the other world  came about
+tr: The snake of separation from the Lord bit Lakṣmī, and by its poison she passed from this world.
+fn: *Amṛta-pravāha-bhāṣya*: the pain of separation from the Lord took the form of a snake and bit Lakṣmī, and she went to “the other world” — her own abode, Vaikuṇṭha, the highest of all.
+
+## 22
+w: within  knew  the Lord,  since  the Indweller
+w: to His homeland  came  the Lord  of Śacī  the grief  knowing
+tr: Dwelling in every heart, the Lord knew of it; and, aware of Śacī’s grief, He returned home.
+
+## 23
+w: home  came  the Lord  much  bringing  wealth and people
+w: the truth  speaking  made  of Śacī  of grief  the removal
+tr: He came home with much wealth and many followers, and by speaking of the truth He freed Śacī from her grief.
+fn: *Amṛta-pravāha-bhāṣya*: there is a reading “with the net of truth” (*tattva-jāle*): “Who is whose husband, who is whose son, who is whose wife?” — casting such a net of true knowledge, the Lord relieved Śacī’s grief.
+
+## 24
+w: the students  gathering  again  of learning  the play
+w: by the power of learning  all  conquering  pride  displaying
+tr: Again He gathered His students and delighted in the play of learning; by the power of His knowledge He conquered everyone and showed a proud spirit.
+
+## 25
+w: then  of Viṣṇupriyā  Ṭhākurāṇī  the marriage
+w: then  indeed  made  the Lord  over the conqueror of the directions  victory
+tr: Then came His marriage to Viṣṇupriyā Ṭhākurāṇī, and after that the Lord’s victory over the *digvijayī*, the conqueror of all directions.
+fn: Heading in the edition: “Marriage to Śrī Viṣṇupriyā, daughter of the royal paṇḍita Sanātana, and the defeat of Keśava Kāśmīrī.” *Anubhāṣya*: the *digvijayī* was the paṇḍita Keśava of Kashmir. He travelled through India conquering scholars by his genius and was defeated in Navadvīpa by Śrī Gaurasundara. Having learned the truth about Mahāprabhu, he entered the Nimbārka sampradāya for the sake of devotion and wrote the *Kaustubha-prabhā*, a gloss on Śrīnivāsācārya’s *Vedānta-kaustubha*, the commentary on Nimbārka’s *Pārijāta-bhāṣya*.
+
+## 26
+w: Vṛndāvana-dāsa  this  has made  elaboration
+w: clearly  not  makes  of faults and merits  analysis
+tr: Vṛndāvana dāsa has described all this at length, but he did not set out clearly the merits and faults of the *digvijayī*’s verse.
+
+## 27
+w: that  part  I tell,  to him  making  obeisance
+w: which  hearing  the *digvijayī*  made  of himself  reproach
+tr: Bowing to him, I shall tell of that analysis; hearing it, the *digvijayī* cursed himself.
+
+## 28
+w: moonlit  night,  the Lord  the students  with
+w: was sitting  on the bank of the Gaṅgā  in discussion of learning
+tr: One moonlit night the Lord sat with His students on the bank of the Gaṅgā, discussing points of learning.
+
+## 29
+w: at that time  the *digvijayī*  just there  came
+w: to the Gaṅgā  homage  having made  the Lord  he met
+tr: Just then the *digvijayī* came there and, after offering his prayers to the Gaṅgā, met the Lord.
+
+## 30
+w: seated  him  the Lord  respect  showing
+w: the *digvijayī*  speaks  in his mind  disdain  holding
+tr: The Lord received him with respect and gave him a seat, but the *digvijayī* spoke with disdain in his heart:
+
+## 31
+w: grammar  You teach,  Nimāi  Paṇḍita —  Your  name
+w: in the children’s science  people  Your  speak of  merits
+tr: “You teach grammar, and Your name is Nimāi Paṇḍita. People praise Your skill in the science that children learn.
+fn: *Anubhāṣya*: “the children’s science” is grammar, for before studying any śāstra one customarily learns grammar in order to know the language.
+
+## 32
+w: among grammars,  I know,  You teach  the Kalāpa
+w: I have heard  on the tricky points  Your  students’  discussions
+tr: Of the grammars, I know, You teach the *Kalāpa*, and I have heard of Your students’ debates on its tricky points.”
+fn: *Amṛta-pravāha-bhāṣya*: the Lord teaches the *Kalāpa* grammar, and His students hold discussions on its *phāṅki* — its intricate and puzzling questions.
+
+## 33
+w: the Lord  says,  grammar  I teach —  so I fancy
+w: the students  not  understand,  I  to explain  cannot
+tr: The Lord said, “Yes, I teach grammar — or so I like to think. But My students do not understand, and I cannot explain it to them.
+
+## 34
+w: where  you,  in all the śāstras  in poetry  expert
+w: where  I,  merely  a child —  a student  new
+tr: “How far above Me you are! You are expert in every śāstra and in poetry, while I am only a child, a new student.
+
+## 35
+w: your  poetry  some  to hear  is  My mind
+w: mercy  showing  make  if  of the Gaṅgā  a description
+tr: “I should like to hear some of your poetry. Be kind enough, if you will, to describe the Gaṅgā.”
+
+## 36
+w: hearing this  the brāhmaṇa  with pride  to describe  began
+w: in a ghaṭī  one  a hundred  verses  the Gaṅgā  he described
+tr: Hearing this, the brāhmaṇa proudly began, and within one *ghaṭī* he described the Gaṅgā in a hundred verses.
+fn: A *ghaṭī* (*ghaṭikā*) is a measure of time of twenty-four minutes.
+
+## 37
+w: hearing  made  the Lord  great  honour
+w: you  like  in the world  poet  not is  another
+tr: When He had heard them, the Lord honoured him highly: “There is no other poet in the world like you!
+
+## 38
+w: your  poetry  the verses  to understand  whose  power
+w: you  well  know  the meaning,  or  Sarasvatī
+tr: “Who has the power to understand your verses? You alone know their meaning well — you, or Sarasvatī.
+
+## 39
+w: of one  verse  the meaning  if  you make  with your own mouth
+w: hearing  all  people  then  obtain  with great joy
+tr: “If you would explain the meaning of one verse yourself, everyone here would be delighted to hear it.”
+
+## 40
+w: then  the *digvijayī*  for explanation  the verse  asked
+w: of the hundred verses  one  verse  the Lord  indeed  recited
+tr: The *digvijayī* asked which verse he should explain, and the Lord recited one of the hundred.
+
+## 41
+w: the greatness  of the Gaṅgā  ever  this  shines  beyond compare
+w: since  she  of Śrī Viṣṇu  by birth from the lotus feet  blessed
+w: a second  Śrī Lakṣmī  like  by gods and men  worshipped  whose feet
+w: of Bhavānī’s  husband  who  on the head  reigns  wondrous in qualities
+tr: “This greatness of the Gaṅgā ever shines beyond compare, for she is blessed by her birth from the lotus feet of Śrī Viṣṇu. Like a second Śrī Lakṣmī, she receives the worship of gods and men; and upon the head of Bhavānī’s husband she reigns, endowed with wondrous qualities.”
+fn: Heading in the edition: “Keśava Kāśmīrī’s verse on the greatness of the Gaṅgā.” *Anubhāṣya*: *subhagā* — possessed of a splendid fortune, since she was born from the Lord’s lotus feet; *dvitīya-śrī-lakṣmīr iva* — like a second Kamalā (Lakṣmī), full of beauty; *bhavānī-bhartuḥ* — of the husband of Bhavānī, that is, of Śiva; therefore the Gaṅgā is endowed with wondrous qualities.
+
+## 42
+w: of this  verse  the meaning  make —  the Lord  when  said
+w: astonished  becoming  the *digvijayī*  the Lord  asked
+tr: When the Lord said, “Explain this verse,” the *digvijayī* asked Him in astonishment:
+
+## 43
+w: a storm wind  like  I  the verses  recited
+w: of them  among  a verse  You  how  by heart  learned
+tr: “I recited those verses like a storm wind. How could You learn one of them by heart?”
+
+## 44
+w: the Lord  says,  of a god  by the boon  you —  ‘the best of poets’
+w: so  of a god  by the boon  someone  becomes —  ‘one who holds all he hears’
+tr: The Lord said, “By the boon of a deity you are the best of poets; and by the boon of a deity another may become a *śruti-dhara*, one who holds all that he hears.”
+
+## 45
+w: of the verse  the meaning  made  the brāhmaṇa  obtaining  satisfaction
+w: the Lord  says —  tell  of the verse  what  merits and faults
+tr: Well pleased, the brāhmaṇa explained the verse. Then the Lord said, “Tell Me, what are the merits and faults of this verse?”
+
+## 46
+w: the brāhmaṇa  says,  in the verse  not  of fault  appearance
+w: of the ornament of simile  the merit,  some  alliteration
+tr: The brāhmaṇa said, “No fault appears in it. Its merits are the ornament of simile and some alliteration.”
+fn: *Amṛta-pravāha-bhāṣya*: simile (*upamā*) is a poetic ornament (*alaṅkāra*); alliteration (*anuprāsa*) is the verbal art shown by setting many *bha*s close together in the last line.
+
+## 47
+w: the Lord  says —  I shall speak,  if  not  you become  angry
+w: tell  your  in this  verse  what  there is  fault
+tr: The Lord said, “May I say something, if you will not be angry? Tell Me what faults there are in this verse of yours.
+
+## 48
+w: of genius  the words  your  the gods  please
+w: well  if examined  are known  merits and faults
+tr: “Your words, full of genius, please even the gods; yet if they are examined well, both merits and faults come to light.
+fn: *Amṛta-pravāha-bhāṣya*: *pratibhā*, genius, is the power of mind that arranges words in ever new ways; in this verse you have shown it and pleased even the gods, but on careful examination both merits and faults appear.
+
+## 49
+w: therefore  well  doing  the verse  make  examination
+w: the poet  says —  what  You recited  that  the essence of the Veda
+tr: “So let us examine the verse carefully.” The poet replied, “The verse You have recited is the very essence of the Vedas.
+
+## 50
+w: a grammarian  You,  not  have studied  poetics
+w: You  what  will know  of this  poetry  the essence
+tr: “You are only a grammarian; You have not studied poetics. What can You know of the essence of this poetry?”
+fn: *Amṛta-pravāha-bhāṣya*: a grammarian is versed only in the elementary science and cannot judge poetics (*alaṅkāra-śāstra*) and other śāstras.
+
+## 51
+w: the Lord  says —  therefore  I ask  you
+w: examining  the merits and faults  explain  to Me
+tr: The Lord said, “That is just why I ask you. Examine its merits and faults and explain them to Me.
+
+## 52
+w: not  I have studied  poetics,  I have done  hearing
+w: thereby  in this  verse  I see  many  faults and merits
+tr: “I have not studied poetics, but I have heard it taught, and so I see many faults and merits in this verse.”
+
+## 53
+w: the poet  says —  tell,  let us see,  which  merits and faults
+w: the Lord  says —  I tell,  listen,  not  become  angry
+tr: “Come, then,” said the poet, “tell me — what merits and faults?” The Lord replied, “I shall tell you; listen, and do not be angry.
+
+## 54
+w: five  faults  in this  verse,  five  ornaments
+w: in order  I  tell,  listen,  make  judgement
+tr: “In this verse there are five faults and five ornaments. I shall name them in order; listen, and judge for yourself.
+
+## 55
+w: ‘the predicate ill placed’ —  in two  places  the mark
+w: ‘the contradictory sense’,  ‘the broken order’,  ‘the resumed sentence’,  faults  three
+tr: “In two places the predicate is badly placed, and there are three more faults: a contradictory sense, a broken order, and a return to a finished sentence.
+fn: The names of the faults (*doṣa*) in the original: *avimṛṣṭa-vidheyāṁśa*, “the predicate not duly considered”, that is, what is asserted about the subject is badly placed (vv. 56–61); *viruddha-mati-kṛt*, “that which suggests a contradictory sense” (vv. 62–65); *punar-ātta*, “taken up again”: a return to a sentence already completed by its verb (v. 66); *bhagna-krama*, “broken order” (v. 67).
+
+## 56
+w: ‘of the Gaṅgā  the greatness’ —  in the verse  the main  ‘predicate’
+w: by the word ‘idam’  the ‘subject’ —  afterwards  is expressed
+tr: “In this verse the main predicate is ‘the greatness of the Gaṅgā’, while the subject, expressed by the word *idam*, ‘this’, comes after it.
+fn: *Vidheya*, the predicate, is what is asserted about a thing, the new matter for the hearer; *anuvāda*, the subject, is the thing itself, already known. *Amṛta-pravāha-bhāṣya*: in the verse the main predicate is the greatness of the Gaṅgā and the subject is the word *idam*; to write “the greatness of the Gaṅgā” first and *idam* after it is against the rule.
+
+## 57
+w: the ‘predicate’  first  having said,  afterwards  you said  the ‘subject’
+w: for this  reason  of the verse  the meaning  has become  lost
+tr: “You stated the predicate first and the subject afterwards, and so the meaning of the verse has suffered.
+fn: *Amṛta-pravāha-bhāṣya*: if the subject is not stated first, the meaning is impaired.
+
+## 58
+w: the subject  not having stated  indeed
+w: not  the predicate  one should utter
+w: not  indeed  without a footing  anything
+w: anywhere  stands
+tr: ‘One should not state the predicate without first stating the subject; for nothing that has not found its footing can stand anywhere.’ (Ekādaśī-tattva, 13)
+fn: Heading in the edition: “Thus a maxim cited in the *Ekādaśī-tattva*.” The same verse is quoted in Ādi 2.74 (there *anuktvā tu*, here *anuktvaiva*, with the same meaning).
+
+## 59
+w: ‘a second  Śrī Lakṣmī’ —  here  ‘being second’  the predicate
+w: in the compound  subordinate  it became,  the word’s meaning  went  to ruin
+tr: “In *dvitīya-śrī-lakṣmī*, ‘a second Śrī Lakṣmī’, the predicate is ‘being second’; but in the compound it has become secondary, and the meaning of the word is lost.
+fn: *Amṛta-pravāha-bhāṣya*: the purpose of these words is to show that the Gaṅgā is equal to Lakṣmī; but “second”, the predicate, was put into a compound (*samāsa*), became secondary, and that meaning perished.
+
+## 60
+w: ‘second’  the word —  the predicate,  it  fell  into the compound
+w: ‘equality with Lakṣmī’  the meaning  it made  destroyed
+tr: “The word *dvitīya* is the predicate, but it has fallen into a compound, and so the point — that the Gaṅgā is equal to Lakṣmī — is destroyed.
+
+## 61
+w: ‘avimṛṣṭa-vidheyāṁśa’ —  this  fault’s  name
+w: another  one  fault  next,  listen  attentively
+tr: “This fault is called *avimṛṣṭa-vidheyāṁśa*. Now listen attentively to another.
+
+## 62
+w: ‘of Bhavānī’s husband’  the word  you placed  gaining  satisfaction
+w: ‘viruddha-mati-kṛt’  the name  of this  great  fault
+tr: “With great satisfaction you used the words *bhavānī-bhartuḥ*, ‘of Bhavānī’s husband’. But this is a grave fault, called *viruddha-mati-kṛt*: such words suggest a contradictory sense.
+
+## 63
+w: by the word Bhavānī  is meant  of Mahādeva  the wife
+w: her  husband  you named —  a second  husband  is understood
+tr: “The word *Bhavānī* means the wife of Mahādeva. When you name her husband, it sounds as if she had another husband.
+
+## 64
+w: ‘of Śiva’s wife  the husband’ —  this  to hear  contradictory
+w: a ‘viruddha-mati-kṛt’  word  in the śāstra  is not  correct
+tr: “‘The husband of Śiva’s wife’ sounds absurd; by the rules of the śāstra, words that suggest a contradictory sense are faulty.
+
+## 65
+w: ‘of the brāhmaṇa’s wife  into the husband’s hand  give  the gift’
+w: the words  on hearing  arises  of a second husband  the idea
+tr: “If one says, ‘Give the gift into the hand of the brāhmaṇa’s wife’s husband,’ the very words make one think of a second husband.
+
+## 66
+w: with the verb ‘vibhavati’  the sentence —  complete,  again  an epithet
+w: ‘adbhuta-guṇā’ —  this  the fault of resuming
+tr: “The sentence is complete with the verb *vibhavati*, ‘reigns’, and then you add another epithet, *adbhuta-guṇā*, ‘endowed with wondrous qualities’. This return to a finished sentence is the fault called *punar-ātta*.
+
+## 67
+w: in three  lines  alliteration  I see  matchless
+w: in one  line  not,  this  fault  ‘bhagna-krama’
+tr: “In three lines I see matchless alliteration, but in one line there is none; this fault is called *bhagna-krama*.
+fn: *Amṛta-pravāha-bhāṣya*: the first, third and fourth lines alliterate on *ta*, *ra* and *bha*; the second has no alliteration.
+
+## 68
+w: although  in this  verse  there are  five  ornaments
+w: by these  five faults  the verse  is made  ruined
+tr: “Though the verse has five ornaments, these five faults have ruined it.
+
+## 69
+w: ten  with ornaments  if  one  verse  is
+w: by one  fault  all  the ornaments  become  lost
+tr: “Even if a verse had ten ornaments, a single fault would bring them all to nothing.
+
+## 70
+w: a beautiful  body  as  with jewels  adorned
+w: one  spot of white leprosy  as  makes  disgraced
+tr: “It is like a beautiful body adorned with jewels: one spot of white leprosy disgraces it.
+
+## 71
+w: with rasa and ornaments  poetry
+w: with a fault  if,  adorned
+w: becomes  a body  beautiful  though
+w: by white leprosy  by one  unsightly
+tr: ‘As a body, though beautiful and adorned, is made unsightly by a single spot of white leprosy, so poetry rich in rasa and ornaments loses all its charm if it has a fault.’ (Bharata Muni)
+fn: Heading in the edition: “Thus say the words of Bharata Muni.” *Anubhāṣya*: rasa means *śṛṅgāra* and the others; ornaments are alliteration, simile and the like; *durbhaga* means bereft of beauty (*śrī*), dimmed.
+
+## 72
+w: of the five  ornaments  now  hear  the analysis
+w: two  verbal ornaments,  three  ornaments of meaning
+tr: “Now hear the analysis of the five ornaments: two are verbal ornaments and three are ornaments of meaning.
+
+## 73
+w: verbal ornament —  in three lines  there is  alliteration
+w: in the words ‘śrī-lakṣmī’  ‘the seeming repetition’
+tr: “The first verbal ornament is the alliteration in three lines; the second is the seeming repetition (*punar-uktavad-ābhāsa*) in the words *śrī-lakṣmī*.
+
+## 74
+w: in the first  line  five  ‘ta’-sounds  a row
+w: in the third  line  are  five  ‘ra’-sounds  placed
+tr: “In the first line there is a row of five *ta*s, and in the third, five *ra*s.
+
+## 75
+w: in the fourth  line  four  ‘bha’-sounds  appear
+w: therefore  the verbal ornament  alliteration
+tr: “In the fourth line four *bha*s appear; this is the verbal ornament of alliteration.
+
+## 76
+w: by the word ‘śrī’,  by the word ‘lakṣmī’ —  one  thing  is said
+w: a repetition  almost  it seems,  is not  a repetition
+tr: “The words *śrī* and *lakṣmī* name one and the same thing; it seems almost a repetition, yet it is not one.
+
+## 77
+w: ‘Lakṣmī  endowed with śrī’  in the sense  of the meanings  a difference
+w: seeming repetition,  of verbal ornament  a kind
+tr: “For if *śrī-lakṣmī* is taken as ‘Lakṣmī endowed with beauty (*śrī*)’, the two words differ in meaning; and this seeming repetition is a kind of verbal ornament.
+
+## 78
+w: ‘lakṣmīr iva’  ornament of meaning —  of simile  the appearance
+w: another  ornament of meaning  there is,  its name —  ‘virodhābhāsa’
+tr: “The words *lakṣmīr iva*, ‘like Lakṣmī’, are an ornament of meaning: a simile. There is another ornament of meaning, called *virodhābhāsa*, apparent contradiction.
+
+## 79
+w: ‘in the Gaṅgā  the lotus  is born’ —  everyone’s  ready understanding
+w: ‘in the lotus  of the Gaṅgā  the birth’ —  utter  contradiction
+tr: “Everyone knows that lotuses are born in the Gaṅgā; but to say that the Gaṅgā is born in a lotus is a flat contradiction.
+
+## 80
+w: ‘here  in Viṣṇu’s lotus feet  of the Gaṅgā  the origin’
+w: the ornament of contradiction  of this  great  wonder
+tr: “Yet here the Gaṅgā has her origin in the lotus feet of Viṣṇu, and this ornament of contradiction is wonderful indeed.
+
+## 81
+w: by the Lord’s inconceivable potency  of the Gaṅgā  the appearance
+w: in this  contradiction  not,  of contradiction  the semblance
+tr: “The Gaṅgā appears by the inconceivable potency of the Lord, so there is no contradiction here — only the semblance of one.
+
+## 82
+w: the lotus  in water  born  anywhere
+w: even  not  born  from a lotus  water
+w: in the slayer of Mura  the reverse
+w: from His lotus feet  the great river  was born
+tr: ‘The lotus is born in water; nowhere is water born from a lotus. But with the slayer of Mura it is the reverse: from His lotus feet the great river was born.’
+fn: Headings in the edition: “The inconceivable potency of Kṛṣṇa” and “A verse spoken by the Lord, Śrī Kṛṣṇa Caitanya Himself.” *Anubhāṣya*: in Kṛṣṇa cause and effect are reversed — from His lotus feet flowed the great river, the Gaṅgā.
+
+## 83
+w: of the Gaṅgā  the greatness —  what is to be proved,  the proof  of it
+w: the birth from Viṣṇu’s feet —  ‘anumāna’  ornament
+tr: “The greatness of the Gaṅgā is what is to be proved, and the proof of it is her birth from the feet of Viṣṇu; this is the ornament called *anumāna*, inference.
+fn: *Amṛta-pravāha-bhāṣya*: the words about her birth from Viṣṇu’s feet prove what was to be proved — the greatness of the Gaṅgā; this is the ornament of inference (*anumāna*).
+
+## 84
+w: obvious  these  five  faults,  five  ornaments
+w: finely  if I examine  there are  countless
+tr: “These are the five obvious faults and the five ornaments; examined more finely, they would be countless.
+
+## 85
+w: genius,  poetic gift  your  by a deity’s  grace
+w: in poetry without reflection  surely  fall  faults as obstacles
+tr: “Your genius and your poetic gift come by the grace of a deity; but into poetry composed without reflection faults are bound to creep.
+fn: *Anubhāṣya*: if poetry is not examined, its faults are not easily seen.
+
+## 86
+w: reflection  if one makes,  poetry  becomes  spotless
+w: with ornaments  if it is,  the meaning  makes  a glitter
+tr: “With reflection, poetry becomes flawless, and when it is adorned with ornaments, its meaning sparkles.”
+
+## 87
+w: hearing  of the Lord  the words  the *digvijayī*  astonished
+w: from his mouth  not  came forth  a word,  his genius —  stunned
+tr: Hearing the Lord’s words, the *digvijayī* was astonished. No word came from his mouth; his genius was struck dumb.
+
+## 88
+w: to say  he wishes  something,  not  comes  an answer
+w: then  he reflects  in his mind  becoming  perplexed
+tr: He wanted to say something, but no answer would come, and in his perplexity he thought:
+
+## 89
+w: a student  boy  made  my  intelligence  lost
+w: I know,  Sarasvatī  with me  has become  angry
+tr: “A schoolboy has robbed me of my wits! Surely Sarasvatī is angry with me.
+
+## 90
+w: what  explanation  He made,  that  of a man  is not  the power
+w: in Nimāi’s mouth  dwelling  speaks  herself  Sarasvatī
+tr: “No human being could give such an explanation. Sarasvatī herself must be speaking through Nimāi’s mouth.”
+
+## 91
+w: so much  thinking  he says —  listen,  Nimāi  Paṇḍita
+w: Your  explanation  hearing  I  have become  astonished
+tr: Thinking thus, he said, “Listen, Nimāi Paṇḍita: Your explanation has astonished me.
+
+## 92
+w: poetics  not  You have studied,  no  practice in the śāstras
+w: how  these  all  meanings  have You  brought out
+tr: “You have not studied poetics, and You have no training in the śāstras. How could You bring out all these meanings?”
+
+## 93
+w: this  hearing  Mahāprabhu,  very  great  lover of fun
+w: his  heart  knowing  says,  making  a playful turn
+tr: Hearing this, Mahāprabhu, who dearly loved a jest, read his heart and answered playfully:
+
+## 94
+w: of the śāstras  the analysis  good or bad  not  I know
+w: Sarasvatī  what  makes Me say,  those  I speak  words
+tr: “Whether My analysis of the śāstras is good or bad, I Myself do not know. I only speak the words that Sarasvatī makes Me speak.”
+
+## 95
+w: this  hearing  the *digvijayī*  made  conclusion
+w: through a child  the goddess  on me  inflicted  defeat
+tr: Hearing this, the *digvijayī* concluded, “The goddess has defeated me through a child.
+
+## 96
+w: today  to her  I shall submit,  doing  japa and meditation
+w: through a child  she inflicted  on me  such  humiliation
+tr: “Today, with japa and meditation, I shall lay this before her: through a child she has humiliated me so!”
+
+## 97
+w: in truth  Sarasvatī  a faulty  verse  had him make
+w: at the time of examination  his  intelligence  covered
+tr: In truth, it was Sarasvatī who had him compose a faulty verse, and when it was examined she clouded his intelligence.
+
+## 98
+w: then  the students  all  to laugh  began
+w: them  all  forbidding  the Lord  to the poet  spoke
+tr: Then all the students began to laugh, but the Lord checked them and said to the poet:
+
+## 99
+w: you  a great paṇḍita  are,  the crest-jewel of poets
+w: from whose  mouth  comes forth  such  poetic speech
+tr: “You are a great paṇḍita, the crest-jewel of poets, for such poetry flows from your lips.
+
+## 100
+w: your  poetry  like  of the Gaṅgā’s water  the stream
+w: you  like  a poet  anywhere  not  I see  another
+tr: “Your poetry is like the stream of the Gaṅgā’s waters; nowhere do I see another poet like you.
+
+## 101
+w: Bhavabhūti,  Jayadeva,  and  Kālidāsa
+w: of them all  in the poetry  there is  of faults  appearance
+tr: “Even in the poetry of Bhavabhūti, Jayadeva and Kālidāsa faults appear.
+fn: *Anubhāṣya*: Bhavabhūti, or Śrīkaṇṭha, wrote the Sanskrit dramas *Mālatī-mādhava*, *Uttara-rāma-carita*, *Vīra-carita* and others; he lived in the reign of King Bhoja and was the son of Nīlakaṇṭha and grandson of Bhaṭṭa Gopāla, a brāhmaṇa of Padmanagara. Kālidāsa was the great poet, one of the “nine jewels” at the court of Vikramāditya, author of the *Raghuvaṁśa*, *Kumāra-sambhava*, *Abhijñāna-śakuntala*, *Megha-dūta* and some thirty or forty other poems, dramas and works. On Jayadeva, see Ādi 13.42.
+
+## 102
+w: in the analysis of faults and merits  this  little  making  I consider
+w: in making poetry  the power  of theirs  that  I praise
+tr: “I count such analysis of faults and merits a small thing; what I praise is their power to compose poetry.
+
+## 103
+w: childish  restlessness  any  not  you take  of Mine
+w: of a student  equal  I  not  am  of yours
+tr: “Do not take My childish pranks to heart. I am not even fit to be your student.
+
+## 104
+w: today  to your lodging  go,  tomorrow  meeting  again
+w: I shall hear  from your  mouth  of the śāstras  the exposition
+tr: “Go to your lodging today; tomorrow we shall meet again, and I shall hear you expound the śāstras.”
+
+## 105
+w: in this way  to their own  homes  went  the two  persons
+w: the poet  at night  made  of Sarasvatī  worship
+tr: So the two went home, and that night the poet worshipped Sarasvatī.
+
+## 106
+w: Sarasvatī  at night  him  instruction  gave
+w: directly  the Lord  as  the Lord  he knew
+tr: In the night Sarasvatī instructed him, and he came to know that Nimāi was the Lord Himself.
+
+## 107
+w: in the morning  coming,  at the Lord’s feet  took  shelter
+w: the Lord  mercy  showed,  his  cut  bondage
+tr: In the morning he came and took shelter at the Lord’s feet, and the Lord showed him mercy and cut his bonds.
+fn: *Amṛta-pravāha-bhāṣya*: his bondage was the bondage of māyā in the form of pride in his learning.
+
+## 108
+w: fortunate  the *digvijayī*  fruitful  life
+w: by the power of learning  obtained  of Mahāprabhu  the feet
+tr: The *digvijayī* was fortunate, and his life bore fruit: through his learning he attained the feet of Mahāprabhu.
+
+## 109
+w: all these  pastimes  has described  Vṛndāvana-dāsa
+w: what  little  I have done  here,  a fuller  presentation
+tr: Vṛndāvana dāsa has described all these pastimes; what little I have done here is to set out certain points more fully.
+
+## 110
+w: of Caitanya Gosāñi  the pastimes —  of nectar  a stream
+w: of all the senses  satisfaction  comes  in hearing  of which
+tr: The pastimes of Caitanya Gosāñi are a stream of nectar: whoever hears them finds every sense fully satisfied.
+
+## 111
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

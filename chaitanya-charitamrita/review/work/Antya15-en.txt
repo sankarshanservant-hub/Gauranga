@@ -1,0 +1,652 @@
+# English translation, Antya-līlā 15 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya15.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
+# One shift: verses 1–99. Verbatim from revised chapters: 70 (= Madhya 24.48), 99 (= Antya 2.172); 76 line 1 (Madhya 2.34),
+# 77 lines 1–2 (Madhya 2.27) and 6 (Madhya 2.35), 97 last line (Ādi 3.65).
+
+## 0
+tr: The Lord’s Pastime in the Garden
+
+## 1
+w: in the unfathomable  of Kṛṣṇa  in the ocean of feelings
+w: whose heart sank and rose
+w: by Gaura  Hari  of prema
+w: the greatness  abundantly  was shown
+tr: In the unfathomable ocean of feelings for Kṛṣṇa, Gaurahari’s heart now sank and now rose; and so He revealed the greatness of prema in all its fullness.
+fn: *Anubhāṣya*: the ocean of feelings for Kṛṣṇa is unfathomable even for sages headed by Brahmā, for their knowledge rests on the senses. Heading in the edition: the Lord is immersed in the ocean of the mahābhāva of separation from Kṛṣṇa.
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  the Supreme Lord
+w: glory  to Nityānanda  full of bliss  whose body
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya, the Supreme Lord! Glory to Nityānanda, whose body is full of bliss!
+
+## 3
+w: glory to Advaitācārya  to Kṛṣṇa Caitanya  most dear
+w: glory  to Śrīvāsa  and the others  the Lord’s  devotees
+tr: Glory to Advaitācārya, most dear to Kṛṣṇa Caitanya! Glory to Śrīvāsa and all the Lord’s devotees!
+
+## 4
+w: in this way  Mahāprabhu  night  and day
+w: of Himself  awareness  none  absorbed in love for Kṛṣṇa
+tr: In this way, night and day, Mahāprabhu was so absorbed in love for Kṛṣṇa that He had no awareness of Himself.
+
+## 5
+w: sometimes  in feeling  immersed  sometimes  half  external  awareness
+w: sometimes  external  awareness  in three  ways  the Lord’s  state
+tr: Sometimes He was immersed in feeling, sometimes half aware of the outer world, sometimes fully aware of it: the Lord passed through these three states.
+
+## 6
+w: bathing  seeing the Lord  eating  by the body’s  nature  happen
+w: of the potter  the wheel  as  constantly  turns
+tr: Bathing, going to see Lord Jagannātha and eating went on of themselves, by the body’s own nature, as a potter’s wheel keeps turning.
+fn: *Anubhāṣya*: a potter’s wheel goes on turning by the force of the first push, and the potter need not keep his hand on it; so the Lord’s bodily actions went on naturally even when He had no awareness of the outer world. The comparison fits the daily life of the highest mahā-bhāgavata as long as he remains in this world.
+
+## 7
+w: one day  makes  the Lord  of Jagannātha  the seeing
+w: in Jagannātha  He sees  directly  the son of the king of Vraja
+tr: One day, when the Lord went to see Lord Jagannātha, He beheld in Him the son of the king of Vraja Himself.
+
+## 8
+w: at once  appear  to the Lord  of Kṛṣṇa  five  qualities
+w: the five  qualities  make  of the five senses  attraction
+tr: At once the five qualities of Kṛṣṇa appeared to the Lord, and they drew His five senses to themselves.
+fn: *Amṛta-pravāha-bhāṣya*: His form draws the eyes, His song the ears, His fragrance the nose, His taste the tongue and His touch the skin; all five transcendental qualities of Kṛṣṇa appeared at once to the Lord’s five transcendental senses.
+
+## 9
+w: one mind  in five  directions  five  qualities  pull
+w: by the tugging  the Lord’s  mind  became  unconscious
+tr: The five qualities pulled His one mind in five directions, and, torn this way and that, the Lord lost consciousness.
+
+## 10
+w: at that time  of the Lord  the upala-bhoga  ended
+w: the devotees  Mahāprabhu  home  taking  came
+tr: At that time Lord Jagannātha’s *upala-bhoga* offering came to an end, and the devotees brought Mahāprabhu home.
+
+## 11
+w: Svarūpa  Rāmānanda  these  two  persons  with
+w: lament  He makes  of both  the necks  holding
+tr: With these two, Svarūpa and Rāmānanda, He lamented, His arms around their necks.
+
+## 12
+w: of Kṛṣṇa  in separation  Rādhā’s  anxious  mind
+w: to Viśākhā  She tells  Her own  of the longing  the cause
+tr: In separation from Kṛṣṇa, Rādhā’s mind was restless with longing, and She told Viśākhā the cause of it.
+
+## 13
+w: that  verse  reciting  Himself  makes  heartache
+w: of the verse  the meaning  makes hear  to the two  making  lament
+tr: Reciting that verse Himself, the Lord poured out the anguish of His heart, and lamenting, He explained its meaning to the two of them.
+
+## 14
+w: of beauty  of the nectar  of the ocean  by the waves
+w: of women  of the hearts  the hills  who floods
+w: delighting the ears  jesting  charming
+w: whose words  than millions of moons  cooler  whose body
+w: of fragrance  of nectar  by the flood  covered
+w: the world  than nectar  lovelier  whose lips
+w: Śrī  of the king of the cowherds  the son  He  draws
+w: by force  five senses  O friend  My
+tr: “O friend, with the waves of the nectar ocean of His beauty He floods the hills of women’s hearts; His playful, charming words delight the ear; His body is cooler than millions of moons; with a nectar flood of fragrance He has covered the world; His lips are lovelier than nectar — that son of the king of the cowherds draws all five of My senses by force.” (Govinda-līlāmṛta, 8.3)
+fn: Heading in the edition: Śrī Rādhā’s words to Viśākhā.
+
+## 15
+w: Kṛṣṇa’s  form  sound  touch  fragrance  of the lips  taste
+w: whose  sweetness  to describe  not  is possible
+w: seeing  in greed  the five
+w: one  horse  My  mind
+w: mounting  the five  in five directions  run
+tr: “Kṛṣṇa’s form, His voice, His touch, His fragrance and the taste of His lips — their sweetness cannot be described. Seeing them, the five, in their greed, mount a single horse — My mind — and ride off in five directions.
+
+## 16
+w: O friend  ah  hear  of My  sorrow  the cause
+w: My  five senses
+w: great  greedy ones  robbers
+w: all  say  steal  another’s wealth
+tr: O friend, hear the cause of My sorrow. My five senses are utterly greedy robbers: they all say, ‘Steal another’s wealth!’
+fn: *Anubhāṣya*: drawn by Kṛṣṇa, the senses conspire like five robbers: “Come, let us steal this wealth that belongs to another — the horse of the mind.” *Amṛta-pravāha-bhāṣya*: the senses know that Kṛṣṇa is another’s man, and still each seeks to steal its own object in Him.
+
+## 17
+w: one  horse  at one moment
+w: the five  in five  directions  pull
+w: one  mind  which  way  shall run
+w: at one time  all  pull
+w: goes  of the horse  the life
+w: this  pain  to bear  not  is possible
+tr: One horse, and at one moment the five pull it in five directions — which way is the one mind to run? When all pull at once, the horse’s life departs. I cannot bear this pain.
+
+## 18
+w: the senses  not  I make  anger
+w: of these all  where  the fault
+w: of Kṛṣṇa’s  form and the rest  great  attraction
+w: form and the rest  the five  the five  pull
+w: goes  of the horse  the life
+w: in My  body  not  remains  life
+tr: I am not angry with My senses — what fault is theirs? Kṛṣṇa’s form and the rest attract with great force. The five — His form and the rest — pull the five senses; the horse’s life is ebbing, and life will not stay in My body.
+
+## 19
+w: of Kṛṣṇa’s  beauty  of nectar  the ocean
+w: of it  of a wave  a drop
+w: one  drop  the world  drowns
+w: in the three worlds  as many as  women
+w: their  hearts  high  mountains
+w: those  drowning  further  rising  rushes
+tr: The beauty of Kṛṣṇa is an ocean of nectar; a single drop of its waves drowns the world. The hearts of all the women in the three worlds are high mountains: it drowns them and surges on beyond.
+
+## 20
+w: Kṛṣṇa’s  of the words  the sweetness
+w: of various  rasas  jests  bearing
+w: its  injustice  to describe  not  is possible
+w: of the world’s  women  into the ears
+w: sweetness  with the rope (quality)  binding  pulls
+w: by the tugging  of the ears  the life  departs
+tr: The sweetness of Kṛṣṇa’s words, full of jests in many moods, is unjust beyond telling. Entering the ears of the world’s women, it binds them with the rope of its sweetness and pulls, and in that tug-of-war the ears lose their very life.
+fn: *Guṇa* means both “quality” and “rope”: sweetness binds the ears as with a rope. *Amṛta-pravāha-bhāṣya*: Kṛṣṇa’s playful speech treats women so unjustly that words cannot tell it.
+
+## 21
+w: Kṛṣṇa’s  body  very cool
+w: what  shall I say  its  power
+w: by its lustre  conquers  millions of moons  sandal
+w: mountain-like  of women  the breasts
+w: those  in drawing  skilled
+w: draws  of the women  the minds
+tr: Kṛṣṇa’s body is so cool — what can I say of its power? With its rays it surpasses millions of moons and sandal paste. Skilled at drawing the mountain-like breasts of women, it draws their minds as well.
+
+## 22
+w: Kṛṣṇa’s body  of fragrance  full
+w: musk  charming
+w: of the blue lotus  steals  of pride  the wealth
+w: of the world’s  women  the nostrils
+w: of them  inside  makes  a dwelling
+w: the women  makes  attraction
+tr: Kṛṣṇa’s body is laden with fragrance; it humbles charming musk and robs the blue lotus of its wealth of pride. It makes its home in the nostrils of the world’s women and draws them to itself.
+
+## 23
+w: Kṛṣṇa’s  the nectar of the lips
+w: with it  camphor  gentle  smile
+w: by its own  sweetness  steals  of women  the mind
+w: elsewhere  takes away  the longing
+w: not  having obtained  in the mind  agitation
+w: of Vraja’s  women  the principal wealth
+tr: The nectar of Kṛṣṇa’s lips, with the camphor of His gentle smile, steals women’s minds by its own sweetness. It takes away all longing for anything else; not obtaining it, the mind is in turmoil. It is the chief wealth of the women of Vraja.”
+
+## 24
+w: so  saying  Gaurahari
+w: of the two  the necks  holding
+w: says  hear  Svarūpa  Rāmarāya
+w: what  shall I do  where  shall I go
+w: where  going  Kṛṣṇa  shall I find
+w: you two  to Me  tell  that  means
+tr: Saying this, Gaurahari threw His arms around the necks of the two and said, “Listen, Svarūpa and Rāmarāya: what shall I do, where shall I go? Where can I go to find Kṛṣṇa? Both of you, tell Me how!”
+
+## 25
+w: in this way  Gaura  the Lord  every  day after day
+w: lament  makes  with Svarūpa  and Rāmānanda
+tr: In this way, day after day, the Lord Gaura lamented with Svarūpa and Rāmānanda.
+
+## 26
+w: those  two  persons  the Lord  make  consolation
+w: Svarūpa  sings  Rāya  makes  of verses  recitation
+tr: Those two consoled the Lord: Svarūpa sang songs, and Rāya recited verses.
+
+## 27
+w: Karṇāmṛta  Vidyāpati  Śrī Gīta-govinda
+w: of these  in verses and songs  to the Lord  give  joy
+tr: With the verses and songs of the *Kṛṣṇa-karṇāmṛta*, of Vidyāpati and of the *Śrī Gīta-govinda* they gave the Lord joy.
+
+## 28
+w: one day  Mahāprabhu  to the sea  going
+w: of flowers  a garden  there  sees  suddenly
+tr: One day, on His way to the sea, Mahāprabhu suddenly saw a flower garden.
+
+## 29
+w: Vṛndāvana  mistaking it for  there  entered  running
+w: absorbed in prema  wanders  there  Kṛṣṇa  searching for
+tr: Taking it for Vṛndāvana, He ran into it, and absorbed in prema He wandered there searching for Kṛṣṇa,
+
+## 30
+w: in the rāsa  Rādhā  taking  Kṛṣṇa  disappearance  made
+w: afterwards  the gopīs  as  searching  wandered
+tr: just as, when Kṛṣṇa disappeared from the rāsa dance taking Rādhā with Him, the gopīs afterwards wandered about searching for Him.
+
+## 31
+w: in that  mood absorbed  the Lord  each  tree  creeper
+w: verses  reciting  reciting  searching  wanders  here  there
+tr: Absorbed in that mood, the Lord wandered here and there searching, reciting verse after verse to each tree and creeper:
+
+## 32
+w: cūta  priyāla  panasa  āsana  kovidāra
+w: jambu  arka  bilva  bakula  mango  kadamba  nīpa
+w: who  other  for others’ good  born  on the Yamunā’s banks
+w: tell  of Kṛṣṇa  the path  who have lost our selves  to us
+tr: “O *cūta*, *priyāla*, *panasa*, *āsana* and *kovidāra*, *jambu*, *arka*, *bilva*, *bakula*, mango, kadamba and *nīpa*, and all you other trees on the banks of the Yamunā, whose life is for the good of others — tell us, who have lost our very selves, which way Kṛṣṇa went!” (Śrīmad-Bhāgavatam, 10.30.9)
+
+## 33
+w: perhaps  O tulasī  O auspicious one
+w: to Govinda’s  feet  dear
+w: with  you  by swarms of bees  bearing
+w: seen  your  very dear  Acyuta
+tr: “O auspicious tulasī, dear to Govinda’s feet! Have you seen Acyuta, who holds you so dear, pass by wearing you, with swarms of bees around Him?” (Śrīmad-Bhāgavatam, 10.30.7)
+
+## 34
+w: O mālatī  was seen  by you  perhaps
+w: O mallikā  O jāti  O yūthikā
+w: joy  your  producing  gone
+w: by the touch of His hand  Mādhava
+tr: “O *mālatī*, O *mallikā*, O *jāti*, O *yūthikā*! Have you seen Mādhava pass by, giving you joy with the touch of His hand?” (Śrīmad-Bhāgavatam, 10.30.8)
+
+## 35
+w: O mango  panasa  piyāla  jambu  kovidāra
+w: of a holy place  dwellers  all  do  to others  good
+tr: “O mango, *panasa*, *piyāla*, *jambu* and *kovidāra*! You all dwell in a holy place — so do good to others.
+fn: Heading in the edition: the meaning of the verse; the gopīs, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament.
+
+## 36
+w: Kṛṣṇa  to you  here  came  did you have  sight of Him
+w: of Kṛṣṇa  the whereabouts  telling  save  our lives
+tr: Did Kṛṣṇa come here to you? Did you see Him? Tell us where Kṛṣṇa is and save our lives!”
+
+## 37
+w: an answer  not  getting  again  they make  a surmise
+w: all these  male  in kind  of Kṛṣṇa  friends  like
+tr: Receiving no answer, they reasoned again: “These are all male, just like Kṛṣṇa’s friends.
+
+## 38
+w: these  why  will tell  of Kṛṣṇa  the whereabouts  to us
+w: these  female  in kind  creepers  our  friends  almost
+tr: Why would they tell us where Kṛṣṇa is? But these creepers are female, almost our friends.
+
+## 39
+w: surely  they will tell  they have had  of Kṛṣṇa  the sight
+w: thus  reasoning  they ask  tulasī and the others
+tr: They will surely tell us — they have seen Kṛṣṇa.” Reasoning thus, they questioned the tulasī and the other plants:
+
+## 40
+w: O tulasī  O mālatī  O yūthī  O mādhavī  O mallikā
+w: your  beloved  Kṛṣṇa  came  your  near
+tr: “O tulasī, *mālatī*, *yūthī*, *mādhavī* and *mallikā*! Did your beloved Kṛṣṇa come near you?
+
+## 41
+w: you all  are  our  friends  like
+w: Kṛṣṇa’s whereabouts  telling  all of you  save  our lives
+tr: You are all like our friends. Tell us where Kṛṣṇa is, all of you, and save our lives!”
+
+## 42
+w: an answer  not  getting  again  they think  within
+w: these  Kṛṣṇa’s  maidservants  out of fear  not  tell  us
+tr: Receiving no answer, they thought within themselves: “These are Kṛṣṇa’s maidservants; out of fear they will not tell us.”
+
+## 43
+w: ahead  does  seeing  of Kṛṣṇa’s body  the fragrance  catching
+w: their  faces  looking at  they ask  certainty  making
+tr: Ahead they saw some does, and catching the fragrance of Kṛṣṇa’s body, they looked at their faces and, now certain, questioned them:
+
+## 44
+w: perhaps  O doe  came  with His beloved  here  with His limbs
+w: expanding  of the eyes  O friend  the great joy  Acyuta  your
+w: of the beloved’s  body  from contact  of the breasts  with kuṅkuma  coloured
+w: of the kunda garland  of our Lord  here  blows  the fragrance
+tr: “O friend, O doe, did Acyuta come this way with His beloved, delighting your eyes with the beauty of His limbs? For here blows the fragrance of our Lord’s *kunda* garland, reddened with *kuṅkuma* from His beloved’s breasts as He held Her close.” (Śrīmad-Bhāgavatam, 10.30.11)
+fn: The edition prints *sakhī* (a misprint; the vocative is *sakhi*, as in the Anubhāṣya: *he sakhi*). In the verse the beloved is not named; that She is Rādhā is said in verses 45–47 and in the Amṛta-pravāha-bhāṣya.
+
+## 45
+w: tell  O doe  with Rādhā  Śrī Kṛṣṇa  in every way
+w: to you  joy  to give  did He come  not  say  otherwise
+tr: “Tell us, O doe: did Śrī Kṛṣṇa come here with Rādhā to give you every joy? Do not tell us otherwise.
+
+## 46
+w: Rādhā’s  dear  friends  we  are not  outsiders
+w: from far  away  we know  His  what kind  body’s fragrance
+tr: We are Rādhā’s dear friends, not outsiders; even from afar we know the fragrance of His body.
+
+## 47
+w: with Rādhā’s  body  by contact  with the breasts’  kuṅkuma  adorned
+w: Kṛṣṇa’s  kunda  garland  with the fragrance  the air  is scented
+tr: The air is scented with the fragrance of Kṛṣṇa’s *kunda* garland, adorned with *kuṅkuma* from Rādhā’s breasts as He embraced Her.
+
+## 48
+w: Kṛṣṇa  here  leaving  went  this one  pining in separation
+w: what  answer  will give  she  not  hears  our words
+tr: Kṛṣṇa has left this place, and she is pining in separation. What answer can she give? She does not even hear our words.”
+
+## 49
+w: ahead  trees  they see  of flowers  and fruits  under the weight
+w: branches  all  have fallen  the earth  upon
+tr: Ahead they saw trees whose branches had all bent down to the earth under the weight of flowers and fruits.
+
+## 50
+w: Kṛṣṇa  seeing  these  all  make  obeisance
+w: Kṛṣṇa’s  going  they ask  them  certainty  making
+tr: Concluding that all these trees had bowed down on seeing Kṛṣṇa, they asked them, to be sure, which way He had gone:
+
+## 51
+w: the arm  on His beloved’s shoulder  placing  holding a lotus
+w: Rāma’s younger brother  by the tulasī bees  in swarms  blind with intoxication
+w: followed  here  your  O trees  obeisance
+w: whether  welcomes  passing  with loving glances
+tr: “O trees, did Rāma’s younger brother pass this way, His arm on His beloved’s shoulder and a lotus in His hand, followed by swarms of bees from His tulasī garland, blind with intoxication? And as He passed, did He welcome your obeisances with loving glances?” (Śrīmad-Bhāgavatam, 10.30.12)
+fn: *Anubhāṣya*: His left arm rests on His beloved’s shoulder, and in His right hand He holds a lotus for play; the bees are blind with the intoxication of the nectar they have drunk.
+
+## 52
+w: of the beloved  on the face  bees  fall  them  to drive away
+w: the pastime lotus  in waving  became  of distracted mind
+tr: As bees settled on His beloved’s face, He waved His pastime lotus to drive them away, and His mind was distracted.
+
+## 53
+w: your  obeisance  whether  did He pay  attention
+w: or  not  did He  tell  word  as proof
+tr: Did He pay any attention to your obeisances, or did He not? Tell us — give us your word as proof.
+
+## 54
+w: of Kṛṣṇa  in separation  these  servants  grieving
+w: what  answer  will they give  their  is not  consciousness
+tr: These servants are grieving in separation from Kṛṣṇa. What answer can they give? They are not even conscious.”
+
+## 55
+w: so  saying  further  they go  of the Yamunā  to the bank
+w: they see  there  Kṛṣṇa  is  of a kadamba  beneath
+tr: Saying this, they went on to the bank of the Yamunā, and there they saw Kṛṣṇa beneath a kadamba tree.
+
+## 56
+w: millions  of gods of love  enchanting  with the flute at His lips
+w: boundless  by beauty  steals  the world’s  eyes and mind
+tr: He enchants millions of gods of love; the flute is at His lips; with His boundless beauty He steals the eyes and minds of the whole world.
+
+## 57
+w: the beauty  seeing  to the ground  falls  a swoon  getting
+w: at that time  Svarūpa and the others  met  arriving
+tr: Seeing that beauty, the Lord fell to the ground in a swoon. Just then Svarūpa and the others arrived and found Him.
+
+## 58
+w: as before  in all His limbs  sāttvika  bhāvas  all
+w: within  of bliss  the tasting  outwardly  overwhelmed
+tr: As before, all the sāttvika-bhāvas appeared in all His limbs. Within He was tasting bliss; outwardly He was overwhelmed.
+
+## 59
+w: as before  all  together  made  consciousness
+w: rising  on all sides  the Lord  makes  looking
+tr: As before, they all together brought Him back to consciousness. Rising, the Lord looked all around.
+
+## 60
+w: where  went  Kṛṣṇa  now  I got  sight
+w: whose  beauty  My  stole  eyes and mind
+tr: “Where has Kṛṣṇa gone? I saw Him just now — Him whose beauty has stolen My eyes and mind!
+
+## 61
+w: again  why  not  I see  with the flute at His lips
+w: His  sight  in greed  wander  My eyes
+tr: Why do I not see Him again, with the flute at His lips? My eyes wander about, greedy to see Him.”
+
+## 62
+w: to Viśākhā  Rādhā  as  verse  spoke
+w: that  verse  Mahāprabhu  to recite  began
+tr: Then Mahāprabhu began to recite the verse that Rādhā had spoken to Viśākhā:
+
+## 63
+w: than a new cloud  shining brighter  whose lustre  than new
+w: lightning  more charming  whose garment
+w: with a beautiful  flute  gleaming  autumn
+w: full  moon  whose face
+w: with peacock  feathers  adorned  lovely
+w: starlike  necklace
+w: whose radiance
+w: He  My  of Madana  the enchanter  O friend
+w: increases  of the eyes  the longing
+tr: “O friend, His lustre shines brighter than a new cloud; His garment is more charming than new lightning; His face, with the gleaming, beautiful flute, is like the bright full moon of autumn; He is adorned with peacock feathers and radiant with a lovely necklace shining like stars — that enchanter of Madana fills My eyes with ever-growing longing.” (Govinda-līlāmṛta, 8.4)
+fn: *Anubhāṣya*: *tāra-hāra* — a necklace shining like bright stars. He is Madana, who intoxicates: to nourish the rasa of meeting He makes the beloved pine in separation and then makes the meeting fuller; and He is Mohana, who enchants by both — hence Madana-mohana.
+
+## 64
+w: new  cloud  glossy  complexion
+w: ground  collyrium  smooth
+w: the blue lotus  putting to shame  very soft
+w: conquering  of comparisons  the host
+w: steals  of all  eyes and mind
+w: Kṛṣṇa’s  lustre  supremely  powerful
+tr: “Kṛṣṇa’s complexion is glossy as a new cloud and smooth as ground collyrium; it puts the blue lotus to shame with its softness. Surpassing every comparison, Kṛṣṇa’s lustre is supremely powerful: it steals the eyes and minds of all.
+
+## 65
+w: tell  O friend  what  shall I do  means
+w: Kṛṣṇa  wondrous  cloud
+w: My  eyes  cātaka birds
+w: not  seeing  of thirst  dying  go
+tr: Tell Me, O friend, what shall I do? Kṛṣṇa is a wondrous cloud, and the *cātaka* birds of My eyes, not seeing Him, are dying of thirst.
+
+## 66
+w: lightning  the yellow cloth  steady  is not  ever
+w: pearl  necklace  of cranes  a row  lovely
+w: Indra’s  bow  peacock  feather
+w: above  has  appeared
+w: another  bow  the Vaijayantī  garland
+tr: His yellow cloth is the lightning, never steady; His pearl necklace is a lovely row of cranes; His peacock feather is a rainbow appearing above, and His Vaijayantī garland is another rainbow.
+
+## 67
+w: of the flute  soft sweet  sound
+w: sweet  thunder  hearing
+w: in Vṛndāvana  dance  peacocks  in flocks
+w: spotless  full in all digits
+w: of beauty  moonlight  sparkling
+w: a wondrous moon  in it  rising
+tr: Hearing the soft murmur of His flute — the cloud’s sweet thunder — the peacocks of Vṛndāvana dance. And in that cloud a wondrous moon is rising, spotless and full in all its digits, its moonlight of beauty sparkling.
+
+## 68
+w: of pastimes  of nectar  by the shower
+w: it sprinkles  fourteen  worlds
+w: such  a cloud  when  appeared
+w: of misfortune  of the storm  by the wind
+w: the cloud  was taken  to another  place
+w: dies  the cātaka  to drink  not  could
+tr: With a shower of the nectar of His pastimes it drenches all fourteen worlds — but when such a cloud appeared, the storm wind of My misfortune carried it away to another place, and the *cātaka* is dying, for it could not drink.”
+
+## 69
+w: again  He says  alas  alas
+w: recite  recite  Rāmarāya
+w: says  the Lord  choked  in speech
+w: Rāmānanda  recites  a verse
+w: hearing  the Lord’s  joy  and sorrow
+w: Himself  the Lord  makes  explanation
+tr: “Alas, alas! Recite, recite, Rāmarāya!” the Lord said again, His voice choked with feeling. Rāmānanda recited a verse; hearing it, the Lord felt both joy and sorrow, and He Himself explained it.
+fn: *Anubhāṣya*: joy, because He hears of Kṛṣṇa’s sweetness; sorrow, because He is separated from Him.
+
+## 70
+w: having seen  by locks  framed  face  Your  by the beauty of earrings
+w: of the cheeks  of the lips  the nectar  smiling  glance
+w: granting fearlessness  and  of arms  the pair  having beheld
+w: the chest  for Śrī  the sole delight  and  we become  maidservants
+tr: “Seeing Your face framed by curling locks and graced by the beauty of Your earrings, Your cheeks, the nectar of Your lips and Your smiling glance, and beholding Your two arms that grant fearlessness and Your chest, the sole delight of Śrī, we have become Your maidservants.” (Śrīmad-Bhāgavatam, 10.29.39)
+fn: The verse is Madhya 24.48; translated as there.
+
+## 71
+w: Kṛṣṇa  conquering  the lotus and the moon
+w: has set  of His face  a snare
+w: in it  of the lips  sweet  smile  the bait
+w: Vraja’s  women  coming  coming
+w: into the snare  falling  become  maidservants
+w: leaving  shame  husbands  home  and door
+tr: “Having conquered the lotus and the moon, Kṛṣṇa has set the snare of His face, baited with the sweet smile of His lips. The women of Vraja come, fall into the snare and become His maidservants, leaving shame, husbands, home and hearth.
+fn: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa has set the snare of His face to catch the does — the gopīs — and laid in it the bait of His sweet smile. The edition reads *mukha phānda* (no hyphen).
+
+## 72
+w: our friend  Kṛṣṇa  does  of a hunter  the conduct
+w: not  regards  right and wrong
+w: steals  of the women-does  the hearts
+w: makes  various  means  for that
+tr: Ah, our friend Kṛṣṇa behaves like a hunter! He cares nothing for right or wrong, and with ruse after ruse He steals the hearts of women, His does.
+fn: *Amṛta-pravāha-bhāṣya*: “Ah, our friend Śrī Kṛṣṇa behaves just like a hunter!” These are words of loving reproach.
+
+## 73
+w: the cheeks  sparkling
+w: dance  makara  earrings
+w: by which  dance  steal  women  all
+w: smiling  of sidelong glances  with arrows
+w: their  all  in the hearts  He strikes
+w: of women  in killing  not  any  fear
+tr: On His sparkling cheeks His *makara* earrings dance, and by that dance they steal the hearts of all women. With the arrows of His smiling sidelong glances He pierces their hearts, and He has no fear at all of killing women.
+
+## 74
+w: very  high  broad
+w: Lakṣmī  Śrīvatsa  ornaments
+w: Kṛṣṇa’s  that  robber  chest
+w: of Vraja  goddesses  hundreds of  thousands
+w: their  all  minds  and breasts
+w: of Hari  maidservants  in making  skilled
+tr: Kṛṣṇa’s chest, lofty and broad and adorned with the marks of Lakṣmī and Śrīvatsa, is a robber: it carries off the minds and breasts of hundreds of thousands of goddesses of Vraja and skilfully makes them Hari’s maidservants.
+fn: *Anubhāṣya*: Lakṣmī is a golden line on the left side of the chest; Śrīvatsa is a mark on the right side, a curl of hair turning to the right.
+
+## 75
+w: very graceful  long bolts
+w: Kṛṣṇa’s  of arms  the pair
+w: arms  are not  black  snakes’  bodies
+w: two  hills  into the gap  enter
+w: of women  in the hearts  bite
+w: in the mind  women  that  of poison  in the burning
+tr: Kṛṣṇa’s two arms are graceful long bolts — no, not arms, but the bodies of black snakes. They slip into the gap between the two hills and bite women’s hearts, and the women burn within from that poison.
+fn: The Gauḍīya Maṭha edition reads *mane*, “in the mind” (other editions *mare*, “die”). *Amṛta-pravāha-bhāṣya*: from the poison of this bite — His touch — the gopī burns with the fever of love’s desire.
+
+## 76
+w: Kṛṣṇa’s  hands  and feet  the palms and soles
+w: than millions of moons  cooler
+w: surpassing  camphor  vetiver  root  sandal
+w: once  whose  by the touch
+w: of Smara’s  burning  poison  is destroyed
+w: whose  by the touch  greedy  women’s  minds
+tr: The palms of Kṛṣṇa’s hands and the soles of His feet are cooler than millions of moons; they surpass camphor, vetiver root and sandal. A single touch of them destroys the burning poison of Smara, and women’s hearts long for that touch.”
+fn: The first line is the same as Madhya 2.34; translated as there. *Anubhāṣya*: *veṇā-mūla* is the fragrant *khaskhas* root (vetiver).
+
+## 77
+w: so much  lament  making
+w: in dejection  Śrī Gaurahari
+w: with this  meaning  recites  one  verse
+w: this  verse  having found  Rādhā
+w: to Viśākhā  speaks  Rādhā
+w: opening  of the heart  the grief
+tr: Lamenting so much in His dejection, Śrī Gaurahari recited a verse with this meaning — the verse with which Rādhā spoke to Viśākhā, laying open the grief of Her heart:
+
+## 78
+w: sapphire  door  broad
+w: outshining  whose chest
+w: tormented by Smara  of young girls  of the mind  the distress
+w: removing  whose arms
+w: bolts
+w: the moon  hari-candana  lotus
+w: than camphor  cooler  whose body
+w: He  My  of Madana  the enchanter  O friend
+w: increases  of the breast  the longing
+tr: “O friend, His broad chest outshines a door of sapphire; His bolt-like arms take away the distress of young girls’ minds tormented by Smara; His body is cooler than the moon, *hari-candana*, the lotus and camphor — that enchanter of Madana kindles a longing in My breast.” (Govinda-līlāmṛta, 8.7)
+fn: Heading in the edition: Śrī Rādhā’s words to Viśākhā — Her longing to see Kṛṣṇa.
+
+## 79
+w: the Lord  says  Kṛṣṇa  I  just now  saw
+w: by My own  misfortune  again  lost
+tr: The Lord said, “I saw Kṛṣṇa just now, and by My own misfortune I have lost Him again.
+
+## 80
+w: fickle  by nature  Kṛṣṇa  not  stays  in one place
+w: appearing  the mind  stealing  makes  disappearance
+tr: Kṛṣṇa is fickle by nature; He does not stay in one place. He shows Himself, steals the mind and disappears.”
+
+## 81
+w: of them  that  of good fortune  the pride
+w: seeing  self-esteem  and  Keśava
+w: to calm  to show grace
+w: right there  disappeared
+tr: “Seeing the gopīs intoxicated with their good fortune and grown proud, Keśava, to humble that pride and to show them His grace, vanished right there.” (Śrīmad-Bhāgavatam, 10.29.48)
+fn: *Anubhāṣya*: Keśava is He who brings under His sway *ka* and *īśa* — Brahmā and Śiva.
+
+## 82
+w: to Svarūpa Gosāñi  He says  sing  a  song
+w: by which  My  of the heart  may come  indeed  awareness
+tr: He said to Svarūpa Gosāñi, “Sing a song that will bring My heart back to awareness.”
+fn: *Anubhāṣya*: *saṁvit* — when a troubled mind regains steady awareness.
+
+## 83
+w: Svarūpa Gosāñi  then  sweetly  doing
+w: of the Gīta-govinda  a song  sings  to the Lord  making hear
+tr: Then Svarūpa Gosāñi sweetly sang for the Lord a song from the *Gīta-govinda*:
+
+## 84
+w: in the rāsa  Hari  here  who enjoyed  pastimes
+w: remembers  mind  My  who made  jests
+tr: “My mind remembers Hari, who here in the rāsa dance enjoyed His pastimes and His jests.” (Gīta-govinda, 2.3)
+
+## 85
+w: Svarūpa Gosāñi  when  this  song  sang
+w: rising  absorbed in prema  then  to dance  began
+tr: When Svarūpa Gosāñi sang this song, the Lord rose, absorbed in prema, and began to dance.
+
+## 86
+w: the eight  sāttvika  bhāvas  in His body  manifest  became
+w: joy and the others  vyabhicārī  all  welled up
+tr: The eight sāttvika-bhāvas appeared in His body, and all the *vyabhicārī-bhāvas*, beginning with joy, welled up.
+
+## 87
+w: rise of feelings  of feelings  meeting  of feelings  mingling
+w: between feeling  and feeling  in a great battle  of all  the dominance
+tr: Feelings arose (*bhāvodaya*), met (*bhāva-sandhi*) and mingled (*bhāva-śābalya*); feeling fought feeling in a great battle, each striving to prevail.
+fn: *Anubhāṣya*: *bhāvodaya* — the rise of the eight sāttvika-bhāvas; *bhāva-sandhi* — the meeting of two feelings, alike or different; *bhāva-śābalya* — the clash of many feelings with one another.
+
+## 88
+w: that  song  again  and again  He has  sung
+w: again and again  He relishes  makes  dancing
+tr: Again and again He had that song sung; again and again He relished it and danced.
+
+## 89
+w: in this way  dancing  when  went on  a long time
+w: Svarūpa Gosāñi  the song  made  conclusion
+tr: When the dancing had gone on in this way for a long time, Svarūpa Gosāñi brought the song to a close.
+
+## 90
+w: sing  sing  saying  the Lord  says  again and again
+w: not  sings  Svarūpa Gosāñi  fatigue  seeing  His
+tr: “Sing! Sing!” the Lord said again and again, but seeing His fatigue, Svarūpa Gosāñi did not sing.
+
+## 91
+w: sing  sing  the Lord  says  the devotees  hearing
+w: on all sides  all  together  make  the sound of Hari’s name
+tr: The Lord kept saying, “Sing! Sing!” Hearing this, the devotees gathered all around and called out the name of Hari.
+
+## 92
+w: Rāmānanda  Rāya  then  the Lord  seated
+w: fanning and so on  doing  the Lord’s  fatigue  removed
+tr: Then Rāmānanda Rāya made the Lord sit down and relieved His fatigue by fanning Him and serving Him in other ways.
+
+## 93
+w: the Lord  taking  they went  then  of the sea  to the shore
+w: bath  making Him take  again  Him  taking  came  home
+tr: Then they took the Lord to the seashore, bathed Him, and brought Him home again.
+
+## 94
+w: meal  making Him take  the Lord  made  lie down
+w: Rāmānanda  and the others  all  went  own  places
+tr: They gave the Lord His meal and had Him lie down to rest, and Rāmānanda and all the others went to their own places.
+
+## 95
+w: thus  indeed  I have told  the Lord’s  in the garden  pastime
+w: Vṛndāvana  mistaking it for  where  the entering  His
+tr: Thus I have told of the Lord’s pastime in the garden that He entered, taking it for Vṛndāvana.
+fn: Heading in the edition: the Lord’s divine madness (*udghūrṇā* and *citra-jalpa*): thinking Himself a maidservant of the gopīs, He remembers the pastimes of Vṛndāvana.
+
+## 96
+w: with lament  together  this  of madness  description
+w: Śrī Rūpa Gosāñi  this  has made  writing
+tr: Śrī Rūpa Gosāñi too has described this divine madness of the Lord, together with His lament:
+
+## 97
+w: of the ocean  on the shore  gleaming
+w: of rows of gardens  by the sight
+w: again and again  of the Vṛndāvana forest  by remembrance  born
+w: by prema  overwhelmed
+w: sometimes  of Kṛṣṇa’s name  by repetition  restless
+w: whose tongue  of bhakti  the relisher
+w: that  Caitanya  will  my  again  even
+w: of the eyes  come  to the path
+tr: “At times, on the shore of the ocean, at the sight of rows of gleaming gardens, He would remember again and again the forest of Vṛndāvana and be overwhelmed by the prema it awakened, His tongue moving restlessly as it repeated Kṛṣṇa’s name. Will that Caitanya, the relisher of bhakti, come once again before my eyes?” (Stava-mālā, First Caitanyāṣṭaka, 6)
+fn: The last line is the same as Ādi 3.65 (Caitanyāṣṭaka, 1). *Anubhāṣya*: rows of gardens gleaming with beauty on the sandy shore of the ocean; His tongue is restless with the ceaseless kīrtana of the name “Kṛṣṇa”.
+
+## 98
+w: endless  Caitanya’s  pastimes  not  can be  written
+w: a mere direction  showing  them  I make  indication
+tr: Śrī Caitanya’s pastimes are endless; they cannot all be written. I only point the way and give a hint of them.
+
+## 99
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

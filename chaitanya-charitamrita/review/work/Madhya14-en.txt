@@ -1,0 +1,1376 @@
+# English translation, Madhya-līlā 14 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya14.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–128 (scan pp. 560–568); shift 2: 129–257.
+
+## 0
+tr: Beholding the Herā-pañcamī Festival
+
+## 1
+w: Gaura  seeing  with His own people
+w: Śrī  the festival of Lakṣmī’s procession
+w: hearing  of the gopīs’ rasa  the exultation
+w: delighted  in love  danced  He
+tr: With His companions Gaura watched the festival of Śrī Lakṣmī’s procession, and when He heard of the gopīs’ rasa in all its exultation, He was filled with delight and danced in love.
+fn: Heading in the edition: “Gaurasundara dances as He watches the Herā-pañcamī.” *Anubhāṣya*: *gopī-rasollāsa* is the highest pitch of the gopīs’ *parakīya-rasa*.
+
+## 2
+w: glory  glory  to Gauracandra  to Śrī Kṛṣṇa Caitanya
+w: glory  glory  to Nityānanda  glory to Advaita  the blessed
+tr: Glory, glory to Gauracandra, Śrī Kṛṣṇa Caitanya! Glory, glory to Nityānanda, and glory to the blessed Advaita!
+fn: The second line is the same as Ādi 12.2; translation as there.
+
+## 3
+w: glory  glory  to Śrīvāsa and the others  Gaura’s devotees
+w: glory  to the listeners  whose  Gaura  the treasure of life
+tr: Glory, glory to Śrīvāsa and all the devotees of Gaura! Glory to my listeners, whose life’s treasure is Gaura!
+fn: The first line is the same as Ādi 9.3 and Madhya 12.3; translation as there.
+
+## 4
+w: in this way  the Lord  remains  of love  in the rapture
+w: at that time  Pratāparudra  made  entrance
+tr: While the Lord lay thus enraptured by love, King Pratāparudra came in.
+
+## 5
+w: on Sārvabhauma’s advice  leaving off  the royal dress
+w: alone  in a Vaiṣṇava’s dress  made  entrance
+tr: On Sārvabhauma’s advice he had laid aside his royal dress, and he entered alone, dressed as a Vaiṣṇava.
+fn: Heading in the edition: “Dressed as a humble Vaiṣṇava, with the permission of all the Vaiṣṇavas, [the king] massages the feet of the Lord, who lies with His eyes closed.”
+
+## 6
+w: of all the devotees  permission  took  with joined palms  becoming
+w: the Lord’s feet  clasping  falls  courage  mustering
+tr: With joined palms he asked permission of all the devotees. Then, mustering his courage, he fell down and clasped the Lord’s feet.
+
+## 7
+w: eyes  closing  in love  the Lord  on the ground  lying
+w: the king  skilfully  does  massaging of the feet
+tr: The Lord lay on the ground with His eyes closed in love, and the king skilfully massaged His feet.
+
+## 8
+w: of the rāsa-līlā  the verses  reciting  makes  praise
+w: “jayati te ’dhikam”  the chapter  does  recitation
+tr: He offered praise with the verses of the *rāsa-līlā*, reading aloud the chapter that begins “*jayati te ’dhikam*.”
+fn: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the *rāsa* dance (*Śrīmad-Bhāgavatam* 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
+
+## 9
+w: hearing  hearing  of the Lord  the joy  boundless
+w: “go on  go on”  saying  the Lord  says  again  again
+tr: As the Lord listened, His joy knew no bounds. “Go on, go on!” He said again and again.
+
+## 10
+w: “tava kathāmṛtam”  the verse  the king  when  recited
+w: rising  the Lord  in the rapture of love  embrace  made
+tr: When the king recited the verse “*tava kathāmṛtam*,” the Lord rose in the rapture of love and embraced him.
+
+## 11
+w: you  to Me  gave  many  priceless  jewels
+w: of Mine  anything  to give  there is not  I give  an embrace
+tr: “You have given Me many priceless jewels. I have nothing to give you in return, so I give you My embrace.”
+
+## 12
+w: so  saying  that  verse  recites  again  again
+w: of the two  in the bodies  trembling  in the eyes  streams of tears
+tr: Saying this, the Lord recited that verse again and again. Both of them trembled, and tears streamed from their eyes.
+
+## 13
+w: Your  nectar of words  of the afflicted  the life
+w: by the wise  praised  sin-removing
+w: to the ear auspicious  full of power  widespread
+w: on earth  proclaim  they  most munificent  people
+tr: “The nectar of Your words is the very life of those who burn with suffering. The wise have praised it, and it takes away all sin. It is auspicious to hear, full of power and spread far and wide. Those who proclaim it on earth are the most munificent of givers.” (Śrīmad-Bhāgavatam, 10.31.9)
+fn: *Anubhāṣya*: the gopīs sing this verse when Kṛṣṇa has vanished from the *rāsa* dance; *tapta-jīvanam* — the life of those who burn in separation from Him; *kalmaṣāpaham* — taking away the anguish of the fever of separation; *kavi* — those who know the rasa of Kṛṣṇa. Heading in the edition: “One who gives away the nectar of the Lord’s narrations is the most munificent of givers.”
+
+## 14
+w: “most munificent”  “most munificent”  saying  makes  embrace
+w: He  not  knows  this one  is  which  person
+tr: “Most munificent! Most munificent!” cried the Lord as He embraced him. He did not know who the man was.
+fn: Heading in the edition: “Unaware [of who was before Him, the Lord] embraces the king.” *Anubhāṣya*: the first *iṅho* is Mahāprabhu, the second the king Pratāparudra.
+
+## 15
+w: the former service  having seen  to him  mercy  arose
+w: inquiry  without  the gift of mercy  made
+tr: Having seen the king’s earlier service, the Lord felt mercy for him, and He bestowed His grace without asking who he was.
+
+## 16
+w: just see  of Caitanya  the mercy  all-powerful
+w: of him  inquiry  without  makes  successful
+tr: Just see how mighty Caitanya’s mercy is! Without asking anything about a person, it crowns his life with success.
+fn: Heading in the edition: “Caitanya’s mercy does not weigh a person’s fitness and needs no cause.”
+
+## 17
+w: the Lord  says  who  you  have done  My  good
+w: suddenly  coming  you make Me drink  the nectar of Kṛṣṇa’s pastimes
+tr: The Lord said, “Who are you, who have done Me such good? You have come so suddenly and made Me drink the nectar of Kṛṣṇa’s pastimes!”
+
+## 18
+w: the king  says  I  Your  of the servants  servant
+w: of the servants  a servant  make  this  my  hope
+tr: The king said, “I am a servant of Your servants. Make me a servant of Your servants — that is my one hope.”
+fn: Heading in the edition: “The king introduces himself as ‘a servant of the servants of Kṛṣṇa’.”
+
+## 19
+w: then  Mahāprabhu  to him  majesty  showed
+w: “to anyone  not  you shall tell”  this  prohibition  made
+tr: Then Mahāprabhu revealed His divine majesty to him and forbade him: “Tell no one.”
+
+## 20
+w: “the king”  such  awareness  ever  not  made  manifest
+w: within  everything  He knows  outwardly  detached
+tr: He never showed any awareness that this was the king. Within He knew everything, but outwardly He seemed unconcerned.
+fn: Heading in the edition: “The all-knowing Lord, in His outer consciousness, does not reveal that in the trance of love He had seen the king.”
+
+## 21
+w: Pratāparudra’s  fortune  seeing  the devotees
+w: the king  praise  all  with joyful hearts
+tr: Seeing Pratāparudra’s good fortune, all the devotees praised the king with joyful hearts.
+
+## 22
+w: obeisance  making  the king  outside  went
+w: joined  hands  making  all  the devotees  saluted
+tr: The king bowed down before the Lord, saluted all the devotees with joined palms and went out.
+
+## 23
+w: the midday bath and duties  performed  the Lord  with  the devotees
+w: Vāṇīnātha  prasāda  bringing  made  arrival
+tr: The Lord took His midday bath with the devotees, and then Vāṇīnātha arrived, bringing prasāda.
+fn: Heading in the edition: “After the midday bath Vāṇīnātha brings abundant prasāda for all.”
+
+## 24
+w: through Sārvabhauma, Rāmānanda and Vāṇīnātha  giving
+w: prasāda  sent  the king  in abundance  making
+tr: Through Sārvabhauma, Rāmānanda and Vāṇīnātha the king had sent prasāda in great abundance.
+
+## 25
+w: of the Balagaṇḍi offering  the prasāda  excellent  endless
+w: “ni-sakaḍi”  prasāda  came  of which  there is no  end
+tr: There was the prasāda of the Balagaṇḍi offering, excellent and without limit, and endless prasāda of the *ni-sakaḍi* kind, not cooked in water.
+fn: *Amṛta-pravāha-bhāṣya*: *ni-sakaḍi* is yogurt, thickened milk (*kṣīra*), fruits, roots and everything else that is not *sakaḍi*, food cooked in water. *Anubhāṣya*: the list in verses 25–34 shows how well the author knows the whole variety of offerings to Kṛṣṇa.
+
+## 26
+w: curd cheese  fruit drinks  green coconuts  mangoes  ripe coconuts  jackfruits
+w: many kinds of  bananas  and  palm-fruit kernels
+tr: There were curd cheese and fruit drinks, green coconuts, mangoes, ripe coconuts and jackfruits, many kinds of bananas, and the soft kernels of palm fruits.
+fn: *Anubhāṣya*: *bīja-tāla* is the soft kernel of the palm fruit (*tāla-śāṁs*).
+
+## 27
+w: oranges  grapefruits  pomelos  tangerines  citrons
+w: almonds  dried dates  grapes  dates
+tr: Oranges, grapefruits, pomelos, tangerines and citrons; almonds, dried dates, grapes and pressed dates.
+
+## 28
+w: manoharā  laḍḍus  and others  a hundred  kinds
+w: amṛta-guṭikā and others  kṣīrsā  without limit
+tr: *Manoharā*, *laḍḍus* and a hundred other sweets; *amṛta-guṭikā* and the like, and *kṣīrsā* without measure.
+
+## 29
+w: amṛta-maṇḍā  saravatī  and  pumpkin shreds
+w: sarāmṛta  sarabhājā  and  sarapurī
+tr: *Amṛta-maṇḍā*, *saravatī* lemons, pumpkin shreds, *sarāmṛta*, *sarabhājā* and *sarapurī*.
+fn: *Anubhāṣya*: *saravatī* is a choice kind of lemon; another reading of *amṛta-maṇḍā* is *amṛta-bhāṇḍa*, papaya.
+
+## 30
+w: hari-vallabha  seṅoti  karpūra  mālatī
+w: ḍāli-marica-lāḍu  navāta  amṛti
+tr: *Hari-vallabha*, *seṅoti*, *karpūra*, *mālatī*, *ḍāli-marica laḍḍus*, *navāta* and *amṛti*.
+fn: *Anubhāṣya*: *ḍāli-marica-lāḍu* are balls made of mung; *navāta* is a sweet boiled in sugar syrup; *amṛti* is a sweet fried in ghee, like *jilipi*.
+
+## 31
+w: padmacini  candrakānti  khājā  khaṇḍasāra
+w: viyari  kadmā  of tilakhājā  the kinds
+tr: *Padmacini*, *candrakānti*, *khājā*, *khaṇḍasāra*, *viyari*, *kadmā* and all kinds of sesame *khājā*.
+fn: *Anubhāṣya*: *candrakānti* are thin flatbreads of *urad* dal or puffed moon-shaped *baḍis*; *viyari* is a flatbread of puffed rice; *kadmā* is a very hard sweet of rice flour in sugar syrup; *tilā-khājā* is *khājā* with sesame fried in ghee.
+
+## 32
+w: of orange, grapefruit and mango trees  in the shape
+w: with flowers, fruits and leaves  of sugar  creations
+tr: There were sweets of sugar shaped like orange, grapefruit and mango trees, complete with flowers, fruits and leaves.
+
+## 33
+w: yogurt and milk  fresh butter  buttermilk  rasālā  śikhariṇī
+w: salted  mung sprouts  ginger  in slices
+tr: Yogurt, milk, fresh butter, buttermilk, *rasālā* and *śikhariṇī*; salted mung sprouts and sliced ginger.
+
+## 34
+w: of lemons, jujubes and the like  many kinds of  pickles
+w: to write  not  I can  of prasāda  how many  kinds
+tr: There were many kinds of pickles, of lemons, jujubes and other fruits. I cannot write down how many kinds of prasāda there were.
+
+## 35
+w: with prasāda  filled  became  half  the garden
+w: seeing  satisfied  became  Mahāprabhu’s  mind
+tr: Half the garden was filled with prasāda, and Mahāprabhu was delighted to see it.
+
+## 36
+w: in this way  Jagannātha  takes  His meal
+w: by this joy  Mahāprabhu’s  are soothed  eyes
+tr: In this way Jagannātha took His meal, and the joy of seeing it soothed Mahāprabhu’s eyes.
+
+## 37
+w: of ketakī leaves  cups  came  loads  five or seven
+w: each  each  person  ten  cups  were given  so many  plates
+tr: Five or seven loads of cups made of *ketakī* leaves were brought, so many that each person was given ten.
+
+## 38
+w: of the kīrtana singers  the exertion  knowing  Gaurarāya
+w: them all  to feed  the Lord’s  mind  hastens
+tr: Gaurarāya knew how hard the kīrtana singers had laboured, and He longed to feed them all.
+
+## 39
+w: row  by row  making  the devotees  He seated
+w: serving  to do  Himself  He began
+tr: He seated the devotees row by row and began to serve them Himself.
+
+## 40
+w: the Lord  not  having eaten  anyone  not  takes  a meal
+w: Svarūpa Gosāñi  then  made  a request
+tr: But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request:
+
+## 41
+w: Yourself  sit  Lord  meal  to take
+w: You  not  having eaten  anyone  not  can  eat
+tr: “Lord, please sit down Yourself and take Your meal. Unless You eat, no one can eat.”
+
+## 42
+w: then  Mahāprabhu  sits  His own people  with
+w: meal  caused to take  all  up to the throat  filling
+tr: Then Mahāprabhu sat down with His companions and fed them all until they could eat no more.
+
+## 43
+w: the meal  having taken  sat  the Lord  making  rinsing of the mouth
+w: the prasāda  remained  ate  a thousand  people
+tr: When He had eaten and rinsed His mouth, the Lord sat down. So much prasāda was left over that a thousand people ate of it.
+
+## 44
+w: by the Lord’s  order  Govinda  poor and destitute  people
+w: the suffering  beggars  bringing  makes eat
+tr: At the Lord’s order Govinda brought the poor and destitute, the suffering and the beggars, and fed them.
+
+## 45
+w: of the beggars  the joy of eating  watches  Gaurahari
+w: “Hari bol”  saying  to them  instruction  gives
+tr: Gaurahari watched the beggars joyfully eating, and He instructed them to say “Hari bol!”
+fn: Heading in the edition: “Gaurahari watches the beggars eat and teaches them to sing the name of Hari.”
+
+## 46
+w: “Hari bol”  saying  the beggars  in love  float  go
+w: such  wonderful  pastimes  shows  Gaurarāya
+tr: As they said “Hari bol!” the beggars floated away in love. Such are the wonderful pastimes of Gaurarāya!
+
+## 47
+w: here  of Jagannātha  the time of the chariot’s moving
+w: the Gauḍas  all  the chariot  pull  forward  not  goes
+tr: Meanwhile, when it was time for Jagannātha’s chariot to set out, all the *gauḍas* pulled at it, but it would not go forward.
+
+## 48
+w: to pull  not  can  the Gauḍas  the chariot  leaving  let go
+w: officers and friends  taking  the king  anxious  becoming  came
+tr: Unable to pull it, the *gauḍas* let the chariot go. In alarm the king hurried there with his officers and friends.
+
+## 49
+w: to great wrestlers  gave  the chariot  to move
+w: himself  set to  the chariot  not  can  pull
+tr: He set mighty wrestlers to move the chariot and put his own hand to it too, but they could not pull it.
+
+## 50
+w: anxious  becoming  brings  the king  maddened elephants
+w: the chariot  to move  to the chariot  made  harnessing
+tr: Growing anxious, the king brought maddened elephants and had them harnessed to the chariot to move it.
+
+## 51
+w: the maddened elephants  pull  as much as  their  strength
+w: one  step  not  moves  the chariot  it became  immovable
+tr: The maddened elephants pulled with all their strength, but the chariot would not move a single step. It stood fixed.
+
+## 52
+w: hearing  Mahāprabhu  came  His own people  with
+w: the maddened elephants  the chariot  pull  He watches  standing
+tr: Hearing of this, Mahāprabhu came with His companions. He stood and watched the maddened elephants pulling the chariot.
+
+## 53
+w: of the goad  under the blows  the elephants  make  screams
+w: the chariot  not  moves  the people  make  laments
+tr: The elephants screamed under the blows of the goad, yet the chariot would not move, and the people cried out in dismay.
+
+## 54
+w: then  Mahāprabhu  all  the elephants  removed
+w: to His own people  the chariot ropes  to pull  gave
+tr: Then Mahāprabhu had all the elephants taken away and gave the chariot ropes to His own companions to pull.
+
+## 55
+w: Himself  of the chariot  behind  pushes  the head  placing
+w: rumbling  rumbling  making  the chariot  moved  rushing
+tr: He Himself pushed the chariot from behind with His head, and with a rumbling roar the chariot rushed forward.
+
+## 56
+w: the devotees  the rope  in hand  holding  merely  run
+w: by itself  moved  the chariot  to pull  not  they get
+tr: The devotees simply ran along holding the ropes in their hands. The chariot moved by itself, and they had no need to pull.
+
+## 57
+w: in joy  make  the people  “jaya”  “jaya” sounds
+w: “jaya Jagannātha”  except  other  not  is heard
+tr: In their joy the people shouted “*Jaya! Jaya!*” Nothing could be heard but “*Jaya Jagannātha!*”
+
+## 58
+w: in an instant  indeed  went  the chariot  of Guṇḍicā  to the gate
+w: Caitanya’s might  seeing  the people  in wonder
+tr: In an instant the chariot reached the gate of Guṇḍicā. Seeing Caitanya’s might, the people were struck with wonder.
+
+## 59
+w: “glory to Gauracandra”  “glory to Śrī Kṛṣṇa Caitanya”
+w: in this way  tumult  the people  make  praise
+tr: “Glory to Gauracandra! Glory to Śrī Kṛṣṇa Caitanya!” With such a tumult the people sang His praises.
+
+## 60
+w: seeing  Pratāparudra  with officers and friends
+w: the Lord’s  glory  seeing  in love  swells  in body
+tr: Seeing the Lord’s glory, Pratāparudra, his officers and his friends thrilled with love in every limb.
+
+## 61
+w: the Pāṇḍu-vijaya  then  perform  the servants
+w: Jagannātha  sat  going  on His own throne
+tr: Then the servants performed the *Pāṇḍu-vijaya*, and Jagannātha went and sat upon His throne.
+
+## 62
+w: Subhadrā and Balarāma  to their own thrones  came
+w: Jagannātha’s  bath and offering  to take place  began
+tr: Subhadrā and Balarāma came to their thrones too, and Jagannātha’s bathing and offerings began.
+
+## 63
+w: in the courtyard  Mahāprabhu  with  the devotees
+w: in joy  beginning  made  dancing and kīrtana
+tr: In the courtyard Mahāprabhu and the devotees joyfully began to dance and sing kīrtana.
+
+## 64
+w: in joy  Mahāprabhu’s  love  surged up
+w: seeing  all  the people  in the ocean of love  floated
+tr: In His joy Mahāprabhu’s love surged up, and all who saw Him floated in the ocean of love.
+
+## 65
+w: dance  having done  in the evening  the ārati  watched
+w: to Āiṭoṭā  coming  the Lord  rest  took
+tr: After the dance He watched the evening *ārati*. Then the Lord came to Āiṭoṭā and rested.
+
+## 66
+w: Advaita and the others  the devotees  invitation  made
+w: chief  chief  nine  persons  nine  days  received
+tr: Advaita and the other devotees invited the Lord, and the nine chief among them received the nine days.
+fn: *Amṛta-pravāha-bhāṣya*: the nine days of the festival at Guṇḍicā’s house are called the *nava-rātra-yātrā*; all those days the Lord stayed with the devotees at Āiṭoṭā, and the nine chief devotees headed by Advaita invited Him, each on his own day.
+
+## 67
+w: the other  devotees  in the Cāturmāsya  as many as  days
+w: one  one  day  making  made  division
+tr: The other devotees divided up all the days of the Cāturmāsya, one day each.
+
+## 68
+w: of four  months  the days  the chief devotees  dividing  took
+w: the other  devotees  opportunity  not  received
+tr: The chief devotees shared out the days of the four months among themselves, and the other devotees found no opportunity.
+
+## 69
+w: one  day  invitation  make  two or three  joining together
+w: in this way  Mahāprabhu’s  the play of invitations
+tr: So two or three of them would join together to invite Him for a single day. Such was Mahāprabhu’s pastime of invitations.
+
+## 70
+w: in the morning  bath  having taken  having seen  Jagannātha
+w: in saṅkīrtana  dance  does  the devotees  with
+tr: In the morning He bathed and saw Jagannātha, and then He danced in saṅkīrtana with the devotees.
+
+## 71
+w: sometimes  Advaita  makes dance  sometimes  Nityānanda
+w: sometimes  Haridāsa  makes dance  sometimes  Acyutānanda
+tr: Sometimes He made Advaita dance, sometimes Nityānanda; sometimes Haridāsa, sometimes Acyutānanda.
+
+## 72
+w: sometimes  Vakreśvara  sometimes  other  devotees
+w: three times a day  kīrtana  does  in the courtyard of Guṇḍicā
+tr: Sometimes He made Vakreśvara dance, and sometimes other devotees. Three times a day He held kīrtana in the courtyard of Guṇḍicā.
+
+## 73
+w: to Vṛndāvana  has come  Kṛṣṇa  this  the Lord’s  awareness
+w: for Kṛṣṇa  the feeling of separation  became  ended
+tr: The Lord felt that Kṛṣṇa had come back to Vṛndāvana, and His feeling of separation from Kṛṣṇa came to an end.
+fn: Heading in the edition: “The joy of the Lord, who is in the mood of a gopī, a maidservant of Śrī Rādhā, that Kṛṣṇa has come to Vraja and met Śrī Rādhā.”
+
+## 74
+w: with Rādhā  Kṛṣṇa’s pastimes  this  became  in awareness
+w: in this  rasa  immersed  the Lord  became  Himself
+tr: His mind was filled with Kṛṣṇa’s pastimes with Rādhā, and the Lord Himself became immersed in this rasa.
+
+## 75
+w: in various gardens  with the devotees  the Vṛndāvana pastimes
+w: in the Indradyumna lake  does  water play
+tr: In the various gardens He enacted the pastimes of Vṛndāvana with the devotees, and in the Indradyumna lake He sported in the water.
+
+## 76
+w: Himself  all  the devotees  splashes  water  giving
+w: all  the devotees  splash  on all sides  surrounding
+tr: The Lord Himself splashed all the devotees with water, and they all surrounded Him and splashed Him from every side.
+
+## 77
+w: sometimes  one  circle  sometimes  many  circles
+w: with water-frog music  all  sound  the palms
+tr: Sometimes they formed one circle and sometimes many, and all of them clapped their palms on the water, making a sound like frogs croaking.
+
+## 78
+w: two by two  persons  meeting  make  water battle
+w: someone  loses  someone  wins  the Lord  does  watching
+tr: Pairing off two by two, they fought water battles; some lost and some won, and the Lord looked on.
+
+## 79
+w: Advaita and Nityānanda  water  throwing at each other
+w: the Ācārya  having lost  afterwards  makes  abuse
+tr: Advaita and Nityānanda threw water at each other. The Ācārya lost, and then began to hurl abuse.
+
+## 80
+w: of Vidyānidhi  water play  Svarūpa  with
+w: Gupta and Datta  water play  do  two  persons
+tr: Vidyānidhi played in the water with Svarūpa, and the two, Gupta and Datta, played together.
+
+## 81
+w: Śrīvāsa  with  in water  plays  Gadādhara
+w: Rāghava Paṇḍita  with  plays  Vakreśvara
+tr: Gadādhara played in the water with Śrīvāsa, and Vakreśvara with Rāghava Paṇḍita.
+
+## 82
+w: with Sārvabhauma  plays  Rāmānanda Rāya
+w: gravity  went  of both  became  like children
+tr: Rāmānanda Rāya played with Sārvabhauma. Both of them lost all their gravity and became like children.
+
+## 83
+w: Mahāprabhu  of those two  the frolic  seeing
+w: to Gopīnāthācārya  something  says  smiling
+tr: Seeing those two frolicking, Mahāprabhu smiled and said to Gopīnātha Ācārya:
+
+## 84
+w: learned  grave  both  respected  persons
+w: childish frolics  they do  make  stop
+tr: “Both are learned, grave and respected men, yet they are frolicking like children. Make them stop.”
+
+## 85
+w: Gopīnātha  says  Your  great ocean of mercy
+w: overflowing  makes  when  its  one  drop
+tr: Gopīnātha said, “When a single drop of the great ocean of Your mercy overflows,
+
+## 86
+w: Meru and Mandara mountains  drowns  here and there
+w: these  two  hillocks  of them  what  talk
+tr: it drowns even the mountains Meru and Mandara wherever they stand. What then of these two, who are mere hillocks?
+fn: *Anubhāṣya*: *gaṇḍa-śaila* — small hills; though “these two” are named, the words are aimed above all at Sārvabhauma Bhaṭṭācārya.
+
+## 87
+w: of dry logic the oilcake  eating  life  went  whose
+w: to him  the nectar of pastimes  You make drink  this  mercy  Yours
+tr: His whole life was spent eating the oilcake of dry logic, and now You give him the nectar of divine pastimes to drink. Such is Your mercy!”
+fn: *Anubhāṣya*: before he received Mahāprabhu’s mercy, Sārvabhauma knew only the impersonal Brahman and followed the path of logic, so Gopīnātha likened him to the oil-presser’s ox that eats the oilcake.
+
+## 88
+w: smiling  Mahāprabhu  then  Advaita  brought
+w: of the water  on the surface  Him  Śeṣa’s couch  made
+tr: Smiling, Mahāprabhu then brought Advaita and made Him His couch, like Śeṣa, upon the water.
+
+## 89
+w: Himself  of Him  upon  made  lying
+w: “the pastime of lying on Śeṣa”  the Lord  makes  manifestation
+tr: He lay down upon Him, and so the Lord revealed the pastime of the One who lies on Śeṣa.
+
+## 90
+w: Advaita  His own power  manifest  making
+w: Mahāprabhu  carrying  moves  on the water  floating
+tr: Advaita revealed His own power: carrying Mahāprabhu, He floated about on the water.
+
+## 91
+w: in this way  water sports  having done  some time
+w: to Āiṭoṭā  came  the Lord  with  the devotees
+tr: After sporting in the water like this for some time, the Lord returned to Āiṭoṭā with the devotees.
+
+## 92
+w: Purī  Bhāratī  and others  all  the chief  devotees
+w: of the Ācārya  at the invitation  took  a meal
+tr: Purī, Bhāratī and all the other chief devotees took their meal at the Ācārya’s invitation.
+
+## 93
+w: Vāṇīnātha  the rest  all  prasāda  brought
+w: Mahāprabhu’s  people  that  prasāda  ate
+tr: Mahāprabhu’s companions ate all the rest of the prasāda that Vāṇīnātha had brought.
+
+## 94
+w: in the afternoon  coming  made  darśana  dancing
+w: at night  to the garden  coming  took  rest
+tr: In the afternoon He came, took darśana and danced, and at night He returned to the garden to rest.
+
+## 95
+w: the next  day  coming  made  of the Lord  darśana
+w: in the courtyard  dancing and singing  did  for some time
+tr: The next day He came again to see the Lord, and for some time He danced and sang in the courtyard.
+
+## 96
+w: the devotees  with  the Lord  to the garden  coming
+w: the Vṛndāvana pastimes  does  the devotees  with
+tr: Then the Lord came to the garden with the devotees and enjoyed the pastimes of Vṛndāvana with them.
+fn: *Anubhāṣya*: although the Lord began the pastimes of Vṛndāvana here, He has no pastimes as the enjoyer (*bhoktā*) such as Kṛṣṇa has in *parakīya-rasa*: He thinks of Himself as a maidservant of Śrī Rādhā and is immersed in an ocean of bliss when Rādhā meets Kṛṣṇa, and it was in this mood that He enjoyed the *vṛndāvana-vihāra* with the devotees (cf. verses 73–75). The teaching of *gaura-nāgarī* therefore has no place here at all.
+
+## 97
+w: trees and creepers  blossomed  of the Lord  at the sight
+w: bees and cuckoos  sing  blows  cool  breeze
+tr: At the sight of the Lord the trees and creepers burst into bloom, the bees and cuckoos sang, and a cool breeze blew.
+
+## 98
+w: under every tree  the Lord  does  dancing
+w: Vāsudeva Datta  alone  does  singing
+tr: The Lord danced beneath every tree, while Vāsudeva Datta alone sang.
+
+## 99
+w: under one  one  tree  one  one  song  sings
+w: in supreme ecstasy  alone  dances  Gaurarāya
+tr: Beneath each tree he sang a new song, and Gaurarāya danced alone in supreme ecstasy.
+
+## 100
+w: then  to Vakreśvara  the Lord  said  to dance
+w: Vakreśvara  dances  the Lord  began  to sing
+tr: Then the Lord told Vakreśvara to dance. Vakreśvara danced, and the Lord began to sing.
+
+## 101
+w: with the Lord  Svarūpa and other  kīrtana singers  sing
+w: of directions  no  awareness  of love  in the flood
+tr: Svarūpa and the other singers sang with the Lord. In the flood of love they no longer knew where they were.
+
+## 102
+w: in this way  for some time  having done  the forest pastimes
+w: to Narendra  lake  went  to do  water play
+tr: After enjoying the pastimes of the forest like this for some time, they went to the Narendra lake to play in the water.
+
+## 103
+w: water play  having done  again  came  to the garden
+w: the pastime of eating  did  the Lord  with  the devotees
+tr: After sporting in the water, the Lord came back to the garden and enjoyed the pastime of eating with the devotees.
+
+## 104
+w: nine  days  at Guṇḍicā  stays  Jagannātha
+w: Mahāprabhu  such  pastimes  does  with the devotees
+tr: For nine days Jagannātha stayed at Guṇḍicā, and all that time Mahāprabhu enjoyed such pastimes with the devotees.
+
+## 105
+w: “Jagannātha-vallabha” by name  a large  flower garden
+w: nine  days  takes  the Lord  in it  rest
+tr: There is a large flower garden called Jagannātha-vallabha, and the Lord rested there for those nine days.
+fn: Heading in the edition: “The Lord rests at Jagannātha-vallabha.” *Amṛta-pravāha-bhāṣya*: the garden Jagannātha-vallabha lies about halfway between Guṇḍicā-bāḍī and the temple; there the pastime of “stealing the *danā*” takes place: Śrī Madana-mohana comes there and carries off the fragrant plant called *danā*.
+
+## 106
+w: of Herā-pañcamī  the day  came  knowing
+w: to Kāśī Miśra  says  the king  with care  making
+tr: Knowing that the day of the Herā-pañcamī was at hand, the king spoke to Kāśī Miśra with great care.
+fn: *Amṛta-pravāha-bhāṣya*: the Herā-pañcamī is the fifth day after the Ratha-yātrā: Lakṣmī-devī, searching for Jagannātha, goes to Guṇḍicā, and having seen (*heriyā*) Him she returns; this is why the people of Utkala call the day “Herā-pañcamī”.
+
+## 107
+w: tomorrow  Herā-pañcamī  will be  Lakṣmī’s  procession
+w: such  festival  make  as  ever  not  has been
+tr: “Tomorrow is the Herā-pañcamī, the procession of Lakṣmī. Hold the festival as it has never been held before.
+
+## 108
+w: the great festival  make  with such  special  preparations
+w: seeing  Mahāprabhu’s  so that  is  wonder
+tr: Prepare the great festival with such splendour that Mahāprabhu will be struck with wonder when He sees it.
+
+## 109
+w: of the Deity  in the storehouse  and  my  in the storehouse
+w: coloured cloths  small bells  and  umbrellas and cāmaras
+tr: From the Deity’s storehouse and from mine take coloured cloths, small bells, umbrellas and *cāmaras*.
+
+## 110
+w: with flags, banners and bells  make  decoration
+w: with music and dancing of the palanquin  make  adornment
+tr: Decorate everything with flags, banners and bells, and adorn the palanquin procession with music and dancing of every kind.
+
+## 111
+w: double  making  make  all  the offerings
+w: the Ratha-yātrā  than  so that  is  wonder
+tr: Make all the offerings double, so that the festival is more wonderful than the Ratha-yātrā.
+
+## 112
+w: that  indeed  do  the Lord  with  the devotees
+w: freely  coming  so that  makes  darśana
+tr: And arrange it so that the Lord and His devotees can come at their ease and see it all.”
+fn: Heading in the edition: “He arranges for the Lord to watch at His ease.”
+
+## 113
+w: in the morning  Mahāprabhu  His own people  with
+w: Jagannātha’s  darśana  made  to Sundarācala  going
+tr: In the morning Mahāprabhu went with His companions to Sundarācala and took darśana of Jagannātha.
+
+## 114
+w: to Nīlācala  came  again  the devotees  with
+w: to see  eagerness  of the Herā-pañcamī  the festivity
+tr: Then He came back to Nīlācala with the devotees, eager to see the festivities of the Herā-pañcamī.
+
+## 115
+w: Kāśī Miśra  the Lord  great  honour  showing
+w: with His people  in a good  place  seated  taking
+tr: Kāśī Miśra received the Lord with great honour and seated Him with His companions in a good place.
+fn: Heading in the edition: “Kāśī Miśra seats the Lord in the best place.”
+
+## 116
+w: a special rasa  the Lord’s  to hear  mind  became
+w: slightly  smiling  the Lord  Svarūpa  asked
+tr: The Lord wished to hear about a special rasa, and with a slight smile He asked Svarūpa:
+
+## 117–118
+w: although  Jagannātha  performs  in Dvārakā  pastimes
+w: naturally  manifest  makes  supreme  magnanimity
+w: still  within a year  there is  once
+w: Vṛndāvana  to see  His  longing  boundless
+tr: “Jagannātha enjoys His pastimes in Dvārakā, and there He naturally shows His supreme magnanimity. Still, once a year He feels a boundless longing to see Vṛndāvana.
+fn: *Anubhāṣya*: out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and shows Kṛṣṇa’s pastimes of Dvārakā; once a year there awakens in Him an intense longing to see Sundarācala, which is like Vṛndāvana.
+
+## 119
+w: like Vṛndāvana  these  gardens
+w: them  to see  longing  becomes  His mind
+tr: These gardens are like Vṛndāvana, and His heart longs to see them.
+
+## 120
+w: outwardly  from  makes  the Ratha-yātrā a pretext
+w: to Sundarācala  goes  the Lord  leaving  Nīlācala
+tr: Outwardly He makes the Ratha-yātrā His pretext: the Lord leaves Nīlācala and goes to Sundarācala.
+
+## 121
+w: in various flower gardens  there  plays  night and day
+w: Lakṣmī-devī  with Him  not  takes  for what  reason
+tr: There He plays night and day in the many flower gardens. Why, then, does He not take Lakṣmī-devī with Him?”
+
+## 122
+w: Svarūpa  says  hear  Lord  the reason  for this
+w: in the Vṛndāvana pastimes  of Lakṣmī  there is no  right of entry
+tr: Svarūpa said, “Hear the reason for this, Lord. Lakṣmī has no right to enter the pastimes of Vṛndāvana.
+fn: *Anubhāṣya*: Lakṣmī cannot take part in the pastimes of Vṛndāvana, and so Jagannātha does not take her with Him when He goes to Sundarācala.
+
+## 123
+w: in the Vṛndāvana pastimes  Kṛṣṇa’s  companions  the gopīs
+w: the gopīs  except  Kṛṣṇa’s  to steal  cannot  the mind
+tr: In the pastimes of Vṛndāvana Kṛṣṇa’s companions are the gopīs. No one but the gopīs can steal Kṛṣṇa’s heart.”
+
+## 124
+w: the Lord  says  on the pretext of the festival  Kṛṣṇa’s  going
+w: Subhadrā  and  Baladeva  with Him  two  persons
+tr: The Lord said, “Kṛṣṇa goes on the pretext of the festival, and with Him go two: Subhadrā and Baladeva.
+
+## 125
+w: with the gopīs  as many  pastimes  are  in the gardens
+w: hidden  Kṛṣṇa’s  heart  anyone  not  knows
+tr: All the pastimes He enjoys with the gopīs in the gardens remain hidden: no one knows Kṛṣṇa’s secret heart.
+
+## 126
+w: therefore  in Kṛṣṇa’s open going  there is not  any  fault
+w: then  why  Lakṣmī-devī  makes  so much  anger
+tr: So there is no fault at all in what Kṛṣṇa openly does. Why, then, is Lakṣmī-devī so angry?”
+fn: *Anubhāṣya*: see *Bṛhad-bhāgavatāmṛta*, part 1, chapter 7.
+
+## 127
+w: Svarūpa  says  of a loving woman  this  indeed  the nature
+w: of the beloved  at a trace of indifference  arises  anger
+tr: Svarūpa said, “Such is the very nature of one who loves: at the slightest trace of indifference from her beloved, anger arises in her.”
+fn: *Amṛta-pravāha-bhāṣya*: as He sets out, Jagannātha tells Lakṣmī, “I shall be back tomorrow,” but two or three days pass, and Lakṣmī in her love, seeing even a shadow of indifference in her Beloved, by her very nature flares up in anger. Heading in the edition: “Svarūpa gives the reason: when the beloved is indifferent, the loving woman becomes angry and offended.”
+
+## 128
+w: at that time  inlaid  in which  various  jewels
+w: of gold  palanquin  making  mounting
+tr: Just then Lakṣmī-devī set out, mounted on a golden palanquin inlaid with jewels of every kind.
+fn: Heading in the edition: “Lakṣmī comes in great pomp with many maidservants.”
+
+## 129
+w: umbrellas, cāmaras, standards  of flags  multitudes
+w: ahead of many instruments  dance  the temple dancers
+tr: Umbrellas, *cāmaras*, standards and flags came in multitudes, and the temple dancers (*deva-dāsīs*) danced before a band of many instruments.
+
+## 130
+w: betel boxes  water jugs  fans  cāmaras
+w: with (her)  maidservants  a hundred  necklaces  divine  ornaments and garments
+tr: Hundreds of maidservants went with her, carrying betel boxes, water jugs, fans and *cāmaras*, and adorned with necklaces, divine ornaments and fine garments.
+
+## 131
+w: great  splendour  with  a large retinue
+w: angry  becoming  Lakṣmī-devī  came (to)  the Lion Gate
+tr: With great splendour and a large retinue, Lakṣmī-devī came in anger to the Lion Gate.
+
+## 132
+w: Jagannātha’s  chief  chief  all  servants
+w: Lakṣmī-devī’s  maidservants  do  binding
+tr: Lakṣmī-devī’s maidservants seized all of Jagannātha’s chief servants and bound them.
+
+## 133
+w: binding  bringing  throw down  Lakṣmī’s  at the feet
+w: on thieves  punishment  they inflict  as if  they take  various riches
+tr: They dragged them bound before Lakṣmī and threw them down at her feet, punishing them like thieves, as if to make them give back all kinds of riches.
+
+## 134
+w: as if senseless  them  they do  beating
+w: of many kinds  abuse  they give  with mocking words
+tr: They beat them until they were nearly senseless and heaped all kinds of abuse and mockery on them.
+
+## 135
+w: with Lakṣmī  of the maidservants  the boldness  seeing
+w: laugh  Mahāprabhu’s  associates  to their mouths  hands  putting
+tr: Seeing the boldness of Lakṣmī’s maidservants, Mahāprabhu’s associates laughed, covering their mouths with their hands.
+
+## 136
+w: Dāmodara  says  such  of māna  a kind
+w: in the three worlds  where  do I see  I have heard  not  ever
+tr: Svarūpa Dāmodara said, “Where in the three worlds does one see *māna*, loving pique, of this kind? I have never heard of such a thing.
+
+## 137
+w: a woman in māna  dejected  gives up  her ornaments
+w: on the ground  sitting  with her nails  draws lines  with a darkened face
+tr: A woman in *māna* dejectedly lays aside her ornaments; she sits on the ground, her face clouded, and draws lines on it with her nails.
+
+## 138
+w: before  of Satyabhāmā  I hear  of this kind  māna
+w: in Vraja  of the gopīs  the māna  of rasa  a treasure-house
+tr: Long ago I heard of such *māna* in Satyabhāmā, and in Vraja the gopīs’ *māna* is the same — a treasure-house of rasa.
+fn: Heading in the edition: “Such too is the *māna* of the gopīs of Vraja and of Satyabhāmā.” *Amṛta-pravāha-bhāṣya*: such is the *māna* of the gopīs in Vraja, and Satyabhāmā shows the same, but Lakṣmī’s *māna* is the very opposite.
+
+## 139
+w: she  her own wealth  all  manifest  making
+w: against her beloved  goes  an army  arraying
+tr: This goddess, however, displays all her wealth and marches against her beloved with an army in battle array!”
+
+## 140
+w: the Lord  says  tell  of Vraja  of the māna  the kinds
+w: Svarūpa  says  the river of the gopīs’ māna  with a hundred streams
+tr: The Lord said, “Tell Me about the kinds of *māna* in Vraja.” Svarūpa replied, “The river of the gopīs’ *māna* flows in a hundred streams.
+
+## 141
+w: of the heroines  the natures  in the workings of love  many  differences
+w: by those  differences  of many kinds  of māna  the appearance
+tr: Heroines differ greatly in nature and in the workings of their love, and from these differences *māna* springs up in many forms.
+fn: *Anubhāṣya*: on the kinds of heroines, of group leaders and of friends, see the *Ujjvala-nīlamaṇi*.
+
+## 142
+w: completely  of the gopīs  the māna  not  can be  told
+w: by one or two  varieties  I make  an indication
+tr: The gopīs’ *māna* cannot be described in full; I shall give a glimpse of it through one or two of its varieties.
+
+## 143
+w: in māna  some  are  dhīrā  some  indeed  adhīrā
+w: in these  three divisions  some  are  dhīrādhīrā
+tr: In *māna* some are *dhīrā*, composed; some are *adhīrā*, impetuous; and some, making the third division, are *dhīrādhīrā*, both composed and impetuous.
+
+## 144
+w: the dhīrā  her lover  from afar  seeing  rises to greet him
+w: near  when he comes  she makes  of a seat  an offering
+tr: Seeing her lover from afar, the composed heroine rises to greet him, and when he comes near she offers him a seat.
+
+## 145
+w: in her heart  anger  with her lips  speaks  sweet  words
+w: the beloved  when he embraces  him  she does  embracing
+tr: Anger lies in her heart, but her lips speak sweet words; when her beloved embraces her, she embraces him in return.
+
+## 146
+w: straightforward  behaviour  she does  of māna  nourishing
+w: or  with ironic words  she does  rebuffing the beloved
+tr: Her behaviour is straightforward, yet she nurses her *māna*; or else she rebuffs her beloved with ironic words.
+
+## 147
+w: the adhīrā  with harsh words  does  scolding
+w: with the lotus on her ear  she strikes  she does  with a garland  binding
+tr: The impetuous heroine scolds her lover with harsh words; she strikes him with the lotus from her ear or binds him with her garland.
+
+## 148
+w: the dhīrādhīrā  with crooked words  makes  mockery
+w: sometimes  praise  sometimes  reproach  sometimes  or  indifference
+tr: The heroine who is both composed and impetuous mocks him with sly, double-edged words: at times she praises him, at times she reproaches him, and at times she is indifferent.
+
+## 149
+w: mugdhā  madhyā  pragalbhā  three  of heroines  kinds
+w: the mugdhā  does not  know  of māna  the artful varieties
+tr: There are three kinds of heroine: *mugdhā* (artless), *madhyā* (intermediate) and *pragalbhā* (bold). The artless heroine does not know the artful ways of *māna*.
+
+## 150
+w: her face  covering  she does  only  weeping
+w: of her lover  the tender words  hearing  becomes  pacified
+tr: She only covers her face and weeps, and when she hears her lover’s tender words, she is pacified.
+
+## 151
+w: the madhyā  the pragalbhā  take on  dhīrā and the other  divisions
+w: of them  among  of all  by nature  three kinds
+tr: It is the intermediate and the bold heroines who are divided into *dhīrā* and the rest; and all of them, by nature, are again of three kinds.
+
+## 152
+w: some  prakharā  some  mṛdu  some  are  samā
+w: by their own natures  Kṛṣṇa’s  increase  the bounds of love
+tr: Some are *prakharā*, sharp; some are *mṛdu*, gentle; and some are *samā*, balanced. Each, by her own nature, expands the bounds of Kṛṣṇa’s love.
+
+## 153
+w: sharpness  gentleness  a balanced nature  faultless
+w: by each  such  nature  Kṛṣṇa  they cause  delight
+tr: Sharpness, gentleness and a balanced nature are all faultless, and by each of these natures they delight Kṛṣṇa.”
+
+## 154
+w: this  talk  hearing  the Lord’s  bliss  boundless
+w: tell  tell  Dāmodara  He says  time  after time
+tr: Hearing this, the Lord felt boundless bliss. “Go on, go on, Dāmodara!” He said again and again.
+
+## 155
+w: Dāmodara  says  Kṛṣṇa  the crown of relishers
+w: of rasa  the taster  whose body is made of rasa
+tr: Dāmodara said, “Kṛṣṇa is the crown of all who relish rasa. He tastes rasa, and His very body is made of rasa.
+
+## 156
+w: whose form is made of love  Kṛṣṇa  subject to His devotees’ love
+w: in pure love  in the qualities of rasa  the gopīs  are expert
+tr: Kṛṣṇa’s form is made of love, and He is subject to the love of His devotees. In pure love and in the qualities of rasa the gopīs are supremely expert.
+
+## 157
+w: of the gopīs  in the love  there is no  fault of rasābhāsa
+w: therefore  Kṛṣṇa’s  it causes  supreme  satisfaction
+tr: In the gopīs’ love there is no fault of *rasābhāsa*, a mere semblance of rasa; therefore it gives Kṛṣṇa supreme satisfaction.”
+fn: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th wave); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
+
+## 158
+w: thus  by the moon’s rays  resplendent  nights
+w: He  whose desires are true  surrounded by devoted maidens
+w: enjoyed  within Himself  keeping His amorous feelings
+w: all  of autumn  of poetic narrations  the abodes of rasa
+tr: “Thus Kṛṣṇa, whose desires are ever true, spent in the *rāsa* dance all those autumn nights resplendent with moonlight — nights that poetry sings of as the abode of rasa. The maidens devoted to Him were all around Him, yet He kept His amorous feelings within Himself.” (Śrīmad-Bhāgavatam, 10.33.25)
+fn: *Anubhāṣya*: *avaruddha-saurata* — He is *ātmārāma*, the transcendental Kāmadeva. *Amṛta-pravāha-bhāṣya*: the gopīs, Vṛndāvana, those nights and the *rāsa* dance itself are wholly spiritual; Kṛṣṇa never so much as glances at material love.
+
+## 159
+w: vāmā  one  group of gopīs  dakṣiṇā  another  group
+w: in various moods  they make  Kṛṣṇa  rasa  taste
+tr: “One group of gopīs is *vāmā*, contrary, and another is *dakṣiṇā*, compliant. Through their various moods they let Kṛṣṇa taste rasa.
+fn: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): the *vāmā* heroine is ever ready for *māna*, is angered when it slackens and does not yield to the hero; the *dakṣiṇā* cannot bear prolonged *māna* and softens at his tender words.
+
+## 160
+w: the gopīs  among  the foremost  Rādhā Ṭhākurāṇī
+w: of the pure, radiant rasa  of love  of jewels  a mine
+tr: Among the gopīs the foremost is Śrī Rādhā Ṭhākurāṇī, a mine of the jewels of love in the pure and radiant rasa (*ujjvala-rasa*).
+
+## 161
+w: in age  madhyamā  She  by nature  samā
+w: in deep  love  She  always  vāmā
+tr: In age She is *madhyā*, in the bloom of youth; by nature She is *samā*, balanced; yet in the depth of Her love She is always *vāmā*, contrary.
+fn: *Amṛta-pravāha-bhāṣya*: in age She is *madhyā*, by nature *samā*, and always *vāmā*; from this contrariness *māna* is born.
+
+## 162
+w: from a contrary nature  māna  rises  constantly
+w: of that  in the midst  rises  Kṛṣṇa’s  ocean of bliss
+tr: From Her contrary nature *māna* constantly arises, and with it surges the ocean of Kṛṣṇa’s bliss.”
+
+## 163
+w: of a snake  like  the movement  of love
+w: by nature  winding  is
+w: therefore  with cause  without cause  and
+w: of the young pair  pique  arises
+tr: “Like the movement of a snake, the course of love is winding by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)
+fn: The same verse as Madhya 8.110; translation as there.
+
+## 164
+w: this  hearing  swells  the Lord’s  of bliss  the ocean
+w: tell  tell  says  the Lord  speaks  Dāmodara
+tr: When the Lord heard this, the ocean of His bliss swelled. “Go on, go on,” He said, and Dāmodara continued:
+
+## 165
+w: adhirūḍha  mahābhāva  Rādhikā’s  love
+w: utterly pure  spotless  like  fire-refined  gold
+tr: “Rādhikā’s love is *adhirūḍha mahābhāva*, the highest summit of *mahābhāva*. It is utterly pure and spotless, like gold refined in fire.
+fn: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): when the *sāttvika-anubhāvas* of *rūḍha-bhāva* reach an indescribable distinction, this is called *adhirūḍha-mahābhāva*.
+
+## 166
+w: of Kṛṣṇa  the sight  if  She obtains  suddenly
+w: with ornaments of many bhāvas  She becomes  adorned
+tr: Whenever She suddenly catches sight of Kṛṣṇa, She becomes adorned with the ornaments of many *bhāvas*, ecstatic feelings.
+
+## 167
+w: eight  sāttvika  joy and the rest  vyabhicārī  whose
+w: natural  love  twenty  bhāva ornaments
+tr: Hers are the eight *sāttvika* transformations, the *vyabhicārī-bhāvas* beginning with joy, Her natural love and the twenty ornaments of *bhāva*:
+
+## 168
+w: kila-kiñcita  kuṭṭamita  vilāsa  lalita
+w: bibboka  moṭṭāyita  and  maugdhya  cakita
+tr: *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *bibboka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.
+fn: *Bibboka* — so spelt in the edition and the commentaries (বিব্বোক). *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): *bibboka* is disregard, out of pride and *māna*, even for what one desires; *moṭṭāyita*, the longing that wakes in the heart at the memory of the beloved or at talk of him; *maugdhya*, asking the beloved about what one knows as if one did not know; *cakita*, great fear before the beloved where there is nothing to fear.
+
+## 169
+w: with so many  bhāva ornaments  adorned  Śrī  Rādhā’s  form
+w: on seeing  surge  the waves of Kṛṣṇa’s ocean of happiness
+tr: When Kṛṣṇa sees Śrī Rādhā’s form adorned with so many ornaments of *bhāva*, the waves of the ocean of His happiness surge high.
+
+## 170
+w: of kila-kiñcita and the other bhāvas  hear  the description
+w: by which  bhāva ornaments  Rādhā  steals  Kṛṣṇa’s mind
+tr: Now hear a description of *kila-kiñcita* and the other *bhāvas*, the ornaments of feeling by which Rādhā steals Kṛṣṇa’s mind.
+
+## 171
+w: Rādhā  seeing  Kṛṣṇa  if  to touch  makes up His mind
+w: on the path to the toll crossing  when  He bars  Her going
+tr: When Kṛṣṇa sees Rādhā and wants to touch Her, when He bars Her way on the path to the toll crossing (*dāna-ghāṭi*),
+fn: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa says, “Until You pay the toll, I forbid You to go along this road,” and so begins the toll-collecting pastime (*dāna-keli*).
+
+## 172
+w: when  coming  He forbids  flowers  to pick
+w: before Her friends  He wants  if  on Her body  His hand  to place
+tr: when He comes and forbids Her to pick flowers, or when He tries to touch Her in front of Her friends —
+
+## 173
+w: in all these  situations  of kila-kiñcita  the rise
+w: first  joy  the sañcārī  the root cause
+tr: in all these situations *kila-kiñcita* arises. Its root cause is the *sañcārī-bhāva* of joy (*harṣa*), which comes first.
+
+## 174
+w: of pride, longing, weeping
+w: smiling, envy, fear and anger
+w: the mingling  from joy
+w: is called  kila-kiñcita
+tr: “The mingling of pride, longing, weeping, smiling, envy, fear and anger, born of joy, is called *kila-kiñcita*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 71)
+
+## 175
+w: other  seven  bhāvas  coming  naturally  combine
+w: by the union of eight bhāvas  mahābhāva  arises
+tr: The other seven *bhāvas* come and naturally combine with joy, and from the union of these eight *bhāvas* arises *mahābhāva*.
+
+## 176
+w: pride  longing  fear  dry weeping
+w: anger  envy  there are  and  a faint smile
+tr: The seven are pride, longing, fear, tearless weeping, anger, envy and a faint smile.
+
+## 177
+w: of various flavors  eight bhāvas  in one  the meeting
+w: whose  in the tasting  satisfied  becomes  Kṛṣṇa’s mind
+tr: These eight *bhāvas*, each of a different flavour, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
+
+## 178
+w: yogurt  sugar  ghee  honey  black pepper  camphor
+w: with cardamom  in blending  as  rasālā (a drink)  sweet
+tr: It is like *rasālā*, a drink made sweet by blending yogurt, sugar, ghee, honey, black pepper, camphor and cardamom.
+fn: Heading in the edition: “A comparison with a sweet drink.”
+
+## 179
+w: with these bhāvas  filled  seeing  Rādhā’s face and eyes
+w: than union  happiness  He obtains  ten million times
+tr: Seeing Rādhā’s face and eyes filled with these *bhāvas*, Kṛṣṇa feels ten million times more happiness than in union with Her.
+
+## 180
+w: within  with a smile  shining  with drops of tears  strewn  its lashes
+w: slightly  reddened at the corners  overflowing with playfulness  in front  narrowing
+w: of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils raised
+w: Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
+tr: “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within. Tears beaded Her lashes, the corners of Her eyes were faintly reddened, and, brimming with playful delight, Her eyes narrowed as their pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune!” (Dāna-keli-kaumudī, 1)
+fn: Heading in the edition: “the words of Śrī Rūpa Gosvāmī”. *Anubhāṣya*: all seven *bhāvas* are in this glance — the smile, weeping, anger (the reddened corners), pride and longing (brimming with playful delight) and fear (the narrowing).
+
+## 181
+w: with eyes restless, reddened at the corners and clouded with tears  delighted by rasa
+w: with lips trembling in playful joy  with arched brows  with a dawning smile
+w: of Rādhā  adorned with kila-kiñcita  He  seeing  the face  than from union
+w: bliss  that  obtained  ten million times greater  which  was  not  within the range of words
+tr: “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with rasa, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta, 9.18)
+
+## 182
+w: this  hearing  the Lord  became  joyful  in mind
+w: absorbed in happiness  becoming  Svarūpa  He did  embracing
+tr: Hearing this, the Lord rejoiced at heart, and, absorbed in happiness, He embraced Svarūpa.
+
+## 183
+w: of vilāsa and the other bhāva ornaments  tell  indeed  the characteristics
+w: by which  bhāva  Rādhā  steals  Govinda’s  mind
+tr: “Now tell Me the characteristics of *vilāsa* and the other ornaments of *bhāva* by which Rādhā steals Govinda’s mind.”
+
+## 184
+w: then  indeed  Svarūpa Gosāñi  to speak  began
+w: hearing  the Lord’s  devotees  great happiness  obtained
+tr: Then Svarūpa Gosāñi began to speak, and the Lord’s devotees were overjoyed to hear him.
+
+## 185
+w: Rādhā  is sitting  or  into Vṛndāvana  is going
+w: there  suddenly  of Kṛṣṇa  the sight  She obtains
+tr: “Rādhā may be sitting, or going into the forest of Vṛndāvana, when suddenly She catches sight of Kṛṣṇa.
+
+## 186
+w: on seeing (Him)  various bhāvas  become  extraordinary
+w: of that  distinctiveness  the name  the vilāsa ornament
+tr: When She sees Him, various *bhāvas* appear in Her in an extraordinary way, and that distinctiveness is called the ornament of *vilāsa*.
+
+## 187
+w: of gait, standing, sitting and so on
+w: of the movements of face, eyes and so on
+w: momentary  indeed  distinctiveness
+w: vilāsa  born of meeting the beloved
+tr: “When a heroine meets her beloved, a momentary distinctiveness appears in her gait, in the way she stands and sits, and in the movements of her face, eyes and other features. This is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
+
+## 188
+w: shyness  joy  longing  flurry  contrariness  fear
+w: these  bhāvas  combining  Rādhā  restless  make
+tr: Shyness, joy, longing, flurry, contrariness and fear — all these *bhāvas* combine and make Rādhā restless.
+
+## 189
+w: in front  from seeing Kṛṣṇa  halted and wavering  Her  gait  became
+w: turned aside  half covered by a dark veil  beautiful  face  also
+w: with darting pupils  wide  pair of eyes  curved  thus  She
+w: with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
+tr: “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes glanced sidelong, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
+
+## 190
+w: before Kṛṣṇa  Rādhā  when  remains  standing
+w: in a threefold bend of Her body  She remains  Her brows  making dance
+tr: When Rādhā stands before Kṛṣṇa, Her body bends in three places and She makes Her brows dance.
+
+## 191
+w: in face and eyes  there is  of various bhāvas  an outpouring
+w: of this  mood of the beloved  the name  the lalita ornament
+tr: When Her face and eyes pour forth many *bhāvas*, this mood of the beloved heroine is called the ornament of *lalita*.
+
+## 192
+w: the graceful poise  of the limbs
+w: charming with the play of the brows
+w: delicate  is  where
+w: lalita  that  is called
+tr: “Where the poise of the limbs is graceful and delicate, charming with the play of the brows, that is called *lalita*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 75)
+
+## 193
+w: adorned with lalita  Rādhā  sees  when  Kṛṣṇa
+w: both  each other  to meet  become  eager
+tr: When Kṛṣṇa sees Rādhā adorned with *lalita*, They both long to meet each other.
+
+## 194
+w: from shyness  with neck, feet and waist bent aside  most charming
+w: by the moving creepers of Her brows  broken  Kāmadeva’s  mighty  bow
+w: with a graceful, cherished body glowing with the joy of love for Her beloved
+w: for Her beloved’s delight  She  was  with the ornament of lalita that had arisen  endowed
+tr: “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta, 9.14)
+
+## 195
+w: in eagerness  coming  Kṛṣṇa  does  pulling at the bodice
+w: within  delight  Rādhā  does  warding off
+tr: When Kṛṣṇa eagerly comes and pulls at Her bodice (*kañcuka*), Rādhā is delighted within, yet She wards Him off.
+
+## 196
+w: outwardly  contrariness and anger  inwardly  happiness  in the mind
+w: kuṭṭamita  named  this  bhāva  among the ornaments
+tr: Outwardly She shows contrariness and anger, but inwardly She is happy at heart. Among the ornaments this *bhāva* is called *kuṭṭamita*.
+
+## 197
+w: when the breasts, lips and so on are touched
+w: joy in the heart  though  from agitation
+w: outwardly  anger  as if pained
+w: is called  kuṭṭamita  by the wise
+tr: “When her breasts, lips and so on are touched, the heroine, though joyful at heart, shows anger outwardly in her agitation, as if she were pained. The wise call this *kuṭṭamita*.” (Ujjvala-nīlamaṇi, Anubhāva-prakaraṇa, 49)
+
+## 198
+w: Kṛṣṇa’s desire  fulfilled  is  She does  checking His hand
+w: within  bliss  Rādhā  outwardly  contrariness and anger
+tr: She checks Kṛṣṇa’s hand, and yet His desire is fulfilled; within, Rādhā feels bliss, while outwardly She shows contrariness and anger.
+
+## 199
+w: pain  feeling  She does  as if  dry  weeping
+w: slightly  smiling  Kṛṣṇa  She does  rebuking
+tr: As if in pain, She weeps without tears, and with a faint smile She rebukes Kṛṣṇa.
+
+## 200
+w: a checking of the hand  that does not obstruct His desire
+w: rebukes  and  hiding a sweet smile
+w: of Mādhava  makes  She whose thighs are like an elephant’s trunk
+w: charming  dry weeping  and  on the face  also
+tr: “Rādhā, whose thighs are like an elephant’s trunk, checks Mādhava’s hand without obstructing His desire; She rebukes Him with a sweet smile hidden in Her words; and on Her face there is a charming, tearless weeping.”
+fn: Heading in the edition: “a verse of the Gosvāmipāda”.
+
+## 201
+w: in this way  other  all  ornaments of bhāva
+w: with which  adorned  Rādhā  steals  Kṛṣṇa’s  mind
+tr: In the same way there are all the other ornaments of *bhāva*; adorned with them, Rādhā steals Kṛṣṇa’s mind.
+
+## 202
+w: endless  Kṛṣṇa’s  pastimes  not  can be  described
+w: Himself  describes  even if  the thousand-mouthed one
+tr: Kṛṣṇa’s pastimes are endless; they cannot be described in full, even if the thousand-mouthed Ananta Himself describes them.”
+
+## 203
+w: Śrīvāsa  smiling  says  listen  Dāmodara
+w: of my  Lakṣmī  see  of the wealth  the abundance
+tr: Śrīvāsa said with a smile, “Listen, Dāmodara! See the abundant wealth of my Lakṣmī!
+
+## 204
+w: of Vṛndāvana  the wealth  see  flowers and young shoots
+w: mountain minerals  peacock feathers  guñjā berries  consisting of
+tr: And see the wealth of Vṛndāvana: flowers and young shoots, mountain minerals, peacock feathers and *guñjā* berries!
+
+## 205
+w: Vṛndāvana  to see  went  Jagannātha
+w: hearing  of Lakṣmī-devī  in the mind  arose  uneasiness
+tr: Jagannātha went to see Vṛndāvana, and when Lakṣmī-devī heard of it, she grew uneasy at heart.
+
+## 206
+w: so much  wealth  leaving  why  did He go  to Vṛndāvana
+w: at Him  laughter  to make  Lakṣmī  did  arraying
+tr: ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make fun of Him she arrayed herself in all her splendour.
+
+## 207
+w: your  master  look  so much  wealth  leaving
+w: out of greed for leaves, fruits and flowers  went  to the flower garden
+tr: ‘Look at your master! He has left all this wealth and gone to a flower garden, greedy for leaves, fruits and flowers.
+
+## 208
+w: such  a deed  does  where  the crown jewel of the clever
+w: of Lakṣmī  before  your own  master  give  bringing
+tr: Would the crown jewel of connoisseurs ever do such a thing? Bring your master before Lakṣmī!’
+
+## 209
+w: so  saying  of Mahā-Lakṣmī  all  the maidservants
+w: with waistcloths  binding  bring  the Lord’s  own men
+tr: Saying this, all of Mahā-Lakṣmī’s maidservants bound the Lord’s own servants with waistcloths and brought them before her.
+
+## 210
+w: to Lakṣmī’s  feet  bringing  they make  bow
+w: a fine in money  they take  and  they make  plead
+tr: At Lakṣmī’s feet they made them bow down; they exacted a fine from them and made them plead humbly.
+
+## 211
+w: the chariot  upon  they do  with sticks  beating
+w: almost like thieves  they treat  Jagannātha’s  servants
+tr: They beat the chariot with sticks and treated Jagannātha’s servants almost like thieves.
+
+## 212
+w: all  the servants  say  joined  making  hands
+w: tomorrow  bringing  we shall give  your  before  Jagannātha
+tr: All the servants said with folded hands, ‘Tomorrow we shall bring Jagannātha before you.’
+
+## 213
+w: then  pacified  becoming  Lakṣmī  goes  to her own  home
+w: of my  Lakṣmī  the wealth  beyond words
+tr: Then Lakṣmī, pacified, went back to her own home. The wealth of my Lakṣmī is beyond words!
+
+## 214
+w: milk  boiling  yogurt  churn  your  gopīs
+w: my  mistress  sits  on a jeweled throne
+tr: Your gopīs boil milk and churn yogurt, while my mistress sits on a jewelled throne.”
+fn: Heading in the edition: “Speaking of Lakṣmī’s majesty, Śrīvāsa teases Svarūpa.”
+
+## 215
+w: of Nārada’s nature  Śrīvāsa  makes  jokes
+w: hearing  laugh  Mahāprabhu’s  all  own servants
+tr: Śrīvāsa, whose nature is like Nārada’s, joked in this way, and all of Mahāprabhu’s own servants laughed to hear him.
+fn: *Anubhāṣya*: the Lord’s “own servants” are Gadādhara and the others who form His potency (*śakti*); they are wholly devoted to the service of Śrī Rādhā-Govinda and absorbed in *rāgātmikā-bhakti*.
+
+## 216
+w: the Lord  says  Śrīvāsa  in you  Nārada’s nature
+w: in the mood of majesty  on you  the Lord’s influence
+tr: The Lord said, “Śrīvāsa, you have Nārada’s nature: in the mood of majesty (*aiśvarya*), the Lord’s power holds sway over you.
+
+## 217
+w: he  Dāmodara Svarūpa  a pure resident of Vraja
+w: majesty  not  knows  he  in pure love  floating
+tr: But this Svarūpa Dāmodara is a pure resident of Vraja. Floating in pure love, he does not know majesty.”
+
+## 218
+w: Svarūpa  says  Śrīvāsa  listen  attentively
+w: the wealth of Vṛndāvana  your  not  comes  to mind
+tr: Svarūpa said, “Śrīvāsa, listen carefully! Does the wealth of Vṛndāvana not come to your mind?
+
+## 219
+w: in Vṛndāvana  natural  which  ocean of wealth
+w: of Dvārakā and Vaikuṇṭha the wealth  of it  one  drop
+tr: In Vṛndāvana there is a natural ocean of wealth, and the wealth of Dvārakā and Vaikuṇṭha is but a drop of it.
+
+## 220
+w: the supreme  Puruṣottama  Himself  Bhagavān
+w: Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
+tr: Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and where He is rich, there is His abode, Vṛndāvana.
+fn: *Amṛta-pravāha-bhāṣya*: Vṛndāvana-dhāma is the place where Kṛṣṇa, setting majesty aside, counts Himself rich in the sweetness of leaves, flowers and the like.
+
+## 221
+w: made of cintāmaṇi  the ground  of jewels  the houses
+w: cintāmaṇi gems  of the maidservants  the foot ornaments
+tr: There the ground is made of *cintāmaṇi* gems and the houses of jewels; *cintāmaṇi* gems are the ornaments on the maidservants’ feet.
+
+## 222
+w: of wish-fulfilling trees and creepers  where  a natural forest
+w: flowers and fruits  except  no one  not  asks for  other  wealth
+tr: There the natural forest is made of wish-fulfilling trees and creepers, yet no one asks them for any wealth but flowers and fruits.
+
+## 223
+w: countless  wish-fulfilling cows  there  wander  from forest  to forest
+w: milk only  they give  no one  not  asks for  other  wealth
+tr: Countless wish-fulfilling cows wander there from forest to forest; they give only milk, and no one asks them for any other wealth.
+
+## 224
+w: ordinary  of the people  the talk  where  a divine song
+w: ordinary  walking  they do  as  is taken for dancing
+tr: There the ordinary talk of the people is a divine song, and their ordinary walking seems like dancing.
+
+## 225
+w: everywhere  the water  where  like nectar
+w: spiritual and blissful  the light  to be relished  where  embodied
+tr: Everywhere the water is like nectar, and the light of spiritual bliss takes form there, to be relished.
+fn: *Anubhāṣya* (on 227): the supreme light there — the moon, the sun and the rest — is made of spiritual bliss and is meant to be relished.
+
+## 226
+w: Lakṣmī  surpassing  in qualities  where  of Lakṣmīs  the company
+w: Kṛṣṇa’s flute  does  where  of a dear friend  the service
+tr: There the gopīs, a whole society of Lakṣmīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.
+fn: *Amṛta-pravāha-bhāṣya*: there dwell countless millions of Lakṣmīs full of sweetness, who have surpassed the Lakṣmī of majesty.
+
+## 227
+w: goddesses of fortune  the beloveds  the lover  the Supreme Person  wish-fulfilling trees
+w: the trees  the ground  made of cintāmaṇi gems  the water  nectar
+w: speech  song  dance  walking  also  the flute  a dear friend
+w: spiritual and blissful  light  the supreme  also  that  to be relished  also  and
+tr: “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light is spiritual bliss, there to be relished.” (Brahma-saṁhitā, 5.56)
+fn: *Anubhāṣya*: the goddesses of fortune are the gopīs; the Lover is the One without a second enjoyer; the trees yield the fruit of love for Kṛṣṇa; everything there is beyond matter and meant for Kṛṣṇa’s enjoyment alone.
+
+## 228
+w: cintāmaṇi  the foot ornament  of the maidens
+w: trees with flowers for adornment  the trees  of the gods
+w: in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows
+w: herds  and thus  an ocean of happiness  ah!  the splendour
+tr: “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods supply the flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)
+fn: Heading in the edition: “the words of Bilvamaṅgala, quoted in the *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, first wave”.
+
+## 229
+w: hearing  in the rapture of love  dance  does  Śrīnivāsa
+w: under the arm  clapping  he sounds  he makes  loud  loud  laughter
+tr: Hearing this, Śrīvāsa danced in the rapture of love, clapping his hands under his arms and laughing loudly.
+
+## 230
+w: Rādhā’s  pure rasa  the Lord  in rapture  heard
+w: in that  rapture of rasa  the Lord  dance  began
+tr: In rapture the Lord heard of Rādhā’s pure rasa, and, overwhelmed by that rasa, He began to dance.
+
+## 231
+w: in the rapture of rasa  the Lord’s  dance  Svarūpa’s  singing
+w: go on  go on  saying  the Lord  lends  His own ears
+tr: Absorbed in rasa, the Lord danced and Svarūpa sang. “Sing on, sing on!” the Lord kept saying, all ears.
+
+## 232
+w: songs of the rasa of Vraja  hearing  love  surged up
+w: the town of Puruṣottama  the Lord  with love  flooded
+tr: As He heard the songs of Vraja’s rasa, His love welled up, and the Lord flooded the town of Puruṣottama with it.
+
+## 233
+w: Lakṣmī-devī  in due time  went  to her own home
+w: the Lord  dance  does  came  the second  watch
+tr: In due time Lakṣmī-devī went back to her own home. The Lord went on dancing, and the second watch of the day (*prahara*) had come.
+
+## 234
+w: the four  groups  singing  having done  very  tired  became
+w: Mahāprabhu’s  in the rapture of love  twofold  increased
+tr: The four groups grew very tired from singing, but Mahāprabhu’s rapture of love doubled.
+
+## 235
+w: in the rapture of Rādhā’s love  the Lord  became  that  form
+w: Nityānanda  from afar  seeing  offered  prayers
+tr: In the rapture of Rādhā’s love the Lord assumed Her very form. Seeing this from afar, Nityānanda offered prayers.
+
+## 236
+w: Nityānanda  seeing  the Lord’s  rapture of feeling
+w: near  not  comes  somewhat  stays  at a distance
+tr: Seeing the Lord’s rapture, Nityānanda would not come near but kept somewhat at a distance.
+fn: The edition prints *nikaṭe āise* without *nā* (“not”), an evident misprint: the edition’s headings (“Fearing to disturb the rasa, Nitāi praises the Lord from afar”; “As Nitāi does not come near…”) and the *Amṛta-pravāha-bhāṣya* confirm the reading “does not come near”. *Amṛta-pravāha-bhāṣya*: seeing that the Lord, in the rapture of Rādhā’s love, had shown the form of Rādhikā, Nityānanda Prabhu kept at a distance, for it did not befit his position (*adhikāra-virodha*).
+
+## 237
+w: Nityānanda  except  the Lord  holds  what  person
+w: the Lord’s  rapture  not  goes  not  stops  the kīrtana
+tr: Who but Nityānanda could hold the Lord? His rapture did not subside, and the kīrtana did not stop.
+
+## 238
+w: a stratagem  making  Svarūpa  of all  the fatigue  made known
+w: of the devotees  the fatigue  seeing  the Lord’s  outer awareness  came
+tr: By a skilful hint Svarūpa made the Lord aware of everyone’s fatigue, and seeing how tired the devotees were, the Lord returned to outer awareness.
+
+## 239
+w: all  devotees  taking  the Lord  went  to the flower garden
+w: rest  having taken  He did  the midday bath
+tr: Taking all the devotees with Him, the Lord went to the flower garden; there He rested and then took His midday bath.
+
+## 240
+w: Jagannātha’s  prasāda  came  many  offerings
+w: Lakṣmī’s  prasāda  came  various  kinds
+tr: Many offerings of Jagannātha’s prasāda arrived, and with them Lakṣmī’s prasāda of every kind.
+fn: *Amṛta-pravāha-bhāṣya*: some doubt whether Lakṣmī-devī’s prasāda may be taken — yet Mahāprabhu Himself took it with His devotees. Lakṣmī and all the potencies are the Lord’s maidservants: they offer what is given to them to their Lord and only then partake, so the prasāda of His servants and maidservants is to be honoured as the prasāda of Bhagavān Himself.
+
+## 241
+w: all  taking  with many delights  He did  eating
+w: evening  bath  having taken  He did  Jagannātha’s  darśana
+tr: With everyone around Him, the Lord ate joyfully. After His evening bath He went for darśana of Jagannātha.
+
+## 242
+w: Jagannātha  seeing  He does  dancing and kīrtana
+w: in Narendra  water sports  He does  taking  the devotees
+tr: Seeing Jagannātha, He danced and sang kīrtana; then He played in the water of Narendra Lake with the devotees.
+
+## 243
+w: to the garden  coming  He did  a forest meal
+w: in this way  pastimes  did  the Lord  eight  days
+tr: Coming to the garden, He had a meal in the grove. In this way the Lord enjoyed His pastimes for eight days.
+
+## 244
+w: on the next  day  Jagannātha’s  return within
+w: on the chariot  mounting  Jagannātha  goes  to His own abode
+tr: The next day was Jagannātha’s return (*bhitara-vijaya*): mounting His chariot, He went back to His own abode.
+
+## 245
+w: as before  did  the Lord  with  the devotees
+w: in supreme  bliss  He does  dancing and kīrtana
+tr: As before, the Lord, together with the devotees, danced and sang kīrtana in supreme bliss.
+
+## 246
+w: Jagannātha’s  again  pāṇḍu-vijaya  took place
+w: one  silk rope  there  breaking  went
+tr: Once again Jagannātha’s *pāṇḍu-vijaya* took place, and one of the silk ropes broke.
+fn: Heading in the edition: “During the *pahāṇḍi* the silk rope partly gives way.”
+
+## 247
+w: of the pāṇḍu-vijaya  the cotton pads  tearing and bursting  go
+w: of Jagannātha  by the weight  the cotton  flying up  scatters
+tr: The cotton pads used for the *pāṇḍu-vijaya* tore and burst, and under Jagannātha’s weight the cotton flew up and scattered.
+
+## 248
+w: of Kulīna-grāma  Rāmānanda  Satyarāja Khān
+w: to them  an order  gave  the Lord  showing  respect
+tr: Rāmānanda and Satyarāja Khān of Kulīna-grāma were there, and the Lord respectfully gave them an order:
+
+## 249
+w: of these  silk ropes  you  be  the patrons
+w: every year  bring  ropes  having made
+tr: “Be the patrons (*yajamāna*) of these silk ropes: every year have the ropes made and bring them here.”
+fn: *Amṛta-pravāha-bhāṣya*: silk is woven in many villages near Kulīna-grāma, and so the Lord charged Rāmānanda Vasu and Satyarāja Khān, as *yajamānas*, with bringing the silk ropes.
+
+## 250
+w: so  saying  gave  to them  the torn  silk rope
+w: this  seeing  make  ropes  very  strong  making
+tr: So saying, He gave them the torn silk rope. “Look at this,” He said, “and make the ropes very strong.
+
+## 251
+w: in this  silk rope  is  Śeṣa’s abode
+w: in ten forms  becoming  who  serves  Bhagavān
+tr: In this silk rope resides Śeṣa, who serves Bhagavān by assuming ten forms.”
+
+## 252
+w: fortunate  those  Satyarāja  Rāmānanda
+w: of service  the order  receiving  became  supreme  bliss
+tr: Fortunate indeed were Satyarāja and Rāmānanda: receiving the order to serve, they felt supreme bliss.
+
+## 253
+w: every  year  to the Guṇḍicā  with the devotees
+w: silk ropes  bringing  they come  with very  great  joy
+tr: Every year after that, they came with the devotees to the Guṇḍicā festival with great joy, bringing silk ropes.
+
+## 254
+w: then  Jagannātha  going  sat  on His throne
+w: Mahāprabhu  home  came  with  the devotees
+tr: Then Jagannātha went and sat upon His throne, and Mahāprabhu came home with the devotees.
+
+## 255
+w: in this way  to the devotees  the festival  He showed
+w: the devotees  with  the pastimes of Vṛndāvana  He enacted
+tr: In this way the Lord showed the devotees the Herā-pañcamī festival and, together with them, enacted the pastimes of Vṛndāvana.
+fn: Heading in the edition: “He shows the devotees the Herā-pañcamī and reveals the pastimes of Vraja.”
+
+## 256
+w: of Caitanya Gosāñi  the pastimes  endless  boundless
+w: the thousand-mouthed one  of which  not  reaches  the end
+tr: The pastimes of Caitanya Gosāñi are endless and boundless; even the thousand-mouthed Śeṣa cannot reach their end.
+
+## 257
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The same colophon as Madhya 7.155; translation as there.

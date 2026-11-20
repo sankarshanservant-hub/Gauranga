@@ -1,0 +1,1427 @@
+# English translation, Antya-līlā 3 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya03.txt, .p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–136; shift 2: 137–270.
+
+## 0
+tr: An Account of the Glories of Śrī Haridāsa Ṭhākura
+
+## 1
+w: I bow down  of my śrī guru  to the beautiful  feet-
+w: -lotus  to the śrī gurus  to the Vaiṣṇavas  and
+w: to Śrī Rūpa  with his elder brother  with the companions
+w: with Raghunātha  to him  with Jīva
+w: with Advaita  with the Avadhūta  with His associates
+w: together  to Kṛṣṇa Caitanyadeva
+w: of Śrī Rādhā and Kṛṣṇa  to the feet  with Their companions
+w: with Lalitā and Śrī Viśākhā  and
+tr: I bow down to the beautiful lotus feet of my guru, to all the gurus and to the Vaiṣṇavas. I bow down to Śrī Rūpa, together with his elder brother, Sanātana, with his companions and Raghunātha, and with Jīva; to Śrī Kṛṣṇa Caitanyadeva, together with Advaita, with the Avadhūta, Nityānanda, and with all His associates; and to the feet of Śrī Rādhā and Kṛṣṇa, together with Lalitā and Śrī Viśākhā and their companions.
+fn: This same verse opens Antya 2; translation as there. The *Anubhāṣya* refers to Antya 2.1: the śrī guru is the guru who gave initiation into the mantra, or the guru who instructs in bhajana; the gurus are the whole line of gurus (the parama-guru and those before him), headed by Śrīmad Ānandatīrtha and Śrīman Mādhavendra Purī; the Vaiṣṇavas are the bhāgavatas of all four yugas; Śrī Rūpa is honoured with his elder brother Sanātana, with his own devotees and Raghunātha dāsa, and with Jīva, whom he blessed; the companions of Lalitā and Viśākhā are the sakhīs and mañjarīs.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 4.2 (and Ādi 4.2, where the first line has *śrī-caitanya* in place of *gauracandra*); translation as there.
+
+## 3
+w: in Puruṣottama  one  Oriyā  brāhmaṇa  boy
+w: fatherless  very handsome  gentle  in manner
+tr: In Puruṣottama there lived an Oriyā brāhmaṇa boy, fatherless, very handsome and gentle in his manner.
+
+## 4
+w: to the Lord’s place  daily  he comes  makes  obeisance
+w: with the Lord  talk  he speaks  the Lord  ‘life’  his
+tr: Every day he came to the Lord and offered Him obeisance. He would talk with the Lord, for the Lord was his very ‘life’.
+
+## 5
+w: for the Lord  his  affection  the Lord  kindness  shows
+w: Dāmodara  his  affection  to tolerate  not  could
+tr: The boy loved the Lord, and the Lord was kind to him; but Dāmodara could not tolerate the boy’s affection.
+
+## 6
+w: again and again  forbidding  does  the brāhmaṇa  boy
+w: the Lord  not  seeing  he  to remain  not  could
+tr: Again and again he forbade the brāhmaṇa boy to come, but the boy could not stay away without seeing the Lord.
+
+## 7
+w: daily  he comes  the Lord  him  treats  with great affection
+w: where  affection  there  he comes  of a child  the way
+tr: He came every day, and the Lord treated him with great affection. A child goes where he is loved — such is the way of children.
+
+## 8
+w: that  seeing  Dāmodara  distress  feels  in his mind
+w: to say  not  could  the boy  the prohibition  not  heeds
+tr: Seeing this, Dāmodara was troubled at heart, yet he could say nothing more, for the boy would not heed his prohibition.
+
+## 9
+w: another  day  that  boy  to the Lord’s place  came
+w: the Lord  him  affection  showing  news  asked
+tr: One day the boy came to the Lord again, and the Lord affectionately asked him how he was.
+
+## 10
+w: after some time  that  boy  getting up  when  left
+w: to bear  not  could  Dāmodara  to speak  began
+tr: After a while, when the boy got up and left, Dāmodara could bear it no longer and began to speak.
+
+## 11
+w: in instructing others  a paṇḍita  he says  to the Lord
+w: ‘Gosāñi’  ‘Gosāñi’  now  we shall know  ‘Gosāñi’
+tr: He said to the Lord, “When it comes to instructing others, You are a paṇḍita, and everyone hails You, ‘Gosāñi! Gosāñi!’ Now we shall see what kind of Gosāñi You are.
+fn: *Amṛta-pravāha-bhāṣya*: when it comes to instructing others, You are a paṇḍita, and everyone calls You “Gosāñi” (ācārya); now it will be seen how You remain a Gosāñi.
+
+## 12
+w: now  of the Gosāñi  the qualities  all  people  will sing
+w: the Gosāñi’s  reputation  all over  in Puruṣottama  will be
+tr: Now all the people will sing the Gosāñi’s qualities, and the Gosāñi’s fame will spread all over Puruṣottama!”
+
+## 13
+w: hearing  the Lord  says  what  are you saying  Dāmodara
+w: Dāmodara  says  You  independent  the ‘Lord’
+tr: Hearing this, the Lord said, “What are you saying, Dāmodara?” Dāmodara said, “You are the independent Lord.
+
+## 14
+w: as You please  conduct  You do  who  can  to speak
+w: talkative  of the world  the mouth  can You  to cover
+tr: You behave as You please — who can say anything to You? But can You stop the mouths of a talkative world?
+
+## 15
+w: a paṇḍita  being  in Your mind  why  consideration  not  You do
+w: of the widowed brāhmaṇī  to the boy  affection  why  You show
+tr: You are a paṇḍita — why do You not consider this? Why do You show such affection to the son of a widowed brāhmaṇī?
+
+## 16
+w: although  the brāhmaṇī  she  austere  chaste
+w: still  her  fault  beautiful  young
+tr: Although that brāhmaṇī is austere and chaste, she has one fault: she is young and beautiful.
+
+## 17
+w: You too  very young  very handsome
+w: to people’s  whispering talk  You give  occasion
+tr: And You too are very young and very handsome. You are giving people occasion for gossip.”
+
+## 18
+w: this  saying  Dāmodara  silent  became
+w: within  pleased  the Lord  smiling  reflected
+tr: Having said this, Dāmodara fell silent. The Lord, pleased at heart, smiled and reflected:
+
+## 19
+w: this  I call  of pure love  a wave
+w: like Dāmodara  My  there is not  ‘intimate associate’
+tr: “This is what I call a wave of pure love. I have no intimate associate like Dāmodara.”
+
+## 20
+w: thus  reflecting  the Lord  for the midday duties  went
+w: the next  day  Dāmodara  in private  He called
+tr: Reflecting thus, the Lord went to attend to His midday duties. The next day He called Dāmodara to Him in private.
+
+## 21
+w: the Lord  says  Dāmodara  go  to Nadīyā
+w: of My mother  near  you  stay  there  going
+tr: The Lord said, “Dāmodara, go to Nadīyā and stay there near My mother.
+
+## 22
+w: you  except  her  protector  there is not  other
+w: even Me  since  you  made  cautious
+tr: She has no protector other than you, for you have cautioned even Me.
+
+## 23
+w: like you  ‘impartial’  there is not  among My  associates
+w: ‘impartial’  without being  ‘dharma’  not  can be  protected
+tr: Among My associates there is no one as impartial (*nirapekṣa*) as you, and without impartiality dharma cannot be protected.
+
+## 24
+w: Me  from  what  not  happens  that  you  from  happens
+w: Me  you made  chastisement  others  who  are
+tr: What I cannot do, you can. You have chastised even Me — what then of anyone else?
+fn: *Anubhāṣya*: “what does not come from Me” is the impartiality that I do not keep.
+
+## 25
+w: of My mother  in the house  stay  going  of My mother  at the feet
+w: you  before  there is not  of anyone  wilful behaviour
+tr: Go and stay in My mother’s house, at her feet. Before you no one will dare to behave as he pleases.
+
+## 26
+w: from time to time  you will come  sometimes  Me  to see
+w: quickly  doing  again  there  make  going
+tr: From time to time you may come to see Me, but then go back there quickly.
+
+## 27
+w: to My mother  convey  My  millions of  obeisances
+w: My  happy news  telling  happiness  give  to her
+tr: Convey to My mother My obeisances millions of times, and gladden her by telling her how happy I am.
+
+## 28
+w: constantly  His own  news  to you  to tell
+w: for this  reason  the Lord  me  sent  here
+tr: Tell her: ‘The Lord has sent me here so that I may always bring you news of Him.’
+
+## 29
+w: this  saying  of My mother  in the mind  satisfaction  produce
+w: and  a confidential  matter  her  remembrance  cause
+tr: Saying this, bring satisfaction to My mother’s heart. And remind her of a confidential matter:
+
+## 30
+w: again and again  coming  I  to your  house
+w: sweets  vegetable dishes  all  I do  eating
+tr: ‘Again and again I come to your house and eat all the sweets and vegetable dishes.
+
+## 31
+w: eating  do  I  you  that  know
+w: external  in separation  that  a vision  as  you consider
+tr: I do eat them, and you know it; but in the external state of separation you take it to be only a vision (*sphūrti*).
+fn: *Amṛta-pravāha-bhāṣya*: when your gaze turns outward to the world, it seems to you only a vision (*sphūrti*): “Nimāi came to my mind.” But in truth I come to you and eat.
+
+## 32
+w: this  at the Māgha-saṅkrānti  you  cooking  did
+w: various  vegetable dishes  condensed milk  cakes  sweet rice  you cooked
+tr: At this last Māgha-saṅkrānti you cooked many vegetable dishes, condensed milk, cakes and sweet rice.
+
+## 33
+w: to Kṛṣṇa  the food  offering  when  you did  meditation
+w: of Me  a vision  occurred  tears  filled  the eyes
+tr: When you had offered the food to Kṛṣṇa and were meditating, I appeared to you, and your eyes filled with tears.
+
+## 34
+w: hastily  I  going  everything  ate
+w: I  eat  seeing  your  happiness  arose
+tr: I went in haste and ate everything, and when you saw Me eating, joy arose in you.
+
+## 35
+w: after a moment  tears  wiping  empty  seeing  the plate
+w: a dream  I saw  as if  Nimāi  ate  the rice
+tr: A moment later, wiping your tears, you saw that the plate was empty and thought, “I have had a dream that Nimāi ate the rice.”
+
+## 36
+w: in the state of external separation  again  confusion  came
+w: the food  not  I offered  this  thought  came
+tr: In that state of external separation you were confused again and thought, “I have not offered the food.”
+
+## 37
+w: in the cooking pots  you saw  all  the food  is  filled
+w: again  the food  you offered  the place  cleansing  having done
+tr: You looked in the cooking pots and saw that they were all full of food. So, having cleansed the place, you offered the food again.
+
+## 38
+w: in this way  again and again  I do  eating
+w: your  by pure love  Me  does  attracting
+tr: In this way I eat again and again; your pure love draws Me.
+
+## 39
+w: by your  order  I  am  in Nīlācala
+w: near  taking  you go  Me  of your  love  by the power
+tr: It is by your order that I stay in Nīlācala, yet by the power of your love you bring Me to your side.’
+
+## 40
+w: in this way  again and again  cause  remembrance
+w: My  name  taking  her  worship  feet
+tr: Remind her in this way again and again, and worship her feet in My name.”
+
+## 41
+w: this  saying  of Jagannātha  the prasāda  had brought
+w: to His mother  to the Vaiṣṇavas  to give  separately  separately  He gave
+tr: Saying this, the Lord had Jagannātha’s prasāda brought and gave it to him in separate portions for His mother and for the Vaiṣṇavas.
+
+## 42
+w: then  Dāmodara  going  to Nadīyā  came
+w: the mother  meeting  her  at the feet  he remained
+tr: Then Dāmodara set out and came to Nadīyā. He met the Lord’s mother and remained at her feet.
+
+## 43
+w: to the Ācārya and others  to the Vaiṣṇavas  mahā-prasāda  he gave
+w: of the Lord  as  the order  the Paṇḍita  that  carried out
+tr: He gave the mahā-prasāda to the Ācārya (Advaita) and the other Vaiṣṇavas. Just as the Lord had ordered, so the Paṇḍita did.
+
+## 44
+w: Dāmodara  before  independence  not  is  of anyone
+w: of him  out of fear  all  do  restrained  behaviour
+tr: Before Dāmodara no one dared to act independently; out of fear of him everyone behaved with restraint.
+
+## 45
+w: among the Lord’s associates  of whom  he sees  slight  propriety  transgression
+w: with words  chastisement  making  makes  propriety  establishment
+tr: Whenever he saw any of the Lord’s associates commit even a slight breach of propriety, he chastised him with words and so established proper conduct.
+
+## 46
+w: this  indeed  I have told  of Dāmodara  chastisement with words
+w: whose  by hearing  flee  ‘ignorance’  ‘atheism’
+tr: Thus I have told of Dāmodara’s chastisement with words; by hearing of it, ignorance and unbelief (*pāṣaṇḍa*) flee.
+fn: The edition’s heading: hearing the account of Dāmodara’s chastisement with words destroys deceit (*kaitava*) — the desire to please one’s own senses — and offences.
+
+## 47
+w: of Caitanya  the pastimes  deep  millions of oceans  than
+w: for what reason  what  He does  anyone  not  can  understand
+tr: Caitanya’s pastimes are deeper than millions of oceans. No one can understand what He does or why.
+
+## 48
+w: therefore  the hidden  meaning  anything  not  I know
+w: external  meaning  to make  I make  great effort
+tr: Therefore I know nothing of their hidden meaning; I struggle even to give them an outward meaning.
+
+## 49
+w: one day  the Lord  Haridāsa  met
+w: him  with  conversation  making  him  asked
+tr: One day the Lord met Haridāsa, and as they conversed He asked him:
+fn: *Anubhāṣya*: another manuscript has here a further verse: “Having accepted chastisement in words from Dāmodara, Gaura, the ocean of mercy, then heard from Haridāsa’s mouth of His own hidden pastime.”
+
+## 50
+w: Haridāsa  in the age of Kali  yavanas  countless
+w: to cows and brāhmaṇas  violence  they do  very wicked
+tr: “Haridāsa, in the age of Kali the yavanas are countless. They are very wicked and do violence to cows and brāhmaṇas.
+
+## 51
+w: of all of them  in what  way  will be  deliverance
+w: of it  the means  not  I see  this  grief  boundless
+tr: How will all of them be delivered? I see no means for it, and this grief of Mine is boundless.”
+
+## 52
+w: Haridāsa  says  Lord  worry  not  do
+w: of the yavanas  the worldly bondage  seeing  grief  not  feel
+tr: Haridāsa said, “Lord, do not worry. Do not grieve at the sight of the yavanas’ worldly bondage (*saṁsāra*).
+
+## 53
+w: of all the yavanas  ‘liberation’  will be  easily
+w: ‘hā rāma’  ‘hā rāma’  saying  they speak  in the semblance of the name
+tr: All the yavanas will attain liberation easily, for they say ‘hā rāma, hā rāma’, and so they utter the semblance of the name (*nāmābhāsa*).
+fn: *Amṛta-pravāha-bhāṣya* (on 56): in the word *harām* (“unclean”) the name “Rāma” is present as an indication (*saṅketa*); this is called *nāmābhāsa*.
+
+## 54
+w: in great love  a devotee  says  ‘hā rāma’  ‘hā rāma’
+w: of the yavanas  the fortune  see  they take  that  name
+tr: In great love a devotee cries, ‘Hā Rāma! Hā Rāma!’ See the good fortune of the yavanas: they utter that very name!
+
+## 55
+w: although  to something else  by indication  is  nāmābhāsa
+w: still  of the name  the potency  not  is  destroyed
+tr: When the name is uttered to point (*saṅketa*) to something else, that is *nāmābhāsa*; yet even then the potency of the name is not destroyed.
+
+## 56
+w: by a boar’s  tusk  struck  a mleccha
+w: ‘hā rāma’  thus  again  and again
+w: even by saying  liberation  attains
+w: what  then  with faith  one who chants
+tr: “A *mleccha* struck by a boar’s tusk who cries ‘hā rāma’ again and again attains liberation by that alone. What then of one who chants the name with faith?” (Nṛsiṁha Purāṇa)
+fn: *Anubhāṣya*: the *mleccha* is a yavana; *hā rāma* is a word that in the yavanas’ language means something unclean, untouchable; liberation is release from the bonds of worldly existence by the power of *nāmābhāsa*, while one who chants with faith is saved by the power of the name itself. *Amṛta-pravāha-bhāṣya*: a mleccha wounded by a boar cried out “Harām!” in disgust, and yet at the moment of death he attained liberation.
+
+## 57
+w: Ajāmila  his son  calls  saying  ‘Nārāyaṇa’
+w: the messengers of Viṣṇu  coming  release  his  bonds
+tr: Ajāmila called his son by saying ‘Nārāyaṇa’, and the messengers of Viṣṇu came and released him from his bonds.
+
+## 58
+w: ‘Rāma’  two  syllables  these  not  are  separated
+w: expressing love  the ‘hā’  word  with it  adorned
+tr: In ‘hā rāma’ the two syllables of ‘Rāma’ are not separated, and they are adorned with the word ‘hā’, which expresses love.
+
+## 59
+w: of the name  of all the syllables  this  indeed  the nature
+w: separated  even if they become  not  give up  their own power
+tr: Such is the nature of the syllables of the name: even when they are broken apart, they do not give up their power.
+fn: *Anubhāṣya*: *vyavahita* here does not mean a break born, in one without faith, of the urge for one’s own enjoyment — such a “name” is not the pure name but a mere set of material sounds, and it only obstructs the fruit of the pure name, love for Kṛṣṇa. It means the indistinct, broken or partial utterance of the name by one inclined to service: in his faithful heart Śrī Nāma Prabhu still shows His power to destroy the anarthas and awaken prema.
+
+## 60
+w: the name  one  whose  on the tongue  of memory  the path
+w: having reached  the root of the ear  having reached  or
+w: pure  or with impure sounds  broken
+w: or partial  delivers  certainly  truly
+w: that  if  the body  wealth  followers
+w: greed  godlessness  amid
+w: placed  may be  not  producing fruit
+w: quickly  indeed here  O brāhmaṇa
+tr: “O brāhmaṇa, if even one name of the Lord is on a person’s tongue, or has come into his memory, or has reached his ears, it will surely deliver him — whether its sounds are correct or incorrect, whether it is uttered whole, broken or only in part. This is the truth. But if the name is set amid concerns for the body, wealth and followers, or amid greed and godlessness, it will not quickly bear its fruit here.” (Padma Purāṇa; Hari-bhakti-vilāsa, 11.289)
+fn: The edition’s heading: *Hari-bhakti-vilāsa*, 11.289, the words of the *Padma Purāṇa*. *Anubhāṣya*: *vyavahita-rahitam* means either “free from gaps”, that is, from the ten offences against the name, or “broken and incomplete” — broken by another word, sound or mood, or lacking a part; so Śrī Sanātana also explains in the *Dig-darśinī*: such a name still frees one from sins, offences and saṁsāra, but the chief fruit of serving the name for the body’s sake comes not at once but in time. *Janatā* is the desire for kin, women or fame; *pāṣaṇḍa* is disregard for Hari, the guru and the Vaiṣṇavas. *Amṛta-pravāha-bhāṣya*: amid offences, which are like stones, the name does not quickly bear fruit; unless one takes up the means to end offences against the name, they will not go.
+
+## 61
+w: the semblance of the name  through  there is  of all sins  destruction
+w: the semblance of the name  through  there is  of worldly existence  the end
+tr: Through *nāmābhāsa* all sins are destroyed; through *nāmābhāsa* worldly existence comes to an end.
+
+## 62
+w: Him  without deceit  worship  O treasure of virtues  the purifier  of purifiers
+w: with faith  delighting  your mind  quickly  of those of highest fame  the crown
+w: rising  of the heart  in the cave  ah  whose name  of the sun
+w: the faint light  even  destroys  of great sins  of the darkness  the mass
+tr: “O treasure of virtues, with your mind delighting in faith, quickly and without deceit worship Him, the purifier of all purifiers, the crown of those whose glory is sung in the finest verses. Ah! When even the faint light of the sun of His name rises in the cave of the heart, it dispels the massed darkness of great sins.” (Bhakti-rasāmṛta-sindhu, 2.1.103)
+fn: *Anubhāṣya*: the name of the Lord is the sun, and its semblance (*ābhāsa*) is a faint light, free from the darkness of offences; the purifier of purifiers is He who purifies even the holy places; *atitarām* — “quickly”; *nirvyājam* — “without deceit”. The edition’s heading: *nāmābhāsa* destroys great sins.
+
+## 63
+w: dying  of Hari  the name
+w: uttering  addressed to his son
+w: Ajāmila  even  went  to the abode
+w: what to speak  then  with faith  one who utters
+tr: “Even Ajāmila reached the Lord’s abode by uttering the name of Hari as he was dying, though he addressed it to his son. What then of one who utters the name with faith?” (Śrīmad-Bhāgavatam, 6.2.49)
+fn: The edition’s heading: *nāmābhāsa* gives liberation. *Anubhāṣya*: at the moment of death Ajāmila obtained the fruit of *nāmābhāsa* — of the name uttered as an indication — and was freed from sin; returning to life, he worshipped Śrī Hari in detachment and so went to Vaikuṇṭha. Having told this, Śukadeva at the end of the chapter shows how the glory of *nāmābhāsa* differs from that of the pure name: if Ajāmila, helpless and without faith, reached Vaikuṇṭha, what to speak of one who chants the name with transcendental firm faith.
+
+## 64
+w: by nāmābhāsa  ‘liberation’  there is  in all scriptures  I see
+w: in the Śrī Bhāgavata  of that  Ajāmila  the witness
+tr: In all the scriptures I see that liberation comes through *nāmābhāsa*, and in the *Śrīmad-Bhāgavatam* Ajāmila is the witness to it.”
+
+## 65
+w: hearing  the Lord’s  happiness  increases  within
+w: again  a feint  making  He asks  him
+tr: Hearing this, the Lord felt His happiness grow within. Then, as if to test him, He asked again:
+
+## 66
+w: on the earth  many beings  nonmoving and moving
+w: of all of them  in what  way  will be  release
+tr: “On the earth there are many living beings, nonmoving and moving. How will all of them be released?”
+
+## 67
+w: Haridāsa  says  Lord  that  mercy  Yours
+w: the nonmoving and moving  already  You have made  deliverance
+tr: Haridāsa said, “Lord, that is by Your mercy: You have already delivered the nonmoving and moving beings.
+
+## 68
+w: You  that  have done  this  loud  saṅkīrtana
+w: of the nonmoving and moving  that  is  indeed  hearing
+tr: You have performed this loud saṅkīrtana, and the nonmoving and moving beings have all heard it.
+
+## 69
+w: by hearing  of the moving beings  there is  of worldly existence  the end
+w: on the nonmoving  that  sound  strikes  an echo  arises
+tr: By hearing it, the moving beings are freed from worldly existence; and when that sound strikes the nonmoving beings, an echo arises.
+
+## 70
+w: ‘an echo’  it is not  they  perform  ‘kīrtana’
+w: of Your  mercy  this  indescribable  account
+tr: It is not an ‘echo’: they are performing ‘kīrtana’. This is a tale of Your mercy beyond all telling.
+
+## 71
+w: in all  the world  there is  loud  saṅkīrtana
+w: hearing  absorbed in love  dance  the nonmoving and moving
+tr: Throughout the world there is loud saṅkīrtana, and hearing it, the nonmoving and moving beings dance, absorbed in prema.
+
+## 72
+w: as  You did  in Jhārikhaṇḍa  to Vṛndāvana  while going
+w: Balabhadra Bhaṭṭācārya  has told  me
+tr: Balabhadra Bhaṭṭācārya has told me how You did this in Jhārikhaṇḍa on Your way to Vṛndāvana.
+
+## 73
+w: Vāsudeva  the jīvas  for the sake of  made  a petition
+w: then  acceptance  You made  of the jīvas  the release
+tr: When Vāsudeva petitioned You on behalf of the jīvas, You agreed to release them.
+
+## 74
+w: the world  to deliver  Your  descent
+w: the mood of a devotee  first  for that  You made  acceptance
+tr: You have descended to deliver the world, and for that You first accepted the mood of a devotee.
+
+## 75
+w: loud  saṅkīrtana  therefore  You made  propagation
+w: nonmoving and moving  of the jīvas  You cut off  worldly existence
+tr: So You spread loud saṅkīrtana and cut off the worldly existence of all jīvas, nonmoving and moving.”
+
+## 76
+w: the Lord  says  all  jīvas  liberation  when  will attain
+w: this  indeed  universe  then  devoid of jīvas  will be
+tr: The Lord said, “If all the jīvas attain liberation, then this universe will be empty of jīvas!”
+
+## 77–78
+w: Haridāsa  says  Your  as long as  in the mortal world  stay
+w: so long  nonmoving and moving  all species of beings
+w: all  liberated  making  You  to Vaikuṇṭha  will send
+w: the subtle jīvas  again  to karma  awakened  You will make
+tr: Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle jīvas (*sūkṣma-jīva*) to karma once again.
+fn: The edition’s heading: Haridāsa’s answer — by the Lord’s mercy, once all the living beings of the time of His manifestation have been delivered, the world is filled again with jīvas brought forth by Mahā-Viṣṇu, who lies in the Causal Ocean. *Amṛta-pravāha-bhāṣya*: all the jīvas with whom the Lord, descending into the universe, comes into contact are delivered; yet He awakens countless subtle jīvas again on the field of karma, and so the universes are filled once more.
+
+## 79
+w: those  jīvas  will become  here  nonmoving and moving
+w: with them  will be filled  the universe  as  like before
+tr: Those jīvas will become the nonmoving and moving beings here, and with them the universe will be filled as before.
+
+## 80
+w: formerly  as  Raghunātha  all  Ayodhyā  taking
+w: to Vaikuṇṭha  went  with other  jīvas  Ayodhyā  filling
+tr: Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other jīvas,
+fn: *Anubhāṣya*: see the *Rāmāyaṇa* (Baṅgavāsī edition), Uttara-kāṇḍa, sarga 122, verses 21–22, and sarga 123.
+
+## 81
+w: having descended  You  likewise  have set up  a market
+w: anyone  not  to understand  can  Your  hidden  drama
+tr: so You too, having descended, have set up Your market here. No one can understand Your hidden play.
+
+## 82
+w: formerly  as  in Vraja  Kṛṣṇa  making  descent
+w: of all  the universe’s  jīvas  cut off  worldly existence
+tr: Formerly, when Kṛṣṇa descended in Vraja, He cut off the worldly existence of all the jīvas in the universe.
+
+## 83
+w: not  and  thus  wonder  should be made
+w: by you  about the Lord  the unborn
+w: about the Lord of the lords of yoga  Kṛṣṇa
+w: from whom  this (world)  is liberated
+tr: “There should be no wonder at such deeds of Kṛṣṇa, the unborn Bhagavān, the Lord of the lords of yoga; for by Him this whole world, moving and unmoving, is set free.” (Śrīmad-Bhāgavatam, 10.29.16)
+fn: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit while describing the good fortune of the gopīs, who on the night of the Rāsa-pūrṇimā heard Kṛṣṇa’s flute and longed to meet Him: from Kṛṣṇa all living beings without exception, moving and unmoving, are freed, so one should not wonder at His power to grant liberation.
+
+## 84
+w: this  indeed  Bhagavān  seen  glorified  remembered  and
+w: with persistent enmity  even  for all gods, demons and others  hard to attain
+w: the fruit  bestows  what to speak  then  perfectly  of those who have devotion  thus
+tr: “When this Bhagavān is seen, glorified or remembered even with persistent enmity, He bestows a fruit hard to attain for all the gods, demons and others. What then of those who have perfect devotion?” (Viṣṇu Purāṇa, 4.15.10)
+fn: The reference follows the edition’s heading (p. 890): *Viṣṇu Purāṇa*, part 4, chapter 15, verse 10. *Anubhāṣya*: the fruit is liberation and the like; those of perfect devotion are the pure devotees, who on the path of bhakti have wholly given up other desires, karma, jñāna and the rest.
+
+## 85
+w: likewise  You  in Navadvīpa  making  descent
+w: of all  the universe’s  jīvas  You made  deliverance
+tr: Likewise, You have descended in Navadvīpa and delivered the jīvas of the whole universe.
+
+## 86
+w: who  says  of Caitanya  the glory  to me  known  is
+w: he  let him know  my  however  this  indeed  conviction
+tr: If someone says, ‘The glory of Caitanya is within my grasp,’ let him know it; but my own conviction is this:
+
+## 87
+w: Your  which  pastimes  of great nectar  an ocean
+w: to my  mind  perceptible  is not  of it  one  drop
+tr: Your pastimes are an ocean of great nectar, and not even a single drop of it is within the reach of my mind.”
+
+## 88
+w: this  hearing  the Lord’s  in the mind  amazement  was
+w: My  hidden pastimes  Haridāsa  how  has known
+tr: Hearing this, the Lord was amazed at heart: “How has Haridāsa come to know My hidden pastimes?”
+
+## 89
+w: of the heart  in satisfaction  him  made  embrace
+w: outwardly  to reveal  that  He made  avoidance
+tr: In the satisfaction of His heart He embraced him, but He avoided revealing this outwardly.
+
+## 90
+w: of the Lord  the nature  His majesty  wishes  to cover
+w: before devotees  to hide  cannot  becomes  indeed  known
+tr: It is the Lord’s nature to wish to conceal His majesty, but He cannot hide it from His devotees: to them it becomes known.
+
+## 91
+w: transgressing  three kinds of  limits,  equal and superior
+w: the possibility (excluding)  Your  of supremacy  the nature
+w: of māyā  by the power  by You  even  being hidden
+w: see  some  constantly  to You  exclusively devoted
+tr: “Your sovereign nature transcends the three kinds of limits and admits of no equal or superior. Though You hide it by the power of Your māyā, some who are devoted to You alone see it constantly.” (Stotra-ratna, 18)
+fn: The same verse as Ādi 3.88; translation as there. The source follows the edition’s heading (p. 891): Ālavandāru’s (Śrī Yāmunācārya’s) *Stotra-ratna*, verse 18. *Amṛta-pravāha-bhāṣya* (on Ādi 3.88): everything is bound by three limits — place, time and thought — but Your hidden nature, which has no equal or superior, surpasses them; You cover it by the power of māyā, yet Your exclusive devotees always see You. *Anubhāṣya*: “by the power of māyā” — by the power of His own *yogamāyā*.
+
+## 92
+w: then  Mahāprabhu  to His own devotees  going
+w: Haridāsa’s  qualities  speaks  hundred-mouthed  becoming
+tr: Then Mahāprabhu went to His own devotees and spoke of Haridāsa’s qualities as if He had a hundred mouths.
+
+## 93
+w: of a devotee  qualities  in speaking  the Lord’s  increases  delight
+w: of all the devotees  the best  moreover  Śrī Haridāsa
+tr: The Lord’s delight grows when He speaks of a devotee’s qualities — and Śrī Haridāsa, moreover, is the best of all devotees.
+
+## 94
+w: Haridāsa’s  host of qualities  countless  boundless
+w: someone  some  portion  describing  not  reaches  the end
+tr: Haridāsa’s qualities are countless and boundless. One may describe some portion of them, but no one reaches their end.
+
+## 95
+w: in the Caitanya-maṅgala  Śrī Vṛndāvana dāsa
+w: Haridāsa’s  qualities  some  has made  manifest
+tr: In the *Caitanya-maṅgala* (the *Caitanya-bhāgavata*) Śrī Vṛndāvana dāsa has revealed some of Haridāsa’s qualities.
+fn: *Amṛta-pravāha-bhāṣya*: the *Caitanya-maṅgala* is the *Caitanya-bhāgavata*; see its Ādi-khaṇḍa, chapter 14.
+
+## 96
+w: all  to tell  not  is possible  of Haridāsa  the character
+w: someone  something  tells  to make  himself  pure
+tr: It is impossible to tell all of Haridāsa’s character; one tells a little of it to purify oneself.
+
+## 97
+w: Vṛndāvana dāsa  what  not  made  description
+w: Haridāsa’s  qualities  some  hear  O devotees
+tr: O devotees, hear of some of Haridāsa’s qualities that Vṛndāvana dāsa did not describe.
+
+## 98
+w: Haridāsa  when  his own home  renunciation  made
+w: of Benāpola  in the forest  for some days  he stayed
+tr: When Haridāsa left his home, he lived for some time in the forest of Benāpola.
+
+## 99
+w: in a solitary forest  a hut  making  Tulasī  serving
+w: night and day  three hundred thousand  names  chanting
+tr: He built a hut in the solitary forest, served Tulasī, and night and day chanted three hundred thousand names.
+
+## 100
+w: of brāhmaṇas  in the houses  makes  by alms  subsistence
+w: by his spiritual power  all  people  do  worship
+tr: He lived on alms taken in brāhmaṇas’ houses, and by his spiritual power he won the reverence of all the people.
+
+## 101
+w: that  ruler of the district  name  Rāmacandra Khān
+w: a hater of Vaiṣṇavas  he  chief of the atheists
+tr: The ruler of that district was named Rāmacandra Khān. He hated the Vaiṣṇavas and was the chief of the unbelievers.
+
+## 102
+w: Haridāsa  people  revere  to tolerate  not  can
+w: his  dishonour  to cause  various  means  he makes
+tr: He could not bear that the people revered Haridāsa, and he contrived various means to dishonour him.
+
+## 103
+w: in any way  of Haridāsa  a fault  not  finds
+w: prostitutes  bringing  makes  for a fault  a scheme
+tr: Unable to find any fault in Haridāsa by any means, he brought in prostitutes and schemed to create one.
+
+## 104
+w: to the prostitutes  he says  this  renunciant  Haridāsa
+w: you all  make  his  of renunciation the dharma  destruction
+tr: He said to the prostitutes, “There is a renunciant named Haridāsa. Go, all of you, and destroy his vow of renunciation.”
+
+## 105
+w: the prostitutes  among  one  beautiful  young woman
+w: she  says  in three  days  I shall steal  his  mind
+tr: Among the prostitutes was a beautiful young woman. She said, “In three days I shall captivate his mind.”
+
+## 106
+w: Khān  says  my  constable  let go  you  with
+w: you  with  together  him  seizing  so that  he may bring
+tr: Khān said, “Let my constable go with you, so that he may seize him together with you and bring him here.”
+
+## 107
+w: the prostitute  says  with me  union  let there be  once
+w: the second  time  to seize  the constable  I shall take  your
+tr: The prostitute said, “Let him first be with me once. The second time I shall take your constable to seize him.”
+
+## 108
+w: at night  that  prostitute  fine dress  putting on
+w: to Haridāsa’s  dwelling  went  delighted  being
+tr: At night the prostitute dressed herself finely and went to Haridāsa’s dwelling, full of delight.
+
+## 109
+w: to Tulasī  bowing  to Haridāsa’s  door  going
+w: to the Gosāñi  bowing  remained  standing
+tr: She bowed to Tulasī, went to Haridāsa’s door, bowed to the Gosāñi and stood there.
+
+## 110
+w: her body  uncovering  showing  she sat  at the door
+w: to speak  she began  something  in a very sweet voice
+tr: Baring her body to his view, she sat down at the door and began to speak in a very sweet voice:
+
+## 111
+w: Ṭhākura  you  most handsome  first  youth
+w: you  seeing  which  woman  to hold  can  her mind
+tr: “Ṭhākura, you are most handsome and in the first bloom of youth. What woman could keep her composure on seeing you?
+
+## 112
+w: your  union  for  eager  my  mind
+w: you  not  if I get  life  not  can be  sustained
+tr: My heart longs for union with you. If I do not have you, I cannot go on living.”
+
+## 113–114
+w: Haridāsa  says  you  I shall  accept
+w: the counted names  chanting  as long as  not  finished  my
+w: so long  you  sitting  listen  the name  saṅkīrtana
+w: the name  finished  when it is  I shall do  what  your  mind (desires)
+tr: Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the saṅkīrtana of the name. When my chanting is finished, I shall do as you wish.”
+
+## 115
+w: this  hearing  that  prostitute  sitting  remained
+w: kīrtana  does  Haridāsa  morning  came
+tr: Hearing this, the prostitute sat and waited. Haridāsa went on chanting until morning came.
+
+## 116
+w: morning  seeing  the prostitute  rising  left
+w: the news  to Rāmacandra Khān  she told
+tr: Seeing that it was morning, the prostitute got up and left, and she told Rāmacandra Khān the news:
+
+## 117
+w: today  with me  union  he will make  he said  in words
+w: certainly  with him  there will be  union
+tr: “He has given his word that he will be with me today. I shall certainly be united with him.”
+
+## 118
+w: the next  day  night  when it was  the prostitute  came
+w: Haridāsa  her  much  reassurance  gave
+tr: The next day, when night fell, the prostitute came, and Haridāsa reassured her warmly:
+
+## 119
+w: yesterday  distress  you suffered  offence  not  take  my
+w: certainly  shall make  I  you  acceptance
+tr: “Yesterday you were disappointed; please do not hold it against me. I shall certainly accept you.
+
+## 120
+w: until then  here  sitting  listen  of the name  saṅkīrtana
+w: the name  complete  when it is  fulfilled  will be  your  mind
+tr: Until then, sit here and listen to the saṅkīrtana of the name. When the name is complete, your heart too will be fulfilled.”
+
+## 121
+w: to Tulasī  then  the prostitute  obeisance  making
+w: at the door  sitting  the name  hears  says  ‘Hari’  ‘Hari’
+tr: Then the prostitute bowed to Tulasī, sat down at the door and listened to the name, saying, ‘Hari! Hari!’
+
+## 122
+w: of the night  the end  came  the prostitute  restlessly  fidgets
+w: her  manner  seeing  Haridāsa  says  to her
+tr: As the night was ending, the prostitute grew restless. Seeing her manner, Haridāsa said to her:
+
+## 123
+w: of ten million  names  chanting  the sacrifice  I perform  in one month
+w: this  vow  I have taken  it has  come  to the end
+tr: “I have taken a vow to perform a sacrifice of chanting ten million names in one month, and it is now nearing its end.
+fn: The edition’s heading: Ṭhākura Haridāsa tells of his initiation into the mahā-mantra; a brāhmaṇa by initiation. *Anubhāṣya*: a koṭi (ten million) names are completed in a month if one chants more than 333,333 names every day; in this sacrifice of chanting the name, Bhagavān, the bearer of the name, is worshipped. By worldly standards Haridāsa had no right to a sacrifice, either by birth or by initiation into the Sāvitrī, but, initiated into the sacrifice of the name, he performed it as a brāhmaṇa by initiation (*daikṣa-brāhmaṇa*).
+
+## 124
+w: today  finished  will be  such  thought  was
+w: the whole  night  I took  the name  finished  not  was
+tr: I thought it would be finished today. I chanted the name the whole night, yet it was not completed.
+
+## 125
+w: tomorrow  finished  it will be  then  will be  of the vow  the ending
+w: freely  you  with  there will be  union
+tr: Tomorrow it will be finished and my vow will be over; then I shall freely be with you.”
+
+## 126
+w: the prostitute  going  the news  to Khān  told
+w: the next  day  in the evening  to the Ṭhākura  came
+tr: The prostitute went and told Khān the news. The next day she came to the Ṭhākura in the evening.
+
+## 127
+w: to Tulasī  to the Ṭhākura  obeisance  making
+w: at the door  sitting  the name  hears  says  ‘Hari’  ‘Hari’
+tr: Bowing to Tulasī and to the Ṭhākura, she sat at the door and listened to the name, saying, ‘Hari! Hari!’
+
+## 128
+w: the name  complete  will be  today  says  Haridāsa
+w: then  fulfilled  I shall make  your  desire
+tr: “Today the name will be completed,” said Haridāsa. “Then I shall fulfil your desire.”
+
+## 129
+w: kīrtana  while doing  thus  of the night  the end  came
+w: the Ṭhākura’s  by the company  the prostitute’s  mind  turning  went
+tr: As he chanted, the night came to an end; and through the Ṭhākura’s company the prostitute’s heart was transformed.
+
+## 130
+w: prostrate like a rod  becoming  she falls  at the Ṭhākura’s feet
+w: of Rāmacandra Khān  the story  made  confession
+tr: She fell flat at the Ṭhākura’s feet and confessed Rāmacandra Khān’s plot.
+
+## 131
+w: a prostitute  being  I  sins  have committed  boundless
+w: mercy  showing  make  of me, the fallen  deliverance
+tr: “Being a prostitute, I have committed boundless sins. Be merciful and deliver this fallen soul.”
+
+## 132
+w: the Ṭhākura  says  of Khān  the affair  all  I  know
+w: ignorant  a fool  he  over him  grief  not  I feel
+tr: The Ṭhākura said, “I know all about Khān’s plot. He is an ignorant fool, and I feel no grief on his account.
+
+## 133
+w: that very day  I would have gone  this place  leaving
+w: three  days  I stayed  your  for the sake
+tr: I would have left this place that very day; I stayed three days for your sake.”
+
+## 134
+w: the prostitute  says  mercy  showing  give  instruction
+w: what  my  duty  by which  goes  the suffering of material existence
+tr: The prostitute said, “Be merciful and instruct me: what must I do to be freed from the suffering of material existence?”
+
+## 135
+w: the Ṭhākura  says  of your house  the goods  to brāhmaṇas  make  gift
+w: in this  house  coming  you  make  rest
+tr: The Ṭhākura said, “Give away the goods of your house to brāhmaṇas, and then come and live in this hut.
+
+## 136
+w: constantly  the name  do  Tulasī  service
+w: very soon  you will attain  then  Kṛṣṇa’s  feet
+tr: Chant the name constantly and serve Tulasī. Then you will very soon attain the feet of Kṛṣṇa.”
+
+## 137
+w: this  having said  her  in ‘the name’  instruction  having given
+w: rising  departed  the Ṭhākura  saying  ‘Hari’  ‘Hari’
+tr: Saying this, he instructed her in chanting the name. Then the Ṭhākura rose and departed, calling, “Hari! Hari!”
+
+## 138
+w: then  that  prostitute  of her guru  the order  accepted
+w: household wealth  whatever  there was  to the brāhmaṇas  gave
+tr: Then the prostitute accepted her guru’s order and gave to the brāhmaṇas whatever wealth she had in her house.
+
+## 139
+w: her head  having shaved  in a single cloth  stayed  in that  hut
+w: night and day  three hundred thousand  names  taking  does
+tr: She shaved her head and stayed in that hut with a single cloth, chanting three hundred thousand names day and night.
+
+## 140
+w: Tulasī  service  does  eating sparingly  fasting
+w: of the senses  control  came about  of love  the manifestation
+tr: She served Tulasī and ate sparingly or fasted. Her senses were subdued, and love (prema) appeared in her.
+
+## 141
+w: renowned  a Vaiṣṇavī  became  most  exalted
+w: great  great  Vaiṣṇavas  her  to see  would go
+tr: She became a renowned and most exalted Vaiṣṇavī, and great Vaiṣṇavas would go to see her.
+
+## 142
+w: of the prostitute  the conduct  seeing  the people  amazed
+w: of Haridāsa  the glory  speak  making  obeisance
+tr: Seeing the conduct of the former prostitute, people were amazed, and bowing down, they spoke of Haridāsa’s glory.
+
+## 143
+w: Rāmacandra Khān  of an offence  a seed  sowed
+w: that  seed  a tree  becoming  later  bore fruit
+tr: Rāmacandra Khān sowed the seed of an offence; that seed grew into a tree and later bore its fruit.
+
+## 144
+w: of a great offence  the fruit  a wonderful  account
+w: the occasion  having found  I tell  listen  O devotees
+tr: The fruit of an offence against a great soul makes a wonderful account. Since the occasion has come, I shall tell it; listen, O devotees.
+
+## 145
+w: by nature  a non-Vaiṣṇava  Rāmacandra Khān
+w: of Haridāsa  by the offence  became  like a demon
+tr: Rāmacandra Khān was by nature no Vaiṣṇava, and by his offence against Haridāsa he became like a demon.
+
+## 146
+w: the religion of the Vaiṣṇavas  blasphemy  makes  of the Vaiṣṇavas  insult
+w: of many days  by the offences  received  the consequence
+tr: He reviled the religion of the Vaiṣṇavas and insulted them, and for the offences of many days he reaped the consequence.
+
+## 147
+w: Nityānanda  Gosāñi  to Gauḍa  when  came
+w: love  to preach  then  to travel  began
+tr: When Nityānanda Gosāñi came to Gauḍa, He began to travel about, preaching love of God.
+
+## 148
+w: the preaching of love  and  of the unbelievers  the crushing
+w: for these two tasks  the Avadhūta  makes  wandering
+tr: To preach love and to crush the unbelievers — for these two tasks the Avadhūta wandered.
+
+## 149
+w: all-knowing  Nityānanda  came  to his  house
+w: having come  sat down  of Durgā  the maṇḍapa  upon
+tr: The all-knowing Nityānanda came to his house and sat down on the *durgā-maṇḍapa*, the pavilion for the worship of Durgā.
+fn: *Durgā-maṇḍapa-upare* — “in the *durgā-maṇḍapa*”. *Anubhāṣya*: in the house of a wealthy non-Vaiṣṇava householder the place where Durgā is worshipped is called the *caṇḍī-maṇḍapa* or *durgā-maṇḍapa*; apart from the four days of the autumn or spring pūjā, guests and outsiders use it.
+
+## 150
+w: many  people  with (Him)  the courtyard  filled
+w: inside  from  Rāmacandra  a servant  sent
+tr: The many people with Him filled the courtyard, and from inside the house Rāmacandra sent a servant.
+
+## 151
+w: the servant  says  —  Gosāñi  me  has sent  the Khān
+w: of a householder  in the house  to You  I shall give  a lodging place
+tr: The servant said, “Gosāñi, the Khān has sent me. I shall give You lodging in a householder’s house.
+
+## 152
+w: of a cowherd  the cowshed  is  very  spacious
+w: here  a narrow place  Your  people  —  countless
+tr: A cowherd’s cowshed is very spacious, but this place is narrow, and Your people are countless.”
+fn: The servant offers Nityānanda a cowshed (*goyālāra gośālā*); the edition’s heading to 151: disrespect shown to Śrī Nityānanda Prabhu.
+
+## 153
+w: inside  He was  hearing  in anger  came out
+w: loud  loud  laughing  Gosāñi  to speak  began
+tr: Gosāñi had been sitting within. Hearing this, He came out in anger and, laughing loudly, began to speak:
+
+## 154
+w: the truth  he speaks  —  this  house  for Me  fit  is not
+w: the mlecchas  cow-slaughter  do  for them  fit  it is
+tr: “He speaks the truth: this house is not fit for Me. It is fit for the *mlecchas*, who slaughter cows.”
+fn: The edition’s heading: Śrī Nityānanda’s prophecy (fulfilled in 158–161).
+
+## 155
+w: this  having said  in anger  Gosāñi  rising  departed
+w: him  punishment  to give  in that  village  not  stayed
+tr: Saying this, Gosāñi rose in anger and left. To punish him, He did not stay in that village.
+fn: *Tāre daṇḍa dite se grāme nā rahilā* — “to punish him, He did not stay in that village”: Nityānanda’s departure was itself the punishment, followed by the retribution of 158–162 (*Amṛta-pravāha-bhāṣya*: “by the curse of Nityānanda Prabhu”).
+
+## 156
+w: here  Rāmacandra Khān  to a servant  an order  gave
+w: Gosāñi  where  had sat  of that place  the earth  had dug up
+tr: Meanwhile Rāmacandra Khān ordered a servant to dig up the earth where Gosāñi had sat.
+
+## 157
+w: with cow-dung water  smeared  all  the temple and courtyard
+w: still  Rāmacandra’s  mind  not  became  satisfied
+tr: He had the whole temple and courtyard smeared with cow-dung water, yet Rāmacandra’s mind was still not satisfied.
+
+## 158
+w: a robber’s way of life  follows  Rāmacandra  to the king  not  gives  tax
+w: angry  becoming  the mleccha  minister  came  to his  house
+tr: Rāmacandra lived like a robber and did not pay the king his taxes. Angered, the *mleccha* minister came to his house.
+
+## 159
+w: coming  in that  Durgā  maṇḍapa  lodging  made
+w: ‘what must not be killed’  slaying  in the house  meat  cooked
+tr: Coming there, he lodged in that very *durgā-maṇḍapa*; he slaughtered what must never be killed and cooked its meat in the house.
+
+## 160
+w: wife  sons  together with  Rāmacandra  binding
+w: his  house and village  plunders  three days  staying
+tr: He bound Rāmacandra together with his wife and sons, and staying three days, he plundered his house and village.
+
+## 161
+w: in that  house  three  days  unclean (food)  cooking
+w: the next  day  all  taking  made  departure
+tr: For three days he cooked unclean food in that house, and on the next day he left, taking them all with him.
+
+## 162
+w: caste  wealth  people  of the Khān  all  he took
+w: many days  for  the village  desolate  remained
+tr: He took everything from the Khān — his caste, his wealth and his people — and the village lay desolate for many days.
+
+## 163
+w: of a great soul  dishonour  in which  land or village  happens
+w: of one  person  for the fault  the whole  land  is laid waste
+tr: Wherever a great soul is dishonoured, in a land or a village, the whole land is laid waste for the fault of a single person.
+fn: The edition’s heading: what becomes of a land where Viṣṇu and the Vaiṣṇavas are hated.
+
+## 164
+w: Haridāsa Ṭhākura  walking  came  to Cā̃dapura
+w: coming  stayed  of Balarāma Ācārya  in the house
+tr: Walking on, Haridāsa Ṭhākura came to Cā̃dapura and stayed in the house of Balarāma Ācārya.
+
+## 165
+w: Hiraṇya  Govardhana  —  of the district  the Majumadāras
+w: their  priest  —  ‘Balarāma’  the name  his
+tr: Hiraṇya and Govardhana kept the revenue accounts of the district as its Majumadāras, and their priest was named Balarāma.
+fn: *Anubhāṣya*: *majumadāra* (*majmu-ādār*) — under the nawabs, the keeper of the state revenue accounts; *Amṛta-pravāha-bhāṣya*: the district (*muluk*) is Saptagrāma.
+
+## 166
+w: of Haridāsa  a recipient of mercy  therefore  with devotion and respect
+w: with care  the Ṭhākura  kept  in that  village
+tr: He had received Haridāsa’s mercy, and so, with devotion and respect, he looked after the Ṭhākura with care in that village.
+
+## 167
+w: in a solitary  leaf  hut  does  kīrtana
+w: in Balarāma Ācārya’s  house  alms  receiving
+tr: Haridāsa chanted in a solitary hut of leaves and took his alms (*bhikṣā*) at Balarāma Ācārya’s house.
+
+## 168
+w: Raghunātha  dāsa  a boy  does  study
+w: Haridāsa Ṭhākura  going  does  seeing
+tr: Raghunātha dāsa, then a boy at his studies, would go to see Haridāsa Ṭhākura.
+
+## 169
+w: Haridāsa  mercy  shows  him  upon
+w: that  mercy  the cause  became  Caitanya  for attaining
+tr: Haridāsa bestowed his mercy upon him, and that mercy became the cause of his attaining Caitanya.
+
+## 170
+w: there  how  took place  about Haridāsa  the discussion
+w: the account  —  wonderful  story  listen  O devotees
+tr: Listen, O devotees, to the wonderful account of the discussion about Haridāsa that took place there.
+
+## 171
+w: one day  Balarāma  entreaty  making
+w: of the Majumadāras  to the assembly  came  the Ṭhākura  bringing
+tr: One day, after humbly entreating him, Balarāma brought the Ṭhākura to the assembly of the Majumadāras.
+
+## 172
+w: the Ṭhākura  seeing  the two  brothers  made  rising (to greet)
+w: at his feet  falling  a seat  gave  showing  respect
+tr: Seeing the Ṭhākura, the two brothers rose to greet him; they fell at his feet and respectfully offered him a seat.
+
+## 173
+w: many  scholars  in the assembly  brāhmaṇas  gentlemen
+w: the two  brothers  great scholars  —  Hiraṇya  Govardhana
+tr: In the assembly were many scholars, brāhmaṇas and gentlemen, and the two brothers, Hiraṇya and Govardhana, were themselves great scholars.
+
+## 174
+w: of Haridāsa  the virtues  all  speak  with five  mouths
+w: hearing  indeed  the two  brothers  felt  great  happiness
+tr: Everyone praised Haridāsa’s virtues as if with five mouths, and hearing this, the two brothers were very happy.
+
+## 175
+w: three hundred thousand  names  the Ṭhākura  does  chant
+w: of the name  the glory  raised  the scholars
+tr: The Ṭhākura chanted three hundred thousand names, and so the scholars raised the subject of the glory of the name.
+
+## 176
+w: someone  says  —  the name  from  comes  the destruction of sins
+w: someone  says  —  the name  from  of the jīva  liberation  comes
+tr: One said, “From the name comes the destruction of sins.” Another said, “From the name the soul attains liberation.”
+
+## 177
+w: Haridāsa  says  —  of the name  these  two  fruits  are not
+w: of the name  as the fruit  for Kṛṣṇa’s feet  love  arises
+tr: Haridāsa said, “These two are not the fruit of the name. The fruit of the name is that love for Kṛṣṇa’s feet arises.
+fn: The edition’s headings: to 176 — all take *nāmābhāsa* for the pure name; to 177 — the Ṭhākura proclaims the fruit of the pure name.
+
+## 178
+w: one with such a vow  by the chanting of the names of his beloved
+w: in whom love has arisen  with melted heart  loudly
+w: laughs  then  weeps  cries out  sings
+w: like a madman  dances  beyond the world
+tr: “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+fn: The same verse as Ādi 7.94; translation as there. The reference is confirmed by the edition’s heading.
+
+## 179
+w: incidental  fruits  of the name  —  ‘liberation’  ‘the destruction of sin’
+w: of that  the example  as  of the sun  the shining
+tr: Liberation and the destruction of sin are only incidental fruits of the name. The example is the light of the sun.
+fn: *Anubhāṣya*: as a secondary fruit the name frees one from the bondage of saṁsāra and destroys sin, attachment to saṁsāra; the chief fruit of sunrise is that the sun shines, lights up everything and gives joy, while the vanishing of darkness is a by-product. The edition’s heading: *nāmābhāsa* and its fruit, the removal of *anarthas*, are already contained in the pure name and its fruit, the awakening of prema.
+
+## 180
+w: sin  destroying  all  once
+w: by rising  merely  of all people
+w: the sun  like  the ocean of darkness
+w: is victorious  the blessing of the world  of Hari  the name
+tr: “As the sun, merely by rising, dispels an ocean of darkness, so the name of Hari, rising even once, destroys all the sins of all people. All glory to that name of Hari, the blessing of the world!” (Nāma-kaumudī of Śrī Lakṣmīdhara Svāmī; Padyāvalī, 16)
+fn: The source follows the edition’s heading: a verse of the *Nāma-kaumudī* of Śrī Lakṣmīdhara Svāmī quoted in the *Padyāvalī* (the number 16 is not given there). *Anubhāṣya*: the name is a blessing for the world up to prema; “rising” — appearing in the senses of one turned towards service, through chanting, hearing and the like; sin is the cause of saṁsāra.
+
+## 181
+w: of this  verse  the meaning  explain  O scholars
+w: all  say  —  you  tell  of the meaning  the explanation
+tr: O scholars, explain the meaning of this verse.” They all said, “You explain its meaning.”
+
+## 182–183
+w: Haridāsa  says  —  as  of the sun  the rising
+w: the rising  not  having happened  from the start  of darkness  comes  destruction
+w: of thieves  ghosts  Rākṣasas and the like  the fear  comes  to an end
+w: rising  when it has happened  religious duties  works  and so on  are manifest
+tr: Haridāsa said, “It is like the rising of the sun: even before it has risen, darkness begins to vanish, and the fear of thieves, ghosts, Rākṣasas and the like comes to an end. When it has risen, religious duties, works and all else come to light.
+
+## 184
+w: so  at the start of the name’s rising  of sins and the like  the destruction
+w: rising  when it has done  for Kṛṣṇa’s feet  comes  the dawning of love
+tr: In the same way, as the name begins to rise, sins and the like are destroyed; when it has risen, love for Kṛṣṇa’s feet dawns.
+fn: *Nāmodayārambhe* — “at the beginning of the name’s rising”, *udaya kaile* — “when it has risen”: the dawn is *nāmābhāsa*, which frees one from sin and gives liberation (185); the full sunrise is the pure name, which gives prema. The edition’s headings: to 182 — the Ṭhākura explains the truth of the pure name and of *nāmābhāsa*; to 184 — the fruit of the name is the awakening of love for Kṛṣṇa.
+
+## 185
+w: ‘liberation’  a trifling fruit  is  the semblance of the name  from
+w: that  liberation  the devotee  not  accepts  that  Kṛṣṇa  wishes  to give
+tr: Liberation is a trifling fruit that comes from the mere semblance of the name (*nāmābhāsa*). Kṛṣṇa wishes to give that liberation, but His devotee does not accept it.”
+fn: The edition’s heading: liberation is given by *nāmābhāsa* itself. *Amṛta-pravāha-bhāṣya*: even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee does not accept it. Haridāsa’s speech ends here in the edition.
+
+## 186
+w: dying  of Hari  the name
+w: uttering  addressed to his son
+w: Ajāmila  even  went  to the abode
+w: what to speak  then  with faith  one who utters
+tr: “Even Ajāmila reached the Lord’s abode by uttering the name of Hari as he was dying, though he addressed it to his son. What then of one who utters the name with faith?” (Śrīmad-Bhāgavatam, 6.2.49)
+fn: The same verse as 63; translation as there.
+
+## 187
+w: residence in My world  equal opulence  likeness of form
+w: nearness  oneness  even  and
+w: being given  not  accept
+w: without  My service  the people
+tr: “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
+fn: The same verse as Ādi 4.207; translation as there. The edition here reads *sārūpya-sāmīpya* (*sārūpya* before *sāmīpya*; in Ādi 4.207 and Madhya 9.268 the usual order); the text follows the edition, the meaning is unchanged.
+
+## 188
+w: ‘Gopāla Cakravartī’  by name  one  person
+w: of the Majumadāras  in the house  he  tax collector  chief
+tr: There was a man named Gopāla Cakravartī, the chief tax collector (*ārindā*) of the Majumadāras’ house.
+
+## 189
+w: in Gauḍa  staying  before the Pātsāhā  the work of tax collector  does
+w: twelve lakhs  of coins  he  to the Pātsāhā  pays
+tr: Living in Gauḍa, he served the Pātsāhā as a tax collector and delivered twelve lakhs (1,200,000) of coins into his treasury.
+fn: *Ārindā* — a tax collector, a messenger who carries the royal revenue (*Amṛta-pravāha-bhāṣya* on 188).
+
+## 190
+w: most  handsome  learned  newly  youthful
+w: from the semblance of the name  ‘liberation’  hearing  not  was  tolerance
+tr: He was very handsome, learned and in the first bloom of youth. Hearing that liberation comes from the semblance of the name, he could not tolerate it.
+
+## 191
+w: angry  becoming  says  he  wrathful  words
+w: of the sentimentalist  the conclusion  hear  O scholars
+tr: Becoming angry, he spoke wrathful words: “Hear the conclusion of this sentimentalist, O scholars!
+
+## 192
+w: in ten million births  by knowledge of Brahman  which  ‘liberation’  is not
+w: this one  says  —  by the mere semblance of the name  that  ‘liberation’  comes
+tr: The liberation that is not attained by knowledge of Brahman even in ten million births — that liberation, he says, comes from the mere semblance of the name!”
+
+## 193
+w: Haridāsa  says  —  why  do you make  doubt
+w: in the scriptures  it says  —  by the mere semblance of the name  ‘liberation’  comes
+tr: Haridāsa said, “Why do you doubt? The scriptures say that liberation comes from the mere semblance of the name.
+
+## 194
+w: the happiness of devotion  before  ‘liberation’  very trifling  is
+w: therefore  the devotees  ‘liberation’  do not  accept
+tr: Beside the happiness of devotion, liberation is utterly trifling; therefore the devotees do not accept it.
+
+## 195
+w: from seeing You face to face  the joy
+w: in the pure ocean  situated  for me
+w: joys  become like a calf’s hoofprint
+w: of Brahman  even  O Guru of the world
+tr: “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)
+fn: The same verse as Ādi 7.98; translation as there. Haridāsa’s speech (193–195) ends here in the edition.
+
+## 196
+w: the brāhmaṇa  says  —  from the semblance of the name  if  ‘liberation’  is not
+w: then  your  nose  cutting  make  certain
+tr: The brāhmaṇa said, “If liberation does not come from the semblance of the name, then pledge that you will cut off your nose!”
+fn: *Tomāra nāka kāṭi’ karaha niścaya*: *karaha* is an imperative addressed to Haridāsa — “give your firm word to cut off your nose”; Haridāsa answers in kind (197), and the edition’s heading to 197 is “the Ṭhākura accepts the oath”. It is Gopāla’s own nose that falls off (207).
+
+## 197
+w: Haridāsa  says  —  if  from the semblance of the name  ‘liberation’  is not
+w: then  my  nose  I shall cut off  —  this  is quite certain
+tr: Haridāsa said, “If liberation does not come from the semblance of the name, then I shall cut off my own nose — that is certain.”
+
+## 198
+w: hearing  the members of the assembly  rise  making  an outcry
+w: the Majumadāras  that  brāhmaṇa  made  rebuke
+tr: Hearing this, the members of the assembly rose with an outcry, and the Majumadāras rebuked that brāhmaṇa.
+
+## 199
+w: Balāi  the priest  him  made  reproach
+w: pot-and-cloth logician  fool  you  devotion  what  know
+tr: The priest Balāi (Balarāma) reproached him: “You are a fool who argues about pots and cloth (*ghaṭa-paṭiyā*) — what do you know of devotion?
+fn: *Ghaṭa-paṭiyā* — a logician (*naiyāyika*) who argues idly about “pot” (*ghaṭa*) and “cloth” (*paṭa*) (*Amṛta-pravāha-bhāṣya*); the edition’s heading calls him an atheistic sophist (*hetuvādī*) and adds that Balarāma cursed him (200).
+
+## 200
+w: Haridāsa Ṭhākura  you  have done  insult
+w: ruin of all  will be  yours  not  will be  good
+tr: You have insulted Haridāsa Ṭhākura! You will be utterly ruined; no good will come to you.”
+
+## 201
+w: hearing  Haridāsa  then  rising  departed
+w: the Majumadāras  that  brāhmaṇa  rejection  made
+tr: Hearing this, Haridāsa rose and departed, and the Majumadāras dismissed that brāhmaṇa.
+
+## 202
+w: with the assembly  of Haridāsa  fell  at the feet
+w: Haridāsa  smiling  speaks  with sweet words
+tr: Together with the whole assembly they fell at Haridāsa’s feet, and Haridāsa, smiling, spoke sweet words:
+
+## 203
+w: of you  all  fault  is not  this  ignorant  brāhmaṇa
+w: his  fault  is not  his  devoted to logic  mind
+tr: “None of you is at fault, nor is this ignorant brāhmaṇa to blame: his mind is devoted to logic.
+
+## 204
+w: of logic  within the range  is not  of the name  the greatness
+w: where  from  will know  he  this  all  truth
+tr: The greatness of the name lies beyond the reach of logic. How could he know these truths?
+
+## 205
+w: go  home  Kṛṣṇa  may He do  welfare  of all
+w: me  concerning  sorrow  not  may there be  for anyone
+tr: Go home. May Kṛṣṇa bless you all, and may no one suffer on my account.”
+fn: The edition’s heading: he asks Kṛṣṇa for the welfare of all.
+
+## 206
+w: then  that  Hiraṇya dāsa  to his own house  came
+w: that  brāhmaṇa  his own  door-forbidding  made
+tr: Then Hiraṇya dāsa returned to his own house and forbade that brāhmaṇa to enter his door.
+
+## 207
+w: three days  passing  that  brāhmaṇa’s  ‘leprosy’  came
+w: very high  nose  his  rotting  fell off
+tr: Within three days that brāhmaṇa contracted leprosy, and his very prominent nose rotted and fell off.
+
+## 208
+w: campaka-bud-like  the fingers and toes
+w: shrivelled  became  all  by leprosy  went  rotting
+tr: His fingers and toes, once like campaka buds, all shrivelled and rotted away with leprosy.
+
+## 209
+w: seeing  all  the people  became  amazed
+w: Haridāsa  praising  to him  make  obeisance
+tr: Seeing this, everyone was amazed; they praised Haridāsa and bowed down to him.
+
+## 210
+w: although  Haridāsa  the brāhmaṇa’s  fault  not  took
+w: nevertheless  the Lord  him  the fruit  made to taste
+tr: Although Haridāsa did not take the brāhmaṇa’s offence to heart, the Lord nevertheless made him taste its fruit.
+
+## 211
+w: the devotee’s nature  —  the fault of the ignorant  forgiveness  makes
+w: Kṛṣṇa’s nature  —  the blasphemy of His devotee  to bear  not  can
+tr: It is the nature of a devotee to forgive the faults of the ignorant; it is Kṛṣṇa’s nature that He cannot bear blasphemy of His devotee.
+
+## 212
+w: of the brāhmaṇa  the suffering  hearing  Haridāsa  at heart  unhappy  became
+w: Balāi  to the priest  having told  to Śāntipura  came
+tr: Hearing of the brāhmaṇa’s suffering, Haridāsa was saddened at heart. Taking leave of the priest Balāi, he came to Śāntipura.
+
+## 213
+w: the Ācārya  meeting  made  prostrate  obeisance
+w: Advaita  embrace  making  showed  honour
+tr: Meeting the Ācārya, he fell before Him in obeisance, and Advaita embraced him and honoured him.
+
+## 214
+w: on the bank of the Gaṅgā  a cave  making  in solitude  to him  gave
+w: of the Bhāgavata and the Gītā  the devotional meaning  made him hear
+tr: On the bank of the Gaṅgā He made a secluded cave-dwelling for him, and He explained to him the devotional meaning of the *Bhāgavata* and the *Gītā*.
+
+## 215
+w: of the Ācārya  in the house  daily  taking alms
+w: the two  persons  meeting  talk of Kṛṣṇa  relishing
+tr: Haridāsa took his alms daily at the Ācārya’s house, and together the two of them relished talks about Kṛṣṇa.
+
+## 216
+w: Haridāsa  says  —  Gosāñi  I make  a submission
+w: to me  every day  food  You give  for what  purpose
+tr: Haridāsa said, “Gosāñi, I have something to submit to You. Why do You give me food every day?
+
+## 217
+w: very great  brāhmaṇas  here  a society of the high-born
+w: me  honour  You do  not  You feel  shame
+tr: Here are great brāhmaṇas, a society of the high-born, and yet You honour me and feel no shame!
+
+## 218
+w: extraordinary  conduct  Your  to speak of  I feel  fear
+w: that  mercy  please do  —  by which  Your  protection  may be
+tr: Your conduct is extraordinary; I am afraid even to speak of it. Please be merciful and act so that Your own standing is protected.”
+fn: The edition reads *yāte tomāra rakṣā haya* — “so that You are protected” (another reading: *mora*, “I”): Haridāsa asks Advaita to guard His own standing; *rakṣā* — protection of one’s place in society from public shame and censure (*Anubhāṣya*).
+
+## 219
+w: the Ācārya  says  —  you  do not  have  fear
+w: that  I shall do  which  according to scripture  is
+tr: The Ācārya said, “Do not be afraid. I shall act only as the scriptures direct.
+
+## 220
+w: you  when you eat  there is  of ten million brāhmaṇas  the feeding
+w: this  having said  the śrāddha plate  made him  eat
+tr: When you eat, it is as good as feeding ten million brāhmaṇas.” Saying this, He fed him the *śrāddha-pātra*, the food of the day of *śrāddha*.
+fn: *Śrāddha-pātra*: on the day of *śrāddha* a Vaiṣṇava householder first offers all kinds of food to the Lord and then feeds Vaiṣṇavas and brāhmaṇas; Advaita fed Haridāsa as the *śrāddha-pātra*, seeing in him a transcendental brāhmaṇa and guru (*Amṛta-pravāha-bhāṣya*). The *Anubhāṣya* quotes the *Garuḍa Purāṇa* from the *Bhakti-sandarbha* (117): among ten million knowers of Vedānta the best is a devotee of Viṣṇu; even a *mleccha* who has the eightfold bhakti is the best of brāhmaṇas, to be honoured like Hari.
+
+## 221
+w: of the world  the deliverance  for the sake of  does  thinking
+w: non-Vaiṣṇava  world  how  will be  delivered
+tr: He was always thinking of how to deliver the world: “How will this world, devoid of Vaiṣṇavas, be delivered?”
+
+## 222
+w: Kṛṣṇa  to make descend  Advaita  a vow  made
+w: water and tulasī  offering  worship  to do  began
+tr: Advaita vowed to bring Kṛṣṇa down to this world, and He began to worship Him with water and *tulasī*.
+
+## 223
+w: Haridāsa  does  in the cave  the chanting of the name
+w: Kṛṣṇa  descended  will be  —  this  his  mind
+tr: In his cave Haridāsa chanted the name, with this one thought in his mind: “Kṛṣṇa will descend.”
+
+## 224
+w: of the two  by the devotion  Caitanya  made  descent
+w: the name and love  preaching  doing  made  of the world  deliverance
+tr: By the devotion of these two Caitanya descended, and by preaching the name and love He delivered the world.
+
+## 225
+w: another  extraordinary  one  deed  of his
+w: of which  on hearing  people  become  amazed
+tr: There is another extraordinary deed of his, which amazes people when they hear it.
+
+## 226
+w: argument  do not  make  beyond argument  his  ways
+w: faith  having  hear  making  conviction
+tr: Do not argue: his ways are beyond argument. Hear it with faith and conviction.
+
+## 227
+w: one day  Haridāsa  in the cave  sitting
+w: the chanting of the name  does  loud  making
+tr: One day Haridāsa was sitting in his cave, chanting the name aloud.
+
+## 228
+w: moonlit  night  the ten  directions  perfectly clear
+w: the Gaṅgā’s  waves  in the moonlight  make  glittering
+tr: It was a moonlit night; the ten directions were perfectly clear, and the waves of the Gaṅgā glittered in the moonlight.
+
+## 229
+w: at the door  Tulasī  —  a plastered platform  upon
+w: of the cave  the beauty  seeing  people’s  is soothed  heart
+tr: At the door was Tulasī, on a plastered platform. The cave was so beautiful that the heart of anyone who saw it was soothed.
+
+## 230
+w: at that time  a  woman  into the courtyard  came
+w: her  by the lustre of her body  the place  golden  became
+tr: At that time a woman came into the courtyard, and the lustre of her body turned the whole place golden.
+
+## 231
+w: her  by the fragrance of her body  the ten  directions  perfumed
+w: by the sound of her ornaments  the ears  are  startled
+tr: The fragrance of her body perfumed the ten directions, and the tinkling of her ornaments thrilled the ears.
+
+## 232
+w: coming  to Tulasī  she  made  obeisance
+w: Tulasī  circumambulation  making  went  to the cave’s door
+tr: Coming in, she bowed down to Tulasī, circumambulated her and went to the door of the cave.
+
+## 233
+w: with joined palms  of Haridāsa  honoured  the feet
+w: at the door  sitting  says  some  sweet  words
+tr: With joined palms she honoured Haridāsa’s feet, and sitting at the door, she spoke some sweet words:
+
+## 234
+w: of the world  the friend  you  endowed with beauty and virtue
+w: your  company  for the sake of  my  to here  coming
+tr: “You are the friend of the whole world, endowed with beauty and virtue. I have come here for your company.
+
+## 235
+w: me  acceptance  make  being  kind
+w: to the lowly  mercy  shows  —  this  of a saint  the nature  is
+tr: Be kind and accept me. To show mercy to the lowly — that is the nature of a saint.”
+
+## 236
+w: this  having said  various  moods  makes  display
+w: which  on seeing  of a sage  comes  loss of composure
+tr: Saying this, she displayed various alluring moods, the sight of which would make even a sage lose his composure.
+
+## 237
+w: unmoved  Haridāsa  of deep  heart
+w: to speak  began  to her  being  kind
+tr: But Haridāsa, unmoved and deep of heart, began to speak to her kindly:
+
+## 238
+w: the chanting of the name by number  —  this  ‘great sacrifice’  I consider
+w: in that  consecrated  I  am  every day
+tr: “Chanting the name by a fixed count is what I consider the great sacrifice (*mahā-yajña*), and every day I am consecrated to it.
+
+## 239
+w: until  the chanting  completed  is not  not  I do  other  thing
+w: the chanting  completed  when it is  is  of the vow  the rest
+tr: Until the chanting is complete, I do nothing else; when the chanting is complete, my vow is at rest.
+fn: *Dīkṣāra viśrāma* — “rest from the vow”: Haridāsa is consecrated (*dīkṣita*) to his sacrifice of the name every day (238).
+
+## 240
+w: at the door  sitting  hear  you  the chanting of the name
+w: the name  completed  when it is  I shall do  your  pleasing
+tr: Sit at the door and listen to the chanting of the name. When the name is completed, I shall do what pleases you.”
+
+## 241
+w: this  having said  does  he  the chanting of the name
+w: that  woman  sitting  does  hearing of the holy name
+tr: Saying this, he went on chanting the name, and the woman sat and listened to the holy name.
+
+## 242
+w: chanting  while doing  coming  morning  came
+w: morning  seeing  the woman  rising  departed
+tr: While he chanted, dawn came, and seeing that it was morning, the woman rose and left.
+
+## 243
+w: in this way  three days  makes  coming
+w: various moods  shows  by which  of Brahmā  is captivated  the mind
+tr: In this way she came for three days, displaying moods that could captivate even Brahmā’s mind.
+
+## 244
+w: in Kṛṣṇa  with mind absorbed in the name  always  Haridāsa
+w: in the forest  a cry  became  the display of feminine charms
+tr: Haridāsa’s mind was always absorbed in the name of Kṛṣṇa, so her display of feminine charms was like crying in the wilderness.
+fn: *Anubhāṣya*: while he chanted, Haridāsa’s mind was always absorbed in Kṛṣṇa’s name, and so Māyā-devī’s charms, which allure men and bewitch conditioned souls, proved as fruitless as weeping in an empty forest.
+
+## 245
+w: third  day’s  end of the night  when  came
+w: the Ṭhākura  to  the woman  to speak  began
+tr: When the third night was coming to an end, the woman said to the Ṭhākura:
+
+## 246
+w: three  days  you have cheated  me  making  assurances
+w: night and day  is not  your  completion of the name
+tr: “For three days you have deceived me with promises. Night and day, your chanting of the name never ends.”
+
+## 247
+w: Haridāsa  Ṭhākura  says  —  I  what  shall do
+w: a vow  I have made  that  how  shall I give up
+tr: Haridāsa Ṭhākura said, “What can I do? I have made a vow — how can I give it up?”
+
+## 248
+w: then  the woman  says  to him  making  obeisance
+w: ‘I  —  Māyā’  to make  I came  test  of you
+tr: Then, bowing down to him, the woman said, “I am Māyā. I came to test you.
+
+## 249
+w: Brahmā and the other  jīvas  I  all  have bewitched
+w: alone  you  I  to bewitch  could not
+tr: I have bewitched all living beings, beginning with Brahmā; you alone I could not bewitch.
+
+## 250–251
+w: a great devotee  you  —  your  by the sight
+w: your  by hearing the chanting of Kṛṣṇa’s name
+w: heart  pure  became  wants  Kṛṣṇa’s name  to take
+w: in ‘Kṛṣṇa’s name’  instructing  mercy  show  to me
+tr: You are a great devotee (*mahā-bhāgavata*). By seeing you and hearing you chant Kṛṣṇa’s name, my heart has become pure and longs to take Kṛṣṇa’s name. Be merciful to me: instruct me in Kṛṣṇa’s name.
+
+## 252
+w: in Caitanya’s descent  flows  a flood of the nectar of love
+w: all  jīvas  in love  float  the earth  became  blessed
+tr: With Caitanya’s descent a flood of the nectar of love is flowing. All living beings float in that love, and the earth has become blessed.
+
+## 253
+w: in this flood  who  not  floats  that  soul  —  wretched
+w: in millions of kalpas  then  his  there is no  deliverance
+tr: Wretched is the soul who does not float in this flood: for him there is no deliverance even in millions of *kalpas*.
+fn: The edition’s heading to 252: without cultivating devotion to Kṛṣṇa under the shelter of Caitanya, a soul is like dead matter. *Anubhāṣya*: a *mahā-yuga* is 4,320,000 solar years, a thousand *mahā-yugas* make a *kalpa*, and *koṭi-kalpa* is ten million times as long.
+
+## 254
+w: before  I  Rāma’s name  have received  ‘Śiva’  from
+w: your  by the company  longing  arose  Kṛṣṇa’s name  to take
+tr: Long ago I received the name of Rāma from Śiva; now, by your company, I long to take the name of Kṛṣṇa.
+
+## 255
+w: the cause of liberation  the delivering Brahman  is  ‘Rāma’s name’
+w: ‘Kṛṣṇa’s name’  the one who carries across  being  makes  the gift of love
+tr: The name of Rāma is the *tāraka-brahma*, the Brahman that delivers, the cause of liberation; the name of Kṛṣṇa, the *pāraka*, carries one across and gives love.
+
+## 256
+w: ‘Kṛṣṇa’s name’  give  you  me  make  blessed
+w: me  sweeps away  so that  this  flood of love
+tr: Give me Kṛṣṇa’s name and make me blessed, so that this flood of love may sweep me away too.”
+
+## 257
+w: this  having said  honoured  of Haridāsa  the feet
+w: Haridāsa  says  —  do  kṛṣṇa-saṅkīrtana
+tr: Saying this, she honoured Haridāsa’s feet. Haridāsa said, “Chant the name of Kṛṣṇa (*kṛṣṇa-saṅkīrtana*).”
+fn: The edition’s heading: Māyā-devī falls prostrate before the Ṭhākura, and he initiates her into the *mahā-mantra*, the name of Kṛṣṇa.
+
+## 258
+w: instruction  receiving  Māyā  departed  being  pleased
+w: these  all  in accounts  of someone  not  arises  belief
+tr: Having received his instruction, Māyā departed, pleased. Yet some people do not believe such accounts.
+
+## 259
+w: belief  to produce  I tell  the reason  of this
+w: which  on hearing  comes  faith  to everyone
+tr: To make them believe, I shall tell the reason for it; hearing it, everyone will have faith.
+
+## 260
+w: at Caitanya’s descent  for love of Kṛṣṇa  eager  becoming
+w: Brahmā  Śiva  Sanaka and the others  on earth  taking birth
+tr: At the descent of Caitanya, Brahmā, Śiva, Sanaka and the others, eager for love of Kṛṣṇa, took birth on earth.
+
+## 261
+w: Kṛṣṇa’s name  taking  they dance  in the flood of love  float
+w: Nārada  Prahlāda and others  come  in human form
+tr: Taking Kṛṣṇa’s name, they dance and float in the flood of love. Nārada, Prahlāda and others came in human form.
+
+## 262
+w: Lakṣmī  and others  beginning with  for love of Kṛṣṇa  eager  becoming
+w: the name and love  relished  as human beings  taking birth
+tr: Lakṣmī and others, eager for love of Kṛṣṇa, took birth as human beings and relished the name and love.
+
+## 263
+w: of others  what  talk  Himself  the son of the king of Vraja
+w: descending  does  of love and the name  the relishing
+tr: What to speak of others? The son of the king of Vraja Himself descends and relishes love and the name.
+fn: The edition reads *prema-nāma āsvādana*, “relishes love and the name” (another reading: *prema-rasa*, “the taste of love”); cf. 262. The edition’s heading: Kṛṣṇa Himself relishes love for His own sweetness.
+
+## 264
+w: Māyā  the maidservant  ‘love’  begs  —  in this  what  wonder
+w: ‘the saint’s mercy’  ‘the name’  without  ‘love’  not  is born
+tr: If Māyā, the Lord’s maidservant, begs for love, what wonder is there in that? Without the mercy of a saint and the name, love is never born.
+fn: The edition’s heading: even Māyā-devī longs to taste love for Kṛṣṇa; love for Kṛṣṇa is attained only by the mercy of the pure name and of one who chants the pure name.
+
+## 265
+w: of Caitanya Gosāñi  of the pastimes  this  indeed  the nature
+w: the three worlds  dance  sing  attaining  the mood of love
+tr: Such is the very nature of Caitanya Gosāñi’s pastimes: the three worlds dance and sing, having attained the mood of love.
+
+## 266
+w: Kṛṣṇa and the others  and  all  the unmoving and moving
+w: with love of Kṛṣṇa  mad  makes  the chanting of Kṛṣṇa’s name
+tr: Kṛṣṇa Himself and the others, and all beings, moving and unmoving — *kṛṣṇa-saṅkīrtana* makes them all mad with love of Kṛṣṇa.
+fn: The edition’s heading: by the power of *kṛṣṇa-kīrtana* all forms of the Godhead (*īśa-tattva*), beginning with Bhagavān Śrī Kṛṣṇa Himself, and all souls, moving and unmoving, become mad with love of Kṛṣṇa.
+
+## 267
+w: Svarūpa Gosāñi  in his notebook  which pastimes  wrote
+w: from Raghunātha dāsa’s mouth  which  all  I heard
+tr: The pastimes that Svarūpa Gosāñi recorded in his notebook (*kaḍacā*), and all that I heard from the mouth of Raghunātha dāsa —
+
+## 268
+w: those  all  pastimes  I tell  in brief  making
+w: by Caitanya’s mercy  I write  a tiny soul  being
+tr: those pastimes I tell in brief. Though I am an insignificant soul, I write by Caitanya’s mercy.
+
+## 269
+w: of Haridāsa Ṭhākura  I have told  of the glory  a particle
+w: which  on hearing  of the devotees  is soothed  the ears
+tr: I have told a particle of the glory of Haridāsa Ṭhākura; hearing it soothes the devotees’ ears.
+
+## 270
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The same colophon verse as Antya 2.172; translation as there.

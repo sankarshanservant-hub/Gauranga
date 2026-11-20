@@ -1,0 +1,1274 @@
+# English translation, Ādi-līlā 5 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: Determining the Truth of Śrī Nityānanda
+
+## 1
+w: I bow  of endless  wondrous  opulence (possessed)
+w: Śrī Nityānanda  the Lord
+w: by whose  will  His  true nature
+w: by an ignorant one  even  is described
+tr: I bow to the Lord Śrī Nityānanda, whose divine opulence is endless and wondrous. By His will even a fool can come to know and describe His true nature.
+fn: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: in these  six  verses  I have told  of Kṛṣṇa Caitanya  the glory
+w: in five  verses  I tell  of the truth of Nityānanda  the full extent
+tr: In these six verses I have told of the glory of Kṛṣṇa Caitanya; in five verses I now tell the whole truth of Nityānanda.
+
+## 4
+w: of all  avatāras the source  Kṛṣṇa  Himself  Bhagavān
+w: His  second  body  Śrī Balarāma
+tr: Kṛṣṇa, the source of all avatāras, is Bhagavān Himself, and Śrī Balarāma is His second body.
+
+## 5
+w: one and the same  nature  of the two  different only  the bodies
+w: the first  bodily expansion  of Kṛṣṇa’s pastimes  the helper
+tr: The two are one in nature; only Their bodies differ. Balarāma is the first expansion of Kṛṣṇa’s body and His helper in His pastimes.
+
+## 6
+w: that  Kṛṣṇa  in Navadvīpa  Śrī Caitanyacandra
+w: that  Balarāma  with Him  Śrī Nityānanda
+tr: That Kṛṣṇa is Śrī Caitanyacandra in Navadvīpa, and that Balarāma is Śrī Nityānanda, who is with Him.
+
+## 7
+w: Saṅkarṣaṇa  Kāraṇodakaśāyī
+w: Garbhodakaśāyī  and  Kṣīrodakaśāyī
+w: and Śeṣa  whose  portions and parts  He  Nityā-
+w: -nanda named  Rāma  refuge  my  may be
+tr: “Saṅkarṣaṇa, the Lord who lies in the Causal Ocean, the Lord who lies in the Garbha Ocean, the Lord who lies in the Ocean of Milk, and Śeṣa are His portions and the parts of His portions: may that Rāma who is called Nityānanda be my refuge.” (diary of Svarūpa Dāmodara)
+fn: *Anubhāṣya*: Saṅkarṣaṇa is Mahā-Saṅkarṣaṇa of the spiritual sky (Paravyoma); Kāraṇodakaśāyī is the original Puruṣa-avatāra; Garbhodakaśāyī is the second Puruṣa, Hiraṇyagarbha, the Viṣṇu of the whole universe (*samaṣṭi*); Kṣīrodakaśāyī is the third Puruṣa, the Viṣṇu of each being (*vyaṣṭi*); Śeṣa is Ananta. The edition ascribes the verse to the diary of Svarūpa Dāmodara. The same verse as Ādi 1.7.
+
+## 8
+w: Śrī Balarāma  Gosāñi  the original  Saṅkarṣaṇa
+w: five  forms  assuming  He performs  Kṛṣṇa’s  service
+tr: Śrī Balarāma Gosāñi is the original Saṅkarṣaṇa. Assuming five forms, He serves Kṛṣṇa.
+
+## 9
+w: Himself  He performs  of Kṛṣṇa’s pastimes  assistance
+w: of the pastime of creation  the work  He does  assuming  four  bodies
+tr: He Himself assists Kṛṣṇa in His pastimes, and in four other bodies He carries out the work of creation.
+
+## 10
+w: creation  and the rest  service  His  order’s  carrying out
+w: Śeṣa  in the form of  He performs  Kṛṣṇa’s  manifold  service
+tr: His work of creation and the rest is service done at Kṛṣṇa’s command; and as Śeṣa He serves Kṛṣṇa in many ways.
+
+## 11
+w: in all  forms  He tastes  of Kṛṣṇa’s service  the bliss
+w: that  Balarāma  Gaura’s companion  Nityānanda
+tr: In all these forms He tastes the bliss of serving Kṛṣṇa. And that same Balarāma is Nityānanda, the companion of Gaura.
+
+## 12
+w: of the seventh  verse  the meaning  I make  in four verses
+w: by which  of Nityānanda  the truth  know  all people
+tr: I shall explain the meaning of the seventh verse in four verses, so that all may know the truth of Nityānanda.
+fn: *Amṛta-pravāha-bhāṣya*: what is said in the seventh verse is explained in the eighth, ninth, tenth and eleventh verses of the invocation (Ādi 1.8–1.11), which the author now quotes and expounds (5.13, 5.50, 5.93, 5.109).
+
+## 13
+w: beyond māyā  in all-pervading  Vaikuṇṭha  world
+w: full of opulence  amid the fourfold expansion
+w: form  whose  shines forth  Saṅkarṣaṇa  named
+w: to Him  Śrī  Nityānanda-Rāma  I surrender
+tr: “I take refuge in Śrī Nityānanda Rāma, whose form called Saṅkarṣaṇa shines amid the fourfold expansion (catur-vyūha) in the all-pervading world of Vaikuṇṭha, full of every opulence and beyond māyā.” (diary of Svarūpa Dāmodara)
+fn: The same verse as Ādi 1.8.
+
+## 14
+w: material nature’s  beyond  Paravyoma  named  an abode
+w: Kṛṣṇa’s  form  just as  with opulence  and other  qualities endowed
+tr: Beyond material nature lies the abode called Paravyoma. Like Kṛṣṇa’s own form, it is endowed with every opulence and every divine quality.
+
+## 15
+w: all-pervading  endless  Brahman  Vaikuṇṭha  and others  abodes
+w: of Kṛṣṇa  of Kṛṣṇa’s avatāras  there  the dwelling
+tr: There lie endless, all-pervading abodes — Brahman, Vaikuṇṭha and others — and in them Kṛṣṇa and His avatāras dwell.
+fn: The edition’s heading: “Brahman and the worlds above it, the abodes of Kṛṣṇa and His avatāras.” *Amṛta-pravāha-bhāṣya*: in that realm are the all-pervading, endless abode of Brahman and the abodes of Vaikuṇṭha; in all of them dwell Kṛṣṇa Himself and all His avatāras.
+
+## 16
+w: its  in the upper  part  Kṛṣṇaloka  renowned
+w: Dvārakā  Mathurā  Gokula  in three divisions  it abides
+tr: In its highest region is the realm known as Kṛṣṇaloka, which abides in three divisions — Dvārakā, Mathurā and Gokula.
+
+## 17
+w: above all  Śrī Gokula  the abode of the world of Vraja
+w: Śrī Goloka  Śvetadvīpa  Vṛndāvana  named
+tr: Above all is Śrī Gokula, the abode of Vraja, which is also called Śrī Goloka, Śvetadvīpa and Vṛndāvana.
+
+## 18
+w: all-pervading  endless  vast  like Kṛṣṇa’s body
+w: above and below  it pervades  there is no  limit
+tr: Like Kṛṣṇa’s body, it is all-pervading, endless and vast; it extends above and below without any bound.
+fn: As in the Gauḍīya Maṭha edition: «নাহিক নিয়ম» (another reading: «নাহি তাঁর সীমা»).
+
+## 19
+w: in the universe  manifestation  its  by Kṛṣṇa’s  will
+w: one and the same  nature  its  there are not  two  bodies
+tr: By Kṛṣṇa’s will it is manifest within the universe, yet it remains one and the same: it does not have two bodies.
+
+## 20
+w: of cintāmaṇi  the land  of wish-fulfilling trees full  forests
+w: with eyes of flesh  one sees  it  the material world  like
+tr: Its land is cintāmaṇi, its forests are full of wish-fulfilling trees; yet eyes of flesh see it as no different from the material world.
+fn: The edition’s heading: “To the eye of enjoyment it looks like the material world, but to the eye of devotion it is the spiritual land of cintāmaṇi, the field of Kṛṣṇa’s pastimes.” *Amṛta-pravāha-bhāṣya*: even in the Vraja manifest on earth the land is cintāmaṇi and the forests are of wish-fulfilling trees.
+
+## 21
+w: with eyes of love  one sees  its  true form’s  manifestation
+w: with the cowherd boys  and girls  together  where  Kṛṣṇa’s  pastimes
+tr: With eyes of love one sees it as it truly is — the place where Kṛṣṇa sports with the cowherd boys and girls.
+
+## 22
+w: of cintāmaṇi gems  of clusters  in abodes  wish-fulfilling trees
+w: by millions  surrounded  the surabhi cows  tending
+w: by Lakṣmīs  thousands  hundreds  with reverence  being served
+w: Govinda  the original  Person  Him  I  worship
+tr: “I worship Govinda, the original Person, who tends the surabhi cows in abodes built of cintāmaṇi gems and surrounded by millions of wish-fulfilling trees, and who is served with reverence by hundreds of thousands of Lakṣmīs.” (Brahma-saṁhitā, 5.29)
+fn: *Anubhāṣya*: the Lakṣmīs here are the gopīs, the beloved cowherd maidens of Vraja (*lakṣmyaḥ gopa-rāmāḥ*); *abhipālayantam* — “tending them in every way, as befits a cowherd”.
+
+## 23
+w: in Mathurā  Dvārakā  His own  form  manifesting
+w: in many  forms  He sports  the catur-vyūha  becoming
+tr: In Mathurā and Dvārakā He manifests His own form and, becoming the fourfold expansion (catur-vyūha), sports in many forms.
+
+## 24
+w: Vāsudeva  Saṅkarṣaṇa  Pradyumna  Aniruddha
+w: of all  catur-vyūhas  the source  transcendent  pure
+tr: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha are the source of every catur-vyūha; They are transcendent (*turīya*) and pure.
+
+## 25
+w: in these  three  abodes  Kṛṣṇa  wholly  of pastimes full
+w: His own  associates  taking  He plays  endless  time
+tr: In these three abodes Kṛṣṇa is wholly given to His pastimes; there He plays with His own associates without end.
+
+## 26
+w: of Paravyoma  in the midst  making  of His own form  manifestation
+w: of Nārāyaṇa  in the form  He performs  various  pastimes
+tr: In the midst of Paravyoma He manifests His own form and, as Nārāyaṇa, enjoys pastimes of many kinds.
+
+## 27
+w: own  form  Kṛṣṇa’s  only  two-armed
+w: of Nārāyaṇa  in the form  that  body  four-armed
+tr: Kṛṣṇa’s own form has only two arms; in the form of Nārāyaṇa that same body has four.
+
+## 28
+w: conch  disc  club  lotus  of great majesty full
+w: Śrī  Bhū  Nīlā  potencies  whose  feet  serve
+tr: He holds the conch, disc, club and lotus and is full of supreme majesty; His feet are served by His potencies Śrī, Bhū and Nīlā.
+fn: *Anubhāṣya*: in some Bengali manuscripts “Līlā-śakti” is read in place of “Nīlā”; these three potencies dwell in Vaikuṇṭha beside Nārāyaṇa.
+
+## 29
+w: although  only  His  play  merely  nature
+w: still  to the jīvas  out of mercy  He does  one  work
+tr: Though His nature is simply to play, out of mercy to the jīvas He does one work:
+
+## 30
+w: sālokya  sāmīpya  sārṣṭi  sārūpya  kinds
+w: four  liberations  giving  He makes  of the jīvas  deliverance
+tr: Granting the four kinds of liberation — sālokya, sāmīpya, sārṣṭi and sārūpya — He delivers the jīvas.
+
+## 31
+w: in Brahman  by merging  of the liberated  there  there is no  access
+w: Vaikuṇṭha  outside  is  of them all  the dwelling
+tr: Those liberated by merging into Brahman have no access there; they all remain outside it.
+
+## 32
+w: Vaikuṇṭha  outside  one  luminous  sphere
+w: of Kṛṣṇa’s  body  the radiance  supremely  bright
+tr: Outside Vaikuṇṭha lies a sphere of light — the radiance of Kṛṣṇa’s body, supremely bright.
+
+## 33
+w: Siddhaloka  name  its  material nature  beyond
+w: spiritual  in nature  there  there are not  of the spiritual potency  transformations
+tr: It is called Siddhaloka and lies beyond material nature. It is spiritual, yet the spiritual potency displays no variety there.
+
+## 34
+w: the sun’s  disc  as  outside  without variety
+w: within  the sun’s  chariot  and the rest  full of variety
+tr: It is like the disc of the sun: from outside it is a featureless glow, but within are the sun’s chariot and all its variety.
+
+## 35
+w: from desire  from enmity  from fear  from affection
+w: as  by devotion  on the Lord  the mind
+w: fixing  that  sin  casting off
+w: many  His  destination  have attained
+tr: “Many have fixed their minds on the Lord — some by devotion, others by loving desire (*kāma*), enmity, fear or affection — and, casting off the sin in those feelings, have attained Him.” (Śrīmad-Bhāgavatam, 7.1.29)
+fn: *Anubhāṣya*: this is Nārada’s answer to Yudhiṣṭhira’s question how Śiśupāla, who hated Kṛṣṇa, attained *sāyujya*: by *kāma* — the gopīs; by enmity — Dantavakra and Śiśupāla; by fear — Kaṁsa; by affection — the Pāṇḍavas. *Tad agham* is the sin born of desire and the other feelings; *tad-gatim* — the various kinds of liberation. The gopīs’ *kāma* Śrī Rūpa Gosvāmī calls prema: “The pure love of the gopīs came to be called *kāma*” (*Bhakti-rasāmṛta-sindhu*).
+
+## 36
+w: which  of the enemies  of the beloved  and
+w: the attainment  one  as if  is spoken of
+w: that  of Brahman and Kṛṣṇa  from the oneness
+w: like the rays and the sun  of those two
+tr: “The goal of the Lord’s enemies and that of His beloved ones are sometimes spoken of as one, because Brahman and Kṛṣṇa are one, as the rays are one with the sun.” (Bhakti-rasāmṛta-sindhu, 1.2.278)
+fn: *Amṛta-pravāha-bhāṣya*: where the scriptures say that the Lord’s enemies and His beloved ones attain the same, they speak only of the oneness of Brahman, which is like the rays, and Kṛṣṇa, who is like the sun. In truth His beloved ones attain the variety of Vaikuṇṭha, and His enemies Siddhaloka, where there are no pastimes.
+
+## 37
+w: so  in Paravyoma  manifold  of the spiritual potency  pastimes
+w: featureless  of light  a sphere  outside  is manifest
+tr: So in Paravyoma there are manifold pastimes of the spiritual potency, while outside it a featureless sphere of light is manifest.
+
+## 38
+w: featureless  Brahman  that  only  luminous
+w: for sāyujya  the qualified  there  attain  absorption
+tr: That featureless Brahman is light alone, and those who are fit for *sāyujya* are absorbed in it.
+
+## 39
+w: Siddhaloka  but  darkness
+w: beyond  where  dwell  indeed
+w: the siddhas  in the bliss of Brahman  immersed
+w: the demons  and  by Hari  slain
+tr: “Beyond darkness lies Siddhaloka, where dwell the siddhas, immersed in the bliss of Brahman, and the demons slain by Hari.” (Brahmāṇḍa-purāṇa; Bhakti-rasāmṛta-sindhu, 1.2.280)
+fn: *Anubhāṣya*: *tamasaḥ pāre* — beyond the three guṇas; the siddhas are those perfected in the knowledge of featureless Brahman and in *kaivalya-yoga*. *Amṛta-pravāha-bhāṣya*: there dwell the Māyāvādīs, immersed in the bliss of Brahman, and asuras such as Kaṁsa, slain by the Lord; the yogīs of Patañjali’s school who attain *kaivalya* also reach that world.
+
+## 40
+w: in that  Paravyoma  of Nārāyaṇa  on four  sides
+w: of Dvārakā  the catur-vyūha  in a second  manifestation
+tr: In that Paravyoma, on the four sides of Nārāyaṇa, the catur-vyūha of Dvārakā is present in a second manifestation.
+
+## 41
+w: Vāsudeva  Saṅkarṣaṇa  Pradyumna  Aniruddha
+w: the second  catur-vyūha  this  transcendent  pure
+tr: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — this is the second catur-vyūha, transcendent and pure.
+
+## 42
+w: there  which  of Rāma  form  Mahā-Saṅkarṣaṇa
+w: of the spiritual potency  the shelter  He  of causes  the cause
+tr: There the form of Rāma is Mahā-Saṅkarṣaṇa. He is the shelter of the spiritual potency, the cause of all causes.
+
+## 43
+w: of the spiritual potency  a manifestation  one  śuddha-sattva  named
+w: of śuddha-sattva made  all  Vaikuṇṭha and other  abodes
+tr: One manifestation of the spiritual potency is called *śuddha-sattva*, pure spiritual existence, and of it all the abodes of Vaikuṇṭha are made.
+
+## 44
+w: of six kinds  opulence  there  all  spiritual
+w: of Saṅkarṣaṇa  the splendour  all  know  for certain
+tr: The six kinds of opulence there are all spiritual; know for certain that all of them are the splendour of Saṅkarṣaṇa.
+
+## 45
+w: jīva  named  marginal called  one  potency  there is
+w: Mahā-Saṅkarṣaṇa  of all  jīvas  the shelter
+tr: There is a potency called *jīva*, known as the marginal (*taṭasthā*) potency; and Mahā-Saṅkarṣaṇa is the shelter of all jīvas.
+
+## 46
+w: from whom  of the universe  the origin  in whom  the dissolution
+w: of that  Puruṣa  Saṅkarṣaṇa  the shelter
+tr: Saṅkarṣaṇa is the shelter of the Puruṣa from whom the universe arises and into whom it dissolves.
+
+## 47
+w: of all  the shelter  all-wondrous  opulence  boundless
+w: Ananta  to describe  cannot  the glory  whose
+tr: He is the shelter of all, wondrous in every way, His opulence boundless; even Ananta cannot describe His glory.
+
+## 48
+w: transcendent  pure sattva  Saṅkarṣaṇa  named
+w: He  whose  part  that  Nityānanda-Rāma
+tr: The transcendent Saṅkarṣaṇa, pure spiritual existence (*viśuddha-sattva*), is a part of Nityānanda-Rāma.
+fn: *Anubhāṣya*: the text reads *aṁśa* (“part”), the *Amṛta-pravāha-bhāṣya* *aṅga*; both readings mean the same. *Amṛta-pravāha-bhāṣya*: Mahā-Saṅkarṣaṇa is spiritual *viśuddha-sattva*; He is the *aṅga*, that is, the *prakāśa*, of Nityānanda-Rāma.
+
+## 49
+w: of the eighth  verse  I gave  a brief  explanation
+w: of the ninth  verse  the meaning  hear  giving  the mind
+tr: Thus I have briefly explained the eighth verse. Now hear attentively the meaning of the ninth.
+
+## 50
+w: māyā’s  master  of universes  multitudes  shelter  whose body
+w: lies  in person  of the Causal  Ocean  in the midst
+w: whose  one part  the Puruṣa  the original  Lord
+w: to Him  Śrī  Nityānanda-Rāma  I surrender
+tr: “I take refuge in Śrī Nityānanda Rāma. A part of Him is the original Lord, the Puruṣa, the master of māyā, who lies in person in the midst of the Causal Ocean, His body the shelter of countless universes.” (diary of Svarūpa Dāmodara)
+fn: The same verse as Ādi 1.9.
+
+## 51
+w: Vaikuṇṭha  outside  which  luminous  abode
+w: of it  outside  Kāraṇārṇava  named
+tr: Outside Vaikuṇṭha is the luminous abode, and beyond it lies what is called the Kāraṇārṇava, the Causal Ocean.
+
+## 52
+w: Vaikuṇṭha  encircling  one  there is  an ocean
+w: endless  shoreless  its  there is no  limit
+tr: Encircling Vaikuṇṭha is an ocean, endless and shoreless; it has no bound.
+
+## 53
+w: of Vaikuṇṭha  earth  and the rest  all  spiritual
+w: material  of the elements  there  birth  not  is
+tr: In Vaikuṇṭha earth and all the elements are spiritual; material elements never arise there.
+
+## 54
+w: spiritual  water  that  the supreme  cause
+w: of which  one  drop  the Gaṅgā  of the fallen  the purifier
+tr: That spiritual water is the supreme cause; a single drop of it is the Gaṅgā, purifier of the fallen.
+
+## 55
+w: in that  very  Causal Ocean  that  Saṅkarṣaṇa
+w: His own  in one  part  He makes  lying down
+tr: In that Causal Ocean the same Saṅkarṣaṇa lies in the form of one of His parts.
+
+## 56
+w: of the mahat  the creator  Puruṣa  He  of the world  the cause
+w: the first  avatāra  makes  of māyā  the glance
+tr: He is the Puruṣa, creator of the *mahat-tattva*, the cause of the world. This first avatāra casts His glance upon māyā.
+
+## 57
+w: māyā  potency  remains  the Causal Ocean  outside
+w: the Causal  Ocean  māyā  to touch  cannot
+tr: The potency māyā stays outside the Causal Ocean; māyā cannot touch its waters.
+
+## 58
+w: of that  very  māyā  twofold  state
+w: of the world  the material cause  pradhāna  prakṛti
+tr: That māyā exists in two ways; as the material cause of the world it is called *pradhāna* or *prakṛti*.
+fn: *Anubhāṣya* and *Amṛta-pravāha-bhāṣya*: the external potency has two parts. The efficient cause (*nimitta*), the guṇas, is called māyā; the material cause (*upādāna*) is *pradhāna*, which is also called *prakṛti* (the first is spoken of in 5.62).
+
+## 59
+w: of the world  the cause  is not  prakṛti  inert  in nature
+w: potency  infusing  into her  Kṛṣṇa  shows  mercy
+tr: Inert prakṛti is not the cause of the world; Kṛṣṇa shows her mercy by infusing her with His potency.
+
+## 60
+w: by Kṛṣṇa’s  potency  prakṛti  becomes  the secondary  cause
+w: by fire’s  power  iron  as  does  burning
+tr: By Kṛṣṇa’s potency prakṛti becomes a secondary cause, just as iron burns by the power of fire.
+
+## 61
+w: therefore  Kṛṣṇa  the original  of the world  cause
+w: prakṛti  the cause  as  of a goat  on the neck  the teats
+tr: Therefore Kṛṣṇa is the original cause of the world. To call prakṛti the cause is like taking the teats on a goat’s neck for an udder.
+
+## 62
+w: in the māyā  aspect  I call  her  the efficient  cause
+w: even that  is not so  because  the agent  cause  Nārāyaṇa
+tr: In her aspect as māyā I call her the efficient cause of the world; but even that is not so, for the true maker and cause is Nārāyaṇa.
+fn: *Amṛta-pravāha-bhāṣya*: Nārāyaṇa is the principal efficient cause of the world, as the potter is of the pot; māyā is a secondary cause, like the potter’s wheel and stick (5.63–5.64).
+
+## 63
+w: of the pot  efficient  cause  as  the potter
+w: so  of the world  the maker  the Puruṣa-avatāra
+tr: As the potter is the efficient cause of the pot, so the Puruṣa-avatāra is the maker of the world.
+
+## 64
+w: Kṛṣṇa  the maker  māyā  to Him  gives  help
+w: of the pot  cause  wheel  stick  and other  instruments
+tr: Kṛṣṇa is the maker, and māyā only helps Him, as the wheel, the stick and other tools are causes of the pot.
+
+## 65
+w: from afar  the Puruṣa  makes  on māyā  a glance
+w: in the form of jīvas  the seed  into her  He makes  placing
+tr: From afar the Puruṣa glances upon māyā and places in her the seed — the jīvas.
+
+## 66
+w: by one  semblance of His body  makes  with māyā  union
+w: from māyā  are born  then  of universes  the multitudes
+tr: By a mere semblance of His body He unites with māyā, and from māyā the hosts of universes are then born.
+fn: *Amṛta-pravāha-bhāṣya*: *aṅgābhāsa* is only a semblance of bodily contact, not a real union with māyā.
+
+## 67
+w: countless  endless  as many  universes’  arrangements
+w: in so many  forms  the Puruṣa  makes  into all  entrance
+tr: Into all those countless, endless universes the Puruṣa enters, taking as many forms.
+
+## 68
+w: the Puruṣa’s  from the nostrils  when  goes out  the breath
+w: the exhalation  together with  becomes  of universes  the manifestation
+tr: When the breath goes out of the Puruṣa’s nostrils, the universes become manifest with His exhalation.
+
+## 69
+w: again  the breath  when  enters  within
+w: with the breath  the universes  enter  of the Puruṣa  into the body
+tr: And when the breath enters again, the universes enter the Puruṣa’s body with it.
+
+## 70
+w: of a window  through the holes  as  specks of dust  move
+w: of the Puruṣa  in the pores  of universes  the multitudes
+tr: As specks of dust move through the holes of a lattice window, so hosts of universes move through the pores of the Puruṣa’s skin.
+
+## 71
+w: whose  one  exhalation’s  span  then  depending on
+w: live  from the pores  born  of the universes  the lords
+w: Viṣṇu  the Great  He  here  whose  kalā  particular
+w: Govinda  the original  Person  Him  I  worship
+tr: “The lords of the universes, born from His pores, abide for the span of one of His breaths. That Mahā-Viṣṇu is a particular kalā of Govinda, the original Person, whom I worship.” (Brahma-saṁhitā, 5.48)
+fn: *Anubhāṣya*: the lords of the universes are the *samaṣṭi*-Viṣṇus and others; *jīvanti* — “they are manifest, they abide”.
+
+## 72
+w: where  I  by darkness  the mahat  false ego  ether  air  fire  water  earth
+w: enclosed  universe  in the pot  seven  spans  of body
+w: where  such  countless  universes  like atoms  moving
+w: through the windows  the pores of the skin  and  Your  greatness
+tr: “Where am I, a creature with a body seven spans tall, enclosed in the pot of a universe wrapped in prakṛti, the mahat, false ego, ether, air, fire, water and earth? And where is Your greatness, when countless such universes drift like atoms through the pores of Your skin, as through the openings of a lattice?” (Śrīmad-Bhāgavatam, 10.14.11)
+fn: *Anubhāṣya*: this is one of the prayers Brahmā offered to Kṛṣṇa after stealing the calves and cowherd boys, to atone for his offence; *tamaḥ* is unmanifest prakṛti.
+
+## 73
+w: of a part  the part  which  kalā  its  name
+w: of Govinda  the second body  Śrī Balarāma
+tr: A part of a part is called a *kalā*. Śrī Balarāma is Govinda’s second body.
+fn: *Anubhāṣya*: *pratimūrti* — “second body” (see 5.4–5.5).
+
+## 74
+w: His  one  form  Śrī Mahā-Saṅkarṣaṇa
+w: His  part  the Puruṣa  is  among the kalās  counted
+tr: One of His forms is Śrī Mahā-Saṅkarṣaṇa, and Mahā-Saṅkarṣaṇa’s part, the Puruṣa, is counted as a *kalā*.
+
+## 75
+w: whom  indeed  kalā  I call  He  Mahā-Viṣṇu
+w: of the Mahā-Puruṣa avatāras the source  He  all-conquering
+tr: He whom I call a kalā is Mahā-Viṣṇu. He is the source of the Puruṣa-avatāras, ever victorious.
+
+## 76
+w: in the Garbha  Kṣīra  lying  both  Puruṣa  named
+w: those  two  whose  parts  Viṣṇu  abode of the universes
+tr: The Lords who lie in the Garbha and Kṣīra oceans are both called Puruṣas, and He whose parts They are is Viṣṇu, the abode of all the universes.
+
+## 77
+w: of Viṣṇu  but  three  forms
+w: called Puruṣas  then  they know
+w: one  but  of the mahat  the creator
+w: the second  but  in the universe  abiding
+w: the third  in all  beings  abiding
+w: them  knowing  one is liberated
+tr: “Viṣṇu has three forms called Puruṣas: the first creates the mahat, the second abides within the universe, and the third dwells in all beings. Knowing Them, one is set free.” (Sātvata-tantra; Laghu-bhāgavatāmṛta, Pūrva-khaṇḍa, 2.9)
+
+## 78
+w: although  I call  Him  Kṛṣṇa’s  kalā  making
+w: of Matsya  Kūrma  and other  avatāras  He  the source
+tr: Though I call Him a kalā of Kṛṣṇa, He is the source of Matsya, Kūrma and the other avatāras.
+
+## 79
+w: these  and  portions  and parts  of the Puruṣa
+w: Kṛṣṇa  but  Bhagavān  Himself
+w: by the enemies of Indra  troubled  the world
+w: make happy  in age  after age
+tr: “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)
+fn: *Anubhāṣya*: *ete* — “the avatāras named before”; *aṁśāḥ* — portions of the Puruṣa-avatāra, *kalāḥ* — portions of portions; *mṛḍayanti*, “make happy”, refers to these avatāras. *Amṛta-pravāha-bhāṣya*: “Rāma, Nṛsiṁha and others are portions or parts of the Puruṣa; They protect the world oppressed by demons.”
+fn: The same verse as Ādi 2.67.
+
+
+## 80
+w: that  Puruṣa  of creation  maintenance  dissolution  the doer
+w: many  avatāras  makes  of the world  the sustainer
+tr: That Puruṣa creates, maintains and dissolves the world; He sends forth many avatāras and sustains the world.
+
+## 81
+w: creation  and the rest  for the sake of  which  part’s  descent
+w: that  very  part  I call  avatāra  by name
+tr: The part that descends for creation and the rest I call by the name *avatāra*.
+
+## 82
+w: the first avatāra  the Mahā-Puruṣa  Bhagavān
+w: of all  avatāras  the seed  of all  the shelter  the abode
+tr: He is the first avatāra, the Mahā-Puruṣa, Bhagavān — the seed of all avatāras, the abode and shelter of all.
+
+## 83
+w: the first  avatāra  the Puruṣa  of the Supreme
+w: time  nature  cause and effect  the mind  and
+w: the elements  false ego  the guṇas  the senses
+w: the universal body  the self-luminous  the unmoving  the moving  of the Great One
+tr: “The Puruṣa is the first avatāra of the Supreme. Time, nature, prakṛti as cause and effect, the mind, the elements, false ego, the guṇas, the senses, the universal body (*virāṭ*) and the Vairāja (*svarāṭ*), and all beings, moving and unmoving — all these are the splendour of the Great One.” (Śrīmad-Bhāgavatam, 2.6.42)
+fn: *Anubhāṣya*: Brahmā is telling Nārada of the splendour of Kāraṇārṇavaśāyī: *kāla* — that which sets the guṇas in motion; *svabhāva* — their transformation; *sad-asat* — prakṛti as cause and effect; *manaḥ* — the mahat-tattva; *dravya* — the subtle and gross elements; *vikāra* — false ego; *virāṭ* — the collective body of the universe; *svarāṭ* — the Vairāja; *sthāsnu*, *cariṣṇu* — unmoving and moving bodies; all this is His splendour (*vibhūti*).
+
+## 84
+w: accepted  of the Puruṣa  form
+w: Bhagavān  with the mahat  and the rest
+w: composed  of sixteen  parts
+w: in the beginning  the worlds  desiring to create
+tr: “In the beginning, desiring to create the worlds, Bhagavān accepted the form of the Puruṣa, joined with the mahat and the other principles and possessed of sixteen potencies (*kalā*).” (Śrīmad-Bhāgavatam, 1.3.1)
+fn: *Anubhāṣya*: Bhagavān here is Mahā-Saṅkarṣaṇa; “the mahat and the rest” are the mahat, false ego, the five great elements, the eleven senses and the five *tanmātras*; the sixteen *kalās* are the fullness of power for creation — in the *Laghu-bhāgavatāmṛta*, Śrī, Bhū, Kīrti, Ilā, Līlā, Kānti, Vidyā and nine potencies headed by Vimalā.
+
+## 85
+w: although  of all the shelter  He  in Him  the world
+w: the Supersoul  in the form of  He  of the world  the support
+tr: He is the shelter of all, and the world rests in Him; as the Supersoul He is the support of the world.
+
+## 86
+w: with prakṛti  His  twofold  relation
+w: yet  with prakṛti  there is not  of touch  a scent
+tr: He has a twofold relation with prakṛti, and yet there is not even a trace of contact between Him and prakṛti.
+
+## 87
+w: this  the lordship  of the Lord
+w: in material nature  abiding  though  by its qualities
+w: not  is affected  ever  abiding in Him
+w: as  the intelligence  sheltered in Him
+tr: “This is the lordship of the Lord: though He abides within material nature, He is never affected by its qualities — just as the intelligence of those who have taken shelter of Him is not affected.” (Śrīmad-Bhāgavatam, 1.11.38)
+fn: The same verse as Ādi 2.55.
+
+
+## 88
+w: in this way  in the Gītā also  again  again  it says
+w: always  of the Lord  the truth  of inconceivable potency  is
+tr: So the Gītā too declares again and again that the truth of the Lord is always endowed with inconceivable potency:
+
+## 89
+w: I  indeed  in the world  abide  the world  in Me
+w: not  I  in the world  abide  not  in Me  the world
+tr: “I abide in the world, and the world is in Me; and yet I do not abide in the world, nor is the world in Me.
+
+## 90
+w: inconceivable  opulence  this  know  My
+w: this  indeed  of the Gītā  the meaning  is made  proclaimed
+tr: Know this to be My inconceivable power.” Such is the meaning the Gītā proclaims.
+
+## 91
+w: that  very  Puruṣa  whose  part  bears  the name
+w: of Caitanya  the companion  that  Nityānanda-Rāma
+tr: He of whom that Puruṣa is called a part is Nityānanda-Rāma, the companion of Caitanya.
+
+## 92
+w: this  indeed  of the ninth  verse  of the meaning  the explanation
+w: of the tenth  verse  the meaning  hear  giving  the mind
+tr: Such is the explanation of the ninth verse. Now hear attentively the meaning of the tenth.
+
+## 93
+w: whose  part of a part  the blessed  Garbhodakaśāyī
+w: whose  navel-lotus  of the worlds  totality  as its stem
+w: of the creator of the worlds  of birth  the place  of Brahmā
+w: to Him  Śrī  Nityānanda-Rāma  I surrender
+tr: “I take refuge in Śrī Nityānanda Rāma. A part of His part is the blessed Garbhodakaśāyī, whose navel-lotus, with all the worlds as its stem, is the birthplace of Brahmā, the creator of the worlds.” (diary of Svarūpa Dāmodara)
+fn: The same verse as Ādi 1.10. *Anubhāṣya*: Garbhodakaśāyī is the second Puruṣa; the stem of the lotus is the support of the fourteen worlds; the lotus is the birthplace of Brahmā.
+
+## 94
+w: that  very  Puruṣa  endless universes  having created
+w: into all  universes  entered  many  forms  becoming
+tr: Having created endless universes, that Puruṣa entered them all, becoming many forms.
+
+## 95
+w: within  having entered  sees  all  darkness
+w: to stay  there is no  place  made  reflection
+tr: Entering, He saw only darkness everywhere, and finding no place to stay, He reflected.
+
+## 96
+w: of His own body  the sweat-water  made  creation
+w: with that  water  made  half the universe  filling
+tr: From the perspiration of His own body He created water and with it filled half the universe.
+
+## 97
+w: of the universe  the measure  fifty  crores  of yojanas
+w: length  breadth  the two  are  one  equal
+tr: The universe measures fifty crores of yojanas, equal in length and breadth.
+
+## 98
+w: with water  filling  half  there  made  His own  dwelling
+w: the other  in the half  made  of the fourteen worlds  manifestation
+tr: Filling half with water, He made His dwelling there; in the other half He manifested the fourteen worlds.
+
+## 99
+w: there  manifest  made  Vaikuṇṭha  His own  abode
+w: Śeṣa  as bed  on the water  made  rest
+tr: There He manifested Vaikuṇṭha, His own abode, and rested on the water with Śeṣa as His bed.
+
+## 100–101
+w: on Ananta  the bed  there  made  lying down
+w: a thousand  heads  His  a thousand  faces
+w: a thousand  feet  hands  a thousand  eyes
+w: of all  avatāras  the seed  of the world  the cause
+tr: There He lay on Ananta as His bed. He has a thousand heads and a thousand faces, a thousand hands and feet and a thousand eyes. He is the seed of all avatāras and the cause of the world.
+fn: *Anubhāṣya* cites the *Bhāgavatam* (1.3.4) and the Puruṣa-sūkta (“The Puruṣa has a thousand heads, a thousand eyes, a thousand feet”): the thousand-headed one is Garbhodakaśāyī Himself, not Ananta on whom He lies. The edition’s heading to 5.101: “He who is praised in the Puruṣa-sūkta of the Ṛg-veda.”
+
+## 102
+w: His  from the navel-lotus  arose  one  lotus
+w: that  lotus  became  of Brahmā  birth  the abode
+tr: From His navel-lotus a lotus arose, and that lotus became the birthplace of Brahmā.
+
+## 103
+w: in that  lotus  stem  came to be  the fourteen  worlds
+w: He  Brahmā  becoming  creation  made  bringing forth
+tr: In the stem of that lotus the fourteen worlds came to be, and He, becoming Brahmā, brought forth the creation.
+
+## 104
+w: Viṣṇu’s  form  taking  makes  of the world  maintenance
+w: beyond the guṇas  Viṣṇu  touch  there is no  of māyā  with the guṇas
+tr: Taking the form of Viṣṇu, He maintains the world. Viṣṇu is beyond the guṇas; the guṇas of māyā never touch Him.
+
+## 105
+w: Rudra’s  form  assuming  makes  of the world  destruction
+w: creation  maintenance  dissolution  by the will  of whom
+tr: Assuming the form of Rudra, He destroys the world. Creation, maintenance and dissolution all take place by His will.
+
+## 106
+w: Hiraṇyagarbha  the Indweller  of the world  the cause
+w: whom  as a part  considering  make  of the universal form  the conception
+tr: He is Hiraṇyagarbha, the Indweller, the cause of the world; and it is a part of Him that is conceived as the universal form (*virāṭ*).
+
+## 107
+w: such  Nārāyaṇa  of whose  part  a part
+w: that  Lord  Nityānanda  of all  the crown
+tr: Great as Nārāyaṇa is, He is only a part of a part of Lord Nityānanda, the crown of all avatāras.
+
+## 108
+w: of the tenth  verse  the meaning  I made  explanation
+w: of the eleventh  verse  the meaning  hear  giving  the mind
+tr: I have explained the meaning of the tenth verse; now hear attentively the meaning of the eleventh.
+
+## 109
+w: whose  part of a part of a part  the Supersoul  of all
+w: the maintainer  Viṣṇu  appears  lying on the Ocean of Milk
+w: of the earth  the upholder  whose part  He  also  Ananta
+w: to Him  Śrī  Nityānanda-Rāma  I surrender
+tr: “I take refuge in Śrī Nityānanda Rāma. A part of a part of His part is Viṣṇu who lies on the Ocean of Milk, the Supersoul and maintainer of all beings; and Ananta, who upholds the earth, is a portion of that Viṣṇu.” (diary of Svarūpa Dāmodara)
+fn: The same verse as Ādi 1.11. *Anubhāṣya*: Ananta, the upholder of the earth, is a *kalā* of Kṣīrodakaśāyī, a part of His part.
+
+## 110
+w: of Nārāyaṇa  navel  stem  within  the earth
+w: of the earth  within  seven  oceans  which  are counted
+tr: Within the stem of Nārāyaṇa’s navel-lotus is the earth, and within the earth are counted seven oceans.
+fn: *Anubhāṣya* (after the *Siddhānta-śiromaṇi*): the seven oceans are of salt water, milk, curd, ghee, sugar-cane juice, wine and fresh water; south of the salt ocean is the Ocean of Milk, where Vāsudeva dwells.
+
+## 111
+w: there  of the Milk Ocean  in the midst  Śvetadvīpa  named
+w: the maintainer  Viṣṇu  His  that  own  abode
+tr: There, in the midst of the Ocean of Milk, is the island called Śvetadvīpa, the abode of Viṣṇu the maintainer.
+
+## 112
+w: of all  beings  He  is  the Indweller
+w: of the world  the maintainer  He  of the world  the master
+tr: He is the Indweller of all beings, the maintainer of the world and its master.
+
+## 113
+w: in the yugas  manvantaras  taking  many  avatāras
+w: of dharma  establishing  makes  of adharma  destruction
+tr: In each yuga and manvantara He takes many avatāras, establishing dharma and destroying adharma.
+
+## 114
+w: the gods  not  obtain  whose  sight
+w: of the Milk Ocean  to the shore  going  make  praise
+tr: Even the gods cannot see Him; they go to the shore of the Ocean of Milk and offer Him prayers.
+
+## 115
+w: then  descending  makes  of the world  protection
+w: endless  splendour  His  there is no  counting
+tr: Then He descends and protects the world. His splendour is endless, beyond all counting.
+
+## 116
+w: that  Viṣṇu  is  of whose  part of a part  a part
+w: that  Lord  Nityānanda  of all  the crown
+tr: And that Viṣṇu is a part of a part of a part of Lord Nityānanda, the crown of all avatāras.
+
+## 117
+w: that  Viṣṇu  Śeṣa  in the form  holds  the earth
+w: where  is  the earth  on the head  this  not  knows
+tr: That Viṣṇu, in the form of Śeṣa, holds the earth, and does not even know where on His heads it lies.
+
+## 118
+w: a thousand  broad  whose  of hoods  the circle
+w: the sun  surpassing  gems  multitude  make  glittering
+tr: On the circle of His thousand broad hoods hosts of gems glitter, outshining the sun.
+
+## 119
+w: fifty  crores  of yojanas  the earth’s  extent
+w: whose  on one hood  remains  of a mustard seed  the size
+tr: The earth, fifty crores of yojanas wide, rests on one of His hoods like a mustard seed.
+
+## 120
+w: that  very  Ananta  Śeṣa  devotee  avatāra
+w: of the Lord  service  except  not  knows  other
+tr: That Ananta Śeṣa is an avatāra in the form of a devotee; He knows nothing but service to the Lord.
+
+## 121
+w: with a thousand  mouths  makes  of Kṛṣṇa’s qualities  singing
+w: without end  qualities  He sings  end  not  finds
+tr: With His thousand mouths He sings of Kṛṣṇa’s qualities; He sings without cease and never reaches their end.
+
+## 122
+w: Sanaka and the others  the Bhāgavata  hear  from whose  mouth
+w: of Bhagavān  the qualities  He tells  He floats  in the joy of love
+tr: From His mouth Sanaka and the other Kumāras hear the *Bhāgavatam*, while He, awash in the joy of love, tells of the qualities of Bhagavān.
+
+## 123
+w: umbrella  sandals  bed  pillow  garments
+w: resting place  dwelling  sacred thread  throne
+tr: He becomes umbrella, sandals, bed, pillow, garments, resting place, dwelling, sacred thread and throne.
+
+## 124
+w: so many  forms  different  assuming  Kṛṣṇa’s service  He does
+w: of Kṛṣṇa’s  service  the utmost limit  reaching  Śeṣa  the name  He bears
+tr: Assuming all these different forms He serves Kṛṣṇa; and because He has reached the utmost limit of service to Kṛṣṇa, He bears the name Śeṣa.
+fn: *Amṛta-pravāha-bhāṣya*: *śeṣatā* — “the last, utmost limit of service”. *Anubhāṣya* cites the *Bhāgavatam* (10.2.8): “My abode called Śeṣa.”
+
+## 125
+w: that  very  Ananta  of whom  I call  one  kalā
+w: such  Lord  Nityānanda  who  knows  His  play
+tr: That Ananta I call but one kalā of Him. Such is Lord Nityānanda — who can know His play?
+
+## 126
+w: by all these  proofs  I know  of Nityānanda’s truth  the full extent
+w: Him  Ananta  I call  what  His  glory
+tr: By all these proofs I know the full truth of Nityānanda. If I call Him Ananta, what glory is that to Him?
+
+## 127
+w: or else  of the devotees  the words  accept  true  considering
+w: all  is possible  in Him  since  the source of avatāras
+tr: Or else, accepting the words of the devotees as true, I say: everything is possible in Him, for He is the source of the avatāras.
+
+## 128
+w: avatāra  the source of avatāras  non-different  who  knows
+w: before  as  Kṛṣṇa  someone  as someone  considering  accepted
+tr: One who knows that the avatāras and their source are non-different speaks in this way — just as in the past people saw in Kṛṣṇa this or that avatāra:
+fn: *Amṛta-pravāha-bhāṣya*: as Kṛṣṇa was once equated with Vāmana and others, so those who make no distinction call Nityānanda “Ananta”; since devotees have said so, it is not false: in the highest truth everything is possible.
+
+## 129
+w: someone  says  Kṛṣṇa  directly  Nara-Nārāyaṇa
+w: someone  says  Kṛṣṇa  is  directly  Vāmana
+tr: some said that Kṛṣṇa was Nara-Nārāyaṇa Himself, others that He was Vāmana Himself,
+
+## 130
+w: someone  says  Kṛṣṇa  of Kṣīrodaśāyī  an avatāra
+w: impossible  it is not  true  the words  of all
+tr: and still others that He was an avatāra of Kṣīrodaśāyī. None of this is impossible: the words of all are true.
+
+## 131
+w: Kṛṣṇa  when  descends  of all portions  the shelter
+w: all portions  coming  then  in Kṛṣṇa  unite
+tr: When Kṛṣṇa, the shelter of all portions, descends, all His portions come and unite in Him.
+
+## 132
+w: in whatever  whatever  form  knows  he  that  says
+w: all  is possible  in Kṛṣṇa  nothing  false  is
+tr: So each speaks of Him in the form in which he knows Him. Everything is possible in Kṛṣṇa; none of it is false.
+
+## 133
+w: therefore  Śrī Kṛṣṇa Caitanya  Gosāñi
+w: of all  avatāras  the pastimes  performing  to all  showed
+tr: Therefore Śrī Kṛṣṇa Caitanya Gosāñi performed the pastimes of all the avatāras and showed them to everyone.
+
+## 134
+w: in this way  Nityānanda’s  Ananta  manifestation
+w: in that mood  says  I  of Caitanya  servant
+tr: In this way Nityānanda is manifest as Ananta, and in that same mood He says, “I am Caitanya’s servant.”
+
+## 135
+w: sometimes  guru  sometimes  friend  sometimes  servant’s pastime
+w: before  as  in three moods  in Vraja  made  play
+tr: Sometimes He plays the guru, sometimes the friend, sometimes the servant — just as He once played in Vraja in these three moods.
+
+## 136
+w: a bull  becoming  with Kṛṣṇa  head to head  fight
+w: sometimes  Kṛṣṇa  makes  His  feet  massaging
+tr: Becoming a bull, He would fight with Kṛṣṇa head to head; and sometimes Kṛṣṇa would massage His feet.
+
+## 137
+w: Himself  a servant  considering  Kṛṣṇa  as Master  knows
+w: of Kṛṣṇa’s  kalā  a kalā  Himself  He considers
+tr: He thinks of Himself as a servant and knows Kṛṣṇa as His Master; He considers Himself but a kalā of Kṛṣṇa’s kalā.
+
+## 138
+w: behaving as bulls  bellowing
+w: they fought  with each other
+w: imitating  with cries  animals
+w: they roamed  ordinary (children)  like
+tr: “Pretending to be bulls, the two would bellow and fight with each other; imitating the cries of animals, They roamed about like ordinary children.” (Śrīmad-Bhāgavatam, 10.11.40)
+
+## 139
+w: sometimes  by play  wearied
+w: of a cowherd boy  the lap  as His pillow
+w: Himself  gives rest  to the elder
+w: of the feet  by massaging  and so on
+tr: “Sometimes, when His elder brother lay tired from play with His head on a cowherd boy’s lap, Kṛṣṇa Himself would give Him rest by massaging His feet and serving Him in other ways.” (Śrīmad-Bhāgavatam, 10.15.14)
+
+## 140
+w: who is she  or  from where  has come
+w: divine  or  human  or  demonic
+w: most likely  māyā  it must be  of My  Master
+w: no other  Me  even  bewilders
+tr: (Baladeva said in wonder:) “Who is she, and where has she come from? Is she divine, human or demonic? Most likely she is the māyā of My Master, for no other can bewilder even Me.” (Śrīmad-Bhāgavatam, 10.13.37)
+fn: The edition’s heading: “Baladeva’s wonder at the sight of Kṛṣṇa’s yogamāyā.” *Anubhāṣya*: when Brahmā had stolen the calves and the cowherd boys, Kṛṣṇa Himself became them and went on with His pastimes; one day Baladeva, seeing the unusual love of the cows, understood this and was amazed.
+
+## 141
+w: whose  feet  lotus  the dust  of all  the worlds  by the guardians
+w: on heads  best  borne  the worshipped  of holy places  the holy place
+w: Brahmā  Śiva  I  also  whose  parts  of a part
+w: Śrī  and  we bear  ever  His  royal throne  what
+tr: (Baladeva said:) “The guardians of all the worlds bear on their crowned heads the dust of His lotus feet, the holiest of holy places; and Brahmā, Śiva, Lakṣmī and I Myself, mere parts of His part, carry it on our heads forever. What then is a king’s throne to Him?” (Śrīmad-Bhāgavatam, 10.68.37)
+fn: *Anubhāṣya*: the Kauravas spoke insultingly of Kṛṣṇa and tried to win Baladeva to their side; angered, Baladeva answered them with these words. *Amṛta-pravāha-bhāṣya*: “Brahmā, Śiva, I, Baladeva, and Lakṣmī — some of us are His parts, some parts of His parts.”
+
+## 142
+w: alone  the Lord  Kṛṣṇa  the rest  all  servants
+w: whom  as  He makes dance  he  so  makes  dance
+tr: Kṛṣṇa alone is the Lord; all others are His servants. As He makes each one dance, so each one dances.
+
+## 143
+w: in this way  Caitanya Gosāñi  alone  the Lord
+w: the rest  all  associates  some  or  servants
+tr: In the same way Caitanya Gosāñi alone is the Lord; all the rest are His associates or His servants.
+
+## 144–145
+w: the elders  Nityānanda  Advaita  Ācārya
+w: Śrīvāsa and others  and  all  junior  equal  senior
+w: all  associates  all  of the pastimes  helpers
+w: all  taking  His own  work  accomplishes  Gaura-rāya
+tr: Nityānanda, Advaita Ācārya, Śrīvāsa and others play the part of His elders and gurus, and all the rest are His juniors, equals and seniors. All are His associates and helpers in His pastimes, and with them all Gaura-rāya accomplishes His purpose.
+
+## 146
+w: Advaita  Ācārya  Nityānanda  two  limbs
+w: the two  taking  of the Lord  all  whatever  pastimes
+tr: Advaita Ācārya and Nityānanda are His two limbs (*aṅga*); with these two the Lord performs all His pastimes.
+fn: *Anubhāṣya*: see Ādi 3.71 (Nityānanda and Advaita are the two *aṅgas* of Śrī Caitanya).
+
+## 147
+w: Advaita  Ācārya  Gosāñi  directly  the Lord
+w: the Lord  as guru  considering  honours  He  indeed  a servant
+tr: Advaita Ācārya Gosāñi is the Lord Himself. The Lord honours Him as a guru, yet He is His servant.
+fn: *Anubhāṣya*: Mahāprabhu honoured Advaita Ācārya as one of His elders, but Advaita regarded Himself as Śrī Caitanya’s servant. He was a contemporary and friend of Mahāprabhu’s father; Śrī Īśvara Purī and Śrī Advaita were both disciples of Śrī Mādhavendra Purī, and since Mahāprabhu accepted Īśvara Purī as His initiating guru, Advaita was a godbrother of His guru and worthy of respect.
+
+## 148
+w: of the Ācārya Gosāñi  the truth  not  can be  told
+w: Kṛṣṇa  making descend  who  delivered  the world
+tr: The truth of Ācārya Gosāñi cannot be told: it was He who brought Kṛṣṇa down and delivered the world.
+
+## 149
+w: Nityānanda-svarūpa  before  becoming  Lakṣmaṇa
+w: younger  brother  becoming  makes  Rāma’s  service
+tr: Nityānanda Svarūpa, appearing before as Lakṣmaṇa, served Rāma as His younger brother.
+fn: *Anubhāṣya*: among the *daṇḍī* sannyāsīs of the ten orders (*daśanāmī*), a brahmacārī receives one of four names — *svarūpa*, *ānanda*, *prakāśa* or *caitanya*. During His pilgrimage Nityānanda Prabhu stayed with a sannyāsī whose title was *tīrtha* or *āśrama*, and so His brahmacārī name was “Nityānanda-svarūpa”.
+
+## 150
+w: of Rāma  the deeds  all  of suffering  the cause
+w: independent  in pastime  suffering  endures  Lakṣmaṇa
+tr: Everything Rāma did brought Him suffering, and Lakṣmaṇa, of His own free will, bore that suffering with Him.
+
+## 151
+w: objection  to make  cannot  since  younger  brother
+w: silence  keeping  remains  Lakṣmaṇa  in the mind  sorrow  feeling
+tr: Being the younger brother, He could not object; so Lakṣmaṇa kept silent and grieved within.
+
+## 152
+w: in Kṛṣṇa’s  descent  the elder  He became  of service  for the sake
+w: to Kṛṣṇa  He gave  many  joys  to taste
+tr: In Kṛṣṇa’s descent He became the elder brother for the sake of service, and He gave Kṛṣṇa many joys to taste.
+
+## 153
+w: Rāma  Lakṣmaṇa  of Kṛṣṇa and Rāma  particular portions
+w: of descent  at the time  the two  into the two  entering
+tr: Rāma and Lakṣmaṇa are particular portions of Kṛṣṇa and Balarāma, and when Kṛṣṇa and Balarāma descend, Rāma and Lakṣmaṇa enter into Them.
+fn: *Anubhāṣya* (after the *Laghu-bhāgavatāmṛta*): Rāma, Lakṣmaṇa, Bharata and Śatrughna are avatāras of Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; the *Padma-purāṇa* calls Rāma Nārāyaṇa, and Lakṣmaṇa, Bharata and Śatrughna Śeṣa, the Disc and the Conch.
+
+## 154
+w: those  portions  taking  of elder  and younger  the sense
+w: part and whole  in the form  in the scriptures  is made  explanation
+tr: Together with those portions They take the roles of elder and younger brother, and the scriptures describe Them as the whole and His portion.
+
+## 155
+w: in Rāma  and others  forms  by kalās  in order  abiding
+w: many avatāras  made  in the worlds  but
+w: as Kṛṣṇa  Himself  appeared  the Supreme  Person  who
+w: Govinda  the original  Person  Him  I  worship
+tr: “I worship Govinda, the original Person, who, abiding through His kalās in Rāma and other forms, manifested many avatāras in the worlds, but who Himself, the Supreme Person, appeared as Kṛṣṇa.” (Brahma-saṁhitā, 5.39)
+fn: *Anubhāṣya*: *kalā-niyamena* — “as part and part of a part”; He abides in the forms of Rāma and others, manifesting them as avatāras for particular purposes (*naimittika*), but He Himself appeared as Kṛṣṇa.
+
+## 156
+w: Śrī Caitanya  that  Kṛṣṇa  Nityānanda  Rāma
+w: Nityānanda  fulfilment  makes  of Caitanya’s  desire
+tr: Śrī Caitanya is that Kṛṣṇa, and Nityānanda is Rāma. Nityānanda fulfils all of Caitanya’s desires.
+
+## 157
+w: of Nityānanda’s glory  the ocean  endless  shoreless
+w: one  drop  I touch  only  that  mercy  His
+tr: The ocean of Nityānanda’s glory is endless and shoreless. I touch but a single drop of it — and that only by His mercy.
+
+## 158
+w: one more  hear  His  of mercy  the greatness
+w: a fallen  soul  He raised  to the highest  limit
+tr: Hear one more glory of His mercy: He raised a fallen soul to the very highest.
+fn: The Gauḍīya Maṭha edition reads «অধম জীবেরে চড়াইল ঊর্দ্ধ্ব সীমা» (“He raised a fallen soul to the highest limit”), with the heading “The greatness of Nityānanda’s mercy shown by the author’s own story.” Other editions read «যৈছে চড়াইল» (“how He raised…”).
+
+## 159
+w: like the Vedas  secret  story  this  unfit  to tell
+w: still  I tell  His  mercy  to reveal
+tr: This story is as secret as the Vedas and not fit to be told; still I tell it to reveal His mercy.
+
+## 160
+w: in overflowing joy  I write  of Your  grace
+w: Nityānanda  Prabhu  my  forgive  offence
+tr: In overflowing joy I write of Your grace. O Nityānanda Prabhu, forgive my offence!
+
+## 161
+w: of the Avadhūta  Gosāñi  one  servant  abode of love
+w: Mīnaketana  Rāmadāsa  is  his  name
+tr: Avadhūta Gosāñi had a servant who was an abode of love; his name was Mīnaketana Rāmadāsa.
+fn: *Anubhāṣya*: *avadhūta* — Śrīdhara Svāmī (on *Bhāgavatam*, 3.1.19) explains the word as “one whose body bears no mark of ritual purification”: Nityānanda, eternally perfect and beyond varṇāśrama, bore none of its signs and was absorbed in the mood of Vraja. On Mīnaketana Rāmadāsa see Ādi 11.53.
+
+## 162
+w: in my  house  day and night  saṅkīrtana
+w: there  came  he  receiving  an invitation
+tr: In my house there was saṅkīrtana day and night, and he came there by invitation.
+
+## 163
+w: with great  love  filled  he  sat  in the courtyard
+w: all  Vaiṣṇavas  his  bowed down  at the feet
+tr: Full of great love, he sat down in the courtyard, and all the Vaiṣṇavas bowed at his feet.
+
+## 164
+w: as they bowed  on whom  upon  he climbs
+w: in love  whom  with the flute  he strikes  whom  he slaps
+tr: As they bowed, he would climb on the back of one, and in his love strike another with his flute or slap yet another.
+
+## 165
+w: which  eyes  on seeing  tears  come  in the mind  of whom
+w: from those  eyes  unbroken  flows  of tears  a stream
+tr: From those eyes, the very sight of which brings tears to one’s heart, flowed an unbroken stream of tears.
+
+## 166
+w: sometimes  on some  limb  I see  hairs on end  like kadamba
+w: on one  limb  stiffness  his  on another  limb  trembling
+tr: At times I saw the hair on some limb stand on end like kadamba blossoms; one limb would stiffen while another trembled.
+
+## 167
+w: Nityānanda  saying  when  makes  a loud cry
+w: that  seeing  of the people  is  great  wonder
+tr: When he roared out “Nityānanda!”, all who saw it were filled with wonder.
+
+## 168
+w: Guṇārṇava  Miśra  by name  a  brāhmaṇa  respectable
+w: the Deity  near  he  does  of service  the work
+tr: A respectable brāhmaṇa named Guṇārṇava Miśra was serving the Deity there.
+
+## 169
+w: in the courtyard  sitting (to him)  he  not  made  greeting
+w: that  seeing  angry  becoming  says  Rāmadāsa
+tr: Rāmadāsa sat in the courtyard, but the brāhmaṇa did not greet him; seeing this, Mīnaketana said angrily:
+fn: As in the Gauḍīya Maṭha edition: «বসিয়া» (“sitting”; another reading: «আসিয়া», “having come”). *Amṛta-pravāha-bhāṣya*: Guṇārṇava Miśra, the servant of the Deity, did not greet Nityānanda’s servant who was sitting in the courtyard.
+
+## 170
+w: this  indeed  a second  Sūta  Romaharṣaṇa
+w: Baladeva  seeing  who  not  made  rising to greet
+tr: “Here is a second Romaharṣaṇa Sūta, who did not rise to greet Baladeva when he saw Him!”
+fn: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya* (*Bhāgavatam* 10.78.22–28): in Naimiṣāraṇya Romaharṣaṇa, a disciple of Vyāsa, did not rise to greet Baladeva and was slain by Him; Guṇārṇava Miśra, who had no special regard for Nityānanda, acted just as improperly. The devotees do not blame Mīnaketana for this anger.
+
+## 171
+w: so  saying  he dances  sings  makes  rejoicing
+w: Kṛṣṇa’s work  does  the brāhmaṇa  not  showed  anger
+tr: Having said this, he danced and sang and rejoiced; but the brāhmaṇa went on with his service to Kṛṣṇa and showed no anger.
+
+## 172
+w: at the festival’s end  went  he  having given  blessings
+w: my  brother  with  his  some  arose  dispute
+tr: At the end of the festival he was leaving, having given his blessings, when a dispute arose between him and my brother.
+
+## 173
+w: in Caitanya Prabhu  his  firm  faith
+w: towards Nityānanda  his  of faith  a semblance
+tr: My brother had firm faith in Caitanya Prabhu, but towards Nityānanda only a semblance of faith.
+
+## 174
+w: this  knowing  Rāmadāsa’s  sorrow  was  in the mind
+w: then  indeed  the brother  I  made  rebuke
+tr: Knowing this, Rāmadāsa was grieved at heart, and so I rebuked my brother:
+
+## 175
+w: two  brothers  one body  equal manifestation
+w: Nityānanda  not  you accept  your  will be  total  ruin
+tr: “The two brothers are one body, equally manifest. If you do not accept Nityānanda, you will be utterly ruined.
+
+## 176
+w: in one  faith  to the other  not  you give  respect
+w: of half a hen  the logic  your  standard
+tr: You have faith in one but show the other no respect: your standard is the logic of half a hen.
+
+## 177
+w: or else  both  not  accepting  be  then  an atheist
+w: one  accepting  the other  not  accepting  this kind of  hypocrite
+tr: If you accept neither, you are an atheist; and to accept one and not the other is hypocrisy.”
+fn: *Amṛta-pravāha-bhāṣya*: “the logic of half a hen” is to take one half of a hen as old and the other as young; so too, by accepting one of the undivided Caitanya and Nityānanda and rejecting the other, you show both unbelief and hypocrisy.
+
+## 178
+w: angry  becoming  the flute  breaking  goes away  Rāmadāsa
+w: at that moment  my  brother’s  came about  total  ruin
+tr: In anger Rāmadāsa broke his flute and went away, and at that very moment my brother was ruined.
+
+## 179
+w: thus  indeed  I have told  His  servant’s  power
+w: one more  I tell  His  mercy’s  nature
+tr: Thus I have told of the power of His servant. Now I tell of something more — the nature of His mercy.
+
+## 180
+w: the brother  I rebuked  I  taking  this  as a virtue
+w: that  night  the Lord  to me  gave  sight
+tr: Because I had rebuked my brother — and He counted this as a virtue — that night the Lord appeared to me.
+
+## 181
+w: Naihāṭi  near  Jhāmaṭapura  named  a village
+w: there  in a dream  showed Himself  Nityānanda-Rāma
+tr: In a village called Jhāmaṭapura, near Naihāṭi, Nityānanda-Rāma appeared to me in a dream.
+fn: *Amṛta-pravāha-bhāṣya*: Jhāmaṭapura is a village near Naihāṭi, two krośas north of Kāṭoyā; Kavirāja Gosvāmī lived there, and a Deity of Mahāprabhu is now worshipped there.
+
+## 182
+w: like a rod  becoming  I  fell  at the feet
+w: His own  lotus foot  the Lord  placed  my  on the head
+tr: I fell flat like a rod at His feet, and the Lord placed His lotus foot upon my head.
+
+## 183
+w: rise  rise  saying  to me  He says  again  again
+w: rising  His  form  seeing  I became  astonished
+tr: Again and again He said to me, “Rise, rise!” I rose, and seeing His form I was struck with wonder.
+
+## 184
+w: dark  glossy  lustre  huge  body
+w: very  Kandarpa  like  a great wrestler  hero
+tr: His huge body had a glossy dark lustre. He was as beautiful as Kandarpa, the god of love, in person, and had the bearing of a great champion wrestler.
+
+## 185
+w: shapely  hands  feet  lotus  eyes
+w: silk  cloth  on the head  silk  cloth  garment
+tr: His hands and feet were finely shaped, His eyes like lotuses; He wore silk on His head and silk as His garment.
+
+## 186
+w: golden  earrings  in the ears  golden armlets  bracelets
+w: on the feet  ankle-bells  ring  on the neck  a flower garland
+tr: Golden earrings hung in His ears, golden armlets and bracelets adorned His arms; ankle-bells rang on His feet, and a garland of flowers lay on His neck.
+
+## 187
+w: with sandal  anointed  the body  tilaka  graceful
+w: a mad  elephant  surpassing  with intoxication  slow  gait
+tr: His body was anointed with sandal and graced with a lovely tilaka; His slow, intoxicated gait surpassed that of a maddened elephant.
+
+## 188
+w: millions of moons  surpassing  face  bright  in colour
+w: of pomegranate  seeds  like  in the teeth  betel  chewing
+tr: His bright face outshone millions of moons; as He chewed betel, His teeth looked like pomegranate seeds.
+fn: As in the Gauḍīya Maṭha edition: «দন্তে» (“in the teeth”; another reading: «দন্ত»).
+
+## 189
+w: with love  intoxicated  body  to the right  to the left  sways
+w: Kṛṣṇa  Kṛṣṇa  saying  deep  words  speaks
+tr: Intoxicated with love, His body swayed to right and left, and in a deep voice He called, “Kṛṣṇa! Kṛṣṇa!”
+
+## 190
+w: red  staff  in the hand  sways  like  a mad  lion
+w: four  sides  surrounding  are  at the feet  bees
+tr: With a red staff in His hand He swayed like a maddened lion, and bees hovered all around His feet.
+
+## 191
+w: the associates  I see  all  in cowherd  dress
+w: Kṛṣṇa  Kṛṣṇa  say  all  with love  in rapture
+tr: I saw His associates, all dressed as cowherds, all calling “Kṛṣṇa! Kṛṣṇa!” in loving rapture.
+
+## 192
+w: horns  flutes  plays  someone  someone  dances  sings
+w: a servant  offers  betel  a cāmara  waves
+tr: Some played horns and flutes, some danced and sang; one servant offered betel, another waved a cāmara.
+
+## 193
+w: of Nityānanda-svarūpa  seeing  the splendour
+w: what  form  qualities  pastimes  unearthly  all
+tr: I beheld the splendour of Nityānanda Svarūpa — what form, what qualities, what pastimes, all beyond this world!
+
+## 194
+w: with bliss  overwhelmed  I  anything  not  know
+w: then  smiling  the Lord  to me  spoke  words
+tr: Overwhelmed with bliss, I knew nothing at all. Then, smiling, the Lord spoke to me:
+
+## 195
+w: O  O  Kṛṣṇadāsa  not  make  fear
+w: to Vṛndāvana  go  there  all  attainable  is
+tr: “O Kṛṣṇadāsa, Kṛṣṇadāsa, do not be afraid! Go to Vṛndāvana: there everything can be attained.”
+
+## 196
+w: so  saying  He sent  me  a touch of the hand  giving
+w: disappearance  made  the Lord  His own  associates  taking
+tr: Saying this, He touched me with His hand and sent me forth; and the Lord disappeared with His associates.
+fn: *Amṛta-pravāha-bhāṣya*: *hātasāna* — “a touch of the hand”.
+
+## 197
+w: unconscious  becoming  I  fell  on the ground
+w: of the dream  breaking  came  I see  it has become  morning
+tr: I fell senseless to the ground; my dream broke, and I saw that morning had come.
+
+## 198
+w: what  I saw  what  I heard  I make  reflection
+w: the Lord’s  order  was  to Vṛndāvana  to go
+tr: I reflected on what I had seen and heard: the Lord had ordered me to go to Vṛndāvana.
+
+## 199
+w: at that  moment  to Vṛndāvana  I made  departure
+w: the Lord’s  by mercy  happily  I came  to Vṛndāvana
+tr: At that very moment I set out, and by the Lord’s mercy I reached Vṛndāvana in happiness.
+
+## 200
+w: glory  glory  Nityānanda  Nityānanda-Rāma
+w: whose  by mercy  I attained  the abode of Vṛndāvana
+tr: Glory, glory to Nityānanda, to Nityānanda-Rāma, by whose mercy I attained the abode of Vṛndāvana!
+
+## 201
+w: glory  glory  Nityānanda  glory  full of mercy
+w: from whom  I attained  Rūpa  Sanātana  the shelter
+tr: Glory, glory to Nityānanda! Glory to Him who is full of mercy, through whom I attained the shelter of Rūpa and Sanātana!
+
+## 202
+w: from whom  I attained  Raghunātha  the great soul
+w: from whom  I attained  Śrī Svarūpa’s  shelter
+tr: Through Him I attained the great soul Raghunātha; through Him I attained the shelter of Śrī Svarūpa.
+
+## 203
+w: by Sanātana’s  mercy  I attained  of bhakti  the conclusions
+w: by Śrī Rūpa’s  mercy  I attained  of bhakti-rasa  the nearness
+tr: By Sanātana’s mercy I came to know the conclusions of bhakti; by Śrī Rūpa’s mercy I came near to bhakti-rasa.
+fn: *Amṛta-pravāha-bhāṣya*: *bhakti-rasa-prānta* — “only nearness to bhakti-rasa”. *Anubhāṣya*: Śrī Sanātana is the ācārya of the conclusions of bhakti, Śrī Rūpa the ācārya of bhakti-rasa (cf. Antya 4).
+
+## 204
+w: glory  glory  of Nityānanda  to the lotus feet
+w: from which  I attained  Śrī Rādhā-Govinda
+tr: Glory, glory to the lotus feet of Nityānanda, through which I attained Śrī Rādhā-Govinda!
+
+## 205
+w: Jagāi  Mādhāi  than  I  am  more sinful
+w: of excrement  the worm  than  I  am  lower
+tr: I am more sinful than Jagāi and Mādhāi, lower than a worm in excrement.
+
+## 206
+w: my  name  hears  whoever  his  piety  is destroyed
+w: my  name  takes  whoever  his  sin  there is
+tr: Whoever hears my name loses his piety; whoever utters my name commits sin.
+
+## 207
+w: such  despicable  me  who  mercy  shows
+w: one  Nityānanda  except  of the world  within
+tr: Who in all the world but Nityānanda alone would show mercy to one as despicable as I?
+
+## 208
+w: with love  intoxicated  Nityānanda  of mercy  the avatāra
+w: high  low  any  not  makes  distinction
+tr: Intoxicated with love, Nityānanda is the avatāra of mercy; He makes no distinction between the high and the low.
+
+## 209
+w: who  before (Him)  falls  him  He makes  deliverance
+w: therefore  He delivered  like me  a sinner
+tr: He delivers whoever falls before Him; and so He delivered even a sinner like me.
+
+## 210
+w: me most sinful  He brought  to Śrī Vṛndāvana
+w: like me  to the lowly  He gave  Śrī Rūpa’s  feet
+tr: He brought me, the most sinful, to Śrī Vṛndāvana, and to one as low as I He gave the feet of Śrī Rūpa.
+
+## 211
+w: Śrī Madana-Gopāla’s  Śrī Govinda’s  sight
+w: to tell  fit  is not  all this  account
+tr: The sight of Śrī Madana-Gopāla and Śrī Govinda — all this is not fit to be told.
+
+## 212
+w: of Vṛndāvana  the lord  Śrī Madana-Gopāla
+w: the enjoyer of the rāsa  directly  of the king of Vraja  the son
+tr: Śrī Madana-Gopāla is the lord of Vṛndāvana, the enjoyer of the rāsa dance, the son of the king of Vraja Himself.
+
+## 213
+w: with Śrī Rādhā  Lalitā  together  the rāsa  pastime
+w: of Cupid  the enchanter  in the form  whose  manifestation
+tr: With Śrī Rādhā and Lalitā He dances the rāsa, appearing in a form that enchants even Cupid.
+
+## 214
+w: among them  appeared  Śauri
+w: smiling  lotus-faced
+w: yellow garments  wearing  garlanded
+w: directly  of Cupid  the enchanter
+tr: “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)
+
+## 215
+w: by His own  sweetness  of people  the minds  makes  attraction
+w: on both  sides  Rādhā  Lalitā  render  service
+tr: By His own sweetness He draws the minds of all, and on either side Rādhā and Lalitā serve Him.
+
+## 216
+w: Nityānanda’s  mercy  to me  Him  showed
+w: Śrī Rādhā-Madanamohana  as Lord  making  gave
+tr: Nityānanda’s mercy showed Him to me and gave me Śrī Rādhā and Madanamohana as my Lady and Lord.
+
+## 217
+w: to me  the lowly  gave  of Śrī Govinda  the sight
+w: to tell  a matter  is not  the indescribable  telling
+tr: To me, so lowly, He gave the sight of Śrī Govinda. It is not a thing to be told; it is beyond all telling.
+
+## 218–219
+w: in Vṛndāvana  at Yogapīṭha  of wish-fulfilling trees  in the grove
+w: a jewelled  pavilion  there  on a jewelled  throne
+w: Śrī Govinda  is seated  of the king of Vraja  the son
+w: sweetness  manifesting  makes  of the world  enchantment
+tr: In Vṛndāvana, at Yogapīṭha, in a grove of wish-fulfilling trees, there is a pavilion of jewels, and there on a jewelled throne sits Śrī Govinda, the son of the king of Vraja. Revealing His sweetness, He enchants the whole world.
+
+## 220
+w: on the left side  Śrī Rādhikā  with Her friends  together
+w: the rāsa  and other  pastimes  the Lord  makes  with how many  joys
+tr: On His left is Śrī Rādhikā with Her friends, and with them the Lord delights in the rāsa and so many other pastimes.
+
+## 221
+w: on whom  meditation  in his own  world  makes  the lotus-seated
+w: with the eighteen-syllable  mantra  makes  worship
+tr: In his own world Brahmā, who sits on the lotus, meditates on Him and worships Him with the eighteen-syllable mantra.
+fn: *Anubhāṣya*: Brahmā, seated on the lotus, together with the inhabitants of Brahmaloka meditates on Govinda, the Deity worshipped with the eighteen-syllable mantra, on whom the dwellers of all fourteen worlds meditate.
+
+## 222
+w: in the fourteen  worlds  on whom  all  make  meditation
+w: in Vaikuṇṭha and other  abodes  whose  pastimes  qualities  singing
+tr: All the fourteen worlds meditate on Him, and in Vaikuṇṭha and the other abodes they sing of His pastimes and qualities.
+
+## 223
+w: whose  by the sweetness  makes  Lakṣmī  attraction
+w: Rūpa  Gosāñi  has made  of that form  description
+tr: His sweetness attracts even Lakṣmī. Rūpa Gosāñi has described that form:
+
+## 224
+w: smiling  by three bends  marked  sidelong  wide  glance
+w: on the flute  placed  lips  tender as shoots  radiant  with a peacock feather
+w: Govinda  named  Hari’s  form  here  Keśī-tīrtha  near
+w: do not  look  of you  if  O friend  for relatives’ company  there is  fondness
+tr: “O friend, if you still care for the company of your relatives, do not look at that form of Hari called Govinda, standing here by Keśī-tīrtha: He smiles, His body bends in three places, His wide glance falls sidelong, His lips, tender as new shoots, rest upon the flute, and a peacock feather makes Him radiant.” (Bhakti-rasāmṛta-sindhu, 1.2.239)
+fn: *Anubhāṣya*: in the guise of a prohibition the verse says that this form, the abode of supreme beauty, must certainly be seen: once its sweetness is tasted, all else seems worthless. *Amṛta-pravāha-bhāṣya*: having seen Śrī Govinda, one loses the taste for everything else.
+
+## 225
+w: directly  of the king of Vraja  the son  in this  there is no  other
+w: whoever  the fool  makes  of Him  like an image  the notion
+tr: He is the son of the king of Vraja Himself — of this there is no doubt. The fool who thinks of Him as a mere image
+fn: The edition’s heading: “To see the transcendental Deity as earthly stone, wood or metal is a great offence.” *Anubhāṣya* cites the *Bhakti-sandarbha* (286): true worshippers see the Deity as the Supreme Lord Himself, for the idea of a difference destroys bhakti; and the *Padma-purāṇa*: one who sees stone in the Deity of Viṣṇu is called bound for hell.
+
+## 226
+w: for that  offence  his  there is no  deliverance
+w: terrible  into hell  falls  what  shall I say  more
+tr: has no deliverance for that offence; he falls into a terrible hell. What more can I say?
+
+## 227
+w: such  that  Govinda  the Lord  I attained  from whom
+w: His  feet’s  mercy  who  can  describe
+tr: Through Him I attained such a Lord as Govinda — who can describe the mercy of His feet?
+
+## 228
+w: in Vṛndāvana  dwell  all  Vaiṣṇava  circles
+w: to Kṛṣṇa’s name  devoted  supremely  auspicious
+tr: All the circles of Vaiṣṇavas who dwell in Vṛndāvana are devoted to the name of Kṛṣṇa and are supremely auspicious.
+
+## 229
+w: whose  of life  the treasure  Nityānanda-Śrī Caitanya
+w: to Rādhā-Kṛṣṇa  devotion  except  not  know  anything else
+tr: Nityānanda and Śrī Caitanya are the treasure of their lives; they know nothing but devotion to Rādhā and Kṛṣṇa.
+
+## 230
+w: of those  Vaiṣṇavas  the dust of the feet  their  feet’s shade
+w: to the lowly one  gave  of Lord Nityānanda  the mercy
+tr: The dust of those Vaiṣṇavas’ feet and the shelter of their shade — this the mercy of Lord Nityānanda gave to me, the lowly one.
+
+## 231
+w: there  all  attainable  is  the Lord’s  words
+w: that  the sūtra  this  of it  I have made  the explanation
+tr: “There everything can be attained” — these words of the Lord are the sūtra, and this is my explanation of it.
+fn: *Anubhāṣya*: Nitāi’s merciful command (5.195) is the main sūtra by which the *Caritāmṛta* was written in Vṛndāvana, the land of the Vaiṣṇavas.
+
+## 232
+w: that  all  attained  I  to Vṛndāvana  coming
+w: that  all  attained  by this  Lord’s  mercy
+tr: All this I attained when I came to Vṛndāvana, and all of it I attained by the mercy of this Lord.
+
+## 233
+w: my own  story  I write  shameless  becoming
+w: Nityānanda’s qualities  make me write  mad  making
+tr: Shamelessly I write my own story: Nityānanda’s qualities have made me mad and make me write.
+
+## 234
+w: of Nityānanda Prabhu’s  of qualities  the glory  boundless
+w: with a thousand mouths  Śeṣa (the end)  not  finds  of which
+tr: The glory of Nityānanda Prabhu’s qualities is boundless: even Śeṣa with His thousand mouths cannot reach its end.
+
+## 235
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

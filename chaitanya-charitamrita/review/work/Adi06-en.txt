@@ -1,0 +1,653 @@
+# English translation, Ādi-līlā 6 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: Determining the Truth of Śrī Advaita
+
+## 1
+w: I bow  to Him  Śrī Advaita-
+w: Ācārya  wondrous  (whose) deeds
+w: by whose  grace  an ignorant one  even
+w: His  true nature  may describe
+tr: I bow to Śrī Advaita Ācārya, whose deeds are wondrous. By His grace even an ignorant person may describe His true nature.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: in five  verses  I have told  of Śrī Nityānanda  the truth
+w: in two verses  I tell  of Advaita Ācārya  the greatness
+tr: In five verses I have set out the truth of Śrī Nityānanda; now in two I speak of the greatness of Advaita Ācārya.
+
+## 4
+w: Mahā-Viṣṇu  of the world  the maker
+w: by māyā  who  creates  this (world)
+w: His  avatāra  indeed  this
+w: Advaita Ācārya  the Lord
+tr: Mahā-Viṣṇu is the maker of the world, who creates it through māyā; and this Lord Advaita Ācārya is His avatāra.
+fn: The same verse as Ādi 1.12. The edition ascribes verses 6.4–6.5 to the diary of Svarūpa Dāmodara («শ্রীস্বরূপগোস্বামি-কড়চায় শ্লোক»; heading: “explanation of the twelfth and thirteenth of the first fourteen verses of the Ādi”). *Anubhāṣya*: Mahā-Viṣṇu, the maker of the world, is the shelter of the efficient cause (*nimitta*), and His avatāra, the Lord Advaita Ācārya, is the shelter of the material cause (*upādāna*).
+
+## 5
+w: Advaita  from Hari  being non-different
+w: Ācārya  bhakti  from teaching
+w: as a devotee descended  the Lord  Him
+w: Advaita Ācārya  I take shelter of
+tr: He is called Advaita because He is non-different from Hari, and Ācārya because He teaches bhakti. I take shelter of Him, the Lord Advaita Ācārya, who has descended as a devotee.
+fn: The same verse as Ādi 1.13. *Anubhāṣya*: He is Advaita because He is non-different from Hari, from the Viṣṇu-tattva; He is Ācārya because He instructs others in bhajana.
+
+## 6
+w: Advaita  Ācārya  Gosāñi  Himself  the Lord
+w: whose  greatness  not  of the jīva  within the range
+tr: Advaita Ācārya Gosāñi is the Lord Himself; His greatness lies beyond the reach of the jīva.
+
+## 7
+w: Mahā-Viṣṇu  creation  performs  of the world  and other  works
+w: His  avatāra  direct  Advaita  Ācārya
+tr: Mahā-Viṣṇu carries out the creation of the world and all that goes with it, and Advaita Ācārya is His direct avatāra.
+
+## 8
+w: which  Puruṣa  creation and maintenance  performs  through māyā
+w: endless  universes  creation  performs  in play
+tr: That Puruṣa creates and maintains the world through māyā, and in play He brings forth endless universes.
+
+## 9
+w: by His will  endless  forms  He makes  manifest
+w: in one  one  form (each)  He makes  into a universe  entrance
+tr: By His will He manifests endless forms, and in one of them He enters each universe.
+
+## 10
+w: of that  Puruṣa  a part  Advaita  there is not  any  difference
+w: a particular body  His  there is no  separation
+tr: Advaita is a part (*aṁśa*) of that Puruṣa, and there is no difference between Them at all: He is a particular body of the Puruṣa, and the two are never apart.
+fn: *Amṛta-pravāha-bhāṣya*: one and the same māyā is called *pradhāna* as the material cause and *māyā* as the efficient cause. According to these two functions Mahā-Viṣṇu abides in two forms: in one, abiding in prakṛti, He is the efficient cause of the world — the form of Viṣṇu; in the other, abiding in pradhāna, He is Advaita in the form of Rudra. Therefore Advaita is in no way different from the Puruṣa; only Their bodies differ.
+
+## 11
+w: help  He gives  to Him  taking  pradhāna
+w: millions  of universes  He makes  by His will  the fashioning
+tr: Taking pradhāna, the material basis of the world, Advaita assists the Puruṣa, and by His will He fashions millions of universes.
+fn: The edition’s heading: “The Deity who presides over pradhāna, the material cause of the world.”
+
+## 12
+w: of the world  the good  Advaita  of auspicious  qualities  the abode
+w: auspicious  conduct  always  ‘Maṅgala’  whose  name
+tr: Advaita is the good of the whole world and the abode of all auspicious qualities. His conduct is ever auspicious, and His name is Maṅgala, “the Auspicious”.
+fn: *Anubhāṣya*: Śrī Advaita is Mahā-Viṣṇu, and He is the Ācārya; His life, turned towards service, brings good to all; He is no material being and no shelter of the material guṇas. There were people of demoniac nature, bewildered by māyā and devoid of bhakti, who could not understand Him as the non-dual Viṣṇu and, clinging to the doctrine of bare non-duality (*kevalādvaita*), only pretended to follow Him; by His māyā the Ācārya let them feed their pride — and even this punishment of the faithless is nothing but auspicious conduct. Some say that Śrī Advaita’s other name was Maṅgala.
+
+## 13
+w: millions  of parts  millions  of potencies  millions  of avatāras
+w: so many  taking  creates  the Puruṣa  the whole  world
+tr: Taking millions of parts, millions of potencies and millions of avatāras, the Puruṣa creates the whole world.
+
+## 14
+w: māyā  as  two  aspects  efficient  material
+w: māyā  the efficient  cause  the material  pradhāna
+tr: Māyā has two aspects, the efficient cause (*nimitta*) and the material cause (*upādāna*): as the efficient cause it is called māyā, and as the material cause, pradhāna.
+
+## 15
+w: the Puruṣa  the Lord  likewise  two forms  becoming
+w: of the universe  creation  performs  the efficient  the material  taking
+tr: In the same way the Lord, the Puruṣa, assumes two forms and creates the universe with these two causes, the efficient and the material.
+
+## 16
+w: Himself  the Puruṣa  of the world  the efficient  cause
+w: of Advaita  in the form  the material cause  becomes  Nārāyaṇa
+tr: The Puruṣa Himself is the efficient cause of the world, and in the form of Advaita, Nārāyaṇa becomes its material cause.
+
+## 17
+w: in the efficient aspect  performs  He  upon māyā  the glance
+w: as the material cause  Advaita  performs  of the universe  the creation
+tr: As the efficient cause He casts His glance upon māyā; as the material cause, Advaita creates the universe.
+
+## 18
+w: although  Sāṅkhya  holds  pradhāna  the cause
+w: from inert matter  never  is  of the world  the creation
+tr: Although Sāṅkhya holds pradhāna to be the cause, the world can never come into being from inert matter.
+fn: *Anubhāṣya* (on 6.15) examines the Sāṅkhya doctrine at length and, following the *Vedānta-sūtra* (2.2.1–10) and Baladeva Vidyābhūṣaṇa’s *Govinda-bhāṣya*, shows that inert pradhāna can be neither the material nor the efficient cause of the world, for a varied creation is impossible without a conscious principle. It adds that the Kapila who founded the Sāṅkhya opposed to the Vedas is not Lord Kapila, the son of Kardama and avatāra of Vāsudeva, but another — a jīva of the line of Agni, bewildered by māyā. On 6.18–6.19 the *Anubhāṣya* refers to Ādi 5.58–5.66 and Madhya 20.259–261, 271, 276.
+
+## 19
+w: His own  creative power  the Lord  infuses  into pradhāna
+w: of the Lord  by the power  then  takes place  indeed  the fashioning
+tr: The Lord infuses His own creative power into pradhāna, and by that power the world is fashioned.
+
+## 20
+w: Advaita  Ācārya  of millions of universes  the creator
+w: and  in one  one  form (each)  of the universe  the sustainer
+tr: Advaita Ācārya creates millions of universes, and in each of them He dwells in one of His forms as its sustainer.
+fn: The edition’s heading: “The two forms of Advaita Prabhu.” The form in which the Puruṣa enters each universe (6.9) is Garbhodakaśāyī Viṣṇu.
+
+## 21
+w: of that  Nārāyaṇa  the principal  limb  Advaita
+w: ‘aṅga’  by the word  part  meaning  says  the Bhāgavata
+tr: Advaita is the principal limb (*aṅga*) of Śrī Nārāyaṇa; and in the *Bhāgavatam* the word ‘aṅga’ means ‘aṁśa’, a partial manifestation.
+fn: The *Anubhāṣya* refers to Ādi 3.67 (“‘aṅga’ means ‘aṁśa’”).
+
+## 22
+w: Nārāyaṇa  You  not  indeed  of all  the embodied
+w: the Self  You are  O Lord  of all  worlds  the witness
+w: Nārāyaṇa  (Your) limb  from Nara  born  waters  abode
+w: that  also  true  not  Your  indeed  māyā
+tr: “Are You not Nārāyaṇa? For You are the Self of all embodied beings, O Lord, and the witness of all the worlds. Nārāyaṇa is Your portion — so called because His abode is the waters born of Nara; and that too is true, not Your māyā.” (Śrīmad-Bhāgavatam, 10.14.14)
+fn: The same verse as Ādi 2.30 and 3.68 (*Amṛta-pravāha-bhāṣya*: “see Ādi 2.30”, where the *Anubhāṣya* explains the three meanings of the name Nārāyaṇa). Here the author cites it for the word *aṅgam*, “part”: Nārāyaṇa is Your *aṅga*, that is, Your *aṁśa* (6.21).
+
+## 23
+w: of the Lord  the aṅga  the aṁśa  full of consciousness and bliss
+w: with māyā  connection  there is not  this  verse  says
+tr: This verse says that the Lord’s aṅga, His aṁśa, is full of consciousness and bliss and has no connection with māyā.
+fn: The edition’s heading: “Whether aṅga or aṁśa, beyond māyā.” The *Anubhāṣya* refers to Ādi 3.69–3.70.
+
+## 24
+w: ‘aṁśa’  not  saying  why  do you call  Him  ‘aṅga’
+w: than ‘aṁśa’  ‘aṅga’  because  is  more intimate
+tr: Why call Him ‘aṅga’ and not ‘aṁśa’? Because ‘aṅga’, a limb, is closer and more intimate than ‘aṁśa’, a part.
+
+## 25
+w: of Mahā-Viṣṇu  a part  Advaita  of qualities  the abode
+w: from the Lord  non-different  therefore  ‘Advaita’  full  name
+tr: Advaita, the abode of all good qualities, is a part of Mahā-Viṣṇu. He is non-different from the Lord, and so the name Advaita, “Non-dual”, fits Him in full.
+fn: The edition’s heading: “The meaning of the name ‘Advaita’.” *Pūrṇa nāma* — “a full name”, a name true in every respect.
+
+## 26
+w: before  as  He performed  of the whole  universe  the creation
+w: having descended  He performed  now  of bhakti  the establishment
+tr: As once He created the whole universe, so now, having descended, He has established bhakti.
+
+## 27
+w: the jīvas  He delivered  devotion to Kṛṣṇa  making  a gift
+w: in the Gītā and Bhāgavata  He gave  of bhakti  the explanation
+tr: He delivered the jīvas by giving them devotion to Kṛṣṇa, and He explained the *Gītā* and the *Bhāgavatam* in the light of bhakti.
+
+## 28
+w: bhakti  teaching  except  His  there is no  work
+w: therefore  name  became  ‘Advaita Ācārya’
+tr: He has no work but teaching bhakti; therefore His name became Advaita Ācārya.
+fn: *Anubhāṣya* (on 6.26–6.28): although Advaita Prabhu is Viṣṇu-tattva, the One who is served, He has no work but the good of the souls — awakening in them the desire to serve. Had He shown His pastimes only as the One who is served, the pleasure-seeking people of the world would have imitated Him and become godless adherents of bare non-duality, or worshippers of themselves as God; seeing this, He displayed the pastime of a servant of Viṣṇu, and that is His being the Ācārya. As for the wicked who defile the holy place and dress of the Ācārya and, instead of serving the Lord, dance the dance of sense-pleasure, the Ācārya utterly rejects them.
+
+## 29
+w: of the Vaiṣṇavas  the guru  He  of the world  the venerable
+w: two names  by joining  became  ‘Advaita Ācārya’
+tr: He is the guru of the Vaiṣṇavas, honoured by the whole world. Joined together, these two names became Advaita Ācārya.
+
+## 30
+w: of the Lotus-eyed  He  because  ‘aṅga’  ‘aṁśa’
+w: ‘Kamalākṣa’  calling  He bears  the name  as a crown-jewel
+tr: Because He is the limb and the part of the Lotus-eyed Lord, He bears the beautiful name Kamalākṣa, “Lotus-eyed”.
+fn: The edition’s heading: “The meaning of the name ‘Kamalākṣa’.” *Avataṁsa* — “a crown, an ornament”: Kamalākṣa is the loveliest of names.
+
+## 31
+w: with the Lord  sameness of form  attain  the associates
+w: four-armed  yellow-clad  just as  Nārāyaṇa
+tr: The Lord’s associates attain a form like His (*sārūpya*): like Nārāyaṇa, they are four-armed and clad in yellow.
+
+## 32
+w: Advaita  Ācārya  of the Lord  part  the foremost
+w: His  truth  name  qualities  all  wondrous
+tr: Advaita Ācārya is the foremost part of the Lord; His truth, His name and His qualities are all wondrous.
+
+## 33
+w: by whose  tulasī  leaves  by whose  roar
+w: His associates  together with  Caitanya’s  descent
+tr: It was His offering of tulasī leaves and His roar that brought Caitanya into the world together with His associates.
+fn: As in the Gauḍīya Maṭha edition: «তুলসীদলে» (“with tulasī leaves”; another reading: «তুলসীজলে», “with tulasī and water”). The edition’s heading: “Advaita Prabhu calls Mahāprabhu down.” On 6.33–6.34 the *Anubhāṣya* refers to Ādi 3.91 and 3.95–3.108, where Advaita worships Kṛṣṇa with tulasī leaves and Ganges water.
+
+## 34
+w: through whom  made  the Lord  of kīrtana  the spreading
+w: through whom  made  the Lord  of the world  the deliverance
+tr: Through Him the Lord spread the kīrtana, and through Him the Lord delivered the world.
+
+## 35
+w: of Ācārya  Gosāñi  of the qualities  the glory  boundless
+w: the worm-like jīva  where  will find  of it  the end
+tr: The glory of Ācārya Gosāñi’s qualities is boundless. Where can the jīva, a mere worm, find its end?
+
+## 36
+w: Ācārya  Gosāñi  Caitanya’s  principal  limb
+w: another  one  limb  His  Prabhu  Nityānanda
+tr: Ācārya Gosāñi is the principal limb (*aṅga*) of Caitanya, and His other limb is Nityānanda Prabhu.
+fn: The edition’s heading: “One limb of Gaura is Advaita, the other is Nitāi.” On 6.36–6.38 the *Anubhāṣya* refers to Ādi 3.71–3.74.
+
+## 37
+w: the Lord’s  lesser limbs  Śrīvāsa and the other  devotees
+w: hands  face  eyes  limbs  disc and other  weapons  like
+tr: The Lord’s lesser limbs (*upāṅga*) are Śrīvāsa and the other devotees; they are like His hands, face and eyes, and like His disc and other weapons.
+
+## 38
+w: with all these  taking  Caitanya Prabhu’s  pastimes
+w: with all these  taking  He makes  of His desire  the spreading
+tr: With them Caitanya Prabhu performs His pastimes, and with them He spreads what He desires.
+
+## 39
+w: of Mādhavendra Purī  He  the disciple  with this  understanding
+w: Ācārya Gosāñi  the Lord  as guru  regards
+tr: Knowing that He is a disciple of Mādhavendra Purī, the Lord regards Ācārya Gosāñi as His guru.
+fn: *Amṛta-pravāha-bhāṣya*: Advaita Prabhu is a disciple of Mādhavendra Purī, and His godbrother Īśvara Purī is Mahāprabhu’s guru; that is why Mahāprabhu honours the Ācārya as a guru. In truth Śrī Caitanya is the Lord of all and Advaita is His servant. *Anubhāṣya*: Mādhavendra Purī is one of the gurus of the sampradāya of Śrī Madhvācārya, and his disciples are Īśvara Purī and Śrī Advaita; the line of succession is cited from the *Gaura-gaṇoddeśa-dīpikā*.
+
+## 40
+w: in worldly  pastimes  of dharma’s  bounds  the keeping
+w: with praise and devotion  He makes  His  to the feet  obeisance
+tr: In His worldly pastimes the Lord keeps the bounds of dharma: with praise and devotion He bows at the Ācārya’s feet.
+
+## 41
+w: Caitanya Gosāñi  the Ācārya  holds as  ‘Master’
+w: Himself  He holds  His  ‘servant’  in self-conception
+tr: The Ācārya knows Caitanya Gosāñi as His Master, and He thinks of Himself as His servant.
+
+## 42
+w: in that  self-conception’s  happiness  Himself  He forgets
+w: ‘Kṛṣṇa’s servant’  become  to the jīvas  instruction  He gives
+tr: In the happiness of that feeling He forgets Himself, and He teaches the jīvas, “Become servants of Kṛṣṇa!”
+fn: *Anubhāṣya*: accepting the mood of a devotee, Mahā-Viṣṇu sets aside the sense of His own majesty and finds bliss in serving the Lord as His duty; in that bliss of service His sense of being the enjoyer recedes. By His own example He moves the souls to serve Kṛṣṇa at every moment.
+
+## 43
+w: of Kṛṣṇa’s servant  in the self-conception  which  of bliss  the ocean
+w: millions of times  Brahman’s  happiness  is not  of it  one  drop
+tr: Such is the ocean of bliss in feeling oneself Kṛṣṇa’s servant that the happiness of Brahman, multiplied ten million times, is not equal to a single drop of it.
+fn: *Amṛta-pravāha-bhāṣya*: the happiness of Brahman is the happiness of the notion of non-difference, “I am Brahman.” The *Anubhāṣya* cites the *Bhakti-rasāmṛta-sindhu* (1.1.38): “Even if the bliss of Brahman were multiplied a parārdha times, it would not equal an atom of the ocean of the happiness of bhakti.”
+
+## 44
+w: I  indeed  Caitanya’s servant  and  Nityānanda
+w: of the servant’s mood  equal  there is not  elsewhere  bliss
+tr: “I and Nityānanda are servants of Caitanya. Nowhere is there bliss equal to the mood of a servant.”
+
+## 45
+w: supreme  beloved  Lakṣmī  on His heart  dwells
+w: she  of service  the happiness  begs  making  entreaty
+tr: Lakṣmī, His dearest beloved, dwells upon His heart, yet she too humbly begs for the happiness of service.
+
+## 46
+w: in the mood of service  rejoice  the associates
+w: Brahmā  Śiva  Nārada and others  Śuka  Sanātana (and the other Kumāras)
+tr: In the mood of service His associates rejoice — Brahmā, Śiva, Nārada and others, Śuka, and Sanātana with his brothers.
+fn: As in the Gauḍīya Maṭha edition: «নারদাদি» (“Nārada and others”; another reading: «নারদার»). The edition’s heading: “(2) The associates of Viṣṇu, and Brahmā, Śiva, the four Sanas, Nārada, Śuka and others too, are servants of Kṛṣṇa.”
+
+## 47
+w: Nityānanda  Avadhūta  among all  the foremost
+w: Caitanya’s  in the love of service  became  mad
+tr: Nityānanda Avadhūta is the foremost of all; in His love of serving Caitanya He became mad.
+fn: As in the Gauḍīya Maṭha edition: «হইল» (another reading: «হইলা»); the sense is the same. *Amṛta-pravāha-bhāṣya*: *āgala* — “the foremost”.
+
+## 48–49
+w: Śrīvāsa  Haridāsa  Rāmadāsa  Gadādhara
+w: Murāri  Mukunda  Candraśekhara  Vakreśvara
+w: all these  learned  men  of supreme  greatness
+w: Caitanya’s  service  all of them  makes  mad
+tr: Śrīvāsa, Haridāsa, Rāmadāsa, Gadādhara, Murāri, Mukunda, Candraśekhara and Vakreśvara — all these are learned men of the highest greatness, and service to Caitanya makes every one of them mad.
+
+## 50
+w: in this way  they sing  dance  make  loud laughter
+w: people  they teach  ‘become  Caitanya’s  servants’
+tr: So they sing, dance and laugh aloud, and they teach everyone: “Become servants of Caitanya!”
+
+## 51
+w: Caitanya Gosāñi  Me  holds  as guru
+w: still  My  is  ‘servant’  self-conception
+tr: “Caitanya Gosāñi regards Me as His guru, yet I feel Myself His servant.”
+
+## 52
+w: of Kṛṣṇa-prema  this  one  unprecedented  power
+w: elders  equals  juniors  makes feel  the mood of service
+tr: This is one wondrous power of love for Kṛṣṇa: it gives elders, equals and juniors alike the mood of a servant.
+fn: *Amṛta-pravāha-bhāṣya*: “elders” are those related to Kṛṣṇa in parental love, “equals” — the friends, “juniors” — those beneath them; love for Kṛṣṇa gives all three the mood of service. So the elders, equals and juniors of Kṛṣṇa Caitanya are all His servants.
+
+## 53
+w: of this  the proof  hear  of the scriptures  the explanation
+w: of great souls  the experience  in which  firm  proof
+tr: Hear the proof of this in the explanations of scripture, firmly confirmed by the experience of great souls.
+
+## 54–55
+w: of others  what  to speak  in Vraja  Nanda  Mahāśaya
+w: his  equal  elder  of Kṛṣṇa  other  anyone  is not
+w: in pure  parental love  of God  the knowledge  is not  his
+w: him  even  love  makes feel  of service  a semblance
+tr: What to speak of others? In Vraja Kṛṣṇa has no elder equal to Nanda Mahāśaya. In his pure parental love he has no thought that Kṛṣṇa is God; yet love makes even him feel something like a servant.
+fn: The edition’s heading: “(5) Even in Nanda Mahārāja’s parental love there is service to Kṛṣṇa.” *Guru* here means “elder” (*Amṛta-pravāha-bhāṣya* on 6.52).
+
+## 56
+w: he  attraction  devotion  begs  at Kṛṣṇa’s  feet
+w: his  holy  lips’  words  of that  the proof
+tr: He too begs at Kṛṣṇa’s feet for attachment and devotion; his own words are the proof of it.
+
+## 57–58
+w: hear  Uddhava  truly  Kṛṣṇa  my  son
+w: He  God  thus  if  your  mind  takes
+w: still  in Him  may remain  my  mind’s workings
+w: in your  God  Kṛṣṇa  may be  my  thought
+tr: “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”
+fn: *Amṛta-pravāha-bhāṣya* on 6.58: “O Uddhava, even if you think that Kṛṣṇa is God, may my mind rest in that Kṛṣṇa.” Nanda prays for attachment to the Kṛṣṇa whom Uddhava calls God — this is the “semblance of service” (6.55) of which the author speaks.
+
+## 59
+w: of the mind  the workings  our  may be
+w: of Kṛṣṇa’s  lotus feet  taking shelter
+w: our words  uttering  His names
+w: the body  in bowing to Him and the like
+tr: “May the workings of our minds take shelter at Kṛṣṇa’s lotus feet, may our words utter His names, and may our bodies be given to bowing down to Him and serving Him.” (Śrīmad-Bhāgavatam, 10.47.66)
+fn: *Anubhāṣya*: Nanda and the other cowherds speak these words to Uddhava with deep love for Kṛṣṇa when, having met the people of Vraja, he is about to set out on his way back.
+
+## 60
+w: by our karma  being made to wander
+w: wherever  by the Lord’s will
+w: by auspicious deeds  by gifts
+w: love  our  for Kṛṣṇa  the Lord
+tr: “Wherever we may wander, driven by our karma and the Lord’s will, by our good deeds and gifts may we have love for Kṛṣṇa, the Lord.” (Śrīmad-Bhāgavatam, 10.47.67)
+
+## 61
+w: Śrīdāmā and others  in Vraja  all  of friends  the host
+w: of majesty  the knowledge  without  purely  of friendship  made
+tr: All the host of Kṛṣṇa’s friends in Vraja, led by Śrīdāmā, know nothing of His majesty: their love is pure friendship.
+fn: *Amṛta-pravāha-bhāṣya*: friendship is of two kinds — with knowledge of Kṛṣṇa’s majesty, and “pure” (*kevala*), unmixed; Śrīdāmā and the other friends of Vraja have pure friendship: they do not know His majesty.
+
+## 62
+w: with Kṛṣṇa  together  wrestling  they do  on His shoulders  climbing
+w: they  in the mood of service  do  to His feet  service
+tr: They wrestle with Kṛṣṇa and climb on His shoulders, and yet, in the mood of servants, they tend His feet.
+fn: As in the Gauḍīya Maṭha edition: «তাঁরা» (another reading: «তারা»); the sense is the same.
+
+## 63
+w: of the feet  massage  performed
+w: some  His  of the great soul
+w: others  free from sin
+w: with fans  fanned (Him)
+tr: “Some of them massaged the feet of that great soul, while others, their sins destroyed, fanned Him with fans.” (Śrīmad-Bhāgavatam, 10.15.17)
+fn: *Anubhāṣya*: so the cowherd boys played with Rāma and Kṛṣṇa in Tālavana, before Dhenukāsura was slain. *Amṛta-pravāha-bhāṣya*: the other friends, in the mood of friendship, fanned Him with fans made of leaves.
+
+## 64–65
+w: Kṛṣṇa’s  beloved  in Vraja  all  the gopīs
+w: whose  feet’s dust  does  Uddhava  pray for
+w: than all of them  more  to Kṛṣṇa  dear  is not  another
+w: they  themselves  hold  as maidservants  in self-conception
+tr: Even the beloved gopīs of Vraja, dearer to Kṛṣṇa than anyone else, whose foot-dust Uddhava prays for, think of themselves as His maidservants.
+
+## 66
+w: of Vraja’s  people  the distress  O destroyer  O hero  of women
+w: of Your own  people  the pride  destroying  whose smile
+w: accept  O friend  Your  maidservants  indeed  us
+w: lotus-like  face  beautiful  show
+tr: “O You who take away the distress of the people of Vraja! O Hero, whose smile destroys the pride of Your own! O friend, we are Your maidservants: be kind to us, and show us women Your beautiful lotus face.” (Śrīmad-Bhāgavatam, 10.31.6)
+fn: *Anubhāṣya*: this is the song of the gopīs as they searched for Kṛṣṇa when He had vanished during the rāsa dance. *Vraja-janārti-han* — “who destroys the pain of separation of those attached to Kṛṣṇa”; *vīra* — “of magnificent form”; *bhaja* — “be gracious to us”; *yoṣitām* goes with “show us women (the gopīs)”. The *Amṛta-pravāha-bhāṣya* reads it otherwise: “O supreme hero among women.”
+
+## 67
+w: (is it)  alas  in Madhupurī  the noble one’s son  now  dwells
+w: remembers (does)  He  His father’s house  O gentle one  kinsmen  and  cowherds
+w: ever  (does)  He  talk  of us  maidservants  speak
+w: His arm  aguru-fragrant  on the head  will He place  when  indeed
+tr: “O gentle one! Alas, Nanda’s son now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (Śrīmad-Bhāgavatam, 10.47.21)
+fn: As in the Gauḍīya Maṭha edition: «কিঙ্করীণাং» (another reading: «কিঙ্করিণাং»). *Anubhāṣya*: this is the *citra-jalpa* of Śrīmatī Rādhikā, addressed to the bee when Uddhava came to Vraja; *ārya-putra* is the son of Nanda; “kinsmen” — Parjanya, Upananda and others, “cowherds” — Subala, Arjuna, Śrīdāmā and others; “maidservants” — Lalitā, Viśākhā and Rādhā’s other friends. The *Amṛta-pravāha-bhāṣya* takes “gentle one” as Uddhava.
+
+## 68–69
+w: of all of them  the talk  let be  Śrīmatī  Rādhikā
+w: than all  in every respect  supremely  greater
+w: She  His  maidservant  becoming  serves  the feet
+w: by whose  love’s  qualities  Kṛṣṇa  bound  always
+tr: Let alone them: Śrīmatī Rādhikā, who surpasses them all in every respect and by whose love Kṛṣṇa is bound at every moment — even She has become His maidservant and serves His feet.
+fn: The edition’s heading: “(8) Even Śrī Rādhā Herself is a maidservant of Kṛṣṇa.”
+
+## 70
+w: O  Master  Beloved  dearest
+w: where are You  where are You  O mighty-armed
+w: to Your maidservant  wretched  to Me
+w: O friend  show  Your nearness
+tr: “O Master, O Beloved, O dearest one! Where are You, where are You, O mighty-armed? O friend, show Yourself to Me, Your wretched maidservant!” (Śrīmad-Bhāgavatam, 10.30.39)
+fn: *Anubhāṣya*: so Śrīmatī Rādhikā weeps when, during the rāsa dance, Kṛṣṇa had left the other gopīs and gone away with Her alone, and then, when She, proud of His love, said She could walk no further and asked Him to carry Her, He vanished. *Amṛta-pravāha-bhāṣya*: “O Master, O Beloved, O Dearest, O mighty-armed! I am Your most wretched maidservant — bring Me near You!”
+
+## 71
+w: in Dvārakā  Rukmiṇī and the other  all  queens
+w: they too  themselves  hold  Kṛṣṇa’s maidservants
+tr: In Dvārakā all the queens, led by Rukmiṇī, also think of themselves as Kṛṣṇa’s maidservants.
+
+## 72
+w: austerity  performing  knowing (me)
+w: His own  feet  of touching  with the hope
+w: with His friend  coming  took  my hand
+w: that  I  His  house  the sweeper
+tr: “Knowing that I was performing austerities in the hope of touching His feet, He came with His friend and took my hand. And so I am the sweeper of His house.” (Śrīmad-Bhāgavatam, 10.83.11)
+fn: *Anubhāṣya*: these are the words of Kālindī, Kṛṣṇa’s queen, to Draupadī, when the women of the Yādavas and the Kauravas met at Samanta-pañcaka; “His friend” is Arjuna.
+
+## 73
+w: of the self-satisfied  of Him  these
+w: we  indeed  household  maidservants
+w: from all  attachments  by turning away  directly
+w: by austerity  and  have become
+tr: “By austerity and by turning away from every attachment, we have become, in truth, maidservants in the house of Him who delights in Himself.” (Śrīmad-Bhāgavatam, 10.83.39)
+fn: *Anubhāṣya*: in the same place Queen Lakṣmaṇā speaks to Draupadī: having renounced every attachment — to happiness, wealth, children, and even to liberation — we have become maidservants in the house of Kṛṣṇa, who delights in Himself.
+
+## 74
+w: of others  what  to speak  Baladeva  Mahāśaya
+w: whose  mood  of pure  friendship  parental love  and the rest  full
+tr: What to speak of others? Consider Baladeva Mahāśaya, whose mood is full of pure friendship, parental love and the rest.
+fn: *Anubhāṣya*: although Baladeva is the elder brother and therefore worthy of worship, He knows Himself as the servant of His younger brother, Kṛṣṇa. The fourfold expansion of Mahā-Vaikuṇṭha is a manifestation of this self-luminous Baladeva, and even so exalted a position abides in service to Kṛṣṇa. As far as a being has turned away from Kṛṣṇa’s service, so far has it invited misfortune.
+
+## 75
+w: He  Himself  holds  as a servant  in thought
+w: of Kṛṣṇa’s servant  the mood  without  is there  any  person
+tr: Even He thinks of Himself as a servant. Is there anyone without the mood of a servant of Kṛṣṇa?
+
+## 76
+w: with a thousand  mouths  who  Śeṣa-Saṅkarṣaṇa
+w: ten  bodies  assuming  does  Kṛṣṇa’s  service
+tr: Śeṣa-Saṅkarṣaṇa, with His thousand mouths, assumes ten bodies and serves Kṛṣṇa.
+fn: *Amṛta-pravāha-bhāṣya*: the ten bodies are the umbrella, slippers, bed, pillow, garments, ornaments, resting place, dwelling, sacred thread and throne.
+
+## 77
+w: in endless  universes  Rudra  of Sadāśiva  a part
+w: guṇa-avatāra  he  of all  the gods  the crown
+tr: In the endless universes Rudra is a part of Sadāśiva; he is a guṇa-avatāra, the crown of all the gods.
+fn: *Anubhāṣya* (following the *Laghu-bhāgavatāmṛta*): the scriptures speak of Rudra in two ways. Śiva who is the Lord’s own part (*svāṁśa*) is counted among the lords (*īśvara-koṭi*), while Rudra the destroyer is in some kalpas a particular jīva, like Brahmā. Hara, the abode of the Puruṣa, is in essence almost free of the guṇas and only appears changeable through his contact with tamas — as milk turns into curd by contact with a culture and yet is not other than milk (*Brahma-saṁhitā* 5.45). Sadāśiva, who dwells in Śivaloka within Vaikuṇṭha and is free from tamas, is a vilāsa of Śrī Kṛṣṇa.
+
+## 78
+w: he  makes  of Kṛṣṇa’s  service  the hope
+w: constantly  says  Śiva  ‘I  Kṛṣṇa’s servant’
+tr: He longs for the service of Kṛṣṇa; Śiva says at every moment, “I am Kṛṣṇa’s servant.”
+
+## 79
+w: in Kṛṣṇa-prema  mad  overwhelmed  naked
+w: Kṛṣṇa’s  qualities  pastimes  he sings  dances  constantly
+tr: Mad with love for Kṛṣṇa, overwhelmed and naked, he sings of Kṛṣṇa’s qualities and pastimes and dances without end.
+
+## 80
+w: of father  mother  elder  friend  the mood  whatever  may be
+w: of Kṛṣṇa-prema  by the nature  the mood of service  it  produces
+tr: Whatever the mood — of father, mother, elder or friend — by the very nature of love for Kṛṣṇa it brings forth the mood of service.
+fn: *Amṛta-pravāha-bhāṣya*: whatever the mood one has, the mood of service within every mood must be acknowledged. The edition’s heading: “(13) Service to Kṛṣṇa runs through all four rasas — mādhurya, vātsalya, sakhya and dāsya.”
+
+## 81
+w: one  Kṛṣṇa  served by all  of the world  the Lord
+w: and  as many  all  His  servants and followers
+tr: Kṛṣṇa alone is served by all; He is the Lord of the world. All others are His servants and followers.
+
+## 82
+w: that  Kṛṣṇa  descended  Caitanya  the Lord
+w: therefore  the rest  all  His  servants
+tr: That Kṛṣṇa has descended as the Lord Caitanya; therefore all others are His servants.
+
+## 83
+w: some  accept  some  not  accept  all  His  servants
+w: who  not  accepts  of him  is  by that  sin  destruction
+tr: Some accept Him and some do not, yet all are His servants. One who does not accept Him is destroyed by that very sin.
+fn: *Anubhāṣya*: service to Śrī Caitanya is the very nature (*svarūpa-dharma*) of the jīva, an atom of spirit. Forgetting it, the bound soul is drawn to material enjoyment; yet even then, lording it over things, it remains an unworthy servant of Caitanya.
+
+## 84
+w: Caitanya’s  servant  I  Caitanya’s  servant
+w: Caitanya’s  servant  I  His  servants’  servant
+tr: “I am Caitanya’s servant, Caitanya’s servant! I am Caitanya’s servant, the servant of His servants!”
+
+## 85
+w: so  saying  He dances  sings  roars  deep
+w: in a moment  sat down  the Ācārya  becoming  calm
+tr: Saying this, He danced and sang with deep roars, and a moment later the Ācārya sat down, grown calm.
+
+## 86
+w: the devotee’s  self-conception  the root  in Śrī Balarāma
+w: that  mood  follow  His  parts
+tr: The conception of oneself as a devotee has its root in Śrī Balarāma, and all His parts follow Him in that mood.
+fn: The edition’s heading: “Baladeva and all His partial avatāras think of themselves as Kṛṣṇa’s servants.”
+
+## 87
+w: His  avatāra  one  Śrī Saṅkarṣaṇa
+w: a devotee  as  self-conception  holds  at every moment
+tr: One avatāra of His is Śrī Saṅkarṣaṇa, who at every moment thinks of Himself as a devotee.
+
+## 88
+w: His  avatāra  another  the glorious  Lakṣmaṇa
+w: Śrī Rāma’s  service  he  did  constantly
+tr: Another avatāra of His is the glorious Lakṣmaṇa, who served Śrī Rāma at every moment.
+
+## 89
+w: of Saṅkarṣaṇa  the avatāra  in the Causal Ocean  lying
+w: His  in the heart  the devotee’s  mood  accordingly
+tr: The avatāra of Saṅkarṣaṇa who lies in the Causal Ocean likewise bears the mood of a devotee in His heart.
+
+## 90
+w: His  manifestation  distinct  Advaita  Ācārya
+w: in body  mind  speech  His  devotion  always  the work
+tr: A distinct manifestation of His is Advaita Ācārya, whose work at every moment is devotion to the Lord in body, mind and speech.
+
+## 91
+w: in words  He says  I  Caitanya’s  attendant
+w: I  His  devotee  in His mind  He thinks  constantly
+tr: In words He says, “I am Caitanya’s attendant,” and in His mind He thinks at every moment, “I am His devotee.”
+
+## 92
+w: water  tulasī  offering  He does  with the body  service
+w: bhakti  spreading  all  He delivered  the world
+tr: With His body He serves, offering water and tulasī, and by spreading bhakti He has delivered the whole world.
+
+## 93
+w: the earth  holds  who  Śeṣa-Saṅkarṣaṇa
+w: bodily expansions  making  does  Kṛṣṇa’s  service
+tr: Śeṣa-Saṅkarṣaṇa, who holds up the earth, expands Himself into many bodies to serve Kṛṣṇa.
+fn: *Anubhāṣya*: *kāya-vyūha* — the ten bodies (see 6.76).
+
+## 94
+w: these  all  are  Śrī Kṛṣṇa’s  avatāras
+w: constantly  we see  of all  devotion’s  conduct
+tr: All these are avatāras of Śrī Kṛṣṇa, yet we always see Them conduct Themselves as devotees.
+
+## 95
+w: these all  the scriptures  call  devotee-avatāras
+w: the devotee-avatāra’s  position  above  all
+tr: The scriptures call all of Them devotee-avatāras, and the position of a devotee-avatāra is above all others.
+fn: *Anubhāṣya*: when the Lord descends into the world to display His majesty, the image of the devotee-avatāra is the most precious and needful for the good of the souls and for awakening bhajana in them. Looking with worldly eyes at avatāras in whom majesty predominates, souls often come to grief: many fools call themselves “Vāsudeva” and the like and after death are born as jackals. Pride, intoxicating the bound soul with a longing for divine majesty, turns it into a Māyāvādī.
+
+## 96
+w: the one and only  whole  Kṛṣṇa  parts  the avatāras
+w: in whole and part  we see  of elder  younger  the conduct
+tr: Kṛṣṇa alone is the whole (*aṁśī*); the avatāras are His parts (*aṁśa*). And between the whole and the part we see the conduct of elder and younger.
+fn: The edition’s heading: “The elder-and-younger conduct of the partial avatāras towards Kṛṣṇa, the whole.”
+
+## 97
+w: in the elder’s  mood  in the whole  is  the Master’s  awareness
+w: in the younger’s  mood  in oneself  the devotee’s  self-conception
+tr: In the mood of the elder, the whole is conscious of being the Master; in the mood of the younger, the part thinks of Himself as a devotee.
+fn: *Anubhāṣya*: a part is called *aṁśa*, and that of which it is a part, *aṁśī*; the whole is the Master (*prabhu*), the part is the devotee, and their relation is that of elder and younger: the elder is called the Master, the younger the devotee. The whole is Kṛṣṇa; the parts are Baladeva and the manifestations of Mahā-Viṣṇu of the same nature as He. Kṛṣṇa knows Himself as the Master, Baladeva and the others know themselves as devotees. The edition’s heading: “The elder partial avatāra sees the younger whole as his Master, and the younger partial avatāra thinks of himself as the servant of the elder whole” — as Baladeva before Kṛṣṇa, and Lakṣmaṇa before Rāma.
+
+## 98
+w: than equality with Kṛṣṇa  greater  the devotee’s position
+w: than His own self  more  Kṛṣṇa’s  devotee  is  beloved
+tr: Greater than equality with Kṛṣṇa is the position of a devotee, for Kṛṣṇa’s devotee is dearer to Him than His own self.
+fn: *Anubhāṣya*: the devotee’s position — service to Kṛṣṇa — is higher than any claim to equality with Him, for Kṛṣṇa loves His servants more than He loves Himself. The best witness to this is the *Bhāgavatam* (9.4.68): “The saints are My heart, and I am the heart of the saints. They know no one but Me, and I know no one but them.”
+
+## 99
+w: than Himself  Kṛṣṇa  the devotee  greater  as  regards
+w: of this  many  scriptures’  words  are the proof
+tr: Kṛṣṇa regards His devotee as greater than Himself, and many words of scripture prove it.
+
+## 100
+w: not  so  to Me  dear
+w: Brahmā  not  Śaṅkara
+w: not  and  Saṅkarṣaṇa  not  Śrī
+w: not even  My own self  and  as  you
+tr: “Neither Brahmā, born of Me, nor Śaṅkara, nor Saṅkarṣaṇa, nor Śrī, nor even My own self is as dear to Me as you are.” (Śrīmad-Bhāgavatam, 11.14.15)
+fn: *Anubhāṣya*: Kṛṣṇa speaks to Uddhava, the best of His devotees; *ātmā* — “I Myself, even My own form”.
+
+## 101
+w: in equality with Kṛṣṇa  is not  His  sweetness’  tasting
+w: in the devotee’s mood  does  His  sweetness  relishing
+tr: In equality with Kṛṣṇa there is no tasting of His sweetness; it is in the mood of a devotee that one relishes it.
+fn: *Anubhāṣya* (on 6.101–6.102): in the liberations of *sārūpya* and the rest, as in the position of Viṣṇu-tattva, equality with Kṛṣṇa keeps the sweetness of His service from being tasted as it is in the devotee’s mood; the devotee claims no equality with Kṛṣṇa as an enjoyer, and therefore he fully realises His sweetness, as if savouring it. Ordinary people, out of folly and greed for mastery, are by nature unable to feel the summit of service; only the experienced, deeply immersed in the scriptures, understand this subtle truth.
+
+## 102
+w: of the scriptures  the conclusion  this  of the wise  the experience
+w: foolish  people  not  know  of the mood  the glory
+tr: This is the conclusion of the scriptures and the experience of the wise; foolish people do not know the glory of this mood.
+
+## 103–104
+w: the devotee’s  mood  accepting  Balarāma  Lakṣmaṇa
+w: Advaita  Nityānanda  Śeṣa  Saṅkarṣaṇa
+w: Kṛṣṇa’s  sweetness’  nectar of rasa  they  drink
+w: in that  happiness  intoxicated  anything  not  know  else
+tr: Accepting the mood of devotees, Balarāma, Lakṣmaṇa, Advaita, Nityānanda, Śeṣa and Saṅkarṣaṇa drink the nectar of Kṛṣṇa’s sweetness; intoxicated with that happiness, They know nothing else.
+fn: The edition’s heading: “Nityānanda, Rāma and the other forms of Viṣṇu taste Kṛṣṇa’s sweetness by accepting the devotee’s mood.”
+
+## 105
+w: of others  let it be  the matter  Himself  Śrī Kṛṣṇa
+w: His own  sweetness  to drink  became  thirsty
+tr: Let alone others: Śrī Kṛṣṇa Himself became thirsty to drink His own sweetness.
+
+## 106
+w: His own sweetness  to taste  He makes  effort
+w: the devotee’s  mood  without  is not  its  tasting
+tr: He strives to taste His own sweetness, but without the mood of a devotee it cannot be tasted.
+
+## 107
+w: the devotee’s  mood  accepting  He became  descended
+w: in the form of Śrī Kṛṣṇa Caitanya  in all  moods  full
+tr: So, accepting the mood of a devotee, He descended in the form of Śrī Kṛṣṇa Caitanya, full of every mood (*bhāva*).
+fn: *Anubhāṣya* (on 6.107–6.108): to taste the five rasas — śānta, dāsya, sakhya, vātsalya and mādhurya — Śrī Gaurahari accepted the moods of devotees, and so He is full of every bhāva; taking up the moods of devotees of different kinds, Gauracandra drinks His own sweetness. On 6.106: to know how His devotees taste His sweetness, He Himself became a devotee.
+
+## 108
+w: in various  devotees’  moods  He makes  of His own  sweetness  drinking
+w: before  I have made  of this  conclusion  the explanation
+tr: In the moods of various devotees He drinks His own sweetness. I have explained this conclusion before.
+fn: Before — in Ādi 4: on 6.105–6.106 the *Anubhāṣya* refers to Ādi 4.137–4.158.
+
+## 109
+w: of the avatāras  in the devotee’s mood  the right
+w: than the devotee’s mood  greater  happiness  is not  other
+tr: All the avatāras have a claim to the mood of a devotee; there is no happiness greater than that of the devotee’s mood.
+
+## 110
+w: the original  devotee-avatāra  Śrī Saṅkarṣaṇa
+w: devotee-avatāra  among them  Advaita  is counted
+tr: The original devotee-avatāra is Śrī Saṅkarṣaṇa, and among the devotee-avatāras Advaita too is counted.
+fn: *Anubhāṣya*: Advaita Prabhu, though He is Viṣṇu-tattva, displayed the pastime of a servant befitting an associate of Śrī Caitanya; that the Viṣṇu-tattva thinks of Himself as a servant is what makes Him a devotee-avatāra. Śrī Saṅkarṣaṇa, who abides in Mahā-Vaikuṇṭha as the Lord of the fourfold expansion, is the original devotee-avatāra; from Him comes Mahā-Viṣṇu in the waters of the Causal Ocean, and Śrī Advaita Ācārya is the avatāra of that Mahā-Viṣṇu. All the manifestations of Saṅkarṣaṇa are engaged in the service of Kṛṣṇa, the original form, and therefore Advaita Prabhu is the servant of Gaura-Kṛṣṇa, a devotee-avatāra.
+
+## 111
+w: Advaita  Ācārya  Gosāñi’s  glory  boundless
+w: by whose  roar  was made  Caitanya’s descent
+tr: The glory of Advaita Ācārya Gosāñi is boundless: it was by His roar that Caitanya descended.
+
+## 112
+w: saṅkīrtana  spreading  all  the world  He delivered
+w: by Advaita’s  grace  people  the treasure of prema  obtained
+tr: By spreading saṅkīrtana He delivered the whole world; by Advaita’s grace people obtained the treasure of prema.
+
+## 113
+w: Advaita’s  glory  endless  who  can  tell
+w: that  I write  which  I have heard  great souls  from
+tr: Who can tell the endless glory of Advaita? I write only what I have heard from great souls.
+
+## 114
+w: at the Ācārya’s  feet  my  millions of  obeisances
+w: in this  any  offence  not  may He take  mine
+tr: Millions of times I bow at the Ācārya’s feet. May He not count any offence of mine in this.
+
+## 115
+w: Your  glory  (like) millions of oceans  fathomless
+w: its  measure  I tell  this  great  offence
+tr: Your glory is as fathomless as millions of oceans; to speak of its measure is a great offence.
+
+## 116
+w: glory  glory  glory  to Śrī Advaita  Ācārya
+w: glory  glory  to Śrī Caitanya  to Nityānanda  the venerable
+tr: Glory, glory, glory to Śrī Advaita Ācārya! Glory, glory to Śrī Caitanya and to the venerable Nityānanda!
+
+## 117
+w: in two  verses  I have told  of Advaita’s  truth  the determination
+w: of the Pañca-tattva  the consideration  a little  hear  O devotees
+tr: In two verses I have set out the truth of Advaita. Now, O devotees, hear something of the Pañca-tattva.
+
+## 118
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

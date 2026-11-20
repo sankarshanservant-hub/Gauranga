@@ -1,0 +1,79 @@
+# Amṛta-pravāha-bhāṣya on Antya-līlā 9
+
+## 0
+
+**Summary.** This chapter tells how Gopīnātha Paṭṭanāyaka, the son of Bhavānanda Rāya, squandered the king’s money and so fell out of favour with the Baḍa Jānā. For this he was first raised onto the *cāṅga* (the execution platform), and afterward the Lord, bestowing His mercy in disguise, rescued and elevated him.
+
+## 1
+
+The flood of prema of Caitanya’s countless devotees filled with water the desert that was the hearts of unfortunate people.
+
+## 13
+
+*Baḍa Jānā* — the eldest son of the Mahārāja of Orissa, that is, the *yuvarāja* (heir apparent). *Cāṅga* — a platform used in a particular method of execution: unsheathed swords were set beneath it. The condemned man was thrown from the platform onto the swords and so put to death.
+
+## 18
+
+*Mālajāṭhyā Daṇḍapāṭa.* Gopīnātha Paṭṭanāyaka was the *tahsildar* (revenue collector) of the district of that name. Of the money he had paid the king, two lakh *kāhanas* of cowries were still owing (a *kāhana* is a measure of 1,280 cowries).
+
+## 26
+
+The prince who was setting the price of the horses had a habit of craning his neck and looking upward. To mock this, Gopīnātha said, “My horse does raise its neck, but it does not look upward, so its price cannot be any lower.” The point of the jibe is this: “My horse is worth no less than you.”
+
+## 29
+
+*Yāya* — having gone.
+
+## 32
+
+*Rāja-vilāt* — the money due to the king from the lands under him (the king’s treasury or property). *Dārī, nāṭuyā* — harlots and dancers. He spends the money on such people and has no fear that the king’s money must be paid.
+
+## 44
+
+*Kartum akartum anyathā karite samartha*: He alone has the power to do a thing, not to do it, or to do it otherwise.[^44-1] 
+
+## 54
+
+*Muddatī kari’* — making him pledge to pay the money by a term, that is, by an appointed, fixed date.
+
+## 82
+
+“*Bhiyāna*”: the orderly and elaborate performance of the service (*pāripāṭya-abhinaya*).
+
+## 96
+
+“*Nirmañchana*”: a special kind of offering — the offering of *arghya* during *ārati* or worship.
+
+## 103
+
+“*Pūjya-garvita*”: worthy of worship, an object of pride and honour.
+
+## 107
+
+“*Netadhaṭī*”: silk cloth.
+
+## 119
+
+“Speak in such a way that He will not think I gave up the money for Mahāprabhu’s sake.”
+
+## 126
+
+“*Māt*” (a Hindi word): “not.”
+
+## 130
+
+“*Nilā mūla*”: You have bought us again, paying the price.
+
+## 137
+
+The chief fruit of remembering Your lotus feet is love for You. The protection of life, honour and wealth is only a semblance of the fruit (*phalābhāsa*) of that good deed — of serving Your feet. Material objects are fickle by nature, so a fruit connected with them is not the “chief” one.
+
+## 145
+
+“*Kṛpā-vivarta*”: mercy in the form of worldly welfare (prosperity) is not true mercy. But to the worldly mind it appeared as mercy — a *vivarta*, taking one thing for another.
+
+*Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^44-1]: In the edition this section is numbered “৪৩” (43; checked against the scan): a misprint. It explains the words of verse 44 and stands after verse 44.

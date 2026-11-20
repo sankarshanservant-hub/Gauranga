@@ -92,7 +92,7 @@ def resolve_verses(e, where, errors):
         i = find(fr, path)
         j = find(to, path, i) if i is not None else None
         if i is None or j is None: errors.append(f'{where}: в {path} нет стиха {fr if i is None else to}'); continue
-        en = path.replace('/ru/', '/en/')
+        en = path.replace('/ru/', '/en/').replace('/vcd-rev/', '/en-rev/')   # ЧЧ: ed/vcd-rev -> ed/en-rev
         Len = labels(en) if en != path else None
         r = {'file': path, 'from': fr, 'to': to, 'line': L[i][1], 'line_to': L[j][1], 'count': j - i + 1,
              'url': f"{REPO_URL}{path}?plain=1#L{L[i][1]}-L{L[j][1]}"}
