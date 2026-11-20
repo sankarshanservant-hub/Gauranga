@@ -3,7 +3,7 @@
 
 ## A Branch of Gadadhara Pandita
 Sri Uddhava Dasa is one of the branches (*shakha*) of the tree of Gadadhara Pandita Gosvami, the eternal associate of Sri
-Chaitanya. Kavi Karnapura calls him “Shriman Uddhava Dasa,” and Yadunatha Dasa, a disciple of Gadadhara, “Shrimad Uddhava
+Chaitanya. Kavi Karnapura calls him “Shriman Uddhava Dasa,” and Yadunandana Dasa, a disciple of Gadadhara, “Shrimad Uddhava
 Dasa.” Krishnadasa Kaviraja Gosvami, listing the branches of Gadadhara in the “Chaitanya-charitamrita,” places him in a
 single line with three other devotees:
 
@@ -16,7 +16,7 @@ calendar of the Sri Chaitanya Saraswat Math either. All that has come down to us
 list of branches, the praise of a disciple of Gadadhara, and Karnapura's word about his eternal nature.
 
 ## Giver of Prema to the Lowly
-Yadunatha Dasa, a disciple of Gadadhara Pandita, devotes a separate verse in the “Shakha-nirnayamrita” (“The Nectar of
+Yadunandana Dasa, a disciple of Gadadhara Pandita, devotes a separate verse in the “Shakha-nirnayamrita” (“The Nectar of
 Determining the Branches”) to each of his guru's disciples. Of Uddhava Dasa he says:
 
 “I worship Shrimad Uddhava Dasa, full of virtues, who bestows the whole wealth of prema upon the most lowly.”
@@ -113,7 +113,7 @@ for the fallen. <!-- F2 F3 F4 -->
     “the pandita named Srinatha.”
 [^2]: One of the biographies quotes the verse with the reading “-chitta” (“bestows a heart full of prema”); another and
     the “Anubhashya” read “-vitta” (“the whole wealth of prema”), as in our translation. The biographies call the author
-    of the “Shakha-nirnayamrita” Yadunatha Dasa, the “Anubhashya” Yadunandana Dasa.
+    of the “Shakha-nirnayamrita” Yadunatha Dasa, the “Anubhashya” Yadunandana Dasa; we follow the “Anubhashya.”
 [^3]: The verse does not say which Uddhava Dasa is meant; one of the biographies refers it to Gadadhara's branch, while the “Anubhashya” on Adi 12.83 does not quote it. That biography also numbers the verse
     “192,” whereas in its chapter on Chandrashekhara the same verse is 112, as in our edition of the
     “Gaura-ganoddesha-dipika.”

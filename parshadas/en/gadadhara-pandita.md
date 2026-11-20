@@ -373,18 +373,20 @@ honors his guru Gadadhara — “the best of brahmanas, ever devoted to bhakti, 
 servant”[^17]. In Vraja he is known as “Shveta-manjari.” <!-- F116 -->
 
 Achyutananda, the son of Advaita Acharya, is “the beloved disciple of Srimat Pandita Gosvami,” as the
-“Gaura-ganoddesha-dipika” says (GGD 87); according to the “Shakha-nirnayamrita” of Yadunatha Dasa too he is a disciple
+“Gaura-ganoddesha-dipika” says (GGD 87); according to the “Shakha-nirnayamrita” of Yadunandana Dasa (in the biographies, Yadunatha Dasa) too he is a disciple
 and branch of Gadadhara, while Srila Bhaktisiddhanta in the “Anubhashya” calls him the first of the disciples of
 Advaita, Whose son he is. Achyutananda came to be regarded as the chief among Gadadhara's disciples, was present at the
 festival in Kheturi, and after the Lord's disappearance and the departure of his guru returned to Shantipura and served
 the Lord's mission in obedience to his father. The “Shakha-nirnayamrita” itself (“The Nectar of Determining the
-Branches”) is a book about Gadadhara's disciples, written by his disciple Yadunatha Dasa; he also indicated that
+Branches”) is a book about Gadadhara's disciples, written by his disciple Yadunandana Dasa; he also indicated that
 Chandrashekhara Acharya appeared in Shrihatta. This book glorifies Achyutananda with the stanza “mahā-rasāmṛtānandam…”
 and mentions (35) Uddhava Dasa — whom the “Charitamrita” too calls a branch of Gadadhara (Adi 12.83). <!-- F81 F117 F82
 Q13 F83 -->
 
-Gadadhara's beloved disciple was Paramananda Gosvami: together with Madhu Pandita he found the Deity of Gopinatha on the
-bank of the Yamuna, at Vamshivata. And Hridayananda, whom Gadadhara loved as his own life, he gave to Gauridasa Pandita.
+One of the biographies calls Paramananda Gosvami Gadadhara's beloved disciple. With him is linked the appearance of
+Gopinatha at Vamshivata, on the bank of the Yamuna: according to the “Bhakti-ratnakara” (2.473–479), the Lord revealed
+Himself through His devotees — Paramananda Bhattacharya and Madhu Pandita, to whose love Krishna is subject — and
+Gopinatha mercifully revealed Himself to Madhu Pandita and gave him the right of service.[^18] And Hridayananda, whom Gadadhara loved as his own life, he gave to Gauridasa Pandita.
 One morning Gauridasa came to him; Gadadhara seated his guest with honor and asked why he had come. “I need
 Hridayananda,” Gauridasa replied. And Gadadhara, painful as it was for him, placed Hridayananda's hand in the hand of
 Gauridasa; Gauridasa gave him diksha and later entrusted him with the service of Gaura-Nityananda. <!-- F86 F87 -->
@@ -399,7 +401,7 @@ Puri, Tota-Gopinatha was served by Mamu Gosvami Thakura (the “Charitamrita” 
 ## After the Lord's Disappearance
 Mahaprabhu's manifest pastimes lasted forty-eight years. According to a tradition cited in the “Bhakti-ratnakara,” at
 their close the Lord entered the temple of Gadadhara Pandita's Gopinatha and did not come out again — He disappeared
-into this Deity[^18]. <!-- F90 -->
+into this Deity[^19]. <!-- F90 -->
 
 After this Gadadhara remained on earth only eleven months. Narahari Chakravarti in the “Bhakti-ratnakara” (3.142 ff.)
 describes his grief: with closed eyes he repeated the name of Gaurasundara, his sighs burned like flame, and his
@@ -416,9 +418,9 @@ Vishnupriya. <!-- F92 -->
 Soon the news came that Gadadhara had departed. Srinivasa, having returned to Gauda and come to Shrikhanda, decided to
 go again to Nilachala and stay with Gadadhara, even against his order; but on the way he heard from pilgrims returning
 from Nilachala of his departure — and fell unconscious. In a dream Sri Gaura-Gadadhara appeared to him, and at Their
-command he resolved to go to Vrindavana by way of Navadvipa[^19]. <!-- F93 -->
+command he resolved to go to Vrindavana by way of Navadvipa[^20]. <!-- F93 -->
 
-Gadadhara departed in Puri[^20] on the new moon of the month of Jyeshtha in the year 1456 of the Shaka era (1534)[^21].
+Gadadhara departed in Puri[^21] on the new moon of the month of Jyeshtha in the year 1456 of the Shaka era (1534)[^22].
 On the same day, almost four centuries later, on 23 June 1914, Bhaktivinoda Thakura departed, “non-different from the
 Gaura-shakti Gadadhara.” In 1922 Srila Bhaktisiddhanta instituted at the Purushottama Matha (Bhakti-kuti in Puri) an
 annual festival in memory of Bhaktivinoda and Gadadhara Pandita. <!-- F94 F95 I8 F96 -->
@@ -481,7 +483,7 @@ All this is a transcendental mystery, and it must be understood as Bhaktisiddhan
 Who has taken the mood and radiance of Radha, and Gadadhara is Radha serving Him in the form of a devotee-brahmana. Their
 intimacy is not the worldly attachment of two people but the eternal play of the Lord with His own internal energy; even
 Gadadhara's feminine attire in the drama at Chandrashekhara's house is a revelation of this energy, not worldly
-play-acting[^22]. <!-- F49 F108 F34 -->
+play-acting[^23]. <!-- F49 F108 F34 -->
 
 ## Two Gadadharas
 In the year 1340 of the Bengali era (1933–1934) a pamphlet appeared, the “Dasa Gadadhara-tattva.” Its author, posing as an
@@ -567,15 +569,20 @@ Gaura-Gadadhara, and worship Gaura — the moon of the groves of Godruma” (“
     disciple of Gadadhara Pandita and servant of Madana-Gopala. According to the “Charitamrita” (Adi 8.54), Haridasa
     Pandita was the manager of Govinda's temple.
 [^17]: According to the “Prema-vilasa,” Bhagavatacharya (formerly Bada Shyamadasa) was a disciple of Advaita Acharya.
-[^18]: Traditions about the Lord's disappearance differ; this is one of them.
-[^19]: How Srinivasa learned of his departure is told differently: according to one biography, having already taken
+[^18]: According to one of the biographies, Paramananda Gosvami together with Madhu Pandita “found” the Deity of Gopinatha
+    at Vamshivata. We follow the “Bhakti-ratnakara” (2.473–481) and the “Sadhana-dipika” it quotes: Gopinatha Himself
+    revealed Himself to Madhu Pandita, while Paramananda Bhattacharya was his loving friend; the biography's Paramananda
+    is apparently the same Paramananda Bhattacharya (both are named in Gadadhara's branch). A Deity is not found by
+    one's own will — the Lord Himself reveals Himself to His devotees. See also the article on Madhu Pandita.
+[^19]: Traditions about the Lord's disappearance differ; this is one of them.
+[^20]: How Srinivasa learned of his departure is told differently: according to one biography, having already taken
     leave and set out on the road to Bengal, he heard that Gadadhara had disappeared, and that same night Gadadhara
     appeared to him in a dream and consoled him; according to the “Prema-vilasa” (4), he learned of it in Yajpur, on the
     way to Puri.
-[^20]: One biography, speaking of Gadadhara Dasa, says that “after the disappearance of Gadadhara Pandita Gosvami” a
+[^21]: One biography, speaking of Gadadhara Dasa, says that “after the disappearance of Gadadhara Pandita Gosvami” a
     samadhi was erected for him in Eriyadaha; from the context the reference is to Gadadhara Dasa, whose shripata is in
     Eriyadaha, while Gadadhara Pandita departed in Puri.
-[^21]: The year 1456 of the Shaka era, in the month of Jyeshtha, corresponds to 1534; one biography gives 1535. The same
+[^22]: The year 1456 of the Shaka era, in the month of Jyeshtha, corresponds to 1534; one biography gives 1535. The same
     biography names as the day of his departure now the new moon of Jyeshtha, now the new moon of Ashadha.
-[^22]: The “Chaitanya-bhagavata” (Madhya 18.115) itself explains: “In truth, he is a manifestation of Krishna's internal
+[^23]: The “Chaitanya-bhagavata” (Madhya 18.115) itself explains: “In truth, he is a manifestation of Krishna's internal
     energy.” Gaura-lila is the Lord's play with His own energy, inaccessible to worldly interpretation.

@@ -702,7 +702,7 @@ up as an example by comparison with Advaita and Srivasa: for the sake of service
 social concerns. His name stands forever in the row of the five names of the Pancha-tattva: “Krishna Chaitanya, Prabhu
 Nityananda, Advaita, Gadadhara, Srivasa.” <!-- F117 F118 F135 F139 Q23 -->
 
-Srivasa is mentioned also in a song of Vamshivadana about Srivasa's temple, and in the account of Yadunatha Dasa about
+Srivasa is mentioned also in a song of Vamshivadana about Srivasa's temple, and in the account of Yadunandana Dasa about
 Chandrashekhara, who came from Shrihatta together with Srivasa and Srirama. The biographies recall that Jagadananda,
 Nandana, Buddhimanta, Jagadisha and Shuklambara attended the kirtanas at Srivasa's, and that it was in Srivasa-angana
 that Murari received his lesson about the order of obeisances. <!-- F139 -->

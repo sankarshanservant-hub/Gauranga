@@ -448,7 +448,7 @@ Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day
 [^12]: One of the biographies names Abhirama among the companions with whom Jahnava went to Narottama's festival at
     Kheturi. But in the “Bhakti-ratnakara” (10.374) that list has “Minaketana Ramadasa,” and Abhirama is not there;
     the other biographies do not name him in that list either. We do not accept this report.
-[^13]: This Abhiramadasa is another, later person; and his “Shakha-nirnaya” is not the book of Yadunatha Dasa on the
+[^13]: This Abhiramadasa is another, later person; and his “Shakha-nirnaya” is not the book of Yadunandana Dasa on the
     disciples of Gadadhara Pandita that goes by the same name.
 [^14]: Only one of the biographies gives this attribution. The book describes the shripatas of the Lord's associates,
     which rather points to a later author of the same name, like Abhiramadasa, the author of the “Shakha-nirnaya.”

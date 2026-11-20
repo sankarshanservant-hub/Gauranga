@@ -42,7 +42,7 @@ There too, speaking of the nine nidhis — treasures who were born as the Lord's
 “ratna” and “garbha” — Karnapura names “Shriman Acharyaratna” among them (GGD 102–103). Srila Bhaktisiddhanta Sarasvati,
 following him, writes that Chandrashekhara is one of the nine nidhis, or Chandra[^2]. <!-- F2 Q1 -->
 
-Yadunatha Dasa, a disciple of Gadadhara Pandita Gosvami, in the “Shakha-nirnayamrita” praises him, according to one of
+Yadunandana Dasa (in the biographies, Yadunatha Dasa), a disciple of Gadadhara Pandita Gosvami, in the “Shakha-nirnayamrita” praises him, according to one of
 the biographies, as a vessel of Paurnamasi's great love and a full moon of boundless compassion. <!-- F4 Q3 -->
 
 Murari Gupta, his contemporary, also links him with the Moon — and names his teachers:
@@ -55,7 +55,7 @@ on earth as Acharyaratna.” (Murari, 1.4.6)
 tears streamed down his face (Murari, 1.1.21). <!-- F49 -->
 
 ## Shrihatta and the Lord's Family
-Chandrashekhara's birthplace was Shrihatta (Sylhet) — so, according to one of the biographies, Yadunatha Dasa also
+Chandrashekhara's birthplace was Shrihatta (Sylhet) — so, according to one of the biographies, Yadunandana Dasa also
 says. The
 “Chaitanya-bhagavata” sings of the same: Srivasa Pandita, Srirama Pandita and Sri Chandrashekhara-deva, honoured by the
 three worlds, and with them Murari, the physician of the disease of worldly existence — all these Vaishnavas appeared in
