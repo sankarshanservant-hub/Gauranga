@@ -342,7 +342,7 @@ sannyasi, killed Him and robbed Him (CC Madhya 18.159–165). <!-- F54 -->
 “Then the Pathans bound the four men and wanted to cut them down. The Bengalis all began to tremble. Krsnadasa was a
 Rajput and utterly fearless. That brahmana too was fearless, and very bold of speech.” (CC Madhya 18.166–167)
 
-Balabhadra, who had come from Bengal, and his companion trembled, while the two local men — the Rajput and the brahmana
+The Bengalis — Balabhadra and his companion — trembled, while the two local men — the Rajput and the brahmana
 of Mathura — were not afraid and found what to say. <!-- F55 -->
 
 “The brahmana said, ‘Pathan, I appeal to you in the name of your padsah! Come along — I will go with you before the
