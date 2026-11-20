@@ -211,3 +211,275 @@ What these hints concealed Krishnadasa Kaviraja does not say, and we shall not i
 
 “The Lord said, ‘I have come to ask you a question,’ and the Kazi replied, ‘Ask whatever is on Your mind.’” (CC, Adi
 17.152) <!-- F23 -->
+
+## The Cow and the Bull
+The Lord's first question concerned the killing of cows:
+
+“The Lord said, ‘You drink cow's milk, so the cow is your mother; the bull produces grain, so he is your father. You
+kill your father and mother and eat them — what religion is this? On what authority do you commit such a sin?’” (CC,
+Adi 17.153–154)
+
+Srila Bhaktisiddhanta explains that the bull is the farmer's greatest helper: with him the land is ploughed, and man
+gets his grain. <!-- F24 -->
+
+The Kazi answered from his own scripture. As the Hindus have the Vedas and Puranas, he said, so the Muslims have the
+Koran; the Koran speaks of two paths, the path of worldly engagement (*pravritti*) and the path of renunciation
+(*nivritti*). For those on the path of renunciation the killing of living beings is forbidden, while on the path of
+worldly engagement there is an injunction to kill cows, and if it is done by the order of scripture there is no sin;
+and the Vedas too, he added, speak of the killing of cows, and great sages did it of old (CC, Adi 17.155–158). The
+“Anubhashya” notes that Islam distinguishes three paths: *sharia*, *tariqa* and *marifa*. <!-- F25 -->
+
+The Lord answered that the Vedas strictly forbid the killing of cows, and that the words about sacrifice mean something
+else:
+
+“So the sages would kill a worn-out old animal (*jaradgava*) and restore its life by Vedic mantras. The old animal
+became young once more, so this was not killing but a kindness. In the age of Kali the brahmanas have no such power,
+and so now no one kills cows.” (CC, Adi 17.161–163)
+
+The Lord quoted a verse of the “Brahma-vaivarta Purana”: in the age of Kali five things are forbidden — the horse
+sacrifice, the cow sacrifice, sannyasa, the offering of flesh to the forefathers, and the begetting of a son by the
+husband's brother (CC, Adi 17.164). And He concluded:
+
+“‘You cannot bring them back to life; all you do is kill. For you there is no escape from hell. For as many thousands
+of years as there are hairs on a cow's body, the killer of a cow rots in the hell of Raurava. The one who gave you your
+scripture was himself mistaken; not knowing the essence of scripture, he gave such an order.’” (CC, Adi 17.165–167)
+
+The Vedic sacrifice of an old cow (*jaradgava*) was not killing, because the mantras gave her back her life and youth;
+but in the age of Kali no one has such power, and so this sacrifice is forbidden. "Mistaken," Srila Bhaktisiddhanta
+explains, means approving needless violence to living beings.[^12] <!-- F26 -->
+
+“Hearing this, the Kazi was dumbstruck and could find no words. After some thought he admitted defeat and said: ‘What
+You have said, Pandita, is true. Our scriptures are recent and cannot stand up to reasoning. Our scripture is invented
+— I know that well; yet out of loyalty to my community I still accept it.’” (CC, Adi 17.168–170)
+
+These are the Kazi's own words. Srila Bhaktisiddhanta explains their sense: "recent" means arisen in time, whereas the
+Veda is eternal and not made by man (*apaurusheya*); "invented" means born of the mind; and *jati* is the community the
+Kazi belonged to, and loyalty to it. Srila Bhaktivinoda in the “Amrita-pravaha-bhashya” develops the same thought: all
+these books have a beginning, none is beginningless like the word of the Vedas, and so arguments that lack a firm root
+are open to doubt; there too he names three scriptures of the yavanas — the ancient book of the Jews, the Koran and the
+Bible. One of the biographies puts this explanation into the Kazi's own mouth.[^13] The Lord had not come to the Kazi to
+win a debate: He was leading him to the holy name. <!-- F27 F28 -->
+
+## Why the Kazi Does Not Forbid the Kirtana
+“The reasoning of the yavanas' scriptures is by nature unsound. Smiling, Mahaprabhu questioned him once more: ‘Let Me
+ask you one more question, uncle. Answer truly, and do not deceive Me with tricks. In your town there is sankirtana all
+the time — the din of drums and songs, singing and dancing. You are the Kazi, with authority to oppose the Hindu
+religion; I cannot understand why you do not forbid it now.’” (CC, Adi 17.171–174) <!-- F29 -->
+
+The Kazi answered, "Everyone calls You Gaurahari, and by that name I too shall address You. Listen, Gaurahari: if we can
+speak in private, I shall tell You the reason." The Lord said, "These people are My intimates. Speak plainly and have no
+fear" (CC, Adi 17.175–177). <!-- F30 -->
+
+And the Kazi told his dream. On the night when he had entered a Hindu's house, broken the mridanga and forbidden the
+sankirtana, there came to him a most terrible lion, with the body of a man and the face of a lion, roaring mightily. It
+leapt upon the sleeping Kazi:
+
+“Pressing his claws into my chest, he said in a dreadful voice, ‘I will tear your chest open in return for the
+mridanga! You forbid My kirtana — I will destroy you!’ Terrified, I shut my eyes and trembled. Seeing my fear, the lion
+grew kind and said, ‘I have humbled you only to teach you a lesson. That day you did no great harm, so I have forgiven
+you and spared your life. But if you do such a thing again, I will not bear it: I will destroy you with your whole
+family, and the yavanas too.’ With these words the lion went away, but I was filled with fear. Look — here are the
+marks of his claws on my chest!” (CC, Adi 17.181–186)
+
+The man's body with a lion's face, Srila Bhaktisiddhanta explains, is Sri Nrisimhadeva, who destroys enmity towards
+the devotees, towards bhakti and towards the Lord. His anger was mercy: He humbled the Kazi in order to teach him. The
+“Bhakti-ratnakara” says that on the eve of the procession the Lord Himself became Nrisimha to tear open the Kazi's
+chest; the Kazi saw it with his own eyes, understood that Nimai was no mere man, and told everyone of it (2.310–311).
+In Govinda-deva too the Lord first terrified the Kazi in the form of Nrisimha and only then set out with the procession
+(“Gaura-krishnodaya” 5.42).[^14] <!-- F31 -->
+
+“So saying, the Kazi bared his chest, and all who heard and saw were amazed.” (CC, Adi 17.187)
+
+The Kazi confessed that until then he had told no one of it. <!-- F32 -->
+
+That same day, he went on, one of his men had come to him (a *piyada*, which, the “Anubhashya” explains, means a
+servant of the lowest rank, a messenger): "I went to stop the kirtana, and suddenly a tongue of fire struck my face. My
+whole beard was burnt and my face was blistered." Every one of the men whom the Kazi sent to forbid the kirtana told the
+same story (CC, Adi 17.188–190). <!-- F33 -->
+
+“Seeing all this, I was seized with great fear; now I stay at home and do not forbid the kirtana.” (CC, Adi 17.191)
+
+So the Kazi let the townspeople sing the kirtana freely. <!-- F34 -->
+
+## The Complaints of the Muslims and the Unbelievers
+Then the Muslims came to the Kazi with a complaint: the Hindu religion had grown beyond all bounds in the town, nothing
+could be heard but "Hari! Hari!", the Hindus cried "Krishna! Krishna!", laughed and wept, danced and rolled in the dust;
+"If the Padshah hears of it, you will pay for it" (CC, Adi 17.192–195). The “Anubhashya” gives the definition of a
+*mleccha*: one who eats beef, says much that is contrary to the Vedas and is devoid of all good conduct. Srila
+Bhaktivinoda and one of the biographies give the complainants' words more fully: though the Padshah is your kinsman,
+he can still punish you. <!-- F35 -->
+
+The Kazi asked them: it is natural for Hindus to say "Hari", but why do you, Muslims, keep taking the names of the
+Hindus' God? And one of them answered:
+
+“One of them said, ‘I used to make fun of the Hindus. Some of them are called Krishnadasa, some Ramadasa, some
+Haridasa, and they were forever saying "Hari! Hari!" — I thought they meant to steal someone's wealth. Ever since then
+my tongue keeps saying "Hari! Hari!" I do not want it to, yet it says it — what can I do?’” (CC, Adi 17.198–200)
+
+Srila Bhaktivinoda explains his jest: in Bengali *hari* also means "I steal", and so the Muslim decided that those who
+kept saying "Hari" were planning to steal someone's goods. Another Muslim confessed that his tongue too, after he had
+mocked the Hindus, kept repeating the name of Krishna without stopping, and he could not understand what spells and
+herbs the Hindus knew (CC, Adi 17.201–202). Yet this is not sorcery but the power of the name itself. Srila
+Bhaktisiddhanta explains that mockery is one of the four kinds of *namabhasa*, the shadow of the holy name: "The name of
+Vaikuntha, uttered to indicate something else, in jest, to fill out a song, or with contempt, destroys all sins" (SB
+6.2.14).[^15] <!-- F36 -->
+
+When he had heard them, the Kazi sent the Muslims home. Then five or seven Hindu unbelievers came to complain of Nimai:
+since His return from Gaya He was undermining the foundations of dharma, singing loudly and clapping His hands, so that
+no one could sleep for the mridangas and karatalas; He chanted the name of Krishna with the low-born, and the great
+mantra of the holy name, heard by everyone, was losing its power; "You are the lord of this place, and all its people
+are yours. Summon Nimai and drive Him out" (CC, Adi 17.203–213). The Kazi soothed them and promised to stop Nimai's
+sankirtana (17.214). These unbelievers (*pashandis*), Srila Bhaktisiddhanta explains, are people sunk in ritual,
+worshippers of many gods, hostile to Vishnu and the Vaishnavas. <!-- F37 -->
+
+## "You Are Narayana"
+Having told all this, the Kazi concluded:
+
+“‘The great God of the Hindus is Narayana — and my heart tells me that You are He.’” (CC, Adi 17.215) <!-- F38 Q5 -->
+
+“Hearing this, Mahaprabhu smiled and, touching the Kazi, began to speak: ‘Krishna's name in your mouth — this is most
+wonderful! Your sins are destroyed, and you have become supremely pure. You have spoken three names — Hari, Krishna and
+Narayana. You are most fortunate and most pious.’” (CC, Adi 17.216–218)
+
+Srila Bhaktisiddhanta explains that *namabhasa*, the shadow of the holy name that destroys sins, had arisen in the
+Kazi's mouth. So the Lord's mercy, which began with the terror of Nrisimha, brought the Kazi to the name.[^16]
+<!-- F39 Q6 -->
+
+“At these words tears fell from the Kazi's eyes, and touching the Lord's feet, he said with deep feeling: ‘By Your grace
+my evil mind is gone. Be merciful to me, so that devotion to You may abide in me.’” (CC, Adi 17.219–220) <!-- F40 -->
+
+The Lord asked the Kazi for only one thing: let there be no more obstruction to the sankirtana anywhere in Nadia.
+
+“The Kazi said, ‘On all who are born in my line I shall lay a solemn charge (*talak*): they shall never obstruct the
+kirtana.’” (CC, Adi 17.222)
+
+Srila Bhaktivinoda explains that *talak* is a solemn oath. The biographies record the same vow: neither the Kazi nor
+anyone of his family or his people would hinder the sankirtana of the Vaishnavas, whether in houses or in the streets;
+one of them says that the Kazi became a friend of the Vaishnavas. <!-- F41 Q7 -->
+
+“Thereupon the Lord rose, crying ‘Hari!’, and all the Vaishnavas rose with Him, raising the sound of Hari's name. The
+Lord set off to go on with the kirtana, and the Kazi walked along with Him, his heart full of joy. Then the son of Shachi
+bade the Kazi farewell and came back to His own home, dancing all the way.” (CC, Adi 17.223–225)
+
+Srila Bhaktivinoda in the “Amrita-pravaha-bhashya” adds that on that night of the first town kirtana Chand Kazi went
+with the kirtana right up to Shridhara's courtyard and turned back from there. And the Lord, on His way home, entered
+Shridhara's poor dwelling and drank water from his old iron pot (CC, Adi 17.70; CB, Madhya 23.428–437); according to the
+“Chaitanya-bhagavata”, He had first passed, dancing, through the villages of the conch-shell merchants and the weavers.
+<!-- F42 F49 -->
+
+So Krishnadasa Kaviraja ends this account:
+
+“Thus the Lord showed His grace to the Kazi. Whoever hears of it is freed from his offences.” (CC, Adi 17.226)
+<!-- F43 -->
+
+The biographies retell the whole conversation after the “Charitamrita” and Srila Bhaktivinoda's commentary, sometimes
+more briefly and in their own words. <!-- Q8 -->
+
+## Descendants and Places of Remembrance
+The Kazi kept his word. Srila Bhaktisiddhanta writes in the “Anubhashya” that his descendants live in the same place to
+this day and join in the sankirtana of Krishna's name, raising no objection to it at all. <!-- F6 -->
+
+The tomb (samadhi) of Chand Kazi still stands in Bamunpukur, in Sri Mayapura; the “Anubhashya” also says that it has
+been preserved. One of the biographies adds that a very old golok-champa tree grows beside it and that the tomb is
+honoured by Hindus and Muslims alike. To the same neighbourhood belong the lane of Vamana-pukura, where, according to
+the “Gaudiya-bhashya”, the Kazi's house stood, and the village of Brahmana-pushkarini, where, according to the
+“Amrita-pravaha-bhashya”, the old house of his family stands. One of the biographies lists "Chand Kazi's Samadhi,
+Sridham Mayapur" among the maths and preaching centres founded by Srila Prabhupada Bhaktisiddhanta Sarasvati. When and
+how the Kazi left this world the sources do not say. <!-- F46 -->
+
+In Sri Mayapura there is also the well-known spot Khola-bhangar-danga, "the place where the mridanga was broken" (so
+too in the “Anubhashya”). According to one of the biographies, Srila Jagannatha Dasa Babaji by his divine vision pointed
+out first the place of the Lord's appearance and then this spot too, and it is Srivasa's courtyard, Srivasa-angana,
+where Mahaprabhu sang His night kirtanas.[^17] <!-- F47 -->
+
+Not far from the Kazi's tomb stands Shridhara's house too, to whose courtyard the Kazi came with the kirtana.[^18]
+<!-- F48 -->
+
+## The Lord's Mercy
+The Kazi who had opposed the kirtana received the Lord's mercy. That is why one of the biographies calls him "the
+devotee", and another says that he became a devotee of Mahaprabhu. Gaurasundara Himself, in Sridham Mayapura, the place
+of His appearance, came at the head of the sankirtana to his house and made him utter the name of Hari. The
+“Bhakti-ratnakara” says that Gaurasundara, the Purifier of the fallen, showed mercy to the fortunate Kazi, and hearing
+of it, noble people knew for certain that Gaurachandra is Narayana (2.317–318). Govinda-deva writes that the Lord, who
+loves even mlecchas, cast aside his scripture and instructed him in the true scripture (“Gaura-krishnodaya” 5.44), and
+the “Advaita-prakasha” that the deliverance of Jagai and Madhai and the deliverance of the Kazi amazed the people
+(14.156); Murari Gupta says only in general terms that the Lord delivered mlecchas and others (2.17.11). The sources tell
+nothing more of him; but by the Lord's mercy he uttered the holy name, prayed with tears for devotion and vowed for all
+his line never to hinder the sankirtana. <!-- F44 -->
+
+In this story we see how Mahaprabhu removes the obstacles to sankirtana. His anger protects the kirtana but does not
+destroy the opponent: Nrisimha terrifies the Kazi in order to teach him; the Lord comes to him as a guest and a
+"nephew", questions him courteously and leads him to the holy name — and he who had forbidden the kirtana himself walks
+after it. And as the instruments of worldly pujas came to serve the Hari-kirtana, so the ruler who had opposed the name
+vowed never to hinder it again. <!-- I1 I2 -->
+
+The Lord's servants followed in His footsteps. So Gadadhara Dasa made the fearsome kazi of his own village, Ariadaha,
+utter the name of Hari: the servant walks the path of his Master.[^19] <!-- I3 -->
+
+[^1]: One of the biographies gives only the first name: "Sirajuddin Chand Kazi".
+[^2]: The sources differ as to where the Kazi broke the mridanga. According to the “Chaitanya-bhagavata”, he was passing
+    along the road; according to the “Charitamrita” (Adi 17.125), he came "to one house". One of the biographies writes
+    that he came to Srivasa's house, broke a mridanga there and had several devotees beaten as a warning; another, that
+    the Kazi, hearing the talk of Nityananda's preaching and the noise of the kirtana, broke the mridanga of the
+    sankirtana. We follow the original sources.
+[^3]: According to the “Bhakti-ratnakara” (12.3089), it was the unbelievers who informed the Kazi; according to the
+    “Gaura-krishnodaya” (5.40–41), the heretics, after which the yavana ruler sent his men, and they, with oaths and
+    spies, forbade the kirtana in every house.
+[^4]: Of the opponents of the kirtana Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya” that, being in power, they
+    oppressed the townspeople in the name of religion; one of the biographies applies these words to the Kazi himself.
+    We give no worldly, political judgement of the ruler or of his times: the Kazi opposed the kirtana, and the Lord
+    subdued him and showed him mercy.
+[^5]: The unbelievers (*pashandis*) here are not the Hindus in general. Srila Bhaktisiddhanta calls them "so-called
+    Hindus", and in the “Anubhashya” people sunk in ritual, worshippers of many gods, hostile to Vishnu and the
+    Vaishnavas.
+[^6]: The words "Today I shall destroy all the Muslims" (literally, "all the yavanas", CC, Adi 17.130) and "I shall
+    burn the Kazi's house" (CB, Madhya 23.122, 388–405) are the play of the Lord protecting the sankirtana, not worldly
+    enmity towards Muslims. The opponent here is the opposition to the kirtana. In the same chapter of the
+    “Charitamrita” Muslims repeat the Lord's names in spite of themselves (17.198–202), and Haridasa Thakura, born in a
+    Muslim family, is one of Mahaprabhu's closest associates. The devotees remind the Lord that He is free from anger
+    (CB, Madhya 23.406–414), and He smiles and goes on with the kirtana; and the outcome of His anger is mercy to the
+    Kazi (CC, Adi 17.226).
+[^7]: The “Chaitanya-bhagavata” gives the order differently: Advaita in front, Haridasa in the middle, Srivasa at the
+    rear (Madhya 23.141–143). In the “Bhakti-ratnakara” (12.3092–3095) there are the companies of Advaita, Haridasa,
+    Srivasa, the Lord with Nityananda and Gadadhara, and Vakreshvara; in the “Gaura-krishnodaya” (5.43) Advaita goes in
+    front, Nityananda the avadhuta behind, and Haridasa dances in the middle. One of the biographies says that the Lord
+    led the procession along the bank of the Ganga, Himself dancing at its head; but according to the “Charitamrita” He
+    was in the last group, and according to the “Chaitanya-bhagavata” (Madhya 23.425) the devotees danced in front and
+    He followed. We follow the “Charitamrita”.
+[^8]: One of the biographies, writing of Jagadisha, refers here to "“Chaitanya-bhagavata”, Madhya 13.150"; the correct
+    reference is Madhya 23.150.
+[^9]: In the “Chaitanya-bhagavata” the Kazi does not come out to the Lord, and there is no conversation; it is given by
+    the “Charitamrita”. We bring the two accounts together without mixing them: the wrecking of the house and the
+    devotees' prayers after Vrindavana Dasa, the conversation after Krishnadasa Kaviraja.
+[^10]: One of the biographies adds that the Lord asked respectable neighbours to tell the Kazi that He had come without
+    ill will, and the Kazi, touched by His courtesy, came out. According to the “Bhakti-ratnakara” (2.315–316), the Kazi
+    himself, in great fear and with tears, went to the Lord and surrendered to Him; according to the
+    “Gaura-krishnodaya” (5.44), he came out to Him at once in fear and took shelter of Him with all his heart. We follow
+    the “Charitamrita”.
+[^11]: One of the biographies calls the Kazi, by village kinship, Nilambara Chakravarti's "brother". This is a mistake:
+    according to the “Charitamrita” (Adi 17.148–149) Nilambara is his "uncle", and so the Lord, Nilambara's grandson, is
+    his "nephew".
+[^12]: The verse on the five things forbidden in Kali is from the “Brahma-vaivarta Purana”, Krishna-janma-khanda
+    185.180; it is also quoted in the “Malamasa-tattva”. The Lord's words do not approve of animal sacrifice: the
+    ancient sacrifice was a kindness to the old cow only because the mantras restored her life, and now that no one has
+    such power, it is forbidden.
+[^13]: There is no list of three scriptures in the verses of the “Charitamrita”: it is Srila Bhaktivinoda's
+    commentary. We give the Kazi's words about his scriptures as they stand in the “Charitamrita”, without polemic and
+    without disrespect for anyone's faith.
+[^14]: There is no contradiction here: according to the “Charitamrita”, the dream came on the night the Kazi broke the
+    mridanga, that is, before the procession; the “Bhakti-ratnakara” says "on the eve", and the “Gaura-krishnodaya”
+    that the Lord terrified the Kazi with Nrisimha and then set out with the procession. One of the biographies adds
+    that Nrisimha forgave the Kazi on condition that he would not hinder the kirtana.
+[^15]: The Muslim's words about "spells and herbs" are only his own bewilderment.
+[^16]: Srila Bhaktisiddhanta calls what the Kazi uttered *namabhasa*: it destroys sins, but it is not yet the pure
+    name, whose fruit is prema. So we do not exaggerate his position; yet neither do we belittle it: the Lord calls him
+    fortunate, and the Kazi himself prays with tears for devotion.
+[^17]: The “Anubhashya” calls Khola-bhangar-danga simply "a spot in Mayapura"; the identification with Srivasa-angana
+    is made by one of the biographies. According to the “Chaitanya-bhagavata”, the Kazi broke the mridanga on the road;
+    according to the “Charitamrita”, "in one house" (see note 2).
+[^18]: According to one of the biographies, Shridhara's house stands a mile to the east of Chand Kazi's tomb, at the
+    edge of Mayapura near Saradanga; according to another, on the northern edge of Mayapura, to the south-east of Chand
+    Kazi's samadhi; today it is Shridhara-angana.
+[^19]: This is a different kazi, the ruler of Ariadaha (CC, Adi 10.53; CB, Antya 5). Chand Kazi should also not be
+    confused with the kazi who persecuted Haridasa Thakura (CB, Adi 16), with Malaya Kazi of the “Prema-vilasa”, or
+    with Khanaulla Kazi, Haridasa's father according to the “Advaita-vilasa”.
