@@ -8,15 +8,16 @@ Sena, the same who year after year led the Bengali devotees to Puri. He has seve
 received from Mahaprabhu. The name given him at birth at the Lord's word is Paramananda Dasa; so the “Charitamrita” calls him
 (Antya 12.45, 49), and so he signs himself: “I, who bear the name Sri Paramananda Dasa” (“Gaura-ganoddesha-dipika” 5),
 “the poet Paramananda Dasa, favoured by Srinatha, the son of Shivananda Sena” (prologue of the “Chaitanya-chandrodaya”).
-But the Lord jokingly called the boy Puri Dasa (Antya 12.49; 16.65, 73), and the name speaks for itself: “the servant of
+Yet in jest the Lord called the boy Puri Dasa (Antya 12.49; 16.65, 73), and the name speaks for itself: “the servant of
 Puri,” that is, of Paramananda Puri, the Lord's senior companion. Not for nothing, in Karnapura's drama Mahaprabhu, seeing
 Shivananda's youngest son, says to Paramananda Puri: “Svami, this is your servant.” In the list of the branches of the
-Chaitanya tree Krishnadasa Kaviraja calls him Karnapura (Adi 10.62), and elsewhere the poet Kavi Karnapura (Madhya
-24.342; Antya 6.262). In his great poem on Sri Chaitanya the author speaks of himself simply as the “youngest child” of
+Chaitanya tree Krishnadasa Kaviraja calls him Karnapura (Adi 10.62), and elsewhere Kavi Karnapura (Madhya
+19.118; Antya 6.262). In his great poem on Sri Chaitanya the author speaks of himself simply as the “youngest child” of
 Shivananda Sena (20.46). The biographies also call him Srila Kavi Karnapura Gosvami and Paramananda Sena.[^1] <!-- F1 -->
 
-His father, Shivananda Sena, was one of Mahaprabhu's great devotees, and the son recalls him more than once in his books.
-The “Gaura-ganoddesha-dipika” opens with a bow to the guru, and next comes a bow to the father:
+His father, Shivananda Sena, was among the great devotees of Mahaprabhu, and the son recalls him more than once in his books.
+In the “Gaura-ganoddesha-dipika,” after the bows to the Lord and His associates and the bow to the guru, there at once
+follows a bow to the father:
 
 “With supreme devotion I worship my father, Sri Shivananda, the lamp of the Sena family, foremost among the associates of
 Mahaprabhu.” (“Gaura-ganoddesha-dipika” 4)
@@ -25,25 +26,27 @@ In the same book he quotes his father's words — a verse on Nityananda that he 
 father's opinion about Saranga Thakura: some consider Saranga to be Prahlada, “but my father does not accept this” (GGD
 172). <!-- F2 -->
 
-Shivananda had three sons: Chaitanya Dasa, Ramadasa and the youngest, Paramananda, the future Kavi Karnapura. The
+Shivananda's sons were three: Chaitanya Dasa, Ramadasa and the youngest, Paramananda, the future Kavi Karnapura. The
 “Charitamrita” says of all three:
 
 “Chaitanya Dasa, Ramadasa and Karnapura, the three sons of Shivananda, were heroic devotees of the Lord.” (CC, Adi 10.62)
 
 “Heroic,” “valiant devotees” — in the Bengali text *bhakta-shura*.[^2] Who his elder brothers are in the eternal
 pastimes, Karnapura reveals himself: the two famous parrots of Vrindavana, Daksha and Vichakshana, “have now been born as
-my elder brothers, Chaitanya and Ramadasa” (“Gaura-ganoddesha-dipika” 145). <!-- F6 Q1 -->
+my elder brothers, Chaitanya and Ramadasa” (“Gaura-ganoddesha-dipika” 145). All three are glorified also in the
+“Vaishnava-vandana” of Devakinandana Dasa: “Chaitanya Dasa, Ramadasa and Karnapura — the three sons of Shivananda I will
+glorify generously” (2.73; the couplet is not in all manuscripts). <!-- F6 Q1 F36 -->
 
 He was born, according to the “Anubhashya” of Srila Bhaktisiddhanta Sarasvati (on CC, Adi 10.62), in 1448 Shaka, that is,
 in 1526/27, in Kanchrapara (Kanchanapalli), near Kumarahatta (Halisahar), where Shivananda's house stood.[^3] The day of
 his appearance is not given in the sources, and it is not in the Vaishnava calendar of Sri Chaitanya Saraswat Math. He was
-born, as the biographies say, by the blessing of Mahaprabhu Himself. Jagadananda Pandita, whom Shivananda brought up, also
-remembered this village: in the “Prema-vivarta” he glorifies Kavi Karnapura, “who lives in my village,” and adds that
+born, as the biographies say, by the blessing of Mahaprabhu Himself. Jagadananda Pandita too calls him a fellow villager: in the
+“Prema-vivarta” he glorifies Kavi Karnapura, “who lives in my village,” and adds that
 Gaura “at seven years of age made him honoured as a great poet” (8.15–16). <!-- F5 F7 -->
 
 ## A Name Given Before Birth
 Shivananda went to the Lord in Nilachala every year, and on one of these visits Mahaprabhu spoke to him of a son not yet
-born. Krishnadasa Kaviraja tells of it when Shivananda, years later, brings his three sons to the Lord (Antya 12.44). The
+born. Krishnadasa Kaviraja tells of it when Shivananda brings his three sons to the Lord (Antya 12.44). The
 Lord asked the name of the youngest, and the father answered: “Paramananda Dasa.” And here the earlier conversation is
 recalled:
 
@@ -79,7 +82,7 @@ feet. And the Lord, turning to Paramananda Puri, says: “Svami, this is your se
 <!-- F11 -->
 
 ## “Say: Krishna!”
-Years went by. Once Shivananda came to Puri for the Ratha-yatra with his wife and brought his youngest son, who was then
+Years went by. Once Shivananda came with his wife to Puri for the Ratha-yatra and brought his youngest son, who was then
 seven years old:
 
 “Taking his son, he came to the Lord and had the boy bow at His feet. Again and again the Lord said, ‘Say “Krishna”!’ But
@@ -94,8 +97,8 @@ him in the mantra of Krishna's name. Having received the mantra, he will not dis
 silently, within, but does not speak it aloud. That, I think, is his intention.’” (CC, Antya 16.69–72) <!-- F12 F13 Q3 -->
 
 So the child's silence turned out to be not obstinacy but faithfulness: the mantra received from the Lord Himself he kept
-in his heart. One of the biographies adds that the Lord was pleased to see so small a child know this rule of the
-scriptures. Srila Bhaktisiddhanta explains in the “Anubhashya” on this verse: a mantra received from Sri Gurudeva loses
+in his heart. One of the biographies adds that the Lord rejoiced that so small a child knew this rule of the
+scriptures. Srila Bhaktisiddhanta explains in the “Anubhashya” on this verse: a mantra one has received from Sri Gurudeva loses
 its potency if disclosed to another — as is seen also from the story of Gadadhara Pandita. That is why Puri Dasa did not
 utter aloud the mantra Mahaprabhu had given him. <!-- F14 Q4 -->
 
@@ -133,7 +136,7 @@ amazed the world” (18.126–127). <!-- F18 -->
 ## The Guru
 The mantra of Krishna's name the boy received from Mahaprabhu Himself. And yet, following the established order, he
 accepted initiation (*diksha*) from Srinatha Pandita (Srinatha Chakravarti) of Kanchrapara, the family guru of
-Shivananda's household. Srinatha was a disciple of Advaita Acharya and a sub-branch of Advaita on the Chaitanya tree; the
+Shivananda's household. Srinatha was a disciple of Advaita Acharya and, on the Chaitanya tree, one of Advaita's sub-branches; the
 “Prema-vilasa” says that he studied the “Bhagavata” with Sri Advaita, installed the Deity of Krishna-raya in Kumarahatta,
 wrote a commentary on the “Bhagavata,” the “Chaitanya-mata-manjusha,” and that “his pupil is the poet Karnapura, son of
 Shivananda” (vilasa 24); so also the “Anubhashya” on CC, Adi 10.62: “a disciple of Srinatha Pandita.” One of the
@@ -192,13 +195,13 @@ leads me.” (“Chaitanya-charita-mahakavya” 1.10)
 
 As his chief source he names the records of Murari Gupta: “whatever was written … by one who bears the auspicious name
 ‘Murari’ — having looked at all that, this child has written it down” (20.42); and again and again he bows to Murari, by
-whose mercy “the nectar of the deeds of Chaitanya-chandra was drunk with the eyes” (20.43–44). The signature at the end of
+whose mercy “the nectar of the deeds of Chaitanya-chandra was drunk with the eyes” (20.43). The signature at the end of
 the poem is the “youngest child” of Shivananda Sena, “the embodiment of the rasa of love for the supremely merciful
 Gaurachandra” (20.46). <!-- F26 -->
 
 ### “Chaitanya-chandrodaya”
 The drama on Sri Chaitanya conveys His deeds faithfully. As befits a drama, the order of events is shifted here and there,
-but in the presentation of Mahaprabhu's teaching there is not the slightest deviation — and for this the Gaudiya
+but in the presentation of Mahaprabhu's teaching there is no deviation whatever — and for this the Gaudiya
 Vaishnavas revere and love this book. It begins with a prologue: at the festival of Jagannatha's procession to the
 Gundicha, the sutradhara, at the command of King Prataparudra, stages a drama composed by “the poet Paramananda Dasa … the
 son of Shivananda Sena”; the festival is the same, the same Lord of the Blue Mountain, “but all this, alas, without
@@ -217,7 +220,7 @@ out the command given to me, write them down.” (“Gaura-ganoddesha-dipika” 
 
 It also gives the guru-parampara of the Gaudiyas — from Brahma through Narada and Vyasa to Madhvacharya and onward, down
 to Madhavendra Puri (GGD 22); from here, it seems, Baladeva Vidyabhushana too took his list of acharyas from Madhva to
-Chaitanya. This book, Karnapura writes, should be kept hidden from disputants and given to the connoisseurs of rasa who
+Chaitanya. This book, Karnapura writes, should be kept hidden from disputants and given to those versed in the scriptures on rasa who
 have taken shelter of Gaura's feet (GGD 213); “this ‘Sri Gaura-ganoddesha-dipika’ has been composed by me” (GGD 214).
 <!-- F24 -->
 
@@ -228,8 +231,8 @@ Prataparudra's valour, Rupa — and passages from the great poem. <!-- F27 -->
 
 ### “Ananda-vrindavana-champu” and Others
 The “Ananda-vrindavana-champu” is a large book in which prose alternates with verse, in twenty-two parts. It describes
-Krishna's pastimes from Nanda's festival (Krishna's birth) to the rasa-lila and is so captivating that it gives the
-highest joy even to connoisseurs of rasa skilled in poetry. Later Srila Vishvanatha Chakravarti wrote a commentary on it,
+Krishna's lila from the festival of Nanda (Krishna's birth) up to the rasa-lila and is so captivating that it gives the
+highest joy even to connoisseurs of rasa who are masters of poetry. Later Srila Vishvanatha Chakravarti wrote a commentary on it,
 the “Sukha-vartini,” and on the “Alankara-kaustubha” the “Subodhini”; on the “Alankara-kaustubha” there is also the
 commentary “Didhiti-prakashika” by Vrindavana (Tarkalankara), a disciple of Krishnadeva Sarvabhauma. <!-- F25 F30 -->
 
@@ -263,8 +266,8 @@ Sri Chaitanya. Now that the circle of His beloved ones — O Shiva, Shiva! — r
 who will listen? So let Krishna Himself be pleased with it.” (“Chaitanya-chandrodaya,” closing verse 2)
 
 And then follows a bitter verse of separation: “We saw the bhagavatas, received their mercy and lived among them”; while
-they were with us we lived — but if without them such as we cannot live anyway, why did we not depart at once? (closing
-verse 3). So he wrote when most of the Lord's associates had already withdrawn from sight. <!-- F32 -->
+they were with us we lived — but if without them such as we cannot live anyway, why did we not depart at once, as soon as we were
+born? (closing verse 3). So he wrote when most of the Lord's associates had already withdrawn from sight. <!-- F32 -->
 
 Later books have preserved two more testimonies. According to the “Advaita-prakasha,” when Advaita Acharya before His
 disappearance called the devotees to Shantipura, there came also “the best of panditas, Kavi Karnapura” (22.106);
@@ -286,7 +289,7 @@ He asks for that very thing which Karnapura sang all his life. <!-- F35 -->
 ## Significance
 Kavi Karnapura's books enriched the literature on Sri Chaitanya both in quality and in number. One of the biographies
 calls him a saint by nature and a celebrated poet; for his undivided devotion to Sri Chaitanya, his extraordinary holy
-life and the wealth of sweet books full of knowledge that he left for those who wish to know Mahaprabhu and His teaching,
+life and the wealth of sweet books full of knowledge that he left to all eager to know Mahaprabhu and His teaching,
 his name is remembered with obeisance and reverence.[^14] He is a living witness of what Krishnadasa Kaviraja said: the
 mercy of Sri Chaitanya has no limit, and even Brahma cannot find it. The infant into whose mouth the Lord placed the toe
 of His foot, the boy who kept the mantra the Lord had given, became the poet who brought down to us His pastimes and the
@@ -294,7 +297,7 @@ names of His eternal associates. <!-- F31 I2 -->
 
 [^1]: One of the biographies calls him “Paramananda Puri (Puri Dasa for short)” and writes that the Lord told them to name
     the child “Paramananda.” According to the “Charitamrita,” the Lord told them to give him the name Puri Dasa, while they
-    named him Paramananda Dasa at His instruction (Antya 12.47–49); Paramananda Puri is the name of a sannyasi, the Lord's
+    gave him the name Paramananda Dasa at His instruction (Antya 12.47–49); Paramananda Puri is the name of a sannyasi, the Lord's
     companion, after whom the boy was called “the servant of Puri.” Another biography writes that all these names —
     Paramananda Dasa, Paramananda Sena, Puri Dasa — were given him by his father; according to the “Charitamrita,” the
     names were given at the Lord's word. Kavi Karnapura should not be confused with Karnapura Kaviraja, the disciple of
@@ -318,7 +321,7 @@ names of His eternal associates. <!-- F31 I2 -->
     biographer's interpretation, and “before the light of the sun” disagrees with Antya 12.50: the Lord gave His toe to an
     infant already born; before birth there was only the name.
 [^8]: So write two biographies; one of them refers to Antya 16, but this is not there. In the “Charitamrita” the name
-    “Karnapura” stands in the list of the branches (Adi 10.62), and “Kavi Karnapura” in Madhya 24.342 and Antya 6.262,
+    “Karnapura” stands in the list of the branches (Adi 10.62), and “Kavi Karnapura” in Madhya 19.118 and Antya 6.262,
     without any account of how it was given.
 [^9]: Karnapura himself is silent about himself, while in his “Gaura-ganoddesha-dipika” Gunachuda is one of the gopis, the
     maidservants of Radha, and by the order of the list this is Subuddhi Mishra (GGD 194–207).

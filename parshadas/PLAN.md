@@ -194,7 +194,7 @@ B — вероятно, больше сотни).
 | @sadashiva-pandita (095) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @kurma-vipra (096) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @krishnadasa-mathura (097, санодия-брахман) | ✓ | ✓ (PDF) | — |
-| @kavi-karnapura (098) | ✓ | ✓ (PDF) | — |
+| @kavi-karnapura (098) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @kashi-vipra-host (099, брахман из Махараштры) | в работе | — | — |
 | @sita-thakurani (100) | в работе | — | — |
 | @lakshmipriya (101) | в работе | — | — |
