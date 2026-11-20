@@ -16,8 +16,8 @@ Him. This is no worldly attachment but her eternal nature, and the Lord answered
 and honoured her just as He honoured His own mother. <!-- F9 F10 Q5 -->
 
 ## The Daughter of Nrisimha Bhaduri
-Sita's father was Nrisimha Bhaduri (Baduri), a devoted brahmana. She had a sister named Shri, and Nrisimha with great joy
-gave both daughters to Advaita; the two wives of the Acharya, honoured by the world, are known everywhere as Shri and
+Sita's father was Nrisimha Bhaduri (Baduri), a devoted brahmana. She had a sister, Shri, and Nrisimha with great joy
+gave both daughters to Advaita; the two wives of the Acharya, honoured by the world, are famed far and wide as Shri and
 Sita. So the “Bhakti-ratnakara” tells (in its twelfth wave); neither the “Charitamrita” nor the “Chaitanya-bhagavata”
 names her father. One of the biographies explains why Advaita had two wives: Vishnu has three shaktis — Shri, Bhu and
 Nila — and without them Advaita's person would not have been manifest in its fullness. The wedding, according to the
@@ -42,8 +42,8 @@ note.[^2] <!-- F6 F7 F8 Q3 F52 -->
 
 ## Gifts for the Infant
 When the Lord appeared, Advaita was in Shantipura. In the evening, on the day of the lunar eclipse, He and Haridasa
-Thakura suddenly began to dance for joy and bathed in the Ganga; taking the eclipse as an occasion, He gave generously to
-the poor and sent many gifts for the Infant through Sita.[^3] With her husband's leave Sita travelled from Shantipura to
+Thakura suddenly began to dance for joy and bathed in the Ganga; using the eclipse as a pretext, He was lavish to the
+needy, and through Sita He sent the Infant a great many presents.[^3] With her husband's leave Sita travelled from Shantipura to
 Navadvipa, to the house of Jagannatha Mishra in Mayapura:
 
 “Advaita Acharya's wife, the noble lady revered by all the world, was named Sita Thakurani. With the Acharya's leave she
@@ -56,8 +56,8 @@ brahmana ladies paid her honour. <!-- F52 -->
 
 Srila Bhaktisiddhanta Sarasvati in his “Anubhashya” draws attention to the words “in His own house” (Adi 13.99):
 although Advaita also had a house in Mayapura, at that time He lived in Shantipura. Advaita's Navadvipa house stood not
-far from the house of Srivasa, and Advaita sometimes stayed there and talked of Krishna until dawn with the devotees
-headed by Srivasa. <!-- F13 -->
+far from the house of Srivasa, and Advaita sometimes stayed there and talked of Krishna until dawn with Srivasa and
+the other devotees. <!-- F13 -->
 
 Sita came in a curtained palanquin with her maidservants, and Krishnadasa Kaviraja lists her gifts lovingly, one by one:
 
@@ -68,7 +68,7 @@ border, and a wealth of gold and silver coins. Riding in a curtained palanquin w
 baskets full of clothes and ornaments, and plates heaped with auspicious things — durva grass, paddy, gorochana,
 turmeric, saffron and sandal.” (CC, Adi 13.112–114)
 
-The biographies add silver ornaments for the feet, golden *churi* and *bala* bracelets, an *ananta* necklace, a
+The biographies add silver foot-ornaments, golden *churi* and *bala* bracelets, an *ananta* necklace, a
 *ghunsi* waist-string and fragrances; the “Anubhashya” explains what these ornaments are. <!-- F14 -->
 
 Entering Shachi's house, Sita stood still in wonder:
@@ -103,11 +103,11 @@ The “Anubhashya” explains that this is the day of *nishkramana*, the first g
 Shantipura. <!-- F18 Q1 -->
 
 ## Beside Shachi
-From that day on, according to the biographies, Sita often came from Shantipura to Mayapura and taught Shachimata how to
+From that day on, according to the biographies, Sita would often travel over from Shantipura to Mayapura and taught Shachimata how to
 care for the Infant and bring up children, gave her much advice and then went home again.[^6] At the festival of the
 Child's birthday Jagannatha Mishra and Shachi gave the honoured Sita the privilege of being the first to offer Him new
 clothes, and all the devotees together with Advaita and Sita prayed that the Child might live long and happily in
-Mayapura. Sita and Shachi were of one heart: Nimai was their life and soul. And when Nimai's elder brother Vishvarupa took
+Mayapura. Sita and Shachi were of one heart: Nimai was the very life of them both. And when Nimai's elder brother Vishvarupa took
 sannyasa, Advaita and Sita consoled Jagannatha Mishra and Shachi and helped them bring up Nimai.[^7]
 <!-- F19 F20 F21 F22 F23 -->
 
@@ -139,7 +139,7 @@ She also took what the Lord loved to eat: thickened milk, yogurt, cream, butter,
 6.53–54)
 
 The “Bhakti-ratnakara” (12.1796) says the same: Sitadevi gathered everything for the Lord's worship. Advaita set out for
-Navadvipa with His wife and the gifts, but, wishing to test the Lord, first hid in the house of Nandana Acharya. When the
+Navadvipa with His wife and the gifts, yet, wanting to test the Lord, first hid in the house of Nandana Acharya. When the
 Lord called Him, Advaita together with His wife prostrated Himself before Him in joy from afar, offering prayers, and both were struck
 speechless as they beheld His majesty (CB, Madhya 6.73–103). When the Lord spoke to them, they raised their arms and wept
 for joy (6.99), and when He placed His feet on their heads, their long-cherished desire was fulfilled:
@@ -171,8 +171,8 @@ reserve proper to a married woman, and in her heart, casting off all self-import
 <!-- F26 -->
 
 “Which is higher — knowledge or bhakti?” the Lord asked. “Knowledge,” Advaita answered, “and the one who knows has no
-need to keep to the path of bhakti.” Then the Lord, to teach the people a lesson, dragged Advaita from His seat into the
-courtyard, threw Him to the ground and began to beat Him (CB, Madhya 19.131–134). And Sita interceded for her husband:
+need to keep to the path of bhakti.” Then the Lord, to teach the people a lesson, pulled Advaita off His seat out into the
+yard, threw Him down and struck Him (CB, Madhya 19.131–134). And Sita interceded for her husband:
 
 “Advaita's chaste wife, the mother of the whole universe, understood what was happening, yet still she tried to stop the
 Lord: ‘He is an old brahmana! Spare His life! Whom will You teach, and what, by punishing Him? This brahmana is so old.
@@ -185,13 +185,13 @@ alarm. Her alarm is not a wife's worldly fear for her husband: she, in Vrindavan
 only showed alarm, as the pastime required. For the Lord's anger here is also a pastime: He beats Advaita to teach people
 the superiority of bhakti over knowledge, and this punishment is the very mercy Advaita had been seeking. <!-- F27 I2 -->
 
-The Lord's anger soon subsided. “Nityananda, if I was too hot-tempered, forgive Me,” He said, and all four looked at one
-another and laughed (CB, Madhya 19.225–226). Sita the Lord always called mother:
+The Lord's anger soon subsided. “Nityananda, if I was too hot-tempered, forgive Me,” He said, and all four exchanged
+glances and burst out laughing (CB, Madhya 19.225–226). Sita the Lord always called mother:
 
 “Whenever Vishvambhara Mahaprabhu addressed Advaita's chaste and virtuous wife, He called her mother. The Lord said to
 her: ‘Go and prepare an offering for Krishna. Then we shall eat.’” (CB, Madhya 19.227–228) <!-- F28 F29 -->
 
-The Lord Himself went with Nityananda, Advaita and Haridasa to bathe in the Ganga, and on returning sat down to the meal,
+The Lord Himself, taking Nityananda, Advaita and Haridasa along, set off for the Ganga to bathe, and on returning sat down to the meal,
 and the great chaste lady, the mistress of yoga, served the food:
 
 “Advaita's chaste and virtuous wife, an exalted devotee, silently repeated the names of Lord Hari as she brought them
@@ -203,7 +203,7 @@ Madhya 19.242 ff.). And when the Lord embraced Advaita, Achyuta, Haridasa and Si
 
 ## Shantipura after the Sannyasa
 When the Lord took sannyasa and, half-mad with love, rushed through the forests towards Vrindavana, Sita spent four days
-with Shachi, who, sunk in the darkness of separation, lay on the ground as if at death's door. <!-- F32 -->
+with Shachi, who, sunk in the gloom of separation, lay on the ground as if at death's door. <!-- F32 -->
 
 But the Lord came to Shantipura, to Advaita's house — and to Advaita and Sita it was as if life had returned. The Lord had
 fasted for three days (CC, Madhya 3.38), and now a great feast was prepared for Him in Advaita's house:
@@ -219,8 +219,8 @@ gladden His mother and the devotees, the Lord stayed in Shantipura for three day
 “Achyutananda's mother,” that is, Sita. <!-- F33 Q6 F41 F51 -->
 
 ## Feasts in Puri
-While the Lord lived in Nilachala, Advaita Acharya, Sita Thakurani and their son Achyutananda went there to Him every
-year. Before setting out, Sita would cook Gaurasundara's favourite dishes and take them with her, and in Puri she would
+While the Lord lived in Nilachala, every year Advaita Acharya would go there to Him with Sita Thakurani and their son
+Achyutananda. Before setting out, Sita would cook Gaurasundara's favourite dishes and take them with her, and in Puri she would
 invite Him and feed Him.[^9] Krishnadasa Kaviraja tells how in the third year the Bengali devotees went to Puri with
 their wives:
 
@@ -316,7 +316,7 @@ work of one Lokanatha Dasa of the “sakhi-bheki” prakrita-sahajiyas and point
 “Chaitanya-bhagavata.” <!-- F47 F50 -->
 
 ## Her Significance
-Sita Thakurani is Yogamaya, the Lord's internal energy, descended as Advaita's consort, and one of Gaura's mothers. She
+Sita Thakurani is Yogamaya herself, the Lord's internal energy, descended as Advaita's consort, and one of Gaura's mothers. She
 saw in the Infant Krishna of Gokula, gave Him the name Nimai, watched over His childhood, fed Him in Shantipura and in
 Puri, and to the end of her days lived by her love for Him. Her motherly love is of the same kind as Shachi's, and the
 Lord answered her as He answered Shachi: He called her mother and honoured her as a mother. That is why Vaishnavas
@@ -328,8 +328,8 @@ punishment was mercy and a lesson to the world on the superiority of bhakti over
 
 [^1]: In one of the biographies the number of this verse is given as 81–84; this is incorrect: verses 81–85 speak of
     Kuvera, Advaita's father, 87–88 of Achyutananda, and verse 86 of Sita.
-[^2]: One of the biographies, citing an earlier edition of another, calls her Paurnamasi in Krishna's pastimes — the
-    mother of Sandipani Muni, grandmother of Madhumangala and Nandimukhi, disciple of Narada Muni; it also says that on
+[^2]: One of the biographies, citing an earlier edition of another, calls her Paurnamasi in Krishna's pastimes — Sandipani
+    Muni's mother, the grandmother of Madhumangala and Nandimukhi, disciple of Narada Muni; it also says that on
     Krishna's birthday she was in Nanda's house and taught Nanda and Yashoda how to care for the infant. No primary
     source is given for this, and the same biography at once notes that according to the “Gaura-ganoddesha-dipika” (41)
     Paurnamasi is Govinda Acharya. The “Gaura-krishnodaya” (1.45) also calls her Paurnamasi, the “Advaita-prakasha”
