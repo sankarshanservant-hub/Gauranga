@@ -2633,7 +2633,7 @@
   order: 50
   title: "Матхура: экстаз Господа; брахман — ученик Мадхавендры"
   summary: "Во Врадже Господь пляшет в слезах; омывшись у Вишрамы, видит Кешаву на месте рождения; брахман-ученик Мадхавендры принимает Его, и с ним Господь обходит святыни Матхуры."
-  persons: ["@mahaprabhu", "@madhavendra-puri"]
+  persons: ["@mahaprabhu", "@madhavendra-puri", "@krishnadasa-mathura"]
   places: ["#mathura"]
   kind: lila
   authority: B
@@ -2788,7 +2788,7 @@
   order: 181
   title: "Акрура-тиртха: Господь бросается в Ямуну; уход из Враджи"
   summary: "Вспомнив видение Акруры, Господь бросается в Ямуну; Бхаттачарья вытаскивает Его и, посоветовавшись с брахманом из Матхуры, уговаривает идти в Праягу к Макара-санкранти; Господь прощается с жителями Враджи, и Матхура скорбит, как гопи при отъезде Кришны."
-  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@krishnadasa-mathura"]
   places: ["#vrindavana", "#mathura"]
   kind: lila
   authority: B
