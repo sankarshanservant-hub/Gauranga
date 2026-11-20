@@ -13482,6 +13482,263 @@
   "note": "«Анубхашья» к ЧЧ Ади 8.66, 10.106, Мадхья 10.186: родина, род, Божества Чатры, Рудра Пандит, отождествление вриндаванского Кашишвары Госвами с учеником Ишвары Пури; «сильный Кашишвара с толком применяет силу в служении»."
  },
  {
+  "from": "@kavi-karnapura",
+  "type": "father",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F2",
+   "F3",
+   "F6",
+   "F8",
+   "F10",
+   "F12",
+   "F26"
+  ],
+  "events": [
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "ГГД 4 — «отец мой… первый среди спутников Махапрабху»; ГГД 176 — Вира-дути; махакавья 20.46 — «его младшее дитя». = @shivananda-sena F6, F64–F68, F76."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "sibling",
+  "who": "@chaitanya-dasa-shivananda-son",
+  "facts": [
+   "F6"
+  ],
+  "note": "Старший брат; ГГД 145 — попугаи Дакша и Вичакшана; по мнению знатоков в «Анубхашье» — автор махакавьи (⚠10)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "sibling",
+  "who": "@ramadasa-shivananda-son",
+  "facts": [
+   "F6"
+  ],
+  "note": "Средний брат (ЧЧ Ади 10.62; ГГД 145)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F8",
+   "F9",
+   "F10",
+   "F12",
+   "F13",
+   "F15",
+   "F17",
+   "F18",
+   "I1"
+  ],
+  "events": [
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "Господь велел назвать его Пури дасом ещё до рождения, вложил младенцу в рот палец Своей стопы, дал мантру имени, по Его слову семилетний сложил стих (ЧЧ Антья 12.46–50; 16.65–76)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "guru",
+  "who": "@srinatha-chakravarti",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-advaita-name-digvijayi"
+  ],
+  "note": "Дикша-гуру (ГГД 3, 210–211; ЧЧН, пролог; «Према-вилас» 24.827; «Анубхашья» к Ади 10.62; T 193 — «по обычаю»; B 779 — родовой гуру-пурохита)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F1",
+   "F11"
+  ],
+  "note": "«Пури дас» — «слуга Пури»: ЧЧН 10.5 — «Свами, это твой слуга»."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F13"
+  ],
+  "events": [
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "Объяснил Господу молчание мальчика — хранит мантру (ЧЧ Антья 16.70–72). = @svarupa-damodara F80. ГГД 13, 17 — Сварупа как источник."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F10"
+  ],
+  "events": [
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "По велению Господа давал семье Шивананды Его остатки (ЧЧ Антья 12.52–53). = @govinda-servant F52."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@shrikanta-sena",
+  "facts": [
+   "F11"
+  ],
+  "note": "Двоюродный брат; в ЧЧН 10.5 представляет Господу младшего сына Шивананды."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F24",
+   "F26"
+  ],
+  "note": "Записи Мурари — источник махакавьи (20.42–44) и ГГД (94)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F7"
+  ],
+  "events": [
+   "ev-shivananda-raises-jagadananda"
+  ],
+  "note": "«Према-виварта» 8.15–16: односельчанин; «в семь лет Он сделал его великим поэтом»."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F28"
+  ],
+  "events": [
+   "ev-sanatana-kashi-instruction"
+  ],
+  "note": "Его стихи о милости к Санатане — ЧЧ Мадхья 24.342–345; БР 1.657–660. = @sanatana-gosvami F443."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F28",
+   "F29"
+  ],
+  "events": [
+   "ev-rupa-shiksha-prayaga"
+  ],
+  "note": "Стихи ЧЧН 9 о Рупе — ЧЧ Мадхья 19.119–121; его стихи в «Падьявали» (B 383). = @rupa-gosvami F100, F316, B4F64."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F28"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-joins-lord"
+  ],
+  "note": "Стихи ЧЧН 10.3–4 о Рагхунатхе — ЧЧ Антья 6.262–264. = @raghunatha-dasa F2."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F15",
+   "F17",
+   "F28"
+  ],
+  "note": "ЧЧ рассказывает о нём (Антья 12, 16) и приводит его стихи."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F30"
+  ],
+  "note": "Комментарии «Субодхини» к «Аланкара-каустубхе» и «Сукха-вартини» к «Ананда-вриндавана-чампу» (B 973–974)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F5",
+   "F14",
+   "F15",
+   "F19",
+   "F21",
+   "F22"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.62 (год рождения, гуру, сочинения, сомнение об авторстве махакавьи) и к Антья 16.71, 16.74."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F33"
+  ],
+  "events": [
+   "ev-advaita-departure"
+  ],
+  "note": "«Адвайта-пракаша» 22.106 (ур. D): пришёл в Шантипур перед сокрытием Адвайты."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F23"
+  ],
+  "note": "Пролог ЧЧН: драма ставится по велению царя (⚠11)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@saranga-thakura",
+  "facts": [
+   "F2"
+  ],
+  "note": "ГГД 172 — мнение отца о Саранге. = @saranga-thakura F5."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@subuddhi-mishra",
+  "facts": [],
+  "note": "По порядку ГГД 194–207 гопи Гуначуда — Субуддхи Мишра; «Вайшнава-ачара-дарпана» (у T) называет Гуначурой Карнапуру (⚠2)."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F35"
+  ],
+  "note": "«Намамрита-самудра» 36 — молитва к Карнапуре."
+ },
+ {
+  "from": "@kavi-karnapura",
+  "type": "other",
+  "who": "@karnapura-kaviraja",
+  "facts": [],
+  "note": "Тёзка, не путать: ученик Шринивасы Ачарьи, автор «Гуна-леша-сучаки»."
+ },
+ {
   "from": "@keshava-kashmiri",
   "type": "opposed",
   "who": "@mahaprabhu",

@@ -4327,6 +4327,10 @@
     "type": "served-by"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "served-by"
+   },
+   {
     "from": "@keshava-kashmiri",
     "type": "opposed"
    },
@@ -12922,6 +12926,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -16863,6 +16871,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@kavi-karnapura",
     "type": "other"
    },
    {
@@ -22235,6 +22247,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -22688,6 +22704,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "other"
+   },
+   {
+    "from": "@kavi-karnapura",
     "type": "other"
    },
    {
@@ -23706,6 +23726,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -24600,6 +24624,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "other"
+   },
+   {
+    "from": "@kavi-karnapura",
     "type": "other"
    },
    {
@@ -27715,6 +27743,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@mukunda-datta",
     "type": "co-worker"
    },
@@ -28913,6 +28945,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -29920,6 +29956,10 @@
    {
     "from": "@kashishvara",
     "type": "sibling"
+   },
+   {
+    "from": "@kavi-karnapura",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -33693,6 +33733,10 @@
     "type": "patron"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "father"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "companion"
    },
@@ -34682,6 +34726,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "other"
    },
@@ -35479,6 +35527,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@nrisimhananda",
     "type": "other"
    },
@@ -35604,6 +35656,243 @@
    "ev-advaita-departure",
    "ev-katwa-khanda-memorial-festivals",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Гуначура-сакхи («Вайшнава-ачара-дарп…) и др.; гуру — Шринатха Чакраварти (Ачарья); происхождение — Канчрапара (Канчанапалли)",
+  "card": "parshadas/cards/kavi-karnapura.yaml",
+  "article": {
+   "ru": "parshadas/ru/kavi-karnapura.md",
+   "en": "parshadas/en/kavi-karnapura.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri",
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1526/27 (1448 г. Шака — «Анубхашья»; 1527 — T)",
+    "tithi": "",
+    "place": "#kanchrapara",
+    "conf": "год — по «Анубхашье» к ЧЧ Ади 10.62 и T 192; титхи неизвестна; место — Канчрапара (Канчанапалли; B — «Канчан-пури»); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) дня явления нет",
+    "facts": [
+     "F5",
+     "F8",
+     "F34"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место ухода из этого мира неизвестны; последняя дата — 1576 г. (ГГД 215); в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет; самадхи источники не называют",
+    "facts": [
+     "F22",
+     "F34"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Шри Чайтанья-чарита» (махакавья), 1542 г. (20.49; авторство оспаривается — ⚠10)",
+    "facts": [
+     "F21",
+     "F22",
+     "F26"
+    ]
+   },
+   {
+    "title": "«Шри Чайтанья-чандродая» (драма), 1572 г. (закл. стих 4)",
+    "facts": [
+     "F21",
+     "F22",
+     "F23",
+     "F28",
+     "F32"
+    ]
+   },
+   {
+    "title": "«Шри Гаура-ганоддеша-дипика», 1576 г. (ГГД 215)",
+    "facts": [
+     "F21",
+     "F22",
+     "F24"
+    ]
+   },
+   {
+    "title": "«Ананда-вриндавана-чампу» (22 части)",
+    "facts": [
+     "F20",
+     "F21",
+     "F25",
+     "F30"
+    ]
+   },
+   {
+    "title": "«Аланкара-каустубха»",
+    "facts": [
+     "F21",
+     "F30"
+    ]
+   },
+   {
+    "title": "«Арья-шатака» (первая шлока — «шравасох кувалайам», ЧЧ Антья 16.74)",
+    "facts": [
+     "F15",
+     "F21"
+    ]
+   },
+   {
+    "title": "комментарий к Десятой песни «Бхагаваты»",
+    "facts": [
+     "F21"
+    ]
+   },
+   {
+    "title": "только T: «Брихад-ганоддеша-дипика», «Ахника-каумуди», «Чайтанья-сахасра-нама», «Кешаваштака»",
+    "facts": [
+     "F21"
+    ]
+   },
+   {
+    "title": "стихи в «Падьявали» Рупы",
+    "facts": [
+     "F29"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Гуначура (Гуначуда)-сакхи",
+    "source": "«Вайшнава-ачара-дарпана» (по T 192)",
+    "level": "C",
+    "variants": [
+     "Сам Карнапура о себе в ГГД молчит (T 192, I5); по порядку ГГД 194–207 Гуначуда — Субуддхи Мишра (⚠2)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "ветвь древа Шри Чайтаньи — один из трёх сыновей Шивананды, «бесстрашных преданных» (*бхакта-шура*)",
+    "source": "ЧЧ Ади 10.62",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@shivananda-sena",
+    "note": "ГГД 4 — «отец мой… первый среди спутников Махапрабху»; ГГД 176 — Вира-дути; махакавья 20.46 — «его младшее дитя». = @shivananda-sena F6, F64–F68, F76."
+   },
+   {
+    "type": "sibling",
+    "who": "@chaitanya-dasa-shivananda-son",
+    "note": "Старший брат; ГГД 145 — попугаи Дакша и Вичакшана; по мнению знатоков в «Анубхашье» — автор махакавьи (⚠10)."
+   },
+   {
+    "type": "sibling",
+    "who": "@ramadasa-shivananda-son",
+    "note": "Средний брат (ЧЧ Ади 10.62; ГГД 145)."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Господь велел назвать его Пури дасом ещё до рождения, вложил младенцу в рот палец Своей стопы, дал мантру имени, по Его слову семилетний сложил стих (ЧЧ Антья 12.46–50; 16.65–76)."
+   },
+   {
+    "type": "guru",
+    "who": "@srinatha-chakravarti",
+    "note": "Дикша-гуру (ГГД 3, 210–211; ЧЧН, пролог; «Према-вилас» 24.827; «Анубхашья» к Ади 10.62; T 193 — «по обычаю»; B 779 — родовой гуру-пурохита)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "«Пури дас» — «слуга Пури»: ЧЧН 10.5 — «Свами, это твой слуга»."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Объяснил Господу молчание мальчика — хранит мантру (ЧЧ Антья 16.70–72). = @svarupa-damodara F80. ГГД 13, 17 — Сварупа как источник."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "По велению Господа давал семье Шивананды Его остатки (ЧЧ Антья 12.52–53). = @govinda-servant F52."
+   },
+   {
+    "type": "other",
+    "who": "@shrikanta-sena",
+    "note": "Двоюродный брат; в ЧЧН 10.5 представляет Господу младшего сына Шивананды."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "Записи Мурари — источник махакавьи (20.42–44) и ГГД (94)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "«Према-виварта» 8.15–16: односельчанин; «в семь лет Он сделал его великим поэтом»."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Его стихи о милости к Санатане — ЧЧ Мадхья 24.342–345; БР 1.657–660. = @sanatana-gosvami F443."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Стихи ЧЧН 9 о Рупе — ЧЧ Мадхья 19.119–121; его стихи в «Падьявали» (B 383). = @rupa-gosvami F100, F316, B4F64."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Стихи ЧЧН 10.3–4 о Рагхунатхе — ЧЧ Антья 6.262–264. = @raghunatha-dasa F2."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "ЧЧ рассказывает о нём (Антья 12, 16) и приводит его стихи."
+   },
+   {
+    "type": "other",
+    "who": "@vishvanatha-chakravarti",
+    "note": "Комментарии «Субодхини» к «Аланкара-каустубхе» и «Сукха-вартини» к «Ананда-вриндавана-чампу» (B 973–974)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.62 (год рождения, гуру, сочинения, сомнение об авторстве махакавьи) и к Антья 16.71, 16.74."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "«Адвайта-пракаша» 22.106 (ур. D): пришёл в Шантипур перед сокрытием Адвайты."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Пролог ЧЧН: драма ставится по велению царя (⚠11)."
+   },
+   {
+    "type": "other",
+    "who": "@saranga-thakura",
+    "note": "ГГД 172 — мнение отца о Саранге. = @saranga-thakura F5."
+   },
+   {
+    "type": "other",
+    "who": "@subuddhi-mishra",
+    "note": "По порядку ГГД 194–207 гопи Гуначуда — Субуддхи Мишра; «Вайшнава-ачара-дарпана» (у T) называет Гуначурой Карнапуру (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "«Намамрита-самудра» 36 — молитва к Карнапуре."
+   },
+   {
+    "type": "other",
+    "who": "@karnapura-kaviraja",
+    "note": "Тёзка, не путать: ученик Шринивасы Ачарьи, автор «Гуна-леша-сучаки»."
+   }
   ],
   "related_by": [
    {
@@ -35816,6 +36105,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
    {
     "from": "@subuddhi-raya",
     "type": "other"
@@ -43204,6 +43497,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@keshava-kashmiri",
     "type": "other"
    },
@@ -44702,6 +44999,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@kavi-karnapura",
     "type": "other"
    },
    {
@@ -47860,6 +48161,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@keshava-kashmiri",
     "type": "other"
    },
@@ -48402,6 +48707,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@kavi-karnapura",
+    "type": "other"
    },
    {
     "from": "@rupa-gosvami",
@@ -52566,6 +52875,10 @@
   ],
   "related_by": [
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -55362,6 +55675,10 @@
     "type": "other"
    },
    {
+    "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "other"
    },
@@ -57224,6 +57541,10 @@
   ],
   "related_by": [
    {
+    "from": "@kavi-karnapura",
+    "type": "sibling"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "son"
    }
@@ -57245,6 +57566,10 @@
    {
     "from": "@abhirama",
     "type": "other"
+   },
+   {
+    "from": "@kavi-karnapura",
+    "type": "sibling"
    },
    {
     "from": "@minaketana-ramadasa",
@@ -58638,6 +58963,10 @@
    {
     "from": "@advaita",
     "type": "disciple"
+   },
+   {
+    "from": "@kavi-karnapura",
+    "type": "guru"
    },
    {
     "from": "@shivananda-sena",
