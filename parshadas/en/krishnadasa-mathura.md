@@ -26,8 +26,8 @@ of the best”; Lochana Dasa, “There lived [there] a foremost brahmana named K
 already advanced in years: “noble and simple-hearted, an aged brahmana,” the Lord calls him (Madhya 17.165), and the
 biographies call him simply “the old brahmana.” <!-- F3 F4 -->
 
-By birth he belonged to the Sanodiya community: “that brahmana was a Sanodiya” (Madhya 17.179). One of the biographies
-adds that he appeared in a family of brahmanas who served as priests to the “Sanovar” caste, that is, to dealers in
+By birth he was of the Sanodiya community: “that brahmana was a Sanodiya” (Madhya 17.179). One of the biographies
+adds that he was born into a family of brahmanas who served as priests to the “Sanovar” caste, that is, to dealers in
 gold. What this means, and why it matters for his story, we shall say below, when we come to the Lord's meal in his
 home. <!-- F5 -->
 
@@ -36,8 +36,8 @@ secrecy but the concealment of a humble Vaishnava: he made no show either of his
 discipleship under the great Madhavendra, and it came to light only when the Lord Himself came to Mathura. <!-- F9 -->
 
 ## Disciple of Madhavendra Puri
-Long before the Lord came to Mathura, Sri Madhavendra Puri had come there in the course of his pilgrimage. He visited
-this brahmana's house, gave him mantra, accepted him as his disciple and accepted food from his hands. The brahmana
+Long before the Lord came to Mathura, Sri Madhavendra Puri had come there during his pilgrimage. He visited
+this brahmana's house, gave him mantra, made him his disciple and ate from his hands. The brahmana
 himself would later tell the Lord:
 
 “The brahmana said, ‘Sripada Madhavendra Puri came to the city of Mathura in the course of his wanderings. Out of
@@ -50,7 +50,7 @@ heart:
 
 “Nevertheless, seeing his Vaisnava conduct, Puri made him his disciple and accepted meals from him.” (CC Madhya 17.180)
 
-One of the biographies puts it thus: Madhavendra recognized him as a Vaishnava, that is, as a pure brahmana, and
+One of the biographies puts it thus: Madhavendra saw in him a Vaishnava, that is, a pure brahmana, and
 therefore, against custom, made him his disciple and ate at his house. Another adds that by this Madhavendra showed how
 *daiva-varnashrama* works — the divine order in which a person is judged by his service to the Lord, not by his birth.
 <!-- F11 -->
@@ -64,7 +64,7 @@ connection with Madhavendra Puri — and even the brahmana of Mathura “who kep
 Lord. <!-- F13 F14 Q3 I4 -->
 
 ## The Meeting at Keshava's Temple
-This was on the journey when Mahaprabhu, after the Ratha-yatra, left Puri for Vrindavana by the forest road through
+This was on the journey when Mahaprabhu, after the Ratha-yatra, left Puri for Vrindavana, taking the forest way through
 Jharikhanda. Ramananda Raya and Svarupa Damodara gave Him Balabhadra Bhattacharya as His companion, and with him a
 brahmana servant. Through Kashi and Prayaga the Lord came to Mathura. The sources do not name the year of the journey;
 by our chronology the Lord's journey to Vrindavana and Prayaga falls in 1514–1516. <!-- F15 -->
@@ -101,7 +101,7 @@ After the dance the Lord took the brahmana aside:
 “Then Mahaprabhu took that brahmana aside, sat with him in private and asked him: ‘You are noble and simple-hearted, an
 aged brahmana. Where did you get this treasure of love?’” (CC Madhya 17.164–165)[^3]
 
-The brahmana told Him of Madhavendra Puri — how he had come to his house, accepted him as a disciple and brought Gopala
+The brahmana told Him of Madhavendra Puri — how he had come to his house, taken him as a disciple and brought Gopala
 to light (Madhya 17.166–168). And then something happened that the brahmana had never expected:
 
 “Hearing this, the Lord bowed down at the brahmana's feet, and the brahmana in fear fell at the Lord's feet. The Lord
@@ -123,7 +123,7 @@ seeing Your love, I infer that You have some connection with Madhavendra Puri; I
 “Then the Bhattacarya told him of the connection, and hearing it the brahmana began to dance with joy.” (CC Madhya
 17.174)
 
-According to one of the biographies, the brahmana himself asked Balabhadra the name of the Lord's guru and, his guess
+According to one of the biographies, the brahmana himself asked Balabhadra who the Lord's guru was and, his guess
 confirmed, rejoiced. Another says more: he realized that Mahaprabhu was the son of the king of Vraja Himself. The same
 sounds in Murari — “O Gaura, youthful son of Nanda!” — and in Lochana, where Krishnadasa tells the Lord, “I know for
 certain — You are the son of Nanda,” later, “Your sannyasa is only a disguise,” and at parting, “You are that very
@@ -214,12 +214,12 @@ Govinda-deva too writes that the Lord saw the many holy places of Mathura “wit
 “When the Lord wished to see the forests, He took that same brahmana with Him.” (CC Madhya 17.192)
 
 So he became the Lord's companion in going round the twelve forests of Vraja; one of the biographies recalls how with him
-the Lord went round the forests, listening to the conversation of the parrots. Srila Bhaktivinoda Thakura lists these
+the Lord went round the forests, listening to the parrots' talk. Srila Bhaktivinoda Thakura lists these
 forests: east of the Yamuna — Bhadra, Bilva, Loha, Bhandira and Maha; west of it — Madhu, Tala, Kumuda, Bahula, Kamya,
 Khadira and Vrindavana itself. One of the biographies, too, draws on Madhya 17.164–168 and 17.192 when it speaks of him in
 its chapter on Madhavendra. <!-- F38 Q1 -->
 
-Once in the forest the Lord saw the necks of peacocks, which reminded Him of Krishna, and fell unconscious. The brahmana
+Once in the forest the Lord saw the necks of peacocks, whose hue called Krishna to His mind, and fell unconscious. The brahmana
 was at hand:
 
 “Seeing the Lord unconscious, the brahmana and the Bhattacarya tried to revive Him. Hurriedly they took Mahaprabhu's
@@ -379,8 +379,8 @@ bade farewell to that brahmana and to Krsnadasa, but the two folded their hands 
 far as Prayaga. Where shall we ever again find the company of Your feet? This is a land of mlecchas, and someone
 somewhere may make trouble. The Bhattacarya is a scholar; he does not know how to talk to them.’” (CC Madhya 18.214–217)
 
-According to one of the biographies, the Lord, in sending them back, said: “With great trouble you have come all the way
-from Mathura to show us the road; I do not wish to trouble you further — go back from here.” <!-- F61 -->
+According to one of the biographies, the Lord, in sending them back, said: “You have taken great pains to come from Mathura
+and show us the road; I would not burden you any longer — return from here.” <!-- F61 -->
 
 “Hearing this, Mahaprabhu smiled slightly, and the two went on with the Lord.” (CC Madhya 18.218)
 
@@ -432,8 +432,8 @@ the Lord, fed Him, guided Him to the holy places, watched over Him in the swoons
 companions before the Pathans, and would not part from the Lord while he could still walk at His side.
 <!-- F11 F14 F22 F23 I1 I2 I3 I4 I5 -->
 
-[^1]: Neither Krishnadasa Kaviraja nor the biographies give his name; one of the biographies says plainly that even his
-    name is unknown. The name “Krishnadasa” appears only in Murari Gupta (4.2.11) and Lochana Dasa (Shesha-khanda, “The
+[^1]: Neither Krishnadasa Kaviraja nor the biographies give his name; one of the biographies says plainly that not even his
+    name has come down to us. The name “Krishnadasa” appears only in Murari Gupta (4.2.11) and Lochana Dasa (Shesha-khanda, “The
     Lord Sees Vrindavana,” 48, 52). It is our database that takes him to be the same person as the Sanodiya brahmana of
     the “Chaitanya-charitamrita”: both have the same role — he received the Lord in Mathura, fed Him and guided Him
     through Vraja. But there are differences: Murari and Lochana do not say that he was Madhavendra's disciple, and in
@@ -487,8 +487,8 @@ companions before the Pathans, and would not part from the Lord while he could s
     with the Pathans; one of the biographies writes that both spoke — he and Krishnadasa the Rajput. The words “then
     kill me” follow the Bengali text of the Gaudiya Math edition. We follow the “Chaitanya-charitamrita.”
 [^14]: Literally the Bengali verse says: “this is a land of mlecchas… the Bhattacharya is a pandita, he does not know how to
-    speak [with them].” One of the biographies renders it so: the learned Bhattacharya does not know how to speak in such
-    circumstances; another, “he does not know the local language.”
+    speak [with them].” One of the biographies keeps this sense: the scholarly Bhattacharya would not know what to say in such
+    a situation; another says that he did not know the language of those parts.
 [^15]: The “Chaitanya-charitamrita” (Madhya 25.204–208) says only that Sanatana went round the forests of Vraja with
     Subuddhi Raya; the Sanodiya brahmana is not mentioned there, and the biography does not name its source. We give this
     only as the report of one of the biographies.
