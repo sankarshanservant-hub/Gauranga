@@ -397,7 +397,7 @@
 | @purushottama-datta | Пурушоттама Датта | Purushottama Datta | младший брат Кришнананды Датты, дядя Нароттамы; отец Сантоши |
 | @krishnadasa-kheturi | Кришнадас, старый брахман из Кхетури | Krishnadasa, the old brahmana of Kheturi | рассказывал юному Нароттаме о Господе и Его спутниках («Нароттама-виласа» 2); не путать с @krishnadasa-kaviraja |
 | @krishna-pandita-govinda | Кришна Пандит, служитель Говинды | Krishna Pandita, servant of Govinda | спутник Господа; после ухода Кашишвары служил Говинде во Вриндаване («Нароттама-виласа» 2) |
-| @madhu-pandita | Мадху Пандит | Madhu Pandita | служитель Божества Гопинатхи во Вриндаване |
+| @madhu-pandita | Мадху Пандит | Madhu Pandita | служитель Божества Гопинатхи во Вриндаване · {карточка: гуру — Гададхара Пандит; происхождение — Саимбона (Саибона)} |
 | @krishnadasa-brahmachari | Кришнадас Брахмачари | Krishnadasa Brahmachari | служитель Мадана-мохана во Вриндаване |
 | @raghava-gosvami-govardhana | Рагхава Пандит (Госвами) с Говардханы | Raghava Pandita (Gosvami) of Govardhana | южанин, жил на Говардхане; спутник Нароттамы и Шринивасы в обходе Враджа; не путать с @raghava-pandita |
 | @radha-damodara-deity | Радха-Дамодара — Божество Дживы Госвами | Radha-Damodara, Jiva Gosvami's Deity | Вриндаван; там же самадхи Рупы Госвами |

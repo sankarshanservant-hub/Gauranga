@@ -6803,6 +6803,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "deity-served"
+   },
+   {
     "from": "@parameshvara-dasa",
     "type": "other"
    }
@@ -14434,6 +14438,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@madhu-pandita",
+    "type": "guru"
    },
    {
     "from": "@mukunda-datta",
@@ -24110,6 +24118,10 @@
     "type": "other"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -25020,6 +25032,10 @@
    },
    {
     "from": "@madhavendra-puri",
+    "type": "other"
+   },
+   {
+    "from": "@madhu-pandita",
     "type": "other"
    },
    {
@@ -26434,6 +26450,10 @@
    },
    {
     "from": "@madhava-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@madhu-pandita",
     "type": "other"
    },
    {
@@ -31742,6 +31762,10 @@
     "type": "other"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "other"
    },
@@ -35145,6 +35169,10 @@
     "type": "other"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "other"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "other"
    },
@@ -36900,6 +36928,10 @@
     "type": "relative"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "met"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "other"
    },
@@ -37469,6 +37501,10 @@
    {
     "from": "@kamalakara-pippalai",
     "type": "companion"
+   },
+   {
+    "from": "@madhu-pandita",
+    "type": "met"
    },
    {
     "from": "@mahesha-pandita",
@@ -38657,6 +38693,10 @@
     "type": "friend"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -39760,6 +39800,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@madhu-pandita",
+    "type": "companion"
    },
    {
     "from": "@madhvacharya",
@@ -41263,6 +41307,10 @@
     "type": "met"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "met"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "met"
    },
@@ -42337,6 +42385,10 @@
     "type": "other"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "met"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "met"
    },
@@ -42652,6 +42704,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@madhu-pandita",
+    "type": "other"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -46962,6 +47018,10 @@
     "type": "other"
    },
    {
+    "from": "@madhu-pandita",
+    "type": "other"
+   },
+   {
     "from": "@mahesha-pandita",
     "type": "other"
    },
@@ -48661,6 +48721,10 @@
    },
    {
     "from": "@madhavi-devi",
+    "type": "other"
+   },
+   {
+    "from": "@madhu-pandita",
     "type": "other"
    },
    {
@@ -52948,6 +53012,128 @@
    "ev-gopinatha-madhu-pandita",
    "ev-narottama-vrindavana-darshan"
   ],
+  "summary": "гуру — Гададхара Пандит; происхождение — Саимбона (Саибона)",
+  "card": "parshadas/cards/madhu-pandita.yaml",
+  "article": {
+   "ru": "parshadas/ru/madhu-pandita.md",
+   "en": "parshadas/en/madhu-pandita.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "о роде и времени явления ничего не известно (B 1056); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) дня явления нет",
+    "facts": [
+     "F2"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны (B 1056); в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет",
+    "facts": [
+     "F2"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@gadadhara-pandita",
+    "note": "БР 13.319; «Анубхашья» к ЧЧ Ади 12.87 — пятая из дополнительных ветвей Гададхары; B прямо не говорит (любимым учеником Гададхары B называет Парамананду, F8). = @gadadhara-pandita F57, F86."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gopinatha-vrindavana",
+    "note": "Гопинатха у Вамшивата явил Себя ему и дал право служения (БР 2.473–479, «Садхана-дипика»); по B — обрёл вместе с Параманандой Госвами (⚠3); служение Гопинатхе с Радхой и Джахнавой-Ананга-манджари (B 174); адхикари Гопинатхи (БР 13.319)."
+   },
+   {
+    "type": "friend",
+    "who": "@paramananda-bhattacharya",
+    "note": "Кришна покорен любви их обоих; Парамананда очень любит Мадху Пандита (БР 2.474–480); вместе встречают Шринивасу у Гопинатхи (БР 4.363). B: «Парамананда Госвами, любимый ученик Гададхары» обрёл Гопинатху вместе с ним (⚠3)."
+   },
+   {
+    "type": "sibling",
+    "who": "@bhavananda-gopinatha",
+    "note": "Сатиртха (собрат по гуру), радостно служил Гопинатхе (БР 13.320; M 15 — пуджари Гопинатхи); B 1095 называет сатиртхой Мадхавачарью (⚠5)."
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami",
+    "note": "Джива знакомит с ним Шринивасу и Нароттаму, просит его о благополучном пути Шринивасы (БР 6.431); оба — среди встречавших Джахнаву и Вирачандру. = @jiva-gosvami F78, F81, F83."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Знакомство через Дживу (B 665; БР 4.361–364); благословил перед отъездом с книгами (B 668); от имени Гопинатхи дал ему аджня-малу (БР 6.432). = @srinivasa-acharya F52, F66."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "НВ 2.271–275: в храме Гопинатхи принял Нароттаму на колени, оросил слезами, дал даршан Радха-Гопинатхи и гирлянду-прасад (⚠9)."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "note": "Среди Госвами, встретивших её во Вриндаване (T 200; M 68; БР 11.105); B 174 — его служение Гопинатхе с Джахнавой-Ананга-манджари. = @jahnava F72, F105."
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra",
+    "note": "Среди махаджан Враджа, встречавших Вирачандру (БР 13.319; B 1095; M 15)."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "У Акрура-гхата Парамешвари Дас называет его Джахнаве по имени (БР 11.105). = @parameshvara-dasa F38."
+   },
+   {
+    "type": "other",
+    "who": "@bhugarbha",
+    "note": "= @bhugarbha F36, F37, F39."
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha"
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta",
+    "note": "= @gopala-bhatta F54, F55, F58."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Вместе благословили Шринивасу (B 668); M 177 приписывает Гопинатху Рагхунатхе Дасу (⚠8)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Параллель: Рупа явил Говиндадеву (две версии места — ⚠4). = @rupa-gosvami F230."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Параллель: Санатана явил Мадана-гопала из Махаваны. = @sanatana-gosvami F354."
+   },
+   {
+    "type": "other",
+    "who": "@abhirama",
+    "note": "B 174: три служения Гопинатхе — Абхирама (Кханакул), Гададхара (Пури), Мадху Пандит (Врадж). = @abhirama F53."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 12.87 (ветвь Гададхары, шрипат Саимбона, установил Гопинатху) и Мадхья 18.49–52 (цитата БР 6.511)."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhugarbha",
@@ -56568,6 +56754,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@madhu-pandita",
+    "type": "friend"
    },
    {
     "from": "@srinivasa-acharya",
@@ -65864,6 +66054,21 @@
    {
     "from": "@sarvabhauma",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@bhavananda-gopinatha",
+  "ru": "Бхавананда, служитель Гопинатхи",
+  "en": "Bhavananda, servant of Gopinatha",
+  "note": "собрат (сатиртха) @madhu-pandita по гуру, служил Гопинатхе во Вриндаване (БР 13.320; M pdf 23); ветвь Гададхары по «Шакха-нирнае» («Анубхашья» к ЧЧ Ади 12.87); не путать с @bhavananda-raya",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhu-pandita",
+    "type": "sibling"
    }
   ]
  }

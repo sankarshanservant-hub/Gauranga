@@ -15541,6 +15541,223 @@
   "note": "«Анубхашья» к ЧЧ Ади 10.136–137 (семнадцатая ветвь, рассказ Карнапуры) и к Антья 2.143 (маха-бхагавата, рис у неё брать было не недозволенно)."
  },
  {
+  "from": "@madhu-pandita",
+  "type": "guru",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F3",
+   "F26"
+  ],
+  "note": "БР 13.319; «Анубхашья» к ЧЧ Ади 12.87 — пятая из дополнительных ветвей Гададхары; B прямо не говорит (любимым учеником Гададхары B называет Парамананду, F8). = @gadadhara-pandita F57, F86."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "deity-served",
+  "who": "@gopinatha-vrindavana",
+  "facts": [
+   "F8",
+   "F9",
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "F16",
+   "F17",
+   "F19a",
+   "F20",
+   "F22",
+   "I1",
+   "I2"
+  ],
+  "events": [
+   "ev-gopinatha-madhu-pandita"
+  ],
+  "note": "Гопинатха у Вамшивата явил Себя ему и дал право служения (БР 2.473–479, «Садхана-дипика»); по B — обрёл вместе с Параманандой Госвами (⚠3); служение Гопинатхе с Радхой и Джахнавой-Ананга-манджари (B 174); адхикари Гопинатхи (БР 13.319)."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "friend",
+  "who": "@paramananda-bhattacharya",
+  "facts": [
+   "F8",
+   "F10",
+   "F12",
+   "F17",
+   "F18",
+   "F19b"
+  ],
+  "events": [
+   "ev-gopinatha-madhu-pandita"
+  ],
+  "note": "Кришна покорен любви их обоих; Парамананда очень любит Мадху Пандита (БР 2.474–480); вместе встречают Шринивасу у Гопинатхи (БР 4.363). B: «Парамананда Госвами, любимый ученик Гададхары» обрёл Гопинатху вместе с ним (⚠3)."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "sibling",
+  "who": "@bhavananda-gopinatha",
+  "facts": [
+   "F17",
+   "F22"
+  ],
+  "note": "Сатиртха (собрат по гуру), радостно служил Гопинатхе (БР 13.320; M 15 — пуджари Гопинатхи); B 1095 называет сатиртхой Мадхавачарью (⚠5)."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "companion",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F18",
+   "F19",
+   "F19a",
+   "F20",
+   "F21",
+   "F22"
+  ],
+  "events": [
+   "ev-narottama-vrindavana-darshan"
+  ],
+  "note": "Джива знакомит с ним Шринивасу и Нароттаму, просит его о благополучном пути Шринивасы (БР 6.431); оба — среди встречавших Джахнаву и Вирачандру. = @jiva-gosvami F78, F81, F83."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F18",
+   "F19",
+   "F19a",
+   "F19b"
+  ],
+  "events": [
+   "ev-books-leave-vrindavana"
+  ],
+  "note": "Знакомство через Дживу (B 665; БР 4.361–364); благословил перед отъездом с книгами (B 668); от имени Гопинатхи дал ему аджня-малу (БР 6.432). = @srinivasa-acharya F52, F66."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F20"
+  ],
+  "events": [
+   "ev-narottama-vrindavana-darshan"
+  ],
+  "note": "НВ 2.271–275: в храме Гопинатхи принял Нароттаму на колени, оросил слезами, дал даршан Радха-Гопинатхи и гирлянду-прасад (⚠9)."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "met",
+  "who": "@jahnava",
+  "facts": [
+   "F16",
+   "F21"
+  ],
+  "events": [
+   "ev-jahnava-vrindavana"
+  ],
+  "note": "Среди Госвами, встретивших её во Вриндаване (T 200; M 68; БР 11.105); B 174 — его служение Гопинатхе с Джахнавой-Ананга-манджари. = @jahnava F72, F105."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "met",
+  "who": "@virabhadra",
+  "facts": [
+   "F22"
+  ],
+  "note": "Среди махаджан Враджа, встречавших Вирачандру (БР 13.319; B 1095; M 15)."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F21"
+  ],
+  "note": "У Акрура-гхата Парамешвари Дас называет его Джахнаве по имени (БР 11.105). = @parameshvara-dasa F38."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@bhugarbha",
+  "facts": [
+   "F18",
+   "F19",
+   "F21"
+  ],
+  "note": "= @bhugarbha F36, F37, F39."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@lokanatha",
+  "facts": [
+   "F18",
+   "F19",
+   "F21"
+  ]
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F18",
+   "F19",
+   "F21"
+  ],
+  "note": "= @gopala-bhatta F54, F55, F58."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F19"
+  ],
+  "note": "Вместе благословили Шринивасу (B 668); M 177 приписывает Гопинатху Рагхунатхе Дасу (⚠8)."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F7",
+   "F7a"
+  ],
+  "note": "Параллель: Рупа явил Говиндадеву (две версии места — ⚠4). = @rupa-gosvami F230."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F7"
+  ],
+  "note": "Параллель: Санатана явил Мадана-гопала из Махаваны. = @sanatana-gosvami F354."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F16"
+  ],
+  "note": "B 174: три служения Гопинатхе — Абхирама (Кханакул), Гададхара (Пури), Мадху Пандит (Врадж). = @abhirama F53."
+ },
+ {
+  "from": "@madhu-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F4",
+   "F19b"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 12.87 (ветвь Гададхары, шрипат Саимбона, установил Гопинатху) и Мадхья 18.49–52 (цитата БР 6.511)."
+ },
+ {
   "from": "@madhvacharya",
   "type": "sannyasa-guru",
   "who": "@achyutapreksha",
