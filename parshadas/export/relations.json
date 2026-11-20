@@ -13676,6 +13676,239 @@
   "note": "B 809 (гл. о Мукунде Датте) — упомянут как знаменитый дигвиджайи, чью учёность Махапрабху мог превзойти."
  },
  {
+  "from": "@krishnadasa-mathura",
+  "type": "guru",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "I1",
+   "I4"
+  ],
+  "events": [
+   "ev-krishnadasa-mathura-guide"
+  ],
+  "note": "Мадхавендра посетил его дом в Матхуре, дал мантру, принял в ученики и ел у него, видя в нём вайшнава (ЧЧ Мадхья 17.166–168, 180). = @madhavendra-puri F83, F125–F128, F279, F283."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F17",
+   "F21",
+   "F22",
+   "F23",
+   "F27",
+   "F29",
+   "F31",
+   "F34",
+   "F37",
+   "F38",
+   "F42",
+   "F44",
+   "F46",
+   "F48",
+   "F50",
+   "F52",
+   "F56",
+   "F61",
+   "F62",
+   "I2"
+  ],
+  "events": [
+   "ev-arrival-mathura",
+   "ev-krishnadasa-mathura-guide",
+   "ev-mathura-sightseeing",
+   "ev-parrots-vrindavana",
+   "ev-akrura-tirtha-imli-tala",
+   "ev-akrura-ghata-fall",
+   "ev-pathans-ramadasa",
+   "ev-soro-to-prayaga"
+  ],
+  "note": "Плясал с Господом у Кешавы; Господь поклонился ему как духовному брату Своего гуру (ЧЧ 17.169–170, ⚠Б2) и по примеру Мадхавендры велел ему самому готовить (17.177–187, ⚠Б1); показал Господу святыни Матхуры и шёл с Ним по двенадцати лесам (17.190–192); заботился о Нём в обмороках (17.219–225); вместе с Балабхадрой увёл Господа из Враджа (18.139–158); защитил спутников от патханов (18.167–171); проводил до Праяги (18.214–218)."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "co-worker",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F25",
+   "F28",
+   "F30",
+   "F42",
+   "F48",
+   "F49",
+   "F50",
+   "F51",
+   "F55",
+   "F62"
+  ],
+  "events": [
+   "ev-krishnadasa-mathura-guide",
+   "ev-akrura-ghata-fall",
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Балабхадра объяснил ему связь Господа с Мадхавендрой (ЧЧ 17.174); вместе заботились о Господе (17.219–224); наедине посоветовались увести Господа к Ганге и Праяге (18.139–147, ⚠4, ⚠5). = @balabhadra-bhattacharya F25–F27, F32, F34–F36, F38, F40."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "companion",
+  "who": "@krishnadasa-rajput",
+  "facts": [
+   "F48",
+   "F49",
+   "F52",
+   "F55",
+   "F56",
+   "F61",
+   "F62"
+  ],
+  "events": [
+   "ev-akrura-ghata-fall",
+   "ev-pathans-ramadasa",
+   "ev-soro-to-prayaga"
+  ],
+  "note": "Вдвоём знали дорогу вдоль Ганги и шли проводниками (ЧЧ 18.158); оба не испугались патханов (18.167); вместе упросили Господа взять их до Праяги (18.215–218). Тёзка, не путать."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "opposed",
+  "who": "@bijli-khan",
+  "facts": [
+   "F54",
+   "F55",
+   "F56",
+   "F57",
+   "F58",
+   "F59"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Отряд Биджли Хана схватил четверых спутников Господа; брахман бесстрашно объяснил, что санньяси — его гуру (ЧЧ 18.168–171; по B — вместе с раджпутом, ⚠7). = @bijli-khan F9–F13."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "met",
+  "who": "@ramadasa-pathan",
+  "facts": [
+   "F60"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Лишь присутствие при споре Господа с пиром (ЧЧ 18.185–207)."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F6",
+   "F38"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Мадхья 17.179 — о санодия-брахманах; к 17.192 — двенадцать лесов."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F32",
+   "F44",
+   "F46",
+   "I3"
+  ],
+  "note": "«Анубхашья» к ЧЧ Мадхья 17.179–183, 18.69, 18.129: чистый преданный, утверждённый в дайва-варнашраме; дом ученика Мадхавендры; даёт жителям Матхуры послужить Господу."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F19",
+   "F35",
+   "F39",
+   "F41",
+   "F47"
+  ],
+  "note": "Мурари 4.2–4.13 называет его Кришнадасом и описывает как проводника Господа по Матхура-мандале (⚠1)."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F20",
+   "F35",
+   "F40",
+   "F41",
+   "F47"
+  ],
+  "note": "Лочан, Шеша-кханда, «Господь видит Вриндаван», 48–64, 85–418 — брахман Кришнадас (⚠1, ⚠9)."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@raghava-gosvami-govardhana",
+  "facts": [
+   "F64"
+  ],
+  "note": "«Бхакти-ратнакара» 5.163–169: показывает Шринивасе и Нароттаме место, где он жил и где Господь принял бхикшу."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F64"
+  ],
+  "note": "Плакал и катался в пыли двора его дома (БР 5.170–171)."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F64"
+  ],
+  "note": "Там же (БР 5.170–171)."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F64",
+   "F65"
+  ],
+  "note": "«Бхакти-ратнакара» 5; «Намамрита-самудра» 215 — молитва к нему о пребывании в Матхура-мандале."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F66"
+  ],
+  "note": "T 168: Санатана обошёл двенадцать лесов с Субуддхи и санория-брахманом — по ЧЧ Мадхья 25.204–208 только с Субуддхи (⚠8). = @sanatana-gosvami F249."
+ },
+ {
+  "from": "@krishnadasa-mathura",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "Q1",
+   "Q2",
+   "Q3"
+  ],
+  "note": "Описал встречу в ЧЧ Мадхья 17–18 (T 100)."
+ },
+ {
   "from": "@kurma-vipra",
   "type": "guest",
   "who": "@mahaprabhu",
