@@ -84,6 +84,8 @@ def sarga(path, lang, full):
             p = para.strip()
             if not p or p == '---':
                 continue
+            if p.startswith('## '):          # рабочие разделы в конце файла («Что дальше»)
+                break
             if p.startswith('```'):
                 ls = p.splitlines(); end = next((i for i in range(1, len(ls)) if ls[i].startswith('```')), len(ls))
                 deva.append('\n'.join(ls[1:end]))
