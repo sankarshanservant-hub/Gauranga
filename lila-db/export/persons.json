@@ -4323,6 +4323,10 @@
     "type": "met"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "guest"
+   },
+   {
     "from": "@kashishvara",
     "type": "served-by"
    },
@@ -23722,6 +23726,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "met"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -24621,6 +24629,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@kashi-vipra-host",
+    "type": "met"
    },
    {
     "from": "@kashishvara",
@@ -32741,6 +32753,10 @@
     "type": "met"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "companion"
+   },
+   {
     "from": "@prakashananda-sarasvati",
     "type": "other"
    },
@@ -33037,6 +33053,10 @@
     "type": "other"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "companion"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "companion"
    },
@@ -33111,6 +33131,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "met"
+   },
+   {
+    "from": "@kashi-vipra-host",
+    "type": "companion"
    },
    {
     "from": "@prakashananda-sarasvati",
@@ -38467,6 +38491,10 @@
     "type": "father"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "met"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -43500,6 +43528,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "other"
+   },
+   {
     "from": "@kavi-karnapura",
     "type": "other"
    },
@@ -47893,6 +47925,10 @@
     "type": "other"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "other"
+   },
+   {
     "from": "@keshava-kashmiri",
     "type": "other"
    },
@@ -48157,6 +48193,10 @@
    },
    {
     "from": "@kamalakara-pippalai",
+    "type": "other"
+   },
+   {
+    "from": "@kashi-vipra-host",
     "type": "other"
    },
    {
@@ -53250,6 +53290,10 @@
     "type": "other"
    },
    {
+    "from": "@kashi-vipra-host",
+    "type": "other"
+   },
+   {
     "from": "@kurma-vipra",
     "type": "other"
    },
@@ -57241,6 +57285,10 @@
   ],
   "related_by": [
    {
+    "from": "@kashi-vipra-host",
+    "type": "met"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -57278,6 +57326,97 @@
    "ev-varanasi-sannyasis",
    "ev-return-to-puri-from-vrindavana",
    "ev-rupa-gauda-anupama-passing"
+  ],
+  "summary": "происхождение — Каши (Варанаси)",
+  "card": "parshadas/cards/kashi-vipra-host.yaml",
+  "article": {
+   "ru": "parshadas/ru/kashi-vipra-host.md",
+   "en": "parshadas/en/kashi-vipra-host.md"
+  },
+  "kind": "associate",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники не сообщают; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20) дня явления нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники об уходе ничего не сообщают; в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет",
+    "facts": []
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "guest",
+    "who": "@mahaprabhu",
+    "note": "Каждый день приходил видеть Господа (Мадхья 17.101); Господь «сделал его Своим» (17.146) и явил ему милость (19.253). Вдохновлённый Самим Господом (Ади 7.57), пригласил Его в свой дом вместе со всеми санньяси Каши; Господь принял приглашение ради милости к ним (Ади 7.52–58, 7.151 — трапеза; Мадхья 25.7–16). Принёс Господу весть об обращении Пракашананды (25.58–60), рассказал собранию о 61 толковании «атмарамы» (25.153), провожал Господа из Варанаси и был отослан с обещанием: «приходите потом в Пури» (25.170–174). По Бхактивиноде — слуга Махапрабху (F3)."
+   },
+   {
+    "type": "met",
+    "who": "@prakashananda-sarasvati",
+    "note": "Рассказал ему о величии Господа и услышал насмешки (ЧЧ Мадхья 17.105–121); пригласил его с прочими санньяси в свой дом (Ади 7.52–58); после его обращения передал Господу его слова в пользу бхакти (Мадхья 25.57–60). У M — иначе (⚠2). = @prakashananda-sarasvati F16–F19, F21–F22, F40, F47."
+   },
+   {
+    "type": "companion",
+    "who": "@tapana-mishra",
+    "note": "Вместе служили Господу в Каши; вместе (по контексту) провожали Его в Матхуру и пели о Нём в разлуке (Мадхья 17.147–148, ⚠11); провожали Господа из Варанаси (25.172); встретили Рупу (25.210)."
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-vaidya",
+    "note": "У M вместе пришли поклониться Господу (M 149); проводы и разлука (Мадхья 17.147–148, 25.172); встреча с Рупой (25.210)."
+   },
+   {
+    "type": "companion",
+    "who": "@paramananda-kirtaniya",
+    "note": "Среди пятерых, провожавших Господа из Варанаси (ЧЧ Мадхья 25.172)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-bhatta",
+    "note": "Среди пятерых, провожавших Господа из Варанаси (ЧЧ Мадхья 25.172); у M вместе служили Господу (M 149)."
+   },
+   {
+    "type": "met",
+    "who": "@sanatana-gosvami",
+    "note": "Господь познакомил их; брахман просил Санатану, пока тот в Каши, каждый день принимать пищу у него, но Санатана выбрал мадхукари (ЧЧ Мадхья 20.79–82; B 420; T 166). = @sanatana-gosvami F113."
+   },
+   {
+    "type": "met",
+    "who": "@rupa-gosvami",
+    "note": "Рупа с Анупамой в Каши встретили его, Чандрашекхару и Тапану Мишру (ЧЧ Мадхья 25.209–212; B 308, 445). = @rupa-gosvami F151."
+   },
+   {
+    "type": "met",
+    "who": "@anupama",
+    "note": "Вместе с Рупой (ЧЧ Мадхья 25.209–210)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Основной рассказ — ЧЧ Ади 7.52–152, Мадхья 17.101–148, 19.253, 20.79–82, 25.7–174, 25.209–212; в Мадхья 25 — кратко, с отсылкой к Ади 7 (25.6, 16–17)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к Мадхья 17 и 25: «брахман из Махараштры был слугой Махапрабху»; он же — рассказавший Пракашананде (Мадхья 17); Господь запретил ему общаться с майявади (⚠9)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Подзаголовки «Анубхашьи» к Мадхья 17.101–148, 19.253, 20.79–80, 25.7–16, 25.58–60, 25.153, 25.171–174; к Ади 7.64 — дхарма амани-манада (⚠Б5)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-deva-kavi",
+    "note": "«Гаура-кришнодая» 16.29 — Господь пришёл к санньяси ночью «по чьему-то приглашению», хозяин не назван (⚠8)."
+   }
   ],
   "related_by": [
    {
@@ -60152,6 +60291,10 @@
    "ev-return-to-puri-from-vrindavana"
   ],
   "related_by": [
+   {
+    "from": "@kashi-vipra-host",
+    "type": "companion"
+   },
    {
     "from": "@prakashananda-sarasvati",
     "type": "other"
