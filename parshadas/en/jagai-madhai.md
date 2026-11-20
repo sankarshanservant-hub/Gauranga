@@ -518,7 +518,7 @@ them among Nityananda's branch at a memorial festival in Katwa, after the Lord's
 “Chaitanya-bhagavata” nor the “Charitamrita” knows of this. <!-- F49 -->
 
 A place where the brothers are remembered is named by Srila Bhaktisiddhanta Sarasvati in the “Anubhashya” to the
-“Charitamrita” (Adi 10.120). Madhai, he writes, has descendants, kulina brahmanas; and on the road to Akaihat, a mile south
+“Charitamrita” (Adi 10.120). Madhai, he writes, has descendants, kulina brahmanas; and on the road to Akai Hat, a mile south
 of Katwa, in the village of Ghoshahat, or Madhaitala, stands the samadhi of Jagai and Madhai; it is said that some two
 hundred years ago Gopicharana Dasa Babaji restored the place and installed Deities of Sri Nitai-Gaura there. <!-- F80 -->
 
