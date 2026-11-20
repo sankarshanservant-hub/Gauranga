@@ -71,7 +71,7 @@ Nityananda, the all-merciful saviour of the fallen, and Haridasa wept at heart. 
 
 “Boundless is the glory of Sri Nityananda Prabhu. He descended to deliver the fallen souls.” (CB, Madhya 13.62)
 
-Nityananda was especially merciful to them because He saw their fall. He told Haridasa His intention and asked him to
+Seeing their fall, Nityananda was filled with special mercy for them. He told Haridasa His intention and asked him to
 help:
 
 “O Haridasa, see how wretched they are! Born brahmanas, they have fallen so low. They will never escape the punishment
@@ -120,12 +120,12 @@ a pious brahmana, born here, but bad company has spoiled them, and from childhoo
 and robbery (CB, Madhya 13.120–125). Mahaprabhu said: it does not befit a brahmana to drink wine; to live by robbery and
 to chase Vaishnavas is not the dharma of a brahmana. <!-- F14 F15 -->
 
-“I know them,” the Lord went on. “If they come here, I shall tear them to pieces.” Nityananda answered:
+“I know them,” the Lord went on. “If they come here, I shall tear them to pieces.” But Nityananda objected:
 
-“‘You may tear them to pieces,’ said Nityananda, ‘but while they are there I shall go nowhere. Why do You boast? First try
-to make them chant the name of Govinda. The pious chant Krishna's names by themselves, but these two know nothing but
-sinful deeds. If You deliver these two and bring them to the service of God, then You will be known as Patita-pavana,
-the Deliverer of the Fallen.’” (CB, Madhya 13.127–130)
+“You may tear them to pieces… but while they are there I shall go nowhere. Why do You boast? First try to make them chant
+the name of Govinda. The pious chant Krishna's names by themselves, but these two know nothing but sinful deeds. If You
+deliver these two and bring them to the service of God, then You will be known as Patita-pavana, the Deliverer of the
+Fallen.” (CB, Madhya 13.127–130)
 
 While the brothers live and run riot, Nityananda says, He will not be able to carry out the Lord's command:[^4] to bring
 the pious to the name is easy, but to deliver such as Jagai and Madhai — that is glory truly worthy of the name
@@ -239,9 +239,9 @@ Jagai and Madhai (13.224–225). <!-- F30 -->
 
 Then the Lord said to them:
 
-“The Lord said: ‘Listen, both of you. Today I have delivered you. I take upon Myself all the sinful deeds you have
-committed in millions of past lives — but only on condition that you never give yourselves to sin again. I shall be
-manifest in your bodies and shall eat through your mouths.’” (CB, Madhya 13.226–228)
+“Listen, both of you. Today I have delivered you. I take upon Myself all the sinful deeds you have committed in millions
+of past lives — but only on condition that you never give yourselves to sin again. I shall be manifest in your bodies and
+shall eat through your mouths.” (CB, Madhya 13.226–228)
 
 Sin cannot touch the Lord. “The mighty are not stained” by what would stain others, says the “Bhagavatam” (10.33.29–30):
 so fire consumes everything and remains pure. In accepting the brothers' sins the Lord does not take their guilt upon
@@ -291,8 +291,7 @@ associates. <!-- F34 F75 -->
 The brothers clasped the feet of each of the devotees and begged for blessings, and all blessed them (13.293–294). Then
 the Lord said:
 
-“‘Jagai and Madhai, rise,’ said the Lord. ‘You have nothing more to fear, for from now on you are My servants.’”
-(CB, Madhya 13.295)
+“Jagai and Madhai, rise… You have nothing more to fear, for from now on you are My servants.” (CB, Madhya 13.295)
 
 All that they had felt, the Lord said, was solely by the mercy of Nityananda; I Myself have taken away the consequences of
 your sins (13.297–298). And as a sign that no sin remained on them, the Lord's body turned black. “How do I look?” He asked.
@@ -371,14 +370,15 @@ Chaitanya than You; and I wounded this divine body! (15.20–62). Nityananda smi
 little son? So I have taken the blows you dealt Me.” (CB, Madhya 15.64–65)
 
 Nityananda saw no fault in him at all: “My Lord has shown you mercy, and so not a shadow of sin remains on you” (15.67) —
-and He embraced him. <!-- F41 F42 -->
+and He embraced him. The words “I am manifest in your body” again speak of the power with which Nityananda had invested
+him. <!-- F41 F42 -->
 
 ## Madhai's Ghat
 But Madhai asked again: “You dwell in the hearts of all living beings, and I have caused pain to many of them. I do not
 even remember all who suffered from me. How can I receive their blessings?” (15.71–75). Nityananda replied:
 
-“The Lord answered: ‘Listen to what I tell you. You must build a ghat, a bathing place on the bank of the Ganga. Bathing
-happily in the waters of the Ganga, people will always bless you.’” (CB, Madhya 15.76–77)
+“Listen to what I tell you. You must build a ghat, a bathing place on the bank of the Ganga. Bathing happily in the waters
+of the Ganga, people will always bless you.” (CB, Madhya 15.76–77)
 
 And He told him to bow humbly before everyone (15.79). From then on Madhai every day, in tears, chanting “Krishna,
 Krishna,” built the ghat and served it, prostrated himself before all who came to bathe, and begged forgiveness for the
@@ -523,9 +523,8 @@ eternal witness that for the mercy of Gaura and Nitai no one is unworthy. <!-- F
     Bandyopadhyaya. We follow the primary sources — the “Gaura-ganoddesha-dipika” (115), Murari Gupta (2.13.17), the
     “Chaitanya-chandrodaya” (1.38) and the “Prema-vilasa” — where the brothers are Jagannatha and Madhava.
 [^2]: The “Prema-vilasa” calls them “the rajas of Nadia,” and a 1925 eyewitness in one biography “the constables of
-    Navadvipa.” The brothers are sometimes called the town's watchmen (kotwals) on the authority of the
-    “Chaitanya-bhagavata”; but the verse Madhya 13.34 says rather the opposite: they never appeared before the court and
-    feared neither the king's punishment nor the town watch. We call them simply brothers of a respectable brahmana family.
+    Navadvipa.” Of authority the “Chaitanya-bhagavata” says only that they never appeared before the court and feared
+    neither the king's punishment nor the town watch (Madhya 13.34). We call them simply brahmana brothers of a noble family.
 [^3]: One biography by a slip of the pen prints “the father of a pious brahmana”; according to CB, Madhya 13.122 they are
     the sons of a pious brahmana.
 [^4]: So the “Gaudiya-bhashya” (on 13.127) understands this verse too: “while they live.”
