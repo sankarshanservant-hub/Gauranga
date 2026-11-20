@@ -152,11 +152,12 @@ the Kalwars and Sanovars are called Sanodiya brahmanas; the Sanovars are dealers
 sannyasis do not eat in their houses. The biographies give this explanation almost word for word.[^7] <!-- F6 F7 Q4 -->
 
 This reasoning concerns the social standing of a family by birth, not a judgment of the brahmana himself. He is a
-Vaishnava, a disciple of Madhavendra, and one of the biographies calls him outright “a pure brahmana.” Srila
-Bhaktisiddhanta Sarasvati writes of him that this brahmana was a pure devotee: although by caste rules one was not to
-accept even water from his hands, he was established in the truth and in *daiva-varnashrama*, which is favourable to
-pure bhakti. And those who judge devotees by worldly caste — by *adaiva-varnashrama* — or who disparage maha-prasada, the
-Lord without hesitation called wicked fools. <!-- I3 Q5 -->
+Vaishnava, a disciple of Madhavendra, and one of the biographies calls him outright “a pure brahmana.” And Srila
+Bhaktisiddhanta Sarasvati, speaking of how Sri Chaitanya regarded caste distinctions, writes that the Lord never saw
+caste in His devotees: He did not take food from non-devotees who merely called themselves brahmanas, but from
+Vaishnava brahmanas, from brahmanas who chanted a lakh of Hari's names, and even from the hand of a Sanodiya, from whom by
+custom not even water was accepted, He accepted food, seeing their devotion to Hari and regarding them as brahmanas whose
+food may be eaten (“Sri Chaitanya-darshane,” p. 635). <!-- F69 -->
 
 The brahmana answered the Lord humbly:
 
@@ -165,9 +166,12 @@ people will censure You, and I will not be able to bear the words of those wicke
 <!-- F31 -->
 
 He spoke the truth: the Lord is bound by no rules. And he feared not for himself but for the Lord's good name: by the
-custom of the time fools would revile a sannyasi who had eaten in a Sanodiya's house. Srila Bhaktisiddhanta explains why
-the brahmana fearlessly calls such people fools and wicked: they are those who oppose the Lord and pure bhakti and see
-caste in a Vaishnava. <!-- F32 -->
+custom of the time fools would revile a sannyasi who had eaten in a Sanodiya's house. Srila Bhaktisiddhanta explains in
+the “Anubhashya” why the brahmana speaks so. This pure devotee did not by birth belong to those from whose hands water
+is accepted, yet he was established in the truth and in *daiva-varnashrama*, which is favourable to bhakti — and
+therefore, without fear or hesitation, he called “fools” and “wicked” the followers of *adaiva-varnashrama*, the worldly
+caste order: those who oppose Mahaprabhu and pure bhakti, see caste in a Vaishnava and quarrel about maha-prasada.
+<!-- F32 I3 Q5 -->
 
 And yet the Lord, free from all rules, follows for the people's instruction the conduct of the great devotees. He
 replied:
@@ -250,8 +254,8 @@ delivers them. <!-- F46 -->
 
 ## Krishnadasa in Murari Gupta and Lochana Dasa
 Murari Gupta and Lochana Dasa tell of the Lord's guide in Vraja at much greater length than Kaviraja Gosvami. In Murari,
-hearing his answer, the Lord says: “It is you who are truly a servant of Krishna: you know all the secret pastimes of Sri
-Krishna's abode — tell them.” Krishnadasa asks, “Place Your feet in my heart and reveal Your own Madhu-mandala,” and the
+hearing his answer, the Lord says: “It is you who are truly a servant of Krishna. For you know all the secret pastimes of Sri
+Krishna's abode — tell them, O best of men!” Krishnadasa asks, “Place Your feet in my heart and reveal Your own Madhu-mandala,” and the
 Lord answers in a voice as deep as a thundercloud:
 
 “‘By My command may the pastimes of Sri Krishna and the holy places shine forth to you with ease on every side.’”
@@ -396,8 +400,18 @@ of Gauranga. “Here Gaurachandra danced, rapt in love; countless people came, a
 all knew Him to be the son of the king of Vraja,” Raghava told them; and Srinivasa and Narottama, listening, wept and
 rolled in the dust of the brahmana's courtyard (“Bhakti-ratnakara” 5.163–171). <!-- F64 -->
 
-The same Narahari Chakravarti, in the “Namamrita-samudra,” where his prayers call upon the Lord's associates, turns to
-him as well:
+Further on, as he guided them through Vraja, Raghava recalled him twice more. At Raval he told Srinivasa that
+Gaurachandra with His companions, coming from Gokula, had stayed there, while people came running, called out “Hari!”
+and said, “This is surely Krishna — in this form He wanders through Vraja as He pleases”; and, “having shown here a
+pastime beyond this world, the Lord went to Mathura with that Sanodiya” (5.1828–1835). <!-- F67 --> And at Imli-tala
+Raghava told how the Lord, under the cover of a sannyasi, came into the Mathura-mandala and, taking the Sanodiya vipra of
+Mathura with Him, wandered through Vraja in the rapture of bhakti with great joy: about the pastimes He Himself had once
+performed He asked everyone as though He did not know — so sweet it was to Him to hear of them from others' lips
+(5.2225–2228). This is the same play of which Murari and Lochana speak: Krishna Himself “asks” about His own pastimes
+for the sweetness of hearing of them from His devotees. <!-- F68 -->
+
+In the “Namamrita-samudra” the same Narahari Chakravarti, among the prayers in which he asks the Lord's associates for
+Vaishnava virtues and for faithfulness to the holy land, turns to him as well — with a prayer for Mathura:
 
 “O best of the twice-born, disciple of Madhavendra, dear to Gaura! Grant [me] unceasing residence in the
 Mathura-mandala.” (“Namamrita-samudra” 215)
