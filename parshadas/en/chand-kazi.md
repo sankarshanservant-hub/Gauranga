@@ -110,7 +110,9 @@ come to give the world sankirtana:
 Vrindavana Dasa tells that when the Lord heard of the obstacle to the kirtana, He blazed with anger like Rudra: "Today I
 shall hold kirtana throughout Navadvipa. Let Me see who will do anything to Me! Today let Me see — I shall burn the
 Kazi's house and door. Let Me see what his king will do! Today I shall pour down a vast rain of prema-bhakti" (CB,
-Madhya 23.118, 121–123). This anger is no worldly enmity, nor enmity towards Muslims. Srila Bhaktisiddhanta explains
+Madhya 23.118, 121–123). This anger is no worldly enmity, nor enmity towards Muslims: the Lord rises against the
+opposition to the sankirtana, and the fruit of His anger, as the story will show, is mercy to the Kazi. Srila
+Bhaktisiddhanta explains
 that the teaching to be "humbler than grass" does not mean looking on indifferently while the service of Krishna is
 opposed; and the rain of prema-bhakti that the Lord promises is, for the unbelievers, the very death of their
 unbelief.[^6] <!-- F13 Q4 -->
@@ -236,7 +238,7 @@ else:
 became young once more, so this was not killing but a kindness. In the age of Kali the brahmanas have no such power,
 and so now no one kills cows.” (CC, Adi 17.161–163)
 
-The Lord quoted a verse of the “Brahma-vaivarta Purana”: in the age of Kali five things are forbidden — the horse
+The Lord quoted a verse of the “Brahma-vaivarta Purana”: five things are forbidden in the age of Kali — the horse
 sacrifice, the cow sacrifice, sannyasa, the offering of flesh to the forefathers, and the begetting of a son by the
 husband's brother (CC, Adi 17.164). And He concluded:
 
@@ -255,7 +257,7 @@ You have said, Pandita, is true. Our scriptures are recent and cannot stand up t
 These are the Kazi's own words. Srila Bhaktisiddhanta explains their sense: "recent" means arisen in time, whereas the
 Veda is eternal and not made by man (*apaurusheya*); "invented" means born of the mind; and *jati* is the community the
 Kazi belonged to, and loyalty to it. Srila Bhaktivinoda in the “Amrita-pravaha-bhashya” develops the same thought: all
-these books have a beginning, none is beginningless like the word of the Vedas, and so arguments that lack a firm root
+these books have a beginning, none is without beginning as the word of the Vedas is, and so arguments that lack a firm root
 are open to doubt; there too he names three scriptures of the yavanas — the ancient book of the Jews, the Koran and the
 Bible. One of the biographies puts this explanation into the Kazi's own mouth.[^13] The Lord had not come to the Kazi to
 win a debate: He was leading him to the holy name. <!-- F27 F28 -->
@@ -271,7 +273,7 @@ speak in private, I shall tell You the reason." The Lord said, "These people are
 fear" (CC, Adi 17.175–177). <!-- F30 -->
 
 And the Kazi told his dream. On the night when he had entered a Hindu's house, broken the mridanga and forbidden the
-sankirtana, there came to him a most terrible lion, with the body of a man and the face of a lion, roaring mightily. It
+sankirtana, there came to him a most terrible lion, with the body of a man and the face of a lion, roaring mightily. He
 leapt upon the sleeping Kazi:
 
 “Pressing his claws into my chest, he said in a dreadful voice, ‘I will tear your chest open in return for the
@@ -316,7 +318,7 @@ Hindus' God? And one of them answered:
 Haridasa, and they were forever saying "Hari! Hari!" — I thought they meant to steal someone's wealth. Ever since then
 my tongue keeps saying "Hari! Hari!" I do not want it to, yet it says it — what can I do?’” (CC, Adi 17.198–200)
 
-Srila Bhaktivinoda explains his jest: in Bengali *hari* also means "I steal", and so the Muslim decided that those who
+Srila Bhaktivinoda explains his jest: in Bengali *hari* can also mean "I steal", and so the Muslim decided that those who
 kept saying "Hari" were planning to steal someone's goods. Another Muslim confessed that his tongue too, after he had
 mocked the Hindus, kept repeating the name of Krishna without stopping, and he could not understand what spells and
 herbs the Hindus knew (CC, Adi 17.201–202). Yet this is not sorcery but the power of the name itself. Srila
@@ -419,7 +421,7 @@ utter the name of Hari: the servant walks the path of his Master.[^19] <!-- I3 -
 [^1]: One of the biographies gives only the first name: "Sirajuddin Chand Kazi".
 [^2]: The sources differ as to where the Kazi broke the mridanga. According to the “Chaitanya-bhagavata”, he was passing
     along the road; according to the “Charitamrita” (Adi 17.125), he came "to one house". One of the biographies writes
-    that he came to Srivasa's house, broke a mridanga there and had several devotees beaten as a warning; another, that
+    that he came to Srivasa's house, broke a mridanga there and had some of the devotees beaten to frighten the rest; another, that
     the Kazi, hearing the talk of Nityananda's preaching and the noise of the kirtana, broke the mridanga of the
     sankirtana. We follow the original sources.
 [^3]: According to the “Bhakti-ratnakara” (12.3089), it was the unbelievers who informed the Kazi; according to the
@@ -434,7 +436,7 @@ utter the name of Hari: the servant walks the path of his Master.[^19] <!-- I3 -
     Vaishnavas.
 [^6]: The words "Today I shall destroy all the Muslims" (literally, "all the yavanas", CC, Adi 17.130) and "I shall
     burn the Kazi's house" (CB, Madhya 23.122, 388–405) are the play of the Lord protecting the sankirtana, not worldly
-    enmity towards Muslims. The opponent here is the opposition to the kirtana. In the same chapter of the
+    enmity towards Muslims. In the same chapter of the
     “Charitamrita” Muslims repeat the Lord's names in spite of themselves (17.198–202), and Haridasa Thakura, born in a
     Muslim family, is one of Mahaprabhu's closest associates. The devotees remind the Lord that He is free from anger
     (CB, Madhya 23.406–414), and He smiles and goes on with the kirtana; and the outcome of His anger is mercy to the
@@ -443,7 +445,7 @@ utter the name of Hari: the servant walks the path of his Master.[^19] <!-- I3 -
     rear (Madhya 23.141–143). In the “Bhakti-ratnakara” (12.3092–3095) there are the companies of Advaita, Haridasa,
     Srivasa, the Lord with Nityananda and Gadadhara, and Vakreshvara; in the “Gaura-krishnodaya” (5.43) Advaita goes in
     front, Nityananda the avadhuta behind, and Haridasa dances in the middle. One of the biographies says that the Lord
-    led the procession along the bank of the Ganga, Himself dancing at its head; but according to the “Charitamrita” He
+    took the procession along the Ganga's bank and danced in front of it Himself; but according to the “Charitamrita” He
     was in the last group, and according to the “Chaitanya-bhagavata” (Madhya 23.425) the devotees danced in front and
     He followed. We follow the “Charitamrita”.
 [^8]: One of the biographies, writing of Jagadisha, refers here to "“Chaitanya-bhagavata”, Madhya 13.150"; the correct
