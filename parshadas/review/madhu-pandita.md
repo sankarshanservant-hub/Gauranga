@@ -91,7 +91,7 @@
    `GLOSSARY.md` (стр. 70 — с пояснением о двух формах; 229; 712); статьи RU/EN `gadadhara-pandita` (с оговоркой «в жизнеописаниях — Ядунатха
    Дас»), `chandrashekhara-acharya` (то же), `uddhava-dasa-gadadhara` (сн. 2 дополнена: «мы следуем “Анубхашье”»), `abhirama` (сн. 13),
    `srivasa`; карточки `gadadhara-pandita.yaml`, `chandrashekhara-acharya.yaml` (`cards.py` → 0 ошибок, `lila-db/build.py` → 0); `lila-db/PERSONS.md`
-   @yadunatha-dasa-shakha — «Ядунандана Дас (Ядунатха Дас)» (тег не менялся). Реестры (`facts/*.md`) не трогал: там записано, как у T и B.
+   @yadunandana-dasa-shakha — «Ядунандана Дас (Ядунатха Дас)» (тег не менялся). Реестры (`facts/*.md`) не трогал: там записано, как у T и B.
    PDF пересобраны: Uddhava-Dasa (4 с.), Chandrashekhara-Acharya (9), Abhirama-Thakura (13), Srivasa (22).
 3. **НВ 2.272** — правка этапа Б верна: изд. Кишори Даса 2007 «শ্রীমধু পণ্ডিত গোস্বামীরে জানাইলা ॥২৭২» (дательный падеж), 2.273 «নরোত্তম পড়িলা
    গোস্বামী পদতলে। তেঁহো মহাহৃষ্ট হৈয়া করিলেন কোলে», англ. перевод — «Sri Jiva introduced Narottama to Sri Madhu Pandita»; RU/EN книги и
@@ -109,6 +109,6 @@
 - `PLAN.md`: @madhu-pandita (102) → `✓ сплошная`.
 
 ### Вопросы пользователю
-- Обязательных нет. Предложение: тег `@yadunatha-dasa-shakha` при следующей чистке тегов переименовать в `@yadunandana-dasa-shakha` (имя в
+- Обязательных нет. Предложение: тег `@yadunandana-dasa-shakha` при следующей чистке тегов переименовать в `@yadunandana-dasa-shakha` (имя в
   PERSONS уже «Ядунандана Дас (Ядунатха Дас)»); не путать с @yadunandana-dasa-author (автор «Карнананды», ученик Хемалаты) — тождество двух
   Ядунандан источники не подтверждают.

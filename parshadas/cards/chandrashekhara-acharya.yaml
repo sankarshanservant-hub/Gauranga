@@ -56,7 +56,7 @@ relations:
   - {type: other, who: "@damodara-pandita", facts: [F36, F52], note: "Вместе возглавили преданных, шедших в Катву («Чайтанья-мангала»; M 89)."}
   - {type: other, who: "@malini", facts: [F11], note: "Его жена вместе с Малини пришла к Шачи при рождении Господа (B 143; ЧЧ Ади 13.110)."}
   - {type: other, who: "@ishvara-puri", facts: [F12], event: ev-gaya-ishvara-puri-initiation, note: "Только M 53: был рядом при встрече Господа с Ишварой Пури в Гае."}
-  - {type: other, who: "@yadunatha-dasa-shakha", facts: [F4, F5], note: "Автор «Шакха-нирнаямриты», источник о его месте явления и отождествлении (T, B)."}
+  - {type: other, who: "@yadunandana-dasa-shakha", facts: [F4, F5], note: "Автор «Шакха-нирнаямриты», источник о его месте явления и отождествлении (T, B)."}
   - {type: other, who: "@bhaktisiddhanta", facts: [F2, F31, F32, F33], note: "Основал Шри Чайтанья Матх на месте его дома (Враджапаттана), 1918 (T)."}
 identities:
   - in: other

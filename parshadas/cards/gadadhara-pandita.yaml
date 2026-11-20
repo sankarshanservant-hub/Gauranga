@@ -68,7 +68,7 @@ relations:
   - {type: disciple, who: "@bhagavata-dasa-gadadhara", facts: [F75]}
   - {type: disciple, who: "@ananta-acharya", facts: [F78, F79, F80], note: "Его ученик — Харидас Пандит; по Анубхашье — Судеви (B 964)."}
   - {type: disciple, who: "@achyutananda", facts: [F81, Q13], note: "Ученик Гададхары по «Шакха-нирнаямрите» и B ≠ ученик Адвайты по Анубхашье."}
-  - {type: disciple, who: "@yadunatha-dasa-shakha", facts: [F82], note: "Автор «Шакха-нирнаямриты»."}
+  - {type: disciple, who: "@yadunandana-dasa-shakha", facts: [F82], note: "Автор «Шакха-нирнаямриты»."}
   - {type: disciple, who: "@uddhava-dasa-gadadhara", facts: [F83, Q13], note: "Ветвь Гададхары."}
   - {type: disciple, who: "@krishnadasa-brahmachari", facts: [F80], note: "Служитель Мадана-Гопалы (B 1095)."}
   - {type: disciple, who: "@paramananda-bhattacharya", facts: [F86], event: ev-gopinatha-madhu-pandita, note: "B: «Парамананда Госвами», любимый ученик; вместе с Мадху Пандитом обрёл Гопинатху у Вамшивата. Отождествление с @paramananda-bhattacharya — вероятно."}
