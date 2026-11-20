@@ -5,7 +5,7 @@
 Kavi Karnapura — the poet to whom the Gaudiya Vaishnavas owe the drama “Chaitanya-chandrodaya,” the list of the Lord's
 associates “Gaura-ganoddesha-dipika” and many other Sanskrit books on Sri Chaitanya — was the youngest son of Shivananda
 Sena, the same who year after year led the Bengali devotees to Puri. He has several names, and almost all of them he
-received from Mahaprabhu. His worldly name, given at the Lord's word, is Paramananda Dasa; so the “Charitamrita” calls him
+received from Mahaprabhu. The name given him at birth at the Lord's word is Paramananda Dasa; so the “Charitamrita” calls him
 (Antya 12.45, 49), and so he signs himself: “I, who bear the name Sri Paramananda Dasa” (“Gaura-ganoddesha-dipika” 5),
 “the poet Paramananda Dasa, favoured by Srinatha, the son of Shivananda Sena” (prologue of the “Chaitanya-chandrodaya”).
 But the Lord jokingly called the boy Puri Dasa (Antya 12.49; 16.65, 73), and the name speaks for itself: “the servant of
@@ -55,7 +55,7 @@ The boy was then still in his mother's womb, and was born when Shivananda return
 “By the Lord's order they named him Paramananda Dasa, and the Lord jokingly called him Puridasa.” (CC, Antya 12.49)[^4]
 <!-- F8 F9 Q2 -->
 
-At the time when Shivananda first showed the infant to the Lord, Mahaprabhu bestowed on him a mercy that shaped his whole
+When Shivananda first showed the infant to the Lord, Mahaprabhu bestowed on him a mercy that shaped his whole
 life:
 
 “When Shivananda presented that child, Mahaprabhu placed His big toe in the boy's mouth.” (CC, Antya 12.50)
@@ -221,10 +221,10 @@ Chaitanya. This book, Karnapura writes, should be kept hidden from disputants an
 have taken shelter of Gaura's feet (GGD 213); “this ‘Sri Gaura-ganoddesha-dipika’ has been composed by me” (GGD 214).
 <!-- F24 -->
 
-All later accounts of the Lord's associates rely on it as testimony: Svarupa Damodara is Vishakha, Gadadhara Pandita is
+Many later accounts of the Lord's associates rely on it as testimony: Svarupa Damodara is Vishakha, Gadadhara Pandita is
 Radha, Prabodhananda is Tungavidya, Kashishvara and Govinda are Bhringara and Bhangura, Saranga is Nandimukhi, and many
 more. Scenes from his drama are often cited as well — for example, the Lord's seven days in Madhava's house in Kuliya,
-Prataparudra's valour, Rupa — and songs from the great poem. <!-- F27 -->
+Prataparudra's valour, Rupa — and passages from the great poem. <!-- F27 -->
 
 ### “Ananda-vrindavana-champu” and Others
 The “Ananda-vrindavana-champu” is a large book in which prose alternates with verse, in twenty-two parts. It describes
