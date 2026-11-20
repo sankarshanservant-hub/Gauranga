@@ -198,7 +198,7 @@ B — вероятно, больше сотни).
 | @kashi-vipra-host (099, брахман из Махараштры) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @sita-thakurani (100) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @lakshmipriya (101) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @madhu-pandita (102) | ✓ | ✓ (PDF) | — |
+| @madhu-pandita (102) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @chand-kazi (103) | ✓ | ✓ (PDF) | — |
 | @jagai-madhai (104) | ✓ | ✓ (PDF) | — |
 

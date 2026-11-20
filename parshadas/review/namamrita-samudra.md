@@ -134,7 +134,7 @@
 | 27 | Локанатха | @lokanatha |
 | 28 | Бхагавата Мадхава Ачарья | @madhava-acharya-kavivallabha? |
 | 31 | Субуддхи Мишра, Рагхава, Камсари | @subuddhi-mishra, ?, @kamsari-sena? |
-| 34 | Мадху Пандит, Каши Мишра, Гангадас | @madhu-pandita, @kashi-mishra, ? |
+| 34 | Мадху Пандит, Каши Мишра, Гангадас | @madhu-pandita — внесено (F25), @kashi-mishra, ? |
 | 35 | Кашинатха, Харибхатта, Васу Рамананда | @kashinatha?, ?, @ramananda-vasu |
 | 36 | Карнапура | @kavi-karnapura — внесено (F35) |
 | 38 | Камалаканта | @kamalakanta-vishvasa? |
