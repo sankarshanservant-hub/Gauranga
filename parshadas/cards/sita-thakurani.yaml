@@ -1,0 +1,130 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/sita-thakurani.md и lila-db.
+id: "@sita-thakurani"
+names:
+  ru: "Сита Тхакурани"
+  en: "Sita Thakurani"
+  variants: ["Ситадеви", "Шри Сита Деви", "супруга (грихини) Адвайты", "жена Ачарьи (ачарьяни, ЧЧ)", "пативрата, джаган-мата, махасати, йогешвари (ЧБ)", "матушка Кришнадаса (ЧБ Антья 9.25)", "мать Сита (БР 4)"]
+  facts: [F1]
+kind: family
+circle: [elders, navadvipa]
+period: [P01, P02, P03, P04, P07, P09, P12, P14, P15]
+period_note: "Лично: свадьба с Адвайтой (P01; F5); дары и имя Младенцу (P02; F11–F18); детство Нимая — забота вместе с Шачи (P03–P04, по M; F19–F23); откровение и Шантипур («Йога-васиштха», P07; F24–F31); Шантипур после санньясы (P09; F32–F33); ежегодные приходы в Пури (P12–P14; F34–F35); благословение Шринивасе после сокрытия Господа (P15; F38). Поздние предания (ПВ, «Адвайта-пракаша») — лишь в рассказах (F44–F45)."
+life:
+  appearance:
+    date: ""
+    tithi: "Гаура-панчами Хришикеша-масы (≈ бхадра, шукла-панчами)"
+    place: ""
+    conf: "по календарю Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-20): «День явления Шри Ситы Деви, супруги Шри Адвайты Прабху» — в 2026 г. 16 сентября; T, M, B дат не дают; год и место явления неизвестны (Нараянапур — лишь ПВ 24, «Адвайта-пракаша»)"
+    facts: [F2, F44]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: "#shantipura?"
+    conf: "день, год и место ухода неизвестны; после Адвайты (F38) и до прихода Джахнавы в Шантипур по пути в Кхетури (M 66; F39); в календаре ШЧСМ (541/ru, проверено 2026-11-20) дня ухода нет"
+    facts: [F38, F39]
+origin:
+  places: []
+  family: ["@nrisimha-bhaduri", "@shri-thakurani"]
+  varna: "брахман (дочь брахмана-преданного Нрисимхи Бхадури)"
+  facts: [F2, F3]
+  note: "Родина в T, M, B не названа; Нараянапур (#narayanapura) близ Саптаграма — только ПВ 24.322–323 (ур. C) и «Адвайта-пракаша» (ур. D)."
+relations:
+  - {type: father, who: "@nrisimha-bhaduri", facts: [F2, F3, F44], note: "БР 12.≈1781–1785 (по B 1050); T 18; M 216, 220; в ЧЧ и ЧБ не назван."}
+  - {type: sibling, who: "@shri-thakurani", facts: [F3, F6, F44], note: "Сестра и вторая жена Адвайты; по ГГД 86 — её проявление (пракаша); по ПВ 24.325 — младшая."}
+  - {type: spouse, who: "@advaita", facts: [F3, F4, F5, F11, F12, F24, F25, F26, F27, F29, F33, F34, F35, F39], events: [ev-advaita-marries-sita, ev-advaita-yoga-vasishtha-beating, ev-advaita-feast-shantipura],
+     note: "Свадьба в Пхулии (M 216); вступилась за Него, когда Господь Его наказывал (ЧБ Мадхья 19.135–137); Адвайта ушёл раньше неё (F38). = @advaita F37, F38, F56, F108, F149."}
+  - {type: son, who: "@achyutananda", facts: [F24, F30, F34, F36], events: [ev-advaita-comes-to-navadvipa],
+     note: "Старший сын (T 76: 1428 г. шаки, ⚠6); с родителями ежегодно ходил в Пури (B 1050; M 219)."}
+  - {type: son, who: "@krishna-mishra", facts: [F1, F36], note: "M 220; T 76 (по «Адвайта-чарите»); Адвайта зовёт её «матушкой Кришнадаса» (ЧБ Антья 9.25); по «Адвайта-пракаше» она посвятила его и его жену (F45, ур. D)."}
+  - {type: son, who: "@gopala-dasa-advaita", facts: [F36, F39], note: "M 220 «Гопала Мишра»; T 76 «Гопала Дас»; встречал Джахнаву (M 66)."}
+  - {type: other, who: "@mahaprabhu", facts: [F10, F12, F13, F14, F15, F16, F18, F19, F20, F21, F22, F26, F27, F29, F31, F33, F34, F35, I1],
+     events: [ev-sita-visits-newborn, ev-advaita-yoga-vasishtha-beating, ev-nityananda-advaita-meal-quarrel, ev-advaita-feast-shantipura, ev-advaita-feeds-lord-hailstorm],
+     note: "Ватсалья: дары и имя «Нимай» (ЧЧ Ади 13.111–118); Господь называл её «матерью» (ЧБ Мадхья 19.227) и почитал как Шачи (M 219–220); кормила Его в Шантипуре и Пури (ЧЧ Мадхья 3.41; ЧБ Антья 9.19–24)."}
+  - {type: friend, who: "@shachi", facts: [F18, F19, F20, F22, F23, F32], note: "«Одного сердца» (M 218); учила её уходу за Младенцем (M 217); четыре дня была с ней после санньясы Господа (M 218). = @shachi F87–F92."}
+  - {type: other, who: "@jagannatha-mishra", facts: [F11, F18, F19, F20, F23], note: "Почтила его и получила почести при прощании (ЧЧ Ади 13.118); M 216 — весть Адвайте от него. = @jagannatha-mishra F34, F35, F76."}
+  - {type: other, who: "@vishvarupa", facts: [F16, F23], note: "Благословила «обоих братьев» (ЧЧ Ади 13.117)."}
+  - {type: other, who: "@nityananda", facts: [F27, F28, F30, F37], note: "Смеялся её словам при наказании Адвайты; после её трапезы разбросал рис (ЧБ Мадхья 19). = @nityananda F208."}
+  - {type: other, who: "@haridasa-thakura", facts: [F11, F27, F29, F30], note: "Свидетель в Шантипуре; с Адвайтой плясал при явлении Господа (B 866). = @haridasa-thakura F61–F62."}
+  - {type: other, who: "@srirama-pandita", facts: [F24], events: [ev-advaita-comes-to-navadvipa], note: "Принёс весть об откровении Господа (ЧБ Мадхья 6)."}
+  - {type: other, who: "@jahnava", facts: [F37, F39], events: [ev-jahnava-kheturi], note: "Обняла её и Васудху (M 65); к приходу Джахнавы в Шантипур уже ушла (M 66). = @jahnava F37, F55."}
+  - {type: other, who: "@vasudha", facts: [F37]}
+  - {type: other, who: "@srinivasa-acharya", facts: [F38], events: [ev-srinivasa-shantipura, ev-srinivasa-khardaha-jahnava], note: "Благословила, вверила Мадана-Гопалу (БР 4.63–80). = @srinivasa-acharya F44."}
+  - {type: other, who: "@parameshvara-dasa", facts: [F31], events: [ev-kirtan-festival-advaita-house], note: "Его пада (ПК 23) о празднике в доме Адвайты. = @parameshvara-dasa F51."}
+  - {type: other, who: "@malini", facts: [F42, F43], note: "Пады Нарахари; «Намамрита-самудра» 10 — в одном ряду хранительниц Гауры."}
+  - {type: other, who: "@madhavendra-puri", facts: [F45], events: [ev-sita-initiation], note: "Только «Адвайта-пракаша» (ур. D): дал ей мантру во сне."}
+  - {type: disciple, who: "@nandini-sita", facts: [F44], note: "Служанка; получила от неё мантру Кришны (ПВ 24.354–355, ур. C); по ПВ 4 позже отвергнута ею (за Камадевой Нагарой)."}
+  - {type: disciple, who: "@jangali", facts: [F44], events: [ev-jangali-tota], note: "Служанка-подвижница; мантра от Ситы, Джангали-тота (ПВ 24.354–368, ур. C)."}
+  - {type: other, who: "@chhota-shyamadasa", facts: [F44], note: "ПВ 24.350–351 (ур. C): вскормлен ею, видел её четырёхрукой."}
+  - {type: other, who: "@ishana-nagara", facts: [F45], note: "«Адвайта-пракаша» (ур. D): растила его; после ухода Адвайты велела ему жениться."}
+  - {type: other, who: "@yogamaya", facts: [F6, F7, F40], note: "По ГГД 86 — Йогамайя (см. identities)."}
+  - {type: other, who: "@govinda-acharya", facts: [F7], note: "ГГД 41: Паурнамаси — он (против отождествления Ситы с Паурнамаси у M, ⚠2)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F13, F17, F18, F33], note: "«Анубхашья» к ЧЧ Ади 13.111–118 и Мадхья 3.41 — B пересказывает её без ссылки."}
+identities:
+  - in: tattva
+    as: "Бхагавати Йогамайя, нисшедшая как Сита; её проявление — Шри"
+    source: "ГГД 86"
+    level: A
+    facts: [F6]
+    variants: ["T 76 даёт номер «81–84» (⚠1); ПВ 24.326 — «Йогамайя, Дурга, Бхагавати» (ур. C)."]
+  - in: other
+    as: "в Кришна-лиле — Паурнамаси (мать Сандипани, бабушка Мадхумангалы и Нандимукхи, ученица Нарады)"
+    source: "M 216 со ссылкой на прежнее изд. «Гаура-паршада-чаритавали»; «Адвайта-пракаша» гл. 10 («Паурнамаси-Йогамайя»)"
+    level: D
+    facts: [F7, F8, F45]
+    variants: ["Против ГГД 41 (Паурнамаси — Говинда Ачарья); в нынешнем B (2019) нет (⚠2)."]
+  - in: other
+    as: "Катьяяни"
+    source: "Лочан, Сутра-кханда 599–631"
+    level: B
+    facts: [F40]
+    variants: ["Катьяяни — имя Йогамайи; ≠ формулировке ГГД 86 (⚠2)."]
+events:
+  - ev-advaita-marries-sita
+  - ev-sita-appearance-lotus
+  - ev-sita-initiation
+  - ev-jangali-tota
+  - ev-associates-descend
+  - ev-sita-visits-newborn
+  - ev-birth-festival-nimai-name
+  - ev-navadvipa-elders-morning-darshan
+  - ev-advaita-comes-to-navadvipa
+  - ev-vishvarupa-shown-advaita
+  - ev-visit-advaita
+  - ev-kirtan-festival-advaita-house
+  - ev-advaita-yoga-vasishtha-beating
+  - ev-nityananda-advaita-meal-quarrel
+  - ev-navadvipa-lament-after-sannyasa
+  - ev-advaita-feast-shantipura
+  - ev-shantipura-reunion
+  - ev-gauda-devotees-arrive-puri
+  - ev-advaita-feeds-lord-hailstorm
+  - ev-gauda-devotees-yearly-visit
+  - ev-srinivasa-shantipura
+  - ev-srinivasa-khardaha-jahnava
+  - ev-jahnava-kheturi
+events_note: "ev-sita-visits-newborn — ЧЧ Ади 13.111–118 (cc-0197); ev-advaita-yoga-vasishtha-beating и ev-nityananda-advaita-meal-quarrel — ЧБ Мадхья 19.118–261; ev-advaita-comes-to-navadvipa, ev-vishvarupa-shown-advaita — ЧБ Мадхья 6; ev-advaita-feast-shantipura — ЧЧ Мадхья 3.40–107; ev-advaita-feeds-lord-hailstorm — ЧБ Антья 9; ev-srinivasa-shantipura — БР 4.63–80, ПВ 4; ev-kirtan-festival-advaita-house — ПК 23 Парамешвары Даса; ev-navadvipa-elders-morning-darshan, ev-birth-festival-nimai-name — пады Нарахари; ev-associates-descend — Лочан; ev-sita-appearance-lotus, ev-sita-initiation, ev-navadvipa-lament-after-sannyasa — «Адвайта-пракаша» (D); ev-jangali-tota — ПВ 24 (C); ev-jahnava-kheturi — M 66 и НВ 6. Не включены: ev-achyutananda-birth, ev-krishna-mishra-birth и др. рождения сыновей («Адвайта-пракаша», D), ev-advaita-departure (Джаянанда, C), ev-advaita-jnana-again (ПВ 4, C) — лишь упоминания."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#shantipura", "#phulia", "#mayapur", "#navadvipa", "#house-jagannatha-mishra", "#advaita-bhavana", "#puri", "#narayanapura"]
+places_facts: [F5, F11, F12, F13, F19, F25, F26, F34, F38, F44]
+character:
+  - {trait: "материнская любовь (ватсалья) к Гауре: видит в Младенце Кришну Гокулы, из любви оберегает Его, кормит Его любимыми блюдами", facts: [F10, F15, F16, F34, F35]}
+  - {trait: "заступничество за мужа при видимой строгости Господа — при знании всей истины (ЧБ Мадхья 19.135)", facts: [F27]}
+  - {trait: "внутреннее смирение и покорность Господу при внешней сдержанности", facts: [F26]}
+  - {trait: "щедрость и забота о семье Господа: дары, помощь Шачи в разлуке", facts: [F14, F19, F32]}
+  - {trait: "мука разлуки после сокрытия Господа; материнское благословение Шринивасе", facts: [F38]}
+unnamed:
+  - {who: "служанки, сопровождавшие её с дарами (ЧЧ Ади 13.114)", type: servant, facts: [F14]}
+significance: {facts: [F6, F9, F35, I1, I2]}
+sources:
+  T: "главы нет; 18, 19, 20, 22, 49, 76"
+  M: "216–220 (гл.); 65, 66, 190"
+  B: "1049–1050 (гл.); 101, 664, 726, 760, 866, 1091–1092"
+  other: ["ГГД 41, 86", "ЧЧ Ади 12.13–26, 13.99–100, 13.111–118; Мадхья 3.40–41; Антья 10.134", "«Анубхашья» к ЧЧ Ади 13.111–118 и Мадхья 3.41", "ЧБ Мадхья 6.40–54, 6.73–103, 19.118–242; Антья 9.18–25", "БР 4.63–80, 4.416; 12.≈1781–1796, 12.1974–1979, 12.3753–3756", "Лочан, Сутра-кханда 599–631; Мадхья («Истина об Адвайте»; 41.88+1–3, изд. 1983)", "«Гаура-кришнодая» 6.38–54", "ПК 23 Парамешвары Даса", "пады Нарахари (ГПТ1 с. 61–62, 69–70)", "«Намамрита-самудра» 10", "«Према-виласа» 4.273–315, 24.322–368", "«Адвайта-пракаша» гл. 8, 10, 11, 15, 18, 22", "Джаянанда, Уттара-кханда", "«Анурага-валли» 3.28–33", "«Адвайта-чарита» (по T 76)", "«Сита-чаритра» (названа T 18)"]
+article: {ru: "parshadas/ru/sita-thakurani.md", en: "parshadas/en/sita-thakurani.md"}
+open_questions:
+  - "Отождествление в Кришна-лиле: ГГД 86 даёт таттву (Йогамайя); Паурнамаси (M по прежнему изд. B, «Адвайта-пракаша») — против ГГД 41; Катьяяни — Лочан (⚠2)."
+  - "Время и место явления и ухода; родина (Нараянапур — лишь ПВ и «Адвайта-пракаша»)."
+  - "Число сыновей от Ситы: трое (M, «Адвайта-чарита» по T) ≠ пять (ПВ 24.348)."
+  - "Кто дал имя «Нимай»: Сита (ЧЧ) или женщины (ЧБ) (⚠7)."
