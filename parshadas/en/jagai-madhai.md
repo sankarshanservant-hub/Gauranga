@@ -21,13 +21,14 @@ Raghunatha and Janardana; the brothers themselves it calls “the rajas of Nadia
 biographies know of this. Nor are the years of their life known: no one gives the day of their appearance or of their
 departure, and their days are not in the Vaishnava calendar of Sri Chaitanya Saraswat Math. <!-- F2 F4 F5 -->
 
-But bad company ruined the sons of a pious father. While still young they abandoned the dignity of their family and made
-robbery their trade. Vrindavana Dasa says that the brothers drank wine and ate meat, robbed, set houses on fire and fell
+But bad company ruined the sons of a pious father. From early childhood they forgot their duty, cast off the dignity of
+their family and took up robbery as a trade. Vrindavana Dasa says that the brothers drank wine and ate meat, robbed, set houses on fire and fell
 upon passers-by with their fists; their relatives disowned them, and the people of Nadia feared that one day these two
 would burn down their houses too (CB, Madhya 13.31–52). Lochana Dasa adds that they dishonoured women and killed, and that,
 living on the very bank of the Ganga, they never once bathed in her; Jayananda, that they read the “Masnavi”; the
 “Prema-vilasa,” that they did not acknowledge the padishah and that even the qazi feared them. So close were the brothers
-that Vrindavana Dasa calls them one soul in two bodies (CB, Madhya 13.200). The “Charitamrita,” through the mouths of
+that Vrindavana Dasa calls them one soul in two bodies: their merits and their sins were shared, and they lived together (CB, Madhya
+13.200). The “Charitamrita,” through the mouths of
 Rupa and Sanatana, says that their only fault was attachment to sin (Madhya 1.194). <!-- F6 F7 -->
 
 And yet one sin was not upon them:
@@ -64,14 +65,14 @@ It began with the command Mahaprabhu gave to Nityananda and Haridasa Thakura:
 else. Come at the end of the day and tell Me everything.” (CB, Madhya 13.8–10)
 
 So they went from door to door. When householders respectfully invited “the two sannyasis” to accept alms, they begged
-for one thing only — service to Krishna, kirtana of Krishna and teaching about Krishna — and went on. <!-- F8 Q10 -->
+for one thing only — service to Krishna, Krishna's kirtana and instruction about Krishna — and went on. <!-- F8 Q10 -->
 
-One day in the street they met two drunken brahmanas — Jagai and Madhai. Seeing the abyss to which they had fallen,
+One day in the street they met two drunken brahmanas — Jagai and Madhai. At the sight of the abyss to which they had fallen,
 Nityananda, the all-merciful saviour of the fallen, and Haridasa wept at heart. Vrindavana Dasa says:
 
 “Boundless is the glory of Sri Nityananda Prabhu. He descended to deliver the fallen souls.” (CB, Madhya 13.62)
 
-Seeing their fall, Nityananda was filled with special mercy for them. He told Haridasa His intention and asked him to
+Seeing their fall, Nityananda was filled with special mercy for them. He told Haridasa His intention and asked for his
 help:
 
 “O Haridasa, see how wretched they are! Born brahmanas, they have fallen so low. They will never escape the punishment
@@ -83,16 +84,17 @@ deliverance of Ajamila (13.68–69). Srila Bhaktisiddhanta Sarasvati explains he
 of Jagai and Madhai in Navadvipa-dhama is not merely one more story of the scriptures, like the case of Ajamila, nor only
 an event of the distant past; such wonders take place in Sri Chaitanya's lila even today. <!-- F9 F10 Q1 Q2 F73 -->
 
-Haridasa answered, “Whatever You desire, Gaurasundara will support in full.” The very truth of Nityananda was revealed to
-him, and he already knew that these two were saved (13.70–71). But the brothers are so drunk, he said, that they will
-listen neither to morality nor to worldly good; we, carrying out the command, bring the name to all without distinction.
-And yet, as people ordinarily reason (“there is no point preaching to the wicked”), Haridasa tried to dissuade
-Nityananda from approaching them. One biography, following the “Gaudiya-bhashya,” calls these objections just that — the
-plain reasoning of the uninformed: in truth Haridasa, a great devotee, was only playing his part in Nityananda's lila.
-Respectable townsfolk tried to stop them as well: the brothers had no regard for sannyasis, and many killings of brahmanas
-and cows lay at their door (13.78–80). Nityananda listened to no one. <!-- F11 -->
+Haridasa answered: “Whatever You desire is the desire of the Lord”; the “Gaudiya-bhashya” explains: whatever Nityananda
+may wish is surely approved by Sri Gaurasundara. The very truth of Nityananda was revealed to Haridasa, and he already
+knew that these two were saved; yet in humility he said that Nityananda kept teaching him, witless as an animal
+(13.70–72). Smiling, Nityananda embraced him: let us go and tell these two drunkards the Lord's command — it is meant for
+all, and for the worst sinners most of all; ours is only to speak, and whether they accept it rests with Him (13.73–76).
+The brothers are so drunk, the “Gaudiya-bhashya” explains, that they will hear nothing of morality or worldly good — and
+yet it is sinners who most need to hear of God. Good people tried to hold the preachers back: the brothers had no regard
+for sannyasis, and many killings of brahmanas and cows lay at their door (13.78–80).[^4] Nityananda listened to no one.
+<!-- F11 -->
 
-Both, chanting “Krishna, Krishna,” came close enough for the brothers to hear and loudly proclaimed the Lord's command:
+Both, chanting “Krishna, Krishna,” came close enough for the brothers to hear and announced the Lord's command aloud:
 
 “Call on Krishna, worship Krishna and chant Krishna's names. Krishna is mother and father; He is the wealth of life
 itself. Krishna has descended to grant you the highest good. So give up your sinful life and worship Him alone.”
@@ -100,7 +102,7 @@ itself. Krishna has descended to grant you the highest good. So give up your sin
 
 One biography, following the “Gaudiya-bhashya” on this verse, says: all worship apart from Krishna is only a departure
 from what is due, and therefore Mahaprabhu taught the service of Hari everywhere — through His own manifestation
-(*prakasha-vigraha*) and through the creator of the world. <!-- F12 Q3 I1 -->
+(*prakasha-vigraha*) and through the world's creator. <!-- F12 Q3 I1 -->
 
 ## The Flight
 Hearing the name of Krishna, the brothers raised their heads in anger, their eyes went bloodshot, and with a shout of
@@ -127,7 +129,7 @@ the name of Govinda. The pious chant Krishna's names by themselves, but these tw
 deliver these two and bring them to the service of God, then You will be known as Patita-pavana, the Deliverer of the
 Fallen.” (CB, Madhya 13.127–130)
 
-While the brothers live and run riot, Nityananda says, He will not be able to carry out the Lord's command:[^4] to bring
+While the brothers live and run riot, Nityananda says, He cannot fulfil the Lord's command:[^5] to bring
 the pious to the name is easy, but to deliver such as Jagai and Madhai — that is glory truly worthy of the name
 “Deliverer of the Fallen”; it will bring more glory than delivering Him (13.131). <!-- F16 -->
 
@@ -143,7 +145,7 @@ return: he himself knew that their lot was decided (13.157). <!-- F17 Q4 F18 -->
 ## To the Sound of Kirtana
 Having roamed and plundered all over Nadia, the brothers, by Providence, settled at the very ghat on the Ganga where the
 Lord Himself went to bathe, near His house. People stopped going to the Ganga at night, or went only in groups of ten or
-twenty (CB, Madhya 13.161–164). At night the sounds of the Lord's kirtana poured from His house, and the drunken brothers,
+twenty (CB, Madhya 13.161–164). At night the sounds of kirtana poured from the Lord's house, and the drunken brothers,
 never closing their eyes, listened to the mridangas and karatalas and danced to them; meeting the Lord one day, they took
 His kirtana for songs to Mangalachandi and, asking whether the rite was complete, offered to procure themselves all that
 such singing required (13.165–171). <!-- F19 -->
@@ -159,13 +161,13 @@ one thought: “I shall deliver these two” (CB, Madhya 13.173–177). <!-- F20
 
 ## Madhai's Potsherd
 Hearing the name “Avadhuta,” Madhai flew into a rage, seized a shard of a broken clay pot and struck Nityananda on the
-head. The head was cut open and blood flowed, but Nityananda only remembered Govinda (CB, Madhya 13.178–179).[^5] Madhai
+head. The head was cut open and blood flowed, but Nityananda only remembered Govinda (CB, Madhya 13.178–179).[^6] Madhai
 raised his hand again, but Jagai, moved to pity, caught his arm: “Why did you do that? You have no heart. What will you
 gain by beating a stranger? Leave the Avadhuta alone. What will beating a sannyasi bring you?” (13.180–182). <!-- F21 F22 -->
 
 Someone ran to tell the Lord. Mahaprabhu came at once with His associates, saw Nityananda covered in blood and smiling
 between the two drunkards, and in anger called aloud, “Chakra! Chakra! Chakra!” At once the Sudarshana chakra appeared,
-and Jagai and Madhai saw it with their own eyes in terror (CB, Madhya 13.183–186). Sudarshana is not a vision or sorcery
+and Jagai and Madhai, terrified, beheld it before them (CB, Madhya 13.183–186). Sudarshana is not a vision or sorcery
 but the eternal weapon and associate of the Lord, appearing in person at His call. Lochana Dasa shows this clearly:
 
 “In anger Gaurahari summons Sudarshana, and Sudarshana stood [before Him] with joined palms: ‘Why, O Ishvara, have You
@@ -206,7 +208,7 @@ blessing given to Jagai transformed Madhai's heart as well. <!-- F26 F78 -->
 But the Lord replied, “I see no way for you to be delivered, for Nityananda is covered in blood.” Madhai did not give way:
 did not the demons of old, who fought the Lord and pierced Him with arrows, attain His feet? Why then should such an asura
 as he not be saved? The Lord said: “Your crime is far graver than theirs, for you have drawn blood from Nityananda. The
-body of Nityananda is dearer to Me than My own” (CB, Madhya 13.205–209).[^6] To wound the body of Nityananda, the servant
+body of Nityananda is dearer to Me than My own” (CB, Madhya 13.205–209).[^7] To wound the body of Nityananda, the servant
 of Vishnu, is graver than to be at enmity with Vishnu Himself. <!-- F27 -->
 
 “Tell me, how can I be free of this?” Madhai begged: the Lord is the best of physicians; if He does not heal, who will?
@@ -225,8 +227,8 @@ I have gathered even a little piety, I give it all to Madhai. I forgive him all 
 Your mercy openly to Your Madhai.’” (CB, Madhya 13.218–220)
 
 You protect in distress the gods, men and all living beings, even the unconscious plants, Nityananda says; Madhai has not
-offended Me; I have served You birth after birth — and if in any birth I have some merit (*sukriti*), let it go to Madhai;
-You have already forgiven everything — so set aside the semblance of a double judgement and grant causeless mercy. The
+offended Me; I have been Your servant life after life — and if in any life I have some merit (*sukriti*), let it go to
+Madhai; all is forgiven by You already — so set aside the semblance of a double judgement and grant causeless mercy. The
 words “Madhai has not offended Me” do not belittle the deed; they are the boundless mercy of Nityananda, who gives His
 offender all that He has. <!-- F29 -->
 
@@ -251,28 +253,28 @@ Himself or suffer from it — He only sets them free. <!-- F59 -->
 The brothers swooned with bliss, and the Lord ordered:
 
 “Take these brothers and carry them to My house. Today I shall sing kirtana with them. Today I shall reward them with what
-is rarely attained even by Brahma. I shall grant them the highest position in this world.” (CB, Madhya 13.231–232)[^7]
+is rarely attained even by Brahma. I shall grant them the highest position in this world.” (CB, Madhya 13.231–232)[^8]
 
-Once the very sight and touch of the robbers stirred sin in people; now, having received God's mercy, they purified like
+Once the robbers' mere sight and touch stirred sin in people; now, having received God's mercy, they purified like
 the touch of the Ganga: whoever bathes in the Ganga after touching them will say that these two are equal to the Ganga
 (13.233). “Nothing can stand in the way of Nityananda's decision,” said the Lord. “Know that this was His wish” (13.234).
-The Vaishnavas accepted the brothers as their own and carried them to Mahaprabhu's house. Only His intimates entered, with
-the two robbers He had accepted, and the door was shut (13.235–236). Mahaprabhu sat on His seat, Nityananda and Gadadhara
+The Vaishnavas accepted the brothers as their own and carried them into Mahaprabhu's home. Only His intimates entered, with
+the two robbers He had accepted, and the door was shut (13.235–236).[^9] Mahaprabhu sat on His seat, Nityananda and Gadadhara
 on either side of Him, Advaita facing Him, and the Vaishnavas all around:
 
 “Pundarika Vidyanidhi, Haridasa Thakura, Garuda, Ramai, Srinivasa, Gangadasa, Vakreshvara Pandita and Chandrashekhara
 Acharya knew well the lilas of Lord Chaitanya.” (CB, Madhya 13.239–240)
 
 The biographies name Chandrashekhara, Vakreshvara, Gangadasa and Pundarika Vidyanidhi as witnesses of that night.
-<!-- F31 Q6 F32 Q7 -->
+<!-- F31 Q6 F32 Q7 F79 -->
 
 The brothers rolled on the ground in ecstasy: the hair on their bodies stood on end, tears streamed from their eyes,
 their bodies trembled (13.242). Vrindavana Dasa exclaims:
 
 “Who can understand the will of Lord Chaitanya, who turned two bandits into maha-bhagavatas?” (CB, Madhya 13.243)
 
-The position of a maha-bhagavata a living being does not reach even in many births of service to Hari, yet these two,
-unworthy before, attained it in a single moment; no one has the right to judge such power of mercy. <!-- F33 I3 -->
+Even many births of service to Hari do not bring a soul to the position of a maha-bhagavata, yet these two, unworthy
+before, attained it in an instant; none may sit in judgement on such power of mercy. <!-- F33 I3 -->
 
 Seated among the devotees before the Lord, the brothers showed every sign of prema, and Pundarika Vidyanidhi, seeing their
 good fortune, was plunged into ecstasy. By the will of Chaitanyachandra, Shuddha Sarasvati, the goddess of transcendent
@@ -296,7 +298,7 @@ the Lord said:
 All that they had felt, the Lord said, was solely by the mercy of Nityananda; I Myself have taken away the consequences of
 your sins (13.297–298). And as a sign that no sin remained on them, the Lord's body turned black. “How do I look?” He asked.
 “You are exactly like Sri Gokulachandra,” replied Advaita. The Lord had kirtana sung so that the brothers' sins would pass
-to the offenders of the Vaishnavas (13.299–302).[^8] This darkening is the Lord's play, a visible testimony of mercy, and
+to the offenders of the Vaishnavas (13.299–302).[^10] This darkening is the Lord's play, a visible testimony of mercy, and
 not a trace of sin upon Him: in His form Advaita saw Krishna Himself. The kirtana began; the Lord danced with Nityananda,
 and the two former drunkards too danced with Him whom Lakshmi herself fears to touch; and Shachi and her daughter-in-law,
 Vishnupriya, watched it all from the house, immersed in an ocean of nectar (13.303–310). <!-- F59 -->
@@ -318,8 +320,8 @@ for robbery, and now by the Lord's mercy their position was restored: their fool
 realized *sambandha*, *abhidheya* and *prayojana*, and Madana-mohana, Govinda and Gopinatha became the Lords of their
 hearts. <!-- F76 F77 F74 -->
 
-Then the Lord led everyone to the Ganga and played long with the devotees in her waters. After the play He gave everyone
-garlands, prasada and sandal paste and sent them home, and Jagai and Madhai He entrusted to all the Vaishnavas and gave
+Then the Lord led everyone to the Ganga and played long with the devotees in her waters. After the play He gave out
+garlands, sandal paste and prasada to all and sent them home, and Jagai and Madhai He entrusted to all the Vaishnavas and gave
 them the garland from His own neck. The biographies say: the Lord forgave their offences, cleansed them of sin and gave
 them the right to take part in sankirtana with the devotees. In the water play after their deliverance were Gadadhara,
 Buddhimanta Khan, Jagadisha, Shuklambara, Sadashiva, Gangadasa and Pundarika, and Vakreshvara was present at the
@@ -348,7 +350,7 @@ Ananta and all the demigods (14.22–51). Yama's swoon and his dance are not the
 <!-- F61 -->
 
 ## Two Hundred Thousand Names
-From then on, by Mahaprabhu's mercy, Jagai and Madhai lived in Nadia a strict and righteous life:
+From then on, through the mercy of Mahaprabhu, the two brothers lived in Nadia a strict and righteous life:
 
 “Every day they bathed in the Ganga early in the morning and then sat in a secluded place to chant two hundred thousand
 names of Krishna.” (CB, Madhya 15.5)
@@ -362,7 +364,7 @@ comforted them again and again, came Himself and fed them, but they found no pea
 
 Madhai above all was inconsolable. Though Nityananda had forgiven him everything, he could not forget that he had shed His
 blood, and he reproached himself without end: “I struck the One in whom Lord Chaitanya enjoys His pastimes” (15.13–17).
-One day, finding Nityananda alone, he fell at His feet with a straw between his teeth, bathed them with tears and glorified
+Once, coming upon Nityananda alone, he fell at His feet with a straw between his teeth, bathed them with tears and glorified
 Him at length: You are Ananta, who upholds the universes, the bed, throne and umbrella of the Lord; none is dearer to
 Chaitanya than You; and I wounded this divine body! (15.20–62). Nityananda smiled:
 
@@ -382,7 +384,7 @@ of the Ganga, people will always bless you.” (CB, Madhya 15.76–77)
 
 And He told him to bow humbly before everyone (15.79). From then on Madhai every day, in tears, chanting “Krishna,
 Krishna,” built the ghat and served it, prostrated himself before all who came to bathe, and begged forgiveness for the
-wrongs he had done knowingly or unknowingly.[^9] People marvelled and wept with him, and all Nadia admitted: “Nimai Pandita
+wrongs he had done knowingly or unknowingly.[^11] People marvelled and wept with him, and all Nadia admitted: “Nimai Pandita
 has turned Jagai and Madhai into great saints! Nimai Pandita is no ordinary mortal” (15.80–91). <!-- F43 F44 -->
 
 For his severe austerity Madhai was called “the Brahmachari” (15.92). Vrindavana Dasa says of him:
@@ -414,10 +416,13 @@ but mentions it from the very first chapters:
 “Then Shachi saw the two brothers as Rama and Krishna, and after that the Lord delivered Jagai and Madhai.”
 (CC, Adi 17.17)
 
-The “Anubhashya” to Adi 8.20 adds: even such sinners, receiving Gaura's mercy, one day attain love for Krishna. And
+The “Anubhashya” to Adi 8.20 adds: even such sinners, receiving Gaura's mercy, one day attain love for Krishna. Srila
+Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” to Adi 17.17 briefly retells the whole story: Madhai wounded
+Nityananda, and Jagai was grieved at it; the Lord, hearing of his good deed, embraced him, and on seeing the Lord and being
+touched by Him both sinners had a change of heart, and He delivered them by giving them the name of Hari. And
 Vrindavana Dasa himself, at the start of his book, listing the lilas of the Madhya-khanda, names among them “the wonder of
 the deliverance of the two greatest sinners” (CB, Adi 1.125), and, closing the account, says that the stories of the
-deliverance of “the two godless ones” are like nectar (Madhya 15.96). <!-- F57 F62 -->
+deliverance of “the two godless ones” are like nectar (Madhya 15.96). <!-- F57 F62 F82 -->
 
 Murari Gupta does not describe the deliverance itself but speaks of the Lord's promise. When Mahaprabhu refused to heal a
 leper who had offended Srivasa, Srivasa asked Him to deliver all who had offended him:
@@ -427,7 +432,7 @@ the root of all sins.” (Murari Gupta, “Sri Krishna-chaitanya-charita,” 2.1
 
 Lochana Dasa tells this lila in his own way. The devotees complain to the Lord that Jagai and Madhai hinder them from giving
 the name from house to house; the Lord, recalling Ajamila, resolves to save them by sankirtana and goes out with kirtana
-through the town. Woken, the brothers curse and throw a potsherd;[^10] the Lord binds Nityananda's head with His own cloth so
+through the town. Woken, the brothers curse and throw a potsherd;[^12] the Lord binds Nityananda's head with His own cloth so
 that His blood should not fall to the ground; Murari Gupta is eager to punish the offenders; Sudarshana appears with joined
 palms, but Nityananda holds him back and begs the Lord:
 
@@ -436,7 +441,7 @@ the demons — deliver these two in their very bodies.’” (“Chaitanya-manga
 
 Repentant, the brothers come to the Lord's door, and Murari at His bidding brings them in; by the Ganga, before everyone,
 the Lord asks them for their sins as a gift, they place a tulasi leaf in His hand, and, embracing them, He dances, having
-accepted their sins.[^11] One biography also recalls that the sixth chapter of the Madhya-khanda of the
+accepted their sins.[^13] One biography also recalls that the sixth chapter of the Madhya-khanda of the
 “Chaitanya-mangala” tells of their deliverance. <!-- F64 F56 -->
 
 In Kavi Karnapura's drama “Chaitanya-chandrodaya,” Kali relates how the Lord Himself called the brahmana brothers
@@ -447,8 +452,9 @@ Purifier of the fallen (5.36). In Jayananda, Madhai wounds Nityananda with a pot
 grants Jagai prema-bhakti, and Nityananda gives Madhai the name of Hari; the brothers place their sins in the Lord's hands,
 He pours Ganga water on their heads — and His face turns dark and then shines golden again. In the “Prema-vilasa” Madhai
 strikes Nitai with a potsherd, Jagai holds him back, the Lord summons the Chakra, Nitai begs the brothers from Him as alms,
-Madhai at the Lord's word falls at Nitai's feet, and Nitai, accepting their sins, turns dark in body.[^12] The same work has
-Sita relate that at the deliverance of Jagai and Madhai Advaita threatened in anger to “dry up prema.” <!-- F65 F66 F67 -->
+Madhai at the Lord's word falls at Nitai's feet, and Nitai, accepting their sins, turns dark in body.[^14] The same work has
+Sita relate that at the deliverance of Jagai and Madhai Advaita threatened in anger to “dry up prema.” And a manuscript
+fragment of Jayananda's poem says it briefly: “Jagai and Madhai were delivered by the Hari-nama.” <!-- F65 F66 F67 F84 -->
 
 In Narahari Chakravarti's “Bhakti-ratnakara” the story is told by Chaitanya Dasa: the Lord saved the brothers not by
 weapons but by prema; Madhai wounded Nityananda, by Nityananda's mercy the Lord forgave them, and they swept a ghat on the
@@ -474,7 +480,7 @@ writes of himself:
 
 “I am more sinful than Jagai and Madhai, lower than a worm in excrement.” (CC, Adi 5.205)
 
-And he adds at once: who in all the world but Nityananda would show mercy to one as despicable as I? (5.207). <!-- F51 -->
+And he adds at once: who in all the world but Nityananda would be merciful to such a wretch as I? (5.207). <!-- F51 -->
 
 Rupa and Sanatana, meeting the Lord for the first time in Ramakeli, prayed to Him:
 
@@ -482,7 +488,10 @@ Rupa and Sanatana, meeting the Lord for the first time in Ramakeli, prayed to Hi
 lived in Navadvipa. They did not serve low people, nor were they the ‘elbow’ — the ready tool — of low men. Their only fault
 was sinful conduct, and even the semblance of Your name (*namabhasa*) burns up heaps of sin. They uttered Your name while
 blaspheming You, and that very name became the cause of their liberation. We two are millions of times lower, more fallen
-and more sinful than Jagai and Madhai.” (CC, Madhya 1.192–196) <!-- F52 F58 -->
+and more sinful than Jagai and Madhai.” (CC, Madhya 1.192–196)
+
+Blasphemy of a sadhu is an aparadha, the “Anubhashya” explains, while the offence of blaspheming Vishnu is destroyed when
+one takes the Name (on 1.195). <!-- F52 F58 F82 -->
 
 King Prataparudra, whom the Lord long refused to receive, lamented:
 
@@ -490,8 +499,8 @@ King Prataparudra, whom the Lord long refused to receive, lamented:
 He will deliver the whole world, leaving out Prataparudra alone.” (CC, Madhya 11.45–46)
 
 He has vowed not to see me, said the king, but I too make a vow: without Him I shall give up my life (11.48–49). One
-biography also cites a song-prayer about Sanatana: You easily delivered Jagai and Madhai, Vasudeva and Ajamila — show
-Sanatana too even a drop of mercy. <!-- F53 F54 Q11 -->
+biography also cites a song-prayer about Sanatana: Jagai and Madhai, Vasudeva and Ajamila You delivered with ease —
+grant Sanatana too a drop of mercy. <!-- F53 F54 Q11 -->
 
 The biographies place the brothers in a row with other wonders of mercy: as the courtesan became a saint by Haridasa's
 mercy, and the robber Ratnakara became Valmiki by Narada's, so did Jagai and Madhai by the mercy of Gaura and Nityananda; a
@@ -500,10 +509,18 @@ mercy than the deliverance of such sinners as Jagai and Madhai. And in 1925, whe
 attacked at Porama-tola during the parikrama of Navadvipa-dhama, an eyewitness compared the attack to the way “the
 constables of Navadvipa, the two thugs Jagai and Madhai,” had once tried to wound Nityananda Avadhuta. <!-- F50 I6 I5 F55 -->
 
+Manohara Dasa in the “Anuragavalli,” glorifying Nityananda, writes that He showed mercy to those who were hostile to Him —
+“witness to this is Madhai in the town of Nadia” (1.19). <!-- F83 -->
+
 ## Departure
-When and where Jagai and Madhai left this world neither the sources nor the biographies say. Only the “Prema-vilasa” names
-them among Nityananda's branch at a memorial festival in Katwa, after the Lord's disappearance;[^13] neither the
+When and how Jagai and Madhai left this world neither the sources nor the biographies say. Only the “Prema-vilasa” names
+them among Nityananda's branch at a memorial festival in Katwa, after the Lord's disappearance;[^15] neither the
 “Chaitanya-bhagavata” nor the “Charitamrita” knows of this. <!-- F49 -->
+
+A place where the brothers are remembered is named by Srila Bhaktisiddhanta Sarasvati in the “Anubhashya” to the
+“Charitamrita” (Adi 10.120). Madhai, he writes, has descendants, kulina brahmanas; and on the road to Akaihat, a mile south
+of Katwa, in the village of Ghoshahat, or Madhaitala, stands the samadhi of Jagai and Madhai; it is said that some two
+hundred years ago Gopicharana Dasa Babaji restored the place and installed Deities of Sri Nitai-Gaura there. <!-- F80 -->
 
 ## Significance
 Srila Bhaktisiddhanta Sarasvati sums up their story in the “Gaudiya-bhashya” to the first chapter of the
@@ -514,10 +531,10 @@ of Gaurasundara they attained deliverance and became pure devotees. <!-- F71 -->
 In these words lies the whole of it. The deliverance of the brothers is Nityananda's mercy: He was the first to long for
 their salvation, He, wounded, begged them from the Lord as alms, forgave Madhai and gave him all His merits, embraced him
 and invested him with His power; the Lord Himself says that everything came about solely by Nityananda's mercy (CB, Madhya
-13.297). Their story teaches, too, that the gravest sin is offence to a Vaishnava, and that only the one offended can remove
+13.297), and, as one biography writes, had the victory of His mercy proclaimed. Their story teaches, too, that the gravest sin is offence to a Vaishnava, and that only the one offended can remove
 it. And after the mercy Jagai and Madhai are maha-bhagavatas, whose bodies the Lord accepted as His own; to see in them the
 former robbers is to offend their feet. The doorkeepers of Vaikuntha, born in Navadvipa by their own will, became an
-eternal witness that for the mercy of Gaura and Nitai no one is unworthy. <!-- F3 F33 F60 F77 I3 I7 -->
+eternal witness that for the mercy of Gaura and Nitai no one is unworthy. <!-- F3 F33 F60 F77 I3 I7 F81 -->
 
 [^1]: In the “Gaudiya-bhashya” to CB, Adi 1.125 their full names are Jagadananda Bandyopadhyaya and Madhavananda
     Bandyopadhyaya. We follow the primary sources — the “Gaura-ganoddesha-dipika” (115), Murari Gupta (2.13.17), the
@@ -527,28 +544,35 @@ eternal witness that for the mercy of Gaura and Nitai no one is unworthy. <!-- F
     neither the king's punishment nor the town watch (Madhya 13.34). We call them simply brahmana brothers of a noble family.
 [^3]: One biography by a slip of the pen prints “the father of a pious brahmana”; according to CB, Madhya 13.122 they are
     the sons of a pious brahmana.
-[^4]: So the “Gaudiya-bhashya” (on 13.127) understands this verse too: “while they live.”
-[^5]: Accounts differ as to when and by whom the potsherd was thrown. According to the “Chaitanya-bhagavata,” Madhai alone
+[^4]: One biography puts the words about the drunken brothers and the duty to preach to all into Haridasa's mouth and
+    writes that Haridasa too, “by plain reasoning,” tried to dissuade Nityananda. According to the “Chaitanya-bhagavata”
+    (Madhya 13.71–80) and the “Gaudiya-bhashya” on 13.74, these are Nityananda's words, and it was “good people” who
+    tried to hold the preachers back; Haridasa knew that the brothers were already saved (13.70).
+[^5]: So the “Gaudiya-bhashya” (on 13.127) understands this verse too: “while they live.”
+[^6]: Accounts differ as to when and by whom the potsherd was thrown. According to the “Chaitanya-bhagavata,” Madhai alone
     struck Nityananda, at night, when Nityananda came to the brothers alone and called Himself Avadhuta. One biography,
     elsewhere, writes that the potsherd was thrown as Nityananda and Haridasa were returning together at night from
-    preaching to the Lord's house; another, that Nityananda later went to the brothers alone and delivered them, with no
+    preaching to the Lord's house, and in a third place, that Madhai struck Nityananda as soon as the preachers repeated
+    the words of the kirtana to the brothers; another biography, that Nityananda later went to the brothers alone and delivered them, with no
     mention of the blow. In Lochana Dasa, in Srila Bhaktisiddhanta's edition both brothers throw the potsherd during the
     Lord's town kirtana, while in the 1983 edition only Madhai does, and Jagai stands still, touched by Nitai's glance. We
     follow the “Chaitanya-bhagavata.”
-[^6]: One biography writes that Madhai remembered “the Krishna-lila and the rasa-lila”; according to CB (13.206–209) he
+[^7]: One biography writes that Madhai remembered “the Krishna-lila and the rasa-lila”; according to CB (13.206–209) he
     speaks of the demons who pierced the Lord with arrows, that is, of the Rama-lila (the “Gaudiya-bhashya”: “the lilas of
     Krishna and Rama”); “rasa-lila” here is probably a misprint for “Rama-lila.”
-[^7]: One biography gives the reference as “Madhya 13.131–132”; the correct one is 13.231–232.
-[^8]: The sources differ as to who turned dark: according to the “Chaitanya-bhagavata” (13.299), Mahaprabhu's body; in
+[^8]: One biography gives the reference as “Madhya 13.131–132”; the correct one is 13.231–232.
+[^9]: Elsewhere the same biography writes that the Lord brought the brothers to Srivasa's courtyard; according to the
+    “Chaitanya-bhagavata” (Madhya 13.231–236), to His own house.
+[^10]: The sources differ as to who turned dark: according to the “Chaitanya-bhagavata” (13.299), Mahaprabhu's body; in
     Jayananda, the Lord's face; in the “Prema-vilasa,” Nityananda's body. We follow the “Chaitanya-bhagavata.”
-[^9]: According to one biography, Madhai bowed to “the Vaishnavas who came there”; according to the “Bhakti-ratnakara” (2)
+[^11]: According to one biography, Madhai bowed to “the Vaishnavas who came there”; according to the “Bhakti-ratnakara” (2)
     both brothers swept the ghat. We follow the “Chaitanya-bhagavata” (Madhya 15.76–94): Madhai built the ghat and bowed to
     all who came to bathe.
-[^10]: In Srila Bhaktisiddhanta's edition both brothers throw the potsherd; in the 1983 edition only Madhai, while Jagai's
+[^12]: In Srila Bhaktisiddhanta's edition both brothers throw the potsherd; in the 1983 edition only Madhai, while Jagai's
     heart melts at the sight of Nitai and Gaura (vv. 102+1 – 102+4); there too Murari is eager to punish the brothers.
-[^11]: The sources also differ as to where and how the Lord accepted their sins: according to the “Chaitanya-bhagavata,”
+[^13]: The sources also differ as to where and how the Lord accepted their sins: according to the “Chaitanya-bhagavata,”
     in His house behind closed doors; in Lochana, by the Ganga before everyone, with tulasi as a ritual gift; in the
     “Chaitanya-chandrodaya,” the brothers take water from His hand; in Jayananda, the Lord pours Ganga water on their heads.
-[^12]: According to the “Chaitanya-bhagavata” (Madhya 13.299), it was Mahaprabhu's body that turned dark (see note 8).
-[^13]: This is the only late mention of them; neither the “Chaitanya-bhagavata” nor the “Charitamrita” nor the biographies
-    confirm it.
+[^14]: According to the “Chaitanya-bhagavata” (Madhya 13.299), it was Mahaprabhu's body that turned dark (see note 10).
+[^15]: Neither the “Chaitanya-bhagavata” nor the “Charitamrita” nor the biographies confirm it; on the brothers' samadhi
+    near Katwa, according to the “Anubhashya,” see the next paragraph.
