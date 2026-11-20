@@ -4,7 +4,7 @@
 ## A Devotee Without a Name
 Among those who served Sri Chaitanya in Varanasi, the “Chaitanya-charitamrita” more than once speaks of a man whose
 name no source has preserved. Krishnadasa Kaviraja calls him simply “the brahmana from Maharashtra” — *maharashtriya
-vipra*, *dvija* or *brahmana* (Madhya 17.101; 19.253; 20.79; 25.7, 14, 58, 60, 153, 172, 210) — and twice merely “a
+vipra*, *dvija* or *brahmana* (Madhya 17.101; 19.253; 20.79; 25.7, 58, 153, 172, 210) — and twice merely “a
 brahmana” (Adi 7.52; Madhya 17.105). The biographies, too, call him only this, without a name. <!-- F1 -->
 
 He came from Maharashtra but lived permanently in Kashi: “I live in Varanasi all the time,” he says himself (Madhya
@@ -60,9 +60,9 @@ The Lord answered him:
 are one and the same.’” (CC, Madhya 17.129–130)
 
 The name, the form and Krishna Himself are one and wholly spiritual, the Lord went on, and so the name does not reveal
-itself to one who offends Krishna. And at the end He said with a smile: “I brought to Kashi the wares of prema, but here
-there are no buyers” (17.131–145). According to one of the biographies, the Lord then also forbade the brahmana to
-associate with the Mayavadis and showed him mercy.[^4] <!-- F9 -->
+itself to one who offends Krishna (17.131–143). And at the end He said: “I came to Kashi to sell My wares of emotion,
+but there is no buyer” (17.144). According to one of the biographies, the Lord then also forbade the brahmana to
+associate with the Mayavadis and so granted him His mercy.[^4] <!-- F9 -->
 
 “Saying this, Gaurahari made that brahmana His own, and rising early the next morning He set out for Mathura.” (CC,
 Madhya 17.146)
@@ -135,9 +135,11 @@ You; be pleased and grant it. I have invited all the sannyasis; if You come too,
 know that You do not go to gatherings of sannyasis; yet be merciful to me and accept my invitation.’” (CC, Adi
 7.52–55)
 
-In the Adi-lila this brahmana is not named. But in the Madhya-lila Kaviraja tells of the same invitation again: “Just
-then the brahmana came and invited Him. With great humility he clasped the Lord's feet” (25.14); the Lord accepted and
-the next day went to his house — and here the author refers directly to his earlier, detailed account (25.15–16). Thus
+In the Adi-lila this brahmana is not named. But in the Madhya-lila Kaviraja tells of the same invitation again: the
+brahmana from Maharashtra (25.7) invited all the sannyasis and came to the place where the Lord was staying (25.11);
+“just then the brahmana came and invited Him. With great humility he clasped the Lord's feet” (25.14); the Lord accepted
+and the next day went to his house — and here the author refers directly to his earlier, detailed account (25.15–16).
+“A brahmana from Maharashtra comes and invites the Lord,” Srila Bhaktisiddhanta heads verse 25.14. Thus
 the brahmana who invited the Lord to the sannyasis and the brahmana from Maharashtra are one and the same person, and by
 the account of Madhya 17 he was also the one who had earlier heard Prakashananda's mockery.[^8] <!-- F17 Q1 -->
 
@@ -148,7 +150,7 @@ Adi 7.56–57)
 Here is the key to the whole story. The wish to gather the sannyasis was placed in the brahmana's heart by the Lord
 Himself, for He Himself wished to show them mercy; the devotee's request became the instrument of His mercy. And the
 Lord, who had so far answered the blasphemers only with a smile, accepted the invitation not out of compliance and not
-for the sake of honour: one of the biographies calls His consent “only a device to save the sannyasis.”
+for the sake of honour: one of the biographies calls His consent “only a gesture to save the sannyasis.”
 <!-- F18 F19 I1 -->
 
 “The next day the Lord went to the brahmana's house and saw the sannyasis all seated there.” (CC, Adi 7.58)
@@ -191,7 +193,8 @@ Lord. <!-- F23 -->
 “At that time Mahaprabhu, having bathed at Panchanada, was on His way to see Lord Bindu-madhava. On the way the brahmana
 told Him everything. Hearing it, Mahaprabhu smiled gently with pleasure.” (CC, Madhya 25.59–60)
 
-This was the Lord's daily custom in Kashi: having bathed at Panchanada, He would go to Bindu-madhava Hari. And the
+According to one of the biographies, this was the Lord's daily custom in Kashi: having bathed at Panchanada, He would
+go to Bindu-madhava Hari. And the
 brahmana told Him all he had heard from the lips of Prakashananda, who had now become a devotee; “The Lord rejoices to
 hear from the brahmana from Maharashtra of Prakashananda, who has become a devotee,” writes Srila Bhaktisiddhanta on
 25.60.[^10] <!-- F24 -->
@@ -247,9 +250,9 @@ Mahaprabhu who rejoices in the Lord's glory and in the mercy poured out on other
 
 [^1]: The biographies and commentators give the years of the Lord's stays in Kashi differently: they convert the years
     of the Shaka era into our reckoning in different ways.
-[^2]: Some translations render Madhya 17.105 “one of the brahmanas”; the Bengali has *eka vipra*, “a brahmana.” That this is the same brahmana from Maharashtra is clear from the account: he came to the Lord
-    every day (17.101), told Him of Prakashananda's mockery (17.123–128), and the Lord “made that brahmana His own”
-    (17.146). So too Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya,” and the biographies, understand it.
+[^2]: Some translations render Madhya 17.105 “one of the brahmanas”; the Bengali has *eka vipra*, “a brahmana.” That
+    this is the same brahmana from Maharashtra is clear from the account: he came to the Lord every day
+    (17.101), told Him of Prakashananda's mockery (17.123–128), and the Lord “made that brahmana His own” (17.146). So too Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya,” and the biographies, understand it.
 [^3]: One of the biographies retells this conversation differently: the brahmana himself supposedly spoke the Lord's
     name “Krishna Chaitanya” three times to Prakashananda, who said “chaitanya” three times but could not pronounce
     “Krishna”; and the brahmana supposedly begged the Lord: “Deliver this city of Kashi!” In the “Charitamrita” it is
@@ -267,7 +270,9 @@ Mahaprabhu who rejoices in the Lord's glory and in the mercy poured out on other
     on the way back.
 [^7]: One of the biographies says only that the brahmana invited Sanatana, without mentioning that the Lord introduced
     them; this is an omission, not a discrepancy.
-[^8]: Srila Bhaktivinoda Thakura and the biographies also see the brahmana from Maharashtra in the brahmana of Madhya 17.
+[^8]: In the Bengali of Madhya 25.14 he is simply “the brahmana” (*vipra*; some translations add “that Maharashtrian
+    brahmana”): who he is follows from 25.7–11. Srila Bhaktivinoda Thakura and the biographies also see the brahmana from
+    Maharashtra in the brahmana of Madhya 17.
     One of them tells of the brahmana from Maharashtra only the invitation and the events of Madhya 25, and his first
     meeting with the Lord elsewhere.
 [^9]: One of the biographies, retelling this account, refers to verses 7.148 and 7.150 as “Adi 8” — a misprint; its
