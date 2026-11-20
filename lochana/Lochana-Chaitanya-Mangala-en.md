@@ -3259,7 +3259,7 @@ with joy in his heart says this Lochana Dasa.
 [^08-16]: So also the *Gaura-ganoddesha-dipika* (177): Narahari Sarakara is Madhumati, a companion of Radha in Vraja.
 [^08-17]: A well-known tradition: the boy Raghunandana, entrusted by his father with the worship, persuaded the Deity of Gopinatha at Shrikhanda to eat a laddu, and the Deity ate it.
 [^08-18]: The line also admits the reading "he is Krishna himself"; we follow the understanding consistent with Gaudiya teaching: the devotee does not become Krishna, but for him there is Krishna alone.
-[^08-19]: Abhirama Thakura (Ramadasa), one of the twelve gopalas, is said to have recognized the Lord's eternal associates in people. "Madana" is Kamadeva; according to the *Gaura-ganoddesha-dipika* Raghunandana is Pradyumna (Kandarpa) of Dvaraka.
+[^08-19]: Abhirama Thakura (Ramadasa), one of the twelve gopalas, is said to have recognized the Lord's eternal associates in people. "Madana" here is not the mundane Kamadeva but Pradyumna (Kandarpa) of Dvaraka, as the *Gaura-ganoddesha-dipika* identifies Raghunandana.
 [^08-20]: Cf. *Chaitanya-charitamrita* (Madhya 15.121–125): Mukunda Dasa, a court physician, on seeing a fan of peacock feathers above the king's head, remembered Krishna and fell senseless.
 
 ---
