@@ -1249,9 +1249,9 @@ ever separate you and Me”; and He still appears in her house, for where He is 
     the father against Shachi's objection, and he gave way to her request and the neighbours' persuasion (Adi 7.128,
     193–197). In Lochana Dasa, on the contrary, Shachi says to her husband: “Let my son be a dunce — as long as He lives
     a hundred years” (CM, Adi-khanda, part 6, v. 494).
-[^9]: According to the “Chaitanya-bhagavata” (Adi 14.177–178), the Lord was told of Lakshmi's death by the relatives;
+[^9]: According to the “Chaitanya-bhagavata” (Adi 14.177–178), the Lord was told of Lakshmi's departure by the relatives;
     according to Lochana Dasa and Murari Gupta, Shachi herself told Him everything (CM, Adi-khanda, part 13, v. 148;
-    “Kadacha” 1.12.11). One biography writes that He was told of Lakshmi's death by the neighbours.
+    “Kadacha” 1.12.11). One biography writes that He was told of Lakshmi's departure by the neighbours.
 [^10]: Gaudiya Vaishnavas, following Vrindavana Dasa, see in Lakshmipriya Lakshmi herself; the story of the apsara is
     the words with which the Lord consoled His mother while concealing Himself. Murari Gupta at once adds in the Lord's
     words: “Or else it was the Mistress of the world herself, in the form of Lakshmi, who went to the lotus feet of her
