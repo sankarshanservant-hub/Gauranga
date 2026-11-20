@@ -16,7 +16,7 @@ Lord's second marriage Vrindavana Dasa names already in the list of pastimes wit
 “In the Adi-khanda the Lord's consort (Lakshmipriya) leaves the world, and the Lord marries a second time — the daughter
 of the Raja Pandita (Vishnupriya).” (CB, Adi 1.110) <!-- F47 Q3 -->
 
-Of her worldly life little is known. The sources name neither her mother nor the year and day of her appearance, nor the
+Of her life in this world little is known. The sources name neither her mother nor the year and day of her appearance, nor the
 year and day of her departure; nor are these days in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
 <!-- F10 -->
 
@@ -128,10 +128,10 @@ The next morning Nimai set out for home with Lakshmi. They were carried in a pal
 watching them, compared them now to Shiva and Parvati, now to Lakshmi and Narayana, now to Sita and Rama; in the evening
 Shachi Devi with the wives of the brahmanas met her daughter-in-law at the threshold and led her into the house (CB, Adi
 10.107–117). One of the biographies, retelling Lochana Dasa, adds the Bengali wedding customs: on the eve, bride and
-groom were anointed with turmeric paste and bathed, and the place of the rite was sanctified with water; the Acharya
-himself performed the Vedic rite, offered his son-in-law water and *arghya*, led Lakshmidevi onto the wedding dais and
-presented her to Gaurahari; then came the wedding fire-sacrifice and a feast for the brahmanas, and afterwards Lakshmidevi
-was escorted to her new home. <!-- F23 -->
+groom were anointed with turmeric paste and bathed, and the place of the rite was sanctified with water; Vallabhacharya
+conducted the Vedic ceremony in person, honoured his son-in-law with water and *arghya*, brought Lakshmidevi up onto the
+dais and placed her before Gaurahari; the fire-sacrifice of the wedding followed, the brahmanas were fed, and at last the
+bride was taken to her new home. <!-- F23 -->
 
 Vrindavana Dasa closes the account of the wedding with a promise: whoever hears of the Lord's marriage will not sink into
 worldly cares (CB, Adi 10.119). The biographies explain: for an ordinary man marriage is a bond, but when the Lord marries,
@@ -141,7 +141,7 @@ senses, awakening instead, according to each one's nature, service to Gaura and 
 <!-- I1 -->
 
 ## Lakshmi in Shachi's House
-When Lakshmi sat beside the Lord, Shachi's house was filled with light.[^6] Vrindavana Dasa says that the house where
+When Lakshmi took her place at the Lord's side, light filled Shachi's house.[^6] Vrindavana Dasa says that the house where
 Lakshmi always stayed beside the Lord became like Vaikuntha, the abode of Narayana and Mahalakshmi. Shachi Devi saw a
 wondrous radiance in it; at times she saw tongues of flame beside her son, again and again the fragrance of the lotus
 filled the house, and she guessed the cause:
@@ -159,10 +159,10 @@ says:
 “Who can understand the supreme will of the Lord? Who knows when and how He performs His pastimes? Even Lakshmi cannot
 know the Lord unless the Lord Himself allows her to know Him.” (CB, Adi 10.128–129)
 
-The Lord's pastimes cannot be grasped by any worldly effort. Without the mercy of the independent Lord, full in six
-opulences and the master of maya, His confidential pastimes are unknown not only to the conditioned soul but even to
-Lakshmi herself; the essence of all scripture is that only His mercy gives the dependent soul the power to know Him (CB,
-Adi 10.130). This “not knowing” on Lakshmi's part is not the power of maya over her but part of the lila itself: by the
+The Vedas, the Puranas and all the scriptures, Vrindavana Dasa goes on, declare that only one whom the Lord has blessed
+with His mercy can understand Him (CB, Adi 10.130). The biographies explain: the Lord's pastimes cannot be grasped by any
+worldly effort; without the mercy of the independent Lord, full in six opulences and the master of maya, His
+confidential pastimes are unknown not only to the conditioned soul but even to Lakshmi herself. This “not knowing” on Lakshmi's part is not the power of maya over her but part of the lila itself: by the
 Lord's will yogamaya covers His majesty, so that the pastimes may flow as human ones. <!-- F26 I2 -->
 
 ## Service
@@ -186,8 +186,7 @@ svastikas, conches and discs. For the worship of Lord Vishnu she prepared sandal
 scented water.” (CB, Adi 14.40–42)
 
 Murari Gupta and Lochana Dasa describe her day in almost the same words. Mahalakshmi in human form, she performed her
-household duties for the pleasure of the Lord, and so taught that service to one's husband, when it is offered to God, is
-service to the Lord Himself. <!-- F29 I3 -->
+household duties for the pleasure of the Lord, and so showed how such duties ought to be done. <!-- F29 I3 -->
 
 Shachi Devi could not rejoice enough in her daughter-in-law's gentleness and good nature. Lakshmi served Tulasi tirelessly,
 “but far more gladly still she served mother Shachi” (CB, Adi 14.43). Gaura-Narayana saw her service and, though He said
@@ -227,8 +226,8 @@ peace.” (CB, Adi 14.99–102) <!-- F37 Q1 -->
 
 ## Departure from This World
 At last Lakshmi could bear the separation no longer and wished to go to the Lord (CB, Adi 14.103). How she went,
-Vrindavana Dasa tells thus: leaving on earth a likeness of her body (*pratikriti-deha*), she went unseen to the Lord; on
-the bank of the Ganga, holding His lotus feet in her heart and absorbed in meditation, the goddess “made her departure”
+Vrindavana Dasa tells thus: leaving on earth a likeness of her body (*pratikriti-deha*), she went quite unseen to the Lord; on
+the bank of the Ganga, holding His lotus feet in her heart and absorbed in meditation, the Devi “made her departure”
 (*karila vijaya*) (CB, Adi 14.104–105).[^8] The biographies say the same: Maheshvari Lakshmi Devi, ever devoted to the
 service of the Lord's feet, unable to bear the separation and longing to be at His feet, absorbed in meditation on
 Gaura's feet, went to her own abode — she withdrew from sight. One of them adds that she left “prematurely.”[^9]
@@ -243,10 +242,20 @@ separation from the Lord took the form of a snake and bit Lakshmi, and she went 
 Vaikuntha, the highest of all. Srila Bhaktisiddhanta writes in the “Anubhashya”: “Bitten by the black snake of
 separation, Lakshmi leaves the manifest pastimes.” So too says Lochana Dasa: “Separation took the form of a serpent”
 (“Chaitanya-mangala,” Adi-khanda, part 13, v. 111) — and, retelling him, one of the biographies: the snake of separation
-bit Lakshmidevi, and she went into the Lord's unmanifest pastimes, into the spiritual abode. This departure is not a
+bit Lakshmidevi, and she passed into the hidden lila of the Lord, the spiritual realm. This departure is not a
 worldly death: the Lord's eternal consort, whose body is not material, only withdrew from His manifest lila and entered
 the eternal pastimes. Murari Gupta names this chapter of his poem accordingly — “The Festival of Sri Lakshmi's Departure”
 (*Shri-lakshmi-vijaya-utsava*).[^10] <!-- F40 F41 -->
+
+Srila Bhaktisiddhanta explains this at length in his “Gaudiya-bhashya” on the “Chaitanya-bhagavata.” Lakshmipriya Devi is
+Mahalakshmi, the svarupa-shakti, the internal energy of Gaura-Narayana; unable to bear separation from Him, she left on
+the bank of the Ganga only a likeness of her body and, in her eternal form, passed from people's sight, meditating on the
+Lord's feet. And should anyone doubt whether the Lord's svarupa-shakti could, like a conditioned soul, be bitten by a
+snake and give up her body, that doubt is removed by the “Bhagavatam” in its account of Krishna's own departure: the Lord
+only gives the appearance of leaving a body, like a magician in a performance, while He Himself goes to His abode in His
+original form. The bodies of the Lord and of His svarupa-shakti, Srila Bhaktisiddhanta adds, quoting the “Varaha Purana,”
+are not made of flesh, blood and bone. And the words *ati alakshite*, “quite unseen” (CB, Adi 14.104), he explains from the “Bhagavatam”: even the gods
+could not see Krishna going to His abode (SB 11.31.8–9). <!-- F52 -->
 
 The lament of Shachi, left alone, says Vrindavana Dasa, would have melted even wood; it cannot be described, and he
 mentions it only briefly, for it pains him to speak of it. The devotees and kind neighbours, learning of Lakshmi's
@@ -271,7 +280,9 @@ Hearing of His wife's departure, the Lord bowed His head and for a while was sil
 “For a while He grieved like an ordinary man, and then, with perfect composure, He spoke.” (CB, Adi 14.181)
 
 His sorrow is not the power of grief over Him: it is *nara-lila*, the Lord's pastime in human form, in which He expresses
-feelings as a human being would. Then He spoke of the highest truth: who in this world is anyone's husband, anyone's son? No one here belongs to anyone,
+feelings as a human being would. Srila Bhaktisiddhanta explains: as an ordinary man grieves in separation from his wife,
+so for a while the Lord imitated him, and then showed resignation to the inevitable; He Himself is Narayana, untouched by
+ignorance. <!-- F53 --> Then He spoke of the highest truth: who in this world is anyone's husband, anyone's son? No one here belongs to anyone,
 and to think otherwise is delusion (CB, Adi 14.182). “Mother, why do you grieve? What is ordained cannot
 be averted; the course of time is irresistible, and every tie here may break at any moment — that is why the Vedas call
 this world impermanent. All the universes are in the power of the Supreme Lord — who but He can join and separate? Why
@@ -303,7 +314,8 @@ leaving her too, He might give the lesson of renunciation (1.29). <!-- F4 -->
 
 Vishnu has three energies — Sri, Bhu and Nila (Lila). In the pastimes of Gaura-Narayana the sri-shakti is Lakshmipriya,
 the bhu-shakti Vishnupriya, and the lila-shakti Sri Navadvipa-dhama itself; and all of them are expansions and maidservants
-of the supreme shakti, Sri Radhika. Krishnadasa Kaviraja says of the goddesses of fortune that they are partial
+of the supreme shakti, Sri Radhika. So too Srila Bhaktisiddhanta sings: “Lakshmi Devi is Lakshmipriya, Nila Devi is the
+Dhama; the three shaktis serve Radha and Krishna.” <!-- F51 --> Krishnadasa Kaviraja says of the goddesses of fortune that they are partial
 manifestations of Radha, “as it were, the splendour of Her body” (CC, Adi 4.77–78). Lakshmipriya is therefore not Radha:
 Radha in Gaura's pastimes is Gadadhara Pandita. Srila Bhaktisiddhanta explains in the “Anubhashya” (on CC, Adi 1.37–45):
 when Gaura shows His oneness with Narayana, His shaktis are His consorts Lakshmipriya and Vishnupriya; when with Krishna,
@@ -316,14 +328,17 @@ Gaura-Narayana; and when Vishnupriya had grown and become worthy of that service
 
 ## Remembrance
 In 1892, as Srila Bhaktivinoda Thakura's “Sajjana-toshani” reports, Srila Jagannatha Dasa Babaji proposed that at the
-Lord's birthplace in Mayapur Jagannatha Mishra and Shachi Devi be worshipped in one building, and Mahaprabhu with Lakshmi
-Devi and Vishnupriya at His sides in another. <!-- F48 -->
+Lord's birthplace in Mayapur one temple building be given to Jagannatha Mishra and Shachi Devi, and a second to Mahaprabhu, flanked by
+Lakshmi Devi and Vishnupriya. <!-- F48 -->
 
 Among the prayers of the “Namamrita-samudra,” in which Narahari Chakravarti calls upon the Lord's associates, is one
 addressed to both of Gaura's consorts:
 
 “Lakshmi and Vishnupriya Devi, with your companions! Be merciful: may the pastimes in Nadia abide in my mind.”
 (“Namamrita-samudra” 6) <!-- F49 -->
+
+And in another prayer of the same poem Narahari asks Govinda Datta: “Show me that pastime — how the Lord was wed to
+Lakshmipriya” (“Namamrita-samudra” 115). <!-- F54 -->
 
 ## Significance
 Lakshmipriya Devi is the Lakshmi of Gaura-Narayana, Janaki and Rukmini in one form, the Lord's sri-shakti who came into
