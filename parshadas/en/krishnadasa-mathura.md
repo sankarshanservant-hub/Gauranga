@@ -457,8 +457,9 @@ companions before the Pathans, and would not part from the Lord while he could s
     “Chaitanya-charitamrita.”
 [^6]: The Bengali text of the Gaudiya Math edition reads ‘সনোড়িয়া’, *sanodiya* (*yadyapi ‘sanodiya’ haya seita
     brahmana*, Madhya 17.179); the Russian translation and some of the biographies spell it “Sanoriya.”
-[^7]: One of the biographies names, instead of the Kalwars of the “Amrita-pravaha-bhashya,” the Kanwars, and explains that
-    they are priests of jewellers and gold dealers; another calls his community “Sanovar.”
+[^7]: One of the biographies names, instead of the Kalwars and Sanovars of the “Amrita-pravaha-bhashya,” the Kanwars and
+    Sanwars, and explains that they are dealers in gold and jewellery; another calls his community “Sanovar.” The Bengali
+    text of the “Amrita-pravaha-bhashya” reads ‘কালওয়ার’ and ‘সানোয়াড়’, Kalwars and Sanovars.
 [^8]: According to the “Chaitanya-charitamrita,” the Sanodiya brahmana went with the Lord through Soro-kshetra as far as
     Prayaga (Madhya 18.158, 18.214–218), whereas in Murari and Lochana the parting with Krishnadasa takes place in Vraja.
     This is one of the differences because of which the identity of the Sanodiya brahmana with Krishnadasa is a

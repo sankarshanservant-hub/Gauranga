@@ -408,13 +408,13 @@ received initiation at the same time as Advaita. Mahaprabhu always honoured him 
 godbrother of His own guru (GGD 56; “Prema-vilasa” 22). <!-- F122 F123 F124 Q24 -->
 
 In Mathura Madhavendra came to the house of the Sanodiya brahmana, gave him the mantra and accepted a meal from him.
-This brahmana came from a family of priests of the Sanvar caste, associated with goldsmiths. Bhaktivinoda Thakura
-explains that among the western vaishyas the Agravals are considered pure, while the Kanvars and Sanvars are
+This brahmana came from a family of priests of the Sanovar caste, associated with dealers in gold. Bhaktivinoda Thakura
+explains that among the western vaishyas the Agarwals are considered pure, while the Kalwars and Sanovars are
 considered fallen; their priests are called Sanodiya brahmanas, and sannyasis do not eat at their houses. But
 Madhavendra, seeing in him a Vaishnava, accepted food from him — and thereby showed what daiva-varnashrama is: a
 Vaishnava is not judged by caste. Srila Bhaktisiddhanta calls the Sanodiya brahmana a pure devotee: although by caste
-rules it was forbidden to drink water from his hands, he stood on daiva-varnashrama, and those who judge devotees by
-worldly caste or despise maha-prasada the Lord called wicked fools. <!-- F83 F125 F128 I6 -->
+rules it was forbidden to drink water from his hands, he stood on daiva-varnashrama, and so he fearlessly called fools
+and wicked those who judge devotees by worldly caste and quarrel about maha-prasada. <!-- F83 F125 F128 I6 -->
 
 By Madhavendra's mercy love for Krishna awoke in this brahmana. Many years later, already an old man, he saw the Lord
 dancing in ecstasy in Mathura, at the temple of Keshavaji, fell at His feet and joined in His dance; the people,
