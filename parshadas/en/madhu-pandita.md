@@ -18,10 +18,11 @@ He was a disciple of Gadadhara Pandita. The “Bhakti-ratnakara” says so plain
 Sri Gopinatha, is known as the disciple of Gadadhara Pandita” (13.319). Srila Bhaktisiddhanta Sarasvati, in his
 “Anubhashya” on the “Charitamrita” (Adi 12.87), following the “Shakha-nirnaya” of Yadunandana Dasa, names him fifth
 among the additional branches of Gadadhara's tree; his shripat, he writes, is the village of Saimbona, two miles east of
-Khardaha, and it was he who installed the famous Deity of Gopinathadeva in Vrindavana and served Him.[^3] The same bond
-with Gadadhara is remembered in the “Shakha-nirnayamrita” of Yadunandana Dasa: Madhu Pandita is a disciple of Sri
-Gadadhara Pandita and a resident of Vrindavana; “I bow to Sri Madhu Pandita, the great soul, full of sweet love,
-devoted to prema, intoxicated with rasa in Vrindavana” — so the “Gaudiya-vaishnava-abhidhana” quotes its stanza (34).
+Khardaha, and it was he who installed the famous Deity of Gopinathadeva in Vrindavana and served Him.[^3] The same bond is
+remembered in Yadunandana Dasa's book itself, the “Shakha-nirnayamrita,” whose stanza (34) the “Gaudiya-vaishnava-abhidhana”
+quotes: Madhu Pandita is a disciple of Sri Gadadhara Pandita and a resident of Vrindavana, and the author
+praises him: “I bow to Sri Madhu Pandita, the great soul, full of sweet love, devoted to prema, intoxicated with rasa
+in Vrindavana.”
 <!-- F3 F4 F5 F26 -->
 
 ## The Three Lords of Vrindavana
@@ -56,7 +57,7 @@ the Lord of *abhidheya*, the path of service; Gopinatha is the Lord of *prayojan
 gopis whom He calls to the rasa with His flute. So Srila Bhaktisiddhanta explains these verses in the “Anubhashya.” By
 granting the Gaudiya Vaishnavas the right to serve Them, these three Deities made them Their intimates, as the
 “Amrita-pravaha-bhashya” of Srila Bhaktivinoda Thakura explains: service is the sign that the Lord has accepted the
-servant as His own. To Madhu Pandita fell the service of the Deity of the highest goal.
+servant as His own. To Madhu Pandita the Lord entrusted the service of the Deity of the highest goal.
 <!-- F14 F15 Q4 Q5 Q6 Q7 I2 I3 -->
 
 ## Gopinatha at Vamshivata
@@ -156,7 +157,7 @@ garland, together with the heads of the Vaishnavas he receives Jahnava and Virac
     Kavi Karnapura mentions him. The appearance of Gopinatha can be placed in Mahaprabhu's time only conjecturally; in
     person Madhu Pandita appears in the sources in Jiva's era — with Srinivasa, Narottama, Jahnava and Virachandra.
 [^3]: The “Gaudiya-vaishnava-abhidhana” reports the following about Saibona (24 Parganas). The Deity of Sri Nandadulala
-    is worshipped there; according to tradition, Virabhadra had three Deities of Krishna carved from a single stone —
+    is worshipped there; according to tradition, Virabhadra had three Deities of Krishna manifested from a single stone —
     Shyamasundara for Khardaha, Radhavallabha for Vallabhapura and Nandadulala for Saibona — and Nandadulala is said to
     have been installed by Rudra Pandita and Lakshmana Pandita; but according to the “Vaishnavachara-darpana,”
     Nandadulala at Saibona was installed by “the renowned Madhu Pandita of Vrindavana.” Every year on Magha-purnima a
@@ -189,7 +190,7 @@ garland, together with the heads of the Vaishnavas he receives Jahnava and Virac
     adhikari of Sri Gopinatha” is the title of Madhu Pandita himself (so too in the neighbouring stanzas: “the adhikari
     of Govinda is Ananta Acharya,” the adhikari of the service of Madana-gopala is Krishnadasa Brahmachari), and his
     godbrother (13.320) is Bhavananda, the servant of Gopinatha. Madhavacharya, too, belongs to Gadadhara's branch and
-    stands beside Madhu Pandita in 6.511. The “Gaudiya-vaishnava-abhidhana” also calls Bhavananda Madhu Pandita's
+    stands beside Madhu Pandita in 6.511. And the “Gaudiya-vaishnava-abhidhana” calls Bhavananda Madhu Pandita's
     special friend.
 [^12]: The reading of the first line of the vandana attributed to Jiva is unclear: in the editor's view, “the Pandita
     named Madhu” may here be an epithet of Govinda Acharya. The “Vaishnavabhidhana” names a “Madhusudana Pandita” —
