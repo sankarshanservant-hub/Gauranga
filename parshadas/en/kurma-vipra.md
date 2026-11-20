@@ -6,12 +6,12 @@ At the start of His journey through the South, Sri Chaitanya spent one night in 
 little more than his name. Krishnadasa Kaviraja calls him “a Vedic brahmana named Kurma” (*kurma-name… vaidika
 brahmana*); the biographies call him Kurma Vipra, that is, the brahmana Kurma. He bore the same name as the village where
 he lived and as the Deity worshipped there.[^1] Other primary sources add words of praise to his name: Kavi Karnapura calls
-him “most wise, a great soul” and “the first of excellent brahmanas,” Govinda-deva “a learned brahmana,” and Narahari
-Chakravarti addresses him as “Sri Kurma Thakura, the dweller in Kurma.” <!-- F1 -->
+him “most wise, a great soul” and “the first of excellent brahmanas,” Govinda-deva “a learned brahmana” and “the best of
+the initiated,” and Narahari Chakravarti addresses him as “Sri Kurma Thakura, the dweller in Kurma.” <!-- F1 F30 -->
 
 He lived at Kurma-kshetra (Kurmasthana), in the very village where the Lord bowed down to the Deity of Kurma. Srila
 Bhaktisiddhanta Sarasvati explains in his “Anubhashya” that this is Kurmachalam, or Srikurmam, in Ganjam district, eight
-miles east of Chicacole Road station — the foremost tirtha of the Telugu-speaking people, where the Deity of Lord Kurma,
+miles east of Chicacole Road station — the foremost tirtha for those whose language is Telugu, where the Deity of Lord Kurma,
 the Tortoise avatara, resides; his information about the place comes from a manual of Ganjam district.[^2] <!-- F2 F3 -->
 
 In the same place Srila Bhaktisiddhanta relates a tradition of the “Prapannamrita”: in the eleventh century of the Shaka
@@ -47,7 +47,7 @@ And Kurma offered the Lord praise:
 “Your lotus feet, on which Brahma meditates — those same lotus feet have come in person to my house! There is no telling
 the limit of my good fortune. Today my birth, my family and my wealth have become glorious.” (CC, Madhya 7.124–125)
 
-The Lord was pleased with the brahmana's praise. Kurma does not take his Guest for an ordinary sannyasi: he knows Whose
+The brahmana's praise pleased the Lord. Kurma does not take his Guest for an ordinary sannyasi: he knows Whose
 feet he has washed — those on which Brahma meditates — and sees in His coming the highest good fortune of his birth, his
 family and his wealth. <!-- F11 -->
 
@@ -59,7 +59,7 @@ Madhya 7.126)
 
 In the Bengali he speaks of “the waves of separation from You” (*tomara viraha-taranga*). This is not a worldly longing
 for a pleasant guest but the pain of a devotee who cannot bear to be parted from the Lord. So too the verse is headed in
-Srila Bhaktisiddhanta's edition: “Kurma asks leave to follow the Lord.” <!-- F12 F29 -->
+Srila Bhaktisiddhanta's edition: “The brahmana Kurma asks leave to follow the Lord.” <!-- F12 F29 -->
 
 The Lord did not approve of his wish:
 
@@ -84,7 +84,7 @@ Kurma was not the only one to make that request. Krishnadasa Kaviraja continues:
 
 On this verse Srila Bhaktisiddhanta writes in the “Anubhashya”: to those who have resolved to give up everything and
 serve the Lord, Gaurasundara, accepting their bhajana, says “stay at home.” That means: give up the conceit of one “wholly
-given to bhajana,” and, living humbly at home, chant the name constantly and preach the pure name. To think, “I am the
+given to bhajana,” and, living humbly at home, chant the name constantly and spread the pure name. To think, “I am the
 best of Vaishnavas; if I accept disciples, pride will ruin my bhajana” is the same inflated conceit. One who humbly does
 the work of a guru — chants the pure name himself and preaches it — will not be overwhelmed by the waves of worldly fame.
 And one who regards as obstacles to bhakti the books and teachings of Rupa, Sanatana, Jiva and Raghunatha dasa and the
@@ -101,11 +101,12 @@ constantly and speaks of nothing but Krishna. <!-- I2 -->
 Krishnadasa Kaviraja made Kurma the example through which he shows the whole of the Lord's journey in the South:
 
 “On the way, whenever He stayed at a village temple, He would take His meal in someone's house; and with each such great
-soul, His host, He dealt just as He had with Kurma. So He did everywhere, until the Gosani returned to Nilachala. That is
-why I have described it here in detail; know that this is how the Lord acted everywhere.” (CC, Madhya 7.131–133)
+soul, His host, He dealt just as He had with Kurma. So He did everywhere, until the Gosani returned to Nilachala.”
+(CC, Madhya 7.131–132)
 
-In Srila Bhaktisiddhanta's edition these verses are headed: “until He returned to Puri, the Lord ordered everyone to
-preach bhakti as acharyas.” “The Harmonist” — Srila Bhaktisiddhanta's journal, in which a biography of the Lord was
+That is why, Krishnadasa Kaviraja goes on, he has told it here in detail: so one should understand how the Lord acted
+everywhere (7.133). In Srila Bhaktisiddhanta's edition these verses are headed: “Until He returns to Puri, the Lord orders
+everyone to preach bhakti as acharyas.” “The Harmonist” — Srila Bhaktisiddhanta's journal, in which a biography of the Lord was
 published under his editorship in 1928 — puts it the same way: at Kurma-kshetra the Lord accepted the worship of the
 brahmana Kurma, showed him mercy and told him to preach the name of Krishna to others; and He told everyone to preach the
 message of Krishna, themselves following what they preach — that is, to be acharyas. <!-- F15 F21 F29 -->
@@ -118,9 +119,9 @@ In Srila Bhaktisiddhanta's edition these verses are headed “A night in Kurma's
 again.” Kurma went a long way with the Lord, and the Lord had to take pains to send him back. <!-- F16 F29 -->
 
 That same night a brahmana of the same place, the leper Vasudeva, heard of the Lord.[^8] In the morning he came to Kurma's
-house to see Him, but learned from Kurma himself that the Lord had already gone (CC, Madhya 7.138–139). Then the Lord
+house to see Him, but learned from Kurma himself that the Lord was gone (CC, Madhya 7.138–139). Then the Lord
 appeared again, embraced Vasudeva and healed him. Vasudeva, fearing that pride would now arise in him, prayed to the Lord
-for protection from it (7.144–146), and the Lord gave him the same order He had given Kurma: to chant the names of Krishna
+for protection from it (7.144–146), and the Lord gave him the same order He had given Kurma: to chant Krishna's names
 constantly and to teach everyone about Krishna (7.147–148). So in one Kurma-kshetra two brahmanas received one and the
 same order — to deliver the jivas by instructing them in the name of Krishna. The Lord is won only by undivided devotion
 (*ananya-bhakti*), not by externals: He accepted a householder's service and embraced a leper. <!-- F17 F18 Q4 I4 -->
@@ -134,11 +135,11 @@ In Srila Bhaktisiddhanta's edition its heading is “Remembering the Lord's merc
 add that, in each other's arms, they glorified Mahaprabhu's qualities and were immersed in prema.[^9] Krishnadasa
 Kaviraja closes the chapter: so began the Lord's journey — with His visit to Kurma and the deliverance of Vasudeva
 (Madhya 7.151). And the brief summary of the journey given in the biographies says: at Kurmasthana the Lord delivered
-the brahmana Kurma and gave everyone the order to preach devotion to Krishna, and then He delivered Vasudeva.
+the brahmana Kurma and told all to preach devotion to Krishna, and then He delivered Vasudeva.
 <!-- F19 F20 F29 -->
 
-The Lord's words to Kurma and Vasudeva and Srila Bhaktisiddhanta's comment show the mercy of the Lord and of His devotees,
-who see the sufferings of conditioned souls: those whom He meets the Lord makes teachers, so that they may deliver others.
+The Lord's words to Kurma and Vasudeva and Srila Bhaktisiddhanta's comment reveal how merciful the Lord and His devotees
+are, who see the sufferings of conditioned souls: those whom He meets the Lord makes teachers, so that they may deliver others.
 More on Vasudeva is told in his own account. <!-- I3 -->
 
 ## How Others Tell It
@@ -151,14 +152,16 @@ said to them, “By My command lead the people to devotion to Krishna — easily
 3.14.13–16, 19–20). <!-- F22 -->
 
 Kavi Karnapura in his mahakavya relates that Kurma, on seeing the Lord, bowed down to Him again and again and, very
-timidly, said: “Today my birth will bear fruit, for the dust of His two lotus feet will fall upon this house!” Then he
+timidly, said: “Today my birth will bear fruit, today all that is mine will bear fruit: for the dust of His two lotus
+feet will fall upon this house!” Then he
 clasped His feet, led Him into the house and washed His feet; the Lord rejoiced in his house, accepted alms and left.
 When Vasudeva came, Kurma told him: “The Lord was right here: He accepted alms and showed mercy to one such as me. Had you
 come only a moment earlier, you would have seen the Master right here.” And when Vasudeva fell senseless, and the Lord
 returned and healed him, Kurma too fainted and, rising, this “first of Vaishnavas” wove a garland of laments: “Right here
-such good fortune dawned: the Master of the whole world came — and not for a moment did I recognise Him as God!” A priceless
-jewel, he grieved, came right into one's hand — and was not kept; cattle do not know the taste of nectar — so the deluded,
-though touching the philosopher's stone, do not know what stone it is. Unable to bear the separation, he lost his senses
+such good fortune dawned: Mahaprabhu, the Master of the whole world, came and stayed here — and not for a moment did I
+recognise Him as God!” A priceless jewel, he grieved, came right into one's hand — and through mere carelessness one did
+not keep it; cattle do not know the taste of nectar — so the deluded, though touching the philosopher's stone, do not
+know that it is a great jewel. Unable to bear the separation, he lost his senses
 and fainted again and again (“Chaitanya-charita-mahakavya” 12.102–105, 108–109, 113–117). <!-- F23 -->
 
 These laments are the speech of humility and separation, not real blindness. According to the “Charitamrita,” Kurma from
@@ -174,15 +177,15 @@ Govinda-deva in the “Gaura-krishnodaya” calls Kurma a learned brahmana, unti
 deeds. Bowing down with love, he led the Lord to his home, wishing to cross over the hell of rebirth; seeing the Lord's
 greatness, beside himself with prema, he gave Him alms and wished to leave with Him, but the Lord, knowing this, showed
 him favour and forbade him. In the morning Kurma accompanied the Lord a little way and forced himself to return home,
-lamenting: “O Gaurachandra, ocean of nectarean qualities, protect me!” Before Kurma's eyes the Lord embraced Vasudeva,
+lamenting: “O Gaurachandra, best of the virtuous, ocean of nectarean qualities, protect me!” Before Kurma's eyes the Lord embraced Vasudeva,
 and afterwards the two, weeping in separation from Gaura, became honoured together with the townspeople (9.4–6, 9, 12).
 <!-- F25 -->
 
 Lochana Dasa in the Shesha-khanda writes that the Lord, on His way to Setubandha, saw in the town called Kurma a brahmana
 named Kurma; Vasudeva lived in the same village, and the Lord met both in one place. By the sight of the Lord they became
 pure, recognised Gaurachandra as Krishna and fell at His feet. The Lord embraced them both, asked them for what purpose
-they had come into the world and what they followed, and instructed them: “In the Kali-yuga the dharma is the
-sankirtana of Hari's name… Dance, dance — let the people be freed from their bonds!” When the Lord hurriedly left, they
+they had come into the world and what they followed, and instructed them: “In the Kali age the dharma is the
+sankirtana of Hari's name… dance, dance — let people be freed from bondage!” When the Lord hurriedly left, they
 lost all awareness of themselves (46.4–14). Srila Bhaktisiddhanta's summary of the chapter names only Vasudeva.
 <!-- F26 -->
 
@@ -235,11 +238,11 @@ delivers others by His name. <!-- F15 F21 I1 I2 I3 -->
 [^9]: The Bengali of 7.149 says, “they weep over the Lord's qualities” (*kande prabhura gune*); the edition's heading
     speaks of His mercy. The farewell of the two
     brahmanas is told in different ways: according to the biographies, they sang Mahaprabhu's glories with tears of
-    separation (one says they were immersed in prema, and elsewhere that they wept, remembering His mercy); in
+    separation (one says they were immersed in prema, and elsewhere that they wept, remembering the Lord's qualities); in
     Govinda-deva they wept in separation; in Karnapura Kurma faints and laments. We follow the “Charitamrita.”
 [^10]: The accounts differ both from the “Charitamrita” and from one another. In the “Charitamrita” there is the
     invitation, the washing of the feet, the meal, the praise, the request to go with the Lord, the refusal and the order
-    to stay at home and become a guru, the night in the house, the morning departure and the seeing-off, and then
+    to remain at home and become a guru, the night in the house, the morning departure and the seeing-off, and then
     Vasudeva's arrival. Govinda-deva has the request to go and the prohibition, the seeing-off and the lament, but no word
     about becoming a guru. In Karnapura's mahakavya there is the meal and the departure, but no instruction to Kurma at
     all; Kurma's lament follows Vasudeva's healing. Murari Gupta has the meal, after which the Lord orders both brahmanas
