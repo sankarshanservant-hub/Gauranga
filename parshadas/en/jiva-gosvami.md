@@ -266,7 +266,7 @@ Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^17] <!-- F7
 
 When Nityananda's son Virachandra (Virabhadra) came to Vrindavana, the mahajanas of Vraja went out to meet him — Jiva,
 Krishnadasa Kaviraja, Ananta Acharya, Haridasa Pandita, Krishnadasa Brahmachari (a disciple of Gadadhara Pandita and
-servant of Madana-Gopala), Gopinatha Adhikari, Madhu Pandita and his fellow Madhavacharya. With the permission of Bhugarbha
+servant of Madana-Gopala), Madhu Pandita, the adhikari (steward of the service) of Gopinatha, and his godbrother Bhavananda. With the permission of Bhugarbha
 and Jiva, Virachandra went round Vraja: the twelve forests, Radha- and Shyama-kundas, Govardhana.[^18] <!-- F81 F82 -->
 
 Jiva's name appears in many other accounts of the Vaishnavas of that time as well. He is among those who teach the worship
@@ -1666,7 +1666,10 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
 [^18]: According to the “Bhakti-ratnakara” (13th wave), as one of the biographies retells it, Virachandra went round Vraja
     with the permission of his mother, Vasudha, and with the blessing of Bhugarbha and Jiva; according to another
     biography, at their command. The “Bhakti-ratnakara” itself (13.329) says “with the permission” of Bhugarbha, Sri Jiva
-    and others.
+    and others. One of the biographies lists “Gopinatha Adhikari” among those who came out to meet him as a separate
+    person, and names Madhavacharya as Madhu Pandita's godbrother; but in the “Bhakti-ratnakara” (13.319–320) “the
+    adhikari of Sri Gopinatha” is the title of Madhu Pandita himself, and his godbrother is Bhavananda, the servant of
+    Gopinatha.
 
 [^19]: One of the biographies, in its chapter on Madhavendra Puri, also mentions Jiva's father: Mahaprabhu came to Arail,
     where Rupa and Vallabha were living, in 1434/1435 Shaka (1512–1513) and showed mercy to Vallabhacharya. This date is

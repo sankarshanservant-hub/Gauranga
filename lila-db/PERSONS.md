@@ -25,7 +25,7 @@
 | @madana-mohana-vrindavana | Мадана-мохана — Божество во Вриндаване | Madana-mohana, the Deity of Vrindavana | Божество Санатаны Госвами; не путать с @madana-gopala-deity |
 | @shyamasundara-khardaha | Шьямасундара — Божество в Кхардахе | Shyamasundara, the Deity of Khardaha | Божество Нитьянанды и Вирачандры |
 | @bankima-raya | Банкима Рай (Банкимдева) — Божество в Экачакре | Bankima Raya (Bankimadeva), the Deity of Ekachakra | в Него, по преданию, вошёл Нитьянанда |
-| @gopinatha-vrindavana | Гопинатха — Божество во Вриндаване | Gopinatha, the Deity of Vrindavana | Радха-Гопинатха; служитель — Мадху Пандит; рядом — изваяние Джахнавы; не путать с @gopinatha-deity-puri (тег @gopinatha-deity-vrindavana слит сюда 2026-10-24, `lila-db/review/tags-2026-10-24.md`) |
+| @gopinatha-vrindavana | Гопинатха — Божество во Вриндаване | Gopinatha, the Deity of Vrindavana | Радха-Гопинатха; служитель — Мадху Пандит; рядом — облик Джахнавы; не путать с @gopinatha-deity-puri (тег @gopinatha-deity-vrindavana слит сюда 2026-10-24, `lila-db/review/tags-2026-10-24.md`) |
 | @vishvanatha-kashi | Вишвешвара (Вишванатха) — Божество в Каши | Vishveshvara (Vishvanatha), the Deity of Kashi | Шива |
 | @veni-madhava | Вени-Мадхава — Божество в Праяге | Veni-Madhava, the Deity of Prayaga | |
 | @shrinathji-deity | Шринатхаджи (Шри Говарданатха) — Божество на Говардхане | Shrinathji (Sri Govardhananatha), the Deity on Govardhana | главное Божество пушти-марги (ныне в Натхдваре); гаудии отождествляют с Гопалой, явленным Мадхавендрой Пури (ЧЧ Мадхья 4) |
