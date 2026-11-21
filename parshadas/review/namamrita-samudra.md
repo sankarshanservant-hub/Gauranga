@@ -38,7 +38,7 @@
 | 21 | Мурари, Говинда, Мукунда, Васу Гхош | @vasu-ghosha | F40 |
 | 22 | Ананта, Ишвара, Мадхавендра Пури | @madhavendra-puri, @ishvara-puri | F283; F81 |
 | 24 | Васудева Датта, Уддхарана, Пурандара | @vasudeva-datta, @uddharana-datta | F48; F53 |
-| 27 | Бхугарбха, Локанатха | @bhugarbha | F45 |
+| 27 | Бхугарбха, Локанатха | @bhugarbha, @lokanatha | F45; F78 |
 | 11–12 | Васудева Сарвабхаума Бхаттачарья; мать Шатхи, Шатхи (ст. 12 — в том же пункте) | @sarvabhauma | F135 |
 | 29 | Рупа, Санатана | @rupa-gosvami, @sanatana-gosvami | F650; F496 |
 | 30 | Гопала Бхатта, Рагхунатха дас | @gopala-bhatta, @raghunatha-dasa | F110; F142 |
@@ -132,7 +132,7 @@
 | 24 | Пурандара | @purandara-pandita? / @purandara-acharya? |
 | 25 | Дамодара, Шрикара, Валлабха, Санатана | ? (@sanatana-mishra?) |
 | 26 | Гопинатха Ачарья, Нрисимха, Симхешвара | @gopinatha-acharya |
-| 27 | Локанатха | @lokanatha |
+| 27 | Локанатха | @lokanatha — внесено (F78) |
 | 28 | Бхагавата Мадхава Ачарья | @madhava-acharya-kavivallabha? |
 | 31 | Субуддхи Мишра, Рагхава, Камсари | @subuddhi-mishra, ?, @kamsari-sena? |
 | 34 | Мадху Пандит, Каши Мишра, Гангадас | @madhu-pandita — внесено (F25), @kashi-mishra, ? |

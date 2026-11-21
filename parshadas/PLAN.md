@@ -201,7 +201,7 @@ B — вероятно, больше сотни).
 | @madhu-pandita (102) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @chand-kazi (103) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagai-madhai (104) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @lokanatha (105) | ✓ | ✓ (PDF) | — |
+| @lokanatha (105) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhagavatacharya (106) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vrindavana-dasa (107) | ✓ | ✓ (PDF) | — |
 

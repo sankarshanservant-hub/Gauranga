@@ -72,7 +72,7 @@ Lord's house to him. At the door he could not bring himself to enter: his body g
 consciousness left him. <!-- F20 F21 -->
 
 ## With the Lord in Navadvipa
-The Lord was sitting among Shrivasa, Murari, Mukunda, Haridasa and other devotees. He was told of the newcomer, and at
+The Lord was sitting among Srivasa, Murari, Mukunda, Haridasa and other devotees. He was told of the newcomer, and at
 once He came out, embraced the youth with great tenderness and said: “Dear Lokanatha, why did you forget Me for so long?
 For many days I have been thinking of you.”[^6] <!-- F22 -->
 
@@ -214,7 +214,7 @@ He also stayed at Radha-kunda, where Raghunatha Dasa had settled. The “Karnana
 ‘Gopala-champu’ they all relished together unceasingly.” (“Karnananda” 4.432–433) <!-- F44 Q10 -->
 
 According to the same book, Raghunatha Dasa vowed to leave his body before the eyes of Jiva, Krishnadasa and Lokanatha;
-and when Shrinivasa was receiving blessings for his journey, Lokanatha and Bhugarbha prayed to Govinda for him.
+and when Srinivasa was receiving blessings for his journey, Lokanatha and Bhugarbha prayed to Govinda for him.
 <!-- F83 -->
 
 And yet Lokanatha and Bhugarbha stood apart from what made the six Gosvamis famous. They displayed the pastime of
@@ -236,8 +236,8 @@ Krishna in the form of the Deity. The “Bhakti-ratnakara” tells how the Lord 
 Radha-vinoda — He handed Him over and at that very moment vanished from there.” (“Bhakti-ratnakara” 1.327–328)[^16]
 <!-- F48 F49 -->
 
-Lokanatha was amazed, and then troubled: who had given him such a Deity, and where had he gone? Could it have been the
-Lord Himself who came and went? Then Radha-vinoda looked at him sweetly, smiled and spoke:
+Lokanatha was amazed, and then troubled: who had given him such a Deity, and where had the giver gone? Could it have
+been the Lord Himself who came and went? Then Radha-vinoda looked at him sweetly, smiled and spoke:
 
 “‘I live in the forest by this village of Umrao; here, at this Kishori-kunda, is My place. Seeing your longing, I too
 grew restless: who will bring Me? — and I came Myself. Quickly give Me something to eat.’” (“Bhakti-ratnakara”
@@ -279,7 +279,7 @@ himself the lowest of all, and adds:
 This is not worldly modesty or concern for a good name, but the humility of a pure devotee — *amani*, one who seeks no
 honour for himself. Kaviraja remembered the condition and kept it: Lokanatha's name stands in his book only in a single
 list, and of his renunciation and bhakti there is not a word. That is why his name is so rarely met in the
-“Chaitanya-charitamrita.” Nor are Shrinivasa and Narottama, Lokanatha's disciple, named there — something many people
+“Chaitanya-charitamrita.” Nor are Srinivasa and Narottama, Lokanatha's disciple, named there — something many people
 ask about. <!-- F58 F59 -->
 
 To him, as to no one else, applies the saying: “Let not even a stone tell where I lie.” Lokanatha and the few devotees of
@@ -349,7 +349,7 @@ consciousness. Secluded viviktanandis are usually not inclined to works for peop
 Narottama's stature takes them up, those works themselves are elevated; Lokanatha instructed the world through his
 disciple — as a mother-in-law teaches the daughter-in-law while instructing her own daughter. <!-- F67 I4 -->
 
-Shrinivasa knew Lokanatha's intention. When the books of the Gosvamis were stolen on the way to Gauda, he told
+Srinivasa knew Lokanatha's intention. When the books of the Gosvamis were stolen on the way to Gauda, he told
 Narottama: “Go quickly to Kheturi and carry out Lokanatha's order” (“Bhakti-ratnakara” 7.119). So, by his guru's will,
 Narottama left Vrindavana. The “Prema-vilasa” tells also of Lokanatha's instructions before his departure and of his
 weeping at the news of the theft of the books. <!-- F82 -->
@@ -366,9 +366,9 @@ manifested at Lokanatha's command; and at his command too Shyamananda was invite
 
 Narottama remembered his guru all his life. In the songs of the “Prarthana” he prays that Prabhu Lokanatha take him
 along and give him to the feet of Sri Rupa; he laments over the rope of mercy by which the Lord drew him to Vraja and
-which maya and fate cut through; he cries “ha ha prabhu lokanatha”: without his mercy one attains neither Chaitanya nor
-Radha and Krishna. And in a humble song about the Gosvamis whom, as he says, he never served, he names Lokanatha among
-them. <!-- F69 Q8 -->
+which, as he humbly says, maya and fate cut through; he cries “ha ha prabhu lokanatha”: without his mercy one attains
+neither Chaitanya nor Radha and Krishna. And in a humble song about the Gosvamis whom, as he says, he never served, he
+names Lokanatha among them. <!-- F69 Q8 -->
 
 Later, in Navadvipa, Narottama told how in Vrindavana he had lived in the care of Jiva and Lokanatha; and in Khardaha
 Jahnava and Vasudha, seeing that the mercy of Lokanatha and Jiva was upon him, bestowed their own mercy on him as well.
@@ -383,20 +383,20 @@ works is an eight-verse hymn in Lokanatha's honour, the “Sri Lokanathashtaka.�
 teacher: He accepted him, instructed him and sent him to Vraja. How his initiation took place the sources do not
 describe.[^20] <!-- F71 Q11 F84 F85 F86 -->
 
-## Shrinivasa, Jahnava, Ramachandra
-When Shrinivasa came to Vrindavana, Jiva Gosvami presented him to Lokanatha and Bhugarbha:
+## Srinivasa, Jahnava, Ramachandra
+When Srinivasa came to Vrindavana, Jiva Gosvami presented him to Lokanatha and Bhugarbha:
 
 “Srinivasa bowed at the feet of both, and both embraced him with great tenderness. In loving rapture they could not let
 him out of their arms and bathed Srinivasa in tears. They entrusted him to the lotus feet of Sri Radha-vinoda.”
 (“Bhakti-ratnakara” 4.357–359)
 
-Before leaving for Gauda with the books of the Gosvamis, Shrinivasa, Narottama and Shyamananda received Lokanatha's
-blessing; according to the “Karnananda,” he was among those who blessed Shrinivasa, and according to the
-“Narottama-vilasa,” he entrusted Narottama to Shrinivasa. The second time Shrinivasa came to Vrindavana he was in grief,
+Before leaving for Gauda with the books of the Gosvamis, Srinivasa, Narottama and Shyamananda received Lokanatha's
+blessing; according to the “Karnananda,” he was among those who blessed Srinivasa, and according to the
+“Narottama-vilasa,” he entrusted Narottama to Srinivasa. The second time Srinivasa came to Vrindavana he was in grief,
 and Lokanatha together with the other elders told him of Gaura and Krishna and consoled him. <!-- F73 F81 F83 -->
 
 When Jahnava Devi came to Vraja, Lokanatha went out with the heads of the Vaishnava community to honour her;[^21] and at
-her departure, according to the “Narottama-vilasa,” he blessed Shrinivasa and Narottama. According to the
+her departure, according to the “Narottama-vilasa,” he blessed Srinivasa and Narottama. According to the
 “Prema-vilasa,” Jahnava praised Lokanatha's disciple Narottama to him, and on her return brought Lokanatha's blessing to
 Narottama in Kheturi. <!-- F74 F81 F88 -->
 
