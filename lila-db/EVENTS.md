@@ -4142,7 +4142,7 @@
 - cb (A): Антья 6, 8–37 — [8–37](../chaitanya-bhagavata/ed/CB_Antya06.md?plain=1#L47-L196) · `cb-3091`
 - cb (A): Антья 6, 114–128 — [114–128](../chaitanya-bhagavata/ed/CB_Antya06.md?plain=1#L585-L654) · `cb-3093`
 
-## Рождение Вриндавана Даса у Нараяни / The birth of Vrindavana Dasa to Narayani  `ev-vrindavana-dasa-birth` (1512–1514, возраст 26–28, оценка)
+## Рождение Вриндавана Даса у Нараяни / The birth of Vrindavana Dasa to Narayani  `ev-vrindavana-dasa-birth` (1511–1518, возраст 25–32, оценка)
 
 - cc (A): Ади 8.41 — [41–41](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi08.md?plain=1#L432-L432) · `cc-0096`
 - prema-vilasa (D): Виласа 23, 65–75 — [65–75](../prema-vilasa/ru/23.md?plain=1#L197-L227) · `pvl-0192`
