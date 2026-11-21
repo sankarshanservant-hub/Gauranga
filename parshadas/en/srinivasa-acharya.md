@@ -465,8 +465,8 @@ departure, on Magha krishna-ekadashi, at Kanchanagaria, he initiated his sons Sr
 <!-- F99 F100 Q19 Q20 -->
 
 ## Kheturi
-When Narottama, at Lokanatha's command, manifested six pairs of Deities at Kheturi — Gauranga, Vallabhi-kanta,
-Vraja-mohana, Sri Krishna, Radha-kanta and Radha-ramana — Srinivasa, at Jahnava's direction, himself performed Their
+When Narottama, at Lokanatha's command, manifested six Deities at Kheturi — Gauranga, Vallavikanta,
+Vrajamohana, Sri Krishna, Radha-kanta and Radha-ramana — Srinivasa, at Jahnava's direction, himself performed Their
 abhisheka, installation and first puja. This was on Phalguna-purnima. <!-- F101 -->
 
 The news of the festival reached Srinivasa at Budhari, in the house of Govinda Kaviraja, and everyone went with him to
@@ -488,7 +488,7 @@ the Gosvamis had supposedly prescribed worship of Gaura with the ten-syllable Go
 that on Phalguna-purnima everyone took maha-prasada. This is an interpolation by a malicious opponent of the Gaura-mantra
 and of observing the day of Gaura's appearance. There is nothing of the kind in the “Bhakti-ratnakara”: it says the Deities
 were “worshipped with wondrous rites,” and Narottama bowed to each, calling Him by name: “O Gauranga! O Vallavikanta! O Sri
-Krishna! O Vraja-mohana! O Radha-ramana! O Radhe! O Radha-kanta! Obeisance to You!” (10.492–496). So each Deity was
+Krishna! O Vrajamohana! O Radha-ramana! O Radhe! O Radha-kanta! Obeisance to You!” (10.492–496). So each Deity was
 worshipped with a special mantra, His own: to the different manifestations of the Lord — form, name, associates,
 pastimes — correspond different mantras, as the shastras and the mahajanas confirm. Vilasas 19 and 20 are not genuine at
 all: of the four manuscripts from which the “Prema-vilasa” was published at Baharampur (Bengali year 1299), three end with

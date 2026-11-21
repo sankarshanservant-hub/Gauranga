@@ -791,4 +791,4 @@
 | Умрао; Кишори-кунда (у одного жизнеописания — Кишора-кунда); Чхатраван | Umrao; Kishori-kunda (Kishora-kunda); Chhatravana | место явления Радха-виноды |
 | Кадамба-кунджа (у Чир-гхата) | Kadamba-kunja | место бхаджана Локанатхи и Бхугарбхи |
 | Кхадираван; Кхаяра; Югала-кунда; храм Радха-Гокулананды | Khadiravana; Khayara; Yugala-kunda; Radha-Gokulananda temple | места самадхи @lokanatha по двум жизнеописаниям |
-| Валлавиканта; Враджамохана; Радха-канта; Радха-рамана (шесть Божеств Кхетури) | Vallavikanta; Vrajamohana; Radha-kanta; Radha-ramana (six Deities of Kheturi) | по БР 1.426; в @srinivasa-acharya — «Валлабхи-канта», «Враджа-мохана» |
+| Валлавиканта; Враджамохана; Радха-канта; Радха-рамана (шесть Божеств Кхетури) | Vallavikanta; Vrajamohana; Radha-kanta; Radha-ramana (six Deities of Kheturi) | по БР 1.426, 10.483, 10.496 (бенг. *баллавӣ-ка̄нта*, «Возлюбленный пастушек»; у T — «Vallabhi Kanta», «six sets of deities»; в БР — «шесть Божеств»); так в @lokanatha и @srinivasa-acharya (согласовано на этапе В, 2026-11-21) |
