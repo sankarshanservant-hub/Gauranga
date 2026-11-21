@@ -10,9 +10,9 @@ he is called by Krishnadasa Kaviraja in the “Chaitanya-charitamrita” and by 
 “Gaura-ganoddesha-dipika” — “Srimad Bhagavatacharya.” <!-- F2 -->
 
 His own name, Raghunatha, we know from Srila Bhaktisiddhanta Sarasvati. In his “Gaudiya-bhashya” on the
-“Chaitanya-bhagavata” he writes of the verse in which this brahmana appears: “The brahmana indicated by the words *eka
+“Chaitanya-bhagavata” he writes of the verse in which this brahmana appears: “The name of the brahmana indicated by the phrase *eka
 brahmanera ghare* (in the house of a brahmana) is Sri Raghunatha Bhagavata Acharya. His description can be found in the
-‘Anubhashya’ on the ‘Chaitanya-charitamrita’ [Adi 10.113]” (on CB, Antya 5.110). And the “Anubhashya” itself says: “His
+commentary ‘Anubhashya’ on the ‘Chaitanya-charitamrita’ [Adi 10.113]” (on CB, Antya 5.110). And the “Anubhashya” itself says: “His
 name is said to have been ‘Raghunatha.’” The biographies also call him Sri Raghunatha Pandita, Sri Bhagavatacharya and
 Srila Bhagavatacharya Prabhu.[^1] <!-- F1 F7 -->
 
@@ -53,7 +53,7 @@ this way, for three praharas of the night, the ocean of virtues danced, listenin
 The loss of “external consciousness” here is no swoon and no worldly intoxication: it is prema, which the Lord tastes in
 the mood of His devotee, and the fear of those around Him is the fear of those who love Him lest He be hurt. <!-- F5 -->
 
-When the Lord came back to Himself, He joyfully embraced the brahmana and said to him:
+Returning to external consciousness, the Lord joyfully embraced the brahmana (Antya 5.118) and said:
 
 “Never have I heard anyone else read the ‘Bhagavata’ like this. Therefore your name is ‘Bhagavatacharya.’ Do no other
 work but this.” (CB, Antya 5.119–120)[^3]
@@ -123,7 +123,7 @@ Chakravarti opens by glorifying the Lord's associates, and among them: “Glory 
 Shridhara!” (1.34); various “Vaishnava-vandanas” also name him (“Srimat Bhagavatacharya”). <!-- F18 -->
 
 Later books also mention a Bhagavata Acharya at the great festival in Kheturi: the “Prema-vilasa,” the
-“Bhakti-ratnakara” and the “Narottama-vilasa” name him among the mahantas of Gadadhara Pandita's branch who came there —
+“Bhakti-ratnakara” and the “Narottama-vilasa” name him among the mahantas of Gadadhara Pandita's branch who gathered for the festival —
 beside Vaninatha Brahmachari, Chaitanya-vallabha Dasa, Pushpa-Gopala and Hari Acharya. Whether this is the same
 Raghunatha Bhagavatacharya who read the “Bhagavatam” to the Lord, the sources do not say.[^9] <!-- F17 -->
 
@@ -139,17 +139,15 @@ Lord's commission itself: the true reader of the “Bhagavatam” is one whose r
     person (Varangada), not the one of verse 203.
 [^2]: Malipara as the place of the house where the Lord stayed is known from the tradition of the sripat and from the
     “Anubhashya”; the “Chaitanya-bhagavata” names only Varahanagara.
-[^3]: Our Russian translation of the “Chaitanya-bhagavata” renders these verses more freely (“such a beautiful
-    explanation of the ‘Srimad-Bhagavatam’,” “let the explanation of the ‘Srimad-Bhagavatam’ be your duty”); here they are
-    given closer to the Bengali, as Srila Bhaktisiddhanta cites them in the “Anubhashya” on CC, Adi 10.113: *iha vina ara
-    kona na kariha karya* — “apart from this, do no other work.”
+[^3]: In the Bengali: *iha vina ara kona na kariha karya* — “apart from this, do no other work.” Srila Bhaktisiddhanta
+    also cites these verses in the “Anubhashya” on CC, Adi 10.113.
 [^4]: We do not have the text of the “Krishna-prema-tarangini,” and we give the verse only in substance, as one of the
     biographies cites and explains it; the text printed there contains a misprint, and Gadadhara's epithet differs
     between the verse and the explanation (“loving bhakti” and “loving the devotees”).
-[^5]: The edition's heading to this verse calls him “Raghunatha Bhagavatacharya” (and so does our Russian translation
-    of the verse); the Bengali text has only “Bhagavatacharya.”
+[^5]: The name “Raghunatha” for this verse comes from the edition's numbered heading; the Bengali text of the verse has
+    only “Bhagavatacharya.”
 [^6]: According to the “Prema-vilasa” and the “Advaita-prakasha,” Bhagavatacharya is Bada Shyamadasa, a
-    pandita-digvijayi: he came to Shantipura to debate with Advaita Acharya, was defeated, took shelter at His feet,
+    pandita-digvijayi: he came to Shantipura to debate with Advaita Acharya, was defeated, took refuge at His feet,
     received the Krishna mantra and became a great authority on the “Bhagavatam”; the name “Bhagavatacharya” was given him
     by Advaita Himself (“Advaita-prakasha” 6.76), and, according to these books, it was he who arranged Advaita's
     marriage. One of the biographies gives this version beside the account of Gadadhara's disciple without reconciling
