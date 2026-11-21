@@ -439,7 +439,7 @@
 | @anubhavananda | Анубхавананда | Anubhavananda | санньяси, спутник Господа (ванданы) |
 | @baladeva-mahiti | Баладева (Баларама) Махити | Baladeva (Balarama) Mahiti | ория-спутник в Пури (ванданы) |
 | @balarama-dasa-odia | Баларама Дас (ория) | Balarama Dasa (the Oriya) | ория-преданный, «которому покорны Джаганнатха и Баларама» (ванданы); возможно, поэт из «Панча-сакхи»; не путать с @balarama-dasa-poet |
-| @bhagavatacharya | Бхагаватачарья (Рагхунатха) | Bhagavatacharya (Raghunatha) | автор «Кришна-према-тарангини» (ГГД 194–207); не путать с @shyamadasa-acharya |
+| @bhagavatacharya | Бхагаватачарья (Рагхунатха) | Bhagavatacharya (Raghunatha) | автор «Кришна-према-тарангини» (ГГД 194–207); не путать с @shyamadasa-acharya · {карточка: в Кришна-лиле — Швета-манджари, манджари Враджа (ГГД 195, 203); гуру — Гададхара Пандит; происхождение — Вараханагар} |
 | @bhaskara-thakura | Бхаскара Тхакур | Bhaskara Thakura | ваятель, спутник Нитьянанды (ГГД 114: Вишвакарма) |
 | @brahmananda-puri | Брахмананда Пури | Brahmananda Puri | санньяси, спутник Господа (ЧЧ Ади 9; ванданы); не путать с @brahmananda-bharati |
 | @brahmananda-svarupa | Брахмананда Сварупа | Brahmananda Svarupa | санньяси (ванданы) |

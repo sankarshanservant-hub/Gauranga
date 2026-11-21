@@ -4191,6 +4191,10 @@
     "type": "served-by"
    },
    {
+    "from": "@bhagavatacharya",
+    "type": "served-by"
+   },
+   {
     "from": "@bhavananda-raya",
     "type": "companion"
    },
@@ -13068,6 +13072,10 @@
     "type": "other"
    },
    {
+    "from": "@bhagavatacharya",
+    "type": "other"
+   },
+   {
     "from": "@buddhimanta-khan",
     "type": "other"
    },
@@ -14422,6 +14430,10 @@
    {
     "from": "@bhagavan-acharya",
     "type": "other"
+   },
+   {
+    "from": "@bhagavatacharya",
+    "type": "guru"
    },
    {
     "from": "@bhaktivinoda",
@@ -38462,6 +38474,10 @@
    {
     "from": "@advaita",
     "type": "disciple"
+   },
+   {
+    "from": "@bhagavatacharya",
+    "type": "other"
    }
   ]
  },
@@ -48785,6 +48801,10 @@
     "type": "other"
    },
    {
+    "from": "@bhagavatacharya",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-ballabha-tirtha",
     "type": "lineage-predecessor"
    },
@@ -49618,6 +49638,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhagavatacharya",
+    "type": "other"
+   },
    {
     "from": "@chandrashekhara-acharya",
     "type": "other"
@@ -54554,6 +54578,90 @@
   "events": [
    "ev-bhagavatacharya-varahanagara",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Швета-манджари, манджари Враджа (ГГД 195, 203); гуру — Гададхара Пандит; происхождение — Вараханагар",
+  "card": "parshadas/cards/bhagavatacharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhagavatacharya.md",
+   "en": "parshadas/en/bhagavatacharya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-21) дня явления нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-21) дня ухода нет",
+    "facts": []
+   }
+  },
+  "works": [
+   {
+    "title": "«Шри Кришна-према-тарангини» — бенгальское стихотворное переложение «Шримад-Бхагаватам» (ГГД 203 — «книжка»; первые девять песен — сжато; во многих местах — слава Гауры; рукопись его рукой — в шрипате)",
+    "facts": [
+     "F4",
+     "F12",
+     "F13",
+     "F14",
+     "F15",
+     "F16"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Швета-манджари, манджари Враджа",
+    "source": "ГГД 195, 203",
+    "level": "A",
+    "variants": [
+     "соответствие — по порядку перечня ГГД 194–207 (11-я гопи — 11-й спутник)",
+     "«Анубхашья» к ЧЧ Ади 12.58 — «ГГД 195 и 202» (⚠3)",
+     "B — «во Врадже известен как Швета-манджари», без первоисточника"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@gadadhara-pandita",
+    "note": "Ученик (мангала «Кришна-према-тарангини» у B); подветвь Гададхары (ЧЧ Ади 12.79). = @gadadhara-pandita F116."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Господь в его доме в Вараханагаре слушал его «Бхагавату», танцевал три прахары ночи и дал ему имя «Бхагаватачарья» с повелением толковать «Бхагавату» (ЧБ Антья 5.110–121); «Кришна-према-тарангини» начата после этого даршана (B). В ЧЧ Ади 10.113 — ветвь древа Махапрабху."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Только с оговоркой: ЧЧ Ади 12.58 — «Бхагаватачарья» среди ветвей Адвайты; «Анубхашья»: сначала у Адвайты, затем у Гададхары; ПВ/АП — это Бада Шьямадас, ученик Адвайты и сват на Его свадьбе (⚠1). = @advaita F152."
+   },
+   {
+    "type": "other",
+    "who": "@shyamadasa-acharya",
+    "note": "Тождество спорно (⚠1): ПВ 24, 25 и АП 6, 8 называют Бада Шьямадаса-дигвиджайи «Бхагаватачарьей»; B приводит обе версии, не согласуя; lila-db — два лица."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Гаудия-бхашья» к ЧБ Антья 5.110 (брахман — Шри Рагхунатха Бхагаватачарья) и «Анубхашья» к ЧЧ Ади 10.113, 12.58 (имя, пат в Малипаре, ветви Адвайты и Гададхары, ГГД)."
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-dasa-shakha",
+    "note": "«Шакха-нирнаямрита» 6 прославляет его как автора «Према-тарангини» (по «Анубхашье» к ЧЧ Ади 12.58)."
+   }
   ]
  },
  {
