@@ -25,8 +25,9 @@ Navadvipa. <!-- F3 F4 F9 Q18 -->
 
 Srivasa built a house by the Ganga, not far from the house of Jagannatha Mishra in Navadvipa-Mayapur. His wife's name
 was Malini Devi. With them lived Narayani, the daughter of one of Srivasa's brothers,[^2] the mother of Vrindavana Dasa
-Thakura, author of the “Chaitanya-bhagavata.” Her husband, Vaikuntha Dasa Vipra, died while she was carrying her son;
-Vrindavana Dasa was born in 1507. Part of his childhood he spent in Mamgachhi, on Modadruma-dvipa of Navadvipa, by the
+Thakura, author of the “Chaitanya-bhagavata.” Her husband, Vaikuntha Dasa Vipra, left this world while she was carrying her son;
+Vrindavana Dasa came into this world only after the Lord had left Navadvipa (so it follows from the
+“Chaitanya-bhagavata”: he himself laments that he did not witness those pastimes). Part of his childhood he spent in Mamgachhi, on Modadruma-dvipa of Navadvipa, by the
 Bhagirathi — in the parental home of Malini Devi, to which Malini herself returned in her old age; there his Deities,
 Gaura-Nitai, are served to this day, and the place of his childhood play is shown.[^3] Srivasa himself had a son, an
 only son, who died as a child; of him we shall speak below.[^4] <!-- F6 F7 F8 F10 F12 F134 Q21 F142 -->
@@ -724,7 +725,10 @@ attain. <!-- I10 I1 F5 F64 -->
     boy received the Lord's special mercy; by another, she was given in marriage in Mamgachhi, into Malini's family, and
     there, it is said, Vrindavana Dasa was born; by a third, he was born in Mamgachhi or in Kumarahatta. That as a boy he
     grew up in the ancestral home of Malini Devi is also said in Srila Bhaktisiddhanta's commentary on the
-    “Chaitanya-bhagavata.”
+    “Chaitanya-bhagavata.” One of the biographies also gives the year of his birth — 1507; but this contradicts the
+    “Chaitanya-bhagavata”: Vrindavana Dasa did not see the Lord's pastimes in Navadvipa (CB, Adi 12.284; Madhya 8.198), and
+    at the time of the Mahaprakasha Narayani was only four years old (Madhya 2.324). See further the article on Vrindavana
+    Dasa Thakura.
 [^4]: That the son was an only son two biographies state plainly; the third calls him simply Srivasa's son.
 [^5]: Our calendar marks the appearance day of Srivasa Pandita on Krishna-ashtami of the month of Vishnu (≈ Chaitra); his
     disappearance day is not in the calendar. One biography names the month of his departure Vamana, another Ashadha;
