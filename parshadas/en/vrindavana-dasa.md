@@ -16,7 +16,7 @@ the “Gaura-ganoddesha-dipika”:
 “He who was Vedavyasa is now Vrindavana Dasa; for the sake of the work the friend Kusumapida also entered into him.”
 (“Gaura-ganoddesha-dipika” 109)
 
-He who arranged the Vedas and gave the world the “Srimad-Bhagavatam” came into Gaura's pastimes to describe these as
+He who divided the Vedas and gave the world the “Srimad-Bhagavatam” came into Gaura's pastimes to describe these as
 well; and together with him, for the same service, Kusumapida, Krishna's friend in Vraja, entered into him. Srila
 Bhaktisiddhanta Sarasvati, too, cites this verse in his “Anubhashya” on the “Chaitanya-charitamrita.” <!-- F2 Q7 -->
 
@@ -100,9 +100,9 @@ lived in Shrihatta; one of the biographies adds that Narayani, widowed, left her
 Mamgachhi, to a man of the same family as Malini Devi, whose parental home was in Mamgachhi and to which Malini returned
 to live in her old age.[^4] <!-- F10 F11 -->
 
-His family was brahmana: he was born into a family of brahmanas of the *Radhiya* class. It was said that the smartas and
-certain prakrita-sahajiyas of Radhadesha doubted his brahminhood; but he was a true, pure brahmana who simply did not
-share the convictions of the smartas. <!-- F12 -->
+His family was brahmana: he was born into a family of brahmanas of the *Radhiya* class. Later certain prakrita-sahajiyas of
+Radhadesha, under the influence of the smartas, decided that he was not a brahmana; but this is an empty rumour: he was a
+true, pure brahmana who simply did not share the convictions of the smartas. <!-- F12 -->
 
 ## Appearance
 Where Vrindavana Dasa was born is not known for certain. It is said that it was in Mamgachhi, a village on the bank of
@@ -173,8 +173,8 @@ servant.” <!-- F22 -->
 
 Nityananda was everything to him. He calls Him by a multitude of names — Nityananda Avadhuta, Nityananda-chandra,
 Nityananda Prabhu — and says of Mahaprabhu: “Sri Gaurasundara is the Lord of my Master” (CB, Madhya 17.117; cf. Madhya
-28.191). For him Nityananda is “my Prabhu, my Lord”: Prabhu, the Master, whereas Kaviraja, following Svarupa Damodara,
-reveals His greatness in Adi 5 as Vibhu. Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya” on Adi 17.154–158: having
+28.191). For him Nityananda is “my Prabhu, my Lord”; Kaviraja, following Svarupa Damodara, reveals His greatness in
+the fifth chapter of the Adi-lila as Vibhu. Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya” on Adi 17.154–158: having
 received Nityananda's mercy and the right to serve Him, Vrindavana Thakura became the acharya-guru of the whole world.
 Nityananda was his spiritual master and the meaning of his whole life. <!-- F23 -->
 
@@ -259,7 +259,7 @@ companions there is no enmity, and poets deliberately leave part of the pastimes
 “Vyasas” whom Vrindavana Dasa himself foretells in his book. Some even say that Narahari's words “he who will write this
 book is not yet born” refer to Vrindavana Dasa.[^13] <!-- F31 I4 -->
 
-He stands firmly, too, against the “gaura-nagari” teaching, which makes Gaura an enjoyer of the company of young women:
+He stands firmly, too, against the “gaura-nagari” teaching, which presents Gaura as a nagara enjoying the company of young women:
 
 “Therefore great souls, in their prayers to Lord Gauranga, never address Him as Gauranga-nagara (that is, one who enjoys
 the company of beautiful girls). Although the Supreme Lord may be prayed to in many ways, wise people glorify only those
@@ -350,7 +350,7 @@ When Vrindavana Dasa left this world is not known for certain. The “Gaudiya-va
 say,” it was in 1511 Shaka (1589 CE), but this is only a guess.[^16] The day of his departure is observed by Vaishnavas,
 according to the calendar of the Sri Chaitanya Saraswat Math, in the month of Madhusudana, on the tenth lunar day of the
 dark fortnight (Krishna-dashami); in 2026 this day fell on 12 April. Where he left this world and where his samadhi is,
-the sources do not say; there survives only a photograph of the samadhi of Srila Vrindavana Dasa Thakura, without the
+the sources do not say; there is known only a photograph of the samadhi of Srila Vrindavana Dasa Thakura, without the
 place being named. According to the “Gaudiya-vaishnava-abhidhana,” having handed over the service to Ramahari, he went
 to Vrindavana. <!-- F43 F46 -->
 
