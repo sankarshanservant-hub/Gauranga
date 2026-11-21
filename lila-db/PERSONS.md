@@ -193,7 +193,7 @@
 | @krishna-mishra | Кришнадас (Кришна Мишра) | Krishnadasa (Krishna Mishra) | сын Адвайты Ачарьи; не путать с @divya-simha (Лаудия Кришнадас) |
 | @gopala-dasa-advaita | Гопаладас (Гопала) | Gopaladasa (Gopala) | сын Адвайты Ачарьи |
 | @ishana-nagara | Ишана Нагара | Ishana Nagara | автор «Адвайта-пракаши», слуга Адвайты (для записей kind: author) |
-| @lokanatha | Локанатха (Чакраварти, Госвами) | Lokanatha (Chakravarti, Gosvami) | сын Падманабхи Чакраварти из Джессора; позднее во Вриндаване |
+| @lokanatha | Локанатха (Чакраварти, Госвами) | Lokanatha (Chakravarti, Gosvami) | сын Падманабхи Чакраварти из Джессора; позднее во Вриндаване · {карточка: в Кришна-лиле — Лила-манджари (ГГД 187); гуру — Шри Чайтанья Махапрабху; происхождение — Талагади (Яшохара); уход — Кришна-аштами месяца Шридхара; самадхи — храм Радха-Гокулананды (Вриндаван), Кхадираван (Кхаяра, Югала-кунда)} |
 | @padmanabha-chakravarti | Падманабха Чакраварти | Padmanabha Chakravarti | ученик Адвайты, отец Локанатхи («Адвайта-пракаша») |
 | @vishnudasa-acharya | Вишнудас Ачарья | Vishnudasa Acharya | ученик Адвайты в Навадвипе («Адвайта-пракаша»); не путать с @vishnudasa |
 | @hadai-pandita | Хадаи Пандит (Ойджха) | Hadai Pandita (Ojha) | отец Нитьянанды, Экачакра |
@@ -829,3 +829,4 @@
 | @pakshadhara-mishra | Пакшадхара Мишра | Pakshadhara Mishra | великий найяик Митхилы; по преданию — учитель @sarvabhauma (B 1018; T 112) |
 | @raghunatha-shiromani | Рагхунатха Широмани | Raghunatha Shiromani | логик Навадвипы, автор «Дидхити»; по мнению некоторых — ученик @sarvabhauma (T 112) |
 | @bhavananda-gopinatha | Бхавананда, служитель Гопинатхи | Bhavananda, servant of Gopinatha | собрат (сатиртха) @madhu-pandita по гуру, служил Гопинатхе во Вриндаване (БР 13.320; M pdf 23); ветвь Гададхары по «Шакха-нирнае» («Анубхашья» к ЧЧ Ади 12.87); не путать с @bhavananda-raya |
+| @pragalbha-bhattacharya | Прагалбха Бхаттачарья (брат Локанатхи) | Pragalbha Bhattacharya (Lokanatha's brother) | младший брат @lokanatha; его потомки — «Бхаттачарьи из Талкхари» (T 150; M 95–96; «Анубхашья» к ЧЧ Мадхья 18.49) |

@@ -29638,6 +29638,593 @@
   ]
  },
  {
+  "id": "@lokanatha",
+  "names": {
+   "ru": "Локанатха Госвами",
+   "en": "Lokanatha Gosvami",
+   "variants": [
+    "Шри Локанатха",
+    "Прабху Локанатха («Прартхана»)",
+    "Локанатха Госани («Карнананда»)",
+    "Локанатха Чакраварти (по роду)",
+    "Lokanatha dasa Goswami (M)",
+    "седьмой Госвами",
+    "Лила-манджари (во Врадже, ГГД 187)"
+   ],
+   "facts": [
+    "F1",
+    "F2",
+    "F4",
+    "F7"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "vrindavana",
+   "goswamis"
+  ],
+  "period": [
+   "P07",
+   "P11",
+   "P13",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Лично — в Навадвипе у Господа в аграхаяну перед санньясой, послан во Врадж (P07; F18–F32); ищет Господа на Юге (P11, B — с Бхугарбхой) и во Вриндаване, разминувшись с Ним (P13; F35–F37); жизнь у Чир-гхата и Кишора-кунды, Радха-винода, Госвами (P14; F38–F55); после сокрытия Господа — Нароттама, Шриниваса, Джахнава, запрет Кавирадже (P15; F57–F77). Учёба у Адвайты (P05) — только «Адвайта-пракаша» (D, F84).",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#talagadi",
+    "conf": "место — Талкхари (Джессор) по всем источникам; день и год явления не названы; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-21) дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Кришна-аштами месяца Шридхара (по нашему календарю; 6 августа 2026)",
+    "place": "#vrindavana",
+    "conf": "T — кришна-аштами ашадхи, ≈ 1510 шака (1588–89); M — кришна-аштами шраваны; B не сообщает; даём по календарю ШЧСМ (541/ru, проверено 2026-11-21) — Шридхара-маса ≈ шравана; при амавасьянта-счёте T называет, вероятно, тот же день (⚠12)",
+    "facts": [
+     "F76"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#radha-gokulananda-mandira",
+     "facts": [
+      "F77"
+     ],
+     "note": "по T 152 (там же служим Радха-винода)"
+    },
+    {
+     "place": "#khadiravana",
+     "facts": [
+      "F77"
+     ],
+     "note": "по M 98 — у Югала-кунды в Кхаяре; расходится с T (⚠12)"
+    }
+   ]
+  },
+  "origin": {
+   "places": [
+    "#talagadi",
+    "#kanchrapara?"
+   ],
+   "family": [
+    "@padmanabha-chakravarti",
+    "@sita-lokanatha",
+    "@pragalbha-bhattacharya"
+   ],
+   "varna": "брахман (род Чакраварти)",
+   "facts": [
+    "F5",
+    "F6",
+    "F7",
+    "F9"
+   ],
+   "note": "Прежде жил в Канчрапаре/Качнапаре (T, M, «Анубхашья»; ⚠14). B — единственный сын; T, M, «Анубхашья» — младший брат Прагалбха (⚠3)."
+  },
+  "relations": [
+   {
+    "type": "father",
+    "who": "@padmanabha-chakravarti",
+    "facts": [
+     "F7",
+     "F8",
+     "F15",
+     "F16",
+     "F17"
+    ],
+    "note": "Ученик и любимец Адвайты (B 1069; M 96; БР 1.298); M однажды — «Бхаттачарья» (⚠6)."
+   },
+   {
+    "type": "mother",
+    "who": "@sita-lokanatha",
+    "facts": [
+     "F7",
+     "F15",
+     "F16"
+    ]
+   },
+   {
+    "type": "sibling",
+    "who": "@pragalbha-bhattacharya",
+    "facts": [
+     "F9",
+     "F10"
+    ],
+    "note": "Младший брат; потомки в Талкхари (T 150; M 95–96; «Анубхашья»); B: Локанатха — единственный сын (⚠3)."
+   },
+   {
+    "type": "guru",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F3",
+     "F22",
+     "F25",
+     "F27",
+     "F31",
+     "F37",
+     "F71"
+    ],
+    "events": [
+     "ev-lokanatha-sent-to-vrindavana",
+     "ev-lokanatha-searches-lord",
+     "ev-lokanatha-dream-narottama-prophecy"
+    ],
+    "note": "Господь и наставник: обнял, послал вестником во Врадж к Чир-гхату, утешил во сне; «гуру Локанатхи — Гауранга» (T 219; M 255) — формального посвящения источники не описывают (⚠Б6)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "facts": [
+     "F8",
+     "F84"
+    ],
+    "events": [
+     "ev-lokanatha-comes-to-advaita"
+    ],
+    "note": "Гуру его родителей; по «Адвайта-пракаше» (D) — учитель и дал мантру Кришны."
+   },
+   {
+    "type": "friend",
+    "who": "@bhugarbha",
+    "facts": [
+     "F4",
+     "F32",
+     "F33",
+     "F34",
+     "F35",
+     "F38",
+     "F42",
+     "F45",
+     "F78"
+    ],
+    "events": [
+     "ev-lokanatha-sent-to-vrindavana",
+     "ev-lokanatha-bhugarbha-in-vraja",
+     "ev-lokanatha-life-vrindavana"
+    ],
+    "note": "Неразлучный друг («тела лишь разные», БР 1.317); вместе ушли во Врадж (B, T; M — встретил там); седьмой и восьмой Госвами. = @bhugarbha F12–F23."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "facts": [
+     "F32",
+     "F85"
+    ],
+    "note": "Отпустил с ним своего ученика Бхугарбху (B 1073); «Шакха-нирная» (через «Анубхашью», с «?») относит Локанатху к его ветви (⚠11)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-vinoda-deity",
+    "facts": [
+     "F47",
+     "F48",
+     "F49",
+     "F50",
+     "F51",
+     "F52",
+     "F53",
+     "F55"
+    ],
+    "event": "ev-lokanatha-life-vrindavana",
+    "note": "Явился у Кишора-кунды в Умрао (B — во сне велел служить; T, M, БР — Господь в ином облике вручил); носил Его в сумке-храме на груди; ныне — в храме Радха-Гокулананды (T 152)."
+   },
+   {
+    "type": "disciple",
+    "who": "@narottama-dasa",
+    "facts": [
+     "F60",
+     "F61",
+     "F62",
+     "F63",
+     "F64",
+     "F65",
+     "F66",
+     "F67",
+     "F68",
+     "F69",
+     "F70",
+     "F71"
+    ],
+    "events": [
+     "ev-narottama-meets-lokanatha",
+     "ev-narottama-initiation",
+     "ev-books-leave-vrindavana",
+     "ev-narottama-returns-kheturi",
+     "ev-kheturi-six-deities"
+    ],
+    "note": "Единственный ученик: тайное служение, посвящение в полнолуние шраваны; велел вернуться в Кхетури, служить Гауранге и Кришне, вайшнавам и устроить санкиртану; шесть Божеств Кхетури — по его повелению."
+   },
+   {
+    "type": "companion",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F39",
+     "F40",
+     "F62"
+    ],
+    "event": "ev-gopala-mathura-vitthaleshvara",
+    "note": "В свите Рупы месяц в Матхуре у Гопалы (ЧЧ Мадхья 18.49); скорбел о его уходе."
+   },
+   {
+    "type": "companion",
+    "who": "@sanatana-gosvami",
+    "facts": [
+     "F39",
+     "F41",
+     "F62"
+    ],
+    "note": "Назвал его имя в ХБВ 1.4 и во вступлении «Вайшнава-тошани» (ст. 9)."
+   },
+   {
+    "type": "companion",
+    "who": "@gopala-bhatta",
+    "facts": [
+     "F39",
+     "F40",
+     "F42",
+     "F43"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-dasa",
+    "facts": [
+     "F40",
+     "F44",
+     "F83"
+    ],
+    "note": "У Радха-кунды с Рагхунатхой Дасом и Кришнадасом («Карнананда» 4.432)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-bhatta",
+    "facts": [
+     "F40"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami",
+    "facts": [
+     "F40",
+     "F63",
+     "F70",
+     "F73",
+     "F80"
+    ],
+    "note": "Джива привёл к нему Нароттаму (M 105) и Шринивасу (B 665; БР 4.354–360)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "facts": [
+     "F44",
+     "F57",
+     "F58"
+    ],
+    "events": [
+     "ev-lokanatha-forbids-mention",
+     "ev-kaviraja-ordered-to-write-cc"
+    ],
+    "note": "Благословил писать ЧЧ, но запретил упоминать себя; Кавираджа назвал лишь имя (Мадхья 18.49)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "facts": [
+     "F41"
+    ],
+    "note": "Назван вместе с ним в ХБВ 1.4 и «Вайшнава-тошани»."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "facts": [
+     "F67",
+     "F73"
+    ],
+    "events": [
+     "ev-srinivasa-arrives-vrindavana",
+     "ev-books-mission-decision",
+     "ev-srinivasa-second-vrindavana"
+    ],
+    "note": "Вверил его Радха-виноде (БР 4.359); благословил в путь; Шриниваса знал его замысел о Нароттаме (БР 7.119)."
+   },
+   {
+    "type": "met",
+    "who": "@shyamananda",
+    "facts": [
+     "F68",
+     "F73"
+    ],
+    "note": "Благословил посылку троих с книгами (B 1104); по его велению Шьямананду позвали в Кхетури (B 1106)."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "facts": [
+     "F74"
+    ],
+    "event": "ev-jahnava-vrindavana"
+   },
+   {
+    "type": "met",
+    "who": "@ramachandra-kaviraja",
+    "facts": [
+     "F75",
+     "F80"
+    ],
+    "note": "Милость; по M — дал звание «Кавираджа» (≠ B — Джива)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "facts": [
+     "F46"
+    ],
+    "note": "ЧБ его не называет."
+   },
+   {
+    "type": "other",
+    "who": "@vishvanatha-chakravarti",
+    "facts": [
+     "F71"
+    ],
+    "note": "В дикша-линии Вишванатхи: Махапрабху — Локанатха — Нароттама — Ганганараяна — Кришначарана — Радхарамана — Вишванатха."
+   },
+   {
+    "type": "other",
+    "who": "@gaurakishora-dasa-babaji",
+    "facts": [
+     "F72",
+     "I5"
+    ],
+    "note": "Параллель: обет не брать учеников и единственный ученик (Бхактисиддханта / Нароттама)."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "facts": [
+     "F2"
+    ],
+    "note": "ГГД 187."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "facts": [
+     "F43",
+     "F78",
+     "F79",
+     "F80"
+    ],
+    "note": "БР 1.295–347; песня о Гопале Бхатте; «Намамрита-самудра» 27."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "facts": [
+     "F3",
+     "F57",
+     "F60",
+     "F85"
+    ],
+    "note": "«Анубхашья» к ЧЧ Мадхья 18.49 (родина, брат, единственный ученик, запрет — «из великого смирения») и к Ади 12."
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Лила-манджари",
+    "source": "ГГД 187",
+    "level": "A",
+    "facts": [
+     "F2"
+    ],
+    "variants": [
+     "Манджулали (манджари) — «Према-виласа» 7, 20; «Анурага-валли» 4 (ур. C; lila-db pvl-0044, pvl-0174, anv-0031) (⚠5)"
+    ]
+   }
+  ],
+  "events": [
+   "ev-lokanatha-comes-to-advaita",
+   "ev-east-bengal-tour",
+   "ev-lokanatha-sent-to-vrindavana",
+   "ev-lokanatha-bhugarbha-in-vraja",
+   "ev-lokanatha-searches-lord",
+   "ev-lokanatha-dream-narottama-prophecy",
+   "ev-lokanatha-life-vrindavana",
+   "ev-gopala-mathura-vitthaleshvara",
+   "ev-kaviraja-ordered-to-write-cc",
+   "ev-lokanatha-forbids-mention",
+   "ev-narottama-meets-lokanatha",
+   "ev-narottama-initiation",
+   "ev-srinivasa-arrives-vrindavana",
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-books-mission-decision",
+   "ev-books-leave-vrindavana",
+   "ev-narottama-returns-kheturi",
+   "ev-kheturi-six-deities",
+   "ev-jahnava-vrindavana",
+   "ev-srinivasa-second-vrindavana"
+  ],
+  "events_note": "ev-lokanatha-comes-to-advaita, ev-east-bengal-tour — только «Адвайта-пракаша» (D). В lila-db пока нет события об уходе Локанатхи (T 152 / M 98, вторичные) — не заводить по T/M/B (TASK.md § 6).",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [],
+  "places": [
+   "#talagadi",
+   "#kanchrapara",
+   "#navadvipa",
+   "#rajmahal",
+   "#purnia",
+   "#ayodhya",
+   "#lucknow",
+   "#agra",
+   "#vrindavana",
+   "#chira-ghata",
+   "#vamshivata",
+   "#radha-kunda",
+   "#umrao",
+   "#mathura",
+   "#kheturi",
+   "#khadiravana",
+   "#radha-gokulananda-mandira"
+  ],
+  "places_facts": [
+   "F5",
+   "F6",
+   "F19",
+   "F22",
+   "F31",
+   "F34",
+   "F38",
+   "F40",
+   "F44",
+   "F47",
+   "F55",
+   "F67",
+   "F68",
+   "F77"
+  ],
+  "character": [
+   {
+    "trait": "с детства — слёзы при именах Кришны и отвращение к мирскому",
+    "facts": [
+     "F11",
+     "F12",
+     "F13"
+    ]
+   },
+   {
+    "trait": "послушание Господу: принял разлуку и повеление жить во Врадже, оставил надежду увидеть Его",
+    "facts": [
+     "F26",
+     "F30",
+     "F37",
+     "F38"
+    ],
+    "events": [
+     "ev-lokanatha-sent-to-vrindavana",
+     "ev-lokanatha-dream-narottama-prophecy"
+    ]
+   },
+   {
+    "trait": "жгучая разлука с Господом, затем с Рупой и Санатаной",
+    "facts": [
+     "F36",
+     "F56",
+     "F62",
+     "F63"
+    ]
+   },
+   {
+    "trait": "предельное отречение: под деревом в дождь и холод, Божество в сумке на груди, отказ от хижины, обет аячаки",
+    "facts": [
+     "F49",
+     "F52",
+     "F53"
+    ],
+    "events": [
+     "ev-lokanatha-life-vrindavana"
+    ]
+   },
+   {
+    "trait": "смирение (амани): запретил писать о себе; «как я, не служащий Гауре-Нитьянанде, приму служение?»",
+    "facts": [
+     "F56",
+     "F57",
+     "F58",
+     "F63",
+     "I1"
+    ]
+   },
+   {
+    "trait": "уединённый бхаджанананди; не брал учеников, но милостив к служению Нароттамы",
+    "facts": [
+     "F45",
+     "F60",
+     "F61",
+     "F65",
+     "I5"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F2",
+    "F3",
+    "F4",
+    "F32",
+    "F41",
+    "F60",
+    "F71",
+    "I1",
+    "I2",
+    "I3",
+    "I4",
+    "I5"
+   ]
+  },
+  "sources": {
+   "T": "150–152 (общая глава с Бхугарбхой); 200, 206, 207–209, 212, 219, 242",
+   "M": "95–99 (глава); 11, 68, 105, 107, 108, pdf 182, 255",
+   "B": "1069–1075 (глава); 52, 180, 265–270, 321, 323, 331, 485, 490, 526, 610, 612, 613, 665, 668, 670, 677, 686, 690, 973, 1100, 1104, 1106, 1109, 1111",
+   "other": [
+    "ЧЧ Мадхья 18.49 и «Анубхашья» к нему; «Анубхашья» к Ади 12",
+    "ГГД 187",
+    "БР 1.28, 202, 225, 292–347, 418–426, 446–447; 2.12; 3.8; 4.354–360; 7.119 (по T)",
+    "«Нароттама-виласа» 1–3, 9",
+    "«Према-виласа» 7, 11–13, 20",
+    "«Карнананда» 1.287, 4.431–432, 4.444, 6.58, 7.57",
+    "«Анурага-валли» 4–6",
+    "«Адвайта-пракаша» 12–13 (D)",
+    "«Хари-бхакти-виласа» 1.4; «Брихад-вайшнава-тошани», мангала 9",
+    "Нароттама, «Прартхана»",
+    "«Намамрита-самудра» 27"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/lokanatha.md",
+   "en": "parshadas/en/lokanatha.md"
+  },
+  "open_questions": [
+   "Брат Прагалбха (T, M, «Анубхашья») или единственный сын (B) (F9, ⚠3).",
+   "Причина ухода из дома: бегство от женитьбы (B, ПВ) или после ухода родителей (НВ) (F17, ⚠4).",
+   "Шёл ли во Врадж вместе с Бхугарбхой (B, T) или один через тиртхи (M, БР 1.308) (F32–F33).",
+   "Как явился Радха-винода: во сне (B) или Господь в ином облике вручил Божество (T, M, БР) (F49).",
+   "Лила-манджари (ГГД 187) — Манджулали (ПВ, АВ) (⚠5).",
+   "День, год и место ухода и самадхи: Радха-Гокулананда во Вриндаване (T) или Югала-кунда в Кхадираване (M); ашадха (T) или шравана (M) (F76–F77, ⚠12)."
+  ]
+ },
+ {
   "id": "@madhava-ghosha",
   "names": {
    "ru": "Мадхава (Мадхавананда) Гхош",
