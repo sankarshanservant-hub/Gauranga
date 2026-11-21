@@ -367,7 +367,7 @@ known as Raghu-gopala, is “Rasa-manjari.” Through Haridasa Pandita, Ganga-ma
 Gaura-shakti Gadadhara: Haridasa initiated her, a princess of Putiya; his disciple too was Lakshmipriya, Ganga-mata's
 maternal aunt. <!-- F78 F80 F79 -->
 
-Among the principal branches of Gadadhara the “Charitamrita” names Raghunatha Bhagavatacharya (Adi 12.80). He himself,
+Among the principal branches of Gadadhara the “Charitamrita” names Raghunatha Bhagavatacharya (Adi 12.79). He himself,
 in his “Sri Krishna-prema-tarangini,” calls himself a disciple of Gadadhara Pandita Gosvami: in the opening stanza he
 honors his guru Gadadhara — “the best of brahmanas, ever devoted to bhakti, dear to the devotees, in form a
 servant”[^17]. In Vraja he is known as “Shveta-manjari.” <!-- F116 -->
