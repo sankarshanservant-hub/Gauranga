@@ -135,8 +135,7 @@ the “Gaura-ganoddesha-dipika” calls him “exceedingly dear to Gauranga,” 
 Lord's commission itself: the true reader of the “Bhagavatam” is one whose reading awakens prema. <!-- F2 F11 F12 I1 I2 -->
 
 [^1]: The name “Raghunatha” is not found in the “Chaitanya-bhagavata,” the “Chaitanya-charitamrita” or the
-    “Gaura-ganoddesha-dipika”; in our translation of CC, Adi 12.79 it is taken from the edition's heading. The
-    “Gaura-ganoddesha-dipika” (200) names “a certain brahmana Raghunatha, who served Gauranga alone” — this is another
+    “Gaura-ganoddesha-dipika.” The “Gaura-ganoddesha-dipika” (200) names “a certain brahmana Raghunatha, who served Gauranga alone” — this is another
     person (Varangada), not the one of verse 203.
 [^2]: Malipara as the place of the house where the Lord stayed is known from the tradition of the sripat and from the
     “Anubhashya”; the “Chaitanya-bhagavata” names only Varahanagara.
@@ -147,8 +146,8 @@ Lord's commission itself: the true reader of the “Bhagavatam” is one whose r
 [^4]: We do not have the text of the “Krishna-prema-tarangini,” and we give the verse only in substance, as one of the
     biographies cites and explains it; the text printed there contains a misprint, and Gadadhara's epithet differs
     between the verse and the explanation (“loving bhakti” and “loving the devotees”).
-[^5]: The name “Raghunatha” in our Russian translation of this verse comes from the edition's heading; the Bengali text
-    has only “Bhagavatacharya.”
+[^5]: The edition's heading to this verse calls him “Raghunatha Bhagavatacharya” (and so does our Russian translation
+    of the verse); the Bengali text has only “Bhagavatacharya.”
 [^6]: According to the “Prema-vilasa” and the “Advaita-prakasha,” Bhagavatacharya is Bada Shyamadasa, a
     pandita-digvijayi: he came to Shantipura to debate with Advaita Acharya, was defeated, took shelter at His feet,
     received the Krishna mantra and became a great authority on the “Bhagavatam”; the name “Bhagavatacharya” was given him
