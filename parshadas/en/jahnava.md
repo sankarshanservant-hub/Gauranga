@@ -164,7 +164,7 @@ Vallabha Dasa responded, and Devi Dasa played the mridanga. In the midst of the 
 Nityananda, shone with beauty, and the very sight of her and of the devotees, together with the kirtana, purified even
 the godless and the sinful. They sang until midnight. <!-- F59 F60 F61 -->
 
-Narottama manifested six Deities in Kheturi — Gauranga, Vallabhikanta, Vrajamohana, Krishna, Radhakanta and Radharamana.
+Narottama manifested six Deities in Kheturi — Gauranga, Vallavikanta, Vrajamohana, Krishna, Radhakanta and Radharamana.
 They were installed at Jahnava's direction: the whole festival took place under her guidance, and at her word Srinivasa
 performed the abhisheka and archana of the Deities — the Deities themselves Narottama had manifested at the command of
 his guru Lokanatha. The next day Srinivasa bathed all six Deities, and at the request of Jahnava and the devotees
@@ -176,7 +176,7 @@ devotees all night. <!-- F47 F48 F62 F63 -->
 Jahnava herself cooked for the Deities. The next morning, after the night of kirtana and the mangala-arati, as the
 “Bhakti-ratnakara” relates (10.686–688), Jahnava Ishvari in great joy performed her bath and morning rites, with great
 eagerness prepared wonderful dishes — rice, vegetables and much else beyond description — and with wonderful ceremony
-herself offered the bhoga to Gauranga, Vallabhikanta and the other Deities. Skilled in the art of cooking, she quickly
+herself offered the bhoga to Gauranga, Vallavikanta and the other Deities. Skilled in the art of cooking, she quickly
 made sweets, cakes and drinks as well, and it was she who directed the whole kitchen.[^13] Then Jahnava distributed
 prasada to the mahantas with her own hands, and when they had eaten, she asked Narottama, Srinivasa and Shyamananda to
 eat — they dared not disobey, and she fed them with care — and took prasada last of all herself. Outside the hall, meanwhile, Raja Santosha was feeding thousands of people. <!-- F64 F65 -->

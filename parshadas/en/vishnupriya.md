@@ -620,7 +620,7 @@ beloved Vishnupriya came out of the granary and sat on Narottama's lap.” Narot
 installed Them there; today They are served in Gambhila[^23]. <!-- F142 F141 Q12 F143 -->
 
 At the great festival in Kheturi, on Phalguni Purnima, Narottama revealed six Deities: Gauranga with Vishnupriya,
-Vallabhikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Prema-vilasa” 19; “Narottama-vilasa” 6). It
+Vallavikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Prema-vilasa” 19; “Narottama-vilasa” 6). It
 is said that in Shrikhanda too, by the order of Narahari Sarakara, Raghunandana's son Kanai Thakura revealed the service of
 Gauranga and Vishnupriya. <!-- F140 F144 -->
 
