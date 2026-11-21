@@ -85,8 +85,8 @@ with the remnants of His food” (Madhya 10.290–291); “even today everyone i
 Narayani received Gauranga's remnants” (10.296). <!-- F9 Q3 -->
 
 ## Father and Family
-Vrindavana Dasa never once names his father in his book. Nor do Murari Gupta, Kavi Karnapura and Kaviraja Gosvami name
-him; of his forefathers almost nothing is known beyond his kinship with Narayani. Srila Bhaktisiddhanta sees in this not
+Vrindavana Dasa never once names his father in his book. Kavi Karnapura, Murari Gupta and Kaviraja Gosvami are silent
+about him as well; of his forefathers almost nothing is known beyond his kinship with Narayani. Srila Bhaktisiddhanta sees in this not
 a gap but a principle: the Thakura is known through his mother, for to introduce a Vaishnava there is no need to name
 his forefathers, and they are left out (“Anubhashya” on CC, Adi 8.41). A Vaishnava is known by his devotion, not by his
 pedigree. <!-- F10 -->
@@ -94,9 +94,9 @@ pedigree. <!-- F10 -->
 The father's name has been kept only by later tradition. According to the “Prema-vilasa,” after the Lord's sannyasa
 Srivasa and Shrirama moved to Kumarahatta; Narayani was given in marriage to a brahmana named Vaikuntha Dasa, and he left
 this world while she was carrying her son, and Srivasa took her to himself. The “Gaudiya-vaishnava-abhidhana,” relying on
-the same book, calls him Sri Vaikuntha Dasa Vipra, and elsewhere Vaikunthanatha Vipra, and writes that his forefathers
+the same book, names him Sri Vaikuntha Dasa Vipra, in another place Vaikunthanatha Vipra, and writes that his forefathers
 lived in Shrihatta; one of the biographies adds that Narayani, widowed, left her husband's home in Kumarahatta
-(Halisahar) and came to live with Srivasa in Navadvipa.[^3] According to other accounts, Narayani was married in
+(Halisahar) and settled with Srivasa in Navadvipa.[^3] According to other accounts, Narayani was married in
 Mamgachhi, to a man of the same family as Malini Devi, whose parental home was in Mamgachhi and to which Malini returned
 to live in her old age.[^4] <!-- F10 F11 -->
 
@@ -106,8 +106,8 @@ true, pure brahmana who simply did not share the convictions of the smartas. <!-
 
 ## Appearance
 Where Vrindavana Dasa was born is not known for certain. It is said that it was in Mamgachhi, a village on the bank of
-the Bhagirathi, on Modadruma-dvipa of Navadvipa, in the eastern part of Bardhaman district, a mile from Purvasthali
-station on the Howrah–Katwa railway. In Mamgachhi his house and the place of his childhood play are still shown, and
+the Bhagirathi, on Modadruma-dvipa of Navadvipa, in eastern Bardhaman district, a mile from the railway station of
+Purvasthali on the Howrah–Katwa line. In Mamgachhi his house and the place of his childhood play are still shown, and
 here too stands the temple of Vasudeva Datta's Madana-Gopala. So the old residents hold, and so does our line: in the
 calendar of the Sri Chaitanya Saraswat Math “the place of appearance of Srila Vrindavana Dasa Thakura” is marked on
 Modadruma-dvipa, and pilgrims visit it on Gaura-chaturdashi, during the Navadvipa parikrama. According to other
@@ -128,7 +128,7 @@ Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: in his humility the
 was not born when these pastimes were manifest and did not see the Lord's dancing; and the passage at Madhya 1.399 he
 heads: “The grief and prayer of the author, who did not see the Lord's pastimes of study.” Nor is there in his book any
 hint that he saw the Lord in Nilachala. Vrindavana Dasa, then, came into this world after the Lord had left Navadvipa.
-One of the biographies supposes that when Mahaprabhu disappeared (in 1455 Shaka, 1533 CE) he was no more than fifteen;
+One of the biographies supposes that when Mahaprabhu disappeared (in 1455 Shaka, 1533 CE) he was fifteen at most;
 another, that he was born four years after the Lord's sannyasa and was barely twenty in the year of His disappearance;
 a third writes that he appeared sometime after 1510.[^7] <!-- F14 F16 Q2 -->
 
@@ -136,7 +136,7 @@ His appearance day is celebrated, according to the calendar of the Sri Chaitanya
 Trivikrama, on the twelfth lunar day of the dark fortnight (Krishna-dvadashi); in 2026 it fell on 14 May.[^8] <!-- F15 -->
 
 ## Childhood in Mamgachhi
-Wherever he was born, his childhood was spent in Mamgachhi, in the ancestral home of Malini Devi, his great-aunt. Srila
+Wherever he was born, his childhood was spent in Mamgachhi, in the family home of his great-aunt Malini Devi. Srila
 Bhaktisiddhanta writes in his commentary on the “Chaitanya-bhagavata” that in this house little Vrindavana grew up
 surrounded by care, like a precious jewel. According to another account, Narayani raised her “precious son” here until he
 was ten. <!-- F17 -->
@@ -148,7 +148,7 @@ great care, and there the boy studied and became a pandita. One of the biographi
 Vasudeva Datta's house, and that her son, once born, soon began his studies. Thus service in a Vaishnava's house and the
 protection of a great devotee surrounded Vrindavana Dasa from his first years.[^9] <!-- F18 -->
 
-One of the biographies also writes that after the father's death mother and son moved to Srivasa's house and received
+One of the biographies also writes that after the father left this world mother and son moved to Srivasa's house and received
 special blessings from Mahaprabhu there. But Vrindavana Dasa himself, as we have seen, says that he did not witness the
 Lord's pastimes in Navadvipa — and we follow his words.[^10] <!-- F19 -->
 
@@ -184,7 +184,7 @@ Kaviraja Gosvami calls it throughout the “Chaitanya-charitamrita” (Adi 8.33,
 “Chaitanya-bhagavata” became established. Srila Bhaktisiddhanta confirms that it is one and the same book: Vrindavana
 Dasa Thakura too wrote under the title “Chaitanya-mangala,” and it is this book that Kaviraja mentions, while it became
 famous as the “Sri Chaitanya-bhagavata.” Who gave it its new name is told differently. According to one biography, it
-was renamed when Lochana Dasa gave the same name to his own poem; according to another, “some think” that the new name
+was renamed when Lochana Dasa called his own poem by the same name; according to another, “some think” that the new name
 was given by Lochana Dasa and Krishnadasa Kaviraja, probably following the comparison of its author with Vyasa; according
 to the “Prema-vilasa,” by Vrindavana Dasa's own devotees.[^11] The same name, it is thought, is hinted at by Lochana Dasa
 when at the beginning of his poem he praises its author:
@@ -192,7 +192,7 @@ when at the beginning of his poem he praises its author:
 “With one mind I praise Sri Vrindavana Dasa, by whose song, the *Bhagavata*, the world is enchanted.”
 (“Chaitanya-mangala,” Sutra-khanda 35)
 
-<!-- F24 Q10 -->
+<!-- F24 Q10 F47 -->
 
 When the book was written is also told differently: according to one biography, in 1535 (so too the
 “Gaudiya-vaishnava-abhidhana” — 1457 Shaka); according to the “Prema-vilasa,” in 1495 Shaka.[^12] Vrindavana Dasa wrote
@@ -201,7 +201,7 @@ manuscript of the book has been preserved. <!-- F25 F26 -->
 
 Vrindavana Dasa tells most of all of Mahaprabhu's early pastimes — His childhood, His studies, the subduing of the Kazi,
 His leaving Navadvipa; the Adi-khanda goes from the Lord's birth to His return from Gaya. The pastimes in Puri are
-described only in part: the author became so absorbed in describing the pastimes of Nityananda that he told the Lord's
+described only in part: the author was so immersed in the pastimes of Nityananda that he told the Lord's
 later pastimes briefly. Kaviraja says so himself:
 
 “First he set down all the pastimes in a brief summary, and afterwards described them at length. The pastimes of
@@ -278,8 +278,8 @@ sinner on the head.” (CB, Madhya 11.63)
 The same words sound in Adi 9.225 and 17.158, in Madhya 18.223 and 23.522, and in Antya 6.137. Foolish and proud people,
 not understanding them, censure him for this and thereby fall into offence against a Vaishnava. Some worldly men of
 letters, seeing his anger at Nityananda's blasphemers, even decided that the “incarnation of Vyasa” was subject to anger
-like an ordinary man. But Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya” on Adi 9.225: by these words the most
-magnanimous of men shows what a servant's devotion to his Master is. He is ready even for this for the eternal good of the
+like an ordinary man. But Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya” on Adi 9.225: in these words of the most
+magnanimous of men one sees what a servant's devotion to his Master is. He is ready even for this for the eternal good of the
 blasphemers themselves; if but a speck of dust from his foot touches their heads, they will be freed from everything
 unwanted in the heart. Outwardly his conduct, and that of the preachers who follow in his footsteps, may look like
 punishment of the Lord's enemies, but within it is full of boundless compassion. <!-- F34 Q8 I2 -->
@@ -320,8 +320,8 @@ here he installed Nitai-Gaura, and here Narayani lived. Srila Bhaktivinoda Thaku
 shripata of Vrindavana Dasa Thakura. <!-- F37 F38 -->
 
 He had four disciples. One of them, Sri Ramahari, from a family of *uttara-radhiya kayasthas*, he made heir to all his
-possessions in Denur; Ramahari's descendants still live in the Thakura's house in Denur (Denur-pat) and carry on the
-service. Ramahari was a pure Vaishnava, initiated according to all the rules, but later his descendants, under the
+possessions in Denur; to this day Ramahari's family lives in the Thakura's home at Denur (Denur-pat) and keeps up the
+worship there. Ramahari was a pure Vaishnava, initiated according to all the rules, but later his descendants, under the
 pressure of the smartas, abandoned sadhana and took to following the smarta code.[^14] According to the
 “Gaudiya-vaishnava-abhidhana,” Ramahari Dasa received the service of Nitai-Gaura, and the other disciples were Shachi
 Dasa (service of Radhakanta in Chakta), Gopinatha (of Vrindavana-chandra in Vishnugram) and Debidasa (of Shyamasundara in
@@ -331,7 +331,7 @@ In Mamgachhi Gaura and Nityananda, whom Vrindavana Dasa served, are worshipped e
 Nitai-Gaura connected with him are honoured in Denur too.[^15] <!-- F40 -->
 
 Vrindavana Dasa was a profound knower of the scriptures on bhakti, lived by the Vaishnava way of life, and sought only to
-glorify guru and the Vaishnavas. He stood at the head of a truly pure brahmana society and did not submit to the
+glorify guru and the Vaishnavas. He led a brahmana community that was truly pure and never bowed to the
 smartas, who were hostile to the highest good — he was the chief guardian of the preaching of the pure bhakti revealed by
 Sri Chaitanyachandra. The smartas envied Nityananda and did not honour His servant; they sought grounds for gossip
 everywhere — in the story of Radharamana in Advaita's family, in the image of Durga among Virachandra's disciples, in the
@@ -347,7 +347,7 @@ Khanda: “Vrindavana Dasa, who revealed the ‘Chaitanya-mangala.’” <!-- F4
 
 ## Departure
 When Vrindavana Dasa left this world is not known for certain. The “Gaudiya-vaishnava-abhidhana” writes that, “as some
-say,” it was in 1511 Shaka (1589 CE), but this is only a guess.[^16] The day of his departure is observed by Vaishnavas,
+say,” it was in 1511 Shaka (1589 CE), but this is mere conjecture.[^16] The day of his departure is observed by Vaishnavas,
 according to the calendar of the Sri Chaitanya Saraswat Math, in the month of Madhusudana, on the tenth lunar day of the
 dark fortnight (Krishna-dashami); in 2026 this day fell on 12 April. Where he left this world and where his samadhi is,
 the sources do not say; there is known only a photograph of the samadhi of Srila Vrindavana Dasa Thakura, without the
@@ -401,12 +401,12 @@ him. <!-- I1 I2 I4 -->
     Dasji,” to whom the “Bhajana-nirnaya” and other books belong that were later ascribed to our Vrindavana Dasa.
     Vrindavana-chandra is a Deity.
 [^2]: So the “Gaudiya-vaishnava-abhidhana” relates, and two biographies after it; one of them, following the
-    “Prema-vilasa,” adds that Srivasa's father, Jaladhara Pandita, had five sons: the eldest was Nalina, Srivasa the
-    second. Another biography says only that Narayani was the daughter of “one of the brothers” of Srivasa. Vrindavana
+    “Prema-vilasa,” adds that Srivasa's father, Jaladhara Pandita, had five sons, of whom Nalina was the first and
+    Srivasa the second. Another biography says only that Narayani was the daughter of “one of the brothers” of Srivasa. Vrindavana
     Dasa himself writes: “the daughter of Srivasa's brother.”
 [^3]: According to one account, the father left this world not before his son's birth but when Vrindavana was still an
-    infant. We follow the “Prema-vilasa” and the “Gaudiya-vaishnava-abhidhana”: he departed while the son was still in
-    the womb.
+    infant. We follow the “Prema-vilasa” and the “Gaudiya-vaishnava-abhidhana”: he departed before his son was
+    born.
 [^4]: So say two biographies and one other account: according to it, Narayani's husband came from Malini Devi's family,
     and Malini's father lived in Mamgachhi. According to the “Prema-vilasa,” the “Gaudiya-vaishnava-abhidhana” and one
     of the biographies, the home of Narayani's husband was in Kumarahatta.
@@ -429,7 +429,10 @@ him. <!-- I1 I2 I4 -->
 [^9]: This is told only by the “Prema-vilasa” and one of the biographies; the other biographies do not mention it.
 [^10]: When the Lord was in Navadvipa, Vrindavana Dasa was not yet born, and after His sannyasa Mahaprabhu lived in Puri.
 [^11]: The “Chaitanya-charitamrita” everywhere calls the book the “Chaitanya-mangala” (Adi 8.33, 8.35, 8.38, 8.44, 11.54;
-    Antya 20.85, 20.87); our Russian translation in places gives the later title here.
+    Antya 20.85, 20.87); our Russian translation in places gives the later title here. Srila Bhaktisiddhanta, in his
+    preface to Lochana Dasa's “Chaitanya-mangala,” records one more tradition: Lochana Dasa's book had been written somewhat
+    earlier, and when Vrindavana Dasa's mother said so, her son's book had to be renamed (the text of the preface is
+    damaged at this point; the sense follows the most probable reading).
 [^12]: That is, in 1573 CE. One of the biographies gives no year at all.
 [^13]: This interpretation is reported by one of the biographies on the word of “some”; of Lokanatha and Bhugarbha the
     same biography supposes that they themselves did not allow anything to be written about them.
