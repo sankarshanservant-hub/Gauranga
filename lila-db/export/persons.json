@@ -4375,6 +4375,10 @@
     "type": "spouse"
    },
    {
+    "from": "@lokanatha",
+    "type": "guru"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "companion"
    },
@@ -13144,6 +13148,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -14485,6 +14493,10 @@
    },
    {
     "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
+    "from": "@lokanatha",
     "type": "other"
    },
    {
@@ -24210,6 +24222,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "companion"
+   },
+   {
     "from": "@madhu-pandita",
     "type": "other"
    },
@@ -25125,6 +25141,10 @@
    {
     "from": "@krishnadasa-mathura",
     "type": "other"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "companion"
    },
    {
     "from": "@madhavendra-puri",
@@ -26259,6 +26279,10 @@
    },
    {
     "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
+    "from": "@lokanatha",
     "type": "other"
    },
    {
@@ -31995,6 +32019,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "companion"
+   },
+   {
     "from": "@madhu-pandita",
     "type": "other"
    },
@@ -32688,6 +32716,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "other"
    },
    {
     "from": "@mukunda-datta",
@@ -33699,6 +33731,10 @@
    },
    {
     "from": "@kashi-vipra-host",
+    "type": "companion"
+   },
+   {
+    "from": "@lokanatha",
     "type": "companion"
    },
    {
@@ -35406,6 +35442,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "companion"
+   },
+   {
     "from": "@madhu-pandita",
     "type": "other"
    },
@@ -36616,6 +36656,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -37742,6 +37786,10 @@
    {
     "from": "@kamalakara-pippalai",
     "type": "companion"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "met"
    },
    {
     "from": "@madhu-pandita",
@@ -38912,6 +38960,198 @@
    "ev-jiva-srinivasa-letters",
    "ev-narottama-pyre-gambhila"
   ],
+  "summary": "в Кришна-лиле — Лила-манджари (ГГД 187); гуру — Шри Чайтанья Махапрабху; происхождение — Талагади (Яшохара); уход — Кришна-аштами месяца Шридхара; самадхи — храм Радха-Гокулананды (Вриндаван), Кхадираван (Кхаяра, Югала-кунда)",
+  "card": "parshadas/cards/lokanatha.yaml",
+  "article": {
+   "ru": "parshadas/ru/lokanatha.md",
+   "en": "parshadas/en/lokanatha.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "vrindavana",
+   "goswamis"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#talagadi",
+    "conf": "место — Талкхари (Джессор) по всем источникам; день и год явления не названы; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-21) дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Кришна-аштами месяца Шридхара (по нашему календарю; 6 августа 2026)",
+    "place": "#vrindavana",
+    "conf": "T — кришна-аштами ашадхи, ≈ 1510 шака (1588–89); M — кришна-аштами шраваны; B не сообщает; даём по календарю ШЧСМ (541/ru, проверено 2026-11-21) — Шридхара-маса ≈ шравана; при амавасьянта-счёте T называет, вероятно, тот же день (⚠12)",
+    "facts": [
+     "F76"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#radha-gokulananda-mandira",
+     "facts": [
+      "F77"
+     ],
+     "note": "по T 152 (там же служим Радха-винода)"
+    },
+    {
+     "place": "#khadiravana",
+     "facts": [
+      "F77"
+     ],
+     "note": "по M 98 — у Югала-кунды в Кхаяре; расходится с T (⚠12)"
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Лила-манджари",
+    "source": "ГГД 187",
+    "level": "A",
+    "variants": [
+     "Манджулали (манджари) — «Према-виласа» 7, 20; «Анурага-валли» 4 (ур. C; lila-db pvl-0044, pvl-0174, anv-0031) (⚠5)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@padmanabha-chakravarti",
+    "note": "Ученик и любимец Адвайты (B 1069; M 96; БР 1.298); M однажды — «Бхаттачарья» (⚠6)."
+   },
+   {
+    "type": "mother",
+    "who": "@sita-lokanatha"
+   },
+   {
+    "type": "sibling",
+    "who": "@pragalbha-bhattacharya",
+    "note": "Младший брат; потомки в Талкхари (T 150; M 95–96; «Анубхашья»); B: Локанатха — единственный сын (⚠3)."
+   },
+   {
+    "type": "guru",
+    "who": "@mahaprabhu",
+    "note": "Господь и наставник: обнял, послал вестником во Врадж к Чир-гхату, утешил во сне; «гуру Локанатхи — Гауранга» (T 219; M 255) — формального посвящения источники не описывают (⚠Б6)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Гуру его родителей; по «Адвайта-пракаше» (D) — учитель и дал мантру Кришны."
+   },
+   {
+    "type": "friend",
+    "who": "@bhugarbha",
+    "note": "Неразлучный друг («тела лишь разные», БР 1.317); вместе ушли во Врадж (B, T; M — встретил там); седьмой и восьмой Госвами. = @bhugarbha F12–F23."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Отпустил с ним своего ученика Бхугарбху (B 1073); «Шакха-нирная» (через «Анубхашью», с «?») относит Локанатху к его ветви (⚠11)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-vinoda-deity",
+    "note": "Явился у Кишора-кунды в Умрао (B — во сне велел служить; T, M, БР — Господь в ином облике вручил); носил Его в сумке-храме на груди; ныне — в храме Радха-Гокулананды (T 152)."
+   },
+   {
+    "type": "disciple",
+    "who": "@narottama-dasa",
+    "note": "Единственный ученик: тайное служение, посвящение в полнолуние шраваны; велел вернуться в Кхетури, служить Гауранге и Кришне, вайшнавам и устроить санкиртану; шесть Божеств Кхетури — по его повелению."
+   },
+   {
+    "type": "companion",
+    "who": "@rupa-gosvami",
+    "note": "В свите Рупы месяц в Матхуре у Гопалы (ЧЧ Мадхья 18.49); скорбел о его уходе."
+   },
+   {
+    "type": "companion",
+    "who": "@sanatana-gosvami",
+    "note": "Назвал его имя в ХБВ 1.4 и во вступлении «Вайшнава-тошани» (ст. 9)."
+   },
+   {
+    "type": "companion",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-dasa",
+    "note": "У Радха-кунды с Рагхунатхой Дасом и Кришнадасом («Карнананда» 4.432)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-bhatta"
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami",
+    "note": "Джива привёл к нему Нароттаму (M 105) и Шринивасу (B 665; БР 4.354–360)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Благословил писать ЧЧ, но запретил упоминать себя; Кавираджа назвал лишь имя (Мадхья 18.49)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "Назван вместе с ним в ХБВ 1.4 и «Вайшнава-тошани»."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Вверил его Радха-виноде (БР 4.359); благословил в путь; Шриниваса знал его замысел о Нароттаме (БР 7.119)."
+   },
+   {
+    "type": "met",
+    "who": "@shyamananda",
+    "note": "Благословил посылку троих с книгами (B 1104); по его велению Шьямананду позвали в Кхетури (B 1106)."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava"
+   },
+   {
+    "type": "met",
+    "who": "@ramachandra-kaviraja",
+    "note": "Милость; по M — дал звание «Кавираджа» (≠ B — Джива)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "ЧБ его не называет."
+   },
+   {
+    "type": "other",
+    "who": "@vishvanatha-chakravarti",
+    "note": "В дикша-линии Вишванатхи: Махапрабху — Локанатха — Нароттама — Ганганараяна — Кришначарана — Радхарамана — Вишванатха."
+   },
+   {
+    "type": "other",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "Параллель: обет не брать учеников и единственный ученик (Бхактисиддханта / Нароттама)."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "ГГД 187."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "БР 1.295–347; песня о Гопале Бхатте; «Намамрита-самудра» 27."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Мадхья 18.49 (родина, брат, единственный ученик, запрет — «из великого смирения») и к Ади 12."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhugarbha",
@@ -38996,6 +39236,10 @@
    {
     "from": "@advaita",
     "type": "disciple"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "father"
    }
   ]
  },
@@ -40045,6 +40289,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "companion"
    },
    {
     "from": "@madhu-pandita",
@@ -41548,6 +41796,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "met"
+   },
+   {
     "from": "@madhavi-devi",
     "type": "met"
    },
@@ -42626,6 +42878,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "disciple"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -42949,6 +43205,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "friend"
    },
    {
     "from": "@madhu-pandita",
@@ -43296,6 +43556,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@lokanatha",
+    "type": "met"
    },
    {
     "from": "@raghunandana",
@@ -43862,6 +44126,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@lokanatha",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -44274,6 +44542,10 @@
    },
    {
     "from": "@kurma-vipra",
+    "type": "other"
+   },
+   {
+    "from": "@lokanatha",
     "type": "other"
    },
    {
@@ -45779,6 +46051,10 @@
    },
    {
     "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
+    "from": "@lokanatha",
     "type": "other"
    },
    {
@@ -48981,6 +49257,10 @@
     "type": "other"
    },
    {
+    "from": "@lokanatha",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -49530,6 +49810,10 @@
    },
    {
     "from": "@kavi-karnapura",
+    "type": "other"
+   },
+   {
+    "from": "@lokanatha",
     "type": "other"
    },
    {
@@ -53086,6 +53370,12 @@
   ],
   "events": [
    "ev-lokanatha-sent-to-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@lokanatha",
+    "type": "mother"
+   }
   ]
  },
  {
@@ -53213,6 +53503,12 @@
    "ev-lokanatha-life-vrindavana",
    "ev-narottama-meets-lokanatha",
    "ev-jahnava-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@lokanatha",
+    "type": "deity-served"
+   }
   ]
  },
  {
@@ -63393,6 +63689,10 @@
     "type": "companion"
    },
    {
+    "from": "@lokanatha",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -66557,6 +66857,21 @@
   "related_by": [
    {
     "from": "@madhu-pandita",
+    "type": "sibling"
+   }
+  ]
+ },
+ {
+  "id": "@pragalbha-bhattacharya",
+  "ru": "Прагалбха Бхаттачарья (брат Локанатхи)",
+  "en": "Pragalbha Bhattacharya (Lokanatha's brother)",
+  "note": "младший брат @lokanatha; его потомки — «Бхаттачарьи из Талкхари» (T 150; M 95–96; «Анубхашья» к ЧЧ Мадхья 18.49)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@lokanatha",
     "type": "sibling"
    }
   ]
