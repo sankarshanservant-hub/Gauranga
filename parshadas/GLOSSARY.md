@@ -784,3 +784,11 @@
 | Бамунпукур; Вамана-пукура (улица); Брахмана-пушкарини; Таранавас (Бильва-пушкарини); Симулия | Bamunpukur; Vamana-pukura (lane); Brahmana-pushkarini; Taranavasa (Bilva-pushkarini); Simulia | гробница (самадхи) и дом Кази (@chand-kazi) |
 | голока-чампа | golok-champa | дерево у гробницы Чанд Кази |
 | *та̄ла̄ка* (торжественная клятва); *пийа̄да̄* (посыльный) | *talak* (solemn oath); *piyada* (messenger) | ЧЧ Ади 17.222, 17.188 |
+| Талкхари (Талакхади; Талакхайда — БР 1.296; Талагади — ПВ); Яшохар (Джессор); Сонакхали; Кхеджура | Talkhari (Talakhadi; Talakhaida — BR 1.296; Talagadi — PV); Yashohar (Jessore); Sonakhali; Khejura | родина @lokanatha и путь туда («Анубхашья» к ЧЧ Мадхья 18.49) |
+| Падманабха Чакраварти; Сита-деви; Прагалбха Бхаттачарья; Качнапара (Канчрапара?) | Padmanabha Chakravarti; Sita Devi; Pragalbha Bhattacharya; Kachnapara (Kanchrapara?) | родители и брат @lokanatha; прежнее место жительства семьи |
+| Лила-манджари; Манджулали | Lila-manjari; Manjulali | @lokanatha по ГГД 187; по «Према-виласе» и «Анурага-валли» — Манджулали |
+| Радха-винода (Шри Радха-винода); сумка-храм | Radha-vinoda (Sri Radha-vinoda); bag-temple | Божество @lokanatha; «явился в ином облике» (БР 1.327); не «статуэтка» |
+| Умрао; Кишори-кунда (у одного жизнеописания — Кишора-кунда); Чхатраван | Umrao; Kishori-kunda (Kishora-kunda); Chhatravana | место явления Радха-виноды |
+| Кадамба-кунджа (у Чир-гхата) | Kadamba-kunja | место бхаджана Локанатхи и Бхугарбхи |
+| Кхадираван; Кхаяра; Югала-кунда; храм Радха-Гокулананды | Khadiravana; Khayara; Yugala-kunda; Radha-Gokulananda temple | места самадхи @lokanatha по двум жизнеописаниям |
+| Валлавиканта; Враджамохана; Радха-канта; Радха-рамана (шесть Божеств Кхетури) | Vallavikanta; Vrajamohana; Radha-kanta; Radha-ramana (six Deities of Kheturi) | по БР 1.426; в @srinivasa-acharya — «Валлабхи-канта», «Враджа-мохана» |

@@ -173,7 +173,7 @@ overwhelmed with prema — the very limit of renunciation.[^12] In the mangalach
 “Bhakti-ratnakara” Narahari glorifies Lokanatha and Bhugarbha, full of prema, and he describes Gopala Bhatta in the company
 of Lokanatha, Bhugarbha, Kashishvara and others. <!-- F79 -->
 
-This is the only place where Lokanatha's name appears in the “Chaitanya-charitamrita.” When Gopala, on the pretext of
+In the “Chaitanya-charitamrita” Lokanatha's name occurs only once. When Gopala, on the pretext of
 fear of the Muslims, came from Govardhana to Mathura, to the house of Vitthaleshvara — in truth out of mercy for the aged
 Rupa — Rupa spent a whole month there beholding Him, and his associates were with him:
 
@@ -249,8 +249,8 @@ Radha-vinoda, Lokanatha saw in Him the beauty of Gaura and wept that he had not 
 Lokanatha had no home and did not know where to keep the Deity. So he sewed a large bag, and it became Radha-vinoda's
 temple: he wore it round his neck and kept the Lord close to his heart, like a precious necklace. So it was to the end
 of his days — an example of strict vairagya. According to one biography, the bag was a blanket hung from his neck, and
-in the rain Lokanatha placed Radha-vinoda in the hollow of a tree, while he himself, as before, got soaked. He himself
-lived under a tree, in rain and cold, keeping the vow of ayachaka — never asking anyone for food. <!-- F52 -->
+in the rain Lokanatha placed Radha-vinoda in the hollow of a tree, while he himself, as before, got soaked. He lived
+under a tree, in rain and cold, keeping the vow of ayachaka — never asking anyone for food. <!-- F52 -->
 
 Seeing his love for the Lord, the villagers and cowherds of Vraja wanted to build him a hut, but he refused: nothing
 pleased him but a place among the roots of trees. So great was his renunciation that he took only the barest
@@ -262,8 +262,8 @@ His beloved Radha-vinoda receives service in Vrindavana to this day, in the temp
 ## “Let Not Even a Stone Tell Where I Lie”
 All his life Lokanatha fled from honour. He thought himself unworthy of being called a saint and shunned every mark of
 respect; he stayed alone, except for the hours when Vaishnavas came to him or gathered for sankirtana. Worshipping Radha
-and Krishna in deep separation, he grew ever more detached and shrank from the least fame as others shrink from
-misfortune. <!-- F56 -->
+and Krishna in deep separation, he grew ever more detached and fled from the
+least fame. <!-- F56 -->
 
 When Krishnadasa Kaviraja, who undertook to write the “Chaitanya-charitamrita” at the wish of the Gosvamis of Vraja,
 came to Lokanatha for his blessing even before beginning the work, Lokanatha blessed him but set a condition: nowhere in
@@ -388,7 +388,7 @@ of Govinda Kaviraja, Ramachandra's younger brother, the “Bhakti-ratnakara” s
 Vrindavana drank the nectar of his songs and together gave him the title of Kaviraja. <!-- F75 F80 -->
 
 ## Departure
-Lokanatha Gosvami left this world in deep old age, having outlived almost all the Lord's associates. By our calendar
+Lokanatha Gosvami left this world in deep old age. By our calendar
 (Sri Chaitanya Saraswat Math) the day of his departure is the krishna-ashtami of the month of Shridhara (in 2026, 6
 August); the day of his appearance is not in the calendar, and the sources do not give it.[^23] <!-- F76 -->
 
@@ -411,7 +411,7 @@ alone.” (“Bhakti-ratnakara” 1.297)[^25] <!-- Q3 -->
 
 His whole life is in these words. The first whom the Lord sent to Vraja, he found Radha-vinoda there and served Him to
 the end; he fled from fame so that even the “Chaitanya-charitamrita” kept only his name; and through his one disciple,
-Narottama, he gave rise to the line that brings Mahaprabhu's teaching to us. He is counted among the great souls, full of
+Narottama, he founded the line of disciples that descends from Narottama. He is counted among the great souls, full of
 separation, who relish the hidden pastimes of service, and his renunciation is of one nature with that of Srila
 Gaurakishora. <!-- F3 F32 F60 I5 -->
 
