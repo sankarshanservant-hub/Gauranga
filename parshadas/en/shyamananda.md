@@ -69,7 +69,7 @@ to one of the biographies, was 1456 of the Shaka era (1534), soon after Mahaprab
 
 ## Childhood
 At the proper time his parents performed for him the ceremonies of the first feeding with rice (*annaprashana*) and the
-first haircut, and the joy in the house, says Narahari, cannot be told. He did not mix with other boys: his time was
+first haircut, and the joy in the house, says Narahari, cannot be told. He kept apart from the other boys: his time was
 given to study and to Vaishnava observances. He mastered Sanskrit grammar ahead of time, and with it poetry, rhetoric
 and other subjects, so that the learned marvelled at his intelligence; then he applied himself in earnest to the
 scriptures. His parents rejoiced both in his gifts and in his piety. He served his father and mother diligently.
@@ -83,7 +83,7 @@ desire awoke in the boy to take shelter at the feet of Gaura and Nityananda. <!-
 ## At Ambika, with Hridaya Chaitanya
 When their son had grown, the parents themselves proposed that he take initiation, though he was still young, so that
 he might give himself wholly to the Lord's service. Seeing him always absorbed in thoughts of Gaura and Nityananda, his
-father said: “Take initiation in the Krishna mantra from whomever you wish.” Dreams had inspired him even before this,
+parents said: “Take initiation in the Krishna mantra from whomever you wish.” Dreams had inspired him even before this,
 and he had his answer ready. The “Bhakti-ratnakara” continues:
 
 “Hearing them, he says with joined palms: ‘My master is Hridaya Chaitanya in Ambika. He is a branch of Prabhu Gauridasa
@@ -129,8 +129,7 @@ from his guru was hard for him. He carried many messages from Hridaya Chaitanya 
 obeisances to the six Gosvamis; according to the “Prema-vilasa”, his guru, sending him off, gave him a sanctified cloth
 from the Deities. <!-- F24 F25 -->
 
-On the way he went round Navadvipa-Mayapur and the homes of the Lord's associates, and the more he saw, the less he
-wished to leave Gaura-mandala. Narahari writes:
+On the way he went round Navadvipa-Mayapur and the homes of the Lord's associates, and the more he saw, the less he could bring himself to leave Gaura-mandala. Narahari writes:
 
 “Crying ‘Sri Gauda-mandala!’ he wails aloud; tears pour down his face and chest. The associates of Nityananda, Advaita
 and Chaitanya — uttering their names, he weeps without end. Again and again he prays to the Lord: ‘May Sri
@@ -179,8 +178,8 @@ Thakura had a presentiment that a new Vaishnava friend would soon come to them �
 came to Jiva, and the three met with joy[^10]. So began a lifelong friendship: the three are called “of one life and
 one aim, friends at heart”. <!-- F31 -->
 
-Jiva gave all three a taste of the sweetness of bhakti-rasa from the books of Sri Rupa and Sanatana, his own, those of
-Raghunatha Dasa, Gopala Bhatta and others. He taught Krishnadasa the “Srimad-Bhagavatam”; according to the
+Jiva gave all three a taste of the sweetness of bhakti-rasa from the books written by Sri Rupa and Sanatana
+themselves, and by Raghunatha Dasa, Gopala Bhatta and others. He taught Krishnadasa the “Srimad-Bhagavatam”; according to the
 “Prema-vilasa”, grammar and poetry as well, and the “Bhakti-rasamrita-sindhu” and “Ujjvala-nilamani” with commentary.
 Receiving detailed personal instruction from Jiva, the three became masters of the teaching and scriptures of Sri
 Chaitanya — what is usually called Gaudiya Vaishnavism — and adept in joyful bhakti full of feeling; soon Krishnadasa,
@@ -189,18 +188,16 @@ Jiva's consent they held kirtanas: all three were great connoisseurs of music, s
 school. They lived as humble mendicants, sustained by *madhukari*, and performed their bhajana as one, with a single
 mind[^11]. <!-- F33 F35 -->
 
-Krishnadasa begged Jiva for some service that would bring him nearer to his teacher, and Jiva gladly told him to draw
+Krishnadasa begged Jiva for a service that would keep him close to his teacher, and Jiva gladly told him to draw
 water for him every day at Kanana-kunja. He carried it with love, and this service transformed him: at the loud
-kirtana of the names of Radha and Govinda, at the remembrance of Their pastimes, he would stand stunned with wonder, and
-his eyes would fill with tears. The “Bhakti-ratnakara” says: “In Vrindavana he performs a wondrous sadhana; at the sight
+kirtana of the names of Radha and Govinda, at the remembrance of Their pastimes, he would stand stunned with wonder, tears welling up in his eyes. The “Bhakti-ratnakara” says: “In Vrindavana he performs a wondrous sadhana; at the sight
 of it everyone's eyes and hearts are gladdened” (1.400). By his nature and devotion he became dear to all — to the
 elder Gosvamis, to the Vaishnavas of Vraja and to Sri Shyamasundara Himself — and all the Lord's associates in
 Vrindavana rejoiced to see him. <!-- F28 F34 F37 -->
 
-His guru, Hridaya Chaitanya, like Gauridasa, worshipped Gaura and Nitai in the mood of friendship (*sakhya-bhava*). But
+His guru, Hridaya Chaitanya, like Gauridasa, worshipped Gaura and Nitai as friends, in *sakhya-bhava*. But
 Jiva saw in Krishnadasa an inclination to become a maidservant (*dasi*) of Srimati Radha and gave him the inner
-preparation for it; serving Jiva and keeping company with the Vrajavasis headed by him, Krishnadasa acquired a taste for
-the service of Radha and Krishna in the conjugal mood (*madhurya-bhava*) and took shelter of it. The “Prema-vilasa”
+preparation for it; serving Jiva and keeping company with the Vrajavasis headed by him, Krishnadasa came to relish the service of Radha and Krishna in the mood of conjugal love (*madhurya-bhava*) and took shelter of it. The “Prema-vilasa”
 relates that when he asked about the course of his sadhana, Jiva explained to him the five rasas and madhura-rasa and
 gave him the mantra of Radhika and instructions on remembrance — but first of all reminded him:
 
@@ -221,12 +218,12 @@ Srinivasa, Narottama and Dukhi Krishnadasa, who had come from Gauda, the names �
 1.401)
 
 The biographies say the same: Jiva, knowing that Krishnadasa had pleased Shyamasundara — or, according to another
-biography, that he brought joy (*ananda*) to Radha and Shyamasundara — gave him the name, as he gave titles to his other
+biography, that he brought joy (*ananda*) to Radha and Shyamasundara — gave him the name, just as he bestowed titles on other
 best disciples too[^12]. <!-- F4 -->
 
 His line preserves a tradition about it. One early morning, absorbed in ecstasy, Shyamananda was sweeping the
 Rasa-mandala of Vrindavana — and by Sri Radha's mercy found on the ground a nupura, an ankle-bell from Her foot. In
-his excitement he touched it to his forehead, and on that spot a mark of the same shape appeared. This mark, the
+his agitation he pressed it to his brow, and there its likeness remained imprinted. This mark, the
 *nupura-tilaka*, his followers wear on the forehead to this day in coloured clay. So Sri Radha showed how dear this
 servant was to Her. Narahari sings in a pada:
 
@@ -251,7 +248,8 @@ dropped it in the kunja at night, while dancing with Krishna, and She sent Visha
 the daughter of a cowherd of the village, told Krishnadasa that the anklet had been lost by a young daughter-in-law of
 their house while picking flowers; and Radha Herself, coming with Vishakha, stood apart behind a tree. Seeing from afar
 the radiance of King Vrishabhanu's daughter, he understood that a great secret was being revealed to him, gave the
-anklet to Vishakha and fell prostrate in tears. As a reward he asked only for the dust of her feet. Vishakha told him to
+anklet to Vishakha and fell prostrate in tears. Vishakha said that her friend wished to reward him — and he asked only
+for the dust of Her feet. Vishakha told him to
 bathe in the kunda, and as he immersed himself he attained the form of a young gopi; Vishakha led her to Sri Radha, and
 the sakhis seated her among them. Radha put kunkuma on the anklet, marked the forehead of Her new maidservant with it
 and said: “May this tilaka remain on your forehead; from now on your name is Shyamananda; now go.” The vision vanished,
@@ -259,20 +257,22 @@ and in the reflection in the water he saw the shining tilaka on his forehead. We
 Sri Radha, he returned to Jiva, who heard him with tears of joy and said: “Do not reveal this secret to people; from now
 on your name is Shyamananda.” <!-- F40 -->
 
-There is nothing mundane in this lila. Vishakha's words about the “young daughter-in-law” are Radha's concealment within
-Her own pastimes, where She hides Her love for Krishna; the gopi form that Krishnadasa attained is not a transformation of
-the body but the revelation of his eternal form of service; and Jiva's command to keep silent shows how intimate this
-grace is[^14]. <!-- F40 -->
+There is nothing mundane in this lila. Vishakha's words about the “young daughter-in-law” are no worldly detail: so the
+sakhi shelters Sri Radha, whose love for Krishna in the pastimes of Vraja is intimate and hidden from all; She belongs
+eternally to Krishna alone, and Her “marriage” in these pastimes is only an appearance created by yogamaya for the
+sweetness of secret love. The gopi form that Krishnadasa attained in samadhi is not a transformation of the body but the
+revelation of his eternal spiritual form, in which he serves Sri Radha; and Jiva's command to keep silent shows how
+intimate this grace is[^14]. <!-- F40 F98 -->
 
 ## The Guru's Anger
 The same biography tells what followed. The Vaishnavas began to talk of Krishnadasa's new name and new tilaka, and word
 reached Ambika. Hridaya Chaitanya, angered, hurried to Vrindavana and, seeing an unfamiliar tilaka on his disciple's
 forehead, said: “Your conduct is unworthy; you disgrace me!” — and scolded and even beat him, while the Vaishnavas tried
-to calm him. Duhkhi Krishnadasa bore it all with a cheerful face, for he knew he had never for a moment abandoned his
+to calm him. Duhkhi Krishnadasa bore it all smiling, knowing that he had never for a moment abandoned his
 guru's service. That night Sri Radha appeared to Hridaya Chaitanya in a dream and reproached him: “Sri Duhkhi
 Krishnadasa has greatly pleased Me, and I gave him this new name and tilaka; why do you instruct him otherwise?” Hridaya
 Chaitanya fell at Her feet, begging forgiveness. In the morning he called Shyamananda, embraced him again and again and
-said with tears: “You are truly fortunate” — and a few days later he left Vraja[^15]. <!-- F41 I3 -->
+said with tears: “You are truly fortunate” — and a few days later he left Vraja[^15]. <!-- F41 I3 F98 -->
 
 This story cannot be measured by worldly standards. The guru's sternness was care for the purity of his line, and it was
 resolved by Radha Herself; the disciple accepted his teacher's rebuke as mercy and never left him in thought or deed.
@@ -292,7 +292,7 @@ the books of the Gosvamis “so that they might preach the holy name and prema�
 Lokanatha, Bhugarbha, Gopala Bhatta, Raghunatha Dasa, Krishnadasa Kaviraja and other Gosvamis came to bless them, as did
 Ishana of Vrindavana and Uddhava Dasa, who accompanied them a little way out of Mathura (“Bhakti-ratnakara” 6.514).
 Before setting out the three bowed to the three principal Deities of Vrindavana — Govinda, Gopinatha and Madana-mohana.
-They departed on shukla-panchami, the fifth day of the bright fortnight of the month of Agrahayana. <!-- F43 F44 Q8 -->
+They departed on shukla-panchami, the fifth lunar day of the waxing moon of Agrahayana. <!-- F43 F44 Q8 -->
 
 Everything needed was arranged by Sri Jiva, the author of the plan. He warmly received the Vaishnavas who had come for
 this from other parts of Vraja, and at his bidding a fortunate merchant of Mathura bore the expenses: a cart, a stout
@@ -302,24 +302,21 @@ According to the “Prema-vilasa”, four oxen were yoked to the cart and ten me
 Before parting, according to the “Prema-vilasa”, he entrusted Shyamananda to Narottama — to take him along and later
 send him home with an escort — and told him to ask Narottama about the intimate matters of bhajana; there too he
 foretold that in Shyamananda's homeland Murari Dasa, son of Achyutananda, would take his shelter. According to the
-“Narottama-vilasa”, Jiva told Shyamananda to go on to Utkala by way of Ambika (3.14), and the “Anuragavalli” gives his
-words: “Through you in the land of Utkala many will be delivered — know it for certain” (6.204). <!-- F45 F46 -->
+“Narottama-vilasa”, Jiva told Shyamananda to go on to Utkala by way of Ambika (3.14). <!-- F45 F46 -->
 
 They travelled under guard with the locked chest of scriptures, by the road by which Mahaprabhu and Sanatana had once
 gone from Nilachala to Vrindavana, through Agra and the forests of Jharikhanda — village by village, halting for the
 night, with sankirtana and preaching. But along the way rumours spread that the chest held the treasure of some great
-zamindar, or of a rich merchant bound for Puri. When the travellers had crossed the border of Bihar and entered Bengal,
-the soothsayer of a band of robbers in the service of Vira Hambira, king of Vishnupura, calculated that the chest held
+zamindar, or of a rich merchant bound for Puri. When the travellers had left Bihar behind and come into Bengal, a soothsayer who served the robber band of Vira Hambira, king of Vishnupura, worked out that the chest contained
 valuables. In the kingdom of Vana-Vishnupura the Vaishnavas thought the danger past and slept in peace, and at midnight
 the robbers carried off the chest, cart and all, to the palace. <!-- F47 F48 F49 -->
 
 Finding only books in the chest, the king felt cheated — and wished to meet their owner, to beg forgiveness and escape
 the consequences of offending a saint. The three Vaishnavas, for their part, were as if thunderstruck; in despair they
-were ready to give up their lives. At last, after many inquiries, Srinivasa learned that the chest could probably be
-recovered from the palace. He stayed in Vishnupura, sending Narottama to Kheturi in North Bengal and Shyamananda to
+were ready to give up their lives. At last, having asked about far and wide, Srinivasa found out that the chest might well be got back from the palace. He stayed in Vishnupura, and sent Narottama north, to Kheturi, and Shyamananda on to
 Orissa, to Utkala — for Medinipur too was then under the king of Orissa[^17]. <!-- F50 F51 F52 -->
 
-Not only were the books recovered: Vira Hambira himself became Srinivasa's disciple and a great patron of the preaching
+The books came back — and more: Vira Hambira himself took Srinivasa as his guru and became a mighty supporter of the preaching
 of Mahaprabhu's bhakti. At the king's request Srinivasa informed Jiva in Vrindavana — through the carter and the guards
 — and wrote to Narottama and Shyamananda. According to the “Narottama-vilasa”, the letter about the recovered books threw
 both into ecstasy. Srila Bhaktisiddhanta writes that Jiva first received news of the theft of the books, and then that
@@ -332,7 +329,7 @@ days Narottama explained to him from the “Ganoddesha-dipika” the order of se
 pain of parting, sent him home with two companions and money for the road (13.183–197). After that Shyamananda visited
 the places of many devotees in Bengal and by way of Navadvipa came to Ambika, to his guru[^18]. <!-- F54 -->
 
-The “Narottama-vilasa” describes this meeting. Hridaya Chaitanya was telling those around him of his dear disciple —
+The “Narottama-vilasa” describes this meeting. Hridaya Chaitanya was speaking of his dear disciple with the one who had run ahead to announce his coming —
 “he devoted himself ceaselessly to service in the kunja, found happiness, and received the name ‘Shyamananda’” (3.76) —
 and he had barely finished when Shyamananda himself came in and fell respectfully at his feet. The guru placed his feet
 on his head, embraced him, led him into the temple courtyard and offered him to the feet of Nityananda and Chaitanya,
@@ -344,7 +341,7 @@ But Hridaya Chaitanya was troubled about Utkala. Almost all of Mahaprabhu's pers
 this world, and the preaching of His message had nearly died out. So he told his disciple to go to Utkala and preach
 the teaching of Sri Chaitanya and the Gosvamis. As he was leaving, Shyamananda suffered at the separation; his guru
 called him back and explained his concern, and he, taking the command upon his head, went. According to the
-“Narottama-vilasa” and the “Prema-vilasa”, Hridaya Chaitanya, sending him off, gave him a garland-prasada from the
+“Narottama-vilasa”, Hridaya Chaitanya, sending him off, gave him a garland-prasada from the
 Deities and invested him with his own power: “Much will be accomplished through you” (“Narottama-vilasa” 3.91).
 <!-- F55 -->
 
@@ -359,8 +356,8 @@ way back to Nrisimhapura, where Shyamananda lived. The “Narottama-vilasa” re
 told Shyamananda that Thakura Mahashaya had come, and Shyamananda hurried out with his people to meet him. “Seeing each
 other, both lost their composure and, bowing to each other, were bathed in tears” (4.196); all around wept to see such
 love. Shyamananda showed Narottama a letter from Srinivasa and the mahaprasada sent from Ambika by Hridaya Chaitanya, and
-Narottama with his own hand put Jagannatha's prasada into his mouth. Out of love Shyamananda kept his guest for many
-days; Narottama flooded Nrisimhapura with sankirtana, and day and night they spoke of Krishna. Narottama also showed
+Narottama with his own hand put Jagannatha's prasada into his mouth. According to one of the biographies, out of love Shyamananda kept his
+guest for many days (according to the “Narottama-vilasa”, two days); Narottama flooded Nrisimhapura with sankirtana, and day and night they spoke of Krishna. Narottama also showed
 mercy to Shyamananda's disciple Rasika-Murari. And when the time came to part, both were pierced by the pain of
 separation. <!-- F57 -->
 
@@ -371,14 +368,16 @@ were saddened. Jiva taught them the conclusions of the just-completed “Shat-sa
 of the “Gopala-champu” he had begun, and together with Ramachandra Kaviraja they visited the Deities and saints of
 Vrindavana. <!-- F58 F59 -->
 
-At Jiva's bidding Srinivasa and Shyamananda went together to Gauda. In Vana-Vishnupura the king danced for joy, honoured
+At Jiva's bidding Srinivasa and Shyamananda went together to Gauda. The “Anuragavalli” gives Jiva's parting words to
+Shyamananda this time: “Through you in the land of Utkala many will be delivered — know it for certain” (6.204). In
+Vana-Vishnupura the king danced for joy, honoured
 Srinivasa as his guru and held a great festival, and Shyamananda marvelled at the king's devotion; there Vira Hambira
 took initiation and the name Sri Chaitanya Dasa. From there Shyamananda went to Puri and Srinivasa to Yajigrama.
 <!-- F60 -->
 
 ## The Festival at Kheturi
 On his return Shyamananda received an invitation — according to one of the biographies, at the behest of Sri
-Lokanatha, Narottama's guru — to the famous festival at Kheturi, in the house of Raja Santosha Datta, where on
+Lokanatha, Narottama's guru — to the celebrated festival of Kheturi, in the house of Raja Santosha Datta, where on
 Phalguna-purnima the Deities of Sri Radha-Govinda and Sri Gauranga were being installed. He came from Nrisimhapura with
 Rasikananda and other disciples, and Narottama introduced him to the assembled Vaishnavas and put Rasikananda in charge
 of caring for the guests. There he found his old friends Narottama and Srinivasa, and they embraced warmly; Jahnava-mata,
@@ -404,9 +403,9 @@ Mahaprabhu's eternal associates left this world. <!-- F64 -->
 
 ## Preaching in Utkala
 So began Shyamananda's principal labours. In many places of Utkala he carried Sri Chaitanya's religion of love and
-turned even robbers into devotees; many Muslims also became his disciples. He preached above all through kirtana. Each
+turned even robbers into devotees; even many Muslims took initiation from him. He preached above all through kirtana. Each
 of the three acharyas had his own style of singing: Srinivasa *manohara-shahi*, Narottama *garanhati*, while Shyamananda
-introduced a special kind of sankirtana, *reneti*, and captivated his listeners with his heartfelt singing; these
+brought in a sankirtana style of his own, *reneti*, and his singing, full of feeling, held his hearers spellbound; these
 styles have not survived. His fame spread from Utkala in all four directions, and under his influence the regular
 worship of Gaura and Nityananda was established everywhere. <!-- F66 F67 -->
 
@@ -421,7 +420,7 @@ received his mercy; later he was known as Chaitanya Dasa (20)[^21]. <!-- F66 -->
 One of the biographies tells of other places as well. In Balarampura lived wealthy and pious people; hearing of his
 fame, they fervently invited him, and he came with Rasikananda, the yogi Damodara and many disciples; they worshipped
 him, the service was conducted according to the shastras, and after a few days a great festival of kirtana and
-hari-katha was held, and many surrendered to him. In Nrisimhapura there was a sizeable party of atheists, agnostics and
+hari-katha was held, and many surrendered to him. In Nrisimhapura there was a sizeable party of unbelievers, sceptics and
 blasphemers. Shyamananda held a festival of sankirtana there; the godless pandits came, heard his hari-katha, their
 hearts softened, and they took shelter at his feet. <!-- F73 -->
 
@@ -445,10 +444,9 @@ bhakti, he flooded everyone with the rasa of Gaura's prema and made the land ble
 “Bhakti-ratnakara” 15). <!-- F75 F76 I6 -->
 
 ## Rasika-Murari
-The foremost of his disciples was Rasika-Murari, or Rasikananda, son of Achyutananda, ruler of Rayani on the river
+Chief among his disciples was Rasikananda, also called Rasika-Murari, son of Achyutananda, ruler of Rayani on the river
 Suvarnarekha. The “Bhakti-ratnakara” (15.27–28) says that Rasikananda and Murari are two names of one person[^22]. His
-whole family was devoted, and he himself had long sought a true guru; one day he heard a divine voice: a saint named Sri
-Shyamananda would come. From then on he repeated that name, sometimes with tears of longing. At the end of the night
+whole family was devoted, and he himself had long been seeking a genuine guru, until a voice from heaven told him that a holy man called Sri Shyamananda was on his way. After that he kept repeating the name, sometimes with tears of longing. Before dawn
 Shyamananda appeared to him in a dream, and in the morning Rasika saw him in person: at Ghatshila, by the Suvarnarekha,
 he was walking with a few disciples, absorbed in bhava, tall, radiant as the sun, dancing in love and singing the names
 of Sri Krishna Chaitanya and Nityananda. Rasika fell at his feet; Shyamananda raised and embraced him, performed the
@@ -518,7 +516,7 @@ received pancharatrika-diksha from Shyamananda, who was not born in a family of 
 proof that a guru is determined by knowledge of the truth about Krishna, not by varna (on CC, Madhya 8.127). In the
 family of Rasikananda, the disciple of Shyamananda Prabhu, the upanayana has been performed for three or four centuries,
 and they serve to this day as diksha-gurus for all varnas (on CC, Adi 7.45). Srila Bhaktisiddhanta calls Rasikananda
-“the successor of Sri Shyamananda Prabhu” and “the servant of Shyamananda Prabhu”: from his line comes the servitor of
+“the successor of Sri Shyamananda Prabhu” and “the servant of Shyamananda Prabhu”: from his disciplic line comes the servitor of
 the temple of Kshira-chora Gopinatha at Remuna, where Rasikananda's samadhi is preserved (on CC, Madhya 1.97, 4.12). And
 of Shyamananda himself he says: “Sri Dasa Gosvami, and in the following age Sri Thakura Narottama, Srila Shyamananda
 Prabhu and others are likewise manifestations of this magnanimity of Sri Mahaprabhu” (on CC, Antya 5.88).
@@ -531,7 +529,7 @@ branch of the line of Nityananda. Baladeva wrote a commentary on Rasikananda's �
 The Gosvamis of Vrindavana themselves saw in Shyamananda, Srinivasa and Narottama those who would carry on their work.
 Srinivasa returned to Gauda at the wish of the devotees, with Narottama and Shyamananda beside him — and a flood of
 hari-kirtana rose across Gauda. After the departure of Mahaprabhu's associates in Vrindavana the three preserved their
-traditions and widened the movement. The conduct and instructions of the disciples trained in Jiva's teaching —
+traditions and widened the movement. How the disciples schooled in Jiva's teaching lived and taught —
 Srinivasa, Narottama and Shyamananda — themselves refute the claim of the prakrita-sahajiyas that Jiva approved of
 svakiya rather than Rupa's parakiya. One of the biographies, exposing the interpolations in the “Prema-vilasa”, also
 examines its account of the theft of the books Jiva sent with the three acharyas. <!-- F86 F87 F90 -->
@@ -576,14 +574,14 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
 [^4]: The “Bhakti-ratnakara” says only that the brothers and sisters died. According to one of the biographies, they died
     in infancy and the name was given on the advice of neighbouring women; according to another, they died at birth (or
     were stillborn), and the parents, after so much grief, called their son Duhkhi to avert a new misfortune, and vowed
-    to dedicate their next child to Vishnu if he survived; according to a third, his father gave the name because of the
+    to offer their next child to Vishnu should he live; according to a third, his father gave the name because of the
     family's great misfortune.
 [^5]: Mahaprabhu disappeared in the month of Ashadha of 1455 Shaka, that is, in the summer of 1533. One biography's words
     “born soon after Mahaprabhu's departure” therefore fit the spring of 1534 better than 1533, the year that same
     biography gives. If he departed in 1552 Shaka (1630), as one of the biographies and the “Rasika-mangala” say, he lived
     in this world about ninety-six years. The years, however, remain uncertain; for the days of his appearance and
     departure the sources and our calendar agree.
-[^6]: The “Prema-vilasa” (12.209) tells it otherwise: turning away from the world, the youth rose at night, left his home
+[^6]: The “Prema-vilasa” (12.208–214) tells it otherwise: turning away from the world, the youth rose at night, left his home
     and went to a distant land in the dress of a vairagi, and made his way to Ambika through Narajol, Cheva-nagara and
     Khanakul, where he bowed to Gopinatha. According to one of the biographies, on the way to Ambika he visited Navadvipa
     and Shantipura.
@@ -597,7 +595,8 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
     Vraja-mandala he came to Raghunatha Dasa Gosvami, who received him warmly and sent him to Jiva. The two do not
     conflict: the command came from the guru, and Raghunatha Dasa brought him to Jiva (see below).
 [^10]: The biographies differ. According to one, he came to Jiva on the very day that Srinivasa and Narottama had their
-    presentiment of the meeting. Another says in one place that he was already studying with Jiva when the two came; in
+    presentiment of the meeting; but elsewhere the same biography says that he came a few days after the two had gone
+    round Vraja-mandala with Raghava Gosvami. Another says in one place that he was already studying with Jiva when the two came; in
     another, that Srinivasa and Narottama were already studying when Shyamananda came; in a third, that he came when
     they had returned from the circuit of the twelve forests, and Jiva introduced him to them.
 [^11]: One of the biographies writes that the three “lived with Rupa Gosvami, who taught them”; this is a slip: Sri Rupa
@@ -612,11 +611,23 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
     biographies), on the Rasa-sthali (“Prema-vilasa”), in the water by the kunja where he drew water (a third biography).
     Who marked the tilaka: the mark appeared of itself (two biographies), Jiva (“Prema-vilasa”), Radha (the third). The
     shape of the tilaka: a nupura (two biographies), Krishna's foot with Radhika's dot (“Prema-vilasa”).
-[^14]: This detailed account is found neither in the “Bhakti-ratnakara” nor in the “Prema-vilasa”; its source (perhaps
-    the later Bengali poems on Shyamananda) has not been established, and we give it as the report of one biography.
-[^15]: Only one biography tells this; the “Bhakti-ratnakara” and the “Prema-vilasa” are silent. According to the
-    “Bhakti-ratnakara”, all that Shyamananda did in Vrindavana he did only at his gurudeva's command, and Hridaya
-    Chaitanya himself called Jiva his “second self” (1.404, 408).
+[^14]: This detailed account is found neither in the “Bhakti-ratnakara” nor in the “Prema-vilasa”. A similar, still
+    fuller account is given in the later Bengali poem “Shyamananda-prakasha” by Krishnacharana Dasa, of the disciplic line
+    of Rasikananda: there it is Lalita who comes for the nupura, in the guise of an old brahmana woman, saying that her
+    daughter-in-law dropped it when she came to fetch Yamuna water; Krishnadasa asks for one thing only — to become her
+    maidservant and serve Radha and Krishna; Lalita gives him a mantra, touches his forehead with the nupura, so that the
+    tilaka appears, names him Shyamananda and tells him to reveal this to Sri Jiva alone. One of the biographies
+    apparently gives this tradition in another version; we present it as the report of that biography.
+[^15]: Of the biographies only one tells this; the “Bhakti-ratnakara” and the “Prema-vilasa” are silent. According to
+    the “Bhakti-ratnakara”, all that Shyamananda did in Vrindavana he did only at his gurudeva's command, and Hridaya
+    Chaitanya himself called Jiva his “second self” (1.404, 408). The “Shyamananda-prakasha” tells it at greater length:
+    Hridayananda, hearing that his disciple had supposedly left him for Jiva, came to Vrindavana with the mahantas of
+    Gauda and before them all washed the tilaka from his forehead and wiped out the name written on his chest — and they
+    appeared again; then the guru embraced his disciple in tears. Later, when the disciple danced at a rasa in the mood of
+    a gopi, Hridayananda in anger beat him, and that night Mahaprabhu appeared to him with the marks of the blows on His own
+    body: whoever strikes Shyamananda strikes Him. Hridayananda repented and at the Lord's bidding held twelve festivals.
+    So in this account too the guru's anger only becomes an occasion to show how dear his disciple is to the Lord and to
+    Sri Radha.
 [^16]: One of the biographies places this command at Shyamananda's second visit to Vrindavana: then, it says, “at Jiva's
     bidding Srinivasa and Shyamananda went to Gauda” (see below).
 [^17]: According to two biographies, Srinivasa sent Shyamananda to Utkala; according to the third (in two places),
@@ -624,7 +635,9 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
 [^18]: According to one of the biographies, Shyamananda stayed with Narottama at Kheturi for several months; according to
     the “Prema-vilasa”, ten days. The “Narottama-vilasa” (3.60–65) adds that at Kheturi Raja Santosha Datta lavished gifts
     on brahmanas and good people, and that Narottama gave Shyamananda a companion for Utkala. The route from Kheturi to
-    Utkala by way of Navadvipa and Ambika is given by both the “Narottama-vilasa” and the “Prema-vilasa” (19).
+    Utkala by way of Navadvipa and Ambika is given by the “Narottama-vilasa”; according to the “Prema-vilasa” (19.57–62),
+    Shyamananda came to Ambika from Vraja through Gauda and Garerhat, stayed with his guru until the letter about the
+    recovered books arrived, and then took leave of him and went to Utkala.
 [^19]: Only one biography says that the invitation came at Lokanatha's behest. Another places the festival after a long
     period of preaching in Utkala and Shyamananda's return to his guru at Ambika (see below).
 [^20]: According to the “Narottama-vilasa” (8), after the festival Srinivasa announced that he would go to Yajigrama and
