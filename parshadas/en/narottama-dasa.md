@@ -221,8 +221,9 @@ of Prabhu Lokanatha” (7.119), and told him to send Shyamananda on from there t
 to infuse spiritual power (shakti) into Sri Santosha” (7.124). Soon a messenger of Vira Hambira came to Kheturi with a
 letter from Srinivasa: the books had been found. Narottama told the news to his cousin Santosha and wrote to Srinivasa, and
 separately to Vira Hambira; the queen of Vishnupura, hearing that letter, prayed to see “Thakura Mahashaya Narottama” even
-once (7.240–277). Narottama sent Shyamananda off to Utkala, promising to meet him in Nilachala (7.294–310). How Srinivasa
-recovered the books and how Vira Hambira was converted is told in the article on Srinivasa Acharya. <!-- F41 Q6 F120 -->
+once (7.240–277). Narottama sent Shyamananda off to Utkala, promising to meet him in Nilachala (7.294–310); according to one of the
+biographies, Shyamananda stayed with him in Kheturi for some months. How Srinivasa
+recovered the books and how Vira Hambira was converted is told in the article on Srinivasa Acharya. <!-- F41 Q6 F120 F77 -->
 
 Why did Lokanatha let his only disciple go? Narottama's former position as a wealthy zamindar made him especially fit to
 preach in North Bengal: he above all could teach the people of that land the norms of a renounced life. Lokanatha saw in
@@ -526,7 +527,7 @@ intoxicated with sankirtana” (14.30). Jiva wrote to them from Vrindavana a joi
 the Vaishnavas…” (14.32). Narottama met Srinivasa in Budhari; together they attended the installation of Sri Radha-vinoda in
 Govinda Chakravarti's house in Borakuli, where Virachandra, “becoming still in the rapture of the dance, weeps, embracing
 Narottama” (14.137); and later, having visited Kheturi, Srinivasa said something in private “to Narottama, dearer to him than
-life” (14.159). And Shyamananda stayed on in Kheturi with Narottama for some months. <!-- F77 F136 F137 -->
+life” (14.159). <!-- F136 F137 -->
 
 ## Brahmanas at the Thakura's Feet
 After the festival Narottama's fame spread through the whole Vaishnava world. Eminent brahmanas became his disciples —
