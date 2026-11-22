@@ -499,13 +499,19 @@ the 18th. The book is in places corrupted by interpolations contrary to siddhant
 Gaura with the Radha-Krishna mantra and fasting on Gaura-purnima, on the censure of Srinivasa's marriage — and these
 cannot be trusted. <!-- F105 Q7 I5 I4 -->
 
-After the festival Srinivasa and Shyamananda stayed a few more days at Kheturi and then returned to Yajigrama and
-celebrated there; Narottama came too, and then Shyamananda left for Utkala, having called at Srinivasa's house on his way
-from Kheturi. Jahnava, going to Vraja after the festival, met Srinivasa at Katwa on her return and stayed with him at
-Yajigrama, his home village; he brought her into his house and worshipped her. Virachandra too visited Yajigrama on his
+After the festival Srinivasa stayed on with Narottama at Kheturi, immersed every day in kirtana in the Lord's courtyard,
+and then said to him: “Together with Shyamananda, tomorrow early in the morning, without delay, crossing the Padmavati, I
+shall go to Budhari. At Yajigrama I shall send Shyamananda on his way; after going to Vishnupura, I shall come back to
+Yajigrama”
+(“Bhakti-ratnakara,” 10.762–763). In the morning he took leave and went to Budhari, while Narottama and Ramachandra
+remained at Kheturi, absorbed in sankirtana (10.766–771). Shyamananda then left for Utkala, having called at Srinivasa's
+house on his way from Kheturi. Jahnava, going to Vraja after the festival, met Srinivasa at Katwa (Kantaka-nagara) on her
+return and stayed with him at Yajigrama, his home village; Narottama and Ramachandra were escorting her, and Srinivasa
+put them in charge of all the arrangements for receiving the mahantas (11.673–686). In the house Srinivasa's wife came
+to meet her and washed her feet (11.689–695); according to one of the biographies, Srinivasa worshipped her. Virachandra too visited Yajigrama on his
 way to Vrindavana: Srinivasa worshipped him with devotion, honouring him as the Lord Himself — for Virabhadra, says the
 “Chaitanya-charitamrita,” “is the Supreme Lord Himself,” though He called Himself only a great devotee (Adi 11.9); and
-there was a great festival of sankirtana in Srinivasa's house. <!-- F106 F107 -->
+there was a great festival of sankirtana in Srinivasa's house. <!-- F106 F107 F142 -->
 
 ## Navadvipa with Ishana; Farewell to Raghunandana
 With Narottama and Ramachandra, Srinivasa went round the nine islands of Navadvipa, which embody the nine forms of bhakti.
@@ -692,8 +698,9 @@ books, and through Srinivasa He gave them to Gauda. <!-- F138 F13 -->
 [^7]: According to one biography, they came to the hut of Uddhava Dasa himself.
 [^8]: According to one biography, others pronounce this glorification and Srinivasa hears it; in the “Bhakti-ratnakara”
     (6.456) it is Srinivasa himself who speaks.
-[^9]: According to one biography, Shyamananda went not to Utkala but to Ambika-Kalna (elsewhere in the same biography —
-    to Utkala).
+[^9]: According to the “Bhakti-ratnakara,” Srinivasa had Shyamananda sent to Utkala “by way of Ambika” (7.120), but first he
+    went with Narottama to Kheturi (7.123). According to one biography, Shyamananda went to Ambika-Kalna (elsewhere in the
+    same biography — to Utkala).
 [^10]: According to another biography, the wedding took place on Akshaya-tritiya in the month of Vaishakha.
 [^11]: According to another passage of the same biography, they were initiated later — at the festival on the day of their
     father's departure at Kanchanagaria (see “Festivals of Separation”).
