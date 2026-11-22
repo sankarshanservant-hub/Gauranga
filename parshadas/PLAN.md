@@ -212,7 +212,7 @@ B — вероятно, больше сотни).
 | @jnanadasa (113) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @narottama-dasa (114) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shyamananda (115) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @ramachandra-kaviraja (116) | ✓ | ✓ (PDF) | — |
+| @ramachandra-kaviraja (116) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagannatha-dasa-babaji (117) | ✓ | ✓ (PDF) | — |
 | @krishnadasa-babaji (118) | ✓ | ✓ (PDF) | ✓ сплошная |
 

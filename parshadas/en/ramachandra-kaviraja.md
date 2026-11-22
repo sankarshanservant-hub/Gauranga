@@ -292,19 +292,19 @@ everywhere. <!-- F50 -->
 
 ## The Stalls in the Kumarapura Market
 The smarta brahmanas, having conspired to humiliate Narottama, set out for Kheturi with Raja Narasimha and the digvijayi
-pandita Rupa-Narayana; the party was to halt for a day in Kumarapura. When the news reached Kheturi, Narottama told
+pandita Rupa Narayana; the party was to halt for a day in Kumarapura. When the news reached Kheturi, Narottama told
 Ramachandra that a debate would disturb their bhajana, and Ramachandra promised with a smile that their pride would fall
 without effort ("Narottama-vilasa," 10.165–187). Ramachandra and Sri Ganganarayana Chakravarti opened two stalls in the
 Kumarapura market: Ramachandra sold pots like a potter, and Ganganarayana sold betel. The panditas' students came to buy
 pots and betel, and the sellers addressed them in Sanskrit and drew them into debate. The teachers, coming up, were
-amazed at their learning; finally Rupa-Narayana and the raja arrived. The digvijayi entered the debate himself — and had
+amazed at their learning; finally Rupa Narayana and the raja arrived. The digvijayi entered the debate himself — and had
 to own himself beaten by the conclusions of the "Bhagavata." The smartas were refuted, and pure bhakti was established.
 The raja asked who these merchants were, and was told that they were the most insignificant disciples of Narottama,
 "servants of his servants."[^16] "If you cannot overcome a mere disciple of his," said the raja, "how will you overcome
 him?" — and the smartas, not daring to go further, turned back. <!-- F51 -->
 
 Thus even a humble disciple of a pure devotee, by the power of the "Bhagavata's" conclusions, defeats proud scholars.
-After this Durga in a dream told Raja Narasimha and Rupa-Narayana to seek shelter with Narottama, and he initiated
+After this Durga in a dream told Raja Narasimha and Rupa Narayana to seek shelter with Narottama, and he initiated
 them.[^17] <!-- I5 F52 -->
 
 ## Kheturi and Jahnava
