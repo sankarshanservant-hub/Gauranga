@@ -59,7 +59,7 @@ of a sadhu differs from a worldly utterance of the name as the genuine article d
 
 ## In Sri Kshetra
 At the beginning of 1316 (about the spring of 1909), at the wish of the Thakura, his “Acharya Prabhu,” Krishnadasa
-Babaji went to Sri Kshetra — Puri — and lived there for a year and a half.[^3] No contact with worldly people clouded
+Babaji went to Sri Kshetra — Puri — and lived there for a year and a half. No contact with worldly people clouded
 his heart: the heartfelt mercy of his guru, the “Bhagavatacharya Prabhu,” kept him. Many who wore the renunciant's dress
 accepted invitations and gifts from worldly people; he accepted neither. He knew that even in alms gathered by the
 handful (*madhukari*) from a worldly man's hand lies the seed of worldliness, and he took nothing as alms from anyone
@@ -85,9 +85,8 @@ served the Thakura himself, and this was one of his fixed duties in Puri. <!-- F
 
 ## Serving the Thakura
 On his return from Kshetra, Krishnadasa Babaji served Thakura Bhaktivinoda with undivided devotion day and night — all
-sixty *dandas* of the day — until the Thakura's departure. According to another biography, he was already living with
-the Thakura at Svananda-sukhada-kunja in Godruma in the spring of 1910, when Jagadisha Bhakti Pradipa received
-initiation there. <!-- F25 -->
+sixty *dandas* of the day — until the Thakura's departure. One biography finds him beside the Thakura at Svananda-sukhada-kunja
+in Godruma as early as the spring of 1910, when Jagadisha Bhakti Pradipa received initiation there.[^3] <!-- F25 -->
 
 One who accepts the tridanda gives body, mind and speech — his whole pure nature — to the service of Krishna and His
 devotees. Krishnadasa embraced that ideal wholly. He honored his “Acharya Prabhu” as the guru of all devotees
@@ -170,14 +169,13 @@ renunciant. The place of his birth and the place where he left this world are gl
     in error; we give the biography's date without correcting it.
 [^2]: The biography does not name this paramahamsa. Place, time and title naturally bring to mind Srila Gaurakishora
     Dasa Babaji Maharaja, but the sources do not say so, and we cannot assert it.
-[^3]: One biography writes that in the spring of 1910, when Jagadisha Bhakti Pradipa received initiation from the
-    Thakura in Godruma, Krishnadasa Babaji was already living with the Thakura at Svananda-sukhada-kunja; according to
-    the other, having gone to Puri at the beginning of 1316 of the Bengali era, he stayed there a year and a half, that
-    is, until about the autumn of 1910.
+[^3]: According to the other biography, Krishnadasa Babaji went to Puri at the beginning of 1316 of the Bengali era
+    (about the spring of 1909) and stayed there a year and a half, that is, until about the autumn of 1910. The accounts
+    disagree — or the first biography is imprecise about the time.
 [^4]: What is meant is the eternal, spiritual kunja at Radha-kunda after which the Thakura's bhajana-kutir in Godruma
     is named; we give the biographer's words as they stand, without elaborating on them.
-[^5]: By our reckoning the 10th of Ashvina and the krishna-chaturthi of Ashvina 1322 of the Bengali era coincide (±1
-    day). This day is not in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. The departure day of “Sripada
+[^5]: By our reckoning the 10th of Ashvina and the krishna-chaturthi of Ashvina 1322 of the Bengali era fall on the
+    same day (±1 day). This day is not in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. The departure day of “Sripada
     Krishnadasa Babaji Maharaja” recorded there in spring, on the krishna-panchami of the month of Madhusudana, is
     evidently that of his namesake Akinchana Krishnadasa Babaji, a disciple of Srila Bhaktisiddhanta, and not of the
     subject of this article.
