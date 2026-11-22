@@ -307,7 +307,7 @@ Damodara. <!-- F14 -->
 
 ## Significance
 Narahari Chakravarti, in the “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after
-another — after the families of Mahaprabhu, Nityananda and Advaita turns to their sons and kin:
+another — places him in the row of the kin of the Pancha-tattva, after Vishvarupa, the Lord's brother, and Achyuta, Advaita's son:
 
 “Vishvarupa, Sri Achyuta, Virachandra Prabhu! Grant me service at your feet, so that I may never forget it.”
 (“Namamrita-samudra” 18) <!-- F11 -->
