@@ -1,0 +1,158 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/virabhadra.md и lila-db.
+id: "@virabhadra"
+names:
+  ru: "Вирабхадра (Вирачандра) Прабху"
+  en: "Virabhadra (Virachandra) Prabhu"
+  variants: ["Вирачандра Прабху", "Вирабхадра Госани (ЧЧ)", "Вирачандра Госани (ЧЧ Ади 11.12)", "Бирачандра, Бирчандра", "Вирабхадра Госвами", "Прабху Вирачандра", "Махапрабху Вирачандра («Вира-ратнавали»)", "Вира Прабху"]
+  facts: [F1]
+kind: associate
+circle: [panca-tattva, later]
+period: [P15]
+period_note: "Лично — после сокрытия Махапрабху и Нитьянанды (P15): посвящение у Джахнавы, брак, путь во Вриндаван (БР 13), праздники в Шрикханде, Кантака-нагаре, Боракули, Кхетури, встречи со Шринивасой и Нароттамой (F12–F57). Год явления неизвестен; в lila-db ev-virachandra-birth — P15 условно; ev-virachandra-secret-counsel (P12, «Вайшнава-вандана», ур. C) — лишь предсказание о нём, в period не включено."
+life:
+  appearance:
+    date: "Кришна-навами месяца Дамодара (≈ картика); в 2026 г. — 3 ноября"
+    tithi: "картика (дамодара) кришна-навами"
+    place: "#kharadaha?"
+    conf: "титхи — B 1095, M 13, T 201 («обычно») и календарь ШЧСМ (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22: «День явления Шрилы Вирачандры Прабху»); ≠ «Гаудия-вайшнава-абхидхана» (по T 201) — аграхаяна шукла-чатурдаши; ≠ НВВ 2 — шукла-чатуртхи маргаширши (⚠4); год и место явления книги не называют (Кхардаха — дом Нитьянанды и Васудхи, предположительно)"
+    facts: [F14]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "день, год и место сокрытия ни одна книга не называют; в календаре ШЧСМ (541/ru, проверено 2026-11-22) дня ухода нет"
+    facts: [F14]
+origin:
+  places: ["#kharadaha"]
+  family: ["@nityananda", "@vasudha", "@jahnava", "@ganga-nityananda"]
+  varna: "брахман (род Нитьянанды, готра Шандилья — по НВВ 3, nvv-0022; в T/M/B не сказано)"
+  facts: [F12, F13, F23]
+sampradaya:
+  name: "ученик Джахнавы (ветвь Нитьянанды)"
+  facts: [F23]
+relations:
+  - {type: father, who: "@nityananda", facts: [F4, F7, F8, F12, F41, I3], note: "Сын Нитьянанды; величайшая ветвь Его ствола (ЧЧ Ади 11.8, 11.56); по БР 9.413 — единственный сын. = @nityananda F352–F366, F418, F433."}
+  - {type: mother, who: "@vasudha", facts: [F4, F12, F16, F24, F45], note: "Родила его (ЧЧ «Анубхашья» 11.8; ГГД; B, T, M); по T — её позволение на путь во Вриндаван (БР 13.283 — «мать»)."}
+  - {type: guru, who: "@jahnava", facts: [F15, F23, F45, F46], events: [ev-virabhadra-initiation, ev-virachandra-marriage, ev-jahnava-vrindavana],
+     note: "Дикша-гуру и мать (БР 13.267 — «женила сына»; T 201 «тётка и мачеха» — ⚠Б4); устроила его брак (БР 13.253, 13.255); по ПВ — посвящение после видения её четырёхрукой. = @jahnava F91, F93, F94."}
+  - {type: sibling, who: "@ganga-nityananda", facts: [F13, F45, F56], note: "Сестра; по T — нисхождение реки Ганги; вместе вынесли поклоны Абхирамы (T 88, B 917); БР 13.261 — ликовала на его свадьбе."}
+  - {type: in-law, who: "@madhava-acharya-ganga", facts: [F13], note: "Муж сестры Ганги; по ГГД 69 — царь Шантану."}
+  - {type: spouse, who: "@shrimati-virachandra", facts: [F10, F15], events: [ev-virachandra-marriage], note: "Шримати — его Шри-шакти (T 201; B 1095 — первая шакти); дочь Ядунатхи (Ядунанданы) Ачарьи и Видьюнмалы (Лакшми) из Джхаматпура (Хугли); версии — ⚠2."}
+  - {type: spouse, who: "@narayani-virachandra", facts: [F10, F15], events: [ev-virachandra-marriage], note: "Нараяни: дочь Ядунатхи и Видьюнмалы (B 1095) / их приёмная дочь (B 115, «Анубхашья», M) / дочь Видьюмалы и Судхамаи из Махеша (B 930) / дочь Океана (НВВ) — ⚠2."}
+  - {type: in-law, who: "@yadunandana-jhamatpur", facts: [F15], note: "Тесть и ученик: на свадьбе Вирачандра сделал его своим учеником (БР 13.254; M 14; «Анубхашья» 11.8 — «Ядунатха»)."}
+  - {type: disciple, who: "@yadunandana-jhamatpur", facts: [F15]}
+  - {type: in-law, who: "@sudhamaya", facts: [F15], note: "По B 930 (T 94) — отец Нараяни; по НВВ — её приёмный отец (⚠2)."}
+  - {type: in-law, who: "@vidyunmala", facts: [F15], note: "B 930 — мать Нараяни (жена Судхамаи); B 1095, 115, «Анубхашья», T — Видьюнмала (Лакшми), жена Ядунатхи (Ядунанданы); одно ли это лицо — неясно (⚠2)."}
+  - {type: disciple, who: "@gopijanavallabha", facts: [F18, F19, F21], events: [ev-virachandra-children], note: "Старший из трёх учеников, прославленных как его сыновья; деревня Лата близ Манкара (Бардхаман); от его ветви — севаиты Бирачандрапура (B 83)."}
+  - {type: disciple, who: "@ramakrishna-virachandra", facts: [F18, F19], events: [ev-virachandra-children], note: "Средний «сын»-ученик; близ Малдаха — Ганешпур (B 1096) / Гаешпур (B 115, T, M, «Анубхашья») — ⚠3."}
+  - {type: disciple, who: "@ramachandra-virachandra", facts: [F18, F19, F20], events: [ev-virachandra-children], note: "Младший «сын»-ученик; Кхардаха; брахман Батавьял, готра Шандилья; его род — до Шьямалала Госвами («Анубхашья» 11.8)."}
+  - {type: met, who: "@srinivasa-acharya", facts: [F30, F46, F47, F49, F50, F51, F52, F53, F55], events: [ev-srinivasa-khardaha-jahnava, ev-virachandra-yajigrama-kheturi, ev-gati-govinda-birth, ev-virachandra-vishnupura],
+     note: "Благословил его в Кхардахе (B 664; БР 4.88–92); в Яджиграме Шриниваса совершил ему пуджу (M 14; БР 13.293–295); письмо: Шриниваса — сила милости Махапрабху (БР 14, письмо 4; B 659); вместе на праздниках в Шрикханде и Боракули (БР 9, 14). = @srinivasa-acharya F3, F45, F107, F124."}
+  - {type: met, who: "@narottama-dasa", facts: [F32, F48, F51], events: [ev-narottama-gauda-pilgrimage, ev-virachandra-yajigrama-kheturi], note: "Говорил с ним в Кхардахе (БР 8.218; НВ 3); праздник санкиртаны в Кхетури по пути во Вриндаван (БР 13.298–301; НВ 11; B 1095); обнял его в Боракули (БР 14.137)."}
+  - {type: met, who: "@jiva-gosvami", facts: [F34, F36, F37], events: [ev-virachandra-jiva-vrindavana], note: "Встречал его во Вриндаване; с его позволения (и Бхугарбхи) он обошёл Врадж (БР 13.310–311, 13.329). = @jiva-gosvami F81, F82."}
+  - {type: met, who: "@bhugarbha", facts: [F36, F37], note: "С его позволения обошёл Врадж (БР 13.329; B 1095). = @bhugarbha F40."}
+  - {type: met, who: "@krishnadasa-kaviraja", facts: [F34, F37], note: "Встречал его во Вриндаване; принял в своей хижине у Говардханы и пошёл с ним (БР 13.311, 13.340–341). Автор ЧЧ принимает прибежище у его стоп (ЧЧ Ади 11.12). = @krishnadasa-kaviraja F49."}
+  - {type: met, who: "@ananta-acharya", facts: [F34], note: "Ученик Гададхары, адхикари Говинды (БР 13.312); M — «пуджари Мадана-мохана» (⚠1)."}
+  - {type: met, who: "@haridasa-pandita-govinda", facts: [F34], note: "Ученик Ананты Ачарьи, адхикари Говинды (БР 13.313–316)."}
+  - {type: met, who: "@madhu-pandita", facts: [F34], note: "Адхикари Гопинатхи, ученик Гададхары (БР 13.319); B называет отдельно «Гопинатху Адхикари» (⚠1)."}
+  - {type: met, who: "@bhavananda-gopinatha", facts: [F34], note: "Сатиртха Мадху Пандита, пуджари Гопинатхи (B 1095 по скану; M 15; БР 13.320)."}
+  - {type: met, who: "@govinda-gosani", facts: [F34], note: "Ученик Кашишвары, пуджари Говинды (B 1095 по скану; M 15; БР 13.323)."}
+  - {type: met, who: "@yadavacharya-gosani", facts: [F34, F36, F37], note: "Ученик Кашишвары (M 15; БР 13.323); шёл с ним по Враджу (БР 13.330, 13.342); у B вместо него — «Мадхавачарья» (⚠1)."}
+  - {type: met, who: "@krishnadasa-brahmachari", facts: [F34], note: "B: ученик Гададхары, служитель Мадана-Гопалы; в БР 13.311–324 не назван (⚠1)."}
+  - {type: other, who: "@kashishvara", facts: [F34], note: "B и M ставят его среди встречавших; по БР 13.322 он назван лишь ради учеников (уже ушёл, ⚠1). = @kashishvara F49, F54."}
+  - {type: host, who: "@shrinivasa-datta", facts: [F25], events: [ev-virachandra-pilgrimage], note: "Принял его в Саптаграме в доме Уддхараны, два дня (M 14; БР 13.284–286). = @uddharana-datta F34, F51."}
+  - {type: host, who: "@krishna-mishra", facts: [F26, F51], note: "Сын Адвайты; санкиртан в Шантипуре (M 14; БР 13.287); вместе на празднике в Боракули (БР 14.96). = @advaita F144."}
+  - {type: host, who: "@hridaya-chaitanya", facts: [F27], note: "Встретил его в Амбике, в доме Гауридаса Пандита (M 14, по скану). = @gauridasa-pandita F58."}
+  - {type: host, who: "@kanai-shrikhanda", facts: [F29], note: "Встретил его в Шрикханде (БР 13.291; M 14 — с Рагхунанданой, ⚠7)."}
+  - {type: other, who: "@raghunandana", facts: [F29, F50], note: "M 14 — встречал его в Шрикханде (по БР — только Канаи, ⚠7); на празднике ухода Нарахари умастил его сандалом, а Вирабхадра надел на него гирлянду (БР 9.593–596). = @raghunandana F78."}
+  - {type: host, who: "@govinda-kaviraja", facts: [F31], events: [ev-virachandra-yajigrama-kheturi], note: "Принял его в Будхари, совершил пуджу, два дня (M 14–15; НВ 11). = @govinda-kaviraja F38."}
+  - {type: other, who: "@narahari-sarakara", facts: [F49, F50], events: [ev-virachandra-heals-blind-ramai], note: "На празднике его ухода в Шрикханде Вирабхадра всю ночь плясал в санкиртане (B 175; T 71; БР 9)."}
+  - {type: other, who: "@abhirama", facts: [F56], events: [ev-virachandra-recognized], note: "Вирачандра и Ганга вынесли его поклоны; «Шри Вирабхадраштака» Абхирамы (T 88; B 917). = @abhirama F38, F49."}
+  - {type: other, who: "@gati-govinda", facts: [F55], events: [ev-gati-govinda-birth], note: "Сын Шринивасы; в бханите «Вира-ратнавали» — у стоп «Махапрабху Вирачандры» (B 676); по поздним книгам — рождён по его благословению и посвящён им (ур. C)."}
+  - {type: opposed, who: "@jayagopala", facts: [F53], events: [ev-virachandra-heals-blind-ramai], note: "Отверг Джаягопалу из Кандары (Кадры), «преступившего его милость», и запретил своим общаться с ним (БР 14.179–190, письмо 4; «Гаудия-бхашья» к ЧБ Ади 14.86)."}
+  - {type: other, who: "@kanu-thakura", facts: [F57], events: [ev-kheturi-festival], note: "По ПВ (B 927) — вместе с Джахнавой и Вирабхадрой на празднике в Кхетури (⚠6)."}
+  - {type: other, who: "@parameshvara-dasa", facts: [F46], note: "Подвёл Шринивасу к Васудхе, Джахнаве и Бирачандре (M 190)."}
+  - {type: other, who: "@shridhara-maharaja", facts: [F14], note: "Явились в один титхи — картика (дамодара) кришна-навами (M 13; календарь ШЧСМ). = @shridhara-maharaja F2."}
+  - {type: other, who: "@govinda-maharaja", facts: [F58], note: "По семейному преданию Шрилы Говинды Махараджа, Божества его рода установил Вирачандра Прабху. = @govinda-maharaja F8."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F4, F5, F15, F18, F19, F20, F59, F60, F61, I3, I5], note: "«Анубхашья» к ЧЧ Ади 11.8 (семья, ученики-«сыновья», род Рамачандры); учение о таттве Нитьянанды (B 113–114); «Гаудия-бхашья» к ЧБ Ади 9.12, Ади 14.86, Мадхья 12.26 (род Нитьянанды — ученическая преемственность; НВВ ненадёжна)."}
+  - {type: other, who: "@bhaktivinoda", facts: [F3], note: "«Амрита-праваха-бхашья» к ЧЧ Ади 11.9 — Вирачандра — Пайобдхишайи, Сам Господь, считающий себя вайшнавом (её почти дословно повторяет B 1095)."}
+identities:
+  - in: tattva
+    as: "вьюха Санкаршаны Пайобдхишайи (Кширодакашайи Вишну), неотличный от Чайтаньи"
+    source: "ГГД 67"
+    level: A
+    facts: [F2, F3, F4]
+    variants: ["B 1095, T 200 — Кширодакашайи, третья пуруша-аватара Махасанкаршаны, Анируддха, Пребывающий в сердце", "Бхактисиддханта (B 113–114) — Кширодакашайи, вьяшти-Вишну, вечно явлен на Голоке", "M 13 — «аватара Кширодакашайи; неотличен от Чайтаньи, ибо вишну-таттва»", "ГГД 68 — в него ради дела вошли Нишатха и Улмука (F6)"]
+  - in: tattva
+    as: "Ишвара, ведущий себя как махабхагавата; главная колонна здания бхакти"
+    source: "ЧЧ Ади 11.8–12"
+    level: A
+    facts: [F7, F8]
+    variants: []
+  - in: other
+    as: "нисшествие Самого Гауранги (поздние книги)"
+    source: "«Вайшнава-вандана» 16–17 (vv-0067); НВВ"
+    level: C
+    events: [ev-virachandra-secret-counsel, ev-virachandra-recognized]
+    variants: ["ур. C; не ставить вровень с ГГД (⚠Б10)"]
+events:
+  - ev-virachandra-secret-counsel
+  - ev-nityananda-marriage
+  - ev-virachandra-birth
+  - ev-virachandra-recognized
+  - ev-nityananda-departure
+  - ev-virachandra-abhisheka
+  - ev-khardaha-festival-three-offerings
+  - ev-virabhadra-initiation
+  - ev-virachandra-marriage
+  - ev-virachandra-children
+  - ev-virachandra-shyamasundara
+  - ev-virachandra-neda-nedi
+  - ev-srinivasa-meets-narahari
+  - ev-srinivasa-shrikhanda
+  - ev-srinivasa-khardaha-jahnava
+  - ev-narottama-gauda-pilgrimage
+  - ev-gadadhara-departure
+  - ev-advaita-departure
+  - ev-jahnava-vrindavana
+  - ev-jahnava-kheturi
+  - ev-kheturi-festival
+  - ev-radha-krishna-appear-kheturi
+  - ev-narottama-sacred-thread
+  - ev-katwa-khanda-memorial-festivals
+  - ev-virachandra-heals-blind-ramai
+  - ev-srinivasa-raghunandana-shrikhanda
+  - ev-jahnava-radha-for-madana-mohana
+  - ev-virachandra-pilgrimage
+  - ev-virachandra-yajigrama-kheturi
+  - ev-virachandra-jiva-vrindavana
+  - ev-virachandra-dhaka-governor
+  - ev-virachandra-maldah
+  - ev-virachandra-vishnupura
+  - ev-gati-govinda-birth
+  - ev-govinda-kaviraja-initiation
+  - ev-srinivasa-birth
+events_note: "Почти все события — по поздним книгам (НВВ, ПВ, АП — ур. C–D; F62); ур. B — НВ 3, 6, 11 (ev-narottama-gauda-pilgrimage, ev-jahnava-kheturi, ev-virachandra-yajigrama-kheturi), «Гаура-кришнодая» 16 (ev-nityananda-marriage), БР 1 (ev-srinivasa-birth — милость Шринивасе); ур. A — ЧЧ Ади 11 (ev-tattva-bhakti-kalpataru). Путь во Вриндаван по БР 13 (F24–F38) в lila-db отдельным описанием не заведён — входит в ev-virachandra-pilgrimage (ПВ 19, НВВ 10). ev-kheturi-festival, ev-radha-krishna-appear-kheturi, ev-narottama-sacred-thread — его присутствие на великом празднике Кхетури только по ПВ (⚠6). Не включены: ev-tattva-bhakti-kalpataru, ev-tattva-holy-name (учение, не событие его жизни), ev-nityananda-awakens-shridama, ev-legend-shiva-bhuvaneshvara (его рассказы в НВВ о других)."
+teachings_given: []
+teachings_received: []
+works: [{title: "письмо Шринивасе Ачарье (БР 14, письмо 4)", facts: [F52, F53]}]
+places: ["#kharadaha", "#jhamatpur-hooghly", "#saptagrama", "#shantipura", "#ambika-kalna", "#navadvipa", "#shrikhanda", "#yajigrama", "#katwa", "#teliya-budhari", "#kheturi", "#mathura", "#vrindavana", "#radha-kunda", "#govardhana", "#kamyavana", "#varshana", "#boraquli", "#virachandrapura", "#ekachakra", "#latagrama", "#gayeshpur", "#maldah", "#vallabhapura", "#saimbona"]
+places_facts: [F15, F18, F21, F24, F25, F26, F27, F28, F29, F30, F31, F32, F35, F36, F37, F39, F44, F49, F50, F51]
+character:
+  - {trait: "смирение Ишвары: Сам Господь, он считал себя вайшнавом и не выказывал гордыни", facts: [F3, F7, I1]}
+  - {trait: "экстатическая према при виде мест игр Кришны во Врадже и пляска в санкиртане", facts: [F32, F36, F37, F49, F50, I4]}
+  - {trait: "милость к преданным (благословение Шринивасе, сладкие речи Нароттаме, слепой прозрел в его киртане)", facts: [F46, F47, F48, F50, F52]}
+  - {trait: "твёрдость в хранении чистоты учения: отверг Джаягопалу, преступившего милость гуру", facts: [F53]}
+significance: {facts: [F2, F7, F8, F19, F59, F60, I1, I2, I3, I4, I5]}
+sources:
+  T: "200–201 (гл.); 71, 88, 94, 199, 200, 205"
+  M: "13–16 (гл.); 65, 70, 190"
+  B: "1095–1096 (гл.); 82–83, 113–115, 175, 659, 664, 667, 676, 917, 927, 930"
+  other: ["ЧЧ Ади 11.8–12, 11.56 (и «Анубхашья» к 11.8, «Амрита-праваха-бхашья» к 11.9)", "ГГД 67–69", "БР 1.885; 4.88–92; 8.210–218; 9.413–456, 9.512–626, 9.731; 11.782–783; 13.249–267, 13.283–345, 13.424–433; 14.90–147, 14.179–190 и письмо 4", "«Нароттама-виласа» 3.189–195, 6.208, 11", "«Гаудия-бхашья» к ЧБ Ади 9.12, Ади 14.86–87, Мадхья 12.26; приложение рус. изд. ЧБ о Вриндаване дасе", "«Гаура-кришнодая» 16.57–59 (lila-db)", "«Намамрита-самудра» 18", "«Вира-ратнавали» Гати-Говинды (бханита, по B 676)", "«Шри Вирабхадраштака» Абхирамы (по B 917, T 88)", "поздние: «Нитьянанда-вамша-вистара», «Према-виласа», «Адвайта-пракаша», «Вайшнава-вандана», «Анурага-валли», Джаянанда (lila-db, ур. C–D)", "календарь ШЧСМ (vaishnavacalendar.org/chiangmai/541/ru)"]
+article: {ru: "parshadas/ru/virabhadra.md", en: "parshadas/en/virabhadra.md"}
+open_questions:
+  - "Год явления, день, год и место сокрытия — неизвестны (в календаре ШЧСМ — только день явления)."
+  - "Жёны: кто родители Нараяни (Ядунатха и Видьюнмала / приёмная / Судхамая из Махеша / Океан по НВВ) — ⚠2."
+  - "Был ли он на великом празднике в Кхетури вместе с Джахнавой (ПВ, B 927) — по БР 10 и НВ 6 нет; его собственный приход в Кхетури — по пути во Вриндаван (⚠6)."
+  - "Где Божества из его камня: все в Кхардахе (T) или Радхаваллабха в Валлабхапуре и Нандадулал в Саибоне (ПВ, «Абхидхана») — ⚠5; откуда камень (сам привёз / дар падишаха)."
+  - "Средний «сын» Рамакришна — Ганешпур или Гаешпур (⚠3)."

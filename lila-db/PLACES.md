@@ -381,3 +381,6 @@
 | #radha-gokulananda-mandira | храм Радха-Гокулананды (Вриндаван) | Radha-Gokulananda temple (Vrindavana) | Вриндаван; по T — самадхи @lokanatha и служение Радха-виноде (T 152); ср. @gokulananda-deity |
 | #denur | Денур (Денуд) | Denur (Denud) | округ Бардхаман, к западу от Навадвипы; шрипат @vrindavana-dasa — там он подолгу жил (B 1079; T 191, 233); служение ведут потомки @ramahari-denur |
 | #kakut | Какут (Амедпур) | Kakut (Amedpur) | селение близ Амедпура (Бенгалия); дом тестя @lochana-dasa (B 1081; T 193) |
+| #jhamatpur-hooghly | Джхаматпур (Хугли) | Jhamatpur (Hooghly) | селение в округе Хугли близ Раджбал-хата; дом Ядунанданы Ачарьи, тестя @virabhadra (БР 13.249; B 1095); не путать с #jhamatpur (дом Кришнадаса Кавираджи) |
+| #latagrama | Лата (Латаграм) | Lata (Latagrama) | деревня близ Манкара (округ Бардхаман); жил @gopijanavallabha, старший «сын»-ученик @virabhadra (B 1096, 115; T 201; M 16) |
+| #gayeshpur | Гаешпур (Ганешпур) | Gayeshpur (Ganeshpur) | селение близ Малдаха; жил @ramakrishna-virachandra (B 115, T 201, M 16 — Гаешпур; B 1096 — Ганешпур) |
