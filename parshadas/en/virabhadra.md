@@ -244,7 +244,7 @@ Gauda-mandala.” (“Bhakti-ratnakara” 14, letter 4) The sense of the letter 
 Gaurasundara, composed the books of bhakti in Vraja, and Srinivasa, another power of Mahaprabhu's mercy, brought them to
 the Vaishnavas of Gauda. <!-- F52 Q8 -->
 
-The same letter carries a stern word as well. In Kandara (Kadra), where Jnanadasa's home was, lived a *kayastha*
+The same letter carries a stern word as well. In Kandra, where Jnanadasa's home was, lived a *kayastha*
 named Jayagopala. Proud of his learning, when asked about his guru he named not his own guru, whom he thought
 “unlearned,” but his *parama-guru*. Virachandra skilfully exposed him: he had “transgressed the grace” of the guru — and
 rejected him; in the
