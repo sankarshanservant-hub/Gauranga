@@ -273,7 +273,7 @@
 | @vishnupriya-virachandra | Вишнуприя (вторая жена Вирачандры) | Vishnupriya (Virachandra's second wife) | ученица Джахнавы; не путать с @vishnupriya |
 | @chandana-mandala | Чандана Мандал | Chandana Mandala | богатый купец-вайшнав из Мангалкота, построивший колесницу для Джахнавы |
 | @ramai-jahnava | Рамаи (Рамачандра) Госвами | Ramai (Ramachandra) Gosvami | приёмный сын и ученик Джахнавы; не путать с @ramai-blind и @ramachandra-virachandra |
-| @jnanadasa | Джнянадас | Jnanadasa | спутник Джахнавы («Нитьянанда-вамша-вистара») |
+| @jnanadasa | Джнянадас | Jnanadasa | спутник Джахнавы («Нитьянанда-вамша-вистара») · {карточка: гуру — Джахнава (Джахнави); происхождение — Кандра (Кандра-Мандра)} |
 | @madhava-ekachakra | Мадхава (родич Хадаи Пандита) | Madhava (a kinsman of Hadai Pandita) | житель Экачакры, принимавший Джахнаву |
 | @haridasa-pandita-govinda | Харидас Пандит (служитель Говинды) | Haridasa Pandita (servant of Govinda) | главный жрец Говиндадевы во Вриндаване |
 | @gosai-dasa-pujari | Госаи Дас Пуджари | Gosai Dasa Pujari | служитель Мадана-мохана во Вриндаване |
@@ -836,3 +836,4 @@
 | @purushottama-gupta-kogram | Пурушоттама Гупта (дед Лочана Даса) | Purushottama Gupta (Lochana Dasa's grandfather) | дед @lochana-dasa по матери, научил его грамоте (ЧМ, Шеша 94+63–67) |
 | @abhaya-dasi | Абхая Даси (бабушка Лочана Даса) | Abhaya Dasi (Lochana Dasa's grandmother) | бабушка @lochana-dasa (ЧМ, Шеша 94+62) |
 | @yadunandana-jhamatpur | Ядунандана (Ядунатха) Ачарья из Джхаматпура | Yadunandana (Yadunatha) Acharya of Jhamatpur | брахман из Джхаматпура (Хугли, близ Раджбал-хата), по милости Джахнавы — преданный; тесть и ученик @virabhadra, отец @shrimati-virachandra (БР 13.249–255; B 1095, 115; T 201; M 13–14); не путать с @yadunandana-acharya |
+| @manohara-dasa-aul | Манохара Дас (Баба Аул) | Manohara Dasa (Baba Aul) | ученик Джахнавы, друг и собрат поэта @jnanadasa; составитель «Падасамудры» (B 1097; ГПТ1) |

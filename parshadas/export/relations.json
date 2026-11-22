@@ -13640,6 +13640,168 @@
   "note": "Даршан Гопаладевы в доме Виттхалешвары в Матхуре."
  },
  {
+  "from": "@jnanadasa",
+  "type": "guru",
+  "who": "@jahnava",
+  "facts": [
+   "F3",
+   "F12",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F23"
+  ],
+  "events": [
+   "ev-jahnava-kheturi",
+   "ev-kheturi-festival",
+   "ev-jahnava-vrindavana",
+   "ev-jahnava-ekachakra"
+  ],
+  "note": "Ученик (B 1097; пада ГПТ1 № 44; ГПТ1 — с детства); в её свите в Кхетури, при уходе оттуда и на пути в Экачакру. = @jahnava F52, F97."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "lineage-predecessor",
+  "who": "@nityananda",
+  "facts": [
+   "F2",
+   "F21"
+  ],
+  "note": "Ветвь Нитьянанды (ЧЧ Ади 11.52, ⚠1); пада о пляске Нитьянанды в Саптаграме с его подписью (БР 12.3745–3749). = @nityananda F349."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "friend",
+  "who": "@manohara-dasa-aul",
+  "facts": [
+   "F12",
+   "F13",
+   "F23",
+   "F25"
+  ],
+  "note": "Баба Аул Манохара Дас, составитель «Падасамудры» (и «Нирьяса-таттвы» — ГПТ1), собрат-ученик Джахнавы; по B и паде № 44 — с ним в Кхетури (⚠4, ⚠Б2)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@minaketana-ramadasa",
+  "facts": [
+   "F14",
+   "F15"
+  ],
+  "note": "Рядом в перечнях БР 10.374 и НВ 6.187. = @minaketana-ramadasa F30, F32."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@murari-chaitanya-dasa",
+  "facts": [
+   "F14",
+   "F15",
+   "F16"
+  ],
+  "note": "Рядом в БР 10.374, НВ 6.187, 8.268."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@kamalakara-pippalai",
+  "facts": [
+   "F14",
+   "F15"
+  ],
+  "note": "Рядом в перечнях свиты Джахнавы (НВ 6.188)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@krishnadasa-sarakhela",
+  "facts": [
+   "F14",
+   "F16"
+  ],
+  "note": "В той же свите (НВ 6.186, 8.267; БР 10.743)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@ramai-jahnava",
+  "facts": [
+   "F17",
+   "F18"
+  ],
+  "events": [
+   "ev-jahnava-ekachakra",
+   "ev-virachandra-pilgrimage"
+  ],
+  "note": "Вместе позваны Джахнавой (НВВ 5.5); вместе в шествии Вирачандры (НВВ 7.60)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@sundarananda",
+  "facts": [
+   "F17"
+  ],
+  "events": [
+   "ev-jahnava-ekachakra"
+  ],
+  "note": "«Сундара» — среди четверых, позванных Джахнавой (НВВ 5.5)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "companion",
+  "who": "@virabhadra",
+  "facts": [
+   "F18"
+  ],
+  "events": [
+   "ev-virachandra-pilgrimage"
+  ],
+  "note": "Шёл вокруг паланкина Вирачандры в шествии по Восточной Бенгалии (НВВ 7.60, ур. C)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "other",
+  "who": "@jayagopala",
+  "facts": [
+   "F6"
+  ],
+  "note": "Каястха из той же Кандры, отвергнутый Вирачандрой; БР 14.180 вводит рассказ о нём словами о «обители Мангала Джнянадаса». = @virabhadra F53."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F6",
+   "F14",
+   "F15",
+   "F16",
+   "F19",
+   "F21",
+   "F26"
+  ],
+  "note": "Автор БР и НВ; в «Намамрита-самудре» (181) просит его: «даруй, чтобы я всегда пел о шалостях Кришны»; пада ГПТ1 № 44 с подписью «Нарахари» — атрибуция не установлена."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "other",
+  "who": "@radhavallabha-dasa-poet",
+  "facts": [
+   "F24"
+  ],
+  "note": "Вероятный автор пады ГПТ1 № 45 во славу поэта Джнянадаса — «Мангалы Тхакура» (подпись «Радхаваллабха»; тождество не проверено)."
+ },
+ {
+  "from": "@jnanadasa",
+  "type": "other",
+  "who": "@manohara-dasa-author",
+  "facts": [],
+  "note": "Тёзка друга, не путать: Манохара Дас XVIII в., автор «Анурага-валли» (⚠4)."
+ },
+ {
   "from": "@kalidasa",
   "type": "nephew",
   "who": "@raghunatha-dasa",

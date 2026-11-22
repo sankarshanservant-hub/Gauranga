@@ -11705,6 +11705,10 @@
     "type": "met"
    },
    {
+    "from": "@jnanadasa",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@kaliya-krishnadasa",
     "type": "companion"
    },
@@ -36503,6 +36507,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@jnanadasa",
+    "type": "companion"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -38239,6 +38247,10 @@
     "type": "met"
    },
    {
+    "from": "@jnanadasa",
+    "type": "companion"
+   },
+   {
     "from": "@kamalakara-pippalai",
     "type": "relative"
    },
@@ -38812,6 +38824,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "met"
+   },
+   {
+    "from": "@jnanadasa",
+    "type": "guru"
    },
    {
     "from": "@kalidasa",
@@ -47629,6 +47645,10 @@
     "type": "other"
    },
    {
+    "from": "@jnanadasa",
+    "type": "other"
+   },
+   {
     "from": "@kavi-karnapura",
     "type": "other"
    },
@@ -47932,6 +47952,10 @@
    "ev-virachandra-heals-blind-ramai"
   ],
   "related_by": [
+   {
+    "from": "@jnanadasa",
+    "type": "other"
+   },
    {
     "from": "@virabhadra",
     "type": "opposed"
@@ -48311,6 +48335,10 @@
     "type": "disciple"
    },
    {
+    "from": "@jnanadasa",
+    "type": "companion"
+   },
+   {
     "from": "@vamshivadana",
     "type": "relative"
    }
@@ -48336,6 +48364,121 @@
    "ev-jahnava-kheturi",
    "ev-kheturi-festival",
    "ev-virachandra-pilgrimage"
+  ],
+  "summary": "гуру — Джахнава (Джахнави); происхождение — Кандра (Кандра-Мандра)",
+  "card": "parshadas/cards/jnanadasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/jnanadasa.md",
+   "en": "parshadas/en/jnanadasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "около 1525 (B; оценки XX в.: 1520 — Д. Ч. Сен, ≈1531 — ГПТ1)",
+    "tithi": "",
+    "place": "#kandra",
+    "conf": "год — лишь оценка (⚠3); день явления не известен; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет; Кандра — Бирбхум (B, ГПТ1) или Бардхаман (Д. Ч. Сен, T 194) (⚠2)",
+    "facts": [
+     "F4",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода (сокрытия) ни один источник не называет; в календаре ШЧСМ (541/ru, проверено 2026-11-22) дня ухода нет; ежегодный праздник в Кандре — в пауша-пурниму (B; не день ухода)",
+    "facts": [
+     "F11",
+     "F27"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "пады на бенгали и браджабули — о Радхе и Кришне (холи, разлука и др.), о Гауре и Нитьянанде; в ПК — 186 (по С. Раю)",
+    "facts": [
+     "F20",
+     "F21",
+     "F22"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@jahnava",
+    "note": "Ученик (B 1097; пада ГПТ1 № 44; ГПТ1 — с детства); в её свите в Кхетури, при уходе оттуда и на пути в Экачакру. = @jahnava F52, F97."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@nityananda",
+    "note": "Ветвь Нитьянанды (ЧЧ Ади 11.52, ⚠1); пада о пляске Нитьянанды в Саптаграме с его подписью (БР 12.3745–3749). = @nityananda F349."
+   },
+   {
+    "type": "friend",
+    "who": "@manohara-dasa-aul",
+    "note": "Баба Аул Манохара Дас, составитель «Падасамудры» (и «Нирьяса-таттвы» — ГПТ1), собрат-ученик Джахнавы; по B и паде № 44 — с ним в Кхетури (⚠4, ⚠Б2)."
+   },
+   {
+    "type": "companion",
+    "who": "@minaketana-ramadasa",
+    "note": "Рядом в перечнях БР 10.374 и НВ 6.187. = @minaketana-ramadasa F30, F32."
+   },
+   {
+    "type": "companion",
+    "who": "@murari-chaitanya-dasa",
+    "note": "Рядом в БР 10.374, НВ 6.187, 8.268."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalakara-pippalai",
+    "note": "Рядом в перечнях свиты Джахнавы (НВ 6.188)."
+   },
+   {
+    "type": "companion",
+    "who": "@krishnadasa-sarakhela",
+    "note": "В той же свите (НВ 6.186, 8.267; БР 10.743)."
+   },
+   {
+    "type": "companion",
+    "who": "@ramai-jahnava",
+    "note": "Вместе позваны Джахнавой (НВВ 5.5); вместе в шествии Вирачандры (НВВ 7.60)."
+   },
+   {
+    "type": "companion",
+    "who": "@sundarananda",
+    "note": "«Сундара» — среди четверых, позванных Джахнавой (НВВ 5.5)."
+   },
+   {
+    "type": "companion",
+    "who": "@virabhadra",
+    "note": "Шёл вокруг паланкина Вирачандры в шествии по Восточной Бенгалии (НВВ 7.60, ур. C)."
+   },
+   {
+    "type": "other",
+    "who": "@jayagopala",
+    "note": "Каястха из той же Кандры, отвергнутый Вирачандрой; БР 14.180 вводит рассказ о нём словами о «обители Мангала Джнянадаса». = @virabhadra F53."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "Автор БР и НВ; в «Намамрита-самудре» (181) просит его: «даруй, чтобы я всегда пел о шалостях Кришны»; пада ГПТ1 № 44 с подписью «Нарахари» — атрибуция не установлена."
+   },
+   {
+    "type": "other",
+    "who": "@radhavallabha-dasa-poet",
+    "note": "Вероятный автор пады ГПТ1 № 45 во славу поэта Джнянадаса — «Мангалы Тхакура» (подпись «Радхаваллабха»; тождество не проверено)."
+   },
+   {
+    "type": "other",
+    "who": "@manohara-dasa-author",
+    "note": "Тёзка друга, не путать: Манохара Дас XVIII в., автор «Анурага-валли» (⚠4)."
+   }
   ],
   "related_by": [
    {
@@ -51592,6 +51735,10 @@
    {
     "from": "@jahnava",
     "type": "uncle"
+   },
+   {
+    "from": "@jnanadasa",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -57743,6 +57890,10 @@
     "type": "companion"
    },
    {
+    "from": "@jnanadasa",
+    "type": "companion"
+   },
+   {
     "from": "@minaketana-ramadasa",
     "type": "companion"
    },
@@ -57985,6 +58136,10 @@
   "related_by": [
    {
     "from": "@jahnava",
+    "type": "companion"
+   },
+   {
+    "from": "@jnanadasa",
     "type": "companion"
    },
    {
@@ -60289,6 +60444,10 @@
     "type": "companion"
    },
    {
+    "from": "@jnanadasa",
+    "type": "companion"
+   },
+   {
     "from": "@krishnadasa-kaviraja",
     "type": "guest"
    },
@@ -61861,6 +62020,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@jnanadasa",
     "type": "other"
    }
   ]
@@ -65174,6 +65337,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@jnanadasa",
+    "type": "other"
+   },
    {
     "from": "@raghunatha-bhatta",
     "type": "other"
@@ -68799,6 +68966,21 @@
    {
     "from": "@virabhadra",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@manohara-dasa-aul",
+  "ru": "Манохара Дас (Баба Аул)",
+  "en": "Manohara Dasa (Baba Aul)",
+  "note": "ученик Джахнавы, друг и собрат поэта @jnanadasa; составитель «Падасамудры» (B 1097; ГПТ1)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jnanadasa",
+    "type": "friend"
    }
   ]
  }
