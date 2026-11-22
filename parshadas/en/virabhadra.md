@@ -162,10 +162,11 @@ night in prema; there Virachandra took leave of the Acharya and went on to Khetu
 Budhari, according to one biography and the “Narottama-vilasa,” Govinda Kaviraja received him, worshipped him with great
 devotion, and the pleased Virachandra stayed with him two days. <!-- F31 -->
 
-In Kheturi Thakura Mahashaya Narottama came out to meet him with great joy. For several days a great festival of
-sankirtana went on in the village: Virachandra, the great branch of Chaitanya's tree, danced in sankirtana in the
-courtyard of Gauranga, and countless people came to see the Prabhu; in private he told Narottama something
-(“Bhakti-ratnakara” 13.298–301). <!-- F32 -->
+In Kheturi Thakura Mahashaya Narottama came out to meet him with great joy. Virachandra danced in sankirtana in the
+courtyard of Gauranga, and countless people came to see the Prabhu; in private he told Narottama something and joyfully
+set out with his companions for Vraja (“Bhakti-ratnakara” 13.298–301). According to the biographies, for several days a great
+festival of sankirtana went on in the village; according to one of them, Virachandra, the great branch of Chaitanya's
+tree, came there to increase Narottama's bliss. <!-- F32 -->
 
 The “Narottama-vilasa” (11.10–196) tells of Virachandra's coming to Yajigrama and Kheturi in detail.[^9] When he arrived
 unexpectedly in Yajigrama, Srinivasa's wives washed his feet, and the Acharya's sons and daughters bowed to him, and he
