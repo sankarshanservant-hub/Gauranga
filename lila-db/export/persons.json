@@ -4335,6 +4335,10 @@
     "type": "other"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "son"
    },
@@ -8224,6 +8228,10 @@
     "type": "neighbor"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "spouse"
    },
@@ -8776,6 +8784,10 @@
    {
     "from": "@jagadisha-pandita",
     "type": "friend"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
    },
    {
     "from": "@madhavendra-puri",
@@ -9630,6 +9642,10 @@
    {
     "from": "@ishana-navadvipa",
     "type": "served-by"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
    },
    {
     "from": "@lakshmipriya",
@@ -11710,6 +11726,10 @@
    },
    {
     "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
     "type": "other"
    },
    {
@@ -15900,6 +15920,10 @@
    },
    {
     "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
     "type": "other"
    },
    {
@@ -24371,6 +24395,10 @@
    },
    {
     "from": "@jagai-madhai",
+    "type": "other"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
     "type": "other"
    },
    {
@@ -47744,6 +47772,10 @@
     "type": "other"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@shyamananda",
     "type": "disciple"
    }
@@ -51941,6 +51973,10 @@
     "type": "other"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@jayadeva",
     "type": "other"
    },
@@ -52230,6 +52266,10 @@
    {
     "from": "@jagai-madhai",
     "type": "other"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "lineage-successor"
    },
    {
     "from": "@jayadeva",
@@ -52525,6 +52565,193 @@
   "section": "Спутники",
   "lilas": [],
   "events": [],
+  "summary": "по таттве — вечный спутник Господа, указавший место Его… (B 1114); гуру — Мадхусудана Дас Бабаджи (Сурья-кунда); происхождение — Тангайл; уход — Гаура-пратипад Говинда-масы — по нашему календарю и T 225; самадхи — Кулия",
+  "card": "parshadas/cards/jagannatha-dasa-babaji.yaml",
+  "article": {
+   "ru": "parshadas/ru/jagannatha-dasa-babaji.md",
+   "en": "parshadas/en/jagannatha-dasa-babaji.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "ок. 1780 (T); точной даты нет",
+    "tithi": "",
+    "place": "#tangail?",
+    "conf": "T — ок. 1780, округ Тангайл; по другим (T) — деревня Тарас, Пабна; B — Северная Бенгалия; M — Майменсингх. В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет.",
+    "facts": [
+     "F6",
+     "F7",
+     "F8",
+     "F9"
+    ]
+   },
+   "disappearance": {
+    "date": "1895-02-25",
+    "tithi": "Гаура-пратипад (шукла-пратипад) Говинда-масы (пхалгуны) — по нашему календарю и T 225; в календаре — вместе с днями ухода Расикананды и Бхакти Дайиты Мадхавы Махараджа",
+    "place": "#kulia",
+    "conf": "T 225 (понедельник 25.02.1895) согласен с календарём; B — «конец февраля 1895»; T 234 — «февраль 1896» (ошибка, ⚠7); Бхаджан-кутир в Коладвипе (Кулия, Навадвипа), в 10 утра",
+    "facts": [
+     "F71",
+     "F72",
+     "F74"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#kulia",
+     "kind": "самадхи в его Бхаджан-кутире, Коладвипа (город Навадвипа); посещается на Навадвипа-парикраме (Гаура-двадаши)",
+     "facts": [
+      "F56",
+      "F73"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "указание места явления Махапрабху и Шриваса-анганы (1893); замысел служения Божествам там",
+    "facts": [
+     "F38",
+     "F39",
+     "F40",
+     "F42"
+    ]
+   },
+   {
+    "title": "титхи явления Вишнуприи и великих вайшнавов для «Навадвипа-панджики» (составил Бхактисиддханта по его велению)",
+    "facts": [
+     "F48",
+     "F49",
+     "F50"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "вечный спутник Господа (нитья-паршада), указавший место Его явления по врождённому чутью",
+    "source": "B 1114 (автор главы); B 149 — «собственные спутники Гауры» (о нём и Бхактивиноде)",
+    "level": "C",
+    "variants": [
+     "Аштака (T 224): «побуждённый Самим Гаура-луной»; пранама — «указавший место явления Гауры»; иных отождествлений источники не дают (⚠1)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@madhusudana-dasa-babaji",
+    "note": "Сиддха Мадхусудана Дас Бабаджи с Сурья-кунды дал ему парамахамса-вешу (T 222; M 60; Mб 825, 827); аштака — «дорогой спутник Мадхусуданы Даса»."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@uddhava-dasa-baladeva",
+    "note": "Ученик Баладевы; по T — через второго Уддхаву Даса, по M и Mб — прямо гуру Мадхусуданы (⚠4)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@baladeva-vidyabhushana",
+    "note": "В песни-парампаре Бхактисиддханты — «ученик Баладевы» по линии шикши; разрыв почти в век (SG: «линия идеала, а не тела»). = @baladeva-vidyabhushana F52, F85, F88."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@vishvanatha-chakravarti",
+    "note": "«Вишванатха-бхакта-сатха, баладева, джаганнатха…» (Q2). = @vishvanatha-chakravarti F77–F78."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@bhaktivinoda",
+    "note": "Встреча во Вриндаване (1880), наставления с 1885; Кулия (1890, веранда); Амладжора — Хари-васара и Прапанна-ашрам (1892); Годрума и Майяпур (1893); Гиридхари; «линия Бхактивиноды выросла из его тела и трудов»; Бхактивинода звал его «полководцем вайшнавов». = @bhaktivinoda F74, F88, F92–F94, F131–F141, F167–F177, F189, F201."
+   },
+   {
+    "type": "disciple",
+    "who": "@bhagavata-dasa-babaji",
+    "note": "Ученик по веше; тот дал вешу Гауракишоре (M 61; Mб 830; T 240–241)."
+   },
+   {
+    "type": "disciple",
+    "who": "@rasavihari-gosvami",
+    "note": "Ученик по дикше из Пуруньи (Бурдван); гуру раджи Трипуры Ишана Чандры Маникьи (T 223–224)."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "Ученик его ученика; в 1893 г. Бабаджи велел ему жить в Навадвипе; оба — у кадамбы на месте явления. = @gaurakishora-dasa-babaji F13, F15, F16, F64, F67."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@bhaktisiddhanta",
+    "note": "Велел мальчику (12 лет) составить «Навадвипа-панджику»; Бхактисиддханта — в «Гаудия-бхашье» и «Анубхашье» о нём; свапна-самадхи; триданда-санньяса — во славу веши его гуру."
+   },
+   {
+    "type": "served-by",
+    "who": "@bihari-dasa-babaji",
+    "note": "Сильный враджаваси, личный слуга: носил его в корзине на плечах; подношения, двенадцать рупий, щенки (T 223; M 61; Mб 830–831)."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "Определил день её явления (шукла-панчами магхи); предложил служение Махапрабху с Лакшми и Вишнуприей; по его дозволению Бхактивинода установил Гауру-Вишнуприю. = @vishnupriya F12, F145, F147."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Указал место явления Господа (Йогапитху) и Шриваса-ангану «божественным видением», «по побуждению Самого Гауры» (1893)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-mishra",
+    "note": "Предложил служение Джаганнатхе Мишре и Шачи на месте их дома; «Гаудия-бхашья»: место дома установлено под его водительством."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Предложил служение Шачи и Джаганнатхе в одном здании (T 223)."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Указал Шриваса-ангану (Кхола-бхангар-дангу); с Бхактивинодой открыл там центр санкиртаны (B 149–150)."
+   },
+   {
+    "type": "other",
+    "who": "@chand-kazi",
+    "note": "Место, где Кази разбил мриданг; Йогапитха — близ самадхи Кази."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Пел в Амладжоре «нитай ки нама энечхе ре…» (Q5)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Служение по наставлениям Рупы; «лучший из рупануг» (аштака); учение — в русле Рупы (Бхактисиддханта)."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-maharaja",
+    "note": "SG — место в парампаре; «Бхактивинода-дашакам»: Бхактивинода «дорог Джаганнатхе-прабху»; M: Коладвипа — там, где ныне храм Шридхара Махараджа. = @shridhara-maharaja F158."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Статья о его заслугах в «Сарасвати-джаяшри» (1948). = @bhakti-pramoda-puri F24."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Ушёл в его титхи (27.02.1979)."
+   },
+   {
+    "type": "other",
+    "who": "@rasikananda",
+    "note": "Тот же день ухода (Гаура-пратипад Говинда-масы)."
+   }
+  ],
   "related_by": [
    {
     "from": "@baladeva-vidyabhushana",
@@ -52866,6 +53093,10 @@
    {
     "from": "@bhakti-pramoda-puri",
     "type": "other"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "lineage-predecessor"
    },
    {
     "from": "@jiva-gosvami",
@@ -60650,6 +60881,10 @@
     "type": "other"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "opposed"
    },
@@ -65686,6 +65921,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@narottama-dasa",
     "type": "other"
    },
@@ -66170,6 +66409,10 @@
     "type": "other"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -66581,6 +66824,10 @@
     "type": "other"
    },
    {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "lineage-successor"
    },
@@ -66978,6 +67225,10 @@
    {
     "from": "@bhaktivinoda",
     "type": "companion"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "lineage-successor"
    },
    {
     "from": "@lokanatha",
@@ -67554,6 +67805,10 @@
    },
    {
     "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
     "type": "other"
    },
    {
@@ -68480,6 +68735,10 @@
    {
     "from": "@gaurakishora-dasa-babaji",
     "type": "guru"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "disciple"
    }
   ]
  },
@@ -70201,6 +70460,10 @@
    {
     "from": "@baladeva-vidyabhushana",
     "type": "disciple"
+   },
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "lineage-predecessor"
    }
   ]
  },
@@ -70449,6 +70712,51 @@
    {
     "from": "@krishnadasa-babaji",
     "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@madhusudana-dasa-babaji",
+  "ru": "Мадхусудана Дас Бабаджи (Сурья-кунда)",
+  "en": "Madhusudana Dasa Babaji (of Surya-kunda)",
+  "note": "«Сиддха» Мадхусудана Дас Бабаджи с Сурья-кунды; дал парамахамса-вешу @jagannatha-dasa-babaji (T 222; M 60; аштака T 224); не путать с @madhusudana-sarasvati, @madhusudana-gosvami-sarvabhauma",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "guru"
+   }
+  ]
+ },
+ {
+  "id": "@bihari-dasa-babaji",
+  "ru": "Бихари Дас Бабаджи",
+  "en": "Bihari Dasa Babaji",
+  "note": "сильный враджаваси, личный слуга @jagannatha-dasa-babaji, носил его в корзине (T 223; M 61)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "served-by"
+   }
+  ]
+ },
+ {
+  "id": "@rasavihari-gosvami",
+  "ru": "Расавихари Госвами (Пурунья)",
+  "en": "Rasavihari Gosvami (of Puruniya)",
+  "note": "из Пуруньи (Бурдван), ученик по дикше @jagannatha-dasa-babaji; гуру раджи Трипуры Ишана Чандры Маникьи (T 223–224)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagannatha-dasa-babaji",
+    "type": "disciple"
    }
   ]
  }

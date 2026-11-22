@@ -11622,6 +11622,258 @@
   "note": "«Господь спас даже Джагая и Мадхая, а меня оставил» (ЧЧ Мадхья 11.45)."
  },
  {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "guru",
+  "who": "@madhusudana-dasa-babaji",
+  "facts": [
+   "F10",
+   "F11",
+   "Q4"
+  ],
+  "note": "Сиддха Мадхусудана Дас Бабаджи с Сурья-кунды дал ему парамахамса-вешу (T 222; M 60; Mб 825, 827); аштака — «дорогой спутник Мадхусуданы Даса»."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "lineage-predecessor",
+  "who": "@uddhava-dasa-baladeva",
+  "facts": [
+   "F10"
+  ],
+  "note": "Ученик Баладевы; по T — через второго Уддхаву Даса, по M и Mб — прямо гуру Мадхусуданы (⚠4)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "lineage-predecessor",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F10",
+   "F13",
+   "F14",
+   "I2"
+  ],
+  "note": "В песни-парампаре Бхактисиддханты — «ученик Баладевы» по линии шикши; разрыв почти в век (SG: «линия идеала, а не тела»). = @baladeva-vidyabhushana F52, F85, F88."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "lineage-predecessor",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F13",
+   "F77"
+  ],
+  "note": "«Вишванатха-бхакта-сатха, баладева, джаганнатха…» (Q2). = @vishvanatha-chakravarti F77–F78."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "siksha-disciple",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F16",
+   "F26",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F35",
+   "F36",
+   "F37",
+   "F40",
+   "F47",
+   "F51",
+   "F52",
+   "F53",
+   "F54",
+   "F55",
+   "F72"
+  ],
+  "note": "Встреча во Вриндаване (1880), наставления с 1885; Кулия (1890, веранда); Амладжора — Хари-васара и Прапанна-ашрам (1892); Годрума и Майяпур (1893); Гиридхари; «линия Бхактивиноды выросла из его тела и трудов»; Бхактивинода звал его «полководцем вайшнавов». = @bhaktivinoda F74, F88, F92–F94, F131–F141, F167–F177, F189, F201."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "disciple",
+  "who": "@bhagavata-dasa-babaji",
+  "facts": [
+   "F15"
+  ],
+  "note": "Ученик по веше; тот дал вешу Гауракишоре (M 61; Mб 830; T 240–241)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "disciple",
+  "who": "@rasavihari-gosvami",
+  "facts": [
+   "F15"
+  ],
+  "note": "Ученик по дикше из Пуруньи (Бурдван); гуру раджи Трипуры Ишана Чандры Маникьи (T 223–224)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "lineage-successor",
+  "who": "@gaurakishora-dasa-babaji",
+  "facts": [
+   "F15",
+   "F41",
+   "F45"
+  ],
+  "note": "Ученик его ученика; в 1893 г. Бабаджи велел ему жить в Навадвипе; оба — у кадамбы на месте явления. = @gaurakishora-dasa-babaji F13, F15, F16, F64, F67."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "lineage-successor",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F4",
+   "F5",
+   "F43",
+   "F49",
+   "F50",
+   "F63",
+   "F75",
+   "F76",
+   "F77"
+  ],
+  "note": "Велел мальчику (12 лет) составить «Навадвипа-панджику»; Бхактисиддханта — в «Гаудия-бхашье» и «Анубхашье» о нём; свапна-самадхи; триданда-санньяса — во славу веши его гуру."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "served-by",
+  "who": "@bihari-dasa-babaji",
+  "facts": [
+   "F57",
+   "F58",
+   "F65",
+   "F70"
+  ],
+  "note": "Сильный враджаваси, личный слуга: носил его в корзине на плечах; подношения, двенадцать рупий, щенки (T 223; M 61; Mб 830–831)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F40",
+   "F47",
+   "F48"
+  ],
+  "note": "Определил день её явления (шукла-панчами магхи); предложил служение Махапрабху с Лакшми и Вишнуприей; по его дозволению Бхактивинода установил Гауру-Вишнуприю. = @vishnupriya F12, F145, F147."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F38",
+   "F39",
+   "F40",
+   "F42",
+   "F43",
+   "F44"
+  ],
+  "note": "Указал место явления Господа (Йогапитху) и Шриваса-ангану «божественным видением», «по побуждению Самого Гауры» (1893)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F40",
+   "F43"
+  ],
+  "note": "Предложил служение Джаганнатхе Мишре и Шачи на месте их дома; «Гаудия-бхашья»: место дома установлено под его водительством."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F40"
+  ],
+  "note": "Предложил служение Шачи и Джаганнатхе в одном здании (T 223)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F39",
+   "F42",
+   "F46"
+  ],
+  "note": "Указал Шриваса-ангану (Кхола-бхангар-дангу); с Бхактивинодой открыл там центр санкиртаны (B 149–150)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@chand-kazi",
+  "facts": [
+   "F39",
+   "F43"
+  ],
+  "note": "Место, где Кази разбил мриданг; Йогапитха — близ самадхи Кази."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F31"
+  ],
+  "note": "Пел в Амладжоре «нитай ки нама энечхе ре…» (Q5)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F18",
+   "F63",
+   "Q4"
+  ],
+  "note": "Служение по наставлениям Рупы; «лучший из рупануг» (аштака); учение — в русле Рупы (Бхактисиддханта)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F14",
+   "F55",
+   "F56"
+  ],
+  "note": "SG — место в парампаре; «Бхактивинода-дашакам»: Бхактивинода «дорог Джаганнатхе-прабху»; M: Коладвипа — там, где ныне храм Шридхара Махараджа. = @shridhara-maharaja F158."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F78"
+  ],
+  "note": "Статья о его заслугах в «Сарасвати-джаяшри» (1948). = @bhakti-pramoda-puri F24."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F74"
+  ],
+  "note": "Ушёл в его титхи (27.02.1979)."
+ },
+ {
+  "from": "@jagannatha-dasa-babaji",
+  "type": "other",
+  "who": "@rasikananda",
+  "facts": [
+   "F74"
+  ],
+  "note": "Тот же день ухода (Гаура-пратипад Говинда-масы)."
+ },
+ {
   "from": "@jagannatha-mishra",
   "type": "father",
   "who": "@upendra-mishra",
