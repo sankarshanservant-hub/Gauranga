@@ -20109,6 +20109,659 @@
   "note": "Строфа о поклоне Шринивасы Нарахари в Кханде."
  },
  {
+  "from": "@narottama-dasa",
+  "type": "father",
+  "who": "@krishnananda-datta",
+  "facts": [
+   "F12",
+   "F13",
+   "F26",
+   "F28",
+   "F57"
+  ],
+  "note": "Раджа, заминдар Гопалпура; ушёл из мира, пока сын был в странствиях (M 111) / по «другим» T — сын ушёл после его смерти (⚠7)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "mother",
+  "who": "@narayani-kheturi",
+  "facts": [
+   "F13",
+   "F21",
+   "F26"
+  ],
+  "note": "B: ушёл с её согласия; T, M, БР 1.288–291 — тайно (⚠7)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "uncle",
+  "who": "@purushottama-datta",
+  "facts": [
+   "F14",
+   "F15",
+   "F26",
+   "F57"
+  ],
+  "note": "Брат отца (младший — T; старший — M, ⚠5); отец Сантоши."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "relative",
+  "who": "@santosha-datta",
+  "facts": [
+   "F15",
+   "F28",
+   "F57",
+   "F58",
+   "F59",
+   "F65",
+   "F67",
+   "F75"
+  ],
+  "events": [
+   "ev-kheturi-festival",
+   "ev-santosha-datta-sangita-madhava"
+  ],
+  "note": "Двоюродный брат, раджа Кхетури и ученик (B 1100; M 111; БР 10.205); построил храм и устроил праздник."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@santosha-datta",
+  "facts": [
+   "F58"
+  ],
+  "note": "Посвящён в мантру Радха-Кришны (M 111)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "guru",
+  "who": "@lokanatha",
+  "facts": [
+   "F33",
+   "F34",
+   "F42",
+   "F60",
+   "I1",
+   "I2",
+   "@lokanatha:F60",
+   "@lokanatha:F66",
+   "@lokanatha:F67"
+  ],
+  "events": [
+   "ev-narottama-meets-lokanatha",
+   "ev-narottama-initiation",
+   "ev-narottama-returns-kheturi"
+  ],
+  "note": "Дикша-гуру; Нароттама — его единственный ученик; тайное служение, посвящение в шравана-пурниму; повелел вернуться в Кхетури и установить Божества (= @lokanatha F60–F68)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "siksha-guru",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F2",
+   "F32",
+   "F35",
+   "F36",
+   "F37",
+   "F39"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-narottama-thakura-mahashaya",
+   "ev-books-mission-decision",
+   "ev-jiva-srinivasa-letters"
+  ],
+  "note": "Учил его книгам Госвами; дал звание «Тхакур (Махашая)»; послал к Локанатхе и с книгами в Гауду (= @jiva-gosvami F150–F152, F169)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F7",
+   "F8",
+   "F9",
+   "F10",
+   "F72"
+  ],
+  "events": [
+   "ev-lord-calls-narottama-ramakeli",
+   "ev-prema-left-in-padma",
+   "ev-kheturi-festival"
+  ],
+  "note": "До его рождения звал его по имени и оставил для него прему в Падме; явился со спутниками в его киртане в Кхетури."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F8",
+   "F11",
+   "F56"
+  ],
+  "events": [
+   "ev-prema-left-in-padma",
+   "ev-narottama-receives-prema",
+   "ev-nityananda-shows-ekachakra"
+  ],
+  "note": "Слёзы Нитьянанды — та према; во сне велел принять её от Падмавати; по НВ 5 в облике брахмана показал ему Экачакру."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "friend",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F35",
+   "F36",
+   "F37",
+   "F41",
+   "F66",
+   "F69",
+   "F76",
+   "F88",
+   "F89",
+   "F90"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-books-leave-vrindavana",
+   "ev-kheturi-festival-invitations",
+   "ev-kheturi-festival",
+   "ev-srinivasa-ramachandra-disappearance"
+  ],
+  "note": "Друг и соученик у Дживы, «единый душой»; вместе везли книги; Шриниваса совершил абхишеку в Кхетури; плач «йе анила према-дхана» — о нём."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "friend",
+  "who": "@shyamananda",
+  "facts": [
+   "F35",
+   "F36",
+   "F41",
+   "F53",
+   "F66",
+   "F77"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-books-leave-vrindavana",
+   "ev-narottama-shyamananda-nrisimhapura"
+  ],
+  "note": "Третий из ачарьев; встреча в Нрисимхапуре; месяцы в Кхетури (B 1105)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "companion",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F76",
+   "F80",
+   "F84",
+   "F88",
+   "F90",
+   "F98"
+  ],
+  "events": [
+   "ev-narottama-bhajana-kheturi",
+   "ev-narasimha-raya-conversion",
+   "ev-srinivasa-ramachandra-disappearance"
+  ],
+  "note": "Дражайший спутник, «второе я» (БР 1.269 «абхиннатма»); «Нароттама Дас просит общения с Рамачандрой» («Прартхана»)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@jahnava",
+  "facts": [
+   "F49",
+   "F66",
+   "F68",
+   "F69",
+   "F70",
+   "F71",
+   "F74",
+   "F75",
+   "F77",
+   "F89"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage",
+   "ev-kheturi-festival",
+   "ev-jahnava-kheturi",
+   "ev-jahnava-returns-through-kheturi"
+  ],
+  "note": "Милость в Кхардахе; праздник в Кхетури — под её руководством; по её слову начал киртан; ачарьи приняли её как джагад-гуру (B 171)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@vasudha",
+  "facts": [
+   "F49"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@shuklambara",
+  "facts": [
+   "F43",
+   "F45"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ],
+  "note": "В доме Джаганнатхи Мишры в Навадвипе (M 107; = @jiva-gosvami F165)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F43",
+   "F45",
+   "F76"
+  ],
+  "note": "Благословил в Навадвипе; позже обвёл по Навадвипе Шринивасу, Нароттаму и Рамачандру."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F43",
+   "F45"
+  ],
+  "note": "БР 8.93 (= @damodara-pandita F38)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@shripati",
+  "facts": [
+   "F45",
+   "F66"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@shrinidhi",
+  "facts": [
+   "F45",
+   "F66"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@achyutananda",
+  "facts": [
+   "F46",
+   "F66",
+   "F71"
+  ],
+  "note": "Шантипур (M 107; B 1094); по слову Джахнавы и Ачьютананды начал киртан в Кхетури (M 114)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F47",
+   "F66"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F49",
+   "F66"
+  ],
+  "note": "Привёл к Джахнаве и Васудхе, указал путь в Пури (T 89; B 921)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@mahesha-pandita",
+  "facts": [
+   "F49"
+  ],
+  "note": "БР 8.220."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@abhirama",
+  "facts": [
+   "F50"
+  ],
+  "note": "Кханакул; Божество Гопинатхи (= @abhirama F45)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F51"
+  ],
+  "events": [
+   "ev-narottama-puri"
+  ],
+  "note": "Вышел навстречу в Пури; направил к святым местам."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@mamu-thakura",
+  "facts": [
+   "F51"
+  ],
+  "note": "Служитель Тота-Гопинатхи (M 109)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@gopala-guru",
+  "facts": [
+   "F52"
+  ],
+  "note": "Дом Каши Мишры (БР 8.382–392)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F13",
+   "F54"
+  ],
+  "events": [
+   "ev-narottama-shrikhanda-yajigrama-katwa"
+  ],
+  "note": "Любил его отца; благословил."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@raghunandana",
+  "facts": [
+   "F54",
+   "F66",
+   "F68"
+  ],
+  "note": "Показал Божество Гауры Нарахари (БР 8.431–432); спел мангалачарану в Кхетури."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F43",
+   "F55"
+  ],
+  "note": "Катва; B 1099 ставит его среди встреченных в Навадвипе (⚠10)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@uddharana-datta",
+  "facts": [
+   "F48"
+  ],
+  "note": "Дом в Саптаграме — уже после его ухода."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F31"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F31"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "met",
+  "who": "@raghava-gosvami-govardhana",
+  "facts": [
+   "F37"
+  ],
+  "note": "Обход Враджа со Шринивасой (B 666)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@vira-hambira",
+  "facts": [
+   "F41"
+  ],
+  "event": "ev-books-leave-vrindavana",
+  "note": "Похитил книги в Вана-Вишнупуре."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@vipradasa",
+  "facts": [
+   "F62"
+  ],
+  "event": "ev-kheturi-six-deities",
+  "note": "Из его амбара явились Гаура и Вишнуприя (⚠16)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "deity-served",
+  "who": "@gaura-vishnupriya-kheturi",
+  "facts": [
+   "F62",
+   "F63",
+   "F64"
+  ],
+  "events": [
+   "ev-kheturi-six-deities",
+   "ev-kheturi-festival"
+  ],
+  "note": "Ныне — в Гамбхиле (T 209; M 117)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@ramakrishna-acharya",
+  "facts": [
+   "F78",
+   "F80",
+   "F81",
+   "F91",
+   "F98"
+  ],
+  "events": [
+   "ev-narottama-branches"
+  ],
+  "note": "Сын Шивананды Ачарьи; один из двух, кто был при нём в Ганге."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@ganganarayana-chakravarti",
+  "facts": [
+   "F78",
+   "F82",
+   "F84",
+   "F91",
+   "F94",
+   "F98"
+  ],
+  "events": [
+   "ev-narottama-branches",
+   "ev-narasimha-raya-conversion"
+  ],
+  "note": "Брахман из Гамбхилы; B — «Гангарама» (⚠1); продолжатель линии к Вишванатхе."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@harirama-acharya",
+  "facts": [
+   "F80",
+   "F81"
+  ],
+  "note": "Брат Рамакришны; M — посвящён Рамачандрой, T — Нароттамой (⚠12)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@jagannatha-acharya-shakta",
+  "facts": [
+   "F83"
+  ],
+  "events": [
+   "ev-narottama-delivers-brahmanas"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@narasimha-raya",
+  "facts": [
+   "F84"
+  ],
+  "events": [
+   "ev-narasimha-raya-conversion"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@rupa-narayana",
+  "facts": [
+   "F84"
+  ],
+  "events": [
+   "ev-narasimha-raya-conversion"
+  ],
+  "note": "Пандит-дигвиджая (⚠19)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@devidasa-kirtaniya",
+  "facts": [
+   "F71"
+  ],
+  "note": "Мриданга в киртане Кхетури (M 114)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "disciple",
+  "who": "@chand-raya",
+  "events": [
+   "ev-chand-raya-deliverance"
+  ],
+  "note": "Только по lila-db (ПВ 18, ур. C); у T, M, B нет."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "lineage-successor",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F94"
+  ],
+  "note": "Четвёртый в линии: Нароттама — Ганганараяна — Кришначарана — Радхарамана — Вишванатха (T 219; = @vishvanatha-chakravarti F19); «Нароттамаштака»."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F34",
+   "F96",
+   "F98",
+   "F99",
+   "F100"
+  ],
+  "note": "«Анубхашья» (Мадхья 7.130, 11.67, 24.325; Ади 11.53, 12, 13.124), «Гаудия-бхашья» (ЧБ Мадхья 1.399); параллель Гауракишора — Бхактисиддханта (T 208, 242)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@gaurakishora-dasa-babaji",
+  "facts": [
+   "F34",
+   "F96"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F63",
+   "F96"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F64",
+   "F96"
+  ],
+  "note": "Следуя Нароттаме, установил Гауру-Вишнуприю в Маяпуре (B 132)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F96"
+  ],
+  "note": "Спел «шри рупа-манджари-пада» в последний день Бхактисиддханты (T 263); T 290."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "I7",
+   "F29",
+   "F96"
+  ],
+  "note": "Нароттама — лучший последователь Рупы; во сне Рупа и Санатана напоили его молоком (T 207)."
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F38"
+  ]
+ },
+ {
+  "from": "@narottama-dasa",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F97"
+  ],
+  "note": "Автор БР, НВ; «Намамрита-самудра» 270."
+ },
+ {
   "from": "@nityananda",
   "type": "father",
   "who": "@hadai-pandita",

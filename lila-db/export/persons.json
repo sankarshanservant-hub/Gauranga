@@ -4423,6 +4423,10 @@
     "type": "companion"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -7040,6 +7044,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "deity-served"
+   },
    {
     "from": "@vishnupriya",
     "type": "other"
@@ -11769,6 +11777,10 @@
     "type": "companion"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@parameshvara-dasa",
     "type": "guru"
    },
@@ -14973,6 +14985,10 @@
    {
     "from": "@madhava-ghosha",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -18558,6 +18574,10 @@
     "type": "guru"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    },
@@ -19287,6 +19307,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@sadashiva-pandita",
     "type": "companion"
    }
@@ -19638,6 +19662,10 @@
    {
     "from": "@murari-gupta",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -24382,6 +24410,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -26354,6 +26386,10 @@
     "type": "disciple"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@parameshvara-dasa",
     "type": "other"
    },
@@ -27257,6 +27293,10 @@
    {
     "from": "@minaketana-ramadasa",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -32111,6 +32151,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -32610,6 +32654,10 @@
    {
     "from": "@madhvacharya",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@parameshvara-dasa",
@@ -33142,6 +33190,10 @@
    },
    {
     "from": "@nandana-acharya",
+    "type": "met"
+   },
+   {
+    "from": "@narottama-dasa",
     "type": "met"
    },
    {
@@ -36227,6 +36279,10 @@
     "type": "met"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -36793,6 +36849,10 @@
    {
     "from": "@jahnava",
     "type": "host"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -38898,6 +38958,10 @@
     "type": "companion"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "spouse"
    },
@@ -39039,6 +39103,10 @@
    {
     "from": "@mahesha-pandita",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -40312,6 +40380,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "guru"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "other"
    },
@@ -41453,6 +41525,10 @@
    {
     "from": "@madhvacharya",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "siksha-guru"
    },
    {
     "from": "@nityananda",
@@ -43000,6 +43076,10 @@
     "type": "protege"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "friend"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -43778,6 +43858,10 @@
     "type": "met"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "servant"
    },
@@ -44093,6 +44177,350 @@
    "ev-narottama-pyre-gambhila",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "summary": "в Кришна-лиле — Чампака-манджари, помощница Рупа-манджари (T 207); гуру — Локанатха (Чакраварти, Госвами); происхождение — Кхетури (Гарерхат); явление — Пурнима месяца Мадхава — по нашему календарю; уход — Кришна-панчами месяца Дамодара — по нашему календарю",
+  "card": "parshadas/cards/narottama-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/narottama-dasa.md",
+   "en": "parshadas/en/narottama-dasa.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "vrindavana",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "около середины XV в. эры Шака (T)",
+    "tithi": "Пурнима месяца Мадхава (≈ магха) — по нашему календарю (1 февраля 2026; в 2027 г. — кришна-пратипад, т. к. пурнима-титхи кшая)",
+    "place": "#kheturi",
+    "conf": "магха-пурнима — T, БР 1.281, НВ 2.4; шукла-панчами (Васанта-панчами) магхи — M, ПВ 9.48 (⚠6; T ошибочно приписывает пурниму ПВ); даём по календарю Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22). Место — Кхетури (B; T: Кхетури в подокруге Гопалпур, Раджшахи; M: отец жил в Гопалпуре на Падмавати)",
+    "facts": [
+     "F12",
+     "F17"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Кришна-панчами месяца Дамодара (≈ карттика) — по нашему календарю (30 октября 2026)",
+    "place": "#gambhila",
+    "conf": "день — только M 123 (кришна-панчами карттики), совпадает с календарём ШЧСМ (541/ru, проверено 2026-11-22); место — Гамбхила на Ганге (M; НВ 11.330, через Будхари); B и T об уходе не говорят (⚠13). Ушёл в водах Ганги — «скрылся», «растворился, словно молоко» (НВ), не «умер» (⚠Б2)",
+    "facts": [
+     "F91",
+     "F92"
+    ]
+   },
+   "samadhi": []
+  },
+  "works": [
+   {
+    "title": "«Прартхана»",
+    "facts": [
+     "F85",
+     "F87",
+     "Q14"
+    ]
+   },
+   {
+    "title": "«Према-бхакти-чандрика»",
+    "facts": [
+     "F85",
+     "F87",
+     "Q14"
+    ],
+    "event": "ev-prema-bhakti-chandrika"
+   },
+   {
+    "title": "«Нама-санкиртана» (по B)",
+    "facts": [
+     "F87"
+    ]
+   },
+   {
+    "title": "пранама Локанатхе",
+    "facts": [
+     "F87"
+    ]
+   },
+   {
+    "title": "стиль киртана гаранхати",
+    "facts": [
+     "F86"
+    ],
+    "event": "ev-narottama-kirtan-style"
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Чампака-манджари, помощница Рупа-манджари",
+    "source": "T 207; «Према-виласа» 11",
+    "level": "C",
+    "variants": [
+     "ПВ 11 при посвящении — облик Виласа-манджари (ev-narottama-initiation); в ГГД его нет (⚠3)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@krishnananda-datta",
+    "note": "Раджа, заминдар Гопалпура; ушёл из мира, пока сын был в странствиях (M 111) / по «другим» T — сын ушёл после его смерти (⚠7)."
+   },
+   {
+    "type": "mother",
+    "who": "@narayani-kheturi",
+    "note": "B: ушёл с её согласия; T, M, БР 1.288–291 — тайно (⚠7)."
+   },
+   {
+    "type": "uncle",
+    "who": "@purushottama-datta",
+    "note": "Брат отца (младший — T; старший — M, ⚠5); отец Сантоши."
+   },
+   {
+    "type": "relative",
+    "who": "@santosha-datta",
+    "note": "Двоюродный брат, раджа Кхетури и ученик (B 1100; M 111; БР 10.205); построил храм и устроил праздник."
+   },
+   {
+    "type": "disciple",
+    "who": "@santosha-datta",
+    "note": "Посвящён в мантру Радха-Кришны (M 111)."
+   },
+   {
+    "type": "guru",
+    "who": "@lokanatha",
+    "note": "Дикша-гуру; Нароттама — его единственный ученик; тайное служение, посвящение в шравана-пурниму; повелел вернуться в Кхетури и установить Божества (= @lokanatha F60–F68)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@jiva-gosvami",
+    "note": "Учил его книгам Госвами; дал звание «Тхакур (Махашая)»; послал к Локанатхе и с книгами в Гауду (= @jiva-gosvami F150–F152, F169)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "До его рождения звал его по имени и оставил для него прему в Падме; явился со спутниками в его киртане в Кхетури."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Слёзы Нитьянанды — та према; во сне велел принять её от Падмавати; по НВ 5 в облике брахмана показал ему Экачакру."
+   },
+   {
+    "type": "friend",
+    "who": "@srinivasa-acharya",
+    "note": "Друг и соученик у Дживы, «единый душой»; вместе везли книги; Шриниваса совершил абхишеку в Кхетури; плач «йе анила према-дхана» — о нём."
+   },
+   {
+    "type": "friend",
+    "who": "@shyamananda",
+    "note": "Третий из ачарьев; встреча в Нрисимхапуре; месяцы в Кхетури (B 1105)."
+   },
+   {
+    "type": "companion",
+    "who": "@ramachandra-kaviraja",
+    "note": "Дражайший спутник, «второе я» (БР 1.269 «абхиннатма»); «Нароттама Дас просит общения с Рамачандрой» («Прартхана»)."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "note": "Милость в Кхардахе; праздник в Кхетури — под её руководством; по её слову начал киртан; ачарьи приняли её как джагад-гуру (B 171)."
+   },
+   {
+    "type": "met",
+    "who": "@vasudha"
+   },
+   {
+    "type": "met",
+    "who": "@shuklambara",
+    "note": "В доме Джаганнатхи Мишры в Навадвипе (M 107; = @jiva-gosvami F165)."
+   },
+   {
+    "type": "met",
+    "who": "@ishana-navadvipa",
+    "note": "Благословил в Навадвипе; позже обвёл по Навадвипе Шринивасу, Нароттаму и Рамачандру."
+   },
+   {
+    "type": "met",
+    "who": "@damodara-pandita",
+    "note": "БР 8.93 (= @damodara-pandita F38)."
+   },
+   {
+    "type": "met",
+    "who": "@shripati"
+   },
+   {
+    "type": "met",
+    "who": "@shrinidhi"
+   },
+   {
+    "type": "met",
+    "who": "@achyutananda",
+    "note": "Шантипур (M 107; B 1094); по слову Джахнавы и Ачьютананды начал киртан в Кхетури (M 114)."
+   },
+   {
+    "type": "met",
+    "who": "@hridaya-chaitanya"
+   },
+   {
+    "type": "met",
+    "who": "@parameshvara-dasa",
+    "note": "Привёл к Джахнаве и Васудхе, указал путь в Пури (T 89; B 921)."
+   },
+   {
+    "type": "met",
+    "who": "@mahesha-pandita",
+    "note": "БР 8.220."
+   },
+   {
+    "type": "met",
+    "who": "@abhirama",
+    "note": "Кханакул; Божество Гопинатхи (= @abhirama F45)."
+   },
+   {
+    "type": "met",
+    "who": "@gopinatha-acharya",
+    "note": "Вышел навстречу в Пури; направил к святым местам."
+   },
+   {
+    "type": "met",
+    "who": "@mamu-thakura",
+    "note": "Служитель Тота-Гопинатхи (M 109)."
+   },
+   {
+    "type": "met",
+    "who": "@gopala-guru",
+    "note": "Дом Каши Мишры (БР 8.382–392)."
+   },
+   {
+    "type": "met",
+    "who": "@narahari-sarakara",
+    "note": "Любил его отца; благословил."
+   },
+   {
+    "type": "met",
+    "who": "@raghunandana",
+    "note": "Показал Божество Гауры Нарахари (БР 8.431–432); спел мангалачарану в Кхетури."
+   },
+   {
+    "type": "met",
+    "who": "@gadadhara-dasa",
+    "note": "Катва; B 1099 ставит его среди встреченных в Навадвипе (⚠10)."
+   },
+   {
+    "type": "met",
+    "who": "@uddharana-datta",
+    "note": "Дом в Саптаграме — уже после его ухода."
+   },
+   {
+    "type": "met",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "met",
+    "who": "@raghunatha-dasa"
+   },
+   {
+    "type": "met",
+    "who": "@raghava-gosvami-govardhana",
+    "note": "Обход Враджа со Шринивасой (B 666)."
+   },
+   {
+    "type": "other",
+    "who": "@vira-hambira",
+    "note": "Похитил книги в Вана-Вишнупуре."
+   },
+   {
+    "type": "other",
+    "who": "@vipradasa",
+    "note": "Из его амбара явились Гаура и Вишнуприя (⚠16)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-vishnupriya-kheturi",
+    "note": "Ныне — в Гамбхиле (T 209; M 117)."
+   },
+   {
+    "type": "disciple",
+    "who": "@ramakrishna-acharya",
+    "note": "Сын Шивананды Ачарьи; один из двух, кто был при нём в Ганге."
+   },
+   {
+    "type": "disciple",
+    "who": "@ganganarayana-chakravarti",
+    "note": "Брахман из Гамбхилы; B — «Гангарама» (⚠1); продолжатель линии к Вишванатхе."
+   },
+   {
+    "type": "other",
+    "who": "@harirama-acharya",
+    "note": "Брат Рамакришны; M — посвящён Рамачандрой, T — Нароттамой (⚠12)."
+   },
+   {
+    "type": "disciple",
+    "who": "@jagannatha-acharya-shakta"
+   },
+   {
+    "type": "disciple",
+    "who": "@narasimha-raya"
+   },
+   {
+    "type": "disciple",
+    "who": "@rupa-narayana",
+    "note": "Пандит-дигвиджая (⚠19)."
+   },
+   {
+    "type": "disciple",
+    "who": "@devidasa-kirtaniya",
+    "note": "Мриданга в киртане Кхетури (M 114)."
+   },
+   {
+    "type": "disciple",
+    "who": "@chand-raya",
+    "note": "Только по lila-db (ПВ 18, ур. C); у T, M, B нет."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@vishvanatha-chakravarti",
+    "note": "Четвёртый в линии: Нароттама — Ганганараяна — Кришначарана — Радхарамана — Вишванатха (T 219; = @vishvanatha-chakravarti F19); «Нароттамаштака»."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» (Мадхья 7.130, 11.67, 24.325; Ади 11.53, 12, 13.124), «Гаудия-бхашья» (ЧБ Мадхья 1.399); параллель Гауракишора — Бхактисиддханта (T 208, 242)."
+   },
+   {
+    "type": "other",
+    "who": "@gaurakishora-dasa-babaji"
+   },
+   {
+    "type": "other",
+    "who": "@vamshidasa-babaji"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Следуя Нароттаме, установил Гауру-Вишнуприю в Маяпуре (B 132)."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-maharaja",
+    "note": "Спел «шри рупа-манджари-пада» в последний день Бхактисиддханты (T 263); T 290."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Нароттама — лучший последователь Рупы; во сне Рупа и Санатана напоили его молоком (T 207)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "Автор БР, НВ; «Намамрита-самудра» 270."
+   }
   ],
   "related_by": [
    {
@@ -44900,6 +45328,10 @@
     "type": "met"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "companion"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -45305,6 +45737,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "father"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    }
@@ -45336,6 +45772,12 @@
    "ev-narottama-leaves-home",
    "ev-narottama-returns-kheturi",
    "ev-kheturi-first-installation"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "mother"
+   }
   ]
  },
  {
@@ -45745,6 +46187,10 @@
     "type": "met"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "friend"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -45829,6 +46275,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -46493,6 +46943,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "disciple"
    },
@@ -46653,6 +47107,10 @@
   "related_by": [
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
     "type": "other"
    },
    {
@@ -47024,6 +47482,10 @@
   ],
   "related_by": [
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "siksha-disciple"
    }
@@ -47062,6 +47524,12 @@
    "ev-narottama-pyre-gambhila",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -47331,6 +47799,10 @@
   ],
   "related_by": [
    {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   },
+   {
     "from": "@vishvanatha-chakravarti",
     "type": "lineage-predecessor"
    }
@@ -47399,6 +47871,12 @@
    "ev-narottama-delivers-brahmanas",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -48044,6 +48522,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
@@ -48087,6 +48569,10 @@
    "ev-kheturi-six-deities"
   ],
   "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
    {
     "from": "@vishnupriya",
     "type": "other"
@@ -48253,6 +48739,12 @@
    "ev-narottama-pyre-gambhila",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -48285,6 +48777,12 @@
    "ev-srinivasa-ramachandra-disappearance",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -49716,6 +50214,10 @@
    {
     "from": "@mahesha-pandita",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -51153,6 +51655,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@paramananda-puri",
     "type": "other"
    },
@@ -51493,6 +51999,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
     "type": "other"
    },
    {
@@ -52034,6 +52544,10 @@
    {
     "from": "@lokanatha",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "lineage-successor"
    },
    {
     "from": "@rupa-gosvami",
@@ -54574,6 +55088,10 @@
     "type": "host"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@srivasa",
     "type": "sibling"
    }
@@ -55767,6 +56285,12 @@
    "ev-ramakeli-rupa-sanatana",
    "ev-narottama-returns-kheturi",
    "ev-santosha-datta-sangita-madhava"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "uncle"
+   }
   ]
  },
  {
@@ -56042,6 +56566,10 @@
    {
     "from": "@krishnadasa-mathura",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    },
    {
     "from": "@srinivasa-acharya",
@@ -56543,6 +57071,14 @@
     "type": "host"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "relative"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   },
+   {
     "from": "@parameshvara-dasa",
     "type": "other"
    },
@@ -56709,6 +57245,10 @@
     "type": "sibling"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -56807,6 +57347,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "met"
    }
   ]
  },
@@ -59458,6 +60002,10 @@
   ],
   "related_by": [
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@srivasa",
     "type": "sibling"
    }
@@ -59970,6 +60518,12 @@
   ],
   "events": [
    "ev-ganganarayana-conversion"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -60411,6 +60965,12 @@
   ],
   "events": [
    "ev-narottama-branches"
+  ],
+  "related_by": [
+   {
+    "from": "@narottama-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -62720,6 +63280,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "met"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
@@ -64371,6 +64935,10 @@
     "type": "other"
    },
    {
+    "from": "@narottama-dasa",
+    "type": "other"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "other"
    }
@@ -64746,6 +65314,10 @@
    {
     "from": "@govinda-maharaja",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@narottama-dasa",
+    "type": "other"
    },
    {
     "from": "@vasu-ghosha",
@@ -66039,6 +66611,10 @@
    },
    {
     "from": "@lokanatha",
+    "type": "other"
+   },
+   {
+    "from": "@narottama-dasa",
     "type": "other"
    },
    {

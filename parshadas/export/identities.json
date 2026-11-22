@@ -1446,6 +1446,20 @@
   ]
  },
  {
+  "person": "@narottama-dasa",
+  "in": "krishna-lila",
+  "as": "Чампака-манджари, помощница Рупа-манджари",
+  "source": "T 207; «Према-виласа» 11",
+  "level": "C",
+  "facts": [
+   "F3"
+  ],
+  "event": "ev-narottama-champaka-manjari",
+  "variants": [
+   "ПВ 11 при посвящении — облик Виласа-манджари (ev-narottama-initiation); в ГГД его нет (⚠3)"
+  ]
+ },
+ {
   "person": "@nityananda",
   "in": "krishna-lila",
   "as": "Баларама (Баладева), старший брат Кришны; в Кали-югу — старший брат Гаурахари",
