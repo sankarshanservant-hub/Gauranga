@@ -261,8 +261,7 @@ book is not yet born” refer to Vrindavana Dasa.[^13] <!-- F31 I4 -->
 
 He stands firmly, too, against the “gaura-nagari” teaching, which presents Gaura as a nagara enjoying the company of young women:
 
-“Therefore great souls, in their prayers to Lord Gauranga, never address Him as Gauranga-nagara (that is, one who enjoys
-the company of beautiful girls). Although the Supreme Lord may be prayed to in many ways, wise people glorify only those
+“Therefore great souls, in their prayers to Lord Gauranga, never address Him as Gauranga-nagara. Although the Supreme Lord may be prayed to in many ways, wise people glorify only those
 traits of character that belong to this avatara.” (CB, Adi 15.30–32)
 
 It is said that this is why he did not mention Prabodhananda and Gopala Bhatta: in the “Chaitanya-chandramrita” (132)
