@@ -6193,7 +6193,7 @@
 - nityananda-vamsha (C): Глава 5, 123–147 — [123–147](../nityananda-vamsha/ru/05.md?plain=1#L381-L455) · `nvv-0040`
 - vaishnava-vandana (B): Вандана Дживы, 20–21 — [20–21](../vaishnava-vandana/ru/01.md?plain=1#L49-L51) · `vv-0003`
 
-## Мадана-мохан во сне просит Джахнаву прислать изваяние Радхи / Madana-mohana in a dream asks Jahnava to send Him an image of Radha  `ev-jahnava-radha-for-madana-mohana` (1533–1534, возраст 47–48, оценка)
+## Мадана-мохан во сне просит Джахнаву прислать Божество Радхи / Madana-mohana in a dream asks Jahnava to send Him a Deity of Radha  `ev-jahnava-radha-for-madana-mohana` (1533–1534, возраст 47–48, оценка)
 
 - anuragavalli (C): Манджари 4, 20–28 — [20–28](../anuragavalli/ru/04.md?plain=1#L68-L92) · `anv-0024`
 - prema-vilasa (C): Виласа 16, 146–158 — [146–158](../prema-vilasa/ru/16.md?plain=1#L440-L476) · `pvl-0109`
@@ -6308,7 +6308,7 @@
 - prema-vilasa (C): Виласа 19, 56–92 — [56–92](../prema-vilasa/ru/19.md?plain=1#L170-L278) · `pvl-0143`
 - prema-vilasa (C): Виласа 19, 93–112 — [93–112](../prema-vilasa/ru/19.md?plain=1#L281-L338) · `pvl-0144`
 
-## Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса / The disappearance of the Kheturi Deities; the six Deities and Gauranga's image from Vipradasa's granary  `ev-kheturi-six-deities` (1533–1534, возраст 47–48, оценка)
+## Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса / The disappearance of the Kheturi Deities; the six Deities and Gauranga's Deity from Vipradasa's granary  `ev-kheturi-six-deities` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 6, 1–40 — [1–40](../narottama-vilasa/ru/06.md?plain=1#L5-L122) · `nvl-0036`
 - prema-vilasa (C): Виласа 19, 209–249 — [209–249](../prema-vilasa/ru/19.md?plain=1#L629-L749) · `pvl-0149`

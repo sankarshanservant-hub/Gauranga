@@ -626,7 +626,7 @@
   kind: miracle
   authority: B
   themes: [deities, celestial]
-  divergence: "В «Према-виласе» — Божество из амбара Випрадаса, изваянное Самим Господом; здесь имя хозяина не названо."
+  divergence: "В «Према-виласе» — Божество из амбара Випрадаса, явленное Самим Господом; здесь имя хозяина не названо."
   event: ev-kheturi-six-deities
   verses:
     - {file: "narottama-vilasa/ru/06.md", from: "1", to: "40"}
