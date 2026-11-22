@@ -7425,26 +7425,26 @@ I cannot bear the waves of his prema.
 **261.** Even in Their presence he showed [the pangs of] separation from the two Prabhus —
 he whose play with Them is always, before and after.
 
-**262.** Having manifested [Their] images, he set about feeding Them;
+**262.** Having manifested [Their] Deities, he set about feeding Them;
 They did not eat, and spoke not a word.
 
 **263.** Hearing of this, the two Prabhus [came] to the Pandita,
 called him and said something — hear the account:
 
-**264.** 'We have heard that you have manifested two images;
+**264.** 'We have heard that you have manifested two Deities;
 bring Them here — We will look at Them.'
 
-**265.** He brought the two images and set Them before Them:
+**265.** He brought the two Deities and set Them before Them:
 They were just like the two Prabhus Themselves.
 
 **266.** 'Go and cook — We shall eat.'
 The Pandita cooked, deep in thought.
 
 **267.** Rice, kshira, many vegetable dishes — he prepared four offerings;
-the two Prabhus brought the two images and seated Them.
+the two Prabhus brought the two Deities and seated Them.
 
 **268.** They say: 'Eat, let Us see — all four of Us; let Our eyes be soothed!'
-The two images and the two Prabhus ate.
+The two Deities and the two Prabhus ate.
 
 **269.** Having rinsed His mouth, the Prabhu says to the Pandita:
 'Know this for certain, Gauridasa:
@@ -7455,7 +7455,7 @@ The Prabhu says: 'These two will stay in your house.
 **271.** You will not be able to live without seeing Us — I tell you;
 whenever you wish, We will come to your house.
 
-**272.** In the form of these two images, We two
+**272.** In the form of these two Deities, We two
 will eat in your house every day.'
 
 **273.** That Prabhu made me his own;
@@ -9303,7 +9303,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^13-48]: Teliya Budhari, the home village of Ramachandra Kaviraja and Govinda Kaviraja on the bank of the Padma (Padmavati).
 [^13-49]: The Ambashthas, the physicians' caste (vaidya).
 [^13-50]: So the 1999 edition (aputraka); the 1913 edition has "apūrva", "extraordinary".
-[^13-51]: Katwa, where Mahaprabhu took sannyasa; an image of Gauranga is worshipped there.
+[^13-51]: Katwa, where Mahaprabhu took sannyasa; the Deity of Gauranga is worshipped there.
 [^13-52]: A variant given in the 1913 edition: "good or bad, with reason or without".
 
 ---
@@ -10035,7 +10035,7 @@ Vyasa had the command: "Go and arrange everything."
 **234.** He arrived in the village; his heart was full of bustle;
 sending men out, he brings goods from the farthest places.
 
-**235.** Bringing stone, he has an image made manifest in the house:
+**235.** Bringing stone, he has a Deity made manifest in the house:
 he summons craftsmen to make Gauranga manifest.
 
 **236.** Many new dwellings were built;
@@ -10050,7 +10050,7 @@ he alone knows [that joy] — who [else] can know?
 **239.** How much shall I write of how he was attended?
 His house, his goods — what more shall I say?
 
-**240.** The manifestation of the image of Gaura-raya and, with it, one more:
+**240.** The manifestation of the Deity of Gaura-raya and, with it, one more:
 the Acharya took the vow [for the installation], and many with him.
 
 **241.** Men were sent with letters inviting
@@ -10089,7 +10089,7 @@ they brought a hundred jars filled with panchamrita.[^14-42]
 **252.** The Acharya himself performs the bathing abhisheka;
 he carried out many rites according to the rules.
 
-**253.** All the mahantas together touched the bodies [of the images]
+**253.** All the mahantas together touched the bodies [of the Deities]
 and put sandal paste and tulasi garlands on Them.
 
 **254.** Kirtanas began everywhere, in many places;
@@ -10391,7 +10391,7 @@ offered them seats, and the brahmins sat down.
 **351.** Giving them lodging, he had them fed excellent food;
 in the evening they saw the Thakura's arati.[^14-49]
 
-**352.** Seeing the extraordinary image, they rejoiced;
+**352.** Seeing the extraordinary Deity, they rejoiced;
 at night the two brahmins sit and reason.
 
 **353.** All that they argue, [the others] do not accept,
@@ -10473,7 +10473,7 @@ each of the two gave his own the Hari-nama mantra in his ear.
 so that eating or sleeping there is nothing else in your minds."
 
 **379.** Coming out into the courtyard, they cry "Gauranga, Gauranga!"
-and, gazing at the form [of the image], both fall to the ground.
+and, gazing at the form [of the Deity], both fall to the ground.
 
 **380.** When there is kirtana, they show the transformations of bhava;
 how meekly and lowly they speak of themselves!
@@ -10525,7 +10525,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 
 *Thus ends the fourteenth vilasa of the Prema-vilasa.*
 
-[^14-1]: That is, before the image of Gauranga served at Srikhanda by Narahari Sarakara and Raghunandana; "on the right" apparently means circumambulating it clockwise (pradakshina).
+[^14-1]: That is, before the Deity of Gauranga served at Srikhanda by Narahari Sarakara and Raghunandana; "on the right" apparently means circumambulating Him clockwise (pradakshina).
 [^14-2]: "basāiyā grāme", literally "settling in the village"; the reading is conjectural.
 [^14-3]: That is, he had died — Narahari Sarakara Thakura, Raghunandana's uncle and guru.
 [^14-4]: A variant given in the 1913 edition: "he spoke of Krishna in every detail".
@@ -10563,7 +10563,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^14-36]: The assignment of speakers in this couplet is conjectural.
 [^14-37]: The sense is unclear; the "Prabhu" here is perhaps Lokanatha Gosvami. The speeches in 228–232 are assigned by sense: the speakers are not marked.
 [^14-38]: The full moon of the month of Phalguna (February–March), the day of Mahaprabhu's appearance.
-[^14-39]: Vallavikanta (literally "Beloved of the cowherd women") is Krishna; images of Gauranga and of several forms of Krishna were installed at Kheturi.
+[^14-39]: Vallavikanta (literally "Beloved of the cowherd women") is Krishna; Deities of Gauranga and of several forms of Krishna were installed at Kheturi.
 [^14-40]: Ukhra, a sweet made of puffed rice with molasses.
 [^14-41]: A variant given in both editions: "as if the time [of the festival at] Kshetra (Puri) had come".
 [^14-42]: Panchamrita, a mixture of milk, curd, ghee, honey and sugar for bathing a deity.
@@ -10812,7 +10812,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 
 # Vilasa 16. Instructions on Sadhana; Jahnava in Vrindavana
 
-*The author on himself and on Jahnava's command to write; a discourse on sadhana, the guru and discipleship, on those living in an ashrama and renunciants; Jahnava's journey to Vrindavana: her conversation with Rupa about the Gosvamis, the reading of the Dana-keli-kaumudi, Madanamohana's command to send an image of Radha; Jahnava at Radha-kunda with Raghunatha Dasa and the Kaviraja; farewell to the Gosvamis; instructions on the road about Vaishnavas' remnants and about celibacy; the return to Khanda and the author's first meeting with Srinivasa; Chaitanya Dasa the Auliya brings news from Vrindavana of how Gopala Bhatta received word of Srinivasa's marriage*
+*The author on himself and on Jahnava's command to write; a discourse on sadhana, the guru and discipleship, on those living in an ashrama and renunciants; Jahnava's journey to Vrindavana: her conversation with Rupa about the Gosvamis, the reading of the Dana-keli-kaumudi, Madanamohana's command to send a Deity of Radha; Jahnava at Radha-kunda with Raghunatha Dasa and the Kaviraja; farewell to the Gosvamis; instructions on the road about Vaishnavas' remnants and about celibacy; the return to Khanda and the author's first meeting with Srinivasa; Chaitanya Dasa the Auliya brings news from Vrindavana of how Gopala Bhatta received word of Srinivasa's marriage*
 
 **1.** Glory, glory to Gaurachandra, glory to Nityananda!
 Glory to Advaitachandra, glory to the devotees of Gaura!
@@ -11270,7 +11270,7 @@ The mind is known to Madanamohana, the Indweller.
 **152.** Go to your country, think of nothing else in your mind:
 all that you have resolved in your mind will be fulfilled.
 
-**153.** Bringing forth one lovely image,
+**153.** Bringing forth one lovely Deity,
 make it tall," He says in detail.[^16-30]
 
 **154.** "Come quickly and unite [her] with Me;
@@ -11874,7 +11874,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^16-27]: Kandarpa (Kama), the god of love; the gopis jokingly threaten to complain to the "king".
 [^16-28]: The speaker is not marked; the first line is obscure ("jite ki pāśari").
 [^16-29]: That is, Radha.
-[^16-30]: That is, an image of Radha for Madanamohana; according to tradition, Jahnava sent an image of Radha to Vrindavana. "pramāṇa kariha ucca", "make the measure tall".
+[^16-30]: That is, a Deity of Radha for Madanamohana; according to tradition, Jahnava sent a Deity of Radha to Vrindavana. "pramāṇa kariha ucca", "make the measure tall".
 [^16-31]: So by sense; both editions have "tina jane", "the three of us".
 [^16-32]: Krishnadasa Kaviraja; his passing was told in ch. 13 — here he is again shown alive.
 [^16-33]: That is, to Jahnava; the author calls her his Prabhu.
@@ -11947,7 +11947,7 @@ Acharya Thakura showed him mercy.
 [the Acharya], possessor of all virtues, showed him mercy.
 
 **15.** The Thakura Mahashaya has a village named Kheturi,
-where Gauranga-raya Himself abides [in His image].
+where Gauranga-raya Himself abides [in His Deity].
 
 **16.** Such service, such order, such service of the Vaishnavas
 exists nowhere else in the three worlds.
@@ -13433,7 +13433,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^17-11]: The Padmavati is the river Padma; Kheturi lies to the north of it.
 [^17-12]: That is, the bhoga the guests had eaten had not yet been offered to the deity, and Narottama cooked and offered it anew; Gauranga recognizes this as keeping the prescribed order.
 [^17-13]: "komara khuliyā", lit. "untying the waistband"; a sign of complete humility.
-[^17-14]: That is, the image of Mahaprabhu at Katwa, where He took sannyasa.
+[^17-14]: That is, the Deity of Mahaprabhu at Katwa, where He took sannyasa.
 [^17-15]: Variant given in both editions: "conveyed Sri Jiva Gosani's embrace of love."
 [^17-16]: Purushottama is Puri.
 [^17-17]: Here and below (139–142) the narrative at times passes into the first person: one of the two Vaishnavas is speaking.
@@ -15935,10 +15935,10 @@ the six deities together with the Beloved cannot be described.
 and, shedding tears of joy, passed [the rest of] the night.
 
 **254.** At daybreak, having done his morning duties,
-he made great preparations for fashioning the deities.
+he made great preparations for manifesting the Deities.
 
 **255.** Stone was brought, craftsmen were summoned,
-and he had six deities carved together with the Beloved[^19-40].
+and he had six Deities manifested together with the Beloved[^19-40].
 
 **256.** The five images of Krishna turned out excellent,
 but the image of Gaura would not take shape properly.
@@ -15958,11 +15958,11 @@ however hard you try, My image will not take shape.
 **261.** In this image I shall not reside;
 I shall tell you of an image that I made Myself.
 
-**262.** Before My sannyasa I fashioned an image of Myself
+**262.** Before My sannyasa I manifested a form of Myself
 and, without anyone knowing, sank it in the Ganga.
 
 **263.** You are the embodiment of My prema; to you I show favour:
-I have placed that deity in Vipradasa's granary[^19-41]."
+I have placed that Deity in Vipradasa's granary[^19-41]."
 
 **264.** Having said this, Sri Chaitanya vanished;
 waking, Narottama sees that day has dawned.
@@ -17764,9 +17764,9 @@ gave him the siddha name "Sri Narayani Manjari".
 what can I, wretched and without bhakti, know how to write?
 
 **859.** My Thakurani in Sri Vrindavana
-had promised to send a sacred image.
+had promised to send a sacred Deity.
 
-**860.** She had an image of Sri Radha made for Madanamohana[^19-108]
+**860.** She had a Deity of Sri Radha manifested for Madanamohana[^19-108]
 and sent it to Vrindavana.
 
 **861.** Seeing it, the Gosvamis were filled with great joy
@@ -17974,13 +17974,13 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-33]: That is, Krishna (Vallavikanta) stands without Radha.
 [^19-34]: Literally "Krishna's samsara (household)" — Krishna together with His Beloved.
 [^19-35]: Variant given in both editions: "…you will be immersed in bliss".
-[^19-36]: That is, the former images of Gaura-raya (Gauranga) and Vallavikanta, which have vanished from the temple, will enter the new images of the same names.
+[^19-36]: That is, the former images of Gaura-raya (Gauranga) and Vallavikanta, which have vanished from the temple, will enter the new Deities of the same names.
 [^19-37]: Variant given in both editions: "…calmed everyone one by one".
-[^19-38]: That is, until there are images, the deities are worshipped in the sacred shalagrama stone.
+[^19-38]: That is, until the Deities are manifested anew, They are worshipped in the sacred shalagrama stone.
 [^19-39]: Ekachakra ("Ekachaka" in the text) is the birthplace of Nityananda.
 [^19-40]: Variant given in both editions: "…had six deities made…".
 [^19-41]: Literally "dhan-gola", a round granary for paddy.
-[^19-42]: Variant given in both editions: "Narottama brought the image of Gaura into [his] house".
+[^19-42]: Variant given in both editions: "Narottama brought the Deity of Gaura into [his] house".
 [^19-43]: Vidyavanta ("learned") is apparently a title; Kanchana-Nagariya is the name of a village.
 [^19-44]: "Jagad-durlabha" ("rare, hard to find in the world") is an epithet of Virachandra.
 [^19-45]: Variant given in both editions: "…I shall name, making them known".
@@ -18046,7 +18046,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-105]: Rasa is mercury (or an alchemical elixir) by which, in the view of the alchemists, base metal is turned into gold.
 [^19-106]: According to tradition, Hanuman, to prove his devotion, tore open his breast, and all saw Rama and Sita in his heart.
 [^19-107]: "Ur" means limit, end.
-[^19-108]: Variant given in both editions: "…for Gopinatha"; in 861 correspondingly "…to the left of Sri Gopinatha". Cf. ch. 16, where Madanamohana asks for an image of Radha to be sent.
+[^19-108]: Variant given in both editions: "…for Gopinatha"; in 861 correspondingly "…to the left of Sri Gopinatha". Cf. ch. 16, where Madanamohana asks for a Deity of Radha to be sent.
 [^19-109]: The Virachandra-charita ("Life of Virachandra") is, according to the author, another work of his.
 [^19-110]: According to tradition, the obeisance of Abhirama (Ramadasa) destroyed anyone who was not an incarnation of a deity; of Jahnava's sons only Virachandra survived it.
 [^19-111]: Variant given in both editions: "…came to see the nama-sankirtana".
@@ -20363,7 +20363,7 @@ Krishna says: "Advaita, you are Shiva Gopeshvara[^24-16].
 **117.** Restore the lost holy places, preach bhakti,
 give the living beings Krishna-Hari-nama and deliver them.
 
-**118.** There is an image of Mine named Madanamohana
+**118.** There is a Deity of Mine named Madanamohana
 in a grove on the bank of the Yamuna.
 
 **119.** On account of robbers I am hidden;
@@ -20466,7 +20466,7 @@ give Me to him and do not grieve."
 I tell You truly — I shall lose My life."
 
 **152.** Bhagavan says: "Advaita, listen to one thing:
-here there is an image of Mine non-different [from Me] —
+here there is a Deity of Mine non-different [from Me] —
 
 **153.** the form that Sri Vishakha made;
 all sing of it as 'Vishakha's picture.'
@@ -22192,13 +22192,13 @@ Thakura, take whatever gift you wish."
 adorns your gate, glittering.
 
 **721.** I wish to take it" —
-says the Gosani — "with it I shall have a beautiful Deity carved."
+says the Gosani — "with it I shall have a beautiful Deity manifested."
 
 **722.** The padishah prised out the stone and gave it to Virachandra;
 taking the stone, Vira went to Khardaha.
 
-**723.** From that stone He had the image of Shyamasundara carved;
-seeing it, all people were freed from all their sorrows.
+**723.** From that stone He had the Deity of Shyamasundara manifested;
+seeing Him, all people were freed from all their sorrows.
 
 **724.** He held a great festival and invited the Vaishnavas;
 all the associates of Chaitanya came.
@@ -22209,8 +22209,8 @@ performed the installation and abhisheka of the image.
 **726.** All these matters I have recorded
 in great detail in the *Virachandra-charita*[^24-91].
 
-**727.** From the stone left over after carving Shyamasundara
-two charming images were carved:
+**727.** From the stone left over after manifesting Shyamasundara
+two charming Deities were manifested:
 
 **728.** the image of Sri Nanda-dulala resides in Svamibana,
 and in Vallabhapura Vallabhaji is installed[^24-92].
@@ -26190,7 +26190,7 @@ Nityananda Dasa, tells the *Prema-vilasa*.
 [^24-89]: Cf. the *Gaura-ganoddesha-dipika*: Madhava Acharya, Ganga's husband, is King Shantanu (and Ganga is the river Ganga). Madhuspanda and the sakhi Madhavi here are additional identifications.
 [^24-90]: Virachandra's initiation by Jahnava is the generally accepted tradition (cf. the *Bhakti-ratnakara*); the story of the boat broken by Abhirama's flute and of the four-armed Jahnava is known only from this vilasa (cf. the index of the "Half-vilasa," 960–965).
 [^24-91]: The *Virachandra-charita* is a work the author calls his own; it is not known in the manuscript tradition of the *Prema-vilasa* or from other sources. References to it are one of the marks of a late addition.
-[^24-92]: The tradition of the padishah's "teluya stone" and the three images carved from it — the Shyamasundara of Khardaha, Nanda-dulala (of Saibona?) and the Vallabhaji of Vallabhapura (near Serampore) — is alive in the Khardaha tradition. The 1999 edition reads "Svamibana."
+[^24-92]: The tradition of the padishah's "teluya stone" and the three Deities manifested from it — the Shyamasundara of Khardaha, Nanda-dulala (of Saibona?) and the Vallabhaji of Vallabhapura (near Serampore) — is alive in the Khardaha tradition. The 1999 edition reads "Svamibana."
 [^24-93]: In other sources (cf. the glossary: Narayani and Vishnupriya) Virachandra's wives are named differently; here they are Srimati and Narayani, daughters of Yadunandana of Jhamatpur. The sons Gopijanavallabha, Ramakrishna and Ramachandra are known from other sources as well.
 [^24-94]: A danda is about 24 minutes; twelve dandas are about 4 hours 48 minutes.
 [^24-95]: A folk etymology: "kulina" (ku-lina) is interpreted as "sunk in evil."
@@ -27225,7 +27225,7 @@ he was born in the southern country, in Ambuyavali,[^25-48] in a sadgopa family.
 **309.** Running away from home, he goes to Khanakul;
 having seen Gopinatha, he hurries to Ambika.
 
-**310.** Seeing the images of Chaitanya and Nityananda
+**310.** Seeing the Deities of Chaitanya and Nityananda
 and hearing sankirtana, he rejoiced at heart.
 
 **311.** He sweeps the temple yard, partakes of prasada;
@@ -27237,10 +27237,10 @@ giving him initiation, [Hridaya] names him Duhkhi Krishnadasa.
 **313.** His bhajana, a conversation with the guru;
 the account of Gauridasa Pandita, the installation of Gaura-Nitai.
 
-**314.** Hearing of the installation of Their images, Gaura and Nitai —
+**314.** Hearing of the installation of Their Deities, Gaura and Nitai —
 the two brothers — came to Gauridasa Pandita's house.
 
-**315.** Gauridasa offers bhoga: the two Prabhus and the two images —
+**315.** Gauridasa offers bhoga: the two Prabhus and the two Deities —
 the four eat together; seeing this, he exults.
 
 **316.** Of the boon given to Gauridasa [Hridaya] tells Shyamananda;
@@ -27484,8 +27484,8 @@ acquaintance with Ramachandra and Govinda.
 **394.** Narottama goes to Kheturi with Vyasacharya;
 Srinivasa set out for Yajigrama.
 
-**395.** Images of Gauranga and Vallavikanta
-Narottama had made, exulting at heart.
+**395.** Deities of Gauranga and Vallavikanta
+Narottama had manifested, exulting at heart.
 
 **396.** Srinivasa goes to Kheturi with Ramachandra;
 all the mahantas were invited.
@@ -27493,7 +27493,7 @@ all the mahantas were invited.
 **397.** On Phalguna Purnima the Vaishnavas came to Kheturi;
 the abhisheka of Gauranga and Vallavikanta was performed.
 
-**398.** On Phalguna Purnima, for these two images,
+**398.** On Phalguna Purnima, for these two Deities,
 the abhisheka was performed by Srinivasa Mahashaya.
 
 **399.** Lodgings are given to the mahantas in various places;
@@ -27596,7 +27596,7 @@ the subject of the Dana-keli-kaumudi is described.
 **430.** At Madanamohana's left there was no Radha;
 Sri Jahnava Devi had a dream:
 
-**431.** she is told to have [an image of] the Thakurani made and sent;[^25-52]
+**431.** she is told to have [a Deity of] the Thakurani manifested and sent;[^25-52]
 Jahnava goes to Radha-kunda.
 
 **432.** With Dasa Gosvami and Krishnadasa Kaviraja
@@ -27837,7 +27837,7 @@ the Gosani forbade — he did not obey.
 **509.** For this reason the Bhatta rejected Harivamsha;
 Harivamsha was deprived of the service of Radha-ramana.
 
-**510.** He installed an image of Radha-vallabha
+**510.** He installed a Deity of Radha-vallabha
 and handed the service over to his sons Vanachandra and Vrindavanachandra.
 
 **511.** Harivamsha went into the forest and began austerities;
@@ -28028,23 +28028,23 @@ a divine feeling arose in his heart:
 **572.** "Gauranga and Vallavikanta Raya [stand] alone —
 there is no Thakurani at Their left; Their beauty is not full.
 
-**573.** I shall install further images of Krishna,
+**573.** I shall install further Deities of Krishna,
 and, seeing the divine couple, I shall float in bliss."
 
 **574.** Thinking this, Narottama went to sleep at night
-and in a dream saw six images with Their beloveds.
+and in a dream saw six Deities with Their beloveds.
 
 **575.** He sees Gauranga and Vallavikanta vanish;
-the command is given to install six new images.
+the command is given to install six new Deities.
 
 **576.** In the dream he learns the names of the six deities as well:
 "At the time of the abhisheka of these six deities
 
-**577.** these two images, Gauranga and Vallavikanta,
+**577.** these two Deities, Gauranga and Vallavikanta,
 will unite with the newly consecrated Gauranga and Vallavikanta.
 
 **578.** Those two and these six will become one;
-the Lord will abide in the six images."
+the Lord will abide in the six Deities."
 
 **579.** Having shown such a dream, Gauranga and Vallavikanta Raya
 vanished — and Naru's sleep was broken.
@@ -28052,7 +28052,7 @@ vanished — and Naru's sleep was broken.
 **580.** At the time of mangala-arati, at the temple door
 Narottama and Ramachandra arrive.
 
-**581.** The pujari reports that the images cannot be seen;
+**581.** The pujari reports that the Deities have vanished;
 not seeing the deities, Ramachandra and Narottama weep.
 
 **582.** Narottama tells Ramachandra his dream;
@@ -28071,7 +28071,7 @@ he goes to Shyamananda, and returns to Gauda.
 passing through Navadvipa, Khanda, Katwa, Ekachakra,
 
 **587.** coming home, he sees the six deities in a dream
-and makes preparations to have the deities carved.
+and makes preparations to have the Deities manifested.
 
 **588.** Sending for stone carvers, Narottama
 has six deities made together with Their beloveds.
@@ -28085,10 +28085,10 @@ in a dream, Gauranga's words: "However you try, it will not be made;
 **591.** in a newly made image of Gaura the Lord
 will not abide" — so He made known.
 
-**592.** Before His sannyasa Mahaprabhu Himself made His own image,
+**592.** Before His sannyasa Mahaprabhu Himself made His own form,
 and it stands in Vipradasa's rice granary.
 
-**593.** He commands that image to be brought and consecrated;
+**593.** He commands that Deity to be brought and consecrated;
 saying this, Gauranga vanished.
 
 **594.** Narottama went to Vipradasa's rice granary
@@ -28394,7 +28394,7 @@ Narasimha plays the khol, Rupa Narayana sings.
 **694.** Virabhadra, overwhelmed with feeling, embraced Rupa Narayana
 and gave him the title "Gosvami."
 
-**695.** For Madanamohana in Vrindavana an image of Radha
+**695.** For Madanamohana in Vrindavana a Deity of Radha
 Sri Jahnava sent, rejoicing at heart.
 
 **696.** How in the sankirtana at Khanda the blind Ramai received sight —
@@ -28737,7 +28737,7 @@ abhisheka; Advaita sets off on the circuit.
 **805.** Seeing the mlecchas approaching, Madanamohana,
 becoming [little] Gopala, hides beneath flowers.
 
-**806.** Hearing from people that the mlecchas have carried off the image,
+**806.** Hearing from people that the mlecchas have carried off the Deity,
 Advaita comes home, does not see the deity, and tears fill His eyes.
 
 **807.** At night the fasting Advaita has a dream;
@@ -29220,11 +29220,11 @@ in great joy took initiation from His mother.
 **966.** Vira goes to the Padshah;
 manifesting His power, He obtains a stone.
 
-**967.** From it He had an image of Shyamasundara carved
-and had its abhisheka performed by Achyuta Gosvami.
+**967.** From it He had the Deity of Shyamasundara manifested
+and had His abhisheka performed by Achyuta Gosvami.
 
 **968.** At Svamibana, Nanda-dulala; at Vallabhapura,
-Vallabhaji: [They were carved] from the remainder of that stone.[^25-89]
+Vallabhaji: [They were manifested] from the remainder of that stone.[^25-89]
 
 **969.** The daughters of Yadunandana, a resident of Jhamatpur,
 Srimati and Narayani, blessed with beauty —
@@ -29533,20 +29533,20 @@ Nityananda Dasa, tells the Half-vilasa of the Prema-vilasa.
 [^25-49]: The end of the line is corrupt in both copies; rendered by sense.
 [^25-50]: Bhagavati is the goddess Durga, who in Vilasa 14 tells Govinda to remember Krishna-Govinda.
 [^25-51]: The author admits that Vilasas 15 and 16 ought to have changed places: Vilasa 16 describes Jahnava's first journey to Vrindavana, and Vilasa 15 her second.
-[^25-52]: That is, an image of Radha, to be placed beside Madanamohana.
+[^25-52]: That is, a Deity of Radha, to be placed beside Madanamohana.
 [^25-53]: Sadhya is the goal; sadhana the means of attaining it.
 [^25-54]: The first line of the couplet is lost: in the 1913 edition only its last word ("to … / at …") survives, and in the 1999 edition the whole passage is lost.
 [^25-55]: That is, the blows Ramachandra dealt himself appeared on Narottama's body (cf. 17.303).
 [^25-56]: Here the name is given in the form "Harishchandra."
 [^25-57]: The sense of "seventh" is unclear. Yadunandana Acharya is Raghunatha Dasa's guru (cf. 18.30).
-[^25-58]: That is, while the images are missing, the worship of Gauranga and Vallavikanta is performed before a shalagrama, a sacred stone embodying Vishnu.
+[^25-58]: That is, while the Deities are missing, the worship of Gauranga and Vallavikanta is performed before a shalagrama, a sacred stone embodying Vishnu.
 [^25-59]: Phagu: the red powder with which people sprinkle one another at Holi (Phalguna Purnima).
 [^25-60]: Ashtakala: service distributed over the eight periods of the day and night, following the lila of Radha and Krishna.
 [^25-61]: The line is restored from scattered remnants in the 1913 edition (it is lost in the 1999 edition); the reading is conjectural.
 [^25-62]: The sense is unclear ("mātāra nikaṭa veśa dhāraṇa"); possibly "having put on [ascetic] garb before his mother" or "before his mother put on a widow's garb."
 [^25-63]: The opening of the couplet is damaged in both copies; it is translated from the surviving words. The subject is the nature of Advaita Acharya as Sadashiva and Mahavishnu.
 [^25-64]: The middle of the line is lost in both copies (in the 1999 edition the whole line); what survives is translated.
-[^25-65]: Vishakha is Radha's companion; the reference is to the picture of Krishna painted by her, which Advaita receives in place of the image (813–814).
+[^25-65]: Vishakha is Radha's companion; the reference is to the picture of Krishna painted by her, which Advaita receives in place of a Deity (813–814).
 [^25-66]: Kshira-chora Gopinatha: "Gopinatha the thief of sweet rice," the deity at Remuna.
 [^25-67]: Srinatha Chakravarti's commentary on the Bhagavata Purana.
 [^25-68]: Brahma Haridasa is Haridasa Thakura; the epithet is explained below (854–855).
