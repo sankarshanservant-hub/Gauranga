@@ -30,7 +30,7 @@ Narottama's future birthplace — and began to call him; His companions did not 
 is why the “Bhakti-ratnakara” says that Narottama “was born drawn by Krishna Chaitanya” (1.280). <!-- F7 -->
 
 The “Prema-vilasa” tells of this at greater length. On the way back from Kanai-Natshala the Lord, in ecstatic kirtana,
-began to call out, “Narottama!” Nityananda asked whom He meant, and Mahaprabhu answered: “You do not know your own glory.
+began to call out, “Narottama!” Nityananda asked whom He meant, and Mahaprabhu answered: “Your own glory is hidden from you.
 In Puri you shed tears of love day after day — this prema I gathered and kept. Now I shall leave it in the keeping of the
 Padmavati, for Narottama.” Then the Lord came to Kutubpur on the bank of the Padmavati, bathed, sang and danced in ecstasy,
 and told the river to keep His prema and give it to Narottama when he came to bathe; he would be easy to recognise — as
@@ -38,8 +38,8 @@ soon as he entered the water, the river would overflow its banks. The place was 
 prema.”[^2] <!-- F8 F9 F10 -->
 
 ## The Prince of Kheturi
-Narottama was born in North Bengal, at Kheturi, twelve miles from Rampur-Boalia, in the subdivision of Gopalpur in the
-district of Rajshahi (now in Bangladesh). His father, Raja Krishnananda Datta, was the zamindar of the Gopalpur region on
+Narottama took birth at Kheturi in North Bengal, twelve miles from Rampur-Boalia, in the subdivision of Gopalpur in the
+district of Rajshahi (now in Bangladesh). His father, Raja Krishnananda Datta, held the zamindari of the Gopalpur region on
 the bank of the Padmavati and a very wealthy man, so that his son was spoken of as a prince. His mother was named Narayani
 Devi. The “Bhakti-ratnakara” says of her: “His mother, most virtuous, was named Narayani; her life was in her son” (1.289).
 His father's brother, Purushottama Datta, shared with him a wealth and fame that had no equal. Purushottama's son
@@ -48,11 +48,11 @@ Sriman Narottama's brother and disciple, pure in serving the guru, Krishna and t
 Sarakara Thakura of Srikhanda was very fond of Krishnananda. <!-- F12 F13 F14 F15 F112 -->
 
 The family belonged to the kayastha community. One of the biographies explains that Krishna let His associate be born in
-such a family to show that His associates appear in any station of life. Later the smartas would call Narottama a
+such a family to make it plain that His associates may appear in any station of life. Later the smartas would call Narottama a
 “shudra”; how his own life answered them, and how Srila Bhaktisiddhanta Sarasvati judges the matter, will be told below.
 <!-- F16 I3 -->
 
-He was born on the full moon of the month of Magha — according to one of the biographies, around the middle of the
+His appearance was on the full moon of the month of Magha — according to one of the biographies, around the middle of the
 fifteenth century of the Shaka era:
 
 “Narottama was born on the full-moon day of the month of Magha; day by day he grew like the moon.” (“Bhakti-ratnakara”
@@ -64,30 +64,28 @@ Madhava (≈ Magha); in 2026 it fell on 1 February.[^4] <!-- F17 Q2 -->
 
 At his birth there were auspicious signs. In his joy the raja gave generous gifts to the brahmanas, and they foretold that
 the boy was a great soul through whom many would be delivered; the “Prema-vilasa” also tells of Narayani's prophetic dream
-and of the astrologer's prediction. The child grew like the waxing moon: his body shone like molten gold, his eyes were
-like lotus petals, his arms reached to his knees, his navel was deep — all marks of a mahapurusha — and the townspeople
+and of the astrologer's prediction. Day by day the child grew as the moon grows: his body had the lustre of melted gold, his eyes the shape of lotus petals, his arms reached his knees, his navel was deep — all marks of a mahapurusha — and the townspeople
 gathered to look at the beautiful holy child. The rite of first feeding, the anna-prashana, was performed with lavish
 gifts; the “Narottama-vilasa” adds that from then on the boy ate only the prasada of Vishnu. His mother, floating in bliss,
 would not let him out of her sight and cared for him unceasingly; in the women's quarters he was petted with great joy,
 and he himself was so quiet that wherever he was laid, there he lay. <!-- F18 F19 F20 F21 -->
 
-When the time came for study, his intelligence amazed everyone: he remembered a thing after hearing it once, and in a
-short time he mastered Sanskrit grammar, poetry, rhetoric and many shastras. But soon he came to regard as useless any
+When the time came for study, his intelligence amazed everyone: he remembered a thing after hearing it once, and before long Sanskrit grammar, rhetoric, poetry and many shastras were his. But soon he came to regard as useless any
 knowledge that does not lead to Hari-bhajana, and he thought of the sages of old who went to the forest to serve Hari.
 From early childhood he was drawn to bhakti and indifferent to games and pleasures. Hearing from devotees of the glory of
 Nityananda and Gauranga, he seemed to come alive anew: day and night he repeated Their names and meditated on Their
-qualities, and the Lord with His associates often appeared to him in dreams. The “Narottama-vilasa” says that a brahmana
+qualities, and in dreams the Lord would often come to him with His associates. The “Narottama-vilasa” says that a brahmana
 named Krishnadasa told him about the Lord, and that in a dream Gaura, Nityananda, Advaita and Their associates told him to
 go to Vrindavana, to Lokanatha. <!-- F22 F23 -->
 
 The “Bhakti-ratnakara” says:
 
-“To Sri Krishna Chaitanya, Nityananda, Advaita and their associates he offers his prayers, and tears stream from both his
+“To Sri Krishna Chaitanya, Nityananda, Advaita and Their associates he offers his prayers, and tears stream from both his
 eyes. In the guise of a dream the Lord with His associates appeared to him, comforted His beloved Narottama and calmed
 him.” (“Bhakti-ratnakara” 1.285–286) <!-- F24 Q3 -->
 
 ## Prema from the Hands of the Padmavati
-When Narottama was twelve years old, Nityananda told him in a dream to bathe in the Padmavati and receive the prema kept
+When Narottama was twelve years old, Nityananda, in a dream, bade him bathe in the Padmavati and receive the prema kept
 for him. The next morning, as soon as he stepped into the water, the river overflowed its banks, and the Padmavati,
 remembering the Lord's words, gave him what had been entrusted to her. This wonder is not the power of a river: the
 Padmavati only returned what the Lord had given into her keeping — the mercy of Mahaprabhu and Nityananda, Nityananda's tears of
@@ -112,11 +110,8 @@ He deceived the guards not out of guile: this is how one leaves whom the Lord ha
 without a thought for youth, or beauty, or a kingdom.[^5] <!-- F26 F27 F28 Q4 -->
 
 The son of a wealthy zamindar, for the sake of meeting the Lord he gave up every bodily comfort in an instant. He walked
-day and night barefoot and in tears, forgetting to eat and drink, until he fell unconscious under a tree. Then a
-golden-complexioned brahmana came to him, held out a cup of milk and said kindly, “Narottama, drink — your wounds will
-heal; be calm, all will be well,” and vanished. And that night in a dream Rupa and Sanatana, laying their hands on his
-chest, gave him milk to drink that Mahaprabhu Himself had brought, and his weariness left him. Pilgrims, recognising in
-him the son of a raja, grew fond of him. He lived now on milk, now on roots and fruits: his longing to see Vrindavana
+day and night barefoot and in tears, with no thought of food or drink, until at last he collapsed senseless beneath a tree. A brahmana with a golden complexion then approached, offered him a bowl of milk and spoke gently: “Narottama, drink — your wounds will
+heal; be calm, all will be well,” and vanished. And that night in a dream Rupa and Sanatana placed their hands upon his breast and fed him milk brought by Mahaprabhu Himself, and his weariness left him. Pilgrims, seeing that he was a raja's son, grew fond of him. He lived now on milk, now on roots and fruits: his longing to see Vrindavana
 drowned his hunger. On the way he heard from devotees about Gaura and Nityananda and prayed to Nityananda, “When,
 Nitai-chand…” At Mathura, on the bank of the Yamuna, remembering the six Gosvamis headed by Rupa and Sanatana, he wept in
 ecstasy. <!-- F29 -->
@@ -126,7 +121,7 @@ Keeping the Lord's feet in his heart, he visited many tirthas and came to Vrinda
 
 ## Lokanatha's Only Disciple
 Of the six Gosvamis, three still remained in Vrindavana at that time — Gopala Bhatta, Jiva and Raghunatha Dasa; Rupa,
-Sanatana and others had already withdrawn from sight.[^6] The elder Gosvamis of Vraja loved the young man dearly: “Sri
+Sanatana and others had already withdrawn from sight.[^6] The senior Gosvamis of Vraja took the young man to their hearts: “Sri
 Gopala Bhatta and all the other wise ones regard Narottama as their second life” (“Bhakti-ratnakara” 1.347). <!-- F31 -->
 
 Jiva Gosvami sent him to serve the feet of Lokanatha Gosvami; according to the “Prema-vilasa,” Sri Rupa told Jiva to do
@@ -148,8 +143,8 @@ According to the “Prema-vilasa,” he received initiation in the month of Vais
 only disciple; the story is told in detail in the article on Lokanatha Gosvami. <!-- F32 F33 Q4 -->
 
 Narottama's initiation is a lesson for the whole world: how to serve one's spiritual master, and how selfless, sincere
-service can move to mercy even one who has vowed to take no disciples. This is not “menial work” but a disciple's model
-service; Lokanatha and Narottama enacted this pastime to show its worth, especially to the people of North Bengal.
+service can move to mercy even one bound by a vow never to accept a disciple. This is not “menial work” but a disciple's model
+service; Lokanatha and Narottama enacted this pastime to show its worth, above all for the people of North Bengal.
 Centuries later it was repeated by Srila Bhaktisiddhanta Sarasvati and Srila Gaurakishora Dasa Babaji: the Babaji too had
 vowed to accept no disciples, and Bhaktisiddhanta by persistent service won his acceptance — as his only disciple.
 <!-- I1 F34 -->
@@ -165,9 +160,8 @@ Vraja-mandala with Raghava Gosvami, who showed them the places of Krishna's past
 waves of the “Bhakti-ratnakara” to this circuit, and the “Anuraga-valli” (6) also tells of their farewell circuit of
 Vraja.[^8] <!-- F35 F37 F108 F115 -->
 
-Then Dukhi Krishnadasa, the future Shyamananda, came from Gauda. That very day Srinivasa and Narottama had a presentiment
-that they would soon gain a new Vaishnava friend — and he came. From then on the three studied with Jiva together and
-received detailed personal instruction from him: Jiva opened to them the philosophy and scriptures of Mahaprabhu and a
+Then Dukhi Krishnadasa, the future Shyamananda, came from Gauda. That very day Srinivasa and Narottama sensed that a new Vaishnava friend was about to join them — and he came. From then on the three studied with Jiva together, and
+he taught each of them closely, opening to them the philosophy and scriptures of Mahaprabhu and a
 devotion full of bliss, and the three studied deeply the works of the six Gosvamis. All three were accomplished
 musicians, skilled in *kalavati*, the music of Delhi, and with Jiva's permission they held kirtanas. One heart, one life
 and one aim united them in their bhajana in Vrindavana, and yet they felt that their innermost longing was still
@@ -187,7 +181,7 @@ teaching, and Jiva told them: “From now on carry Mahaprabhu's message everywhe
 quickly to Bengal.” Lokanatha too told Narottama to return to his homeland and preach. <!-- F39 -->
 
 The books were packed in a wooden chest protected from the rain and loaded on an ox-cart; a wealthy man of Mathura paid
-for the cart and for guards on foot, and Jiva accompanied the chest as far as Mathura. They set out in the bright half of
+for the cart and for guards on foot, and Jiva walked beside the chest up to Mathura. They set out in the bright half of
 the month of Agrahayana — according to one of the biographies, on the shukla-panchami, in the year 1504 of the Shaka era
 (1582–1583). Bowing to Govinda, Gopinatha and Madana-mohana, the three followed the cart along the road to Mathura,
 spending the nights in villages and holding sankirtana and preaching there. Among those who saw them off was Uddhava Dasa
@@ -196,20 +190,18 @@ spending the nights in villages and holding sankirtana and preaching there. Amon
 In Vana-Vishnupura the books were stolen at night by the men of King Vira Hambira, who took the chest for treasure. The
 next morning the grief of the three was so great that life lost all meaning for them. Learning that the thief was the
 king himself, Srinivasa stayed in Vishnupura and sent Narottama to Kheturi and Shyamananda to Orissa.[^9] Srinivasa knew
-Lokanatha's intention and said to Narottama: “Go quickly to Kheturi and carry out the command of Prabhu Lokanatha”
+Lokanatha's intention and said to Narottama: “Hurry to Kheturi and fulfil Prabhu Lokanatha's order”
 (“Bhakti-ratnakara” 7.119). Srinivasa recovered the books and informed Narottama and Shyamananda; how this came about and
 how Vira Hambira was converted is told in the article on Srinivasa Acharya. <!-- F41 Q6 -->
 
 Why did Lokanatha let his only disciple go? Narottama's former position as a wealthy zamindar made him especially fit to
 preach in North Bengal: he above all could teach the people of that land the norms of a renounced life. Lokanatha saw in
-him not only a noble upbringing but also zeal and a taste for dealing with people, and out of compassion for them he told
+him not only a noble upbringing but also zeal and a liking for being among people, and out of compassion for them he told
 him to return to Kheturi. Hermits absorbed in intimate service are usually not inclined to work for the “good” of people:
 such good, while it remains on the bodily level, is valued only by those who have not understood the true aim of life.
-But when a devotee of Narottama's stature takes up such work, the work itself is ennobled. Thus Lokanatha taught the
-world through his disciple — as a mother-in-law, instructing her daughter, teaches her daughter-in-law. <!-- F42 I2 -->
+But when a devotee of Narottama's stature takes up such work, the work itself is ennobled. So, through his disciple, Lokanatha was instructing the world — as a mother-in-law, instructing her daughter, teaches her daughter-in-law. <!-- F42 I2 -->
 
-Narottama himself, tormented by separation from his guru, carried out his command and began to preach pure devotional
-service in North Bengal. His humility and sorrow sound in the song of the “Prarthana” “Aneka duhkhera pare…”: after many
+Narottama himself, tormented by separation from his guru, obeyed and set about preaching pure devotional service in North Bengal. His humility and sorrow sound in the song of the “Prarthana” “Aneka duhkhera pare…”: after many
 sorrows he was brought to Vraja — and now he is far from it once more. <!-- F42 -->
 
 ## In the Lord's Footsteps
@@ -218,7 +210,7 @@ birthplace, Mayapur-Navadvipa. On the bank of the Ganga he cried out hundreds of
 palm tree and wondering where the Lord's birthplace might be, he met an old brahmana. Learning who he was, the old man
 burst into tears: “Every day Nimai Pandita would sit with His students on this
 ghat and explain the shastras, and I would gaze from afar at His wonderful form. Today I remember how He sat under this tree.” Narottama touched his feet with his head, and
-the brahmana blessed him: “Soon you will attain devotion to the feet of Govinda and will preach the glory of
+the brahmana blessed him: “Before long devotion to Govinda's feet will be yours, and will preach the glory of
 Gaura-Govinda everywhere,” and showed him the way to the house of Jagannatha Mishra. <!-- F43 F44 -->
 
 At the door of that house Narottama fell down in tears and offered prayers. Inside he was met by Shuklambara
@@ -231,12 +223,10 @@ of the Lord were sunk in grief over His withdrawal.[^10] <!-- F45 Q10 -->
 Narottama spent several days in Mayapur, then came to Shantipura, to Advaita's house. Advaita had already withdrawn; his
 son Achyutananda asked the guest about the Gosvamis of Vrindavana, and together they sang the glory of Mahaprabhu.[^11] In
 Ambika-Kalna, in the house of Gauridasa Pandita, he met his disciple Hridaya Chaitanya, and they embraced. In Saptagrama,
-at the confluence of the Ganga, Yamuna and Sarasvati, a village blessed by Nityananda, he came to the house of Uddharana
-Datta; its master had already left this world, and the devotees lived in the anguish of separation from their guru.
+at the confluence of the Ganga, Yamuna and Sarasvati, a village blessed by Nityananda, he visited Uddharana Datta's home; its master had already left this world, and the devotees lived in the anguish of separation from their guru.
 <!-- F46 F47 F48 -->
 
-In Kharadaha Parameshvari Dasa led him into the inner apartments, to Jahnava and Vasudha. Understanding that the mercy of
-Lokanatha and Jiva was upon him, the two mistresses granted him incomparable mercy, and for four days he spoke with them
+In Kharadaha Parameshvari Dasa led him into the inner apartments, to Jahnava and Vasudha. Seeing that he bore the mercy of Lokanatha and Jiva, the two mistresses granted him incomparable mercy, and for four days he spoke with them
 about Krishna. Parameshvari showed him the way to Puri; Narottama was granted darshana of Mahesha Pandita's feet, and
 Mahesha, at parting, could not calm himself for love (“Bhakti-ratnakara” 8.220). In Khanakul-Krishnanagara Narottama came to Abhirama Gopala Thakura. He lived in separation
 from Gaura and Nityananda, hardly returning to outer consciousness; Narottama wept much, beheld the wonderful Deity of
@@ -283,8 +273,7 @@ The estate passed to Santosha Datta, and he became raja. Narottama had long sinc
 nothing, and Santosha became his disciple: after a few days Narottama initiated him into the mantra of Radha-Krishna. The
 “Bhakti-ratnakara” calls him just that: “Sri Santosha Datta, the disciple of Mahashaya” (10.205). Santosha had long wished
 to build a temple and install a Deity, and he asked for permission. Within a few months he raised a large temple, and with
-it a storehouse for provisions, a hall for kirtana, dwellings and an ashrama for devotees, a tank, a flower garden and a
-guest house. <!-- F58 F59 -->
+it a storehouse for provisions, a hall for kirtana, dwellings and an ashrama for devotees, a tank, a garden of flowers and a house for guests. <!-- F58 F59 -->
 
 While still in Vrindavana, Lokanatha had told Narottama to install Deities of Radha-Krishna and Sri Gauranga. The
 “Bhakti-ratnakara” says:
@@ -304,7 +293,7 @@ village near Gopalpur and asked to be let into the granary of a certain Vipradas
 had settled there, hissing terribly, and snake-charmers could not drive them out either with mantras or with herbs — the
 snakes only grew angrier. Narottama insisted. The granary was opened — the snakes, to everyone's amazement, had vanished,
 and the Deities of Sri Gaura and Vishnupriya came into his hands of Their own accord: Gaurasundara with Vishnupriya rose
-onto his lap (“Bhakti-ratnakara” 10.202). At once a great sankirtana began. Narottama brought Them to Kheturi and
+onto his lap (“Bhakti-ratnakara” 10.202). A mighty sankirtana broke out on the spot. Narottama brought Them to Kheturi and
 established Their service; today these Deities are served in Gambhila. According to the “Bhakti-ratnakara” (10.191–206),
 this was still before the great festival, during the preparations for it.[^12] The “Prema-vilasa” (19) says that the form
 of Gauranga was carved by the Lord Himself before He took sannyasa. <!-- F62 Q8 -->
@@ -345,8 +334,7 @@ Krishnadasa, Damodara, Balarama Dasa, Mukunda and Vrindavana Dasa Thakura. From 
 from Navadvipa Shripati and Shrinidhi, from Shantipura Advaita's sons Achyutananda, Gopala and Krishna Mishra, from
 Ambika-Kalna Hridaya Chaitanya, from Nrisimhapura Shyamananda with his people. Srinivasa with the devotees set out from
 Budhari, from the house of Govinda Kaviraja. Achyutananda was received with great reverence: the festival took place
-almost half a century after the Lord's withdrawal. Srinivasa, his disciple Ramachandra and Ramachandra's brother Govinda
-worked hard for the festival's success. <!-- F66 -->
+almost half a century after the Lord's withdrawal. Srinivasa, with his disciple Ramachandra and Govinda, Ramachandra's younger brother, laboured to make the festival a success. <!-- F66 -->
 
 Santosha provided a huge boat for the crossing, palanquins and carts. Srinivasa, Narottama and the raja met the guests
 with garlands; when Jahnava entered Kheturi with kirtana, Srinivasa, Narottama and Shyamananda, walking ahead of all,
@@ -378,7 +366,7 @@ stricken with grief, and the festival was not resumed at once. <!-- F71 F72 Q7 -
 
 This was no vision of the dead and no ghosts: the Lord's eternal associates do not die — they only withdraw from the
 world's sight and by Their own will appear again. The “Bhakti-ratnakara” says that on that day Srinivasa, Narottama and
-their companions attained the fulfilment of all their desires (10.607). The “Prema-vilasa” (19) adds that Radha and
+their companions saw every desire of theirs fulfilled (10.607). The “Prema-vilasa” (19) adds that Radha and
 Krishna appeared above the kirtana, and Narottama was plunged into deep ecstasy. <!-- F72 Q7 -->
 
 Then Jahnava sprinkled the Deities with red powder — phagu — and the devotees played with it. In the evening Srinivasa
@@ -390,8 +378,7 @@ herself ate last; outside the hall Santosha fed thousands of people and also ate
 
 On the second day Santosha asked the devotees to cook for the Deities in their own huts, and on the third he tearfully
 presented everyone with gold coins, cloth, ornaments and vessels. Jahnava with her retinue left for Vrindavana; Srinivasa
-and Shyamananda stayed in Kheturi a few days more. The festival was truly unprecedented, and it is remembered in the
-Vaishnava world to this day. The “Narottama-vilasa” (8) tells of the farewell to the mahantas and of robbers who on the
+and Shyamananda stayed in Kheturi a few days more. The festival was truly unprecedented, and Vaishnavas still remember it today. The “Narottama-vilasa” (8) tells of the farewell to the mahantas and of robbers who on the
 road took shelter of the Vaishnavas. <!-- F75 -->
 
 Afterwards Srinivasa and Shyamananda returned to Yajigrama, and soon Narottama came there. Shyamananda went to Utkala,
@@ -399,7 +386,7 @@ while Srinivasa, Narottama and Ramachandra Kaviraja set out for Navadvipa. The L
 the next day took them round the holy places — the nine islands of Navadvipa; Srinivasa took Narottama with him, “one
 with him in soul.” From there they went to Srikhanda and there learned that Ishana had left this world. Returning from
 Vrindavana, Jahnava came first of all to Kheturi, and she was met by the devotees headed by Narottama and Ramachandra
-Kaviraja (“Narottama-vilasa” 9; “Prema-vilasa” 15). And Shyamananda spent several months with Narottama in Kheturi.
+Kaviraja (“Narottama-vilasa” 9; “Prema-vilasa” 15). And Shyamananda stayed on in Kheturi with Narottama for some months.
 Virachandra, Nityananda's son, also came to Kheturi — “to increase Sri Narottama's joy,” as the “Bhakti-ratnakara” says;
 Thakura Mahashaya came out to meet him with great joy, Virachandra danced in the sankirtana, and the festival went on for
 several days. <!-- F76 F77 F102 -->
@@ -411,19 +398,18 @@ important preachers among his disciples. The “Narottama-vilasa” (12) lists t
 <!-- F78 -->
 
 Not everyone was pleased. A smarta pandita insulted Narottama before his own students, calling him a shudra — and his body
-began to rot with leprosy. In despair he went to drown himself in the Ganga, but that night Durga-devi appeared to him in
-a dream: “Fool, you took a mahabhagavata for a shudra… Go and beg forgiveness at his feet.” The next morning, with a cloth
+began to rot with leprosy. In despair he went to drown himself in the Ganga, but that night Durga-devi came to him in a dream: “Fool, you took a mahabhagavata for a shudra… Go to his feet and ask his pardon.” The next morning, with a cloth
 round his neck as a sign of humility, he fell in tears at Narottama's feet. The Thakura's company gradually healed him; on
 Narottama's advice he began to serve Krishna and became deeply attached to him. The disease was not a “punishment of the
 Goddess” but the fruit of offending a Vaishnava; and Durga, Mahamaya, is the Lord's maidservant, and so she herself sends
 the offender to the feet of His devotee. The “Narottama-vilasa” (9) tells the same. <!-- F79 -->
 
-Once Narottama and Ramachandra Kaviraja were going to bathe in the Padmavati and met two young brahmanas, Harirama and
+Once Narottama and Ramachandra Kaviraja were on their way to bathe in the Padmavati when they met two young brahmanas, Harirama and
 Ramakrishna, sons of Shivananda Acharya, a zamindar of the village of Goyasgaram. At their father's order they were
 leading goats and a buffalo to be sacrificed to the Goddess at the Durga-puja in their home. The radiance of the two
 Vaishnavas captivated the youths. Narottama explained to them the meaning of the “Bhagavata”: the rites of karma-kanda in
 the modes of passion and ignorance, with violence to animals, do not elevate — even one who reaches heaven falls from it,
-and one who kills animals destroys his own soul; and all souls are the energy of Krishna. Give up such worship, he said,
+and one who kills animals destroys his own soul; and every soul is Krishna's energy. Give up such worship, he said,
 and serve the Supreme Lord without selfish motive. The brothers set the animals free, bathed in the Padma, came to the
 temple of Mahaprabhu, and the next morning, with shaven heads, received the mantra of Radha-Krishna: Harirama from
 Ramachandra Kaviraja, Ramakrishna from Narottama.[^15] <!-- F80 -->
@@ -437,20 +423,19 @@ beg forgiveness.” <!-- F81 -->
 Ganganarayana Chakravarti, a famous learned brahmana of Gambhila, listened attentively to the Gosvamis' siddhanta from
 Narottama, took shelter at his feet, and then studied the Gosvamis' books deeply. Jagannatha Acharya, a worshipper of
 Durga, also came to him: Durga herself told him in a dream to go to Narottama, saying, “Krishna is my master and my guru.”
-He came to Kheturi and bowed down; Narottama smiled and said, “You are very fortunate — Krishna's mercy is upon you,” and
+He came to Kheturi and bowed down; Narottama smiled and said, “Great is your fortune — Krishna's mercy is upon you,” and
 initiated him into the mantra of Radha-Krishna. Jagannatha became one of his dearest and most trusted disciples; the
 “Prema-vilasa” (19) also tells of him. <!-- F82 F83 -->
 
 The smartas complained to Raja Narasimha, the ruler of Pakkapalli: “Narottama is a shudra, yet he makes brahmanas his
-disciples. If this goes on, we shall perish like the Yadus.” With the raja and the digvijayi pandita Rupa Narayana they
+disciples. Let this continue, and we shall perish like the Yadus.” With the raja and the digvijayi pandita Rupa Narayana they
 set out for Kheturi.[^16] Ramachandra Kaviraja and Ganganarayana learned that they had stopped for the night in the bazaar
 at Kumarapura, and opened stalls there — a potter's and a pan-seller's. They addressed the smartas in pure Sanskrit and
 defeated them all in debate, Rupa Narayana included. Learning that these were Narottama's disciples, the raja said: “If
 even his ordinary disciples defeat you, there is no point in going to him himself.” That night Durga appeared to the raja
 and Rupa Narayana in a dream with a sword and told them to take shelter of Narottama. In the morning they came and found
 him in the temple of Gauranga, absorbed in chanting the name. Narottama received them respectfully and humbly: “I am
-insignificant, while you are renowned for learning, wisdom and royal wealth. It is my good fortune to have the company of
-such learned and noble men; how may I serve you?” They fell at his feet, begging forgiveness, and after a few days he
+insignificant, while you are famed for your learning, your wisdom and a king's riches. How fortunate I am that such learned and noble men have come to me; what service can I do for you?” They fell at his feet, begging forgiveness, and after a few days he
 initiated them into the mantra of Radha-Krishna. The “Prema-vilasa” (19) also tells of the raja's conversion; it also
 contains the tradition of a sacred thread that appeared in Narottama's heart. <!-- F84 -->
 
@@ -488,7 +473,7 @@ Narottama's songs are collected in the “Prarthana” and the “Prema-bhakti-c
 book of kirtanas, the “Nama-sankirtana.” A pranama to his guru Lokanatha is also his. These books have been reprinted
 countless times and have influenced all who walk the path of bhakti: in them is the life of the devotees and songs for
 every mood. His influence reached even distant Manipur: there it is acknowledged that Vaishnavism spread by his spiritual
-power, and his songs are sung in every home. The “Prema-vilasa” (17) tells of the “Prema-bhakti-chandrika.”[^17]
+power, and his songs are heard in every household. The “Prema-vilasa” (17) tells of the “Prema-bhakti-chandrika.”[^17]
 <!-- F85 F87 -->
 
 The biographies quote much from his songs. In his songs he prays to Nityananda (“Ara kabe nitai chand…”) and to
@@ -521,11 +506,11 @@ treasure of prema. In one of his songs he draws a ladder of mercy: without shelt
 Nityananda; without it the desires for enjoyment do not leave; while they remain there is no mercy of Rupa and
 Raghunatha, and without that no attachment to the youthful Couple of Vraja. <!-- I6 I7 I8 -->
 
-Srinivasa was for Narottama a friend one with him in spirit, and yet Narottama in a song asked him for the company of his
+Srinivasa was Narottama's friend, his equal in spirit, and yet Narottama in a song asked him for the company of his
 disciple: “Prabhu Srinivasa Acharya, be merciful — Narottama Dasa begs for the company of Ramachandra.” This shows how he
 loved Srinivasa himself. In the “Prarthana” he prayed for Srinivasa's mercy also when detractors condemned the Acharya's
-second marriage. And Ramachandra Kaviraja was his dearest companion in preaching and bhajana, his second self; Narottama
-loved him more than life, and Srinivasa, Narottama and Ramachandra were of one heart and mind. The “Bhakti-ratnakara” says of Ramachandra:
+second marriage. And Ramachandra Kaviraja was the closest companion of his preaching and bhajana, his second self; Narottama
+held him dearer than his own life, and Srinivasa, Narottama and Ramachandra were of one heart and mind. The “Bhakti-ratnakara” says of Ramachandra:
 
 “Ramachandra Kaviraja, full of all virtues, is the one with whom Narottama Mahashaya is one in soul.”
 (“Bhakti-ratnakara” 1.269)
