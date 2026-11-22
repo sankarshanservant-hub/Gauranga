@@ -257,6 +257,9 @@ named in the summary he never described:
 “He became absorbed in describing the pastimes of Nityananda, and Chaitanya's final pastimes were left untold. The
 devotees of Vrindavana longed to hear the account of all those pastimes.” (CC, Adi 8.48–49)
 
+It is easy to see why the Vaishnavas urged him: the witnesses of the Lord's final pastimes were leaving this world one
+after another, and what they had not written down might be forgotten.
+
 One of the biographies says it briefly: he took up the book to fulfil the wish of the Gosvamis of Vraja. <!-- F29 -->
 
 ## Madana-Gopala's Garland
