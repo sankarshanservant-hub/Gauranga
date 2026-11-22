@@ -6,8 +6,8 @@ On the bank of the Ganga, not far from Katwa, lies the village of Chakhandi (als
 brahmana named Gangadhara Bhattacharya, whom, after a single day of his life, the whole district came to call by another
 name: Sri Chaitanya Dasa, “the servant of Chaitanya.” By this name he is known to the “Bhakti-ratnakara” and the
 “Narottama-vilasa”; one of the biographies calls him Sri Bhatta Chaitanya Dasa, while the “Prema-vilasa” calls him
-Chaitanya Dasa Acharya, simply Acharya, and Sri Chaitanya Acharya. For the “Bhakti-ratnakara” he is above all “the
-brahmana Chaitanya,” in whose house Srinivasa Acharya was born: Chaitanya Dasa is Srinivasa's father. That book begins
+Chaitanya Dasa Acharya, simply Acharya, and Sri Chaitanya Acharya. In its first wave the “Bhakti-ratnakara” calls him simply
+“the brahmana Chaitanya,” in whose house Srinivasa Acharya was born: Chaitanya Dasa is Srinivasa's father. That book begins
 its account of him thus:
 
 “On the bank of the Bhagirathi is the village of Sri Chakhandi; there lives a brahmana named Sri Chaitanya Dasa.
@@ -55,8 +55,8 @@ who they were, he understood only later. They returned home from Ramakeli a few 
 
 ## “Chaitanya! Chaitanya!”
 At last Gangadhara resolved to go to Navadvipa and see Gaura. On the way he came to Kantaka-nagara — and saw people
-running from every side toward Bharati's house. The news had spread like a forest fire: Gaurasundara, whom His devotees
-revere as the Lord Himself, had come to Katwa to accept sannyasa from Keshava Bharati. People hurried to see Him and be
+running from every side toward Bharati's house. The news had spread like a forest fire: Gaurasundara, the Lord whom His devotees
+worship, had come to Katwa to accept sannyasa from Keshava Bharati. People hurried to see Him and be
 purified, and Gangadhara found himself among them. <!-- F10 -->
 
 Everyone marvelled at the Lord's beauty and, learning that His hair was now to be shaved, was overcome with grief; this
@@ -84,7 +84,7 @@ derangement nor an illness of grief. The Lord's name alone, entering his ears, a
 the biographies say, mad with love, intoxicated by it — swimming in a Ganga of his own tears. <!-- F13 -->
 
 In Chakhandi he was met with amazement. One brahmana, looking at him from afar, told another that Gangadhara had lost
-his mind; the other told what had happened at Katwa and did not know how he might be helped. But someone among them
+his mind; the other explained what had happened at Katwa and did not know how he might be helped. But someone among them
 spoke a word that proved prophetic:
 
 “‘He is Chaitanya's servant; Chaitanya will make him well, so I think.’ Saying such things, many [people] call the
