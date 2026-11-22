@@ -2763,7 +2763,7 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^01-33]: From the mangalacharana of the Hari-bhakti-vilasa (first vilasa). The Vaishnava-toshani (322–323) is Sanatana Gosvami's commentary on the tenth canto of the Bhagavata; the verse is from its introduction.
 [^01-34]: The custom of giving an "unattractive" name to a child born after the death of older children, to ward off misfortune.
 [^01-35]: The two brothers are Gaura and Nityananda, who according to tradition dwell in the Deities of Gauridasa Pandita at Ambika (Kalna).
-[^01-36]: Subala is Gauridasa Pandita (according to the GGD, the cowherd boy Subala, Krishna's friend); Shyamananda is the disciple of his disciple Hridaya Chaitanya (Hridayananda). The Shyamananda-shataka is a work on Shyamananda (author not named).
+[^01-36]: Subala is Gauridasa Pandita (according to the GGD, the cowherd boy Subala, Krishna's friend); Shyamananda is the disciple of his disciple Hridaya Chaitanya (Hridayananda). The Shyamananda-shataka is a hundred verses on Shyamananda; by tradition its author is Shyamananda's disciple Rasikananda; Baladeva Vidyabhushana wrote a commentary on it (Narahari does not name the author here).
 [^01-37]: The Deities of Gaura and Nityananda at Ambika (Kalna), served by Gauridasa Pandita and Hridaya Chaitanya.
 [^01-38]: A song from Narottama Dasa's Prarthana ("Gaurangera duti pada").
 [^01-39]: Cf. the Prema-vilasa and the Narottama-vilasa: the name Shyamananda was given by Jiva Gosvami after Duhkhi Krishnadasa found Radha's nupura; here it is only mentioned briefly (in detail in the sixth taranga).

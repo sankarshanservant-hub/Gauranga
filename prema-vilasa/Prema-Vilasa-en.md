@@ -7990,7 +7990,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^12-24]: So the 1999 edition (sadgopa, a farming caste); the 1913 edition has "in the family of the gopijanas" (?).
 [^12-25]: So the 1999 edition; the 1913 edition has "Naradeu" (?).
 [^12-26]: Khanakul, the seat of Abhirama; Gopinatha, the Deity worshipped there.
-[^12-27]: Ambika (Kalna), the seat of Gauridasa Pandita; the Thakura here is his disciple Hridaya Chaitanya, keeper of the images of Chaitanya and Nityananda. Below (220) he is called Thakura Mahashaya — not to be confused with Narottama.
+[^12-27]: Ambika (Kalna), the seat of Gauridasa Pandita; the Thakura here is his disciple Hridaya Chaitanya, keeper of the Deities of Chaitanya and Nityananda. Below (220) he is called Thakura Mahashaya — not to be confused with Narottama.
 [^12-28]: Both editions have "called me" — apparently a corruption or a trace of a first-person account.
 [^12-29]: The natamandira, the open hall in front of a temple's shrine.
 [^12-30]: The 1913 edition here and below often has "Duhkhini Krishnadasa"; so too in places the 1999 edition.
