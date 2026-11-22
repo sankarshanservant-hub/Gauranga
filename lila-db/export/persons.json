@@ -5544,6 +5544,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "deity-served"
    },
@@ -6621,6 +6625,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "deity-served"
    },
@@ -6742,6 +6750,10 @@
   ],
   "related_by": [
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "other"
    },
@@ -6841,6 +6853,10 @@
    {
     "from": "@jahnava",
     "type": "deity-served"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
    },
    {
     "from": "@madhu-pandita",
@@ -11686,6 +11702,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
     "type": "other"
    },
    {
@@ -22795,6 +22815,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    },
@@ -24290,6 +24314,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@lokanatha",
     "type": "companion"
    },
@@ -25209,6 +25237,10 @@
    {
     "from": "@kavi-karnapura",
     "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "siksha-guru"
    },
    {
     "from": "@krishnadasa-mathura",
@@ -26728,6 +26760,10 @@
    },
    {
     "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
     "type": "other"
    },
    {
@@ -32488,6 +32524,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@lokanatha",
     "type": "companion"
    },
@@ -34203,6 +34243,10 @@
     "type": "companion"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@lokanatha",
     "type": "companion"
    },
@@ -35909,6 +35953,10 @@
    {
     "from": "@kavi-karnapura",
     "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "guru"
    },
    {
     "from": "@lokanatha",
@@ -37686,6 +37734,10 @@
     "type": "relative"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@madhu-pandita",
     "type": "met"
    },
@@ -38259,6 +38311,10 @@
    {
     "from": "@kamalakara-pippalai",
     "type": "companion"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
    },
    {
     "from": "@lokanatha",
@@ -39655,6 +39711,10 @@
     "type": "friend"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@madhu-pandita",
     "type": "other"
    },
@@ -40768,6 +40828,10 @@
     "type": "met"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@lokanatha",
     "type": "companion"
    },
@@ -41110,6 +41174,10 @@
    },
    {
     "from": "@jayadeva",
+    "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
     "type": "other"
    },
    {
@@ -42271,6 +42339,10 @@
    {
     "from": "@kashishvara",
     "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
    },
    {
     "from": "@krishnadasa-mathura",
@@ -43465,6 +43537,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@krishnadasa-mathura",
     "type": "other"
    },
@@ -43800,6 +43876,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
    },
    {
     "from": "@lokanatha",
@@ -44153,6 +44233,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@lokanatha",
     "type": "met"
    },
@@ -44447,6 +44531,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@parameshvara-dasa",
     "type": "other"
    },
@@ -44719,6 +44807,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "met"
    },
    {
     "from": "@lokanatha",
@@ -45073,6 +45165,311 @@
    "ev-tattva-chaitanya-gives-rare-prema",
    "ev-tattva-gaura-nitai-names-prema",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Ратнарекха-манджари (Бхактисиддханта,…) и др.; гуру — Рагхунатха Дас (Госвами); происхождение — Джхаматпур; уход — Падманабха маса, Гаура-двадаши — календарь ШЧСМ; самадхи — Храм Радха-Дамодары (Вриндаван), Радха-кунда и Шьяма-кунда",
+  "card": "parshadas/cards/krishnadasa-kaviraja.yaml",
+  "article": {
+   "ru": "parshadas/ru/krishnadasa-kaviraja.md",
+   "en": "parshadas/en/krishnadasa-kaviraja.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "vrindavana",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#jhamatpur?",
+    "conf": "день и год явления источники не называют (Бхактисиддханта, по T 195: «вероятно, ок. 1520 г.»); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет. Место: T (по Бхактисиддханте) — родился в Джхаматпуре; ЧЧ и B — лишь жил там (⚠8).",
+    "facts": [
+     "F7",
+     "F57"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Падманабха маса, Гаура-двадаши (ашвина шукла-двадаши) — календарь ШЧСМ",
+    "place": "#radha-kunda?",
+    "conf": "День — по календарю ШЧСМ (541/ru, проверено 2026-11-22: 23 октября 2026 г., вместе с Рагхунатхой Дасом и Рагхунатхой Бхаттой); так же T 198 (ашвина шукла-двадаши, после Рагхунатхи Даса) и B 504 (один день ухода у трёх). Год — ок. 1616/1617 (Бхактисиддханта, T 195). Предание ПВ 13 — оставил тело у Радха-кунды от горя при вести о похищении книг (ур. C) — B и Бхактисиддханта отвергают (⚠11, ⚠Б6).",
+    "facts": [
+     "F56",
+     "F57",
+     "F59",
+     "F60",
+     "F61",
+     "F62"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#radha-damodara-temple",
+     "facts": [
+      "F58"
+     ],
+     "note": "T 195 — по «Бхумике» Бхактисиддханты, во дворе храма Радха-Дамодары (⚠7)."
+    },
+    {
+     "place": "#radha-kunda",
+     "facts": [
+      "F25",
+      "F58"
+     ],
+     "note": "T 198 — хижина и самадхи на Радха-кунде; M 254 — его бхаджан-кутир на берегу Радха-кунды (⚠7)."
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Шри Чайтанья-чаритамрита»",
+    "facts": [
+     "F26",
+     "F27",
+     "F29",
+     "F30",
+     "F31",
+     "F36",
+     "F37",
+     "F38",
+     "F39",
+     "F40",
+     "F41"
+    ],
+    "note": "заверш. 1537 Шака (1615) по ЧЧ Антья 20.158 ≠ 1503 Шака (1581) по ПВ 24 (⚠6)"
+   },
+   {
+    "title": "«Говинда-лиламрита»",
+    "facts": [
+     "F2",
+     "F43"
+    ]
+   },
+   {
+    "title": "«Саранга-рангада» — комментарий к «Кришна-карнамрите»",
+    "facts": [
+     "F44"
+    ]
+   },
+   {
+    "title": "стотры в разных размерах; «Става-панчака» о Гопале Бхатте (под его именем)",
+    "facts": [
+     "F45"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Ратнарекха-манджари",
+    "source": "Бхактисиддханта, «Бхумика» к ЧЧ (по T 196)",
+    "level": "B",
+    "variants": [
+     "ГГД 167: «Ратнарекха — Кришнадас» без уточнения, какой Кришнадас (⚠12)"
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Кастури-манджари",
+    "source": "«по мнению других» (T 196, без источника)",
+    "level": "D"
+   },
+   {
+    "in": "krishna-lila",
+    "as": "нарма-сахачари (дорогая подруга) Радхи",
+    "source": "сон Вишванатхи Чакраварти (B 974; T 198, по предисловию Б. П. Пури Госвами)",
+    "level": "C",
+    "variants": [
+     "Радха говорит о нём в женском роде (⚠Б7)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@raghunatha-dasa",
+    "note": "ЧЧ Антья 20.97, 20.146 — «мой гуру Шри Рагхунатха дас» («Анубхашья»: научивший бхаджану); ПВ — посвящение от него (T 198); B 629 — принял его своим гуру; жил рядом с ним на Радха-кунде; от него — описания махабхавы последних дней и «кадча» Сварупы (B 1086; T 197); «Мукта-чарита» Рагхунатхи — «силой общения» с Кавираджей (B 649–650); один день ухода (B 504; T 198). = @raghunatha-dasa F65, F120, F125."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Довольный упрёком брату, Нитьянанда явился ему во сне в Джхаматпуре и послал во Вриндаван (ЧЧ Ади 5.180–199); по Его милости — прибежище Госвами и даршан Мадана-Гопала и Говинды (5.200–227); местное предание — посвящение в мантру от Нитьянанды (T 198, ⚠9); ПВ 18.48 — «пишет о себе как об ученике Прабху». = @nityananda F391–F395."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@rupa-gosvami",
+    "note": "Шикша-гуру (ЧЧ Ади 1.36–37); по милости Рупы приблизился к бхакти-расе (5.203); «лучший последователь Рупы» (B 1086; T 198); развернул одиннадцать шлок Рупы в «Говинда-лиламриту» (БР 1.818; B 335, 390). = @rupa-gosvami F106, F324–F325, F355, F563–F566."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@sanatana-gosvami",
+    "note": "Шикша-гуру (ЧЧ Ади 1.36); по милости Санатаны узнал истины бхакти (5.203)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@jiva-gosvami",
+    "note": "Шикша-гуру (ЧЧ; B 534; T 190); заключения ЧЧ — из «Сандарбх» (B 507); силу писать ГЛ обрёл общением с ним (B 534); ЧЧ написана при его жизни (B 522; T 189); поклон Кавираджа в письме Дживы (B 525); клевета о колодце отвергнута (T 190; B 524–525). = @jiva-gosvami F6, F81, F99–F101, F105, F361."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@gopala-bhatta",
+    "note": "Один из шести шикша-гуру (B 605); дал позволение писать ЧЧ, но запретил писать о себе (БР 1.222–224; B 606–607; T 176, 179); «Става-панчака» о нём — под именем Кавираджа (B 602)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@raghunatha-bhatta",
+    "note": "Один из шести наставников (ЧЧ Ади 1.36); один день ухода (B 504). = @raghunatha-bhatta F31–F32."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Записи («кадча») Сварупы, сохранённые Рагхунатхой, — основа поздних игр в ЧЧ (Мадхья 2.84; Антья 3.267–268, 14.7–9; T 197; B 229); прибежище у его стоп — по милости Нитьянанды (Ади 5.202)."
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha",
+    "note": "Благословил писать ЧЧ, но запретил писать о себе (БР 1.225; B 1075; T 151; M 98); с ним и Рагхунатхой — на Радха-кунде («Карнананда» 4). = @lokanatha F57."
+   },
+   {
+    "type": "other",
+    "who": "@bhugarbha",
+    "note": "С его и Локанатхи разрешения начал писать последние игры; Бхугарбха и ученики хотели слышать о Гауре (ЧЧ Ади 8.68–69; B 265–267). = @bhugarbha F33."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-pandita-govinda",
+    "note": "По его милости и велению взялся описать последние игры (ЧЧ Ади 8.59–65)."
+   },
+   {
+    "type": "other",
+    "who": "@madana-mohana-vrindavana",
+    "note": "Гирлянда Мадана-Гопалы — позволение писать (ЧЧ Ади 8.73–77); «Мадана-мохан диктует» (8.78–79); принял Его своим Божеством (8.80); «Сам Мадан-Гопал повелел» (Антья 20.99); первый поклон ЧЧ — Радха-Мадана-мохану (Ади 1.15). ⚠15, ⚠Б2."
+   },
+   {
+    "type": "other",
+    "who": "@gosani-dasa-pujari",
+    "note": "Надел ему гирлянду Мадана-Гопалы (ЧЧ Ади 8.74–76)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-deity",
+    "note": "По милости Нитьянанды — неземной даршан Шри Говинды (B 1086, по скану; ЧЧ Ади 5.217–227); поклон Радха-Говиндадеве (Ади 1.16)."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-vrindavana",
+    "note": "Поклон Гопинатхе в начале ЧЧ (Ади 1.17, 1.19; M 177–178)."
+   },
+   {
+    "type": "sibling",
+    "who": "@kaviraja-brother",
+    "note": "Верил в Чайтанью, но не в Нитьянанду; поспорил с Минакетаной и лишился преданности; Кавираджа укорил его (ЧЧ Ади 5.172–178); имя «Шьямадас» — только ГВА (T 196). ⚠Б4."
+   },
+   {
+    "type": "guest",
+    "who": "@minaketana-ramadasa",
+    "note": "Гость на суточном киртане в его доме в Джхаматпуре (ЧЧ Ади 5.161–178); Кавираджа встал на его сторону. = @minaketana-ramadasa F9–F22."
+   },
+   {
+    "type": "other",
+    "who": "@gunarnava-mishra",
+    "note": "Брахман, служивший Божеству в его доме; не приветствовал Рамадаса (ЧЧ Ади 5.168–171; B — «не чтил имени Нитьянанды», ⚠1)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Почтил как Вьясу игр Чайтаньи (ЧЧ Ади 8.34–40, 13.48; Антья 20.82); лишь упоминал описанное им, восполнял опущенное (Мадхья 4.5–9); по мнению некоторых, с Лочаном дал ЧБ её имя (T 194; M 78). = @vrindavana-dasa F24."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Шриниваса на Радха-кунде получил его милость (БР 4.393–396 A, T «4.392»; B 666; M 192; T 205); БР 5.701–702 — любил его как свою жизнь. = @srinivasa-acharya F55, F79."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Нароттама считал его средоточием круга преданных после шести Госвами, черпал у него вдохновение (B 1086); песни Нароттамы о нём (T 198, 210; ⚠4)."
+   },
+   {
+    "type": "met",
+    "who": "@shyamananda",
+    "note": "Благословил его (B 1104); ПВ 12.306–312 — принял пришедшего Духкхи Кришнадаса в своей хижине. Его прежнее имя «Духкхи Кришнадас» — тёзка: M pdf 243–249 — глава о Шьямананде, не о Кавирадже."
+   },
+   {
+    "type": "met",
+    "who": "@ramachandra-kaviraja",
+    "note": "Рамачандра получил даршан его стоп на Радха-кунде (M 199)."
+   },
+   {
+    "type": "met",
+    "who": "@govinda-kaviraja",
+    "note": "БР 11.268 (изд. A) — обнял Говинду Кавираджу при прощании; поклон Кавираджа — в письме Дживы Говинде (по нашему переводу ПВ)."
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra",
+    "note": "Вышел встречать Вирачандру во Вриндаване (B 1095; M 15; БР 13)."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "note": "ПВ 16.164 — почтил Джахнаву у Радха-кунды (ур. C; по ПВ 13 он к тому времени уже ушёл — противоречие ПВ)."
+   },
+   {
+    "type": "disciple",
+    "who": "@mukunda-dasa-radhakunda",
+    "note": "Ученик, жил в его бхаджан-кутире на Радха-кунде (M 254–255); шила Говардханы — после него у Мукунды («Нароттама-виласа», прил., ур. C); «копия Мукунды» — в отвергнутой клевете (T 190; B 524)."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@vishvanatha-chakravarti",
+    "note": "Поселился в его бхаджан-кутире; во сне Радха подтвердила правоту Кавираджа о 24½ слогах (B 974; T 198); шикша-парампара Бхактисиддханты (M 255). = @vishvanatha-chakravarti F29, F39, F59–F61."
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "Во сне Вишванатхи называет его «Моя дорогая подруга / нарма-сахачари» (B 974; T 198; ⚠Б7)."
+   },
+   {
+    "type": "other",
+    "who": "@prabodhananda-sarasvati",
+    "note": "По T 180 — через Гопалу Бхатту просил не описывать его в ЧЧ."
+   },
+   {
+    "type": "other",
+    "who": "@raghava-gosvami-govardhana",
+    "note": "Вместе на Радха-кунде оказали милость Шринивасе (БР 4; B 666; M 192)."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "note": "Два потока рага-бхаджана Сварупы: Рагхунатха — Кавираджа и Вакрешвара — Гопала Гуру (B 274; T 202)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Бхумика» к изд. ЧЧ Гаудия-матха (по T 195–196): происхождение, варна, ашрам, Ратнарекха; годы ок. 1520 — ок. 1616/17; «Анубхашья» к Ади 10.85 — опровержение клеветы; о верховенстве ЧЧ (T 198); предупреждение о расе (B 1086)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья»: ЧЧ — суть «кадчи» Сварупы, которую Рагхунатха знал наизусть (T 197, 131)."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Предисловие к изд. ЧЧ Шри Чайтанья Гаудия Матха: поручение вайшнавов, гирлянда, сон Вишванатхи (по T 197–198)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "БР 1.215–225 — о его книге и запретах Госвами; «Намамрита-самудра» 266 — молитва к нему."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-brahmachari",
+    "note": "Тёзка, не путать: служитель Мадана-мохана (ГГД 164); стоит рядом в списке встречавших Вирачандру (B 1095; M 15)."
+   }
   ],
   "related_by": [
    {
@@ -46645,6 +47042,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@krishnadasa-mathura",
     "type": "other"
    },
@@ -47370,6 +47771,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
    },
    {
     "from": "@rupa-gosvami",
@@ -49573,6 +49978,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@krishnadasa-mathura",
     "type": "other"
    },
@@ -49865,6 +50274,10 @@
    },
    {
     "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
     "type": "other"
    },
    {
@@ -50442,6 +50855,10 @@
    {
     "from": "@kavi-karnapura",
     "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "lineage-successor"
    },
    {
     "from": "@lokanatha",
@@ -54401,6 +54818,10 @@
     "type": "friend"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "servant"
    }
@@ -54422,6 +54843,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
    },
    {
     "from": "@krishnadasa-mathura",
@@ -59187,6 +59612,10 @@
     "type": "companion"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "guest"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    }
@@ -59205,6 +59634,10 @@
    "ev-minaketana-ramadasa-kaviraja-house"
   ],
   "related_by": [
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
    {
     "from": "@minaketana-ramadasa",
     "type": "opposed"
@@ -59228,6 +59661,10 @@
    "ev-minaketana-ramadasa-kaviraja-house"
   ],
   "related_by": [
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "sibling"
+   },
    {
     "from": "@minaketana-ramadasa",
     "type": "opposed"
@@ -59622,6 +60059,12 @@
   ],
   "events": [
    "ev-kaviraja-ordered-to-write-cc"
+  ],
+  "related_by": [
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   }
   ]
  },
  {
@@ -61033,6 +61476,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@krishnadasa-kaviraja",
     "type": "other"
    },
    {
@@ -64904,6 +65351,10 @@
     "type": "other"
    },
    {
+    "from": "@krishnadasa-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "siksha-disciple"
    },
@@ -67375,6 +67826,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@krishnadasa-kaviraja",
+    "type": "disciple"
+   },
    {
     "from": "@vishvanatha-chakravarti",
     "type": "siksha-guru"
