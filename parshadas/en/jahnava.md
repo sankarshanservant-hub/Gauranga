@@ -234,8 +234,8 @@ deep feelings lived in the child, Jiva and the other Vaishnavas of Vraja named h
 ## Return to Gauda
 Jahnava's journey home, like her journey to Vraja, became a pilgrimage to the places of the Lord's associates.[^14] First
 came Kheturi: Narottama and Ramachandra Kaviraja received her there, and she stayed with them three or four days. Then
-Budhari, the home of Ramachandra Kaviraja in the present district of Murshidabad. From Kheturi Narottama and Ramachandra
-went with her and escorted her by way of Budhari and Ekachakra all the way to Yajigrama (“Bhakti-ratnakara,” 11.361,
+Budhari, in the present district of Murshidabad, where Ramachandra Kaviraja and his brother Govinda lived. From Kheturi Narottama and Ramachandra
+went with her and escorted her by way of Budhari and Ekachakra all the way to Yajigrama (“Bhakti-ratnakara,” 11.358–361,
 11.397, 11.404, 11.686). <!-- F81 F82 F117 -->
 
 In Budhari lived Shyamadasa Chakravarti, the brother of Vamshidasa. Jahnava proposed that his daughter Hemalata be given
