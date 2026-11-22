@@ -86,7 +86,7 @@ him.” (“Bhakti-ratnakara” 1.285–286) <!-- F24 Q3 -->
 When Narottama was twelve years old, Nityananda told him in a dream to bathe in the Padmavati and receive the prema kept
 for him. The next morning, as soon as he stepped into the water, the river overflowed its banks, and the Padmavati,
 remembering the Lord's words, gave him what had been entrusted to her. This wonder is not the power of a river: the
-Padmavati only returned what the Lord had given into her keeping — the mercy of Mahaprabhu and Nityananda, His tears of
+Padmavati only returned what the Lord had given into her keeping — the mercy of Mahaprabhu and Nityananda, Nityananda's tears of
 love. Having bathed at Prematali, Narottama was at once filled with prema and resolved to leave his family and go to
 Vrindavana. <!-- F11 -->
 
@@ -207,8 +207,8 @@ sorrows he was brought to Vraja — and now he is far from it once more. <!-- F4
 While Srinivasa was recovering the books, Narottama travelled through Gauda. First of all he came to Mahaprabhu's
 birthplace, Mayapur-Navadvipa. On the bank of the Ganga he cried out hundreds of times, “O Gaurahari!” Sitting under a
 palm tree and wondering where the Lord's birthplace might be, he met an old brahmana. Learning who he was, the old man
-burst into tears: “Every day Nimai Pandita sits with His students on this ghat and explains the shastras, and I gaze from
-afar at His wonderful form. Today I remember how He sat under this tree.” Narottama touched his feet with his head, and
+burst into tears: “Every day Nimai Pandita would sit with His students on this
+ghat and explain the shastras, and I would gaze from afar at His wonderful form. Today I remember how He sat under this tree.” Narottama touched his feet with his head, and
 the brahmana blessed him: “Soon you will attain devotion to the feet of Govinda and will preach the glory of
 Gaura-Govinda everywhere,” and showed him the way to the house of Jagannatha Mishra. <!-- F43 F44 -->
 
@@ -336,7 +336,7 @@ Krishnadasa, Damodara, Balarama Dasa, Mukunda and Vrindavana Dasa Thakura. From 
 from Navadvipa Shripati and Shrinidhi, from Shantipura Advaita's sons Achyutananda, Gopala and Krishna Mishra, from
 Ambika-Kalna Hridaya Chaitanya, from Nrisimhapura Shyamananda with his people. Srinivasa with the devotees set out from
 Budhari, from the house of Govinda Kaviraja. Achyutananda was received with great reverence: the festival took place
-almost half a century after the Lord's departure. Srinivasa, his disciple Ramachandra and Ramachandra's brother Govinda
+almost half a century after the Lord's withdrawal. Srinivasa, his disciple Ramachandra and Ramachandra's brother Govinda
 worked hard for the festival's success. <!-- F66 -->
 
 Santosha provided a huge boat for the crossing, palanquins and carts. Srinivasa, Narottama and the raja met the guests
@@ -479,14 +479,15 @@ every mood. His influence reached even distant Manipur: there it is acknowledged
 power, and his songs are sung in every home. The “Prema-vilasa” (17) tells of the “Prema-bhakti-chandrika.”[^18]
 <!-- F85 F87 -->
 
-The biographies quote much from his songs. In the “Prarthana” he prays to Nityananda (“Ara kabe nitai chand…”) and to
+The biographies quote much from his songs. In his songs he prays to Nityananda (“Ara kabe nitai chand…”) and to
 Advaita, remembers his guru (“Ha ha prabhu Lokanatha…”), laments bitterly that he did not serve the feet of the nine
 Gosvamis, among whom he names Bhugarbha and Lokanatha (“Hari hari, ki mora karama-gati manda…”), sings of Rupa and Sanatana
 and of Gauranga (“Bane te thake ha Gauranga…”; “Vrajendra-nandana yei, shachi-suta haila sei” — “He who is the son of the
 king of Vraja has become the son of Shachi”). The songs about Sri Rupa-manjari — “Sri rupa-manjari-pada sei mora
 sampada…,” “Shuniyachhi sadhu-mukhe…,” “Ei nava-dasi bali…,” “Sri-rupa-pashchate ami…” — speak of service in Rupa's
-footsteps. The “Prema-bhakti-chandrika” opens with a mangalacharana to Rupa; in it are “Jaya sanatana rupa
-prema-bhakti-rasa-kupa…,” “Ana katha ana vyatha…,” “Shuniya govinda-raba….” Srila Bhaktisiddhanta in the “Anubhashya”
+footsteps. The “Prema-bhakti-chandrika” opens with a
+mangalacharana to Rupa, and from it too comes “Shuniya govinda-raba…”; the biographies also quote the lines “Jaya
+sanatana rupa prema-bhakti-rasa-kupa…” and “Ana katha ana vyatha….” Srila Bhaktisiddhanta in the “Anubhashya”
 quotes his lines on the devotee's only wealth:
 
 “Thakura Narottama says: ‘My wealth is Nityananda’; ‘The feet of Sri Radha and Krishna are the wealth of my life’; ‘Glory
