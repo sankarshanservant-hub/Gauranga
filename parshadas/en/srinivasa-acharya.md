@@ -31,14 +31,17 @@ sampradaya. <!-- F6 -->
 ## The Prophecy at Puri
 Srinivasa's father, Gangadhara Bhattacharya, was a Vaishnava brahmana of the village of Chakhandi on the bank of the
 Ganga, a Rarhi brahmana of high family; Karnapura Kaviraja names his line as Ratiya Ghanteshvari. Chakhandi (Chakhundi)
-lies near Kantakanagara, that is, Katwa, north of Agradvipa in the Nadia district; today one reaches it from Daihat
-station on the Bardhaman–Katwa railway. Until the age of fifty Gangadhara had no son. <!-- F7 F8 -->
+lies on the Ganga near Kantaka-nagara, that is, Katwa; today one reaches it from Daihat station on the Bardhaman–Katwa
+railway (according to another biography, it lies north of Agradvipa in the Nadia district). According to one of the
+biographies, Gangadhara was already about fifty and still had no son. <!-- F7 F8 -->
 
 When the Lord accepted sannyasa at Katwa, Gangadhara was there. He saw the barber Madhu weeping as he shaved the Lord, and
 the crowd sobbing; at the sight he fell senseless. Hearing the Lord's new name — Sri Krishna Chaitanya — he began to
 repeat it endlessly through his tears, crying, “Ha Chaitanya!” Forgetting to bathe or eat, intoxicated by that name, he
-went back to Chakhandi. People took him for a madman, but the discerning saw that he had gone mad with love for
-Chaitanya, called him Sri Chaitanya Dasa, and said that Chaitanyadeva Himself would cure him. The name stayed with him.
+went back to Chakhandi. His fellow villagers took him for a madman, but one of them said, “He is Chaitanya's servant;
+Chaitanya will make him well,” and all began to call him Sri Chaitanya Dasa (“Bhakti-ratnakara” 2.56–59); according to
+one of the biographies, it was the discerning who so named him, seeing that he had gone mad with love for Chaitanya. The
+name stayed with him.
 <!-- F9 -->
 
 His wife, Lakshmipriya-devi, was the daughter of Balarama Vipra of Yajigrama, near Shrikhanda. Balarama was a pandita
@@ -61,8 +64,8 @@ My pure prema; seeing him, all will rejoice at heart. Let the brahmana go quickl
 
 That same night Jagannatha appeared to Chaitanya Dasa in a dream and told him to return home, for a son would soon be born
 to him. The Lord told the couple not to delay, to go to Gauda and to perform nama-sankirtana constantly. Chaitanya Dasa
-did so on his return, and sankirtana became the custom of his village and of the neighbouring ones. The villagers, who
-had once shunned the childless couple, now praised their good fortune. <!-- F14 -->
+did so on his return, and sankirtana became the custom of his village and of the neighbouring ones. And when the son was
+born, even the villagers who had once shunned the childless couple praised their good fortune. <!-- F14 -->
 
 ## Childhood
 On the purnima of the month of Madhusudana (Vaishakha-purnima), under the nakshatra Rohini, a son of wondrous form
@@ -390,7 +393,7 @@ went round Katwa, Navadvipa and other holy places. <!-- F80 -->
 Narahari, Raghunandana and all the people of Shrikhanda loved him with a father's love. Srinivasa's mother, as his father
 had before, wished him to marry, and spoke of it to Narahari. Narahari, though he himself displayed renunciation,
 persuaded Srinivasa: “Obey your mother”; so Sri Sarakara Thakura arranged his marriage (“Bhakti-ratnakara,” 1.883). Even earlier Srinivasa had received the same command
-in a dream from Advaita. Abashed, he agreed without waiting to be told twice. Gadadhara Dasa at Kantakanagara blessed
+in a dream from Advaita. Abashed, he agreed without waiting to be told twice. Gadadhara Dasa at Kantaka-nagara blessed
 him: “You will taste the nectar of the Lord's sankirtana among His associates; go and marry.” Raghunandana came to
 Yajigrama and arranged the wedding. Thus Srinivasa's marriage was arranged by Narahari and other renounced associates of
 Gaura. <!-- F81 Q27 -->
@@ -600,8 +603,9 @@ Srinivasa, Ramachandra went once more to Vrindavana. <!-- F125 -->
 Yadunandana Dasa, a disciple of Hemalata,[^18] rendered many books of the Gosvamis into Bengali verse and became a
 well-known padakarta. In his verses he says, “My Prabhu is Acharya Thakura, who generously gave away in Gauda the treasure
 of the pastimes of Radha-Krishna”; and in the “Govinda-lilamrita”: “Thakura Srinivasa Acharya and Hemalata are servants of
-Chaitanya Dasa; longing for their feet, Yadunandana, an ambashtha, speaks in the vernacular” (an ambashtha is one of the physicians'
-caste). He apparently heard the
+the servant of Sri Chaitanya; longing for their feet, Yadunandana, an ambashtha, speaks in the vernacular” (an ambashtha is one of the physicians'
+caste; the words “sri-chaitanya-dasera dasa” can also be read as “servants of Sri Chaitanya Dasa,” that is, of
+Srinivasa's father — whom the verse means is unclear). He apparently heard the
 story of Gopala Bhatta from Srinivasa himself. <!-- F126 Q11 -->
 
 The “Prema-vilasa,” at the end of vilasa 18 (Baharampur edition), lists the branches of the “wish-fulfilling tree of
@@ -699,7 +703,7 @@ books, and through Srinivasa He gave them to Gauda. <!-- F138 F13 -->
     verses; according to another, by the Gosvamis of Vrindavana.
 [^14]: According to another biography, Narahari and Gadadhara Dasa departed only after Srinivasa's second visit to
     Vrindavana: on his return he learned of Narahari's departure only at Shrikhanda and fell senseless, and Raghunandana,
-    seeing him, was a little consoled in his grief; of Gadadhara Dasa's departure he learned at Kantakanagara. The news of
+    seeing him, was a little consoled in his grief; of Gadadhara Dasa's departure he learned at Kantaka-nagara. The news of
     Dvija Haridasa's departure, according to the same biography, reached Vrindavana while he was there.
 [^15]: The biographies differ in the order of events: according to one — Kheturi, then the circuit of Navadvipa,
     Yajigrama, Shrikhanda, Budhari and Kheturi again; according to another — Kheturi, Yajigrama, Navadvipa, Shrikhanda;

@@ -254,7 +254,7 @@ be born to his daughter. <!-- F38 -->
 
 In due time, “on the full-moon day of Vaishakha, under the nakshatra Rohini” (“Bhakti-ratnakara” 2.156), a son was born
 in Chakhandi, to the joy of all the villagers.[^7] One of the biographies adds that now even those who had once kept
-away from the childless couple praised their good fortune and brought suitable presents. At the hour of his son's birth
+away from the childless couple lauded their good fortune and came bearing suitable presents. At the hour of his son's birth
 Chaitanya Dasa saw various mysteries in a dream. <!-- F38 F39 Q3 -->
 
 In great joy father and mother offered the newborn at the feet of Gaurachandra. At the birth celebration brahmanas and
