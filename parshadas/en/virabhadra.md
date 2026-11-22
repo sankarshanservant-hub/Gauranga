@@ -39,13 +39,13 @@ Adi 11.8, and the “Bhakti-ratnakara” cites it in the account of his marriage
 means that he is *vishnu-tattva*, the Lord Himself; so the biographies explain it, too. <!-- F2 F6 Q3 -->
 
 Srila Bhaktivinoda Thakura writes in his “Amrita-pravaha-bhashya” on CC, Adi 11.9 that Virachandra Prabhu is this
-*vyuha* of Sankarshana, Payobdhishayi, and that, though the Lord Himself, he regarded himself as a Vaishnava; one of the
+*vyuha* of Sankarshana, Payobdhishayi, and that, though he is the Lord Himself, he counted himself a Vaishnava; one of the
 biographies says the same in almost the same words.[^2] The biographies unfold the thought: Nityananda is non-different
 from Baladeva; a portion of Baladeva is the Mahasankarshana of Vaikuntha; His third *purusha-avatara* is Kshirodakashayi
-Vishnu, the maintainer of each individual universe, who is also Aniruddha, the Indweller in the heart of every living
+Vishnu, who sustains every separate universe and is also Aniruddha, the Indweller in the heart of every living
 being[^3] — and this Lord appeared as the son of Nityananda and Vasudha. Srila Bhaktisiddhanta teaches that Vasudha's son
-is eternally known as Sri Virabhadra Prabhu, Kshirodakashayi Vishnu, the Vishnu of an individual universe
-(*vyashti-Vishnu*), eternally manifest in Goloka. <!-- F3 F4 -->
+is known for ever as Sri Virabhadra Prabhu — Kshirodakashayi Vishnu, the Vishnu of a single universe
+(*vyashti-Vishnu*), ever present in Goloka. <!-- F3 F4 -->
 
 Nityananda's pastimes are eternal, Srila Bhaktisiddhanta continues, and so is Virabhadra's appearance; there is nothing
 material in them, and one who relies on worldly judgement will not see Nityananda. He and His eternal associates can be
@@ -74,8 +74,8 @@ names the year of his appearance.[^5] <!-- F14 -->
 
 ## Disciple of Jahnava Mata
 Virachandra received initiation from Jahnava, his mother and guru; so say the “Anubhashya” and all the biographies.
-According to the “Prema-vilasa,” he once saw Jahnava in a four-armed form; his heart was changed, and he resolved to
-accept her as his *diksha-guru*.[^6] <!-- F23 Q7 -->
+According to the “Prema-vilasa,” he once beheld Jahnava with four arms; his heart was changed, and he resolved to
+take her as his *diksha-guru*.[^6] <!-- F23 Q7 -->
 
 When Jahnava returned from Vraja, Nityananda's son and daughter welcomed her in Khardaha. “Ganga and Virachandra bowed
 with great joy at Jahnava's feet,” says the “Bhakti-ratnakara,” “and looking at their faces she shed tears of
@@ -84,8 +84,8 @@ Virabhadra about the journey she had made. <!-- F45 -->
 
 ## Shrimati and Narayani
 Jahnava also saw to his marriage. The “Bhakti-ratnakara” (13.249–267) tells it so: near Rajbal-hat lies the village of
-Jhamatpur (Hooghly district). Jahnava came there, to the temple of one of her servant-disciples, the brahmana
-Yadunandana Acharya, who by her mercy had become filled with bhakti. His wife Lakshmi was chaste and devoted to her
+Jhamatpur (Hooghly district). Jahnava came there, to the temple of a servant of hers who was her disciple, the brahmana
+Yadunandana Acharya, who by her mercy had become filled with bhakti. His wife Lakshmi was a chaste wife, given wholly to her
 husband, and their daughters Shrimati and Narayani were of matchless beauty; at Jahnava's wish this fortunate brahmana
 gave both to Virabhadra. At the wedding Virachandra made Yadunandana his disciple, and Jahnava accepted Shrimati and
 Narayani as her disciples. Narahari Chakravarti calls the bridegroom here the greatly effulgent son of Nityananda, whose
@@ -146,18 +146,18 @@ The road led through the homes of the Lord's associates. In Saptagrama, at the h
 Srinivasa Datta Thakura received him respectfully; Virachandra spent two days there absorbed in kirtana — “in the house of
 a most virtuous merchant,” as the “Bhakti-ratnakara” says — and bestowed bhakti on the fallen (13.284–286). In
 Shantipur, at Advaita's house, Advaita's son Sri Krishna Mishra welcomed him warmly; there was sankirtana, all were
-drowned in the sweet waves of the holy name, and Virachandra spoke with Krishna Mishra in private (13.286–288). In
+drowned in the sweet waves of the Name, and Virachandra spoke with Krishna Mishra in private (13.286–288). In
 Ambika-Kalna, at the house of Gauridasa Pandita, Hridaya Chaitanya received him with great love (13.288). In Navadvipa,
 at the house of Jagannatha Mishra, he spent two days; the followers of Sri Chaitanya, seeing Nityananda's son, rejoiced
 and received him joyfully (13.289–290). <!-- F25 F26 F27 F28 -->
 
 In Shrikhanda Kanai Thakura, the son of Raghunandana, came out to meet him, and Virachandra stayed there for some
 time.[^8] In Yajigrama Srinivasa Acharya came out with his companions and with great care brought him into the house;
-knowing him to be the Supreme Lord, he worshipped him with great devotion. For several days there was a great festival
+recognising in him the Supreme Lord, he worshipped him with great devotion. For several days there was a great festival
 of sankirtana, all were absorbed in talks of Krishna, and Virachandra spoke with the Acharya in private (13.293–295).
 <!-- F29 F30 -->
 
-Srinivasa went on with him. In Kantaka-nagara, near Katwa, where Mahaprabhu accepted sannyasa, they spent a day and a
+Srinivasa went on with him. In Kantaka-nagara by Katwa — the place of Mahaprabhu's sannyasa — they spent a day and a
 night in prema; there Virachandra took leave of the Acharya and went on to Kheturi by way of Budhari (13.296–298). In
 Budhari, according to one biography and the “Narottama-vilasa,” Govinda Kaviraja received him, worshipped him with great
 devotion, and the pleased Virachandra stayed with him two days. <!-- F31 -->
@@ -191,8 +191,8 @@ In Vrindavana, learning of his coming, the Vaishnavas came out to meet him. Acco
 *adhikari* of Govinda — and his disciple Haridasa Pandita, also an *adhikari* of Govinda; another disciple of Gadadhara,
 Gosai Gopala Dasa; the *adhikari* of Gopinatha, Madhu Pandita, also a disciple of Gadadhara, and his godbrother
 Bhavananda, the servant of Gopinatha; the disciples of Kashishvara Gosani — Govinda Gosani and Sri Yadavacharya — and
-many others.[^10] All the residents of Vrindavana rejoiced at his darshan; there was no one who was not moved by his
-ecstatic bhakti, and the Vaishnavas of Vraja sang his virtues. Together with everyone he visited the Deities of Sri
+many others.[^10] The Vrajavasis rejoiced to see him; none remained unmoved by his
+ecstatic bhakti, and the Vaishnavas of Vraja sang his virtues. Together with everyone he went for darshan of Sri
 Govinda, Sri Gopinatha and Sri Madana-mohana, and also Radha-vinoda, Radha-ramana and Radha-Damodara (13.325–328).
 <!-- F34 F35 -->
 
@@ -224,12 +224,12 @@ the Lord Himself appears in the stone to accept the service of His devotees. <!-
 
 In the old temple of Shyamasundara a manuscript of the “Bhagavatam” is kept, copied, by tradition, by Virabhadra, and
 in the opinion of some by Nityananda Himself. Virachandra established in Khardaha the festival of Nityananda's
-appearance. The service of the Deities in his time was generous: for the offering they cooked rice from one and a half
-*maunds* of unhusked grain, with other foodstuffs in proportion. The present managers of the Khardaha temple preserve
+appearance. The service of the Deities in his time was generous: for the offering they cooked rice from a maund and a half
+of unhusked grain, with other foodstuffs in proportion. Those who now look after the Khardaha temple preserve
 many traditions about him. <!-- F40 F41 F42 F43 -->
 
 He is remembered in his father's birthplace, too. Ekachakra — with Garbhavasa and other places near Mallarpur station —
-was later named Birachandrapur after Sri Birachandra Prabhu; the servants of the Deities there come from the line of
+was later called Birachandrapur, in honour of Sri Birachandra Prabhu; the servants of the Deities there come from the line of
 Gopijana-vallabha, his eldest disciple-“son.” <!-- F44 F21 -->
 
 ## With the Acharyas of the New Generation
@@ -254,8 +254,8 @@ writes Srila Bhaktisiddhanta in his “Gaudiya-bhashya” on CB, Adi 14.86–87:
 rejected him”; disregard
 for the guru is no small matter, and he guarded the purity of the teaching firmly. <!-- F53 -->
 
-After Mahaprabhu's disappearance there was confusion in the Vaishnava world. In the Prabhu's family there was no
-suitable person, various doctrines crept into the community, and Gauda was left without the guidance of an acharya.
+When Mahaprabhu had disappeared, the Vaishnava world was in turmoil. No fit person was found in the Prabhu's
+family, various doctrines crept into the community, and Gauda was left without the guidance of an acharya.
 Prabhu Sri Virachandra, by his independent nature, did not take on the governance of all Gauda — this independence is
 the freedom of Ishvara, not a flaw — and the Lord arranged the matter otherwise: Sri Jiva sent Srinivasa, Narottama and
 Shyamananda to Gauda. <!-- F54 -->
@@ -278,9 +278,9 @@ garland-prasada of Virabhadra, and that after Nityananda's departure the mahanta
 <!-- F58 -->
 
 ## Disciples Renowned as Sons
-Virachandra had no children of his own by his wives.[^13] Three disciples became renowned as his sons:
-Gopijana-vallabha, Ramakrishna and Ramachandra. The eldest, Gopijana-vallabha, lived in the village of Lata near Mankar
-(Bardhaman district); the middle one, Ramakrishna, near Maldah, in Gayeshpur;[^14] the youngest, Ramachandra, in
+Virachandra had no children of his own by his wives.[^13] Three of his disciples, Gopijana-vallabha,
+Ramakrishna and Ramachandra, became renowned as his sons. The eldest, Gopijana-vallabha, lived in the village of Lata near Mankar
+(Bardhaman district); Ramakrishna, the second, near Maldah, in Gayeshpur;[^14] the youngest, Ramachandra, in
 Khardaha. Ramachandra was a pure *shrotriya* brahmana of the Batavyal family, of the Shandilya *gotra*. So writes Srila
 Bhaktisiddhanta in the “Anubhashya” on CC, Adi 11.8. <!-- F17 F18 -->
 
@@ -293,7 +293,7 @@ Radhamadhava, was Yadavendra; then came Nandakishora, Nidhikrishna, Chaitanya-ch
 Vrajanatha and Shyamalal Goswami, whom the “Anubhashya” speaks of as already departed. The biographies add that
 Ramachandra founded in Khardaha his own line, known as the “Khardaha Goswamis.”[^15] <!-- F20 -->
 
-A large community formed around Virabhadra: twelve hundred *neras* and thirteen hundred *neris* — monks and nuns who had
+A large community formed around Virabhadra: 1,200 *neras* and 1,300 *neris* — monks and nuns who had
 controlled their senses. Later bad customs appeared among them, eating fish became habitual, and many lost people's
 respect. The followers' departure from the teaching does not diminish Virabhadra himself. <!-- F22 -->
 
@@ -390,7 +390,7 @@ branches: by his mercy the whole world sings the names of Chaitanya and Nityanan
 [^10]: The lists of those who met him in the biographies differ from the “Bhakti-ratnakara.” One names “Gopinatha
     Adhikari” separately from Madhu Pandita, though by the “Bhakti-ratnakara” the *adhikari* of Gopinatha is Madhu Pandita
     himself; at the end of its list it has Madhavacharya, where the “Bhakti-ratnakara” has Yadavacharya, Kashishvara's
-    second disciple; it also names Krishnadasa Brahmachari, a disciple of Gadadhara and servant of Madana-Gopala, whom the
+    second disciple; it also names Krishnadasa Brahmachari, Gadadhara's disciple and the servant of Madana-Gopala, whom the
     “Bhakti-ratnakara” does not mention here. Two biographies place Kashishvara himself among those who met him, but the
     “Bhakti-ratnakara” names him only in order to name his disciples: he had left this world already in Srinivasa's time
     (BR 6.444). One biography calls Ananta Acharya and Haridasa Pandita pujaris of Madana-mohana; by the
