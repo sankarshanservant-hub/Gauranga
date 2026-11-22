@@ -385,3 +385,4 @@
 | #latagrama | Лата (Латаграм) | Lata (Latagrama) | деревня близ Манкара (округ Бардхаман); жил @gopijanavallabha, старший «сын»-ученик @virabhadra (B 1096, 115; T 201; M 16) |
 | #gayeshpur | Гаешпур (Ганешпур) | Gayeshpur (Ganeshpur) | селение близ Малдаха; жил @ramakrishna-virachandra (B 115, T 201, M 16 — Гаешпур; B 1096 — Ганешпур) |
 | #kotalpur | Котулпур (Котальпур) | Kotulpur (Kotalpur) | округ Банкура (Бенгалия); живут потомки родичей поэта @jnanadasa (B 1097) |
+| #balarampura | Баларампур (Бара-Баларампур) | Balarampura (Bara-Balarampura) | селение в Уткале (Мединипур); проповедь и праздник @shyamananda (M 213; ПВ 20; «Расика-мангала») |

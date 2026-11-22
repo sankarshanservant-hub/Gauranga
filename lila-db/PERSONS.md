@@ -837,3 +837,4 @@
 | @abhaya-dasi | Абхая Даси (бабушка Лочана Даса) | Abhaya Dasi (Lochana Dasa's grandmother) | бабушка @lochana-dasa (ЧМ, Шеша 94+62) |
 | @yadunandana-jhamatpur | Ядунандана (Ядунатха) Ачарья из Джхаматпура | Yadunandana (Yadunatha) Acharya of Jhamatpur | брахман из Джхаматпура (Хугли, близ Раджбал-хата), по милости Джахнавы — преданный; тесть и ученик @virabhadra, отец @shrimati-virachandra (БР 13.249–255; B 1095, 115; T 201; M 13–14); не путать с @yadunandana-acharya |
 | @manohara-dasa-aul | Манохара Дас (Баба Аул) | Manohara Dasa (Baba Aul) | ученик Джахнавы, друг и собрат поэта @jnanadasa; составитель «Падасамудры» (B 1097; ГПТ1) |
+| @shyamasundara-vrindavana | Радха-Шьямасундара — Божество Шьямананды во Вриндаване | Radha-Shyamasundara, Shyamananda's Deity in Vrindavana | Божество, которому поныне поклоняются ученики линии @shyamananda (T 215); матх «Шьямасундара-кунджа», основанный Шьяманандой (B 976); не путать с @shyamasundara-khardaha |
