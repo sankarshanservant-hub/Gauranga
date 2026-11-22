@@ -832,3 +832,7 @@
 | @pragalbha-bhattacharya | Прагалбха Бхаттачарья (брат Локанатхи) | Pragalbha Bhattacharya (Lokanatha's brother) | младший брат @lokanatha; его потомки — «Бхаттачарьи из Талкхари» (T 150; M 95–96; «Анубхашья» к ЧЧ Мадхья 18.49) |
 | @vaikuntha-dasa-vipra | Вайкунтха дас Випра (Вайкунтханатха), отец Вриндавана Даса | Vaikuntha Dasa Vipra (Vaikunthanatha), father of Vrindavana Dasa | муж @narayani; ушёл из мира, когда Вриндаван был ещё во чреве (ГВА, «Према-виласа» 23; B 1078; T 36, 190 — родом из Шрихатты); сам @vrindavana-dasa его не называет |
 | @ramahari-denur | Рамахари (ученик Вриндавана Даса, Денур) | Ramahari (disciple of Vrindavana Dasa, Denur) | уттара-радхия каястха, наследник имущества и служения @vrindavana-dasa в #denur; потомки служат там поныне (B 1079) |
+| @kamalakara-dasa-kogram | Камалакара Дас (отец Лочана Даса) | Kamalakara Dasa (Lochana Dasa's father) | вайдья из Кограма, отец @lochana-dasa (ЧМ, Шеша 94+61; B 1081; T 193); не путать с @kamalakara-pippalai |
+| @sadanandi | Садананди (мать Лочана Даса) | Sadanandi (Lochana Dasa's mother) | мать @lochana-dasa (ЧМ, Шеша 94+60; B 1081; T 193) |
+| @purushottama-gupta-kogram | Пурушоттама Гупта (дед Лочана Даса) | Purushottama Gupta (Lochana Dasa's grandfather) | дед @lochana-dasa по матери, научил его грамоте (ЧМ, Шеша 94+63–67) |
+| @abhaya-dasi | Абхая Даси (бабушка Лочана Даса) | Abhaya Dasi (Lochana Dasa's grandmother) | бабушка @lochana-dasa (ЧМ, Шеша 94+62) |

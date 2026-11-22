@@ -380,3 +380,4 @@
 | #khadiravana | Кхадираван (Кхаяра, Югала-кунда) | Khadiravana (Khayara, Yugala-kunda) | Врадж, один из двенадцати лесов; по M — место ухода и самадхи @lokanatha у Югала-кунды (M 98); T 151 — там бывал Локанатха |
 | #radha-gokulananda-mandira | храм Радха-Гокулананды (Вриндаван) | Radha-Gokulananda temple (Vrindavana) | Вриндаван; по T — самадхи @lokanatha и служение Радха-виноде (T 152); ср. @gokulananda-deity |
 | #denur | Денур (Денуд) | Denur (Denud) | округ Бардхаман, к западу от Навадвипы; шрипат @vrindavana-dasa — там он подолгу жил (B 1079; T 191, 233); служение ведут потомки @ramahari-denur |
+| #kakut | Какут (Амедпур) | Kakut (Amedpur) | селение близ Амедпура (Бенгалия); дом тестя @lochana-dasa (B 1081; T 193) |
