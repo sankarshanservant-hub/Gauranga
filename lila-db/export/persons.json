@@ -4487,6 +4487,10 @@
     "type": "met"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "other"
    },
@@ -26394,6 +26398,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@shyamananda",
     "type": "other"
    },
@@ -32680,6 +32688,10 @@
     "type": "companion"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@ramanujacharya",
     "type": "other"
    },
@@ -36299,6 +36311,10 @@
     "type": "companion"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "siksha-disciple"
    },
@@ -38982,6 +38998,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -40388,6 +40408,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "friend"
    },
@@ -41549,6 +41573,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "companion"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "siksha-guru"
    },
    {
     "from": "@ramanujacharya",
@@ -43108,6 +43136,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "guru"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -43868,6 +43900,10 @@
    {
     "from": "@raghunandana",
     "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "met"
    },
    {
     "from": "@shachi",
@@ -44664,6 +44700,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "friend"
+   },
+   {
     "from": "@rasikananda",
     "type": "met"
    },
@@ -44971,6 +45011,10 @@
    {
     "from": "@raghunatha-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "met"
    },
    {
     "from": "@rupa-gosvami",
@@ -45301,6 +45345,238 @@
    "ev-boraquli-festival",
    "ev-srinivasa-disciples",
    "ev-karnananda-composed"
+  ],
+  "summary": "в Кришна-лиле — Каруна-манджари (B 1108); гуру — Шриниваса Ачарья (Тхакур); происхождение — Шрикханда; уход — Мадхава-маса, кришна-трития",
+  "card": "parshadas/cards/ramachandra-kaviraja.yaml",
+  "article": {
+   "ru": "parshadas/ru/ramachandra-kaviraja.md",
+   "en": "parshadas/en/ramachandra-kaviraja.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "later",
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#shrikhanda",
+    "conf": "место — B 1108 (Шрикханда); T (по шлоке БР 1.270) — «Сараджани» (испорченное название, ⚠7); дом семьи — Кумаранагар (БР 1.249–250; M 153); год и тити не даны; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет",
+    "facts": [
+     "F4",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Мадхава-маса, кришна-трития (по календарю ШЧСМ: «День ухода Шрилы Рамачандры Кавираджа» — 6 янв. 2026, 25 янв. 2027)",
+    "place": "#vrindavana",
+    "conf": "B, M — пауша кришна-трития; T — магха кришна-трития: вероятно, тот же лунный день при разном счёте месяцев (⚠11); год не дан; порядок ухода относительно Шринивасы расходится (⚠10); о самадхи источники молчат",
+    "facts": [
+     "F58",
+     "F59",
+     "F60",
+     "F61"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Смарана-чаматкара»",
+    "facts": [
+     "F56"
+    ]
+   },
+   {
+    "title": "«Смарана-дарпана»",
+    "facts": [
+     "F56"
+    ]
+   },
+   {
+    "title": "«Сиддханта-чандрика»",
+    "facts": [
+     "F56"
+    ]
+   },
+   {
+    "title": "«Жизнеописание Шринивасы Ачарьи» (Шринивасачарьера дживана-чарита)",
+    "facts": [
+     "F56"
+    ]
+   },
+   {
+    "title": "пада «Дэкха дэкха аре бхаи, Гауранга-чанда паракаша» (подпись «Рамачандра Дас»; атрибуция M, ⚠16)",
+    "facts": [
+     "F57"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Каруна-манджари",
+    "source": "B 1108; «Гаудия-вайшнава-абхидхана» (по T 212); ПВ 19.1–55, «Карнананда» 3 (в облике Каруна-манджари находит кольцо Радхи)",
+    "level": "C"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@chiranjiva-sena",
+    "note": "Житель Кханды, спутник Господа (ЧЧ Мадхья 11.92); сокрылся, когда сыновья были малы; T «министр царя Гауды» — неверное прочтение шлоки (⚠7)."
+   },
+   {
+    "type": "mother",
+    "who": "@sunanda-mother-ramachandra",
+    "note": "Дочь Дамодары; по БР 1.243–245 — обещанная проклявшим его дигвиджаи «благословенная дочь»."
+   },
+   {
+    "type": "sibling",
+    "who": "@govinda-kaviraja",
+    "note": "Младший брат; по совету Рамачандры переселился в Телия Будхари (БР 9.118–133; B 940); посвящён Шринивасой по просьбе брата (БР 10.166–175). = @govinda-kaviraja F14–F17."
+   },
+   {
+    "type": "grandfather",
+    "who": "@damodara-sena-kavi",
+    "note": "Дед по матери, великий поэт Кханды; «ученик Нарахари» (B 1108, T 212) ≠ шакта/почитатель Шивы (M 154, B 939, B 1109; БР 9.143) — ⚠15."
+   },
+   {
+    "type": "guru",
+    "who": "@srinivasa-acharya",
+    "note": "Встреча в Яджиграме на пути со свадьбы; «из рождения в рождение ты мой ближайший друг» (БР 8.544; B — 8.574); мантра Радхи-Кришны; личный слуга (T 212; B 659 — бхритья); вверял ему Виру Хамбира и Нароттаму. = @srinivasa-acharya F87–F89, F93, F125, F131, F135."
+   },
+   {
+    "type": "friend",
+    "who": "@narottama-dasa",
+    "note": "Неразлучный друг, «второе я» (БР 1.269–276; B 176 — абхиннатма); «Нароттама Дас просит общества Рамачандры» («Прартхана»); вместе в Кхетури; оплакан Нароттамой («Йе анила према-дхана»). = @narottama-dasa F80, F84, F88, F90."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@jiva-gosvami",
+    "note": "Принял его во Вриндаване, повёл к Радха-Дамодаре и самадхи Рупы (БР 9.197–200); дал звание «Кавираджа» (B 1109, B 523, T 212, T 189; ⚠8); писал ему письма (БР 14). = @jiva-gosvami F180."
+   },
+   {
+    "type": "met",
+    "who": "@gopala-bhatta",
+    "note": "Милость Гопалы Бхатты (B 1111; T 212; M 156); вместе с Шринивасой служил ему (БР 9.216)."
+   },
+   {
+    "type": "met",
+    "who": "@lokanatha",
+    "note": "Милость Локанатхи (B 1109, 1111; T 212; M 156)."
+   },
+   {
+    "type": "met",
+    "who": "@bhugarbha",
+    "note": "Милость Бхугарбхи (B 1109, 1111; T 212; M 156); B 265 — Нароттама и Рамачандра как Локанатха и Бхугарбха."
+   },
+   {
+    "type": "met",
+    "who": "@raghunatha-dasa",
+    "note": "На Радха-кунде обнял его, погрузившись в прему (B 1111; T 212–213; M 199; БР 9.208–210)."
+   },
+   {
+    "type": "met",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Встреча на Радха-кунде (M 199; БР 9.211). = @krishnadasa-kaviraja F48."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-bhattacharya",
+    "note": "Среди давших ему звание «Кавираджа» (БР 1.267–268, по T 212)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "С его позволения (B 1109; M 155) или по его слову (БР 9.110–112) пошёл во Вриндаван."
+   },
+   {
+    "type": "met",
+    "who": "@ishana-navadvipa",
+    "note": "Благословил его в доме Мишры в Майяпуре (B 1110; M 156); по T 67, B 673, B 910, M 201, БР 12 — вместе со Шринивасой и Нароттамой (⚠9)."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@vira-hambira",
+    "note": "T 212 — его шикша-гуру; Шриниваса вверил ему царя (БР 9.264; 13.53); наставления — «Карнананда» 4–6 (C)."
+   },
+   {
+    "type": "disciple",
+    "who": "@harirama-acharya",
+    "note": "Ученик, слагатель пад (B 1111; M 156; B 675; БР 15.114); T 210 — посвящён Нароттамой (⚠13)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@ganganarayana-chakravarti",
+    "note": "Вместе в облике гончара и торговца бетелем победили смартов на рынке Кумарапура (B 1110; T 210; M 121–122; НВ 10.171–187)."
+   },
+   {
+    "type": "opposed",
+    "who": "@rupa-narayana",
+    "note": "Пандит-дигвиджаи, побеждённый в Кумарапуре выводами «Бхагаваты» (B 1110, по скану); затем ученик Нароттамы."
+   },
+   {
+    "type": "opposed",
+    "who": "@narasimha-raya",
+    "note": "Раджа, шедший со смартами против Нароттамы; после спора в Кумарапуре и сна — ученик Нароттамы."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Встречал её в Кхетури (M 69; БР 11.302–308), проводил из Кхетури в Будхари и к Экачакре (БР 11.361–404); T 200 — она гостила в Будхари, «доме Рамачандры»."
+   },
+   {
+    "type": "companion",
+    "who": "@shyamananda",
+    "note": "Вместе со Шринивасой во Вриндаване (M 199; T 206) и на пути в Вана-Вишнупур (БР 9.227–236)."
+   },
+   {
+    "type": "other",
+    "who": "@draupadi-ishvari",
+    "note": "Поклонился обеим Ишвари; её вопрос о его смехе в ночь полнолуния (БР 14.50, 14.57–62)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Гаурасундара явился ему во сне в Будхари: «По Моей воле ты не знаешь самого себя… вы с Нароттамой будете раздавать Мою према-бхакти» (БР 10.224–238)."
+   },
+   {
+    "type": "other",
+    "who": "@shiva",
+    "note": "Ответ шактам: Шива и Брахма — гуна-аватары Кришны (B 1109; M 155; ⚠Б3)."
+   },
+   {
+    "type": "other",
+    "who": "@durga",
+    "note": "Во сне велела радже Нарасимхе искать прибежища у Нароттамы (⚠Б5)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 11.51: с рождения отрешён; сын Чирандживы, ученик Шринивасы, имя «Кавирадж» — от Дживы."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-poet",
+    "note": "Пада с подписью «Рамачандра Дас», которую M относит к нему; тождество не установлено (⚠16)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "note": "Тёзка, не путать."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-virachandra",
+    "note": "Тёзка, не путать: ученик (приёмный сын) Вирачандры."
+   },
+   {
+    "type": "other",
+    "who": "@ramacharana-chakravarti",
+    "note": "Тёзка, не путать: Рамачандра (Рамачаран), сын Гопалы Чакраварти, шурин Шринивасы (B 670; M 197)."
+   }
   ],
   "related_by": [
    {
@@ -45636,6 +45912,10 @@
    {
     "from": "@parameshvara-dasa",
     "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "sibling"
    },
    {
     "from": "@srinivasa-acharya",
@@ -46205,6 +46485,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "companion"
    },
    {
     "from": "@rasikananda",
@@ -46975,6 +47259,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "met"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "other"
    },
@@ -47116,6 +47404,10 @@
    {
     "from": "@narottama-dasa",
     "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "siksha-disciple"
    },
    {
     "from": "@shyamananda",
@@ -47490,6 +47782,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "disciple"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "siksha-disciple"
    }
@@ -47690,6 +47986,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "spouse"
    }
@@ -47805,6 +48105,10 @@
    {
     "from": "@narottama-dasa",
     "type": "disciple"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "co-worker"
    },
    {
     "from": "@vishvanatha-chakravarti",
@@ -48748,6 +49052,10 @@
    {
     "from": "@narottama-dasa",
     "type": "disciple"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "opposed"
    }
   ]
  },
@@ -48786,6 +49094,10 @@
    {
     "from": "@narottama-dasa",
     "type": "disciple"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "opposed"
    }
   ]
  },
@@ -49125,6 +49437,10 @@
    {
     "from": "@nityananda",
     "type": "relative"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
    },
    {
     "from": "@virabhadra",
@@ -49798,6 +50114,12 @@
   "events": [
    "ev-gaura-dance-with-devotees",
    "ev-navadvipa-radha-bhava-gadadhara"
+  ],
+  "related_by": [
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   }
   ]
  },
  {
@@ -52066,6 +52388,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   },
+   {
     "from": "@ramachandra-puri",
     "type": "other"
    },
@@ -53307,6 +53633,10 @@
    },
    {
     "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
     "type": "other"
    },
    {
@@ -54797,6 +55127,10 @@
    },
    {
     "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
     "type": "other"
    }
   ]
@@ -56689,6 +57023,10 @@
    {
     "from": "@raghunandana",
     "type": "companion"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "father"
    }
   ]
  },
@@ -56712,6 +57050,10 @@
    {
     "from": "@narahari-sarakara",
     "type": "disciple"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "grandfather"
    }
   ]
  },
@@ -56730,6 +57072,10 @@
   "related_by": [
    {
     "from": "@govinda-kaviraja",
+    "type": "mother"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
     "type": "mother"
    }
   ]
@@ -59557,6 +59903,10 @@
    {
     "from": "@paramananda-puri",
     "type": "other"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
    }
   ]
  },
@@ -60399,6 +60749,10 @@
    {
     "from": "@madhu-pandita",
     "type": "friend"
+   },
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -63025,6 +63379,10 @@
    "ev-srinivasa-disciples"
   ],
   "related_by": [
+   {
+    "from": "@ramachandra-kaviraja",
+    "type": "other"
+   },
    {
     "from": "@srinivasa-acharya",
     "type": "in-law"
