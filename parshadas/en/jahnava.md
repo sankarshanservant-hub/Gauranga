@@ -234,7 +234,9 @@ deep feelings lived in the child, Jiva and the other Vaishnavas of Vraja named h
 ## Return to Gauda
 Jahnava's journey home, like her journey to Vraja, became a pilgrimage to the places of the Lord's associates.[^14] First
 came Kheturi: Narottama and Ramachandra Kaviraja received her there, and she stayed with them three or four days. Then
-Budhari, the home of Ramachandra Kaviraja in the present district of Murshidabad. <!-- F81 F82 -->
+Budhari, the home of Ramachandra Kaviraja in the present district of Murshidabad. From Kheturi Narottama and Ramachandra
+went with her and escorted her by way of Budhari and Ekachakra all the way to Yajigrama (“Bhakti-ratnakara,” 11.361,
+11.397, 11.404, 11.686). <!-- F81 F82 F117 -->
 
 In Budhari lived Shyamadasa Chakravarti, the brother of Vamshidasa. Jahnava proposed that his daughter Hemalata be given
 in marriage to Baru Gangadasa, and Shyamadasa, obedient to her word, gave his daughter. After the wedding Jahnava
@@ -246,11 +248,14 @@ pastimes, and she spent the night in the deserted house of His parents, chanting
 
 At Katwa, in Kanthaka-nagara, she saw the place where the Lord accepted sannyasa, and wept. There too she met Yadunandana
 Acharya, and with Srinivasa she went on to Yajigrama.[^15] In Yajigrama Srinivasa and his devotees received her with
-great love; Srinivasa brought her into his house and worshipped her. He had just married for the second time — Gauranga-priya,
-the daughter of Raghava Chakravarti — and brought his young wife home just when Jahnava, come from Vrindavana, was
-staying with him. Srinivasa took the dust of her feet, seated her in the place of honour and told his wife to bow to
-her; Jahnava, seeing the bride's gentle nature and beauty, embraced her affectionately. After staying several days she
-went on. <!-- F85 F86 -->
+great love; Srinivasa put Narottama, Ramachandra and other intimates in charge of all the arrangements for receiving the
+mahantas, and lodged Jahnava in his own house. There the Acharya's wife came to meet her: with great humility she led her
+into the inner rooms, seated her on a fine seat and washed her feet with fragrant water, while Jahnava, seeing her good
+nature, raised and embraced her and grew fonder of her with every moment (“Bhakti-ratnakara,” 11.686–696). This wife was
+the first, Draupadi (13.139): Srinivasa's second marriage, according to the “Bhakti-ratnakara,” came later. According to
+one of the biographies, Srinivasa had just then married for the second time — Gauranga-priya, the daughter of Raghava
+Chakravarti — and, coming home with his young wife, found Jahnava staying with him, took the dust of her feet, seated her
+in the place of honour and told his wife to bow to her. After staying several days Jahnava went on. <!-- F85 F86 -->
 
 In Navadvipa Ishana, the servant of Mahaprabhu's household, was by then a very old man. Entering the Lord's house,
 Jahnava fainted in ecstasy, and all the devotees wept tears of love. She spent the night in the courtyard of Srivasa,
