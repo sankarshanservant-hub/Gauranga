@@ -112,9 +112,9 @@ Jiva, they bestowed their own generously upon him; here the “Bhakti-ratnakara�
 Jahnava, knowers of all truth. For four days Narottama spoke with them about Krishna, and then went on to
 Khanakula-Krishnanagara. <!-- F45 -->
 
-Her stepson, Vasudha's son Virabhadra, also became her disciple in diksha. According to the “Prema-vilasa” (24.699–704), he once saw
-her in a four-armed form — and his heart was changed: he resolved to take initiation from none other than her, his aunt
-and stepmother. <!-- F93 -->
+Vasudha's son Virabhadra also became her disciple in diksha: Nityananda's younger wife became his mother and guru.
+According to the “Prema-vilasa” (24.699–704), he once saw her in a four-armed form — and his heart was changed: he
+resolved to take initiation from none other than her. <!-- F93 -->
 
 ## The Road to Kheturi
 Narottama Thakura planned a great festival in Kheturi on Phalguna-purnima, the appearance day of Mahaprabhu. The host was
