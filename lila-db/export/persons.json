@@ -9596,6 +9596,10 @@
     "type": "other"
    },
    {
+    "from": "@lochana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -11682,6 +11686,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -14509,6 +14517,10 @@
    },
    {
     "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -17378,6 +17390,10 @@
     "type": "other"
    },
    {
+    "from": "@lochana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@mukunda-datta",
     "type": "co-worker"
    },
@@ -18474,6 +18490,10 @@
     "type": "other"
    },
    {
+    "from": "@lochana-dasa",
+    "type": "guru"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    },
@@ -19538,6 +19558,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@lochana-dasa",
+    "type": "other"
    },
    {
     "from": "@mukunda-datta",
@@ -22049,6 +22073,10 @@
    },
    {
     "from": "@jayadeva",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -25654,6 +25682,193 @@
    "ev-brahma-yuga-avatara-discourse",
    "ev-tattva-nityananda-advaita"
   ],
+  "summary": "гуру — Нарахари Саркар (Тхакур); происхождение — Кограм (Ко-грам); явление — Нараяна-маса, Гаура-пратипад — по календарю ШЧСМ; уход — Мадхава-маса, Кришна-аштами — по календарю ШЧСМ; самадхи — Кограм (Ко-грам)",
+  "card": "parshadas/cards/lochana-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/lochana-dasa.md",
+   "en": "parshadas/en/lochana-dasa.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1523 (= 1445 Шака)",
+    "tithi": "Нараяна-маса (≈ пауша), Гаура-пратипад — по календарю ШЧСМ; T: «у некоторых» — первый день светлой половины пауши",
+    "place": "#kogram",
+    "conf": "год — B, T, M согласны; день — по календарю Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22: 8 янв. 2027 г.)",
+    "facts": [
+     "F1",
+     "F57"
+    ]
+   },
+   "disappearance": {
+    "date": "1589 (B, T) ≠ 1530 Шака (B по «Вишвакоше») ≠ «1540» (M)",
+    "tithi": "Мадхава-маса (≈ магха), Кришна-аштами — по календарю ШЧСМ",
+    "place": "#kogram?",
+    "conf": "год спорен (⚠1); день — по календарю ШЧСМ (541/ru, проверено 2026-11-22: 30 янв. 2027 г.); B, T, M дня не дают; место — шрипат (Кограм), прямо не названо",
+    "facts": [
+     "F55",
+     "F57"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#kogram?",
+     "facts": [
+      "F56"
+     ],
+     "note": "кирпичное самадхи в его шрипате (B 1083; T 195); шрипат — Кограм (F1–F3)"
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Шри Чайтанья-мангала» (4 кханды; по «Кадаче» Мурари; 1537 г. по B, T — ⚠2)",
+    "facts": [
+     "F17",
+     "F27",
+     "F29",
+     "F32",
+     "F35",
+     "F36",
+     "F37"
+    ],
+    "note": "наш перевод — lochana/ (изд. Бхактисиддханты 1922 г. + вставки изд. 1983 г.)"
+   },
+   {
+    "title": "песни о Нитьянанде и Гауре («нитаи гуна-мани…», «акродха параманада…», «парама каруна…»)",
+    "facts": [
+     "F46",
+     "F47",
+     "F48"
+    ]
+   },
+   {
+    "title": "«Прартхана», «Дурлабха-сара», «Падавали» («Дхамали»)",
+    "facts": [
+     "F45",
+     "F49"
+    ],
+    "note": "пады с его подписью — padas/ru/28, 34 (многие — нагари-бхава, атрибуция по ГПТ; ⚠Б2)"
+   },
+   {
+    "title": "бенгальское переложение «Джаганнатха-валлабха-натаки» Рамананды Рая",
+    "facts": [
+     "F45"
+    ]
+   },
+   {
+    "title": "стихотворное переложение «Раса-панчадхьяи»",
+    "facts": [
+     "F45"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@kamalakara-dasa-kogram",
+    "note": "ЧМ, Шеша 94+61 (изд. 1983 г.); B 1081; T 193; M 77."
+   },
+   {
+    "type": "mother",
+    "who": "@sadanandi",
+    "note": "ЧМ, Шеша 94+60 (изд. 1983 г.); B 1081; T 193; M 77."
+   },
+   {
+    "type": "grandfather",
+    "who": "@purushottama-gupta-kogram",
+    "note": "Дед по матери; строгостью научил его грамоте (ЧМ, Шеша 94+63–67); T, M — учился в доме деда."
+   },
+   {
+    "type": "grandmother",
+    "who": "@abhaya-dasi",
+    "note": "ЧМ, Шеша 94+62."
+   },
+   {
+    "type": "guru",
+    "who": "@narahari-sarakara",
+    "note": "Дал посвящение, учил киртану, велел написать ЧМ; велел ехать к жене (предание); Лочан славит его как Мадхумати (Сутра 645–646). = @narahari-sarakara F47–F51, F70."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "Племянник гуру; Лочан славит его в ЧМ (Сутра 36, 647–651); по ПВ 19 — ходил с ним в Катоа и Кхетури."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Вместе с Нарахари — самый дорогой Господу (T 69; ЧМ, Сутра 12; B 288)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@yadunandana-chakravarti",
+    "note": "БР 9.591: вдвоём подносили гирлянды и сандал на празднике ухода Нарахари; ПВ 19.127–136 — в Катоа."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Лочан славит его и ЧБ (ЧМ, Сутра 35); предание о переименовании ЧБ из-за одноимённой книги Лочана (⚠2). = @vrindavana-dasa F24, F47."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "«Кадача» Мурари — основа ЧМ (Сутра 53–56). = @murari-gupta F27."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "Собеседник Мурари в его поэме; M — «научил Лочана» (⚠5; = @damodara-pandita F40, F62)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Песни во славу Нитьянанды — из опасения, что мало прославил Его в ЧМ (⚠Б4). = @nityananda F398."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "ЧМ — вандана Вишнуприи, беседа перед санньясой, её плач (⚠Б7). = @vishnupriya F60, F125."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "В доме Нароттамы всегда пели ЧМ (ПВ 19.414)."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Эпизод встречи в ЧМ — из Мурари (B 254); бенгальские песни по «Джаганнатха-валлабха-натаке» с подписью Лочана (B 260; T 194)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "Автор БР, упоминающий Лочана (БР 9.591); не путать с его гуру Нарахари Саркаром (B 1082)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Издал ЧМ (1922) с предисловием: не приписывает ЧМ учение гаура-нагари, предостерегает от «панчали Лочана»; «Гаудия-бхашья» к ЧБ Ади 15.30."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivedanta-svami",
+    "note": "Песня «парама каруна» была ему особенно дорога (M 93–94). = @bhaktivedanta-svami F17."
+   },
+   {
+    "type": "other",
+    "who": "@sulochana-shrikhanda",
+    "note": "Тёзка, не путать: Сулочана из Шрикханды, спутник Господа (ЧЧ Ади 10.78; ГГД 209) (⚠8)."
+   },
+   {
+    "type": "other",
+    "who": "@jayananda",
+    "note": "Автор другой «Чайтанья-мангалы»; по Н. Васу (1897) Лочан писал позже и Джаянанда его не упоминает."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhaktivedanta-svami",
@@ -26040,6 +26255,10 @@
    },
    {
     "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -26509,6 +26728,10 @@
    },
    {
     "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -37054,6 +37277,10 @@
     "type": "other"
    },
    {
+    "from": "@lochana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@madhava-ghosha",
     "type": "other"
    }
@@ -43242,6 +43469,10 @@
     "type": "other"
    },
    {
+    "from": "@lochana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@lokanatha",
     "type": "disciple"
    },
@@ -45937,6 +46168,10 @@
    {
     "from": "@gadadhara-dasa",
     "type": "disciple"
+   },
+   {
+    "from": "@lochana-dasa",
+    "type": "co-worker"
    }
   ]
  },
@@ -46419,6 +46654,10 @@
    },
    {
     "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -49638,6 +49877,10 @@
    },
    {
     "from": "@lakshmipriya",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -62898,6 +63141,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@lochana-dasa",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "companion"
    },
@@ -64930,6 +65177,10 @@
    },
    {
     "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
+    "from": "@lochana-dasa",
     "type": "other"
    },
    {
@@ -67322,6 +67573,66 @@
    {
     "from": "@vrindavana-dasa",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@kamalakara-dasa-kogram",
+  "ru": "Камалакара Дас (отец Лочана Даса)",
+  "en": "Kamalakara Dasa (Lochana Dasa's father)",
+  "note": "вайдья из Кограма, отец @lochana-dasa (ЧМ, Шеша 94+61; B 1081; T 193); не путать с @kamalakara-pippalai",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@lochana-dasa",
+    "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@sadanandi",
+  "ru": "Садананди (мать Лочана Даса)",
+  "en": "Sadanandi (Lochana Dasa's mother)",
+  "note": "мать @lochana-dasa (ЧМ, Шеша 94+60; B 1081; T 193)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@lochana-dasa",
+    "type": "mother"
+   }
+  ]
+ },
+ {
+  "id": "@purushottama-gupta-kogram",
+  "ru": "Пурушоттама Гупта (дед Лочана Даса)",
+  "en": "Purushottama Gupta (Lochana Dasa's grandfather)",
+  "note": "дед @lochana-dasa по матери, научил его грамоте (ЧМ, Шеша 94+63–67)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@lochana-dasa",
+    "type": "grandfather"
+   }
+  ]
+ },
+ {
+  "id": "@abhaya-dasi",
+  "ru": "Абхая Даси (бабушка Лочана Даса)",
+  "en": "Abhaya Dasi (Lochana Dasa's grandmother)",
+  "note": "бабушка @lochana-dasa (ЧМ, Шеша 94+62)",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@lochana-dasa",
+    "type": "grandmother"
    }
   ]
  }

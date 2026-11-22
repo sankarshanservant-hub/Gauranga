@@ -15372,6 +15372,217 @@
   "note": "Тёзка, не путать: гуру-сестра Гангаматы."
  },
  {
+  "from": "@lochana-dasa",
+  "type": "father",
+  "who": "@kamalakara-dasa-kogram",
+  "facts": [
+   "F5"
+  ],
+  "note": "ЧМ, Шеша 94+61 (изд. 1983 г.); B 1081; T 193; M 77."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "mother",
+  "who": "@sadanandi",
+  "facts": [
+   "F5"
+  ],
+  "note": "ЧМ, Шеша 94+60 (изд. 1983 г.); B 1081; T 193; M 77."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "grandfather",
+  "who": "@purushottama-gupta-kogram",
+  "facts": [
+   "F7"
+  ],
+  "note": "Дед по матери; строгостью научил его грамоте (ЧМ, Шеша 94+63–67); T, M — учился в доме деда."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "grandmother",
+  "who": "@abhaya-dasi",
+  "facts": [
+   "F7"
+  ],
+  "note": "ЧМ, Шеша 94+62."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "guru",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F11",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F22",
+   "F46"
+  ],
+  "events": [
+   "ev-katwa-khanda-memorial-festivals"
+  ],
+  "note": "Дал посвящение, учил киртану, велел написать ЧМ; велел ехать к жене (предание); Лочан славит его как Мадхумати (Сутра 645–646). = @narahari-sarakara F47–F51, F70."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F21",
+   "F24"
+  ],
+  "events": [
+   "ev-katwa-khanda-memorial-festivals",
+   "ev-kheturi-festival"
+  ],
+  "note": "Племянник гуру; Лочан славит его в ЧМ (Сутра 36, 647–651); по ПВ 19 — ходил с ним в Катоа и Кхетури."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F20"
+  ],
+  "note": "Вместе с Нарахари — самый дорогой Господу (T 69; ЧМ, Сутра 12; B 288)."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "co-worker",
+  "who": "@yadunandana-chakravarti",
+  "facts": [
+   "F22",
+   "F24"
+  ],
+  "events": [
+   "ev-katwa-khanda-memorial-festivals"
+  ],
+  "note": "БР 9.591: вдвоём подносили гирлянды и сандал на празднике ухода Нарахари; ПВ 19.127–136 — в Катоа."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F41",
+   "F42",
+   "F43"
+  ],
+  "note": "Лочан славит его и ЧБ (ЧМ, Сутра 35); предание о переименовании ЧБ из-за одноимённой книги Лочана (⚠2). = @vrindavana-dasa F24, F47."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F27"
+  ],
+  "note": "«Кадача» Мурари — основа ЧМ (Сутра 53–56). = @murari-gupta F27."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F27"
+  ],
+  "note": "Собеседник Мурари в его поэме; M — «научил Лочана» (⚠5; = @damodara-pandita F40, F62)."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F46",
+   "F47"
+  ],
+  "note": "Песни во славу Нитьянанды — из опасения, что мало прославил Его в ЧМ (⚠Б4). = @nityananda F398."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F37",
+   "F38",
+   "F39"
+  ],
+  "note": "ЧМ — вандана Вишнуприи, беседа перед санньясой, её плач (⚠Б7). = @vishnupriya F60, F125."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-narottama-bhajana-kheturi"
+  ],
+  "note": "В доме Нароттамы всегда пели ЧМ (ПВ 19.414)."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F27",
+   "F45"
+  ],
+  "note": "Эпизод встречи в ЧМ — из Мурари (B 254); бенгальские песни по «Джаганнатха-валлабха-натаке» с подписью Лочана (B 260; T 194)."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F22",
+   "F23"
+  ],
+  "note": "Автор БР, упоминающий Лочана (БР 9.591); не путать с его гуру Нарахари Саркаром (B 1082)."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F42",
+   "F52",
+   "F54"
+  ],
+  "note": "Издал ЧМ (1922) с предисловием: не приписывает ЧМ учение гаура-нагари, предостерегает от «панчали Лочана»; «Гаудия-бхашья» к ЧБ Ади 15.30."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F48"
+  ],
+  "note": "Песня «парама каруна» была ему особенно дорога (M 93–94). = @bhaktivedanta-svami F17."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@sulochana-shrikhanda",
+  "facts": [],
+  "note": "Тёзка, не путать: Сулочана из Шрикханды, спутник Господа (ЧЧ Ади 10.78; ГГД 209) (⚠8)."
+ },
+ {
+  "from": "@lochana-dasa",
+  "type": "other",
+  "who": "@jayananda",
+  "facts": [
+   "F50"
+  ],
+  "note": "Автор другой «Чайтанья-мангалы»; по Н. Васу (1897) Лочан писал позже и Джаянанда его не упоминает."
+ },
+ {
   "from": "@lokanatha",
   "type": "father",
   "who": "@padmanabha-chakravarti",
