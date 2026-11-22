@@ -1667,9 +1667,8 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
     with the permission of his mother, Vasudha, and with the blessing of Bhugarbha and Jiva; according to another
     biography, at their command. The “Bhakti-ratnakara” itself (13.329) says “with the permission” of Bhugarbha, Sri Jiva
     and others. One of the biographies lists “Gopinatha Adhikari” among those who came out to meet him as a separate
-    person, and names Madhavacharya as Madhu Pandita's godbrother; but in the “Bhakti-ratnakara” (13.319–320) “the
-    adhikari of Sri Gopinatha” is the title of Madhu Pandita himself, and his godbrother is Bhavananda, the servant of
-    Gopinatha.
+    person; but in the “Bhakti-ratnakara” (13.319–320) “the adhikari of Sri Gopinatha” is the title of Madhu Pandita
+    himself, and his godbrother is Bhavananda, the servant of Gopinatha (so too in that biography).
 
 [^19]: One of the biographies, in its chapter on Madhavendra Puri, also mentions Jiva's father: Mahaprabhu came to Arail,
     where Rupa and Vallabha were living, in 1434/1435 Shaka (1512–1513) and showed mercy to Vallabhacharya. This date is

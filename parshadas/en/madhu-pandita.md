@@ -190,11 +190,10 @@ garland, together with the heads of the Vaishnavas he receives Jahnava and Virac
 [^10]: According to one of the biographies, it was Jiva who named them to her; in the “Bhakti-ratnakara” it is
     Parameshvari Dasa.
 [^11]: One of the biographies lists “Sri Gopinatha Adhikari” among those who came to receive him as a separate person
-    beside Madhu Pandita, and names Madhavacharya as his godbrother. But in the “Bhakti-ratnakara” (13.319) “the
+    beside Madhu Pandita. But in the “Bhakti-ratnakara” (13.319) “the
     adhikari of Sri Gopinatha” is the title of Madhu Pandita himself (so too in the neighbouring stanzas: “the adhikari
-    of Govinda is Ananta Acharya,” the adhikari of the service of Madana-gopala is Krishnadasa Brahmachari), and his
-    godbrother (13.320) is Bhavananda, the servant of Gopinatha. Madhavacharya, too, belongs to Gadadhara's branch and
-    stands beside Madhu Pandita in 6.511. And the “Gaudiya-vaishnava-abhidhana” calls Bhavananda Madhu Pandita's
+    of Govinda is Ananta Acharya,” the adhikari of the service of Madana-gopala is Krishnadasa Brahmachari), and both the
+    “Bhakti-ratnakara” (13.320) and that biography name his godbrother as Bhavananda, the servant of Gopinatha. And the “Gaudiya-vaishnava-abhidhana” calls Bhavananda Madhu Pandita's
     special friend.
 [^12]: The reading of the first line of the vandana attributed to Jiva is unclear: in the editor's view, “the Pandita
     named Madhu” may here be an epithet of Govinda Acharya. The “Vaishnavabhidhana” names a “Madhusudana Pandita” —

@@ -1217,7 +1217,7 @@ appearance day is usually reckoned the krishna-navami of the month of Kartika, a
 the shukla-chaturdashi of the month of Agrahayana. <!-- F361 F362 F363 -->
 
 Virachandra was in Shrikhanda at the festival of Narahari Sarakara's departure, where Shrinivasa performed the rites; in
-Ambika the followers of Chaitanya joyfully welcomed him as Nityananda's son. Tradition says that only a Vishnu-shila or a
+Navadvipa the followers of Chaitanya joyfully welcomed him as Nityananda's son. Tradition says that only a Vishnu-shila or a
 consecrated Deity could bear the obeisance of Abhirama Thakura — anything else cracked or crumbled; Nityananda's son
 Virachandra and His daughter Ganga Devi received his obeisances unharmed, which confirmed their divinity, and Abhirama
 composed ashtakas in their honour. <!-- F364 F365 F366 -->
