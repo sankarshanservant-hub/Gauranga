@@ -104,13 +104,11 @@ true discourse on the “Bhagavata” is possible only for one who seeks nothing
 ## Srila Bhaktivinoda
 In 1880, on pilgrimage to Vrindavana, Srila Bhaktivinoda Thakura, in the kunja of Rupa Dasa Babaji where
 bhajanandi Vaishnavas lived, for the first time saw the “divine mahatma” — as he himself later wrote — and bowed at
-his feet. The Babaji then gave him many instructions on hari-bhakti. From 1885 Bhaktivinoda often received spiritual
-instruction from him; their mutual love seemed to come “from time immemorial.” Thus the Babaji became Srila
+his feet. The Babaji then gave him many instructions on hari-bhakti. From 1885 Bhaktivinoda often received spiritual guidance from him; their mutual love seemed to come “from time immemorial.” Thus the Babaji became Srila
 Bhaktivinoda's instructing guru, his shiksha-guru, and Srila Bhaktisiddhanta's song calls Bhaktivinoda his “dear”
 disciple. <!-- F26 F27 F16 -->
 
-His last long years the Babaji spent in Kulia — today the town of Navadvip — in his bhajana-kutira on the bank of the
-Ganga. In May 1890 Bhaktivinoda, then serving in Krishnanagar, came to Kulia on foot for the darshana of this
+In Kulia — today the town of Navadvip — the Babaji had his bhajana-kutira on the bank of the Ganga. In May 1890 Bhaktivinoda, then serving in Krishnanagar, came to Kulia on foot for the darshana of this
 bhajana-kutira and in the Babaji's service added a solid veranda to it, spending nearly a hundred and fifty rupees on
 it.[^6] <!-- F28 Q7 -->
 
@@ -249,8 +247,7 @@ Bihari at once to buy rasagullas with all of it and feed them to the cows of Nav
 he would not spend a penny, and he let not one of them into his ashrama. <!-- F59 F60 -->
 
 ## Guardian of Purity
-The Babaji was greatly angered to see a breach of the rules established by the shastras and kept in the line of
-teachers. Once an impostor who passed himself off as his disciple obtained through his servant the Babaji's worn
+He would not tolerate any breach of the rules established by the shastras and kept in the line of teachers. Once an impostor who passed himself off as his disciple obtained through his servant the Babaji's worn
 blanket, wrapped it around his loins and set off for the kutira with a troupe of musicians, singing, in place of the
 maha-mantra, an empty, unauthorised jingle. As soon as he heard it, the Babaji told those beside him to stop that crowd
 and drive it away. So zealously did he guard the purity of the bhakti-dharma established by Mahaprabhu and cut short
@@ -339,8 +336,7 @@ devotion, Srila Bhaktisiddhanta continues: “Vaishnava-samrat Srila Jagannatha 
 Bhaktivinoda Thakura Mahashaya made great efforts to help the Gaudiya Vaishnavas overcome these obstacles. They
 cleansed the teaching of Gaudiya Vaishnavism of the influence of illusion that had crept into it. These exalted
 Vaishnavas and their faithful followers may rightly be called vishvambhara-priya-vaishnava-samaja — ‘the society of
-Vaishnavas infinitely dear to Vishvambhara’” (on CB, Madhya 1.3). Mahaprabhu's teaching is not subject to maya; what
-they cleansed away were the accretions with which conditioned souls had distorted it in people's eyes. <!-- F4 Q13 -->
+Vaishnavas infinitely dear to Vishvambhara’” (on CB, Madhya 1.3). Mahaprabhu's teaching is not subject to maya; what they cleansed away was the overlay with which conditioned souls had obscured it in people's eyes. <!-- F4 Q13 -->
 
 And in the “Anubhashya” on the “Chaitanya-charitamrita” Srila Bhaktisiddhanta names him among those who truly live in
 Vrindavana: “In a later age Thakura Narottama in the village of Kheturi and Srinivasa Acharya in the village of
