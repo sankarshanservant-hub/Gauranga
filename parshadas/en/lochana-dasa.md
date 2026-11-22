@@ -306,8 +306,8 @@ glorify Him as a “nagara” goes against the truth proclaimed by Vrindavana Da
 ## Departure and Samadhi
 Lochana Dasa left this world, according to the biographies, in 1589.[^12] By our calendar (Sri Chaitanya Saraswat Math)
 the day of his departure is Krishna-ashtami of the month of Madhava (≈ Magha); in 2027 it falls on 30 January. The
-sources on which the biographies draw do not name the day. His brick samadhi stands at his shripat, marking the place
-where his remains rest; and Lochana's shripat is his native village, Kogram. <!-- F55 F56 F57 -->
+biographies do not name this day. His brick samadhi stands at his shripat and marks the place where his holy body rests;
+and Lochana's shripat is his native village, Kogram. <!-- F55 F56 F57 -->
 
 ## Significance
 By his guru's will and with love for Gaura, Lochana Dasa became the singer of the Lord's pastimes for the simple people
