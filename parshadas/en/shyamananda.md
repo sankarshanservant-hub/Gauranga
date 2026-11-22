@@ -323,11 +323,16 @@ both into ecstasy. Srila Bhaktisiddhanta writes that Jiva first received news of
 they had been found. <!-- F53 F91 -->
 
 ## In Gauda Again
-The first months after the theft Shyamananda spent with Narottama at Kheturi. The “Prema-vilasa” relates that for ten
+After the theft Shyamananda went with Narottama to Kheturi (“Bhakti-ratnakara,” 7.123); there they stayed in seclusion,
+anxious, until a messenger from Vishnupura brought Srinivasa's letter about the recovered books (7.240–249). How long he
+stayed at Kheturi the “Bhakti-ratnakara” does not say: according to it, Narottama, having sent off his reply, soon sent
+Shyamananda off to Utkala at daybreak, giving him a companion with money, and Raja Santosha Datta escorted him to the
+Padmavati and seated him in the boat (7.294–311); according to one of the biographies, Shyamananda spent several months at
+Kheturi. The “Prema-vilasa” relates that for ten
 days Narottama explained to him from the “Ganoddesha-dipika” the order of service in the siddha body, from the
 “Rasamrita-sindhu” raga and vaidhi, and how to guard against offences to the holy name and in service, and then, in the
 pain of parting, sent him home with two companions and money for the road (13.183–197). After that Shyamananda visited
-the places of many devotees in Bengal and by way of Navadvipa came to Ambika, to his guru[^18]. <!-- F54 -->
+the places of many devotees in Bengal and by way of Navadvipa came to Ambika, to his guru[^18]. <!-- F54 F103 -->
 
 The “Narottama-vilasa” describes this meeting. Hridaya Chaitanya was speaking of his dear disciple with the one who had run ahead to announce his coming —
 “he devoted himself ceaselessly to service in the kunja, found happiness, and received the name ‘Shyamananda’” (3.76) —
