@@ -282,7 +282,8 @@ worship:
 
 Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: Sri Gaurasundara is Krishna who has accepted the mood and
 radiance of Radha. Therefore, never abandoning the heart's mood of Radhika and the gopis — those who love (*ashraya*) —
-He did not take up the endeavours of the One who is loved (*vishaya*), as Krishna Himself does, and never displayed the
+He did not act, as Krishna Himself does, in the role of the One toward whom love is directed (*vishaya*), and never
+displayed the
 ways of a “nagara” who looks at others' wives with the pride of an enjoyer. He is Vrajendranandana Himself, the Lord of
 the gopis, yet to call Him a “nagara” is not permissible: it is contrary to the spirit of service to Gaura-Krishna; in
 Gaura's pastimes Krishna abides in separation (*vipralambha*). <!-- F52 Q8 I4 -->
