@@ -8,7 +8,7 @@ Vaishnava-sarvabhauma, “the sovereign of all Vaishnavas,” and Siddha Babaji 
 Navadvipa-mandala alike, the two holiest lands, he was honoured as the foremost sadhu of his time, and the whole
 Vaishnava world revered him as one perfect in devotion to Krishna. His full title is Om Vishnupada
 Vaishnava-sarvabhauma Sri Srila Jagannatha Dasa Babaji Maharaja; he is also called Jagannatha Dasa Gosvami Maharaja,
-and in the songs of the line, Jagannatha Prabhu. In Navadvipa he was spoken of everywhere as the “siddha-baba.” Srila
+and in the songs of the line, Jagannatha Prabhu. Everywhere he was spoken of as the “siddha-baba.” Srila
 Bhaktivinoda called him Siddha Babaji Mahashaya and senapati, “the general of the devotees,” and Srila Bhaktisiddhanta
 Sarasvati called him Siddha Jagannatha Dasa Babaji and “vaishnava-samrat,” the emperor of the Vaishnavas.
 <!-- F1 F2 F3 -->
@@ -22,9 +22,9 @@ vaishnava-sarvabhaumah sri-jagannathaya te namah”
 of the Vaishnavas.”[^1] <!-- Q1 -->
 
 ## Homeland and Years
-Little is known of his worldly life. He was born in East Bengal, in what is now Bangladesh, into a respectable family —
+Little is known of his worldly life. He was born in East Bengal, in present-day Bangladesh, into a respectable family —
 by one account in a village of Tangail, then part of Mymensingh district; by another, into a Varendra Kayastha family
-in the village of Taras in Pabna district, in the north of Bengal. The names of his parents have not come down to
+in Taras, a village of the Pabna district, in the north of Bengal. Who his father and mother were has not come down to
 us.[^2] <!-- F6 F7 F8 -->
 
 Nor is the year of his birth known. He appeared, in the words of one biography, “about two centuries ago,” according to
@@ -42,11 +42,11 @@ Harigopala Dasa and Jagannatha Dasa. <!-- F10 F11 -->
 In his song on the line of teachers Srila Bhaktisiddhanta Sarasvati names him immediately after Baladeva:
 
 “vishvanatha bhakta-satha, baladeva jagannatha, tara priya bhaktivinoda” —
-“Vishvanatha, the friend of the devotees, Baladeva, Jagannatha, and his dear Bhaktivinoda.”
+“Vishvanatha with his devotees, Baladeva, Jagannatha, and his dear Bhaktivinoda.”
 
 So too in the Sanskrit verses on the succession: “and likewise Vaishnava-sarvabhauma Sri Jagannatha Prabhu, who
 revealed the dhama of Mayapur, dear to the saints.” Every devotee who follows Srila Bhaktisiddhanta remembers him daily
-and prays for his mercy. <!-- F13 Q2 Q3 -->
+and begs his mercy. <!-- F13 Q2 Q3 -->
 
 Between Baladeva and Jagannatha Dasa Babaji lies almost a century, and in Srila Bhaktisiddhanta's line Uddhava Dasa and
 Madhusudana Dasa are not named. When Srila B. R. Sridhar Maharaja was asked about this gap, he answered that the
@@ -102,9 +102,9 @@ Scripture and the Holy Name must not be made into merchandise: by trading in the
 true discourse on the “Bhagavata” is possible only for one who seeks nothing else. <!-- I3 -->
 
 ## Srila Bhaktivinoda
-In 1880, on pilgrimage to Vrindavana, Srila Bhaktivinoda Thakura, in the kunja of Rupa Dasa Babaji where
-bhajanandi Vaishnavas lived, for the first time saw the “divine mahatma” — as he himself later wrote — and bowed at
-his feet. The Babaji then gave him many instructions on hari-bhakti. From 1885 Bhaktivinoda often received spiritual guidance from him; their mutual love seemed to come “from time immemorial.” Thus the Babaji became Srila
+In 1880, on pilgrimage to Vrindavana, Srila Bhaktivinoda Thakura, in the kunja of Rupa Dasa Babaji, in the company
+of bhajanandi Vaishnavas, for the first time saw the “divine mahatma,” as the “Sajjana-toshani” would later say of that
+meeting, and was granted the darshana of his feet. The Babaji then gave him many instructions on hari-bhakti. From 1885 Bhaktivinoda often received spiritual guidance from him; their mutual love seemed to come “from time immemorial.” Thus the Babaji became Srila
 Bhaktivinoda's instructing guru, his shiksha-guru, and Srila Bhaktisiddhanta's song calls Bhaktivinoda his “dear”
 disciple. <!-- F26 F27 F16 -->
 
@@ -126,7 +126,7 @@ Prapanna-ashrama, and the Babaji himself led it. Bhaktivinoda described that day
 then over a hundred, danced “like a lion” and sang:
 
 “nitai ki nama enechhe re, nama enechhe namer hate, shraddhara mile nama ditechhe re” —
-“What a name Nitai has brought! He has brought it to the market of the Name and gives it for faith alone.”
+“What a name Nitai has brought! He has carried it to the market of the Name and gives it for faith alone.”
 
 He wept and fell in ecstasy; everyone's tears flowed, their hair stood on end, and, barely able to sing, all danced.
 In the dance the old man leapt upward, drenched the earth with his tears and for a long time lost outward
@@ -137,7 +137,7 @@ ashrama open. <!-- F29 F31 Q5 Q6 -->
 In the month of Magha 1299 of the Bengali era (February 1893) the Babaji with his companions came from his
 bhajana-kutira in Kulia, crossing the Ganga, to Godruma — to Surabhi-kunja, Srila Bhaktivinoda's place of bhajana. His
 coming was a wondrous event: the Babaji “took his seat” at Surabhi-kunja, and on Wednesday, 27 Magha, Bhaktivinoda held
-a great festival of kirtana at which the Babaji was the guest of honour. Loud hari-sankirtana hardly ceased, and the
+a great festival of kirtana at which the Babaji was the honoured guest. Loud hari-sankirtana hardly ceased, and the
 whole neighbourhood was reminded of the days of Sri Chaitanya Mahaprabhu.[^8] From then on the Thakura often came to
 the Babaji, and the Babaji visited the Thakura both in Godruma and in Calcutta. <!-- F33 F34 F35 Q7 -->
 
@@ -148,26 +148,29 @@ district court, presented his evidence to an assembly of prominent people of the
 Navadvipa, received their approval and revealed Sri Mayapur to the world as the Lord's birthplace. But the last word
 was spoken by the Babaji. <!-- F36 -->
 
-On Thursday, 20 Phalguna 1299 of the Bengali era (early March 1893),[^9] the Thakura came with kirtana in the morning
-to Sri Jagannatha Dasa Babaji, who at once joined them and, despite his frailty, led everyone, inspiring them, to the
-place of the Lord's appearance. At eleven o'clock the devotees set out in three boats from the western bank, from the
-town of Navadvipa. The great devotee was carried in a palanquin; by another account, his servant Bihari carried him to
-the place in a basket. A countless crowd gathered towards Mayapur, and at the Lord's birthplace Dvarika Babu waited
-with flags and kirtana. <!-- F37 F39 F40 -->
+On Thursday, 20 Phalguna 1299 of the Bengali era (early March 1893),[^9] at eleven in the morning, the devotees set
+out in three boats from the western bank, from the town of Navadvipa. The great devotee rode in a palanquin; by
+another account, his servant Bihari bore him to the place in a basket. A countless crowd gathered towards Mayapur, and
+at the Lord's birthplace Dvarika Babu waited with flags and kirtana. <!-- F39 F40 -->
 
 Reaching the place, the old man stepped down and broke into a wild dance, singing “Jaya Shachinandana Gaura-Hari!” —
 and all marvelled to see a man of such great age dance so. By divine vision he pointed out the place of the Lord's
-appearance — the Yogapitha — and with the innate intuition of an eternal associate of the Lord struck several times
-with his staff, with force, the very spot where Nimai, Sri Chaitanya Mahaprabhu, was born. The last doubts of all were
-dispelled.[^10] Then he also pointed out the place where the Kazi broke the mridanga — Khola-bhangar-danga, that is,
+appearance, and then also the place where the Kazi broke the mridanga — Khola-bhangar-danga, that is,
 Srivasa-angana, where Mahaprabhu's night kirtanas were held. Such dancing on the mound by the place of appearance,
-Bhaktivinoda wrote, Navadvip had not seen for almost four hundred years. <!-- F38 F39 F40 Q6 -->
+Bhaktivinoda wrote, Navadvip had not seen for almost four hundred years. <!-- F39 F40 Q6 -->
 
 It was then also decided to begin the service of the Deities at the place of appearance and at Srivasa-angana, and the
 Babaji proposed how it should be arranged: in one building, Jagannatha Mishra and Shachi Devi; in another, Mahaprabhu
 with Lakshmi and Vishnupriya at His sides; and at Srivasa-angana, the Pancha-tattva. The Deities of Gaura and
 Vishnupriya Srila Bhaktivinoda installed in Gaura's house on 21 March 1894 — following Sri Narottama and “by the
 permission” of Vaishnava-sarvabhauma Jagannatha Dasa. <!-- F40 F47 -->
+
+One of the biographies tells of another day — the day when the foundation stone was laid.[^10] Having revealed
+Mayapur, Srila Bhaktivinoda came with kirtana on the morning of that day to Sri Jagannatha Dasa Babaji, who at once
+joined them and, despite his frailty, led everyone, inspiring them, to the birthplace — the Yogapitha. There, amid the
+sankirtana, with the innate intuition of an eternal associate of the Lord, he struck several times with his staff,
+with force, the very spot where Nimai, Sri Chaitanya Mahaprabhu, was born — and the last doubts of all were dispelled.
+<!-- F37 F38 -->
 
 Thus the Babaji revealed many hidden holy places of Mayapur — the Yogapitha, Srivasa-angana and others. On that day a
 great many Vaishnavas came to Mayapur. By the place of Mahaprabhu's appearance grew a huge kadamba tree; under it the
@@ -178,9 +181,9 @@ Babaji danced, and under the same tree, absorbed in the Name, sat Srila Gaurakis
 Srila Bhaktisiddhanta Sarasvati writes in the “Gaudiya-bhashya”: “Under the guidance of perfected devotees such as
 Srila Jagannatha Dasa Babaji Maharaja it has been finally and unambiguously established that Sri Mayapur-Yogapitha,
 situated near the samadhi (tomb) of Chand Kazi, is the exact site of the house of Jagannatha Mishra and Shachi Devi in
-which Sri Chaitanya Mahaprabhu appeared” (on CB, Adi 1.7). So too N. Sanyal writes in his book “Sree Krishna
-Chaitanya” (1933): the site of Jagannatha Mishra's house was finally determined by Sri Jagannatha Dasa Babaji, and the
-neighbouring plot is still called Khola-bhangar-danga. Srila Bhaktivinoda's researches and the testimony of the siddha
+which Sri Chaitanya Mahaprabhu appeared” (on CB, Adi 1.7). And N. Sanyal in his book “Sree Krishna Chaitanya”
+(1933) writes that these places were finally and definitely established by Sri Jagannatha Dasa Babaji: the plot next to
+the site of Jagannatha Mishra's house, recognisable also by local tradition, is called Khola-bhangar-danga to this day. Srila Bhaktivinoda's researches and the testimony of the siddha
 do not contend with one another but complete one another: learned arguments confirmed what the saint saw by divine
 vision. This is neither a guess nor a legend but the revelation of what was hidden: not for nothing do the verses in
 the Babaji's praise say that Gaura-chandra Himself moved him to reveal the house of His birth, that he danced at the
@@ -193,8 +196,8 @@ Pancha-tattva and opened at Srivasa-angana a centre of sankirtana for pure devot
 
 ## Vishnupriya's Appearance Day and the Vaishnava Calendar
 The Babaji also restored to the Vaishnavas the appearance day of Srimati Vishnupriya. It was he who determined that
-she appeared on the shukla-panchami of the month of Magha — on Sri-panchami — told Srila Bhaktivinoda of it and had the
-day entered in the calendar; through Bhaktivinoda the custom of honouring her on that day spread throughout the
+she appeared on the shukla-panchami of the month of Magha — on Sri-panchami — told Srila Bhaktivinoda of it, and had the compiler of the
+Vaishnava calendar enter the day in it; through Bhaktivinoda the custom of honouring her on that day spread across the whole
 Vaishnava world. So writes the collection “Sri Sarasvati-jayashri” (1948); and when in 1919 Srila Bhaktisiddhanta
 revived the “Vishva-vaishnava-raja-sabha,” he did so precisely on the appearance day of Vishnupriya.
 <!-- F48 Q8 Q11 -->
@@ -230,9 +233,9 @@ lived there in a tent. His ancient bhajana-kutira draws the faithful all year ro
 samadhi-mandira stands there too. <!-- F56 -->
 
 He was carried by his servant, a strong Vrajavasi, Bihari Dasa Babaji. At the end of his earthly life the Babaji could
-no longer move by himself, and Bihari would set him in a large wicker basket and carry him on his shoulders from place
-to place. The Babaji often warned this servant against the bad company of false babajis. His joined eyebrows covered
-the old saint's eyes, so that to look he had to lift them with his hand, and his outward sight had grown weak; but he
+no longer move by himself, and Bihari would seat him in a big basket woven of cane and bear him on his shoulders from one
+place to another. The Babaji often warned this servant against the bad company of false babajis. His joined eyebrows covered
+the old saint's eyes, so that to look he had to raise them with his hand, and his outward sight had grown weak; but he
 had an innate inner sight.[^12] <!-- F65 F66 -->
 
 Those who came to his kutira bowed to him and left offerings; these were gathered in a vessel, and the attendant
@@ -242,7 +245,7 @@ do I have?” Bihari set aside twelve for a service he had in mind and handed ov
 saint said: “Bihari, why have you set aside twelve? Give them all!” — and Bihari, laughing at the joke, gave them. Seeing
 that nothing could be hidden from the sadhu's inner sight, the attendant gave up this habit.[^13] <!-- F57 F58 -->
 
-The Babaji spent the offerings wherever service required them. Once the money came to two hundred rupees, and he told
+The Babaji spent the offerings wherever service required them. Once the sum reached two hundred rupees, and he told
 Bihari at once to buy rasagullas with all of it and feed them to the cows of Navadvipa-dhama.[^14] But on false babajis
 he would not spend a penny, and he let not one of them into his ashrama. <!-- F59 F60 -->
 
@@ -254,7 +257,7 @@ and drive it away. So zealously did he guard the purity of the bhakti-dharma est
 every corruption of it. <!-- F61 -->
 
 Srila Bhaktisiddhanta said that the teaching of Siddha Jagannatha Dasa Babaji ran in the current of Sri Rupa: he would
-by no means accept “smart” jingles that mix divine sentiments with worldly ones; offensive chanting must not be equated
+by no means accept glib jingles that confuse the divine sentiments; offensive chanting must never be put on a level
 with the pure Name, and chanting the Name “with faith or without faith” is not the same as chanting having given up
 the ten offences. The verses in the Babaji's praise call him a thunderbolt to the wicked and the hypocritical and gentle
 to those who have faith. And of the hypocrites who merely bore the name of his disciples, Srila Bhaktisiddhanta said:
@@ -267,13 +270,13 @@ Many came to him for the renunciant's dress (bhek), but he did not give it to ev
 serve, and under the weight of service many ran away. One Gaura Haridasa, whom he had refused, lay without food for
 three days before his tent; only then did the Babaji tell Bihari to give him a kaupina. Of those who received the
 vesha from him, Bhagavata Dasa Babaji is known — he who later gave the babaji-vesha to Srila Gaurakishora Dasa Babaji.
-He also had a disciple by diksha, Rasavihari Gosvami of Puruniya in Burdwan district; he initiated the independent Raja
+He also had a disciple by diksha, Rasavihari Gosvami from Puruniya, Burdwan district; he initiated the independent Raja
 of Tripura, Ishana Chandra Manikya Bahadur, and Rasavihari Gosvami's Deity, Rasaviharijiu, is served in the royal palace
 to this day. <!-- F62 F15 -->
 
 Nor did he indulge the delusion that a sadhu-Vaishnava needs no bodily labour and may sit idle, pretending to chant
 the Name on his beads. Himself a great bhajanandi, he did not allow disciples with worldly desires to harm the service
-of Vishnu and the Vaishnavas on the pretext of serving the Name. Newcomers among the renunciants, not yet ready for the
+of Vishnu and His devotees under the guise of serving the Name. Newcomers among the renunciants, not yet ready for the
 Name alone, he engaged in work in the garden by his kutira: they grew vegetables for the service of Krishna, of His
 Deity and of His true devotees. For one who has not engaged his senses in service will not gain the capacity for the
 Name; the renunciant's dress gives no right to idleness. <!-- F64 I4 -->
@@ -281,7 +284,7 @@ Name; the renunciant's dress gives no right to idleness. <!-- F64 I4 -->
 ## Stronger than Infirmity
 In extreme old age he became bent and very small and could hardly control his body. But in sankirtana, in ecstasy, he
 would raise his arms, his body would straighten to its full height — about six feet — so that his fingers touched the
-ceiling, and at times he leapt five or six feet into the air; even sitting on his servant's shoulders he would spring
+ceiling, and at times he sprang up as high as five or six feet; even sitting on his servant's shoulders he would spring
 up three or four cubits in kirtana. Tall, with long arms reaching to his knees, his frame like a nyagrodha tree and
 four of his own cubits in height, in kirtana he reminded people of Mahaprabhu Himself. So he showed that in the ecstasy
 of devotion a Vaishnava is above bodily weakness: bhakti is not subject to the body. <!-- F67 I6 -->
@@ -295,7 +298,7 @@ influence of his love they forgot their enmity and did not fight over the food. 
 dogs and does not let them near the kitchen, but the saint despised no one: love for God had taught him to see all
 beings equally. <!-- F69 -->
 
-On the bank of the Ganga, by his tent, lived a dog with five puppies, and when the Babaji took prasada they ate from his
+On the bank of the Ganga, by his tent, a dog lived with her five pups, and when the Babaji took prasada they ate from his
 plate. Once Bihari hid one or two of the puppies to drive them away, and the Babaji said to him: “Bihari, if you drive
 them away, take the plate too: today I shall not eat.” Bihari brought the puppies back — “Here are your puppies” — and
 the Babaji answered: “These are dogs of the dhama!” The dwellers of the holy dhama were for him not mere animals but
@@ -305,7 +308,7 @@ residents of Navadvipa — so a devotee sees the dhama. <!-- F70 -->
 Srila Jagannatha Dasa Babaji withdrew from this world on Monday, 25 February 1895, on the shukla-pratipad of the month
 of Phalguna — in the Vaishnava calendar of the Sri Chaitanya Saraswat Math this is Gaura-pratipad of Govinda-masa.[^15]
 Srila Bhaktivinoda wrote in the “Sajjana-toshani”: at ten in the morning, in the bhajana-kutira in Koladvipa, in the
-town of Navadvipa, the old general of the Vaishnavas departed for the eternal abode; Siddha Babaji Mahashaya has gone
+town of Navadvipa, the aged general of the Vaishnavas departed for the eternal abode; Siddha Babaji Mahashaya has gone
 to the spiritual world, and the world is left in darkness; with worldly eyes we shall no longer see his ecstatic
 dancing in kirtana — may he bless us from the eternal abode. <!-- F71 F72 Q6 -->
 
@@ -316,11 +319,12 @@ February 1979, “on the day of the departure of Jagannatha Dasa Babaji and Rasi
 
 ## The Current of Bhaktivinoda
 The verses in the Babaji's praise say that he placed all his power in the devotee Bhaktivinoda and through him sent the
-stream of harinama through the world, and they pray: “I honour the auspicious line of Bhaktivinoda, which grew from
+stream of harinama through the world; they call him the sovereign of the Vaishnavas, honoured even by the devas, say
+that by his devotion he surpassed even the abode of Mahendra, king of heaven, and they pray: “I honour the auspicious line of Bhaktivinoda, which grew from
 your body and your labours.” The Babaji showed himself a preacher too, a goshthyanandi: his desire to see the
 sampradaya grow and pure bhakti preached blossomed and bore fruit in Bhaktivinoda. And Srila B. R. Sridhar Maharaja in
 his “Srimad-Bhaktivinoda-dashakam” (the journal “Gaudiya,” July 1939) glorifies Bhaktivinoda as “dear to Sriman
-Jagannatha Prabhu.” <!-- F54 Q4 F55 Q15 -->
+Jagannatha Prabhu.” <!-- F54 Q4 F79 F55 Q15 -->
 
 After the departure of Srila Bhaktivinoda and Srila Gaurakishora, there appeared to Srila Bhaktisiddhanta in a vision
 (svapna-samadhi), consoling and encouraging him, Mahaprabhu with the Pancha-tattva, the six Gosvamis and
@@ -378,10 +382,11 @@ and the power he passes on to those who will carry it further. <!-- I1 I2 -->
     records it was 1893.
 [^9]: By calculation, about 2 March 1893, which was indeed a Thursday; one of the biographies, with the same date,
     mistakenly gives the year as 1892.
-[^10]: One of the biographies does not date this day and refers it to “the morning of the day the foundation stone was
-    laid,” after Bhaktivinoda had presented his evidence to the pandits; it does not speak here of dancing, only of
-    the blows of the staff. Apparently this account merges the indication of the place (1893) with the subsequent
-    establishment of the service (1894).
+[^10]: This biography does not date that day and calls it only “the morning of the day the foundation stone was
+    laid,” after Bhaktivinoda had presented his evidence to an assembly of pandits; it says nothing of boats, a
+    palanquin or dancing, only of the blows of the staff. Whether it was the same day as 20 Phalguna 1299 the sources
+    do not say; perhaps this account joins the indication of the place (1893) with the subsequent establishment of
+    the service (1894).
 [^11]: One of the biographies reports this with the words “we have heard”; another, citing the journal “Gaudiya,” says
     that the Babaji entrusted the service of Giridhari to Bhaktivinoda in 1893.
 [^12]: According to one of the biographies, it was not his eyebrows but his eyelids that hung over his eyes, though he
