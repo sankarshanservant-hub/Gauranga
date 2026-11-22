@@ -60,10 +60,10 @@ him a truth for life. <!-- F13 -->
 
 ## At Narahari's Feet
 Lochana's guru was Narahari Sarakara Thakura of Shrikhanda, one of Gaura's best-known associates. In the bloom of youth
-Lochana came to Shrikhanda, found his gurudeva and took shelter at his feet. Narahari came to love him and gave him
+Lochana came to Shrikhanda, found his gurudeva and sought refuge at his feet. Narahari came to love him and gave him
 initiation (*diksha*); the biographies call Lochana Narahari's “dear” disciple, devoted to him alone. Lochana gladly
 settled with his guru in Shrikhanda — the “Prema-vilasa” says just this: “he is a disciple of Sri Narahari and lives in
-Shrikhanda.” Narahari taught him the art of kirtana, and later told him to write the life of the Lord. Lochana took
+Shrikhanda.” Narahari trained him in kirtana, and later told him to write the life of the Lord. Lochana took
 this order to heart, and so the “Sri Chaitanya-mangala” came to be, a holy narrative full of the nectar of Gauranga's
 pastimes. In many places of the poem, as Srila Bhaktisiddhanta observed, Lochana calls himself a follower of Narahari.
 <!-- F14 F15 F16 F17 -->
@@ -94,7 +94,7 @@ how the boy Raghunandana fed the Deity a sweet ball. <!-- F20 F21 -->
 ## After the Guru's Departure
 Narahari Sarakara left this world on the Krishna-ekadashi of the month of Agrahayana, and in memory of his departure a
 great festival was held in Shrikhanda. Lochana served the Vaishnavas there. The “Bhakti-ratnakara” tells how he and
-Yadunandana Thakura adorned the honoured guests, Krishna Mishra and Gopala, the sons of Sri Advaita:
+Yadunandana Thakura adorned the honoured guests, Krishna Mishra and Gopala, the two sons of Sri Advaita (9.410, 9.592):
 
 “Sri Yadunandana and Sri Lochana — the two of them — took flower garlands and fragrant sandal.” (“Bhakti-ratnakara”
 9.591)
@@ -132,7 +132,7 @@ Gaura's glories to deliver the people, and it became the basis for all; hearing 
 forgot his own faults and composed the account in panchali form (Shesha-khanda, 94+44–48).[^6] Srila Bhaktisiddhanta
 writes that Lochana began the book from the childhood pastimes of Gaurasundara recorded by Murari Gupta and took them as
 his source-evidence. Following Murari's “Kadacha,” Vrindavana Dasa, Lochana and others described the Lord's pastimes;
-from Murari Lochana took, for example, the account of the Lord's meeting with Ramananda Raya. <!-- F27 Q3 F28 -->
+from Murari Lochana took, for example, the account of the Lord's meeting with Ramananda Raya. <!-- F27 Q3 F28 F58 -->
 
 In form the “Chaitanya-mangala” is a *panchali*, a sung narrative of the kind long composed and sung in Bengal:
 according to one of the biographies, Lochana followed the pattern of East Bengali panchalis — the “Lakshmir panchali,”
@@ -157,8 +157,8 @@ station, with Sri Pranakrishna Chakravarti. <!-- F32 F33 F34 -->
 
 The poem is divided into four parts (*khandas*) — the Sutra-, Adi-, Madhya- and Shesha-khanda; Lochana himself names
 them in his conclusion (Shesha-khanda, 94+50–52). In Srila Bhaktisiddhanta's edition, according to his survey of the
-parts, the Sutra-khanda has two sections, the Adi-khanda seven chapters, the Madhya-khanda sixteen and the Shesha-khanda
-three.[^8] The poem opens with blessings and obeisances to the guru and the Vaishnavas. Then, following the dialogue of
+parts, there are two sections in the Sutra-khanda, seven chapters in the Adi-khanda, sixteen in the Madhya-khanda and
+three in the Shesha-khanda.[^8] The poem opens with blessings and obeisances to the guru and the Vaishnavas. Then, following the dialogue of
 Narada and Uddhava from the “Jaimini-bharata,” Lochana explains why Krishna descended as Gaura, tells of Rukmini, of
 Parvati and mahaprasada, and then of the Lord's birth and childhood and all His pastimes, up to His mercy to the poor
 brahmana from Dravida and the six-armed form shown to King Prataparudra. <!-- F35 F36 -->
@@ -259,7 +259,7 @@ while Lochana laments that he himself is sunk in worldliness and Yama punishes h
 <!-- F47 Q9 -->
 
 The song “Parama karuna” was especially dear to Srila A. C. Bhaktivedanta Swami Prabhupada. Explaining it, he said that
-Nitai and Gaura are the essence of all avataras, and the path They give is joyful — to sing and dance; there is only one
+Nitai and Gaura are the very quintessence of all avataras, and the path They give is joyful — to sing and dance; there is only one
 condition — to give up sense enjoyment and sing “Hari, Hari” with firm faith. If the Lord inspired even the animals of
 the Jharikhanda forest to chant the holy name, how much more can people be drawn to the chanting. <!-- F48 I3 -->
 
@@ -281,12 +281,13 @@ worship:
 <!-- F51 Q8 -->
 
 Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: Sri Gaurasundara is Krishna who has accepted the mood and
-radiance of Radha. Therefore, never abandoning the heart's mood of Radhika and the gopis — those who love (*ashraya*) —
-He did not act, as Krishna Himself does, in the role of the One toward whom love is directed (*vishaya*), and never
+radiance of Radha. Therefore, never abandoning the heart's mood of Radhika and the gopis — those who love (*ashraya*) — the mood of
+service to Sri Krishna, He did not act, as Krishna Himself does, in the role of the One toward whom love is directed (*vishaya*), and never
 displayed the
-ways of a “nagara” who looks at others' wives with the pride of an enjoyer. He is Vrajendranandana Himself, the Lord of
-the gopis, yet to call Him a “nagara” is not permissible: it is contrary to the spirit of service to Gaura-Krishna; in
-Gaura's pastimes Krishna abides in separation (*vipralambha*). <!-- F52 Q8 I4 -->
+ways of a “nagara” who looks at others' wives with the pride of an enjoyer. And though Gaurasundara is Vrajendranandana
+Himself, the Supreme Lord, to call Him a “nagara” is not permissible: it is contrary to the very spirit of service to
+Gaura-Krishna. Vrajendranandana is called Gopijana-vallabha, the Beloved of the gopis, but in Gaura's pastimes Krishna
+abides in the mood of separation (*vipralambha*). <!-- F52 Q8 I4 -->
 
 Where, then, do the lines of the “Chaitanya-mangala” that are read in the Gaura-nagari spirit come from? One of the
 biographies answers: self-interested people inserted this doctrine and various invented descriptions contrary to
@@ -306,7 +307,7 @@ glorify Him as a “nagara” goes against the truth proclaimed by Vrindavana Da
 ## Departure and Samadhi
 Lochana Dasa left this world, according to the biographies, in 1589.[^12] By our calendar (Sri Chaitanya Saraswat Math)
 the day of his departure is Krishna-ashtami of the month of Madhava (≈ Magha); in 2027 it falls on 30 January. The
-biographies do not name this day. His brick samadhi stands at his shripat and marks the place where his holy body rests;
+biographies do not name this day. His brick samadhi stands at his shripat, over the resting place of his holy body;
 and Lochana's shripat is his native village, Kogram. <!-- F55 F56 F57 -->
 
 ## Significance
@@ -334,9 +335,11 @@ Vaishnava's eyes: Gaura is Krishna in the mood of Radha, and the measure of ever
 [^5]: Close by, in 19.124, the “Prema-vilasa” names “Raghunandana and Sulochana,” and in 19.126 “Lochana”; that this is
     Lochana Dasa is very likely, but not beyond doubt.
 [^6]: One of the biographies writes that Damodara Pandita, having heard Murari's verses, taught them to Lochana, who
-    learned them by heart, and also that, according to Lochana, Murari's book is no longer in circulation, and so he
-    conveys its essence in Bengali verse. Lochana himself says only that Damodara questioned Murari, and that he, Lochana,
-    “heard” the finished book (Sutra-khanda 53–56); Damodara and Lochana could hardly have met in time. We follow
+    learned them by heart, that it was from Damodara too that Lochana heard the story from the “Jaimini-bharata,” and also
+    that, according to Lochana, Murari's book is no longer in circulation, and so he conveys its essence in Bengali verse.
+    Lochana himself says only that Damodara questioned Murari, and that he, Lochana, “heard” the finished book
+    (Sutra-khanda 53–56); in the poem the story from the “Jaimini-bharata” is told by Murari in answer to Damodara's
+    question; Damodara and Lochana could hardly have met in time. We follow
     Lochana's own words.
 [^7]: According to some biographies the poem was completed in 1537, but Lochana would then have been only fourteen; it
     is usually assigned to the middle of the sixteenth century (the 1550s–1560s). N. Vasu, who in 1897–1898 published

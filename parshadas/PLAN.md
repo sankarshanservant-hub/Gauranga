@@ -204,7 +204,7 @@ B — вероятно, больше сотни).
 | @lokanatha (105) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhagavatacharya (106) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vrindavana-dasa (107) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @lochana-dasa (108) | ✓ | ✓ (PDF) | — |
+| @lochana-dasa (108) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @krishnadasa-kaviraja (109) | ✓ | ✓ (PDF) | — |
 | @chaitanya-dasa (110) | ✓ | ✓ (PDF) | ✓ сплошная |
 
