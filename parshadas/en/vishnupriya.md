@@ -624,16 +624,16 @@ Vallavikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Pr
 is said that in Shrikhanda too, by the order of Narahari Sarakara, Raghunandana's son Kanai Thakura revealed the service of
 Gauranga and Vishnupriya. <!-- F140 F144 -->
 
-Three centuries later this service was revived by Bhaktivinoda Thakura. In 1892 (the 20th of Phalguna, 1299 of the Bengali
+Three centuries later this service was revived by Bhaktivinoda Thakura. In 1893 (the 20th of Phalguna, 1299 of the Bengali
 era), at a meeting in Mayapur, Jagannatha Dasa Babaji proposed that Jagannatha Mishra and Shachi be worshipped in one
 building and Mahaprabhu with Lakshmi and Vishnupriya at His sides in another; the Pancha-tattva in Srivasa-angana. In
 January 1894 a meeting convened by Bhaktivinoda at the A. B. school in Krishnanagar resolved to establish Deities at the
 Lord's birthplace; the “Navadvipa-pracharini-sabha” was founded, and Dvarakanath-babu, Naphar-babu and others resolved to
-build a hut there for the Deities of Gaura and Vishnupriya. On Friday, 21 March 1894 (the 9th of Chaitra, 1300 of the
+build a hut there for the Deities of Gaura and Vishnupriya. On Wednesday, 21 March 1894 (the 9th of Chaitra, 1300 of the
 Bengali era), on Phalguni Purnima, during a lunar eclipse, amid loud kirtana, the Deities of Gaura and Vishnupriya were
 installed; for Their service the committee “Sri Mayapur Seva Samiti” was formed, joined by many well-known people. Thus
 Bhaktivinoda — following Narottama and with the permission of Jagannatha Dasa Babaji — revealed the service of
-Gaurasundara with Vishnupriya in Gaura's home in Mayapur. <!-- F145 F146 F147 -->
+Gaurasundara with Vishnupriya in Gaura's home in Mayapur[^24]. <!-- F145 F146 F147 -->
 
 The meaning of this service Srila Bhaktisiddhanta expressed in a song appended to his “Anuvritti” on the “Upadeshamrita.”
 Some, he says, call for worshipping Vishnupriya all one's life, abandoning the path of Rupa and the service of
@@ -645,7 +645,7 @@ established Priya and Hari in Mayapur as his duty. <!-- F148 -->
 
 Srila Bhaktisiddhanta also chose the day of Vishnupriya's appearance to re-establish the “Vishva-vaishnava-raja-sabha”:
 this took place amid kirtana on 5 February 1919 at the Ultadanga Math, the Bhaktivinoda-asana, and the “Amrita Bazar
-Patrika” wrote about it[^24]. <!-- F149 -->
+Patrika” wrote about it[^25]. <!-- F149 -->
 
 Among the prayers of the “Namamrita-samudra,” in which Narahari Chakravarti calls upon the Lord's associates, is one
 addressed to her and Lakshmipriya:
@@ -728,5 +728,7 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
     hissed there, and the Deities came of Themselves into his hands.
 [^23]: One biography, speaking of the Deity in Gambhila, at once calls these Deities “Sri Gauranga and Nityananda,” which
     disagrees both with the “Bhakti-ratnakara” (10.202) and with the other testimonies.
-[^24]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
+[^24]: One biography places this day (20 Phalguna 1299) in 1892 and calls 21 March 1894 a Friday; by calculation 20
+    Phalguna 1299 is 2 March 1893, a Thursday, and 21 March 1894 was a Wednesday.
+[^25]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
     February”; one of the two dates is evidently mistaken.
