@@ -5399,7 +5399,7 @@
   order: 36.5
   title: "Женитьба Вирачандры на Шримати и Нараяни; его дети"
   summary: "Ядунандана из Джхаматпура, из рода Пиппали, отдаёт Вирабхадре дочерей Шримати и Нараяни; у Вирачандры три сына — Гопиджанаваллабха, Рамакришна, Рамачандра — и дочь Бхуванамохини, жена Парватинатхи Мукхути из Пхулии."
-  persons: ["@virabhadra", "@srimati-virachandra", "@narayani-virachandra", "@gopijanavallabha", "@ramakrishna-virachandra", "@ramachandra-virachandra"]
+  persons: ["@virabhadra", "@shrimati-virachandra", "@narayani-virachandra", "@gopijanavallabha", "@ramakrishna-virachandra", "@ramachandra-virachandra"]
   places: ["#jhamatpur", "#phulia"]
   kind: lila
   authority: C

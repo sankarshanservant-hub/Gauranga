@@ -51603,10 +51603,14 @@
   "id": "@shrimati-virachandra",
   "ru": "Шримати (жена Вирачандры)",
   "en": "Shrimati (Virachandra's wife)",
-  "note": "дочь Ядунанданы (Ядунатхи) Ачарьи и Видьюнмалы из Джхаматпура; не путать с @radha",
+  "note": "дочь Ядунанданы (Ядунатхи) Ачарьи и Видьюнмалы из Джхаматпура; не путать с @radha; сестра @narayani-virachandra («Према-виласа» 24)",
   "section": "Спутники",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "pvl-0274"
+  ],
+  "events": [
+   "ev-virachandra-marriage"
+  ],
   "related_by": [
    {
     "from": "@jahnava",
@@ -62591,19 +62595,6 @@
   ],
   "events": [
    "ev-false-avataras"
-  ]
- },
- {
-  "id": "@srimati-virachandra",
-  "ru": "Шримати (жена Вирачандры)",
-  "en": "Srimati (Virachandra's wife)",
-  "note": "дочь Ядунанданы из Джхаматпура, сестра @narayani-virachandra («Према-виласа» 24)",
-  "section": "Спутники и другие лица (дополнения)",
-  "lilas": [
-   "pvl-0274"
-  ],
-  "events": [
-   "ev-virachandra-marriage"
   ]
  },
  {
