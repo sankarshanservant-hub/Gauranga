@@ -25,8 +25,8 @@ to Krishna; "from birth he was detached from worldly life," and he was the chief
 Mahashaya and Srinivasa Acharya in preaching and in bhajana. <!-- F63 Q6 -->
 
 ## Chiranjiva's Line
-Ramachandra's father, Sri Chiranjiva Sena, was a resident of Shrikhanda and a companion of Mahaprabhu. When the Gaudiya
-devotees came to the Lord in Puri, Svarupa Damodara named him to King Prataparudra among the people of Khanda:
+Ramachandra's father, Sri Chiranjiva Sena, was a resident of Shrikhanda and a companion of Mahaprabhu. Krishnadasa Kaviraja
+mentions him among the people of Khanda who came to the Lord in Puri:
 
 "Here are Mukunda dasa, Narahari and Sri Raghunandana, and Chiranjiva and Sulochana — residents of Khanda." (CC, Madhya
 11.92)
@@ -328,14 +328,15 @@ not received a drop. So speaks a humble Vaishnava of himself.[^18] <!-- F56 F57 
 ## Departure
 With the permission of Narottama and Srinivasa — according to one of the biographies, at their command — Ramachandra went
 to Vrindavana once more. Almost all the Gosvamis had already withdrawn from sight, and he lived there with an aching
-heart; after a few days (according to another passage, a few months), meditating on the lotus feet of Sri Radha and
+heart; after a few days (according to another account, a few months), meditating on the lotus feet of Sri Radha and
 Govinda, the Lord and Lady of Vraja, he entered Their eternal pastimes. The sources say nothing of his samadhi.
 <!-- F58 F61 -->
 
 The "Narottama-vilasa" tells it this way. Narottama and Ramachandra spent some days in Kheturi in great bliss and one day
 took counsel together in private. Then Ramachandra, in great anguish, went to Yajigrama; soon news came that Sri Acharya
 had gone to Vrindavana and that Ramachandra was constantly with him. Narottama, unable to find peace, sang of Gauranga's
-companions whom he had not been granted to see: "He has gone, leaving me; Ramachandra has not come back," — and as soon as
+companions whom he had not been granted to see, and of Srinivasa: "Acharya Sri Srinivasa… has gone, leaving me;
+Ramachandra has not come back," — and as soon as
 he said this, all heard that Ramachandra Kaviraja had passed from sight. Narottama went into a lonely forest and wept aloud:
 "O Ramachandra, where have you gone, leaving me?" ("Narottama-vilasa," 11.212–221).[^19] In the depth of separation
 Narottama composed the song "Ye anila prema-dhana karuna prachura…" — "He who brought the treasure of prema, boundlessly
