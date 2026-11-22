@@ -29,11 +29,11 @@ Shyamananda's father was Sri Krishna Mandala and his mother Durika. The “Bhakt
 “He lived in the village of Dandeshvara, prosperous in every way; his mother was Sri Durika, his father Sri Krishna
 Mandala. The best of the Sadgopa caste and most virtuous, [the father] saw his all in Krishna and greatly loved the
 devotees. The virtues of Sri Krishna Mandala and Durika cannot be described for fear of the bulk of the book. Formerly
-[the family] lived at Dharenda-Bahadurpur; respectable people say that Shyamananda was born there.”
+[the family] lived at Dharenda-Bahadurpura; respectable people say that Shyamananda was born there.”
 (“Bhakti-ratnakara” 1.351–354)
 
-So, by the primary source, the family's home was Dandeshvara, while he was born, as people say, at Dharenda-Bahadurpur,
-where the family had lived before. Dharenda-Bahadurpur lies near the present Kharagpur station in Medinipur, and
+So, by the primary source, the family's home was Dandeshvara, while he was born, as people say, at Dharenda-Bahadurpura,
+where the family had lived before. Dharenda-Bahadurpura lies near the present Kharagpur station in Medinipur, and
 Dandeshvara on the river Suvarnarekha; in those days the whole region belonged to the kingdom of Orissa. Krishna
 Mandala's ancestors, according to the biographies, came from Bengal, from Gauda, and the parents themselves were
 deeply devoted[^2].
@@ -102,7 +102,7 @@ Pandita Himself to soothe the pain of separation, and that the Two Brothers abid
 Them the youth was filled with prema and wept for great joy. <!-- F19 F20 F21 -->
 
 Hridaya Chaitanya, seeing him, was pleased and asked who he was and why he had come. He told everything: that he had
-come from far away, from Dharenda-Bahadurpur, that he was born among the Sadgopas, that his father was Krishna Mandala
+come from far away, from Dharenda-Bahadurpura, that he was born among the Sadgopas, that his father was Krishna Mandala
 and his own name Duhkhi, and that he wished only to serve his master's feet. Moved, Hridaya Chaitanya heard the whole
 of his past life, waited for an auspicious day and in his great mercy initiated him into the Krishna mantra. <!-- F22 -->
 
@@ -348,7 +348,7 @@ called him back and explained his concern, and he, taking the command upon his h
 Deities and invested him with his own power: “Much will be accomplished through you” (“Narottama-vilasa” 3.91).
 <!-- F55 -->
 
-On the way he passed through his native Dharenda-Bahadurpur. The villagers rejoiced at their Duhkhi; he stayed several
+On the way he passed through his native Dharenda-Bahadurpura. The villagers rejoiced at their Duhkhi; he stayed several
 days and preached, and many took shelter at his feet. Then came Dandeshvara: Shyamananda blessed the village and its
 devotees, spoke hari-katha for many days and held a great festival, and many became his disciples. And then he entered
 Utkala and preached everywhere. <!-- F56 -->
@@ -564,10 +564,10 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
     maidservant of Srivasa Pandita whom the Lord named Sukhi (“the happy one”); Duhkhini, wife of Jagadisha Pandita;
     Shyamasundara Acharya, father of Ishvara Puri. The Shyamananda Gaudiya Math in Medinipur is named after him (see below).
 [^2]: The biographies differ. According to one, his father moved from Bengal to Dandeshvara, east of
-    Dharenda-Bahadurpur, in Orissa. According to another, he was born at Dharenda-Bahadurpur, and Dandeshvara on the
+    Dharenda-Bahadurpura, in Orissa. According to another, he was born at Dharenda-Bahadurpura, and Dandeshvara on the
     Suvarnarekha was his father's native town; citing the reference work “Gaudiya-vaishnava-abhidhana”, it adds that
     Krishna Mandala first lived in Gauda, on the Bengal bank of the Bhagirathi, then at Ambua near Dandeshvara, just
-    beyond the present border of Orissa. According to a third, he was born in Utkala, at Dharenda-Bahadurpur, and
+    beyond the present border of Orissa. According to a third, he was born in Utkala, at Dharenda-Bahadurpura, and
     Dandeshvara was where his father “formerly lived”; by the “Bhakti-ratnakara” it is the reverse: Dandeshvara was the
     home and Dharenda the former residence. In one place his village is also called “Dandakeshvara”. We follow the
     primary source.
@@ -628,27 +628,27 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
 [^19]: Only one biography says that the invitation came at Lokanatha's behest. Another places the festival after a long
     period of preaching in Utkala and Shyamananda's return to his guru at Ambika (see below).
 [^20]: According to the “Narottama-vilasa” (8), after the festival Srinivasa announced that he would go to Yajigrama and
-    Vishnupura, and Shyamananda by way of Navadvipa and Ambika to Dharenda-Bahadurpur; in the morning they crossed the
+    Vishnupura, and Shyamananda by way of Navadvipa and Ambika to Dharenda-Bahadurpura; in the morning they crossed the
     Padmavati.
 [^21]: This story is preserved only in the “Prema-vilasa” (19.66–84; 20); the biographies do not give it.
 [^22]: The “Prema-vilasa” (19.88; 20.190–193) and one of the biographies (in its list of disciples) treat Rasikananda and
     Murari as two different persons, brothers; according to the “Bhakti-ratnakara” and two biographies, they are one.
 [^23]: According to two biographies, the “Bhakti-ratnakara” and the “Rasika-mangala”, the meeting took place at
     Ghatshila; according to the third biography, at Rasika's home in the village of Rohini on the Suvarnarekha, to which
-    Shyamananda was walking from Dharenda-Bahadurpur with beads in hand. Rasika's father is called by one biography the
+    Shyamananda was walking from Dharenda-Bahadurpura with beads in hand. Rasika's father is called by one biography the
     king of Rayani, by another the zamindar of Rohini, by a third a zamindar on the Suvarnarekha. One of the biographies
     places Ghatshila “now in Bihar”; today it is in Jharkhand.
 [^24]: The sources differ on where Damodara became a disciple: at Rayani (one biography), at Rohini (another), at
     Gopivallabhapura (“Prema-vilasa”). More about him in the article on Rasikananda.
 [^25]: The biographies differ on when the service was entrusted to Rasikananda: at the installation of the Deity (two);
-    by the residents after Shyamananda had left Gopivallabhapura (the third, in another place); when Shyamananda was
-    leaving this world (yet another). According to the “Rasika-mangala”, the Deity of Sri Govinda was manifested and
+    by the residents after Shyamananda had left Gopivallabhapura (one of these two, in another place); when Shyamananda
+    was leaving this world (the third). According to the “Rasika-mangala”, the Deity of Sri Govinda was manifested and
     installed by Rasika himself at Shyamananda's direction, and after his guru's departure he handed the service to his
     son Radhananda. The “Bhakti-ratnakara” (15.81) and the “Prema-vilasa” (19.90) do not name the time.
 [^26]: A tradition of the Vallabha school says that the mahantas of Vrindavana sent a certain Shyamananda to Shrinathji;
     whether this is the same Shyamananda has not been established.
-[^27]: According to one of the biographies and the “Rasika-mangala”, he spent his last years and departed at
-    Nrisimhapura; according to another biography, he departed at Gopivallabhapura, and his samadhi is there. We give
-    both versions.
+[^27]: According to one of the biographies, he spent his last years at Nrisimhapura, and according to the
+    “Rasika-mangala” he left this world there, in the house of Uddhanda Raya; according to another biography, he returned
+    at the end to Gopivallabhapura, and his samadhi is there. We give both versions.
 [^28]: These identifications are found only in the “Prema-vilasa”. It contains many later interpolations, and Srila
     Bhaktisiddhanta did not regard it as wholly reliable; we therefore give them only with reference to it.
