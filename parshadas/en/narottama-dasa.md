@@ -296,7 +296,7 @@ and the Deities of Sri Gaura and Vishnupriya came into his hands of Their own ac
 onto his lap (“Bhakti-ratnakara” 10.202). A mighty sankirtana broke out on the spot. Narottama brought Them to Kheturi and
 established Their service; today these Deities are served in Gambhila. According to the “Bhakti-ratnakara” (10.191–206),
 this was still before the great festival, during the preparations for it.[^12] The “Prema-vilasa” (19) says that the form
-of Gauranga was carved by the Lord Himself before He took sannyasa. <!-- F62 Q8 -->
+of Gauranga was manifested by the Lord Himself before He took sannyasa. <!-- F62 Q8 -->
 
 So six Deities appeared in Kheturi: Sri Gauranga, Sri Vallavikanta, Sri Vrajamohana, Sri Krishna, Sri Radhakanta and Sri
 Radharamana.[^13] The very sound of these names gladdens the hearts of the devotees; Narottama composed a pranama to Them:

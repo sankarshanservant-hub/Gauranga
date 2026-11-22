@@ -286,7 +286,7 @@ Madhavacharya of Jirat — Madhava Chattopadhyaya, husband of Ganga, Nityananda'
 him as a disciple of Nityananda, others of Jahnava, still others of Purushottama Thakura. <!-- F95 F96 F97 F98 Q17 -->
 
 Once Gopinatha of Vrindavana, in a dream, asked Jahnava to send Him His beloved. Jahnava had a Deity of Sri Radhika
-carved and sent Her to Vrindavana; Radha was accompanied by her dear servant Parameshvari Dasa (“Bhakti-ratnakara”
+manifested and sent Her to Vrindavana; Radha was accompanied by her dear servant Parameshvari Dasa (“Bhakti-ratnakara”
 13.66–74; “Narottama-vilasa” 9.81–84).[^17] There, at Gopinatha's command, the Radha who had been sent was placed on His
 left, and Parameshvari Dasa saw with his own eyes Sri Radhika together with Gopinatha. Returning to Khardaha, he told
 Vasudha and Jahnava everything, and Jahnava, overwhelmed with love, told him to go without delay to the village of

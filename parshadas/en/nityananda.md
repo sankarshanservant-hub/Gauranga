@@ -1211,7 +1211,7 @@ contempt. <!-- F360 -->
 With the permission of his mother Vasudha, Virabhadra went to Vrindavana and went round Vraja with the blessings of
 Bhugarbha Gosvami and Jiva (BR 13). In the old temple of Shyamasundara in Khardaha a manuscript of the “Bhagavatam” is kept,
 copied by tradition by Virabhadra, and in the opinion of some by Nityananda Himself. Virabhadra brought to Khardaha the
-stone from which the Deities of Shyamasundara, Radhavallabha and Nandadulala were carved (hence the name
+stone from which the Deities of Shyamasundara, Radhavallabha and Nandadulala were manifested (hence the name
 Shyamasundar-ghat). He also established the custom of celebrating Nityananda's appearance in Khardaha. Virabhadra's own
 appearance day is usually reckoned the krishna-navami of the month of Kartika, and by the “Gaudiya-vaishnava-abhidhana”
 the shukla-chaturdashi of the month of Agrahayana. <!-- F361 F362 F363 -->
@@ -1773,7 +1773,7 @@ of Purushottama Dasa (CC, Adi 11.40).
 [^57]: By one biography, Shrimati and Narayani were sisters, daughters of Yadunandana; by two others, Narayani was the
 adopted daughter of Yadunatha (Yadunandana) Acharya and Vidyunmala.
 [^58]: By another tradition, Gauridasa asked Mahaprabhu to stay with him forever, and the Lord revealed that His form and
-Nityananda's were hidden in a neem tree nearby; Gauridasa had Gaura-Nitai carved from it, and, it is said, Nityananda
+Nityananda's were hidden in a neem tree nearby; Gauridasa had Gaura-Nitai manifested from it, and, it is said, Nityananda
 Himself was present at the carving. When They were about to leave, the Lord said: “Nityananda and I are directly present
 in these forms; choose — either the Deities go, or We.” Gauridasa chose that the “real” Gaura-Nitai should stay and the
 Deities might go — for the name, the Deity and the Lord Himself are one; how this choice ended is not clear in the

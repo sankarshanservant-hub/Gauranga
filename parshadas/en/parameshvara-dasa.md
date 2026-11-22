@@ -178,7 +178,7 @@ kept Parameshvari Thakura with her as her servant, and both rejoiced beyond meas
 
 ## Radha for Gopinatha
 Once Gopinatha of Vrindavana, in a dream, asked Jahnava to send Him His beloved. Jahnava had a Deity of Sri Radhika
-carved and sent Her to Vrindavana; Parameshvari Dasa accompanied Radha.[^11] <!-- F43 -->
+manifested and sent Her to Vrindavana; Parameshvari Dasa accompanied Radha.[^11] <!-- F43 -->
 
 A messenger from Khardaha told Srinivasa about it: the Ishvari, enchanted by Radhika's beauty, had told Sri
 Parameshvari Dasa and other knowing Vaishnavas to take Her to Vrindavana, had given seven hundred coins, garments and
