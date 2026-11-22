@@ -55,19 +55,19 @@ who they were, he understood only later. They returned home from Ramakeli a few 
 
 ## “Chaitanya! Chaitanya!”
 At last Gangadhara resolved to go to Navadvipa and see Gaura. On the way he came to Kantaka-nagara — and saw people
-running from every side toward Bharati's house. The news had spread like a forest fire: Gaurasundara, the Lord whom His devotees
-worship, had come to Katwa to accept sannyasa from Keshava Bharati. People hurried to see Him and be
+running from every side toward Bharati's house. The news had swept the countryside like a forest fire: Gaurasundara, the Lord whom His devotees
+worship, had come to Katwa to take sannyasa at the hands of Keshava Bharati. People hurried to see Him and be
 purified, and Gangadhara found himself among them. <!-- F10 -->
 
 Everyone marvelled at the Lord's beauty and, learning that His hair was now to be shaved, was overcome with grief; this
 sorrow wounded Gangadhara deeply. The barber in his anguish could not bring himself for a long time to take up the
-razor, and kept falling at Mahaprabhu's feet; and when he placed his hand on the Lord's head, he burst into tears.
+razor, and kept falling at Mahaprabhu's feet; and when at last he laid his hand on the Lord's head, he burst into tears.
 Everyone wept, a wail rose over the crowd, the ground turned to mud with tears, and people struck their foreheads and
 reproached the Creator. One of the biographies adds that the barber Madhu could not see for his tears and set to work
-only at Mahaprabhu's word, then cried out, “What have I done!” and fell senseless; and even the birds fell silent.
+only at Mahaprabhu's word, then cried out, “What have I done!” and collapsed unconscious; and even the birds fell silent.
 <!-- F11 -->
 
-Gangadhara fainted so deeply that people despaired of his life; the “Bhakti-ratnakara” says that he survived only by
+Gangadhara lost consciousness so completely that those around him feared for his life; the “Bhakti-ratnakara” says that he survived only by
 the Lord's will. Long afterwards he came to himself — and could not stop weeping. <!-- F12 -->
 
 Then he heard that Keshava Bharati had given the Lord the name Sri Krishna Chaitanya:
@@ -104,7 +104,7 @@ weeping. <!-- F15 -->
 After some time Chaitanya Dasa came to himself and resumed his life in the village. All this the author of the
 “Bhakti-ratnakara” heard from a very old brahmana of Chakhandi. <!-- F16 -->
 
-From then on Chaitanya Dasa and Lakshmipriya became great devotees of Sri Chaitanya Mahaprabhu. “Extraordinary is the
+From then on Chaitanya Dasa and Lakshmipriya were wholly devoted to Sri Chaitanya Mahaprabhu. “Extraordinary is the
 bhakti of Chaitanya Dasa, and so too is his chaste wife Lakshmipriya” (“Bhakti-ratnakara” 2.62). Thus a single word —
 the name “Chaitanya” — changed his whole life and even his name: Gangadhara became Chaitanya Dasa, the servant of
 Chaitanya. <!-- F17 I1 -->
@@ -189,8 +189,8 @@ In the temple there was revealed to them what he had prayed for on the road:
 
 The moving Brahman is Mahaprabhu; the unmoving one is Jagannatha. What is meant here is not the impersonal Brahman but
 Para-brahman, the Supreme Person: Krishna Himself stood before them in two manifestations — Gaura who walks and
-Jagannatha who stands still. Offering body, mind and life at the feet of both Lords, the couple wept tears of prema and
-silently, within themselves, offered prayers and hymns from the scriptures. <!-- F29 -->
+Jagannatha who stands still. Offering body, mind and life at the feet of the two Lords, the couple shed tears of prema and
+silently, within themselves, offered prayers and scriptural hymns. <!-- F29 -->
 
 The Lord entrusted the brahmana to Jagannatha's feet and gave him to understand by a hint that he should return to
 Gauda. Then He went back to His own quarters in the house of Kashi Mishra, and Chaitanya Dasa to the lodging assigned to
@@ -219,8 +219,8 @@ son of the king of Vraja, Gaurachandra, Jagannatha, has accepted such a wretch a
 
 For him Nanda's son, Gaurachandra and Jagannatha are one Lord. And he calls himself a wretch only out of humility: so a
 devotee, having received mercy, sees himself unworthy of it. The news gladdened husband and wife — the Lord had
-fulfilled their desire and accepted them as His servants; but the thought of leaving Sri Chaitanya and Jagannatha and
-going away from Puri saddened them. <!-- F33 -->
+fulfilled their desire and taken them as His own servants; but the thought of parting from Sri Chaitanya and Jagannatha
+and going away from Puri saddened them. <!-- F33 -->
 
 Govinda carefully brought the brahmana to the Lord, and Mahaprabhu, smiling, gave him a parting instruction:
 
@@ -231,7 +231,7 @@ How the Lord and His servant parted, the “Bhakti-ratnakara” does not venture
 feet of the Lord's associates, and the devotees' hearts were stirred; at the Lion Gate he bowed to Patita-pavana, the
 “Purifier of the fallen,” and with a heavy heart, weeping, set out with his wife on the way home. <!-- F35 -->
 
-Having received Mahaprabhu's blessing, Chaitanya Dasa returned to Gauda in great joy. Again they went through Yajigrama;
+With Mahaprabhu's blessing, Chaitanya Dasa returned to Gauda in great joy. Again they went through Yajigrama;
 there he told Balarama everything, and Balarama accompanied his daughter and son-in-law all the way to Chakhandi and
 stayed with them five to seven days. <!-- F36 -->
 
@@ -248,13 +248,14 @@ laughed, by carrying out the Lord's word became the cause of nama-sankirtana for
 
 Not all the villagers understood him at once. Some rejoiced at his devotion; others said, “All this is useless — that is
 why he is poor and childless.” Husband and wife answered no one and only smiled to themselves. But when Lakshmipriya
-conceived, even those who had shunned the childless couple began to praise their good fortune and brought fitting
-gifts. And Balarama Vipra, versed, according to one of the biographies, in jyotisha, understood that a mahapurusha would
+conceived, even ill-disposed people began to honour her; women came to see her, and gifts of every kind were brought
+from all sides. And Balarama Vipra, versed, according to one of the biographies, in jyotisha, understood that a mahapurusha would
 be born to his daughter. <!-- F38 -->
 
 In due time, “on the full-moon day of Vaishakha, under the nakshatra Rohini” (“Bhakti-ratnakara” 2.156), a son was born
-in Chakhandi, to the joy of all the villagers.[^7] At the hour of his birth Chaitanya Dasa saw various mysteries in a
-dream. <!-- F39 Q3 -->
+in Chakhandi, to the joy of all the villagers.[^7] One of the biographies adds that now even those who had once kept
+away from the childless couple praised their good fortune and brought suitable presents. At the hour of his son's birth
+Chaitanya Dasa saw various mysteries in a dream. <!-- F38 F39 Q3 -->
 
 In great joy father and mother offered the newborn at the feet of Gaurachandra. At the birth celebration brahmanas and
 their wives were generously given gifts, and when Lakshmipriya took her son on her lap, everyone began to sing the names
@@ -268,7 +269,7 @@ was proclaimed beforehand” (“Bhakti-ratnakara” 2.168). <!-- F41 -->
 In this family Srinivasa received all that made him an acharya. From his earliest years his mother taught him the names
 of the Lord and His associates — “Come, my son, say: ‘Gaura Vishvambhara… Sri Krishna Chaitanya, Nityananda-Haladhara’”
 (“Bhakti-ratnakara” 2.176–177) — and from her he learned devotion to Chaitanya, Nityananda, Advaita and Their associates.
-From his father he heard stories of Mahaprabhu and His devotees, of the life of Rupa and Sanatana and their wondrous love
+From his father he heard stories of Mahaprabhu and of His devotees, of the life of Rupa and Sanatana and their wondrous love
 for Gaura-Krishna, of the Vrindavana pastimes of Radha and Krishna; often father and son were lost in ecstasy together,
 and the boy came to love sankirtana about Gauranga. <!-- F42 Q2 I4 -->
 
@@ -343,8 +344,10 @@ When young Srinivasa met Narahari Sarakara and came home in tears, weeping arose
 father questioned his weeping son, and only when he grew calm were the parents glad. <!-- F52 -->
 
 ## Departure from This World
-His dream of going to Vrindavana was not fulfilled: Chaitanya Dasa left this world while Srinivasa was still young. The
-“Bhakti-ratnakara” says briefly:
+The son grew up serving his father and mother without cease; and how the parents loved him, the author of the
+“Bhakti-ratnakara” says he has no power to tell (3.13–14). <!-- F58 -->
+
+Chaitanya Dasa left this world while Srinivasa was still young. The “Bhakti-ratnakara” says briefly:
 
 “After some time his father left this world; looking at her son's face, his mother forgot her grief.”
 (“Bhakti-ratnakara” 3.18)
@@ -361,9 +364,11 @@ The “Nityananda-vamsha-vistara” records how Srinivasa, asked about himself i
 Chaitanya Dasa; my home is in Jajigrama.” <!-- F55 -->
 
 ## The Servant of Chaitanya
-Sri Chaitanya Dasa is a wholly devoted servant of Sri Chaitanyadeva, worthy to be counted among the foremost of His
+Sri Chaitanya Dasa is a wholly devoted servant of Sri Chaitanyadeva, worthy of a place among the first of His
 devotees. Twice he saw the Lord: at Katwa, on the day the Lord accepted sannyasa and the name that made Gangadhara
-Chaitanya Dasa, and in Puri, at the Lion Gate, where the Lord accepted him as His own. <!-- F56 -->
+Chaitanya Dasa, and in Puri, at the Lion Gate, where the Lord accepted him as His own. The Lord's associates in Puri remembered him too:
+when Srinivasa later came there, Gadadhara Pandita was told, “Srinivasa has come from Sri Gauda, whose father is the
+brahmana Sri Chaitanya Dasa” (“Bhakti-ratnakara” 3.146). <!-- F56 F59 -->
 
 But the heart of his life is the home in which Srinivasa appeared, the vessel of prema foretold by the Lord Himself. The
 desire for a son came to him by the Lord's will, and the Lord fulfilled it, for through this son He wished to give the
@@ -384,7 +389,7 @@ whole district. <!-- F57 I2 I3 -->
 [^4]: According to some biographies, Chaitanya Dasa went to Nilachala only to see the Lord's feet, and the Lord Himself
     revealed his unspoken desire; according to others and to the “Bhakti-ratnakara,” the desire for a son arose in him
     while still at home, and his wife advised him to go to Mahaprabhu for a blessing.
-[^5]: According to one of the biographies, these words were spoken by “someone, as if in a clear voice”; according to
+[^5]: According to one of the biographies, these words were spoken by “someone, as if in his own voice”; according to
     the others and to the “Bhakti-ratnakara” (2.103–104), by the Lord Himself.
 [^6]: Some biographies give this prophecy with additions: “through Rupa, Sanatana and others” and “Srinivasa is
     non-different from Me.” The verse of the “Bhakti-ratnakara” itself says: “through Sri Rupa and others” and “the
@@ -392,6 +397,7 @@ whole district. <!-- F57 I2 I3 -->
 [^7]: The year of Srinivasa's birth, 1530, is given by only one biography.
 [^8]: The “Prema-vilasa” is a less reliable source than the “Bhakti-ratnakara”; its later chapters are regarded as
     interpolations.
-[^9]: In a late chapter of the “Prema-vilasa” (16.295) Srinivasa, meeting Jahnava, says that his mother and father live
-    in Chakhandi. This contradicts both the “Bhakti-ratnakara” and the “Prema-vilasa” itself (chapter 4), where the
-    father has already left this world and the son and mother have moved to Yajigrama; we do not accept this passage.
+[^9]: In a late chapter of the “Prema-vilasa” (16.293–296) the boy Srinivasa, coming with Narahari, says that he lives in
+    Chakhandi, “where my mother and father are,” and is at once sent to Vrindavana. The chronology of this passage is
+    confused: according to the “Bhakti-ratnakara” and the “Prema-vilasa” itself (chapter 4), Srinivasa went to Vrindavana
+    only after his father had left this world and he and his mother had moved to Yajigrama; we do not rely on this passage.
