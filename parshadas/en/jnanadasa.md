@@ -20,19 +20,19 @@ Prabhu — according to one source, while still a child. <!-- F3 -->
 
 ## Kandra
 His birthplace is given as the village of Kandra; one of the padas about him names it together with its neighbour, as
-Kandra-Mandra. The biographies place Kandra in the district of Birbhum, other sources in Bardhaman, west of
+Kandra-Mandra. Some sources place Kandra in the district of Birbhum, others in Bardhaman, west of
 Katwa.[^2] Narahari Chakravarti in the “Bhakti-ratnakara,” turning to the story of Jayagopala, a *kayastha* of that
 village whom Virachandra rejected, says:
 
 “In Radha-desha there is a village named Kandra; there is the abode of Sri Mangala Jnanadasa.” (“Bhakti-ratnakara”
-14.180)
+14.180; our translation)
 
 The story says nothing more about Jnanadasa. Why he is called “Mangala” here, the sources do not explain.[^3]
 <!-- F4 F6 Q2 -->
 
 He was born, by scholars' estimates, at the close of the first quarter of the sixteenth century, around 1525; the
 primary sources give no year.[^4] The day of his appearance is unknown too, nor is it found in the Vaishnava
-calendar of the Sri Chaitanya Saraswat Math. By birth he was a *brahmana* of the Radhi class, and by another source of the
+calendar of the Sri Chaitanya Saraswat Math. By birth he belonged to the Radhi *brahmanas* — by another source, to the
 “Mangala” lineage. <!-- F5 F8 -->
 
 He never married: in his youth — by one pada, from his childhood — he took the vow of renunciation. He left no
@@ -42,12 +42,12 @@ Jnanadasa himself “Gosvami,” and ever since his kin have added the title to 
 lineage live in Hooghly and Bankura as well. <!-- F9 F10 -->
 
 His memory lives on in Kandra. Jnanadasa's *thakura-bari*, the house of his Deities, still stands there; other sources
-call the place his *matha*. Every year on Pausha-purnima, the full moon of the month of Pausha, a great festival of
-sankirtana is held in Kandra in his honour: a fair goes on for three days, and, as one pada sings, the *mahantas*
+call the place his *matha*. Each year on Pausha-purnima, the full moon of the month of Pausha, Kandra celebrates a great
+sankirtana festival in his honour: a fair goes on for three days, and, as one pada sings, the *mahantas*
 gather. <!-- F7 F11 -->
 
 ## Jahnava's Disciple and His Friend
-Together with Jnanadasa, his friend and fellow disciple Baba Aul Manohara Dasa, the compiler of the collection of padas
+Together with Jnanadasa, his friend and fellow disciple Baba Aul Manohara Dasa, who compiled the collection of padas
 called the “Padasamudra,” studied under Jahnava; by another source he also compiled the “Niryasa-tattva.” The two, it is
 said, were inseparable: wherever one went, the other went too. The name “aul” means “beside oneself,” “intoxicated” with
 love of God.[^5] <!-- F12 -->
@@ -64,7 +64,7 @@ companions grew eager to go. Jahnava's messenger, arriving at Kheturi, told Srin
 Mahidhara, Murari Chaitanya, the charming Jnanadasa…” (“Narottama-vilasa” 6.186–187)
 
 The “Bhakti-ratnakara,” telling how Jahnava set out from Kharadaha, names in her retinue “Sri Minaketana Ramadasa, the
-charming one, Murari Chaitanya, Jnanadasa, Mahidhara” (10.374).[^7] The “Prema-vilasa” too names him among those who
+charming one, Murari Chaitanya, Jnanadasa, Mahidhara” (10.374; our translation).[^7] The “Prema-vilasa” too names him among those who
 came to the festival (19.311). According to one of the biographies, his friend Manohara Dasa went with him; so a later
 pada sings as well: Baba Aul went with him to the festival at Kheturi. <!-- F14 Q3 -->
 
@@ -84,7 +84,7 @@ Krishnadasa, Ramadasa, Nityananda Dasa and Ramai went surrounding the palanquin�
 
 He was also among the *mahantas* who gathered at Kantaka-nagara, that is, Katwa, where Srinivasa Acharya and
 Raghunandana Thakura came: the “Bhakti-ratnakara” names there “Ramasena, Damodara, Jnanadasa, Gopala the dancer,
-Pitambara” (9.401). Likewise the “Prema-vilasa,” among the branches of Nityananda at the memorial festivals in Katwa and
+Pitambara” (9.401; our translation). Likewise the “Prema-vilasa,” among the branches of Nityananda at the memorial festivals in Katwa and
 Shrikhanda, names “Ramasena, Jnanadasa and Damodara” (19.147). The biographies do not mention this. <!-- F19 -->
 
 ## A Poet of Kirtana
@@ -94,8 +94,12 @@ composed songs both in Bengali and in Brajabuli. <!-- F20 I1 -->
 
 One of his padas is quoted by Narahari Chakravarti in the “Bhakti-ratnakara,” in the account of Saptagrama and the house
 of Uddharana Datta. It opens with the cry: “Ah, my Nityananda Raya!” Nitai Himself dances and Himself sings, making
-everyone repeat “Gauranga!”; around Him are Ramai, Sundara, Gauridasa and other companions; and Jnanadasa sings day and
-night of Nitai's virtues (12.3745–3749). The same pada is included in the “Gaura-pada-tarangini” as well. <!-- F21 -->
+everyone repeat “Gauranga!”; with Him go joyfully Ramai, Sundara, Gauridasa and other companions, on every side He
+makes people cry “Hari bol!”, and Jnanadasa sings day and night of Nitai's virtues (12.3745–3749; our retelling from the
+Bengali). The same pada is included in the “Gaura-pada-tarangini” as well. <!-- F21 -->
+
+Narahari Chakravarti himself, compiling his collection of padas, the “Gita-chandrodaya,” included in it a good many
+songs bearing Jnanadasa's signature. <!-- F28 -->
 
 The great collection of padas, the “Padakalpataru,” contains, by its editor's count, one hundred and eighty-six of his
 songs, in Bengali and Brajabuli; there is also a separate edition of his *padavali*. The “Gaura-pada-tarangini” has padas
@@ -105,7 +109,7 @@ later came to circulate under the name of Chandidasa.[^8] <!-- F22 -->
 
 One of the biographies quotes two of his padas on Radha and Krishna. The first is of Holi: Radha and Madhava swing on a
 swing, the friends rock Them, the Divine Couple shower each other with coloured powder, the *sakhis* sprinkle sandal
-and kunkuma, and at the sight of Them the maidservants swoon; and the poet, beholding it, sees his hope fulfilled. The
+and kunkuma, and at the sight of Their forms Kamadeva himself swoons; and the poet, beholding it, sees his hope fulfilled. The
 second is of separation: a friend tells “heartless Kanu” that Radha in her grief has forgotten the honour of her family,
 now swoons, now laughs, lies on the ground, her face faded like the moon on the fourteenth day; and Jnanadasa angrily
 warns Krishna that the sin of killing a woman will fall on Him. <!-- F20 -->
@@ -113,8 +117,10 @@ warns Krishna that the sin of killing a woman will fall on Him. <!-- F20 -->
 This is not worldly love poetry. The pastimes of Radha and Krishna take place in the spiritual world and cannot be
 measured by the standards of this one. “Forgot the honour of her family” is the gopi's complete self-surrender to
 Krishna, when nothing is left to her but His joy; the poet's “anger” — he speaks here as Radha's friend — and his
-reproach to Krishna are loving pique (*pranaya*), one of the colours of rasa; and the maidservants' swooning is the
-ecstasy of the *manjaris*, whose highest happiness is to serve the Divine Couple. Srila Bhaktisiddhanta Sarasvati
+reproach to Krishna are loving pique (*pranaya*), one of the colours of rasa; and that Kamadeva swoons at the
+sight of the Divine Couple means that Their beauty overpowers even the one who rules over worldly desire — Krishna is
+called Madana-mohana, “the enchanter of Madana himself” — and Their love has nothing in common with worldly *kama*.
+Srila Bhaktisiddhanta Sarasvati
 strictly warned against discussing such songs without the proper qualification, as the *prakrita-sahajiyas* do:
 
 “Unqualified people, who take the body for the self, are full of thirst for what is unworthy and burdened with
@@ -139,8 +145,8 @@ established. To be compared with Chandidasa is high praise: Mahaprabhu Himself l
 drama, the ‘Karnamrita’ and the ‘Sri Gita-govinda’ in supreme bliss.” (CC, Madhya 2.77) <!-- F23 -->
 
 Another poet, Radhavallabha, exclaims: “Glory to the poet Jnanadasa, whose fame is manifest throughout Gauda-mandala!
-His padas are steeped in nectar… he sang of the hidden rasa of Vraja; glory to Mangala Thakura, who obtained the
-peerless gift of poetry.” So this pada too calls the poet Jnanadasa Mangala Thakura. <!-- F24 -->
+His padas are steeped in nectar… he sang of the hidden rasa of Vraja; glory to Mangala Thakura, who by his merit obtained
+the peerless gift of poetry” (“Gaura-pada-tarangini,” sec. 6.3, no. 45; our translation). So this pada too calls the poet Jnanadasa Mangala Thakura. <!-- F24 -->
 
 Where these names came from has been judged in different ways. The compiler of the “Gaura-pada-tarangini” (1903) admits
 that it cannot be decided whether the “Mangala” of the “Bhakti-ratnakara” and the “Manohara” of the “Charitamrita” are
@@ -151,7 +157,8 @@ is auspicious for the whole world (*bhuvana-mangala*), and Madana-mangala for hi
 Narahari Chakravarti himself turns to him as well. The “Namamrita-samudra” has a series of verses in which he begs the
 Vaishnavas for the gift of singing Krishna's childhood pastimes; among them is this:
 
-“O Jnanadasa! [Grant that] I may ever sing of Krishna's endless, enchanting pranks.” (“Namamrita-samudra” 181)
+“O Jnanadasa! [Grant that] I may ever sing of Krishna's endless, enchanting pranks.” (“Namamrita-samudra” 181; our
+translation)
 
 The author does not say outright that this is the same Jnanadasa; but next to him he names Ramasena, Hariharananda and
 “Gopala the dancer” — the very names that surround Jnanadasa in the lists of the “Bhakti-ratnakara” and the
@@ -174,9 +181,10 @@ heard in kirtana to this day. <!-- F2 F20 I1 -->
     person is stated by the biographies and by twentieth-century reference works; in the index of one edition of the
     “Bhakti-ratnakara” both senses stand in a single entry: “branch of Nityananda” and “padakarta.” No primary source says
     so directly; and by his dates the poet could have seen Nityananda only as a youth.
-[^2]: According to some biographies and the note in the “Gaura-pada-tarangini,” Kandra is in Birbhum, two *kroshas* west
+[^2]: According to one of the biographies and the note in the “Gaura-pada-tarangini,” Kandra is in Birbhum, two *kroshas* west
     of Ekachakra (Kandra and Mandra being two villages there, and Kandra full of *brahmana* families); so too the pada
-    about him. According to others it is in the district of Bardhaman, ten miles west of Katwa, near Guskara station. The
+    about him. According to others it is in the district of Bardhaman, ten miles west of Katwa, near Guskara station; and the same
+    biography, elsewhere, in its account of Lochana Dasa, also places Kandra near Guskara station. The
     “Bhakti-ratnakara” (14.180) says only: “in Radha-desha.”
 [^3]: The word *mangala* here is a name, not “auspicious.” The table of contents of one edition of the
     “Bhakti-ratnakara” calls this part a story “about Jnanadasa and Mangala Thakura.” Whether it is a name of Jnanadasa or
