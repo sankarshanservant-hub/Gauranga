@@ -117,6 +117,207 @@ Lord's associates:
 “Thakura Lochana, grant me always this one thing: may my mind drown in Gauranga's pastimes!” (“Namamrita-samudra” 69)
 <!-- F26 Q14 -->
 
+## The “Sri Chaitanya-mangala”
+Lochana's principal work is the “Sri Chaitanya-mangala.” Its basis is Murari Gupta's Sanskrit poem about the Lord, known
+as Murari's “Kadacha” and called by Srila Bhaktisiddhanta the “Sri Chaitanya-charita.” Lochana himself tells how that
+book came about and how he took up his own:
+
+“All that the Lord did from His birth in childhood, how from beginning to end He spread prema — about all this Damodara
+Pandita questioned him, and he told him everything from beginning to end in due order. So came about a book of
+Gauranga's deeds composed in verse — the dialogue with Damodara, issued from Murari's mouth. Hearing it, I was filled with
+love, and I tell of Gaura's deeds in a sung narrative, a *panchali*.” (“Chaitanya-mangala,” Sutra-khanda 53–56)
+
+He says the same again in his conclusion: Murari Gupta, a vaidya and intimate of the Lord, composed in shlokas a poem on
+Gaura's glories to deliver the people, and it became the basis for all; hearing it, Lochana, greedy for its sweetness,
+forgot his own faults and composed the account in panchali form (Shesha-khanda, 94+44–48).[^6] Srila Bhaktisiddhanta
+writes that Lochana began the book from the childhood pastimes of Gaurasundara recorded by Murari Gupta and took them as
+his source-evidence. Following Murari's “Kadacha,” Vrindavana Dasa, Lochana and others described the Lord's pastimes;
+from Murari Lochana took, for example, the account of the Lord's meeting with Ramananda Raya. <!-- F27 Q3 F28 -->
+
+In form the “Chaitanya-mangala” is a *panchali*, a sung narrative of the kind long composed and sung in Bengal:
+according to one of the biographies, Lochana followed the pattern of East Bengali panchalis — the “Lakshmir panchali,”
+the “Shanir panchali,” the “Manasa-bhasan” and others. Such poems were composed in song-metres of five kinds; so too
+Srila Bhaktisiddhanta defines the book: “a book of the panchali kind, that is, a work composed in song-metres of five
+kinds.” One of the biographies observes that poets in Bengal had long composed sacred songs in various metres, and that
+the panchali kind especially served the glorification of the Lord. <!-- F29 -->
+
+The very title speaks of the book's aim. *Mangala* means “blessing”: to hear of Mahaprabhu's pastimes is the highest
+blessing for all living beings. Srila Bhaktisiddhanta explains: by the pastimes of Sri Chaitanyadeva the bonds will fall
+from the living beings bewildered by maya and blessing will come — therefore the narrative of Him is called the
+“Sri Chaitanya-mangala”; He Himself is full of the highest blessing. <!-- F30 -->
+
+The language of the poem was valued not by Vaishnavas alone. Ashutosh Dev, in his “New Bengali Dictionary,” calls
+Lochana a pioneer of Bengali literature in the “language of facts,” that is, the narration of actual events, and of
+verse in the *matravritta* metre; according to one of the biographies, Lochana was the first to compose Bengali verse
+in metres based on the counting of morae (*matra*) and was one of the first historical writers of Bengal. <!-- F31 -->
+
+When the poem was written is not known for certain.[^7] By tradition, Lochana wrote it seated on a stone beneath a
+flowering tree. It is said that the manuscript in his own hand is kept in the village of Kandra (Kadra) near Guskara
+station, with Sri Pranakrishna Chakravarti. <!-- F32 F33 F34 -->
+
+The poem is divided into four parts (*khandas*) — the Sutra-, Adi-, Madhya- and Shesha-khanda; Lochana himself names
+them in his conclusion (Shesha-khanda, 94+50–52). In Srila Bhaktisiddhanta's edition, according to his survey of the
+parts, the Sutra-khanda has two sections, the Adi-khanda seven chapters, the Madhya-khanda sixteen and the Shesha-khanda
+three.[^8] The poem opens with blessings and obeisances to the guru and the Vaishnavas. Then, following the dialogue of
+Narada and Uddhava from the “Jaimini-bharata,” Lochana explains why Krishna descended as Gaura, tells of Rukmini, of
+Parvati and mahaprasada, and then of the Lord's birth and childhood and all His pastimes, up to His mercy to the poor
+brahmana from Dravida and the six-armed form shown to King Prataparudra. <!-- F35 F36 -->
+
+What the “Chaitanya-mangala” means for Vaishnavas and how it should be read was best said by Srila Bhaktisiddhanta, who
+published the poem in 1922. Many, he writes, hesitate to accept its historical statements: part of its information was
+gathered “on the basis of dreams,” and full regard for the truth of pure bhakti is not seen everywhere; yet no one can
+doubt the reliability of its geographical indications, its clear description of Sri Chaitanya's ideal of renunciation
+gladdens the reader, and Lochana's love for Gaura draws the love of Gaura's devotees. Therefore, where the
+“Chaitanya-mangala” differs from the “Chaitanya-charitamrita” and the “Chaitanya-bhagavata,” we follow them.[^9]
+<!-- F27 I1 -->
+
+Much that Vrindavana Dasa only touched on, Lochana describes in detail. The Vaishnavas of old already noticed this; the
+“Anuraga-valli” says:
+
+“What remained in it [the “Chaitanya-bhagavata”] in the form of sutras Thakura Lochana told in particular: the book
+*Sri Chaitanya-mangala*, full of rasa, he revealed in the form of songs — that was his intent.” (“Anuraga-valli” 1.6–7)
+<!-- F37 Q13 -->
+
+Such, for example, is the account of the Lord's last night in Navadvipa before His sannyasa and of His conversation with
+Vishnupriya, which is not found in Vrindavana Dasa. The Lord speaks to her of the illusory nature of worldly ties and
+shows her His four-armed form: through this conversation He instructs all living beings. This is no worldly family
+drama. The words about maya on the Lord's lips refer to the jiva's ties in this world, not to Him Himself nor to His
+eternal consort; and Vishnupriya, as one of the biographies explains, nourishes the joy of the independent Gaura, and in
+her separation from Him true devotees see the pastime of Vrajendranandana in the mood of Radha, not a shadow of
+possessive feeling. Those who distort this account, taking it for worldly love, are *prakrita-sahajiyas*.
+<!-- F37 I5 -->
+
+Lochana sings of Vishnupriya more than once. At the beginning of the poem he glorifies her:
+
+“I praise Vishnupriya-ma, [the lady] of Navadvipa: her ornament is the rosy feet of the Lord.” (“Chaitanya-mangala,”
+Sutra-khanda 22)
+
+Following Murari, he also gives the words of her father, Sanatana Mishra. And when the Lord has left home, Lochana
+describes her weeping:
+
+“At Vishnupriya's weeping the earth splits; beasts, birds, creepers, trees — even the stones weep.”
+(“Chaitanya-mangala,” Madhya-khanda 14.15)
+
+Vishnupriya is the Lord's eternal consort, His potency (Bhu-shakti), and her separation from the Lord is no worldly
+grief. <!-- F38 F39 Q5 Q6 -->
+
+The songs of the “Chaitanya-mangala” are sung to this day in various places of Rarh, as *jhumur* or the songs of the
+“Ramayana” are sung — so wrote Srila Bhaktisiddhanta. They were sung in the house of Narottama Dasa Thakura too; the
+“Prema-vilasa” says of Lochana:
+
+“Sri Lochana Dasa is born of a vaidya family; he is a disciple of Sri Narahari and lives in Shrikhanda. The songs of the
+Chaitanya-mangala composed by him are always sung in Narottama's house. First the Sri Chaitanya-mangala is sung, and
+after that the Krishna-mangala is sung.” (“Prema-vilasa” 19.413–415) <!-- F40 F25 Q12 -->
+
+## Two “Chaitanya-mangalas”
+Vrindavana Dasa's book, too, was at first called the “Sri Chaitanya-mangala,” and later became known as the
+“Sri Chaitanya-bhagavata.” To this name, it is thought, Lochana alludes when at the beginning of his poem he glorifies its
+author:
+
+“With one mind I praise Sri Vrindavana Dasa, by whose song, the *Bhagavata*, the world is enchanted.”
+(“Chaitanya-mangala,” Sutra-khanda 35) <!-- F41 Q1 -->
+
+Who gave Vrindavana's book its new name, and why, is told in different ways. Srila Bhaktisiddhanta writes in the
+introduction to his “Gaudiya-bhashya”: Lochana Dasa Thakura, a disciple of Narahari Sarakara, wrote a book with the
+same title, and to distinguish the two books Vrindavana Dasa later named his own the “Sri Chaitanya-bhagavata” — at the
+request of his mother, Narayani Devi. In his preface to the “Chaitanya-mangala” he also relates a tradition: Lochana's
+book was written somewhat before Vrindavana's, and when Vrindavana's mother said so, his book had to be renamed.[^10]
+According to one of the biographies, Vrindavana's book was renamed when Lochana gave his poem the same title; according
+to others, “some think” the name “Chaitanya-bhagavata” was given to it by Lochana Dasa and Krishnadasa Kaviraja, and most
+likely by Kaviraja, for he compares Vrindavana Dasa to Vyasa:
+
+“Veda-vyasa told the pastimes of Krishna in the *Bhagavata*; the Vyasa of Chaitanya's pastimes is Vrindavana dasa.”
+(CC, Adi 8.34) <!-- F42 Q15 Q11 -->
+
+Be that as it may, there was no rivalry between the two books. One of the biographies observes that among Gaura's
+associates there is no enmity born of envy — otherwise Narahari's disciple Lochana would not have glorified the
+“Chaitanya-bhagavata” and its author, though Vrindavana Dasa does not mention his guru. The same book notes that the
+name of Jiva Gosvami appears neither in Murari's “Kadacha,” nor in the “Chaitanya-bhagavata,” nor in Lochana's
+“Chaitanya-mangala.” <!-- F43 F44 -->
+
+## Songs
+Besides the “Chaitanya-mangala,” Lochana is credited with the “Prarthana,” the “Durlabha-sara,” a collection of songs,
+the “Padavali” or “Dhamali,” a Bengali verse rendering of Ramananda Raya's “Jagannatha-vallabha-nataka” (its Sanskrit
+verses rendered into Bengali songs bearing Lochana Dasa's signature), and a verse rendering of the
+“Rasa-panchadhyayi.” <!-- F45 -->
+
+Above all the devotees honour his songs about Nityananda. It is said that Lochana grew anxious: in the
+“Chaitanya-mangala” he had glorified his guru as the dearest to Mahaprabhu but said little of Nityananda's glory — had
+he not thereby offended Nityananda's feet? And to make amends he composed several songs on Nityananda's greatness. This
+anxiety is the humility of a Vaishnava, to whom even a shadow of inattention to Nityananda seems a fault — not an
+acknowledged offence. <!-- F46 I2 -->
+
+Three such songs are known: “Nitai guna-mani amara, nitai guna-mani…” (“Nitai is my jewel of virtues”), “Akrodha
+paramananda nityananda raya…” (“Nityananda Raya, free of anger, the highest bliss”) and “Parama karuna pahun dui jana,
+nitai gaurachandra…” (“Supreme mercy are the two Lords, Nitai and Gaurachandra”). In the first, Nitai brings a flood of
+prema to Gauda and drowns everyone in it, passing over neither the fallen nor the sinful, and at every threshold gives
+away the love that even Brahma cannot attain; whoever has not honoured Nitai has ruined himself. In the second, Nitai,
+free of anger and pride, wanders through the town, gives the great mantra of the holy name at the doors of the fallen
+and, with a straw between His teeth, begs: “Buy Me — worship Gaurahari.” In the third, Nitai and Gaurachandra are the
+crown of all avataras, the source of nothing but bliss: at the telling of Them beasts and birds weep and stones melt,
+while Lochana laments that he himself is sunk in worldliness and Yama punishes him with the fruits of his karma.
+<!-- F47 Q9 -->
+
+The song “Parama karuna” was especially dear to Srila A. C. Bhaktivedanta Swami Prabhupada. Explaining it, he said that
+Nitai and Gaura are the essence of all avataras, and the path They give is joyful — to sing and dance; there is only one
+condition — to give up sense enjoyment and sing “Hari, Hari” with firm faith. If the Lord inspired even the animals of
+the Jharikhanda forest to chant the holy name, how much more can people be drawn to the chanting. <!-- F48 I3 -->
+
+Many other padas about Gaura circulate in the anthologies — the “Padakalpataru” and the “Gaura-pada-tarangini” — under
+Lochana's signature. Some of them are written in *nagari-bhava*, as if in the voice of the women of Nadia — a mood that
+the Gaudiya Vaishnavas, following Vrindavana Dasa, do not accept (see below); one pada under his name is in fact a passage
+from the “Chaitanya-mangala” itself, another belongs to Vasu Ghosha, and the playful conversational songs are usually
+linked with his “Dhamali” — *dhamali* songs about Gaura. Many of these padas are ascribed to him only by later
+collections, and so we speak of them as songs circulating under his name; Srila Bhaktisiddhanta expressly warns about the
+collections called “Lochana's panchali” (see below). Already N. Vasu (1897) held that the “Baramasya of Vishnupriya”
+bearing Lochana's signature was not composed by him. <!-- F49 F50 -->
+
+## Gaura Is Not a “Nagara”
+One of the deviant communities (*apasampradayas*) claims that the “Chaitanya-mangala” contains the Gaura-nagari doctrine
+— of Gaura as a *nagara*, the lover of the women of Nadia. This is not true. Vrindavana Dasa already spoke against such
+worship:
+
+“Therefore all the great souls never praise Gauranga with such a hymn as ‘Gauranga-nagara.’” (CB, Adi 15.30)
+<!-- F51 Q8 -->
+
+Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: Sri Gaurasundara is Krishna who has accepted the mood and
+radiance of Radha. Therefore, never abandoning the heart's mood of Radhika and the gopis — those who love (*ashraya*) —
+He did not take up the endeavours of the One who is loved (*vishaya*), as Krishna Himself does, and never displayed the
+ways of a “nagara” who looks at others' wives with the pride of an enjoyer. He is Vrajendranandana Himself, the Lord of
+the gopis, yet to call Him a “nagara” is not permissible: it is contrary to the spirit of service to Gaura-Krishna; in
+Gaura's pastimes Krishna abides in separation (*vipralambha*). <!-- F52 Q8 I4 -->
+
+Where, then, do the lines of the “Chaitanya-mangala” that are read in the Gaura-nagari spirit come from? One of the
+biographies answers: self-interested people inserted this doctrine and various invented descriptions contrary to
+siddhanta into the book — as even some secular scholars admit; there are no such insertions in the
+“Chaitanya-bhagavata” and the “Chaitanya-charitamrita,” and whatever disagrees with them the followers of Gaura do not
+accept as a conclusion. <!-- F53 -->
+
+And Srila Bhaktisiddhanta, in his preface to the poem, says: seeing the grace of its language and Lochana's heartfelt
+love for Gaura, some claim that he strays somewhat from the truth of pure bhakti. “We are not prepared to say so,” he
+writes, “for ‘the actions and gestures of a Vaishnava are not understood even by the wise.’[^11] May the abominable desire
+to impute the stench of the Gaura-nagari doctrine to *Sri Chaitanya-mangala* never take hold of our hearts.” The
+collections of popular songs that circulate under the name “Lochana's panchali,” he says, must be approached with
+special caution: into many of them the newfangled Gaura-nagari doctrine has been introduced. Thus the acharya guards
+both Lochana's honour and the purity of siddhanta: in the poem Gaura is Krishna in the mood and radiance of Radha, and to
+glorify Him as a “nagara” goes against the truth proclaimed by Vrindavana Dasa and Kaviraja Gosvami. <!-- F54 I4 -->
+
+## Departure and Samadhi
+Lochana Dasa left this world, according to the biographies, in 1589.[^12] By our calendar (Sri Chaitanya Saraswat Math)
+the day of his departure is Krishna-ashtami of the month of Madhava (≈ Magha); in 2027 it falls on 30 January. The
+sources on which the biographies draw do not name the day. His brick samadhi stands at his shripat, marking the place
+where his remains rest; and Lochana's shripat is his native village, Kogram. <!-- F55 F56 F57 -->
+
+## Significance
+By his guru's will and with love for Gaura, Lochana Dasa became the singer of the Lord's pastimes for the simple people
+of Rarh: his panchalis are sung to this day, and through them Mahaprabhu's pastimes reach those who do not read Sanskrit
+poems. His life is a lesson in fidelity to the guru: everything he composed he held to be the mercy of Narahari and the
+Vaishnavas. His songs about Nityananda are a lesson in humility: even a shadow of inattention to Nityananda's glory
+Narahari's disciple took as a fault and made it good with songs that Vaishnavas sing to this day. And the way Srila
+Bhaktisiddhanta defended his poem against the Gaura-nagari doctrine imputed to it teaches us to read it with a
+Vaishnava's eyes: Gaura is Krishna in the mood of Radha, and the measure of every account of Him is the
+“Chaitanya-bhagavata” and the “Chaitanya-charitamrita.” <!-- I1 I2 I4 -->
+
 [^1]: He should not be confused with Sulochana of Shrikhanda, a branch of the tree of Sri Chaitanya (CC, Adi 10.78;
     Madhya 11.92; “Gaura-ganoddesha-dipika” 209): Sulochana was with the Lord and came to Puri for the Ratha-yatra,
     whereas Lochana Dasa was born in 1523 and never saw the Lord. In the “Namamrita-samudra” of Narahari Chakravarti they
@@ -131,3 +332,30 @@ Lord's associates:
     “94+59” denote couplets added in the 1983 edition after v. 94 of Bhaktisiddhanta's edition.
 [^5]: Close by, in 19.124, the “Prema-vilasa” names “Raghunandana and Sulochana,” and in 19.126 “Lochana”; that this is
     Lochana Dasa is very likely, but not beyond doubt.
+[^6]: One of the biographies writes that Damodara Pandita, having heard Murari's verses, taught them to Lochana, who
+    learned them by heart, and also that, according to Lochana, Murari's book is no longer in circulation, and so he
+    conveys its essence in Bengali verse. Lochana himself says only that Damodara questioned Murari, and that he, Lochana,
+    “heard” the finished book (Sutra-khanda 53–56); Damodara and Lochana could hardly have met in time. We follow
+    Lochana's own words.
+[^7]: According to some biographies the poem was completed in 1537, but Lochana would then have been only fourteen; it
+    is usually assigned to the middle of the sixteenth century (the 1550s–1560s). N. Vasu, who in 1897–1898 published
+    Jayananda's “Chaitanya-mangala,” held that Lochana's poem was composed long after the Lord's disappearance and after
+    Jayananda's book — which is why Jayananda does not mention Lochana. On the tradition that Lochana's poem is older than
+    the “Chaitanya-bhagavata,” see below.
+[^8]: One of the biographies counts twelve chapters in the Madhya-khanda. The 1983 edition divides the text differently
+    and adds a fourth chapter of the Shesha-khanda — on the Lord's disappearance — and Lochana's closing word about
+    himself; they are absent from Bhaktisiddhanta's edition. In that chapter Lochana writes that the Lord “entered”
+    (literally, “merged into”) Jagannatha. In the understanding of the Gaudiya Vaishnavas (Srila Bhaktisiddhanta
+    Sarasvati), the Lord's departure is His *antardhana-lila*: He only withdrew from worldly eyes, just as He appeared by
+    His own will; His body is *sat-chit-ananda*, and there is no death for Him.
+[^9]: Thus Lochana places the Lord's meeting with Ramananda Raya at Kanchi, whereas according to the
+    “Chaitanya-charitamrita” (Madhya 8) it took place on the bank of the Godavari.
+[^10]: The tradition that Lochana's poem is older than Vrindavana's book is hard to reconcile with the
+    “Chaitanya-mangala” itself: already at its beginning (Sutra-khanda 35) Vrindavana's book is called the “Bhagavata.”
+    N. Vasu (1897–1898) concluded from this very line that Lochana wrote after Vrindavana Dasa. We give it as a tradition.
+[^11]: CC, Madhya 23.35 (in other editions 23.39): “Even the wise cannot understand the words, actions and ways of one in
+    whose heart love for Krishna has risen.”
+[^12]: Different years are given: 1589 (1511 of the Shaka era) according to some biographies; 1530 Shaka (1608)
+    according to the “Vishvakosha,” to which one of them refers; “1540” according to another, with no era stated (1540 CE
+    is impossible: Lochana would have been seventeen, and he wrote the poem later; if it is a Shaka year, it is 1618).
+    The year of his appearance, 1523, is the same in all.
