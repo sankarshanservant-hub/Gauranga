@@ -392,6 +392,228 @@ Vrindavana, Jahnava came first of all to Kheturi, and she was met by the devotee
 Kaviraja (“Narottama-vilasa” 9; “Prema-vilasa” 15). And Shyamananda spent several months with Narottama in Kheturi.
 <!-- F76 F77 -->
 
+## Brahmanas at the Thakura's Feet
+After the festival Narottama's fame spread through the whole Vaishnava world. Eminent brahmanas became his disciples —
+Ramakrishna Acharya and Ganganarayana Chakravarti — and many learned devotees of the region; these two became the most
+important preachers among his disciples. The “Narottama-vilasa” (12) lists the branches and shoots of Narottama's tree.
+<!-- F78 -->
+
+Not everyone was pleased. A smarta pandita insulted Narottama before his own students, calling him a shudra — and his body
+began to rot with leprosy. In despair he went to drown himself in the Ganga, but that night Durga-devi appeared to him in
+a dream: “Fool, you took a mahabhagavata for a shudra… Go and beg forgiveness at his feet.” The next morning, with a cloth
+round his neck as a sign of humility, he fell in tears at Narottama's feet. The Thakura's company gradually healed him; on
+Narottama's advice he began to serve Krishna and became deeply attached to him. The disease was not a “punishment of the
+Goddess” but the fruit of offending a Vaishnava; and Durga, Mahamaya, is the Lord's maidservant, and so she herself sends
+the offender to the feet of His devotee. The “Narottama-vilasa” (9) tells the same. <!-- F79 -->
+
+Once Narottama and Ramachandra Kaviraja were going to bathe in the Padmavati and met two young brahmanas, Harirama and
+Ramakrishna, sons of Shivananda Acharya, a zamindar of the village of Goyasgaram. At their father's order they were
+leading goats and a buffalo to be sacrificed to the Goddess at the Durga-puja in their home. The radiance of the two
+Vaishnavas captivated the youths. Narottama explained to them the meaning of the “Bhagavata”: the rites of karma-kanda in
+the modes of passion and ignorance, with violence to animals, do not elevate — even one who reaches heaven falls from it,
+and one who kills animals destroys his own soul; and all souls are the energy of Krishna. Give up such worship, he said,
+and serve the Supreme Lord without selfish motive. The brothers set the animals free, bathed in the Padma, came to the
+temple of Mahaprabhu, and the next morning, with shaven heads, received the mantra of Radha-Krishna: Harirama from
+Ramachandra Kaviraja, Ramakrishna from Narottama.[^16] <!-- F80 -->
+
+Shivananda was enraged. Finding his sons in Narottama's ashrama at Kheturi — with tilaka, a tulasi-mala round the neck and
+a shikha — he summoned from Mithila the smarta pandita Murari. But by their guru's mercy the sons refuted all his arguments
+from scripture, showing that a Vaishnava stands above a brahmana, and the pandita fled. And that night the Goddess
+reproached Shivananda in a dream for his enmity towards Vaishnavas: “Sri Hari is the master of all… Go to Narottama and
+beg forgiveness.” <!-- F81 -->
+
+Ganganarayana Chakravarti, a famous learned brahmana of Gambhila, listened attentively to the Gosvamis' siddhanta from
+Narottama, took shelter at his feet, and then studied the Gosvamis' books deeply. Jagannatha Acharya, a worshipper of
+Durga, also came to him: Durga herself told him in a dream to go to Narottama, saying, “Krishna is my master and my guru.”
+He came to Kheturi and bowed down; Narottama smiled and said, “You are very fortunate — Krishna's mercy is upon you,” and
+initiated him into the mantra of Radha-Krishna. Jagannatha became one of his dearest and most trusted disciples; the
+“Prema-vilasa” (19) also tells of him. <!-- F82 F83 -->
+
+The smartas complained to Raja Narasimha, the ruler of Pakkapalli: “Narottama is a shudra, yet he makes brahmanas his
+disciples. If this goes on, we shall perish like the Yadus.” With the raja and the digvijayi pandita Rupa Narayana they
+set out for Kheturi.[^17] Ramachandra Kaviraja and Ganganarayana learned that they had stopped for the night in the bazaar
+at Kumarapura, and opened stalls there — a potter's and a pan-seller's. They addressed the smartas in pure Sanskrit and
+defeated them all in debate, Rupa Narayana included. Learning that these were Narottama's disciples, the raja said: “If
+even his ordinary disciples defeat you, there is no point in going to him himself.” That night Durga appeared to the raja
+and Rupa Narayana in a dream with a sword and told them to take shelter of Narottama. In the morning they came and found
+him in the temple of Gauranga, absorbed in chanting the name. Narottama received them respectfully and humbly: “I am
+insignificant, while you are renowned for learning, wisdom and royal wealth. It is my good fortune to have the company of
+such learned and noble men; how may I serve you?” They fell at his feet, begging forgiveness, and after a few days he
+initiated them into the mantra of Radha-Krishna. The “Prema-vilasa” (19) also tells of the raja's conversion; it also
+contains the tradition of a sacred thread that appeared in Narottama's heart. <!-- F84 -->
+
+How, then, could a kayastha be a guru to brahmanas? This is no violation and no “protest” against social order. Srila
+Bhaktisiddhanta Sarasvati explains in the “Anubhashya”:
+
+“Sri Thakura Narottama, Shyamananda and other gurus who were true brahmanas were in fact pure brahmanas themselves. That
+is exactly why brahmanas by birth such as Sri Ganganarayana and Ramakrishna recognised them as pure ‘brahmanas’ fit to be
+gurus.” (“Anubhashya” on CC Madhya 24.325)
+
+Mahabhagavatas, he says elsewhere, are nishkinchana paramahamsas beyond varnashrama who take shelter of Krishna alone —
+and at once he quotes Narottama's words from the “Prarthana”: “One who regards the associates of Gauranga as eternally
+perfect goes to the son of the king of Vraja” (“Anubhashya” on CC Madhya 11.67). <!-- F98 Q17 -->
+
+Nor was there any worldly entanglement in Narottama's accepting many disciples. Of those who think so, Srila
+Bhaktisiddhanta writes:
+
+“Sri Rupa, Sri Sanatana, Sri Jiva, Sri Raghunatha Dasa and the Lord's other associates, the great souls, as well as
+Sriman Narottama, Srila Madhva, Ramanuja and others, accepted many disciples and gave instruction by writing books. Many
+foolish people imagine that all this is an obstacle to bhakti and a wave of worldly objects, and so they become offenders
+at the feet of genuine akinchana devotees.” (“Anubhashya” on CC Madhya 7.130)
+
+An acharya's power is not measured by the number of his disciples: in one line there are both hermits who delight in
+solitary service (viviktanandi) and preachers who enlarge the community (goshthyanandi). <!-- F100 I5 Q17 -->
+
+## Kirtana and Songs
+Narottama's ashrama, according to the late reference work “Gaudiya-vaishnava-abhidhana,” was at Bhajantuli, about two
+miles from the capital of Kheturi. He preached above all through kirtana. He introduced his own style into
+sankirtana — *garanhati* — and this style helped to spread bhakti through the land; Srinivasa had the *manohara-shahi*
+style and Shyamananda the *reneti*; today all three are lost. Srinivasa preached both through the “Bhagavata” and through
+kirtana, Narottama and Shyamananda mainly through kirtana. According to the “Narottama-vilasa” (6), Narottama created his
+style before the Deity of Gauranga, and gandharvas came to listen. <!-- F85 F86 Q19 -->
+
+Narottama's songs are collected in the “Prarthana” and the “Prema-bhakti-chandrika”; one of the biographies also names a
+book of kirtanas, the “Nama-sankirtana.” A pranama to his guru Lokanatha is also his. These books have been reprinted
+countless times and have influenced all who walk the path of bhakti: in them is the life of the devotees and songs for
+every mood. His influence reached even distant Manipur: there it is acknowledged that Vaishnavism spread by his spiritual
+power, and his songs are sung in every home. The “Prema-vilasa” (17) tells of the “Prema-bhakti-chandrika.”[^18]
+<!-- F85 F87 -->
+
+The biographies quote much from his songs. In the “Prarthana” he prays to Nityananda (“Ara kabe nitai chand…”) and to
+Advaita, remembers his guru (“Ha ha prabhu Lokanatha…”), laments bitterly that he did not serve the feet of the nine
+Gosvamis, among whom he names Bhugarbha and Lokanatha (“Hari hari, ki mora karama-gati manda…”), sings of Rupa and Sanatana
+and of Gauranga (“Bane te thake ha Gauranga…”; “Vrajendra-nandana yei, shachi-suta haila sei” — “He who is the son of the
+king of Vraja has become the son of Shachi”). The songs about Sri Rupa-manjari — “Sri rupa-manjari-pada sei mora
+sampada…,” “Shuniyachhi sadhu-mukhe…,” “Ei nava-dasi bali…,” “Sri-rupa-pashchate ami…” — speak of service in Rupa's
+footsteps. The “Prema-bhakti-chandrika” opens with a mangalacharana to Rupa; in it are “Jaya sanatana rupa
+prema-bhakti-rasa-kupa…,” “Ana katha ana vyatha…,” “Shuniya govinda-raba….” Srila Bhaktisiddhanta in the “Anubhashya”
+quotes his lines on the devotee's only wealth:
+
+“Thakura Narottama says: ‘My wealth is Nityananda’; ‘The feet of Sri Radha and Krishna are the wealth of my life’; ‘Glory
+to You, Purifier of the fallen! Give me this wealth: apart from You nothing is dear to me’; ‘The feet of Sri
+Rupa-manjari are my treasure, my service and worship, the wealth of my life.’” (“Anubhashya” on CC Adi 13.124)
+<!-- Q14 F98 -->
+
+In these songs is his soul. He calls himself a “chandala” and by other self-abasing names, just as Mahaprabhu called
+Himself “a Mayavadi sannyasi without prema”: devotees hide their greatness. Narottama is the best follower of Rupa
+Gosvami, “the first among the followers of Rupa,” the servant of Rupa, Raghunatha and Jiva, who accepted Rupa as his
+treasure of prema. In one of his songs he draws a ladder of mercy: without shelter at Jahnava's feet there is no mercy of
+Nityananda; without it the desires for enjoyment do not leave; while they remain there is no mercy of Rupa and
+Raghunatha, and without that no attachment to the youthful Couple of Vraja. <!-- I6 I7 I8 -->
+
+Srinivasa was for Narottama a friend one with him in spirit, and yet Narottama in a song asked him for the company of his
+disciple: “Prabhu Srinivasa Acharya, be merciful — Narottama Dasa begs for the company of Ramachandra.” This shows how he
+loved Srinivasa himself. In the “Prarthana” he prayed for Srinivasa's mercy also when detractors condemned the Acharya's
+second marriage. And Ramachandra Kaviraja was his dearest companion in preaching and bhajana, his second self; Narottama
+loved him more than life. The “Bhakti-ratnakara” says of Ramachandra:
+
+“Ramachandra Kaviraja, full of all virtues, is the one with whom Narottama Mahashaya is one in soul.”
+(“Bhakti-ratnakara” 1.269)
+
+Narahari also quotes a verse from Govinda Kaviraja's drama “Sangita-madhava,” where Ramachandra is called “truly one” with
+the renowned Narottama (1.270), and another about the two “who became a pair through great mutual love” (1.277). Srila
+Bhaktisiddhanta writes in the “Anubhashya” that Thakura Narottama prayed for Ramachandra's company birth after birth, and
+that Ramachandra was the chief and dearest companion of Thakura Mahashaya and Srinivasa Acharya in preaching and in
+bhajana (on CC Adi 11.53). The “Prema-vilasa” (17) describes their friendship and the order of their bhajana. As once
+Rupa, Sanatana and Raghunatha, as Lokanatha and Bhugarbha, so Narottama and Ramachandra showed the bhajana of like-minded
+friends, without a trace of rivalry — though they did not necessarily live in one hut. <!-- F88 Q11 F98 I9 -->
+
+When Srinivasa came to Gauda, Narottama and Shyamananda were with him, and a flood of Hari-kirtana arose. Srinivasa,
+Narottama and the other acharyas spread sankirtana by the mercy and under the guidance of Jahnava, and also of Vishnupriya;
+Jahnava they accepted as jagad-guru and considered they had fulfilled the purpose of life by hearing Hari-katha from her.
+<!-- F89 -->
+
+## Separation and Withdrawal
+Ramachandra, with the blessing of Narottama and Srinivasa, went to Vrindavana and some months later entered the eternal
+pastimes; Srinivasa, unable to bear separation from his beloved disciple, also left this world. Narottama first learned of
+Ramachandra's departure, and soon after, of Srinivasa's. In great separation he composed the song “Ye anila prema-dhana
+karuna prachura…” — “He who brought the treasure of prema, boundlessly merciful…” — on his separation from Srinivasa; all
+the devotees sing it. The “Narottama-vilasa” (11) gives another of his laments as well — “Gaurangera sahachara…” — about
+the associates of Gauranga. <!-- F90 -->
+
+It was the same sorrow that lived in his songs all his life: he had come into the world when the Lord had already
+withdrawn. Vrindavana Dasa Thakura grieves that he did not see the pastimes of the Lord as a scholar:
+
+“I am a fallen sinner — it was not my lot to be born at that time and see those divine pastimes.” (CB Madhya 1.399)
+
+And Srila Bhaktisiddhanta in the “Gaudiya-bhashya” on this verse quotes Narottama's “Prarthana”: “Not having obtained the
+company of those associates, Narottama Dasa weeps,” and: “When Gaura, Nityananda, Advaita and the devotees appeared in
+Nadia, I was not born.” <!-- F99 Q18 -->
+
+Soon his own hour came. Almost drowning in the ocean of separation, Narottama took leave of the Deities and went with
+Govinda and others to Budhari; he spent a day there in kirtana and then came to Gambhila on the Ganga. There he entered
+the temple of Mahaprabhu and told the devotees to sing kirtana. After the sankirtana, bowing to the Ganga in tears, he
+entered the water and, going in a little way, asked that all directions be filled with loud chanting of the holy name.
+Ramakrishna Acharya and Ganganarayana Chakravarti led two kirtanas in two places. He asked them to wash his body with
+Ganga water — and as they were about to do so, he, absorbed in the chanting of the name, withdrew from worldly eyes into
+the waters of the Ganga. The “Narottama-vilasa” says:
+
+“From Budhari he went quickly to Gambhila, bathed in the Ganga and sat in the Ganga's water. He ordered Ramakrishna and
+Ganganarayana, ‘Both of you, wash my body.’ How could they wash him? As soon as they touched him, he dissolved like milk
+into the waters of the Ganga. Before everyone's eyes he quickly disappeared — this is utterly unfathomable: who could
+understand it?” (“Narottama-vilasa” 11.330–333)
+
+The waves of the Ganga surged up, the gods showered flowers from heaven, and from all sides rose the cry, “Hari! Hari!”
+Narahari calls it Sri Mahashaya's hidden withdrawal. This is not death: Thakura Mahashaya left this world as the Lord's
+eternal associates leave it. <!-- F91 -->
+
+Earlier, according to the same book, there had been another event: in Gambhila Narottama, before people's eyes, left his
+body, and the detractors were already rejoicing — here, they said, was the price of brahmana disciples; but at
+Ganganarayana's prayer he rose from the funeral pyre, and the detractors repented. This was only an appearance of death —
+for people's eyes. <!-- F91 -->
+
+The day of his departure is the krishna-panchami of the month of Kartika; according to our calendar (Sri Chaitanya
+Saraswat Math), the krishna-panchami of the month of Damodara (≈ Kartika); in 2026 it fell on 30 October. The sources do
+not give the year of his departure.[^19] One of the biographies says that Vishvanatha Chakravarti was active some sixty
+years after Narottama's withdrawal. <!-- F92 -->
+
+After his departure his disciples held festivals in Gambhila and in Kheturi. In the kirtana at Kheturi everyone suddenly
+saw Narottama dancing; after dancing a little he slipped away unseen, and later, appearing in dreams, consoled those close
+to him (“Narottama-vilasa” 11.338–355). <!-- F93 -->
+
+## Legacy
+Narottama's disciplic line reached Srila Vishvanatha Chakravarti Thakura: Narottama — Ganganarayana Chakravarti —
+Krishnacharana Chakravarti — Radharamana Chakravarti — Vishvanatha; he is the fourth from Narottama. Vishvanatha named his
+line in an auspicious verse:
+
+“Bowing to the feet of my gurus, full of great love — Rama, Krishna and Ganga — I praise Srila Narottama, Natha and Sri
+Gauranga Prabhu.”
+
+“Rama” here is Radharamana, “Krishna” is Krishnacharana, “Ganga” is Ganganarayana, “Natha” is Lokanatha. Vishvanatha wrote
+his “Sankalpa-kalpadruma” “under the guidance of Sri Lokanatha and Sri Narottama” of his line, and among his minor works is
+the “Sri Narottamashtaka,” a hymn to Narottama in nine stanzas. <!-- F94 Q15 Q16 -->
+
+With the departure of Srinivasa, Narottama, Shyamananda and Rasikananda, the third of its “dark ages” began for Bengal
+Vaishnavism: darkness descended on Gaudiya Vaishnavism, and apasampradayas multiplied. <!-- F95 -->
+
+But the Gaudiya Vaishnavas of later generations kept Narottama's songs as something intimate. Srila Gaurakishora Dasa
+Babaji considered the “Prarthana” and the “Prema-bhakti-chandrika” his everything and often sang Narottama's song “Keno va
+achhaye prana…”; Srila Vamshidasa Babaji quoted the “Prema-bhakti-chandrika” (“Shuniya govinda-raba…”). Srila
+Bhaktisiddhanta Sarasvati as a schoolboy read only the “Prarthana,” the “Prema-bhakti-chandrika” and his father's books. In
+Bogra he spoke of North Bengal, once blessed by Narottama. And on his last day in this world he asked Srila B. R. Sridhara
+Maharaja to sing “Sri rupa-manjari-pada,” a song he dearly loved, and said: “Narottama Dasa Thakura accepted the
+understanding of Rupa and Raghunatha — better to live by it.” The songs of Srila Bhaktivinoda Thakura are of the same
+essence as Narottama's; and Srila Akinchana Dasa Babaji said that Sridhara Maharaja's writings too are not different from
+Narottama's. Srila Krishnadasa Babaji also remembers Narottama alongside Bhaktivinoda. <!-- F96 I10 I7 -->
+
+He is remembered also by Narahari Chakravarti, the author of the “Bhakti-ratnakara” and the “Narottama-vilasa.” Near the
+end of the “Namamrita-samudra,” his prayers to the Lord's associates, he calls on him together with Srinivasa and
+Shyamananda:
+
+“O Srinivasa! Narottama! Shyamananda! Be merciful to me together with your followers — I am very wicked.”
+(“Namamrita-samudra” 270) <!-- F97 Q18 -->
+
+## Champaka-manjari
+In Krishna's eternal pastimes Narottama is Champaka-manjari, who always assists Sri Rupa-manjari in the service of Radha
+and Krishna; out of mercy for conditioned souls she came into this world. According to the “Prema-vilasa” (11), Sri Radha
+Herself bestowed on him this service and this name.[^20] <!-- F3 -->
+
+So Thakura Mahashaya, called by the Lord before his birth, received prema from the hands of the Padmavati, served his
+guru as a servant of servants, brought the Gosvamis' books to Gauda, revealed in Kheturi six Deities and in his kirtana
+Mahaprabhu Himself with His associates, and in his songs left to the Gaudiya Vaishnavas the path of the followers of
+Rupa. He is called one of the three acharyas who preserved the Gosvamis' heritage — and the Gaudiya Vaishnavas sing his
+songs as something intimate to this day. <!-- F5 F6 F64 F94 F96 I1 I2 I4 I7 I10 -->
+
 [^1]: According to one of the biographies, Jiva gave him the title “Thakura,” according to another, “Thakura Mahashaya”;
     the “Prema-vilasa” (12) tells of the same.
 [^2]: According to one of the biographies, Prematali is connected with another occasion: the Lord wept in ecstasy on the
@@ -435,3 +657,15 @@ Kaviraja (“Narottama-vilasa” 9; “Prema-vilasa” 15). And Shyamananda spen
 [^15]: According to one of the biographies, this was on the morning after the night of kirtana, while elsewhere the same
     biography places Jahnava's cooking on the third day of the festival; the “Bhakti-ratnakara” says only “early in the
     morning.”
+[^16]: According to another biography, both brothers were initiated by Narottama. We follow the account that agrees with
+    the “Prema-vilasa” (14), where Harirama is a disciple of Ramachandra.
+[^17]: According to the “Prema-vilasa,” Rupa Narayana was the son of Lakshminatha Lahiri; it too says that he received
+    the mantra from Narottama.
+[^18]: One of the biographies writes of a Sanskrit commentary by Vishvanatha Chakravarti on Narottama's
+    “Prema-bhakti-vilasa”; Narottama has no work of that name — the “Prema-bhakti-chandrika” is probably meant.
+[^19]: Only one of the biographies and the “Narottama-vilasa” (11) speak of Narottama's departure; the other two
+    biographies are silent about it. The day — the krishna-panchami of Kartika — is given only by that biography, and it
+    agrees with our calendar.
+[^20]: This is the testimony of one of the biographies and of the “Prema-vilasa,” a less reliable source; there too, at
+    his initiation, Lokanatha reveals to him the form of Vilasa-manjari (see note 7). Narottama does not appear in the
+    “Gaura-ganoddesha-dipika” (1576).
