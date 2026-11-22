@@ -16,7 +16,7 @@ Thakura.” <!-- F1 F2 Q1 -->
 Tradition and the biographies take this Jnanadasa to be one and the same person as the poet from the village of Kandra,
 Jahnava's disciple, whose songs are still sung in kirtana today. We follow that tradition here, although no primary
 source says so in as many words.[^1] He received initiation from Sri Jahnava, the consort and shakti of Nityananda
-Prabhu — according to one account, while still a child. <!-- F3 -->
+Prabhu — according to one source, while still a child. <!-- F3 -->
 
 ## Kandra
 His birthplace is given as the village of Kandra; one of the padas about him names it together with its neighbour, as
@@ -31,13 +31,13 @@ The story says nothing more about Jnanadasa. Why he is called “Mangala” here
 <!-- F4 F6 Q2 -->
 
 He was born, by scholars' estimates, at the close of the first quarter of the sixteenth century, around 1525; the
-primary sources themselves give no year.[^4] The day of his appearance is unknown too, nor is it found in the Vaishnava
-calendar of the Sri Chaitanya Saraswat Math. By birth he was a *brahmana* of the Radhi class, and by one account of the
+primary sources give no year.[^4] The day of his appearance is unknown too, nor is it found in the Vaishnava
+calendar of the Sri Chaitanya Saraswat Math. By birth he was a *brahmana* of the Radhi class, and by another source of the
 “Mangala” lineage. <!-- F5 F8 -->
 
-He never married: in his youth — by one pada, from his childhood — he took the vow of renunciation. So he left no
+He never married: in his youth — by one pada, from his childhood — he took the vow of renunciation. He left no
 descendants of his own; but in the village of Kotulpur, in the district of Bankura, live the descendants of his
-kinsmen. Several families in Kotulpur bear the title “Gosvami”: according to the “Vishvakosha,” people used to call
+kinsmen. Several families there bear the title “Gosvami”: according to the “Vishvakosha,” people used to call
 Jnanadasa himself “Gosvami,” and ever since his kin have added the title to their names. *Brahmanas* of the same
 lineage live in Hooghly and Bankura as well. <!-- F9 F10 -->
 
@@ -105,7 +105,7 @@ later came to circulate under the name of Chandidasa.[^8] <!-- F22 -->
 
 One of the biographies quotes two of his padas on Radha and Krishna. The first is of Holi: Radha and Madhava swing on a
 swing, the friends rock Them, the Divine Couple shower each other with coloured powder, the *sakhis* sprinkle sandal
-and kunkuma, and at the sight of Them the maidservants swoon; and the poet, beholding it, has his wish fulfilled. The
+and kunkuma, and at the sight of Them the maidservants swoon; and the poet, beholding it, sees his hope fulfilled. The
 second is of separation: a friend tells “heartless Kanu” that Radha in her grief has forgotten the honour of her family,
 now swoons, now laughs, lies on the ground, her face faded like the moon on the fourteenth day; and Jnanadasa angrily
 warns Krishna that the sin of killing a woman will fall on Him. <!-- F20 -->
@@ -133,8 +133,7 @@ Later poets glorified Jnanadasa himself. A pada signed “Narahari Dasa” sings
 It goes on to say that in Kandra to this day a three-day festival is held in his honour at the full moon, that he was
 called “Madana-mangala” and “Manohara,” and that Baba Aul went with him to Kheturi; the poet calls him the sun in the
 race of poets, equal to Chandidasa, and his padas a stream of nectar. The pada is late, and who composed it has not been
-established. It was not by chance that he was ranked with Chandidasa: Mahaprabhu Himself loved to hear Chandidasa's
-songs:
+established. To be compared with Chandidasa is high praise: Mahaprabhu Himself loved to hear Chandidasa's songs:
 
 “With Svarupa and Ramananda, Mahaprabhu night and day sang and heard the songs of Chandidasa and Vidyapati, Raya's
 drama, the ‘Karnamrita’ and the ‘Sri Gita-govinda’ in supreme bliss.” (CC, Madhya 2.77) <!-- F23 -->
