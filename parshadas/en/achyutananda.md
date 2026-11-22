@@ -58,8 +58,8 @@ of the “Mundaka Upanishad” (1.1.9) and one of the “Kurma Purana.” <!-- F
 
 ## A Child in Advaita's House
 Achyutananda was still very small when Ramai — Srirama Pandita, Srivasa's brother — came to Shantipura with the news
-that the Lord had revealed Himself as Bhagavan Himself. The Lord had told him to say to Advaita: “He for whose sake you
-worshipped so long, shed tears and fasted has appeared for your sake to preach bhakti-yoga; come and behold Him.”
+that the Lord had revealed Himself as Bhagavan Himself. The Lord had told him to say to Advaita: “He for whose sake You
+worshipped so long, shed tears and fasted has appeared for Your sake to preach bhakti-yoga; come and behold Him.”
 Advaita fainted with joy, and coming to, He cried, “Have I truly brought Him down from His Vaikuntha?” and rolled on the
 ground in tears. Sita wept with joy, the servants wept, and an unprecedented joy rose in the child's heart. Vrindavana
 Dasa says:
@@ -329,7 +329,7 @@ and Narottama bowed at the feet of His son. The “Narottama-vilasa” tells:
 ‘Go to Nilachala and come back soon, and spread the lovely kirtana, a treasury of rasa.’ Saying this, he shed ceaseless
 streams from his eyes; his withered body swayed in the wind.” (“Narottama-vilasa” 3.150–152)
 
-According to one of the biographies, Achyutananda asked Narottama about the Gosvamis of Vrindavana, and they sang the
+The biographies add that Achyutananda asked Narottama about the Gosvamis of Vrindavana and that they sang the
 Lord's glories together.[^19] <!-- F48 -->
 
 Before the great festival at Kheturi, as Jahnava Devi was preparing to set out, news came from Shantipura:
