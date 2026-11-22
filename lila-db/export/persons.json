@@ -4175,6 +4175,10 @@
     "type": "other"
    },
    {
+    "from": "@achyutananda",
+    "type": "other"
+   },
+   {
     "from": "@advaita",
     "type": "other"
    },
@@ -8879,6 +8883,10 @@
   ],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "other"
+   },
+   {
     "from": "@advaita",
     "type": "other"
    },
@@ -11601,6 +11609,10 @@
     "type": "companion"
    },
    {
+    "from": "@achyutananda",
+    "type": "other"
+   },
+   {
     "from": "@advaita",
     "type": "companion"
    },
@@ -13116,6 +13128,10 @@
   ],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "father"
+   },
+   {
     "from": "@bhagavan-acharya",
     "type": "other"
    },
@@ -13619,6 +13635,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "mother"
+   },
    {
     "from": "@advaita",
     "type": "spouse"
@@ -14475,6 +14495,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "guru"
+   },
    {
     "from": "@advaita",
     "type": "other"
@@ -16644,6 +16668,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "other"
+   },
    {
     "from": "@advaita",
     "type": "friend"
@@ -20822,6 +20850,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "other"
+   },
    {
     "from": "@advaita",
     "type": "other"
@@ -28216,6 +28248,10 @@
   ],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "other"
+   },
+   {
     "from": "@advaita",
     "type": "other"
    },
@@ -32886,6 +32922,170 @@
    "ev-radha-krishna-appear-kheturi",
    "ev-narottama-sacred-thread",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — гопи по имени Ачьюта (ГГД 88) и др.; гуру — Гададхара Пандит; происхождение — Шантипур",
+  "card": "parshadas/cards/achyutananda.yaml",
+  "article": {
+   "ru": "parshadas/ru/achyutananda.md",
+   "en": "parshadas/en/achyutananda.md"
+  },
+  "kind": "family",
+  "circle": [
+   "navadvipa",
+   "puri",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "около 1505–1506",
+    "tithi": "",
+    "place": "#shantipura",
+    "conf": "год ≠: ок. 1505 (B), 1428 г. шаки = 1506 (T; расчёт «Анубхашьи» по ЧБ Антья 4), 1426 шаки = 1504 и 1423 шаки = 1502 («Гаудия-бхашья» к ЧБ Антья 1.218 и Мадхья 6.41), вайшакха-пурнима 1414 шаки («Адвайта-пракаша», D); день явления в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) нет",
+    "facts": [
+     "F7",
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#shantipura?",
+    "conf": "год, день и место ухода источники не называют; по НВ (и «Анубхашье») последние годы жил в Шантипуре, на празднике в Кхетури был уже очень немощен; в календаре ШЧСМ (541/ru, проверено 2026-11-22) дня ухода нет",
+    "facts": [
+     "F47",
+     "F50",
+     "F53"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "Карттикея (Сканда)",
+    "source": "ГГД 88",
+    "level": "A",
+    "variants": [
+     "ГГД: «одни говорят»; иные считают Карттикеей Кришну Мишру «по сходству»; ЧБ Антья 4.154 — «прекрасен, будто неотличен от Карттики»."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "гопи по имени Ачьюта",
+    "source": "ГГД 88",
+    "level": "A",
+    "variants": [
+     "ГГД: «знатоки расы» так говорят; «верно и то и другое — оба соединились в одном»",
+     "ПВ 24.349 (C): Ганеша, в которого вошла гопи Ачьюта; его проявление — Чхота Шьямадас",
+     "«Адвайта-пракаша» 11 (D): гопи Враджа в мужском облике, «Ачьюта-сакхи»"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@advaita",
+    "note": "Старший сын; в споре о Кешаве Бхарати Адвайта признал сына «своим отцом и наставником» (ЧБ Антья 4.172–175; ЧЧ Ади 12.13–17); по ЧЧ Ади 12.73–74 путь Ачьютананды — суть учения Адвайты."
+   },
+   {
+    "type": "mother",
+    "who": "@sita-thakurani",
+    "note": "ЧЧ Мадхья 16.21 «мать Ачьютананды»; по НВ 6.229 и «Анубхашье» пошёл в Кхетури по её повелению (≠ M 66, ⚠12)."
+   },
+   {
+    "type": "sibling",
+    "who": "@krishna-mishra",
+    "note": "Брат; следовал за старшим (T 21); по ГГД 88 иные считают Карттикеей его; домохозяин, потомки в Шантипуре («Анубхашья» к Ади 12.18) ≠ B 1094 «в безбрачии» (⚠7)."
+   },
+   {
+    "type": "sibling",
+    "who": "@gopala-dasa-advaita",
+    "note": "Брат Гопала (Мишра, Гопаладас); встречал Джахнаву (M 66), с ним в Кхетури (НВ 6.253, 8.55)."
+   },
+   {
+    "type": "sibling",
+    "who": "@balarama-mishra",
+    "note": "Сын Адвайты, по T 21, 76 — из не принявших Господа (имена — «Адвайта-чарита»; в ЧЧ без имён, ⚠Б4)."
+   },
+   {
+    "type": "sibling",
+    "who": "@svarupa-mishra",
+    "note": "Так же (T 21, 76)."
+   },
+   {
+    "type": "sibling",
+    "who": "@jagadisha-mishra",
+    "note": "Так же (T 21, 76)."
+   },
+   {
+    "type": "guru",
+    "who": "@gadadhara-pandita",
+    "note": "ГГД 87 «любимый ученик»; ЧБ Антья 4.206 «главный из учеников»; «Шакха-нирнаямрита» — «самый дорогой Гададхаре»; B 1091 «дикша» (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "С детства служил Его стопам (ЧЧ Ади 12.13); Господь брал его на колени и называл братом (ЧБ Антья 1.217); жил в Пури, приняв прибежище у Его стоп (ЧЧ Ади 10.150); танцор Шантипурской группы на Ратха-ятре (Мадхья 13.45)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "«Дорог Нитьянанде, как сама жизнь» (ЧБ Антья 4.206)."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "Возразил отцу, назвавшему Кешаву Бхарати гуру Чайтаньи: у Джагад-гуру не может быть гуру (ЧЧ Ади 12.14–16; ЧБ Антья 4.156–171)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Вместе с ним поклонился Господу и ликовал в Шантипуре (ЧБ Мадхья 19.128; B 1092)."
+   },
+   {
+    "type": "other",
+    "who": "@srirama-pandita",
+    "note": "Рамаи (Шрирама Пандит), брат Шриваса, принёс в Шантипур весть о явлении Господа (ЧБ Мадхья 6; B 1091; T 49, 77)."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Нароттама поклонился ему в Шантипуре; Ачьюта велел вернуться из Нилачалы и распространять киртан (НВ 3.149–151); на празднике в Кхетури (B 1094; M 114)."
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "note": "Встречал её в Шантипуре (M 66) / в Навадвипе (НВ 6.251–257); по их велению Нароттама начал киртан в Кхетури (M 114)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "В Кхетури Шриниваса поклонился ему (НВ 6.305); по ПВ 4 Сита знала о Шринивасе из его письма."
+   },
+   {
+    "type": "co-worker",
+    "who": "@vishnudasa-acharya",
+    "note": "Ходил с ним в Кхетури («Анубхашья» к ЧЧ Ади 12, по БР 10)."
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "note": "По ПВ (C/D) установил Шьямасундару Вирачандры; «Намамрита-самудра» 18 — в одном ряду с Вирачандрой и Вишварупой."
+   },
+   {
+    "type": "other",
+    "who": "@vishvarupa",
+    "note": "«Намамрита-самудра» 18: «Вишварупа, Шри Ачьюта, Вирачандра Прабху»."
+   },
+   {
+    "type": "other",
+    "who": "@achyutananda-rayani",
+    "note": "Тёзка, не путать: раджа Раяни, отец Расикананды (T 215; M 158; B pdf 1130)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 12.13–18 и «Гаудия-бхашья» к ЧБ (Антья 1.218, 4; Мадхья 6.41, 13.159, 13.251; Антья 8.60): год рождения, безбрачие, ветвь Гададхары, «путь Ачьюты»."
+   }
   ],
   "related_by": [
    {
@@ -37688,9 +37888,14 @@
    "ev-legend-shiva-bhuvaneshvara",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "по таттве — вьюха Санкаршаны Пайобдхишайи, неотличный от… (ГГД 67) и др.; гуру — Джахнава (Джахнави); происхождение — Кхардах (Кхаддаха); явление — картика кришна-навами",
   "related_by": [
    {
     "from": "@abhirama",
+    "type": "other"
+   },
+   {
+    "from": "@achyutananda",
     "type": "other"
    },
    {
@@ -38259,6 +38464,10 @@
    {
     "from": "@abhirama",
     "type": "other"
+   },
+   {
+    "from": "@achyutananda",
+    "type": "met"
    },
    {
     "from": "@advaita",
@@ -39202,6 +39411,10 @@
   ],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "sibling"
+   },
+   {
     "from": "@advaita",
     "type": "son"
    },
@@ -39255,6 +39468,10 @@
    "ev-narottama-sacred-thread"
   ],
   "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "sibling"
+   },
    {
     "from": "@advaita",
     "type": "son"
@@ -39795,6 +40012,12 @@
    "ev-advaita-tol-navadvipa",
    "ev-advaita-departure",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "co-worker"
+   }
   ]
  },
  {
@@ -39855,6 +40078,10 @@
   ],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "sibling"
+   },
+   {
     "from": "@advaita",
     "type": "son"
    },
@@ -39880,6 +40107,10 @@
   ],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "sibling"
+   },
+   {
     "from": "@advaita",
     "type": "son"
    }
@@ -39902,6 +40133,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@achyutananda",
+    "type": "sibling"
+   },
    {
     "from": "@advaita",
     "type": "son"
@@ -42277,6 +42512,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@achyutananda",
+    "type": "met"
+   },
+   {
     "from": "@advaita",
     "type": "other"
    },
@@ -43462,6 +43701,10 @@
   "related_by": [
    {
     "from": "@abhirama",
+    "type": "met"
+   },
+   {
+    "from": "@achyutananda",
     "type": "met"
    },
    {
@@ -50094,6 +50337,10 @@
   "related_by": [
    {
     "from": "@abhirama",
+    "type": "other"
+   },
+   {
+    "from": "@achyutananda",
     "type": "other"
    },
    {
@@ -64911,6 +65158,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@achyutananda",
+    "type": "other"
+   },
+   {
     "from": "@rasikananda",
     "type": "father"
    }
@@ -68090,5 +68341,14 @@
     "type": "grandmother"
    }
   ]
+ },
+ {
+  "id": "@yadunandana-jhamatpur",
+  "ru": "Ядунандана (Ядунатха) Ачарья из Джхаматпура",
+  "en": "Yadunandana (Yadunatha) Acharya of Jhamatpur",
+  "note": "брахман из Джхаматпура (Хугли, близ Раджбал-хата), по милости Джахнавы — преданный; тесть и ученик @virabhadra, отец @shrimati-virachandra (БР 13.249–255; B 1095, 115; T 201; M 13–14); не путать с @yadunandana-acharya",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": []
  }
 ]

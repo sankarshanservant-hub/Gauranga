@@ -11427,5 +11427,32 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#jhamatpur-hooghly",
+  "ru": "Джхаматпур (Хугли)",
+  "en": "Jhamatpur (Hooghly)",
+  "note": "селение в округе Хугли близ Раджбал-хата; дом Ядунанданы Ачарьи, тестя @virabhadra (БР 13.249; B 1095); не путать с #jhamatpur (дом Кришнадаса Кавираджи)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#latagrama",
+  "ru": "Лата (Латаграм)",
+  "en": "Lata (Latagrama)",
+  "note": "деревня близ Манкара (округ Бардхаман); жил @gopijanavallabha, старший «сын»-ученик @virabhadra (B 1096, 115; T 201; M 16)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#gayeshpur",
+  "ru": "Гаешпур (Ганешпур)",
+  "en": "Gayeshpur (Ganeshpur)",
+  "note": "селение близ Малдаха; жил @ramakrishna-virachandra (B 115, T 201, M 16 — Гаешпур; B 1096 — Ганешпур)",
+  "section": "",
+  "lilas": [],
+  "events": []
  }
 ]
