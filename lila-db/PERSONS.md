@@ -839,3 +839,6 @@
 | @manohara-dasa-aul | Манохара Дас (Баба Аул) | Manohara Dasa (Baba Aul) | ученик Джахнавы, друг и собрат поэта @jnanadasa; составитель «Падасамудры» (B 1097; ГПТ1) |
 | @shyamasundara-vrindavana | Радха-Шьямасундара — Божество Шьямананды во Вриндаване | Radha-Shyamasundara, Shyamananda's Deity in Vrindavana | Божество, которому поныне поклоняются ученики линии @shyamananda (T 215); матх «Шьямасундара-кунджа», основанный Шьяманандой (B 976); не путать с @shyamasundara-khardaha |
 | @narottama-dasa-yativara | Нароттама Дас Ятивара | Narottama Dasa Yativara | отец @krishnadasa-babaji; ещё в детстве сына оставил дом и принял санньясу в Хришикеше (B 1117, 1121); не путать с @narottama-dasa |
+| @madhusudana-dasa-babaji | Мадхусудана Дас Бабаджи (Сурья-кунда) | Madhusudana Dasa Babaji (of Surya-kunda) | «Сиддха» Мадхусудана Дас Бабаджи с Сурья-кунды; дал парамахамса-вешу @jagannatha-dasa-babaji (T 222; M 60; аштака T 224); не путать с @madhusudana-sarasvati, @madhusudana-gosvami-sarvabhauma |
+| @bihari-dasa-babaji | Бихари Дас Бабаджи | Bihari Dasa Babaji | сильный враджаваси, личный слуга @jagannatha-dasa-babaji, носил его в корзине (T 223; M 61) |
+| @rasavihari-gosvami | Расавихари Госвами (Пурунья) | Rasavihari Gosvami (of Puruniya) | из Пуруньи (Бурдван), ученик по дикше @jagannatha-dasa-babaji; гуру раджи Трипуры Ишана Чандры Маникьи (T 223–224) |

@@ -390,3 +390,4 @@
 | #chhatra-narail | Чхатра (Нараил, Джессор) | Chhatra (Narail, Jessore) | селение в подокруге Нараил округа Джессор (Бенгалия); родина и место ухода @krishnadasa-babaji (B 1117, 1120) |
 | #binodpur | Бинодпур | Binodpur | селение (Бенгалия), дом дяди по матери @krishnadasa-babaji, где он учился (B 1117) |
 | #hrishikesha | Хришикеш | Rishikesh (Hrishikesha) | у Ганги в Гималаях; там принял санньясу @narottama-dasa-yativara (B 1117) |
+| #tangail | Тангайл | Tangail | Восточная Бенгалия (прежде подокруг Майменсингха, ныне Бангладеш); по T и Mб — родина @jagannatha-dasa-babaji (T 222); ср. #east-bengal |
