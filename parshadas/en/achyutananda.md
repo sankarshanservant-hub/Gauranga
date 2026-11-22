@@ -2,7 +2,7 @@
 *Ачьютананда · @achyutananda*
 
 ## Advaita's Eldest Son
-Achyutananda was the eldest son of Sri Advaita Acharya and Sita Thakurani. The “Chaitanya-charitamrita” calls him
+Achyutananda was the firstborn of Sri Advaita Acharya and Sita Thakurani. The “Chaitanya-charitamrita” calls him
 Achyutananda and speaks of “the path of Achyutananda,” the path taken by his father's true followers. Vrindavana Dasa
 calls him Sri Achyutananda, Achyuta, “Sri Achyuta Mahashaya,” and most often simply “Advaita's son”; to Murari Gupta he
 is “Achyutananda Gosvami,” in the “Prema-vilasa” “Achyuta Gosvami,” and Narahari Chakravarti in the “Namamrita-samudra”
@@ -18,8 +18,8 @@ names “Sri Achyutananda (Advaita's eldest son)” (CB, Antya 8.60).[^1] And Sr
 “Gaudiya-bhashya” on this verse that of all Advaita's sons Sri Achyutananda had the deepest and strongest devotion to
 Vishnu. <!-- F6 -->
 
-He was born in Shantipura, a few miles south of Sri Navadvipa-Mayapura, where the Lord appeared, and
-fifty-five miles north of Calcutta. Neither the “Charitamrita” nor the “Chaitanya-bhagavata” gives the year of his birth;
+His birthplace was Shantipura, which lies some miles to the south of Sri Navadvipa-Mayapura, the Lord's birthplace,
+and fifty-five miles from Calcutta, to its north. Neither the “Charitamrita” nor the “Chaitanya-bhagavata” gives the year of his birth;
 by the reckonings it was about 1505–1506.[^2] Neither the original sources nor the biographies give the days of his
 appearance and departure, nor are they found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. <!-- F7 F11 -->
 
@@ -46,22 +46,23 @@ since the two are united in one. But some say that Karttikeya is Krishna Mishra,
 (“Gaura-ganoddesha-dipika” 88)[^5]
 
 “Srimat Pandita Gosvami” is Gadadhara Pandita. Srila Bhaktisiddhanta, too, gives both identifications in the
-“Anubhashya.” And in Vrindavana Dasa the five-year-old Achyuta is beautiful in every limb, “as if not different from
-Karttika” (*abhinna kartika*, CB, Antya 4.154). Karnapura does not speak of rebirth: in one eternal associate who
+“Anubhashya.” And in Vrindavana Dasa the five-year-old Achyuta, “beautiful from head to foot,” was “as if not different
+from Karttikeya” (*abhinna kartika*, CB, Antya 4.154). Karnapura does not speak of rebirth: in one eternal associate who
 appeared in Gaura's pastimes two are united, and therefore both views are true.[^6] <!-- F2 F3 Q1 F4 -->
 
-From his very first lines about him Vrindavana Dasa makes it clear that this is no ordinary child. The naked little boy
+From his very first lines about him Vrindavana Dasa makes it plain that the child is not an ordinary one. The naked little boy
 is “full of great effulgence” (*maha-jyotir-maya*); he is all-knowing, endowed with inconceivable power, and therefore
 a worthy son of Advaita (Antya 1.213–214); and later: “all-knowing, the highest devotee, possessed of every power”
 (Antya 4.154). In the “Gaudiya-bhashya” Srila Bhaktisiddhanta explains the word “all-knowing” (*sarvajna*) with a verse
 of the “Mundaka Upanishad” (1.1.9) and one of the “Kurma Purana.” <!-- F5 -->
 
 ## A Child in Advaita's House
-Achyutananda was still very small when Ramai — Srirama Pandita, Srivasa's brother — came to Shantipura with the news
-that the Lord had revealed Himself as Bhagavan Himself. The Lord had told him to say to Advaita: “He for whose sake You
-worshipped so long, shed tears and fasted has appeared for Your sake to preach bhakti-yoga; come and behold Him.”
-Advaita fainted with joy, and coming to, He cried, “Have I truly brought Him down from His Vaikuntha?” and rolled on the
-ground in tears. Sita wept with joy, the servants wept, and an unprecedented joy rose in the child's heart. Vrindavana
+Achyutananda was still very small when Ramai — Srirama Pandita, Srivasa's brother — came to Shantipura with the news:
+the Lord had disclosed that He is Bhagavan Himself. The Lord's message for Advaita was: “The One for Whom You
+worshipped so long, wept and fasted has come, on Your account, to preach bhakti-yoga; come and behold Him.”
+Advaita fainted with joy, and on regaining consciousness He cried, “Can it be that I drew Him here out of His own
+Vaikuntha?” and rolled on the ground weeping. Sita wept with joy, the servants wept,
+and an unprecedented joy rose in the child's heart. Vrindavana
 Dasa says:
 
 “And Advaita's son Achyutananda, though still a very little child, wept and wept without ceasing.” (CB, Madhya 6.41)
@@ -74,17 +75,21 @@ Then the Lord Himself came to Him with Nityananda:
 
 “Seeing the Lord, Haridasa and Advaita's son Achyuta offered Him their obeisances.” (CB, Madhya 19.128)
 
-In those days Advaita was purposely expounding knowledge (*jnana*) as higher than bhakti — He Himself wished the Lord
+At that time Advaita deliberately set forth knowledge (*jnana*) as higher than bhakti — He Himself wished the Lord
 to correct Him for it, and the Lord fulfilled His wish. Achyutananda, according to the “Anubhashya,” was present; this
-was two or three years before the Lord's sannyasa. And when Advaita turned again to the path of exclusive devotion and
+was two or three years before the Lord's sannyasa. And when Advaita turned once more to undivided devotion and
 the Lord embraced Him, Achyuta, Haridasa and Sita wept aloud for joy:
 
 “Achyutananda, Advaita's son, wept too. The whole of Advaita's house was filled with love for Krishna.” (CB, Madhya
 19.166)[^7] <!-- F14 F15 -->
 
+Narahari Chakravarti retells this in the “Bhakti-ratnakara”: when the Lord arrived at Advaita's home, Achyutananda and the
+others offered obeisances at His feet, and later, after the Lord had corrected Advaita, “Sri Achyutananda, Advaita's son, weeps; in
+Advaita's house no one can remain composed” (12.1968, 1980). <!-- F59 -->
+
 ## “The Acharya Is My Father”
-After taking sannyasa in Katwa the Lord walked through Radha-desha with Nityananda and the devotees, giving the holy name
-to people who had never heard it, and with a vast following He came to Advaita's house. Vrindavana Dasa tells it:
+After His sannyasa in Katwa the Lord walked through Radha-desha, Nityananda and other devotees with Him, giving the holy
+name to people still unused to it, and with a vast following He arrived at Advaita's home. Vrindavana Dasa tells it:
 
 “Knowing that the Lord had come, the child, covered in dust from head to foot, came laughing to see Him.” (CB, Antya
 1.215)
@@ -101,7 +106,7 @@ is written in the Vedas.’” (CB, Antya 1.218)[^9]
 
 Srila Bhaktisiddhanta explains that with this answer the boy pointed to Sri Chaitanya as the One spoken of in two Vedic
 statements — that of the two bird-friends on one tree (“Mundaka Upanishad” 3.1.1, “Shvetashvatara Upanishad” 4.6) and
-that of Him from whom all beings are born. <!-- F17 Q2 -->
+that of Him from Whom all beings are born. <!-- F17 Q2 -->
 
 “Hearing Achyuta, the Lord and the devotees smiled. All were amazed at such words and thought: ‘A little child cannot
 speak like this. Who knows what great soul has come into the world as this child!’” (CB, Antya 1.219–220) <!-- F18 -->
@@ -111,21 +116,21 @@ During that visit, Karnapura tells us, the Lord for three days ate food cooked b
 
 ## The Guru of All Gurus
 Some years passed. The Lord set out from Nilachala for Vrindavana by way of Gauda, but at Ramakeli, where Rupa and
-Sanatana met Him, He put off the journey because huge crowds were following Him, and turned back; on the way back to
-Nilachala He came to Advaita's house in Shantipura. A few days before His arrival a wonderful thing happened there (CB,
+Sanatana met Him, He put off the journey because huge crowds were following Him, and turned back; returning towards
+Nilachala, He broke His journey at Shantipura, at Advaita's home. Shortly before He arrived, something wonderful took place there (CB,
 Antya 4.134–137). Vrindavana Dasa titled this chapter “The Pastimes of Sri Achyutananda.” In his introduction to it Srila
 Bhaktisiddhanta writes that the author sets Achyutananda's attachment to the Lord against the conduct of those
 “so-called sons” of Advaita who did not accept Lord Chaitanya. <!-- F20 -->
 
 A worthy sannyasi came to Advaita. Advaita received him warmly and invited him to accept a meal (*bhiksha*) at His house;
-according to one of the biographies, it was an evening meal of mahaprasada. But first of all the guest asked: “What is
-Sri Keshava Bharati to Sri Chaitanya?” — for it was from Keshava Bharati that the Lord had accepted sannyasa in Katwa.
+according to one of the biographies, it was an evening meal of mahaprasada. But first of all the guest asked: “How is
+Sri Keshava Bharati related to Sri Chaitanya?” — for it was from Keshava Bharati that the Lord had accepted sannyasa in Katwa.
 <!-- F21 -->
 
 Advaita considered: the matter can be looked at in two ways, the worldly and the spiritual. The unborn Lord has neither
 father nor mother, and yet He is called the son of Devaki; so too, spiritually He has no guru, but people speak of what
 they have seen with their own eyes. Advaita chose not to begin from the spiritual side and answered in the worldly way:
-“Why do you ask? Everyone knows that Keshava Bharati is Chaitanya's guru” (CB, Antya 4.146–151). The “Gaudiya-bhashya”
+“Why do you ask? All the world knows Keshava Bharati as Chaitanya's guru” (CB, Antya 4.146–151). The “Gaudiya-bhashya”
 specifies that Advaita called Keshava Bharati Chaitanya's sannyasa-guru “by worldly standards.” Advaita Himself is
 Maha-Vishnu, the Lord of maya; He knew perfectly well that the Lord has no guru, and He answered so on purpose — to
 reveal to the world the faith of His son. <!-- F22 -->
@@ -140,15 +145,15 @@ caprice: it was the indignation of the Lord's pure devotee on behalf of His glor
 “‘O father, what are You saying? How could You say such a thing? Do You really think that Lord Chaitanya has a spiritual
 master?’” (CB, Antya 4.156)
 
-Such words, he went on, showed that the age of Kali had come: only those bewildered by Chaitanya's maya, before which
+Such words, he went on, meant that Kali-yuga had arrived: only those bewildered by Chaitanya's maya, before which
 even Brahma and Shiva are powerless, reason so. By the Lord's will countless universes issue from the pores of His body;
 from the lotus that grew from His navel Brahma was born and received knowledge from Him Himself; from Brahma, Sanaka and
 the other Kumaras received it and told it to the world (4.157–169). In his heading to these verses Srila Bhaktisiddhanta
 calls Sri Chaitanya “the wholly independent Supreme Lord and the Guru of all jagad-gurus.” Achyuta was denouncing not his
-father but the opinion itself, unworthy of the lips of Advaita — Maha-Vishnu, the Lord of maya, who was only playing the
+father but the opinion itself, unworthy of the lips of Advaita — Maha-Vishnu, the Lord of maya, Who was only playing the
 part of one in error. And he concluded:
 
-“‘So this knowledge spread. Why then did You say that He from whom this knowledge came has a guru? You are my father and
+“‘So this knowledge spread. Why then did You say that He from Whom this knowledge came has a guru? You are my father and
 my teacher. How can You say what is contrary to the truth?’” (CB, Antya 4.170–171)
 
 Krishnadasa Kaviraja tells the same dispute briefly:
@@ -182,7 +187,7 @@ The sannyasi fell down at the boy's feet:
 the Supreme Lord Himself has empowered this child; how else could he speak so? I must have come to see Advaita at a most
 auspicious moment; that is why I have witnessed so wonderful an event.’” (CB, Antya 4.178–180)
 
-Bowing to father and son, he went away loudly chanting the names of Hari. Srila Bhaktisiddhanta remarks that at his son's
+After paying obeisance to both son and father, he left, chanting aloud the names of Hari. Srila Bhaktisiddhanta remarks that at his son's
 word the father corrected His statement — such a relationship between father and son is extremely rare in this world;
 and the child spoke of things so lofty because the Lord Himself had empowered him. <!-- F26 I2 -->
 
@@ -192,15 +197,15 @@ Vrindavana Dasa sums it up:
 If someone worships Advaita but disregards Gaurachandra, he is ruined, even if he is Advaita's son.” (CB, Antya
 4.182–183)[^11] <!-- F27 -->
 
-Seeing His son's glory, Advaita, holding him on His lap, wept; in an excess of joy He smeared Himself with the dust from
-the boy's body, clapped His hands and danced with him in His arms, crying, “An associate of Chaitanya has been born in My
+Beholding His son's glory, Advaita wept with the boy seated on His lap; in an excess of joy He rubbed onto Himself the dust from
+the boy's body and, clapping, danced with him in His arms, crying, “An associate of Chaitanya has been born in My
 house!” (CB, Antya 4.184–187). <!-- F28 -->
 
 Jayananda also describes this dispute in his “Chaitanya-mangala”: in his account the five-year-old Achyutananda,
 Gadadhara's disciple, who knows past and future, contradicts his father in the same way. <!-- F33 -->
 
 ## The Lord's Mercy
-Meanwhile the Lord Himself arrived from Ramakeli with His companions. The moment Advaita saw Him, He fell flat with a loud
+Meanwhile the Lord Himself arrived from Ramakeli with His companions. At the very sight of Him Advaita fell prostrate with a loud
 cry of “Hari!” and lost Himself in love; everyone, men and women alike, rejoiced (CB, Antya 4.188–200). Then Achyuta too
 came to the Lord:
 
@@ -208,14 +213,14 @@ came to the Lord:
 body was drenched with tears of divine love. The Lord pressed Achyuta to His chest, and it seemed that the little boy had
 merged into Mahaprabhu's body.” (CB, Antya 4.201–203)
 
-As the first time, the Lord took the dusty boy onto His lap and would not let him go. <!-- F29 F30 -->
+As before, the Lord seated the dusty boy on His lap and kept holding him close. <!-- F29 F30 -->
 
 “Seeing the mercy the Lord had showered on Achyuta, all the devotees began to weep again. There was not one dear
 associate of Sri Chaitanya to whom Achyuta was not dear. Nityananda held him as dear as His own life. He was the chief
 disciple of Gadadhara Pandita. Therefore Achyuta is called Advaita's worthy son. They are a perfect example of the
 relationship of father and son.” (CB, Antya 4.204–207)
 
-So Achyuta became dear to all the devotees, and to Nityananda as dear as life itself. And Murari Gupta recalls how the
+So Achyuta was loved by all the devotees, and to Nityananda as dear as life itself. And Murari Gupta recalls how the
 Lord, staying with Advaita after Ramakeli, “with Achyuta ceaselessly increased the joy of play, delighting in the rasa of
 jests” (Murari Gupta's “Karcha,” 3.18.17). <!-- F31 F32 F19 -->
 
@@ -223,11 +228,11 @@ jests” (Murari Gupta's “Karcha,” 3.18.17). <!-- F31 F32 F19 -->
 Already Karnapura calls Achyutananda Gadadhara Pandita's “beloved disciple” (GGD 87), and Vrindavana Dasa “the chief
 disciple of Gadadhara Pandita” (CB, Antya 4.206).[^12] Yadunandana Dasa, in the “Shakha-nirnayamrita,” a book on
 Gadadhara's disciples, counts him among Gadadhara's branches and praises him with a verse: “[I honour] Sri Advaita's son
-named Achyutananda, who delights in the ocean of nectar of the highest rasa, most dear to Gadadhara”; Srila
+named Achyutananda, rejoicing in the nectar-sea of the highest rasa, most dear to Gadadhara”; Srila
 Bhaktisiddhanta, too, quotes this verse in the “Anubhashya.” <!-- F34 Q7 -->
 
 In the “Anubhashya” he also explains how this came about. In the “Charitamrita's” list of Advaita's branch, Achyutananda's
-name stands first.[^13] And towards the end of the Lord's pastimes Gadadhara lived in Nilachala near Him, and so many true
+name stands first.[^13] And in the last part of the Lord's pastimes Gadadhara lived in Nilachala near Him, and so many true
 servants of Advaita, headed by Achyutananda, took shelter at Gadadhara's feet.[^14] <!-- F35 -->
 
 In the “Gaudiya-bhashya” on the “Chaitanya-bhagavata” Srila Bhaktisiddhanta adds that from the time Achyutananda accepted
@@ -252,7 +257,7 @@ Lord taught, which his father faithfully followed, was natural to him from birth
 “Achyutananda, the Acharya's son, is a great branch. From his very birth he served the feet of Sri Chaitanya.” (CC, Adi
 12.13) <!-- F44 -->
 
-In the later years of the Lord's pastimes he lived with Him for a long time in Nilachala and served Him:
+During the Lord's final years he lived at His side in Nilachala for many years, serving Him:
 
 “Achyutananda, the son of Advaita Acharya, stayed in Nilachala in the shelter of the Lord's feet.” (CC, Adi 10.150)[^15]
 
@@ -267,7 +272,7 @@ At the Ratha-yatra the Lord divided the devotees into seven kirtana parties:
 13.45)
 
 According to the “Anubhashya,” this party was made up of Advaita's followers and went on the right side of the chariot;
-the boy was then only six years old. One of the biographies calls him the best of Advaita's three devoted sons and also
+the boy was then only six years old. One of the biographies ranks him first among the three devoted sons of Advaita and also
 mentions Gopala Mishra in this party. <!-- F40 -->
 
 And in the days of Gundicha, when the Lord held kirtana in the temple courtyard morning, noon and evening,
@@ -319,41 +324,57 @@ Bhagavan Himself receives Advaita's mercy as well. <!-- I1 I4 -->
 ## After the Lord's Disappearance
 When the Lord had disappeared, and Achyutananda's guru Gadadhara Pandita and some other devotees had left this world,
 Achyutananda returned to Shantipura and, together with his brothers Krishna Mishra and Gopala, following his father,
-served the Lord's mission. According to Narahari Chakravarti, whom Srila Bhaktisiddhanta quotes, he spent his last
-years in his own house in Shantipura. <!-- F47 -->
+served the Lord's mission. According to Narahari Chakravarti, whom Srila Bhaktisiddhanta quotes, his final years were
+spent in his own house in Shantipura. <!-- F47 -->
 
-There, to Advaita's house, came the young Narottama Dasa on his way to Nilachala. Advaita had already left this world,
+There, to Advaita's house, came the young Narottama Dasa, then journeying towards Nilachala. Advaita had already left this world,
 and Narottama bowed at the feet of His son. The “Narottama-vilasa” tells:
 
 “He embraced Narottama, showed him great mercy, asked for his news and introduced him to his dear ones. He commanded:
 ‘Go to Nilachala and come back soon, and spread the lovely kirtana, a treasury of rasa.’ Saying this, he shed ceaseless
 streams from his eyes; his withered body swayed in the wind.” (“Narottama-vilasa” 3.150–152)
 
+Narahari Chakravarti tells it more fully in the “Bhakti-ratnakara.” The day before, Advaita Prabhu, already hidden from
+the world's eyes, let Achyutananda know that Narottama was coming, and he waited, watching the road; to Narottama himself
+Sitanatha appeared with His associates, unseen by others. Entering the temple of Prabhu, Narottama saw Achyutananda
+seated there and knew him without any introduction. Achyutananda, worn by separation from Prabhu — from Advaita — so
+that “his golden body had grown pale and thin,” embraced him, bathed him in tears and said: “I cannot keep you here
+long; there must be no delay — go quickly to see Nilachala-chandra; there the Lord's associates will soon send you on
+your way, and through you much will be accomplished” (8.116–130). He brought Narottama together with Advaita's dear
+companions, and all of them lovingly kept him three to four days in Shantipura (8.131–132). <!-- F57 -->
+
 The biographies add that Achyutananda asked Narottama about the Gosvamis of Vrindavana and that they sang the
 Lord's glories together.[^19] <!-- F48 -->
 
-Before the great festival at Kheturi, as Jahnava Devi was preparing to set out, news came from Shantipura:
+Before the grand Kheturi festival, as Jahnava Devi was preparing to set out, news came from Shantipura:
 
 “‘Sri Achyutananda Prabhu, Advaita's son, is so worn by separation that his life hangs in doubt. To carry out the
 command of Mother Sri Sita, he will set out at dawn to go to Kheturi.’” (“Narottama-vilasa” 6.228–229)
 
 They met in Navadvipa, in Srivasa's house: Achyutananda, his brother Gopala, Kanu Pandita, Vishnudasa and others came
 there to Jahnava; Jahnava told Achyutananda everything in private, and in prema he lost all composure and wept aloud
-(6.251–257). According to one of the biographies, Achyutananda and Gopala warmly received Jahnava and her companions in
-Shantipura.[^20] <!-- F49 -->
+(6.251–257). According to the “Bhakti-ratnakara,” Jahnava had just asked why no one had come from Shantipura for so
+long — and at that moment Advaita's sons Achyutananda and Gopala arrived, and with them Kanu Pandita, Narayana Dasa,
+Vishnudasacharya, Kamadeva, Janardana, Vanamali, Purushottama and others (10.400–404). According to one of the biographies, Achyutananda and Gopala warmly received Jahnava and her companions in
+Shantipura.[^20] <!-- F49 F58 -->
 
 At the Kheturi festival Achyutananda was present with his brothers Gopala and Krishna Mishra from Shantipura; all the
 Vaishnavas received him with great reverence.[^21] According to the “Anubhashya,” he was already very frail, but came at
 the request of Mother Sita and Sri Jahnava; Vishnudasa Acharya went with him. The “Narottama-vilasa” tells that near
 Kheturi he got down from his cart, Srinivasa and others bowed at his feet, and his heart could not contain its feelings
-(6.300–307); he danced in the kirtana (7.112), and when the Lord, who had appeared in the kirtana with His associates,
+(6.300–307); he danced in the kirtana (7.112), and when the Lord, Who had appeared in the kirtana with His associates,
 vanished, he wept with all the rest: “What dream have we seen?” (7.136) — and Srinivasa and Narottama consoled him
 (7.153). The mahantas gathered at his lodging (7.263), and at the feast his younger brother Gopala, Kanu Pandita,
-Vishnudasa and others sat beside him (8.54–56). According to one of the biographies, Narottama began the kirtana at
-Kheturi at the bidding of Jahnava and Achyutananda. The “Prema-vilasa” names Gopala and Achyutananda from Shantipura, with
-Madhava Acharya, among those who came to Kheturi. <!-- F50 Q10 -->
+Vishnudasa and others sat beside him (8.54–56). In the “Bhakti-ratnakara,” as Narottama's kirtana begins,
+“Sri Achyutananda Prabhu, Advaita's son, shows Narottama abundant grace,” and the mahantas give their consent to begin
+the sankirtana (10.523–524); according to one of the biographies, Narottama began the kirtana at the bidding of Jahnava
+and Achyutananda. When the singing of Gaura's qualities began, Achyutananda “does not know what bliss has risen in his
+heart” (10.551); in the kirtana in which the Lord and His associates appeared, “Achyutananda, Advaita's son, dances;
+tears of bliss stream ceaselessly from his eyes” (10.589); he is there in the play with phagu (10.642) and at the meal at
+which Jahnava herself served the prasada (10.701–703). The “Prema-vilasa” names Gopala and Achyutananda from Shantipura, with
+Madhava Acharya, among those who came to Kheturi. <!-- F50 Q10 F58 -->
 
-Among the Gaudiya Vaishnavas he held a very high position. According to the “Prema-vilasa,” Shyamasundara of Khardaha,
+He stood very high in the esteem of the Gaudiya Vaishnavas. According to the “Prema-vilasa,” Shyamasundara of Khardaha,
 carved from the stone Virachandra received from the padishah, was installed and bathed in abhisheka by Achyutananda; the
 same book says that Sita learned of Srinivasa from a letter of Achyutananda's.[^22] <!-- F51 F52 -->
 
@@ -369,7 +390,7 @@ in the calendar of the Sri Chaitanya Saraswat Math. It is known only that he spe
 Narahari Chakravarti in the “Namamrita-samudra,” calling upon the Lord's associates one after another, places him in the
 row of the Pancha-tattva's kin — between Vishvarupa, the Lord's brother, and Virachandra, Nityananda's son:
 
-“Vishvarupa, Sri Achyuta, Virachandra Prabhu! Grant me service at your feet, that I may never forget it.”
+“Vishvarupa, Sri Achyuta, Virachandra Prabhu! Grant me service at your feet, so that I may never forget it.”
 (“Namamrita-samudra” 18) <!-- F54 -->
 
 The Bengali “Vaishnava-vandanas” also praise him. Devakinandana Dasa: “I praise her [Sita's] sons — Achyutananda and the
@@ -379,7 +400,7 @@ Vrindavana Dasa: “her dear son, Sri Achyutananda, renounced from childhood” 
 
 In the “Gaura-pada-tarangini” a pada signed by Narahari names him beside Virachandra: “Sri Achyutananda — the root of
 bliss, merciful Virachandra — may I serve their lotus feet” (18.6); and in another pada Advaita is glorified as “Achyuta's
-father.” <!-- F56 -->
+father” — as He is also called in a pada that Narahari quotes in the “Bhakti-ratnakara” (12.3857). <!-- F56 F59 -->
 
 ## Significance
 Achyutananda is an eternal associate of the Lord in whom Karnapura sees both Karttikeya and the gopi Achyuta; for
@@ -404,7 +425,7 @@ without effort reaches the feet of Sri Chaitanya. <!-- I3 I4 F45 F51 -->
 [^3]: The sources differ on the number of sons and their mothers: six sons, three of them by Sita (the “Advaita-charita,”
     after the “Anubhashya” and one of the biographies); five by Sita and one by Shri (“Prema-vilasa” 24.348); three by
     Sita — Achyutananda, Krishna Mishra and Gopala (another biography).
-[^4]: One of the biographies says that Achyuta, Krishna Mishra and Gopala lived under a vow of celibacy, and that
+[^4]: One of the biographies says that Achyuta, Krishna Mishra and Gopala kept a vow of celibacy, and that
     Advaita's line was continued by the brothers who did not follow Mahaprabhu. For Achyutananda this agrees with the
     “Anubhashya”; but Krishna Mishra, according to the “Anubhashya” (on Adi 12.18), was a householder and left
     descendants, and the “Advaita-prakasha” names his wife Vijaya and says that the service of Madana-Gopala was entrusted
@@ -460,8 +481,8 @@ without effort reaches the feet of Sri Chaitanya. <!-- I3 I4 F45 F51 -->
     are not in the early sources.
 [^18]: A note to our translation of the “Charitamrita” says that some editions have one more couplet after Adi 12.74:
     “The view of Achyuta is the essence; all other views have crumbled to dust”; it is not in the Gaudiya Math edition.
-[^19]: The biographies differ on the number of days: according to one, Narottama stayed in Shantipura three or four days,
-    according to another two; the “Narottama-vilasa” gives no number.
+[^19]: The biographies differ on the number of days: according to one, Narottama stayed in Shantipura three or four days
+    (so too the “Bhakti-ratnakara,” 8.132), according to another two; the “Narottama-vilasa” gives no number.
 [^20]: According to the same biography, Advaita and Sita were no longer in this world when Jahnava came to Shantipura.
     But the “Narottama-vilasa” (6.229) says that Achyutananda went to Kheturi “to carry out the command of Mother Sri
     Sita,” and the “Anubhashya” writes the same. Whether Sita was still in this world at that time is not clear from this.
