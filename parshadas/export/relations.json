@@ -35015,6 +35015,496 @@
   "note": "Тёзка, не путать (B 853–857)."
  },
  {
+  "from": "@virabhadra",
+  "type": "father",
+  "who": "@nityananda",
+  "facts": [
+   "F4",
+   "F7",
+   "F8",
+   "F12",
+   "F41",
+   "I3"
+  ],
+  "note": "Сын Нитьянанды; величайшая ветвь Его ствола (ЧЧ Ади 11.8, 11.56); по БР 9.413 — единственный сын. = @nityananda F352–F366, F418, F433."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "mother",
+  "who": "@vasudha",
+  "facts": [
+   "F4",
+   "F12",
+   "F16",
+   "F24",
+   "F45"
+  ],
+  "note": "Родила его (ЧЧ «Анубхашья» 11.8; ГГД; B, T, M); по T — её позволение на путь во Вриндаван (БР 13.283 — «мать»)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "guru",
+  "who": "@jahnava",
+  "facts": [
+   "F15",
+   "F23",
+   "F45",
+   "F46"
+  ],
+  "events": [
+   "ev-virabhadra-initiation",
+   "ev-virachandra-marriage",
+   "ev-jahnava-vrindavana"
+  ],
+  "note": "Дикша-гуру и мать (БР 13.267 — «женила сына»; T 201 «тётка и мачеха» — ⚠Б4); устроила его брак (БР 13.253, 13.255); по ПВ — посвящение после видения её четырёхрукой. = @jahnava F91, F93, F94."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "sibling",
+  "who": "@ganga-nityananda",
+  "facts": [
+   "F13",
+   "F45",
+   "F56"
+  ],
+  "note": "Сестра; по T — нисхождение реки Ганги; вместе вынесли поклоны Абхирамы (T 88, B 917); БР 13.261 — ликовала на его свадьбе."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "in-law",
+  "who": "@madhava-acharya-ganga",
+  "facts": [
+   "F13"
+  ],
+  "note": "Муж сестры Ганги; по ГГД 69 — царь Шантану."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "spouse",
+  "who": "@shrimati-virachandra",
+  "facts": [
+   "F10",
+   "F15"
+  ],
+  "events": [
+   "ev-virachandra-marriage"
+  ],
+  "note": "Шримати — его Шри-шакти (T 201; B 1095 — первая шакти); дочь Ядунатхи (Ядунанданы) Ачарьи и Видьюнмалы (Лакшми) из Джхаматпура (Хугли); версии — ⚠2."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "spouse",
+  "who": "@narayani-virachandra",
+  "facts": [
+   "F10",
+   "F15"
+  ],
+  "events": [
+   "ev-virachandra-marriage"
+  ],
+  "note": "Нараяни: дочь Ядунатхи и Видьюнмалы (B 1095) / их приёмная дочь (B 115, «Анубхашья», M) / дочь Видьюмалы и Судхамаи из Махеша (B 930) / дочь Океана (НВВ) — ⚠2."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "in-law",
+  "who": "@yadunandana-jhamatpur",
+  "facts": [
+   "F15"
+  ],
+  "note": "Тесть и ученик: на свадьбе Вирачандра сделал его своим учеником (БР 13.254; M 14; «Анубхашья» 11.8 — «Ядунатха»)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "disciple",
+  "who": "@yadunandana-jhamatpur",
+  "facts": [
+   "F15"
+  ]
+ },
+ {
+  "from": "@virabhadra",
+  "type": "in-law",
+  "who": "@sudhamaya",
+  "facts": [
+   "F15"
+  ],
+  "note": "По B 930 (T 94) — отец Нараяни; по НВВ — её приёмный отец (⚠2)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "in-law",
+  "who": "@vidyunmala",
+  "facts": [
+   "F15"
+  ],
+  "note": "B 930 — мать Нараяни (жена Судхамаи); B 1095, 115, «Анубхашья», T — Видьюнмала (Лакшми), жена Ядунатхи (Ядунанданы); одно ли это лицо — неясно (⚠2)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "disciple",
+  "who": "@gopijanavallabha",
+  "facts": [
+   "F18",
+   "F19",
+   "F21"
+  ],
+  "events": [
+   "ev-virachandra-children"
+  ],
+  "note": "Старший из трёх учеников, прославленных как его сыновья; деревня Лата близ Манкара (Бардхаман); от его ветви — севаиты Бирачандрапура (B 83)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "disciple",
+  "who": "@ramakrishna-virachandra",
+  "facts": [
+   "F18",
+   "F19"
+  ],
+  "events": [
+   "ev-virachandra-children"
+  ],
+  "note": "Средний «сын»-ученик; близ Малдаха — Ганешпур (B 1096) / Гаешпур (B 115, T, M, «Анубхашья») — ⚠3."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "disciple",
+  "who": "@ramachandra-virachandra",
+  "facts": [
+   "F18",
+   "F19",
+   "F20"
+  ],
+  "events": [
+   "ev-virachandra-children"
+  ],
+  "note": "Младший «сын»-ученик; Кхардаха; брахман Батавьял, готра Шандилья; его род — до Шьямалала Госвами («Анубхашья» 11.8)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F30",
+   "F46",
+   "F47",
+   "F49",
+   "F50",
+   "F51",
+   "F52",
+   "F53",
+   "F55"
+  ],
+  "events": [
+   "ev-srinivasa-khardaha-jahnava",
+   "ev-virachandra-yajigrama-kheturi",
+   "ev-gati-govinda-birth",
+   "ev-virachandra-vishnupura"
+  ],
+  "note": "Благословил его в Кхардахе (B 664; БР 4.88–92); в Яджиграме Шриниваса совершил ему пуджу (M 14; БР 13.293–295); письмо: Шриниваса — сила милости Махапрабху (БР 14, письмо 4; B 659); вместе на праздниках в Шрикханде и Боракули (БР 9, 14). = @srinivasa-acharya F3, F45, F107, F124."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F32",
+   "F48",
+   "F51"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage",
+   "ev-virachandra-yajigrama-kheturi"
+  ],
+  "note": "Говорил с ним в Кхардахе (БР 8.218; НВ 3); праздник санкиртаны в Кхетури по пути во Вриндаван (БР 13.298–301; НВ 11; B 1095); обнял его в Боракули (БР 14.137)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F34",
+   "F36",
+   "F37"
+  ],
+  "events": [
+   "ev-virachandra-jiva-vrindavana"
+  ],
+  "note": "Встречал его во Вриндаване; с его позволения (и Бхугарбхи) он обошёл Врадж (БР 13.310–311, 13.329). = @jiva-gosvami F81, F82."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@bhugarbha",
+  "facts": [
+   "F36",
+   "F37"
+  ],
+  "note": "С его позволения обошёл Врадж (БР 13.329; B 1095). = @bhugarbha F40."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F34",
+   "F37"
+  ],
+  "note": "Встречал его во Вриндаване; принял в своей хижине у Говардханы и пошёл с ним (БР 13.311, 13.340–341). Автор ЧЧ принимает прибежище у его стоп (ЧЧ Ади 11.12). = @krishnadasa-kaviraja F49."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@ananta-acharya",
+  "facts": [
+   "F34"
+  ],
+  "note": "Ученик Гададхары, адхикари Говинды (БР 13.312); M — «пуджари Мадана-мохана» (⚠1)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@haridasa-pandita-govinda",
+  "facts": [
+   "F34"
+  ],
+  "note": "Ученик Ананты Ачарьи, адхикари Говинды (БР 13.313–316)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@madhu-pandita",
+  "facts": [
+   "F34"
+  ],
+  "note": "Адхикари Гопинатхи, ученик Гададхары (БР 13.319); B называет отдельно «Гопинатху Адхикари» (⚠1)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@bhavananda-gopinatha",
+  "facts": [
+   "F34"
+  ],
+  "note": "Сатиртха Мадху Пандита, пуджари Гопинатхи (B 1095 по скану; M 15; БР 13.320)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@govinda-gosani",
+  "facts": [
+   "F34"
+  ],
+  "note": "Ученик Кашишвары, пуджари Говинды (B 1095 по скану; M 15; БР 13.323)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@yadavacharya-gosani",
+  "facts": [
+   "F34",
+   "F36",
+   "F37"
+  ],
+  "note": "Ученик Кашишвары (M 15; БР 13.323); шёл с ним по Враджу (БР 13.330, 13.342); у B вместо него — «Мадхавачарья» (⚠1)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "met",
+  "who": "@krishnadasa-brahmachari",
+  "facts": [
+   "F34"
+  ],
+  "note": "B: ученик Гададхары, служитель Мадана-Гопалы; в БР 13.311–324 не назван (⚠1)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F34"
+  ],
+  "note": "B и M ставят его среди встречавших; по БР 13.322 он назван лишь ради учеников (уже ушёл, ⚠1). = @kashishvara F49, F54."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "host",
+  "who": "@shrinivasa-datta",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-virachandra-pilgrimage"
+  ],
+  "note": "Принял его в Саптаграме в доме Уддхараны, два дня (M 14; БР 13.284–286). = @uddharana-datta F34, F51."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "host",
+  "who": "@krishna-mishra",
+  "facts": [
+   "F26",
+   "F51"
+  ],
+  "note": "Сын Адвайты; санкиртан в Шантипуре (M 14; БР 13.287); вместе на празднике в Боракули (БР 14.96). = @advaita F144."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "host",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F27"
+  ],
+  "note": "Встретил его в Амбике, в доме Гауридаса Пандита (M 14, по скану). = @gauridasa-pandita F58."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "host",
+  "who": "@kanai-shrikhanda",
+  "facts": [
+   "F29"
+  ],
+  "note": "Встретил его в Шрикханде (БР 13.291; M 14 — с Рагхунанданой, ⚠7)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F29",
+   "F50"
+  ],
+  "note": "M 14 — встречал его в Шрикханде (по БР — только Канаи, ⚠7); на празднике ухода Нарахари умастил его сандалом, а Вирабхадра надел на него гирлянду (БР 9.593–596). = @raghunandana F78."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "host",
+  "who": "@govinda-kaviraja",
+  "facts": [
+   "F31"
+  ],
+  "events": [
+   "ev-virachandra-yajigrama-kheturi"
+  ],
+  "note": "Принял его в Будхари, совершил пуджу, два дня (M 14–15; НВ 11). = @govinda-kaviraja F38."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F49",
+   "F50"
+  ],
+  "events": [
+   "ev-virachandra-heals-blind-ramai"
+  ],
+  "note": "На празднике его ухода в Шрикханде Вирабхадра всю ночь плясал в санкиртане (B 175; T 71; БР 9)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F56"
+  ],
+  "events": [
+   "ev-virachandra-recognized"
+  ],
+  "note": "Вирачандра и Ганга вынесли его поклоны; «Шри Вирабхадраштака» Абхирамы (T 88; B 917). = @abhirama F38, F49."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@gati-govinda",
+  "facts": [
+   "F55"
+  ],
+  "events": [
+   "ev-gati-govinda-birth"
+  ],
+  "note": "Сын Шринивасы; в бханите «Вира-ратнавали» — у стоп «Махапрабху Вирачандры» (B 676); по поздним книгам — рождён по его благословению и посвящён им (ур. C)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "opposed",
+  "who": "@jayagopala",
+  "facts": [
+   "F53"
+  ],
+  "events": [
+   "ev-virachandra-heals-blind-ramai"
+  ],
+  "note": "Отверг Джаягопалу из Кандары (Кадры), «преступившего его милость», и запретил своим общаться с ним (БР 14.179–190, письмо 4; «Гаудия-бхашья» к ЧБ Ади 14.86)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@kanu-thakura",
+  "facts": [
+   "F57"
+  ],
+  "events": [
+   "ev-kheturi-festival"
+  ],
+  "note": "По ПВ (B 927) — вместе с Джахнавой и Вирабхадрой на празднике в Кхетури (⚠6)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F46"
+  ],
+  "note": "Подвёл Шринивасу к Васудхе, Джахнаве и Бирачандре (M 190)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F14"
+  ],
+  "note": "Явились в один титхи — картика (дамодара) кришна-навами (M 13; календарь ШЧСМ). = @shridhara-maharaja F2."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@govinda-maharaja",
+  "facts": [
+   "F58"
+  ],
+  "note": "По семейному преданию Шрилы Говинды Махараджа, Божества его рода установил Вирачандра Прабху. = @govinda-maharaja F8."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F4",
+   "F5",
+   "F15",
+   "F18",
+   "F19",
+   "F20",
+   "F59",
+   "F60",
+   "F61",
+   "I3",
+   "I5"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 11.8 (семья, ученики-«сыновья», род Рамачандры); учение о таттве Нитьянанды (B 113–114); «Гаудия-бхашья» к ЧБ Ади 9.12, Ади 14.86, Мадхья 12.26 (род Нитьянанды — ученическая преемственность; НВВ ненадёжна)."
+ },
+ {
+  "from": "@virabhadra",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F3"
+  ],
+  "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 11.9 — Вирачандра — Пайобдхишайи, Сам Господь, считающий себя вайшнавом (её почти дословно повторяет B 1095)."
+ },
+ {
   "from": "@vishnupriya",
   "type": "spouse",
   "who": "@mahaprabhu",

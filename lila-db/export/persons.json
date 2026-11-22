@@ -11849,6 +11849,10 @@
     "type": "companion"
    },
    {
+    "from": "@virabhadra",
+    "type": "father"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    },
@@ -18572,6 +18576,10 @@
    {
     "from": "@vasu-ghosha",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "other"
    },
    {
     "from": "@vishnupriya",
@@ -26342,6 +26350,10 @@
     "type": "other"
    },
    {
+    "from": "@virabhadra",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    }
@@ -27256,6 +27268,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@virabhadra",
     "type": "other"
    }
   ]
@@ -33469,6 +33485,10 @@
    {
     "from": "@vakreshvara",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "other"
    }
   ]
  },
@@ -37889,6 +37909,290 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "summary": "по таттве — вьюха Санкаршаны Пайобдхишайи, неотличный от… (ГГД 67) и др.; гуру — Джахнава (Джахнави); происхождение — Кхардах (Кхаддаха); явление — картика кришна-навами",
+  "card": "parshadas/cards/virabhadra.yaml",
+  "article": {
+   "ru": "parshadas/ru/virabhadra.md",
+   "en": "parshadas/en/virabhadra.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "panca-tattva",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "Кришна-навами месяца Дамодара (≈ картика); в 2026 г. — 3 ноября",
+    "tithi": "картика (дамодара) кришна-навами",
+    "place": "#kharadaha?",
+    "conf": "титхи — B 1095, M 13, T 201 («обычно») и календарь ШЧСМ (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22: «День явления Шрилы Вирачандры Прабху»); ≠ «Гаудия-вайшнава-абхидхана» (по T 201) — аграхаяна шукла-чатурдаши; ≠ НВВ 2 — шукла-чатуртхи маргаширши (⚠4); год и место явления книги не называют (Кхардаха — дом Нитьянанды и Васудхи, предположительно)",
+    "facts": [
+     "F14"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место сокрытия ни одна книга не называют; в календаре ШЧСМ (541/ru, проверено 2026-11-22) дня ухода нет",
+    "facts": [
+     "F14"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "письмо Шринивасе Ачарье (БР 14, письмо 4)",
+    "facts": [
+     "F52",
+     "F53"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "вьюха Санкаршаны Пайобдхишайи (Кширодакашайи Вишну), неотличный от Чайтаньи",
+    "source": "ГГД 67",
+    "level": "A",
+    "variants": [
+     "B 1095, T 200 — Кширодакашайи, третья пуруша-аватара Махасанкаршаны, Анируддха, Пребывающий в сердце",
+     "Бхактисиддханта (B 113–114) — Кширодакашайи, вьяшти-Вишну, вечно явлен на Голоке",
+     "M 13 — «аватара Кширодакашайи; неотличен от Чайтаньи, ибо вишну-таттва»",
+     "ГГД 68 — в него ради дела вошли Нишатха и Улмука (F6)"
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "Ишвара, ведущий себя как махабхагавата; главная колонна здания бхакти",
+    "source": "ЧЧ Ади 11.8–12",
+    "level": "A"
+   },
+   {
+    "in": "other",
+    "as": "нисшествие Самого Гауранги (поздние книги)",
+    "source": "«Вайшнава-вандана» 16–17 (vv-0067); НВВ",
+    "level": "C",
+    "variants": [
+     "ур. C; не ставить вровень с ГГД (⚠Б10)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@nityananda",
+    "note": "Сын Нитьянанды; величайшая ветвь Его ствола (ЧЧ Ади 11.8, 11.56); по БР 9.413 — единственный сын. = @nityananda F352–F366, F418, F433."
+   },
+   {
+    "type": "mother",
+    "who": "@vasudha",
+    "note": "Родила его (ЧЧ «Анубхашья» 11.8; ГГД; B, T, M); по T — её позволение на путь во Вриндаван (БР 13.283 — «мать»)."
+   },
+   {
+    "type": "guru",
+    "who": "@jahnava",
+    "note": "Дикша-гуру и мать (БР 13.267 — «женила сына»; T 201 «тётка и мачеха» — ⚠Б4); устроила его брак (БР 13.253, 13.255); по ПВ — посвящение после видения её четырёхрукой. = @jahnava F91, F93, F94."
+   },
+   {
+    "type": "sibling",
+    "who": "@ganga-nityananda",
+    "note": "Сестра; по T — нисхождение реки Ганги; вместе вынесли поклоны Абхирамы (T 88, B 917); БР 13.261 — ликовала на его свадьбе."
+   },
+   {
+    "type": "in-law",
+    "who": "@madhava-acharya-ganga",
+    "note": "Муж сестры Ганги; по ГГД 69 — царь Шантану."
+   },
+   {
+    "type": "spouse",
+    "who": "@shrimati-virachandra",
+    "note": "Шримати — его Шри-шакти (T 201; B 1095 — первая шакти); дочь Ядунатхи (Ядунанданы) Ачарьи и Видьюнмалы (Лакшми) из Джхаматпура (Хугли); версии — ⚠2."
+   },
+   {
+    "type": "spouse",
+    "who": "@narayani-virachandra",
+    "note": "Нараяни: дочь Ядунатхи и Видьюнмалы (B 1095) / их приёмная дочь (B 115, «Анубхашья», M) / дочь Видьюмалы и Судхамаи из Махеша (B 930) / дочь Океана (НВВ) — ⚠2."
+   },
+   {
+    "type": "in-law",
+    "who": "@yadunandana-jhamatpur",
+    "note": "Тесть и ученик: на свадьбе Вирачандра сделал его своим учеником (БР 13.254; M 14; «Анубхашья» 11.8 — «Ядунатха»)."
+   },
+   {
+    "type": "disciple",
+    "who": "@yadunandana-jhamatpur"
+   },
+   {
+    "type": "in-law",
+    "who": "@sudhamaya",
+    "note": "По B 930 (T 94) — отец Нараяни; по НВВ — её приёмный отец (⚠2)."
+   },
+   {
+    "type": "in-law",
+    "who": "@vidyunmala",
+    "note": "B 930 — мать Нараяни (жена Судхамаи); B 1095, 115, «Анубхашья», T — Видьюнмала (Лакшми), жена Ядунатхи (Ядунанданы); одно ли это лицо — неясно (⚠2)."
+   },
+   {
+    "type": "disciple",
+    "who": "@gopijanavallabha",
+    "note": "Старший из трёх учеников, прославленных как его сыновья; деревня Лата близ Манкара (Бардхаман); от его ветви — севаиты Бирачандрапура (B 83)."
+   },
+   {
+    "type": "disciple",
+    "who": "@ramakrishna-virachandra",
+    "note": "Средний «сын»-ученик; близ Малдаха — Ганешпур (B 1096) / Гаешпур (B 115, T, M, «Анубхашья») — ⚠3."
+   },
+   {
+    "type": "disciple",
+    "who": "@ramachandra-virachandra",
+    "note": "Младший «сын»-ученик; Кхардаха; брахман Батавьял, готра Шандилья; его род — до Шьямалала Госвами («Анубхашья» 11.8)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Благословил его в Кхардахе (B 664; БР 4.88–92); в Яджиграме Шриниваса совершил ему пуджу (M 14; БР 13.293–295); письмо: Шриниваса — сила милости Махапрабху (БР 14, письмо 4; B 659); вместе на праздниках в Шрикханде и Боракули (БР 9, 14). = @srinivasa-acharya F3, F45, F107, F124."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Говорил с ним в Кхардахе (БР 8.218; НВ 3); праздник санкиртаны в Кхетури по пути во Вриндаван (БР 13.298–301; НВ 11; B 1095); обнял его в Боракули (БР 14.137)."
+   },
+   {
+    "type": "met",
+    "who": "@jiva-gosvami",
+    "note": "Встречал его во Вриндаване; с его позволения (и Бхугарбхи) он обошёл Врадж (БР 13.310–311, 13.329). = @jiva-gosvami F81, F82."
+   },
+   {
+    "type": "met",
+    "who": "@bhugarbha",
+    "note": "С его позволения обошёл Врадж (БР 13.329; B 1095). = @bhugarbha F40."
+   },
+   {
+    "type": "met",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Встречал его во Вриндаване; принял в своей хижине у Говардханы и пошёл с ним (БР 13.311, 13.340–341). Автор ЧЧ принимает прибежище у его стоп (ЧЧ Ади 11.12). = @krishnadasa-kaviraja F49."
+   },
+   {
+    "type": "met",
+    "who": "@ananta-acharya",
+    "note": "Ученик Гададхары, адхикари Говинды (БР 13.312); M — «пуджари Мадана-мохана» (⚠1)."
+   },
+   {
+    "type": "met",
+    "who": "@haridasa-pandita-govinda",
+    "note": "Ученик Ананты Ачарьи, адхикари Говинды (БР 13.313–316)."
+   },
+   {
+    "type": "met",
+    "who": "@madhu-pandita",
+    "note": "Адхикари Гопинатхи, ученик Гададхары (БР 13.319); B называет отдельно «Гопинатху Адхикари» (⚠1)."
+   },
+   {
+    "type": "met",
+    "who": "@bhavananda-gopinatha",
+    "note": "Сатиртха Мадху Пандита, пуджари Гопинатхи (B 1095 по скану; M 15; БР 13.320)."
+   },
+   {
+    "type": "met",
+    "who": "@govinda-gosani",
+    "note": "Ученик Кашишвары, пуджари Говинды (B 1095 по скану; M 15; БР 13.323)."
+   },
+   {
+    "type": "met",
+    "who": "@yadavacharya-gosani",
+    "note": "Ученик Кашишвары (M 15; БР 13.323); шёл с ним по Враджу (БР 13.330, 13.342); у B вместо него — «Мадхавачарья» (⚠1)."
+   },
+   {
+    "type": "met",
+    "who": "@krishnadasa-brahmachari",
+    "note": "B: ученик Гададхары, служитель Мадана-Гопалы; в БР 13.311–324 не назван (⚠1)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "B и M ставят его среди встречавших; по БР 13.322 он назван лишь ради учеников (уже ушёл, ⚠1). = @kashishvara F49, F54."
+   },
+   {
+    "type": "host",
+    "who": "@shrinivasa-datta",
+    "note": "Принял его в Саптаграме в доме Уддхараны, два дня (M 14; БР 13.284–286). = @uddharana-datta F34, F51."
+   },
+   {
+    "type": "host",
+    "who": "@krishna-mishra",
+    "note": "Сын Адвайты; санкиртан в Шантипуре (M 14; БР 13.287); вместе на празднике в Боракули (БР 14.96). = @advaita F144."
+   },
+   {
+    "type": "host",
+    "who": "@hridaya-chaitanya",
+    "note": "Встретил его в Амбике, в доме Гауридаса Пандита (M 14, по скану). = @gauridasa-pandita F58."
+   },
+   {
+    "type": "host",
+    "who": "@kanai-shrikhanda",
+    "note": "Встретил его в Шрикханде (БР 13.291; M 14 — с Рагхунанданой, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "M 14 — встречал его в Шрикханде (по БР — только Канаи, ⚠7); на празднике ухода Нарахари умастил его сандалом, а Вирабхадра надел на него гирлянду (БР 9.593–596). = @raghunandana F78."
+   },
+   {
+    "type": "host",
+    "who": "@govinda-kaviraja",
+    "note": "Принял его в Будхари, совершил пуджу, два дня (M 14–15; НВ 11). = @govinda-kaviraja F38."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-sarakara",
+    "note": "На празднике его ухода в Шрикханде Вирабхадра всю ночь плясал в санкиртане (B 175; T 71; БР 9)."
+   },
+   {
+    "type": "other",
+    "who": "@abhirama",
+    "note": "Вирачандра и Ганга вынесли его поклоны; «Шри Вирабхадраштака» Абхирамы (T 88; B 917). = @abhirama F38, F49."
+   },
+   {
+    "type": "other",
+    "who": "@gati-govinda",
+    "note": "Сын Шринивасы; в бханите «Вира-ратнавали» — у стоп «Махапрабху Вирачандры» (B 676); по поздним книгам — рождён по его благословению и посвящён им (ур. C)."
+   },
+   {
+    "type": "opposed",
+    "who": "@jayagopala",
+    "note": "Отверг Джаягопалу из Кандары (Кадры), «преступившего его милость», и запретил своим общаться с ним (БР 14.179–190, письмо 4; «Гаудия-бхашья» к ЧБ Ади 14.86)."
+   },
+   {
+    "type": "other",
+    "who": "@kanu-thakura",
+    "note": "По ПВ (B 927) — вместе с Джахнавой и Вирабхадрой на празднике в Кхетури (⚠6)."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "Подвёл Шринивасу к Васудхе, Джахнаве и Бирачандре (M 190)."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-maharaja",
+    "note": "Явились в один титхи — картика (дамодара) кришна-навами (M 13; календарь ШЧСМ). = @shridhara-maharaja F2."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-maharaja",
+    "note": "По семейному преданию Шрилы Говинды Махараджа, Божества его рода установил Вирачандра Прабху. = @govinda-maharaja F8."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 11.8 (семья, ученики-«сыновья», род Рамачандры); учение о таттве Нитьянанды (B 113–114); «Гаудия-бхашья» к ЧБ Ади 9.12, Ади 14.86, Мадхья 12.26 (род Нитьянанды — ученическая преемственность; НВВ ненадёжна)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 11.9 — Вирачандра — Пайобдхишайи, Сам Господь, считающий себя вайшнавом (её почти дословно повторяет B 1095)."
+   }
+  ],
   "related_by": [
    {
     "from": "@abhirama",
@@ -38594,6 +38898,10 @@
     "type": "other"
    },
    {
+    "from": "@virabhadra",
+    "type": "guru"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    },
@@ -38699,6 +39007,10 @@
    {
     "from": "@uddharana-datta",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "mother"
    }
   ]
  },
@@ -39421,6 +39733,10 @@
    {
     "from": "@sita-thakurani",
     "type": "son"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "host"
    }
   ]
  },
@@ -41147,6 +41463,10 @@
     "type": "met"
    },
    {
+    "from": "@virabhadra",
+    "type": "met"
+   },
+   {
     "from": "@vishvanatha-chakravarti",
     "type": "other"
    }
@@ -42692,6 +43012,10 @@
     "type": "met"
    },
    {
+    "from": "@virabhadra",
+    "type": "met"
+   },
+   {
     "from": "@vishnupriya",
     "type": "protege"
    }
@@ -43880,6 +44204,10 @@
     "type": "other"
    },
    {
+    "from": "@virabhadra",
+    "type": "met"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    },
@@ -44143,6 +44471,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    }
   ]
  },
@@ -44784,6 +45116,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "disciple"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "host"
    }
   ]
  },
@@ -45152,6 +45488,10 @@
    {
     "from": "@rasikananda",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "host"
    }
   ]
  },
@@ -45868,6 +46208,10 @@
     "type": "other"
    },
    {
+    "from": "@virabhadra",
+    "type": "met"
+   },
+   {
     "from": "@vishvanatha-chakravarti",
     "type": "lineage-predecessor"
    },
@@ -46581,6 +46925,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "son"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "other"
    }
   ]
  },
@@ -47428,6 +47776,10 @@
    {
     "from": "@purushottama-nagara",
     "type": "disciple"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "in-law"
    }
   ]
  },
@@ -47471,6 +47823,10 @@
    {
     "from": "@nityananda",
     "type": "daughter"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "sibling"
    }
   ]
  },
@@ -47574,6 +47930,12 @@
   ],
   "events": [
    "ev-virachandra-heals-blind-ramai"
+  ],
+  "related_by": [
+   {
+    "from": "@virabhadra",
+    "type": "opposed"
+   }
   ]
  },
  {
@@ -47719,6 +48081,10 @@
    {
     "from": "@kamalakara-pippalai",
     "type": "in-law"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "in-law"
    }
   ]
  },
@@ -47740,6 +48106,10 @@
    {
     "from": "@kamalakara-pippalai",
     "type": "daughter"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "in-law"
    }
   ]
  },
@@ -47772,6 +48142,10 @@
    {
     "from": "@nityananda",
     "type": "in-law"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "spouse"
    }
   ]
  },
@@ -47812,6 +48186,10 @@
    {
     "from": "@nityananda",
     "type": "relative"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "disciple"
    }
   ]
  },
@@ -47833,6 +48211,10 @@
    {
     "from": "@nityananda",
     "type": "relative"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "disciple"
    }
   ]
  },
@@ -47854,6 +48236,10 @@
    {
     "from": "@nityananda",
     "type": "relative"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "disciple"
    }
   ]
  },
@@ -48022,6 +48408,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    },
    {
     "from": "@vrindavana-dasa",
@@ -48461,6 +48851,10 @@
     "type": "companion"
    },
    {
+    "from": "@virabhadra",
+    "type": "met"
+   },
+   {
     "from": "@vrindavana-dasa",
     "type": "other"
    }
@@ -48548,6 +48942,10 @@
    {
     "from": "@purushottama-nagara",
     "type": "son"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "other"
    }
   ]
  },
@@ -48823,6 +49221,10 @@
    },
    {
     "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
+    "from": "@virabhadra",
     "type": "other"
    }
   ]
@@ -50313,6 +50715,10 @@
     "type": "other"
    },
    {
+    "from": "@virabhadra",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    },
@@ -50732,6 +51138,10 @@
     "type": "other"
    },
    {
+    "from": "@virabhadra",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    },
@@ -50820,6 +51230,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "host"
    },
    {
     "from": "@vishnupriya",
@@ -51205,6 +51619,10 @@
    {
     "from": "@nityananda",
     "type": "in-law"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "spouse"
    }
   ]
  },
@@ -55034,6 +55452,10 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    }
   ]
  },
@@ -55071,6 +55493,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "servant"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    }
   ]
  },
@@ -60214,6 +60640,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    }
   ]
  },
@@ -60235,6 +60665,10 @@
    {
     "from": "@kashishvara",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    }
   ]
  },
@@ -63769,6 +64203,10 @@
    {
     "from": "@vasu-ghosha",
     "type": "other"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "other"
    }
   ]
  },
@@ -66881,6 +67319,10 @@
     "type": "disciple"
    },
    {
+    "from": "@virabhadra",
+    "type": "other"
+   },
+   {
     "from": "@vrindavana-dasa",
     "type": "neighbor"
    }
@@ -67544,6 +67986,10 @@
    {
     "from": "@uddharana-datta",
     "type": "son"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "host"
    }
   ]
  },
@@ -68234,6 +68680,10 @@
    {
     "from": "@madhu-pandita",
     "type": "sibling"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "met"
    }
   ]
  },
@@ -68349,6 +68799,16 @@
   "note": "брахман из Джхаматпура (Хугли, близ Раджбал-хата), по милости Джахнавы — преданный; тесть и ученик @virabhadra, отец @shrimati-virachandra (БР 13.249–255; B 1095, 115; T 201; M 13–14); не путать с @yadunandana-acharya",
   "section": "Спутники и другие лица (дополнения)",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@virabhadra",
+    "type": "in-law"
+   },
+   {
+    "from": "@virabhadra",
+    "type": "disciple"
+   }
+  ]
  }
 ]
