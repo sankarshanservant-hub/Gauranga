@@ -262,7 +262,7 @@ sakhi shelters Sri Radha, whose love for Krishna in the pastimes of Vraja is int
 eternally to Krishna alone, and Her “marriage” in these pastimes is only an appearance created by yogamaya for the
 sweetness of secret love. The gopi form that Krishnadasa attained in samadhi is not a transformation of the body but the
 revelation of his eternal spiritual form, in which he serves Sri Radha; and Jiva's command to keep silent shows how
-intimate this grace is[^14]. <!-- F40 F98 -->
+intimate this grace is[^14]. <!-- F40 F98 F101 F102 -->
 
 ## The Guru's Anger
 The same biography tells what followed. The Vaishnavas began to talk of Krishnadasa's new name and new tilaka, and word
@@ -272,7 +272,7 @@ to calm him. Duhkhi Krishnadasa bore it all smiling, knowing that he had never f
 guru's service. That night Sri Radha appeared to Hridaya Chaitanya in a dream and reproached him: “Sri Duhkhi
 Krishnadasa has greatly pleased Me, and I gave him this new name and tilaka; why do you instruct him otherwise?” Hridaya
 Chaitanya fell at Her feet, begging forgiveness. In the morning he called Shyamananda, embraced him again and again and
-said with tears: “You are truly fortunate” — and a few days later he left Vraja[^15]. <!-- F41 I3 F98 -->
+said with tears: “You are truly fortunate” — and a few days later he left Vraja[^15]. <!-- F41 I3 F98 F99 -->
 
 This story cannot be measured by worldly standards. The guru's sternness was care for the purity of his line, and it was
 resolved by Radha Herself; the disciple accepted his teacher's rebuke as mercy and never left him in thought or deed.
@@ -467,7 +467,7 @@ the others came, hid both the thread and the radiance and began nama-sankirtana[
 
 With Rasika-Murari and Damodara Shyamananda held a great festival at Dharenda that is remembered to this day. He
 invested Rasikananda with such power that Rasikananda turned robbers, atheists and people of other faiths to bhakti: a
-disciple who gives himself wholly to his guru receives all his guru's power as well. <!-- F77 I4 -->
+disciple who gives himself wholly to his guru receives all his guru's power as well[^25]. <!-- F77 I4 F99 -->
 
 ## Gopivallabhapura
 Having turned many more to the path of pure bhakti, Shyamananda came to Gopivallabhapura, on the border of Orissa and
@@ -476,7 +476,7 @@ install a Deity. The devotees built a temple with a hall for kirtana, a storeroo
 the servants and a guesthouse for Vaishnavas, with a pond and gardens beside it. At a great festival Shyamananda had the
 Deity of Sri Govindadeva (Radha-Govinda) installed and appointed Rasikananda to serve Him; the “Bhakti-ratnakara”
 (15.81) says that at Gopivallabhapura he “poured down a rain of prema and entrusted the service of Sri Govinda to Sri
-Rasika”. His followers serve this Deity in due form to this day[^25]. <!-- F74 -->
+Rasika”. His followers serve this Deity in due form to this day[^26]. <!-- F74 -->
 
 According to one of the biographies, after this Shyamananda preached throughout Utkala and, returning to
 Ambika-Kalna, bowed to Hridaya Chaitanya and told him of the success of his preaching — in Utkala, in Dandeshvara, in
@@ -484,7 +484,7 @@ Rohini, in Balarampura, in Nrisimhapura and in Gopivallabhapura; his guru embrac
 to this biography, that the invitation to Kheturi reached him. <!-- F72 -->
 
 At Gopivallabhapura, according to the “Prema-vilasa”, Virachandra, the son of Nityananda, also met him while travelling
-to Nilachala[^26]. <!-- F78 -->
+to Nilachala[^27]. <!-- F78 -->
 
 ## The Last Years and Departure
 Once, on returning to Gopivallabhapura, Shyamananda heard that his guru, Hridaya Chaitanya, had left this world. He fell
@@ -504,7 +504,7 @@ onset of Ashadha. In the Vaishnava calendar of the Sri Chaitanya Saraswat Math t
 of Vamana — the day after the Snana-yatra. The year, according to one of the biographies and the “Rasika-mangala”, was
 1552 of the Shaka era (1630). His samadhi, according to one of the biographies, is at Gopivallabhapura, where the
 service of his Deity continues to this day; the others are silent about the samadhi, and according to the
-“Rasika-mangala” he departed at Nrisimhapura[^27]. <!-- F81 F82 -->
+“Rasika-mangala” he departed at Nrisimhapura[^28]. <!-- F81 F82 F100 -->
 
 In Vrindavana his disciples and their followers worship his Deity, Sri Radha-Shyamasundara, to this day; this temple is
 one of the principal places of pilgrimage in Vrindavana. The math “Shyamasundara-kunja” founded by Shyamananda
@@ -547,10 +547,13 @@ Shyamananda, who first brought Mahaprabhu's message to that land. <!-- F95 -->
 Of who Shyamananda is in the eternal pastimes the primary sources say little. The “Shyamananda-shataka” calls him the
 disciple of a disciple of Subala, Krishna's friend — hence one biography's words: “the servant of the servant of
 Subala”. The lila of the nupura reveals his service to Sri Radha. The “Prema-vilasa” also gives his siddha name,
-Kanaka-manjari (19.111; 20.184), and calls his guru Hridaya Chaitanya the sakhi Sudhira; it also says that Srinivasa is
-a manifestation of the power of Chaitanya, Narottama of Nityananda, and Shyamananda of Advaita (20.185,
-207–216)[^28]. One of the biographies says of all three that they are eternal associates of Sri Gaurasundara who
-appeared in the world to carry His message over all the earth. <!-- F38 F85 -->
+Kanaka-manjari (19.111; 20.184); so too he is called in the later poem “Shyamananda-prakasha”: in this form, as Lalita's
+maidservant, he enters in meditation the chambers of Sri Radha, and at the end, according to the summary of the poem's
+last parts, having attained service to Radha and Krishna, he remains with Sri Rupa-manjari. His guru Hridaya Chaitanya
+the “Prema-vilasa” calls the sakhi Sudhira, and it says that Srinivasa is a manifestation of the power of Chaitanya,
+Narottama of Nityananda, and Shyamananda of Advaita (20.185, 207–216)[^29]. One of the biographies says of all three
+that they are eternal associates of Sri Gaurasundara who appeared in the world to carry His message over all the
+earth. <!-- F38 F85 F100 -->
 
 His life is the path of a faithful disciple. A Sadgopa's son from a border country, he became an acharya whom brahmanas
 by birth accepted as their guru; initiated in the mood of friendship, he accepted by Sri Radha's grace and under
@@ -617,7 +620,11 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
     daughter-in-law dropped it when she came to fetch Yamuna water; Krishnadasa asks for one thing only — to become her
     maidservant and serve Radha and Krishna; Lalita gives him a mantra, touches his forehead with the nupura, so that the
     tilaka appears, names him Shyamananda and tells him to reveal this to Sri Jiva alone. One of the biographies
-    apparently gives this tradition in another version; we present it as the report of that biography.
+    apparently gives this tradition in another version; we present it as the report of that biography. The author of the
+    poem tells that he undertook it at the command of Shyamananda, who appeared to him in a dream: he told him to return
+    home, not to abandon his wife and to practise sadhana together with her, to compose a book about him and to show it
+    to “my Nayanananda” — Rasikananda's grandson, then head of the line. The poem has come down in late manuscripts of the
+    nineteenth century; of its ten parts (*dashas*) the 1928 edition contains in full only the first four.
 [^15]: Of the biographies only one tells this; the “Bhakti-ratnakara” and the “Prema-vilasa” are silent. According to
     the “Bhakti-ratnakara”, all that Shyamananda did in Vrindavana he did only at his gurudeva's command, and Hridaya
     Chaitanya himself called Jiva his “second self” (1.404, 408). The “Shyamananda-prakasha” tells it at greater length:
@@ -625,9 +632,12 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
     Gauda and before them all washed the tilaka from his forehead and wiped out the name written on his chest — and they
     appeared again; then the guru embraced his disciple in tears. Later, when the disciple danced at a rasa in the mood of
     a gopi, Hridayananda in anger beat him, and that night Mahaprabhu appeared to him with the marks of the blows on His own
-    body: whoever strikes Shyamananda strikes Him. Hridayananda repented and at the Lord's bidding held twelve festivals.
-    So in this account too the guru's anger only becomes an occasion to show how dear his disciple is to the Lord and to
-    Sri Radha.
+    body: whoever strikes Shyamananda strikes Him. Hridayananda repented and at the Lord's bidding held twelve festivals;
+    they went on in Vrindavana for half a month, up to the rasa-utsava of Radha and Krishna at the full moon, and Sri Jiva
+    gave provisions for them from his own storehouse. Then Shyamananda laid all he had at his guru's feet: “I have
+    nothing, Prabhu, all is yours”; Hridayananda blessed him, entrusted him to Sri Jiva and left with the mahantas for
+    Gauda. So in this account too the guru's anger only becomes an occasion to show how dear his disciple is to the Lord
+    and to Sri Radha.
 [^16]: One of the biographies places this command at Shyamananda's second visit to Vrindavana: then, it says, “at Jiva's
     bidding Srinivasa and Shyamananda went to Gauda” (see below).
 [^17]: According to two biographies, Srinivasa sent Shyamananda to Utkala; according to the third (in two places),
@@ -653,15 +663,26 @@ there was “not a trace of bhakti”, he flooded with the prema of Gaura. <!-- 
     places Ghatshila “now in Bihar”; today it is in Jharkhand.
 [^24]: The sources differ on where Damodara became a disciple: at Rayani (one biography), at Rohini (another), at
     Gopivallabhapura (“Prema-vilasa”). More about him in the article on Rasikananda.
-[^25]: The biographies differ on when the service was entrusted to Rasikananda: at the installation of the Deity (two);
+[^25]: The later poem “Shyamananda-prakasha” tells of this in a few lines and in its own order of events: while still
+    in Vrindavana, after the festivals, Sri Jiva sends Shyamananda to Utkala, calling this the command of Srimati Radhika,
+    and says that Rasika-Murari has already appeared there; coming to Utkala, Shyamananda shows Rasikananda great mercy,
+    passes on to him his own power — to deliver the fallen of that land — entrusts to him his service and books, and then
+    returns to Jiva in Vrindavana. In the other sources the meeting with Rasika comes much later, after the theft of the
+    books and the festival at Kheturi.
+[^26]: The biographies differ on when the service was entrusted to Rasikananda: at the installation of the Deity (two);
     by the residents after Shyamananda had left Gopivallabhapura (one of these two, in another place); when Shyamananda
     was leaving this world (the third). According to the “Rasika-mangala”, the Deity of Sri Govinda was manifested and
     installed by Rasika himself at Shyamananda's direction, and after his guru's departure he handed the service to his
     son Radhananda. The “Bhakti-ratnakara” (15.81) and the “Prema-vilasa” (19.90) do not name the time.
-[^26]: A tradition of the Vallabha school says that the mahantas of Vrindavana sent a certain Shyamananda to Shrinathji;
+[^27]: A tradition of the Vallabha school says that the mahantas of Vrindavana sent a certain Shyamananda to Shrinathji;
     whether this is the same Shyamananda has not been established.
-[^27]: According to one of the biographies, he spent his last years at Nrisimhapura, and according to the
+[^28]: According to one of the biographies, he spent his last years at Nrisimhapura, and according to the
     “Rasika-mangala” he left this world there, in the house of Uddhanda Raya; according to another biography, he returned
-    at the end to Gopivallabhapura, and his samadhi is there. We give both versions.
-[^28]: These identifications are found only in the “Prema-vilasa”. It contains many later interpolations, and Srila
-    Bhaktisiddhanta did not regard it as wholly reliable; we therefore give them only with reference to it.
+    at the end to Gopivallabhapura, and his samadhi is there. We give both versions. The last parts of the
+    “Shyamananda-prakasha” are known only from a brief summary in one of its manuscripts: the fifth is about his life as a
+    householder (the “Rasika-mangala” too speaks of his family), the ninth about the completion of his sadhana, the last
+    about “sweet separation”: in separation from Sri Jiva he “attained Vraja” — entered eternal service to Radha and
+    Krishna.
+[^29]: The identifications with the sakhi Sudhira and with the powers of Chaitanya, Nityananda and Advaita are
+    found only in the “Prema-vilasa”. It contains many later interpolations, and Srila Bhaktisiddhanta did not regard
+    it as wholly reliable; we therefore give them only with reference to it.
