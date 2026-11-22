@@ -386,3 +386,4 @@
 | #gayeshpur | Гаешпур (Ганешпур) | Gayeshpur (Ganeshpur) | селение близ Малдаха; жил @ramakrishna-virachandra (B 115, T 201, M 16 — Гаешпур; B 1096 — Ганешпур) |
 | #kotalpur | Котулпур (Котальпур) | Kotulpur (Kotalpur) | округ Банкура (Бенгалия); живут потомки родичей поэта @jnanadasa (B 1097) |
 | #balarampura | Баларампур (Бара-Баларампур) | Balarampura (Bara-Balarampura) | селение в Уткале (Мединипур); проповедь и праздник @shyamananda (M 213; ПВ 20; «Расика-мангала») |
+| #prematali | Прематали (Прематоли; Кутубпур) | Prematali (Prematoli; Kutubpur) | на Падмавати, где Махапрабху оставил прему для @narottama-dasa (ПВ 8 — «Кудодарпур», вар. «Кутубпур»; T 151, 207) |
