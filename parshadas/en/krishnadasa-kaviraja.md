@@ -250,11 +250,14 @@ Ananta Acharya (Adi 8.66–70).
 “And all the other devotees who live in Vrindavana wished to hear the final pastimes. In their compassion they all gave
 me the order, and at their word I write, casting off all shame.” (CC, Adi 8.71–72) <!-- F29 -->
 
-Srila Bhakti Pramoda Puri Gosvami, in his preface to an edition of the “Charitamrita,” explains why this was needed.
-Vrindavana Dasa had given at the beginning of the “Chaitanya-bhagavata” a detailed plan of the Lord's pastimes, but,
-absorbed in describing Nityananda, he left much of that plan undeveloped; and Mahaprabhu's devotees in Vrindavana feared
-that these pastimes would be forgotten. One of the biographies says it briefly: he took up the book to fulfil the wish
-of the Gosvamis of Vraja. <!-- F29 -->
+Why this was needed Krishnadasa explains in the same chapter. In the “Chaitanya-bhagavata” Vrindavana Dasa first set down
+the Lord's pastimes in brief and then began to describe them at length; the book grew long, and some of the pastimes
+named in the summary he never described:
+
+“He became absorbed in describing the pastimes of Nityananda, and Chaitanya's final pastimes were left untold. The
+devotees of Vrindavana longed to hear the account of all those pastimes.” (CC, Adi 8.48–49)
+
+One of the biographies says it briefly: he took up the book to fulfil the wish of the Gosvamis of Vraja. <!-- F29 -->
 
 ## Madana-Gopala's Garland
 But even the Vaishnavas' order was not enough for him: he wished to receive the permission of the Lord Himself.
@@ -263,10 +266,7 @@ But even the Vaishnavas' order was not enough for him: he wished to receive the 
 had seen Him, I bowed at His feet; the pujari Gosani-dasa was serving His feet. When I begged at the Lord's feet for His
 order, the garland slipped from His neck and fell. All the Vaishnavas cried out ‘Hari!’, and Gosani-dasa brought the
 garland and placed it around my neck. Receiving the garland of His order, I was filled with joy, and then and there I
-began this book.” (CC, Adi 8.73–77)
-
-All this, writes Bhakti Pramoda Puri Gosvami, took place before the eyes of all the prominent Gaudiya Vaishnavas of
-Vrindavana, and all joyfully took the garland as a sign of Madana-mohana's consent. <!-- F30 -->
+began this book.” (CC, Adi 8.73–77) <!-- F30 -->
 
 From then on Krishnadasa did not regard the book as his own:
 
@@ -371,13 +371,14 @@ goal (*prayojana*). <!-- Q15 I5 -->
 The “Charitamrita” was composed while Sri Jiva was still present; Srila Bhaktisiddhanta adds in the “Anubhashya” on Adi
 10.85 that soon afterwards Srinivasa, Narottama and Duhkhi Krishnadasa (Shyamananda) came to Vrindavana. According to
 some, the book was finished before Srinivasa and Narottama began to preach — which is why their names are not in it, and
-there is nothing unnatural in that. The last verse of the book gives the time of its completion:
+there is nothing unnatural in that. As one of the biographies adds, Sri Jiva sent the “Charitamrita” to Gauda with
+Srinivasa together with the other books of the Gosvamis, having shortly before given him the title “Acharya.” The last verse of the book gives the time of its completion:
 
 “In the Shaka year 1537, in the month of Jyaishtha, in Vrindavana, on a Sunday, the fifth day of the dark fortnight,
 this book was completed.” (CC, Antya 20.158)
 
 In the original the year is encoded in the words “sindhu-agni-bana-indu” — “oceans, fire, arrows, moon,” that is, 1537
-(1615 AD); the “Anubhashya” notes that verses 156–158 are missing from many manuscripts.[^8] <!-- F38 -->
+(1615 AD); the “Anubhashya” notes that verses 156–158 are missing from many manuscripts.[^8] <!-- F38 F70 -->
 
 ## “Yet I Write”
 Krishnadasa wrote as a very old man. Closing his summary of the last pastimes, he confesses:
@@ -451,7 +452,7 @@ devotees after the six Gosvamis and drew inspiration from him. In one of his son
 the rasika devotees, for he described Chaitanya's life, and laments that the pastimes of Gaura and Govinda melt even
 stones, while his own mind has never been drawn to them;[^10] and in a song of lament for the Lord's associates he cries:
 “Where is the Kaviraja?” And the “Prema-vilasa” tells how Raghunatha Dasa spoke to Krishnadasa of Narottama's virtues.
-<!-- F51 Q13 -->
+<!-- F51 Q13 F71 -->
 
 When Virachandra, Nityananda's son, came to Vrindavana, those who went out to meet him were Sri Jiva, Krishnadasa
 Kaviraja, Ananta Acharya, Haridasa Pandita, Krishnadasa Brahmachari and others. According to the “Prema-vilasa,” the
@@ -506,19 +507,18 @@ Who Krishnadasa Kaviraja is in Krishna's eternal pastimes, Srila Bhaktisiddhanta
 “Charitamrita”: his spiritual form in Vraja is Ratnarekha-manjari, one of the young maidservants of Sri Radha.[^12]
 <!-- F63 -->
 
-To this bears witness also Radha's mercy to his commentator. Vishvanatha Chakravarti, commenting on the “Charitamrita”
-(Madhya 21.125), could not understand why Krishnadasa writes that the kama-gayatri has twenty-four and a half syllables
-rather than twenty-five. In despair he resolved to fast unto death on the bank of Radha-kunda. That night the daughter of
-Vrishabhanu appeared to him in a dream and said: “Rise, Vishvanatha! Krishnadasa wrote correctly. She is My dear friend
-(*narma-sahachari*), who gives Me joy; by My grace My most intimate secrets are known to her. Do not doubt anything she
-has written. In the ‘Varnagama-bhasvata’ it is said: the syllable ‘ya’ before ‘vi’ counts as a half.” So Srila Bhakti
-Pramoda Puri Gosvami relates; one of the biographies tells it in the same way. Radha speaks of Krishnadasa in the
-feminine — this is no figure of speech: She speaks of his eternal nature as a maidservant in Her retinue. And the dream
-itself is not a legend about inspiration but Radha's mercy to the commentator and the seal of the “Charitamrita's”
-authenticity. <!-- F42 -->
+To this bears witness also Radha's mercy to Vishvanatha Chakravarti. Vishvanatha himself tells in his
+“Mantrartha-dipika” how for a long time he could not understand where the “twenty-four and a half” syllables of the
+kama-gayatri, of which Krishnadasa writes (Madhya 21.125), come from. Without grasping the mantra he did not wish to live;
+giving up food and water, he lay down on the bank of Radha-kunda, and towards midnight the daughter of King Vrishabhanu
+appeared to him: “All that Krishnadasa Kaviraja has written is the truth. She is My *narma-sahachari*, My confidante: by
+My grace she knows all that is in My heart. Do not doubt her words.” As for the half-syllable, Radha told him to learn of
+it from the book “Varnagama-bhasvat.” Radha speaks of Krishnadasa in the feminine — this is no figure of speech: She
+speaks of his eternal nature as a maidservant in Her retinue. And the vision itself is not a legend about inspiration but
+Radha's mercy to Her servant and the seal of the “Charitamrita's” authenticity. <!-- F42 -->
 
-From Vishvanatha's commentary one sees how dear Krishnadasa is to Radharani and that the deepest truths were revealed to
-him; therefore his every word is the highest spiritual truth. <!-- I4 -->
+One of the biographies concludes that this shows how dear Krishnadasa is to Radharani and that the deepest truths were
+revealed to him; therefore his every word is the highest spiritual truth. <!-- I4 -->
 
 ## Significance
 Srila Bhaktisiddhanta said of the “Charitamrita” that if all the books of the world were to perish and only the
@@ -572,7 +572,9 @@ puppet in the Lord's hands. That is why Vaishnavas honour him as the best of the
 [^9]: In one of the biographies the reference is given as “Bhakti-ratnakara” 4.392; in our edition it is 4.393–396 —
     the numbering of the editions differs.
 [^10]: One of the biographies ascribes these lines to the “Prema-bhakti-chandrika”; in the “Gaura-pada-tarangini” they
-    appear as a separate song of Narottama.
+    appear as a separate song of Narottama. Another biography gives them within a song of lament in which Narottama grieves
+    that he never offered a drop of service at the feet of Svarupa Damodara, Sanatana, Raghunatha Bhatta, Raghunatha Dasa,
+    Gopala Bhatta, Bhugarbha, Jiva and Lokanatha, and names there, besides the “Charitamrita,” the “Govinda-lilamrita” too.
 [^11]: According to the “Prema-vilasa” (13), when the news reached Vrindavana that the Gosvamis' books which Srinivasa
     was taking to Bengal had been stolen near Vana-Vishnupura, the aged Kaviraja, who could no longer walk, left the world
     with that sorrow: sitting on the bank of the kunda, he prayed for the mercy of Chaitanya, Nityananda, Advaita, Rupa,
