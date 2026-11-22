@@ -5572,6 +5572,10 @@
     "type": "other"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@vishvanatha-chakravarti",
     "type": "other"
    }
@@ -14993,6 +14997,10 @@
    {
     "from": "@shuklambara",
     "type": "companion"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -26350,6 +26358,10 @@
     "type": "other"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -31557,6 +31569,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@shyamananda",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@sundarananda",
     "type": "co-worker"
    },
@@ -32626,6 +32642,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "friend"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -34181,6 +34201,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "host"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "other"
    }
   ]
  },
@@ -34573,6 +34597,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "host"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "other"
    }
   ]
  },
@@ -36224,6 +36252,10 @@
    },
    {
     "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    },
    {
@@ -38295,6 +38327,10 @@
     "type": "other"
    },
    {
+    "from": "@shyamananda",
+    "type": "met"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -38883,6 +38919,10 @@
    },
    {
     "from": "@shachi",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    },
    {
@@ -40284,6 +40324,10 @@
     "type": "friend"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -41465,6 +41509,10 @@
    {
     "from": "@shridhara",
     "type": "other"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "siksha-guru"
    },
    {
     "from": "@srinivasa-acharya",
@@ -43012,6 +43060,10 @@
     "type": "met"
    },
    {
+    "from": "@shyamananda",
+    "type": "friend"
+   },
+   {
     "from": "@sita-thakurani",
     "type": "other"
    },
@@ -43738,6 +43790,10 @@
     "type": "servant"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -44200,6 +44256,10 @@
     "type": "met"
    },
    {
+    "from": "@shyamananda",
+    "type": "friend"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "companion"
    },
@@ -44485,6 +44545,10 @@
     "type": "companion"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -44651,6 +44715,10 @@
    },
    {
     "from": "@rasikananda",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    }
   ]
@@ -44841,6 +44909,10 @@
    },
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    },
    {
@@ -45358,6 +45430,267 @@
    "ev-narottama-sacred-thread",
    "ev-virachandra-pilgrimage"
   ],
+  "summary": "в Кришна-лиле — слуга слуги Субалы (T 213) и др.; гуру — Хридая Чайтанья (Дас); происхождение — Дхаренда; явление — пурнима в конце Вишну-масы — по нашему календарю; уход — кришна-пратипада Вамана-масы, на другой день после Снана-ятры — по…; самадхи — Гопиваллабхапур",
+  "card": "parshadas/cards/shyamananda.yaml",
+  "article": {
+   "ru": "parshadas/ru/shyamananda.md",
+   "en": "parshadas/en/shyamananda.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "year": 1534,
+    "date": "",
+    "tithi": "пурнима в конце Вишну-масы (≈ чайтра-пурнима) — по нашему календарю (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22: 2.04.2026, день Васанта-расы); T и M — чайтра-пурнима",
+    "place": "#dharenda",
+    "conf": "год 1456 шака (1534) — T; B — 1533 «сразу после ухода Махапрабху» (⚠2); место — Дхаренда-Бахадурпур (БР 1.354 «по словам людей», T, M); дом семьи — Дандешвар (БР 1.351; B) (⚠1)",
+    "facts": [
+     "F7",
+     "F8",
+     "F9"
+    ]
+   },
+   "disappearance": {
+    "year": 1630,
+    "date": "",
+    "tithi": "кришна-пратипада Вамана-масы (≈ ашадха), на другой день после Снана-ятры — по нашему календарю (30.06.2026); T, M, РМ — ашадха, кришна-пратипада",
+    "place": "#nrisimhapura?",
+    "conf": "год 1552 шака (1630) — T и РМ; M года не даёт; место — Нрисимхапур (T — последние годы; РМ — дом Уддханды Рая) или Гопиваллабхапур (M — самадхи там) (⚠12)",
+    "facts": [
+     "F80",
+     "F81"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#gopivallabhapura",
+     "kind": "самадхи (по M 215); T и B о самадхи молчат",
+     "facts": [
+      "F82"
+     ]
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "слуга слуги Субалы",
+    "source": "T 213",
+    "level": "C",
+    "variants": [
+     "«Шьямананда-шатака» (БР 1.381): ученик ученика Субалы-сакхи — без прямого отождествления."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Канака-манджари",
+    "source": "«Према-виласа» 19–20",
+    "level": "C",
+    "variants": [
+     "M: в видении принял облик гопи и получил от Радхи тилаку и имя (F40) — имени манджари не называет."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "авеша-аватара Адвайты (Шриниваса — Чайтаньи, Нароттама — Нитьянанды)",
+    "source": "«Према-виласа» 20.207–216",
+    "level": "C",
+    "variants": [
+     "M 205: трое — вечные спутники Гаурасундары, явившиеся ради проповеди."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@krishna-mandala"
+   },
+   {
+    "type": "mother",
+    "who": "@durika"
+   },
+   {
+    "type": "guru",
+    "who": "@hridaya-chaitanya",
+    "note": "Дикша-гуру в Амбике (дал имя Кришнадас; БР 1.374–380); послал во Вриндаван и вверил Дживе («Джива — мой второй я», БР 1.408); по M — разгневался из-за новой тилаки, но, упрекнутый во сне Самой Радхой, обнял ученика (⚠Б2); послал в Уткал (M, НВ 3); его уход — M 214, РМ."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@gauridasa-pandita",
+    "note": "Гуру его гуру; T 213: Шьямананда — «слуга слуги Субалы»; Божества Гаура-Нитай в его доме (B 1102)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@jiva-gosvami",
+    "note": "Учил его «Бхагавате», книгам Госвами, дал имя «Шьямананда» (БР 1.401; B; T; «Анубхашья» Ади 10.85), подготовил к служению Радхе (B), послал с книгами в Гауду; во второй приход учил «Шат-сандарбхам» (M 199). = @jiva-gosvami."
+   },
+   {
+    "type": "friend",
+    "who": "@srinivasa-acharya",
+    "note": "Друзья на всю жизнь (M 193; B 667 — «одной жизни и цели»); трое ачарьев; Шриниваса послал его в Уткал после похищения книг; снова вместе во Вриндаване и в Вишнупуре (M 199). = @srinivasa-acharya F61, F62, F72, F92–F98, F106."
+   },
+   {
+    "type": "friend",
+    "who": "@narottama-dasa",
+    "note": "Джива вверил его Нароттаме (ПВ 12); месяцы (B) / десять дней (ПВ 13) в Кхетури — Нароттама наставлял его; встреча в Нрисимхапуре (B, M, НВ 4); праздник в Кхетури."
+   },
+   {
+    "type": "disciple",
+    "who": "@rasikananda",
+    "note": "Главный ученик; встреча в Гхатшиле (B, T, БР, РМ) / Рохини (M) (⚠13); служение Говинде в Гопиваллабхапуре (⚠11); по РМ — преемник «всей власти» (⚠12). Подробно — @rasikananda F16–F31, F53–F64, F70–F102."
+   },
+   {
+    "type": "disciple",
+    "who": "@damodara-yogi",
+    "note": "Йогин (ведантист-санньяси по ПВ 19), обращённый к бхакти; места расходятся (⚠14)."
+   },
+   {
+    "type": "disciple",
+    "who": "@sher-khan",
+    "note": "Наместник-патхан, разбивший кхолы; во сне Господь велел принять мантру у Шьямананды; имя Чайтанья Дас (ПВ 19–20; ур. C)."
+   },
+   {
+    "type": "disciple",
+    "who": "@shyamadasi",
+    "note": "Жена Расики посвящена вместе с ним (M 158; РМ — имя Шьямадаси, @rasikananda F75)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "B: принял его и послал к Дживе; ПВ 12: радовался, что его парама-гуру — Гауридас; благословил книги (B 1104)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "ПВ 12: Рагхунатха послал его к дряхлому Кавирадже; благословил книги (B 1104). = @krishnadasa-kaviraja F50."
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha",
+    "note": "Благословил книги; по B — по его велению Шьямананду пригласили в Кхетури."
+   },
+   {
+    "type": "other",
+    "who": "@bhugarbha"
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "other",
+    "who": "@uddhava-dasa-vraja",
+    "note": "Среди благословлявших и провожавших троих (БР 6.514; T 97; B 996)."
+   },
+   {
+    "type": "other",
+    "who": "@vira-hambira",
+    "note": "Его люди похитили книги; стал учеником Шринивасы (B по скану); M 199: Шьямананда изумился бхакти царя."
+   },
+   {
+    "type": "other",
+    "who": "@santosha-datta",
+    "note": "Раджа Кхетури, хозяин праздника (НВ 3; M 66)."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Три ачарьи встретили её процессию в Кхетури; признали её джагад-гуру (B 171)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-kaviraja",
+    "note": "Вместе со Шринивасой обходили Божества Вриндавана (M 199)."
+   },
+   {
+    "type": "other",
+    "who": "@ishana-navadvipa",
+    "note": "M 206: благословил его в доме Господа в Навадвипе."
+   },
+   {
+    "type": "other",
+    "who": "@tapana-mishra",
+    "note": "M 207: даршан в Каши."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-vaidya",
+    "note": "M 207: даршан в Каши."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-dasa",
+    "note": "M 214: заходил к нему в Катоа после Кхетури."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "В Кхетури; M 214 — заходил к нему в Шрикханду."
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra",
+    "note": "ПВ 19: встреча в Гопиваллабхапуре."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-nitai-ambika",
+    "note": "Божества Гауридаса в Амбике; поставлен служить Божеству гуру (БР 1.378)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-gopivallabhapura",
+    "note": "Установлен в Гопиваллабхапуре по его воле, служение — Расикананде (⚠11); M — Радха-Говинда."
+   },
+   {
+    "type": "deity-served",
+    "who": "@shyamasundara-vrindavana",
+    "note": "T 215: его Божество Радха-Шьямасундара во Вриндаване поныне чтут его последователи; B 976 — матх «Шьямасундара-кунджа»."
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "Нашёл Её нупуру (B, T, ПВ 12, пада Нарахари); по M — Она дала ему имя и тилаку и упрекнула Хридаю Чайтанью во сне (⚠5, ⚠Б1)."
+   },
+   {
+    "type": "other",
+    "who": "@vishakha",
+    "note": "Только M 208–209: искала нупуру, привела его к Радхе."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@radhananda-gopivallabhapura",
+    "note": "Ученик (БР 15.62 по T; M 215); сын Расикананды — @rasikananda F49, F101."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@baladeva-vidyabhushana",
+    "note": "В его линии (через Расикананду, Наянананду, Радха-Дамодару); комментарий на «Шьямананда-шатаку»."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья»: Ади 7.45, 10.85; Мадхья 1.97, 4.12, 8.127, 24.325; Антья 5.88 — имя от Дживы, истинный брахман-гуру, проявление щедрости Махапрабху."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Основал в 1942 г. Шьямананда-Гаудия-матх в Мединипуре в его честь."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "БР 1, 6, 15; пады о нём; «Намамрита-самудра» 270."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda-dasa-author",
+    "note": "«Према-виласа» 12–20: уход из дома, нупура, Шер Хан, Дамодара, «авеша Адвайты», Канака-манджари (ур. C, ⚠Б6)."
+   }
+  ],
   "related_by": [
    {
     "from": "@baladeva-vidyabhushana",
@@ -45504,6 +45837,10 @@
    {
     "from": "@rasikananda",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "guru"
    },
    {
     "from": "@virabhadra",
@@ -46200,6 +46537,10 @@
     "type": "other"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -46312,6 +46653,10 @@
   "related_by": [
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    },
    {
@@ -46643,6 +46988,10 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "disciple"
    }
   ]
  },
@@ -47104,6 +47453,12 @@
   ],
   "events": [
    "ev-shyamananda-utkala"
+  ],
+  "related_by": [
+   {
+    "from": "@shyamananda",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -47123,6 +47478,10 @@
    {
     "from": "@rasikananda",
     "type": "co-worker"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "disciple"
    }
   ]
  },
@@ -47698,6 +48057,10 @@
    },
    {
     "from": "@rasikananda",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    },
    {
@@ -51230,6 +51593,10 @@
    },
    {
     "from": "@shuklambara",
+    "type": "other"
+   },
+   {
+    "from": "@shyamananda",
     "type": "other"
    },
    {
@@ -56180,6 +56547,10 @@
     "type": "other"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    }
@@ -56375,6 +56746,12 @@
    "ev-devotees-lament-after-disappearance",
    "ev-srinivasa-acharya-title",
    "ev-gati-govinda-birth"
+  ],
+  "related_by": [
+   {
+    "from": "@shyamananda",
+    "type": "other"
+   }
   ]
  },
  {
@@ -56480,6 +56857,12 @@
   ],
   "events": [
    "ev-shyamananda-initiation-ambika"
+  ],
+  "related_by": [
+   {
+    "from": "@shyamananda",
+    "type": "mother"
+   }
   ]
  },
  {
@@ -56493,6 +56876,12 @@
   ],
   "events": [
    "ev-shyamananda-initiation-ambika"
+  ],
+  "related_by": [
+   {
+    "from": "@shyamananda",
+    "type": "father"
+   }
   ]
  },
  {
@@ -63839,6 +64228,10 @@
    {
     "from": "@jahnava",
     "type": "other"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "deity-served"
    }
   ]
  },
@@ -64847,6 +65240,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@vamshidasa-babaji",
     "type": "met"
    }
@@ -65272,6 +65669,10 @@
    {
     "from": "@sarvabhauma",
     "type": "other"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "lineage-successor"
    },
    {
     "from": "@vishvanatha-chakravarti",
@@ -65775,6 +66176,10 @@
    {
     "from": "@rasikananda",
     "type": "son"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "lineage-successor"
    }
   ]
  },
@@ -65828,6 +66233,10 @@
    {
     "from": "@rasikananda",
     "type": "deity-served"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "deity-served"
    }
   ]
  },
@@ -65873,6 +66282,10 @@
    {
     "from": "@rasikananda",
     "type": "spouse"
+   },
+   {
+    "from": "@shyamananda",
+    "type": "disciple"
    }
   ]
  },
@@ -67519,6 +67932,10 @@
     "type": "other"
    },
    {
+    "from": "@shyamananda",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -68981,6 +69398,21 @@
    {
     "from": "@jnanadasa",
     "type": "friend"
+   }
+  ]
+ },
+ {
+  "id": "@shyamasundara-vrindavana",
+  "ru": "Радха-Шьямасундара — Божество Шьямананды во Вриндаване",
+  "en": "Radha-Shyamasundara, Shyamananda's Deity in Vrindavana",
+  "note": "Божество, которому поныне поклоняются ученики линии @shyamananda (T 215); матх «Шьямасундара-кунджа», основанный Шьяманандой (B 976); не путать с @shyamasundara-khardaha",
+  "section": "Спутники и другие лица (дополнения)",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@shyamananda",
+    "type": "deity-served"
    }
   ]
  }

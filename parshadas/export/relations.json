@@ -30745,6 +30745,475 @@
   "note": "Не путать: «Шукламбара» — по одному мнению, имя отца Пундарики (B 748; «Гаудия-бхашья» к ЧБ Ади 2.36–37) — другое лицо."
  },
  {
+  "from": "@shyamananda",
+  "type": "father",
+  "who": "@krishna-mandala",
+  "facts": [
+   "F6",
+   "F7",
+   "F16",
+   "F19"
+  ]
+ },
+ {
+  "from": "@shyamananda",
+  "type": "mother",
+  "who": "@durika",
+  "facts": [
+   "F6"
+  ]
+ },
+ {
+  "from": "@shyamananda",
+  "type": "guru",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F3",
+   "F17",
+   "F18",
+   "F22",
+   "F23",
+   "F24",
+   "F30",
+   "F41",
+   "F54",
+   "F55",
+   "F72",
+   "F79",
+   "I1",
+   "I3"
+  ],
+  "events": [
+   "ev-shyamananda-initiation-ambika",
+   "ev-shyamananda-utkala"
+  ],
+  "note": "Дикша-гуру в Амбике (дал имя Кришнадас; БР 1.374–380); послал во Вриндаван и вверил Дживе («Джива — мой второй я», БР 1.408); по M — разгневался из-за новой тилаки, но, упрекнутый во сне Самой Радхой, обнял ученика (⚠Б2); послал в Уткал (M, НВ 3); его уход — M 214, РМ."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "lineage-predecessor",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F18",
+   "F21",
+   "F38",
+   "F88"
+  ],
+  "note": "Гуру его гуру; T 213: Шьямананда — «слуга слуги Субалы»; Божества Гаура-Нитай в его доме (B 1102)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "siksha-guru",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F4",
+   "F29",
+   "F30",
+   "F32",
+   "F33",
+   "F36",
+   "F42",
+   "F46",
+   "F59",
+   "F92"
+  ],
+  "events": [
+   "ev-shyamananda-comes-to-vrindavana",
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-shyamananda-nupura",
+   "ev-books-leave-vrindavana"
+  ],
+  "note": "Учил его «Бхагавате», книгам Госвами, дал имя «Шьямананда» (БР 1.401; B; T; «Анубхашья» Ади 10.85), подготовил к служению Радхе (B), послал с книгами в Гауду; во второй приход учил «Шат-сандарбхам» (M 199). = @jiva-gosvami."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "friend",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F31",
+   "F33",
+   "F42",
+   "F51",
+   "F52",
+   "F53",
+   "F59",
+   "F60",
+   "F63",
+   "F64",
+   "F65",
+   "F85",
+   "F86",
+   "F89",
+   "F90",
+   "F96"
+  ],
+  "events": [
+   "ev-books-leave-vrindavana",
+   "ev-books-stolen-vana-vishnupura",
+   "ev-vira-hambira-conversion",
+   "ev-kheturi-festival",
+   "ev-kheturi-mahantas-depart"
+  ],
+  "note": "Друзья на всю жизнь (M 193; B 667 — «одной жизни и цели»); трое ачарьев; Шриниваса послал его в Уткал после похищения книг; снова вместе во Вриндаване и в Вишнупуре (M 199). = @srinivasa-acharya F61, F62, F72, F92–F98, F106."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "friend",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F31",
+   "F33",
+   "F46",
+   "F52",
+   "F54",
+   "F57",
+   "F61",
+   "F63",
+   "F85",
+   "F86",
+   "F89",
+   "F96"
+  ],
+  "events": [
+   "ev-books-leave-vrindavana",
+   "ev-narottama-returns-kheturi",
+   "ev-narottama-shyamananda-nrisimhapura",
+   "ev-kheturi-festival"
+  ],
+  "note": "Джива вверил его Нароттаме (ПВ 12); месяцы (B) / десять дней (ПВ 13) в Кхетури — Нароттама наставлял его; встреча в Нрисимхапуре (B, M, НВ 4); праздник в Кхетури."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "disciple",
+  "who": "@rasikananda",
+  "facts": [
+   "F46",
+   "F68",
+   "F70",
+   "F71",
+   "F73",
+   "F74",
+   "F77",
+   "F80",
+   "I4"
+  ],
+  "events": [
+   "ev-shyamananda-utkala",
+   "ev-kheturi-festival"
+  ],
+  "note": "Главный ученик; встреча в Гхатшиле (B, T, БР, РМ) / Рохини (M) (⚠13); служение Говинде в Гопиваллабхапуре (⚠11); по РМ — преемник «всей власти» (⚠12). Подробно — @rasikananda F16–F31, F53–F64, F70–F102."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "disciple",
+  "who": "@damodara-yogi",
+  "facts": [
+   "F71",
+   "F73",
+   "F77"
+  ],
+  "event": "ev-shyamananda-utkala",
+  "note": "Йогин (ведантист-санньяси по ПВ 19), обращённый к бхакти; места расходятся (⚠14)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "disciple",
+  "who": "@sher-khan",
+  "facts": [
+   "F66",
+   "F68"
+  ],
+  "event": "ev-shyamananda-utkala",
+  "note": "Наместник-патхан, разбивший кхолы; во сне Господь велел принять мантру у Шьямананды; имя Чайтанья Дас (ПВ 19–20; ур. C)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "disciple",
+  "who": "@shyamadasi",
+  "facts": [
+   "F70"
+  ],
+  "note": "Жена Расики посвящена вместе с ним (M 158; РМ — имя Шьямадаси, @rasikananda F75)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F29",
+   "F43",
+   "F97"
+  ],
+  "event": "ev-shyamananda-comes-to-vrindavana",
+  "note": "B: принял его и послал к Дживе; ПВ 12: радовался, что его парама-гуру — Гауридас; благословил книги (B 1104)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F29",
+   "F43"
+  ],
+  "event": "ev-shyamananda-comes-to-vrindavana",
+  "note": "ПВ 12: Рагхунатха послал его к дряхлому Кавирадже; благословил книги (B 1104). = @krishnadasa-kaviraja F50."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@lokanatha",
+  "facts": [
+   "F43",
+   "F61"
+  ],
+  "note": "Благословил книги; по B — по его велению Шьямананду пригласили в Кхетури."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@bhugarbha",
+  "facts": [
+   "F43"
+  ]
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F33",
+   "F43"
+  ]
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@uddhava-dasa-vraja",
+  "facts": [
+   "F43"
+  ],
+  "note": "Среди благословлявших и провожавших троих (БР 6.514; T 97; B 996)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@vira-hambira",
+  "facts": [
+   "F49",
+   "F50",
+   "F53",
+   "F60"
+  ],
+  "events": [
+   "ev-books-stolen-vana-vishnupura",
+   "ev-vira-hambira-conversion"
+  ],
+  "note": "Его люди похитили книги; стал учеником Шринивасы (B по скану); M 199: Шьямананда изумился бхакти царя."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@santosha-datta",
+  "facts": [
+   "F54",
+   "F61"
+  ],
+  "event": "ev-narottama-returns-kheturi",
+  "note": "Раджа Кхетури, хозяин праздника (НВ 3; M 66)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F63",
+   "F65"
+  ],
+  "event": "ev-kheturi-festival",
+  "note": "Три ачарьи встретили её процессию в Кхетури; признали её джагад-гуру (B 171)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F59"
+  ],
+  "note": "Вместе со Шринивасой обходили Божества Вриндавана (M 199)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F26"
+  ],
+  "note": "M 206: благословил его в доме Господа в Навадвипе."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@tapana-mishra",
+  "facts": [
+   "F27"
+  ],
+  "note": "M 207: даршан в Каши."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@chandrashekhara-vaidya",
+  "facts": [
+   "F27"
+  ],
+  "note": "M 207: даршан в Каши."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F64"
+  ],
+  "note": "M 214: заходил к нему в Катоа после Кхетури."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F63",
+   "F64"
+  ],
+  "note": "В Кхетури; M 214 — заходил к нему в Шрикханду."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "met",
+  "who": "@virabhadra",
+  "facts": [
+   "F78"
+  ],
+  "event": "ev-virachandra-pilgrimage",
+  "note": "ПВ 19: встреча в Гопиваллабхапуре."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "deity-served",
+  "who": "@gaura-nitai-ambika",
+  "facts": [
+   "F21",
+   "F23"
+  ],
+  "event": "ev-gauridasa-deities",
+  "note": "Божества Гауридаса в Амбике; поставлен служить Божеству гуру (БР 1.378)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "deity-served",
+  "who": "@govinda-gopivallabhapura",
+  "facts": [
+   "F74"
+  ],
+  "note": "Установлен в Гопиваллабхапуре по его воле, служение — Расикананде (⚠11); M — Радха-Говинда."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "deity-served",
+  "who": "@shyamasundara-vrindavana",
+  "facts": [
+   "F28",
+   "F83"
+  ],
+  "note": "T 215: его Божество Радха-Шьямасундара во Вриндаване поныне чтут его последователи; B 976 — матх «Шьямасундара-кунджа»."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@radha",
+  "facts": [
+   "F4",
+   "F36",
+   "F39",
+   "F40",
+   "F41"
+  ],
+  "event": "ev-shyamananda-nupura",
+  "note": "Нашёл Её нупуру (B, T, ПВ 12, пада Нарахари); по M — Она дала ему имя и тилаку и упрекнула Хридаю Чайтанью во сне (⚠5, ⚠Б1)."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@vishakha",
+  "facts": [
+   "F40"
+  ],
+  "note": "Только M 208–209: искала нупуру, привела его к Радхе."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "lineage-successor",
+  "who": "@radhananda-gopivallabhapura",
+  "facts": [
+   "F68"
+  ],
+  "note": "Ученик (БР 15.62 по T; M 215); сын Расикананды — @rasikananda F49, F101."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "lineage-successor",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F84",
+   "F88"
+  ],
+  "note": "В его линии (через Расикананду, Наянананду, Радха-Дамодару); комментарий на «Шьямананда-шатаку»."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F92",
+   "F93",
+   "F94"
+  ],
+  "note": "«Анубхашья»: Ади 7.45, 10.85; Мадхья 1.97, 4.12, 8.127, 24.325; Антья 5.88 — имя от Дживы, истинный брахман-гуру, проявление щедрости Махапрабху."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F95"
+  ],
+  "note": "Основал в 1942 г. Шьямананда-Гаудия-матх в Мединипуре в его честь."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F96",
+   "F97",
+   "Q1",
+   "Q3"
+  ],
+  "note": "БР 1, 6, 15; пады о нём; «Намамрита-самудра» 270."
+ },
+ {
+  "from": "@shyamananda",
+  "type": "other",
+  "who": "@nityananda-dasa-author",
+  "facts": [
+   "F38",
+   "F66",
+   "F71",
+   "F85"
+  ],
+  "note": "«Према-виласа» 12–20: уход из дома, нупура, Шер Хан, Дамодара, «авеша Адвайты», Канака-манджари (ур. C, ⚠Б6)."
+ },
+ {
   "from": "@sita-thakurani",
   "type": "father",
   "who": "@nrisimha-bhaduri",
