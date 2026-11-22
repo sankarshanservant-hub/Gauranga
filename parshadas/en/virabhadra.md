@@ -88,7 +88,10 @@ Jhamatpur (Hooghly district). Jahnava came there, to the temple of one of her se
 Yadunandana Acharya, who by her mercy had become filled with bhakti. His wife Lakshmi was chaste and devoted to her
 husband, and their daughters Shrimati and Narayani were of matchless beauty; at Jahnava's wish this fortunate brahmana
 gave both to Virabhadra. At the wedding Virachandra made Yadunandana his disciple, and Jahnava accepted Shrimati and
-Narayani as her disciples. “Jahnava Ishvari married her son,” the “Bhakti-ratnakara” sums up. <!-- F15 Q5 -->
+Narayani as her disciples. Narahari Chakravarti calls the bridegroom here the greatly effulgent son of Nityananda, whose
+form is non-different from Chaitanya, the enchanter of the worlds — and at once cites Kavi Karnapura's verse about him
+(13.257–258); “who does not sing of Virachandra's deeds?” he exclaims (13.266). “Jahnava Ishvari married her son,” the
+“Bhakti-ratnakara” sums up (13.267). <!-- F15 Q5 F64 -->
 
 Srila Bhaktisiddhanta in the “Anubhashya” calls the father-in-law Yadunatha Acharya of Jhamatpur: Virabhadra married his
 daughter Shrimati, born of Vidyunmala (Lakshmi), and their adopted daughter Narayani. On Narayani's parents the sources
@@ -105,7 +108,7 @@ pleased to see Srinivasa,” says the “Bhakti-ratnakara” (4.88); Srinivasa r
 blessing of Nityananda's son, and “Sri Jahnava, the Prabhu [Virabhadra] and the others, their hearts aching, ordered
 him to go to Vrindavana” (4.92). <!-- F46 -->
 
-And when Srinivasa came back from Vrindavana to Gauda, “Prabhu Virachandra showed him great mercy, and day and night he
+And when Srinivasa came back once more from Vrindavana to Gauda, “Prabhu Virachandra showed him great mercy, and day and night he
 was absorbed in the rasa of sankirtana” (“Bhakti-ratnakara” 1.885). <!-- F47 -->
 
 Narottama, too, visited Khardaha. He found Vasudha and Jahnava with Virabhadra speaking of the Lord's pastimes, and
@@ -115,15 +118,19 @@ Virachandra could not let Narottama go even for a moment” (3.189, 195). <!-- F
 
 ## Festivals in Kantaka-nagara and Shrikhanda
 The ninth *taranga* of the “Bhakti-ratnakara” tells of festivals that Virachandra attended together with Srinivasa and
-other associates. In Kantaka-nagara (Katwa), where Mahaprabhu accepted sannyasa, a great festival was held in the month
-of Kartika, on the *krishna-ashtami* and *navami*. Here the “Bhakti-ratnakara” glorifies him: the only son of
-Nityananda, purifier of the world, the one whom some call Virabhadra and others Virachandra (9.413–421). People marvelled
-at the beauty of “Nitai's son” (9.422–425), and his dancing was wonderful (9.453). <!-- F50 Q4 -->
+other associates. In Kantaka-nagara (Katwa), where Mahaprabhu accepted sannyasa, a great festival went on for three days
+in the month of Kartika — on the *krishna-saptami*, *ashtami* and *navami* (9.450–456). Here the “Bhakti-ratnakara”
+glorifies him: the only son of Nityananda, purifier of the world, the one whom some call Virabhadra and others
+Virachandra; Narahari also cites the verses of the “Charitamrita” about him and adds: “whoever sees such a Virachandra
+even once will give up everything and make his feet the essence of his life” (9.413–421). The people of
+Kantaka-nagara, gazing at “Nitai's son,” said that before such beauty even Madana himself could not stay composed
+(9.422–425): the form of Nityananda's son eclipses all the beauty of this world. His dancing was wonderful (9.453).
+<!-- F50 Q4 F63 -->
 
 Then came Shrikhanda and the festival of Narahari Sarakara Thakura's departure. Srinivasa performed the rites; he
 expounded the “Bhagavatam,” and Virachandra sat on a wonderful seat and listened (9.532). All night Virabhadra danced in
 sankirtana, and on the *dvadashi* there was a great festival. Raghunandana anointed him with sandal paste and adorned him
-with garlands, and Srinivasa, at a sign given him, offered garland and sandal to Virabhadra, who himself
+with garlands, and Srinivasa, at Virachandra's sign, brought him garland and sandal, and he himself joyfully
 placed them on Raghunandana (9.593–596). When he was dancing in sankirtana, a blind man was there; learning that the
 dancer's name was Virabhadra (“*bhadra*, because he destroys evil”), he prayed for mercy — and received his sight
 (9.616–626). And at parting Raghunandana took him by both hands and, in tears, spoke with him for a long time (9.731).
@@ -158,11 +165,26 @@ devotion, and the pleased Virachandra stayed with him two days. <!-- F31 -->
 In Kheturi Thakura Mahashaya Narottama came out to meet him with great joy. For several days a great festival of
 sankirtana went on in the village: Virachandra, the great branch of Chaitanya's tree, danced in sankirtana in the
 courtyard of Gauranga, and countless people came to see the Prabhu; in private he told Narottama something
-(“Bhakti-ratnakara” 13.298–301). The “Narottama-vilasa” (11) describes in detail his dancing and the song Govinda
-Kaviraja sang then.[^9] <!-- F32 -->
+(“Bhakti-ratnakara” 13.298–301). <!-- F32 -->
+
+The “Narottama-vilasa” (11.10–196) tells of Virachandra's coming to Yajigrama and Kheturi in detail.[^9] When he arrived
+unexpectedly in Yajigrama, Srinivasa's wives washed his feet, and the Acharya's sons and daughters bowed to him, and he
+blessed them; he seated the Acharya beside himself at the meal and, tasting the food, said: “Today it is just like
+Vraja!” With him was the Govardhana-shila given by Nityananda, and he himself served it and offered it food. In Kheturi
+Narottama fell at his feet, and Virachandra, embracing him, could not contain himself; before the Deities of Kheturi he
+wept and bowed down, and the people said: “The world-enchanting Nityananda-Balarama — his son is Prabhu Virabhadra, abode of virtues.” When at his wish the
+kirtana began, he danced in the midst of the circle of Vaishnavas, arms raised, crying “Hari! Hari!”, embraced Narottama,
+and said to Govinda Kaviraja, “I would die for your poetry!” — and asked for more singing; then Gokula sang
+Govinda's song “Glory to Nityananda…”. In the morning he asked Ramachandra to speak of the rasa-lila and, listening,
+embraced him again and again; “will such rare company ever be again?” he said to the Acharya, and wept.
+<!-- F67 -->
 
 On the way many sinners and godless people were saved by his power. The “Bhakti-ratnakara” names, for example, a poor
 brahmana and a scholar proud of his learning: his pride was crushed, and he became a devotee (13.302–303). <!-- F33 -->
+
+When he came to Mathura, people ran to look at him and said to one another: “Look — the son of Nityananda-Baladeva!”
+Some asked, “Can a human being have such beauty?” — and others answered, “Why, he is no human being at all.” They
+marvelled at his companions too, and the news of his coming spread everywhere (13.304–309). <!-- F65 -->
 
 In Vrindavana, learning of his coming, the Vaishnavas came out to meet him. According to the “Bhakti-ratnakara”
 (13.310–324), they were Sri Jiva, Krishnadasa Kaviraja, Ananta Acharya — the best of Gadadhara Pandita's disciples, the
@@ -182,8 +204,15 @@ devotee is revealed in love for Krishna and His abode. <!-- F36 I4 -->
 
 At the kundas he fed the Vrajavasis and stayed five or six days. Taking leave of Jiva, Bhugarbha and others, he went from
 Govardhana to the hut of Krishnadasa Kaviraja, who went on with him; Vasudeva, Uddhava, Yadava and others were with him
-too. He visited Kamyavana, Vrishabhanupura (Varshana) and other places and saw the festival of Sri Radhika's appearance
-(13.337–424). Having stayed some time in Vrindavana, he returned by way of Mathura to Gauda-desha, telling everywhere of
+too. He visited Kamyavana, Vrishabhanupura (Varshana), Nandagrama and other places, where his companion Vasudeva told him of
+the festivals of Radha's and Krishna's birth. At Rama-ghat he sang of Baladeva and danced, and at Bhandira-vata,
+meditating alone on the pastimes of Bhandira, he suddenly saw the two brothers, Rama and Krishna, playing there with the
+cowherd boys. After visiting Gokula-Mahavana, Raval and Mathura, he entered the temple of Govinda in Vrindavana on the
+day of Janmashtami, when Govinda's *abhisheka* was performed, and on the *bhadra shukla-ashtami* he saw the *abhisheka*
+on Sri Radhika's birthday — and could not contain his heart (13.337–424). At parting everyone wept, and he, himself
+bathed in tears, comforted each one (13.426–428). <!-- F66 -->
+
+Having stayed some time in Vrindavana, he returned by way of Mathura to Gauda-desha, telling everywhere of
 Vrindavana, and in Khardaha bowed to his mother (13.425–431). “The life of Ganga and Virachandra is nectar,” Narahari
 Chakravarti concludes; “I cannot describe it in detail” (13.433). <!-- F37 F38 -->
 
@@ -217,10 +246,12 @@ the Vaishnavas of Gauda. <!-- F52 Q8 -->
 
 The same letter carries a stern word as well. In Kandara (Kadra), where Jnanadasa's home was, lived a *kayastha*
 named Jayagopala. Proud of his learning, when asked about his guru he named not his own guru, whom he thought
-“unlearned,” but his *parama-guru*. Virachandra declared that he had “transgressed my mercy” and rejected him; in the
+“unlearned,” but his *parama-guru*. Virachandra skilfully exposed him: he had “transgressed the grace” of the guru — and
+rejected him; in the
 letter he forbade his people to associate with Jayagopala and asked Srinivasa to do the same. In Yajigrama they heard
-then that Prabhu Virachandra had upheld dharma (“Bhakti-ratnakara” 14.179–190). Srila Bhaktisiddhanta, in his
-“Gaudiya-bhashya” on CB, Adi 14.86–87, writes that “Virachandra tactfully exposed him and then rejected him”: disregard
+then that Prabhu Virachandra had upheld dharma (“Bhakti-ratnakara” 14.179–190). So too
+writes Srila Bhaktisiddhanta in his “Gaudiya-bhashya” on CB, Adi 14.86–87: “Virachandra tactfully exposed him and then
+rejected him”; disregard
 for the guru is no small matter, and he guarded the purity of the teaching firmly. <!-- F53 -->
 
 After Mahaprabhu's disappearance there was confusion in the Vaishnava world. In the Prabhu's family there was no
@@ -312,6 +343,13 @@ another — places him in the row of the kin of the Pancha-tattva, after Vishvar
 “Vishvarupa, Sri Achyuta, Virachandra Prabhu! Grant me service at your feet, so that I may never forget it.”
 (“Namamrita-samudra” 18) <!-- F11 -->
 
+And in the song that concludes the “Bhakti-ratnakara” Narahari asks for the same: “Sri Achyutananda — the root of bliss,
+merciful Virachandra — may I serve their lotus feet.” <!-- F69 -->
+
+The Vaishnava *vandanas* speak of him as well. The Sanskrit *vandana* ascribed to Sri Jiva calls him “devoted to the Vedic
+dharma and yet detached, free from egotism, without pride, self-controlled — the servant of Jahnavi here”
+(1.23),[^18] and Devakinandana Dasa calls him the one “by whose conduct the whole world is won” (2.13). <!-- F68 -->
+
 Nityananda's son — according to the “Gaura-ganoddesha-dipika,” the *vyuha* of Sankarshana who lies on the Ocean of Milk,
 non-different from Chaitanya — Virachandra Prabhu came into the world in the form of a devotee. He received initiation
 from Jahnava Mata, lived in Khardaha, served Shyamasundara and celebrated his father's appearance, danced in sankirtana
@@ -346,7 +384,9 @@ branches: by his mercy the whole world sings the names of Chaitanya and Nityanan
 [^8]: One of the biographies writes that he was met by Raghunandana and Kanai Thakura; the “Bhakti-ratnakara”
     (13.291–293) names only Kanai.
 [^9]: This visit to Kheturi, on the way to Vrindavana, is not the great festival at which Jahnava was present (on that,
-    see below).
+    see below). According to the “Narottama-vilasa,” he came to Yajigrama from Khardaha through Nadia and Shrikhanda,
+    and from Kheturi set out back to Khardaha by way of Ekachakra (11.16–17, 170); it does not speak of Vrindavana here.
+    Whether this is the same journey as the one described in the “Bhakti-ratnakara,” the books do not say.
 [^10]: The lists of those who met him in the biographies differ from the “Bhakti-ratnakara.” One names “Gopinatha
     Adhikari” separately from Madhu Pandita, though by the “Bhakti-ratnakara” the *adhikari* of Gopinatha is Madhu Pandita
     himself; at the end of its list it has Madhavacharya, where the “Bhakti-ratnakara” has Yadavacharya, Kashishvara's
@@ -362,7 +402,7 @@ branches: by his mercy the whole world sings the names of Chaitanya and Nityanan
     service of the craftsman through whom the Lord reveals Himself, not the making of an image.
 [^12]: So says one of the biographies as well. But in the “Bhakti-ratnakara” (*taranga* 10) and the “Narottama-vilasa”
     he is not at this festival: leaving for Kheturi, Jahnava carefully comforted Ganga and Virachandra, who stayed at home
-    (NV 6.208). He himself visited Kheturi on the way to Vrindavana, as told above.
+    (BR 10.371; NV 6.208). He himself visited Kheturi on the way to Vrindavana, as told above.
 [^13]: According to the “Prema-vilasa” and the “Nityananda-vamsha-vistara,” he had three sons and a daughter: the
     daughter Bhuvanamohini was married to Parvatinatha Mukhuti of Phuliya (according to the second book, the younger
     daughter, to Parvaticharana Mukhuya). These three, according to Srila Bhaktisiddhanta, are his disciples.
@@ -372,3 +412,5 @@ branches: by his mercy the whole world sings the names of Chaitanya and Nityanan
 [^16]: The edition does not state that this appendix is by Srila Bhaktisiddhanta.
 [^17]: These words of later books are not placed on a level with the “Gaura-ganoddesha-dipika” and do not mean that
     Virachandra is Svayam Bhagavan Himself: according to Kavi Karnapura, he is the *vyuha* of Sankarshana.
+[^18]: In the same place (1.22) he is called “Sri Chaitanya, appearing a second time”; these words, like the traditions
+    of Gauranga's descent (note 17), are not placed on a level with the “Gaura-ganoddesha-dipika.”
