@@ -661,7 +661,7 @@ Narahari also quotes a verse from Govinda Kaviraja's drama “Sangita-madhava,�
 the renowned Narottama (1.270), and another about the two “who became a pair through great mutual love” (1.277). Srila
 Bhaktisiddhanta writes in the “Anubhashya” that Thakura Narottama prayed for Ramachandra's company birth after birth, and
 that Ramachandra was the chief and dearest companion of Thakura Mahashaya and Srinivasa Acharya in preaching and in
-bhajana (on CC Adi 11.53). The “Prema-vilasa” (17) describes their friendship and the order of their bhajana. As once
+bhajana (on CC Adi 11.51). The “Prema-vilasa” (17) describes their friendship and the order of their bhajana. As once
 Rupa, Sanatana and Raghunatha, as Lokanatha and Bhugarbha, so Narottama and Ramachandra showed the bhajana of like-minded
 friends, without a trace of rivalry — though they did not necessarily live in one hut. <!-- F88 Q11 F98 I9 F109 F126 -->
 
