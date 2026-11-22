@@ -10,7 +10,8 @@ completely one with Narottama that their names merged into one: Vaishnavas spoke
 "Ramachandra-Narottama" ("Bhakti-ratnakara," 1.272–274).[^1] <!-- F1 -->
 
 Among Srinivasa's disciples eight kavirajas were especially honoured: Ramachandra, his younger brother Govinda,
-Karnapura, Nrisimha, Bhagavan, Vallabha Dasa, Gopiramana and Gokula; Ramachandra was the eldest of them.[^2] <!-- F3 Q10 -->
+Karnapura, Nrisimha, Bhagavan, Vallabha Dasa, Gopiramana and Gokula; Ramachandra was the eldest of them.[^2]
+<!-- F3 Q10 F65 -->
 
 His name also appears in the "Chaitanya-charitamrita." Listing the branches of Sri Nityananda's tree, Krishnadasa
 Kaviraja says:
@@ -36,9 +37,10 @@ Bhagirathi, and after his marriage he settled in Khanda ("Bhakti-ratnakara," 1.2
 Narahari Sarakara, loved and honoured this mahabhagavata dearly. Ramachandra's mother was named Sri Sunanda; Ramachandra
 was the elder of two sons, the younger being Sri Govinda Kaviraja (ibid., 1.238, 1.445). According to one of the
 biographies, Ramachandra was born in Shrikhanda, in the Bardhaman district.[^3] The sources give neither the year nor
-the day of his appearance, and that day is not in the calendar of the Sri Chaitanya Saraswat Math. <!-- F4 F5 F6 F7 F8 Q7 -->
+the day of his appearance, and that day is not in the calendar of the Sri Chaitanya Saraswat Math.
+<!-- F4 F5 F6 F7 F8 Q7 -->
 
-His maternal grandfather was Sri Damodara Kaviraja, Damodara Sena of Shrikhanda, a poet whose name was known everywhere
+His mother's father was Sri Damodara Kaviraja — Damodara Sena of Shrikhanda, a poet whose name was known everywhere
 ("Bhakti-ratnakara," 1.238–239).[^4] The "Bhakti-ratnakara" tells how the birth of his grandsons was foretold. Damodara
 was unbeatable in debate; a digvijayi whom he had easily defeated cursed him in vexation: "May you be sonless!" Damodara
 appeased him in every way, and the man said, "You will have a daughter blessed in the world; from her two jewel-like sons
@@ -51,9 +53,10 @@ Of the boy the "Bhakti-ratnakara" says:
 ("Bhakti-ratnakara," 1.258)
 
 From infancy he charmed everyone; his form was radiant, in beauty he was like Madana, and he soon became learned. The
-wise, looking at him, said, "This is a portion of some god: by his own will he has appeared in a family of vaidyas, and
-because of his human form no one recognizes him," while the Vaishnavas felt, "If he becomes a Vaishnava, many will become
-Vaishnavas" (1.259–264). He grew up diligent, serious and persevering, active, intelligent and handsome. <!-- F11 F12 -->
+wise, looking at him, said, "This is a portion of some god… By his own will he has appeared in a family of vaidyas, and
+because of his human form no one can recognize him," while the Vaishnavas felt, "If this one becomes a Vaishnava, many
+will become Vaishnavas" (1.259–264). He grew up diligent, serious and persevering, active, intelligent and handsome.
+<!-- F11 F12 -->
 
 His father left this world early — soon after the birth of the younger son — and the brothers grew up in Kumaranagara,
 in their grandfather's house. Damodara worshipped Shakti, and under his influence both brothers inclined for a time
@@ -94,7 +97,7 @@ west of his house in Yajigrama, gazing compassionately at the road. Along the ro
 young man of wondrous beauty, splendidly adorned, was travelling home. Srinivasa thought, "This body will find its
 purpose if he serves Krishna," and asked who he was. He was told: this is Ramachandra, the king of poets, a physician from
 Kumaranagara. Srinivasa went into the house with a quiet smile, and Ramachandra, who had heard the whole exchange, looked
-at the Acharya from his palanquin — and gave him his heart (8.519–535).[^7] <!-- F21 -->
+at the Acharya from his palanquin — and gave him his heart (8.519–535).[^7] <!-- F21 F64 -->
 
 He returned home in silence and could barely wait for evening; at night he came to the house of a brahmana next to
 Srinivasa's and spent the hours till dawn thinking of the Acharya's feet. At daybreak he came to Srinivasa, wept, and
@@ -121,15 +124,15 @@ A few days later Ramachandra returned home from Yajigrama. The shaktas there, le
 initiation, were furious. He paid them no attention: every day he marked twelve places of his body with tilaka and
 chanted the name of Hari. <!-- F27 -->
 
-One day, as he was returning home after bathing in the Ganges, the shaktas stopped him: "Why are you going home without
-honouring Shiva? Your grandfather Damodara Kaviraja was a great worshipper of Shiva." Ramachandra answered them from the
+One day, as he was returning home after bathing in the Ganges, the shaktas stopped him: "Why do you go home without
+honouring Shiva? Damodara Kaviraja, your grandfather, worshipped Shiva devoutly." Ramachandra answered them from the
 shastras. Shiva and Brahma are guna-avataras of Sri Krishna, and Krishna is the root of all avataras: whoever worships
-Krishna worships everyone, as watering the root nourishes the branches and leaves. Prahlada, Dhruva and Vibhishana were
-devotees of Krishna, and therefore Shiva and Brahma are always kind to them and glorify them. Ravana, Kumbhakarna, Bana
-and others were hostile to Hari and worshipped Shiva alone — and Shiva himself destroyed them. The shastras say that
-Brahma creates the world by the power of his worship of Vishnu, and Shiva blesses the world by bearing on his head the
-Ganges, the water from the Lord's feet that purifies the three worlds. The smarta brahmanas and shaktas were struck dumb.
-<!-- F28 F29 -->
+Krishna worships everyone, as watering the root nourishes the branches and leaves. Because Prahlada, Dhruva and
+Vibhishana served Krishna, Shiva and Brahma are always kind to them and glorify them. As for Ravana, Kumbhakarna, Bana
+and the rest, they were hostile to Hari and worshipped Shiva alone — and Shiva himself destroyed them. The shastras say
+that Brahma creates the world by the power of his worship of Vishnu, and Shiva brings blessing to the world by holding
+on his head the Ganges, which flows from the Lord's feet and purifies the three worlds. The smarta brahmanas and shaktas
+were struck dumb. <!-- F28 F29 -->
 
 There is no belittling of Shiva in this answer. Shiva is the greatest of Vaishnavas ("Srimad-Bhagavatam," 12.13.16), and
 the destruction of Ravana and the others was his judgment upon the enemies of Hari, not revenge. Ramachandra only reminded
@@ -145,14 +148,14 @@ darkness. Bring the Acharya back and preserve everyone's life" (9.110–114).[^1
 the other Vaishnavas Ramachandra set out. The Acharya had left at the end of the month of Margashirsha, Ramachandra left
 at the end of Pausha (9.132). <!-- F30 F31 -->
 
-He travelled through Gaya, Kashi, Ayodhya, Prayaga and other tirthas (9.194); in Mathura he bathed and rested at Vishrama
-Ghata and bowed to Krishna's birthplace and to the Deity of Adikeshava. In Vrindavana, where Srinivasa was then living,
-people came running to see him: "This is no man at all — it is some god." Sri Jiva was told that an extraordinary person
-had come from Gauda: his body shone brighter than gold, it was all trembling with rapture, and tears flowed from his eyes.
-Jiva asked the Acharya, who guessed, "Ramachandra must have come." Ramachandra bowed at the feet of the Acharya and the
-Gosvami, and both embraced him again and again (9.179–190). He conveyed Raghunandana's words and the news from the
-Vaishnavas of Gauda, and Jiva understood how great the grief there was and resolved to let Srinivasa go home soon
-(9.191–196). <!-- F32 F33 -->
+He travelled through Gaya, Kashi, Ayodhya, Prayaga and other tirthas (9.194); in Mathura he bathed at Vishrama Ghata and
+rested there and bowed to Krishna's birthplace and to the Deity of Adikeshava. In Vrindavana, where Srinivasa was then
+living, people came running to see him: "Oh, this is no man at all: it seems to me this is some god." Sri Jiva was told
+that an extraordinary person had come from Gauda: his body shone brighter than gold, it was all trembling with rapture,
+and tears flowed from his eyes. Jiva asked the Acharya, who guessed, "Ramachandra must have come." Ramachandra bowed at
+the feet of the Acharya and the Gosvami, and both embraced him again and again (9.179–190). He conveyed Raghunandana's
+words and the news from the Vaishnavas of Gauda, and Jiva understood how great the grief there was and resolved to let
+Srinivasa go home soon (9.191–196). <!-- F32 F33 -->
 
 Jiva himself took him to Radha-Damodara. At the samadhi of Sri Rupa Ramachandra lost all composure: he rolled on the
 ground crying, "Ha, ha, Prabhu Rupa!" and Jiva, holding him in his arms, consoled him (9.197–200). With the permission of
@@ -161,9 +164,10 @@ Sanatana Gosvami, Kashishvara Pandita and Raghunatha Bhatta (9.201–205); accor
 the Deities together with Srinivasa and Shyamananda. Sri Gopala Bhatta, the merciful Lokanatha, Sri Bhugarbha and other
 Gosvamis showed him boundless mercy (9.206). <!-- F34 F35 -->
 
-He hurried to Aritagrama, bathed in Radha-kunda and Shyama-kunda and bowed to Raghunatha Dasa Gosvami, who embraced him
-tenderly, bathing him in tears, and, on hearing his sweet verses, showed him inexpressible mercy. There he also met
-Krishnadasa Kaviraja; he saw Govardhana and walked through the twelve forests of Vraja (9.208–212). <!-- F36 -->
+He hurried to Aritagrama, bathed in Radha-kunda and Shyama-kunda and bowed to Raghunatha Dasa Gosvami; the Gosvami
+embraced him tenderly, bathing him in tears, and, on hearing his sweet verses, showed him inexpressible mercy. There he
+also met Krishnadasa Kaviraja; he saw Govardhana and walked through the twelve forests of Vraja (9.208–212).
+<!-- F36 -->
 
 It was in Vrindavana that Ramachandra received his title. The "Bhakti-ratnakara" says:
 
@@ -201,7 +205,7 @@ withdrawn from sight (13.21).[^13] <!-- F40 Q9 -->
 
 ## Budhari
 Even as he was leaving for Vrindavana, Ramachandra was thinking about where he should live. "How many days until I attain
-the company of Sri Narottama? I shall settle in a place where everything will be joyful," he reflected, and, revealing his
+the company of Sri Narottama?… I shall settle in a place where everything will be joyful," he reflected, and, revealing his
 intention to no one, chose a place in his mind. On the eve of his departure he told his younger brother Govinda in private
 that life in Kumaranagara had become unsettled, and advised him to move to Teliya-Budhari — a holy place between the
 Ganges and the Padmavati, where their grandfather had once lived. Govinda agreed and moved two to four days after his
@@ -232,7 +236,7 @@ Narottama loved Ramachandra more than life, and Srinivasa loved him ardently. In
 
 Again and again he names Ramachandra in the closing lines of his songs. One of the biographies observes that although
 Narottama and Srinivasa were one in soul, Narottama longed for the company of Ramachandra, the Acharya's servant — and in
-this his love for Srinivasa himself is seen, for Ramachandra was very dear to Srinivasa. <!-- F46 Q2 -->
+this his love for Srinivasa himself is seen, for Srinivasa held Ramachandra very dear. <!-- F46 Q2 -->
 
 Ramachandra was Narottama's dearest companion in preaching and bhajana; they were almost inseparable, and the biographies
 call him "one in soul" with Narottama, his "soul" and his "second self." Govinda Kaviraja writes of his brother in the drama
@@ -249,8 +253,8 @@ are skilled in bestowing pure bhakti (1.272–276). And in the same drama:
 samsara, foremost in the teaching of the Satvata-tantras, masters of all conclusions, rasikas ever bestowing the rasa of
 bhakti, ornaments [of the world] who drive out unbelief." ("Bhakti-ratnakara," 1.277)
 
-And in Govinda's song about Narottama, Ramachandra is "the minister of Narottama, the king of bhakti, one with him in
-body" (1.439). <!-- F47 Q3 Q5 -->
+And in Govinda's song Narottama is "the great king of prema-bhakti," whose "minister, one with him in body, is
+Ramachandra Kaviraja" (1.439). <!-- F47 Q3 Q5 -->
 
 As Lokanatha and Bhugarbha had done before them, Narottama and Ramachandra showed the bhajana of like-minded friends,
 without a trace of rivalry or envy. Pure devotees choose one another as companions by kinship of heart; this does not mean
@@ -287,26 +291,27 @@ Acharya" (15.113–114). On Srinivasa's instruction, Ramachandra and Harirama pr
 everywhere. <!-- F50 -->
 
 ## The Stalls in the Kumarapura Market
-The smarta brahmanas, having conspired to humiliate Narottama, set out for Kheturi with Raja Narasimha and the
-digvijayi pandita Rupa-Narayana; the party was to halt for a day in Kumarapura. When the news reached Kheturi, Narottama
-told Ramachandra that a debate would disturb their bhajana, and Ramachandra promised with a smile that their pride would
-fall without effort ("Narottama-vilasa," 10.165–187). Ramachandra and Sri Ganganarayana Chakravarti opened two stalls in
-the Kumarapura market: Ramachandra sold pots like a potter, and Ganganarayana sold betel. The panditas' students came to
-buy pots and betel, and the sellers addressed them in Sanskrit and drew them into debate. The teachers, coming up, were
-amazed at their learning; finally Rupa-Narayana and the raja arrived. The digvijayi entered the debate — and conceded
-defeat before the conclusions of the "Bhagavata." The smartas were refuted, and pure bhakti was established. The raja
-asked who these merchants were, and was told that they were the most insignificant disciples of Narottama, "servants of
-his servants."[^16] "If you cannot overcome a mere disciple of his," said the raja, "how will you overcome him?" — and the
-smartas, not daring to go further, turned back. <!-- F51 -->
+The smarta brahmanas, having conspired to humiliate Narottama, set out for Kheturi with Raja Narasimha and the digvijayi
+pandita Rupa-Narayana; the party was to halt for a day in Kumarapura. When the news reached Kheturi, Narottama told
+Ramachandra that a debate would disturb their bhajana, and Ramachandra promised with a smile that their pride would fall
+without effort ("Narottama-vilasa," 10.165–187). Ramachandra and Sri Ganganarayana Chakravarti opened two stalls in the
+Kumarapura market: Ramachandra sold pots like a potter, and Ganganarayana sold betel. The panditas' students came to buy
+pots and betel, and the sellers addressed them in Sanskrit and drew them into debate. The teachers, coming up, were
+amazed at their learning; finally Rupa-Narayana and the raja arrived. The digvijayi entered the debate himself — and had
+to own himself beaten by the conclusions of the "Bhagavata." The smartas were refuted, and pure bhakti was established.
+The raja asked who these merchants were, and was told that they were the most insignificant disciples of Narottama,
+"servants of his servants."[^16] "If you cannot overcome a mere disciple of his," said the raja, "how will you overcome
+him?" — and the smartas, not daring to go further, turned back. <!-- F51 -->
 
 Thus even a humble disciple of a pure devotee, by the power of the "Bhagavata's" conclusions, defeats proud scholars.
 After this Durga in a dream told Raja Narasimha and Rupa-Narayana to seek shelter with Narottama, and he initiated
 them.[^17] <!-- I5 F52 -->
 
 ## Kheturi and Jahnava
-By Ramachandra's mercy many sinners and unbelievers were delivered. At the great festival in Kheturi he was one of the
-leaders: together with others he prepared the invitations ("Bhakti-ratnakara," 10.274), and one of the biographies says
-that Srinivasa, his disciple Ramachandra and Ramachandra's brother Govinda worked hard to make the festival a success.
+By Ramachandra's mercy many sinners and unbelievers were delivered. At the great festival in Kheturi he was among those
+who led it: together with others he prepared the invitations ("Bhakti-ratnakara," 10.274), and one of the biographies
+says that Srinivasa, his disciple Ramachandra and Ramachandra's brother Govinda worked hard to make the festival a
+success.
 <!-- F53 F54 -->
 
 When Jahnava Devi, Nityananda's consort, was returning from Vrindavana, Ramachandra and Narottama went out to meet her
@@ -315,7 +320,7 @@ Ramachandra handed this book to Srinivasa (11.680). When Jahnava asked for news 
 for tears, and Ramachandra answered: "The Lord's dear ones, in this short time, have almost all gone into concealment;
 those who still remain are also all but hidden from sight" (11.341–342). Together with Narottama he escorted her from
 Kheturi across the Padmavati to Budhari, and from there toward Ekachakra (11.361–404). One of the biographies says that
-Jahnava spent some time in Budhari, "the home of Ramachandra Kaviraja"; according to another, in Teliya-Budhari she was
+Jahnava stayed for a while in Budhari, Ramachandra Kaviraja's home; according to another, in Teliya-Budhari she was
 received by Govinda. <!-- F55 -->
 
 ## Writings
@@ -326,21 +331,20 @@ in Kali there is no other way than the Hare Krishna mantra; the flood of prema h
 not received a drop. So speaks a humble Vaishnava of himself.[^18] <!-- F56 F57 -->
 
 ## Departure
-With the permission of Narottama and Srinivasa — according to one of the biographies, at their command — Ramachandra went
+With Narottama's and Srinivasa's permission — according to one of the biographies, at their command — Ramachandra went
 to Vrindavana once more. Almost all the Gosvamis had already withdrawn from sight, and he lived there with an aching
-heart; after a few days (according to another account, a few months), meditating on the lotus feet of Sri Radha and
-Govinda, the Lord and Lady of Vraja, he entered Their eternal pastimes. The sources say nothing of his samadhi.
+heart; after a few days (according to another account, a few months), absorbed in meditation on the lotus feet of Sri
+Radha and Govinda, Vraja's Lady and Lord, he entered Their eternal pastimes. The sources say nothing of his samadhi.
 <!-- F58 F61 -->
 
-The "Narottama-vilasa" tells it this way. Narottama and Ramachandra spent some days in Kheturi in great bliss and one day
-took counsel together in private. Then Ramachandra, in great anguish, went to Yajigrama; soon news came that Sri Acharya
-had gone to Vrindavana and that Ramachandra was constantly with him. Narottama, unable to find peace, sang of Gauranga's
-companions whom he had not been granted to see, and of Srinivasa: "Acharya Sri Srinivasa… has gone, leaving me;
-Ramachandra has not come back," — and as soon as
-he said this, all heard that Ramachandra Kaviraja had passed from sight. Narottama went into a lonely forest and wept aloud:
-"O Ramachandra, where have you gone, leaving me?" ("Narottama-vilasa," 11.212–221).[^19] In the depth of separation
-Narottama composed the song "Ye anila prema-dhana karuna prachura…" — "He who brought the treasure of prema, boundlessly
-merciful…" <!-- F60 Q11 -->
+The "Narottama-vilasa" tells it this way. Narottama and Ramachandra spent some days in Kheturi in great bliss and one
+day took counsel together in private. Then Ramachandra, in great anguish, went to Yajigrama; soon news came that Sri
+Acharya had gone to Vrindavana and that Ramachandra was constantly with him. Narottama, unable to find peace, sang of
+Gauranga's companions whom he had not been granted to see, and of Srinivasa: "Acharya Sri Srinivasa… has gone, leaving
+me; Ramachandra has not come back," — and as soon as he said this, all heard that Ramachandra Kaviraja had passed from
+sight. Narottama went into a lonely forest and wept aloud: "O Ramachandra, where have you gone, leaving me?"
+("Narottama-vilasa," 11.212–221).[^19] In the depth of separation Narottama composed the song "Ye anila prema-dhana
+karuna prachura…" — "He who brought the treasure of prema, boundlessly merciful…" <!-- F60 Q11 -->
 
 The biographies give the day of his departure differently — the third day of the dark fortnight of Pausha, or of Magha; in
 the calendar of the Sri Chaitanya Saraswat Math it is Madhava-masa, krishna-tritiya: "Disappearance of Srila Ramachandra
@@ -365,14 +369,13 @@ bestow My prema-bhakti." <!-- F3 F47 F50 F53 F54 -->
     brother-in-law; Ramachandra (Ramai), the son of Vamshivadana; Ramachandra Bhatta ("Bhakti-ratnakara," 12.2265); and
     the Gajapati Ramachandra-deva.
 [^2]: One of the biographies cites this list from the "Prema-vilasa" (18); in our edition it is found in the
-    "Karnananda" (6.181–182), where Ramachandra is called the eldest of the kavirajas.
-[^3]: Another biography, interpreting a stanza of Govinda Kaviraja's drama "Sangita-madhava" ("Bhakti-ratnakara," 1.270),
-    says that he was born "in the town of Sarajani on the bank of the Ganges" and that Chiranjiva was "a well-known
-    minister of the king of Gauda." But the name of the town is corrupt in the editions of this stanza, and the words
-    about the king of Gauda are obscure; in our translation Chiranjiva is "honouring brahmanas, devoted to Vishnu, well
-    known [even] to the chief minister of the king of Gauda." Srila Bhaktisiddhanta ("Anubhashya" on CC, Adi 11.51)
-    writes that Ramachandra himself first lived in Shrikhanda and later settled in Kumaranagara on the bank of the
-    Bhagirathi.
+    "Karnananda" (6.180–189), where Ramachandra is called the eldest of the kavirajas (6.181).
+[^3]: Another biography, interpreting a stanza of Govinda Kaviraja's drama "Sangita-madhava" ("Bhakti-ratnakara,"
+    1.270), places his birth in a town "Sarajani" on the Ganges and makes Chiranjiva a renowned minister of the Gauda
+    king. But the name of the town is corrupt in the editions of this stanza, and the words about the king of Gauda are
+    obscure; in our translation Chiranjiva is "honouring brahmanas, devoted to Vishnu, well known [even] to the chief
+    minister of the king of Gauda." Srila Bhaktisiddhanta ("Anubhashya" on CC, Adi 11.51) writes that Ramachandra
+    himself first lived in Shrikhanda and later settled in Kumaranagara on the bank of the Bhagirathi.
 [^4]: Two biographies call Damodara a disciple of Narahari Sarakara; according to others, he was a great worshipper of
     Shiva, was himself initiated into the shakta path and instructed others in it; the "Bhakti-ratnakara" (9.143) says
     that he worshipped Shakti.
@@ -380,22 +383,24 @@ bestow My prema-bhakti." <!-- F3 F47 F50 F53 F54 -->
     Chiranjiva and Sulochana; only the "Anubhashya" speaks of Chiranjiva's sons. Ramachandra was born and lived after the
     Lord's disappearance and never saw Him in person, so he can be called "a devotee of Lord Chaitanya" only in the broad
     sense in which all Gaudiya Vaishnavas are devoted to Mahaprabhu.
-[^6]: One of the biographies adds, citing Srila Bhaktisiddhanta, that Ramachandra "was never married"; these words are not
-    in the "Anubhashya." Another relates, from a book not accepted by all, that Srinivasa saw Ramachandra on the very day
-    of his wedding and with a few words on the transience of worldly life awakened in him such detachment that he never
-    took up the life of a householder.
-[^7]: The biographies tell of this meeting differently: Srinivasa was sitting on the veranda of his house speaking
-    hari-katha (according to another biography, explaining the "Bhagavatam" to assembled devotees); Ramachandra was passing
-    by on his way from the wedding, they saw each other from afar, and both felt a deep friendship; Srinivasa asked the
-    local people about him and smiled with joy. According to one of them, Ramachandra came to Srinivasa together with his
-    young wife, they were introduced, the day passed in talk of Hari, and they spent the night in a neighbouring
-    brahmana's house.
+[^6]: One of the biographies adds, citing Srila Bhaktisiddhanta, that Ramachandra "was never married"; these words are
+    not in the "Anubhashya." Another relates, from a book not accepted by all, that on Ramachandra's wedding day itself
+    Srinivasa saw him and, with a few words on the transience of worldly life, awakened in him such detachment that he
+    never accepted a householder's duties.
+[^7]: The biographies tell of this meeting differently. According to one, Srinivasa was sitting on the veranda of his
+    house speaking hari-katha; Ramachandra, newly married, was passing by, they saw each other, and a new feeling awoke in
+    Ramachandra. Another biography gives two accounts: in the first, Ramachandra was on the road to Yajigrama on his way
+    from the wedding, and Srinivasa with his followers happened to be passing along the road; in the second, Srinivasa was
+    at home explaining the "Bhagavatam" to assembled devotees, they saw each other from afar, and both felt a deep
+    friendship; Srinivasa asked the local people about him and smiled with joy. According to this biography, Ramachandra
+    came to Srinivasa together with his young wife, they were introduced, the day passed in talk of Hari, and they spent
+    the night in a neighbouring brahmana's house.
 [^8]: One of the biographies cites verse 8.574 here — according to another edition of the "Bhakti-ratnakara."
 [^9]: According to the "Prema-vilasa" (13.386–409; 14.30–101), Ramachandra came to Srinivasa from Teliya-Budhari bringing
     five coins; the same book tells of his dispute with a certain Vyasa and of his initiation. The biographies do not cite
     these and other traditions ("Karnananda," 1.76–108; "Anuraga-valli," 6.124–140).
 [^10]: The biographies differ on what brought him to Vrindavana. According to some, he himself longed to see Vrindavana
-    and the Gosvamis' feet and went there with the permission of Raghunandana and other Vaishnavas, on an auspicious day,
+    and the Gosvamis' feet and set out with the leave of Raghunandana and other Vaishnavas, on an auspicious day,
     with the blessings of the Vaishnavas of Bengal. According to another passage of one of them, the Gaudiya devotees,
     pining for Srinivasa, sent him to bring the Acharya back; according to a third, Srinivasa, staying with Jiva, himself
     summoned him from Gauda through the Bengali devotees. The "Bhakti-ratnakara" combines the first and the second.
@@ -417,20 +422,21 @@ bestow My prema-bhakti." <!-- F3 F47 F50 F53 F54 -->
 [^15]: According to another biography, both brothers were initiated by Narottama. But the "Bhakti-ratnakara" (15.114), the
     "Prema-vilasa" (14) and the other biographies call Harirama a disciple of Ramachandra.
 [^16]: Ramachandra was a disciple of Srinivasa, not of Narottama; "disciples of Narottama" is a humble way of naming
-    themselves (so too in the "Narottama-vilasa," 10.178: they "sell in Kheturi, where Narottama lives"). One of the
+    themselves (cf. "Narottama-vilasa," 10.178: the pandita's student says
+    that they sell betel and pots "in the village of Kheturi, where Narottama lives"). One of the
     biographies says in one place that the smartas "came to Kheturi" and in another that they "did not dare go toward
     Kheturi."
 [^17]: Durga is the Lord's external energy and His maidservant: she carries out His will and protects His devotees
     ("Brahma-samhita," 5.44), and does not act as an independent goddess.
 [^18]: The signature "Ramachandra Dasa" could have been left by another poet of the same name; that the pada belongs to
     Ramachandra Kaviraja is not established.
-[^19]: The sources differ on who departed first. According to two biographies, Ramachandra left this world in Vrindavana after
-    Srinivasa's departure. According to another, Ramachandra departed first; the news reached Srinivasa, who, unable to
-    bear separation from his dear disciple, also entered the eternal pastimes, and Narottama composed "Ye anila
-    prema-dhana." Yet another biography says that Narottama first received news of Ramachandra's departure and soon after
-    of Srinivasa's. According to the "Narottama-vilasa," the news of Ramachandra's disappearance came when the Acharya had
-    already gone to Vrindavana and Ramachandra was with him; the author does not speak directly of Srinivasa's departure
-    from the world and refers the reader to the "Bhakti-ratnakara" for details.
+[^19]: The sources differ on who departed first. According to two biographies, Ramachandra left this world in Vrindavana
+    after Srinivasa's departure. According to another, Ramachandra departed first; the news reached Srinivasa, who,
+    unable to bear being parted from his beloved disciple, also entered the eternal pastimes, and Narottama composed "Ye
+    anila prema-dhana." Yet another biography says that word of Ramachandra's departure reached Narottama first, and
+    soon after, word of Srinivasa's. According to the "Narottama-vilasa," word that Ramachandra had passed from sight
+    came when the Acharya had already gone to Vrindavana and Ramachandra was with him; the author does not speak
+    directly of Srinivasa's departure from the world and refers the reader to the "Bhakti-ratnakara" for details.
 [^20]: One of the biographies gives the krishna-tritiya of Magha, two others that of Pausha. Most likely this is the same
     lunar day: months are reckoned either from the new moon or from the full moon. Madhava-masa of the Vaishnava calendar
     corresponds roughly to Magha.
