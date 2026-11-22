@@ -28,10 +28,10 @@ biographies adds that his father is mentioned here and there, but that these rep
 
 His varna, too, is unknown. Those of differing opinions, writes Bhaktisiddhanta, assign him to one of the three higher
 castes — brahmana, kayastha or vaidya. In favour of his being a brahmana speaks his extraordinary knowledge of the
-shastras and sciences, evident in the “Charitamrita”; but the view that he was a kayastha is not without ground either:
+shastras and sciences, evident in the “Charitamrita”; but the opinion that he was of kayastha birth is not groundless either:
 telling of Raghunatha Dasa's youth, he praises the intelligence and practical gifts of the kayasthas. He could have been
 born into any of the three. One of the biographies holds that he was a brahmana or a kayastha, since in those days such
-learning was beyond the reach of people of other classes, and remarks that out of natural humility he nowhere said he
+learning was beyond the reach of people of other classes, and remarks that from innate humility he nowhere said he
 was born a brahmana. <!-- F3 -->
 
 For a Vaishnava, however, this dispute does not matter. Vrindavana Dasa says:
@@ -45,24 +45,24 @@ From the “Charitamrita” we know that he had a brother — whose name he does
 speak below. Whether he himself was married is unknown: his own account is silent, and according to one of the
 biographies some testimonies say he was not. Another biography cites the opinion that by the time he left for
 Vrindavana he was still a brahmachari — otherwise, in telling how he left home, he would have mentioned the family he
-left behind. Srila Bhaktisiddhanta looks deeper: on coming to Vrindavana, Krishnadasa was wholly absorbed in hari-katha
-and indifferent to talk of his former family life, as befits one in the third or fourth ashrama, wholly given to service;
+left behind. Srila Bhaktisiddhanta looks deeper: on coming to Vrindavana, Krishnadasa gave himself over entirely to hari-katha
+and cared nothing for talk of the family life he had left, as befits one in the third or fourth ashrama, wholly given to service;
 and the “Charitamrita” is the work of one who had attained the position of a paramahamsa, beyond all four ashramas.
 <!-- F5 F6 -->
 
-He lived in the village of Jhamatpur in the Bardhaman district of West Bengal — “in a village called Jhamatapura, near
+His home was the village of Jhamatpur, in the Bardhaman district of West Bengal — “in a village called Jhamatapura, near
 Naihati,” as he writes himself (Adi 5.181); according to Bhaktisiddhanta, he was also born there. The “Anubhashya”
-explains that one goes there by the Katwa line to Salar station; Bhaktisiddhanta adds that the village lies four miles
-west of Naihati, in the Katwa subdivision. According to Srila Bhaktivinoda Thakura's “Amrita-pravaha-bhashya,” it is
+explains that one goes there by the Katwa line to Salar station; Bhaktisiddhanta adds that the village is four miles to
+the west of Naihati, within the Katwa subdivision. According to Srila Bhaktivinoda Thakura's “Amrita-pravaha-bhashya,” it is
 two kroshas north of Katwa, and a Deity of Sri Mahaprabhu is worshipped there today. His Deities of Gaura-Nitai are
-worshipped in Jhamatpur to this day, but there seem to be no descendants of his family there. Where his house stood
-there is now a small temple of Sri Gaura-Nityananda with Nityananda's footprints; in it a wooden sandal is kept which is
-held to be Krishnadasa's, and the temple preserves the memory of his life there.[^3] <!-- F7 F8 -->
+worshipped in Jhamatpur to this day, but there seem to be no descendants of his family there. One of the biographies says
+that a temple of Sri Gaura-Nityananda still stands there, preserving the memory of his life in that place; another, that
+where his house stood there is a small temple with Nityananda's footprints, in which a wooden sandal held to be
+Krishnadasa's is kept.[^3] <!-- F7 F8 -->
 
 The year of his appearance is not known for certain: by Srila Bhaktisiddhanta's reckoning he was born probably around
 1520. The sources do not name the day of his appearance, nor is it found in the Vaishnava calendar of the Sri Chaitanya
-Saraswat Math. Thus in the years when Mahaprabhu was manifesting His pastimes in Puri, Krishnadasa was still living in
-Bengal. <!-- F57 -->
+Saraswat Math. <!-- F57 -->
 
 ## Kirtana at Jhamatpur
 All we know of Krishnadasa's life before Vrindavana is a single story, which he himself placed in the fifth chapter of
@@ -72,8 +72,8 @@ the Adi-lila to glorify Nityananda's mercy. He recalls:
 
 One of the biographies calls it an eight-prahara kirtana festival lasting a day and a night; another, a
 twenty-four-hour kirtana to which, among other guests, Minaketana Ramadasa, a devotee of Nityananda who apparently
-lived nearby, was invited. Overwhelmed with divine love, Minaketana sat down in the courtyard, and all the Vaishnavas
-bowed at his feet; in his rapture he climbed on someone's back, struck another with his flute, and at the very name of
+lived nearby, was invited. Overwhelmed with divine love, Minaketana sat down in the courtyard, where every one of the
+Vaishnavas prostrated himself at his feet; in his rapture he climbed on someone's back, hit another with his flute, and at the very name of
 Nityananda signs of ecstasy appeared in his body, and all were amazed (Adi 5.163–167). <!-- F9 F10 -->
 
 In the house the brahmana Gunarnava Mishra served the Deity:
@@ -95,14 +95,14 @@ do not accept Nityananda, you will be utterly ruined. You have faith in one but 
 standard is the logic of half a hen. If you accept neither, you are an atheist; and to accept one and not the other is
 hypocrisy.’” (CC, Adi 5.172–177)
 
-According to one of the biographies, Krishnadasa also made his brother understand that discourtesy had been shown to
-Nityananda's servant, and that Nityananda is the avatara of Baladeva, so that to consider Him lower than Sri Chaitanya
+According to one of the biographies, Krishnadasa also made his brother understand that Nityananda's servant had been
+treated discourteously, and that Nityananda is the avatara of Baladeva, so that to consider Him lower than Sri Chaitanya
 is wrong. <!-- F12 F13 -->
 
 “In anger Ramadasa broke his flute and went away, and at that very moment my brother was ruined.” (CC, Adi 5.178)
 
 One of the biographies calls what befell the brother the result of a “curse,” but Ramadasa did not curse him: he only
-broke his flute and left. His anger was the anger of a servant for the honour of his Lord, and the brother lost his
+broke his flute and went away. His anger was the anger of a servant for the honour of his Lord, and the brother lost his
 devotion as the fruit of offence to a Vaishnava and of unbelief in Nityananda. The lesson of the story is that Chaitanya
 and Nityananda cannot be divided: whoever honours one and slights the other attains neither. <!-- Q1 -->
 
@@ -125,9 +125,9 @@ at once:
 
 “At that very moment I set out, and by the Lord's mercy I reached Vrindavana in happiness.” (CC, Adi 5.199)
 
-One of the biographies says that Nityananda encouraged him and ordered him to go to Vrindavana for his highest good;
+One of the biographies says that Nityananda gave him courage and told him to go to Vrindavana for his supreme welfare;
 another, that, pleased with this one small virtue, the Lord revealed His form to him and granted him residence in
-Vrindavana-dhama. Krishnadasa himself writes that by taking the side of Nityananda's servant and rebuking his brother he
+Vrindavana-dhama. Krishnadasa himself says that, having sided with Nityananda's servant and rebuked his brother, he
 earned the blessing of Nityananda Himself. The “Prema-vilasa,” too, remembers the dream: while living in Gauda he
 worshipped Krishna in bliss, and in Jhamatpur Nityananda appeared to him with His associates and commanded, “All
 perfection is yours — go to Vrindavana!” According to it, in his own book he calls himself a disciple of Prabhu
@@ -147,12 +147,12 @@ Nityananda! Glory to Him who is full of mercy, through whom I attained the shelt
 attained the great soul Raghunatha; through Him I attained the shelter of Shri Svarupa. By Sanatana's mercy I came to
 know the conclusions of bhakti; by Shri Rupa's mercy I came near to bhakti-rasa.” (CC, Adi 5.200–203)
 
-Rupa, Sanatana, Raghunatha Dasa and the other Gosvamis taught him the philosophy and science of bhakti, and their life
+Rupa, Sanatana, Raghunatha Dasa and the other Gosvamis taught him the philosophy of bhakti and its science, and their life
 of renunciation deeply influenced him, though detachment from worldly ties had been in him before. Of their mercy he
 speaks here in humble gratitude to Nityananda, recalling a little of his former life as well. <!-- F16 F17 Q3 -->
 
-By their mercy the vision opened in him by which one sees the Lord in the Deity. He was blessed to see the presence of
-Sri Radha and Krishna and of Sri Madana-Gopala in Their Deities, and, in his words, received the transcendental
+By their mercy the vision opened in him by which one sees the Lord in the Deity. He was blessed to behold Sri Radha and
+Krishna and Sri Madana-Gopala present in Their Deities, and, in his words, received the transcendental
 (*aprakrita*) darshan of Sri Govinda:
 
 “The sight of Shri Madana-Gopala and Shri Govinda — all this is not fit to be told. <…> Nityananda's mercy showed Him to
@@ -176,7 +176,7 @@ delivers whoever falls before Him; and so He delivered even a sinner like me.”
 These words are not to be taken as an account of some dark past. This is the humility of a pure devotee who considers
 himself “lower than the grass” — the mark of the highest Vaishnava; in this way he glorifies the boundless mercy of
 Nityananda, who makes no distinction between the worthy and the unworthy. Jagai and Madhai, with whom he compares
-himself, are the two villainous brothers whom Chaitanya and Nityananda delivered from the gravest sins.
+himself, are the two villainous brothers whom Chaitanya and Nityananda freed from the heaviest of sins.
 <!-- F20 Q4 -->
 
 The Vaishnavas of Vrindavana he regarded as his true kin. In the Vaishnava world he is honoured as the best of the
@@ -348,9 +348,9 @@ he probably unfolded from the verses of two of Raghunatha Dasa's hymns to the Lo
 heard from Raghunatha of Svarupa's circle and set down cannot be called poetic invention. <!-- F37 -->
 
 ## The Structure of the Book
-Without the mercy of Vishnu and the Vaishnavas their glories cannot be described — and so Krishnadasa begins every
-chapter with obeisances to Mahaprabhu and His associates, Nityananda and Advaita, and ends it with a prayer at the feet
-of Rupa and Raghunatha. In this he teaches how important it is to avoid all disrespect and offence to Vaishnavas.
+Without the grace of Vishnu and the Vaishnavas their glories cannot be told — and so Krishnadasa opens every
+chapter with obeisances to Mahaprabhu and to His associates, Nityananda and Advaita, and closes it with a prayer at
+Rupa's and Raghunatha's feet. In this he teaches how needful it is to shun all disrespect and offence to Vaishnavas.
 <!-- F36 I2 -->
 
 At the very beginning of the book he bows to the three Deities of Vrindavana:
@@ -398,8 +398,8 @@ nor pride in a creative feat: that the infirm old man goes on writing is a mirac
 is not he who writes. <!-- F39 Q11 -->
 
 ## A Treasury of Teaching
-Though the “Charitamrita” is written in Bengali, it is a treasury of Sri Chaitanya's teaching: in it are gathered His
-sweetest pastimes and His philosophy, and it deserves the love of readers in every language. One of the biographies
+Though the “Charitamrita” is written in Bengali, it is a storehouse of Sri Chaitanya's teaching: in it are gathered His
+sweetest pastimes and His philosophy, and it is worthy of being loved by readers of every tongue. One of the biographies
 notes that it has English translations and that a Hindi book, “Sri Chaitanya-charitavali,” was compiled from it, and
 cautions that the book's being in Bengali does not mean its author was no master of Sanskrit. Of himself, however, he
 tells very little in it. <!-- F26 -->
@@ -447,8 +447,8 @@ questioned the newcomer kindly. One of the biographies adds that Lokanatha, Bhug
 Krishnadasa Kaviraja and the other Gosvamis each blessed Shyamananda and his companions for success in Mahaprabhu's
 mission. <!-- F50 -->
 
-Narottama Thakura, in the words of one of the biographies, regarded him as the jewel at the centre of the circle of
-devotees after the six Gosvamis and drew inspiration from him. In one of his songs Narottama calls him the foremost of
+Narottama Thakura, in the words of one of the biographies, regarded him, next to the six Gosvamis, as the central
+jewel among the devotees, and was himself inspired by him. In one of his songs Narottama calls him the foremost of
 the rasika devotees, for he described Chaitanya's life, and laments that the pastimes of Gaura and Govinda melt even
 stones, while his own mind has never been drawn to them;[^10] and in a song of lament for the Lord's associates he cries:
 “Where is the Kaviraja?” And the “Prema-vilasa” tells how Raghunatha Dasa spoke to Krishnadasa of Narottama's virtues.
@@ -496,7 +496,7 @@ Radha-kunda stands his bhajana-kutir as well. <!-- F58 -->
 
 There are also late traditions about the Kaviraja's last days.[^11] One of them, a malicious one, claims that Jiva out of
 envy threw the manuscript of the “Charitamrita” into a well, and that the Kaviraja, hearing of it, at once left his
-body, the book surviving only because his disciple Mukunda had made a copy beforehand. Srila Bhaktisiddhanta in the
+body, the book surviving only because his disciple Mukunda had copied it in advance. Srila Bhaktisiddhanta in the
 “Anubhashya” on Adi 10.85 calls this a contemptible fabrication born of enmity towards the guru and the Vaishnavas,
 without any foundation and without any possibility of being true: for Jiva is the best of the Rupanugas and one of the
 Kaviraja's own shiksha-gurus. Its falsity is seen also in that the very tradition of the Kaviraja's departure on which it
@@ -511,7 +511,7 @@ To this bears witness also Radha's mercy to Vishvanatha Chakravarti. Vishvanatha
 “Mantrartha-dipika” how for a long time he could not understand where the “twenty-four and a half” syllables of the
 kama-gayatri, of which Krishnadasa writes (Madhya 21.125), come from. Without grasping the mantra he did not wish to live;
 giving up food and water, he lay down on the bank of Radha-kunda, and towards midnight the daughter of King Vrishabhanu
-appeared to him: “All that Krishnadasa Kaviraja has written is the truth. She is My *narma-sahachari*, My confidante: by
+came before him: “All that Krishnadasa Kaviraja has written is the truth. She is My *narma-sahachari*, My confidante: by
 My grace she knows all that is in My heart. Do not doubt her words.” As for the half-syllable, Radha told him to learn of
 it from the book “Varnagama-bhasvat.” Radha speaks of Krishnadasa in the feminine — this is no figure of speech: She
 speaks of his eternal nature as a maidservant in Her retinue. And the vision itself is not a legend about inspiration but
@@ -524,7 +524,7 @@ revealed to him; therefore his every word is the highest spiritual truth. <!-- I
 Srila Bhaktisiddhanta said of the “Charitamrita” that if all the books of the world were to perish and only the
 “Srimad-Bhagavatam” and the “Charitamrita” remained, people would still attain the highest goal; and even if the
 “Bhagavata” perished and the “Charitamrita” remained, humanity would lose nothing, for what is not revealed in the
-“Bhagavata” is revealed in it. The Supreme Truth is Sri Chaitanya, the combined form of Radha and Krishna, and the
+“Bhagavata” is revealed in it. The Supreme Truth is Sri Chaitanya, Radha and Krishna united in one form, and the
 “Charitamrita” is His incarnation in sound; in it the secret of Radharani's position and glory is revealed. These words
 speak also of the special position of the one through whom the book came into the world. <!-- F40 Q12 I4 -->
 
@@ -562,10 +562,10 @@ puppet in the Lord's hands. That is why Vaishnavas honour him as the best of the
     Raghunatha Dasa (Antya 20.97, 20.146).
 [^6]: This is an argument of one of the biographies, without reference to an original source; by it the biography also
     explains the later confusion of Prabodhananda with Prakashananda Sarasvati.
-[^7]: The biographies cite no original source for this opinion. The “Charitamrita” itself says only that Vrindavana
-    Dasa's book later became known as the “Chaitanya-bhagavata” (Adi 8.35), and the “Prema-vilasa” (23) that the
-    devotees of Vrindavana gave it this name. In one of the biographies the verse about Vyasa is referred to Adi 8.35;
-    in fact it is 8.34.
+[^7]: The biographies cite no original source for this opinion. The “Charitamrita” itself everywhere calls Vrindavana
+    Dasa's book the “Chaitanya-mangala” (Adi 8.33, 8.35, 8.44; Antya 20.85), and the “Prema-vilasa” (23) says that the
+    devotees of Vrindavana named it the “Chaitanya-bhagavata.” In one of the biographies the verse about Vyasa is referred
+    to Adi 8.35; in fact it is 8.34.
 [^8]: The “Prema-vilasa” (24) gives a different year — 1503 Shaka (1581 AD), quoting the same verse in the reading
     “fire, zero, arrows, moon.” We follow the “Charitamrita”; with it agree also the years of Krishnadasa's life
     according to Srila Bhaktisiddhanta — about 1520 to about 1616/1617.
@@ -573,7 +573,7 @@ puppet in the Lord's hands. That is why Vaishnavas honour him as the best of the
     the numbering of the editions differs.
 [^10]: One of the biographies ascribes these lines to the “Prema-bhakti-chandrika”; in the “Gaura-pada-tarangini” they
     appear as a separate song of Narottama. Another biography gives them within a song of lament in which Narottama grieves
-    that he never offered a drop of service at the feet of Svarupa Damodara, Sanatana, Raghunatha Bhatta, Raghunatha Dasa,
+    that he never rendered even a drop of service at the feet of Svarupa Damodara, Sanatana, Raghunatha Bhatta, Raghunatha Dasa,
     Gopala Bhatta, Bhugarbha, Jiva and Lokanatha, and names there, besides the “Charitamrita,” the “Govinda-lilamrita” too.
 [^11]: According to the “Prema-vilasa” (13), when the news reached Vrindavana that the Gosvamis' books which Srinivasa
     was taking to Bengal had been stolen near Vana-Vishnupura, the aged Kaviraja, who could no longer walk, left the world
