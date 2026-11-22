@@ -374,8 +374,8 @@ tears of bliss stream ceaselessly from his eyes” (10.589); he is there in the 
 which Jahnava herself served the prasada (10.701–703). The “Prema-vilasa” names Gopala and Achyutananda from Shantipura, with
 Madhava Acharya, among those who came to Kheturi. <!-- F50 Q10 F58 -->
 
-He stood very high in the esteem of the Gaudiya Vaishnavas. According to the “Prema-vilasa,” Shyamasundara of Khardaha,
-carved from the stone Virachandra received from the padishah, was installed and bathed in abhisheka by Achyutananda; the
+He stood very high in the esteem of the Gaudiya Vaishnavas. According to the “Prema-vilasa,” the Deity of Shyamasundara of Khardaha,
+manifested from the stone Virachandra received from the padishah, was installed and bathed in abhisheka by Achyutananda; the
 same book says that Sita learned of Srinivasa from a letter of Achyutananda's.[^22] <!-- F51 F52 -->
 
 Taking leave of Jahnava after the festival, Achyutananda said, weeping:
