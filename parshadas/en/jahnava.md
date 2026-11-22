@@ -118,7 +118,7 @@ resolved to take initiation from none other than her. <!-- F93 -->
 
 ## The Road to Kheturi
 Narottama Thakura planned a great festival in Kheturi on Phalguna-purnima, the appearance day of Mahaprabhu. The host was
-Raja Santosha Datta, the son of Narottama's brother and his disciple; all three acharyas came together — Narottama,
+Raja Santosha Datta, Narottama's cousin and his disciple; all three acharyas came together — Narottama,
 Shyamananda and Srinivasa. The “Bhakti-ratnakara” (1.429–434) tells how the associates of Mahaprabhu in Bengal rejoiced in Narottama.
 Jahnava rejoiced too — the daughter of Surya Pandita, the consort of Nityananda, honoured by the whole world, who
 generously gives away the jewels of prema: his very name filled her with joy, and his renunciation and extraordinary love

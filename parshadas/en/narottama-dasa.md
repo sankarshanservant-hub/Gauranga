@@ -6,7 +6,9 @@ Narottama Dasa Thakura is a companion of Sri Chaitanya Mahaprabhu, although he c
 had withdrawn from sight. He is called Narottama Dasa, Srila Narottama Dasa Thakura, Paramahamsa Sri Narottama Dasa
 Thakura; but in Bengal he was known above all as Thakura Mahashaya, or simply Sri Thakura, so that his name hardly needed
 to be spoken. The title was given to him in Vrindavana by his teacher Sri Jiva Gosvami, in the same days in which he named
-Srinivasa “Acharya” and Dukhi Krishnadasa “Shyamananda.”[^1] <!-- F1 F2 -->
+Srinivasa “Acharya” and Dukhi Krishnadasa “Shyamananda.”[^1] The “Bhakti-ratnakara” says that Jiva, delighted at how
+quickly his pupil mastered many shastras, “taking everyone's consent,” named him “Sri Mahashaya” (4.422–424).
+<!-- F1 F2 F115 -->
 
 The “Bhakti-ratnakara” quotes an old verse about him:
 
@@ -154,11 +156,14 @@ vowed to accept no disciples, and Bhaktisiddhanta by persistent service won his 
 
 ## At Jiva's Feet
 In Vrindavana Narottama lived by madhukari, on alms, and studied the writings of the Gosvamis under the guidance of Sri
-Jiva. Here, with Jiva, he met Srinivasa: Srinivasa had only heard of him before, but from their first meeting they were
-friends for life and studied together. With Jiva's permission Srinivasa and Narottama went round the whole of
+Jiva. Here, with Jiva, he met Srinivasa. Srinivasa had only heard his name before — and the name alone filled him with joy
+and longing to meet him; in a dream Sri Rupa told him, “Tomorrow you will see him.” The next day they met, and tears
+flowed from the eyes of both. “Providence has been kind,” said Srinivasa, “it has brought me such a jewel as Narottama,”
+and Narottama bowed to him and humbly begged his mercy. From their first meeting they were friends for life and studied
+together; to Jiva the two were “like his two arms” (“Bhakti-ratnakara” 4.405–426). With Jiva's permission Srinivasa and Narottama went round the whole of
 Vraja-mandala with Raghava Gosvami, who showed them the places of Krishna's pastimes; Narahari Chakravarti gives five
 waves of the “Bhakti-ratnakara” to this circuit, and the “Anuraga-valli” (6) also tells of their farewell circuit of
-Vraja.[^8] <!-- F35 F37 F108 -->
+Vraja.[^8] <!-- F35 F37 F108 F115 -->
 
 Then Dukhi Krishnadasa, the future Shyamananda, came from Gauda. That very day Srinivasa and Narottama had a presentiment
 that they would soon gain a new Vaishnava friend — and he came. From then on the three studied with Jiva together and
@@ -503,6 +508,12 @@ to You, Purifier of the fallen! Give me this wealth: apart from You nothing is d
 Rupa-manjari are my treasure, my service and worship, the wealth of my life.’” (“Anubhashya” on CC Adi 13.124)
 <!-- Q14 F98 F101 F105 -->
 
+And the “Bhakti-ratnakara” quotes his verse on the Lord's two shaktis:
+
+“Through one shakti, headed by Sri Rupa, the Lord reveals these books; through another shakti, named Sri Srinivasa, He
+spreads them. When will He who mercifully manifested these two shaktis on earth — the ocean of mercy Sri Chaitanya —
+come before my eyes?” (“Bhakti-ratnakara” 1.234) <!-- F114 -->
+
 In these songs is his soul. He calls himself a “chandala” and by other self-abasing names, just as Mahaprabhu called
 Himself “a Mayavadi sannyasi without prema”: devotees hide their greatness. Narottama is the best follower of Rupa
 Gosvami, “the first among the followers of Rupa,” the servant of Rupa, Raghunatha and Jiva, who accepted Rupa as his
@@ -531,6 +542,17 @@ When Srinivasa came to Gauda, Narottama and Shyamananda were with him, and a flo
 Narottama and the other acharyas spread sankirtana by the mercy and under the guidance of Jahnava, and also of Vishnupriya;
 Jahnava they accepted as jagad-guru and considered they had fulfilled the purpose of life by hearing Hari-katha from her.
 <!-- F89 -->
+
+The “Bhakti-ratnakara” pictures the Thakura's life in Kheturi: he served the Vaishnavas with body, mind and words, his
+festivals of sankirtana never ceased, and in that ocean of happiness all bathed, down to the lowliest; Gauranga's
+associates in Gauda rejoiced on seeing him, and Jahnava was pleased at the very name “Sri Thakura Mahashaya” and
+mercifully came to Kheturi herself (1.427–434). By the Lord's will he accepted many disciples, and whomever he favoured
+attained every perfection (1.435–437). Ramachandra's brother Govinda Kaviraja sang of him:
+
+“Glory, glory, glory to Thakura Narottama, the great king of prema-bhakti, whose minister, one with him in body, is
+Ramachandra Kaviraja! Prema is the jewel of his crown, his ornaments the succession of bhavas, with which every limb of
+his shines; on the royal throne in Kheturi he sits, and with him the assembly of devotees.” (“Bhakti-ratnakara”
+1.439–440) <!-- F113 -->
 
 ## Separation and Withdrawal
 Ramachandra, with the blessing of Narottama and Srinivasa — by one of the biographies, at their bidding — went again to Vrindavana and some months later entered the eternal
