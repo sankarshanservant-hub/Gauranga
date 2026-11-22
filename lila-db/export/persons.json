@@ -4215,6 +4215,10 @@
     "type": "patron"
    },
    {
+    "from": "@chaitanya-dasa",
+    "type": "other"
+   },
+   {
     "from": "@chand-kazi",
     "type": "opposed"
    },
@@ -6155,6 +6159,10 @@
    "ev-rupa-narayana"
   ],
   "related_by": [
+   {
+    "from": "@chaitanya-dasa",
+    "type": "deity-served"
+   },
    {
     "from": "@gangamata-gosvamini",
     "type": "other"
@@ -20775,6 +20783,10 @@
     "type": "other"
    },
    {
+    "from": "@chaitanya-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-dasa",
     "type": "other"
    },
@@ -24194,6 +24206,10 @@
     "type": "companion"
    },
    {
+    "from": "@chaitanya-dasa",
+    "type": "met"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -25113,6 +25129,10 @@
    {
     "from": "@bhugarbha",
     "type": "companion"
+   },
+   {
+    "from": "@chaitanya-dasa",
+    "type": "met"
    },
    {
     "from": "@damodara-pandita",
@@ -30394,6 +30414,10 @@
     "type": "other"
    },
    {
+    "from": "@chaitanya-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gopala-guru",
     "type": "other"
    },
@@ -30801,6 +30825,10 @@
    },
    {
     "from": "@buddhimanta-khan",
+    "type": "other"
+   },
+   {
+    "from": "@chaitanya-dasa",
     "type": "other"
    },
    {
@@ -41962,6 +41990,10 @@
     "type": "met"
    },
    {
+    "from": "@chaitanya-dasa",
+    "type": "son"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "met"
    },
@@ -42177,6 +42209,106 @@
    "ev-srinivasa-father-death-yajigrama",
    "ev-gati-govinda-birth"
   ],
+  "summary": "происхождение — Чакханди",
+  "card": "parshadas/cards/chaitanya-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/chaitanya-dasa.md",
+   "en": "parshadas/en/chaitanya-dasa.md"
+  },
+  "kind": "family",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chakhandi?",
+    "conf": "место, год и день явления источники не называют (жил в Чакханди; B — «около пятидесяти лет» до рождения сына, ⚠9); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет",
+    "facts": [
+     "F3",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chakhandi",
+    "conf": "ушёл из этого мира в Чакханди, когда Шриниваса был ещё юн (T, M, БР 3.18; ПВ 4.45 — после семидневной лихорадки, у Ганги); год и день неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-22) дня ухода нет",
+    "facts": [
+     "F53",
+     "F54"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "spouse",
+    "who": "@lakshmipriya-chakhandi",
+    "note": "Дочь Баларамы Випры из Яджиграма; посоветовала идти в Пури (B 1088; БР 2.66); утешила его после виденья; по ПВ — получила прему от Земли."
+   },
+   {
+    "type": "in-law",
+    "who": "@balarama-yajigrama",
+    "note": "Тесть; по пути в Пури и обратно гостили у него в Яджиграме (T 204; БР 2.67–70, 2.141–144); по M — пандит-астролог."
+   },
+   {
+    "type": "son",
+    "who": "@srinivasa-acharya",
+    "note": "Сын, предсказанный Господом в Пури (БР 2.120–124); отец посвятил его Махапрабху, назвал Шринивасой, рассказывал о Гауре, Рупе и Санатане. = @srinivasa-acharya F7–F24."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Видел Его санньясу в Катве и от имени «Чайтанья» обезумел премой; в Пури Господь принял его как Своего, возвестил рождение сына и велел совершать нама-санкиртану."
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-deity",
+    "note": "Даршан «подвижного и неподвижного Брахмана»; во сне Джаганнатха велел ему идти домой (B 1089; БР 2.125–126); ПВ 1 — Джаганнатха даровал ему сына."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "По велению Господа проводил его к Джаганнатхе; Господь открыл Говинде о сыне (БР 2.107, 2.118–124). = @govinda-servant F56."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "Был к нему милостив; он бывал у Бхарати в Кантака-нагаре (БР 2.322–323); санньяса Господа у Бхарати."
+   },
+   {
+    "type": "met",
+    "who": "@rupa-gosvami",
+    "note": "Видел Рупу и Санатану министрами в Рамакели, ездив туда с учителем (БР 2.364–383)."
+   },
+   {
+    "type": "met",
+    "who": "@sanatana-gosvami",
+    "note": "Там же; рассказывал сыну об их жизни (B 662). = @sanatana-gosvami F390."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-kashmiri",
+    "note": "Рассказывает сыну о победе Нимая над дигвиджайи (БР 2.237–253). = @keshava-kashmiri F46."
+   },
+   {
+    "type": "other",
+    "who": "@prithivi",
+    "note": "По ПВ 1.137–148 (ур. C) Земля по велению Господа нашла его в Чакханди и отдала прему Лакшмиприе."
+   },
+   {
+    "type": "other",
+    "who": "@durgadasa-raya",
+    "note": "ПВ 1.255–318 (ур. C): заминдар Чакханди гостил у него, увидел во сне двух златовидных детей и обратился."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "ПВ 1.94–97: Господь просит его найти «гаудийца Чайтанью Даса»."
+   }
+  ],
   "related_by": [
    {
     "from": "@govinda-servant",
@@ -42242,6 +42374,10 @@
   ],
   "related_by": [
    {
+    "from": "@chaitanya-dasa",
+    "type": "spouse"
+   },
+   {
     "from": "@lakshmipriya",
     "type": "other"
    },
@@ -42268,6 +42404,12 @@
   "events": [
    "ev-chakhandi-zamindar-drum",
    "ev-srinivasa-birth"
+  ],
+  "related_by": [
+   {
+    "from": "@chaitanya-dasa",
+    "type": "other"
+   }
   ]
  },
  {
@@ -48660,6 +48802,10 @@
   ],
   "related_by": [
    {
+    "from": "@chaitanya-dasa",
+    "type": "other"
+   },
+   {
     "from": "@jayadeva",
     "type": "other"
    }
@@ -51400,6 +51546,12 @@
    "ev-first-steps",
    "ev-prema-for-srinivasa",
    "ev-tattva-nityananda-advaita"
+  ],
+  "related_by": [
+   {
+    "from": "@chaitanya-dasa",
+    "type": "other"
+   }
   ]
  },
  {
@@ -57764,6 +57916,10 @@
    "ev-srinivasa-birth"
   ],
   "related_by": [
+   {
+    "from": "@chaitanya-dasa",
+    "type": "in-law"
+   },
    {
     "from": "@srinivasa-acharya",
     "type": "grandfather"

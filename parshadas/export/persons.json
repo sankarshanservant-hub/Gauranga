@@ -7764,6 +7764,406 @@
   ]
  },
  {
+  "id": "@chaitanya-dasa",
+  "names": {
+   "ru": "Чайтанья Дас (Гангадхара Бхаттачарья)",
+   "en": "Chaitanya Dasa (Gangadhara Bhattacharya)",
+   "variants": [
+    "Гангадхара Бхаттачарья (прежнее имя)",
+    "Шри Бхатта Чайтанья Дас (B)",
+    "Шри Чайтанья Дас (БР, НВ)",
+    "Чайтанья Дас Ачарья, Шри Чайтанья Ачарья («Према-виласа»)",
+    "брахман Чайтанья (БР 1.862)"
+   ],
+   "facts": [
+    "F1",
+    "F14"
+   ]
+  },
+  "kind": "family",
+  "circle": [
+   "later"
+  ],
+  "period": [
+   "P05",
+   "P07",
+   "P08",
+   "P13",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Лично видит Господа дважды: при санньясе в Катве (P08; F10–F14) и в Пури у Львиных ворот (P14; F24–F35). P05, P07, P13 — его собственные воспоминания в рассказе сыну (БР 2: учёба в Навадвипе, дигвиджайи, Джагай и Мадхай, Кази, Рамакели; F6–F9, F43). P14–P15 — рождение и детство Шринивасы, уход из мира (F37–F54).",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chakhandi?",
+    "conf": "место, год и день явления источники не называют (жил в Чакханди; B — «около пятидесяти лет» до рождения сына, ⚠9); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет",
+    "facts": [
+     "F3",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chakhandi",
+    "conf": "ушёл из этого мира в Чакханди, когда Шриниваса был ещё юн (T, M, БР 3.18; ПВ 4.45 — после семидневной лихорадки, у Ганги); год и день неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-22) дня ухода нет",
+    "facts": [
+     "F53",
+     "F54"
+    ]
+   }
+  },
+  "origin": {
+   "places": [
+    "#chakhandi"
+   ],
+   "family": [
+    "@lakshmipriya-chakhandi",
+    "@balarama-yajigrama",
+    "@srinivasa-acharya"
+   ],
+   "varna": "брахман (B — «высокого рода»; T — рархи)",
+   "facts": [
+    "F2",
+    "F3",
+    "F4"
+   ],
+   "note": "Чакханди — на Ганге близ Катвы, от станции Даихат (B); «к северу от Аградвипы, в Надии» (T) (⚠2)."
+  },
+  "relations": [
+   {
+    "type": "spouse",
+    "who": "@lakshmipriya-chakhandi",
+    "facts": [
+     "F4",
+     "F15",
+     "F17",
+     "F19",
+     "F23",
+     "F33",
+     "F38",
+     "F49"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa",
+     "ev-srinivasa-birth"
+    ],
+    "note": "Дочь Баларамы Випры из Яджиграма; посоветовала идти в Пури (B 1088; БР 2.66); утешила его после виденья; по ПВ — получила прему от Земли."
+   },
+   {
+    "type": "in-law",
+    "who": "@balarama-yajigrama",
+    "facts": [
+     "F4",
+     "F20",
+     "F36",
+     "F38"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa"
+    ],
+    "note": "Тесть; по пути в Пури и обратно гостили у него в Яджиграме (T 204; БР 2.67–70, 2.141–144); по M — пандит-астролог."
+   },
+   {
+    "type": "son",
+    "who": "@srinivasa-acharya",
+    "facts": [
+     "F32",
+     "F33",
+     "F39",
+     "F40",
+     "F41",
+     "F42",
+     "F43",
+     "F44",
+     "F53",
+     "F54",
+     "F55",
+     "F57",
+     "I4"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa",
+     "ev-srinivasa-birth",
+     "ev-srinivasa-schooling",
+     "ev-srinivasa-meets-narahari",
+     "ev-srinivasa-father-death-yajigrama"
+    ],
+    "note": "Сын, предсказанный Господом в Пури (БР 2.120–124); отец посвятил его Махапрабху, назвал Шринивасой, рассказывал о Гауре, Рупе и Санатане. = @srinivasa-acharya F7–F24."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F10",
+     "F11",
+     "F12",
+     "F13",
+     "F14",
+     "F24",
+     "F25",
+     "F26",
+     "F27",
+     "F28",
+     "F30",
+     "F31",
+     "F32",
+     "F34",
+     "F35",
+     "F45",
+     "I1",
+     "I2",
+     "I3"
+    ],
+    "events": [
+     "ev-gangadhara-becomes-chaitanya-dasa",
+     "ev-prema-for-srinivasa"
+    ],
+    "note": "Видел Его санньясу в Катве и от имени «Чайтанья» обезумел премой; в Пури Господь принял его как Своего, возвестил рождение сына и велел совершать нама-санкиртану."
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-deity",
+    "facts": [
+     "F26",
+     "F29",
+     "F30",
+     "F33",
+     "F34"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa"
+    ],
+    "note": "Даршан «подвижного и неподвижного Брахмана»; во сне Джаганнатха велел ему идти домой (B 1089; БР 2.125–126); ПВ 1 — Джаганнатха даровал ему сына."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "facts": [
+     "F28",
+     "F31"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa"
+    ],
+    "note": "По велению Господа проводил его к Джаганнатхе; Господь открыл Говинде о сыне (БР 2.107, 2.118–124). = @govinda-servant F56."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "facts": [
+     "F9",
+     "F10",
+     "F13"
+    ],
+    "events": [
+     "ev-gangadhara-becomes-chaitanya-dasa"
+    ],
+    "note": "Был к нему милостив; он бывал у Бхарати в Кантака-нагаре (БР 2.322–323); санньяса Господа у Бхарати."
+   },
+   {
+    "type": "met",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F8"
+    ],
+    "events": [
+     "ev-ramakeli-rupa-sanatana"
+    ],
+    "note": "Видел Рупу и Санатану министрами в Рамакели, ездив туда с учителем (БР 2.364–383)."
+   },
+   {
+    "type": "met",
+    "who": "@sanatana-gosvami",
+    "facts": [
+     "F8",
+     "F42"
+    ],
+    "events": [
+     "ev-ramakeli-rupa-sanatana"
+    ],
+    "note": "Там же; рассказывал сыну об их жизни (B 662). = @sanatana-gosvami F390."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-kashmiri",
+    "facts": [
+     "F7"
+    ],
+    "events": [
+     "ev-keshava-kashmiri-defeat"
+    ],
+    "note": "Рассказывает сыну о победе Нимая над дигвиджайи (БР 2.237–253). = @keshava-kashmiri F46."
+   },
+   {
+    "type": "other",
+    "who": "@prithivi",
+    "facts": [
+     "F48"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa"
+    ],
+    "note": "По ПВ 1.137–148 (ур. C) Земля по велению Господа нашла его в Чакханди и отдала прему Лакшмиприе."
+   },
+   {
+    "type": "other",
+    "who": "@durgadasa-raya",
+    "facts": [
+     "F50",
+     "F51"
+    ],
+    "events": [
+     "ev-chakhandi-zamindar-drum",
+     "ev-srinivasa-birth"
+    ],
+    "note": "ПВ 1.255–318 (ур. C): заминдар Чакханди гостил у него, увидел во сне двух златовидных детей и обратился."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "facts": [
+     "F47"
+    ],
+    "events": [
+     "ev-prema-for-srinivasa"
+    ],
+    "note": "ПВ 1.94–97: Господь просит его найти «гаудийца Чайтанью Даса»."
+   }
+  ],
+  "identities": [],
+  "events": [
+   "ev-keshava-kashmiri-defeat",
+   "ev-jagai-madhai-deliverance",
+   "ev-nagara-kirtana-kazi",
+   "ev-gangadhara-becomes-chaitanya-dasa",
+   "ev-ramakeli-rupa-sanatana",
+   "ev-lord-calls-narottama-ramakeli",
+   "ev-prema-for-srinivasa",
+   "ev-gosvamis-foresee-srinivasa",
+   "ev-chakhandi-zamindar-drum",
+   "ev-srinivasa-birth",
+   "ev-srinivasa-schooling",
+   "ev-srinivasa-meets-narahari",
+   "ev-srinivasa-father-death-yajigrama",
+   "ev-gati-govinda-birth"
+  ],
+  "events_note": "ev-keshava-kashmiri-defeat, ev-jagai-madhai-deliverance, ev-nagara-kirtana-kazi, ev-ramakeli-rupa-sanatana — лишь как его рассказ сыну (БР 2); ev-gangadhara-becomes-chaitanya-dasa — БР 2.21–60, 2.319–343; ev-prema-for-srinivasa — БР 2.61–140, ПВ 1; ev-gati-govinda-birth — лишь упоминание имени (ННВ 9.51).",
+  "teachings_given": [],
+  "teachings_received": [
+   {
+    "title": "Махапрабху: скорее идти в Гауду и непрестанно совершать нама-санкиртану (B 1090; B 661; БР 2.133)",
+    "facts": [
+     "F34",
+     "F37"
+    ]
+   }
+  ],
+  "works": [],
+  "places": [
+   "#chakhandi",
+   "#katwa",
+   "#ganga",
+   "#yajigrama",
+   "#puri",
+   "#navadvipa",
+   "#ramakeli"
+  ],
+  "places_facts": [
+   "F3",
+   "F6",
+   "F8",
+   "F9",
+   "F10",
+   "F13",
+   "F20",
+   "F24",
+   "F36",
+   "F53"
+  ],
+  "character": [
+   {
+    "trait": "према к имени Господа: от одного слова «Чайтанья» забыл омовение и еду и взывал к Нему",
+    "facts": [
+     "F13",
+     "F14",
+     "I1"
+    ],
+    "events": [
+     "ev-gangadhara-becomes-chaitanya-dasa"
+    ]
+   },
+   {
+    "trait": "смирение: считает жизнь растраченной, себя — ничтожным; кланяется всем спутникам Господа",
+    "facts": [
+     "F21",
+     "F27",
+     "F28",
+     "F33",
+     "F46"
+    ]
+   },
+   {
+    "trait": "довольство и бхакти в бедности и бездетности, равнодушие к насмешкам сельчан",
+    "facts": [
+     "F5",
+     "F17",
+     "F38"
+    ]
+   },
+   {
+    "trait": "послушание: по слову Господа сразу вернулся домой и сделал санкиртану обычаем округи",
+    "facts": [
+     "F34",
+     "F35",
+     "F37",
+     "I3"
+    ]
+   },
+   {
+    "trait": "любовь к рассказам о Гауре и Вриндаване: рассказывал сыну, лишаясь чувств и плача, мечтал уйти во Вриндаван",
+    "facts": [
+     "F42",
+     "F43",
+     "F44"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F56",
+    "F57",
+    "I1",
+    "I2",
+    "I3",
+    "I4"
+   ]
+  },
+  "sources": {
+   "T": "главы нет; 204 (гл. о Шринивасе)",
+   "M": "главы нет; 186–188 (гл. о Шринивасе)",
+   "B": "1087–1090 (гл.); 660–662 (гл. о Шринивасе)",
+   "other": [
+    "«Бхакти-ратнакара» 1.862, 2.21–491, 3.18–21",
+    "«Нароттама-виласа» 1.157–160",
+    "«Према-виласа» 1.85–166, 1.244–319, 2, 3.15–52, 4.17–69 (ур. C)",
+    "«Нитьянанда-вамша-вистара» 9.51",
+    "ЧЧ, ЧБ, ГГД — не упоминают"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/chaitanya-dasa.md",
+   "en": "parshadas/en/chaitanya-dasa.md"
+  },
+  "open_questions": [
+   "Годы жизни и день ухода неизвестны; возраст «около пятидесяти» до рождения сына — только B (⚠9).",
+   "Где Чакханди: близ Катвы, от Даихата (B) или «к северу от Аградвипы, в Надии» (T) (⚠2).",
+   "Бханита Ядунанданы «শ্রীচৈতন্যদাসের দাস … শ্রীনিবাস» (B 676) — о нём ли (см. «Не взято»)."
+  ]
+ },
+ {
   "id": "@chand-kazi",
   "names": {
    "ru": "Чанд Кази",

@@ -3577,6 +3577,218 @@
   "note": "В видении царя Суварна Сены — Гаура и Гададхара со спутниками. = @gadadhara-pandita F36."
  },
  {
+  "from": "@chaitanya-dasa",
+  "type": "spouse",
+  "who": "@lakshmipriya-chakhandi",
+  "facts": [
+   "F4",
+   "F15",
+   "F17",
+   "F19",
+   "F23",
+   "F33",
+   "F38",
+   "F49"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa",
+   "ev-srinivasa-birth"
+  ],
+  "note": "Дочь Баларамы Випры из Яджиграма; посоветовала идти в Пури (B 1088; БР 2.66); утешила его после виденья; по ПВ — получила прему от Земли."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "in-law",
+  "who": "@balarama-yajigrama",
+  "facts": [
+   "F4",
+   "F20",
+   "F36",
+   "F38"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa"
+  ],
+  "note": "Тесть; по пути в Пури и обратно гостили у него в Яджиграме (T 204; БР 2.67–70, 2.141–144); по M — пандит-астролог."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "son",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F32",
+   "F33",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F43",
+   "F44",
+   "F53",
+   "F54",
+   "F55",
+   "F57",
+   "I4"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa",
+   "ev-srinivasa-birth",
+   "ev-srinivasa-schooling",
+   "ev-srinivasa-meets-narahari",
+   "ev-srinivasa-father-death-yajigrama"
+  ],
+  "note": "Сын, предсказанный Господом в Пури (БР 2.120–124); отец посвятил его Махапрабху, назвал Шринивасой, рассказывал о Гауре, Рупе и Санатане. = @srinivasa-acharya F7–F24."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F28",
+   "F30",
+   "F31",
+   "F32",
+   "F34",
+   "F35",
+   "F45",
+   "I1",
+   "I2",
+   "I3"
+  ],
+  "events": [
+   "ev-gangadhara-becomes-chaitanya-dasa",
+   "ev-prema-for-srinivasa"
+  ],
+  "note": "Видел Его санньясу в Катве и от имени «Чайтанья» обезумел премой; в Пури Господь принял его как Своего, возвестил рождение сына и велел совершать нама-санкиртану."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F26",
+   "F29",
+   "F30",
+   "F33",
+   "F34"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa"
+  ],
+  "note": "Даршан «подвижного и неподвижного Брахмана»; во сне Джаганнатха велел ему идти домой (B 1089; БР 2.125–126); ПВ 1 — Джаганнатха даровал ему сына."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F28",
+   "F31"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa"
+  ],
+  "note": "По велению Господа проводил его к Джаганнатхе; Господь открыл Говинде о сыне (БР 2.107, 2.118–124). = @govinda-servant F56."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@keshava-bharati",
+  "facts": [
+   "F9",
+   "F10",
+   "F13"
+  ],
+  "events": [
+   "ev-gangadhara-becomes-chaitanya-dasa"
+  ],
+  "note": "Был к нему милостив; он бывал у Бхарати в Кантака-нагаре (БР 2.322–323); санньяса Господа у Бхарати."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "met",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F8"
+  ],
+  "events": [
+   "ev-ramakeli-rupa-sanatana"
+  ],
+  "note": "Видел Рупу и Санатану министрами в Рамакели, ездив туда с учителем (БР 2.364–383)."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "met",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F8",
+   "F42"
+  ],
+  "events": [
+   "ev-ramakeli-rupa-sanatana"
+  ],
+  "note": "Там же; рассказывал сыну об их жизни (B 662). = @sanatana-gosvami F390."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@keshava-kashmiri",
+  "facts": [
+   "F7"
+  ],
+  "events": [
+   "ev-keshava-kashmiri-defeat"
+  ],
+  "note": "Рассказывает сыну о победе Нимая над дигвиджайи (БР 2.237–253). = @keshava-kashmiri F46."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@prithivi",
+  "facts": [
+   "F48"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa"
+  ],
+  "note": "По ПВ 1.137–148 (ур. C) Земля по велению Господа нашла его в Чакханди и отдала прему Лакшмиприе."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@durgadasa-raya",
+  "facts": [
+   "F50",
+   "F51"
+  ],
+  "events": [
+   "ev-chakhandi-zamindar-drum",
+   "ev-srinivasa-birth"
+  ],
+  "note": "ПВ 1.255–318 (ур. C): заминдар Чакханди гостил у него, увидел во сне двух златовидных детей и обратился."
+ },
+ {
+  "from": "@chaitanya-dasa",
+  "type": "other",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F47"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa"
+  ],
+  "note": "ПВ 1.94–97: Господь просит его найти «гаудийца Чайтанью Даса»."
+ },
+ {
   "from": "@chand-kazi",
   "type": "opposed",
   "who": "@mahaprabhu",
