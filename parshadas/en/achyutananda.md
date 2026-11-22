@@ -18,7 +18,7 @@ names “Sri Achyutananda (Advaita's eldest son)” (CB, Antya 8.60).[^1] And Sr
 “Gaudiya-bhashya” on this verse that of all Advaita's sons Sri Achyutananda had the deepest and strongest devotion to
 Vishnu. <!-- F6 -->
 
-He was born in Shantipura, on the Ganges, a few miles south of Sri Navadvipa-Mayapura, where the Lord appeared, and
+He was born in Shantipura, a few miles south of Sri Navadvipa-Mayapura, where the Lord appeared, and
 fifty-five miles north of Calcutta. Neither the “Charitamrita” nor the “Chaitanya-bhagavata” gives the year of his birth;
 by the reckonings it was about 1505–1506.[^2] Neither the original sources nor the biographies give the days of his
 appearance and departure, nor are they found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. <!-- F7 F11 -->
