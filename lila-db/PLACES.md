@@ -387,3 +387,6 @@
 | #kotalpur | Котулпур (Котальпур) | Kotulpur (Kotalpur) | округ Банкура (Бенгалия); живут потомки родичей поэта @jnanadasa (B 1097) |
 | #balarampura | Баларампур (Бара-Баларампур) | Balarampura (Bara-Balarampura) | селение в Уткале (Мединипур); проповедь и праздник @shyamananda (M 213; ПВ 20; «Расика-мангала») |
 | #prematali | Прематали (Прематоли; Кутубпур) | Prematali (Prematoli; Kutubpur) | на Падмавати, где Махапрабху оставил прему для @narottama-dasa (ПВ 8 — «Кудодарпур», вар. «Кутубпур»; T 151, 207) |
+| #chhatra-narail | Чхатра (Нараил, Джессор) | Chhatra (Narail, Jessore) | селение в подокруге Нараил округа Джессор (Бенгалия); родина и место ухода @krishnadasa-babaji (B 1117, 1120) |
+| #binodpur | Бинодпур | Binodpur | селение (Бенгалия), дом дяди по матери @krishnadasa-babaji, где он учился (B 1117) |
+| #hrishikesha | Хришикеш | Rishikesh (Hrishikesha) | у Ганги в Гималаях; там принял санньясу @narottama-dasa-yativara (B 1117) |
