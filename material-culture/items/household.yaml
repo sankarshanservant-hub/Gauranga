@@ -1,0 +1,275 @@
+# Рубрика «Дом» (home), исполнитель society: семья, домочадцы, слуги, животные, хранение, уровень жизни.
+# Формат — material-culture/README.md. Проверка: python3 material-culture/tools/check.py
+# Выписки и журнал — research/society-notes.md, research/society-log.md.
+
+- id: mc-homestead-quarters
+  title: {ru: "Усадьба: внешний двор и внутренние покои", en: "The homestead: outer yard and inner quarters"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Отдельные комнаты Джаганнатхи и Шачи — Лочан, Ади-кханда, ч. 2, ст. 126; молодых после свадьбы ведут «во
+      внутренние покои» — ЧБ Ади 15.191; у Шриваса есть внутренние покои, куда уходит хозяин во время киртана во дворе —
+      ЧБ Мадхья 25.24–33; Лочан: Господь входит во внутренние покои Мурари Гупты, где тот ест. Деление дома на внешнюю
+      и внутреннюю (женскую) часть, кухня во внутренней части — Bose 1881, с. 13–14 (XIX в., реконструкция).
+    en: >-
+      Separate rooms of Jagannatha and Shachi — Lochana, Adi-khanda, pt. 2, v. 126; the newly-weds are led 'into the
+      inner rooms' — CB Adi 15.191; Shrivasa has inner rooms where the master goes while kirtan fills the courtyard —
+      CB Madhya 25.24–33; Lochana: the Lord enters Murari Gupta's inner rooms where he is eating. The division of a
+      house into an outer and an inner (women's) part, with the kitchen inside — Bose 1881, pp. 13–14 (19th c.,
+      reconstruction).
+  text:
+    ru: >-
+      Бенгальская усадьба делилась на две части. Во внешнюю, к воротам, приходили гости, ученики и соседи: здесь
+      стояли открытый павильон, коровник и место для бесед. Внутренняя часть (антахпура) принадлежала семье и
+      женщинам: спальные хижины, кухня, кладовая, комната Божества и задний двор с прудом. Посторонний мужчина во
+      внутренние покои не входил; поэтому, когда двор Шриваса заполнял киртан, домашние и женщины оставались внутри.
+      У бедного брахмана таких хижин было три-четыре, у богача — целые ряды построек вокруг нескольких дворов.
+    en: >-
+      A Bengali homestead had two parts. The outer part, toward the gate, received guests, students and neighbours:
+      here stood an open pavilion, the cowshed and a place to sit and talk. The inner part (antahpura) belonged to the
+      family and the women: sleeping huts, kitchen, storeroom, the Deity's room and a back yard with a pond. A male
+      stranger did not enter the inner rooms; so when kirtan filled Shrivasa's courtyard, the women of the house stayed
+      inside. A poor brahmin had three or four such huts, a rich man whole rows of buildings round several courtyards.
+  hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 126", "ЧБ Ади 15.191", "ЧБ Мадхья 25.24–33",
+                "Лочан, Ади-кханда, ч. 4, ст. 392 (внутренние покои Мурари Гупты)"]
+  sources: ["Bose 1881, с. 13–14 (кухня во внутренней половине) — через research/pd-texts.md",
+            "Hunter 1875, т. 2, с. 240 (у крестьянина 3–4 «комнаты»-постройки) — через research/pd-texts.md"]
+  images: []
+  game: {model: "план усадьбы: ворота → внешний двор с чанди-мандапой и коровником → проход → внутренний двор с жилыми хижинами, кухней, кладовой, тхакур-гхаром → задний двор и пруд",
+         where: ["mishra-house/courtyard", "mishra-house/backyard"], notes: "в доме Мишры — небольшая усадьба бедного брахмана; у Говардханы в Саптаграме — несколько дворов"}
+  todo: "PD-описание бенгальской усадьбы с делением на бахир-бари / андар-бари (Day 1874, гл. V?)"
+
+- id: mc-chandi-mandapa
+  title: {ru: "Чанди-мандапа — открытый павильон во дворе", en: "Chandi-mandapa — the open pavilion in the yard"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Просторная чанди-мандапа во дворе Мукунды Санджая, где Нимай вёл уроки, — ЧБ Ади 10.40, 12.91, 15.7, Мадхья
+      1.126; помост святилища Дурги (дурга-мандапа) в доме Рамачандры Кхана, «тесный» для гостей, — ЧЧ Антья 3.149–152.
+      Облик (навес на столбах, глиняный помост) — реконструкция.
+    en: >-
+      The spacious chandi-mandapa in Mukunda Sanjaya's yard where Nimai taught — CB Adi 10.40, 12.91, 15.7, Madhya
+      1.126; the platform of the Durga shrine (durga-mandapa) in Ramachandra Khan's house, 'too cramped' for guests —
+      CC Antya 3.149–152. Its look (a roof on posts, a clay platform) is reconstructed.
+  text:
+    ru: >-
+      В зажиточном доме во внешнем дворе стоял открытый павильон на столбах с поднятым глиняным полом — чанди-мандапа.
+      В нём раз в год ставили образ богини на праздник, а в остальное время там сидели гости, решали дела, читали
+      писания и учили детей. Юный Нимай собирал учеников в чанди-мандапе Мукунды Санджая: Он приходил первым, садился,
+      и туда же сходились ученики. Нитьянанда однажды сел на такой помост в доме надменного Рамачандры Кхана — и
+      хозяин не пожелал выйти к Нему.
+    en: >-
+      In a well-to-do house the outer yard had an open pavilion on posts with a raised clay floor — the
+      chandi-mandapa. Once a year an image of the goddess was set up there for her festival; the rest of the time
+      guests sat there, business was settled, scriptures were read and children taught. Young Nimai gathered His
+      students in Mukunda Sanjaya's chandi-mandapa: He came first and sat down, and the students assembled there.
+      Nityananda once sat on such a platform in the house of the proud Ramachandra Khan — and the master would not
+      come out to Him.
+  hagiography: ["ЧБ Ади 10.40", "ЧБ Ади 12.91", "ЧБ Ади 15.7", "ЧБ Мадхья 1.126", "ЧЧ Антья 3.149–152"]
+  sources: []
+  images: []
+  game: {model: "павильон 6×4 м: глиняный помост 60 см, деревянные/бамбуковые столбы, кровля чар-чала, без стен; циновки",
+         where: ["navadvipa/tol"], notes: "дополняет карточку mc-tol-school (там — сама школа)"}
+
+- id: mc-household-servants
+  title: {ru: "Слуги и служанки в доме", en: "Servants and maidservants of the house"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Ишана всю жизнь служил матери Шачи: подаёт воду для омовения стоп, убирает, доедает остатки — ЧБ Мадхья 8.59,
+      8.73–74; ЧЧ Мадхья 15.63. Служанка Шриваса Духкхи носит воду — ЧБ Мадхья 9.40–41, 25.11–22. Служанки Ситы
+      Тхакурани — ЧЧ Ади 13.114; слуги и служанки дома Шриваса — одна «ветвь» с хозяевами — ЧЧ Ади 10.9. Говинда —
+      слуга Господа в Пури — ЧЧ Мадхья 10.132 и далее.
+    en: >-
+      Ishana served mother Shachi all his life: brings water for washing feet, cleans, eats the remnants — CB Madhya
+      8.59, 8.73–74; CC Madhya 15.63. Shrivasa's maidservant Duhkhi carries water — CB Madhya 9.40–41, 25.11–22. Sita
+      Thakurani's maidservants — CC Adi 13.114; the servants and maids of Shrivasa's house are one 'branch' with their
+      masters — CC Adi 10.9. Govinda, the Lord's servant in Puri — CC Madhya 10.132 ff.
+  text:
+    ru: >-
+      Даже в небогатом брахманском доме жили слуги, и их считали частью семьи. Ишана всю жизнь служил матери Шачи:
+      носил воду, мыл посуду и полы, подавал воду для омовения стоп и почтительно доедал остатки трапезы Господа.
+      Служанка Шриваса по имени Духкхи («Печальная») носила воду для киртана, и Господь назвал её Сукхи —
+      «Счастливая». У знатных женщин были свои служанки: они шли за паланкином Ситы Тхакурани с корзинами даров.
+      Вайшнавы помнят этих слуг поимённо — их служение стало частью лилы.
+    en: >-
+      Even a modest brahmin household had servants, and they were counted as part of the family. Ishana served mother
+      Shachi all his life: he fetched water, washed pots and floors, brought water to wash the feet and reverently ate
+      the remnants of the Lord's meal. Shrivasa's maidservant named Duhkhi ('Sorrowful') carried water for the kirtan,
+      and the Lord renamed her Sukhi — 'Happy'. Ladies of standing had their own maids: they walked behind Sita
+      Thakurani's palanquin with baskets of gifts. Vaishnavas remember these servants by name — their service became
+      part of the lila.
+  hagiography: ["ЧБ Мадхья 8.59", "ЧБ Мадхья 8.73–74", "ЧЧ Мадхья 15.63", "ЧБ Мадхья 9.40–41", "ЧБ Мадхья 25.11–22",
+                "ЧЧ Ади 13.114", "ЧЧ Ади 10.9", "ЧЧ Мадхья 10.132", "ЧЧ Антья 10.95"]
+  sources: ["Bose 1881, с. 15–16 (утро служанки: метёт, моет веранды, чистит латунную утварь, разжигает очаг) — XIX в., через research/pd-texts.md"]
+  images: []
+  game: {model: "персонажи: Ишана с кувшином и метлой; Духкхи-Сукхи с глиняным кувшином на бедре",
+         where: ["mishra-house/courtyard", "navadvipa/shrivasa-house"]}
+
+- id: mc-extended-household
+  title: {ru: "Кто ещё жил при семье", en: "Who else lived with the family"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Нитьянанда живёт в доме Шриваса, Малини кормит Его как сына — ЧБ Мадхья 8.6–8; четыре брата Шриваса с семьями,
+      слугами и служанками — ЧЧ Ади 10.9; тёща Шриваса в его доме — ЧБ Мадхья 16.4–15; «у тебя большая семья» —
+      ЧБ Антья 5.41; Санатана держит у себя два-три десятка брахманов для чтения Бхагаватам — ЧЧ Мадхья 19.17;
+      Шачи кормит десятки гостей-санньяси — ЧБ Ади 14.14–17.
+    en: >-
+      Nityananda lives in Shrivasa's house and Malini feeds Him like a son — CB Madhya 8.6–8; Shrivasa's four brothers
+      with families, servants and maids — CC Adi 10.9; Shrivasa's mother-in-law in his house — CB Madhya 16.4–15; 'you
+      have a large family' — CB Antya 5.41; Sanatana keeps twenty or thirty brahmins at home to read the Bhagavatam —
+      CC Madhya 19.17; Shachi feeds dozens of sannyasi guests — CB Adi 14.14–17.
+  text:
+    ru: >-
+      Семья в Бенгалии — это не только родители и дети. В доме Шриваса жили четыре брата с жёнами и детьми, тёща,
+      слуги и служанки, а годами — и гость Нитьянанда, которого жена Шриваса Малини кормила, как родного сына.
+      Вдовы оставались в доме мужа или возвращались к родне; так и Шачи после смерти Джаганнатхи Мишры жила с сыном и
+      невесткой. Ученики нередко жили и ели у учителя, вельможа держал при себе чтецов и учёных, а любой странствующий
+      санньяси мог рассчитывать на обед: Шачи готовила разом на двадцать гостей.
+    en: >-
+      A Bengali family was more than parents and children. Shrivasa's house held four brothers with their wives and
+      children, his mother-in-law, servants and maids, and for years the guest Nityananda as well, whom Shrivasa's wife
+      Malini fed like her own son. Widows stayed in the husband's house or returned to their kin; so Shachi, after
+      Jagannatha Mishra's death, lived with her son and daughter-in-law. Students often lived and ate at the teacher's,
+      a noble kept readers and scholars about him, and any wandering sannyasi could count on a meal: Shachi would cook
+      for twenty guests at once.
+  hagiography: ["ЧБ Мадхья 8.6–8", "ЧЧ Ади 10.9", "ЧБ Мадхья 16.4–15", "ЧБ Антья 5.41", "ЧЧ Мадхья 19.17",
+                "ЧБ Ади 14.14–17"]
+  sources: []
+  images: []
+  game: {model: "сцена: двор Шриваса — несколько хижин братьев вокруг общего двора, дети, пожилая женщина у кладовой",
+         where: ["navadvipa/shrivasa-house"]}
+  todo: "проверить по ЧБ, где жил Нитьянанда после Шриваса; ученики-постояльцы у Гангадаса — есть ли прямое свидетельство"
+
+- id: mc-house-animals
+  title: {ru: "Кошки, собаки и змеи: кто ещё жил в доме", en: "Cats, dogs and snakes: the other inmates of the house"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Всякий, кто живёт в твоём доме, даже кошка или собака (*вид̣а̄ла-куккура*)» — ЧБ Мадхья 8.20–21; коровы и быки
+      как «мать и отец» человека — ЧЧ Ади 17.153; змеи в хижинах в половодье — Sen 1911, с. 252–253 (обобщение).
+      Домашние попугаи и майны в наших житиях не найдены: попугаи шука и шари — только в лесах и садах (ЧЧ Мадхья
+      17.199, Антья 19.80).
+    en: >-
+      'Anyone who lives in your house, even a cat or a dog (vidala-kukkura)' — CB Madhya 8.20–21; cows and bulls as
+      man's 'mother and father' — CC Adi 17.153; snakes in huts at flood time — Sen 1911, pp. 252–253 (generalisation).
+      Pet parrots and mynas were not found in our hagiographies: the shuka and shari parrots appear only in forests and
+      gardens (CC Madhya 17.199, Antya 19.80).
+  text:
+    ru: >-
+      Рядом с людьми в бенгальском доме жили кошки и собаки: Господь благословил Шриваса, сказав, что любовь к Нему
+      обретёт всякий, кто живёт в его доме, — «даже кошка или собака». Главным богатством двора были коровы и быки:
+      корова давала молоко, бык пахал поле, и Господь в споре с кази называл их матерью и отцом человека. Были и
+      незваные жильцы — крысы в кладовой и змеи, которые в половодье заползали в хижины и прятались в постелях и
+      кувшинах.
+    en: >-
+      Cats and dogs lived alongside people in a Bengali house: the Lord blessed Shrivasa, saying that love for Him would
+      come to everyone who lived in his house — 'even a cat or a dog'. The real wealth of the yard was its cows and
+      bulls: the cow gave milk, the bull ploughed the field, and in His debate with the qazi the Lord called them
+      man's mother and father. There were uninvited lodgers too — rats in the storeroom and snakes that crept into
+      the huts at flood time and hid in beds and pots.
+  hagiography: ["ЧБ Мадхья 8.20–21", "ЧЧ Ади 17.153"]
+  sources: ["Sen 1911, с. 252–253 (змеи в постелях и кувшинах в половодье) — через research/pd-texts.md"]
+  images: []
+  game: {model: "кошка на веранде, бродячая собака у ворот; змея в углу хижины в сезон дождей (событие)",
+         where: ["mishra-house/courtyard", "mishra-house/lane"], notes: "попугая в клетке не ставить без источника эпохи (см. todo)"}
+  todo: "найти PD-свидетельство XV–XVI в. о домашних попугаях/майнах в Бенгалии (мангала-кавья: «шука-шари» в клетке?)"
+
+- id: mc-shivananda-dog
+  title: {ru: "Пёс Шивананды Сена", en: "Shivananda Sena's dog"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Антья 1.17–33 (пёс в караване паломников, лодочник, кормление рисом, встреча с Господом в Пури, кокос)."
+    en: "CC Antya 1.17–33 (the dog with the pilgrim party, the boatman, feeding with rice, meeting the Lord in Puri, the coconut)."
+  text:
+    ru: >-
+      По дороге в Пури к каравану бенгальских паломников прибился бродячий пёс, и Шивананда Сен взял его под свою
+      опеку: сам кормил и даже заплатил лодочнику-ории, не желавшему везти собаку через реку. Однажды, когда
+      Шивананду задержал сборщик пошлин, слуга забыл накормить пса рисом, и тот пропал; Шивананда послал на поиски
+      десять человек и сам не ел. В Пури пёс нашёлся сидящим перед Господом: Махапрабху бросал ему кусочки кокоса, и
+      пёс ел их и повторял «Кришна, Кришна».
+    en: >-
+      On the way to Puri a stray dog attached itself to the caravan of Bengali pilgrims, and Shivananda Sena took it
+      under his care: he fed it himself and even paid an Oriya boatman who did not want to ferry a dog across the
+      river. Once, when a toll-collector detained Shivananda, a servant forgot to feed the dog its rice, and it
+      vanished; Shivananda sent ten men to search and would not eat himself. In Puri the dog was found sitting before
+      the Lord: Mahaprabhu was tossing it bits of coconut, and the dog ate them, repeating 'Krishna, Krishna'.
+  hagiography: ["ЧЧ Антья 1.17–33"]
+  sources: []
+  images: []
+  game: {model: "рыжевато-бурая бродячая собака (пария), миска-лист с рисом", where: ["road-to-puri/ferry", "puri/lord-residence"],
+         notes: "о лодочнике и пошлинах — карточка mc-ferries-tolls"}
+
+- id: mc-grain-baskets-chests
+  title: {ru: "Где хранили: корзины для зерна, короба-петара, сундуки", en: "Storage: grain baskets, petara boxes, chests"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Тёща Шриваса прячется за *д̣ола* — большой корзиной для зерна в углу комнаты — ЧБ Мадхья 16.5; «коробочка с
+      паном» — ЧБ Ади 15.85. Набор утвари лавочника: деревянный сундук и плетёные короба *петара* — Hunter 1875, т. 2,
+      с. 240 (XIX в.); зерно в глиняных сосудах в кладовой — Bose 1881, с. 155 (XIX в.).
+    en: >-
+      Shrivasa's mother-in-law hides behind a dola — a big grain basket in the corner of the room — CB Madhya 16.5; 'a
+      little box of pan' — CB Adi 15.85. A shopkeeper's household goods: a wooden chest and cane-work petara boxes —
+      Hunter 1875, vol. 2, p. 240 (19th c.); grain in clay jars in the storeroom — Bose 1881, p. 155 (19th c.).
+  text:
+    ru: >-
+      Шкафов в хижине не было: всё хранили в корзинах, коробах и горшках. Рис держали в огромной плетёной корзине-дола,
+      обмазанной глиной, или в глиняных сосудах в кладовой; за такой корзиной в углу комнаты однажды спряталась тёща
+      Шриваса, чтобы тайком посмотреть на танец Господа. Одежду, ткани и ценности складывали в плетёные короба с
+      крышкой (петара) и деревянный сундук, а пан и пряности — в маленькие коробочки. Еду от кошек и крыс подвешивали
+      под кровлей в верёвочных сетках.
+    en: >-
+      A hut had no cupboards: everything was kept in baskets, boxes and pots. Rice was stored in a huge woven dola
+      basket daubed with clay or in clay jars in the storeroom; behind such a basket in the corner of a room
+      Shrivasa's mother-in-law once hid to watch the Lord dance in secret. Clothes, cloth and valuables went into
+      lidded cane boxes (petara) and a wooden chest, and pan and spices into small boxes. Food was hung from the roof
+      in rope slings to keep it from cats and rats.
+  hagiography: ["ЧБ Мадхья 16.4–15", "ЧБ Ади 15.85"]
+  sources: ["Hunter 1875, т. 2, с. 240 (сундук, короба-петара) — через research/pd-texts.md",
+            "Bose 1881, с. 155 (сундуки, короба, зерно в кладовой) — через research/pd-texts.md"]
+  images: []
+  game: {model: "дола: корзина из расщеплённого бамбука Ø 1–1,2 м, высота 1,2–1,5 м, обмазанная глиной с навозом; петара: короб из ротанга 50×35×30 см с крышкой; подвесная сетка-шика",
+         where: ["mishra-house/storeroom", "mishra-house/main-hut"]}
+  todo: "подвесные сетки (шика) — свидетельство эпохи не найдено, только этнография; найти PD"
+
+- id: mc-doors-bolts
+  title: {ru: "Двери и запоры", en: "Doors and bolts"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Родственники советуют «привязать дверь снаружи» (*ба̄ндха ба̄хира дуйа̄ра*), и Мишра садится у двери — ЧБ Ади
+      5.114–116; киртан за «крепко запертой» дверью — ЧБ Мадхья 8.229, 5.21; ЧЧ Ади 17.60; три запертые двери
+      Гамбхиры — ЧЧ Мадхья 2.8, Антья 17.11. Устройство двери и засова — реконструкция.
+    en: >-
+      Relatives advise 'tying the door from outside' (bandha bahira duyara), and Mishra sits at the door — CB Adi
+      5.114–116; kirtan behind a 'firmly shut' door — CB Madhya 8.229, 5.21; CC Adi 17.60; the three locked doors of
+      the Gambhira — CC Madhya 2.8, Antya 17.11. The construction of door and bolt is reconstructed.
+  text:
+    ru: >-
+      Дверь хижины — деревянная или плетёная из бамбука створка в низком проёме; её закрывали изнутри деревянным
+      засовом, а снаружи привязывали верёвкой к столбу. Когда малыш Нимай всё время убегал, родные посоветовали
+      Джаганнатхе Мишре завязать дверь снаружи, и отец сел сторожить у порога. Ночные киртаны в доме Шриваса шли за
+      крепко запертыми дверями, чтобы не мешали насмешники, а в Пури Господь в экстазе оказывался снаружи, хотя все три
+      двери Гамбхиры оставались закрытыми.
+    en: >-
+      A hut door was a wooden or woven-bamboo leaf in a low doorway; it was shut from inside with a wooden bar and tied
+      from outside with a rope to a post. When little Nimai kept running off, the relatives advised Jagannatha Mishra
+      to tie the door from outside, and the father sat guarding the threshold. The night kirtans in Shrivasa's house
+      went on behind firmly shut doors so that scoffers could not interfere, and in Puri the Lord in ecstasy would be
+      found outside although all three doors of the Gambhira stayed closed.
+  hagiography: ["ЧБ Ади 5.114–116", "ЧБ Мадхья 5.21", "ЧБ Мадхья 8.229", "ЧЧ Ади 17.60", "ЧЧ Мадхья 2.8", "ЧЧ Антья 17.11"]
+  sources: []
+  images: []
+  game: {model: "низкая (1,5 м) дверь из досок на деревянных шипах-петлях, засов-брус изнутри, верёвочная петля снаружи",
+         where: ["mishra-house/main-hut", "navadvipa/shrivasa-house", "puri/gambhira"]}
+  todo: "были ли у бенгальцев эпохи металлические висячие замки (тала) — проверить по мангала-кавьям"
