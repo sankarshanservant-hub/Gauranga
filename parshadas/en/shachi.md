@@ -483,8 +483,8 @@ In Karnapura this conversation runs: “Mother, listen to what I am going to say
 child, all of it will be done. Speak, dear child.” — “Mother, never take food on the day of Hari” (“Mahakavya”
 2.109–110); and, according to the “Bhakti-ratnakara,” from then on “with care she keeps the vow of Sri Ekadashi above all
 else” (12.1138). The “Bhakti-ratnakara” also remembers the other rites of childhood — the chuda-karma and the piercing of
-the ears, and then the upanayana, when “Shachi and Mishra, skilled in the rites the Vedas prescribe,” clothed their son in
-red, gave Him a staff and a bag, and He, like Vamana, begged alms (12.1153–1196). <!-- F241 F218 F219 -->
+the ears, and then the upanayana, when “Shachi and Mishra, skilled in the rites the Vedas prescribe,” performed the rite, and
+their son, in red, with a staff and a bag, begged alms like Vamana (12.1153–1196). <!-- F241 F218 F219 -->
 
 ## The Passing of Jagannatha
 One day Jagannatha woke in tears and, bowing his head to the ground, began to pray to Govinda that Nimai might remain at
