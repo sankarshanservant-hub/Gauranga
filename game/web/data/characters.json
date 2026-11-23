@@ -3,7 +3,7 @@
   "id": "player",
   "name": "Гандхарва",
   "height": 1.7,
-  "speed": 2.2,
+  "speed": 1.6,
   "skin": "#9fb6ff",
   "cloth": "#f2e2b0",
   "cloth2": "#c9a0ff",
@@ -62,7 +62,7 @@
   "id": "brahmana",
   "name": "Брахман-паломник",
   "height": 1.7,
-  "speed": 1.2,
+  "speed": 0.8,
   "skin": "#9a6c4a",
   "cloth": "#e9dfcb",
   "cloth2": "#ddd0b6",
@@ -72,7 +72,8 @@
   "pendant": true,
   "beard": true,
   "hair": "#c9c3b8",
-  "hair_style": "shikha"
+  "hair_style": "shikha",
+  "walk_clip": "oldwalk"
  },
  "vishvarupa": {
   "id": "vishvarupa",

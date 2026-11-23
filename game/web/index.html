@@ -259,22 +259,29 @@ function findPath(from, to) {
 
 // ---------------------------------------------------------------- персонажи: Y Bot (Mixamo) + одежда на костях
 const ybot = await loadProxy('chars/ybot.json');
-// анимации: убрать масштаб (чтобы голова ребёнка оставалась крупной) и смещение корня у ходьбы/бега («на месте»)
+// анимации: убрать масштаб (чтобы голова ребёнка оставалась крупной) и смещение корня у ходьбы/бега («на месте»).
+// В этом экспорте у таза ось 1 — «вперёд», ось 2 — «вверх» (родитель повёрнут на 90°): гасим 0 и 1, покачивание оставляем.
 const INPLACE = new Set(['walk', 'oldwalk', 'run', 'run2', 'carry', 'joyjump', 'rumba', 'victory']);
 const CLIPS = {};
 for (const c of ybot.animations) {
   c.tracks = c.tracks.filter((t) => !t.name.endsWith('.scale'));
   if (INPLACE.has(c.name)) for (const t of c.tracks) if (/Hips\.position$/.test(t.name)) {
-    const v = t.values, x0 = v[0], z0 = v[2]; for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 2] = z0; } }
+    const v = t.values, x0 = v[0], y0 = v[1]; for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 1] = y0; } }
   CLIPS[c.name] = c;
 }
+// куски клипов без переходов (Mixamo-клипы «встать/сесть» внутри; берём только устойчивую часть, кадры 30 fps)
+const sub = (name, a, b) => { if (CLIPS[name]) CLIPS[name + '_s'] = THREE.AnimationUtils.subclip(CLIPS[name], name + '_s', a, b, 30); };
+sub('pray15', 0, 110); sub('pickup', 20, 140); sub('kneel', 0, 140);
+// скорость шага клипа в м/с (замерено по смещению таза в исходных клипах; рост Y Bot ≈ 1.8 м)
+const NAT = { walk: 1.66, oldwalk: 0.55, run: 4.37, run2: 4.4, carry: 0 };
 // поза игры -> клип Mixamo [клип, повтор, скорость]
 const POSE = {
-  idle: ['idle', true, 1], walk: ['walk', true, 1], run: ['run', true, 1.1], sit: ['sit', true, 1], meditate: ['pray15', true, 0.6],
-  cook: ['sit', true, 1], eat: ['pickup', true, 1.2], sleep: ['sleep', true, 0.5], lie: ['laysleep', true, 0.5], faint: ['faint', false, 1],
-  dance: ['victory', true, 1], grief: ['kneel', false, 1], bow: ['bow', false, 1], angry: ['angry', true, 1], carry: ['carry', true, 1],
+  idle: ['idle2', true, 1], walk: ['walk', true, 1], run: ['run', true, 1], sit: ['sit', true, 1], meditate: ['pray15_s', true, 0.8],
+  cook: ['sit', true, 1], eat: ['pickup_s', true, 1], sleep: ['sleep', true, 0.6], lie: ['laysleep', true, 0.5], faint: ['faint', false, 1],
+  dance: ['victory', true, 1], grief: ['kneel_s', true, 1], bow: ['bow', false, 1], angry: ['angry', true, 1], carry: ['carry', true, 1],
   plead: ['plead', true, 1], float: ['idle2', true, 0.6], talk: ['talk', true, 1], joy: ['joyjump', true, 1],
 };
+
 // рост модели — по костям (макушка — носок), рамка скелетной сетки здесь ненадёжна
 ybot.scene.updateMatrixWorld(true);
 const boneY = (n) => { let y = null; ybot.scene.traverse((o) => { if (o.isBone && o.name.endsWith(n)) y = o.getWorldPosition(new THREE.Vector3()).y; }); return y; };
@@ -284,7 +291,7 @@ const lerpAngle = (a, b, t) => { let d = ((b - a + Math.PI) % (2 * Math.PI)) - M
 class Figure {
   constructor(spec) {
     this.id = spec.id; this.name = spec.name; this.h = spec.height ?? 1.65; this.speed = spec.speed ?? 1.6;
-    this.celestial = !!spec.celestial; this._pose = ''; this.path = []; this.yaw = 0; this.carried = false; this.resolve = null; this.mats = [];
+    this.celestial = !!spec.celestial; this._pose = ''; this.walkClip = spec.walk_clip ?? ''; this.path = []; this.yaw = 0; this.carried = false; this.resolve = null; this.mats = [];
     const alpha = spec.alpha ?? 1, glow = spec.glow ?? 0;
     const mk = (hex, g = 0) => { const m = new THREE.MeshStandardMaterial({ color: hex, roughness: 0.8, transparent: alpha < 1, opacity: alpha });
       if (g > 0) { m.emissive = new THREE.Color(hex); m.emissiveIntensity = g; } this.mats.push(m); return m; };
@@ -339,11 +346,15 @@ class Figure {
     if (this.carrying && (p === 'walk' || p === 'idle')) p = 'carry';
     if (p === this._pose) return;
     this._pose = p;
-    const [name, loop, speed] = POSE[p] ?? POSE.idle;
+    let [name, loop, speed] = POSE[p] ?? POSE.idle;
+    if (p === 'walk' && this.walkClip) name = this.walkClip;
     const clip = CLIPS[name]; if (!clip) return;
     const next = this.actions[name] ?? (this.actions[name] = this.mixer.clipAction(clip));
     next.reset(); next.setLoop(loop ? THREE.LoopRepeat : THREE.LoopOnce, Infinity); next.clampWhenFinished = !loop;
-    next.timeScale = speed * (p === 'walk' || p === 'run' ? Math.max(0.6, this.speed / 1.6) : 1);
+    if ((p === 'walk' || p === 'run') && NAT[name]) {
+      const nat = NAT[name] * this.h / 1.8, move = this.speed * (p === 'run' ? 1.9 : 1);
+      next.timeScale = THREE.MathUtils.clamp(move / nat, 0.5, 2.2);
+    } else next.timeScale = speed;
     next.enabled = true; next.setEffectiveWeight(1);
     if (this.current && this.current !== next) { next.crossFadeFrom(this.current, 0.3, false); }
     next.play(); this.current = next;
@@ -364,12 +375,22 @@ class Figure {
   stop() { this.path = []; this.pose = 'idle'; if (this.resolve) { const r = this.resolve; this.resolve = null; r(); } }
   update(dt) {
     if (!this.carried && this.path.length) {
+      // срезаем углы: если до текущей точки близко, а следующая видна — переходим к следующей
+      while (this.path.length > 1 && Math.hypot(this.path[0].x - this.pos.x, this.path[0].z - this.pos.z) < 0.55) this.path.shift();
       const tgt = this.path[0], d = new THREE.Vector3(tgt.x - this.pos.x, 0, tgt.z - this.pos.z), L = d.length();
-      const sp = this.speed * (this.pose === 'run' ? 1.9 : 1);
-      if (L < 0.06) { this.pos.y = tgt.y; this.path.shift(); if (!this.path.length) { this.pose = 'idle'; if (this.resolve) { const r = this.resolve; this.resolve = null; r(); } } }
-      else { const st = Math.min(sp * dt, L); this.pos.addScaledVector(d.normalize(), st); this.pos.y = lerp(this.pos.y, tgt.y, Math.min(dt * 8, 1)); this.yaw = Math.atan2(d.x, d.z); }
+      let sp = this.speed * (this.pose === 'run' ? 1.9 : 1);
+      if (this.path.length === 1) sp *= THREE.MathUtils.clamp(L / 0.5, 0.35, 1);   // плавная остановка
+      if (L < 0.05) { this.pos.y = tgt.y; this.path.shift(); if (!this.path.length) { this.pose = 'idle'; if (this.resolve) { const r = this.resolve; this.resolve = null; r(); } } }
+      else {
+        this.yaw = Math.atan2(d.x, d.z);
+        // идём туда, куда уже повернулись (без «бокового» скольжения на поворотах)
+        const face = this.body.rotation.y, fw = new THREE.Vector3(Math.sin(face), 0, Math.cos(face));
+        const dir = d.normalize(), align = Math.max(0.25, fw.dot(dir));
+        const st = Math.min(sp * dt * align, L); this.pos.addScaledVector(dir.lerp(fw, 0.35).normalize(), st);
+        this.pos.y = lerp(this.pos.y, tgt.y, Math.min(dt * 6, 1));
+      }
     }
-    if (!this.carried) this.body.rotation.y = lerpAngle(this.body.rotation.y, this.yaw, Math.min(dt * 10, 1));
+    if (!this.carried) this.body.rotation.y = lerpAngle(this.body.rotation.y, this.yaw, Math.min(dt * 7, 1));
     const float = this.pose === 'float';
     this.body.position.y = lerp(this.body.position.y, float ? 0.35 + 0.08 * Math.sin(performance.now() / 770) : 0, Math.min(dt * 6, 1));
     this.mixer.update(dt);
