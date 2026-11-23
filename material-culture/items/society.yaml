@@ -670,3 +670,223 @@
   game: {model: "коромысловые весы с двумя медными чашками на шнурах, набор красно-чёрных семян абруса; плетёная мера для зерна",
          where: ["navadvipa/market"], notes: "ман XVI в. ≠ британский ман 1833 г. (82 2/7 фунта) — в игре не указывать кг"}
   todo: "значения рати/маши/толы и мана в Бенгальском султанате — PD (Prinsep, Useful Tables 1834–1858)"
+
+- id: mc-pathshala
+  title: {ru: "Пашшала — первая школа: буквы и лигатуры", en: "The pathshala — first school: letters and ligatures"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Начало учёбы (*ха̄те-кхад̣и*), Нимай запоминает все буквы с одного взгляда, за несколько дней проходит все «пхала»
+      (знаки-лигатуры), пишет имена Кришны, произносит «ка, кха, га, гха» — ЧБ Ади 6.1–8; две прахары в школе — 6.135;
+      «он сам хочет учиться» — ЧБ Ади 7.147–185; Шриманта у Мукундарама учится в дневной школе, в 12 лет его обижает
+      учитель — Sen 1911, с. 325. Письмо на земле и листьях банана в начальной школе — этнография (реконструкция).
+    en: >-
+      The start of study (hate-khadi); Nimai learns all the letters at a glance, masters all the 'phala' (ligature signs)
+      in a few days, writes the names of Krishna and recites 'ka, kha, ga, gha' — CB Adi 6.1–8; two praharas at school —
+      6.135; 'He wants to study of Himself' — CB Adi 7.147–185; Shrimanta in Mukundaram studies at a day-school and at
+      twelve is hurt by his teacher — Sen 1911, p. 325. Writing on the ground and on banana leaves in the first school
+      is ethnography (reconstruction).
+  text:
+    ru: >-
+      После обряда «мел в руку» ребёнок шёл в пашшалу — деревенскую школу под навесом или деревом, где учитель-гуру учил
+      детей разных каст письму и счёту. Сначала буквы чертили палочкой на земле или мелом на доске, потом выводили
+      тростниковым пером на банановых и пальмовых листьях; хором повторяли алфавит — «ка, кха, га, гха» — и таблицы
+      счёта. Нимай запоминал букву с одного взгляда, за несколько дней прошёл все лигатуры и писал на листьях имена
+      Кришны: «Рама, Кришна, Мурари, Мукунда». В школе Он проводил две прахары — шесть часов, а родителям они казались
+      двумя югами.
+    en: >-
+      After the 'chalk in the hand' rite a child went to the pathshala — a village school under a shed or a tree where
+      the guru taught children of different castes to write and reckon. Letters were first traced with a stick on the
+      ground or in chalk on a board, then written with a reed pen on banana and palm leaves; the alphabet — 'ka, kha,
+      ga, gha' — and the counting tables were chanted in chorus. Nimai learned a letter at a glance, mastered all the
+      ligatures in a few days and wrote Krishna's names on the leaves: 'Rama, Krishna, Murari, Mukunda'. He spent two
+      praharas — six hours — at school, and to His parents they seemed like two yugas.
+  hagiography: ["ЧБ Ади 6.1–8", "ЧБ Ади 6.135", "ЧБ Ади 7.147–185"]
+  sources: ["Sen 1911, с. 325 (Мукундарам: школа Шриманты)"]
+  images: []
+  game: {model: "навес на 4 столбах, дети на циновках с банановыми листьями и тростниковыми перьями, учитель с палкой-указкой; глиняная чернильница",
+         where: ["navadvipa/pathshala"], notes: "обряд хате-кхади — mc-vidyarambha (rites.yaml)"}
+  todo: "PD-описание пашшалы (Adam's Reports on Vernacular Education, 1835–38) — письмо на земле, листьях, доске"
+
+- id: mc-sastra-subjects
+  title: {ru: "Чему учили в толе: грамматика Калапа, ньяя, смрити, поэтика", en: "What the tol taught: Kalapa grammar, nyaya, smriti, poetics"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Кешава Кашмири: «Ты преподаёшь Калапа-вьякарану» — ЧЧ Ади 16.32; «Ты изучаешь лишь грамматику — что Тебе
+      известно о красотах поэзии?» — Ади 16.50–52, 16.92; «вритти, панджи и тика» — ЧБ Ади 8.54, 10.26, 11.42;
+      комментарии к сутрам — 8.75; «грамматику преподают детям» — 12.11; изучение Веданты в Бенаресе — ЧЧ Антья 2.89;
+      школа навья-ньяи Сарвабхаумы и Рагхунатхи Широмани — Sen 1911, с. 409–410.
+    en: >-
+      Keshava Kashmiri: 'You teach the Kalapa grammar' — CC Adi 16.32; 'You study only grammar — what do You know of
+      the beauties of poetry?' — Adi 16.50–52, 16.92; 'vritti, panji and tika' — CB Adi 8.54, 10.26, 11.42;
+      commentaries on the sutras — 8.75; 'grammar is taught to children' — 12.11; Vedanta studied at Benares — CC Antya
+      2.89; the Navya-nyaya school of Sarvabhauma and Raghunatha Shiromani — Sen 1911, pp. 409–410.
+  text:
+    ru: >-
+      Учёба в толе шла ступенями. Сначала — санскритская грамматика: в Навадвипе учили по системе Калапа (Катантра) —
+      сутры, а к ним толкования-вритти и комментарии-панджи и тики, которые ученики заучивали наизусть и спорили о
+      каждом правиле. Затем — поэтика-аланкара и литература, право-смрити (как совершать обряды, что чисто и нечисто),
+      а для самых сильных — логика-ньяя: к началу XVI века новая школа ньяи сделала Навадвипу учёной столицей Индии.
+      Нимай преподавал грамматику, но, к изумлению прославленного Кешавы Кашмири, разобрал его стихи по всем правилам
+      поэтики.
+    en: >-
+      Study in the tol went by stages. First came Sanskrit grammar: in Navadvipa it was taught by the Kalapa (Katantra)
+      system — the sutras with their glosses (vritti) and commentaries (panji and tika), which students learned by
+      heart and argued over rule by rule. Then came poetics (alankara) and literature, law (smriti — how rites are done,
+      what is pure and impure), and for the ablest, logic (nyaya): by the early 16th century the new school of nyaya
+      had made Navadvipa the learned capital of India. Nimai taught grammar, yet to the amazement of the famous Keshava
+      Kashmiri He analysed his verses by every rule of poetics.
+  hagiography: ["ЧЧ Ади 16.32", "ЧЧ Ади 16.50–52", "ЧЧ Ади 16.92", "ЧБ Ади 8.54", "ЧБ Ади 8.75", "ЧБ Ади 10.26",
+                "ЧБ Ади 11.42", "ЧБ Ади 12.11", "ЧЧ Антья 2.89"]
+  sources: ["Sen 1911, с. 409–410 (навья-ньяя, толы Навадвипы)"]
+  images: []
+  game: {model: "кодекс-предмет: связка листов «Калапа-сутр» с панджи на полях", where: ["navadvipa/tol"],
+         notes: "о самом толе — mc-tol-school; о рукописях — mc-manuscript-ink"}
+
+- id: mc-scholars-debate
+  title: {ru: "Диспуты, «свиток победы» и учёные звания", en: "Debates, the 'victory scroll' and learned titles"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Школьники разных учителей спорят у каждого гхата, споры переходят в драку — ЧБ Ади 8.40–64; дигвиджайи с
+      «джая-патрой» (свиток победителя), в паланкине, со слонами и конями — ЧБ Ади 13.35–41, 13.189–190; Кешава
+      Кашмири — ЧЧ Ади 16.25–100; «тысячи бхаттачарьев» — ЧБ Ади 13.36; звания-прозвания учёных в житиях: Бхаттачарья,
+      Сарвабхаума, Видьявачаспати, Видьянидхи, Чакраварти, Ачарья, Пандит.
+    en: >-
+      Pupils of different teachers argue at every ghat and the arguments turn into fights — CB Adi 8.40–64; the
+      digvijayi with a jaya-patra (victor's scroll), in a palanquin, with elephants and horses — CB Adi 13.35–41,
+      13.189–190; Keshava Kashmiri — CC Adi 16.25–100; 'thousands of bhattacharyas' — CB Adi 13.36; scholars' titles in
+      the hagiographies: Bhattacharya, Sarvabhauma, Vidyavachaspati, Vidyanidhi, Chakravarti, Acharya, Pandita.
+  text:
+    ru: >-
+      Учёность проверяли в споре. В полдень школьники Навадвипы сходились к гхатам Ганги и вызывали друг друга
+      объяснить сутру; дело кончалось то похвалой, то потасовкой в грязи. Странствующий победитель — дигвиджайи —
+      ездил по стране в паланкине со свитой, слонами и конями и требовал от каждого города либо соперника, либо
+      «свиток победы» (джая-патру) с признанием поражения. Победы приносили звания, которые становились частью
+      имени: Бхаттачарья, Сарвабхаума («владыка всей земли» учёности), Видьявачаспати, Видьянидхи. Юный Нимай
+      победил такого дигвиджайи, Кешаву Кашмири, на берегу Ганги — и тот, смирившись, раздал свиту и богатства.
+    en: >-
+      Learning was tested in debate. At noon the schoolboys of Navadvipa gathered at the Ganga ghats and challenged one
+      another to explain a sutra; it ended now in praise, now in a scuffle in the mud. A wandering conqueror — a
+      digvijayi — toured the land in a palanquin with a retinue, elephants and horses and demanded of each town either a
+      rival or a 'victory scroll' (jaya-patra) admitting defeat. Victories brought titles that became part of a name:
+      Bhattacharya, Sarvabhauma ('lord of the whole earth' of learning), Vidyavachaspati, Vidyanidhi. Young Nimai
+      defeated such a digvijayi, Keshava Kashmiri, on the bank of the Ganga — and the humbled scholar gave away his
+      retinue and riches.
+  hagiography: ["ЧБ Ади 8.40–64", "ЧБ Ади 13.35–41", "ЧБ Ади 13.189–190", "ЧЧ Ади 16.25–100"]
+  sources: []
+  images: []
+  game: {model: "джая-патра: свиток или стопка листов с подписями побеждённых учёных; дигвиджайи в паланкине со свитой",
+         where: ["ganga-ghat", "navadvipa/tol"]}
+  todo: "значения званий (Сарвабхаума, Видьявачаспати и др.) как степеней тола — PD-источник"
+
+- id: mc-sacred-books
+  title: {ru: "Что читали: Бхагаватам, Гита-говинда, Кришна-карнамрита, пады", en: "What they read: Bhagavatam, Gita-govinda, Krishna-karnamrita, padas"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      В Пури Господь с Раманандой и Сварупой днём и ночью слушает Чандидаса, Видьяпати, «Гита-говинду»,
+      «Кришна-карнамриту» и «Джаганнатха-валлабха-натаку» — ЧЧ Мадхья 2.77, Ади 13.42, Антья 15.27, 17.6, 17.62,
+      20.67–68; девадаси поёт «Гита-говинду» на раге гуджари — Антья 13.79; Санатана с брахманами читает Бхагаватам —
+      Мадхья 19.17; младенец обнимает Бхагаватам; «он украл мою Бхагавад-гиту» — ЧБ Ади 4.53–55, 6.64.
+    en: >-
+      In Puri the Lord with Ramananda and Svarupa listens day and night to Chandidasa, Vidyapati, the Gita-govinda, the
+      Krishna-karnamrita and the Jagannatha-vallabha-nataka — CC Madhya 2.77, Adi 13.42, Antya 15.27, 17.6, 17.62,
+      20.67–68; a devadasi sings the Gita-govinda in raga gujari — Antya 13.79; Sanatana reads the Bhagavatam with
+      brahmins — Madhya 19.17; the infant embraces the Bhagavatam; 'He stole my Bhagavad-gita' — CB Adi 4.53–55, 6.64.
+  text:
+    ru: >-
+      Главной книгой вайшнавов был «Шримад-Бхагаватам»: его читали вслух и толковали в домах и при храмах, а
+      Санатана, оставив службу у султана, собрал у себя два-три десятка брахманов только для того, чтобы читать его.
+      Брахманы носили с собой «Бхагавад-гиту». Любовную поэзию о Радхе и Кришне — санскритскую «Гита-говинду» Джаядевы,
+      «Кришна-карнамриту» Билвамангалы, бенгальские песни Чандидаса и майтхильские — Видьяпати — пели под музыку:
+      «Гита-говинду» каждый вечер пели перед Джаганнатхой. В последние годы в Гамбхире Господь слушал эти стихи от
+      Сварупы Дамодары и Рамананды Рая днём и ночью.
+    en: >-
+      The Vaishnavas' chief book was the Shrimad-Bhagavatam: it was read aloud and expounded in homes and at temples,
+      and Sanatana, leaving the sultan's service, gathered twenty or thirty brahmins at his house just to read it.
+      Brahmins carried the Bhagavad-gita about with them. The love poetry of Radha and Krishna — Jayadeva's Sanskrit
+      Gita-govinda, Bilvamangala's Krishna-karnamrita, the Bengali songs of Chandidasa and the Maithili songs of
+      Vidyapati — was sung to music: the Gita-govinda was sung every evening before Jagannatha. In His last years in the
+      Gambhira the Lord heard these verses from Svarupa Damodara and Ramananda Raya day and night.
+  hagiography: ["ЧЧ Мадхья 2.77", "ЧЧ Ади 13.42", "ЧЧ Антья 13.79", "ЧЧ Антья 15.27", "ЧЧ Антья 17.6", "ЧЧ Антья 20.67–68",
+                "ЧЧ Мадхья 19.17", "ЧБ Ади 4.53–55", "ЧБ Ади 6.64"]
+  sources: []
+  images: []
+  game: {model: "кодекс: рукописи Бхагаватам (толстая связка в красной ткани), Гита-говинда (тонкая, с иллюминированными листами — ориcсская традиция)",
+         where: ["puri/gambhira", "navadvipa/shrivasa-house"],
+         notes: "«каждый вечер перед Джаганнатхой» — традиция храма (ориccкие надписи XV в. о пении Гита-говинды — проверить)"}
+  todo: "надпись Пратапарудры (1499?) о пении Гита-говинды в храме — найти PD (Hunter, Orissa 1872; Mitra, Antiquities of Orissa)"
+
+- id: mc-brahma-samhita-manuscript
+  title: {ru: "Найденные рукописи: Брахма-самхита и Кришна-карнамрита", en: "Manuscripts found: the Brahma-samhita and the Krishna-karnamrita"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      В храме Ади-Кешавы Господь находит древнюю рукопись главы «Брахма-самхиты» и делает копию — ЧЧ Мадхья 9.237–241;
+      на реке Кришна-венья списывает «Кришна-карнамриту» — 9.305–309; приносит обе книги — Мадхья 1.120; ветхие листы
+      «Курма-пураны» — снимает копию, оригинальные листы забирает — 9.208–210.
+    en: >-
+      In the temple of Adi-Keshava the Lord finds an ancient manuscript of a chapter of the Brahma-samhita and has a
+      copy made — CC Madhya 9.237–241; on the river Krishna-venya He copies the Krishna-karnamrita — 9.305–309; He
+      brings both books back — Madhya 1.120; the worn leaves of the Kurma Purana — He makes a copy and takes the
+      original leaves — 9.208–210.
+  text:
+    ru: >-
+      Книга в ту эпоху существовала лишь в рукописях, и редкий текст можно было найти только там, где его хранили и
+      переписывали. В южном путешествии Господь в храме Ади-Кешавы отыскал древнюю рукопись пятой главы «Брахма-самхиты»
+      и, ощутив великое блаженство, велел снять с неё копию; у брахманов-вайшнавов на реке Кришна-венья Он так же
+      списал «Кришна-карнамриту». Эти два списка Он нёс с Собой как величайшее сокровище и подарил бенгальским
+      вайшнавам. Переписка была единственным «изданием»: так расходились по Бенгалии и сами жития.
+    en: >-
+      A book in that age existed only in manuscript, and a rare text could be found only where it was kept and copied.
+      On His southern tour, in the temple of Adi-Keshava, the Lord found an ancient manuscript of the fifth chapter of
+      the Brahma-samhita and, feeling great bliss, had a copy made; with the Vaishnava brahmins on the Krishna-venya He
+      likewise copied the Krishna-karnamrita. These two copies He carried as His greatest treasure and gave to the
+      Vaishnavas of Bengal. Copying was the only 'edition': in this way the hagiographies themselves spread through
+      Bengal.
+  hagiography: ["ЧЧ Мадхья 9.237–241", "ЧЧ Мадхья 9.305–309", "ЧЧ Мадхья 1.120", "ЧЧ Мадхья 9.208–210"]
+  sources: []
+  images: [{file: "material-culture/img/vikramashila-1119-palm-leaf-manuscript-folio-cma.jpg", license: "CC0 1.0",
+            author: "писец Викрамашилы, 1119 г. (пальмовая рукопись — для облика)", url: "https://clevelandart.org/art/1938.301.4.a"}]
+  game: {model: "предмет-квест: ветхая пальмовая рукопись в храме Ади-Кешавы и свежая копия", where: ["south-india/adi-keshava"]}
+
+- id: mc-palm-leaf-notes
+  title: {ru: "Записка на пальмовом листе", en: "A note on a palm leaf"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рупа записывает стих на пальмовом листе и засовывает его в соломенную кровлю — ЧЧ Антья 1.80–81 (ср. Мадхья
+      1.61–66); «почерк Рупы как жемчужные ожерелья» — Антья 1.96–98; Сарвабхаума пишет две шлоки на пальмовом листе и
+      посылает Господу — Мадхья 6.250–251; письмо Рупы Санатане — Мадхья 19.32–35, 20.3. Дополняет mc-manuscript-ink.
+    en: >-
+      Rupa writes a verse on a palm leaf and tucks it into the thatched roof — CC Antya 1.80–81 (cf. Madhya 1.61–66);
+      'Rupa's handwriting is like strings of pearls' — Antya 1.96–98; Sarvabhauma writes two shlokas on a palm leaf and
+      sends it to the Lord — Madhya 6.250–251; Rupa's letter to Sanatana — Madhya 19.32–35, 20.3. Complements
+      mc-manuscript-ink.
+  text:
+    ru: >-
+      Пальмовый лист служил не только для книг, но и для записок и писем. Буквы на нём процарапывали острым железным
+      стилом и натирали сажей, или писали тростниковым пером чернилами; лист сворачивали или засовывали в щель.
+      Рупа, сочинив стих, засунул лист в соломенную кровлю своей хижины и ушёл к морю; Господь нашёл его, прочёл и
+      пришёл в восторг. Сарвабхаума отправил Господу на пальмовом листе две шлоки о Нём, а Рупа из Рамакели послал брату
+      в тюрьму письмо с известием о пути Господа.
+    en: >-
+      The palm leaf served not only for books but for notes and letters. Letters were scratched into it with a sharp iron
+      stylus and rubbed with soot, or written with a reed pen in ink; the leaf was rolled up or tucked into a crack. Rupa,
+      having composed a verse, slipped the leaf into the thatched roof of his hut and went to the sea; the Lord found
+      it, read it and was enraptured. Sarvabhauma sent the Lord two shlokas about Him on a palm leaf, and Rupa sent his
+      brother in prison a letter from Ramakeli with news of the Lord's journey.
+  hagiography: ["ЧЧ Антья 1.80–81", "ЧЧ Мадхья 1.61–66", "ЧЧ Антья 1.96–98", "ЧЧ Мадхья 6.250–251", "ЧЧ Мадхья 19.32–35", "ЧЧ Мадхья 20.3"]
+  sources: []
+  images: [{file: "material-culture/img/odisha-1700s-palm-leaf-chandrabhanu-incised-cma.jpg", license: "CC0 1.0",
+            author: "ориcсский мастер-писец, кон. XVIII в. (позднее, для облика)", url: "https://clevelandart.org/art/1979.21"}]
+  game: {model: "узкий лист пальмиры 30–40 × 4–5 см с процарапанным текстом; железное стило", where: ["puri/siddha-bakula", "puri/haridasa-hut"],
+         notes: "процарапывание стилом — ориcсская и южноиндийская техника; в Бенгалии чаще писали пером (проверить)"}
