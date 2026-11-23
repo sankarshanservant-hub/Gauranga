@@ -1056,6 +1056,84 @@ vain.” And above all: “In life only the dust of Rupa Gosvami’s feet is nee
 
 “All I need from you is that you lend me your ears,” he often told his disciples. <!-- F259 -->
 
+## Maths, Pada-pithas, Societies
+One of the biographies lists sixty-six of his maths and centres[^27]. In Mayapur — the Sri Chaitanya Math, the Yogapitha
+temple, Advaita-bhavana, Shrivasa-angana, the samadhi of Chand Kazi, the shripata of Murari Gupta, the Paravidya-pitha,
+and the school and research institute named after Bhaktivinoda. On the islands of Navadvipa and nearby — the Jayadeva
+Gaudiya Mathalaya at Shrinathpur, the Svananda-sukhada-kunja at Godruma, the Suvarna-bihara Gaudiya Math, Sri
+Kunja-kutir, Tetiya-kunja-kanan and Sri Bhagavata Asana in Krishnanagar, the Gaura-Gadadhara Math at Champahati, the
+Modadruma-chhatra at Mamgachhi, the Sarvabhauma Gaudiya Mathalaya at Vidyanagara, the Rudradvipa Gaudiya Math, the
+Ekayana Math at Govindapur, and the shripata of Mahesha Pandita at Kathalpuli (Chakdaha). In Calcutta — the Sri Gaudiya
+Math at Bagbazar. In Bengal and Assam — the Madhva Gaudiya Math, the Gopalji Math at Kamalapur and the Gadai-Gauranga
+Math at Baliati (Dhaka), the Jagannatha Gaudiya Math in Mymensingh, prapannashramas at Amlajora, Brahmanpara (Howrah)
+and Goalpara, and maths at Dumurkonda, Chirulia, Amarshi, Darjeeling, Ranaghat, Punra (24 Parganas) and Sarbhog. In
+Orissa — the Sri Purushottama Math at Chataka-parvata, Bhakti-kuti by Svargadvara, the Tridandi Gaudiya Math in
+Bhubaneshvar, the Brahma Gaudiya Math at Alalanatha, the Sachchidananda Math in Cuttack and the Baleshvar Gaudiya Math.
+In the South — the Ramananda Gaudiya Math at Kovvur and the Madras Gaudiya Math at Royapettah. In the North — maths in
+Patna, Danapur and Gaya, the Sanatana Gaudiya Math in Benares, the Rupa Gaudiya Math in Allahabad, the Paramahamsa Math
+and the Bhagavata Pathashala in Naimisharanya, the Vyasa Gaudiya Math at Kurukshetra, the Sarasvata Gaudiya Math in
+Hardvar, the Sri Krishna-Chaitanya Math in Vrindavana, the Mathura Gaudiya Mathalaya by Vishram Ghat, at Radha-kunda the
+Kunja-bihari Math, the Vraja-Svananda-sukhada-kunja and Goshthabati, the Sanketa-bihari Math and another centre at
+Varshana, a centre at Nandagrama, the Goshtha-bihari Math at Sheshashayi, the Delhi Gaudiya Math and the Bombay Gaudiya
+Math. Outside India — the London Gaudiya Math at Gloucester House and a centre in Rangoon. <!-- F235 -->
+
+Memorials of Mahaprabhu’s footprints, according to the same biography, were set up at Mandara (13 October 1929), Kanai
+Natshala (15 October 1929), Jajpur (25 December 1930), Kurmakshetra (26 December), Simhachalam (27 December), Kovvur
+(29 December), Mangalagiri (31 December 1930) and Chhatrabhoga (2 April 1934). <!-- F236 -->
+
+He also founded societies and institutions: the Sri Bhaktivinoda Asana (Calcutta, November 1918); the Sri
+Vishva-vaishnava-raja-sabha, founded by Rupa and Sanatana and restored by him on 5 February 1919; the Sri Sarasvata Asana
+(July 1924); the “Gaudiya Sampadaka Sangha,” the editorial board of the “Gaudiya” (15 August 1925); the “Nikhila
+Vaishnava Sammilani,” the All-Vaishnava Conference (18 March 1927; thereafter annually at Gaura-purnima in Mayapur); the
+nine-day “Paramarthika Alochana Sammilani,” a conference for the discussion of spiritual questions (from 24 October 1930,
+Calcutta Gaudiya Math); the “London Gaudiya Mission Society” (24 April 1934, chaired by Lord Zetland); the “Sri
+Vraja-dhama-pracharini Sabha” (9 October 1935, Radha-kunda); the “Bhaktivinoda Research Institute” and the
+“Daiva-varnashrama Sangha” (12 February 1936, Mayapur). <!-- F237 -->
+
+## Disciples
+Among his disciples was Srila Bhakti Rakshaka Sridhar Maharaj. He received initiation in 1927, and in 1930 sannyasa with
+the name “Bhakti Rakshaka,” “guardian of bhakti.” Having read his Sanskrit verses in glorification of Bhaktivinoda,
+Srila Bhaktisiddhanta said that now he was at peace: after his departure at least one would remain who could represent
+his conclusions — *bhakti-siddhanta*; he also gave him the title *shastra-nipuna*, “expert in the shastras.” <!-- F259 -->
+
+Srila Bhakti Pramoda Puri Maharaja first came to him as a young man in 1915, at the Yogapitha, on the day after Srila
+Gaurakishora’s departure; he received harinama and diksha with the name Pranavananda Brahmachari and for thirteen years
+served his guru personally, recording his lectures and talks. Srila Bhaktisiddhanta said of him: “His life is one with
+his words.” One of his closest disciples was Srila Bhakti Dayita Madhava Gosvami Maharaja. To Goalpara Srila
+Bhaktisiddhanta came only once, and then told his disciples Radha Mohan Prabhu and Nimananda Prabhu to found the
+“Prapannashrama” on Hulukanda hill. Among his disciples were also Akinchana Krishnadasa Babaji, Bhakti Hridaya Bon
+Maharaja and Srila A. C. Bhaktivedanta Svami, who later carried his message to the whole world. <!-- F259 -->
+
+## After His Departure
+A few days after his departure a dispute over the leadership of the mission arose among his disciples; the matter went
+to the High Court of Calcutta, and the maths were divided. <!-- F260 -->
+
+His disciples carried on his work. Srila Bhakti Dayita Madhava Gosvami bought the land and houses at the place of his
+appearance in Puri and restored it; he was also the chief organiser of the all-India celebration of his guru’s
+centenary. The centenary celebration was opened in Mayapur on 22 February 1973 by the Governor of Orissa, B. D. Jatti[^29].
+Earlier, on 7 February 1969, Sripad Bhakti Vilasa Tirtha Maharaja had performed the Vyasa-puja carrying his guru’s
+padukas on his head. The pada-pithas that Srila Bhaktisiddhanta did not live to set up — at Tirupati, Shrirangam and
+Udupi — were set up by Bhakti Vilasa Tirtha (in 1958 and 1965). Srila Bhaktisiddhanta himself had visited Udupi more than
+once, gathered the literature of the Madhva-sampradaya there, and appointed a svami from there to teach in Mayapur.
+<!-- F250 F267 F266 -->
+
+## Significance
+Mahaprabhu foretold: “In every town and village throughout the world My holy name will be sung” (“Chaitanya-bhagavata,”
+Antya 4.126). Srila Bhaktisiddhanta began to fulfil this prophecy: he made the Gaudiya Vaishnava faith known throughout
+the world, and so today hundreds of Gaudiya Maths, places of puja and pathas stand all over the world. One of the
+biographies says that history knows no other preacher who in his own lifetime spread the teaching so widely.
+<!-- Q12 F195 F198 -->
+
+He was revered even by those far from the Vaishnava tradition. Rabindranath Tagore honoured him as a great sadhu.
+Pandita Madan Mohan Malaviya said: “To see so great a personality as Sarasvati Thakura is truly a blessing for me; I
+believe that he alone will spread the religion of bhakti throughout the world.” The great leaders of the country too —
+Dr. Rajendra Prasad and Sri Subhas Chandra Bose — came to hear him speak of God. <!-- F196 F197 -->
+
+Yet he himself wished for one thing only — to be dust at the feet of Sri Rupa and his followers. In him learning and
+renunciation, fearlessness in defending the truth and the humility of a servant came together; appearing in Puri, where
+Mahaprabhu kept the treasure of prema, he carried that treasure to Mayapur and gave it to the whole world.
+<!-- I1 I5 F253 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -1137,3 +1215,4 @@ vain.” And above all: “In life only the dust of Rupa Gosvami’s feet is nee
 [^28]: The biography does not name the source of the couplet; it is not found in the “Chaitanya-charitamrita” or the
     “Chaitanya-bhagavata.” In sense it conveys the thought of “Bhagavatam” 1.1.2: this book wholly rejects every
     deceitful religion.
+[^29]: According to another biography, the all-India centenary celebration took place in 1974.
