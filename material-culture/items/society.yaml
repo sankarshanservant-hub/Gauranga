@@ -284,3 +284,151 @@
   images: []
   game: {model: "золотая монета Ø ок. 2 см с арабской надписью, завязанная в узелок на поясе дхоти", where: ["road-to-vrindavan/patara-hills"]}
   todo: "вес толы в Бенгалии XVI в. (позднее 180 гран ≈ 11,66 г) — проверить для эпохи"
+
+- id: mc-prices
+  title: {ru: "Что сколько стоило", en: "What things cost"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Прасад Джаганнатхи на обед для 2–3 человек — «две паны каури» (160 раковин), сначала — 320 — ЧЧ Антья 8.38,
+      8.85–86, 10.154–156; брахману или санньяси подают «пять ганд» (20 каури) — Антья 9.40; хворост в Матхуре — 5–6
+      *пайаса̄* за вязанку, жареный нут — на одну пайсу — Мадхья 25.197–198; бутанское покрывало (*бхот̣а*) — «три
+      *мудра̄*» — Мадхья 20.92; торговцы приносят на праздник в Панихати чиду, дадхи, сандеш и бананы, Рагхунатха
+      скупает всё «за полную цену» — Антья 6.91–92. Мукундарам (ок. 1590-х): при притеснениях «вещь ценой в рупию
+      продавали за десять ан» — Sen 1911, с. 337.
+    en: >-
+      Jagannatha prasada for a meal for 2–3 people — 'two panas of cowries' (160 shells), formerly 320 — CC Antya 8.38,
+      8.85–86, 10.154–156; a brahmin or sannyasi is given 'five gandas' (20 cowries) — Antya 9.40; firewood in Mathura
+      — 5–6 paisa a bundle, roasted chickpeas — one paisa — Madhya 25.197–198; a Bhutanese blanket (bhota) — 'three
+      mudras' — Madhya 20.92; vendors bring chida, curd, sandesh and bananas to the Panihati festival and Raghunatha
+      buys everything 'at full price' — Antya 6.91–92. Mukundaram (c. 1590s): under oppression 'things worth a rupee
+      were sold for ten annas' — Sen 1911, p. 337.
+  text:
+    ru: >-
+      Жития сохранили несколько настоящих цен. В Пури, приглашая Господа на обед, вайшнав покупал храмового прасада на
+      две паны каури — 160 раковин, и этого хватало на двоих-троих. Обычная милостыня брахману или санньяси — пять
+      ганд, то есть двадцать каури. Вязанка хвороста в Матхуре стоила пять-шесть медных пайс, а горсть жареного нута на
+      обед — одну пайсу. Хорошее шерстяное покрывало из Бхутана стоило уже три серебряные монеты — слишком дорого для
+      аскета, и Господь дал понять Санатане, что такая вещь ему не к лицу.
+    en: >-
+      The hagiographies preserve a few real prices. In Puri, inviting the Lord to a meal, a Vaishnava bought temple
+      prasada for two panas of cowries — 160 shells — and it was enough for two or three people. The usual alms for a
+      brahmin or sannyasi was five gandas, that is twenty cowries. A bundle of firewood in Mathura cost five or six
+      copper paisa, and a handful of roasted chickpeas for a meal one paisa. A good woollen blanket from Bhutan cost
+      as much as three silver coins — too dear for an ascetic, and the Lord let Sanatana understand it did not suit him.
+  hagiography: ["ЧЧ Антья 8.38", "ЧЧ Антья 8.85–86", "ЧЧ Антья 10.154–156", "ЧЧ Антья 9.40", "ЧЧ Мадхья 25.197–198",
+                "ЧЧ Мадхья 20.92", "ЧЧ Антья 6.91–92"]
+  sources: ["Sen 1911, с. 337 (Мукундарам: рупия «короче» на 2½ аны; вещи за рупию — по 10 ан)",
+            "Bose 1881, с. 75 (кон. XVIII в.: семья, тратившая на рынке 16–18 кахан каури ≈ рупию в день, считалась очень почтенной) — через research/pd-texts.md"]
+  images: []
+  game: {model: "лоток прасада у храма: горшочки, счёт каури на циновке; табличка цен для игрока (каури / пайса / тангка)",
+         where: ["puri/market", "navadvipa/market"], notes: "шкала каури — mc-cowrie-money; серебро — mc-silver-taka"}
+
+- id: mc-moneylender
+  title: {ru: "Меняла, ростовщик и деньги «на хранении»", en: "Money-changer, moneylender and money 'in safekeeping'"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Рупа оставляет 10 000 *мудра̄* у бенгальского торговца (*ба̄н̣ийа̄*) — ЧЧ Мадхья 19.9, 19.34; часть богатства — у
+      «почтенного брахмана» — 19.8; Субуддхи Рай хранит пайсы у торговца — Мадхья 25.198. Мукундарам (ок. 1590-х):
+      меняла Мурари «давал в долг и вёл счета», взвешивает кольцо на весах; ростовщики «стали жестоки, каждая рупия
+      была короче на 2½ аны» — Sen 1911, с. 337, 353–357.
+    en: >-
+      Rupa leaves 10,000 mudras with a Bengali merchant (baniya) — CC Madhya 19.9, 19.34; part of the wealth with 'a
+      respectable brahmin' — 19.8; Subuddhi Raya keeps his paisa with a merchant — Madhya 25.198. Mukundaram (c. 1590s):
+      the money-changer Murari 'used to lend money and keep accounts' and weighs a ring on his scales; the
+      moneylenders 'became exacting, each rupee was short by 2½ annas' — Sen 1911, pp. 337, 353–357.
+  text:
+    ru: >-
+      Банков не было, но были купцы-бания и менялы, которые меняли серебро на каури, давали в долг под процент и брали
+      деньги на хранение. Рупа, уходя к Господу, оставил у знакомого купца десять тысяч монет для брата, и Санатана
+      выкупил ими свободу. Старый Субуддхи Рай, продавая хворост в Матхуре, тратил на еду одну пайсу, а остальное
+      складывал у торговца. Поэт Мукундарам описал менялу Мурари, который, завидев кредитора, прятался во внутренних
+      покоях, а при злом правителе ростовщики так обирали людей, что рупия «теряла» две с половиной аны.
+    en: >-
+      There were no banks, but there were baniya merchants and money-changers who changed silver into cowries, lent at
+      interest and took money into safekeeping. Rupa, leaving for the Lord, left ten thousand coins for his brother
+      with a merchant he knew, and with them Sanatana bought his freedom. Old Subuddhi Raya, selling firewood in
+      Mathura, spent one paisa on food and left the rest with a trader. The poet Mukundaram described the
+      money-changer Murari, who hid in his inner rooms on seeing a creditor, and under a harsh governor the
+      moneylenders fleeced people so that a rupee 'lost' two and a half annas.
+  hagiography: ["ЧЧ Мадхья 19.8–9", "ЧЧ Мадхья 19.34", "ЧЧ Мадхья 25.198"]
+  sources: ["Sen 1911, с. 337, 353–357 (Мукундарам, «Чанди-мангал»: меняла Мурари, ростовщики)"]
+  images: []
+  game: {model: "лавка менялы: низкий помост, коромысловые весы, гирьки-рати (семена абруса), мешочки каури, счётная книга",
+         where: ["navadvipa/market"]}
+
+- id: mc-hat-market
+  title: {ru: "Рынок-хат и базар", en: "The hat and the bazaar"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мадхавендра Пури сидит на «опустевшем базаре» в Ремуне, пуджари ищет его на рынке — ЧЧ Мадхья 4.125–132; торговцы
+      окрестных деревень сходятся продавать на праздник в Панихати — Антья 6.91–92; лавочники Пури выносят корзины
+      прасада — Антья 11.75–76; кварталы Навадвипы, в т. ч. Хат-данга («рыночный холм») и Чампахати — Sen 1911,
+      с. 409–410 (по «Бхакти-ратнакаре», XVIII в.).
+    en: >-
+      Madhavendra Puri sits in the 'empty bazaar' at Remuna, and the priest looks for him in the market — CC Madhya
+      4.125–132; traders from nearby villages come to sell at the Panihati festival — Antya 6.91–92; Puri shopkeepers
+      bring out baskets of prasada — Antya 11.75–76; the wards of Navadvipa including Hat-danga ('market hill') and
+      Champahati — Sen 1911, pp. 409–410 (after Bhakti-ratnakara, 18th c.).
+  text:
+    ru: >-
+      В деревнях торговали на хате — рынке под открытым небом, который собирался в определённые дни недели на
+      поляне или под большим деревом; в городах был постоянный базар с лавками. Крестьяне приносили рис, овощи, рыбу,
+      гончары — горшки, ткачи — ткани, и почти всё покупали за каури. К вечеру базар пустел: на таком опустевшем
+      базаре в Ремуне сидел Мадхавендра Пури, когда пуджари принёс ему кхиру, которую Гопинатха «украл» для него.
+      Слух о празднике мгновенно собирал торговцев: в Панихати они пришли с чидой, простоквашей и сладостями.
+    en: >-
+      In villages trade went on at the hat — an open-air market held on fixed days of the week in a clearing or under a
+      big tree; towns had a standing bazaar with shops. Peasants brought rice, vegetables and fish, potters their pots,
+      weavers their cloth, and nearly everything was bought with cowries. By evening the bazaar emptied: in such an
+      empty bazaar at Remuna sat Madhavendra Puri when the priest brought him the khira that Gopinatha had 'stolen' for
+      him. News of a festival brought traders at once: at Panihati they came with chida, curd and sweets.
+  hagiography: ["ЧЧ Мадхья 4.125–132", "ЧЧ Антья 6.91–92", "ЧЧ Антья 11.75–76"]
+  sources: ["Sen 1911, с. 409–410 (кварталы Навадвипы)"]
+  images: [{file: "material-culture/img/solvyns-1799-market-scene-calcutta.jpg", license: "PD (Public Domain Mark 1.0)",
+            author: "F. B. Solvyns, 1799 (Калькутта — позднее, для облика)", url: "https://wellcomecollection.org/works/sdf7rm8x"}]
+  game: {model: "хат: навесы на четырёх бамбуковых столбах, товар на циновках и листьях, корзины на коромыслах; большой баньян посередине",
+         where: ["navadvipa/market"], notes: "о ремесленниках — mc-navadvipa-crafts"}
+  todo: "дни хата в Надии — PD (Hunter 1875)"
+
+- id: mc-river-trade
+  title: {ru: "Торговля по Ганге: купеческие суда", en: "Trade on the Ganga: merchant vessels"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      «Манаса-мангал» Виджая Гупты (1494): семь кораблей купца Чанда во главе с «Мадхукаром» ходят до Цейлона, торговля
+      меновая — Sen 1911, с. 260–262; Сен упоминает у Мукундарама «длинный каталог груза» корабля Дханапати (не приводя его) — Sen 1911, с. 327–328.
+      Мусульманский правитель даёт Господу «множество украшенных судов» и десять лодок охраны, судно с каютой
+      посередине доходит до Панихати, Господь дарит накидку «капитану» — ЧЧ Мадхья 16.194–202; Рупа везёт богатство
+      домой на лодке — Мадхья 19.6.
+    en: >-
+      Vijaya Gupta's Manasa-mangala (1494): the merchant Chand's seven ships led by the 'Madhukar' sail as far as Ceylon,
+      trading by barter — Sen 1911, pp. 260–262; Sen mentions Mukundaram's 'long catalogue of the cargo' of Dhanapati's ship (without giving it) — Sen
+      1911, pp. 327–328. A Muslim governor gives the Lord 'many decorated vessels' and ten guard boats; a boat with a
+      cabin amidships reaches Panihati and the Lord gives His cloth to the 'captain' — CC Madhya 16.194–202; Rupa takes
+      his wealth home by boat — Madhya 19.6.
+  text:
+    ru: >-
+      Ганга и её рукава были главной дорогой Бенгалии. По ним ходили большие гружёные суда купцов с рисом, тканями,
+      солью, сахаром и пряностями, а поэты того времени воспевали купцов, плававших на семи кораблях до самого
+      Цейлона. Богатые и знатные ездили в лодках с каютой посередине, а опасные места проходили с охраной: однажды
+      правитель-мусульманин провожал Господа с десятью лодками воинов, опасаясь речных разбойников. На такой лодке
+      Махапрабху доплыл до Панихати и подарил кормчему свою накидку.
+    en: >-
+      The Ganga and its branches were Bengal's main road. Big laden merchant vessels plied them with rice, cloth, salt,
+      sugar and spices, and the poets of the day sang of merchants who sailed with seven ships as far as Ceylon. The
+      rich and noble travelled in boats with a cabin amidships, and dangerous stretches were passed under guard: once a
+      Muslim governor escorted the Lord with ten boats of soldiers, fearing river pirates. In such a boat Mahaprabhu
+      sailed as far as Panihati and gave the helmsman His own cloth.
+  hagiography: ["ЧЧ Мадхья 16.194–202", "ЧЧ Мадхья 19.6"]
+  sources: ["Sen 1911, с. 260–262 («Манаса-мангал», 1494: корабли Чанда), 327–328 (Мукундарам: груз и плавание Дханапати)"]
+  images: []
+  game: {model: "грузовое речное судно 15–20 м: высокая корма с рулевым веслом, плетёная каюта-навес, прямой парус, гребцы",
+         where: ["ganga-ghat", "panihati"], notes: "лодки разных типов — mc-boat-types (transport.yaml)"}
+  todo: "каталог груза Дханапати (Мукундарам) — выписать по Sen 1911, с. 327–328, или по Sen, Bengali Ramayanas/Folk-literature"

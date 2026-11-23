@@ -260,3 +260,214 @@
   sources: []
   images: []
   game: {model: "гавиал 4–5 м с узким рылом; магар 3–4 м; на песчаной отмели", where: ["ganga-ghat"]}
+
+- id: mc-snakes
+  title: {ru: "Змеи", en: "Snakes"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Младенец Нимай хватает заползшую в дом змею и ложится на её кольца — ЧБ Ади 4.66–69; ядовитая змея в пещере
+      Харидаса — ЧБ Ади 16.183–185; поклонение Вишахари (богине змей) в Навадвипе — ЧБ Ади 2.65; Чайтанья дас «играл
+      со змеями» — ЧЧ Ади 11.20, ЧБ Антья 5.725. Манаса как богиня змей — эпоха («Манаса-мангала» Випрадаса, 1495).
+    en: >-
+      Baby Nimai grabs a snake that crawled into the house and lies on its coils — CB Adi 4.66–69; the venomous snake in
+      Haridasa's cave — CB Adi 16.183–185; worship of Vishahari (the snake goddess) in Navadvipa — CB Adi 2.65;
+      Chaitanya dasa "played with snakes" — CC Adi 11.20, CB Antya 5.725. Manasa as snake goddess — of the period
+      (Vipradasa's Manasa-mangala, 1495).
+  text:
+    ru: >-
+      В Бенгалии много змей — кобры (гокхуро, с «очками» на капюшоне), крайты, гадюки, а в сезон дождей, когда
+      поля залиты водой, они заползают в сухие дома и кладовые. Однажды змея вползла и в дом Мишры; ползавший по полу
+      малыш Нимай схватил её, а когда она свернулась кольцами, улёгся на неё, как на ложе, — домашние кричали от
+      ужаса, а Он улыбался, словно Вишну на змее Ананте. Многие жители Навадвипы поклонялись богине змей Вишахари
+      (Манасе), прося защиты от укусов; вайшнавы же искали защиты у Самого Господа.
+    en: >-
+      Bengal has many snakes — cobras (gokhuro, with "spectacles" on the hood), kraits and vipers — and in the rains,
+      when the fields are flooded, they creep into dry houses and storerooms. Once a snake crept into Mishra's house;
+      little Nimai, crawling on the floor, seized it, and when it coiled up He lay down on it as on a bed — the household
+      screamed in terror, while He smiled, like Vishnu upon the serpent Ananta. Many people of Navadvipa worshipped the
+      snake goddess Vishahari (Manasa), asking protection from bites; the Vaishnavas sought protection from the Lord
+      Himself.
+  hagiography: ["ЧБ Ади 4.66–69", "ЧБ Ади 16.183–185", "ЧБ Ади 2.65", "ЧЧ Ади 11.20", "ЧБ Антья 5.725"]
+  sources: ["Dutt 1877, с. 278 (Serpent poison — змеиный яд в лекарствах)"]
+  images: []
+  game: {model: "кобра 1,5 м с раскрытым капюшоном; свёрнутая кольцами змея на глиняном полу",
+         where: ["mishra-house/courtyard", "navadvipa/fields"]}
+
+- id: mc-koel
+  title: {ru: "Кукушка-кокила", en: "The koel (kokila)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Голос Господа «превосходит пение кукушки» и «заставляет её стыдиться» — ЧЧ Ади 4.259, Антья 17.41; кукушки поют на
+      пятой ноте при виде Господа во Вриндаване — ЧЧ Мадхья 17.199; «кукушки вкушают манго, вороны — плоды нима» — ЧЧ
+      Мадхья 8.257; кукушки в садах Пури — ЧЧ Антья 19.80; весенняя кокила у Карнапуры (2.35, 9.30, 9.45).
+    en: >-
+      The Lord's voice "surpasses the cuckoo's song" and "shames it" — CC Adi 4.259, Antya 17.41; cuckoos sing in the
+      fifth note at the sight of the Lord in Vrindavana — CC Madhya 17.199; "cuckoos eat mangoes, crows eat neem fruit" —
+      CC Madhya 8.257; cuckoos in the gardens of Puri — CC Antya 19.80; the spring kokila in Karnapura (2.35, 9.30, 9.45).
+  text:
+    ru: >-
+      Кокила (Eudynamys scolopaceus, бенг. кокил) — певчая птица весны. Самец иссиня-чёрный с красным глазом, самка
+      бурая в белых крапинах; сами они почти не видны в листве манго, но их звонкое, всё нарастающее «ку-у, ку-у»
+      слышно по всей деревне с конца зимы до дождей. Кукушка подкладывает яйца в гнёзда ворон — отсюда пословица о
+      кукушке, вскормленной вороной. Для поэтов её голос — мерило сладости: голос Махапрабху «заставлял стыдиться
+      кукушку», а по слову Махапрабху, преданные подобны кукушкам, что вкушают побеги манго, тогда как вороны клюют
+      горькие плоды нима.
+    en: >-
+      The kokila (Eudynamys scolopaceus, Bengali kokil) is the songbird of spring. The male is blue-black with a red
+      eye, the female brown with white spots; they are hardly seen in the mango leaves, but their ringing, ever-rising
+      "ku-oo, ku-oo" is heard all over the village from late winter to the rains. The koel lays its eggs in crows' nests
+      — hence the saying of the cuckoo raised by a crow. For poets its voice is the measure of sweetness: Mahaprabhu's
+      voice "put the cuckoo to shame", and in Mahaprabhu's words devotees are like cuckoos tasting mango shoots, while
+      crows peck the bitter fruit of the neem.
+  hagiography: ["ЧЧ Ади 4.234", "ЧЧ Ади 4.259", "ЧЧ Антья 17.41", "ЧЧ Мадхья 8.257", "ЧЧ Мадхья 17.199", "ЧЧ Антья 19.80",
+                "Лочан, Шеша-кханда, ч. 4, ст. 256", "Карнапура, сарга 2.35, 9.30, 9.45"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "птица 40 см: самец чёрный с красным глазом, самка бурая в крапинах; в кроне манго",
+         where: ["mishra-house/backyard"], notes: "звуковой фон весны (фалгун–чайтра); запись — research/audio.md"}
+
+- id: mc-peacock
+  title: {ru: "Павлин", en: "The peacock"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Павлины танцуют перед Господом во Вриндаване; синие шеи павлинов напомнили Ему Кришну, и Он упал без чувств — ЧЧ
+      Мадхья 17.199, 17.217–218; павлины Джхарикханды — 17.44; опахало из павлиньих перьев за царём, Мукунда падает от
+      любви при виде перьев — ЧЧ Мадхья 15.122–123; павлинье перо Кришны — постоянно.
+    en: >-
+      Peacocks dance before the Lord in Vrindavana; their blue necks remind Him of Krishna and He falls unconscious — CC
+      Madhya 17.199, 17.217–218; peacocks of Jharikhanda — 17.44; a peacock-feather fan behind the king, Mukunda faints
+      with love at the sight — CC Madhya 15.122–123; Krishna's peacock feather — everywhere.
+  text:
+    ru: >-
+      Павлин (Pavo cristatus, бенг. мор, санскр. маюра) — птица Кришны: Он носит павлинье перо в волосах. Павлины водятся в
+      лесах Ориссы и западной Бенгалии и особенно громко кричат пронзительным «мэ-ао» перед грозой, а с первыми тучами
+      раскрывают хвосты и танцуют. Во Вриндаване павлины плясали перед Махапрабху, и, увидев их синие шеи, похожие цветом
+      на Кришну, Он упал без чувств. Из перьев делали опахала для царей и Божеств — однажды при виде такого опахала
+      врач Мукунда упал в экстазе.
+    en: >-
+      The peacock (Pavo cristatus, Bengali mor, Sanskrit mayura) is Krishna's bird: He wears its feather in His hair.
+      Peafowl live in the forests of Orissa and western Bengal and cry their piercing "may-awe" loudest before a storm;
+      with the first clouds they spread their tails and dance. In Vrindavana peacocks danced before Mahaprabhu, and
+      seeing their blue necks, the colour of Krishna, He fell unconscious. Feathers made fans for kings and Deities — once
+      at the sight of such a fan the physician Mukunda fell in ecstasy.
+  hagiography: ["ЧЧ Мадхья 17.44", "ЧЧ Мадхья 17.199", "ЧЧ Мадхья 17.217–218", "ЧЧ Мадхья 15.122–123", "ЧЧ Антья 15.67",
+                "ЧЧ Мадхья 14.204"]
+  sources: []
+  images: []
+  audio: [{file: "material-culture/audio/peafowl-pavo-cristatus-call.ogg", license: "PD", author: "Gypsypkd (Wikimedia Commons)",
+           url: "https://commons.wikimedia.org/wiki/File:Indian_Peafowl.ogg"}]
+  game: {model: "павлин 1–1,2 м (хвост-шлейф до 1,5 м), синяя шея; павлиниха бурая", where: ["vrindavan", "travel/jharikhanda"]}
+  todo: "Мукунда в ЧЧ Мадхья 15.122 — врач Мукунда (царский лекарь), проверить"
+
+- id: mc-parrots-mynas
+  title: {ru: "Попугаи-шука и майны-шари", en: "Shuka parrots and shari mynas"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Попугаи шука и шари, кукушки и шмели вели между собой беседу» в саду Пури — ЧЧ Антья 19.80; попугаи поют при виде
+      Господа и вновь улетают на ветку — ЧЧ Мадхья 17.199, 17.217; «как попугай, повторяю Твои наставления» (Рамананда) —
+      ЧЧ Мадхья 8.121; говорящие птицы в доме — Карнапура 9.83, 9.94; кукушки, павлины, «сарики», попугаи — Лочан,
+      Мадхья 4.53.
+    en: >-
+      "Shuka and shari parrots, cuckoos and bees conversed with one another" in the garden in Puri — CC Antya 19.80;
+      parrots sing at the sight of the Lord and fly back to the branch — CC Madhya 17.199, 17.217; "like a parrot I repeat
+      Your teachings" (Ramananda) — CC Madhya 8.121; talking birds in the house — Karnapura 9.83, 9.94; cuckoos, peacocks,
+      "sarikas", parrots — Lochana, Madhya 4.53.
+  text:
+    ru: >-
+      Зелёный попугай-шука (Psittacula, бенг. тия) с красным клювом стаями кричит над садами и грабит манго, а
+      чёрно-бурая майна-шари (бенг. шалик) с жёлтыми «очками» важно расхаживает по двору. Обеих птиц держат в
+      бамбуковых клетках и учат говорить — чаще всего святые имена: «Радхе-Кришна», «Хари бол». В играх Кришны во
+      Вриндаване попугай Дакша и майна спорят, кто лучше — Кришна или Радха, и эти пары птиц стали образом
+      вайшнавской поэзии. В саду у моря Махапрабху слышал, как шука и шари ведут меж собой беседу, словно во Вриндаване.
+    en: >-
+      The green shuka parrot (Psittacula, Bengali tiya) with its red beak screeches in flocks over the orchards and
+      raids the mangoes, while the dark-brown shari myna (Bengali shalik) with yellow "spectacles" struts about the
+      yard. Both birds are kept in bamboo cages and taught to talk — most often the holy names: "Radhe-Krishna", "Hari
+      bol". In Krishna's Vrindavana pastimes a parrot and a myna argue whether Krishna or Radha is greater, and these
+      bird pairs became an image of Vaishnava poetry. In the garden by the sea Mahaprabhu heard the shuka and shari
+      conversing as in Vrindavana.
+  hagiography: ["ЧЧ Антья 19.80", "ЧЧ Мадхья 17.199", "ЧЧ Мадхья 17.217", "ЧЧ Мадхья 8.121", "Лочан, Мадхья-кханда, ч. 4, ст. 53",
+                "Карнапура, сарга 9.83, 9.94"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "кольчатый попугай 40 см (зелёный, красный клюв); майна 23 см (бурая, жёлтые клюв и кожа у глаза); бамбуковая клетка",
+         where: ["mishra-house/courtyard", "puri/garden"],
+         notes: "говорящая птица в клетке — интерактивный предмет (повторяет имя); держали ли птиц в доме Мишры — не засвидетельствовано"}
+  todo: "найти в житиях домашнюю говорящую птицу (ЧБ? Нароттама-виласа?); имя попугая Дакша — по «Говинда-лиламрите», уточнить"
+
+- id: mc-water-birds
+  title: {ru: "Водные птицы: чакравака, журавль-сарас, цапли, хамса", en: "Water birds: chakravaka, sarus crane, herons, hamsa"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Пары чакравак появляются из воды в видении Господа — ЧЧ Антья 18.95; ожерелье Кришны — «вереница белых цапель/
+      журавлей под тучей» — ЧЧ Мадхья 21.109, Антья 15.66; «цапля среди лебедей» — ЧЧ Антья 5.129, 7.98; «цапля
+      пребывает в созерцании» (о лжеаскетах) — Лочан, Мадхья 2.169; святые у Ганги как пчёлы, лебеди и утки — ЧЧ Ади 2.2.
+    en: >-
+      Pairs of chakravakas rise from the water in the Lord's vision — CC Antya 18.95; Krishna's necklace — "a line of
+      white cranes/herons under a cloud" — CC Madhya 21.109, Antya 15.66; "a heron among swans" — CC Antya 5.129, 7.98;
+      "the heron is ever in meditation" (of false ascetics) — Lochana, Madhya 2.169; saints by the Ganga like bees,
+      swans and ducks — CC Adi 2.2.
+  text:
+    ru: >-
+      Над старицами и рисовыми полями Бенгалии всегда кружат водные птицы. Белые цапли (бак) неподвижно стоят в воде,
+      высматривая рыбу, — поговорка называет их притворщиками, «погружёнными в созерцание». Огненно-рыжие утки-чакраваки
+      (Tadorna ferruginea) прилетают на зиму и держатся парами; по поверью, ночью супруги разлучаются и перекликаются до
+      утра — поэтому чакравака стала образом любящих в разлуке. Огромный серый журавль-сарас с красной головой танцует
+      парой на полях, а хамса — белый гусь-лебедь — у поэтов умеет отделять молоко от воды.
+    en: >-
+      Water birds always circle over the old river-beds and rice fields of Bengal. White egrets (bak) stand motionless
+      in the water watching for fish — the proverb calls them hypocrites "sunk in meditation". Flame-coloured ruddy
+      shelducks, the chakravakas (Tadorna ferruginea), come for the winter and keep in pairs; by belief the mates are
+      parted at night and call to each other till dawn — so the chakravaka became the image of lovers in separation. The
+      huge grey sarus crane with its red head dances in pairs in the fields, and the hamsa — the white swan-goose — in
+      poetry can separate milk from water.
+  hagiography: ["ЧЧ Антья 18.95", "ЧЧ Мадхья 21.109", "ЧЧ Антья 15.66", "ЧЧ Антья 17.43", "ЧЧ Антья 5.129", "ЧЧ Антья 7.98",
+                "ЧЧ Ади 2.2", "Лочан, Мадхья-кханда, ч. 2, ст. 169"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "белая цапля 90 см на мелководье; пара рыжих уток; журавль-сарас 1,5 м", where: ["mishra-house/pond", "navadvipa/fields", "ganga-ghat"]}
+
+- id: mc-crow-kite-owl
+  title: {ru: "Ворона, коршун, сова", en: "Crow, kite and owl"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Он превратил ворону в Гаруду» (Сарвабхаума о себе) — ЧЧ Мадхья 12.182; вороны клюют плоды нима — ЧЧ Мадхья
+      8.257; «как совам нестерпим свет солнца» — ЧЧ Ади 3.85. Коршуны над рынками и гхатами — общее наблюдение
+      (в житиях пока не найдены).
+    en: >-
+      "He turned a crow into Garuda" (Sarvabhauma of himself) — CC Madhya 12.182; crows peck neem fruit — CC Madhya
+      8.257; "as owls cannot bear the sunlight" — CC Adi 3.85. Kites over markets and ghats — general observation (not
+      yet found in the texts).
+  text:
+    ru: >-
+      Серошейная ворона (бенг. каак) — самая шумная соседка бенгальского двора: она ворует всё, что оставлено без
+      присмотра, каркает на крышах с рассвета и, по поверью, карканьем возвещает о гостях. В житиях ворона — образ
+      низкого и непреданного: Сарвабхаума Бхаттачарья говорил, что Махапрабху превратил ворону в Гаруду, царя птиц.
+      Над рынками и гхатами парят чёрные коршуны (чил), выхватывая куски на лету, а по ночам ухают маленькие пятнистые
+      совы (печа) — сова не выносит солнца, как неверующий не выносит истины.
+    en: >-
+      The house crow (Bengali kak) is the noisiest neighbour of a Bengali yard: it steals anything left unwatched,
+      caws on the roofs from dawn and, by belief, announces guests with its cawing. In the hagiographies the crow is an
+      image of the low and faithless: Sarvabhauma Bhattacharya said Mahaprabhu had turned a crow into Garuda, king of
+      birds. Black kites (chil) soar over the markets and ghats, snatching scraps in flight, and at night little spotted
+      owlets (pecha) hoot — the owl cannot bear the sun, as the faithless cannot bear the truth.
+  hagiography: ["ЧЧ Мадхья 12.182", "ЧЧ Мадхья 8.257", "ЧЧ Ади 3.85"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "серошейная ворона 40 см; чёрный коршун в небе; пятнистый сыч 20 см в дупле", where: ["mishra-house/courtyard", "ganga-ghat", "navadvipa/market"]}
