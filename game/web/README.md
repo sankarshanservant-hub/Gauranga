@@ -12,3 +12,11 @@ Google Диске (Gauranga-game, файлы Mixamo). **В репозитори�
 игре, но не распространять отдельными файлами; репозиторий публичный. Пересобрать: скачать FBX с Диска (имена — как в
 `pack_mixamo.py`/`index.html`, клип = имя файла), затем `blender -b -P game/tools/pack_mixamo.py -- <папка> ybot.glb`
 и упаковать в JSON (см. историю: glTF с base64-буфером).
+
+## Модели персонажей (лист GPT -> TRELLIS -> риг Mixamo)
+1. Вид спереди из листа персонажа (`game/ref/sheet_*.png`, левая треть) -> `game/tools/trellis.py` (бесплатный Space
+   TRELLIS на Hugging Face; нужен токен пользователя — сохранён в сетевых секретах окружения для
+   trellis-community-trellis.hf.space). Сырые модели — `game/assets-src/trellis/*.glb`.
+2. `blender -b -P game/tools/autorig.py -- ybot_anims.glb <model>.glb <model>_rig.glb <угол рук>` — веса с Y Bot,
+   поза A как поза покоя; все клипы Mixamo подходят без перенастройки.
+3. `python3 game/tools/glb2json.py <model>_rig.glb game/web/chars/<id>.json`, в `data/characters.json` — `"model"`.
