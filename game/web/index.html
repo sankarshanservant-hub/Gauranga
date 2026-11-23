@@ -414,8 +414,7 @@ const ui = {
   },
   choose(speaker, prompt, opts, col) {
     return new Promise((res) => {
-      $('dlg').hidden = false; $('dlgName').textContent = speaker; $('portrait').textContent = speaker[0];
-      $('portrait').style.background = shade(col, -0.35);
+      $('dlg').hidden = false; $('dlgName').textContent = speaker; setPortrait('player', speaker, col);
       $('dlgText').innerHTML = `<i>${esc(prompt)}</i>`; $('dlgRef').textContent = 'Ваш выбор (игровой рассказ)';
       const box = $('choices'); box.innerHTML = '';
       this.choiceRes = (i) => { box.innerHTML = ''; $('dlg').hidden = true; this.choiceRes = null; res(i); };
@@ -473,7 +472,8 @@ const ui = {
     v.style.opacity = on ? 1 : 0; await sleep(1600); if (AUTOPLAY && on) autoShot();
   },
 };
-const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor']);
+const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor', 'player']);
+const portraitImgs = await Promise.all([...PORTRAITS].map((w) => new Promise((r) => { const im = new Image(); im.onload = im.onerror = () => r(im); im.src = `portraits/${w}.jpg`; })));
 function setPortrait(who, speaker, col) {
   const el = $('portrait');
   if (PORTRAITS.has(who)) { el.textContent = ''; el.style.background = `#000 url(portraits/${who}.jpg) center 18% / cover no-repeat`; }
@@ -615,14 +615,14 @@ async function step(s) {
     case 'say': { const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
       await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who), false, s.who); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
     case 'narrate': await ui.say('Шри Чайтанья-бхагавата', s.text, s.ref ?? '', '#8a6a2a', true); break;
-    case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true); break;
+    case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true, 'player'); break;
     case 'hint': ui.hint(s.text); break;
     case 'objective': ui.setObjective(s.text); break;
     case 'title': await ui.title(s.text, s.sub ?? '', s.sec ?? 3); break;
     case 'fade': await ui.fade(s.text, s.ref ?? ''); break;
     case 'time': await setTime(s.value, s.sec ?? 2); break;
     case 'choice': { const i = await ui.choose(player.name, s.prompt, s.options.map((o) => o.text), figColor('player'));
-      flags.push(s.options[i].flag ?? ''); await ui.say(player.name, s.options[i].reply, '', figColor('player'), true); break; }
+      flags.push(s.options[i].flag ?? ''); await ui.say(player.name, s.options[i].reply, '', figColor('player'), true, 'player'); break; }
     case 'unlock': openEntry(s.id, codex.lilas[s.id]); break;
     case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
     case 'wait': await sleep((s.sec ?? 1) * 1000); break;
