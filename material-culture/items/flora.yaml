@@ -1,0 +1,262 @@
+# Флора Нижней Бенгалии и Ориссы (rubric: nature). Формат — material-culture/README.md.
+# Уже есть в items/nature.yaml: ним, банан, кокос, кадамба, баньян, бамбук — здесь не повторяются.
+# Исполнитель `nature`; выписки — research/nature-notes.md, журнал — research/nature-log.md.
+
+- id: mc-mango-tree
+  title: {ru: "Манго", en: "The mango tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Чудесное манговое дерево и «праздник манго» после киртана — ЧЧ Ади 17.80–88; манго, завёрнутые в банановые
+      листья и кору, у Джхаду Тхакура — ЧЧ Антья 16.14–34; манговые приправы Дамаянти (амси, ама-кханда, тайламра,
+      ама-сатта) — ЧЧ Антья 10.15–16 (позднее житие, ок. 1615). Свойства дерева — Dutt 1877, с. 141–142.
+    en: >-
+      The miraculous mango tree and the "mango feast" after kirtana — CC Adi 17.80–88; mangoes wrapped in banana
+      leaves and bark at Jhadu Thakura's — CC Antya 16.14–34; Damayanti's mango relishes (amsi, ama-khanda, tailamra,
+      ama-satta) — CC Antya 10.15–16 (c. 1615). Properties of the tree — Dutt 1877, pp. 141–142.
+  text:
+    ru: >-
+      Манго (бенг. ам, санскр. амра, чута) — царь бенгальских садов. Весной оно покрывается метёлками душистых
+      соцветий, на которые слетаются пчёлы и кукушки, а в жаркие месяцы джьяйштха–ашадха созревают плоды. Зелёные манго
+      режут, сушат на солнце и кладут в горчичное масло — так Дамаянти готовила для Господа манговые приправы на целый
+      год. Однажды в Навадвипе Господь посадил во дворе косточку манго; она тут же выросла в дерево, и после киртана
+      преданные каждый день вкушали его сладкие плоды без кожуры и косточек. Манговые листья кладут на горло
+      благоприятного кувшина, а из древесины делают двери и доски.
+    en: >-
+      The mango (Bengali am, Sanskrit amra, cuta) is the king of Bengali orchards. In spring it is covered with
+      fragrant sprays of blossom that draw bees and cuckoos, and the fruit ripens in the hot months of Jyaishtha and
+      Ashadha. Green mangoes are cut, sun-dried and laid in mustard oil — so Damayanti made mango relishes for the
+      Lord to last a whole year. Once in Navadvipa the Lord planted a mango stone in a courtyard; at once it grew into
+      a tree, and after kirtana the devotees daily ate its sweet fruits that had neither skin nor stone. Mango leaves
+      crown the auspicious water-pot, and the wood makes doors and planks.
+  hagiography: ["ЧЧ Ади 17.80–88", "ЧЧ Антья 16.14–34", "ЧЧ Антья 10.15–16", "ЧЧ Антья 1.158", "ЧЧ Мадхья 8.257",
+                "ЧЧ Антья 15.32"]
+  sources: ["Dutt 1877, с. 141–142 (Mangifera indica)", "Day, Bengal Peasant Life (1874), с. 28 (дверь из мангового дерева)"]
+  images: []
+  game: {model: "раскидистое манговое дерево 10–15 м, тёмная глянцевая листва, весной — желтоватые метёлки соцветий, летом — гроздья плодов",
+         where: ["mishra-house/backyard", "navadvipa/lane"]}
+
+- id: mc-jackfruit
+  title: {ru: "Джекфрут (канталь)", en: "The jackfruit (kanthal)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Джекфрут среди подношений — ЧБ Мадхья 19.85, ЧЧ Мадхья 14.26, 15.86; тело Господа «как золотой джекфрут» от
+      вставших волосков — ЧБ Мадхья 2.164, ЧБ Антья 4.37; ломали деревья манго и джекфрута в киртане — ЧБ Мадхья 23.394.
+    en: >-
+      Jackfruit among offerings — CB Madhya 19.85, CC Madhya 14.26, 15.86; the Lord's body "like a golden jackfruit"
+      with hair standing on end — CB Madhya 2.164, CB Antya 4.37; mango and jackfruit trees broken in the kirtana —
+      CB Madhya 23.394.
+  text:
+    ru: >-
+      Джекфрут (бенг. кантхал, санскр. панаса) — самый большой плод на свете: он растёт прямо на стволе и толстых
+      ветвях и весит до двадцати–тридцати килограммов. Под шипастой зелёной кожурой — сладкие жёлтые дольки с крупными
+      семенами; семена пекут в золе или варят с овощами, а незрелый плод готовят как овощ. Когда от экстаза волоски на
+      теле Господа вставали дыбом, Вриндаван дас сравнивает Его с золотым джекфрутом. Рагхава Пандит в Панихати скупал для
+      Кришны лучшие джекфруты, манго и бананы, даже если их приходилось везти из дальних деревень.
+    en: >-
+      The jackfruit (Bengali kanthal, Sanskrit panasa) is the largest fruit in the world: it grows right on the trunk
+      and thick boughs and weighs up to twenty or thirty kilograms. Under the spiky green rind lie sweet yellow lobes
+      with big seeds; the seeds are roasted in ashes or cooked with vegetables, and the unripe fruit is cooked as a
+      vegetable. When the hairs of the Lord's body stood on end in ecstasy, Vrindavana dasa compares Him to a golden
+      jackfruit. Raghava Pandita of Panihati bought the best jackfruits, mangoes and bananas for Krishna, even if they had to be
+      brought from distant villages.
+  hagiography: ["ЧБ Мадхья 2.164", "ЧБ Антья 4.37", "ЧБ Мадхья 19.85", "ЧБ Мадхья 23.394", "ЧЧ Мадхья 14.26",
+                "ЧЧ Мадхья 15.86", "ЧЧ Антья 18.104"]
+  sources: []
+  images: []
+  game: {model: "дерево 10–15 м с плодами прямо на стволе (40–60 см, шипастая зелёная кожура)",
+         where: ["mishra-house/backyard"]}
+
+- id: mc-tamala-tree
+  title: {ru: "Тамал — тёмное дерево", en: "The tamala, the dark tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Радха обнимает тамал, принимая его за Кришну — ЧЧ Ади 4.251–252; Кришна «цвета тамала» — ЧЧ Антья 7.82,
+      19.41; Господь обнимает семь тамалов на пути на юг — Мурари 1.16.16, 3.16.1; Шридхар видит Вишвамбхару тёмным,
+      как тамал — ЧБ Мадхья 9.190. Ботаническое отождествление тамала спорно (Garcinia xanthochymus или иные виды).
+    en: >-
+      Radha embraces a tamala, mistaking it for Krishna — CC Adi 4.251–252; Krishna "the colour of a tamala" — CC Antya
+      7.82, 19.41; the Lord embraces seven tamalas on the way south — Murari 1.16.16, 3.16.1; Shridhara sees
+      Vishvambhara dark as a tamala — CB Madhya 9.190. The botanical identity of the tamala is debated (Garcinia
+      xanthochymus or other species).
+  text:
+    ru: >-
+      Тамал — дерево с очень тёмной, почти иссиня-чёрной густой листвой; издали его крона похожа на грозовую тучу. Для
+      вайшнава это не просто дерево: цветом оно напоминает Шри Кришну, и Радха в разлуке обнимает тамал, думая, что
+      обнимает Его. Поэтому и Махапрабху, увидев по дороге рощу тамалов, со смехом и слезами обнимал их. А Шридхару,
+      бедному торговцу листьями, Вишвамбхара однажды явился тёмным, как тамал, — в облике Кришны.
+    en: >-
+      The tamala is a tree with very dark, almost blue-black dense foliage; from afar its crown looks like a
+      rain-cloud. To a Vaishnava it is not just a tree: its colour recalls Shri Krishna, and Radha in separation
+      embraces a tamala, thinking she embraces Him. So Mahaprabhu, seeing a grove of tamalas on the road, embraced them
+      with laughter and tears. And to Shridhara, the poor leaf-seller, Vishvambhara once appeared dark as a tamala — in
+      the form of Krishna.
+  hagiography: ["ЧЧ Ади 4.251–252", "ЧЧ Антья 1.146", "ЧЧ Антья 7.82", "ЧЧ Антья 19.41", "ЧБ Мадхья 2.180",
+                "ЧБ Мадхья 9.190", "Мурари 1, сарга 16, ст. 16", "Мурари 3, сарга 16, ст. 1"]
+  sources: []
+  images: []
+  game: {model: "дерево 8–12 м с плотной тёмно-зелёной, почти чёрной кроной; блестящие узкие листья",
+         where: ["travel/south-road", "vrindavan"], notes: "в Навадвипе не обязательно; уместно на дорогах паломничества"}
+  todo: "уточнить ботанический вид тамала у Roxburgh/Watt; есть ли тамал в Навадвипе в житиях"
+
+- id: mc-palms-tal-khejur
+  title: {ru: "Пальмы тал, кхеджур и арека", en: "Palms: tal, khejur and areca"}
+  rubric: nature
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      «Пальмовые семена» (мякоть тала) среди угощений — ЧЧ Мадхья 14.26; финики — ЧЧ Антья 18.104; орех бетеля —
+      постоянно (ЧЧ Антья 6.97–98 и др.). Хозяйственное использование (сок, гур, балки, листья) — по Dutt 1877, с.
+      249–250, и Day 1874, с. 28 (коньковая балка и столбы из пальмиры); для эпохи прямо не засвидетельствовано.
+    en: >-
+      "Palm seeds" (tal pulp) among the dishes — CC Madhya 14.26; dates — CC Antya 18.104; betel nut constantly (CC
+      Antya 6.97–98 etc.). Household uses (sap, gur, beams, leaves) — after Dutt 1877, pp. 249–250, and Day 1874, p.
+      28 (ridge-beam and posts of palmyra); not directly attested for the period.
+  text:
+    ru: >-
+      Над бенгальской деревней стоят три пальмы, и у каждой своё дело. Тал, или пальмира (Borassus), — высокая, с
+      веером жёстких листьев: из листьев делают опахала и навесы, на листьях пишут, из ствола — балки и столбы, а
+      мякоть плодов и молодые семена едят. Кхеджур — дикая финиковая пальма: зимой с неё надрезают ствол и собирают
+      сладкий сок в горшочки, а потом уваривают его в бурый сахар-гур. Стройная арека (супари) даёт орех бетеля,
+      который жуют с листом пана и подносят Господу и гостям.
+    en: >-
+      Three palms stand over a Bengali village, each with its own task. The tal or palmyra (Borassus) is tall, with a
+      fan of stiff leaves: the leaves make fans and awnings and are written on, the trunk gives beams and posts, and
+      the fruit pulp and young seeds are eaten. The khejur is the wild date palm: in winter its trunk is cut and the
+      sweet sap collected in little pots, then boiled down into brown sugar, gur. The slender areca (supari) gives the
+      betel nut, chewed with the pan leaf and offered to the Lord and to guests.
+  hagiography: ["ЧЧ Мадхья 14.26", "ЧЧ Антья 18.104", "ЧЧ Антья 6.97–98", "ЧБ Антья 5.327 (падали, как пальмы в бурю)"]
+  sources: ["Dutt 1877, с. 249–250 (Borassus flabelliformis, Areca catechu)", "Day 1874, с. 28"]
+  images: []
+  game: {model: "тал 15–20 м с круглой кроной веерных листьев; кхеджур 8–10 м с надрезом и глиняным горшком под кроной; арека 10–15 м, тонкий кольчатый ствол",
+         where: ["mishra-house/fence", "navadvipa/lane"]}
+  todo: "найти в ЧБ/Лочане упоминания гура и сбора пальмового сока"
+
+- id: mc-bel-tree
+  title: {ru: "Бель (билва)", en: "The bel tree (bilva)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Бель в перечне деревьев Вриндавана — ЧЧ Антья 15.32. Обрядовое (листья для Шивы) и лекарственное значение — Dutt
+      1877, с. 129–130 (незрелый плод — вяжущее от поноса, «вилва-тайла»). Конкретных бытовых эпизодов в житиях пока не
+      найдено.
+    en: >-
+      Bel in the list of Vrindavana's trees — CC Antya 15.32. Ritual (leaves for Shiva) and medicinal use — Dutt 1877,
+      pp. 129–130 (unripe fruit astringent for diarrhoea, vilva-taila). No concrete household episodes found in the
+      hagiographies so far.
+  text:
+    ru: >-
+      Бель (санскр. билва, Aegle marmelos) — колючее дерево с тройчатыми листьями и круглыми плодами в твёрдой, как
+      дерево, скорлупе. Тройной лист билвы подносят Шиве, которого вайшнавы чтят как величайшего преданного Господа.
+      Спелую ароматную мякоть едят или разводят с водой и сахаром в прохладительное питьё на жару, а незрелый плод
+      вайдьи дают от расстройства живота — это одно из главных средств бенгальской аптеки.
+    en: >-
+      The bel (Sanskrit bilva, Aegle marmelos) is a thorny tree with trifoliate leaves and round fruits in a
+      wood-hard shell. The triple bilva leaf is offered to Shiva, whom Vaishnavas honour as the greatest devotee of the
+      Lord. The ripe, fragrant pulp is eaten or mixed with water and sugar into a cooling drink for the heat, and the
+      vaidyas give the unripe fruit for stomach upsets — it is one of the chief remedies of the Bengali pharmacy.
+  hagiography: ["ЧЧ Антья 15.32"]
+  sources: ["Dutt 1877, с. 129–130 (Aegle marmelos)"]
+  images: []
+  game: {model: "дерево 6–8 м, колючки, тройчатые листья, плоды-шары 8–15 см с серо-зелёной твёрдой коркой",
+         where: ["navadvipa/lane"]}
+
+- id: mc-ashoka-tree
+  title: {ru: "Ашока", en: "The ashoka tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Господь видит Кришну под ашокой в саду у моря — ЧЧ Антья 19.85; роща ашок во Врадже — Лочан, Шеша 4.242, Мурари
+      4.9.4, 4.10.21. Лекарственное значение коры — Dutt 1877, с. 143–144.
+    en: >-
+      The Lord sees Krishna under an ashoka in the seaside garden — CC Antya 19.85; an ashoka grove in Vraja — Lochana,
+      Shesha 4.242, Murari 4.9.4, 4.10.21. Medicinal bark — Dutt 1877, pp. 143–144.
+  text:
+    ru: >-
+      Ашока (Saraca) — невысокое дерево с длинными свисающими молодыми листьями и густыми гроздьями
+      оранжево-алых цветов, распускающихся весной. Её имя значит «без печали». В Пури, бродя по саду у моря в
+      настроении Радхи, Махапрабху вдруг увидел под деревом ашока Самого Кришну — и тут же потерял Его из виду.
+      Кору ашоки вайдьи использовали в женских снадобьях.
+    en: >-
+      The ashoka (Saraca) is a modest tree with long, drooping young leaves and dense clusters of orange-scarlet
+      flowers that open in spring. Its name means "without sorrow". In Puri, wandering in the garden by the sea in
+      Radha's mood, Mahaprabhu suddenly saw Krishna Himself beneath an ashoka tree — and at once lost sight of Him.
+      Vaidyas used the bark of the ashoka in remedies for women.
+  hagiography: ["ЧЧ Антья 19.85", "Лочан, Шеша-кханда, ч. 4, ст. 242", "Мурари 4, сарга 9, ст. 4", "Мурари 4, сарга 10, ст. 21"]
+  sources: ["Dutt 1877, с. 143–144 (Saraca indica)"]
+  images: []
+  game: {model: "дерево 6–9 м, плотная крона, весной — шаровидные гроздья оранжево-красных цветов",
+         where: ["puri/jagannatha-vallabha-garden"]}
+  todo: "проверить, назван ли сад в ЧЧ Антья 19 (у моря / Джаганнатха-валлабха)"
+
+- id: mc-bakula-tree
+  title: {ru: "Бакула", en: "The bakula tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Господь уснул под цветущей бакулой после прасада по дороге — ЧЧ Мадхья 16.102; ряды бакул, созданные мыслью
+      Рупы, — ЧЧ Мадхья 1.157; бакула в перечне деревьев — ЧЧ Антья 15.32. Свойства — Dutt 1877, с. 189. ⚠ Предание о
+      «Сиддха-бакуле» Харидаса в Пури (выросла из веточки-зубочистки Господа) — позднее, в ЧЧ не найдено.
+    en: >-
+      The Lord slept under a flowering bakula after taking prasada on the road — CC Madhya 16.102; rows of bakulas
+      created in Rupa's mind — CC Madhya 1.157; bakula in the list of trees — CC Antya 15.32. Properties — Dutt 1877, p.
+      189. ⚠ The tradition of Haridasa's "Siddha-bakula" in Puri (grown from the Lord's tooth-twig) is late; not found in
+      the CC.
+  text:
+    ru: >-
+      Бакула (Mimusops elengi) — вечнозелёное тенистое дерево с мелкими кремовыми цветками-звёздочками. Их аромат
+      держится, даже когда цветы засыхают, поэтому из бакулы плетут долговечные гирлянды. Путешествуя из Пури в Бенгалию,
+      Махапрабху, приняв прасад, прилёг отдохнуть в тени цветущей бакулы. В Пури показывают бакулу у хижины Харидаса
+      Тхакура — по преданию, она выросла из веточки, которой Господь чистил зубы.
+    en: >-
+      The bakula (Mimusops elengi) is a shady evergreen tree with small cream star-shaped flowers. Their scent lasts
+      even when they dry, so bakula makes long-lasting garlands. Travelling from Puri to Bengal, Mahaprabhu, after
+      taking prasada, lay down to rest in the shade of a flowering bakula. In Puri a bakula is shown by Haridasa
+      Thakura's hut — by tradition it grew from the twig with which the Lord cleaned His teeth.
+  hagiography: ["ЧЧ Мадхья 16.102", "ЧЧ Мадхья 1.157", "ЧЧ Антья 15.32"]
+  sources: ["Dutt 1877, с. 189 (Mimusops elengi)"]
+  images: []
+  game: {model: "дерево 10–12 м, густая тёмная крона, мелкие белые цветки-звёздочки, опавшие цветы на земле",
+         where: ["puri/siddha-bakula", "travel/road"]}
+  todo: "найти источник предания о Сиддха-бакуле (Гаура-ганоддеша? Бхакти-ратнакара? путеводители XIX в.)"
+
+- id: mc-champaka
+  title: {ru: "Чампака", en: "The champaka"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Господь «подобен золотому цветку чампака» — ЧЧ Мадхья 24.344 (цитата); гирлянды из малати, маллики, ютхи и
+      чампаки на груди Господа — ЧБ Антья 5.345; цветы у стоп — ЧБ Мадхья 9.74; капли чернил, как пчёлы у чампаки, —
+      ЧБ Ади 6.113; цветы чампаки и гандхараджа в ушах женщин — Лочан, Ади 14.137.
+    en: >-
+      The Lord "like a golden champaka flower" — CC Madhya 24.344 (quotation); garlands of malati, mallika, yuthi and
+      champaka on the Lord's chest — CB Antya 5.345; flowers at His feet — CB Madhya 9.74; ink-drops like bees round a
+      champaka — CB Adi 6.113; champaka and gandharaja flowers in women's ears — Lochana, Adi 14.137.
+  text:
+    ru: >-
+      Чампака (Magnolia champaca) — высокое дерево, чьи золотисто-жёлтые цветы с тяжёлым сладким ароматом слышны
+      издалека. Золотого Господа поэты сравнивают с цветком чампаки, а Его пальцы — с её бутонами. Цветы чампаки
+      вплетали в гирлянды вместе с жасмином, клали к стопам Господа, а женщины Навадвипы вдевали их в уши. Когда
+      маленький Нимай учился писать и пачкался чернилами, капли на Его золотом теле казались Вриндавану дасу пчёлами,
+      вьющимися над чампакой.
+    en: >-
+      The champaka (Magnolia champaca) is a tall tree whose golden-yellow flowers, heavy and sweet-scented, can be
+      smelt from afar. Poets compare the golden Lord to a champaka flower and His fingers to its buds. Champaka was
+      woven into garlands with jasmine and laid at the Lord's feet, and the women of Navadvipa wore it in their ears.
+      When little Nimai learned to write and smudged Himself with ink, the drops on His golden body looked to
+      Vrindavana dasa like bees hovering over a champaka.
+  hagiography: ["ЧЧ Мадхья 24.344", "ЧБ Ади 6.113", "ЧБ Мадхья 9.74", "ЧБ Мадхья 23.304", "ЧБ Антья 5.345",
+                "Лочан, Ади-кханда, ч. 14, ст. 115, 137"]
+  sources: []
+  images: []
+  game: {model: "дерево 10–20 м, узкая крона, золотисто-оранжевые цветы 5–7 см с узкими лепестками",
+         where: ["navadvipa/garden"]}
