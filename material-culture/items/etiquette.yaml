@@ -1,0 +1,272 @@
+# Обычаи, этикет, жесты (TOPICS, раздел 6). Исполнитель worship. Рубрика — rites.
+
+- id: mc-dandavat
+  title: {ru: "Дандават — поклон «как палка»", en: "Dandavat — bowing down 'like a stick'"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Поклоны ниц повсюду в житиях: ЧЧ Мадхья 1.185 (Рупа и Санатана), 4.66 (перед Божеством), 8.19 (Рамананда перед
+      санньяси); ЧБ Антья 8.150–153 (кто кому кланяется). Восьмичленный поклон (*аштанга*: колени, руки, лоб, нос,
+      щёки касаются земли) — Ward 1863, p. xlv (поздн.); у Ward же — такие поклоны делают и перед знатными людьми.
+    en: >-
+      Prostrations are everywhere in the hagiographies: CC Madhya 1.185 (Rupa and Sanatana), 4.66 (before the Deity),
+      8.19 (Ramananda before the sannyasi); CB Antya 8.150–153 (who bows to whom). The eight-limbed bow (ashtanga:
+      knees, hands, forehead, nose, cheeks touch the ground) — Ward 1863, p. xlv (later); Ward adds that such bows are
+      also made to great men.
+  text:
+    ru: >-
+      Высший знак почтения — дандават: человек падает ниц во весь рост, «как палка» (данда), касаясь земли лбом,
+      грудью, руками и коленями, а сложенные ладони вытягивает вперёд. Так кланяются Божеству, гуру, санньяси и
+      старшим вайшнавам, а встав, часто снова падают — два-три раза. Женщины обычно кланяются, стоя на коленях и
+      касаясь лбом земли. Поклон — не просто вежливость: по житиям, падая ниц, человек отдаёт гордость, и Махапрабху,
+      Сам Господь, подавал пример, кланяясь даже младшим вайшнавам. Знатный Рамананда Рай, увидев сияющего санньяси
+      на берегу Годавари, сразу простёрся перед Ним.
+    en: >-
+      The highest sign of respect is the dandavat: one falls full length, "like a stick" (danda), touching the ground
+      with forehead, chest, hands and knees, the joined palms stretched forward. So one bows to the Deity, the guru, a
+      sannyasi and senior Vaishnavas, and on rising often falls again — two or three times. Women usually bow kneeling
+      and touching the ground with the forehead. The bow is not mere politeness: in the hagiographies, by falling down
+      a person gives up pride, and Mahaprabhu, the Lord Himself, set the example by bowing even to junior Vaishnavas.
+      The noble Ramananda Raya, seeing the radiant sannyasi on the bank of the Godavari, at once fell flat before Him.
+  hagiography: ["ЧЧ Мадхья 1.185", "ЧЧ Мадхья 4.66", "ЧЧ Мадхья 8.19", "ЧБ Антья 8.150–153"]
+  sources: ["Ward 1863, p. xlv (простирание, когда «восемь членов» касаются земли; так кланяются и знатным людям)"]
+  images: []
+  game: {model: "анимация: полный поклон ниц; женский поклон на коленях (панчанга)", where: ["mishra-house/courtyard"],
+         notes: "кнопка «поклониться» — базовый жест персонажа"}
+  todo: "женский поклон (панчанга-пранама) — по позднейшему обычаю; найти свидетельство XVI в."
+
+- id: mc-joined-palms
+  title: {ru: "Сложенные ладони (анджали)", en: "Joined palms (anjali)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Стоят со сложенными ладонями перед Господом — ЧБ Мадхья 9.20 (*йод̣а хасте*), ЧЧ Мадхья 1.187; Джаганнатха Мишра
+      молится со сложенными ладонями — ЧБ Ади 8.91; ладони у лба при Снана-ятре и прощание «в позе слуги» в конце пуджи —
+      Ward 1863, p. 128, xlv (поздн.).
+    en: >-
+      Standing with joined palms before the Lord — CB Madhya 9.20 (yoda haste), CC Madhya 1.187; Jagannatha Mishra
+      prays with joined palms — CB Adi 8.91; palms raised to the forehead at the Snana-yatra and leave-taking "in the
+      posture of a servant" at the end of puja — Ward 1863, p. 128, xlv (later).
+  text:
+    ru: >-
+      Сложить ладони лодочкой у груди или поднять их ко лбу — самый частый знак почтения: так встречают старшего,
+      так стоят перед Божеством, так просят и благодарят. Бенгальцы говорят «джод-хат» — «соединённые руки». Перед
+      Махапрабху, явившим Себя у Шриваса, все преданные стояли, сложив ладони; Рупа и Санатана, поднявшись после
+      поклона, молились «смиренно сложив ладони». Окончив поклонение, служитель стоит так перед Господом и просит
+      позволения уйти.
+    en: >-
+      Joining the palms like a cupped boat at the chest, or raising them to the forehead, is the commonest sign of
+      respect: so one greets an elder, stands before the Deity, asks and thanks. Bengalis say "jod-hat" — "joined
+      hands". Before Mahaprabhu, revealed at Shrivasa's house, all the devotees stood with joined palms; Rupa and
+      Sanatana, rising from their bow, prayed "humbly with joined palms". Having finished worship, the priest stands
+      so before the Lord and asks leave to depart.
+  hagiography: ["ЧБ Мадхья 9.20", "ЧЧ Мадхья 1.187", "ЧБ Ади 8.91"]
+  sources: ["Ward 1863, p. xlv (стоять «в позе слуги» с поднятыми руками и просить позволения уйти)",
+            "Ward 1863, p. 128 (одни кланяются, поднимая руки ко лбу, другие — простираясь)"]
+  images: []
+  game: {model: "анимация: ладони у груди / у лба", where: ["mishra-house/courtyard"]}
+
+- id: mc-foot-dust
+  title: {ru: "Пыль со стоп и стопа на голове", en: "Dust from the feet and a foot upon the head"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Брать пыль со стоп — ЧЧ Ади 17.244, Антья 11.54, 16.22, 16.60 («пыль стоп преданного, вода, омывшая его стопы, и
+      остатки его пищи»), Мадхья 2.94; стопу на голову — ЧЧ Мадхья 1.216, Антья 16.22; ЧБ Мадхья 2.302, 6.134, 22.36;
+      «дом благословлён пылью стоп гостя» — Day 1916, гл. VIII (поздн., XIX в.); ученик и стопа гуру — Ward 1863, p. xliv.
+    en: >-
+      Taking the dust of the feet — CC Adi 17.244, Antya 11.54, 16.22, 16.60 ("the dust of a devotee's feet, the water
+      that washed them and the remnants of his food"), Madhya 2.94; the foot on the head — CC Madhya 1.216, Antya
+      16.22; CB Madhya 2.302, 6.134, 22.36; "the house is blessed by the dust of a guest's feet" — Day 1916, ch. VIII
+      (later, 19th c.); the disciple and the guru's foot — Ward 1863, p. xliv.
+  text:
+    ru: >-
+      Склонившись к стопам старшего или святого, касаются их правой рукой, а затем своего лба и груди — «берут пыль
+      со стоп». Для вайшнава эта пыль, вода, омывшая стопы преданного, и остатки его пищи — три великие святыни. Тот,
+      кто просит особой милости, умоляет: «Поставь свою стопу мне на голову», — и Махапрабху, благословляя Рупу и
+      Санатану, возложил руки им на головы, а они поставили Его стопу себе на голову. Даже о простом госте в
+      бенгальской деревне говорили: «Сегодня мой дом благословлён пылью ваших стоп».
+    en: >-
+      Bending to the feet of an elder or a saint, one touches them with the right hand and then one's own forehead and
+      chest — "taking the dust of the feet". For a Vaishnava this dust, the water that washed a devotee's feet and the
+      remnants of his food are the three great sacred things. One who asks for special mercy pleads, "Place your foot
+      on my head" — and Mahaprabhu, blessing Rupa and Sanatana, laid His hands on their heads, and they placed His foot
+      on their heads. Even of an ordinary guest in a Bengali village one said, "Today my house is blessed by the dust
+      of your feet."
+  hagiography: ["ЧЧ Ади 17.244", "ЧЧ Антья 11.54", "ЧЧ Антья 16.22", "ЧЧ Антья 16.60", "ЧЧ Мадхья 1.216",
+                "ЧБ Мадхья 2.302", "ЧБ Мадхья 6.134", "ЧБ Мадхья 22.36"]
+  sources: ["Day 1916, гл. VIII (приветствие гостя-ачарьи: дом благословлён пылью ваших стоп; ковёр для сиденья)",
+            "Ward 1863, p. xliv (ученик простирается у стоп гуру, гуру ставит стопу ему на голову)"]
+  images: []
+  game: {model: "анимация: касание стоп и затем своего лба", where: ["mishra-house/courtyard"]}
+  todo: "страница Day 1916 (OCR без пагинации) — уточнить по скану"
+
+- id: mc-embrace
+  title: {ru: "Объятие (алингана)", en: "The embrace (alingana)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рамананда — ЧЧ Мадхья 8.20–27 (брахманы дивятся: санньяси обнимает шудру); прокажённый Васудева — ЧЧ Мадхья
+      7.136–146; Гангадас обнимает Джаганнатху Мишру — ЧБ Ади 8.29; брахман-чтец — ЧБ Мадхья 1.307; Мурари — ЧБ
+      Мадхья 20.127; Кази — ЧЧ Ади 17.216.
+    en: >-
+      Ramananda — CC Madhya 8.20–27 (brahmins marvel: a sannyasi embraces a shudra); the leper Vasudeva — CC Madhya
+      7.136–146; Gangadasa embraces Jagannatha Mishra — CB Adi 8.29; the brahmin reciter — CB Madhya 1.307; Murari — CB
+      Madhya 20.127; the Kazi — CC Adi 17.216.
+  text:
+    ru: >-
+      Равные и близкие по сердцу встречаются объятием: так учитель Гангадас, выйдя навстречу, обнял Джаганнатху
+      Мишру и усадил на почётное место. Но в мире строгих правил касты объятие могло потрясти: на берегу Годавари
+      Махапрабху, санньяси в сиянии брахмана, крепко обнял Рамананду Рая, назвавшего себя «низким слугой-шудрой», и
+      оба упали на землю в слезах — ведические брахманы вокруг не верили своим глазам. А прокажённого Васудеву,
+      чьё тело покрывали язвы, Господь обнял — и болезнь исчезла. В вайшнавском обществе объятие — знак того, что
+      любовь к Кришне выше рождения.
+    en: >-
+      Equals and those close at heart meet with an embrace: so the teacher Gangadasa came out to meet Jagannatha
+      Mishra, embraced him and seated him in the place of honour. But in a world of strict caste rules an embrace could
+      shock: on the bank of the Godavari Mahaprabhu, a sannyasi shining like a brahmin, tightly embraced Ramananda Raya,
+      who called himself "a lowly shudra servant", and both fell to the ground in tears — the Vedic brahmins around
+      could not believe their eyes. And the leper Vasudeva, whose body was covered with sores, the Lord embraced — and
+      the disease vanished. In Vaishnava society the embrace is a sign that love of Krishna stands above birth.
+  hagiography: ["ЧЧ Мадхья 8.20–27", "ЧЧ Мадхья 7.136–146", "ЧБ Ади 8.29", "ЧБ Мадхья 1.307", "ЧБ Мадхья 20.127",
+                "ЧЧ Ади 17.216"]
+  sources: []
+  images: []
+  game: {model: "анимация объятия", where: ["godavari/ghat", "navadvipa/lane"]}
+
+- id: mc-hari-bol
+  title: {ru: "«Хари бол!» — возглас и приветствие", en: "'Hari bol!' — the cry and the greeting"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Хари-дхвани», «Харибол» — ЧЧ Антья 11.58, 11.68; ЧБ Мадхья 28.138, 28.151; ЧЧ Ади 17.130–140; «Джая! Джая!» после
+      арати — ЧЧ Мадхья 4.80; «Хари! Хари!» в пути — ЧЧ Мадхья 15.18, Лочан, Мадхья-кханда, ч. 20, ст. 84;
+      Махапрабху велит Рамананде «петь имя Кришны» вместо поклона — ЧЧ Мадхья 8.20; приветствие санньяси «Намо
+      нараяная» — Мурари 3.3.13 (сноска 303-3).
+    en: >-
+      "Hari-dhvani", "Haribol" — CC Antya 11.58, 11.68; CB Madhya 28.138, 28.151; CC Adi 17.130–140; "Jaya! Jaya!" after
+      arati — CC Madhya 4.80; "Hari! Hari!" on the road — CC Madhya 15.18, Lochana, Madhya-khanda pt. 20 v. 84;
+      Mahaprabhu tells Ramananda to "chant Krishna's name" instead of bowing — CC Madhya 8.20; the sannyasis' greeting
+      "Namo narayanaya" — Murari 3.3.13 (note 303-3).
+  text:
+    ru: >-
+      «Хари бол!» — «Скажи: Хари!» — главный клич вайшнавской Бенгалии. Им встречают и провожают, начинают и
+      заканчивают киртан, им отвечают на радостную весть и провожают умершего. Махапрабху, увидев человека, обычно
+      говорил ему: «Повторяй имя Кришны», — так, по житиям, Он поступил и с Раманандой, поднимая его из поклона. После
+      арати и на праздниках гремело «Джая! Джая!» — «Слава!». У санньяси своё приветствие: «Намо нараяная» —
+      «Поклон Нараяне», — и став санньяси, Господь передал такой привет преданным.
+    en: >-
+      "Hari bol!" — "Say: Hari!" — is the great cry of Vaishnava Bengal. With it people greet and see off, begin and end
+      kirtan, answer joyful news and accompany the departed. Mahaprabhu, on seeing someone, would usually tell him,
+      "Chant the name of Krishna" — so, the hagiographies say, He did with Ramananda, raising him from his bow. After
+      arati and at festivals "Jaya! Jaya!" — "Glory!" — thundered. Sannyasis have their own greeting: "Namo
+      narayanaya" — "Obeisance to Narayana" — and on becoming a sannyasi the Lord sent such a greeting to the devotees.
+  hagiography: ["ЧЧ Антья 11.58", "ЧЧ Антья 11.68", "ЧБ Мадхья 28.151", "ЧЧ Мадхья 4.80", "ЧЧ Мадхья 8.20",
+                "ЧЧ Мадхья 15.18", "Мурари 3.3.13"]
+  sources: []
+  images: []
+  game: {model: "звуковой клип «Харибол!» и «Джая!»", where: ["navadvipa/lane"]}
+
+- id: mc-pradakshina
+  title: {ru: "Обход справа (прадакшина)", en: "Circling clockwise (pradakshina)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Вокруг матери — ЧБ Ади 15.140 (перед свадьбой), ЧЧ Мадхья 3.211 (прощание в Шантипуре); вокруг гуру — ЧБ Ади
+      17.108; туласи — ЧБ Ади 12.101, Антья 1.279, ЧЧ Мадхья 24.255; храм, алтарь, колесница — ЧБ Антья 1.280, 2.468; ЧЧ
+      Мадхья 7.58, 13.189; самадхи Харидаса — ЧЧ Антья 11.72; невеста семь раз обходит жениха — ЧБ Ади 15.172.
+      «Справа» (по часовой стрелке, почитаемое — по правую руку) — обычай, в житиях направление не уточняется.
+    en: >-
+      Around the mother — CB Adi 15.140 (before the wedding), CC Madhya 3.211 (farewell at Shantipur); around the guru —
+      CB Adi 17.108; tulasi — CB Adi 12.101, Antya 1.279, CC Madhya 24.255; a temple, altar, chariot — CB Antya 1.280,
+      2.468; CC Madhya 7.58, 13.189; Haridasa's samadhi — CC Antya 11.72; the bride circles the groom seven times — CB
+      Adi 15.172. "Clockwise" (keeping the honoured one on the right) is the custom; the hagiographies do not specify.
+  text:
+    ru: >-
+      Того, кого почитают, обходят кругом, держа его по правую руку, — словно планеты вокруг солнца. Обходят Божество,
+      храм, туласи, колесницу Джаганнатхи, гуру — и мать. Перед свадьбой юный Гауранга почтительно обошёл вокруг Шачи;
+      уходя из Шантипура после санньясы, Он снова обошёл вокруг неё — и дом Адвайты наполнился плачем. Получив
+      мантру, Он обошёл Ишвару Пури и сказал: «Я всецело предаюсь тебе». Каждый день, полив туласи и обойдя её,
+      Господь садился обедать.
+    en: >-
+      The one who is honoured is walked around, kept on one's right — like planets round the sun. People circle the
+      Deity, the temple, tulasi, Jagannatha's chariot, the guru — and their mother. Before His wedding the young
+      Gauranga respectfully walked around Shachi; leaving Shantipur after sannyasa, He again walked around her — and
+      Advaita's house filled with weeping. Having received the mantra, He circled Ishvara Puri and said, "I surrender
+      Myself wholly to you." Every day, after watering tulasi and walking around her, the Lord sat down to eat.
+  hagiography: ["ЧБ Ади 15.140", "ЧЧ Мадхья 3.211", "ЧБ Ади 17.108", "ЧБ Ади 12.101", "ЧБ Антья 1.279–280",
+                "ЧЧ Мадхья 7.58", "ЧЧ Мадхья 13.189", "ЧЧ Антья 11.72", "ЧБ Ади 15.172"]
+  sources: []
+  images: []
+  game: {model: "механика: обход объекта по часовой стрелке", where: ["mishra-house/courtyard", "puri/jagannatha-temple"]}
+
+- id: mc-grass-in-teeth
+  title: {ru: "Травинка в зубах — знак смирения", en: "A blade of grass between the teeth — a sign of humility"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рупа и Санатана в Рамакели: соломинки в зубах и накидка вокруг шеи — ЧЧ Мадхья 1.185; Санатана — ЧЧ Мадхья 20.98,
+      23.113; бенгальский поэт просит прощения у преданных — ЧЧ Антья 5.156; Шачи с травинкой в зубах просит благословения сыну —
+      Лочан, Ади-кханда, ч. 4, ст. 378 (и сноска [^12-7]); «смиреннее травинки» — ЧЧ Ади 17.26, 17.31.
+    en: >-
+      Rupa and Sanatana at Ramakeli: straws between the teeth and the cloth around the neck — CC Madhya 1.185;
+      Sanatana — CC Madhya 20.98, 23.113; a Bengali poet begs the devotees' pardon — CC Antya 5.156; Shachi with a blade of grass in her teeth asks blessings for
+      her son — Lochana, Adi-khanda pt. 4 v. 378 (and note [^12-7]); "humbler than a blade of grass" — CC Adi 17.26,
+      17.31.
+  text:
+    ru: >-
+      Кто просит прощения или милости от всего сердца, берёт в зубы травинку или соломинку: «Я как скотина, что ест
+      траву, — не гневайся на меня». Часто к этому добавляют ещё один знак: обвивают шею краем своей накидки, как
+      пленник верёвкой. Так, ночью в Рамакели, пришли к Махапрабху министры султана Рупа и Санатана и простёрлись
+      перед Ним. Так и Шачи, взяв в зубы травинку, кланялась всем женщинам и просила: «Благословите, чтобы мой
+      Вишвамбхара жил долго!» Махапрабху учил, что воспевать имя нужно, «чувствуя себя смиреннее травинки».
+    en: >-
+      One who begs forgiveness or mercy with all one's heart takes a blade of grass or a straw between the teeth: "I am
+      like a beast that eats grass — do not be angry with me." Often another sign is added: the end of one's cloth is
+      wound round the neck, like a captive's rope. So, at night in Ramakeli, the Sultan's ministers Rupa and Sanatana
+      came to Mahaprabhu and fell before Him. So too Shachi, taking a blade of grass in her teeth, bowed to all the
+      women and begged, "Bless my Vishvambhara to live long!" Mahaprabhu taught that the name should be chanted
+      "feeling oneself humbler than a blade of grass".
+  hagiography: ["ЧЧ Мадхья 1.185", "ЧЧ Мадхья 20.98", "ЧЧ Мадхья 23.113", "ЧЧ Антья 5.156",
+                "Лочан, Ади-кханда, ч. 4, ст. 378", "ЧЧ Ади 17.26"]
+  sources: []
+  images: []
+  game: {model: "соломинка/травинка дурвы в зубах; край чадара, обвитый вокруг шеи", where: ["ramakeli/night"]}
+
+- id: mc-hand-on-head
+  title: {ru: "Рука на голове — благословение", en: "A hand on the head — the blessing"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Долгой жизни Тебе!» с рукой на голове — ЧБ Мадхья 1.16; Господь кладёт руку на голову Мурари — ЧБ Мадхья 20.127;
+      на головы Рупы и Санатаны — ЧЧ Мадхья 1.216; Кешава Бхарати кладёт руку на грудь Господа, давая имя — ЧБ Мадхья
+      28.174; дурва и рис на голову — см. mc-durva-blessing.
+    en: >-
+      "Long life to You!" with a hand on the head — CB Madhya 1.16; the Lord lays His hand on Murari's head — CB Madhya
+      20.127; on the heads of Rupa and Sanatana — CC Madhya 1.216; Keshava Bharati lays his hand on the Lord's chest
+      while naming Him — CB Madhya 28.174; durva and rice on the head — see mc-durva-blessing.
+  text:
+    ru: >-
+      Старший благословляет младшего, положив ему ладонь на макушку: «Живи долго!», «Будь счастлив!», «Пусть Кришна
+      хранит тебя». Когда Нимай вернулся из Гаи, соседи один за другим клали руку Ему на голову со словами «Долгой
+      жизни Тебе!» — они видели в Нём сына Мишры, а не Господа. Сам же Махапрабху клал руку на голову преданным как
+      знак Своей милости — Мурари, Рупе и Санатане. Младший в ответ касается стоп старшего: благословение и поклон —
+      две половины одного приветствия.
+    en: >-
+      An elder blesses a younger person by laying a palm on the crown of the head: "Live long!", "Be happy!", "May
+      Krishna protect you." When Nimai returned from Gaya, neighbours one after another laid a hand on His head saying
+      "Long life to You!" — they saw in Him Mishra's son, not the Lord. Mahaprabhu Himself laid His hand on the heads
+      of devotees as a sign of His mercy — Murari, Rupa and Sanatana. The younger touches the elder's feet in return:
+      blessing and bow are two halves of one greeting.
+  hagiography: ["ЧБ Мадхья 1.16", "ЧБ Мадхья 20.127", "ЧЧ Мадхья 1.216", "ЧБ Мадхья 28.174"]
+  sources: []
+  images: []
+  game: {model: "анимация: ладонь на макушке", where: ["navadvipa/lane", "mishra-house/courtyard"]}
