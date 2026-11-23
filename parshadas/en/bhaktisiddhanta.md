@@ -203,6 +203,132 @@ telling him to go to Sarasvati Thakura for initiation. <!-- F50 -->
 In 1909, on the site of Chandrashekhara Acharya’s house, he built a hut called “Vraja-pattana” and continued his vow
 there, contemplating himself on the bank of Radha-kunda. <!-- F51 -->
 
+## Vaishnava and Brahmana
+Three years before Bhaktivinoda’s departure, Sarasvati Thakura made a vow to his father: unworthy servant though he was,
+he would take up the highest good — the overthrow of every teaching opposed to pure bhakti. The Thakura was delighted.
+The occasion soon came. Descendants of Bengali acharyas, holding to smarta caste views, were humiliating and oppressing
+Vaishnavas; the smarta brahmanas were jointly attacking the Vaishnava faith and its acharyas, and some of those who
+called themselves descendants of Nityananda and other associates of Mahaprabhu had taken their side for gain. In 1911,
+on 8–11 September, a great assembly of hundreds of scholars was convened at Balighai (Medinipur district); it was
+chaired by Pandita Vishvambharananda Deva Gosvami of Gopivallabhapura, and Sri Madhusudana Gosvami Sarvabhauma of the
+Radharamana enclosure in Vrindavana was also present. Bhaktivinoda was invited, but he was confined to bed and sent his
+son in his place, together with Suresh Chandra Mukhopadhyaya. <!-- F245 F52 -->
+
+First the smarta pandits spoke, each proving the superiority of his own view. Then Madhusudana Gosvami gave the floor to
+Sarasvati Thakura. He read a paper and, in a long address that was the fruit of great research, set out the nature of
+the brahmana and the Vaishnava and the difference between them, demolishing the arguments of the smarta karmis. The
+assembly was enchanted and struck dumb; the smarta descendants of acharyas and the brahmanas were amazed, and all
+acknowledged that the glory of the Vaishnava stands above that of the brahmana. The address later appeared as a book,
+“Brahmana o Vaishnava.” A year later Madhusudana Gosvami, visiting Bhaktivinoda at Bhakti-bhavan, enthusiastically
+declared his son a worthy successor to his father in defending the Gaudiya sampradaya. Sarasvati Thakura was defending
+not one caste against another but the truth of the shastras: a devotee of the Lord, whatever his birth, stands above one
+who is a brahmana by birth alone. <!-- F52 F245 -->
+
+In that same year, 1911, a dispute arose at Bara-akhra in Navadvipa over the Gaura-mantra. On the basis of the
+“Chaitanyopanishad” of the Atharva-veda and other shastras, Sarasvati Thakura proved the eternal validity of a distinct
+mantra for the worship of Gauranga. <!-- F53 -->
+
+## Against Imitation Devotion
+He stood no less firmly against the *prakrita-sahajiyas* — those who pass off mundane feelings as the highest love of
+God. “Our Teachers” relates that once a well-known sahajiya babaji came to Bhaktivinoda; the son came in, saw the guest,
+bowed to his father from a distance and left, and the Thakura explained to the puzzled guest that the young man had
+vowed never to come within a hundred paces of a sahajiya. Against their errors he wrote the poem
+“Prakrita-rasa-shata-dushini.” He expressed his creed in a couplet that is now inscribed over the entrance to the
+nat-mandira of the Sri Chaitanya Saraswat Math in Navadvipa:
+
+*matala hari-jana kirttana-range*
+*pujala raga-patha gaurava-bhange*
+
+“We shall worship the path of raga-marga, of exclusive and selfless devotion to God, from afar, with the deepest
+reverence, always performing kirtana in the company of true Vaishnavas”[^7]. <!-- F273 -->
+
+On 23 March 1912, at a religious conference in Cossimbazar, in the palace of Maharaja Manindra Chandra Nandi, he spoke
+for four days on shuddha-bhakti — on the marks of pure devotion and against the worldly pretensions and sycophancy of
+the “leaders” of Gaudiya Vaishnavism of the day. Seeing around him so-called prakrita-sahajiyas with their show of
+feeling, he ate nothing for all four days, and only on returning to Mayapur did he again take prasad. The maharaja,
+learning of this, came to Mayapur, expressed his sorrow and long begged forgiveness. Sarasvati Thakura said: “Having
+judged that there was no bhakti there, one should not eat in a common place”[^8]. <!-- F54 -->
+
+On 4 November 1912, with a small party of devotees, he set out for the places of Mahaprabhu’s associates — Shrikhanda,
+Yajigrama, Katwa, Jhamatpur, Akai-hat, Chakhandi, Daihat and others — preaching pure devotion everywhere. <!-- F55 -->
+
+## The “Anubhashya”
+In 1913 he began writing a commentary on the “Chaitanya-charitamrita,” the “Anubhashya,” conceived as a companion to
+Bhaktivinoda’s “Amrita-pravaha-bhashya,” and read passages of it to his father. In April 1913 he founded the
+“Bhagavata Yantralaya” press; its first book was the “Chaitanya-charitamrita” with the “Anubhashya,” followed by the
+“Bhagavad-gita” with Vishvanatha Chakravarti’s commentary and the mahakavya “Gaura-krishnodaya” of the Oriya poet
+Govinda Deva of Vakreshvara’s line[^9]. <!-- F246 F56 F257 -->
+
+Bhaktivinoda Thakura left this world on 23 June 1914, and his son became editor of the monthly “Sajjana-toshani” that
+he had founded. In January 1915 the press was moved to Vraja-pattana in Mayapur; in March the journal appeared again;
+on 14 June the “Anubhashya” was completed there; and in July the press moved to Krishnanagar, from where the journal and
+Bhaktivinoda’s books were issued. <!-- F57 -->
+
+He wrote at that time in the “Sajjana-toshani” that the journal’s aim was unchanged: the Thakura had entered the
+eternal pastimes (*nitya-lila*), but the journal would serve as before. Some, he wrote, set aside pure devotion for the
+sake of a supposed bhakti; others take as their standard the easy path of mundane “devotees.” And he quoted
+Bhaktivinoda’s lines from the “Kalyana-kalpataru” beginning *bhakti-badha jaha haite*: on the head of learning that
+obstructs bhakti — a kick without guile; Sarasvati, dear to Krishna, is full of devotion to Krishna — and that is
+Vinoda’s wealth. The verse rejects not learning as such but only the knowledge that eclipses bhakti. “Service to Gaura’s
+teaching in following the guru is the same as service to Radha-Govinda… following Sri Rupa Manjari,” he wrote; “be a
+servant of the followers of Svarupa and Rupa and always sing the Name.” <!-- F238 Q6 -->
+
+## The Guru’s Departure
+On 17 November 1915, on utthana-ekadashi, Srila Gaurakishora Dasa Babaji entered the eternal pastimes at Kulia, in the
+Rani Dharmashala. Overwhelmed by separation, Sarasvati Thakura hurried there. The mahantas of various akharas were
+disputing where and how to give the body samadhi: each wanted the future temple, and the income that would come with
+it. He alone stood against them. The police chief of Navadvipa, Jatindranath Singh Rai Bahadur, arrived. The babajis
+argued that he was not yet a sannyasi and had no right to perform the rite. Sarasvati Thakura replied that he was
+Babaji Maharaja’s only disciple, and said: let him touch the body who among them had been pure with regard to women for
+even the last six months, three months, a month or three days — for one who was impure that touch would be ruinous. On
+the 1st of Agrahayana he performed the rite according to Vaishnava smriti, the “Samskara-dipika” of Gopala Bhatta
+Gosvami, and established his guru’s samadhi at Nutan-chora in old Kulia (now the town of Navadvipa). His sternness
+was the protection of his guru’s sanctity, not enmity towards people. <!-- F58 F241 -->
+
+After the departure of his father and his guru, a deep despondency came over him: how could he fulfil their command to
+preach when spiritual life around him had fallen so low? “Our Teachers” relates that one night Sri Gaurasundara
+appeared to him in a sankirtana procession from the Yogapitha, with the six Gosvamis, Jagannatha Dasa Babaji,
+Bhaktivinoda and Gaurakishora; they told him to abandon his doubts and preach, promising their constant support. This
+despondency, “Our Teachers” says, was not weakness but part of an inconceivable lila. <!-- F271 -->
+
+## Sannyasa
+In 1918, on the day of Mahaprabhu’s appearance, Gaura-purnima, he took tridandi sannyasa at Vraja-pattana in Sri
+Mayapur[^10]. “Our Teachers” describes the day: having bathed in the Ganga and put on saffron cloth, he bowed before
+the pictures of his two gurus — Bhaktivinoda and Gaurakishora — and took the vows of the tridanda: to dedicate body,
+mind and speech to the Lord’s service. He took the principle of tridandi sannyasa from the “Bhagavatam” (11.23.57) and
+from the example of the Ramanuja-sampradaya, whose rules he had once learned in Perumbudur. From that day he was known
+as Srila Bhaktisiddhanta Sarasvati. <!-- F59 F272 -->
+
+To one eternally perfect (*nitya-siddha*) renunciation was not needed: its goal he already possessed. But he accepted
+sannyasa in order to preach the Lord’s teaching everywhere without hindrance, to establish *daiva-varnashrama* — an
+order of life whose centre is service to the Lord — and to show the transcendental nature of the paramahamsa-babaji dress
+worn by his preceptors: Jagannatha Dasa, Sachchidananda Bhaktivinoda Thakura and Gaurakishora Dasa Babaji. Having
+accepted sannyasa himself, he then introduced it among his disciples, and was the first in the Gaudiya Vaishnava
+sampradaya to do so[^11]; and from that day the mission went swiftly forward. <!-- F60 I3 -->
+
+On the same day he installed the Deities of Guru-Gauranga and Radha-Govinda in the house of Chandrashekhara Acharya[^12]
+and founded the Sri Chaitanya Math — the principal math of all the Gaudiya Maths in the world and the head office of the
+mission; the Sri Chaitanya Math still stands on the site of Chandrashekhara’s house. <!-- F61 F256 -->
+
+## A Sannyasi’s First Journeys
+At the end of March 1918 he gave a full lecture on Vaishnava philosophy in the Krishnanagar town hall, and in May he
+spoke hari-katha at Daulatpur and other places. On 2 June he set out for Puri with devotees from Calcutta, preaching on
+the way — at Sauri, Kuamara and elsewhere. Walking Mahaprabhu’s road, he was overcome by separation from the Lord. At
+Remuna he bowed to Gopinatha; at Baleshvar he lectured on the “Shikshashtaka” at the “Hari-bhakti-pradayini Sabha,”
+where the sub-divisional magistrate Rai Saheb Gaura Shyama Mahanti and others received him; in Cuttack he was the guest
+of Dewan Bahadur Sri Krishna Mahapatra and expounded the “Bhagavata.” In Puri they stayed at Bhakti-kuti and walked
+around Sri Kshetra-mandala, and all the while he remained in the mood of separation. <!-- F62 F63 -->
+
+In Puri the former collector and deputy magistrate Atal Bihari Maitra heard his explanations of the
+“Chaitanya-charitamrita” and the “Bhagavata.” At a large gathering in the courtyard of the house of Hariballabha Basu Rai
+Bahadur (“Shashi-bhavana”) he lectured on the difference between the personal and impersonal understanding of the
+Absolute Truth. At that time he also composed several Sanskrit verses on the memorial of Mahaprabhu’s footprints in the
+temple of Jagannatha. <!-- F64 -->
+
+In August–September 1918 the spokesman of a circle of atheists sent him twenty-nine questions against the Vaishnava
+faith and its acharyas. He answered with reason and shastra; the questions and answers appeared as a booklet,
+“Pratipera Prashnera Pratyuttara” (“Reply to an Opponent’s Questions”). <!-- F65 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -221,3 +347,18 @@ there, contemplating himself on the bank of Radha-kunda. <!-- F51 -->
     billion, that is, ten crores of Names,” no fewer than three lakhs a day (though a billion is a hundred crores, not
     ten); “Our Teachers” says three lakhs of Names a day, a hundred and ninety-two rounds. According to “Our Teachers,” his
     first disciples came in 1909.
+[^7]: The translation follows “Our Teachers.” Worshipping the path of raga “from afar, with reverence” is not a rejection
+    of raga-bhakti but awe before it, which imitators cannot have.
+[^8]: One of the biographies places this conference in 1922; the details (four days, four addresses, the fast, prasad in
+    Mayapur) coincide, so this is apparently a slip for 1912.
+[^9]: The biographies place this press differently: one at Kalighat in Calcutta, another at Krishnanagar, from where in
+    1914 it moved to Mayapur and in July 1915 returned to Krishnanagar. Another biography names among his presses those
+    at Krishnanagar, Mayapur, Calcutta and Cuttack.
+[^10]: According to one of the biographies, this was on 27 March 1918 — the 13th of Chaitra 1324 by the Bengali
+    reckoning, the phalguni-purnima; according to another, and to “Our Teachers,” on 7 March. Gaura-purnima in 1918 fell
+    on 27 March, so the date “7 March” is apparently mistaken.
+[^11]: The first among Mahaprabhu’s followers in his line, where sannyasa had not been accepted before him; Mahaprabhu
+    Himself of course accepted sannyasa, and what is meant here is the tridandi sannyasa that he introduced among his
+    disciples.
+[^12]: So according to one of the biographies and “Our Teachers”; another biography says that he installed here the
+    Deity of Sri Chaitanya Mahaprabhu.
