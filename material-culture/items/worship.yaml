@@ -1,0 +1,252 @@
+# Поклонение и вера (TOPICS, раздел 5). Исполнитель worship. Рубрика — rites.
+# Взгляд гаудия-вайшнавский: Божество — Сам Господь; о других культах эпохи — спокойно и точно.
+
+- id: mc-shodasha-upachara
+  title: {ru: "Шестнадцать подношений (шодаша-упачара)", en: "The sixteen offerings (shodasha-upachara)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Перечень подношений — ЧБ Мадхья 9.46–48 (*па̄дйа, аргхйа, а̄чаманӣ, гандха, пуш̣па, дхӯпа, прадӣпа, наиведйа,
+      вастра… ш̣од̣аш́а упача̄ра*), ЧБ Мадхья 2.135–136, 6.105–110; ЧЧ Мадхья 4.59–66, 4.80. Полный порядок шестнадцати
+      действий — по Ward 1863 (ок. 1810, цитата более раннего наблюдателя); у разных школ состав немного различен.
+    en: >-
+      The list of offerings — CB Madhya 9.46–48 (padya, arghya, achamani, gandha, pushpa, dhupa, pradipa, naivedya,
+      vastra… shodasha upachara), CB Madhya 2.135–136, 6.105–110; CC Madhya 4.59–66, 4.80. The full order of the
+      sixteen acts follows Ward 1863 (c. 1810, quoting an earlier observer); the exact list varies between schools.
+  text:
+    ru: >-
+      Божеству служат как самому дорогому и почётному Гостю. Сначала предлагают сиденье-престол, затем воду для
+      омовения стоп (падья), воду с цветами и рисом в ладонях (аргхья), воду для полоскания рта (ачамания); потом
+      омовение, новые одежды и шнур, сандаловую пасту, цветы и листья туласи, благовония, лампаду, угощение
+      (наиведья), снова воду и бетель, затем поклоны и обход. Так у Шриваса преданные поклонялись Самому Махапрабху
+      «шестнадцатью подношениями» и снова и снова клали на Его стопы цветочки туласи, обмакнутые в сандал. Бедный
+      преданный подносит хотя бы воду и лист туласи — и Господь это принимает.
+    en: >-
+      The Deity is served as the dearest and most honoured Guest. First a seat-throne is offered, then water to wash
+      the feet (padya), water with flowers and rice in the palms (arghya), water to rinse the mouth (achamaniya);
+      then the bath, new garments and sacred thread, sandal paste, flowers and tulasi leaves, incense, a lamp, food
+      (naivedya), again water and betel, and finally bows and circumambulation. So at Shrivasa's house the devotees
+      worshipped Mahaprabhu Himself with "the sixteen offerings", laying tulasi buds dipped in sandal on His feet
+      again and again. A poor devotee offers at least water and a tulasi leaf — and the Lord accepts it.
+  hagiography: ["ЧБ Мадхья 9.46–50", "ЧБ Мадхья 2.135–136", "ЧБ Мадхья 6.105–110", "ЧБ Антья 10.98",
+                "ЧЧ Мадхья 4.59–66", "ЧЧ Мадхья 4.80", "ЧЧ Ади 3.103 (лист туласи и пригоршня воды)"]
+  sources: ["Ward 1863, p. xliv–xlv (16 обрядов: престол, вода для стоп и рта, омовение из раковины под колокольчик,
+            одежды, шнур, тилака, цветы, курение, лампада на гхи, еда, простирание, обход, прощание)"]
+  images: []
+  game: {model: "низкий престол (синхасана) с Божеством; перед ним медные чашечки для падьи, аргхьи, ачамании,
+         поднос с цветами, сандалом, лампадой, курильницей", where: ["mishra-house/thakur-ghar"],
+         notes: "мини-игра: подносить упачары в правильном порядке; Божество — Сам Господь"}
+  todo: "сверить порядок 16 упачар по «Хари-бхакти-виласе» (XVI в., Гопала Бхатта) — если есть ОД-перевод"
+
+- id: mc-abhisheka
+  title: {ru: "Абхишека — омовение Господа", en: "Abhisheka — the bathing of the Lord"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Подробно — ЧЧ Мадхья 4.55–63 (установка Гопала Мадхавендрой Пури: 900 кувшинов, масло, панчагавья, панчамрита,
+      гхи, вода из 100 сосудов, раковина) и ЧБ Мадхья 9.25–43 (вода Ганги, процеженная через ткань, с камфарой и
+      «четырьмя равными» благовониями, мантры Пуруша-сукты, 108 кувшинов).
+    en: >-
+      In detail — CC Madhya 4.55–63 (Madhavendra Puri installs Gopala: 900 pots, oil, panchagavya, panchamrita, ghee,
+      water from 100 vessels, a conch) and CB Madhya 9.25–43 (Ganga water strained through cloth, with camphor and the
+      "four equal" fragrances, the Purusha-sukta mantras, 108 pots).
+  text:
+    ru: >-
+      Торжественное омовение Божества — праздник для всей округи. Когда Мадхавендра Пури устанавливал Гопала, местные
+      брахманы носили воду из пруда, процеживали её и наполнили девятьсот кувшинов; под барабаны и пение женщин
+      Господа очистили, натёрли ароматным маслом, омыли панчагавьей и панчамритой (молоко, йогурт, гхи, мёд,
+      сахар), затем водой из ста сосудов и под конец — ароматной водой из раковины. В Навадвипе преданные так же
+      омыли Самого Махапрабху водой Ганги с камфарой, читая Пуруша-сукту; воду носили даже слуги Шриваса, и служанку
+      Духкхи («Печальную») Господь назвал Сукхи — «Счастливой».
+    en: >-
+      A solemn bathing of the Deity is a festival for the whole neighbourhood. When Madhavendra Puri installed Gopala,
+      the local brahmins carried water from the pond, strained it and filled nine hundred pots; to drums and the
+      women's singing the Lord was cleansed, rubbed with fragrant oil, bathed with panchagavya and panchamrita (milk,
+      yoghurt, ghee, honey, sugar), then with water from a hundred vessels, and last with scented water from a conch.
+      In Navadvipa the devotees likewise bathed Mahaprabhu Himself with Ganga water and camphor, reciting the
+      Purusha-sukta; even Shrivasa's servants carried water, and the Lord renamed the maid Duhkhi ("Sorrowful") as
+      Sukhi — "Happy".
+  hagiography: ["ЧЧ Мадхья 4.55–63", "ЧБ Мадхья 9.25–43"]
+  sources: []
+  images: []
+  game: {model: "ряды глиняных кувшинов (гхата) с водой, белая раковина для омовения, медный таз (тамракунда),
+         тонкая ткань для процеживания", where: ["navadvipa/shrivasa-house", "mishra-house/thakur-ghar"]}
+
+- id: mc-arati
+  title: {ru: "Арати — поклонение светом", en: "Arati — worship with light"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Арати в храмах и домах — ЧЧ Мадхья 3.58–59, 4.66, 4.80, 4.121–122, 4.209 (мангала-арати), 5.139; Антья 16.88
+      (утреннее арати под раковины и колокола); лампада с пятью фитилями (*пан̃ча-ш́икха̄*) — ЧБ Мадхья 6.109; с семью
+      — ЧБ Ади 15.168; арати панды Махапрабху в Пури — Лочан, Мадхья-кханда, ч. 22, ст. 210. Многорожковый медный
+      светильник для арати — Mukharji 1888 (поздн.).
+    en: >-
+      Arati in temples and homes — CC Madhya 3.58–59, 4.66, 4.80, 4.121–122, 4.209 (mangala-arati), 5.139; Antya 16.88
+      (morning arati with conches and bells); a five-flamed lamp (pancha-shikha) — CB Madhya 6.109; seven-wicked — CB
+      Adi 15.168; a panda's arati to Mahaprabhu in Puri — Lochana, Madhya-khanda pt. 22 v. 210. The many-branched
+      copper arati lamp — Mukharji 1888 (later).
+  text:
+    ru: >-
+      После подношения пищи раздаётся звон колокольчика и голос раковины — начинается арати. Служитель медленно
+      описывает кругами перед Господом лампаду с гхи — с одним, пятью или многими фитилями, — затем раковину с
+      водой, ткань, цветы и опахало-чамару, а все стоят со сложенными ладонями и потом падают ниц с криками «Джая!
+      Джая!». Самое раннее, в предрассветный час, — мангала-арати: странствуя, Махапрабху всю ночь пел у храма и
+      уходил в путь лишь после него. В доме Адвайты в Шантипуре на вечернее арати звали всех, и лишь затем Кришну
+      укладывали отдыхать.
+    en: >-
+      After the food offering a bell rings and the conch sounds — arati begins. The priest slowly circles a ghee lamp
+      before the Lord — with one, five or many wicks — then a conch of water, a cloth, flowers and the chamara whisk,
+      while everyone stands with joined palms and then falls prostrate crying "Jaya! Jaya!". The earliest, before
+      dawn, is mangala-arati: on His travels Mahaprabhu sang all night by a temple and set out only after it. In
+      Advaita's house at Shantipur everyone was called to the evening arati, and only then was Krishna laid down to
+      rest.
+  hagiography: ["ЧЧ Мадхья 3.58–59", "ЧЧ Мадхья 4.66", "ЧЧ Мадхья 4.80", "ЧЧ Мадхья 4.121–122", "ЧЧ Мадхья 4.209",
+                "ЧЧ Мадхья 5.139", "ЧЧ Антья 16.88", "ЧБ Мадхья 6.109", "ЧБ Ади 15.168",
+                "Лочан, Мадхья-кханда, ч. 22, ст. 210"]
+  sources: ["Mukharji 1888, p. 186–187 (медный светильник с одним или многими рожками для арати)"]
+  images: []
+  game: {model: "медный светильник-панчапрадипа на ручке (5 чашечек с фитилями), раковина на подставке, колокольчик,
+         чамара", where: ["mishra-house/thakur-ghar", "puri/jagannatha-temple"],
+         notes: "звук: колокольчик + раковина + караталы; камфорный светильник — проверить для эпохи"}
+
+- id: mc-chamara-chhatra
+  title: {ru: "Чамара, опахало и зонт — царские знаки служения", en: "Chamara, fan and parasol — royal signs of service"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Зонт и чамары над младенцем-Господом — ЧБ Ади 2.227; зонт и чамара при маха-пракаше — ЧБ Мадхья 9.45, 22.19;
+      опахало — ЧБ Мадхья 9.122, 20.16, Антья 9.49; чамары и зонты на празднике — ЧБ Антья 8.104, 8.110; веера из
+      павлиньих перьев у Пундарики Видьянидхи — ЧБ Мадхья 7.62. Материал чамары (хвост яка) — HJ 1903.
+    en: >-
+      Parasol and chamaras over the infant Lord — CB Adi 2.227; parasol and chamara at the maha-prakasha — CB Madhya
+      9.45, 22.19; a fan — CB Madhya 9.122, 20.16, Antya 9.49; chamaras and parasols at a festival — CB Antya 8.104,
+      8.110; peacock-feather fans at Pundarika Vidyanidhi's — CB Madhya 7.62. The material of a chamara (yak tail) —
+      HJ 1903.
+  text:
+    ru: >-
+      Чамара — пушистое белое опахало из хвоста гималайского яка на резной рукояти, древний знак царского достоинства.
+      Им медленно обмахивают Господа во время арати и праздников, рядом держат зонт-чхатру и машут веером из
+      пальмового листа или павлиньих перьев. Когда Махапрабху явил Себя на троне у Шриваса, Нитьянанда держал над
+      Ним зонт, а счастливцы обмахивали Его чамарой. Знатный Пундарика Видьянидхи сидел, словно принц, и двое слуг
+      без устали махали над ним павлиньими веерами — но за этим роскошным обликом скрывался великий преданный.
+    en: >-
+      A chamara is a fluffy white whisk of Himalayan yak tail on a carved handle, an ancient sign of royal dignity.
+      The Lord is slowly fanned with it during arati and festivals, a parasol (chhatra) is held beside, and fans of
+      palm leaf or peacock feathers are waved. When Mahaprabhu revealed Himself on the throne at Shrivasa's house,
+      Nityananda held a parasol over Him and the fortunate fanned Him with a chamara. The noble Pundarika Vidyanidhi
+      sat like a prince while two servants tirelessly waved peacock fans over him — yet behind that luxurious look
+      was a great devotee.
+  hagiography: ["ЧБ Ади 2.227", "ЧБ Мадхья 9.45", "ЧБ Мадхья 22.19", "ЧБ Мадхья 9.122", "ЧБ Мадхья 20.16",
+                "ЧБ Антья 9.49", "ЧБ Антья 8.104", "ЧБ Антья 8.110", "ЧБ Мадхья 7.62"]
+  sources: ["HJ 1903, s.v. CHOWRY, p. 214–215 (чамара — хвост тибетского яка на украшенной рукояти, знак царской власти)"]
+  images: []
+  game: {model: "чамара: белый пучок хвоста яка ~45 см на рукояти 25 см (дерево/серебро); зонт-чхатра с бахромой;
+         веер из пальмового листа", where: ["mishra-house/thakur-ghar", "navadvipa/shrivasa-house"]}
+
+- id: mc-puja-copperware
+  title: {ru: "Медная утварь для пуджи", en: "Copper vessels for worship"}
+  rubric: rites
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Названия и форма предметов — Mukharji 1888, p. 186–187 (Бенгалия XIX в., названия традиционные). Жития называют
+      функции: вода для стоп и рта, раковина для омовения, сосуды с ароматной водой, металлический поднос (ЧЧ Мадхья
+      3.42; 4.62, 4.65; ЧБ Мадхья 9.46–47). Медь как металл чистоты для обрядов — по Mukharji (канса для этого «не
+      достаточно чиста»).
+    en: >-
+      The names and shapes — Mukharji 1888, p. 186–187 (19th-c. Bengal, traditional names). The hagiographies give the
+      functions: water for feet and mouth, a conch for bathing, vessels of scented water, a metal tray (CC Madhya 3.42;
+      4.62, 4.65; CB Madhya 9.46–47). Copper as the pure metal for ritual — per Mukharji (bell-metal is "not pure enough").
+  text:
+    ru: >-
+      Для служения Божеству в Бенгалии брали медь: колокольную бронзу-кансу считали недостаточно чистой. На подносе
+      у престола — коша, сосуд в форме лепестка бананового соцветия, и маленькая ложечка-кушӣ для воды; тамракунда —
+      медный таз, где омывают Господа; блюдо и плетёная корзинка с ручкой (саджи) для цветов; чашечки для
+      сандаловой пасты; светильник для арати. Эту утварь не украшали резьбой, потому что её каждый раз чистят
+      землёй или золой, — она сияет чистотой.
+    en: >-
+      For serving the Deity Bengal used copper: bell-metal (kansa) was not thought pure enough. On the tray by the
+      throne stand the kosha, a vessel shaped like a petal of the banana flower, with the little spoon kushi for
+      water; the tamrakunda, a copper basin in which the Lord is bathed; a plate and a handled wicker basket (saji)
+      for flowers; small cups for sandal paste; and a lamp for arati. This ware was not carved, because it is scoured
+      with earth or ash each time — it shines with cleanliness.
+  hagiography: ["ЧЧ Мадхья 3.42", "ЧЧ Мадхья 4.62", "ЧЧ Мадхья 4.65", "ЧБ Мадхья 9.46–47"]
+  sources: ["Mukharji 1888, p. 186–187 (kosha, kushi, tamrakunda, pushpa-patra, saji, чашечки для сандала, светильник
+            для арати; медь — для обрядов)", "Mukharji 1888, p. 157, 186 (канса не годится для обрядов)"]
+  images: []
+  game: {model: "коша ~20 см (вытянутая чаша-лепесток) с ложечкой кушӣ 12 см; тамракунда Ø 25–30 см; плетёная
+         корзинка саджи с дугой-ручкой", where: ["mishra-house/thakur-ghar"]}
+  todo: "найти изображение кошa-кушӣ в музеях (CC-лицензия)"
+
+- id: mc-sandal-paste
+  title: {ru: "Сандаловая паста (чандана)", en: "Sandal paste (chandana)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Сандал и камфара для Гопала, растирание сандала, умащение Гопинатхи в Ремуне — ЧЧ Мадхья 4.106–168; сандал в
+      упачарах — ЧБ Мадхья 9.43, 9.49, 6.106–107; ЧБ Ади 14.42; тилака из сандала — ЧБ Мадхья 7.63; царь кропит дорогу
+      сандаловой водой — ЧЧ Мадхья 13.15–18 (см. mc-king-sweeper); красный сандал — ЧЧ Ади 17.39.
+    en: >-
+      Sandal and camphor for Gopala, grinding sandal, anointing Gopinatha at Remuna — CC Madhya 4.106–168; sandal in
+      the upacharas — CB Madhya 9.43, 9.49, 6.106–107; CB Adi 14.42; sandal tilaka — CB Madhya 7.63; the king sprinkles
+      the road with sandal water — CC Madhya 13.15–18 (see mc-king-sweeper); red sandal — CC Adi 17.39.
+  text:
+    ru: >-
+      Сандаловую пасту получают, растирая душистое дерево с водой о плоский камень; в неё добавляют камфару, шафран,
+      агуру. Ею умащают тело Господа, особенно в летний зной, в неё обмакивают листья туласи, ею рисуют тилаку.
+      Однажды Гопал явился во сне Мадхавендре Пури и сказал, что Ему жарко: «Принеси Мне сандал из Нилачалы».
+      Престарелый санньяси пешком прошёл через пол-Индии, собрал в Пури сандал и камфару, но в Ремуне Гопал
+      велел: «Умасти Гопинатху — Мы едины, и Мне станет прохладно». Двое спутников Пури и двое храмовых слуг каждый
+      день растирали сандал, пока он не кончился.
+    en: >-
+      Sandal paste is made by rubbing the fragrant wood with water on a flat stone; camphor, saffron and aguru are
+      added. The Lord's body is anointed with it, especially in the summer heat; tulasi leaves are dipped in it and
+      tilaka drawn with it. Once Gopala appeared in a dream to Madhavendra Puri and said He was hot: "Bring Me sandal
+      from Nilachala." The aged sannyasi walked across half of India, gathered sandal and camphor in Puri, but at
+      Remuna Gopala said: "Anoint Gopinatha — We are one, and I shall be cooled." Two of Puri's companions and two
+      temple servants ground sandal every day until it was used up.
+  hagiography: ["ЧЧ Мадхья 4.106–107", "ЧЧ Мадхья 4.150–168", "ЧБ Мадхья 9.43", "ЧБ Мадхья 9.49",
+                "ЧБ Мадхья 6.106–107", "ЧБ Ади 14.42", "ЧБ Мадхья 7.63", "ЧЧ Ади 17.39"]
+  sources: []
+  images: []
+  game: {model: "плоский камень для растирания сандала (~25×20 см), палочка сандалового дерева, медная чашечка с
+         пастой", where: ["mishra-house/thakur-ghar", "remuna/gopinatha-temple"]}
+  todo: "бенгальское название камня для сандала (чандан-пинди? шила?) — проверить по PD-словарю"
+
+- id: mc-tulasi-in-worship
+  title: {ru: "Туласи в поклонении: листья, манджари, туласи в горшке", en: "Tulasi in worship: leaves, buds, tulasi in a pot"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Манджари в сандале на стопы — ЧБ Мадхья 6.107, 9.49; лист туласи на каждом блюде — ЧЧ Мадхья 3.56; туласи и
+      вода — ЧЧ Ади 3.103–107; Махапрабху сажает туласи в маленький горшок, её несут перед Ним во время счётной джапы
+      и ставят рядом — ЧБ Антья 8.154–161. Двор с туласи-манчей — см. mc-tulasi-mancha.
+    en: >-
+      Buds in sandal placed on the feet — CB Madhya 6.107, 9.49; a tulasi leaf on every dish — CC Madhya 3.56; tulasi
+      and water — CC Adi 3.103–107; Mahaprabhu plants tulasi in a small pot, which is carried before Him during His
+      counted japa and set beside Him — CB Antya 8.154–161. The courtyard tulasi platform — see mc-tulasi-mancha.
+  text:
+    ru: >-
+      Без туласи подношение Вишну не полно: лист кладут на каждое блюдо, а соцветия-манджари, обмакнутые в
+      сандаловую пасту, — к стопам Господа. Писания говорят, что Кришна отдаёт Себя тому, кто поднесёт Ему хотя бы
+      листок туласи и пригоршню воды. В Пури Махапрабху посадил туласи в маленький глиняный горшок и сказал: «Без
+      туласи Мне не жить, как рыбе без воды». Когда Он шёл, повторяя святые имена, кто-нибудь нёс туласи перед Ним,
+      а когда садился за джапу, горшок ставили рядом, и Господь неотрывно смотрел на неё.
+    en: >-
+      Without tulasi an offering to Vishnu is incomplete: a leaf is placed on each dish, and buds (manjari) dipped in
+      sandal paste at the Lord's feet. Scripture says Krishna gives Himself to one who offers Him even a tulasi leaf
+      and a handful of water. In Puri Mahaprabhu planted tulasi in a small clay pot and said, "Without tulasi I cannot
+      live, like a fish without water." When He walked chanting the holy names someone carried tulasi before Him, and
+      when He sat down to chant the pot was set beside Him, and the Lord gazed at her unceasingly.
+  hagiography: ["ЧБ Антья 8.154–161", "ЧБ Мадхья 6.107", "ЧБ Мадхья 9.49", "ЧЧ Мадхья 3.56", "ЧЧ Ади 3.103–107"]
+  sources: []
+  images: []
+  game: {model: "маленький глиняный горшок с кустиком туласи (высота горшка ~15 см); манджари — фиолетовые колоски",
+         where: ["puri/gambhira", "mishra-house/thakur-ghar"], codex: hs_tulasi}
