@@ -7,7 +7,7 @@ from mathutils import Vector, Matrix
 argv = sys.argv[sys.argv.index('--') + 1:] if '--' in sys.argv else []
 def arg(name, default):
     return type(default)(argv[argv.index(name) + 1]) if name in argv else default
-A = arg('--assets', 'assets')
+A = os.path.abspath(arg('--assets', 'assets'))
 OUT = arg('--out', 'probe.png')
 RES = arg('--res', 50)
 SAMPLES = arg('--samples', 32)
@@ -779,9 +779,9 @@ cam.clip_end = 200
 
 sc.use_nodes = True
 ct = sc.node_tree; rl = ct.nodes.new('CompositorNodeRLayers'); comp = ct.nodes['Composite'] if 'Composite' in ct.nodes else ct.nodes.new('CompositorNodeComposite')
-gl = ct.nodes.new('CompositorNodeGlare'); gl.glare_type = 'FOG_GLOW'; gl.quality = 'HIGH'
+gl = ct.nodes.new('CompositorNodeGlare'); gl.glare_type = 'BLOOM'; gl.quality = 'HIGH'
 try:
-    gl.threshold = 1.2; gl.size = 7; gl.mix = -0.6
+    gl.threshold = 1.5; gl.size = 6; gl.mix = -0.75
 except Exception:
     pass
 ct.links.new(rl.outputs['Image'], gl.inputs['Image']); ct.links.new(gl.outputs['Image'], comp.inputs['Image'])
