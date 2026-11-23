@@ -32,27 +32,30 @@ origin:
 relations:
   - {type: father, who: "@venkata-bhatta", facts: [F6, F10, F12, F16, F17, F19, F25, F98], events: [ev-srirangam-chaturmasya]}
   - {type: uncle, who: "@trimalla-bhatta", facts: [F12, F13, F15, F70, F96, F97, F98], note: "У Мурари — отец (F97); у Нарахари — дом Трималлы и Венкаты."}
-  - {type: guru, who: "@prabodhananda-sarasvati", facts: [F12, F13, F15, F23, F25, F101, F102, F104, F107], note: "Дядя по отцу; учитель шастр (B, M) и дикша-гуру (T по ХБВ 1.2; B 485, 767); B 607 — «шикша-ученик»."}
+  - {type: guru, who: "@prabodhananda-sarasvati", facts: [F12, F13, F15, F23, F25, F101, F102, F104, F107, F126, F135], note: "Дядя по отцу; учитель шастр (B, M) и дикша-гуру (T по ХБВ 1.2; B 485, 767); B 607 — «шикша-ученик»."}
   - {type: companion, who: "@mahaprabhu", facts: [F7, F10, F11, F16, F19, F20, F21, F22, F25, F26, F29, F30, F70], events: [ev-srirangam-chaturmasya, ev-gopala-bhatta-dream-vision, ev-lord-sends-seat-gopala-bhatta], note: "Мальчиком служил Ему в доме отца четыре месяца; обещание Вриндавана; письмо и дары (дор, каупина, бахирвас; по T — и сиденье) из Нилачалы."}
   - {type: friend, who: "@rupa-gosvami", facts: [F28, F29, F31, F47, F71, F79, F80, F91], events: [ev-gopala-bhatta-comes-vrindavana, ev-gopala-mathura-vitthaleshvara, ev-radha-ramana-appearance], note: "Рупа поручил ему служение Радха-раману (T); в свите Рупы назван первым (ЧЧ Мадхья 18.49)."}
-  - {type: friend, who: "@sanatana-gosvami", facts: [F28, F29, F32, F57, F71, F74, F80], events: [ev-hari-bhakti-vilasa], note: "«Хари-бхакти-виласа»: составил Санатана под его именем / вместе с ним (M) / отредактирована им (Бхактисиддханта)."}
-  - {type: companion, who: "@raghunatha-dasa", facts: [F61, F74, F76, F104, F108], note: "Два помощника Санатаны («Вайшнава-тошани» 13); ХБВ 1.2 — на радость Рагхунатхе Дасу."}
+  - {type: friend, who: "@sanatana-gosvami", facts: [F28, F29, F32, F57, F71, F74, F80, F111, F136], events: [ev-hari-bhakti-vilasa], note: "«Хари-бхакти-виласа»: составил Санатана под его именем / вместе с ним (M) / отредактирована им (Бхактисиддханта)."}
+  - {type: companion, who: "@raghunatha-dasa", facts: [F61, F74, F76, F104, F108, F111], note: "Два помощника Санатаны («Вайшнава-тошани» 13); ХБВ 1.2 — на радость Рагхунатхе Дасу."}
   - {type: companion, who: "@raghunatha-bhatta", facts: [F1, F62, F76, F88]}
-  - {type: companion, who: "@jiva-gosvami", facts: [F54, F55, F58, F59, F61, F72, F75, F80, F88], events: [ev-srinivasa-arrives-vrindavana, ev-books-mission-decision], note: "Джива упорядочил его «кадачу» в «Шат-сандарбху»; по его желанию послал Шринивасу в Гауду."}
+  - {type: companion, who: "@jiva-gosvami", facts: [F54, F55, F58, F59, F61, F72, F75, F80, F88, F114, F115, F119, F121, F128], events: [ev-srinivasa-arrives-vrindavana, ev-books-mission-decision, ev-books-leave-vrindavana], note: "Джива упорядочил его «кадачу» в «Шат-сандарбху»; по его желанию послал Шринивасу в Гауду."}
   - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F1, F65, F100], event: ev-lokanatha-forbids-mention, note: "Один из шести шикша-гуру Кавираджа; позволил писать ЧЧ, но запретил писать о себе; «Става-панчака» приписывается Кавираджу."}
-  - {type: disciple, who: "@srinivasa-acharya", facts: [F53, F54, F55, F59, F105], events: [ev-srinivasa-initiation, ev-srinivasa-second-vrindavana]}
+  - {type: disciple, who: "@srinivasa-acharya", facts: [F53, F54, F55, F59, F105, F112, F114, F115, F116, F117, F118, F119, F120, F121, F126, F127, F128, F131, F132], events: [ev-srinivasa-initiation, ev-books-leave-vrindavana, ev-srinivasa-second-vrindavana], note: "БР 6: прощание перед Радха-раманой, «вверил Шринивасу Шри Радха-рамане»; БР 9: второй приход, симхасана-ятра Радха-раманы."}
   - {type: disciple, who: "@gopinatha-pujari", facts: [F41, F43, F50, F52, F53], note: "Обещанный отцом первенец из Деобанда; брахмачари, служитель Радха-раманы."}
   - {type: disciple, who: "@harivamsha", facts: [F53, F56, F102], event: ev-harivamsha-fall, note: "Отвергнут за нарушение правил поведения (B); имя гуру вставлено в его список учеников со злым умыслом (по преданию)."}
   - {type: other, who: "@damodara-dasa-radharamana", facts: [F50], note: "Брат Гопинатхи Пуджари; его потомки — служители Радха-раманы (B 601) ≠ род Гопинатхи (B 666)."}
-  - {type: deity-served, who: "@radha-ramana-deity", facts: [F39, F44, F45, F46, F47, F49, F50, F51, F57], event: ev-radha-ramana-appearance, note: "Явился из шалаграмы в вайшакха-пурниму 1599 Самват (1542); M ошибочно — «1599 н. э.»; по некоторым — явлен Рупой по сну (F47)."}
-  - {type: companion, who: "@lokanatha", facts: [F31, F55, F58, F59, F60, F69, F70, F73], event: ev-lokanatha-life-vrindavana}
-  - {type: companion, who: "@bhugarbha", facts: [F55, F58, F59, F60, F73, F77]}
-  - {type: other, who: "@narottama-dasa", facts: [F61, F62]}
-  - {type: other, who: "@jahnava", facts: [F58], event: ev-jahnava-vrindavana}
-  - {type: other, who: "@ramachandra-kaviraja", facts: [F60]}
-  - {type: other, who: "@shyamananda", facts: [F55, F61]}
+  - {type: deity-served, who: "@radha-ramana-deity", facts: [F39, F44, F45, F46, F47, F49, F50, F51, F57, F115, F121, F131], event: ev-radha-ramana-appearance, note: "Явился из шалаграмы в вайшакха-пурниму 1599 Самват (1542); M ошибочно — «1599 н. э.»; по некоторым — явлен Рупой по сну (F47)."}
+  - {type: companion, who: "@lokanatha", facts: [F31, F55, F58, F59, F60, F69, F70, F73, F113, F117, F119, F120, F122, F123, F133], event: ev-lokanatha-life-vrindavana}
+  - {type: companion, who: "@bhugarbha", facts: [F55, F58, F59, F60, F73, F77, F113, F117, F119, F120, F122, F128]}
+  - {type: other, who: "@narottama-dasa", facts: [F61, F62, F112, F114, F115]}
+  - {type: other, who: "@jahnava", facts: [F58, F122, F123, F124, F125], event: ev-jahnava-vrindavana, note: "БР 11: встреча у места Акруры (M — в Матхуре, T — во Вриндаване), даршан Божеств, прощание."}
+  - {type: other, who: "@ramachandra-kaviraja", facts: [F60, F120], note: "БР 9.216: вместе со Шринивасой служил ему; прозвание «Кавираджа» — от «Бхатты Госвами и всех остальных» (9.213–214)."}
+  - {type: other, who: "@shyamananda", facts: [F55, F61, F113, F114, F115], events: [ev-srinivasa-narottama-shyamananda-vrindavana]}
+  - {type: other, who: "@govinda-kaviraja", facts: [F122, F123, F125], events: [ev-govinda-kaviraja-title, ev-jiva-sends-gopala-virudavali], note: "БР 11: обнял Говинду при встрече и при прощании."}
+  - {type: other, who: "@parameshvara-dasa", facts: [F122, F123], note: "БР 11.104: называет Джахнаве Госвами, начиная с Гопалы Бхатты."}
+  - {type: other, who: "@keshava-kashmiri", facts: [F37, F136], note: "Саньял: из «Крама-дипики» Кешавы Бхатты Санатана и Гопала Бхатта взяли материал для ХБВ."}
   - {type: other, who: "@yadunandana-dasa-author", facts: [F26, F28, F65], note: "«Карнананда» 5 — источник B о детстве и приходе во Вриндаван."}
-  - {type: other, who: "@narahari-chakravarti", facts: [F15, F17, F18, F70, F98, F99], note: "БР и песня о его жизни."}
+  - {type: other, who: "@narahari-chakravarti", facts: [F15, F17, F18, F70, F98, F99, F111, F127, F129], note: "БР и песня о его жизни."}
   - {type: other, who: "@kavi-karnapura", facts: [F67]}
   - {type: other, who: "@bhaktivinoda", facts: [F3, F85, F91], note: "Даты; рукописи и первое издание «Сат-крия-сара-дипики»."}
   - {type: other, who: "@bhaktisiddhanta", facts: [F33, F78, F90, F101]}
@@ -88,11 +91,15 @@ events:   # по порядку жизни (lila-db: period, order)
   - ev-lokanatha-forbids-mention
   - ev-srinivasa-arrives-vrindavana
   - ev-srinivasa-initiation
+  - ev-srinivasa-narottama-shyamananda-vrindavana
   - ev-books-mission-decision
+  - ev-books-leave-vrindavana
   - ev-jahnava-vrindavana
+  - ev-govinda-kaviraja-title
+  - ev-jiva-sends-gopala-virudavali
   - ev-srinivasa-second-vrindavana
   - ev-harivamsha-fall
-events_note: "По T/M/B: Шрирангам (мальчик служит Господу, обещание Вриндавана), видение навадвипских игр (T по БР), приход во Вриндаван после смерти родителей, письмо и дары Господа, ХБВ, явление Радха-рамана, Матхура со свитой Рупы, запрет Кавираджу писать о себе, посвящение Шринивасы и посылка книг, Джахнава, второй приход Шринивасы. Только по lila-db: ev-harivamsha-fall (бетель в экадаши — «Према-виласа»; B лишь «нарушение правил»), ev-srinivasa-marriage(-untruth) — не в книгах T/M/B."
+events_note: "По T/M/B: Шрирангам (мальчик служит Господу, обещание Вриндавана), видение навадвипских игр (T по БР), приход во Вриндаван после смерти родителей, письмо и дары Господа, ХБВ, явление Радха-рамана, Матхура со свитой Рупы, запрет Кавираджу писать о себе, посвящение Шринивасы и посылка книг, Джахнава, второй приход Шринивасы. Только по lila-db: ev-harivamsha-fall (бетель в экадаши — «Према-виласа»; B лишь «нарушение правил»), ev-srinivasa-marriage(-untruth) — не в книгах T/M/B. Дополнение 2026-11-23 (БР 6, 9, 11): прощание Шринивасы, Нароттамы и Шьямананды перед Радха-раманой и отъезд книг (ev-books-leave-vrindavana), Шьямананда во Вриндаване, прозвание Говинды «Кавираджей» и прощание с ним, симхасана-ятра Радха-раманы."
 teachings_given: []
 teachings_received: []
 works:
@@ -101,8 +108,8 @@ works:
   - {title: "«Сат-крия-сара-дипика» с «Самскара-дипикой»", facts: [F81, F82, F83, F84, F85, F86, F87, F88, F89, F90]}
   - {title: "стих 38 «Падьявали»; песни на браджабхаше (приписываются)", facts: [F38, F39, F40]}
   - {title: "комментарий к «Кришна-карнамрите» (БР, T, M; B: «Кришна-валлабха» — тёзки)", facts: [F92, F93, F95]}
-places: ["#ranga-kshetra", "#kaveri", "#vrindavana", "#deoband", "#gandaki", "#mathura", "#puri", "#radha-kunda", "#govardhana", "#varshana", "#nandagrama", "#javat", "#gokula", "#sanketa"]
-places_facts: [F6, F9, F10, F23, F28, F41, F42, F43, F70, F79, F87, F108]
+places: ["#ranga-kshetra", "#kaveri", "#vrindavana", "#deoband", "#gandaki", "#mathura", "#puri", "#radha-kunda", "#govardhana", "#varshana", "#nandagrama", "#javat", "#gokula", "#sanketa", "#akrura-tirtha"]
+places_facts: [F6, F9, F10, F23, F28, F41, F42, F43, F70, F79, F87, F108, F111, F112, F122, F125]
 character:
   - {trait: "с детства — служение Господу в доме отца и жажда снова быть у Его стоп", facts: [F16, F19, F20, F21], events: [ev-srirangam-chaturmasya]}
   - {trait: "великая учёность (у дяди Прабодхананды), победы над майявадой", facts: [F23]}
@@ -116,7 +123,7 @@ sources:
   T: "174–177 (глава); 150, 151, 178–180, 200, 205–206, 210, 212, 250"
   M: "41–48 (глава); 11, 97, 191–192, pdf 84, 182, 197, 311"
   B: "588–625 (глава); 35–36, 52, 213 (тёзка), 267, 269, 320, 331, 353, 383, 461, 483–491, 504, 555, 567–571, 633, 665–670, 677, 767, 839, 1099, 1103–1104, 1111, 1128"
-  other: ["ЧЧ Ади 1.36–37, 10.105; Мадхья 1.108–112, 9.79–165, 9.224–233, 18.49", "БР 1.83–228, 4, 5.624–629, 6.310, 6.401–402, 11", "ГГД 184", "Мурари, «Кришна-чайтанья-чаритамрита» 3.15", "«Карнананда» 5", "«Према-виласа»", "«Анурага-валли»", "ХБВ 1.2, 15.39", "«Шат-сандарбха», «Таттва-сандарбха» 4 (Баладева)", "«Става-панчака»", "песни Манохары Даса и Нарахари", "«Саджджана-тошани»; «Джайва-дхарма» 39", "«Радхарамана-пракатья»", "«Намамрита-самудра» 30"]
+  other: ["ЧЧ Ади 1.36–37, 10.105; Мадхья 1.108–112, 9.79–165, 9.224–233, 18.49", "БР 1.83–228, 4, 5.624–629, 6.310, 6.401–402, 11", "ГГД 184", "Мурари, «Кришна-чайтанья-чаритамрита» 3.15", "«Карнананда» 5", "«Према-виласа»", "«Анурага-валли»", "ХБВ 1.2, 15.39", "«Шат-сандарбха», «Таттва-сандарбха» 4 (Баладева)", "«Става-панчака»", "песни Манохары Даса и Нарахари", "«Саджджана-тошани»; «Джайва-дхарма» 39", "«Радхарамана-пракатья»", "«Намамрита-самудра» 30", "БР 5.554–603, 6.117–119, 6.313–526, 7.7, 7.172, 7.516, 7.610, 9.81–229, 11.3, 11.99–294, 12.4059–4060, 14.18–22, 14.203–205, 15.8, «Грантханувада» 42 (дополнение 2026-11-23)", "«Расика-мангала» 1.1 S4", "«Джагадиша-чаритра-виджая» 1.87, 12.98", "«Шакха-нирная Абхирамачандры» 15; «Шакха-нирнаямрита» 42 (?)", "Дивакар Дас, «Джаганнатха-чаритамрита» 3.161–176, 7.5–8 (традиция атибади; «Гопала Дас»)", "Саньял, «Sree Krishna Chaitanya» I-01, I-06, II-18"]
 article: {ru: "parshadas/ru/gopala-bhatta.md", en: "parshadas/en/gopala-bhatta.md"}
 open_questions:
   - "Годы жизни: 1503–1578 (Бхактивинода, M) или 1500–1585 («Радхарамана-пракатья», T) (F3, F4); титхи явления: кришна-трития (наш календарь) или кришна-трайодаши (M) пауши (F5)."
@@ -127,3 +134,7 @@ open_questions:
   - "Род служителей Радха-раманы — от Дамодары Даса (B 601) или от Гопинатхи (B 666) (F50)."
   - "Комментарий к «Кришна-карнамрите»: его (БР, T, M) или тёзки из Дравиды (B) (F92)."
   - "«Гопи-бхритья» в подписи «Самскара-дипики» — имя, эпитет или скрытое имя (F89)."
+  - "Где была его хижина: у Манаси-ганги на Говардхане (T) или у Манаса-павана-гхата Шьяма-кунды (БР 5.555, 5.602) (F108, F111, F112)."
+  - "Где Госвами встретили Джахнаву: у места Акруры (БР 11.99–100), в Матхуре (M) или во Вриндаване (T) (F58, F122)."
+  - "Год ухода — БР молчит; письмо Дживы о скорби (БР 14.22) по «Према-виласе» — о его уходе (F128)."
+  - "«Гопала Дас» среди шести госаев у Дивакара (традиция атибади) — видимо, он (F134); «Локанатха-Бхатта» в «Шакха-нирнаямрите» 42 — неясно (F133)."

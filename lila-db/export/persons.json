@@ -35367,7 +35367,8 @@
    },
    {
     "type": "disciple",
-    "who": "@srinivasa-acharya"
+    "who": "@srinivasa-acharya",
+    "note": "БР 6: прощание перед Радха-раманой, «вверил Шринивасу Шри Радха-рамане»; БР 9: второй приход, симхасана-ятра Радха-раманы."
    },
    {
     "type": "disciple",
@@ -35403,15 +35404,32 @@
    },
    {
     "type": "other",
-    "who": "@jahnava"
+    "who": "@jahnava",
+    "note": "БР 11: встреча у места Акруры (M — в Матхуре, T — во Вриндаване), даршан Божеств, прощание."
    },
    {
     "type": "other",
-    "who": "@ramachandra-kaviraja"
+    "who": "@ramachandra-kaviraja",
+    "note": "БР 9.216: вместе со Шринивасой служил ему; прозвание «Кавираджа» — от «Бхатты Госвами и всех остальных» (9.213–214)."
    },
    {
     "type": "other",
     "who": "@shyamananda"
+   },
+   {
+    "type": "other",
+    "who": "@govinda-kaviraja",
+    "note": "БР 11: обнял Говинду при встрече и при прощании."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "БР 11.104: называет Джахнаве Госвами, начиная с Гопалы Бхатты."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-kashmiri",
+    "note": "Саньял: из «Крама-дипики» Кешавы Бхатты Санатана и Гопала Бхатта взяли материал для ХБВ."
    },
    {
     "type": "other",
@@ -50717,6 +50735,10 @@
   ],
   "related_by": [
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@jahnava",
     "type": "patron"
    },
@@ -55961,6 +55983,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@govinda-kaviraja",
     "type": "other"
    },
@@ -56897,6 +56923,10 @@
   "related_by": [
    {
     "from": "@chaitanya-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
     "type": "other"
    },
    {
