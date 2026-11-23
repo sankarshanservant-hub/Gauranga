@@ -1,0 +1,403 @@
+# Рубрика «Путь» (travel), исполнитель society: пешие странствия, ночлег, лодки и переправы, кони и слоны,
+# дороги в Пури, граница и опасности пути. Формат — material-culture/README.md.
+# Паланкин-дола — mc-palanquin (travel.yaml); пошлины и Шивананда-провожатый — mc-ferries-tolls (puri.yaml).
+
+- id: mc-pilgrim-on-foot
+  title: {ru: "Пешком: посох, кувшин и покрывало", en: "On foot: staff, water pot and blanket"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Господь отдаёт посох Нитьянанде, тот ломает его и бросает в реку — ЧЧ Мадхья 5.141–151; спутник «будет нести
+      Твою одежду и кувшин» — Мадхья 17.19; у Санатаны в пути остаются «лишь кувшин для воды и старый плед» — Мадхья
+      20.36; путь «в три кроши» — Мадхья 5.146; Господь идёт обходными тропами, минуя главный тракт — Мадхья 17.24.
+    en: >-
+      The Lord hands His staff to Nityananda, who breaks it and throws it in the river — CC Madhya 5.141–151; a companion
+      'will carry Your cloth and water pot' — Madhya 17.19; Sanatana is left on the road with 'only a water pot and an
+      old blanket' — Madhya 20.36; a way of 'three kroshas' — Madhya 5.146; the Lord takes by-paths, avoiding the main
+      road — Madhya 17.24.
+  text:
+    ru: >-
+      Большинство путников шли пешком, босиком, по пыльным тропам между деревнями и вдоль рек. Санньяси нёс бамбуковый
+      посох-данду и кувшин для воды (камандалу), за плечами — свёрток с запасной тканью, а на ночь — покрывало. Мерили
+      путь в крошах — около трёх километров; за день проходили несколько крош, а на отдых останавливались у пруда или
+      в роще. Санатана после бегства из тюрьмы остался с одним кувшином и старым пледом, а посох Господа Нитьянанда
+      сломал о колено и бросил в реку: «Тебе он не нужен».
+    en: >-
+      Most travellers went on foot, barefoot, along dusty paths between villages and beside rivers. A sannyasi carried a
+      bamboo staff (danda) and a water pot (kamandalu), a bundle of spare cloth on his shoulder and a blanket for the
+      night. Distance was reckoned in kroshas — about three kilometres; a day's march was several kroshas, with rests by
+      a pond or in a grove. Sanatana after his escape from prison was left with one water pot and an old blanket, and
+      the Lord's staff Nityananda broke and threw into the river: 'You have no need of it.'
+  hagiography: ["ЧЧ Мадхья 5.141–151", "ЧЧ Мадхья 17.19", "ЧЧ Мадхья 20.36", "ЧЧ Мадхья 5.146", "ЧЧ Мадхья 17.24"]
+  sources: []
+  images: []
+  game: {model: "санньяси: бамбуковый посох 1,6–1,8 м, кувшин-камандалу из сушёной тыквы-горлянки или кокоса (⚠ материал проверить), свёрток ткани",
+         where: ["road-to-puri"], notes: "крош ≈ 3 км (так в сноске к ЧЧ Мадхья 5.146); значение для эпохи проверить"}
+  todo: "длина кроши в Бенгалии и Ориссе XVI в.; из чего делали камандалу санньяси"
+
+- id: mc-lodging-on-road
+  title: {ru: "Ночлег в пути", en: "Lodging on the road"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Пратапарудра велит в каждой деревне построить для Господа пять-семь новых домов с припасами — ЧЧ Мадхья
+      16.111–112, 16.152; Шивананда находит «лучшие места для ночлега» — 16.26; Санатана ночует в саду в Хаджипуре —
+      Мадхья 20.37; Господь останавливается в доме брахмана Рамачандры Кхана — ЧБ Антья 2.101–106; в деревнях
+      Джхарикханды брахманы и люди низших сословий приглашают Господа и снабжают Балабхадру крупами — ЧЧ Мадхья 17.58–61.
+    en: >-
+      Prataparudra orders five to seven new houses with provisions to be built for the Lord in every village — CC Madhya
+      16.111–112, 16.152; Shivananda finds 'the best places to stay' — 16.26; Sanatana spends the night in a garden at
+      Hajipur — Madhya 20.37; the Lord stays at the house of the brahmin Ramachandra Khan — CB Antya 2.101–106; in the
+      villages of Jharikhanda brahmins and people of lower castes invite the Lord and supply Balabhadra with grain — CC
+      Madhya 17.58–61.
+  text:
+    ru: >-
+      Гостиниц не было. Путник ночевал у храма, в роще или саду, под навесом у пруда, а то и под деревом; к санньяси и
+      паломникам хозяева деревни выходили сами и приглашали в дом — накормить гостя считалось благом. Начальник каравана
+      вроде Шивананды Сена заранее искал для всех ночлег и покупал еду. Когда Господь возвращался в Бенгалию, царь
+      Ориссы приказал в каждой деревне на Его пути построить новые хижины и наполнить их припасами, а в лесах
+      Джхарикханды Его зазывали к себе и брахманы, и простые люди.
+    en: >-
+      There were no inns. A traveller slept by a temple, in a grove or garden, under a shed by a pond or simply under a
+      tree; for sannyasis and pilgrims the villagers came out themselves and invited them in — to feed a guest was a
+      blessing. The leader of a caravan such as Shivananda Sena looked ahead for lodging for everyone and bought food.
+      When the Lord returned to Bengal, the king of Orissa ordered new huts to be built in every village on His road
+      and filled with provisions, and in the forests of Jharikhanda both brahmins and simple folk called Him to their
+      homes.
+  hagiography: ["ЧЧ Мадхья 16.111–112", "ЧЧ Мадхья 16.152", "ЧЧ Мадхья 16.26", "ЧЧ Мадхья 20.37", "ЧБ Антья 2.101–106",
+                "ЧЧ Мадхья 17.58–61"]
+  sources: []
+  images: []
+  game: {model: "придорожный навес у пруда, очаг из трёх камней, сложенные узлы паломников", where: ["road-to-puri"]}
+
+- id: mc-boat-types
+  title: {ru: "Лодки Бенгалии: дингхи, пансой, барки с каютой", en: "Boats of Bengal: dinghi, panswai, cabin barges"}
+  rubric: travel
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      В житиях: лодки на переправах, «новая лодка» царя у каждой реки — ЧЧ Мадхья 16.114, 16.122; «судно с каютой
+      посередине» и «украшенные суда» — 16.194–202; Адвайта приплывает за Господом на лодке — Мадхья 3.21–40; лодочник
+      (*па̄т̣ӯни*?) на пути в Ориссу — ЧБ Антья 2.130–148. Названия и устройство типов лодок — HJ 1903 (DINGY, с. ~317;
+      BUDGEROW, с. ~119) и офорты Solvyns 1811 (XVIII–XIX вв., реконструкция).
+    en: >-
+      In the hagiographies: boats at the crossings, the king's 'new boat' at every river — CC Madhya 16.114, 16.122; 'a
+      vessel with a cabin amidships' and 'decorated vessels' — 16.194–202; Advaita comes for the Lord by boat — Madhya
+      3.21–40; the boatman on the way to Orissa — CB Antya 2.130–148. The names and build of boat types — HJ 1903 (DINGY,
+      p. ~317; BUDGEROW, p. ~119) and Solvyns's etchings of 1811 (18th–19th c., reconstruction).
+  text:
+    ru: >-
+      На реках Бенгалии ходили лодки всех размеров. Самая простая — дингхи: маленькая лодка или долблёнка, на которой
+      рыбачили и переправлялись через протоки. Длинная узкая пассажирская лодка-пансой шла на вёслах с навесом из
+      плетёного бамбука и соломы над серединой, где сидели люди; знатные ездили в тяжёлых барках с каютой. Лодку вели
+      шестом на мелководье, вёслами и прямым парусом, а кормчий правил большим кормовым веслом. На такой лодке с
+      навесом Адвайта Ачарья приплыл за Господом, чтобы увезти Его к Себе в Шантипур.
+    en: >-
+      Boats of every size plied the rivers of Bengal. The simplest was the dinghi: a small boat or dug-out used for
+      fishing and crossing creeks. The long, narrow passenger boat, the panswai, was rowed and had an awning of woven
+      bamboo and thatch over the middle where people sat; nobles travelled in heavy barges with a cabin. A boat was
+      poled in the shallows, rowed or sailed with a square sail, and the helmsman steered with a big stern oar. In such
+      an awninged boat Advaita Acharya came for the Lord to take Him home to Shantipur.
+  hagiography: ["ЧЧ Мадхья 3.21–40", "ЧЧ Мадхья 16.114", "ЧЧ Мадхья 16.122", "ЧЧ Мадхья 16.194–202", "ЧБ Антья 2.130–148"]
+  sources: ["Hobson-Jobson (1903), s.v. DINGY, с. ~317; BUDGEROW, с. ~119",
+            "Solvyns, Les Hindous (1808–1812), листы «Dingee», «Pansway» (archive.org)"]
+  images: [{file: "material-culture/img/solvyns-1811-dingi-boat.jpg", license: "PD (по сроку)", author: "F. B. Solvyns, 1811",
+            url: "https://archive.org/details/plate-7.-dingee"},
+           {file: "material-culture/img/solvyns-1811-pansi-passenger-boat.jpg", license: "PD (по сроку)", author: "F. B. Solvyns, 1811",
+            url: "https://archive.org/details/plate-5.-pansway"}]
+  game: {model: "пансой: 10–14 м, узкий, высокий нос и корма, полукруглый навес из бамбука и соломы посередине, 6–10 гребцов, кормовое весло; дингхи: 4–6 м",
+         where: ["ganga-ghat", "road-to-puri/ferry"], notes: "грузовые суда купцов — mc-river-trade (society.yaml)"}
+  todo: "описания к листам Solvyns «Boats of Bengal» (текст Les Hindous, т. 3) — найти полный текст"
+
+- id: mc-crowd-crossing
+  title: {ru: "Переправа вплавь: плоты, горшки и стволы бананов", en: "Crossing by swimming: rafts, pots and banana trunks"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Толпы спешат через Гангу увидеть Господа: лодочники не справляются, сотни садятся в одну лодку и
+      переворачиваются, люди строят плоты, плывут, прижав к груди перевёрнутый горшок или держась за стволы банана,
+      беременные женщины тоже переправляются — ЧБ Антья 1.185–194; плату за перевоз отдают верхней одеждой, Видья-
+      вачаспати собирает лодки, под тонущими лодками появляются песчаные косы — ЧБ Антья 3.305–314, 3.383–385.
+    en: >-
+      Crowds hurry across the Ganga to see the Lord: the boatmen cannot cope, hundreds board one boat and capsize,
+      people build rafts, swim clutching an upturned pot to their chest or holding banana trunks, even pregnant women
+      cross — CB Antya 1.185–194; the fare is paid with upper cloths, Vidya-vachaspati gathers boats, sandbanks appear
+      beneath sinking boats — CB Antya 3.305–314, 3.383–385.
+  text:
+    ru: >-
+      Мостов через большие реки не было, и переправа зависела от лодочника. Когда разнеслась весть, что Господь пришёл
+      к Видья-вачаспати, к Ганге сбежались сотни тысяч людей; лодок не хватало, в каждую набивались сотни, и лодки
+      переворачивались. Тогда люди переправлялись как могли: связывали плоты, плыли, прижимая к груди перевёрнутый
+      глиняный горшок, держались за срубленные стволы банана, а лодочнику за перевоз отдавали свою верхнюю ткань.
+      Вриндаван Дас пишет, что по воле Господа под каждой тонущей лодкой оказывалась отмель и никто не утонул.
+    en: >-
+      There were no bridges over the great rivers, and a crossing depended on the boatman. When word spread that the
+      Lord had come to Vidya-vachaspati, hundreds of thousands rushed to the Ganga; there were not enough boats, each
+      was crammed with hundreds, and boats capsized. Then people crossed as best they could: they lashed rafts together,
+      swam clutching an upturned clay pot to their chest, clung to felled banana trunks, and paid the boatman with
+      their upper cloth. Vrindavana Dasa writes that by the Lord's will a sandbank appeared under every sinking boat and
+      no one drowned.
+  hagiography: ["ЧБ Антья 1.185–194", "ЧБ Антья 3.305–314", "ЧБ Антья 3.383–385"]
+  sources: []
+  images: []
+  game: {model: "плот из 4–6 стволов банана, связанных лианами; перевёрнутый горшок-ханди как поплавок",
+         where: ["ganga-ghat"], notes: "событие толпы у Кулии (Видья-вачаспати)"}
+
+- id: mc-elephants
+  title: {ru: "Слоны: царский выезд и колесница", en: "Elephants: royal outings and the chariot"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Знатные женщины Ориссы выезжают проститься с Господом «на слонах с крытыми паланкинами на спинах» — ЧЧ Мадхья
+      16.117; обоз царского сановника «с множеством коней, слонов и солдат» — Мадхья 9.333; слоны под стрекалами не могут
+      сдвинуть колесницу Джаганнатхи — Мадхья 14.50–53; дигвиджайи со слонами и конями — ЧБ Ади 13.40, 13.189–190;
+      Господь в Джхарикханде проходит мимо диких слонов — ЧЧ Мадхья 17.25–26.
+    en: >-
+      The noble ladies of Orissa ride out to bid the Lord farewell 'on elephants with covered howdahs on their backs' —
+      CC Madhya 16.117; an official's convoy 'with many horses, elephants and soldiers' — Madhya 9.333; elephants under
+      the goad cannot move Jagannatha's chariot — Madhya 14.50–53; the digvijayi with elephants and horses — CB Adi
+      13.40, 13.189–190; in Jharikhanda the Lord passes wild elephants — CC Madhya 17.25–26.
+  text:
+    ru: >-
+      Слон был признаком царской власти и богатства: на нём ездили цари, полководцы и знатные дамы, а прославленный
+      учёный-дигвиджайи путешествовал со слонами в свите. Когда Господь покидал Пури, знатные женщины царского двора
+      выехали проводить Его на слонах с крытыми беседками-паланкинами на спинах и издали поклонились Ему у реки. На
+      Ратха-ятре царь велел впрячь могучих слонов, но и под ударами стрекал они не могли сдвинуть колесницу, пока Господь
+      Сам не толкнул её головой. Дикие слоны водились в лесах Джхарикханды и уступали Господу дорогу.
+    en: >-
+      The elephant was a sign of royal power and wealth: kings, generals and noble ladies rode it, and a famous
+      digvijayi scholar travelled with elephants in his train. When the Lord left Puri, the noble ladies of the court
+      rode out on elephants with covered howdahs on their backs and bowed to Him from afar at the river. At the
+      Ratha-yatra the king had mighty elephants harnessed, but even under the goad they could not move the chariot
+      until the Lord Himself pushed it with His head. Wild elephants roamed the forests of Jharikhanda and gave way to
+      the Lord.
+  hagiography: ["ЧЧ Мадхья 16.117", "ЧЧ Мадхья 9.333", "ЧЧ Мадхья 14.50–53", "ЧБ Ади 13.40", "ЧБ Ади 13.189–190", "ЧЧ Мадхья 17.25–26"]
+  sources: []
+  images: []
+  game: {model: "индийский слон с крытой хаудой-беседкой (занавеси, остроконечная крыша), погонщик-махаут с крюком-анкушей",
+         where: ["puri/chitrotpala-river", "puri/ratha-road"]}
+
+- id: mc-horses-carts
+  title: {ru: "Кони и повозки", en: "Horses and carts"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Шрикант закупает коней для султана на 3 лакха монет и переправляет их ко двору — ЧЧ Мадхья 20.38–39; у Гопинатхи
+      Паттанаяка больше десятка коней, царевич — знаток конских цен — Антья 9.21–26, 9.48–54; насмешка над мирскими
+      людьми: «благочестив лишь тот, кто на коне гарцует или ездит в паланкине и имеет десяток слуг» — ЧБ Ади 7.19;
+      дигвиджайи едет с «повозками, запряжёнными лошадьми» — ЧБ Ади 13.28.
+    en: >-
+      Shrikanta buys horses for the sultan with 3 lakhs of coins and sends them to court — CC Madhya 20.38–39; Gopinatha
+      Pattanayaka has more than ten horses, and the prince is an expert in horse prices — Antya 9.21–26, 9.48–54; a jibe
+      at worldly people: 'only he is pious who prances on a horse or rides in a palanquin and has ten servants' — CB Adi
+      7.19; the digvijayi travels with 'horse-drawn carts' — CB Adi 13.28.
+  text:
+    ru: >-
+      Конь в Бенгалии был дорогой привозной роскошью: местные болотистые земли не годились для разведения, и коней
+      пригоняли с северо-запада. Султан давал своим людям лакхи монет на закупку коней для войска, а орисские сановники
+      держали их как богатство и даже платили ими долги казне. Верховой конь и паланкин со слугами были знаком
+      знатности — Вриндаван Дас с горечью замечает, что мирские люди считали праведным лишь того, у кого они есть.
+      Простой народ возил грузы на повозках с быками, а реки Бенгалии делали лодку главным транспортом.
+    en: >-
+      In Bengal a horse was a costly imported luxury: the marshy local lands were unfit for breeding, and horses were
+      driven in from the north-west. The sultan gave his men lakhs of coins to buy horses for the army, and Oriya
+      officials kept them as wealth and even paid their debts to the treasury with them. A riding horse and a palanquin
+      with servants were marks of rank — Vrindavana Dasa notes ruefully that worldly people counted only such a man
+      righteous. Ordinary folk carried loads on bullock carts, and Bengal's rivers made the boat the main transport.
+  hagiography: ["ЧЧ Мадхья 20.38–39", "ЧЧ Антья 9.21–26", "ЧЧ Антья 9.48–54", "ЧБ Ади 7.19", "ЧБ Ади 13.28"]
+  sources: []
+  images: [{file: "material-culture/img/gujarat-16c-wood-frieze-palanquin-bullock-cart-cma.jpg", license: "CC0 1.0",
+            author: "резчик из Гуджарата, XVI–XVII вв. (не Бенгалия — для облика)", url: "https://clevelandart.org/art/1963.676"}]
+  game: {model: "двухколёсная повозка со сплошными или спицевыми колёсами, плетёный кузов-навес, пара быков; конь под седлом с попоной",
+         where: ["road-to-puri", "gauda/ramakeli"]}
+  todo: "ввоз коней в Бенгалию в XV–XVI вв. — PD-свидетельство (Ain-i-Akbari, пер. 1873–94?); бенгальская повозка эпохи — изображение"
+
+- id: mc-road-to-puri
+  title: {ru: "Дорога в Пури", en: "The road to Puri"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Первый путь Господа в Пури: вдоль Ганги до Чхатрабхоги, где Ганга разливается на сто рукавов, — ЧБ Антья 2.60–80;
+      ночная переправа на лодке в Орисcу до Праяга-гхата — 2.130–148; сборщик пошлин — 2.164–185; Яджапур, «город
+      храмов» — 2.286; Камалапур, сломанный посох, вид храма за три кроши — ЧЧ Мадхья 5.140–151. Обратный путь в
+      Бенгалию: Катак, Яджпур, Ремуна, граница, Пичхалда, Панихати — ЧЧ Мадхья 16.116–202. Ежегодный караван
+      преданных — Мадхья 16.19–26, Антья 1.15–25, 12.15.
+    en: >-
+      The Lord's first journey to Puri: along the Ganga to Chhatrabhoga, where the Ganga spreads into a hundred streams —
+      CB Antya 2.60–80; a night crossing by boat into Orissa to Prayaga-ghat — 2.130–148; the toll-collector —
+      2.164–185; Yajapura, 'the city of temples' — 2.286; Kamalapura, the broken staff, the temple seen from three
+      kroshas — CC Madhya 5.140–151. The road back to Bengal: Kataka, Yajpur, Remuna, the border, Pichhalda, Panihati —
+      CC Madhya 16.116–202. The yearly caravan of devotees — Madhya 16.19–26, Antya 1.15–25, 12.15.
+  text:
+    ru: >-
+      Из Навадвипы в Пури шли около месяца. Путь вёл на юг вдоль Ганги до Чхатрабхоги, где река расходится на множество
+      рукавов, оттуда — на лодке через приморские протоки в Ориссу, а дальше пешком по старой дороге паломников:
+      Ремуна с Кшира-чорой Гопинатхой, Яджапур, Катак, Бхуванешвар, Камалапур. За три кроши до Пури с дороги уже был
+      виден храм Джаганнатхи, и Господу, охваченному экстазом, эти несколько миль показались длиною в тысячу йоджан. Каждый год по этой
+      дороге перед Ратха-ятрой шёл караван бенгальских вайшнавов во главе с Шиванандой Сеном.
+    en: >-
+      From Navadvipa to Puri was about a month's walk. The way led south along the Ganga to Chhatrabhoga, where the
+      river splits into many branches, thence by boat through the coastal creeks into Orissa, and on foot along the
+      old pilgrim road: Remuna with Kshira-chora Gopinatha, Yajapura, Kataka, Bhuvaneshvara, Kamalapura. Three kroshas
+      from Puri the temple of Jagannatha could already be seen from the road, and to the Lord, overwhelmed with ecstasy,
+      those few miles seemed a thousand yojanas long. Every year before the Ratha-yatra the caravan of Bengali Vaishnavas led by
+      Shivananda Sena travelled this road.
+  hagiography: ["ЧБ Антья 2.60–80", "ЧБ Антья 2.130–148", "ЧБ Антья 2.286", "ЧЧ Мадхья 5.140–151", "ЧЧ Мадхья 16.116–202",
+                "ЧЧ Мадхья 16.19–26", "ЧЧ Антья 1.15–25"]
+  sources: []
+  images: []
+  game: {model: "карта пути: Навадвипа — Шантипур — Чхатрабхога — Праяга-гхат — Ремуна — Яджапур — Катак — Бхуванешвар — Камалапур (Атхаранала) — Пури",
+         where: ["road-to-puri"], notes: "«около месяца» — оценка; паломники возвращаются в Бенгалию через четыре месяца после выхода (ЧЧ Антья 6.248) — с пребыванием в Пури"}
+  todo: "проверить длительность пути по ЧЧ/ЧБ; станции пути в ЧЧ Мадхья 5 (Ремуна, Яджапур, Катак)"
+
+- id: mc-border-war
+  title: {ru: "Граница Гауды и Ориссы: война и пики на дорогах", en: "The Gauda–Orissa border: war and stakes on the roads"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рамачандра Кхан, правитель Чхатрабхоги: «нет безопасных дорог; люди царя вкопали на дорогах острые пики, чужака
+      казнят как шпиона», переправляет Господа тайно ночью — ЧБ Антья 2.82–102; на обратном пути орисский наместник на
+      заставе: дальше — владения мусульманского правителя, «из страха никто не переправляется через реку», шпион на
+      заставе, перемирие, правитель приходит безоружным с семью слугами и даёт суда — ЧЧ Мадхья 16.156–199; Хусейн-шах
+      идёт войной на Ориссу — Мадхья 19.28.
+    en: >-
+      Ramachandra Khan, governor of Chhatrabhoga: 'there are no safe roads; the king's men have planted sharp stakes on
+      the roads and a stranger is executed as a spy', and he ferries the Lord across secretly by night — CB Antya
+      2.82–102; on the way back the Oriya governor at the outpost: beyond lies the Muslim ruler's land, 'from fear no one
+      crosses the river', a spy at the outpost, a truce, the ruler comes unarmed with seven servants and provides
+      vessels — CC Madhya 16.156–199; Husain Shah makes war on Orissa — Madhya 19.28.
+  text:
+    ru: >-
+      При Господе между Бенгальским султанатом и Ориссой шла затяжная пограничная война. На спорных землях дороги
+      были перекрыты: воины вкапывали острые колья, ловили чужаков и казнили как шпионов, и путники боялись даже
+      переправляться через реки. Правитель Чхатрабхоги Рамачандра Кхан рискнул всем и тайно, ночью, отправил Господа в
+      Ориссу на лодке. А через несколько лет на обратном пути шпион мусульманского правителя увидел киртан на орисской
+      заставе, и сам правитель, тронутый, заключил перемирие, пришёл безоружным с семью слугами и дал Господу лодки с
+      охраной.
+    en: >-
+      In the Lord's time a long border war went on between the Bengal sultanate and Orissa. On the disputed lands the
+      roads were closed: soldiers planted sharp stakes, caught strangers and executed them as spies, and travellers
+      were afraid even to cross the rivers. The governor of Chhatrabhoga, Ramachandra Khan, risked everything and
+      secretly, by night, sent the Lord on to Orissa by boat. Some years later, on the way back, the Muslim ruler's spy
+      saw the kirtan at an Oriya outpost, and the ruler himself, moved, made a truce, came unarmed with seven servants
+      and gave the Lord boats with an escort.
+  hagiography: ["ЧБ Антья 2.82–102", "ЧЧ Мадхья 16.156–199", "ЧЧ Мадхья 19.28"]
+  sources: []
+  images: []
+  game: {model: "пограничная застава: частокол, вышка, вкопанные колья вдоль дороги; лодки охраны",
+         where: ["road-to-puri/border"]}
+
+- id: mc-robbers
+  title: {ru: "Разбойники и речные пираты", en: "Robbers and river pirates"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Предводитель разбойников (*бхаумика*, «бхуйя») в горах Патара узнаёт через гадателя о восьми мохурах, хочет убить
+      Санатану, но, получив золото, ведёт его ночью через горы с четырьмя людьми — ЧЧ Мадхья 20.16–33; «когда бандиты
+      видят одинокого путника-бенгальца, они его пленяют, грабят и заставляют работать на себя» — Антья 13.34–35;
+      лодочник: «в этих водах промышляют разбойники» — ЧБ Антья 2.134–137; правитель берёт десять судов охраны «опасаясь
+      шаек бандитов» — ЧЧ Мадхья 16.198; воры похищают малыша Нимая ради украшений — Ади 14.38.
+    en: >-
+      A robber chief (bhaumika, 'bhuiya') in the Patara hills learns through a fortune-teller of eight mohurs and means
+      to kill Sanatana but, given the gold, leads him over the hills by night with four men — CC Madhya 20.16–33; 'when
+      bandits see a lone Bengali traveller they seize him, rob him and make him work for them' — Antya 13.34–35; the
+      boatman: 'robbers prowl these waters' — CB Antya 2.134–137; the ruler takes ten guard boats 'fearing bands of
+      bandits' — CC Madhya 16.198; thieves carry off little Nimai for His ornaments — Adi 14.38.
+  text:
+    ru: >-
+      Путь был опасен. В горах и лесах промышляли шайки во главе с местными вождями-бхуйя; на реках и в приморских
+      протоках — пираты, и лодочник на пути в Ориссу умолял паломников петь потише. Деньги прятали в поясе, но опытный
+      разбойник угадывал добычу: предводитель в горах Патара через гадателя узнал о восьми золотых у слуги Санатаны и
+      собирался ночью убить путников. Господь предупреждал Джагананду: после Варанаси иди только с попутчиками-воинами —
+      одинокого бенгальца хватают, грабят и обращают в работника.
+    en: >-
+      The road was dangerous. Bands led by local chiefs, the bhuiyas, prowled the hills and forests, and pirates the
+      rivers and coastal creeks; the boatman on the way to Orissa begged the pilgrims to sing more quietly. Money was
+      hidden in the waistcloth, but a seasoned robber could guess his prize: the chief in the Patara hills learned
+      through a fortune-teller of the eight gold coins carried by Sanatana's servant and meant to kill the travellers
+      by night. The Lord warned Jagadananda: beyond Varanasi go only with soldier companions — a lone Bengali is seized,
+      robbed and made a labourer.
+  hagiography: ["ЧЧ Мадхья 20.16–33", "ЧЧ Антья 13.34–35", "ЧБ Антья 2.134–137", "ЧЧ Мадхья 16.198", "ЧЧ Ади 14.38"]
+  sources: []
+  images: []
+  game: {model: "лесная тропа в холмах, засада: люди с луками и копьями-лаthi; лодка пиратов в протоке",
+         where: ["road-to-vrindavan/patara-hills", "road-to-puri/creeks"]}
+
+- id: mc-jungle-dangers
+  title: {ru: "Лесной путь: тигры, слоны, крокодилы", en: "The forest road: tigers, elephants, crocodiles"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Джхарикханда: Господь идёт через безлюдные джунгли, мимо тигров, слонов, носорогов и вепрей, наступает на тигра,
+      тигры и олени поют «Кришна» и танцуют — ЧЧ Мадхья 17.25–42; Балабхадра собирает в лесу зелень, коренья и плоды —
+      17.57–64; лодочник боится тигров на берегу и крокодилов в воде — ЧБ Антья 2.135–136.
+    en: >-
+      Jharikhanda: the Lord walks through the empty jungle past tigers, elephants, rhinoceros and boar, steps on a
+      tiger, and tigers and deer sing 'Krishna' and dance — CC Madhya 17.25–42; Balabhadra gathers greens, roots and
+      fruit in the forest — 17.57–64; the boatman fears tigers on the bank and crocodiles in the water — CB Antya
+      2.135–136.
+  text:
+    ru: >-
+      Между Ориссой и Варанаси лежал лесной край Джхарикханда — горы и джунгли почти без деревень, где водились тигры,
+      дикие слоны, носороги и кабаны. Путники шли днём, ночевали у огня и боялись каждого шороха; в приморских
+      протоках Бенгалии к ним прибавлялись крокодилы в воде и тигры на берегу. Господь шёл этим лесом, воспевая
+      имена Кришны, и звери уступали Ему дорогу: Он наступил на спящего тигра — и тот вскочил и стал танцевать,
+      повторяя «Кришна», а тигры и олени шли за Ним вместе. Спутник Балабхадра собирал для Него в лесу зелень, коренья и
+      плоды и готовил из них.
+    en: >-
+      Between Orissa and Varanasi lay the forest country of Jharikhanda — hills and jungle with hardly a village, where
+      tigers, wild elephants, rhinoceros and boar lived. Travellers walked by day, slept by a fire and feared every
+      rustle; in the coastal creeks of Bengal there were also crocodiles in the water and tigers on the banks. The Lord
+      walked this forest singing Krishna's names, and the beasts gave way to Him: He stepped on a sleeping tiger — and
+      it sprang up and began to dance, repeating 'Krishna', and tigers and deer walked after Him together. His companion
+      Balabhadra gathered greens, roots and fruit for Him in the forest and cooked them.
+  hagiography: ["ЧЧ Мадхья 17.25–42", "ЧЧ Мадхья 17.57–64", "ЧБ Антья 2.135–136"]
+  sources: []
+  images: []
+  game: {model: "лесная тропа Джхарикханды: сал и бамбук, тигр поперёк тропы (событие), костёр на ночёвке",
+         where: ["road-to-vrindavan/jharikhanda"]}
+
+- id: mc-messengers
+  title: {ru: "Гонцы, письма и вести", en: "Messengers, letters and news"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рупа посылает в Пури двух человек узнать, когда Господь пойдёт во Вриндаван, они возвращаются с вестью — ЧЧ
+      Мадхья 19.10–12, 19.31; письмо Рупы Санатане в тюрьму — 19.32–35, 20.3; отец Рагхунатхи посылает гонца к
+      Шивананде узнать о сыне — Антья 6.249–257; Пратапарудра рассылает указ наместникам — Мадхья 16.110; Сарвабхаума
+      шлёт Господу лист со стихами — Мадхья 6.250–251.
+    en: >-
+      Rupa sends two men to Puri to learn when the Lord will set out for Vrindavana, and they return with the news — CC
+      Madhya 19.10–12, 19.31; Rupa's letter to Sanatana in prison — 19.32–35, 20.3; Raghunatha's father sends a messenger
+      to Shivananda for news of his son — Antya 6.249–257; Prataparudra sends an order to his governors — Madhya 16.110;
+      Sarvabhauma sends the Lord a leaf with verses — Madhya 6.250–251.
+  text:
+    ru: >-
+      Почты не было: вести несли пешие гонцы, паломники и купцы. Чтобы узнать, когда Господь отправится во Вриндаван,
+      Рупа послал из Рамакели в Пури двух человек и ждал их возвращения, а потом написал брату в тюрьму письмо на
+      пальмовом листе. Отец Рагхунатхи узнал, куда исчез сын, только послав гонца к Шивананде Сену, когда тот
+      вернулся из Пури. Царь Ориссы рассылал указы наместникам с вестовыми, а ежегодный караван паломников был главной
+      «почтой» между Бенгалией и Пури: с ним передавали письма, деньги, угощения и даже слуг.
+    en: >-
+      There was no post: news travelled with runners, pilgrims and merchants. To learn when the Lord would set out for
+      Vrindavana, Rupa sent two men from Ramakeli to Puri and waited for their return, then wrote his brother in prison
+      a letter on a palm leaf. Raghunatha's father learned where his son had gone only by sending a messenger to
+      Shivananda Sena when he came back from Puri. The king of Orissa sent orders to his governors by courier, and the
+      yearly pilgrim caravan was the main 'post' between Bengal and Puri: letters, money, food gifts and even servants
+      were sent with it.
+  hagiography: ["ЧЧ Мадхья 19.10–12", "ЧЧ Мадхья 19.31–35", "ЧЧ Мадхья 20.3", "ЧЧ Антья 6.249–257", "ЧЧ Мадхья 16.110",
+                "ЧЧ Мадхья 6.250–251", "ЧЧ Антья 6.258–268"]
+  sources: []
+  images: []
+  game: {model: "гонец-скороход с посохом с колокольчиками и свёрнутым пальмовым листом в бамбуковом футляре (⚠ колокольчики — поздняя деталь, проверить)",
+         where: ["gauda/ramakeli", "road-to-puri"], notes: "письмо на пальмовом листе — mc-palm-leaf-notes"}

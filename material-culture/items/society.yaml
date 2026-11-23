@@ -805,14 +805,14 @@
       Санатана, оставив службу у султана, собрал у себя два-три десятка брахманов только для того, чтобы читать его.
       Брахманы носили с собой «Бхагавад-гиту». Любовную поэзию о Радхе и Кришне — санскритскую «Гита-говинду» Джаядевы,
       «Кришна-карнамриту» Билвамангалы, бенгальские песни Чандидаса и майтхильские — Видьяпати — пели под музыку:
-      «Гита-говинду» каждый вечер пели перед Джаганнатхой. В последние годы в Гамбхире Господь слушал эти стихи от
+      в Пури «Гита-говинду» пела девадаси храма Джаганнатхи. В последние годы в Гамбхире Господь слушал эти стихи от
       Сварупы Дамодары и Рамананды Рая днём и ночью.
     en: >-
       The Vaishnavas' chief book was the Shrimad-Bhagavatam: it was read aloud and expounded in homes and at temples,
       and Sanatana, leaving the sultan's service, gathered twenty or thirty brahmins at his house just to read it.
       Brahmins carried the Bhagavad-gita about with them. The love poetry of Radha and Krishna — Jayadeva's Sanskrit
       Gita-govinda, Bilvamangala's Krishna-karnamrita, the Bengali songs of Chandidasa and the Maithili songs of
-      Vidyapati — was sung to music: the Gita-govinda was sung every evening before Jagannatha. In His last years in the
+      Vidyapati — was sung to music: in Puri a devadasi of Jagannatha's temple sang the Gita-govinda. In His last years in the
       Gambhira the Lord heard these verses from Svarupa Damodara and Ramananda Raya day and night.
   hagiography: ["ЧЧ Мадхья 2.77", "ЧЧ Ади 13.42", "ЧЧ Антья 13.79", "ЧЧ Антья 15.27", "ЧЧ Антья 17.6", "ЧЧ Антья 20.67–68",
                 "ЧЧ Мадхья 19.17", "ЧБ Ади 4.53–55", "ЧБ Ади 6.64"]
@@ -820,7 +820,7 @@
   images: []
   game: {model: "кодекс: рукописи Бхагаватам (толстая связка в красной ткани), Гита-говинда (тонкая, с иллюминированными листами — ориcсская традиция)",
          where: ["puri/gambhira", "navadvipa/shrivasa-house"],
-         notes: "«каждый вечер перед Джаганнатхой» — традиция храма (ориccкие надписи XV в. о пении Гита-говинды — проверить)"}
+         notes: "ежевечернее пение Гита-говинды в храме — традиция (надпись XV–XVI в.?) — проверить, в текст не вносить"}
   todo: "надпись Пратапарудры (1499?) о пении Гита-говинды в храме — найти PD (Hunter, Orissa 1872; Mitra, Antiquities of Orissa)"
 
 - id: mc-brahma-samhita-manuscript
