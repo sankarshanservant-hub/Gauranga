@@ -35,29 +35,31 @@
   evidence_note:
     ru: >-
       Расшитые сари среди даров — ЧЧ Ади 13.113; край сари — Лочан, Ади-кханда, ч. 3, ст. 271; ч. 4, ст. 359.
-      Ношение без блузы, белое сари с красной каймой — по позднейшим изображениям и этнографии; проверить.
+      Лиф-канчули — у поэтов от Виджая Гупты (1494) до XVIII в. (Sen 1911, с. 388–389). Белое сари с красной каймой —
+      по позднейшим данным.
     en: >-
       Embroidered saris among the gifts — CC Adi 13.113; the end of the sari — Lochana, Adi-khanda pt. 3 v. 271; pt. 4
-      v. 359. Wearing it without a blouse, and the white sari with a red border, follow later images and ethnography;
-      to be checked.
+      v. 359. The kanchuli bodice — in poets from Vijay Gupta (1494) to the 18th c. (Sen 1911, pp. 388–389). The white
+      sari with a red border follows later data.
   text:
     ru: >-
       Женщины носили сари — несшитое полотно в несколько локтей, обёрнутое вокруг тела и переброшенное через плечо;
-      край (анчал) покрывал голову и служил всем: им прикрывали подношение, за него цеплялся капризный малыш. Сшитых
-      блуз-чоли в Бенгалии той поры, по-видимому, не носили — они вошли в обиход в колониальное время. Сари
-      хлопковые, у богатых — шёлковые и расшитые: такие привезла Сита Тхакурани.
+      край (анчал) покрывал голову и служил всем: им прикрывали подношение, за него цеплялся капризный малыш. Знатные и
+      нарядные женщины, по описаниям бенгальских поэтов начиная с Виджая Гупты (1494), носили под сари лиф-канчули и
+      лёгкое покрывало-одну; привычная нынешняя сшитая блузка вошла в обиход гораздо позже. Сари хлопковые, у богатых —
+      шёлковые и расшитые: такие привезла Сита Тхакурани.
     en: >-
       Women wore the sari — an unstitched length of several cubits wrapped round the body and thrown over the
       shoulder; its end (anchal) covered the head and served for everything: an offering was carried under it, a
-      fretful child clung to it. Stitched choli blouses were apparently not worn in Bengal at that time — they came
-      into use in the colonial period. Saris were of cotton, and for the wealthy of silk and embroidered: such were the
-      ones Sita Thakurani brought.
+      fretful child clung to it. Noble and festively dressed women, as Bengali poets describe from Vijay Gupta (1494)
+      onwards, wore a kanchuli bodice under the sari and a light veil (odna); today's stitched blouse came into use much
+      later. Saris were of cotton, and for the wealthy of silk and embroidered: such were the ones Sita Thakurani brought.
   hagiography: ["ЧЧ Ади 13.113", "Лочан, Ади-кханда, ч. 3, ст. 271", "Лочан, Ади-кханда, ч. 4, ст. 359"]
-  sources: []
   images: []
-  game: {model: "простое хлопковое сари (белое/небелёное, цветная кайма), без блузы, край на голове у замужних",
+  sources: ["Sen 1911, с. 388–389 (канчули, одна, нивибандха — XV–XVIII вв.)", "Bose 1881, с. 293 (сари 5 ярдов с цветной каймой — XIX в.)"]
+  game: {model: "простое хлопковое сари (белое/небелёное, цветная кайма); у знатных — лиф-канчули; край на голове у замужних",
          where: ["mishra-house/courtyard"], codex: hs_sari}
-  todo: "PD-свидетельство о появлении блузы у бенгалок (XIX в.); цвета кайм в XV–XVI вв."
+  todo: "покрой канчули XV–XVI вв. (терракоты XVII в.?); носили ли его простые брахманки"
 
 - id: mc-sindur-kunkuma
   title: {ru: "Синдур и кумкума", en: "Sindur and kunkuma"}
@@ -105,13 +107,15 @@
       Men's dress is two unstitched cloths: the dhoti, wrapped round the waist and tucked between the legs and at the
       back (by brahmins on solemn occasions in three places, "trikaccha"), and the uttariya, a shawl over the
       shoulders. The young teacher Nimai walked through Navadvipa "dressed like a king", in yellow cloth, like Krishna;
-      poor Shridhara wore patched clothes. Stitched garments (coats) belonged to the Muslim court, not to brahmins.
+      poor Shridhara wore patched clothes. According to Vijay Gupta (1494), a Bengali of rank wore three cloths: dhoti,
+      turban and shawl. Until the 16th c., says Sen, Bengalis wore their hair long and scented — and Nimai had long hair
+      until His sannyasa.
   hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130", "ЧБ Ади 12.185–186", "ЧБ Ади 15.166"]
-  sources: []
+  sources: ["Sen 1911, с. 387–389 (Виджай Гупта: дхоти, тюрбан, покрывало; длинные волосы до XVI в.)", "Hunter 1875, т. 2, с. 240 (дхоти, чадар, гамчха — XIX в.)", "Sen, Folk-Literature (1920), с. 100 (обычный костюм — дхоти и чадар)"]
   images: []
   game: {model: "белое/небелёное хлопковое дхоти до щиколоток, уттарья через левое плечо; у Нимая — жёлтое",
          where: ["mishra-house/courtyard", "navadvipa/market"]}
-  todo: "«шитая одежда при дворе» — подтвердить PD-источником (Sen 1911?)"
+  todo: "форма тюрбана; цирюльник, остригший Господа перед санньясой (ЧЧ/ЧБ) — сверить"
 
 - id: mc-tilak-shikha-thread
   title: {ru: "Тилака, шикха и шнур", en: "Tilaka, shikha and sacred thread"}
@@ -134,3 +138,34 @@
   images: []
   game: {model: "тилака — вертикальная (форма уточнить), шикха, шнур через левое плечо", where: []}
   todo: "форма гаудия-вайшнавской тилаки в XVI в. — вопрос к специалисту"
+
+- id: mc-shankha-bangles
+  title: {ru: "Раковинные браслеты (шакха) и железный браслет", en: "Conch-shell bangles (shankha) and the iron bangle"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Шакха и синдур как знак замужества — в «Манаса-мангале» (вдовы ломают раковинные браслеты) и других мангал-кавьях
+      (Sen 1911, с. 240, 248, 262); мастера шанкхари в Навадвипе — ЧБ Ади 12.146–149; обряд надевания и железный
+      браслет — Mukharji 1888, с. 99–100, 147–148 (XIX в.).
+    en: >-
+      Shankha and sindur as signs of marriage — in the Manasa-mangal (widows break their shell bangles) and other
+      mangal-kavyas (Sen 1911, pp. 240, 248, 262); shankhari craftsmen in Navadvipa — CB Adi 12.146–149; the
+      putting-on rite and the iron bangle — Mukharji 1888, pp. 99–100, 147–148 (19th c.).
+  text:
+    ru: >-
+      Замужняя бенгалка носит на запястьях белые браслеты, выпиленные из морской раковины, и синдур в проборе; овдовев,
+      она ломает браслеты и стирает синдур — так описывают вдов уже поэты «Манаса-мангала». Браслеты делали мастера-
+      шанкхари, которые жили и в Навадвипе; в поэмах сам Шива, переодевшись продавцом браслетов, приходит к Парвати.
+      По позднему обычаю, прежде чем надеть шакху, её чествуют синдуром, травой и рисом; на левом запястье замужней
+      носят ещё и простой железный браслет.
+    en: >-
+      A married Bengali woman wears white bangles sawn from sea conch on her wrists and sindur in her hair parting;
+      when widowed she breaks the bangles and wipes off the sindur — so the poets of the Manasa-mangal already describe
+      widows. The bangles were made by shankhari craftsmen, who lived in Navadvipa too; in the poems Shiva himself,
+      disguised as a bangle-seller, comes to Parvati. By later custom the shankha is honoured with sindur, grass and
+      rice before it is put on, and a plain iron bangle is also worn on the married woman's left wrist.
+  hagiography: ["ЧБ Ади 12.146–149"]
+  sources: ["Sen 1911, с. 240, 248, 262", "Mukharji 1888, с. 99–100, 147–148, 281–282", "Bose 1881, с. 72, 75 (железный браслет)"]
+  images: []
+  game: {model: "пара белых плоских колец Ø 6–7 см с резьбой; тонкий железный браслет", where: ["mishra-house/courtyard"]}

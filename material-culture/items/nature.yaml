@@ -7,12 +7,14 @@
   evidence_note:
     ru: >-
       Имя «Нимай» как оберег — ЧЧ Ади 13.117 (ок. 1615), Лочан (сноска к Ади, ч. 1, ст. 83), «Адвайта-пракаша» 10.127.
-      Старое дерево ним у дома Господа — «Бхакти-ратнакара» 12.2127–2130 (XVIII в., позднее житие). Предание о рождении
-      Господа под нимом — позднее, источник не найден.
+      Старое дерево ним у дома Господа — «Бхакти-ратнакара» 12.2127–2130 (XVIII в., позднее житие). Предание о
+      рождении Господа под нимом — позднее, источник не найден. Предание о родильной хижине под нимом пересказывает
+      Сен (1911, с. 416), без указания источника.
     en: >-
       The name "Nimai" as a protection — CC Adi 13.117 (c. 1615), Lochana (note to Adi pt. 1 v. 83), Advaita-prakasha
       10.127. The old neem tree by the Lord's house — Bhakti-ratnakara 12.2127–2130 (18th c., a late hagiography). The
-      tradition that the Lord was born under a neem is late; its source has not been found.
+      tradition that the Lord was born under a neem is late; its source has not been found. The tradition of the
+      lying-in hut under a neem is retold by Sen (1911, p. 416) without a source.
   text:
     ru: >-
       Ним — дерево с горькими листьями; по народному поверью, горечь отпугивает злых духов и болезни. Поэтому женщины
@@ -28,7 +30,8 @@
       Later, at the Lord's command, Gauridasa Pandita made Deities from that tree.
   hagiography: ["ЧЧ Ади 13.117", "ЧБ Ади 4.45, 4.50", "Лочан, Ади-кханда, ч. 1, ст. 83 и сноска [^09-12]",
                 "Адвайта-пракаша 10.127", "БР 12.2127–2130", "БР 7.320–358 (ним из Навадвипы для Божеств)"]
-  sources: []
+  sources: ["Sen 1911, с. 416 (Нимай «born in a shed under a Nimba-tree»)",
+            "Sen, Chaitanya and His Age (1922), с. 109–110 (смиренное имя от злых сил; при лихорадке младенца держали под нимом)"]
   images: []
   game: {model: "большое дерево ним (Azadirachta indica): перистые листья, мелкие белые цветы весной",
          where: ["mishra-house/courtyard"], notes: "в тестовом уровне сутика-гхар — у нима (реконструкция)"}

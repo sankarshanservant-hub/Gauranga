@@ -231,3 +231,37 @@
   sources: []
   images: []
   game: {model: "деревянный чан-долблёнка, глиняные сосуды с маслом", where: ["mishra-house/courtyard"]}
+
+- id: mc-cowrie-money
+  title: {ru: "Каури — деньги из раковин", en: "Cowries — shell money"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Каури как деньги Бенгалии засвидетельствованы ок. 1240 г. («Табакат-и-Насири»), ок. 1350 г. (Ибн Баттута), в 1561
+      и 1586 гг. (португальские и итальянские авторы) — Hobson-Jobson 1903, с. 269–270; расчёты в каури у Мукундарама
+      (ок. 1590-х) и в свадебной смете Мадхавачарьи (1579) — Sen 1911, с. 356–357, 609–610. Плата певцу рисом и каури —
+      Чандравати (XVI в.).
+    en: >-
+      Cowries as Bengal's money are attested c. 1240 (Tabaqat-i-Nasiri), c. 1350 (Ibn Battuta), in 1561 and 1586
+      (Portuguese and Italian writers) — Hobson-Jobson 1903, pp. 269–270; reckoning in cowries in Mukundaram (c. 1590s)
+      and in Madhavacharya's wedding budget (1579) — Sen 1911, pp. 356–357, 609–610. A singer paid in rice and cowries —
+      Chandravati (16th c.).
+  text:
+    ru: >-
+      Мелкой монетой Бенгалии были маленькие белые раковины каури, которые привозили с Мальдивских островов в обмен на
+      рис. Их считали четвёрками: 4 каури — ганда, 20 ганд — пан, а дальше — кахан; за каури покупали бетель, известь,
+      овощи на рынке, ими платили певцам и подавали нищим. Серебро и золото были у немногих, поэтому юный Нимай, у
+      которого «не было с собой денег», и брал ткань и раковины в долг.
+    en: >-
+      The small change of Bengal was the little white cowrie shell, brought from the Maldive Islands in exchange for
+      rice. They were counted in fours: 4 cowries made a ganda, 20 gandas a pan, and above that the kahan; cowries
+      bought betel, lime and vegetables at market, paid singers and were given to beggars. Silver and gold were for
+      the few — which is why young Nimai, who "had no money with Him", took cloth and conches on credit.
+  hagiography: ["ЧБ Ади 12.111", "ЧБ Ади 12.147"]
+  sources: ["Hobson-Jobson (1903), s.v. Cowry, с. 269–270", "Sen 1911, с. 56–57, 349, 356–357, 609–610",
+            "Sen, Bengali Ramayanas (1920), с. 187–188", "Bose 1881, с. 25–26 (каури детям на 8-й день), 75"]
+  images: []
+  game: {model: "горсть белых раковин Cypraea moneta, нанизанных или в мешочке; счёт четвёрками",
+         where: ["navadvipa/market"]}
+  todo: "проверить шкалу (16 пан = 1 кахан?) — у Hobson-Jobson таблица XVIII–XIX вв."

@@ -10,10 +10,12 @@
   evidence_note:
     ru: >-
       Жития говорят только о «доме» (гхара) и отдельных комнатах; облик хижины восстанавливается по терракотовым
-      храмам XVII в., повторяющим соломенную кровлю, и по этнографии XIX в.
+      храмам XVII в., повторяющим соломенную кровлю, и по этнографии XIX в. Соломенная кровля на бамбуковых столбах
+      засвидетельствована поэтами XVI в. (Мукундарам, Чандравати — по Сену, 1911/1920); изогнутый конёк — Martin 1838.
     en: >-
       The hagiographies mention only the "house" (ghara) and separate rooms; the look of the hut is reconstructed from
-      17th-c. terracotta temples that copy thatched roofs and from 19th-c. ethnography.
+      17th-c. terracotta temples that copy thatched roofs and from 19th-c. ethnography. Thatch on bamboo posts is
+      attested by 16th-c. poets (Mukundaram, Chandravati — via Sen 1911/1920); the curved ridge — Martin 1838.
   text:
     ru: >-
       Бенгальский дом — не одно здание, а несколько хижин вокруг общего двора. Каждая стоит на поднятом глиняном
@@ -30,12 +32,17 @@
   hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 126 (Джаганнатха в одной комнате, Шачи — в другой)",
                 "ЧБ Ади 4.100–101 (Нимай забирается в соседские дома)"]
   sources: ["Терракотовые храмы Бишнупура: Шьям-рай (1643), Джор-бангла (1655) — повторяют кровлю чала (проверить даты по изданию)",
-            "см. research/pd-texts.md (Hunter 1875, Risley 1891 — описания жилищ)"]
+            "см. research/pd-texts.md (Hunter 1875, Risley 1891 — описания жилищ)",
+            "Sen, History of Bengali Language and Literature (1911), с. 295 (соломенные хижины и кирпичные молельни), 301 (хижина Пхуллары у Мукундарама, ок. 1590-х) — XVI в.",
+            "Sen, Bengali Ramayanas (1920), с. 187–188 (Чандравати, XVI в.: соломенная кровля на бамбуковых столбах)",
+            "Martin, Eastern India (1838), т. 3, с. 100–101 (кровля «бангла» с изогнутым коньком; четырёхскатная chautarka) — ок. 1810",
+            "Day, Bengal Peasant Life (1874), гл. V, с. 28–31 (bara ghar: толстые глиняные стены, солома больше локтя, цоколь до 5 футов)",
+            "Kennedy, The Chaitanya Movement (1925), с. 88–89; Ward (1863), с. 178 — храм джор-бангла как две хижины"]
   images: []
   game: {model: "хижина 5×4 м на цоколе 50–70 см, кровля чар-чала с выгнутым коньком, свес 0,8–1 м над верандой",
          where: ["mishra-house/courtyard"], codex: hs_chala,
          notes: "без окон со стёклами, без черепицы и кирпичных стен у жилых хижин"}
-  todo: "подтвердить типы кровель (до-/чар-/ат-чала) по PD-источнику; найти свободное фото храма-чала"
+  todo: "найти свободное фото храма-чала XVII в.; цоколь «5 футов» у Day — проверить, не преувеличение ли для Надии"
 
 - id: mc-courtyard
   title: {ru: "Двор (ангина) и глиняный цоколь", en: "Courtyard (angina) and clay plinth"}
@@ -57,7 +64,8 @@
       filled with heavenly beings. The huts stand on plinths so the rains do not flood the floors.
   hagiography: ["ЧБ Ади 4.77 (начал ходить и играть по всему двору)", "ЧБ Ади 4.126", "ЧЧ Ади 14.80",
                 "Лочан, Ади-кханда, ч. 2, ст. 111"]
-  sources: []
+  sources: ["Day, Bengal Peasant Life (1874), с. 28 («uthan … indispensable to the house of every peasant»)",
+            "Martin, Eastern India (1838), т. 3, с. 100 (усадьба-бари из отдельных хижин вокруг двора-ангана, огороженная)"]
   images: []
   game: {model: "плоский глиняный двор ~12×10 м, светлый, чуть выше уровня дорожки; цоколи хижин по периметру",
          where: ["mishra-house/courtyard"]}
@@ -140,7 +148,7 @@
       (alpana) are painted with a finger in liquid rice paste: lotuses, petals, the footprints of Lakshmi; they are
       drawn for festivals and rites and last until the floor is plastered again.
   hagiography: ["ЧБ Ади 14.41"]
-  sources: []
+  sources: ["Sen, Folk-Literature of Bengal (1920), с. 74 (двор расписан алипаной к проводам купца — сказка)"]
   images: []
   game: {model: "декаль на полу: белые узоры (свастика, раковина, диск, лотос) у порога и в комнате Божества",
          where: ["mishra-house/thakur-ghar", "mishra-house/courtyard"], codex: hs_alpana}
@@ -166,7 +174,9 @@
       house. Ghee is the best fuel for the Deity's lamp; in daily use mustard and sesame oil were burned.
   hagiography: ["ЧБ Ади 14.42", "ЧБ Ади 15.168 (лампада с семью фитилями)", "ЧБ Ади 15.144, 15.183",
                 "ЧЧ Ади 17.134"]
-  sources: []
+  sources: ["Sen 1911, с. 382 (глиняный светильник сохранил старое имя «прадип» при персидских названиях люстр)",
+            "Sen 1911, с. 23 («Дак-вачана»: вечером зажигают светильник)",
+            "Sen, Folk-Literature of Bengal (1920), с. 72 (светильники на гхи у богатых — сказки)"]
   images: []
   game: {model: "чашечка Ø 6–8 см с носиком для фитиля, обожжённая глина; тёплый огонёк",
          where: ["mishra-house/courtyard", "mishra-house/thakur-ghar", "mishra-house/sutika-ghar"], codex: hs_diya}
@@ -201,8 +211,13 @@
   rubric: home
   era_evidence: later-reconstruction
   evidence_note:
-    ru: "В житиях — «сиденье» и «асана»; конкретные пиди и циновки (мадур, шитал-пати) — по этнографии; проверить."
-    en: "The hagiographies speak of a 'seat' and 'asana'; the specific pidi and mats (madur, shital-pati) follow ethnography; to be checked."
+    ru: >-
+      В житиях — «сиденье» и «асана»; конкретные пиди и циновки (мадур, шитал-пати) — по этнографии; проверить. Мадур
+      и шитал-пати описаны у Mukharji 1888 (шитал-пати — ремесло Силхета, родины семьи Мишры).
+    en: >-
+      The hagiographies speak of a 'seat' and 'asana'; the specific pidi and mats (madur, shital-pati) follow
+      ethnography; to be checked. Madur and shital-pati are described by Mukharji 1888 (shital-pati is a Sylhet craft
+      — Sylhet was the Mishra family's homeland).
   text:
     ru: >-
       Стульев и столов в бенгальском доме не было: сидели на полу. Для почёта и для трапезы ставили пиди — низкую
@@ -213,11 +228,13 @@
       a low plank stool on short legs — and reed mats were spread on the floor. One also sat on an asana for worship:
       the guest brahmin, having cooked, sat on an asana to offer the food to Krishna.
   hagiography: ["ЧБ Ади 5.24", "ЧБ Ади 5.31"]
-  sources: []
+  sources: ["Bose, The Hindoos as They Are (1881), с. 72 (деревянные pirays)",
+            "Mukharji, Art-Manufactures of India (1888), с. 310–312 (мадур из осоки; шитал-пати — Силхет и Вост. Бенгалия)",
+            "Hunter, Statistical Account of Bengal, т. 2 (1875), с. 240 (циновки, сундук, плетёные короба-петара)"]
   images: []
   game: {model: "пиди 40×25×8 см, тёмное дерево; циновка 180×90 см, тростник",
          where: ["mishra-house/courtyard", "mishra-house/kitchen"]}
-  todo: "PD-подтверждение слов «пиди», «мадур», «шитал-пати» для XV–XVI вв."
+  todo: "слова «пиди/мадур/шитал-пати» в текстах XV–XVI вв."
 
 - id: mc-bed-cradle
   title: {ru: "Постель и детская колыбель", en: "Bed and cradle"}
@@ -238,11 +255,13 @@
       Shachi spreading a silk coverlet with a mattress of fine cloth on it, lying on her side and nursing her son,
       singing that his father would soon bring thickened milk and bananas.
   hagiography: ["ЧБ Ади 4.30–33", "Лочан, Ади-кханда, ч. 2, ст. 121–124"]
-  sources: []
+  sources: ["Day 1874, с. 28–29 (в крестьянском доме кровати нет: циновка и стёганое одеяло на глиняном полу)",
+            "Martin 1838, т. 3, с. xiii–xiv (кхатия — кровать из жердей с верёвочной сеткой; Бихар)",
+            "Hunter 1875, т. 2, с. 240 (дощатая лежанка takhtposh у зажиточных)"]
   images: []
   game: {model: "низкая лежанка на полу: тюфяк, покрывало; рядом — подвесная люлька? (не подтверждено)",
          where: ["mishra-house/main-hut", "mishra-house/sutika-ghar"]}
-  todo: "есть ли в XV–XVI вв. деревянные кровати (кхат) у бедных брахманов? подвесные люльки?"
+  todo: "подвесные люльки в Бенгалии XV–XVI вв.?"
 
 - id: mc-water-jar
   title: {ru: "Глиняный кувшин для воды (калаши)", en: "Clay water pot (kalashi)"}
@@ -291,7 +310,9 @@
       there to swim with his friends, and the neighbourhood girls performed their rites there. After touching
       anything impure one bathed in the Ganga at once. Bengali homesteads usually also had a pond of their own.
   hagiography: ["ЧЧ Ади 13.57–58", "ЧЧ Ади 14.48–49", "ЧЧ Ади 14.74", "ЧБ Ади 4.18–19", "ЧБ Ади 4.137"]
-  sources: []
+  sources: ["Sen 1911, с. 21–22 («Дак-вачана»: на востоке — пруд, на западе — бамбук, на севере — сад, юг открыт)",
+            "Sen 1911, с. 23 (вода — кувшином из пруда)",
+            "Day 1874, с. 30 (пруд к востоку от двора; питьевая вода — из большого пруда)"]
   images: []
   game: {model: "ступени из утрамбованной глины/кирпича к воде, бамбуковые перила? (проверить); пруд с ряской",
          where: ["ganga-ghat", "mishra-house/pond"], codex: hs_pond}
@@ -316,7 +337,7 @@
       Gopala Chapala, were found at Shrivasa's door, a sweeper was called, who removed them and purified the spot with
       water and cowdung. Floors are plastered in the mornings and before rites, after which designs are drawn.
   hagiography: ["ЧЧ Ади 17.44"]
-  sources: []
+  sources: ["Ward, A View of the History… of the Hindoos (изд. 1863), с. 12, 153 (утром порог натирают коровьим навозом; нечистые места очищают навозом)"]
   images: []
   game: {model: "свежие полукруглые разводы на полу, тёмно-оливковые; горшок со смесью и тряпка",
          where: ["mishra-house/courtyard"], codex: hs_dung}
@@ -340,7 +361,8 @@
       Him to go and bathe in the Ganga at once, and He answered with a talk on how pure and impure are only notions of
       the mind, since everything is pervaded by the Lord. His mother was amazed — but she still sent Him to bathe.
   hagiography: ["ЧЧ Ади 14.73–75", "Мурари 1, сарга 6 (ст. 9–16)", "Лочан, Ади-кханда, ч. 2, ст. 202–203"]
-  sources: []
+  sources: ["Day 1874, с. 31 (яма для мусора и золы за кухней)",
+            "Hunter 1875, т. 2, с. 240–241 (глиняные горшки — ежемесячная статья расходов)"]
   images: []
   game: {model: "куча черепков и целых закопчённых ханди за кухней, у ограды",
          where: ["mishra-house/backyard"], notes: "место эпизода-вопроса о чистоте (диалог)"}
@@ -368,7 +390,7 @@
       Vishnupriya. A cowshed for Mishra himself, a poor brahmin, is inferred from the usual homestead layout: a
       thatched shelter at the edge of the yard, a manger and a stack of rice straw.
   hagiography: ["ЧБ Ади 15.189", "ЧЧ Ади 17.153 (корова — мать, бык — отец)"]
-  sources: []
+  sources: ["Day 1874, с. 29–30 (коровник-гоал: глиняные кормушки, колья, дымный костёр из кизяка от комаров)"]
   images: []
   game: {model: "навес на 4 бамбуковых столбах, соломенная кровля, глиняные ясли, 1–2 коровы с телёнком",
          where: ["mishra-house/cowshed"], codex: hs_shed}

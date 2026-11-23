@@ -318,3 +318,36 @@
 - **Темы карточек:** Дола-пурнима — день явления Махапрабху (Гаура-пурнима), праздник красок.
 - **Эпоха:** XVIII в., придворная мусульманская среда — поздняя и не вайшнавская; только как атмосфера праздника. Малое разрешение.
 
+### 29. devis-1797-bengal-potter-and-wares.jpg
+- **Название:** A potter at work, with all the various utensils made surrounding him. Coloured stipple engraving by John Wright after Arthur William Devis (серия «Arts, Manufactures and Agriculture of Bengal»).
+- **Автор:** Arthur William Devis (1762–1822), гравёр John Wright. **Дата:** ок. 1797 (по рисункам, сделанным в Бенгалии в 1790-е).
+- **Учреждение / шифр:** Wellcome Collection — 580109i (b15801093; image V0046114).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/ck4y7dp4
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0046114/full/2000,/0/default.jpg
+- **Что показано:** гончар (кумбхакар) за ножным гончарным кругом под соломенным навесом; вокруг — вся линейка изделий: горшки-ханди, кувшины-колши, миски, светильники-прадипы, крышки, чаши; печь на заднем плане.
+- **Темы карточек:** глиняные горшки (ханди), колши для воды, глиняные светильники, гончарное ремесло, кухня.
+- **Эпоха:** 1790-е Бенгалия — поздняя реконструкция; формы бытовой керамики консервативны — одна из лучших иллюстраций «кухонной глины».
+
+### 30. belnos-1851-tilaka-signs-of-brahmins.jpg
+- **Название:** Signs worn by Brahmins (Plate 20 «Signs worn by Brahmins»). Lithograph with watercolour, из «The Sundhya, or the Daily Prayers of the Brahmins».
+- **Автор:** Sophie Charlotte Belnos. **Дата:** 1851 (London: Day & Son).
+- **Учреждение / шифр:** Wellcome Collection — 580611i (b1580611x; image V0046127).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/f2877av8
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0046127/full/1500,/0/default.jpg
+- **Что показано:** шесть голов бенгальских брахманов с разными знаками на лбу (шиваитские горизонтальные полосы, вайшнавская тилака и др.), шикхи, чётки-кантхи на шее; подписи (Mahadeva, Vishnu, Kali и т. п.).
+- **Темы карточек:** тилака (гопи-чандана), шикха, кантхи-мала, различение вайшнава и шакты/шиваита.
+- **Эпоха:** 1840-е — поздняя фиксация. Сверить подписи к знакам перед использованием (у Белно встречаются неточности).
+
+### 31. devis-1797-bengal-spinning-and-weaving.jpg
+- **Название:** Textiles: several Indian workers spinning, and working at a loom. Stipple engraving by P. W. Tomkins after A. W. Devis.
+- **Автор:** A. W. Devis, гравёр Peltro William Tomkins. **Дата:** 1797.
+- **Учреждение / шифр:** Wellcome Collection — 46141i (b12039536; image V0024688).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/p42s3muw
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0024688/full/2000,/0/default.jpg
+- **Что показано:** бенгальские ткачи (тантубая): горизонтальный станок в яме, мотовила, прялка, катушки, глиняные сосуды.
+- **Темы карточек:** ткань для дхоти и сари, ткачи Шантипура/Навадвипы, хлопок.
+- **Эпоха:** 1790-е — поздняя реконструкция; конструкция станка традиционна.
+

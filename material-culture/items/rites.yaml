@@ -68,7 +68,8 @@
       once the young Lord visited such a seller, who took no money and placed a beautiful conch in His hands. Married
       women's bangles were also cut from conch shell.
   hagiography: ["ЧБ Ади 2.211", "ЧБ Ади 4.52", "Лочан, Ади-кханда, ч. 2, ст. 130", "ЧБ Ади 12.146–149"]
-  sources: []
+  sources: ["Bose 1881, с. 24–25 (раковиной возвещают рождение мальчика; молчание раковины — знак горя)",
+            "Sen 1911, с. 171 (женщины трубят в раковины при рождении)"]
   images: []
   game: {model: "белая раковина Turbinella pyrum со срезанной верхушкой; медный колокольчик с рукоятью",
          where: ["mishra-house/thakur-ghar", "mishra-house/courtyard"]}
@@ -105,11 +106,13 @@
     ru: >-
       Сам факт — ЧБ Ади 4.18 (время «впервые покинуть комнату матери» через месяц) и ЧЧ Ади 13.118 (первый выход и
       омовение после родов). Устройство (отдельная хижина, огонь у входа, железо, срок нечистоты) — по этнографии,
-      проверить по PD.
+      проверить по PD. Отдельная временная хижина для родов — по Сену (1920), обычай «более шестисот лет»; железо у
+      входа — Risley 1891 (Орисса).
     en: >-
-      The fact itself — CB Adi 4.18 (the time to 'leave the mother's room for the first time' after a month) and
-      CC Adi 13.118 (first outing and bath after childbirth). The arrangement (a separate hut, fire at the door, iron,
-      the period of impurity) follows ethnography — to verify in PD sources.
+      The fact itself — CB Adi 4.18 (the time to 'leave the mother's room for the first time' after a month) and CC
+      Adi 13.118 (first outing and bath after childbirth). The arrangement (a separate hut, fire at the door, iron,
+      the period of impurity) follows ethnography — to verify in PD sources. A separate temporary hut for childbirth —
+      per Sen (1920), a custom 'for over six hundred years'; iron at the door — Risley 1891 (Orissa).
   text:
     ru: >-
       Роды проходили в особой комнате или наскоро поставленной хижине (сутика-гхар, атур-гхар). Мать с младенцем жила
@@ -122,7 +125,10 @@
       Bengali custom a fire was kept burning at the entrance, and an iron object and other charms were kept against
       evil spirits. After a month the mother first went out with the child to the Ganga — as Shachi did.
   hagiography: ["ЧБ Ади 4.17–18", "ЧЧ Ади 13.118"]
-  sources: []
+  sources: ["Sen, Folk-Literature of Bengal (1920), с. 73 (даже у богатых — временная жалкая соломенная хижина вне дома, «более шестисот лет»), 79–80 (30 дней; сказительница и бдение 6-й ночи)",
+            "Bose 1881, с. 22–25 (Sootikaghur/Antoorghur; мужчин не пускают; красная кайма; изображения Шаштхи из навоза у порога)",
+            "Risley 1891, т. 1, с. 289 (Орисса: отдельный дом, тепло, железные гвозди в косяках, ветви у двери, 21 день)",
+            "Day 1874, с. 29 (родильная — в хижине с дхенки)"]
   images: []
   game: {model: "маленькая хижина-чала у дерева ним, у входа — горшок с тлеющим огнём, на двери — железный серп/нож?",
          where: ["mishra-house/sutika-ghar"], notes: "обереги показывать как народный обычай, не как веру Мишры"}
@@ -200,7 +206,7 @@
       durva, unhusked rice, turmeric, gorochana, kunkuma, sandal paste and cloth. She touched the baby's head with
       durva and rice and blessed Him and His brother with long life.
   hagiography: ["ЧЧ Ади 13.111–118"]
-  sources: []
+  sources: ["Sen, Chaitanya and His Age (1922), с. 109 (Сита и Малини дарят украшения; повитуха Нараяни — по Джаянанде)"]
   images: []
   game: {model: "корзины с дарами; каждый дар кликабелен (см. отдельные карточки)", where: ["mishra-house/courtyard"],
          notes: "эпизод 4 тестового уровня"}
@@ -279,7 +285,8 @@
       "He who sustains the world."
   hagiography: ["ЧЧ Ади 13.117", "ЧБ Ади 4.44–50", "Лочан, Ади-кханда, ч. 1, ст. 82–83", "Мурари 1, сарга 2, ст. 5",
                 "Адвайта-пракаша 10.127"]
-  sources: []
+  sources: ["Sen, Chaitanya and His Age (1922), с. 109–110",
+            "Bose 1881, с. 28 (отвращающие имена: Нафар, Тинкори, Дукхи…)"]
   images: []
   game: {model: "—", where: ["mishra-house/courtyard"], notes: "текстовая карточка, связана с mc-neem-tree"}
 
@@ -325,10 +332,10 @@
       run about the house beating a winnowing fan and receive treats. On the ninth night there was a festival with
       joyful music.
   hagiography: ["Лочан, Ади-кханда, ч. 1, ст. 84"]
-  sources: []
+  sources: ["Bose 1881, с. 25–26 (Autcowroy: восемь видов жареного гороха и риса, сладости, каури и пайсы детям; стук по куле у двери родильной)"]
   images: []
   game: {model: "кула с горкой разноцветных бобов; дети", where: ["mishra-house/courtyard"]}
-  todo: "проверить описание ат-каурэ по PD (стук по куле — поздний ли элемент?)"
+  todo: "стук по куле — поздний ли элемент? (у Лочана не упомянут)"
 
 - id: mc-nishkramana
   title: {ru: "Первый выход и омовение в Ганге; поклонение Шаштхи", en: "First outing and bath in the Ganga; worship of Shashthi"}
@@ -456,11 +463,12 @@
       pearl necklace, a gold chain round His waist and anklets; on that same day, according to Lochana, the naming was
       also performed. The first rice is, of course, the Lord's prasada.
   hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 103–108"]
-  sources: []
+  sources: ["Bose 1881, с. 27–28 (в 6 месяцев; имя в тот же день; несколько зёрен в рот кладёт мужчина семьи; шёлк и золото)",
+            "Day 1874, с. 40–42 (праздничная трапеза на аннапрашану)"]
   images: []
   game: {model: "кансовое блюдо с горкой риса и пятью чашечками, младенец на коленях у дяди по матери? (проверить обычай)",
          where: ["mishra-house/courtyard"]}
-  todo: "кто кормит первым рисом по бенгальскому обычаю (дядя по матери?) — PD/этнография; «первый рис — прасад» — моя пояснительная фраза, не из житий"
+  todo: "кто кормит первым рисом (у Боса — «мужчина семьи», по позднему обычаю — дядя по матери?); «первый рис — прасад» — пояснение, не из житий"
 
 - id: mc-oil-turmeric-kajal
   title: {ru: "Уход за младенцем: масло, куркума, сурьма, горочана", en: "Baby care: oil, turmeric, kohl, gorochana"}

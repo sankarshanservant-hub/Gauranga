@@ -459,7 +459,7 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
 - Жениху в дар — «wooden shoes» (деревянные сандалии, *kharam*) — Bose 1881, p. 59–62. **[поздн.]**
 - **Каури**: «In the early part of the British Government in Bengal, cowries were the common currency of the
   Province in the ordinary transactions of life. People used to make their *hautbazar* (market) with cowries, and a
-  family that made a daily bazar with sixteen or eighteen *kahuns* of cowries, equal to one rupee or so, was reckoned
+  family that made a daily bazar with sixteen or eighteen *kahuns* [OCR: «kahtins»] of cowries, equal to one rupee or so, was reckoned
   a very respectable family» — Bose 1881, p. 75 (сноска). **[поздн.: кон. XVIII в.]**
 - **Мужская одежда XV–XVI в.**: «They used to wear a turban and tuck up the Dhuti tightly between the legs as the
   Hindustani people do now». Виджай Гупта (1494) о том, как царь Цейлона надел три шёлковых ткани «по-бенгальски»:
@@ -585,3 +585,22 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
 
 ## Тупики (Dead ends)
 
+- **Sen, *The Bengali Ramayanas* (1920)**, `bengaliramayanas00senduoft` — OCR выполнен как бенгальский текст,
+  английский текст нечитаем; использована копия `cu_pub599`.
+- **Solvyns, *Les Hindous* (1808–1812)** — полного текста с описаниями листов на archive.org нет (только отдельные
+  листы «Boats of Bengal», «Musical Instruments»); использованы Catalogue 1799 и *Costume of Indostan* 1804.
+- **Hunter, *Statistical Account of Bengal* II** — раздел «Material condition» для **Надии** в OCR обеих копий не
+  найден (индекс ссылается на p. 62–63, там касты); есть только Джессор.
+- **Buchanan/Martin, *Eastern India*** — том с Динаджпуром (описание бенгальских хижин) в скачанных копиях
+  (`historyantiquit02martgoog`, `in.ernet.dli.2015.22690` — Бихар) не найден; использован т. III (Пурния).
+- **Birdwood, *Industrial Arts of India* (1880)** — не просматривал (по утвари Бенгалии Мукхарджи 1888 подробнее).
+- **F. de W. Ward, *India and the Hindoos* (1850)**, `indiahindoosbein00wardrich` — Южная Индия/миссия, по теме
+  пусто.
+- **Kennedy, *The Chaitanya Movement* (1925)** — быта почти нет; статус ОД вне США не проверен (дата смерти автора не
+  найдена).
+- **Не найдено ни в одной из просмотренных книг**: время появления **чханы**/чхана-сандеша (прямого ОД-свидетельства
+  нет; Bose 1881 лишь фиксирует, что чхана в XIX в. считалась «нечистой» у части индусов); описание **шил-норы**,
+  **кулы** и **дхенки** как бытовых предметов XV–XVI в. (есть только у Дея, XIX в.); **ним/железо/коготь тигра** в
+  родильной (нашлись только железные гвозди у ориссийских гоала — Risley — и ним в истории имени Нимай);
+  **нишкрамана** (первый выход, омовение в Ганге); **испытание выбором предметов** на аннапрашане; **улу-дхвани**
+  (только раковина); **сорта масла для светильников** (кроме гхи у богачей в сказках); **алпана** — только упоминание.
