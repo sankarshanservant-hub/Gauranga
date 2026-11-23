@@ -694,6 +694,106 @@ universities; on 29 November at the “Rajendra Bhavan” in New Delhi he gave a
 (chaired by Raja Bhupendra Narayan Singh). At his word the Andhra disciple Y. Jagannath published Bhaktivinoda’s “Sri
 Chaitanya-shikshamrita” in Telugu; an English edition of the “Jaiva-dharma” was in preparation. <!-- F155 F156 F157 -->
 
+## 1935: Puri, Radha-kunda
+On 15 January 1935 the Governor of Bengal, Sir John Anderson, visited the place of Mahaprabhu’s appearance in Mayapur
+and, having heard Srila Bhaktisiddhanta’s account of the holy place, himself made a speech. On 23 February his
+sixty-first Vyasa-puja was celebrated where he had appeared — in Puri, among the dunes by the ocean; the chair was the
+Maharaja of Puri, Gajapati Ramachandra Deva Bahadur. The next day he walked around Puri and lectured; on 4 March Sir B. L.
+Mitra heard him. By Dola-purnima Sakhicharan Ray Bhakti-vijaya had brought electric light into the Yogapitha temple,
+and on 20 March, Dola-purnima, the new temple was opened: its doors were formally opened by the Maharaja of Tripura, Sir
+Viravikrama Kishor Devavarma Manikya Bahadur. <!-- F158 F159 F160 -->
+
+In spring he preached in Eastern Bengal: on 24 March — large meetings at Deuli (Khulna); on 31 March in Calcutta the
+Maharaja of Burdwan, Sir Vijaya Chand Mahtab, heard him; on 8 April in Dhaka he laid the foundation of a new temple of
+the Madhva Gaudiya Math (Narindapalli); on 12 April he installed the Deities in the Jagannatha Gaudiya Math in Mymensingh
+and until the 15th was the guest of Maharaja Shashi Kanta Acharya at “Shashi Lodge.” On 19 April he visited all the
+places of Mahaprabhu in Gaya and on the 22nd founded the Gaya Gaudiya Math; on 30 April he sent preachers to Eastern
+Bengal and Burma; on 31 May he came to Darjeeling, where on 9–10 June his disciples spoke at meetings chaired by Sir
+Jadunath Sarkar and Colonel Upendranath Mukhopadhyaya; on 9 June Chaitanya’s message was broadcast by the “Indian
+Broadcasting Service.” <!-- F161 F162 -->
+
+On 28 June at the Calcutta Gaudiya Math he was heard on Vaishnava philosophy by the Maharani of Cooch Behar, Indira Devi,
+the princesses Ila Devi and Gayatri Devi, Prince Indrajitendra Narayan and the French scholar Dr. Maximilian Poitier.
+On 8 July he installed the Deities in the Bombay Gaudiya Math on Proctor Street and spoke on the “Bhagavata” and the
+Pancharatra at the “People’s Jinnah Hall.” His disciple Sambidananda Dasa (M.A., Bhakti-shastri,
+Pratna-tattva-visharada) received a doctorate from the University of London for work on the history and literature of
+Vaishnavism. From the end of July to mid-August Srila Bhaktisiddhanta preached in the Navadvipa district. <!-- F163 F164 -->
+
+From the annual festival of the Gaudiya Math in 1935 there were street sankirtana every Sunday and radio broadcasts — for
+Janmashtami, Nandotsava, Radhashtami and Bhaktivinoda’s appearance day. From Balarama’s appearance he expounded the
+“Bhagavata” for sixteen days in a row, and at the great meeting of the festival, chaired by the Maharaja of
+Cossimbazar, Shachindra Nandi, he gave an address on “Devotion and Indifference to the World.” On 18 September the
+citizens of Calcutta welcomed Bhakti Hridaya Bon, returned from London with two German devotees, and honoured him with
+an address. On 21 September, the full moon of Bhadra, he lectured on the occasion of the Gaudiya Math’s completing the
+publication of all twelve books of the “Bhagavata”[^18]. <!-- F165 F166 -->
+
+From 1 to 7 October he preached in New Delhi, and from 8 October he spent more than a month at Radha-kunda keeping the
+vows of the month of Karttika (*niyama-seva*): every day the Upanishads, the “Chaitanya-charitamrita,” the
+“Bhagavatam,” circumambulation of the kunda, and hearing and singing the *ashtakaliya-lila*. On 9 October a committee for
+the service of Vraja-dhama, the “Vraja-dhama-pracharini Sabha,” was founded there. On 4 November he installed the
+Deities in the Kunja-bihari Math at Radha-kunda, and two days later the *pushpa-samadhi* of Bhaktivinoda (a memorial
+enshrining flowers from his samadhi) and the service of his *bhava* (*bhava-seva*) in the Vraja-Svananda-sukhada-kunja.
+<!-- F167 F168 -->
+
+On 7 November he visited Sheshashayi (Punjab), then Delhi (festival on the 10th); from 11 to 15 November he was in Gaya
+and on the 13th installed the Deities in the Gaya Gaudiya Math. The preaching in Burma was going with great success. On
+23 December the fifth anniversary of Jagabandhu’s departure was observed (chaired by the Maharaja of Tripura). He spoke
+of transcendental knowledge beyond the senses with Dr. Henry Hand and S. V. Rossetto of California, the barrister S. N.
+Rudra and Justice Lalita Mohan Basu. On 27 December he came to Patna, on the 30th to Allahabad, where he spoke on
+Mahaprabhu’s teachings to Rupa Gosvami, and on 7 January 1936 he opened a diorama exhibition in Prayaga and gave an
+English presidential address before scholars. <!-- F169 F170 -->
+
+## 1936: The Nine Islands
+On 11 January 1936 he returned to Mayapur and for two months preached every day to the residents of the Chaitanya Math
+and of Gauranga’s birthplace. On 12 February, for his sixty-second appearance day, he founded the “Thakur Bhaktivinoda
+Research Institute” — the “Krishnanushilana-agara,” a library of Krishna culture — and the “Daiva-varnashrama Sangha”[^19].
+The Vyasa-puja was held at Shrivasa-angana; in London his appearance day was celebrated under the chairmanship of the head
+of the “London Gaudiya Mission Society,” Sir Shadilal. <!-- F171 F172 -->
+
+From 25 February he installed Deities — *vishaya-* and *ashraya-vigrahas*, the One who is served and those who serve —
+on each of the nine islands of Navadvipa: on 1 March at Suvarna-vihara (the Suvarna-bihari Math), on 5 March at the
+Sarvabhauma Gaudiya Math in Vidyanagara, on 7 March at the Rudradvipa Gaudiya Math. On 8 March, Mahaprabhu’s appearance
+day, at his word the Minister of Education of Burma, Dr. Ba Maw, opened the Gaudiya Math office in Rangoon (29 Brooking
+Street), and in London on that day there were addresses on the Lord’s appearance under the chairmanship of Dr. Parikhi. On
+15 March he was in Assam and installed the Deities in the Gaudiya Math; the people of Sarbhog honoured him. <!-- F173 F174 -->
+
+On 27 March he came to Cuttack, and from 29 March he lived at Chataka-parvata in Puri: there he founded a residence for
+devotees and a temple with Radha-Govinda, and with an address before scholars began a hundred-day festival of
+sankirtana. On 4 May he observed Nrisimha-chaturdashi at the Brahma Gaudiya Math in Alalanatha, and on 30 May gave
+tridandi sannyasa to several brahmachari preachers. In June he was in Dhaka, stayed with Supati Ranjan Nag and initiated
+many (on the 7th); on the 9th the people of Baliati welcomed him; on the 10th he installed Radha-Govinda in the new temple
+of the Gadai-Gauranga Math; on the 13th–14th his sannyasis and a German disciple spoke at Dhaka University and the Dhaka
+Bar Library. <!-- F175 F176 -->
+
+On 19 June in the Svananda-sukhada-kunja in Godrumadvipa he observed the twenty-second anniversary of Bhaktivinoda’s
+departure: he spoke of the need to give up the company of non-devotees and led sankirtana; on the same day at
+Kurukshetra, during a solar eclipse, the devotees of the Gaudiya Math showed the pilgrims the exhibition
+“Sat-shiksha-pradarshini.” On 27 June he came to Darjeeling and spoke hari-katha at the Gaudiya Math office, on 19 July
+installed Radha-Govinda there, and on 24 July at Bogra, at a meeting of the local “Hindu Sabha,” he spoke of the need to
+preach Gaudiya Vaishnavism in Northern Bengal, once blessed by Narottama Dasa Thakura. <!-- F177 F178 -->
+
+After Balarama-purnima and Janmashtami in Calcutta he decided to spend the *purushottama-masa* (*mala-masa*, the
+intercalary month) in Mathura-mandala, and on 12 August set out: he stayed in Mathura, in the cantonment (“Shivalaya”),
+held daily classes on the “Bhagavatam” in Vrindavana (Madhumangala-kunja), opened a place of worship at Govardhana, and
+on 9 September returned to Calcutta for the annual festival. On 16 October he spoke for nearly an hour with Dr.
+Shivapada Bhattacharya, and on 23 October at the “Sarasvata Shravana Sadana” he entrusted the preaching in Great Britain
+and America to Bhakti-saranga Prabhu, blessed him, and instructed him in the worship of the Gomati, the shalagrama and
+the govardhana-shila. <!-- F179 F180 -->
+
+## Last Months in Puri
+On 24 October 1936 he left for Puri. On 1 November his dear disciple Tridandi Svami Bhakti Shrirupa Puri Maharaja left
+this world. At Chataka-parvata, which is not different from Govardhana, Srila Bhaktisiddhanta celebrated the
+appearance of Madhvacharya and the Govardhana-puja — with the hymns of Rupa and Raghunatha Gosvamis — and observed the day
+of separation from his dear master, Srila Gaurakishora Dasa Gosvami Maharaja. Every day his talks bathed his disciples
+and guests. <!-- F181 F182 -->
+
+In Puri he constantly warned everyone: “Worship the Lord without duplicity — little time remains.” So the acharya,
+seeing ahead, urged his disciples on. And he ceaselessly repeated two prayers to Govardhana — Rupa Gosvami’s from the
+“Govardhanashtaka”: *pratyasham me tvam kuru govardhana purnam* — “O Govardhana, fulfil my hope,” — and Raghunatha
+Dasa’s from the “Govardhana-vasa-prarthana-dashaka”: *nija-nikata-nivasam dehi govardhana tvam* — “O Govardhana, grant
+me a dwelling near you.” On 9 December he returned to Calcutta, instructing his disciples without pause the whole way.
+<!-- F183 Q3 F184 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -742,3 +842,7 @@ Chaitanya-shikshamrita” in Telugu; an English edition of the “Jaiva-dharma�
 [^17]: The biography speaks of this differently in two places: in one, the disciples carried the body whole, and the
     temple was opened on 16 September; in the other, part of the remains was recovered from the bed of the Ganga on the
     5th of Bhadra 1339, and the new samadhi was consecrated on the 2nd of Ashvina 1339 (about 18–19 September 1932).
+[^18]: In the biography’s text the words “On April 2” also stand before this — apparently a misprint.
+[^19]: In its list of institutions the biography gives a different year for the founding of this institute — 1931; in
+    the account of 1936 and in another list — 12 February 1936. The years of the journal “Gaudiya” are also confused in it
+    (the second and third years are both marked 1924–1925).
