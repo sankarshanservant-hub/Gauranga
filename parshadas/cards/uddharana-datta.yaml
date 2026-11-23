@@ -1,0 +1,92 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/uddharana-datta.md и lila-db.
+id: "@uddharana-datta"
+names:
+  ru: "Уддхарана Датта Тхакур"
+  en: "Uddharana Datta Thakura"
+  variants: ["Шрила Уддхарана Тхакур", "Уддхарана Тхакур Махашая", "Датта-Уддхарана (ЧБ Антья 5.450)", "Уддхарана дас Тхакур (календарь ШЧСМ)", "Uddharan Datta (T)", "Uddharana Datta Thakura (M)"]
+  facts: [F1]
+kind: associate
+circle: [navadvipa, later]
+period: [P12, P14, P15]
+period_note: "Лично — спутник Нитьянанды в Гауде: Саптаграм и путь в Шантипур (P12; ЧБ Антья 5, БР 12, Мурари 4.22 — F16–F25, F44), праздник в Панихати (P14; ЧЧ Антья 6.63 — F42), сватовство и свадьба Нитьянанды (P15 в lila-db; F22–F23, F45–F46). После его ухода — Джахнава, Нароттама, Вирачандра в его доме (P15; F32–F34). Перечни ветвей и слуг Нитьянанды (ЧЧ Ади 11.41, ЧБ Антья 5.743 — PX) — лишь упоминания."
+life:
+  appearance:
+    date: "1481"
+    tithi: ""
+    place: "#saptagrama"
+    conf: "Шака 1403 (1481 г.) — B и T, без первоисточника; день не назван; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет"
+    facts: [F6]
+  disappearance:
+    date: "1541"
+    tithi: "Пауша (Нараяна-маса), кришна-трайодаши"
+    place: ""
+    conf: "Шака 1463 (= 1541/42 г.; T ошибочно — «1552», ⚠6), Пауша кришна-трайодаши — B и T (B: по другому мнению — Аграхаяна); по календарю ШЧСМ (541/ru, проверено 2026-11-16) — «День ухода Шрилы Уддхарана даса Тхакура», Нараяна маса, кришна-трайодаши (5 января 2027 г., вместе с днём ухода Махеши Пандита); по БР 8.202 сокрылся незадолго до прихода Нароттамы — хронология спорна (⚠7)"
+    facts: [F31, F33]
+  samadhi: [{place: "#uddharanapura", facts: [F30], note: "к западу от храма в Уддхаранпуре; по мнению некоторых — во Вриндаване (B 923, по «Анубхашье»)"}]
+origin:
+  places: ["#saptagrama"]
+  family: ["@kara-datta", "@bhadravati-saptagrama", "@shrinivasa-datta"]
+  varna: "суварна-ваник (торговец золотом) по рождению (ЧБ Антья 5.453; B 922; T 90)"
+  facts: [F6, F7, F8, F9, F10]
+  note: "Имена родителей и сына — у B, T, M как факт, в «Анубхашье» к ЧЧ Ади 11.41 — «по мнению некоторых» (⚠3). Вайшнав не определяется рождением: он — вечный спутник Субаху, лишь явившийся в этом роду (⚠Б1)."
+relations:
+  - {type: father, who: "@kara-datta", facts: [F7], note: "B: «Шри Кара Датта», T: «Srikara»; «по мнению некоторых» («Анубхашья»)."}
+  - {type: mother, who: "@bhadravati-saptagrama", facts: [F7], note: "Не путать с Бхадравати, матерью Васудхи и Джахнавы (@bhadravati)."}
+  - {type: son, who: "@shrinivasa-datta", facts: [F9, F34], note: "T — единственный сын; M 14 — принял в Саптаграме Вирачандру."}
+  - {type: guru, who: "@nityananda", facts: [F3, F16, F17, F18, F20, F21, F22, F23, F24, F25, F42, F43, F44, F45, F46, F48, F49, F50, F52, I1, I2],
+     events: [ev-nityananda-preaching-gauda, ev-uddharana-pilgrimage-nityananda, ev-nityananda-advaita-meeting-shantipura, ev-panihati-chida-dadhi, ev-nityananda-marriage, ev-tattva-bhakti-kalpataru],
+     note: "Вечный слуга Нитьянанды, ветвь Его древа (ЧЧ Ади 11.41); принимал Его в Саптаграме и готовил Ему пищу (ЧБ Антья 5.449–453; БР 8, 12); с Ним обходил святые места Гауды (вандана; БР 8.186); сватал Ему дочерей Сурьядаса (ПВ 24, АП 20, НВВ 1). «Гуру» — в смысле господина и прибежища; формального посвящения источники не называют. = @nityananda F297–F299, F338, F348, F369, F405–F406, I4."}
+  - {type: other, who: "@advaita", facts: [F18, F22, F24, F44], events: [ev-nityananda-advaita-meeting-shantipura], note: "Шёл с Нитьянандой из Саптаграма в Шантипур к Адвайте (Мурари 4.22.22; БР 12.3752); M 65 — пригласил Нитьянанду из дома Адвайты в Саптаграм."}
+  - {type: other, who: "@suryadasa-pandita", facts: [F45], events: [ev-nityananda-marriage], note: "Сватал Нитьянанде его дочерей; в Амбике назвал Его Сурьядасу «Ньяя-чудамани» (АП 20.8–9; НВВ 1.88–90; ПВ 24.615–620; ур. C)."}
+  - {type: host, who: "@jahnava", facts: [F22, F23, F32], events: [ev-jahnava-returns-through-kheturi], note: "После свадьбы Нитьянанды — в Саптаграме у него (T 199, M 65); после его ухода она посетила его дом (B 924; T 91, 200; M 70; БР 11.773–779). = @jahnava F35, F37, F90."}
+  - {type: other, who: "@vasudha", facts: [F22], note: "M 65 — вместе с Нитьянандой и Джахнавой (у Адвайты, затем в Саптаграме)."}
+  - {type: other, who: "@virabhadra", facts: [F34, F47, F51], events: [ev-nityananda-awakens-shridama], note: "M 14 (БР 13.283–287) — по пути во Вриндаван гостил два дня у его сына; НВВ 10.55 — Вирачандра пересказывает предание, слышанное от Уддхараны (ур. C)."}
+  - {type: other, who: "@narottama-dasa", facts: [F33], events: [ev-narottama-gauda-pilgrimage], note: "Пришёл в его дом в Саптаграме вскоре после его ухода и застал преданных в разлуке (БР 8.200–205; M 108; T 209)."}
+  - {type: other, who: "@abhirama", facts: [F47], events: [ev-nityananda-awakens-shridama], note: "Предание о пробуждении Шридамы-Абхирамы — со слов Уддхараны (НВВ 10.55)."}
+  - {type: other, who: "@hoda-krishnadasa", facts: [F45], events: [ev-nityananda-marriage], note: "ПВ 24.614–620: в доме Кришнадаса Хода в Догачхии сообщает о сватовстве."}
+  - {type: other, who: "@mahesha-pandita", facts: [F19, F31], note: "Последовал за Нитьянандой в Саптаграм (T 86); собрат по двенадцати гопалам; их дни ухода совпадают (Пауша кришна-трайодаши; календарь ШЧСМ)."}
+  - {type: other, who: "@raghunatha-dasa", facts: [F42], events: [ev-panihati-chida-dadhi], note: "Гость его праздника чида-дадхи в Панихати (ЧЧ Антья 6.63)."}
+  - {type: deity-served, who: "@gaura-shadbhuja-saptagrama", facts: [F36], note: "Установил и служил своими руками; справа Нитьянанда, слева Гададхара (B; T — без Гададхары)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F12, F26, F29, F30, F36, F37, F38, F39], note: "«Анубхашья» к ЧЧ Ади 11.41 и «Гаудия-бхашья» к ЧБ Антья 5.453 — основа главы B (шрипат, Наихати, Уддхаранпур, родные — «по мнению некоторых»)."}
+  - {type: other, who: "@bhaktivedanta-svami", facts: [F38, F39, F41], note: "Бывал в его храме в детстве и в 1967 г.; его комментарий к ЧЧ Ади 11.41 приводит T 92. = @bhaktivedanta-svami F9."}
+unnamed:
+  - {who: "раджа Наихати («Найраджа» у B и T)", type: patron, facts: [F26, F27], note: "служил у него диваном (управляющим); «Анубхашья»: «раджа деревни Наихати» (⚠4)"}
+  - {who: "Божества Нитай-Гауры, установленные им в Уддхаранпуре", type: deity-served, facts: [F29], note: "по преданию, увезены в столицу Банварибада"}
+  - {who: "Радха-Говинда и шалаграма в шрипате Саптаграма", type: deity-served, facts: [F36, F39], note: "шалаграма, которому он служил, ныне — у Шринатхи Датты в Бали (B, «Анубхашья»)"}
+  - {who: "Нитай Дас Бабаджи, Баларама Маллик, Джагамохана Датта, Мадана Датта, Шринатха Датта", type: other, facts: [F38, F39], note: "попечители шрипата и хранители мурти и шалаграмы (XIX–XX вв.)"}
+identities:
+  - in: krishna-lila
+    as: "Субаху, пастушок (гопа) Враджа; один из двенадцати гопалов"
+    source: "ГГД 129"
+    level: A
+    facts: [F2, F3]
+    variants: ["«Гопала-нирная» («Вайшнава-вандана», ч. 4, 31–32) — Махабала (F5, ур. C, ⚠9)."]
+events:
+  - ev-nityananda-preaching-gauda
+  - ev-uddharana-pilgrimage-nityananda
+  - ev-nityananda-advaita-meeting-shantipura
+  - ev-panihati-chida-dadhi
+  - ev-nityananda-marriage
+  - ev-nityananda-awakens-shridama
+  - ev-jahnava-returns-through-kheturi
+  - ev-narottama-gauda-pilgrimage
+  - ev-tattva-bhakti-kalpataru
+events_note: "ev-nityananda-preaching-gauda — ЧБ Антья 5.443–460, 5.718–756 (cb-3083, cb-3089), пада Баларамы даса (pad-0204), «Гопала-нирная» (vv-0061); ev-uddharana-pilgrimage-nityananda — ванданы (vv-0030, vv-0051, vv-0076; так и БР 8.186); ev-nityananda-advaita-meeting-shantipura — Мурари 4.22.22–25 (mkc-0248); ev-panihati-chida-dadhi — ЧЧ Антья 6.63 (cc-4065); ev-nityananda-marriage — АП 20, НВВ 1, ПВ 24 (apr-0136, apr-0139, nvv-0005, nvv-0007, pvl-0231, pvl-0270); ev-nityananda-awakens-shridama — НВВ 10.55 (nvv-0068); ev-tattva-bhakti-kalpataru — ЧЧ Ади 11.41 (cc-0159). ev-jahnava-returns-through-kheturi (БР 11.773–779) и ev-narottama-gauda-pilgrimage (БР 8.142–205) — записи этих событий в lila-db только из «Нароттама-виласы», где он не назван; БР 8 и 11 ещё не внесены — связь отмечена в notes событий (сплошная проверка, 2026-11-16). БР 12.3722–3752 (Нитьянанда в Саптаграме) — в lila-db записи нет (БР 12 ещё не переведена)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#saptagrama", "#uddharanapura", "#naihati-katwa", "#daihat", "#katwa", "#kharadaha", "#shantipura", "#panihati", "#ambika-kalna", "#vrindavana"]
+places_facts: [F6, F16, F18, F22, F23, F24, F26, F27, F28, F30, F32, F33, F35, F42, F44, F45]
+character:
+  - {trait: "безраздельная преданность Нитьянанде телом, умом и речью", facts: [F16, F21, F25, F49], events: [ev-nityananda-preaching-gauda]}
+  - {trait: "отречение при огромном богатстве: мирская служба — лишь игра", facts: [F21, F26]}
+  - {trait: "любовь, которой покорялся Нитьянанда: Он с радостью ел приготовленное им", facts: [F20, F46]}
+  - {trait: "щедрость (*удара*) и чистота, не ищущая своего", facts: [F43, F48]}
+significance: {facts: [I1, I2, I3, I5, F11, F12, F17, F18]}
+sources: {T: "90–92", M: "глава в скане отсутствует (с. 230–232); упоминания 14, 65, 70, 108", B: "922–924", other: ["ГГД 129", "ЧЧ Ади 11.41", "ЧЧ Антья 6.63", "ЧБ Антья 5.443–460, 5.743", "БР 8.142–205, 11.773–779, 12.3722–3752, 12.4009–4013, 13.283–287", "Мурари 4.22.14–22", "«Анубхашья» к ЧЧ Ади 11.41", "«Гаудия-бхашья» к ЧБ Антья 5.453", "«Вайшнава-вандана»", "АП 20", "НВВ 1, 10", "ПВ 24", "«Намамрита-самудра» 24"]}
+article: {ru: "parshadas/ru/uddharana-datta.md", en: "parshadas/en/uddharana-datta.md"}
+open_questions:
+  - "Год ухода: Шака 1463 (B, T) против БР 8.202 — «сокрылся недавно» перед приходом Нароттамы (⚠7)."
+  - "Порядок: Кхардах → Саптаграм (ЧБ, БР 12.3722–3752) и после свадьбы — Надия → Шантипур → Саптаграм → Кхардах (БР 12.4009–4013; M 65, T 199 — с расхождениями) (⚠5, F50)."
+  - "Родители и сын — «по мнению некоторых» («Анубхашья») (⚠3); место самадхи — Уддхаранпур или Вриндаван."
+  - "Кто такой «раджа Найраджа» (⚠4); отождествление в «Гопала-нирнае» — Махабала (⚠9)."

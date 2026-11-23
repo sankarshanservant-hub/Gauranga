@@ -7,14 +7,11 @@ received His mercy while still a child, in the days of his boyhood play. He is a
 Bhatta Gosvami and Bhatta-pada. At the beginning of the “Chaitanya-charitamrita” Krishnadasa Kaviraja Gosvami honours
 him among his six shiksha-gurus, his instructors:
 
-“Sri Rupa and Sri Sanatana Gosvami, Sri Bhatta Raghunatha Gosvami, Sri Jiva Gosvami, Srila Gopala Bhatta Gosvami and
-Sri Dasa Raghunatha Gosvami. With reverence I bow millions of times at the lotus feet of these six instructors of
-mine.” (CC, Adi 1.36–37) <!-- F1 Q37 -->
+“Sri Rupa, Sanatana, Raghunatha Bhatta, Sri Jiva, Gopala Bhatta and Raghunatha Dasa — these six are my instructing gurus; at the lotus feet of them all I offer millions of obeisances” (CC, Adi 1.36–37) <!-- F1 Q37 -->
 
 And listing the branches of the Chaitanya tree, the Kaviraja says of him:
 
-“The forty-sixth branch, Sri Gopala Bhatta Gosvami, is one of the very greatest. In the company of Sri Rupa and
-Sanatana Gosvami he discussed the essence of pure love for Krishna.” (CC, Adi 10.105) <!-- F68 Q23 -->
+“Sri Gopala Bhatta is a branch of the very highest order; he would converse about love with Rupa and Sanatana” (CC, Adi 10.105) <!-- F68 Q23 -->
 
 The six Gosvamis are Sanatana, Rupa, Raghunatha Dasa, Gopala Bhatta, Raghunatha Bhatta and Jiva; Lokanatha and
 Bhugarbha were honoured as the seventh and eighth, and people sometimes speak of “nine Gosvamis”, among them “the two
@@ -48,15 +45,7 @@ Ranga-kshetra on the bank of the Kaveri — the river of which the “Bhagavatam
 water are purified in heart and attain pure bhakti for Vasudeva. The “Chaitanya-charitamrita” relates:
 <!-- F7 F8 Q1 -->
 
-“In Papa-nashana He visited the temple of Vishnu and then went on to Sri Ranga-kshetra. He bathed in the river Kaveri
-and then visited the temple of Ranganatha. Offering many prayers to that Deity, He felt that His life had been filled
-with the highest meaning. In that temple He sang and danced so much in the rapture of divine love that everyone was
-amazed to see it. One of the Shri Vaishnavas, named Venkata Bhatta, invited Sri Chaitanya to his home with the deepest
-respect. Bringing the Lord home, he washed His feet and drank that water together with his household. Then, having fed
-Sri Chaitanya, Venkata Bhatta humbly addressed Him: ‘Prabhu! Chaturmasya has already begun. Please be merciful to me and
-stay in my home for the whole of this rainy season. Mercifully deliver me by granting me the chance to hear Krishna-katha
-from Your lips.’ So Sri Chaitanya stayed in that house for the four months of the rainy season, happily spending His
-days in discussing with Venkata Bhatta the various aspects of the spiritual rasas with Krishna.” (CC, Madhya 9.79–86)
+“At Papanashana He had darshana of Vishnu, and then He went to Sri Ranga-kshetra. He bathed in the Kaveri and saw Ranganatha. Offering prayers and obeisances, He felt His purpose fulfilled. Absorbed in love, He sang and danced a great deal, and all the people who saw it were amazed. A Sri Vaishnava named Venkata Bhatta respectfully invited the Lord. He brought the Lord to his house and washed His feet, and he and his whole family drank that water. After serving Him a meal, he made a request: ‘O Lord, the Chaturmasya is at hand. Be merciful and stay in my house for Chaturmasya. Speak about Krishna and mercifully deliver me.’ The Lord stayed in his house, relishing talks about Krishna, and happily spent the four months with the Bhatta.” (CC, Madhya 9.79–86)
 <!-- F10 Q2 -->
 
 Papanashana, where the Lord saw Vishnu, lies four kroshas south-west of Kumbhakonam. According to one account, Venkata,
@@ -72,10 +61,7 @@ does chaste Lakshmi, who lives on her Husband's breast, seek the company of the 
 that Krishna and Narayana are one svarupa, but Krishna is higher in rasa. Here sounds the verse of the
 “Bhakti-rasamrita-sindhu” that the “Chaitanya-charitamrita” also quotes:
 
-“According to the conclusions of enlightened souls there is no difference between the transcendental nature of Krishna
-and of Narayana, the Husband of Lakshmi. But there is one indisputable excellence that places Krishna above all other
-forms of God, Narayana included: only in the form of Krishna are all kinds of rasa, of spiritual relationship, revealed
-in their fullness.” (CC, Madhya 9.117) <!-- F14 Q3 -->
+“Although, by the conclusion of the scriptures (*siddhanta*), the Lord of Sri and Krishna are one in essence, in rasa the form of Krishna excels: such is the nature of rasa.” (CC, Madhya 9.117) <!-- F14 Q3 -->
 
 But why then, the Lord went on, was Lakshmi not admitted to the rasa dance, while the personified shrutis were? Uddhava
 in the “Bhagavatam” (10.47.60) testifies that not even Lakshmi on the Lord's breast received the mercy the gopis
@@ -140,10 +126,7 @@ own special contribution to Gauranga's pastimes — received from the Lord a pro
 
 The four months passed.
 
-“Thus the four months of the rainy season came to an end, and with Venkata Bhatta's consent Sri Chaitanya continued His
-journey through South India, visiting the temple of Sri Ranganatha before leaving. Venkata Bhatta followed the Lord a
-long way, unwilling to return home. Sri Chaitanya had to make great efforts to convince him that the time had come to
-part.” (CC, Madhya 9.164–165)
+“When the Chaturmasya was over, the Lord took the Bhatta's leave, saw Sri Ranga and went on to the south. The Bhatta went along with Him and would not go home; only with great effort did the Lord send him back.” (CC, Madhya 9.164–165)
 
 The three brothers and the boy Gopala fainted in separation; the house of the Bhattas drowned in tears. Gopala fell
 senseless at the Lord's feet, and the Lord, embracing him, said: “Your desire will be fulfilled: you will come to
@@ -303,8 +286,7 @@ sons — Harinatha, Mathuranatha and Harirama. Today the service of Radha-ramana
 When the Deity Gopala (Shrinathji) stayed for a month in Mathura with Vitthalanatha (Vitthaleshvara), Rupa came there
 with his closest companions to see and serve Him, and in that list of companions Gopala Bhatta is named first:
 
-“He was accompanied by Gopala Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa
-Gosvami.” (CC, Madhya 18.49) <!-- F79 Q28 -->
+“With him were Gopala Bhatta, Raghunatha Dasa, Raghunatha Bhatta Gosani and Lokanatha…” (CC, Madhya 18.49) <!-- F79 Q28 -->
 
 The other Gosvamis remembered him with love. Jiva, at the beginning of the “Shat-sandarbha”, calls him “Bhatta-pada,
 the friend of Rupa and Sanatana, born in a family of southern brahmanas”, and in the introduction to the
@@ -460,7 +442,7 @@ side. Seeing him, the Lord, His heart melting with compassion, placed His lotus 
 The “Chaitanya-charitamrita”, too, names the Lord's host as Trimalla in one place and Venkata in another, without
 stating their relationship or naming Gopala:
 
-“During the rainy season the Lord spent four months as the guest of the brahmana Trimalla Bhatta.” (CC, Madhya 1.108)
+“The Lord lived in the house of Trimalla Bhatta and stayed there for the four months of the rains.” (CC, Madhya 1.108)
 
 This rather shows that the house was one and the brothers lived together: the Kaviraja recalled one brother in one
 place and the other in another (CC, Madhya 1.108–110; 9.82–165). The “Prema-vilasa” of Nityananda Dasa mentions Gopala
@@ -498,8 +480,7 @@ Bhatta, an eternal associate of the Lord, and to call him a mayavadi is an offen
 Some recent writers claim that Gopala Bhatta's ancestral village was “Bhattamari” in the South. But in the
 “Chaitanya-charitamrita” the bhattathari (their “bhattamari”) are a gang of false ascetics, not a place:
 
-“Then He came to Amlitala, where He saw the Deity of Sri Rama, and then went on to Mallara-desha, where the nomadic
-bhattathari lived.” (CC, Madhya 9.224; cf. 1.112; 9.226–233) <!-- F103 Q41 -->
+“Having seen Sri Rama at Amlitala, Gaurahari came to the Mallara country, where the Bhattatharis live.” (CC, Madhya 9.224; cf. 1.112; 9.226–233) <!-- F103 Q41 -->
 
 Narahari warns:
 
@@ -564,6 +545,12 @@ friendship with Sri Rupa, whose only life is Radha-ramana, who grants their desi
 Bhaktivinoda Thakura writes that on Gopala Bhatta lay the care that no one should distort the pure shringara-rasa or
 show groundless disregard for vaidhi-bhakti (“Jaiva-dharma”, ch. 39); together with Rupa and others he restored the lost
 holy places of Vrindavana and composed many books, among them a bhakti-smriti (“Sajjana-toshani”, 2.7). <!-- F91 Q34 -->
+
+In Narahari Chakravarti's “Namamrita-samudra,” a book of prayers to the Lord's associates, a verse is addressed to him
+together with Raghunatha Dasa:
+
+“Sri Gopala Bhatta, O Raghunatha Dasa! With a straw between my teeth I pray: make me your own.” (“Namamrita-samudra” 30)
+<!-- F110 -->
 
 ## Ananga-manjari
 Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who Gopala Bhatta was in Krishna's pastimes:

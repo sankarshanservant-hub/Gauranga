@@ -8,14 +8,11 @@ Gaudiya sampradaya can be compared only with what Rupa and Raghunatha Dasa left 
 
 Krishnadasa Kaviraja Gosvami says in a few words how each of three great associates served the Lord:
 
-“Through Haridasa Thakura He revealed the glory of Krishna's holy names. And through Sanatana Gosvami He disclosed the
-essence of sacred devotion to God. Through Sri Rupa Gosvami He revealed the taste of transcendental loving relations
-with Krishna in Vrindavana.” (CC, Antya 5.86–87)
+“Through Haridasa He revealed the glory of the holy name; through Sanatana, the conclusions of bhakti in all their splendour. Through Sri Rupa He revealed Vraja's pastimes of rasa and prema.” (CC, Antya 5.86–87)
 
 And of himself he says:
 
-“By the mercy of Sanatana Gosvami I learned the truths of bhakti. And by the mercy of Sri Rupa Gosvami I tasted the
-nectar of loving relations with Sri Krishna.” (CC, Adi 5.203)
+“By Sanatana’s mercy I came to know the conclusions of bhakti; by Sri Rupa’s mercy I came near to bhakti-rasa” (CC, Adi 5.203)
 
 That is why Sanatana is called the bhakti-siddhantacharya — the teacher of the conclusions (siddhanta) of bhakti, that
 is, of sambandha-jnana: the knowledge of how God, the living being and the world are related to one another.
@@ -167,8 +164,7 @@ Even in service Sanatana went on studying the “Bhagavatam” and other books a
 of Sri Krishna Chaitanya. From time to time he wrote humble letters to Mahaprabhu, and once the Lord answered him with a
 verse:
 
-“A married woman attracted to another man only appears to be diligent in her household duties, while in her heart she
-anticipates the sweetness of a new meeting with her beloved.” (CC, Madhya 1.211)
+“‘A woman attached to a man other than her husband may seem busy with her household duties, but within she relishes only the nectar of new meetings with him.’” (CC, Madhya 1.211)
 
 The meaning of the verse, one biography explains, is this: just as such a woman, however busy with household work,
 always tastes in her heart the joy of meeting as she remembers her beloved, so a devotee on the path of raga, while
@@ -222,9 +218,7 @@ servants of meat-eaters, and no one but You can save us. <!-- F53 F55 Q10 -->
 
 The Lord answered them (CC, Madhya 1.207–215):
 
-“‘Listen, Dabir Khas. You and your brother are both My servants from long ago. From now on your names are Rupa and
-Sanatana. Give up your humility now, for it breaks My heart. <…> You are both My servants birth after birth. Very soon
-Sri Krishna will certainly set you free.’” (CC, Madhya 1.207–208, 215)
+“‘Listen, Dabir Khas: you two brothers are My servants of old. From today your names are Rupa and Sanatana. Give up this humility — your humility breaks My heart. <…> Birth after birth you two are My servants. Very soon Krishna will deliver you.’” (CC, Madhya 1.207–208, 215)
 
 From their letters He knew their hearts and had more than once sent them, for their instruction, the verse about the
 woman drawn to her beloved; He had no business in Gauda — He had come to see the two of them, though no one knows why He
@@ -257,10 +251,7 @@ Vrindavana in this way. The Shah trusts You, he said, but he is a Muslim and can
 done, and one does not go to Vrindavana as a pilgrim leading hundreds of thousands of people (CC, Madhya 1.222–224).
 Mahaprabhu acknowledged the advice as sound. Later He Himself recalled it:
 
-“But as he was leaving, Sanatana said one mysterious phrase to Me: ‘One who is setting out for Vrindavana should not
-lead a crowd of many thousands behind him.’ At first I paid no attention to these words, and in the morning I set out
-for Kanai-natashala. But late at night I pondered Sanatana's words, which he had cast in the form of a profound aphorism.
-He spoke rightly: when countless people follow Me, ordinary people may easily take Me for an impostor.” (CC, Madhya
+“Sanatana spoke a riddle as I was leaving: ‘When hundreds of thousands, even millions of people go along with one, that is not the way to go to Vrindavana.’ Yet I only heard it and paid it no heed. In the morning I set out and came to the village of Kanaira Natashala. That night I pondered in My mind the riddle that Sanatana had told Me. He spoke well. So many people are with Me that whoever sees it will say, ‘This is just a show!’” (CC, Madhya
 16.265–269)[^16] <!-- F60 F61 Q12 -->
 
 Murari Gupta in his “Karcha” tells of the meeting at Ramakeli in his own way:
@@ -340,7 +331,7 @@ become a dervish and go to Mecca.”[^22] <!-- F86 F87 F88 -->
 
 Krishnadasa Kaviraja gives these words thus:
 
-“You need not be afraid, for I will not remain here. I will become a dervish, an ascetic, and go to Mecca.”
+“‘There is nothing to fear: I shall not stay in this land. I shall become a dervish and go to Mecca.’”
 (CC, Madhya 20.13)
 
 For Sanatana the dervish's guise and the words about Mecca were only a means of concealing himself and getting out of
@@ -409,11 +400,7 @@ stammering with emotion, kept saying in his humility: “Do not touch me, Lord, 
 amazement as both wept with love. The Lord lovingly seated Sanatana beside Him and with His own hands began to wipe the
 dust of the road from him, and to his humble words He replied:
 
-“‘Touching you purifies Me Myself, for by the power of your bhakti you can purify the whole universe. <…> One who sees
-you, touches you and glorifies you uses his senses for their true purpose. Such is the verdict of the scriptures. <…>
-Sri Krishna is inexpressibly merciful. He is the Saviour of all fallen souls. He has rescued you from the pit of worldly
-life, which is like the hellish worlds. He is an ocean of compassion, and His deeds are deep, inconceivable and
-boundless.’” (CC, Madhya 20.56, 60, 62–63)[^30] <!-- F105 F106 Q17 -->
+“‘I touch you to purify Myself, for by the power of your devotion you can purify the entire universe. <…> To see you, to touch you and to sing your qualities is the fruit of all the senses; such is the verdict of the scriptures. <…> Krishna is most merciful; He is the purifier of the fallen. He has delivered you from the hell called Maha-raurava. Krishna is an ocean of mercy, deep and boundless.’” (CC, Madhya 20.56, 60, 62–63)[^30] <!-- F105 F106 Q17 -->
 
 Sanatana is an eternal associate of the Lord, and the words about rescue from hell are addressed to the world: worldly
 honour, measured by wealth and sense objects, is in truth a misfortune and leads to hell; rare is the householder who
@@ -433,8 +420,7 @@ while Vaishnava sannyasis shave once a month, at the full moon: frequent shaving
 
 The Lord rejoiced in Sanatana's renunciation, for, as Krishnadasa Kaviraja says,
 
-“Mahaprabhu's devotees have many different virtues. But the chief quality that so greatly pleases Sri Chaitanya is their
-detachment from everything worldly.” (CC, Antya 6.220)[^32]
+“Among Mahaprabhu's devotees renunciation comes first, and seeing it Gaura Bhagavan is pleased.” (CC, Antya 6.220)[^32]
 
 When the desire to serve the Lord is genuine, a person is indifferent to fine clothes and food; the exception is the gifts
 of Vaishnavas and their remnants, which hold no poison of sense objects. Every act of Sanatana's here is a lesson to the
@@ -450,11 +436,7 @@ exchange. “You are a sensible man — why exchange a costly blanket for my tor
 truth, I am not joking,” Sanatana replied, made the exchange and came to the Lord in the kantha, and when asked where the
 blanket was, told the whole story.[^33] The Lord said:
 
-“‘I have been thinking about this. Lord Sri Krishna is boundlessly merciful, and therefore He has destroyed all your
-worldly attachments. Why then would He leave in you anything worldly to which you might be even slightly attached? Having
-cured a patient, a good physician will not allow even the slightest trace of the disease to remain in his body. This
-blanket, worth three gold coins, is not compatible with the life of an ascetic living on alms. For an ascetic to wear it
-violates the laws of dharma and gives occasion for ridicule.’” (CC, Madhya 20.90–92)[^34] <!-- F114 F115 F116 Q18 -->
+“‘I have thought about this. Krishna has destroyed your disease of worldliness — why would He leave you this last bit of worldly enjoyment? Once a good physician has cured a disease, he leaves no trace of it behind. To wear a blanket worth three gold coins while living on *madhukari* is a breach of religious principle, and people laugh at it.’” (CC, Madhya 20.90–92)[^34] <!-- F114 F115 F116 Q18 -->
 
 If conduct and preaching do not agree, one's own dharma perishes and one becomes a laughing-stock; whomever Krishna
 favours without guile, He frees from the disease of worldliness completely, to the last trace. The Lord, though Bhagavan
@@ -493,12 +475,7 @@ and false renunciation; the story of Narada and the hunter and the sixty-one exp
 
 With grass between his teeth, clasping the Lord's feet, Sanatana asked:
 
-“‘I am of low birth, unworthy and fallen. Having fallen into the well of sinful materialistic enjoyments, all my life I
-have been surrounded only by base people. I do not understand at all what is good for me and what is not. Yet ordinary
-people consider me a pandita, a knower of the scriptures, and even I have come to think so of myself. Since You have
-saved me by Your causeless mercy, kindly explain to me what my duty is now. Who am I? Why am I subject to the threefold
-miseries? I cannot understand this. How am I to attain the good? I know nothing of the goal of life or the means of
-attaining it. Be merciful and explain all these truths to me.’” (CC, Madhya 20.99–103) <!-- F125 -->
+“‘I am low-born, I keep low company, I am fallen and wretched. Fallen into the well of sinful worldliness, I have wasted my life. I know nothing of what is good or harmful for me. I am learned only in worldly dealings, and I take that for the truth. Since You in Your mercy have delivered me, tell me, by that same mercy, what my duty is. Who am I? Why do the threefold miseries burn me? I do not know this, nor how I may attain my true good. I do not even know how to ask about the truth of the goal (*sadhya*) and the means (*sadhana*). Be merciful and explain all these truths Yourself.’” (CC, Madhya 20.99–103) <!-- F125 -->
 
 The Lord answered: Krishna's full mercy is in you, you know all the truths, and the threefold miseries no longer exist for
 you; but a saint, though knowing everything, asks again in order to become firm in knowledge, and you are worthy to spread
@@ -510,9 +487,7 @@ of the mind; while one who knows himself to be the soul seeks the good of the so
 favourable to it. <!-- F126 F127 I19 -->
 
 ### “Who Am I?”
-“Being a manifestation of Sri Krishna's marginal energy, the living being is simultaneously one with the Lord and
-different from Him. Therefore his purpose is eternal loving service to Sri Krishna. The eternal relationship of the soul
-and God can be understood by the example of a ray and the sun, or of a spark and a bright flame.” (CC, Madhya
+“The true nature (*svarupa*) of the jiva is to be Krishna's eternal servant. The jiva is Krishna's marginal potency (*tatastha-shakti*), a manifestation that is both different and not different from Him (*bhedabheda-prakasha*). The jiva is like a ray of the sun or a spark of fire.” (CC, Madhya
 20.108–109)
 
 The “I” is neither the gross body nor the subtle body (mind, intelligence and false ego): the true “I” is the eternal
@@ -533,10 +508,7 @@ distorted memory are born in it. Seeing this, boundlessly merciful Krishna revea
 shastras, and Himself — in the form of the shastras, of gurus and sadhus who disclose their meaning, and as the Paramatma
 within — gives the jiva knowledge of its true nature. <!-- F132 F133 F134 -->
 
-“The Vedic scriptures speak of three truths: sambandha, abhidheya (the path) and prayojana (the highest goal). Sambandha
-means the eternal relationship of the soul and Krishna. The path to the highest goal is known as bhakti, loving service to
-God. Therefore bhakti and abhidheya are in essence one and the same. And the highest goal is prema (love of God), which is
-the supreme good and wealth of every soul.” (CC, Madhya 20.124–125) <!-- F135 -->
+“The Vedic scriptures speak of *sambandha*, *abhidheya* and *prayojana*. Krishna, the one to be attained, is the *sambandha*; devotion (bhakti) is the means of attaining Him. Bhakti is called the *abhidheya*, and prema is the *prayojana*. Prema, the crown jewel of all human goals, is the greatest treasure.” (CC, Madhya 20.124–125) <!-- F135 -->
 
 The shrutis speak both of the oneness and of the difference of the jiva and God, and acharyas have explained this in
 different ways — as advaita-, dvaita-, vishishta-advaita-, shuddha-advaita-, dvaita-advaita-vada and so on. But in
@@ -582,11 +554,10 @@ greatest jivas: of bhakti into Narada, of the power to sustain the world into Pr
 Chatuhsana; those pervaded by Bhagavan Himself (Kapila, Rishabha) think, “I am Bhagavan,” while those pervaded by His
 shakti (Brahma, Narada, Vyasa) think, “I am Bhagavan's servant.” <!-- F147 -->
 
-“When the one Supreme Lord expands Himself into forms between which there is no difference at all, this is called
-‘prakasha.’ So did Krishna in order to marry sixteen thousand princesses in Dvaraka, or when He enjoyed the rasa dance.”
+“When one Person appears in many forms, alike in appearance and one in identity — as at the marriage of the queens or in the rasa dance — this is called Krishna’s chief *prakasha*”
 (CC, Adi 1.69–70)
 
-“But the many forms of God between which there are some differences are known as ‘vilasa’ (sportive).” (CC, Adi 1.76)
+“But when one and the same Person appears in many forms that differ in appearance, that is called *vilasa*” (CC, Adi 1.76)
 
 A prakasha is equal to the original in every respect; a vilasa is equal in power but different in form, colour and name,
 like Balarama in Vraja and Narayana in Vaikuntha; a svamsha is of lesser power, like Matsya or Kurma. Prabhava means
@@ -638,8 +609,7 @@ who dwells in Shivaloka within Vaikuntha, is not a guna-avatara: he is beyond th
 Krishna's svayam-rupa, the whole (amshi) of which the guna-avatara Shiva is a part; therefore he is higher than Brahma and not different from
 Vishnu. The Lord said: <!-- F158 F159 F160 F161 F162 Q24 -->
 
-“Brahma and Shiva are only executors of the Lord's will in the form of His devoted servants (bhaktas), while Vishnu
-Himself, as Krishna's personal manifestation, is the Maintainer of the whole creation.” (CC, Madhya 20.317) <!-- Q25 -->
+“Brahma and Shiva are *bhakta-avataras* who carry out His orders, while Vishnu, who maintains the world, is Krishna's own form (*svarupa*).” (CC, Madhya 20.317) <!-- Q25 -->
 
 The yuga-avataras come white in the Satya-yuga, red in the Treta, dark in the Dvapara, and in the Kali-yuga yellow, as the
 preacher of prema for the Name: in Kali Krishna Himself, the source of avataras, descends and spreads the dharma of this
@@ -846,11 +816,7 @@ transcendental devotees are entitled to relish it. <!-- F228 F229 F230 -->
 Dashashvamedha ghat, I invested your brother Rupa with power and told him of krishna-rasa.” And He gave Sanatana four
 commissions:
 
-“My dear Sanatana! I ask you too constantly to spread and preach the sacred scriptures devoted to the science of devotion
-to God, and also to revive throughout Mathura the forgotten places of pilgrimage connected with Krishna's pastimes. I
-entrust you with laying the foundation of how Sri Sri Radha-Krishna should properly be served in Vraja and how all
-Vaishnavas should conduct themselves. Establish this science of bhakti in your works and preach this teaching from
-Vrindavana.” (CC, Madhya 23.97–98)
+“‘You too must spread the scriptures of devotion and recover the lost holy places of Mathura. Compose a scripture of devotional law (*bhakti-smriti*) on service to Krishna in Vrindavana and on the conduct of Vaishnavas, and spread it.’” (CC, Madhya 23.97–98)
 
 To establish in the world the siddhanta of pure bhakti; to restore the lost tirthas of Mathura-mandala and determine their
 locations; to manifest the Deity of Krishna in Vrindavana and show how He is to be served; to compile a Vaishnava smriti
@@ -863,23 +829,14 @@ transient and illusory even what is used in Krishna's service — is always to b
 further and heard the true meaning of the accounts of the mushala-lila, Krishna's departure, His appearance “from a hair”
 of Vishnu and the abduction of the queens, as well as the most confidential conclusions of the “Bhagavata”:
 
-“Such descriptions as the destruction of the Yadu dynasty, Krishna's departure, the abduction of the queens or the
-appearance of Krishna and Balarama from hairs of Vishnu are products of illusion and wholly contradict all the conclusions
-of the science of devotion to Krishna. Then Sri Chaitanya explained to Sanatana Gosvami how all these stories are rightly
-to be understood.” (CC, Madhya 23.111)
+“The pastime of the clubs (*maushala-lila*), Krishna's disappearance, the ‘hair-*avatara*’ (*keshavatara*) and other contrary explanations, the abduction of the queens and so on — all these are illusory (*maya-maya*). The Lord taught how to explain them so that they accord with the right conclusion (*siddhanta*).” (CC, Madhya 23.111)
 
 These accounts do not describe the eternal transcendental lila: they are given to bewilder people of demoniac nature who
 are hostile to Vishnu. <!-- F233 F234 F235 -->
 
 Then Sanatana, holding a straw between his teeth, said with great humility:
 
-“‘O my Lord! I am the lowest of men. I constantly served unworthy people and so lost all my former merits. And yet You
-have revealed to me knowledge so confidential that even the creator Brahma cannot grasp it. You have told me the highest
-truths, which lead to the boundless ocean of the nectar of immortality. But my mind cannot touch even one drop of this
-ambrosia of eternal life. If You wish me, a cripple, to begin to dance, then bless me and place Your lotus feet on my
-head. Please say, “May all that I have told you be revealed to you.” By blessing me so, You will give me the strength to
-set out this knowledge in my books.’ Then Sri Chaitanya Mahaprabhu touched Sanatana Gosvami's head with His hand and
-blessed him: ‘May all this be revealed to you!’” (CC, Madhya 23.114–118) <!-- F236 F237 -->
+“‘I am low-born, a servant of the low, utterly wretched — yet You have taught me truths beyond the reach even of Brahma. What You have spoken is an ocean of the nectar of conclusions; my mind cannot touch even a single drop of it. If it is Your wish to make a lame man dance, then place Your feet on my head and give me Your blessing. Bless me thus: “May all that I teach you manifest in you.” This blessing of Yours will be my strength.’ Then Mahaprabhu placed His hand on Sanatana's head and gave him the blessing: ‘May all this manifest in you.’” (CC, Madhya 23.114–118) <!-- F236 F237 -->
 
 At Sanatana's request the Lord gave sixty-one explanations of a verse of the “Bhagavata”:
 
@@ -915,16 +872,13 @@ At that same time the Lord delivered the Mayavadi sannyasis of Kashi headed by P
 unprecedented bhakti-siddhanta of the Brahma-sampradaya, explaining especially that the “Bhagavata” is the genuine,
 natural commentary on the “Brahma-sutra”; from that day the sannyasis of Kashi became devotees of Mahaprabhu.
 
-“All the inhabitants of Varanasi began to sing Krishna's holy name. Feeling a surge of love for Him, they all laughed,
-wept, sang and danced. From then on the sannyasi theologians took up the study of the ‘Srimad Bhagavatam.’ Thus Sri
-Chaitanya Mahaprabhu delivered all the inhabitants of Varanasi.” (CC, Madhya 25.158–159) <!-- F244 Q28 -->
+“All the residents of Kashi took up the sankirtana of the Name; in love they laughed, wept, sang and danced. The sannyasis and panditas began to study the *Bhagavatam*. Thus the Lord delivered the city of Varanasi.” (CC, Madhya 25.158–159) <!-- F244 Q28 -->
 
 Then the Lord took leave of the devotees one by one and decided to go alone to Nilachala through Jharikhanda, while He
 told Sanatana to go to Vrindavana, to Rupa and Anupama.[^35] With great compassion He charged him with caring for the
 devotees who would come to Vrindavana:
 
-“All My devotees who come to Vrindavana are, as a rule, very poor. Please, Sanatana, take care of them all, for sometimes
-they have only a torn wrap and a water-pot.” (CC, Madhya 25.176) <!-- F245 F246 Q29 -->
+“‘My penniless devotees, who own only a patched quilt and a water pot — when they come to Vrindavana, take care of them.’” (CC, Madhya 25.176) <!-- F245 F246 Q29 -->
 
 ## First Time in Vraja
 Sanatana went to Vrindavana by the high royal road, while Rupa and Anupama, after spending a month in Vrindavana, set
@@ -932,19 +886,19 @@ out to look for him by the road along the Ganga and came to Prayaga. Two brother
 they missed each other: in Prayaga Rupa learned that Sanatana had already gone on to Mathura.[^36] This is told in detail
 in the article on Rupa Gosvami. <!-- F247 -->
 
-At the Lord's bidding Subuddhi Raya, who had formerly served Hussain Shah, had also come to Vrindavana. He was atoning for
-his past sins by chanting Krishna's names, barely feeding himself by selling dry firewood, and helped the Vaishnavas who
-came from Bengal. He had known Sanatana as a minister and loved him dearly, and at their meeting he showed him the
-courtesy and affection of their former worldly relations, wishing to serve him; but Sanatana remained indifferent to
-this and out of humility would not accept his service. From Subuddhi Sanatana learned that he had missed his brothers,
-and when he went round the twelve forests of Vraja with him and with a Sanoriya brahmana, he heard from them that Rupa and
-Anupama had made this circuit shortly before and gone off along the Ganga to Bengal. <!-- F248 F249 -->
+At the Lord's bidding Subuddhi Raya, in whose service in Gauda Hussain, the future Shah, had once been (CC, Madhya 25.180),
+had also come to Vrindavana. Instead of the smartas' prayashchitta the Lord had given him the holy name — not a rite for
+cancelling sins but the goal itself (CC, Madhya 25.190–193) — and Subuddhi lived by chanting Krishna's name, barely
+feeding himself by selling dry firewood and helping the Vaishnavas who came from Bengal. He had known Sanatana as a
+minister and loved him dearly, and at their meeting he showed him the courtesy and affection of their former worldly
+relations, wishing to serve him; but Sanatana remained indifferent to this and out of humility would not accept his
+service. From Subuddhi Sanatana learned that he had missed his brothers. According to one of the biographies, Sanatana
+then went round the twelve forests of Vraja with him and with a Sanodiya brahmana and heard from them that Rupa and
+Anupama had made this circuit shortly before and gone off along the Ganga to Bengal.[^37] <!-- F248 F249 -->
 
 A great renunciant, Sanatana searched for Krishna day and night in the forests of Vrindavana:
 
-“Sanatana Gosvami was immeasurably detached from the transient world. He constantly wandered through the forests of
-Vraja, spending days and nights in various groves. He collected books on the glory of Mathura and uncovered the hidden
-places of the divine pastimes as he wandered through the forests of Vraja.” (CC, Madhya 25.207–208) <!-- F250 Q30 -->
+“Supremely renounced, Sanatana wandered from forest to forest, staying night and day now under one tree, now in another grove. He collected the scriptures on the glories of Mathura and, wandering through the forests, brought the lost holy places to light.” (CC, Madhya 25.207–208) <!-- F250 Q30 -->
 
 Shortly before, on His own circuit of Vraja, Mahaprabhu had discovered Radha-kunda and Shyama-kunda near the village of
 Arit and had seen Harideva at Govardhana. He also wished to see Madhavendra Puri's Giridhari Gopala, whose temple stands on
@@ -958,7 +912,7 @@ under one pretext or another gave them darshana at the foot of the hill, as He h
 Meanwhile, in Kashi, Rupa and Anupama heard from the Maharashtrian brahmana, from Chandrashekhara and from Tapana Mishra
 about the Lord's instructions to Sanatana and about the deliverance of the Mayavadi sannyasis, and they rejoiced greatly.
 After spending half a month in Kashi, Rupa went through Gauda to the Lord in Nilachala and stayed there until the
-Dola-yatra.[^37] Then the Lord invested him with power, told him to go to Vrindavana and to send Sanatana to Nilachala.
+Dola-yatra.[^38] Then the Lord invested him with power, told him to go to Vrindavana and to send Sanatana to Nilachala.
 <!-- F253 F254 F255 -->
 
 ## The Road to Puri
@@ -966,40 +920,32 @@ Rupa was delayed in Bengal, missed the devotees' annual journey to Puri and arri
 when the Lord asked about him and about Sanatana, he told how the brothers had missed each other. When Rupa returned from
 Nilachala to Gauda, Sanatana set out alone from Vrindavana for Puri by the forest road through Jharikhanda: some days he
 fasted, on others he chewed a little dry madhukari; he endured many hardships, and in his heart lived deep despondency
-(nirveda) and humility.[^38] <!-- F256 F257 -->
+(nirveda) and humility.[^39] <!-- F256 F257 -->
 
 From the bad water of Jharikhanda and long fasting, what looked like an itching rash broke out all over Sanatana's body;
-when he scratched the itching places, fluid oozed from them.[^39] Sanatana displayed this illness in his transcendental
+when he scratched the itching places, fluid oozed from them.[^40] Sanatana displayed this illness in his transcendental
 body for the instruction of the people: its cause was not karma but lila, by which he taught jivas sick with the disease
 of worldly existence and bound by karma to condemn themselves and feel nirveda. Some look in illness for an excuse and a
 pretext to rest from serving Hari, but Sanatana only grew humbler. On the way he reflected: <!-- F258 F259 I23 -->
 
-“‘I come from a low caste, and besides, my body has now become unfit for progress on the path of devotion to God. When I
-reach Jagannatha Puri, I shall not be able to enter the temple of Lord Jagannatha. And I shall not be able to see Sri
-Chaitanya constantly either. I have heard that Sri Chaitanya lives near the temple of Lord Jagannatha. But I shall not be
-able even to come near that temple. Lord Jagannatha's servants are always going about their business there. If they touch
-me even by accident, I shall offend them. Therefore, if I sacrifice this body in a fitting place, it will bring me relief
-and then lead me to the spiritual abode. During the Ratha-yatra Sri Jagannatha will be visible to all people. And at that
-time I shall give up this body under the wheel of His chariot. I shall give up my body before the eyes of Mahaprabhu and
-Sri Jagannatha, under the wheel of the Lord's chariot. Thus I shall attain the highest destination.’” (CC, Antya 4.6–12)
+“‘I am of low birth, and my body is utterly worthless. If I go to Jagannatha, I shall not obtain His darshana, nor shall I be able to see the Lord at all times. I hear that His residence is near the temple, but I have no power to go near the temple. The servants of Jagannatha move about there on their duties; if I touch them, I shall be guilty of an offence. So if I give this body up in a good place, my sorrow will be eased and I shall attain a good destination. At the Ratha-yatra Jagannatha will come out; under the wheel of His chariot I shall give up this body. Before Mahaprabhu's eyes, beholding Jagannatha, I shall give up my body at the chariot: this is the highest goal of life.’” (CC, Antya 4.6–12)
 <!-- F260 Q31 -->
 
 With this resolve Sanatana came to Nilachala, found Haridasa Thakura's dwelling and bowed at his feet; and when he began
-to long for the Lord's feet, Haridasa told him that the Lord would soon come.[^40] <!-- F261 -->
+to long for the Lord's feet, Haridasa told him that the Lord would soon come.[^41] <!-- F261 -->
 
 ## “Your Body Is My Own Property”
 Having seen Jagannatha's upala-bhoga, the Lord came with His devotees to Haridasa. Seeing Sanatana, He was surprised and
 delighted and went to embrace him, but Sanatana drew back:
 
-“‘Lord, I beg at Your feet — do not touch me. I am a fallen man, born in the lowest caste. Besides, my whole body is
-covered with festering sores.’” (CC, Antya 4.20) <!-- F262 Q32 -->
+“‘Do not touch me, O Lord, I fall at Your feet! I am low-born and fallen, and besides, my body is covered with oozing sores.’” (CC, Antya 4.20) <!-- F262 Q32 -->
 
 But the Lord embraced “His dear great devotee” by force — so tightly that the discharge from the sores soiled His body,
 and Sanatana's heart broke. Then the Lord introduced him to all the devotees, among them Svarupa Damodara, and sat with
 them on a raised place, while Sanatana in his humility sat lower down. The Lord asked him about the devotees of Vraja and
 told him of Rupa's visit and that Rupa had gone to Gauda, while Anupama had “attained the Ganga” — had left his body.
 Sanatana humbly glorified the Lord's causeless mercy and told of his younger brother's faithfulness to Sri Rama — from
-childhood to the end of his life.[^41] The Lord told Sanatana to live with Haridasa Thakura and sent maha-prasada to them
+childhood to the end of his life.[^42] The Lord told Sanatana to live with Haridasa Thakura and sent maha-prasada to them
 both through Govinda. <!-- F263 F264 F265 F266 F267 -->
 
 In his great humility Sanatana did not enter the temple of Jagannatha but bowed only to the chakra, the disc on its top.
@@ -1007,15 +953,9 @@ Like Haridasa, and like Rupa before him, he lived at Siddha-bakula and did not g
 every day after the upala-bhoga to Sanatana and Haridasa and held intimate talks about Krishna with them (CC, Madhya
 1.63–65). <!-- F268 F269 -->
 
-One day the omniscient Lord, coming to Haridasa's dwelling, spoke of Sanatana's former intention:[^42]
+One day the omniscient Lord, coming to Haridasa's dwelling, spoke of Sanatana's former intention:[^43]
 
-“‘My dear Sanatana, if I could attain Krishna by suicide, I would at once and without hesitation give up My life millions
-of times over. It is impossible to attain Krishna merely by giving up one's body. He can be attained only by selfless
-worship and devotion. There is simply no other way. Suicide and similar acts, performed under the influence of ignorance
-and passion, cannot give us understanding of Sri Krishna's transcendental nature. Without unconditional devotion love for
-Krishna will never awaken. And without such divine love it will be impossible to attain Krishna. <…> Of these nine kinds
-of bhakti, chanting Krishna's holy names is the highest form of worship of God. If the holy name of God is chanted without
-selfishness and free of all offences, anyone will be able to attain the treasure of love for Krishna.’” (CC, Antya
+“‘Sanatana, if Krishna could be attained by giving up the body, I would give up millions of bodies in a moment. One does not attain Krishna by giving up the body; one attains Him by worship. There is no means of attaining Krishna except bhakti. Giving up the body and all such acts are of the nature of darkness (*tamo-dharma*); through the ways of darkness and passion one cannot grasp the essence of Krishna. Without bhakti, love for Krishna never awakens; and without love, Krishna is not attained by any other means. <…> Of these the best of all is *nama-sankirtana*. One who chants the name without offence obtains the treasure of love.’” (CC, Antya
 4.55–58, 71)
 
 Through Sanatana the Lord taught the world: suicide is an act of tamas; Krishna is not attained by it, but only by pure
@@ -1023,17 +963,9 @@ bhakti, the best of whose nine forms is harinama-sankirtana. A body given for se
 concerns the Lord is not the outward purity of the body but the inner purity of the desire to serve. <!-- F270 Q33 I24 I25 -->
 
 Hearing the Lord, Sanatana was greatly astonished and, for the instruction of the jivas and in accordance with the Lord's
-design, displayed the pastime of giving up the vain desire to leave his body. He said: “You are omniscient and merciful,
-You are the independent Ishvara; as You make me dance, so I dance, like a wooden puppet. I am low, fallen, insignificant
-by nature — what use is it to You if I remain alive?” (CC, Antya 4.74–75). The Lord answered: <!-- F271 F272 Q34 -->
+design, displayed the pastime of giving up the vain desire to leave his body. He said: “You are all-knowing and merciful — the independent Lord. As You make me dance, so I dance, like a wooden puppet. I am low, fallen and wretched, wretched by nature. What will You gain by keeping me alive?” (CC, Antya 4.74–75). The Lord answered: <!-- F271 F272 Q34 -->
 
-“‘You belong to Me entirely. You have surrendered to Me completely and thereby lost the right to dispose of your body on
-your own. Where does this desire come from in you to destroy another's property? Have you forgotten how to tell right from
-wrong? I have many purposes, and your body is the chief instrument by which I shall accomplish them. <…> The holy abode of
-Mathura-Vrindavana is immeasurably near and dear to My heart. In that holy place I wish to preach all these truths and
-much more. But by My mother's command I now live in Jagannatha Puri. Therefore I cannot settle there to teach all people
-the religion of the Vaishnavas. But through you I can do all this to perfection. Yet you have decided to give up your
-body. How can I calmly accept that?’” (CC, Antya 4.76–78, 81–83) <!-- F273 F275 Q35 -->
+“‘Your body is My own property, for you have surrendered yourself to Me. Why do you wish to destroy another's property? Can you not discern right from wrong? Your body is My chief instrument (*sadhana*); through this body I shall accomplish many purposes… <…> My own dear abode is Mathura-Vrindavana; there I wish to propagate all these dharmas. By My mother's order I reside in Nilachala, and it is not within My own power to teach this dharma there. You wish to give up the very body through which I shall do all these works! How can I bear it?’” (CC, Antya 4.76–78, 81–83) <!-- F273 F275 Q35 -->
 
 And the Lord accomplished through Sanatana all that He had planned. He had him write the “Brihad-bhagavatamrita” and
 through it established the truths about the devotee, bhakti and krishna-prema; He had him compile the
@@ -1044,40 +976,29 @@ renunciation, Sanatana taught the life of renunciation that pure devotees should
 
 Sanatana glorified the Lord as the puppeteer and himself as His puppet:
 
-“A wooden puppet dances, carrying out the will of the puppeteer, without understanding at all how it manages to sing and
-dance. O my Lord, sometimes You make someone dance, and he dances, obeying Your sweet will. He does not understand how this
-happens or what the cause of his dancing is.” (CC, Antya 4.85–86) <!-- F276 Q36 -->
+“‘A conjurer makes a wooden puppet dance, and the puppet itself does not know how it dances and sings. So it is with anyone You make dance: he dances just as You move him, and does not know how he dances or who makes him dance.’” (CC, Antya 4.85–86) <!-- F276 Q36 -->
 
 The Lord entrusted Haridasa with the care of Sanatana's body. And when the Lord had gone, Haridasa began to glorify
 Sanatana's good fortune and in his natural humility said of himself:
 
-“But Sri Chaitanya did not accept my body as an instrument for carrying out His desires. Though I was born in India, there
-is no meaning in this birth of mine!” (CC, Antya 4.98) <!-- F277 F278 Q37 -->
+“‘But this body of mine has never served the Lord's work. I was born in the land of Bharata — and all in vain!’” (CC, Antya 4.98) <!-- F277 F278 Q37 -->
 
 Sanatana answered him:
 
-“‘O Haridasa Thakura, listen to me. Can anyone compare with you? You are the closest associate of Sri Chaitanya
-Mahaprabhu. Therefore there is no one more fortunate than you! Sri Chaitanya descended to earth to preach the glory of
-chanting the holy names of God. And He accomplishes this mission of His through you, O Haridasa Thakura. Every day you
-unceasingly chant three hundred thousand holy names of God and tell everyone of the glory and importance of chanting these
-all-auspicious holy names. There are those who always follow spiritual principles and injunctions but do not preach to
-others, and those who instruct others but do not follow it in their own lives. But you not only chant the holy names of
-God but also preach their glory and the importance of chanting them. You are the true teacher of the whole world and the
-greatest of God's saintly devotees.’” (CC, Antya 4.99–103) <!-- F279 Q38 -->
+“‘Who else is there like you? Among Mahaprabhu's associates you are the most fortunate! The Lord descended to spread the name, and He accomplishes this, His own work, through you. Every day you chant three hundred thousand names, and before everyone you tell the glory of the name. Some practise themselves but do not preach; others preach but do not practise. You do both works for the name — practice (*achara*) and preaching (*prachara*). You are the guru of all; you are the noblest in the world.’” (CC, Antya 4.99–103) <!-- F279 Q38 -->
 
 ## The Burning Sand
 The Ratha-yatra came, the devotees from Gauda arrived in Nilachala, and Sanatana was amazed at the Lord's wondrous dancing
 before the chariot. When the devotees from Gauda and from Orissa gathered for chaturmasya, the Lord introduced Sanatana to
 them all; and by his qualities — his learning and virtue — he won everyone's love:
 
-“Sanatana Gosvami became dear to all the Vaishnavas through his deep knowledge and lofty qualities. According to their
-position the Vaishnavas showed him mercy, befriended him or honoured him.” (CC, Antya 4.112)
+“By his virtues and learning Sanatana became dear to all, and received from each, as befitted each, mercy, friendship or respect.” (CC, Antya 4.112)
 
 When the devotees from Gauda returned home, Sanatana stayed at the Lord's feet and with Him saw the Dola-yatra and other
 festivals. <!-- F280 F281 F282 Q39 -->
 
 In the terrible heat of the month of jyaishtha the Lord tested Sanatana. One day at noon He came to the garden by the
-temple of Yameshvara Shiva (Yameshvara-tota), took His meal there at the devotees' request and called Sanatana to it.[^43]
+temple of Yameshvara Shiva (Yameshvara-tota), took His meal there at the devotees' request and called Sanatana to it.[^44]
 At midday the sand by the sea was as hot as fire; but feeling only one thing — “Mahaprabhu has called me” — Sanatana
 joyfully walked barefoot across the burning sand of the shore, not by the main road from the Simha-dvara. The soles of his
 feet were scorched and blisters rose, but he noticed nothing, absorbed in the thought of how to please the Lord. When he
@@ -1090,12 +1011,7 @@ walk!” “It did not hurt much,” Sanatana replied, “I did not even notice 
 by the Simha-dvara: Jagannatha's servants go that way, and if I should touch them by accident, I would be ruined.” Hearing
 of such exemplary conduct, which gives honour to others, the Lord rejoiced greatly at heart: <!-- F286 F287 -->
 
-“‘O Sanatana! Though you are the saviour of the whole world and can purify even the gods and great sages by your touch,
-the nature of devotees is such that they always strive to observe all the rules and injunctions of the scriptures.
-Observing such etiquette is the true ornament of saintly Vaishnavas. Whereas one who transgresses the directions of
-the scriptures only becomes a laughing-stock. Moreover, he loses both happiness and good fortune, in this life and the
-next. You always follow all the spiritual injunctions, and by this you have greatly pleased Me. Who but you can set others
-an example of such proper saintly conduct?’” (CC, Antya 4.129–132) <!-- F288 Q40 -->
+“‘Although you purify the whole world, and even the gods and sages are purified by your touch, it is still a devotee's nature to guard propriety (*maryada*). Keeping propriety is the ornament of a sadhu. People mock whoever breaks propriety, and he loses both this world and the next. When you keep propriety, My mind is pleased. If you do not act this way, who will?’” (CC, Antya 4.129–132) <!-- F288 Q40 -->
 
 Greatly pleased, the Lord embraced Sanatana tightly — “His dear one, with a transcendental body”; the discharge from
 Sanatana's sores touched the Lord's body, and Sanatana, seeing this, suffered greatly and with humble entreaties tried
@@ -1122,26 +1038,16 @@ distance; the Lord called him again and again to embrace him, but he, fearing of
 Himself quickly went to him; Sanatana drew back, but the Lord seized him by force, brought him and embraced him tightly.
 And the helpless Sanatana spoke in humility: <!-- F292 -->
 
-“‘I came here to attain the good, but everything has turned out the other way. I am unfit for the service of God. Instead
-of serving, every day I commit nothing but offences. By nature I am low and sinful. O my Lord, when You touch me, by that
-very fact I offend You. Moreover, my blood oozes from festering sores and soils You, but You pay no attention to it and by
-force embrace me again and again. You feel no aversion in touching my repulsive body. And this offence of mine will ruin me
-completely. If I stay in Jagannatha Puri, I shall attain no good. Please allow me to return to Vrindavana after the
-Ratha-yatra. I spoke with Jagadananda Pandita, and he too advised me to return to Vrindavana.’” (CC, Antya 4.151–156)
+“‘I came for my welfare, but the opposite has happened. I am not fit for service; day after day I commit offences. I am low-born, wicked by nature, a “reservoir of sin”; when You touch me, I commit an offence. Moreover, fluid and blood flow from the sores on my body and smear Yours, yet still You touch me by force. You do not feel even a trace of disgust in touching what is loathsome. This offence will be my utter ruin. So if I stay here, no good will come to me. Give me leave: after seeing the chariot festival, let me go to Vrindavana. I asked Jagadananda Pandita for counsel, and he advised me to go to Vrindavana.’” (CC, Antya 4.151–156)
 <!-- F293 Q41 -->
 
 Then the Lord displayed a pastime of anger at Jagadananda:
 
-“‘Jagadananda is still a boy, yet he has become so proud that he considers himself entitled to advise even you and other
-senior Vaishnavas. In spiritual and worldly affairs you have always stood in the position of guru to him. Yet he tries to
-instruct you, quite failing to understand his own position. Everyone respectfully accepts your spiritual authority. And
-even to Me your advice is very important. How dare this boy try to instruct you?’” (CC, Antya 4.158–160) <!-- F294 Q42 -->
+“‘Jaga, a mere boy of yesterday, has become so proud that he has begun to advise even you? In worldly and in spiritual matters alike you are like a guru to him. He advises you — does he not know his own worth? You are My adviser, an authoritative and noble soul (*arya*). And this boy advises even you — such is his conduct!’” (CC, Antya 4.158–160) <!-- F294 Q42 -->
 
 Sanatana fell at the Lord's feet:
 
-“‘Lord! You constantly give Jagadananda the nectar of Your love to drink. But me, praising me before everyone, You give
-only the bitter juice of nim and nishinda. I am unfortunate because to this day You have not drawn me close to You. Truly,
-You are the independent Lord of the whole creation.’” (CC, Antya 4.163–164)[^44] <!-- F295 Q43 -->
+“‘You give Jagadananda the nectar of intimacy to drink, but me You make drink the bitter juice of *nimba* and *nishinda* — Your respectful praise. Even today You have not come to regard me as Your own. It is my misfortune; You are the independent Lord, Bhagavan!’” (CC, Antya 4.163–164)[^45] <!-- F295 Q43 -->
 
 When our gurus strictly punish or scold a devotee who serves them unceasingly and selflessly, we think he has fallen, and we
 consider ourselves, who receive no such punishments, faithful servants. But a servant truly dear to the guru judges as
@@ -1155,12 +1061,7 @@ rebuke: Jagadananda is not dearer to Him than Sanatana, but He cannot tolerate a
 acknowledged knower of the shastras, and the Lord praises him not from aloofness but for his virtues. And of Sanatana's
 body He said:
 
-“You consider your body something repulsive, but to Me it is like a vessel of ambrosia. Sanatana, listen! Your body only
-seems material; in reality it is wholly spiritual. Yet you go on regarding it as worldly. I could not neglect your body
-even if it were material. In the highest spiritual reality there are no worldly notions that divide everything into ‘good’
-and ‘bad.’ <…> Since I am a monk, a sannyasi, My duty is to make no distinctions and to regard everything equally. I
-perceive mud and fragrant sandalwood paste alike. Therefore I cannot reject you. For if I felt even a trace of aversion
-towards you, I would thereby break My vows.” (CC, Antya 4.172–174, 179–180) <!-- F296 Q44 -->
+“You regard your body as loathsome, but to Me your body is like nectar. Your body is transcendental (*aprakrita*); it is never material. Still, you think of it as material. Even if your body were material, I could not disregard it, for in what is transcendental there is no perception of things as good or bad. <…> I am a sannyasi; equal vision is My duty. Sandal paste and mud are the same to Me. For this reason it is not right for Me to reject you. If I were to feel disgust, I would fall from My own duty.” (CC, Antya 4.172–174, 179–180) <!-- F296 Q44 -->
 
 Everyone has his own position, explains Srila Bhaktisiddhanta Sarasvati: one who imagines himself higher breaks the
 etiquette owed to his seniors and instructs those to whom he should show respect; the Lord checked such breaches in juniors
@@ -1169,17 +1070,11 @@ like Jagadananda. By His rebuke of Jagadananda He taught everyone respect for se
 
 Haridasa Thakura objected:
 
-“‘Lord! All that You have just said is only an outward formality. And so I cannot fully agree with it. You are known in all
-the worlds as the One who is especially merciful to fallen souls. We are fallen, and only for that reason have You
-generously accepted us.’” (CC, Antya 4.181–182) <!-- F297 Q45 -->
+“‘Lord, what You have said is an outward pretext, and I do not accept it. In accepting all of us fallen souls, You have made known Your compassion for the lowly.’” (CC, Antya 4.181–182) <!-- F297 Q45 -->
 
 With a smile the Lord revealed the true feeling of His heart:
 
-“‘To Me you are like children in My care. And a guardian does not take seriously any childish pranks or faults. I do not
-consider Myself worthy to receive your respect, for I love you as My children. When a child soils itself, it may soil its
-mother, but she feels no aversion to it. On the contrary, every time she cares for her beloved little one, her happiness
-only grows. To a mother the child's urine and stool are like sandalwood paste. And in just the same way I feel no aversion
-when I touch Sanatana's sores.’” (CC, Antya 4.184–187) <!-- F298 Q46 -->
+“‘I think of you as those I cherish (*lalya*), and of Myself as the one who cherishes you (*lalaka*). The one who cherishes does not perceive faults in those he cherishes. I do not think of Myself as one whom you should honour, for I regard you all as My children. When a child's filth gets on its mother's body, no disgust arises in her; rather, she feels great happiness. To the one who cherishes, the filth of the cherished seems like sandal paste. So I feel no disgust at Sanatana's discharge.’” (CC, Antya 4.184–187) <!-- F298 Q46 -->
 
 “You are Ishvara,” said Haridasa; “mercy is Your nature, and Your deep heart is unfathomable to a tiny jiva: in Your mercy
 You embraced Vasudeva, covered with rotting leprosy, and his body became as beautiful as Kandarpa's.” Then the Lord said: a
@@ -1188,12 +1083,12 @@ surrenders to the guru's feet, Krishna accepts him as His own and makes him like
 nature of consciousness and bliss, and in it the Vaishnava serves Krishna's feet (CC, Antya 4.191–194). Krishna manifested
 the sores on Sanatana's body and sent him here to test Me; had I not embraced him out of squeamishness, I would have
 offended Krishna. Already on the first day I perceived from the body of Sanatana, an associate of Bhagavan absorbed in
-Krishna's service, the fragrance of transcendental sandalwood, camphor, musk and kunkuma.[^45] <!-- F299 F300 F301 -->
+Krishna's service, the fragrance of transcendental sandalwood, camphor, musk and kunkuma.[^46] <!-- F299 F300 F301 -->
 
 And the Lord called Sanatana again: “Do not grieve: embracing you, I am very happy. Stay with Me this year, and next year I
 shall send you to Vrindavana.” He embraced Sanatana once more — and all the sores vanished, and his body shone like gold
-(CC, Antya 4.199–201).[^46] In Puri the Lord also arranged Sanatana's meeting with Advaita and Nityananda, as He had Rupa's
-earlier, and asked Them to bless him.[^47] <!-- F302 F303 F304 -->
+(CC, Antya 4.199–201).[^47] In Puri the Lord also arranged Sanatana's meeting with Advaita and Nityananda, as He had Rupa's
+earlier, and asked Them to bless him.[^48] <!-- F302 F303 F304 -->
 
 ## Back to Vrindavana
 Sanatana lived in Nilachala together with Haridasa Thakura, and they talked unceasingly of the Lord's qualities and deeds.
@@ -1201,25 +1096,18 @@ After the Dola-yatra, having lived in Puri a whole year, Sanatana set out for Vr
 parting both the devotee and Bhagavan felt the sharp pain of separation. He went by the same forest road through
 Jharikhanda by which the Lord had once gone, and from the words of Balabhadra Bhattacharya, the Lord's companion on that
 journey, wrote down all the pastimes Mahaprabhu had displayed in the villages, by the rivers and hills along the
-way.[^48] Meeting the Lord's devotees and following the road marked by His feet, Sanatana was overwhelmed with prema at
+way.[^49] Meeting the Lord's devotees and following the road marked by His feet, Sanatana was overwhelmed with prema at
 the sight of the places of His pastimes; and so he came to Vrindavana. <!-- F305 F306 F307 F308 -->
 
 More than a year had passed since the brothers parted when Rupa too came from Gauda to Vrindavana. The brothers lived in
 Vraja and carried out the Lord's fourfold command:
 
-“Having met in Vrindavana, the two brothers began to live together, carrying out Sri Chaitanya's will. They collected a
-great many sacred scriptures and searched out all the forgotten holy places. At those places they built shrines and began
-the worship of Krishna there.” (CC, Antya 4.217–218) <!-- F309 Q47 -->
+“The two brothers met and lived together in Vrindavana, and they carried out all the Lord's orders. Gathering many scriptures, they recovered the lost holy places and manifested the service of Krishna in Vrindavana.” (CC, Antya 4.217–218) <!-- F309 Q47 -->
 
 ## Jagadananda in Vraja
 When Jagadananda Pandita wished to go to Vrindavana, the Lord gave him instructions:
 
-“‘In Mathura stay constantly in the company of Sanatana Gosvami and show due respect to the feet of all the senior
-Vaishnavas. Lovingly honour all these saintly devotees of Mathura, but do not associate closely with them. Nor should you
-try to imitate their conduct and worship. Visit all twelve forests of Vrindavana together with Sanatana Gosvami, never
-leaving his company for a moment. Do not stay long in Vrindavana, and return at once to Jagannatha Puri. Do not climb the
-sacred hill of Govardhana to see the Deity of Gopala. And tell Sanatana Gosvami that soon I shall come to Vrindavana again.
-Let him prepare a dwelling for Me.’” (CC, Antya 13.36–40) <!-- F310 F312 F313 -->
+“‘When you reach Mathura, stay with Sanatana, and honour the feet of all the lords of Mathura. Show them devotion, but from afar, and do not stay in their company: you could never accept their ways and conduct. Visit the forests with Sanatana, and do not leave his side for a moment. Come back quickly; do not stay there long. Do not climb Govardhana to see Gopala. Tell Sanatana, “I too am coming,” and let him prepare a place for Me in Vrindavana.’” (CC, Antya 13.36–40) <!-- F310 F312 F313 -->
 
 The residents of Vraja relate to Krishna in pure vatsalya, and a person with a mood of reverence, seeing this, may come to
 disrespect them, whereas there must be no disrespect towards the Vrajavasis. Therefore, the Lord explained, those who have
@@ -1229,7 +1117,7 @@ must not climb it. <!-- F311 -->
 
 Jagadananda went by way of Benares, where he saw Tapana Mishra and Chandrashekhara, and in Mathura he met Sanatana.
 Sanatana showed him the twelve forests, and after seeing Mahavana last, the two settled in Gokula, in Sanatana's
-cave.[^49] Sanatana lived on madhukari, while Jagadananda cooked for himself in a nearby temple. As Bhaktivinoda Thakura
+cave.[^50] Sanatana lived on madhukari, while Jagadananda cooked for himself in a nearby temple. As Bhaktivinoda Thakura
 explains (“Amrita-pravaha-bhashya”), Sanatana made do with a few flatbreads a day, while Jagadananda, unaccustomed to wheat,
 could not do without rice; in those days rice and dal were not regularly offered to the Deities in the temples of Vraja.
 What he cooked Jagadananda offered to Mahaprabhu and honoured this prasada together with Sanatana. <!-- F314 F315 F316 -->
@@ -1238,18 +1126,12 @@ One day Jagadananda invited Sanatana to a meal. Sanatana came and sat at his doo
 certain sannyasi had given him. Jagadananda, thinking it a gift from Mahaprabhu, was overwhelmed with prema and asked where
 the cloth came from. “It was given to me by a sannyasi named Mukunda Sarasvati,” Sanatana replied. Hearing this,
 Jagadananda flew into a terrible rage, seized the pot of rice from the hearth and rushed to strike Sanatana with it;
-Sanatana was greatly embarrassed, and the Pandita, putting the pot back on the hearth, said:[^50] <!-- F317 F318 -->
+Sanatana was greatly embarrassed, and the Pandita, putting the pot back on the hearth, said:[^51] <!-- F317 F318 -->
 
-“‘You are one of the chief associates of Sri Krishna Chaitanya Mahaprabhu. No one is dearer to Him than you. And despite
-this you have wrapped your head in a cloth given you by another sannyasi! Who could bear such a thing?’ Sanatana Gosvami
-answered: ‘O Jagadananda! You are a great saint who has grasped the conclusions of all the scriptures. No one is dearer to
-Sri Chaitanya than you. Such strong faith in Sri Chaitanya is certainly worthy of you. Had you not shown this faith now, how
-would I have known of it? I tied this cloth on my head only to see the strength of your faith. Now I have convinced myself
-how extraordinarily strong your love for Sri Chaitanya is. It is not fitting for a Vaishnava to wear a monk's saffron cloth.
-I shall certainly give it to someone.’” (CC, Antya 13.56–61)
+“‘You are one of Mahaprabhu's chief associates. No one else is as dear to Him as you. Yet you wear another sannyasi's cloth on your head! Who could tolerate such a thing?’ Sanatana said, ‘O saintly Pandita, great soul! No one is as dear to Chaitanya as you. Such steadfast faith in Chaitanya befits you. If you had not shown it, how would I ever learn it? I tied the cloth on my head in order to see this, and now I have seen that unprecedented love with my own eyes. It is not fitting for a Vaishnava to wear red cloth. I shall give it to some stranger—what use is it to me?’” (CC, Antya 13.56–61)
 
 It is not fitting for a nishkinchana Vaishnava, said Sanatana, to wear saffron like sannyasis who follow rules alone: he
-would give the cloth to some wanderer. Sanatana's deep devotion pacified Jagadananda.[^51] <!-- F319 F320 -->
+would give the cloth to some wanderer. Sanatana's deep devotion pacified Jagadananda.[^52] <!-- F319 F320 -->
 
 For about two months Jagadananda Pandita lived with Sanatana in Vrindavana, and when he was about to leave for Nilachala,
 Sanatana with great love sent with him for Mahaprabhu transcendental gifts of Vraja: sand from the place of the rasa-lila,
@@ -1275,7 +1157,7 @@ given to Mahaprabhu's service, and through it many of the Lord's desires would b
 “third brother” of their love and listened unceasingly from his lips to the Antya-lila of Mahaprabhu, the embodiment of the
 pastimes of separation, and were themselves enriched by listening. Once Raghunatha, having bathed in the Manasi-ganga, sat
 in bhajana under a tree in a thicket, and a tiger came to drink; Sanatana was nearby and saw that Raghunatha did not stir
-in the face of danger, and he told him to build a hut and perform his bhajana in it.[^52] <!-- F325 F326 F327 -->
+in the face of danger, and he told him to build a hut and perform his bhajana in it.[^53] <!-- F325 F326 F327 -->
 
 A song by the poet Radhavallabha Dasa about Raghunatha tells that, having resolved to give up his body, he went to
 Govardhana, but Rupa and Sanatana saw him and held him back, and at their bidding he settled by Radha-kunda; Raghunatha is
@@ -1303,18 +1185,13 @@ Calcutta. <!-- F330 -->
 ## Life in Vraja
 How Rupa and Sanatana lived in Vraja was told in Puri by eyewitnesses:
 
-“‘They live in the forest, having no home of their own. Every night they sleep under a new tree. Sometimes they come to the
-houses of brahmanas and gather a little alms. Having given up all enjoyments, they eat only dry flatbread and roasted
-chickpeas. Their only possessions are a water-pot, a patched quilt and a worn wrap. They constantly chant Krishna's names,
-speak of Him and dance in jubilation. They worship Krishna all day and night and sleep only an hour and a half. <…> They
-write books devoted to bhakti-rasa.’” (CC, Madhya 19.127–131)
+“‘They have no dwelling. They sleep under the trees of the forest, under each tree for one night only. In the homes of brahmanas they take a full meal as alms; elsewhere they gather madhukari. Rejecting all enjoyment, they chew dry bread and parched chickpeas. They carry nothing in their hands but a water pot; they have a patched quilt and a torn outer cloth. Talks of Krishna, the name of Krishna and jubilant dancing are their life. Throughout the eight *praharas* of day and night they worship Krishna, sleeping only four *dandas* <…>. Sometimes they write scriptures on the rasa of devotion.’” (CC, Madhya 19.127–131)
 
 And the Lord's associates, hearing this, said: what is surprising in this for one who has received His mercy? <!-- F331 -->
 
 Earlier still, when Rupa was in Puri, the Lord, asking everyone to bless him, said to Ramananda Raya of Sanatana:
 
-“His elder brother, Sanatana, is so wise and learned that there is no one who could compare with him. His detachment from
-everything worldly is as strong as yours, Ramananda. In him humility, detachment and unsurpassed learning are united.”
+“His elder brother is named Sanatana; there is no learned man on earth equal to him. His renunciation of worldly things is just like yours, and humility, detachment, and learning abide in him.”
 (CC, Antya 1.200–201)
 
 Thus the Lord Himself pointed out that Sanatana's renunciation is the same transcendental renunciation as Ramananda's: as
@@ -1338,7 +1215,7 @@ One of the biographies tells that the brothers also cared for the service of Mad
 driven out by Krishnadasa's men (on this see the article on Madhavendra Puri), came to Vrindavana to Rupa and Sanatana, who
 were living then in burning separation from Gaura, the brothers, hearing that the service of Gopala, the treasure of
 Madhavendra's life, would pass to the royal officials of Mathura, handed over Gopala's service and temple to Vitthalanatha,
-the son of Vallabhacharya, and arranged for Gaudiya pujaris.[^53] <!-- F491 -->
+the son of Vallabhacharya, and arranged for Gaudiya pujaris.[^54] <!-- F491 -->
 
 ## Madana-mohana
 One of the Lord's four commissions was the service of the Deity (see above), and Sanatana fulfilled it: the
@@ -1349,12 +1226,11 @@ Govindaji: in Vrindavana Rupa built the temple of Govinda, and Sanatana the temp
 
 Krishnadasa Kaviraja speaks of the three Deities of Vrindavana — Madana-mohana, Govinda and Gopinatha:
 
-“These three principal Deities have for ever captured the hearts of all the Gaudiya Vaishnavas. I worship Their beautiful
-feet, for They are the Lords of my life.” (CC, Adi 1.19)
+“These three Deities have made the Gaudiya devotees Their own. I worship Their feet: these Three are my Lords” (CC, Adi 1.19)
 
 They are Krishna, Govinda and Gopijana-vallabha, to whom the mantras of the Gaudiyas are addressed — the Lords of
 sambandha-jnana, abhidheya and prayojana. Madana-mohana, the Lord of Vrindavana, is the treasure of Sanatana's life, as
-Govinda is the Lord of Rupa's life (see the article on Rupa Gosvami).[^54] <!-- F338 Q51 -->
+Govinda is the Lord of Rupa's life (see the article on Rupa Gosvami).[^55] <!-- F338 Q51 -->
 
 How Madana-gopala came to Sanatana is told by the “Bhakti-ratnakara”:
 
@@ -1363,7 +1239,7 @@ eyes how Madana-gopala plays with the boys on the sandbank of the Yamuna. Madana
 day in the guise of a dream says to Sanatana: ‘Sanatana, your hut pleases Me; I shall come here from Mahavana.’ Saying
 this, the Lord vanished; Sanatana was beside himself with prema. The devotee knows well the Lord's designs: at dawn
 Madana-gopala came. Sanatana's heart became boundlessly glad; in a hut of leaves he serves the Lord.”
-(“Bhakti-ratnakara,” 2.455–461)[^55] <!-- F340 F341 F343 Q52 -->
+(“Bhakti-ratnakara,” 2.455–461)[^56] <!-- F340 F341 F343 Q52 -->
 
 The story is also told in more detail. In Mahavana, near the birthplace of Krishna, Sanatana made himself a grass hut and
 performed his bhajana there. One day, while begging alms, he came to a hamlet on the Yamuna where Madana-mohana was
@@ -1389,7 +1265,7 @@ was grieving, and He Himself arranged for His service to increase:
 <!-- F345 -->
 
 At that time Krishnadasa Kapur, a wealthy merchant (sheth) from Multan, “the best of kshatriyas,” was sailing along the
-Yamuna to Mathura on business. His boat ran aground, and the local people told him of the great sadhu Sanatana.[^56]
+Yamuna to Mathura on business. His boat ran aground, and the local people told him of the great sadhu Sanatana.[^57]
 Inspired by Bhagavan, he left the boat and came to the Gosvami. Sanatana was sitting in his hut writing — wearing only a
 kaupina, emaciated by austerity. Kapur fell at his feet with great humility and begged for mercy — for some service to
 Madana-mohana. Sanatana touched him with his hand, seated him on a grass mat and said, “I am a beggar; tell everything to
@@ -1412,7 +1288,7 @@ healing story briefly: Madana-mohana is the life of Sanatana.” (“Bhakti-ratn
 
 The hut where Sanatana served Madana-gopala stood on the Dvadashaditya-tila (also called the Aditya-tila) — the highest
 hill by the Yamuna in Vrindavana, where, as told above, Sanatana prepared a dwelling for Mahaprabhu; on this spot
-Krishnadasa built the temple.[^57] The old temple of Madana-mohana stands there to this day, about forty feet above the
+Krishnadasa built the temple.[^58] The old temple of Madana-mohana stands there to this day, about forty feet above the
 bed of the Yamuna; it is some sixty feet high, and on the door of the natya-mandira on the north side an inscription
 survives: “Samvat 1684, Shravana” (1627 AD). All Gaudiya Vaishnavas honour this temple as one of their chief places of
 pilgrimage. <!-- F350 F351 -->
@@ -1435,9 +1311,7 @@ good. <!-- I31 -->
 The “Chaitanya-charitamrita” opens with obeisances to the three Deities of Vrindavana, and first of all Krishnadasa
 Kaviraja glorifies Madana-mohana:
 
-“O Sri Sri Radha-Madana-mohana! I am lame and of meagre intelligence, and my sinful mind is captured by base objects. I
-pray to You: grant me attachment to the priceless wealth of my life — Your lotus feet. And may Your Lordships, so
-compassionate and loving, be ever and everywhere victorious!” (CC, Adi 1.15) <!-- F356 Q54 -->
+“All glory to the merciful Sri Sri Radha and Madana-mohana! I am lame and dull of mind, and They are my only refuge; Their lotus feet are all I have” (CC, Adi 1.15) <!-- F356 Q54 -->
 
 Srila Bhaktivedanta Swami explains: Kaviraja first bows to Madana-mohana, Sanatana's Deity, who establishes our
 relationship with the Lord (sambandha); then to Govinda, Rupa's Deity — the “acting” Deity, who accepts service; and
@@ -1455,7 +1329,7 @@ sambandha, as his spiritual master. <!-- F359 F360 -->
 So too Bhaktivinoda Thakura, explaining the Lord's conversation with Ramananda Raya, finds the three Deities in the
 kama-gayatri: Krishna-Kamadeva is Madana-mohana, who establishes the relationship; Pushpa-bana is Govinda, who accepts
 service; Ananga is Gopijana-vallabha, the highest goal. And in the commentary on the verse of the “Brahma-samhita” about
-the sound of Krishna's flute entering Brahma (“atha venu-ninadasya trayi-murti-mayi gatih…,” 5.27),[^58] it is said that
+the sound of Krishna's flute entering Brahma (“atha venu-ninadasya trayi-murti-mayi gatih…,” 5.27),[^59] it is said that
 this sound is the gayatri, the basis of sambandha, abhidheya and prayojana, and that the word “trayi-murti” points to the
 three murtis — Madana-mohana, Govinda and Gopinatha; hearing it, Brahma became twice-born and offered the prayers
 “chintamani-prakara-sadmasu…” (5.29). <!-- F361 F362 Q55 -->
@@ -1471,7 +1345,7 @@ Sanatana, as already said, circumambulated Govardhana every day by vow. It is to
 manifested the pastime of infirmity and could no longer walk the seven kroshas round the hill each day, Krishna Himself,
 the lifter of Govardhana, came to him in the form of an unknown boy of Vraja. He gave Sanatana a govardhana-shila bearing
 the print of His foot, told him to circumambulate this stone instead of the hill, and vanished. To the last day of his
-manifest pastimes Sanatana circumambulated this shila.[^59] Where it is kept today is told in different ways.[^60]
+manifest pastimes Sanatana circumambulated this shila.[^60] Where it is kept today is told in different ways.[^61]
 <!-- F364 F365 Q53 -->
 
 In the mood of separation Sanatana searched for Krishna through the forests of Vraja. Once, in a secluded grove by
@@ -1480,7 +1354,7 @@ cowherd boy came to him with a pot of milk: “You are eating nothing — the co
 themselves?” “They have work at home.” The boy would not sit down: he had to milk the cows, and he would fetch the pot
 tomorrow — and he vanished. Sanatana understood that it was Krishna, and drank the milk, drowning in tears. From that
 day he lived by madhukari, taking a little food from many residents of Vrindavana. And on the bank of Pavana-sarovara
-Krishna, through the hands of the Vrajavasis and without Sanatana's knowledge, built him a hut.[^61] Thus in separation
+Krishna, through the hands of the Vrajavasis and without Sanatana's knowledge, built him a hut.[^62] Thus in separation
 Sanatana sought Krishna, and Krishna Himself took care of him: the milk, the hut at Pavana-sarovara, the shila from
 Govardhana. <!-- F366 F367 F368 I34 -->
 
@@ -1488,12 +1362,12 @@ Two more stories are connected with Radha-kunda and Rupa; they are told in detai
 Sanatana came to Radha-kunda to Rupa and Raghunatha Dasa, and he was troubled by a verse of Rupa's “Chatu-pushpanjali”
 that compares Radha's braid to a black serpent. Bathing in Radha-kunda, he saw cowherd boys and girls at play, and behind
 one girl's back he thought he saw a venomous snake; he cried out, ran up — and saw Sri Radha Herself. The children
-laughed for a long time, while Sanatana stood speechless and understood the truth of Rupa's comparison.[^62] <!-- F369 -->
+laughed for a long time, while Sanatana stood speechless and understood the truth of Rupa's comparison.[^63] <!-- F369 -->
 
 Another time Radha, in the form of a young cowherd girl, brought Rupa milk, rice and sugar; Rupa cooked sweet rice,
 offered it to Govinda-deva and gave the prasada to Sanatana. Sanatana understood who had come, and with tears reproached
 himself: “Having accepted service from Her whom we long to serve, we are ruined,” — and he forbade Rupa ever again to
-cook sweet rice and accept such gifts, so that Radharani should not trouble Herself.[^63] <!-- F370 -->
+cook sweet rice and accept such gifts, so that Radharani should not trouble Herself.[^64] <!-- F370 -->
 
 There is also the story of the touchstone. A poor worshipper of Shiva — according to the “Bhakta-mala” and the
 “Gaudiya-vaishnava-abhidhana,” Sri Jivana Chakravarti of the village of Mankar in the Burdwan district — prayed to Shiva
@@ -1532,7 +1406,7 @@ wrote to the Lord about him, and He replied, “Care for him as for a younger br
 kaupina and upper garments. When Gopala Bhatta's shalagrama manifested Himself as a Deity, Gopala Bhatta called Rupa,
 Sanatana and the other Gosvamis and on the Vaishakha-purnima of 1599 Samvat (1542 AD) held a great festival of
 abhisheka; the Gosvamis named the Deity “Sri Radha-ramana.” Hearing of His appearance, Rupa and Sanatana hastened with the
-devotees to have His darshana.[^64] <!-- F375 F376 -->
+devotees to have His darshana.[^65] <!-- F375 F376 -->
 
 Old verses say of Gopala Bhatta:
 
@@ -1573,20 +1447,20 @@ Jiva himself prays in the opening verses of the “Madhava-mahotsava”:
 upon my head.” (“Madhava-mahotsava,” 3)
 
 One of the biographies understands these words thus: to the very end Sanatana lived in Vrindavana and went nowhere
-else.[^65] And in the “Bhakti-sandarbha” Jiva discloses, with arguments and proofs, those conclusions about bhakti which
+else.[^66] And in the “Bhakti-sandarbha” Jiva discloses, with arguments and proofs, those conclusions about bhakti which
 Rupa and Sanatana, “churning” the ocean of the “Bhagavatam,” set out in the “Bhakti-rasamrita-sindhu” and the
 “Brihad-bhagavatamrita.” <!-- F385 F386 Q56 -->
 
 Soon after Lokanatha settled in Vrindavana, Rupa, Sanatana, Gopala Bhatta and others came to live there; they were all of
-one heart.[^66] Sanatana remembers Lokanatha in the opening verses of the “Hari-bhakti-vilasa” and in the
+one heart.[^67] Sanatana remembers Lokanatha in the opening verses of the “Hari-bhakti-vilasa” and in the
 “Vaishnava-toshani” commentary on the Tenth Canto (“vrindavana-priyan vande sri-govinda-padashritan…” — “I honour those
 who love Vrindavana and have taken shelter at the feet of Sri Govinda…”). And when Mahaprabhu and His intimates headed
-by Rupa and Sanatana withdrew from the world, Lokanatha could not bear the separation.[^67] <!-- F387 F388 F389 -->
+by Rupa and Sanatana withdrew from the world, Lokanatha could not bear the separation.[^68] <!-- F387 F388 F389 -->
 
 Srinivasa Acharya heard of Sanatana from childhood: his father, Chaitanya Dasa, told the little Srinivasa of the lives
 of Sanatana and Rupa and of their wondrous love for Gaura-Krishna. Mahaprabhu foretold of Srinivasa: “Through Sri Rupa
 and others I shall reveal the shastras of bhakti, and through Srinivasa I shall distribute the jewels of the books”
-(“Bhakti-ratnakara,” 2.122).[^68] But when Srinivasa came to Vraja, Rupa, Sanatana, Kashishvara and Raghunatha Bhatta had already withdrawn.
+(“Bhakti-ratnakara,” 2.122).[^69] But when Srinivasa came to Vraja, Rupa, Sanatana, Kashishvara and Raghunatha Bhatta had already withdrawn.
 <!-- F390 F391 F392 -->
 
 Narottama, wearied on his way to Vraja, dreamt of Rupa and Sanatana: they laid their hands on his chest and fed him milk
@@ -1598,7 +1472,7 @@ did not render even a drop of service to the feet of Svarupa Damodara, Sanatana 
 Dasa, Gopala Bhatta, Bhugarbha, Jiva and Lokanatha. <!-- F495 -->
 
 Lochana Dasa in the “Chaitanya-mangala” relates that after visiting Mathura the Lord met Rupa and Sanatana and then
-wandered through Vraja with Balabhadra.[^69] The shiksha-guru-parampara, according to Srila Bhaktisiddhanta, is this:
+wandered through Vraja with Balabhadra.[^70] The shiksha-guru-parampara, according to Srila Bhaktisiddhanta, is this:
 Mahaprabhu — Svarupa Damodara — Rupa and Sanatana (with Raghunatha Dasa, Raghunatha Bhatta and Gopala Bhatta) — Jiva —
 Krishnadasa Kaviraja — and onwards. <!-- F397 F398 -->
 
@@ -1629,7 +1503,7 @@ shyamanjana and Ganges clay to him and tied something round his neck. This Achyu
 
 Under cover of Sanatana's name many nirvishesha teachings were spread later, and the aul, baul, darvesh and other sects
 also appeal to Sanatana. Some of them arose by relying on the dervish dress that Sanatana put on to conceal himself and on
-the words he spoke to deceive the non-Hindu jailer: “I shall become a dervish, an ascetic, and go to Mecca” (CC, Madhya
+the words he spoke to deceive the non-Hindu jailer: “I shall become a dervish and go to Mecca” (CC, Madhya
 20.13; see above). <!-- F411 F412 Q16 -->
 
 ## Caste and Titles
@@ -1648,8 +1522,7 @@ ascribed to Rupa, Sanatana is praised as “the ornament of the line of brahmana
 manifesting the pastime of taking shelter at Mahaprabhu's feet, Sanatana received in his house in Ramakeli twenty or
 thirty pandita-bhattacharyas and studied the “Bhagavatam” with them:
 
-“He invited two or three dozen brahmanas learned in the Vedas, and together with them immersed himself in the study of
-the ‘Srimad-Bhagavatam.’” (CC, Madhya 19.17) <!-- F414 F415 F416 Q58 Q59 Q62 -->
+“Gathering twenty or thirty learned bhattacharyas and panditas, he would sit in assembly with them and study the *Bhagavata*.” (CC, Madhya 19.17) <!-- F414 F415 F416 Q58 Q59 Q62 -->
 
 A certain “pandita,” proud of worldly caste, wrote that Rupa and Sanatana associated with Haridasa, who was born in a
 non-Hindu family. The “Chaitanya-charitamrita” shows the emptiness of this argument: Sanatana did not keep company with
@@ -1657,17 +1530,13 @@ non-Hindu pirs, but gathered brahmana panditas at his home (see the verse above)
 acharyas, from a noble brahmana family in brahmanical Shantipur — by Mahaprabhu's command ate in one row with Haridasa
 Thakura and Mukunda:
 
-“Then the Acharya wished to massage Sri Chaitanya's feet, but the Lord indignantly stopped Him, saying: ‘In many ways You
-have made Me dance, but now, I pray, stop this dance. Go rather and eat together with Mukunda and Haridasa.’ The Acharya
-then partook of prasada together with Mukunda and Haridasa, thus fulfilling the desire of His heart.” (CC, Madhya
+“The Acharya wished to massage the Lord's feet, but the Lord, abashed, said: ‘You have made Me dance a great deal; now stop making Me dance. Go and eat with Mukunda and Haridasa.’ Then the Acharya took the two of them with Him and ate, as He had wished in His heart.” (CC, Madhya
 3.105–107)
 
 More than that, honouring Haridasa as the guru of the best of brahmanas, Advaita fed him the dish offered to the
 ancestors on the day of His father's shraddha:
 
-“Advaita Acharya answered him thus: ‘Do not fear, dear Haridasa. I shall certainly act in full accord with the
-injunctions of the holy scriptures. You are so great that to feed you is equal to feeding ten million venerable
-brahmanas.’ Saying this, Advaita Acharya offered him to partake of the offering that He had made to His ancestors.”
+“The Acharya said, ‘Do not be afraid. I shall act only as the scriptures direct. When you eat, it is as good as feeding ten million brahmanas.’ Saying this, He fed him the *shraddha-patra*, the food of the day of *shraddha*.”
 (CC, Antya 3.219–220) <!-- F417 F423 Q63 Q64 -->
 
 The brothers' court titles — “Dabir Khas” for Rupa and “Sakara Mallik” for Sanatana — were merely ranks conferred by
@@ -1678,14 +1547,13 @@ versed in nyaya and argument (“yuktabhijno dabirah syat” — “one who know
 means “one's own”: Rupa was the sultan's private counsellor. The title “mallik,” like “chaudhuri” and similar ones, was
 received since the time of Muslim rule by many brahmanas and Hindus, and it is quite impossible to infer from it that
 they or their ancestors changed their faith; “mallik” is a corruption of the local word “mahallik,” “elder in knowledge”
-(jnana-vriddha).[^70] “Shukur,” according to the same dictionary, means “skilled in everything” (“kushalah shukurah”), and
+(jnana-vriddha).[^71] “Shukur,” according to the same dictionary, means “skilled in everything” (“kushalah shukurah”), and
 in the opinion of some “Sakara” is a corruption of this word; in any case the title “Sakara Mallik” speaks of skill and
 maturity of knowledge. <!-- F419 F420 F421 Q61 -->
 
 Sanatana was a Brihaspati in intellect — so Krishnadasa Kaviraja too says:
 
-“Sanatana Gosvami held the post of chief minister, and in sharpness of mind he was not inferior to Brihaspati (the guru
-of the gods).” (CC, Madhya 20.348) <!-- F422 -->
+“Sanatana had been the king's minister, a Brihaspati in intelligence.” (CC, Madhya 20.348) <!-- F422 -->
 
 But the main thing lies elsewhere. Rupa, Sanatana and the other Gosvamis are in the bodies of associates of Bhagavan
 (bhagavat-parshada-tanu). Whoever considers them living beings of some high or low caste, varna or ashrama has not heard a
@@ -1721,7 +1589,7 @@ the Lord. <!-- F430 F431 F432 F433 F434 -->
 sweetness of the names of Radha and Krishna. On the way he wears a torn kantha and a worn bahirvasa, his head is shaven,
 on his lips is the tale of Krishna's qualities; now he weeps, now laughs, now floats in the bliss of prema, now begs alms,
 now fasts. In Vrindavana he meets Rupa, and Rupa, his eyes full of tears of love, embraces him and speaks in a broken
-voice.[^71] In Vraja Sanatana lives by madhukari, from house to house, and later gives up even this: he lies now in one
+voice.[^72] In Vraja Sanatana lives by madhukari, from house to house, and later gives up even this: he lies now in one
 grove, now in another, and lives on fruits and roots. He calls aloud, “Radha-Krishna! O Lord, O Lord!” — and the brothers
 pass the time speaking of Gauranga's qualities. <!-- F435 F436 F437 F438 F439 -->
 
@@ -1744,28 +1612,29 @@ Kavi Karnapura, the son of Shivananda Sena, also wrote of Sanatana in the “Cha
 “…he who was the jewelled ornament of the assembly of the lord of Gauda — Rupa's elder brother — leaving flourishing
 wealth, took to wife the young Lakshmi of renunciation. Within, his heart is full of the rasa of bhakti, while outwardly
 he bears the look of an avadhuta; like a great lake covered with duckweed, he gives joy to those who know his worth.”
-(“Chaitanya-chandrodaya-nataka,” 9.34)[^72]
+(“Chaitanya-chandrodaya-nataka,” 9.34)[^73]
 
 The “Bhakti-ratnakara” recalls this too: “Kavi Karnapura, dear to the Lord, wrote a book and told of the grace shown to
 Sanatana” (1.657). <!-- F443 Q65 -->
 
+In the “Namamrita-samudra,” where Narahari Chakravarti's prayers call upon the Lord's associates, Sanatana is invoked
+together with Rupa:
+
+“O Rupa and Sanatana, dear to Gaura, His very life! Give me the strength to describe the Lord's deeds.”
+(“Namamrita-samudra” 29)
+<!-- F496 -->
+
 ## Writings
 Of the books Sanatana wrote at Gaurasundara's command, four are known: the “Brihad-bhagavatamrita” with the commentary “Dig-darshini”; the “Hari-bhakti-vilasa,” also
 with the commentary “Dig-darshini”; the “Lila-stava,” or “Dashama-charita”; and the “Vaishnava-toshani”
-(“Dashama-tippani,” “Brihad-vaishnava-toshani”), a commentary (tippani) on the Tenth Canto of the “Bhagavatam.”[^73]
+(“Dashama-tippani,” “Brihad-vaishnava-toshani”), a commentary (tippani) on the Tenth Canto of the “Bhagavatam.”[^74]
 <!-- F444 -->
 
 Krishnadasa Kaviraja names them twice:
 
-“‘Hari-bhakti-vilasa,’ ‘Brihad-bhagavatamrita,’ ‘Dashama-tippani’ and ‘Dashama-charita.’ All these important spiritual
-works were written by Sanatana Gosvami.” (CC, Madhya 1.35–36)
+“*Hari-bhakti-vilasa*, *Bhagavatamrita*, *Dashama-tippani* and *Dashama-charita* — all these books Sanatana Gosani composed.” (CC, Madhya 1.35–36)
 
-“Srila Sanatana Gosvami compiled the ‘Brihad-Bhagavatamrita.’ From this book we know all the highest truths about the path
-of bhakti, about Krishna and about His devotees. He also wrote a commentary on the Tenth Canto of the
-‘Srimad-Bhagavatam,’ calling it the ‘Dashama-tippani.’ Thanks to this work we can understand the nature of Krishna's
-transcendental pastimes and of pure love for Him. He also compiled the book ‘Hari-bhakti-vilasa,’ in which he described
-in detail the code of conduct and all the duties of Vaishnavas. And how many other Vaishnava books he wrote! No one can
-even list them all. In them he explained the essence of the worship of Madana-mohana and Govindaji.” (CC, Antya
+“Sanatana wrote the *Bhagavatamrita*, from which we know the truth of the devotee, devotion and Krishna. He wrote the *Dashama-tippani*, the essence of conclusions, from which we know the rasa of Krishna's pastimes and love for Him. He wrote the *Hari-bhakti-vilasa* on Vaishnava conduct, in which we find the duties of a Vaishnava in full. Who can count the other books he wrote? And he manifested the service of Madana-gopala and Govinda.” (CC, Antya
 4.219–222) <!-- F445 F446 Q69 Q70 -->
 
 The “Bhakti-ratnakara” lists them likewise, saying that Jiva's disciple Krishnadasa Adhikari told of the Gosvamis' books
@@ -1869,7 +1738,7 @@ compendium for the good of future Gaudiya Vaishnavas. At Mahaprabhu's wish the c
 composed by Sanatana himself; but since the compendium was regarded as collected by Gopala Bhatta, and since he himself
 out of humility wished to hide his name, he declared Gopala Bhatta's name in the opening verse; perhaps Gopala Bhatta
 himself wrote that verse, making a beginning of the book. In the opinion of some, Gopala Bhatta gave Sanatana special
-help in the work, and therefore Sanatana out of humility named in the book not himself but him.[^74] <!-- F462 F463 -->
+help in the work, and therefore Sanatana out of humility named in the book not himself but him.[^75] <!-- F462 F463 -->
 
 Many consider this conclusion correct: by Mahaprabhu's command Sanatana first compiled the “Hari-bhakti-vilasa,” and its
 present text was edited (sampadita) by Gopala Bhatta. So too teaches Srila Bhaktisiddhanta Sarasvati: the colophons at the
@@ -1886,7 +1755,7 @@ wholly silent about his own name: only in the opening verses does he take shelte
 Brahma and others (the power to reveal the Vedas and other shastras), who descended in mercy to give His bhakti, by whose
 mercy every meaning of the shastras becomes accessible, and he says that he writes “according to his understanding” the
 commentary “Dig-darshini,” explaining part of the meaning of the “Bhagavad-bhakti-vilasa.” This brief commentary is
-reputed to be Sanatana's, but the commentator's name does not appear in it.[^75] <!-- F458 F459 Q81 Q83 I35 -->
+reputed to be Sanatana's, but the commentator's name does not appear in it.[^76] <!-- F458 F459 Q81 Q83 I35 -->
 
 The “Hari-bhakti-vilasa” consists of twenty vilasas, each with its own name: Gaurava, Daikshika, Shauchiya, Sri
 Vaishnava-alankara, Adhishthanika, Snapanika, Paushpika, Pratar-archa-samapana, Mahaprasada, Sat-sangama, Nitya-kritya,
@@ -1898,7 +1767,7 @@ offerings, dance, music, garlands, prayers and offences in service; of mahaprasa
 Deity, the glory of the Name, offences against the Name and self-surrender; of ekadashi, fasts and Maha-dvadashi; of
 monthly duties; of festivals — the waterless ekadashi, chaturmasya, Janmashtami, Rama-navami, Vijaya-dashami and others;
 of the month of Karttika, lamps, Govardhana-puja and Ratha-yatra; of preparation for worship, the maha-mantra and japa; of
-the forms of Vishnu; of the installation of the Deity and the building of temples.[^76] <!-- F466 -->
+the forms of Vishnu; of the installation of the Deity and the building of temples.[^77] <!-- F466 -->
 
 The conclusion of the book says: what needs to be known in more detail, learn from the relevant shastra or from the lips
 of the guru; many customs prescribed by the shastra are not written down, since there is now no one to observe them. The
@@ -1921,7 +1790,7 @@ pastimes up to His departure for Mathura; one of its verses — Sanatana's addre
 <!-- F473 F476 -->
 
 Many considered the “Lila-stava” lost. Some see it in the “Gitavali” — the forty-one songs of the “Stava-mala” on the
-pastimes of the Tenth Canto, beginning with the Nandotsava, in each of which Sanatana's name appears in one way or another;[^77]
+pastimes of the Tenth Canto, beginning with the Nandotsava, in each of which Sanatana's name appears in one way or another;[^78]
 but Baladeva Vidyabhushana at the end of his commentary on the “Gitavali” calls its songs “taught by Rupa” (see the
 article on Rupa Gosvami). In the Berhampur edition of Rupa's “Stava-mala” the name “Sanatana” stands in the closing lines
 (bhanita) of the songs “Saurabha-sevita-pushpa-vinirmita,” “Apaghana-ghatita” and “Damodara-rati-vardhana-veshe.”
@@ -1951,7 +1820,7 @@ Shridhara Svami, the sole guardian of bhakti; his own teachers (see above); Adva
 avadhuta, Gadadhara Pandita, Svarupa Damodara and the other associates of Chaitanya, by the touch of the dust of whose
 feet even the lowly become exalted; and those who love Vrindavana and have taken shelter at Govinda's feet —
 Kashishvara, Lokanatha and Krishnadasa. Then he writes that he has set out a little, according to Vaishnava siddhanta,
-for the pleasure of the Vaishnavas;[^78] that his shelter is the Vaishnavas whose encouragement pushed him into this bold
+for the pleasure of the Vaishnavas;[^79] that his shelter is the Vaishnavas whose encouragement pushed him into this bold
 work, and that where the two friends Gopala Bhatta and Raghunatha Dasa help, every goal is attained (see above); that
 this work is for the pleasure of “Shrimach-Chaitanya-rupa,” and that only Vaishnavas who know the fragrance of Sri
 Chaitanya's feet can taste the “Vaishnava-toshani.” The commentary ends with the words: the tippani on the Tenth Canto is
@@ -1981,7 +1850,7 @@ Sanatana's years and the day of his passing — the full moon of the month of Va
 this article. Behind the temple of Madana-mohana, on lower ground, in a small building of red stone, Sanatana's samadhi is
 shown; beside it is a well of sweet water, the “Sanatana-kupa.” Every year on the day of Sanatana's passing a great
 festival is held here. When Ramachandra Kaviraja came to Vrindavana, by the direction of Srinivasa and Jiva he had
-darshana of Govinda, Gopinatha and Madana-mohana and visited Sanatana's samadhi.[^79] <!-- F485 F486 F396 -->
+darshana of Govinda, Gopinatha and Madana-mohana and visited Sanatana's samadhi.[^80] <!-- F485 F486 F396 -->
 
 Sanatana is remembered in Kashi as well. The place on the bank of the Ganga where he received Mahaprabhu's instructions is
 called “Sri Sanatana-shiksha-lila-kshetra”; there stands the Sri Sanatana Gaudiya Math, where Vamshidasa Babaji lived for
@@ -1997,7 +1866,7 @@ Sanatana, whose body is non-different from Gaura, worthy of worship by all; for 
 among sages, also entered into him.” (“Gaura-ganoddesha-dipika,” 181–182) <!-- F488 Q66 -->
 
 The second “Sanatana” in this verse is the sage Sanatana- (Sanat-) kumara, one of the four Kumaras; and Rupa in the
-“Laghu-bhagavatamrita” calls his brother an avatara of the Kumaras.[^80] Sanatana, “whose body is non-different from
+“Laghu-bhagavatamrita” calls his brother an avatara of the Kumaras.[^81] Sanatana, “whose body is non-different from
 Gaura,” is regarded as an extension, as it were, of Sri Chaitanya's own body. He is called the bhakti-siddhantacharya and
 the acharya of sambandha-jnana: through him Mahaprabhu disclosed to the world the essence of the siddhanta of bhakti, and
 his Madana-mohana to this day restores in souls their forgotten relationship with Krishna. <!-- F489 -->
@@ -2083,7 +1952,7 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
     told the jailer to say that the prisoner had gone to relieve himself, then to bathe in the Ganga, had jumped into the
     water and vanished (with no mention of fetters), while he, the jailer, would become a Sufi and go on the hajj to Mecca.
     And in the one by which Sanatana's speech is given here — “I shall go to Mecca, taking the dervish” (Bengali
-    “darabesha laiya,” that is, apparently, assuming the dervish's guise; cf. CC, Madhya 20.13: “I will become a
+    “darabesha laiya,” that is, apparently, assuming the dervish's guise; cf. CC, Madhya 20.13: “I shall become a
     dervish”).
 
 [^23]: According to another biography, Sanatana had the grocer bring the seven thousand from the money Rupa had left;
@@ -2130,76 +1999,80 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
 [^36]: One of the biographies says that Rupa and Anupama went along the Ganga “to meet the Lord in Prayaga”; this is a
     confusion — elsewhere in the same biography they go along the Ganga to Bengal.
 
-[^37]: In its account of Rupa the same biography gives a stay of ten days.
+[^37]: This is not in the “Charitamrita”: Sanatana learned of his brothers from Subuddhi in Mathura and wandered the
+    forests of Vraja alone (Madhya 25.204–208); the Sanodiya brahmana was the guide of the Lord Himself in Vraja (Madhya
+    17–18).
 
-[^38]: According to one of the biographies, Sanatana came to Puri through Jharikhanda while Rupa was living for almost a
+[^38]: In its account of Rupa the same biography gives a stay of ten days.
+
+[^39]: According to one of the biographies, Sanatana came to Puri through Jharikhanda while Rupa was living for almost a
     year in Bengal, and returned to Vraja by the same road. Another calls this forest country “the jungles of Uttar
     Pradesh”; Jharikhanda, however, is the forest region between Bengal and Orissa on one side and Bihar on the other.
 
-[^39]: The cause of the illness — bad water and hunger — is also named by the “Chaitanya-charitamrita” (Antya 4.5); one
+[^40]: The cause of the illness — bad water and hunger — is also named by the “Chaitanya-charitamrita” (Antya 4.5); one
     biography speaks only of bad water, another simply of a “skin disease.”
 
-[^40]: According to another biography, Sanatana went straight to Siddha-bakula, and Haridasa, embracing him lovingly,
+[^41]: According to another biography, Sanatana went straight to Siddha-bakula, and Haridasa, embracing him lovingly,
     himself invited him to live with him: in this way Sanatana could see the Lord when He came to Haridasa as was His
     custom. According to the third, Sanatana met Haridasa only after the Lord had talked him out of suicide.
 
-[^41]: According to the third biography, Sanatana heard the news of Anupama's departure from Haridasa. According to another,
+[^42]: According to the third biography, Sanatana heard the news of Anupama's departure from Haridasa. According to another,
     it was the Lord who told of Anupama's devotion to Rama and of his departure to Rama's abode; elsewhere in the same
     biography it is Sanatana who tells it: Anupama, despite his brothers' persuasions, could not give up the worship of
     Rama, and the Lord compared him with Murari Gupta: “In the same way I tested Murari; glory to the devotee who does not
     leave the feet of his Deity, and to the Lord who does not leave His devotee.”
 
-[^42]: According to one of the biographies, the Lord spoke allusively; according to another, directly, having come to
+[^43]: According to one of the biographies, the Lord spoke allusively; according to another, directly, having come to
     Siddha-bakula.
 
-[^43]: According to another biography, in the heat of the month of jyaishtha the Lord was living at Yameshvara-tota
+[^44]: According to another biography, in the heat of the month of jyaishtha the Lord was living at Yameshvara-tota
     together with Gadadhara Pandita.
 
-[^44]: According to another biography — the bitter juice of nim and tobacco leaves.
+[^45]: According to another biography — the bitter juice of nim and tobacco leaves.
 
-[^45]: According to another biography — “chatuhsama”: sandalwood, camphor, aguru and musk; this word also stands in the
+[^46]: According to another biography — “chatuhsama”: sandalwood, camphor, aguru and musk; this word also stands in the
     “Chaitanya-charitamrita” (Antya 4.197).
 
-[^46]: According to the third biography, Jagadananda supposedly “permitted” Sanatana to go to Vrindavana, but the Lord did
+[^47]: According to the third biography, Jagadananda supposedly “permitted” Sanatana to go to Vrindavana, but the Lord did
     not approve, glorified Sanatana's virtues and told him to stay in Puri for a year.
 
-[^47]: One of the biographies speaks of this meeting as of both brothers at once, though they were in Puri at different
+[^48]: One of the biographies speaks of this meeting as of both brothers at once, though they were in Puri at different
     times. For Sanatana it is confirmed by the “Chaitanya-charitamrita”: among those to whom the Lord introduced him,
     Advaita Acharya and Nityananda Prabhu are named (Antya 4.108).
 
-[^48]: The “Chaitanya-charitamrita” (Antya 4.210) says that Sanatana learned from Balabhadra the names of the villages,
+[^49]: The “Chaitanya-charitamrita” (Antya 4.210) says that Sanatana learned from Balabhadra the names of the villages,
     rivers and hills on the Lord's route; one of the biographies stresses that he wrote them down.
 
-[^49]: According to another biography, the delighted Sanatana persuaded Jagadananda to live with him in Gokula, where he
+[^50]: According to another biography, the delighted Sanatana persuaded Jagadananda to live with him in Gokula, where he
     himself was then living.
 
-[^50]: According to one of the biographies, Sanatana came wearing the saffron cloth “wishing to show the world
+[^51]: According to one of the biographies, Sanatana came wearing the saffron cloth “wishing to show the world
     Jagadananda's devotion to the Lord,” and Jagadananda at once realised that the cloth was not from the Lord; another
     calls the cloth a turban of red material and does not give the sannyasi's name.
 
-[^51]: One of the biographies adds that Sanatana then remarked that red cloth is not fitting for Gaudiya Vaishnava
+[^52]: One of the biographies adds that Sanatana then remarked that red cloth is not fitting for Gaudiya Vaishnava
     sannyasis, since it is worn by the Mayavadis of Shankara's school, and that ever since, out of respect for his words,
     Gaudiya Vaishnava sannyasis have adopted the saffron colour for the dress of renunciation. The
     “Chaitanya-charitamrita” says otherwise: Sanatana said that it is precisely saffron sannyasi cloth that is not fitting
     for a Vaishnava (Antya 13.61), and the Lord did not approve of it on him; there is no contrast between “red” and
     “saffron” cloth in the CC.
 
-[^52]: This story is in the “Bhakti-ratnakara” (5.554–562): Sanatana, coming from Vrindavana to Radha-kunda, to Gopala
+[^53]: This story is in the “Bhakti-ratnakara” (5.554–562): Sanatana, coming from Vrindavana to Radha-kunda, to Gopala
     Bhatta's dwelling, went to bathe at the Manasa-pavana ghat and saw a tiger drinking water there; the tiger went off
     into the forest past Raghunatha, who sat in meditation. Sanatana lovingly embraced Raghunatha and told him to live
     henceforth not under a tree but in a hut — and for the good of others Raghunatha settled in a hut. The Manasi-ganga
     and Raghunatha's bath are details of the biography.
 
-[^53]: According to the “Bhakti-ratnakara” (5.814–817), when the two brahmanas, Madhavendra's disciples, had passed away,
+[^54]: According to the “Bhakti-ratnakara” (5.814–817), when the two brahmanas, Madhavendra's disciples, had passed away,
     the service of Gopala was given to Vitthaleshvara (Vitthalanatha) on the advice of “Dasa Gosvami and others”; Rupa
     and Sanatana are not named there. According to the tradition of Vallabha's followers, the Bengalis came to Rupa and
     Sanatana in Mathura, and they only said: “You know, and He knows.”
 
-[^54]: One of the biographies calls Gopinatha the Deity of Raghunatha Dasa — evidently in the sense that Raghunatha Dasa is
+[^55]: One of the biographies calls Gopinatha the Deity of Raghunatha Dasa — evidently in the sense that Raghunatha Dasa is
     the acharya of prayojana, whose Deity is Gopinatha (see below). The service of Gopinatha in Vrindavana, however, is
     usually connected with Madhu Pandita.
 
-[^55]: Another biography, citing another passage of the “Bhakti-ratnakara” (5.1777–1786 — the story Srinivasa hears on
+[^56]: Another biography, citing another passage of the “Bhakti-ratnakara” (5.1777–1786 — the story Srinivasa hears on
     his circuit of Mahavana), tells it otherwise: living in Gokula-Mahavana, Sanatana saw Madana-gopala playing with the cowherd boys on
     the Raman-reti, the sandy bank of the Yamuna, while the people of Mahavana came to life on seeing Sanatana himself.
     One day, watching the play, he thought, “This is no ordinary child,” and followed; the boy entered a temple, and
@@ -2207,18 +2080,18 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
     Madana-mohana showed that He was conquered by Sanatana's love. There is also a tradition that Sanatana received the
     Deity from the house of a Mathura brahmana, Damodara Chaube.
 
-[^56]: The running aground, the storm and the vow to give away the profit are details of one of the biographies: in the
+[^57]: The running aground, the storm and the vow to give away the profit are details of one of the biographies: in the
     “Bhakti-ratnakara” (2.464–470) Kapur, “the best of kshatriyas,” simply leaves the boat, falls at the Gosvami's feet,
     receives his mercy and that same day begins to build the temple. According to another biography, Kapur was not a
     merchant but, “as they say,” a wealthy commander in the sultan's army; he built the temple and the kitchen.
 
-[^57]: According to another account, a temple was built on this hill first. One and the same biography names the hill now
+[^58]: According to another account, a temple was built on this hill first. One and the same biography names the hill now
     “Aditya-tila,” now “Dvadashaditya-tila.”
 
-[^58]: One of the biographies attributes this commentary to Bhaktivinoda Thakura and calls it the “Anubhashya”; but
+[^59]: One of the biographies attributes this commentary to Bhaktivinoda Thakura and calls it the “Anubhashya”; but
     “Anubhashya” is the name of Srila Bhaktisiddhanta Sarasvati's commentary, so the names are probably confused here.
 
-[^59]: In the “Bhakti-ratnakara” itself (5.730–741) Sanatana daily goes round Govardhana, a circuit of “twelve kroshas,”
+[^60]: In the “Bhakti-ratnakara” itself (5.730–741) Sanatana daily goes round Govardhana, a circuit of “twelve kroshas,”
     and in his old age, seeing his great labour, Gopinatha appears in the form of a cowherd boy: He wipes away his sweat
     and brings him from Govardhana a shila with the print of His foot. According to one biography, citing this passage,
     the circuit was fourteen miles; Gopinatha in
@@ -2228,75 +2101,75 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
     principles of bhajana,” — and then Krishna gave him the shila with the print of His foot, and Sanatana understood
     that it was Giriraja Himself who had given it.
 
-[^60]: One biography says that the shila is now in the temple of Radha-Damodara at Radha-kunda. According to a widespread
+[^61]: One biography says that the shila is now in the temple of Radha-Damodara at Radha-kunda. According to a widespread
     view it is worshipped in the temple of Radha-Damodara in Vrindavana, in whose courtyard is Rupa's samadhi (see the
     article on Rupa Gosvami); there are other traditions as well. The question is disputed, and we do not decide it.
 
-[^61]: So too in the “Bhakti-ratnakara” (5.1298–1310). According to another biography, Krishna told Sanatana to build the
+[^62]: So too in the “Bhakti-ratnakara” (5.1298–1310). According to another biography, Krishna told Sanatana to build the
     hut himself and serve Him; according to a third, the Vrajavasis built it in the course of time.
 
-[^62]: In the “Bhakti-ratnakara” (5.754–765), to which the biography refers, the story is shorter: at the Govinda-ghata of
+[^63]: In the “Bhakti-ratnakara” (5.754–765), to which the biography refers, the story is shorter: at the Govinda-ghata of
     Radha-kunda the girls, when Sanatana rushed to warn them, vanished with a slight smile, and he, coming to himself,
     said to Rupa: “What you have written is the truth.” That he saw Radha Herself and that the children laughed for a
     long time are details of the biography.
 
-[^63]: One of the biographies speaks only of Sanatana reproaching himself, another only of the prohibition; the second adds
+[^64]: One of the biographies speaks only of Sanatana reproaching himself, another only of the prohibition; the second adds
     ghee to the gifts and in one place names the scene as Teri-kadamba, where Rupa performed bhajana (near Nandagrama), in
     another as Pavana-sarovara.
 
-[^64]: The year of the festival is given here in the Samvat era. One of the biographies (in its account of Rupa) gives it
+[^65]: The year of the festival is given here in the Samvat era. One of the biographies (in its account of Rupa) gives it
     as “1599 AD” — a confusion of eras: 1599 Samvat is 1542 AD, within the lifetime of Rupa and Sanatana.
 
-[^65]: This interpretation cannot be taken literally: from Vrindavana Sanatana went to Mahaprabhu in Puri and then
+[^66]: This interpretation cannot be taken literally: from Vrindavana Sanatana went to Mahaprabhu in Puri and then
     returned (see above). What is meant is evidently his life in Vraja after his return.
 
-[^66]: According to another biography, Lokanatha, a few days after coming to Vrindavana, met Rupa, Sanatana, Gopala
+[^67]: According to another biography, Lokanatha, a few days after coming to Vrindavana, met Rupa, Sanatana, Gopala
     Bhatta, Bhugarbha and others there; it does not say who came first.
 
-[^67]: One of the biographies says in one place that Lokanatha, coming to Vrindavana, learned that Rupa and Sanatana had
+[^68]: One of the biographies says in one place that Lokanatha, coming to Vrindavana, learned that Rupa and Sanatana had
     already withdrawn, and in another that Narottama found Rupa, Sanatana and Lokanatha in Vraja. The second does not
     agree with the first: Narottama came to Vraja only after the brothers' departure (see below).
 
-[^68]: So in the “Bhakti-ratnakara” (2.122: “sri-rupadi dvare”). The biographies retell this prophecy as “through Rupa,
+[^69]: So in the “Bhakti-ratnakara” (2.122: “sri-rupadi dvare”). The biographies retell this prophecy as “through Rupa,
     Sanatana and others.”
 
-[^69]: According to the “Chaitanya-charitamrita,” the Lord met the brothers in Ramakeli, Prayaga and Kashi, not in Vraja;
+[^70]: According to the “Chaitanya-charitamrita,” the Lord met the brothers in Ramakeli, Prayaga and Kashi, not in Vraja;
     Sanatana came to Vraja only after Mahaprabhu had left it (see above).
 
-[^70]: Another biography explains “mallik” as “lord” (see above).
+[^71]: Another biography explains “mallik” as “lord” (see above).
 
-[^71]: According to the “Chaitanya-charitamrita,” when Sanatana first came to Vraja he did not find Rupa there: the
+[^72]: According to the “Chaitanya-charitamrita,” when Sanatana first came to Vraja he did not find Rupa there: the
     brothers missed each other and met in Vrindavana only after Sanatana's return from Puri (see above). The poet brings
     these events together.
 
-[^72]: In one of the biographies this verse is cited as 9.45; in the translation used here it is 9.34 (the numbering of
+[^73]: In one of the biographies this verse is cited as 9.45; in the translation used here it is 9.34 (the numbering of
     the editions differs).
 
-[^73]: One of the biographies names under the second heading only the commentary “Dig-darshini” on the
+[^74]: One of the biographies names under the second heading only the commentary “Dig-darshini” on the
     “Hari-bhakti-vilasa,” though elsewhere it ascribes the book itself to Sanatana as well; another names as Sanatana's
     “most important works” the “Hari-bhakti-vilasa,” the “Brihad-bhagavatamrita,” the “Dashama-tippani”
     (“Brihad-vaishnava-toshani”) and the “Dashama-charita.”
 
-[^74]: One of the biographies says simply that Sanatana compiled the “Hari-bhakti-vilasa” and published it under Gopala
+[^75]: One of the biographies says simply that Sanatana compiled the “Hari-bhakti-vilasa” and published it under Gopala
     Bhatta's name. Another says that he compiled it together with Gopala Bhatta, who edited the book, and out of great love
     for him published it under his name; elsewhere the same biography writes that the book is based on notes collected by
     Gopala Bhatta.
 
-[^75]: Another biography regards the “Dig-darshini” on the “Hari-bhakti-vilasa” as beyond any doubt a work of Sanatana.
+[^76]: Another biography regards the “Dig-darshini” on the “Hari-bhakti-vilasa” as beyond any doubt a work of Sanatana.
 
-[^76]: The contents of the vilasas are given after one of the biographies (in Srila Bhaktivedanta Swami's summary); the
+[^77]: The contents of the vilasas are given after one of the biographies (in Srila Bhaktivedanta Swami's summary); the
     tenth vilasa is omitted there.
 
-[^77]: Elsewhere in the same biography (in the account of Rupa) the songs of the “Gitavali” are counted as forty-two;
+[^78]: Elsewhere in the same biography (in the account of Rupa) the songs of the “Gitavali” are counted as forty-two;
     here, as with Baladeva Vidyabhushana (“forty and one more”), as forty-one.
 
-[^78]: So one of the biographies renders this passage in Bengali. The Sanskrit verse, as printed there, says otherwise:
+[^79]: So one of the biographies renders this passage in Bengali. The Sanskrit verse, as printed there, says otherwise:
     “vaishnavaparitoshah” — he has set out a little where [in Shridhara Svami] the Vaishnavas might have remained
     unsatisfied.
 
-[^79]: So in two biographies: in one, by the direction of Srinivasa and Jiva; in the other, by Jiva's command; there it
+[^80]: So in two biographies: in one, by the direction of Srinivasa and Jiva; in the other, by Jiva's command; there it
     is also said that Ramachandra took the dust of the feet of Lokanatha, Gopala Bhatta and Bhugarbha, who were then
     living. In the second biography this is the only mention of Sanatana's samadhi.
 
-[^80]: One of the biographies quotes only the first half of the verse of the “Gaura-ganoddesha-dipika” and does not speak
+[^81]: One of the biographies quotes only the first half of the verse of the “Gaura-ganoddesha-dipika” and does not speak
     of the Kumara entering him.

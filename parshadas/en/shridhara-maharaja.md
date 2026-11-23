@@ -629,8 +629,7 @@ on one vyasasana, and Swami Maharaj recalled: “I am very fortunate: for a long
 opportunity to associate with Srila Sridhar Maharaj. Maharaj, do you remember the time when you came to Allahabad and
 we met?” — and added: “I always knew he is a real Vaishnava.” Sridhar Maharaj was unwell, and at his request Srila
 Govinda Maharaj spoke in his place. He began with a verse of Raghupati Upadhyaya, which Krishnadasa Kaviraja also
-quotes: “To whom shall I tell it, and who will believe me, that the Supreme Absolute Truth is the beloved of the young
-cowherd girls in the groves by the river Yamuna?” (CC, Madhya 19.98) — who
+quotes: “To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamuna, Brahman is the lover of the young cowherd girls?” (CC, Madhya 19.98) — who
 would believe that Abhay Babu, the householder everyone knew from the Gaudiya Math programmes, had become a world
 acharya? And he said that Swami Maharaj accepted Sridhar Maharaj as his shiksha-guru. Swami Maharaj confirmed: “I love
 him as my own son, and his Gurudeva, Sridhar Maharaj, I consider my shiksha-guru.” “He glorified me, calling me ‘Om

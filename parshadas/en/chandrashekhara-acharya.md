@@ -10,10 +10,9 @@ him, affectionately called him “My mesomashai.” <!-- F1 -->
 
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, gives him the place of a great branch:
 
-“Acharyaratna is another great branch, and his associates are the twigs upon it.” (CC, Adi 10.12)
+“Another great branch bears the name Acharyaratna; his associates are its branches and offshoots” (CC, Adi 10.12)
 
-“Acharyaratna was also known as Sri Chandrashekhara. In his house Sri Chaitanya played the role of the goddess
-Adi-shakti in a drama.” (CC, Adi 10.13)
+“Acharyaratna’s own name is Sri Chandrashekhara. In his house the Lord danced in the form of the Goddess, the Adi-shakti” (CC, Adi 10.13)
 
 With this single verse the “Charitamrita” marked what Chandrashekhara's house has remained forever in the memory of the
 devotees: here the Lord revealed Himself in the form of His own primordial energy. Of this pastime we shall speak below.
@@ -22,30 +21,28 @@ devotees: here the Lord revealed Himself in the form of His own primordial energ
 Like all the Lord's elders, he came into the world before Him. The “Chaitanya-bhagavata” says:
 
 “By the order of Lord Chaitanya many of His eternal associates, such as Sri Chandrashekhara, Jagadisha, Gopinatha
-Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born secretly in Nadia before His
-coming.” (CB, Adi 2.98–99)
+Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born before His coming and lived
+hidden in Nadia.” (CB, Adi 2.98–99)
 
 And the “Charitamrita,” listing those whom Krishna sent to the earth ahead of Himself, names him too:
 
-“First He sent to the Earth all His intimates and elders. I shall list them briefly — to describe them all in detail is
-simply impossible.” (CC, Adi 13.53)
+“First He sent down His elders and kin. I shall name them in brief, for they cannot all be told in full” (CC, Adi 13.53)
 
-“Sri Shachi Devi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri, Advaita Acharya, Srivasa
-Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.54–55)
+“Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.54–55)
 
 One of the biographies explains that all of Mahaprabhu's elders descend to the earth before He Himself is born[^1].
 <!-- F7 Q5 Q15 -->
 
 Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who he was before:
 
-“The wise should know Acharya Chandrashekhara as Chandra (the Moon); Shriman Uddhava Dasa is also an avesha-avatara of
-the Moon.” (GGD 112)
+“The discerning should know Acharya Chandrashekhara as Chandra (the Moon); Sriman Uddhava Dasa too is an empowered
+incarnation (*avesha-avatara*) of the Moon.” (GGD 112)
 
 There too, speaking of the nine nidhis — treasures who were born as the Lord's favourites with the titles “nidhi,”
 “ratna” and “garbha” — Karnapura names “Shriman Acharyaratna” among them (GGD 102–103). Srila Bhaktisiddhanta Sarasvati,
 following him, writes that Chandrashekhara is one of the nine nidhis, or Chandra[^2]. <!-- F2 Q1 -->
 
-Yadunatha Dasa, a disciple of Gadadhara Pandita Gosvami, in the “Shakha-nirnayamrita” praises him, according to one of
+Yadunandana Dasa (in the biographies, Yadunatha Dasa), a disciple of Gadadhara Pandita Gosvami, in the “Shakha-nirnayamrita” praises him, according to one of
 the biographies, as a vessel of Paurnamasi's great love and a full moon of boundless compassion. <!-- F4 Q3 -->
 
 Murari Gupta, his contemporary, also links him with the Moon — and names his teachers:
@@ -58,7 +55,7 @@ on earth as Acharyaratna.” (Murari, 1.4.6)
 tears streamed down his face (Murari, 1.1.21). <!-- F49 -->
 
 ## Shrihatta and the Lord's Family
-Chandrashekhara's birthplace was Shrihatta (Sylhet) — so, according to one of the biographies, Yadunatha Dasa also
+Chandrashekhara's birthplace was Shrihatta (Sylhet) — so, according to one of the biographies, Yadunandana Dasa also
 says. The
 “Chaitanya-bhagavata” sings of the same: Srivasa Pandita, Srirama Pandita and Sri Chandrashekhara-deva, honoured by the
 three worlds, and with them Murari, the physician of the disease of worldly existence — all these Vaishnavas appeared in
@@ -78,8 +75,7 @@ see Him and look after Him[^4]. <!-- F8 F9 -->
 
 On the day of the Lord's birth Chandrashekhara's wife came to Shachi together with Malini, Srivasa's wife:
 
-“Malini, the wife of Srivasa Thakura, came with Chandrashekhara's wife and many other women. With great joy they
-honoured the infant, offering Him vermilion, turmeric, oil, puffed rice, coconuts, bananas and other fruits.” (CC, Adi
+“Srivasa’s wife, whose name was Malini, came with the wife of Acharyaratna, and the women joyfully worshipped the child with vermilion, turmeric, oil, puffed rice, bananas and many kinds of fruit” (CC, Adi
 13.110)
 
 The women performed all the auspicious rites that are due at a child's birth. <!-- F11 -->
@@ -123,15 +119,13 @@ sang and danced in the mood of the Goddess, devi-bhava — so writes Srila Bhakt
 (Madhya 18) describes this pastime in detail, Murari Gupta and Lochana Dasa sing of it, and the “Charitamrita”
 recalls it in two verses:
 
-“Then in the house of Sri Chandrashekhara Sri Chaitanya played the role of Rukmini in a drama devoted to Krishna's
-pastimes.” (CC, Adi 17.241)
+“Then, in the house of Acharya Chandrashekhara, He enacted Krishna’s pastimes, and the Lord Himself took the forms of Rukmini and others” (CC, Adi 17.241)
 
-“At times Sri Chaitanya played the roles of the goddess Durga, Lakshmi or Yogamaya. Seated on the couch of Vishnu, He
-bestowed on all the devotees divine love for Sri Krishna.” (CC, Adi 17.242) <!-- F16 Q8 Q9 -->
+“At times He became Durga or Lakshmi, at times the spiritual potency (*chit-shakti*) herself; and seated on the couch, He gave the devotees loving devotion” (CC, Adi 17.242) <!-- F16 Q8 Q9 -->
 
 It began when the Lord revealed to the devotees His wish to present the pastimes of Vraja. He called Sadashiva Pandita
 and Buddhimanta Khan and told them to prepare the costumes, indicating who was to wear what (CB, Madhya 18.7).
-Buddhimanta Khan carried it all out and dressed the Lord himself, and the Lord, pleased with his service, was
+Buddhimanta Khan carried it all out and brought the attire to the Lord (CB, Madhya 18.16), and the Lord, pleased with his service, was
 especially merciful to him[^6]. <!-- F17 Q10 -->
 
 Seeing the costumes, the Lord announced that He would dance in the form of Lakshmi, but that only one who had conquered
@@ -224,8 +218,7 @@ Chandrashekhara. In the morning the Master of all the worlds told him: “All th
 perform them: you I have made My representative,” — and Chandrashekhara Acharya, at the Lord's word, carried out all
 that was prescribed (CB, Madhya 28.132–134). The “Charitamrita” says the same:
 
-“The Lord was accompanied by Nityananda Prabhu, Chandrashekhara Acharya and Mukunda Datta. They performed all the
-necessary rites.” (CC, Adi 17.273)
+“With Him were Nityananda, Chandrashekhara Acharya and Mukunda Datta, and these three performed all the rites” (CC, Adi 17.273)
 
 Thus together with Nityananda and Mukunda Datta he performed according to the shastras all that befitted the pastime
 of sannyasa; Murari Gupta adds that “the venerable Acharyaratna, knower of the injunctions, performed the worship of
@@ -251,9 +244,7 @@ his words that Murari relates the Lord's sannyasa and His frenzy in the land of 
 The “Charitamrita” tells of these days differently[^12]. After His sannyasa the Lord in ecstasy rushed towards
 Vrindavana, but Nityananda by a stratagem led Him to the Ganga near Shantipura, and sent Chandrashekhara ahead:
 
-“At that time Sri Nityananda ordered Chandrashekhara: ‘Go quickly to the house of Advaita Acharya. I shall bring Sri
-Chaitanya to Advaita's house. But let Advaita wait for us with a boat on the bank of the Ganga. Then go to Navadvipa
-for Mother Shachi and all the devotees.’” (CC, Madhya 3.20–22)
+“Nityananda Gosani said to Acharyaratna, ‘Go quickly to Advaita Acharya. I shall bring the Lord to His house. Let Him wait ready on the bank with a boat. Then go to Navadvipa and come back with Mother Shachi and the other devotees.’” (CC, Madhya 3.20–22)
 
 Thus through Chandrashekhara the news of the Lord's sannyasa reached the devotees of Shantipura and Navadvipa.
 <!-- F39 Q12 -->
@@ -261,8 +252,7 @@ Thus through Chandrashekhara the news of the Lord's sannyasa reached the devotee
 At Nityananda's word he brought Shachi from Navadvipa to Advaita's house in a palanquin, and the devotees of Navadvipa
 came with them:
 
-“The next morning after Mahaprabhu's arrival Chandrashekhara brought Mother Shachi in a palanquin. Many other devotees
-also came with them.” (CC, Madhya 3.137) <!-- F40 Q13 -->
+“In the morning Acharyaratna came with the devotees, bringing Shachimata in a palanquin.” (CC, Madhya 3.137) <!-- F40 Q13 -->
 
 ## The Puri Years
 The Lord settled in Puri and went travelling through the South. When He returned, the news was sent to Gauda with Kala
@@ -279,13 +269,19 @@ In a conversation with Vallabha Bhatta the Lord, speaking of the Vaishnavas born
 Acharyaratna first, and after him Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara,
 Kashishvara, Mukunda, Vasudeva, Murari and many others (CC, Antya 7.48–49) — and added:
 
-“All of them everywhere preach the glory of chanting the holy names of God and the enchanting beauty of love for
-Krishna. Thanks to all of them I have understood the essence of pure devotion to Krishna.” (CC, Antya 7.50)
+“‘…have preached the name of Krishna and prema throughout the world, and whatever devotion to Krishna I have, I have gained in their company.’” (CC, Antya 7.50)
 <!-- F44 Q14 -->
 
 In Bengal Chandrashekhara was also present, according to one of the biographies, at Nityananda's wedding in
 Badagachhi: there Srivasa, Advaita, Sri Chandrashekhara, Murari Gupta and other devotees of Gaurasundara gathered and
 sang sankirtana. <!-- F46 -->
+
+In Narahari Chakravarti's “Namamrita-samudra” — where he asks the Lord's associates to reveal Gaura's pastimes to him —
+Chandrashekhara is called by his title, Acharyaratna:
+
+“Sri Acharyaratna! May He who expounded the truth through the mouth of the dead son be merciful to me.”
+(“Namamrita-samudra” 152)
+<!-- F55 -->
 
 When and where he left this world, the sources do not say. No biography gives the day of his appearance or of his
 departure, and they are not in our calendar either.

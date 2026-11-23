@@ -6,10 +6,9 @@ Madhavendra Puri came into the world as early as the fourteenth century, long be
 the very source. Before coming into the world, the Lord sends ahead those whom He will honour as parents, teachers and
 elders, so that each of them may serve Him in his own way:
 
-“Before descending to the Earth, Krishna sends here many of His devotees, who accept the roles of His venerable
-forebears, teachers and elders.” (CC, Adi 3.92)
+“When Krishna descends to earth, He first causes His elders to appear” (CC, Adi 3.92)
 
-“Madhavendra Puri, Ishvara Puri, Srimati Shachimata and Jagannatha Mishra appeared together with Advaita Acharya.”
+“Madhavendra Puri, Ishvara Puri, Shachi and Jagannatha appeared, and Advaita Acharya appeared along with them”
 (CC, Adi 3.94)
 
 Elsewhere the “Charitamrita” (Adi 13.52–55) names this circle of elders in greater detail: “Madhava Puri,” Shachi,
@@ -28,11 +27,9 @@ disciple was Advaita Acharya. Gaurachandra would say again and again, “Madhave
 
 Krishnadasa Kaviraja, describing Sri Chaitanya's tree of devotion, begins with him:
 
-“All glory to Sri Madhavendra Puri, the treasury of unalloyed loving service to Krishna! In him this wish-fulfilling
-tree of bhakti first sprouted.” (CC, Adi 9.10)
+“Glory to Sri Madhava Puri, brimming with love for Krishna! He is the first sprout of the wish-fulfilling tree of bhakti” (CC, Adi 9.10)
 
-“Then this seed of the wish-fulfilling tree of bhakti took the form of a new shoot — Sri Ishvara Puri. And soon the
-gardener Himself, Sri Chaitanya Mahaprabhu, became the main trunk of this tree of bhakti.” (CC, Adi 9.11)
+“In the form of Sri Ishvara Puri the sprout grew strong, and then the gardener, Sri Chaitanya Himself, became the trunk of the tree” (CC, Adi 9.11)
 
 The gardener and the trunk of this tree is Mahaprabhu Himself; it was planted in Navadvipa and grew up in Puri and
 Vrindavana. Madhavendra is its first sprout, the one in which the seed of devotion first bore fruit; Ishvara Puri is
@@ -153,14 +150,12 @@ The “Chaitanya-bhagavata” (Antya 4.398) says that Madhavendra and Advaita ar
 Advaita is his disciple. That is why the Lord honoured Advaita as a guru, while Advaita Himself saw in Chaitanya the
 Lord and regarded Himself as His servant — His principal limb (CC, Adi 6.36–41). <!-- F43 F44 Q7 Q22 -->
 
-At about the same time Madhavendra, with his disciple Sri Ranga Puri, a resident of Pandharpur, also visited Sridham
-Mayapur, the house of Jagannatha Mishra. Many years later Ranga Puri told the Lord in Pandharpur:
+At about the same time Madhavendra, with his disciple Sri Ranga Puri (according to one of the biographies, a resident
+of Pandharpur), also visited Sridham Mayapur, the house of Jagannatha Mishra. Many years later Ranga Puri told the Lord in Pandharpur:
 
-“They had taken their meal then in the house of Jagannatha Mishra, and he still remembered the indescribable taste of
-the banana-flower curry.” (CC, Madhya 9.296)
+“He recalled the meal he had taken in the house of Jagannatha Mishra and the wonderful curry of banana flowers he had eaten there.” (CC, Madhya 9.296)
 
-“Jagannatha Mishra's wife had stayed in his memory as a deeply devoted and chaste woman. She showed them such care, as
-though she were the mother of the whole universe.” (CC, Madhya 9.297)
+“‘Jagannatha's wife is a great and chaste lady; in her motherly love she is like the mother of the world.’” (CC, Madhya 9.297)
 
 Shachi fed the sannyasis as if they were her own sons. She and Jagannatha had a worthy son who took sannyasa under the
 name Shankararanya and attained perfection in Pandharpur. <!-- F45 F46 -->
@@ -215,7 +210,7 @@ after His sannyasa. At Remuna, in what is now Baleshvar district, before the Dei
 told His companions about Madhavendra as He had heard it from His guru Ishvara Puri — and explained in passing how
 Gopinatha came by that name:
 
-“In days of old this Deity stole sweet rice for Madhavendra Puri, and so became famous as ‘Kshira-chora Hari.’” (CC,
+“Long ago He stole sweet rice for Madhava Puri, and so He came to be called ‘Kshira-chora Hari’, Hari the thief of sweet rice.” (CC,
 Madhya 4.20) <!-- F60 -->
 
 Coming to Vraja, Madhavendra, intoxicated with love, circled Govardhana Hill, bathed in Govinda-kunda and towards
@@ -233,11 +228,9 @@ the hand, led him to a thicket and said: “I live here and endure cold, rain, w
 village: let them take Me out, carry Me up to the top of the hill, build Me a temple and bathe Me with plenty of cool
 water. Long have I waited for you, thinking: when will Madhavendra come to serve Me?” <!-- F64 F65 -->
 
-“Your love has conquered Me, and I wish to accept your service. Revealing Myself to the world, I shall grant everyone
-liberation from samsara.” (CC, Madhya 4.40)
+“Conquered by your love, I shall accept your service, and by giving My darshana I shall deliver the whole world.” (CC, Madhya 4.40)
 
-“My name is Sri Gopala. I am the One who lifted Govardhana Hill. Krishna's grandson Vajra installed Me here. I am the
-true Lord of this holy abode.” (CC, Madhya 4.41)
+“My name is Sri Gopala; I am the Holder of Govardhana. I was installed by Vajra, and I am the master here.” (CC, Madhya 4.41)
 
 Vajra, the son of Aniruddha and great-grandson of Krishna, had been brought from Dvaraka by the Pandavas and made king
 of Mathura. Later, Gopala said, the pujari who served Him, fearing a Muslim raid, hid Him in this thicket and fled —
@@ -269,18 +262,17 @@ mountain of rice were set pots of soups and vegetables, of milk, yoghurt and whe
 and cream. Madhavendra offered all this together with pitchers of fragrant water, and Gopala, who had long gone
 hungry, ate everything — yet at the touch of His hands everything became as full as before: <!-- F75 F76 -->
 
-“Sri Gopala ate all the offerings, touching them with His hand, but outwardly it was as if nothing had changed.” (CC,
+“Although Gopala ate all the rice and vegetables, by the touch of His hand everything became full again, just as before.” (CC,
 Madhya 4.77)
 
-“Only Madhavendra Puri could see this, for the Lord has no secrets from His dear devotees.” (CC, Madhya 4.78)
+“Madhava Gosani perceived this, for nothing of Gopala's is hidden from him.” (CC, Madhya 4.78)
 
 The people marvelled at Puri's spiritual power: it was as if the ancient annakuta had come again. Then Gopala was
 offered water to rinse His mouth and betel, arati was performed and a new bed was prepared; and when He lay down to
 rest, Madhavendra distributed the prasada — first to the brahmanas, then to all the villagers. The news spread through
 the district, and village after village began to hold such feasts for Gopala: <!-- F76 F77 F78 -->
 
-“The residents of Vrindavana are always inclined to show their love for Sri Krishna, and Sri Krishna always returns
-their love.” (CC, Madhya 4.95)
+“The people of Vraja have a natural love for Krishna, and Gopala has a natural love for the people of Vraja.” (CC, Madhya 4.95)
 
 Madhavendra made all the brahmanas Vaishnavas and gave each of them his own service. A wealthy kshatriya built a
 temple, others a kitchen, a storehouse and an enclosing wall;[^9] every family of Vraja gave a cow, so that Gopala
@@ -315,10 +307,9 @@ temple doors: behind the folds of His garment was hidden a pot of kshira for a s
 sitting in the market; and how He had set it aside the pujari had not noticed, by the will of His yogamaya.[^10] The
 pujari found the kshira where Gopinatha had said and went through the market calling out loudly: <!-- F94 -->
 
-“With the pot of sweet rice in his hands the pujari cried: ‘Madhavendra Puri, answer! Sri Gopinatha Himself has stolen
-this pot for you!’” (CC, Madhya 4.133)
+“‘Let whoever is named Madhava Puri come and take this sweet rice! Gopinatha has stolen it for you.’” (CC, Madhya 4.133)
 
-“‘Take this pot and enjoy the sweet rice. Truly, there is no one more fortunate than you in the whole universe!’” (CC,
+“‘Take it and eat it happily. In the three worlds there is no one as fortunate as you!’” (CC,
 Madhya 4.134)
 
 Madhavendra made himself known. The pujari gave him the kshira, fell at his feet and told him everything; he
@@ -332,11 +323,9 @@ He knew that by morning the news would spread and crowds would come. Fearing fam
 Puri before dawn. But his fame outran him: on seeing Jagannatha he was filled with love, while people who had already
 heard of the miracle came to him in a stream to pay their respects. <!-- F99 F100 -->
 
-“Throughout the world the wayward nature of fame is well known. Even if someone does not desire it, by the grace of
-providence it sometimes comes to him of itself.” (CC, Madhya 4.146)
+“This is the nature of fame, as all the world knows: Providence brings it to the one who does not desire it.” (CC, Madhya 4.146)
 
-“Dreading the honour of all, Sri Madhavendra Puri left Remuna. But fame followed him, born of his pure love for
-Krishna.” (CC, Madhya 4.147)
+“For fear of fame Puri kept running away, yet together with his love for Krishna, fame came rolling after him.” (CC, Madhya 4.147)
 
 Fame comes of itself to one who has love for God, even if he runs from it. <!-- I3 Q14 -->
 
@@ -349,11 +338,9 @@ he had not a single coin. The toll-collectors of Orissa detained him but let him
 letter. Covering a thousand kroshas on this errand, he gave no thought to the hardships — he only rejoiced that he
 would anoint Gopala (CC, Madhya 4.176–186): <!-- F101 F102 -->
 
-“Such is the natural conduct of one who possesses selfless devotion to God: he does not think of his own comfort, and
-no difficulties or sufferings ever trouble him.” (CC, Madhya 4.186)
+“Such is the natural way of deep love: it takes no account of its own sufferings, obstacles and the like.” (CC, Madhya 4.186)
 
-“And to show people the depth of Madhavendra Puri's divine love, Sri Gopala ordered him to bring sandalwood and
-camphor from Jagannatha Puri.” (CC, Madhya 4.187)
+“It was to show the world this deep love of his that Gopala ordered him to bring sandalwood.” (CC, Madhya 4.187)
 
 Gopala gave this order to show the world his love and to test him. He knew how hard it was to carry sandalwood through
 Muslim lands, and by accepting it He made His devotee's labour fruitful: having tested him, He showed His mercy. Deep
@@ -369,22 +356,18 @@ Puri and spent the chaturmasya there. <!-- F103 F104 F105 F106 Q15 -->
 
 Having finished this story, Mahaprabhu asked Nityananda:
 
-“‘O Nityananda,’ the Lord asked, ‘what do you think — could anyone in this world be more fortunate than Madhavendra
-Puri?’” (CC, Madhya 4.171)
+“The Lord said, ‘Consider, Nityananda: there is no one in the world as fortunate as Puri.’” (CC, Madhya 4.171)
 
-“Krishna Himself appeared before him, giving him a pot of milk. Three times, too, He came to him in dreams and gave
-him direct instructions.” (CC, Madhya 4.172)
+“On the pretext of bringing him milk, Krishna showed Himself to him, and three times He came to him in dreams to give him His orders.” (CC, Madhya 4.172)
 
-“Conquered by his pure love, Sri Krishna appeared as Sri Gopala and, accepting his service, delivered the whole
-world.” (CC, Madhya 4.173)
+“Won over by his love, Krishna appeared, and by accepting his service He delivered the world.” (CC, Madhya 4.173)
 
-“For his sake Sri Gopinatha stole sweet rice, becoming known after that as the Deity ‘Kshira-chora Gopinatha.’” (CC,
+“For his sake Gopinatha stole sweet rice, and so He came to be called Kshira-chora, ‘the thief of sweet rice’.” (CC,
 Madhya 4.174)
 
 And the Lord stressed further that Madhavendra had gone the whole way without a second companion:
 
-“He was supremely detached, silent and indifferent to everything. Fearing talk of worldly things, he always lived
-alone.” (CC, Madhya 4.179) <!-- F108 F109 -->
+“He was supremely detached, silent and indifferent to everything, and for fear of worldly talk he kept no companion.” (CC, Madhya 4.179) <!-- F108 F109 -->
 
 ## Disciples and Followers
 Among Madhavendra's disciples the biographies, drawing on the “Chaitanya-bhagavata” and the “Charitamrita,” name
@@ -399,7 +382,7 @@ His guru, says Srila Bhaktisiddhanta, in order to reveal his glory. <!-- F113 F1
 
 Paramananda Puri, a brahmana from Tirhut, likewise received initiation from Madhavendra; the “Chaitanya-bhagavata”
 (Antya 3.178) calls him a dear disciple of Madhava Puri, full of the taste of divine love. For this reason Mahaprabhu
-honoured him as a dear elder, and on first seeing him exclaimed, “Today My sannyasa is fulfilled — it is as if
+honoured him as a dear elder, and on meeting him in Puri exclaimed, “Today My sannyasa is fulfilled — it is as if
 Madhavendra himself has appeared to Me!” (CB, Antya 3.168–175). Later, at the devotees' request, it was he who
 interceded with the Lord on behalf of Chhota Haridasa. In the tree of devotion of the “Charitamrita” he is the middle
 one of the nine roots; the other roots are Keshava Bharati, Brahmananda Puri, Brahmananda Bharati, Vishnu Puri,
@@ -409,16 +392,15 @@ Madhavendra, the second, Ishvara Puri, and the trunk, Mahaprabhu (CC, Adi 9.13�
 Mahaprabhu met Sri Ranga Puri in Pandharpur, in the house of a brahmana where he was staying, and fell at his feet in
 love:
 
-“Seeing Sri Chaitanya before him offering dandavat, Sri Ranga Puri was amazed and exclaimed: ‘O Shripada, please
-rise!’” (CC, Madhya 9.288)
+“Seeing this, Sri Ranga Puri was amazed at heart, and he said, ‘Rise, Shripada!’” (CC, Madhya 9.288)
 
-“‘O Shripada! You are surely connected with my teacher, Sri Madhavendra Puri. Were it not so, there would not be even
-a particle of such divine love in You.’” (CC, Madhya 9.289)
+“‘Shripada, You must have a connection with my Gosani, Madhavendra Puri; without it there is not even a trace of such love anywhere.’” (CC, Madhya 9.289)
 
 Learning that the Lord was a disciple of Ishvara Puri, Ranga Puri was filled with tenderness towards Him, and for
-seven days they spoke of Krishna. From him the Lord first heard that Shankararanya, Vishvarupa, had attained
-perfection right there in Pandharpur. Then Ranga Puri left for Dvaraka; it is said that later, when the Lord returned
-from the south, they met again, and Ranga Puri spent the rest of his life with Him in Purushottama-kshetra.
+five or seven days they spoke of Krishna (CC, Madhya 9.293). From him the Lord heard that Shankararanya, Vishvarupa,
+had attained perfection right there in Pandharpur. Then Ranga Puri left for Dvaraka. Some, as the biographies report,
+hold that he later came to the Lord in Puri and spent the rest of his life in Purushottama-kshetra; the primary
+sources say nothing of this.
 <!-- F119 F120 F121 Q17 -->
 
 Pundarika Vidyanidhi, the guru of Gadadhara Pandita, was also a disciple of Madhavendra; he is believed to have
@@ -426,13 +408,13 @@ received initiation at the same time as Advaita. Mahaprabhu always honoured him 
 godbrother of His own guru (GGD 56; “Prema-vilasa” 22). <!-- F122 F123 F124 Q24 -->
 
 In Mathura Madhavendra came to the house of the Sanodiya brahmana, gave him the mantra and accepted a meal from him.
-This brahmana came from a family of priests of the Sanvar caste, associated with goldsmiths. Bhaktivinoda Thakura
-explains that among the western vaishyas the Agravals are considered pure, while the Kanvars and Sanvars are
+This brahmana came from a family of priests of the Sanovar caste, associated with dealers in gold. Bhaktivinoda Thakura
+explains that among the western vaishyas the Agarwals are considered pure, while the Kalwars and Sanovars are
 considered fallen; their priests are called Sanodiya brahmanas, and sannyasis do not eat at their houses. But
 Madhavendra, seeing in him a Vaishnava, accepted food from him — and thereby showed what daiva-varnashrama is: a
 Vaishnava is not judged by caste. Srila Bhaktisiddhanta calls the Sanodiya brahmana a pure devotee: although by caste
-rules it was forbidden to drink water from his hands, he stood on daiva-varnashrama, and those who judge devotees by
-worldly caste or despise maha-prasada the Lord called wicked fools. <!-- F83 F125 F128 I6 -->
+rules it was forbidden to drink water from his hands, he stood on daiva-varnashrama, and so he fearlessly called fools
+and wicked those who judge devotees by worldly caste and quarrel about maha-prasada. <!-- F83 F125 F128 I6 -->
 
 By Madhavendra's mercy love for Krishna awoke in this brahmana. Many years later, already an old man, he saw the Lord
 dancing in ecstasy in Mathura, at the temple of Keshavaji, fell at His feet and joined in His dance; the people,
@@ -440,14 +422,13 @@ seeing such love, decided that before them was an incarnation of Krishna, while 
 of the king of Vraja and understood at once that He was connected with Madhavendra. In private Mahaprabhu called him a
 venerable, simple-hearted old brahmana and asked him where he had obtained such a treasure:
 
-“The brahmana answered: ‘Once the venerable Shripada Sri Madhavendra Puri came to Mathura during his pilgrimage.’”
+“The brahmana said, ‘Shripada Madhavendra Puri came to the city of Mathura in the course of his wanderings.’”
 (CC, Madhya 17.166)
 
 By his causeless mercy Madhavendra came to his house, accepted him as a disciple and even consented to dine with him
 (CC, Madhya 17.167).
 
-“‘Then Sri Gopala revealed Himself to the world, and Madhavendra Puri established His worship. From that day this
-Deity has been served on Govardhana Hill.’” (CC, Madhya 17.168)
+“‘That great soul brought Gopala to light and served Him, and to this day Gopala is served at Govardhana.’” (CC, Madhya 17.168)
 
 Hearing this, the Lord, as before a godbrother of His guru, bowed down at his feet: “You are My guru, I am your
 disciple, and it is not fitting for a guru to bow to his disciple.” And the brahmana replied that such love does not
@@ -457,8 +438,9 @@ Sanodiya brahmana became His companion in His circuit of the twelve forests of V
 considered how to lead the Lord on to Soro-kshetra and Prayaga. <!-- F126 F127 F279 Q18 -->
 
 Raghupati Upadhyaya of Tirhut, Mithila, a famous scholar, was also a disciple of Madhavendra (according to the
-“Gaudiya-bhashya” on CB, Adi 9.154); his verses are included in the “Padyavali” (99, 127). In Prayaga, in the presence
-of Vallabha Bhatta, he met the Lord, recognised Him as Krishna and spoke with Him about the degrees of excellence (CC,
+“Gaudiya-bhashya” on CB, Adi 9.154); his verses are included in the “Padyavali” (98 and 126 as numbered in the
+“Charitamrita”; 99 and 127 in the Bengali edition of 1911). In Adail, opposite Prayaga, in the house of Vallabha Bhatta,
+he met the Lord, recognised Him as Krishna and spoke with Him about the degrees of excellence (CC,
 Madhya 19.99–100). <!-- F129 -->
 
 Keshava Bharati, of the Bharati order going back to Shankara, head of the matha in Katwa — the one who gave sannyasa
@@ -478,6 +460,13 @@ Vaishnava scriptures. Sanatana Gosvami, in the auspicious opening verses of his 
 of sannyasis, surrounded by disciples, through whom the immortal tree of devotion to Krishna sprouted in the world.”
 <!-- F135 F136 F137 -->
 
+Together with his disciples Ananta and Ishvara Puri, Narahari Chakravarti calls on him in the “Namamrita-samudra,” his
+book of prayers to the Lord's associates:
+
+“Ananta, Ishvara, O Madhavendra Puri! Be merciful and make me drunk with the rasa of Radha and Krishna.”
+(“Namamrita-samudra” 22)
+<!-- F283 -->
+
 Among those who called themselves his disciples was also Ramachandra Puri. Where he came from is unknown. Formally he
 was a sannyasi of one of the ten orders of Shankara; he inclined to dry knowledge and the philosophy of Mayavada — a
 disciple in appearance only. The Lord and Paramananda Puri honoured him as a disciple of Madhavendra, and in Benares
@@ -489,31 +478,24 @@ Towards the end of his life Madhavendra grew weak and could no longer move. He c
 for he was in deep separation — in the mood of Radha after Krishna's departure for Mathura. Like every pure devotee,
 he felt that he had not obtained Krishna's mercy, because he had not become worthy of it. <!-- F138 F139 F140 -->
 
-“When his teacher, the great saint Madhavendra Puri, was on the point of death, Ramachandra Puri came to see him.”
+“Formerly, when Madhavendra Puri was departing from this world, Ramachandra Puri came to him.”
 (CC, Antya 8.16)
 
-“Madhavendra Puri ceaselessly chanted the holy name of Krishna. At times he prayed with tears in his eyes: ‘O my Lord,
-I have never attained shelter in Mathura.’” (CC, Antya 8.17)
+“Puri Gosani was chanting the name of Krishna and weeping: ‘I have not attained Mathura!’” (CC, Antya 8.17)
 
-“Then Ramachandra Puri foolishly instructed him. Without a trace of shame or fear he addressed his teacher:” (CC,
+“Then Ramachandra Puri instructed him. Though a disciple, he spoke to his guru without fear…” (CC,
 Antya 8.18)
 
-“‘You are full of spiritual bliss and should always remember Brahman alone. For if you have realised Brahman, what
-could make you weep?’” (CC, Antya 8.19) <!-- F141 -->
+“‘You are full of the bliss of Brahman — remember it! You are a knower of Brahman: why do you weep?’” (CC, Antya 8.19) <!-- F141 -->
 
-Madhavendra grew angry: “Away, away, you sinner! I am dying of grief that I have not obtained Krishna's mercy and have
-not reached Mathura, and you have come to add to my torment. Do not show me your face, go wherever you like: if I die
-looking at you, an evil destination awaits me. This fool is teaching me about Brahman!” (CC, Antya 8.20–23).
+Madhavendra grew angry: “Away, away, you sinner! <…> I have not attained Krishna's mercy, I have not attained Mathura. I am leaving this world in my own grief, and now this one has come to add to my burning pain! Never show me your face again; go wherever you like! If I leave this world while looking at you, I shall come to an evil end. I am leaving this world in my own grief, not having attained Krishna, and now this wretched fool would teach me about Brahman!” (CC, Antya 8.20–23).
 <!-- F142 -->
 
-“Thus Madhavendra Puri rejected his disciple Ramachandra Puri. This offence against his teacher awakened in
-Ramachandra Puri a multitude of worldly desires.” (CC, Antya 8.24)
+“Sri Madhavendrapada thus disregarded him, and through that offence worldly desires (*vasana*) were born in Ramachandra Puri.” (CC, Antya 8.24)
 
-“Dry, detached realisation of the Absolute does not develop a person's spiritual relationship with Krishna. On the
-contrary, such an impersonalist philosopher soon becomes attached to offences and begins to criticise everyone
-indiscriminately.” (CC, Antya 8.25)
+“A dry knower of Brahman, he had no relationship with Krishna. He found fault with everyone and stubbornly persisted in it.” (CC, Antya 8.25)[^12]
 
-Ramachandra reviled everyone, and everyone reviled him. Srila Bhaktisiddhanta explains in the “Anubhashya” that
+Ramachandra reviled everyone and persisted in reviling. Srila Bhaktisiddhanta explains in the “Anubhashya” that
 Ramachandra did not recognise the transcendental nature of his guru's separation; he took him for an ordinary man and
 his feeling for a worldly one, born of some lack, and set about teaching him the oneness of Brahman. Seeing his
 disciple's foolishness and disrespect, Madhavendra ceased to wish him well and drove him away. The “worldly desires”
@@ -525,23 +507,19 @@ been eating sweets and slandered Him — and fell, as every reviler of the guru 
 
 Quite differently did Ishvara Puri serve his teacher:
 
-“Whereas another of his disciples, Ishvara Puri (the teacher of Sri Chaitanya Mahaprabhu), personally tended
-Madhavendra Puri, cleaning away his urine and stool with his own hands.” (CC, Antya 8.26)
+“Ishvara Puri, however, served Shripada Madhavendra Puri, cleaning away his stool and urine with his own hands.” (CC, Antya 8.26)
 
-“Ishvara Puri constantly helped his teacher to remember Krishna, telling of Krishna's lilas and chanting His holy
-name.” (CC, Antya 8.27)
+“He constantly helped him remember the name of Krishna, and at every moment let him hear Krishna's name and Krishna's pastimes.” (CC, Antya 8.27)
 
-“Fully satisfied with Ishvara Puri, Madhavendra Puri embraced him and blessed him: ‘May you obtain all the wealth of
-divine love for Krishna.’” (CC, Antya 8.28)
+“Pleased with him, Puri Gosani embraced him and gave him a blessing: ‘May you have the treasure of love for Krishna!’” (CC, Antya 8.28)
 
 Of all the disciples he served best. Srila Bhaktivedanta Swami remarks that perfection is attained by the guru's
 mercy, and the apparent infirmity of a Vaishnava only gives his disciples an opportunity to serve. <!-- F146 I9 -->
 
-“Thus Ishvara Puri became like an ocean of love for Krishna, whereas Ramachandra Puri became an inveterate critic.”
+“From then on Ishvara Puri was an ocean of love, while Ramachandra Puri became one who found fault with everyone.”
 (CC, Antya 8.29)
 
-“Thus these two disciples became evidence of the results of the blessing and the rejection of a true saint. Through
-them Madhavendra Puri taught a lesson to the people of the whole world.” (CC, Antya 8.30)
+“The two of them are witnesses of a great soul's mercy and punishment; through these two he taught the people of the world.” (CC, Antya 8.30)
 
 One who pleases a great soul becomes an ocean of love; one who angers him becomes a reviler. A disciple who satisfies
 his guru obtains every good, while the guru's displeasure brings only misfortune. <!-- F147 I1 -->
@@ -554,23 +532,20 @@ verse on his lips:
 *hṛdayaṁ tvad-aloka-kātaraṁ*  
 *dayita bhrāmyati kiṁ karomy aham*
 
-“O Lord, whose heart melts with pity for the wretched! O Lord of Mathura, when shall I see You? Not seeing You, my
-heart wanders in anguish. Beloved, what am I to do?” (CC, Antya 8.32) <!-- F28 F148 -->
+“O Lord, melting with compassion for the wretched! O Lord of Mathura, when shall I see You? My heart, stricken at not seeing You, has lost all rest. O Beloved, what am I to do?” (CC, Antya 8.32) <!-- F28 F148 -->
 
-“With this verse Madhavendra Puri teaches us all how we may obtain pure love for Krishna. Only acute separation from
-Krishna can raise a devotee to the level of this sacred love.” (CC, Antya 8.33)
+“This verse teaches love for Krishna — the special feeling (*bhava-vishesha*) a devotee knows in separation from Him.” (CC, Antya 8.33)
 
-“Before his departure Madhavendra Puri planted in this world the seed of unalloyed love for Krishna. Soon that seed
-became the glorious tree named Chaitanya Mahaprabhu.” (CC, Antya 8.34)
+“He planted the sprout of love on the earth and departed. Sri Chaitanya Thakura is the tree that grew from that sprout of love.” (CC, Antya 8.34)
 
 With this verse, the “Charitamrita” says in another place too (Madhya 4.196), Madhavendra attained perfection at the
 end of his life. His day of departure is honoured on the twelfth lunar day of the bright fortnight of Phalguna — Govinda in the
-Vaishnava calendar (phalguna shukla-dvadashi).[^12] Where it took place the “Charitamrita” does not say.[^13] All that is clear is that by Phalguna of
-1431 Shaka, when Mahaprabhu told of him in Remuna, Madhavendra had already withdrawn from the eyes of the world.[^14]
+Vaishnava calendar (phalguna shukla-dvadashi).[^13] Where it took place the “Charitamrita” does not say.[^14] All that is clear is that by Phalguna of
+1431 Shaka, when Mahaprabhu told of him in Remuna, Madhavendra had already withdrawn from the eyes of the world.[^15]
 <!-- F149 F150 F151 F152 F153 F154 Q20 -->
 
 ## The Day of Remembrance in Advaita's House
-Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Antya 4.441–468).[^15] Once this day fell
+Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Antya 4.441–468).[^16] Once this day fell
 at the time when the Lord, already a sannyasi, was staying with Him at Shantipur (CB, Antya 4.396–397). Advaita
 joyfully spent all He had, and provisions poured in from every side. Gaurasundara with all His companions was happy.
 Ai — Shachi — together with the wives of the Vaishnavas took on all the cooking, Nityananda the reception and
@@ -601,16 +576,13 @@ At Remuna, having told His companions about Madhavendra, Mahaprabhu Himself reci
 intoxicated with love that Nityananda had to catch Him and hold Him up (CC, Madhya 4.197–199). Before that, He spoke
 of the verse thus: <!-- F110 -->
 
-“As the fragrance of Malaya sandalwood grows stronger with rubbing, so the meaning of this verse, when one reflects on
-it, begins to shine with ever new facets.” (CC, Madhya 4.192)
+“Just as the finest Malaya sandal grows more fragrant the more it is rubbed, so does this verse the more one ponders it.” (CC, Madhya 4.192)
 
-“As the Kaustubha gem is acknowledged the best of precious stones, so this verse is the best in the poetic description
-of the divine rasas.” (CC, Madhya 4.193)
+“As the Kaustubha gem is among jewels, so I count this verse among all poetry of rasa.” (CC, Madhya 4.193)
 
-“This verse was spoken by Srimati Radharani Herself, and by Her mercy it came forth from the lips of Sri Madhavendra
-Puri.” (CC, Madhya 4.194)
+“This verse was spoken by Sri Radha Thakurani Herself; by Her mercy it shone forth as the words of Madhavendra.” (CC, Madhya 4.194)
 
-“Sri Chaitanya could relish its secret meaning in full. A fourth who could do so simply does not exist.” (CC, Madhya
+“Besides them, only Gaurachandra relishes it; there is no fourth person who can taste it.” (CC, Madhya
 4.195) <!-- F161 Q16 -->
 
 Bhaktivinoda Thakura explains where the power of this verse lies. The best way to worship Krishna is to follow the
@@ -648,7 +620,7 @@ Vitthala, was not yet born: he came into the world in 1437 Shaka (1515), as Sril
 them at the Lord's feet (CC, Madhya 19.84–112). Vitthalanatha's horoscope, cast by Govindasvami, gives a Friday, the
 ninth lunar day of the dark fortnight of Pausha, 21 dandas 25 palas, the year 1572 of the Vikrama era — 1437 Shaka,
 1515; the Vallabhite author Televala writes that he was born at Charanat near Allahabad and spent his childhood at
-Adel.[^16] <!-- F196 F197 F198 F207 Q28 -->
+Adel.[^17] <!-- F196 F197 F198 F207 Q28 -->
 
 Coming to Vraja, Mahaprabhu, after Radha-kunda and the darshana of Harideva, wished to see Gopala, but He had vowed
 not to climb Govardhana. Then Gopala, “as if out of fear of the Muslims,” came to Him Himself. A rumour of a Pathan
@@ -669,7 +641,7 @@ through a dream by Madhavendra, and found Him on Giriraja; He was then served by
 headman of Anor, told him to wait for Vallabhacharya. Through a dream an architect from Agra, Hiramani, came as well;
 the foundation was laid on a Sunday, the third lunar day of the bright fortnight of Vaishakha, under the nakshatra
 Rohini, in 1556 Vikrama, and twenty years later, in 1576 Vikrama (1441 Shaka, 1519), Vallabha installed the Deity in
-the new temple.[^17] Yadunatha's “Vallabha-digvijaya,” in the section on Vallabha's third journey, likewise says that
+the new temple.[^18] Yadunatha's “Vallabha-digvijaya,” in the section on Vallabha's third journey, likewise says that
 the merchant Puranmal, at the Lord's command, became the acharya's disciple, began digging the foundation on the
 bright tritiya of the month of Madhava, and on the Vaishakha tritiya Govardhana-dhara was installed in the new temple.
 <!-- F167 F177 F180 -->
@@ -707,7 +679,7 @@ Chaitanya and His companions. <!-- F172 F173 F281 Q25 -->
 
 The Vallabhite “Chaurasi Vaishnavan ki Varta” of Gokulanatha tells the same story differently. At first Shrinathji was
 served by Bengalis, and Vallabhacharya appointed Krishnadasa as manager. Krishnadasa was incited to expel the Bengalis
-by Avadhuta Dasa,[^18] to whom Shrinathji Himself supposedly complained that the Bengalis were troubling Him by
+by Avadhuta Dasa,[^19] to whom Shrinathji Himself supposedly complained that the Bengalis were troubling Him by
 secretly offering food first to a little goddess hidden in a knot of hair. Vitthalanatha said that within a year the
 Bengalis had carried off to their guru nearly a lakh of rupees collected in the east for ornaments, but after all it
 was the Acharyaji himself who had appointed them. Krishnadasa obtained letters to Todarmal and Birbal, set fire to the
@@ -747,20 +719,19 @@ on the seventh lunar day of the dark fortnight of Phalguna 1623 of the Vikrama e
 <!-- F183 F192 -->
 
 Hearing that Gopala was in Mathura, Rupa Gosvami came with his companions from Vrindavana and stayed a whole month in
-Mathura, in Vitthala's house at Satghara, beholding Gopala:[^19]
+Mathura, in Vitthala's house at Satghara, beholding Gopala:[^20]
 
-“Sri Rupa with his companions also spent a whole month in Mathura, beholding this Deity.” (CC, Madhya 18.48)
+“Then Rupa Gosani took all his associates with him, stayed in Mathura for a month and had darshana of Gopala.” (CC, Madhya 18.48)
 
-“He was accompanied by Gopala Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa
-Gosvami.” (CC, Madhya 18.49)
+“With him were Gopala Bhatta, Raghunatha Dasa, Raghunatha Bhatta Gosani and Lokanatha…” (CC, Madhya 18.49)
 
-“Bhugarbha Gosvami, Sri Jiva Gosvami, Sri Yadava Acharya and Govinda Gosvami.” (CC, Madhya 18.50)
+“Bhugarbha Gosani, Sri Jiva Gosani, Sri Yadava Acharya, Govinda Gosani…” (CC, Madhya 18.50)
 
-“Sri Uddhava Dasa, Madhava, Sri Gopala Dasa and Narayana Dasa.” (CC, Madhya 18.51)
+“Sri Uddhava Dasa and Madhava, Sri Gopala Dasa and Narayana Dasa…” (CC, Madhya 18.51)
 
-“Also the great devotee Govinda, Vani Krishnadasa, Pundarikaksha, Ishana and Laghu Haridasa.” (CC, Madhya 18.52)
+“…the devotee Govinda, Vani Krishnadasa, Pundarikaksha, Ishana and Laghu Haridasa.” (CC, Madhya 18.52)
 
-“After a month Sri Gopala went to His temple, and Sri Rupa Gosvami returned to Vrindavana.” (CC, Madhya 18.54)
+“After staying for a month, Gopala went back to His own place, and Sri Rupa Gosani returned to Sri Vrindavana.” (CC, Madhya 18.54)
 
 Rupa and his companions were so delighted with Vitthalanatha's service that they lived with him for a month;
 Raghunatha Dasa praised this service of Gopala in the “Gopala-raja-stotra” (13–14). Later, according to the
@@ -900,7 +871,7 @@ Aurangzeb, and Dvarakesha Maharaja of the Vallabha sampradaya restored it about 
 Over the centuries many traditions grew up around Madhavendra's Gopala, and by no means all of them are friendly to the
 Gaudiyas. Above they were mentioned briefly; here the most telling of them are gathered — together with what the
 Gaudiya biographies answer. The Vallabhite works are reported as the books themselves tell them, and the judgements as
-the biographies of the Gaudiya Vaishnavas give them.[^20] <!-- F271 F272 F273 F274 F275 F276 F277 F278 Q37 -->
+the biographies of the Gaudiya Vaishnavas give them.[^21] <!-- F271 F272 F273 F274 F275 F276 F277 F278 Q37 -->
 
 ### Vallabha, Vyasatirtha and Vishnusvami
 Even the meeting at Arail the Vallabhite books tell in their own way. According to the “Nij-varta” and the
@@ -985,13 +956,13 @@ has none of — like his commentary on the “Krishna-premamrita” and the “S
 their influence. He admits also the price of the shrine's passing: when Giridhara moved it to his own house in Mathura
 (in samvat 1623) and Vitthaleshvara elaborated the service, it became the exclusive possession of the Vallabhites, the
 Bengali Vaishnavas forgot their early connection with it, and the mass of Vaishnavas lost access to it — though the aim,
-according to Televala, was only to remove the Bengalis, and hardly did Vitthaleshvara or “Vallabhacharya”[^21] wish for
+according to Televala, was only to remove the Bengalis, and hardly did Vitthaleshvara or “Vallabhacharya”[^22] wish for
 such an outcome. <!-- F243 F244 F245 F250 F251 -->
 
 ### At Govinda-kunda and After
 How the Gaudiyas fared at Govardhana later on can be seen from the stories that a disciple of Srila Bhaktisiddhanta heard
 at Govinda-kunda on 18 October 1932. Manohara Dasa Babaji there called the bhajana of the holy name “bhakti turned
-outward,” and hearing of the lilas “bhakti turned inward.”[^22] His disciple Ananta Dasa related that the Vallabhites,
+outward,” and hearing of the lilas “bhakti turned inward.”[^23] His disciple Ananta Dasa related that the Vallabhites,
 who held sway at the kunda, mocked the Gaudiyas, nicknaming them “an-magi,” until Manohara Dasa began to teach boys
 grammar and the “Bhagavatam” so that they might live by expounding it — then the gosains yielded the Gaudiyas a little
 room; and when Ramasvarupa Mishra, priest of the gosain Ranchhorlalji, took initiation from him and the Vallabhites were
@@ -1021,7 +992,7 @@ conversation with Mahaprabhu and Sanatana's questions about sadhana and sadhya. 
 instruction of the “Bhakti-rasamrita-sindhu” (1.2.295) on serving both in the form of a sadhaka and in the siddha form,
 following the residents of Vraja, excusing themselves on the ground that the corrupted society of Gaudiyas thinks so —
 and this betrays only inexperience in bhajana: remembrance of the eight periods of the day not awakened by kirtana is
-artificial and is not the path of the Gosvamis.[^23] <!-- F263 F264 F265 F266 F267 F268 F269 F270 Q33 Q34 I13 I14 -->
+artificial and is not the path of the Gosvamis.[^24] <!-- F263 F264 F265 F266 F267 F268 F269 F270 Q33 Q34 I13 I14 -->
 
 ## Significance
 Madhavendra Puri opened in the line of Madhva what had not been in it before — love for Krishna in separation; and
@@ -1068,31 +1039,35 @@ made it their standard. <!-- F29 I2 -->
     world are subject, but yogamaya — the Lord's internal potency, which serves His lilas.
 [^11]: According to one of the biographies, in the year 1432 of the Shaka era; elsewhere the same biography places the
     Lord's sannyasa in 1431.
-[^12]: So in one of the biographies and in the Vaishnava calendar of the Sri Chaitanya Saraswat Math, where this day is
+[^12]: The Russian translation of these two verses renders the single Bengali word *vasana*, “desire” (for Srila
+    Bhaktisiddhanta, the desire for dry knowledge), as “a multitude of worldly desires”; *upeksha karila*, “disregarded,”
+    as “rejected”; and *shushka-brahma-jnani*, “a dry knower of Brahman,” as “impersonalist philosopher.” The English
+    here follows the Bengali.
+[^13]: So in one of the biographies and in the Vaishnava calendar of the Sri Chaitanya Saraswat Math, where this day is
     the Gaura-dvadashi of the month of Govinda. Murari Gupta in his “Kadacha” (4.15.8–9) names as the day of Madhava
     Puri's remembrance, which Advaita observed, the twelfth lunar day of the bright fortnight not of Phalguna but of
     Chaitra.
-[^13]: One of the biographies says that he departed at Remuna. The Vallabhite author Televala writes that he departed
+[^14]: One of the biographies says that he departed at Remuna. The Vallabhite author Televala writes that he departed
     in the south, where he had gone for sandalwood, at the age of about a hundred and thirty; according to the “252
     Vartas,” there in the south he anointed a certain Hima-Gopalji with sandal paste and entered the eternal lila.
-[^14]: According to one historical report, Vitthalanatha, Vallabhacharya's son, was born thirty-two years after
+[^15]: According to one historical report, Vitthalanatha, Vallabhacharya's son, was born thirty-two years after
     Madhavendra's departure. If Vitthalanatha was born in 1515, the departure would fall around 1483 — before the
     Lord's appearance, which is hard to reconcile with the “Chaitanya-bhagavata” and the “Charitamrita”: Nityananda
     meets Madhavendra in the years of His wanderings, which began when He was twelve — that is, after the Lord's
     appearance.
-[^15]: The “Chaitanya-bhagavata” calls this festival “the day of the worship (aradhana) of Madhava Puri”; one of the
+[^16]: The “Chaitanya-bhagavata” calls this festival “the day of the worship (aradhana) of Madhava Puri”; one of the
     biographies calls it a festival on the day of the guru's appearance.
-[^16]: The sources name the month of Vitthalanatha's birth differently: the horoscope gives Pausha, Televala
+[^17]: The sources name the month of Vitthalanatha's birth differently: the horoscope gives Pausha, Televala
     Margashirsha (the ninth lunar day of the dark fortnight, samvat 1572).
-[^17]: According to another report, it was in 1499, on the second lunar day of the bright fortnight of Chaitra, that
+[^18]: According to another report, it was in 1499, on the second lunar day of the bright fortnight of Chaitra, that
     Vallabhacharya installed Gopala on Giriraja, whereas according to the “Nij-varta” on that night Puranmal merely
     received in a dream the command to build the temple.
-[^18]: According to Televala, the protest against the Bengalis was raised by a certain Anantadasa.
-[^19]: The reason for Gopala's move to Mathura is given differently. The “Charitamrita” says that Gopala came to
+[^19]: According to Televala, the protest against the Bengalis was raised by a certain Anantadasa.
+[^20]: The reason for Gopala's move to Mathura is given differently. The “Charitamrita” says that Gopala came to
     Mathura ostensibly out of fear of the Muslims, and so the aged Rupa, no longer able to walk to Govardhana, saw
     Madhavendra's Deity. According to Televala, Giridhara moved Him to his own house, probably to assert his
     authority.
-[^20]: The biographies cite these works in the Vallabhites' own editions: “Sri Vallabhacharyaji ki Nij-varta” (the
+[^21]: The biographies cite these works in the Vallabhites' own editions: “Sri Vallabhacharyaji ki Nij-varta” (the
     manuscript was obtained from Sarasvati, daughter of Seth Mangal Dasa Giridhar Dasa of Ahmedabad; first printed in
     1959 Vikrama from four manuscripts, then in Ahmedabad at the Viravijaya Press — by Manilal Chhaganlal, 1979, and by
     Lalubhai Chhaganlal Desai, 1990 Vikrama); the “Sampradaya-pradipa,” Sanskrit prose ascribed to Pandita Gadadhara
@@ -1111,12 +1086,12 @@ made it their standard. <!-- F29 I2 -->
     ignorance go down”), the Gujarati “Kanakabhisheka ka Itihasa,” the “Purva-guru-shamsana-vivarana” of Brajanatha,
     the “Ghar-varta,” the “Sri Radha-ramanera seva-prakata,” F. S. Growse's “Mathura” (2nd ed., 1880) and the journal
     “Gaudiya” (year 5, nos. 22–23) with Srila Bhaktisiddhanta's letter on Nathdvara.
-[^21]: So in Televala, although Vallabhacharya had departed as early as 1530, long before Gopala was moved to Mathura
+[^22]: So in Televala, although Vallabhacharya had departed as early as 1530, long before Gopala was moved to Mathura
     (1567).
-[^22]: These are the babaji's own words. Srila Bhaktisiddhanta teaches otherwise: the kirtana of the holy name is not
+[^23]: These are the babaji's own words. Srila Bhaktisiddhanta teaches otherwise: the kirtana of the holy name is not
     “outward” bhakti but the foundation of bhajana, and remembrance of the lilas that is not awakened through kirtana is
     artificial (see below, at the end of the section).
-[^23]: The sakhi-bhekis are those who, imitating the sakhis of Vraja, outwardly assume a woman's guise; Srila
+[^24]: The sakhi-bhekis are those who, imitating the sakhis of Vraja, outwardly assume a woman's guise; Srila
     Bhaktisiddhanta counted them, like the sahajiyas, among the currents that have fallen away from Mahaprabhu's
     teaching. The inner, siddha form of service is not invented or displayed outwardly: it is revealed by the mercy of
     the guru and the Vaishnavas in a heart purified by the kirtana of the holy name — which is why remembrance not

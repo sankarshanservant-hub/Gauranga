@@ -12,15 +12,15 @@ Lord and that the mere remembrance of him can destroy all the fetters of worldly
 He belongs to those eternal associates of the Lord who came into the world before Him and awaited His descent:
 
 “By the order of Lord Chaitanya many of His eternal associates, such as Sri Chandrashekhara, Jagadisha, Gopinatha
-Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born secretly in Nadia before His
-coming.” (CB, Adi 2.98–99)[^1]
+Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born before His coming and lived
+hidden in Nadia.” (CB, Adi 2.98–99)[^1]
 
 Advaita Acharya, the incarnation of Maha-Vishnu, called Krishna to descend to earth for the deliverance of all, and the
 Lord desired that those who were to be His elders in His pastimes — the guru-varga — should appear before Him.
 Gangadasa Pandita is one of them: in the Lord's lila he became His teacher. <!-- F6 F7 Q7 -->
 
-Where exactly he was born, the sources do not say quite alike. According to the “Chaitanya-bhagavata,” it was Nadia;
-the translation of the “Charitamrita,” however, says that Nityananda Prabhu, Gangadasa Pandita, Murari Gupta and Mukunda
+Where exactly he was born, the sources do not say quite alike. The “Chaitanya-bhagavata” says only that he lived in
+Nadia; the translation of the “Charitamrita,” however, says that Nityananda Prabhu, Gangadasa Pandita, Murari Gupta and Mukunda
 were born in Radha-desha (Adi 13.61)[^2]. <!-- F8 Q6 -->
 
 Even before the Lord's advent, when Advaita Acharya returned to Bengal, the local Vaishnavas — Srivasa, Chandrashekhara,
@@ -238,7 +238,7 @@ Having taken sannyasa, the Lord came to Shantipura, to the house of Advaita Acha
 hastened there to Him, Gangadasa among them[^7]. The “Charitamrita” names him among those who were there with the
 Lord:
 
-“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
+“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari, Shuklambara…” (CC, Madhya 3.153)
 <!-- F49 -->
 
 When the Lord settled in Puri, Gangadasa was among the earliest devotees from Bengal who set out to see Him there,
@@ -247,18 +247,16 @@ Jagannatha is hidden from view (anavasara), and Mahaprabhu, unable to bear the s
 Alalanatha; but on learning that the devotees from Gauda had come, He returned at once. King Prataparudra and
 Sarvabhauma watched the arriving Vaishnavas from the palace roof, and Sarvabhauma named each one to the king:
 
-“And this is Acharyaratna, Purandara Pandita, Gangadasa Pandita and Shankara Pandita.” (CC, Madhya 11.85)
+“This is Acharyaratna, that is Purandara Pandita; this is Gangadasa Pandita, that is Shankara Pandita.” (CC, Madhya 11.85)
 <!-- F50 F51 F52 Q14 -->
 
 The Lord came out to meet His devotees and, before the eyes of the people of Puri, honoured each one:
 
-“Thus Sri Chaitanya embraced and respectfully glorified all His devotees, such as Acharyaratna, Vidyanidhi, Pandita
-Gadadhara, Gangadasa, Hari Bhatta and Acharya Purandara.” (CC, Madhya 11.159–160) <!-- F53 Q15 -->
+“Acharyaratna, Vidyanidhi, Gadadhara Pandita, Gangadasa, Hari Bhatta and Acharya Purandara — the Lord sang the virtues of each of them, embraced them again and again, and so honoured them.” (CC, Madhya 11.159–160) <!-- F53 Q15 -->
 
 At the Ratha-yatra Mahaprabhu divided the devotees into seven kirtana groups:
 
-“Advaita Acharya was appointed the dancer of the first group. Then the Lord formed the second group, in which the lead
-singer was Srivasa.” (CC, Madhya 13.38)
+“He ordered Advaita to dance there. Then He formed another group with Srivasa as the leader…” (CC, Madhya 13.38)
 
 To sing the responses to Srivasa, according to the “Charitamrita,” were Gangadasa, Haridasa, Shriman, Shubhananda and
 Sri Rama Pandita, and the dancer of this group was Sri Nityananda (Madhya 13.39)[^8]. In each of the seven groups the
@@ -268,9 +266,7 @@ and was so absorbed in this bliss that He paid no heed at all to His own nature[
 Year after year Gangadasa came from Gauda to Puri together with the other Vaishnavas; the “Charitamrita,” listing
 those who went there in one of these years, names him too:
 
-“Together with everyone there also went Vasudeva Datta, Murari Gupta, Gangadasa, Shrimana Sena, Shriman Pandita,
-Akinchana Krishnadasa, Murari, Garuda Pandita, Buddhimanta Khan, Sanjaya Purushottama, Bhagavan Pandita, Shuklambara
-Brahmachari and Nrisimhananda Brahmachari.” (CC, Antya 10.9–11)
+“Vasudeva Datta, Murari Gupta, Gangadasa, Shriman Sena, Shriman Pandita, Akinchana Krishnadasa, Murari, Garuda Pandita, Buddhimanta Khan, Sanjaya Purushottama, Bhagavan Pandita, Shuklambara, Nrisimhananda and all the others set out.” (CC, Antya 10.9–11)
 
 The “Chaitanya-bhagavata” says the same: when the time of the Ratha-yatra drew near, “joyfully set out the pandit
 Gangadasa, the remembrance of whom destroys the bonds of karma” (Antya 8.9), and Murari Gupta calls him “the pandita
@@ -336,8 +332,8 @@ worshipped by the fourteen worlds? <!-- F32 F57 I4 I5 -->
 
 [^1]: In one place one of the biographies refers here to the “Chaitanya-bhagavata,” Adi 9.98–99; read Adi 2.98–99.
 [^2]: The Bengali line of the “Charitamrita” allows another reading as well: Nityananda appeared in Radha-desha, while
-    Gangadasa, Murari and Mukunda appeared elsewhere; so one of the biographies understands it. This agrees with the
-    words of the “Chaitanya-bhagavata” that Gangadasa was born in Nadia.
+    Gangadasa, Murari and Mukunda appeared elsewhere; so one of the biographies understands it. Neither reading contradicts
+    the “Chaitanya-bhagavata,” which says only that Gangadasa was born before the Lord and lived in Nadia.
 [^3]: The biographies often take this verse to mean that Gangadasa is Sandipani Muni himself. The verse itself,
     however, says “like unto Sandipani” (*ye-hena sāndīpani*); on whom Sandipani became in the Lord's pastimes, see
     below, in the section “In the Pastimes of Rama and Krishna.”

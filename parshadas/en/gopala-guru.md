@@ -230,8 +230,7 @@ Manjumedha, Sumadhura, Sumadhya, Madhurekshana, Tanumadhya, Madhusudha, Gunachud
 magnanimous Gopala Guru is her maidservant, her anugopi; by Chaitanya's mercy his siddha name is Manjumedhika.” Thus
 in Vraja he is the sakhi Manjumedha, the maidservant of Tungavidya[^7]. <!-- F51 F52 Q6 -->
 
-[^1]: So teaches the Lord Himself: “The chanting of Your names grants all perfection and is bound by no rules of
-    time or place: they may be chanted even while eating or resting” (CC, Antya 20.18; cf. “Shikshashtaka,” 2). Through
+[^1]: So teaches the Lord Himself: “Whether eating or lying down, wherever one may be, one can chant the name. There are no rules of time or place, and through the name all perfection comes” (CC, Antya 20.18; cf. “Shikshashtaka,” 2). Through
     the boy's lips the Lord's own teaching was voiced.
 [^2]: Other accounts tell of the name differently. The song about Gopala Guru says that the boy was explaining a
     certain rule of devotion to another child, and the Lord in ecstasy told everyone, “From today I shall call Gopala

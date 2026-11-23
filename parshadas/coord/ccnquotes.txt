@@ -1,0 +1,13 @@
+You are a coordinator-helper in repo /home/user/Gauranga (branch claude/gracious-shannon-knppn0). Read /home/user/Gauranga/CLAUDE.md first and obey it. Russian is the working language.
+
+Git: commit only your own files (`git commit -- <files>`), then `git pull -q --rebase origin claude/gracious-shannon-knppn0 && git push -q -u origin claude/gracious-shannon-knppn0` (NO --autostash, no stash/reset/checkout of others' files; if pull is blocked by others' uncommitted files — git fetch, and if origin not ahead, just push). Trailer:
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01BwcRnu5BQdqmrpCubezm5n
+
+Task (user's request): bring all quotations from our Russian translation of «Чайтанья-чандродая» (chaitanya-chandrodaya/ru/01–10.md, just re-cased: pronouns about the Lord capitalized, «бог Курма/Джаганнатха» → «Господь …», «изваяние» → «Божество» for Gopinatha; see chaitanya-chandrodaya/README.md and git log for those commits) in the parshadas articles into line with the new text.
+1. Find every quotation of ЧЧН in parshadas/ru/*.md (markers like «ЧЧН», «Чайтанья-чандродая», act/verse refs; also facts/*.md Q-quotes). For each, locate the passage in the current chaitanya-chandrodaya/ru text and update the quote so it matches verbatim (case, «Господь» etc.). Where an article deliberately abridged a quote, keep the abridgement but fix the case. Don't change our own paraphrase except pronouns about the Lord that are already capitalized elsewhere in the article.
+2. Do the same check for quotations from «Према-виласа» and «Чайтанья-чандрамрита» (their pronouns were capitalized earlier this session — see git log) — fix any quote still in the old case.
+3. For each touched article: `python3 parshadas/check.py <tag>` → OK; rebuild its PDF with parshadas/tools/build-pdf.sh (use the same output name/title as before — see `git log --stat` and the «# » heading). Commit in portions (a few articles per commit).
+4. Then in parshadas/PLAN.md replace the sentence «Открыто: цитаты ЧЧН в статьях parshadas — привести к новому регистру местоимений.» with «Цитаты ЧЧН (и ПВ, ЧЧМ) в статьях приведены к новому регистру (2026-11-15).» and commit.
+
+Report briefly in Russian: how many articles/quotes changed per book, PDFs rebuilt, commits, anything ambiguous.

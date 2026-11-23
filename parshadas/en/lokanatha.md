@@ -1,0 +1,497 @@
+# Lokanatha Gosvami
+*Локанатха Госвами · @lokanatha*
+
+## The Seventh Gosvami
+Srila Lokanatha Gosvami Prabhu is honoured as an eternal associate of Sri Chaitanya and one of His closest devotees.
+Srila Bhaktisiddhanta Sarasvati in his “Anubhashya” calls him a completely detached associate of Mahaprabhu, a
+maha-bhagavata and a gosvami. Narottama's songs call him “Prabhu Lokanatha,” the “Karnananda” “Gosani Lokanatha,” and
+by family he was a Chakravarti, the son of Padmanabha Chakravarti. One of the biographies also regards him as a direct
+disciple of Mahaprabhu. <!-- F1 F3 -->
+
+Among the Gosvamis of Vrindavana he was the eldest. He was the first of Chaitanya's devotees to come to Vraja, before
+Rupa and Sanatana, and he lived there so long that by the time of the “Chaitanya-charitamrita” he was the oldest of
+Mahaprabhu's devotees still remaining in this world; it was to him, already a very old man, that his only disciple
+Narottama came. Together with his inseparable friend Bhugarbha he is honoured as the seventh Gosvami, after the six
+Gosvamis of Vrindavana. <!-- F4 -->
+
+Less is known of him than of many other associates of the Lord, and not by chance. He himself forbade Krishnadasa
+Kaviraja to write about him, and in the “Chaitanya-charitamrita” only his name remains. Everything else was preserved by
+later books and by the tradition of the Vaishnavas of Vraja. <!-- F58 -->
+
+## From Talkhari
+Lokanatha was born in the village of Talkhari (Talakhadi) in the district of Yashohar (Jessore) in East Bengal — today
+Bangladesh. Narahari Chakravarti in the “Bhakti-ratnakara” calls the village Talakhaida. His parents, Padmanabha
+Chakravarti and Sita Devi, were deeply pious brahmanas:[^1]
+
+“He lived in the village of Talakhaida in the land of Yashohara; his mother was Sita, his father Padmanabha Chakravarti.”
+(“Bhakti-ratnakara” 1.296) <!-- F5 F7 -->
+
+Earlier the family had lived in Kanchrapara.[^2] Padmanabha was a disciple of Advaita Prabhu and very dear to him;
+according to one biography, both parents were Advaita's disciples. The “Narottama-vilasa” adds that Padmanabha
+constantly went to Nadia to see Gauranga, and that Sita dedicated her son to the feet of Gaurachandra. <!-- F6 F8 F81 -->
+
+The “Advaita-prakasha,” a less reliable source, tells more: according to it, Lokanath Chakravarti studied under Advaita
+together with Gadadhara and Gaura, became learned in the “Bhagavata,” received the Krishna mantra from Advaita, and
+Advaita entrusted him to Nimai; and Gaura, travelling in East Bengal, visited Padmanabha's house. <!-- F84 -->
+
+On how many children the family had, the sources differ. Srila Bhaktisiddhanta in the “Anubhashya” names Lokanatha's
+only younger brother, Pragalbha; his descendants, the Bhattacharyas of Talakhadi, live there to this day.[^3] The same
+note gives the way to Talakhadi: by the Eastern Bengal Railway to Yashohar station, from there by bus to Sonakhali, then
+to Khejura, and on foot from there — in the rains, by boat. <!-- F9 F10 -->
+
+## Childhood
+Lokanatha grew up among genuine Vaishnavas, and the signs of a strong love for God showed in him from his earliest years.
+His sharp mind and rare gift for Sanskrit amazed all who knew him. But learning was not his aim: whenever he heard the
+names “Krishna,” “Govinda,” “Madhava,” “Hari,” he was lost in them, and tears came to his eyes. His heart was
+not in worldly affairs, and even living at home he remained detached. <!-- F11 F12 -->
+
+Meanwhile the name of Gauranga spread through the land, and everyone came to know that He is Lord Krishna Himself. The
+heart of Lokanatha, an eternal associate in whom bhakti was inborn, answered the news. He was irresistibly drawn to
+Gauranga's feet, and his anxiety grew day by day. From his home to Navadvipa-Mayapura was only two days' walk.
+<!-- F13 F14 -->
+
+His parents, pious themselves, did not want to let their son go. His mother begged him in tears to give up the idea, but
+her pleading only strengthened his resolve. Though they were Advaita's disciples and longed to see Gauranga, they never
+went to Him themselves: they feared that their son, once he met the Lord, would follow Him and never come back. “It is
+our great good fortune to have such a son,” they said, “but is it pleasing to God that you leave your parents? Serve
+Him at home.” <!-- F15 F16 -->
+
+At last his parents secretly resolved to marry him, though he was still a boy. One of the biographies calls this a
+mistake and recalls Raghunatha Dasa: he too was married to a beautiful wife and, when he once ran away, was caught and
+brought back, yet he could not be held. Learning of the plan, Lokanatha left home at the first opportunity.[^4] <!-- F17
+-->
+
+## A Night in Agrahayana
+He left in the month of Agrahayana (Margashirsha), at the beginning of winter, on a moonlit night: an inner voice was
+calling him. So he left his parents and his home for ever.[^5] Heedless of hunger, thirst, fatigue and the roughness of
+the way, he walked without stopping and by the evening of the next day reached Navadvipa-Mayapura. <!-- F18 F19 -->
+
+On the way he was tormented by doubts: was he destined to see the Lord's feet? Was he, so insignificant, worthy? His
+only comfort was the thought of the Lord's mercy. In Navadvipa someone, though he had asked nothing, pointed out the
+Lord's house to him. At the door he could not bring himself to enter: his body grew heavy, his strength and
+consciousness left him. <!-- F20 F21 -->
+
+## With the Lord in Navadvipa
+The Lord was sitting among Srivasa, Murari, Mukunda, Haridasa and other devotees. He was told of the newcomer, and at
+once He came out, embraced the youth with great tenderness and said: “Dear Lokanatha, why did you forget Me for so long?
+For many days I have been thinking of you.”[^6] <!-- F22 -->
+
+Lokanatha fainted on the Lord's chest. When he came to, he could only weep, clasping His feet: the prayers he had been
+preparing all the way were never spoken. For several days he remained half-conscious of the outer world, like one
+dreaming, in bliss he had never known, and all that time the Lord was in his heart. <!-- F23 F24 -->
+
+## The Messenger Sent Ahead
+One day the Lord said to him: from the time Lokanatha had grown attached to Him, merely by hearing of His name and
+glories, He had felt deep affection for him; and now it was His wish that Lokanatha should go and live in Vrindavana.
+The “Bhakti-ratnakara” says:
+
+“Prabhu Gaurachandra showed him great mercy and ordered him to go to Vrindavana quickly. Such an order was not without
+purpose: the Lord was soon going to accept sannyasa. Having become a sannyasi He would go to Vrindavana — that is why He
+wished to send him ahead.” (“Bhakti-ratnakara” 1.300–302) <!-- F25 -->
+
+Gently as it was spoken, the order struck Lokanatha like lightning. Why should the Lord send him away while others
+stayed with Him? He pleaded that he not be sent where His sankirtana and His sweet words could not be heard. <!-- F26 -->
+
+The Lord answered tenderly that separation was hard for Him too. Now it was Agrahayana, then would come Pausha, and in
+Magha He would accept sannyasa. Let Lokanatha go before Him as His messenger and await Him at Chira-ghata in Vrindavana:
+He would come there, and other Vaishnavas would come too. Meanwhile the lost places of Krishna's pastimes should, as far
+as possible, be found and restored; the wait would not be long. <!-- F27 -->
+
+According to one biography, it was Lokanatha who first learned of the Lord's coming sannyasa — before even Nityananda,
+His second self.[^7] This shows how dear and beloved he was to the Lord. <!-- F28 I2 -->
+
+According to the “Bhakti-ratnakara,” the Lord did not name the time directly: Lokanatha understood from His hints that
+in a day or two the Lord would accept sannyasa.[^8] He pictured the Lord without His beautiful curls, pictured the grief
+of the devotees — and wept:
+
+“‘His beautiful curling hair will be seen no more — how will those who love Him keep their lives?’ At these thoughts
+alone he was thrown into turmoil and, weeping, bowed at the Lord's feet.” (“Bhakti-ratnakara” 1.304–305) <!-- F29 -->
+
+But he did not dare disobey. Laying his head on the Lord's feet, he bathed them with tears, joyfully accepted the order
+and asked to be shown what he should do. He surrendered himself completely to the Lord. The Lord embraced him — and
+every place of the Vrindavana pastimes opened within Lokanatha's heart. The Lord told him to perform bhajana at
+Chira-ghata, beneath a dense canopy of kadamba, bakula and tamala, and comforted him with instructions: “We shall meet
+in Vrindavana.” <!-- F30 F31 -->
+
+“The all-knowing Lord embraced Lokanatha, secretly comforted him and sent him off. Lokanatha gave himself to the Lord's
+feet, bowed to the Lord's associates and departed.” (“Bhakti-ratnakara” 1.306–307) <!-- Q4 -->
+
+The “Prema-vilasa,” a less reliable source, says that in that secret conversation the Lord revealed to Lokanatha the
+bhava of Radha and the reason for His sannyasa. He told him to live at Chira-ghata, at Rasa-sthali and Nidhuvana, and to
+instruct people: “I have given you My own land, Vrindavana, as a gift.” <!-- F82 -->
+
+The next morning Bhugarbha, a disciple of Gadadhara Pandita, set out with Lokanatha: Gadadhara let him go, and the Lord
+looked on them with approval. Thus these two became the first of Chaitanya's devotees to leave for Vrindavana; Lokanatha
+was the first of the Gaudiya Vaishnavas to be sent there by the Lord.[^9] How this came about is told in more detail in
+the article on Bhugarbha. <!-- F32 F33 -->
+
+## To Vraja
+For about two months the friends walked, without money, living on alms: through Rajmahal, Tejpur, Purnia, Ayodhya,
+Lucknow and Agra. Vraja met them with desolation: the holy places were overgrown with forest and forgotten. For a long
+time they could not find Chira-ghata with its Kadamba-kunja, nor Vamshivata, Shyama-kunda or Radha-kunda; they wept and
+called to Radha and Krishna, as if mad with love. The “Prema-vilasa” says that by the Lord's power Lokanatha recognised
+the places of His pastimes. <!-- F34 -->
+
+## Searching for the Lord
+Meanwhile the Lord accepted sannyasa and went south, where He travelled for two years, and then came to
+Vrindavana.[^10] But Lokanatha was not there. According to one biography, on hearing of the Lord's journey south, he and
+Bhugarbha — Lokanatha above all — went south to find Him, and so for the whole two months that the Lord spent in Vraja
+they were away. <!-- F35 -->
+
+The “Bhakti-ratnakara” tells of the search thus: after sannyasa the Lord came to Nilachala and from there set out to
+travel in the South — and Lokanatha, hearing of it, went south; from the South the Lord came to Vrindavana — and
+Lokanatha went to Vraja; but from Vrindavana the Lord went on to Prayaga, and Lokanatha, reaching Vraja, was in despair:
+
+“He resolved to set out for Prayaga in the morning, but in a dream the Lord comforted him and kept him in Vrindavana.
+Lokanatha could not transgress the Lord's command and lived unknown in the forests of Vraja.” (“Bhakti-ratnakara”
+1.313–314)[^11] <!-- F36 -->
+
+What the Lord said in that dream is told in different ways. According to one biography, He said: “Had we met, you would
+have grieved to see Me in the dress of a sannyasi. Behold Me rather in My former form, with My beautiful curls.” Then
+Lokanatha understood why they had missed each other: the Lord was sparing his love, for the mere thought of the Lord in
+sannyasa dress, a blanket on His shoulders, caused him great pain. According to another biography, the Lord told him to
+stop wandering and remain in Vrindavana for bhajana. According to a third, the Lord said: “Lokanatha, stay in
+Vrindavana. I have not broken My word: I have come to Vrindavana and live here in another form; so you will always be
+with Me.” The Lord is non-different from Krishna, and Vrindavana is His eternal abode; His promise “I shall come” He
+fulfilled. The “Narottama-vilasa” speaks of two dreams: in one Lokanatha saw the young Gaura in Navadvipa, in the other
+the Lord as a sannyasi, and the Lord foretold to him a disciple — Narottama. <!-- F37 F81 -->
+
+Comforted, Lokanatha gave up the hope of seeing the Lord and resolved to carry out His order. Together with Bhugarbha he
+found the Kadamba-kunja and Chira-ghata, and there the friends remained for the remainder of their days. Day and night
+they sang the names of Krishna, leaving only an hour or two for rest and sleep, and kept far from people. <!-- F38 -->
+
+## Among the Gosvamis of Vrindavana
+Soon the Lord's associates began to come to Vraja — Rupa, Sanatana, Gopala Bhatta and others — and their company brought
+Lokanatha immense joy. All of them were one in mind and heart, and the love they exchanged was wonderful. The
+“Bhakti-ratnakara” says:
+
+“After some time he met Rupa and Sanatana — what joy in Vrindavana! Sri Gopala Bhatta and all the other associates of the
+Lord — who can tell how close he was to them all?” (“Bhakti-ratnakara” 1.315–316) <!-- F39 -->
+
+There too Narahari Chakravarti says that for some time Lokanatha served Sri Govinda and the other Deities, ever
+overwhelmed with prema — the very limit of renunciation.[^12] In the mangalacharanas of the first waves of the
+“Bhakti-ratnakara” Narahari glorifies Lokanatha and Bhugarbha, full of prema, and he describes Gopala Bhatta in the
+company of Lokanatha, Bhugarbha, Kashishvara and others. <!-- F79 -->
+
+In the “Chaitanya-charitamrita” Lokanatha's name occurs only once. When Gopala, on the pretext of
+fear of the Muslims, came from Govardhana to Mathura, to the house of Vitthaleshvara — in truth out of mercy for the aged
+Rupa — Rupa spent a whole month there beholding Him, and his associates were with him:
+
+“Then Rupa Gosani took all his associates with him, stayed in Mathura for a month and had darshana of Gopala. With him
+were Gopala Bhatta, Raghunatha Dasa, Raghunatha Bhatta Gosani and Lokanatha…” (CC, Madhya 18.48–49)[^13] <!-- F40 Q1 -->
+
+Sanatana Gosvami named him in his books to invoke blessings, and Narahari Chakravarti quotes both verses. In the
+mangalacharana of the “Hari-bhakti-vilasa” (1.4) it is said:
+
+“Kashishvara shines in Krishna's forest, and so does Sri Krishnadasa with Lokanatha.”
+
+And at the beginning of the “Vaishnava-toshani,” the commentary on the Tenth Canto of the “Bhagavata”:
+
+“I praise those dear to Vrindavana, who have taken shelter at Sri Govinda's feet: the illustrious Kashishvara, Lokanatha
+and Sri Krishnadasa.” (“Bhakti-ratnakara” 1.321, 1.323)[^14] <!-- F41 Q6 -->
+
+Closest of all to him was Bhugarbha:
+
+“His affection for Bhugarbha is known to the world: only their bodies were different from Lokanatha's.”
+(“Bhakti-ratnakara” 1.317)
+
+And in the sixth wave of the same book Narahari says that Gopala Bhatta is most merciful, and Bhugarbha and Lokanatha are
+a mine of virtues.[^15] And in the “Namamrita-samudra,” his prayers to the Lord's associates, Narahari calls upon the two
+together:
+
+“O Sri Bhugarbha, Lokanatha! Take pity this once — there is no one as fallen as I.” (“Namamrita-samudra” 27)
+<!-- F42 Q5 F78 -->
+
+He was close to Gopala Bhatta as well. Manohara Dasa, in a song about Gopala Bhatta, calls him, Pandita Krishna and
+Lokanatha one soul in different bodies, and a song of Narahari says that Lokanatha would meet Gopala Bhatta in the
+assembly of devotees, and that Gopala Bhatta lived now in Gokula-Mahavana, now near his dear Lokanatha. And when the
+Lord sent Gopala Bhatta His waist-cord and seat, Bhugarbha and Lokanatha, according to the “Prema-vilasa,” fell to the
+ground at the sight of them. <!-- F43 F88 -->
+
+He also stayed at Radha-kunda, where Raghunatha Dasa had settled. The “Karnananda” relates:
+
+“With him were Krishnadasa and Lokanatha Gosani; day and night — unceasing talk of Krishna. At that time the book called
+‘Gopala-champu’ they all relished together unceasingly.” (“Karnananda” 4.432–433) <!-- F44 Q10 -->
+
+According to the same book, Raghunatha Dasa vowed to leave his body before the eyes of Jiva, Krishnadasa and Lokanatha;
+and when Srinivasa was receiving blessings for his journey, Lokanatha and Bhugarbha prayed to Govinda for him.
+<!-- F83 -->
+
+And yet Lokanatha and Bhugarbha stood apart from what made the six Gosvamis famous. They displayed the pastime of
+“maha-vivikta bhajanandis” — the most secluded devotees, whose bliss lies in bhajana; they wrote no books and did not
+preach, and so were not counted among the “six.” Lokanatha, a viviktanandi worshipping the Lord in solitude, set the
+example of bhajana in renunciation within the dhama itself. Vrindavana Dasa in the “Chaitanya-bhagavata” names neither
+him nor Bhugarbha — perhaps because of their own prohibition, but in no way from any ill will; nor is his name found in
+Srila Bhaktisiddhanta's “Gaudiya-bhashya.” <!-- F45 F46 -->
+
+## Radha-vinoda
+Lokanatha constantly wandered through Vraja, visiting the places of Krishna's pastimes in ecstasy — he went round all
+twelve forests and stayed in Khadiravana. Near Chhatravana, by the village of Umrao, lies Kishori-kunda, dear to Radha.
+The place captivated him, and he stayed there for solitary bhajana, at times living right in the forest. <!-- F47 -->
+
+For long years he was absorbed in nama-bhajana, and at last an ardent desire arose in his heart to serve Radha and
+Krishna in the form of the Deity. The “Bhakti-ratnakara” tells how the Lord answered that desire:
+
+“The Lord knew that Lokanatha was yearning, and came in another form, bringing a Deity. Telling Him His name —
+Radha-vinoda — He handed Him over and at that very moment vanished from there.” (“Bhakti-ratnakara” 1.327–328)[^16]
+<!-- F48 F49 -->
+
+Lokanatha was amazed, and then troubled: who had given him such a Deity, and where had the giver gone? Could it have
+been the Lord Himself who came and went? Then Radha-vinoda looked at him sweetly, smiled and spoke:
+
+“‘I live in the forest by this village of Umrao; here, at this Kishori-kunda, is My place. Seeing your longing, I too
+grew restless: who will bring Me? — and I came Myself. Quickly give Me something to eat.’” (“Bhakti-ratnakara”
+1.331–333)[^17] <!-- F50 Q7 -->
+
+Shedding tears of love, Lokanatha quickly prepared food, and Radha-vinoda ate with pleasure — fine rice on a fresh
+banana leaf. Lokanatha made Him a bed of flowers, fanned Him with leafy branches and joyfully pressed His feet. From
+that day he gave body, mind and life to Radha-vinoda and drank the nectar of His beauty. The “Narottama-vilasa” says
+that, looking at Radha-vinoda, Lokanatha saw in Him the beauty of Gaura and wept that he had not seen His pastimes. <!--
+F51 F81 -->
+
+Lokanatha had no home and did not know where to keep the Deity. So he sewed a large bag, and it became Radha-vinoda's
+temple: he wore it round his neck and kept the Lord against his heart as a precious necklace. So it was to the end
+of his days — an example of strict vairagya. According to one biography, the bag was a blanket hung from his neck, and
+in the rain Lokanatha set Radha-vinoda inside a hollow tree and was himself drenched, as before. He lived
+under a tree, in rain and cold, keeping the vow of ayachaka — never asking anyone for food. <!-- F52 -->
+
+Seeing his love for the Lord, the villagers and cowherds of Vraja wanted to build him a hut, but he refused: nothing
+pleased him but a place among the roots of trees. So great was his renunciation that he took only the barest
+necessities.[^18] After living at the kunda, he came to Vrindavana, where all the Gosvamis lovingly kept him among
+them, and he always cherished their company. <!-- F53 F54 -->
+
+His beloved Radha-vinoda receives service in Vrindavana to this day, in the temple of Radha-Gokulananda. <!-- F55 -->
+
+## “Let Not Even a Stone Tell Where I Lie”
+All his life Lokanatha fled from honour. He thought himself unworthy of being called a saint and shunned every mark of
+respect; he stayed alone, except for the hours when Vaishnavas came to him or gathered for sankirtana. Worshipping Radha
+and Krishna in the deep mood of separation, he grew ever more detached and fled from the least fame. <!-- F56 -->
+
+When Krishnadasa Kaviraja, who took up the “Chaitanya-charitamrita” at the wish of the Vraja Gosvamis, approached
+Lokanatha for his blessing even before beginning the work, Lokanatha blessed him but set a condition: nowhere in the
+book was he to mention his name, his deeds or his way of life. Srila Bhaktisiddhanta explains in the “Anubhashya”:
+probably out of great humility. Narahari Chakravarti speaks of the same prohibition by Gopala Bhatta, who considered
+himself the lowest of all, and adds:
+
+“Lokanatha Gosvami too gave such an order; this I heard from the lips of old Vaishnavas.” (“Bhakti-ratnakara” 1.225)
+<!-- F57 -->
+
+This is not worldly modesty or concern for a good name, but the humility of a pure devotee — *amani*, one who seeks no
+honour for himself. Kaviraja remembered the condition and kept it: Lokanatha's name stands in his book only in a single
+list, and of his renunciation and bhakti there is not a word. That is why his name is so rarely met in the
+“Chaitanya-charitamrita.” Nor are Srinivasa and Narottama, Lokanatha's disciple, named there — something many people
+ask about. <!-- F58 F59 -->
+
+To him, as to no one else, applies the saying: “Let not even a stone tell where I lie.” Lokanatha and the few devotees of
+Mahaprabhu like him effaced the memory of themselves. As long as even a shadow of desire for fame remains in the heart,
+bhajana is impossible. <!-- I1 -->
+
+## Narottama, the Only Disciple
+Lokanatha did not accept disciples: such was his vow. He made an exception for one alone — Narottama. Srila
+Bhaktisiddhanta writes in the “Anubhashya” that he gave initiation to Narottama Thakura Mahashaya alone, and the
+shastras make no mention of any other disciple of his; the “Prema-vilasa” calls him the first among the renounced, and
+Narottama his servant. The “Bhakti-ratnakara” says:
+
+“On the full moon of the month of Shravana, at an auspicious moment, Lokanatha accepted Narottama as his disciple.”
+(“Bhakti-ratnakara” 1.294) <!-- F60 F66 F88 -->
+
+Narottama, the son of Raja Krishnananda Datta of Gopalpura in Rajshahi, left his home at the Karttika full moon, visited
+many tirthas and came to Vrindavana. This was after Rupa and Sanatana had passed from sight. Lokanatha could not bear
+the separation: day and night he wept for them, life stayed in him only by the Lord's will, and the one aim of his life
+became to fulfil the Lord's desires. It was then that Narottama came to him.[^19] <!-- F62 Q7 -->
+
+Jiva Gosvami sent the youth to serve Lokanatha's feet. Lokanatha was by then very old, and so tormented by separation
+from Gauranga that it seemed life had left him. When Narottama bowed to him, he asked: “Who are you?” — “Your fallen
+servant. I wish to serve your feet.” — “How can I accept anyone's service, when I myself do not know how to serve Gaura
+and Nityananda?” But Narottama had vowed to accept initiation from Lokanatha alone. The “Narottama-vilasa” says that
+Lokanatha recognised in him the disciple whom the Lord had foretold to him in a dream, and the “Prema-vilasa,” that Rupa
+in a dream told Jiva to entrust the youth to Lokanatha, and that Lokanatha, who had also seen him in a dream, brought
+Narottama back to consciousness with the touch of his hand when he had fainted at the Govinda temple. <!-- F63 F64 F81
+F88 -->
+
+Narottama was drawn by Lokanatha's austere renunciation. He began to serve him in secret. Every night he cleaned the
+place where Lokanatha went to relieve himself. Surprised at its cleanliness, Lokanatha one night hid in the bushes,
+chanting japa all night, and at midnight caught the raja's son at his cleaning. He was embarrassed — not from pride but
+from humility: it seemed to him an offence that a Vaishnava, a raja's son, should secretly serve him — and he asked why
+he was doing this and told him to stop. Narottama fell weeping at his feet: “Without your mercy my life is useless.” The
+“Prema-vilasa” adds details: Narottama sifted earth so that his guru would have something to clean his hands with,
+brought water, hid the broom of coconut-palm leaves and, pressing it to his chest, wept: “Here I shall gain the strength
+to reach the feet of my master.” <!-- F65 Q9 -->
+
+This service lasted about a year. Seeing Narottama's humility and his anguish, Lokanatha softened his resolve and gave
+him the mantras of initiation. The “Bhakti-ratnakara” says it briefly:
+
+“At that very time Narottama came there and joyfully served his guru as is fitting. Pleased with his service, he gave him
+the mantra of initiation and showed Narottama boundless mercy.” (“Bhakti-ratnakara” 1.345–346) <!-- F61 -->
+
+The song of Vasanta, which Narahari quotes a little further on, says the same: Narottama, renouncing royal pleasures,
+“gave himself to the feet of Prabhu Lokanatha” in Vrindavana, and “Lokanatha mercifully accepted him as his own”
+(“Bhakti-ratnakara” 1.418–419). <!-- F87 -->
+
+According to the “Prema-vilasa,” before initiation Narottama chanted Hari-nama for a year, and Lokanatha set him
+conditions: not to marry, not to eat fish or parboiled rice. He taught that Krishna appears in the form of the guru,
+that for a year the disciple observes the guru and the guru tests the disciple, and that the Gosvamis do not bid one
+accept many disciples. The secret service, according to this book, lasted a year, and Narottama was initiated in the
+month of Vaishakha (according to the “Bhakti-ratnakara,” on the full moon of Shravana). There too Lokanatha reveals to
+Narottama his eternal name — Vilasa-manjari — and instructs him in sadhana. <!-- F82 F88 -->
+
+Narottama's story shows how honest, selfless service wins the guru's heart. This is no “menial work” but the exemplary
+service of a disciple, and unwavering devotion to the guru is the chief mark of a disciple. Lokanatha and Narottama
+displayed this pastime to the world, especially to North Bengal. So too Srila Gaurakishora Dasa Babaji, who had vowed not
+to accept disciples, long refused Srila Bhaktisiddhanta but yielded before his humility and accepted him as his only
+disciple. Secluded bhajanandis do not themselves build communities, but, bound by the service of their one disciple,
+they give rise to a community through him. <!-- I3 F72 I5 -->
+
+Lokanatha saw in Narottama not only a noble upbringing but also zeal and a taste for being among people. His former
+position as a wealthy zamindar made Narottama especially fit for preaching in North Bengal: there he could teach people
+a renounced life. And Lokanatha, out of compassion, told him to return to his homeland, to Kheturi, and preach Krishna
+consciousness. Secluded viviktanandis are usually not inclined to works for people's welfare, but when a devotee of
+Narottama's stature takes them up, those works themselves are elevated; Lokanatha instructed the world through his
+disciple — as a mother-in-law teaches the daughter-in-law while instructing her own daughter. <!-- F67 I4 -->
+
+Srinivasa knew Lokanatha's intention. When the books of the Gosvamis were stolen on the way to Gauda, he told
+Narottama: “Go quickly to Kheturi and carry out Lokanatha's order” (“Bhakti-ratnakara” 7.119). So, by his guru's will,
+Narottama left Vrindavana. The “Prema-vilasa” tells also of Lokanatha's instructions before his departure and of his
+weeping at the news of the theft of the books. <!-- F82 -->
+
+What he entrusted to his disciple the “Bhakti-ratnakara” tells thus:
+
+“When Narottama came to Gauda, Prabhu Lokanatha gave the command: the service of the Deities of Sri Gauranga and Krishna,
+service to the Sri Vaishnavas, and the Lord's sankirtana. As he was commanded, so he applied himself: he established the
+service of six beautiful Deities.” (“Bhakti-ratnakara” 1.422–424) <!-- F68 -->
+
+The six Deities of Kheturi — Gauranga, Vallavikanta, Vrajamohana, Sri Krishna, Radha-kanta and Radha-ramana — were
+manifested at Lokanatha's command; and at his command too Shyamananda was invited to the festival at Kheturi.
+<!-- F68 -->
+
+Narottama remembered his guru all his life. In the songs of the “Prarthana” he prays that Prabhu Lokanatha take him
+along and give him to the feet of Sri Rupa; he laments over the rope of mercy by which the Lord drew him to Vraja and
+which, as he humbly says, maya and fate cut through; he cries “ha ha prabhu lokanatha”: without his mercy one attains
+neither Chaitanya nor Radha and Krishna. And in a humble song about the Gosvamis whom, as he says, he never served, he
+names Lokanatha among them. <!-- F69 Q8 -->
+
+Later, in Navadvipa, Narottama told how in Vrindavana he had lived in the care of Jiva and Lokanatha; and in Khardaha
+Jahnava and Vasudha, seeing that the mercy of Lokanatha and Jiva was upon him, bestowed their own mercy on him as well.
+The “Prema-vilasa” tells that Lokanatha and Jiva wept with joy at news from Kheturi and sent Vaishnavas there with
+messages, and that Lokanatha told Narottama to beware of offences. <!-- F70 F88 -->
+
+From Mahaprabhu through Lokanatha runs Narottama's diksha line, to which Vishvanatha Chakravarti Thakura also belonged:
+Sri Chaitanya Mahaprabhu — Lokanatha Gosvami — Narottama — Ganganarayana Chakravarti — Krishnacharana — Radharamana —
+Vishvanatha. In Vishvanatha's verse on his guru-line Lokanatha is named as the one whose guru is Gauranga Himself; and
+Vishvanatha writes his “Sankalpa-kalpadruma” under the guidance of Sri Lokanatha and Sri Narottama, and among his minor
+works is an eight-verse hymn in Lokanatha's honour, the “Sri Lokanathashtaka.” For Lokanatha the Lord was his Lord and
+teacher: He accepted him, instructed him and sent him to Vraja. How his initiation took place the sources do not
+describe.[^20] <!-- F71 Q11 F84 F85 F86 -->
+
+## Srinivasa, Jahnava, Ramachandra
+When Srinivasa came to Vrindavana, Jiva Gosvami presented him to Lokanatha and Bhugarbha:
+
+“Srinivasa bowed at the feet of both, and both embraced him with great tenderness. In loving rapture they could not let
+him out of their arms and bathed Srinivasa in tears. They entrusted him to the lotus feet of Sri Radha-vinoda.”
+(“Bhakti-ratnakara” 4.357–359)
+
+Before leaving for Gauda with the books of the Gosvamis, Srinivasa, Narottama and Shyamananda received Lokanatha's
+blessing; according to the “Karnananda,” he was among those who blessed Srinivasa, and according to the
+“Narottama-vilasa,” he entrusted Narottama to Srinivasa. The second time Srinivasa came to Vrindavana he was in grief,
+and Lokanatha together with the other elders told him of Gaura and Krishna and consoled him. <!-- F73 F81 F83 -->
+
+When Jahnava Devi came to Vraja, Lokanatha went out with the heads of the Vaishnava community to honour her;[^21] and at
+her departure, according to the “Narottama-vilasa,” he blessed Srinivasa and Narottama. According to the
+“Prema-vilasa,” Jahnava praised Lokanatha's disciple Narottama to him, and on her return brought Lokanatha's blessing to
+Narottama in Kheturi. <!-- F74 F81 F88 -->
+
+Ramachandra Kaviraja, coming to Vrindavana, was granted the darshana of Lokanatha's feet and received his mercy.[^22] And
+of Govinda Kaviraja, Ramachandra's younger brother, the “Bhakti-ratnakara” says that Jiva, Lokanatha and the others in
+Vrindavana drank the nectar of his songs and together gave him the title of Kaviraja. <!-- F75 F80 -->
+
+## Departure
+Lokanatha Gosvami left this world in deep old age. By our calendar
+(Sri Chaitanya Saraswat Math) the day of his departure is the krishna-ashtami of the month of Shridhara (in 2026, 6
+August); the day of his appearance is not in the calendar, and the sources do not give it.[^23] <!-- F76 -->
+
+According to one biography, he entered the Lord's eternal unmanifest pastimes in Khadiravana, near the village of
+Khayara, where he was performing bhajana; there lies Yugala-kunda, and on its bank is his samadhi. According to another,
+his samadhi is in Vrindavana, in the temple of Radha-Gokulananda, where his Radha-vinoda too receives service. <!-- F77
+-->
+
+## Lila-manjari
+Who Lokanatha is in Krishna's eternal pastimes Kavi Karnapura reveals in the “Gaura-ganoddesha-dipika”:
+
+“The former name of Bhugarbha Thakura is Prema-manjari; Lokanatha Gosvami is the former Sri Lila-manjari.” (GGD 187)
+
+In Vraja he is Lila-manjari, a maidservant of Srimati Radharani, and in the same verse his inseparable friend is named
+beside him.[^24] <!-- F2 Q2 -->
+
+The Vaishnavas of old, as Narahari Chakravarti tells, worshipped him thus:
+
+“I worship Sri Lokanatha Prabhu, the son of Padmanabha, possessed of the wealth of the service of Sri Radha-vinoda
+alone.” (“Bhakti-ratnakara” 1.297)[^25] <!-- Q3 -->
+
+His whole life is in these words. The first whom the Lord sent to Vraja, he found Radha-vinoda there and served Him to
+the end; he fled from fame so that even the “Chaitanya-charitamrita” kept only his name; and through his one disciple,
+Narottama, he founded the line of disciples that descends from Narottama. He is counted among the great souls, full of
+separation, who relish the hidden pastimes of service, and his renunciation is of one nature with that of Srila
+Gaurakishora. <!-- F3 F32 F60 I5 -->
+
+[^1]: The “Narottama-vilasa” (1.19) calls the village Talkhari, the “Prema-vilasa” Talagadi. One of the biographies
+    once calls the father Padmanabha Bhattacharya; everywhere in the sources he is a Chakravarti, while Bhattacharya
+    was the name of the descendants of his younger son.
+[^2]: So in two biographies and in the “Anubhashya”: in one it is Kanchrapara, in the other and in Srila Bhaktisiddhanta,
+    Kachnapara. Whether this is the same place as Kanchrapara near Kumarahatta, the sources do not say directly. The
+    third biography is silent about the earlier residence.
+[^3]: Two biographies say the same. According to the third, Lokanatha was his parents' only son.
+[^4]: The “Prema-vilasa” also speaks of the planned marriage. According to the “Narottama-vilasa” (1.32), Lokanatha left
+    home after his parents had already left this world.
+[^5]: The “Prema-vilasa” too speaks of a cold night in Agrahayana. According to one biography, Lokanatha came to the
+    Lord in 1510 (1431 of the Shaka era); this agrees with the account of Agrahayana: Agrahayana of Shaka 1431 falls in
+    November–December 1509, and Magha, when the Lord accepted sannyasa, in January 1510.
+[^6]: According to the “Prema-vilasa,” the Lord said: “Lokanatha, you have forgotten Me!”
+[^7]: One of the biographies adds that Nityananda learned of the sannyasa only a day before. These words have no
+    primary source. According to the “Chaitanya-bhagavata” (Madhya 26.123–127), Nityananda Himself understood the
+    Lord's intention, and the Lord opened His heart to Him in private.
+[^8]: According to one biography, in two or three days; according to the “Narottama-vilasa,” in two to four days.
+    Another biography says that the Lord Himself named the month of Magha.
+[^9]: So in two biographies. According to the “Bhakti-ratnakara” (1.308) and the third biography, Lokanatha in his
+    grief went round many tirthas and only after some time came to Vrindavana; Bhugarbha he met there.
+[^10]: One of the biographies adds that even before this the Lord had sent Rupa and Sanatana to Vrindavana, and speaks
+    of “four devotees” whom He did not find there. According to the “Chaitanya-charitamrita,” He sent them there only
+    after His own stay in Vraja: Rupa from Prayaga (Madhya 19.240), Sanatana from Kashi (Madhya 25.175).
+[^11]: Two biographies and the “Narottama-vilasa” (1.39–50) tell the same in more detail: hearing of the sannyasa,
+    Lokanatha hurried to Puri, from there to the South, from there to Vrindavana — and everywhere arrived too late.
+    According to the third biography, he and Bhugarbha went only to the South; it says nothing of Puri or Prayaga.
+[^12]: The “Anuraga-valli,” a less reliable source, says otherwise: he was asked to serve the Deities but refused, and
+    lived in solitude north of the Radha-ramana temple, living on the prasada of three temples.
+[^13]: In the Bengali of verse 18.49 it is *ara lokanatha*, “and Lokanatha.” One of the biographies, following an English
+    translation, calls him “Lokanatha dasa Goswami”; there is no “dasa” in the original.
+[^14]: One of the biographies presents the second verse as the mangalacharana of the “Hari-bhakti-vilasa”; Narahari
+    Chakravarti distinguishes them correctly.
+[^15]: One of the biographies numbers this verse 6.310; in the Bengali edition it is 6.510. Srila Bhaktisiddhanta also
+    quotes the same stanza in the “Anubhashya” on CC Madhya 18.49–52.
+[^16]: According to one biography, it all took place in a dream: Sri Radha-vinoda told Lokanatha to take up His service
+    himself without transgressing his vow of ayachaka — living on what comes of itself; and on waking he saw the Deity
+    before him, under the tree where he lived in rain and cold. The two other biographies, like the “Bhakti-ratnakara,”
+    speak of the Lord appearing while he was awake. The same biography speaks of Deities in the plural — Radha and
+    Krishna; the others, of one Deity named Radha-vinoda; today Radha-vinoda receives service together with Radha.
+[^17]: According to one biography, Radha-vinoda asked: “Why have you brought Me here?” This disagrees with the
+    “Bhakti-ratnakara” (1.332), where He says the opposite: “Who will bring Me?” — and comes Himself.
+[^18]: According to one biography, the hut was to be built for Radha-vinoda as well, and Lokanatha took only what was
+    required for serving the Deity; according to the “Bhakti-ratnakara” (1.340), only what was needed to keep himself
+    alive.
+[^19]: One of the biographies says elsewhere that in Vraja Narottama met Rupa, Sanatana and Lokanatha — it contradicts
+    itself: according to the “Bhakti-ratnakara” (1.343–345), Narottama came after Rupa and Sanatana had departed.
+[^20]: The “Advaita-prakasha,” a less reliable source, says that he received the Krishna mantra from Advaita. The
+    “Shakha-nirnaya,” as cited in the “Anubhashya” on CC Adi 12, places among Gadadhara's branches “Lokanatha Bhatta —
+    the guru of Sri Thakura Narottama, a native of Talakhadi, who installed Radha-vinoda in Vrindavana, a close friend
+    of Bhugarbha,” but Srila Bhaktisiddhanta puts a question mark there; the biographies do not repeat it.
+[^21]: According to another biography, “the most worthy Lokanatha” was among those who met her already in Mathura.
+[^22]: According to one biography, Lokanatha, Gopala Bhatta and Bhugarbha also gave Ramachandra the title “Kaviraja”;
+    according to another, the title was given him by Jiva Gosvami. According to the “Bhakti-ratnakara” (1.446–447), the
+    Vaishnavas of Vrindavana gave the title of Kaviraja to his brother Govinda.
+[^23]: According to one biography, he departed around 1510 of the Shaka era (1588–1589) on the krishna-ashtami of the
+    month of Ashadha; according to another, on the krishna-ashtami of the month of Shravana; the third gives no day. The
+    month of Shridhara roughly corresponds to Shravana. If months are counted from the new moon, the dark half of
+    Ashadha coincides with the dark half of Shravana counted from the full moon, so the first biography probably means
+    the same day.
+[^24]: According to the “Prema-vilasa” (7, 20) and the “Anuraga-valli” (4), less reliable sources, in Vraja he is the
+    sakhi (manjari) Manjulali. The principal testimony is the “Gaura-ganoddesha-dipika.”
+[^25]: One of the biographies ascribes this verse to Narottama; Narahari introduces it as the words of “the ancients.”

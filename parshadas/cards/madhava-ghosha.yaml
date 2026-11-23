@@ -1,0 +1,98 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/madhava-ghosha.md и lila-db.
+id: "@madhava-ghosha"
+names:
+  ru: "Мадхава (Мадхавананда) Гхош"
+  en: "Madhava (Madhavananda) Ghosha"
+  variants: ["Мадхава Гхош Тхакур", "Мадхавананда Гхош (ЧБ Антья 5.378, 5.750; ГГД 188)", "Мадхавананда Гхош Махашая («Вайшнава-вандана»)", "Расолласа (во Врадже)"]
+  facts: [F1, F2]
+kind: associate
+circle: [navadvipa, puri]
+period: [P12, P14, P15]
+period_note: "Лично — с Нитьянандой в Гауде (Панихати, Эндиядаха; ЧЧ Ади 10.117–118 — после прихода гаудийцев в Пури, P12) и ежегодно в Пури на Ратха-ятре (P12–P14; F19, F20); поселение в Даихате — после санньясы (B 189) или после ухода Господа (M 245) (F22, P15). В Кхетури (P15) — среди спутников, явившихся с Господом на киртане Нароттамы (по БР 10, у M). Навадвипские упоминания (M pdf 41 «Мадхава» при арати; Лочан) — не уточнены, в period не включены."
+life:
+  appearance: {conf: "неизвестно; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет", facts: [F23]}
+  disappearance:
+    place: "#daihat?"
+    conf: "день, год и место ухода ни одна книга не называет; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет; Даихат — лишь место его шрипата"
+    facts: [F22, F23]
+origin:
+  places: ["#shrihatta", "#kumarahatta", "#navadvipa"]
+  family: ["@govinda-ghosha", "@vasu-ghosha"]
+  varna: "каястха Уттара-Рархи («шаукра» — по рождению)"
+  facts: [F6, F7, F8]
+  note: "Шрихатта (Буран/Буранги) — дом дяди по матери Васудевы (B) или родная деревня братьев (M); переселение в Навадвип — «позже» (B) или после смерти отца (M) (= @vasu-ghosha F9–F11)."
+relations:
+  - {type: sibling, who: "@govinda-ghosha", facts: [F6, F12, F13, F19, F20], note: "Старший? — старшинство не названо; ведущий певец их группы на Ратха-ятре (ЧЧ Мадхья 13.42–43); остался с Господом, когда Мадхава и Васудева ушли с Нитьянандой (ЧЧ Ади 10.118)."}
+  - {type: sibling, who: "@vasu-ghosha", facts: [F4, F6, F13, F15, F16, F19, F20], note: "Вместе служили Нитьянанде киртаном в Гауде (B 193); оба — в обеих ганах (ЧЧ Ади 11.15); B называет Мадхавананду «братом Васудевы» (B 139). = @vasu-ghosha F33, F34."}
+  - {type: companion, who: "@nityananda", facts: [F4, F9, F12, F13, F14, F15, F16, F17, F18], events: [ev-nityananda-sent-to-gauda, ev-nityananda-panihati-abhisheka, ev-dana-khanda-gadadhara-dasa, ev-nityananda-preaching-gauda],
+     note: "Очень дорог Нитьянанде (ЧБ Антья 5.258); по велению Господа пошёл с Ним в Гауду (ЧЧ Ади 10.117–118); под его пение Нитьянанда танцевал в Панихати и в доме Гададхары даса (дана-кханда, ЧБ Антья 5.378–383); ветвь Нитьянанды (ЧЧ Ади 11.15, 11.18)."}
+  - {type: companion, who: "@mahaprabhu", facts: [F4, F5, F12, F19, F20, F21], events: [ev-prataparudra-watches-devotees-roof, ev-ratha-yatra-gundicha, ev-gauda-devotees-come-with-wives],
+     note: "Ветвь древа Шри Чайтаньи (ЧЧ Ади 10.115); под киртан братьев танцевали Чайтанья и Нитьянанда; ежегодно приходил в Пури; пел в четвёртой группе на Ратха-ятре."}
+  - {type: other, who: "@gadadhara-dasa", facts: [F16, F17, F18, F4], events: [ev-dana-khanda-gadadhara-dasa], note: "В его храме в Эндиядахе пел дана-кханду перед Нитьянандой; оба — в обеих ганах. = @gadadhara-dasa F22–F23."}
+  - {type: other, who: "@bala-gopala-gadadhara-dasa", facts: [F16, F18], note: "Нитьянанда танцевал с Бала-Гопалой на груди под его дана-кханду; по «Анубхашье» к Ади 10.53 — пел и танцевал перед Гопалой."}
+  - {type: other, who: "@raghava-pandita", facts: [F14, F20], events: [ev-nityananda-panihati-abhisheka], note: "В его доме в Панихати пел для Нитьянанды; подпевали вместе в четвёртой группе на Ратха-ятре."}
+  - {type: other, who: "@makaradhvaja-kara", facts: [F14], note: "Панихати (B 106)."}
+  - {type: co-worker, who: "@vakreshvara", facts: [F20], event: ev-ratha-yatra-gundicha, note: "Танцор их группы на Ратха-ятре."}
+  - {type: co-worker, who: "@chhota-haridasa", facts: [F20], note: "Подпевал в четвёртой группе (у B — «(Чхота?) Харидас»)."}
+  - {type: co-worker, who: "@vishnudasa", facts: [F20], note: "Подпевал в четвёртой группе (какой Вишнудас — не сказано)."}
+  - {type: other, who: "@svarupa-damodara", facts: [F21], note: "ЧЧ Мадхья 13.73: «Мадхава» среди девяти, отданных в группу Сварупы, — Мадхава Гхош ли, не сказано (⚠4)."}
+  - {type: companion, who: "@shivananda-sena", facts: [F19], note: "С ним братья ежегодно ходили из Гауды в Пури (B 193)."}
+  - {type: other, who: "@abhirama", facts: [F4, F13], note: "Как и он, в обеих ганах; вместе пошли с Нитьянандой в Гауду (ЧЧ Ади 10.117–118)."}
+  - {type: other, who: "@gopinatha-acharya", facts: [], events: [ev-prataparudra-watches-devotees-roof], note: "Только по lila-db: ЧЧ Мадхья 11.88 — показывает Пратапарудре трёх братьев Гхошей (Q8)."}
+  - {type: other, who: "@prataparudra", facts: [], events: [ev-prataparudra-watches-devotees-roof], note: "Только по lila-db (ЧЧ Мадхья 11.88)."}
+  - {type: other, who: "@narottama-dasa", facts: [F24], events: [ev-kheturi-festival], note: "На киртане Нароттамы в Кхетури — среди явившихся с Господом (БР 10.572, по M)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F3, F11, I1], note: "«Гаудия-бхашья» к ЧБ Антья 5.257: кая-вьюха ашрая-виграхи мадхура-расы; «певцы Вриндавана» без мирских понятий; «Анубхашья» к ЧЧ Ади 10.53, 10.115."}
+  - {type: other, who: "@vrindavana-dasa", facts: [F9, F16, Q1, Q7]}
+  - {type: other, who: "@kavi-karnapura", facts: [F2, Q2]}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F5, F12, F13, Q3, Q4]}
+  - {type: other, who: "@bhaktivedanta-svami", facts: [F5, F9, F12, F18], note: "Комментарий к ЧЧ (по M): 82–84-я ветви, «драма Дана-кханда»."}
+  - {type: other, who: "@lochana-dasa", facts: [Q8], note: "Поклон братьям Гхошам в Сутра-кханде (1.34; 8.629)."}
+  - {type: other, who: "@jayananda", facts: [F26], note: "«Певец Мадхава Гхош поёт „Дана-кханду“» в доме Гададхары Даса (по Н. Васу 1897)."}
+identities:
+  - in: krishna-lila
+    as: "Расолласа — сакхи Враджа, певшая песни, сложенные Вишакхой"
+    source: "ГГД 188 (по T, M, B)"
+    level: A
+    facts: [F2, Q2]
+    variants: ["B 847 ссылается на «ГГД 118» — опечатка (⚠1)."]
+  - in: tattva
+    as: "кая-вьюха ашрая-виграхи (Радхи) мадхура-расы Враджа; в разряде принявших Радхику высшей ашрая-виграхой"
+    source: "Бхактисиддханта, «Гаудия-бхашья» к ЧБ Антья 5.257 (по B 189, 848; M 243)"
+    level: B
+    facts: [F3]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-nityananda-sent-to-gauda
+  - ev-nityananda-panihati-abhisheka
+  - ev-nityananda-preaching-gauda
+  - ev-dana-khanda-gadadhara-dasa
+  - ev-prataparudra-watches-devotees-roof
+  - ev-ratha-yatra-gundicha
+  - ev-gauda-devotees-come-with-wives
+  - ev-nilachala-sankirtana
+  - ev-navadvipa-awaits-lord-return
+  - ev-kheturi-festival
+events_note: "ev-prataparudra-watches-devotees-roof (ЧЧ Мадхья 11.88) — только по lila-db; ev-nityananda-preaching-gauda — пада Васу Гхоша ПК 2315 (Нитьянанда пляшет под пение Говинды и Мадхавы); ev-nilachala-sankirtana — его пада ПК 2289 (о Господе-санньяси); ev-navadvipa-awaits-lord-return — его пады ПК 2276–2278 (авторство сомнительно по Маджумдару). Пады с его участием о навадвипских играх (ev-gaura-dance-with-devotees, ev-mahaprakasha-abhisheka — совместная пада ПК 1538, ev-gaura-arati-navadvipa и др.) — в lila-db/lilas/padas.yaml; в книгах T, M, B не описаны, в events не включены."
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "пады (сохранилось немного, B 190): в репозитории — ПК 2289 «Наче паху каладхаута-гора»; ПК 2276–2278 (о разлуке Надии; авторство сомнительно); совместная пада трёх братьев ПК 1538 (по lila-db, padas/)", facts: [F10]}
+places: ["#shrihatta", "#kumarahatta", "#navadvipa", "#panihati", "#ariadaha", "#puri", "#daihat", "#kheturi"]
+places_facts: [F8, F14, F16, F19, F20, F22, F24]
+character:
+  - {trait: "несравненный певец киртана — «певец Вриндавана», без мирских понятий о пении", facts: [F9, F11, I1]}
+  - {trait: "особенно дорог Нитьянанде: под его пение Нитьянанда танцевал и входил в экстаз", facts: [F9, F14, F16], events: [ev-nityananda-panihati-abhisheka, ev-dana-khanda-gadadhara-dasa]}
+  - {trait: "служение и Гауре, и Нитьянанде: шёл с Нитьянандой в Гауду и каждый год приходил петь Господу в Пури", facts: [F4, F13, F15, F19, I2]}
+  - {trait: "разлука с Господом — по B, поселился в Даихате, страдая в разлуке после Его санньясы («иные говорят»)", facts: [F22]}
+significance: {facts: [F2, F3, F4, F9, F11, F16, I1, I2]}
+sources:
+  T: "63–65 (общая глава о братьях Гхошах); 79, 84–85"
+  M: "242–245 (общая глава); 25, 114, pdf 41"
+  B: "847–849 (общая глава с Говиндой); 106, 139, 188–190, 193, 816, 818"
+  other: ["ЧЧ Ади 10.53 («Анубхашья»), 10.115–118, 11.15, 11.17–18; Мадхья 11.88, 13.42–43, 13.73, 16.16", "ЧБ Антья 5.256–262, 5.376–394, 5.750", "ГГД 188", "«Гаудия-бхашья» и «Анубхашья» Бхактисиддханты", "БР 10.549, 10.572 (по M); мангалачарана БР 1; пада Нарахари в БР 12 (арати, F25)", "Лочан, Сутра-кханда 1.34, 8.629", "ванданы: ч. 1, 93; 2, 81; 3, 30; 4, 65; 5, 67", "Джаянанда, «Чайтанья-мангала» (по Н. Васу 1897; F26)", "«Нароттама-виласа» 2.122", "пады: ПК 1538, 2276–2278, 2289"]
+article: {ru: "parshadas/ru/madhava-ghosha.md", en: "parshadas/en/madhava-ghosha.md"}
+open_questions:
+  - "Дни явления и ухода, год и место ухода, самадхи — неизвестны; в календаре ШЧСМ его дней нет (F23)."
+  - "Когда поселился в Даихате: после санньясы Господа (B 189, «иные говорят»), «в конце концов» (T) или после ухода Махапрабху (M) (F22, ⚠6)."
+  - "Дана-кханда: пел (ЧБ), «давал представление» (T) или «поставил драму с помощью Нитьянанды и Гададхары» (M, «Анубхашья» — *абхиная*) (F16–F18, ⚠7)."
+  - "«Мадхава» среди девяти в группе Сварупы (ЧЧ Мадхья 13.73) и при арати в Навадвипе (M pdf 41) — Мадхава Гхош ли (F21, F25)."
+  - "Старшинство трёх братьев не названо (F6)."

@@ -1,0 +1,118 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/prataparudra.md и lila-db.
+id: "@prataparudra"
+names:
+  ru: "Махараджа Пратапарудра"
+  en: "Maharaja Prataparudra"
+  variants: ["Шри Пратапарудра-дэва (B)", "King Sri Prataparudra Deva (T)", "раджа Пратапарудра (ЧЧ)", "Гаджапати (ЧЧН, Мурари)", "Гаджапати Рудра («Джаганнатха-валлабха-натака»)", "царь Одиши и Телинги (B)", "император Уткалы (B)"]
+  facts: [F1]
+kind: ruler
+circle: [puri]
+period: [P11, P12, P13, P14, P15]
+period_note: "Лично — с вестей о Господе (P11–P12: Господь на юге; ЧЧ Мадхья 10) и Ратха-ятры с объятием в саду (P12), прощания у Катака на пути во Вриндаван (P13), спасения Гопинатхи Паттанаяка (P14) до горя после сокрытия Господа (P15, БР 3; ЧЧН, пролог). По ЧБ Антья 5 тайный даршан и сон — после возвращения Господа из Гауды (⚠6)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "год и день явления книги не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) дня явления нет"
+    facts: [F84]
+  disappearance:
+    date: "1540?"
+    tithi: ""
+    place: ""
+    conf: "B, T: царствовал до 1540 г. (T: «до ухода в 1540»); БР 3.214, 3.219 — передал царство сыну ещё при Господе, после сокрытия Господа жил вдали от Нилачалы; ЧЧН (пролог) — после сокрытия Господа повелевает ставить драму в Пури (⚠4); в календаре ШЧСМ (541/ru, проверено 2026-11-17) дня ухода нет"
+    facts: [F21, F81, F83, F84]
+origin:
+  places: ["#cuttack"]
+  family: ["@purushottama-deva", "@purushottama-jana"]
+  varna: "царский род Гаджапати (династия Капилендры, по «Мадала-панджи»)"
+  facts: [F2, F3, F4, F6]
+relations:
+  - {type: father, who: "@purushottama-deva", facts: [F3, F4, F14, F15, F16, F17, F18, F19, F20, F21], note: "Царь Ориссы до 1497 г., всецело преданный Джаганнатхе; метёл дорогу перед колесницей; война с Канчи и трон для Джаганнатхи (ср. ЧЧ Мадхья 5.120–124); предание о молочнице и Бханда-Ганеше — только T."}
+  - {type: son, who: "@purushottama-jana", facts: [F9, F71], events: [ev-gopinatha-pattanayaka-pardoned], note: "B: сын царицы Гаури, старший; T: старший из пяти сыновей Гаури (оба — со ссылкой на БР 6.65, где лишь «сын»; ⚠2); «Бада Джана», приговоривший Гопинатху (ЧЧ Антья 9.99)."}
+  - {type: served-by, who: "@mahaprabhu", facts: [F25, F34, F35, F45, F46, F51, F52, F53, F54, F55, F56, F59, F61, F62, F63, F64, F65, F66, F67, F68, F69, F70, I1, I2, I3],
+     events: [ev-prataparudra-asks-sarvabhauma, ev-lord-refuses-to-see-king, ev-prataparudra-son-embraced, ev-ratha-yatra-gundicha, ev-prataparudra-mercy, ev-lord-pushes-chariot, ev-gopa-vesha-dadhi-utsava, ev-prataparudra-farewell-six-armed, ev-gopinatha-pattanayaka-pardoned],
+     note: "Господь как санньяси отказывался видеть царя (урок отрёкшимся, ⚠Б1), но, увидев его служение метлой, даровал милость: объятие в саду у Балаганди при «Гопи-гите», явленная айшварья, объятие у Катака — имя «Пратапарудра-сантрата» (ЧЧ Мадхья 11–16; Антья 9)."}
+  - {type: other, who: "@jagannatha-deity", facts: [F11, F13, F39, F40, F55, I5], events: [ev-prataparudra-dream-dusty-jagannatha], note: "Слуга Джаганнатхи: метла и сандаловая вода перед колесницей (ЧЧ Мадхья 13.15–18); во сне Джаганнатха в пыли открывает ему единство с Шри Чайтаньей (ЧБ Антья 5.167–185); по ГГД 118 в прежнем рождении — Индрадьюмна, поклонявшийся Джаганнатхе."}
+  - {type: guru, who: "@kashi-mishra", facts: [F32, F33, F56, F72, F78], events: [ev-kashi-mishra-residence, ev-gopinatha-pattanayaka-pardoned], note: "Царский жрец (пурохита, B); T и B (1028, 1033) — гуру царя: царь растирал ему стопы и слушал о служении Джаганнатхе (ЧЧ Антья 9.81–82); прямо «гуру» ЧЧ не говорит (⚠10)."}
+  - {type: protege, who: "@sarvabhauma", facts: [F29, F43, F44, F45, F46, F48, F49, F52, F56, F59, F80, I7], events: [ev-prataparudra-asks-sarvabhauma, ev-lord-refuses-to-see-king, ev-prataparudra-watches-devotees-roof], note: "Придворный пандит царя (B 1018; T 112); посредник: совет прийти к Господу в облике вайшнава на Ратха-ятре (ЧЧ Мадхья 11.50–59); утешил царя после «прикосновения мирского»."}
+  - {type: protege, who: "@ramananda-raya", facts: [F28, F30, F47, F53, F68, F69, F74, F81], events: [ev-ramananda-comes-to-puri, ev-prataparudra-son-embraced, ev-prataparudra-farewell-six-armed], note: "Правитель Годавари (Видьянагары), позже министр; отпущен царём к Господу с полным жалованьем; посредник; «Джаганнатха-валлабха-натака» — по повелению царя; после сокрытия Господа лишь Рамананда сохранил ему жизнь (БР 3.218). = @ramananda-raya F7, F40–F46, F86–F90, F135–F139, F156."}
+  - {type: other, who: "@nityananda", facts: [F51, F52], events: [ev-lord-refuses-to-see-king], note: "Передал Господу решимость царя стать йогом и послал ему накидку Господа (ЧЧ Мадхья 12.19–38)."}
+  - {type: other, who: "@damodara-pandita", facts: [F51], note: "Господь сослался на его упрёк; Дамодара: Господь Сам встретится с царём, ибо покорён любовью (ЧЧ Мадхья 12.22–29). = @damodara-pandita F20."}
+  - {type: other, who: "@govinda-servant", facts: [F52], note: "Через Говинду — накидка Господа для царя (ЧЧ Мадхья 12.36). = @govinda-servant F43."}
+  - {type: other, who: "@gopinatha-acharya", facts: [F49], events: [ev-prataparudra-watches-devotees-roof], note: "Называл царю вайшнавов Гауды с крыши дворца (ЧЧ Мадхья 11.79–90)."}
+  - {type: other, who: "@harichandana", facts: [F58, F68, F72], note: "Министр (махапатра): на его плечо опирался царь на Ратха-ятре; его ударил Шриваса; рассказал царю о казни Гопинатхи (T 145); вёл подготовку пути Господа (ЧЧ Мадхья 16.113)."}
+  - {type: other, who: "@srivasa", facts: [F58], note: "«Счастливец ты: тебя коснулась рука Шриваса» — слова царя Харичандане (ЧЧ Мадхья 13.97)."}
+  - {type: ruler-of, who: "@gopinatha-pattanayaka", facts: [F30, F70, F71, F72], events: [ev-gopinatha-pattanayaka-pardoned], note: "Тахсилдар в Маладжатхья-Дандапате; ради Господа царь простил долг, удвоил жалованье и почтил его (ЧЧ Антья 9)."}
+  - {type: other, who: "@bhavananda-raya", facts: [F70, F72], events: [ev-gopinatha-pattanayaka-pardoned], note: "Род Бхавананды — почитаем царём (ЧЧ Антья 9.102–103). = @bhavananda-raya F38–F39."}
+  - {type: other, who: "@kamalakanta-vishvasa", facts: [F73], events: [ev-kamalakanta-letter-prataparudra], note: "Письмо царю о долге Адвайты (ЧЧ Ади 12.28–29)."}
+  - {type: other, who: "@madhavi-devi", facts: [F31], note: "B 896: говорят, царь назначил её писцом «Мадала-панджи»."}
+  - {type: patron, who: "@kavi-karnapura", facts: [F22, F83], note: "ЧЧН (пролог 1-го акта): драма ставится по повелению Гаджапати Пратапарудры, удручённого сокрытием Господа; Карнапура славит его доблесть и шанта-расу."}
+  - {type: other, who: "@gangadasa-pandita", facts: [F49], note: "Среди вайшнавов, названных царю (ЧЧ Мадхья 11.85). = @gangadasa-pandita F52."}
+  - {type: other, who: "@baladeva-vidyabhushana", facts: [F79], note: "Стих Баладевы: по милости Шри Чайтаньи Гаджапати стал безупречен и умиротворён. = @baladeva-vidyabhushana F58–F59."}
+  - {type: other, who: "@srinivasa-acharya", facts: [F82], note: "Пришёл в Нилачалу после сокрытия Господа и горевал, что не увидел царя (БР 3.213–221)."}
+  - {type: other, who: "@radhakanta-puri", facts: [F78], note: "T 202: Божество привёз из Канчи отец царя; затем — у Каши Мишры и Гопалы Гуру."}
+unnamed:
+  - {who: "мать — Падмавати-деви (T: «или Рупамбика»); по B — тоже из ветви Гададхары", type: mother, facts: [F4, F5]}
+  - {who: "дед — Капилендра-дэва (Капилешвара), основатель династии Гаджапати; бабка — Парвати-деви", type: grandfather, facts: [F2, F3]}
+  - {who: "главная царица Гаури; царицы Падма, Падмалая, Ила, Махила", type: spouse, facts: [F8]}
+  - {who: "царевич, напомнивший Господу Кришну (ЧЧ Мадхья 12.58–67)", type: son, facts: [F54]}
+  - {who: "23 (B) или 27 (T) преемников на престоле Ориссы", type: lineage-successor, facts: [F10]}
+  - {who: "придворные учёные Лолла Лакшмидхара и Рамакришна", type: protege, facts: [F26]}
+identities:
+  - in: other-avatara
+    as: "царь Индрадьюмна, некогда поклонявшийся Джаганнатхе («равный Индре»)"
+    source: "ГГД 118"
+    level: A
+    facts: [F11, F12, F13]
+    variants: ["B передаёт «процветающим Пратапарудрой» (⚠12)."]
+events:
+  - ev-ramananda-raya-godavari
+  - ev-prataparudra-asks-sarvabhauma
+  - ev-kashi-mishra-residence
+  - ev-lord-refuses-to-see-king
+  - ev-ramananda-comes-to-puri
+  - ev-snana-yatra-anavasara-alalanatha
+  - ev-prataparudra-watches-devotees-roof
+  - ev-gauda-devotees-arrive-puri
+  - ev-prataparudra-son-embraced
+  - ev-ratha-yatra-gundicha
+  - ev-prataparudra-mercy
+  - ev-lord-pushes-chariot
+  - ev-gopa-vesha-dadhi-utsava
+  - ev-prataparudra-dream-dusty-jagannatha
+  - ev-puri-festivals-year-cycle
+  - ev-departure-for-gauda
+  - ev-prataparudra-farewell-six-armed
+  - ev-return-puri-after-gauda
+  - ev-kamalakanta-letter-prataparudra
+  - ev-gopinatha-pattanayaka-pardoned
+  - ev-lord-disappearance
+  - ev-devotees-lament-after-disappearance
+events_note: "ev-prataparudra-dream-dusty-jagannatha — ЧБ Антья 5 (после возвращения из Гауды, P12/P13 — ⚠6); ev-prataparudra-farewell-six-armed — шестирукий облик у Катака — по «Гаура-кришнодае» 13.3–5 (F89); по ЧЧ Мадхья 16.100–108 — без него; у Лочана 51 и Мурари 4.16 — в Пури (⚠9)."
+teachings_given: []
+teachings_received:
+  - {what: "долг царя — охранять подданных; кто судит о других по себе, тот слуга Кришны (Лочан 51.119–123)", facts: [F75]}
+works:
+  - {title: "«Сарасвати-виласа» (смрити) и др. — приписываются; по T, написаны придворными учёными", facts: [F26]}
+  - {title: "песня-молитва Радхе с его подписью (авторство сомнительно)", facts: [F27]}
+places: ["#cuttack", "#puri", "#house-kashi-mishra", "#balagandi", "#gundicha", "#alalanatha", "#kanchi"]
+places_facts: [F6, F15, F16, F33, F49, F61, F66, F69, F70]
+character:
+  - {trait: "смирение: царь метёт дорогу перед Джаганнатхой и называет себя слугой слуг Господа", facts: [F55, F65, I2]}
+  - {trait: "жажда даршана Господа: готов стать нищим йогом и оставить жизнь без Его милости", facts: [F46, F51, F70, I6]}
+  - {trait: "почтение к вайшнавам: удар Шриваса — удача; служит гуру, растирая ему стопы", facts: [F32, F58]}
+  - {trait: "щедрость и покровительство: жильё и прасад гаудийцам, жалованье Рамананде, путь Господа, прощение долга ради Господа", facts: [F47, F49, F68, F72]}
+  - {trait: "разлука после сокрытия Господа: лишился чувств, жил вдали от Нилачалы", facts: [F81, F82]}
+significance: {facts: [F11, F25, F65, F69, I1, I2, I3, I4, I5, I7]}
+sources:
+  T: "116–121 (гл.); 23, 35, 40, 46, 50, 105, 112, 115, 122–123, 125–126, 133, 140, 144–146, 202"
+  M: "главы нет; 91"
+  B: "1011–1017 (гл.); 163, 198, 233, 241–242, 244, 256–260, 263, 275, 327, 615, 663, 765, 856, 896, 983, 985, 1000, 1018, 1024–1029, 1031–1033"
+  other: ["ГГД 118", "ЧЧ Ади 10.134–136, 12.28–29", "ЧЧ Мадхья 1.265, 5.118–124, 10.5–15, 11.3–90, 12.4–67, 13.6–18, 13.56–97, 13.180–205, 14.4–60, 15.17–28, 16.84–115", "ЧЧ Антья 4.68, 9.75–103", "ЧБ Антья 5.139–208", "БР 3.213–221, 6 (Пурушоттама Джана), 8.387", "ЧЧН, пролог акта 1; акты 7–10", "Мурари 4.16", "Лочан, Шеша 51.70–125; 52.94+32", "махакавья Карнапуры 13–16", "«Намамрита-самудра» 55"]
+article: {ru: "parshadas/ru/prataparudra.md", en: "parshadas/en/prataparudra.md"}
+open_questions:
+  - "Последние годы и год ухода: правил до 1540 (B, T) или передал царство сыну ещё при Господе и жил вдали от Нилачалы (БР 3.214, 3.219); ЧЧН — в Пури после сокрытия Господа (⚠4)."
+  - "Порядок: тайный даршан и сон по ЧБ (после Гауды) и встреча на первой Ратха-ятре по ЧЧ; версии Лочана, Мурари и «Гаура-кришнодаи» (шестирукий облик) — не сливать (⚠6, ⚠9, F89)."
+  - "«Ветвь Гададхары» (B, T) или ветвь древа Шри Чайтаньи (ЧЧ Ади 10.135) — источник B и T не назван (⚠1)."
+  - "Сколько сыновей у Гаури и кто старший — БР не говорит (⚠2)."

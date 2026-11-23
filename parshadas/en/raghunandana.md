@@ -10,23 +10,16 @@ proclaimed Madana in him. <!-- F1 F17 -->
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, names the residents of Shrikhanda as a great branch,
 an abode of His mercy:
 
-“Mukunda Dasa of Shrikhanda and his son Raghunandana, as well as Narahari, Chiranjiva and Sulochana, are branches of Sri
-Chaitanya's tree of bhakti, who everywhere and in every place generously distributed the fruits and flowers of divine love
-for Krishna.” (CC, Adi 10.78–79) <!-- F41 Q2 -->
+“Mukunda Dasa, Sri Raghunandana, Narahari Dasa, Chiranjiva and Sulochana, all of Shrikhanda, are great branches, abodes of Sri Chaitanya’s mercy. Everywhere they give away the fruits and flowers of love” (CC, Adi 10.78–79) <!-- F41 Q2 -->
 
 Of all the residents of Khanda who were Gaura's companions, three were foremost:
 
-“In the village of Khanda there lived at that time three eminent devotees: Mukunda Dasa, Sri Raghunandana and Sri
-Narahari.” (CC, Madhya 15.112) <!-- F18 -->
+“Of the devotees from Khanda, three were the chief: Mukunda Dasa, Sri Raghunandana and Sri Narahari.” (CC, Madhya 15.112) <!-- F18 -->
 
 Raghunandana's greatness is best shown by one conversation in Puri. The Lord lovingly asked Mukunda which of them was the
 father and which the son — and heard an answer that delighted Him:
 
-“The son of mother Shachi asked Mukunda Dasa: ‘Tell Me, Mukunda. Is Sri Raghunandana your son and you his father? Or is
-Raghunandana your father and you his son? Answer definitely and dispel My doubt.’ Mukunda replied: ‘I consider
-Raghunandana my father and myself his son. All of us obtained devotion to Krishna by Raghunandana's grace, and therefore
-he is my father. Of this I am convinced.’ Sri Chaitanya joyfully exclaimed: ‘So it is indeed! The guru is the one from
-whom Krishna-bhakti comes.’” (CC, Madhya 15.113–117) <!-- F20 Q5 -->
+“The son of Shachi asked Mukunda Dasa, ‘Are you the father, and Sri Raghunandana your son? Or is Raghunandana the father, and you his son? Tell Me for certain, so that My doubt may go.’ Mukunda said, ‘Raghunandana is my father, and I am his son — that is my conviction. All of us have received devotion to Krishna from Raghunandana. So Raghunandana is certainly my father.’ Hearing this, the Lord said joyfully, ‘You have spoken rightly: he from whom devotion to Krishna comes is the guru.’” (CC, Madhya 15.113–117) <!-- F20 Q5 -->
 
 It is not age that makes one an elder, a guru: whoever brings bhakti to others is the father, and a person's measure is
 the depth of his devotion. With these words the Lord revealed who Raghunandana is. <!-- I1 -->
@@ -44,7 +37,7 @@ Mukunda, the middle Madhava and the youngest Narahari.[^2] For more on the famil
 Outwardly Mukunda was a Vaishnava householder and a court physician — people saw in him a doctor at the court of Husain
 Shah — but inwardly he was a maha-bhagavata, a paramahamsa, whose heart overflowed with love for Krishna:
 
-“Outwardly he is a royal physician in government service. But who is able to understand how vast his love for God is?”
+“Outwardly he is a royal physician in the king's service. Who could know the love within him?”
 (CC, Madhya 15.120) <!-- F15 -->
 
 The Lord Himself used to tell His devotees how once a fan of peacock feathers was raised over the padishah's head and
@@ -89,15 +82,13 @@ Sutra-khanda 648, 650) <!-- F27 -->
 ## Service to Krishna
 All his life Raghunandana served Krishna in his house-temple. The Lord Himself describes the place:
 
-“Raghunandana serves in Krishna's temple, and in front of that temple there is a wonderful lake. On the bank of that lake
-a kadamba tree blossoms all year round, and every day two new flowers open on it for Krishna's service.” (CC, Madhya
+“Raghunandana serves in Krishna's temple. At its door there is a pond, and above its bathing steps stands a kadamba tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Krishna.” (CC, Madhya
 15.128–129)[^5] <!-- F29 -->
 
 Bidding farewell to the devotees of Gauda, Mahaprabhu gave each of the residents of Shrikhanda his own service. He told
 Raghunandana to serve the Deity, thinking of nothing else:
 
-“Raghunandana, for his part, should continue his service to Krishna, for without it he cannot even conceive of his
-life.” (CC, Madhya 15.131) <!-- F30 -->
+“Raghunandana's duty is to serve Krishna; his mind turns to nothing but serving Krishna.” (CC, Madhya 15.131) <!-- F30 -->
 
 According to one biography, Mahaprabhu, the father of sankirtana, gave Raghunandana, as though to an adopted son, the right
 to offer the garland at the adhivasa on the eve of the sankirtana-yajna and to make the concluding offering at its end.
@@ -112,20 +103,19 @@ of the same book, as one biography cites it, it is said that he served the Deity
 ## Every Year to Puri
 When the Lord returned from the South, the residents of Khanda set out to Him together with everyone:
 
-“Mukunda, Narahari and Raghunandana of Khanda also came to the Acharya's house in order to go with Him to Jagannatha
-Puri.” (CC, Madhya 10.90) <!-- F37 -->
+“Mukunda, Narahari and Raghunandana came from Khanda to the Acharya, to go with Him to Nilachala.” (CC, Madhya 10.90) <!-- F37 -->
 
 From then on, as long as the Lord was manifest, Raghunandana went to Nilachala every year with the Bengali devotees for
 the chaturmasya. Mukunda, Narahari, Raghunandana and Chiranjiva lived in Khanda, one in purpose, and every year went
 together to Puri for the Ratha-yatra. When King Prataparudra watched the arrivals from Gauda, Gopinatha Acharya pointed out
 Raghunandana to him as well:
 
-“And here are the residents of Khanda: Mukunda Dasa, Narahari, Sri Raghunandana, Chiranjiva and Sulochana.” (CC, Madhya
+“Here are Mukunda Dasa, Narahari and Sri Raghunandana, and Chiranjiva and Sulochana — residents of Khanda.” (CC, Madhya
 11.92) <!-- F38 F42 -->
 
 At the Lord's wish he danced and sang before Jagannatha's chariot. Of the seven kirtana parties one was from Shrikhanda:
 
-“The singers of Khanda formed the seventh party. Its dancers were Narahari and Raghunandana.” (CC, Madhya 13.46) <!-- F36 Q14 -->
+“The group from Khanda held its kirtana in another place; Narahari and Sri Raghunandana danced there.” (CC, Madhya 13.46) <!-- F36 Q14 -->
 
 Kavi Karnapura speaks of them in the “Chaitanya-chandrodaya-nataka”:
 
@@ -253,14 +243,21 @@ Gopikananda, from him Yugalananda, from him Gauragunananda. Lalitananda's sons w
 Premananda's sons were Sarvananda (whose son was Jivananda), Kishorananda and Dvarakinatha; Keshavananda's sons were
 Kirtanananda, Rakhalananda and Banavarinanda. <!-- F72 -->
 
-Raghunandana's descendants still live at Shrikhanda; one of the best known is Panchanana Kaviraja. According to Bhaktivedanta
-Swami, drawing on Bhaktivinoda Thakura's commentary, the family numbers no fewer than four hundred men, and all their
-names are recorded at Shrikhanda. <!-- F73 -->
+Raghunandana's descendants still live at Shrikhanda; one of the best known is Panchanana Kaviraja. According to Srila
+Bhaktisiddhanta (“Anubhashya” on CC, Adi 10.78), a little over four hundred persons have been born in this family, and
+their whole genealogy is kept at Shrikhanda. <!-- F73 -->
 
 The poet Rayashekhara, or Kavishekhara Raya, is known as a “disciple” of Raghunandana; many padas in Brajabuli circulate
 under this name. In general, quite a few padas on Gauranga bear the names of his disciples and their disciples, but they
 cannot all be accepted indiscriminately — not everything ascribed to them is genuine. Some consider the Sanskrit hymns
 “Sri Gaura-namamrita-stotra” and “Sri Shachisutashtaka” to be the works of Raghunandana himself. <!-- F74 I3 F75 -->
+
+Narahari Chakravarti prays to him as well in the “Namamrita-samudra,” his appeals to the Lord's associates — together
+with Pundarika Vidyanidhi:
+
+“Vidyanidhi, Halayudha, Sri Raghunandana! Make me rich just once by giving me the wealth of prema.” (“Namamrita-samudra”
+20)
+<!-- F79 -->
 
 ## Pradyumna
 Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who he is in the eternal pastimes:

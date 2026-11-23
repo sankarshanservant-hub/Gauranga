@@ -1,0 +1,118 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/bhagavan-acharya.md и lila-db.
+id: "@bhagavan-acharya"
+names:
+  ru: "Бхагаван Ачарья"
+  en: "Bhagavan Acharya"
+  variants: ["Шри Бхагаван Ачарья", "хромой (кханджа) Бхагаван Ачарья", "Ачарья Бхагаван Кханджа (ГГД 74)", "Khanja Bhagavan Das (T 73)", "«гопа» — так зовёт его Сварупа (ЧЧ Антья 5.101)", "Ньяячарья (титул, B, T)"]
+  facts: [F1, F11]
+kind: associate
+circle: [puri]
+period: [P12, P14]
+period_note: "Лично в Пури — с возвращения Господа с юга (P12; ЧЧ Мадхья 10.184, ЧБ Антья 3.188, F19–F20, F25) и в антья-лиле (P14; Гопала, рис Мадхави, драма поэта, Чатака-парвата, F27–F43). До того — в Халисахаре и Навадвипе (брак, сыновья; первый приход к Господу и возвращение домой — только по «Абхидхане», F12–F15, ⚠9)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#navadvipa?"
+    conf: "по T («Гаудия-вайшнава-абхидхана») — явился в Навадвипе, затем жил в Халисахаре; B — житель Халисахара (⚠10); год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-17) его дней нет"
+    facts: [F7, F8, F17]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "дата, место и обстоятельства ухода неизвестны (ни B, ни T); в календаре ШЧСМ (541/ru, проверено 2026-11-17) его дней нет"
+    facts: [F17]
+origin:
+  places: ["#kumarahatta", "#navadvipa?"]
+  family: ["отец Шатананда Хан", "младший брат Гопала Бхаттачарья (@gopala-bhattacharya)", "жена — дочь Мадхусуданы Гхатаки из Навадвипы", "сыновья Рагхунатха (Ачарья) и Раманатха"]
+  varna: "брахман (ЧЧ Антья 10.154–155 — в числе брахманов, готовивших для Господа; «Бхаттачарья» у брата)"
+  facts: [F7, F8, F9, F10, F12, F14, F26]
+relations:
+  - {type: served-by, who: "@mahaprabhu", facts: [F13, F19, F21, F23, F24, F26, F33, F35, F43],
+     events: [ev-devotees-gather-nilachala, ev-chhota-haridasa-punished, ev-ramachandra-puri-criticism, ev-chaitanya-dasa-feast, ev-chataka-parvata-govardhana],
+     note: "Безраздельно предан стопам Господа; оставив всё, жил у Его стоп в Пури (ЧЧ Мадхья 10.184); приглашал Его и кормил одного (Антья 2.86–87); по его приглашению Господь ел по его желанию (Антья 8.88); по «Абхидхане» Господь сперва отослал его домой (F13, ⚠9)."}
+  - {type: sibling, who: "@gopala-bhattacharya", facts: [F9, F10, F27, F28, F29, F30, F31, F32], events: [ev-gopala-bhattacharya-mayavada],
+     note: "Младший брат, майявади, изучил Веданту в Каши; Господь внешне учтив с ним ради Бхагавана; по слову Сварупы Бхагаван отослал его на родину (ЧЧ Антья 2.89–100)."}
+  - {type: friend, who: "@svarupa-damodara", facts: [F22, F29, F30, F31, F38, F39, F40, F41], events: [ev-gopala-bhattacharya-mayavada, ev-bengali-poet-drama-svarupa],
+     note: "Дружба (сакхья) со Сварупой (ЧЧ Антья 2.85); Сварупа с любовным гневом удержал его от слушания майявады (2.93–100) и упрекнул за просьбу послушать драму поэта (5.99–110); = @svarupa-damodara F48–F56."}
+  - {type: other, who: "@chhota-haridasa", facts: [F23, F33, F34, F35], events: [ev-chhota-haridasa-punished],
+     note: "Послал его к Мадхави-деви за маном тонкого риса для трапезы Господа; за беседу с женщиной Господь отказал Харидасу в доступе (ЧЧ Антья 2.101–113)."}
+  - {type: other, who: "@madhavi-devi", facts: [F33, F35], events: [ev-chhota-haridasa-punished], note: "От её имени (через Младшего Харидаса) получил рис (ЧЧ Антья 2.103–107)."}
+  - {type: other, who: "@shikhi-mahiti", facts: [F4, F33], note: "Рядом в перечне ветвей в Пури (ЧЧ Ади 10.136); его сестра Мадхави дала рис."}
+  - {type: other, who: "@govinda-servant", facts: [F35], events: [ev-chhota-haridasa-punished], note: "Господь велел Говинде не пускать Младшего Харидаса (ЧЧ Антья 2.112–113)."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F24], events: [ev-ramachandra-puri-criticism], note: "Вместе с ним и Сарвабхаумой — те, чьи приглашения Господь принимал всегда (ЧЧ Антья 8.88)."}
+  - {type: other, who: "@sarvabhauma", facts: [F20, F24], events: [ev-ramachandra-puri-criticism], note: "Там же (ЧЧ Антья 8.88); T: пришёл к Господу после избавления Сарвабхаумы."}
+  - {type: other, who: "@ramachandra-puri", facts: [F24], events: [ev-ramachandra-puri-criticism], note: "В пору урезанной из-за Рамачандры Пури меры пищи Господь у него ел по его желанию (B 801; T 149)."}
+  - {type: other, who: "@paramananda-puri", facts: [F43], events: [ev-chataka-parvata-govardhana], note: "Бежали за Господом к Чатака-парвате (ЧЧ Антья 14.90)."}
+  - {type: other, who: "@brahmananda-bharati", facts: [F4, F43], events: [ev-chataka-parvata-govardhana], note: "Рядом в перечне ветвей (Ади 10.136) и у Чатака-парваты (Антья 14.90)."}
+  - {type: other, who: "@pradyumna-mishra", facts: [F25], events: [ev-gauda-devotees-arrive-puri], note: "Вместе в перечне ЧБ Антья 8.56–61; T 142 — «главные среди любящих преданных Пури» (вольность, = @pradyumna-mishra ⚠5)."}
+  - {type: other, who: "@kashishvara", facts: [F25, F26], events: [ev-gauda-devotees-arrive-puri, ev-chaitanya-dasa-feast], note: "Там же; вместе готовили для Господа (ЧЧ Антья 10.154–155)."}
+  - {type: other, who: "@advaita", facts: [F25], events: [ev-gauda-devotees-arrive-puri], note: "Шёл с Господом встречать Адвайту и гаудийцев (ЧБ Антья 8.54–61; T 141)."}
+  - {type: neighbor, who: "@shivananda-sena", facts: [F7], note: "Хромой Бхагаван Ачарья жил в Кумарахатте (Халисахаре), как и Шивананда, Шриваса, Васудева Датта (B 779; T 73); = @shivananda-sena F14."}
+  - {type: neighbor, who: "@srivasa", facts: [F7], note: "Там же (B 779; T 73)."}
+  - {type: neighbor, who: "@vasudeva-datta", facts: [F7], note: "Там же (B 779; T 73)."}
+  - {type: other, who: "@jahnava", facts: [F14, F18, F44], note: "К Джахнаве у Халисахара присоединился его сын Рагхунатха Ачарья (БР 10.382; НВ 6.214–215); T 140 — «и он, и сын» (ошибка T, ⚠5; в карточке @jahnava связь снята, 2026-11-17)."}
+  - {type: other, who: "@jagadisha-pandita", facts: [F44], note: "Сын Рагхунатхачарья — (любимейший) ученик Джагадиши Пандита («Анубхашья» к ЧЧ Ади 11.30; НВ 6.214; = @jagadisha-pandita F72)."}
+  - {type: other, who: "@nandana-acharya", facts: [], note: "Не путать: тоже хромой; двустишие «Карчи» о «Кханджане Ачарье» B 758 относит к Нандане, наш перевод «Карчи» — видимо, к Бхагавану Ачарье (= @nandana-acharya ⚠3; ур. D)."}
+  - {type: other, who: "@bhagavan-pandita", facts: [], note: "Тёзка, не путать (ЧЧ Ади 10.69; ЧБ Антья 8 — среди гаудийцев)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F2, F5, F7, F14, F30], note: "«Анубхашья» к ЧЧ Ади 10.136 (Халисахар, сын Рагхунатха по БР, ГГД 74), к Антья 2.95–98 (яд майявады — подзаголовки, которые B пересказывает), к Ади 12.88 («другой» Бхагаван Ачарья ветви Гададхары, ⚠3)."}
+unnamed:
+  - {who: "Шатананда Хан — отец, богатый и крайне мирской (ЧЧ Антья 2.88)", type: father, facts: [F9]}
+  - {who: "дочь Мадхусуданы Гхатаки из Навадвипы — жена (по «Абхидхане», B 949, T 140)", type: spouse, facts: [F12, F15]}
+  - {who: "Мадхусудана Гхатака из Навадвипы — тесть", type: relative, facts: [F12]}
+  - {who: "Рагхунатха (Ачарья) — сын, ученик Джагадиши Пандита; присоединился к Джахнаве у Халисахара (БР 10.382; НВ 6.214–215)", type: son, facts: [F14, F18, F44]}
+  - {who: "Раманатха — сын", type: son, facts: [F14]}
+  - {who: "шурин (брат жены) — опекал его семью", type: relative, facts: [F15]}
+  - {who: "ученики (шишья-варга) — опекали его семью", type: disciple, facts: [F15, F16]}
+  - {who: "бенгальский брахман-поэт, давний знакомый, автор драмы о Господе (ЧЧ Антья 5.91–158)", type: friend, facts: [F37, F39, F40, F41, F42], events: [ev-bengali-poet-drama-svarupa]}
+  - {who: "Рамабхадра Ачарья — вместе остались у стоп Господа (ЧЧ Мадхья 10.184; «Гаура-кришнодая» 11.29)", type: companion, facts: [F19, F26, F45]}
+identities:
+  - in: tattva
+    as: "кала (часть) Гауры"
+    source: "ГГД 74"
+    level: A
+    facts: [F2]
+    variants: ["T 140 — «expansion» Махапрабху; передавать «часть (кала) Гауры» (⚠Б3)."]
+  - in: krishna-lila
+    as: "пастушок (гопа), друг Кришны в сакхья-расе"
+    source: "ЧЧ Антья 2.85"
+    level: A
+    facts: [F3]
+    variants: ["Сварупа называет его «гопа» (ЧЧ Антья 5.101). Имя пастушка источники не называют."]
+events:
+  - ev-tattva-bhakti-kalpataru
+  - ev-devotees-gather-nilachala
+  - ev-svarupa-paramananda-arrive
+  - ev-gauda-devotees-arrive-puri
+  - ev-gopala-bhattacharya-mayavada
+  - ev-chhota-haridasa-punished
+  - ev-bengali-poet-drama-svarupa
+  - ev-ramachandra-puri-criticism
+  - ev-chaitanya-dasa-feast
+  - ev-chataka-parvata-govardhana
+events_note: "ev-gauda-devotees-arrive-puri — по ЧБ Антья 8.56–61 (лила cb-3103; тег добавлен при проверке 2026-11-17, ⚠11); ev-svarupa-paramananda-arrive — также «Гаура-кришнодая» 11.28–29 (gkd-0106, F45); ev-chaitanya-dasa-feast — лила cc-4105 (ЧЧ Антья 10.142–157), он лишь в перечне брахманов-поваров 10.154–155; ev-svarupa-paramananda-arrive — лила cb-3043 (ЧБ Антья 3.188); ev-devotees-gather-nilachala — также Карнапура 13.145–148 (kcm-0138)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#kumarahatta", "#navadvipa", "#puri", "#chataka-parvata", "#kashi"]
+places_facts: [F7, F8, F12, F13, F15, F19, F27, F43]
+character:
+  - {trait: "простота и великодушие: готов слушать всякого — за то особенно дорог Господу", facts: [F21, F29, F39, I2]}
+  - {trait: "отрешённость от мирского с юных лет; мирские речи не касались его даже через слух", facts: [F9, F12, F15, F20]}
+  - {trait: "любовь к угощению Господа: сам готовил и кормил Его одного", facts: [F23, F34, F35]}
+  - {trait: "смирение и послушание доброму совету: устыдившись, отослал брата-майявади", facts: [F32]}
+  - {trait: "учёность (Ньяячарья, супандита)", facts: [F11]}
+  - {trait: "хромой, но не отставал: медленно шёл за Господом к Чатака-парвате", facts: [F6, F43]}
+significance: {facts: [F2, F3, F30, I1, I2]}
+sources:
+  T: "140–142 (гл.); 73, 136, 142 (гл. о Прадьюмне), 149"
+  M: "главы и упоминаний нет"
+  B: "947–949 (гл.); 213–216, 758, 779, 801, 881, 896"
+  other: ["ГГД 74", "ЧЧ Ади 10.136", "ЧЧ Мадхья 10.184", "ЧЧ Антья 2.84–120, 5.91–158, 8.88–89, 10.154–155, 14.84–90", "ЧБ Антья 3.188, 8.56–61", "Карнапура, махакавья 13.147", "БР 10.381–383, 15.5", "«Анубхашья» к Ади 10.136, 11.30, 12.88; Антья 2.95–98", "«Нароттама-виласа» 6.214–215", "«Гаура-кришнодая» 11.29", "«Вайшнавабхидхана» 36 (?)", "«Карча» Говинды Даса 2375, 2390 (?, ур. D)", "«Намамрита-самудра» 131"]
+article: {ru: "parshadas/ru/bhagavan-acharya.md", en: "parshadas/en/bhagavan-acharya.md"}
+open_questions:
+  - "Место рождения: Навадвипа (T по «Абхидхане») или Халисахар (B) (⚠10)."
+  - "Принял ли он санньясу (T: «renounced order») или лишь оставил дом (B; ЧЧ молчит) (⚠4)."
+  - "Стих «Шакха-нирнаямриты» у T — о нём или о «другом» Бхагаване Ачарье ветви Гададхары (⚠3)."
+  - "«Кханджан Ачарья» «Карчи» у Алаланатхи — он ли (ур. D)."
+  - "Даты явления и ухода, место ухода неизвестны; в календаре ШЧСМ его дней нет."

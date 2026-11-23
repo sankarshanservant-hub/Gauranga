@@ -7,9 +7,7 @@ Chaitanya and of those who established His cherished desire. The Lord's biograph
 names: Raghunatha Bhattacharya, Bhatta Raghunatha, Bhatta Gosvami, or simply Raghunatha. At the very beginning of the
 “Chaitanya-charitamrita” Krishnadasa Kaviraja Gosvami honours him among his six instructors:
 
-“Sri Rupa and Sri Sanatana Gosvami, Sri Bhatta Raghunatha Gosvami, Sri Jiva Gosvami, Srila Gopala Bhatta Gosvami and
-Sri Dasa Raghunatha Gosvami. With reverence I bow millions of times at the lotus feet of these six instructors of
-mine.” (CC, Adi 1.36–37) <!-- F1 F4 F5 Q14 -->
+“Sri Rupa, Sanatana, Raghunatha Bhatta, Sri Jiva, Gopala Bhatta and Raghunatha Dasa — these six are my instructing gurus; at the lotus feet of them all I offer millions of obeisances” (CC, Adi 1.36–37) <!-- F1 F4 F5 Q14 -->
 
 He is non-different from Sri Rupa and belongs to him entirely: among the followers of Rupa he is the best, the crown of
 the Rupanuga acharyas. Srila Bhaktisiddhanta Sarasvati, tracing the line of instruction (shiksha-parampara), leads it
@@ -26,8 +24,7 @@ Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 10.153–158) places his app
 ## Tapana Mishra
 Raghunatha was the son of Tapana Mishra; so both Murari Gupta and Krishnadasa Kaviraja call him:
 
-“I shall also tell of three devotees of Sri Chaitanya in Varanasi: the physician Chandrashekhara, Sri Tapana Mishra
-and his son, Raghunatha Bhattacharya.” (CC, Adi 10.152–153) <!-- F9 -->
+“In Varanasi the Lord had three devotees: Chandrashekhara the physician, Tapana Mishra and his son Raghunatha Bhattacharya. When the Lord came to Kashi after seeing Vrindavana,” (CC, Adi 10.152–153) <!-- F9 -->
 
 Tapana Mishra came from East Bengal, from the village of Rampur on the bank of the Padma; the “Prema-vilasa” also says
 that he met the Lord at Rampur on the bank of the Padmavati. This was in the days when Mahaprabhu, in His pastime as a
@@ -84,8 +81,7 @@ Bhattacharya cooked for the Lord. <!-- F20 F21 -->
 
 On His way back from Vrindavana Mahaprabhu stayed in Kashi a long time:
 
-“When Sri Chaitanya came to Varanasi, He lived for two months with Chandrashekhara and took prasada in the house of
-Tapana Mishra. As a child Raghunatha served Sri Chaitanya, washing the Lord's dishes and massaging His lotus feet.”
+“He stayed for two months in Chandrashekhara’s house and for two months took His meals in the house of Tapana Mishra. As a boy Raghunatha served the Lord, cleaning up after His meals and massaging His feet”
 (CC, Adi 10.154–155)[^3]
 
 The poet Radhavallabha, in his song about Raghunatha Bhatta, also recalls how he received Gaurachandra in his home and
@@ -93,8 +89,7 @@ served His feet for two months. <!-- F22 Q1 -->
 
 The boy washed the dishes after the Lord's meal, honoured His remnants and massaged His feet:
 
-“When Mahaprabhu was resting after His meal, Tapana Mishra's son named Raghu began to massage His feet. Then Tapana
-Mishra with his household honoured the remnants of the Lord's meal.” (CC, Madhya 17.90–91) <!-- F23 Q4 -->
+“After His meal Mahaprabhu lay down to rest, and Mishra's son Raghu massaged His feet. Mishra and all his family ate the Lord's remnants.” (CC, Madhya 17.90–91) <!-- F23 Q4 -->
 
 Having delivered the people of Kashi, the Lord set out for Nilachala. Tapana and Raghunatha longed to go with Him, but
 He consoled them and left them in Kashi. The boy wept, clasping His feet; the Lord took him on His lap and said: “Serve
@@ -115,8 +110,7 @@ When he had grown up, Raghunatha gave up all his affairs, gathered various delic
 a travelling bag — and set out for Nilachala. By one account his father himself told him to go, and his mother cooked
 sweets for the Lord and packed them in a large bag, and he set off with a servant, with his parents' blessings. <!-- F33 -->
 
-“At that time Raghunatha Bhattacharya, the son of Tapana Mishra, left home and all his worldly duties to meet Sri
-Chaitanya. He set out from Varanasi by the road through Bengal, together with a servant who carried all his things.”
+“Meanwhile Raghunatha Bhattacharya, the son of Tapana Mishra, left all his affairs and set out to see the Lord. He travelled from Kashi by the road through Gauda, and a servant went with him, carrying his bag.”
 (CC, Antya 13.89–90) <!-- Q5 -->
 
 On the way he met Ramadasa Vishvasa — a kayastha, the king's trusted man (vishvasa) (by one account, trusted by the Shah,
@@ -127,9 +121,7 @@ given up everything and was going to Jagannatha. Meeting Raghunatha, Ramadasa ca
 massaged his feet. Raghunatha was embarrassed:
 
 “O Ramadasa! You are a theologian and a great devotee of God, and you have attained a high position in the world. To
-walk with me, you have no need at all to serve me.” Ramadasa answered: “I am a shudra, a sinner. Service to brahmanas is
-my foremost religious duty. Please, do not let my service trouble you in the least. I am your servant, and this gives my
-heart great joy.” (CC, Antya 13.96–98)[^4] <!-- F34 F35 -->
+walk with me, you have no need at all to serve me.” Ramadasa answered: “I am a lowly shudra! To serve a brahmana is my own dharma. Do not feel uneasy: I am your servant. When I serve you, my heart is filled with joy.” (CC, Antya 13.96–98)[^4] <!-- F34 F35 -->
 
 In Puri Raghunatha prostrated himself at Mahaprabhu's feet. The Lord, calling him by name, lifted him up and embraced
 him, and Raghunatha conveyed to Him the obeisances of Tapana Mishra and Chandrashekhara. The Lord asked after them, after
@@ -138,9 +130,7 @@ the devotees, and the Lord said: “I cannot forget your parents' love: every da
 the devotees his parents' greetings and news of Chandrashekhara and others, and the Lord, delighted with the Bengali
 sweets his mother had sent, told Govinda to put them away carefully. <!-- F36 F37 F38 -->
 
-“Then Sri Chaitanya said: ‘How good that you have come. Go now for darshan of Lord Jagannatha, and afterwards come to Me
-to take prasada.’ Sri Chaitanya asked Govinda to find lodging for Raghunatha Bhatta. Then the Lord introduced him to
-Svarupa Damodara and the other Vaishnavas.” (CC, Antya 13.103–104)
+“‘It is good that you have come. Go and see the lotus-eyed Lord (Jagannatha), and today you will take prasada here with Me.’ Through Govinda the Lord arranged lodging for him and introduced him to Svarupa and the other devotees.” (CC, Antya 13.103–104)
 
 Raghunatha bathed in the ocean with the devotees, saw Jagannatha, and at the Lord's bidding Govinda gave him prasada.
 <!-- F39 F40 Q6 -->
@@ -150,9 +140,7 @@ and pride in his learning (CC, Antya 13.109–110). <!-- F41 -->
 
 For eight months Raghunatha lived near the Lord. From time to time he invited Him home and cooked with his own hands:
 
-“He often invited Sri Chaitanya to his home and cooked for Him choice rice and many vegetable dishes. Raghunatha Bhatta
-was so skilled a cook that every dish he prepared was like the nectar of the gods. With great joy Sri Chaitanya ate
-everything he cooked, and after the meal Raghunatha Bhatta honoured Mahaprabhu's remnants.” (CC, Antya 13.106–108)
+“From time to time he would invite Mahaprabhu and cook rice and various vegetable dishes at his home. Raghunatha Bhatta was highly expert in cooking; whatever he cooked became like nectar. With great satisfaction the Lord would eat, and the Bhatta would take the remnants left on His plate.” (CC, Antya 13.106–108)
 <!-- F42 F43 Q7 -->
 
 He saw the Lord sing and dance in ecstasy before Jagannatha's chariot at the Ratha-yatra. He also helped Jagadananda
@@ -166,9 +154,7 @@ Raghunatha had not entered family life and did not wish to. The Lord told him to
 all that the thirst for sense pleasure drives one to — overeating, excessive endeavour, greed (atyahara, prayasa,
 laulya) and everything else that hinders bhakti. <!-- F47 -->
 
-“Eight months passed. Raghunatha Bhatta made ready to go home, and Sri Chaitanya, taking leave of him, forbade him to
-marry. Sri Chaitanya said to Raghunatha Bhatta: ‘On returning home, go on serving your aged parents, and study the
-“Srimad-Bhagavatam” under the guidance of a genuine Vaishnava.’” (CC, Antya 13.112–113)
+“When he had stayed eight months, the Lord bade the Bhatta farewell and forbade him, saying, ‘Do not marry. Go and serve your aged mother and father, and study the *Bhagavata* under a Vaishnava.’” (CC, Antya 13.112–113)
 
 His parents were Vaishnavas and could not be neglected. And the “Bhagavata,” the true commentary on the Vedanta, which
 leads to Krishna's pleasure, the Lord told him to study with a pure devotee who knew it. When his parents were gone, he
@@ -179,7 +165,7 @@ One of the biographers raises a question. Raghunatha Dasa the Lord told to leave
 the most venerable persons for a son, He did not hesitate to call worms in a pit of worldly filth; Raghunatha Bhatta, on
 the other hand, He told to serve his aged parents. And He Himself is the crown of all who are devoted to their mother:
 
-“Mahaprabhu is the crown of all who are devoted to their mother. Even after accepting sannyasa, He always served her.”
+“The Lord is the crown jewel of all who are devoted to their mothers. Even after taking sannyasa, He always served His mother.”
 (CC, Antya 19.14)
 
 Does He not contradict Himself? <!-- I1 Q9 -->
@@ -195,8 +181,7 @@ motherland are greater than heaven, and that a father's joy delights all the god
 By the example of Raghunatha Dasa, on the other hand, the Lord teaches moralists who are strangers to bhakti: one who has
 given up his desires and worships Krishna according to the shastras is no longer in debt to anyone:
 
-“One who gives up all his worldly desires and devotes himself to the worship of Krishna according to the instructions of
-the scriptures owes nothing any more to the gods of the universe, the great sages or the forefathers.” (CC, Madhya
+“One who gives up desires and worships Krishna, honouring the command of scripture, is never in debt to the gods, the sages or the forefathers.” (CC, Madhya
 22.135) <!-- I3 Q10 -->
 
 The Lord told Raghunatha to come to Nilachala again, placed His own prasada garland around his neck[^5] and, embracing
@@ -220,9 +205,7 @@ wife, the Lord long praised their devotion. As before, Raghunatha stayed with Hi
 
 Then the Lord said to him:
 
-“‘O Raghunatha Bhatta! I wish you to go and live in Vrindavana under the guidance of Rupa and Sanatana Gosvamis. Always
-chant the holy name of Krishna and study the “Srimad-Bhagavatam.” And very soon Lord Krishna Himself will grant you His
-special mercy.’” (CC, Antya 13.120–121)
+“‘Raghunatha, by My order go to Vrindavana. Go there and stay with Rupa and Sanatana. Read the *Bhagavata* and always take the name of Krishna. Very soon Krishna, Bhagavan, will bestow His mercy on you.’” (CC, Antya 13.120–121)
 
 He was to follow in Rupa's footsteps and there, under the guidance of Rupa and Sanatana, go on studying and expounding
 the “Bhagavata” and other scriptures. By one account the Lord added: “There is much to be done in Vrindavana. By My
@@ -261,8 +244,7 @@ ragas. When he read or heard of Krishna's beauty and sweetness, love deprived hi
 Govinda were the one treasure of his life; surrendered to them, he spent all eight praharas hearing, singing and
 remembering Govinda's pastimes (by one account, those of Gaura-Govinda). <!-- F63 F64 F65 F66 F67 Q12 -->
 
-“Afterwards he told his disciples to erect a temple for Lord Govinda. He personally made many different ornaments for the
-Deity of Govinda, such as a flute and earrings in the shape of the makara, the mythic sea creature.” (CC, Antya
+“Through his own disciple he had a temple built for Govinda, and he gave the Deity a flute, *makara*-shaped earrings and other ornaments.” (CC, Antya
 13.131)[^6]
 
 By one account, Govinda, who had appeared at Goma-tila, was served at first in a hut, and later a disciple of Raghunatha
@@ -273,24 +255,20 @@ He never spoke of worldly matters nor listened to worldly talk of fortune and mi
 to conversation about Krishna and to His worship (CC, Antya 13.132). Nor did he listen to criticism of Vaishnavas, not
 even to accounts of someone's misdeed:
 
-“He never listened to criticism of Vaishnavas for any misdeed. He knew only that everyone serves Krishna, and did not
-even wish to think otherwise.” (CC, Antya 13.133)
+“He would not let the blameworthy deeds of a Vaishnava reach his ears. ‘Everyone serves Krishna’—this alone he knew.” (CC, Antya 13.133)
 
 In him the marks of the best of maha-bhagavatas were present in full: not a shadow of fault-finding, and the vision of
 Krishna and of service to Him everywhere. For such secluded maha-bhagavatas, who see as he did — “everyone serves
 Krishna” — there is no room either for condescending mercy or for disregard: the highest devotee sees in everyone the
 same love for his own worshipful Lord that lives in himself. <!-- F69 F70 Q19 I5 -->
 
-“When he meditated on Krishna, he would take Mahaprabhu's gift — the tulasi garland and Jagannatha's prasada — tie them
-together and put them around his neck. Thus I have described the supreme fruit of the mercy of Sri Chaitanya Mahaprabhu.
-By Sri Chaitanya's mercy Raghunatha Bhatta became wholly absorbed in pure love for Krishna.” (CC, Antya
+“At the time of remembrance (*smarana*) he would tie the *mala* given by Mahaprabhu together with Jagannatha's prasada, the *kadara*, and wear it around his neck. By Mahaprabhu's mercy his love for Krishna flowed unrestrained. In this, as I have told, lies the fruit of Chaitanya's mercy.” (CC, Antya
 13.134–135)[^8] <!-- F71 F72 -->
 
 When Rupa stayed for a month in Mathura in the house of Vitthalanatha, son of Vallabha Bhatta, and beheld Gopala-deva,
 Raghunatha Bhatta was in his retinue:
 
-“He was accompanied by Gopala Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa
-Gosvami.” (CC, Madhya 18.49)
+“With him were Gopala Bhatta, Raghunatha Dasa, Raghunatha Bhatta Gosani and Lokanatha…” (CC, Madhya 18.49)
 
 See the article on Rupa Gosvami. <!-- F73 Q17 -->
 

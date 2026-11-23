@@ -20,14 +20,12 @@ more below, as Kaveri (GGD 168). <!-- F2 F42 Q1 -->
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, gives him the tenth place — and at once says what
 he is remembered for:
 
-“The tenth branch is Sri Damodara Pandita. He had such great love for Sri Chaitanya that once he even rebuked Him.”
+“Damodara Pandita, another branch, was so fierce in his love that he even rebuked the Lord”
 (CC, Adi 10.31)
 
-“I shall tell of this in more detail later. Fully pleased with this reproach, Sri Chaitanya sent Damodara to
-Navadvipa.” (CC, Adi 10.32)
+“I shall tell the story of that rebuke in detail later. Pleased with it, the Lord sent him to Nadiya” (CC, Adi 10.32)
 
-“The eleventh branch is Shankara Pandita, Damodara's younger brother. Everyone also called him Prabhu-padopadhana (the
-pillow for the Lord's feet).” (CC, Adi 10.33)
+“His younger brother, Shankara Pandita, is a branch known by the name “the Lord’s footrest.”” (CC, Adi 10.33)
 
 The love that dares to reproach the Lord Himself the “Charitamrita” calls *prachanda*, “impetuous.” In the language of
 the Vaishnavas such a reproach is *vakya-danda*, “chastisement by word.” It is neither impudence nor self-assurance: the
@@ -120,17 +118,16 @@ the sannyasa his name is heard too: “How will Gadadhara and Damodara live?” 
 From Katwa Nityananda cleverly brought the Lord to Shantipura, to the house of Advaita Acharya. All the people of
 Navadvipa came there, and Damodara with them:
 
-“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
+“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari, Shuklambara…” (CC, Madhya 3.153)
 
-“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda and Sanjaya.” (CC, Madhya 3.154)
+“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda, Sanjaya…” (CC, Madhya 3.154)
 
 The Lord stayed in Shantipura ten days. His mother asked Him to settle in Puri so that she could receive news of Him,
 and He agreed. Then Advaita gave Him companions:
 
-“Nityananda, Jagadananda Pandita, Damodara Pandita and Mukunda Datta.” (CC, Madhya 3.209)
+“Nityananda Gosani, Jagadananda Pandita, Damodara Pandita and Mukunda Datta…” (CC, Madhya 3.209)
 
-“Sri Advaita asked these four to accompany Lord Chaitanya to Puri. Mahaprabhu comforted His mother and offered prayers
-at her feet.” (CC, Madhya 3.210)[^4]
+“…the Acharya sent these four with the Lord. The Lord consoled His mother and bowed at her feet.” (CC, Madhya 3.210)[^4]
 
 The “Charitamrita” says that Nityananda, Jagadananda, Damodara and Mukunda were beside themselves with joy at having
 the Lord's company (Madhya 1.100)[^5]. <!-- F4 F44 F5 F55 F65 F71 -->
@@ -151,11 +148,7 @@ longer utter the word “mukti” and said “bhakti” instead. Once he went fo
 Jagadananda and Damodara, and on returning home gave them maha-prasada for the Lord (CC, Madhya 6.248–249). With them
 he also sent a palm leaf bearing two verses about the Lord:
 
-“On a palm leaf Sarvabhauma wrote two verses and gave it to Jagadananda, asking him to deliver it to Sri Chaitanya.
-Jagadananda went to Mahaprabhu with the prasada and this palm leaf. Mukunda Datta took the leaf from Jagadananda's
-hands. Then Mukunda copied the verses onto the wall at the entrance of the room, and after that gave the leaf to Sri
-Chaitanya. As soon as the Lord read these verses, He at once tore up the leaf; but the devotees read them on the wall
-before Mahaprabhu's room and kept them in their hearts.” (CC, Madhya 6.250–253)
+“He wrote two verses of his own on a palm leaf and gave it into Jagadananda's hand, saying, ‘Give this to the Lord.’ The two came to the Lord with the prasada and the letter, and Mukunda Datta, finding the letter in Jagadananda's hand, took it. He copied the two verses onto the outer wall; then Jagadananda took the letter and gave it to the Lord. The Lord read the verses, tore up the leaf and threw it away, but the devotees saw them on the wall and all learned them by heart.” (CC, Madhya 6.250–253)
 
 The first glorifies the Lord who came as Sri Chaitanya to teach renunciation, knowledge and devotion to Himself; the
 second, the Lord who revived the path of love for Himself, almost lost over the ages (Madhya 6.254–255). Ever since,
@@ -175,21 +168,19 @@ and to go alone. Nityananda and the others could not reconcile themselves to the
 to take at least one companion. Then the Lord, as if excusing Himself, listed the “faults” of His intimates: each of
 them, He said, in his own way held Him in hand. Damodara's turn came too:
 
-“I am a sannyasi, and Damodara is a brahmachari, yet he always tries to instruct Me with a stick in his hand.” (CC,
+“I am a sannyasi and Damodara a brahmachari, yet he always stands over Me with the rod of instruction.” (CC,
 Madhya 7.25)
 
-“In his view I do not know the rules of proper conduct, and so he constantly tries to restrain My wilful nature.” (CC,
+“In his eyes I know nothing of proper conduct, and My independent ways do not please him.” (CC,
 Madhya 7.26)
 
-“By Krishna's mercy he does not care for public opinion, but I must always conform to people's notions of a
-sannyasi's duty, and therefore I cannot disregard it.” (CC, Madhya 7.27)
+“By Krishna's mercy he cares nothing for what people think; but I can never give up regard for what people think.” (CC, Madhya 7.27)
 
 The “staff of instruction” is *shiksha-danda*: by rule it is the sannyasi who carries the staff, yet here the
 brahmachari seems to hold a stick over the sannyasi. But Krishnadasa Kaviraja at once reveals what stands behind these
 “reproaches”:
 
-“The Lord is always conquered by the virtues of His devotees. Seemingly mentioning their faults, He was in truth
-relishing all these qualities.” (CC, Madhya 7.29)
+“The Lord is controlled by the very qualities of these devotees, and in the guise of finding fault with them He relished their virtues.” (CC, Madhya 7.29)
 
 One of the biographies observes that with these words the Lord subtly pointed to Damodara's chief trait —
 *nirapeksha*, freedom from regard for people and for one's own advantage. So, listing their imagined faults, the Lord
@@ -200,11 +191,9 @@ Krishnadasa (Madhya 7.39–40). <!-- F10 F11 F46 Q3 F73 -->
 For two years the devotees in Puri lived in separation. When the news came that the Lord was returning and had already
 reached Alalanatha, they could wait no longer:
 
-“Hearing of Mahaprabhu's approach, Nityananda Raya at once hastened to meet Him, unable to bear the waiting because of
-the feelings of divine love that overflowed Him.” (CC, Madhya 9.339)
+“Hearing of the Lord's arrival, Nityananda Raya rose and set out at once, unable to contain Himself for love.” (CC, Madhya 9.339)
 
-“Eager to see Sri Chaitanya, Jagadananda, Damodara Pandita and Mukunda danced with happiness, unable to master their
-feelings.” (CC, Madhya 9.340)
+“Jagadananda, Damodara Pandita and Mukunda went along dancing; their bodies could not contain their joy.” (CC, Madhya 9.340)
 
 According to one of the biographies, the Lord, having reached Alalanatha, Himself sent His servant Krishnadasa ahead
 with the news, and the four ran out to meet Him on the high road. <!-- F12 Q4 -->
@@ -213,11 +202,9 @@ That same Krishnadasa the Lord, on His return, decided to dismiss. He told Sarva
 had been enticed by women of a Bhattathari camp and had left the Lord; the Lord had rescued him with difficulty and now
 did not wish him to remain with Him. Krishnadasa wept. Taking pity on him, the four friends found a service for him:
 
-“Then a plan ripened in the minds of four devotees — Nityananda, Jagadananda, Mukunda and Damodara: ‘We must send
-someone to Bengal to tell Shachimata that Sri Chaitanya has arrived in Jagannatha Puri.’” (CC, Madhya 10.67–68)
+“Then Nityananda, Jagadananda, Mukunda and Damodara took counsel together in private: ‘We need to send someone to Gauda to tell mother Shachi that the Lord has returned.’” (CC, Madhya 10.67–68)
 
-“‘Hearing of Mahaprabhu's return, all the devotees headed by Advaita and Srivasa will surely come to see Him. We can
-send Krishnadasa to Bengal.’ With these words they gave him the assurance that he could still serve the Lord.” (CC,
+“‘When they hear of the Lord's return, all the devotees headed by Advaita and Srivasa will come. We will send this Krishnadasa to Gauda.’ Saying this, they reassured him and kept him with them.” (CC,
 Madhya 10.69–70)
 
 The next day they asked the Lord's permission, and He agreed (10.71–72). The news of the Lord's return gladdened mother
@@ -228,14 +215,13 @@ from Puri to Gauda and met Kala Krishnadasa there[^8]. <!-- F13 F47 F14 -->
 The news Krishnadasa brought roused all Bengal: the devotees, headed by Advaita, set out for Nilachala. With them came
 Shankara Pandita, Damodara's younger brother, and the Lord, seeing him, said to the elder:
 
-“Seeing Shankara, Sri Chaitanya addressed Damodara Pandita: ‘My love for you is imbued with the deepest reverence.’”
+“Seeing Shankara, the Lord said to Damodara, ‘My love for you is full of reverence…’”
 (CC, Madhya 11.146)
 
-“‘Therefore take charge of your brother, Shankara, for I am bound to him by ties of pure and unmixed love.’” (CC,
+“‘…but for Shankara I have pure, unmixed love. So keep Shankara with you.’” (CC,
 Madhya 11.147)
 
-“Damodara replied: ‘Shankara is my younger brother, but since he has obtained Your mercy, he has become my elder
-brother.’” (CC, Madhya 11.148)
+“Damodara said, ‘Shankara is younger than I, but now, by Your mercy, he has become my elder brother.’” (CC, Madhya 11.148)
 
 The Lord's love for Damodara is coloured by reverence (*gaurava*): the stern brahmachari is honoured by the Lord
 Himself. Towards Shankara, however, He feels a love that has no respectful distance, and therefore, as one of the
@@ -248,10 +234,10 @@ Siddha-bakula (CC, Madhya 11.196). And when the Lord Himself began to serve pras
 the food until He sat down; at Svarupa Damodara's request the Lord sat down to eat with Nityananda and the sannyasis,
 and then others took up the serving:
 
-“After this Mahaprabhu sat down with all the sannyasis, and Gopinatha Acharya with great joy began to serve prasada.”
+“He Himself sat down with all the sannyasis, and the Acharya served them with delight.”
 (CC, Madhya 11.207)
 
-“In jubilation Svarupa, Damodara Pandita and Jagadananda began to help him.” (CC, Madhya 11.208) <!-- F18 F19 -->
+“Svarupa, Damodara and Jagadananda — these three joyfully served the Vaishnavas.” (CC, Madhya 11.208) <!-- F18 F19 -->
 
 ## “If Damodara Says So”
 Prataparudra, the king of Orissa, longed with all his heart to see the Lord and asked for a meeting more than once;
@@ -259,26 +245,22 @@ when refused, he declared he would renounce his throne and live as a mendicant. 
 to ask the Lord directly, but only to tell Him of the king's devotion. The Lord's heart softened, but He answered
 sternly — and referred to Damodara:
 
-“‘You all want Me to go to Kataka to meet the king.’” (CC, Madhya 12.23)
+“‘You all want to take Me to Kataka and have Me meet the king.’” (CC, Madhya 12.23)
 
-“‘That will in no way raise Me spiritually, and besides, people will only laugh at Me! But why speak of people, when
-Damodara will shower Me with reproaches?’” (CC, Madhya 12.24)
+“Quite apart from the spiritual harm, people will condemn Me; and quite apart from the people, Damodara will scold Me.” (CC, Madhya 12.24)
 
-“‘I will not meet the king, in spite of the requests of all the devotees. It is possible only if Damodara gives his
-consent.’” (CC, Madhya 12.25)
+“‘I will not meet the king at the bidding of all of you. When Damodara tells Me to, then I shall meet him.’” (CC, Madhya 12.25)
 
 One of the biographies gives the interpretation of Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya”: valuing
 Damodara's devotion, the Lord with these words gently hinted that his reproaches were sometimes superfluous and that he
 would do well to beware of this inclination. Damodara himself answered with loving pique (*abhimana*):
 
-“‘You are the independent Supreme Lord,’ said Damodara. ‘You know perfectly well what should be done and what should
-not.’” (CC, Madhya 12.26)
+“Damodara said, ‘You are the independent Lord. You know everything — what should be done and what should not.’” (CC, Madhya 12.26)
 
-“‘I am only a tiny soul — how can I instruct You? If You wish, You will meet the king, and I shall see it.’” (CC,
+“What tiny soul am I, to give You rules? You will meet him of Your own accord, and that too I shall see.” (CC,
 Madhya 12.27)
 
-“‘Prataparudra has love for You, and You always reciprocate with Your devotees. In reward for his love You will grant
-him Your touch.’” (CC, Madhya 12.28)
+“The king holds You in affection, and You are ruled by affection. His affection will win him Your touch.” (CC, Madhya 12.28)
 
 In this answer lies the essence of all his “strictness.” The Lord is wholly independent, and no one has the right to
 give Him rules; but by His very nature He is conquered by love (*sneha-vasha*), and so whoever loves Him, him He will
@@ -288,8 +270,7 @@ surely accept. And so it came to pass. <!-- F20 F21 F22 F49 Q6 Q14 I2 I3 -->
 At the Ratha-yatra the Lord divided the kirtana into seven groups. The first was led by Svarupa Damodara, Advaita
 Acharya danced in it, and five sang the responses:
 
-“Svarupa Damodara He chose as the leader of the first group, and Mahaprabhu told five singers to sing the responses
-for him in the kirtana: Damodara, Narayana, Govinda Datta, Raghava Pandita and Sri Govindananda.” (CC, Madhya 13.36–37)
+“In the first group He made Svarupa the leader and gave him five others to sing the responses: Damodara, Narayana, Govinda Datta, Raghava Pandita and Sri Govindananda.” (CC, Madhya 13.36–37)
 
 Karnapura in the “Chaitanya-charita-mahakavya” also names among the singers of the Ratha-yatra “Srila Damodara, the
 best of brahmanas” (15.105), and Lochana Dasa sees him dancing in the Lord's kirtana together with Gadadhara, Narahari,
@@ -297,14 +278,12 @@ Nityananda, Srinivasa, Murari and Mukunda (“Chaitanya-mangala,” Madhya-khand
 Ratha-yatra, after the cleansing of the Gundicha temple, the Lord held a feast in the garden, and Damodara Pandita was
 one of the seven who served prasada:
 
-“Seven devotees — Damodara Gosvami, Jagadananda, Damodara Pandita, Kashishvara, Gopinatha, Vaninatha and Shankara —
-served prasada to all, while the others joyfully cried, ‘Hari! Hari!’” (CC, Madhya 12.163)[^9]
+“Svarupa Gosani, Jagadananda, Damodara, Kashishvara, Gopinatha, Vaninatha and Shankara — these seven served the food there, while from time to time the devotees called out ‘Hari!’” (CC, Madhya 12.163)[^9]
 <!-- F23 F50 F24 F67 F65 -->
 
 From then on he lived in Puri as one of the Lord's constant companions:
 
-“Gadadhara Pandita, Vakreshvara, Damodara, Shankara and Haridasa Thakura remained to live with the Lord in Puri.
-Jagadananda, Bhagavan, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara also moved there.” (CC, Madhya
+“Gadadhara Pandita Gosani lived in Nilachala, as did Vakreshvara, Damodara, Shankara and Haridasa. Jagadananda, Bhavananda, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara lived there too.” (CC, Madhya
 1.252–253)
 
 The “Charitamrita” names him both among those who associated closely with the Lord in Puri (Adi 10.124–126) and among
@@ -343,9 +322,9 @@ That year the Lord, having pondered Sanatana's words, went only as far as Kanai-
 reaching Vrindavana. On the way back He stayed with Advaita in Shantipura, and returned to Nilachala with only two
 companions:
 
-“‘I shall take only two with Me to Nilachala, and with the rest we shall meet at the Ratha-yatra.’” (CC, Madhya 1.235)
+“‘I shall go to Nilachala with two companions. Come and meet Me at the time of the Ratha-yatra.’” (CC, Madhya 1.235)
 
-“So Balabhadra Bhattacharya and Damodara Pandita went with Sri Chaitanya to Puri.” (CC, Madhya 1.236) <!-- F26 F27 -->
+“With two companions — Balabhadra Bhattacharya and Damodara Pandita — the Lord came to Nilachala.” (CC, Madhya 1.236) <!-- F26 F27 -->
 
 And when the Lord, having travelled through Northern India and visited Vrindavana, returned with Balabhadra through the
 forests of Jharikhanda, the devotees came out to meet Him and met Him at Narendra-sarovara. The Lord bowed before the
@@ -357,34 +336,27 @@ Damodara's best-known vakya-danda, which the “Charitamrita” promised to tell
 the Lord rejected Junior Haridasa. In Purushottama there lived a boy, the son of a deceased brahmana of Orissa —
 well-mannered and very handsome. Every day he came to the Lord, bowed to Him and talked with Him at length, holding Him
 dearer than his own life, and the Lord was kind to him. Damodara could not accept this. Again and again he forbade the
-boy to come, but the boy could not live a day without seeing the Lord: “children are always drawn to where they are
-given love” (CC, Antya 3.7). And one day, when the boy had left, Damodara could restrain himself no longer:
+boy to come, but the boy could not live a day without seeing the Lord: “a child goes where he is loved — such is the way of children” (CC, Antya 3.7). And one day, when the boy had left, Damodara could restrain himself no longer:
 
-“‘You instruct each and every one. You are the teacher even of other teachers. But we have yet to understand what kind
-of teacher You are.’” (CC, Antya 3.11)
+“He said to the Lord, ‘When it comes to instructing others, You are a pandita, and everyone hails You, “Gosani! Gosani!” Now we shall see what kind of Gosani You are.’” (CC, Antya 3.11)
 
-“‘Now all over Jagannatha Puri everyone will be talking about You. What will become then of Your reputation as a
-teacher?’” (CC, Antya 3.12)[^12]
+“‘Now all the people will sing the Gosani's qualities, and the Gosani's fame will spread all over Purushottama!’” (CC, Antya 3.12)[^12]
 
 He said it by hint, as if of someone else (*anyopadeshe*). The Lord asked, “What are you saying, Damodara?” — and he
 explained plainly:
 
-“Damodara Pandita replied: ‘You are the independent Lord. You act as You Yourself wish, and no one can forbid You. But
-if people begin to discuss Your behaviour, how will You stop them?’” (CC, Antya 3.13–14)
+“Damodara said, ‘You are the independent Lord. You behave as You please — who can say anything to You? But can You stop the mouths of a talkative world?’” (CC, Antya 3.13–14)
 
-“‘Lord! You are versed in all the scriptures. Why then do You not consider that this boy is the son of a brahmana
-widow? Why do You show him so much love?’” (CC, Antya 3.15)
+“You are a pandita — why do You not consider this? Why do You show such affection to the son of a widowed brahmani?” (CC, Antya 3.15)
 
-“‘Though his mother, this brahmana widow, is austere, pious and chaste, she has one fault: she is young and beautiful.
-You too are very handsome and young. Why then do You give people such strong cause for gossip?’” (CC, Antya 3.16–17)
+“‘Although that brahmani is austere and chaste, she has one fault: she is young and beautiful. And You too are very young and very handsome. You are giving people occasion for gossip.’” (CC, Antya 3.16–17)
 
 The Lord's response was unexpected:
 
-“Having said this, Damodara Pandita fell silent. And Sri Chaitanya, inwardly pleased, began with a smile to reflect:”
+“Having said this, Damodara fell silent. The Lord, pleased at heart, smiled and reflected…”
 (CC, Antya 3.18)
 
-“‘All these words of Damodara Pandita are born of the waves of pure love. Among all My closest friends there is no one
-who could compare with him.’” (CC, Antya 3.19)
+“‘This is what I call a wave of pure love. I have no intimate associate like Damodara.’” (CC, Antya 3.19)
 
 What troubled Damodara was not the Lord's conduct — he himself acknowledges that the Lord is independent — but the talk of
 people, which might touch His name. For the Lord's honour he is ready to reproach the Lord Himself. That is why the
@@ -395,22 +367,20 @@ Lord calls his reproach “a wave of pure love” and places him above all His i
 The next day the Lord called Damodara to a secluded place. With this conversation the “Charitamrita” explains its first
 words about him — “fully pleased with this reproach, Sri Chaitanya sent Damodara to Navadvipa”:
 
-“Sri Chaitanya said: ‘O Damodara, My friend, I would like to ask you to go to Nadia and take care of My mother there.’”
+“The Lord said, ‘Damodara, go to Nadiya and stay there near My mother.’”
 (CC, Antya 3.21)
 
-“‘Apart from you I see no one who could look after her and protect her. You have surrounded even Me with your care.’”
+“She has no protector other than you, for you have cautioned even Me.”
 (CC, Antya 3.22)
 
-“‘You are the most impartial friend among all My close associates. Without such objectivity it is impossible to
-protect the path of dharma from every attack.’” (CC, Antya 3.23)
+“Among My associates there is no one as impartial (*nirapeksha*) as you, and without impartiality dharma cannot be protected.” (CC, Antya 3.23)
 
-“‘You can accomplish even what is beyond My power. You can rebuke even Me — what then to speak of others?’” (CC,
+“What I cannot do, you can. You have chastised even Me — what then of anyone else?” (CC,
 Antya 3.24)
 
-“‘Go to My mother's house and take shelter at her holy feet. In your presence no one will dare to behave as he
-pleases.’” (CC, Antya 3.25)
+“Go and stay in My mother's house, at her feet. Before you no one will dare to behave as he pleases.” (CC, Antya 3.25)
 
-“‘From time to time you may come to see Me, but only for a short while, and then return again to Navadvipa.’” (CC,
+“From time to time you may come to see Me, but then go back there quickly.” (CC,
 Antya 3.26)
 
 “Impartiality” and “objectivity” in the translation stand for *nirapeksha*: freedom from regard for anyone whatsoever,
@@ -423,29 +393,22 @@ ate everything; wiping away her tears, she saw the empty tray and thought she ha
 separation decided she had not yet offered — and, finding the pots in the kitchen full, offered again (CC, Antya
 3.27–37). And the Lord concluded:
 
-“‘Thus again and again I ate all the offerings you made Me, attracted by your pure love. I live in Jagannatha Puri only
-in obedience to your instruction. Yet the power of your pure love draws Me so irresistibly that I am unable to
-resist.’” (CC, Antya 3.38–39) <!-- F34 Q10 -->
+“‘In this way I eat again and again; your pure love draws Me. It is by your order that I stay in Nilachala, yet by the power of your love you bring Me to your side.’” (CC, Antya 3.38–39) <!-- F34 Q10 -->
 
 The Lord gave Damodara Jagannatha's prasada — separately for His mother and for all the Vaishnavas — and he carried out
 exactly all that he had been told:
 
-“So by the Lord's will Damodara Pandita was sent to Nadia (Navadvipa). After meeting Shachimata he remained to live at
-her holy feet.” (CC, Antya 3.42)
+“Then Damodara set out and came to Nadiya. He met the Lord's mother and remained at her feet.” (CC, Antya 3.42)
 
-“He gave Jagannatha's prasada to all the Vaishnavas headed by Advaita Acharya. So Damodara Pandita did everything
-exactly as Sri Chaitanya Mahaprabhu had ordered him.” (CC, Antya 3.43)
+“He gave the maha-prasada to the Acharya (Advaita) and the other Vaishnavas. Just as the Lord had ordered, so the Pandita did.” (CC, Antya 3.43)
 
 In Navadvipa his strictness became a support for all:
 
-“Everyone knew the strictness of Damodara Pandita, and therefore, out of fear of him, no one allowed himself any
-careless acts.” (CC, Antya 3.44)
+“Before Damodara no one dared to act independently; out of fear of him everyone behaved with restraint.” (CC, Antya 3.44)
 
-“Damodara Pandita could rebuke anyone among Sri Chaitanya's associates in whom he saw a departure from proper conduct.
-So, by his strictness, he established the norms of proper behaviour for the Vaishnavas.” (CC, Antya 3.45)
+“Whenever he saw any of the Lord's associates commit even a slight breach of propriety, he chastised him with words and so established proper conduct.” (CC, Antya 3.45)
 
-“Thus I have told of the reproaches of Damodara Pandita. Hearing of them cleanses the heart of ignorance and
-godlessness.” (CC, Antya 3.46)
+“Thus I have told of Damodara's chastisement with words; by hearing of it, ignorance and unbelief (*pashanda*) flee.” (CC, Antya 3.46)
 
 An echo of this account has apparently been kept in the “Gaura-krishnodaya” as well: the Lord, “restrained by words
 spoken by Svarupa,” sends to Navadvipa to comfort Shachi — whom, it does not say directly; in the course of the narrative
@@ -506,12 +469,11 @@ as he knows, Vishnu-bhakti comes into the world. <!-- F57 F60 -->
 The Lord counted Damodara among those associates from Bengal through whose preaching love for the holy name spread
 through the world:
 
-“Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara.” (CC, Antya 7.48)
+“Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara…” (CC, Antya 7.48)
 
-“Kashishvara, Mukunda, Vasudeva, Murari and many other Vaishnavas were born in the land of Bengal.” (CC, Antya 7.49)
+“Kashishvara, Mukunda, Vasudeva, Murari and all the other devotees who descended in Gauda” (CC, Antya 7.49)
 
-“‘All of them everywhere preach the glory of chanting the holy names of God and the enchanting beauty of love for
-Krishna. Thanks to them all I have understood the essence of pure devotion to Krishna.’” (CC, Antya 7.50)[^15]
+“‘…have preached the name of Krishna and prema throughout the world, and whatever devotion to Krishna I have, I have gained in their company.’” (CC, Antya 7.50)[^15]
 <!-- F37 Q12 -->
 
 He outlived the Lord's concealment and remained in Navadvipa. When Narottama came there, in Mayapur he was met by the elder

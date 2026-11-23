@@ -9,7 +9,7 @@ Lord calls him simply “Nandana,” and Vrindavana dasa Thakura calls him a mah
 
 Krishnadasa Kaviraja, enumerating the branches of the tree of Sri Chaitanya, speaks of him thus:
 
-“The seventeenth branch, Nandana Acharya, is renowned because Sri Chaitanya and Nityananda at times hid in his house.”
+“Nandana Acharya is a branch renowned throughout the world, for the two Lords hid in his house”
 (CC, Adi 10.39)
 
 For this he is famed in the world. At different times his house in Navadvipa gave shelter to Nityananda, to Advaita and
@@ -25,15 +25,13 @@ The “Charitamrita” and the “Chaitanya-bhagavata” themselves do not name 
 speak of his family in different ways. One of them brings two verses together. In the “Charitamrita,” among the branches
 of Nityananda, it is said:
 
-“Vishnudasa, Nandana and Gangadasa are three saintly brothers. Sri Nityananda at times stayed as a guest in their
-house.” (CC, Adi 11.43)
+“Vishnudasa, Nandana and Gangadasa were three brothers, in whose house Thakura Nitai once stayed” (CC, Adi 11.43)
 
 And the “Chaitanya-bhagavata” says that Gangadasa was the son of Chaturbhuja Pandita and that Nityananda had formerly
 stayed in his house (Antya 5.745). If the Nandana of the first verse is Nandana Acharya, then his brothers are
 Vishnudasa and Gangadasa and his father is Chaturbhuja Pandita; so this biography concludes, and another follows it[^2].
 All of them were Bhattacharyas, brahmanas, residents of Navadvipa. The “Charitamrita” too speaks of Nandana Acharya's
-brahmana birth: “Many devotees of Mahaprabhu, such as Acharyaratna, Acharyanidhi, Nandana Acharya, Raghava Pandita and
-Srivasa Pandita, belonged to the brahmana class” (CC, Antya 10.139). Vishnudasa and Gangadasa, according to the same
+brahmana birth: “Acharyaratna, Acharyanidhi, Nandana, Raghava, Srivasa and all the other devotees who were brahmanas…” (CC, Antya 10.139). Vishnudasa and Gangadasa, according to the same
 biographies, also lived for some days in Nilachala — according to one, together with Mahaprabhu[^3].
 <!-- F2 F3 F4 F5 Q1 Q2 -->
 
@@ -245,14 +243,14 @@ Having taken sannyasa in Katwa, Mahaprabhu, in the mood of love, wished to go to
 brought Him to Shantipura, to the house of Advaita. Shachi and the devotees of Navadvipa hastened there; the
 “Charitamrita,” listing those who came, names Nandana too:
 
-“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda and Sanjaya.” (CC, Madhya 3.154) <!-- F38 -->
+“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda, Sanjaya…” (CC, Madhya 3.154) <!-- F38 -->
 
 When the Lord, having settled in Puri, returned from His journey to the south and the news reached Bengal, all His
 devotees rejoiced; the “Charitamrita,” listing them, names him too: “…Raghava Pandita, Acharya Nandana…” (Madhya 10.81–84). They
 all gathered at Advaita's house and went to Puri for the Ratha-yatra. King Prataparudra, watching from the palace roof as
 the Vaishnavas approached, asked who they were, and Gopinatha Acharya named them one by one:
 
-“Here also are Raghava Pandita, Acharya Nandana and Shriman Pandita. And this is Shrikanta and Narayana.” (CC, Madhya
+“This is Raghava Pandita, and this is Nandana Acharya; this is Shriman Pandita, and here are Shrikanta and Narayana.” (CC, Madhya
 11.89)[^15] <!-- F41 Q11 F48 -->
 
 From then on he went to Puri with the Bengali devotees. Murari Gupta names “Sri Nandana” — apparently he — among the
@@ -267,14 +265,13 @@ and the temple of Sri Nrisimha were cleansed, in the water play in Indradyumna l
 the Aitota garden and at the Ratha-yatra. By name the “Charitamrita” mentions him at the feast in the garden after the
 cleaning of Gundicha:
 
-“Also present were Acharyaratna (Chandrashekhara), Acharyanidhi, Srivasa, Gadadhara, Shankara, Nandanacharya, Raghava
-Pandita and Vakreshvara.” (CC, Madhya 12.157) <!-- F44 -->
+“Acharyaratna, Acharyanidhi, Srivasa, Gadadhara, Shankara, Nandanacharya, Raghava and Vakreshvara…” (CC, Madhya 12.157) <!-- F44 -->
 
 In the year when Raghava Pandita first brought to Purushottama his famous bags of provisions for the Lord — the
 “raghavera jhali” — and the devotees brought a great many dishes, Nandana Acharya too served the Lord with what he had
 brought. When the devotees' gifts, kept in store for the Lord, were being offered to Him, his name too was heard:
 
-“And these dishes are from Shriman Sena, Shriman Pandita and Nandana Acharya. Please taste them.” (CC, Antya 10.122)
+“Shriman Sena, Shriman Pandita, Nandana Acharya — please eat what they have given.” (CC, Antya 10.122)
 
 The Lord liked them very much. Nandana was also among the devotees headed by Advaita whose invitations the Lord accepted
 in Puri: the brahmana devotees — Acharyaratna, Acharyanidhi, Nandana Acharya, Raghava, Srivasa — cooked rice and

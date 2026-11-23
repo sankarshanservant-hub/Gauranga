@@ -1446,7 +1446,7 @@
   notes: "Господь не умаляет святых мест: одно телесное пребывание в них без любви не приносит плода (сноска перевода)."
   themes: [mercy, teaching]
   teaching: [bhakti-supremacy]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "murari-gupta/ru/2.03.md", from: "5", to: "9"}
 
@@ -1502,9 +1502,9 @@
   kind: lila
   authority: A
   parallels: ""
-  notes: "Продолжение милости к Шукламбаре (2.3.5–9)."
+  notes: "Продолжение молитвы Шукламбары о преме (2.3.5–9)."
   themes: [ecstasy, mercy]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "murari-gupta/ru/2.04.md", from: "1", to: "2"}
 
@@ -4759,13 +4759,13 @@
   period: P12
   order: 20
   title: "Преданные Гауды приходят в Нилачалу; встреча у озера Нарендра"
-  summary: "Все преданные Гауды — Адвайта со спутниками, Шриваса с братьями, Чандрашекхара, Пундарика Видьянидхи, Гангадас, Вакрешвара, Прадьюмна Брахмачари, Харидас, Васудева и Мукунда Датта, Шивананда Сена с семьёй, Говинда Гхош, Мурари, преданные Шрикханды и Кулинаграмы и многие другие — идут в Пури; Господь посылает навстречу спутников, а затем Сам с Нитьянандой, Гададхарой, Парамананда Пури, Сарвабхаумой, Сварупой, Раманандой, Рупой, Санатаной, Рагхунатхой Дасом и другими выходит к озеру Нарендра, и все ликуют от встречи."
-  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@chandrashekhara-acharya", "@pundarika-vidyanidhi", "@gangadasa-pandita", "@vakreshvara", "@nrisimhananda", "@haridasa-thakura", "@vasudeva-datta", "@mukunda-datta", "@shivananda-sena", "@govinda-ghosha", "@vijaya-dasa", "@nandana-acharya", "@shuklambara", "@shridhara", "@raghava-pandita", "@murari-gupta", "@srirama-pandita", "@damodara-pandita", "@raghunandana", "@mukunda-dasa", "@narahari-sarakara", "@ramananda-vasu", "@satyaraja-khan", "@nityananda", "@gadadhara-pandita", "@paramananda-puri", "@sarvabhauma", "@jagadananda-pandita", "@kashi-mishra", "@svarupa-damodara", "@shankara-pandita", "@kashishvara", "@ramananda-raya", "@govinda-servant", "@brahmananda-bharati", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@achyutananda"]
+  summary: "Все преданные Гауды — Адвайта со спутниками, Шриваса с братьями, Чандрашекхара, Пундарика Видьянидхи, Гангадас, Вакрешвара, Прадьюмна Брахмачари, Харидас, Васудева и Мукунда Датта, Шивананда Сена с семьёй, Говинда Гхош, Мурари, преданные Шрикханды и Кулинаграмы и многие другие — идут в Пури; Господь посылает навстречу спутников, а затем Сам с Нитьянандой, Гададхарой, Парамананда Пури, Сарвабхаумой, Сварупой, Прадьюмной Мишрой, Раманандой, Рупой, Санатаной, Рагхунатхой Дасом и другими выходит к озеру Нарендра, и все ликуют от встречи."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@chandrashekhara-acharya", "@pundarika-vidyanidhi", "@gangadasa-pandita", "@vakreshvara", "@nrisimhananda", "@haridasa-thakura", "@vasudeva-datta", "@mukunda-datta", "@shivananda-sena", "@govinda-ghosha", "@vijaya-dasa", "@nandana-acharya", "@shuklambara", "@shridhara", "@raghava-pandita", "@murari-gupta", "@srirama-pandita", "@damodara-pandita", "@raghunandana", "@mukunda-dasa", "@narahari-sarakara", "@ramananda-vasu", "@satyaraja-khan", "@nityananda", "@gadadhara-pandita", "@paramananda-puri", "@sarvabhauma", "@jagadananda-pandita", "@kashi-mishra", "@svarupa-damodara", "@shankara-pandita", "@kashishvara", "@pradyumna-mishra", "@ramananda-raya", "@govinda-servant", "@brahmananda-bharati", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@achyutananda", "@shikhi-mahiti"]
   places: ["#puri", "#narendra-sarovara"]
   kind: lila
   authority: A
   parallels: "ЧЧ Мадхья 11"
-  notes: "Сводный перечень: в нём преданные разных лет (Рупа, Санатана, Рагхунатха Дас пришли в Пури позднее). Мурари называет и себя (шл. 11). Не все имена получили теги (Харидас-брахман, Садашива, Пурушоттама, Санджая, Шриман, Гарбха, Ванамали, Джагадиша, Хиранья, Буддхиманта Хан, Пурандара Ачарья, Гаруда, Гопинатха Симха, Нараяна Пандит, Чиранджива, Сулочана, Бхагаван Пандит, Прадьюмна Мишра, Парамананда Патра, лекарь Рагхунатха, Шикхи Махити, Ванинатха и др.). Имя «Нараяна-нанда» (шл. 21) неясно (сноска перевода)."
+  notes: "Сводный перечень: в нём преданные разных лет (Рупа, Санатана, Рагхунатха Дас пришли в Пури позднее). Мурари называет и себя (шл. 11). Не все имена получили теги (Харидас-брахман, Садашива, Пурушоттама, Санджая, Шриман, Гарбха, Ванамали, Джагадиша, Хиранья, Буддхиманта Хан, Пурандара Ачарья, Гаруда, Гопинатха Симха, Нараяна Пандит, Чиранджива, Сулочана, Бхагаван Пандит, Парамананда Патра, лекарь Рагхунатха, Ванинатха и др.; Шикхи Махити, шл. 22, и Прадьюмна Мишра, шл. 19, — помечены). Имя «Нараяна-нанда» (шл. 21) неясно (сноска перевода)."
   themes: [kirtan, jagannatha, separation]
   event: ev-gauda-devotees-arrive-puri
   verses:

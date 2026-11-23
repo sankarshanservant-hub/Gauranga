@@ -14,9 +14,7 @@ Krishnadasa Kaviraja, describing the tree of Sri Chaitanya, calls Pundarika Vidy
 tree and says that the Lord loved him so much that He wept when uttering his name (CC, Adi 10.14). He belongs to those
 elders whom Krishna, having resolved to descend, sent into the world before Himself — to the guru-varga:
 
-“First He sent to the earth all His intimates and elders. I shall list them briefly — to describe them all in detail
-is simply impossible. Sri Shachi Devi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri,
-Advaita Acharya, Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.53–54)
+“First He sent down His elders and kin. I shall name them in brief, for they cannot all be told in full. Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.53–54)
 <!-- F6 F7 Q2 Q3 -->
 
 ## Family and Homeland
@@ -260,22 +258,19 @@ towards Him Whose mercy is free of pretence you are false — otherwise how coul
 (“Chaitanya-chandrodaya,” Act 4, v. 29). And when the Lord came to Shantipur, Vidyanidhi was among the devotees who
 gathered to Him at Advaita's house:
 
-“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
+“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari, Shuklambara…” (CC, Madhya 3.153)
 <!-- F80 F77 -->
 
 ## In Nilachala
 When the Lord settled in Puri, the Vaishnavas of Gauda came to Him every year and stayed there for four months;
 Vidyanidhi was among them:
 
-“The other devotees, headed by Advaita, Nityananda, Vidyanidhi, Mukunda, Vasudeva, Murari and Srivasa, came to Sri
-Chaitanya every year and stayed in Nilachala for four months. With them Sri Chaitanya enjoyed a multitude of His
-beautiful pastimes.” (CC, Madhya 1.255)[^11]
+“Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva, Murari and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.” (CC, Madhya 1.255)[^11]
 
 One of the biographies remarks that Krishnadasa Kaviraja names him among the leaders of the pilgrims. And listing those
 who set out from Gauda for Nilachala in the third year, the “Charitamrita” says:
 
-“Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with his two brothers
-set out on the road with their travelling bags.” (CC, Madhya 16.16) <!-- F52 Q10 Q19 -->
+“Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava Pandita packed his bags (*jhali*) for the journey.” (CC, Madhya 16.16) <!-- F52 Q10 Q19 -->
 
 The “Chaitanya-bhagavata,” listing the travellers, says: “Pundarika Vidyanidhi too went with them in great joy. Remembering
 him, the Lord wept aloud” (Antya 8.10); Murari Gupta also names him among them (“Pundarika Vidyanidhi, the treasury
@@ -372,9 +367,7 @@ keep them at home” (CB, Antya 10.126–135). All these “faults” are seen o
 
 The “Charitamrita” tells of this briefly:
 
-“That night Jagannatha and Balarama came to him in a dream and, smiling, slapped him on the cheeks. Although his cheeks
-were swollen, Pundarika Vidyanidhi rejoiced in the depths of his heart. All this has already been described in detail
-by Vrindavana Dasa Thakura.” (CC, Madhya 16.80–81) <!-- Q16 -->
+“That night Jagannatha and Balai came to him, and the two brothers slapped him, laughing all the while. His cheeks swelled, but the Acharya (Vidyanidhi) rejoiced at heart. Vrindavana Dasa has described this in detail.” (CC, Madhya 16.80–81) <!-- Q16 -->
 
 Vidyanidhi in fear laid his head at the Lord's feet and wept: “Forgive all the offences of this sinner! You have
 punished the mouth with which I laughed at Your servants — and You did well. Today is a happy morning: Your hands have
@@ -423,6 +416,13 @@ Ramananda Raya and Nityananda Prabhu any intelligent person will see and underst
 for materialism in Vaishnavas, only heap up offences; and to imitate the outward guise of a paramahamsa without those
 qualities is ruinous (on Antya 6.18). <!-- F82 -->
 
+In Narahari Chakravarti's “Namamrita-samudra,” a book of prayers to the Lord's associates, he is called by his title,
+Vidyanidhi:
+
+“Vidyanidhi, Halayudha, Sri Raghunandana! Make me rich just once by giving me the wealth of prema.” (“Namamrita-samudra”
+20)
+<!-- F84 -->
+
 ## Vrishabhanu
 Kavi Karnapura reveals who Pundarika was in Krishna's lila:
 
@@ -468,8 +468,7 @@ or the place of his departure; nor is the day of his departure in our calendar.
     Bhaktisiddhanta reads this verse (*puṇḍarīkākṣo*), while our edition has *puṇḍarīkākhyaḥ*, “named Pundarika.” Srila
     Bhaktisiddhanta, in his commentary on the “Chaitanya-bhagavata” (Adi 2.36–37), writes that Pundarika is also known
     as Premanidhi and Acharyanidhi; so one of the biographies too understands the list of Bengali devotees who carry the
-    holy name to the world: “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara,
-    Vakreshvara” (CC, Antya 7.48). The “Charitamrita” itself does not explain who Acharyanidhi is; the name also stands
+    holy name to the world: “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara…” (CC, Antya 7.48). The “Charitamrita” itself does not explain who Acharyanidhi is; the name also stands
     in its other lists — Madhya 10.82, 12.157; Antya 10.4, 10.120, 10.139.
 [^2]: The “other opinion” about Shuklambara is repeated after Srila Bhaktisiddhanta by one of the biographies as well.
 [^3]: So also two biographies. The “Gaura-ganoddesha-dipika” (57) says: “A special manifestation of him is considered

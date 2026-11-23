@@ -32,7 +32,7 @@ origin:
 relations:
   - {type: father, who: "@govardhana-majumdar", facts: [F7, F11, F85, F91, F92, F94, F99, F104], events: [ev-raghunatha-dasa-saptagrama-arrest, ev-raghunatha-dasa-escape]}
   - {type: uncle, who: "@hiranya-majumdar", facts: [F8, F10, F11, F85, F93], event: ev-raghunatha-dasa-saptagrama-arrest}
-  - {type: relative, who: "@kalidasa", facts: [F86, F87], note: "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхеде (T 80–81)."}
+  - {type: relative, who: "@kalidasa", facts: [F86, F87], note: "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхедо (T 80–81)."}
   - {type: guru, who: "@yadunandana-acharya", facts: [F2, F13, F39, F86, F98], note: "Дикша-гуру; жрец семьи, ученик Адвайты, облагодетельствованный Васудевой Даттой; его поручение стало поводом к побегу."}
   - {type: siksha-guru, who: "@svarupa-damodara", facts: [F2, F15, F39, F102, F103, F108, F110, F122], events: [ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-svarupa-teaches-raghunatha-piriti, ev-raghunatha-rotten-rice], note: "«Сварупов Рагху»: Господь вручил его Сварупе как сына и слугу и велел учиться у него; хранитель его кадчи."}
   - {type: companion, who: "@mahaprabhu", facts: [F15, F28, F39, F73, F90, F92, F100, F101, F102, F104, F105, F106, F108, F109], events: [ev-raghunatha-dasa-shantipura, ev-panihati-chida-dadhi, ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-raghunatha-stops-invitations, ev-govardhana-shila-gunja-gift, ev-raghunatha-rotten-rice], note: "Шантипур; Пури — 16 лет (ЧЧ Ади 10.93; 8 — поздние списки B); дар камня Говардханы и гирлянды гунджи."}
@@ -127,7 +127,7 @@ sources:
   T: "180–188 (глава); 20, 24, 30, 44/86, 76, 80–81, 85, 94, 98, 131, 137, 160, 161, 176–177, 196–198, 200, 202, 205, 210, 213, 241, 262–263"
   M: "главы нет; pdf 65, 111, 187, 203, 205, 206, 218, 227, 287, 311"
   B: "626–658 (глава); 44, 103, 198, 201, 242, 267, 274, 483, 663, 666, 668, 669, 737, 787, 817, 821, 850, 866, 950, 955, 972, 1038, 1086, 1099, 1103–1104, 1111"
-  other: ["ЧЧ Ади 10.98–102; Мадхья 2.84, 16.225–239; Антья 3.168–169, 6 (вся), 14.83", "ГГД 186", "БР 1.830–832; 4.392; 5.572–574", "Чайтанья-чандродая-натака 10.3–4", "Лагху-тошани (Джива)"]
+  other: ["ЧЧ Ади 10.98–102; Мадхья 2.84, 16.225–239; Антья 3.168–169, 6 (вся), 14.83", "ГГД 186", "БР 1.830–832; 4.392; 5.572–574", "Чайтанья-чандродая-натака 10.3–4", "Лагху-тошани (Джива)", "«Намамрита-самудра» 30"]
 article: {ru: "parshadas/ru/raghunatha-dasa.md", en: "parshadas/en/raghunatha-dasa.md"}
 open_questions:
   - "Год явления: 1507 (B, 1428 Шака) или около 1494 (T) (F6, F84); год ухода: 1582 (B) или 1586 (T) (F3, F120)."

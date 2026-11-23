@@ -5355,7 +5355,7 @@
   "period": "P01",
   "order": 1.6,
   "title": "Адвайта обретает Мадана-мохана во Врадже; Божество скрывается от млеччхов, уходит к Чаубе; картина Вишакхи — Мадана-гопал Шантипура",
-  "summary": "Во сне Кришна называет Адвайту Шивой Гопешварой и велит откопать Своё изваяние Мадана-мохана; Адвайта устанавливает Божество; при набеге млеччхов Оно, став Гопалой, скрывается под цветами; затем во сне велит отдать Себя брахману-чаубе из Матхуры, любящему Его как сына (до прихода Рупы и Санатаны), а Адвайте взять картину Вишакхи; Адвайта находит её в роще и устанавливает в Шантипуре как Мадана-гопала.",
+  "summary": "Во сне Кришна называет Адвайту Шивой Гопешварой и велит откопать Своё Божество Мадана-мохана; Адвайта устанавливает Божество; при набеге млеччхов Оно, став Гопалой, скрывается под цветами; затем во сне велит отдать Себя брахману-чаубе из Матхуры, любящему Его как сына (до прихода Рупы и Санатаны), а Адвайте взять картину Вишакхи; Адвайта находит её в роще и устанавливает в Шантипуре как Мадана-гопала.",
   "persons": [
    "@advaita",
    "@krishna",
@@ -9143,14 +9143,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from_text": "**Господь.** Шривас! Помнишь, как я здес",
+    "from_text": "**Господь.** Шривас! Помнишь, как Я здес",
     "to_text": "**Господь.** Адвайта, это правда."
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from": "**Господь.** Шривас! Помнишь, как я здес",
+    "from": "**Господь.** Шривас! Помнишь, как Я здес",
     "to": "**Господь.** Адвайта, это правда.",
     "line": 465,
     "line_to": 492,
@@ -10333,7 +10333,8 @@
    "@sanatana-gosvami",
    "@vrindavana-dasa",
    "@damodara-pandita",
-   "@lochana-dasa"
+   "@lochana-dasa",
+   "@kaliya-krishnadasa"
   ],
   "places": [],
   "kind": "pre-advent",
@@ -26966,15 +26967,15 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from_text": "> **30.** Его старший брат, не взяв себе",
-    "to_text": "> передав своё сияние владыке-пури (Пара"
+    "from_text": "> **30.** Его старший брат, не взяв Себе",
+    "to_text": "> передав Своё сияние владыке-пури (Пара"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from": "> **30.** Его старший брат, не взяв себе",
-    "to": "> передав своё сияние владыке-пури (Пара",
+    "from": "> **30.** Его старший брат, не взяв Себе",
+    "to": "> передав Своё сияние владыке-пури (Пара",
     "line": 241,
     "line_to": 242,
     "count": null,
@@ -43071,15 +43072,15 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from_text": "**Адхарма.** Царь эпохи, говорят, он жен",
-    "to_text": "> он, вечно новый, желая явить урок отре"
+    "from_text": "**Адхарма.** Царь эпохи, говорят, Он жен",
+    "to_text": "> Он, вечно новый, желая явить урок отре"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from": "**Адхарма.** Царь эпохи, говорят, он жен",
-    "to": "> он, вечно новый, желая явить урок отре",
+    "from": "**Адхарма.** Царь эпохи, говорят, Он жен",
+    "to": "> Он, вечно новый, желая явить урок отре",
     "line": 225,
     "line_to": 237,
     "count": null,
@@ -49360,14 +49361,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from_text": "> **35.** В самом начале юности он остав",
+    "from_text": "> **35.** В самом начале юности Он остав",
     "to_text": "Как же жалкому Каме найти тут свой случа"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from": "> **35.** В самом начале юности он остав",
+    "from": "> **35.** В самом начале юности Он остав",
     "to": "Как же жалкому Каме найти тут свой случа",
     "line": 276,
     "line_to": 290,
@@ -54893,14 +54894,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/02.md",
     "from_text": "**Бхакти-деви.** Вот так я рассказала о ",
-    "to_text": "**Вирага.** Ах, он поистине во власти бл"
+    "to_text": "**Вирага.** Ах, Он поистине во власти бл"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/02.md",
     "from": "**Бхакти-деви.** Вот так я рассказала о ",
-    "to": "**Вирага.** Ах, он поистине во власти бл",
+    "to": "**Вирага.** Ах, Он поистине во власти бл",
     "line": 241,
     "line_to": 243,
     "count": null,
@@ -56161,7 +56162,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "cc-0118",
@@ -56219,7 +56220,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "cc-0252",
@@ -56277,7 +56278,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "ccd-0018",
@@ -56305,7 +56306,7 @@
    "mercy",
    "ecstasy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
@@ -56324,8 +56325,6 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/01.md?plain=1#L543-L554"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -56336,7 +56335,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "kcm-0050",
@@ -56365,7 +56364,7 @@
   "teaching": [
    "bhakti-supremacy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/06.md",
@@ -56386,8 +56385,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/06.md?plain=1#L212-L285"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -56398,7 +56395,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "lcm-0106",
@@ -56431,7 +56428,7 @@
   "scriptures": [
    "Нарада-панчаратра 1.2.6"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "lochana/ru/25.md",
@@ -56452,8 +56449,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/25.md?plain=1#L67-L122"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -56464,7 +56459,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "mkc-0072",
@@ -56493,7 +56488,7 @@
   "teaching": [
    "bhakti-supremacy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "murari-gupta/ru/2.03.md",
@@ -56514,8 +56509,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.03.md?plain=1#L13-L21"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -56526,7 +56519,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "vv-0036",
@@ -56584,7 +56577,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "cb-1047",
@@ -57038,12 +57031,12 @@
   "kind": "lila",
   "authority": "A",
   "parallels": "",
-  "notes": "Продолжение милости к Шукламбаре (2.3.5–9).",
+  "notes": "Продолжение молитвы Шукламбары о преме (2.3.5–9).",
   "themes": [
    "ecstasy",
    "mercy"
   ],
-  "event": "ev-shuklambara-mercy",
+  "event": "ev-shuklambara-prema-prayer",
   "verses": [
    {
     "file": "murari-gupta/ru/2.04.md",
@@ -57064,8 +57057,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.04.md?plain=1#L5-L7"
    }
   ],
-  "cc": "Ади 10, 17",
-  "cb": "Мадхья 16",
   "years": [
    1509,
    1510
@@ -57076,7 +57067,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "pvl-0186",
@@ -72172,7 +72163,8 @@
    "@mahaprabhu",
    "@srivasa",
    "@chandrashekhara-acharya",
-   "@shachi"
+   "@shachi",
+   "@buddhimanta-khan"
   ],
   "places": [
    "#house-srivasa",
@@ -74011,14 +74003,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/02.md",
-    "from_text": "**Вирага.** Владычица, неужели он всегда",
+    "from_text": "**Вирага.** Владычица, неужели Он всегда",
     "to_text": "**Вирага.** Так оно и есть. А дальше, да"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/02.md",
-    "from": "**Вирага.** Владычица, неужели он всегда",
+    "from": "**Вирага.** Владычица, неужели Он всегда",
     "to": "**Вирага.** Так оно и есть. А дальше, да",
     "line": 155,
     "line_to": 183,
@@ -77218,14 +77210,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
     "from_text": "**Адхарма.** Друг, не говори так!",
-    "to_text": "**Кали.** Друг мой, что может сделать ем"
+    "to_text": "**Кали.** Друг мой, что может сделать Ем"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
     "from": "**Адхарма.** Друг, не говори так!",
-    "to": "**Кали.** Друг мой, что может сделать ем",
+    "to": "**Кали.** Друг мой, что может сделать Ем",
     "line": 292,
     "line_to": 299,
     "count": null,
@@ -77985,7 +77977,8 @@
    "@haridasa-thakura",
    "@srivasa",
    "@mukunda-datta",
-   "@jagai-madhai"
+   "@jagai-madhai",
+   "@buddhimanta-khan"
   ],
   "places": [
    "#ganga"
@@ -78712,7 +78705,7 @@
    23,
    24
   ],
-  "attestation": 8
+  "attestation": 4
  },
  {
   "id": "lcm-0140",
@@ -79253,7 +79246,8 @@
    "@nityananda",
    "@advaita",
    "@haridasa-thakura",
-   "@srivasa"
+   "@srivasa",
+   "@chand-kazi"
   ],
   "places": [
    "#navadvipa"
@@ -79710,7 +79704,8 @@
    "@advaita",
    "@haridasa-thakura",
    "@yama",
-   "@chitragupta"
+   "@chitragupta",
+   "@chand-kazi"
   ],
   "places": [
    "#navadvipa",
@@ -84321,14 +84316,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from_text": "А сейчас вот что: Шачи-деви, видя в нём ",
+    "from_text": "А сейчас вот что: Шачи-деви, видя в Нём ",
     "to_text": "**Адвайта.** Эй, эй, Шривас и другие! В "
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
-    "from": "А сейчас вот что: Шачи-деви, видя в нём ",
+    "from": "А сейчас вот что: Шачи-деви, видя в Нём ",
     "to": "**Адвайта.** Эй, эй, Шривас и другие! В ",
     "line": 556,
     "line_to": 599,
@@ -105270,7 +105265,6 @@
    "@vasu-ghosha",
    "@gadadhara-pandita",
    "@vakreshvara",
-   "@nrisimhananda",
    "@svarupa-damodara",
    "@bhima-gopa",
    "@shyama-goyalini",
@@ -105284,7 +105278,7 @@
   ],
   "kind": "miracle",
   "authority": "C",
-  "notes": "Известно только по «Према-виварте». «Пурушоттама Ачарья» (15.11) — Сварупа Дамодара до санньясы (ЧЧ Мадхья 10.103); «Нрисимхананда и Прадьюмна» по ЧЧ (Антья 2) — одно лицо.",
+  "notes": "Известно только по «Према-виварте». «Пурушоттама Ачарья» (15.11) — Сварупа Дамодара до санньясы (ЧЧ Мадхья 10.103); «С Нрисимханандой пришёл Прадьюмна» (15.11) — названы как два лица, хотя по ЧЧ (Антья 2) Нрисимхананда — имя, данное Господом Прадьюмне Брахмачари; кого автор имеет в виду (Брахмачари или санньяси-тёзку), не установить — тег @nrisimhananda не ставится (parshadas/facts/nrisimhananda.md, «Не взято»).",
   "themes": [
    "kirtan",
    "mercy",
@@ -117682,14 +117676,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/04.md",
     "from_text": "**Ачарья-ратна.** Ах, только ради этого ",
-    "to_text": "> он не помнит и самого себя, — ах, увы,"
+    "to_text": "> Он не помнит и Самого Себя, — ах, увы,"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/04.md",
     "from": "**Ачарья-ратна.** Ах, только ради этого ",
-    "to": "> он не помнит и самого себя, — ах, увы,",
+    "to": "> Он не помнит и Самого Себя, — ах, увы,",
     "line": 479,
     "line_to": 499,
     "count": null,
@@ -120105,7 +120099,7 @@
   "kind": "lila",
   "authority": "A",
   "parallels": "ЧЧ Мадхья 3; Мурари 3.3.1–18",
-  "notes": "Говинда (ст. 52) — по-видимому, слуга Господа (@govinda-servant); отождествление условно.",
+  "notes": "Говинда (ст. 52) — по-видимому, слуга Господа (@govinda-servant); отождествление условно: по ЧЧ (Мадхья 10.130–134) слуга Ишвары Пури пришёл к Господу лишь после южного странствия; «Гаудия-бхашья» к ЧБ Ади 10.2 сводит всех «Говинд» ЧБ в одного привратника (см. parshadas/facts/govinda-servant.md ⚠10, F66).",
   "themes": [
    "kirtan",
    "ecstasy",
@@ -120245,14 +120239,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/05.md",
-    "from_text": "*(Входит Шри Кришна Чайтанья, за ним — Н",
+    "from_text": "*(Входит Шри Кришна Чайтанья, за Ним — Н",
     "to_text": "Посмотрю-ка, скоро ли придёт Адвайта. *("
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/05.md",
-    "from": "*(Входит Шри Кришна Чайтанья, за ним — Н",
+    "from": "*(Входит Шри Кришна Чайтанья, за Ним — Н",
     "to": "Посмотрю-ка, скоро ли придёт Адвайта. *(",
     "line": 5,
     "line_to": 152,
@@ -121191,6 +121185,7 @@
    "@mukunda-datta",
    "@nityananda",
    "@abhirama",
+   "@parameshvara-dasa",
    "@sundarananda",
    "@mahaprabhu"
   ],
@@ -121757,7 +121752,7 @@
    },
    {
     "file": "chaitanya-chandrodaya/ru/04.md",
-    "from_text": "**Адвайта.** А ты почему не пошёл за ним",
+    "from_text": "**Адвайта.** А ты почему не пошёл за Ним",
     "to_text": "*Так заканчивается четвёртый акт «Шри Ча"
    }
   ],
@@ -121773,7 +121768,7 @@
    },
    {
     "file": "chaitanya-chandrodaya/ru/04.md",
-    "from": "**Адвайта.** А ты почему не пошёл за ним",
+    "from": "**Адвайта.** А ты почему не пошёл за Ним",
     "to": "*Так заканчивается четвёртый акт «Шри Ча",
     "line": 501,
     "line_to": 514,
@@ -126191,12 +126186,12 @@
     "file": "padas/ru/01.md",
     "from": "19.1",
     "to": "19.4",
-    "line": 483,
-    "line_to": 498,
+    "line": 485,
+    "line_to": 500,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L483-L498",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L485-L500",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L503-L518"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L504-L519"
    }
   ],
   "cc": "Мадхья 3",
@@ -127280,7 +127275,7 @@
   "places": [],
   "kind": "teaching",
   "authority": "A",
-  "notes": "Говинда — условно слуга Господа; Брахмананда — условно Брахмананда Бхарати (в ЧЧ он приходит в Пури позже; по ЧЧ Мадхья 5 спутники — Нитьянанда, Джагадананда, Мукунда, Дамодара).",
+  "notes": "Говинда — условно слуга Господа (по ЧЧ Мадхья 10 он пришёл позже; см. parshadas/facts/govinda-servant.md ⚠10); Брахмананда — условно Брахмананда Бхарати (в ЧЧ он приходит в Пури позже; по ЧЧ Мадхья 5 спутники — Нитьянанда, Джагадананда, Мукунда, Дамодара).",
   "themes": [
    "teaching",
    "sannyasa"
@@ -127410,14 +127405,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/06.md",
     "from_text": "**Ратнакара.** Увы! Сейчас, когда царь-я",
-    "to_text": "Так несколько дней он шёл из леса в лес,"
+    "to_text": "Так несколько дней Он шёл из леса в лес,"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/06.md",
     "from": "**Ратнакара.** Увы! Сейчас, когда царь-я",
-    "to": "Так несколько дней он шёл из леса в лес,",
+    "to": "Так несколько дней Он шёл из леса в лес,",
     "line": 88,
     "line_to": 121,
     "count": null,
@@ -128869,14 +128864,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/06.md",
     "from_text": "**Ратнакара.** Зачем?",
-    "to_text": "> красоту того, у чьих уст — флейта."
+    "to_text": "> красоту Того, у Чьих уст — флейта."
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/06.md",
     "from": "**Ратнакара.** Зачем?",
-    "to": "> красоту того, у чьих уст — флейта.",
+    "to": "> красоту Того, у Чьих уст — флейта.",
     "line": 123,
     "line_to": 156,
     "count": null,
@@ -132623,12 +132618,12 @@
     "file": "padas/ru/01.md",
     "from": "18.1",
     "to": "18.5",
-    "line": 457,
-    "line_to": 469,
+    "line": 459,
+    "line_to": 471,
     "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L457-L469",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L459-L471",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L475-L487"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L476-L488"
    }
   ],
   "age": [
@@ -132745,12 +132740,12 @@
     "file": "padas/ru/01.md",
     "from": "20.1",
     "to": "20.4",
-    "line": 513,
-    "line_to": 522,
+    "line": 515,
+    "line_to": 524,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L513-L522",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L515-L524",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L534-L543"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L535-L544"
    }
   ],
   "age": [
@@ -135049,9 +135044,9 @@
     "from": "7",
     "to": "64",
     "line": 42,
-    "line_to": 322,
+    "line_to": 324,
     "count": 55,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L42-L322"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L42-L324"
    }
   ],
   "cc": "Мадхья 6",
@@ -135360,10 +135355,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "65",
     "to": "79",
-    "line": 327,
-    "line_to": 394,
+    "line": 329,
+    "line_to": 396,
     "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L327-L394"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L329-L396"
    }
   ],
   "cc": "Мадхья 6",
@@ -135483,10 +135478,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "80",
     "to": "99",
-    "line": 399,
-    "line_to": 493,
+    "line": 401,
+    "line_to": 495,
     "count": 19,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L399-L493"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L401-L495"
    }
   ],
   "cc": "Мадхья 6",
@@ -135660,10 +135655,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "106",
     "to": "155",
-    "line": 513,
-    "line_to": 748,
+    "line": 515,
+    "line_to": 752,
     "count": 46,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L513-L748"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L515-L752"
    }
   ],
   "cc": "Мадхья 6",
@@ -137265,10 +137260,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "156",
     "to": "166",
-    "line": 753,
-    "line_to": 803,
+    "line": 757,
+    "line_to": 807,
     "count": 11,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L753-L803"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L757-L807"
    }
   ],
   "years": [
@@ -137391,10 +137386,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "192",
     "to": "202",
-    "line": 933,
-    "line_to": 983,
+    "line": 937,
+    "line_to": 987,
     "count": 11,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L933-L983"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L937-L987"
    }
   ],
   "years": [
@@ -137514,19 +137509,19 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "203",
     "to": "227",
-    "line": 988,
-    "line_to": 1105,
+    "line": 992,
+    "line_to": 1109,
     "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L988-L1105"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L992-L1109"
    },
    {
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "263",
     "to": "268",
-    "line": 1282,
-    "line_to": 1307,
+    "line": 1286,
+    "line_to": 1311,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1282-L1307"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1286-L1311"
    }
   ],
   "years": [
@@ -137643,10 +137638,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "228",
     "to": "231",
-    "line": 1110,
-    "line_to": 1125,
+    "line": 1114,
+    "line_to": 1129,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1110-L1125"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1114-L1129"
    }
   ],
   "years": [
@@ -137759,20 +137754,20 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "232",
     "to": "262",
-    "line": 1130,
-    "line_to": 1277,
+    "line": 1134,
+    "line_to": 1281,
     "count": 30,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1130-L1277"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1134-L1281"
    }
   ],
   "years": [
-   1510,
-   1510
+   1512,
+   1514
   ],
   "cb": "Антья 3.232–262",
   "age": [
-   24,
-   24
+   26,
+   28
   ],
   "attestation": 1
  },
@@ -139239,14 +139234,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from_text": "**Брахман.** А потом он, чья сила непост",
+    "from_text": "**Брахман.** А потом Он, Чья сила непост",
     "to_text": "**Сарвабхаума.** Ты говоришь истинно. Та"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from": "**Брахман.** А потом он, чья сила непост",
+    "from": "**Брахман.** А потом Он, Чья сила непост",
     "to": "**Сарвабхаума.** Ты говоришь истинно. Та",
     "line": 106,
     "line_to": 121,
@@ -140153,14 +140148,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from_text": "**Брахман.** Затем он пришёл на берег Го",
+    "from_text": "**Брахман.** Затем Он пришёл на берег Го",
     "to_text": "**Брахман.** Как прикажешь."
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from": "**Брахман.** Затем он пришёл на берег Го",
+    "from": "**Брахман.** Затем Он пришёл на берег Го",
     "to": "**Брахман.** Как прикажешь.",
     "line": 123,
     "line_to": 243,
@@ -141997,14 +141992,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from_text": "**Малла-бхатта.** На другой день он случ",
+    "from_text": "**Малла-бхатта.** На другой день Он случ",
     "to_text": "так что имя Кришны выше имени Рамы."
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from": "**Малла-бхатта.** На другой день он случ",
+    "from": "**Малла-бхатта.** На другой день Он случ",
     "to": "так что имя Кришны выше имени Рамы.",
     "line": 302,
     "line_to": 323,
@@ -144235,14 +144230,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
     "from_text": "**Малла-бхатта.** Однажды Господь шёл, п",
-    "to_text": "> и его-то здесь вздумали морочить эти н"
+    "to_text": "> и Его-то здесь вздумали морочить эти н"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
     "from": "**Малла-бхатта.** Однажды Господь шёл, п",
-    "to": "> и его-то здесь вздумали морочить эти н",
+    "to": "> и Его-то здесь вздумали морочить эти н",
     "line": 295,
     "line_to": 300,
     "count": null,
@@ -151724,7 +151719,7 @@
   "period": "P12",
   "order": 2,
   "title": "Жилище в доме Каши Мишры; знакомство с приближёнными Джаганнатхи",
-  "summary": "По решению царя Господа поселяют в доме Каши Мишры у Львиных ворот; пашупалы надевают на Него гирлянду прасада; Сарвабхаума представляет Ему слуг Джаганнатхи, махапатр, братьев Рамананды с Ванинатхой и их отца Бхавананду Рая; на слова Сарвабхаумы, что Джаганнатха — Брахман в дереве, а Он — Брахман в человеке, Господь закрывает уши.",
+  "summary": "По решению царя Господа поселяют в доме Каши Мишры у Львиных ворот; пашупалы надевают на Него гирлянду прасада; Сарвабхаума представляет Ему слуг Джаганнатхи (среди них писаря Шикхи Махити с братом и сестрой), махапатр, братьев Рамананды с Ванинатхой и их отца Бхавананду Рая; на слова Сарвабхаумы, что Джаганнатха — Брахман в дереве, а Он — Брахман в человеке, Господь закрывает уши.",
   "persons": [
    "@mahaprabhu",
    "@sarvabhauma",
@@ -151732,7 +151727,8 @@
    "@kashi-mishra",
    "@vaninatha-raya",
    "@chandaneshvara",
-   "@prataparudra"
+   "@prataparudra",
+   "@shikhi-mahiti"
   ],
   "places": [
    "#puri",
@@ -151797,7 +151793,9 @@
    "@mahaprabhu",
    "@nityananda",
    "@kashi-mishra",
-   "@sarvabhauma"
+   "@sarvabhauma",
+   "@shikhi-mahiti",
+   "@murari-mahiti"
   ],
   "places": [
    "#alalanatha",
@@ -151912,20 +151910,20 @@
   "period": "P12",
   "order": 2,
   "title": "Каши Мишра, Вишнудас, Прадьюмна Мишра",
-  "summary": "Каши Мишра видит Господа четырёхруким; Господу служат Вишнудас и Прадьюмна Мишра, которого Господь посылает слушать о Кришне у Рамананды.",
+  "summary": "Услышав о возвращении Господа в Нилачалу, Каши Мишра видит Его четырёхруким и исполняет всякое Его повеление, угадывая Его желание; Вишнудас, оставив всё, узревает стопы сына Шачи и омывается слезами; счастливец Прадьюмна Мишра с радостью делает стопы Гаурачандры «гостьей своих глаз» — и милость Господа изливается из его глаз потоком, словно из тучи месяца шраваны.",
   "persons": [
    "@mahaprabhu",
    "@kashi-mishra",
    "@vishnudasa",
-   "@pradyumna-mishra",
-   "@ramananda-raya"
+   "@pradyumna-mishra"
   ],
   "places": [
    "#puri"
   ],
   "kind": "lila",
   "authority": "A",
-  "parallels": "ЧЧ Ади 10.131, 10.151; Антья 5.4–8",
+  "parallels": "ЧЧ Ади 10.131, 10.151; Мадхья 1.129, 10.43",
+  "notes": "О том, что Господь посылает Прадьюмну Мишру слушать о Кришне у Рамананды (ЧЧ Антья 5), в 13.70–71 не сказано (исправлено при проверке @pradyumna-mishra, 2026-11-16).",
   "themes": [
    "revelation"
   ],
@@ -152346,7 +152344,10 @@
    "@bhavananda-raya",
    "@ramananda-raya",
    "@vaninatha-raya",
-   "@sarvabhauma"
+   "@sarvabhauma",
+   "@gopinatha-pattanayaka",
+   "@kalanidhi",
+   "@sudhanidhi"
   ],
   "places": [
    "#puri",
@@ -152360,6 +152361,7 @@
   ],
   "cc": "Мадхья 10",
   "event": "ev-bhavananda-raya-pandu",
+  "notes": "Четыре сына, пришедшие с Бхаванандой (10.49), по «Анубхашье» к 10.49 — Ванинатха, Гопинатха (@gopinatha-pattanayaka), Каланидхи и Судханидхи; Рамананда (@ramananda-raya) упомянут, но был ещё в Видьянагаре (10.59). = parshadas/facts/gopinatha-pattanayaka.md F11.",
   "verses": [
    {
     "file": "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya10.md",
@@ -152483,14 +152485,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/08.md",
-    "from_text": "**Шри Кришна Чайтанья** *(про себя)*. Ах",
+    "from_text": "**Шри Кришна Чайтанья** *(про Себя)*. Ах",
     "to_text": "**Сарвабхаума.** Ах, какая природная люб"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/08.md",
-    "from": "**Шри Кришна Чайтанья** *(про себя)*. Ах",
+    "from": "**Шри Кришна Чайтанья** *(про Себя)*. Ах",
     "to": "**Сарвабхаума.** Ах, какая природная люб",
     "line": 74,
     "line_to": 126,
@@ -155206,10 +155208,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "167",
     "to": "178",
-    "line": 808,
-    "line_to": 863,
+    "line": 812,
+    "line_to": 867,
     "count": 12,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L808-L863"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L812-L867"
    }
   ],
   "cc": "Мадхья 10",
@@ -155300,7 +155302,8 @@
    "@mahaprabhu",
    "@paramananda-puri",
    "@svarupa-damodara",
-   "@brahmananda-bharati"
+   "@brahmananda-bharati",
+   "@bhagavan-acharya"
   ],
   "places": [
    "#puri"
@@ -155605,10 +155608,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "179",
     "to": "191",
-    "line": 868,
-    "line_to": 928,
+    "line": 872,
+    "line_to": 932,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L868-L928"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L872-L932"
    }
   ],
   "cc": "Мадхья 10",
@@ -156814,7 +156817,10 @@
    "@nityananda",
    "@gadadhara-pandita",
    "@paramananda-puri",
-   "@jagannatha-deity"
+   "@jagannatha-deity",
+   "@shikhi-mahiti",
+   "@pradyumna-mishra",
+   "@bhagavan-acharya"
   ],
   "places": [
    "#kamalapura",
@@ -156824,7 +156830,7 @@
   "kind": "lila",
   "authority": "A",
   "parallels": "ЧЧ Мадхья 11; Мурари 4.17–4.19.15",
-  "notes": "Ст. 56–61 в md отсутствуют.",
+  "notes": "Ст. 56–61 (перечень жителей Пури, вышедших с Господом навстречу) в ed — одной группой; из них помечены Шикхи Махити (проверка @shikhi-mahiti), Прадьюмна Мишра, «первый в према-бхакти» (8.57; проверка @pradyumna-mishra), и *а̄ча̄рйа-бхагава̄н*, Бхагаван Ачарья (8.57; проверка @bhagavan-acharya, 2026-11-17), остальные имена — без тегов; в ст. 58 — *па̄тра ш́рӣ пара̄ма̄нанда*, Парамананда Махапатра (в ed прежде ошибочно «Парамананда Пури», исправлено 2026-11-16).",
   "themes": [
    "kirtan",
    "jagannatha",
@@ -157471,7 +157477,7 @@
   "period": "P12",
   "order": 20,
   "title": "Преданные Гауды приходят в Нилачалу; встреча у озера Нарендра",
-  "summary": "Все преданные Гауды — Адвайта со спутниками, Шриваса с братьями, Чандрашекхара, Пундарика Видьянидхи, Гангадас, Вакрешвара, Прадьюмна Брахмачари, Харидас, Васудева и Мукунда Датта, Шивананда Сена с семьёй, Говинда Гхош, Мурари, преданные Шрикханды и Кулинаграмы и многие другие — идут в Пури; Господь посылает навстречу спутников, а затем Сам с Нитьянандой, Гададхарой, Парамананда Пури, Сарвабхаумой, Сварупой, Раманандой, Рупой, Санатаной, Рагхунатхой Дасом и другими выходит к озеру Нарендра, и все ликуют от встречи.",
+  "summary": "Все преданные Гауды — Адвайта со спутниками, Шриваса с братьями, Чандрашекхара, Пундарика Видьянидхи, Гангадас, Вакрешвара, Прадьюмна Брахмачари, Харидас, Васудева и Мукунда Датта, Шивананда Сена с семьёй, Говинда Гхош, Мурари, преданные Шрикханды и Кулинаграмы и многие другие — идут в Пури; Господь посылает навстречу спутников, а затем Сам с Нитьянандой, Гададхарой, Парамананда Пури, Сарвабхаумой, Сварупой, Прадьюмной Мишрой, Раманандой, Рупой, Санатаной, Рагхунатхой Дасом и другими выходит к озеру Нарендра, и все ликуют от встречи.",
   "persons": [
    "@mahaprabhu",
    "@advaita",
@@ -157508,13 +157514,15 @@
    "@svarupa-damodara",
    "@shankara-pandita",
    "@kashishvara",
+   "@pradyumna-mishra",
    "@ramananda-raya",
    "@govinda-servant",
    "@brahmananda-bharati",
    "@rupa-gosvami",
    "@sanatana-gosvami",
    "@raghunatha-dasa",
-   "@achyutananda"
+   "@achyutananda",
+   "@shikhi-mahiti"
   ],
   "places": [
    "#puri",
@@ -157523,7 +157531,7 @@
   "kind": "lila",
   "authority": "A",
   "parallels": "ЧЧ Мадхья 11",
-  "notes": "Сводный перечень: в нём преданные разных лет (Рупа, Санатана, Рагхунатха Дас пришли в Пури позднее). Мурари называет и себя (шл. 11). Не все имена получили теги (Харидас-брахман, Садашива, Пурушоттама, Санджая, Шриман, Гарбха, Ванамали, Джагадиша, Хиранья, Буддхиманта Хан, Пурандара Ачарья, Гаруда, Гопинатха Симха, Нараяна Пандит, Чиранджива, Сулочана, Бхагаван Пандит, Прадьюмна Мишра, Парамананда Патра, лекарь Рагхунатха, Шикхи Махити, Ванинатха и др.). Имя «Нараяна-нанда» (шл. 21) неясно (сноска перевода).",
+  "notes": "Сводный перечень: в нём преданные разных лет (Рупа, Санатана, Рагхунатха Дас пришли в Пури позднее). Мурари называет и себя (шл. 11). Не все имена получили теги (Харидас-брахман, Садашива, Пурушоттама, Санджая, Шриман, Гарбха, Ванамали, Джагадиша, Хиранья, Буддхиманта Хан, Пурандара Ачарья, Гаруда, Гопинатха Симха, Нараяна Пандит, Чиранджива, Сулочана, Бхагаван Пандит, Парамананда Патра, лекарь Рагхунатха, Ванинатха и др.; Шикхи Махити, шл. 22, и Прадьюмна Мишра, шл. 19, — помечены). Имя «Нараяна-нанда» (шл. 21) неясно (сноска перевода).",
   "themes": [
    "kirtan",
    "jagannatha",
@@ -160451,7 +160459,8 @@
    "@svarupa-damodara",
    "@jagadananda-pandita",
    "@gopinatha-acharya",
-   "@krishna"
+   "@krishna",
+   "@kashishvara"
   ],
   "places": [
    "#gundicha"
@@ -162305,12 +162314,12 @@
   "period": "P12",
   "order": 70.5,
   "title": "Господь падает перед царём; Пратапарудра поднимает Его — «Меня коснулся мирской человек!»",
-  "summary": "Танцуя, Господь внезапно упал перед Пратапарудрой; царь подхватил Его, и Господь, придя в себя, воскликнул: «Горе Мне — Меня коснулся предающийся мирскому!» (Нитьянанда был в блаженстве, а Каши Мишры и Говинды рядом не было). В душе Господь был благосклонен к царю, видя его служение, но изобразил гнев, чтобы научить спутников. Сарвабхаума успокоил царя: Господь доволен им, и в удобный час он устроит встречу.",
+  "summary": "Танцуя, Господь внезапно упал перед Пратапарудрой; царь подхватил Его, и Господь, придя в себя, воскликнул: «Горе Мне — Меня коснулся предающийся мирскому!» (Нитьянанда был в блаженстве, а Кашишвары и Говинды рядом не было). В душе Господь был благосклонен к царю, видя его служение, но изобразил гнев, чтобы научить спутников. Сарвабхаума успокоил царя: Господь доволен им, и в удобный час он устроит встречу.",
   "persons": [
    "@mahaprabhu",
    "@prataparudra",
    "@nityananda",
-   "@kashi-mishra",
+   "@kashishvara",
    "@govinda-servant",
    "@sarvabhauma"
   ],
@@ -168350,6 +168359,63 @@
   "attestation": 7
  },
  {
+  "id": "jcm-0111",
+  "source": "jayananda-cm",
+  "ref": "Виджая-кханда: краткое жизнеописание (Н. Васу 1897, с. 223, сн. 110) — чудеса спутников Нитьянанды в Гауде",
+  "file": "jayananda/ru/02-vasu-1897.md",
+  "period": "P12",
+  "order": 110.5,
+  "title": "Гададхара Дас заставляет всех плясать; певец Мадхава Гхош поёт «Дана-кханду»",
+  "summary": "Среди чудес спутников Нитьянанды после посылки Его в Гауду: Гададхара Дас заставляет всех плясать в своём доме, а певец Мадхава Гхош поёт «Дана-кханду» — песни о том, как Кришна взимал «пошлину» с гопи.",
+  "persons": [
+   "@madhava-ghosha",
+   "@nityananda",
+   "@gadadhara-dasa"
+  ],
+  "places": [
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Упоминание одной строкой в перечне чудес спутников (рукописный текст, приведённый Васу; поздний и неполный). Ср. parshadas/facts/madhava-ghosha.md F26.",
+  "themes": [
+   "kirtan",
+   "krishna-lila"
+  ],
+  "event": "ev-nityananda-preaching-gauda",
+  "verses": [
+   {
+    "file": "jayananda/ru/02-vasu-1897.md",
+    "from_text": "> Гададхара Дас заставляет всех плясать",
+    "to_text": "> певец Мадхава Гхош поёт «Дана-кханду»"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jayananda/ru/02-vasu-1897.md",
+    "from": "> Гададхара Дас заставляет всех плясать",
+    "to": "> певец Мадхава Гхош поёт «Дана-кханду»",
+    "line": 1258,
+    "line_to": 1259,
+    "count": null,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jayananda/ru/02-vasu-1897.md?plain=1#L1258-L1259"
+   }
+  ],
+  "cb": "Антья 5–6",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 7
+ },
+ {
   "id": "pad-0137",
   "source": "padas",
   "ref": "Васу Рамананда, ПК 2331 «অরুণ বসনে বিদিত ভুবনে»",
@@ -168534,7 +168600,7 @@
    "@nityananda",
    "@abhirama",
    "@sundarananda",
-   "@kamalakara-pippalai",
+   "@kamalakanta-pandita",
    "@uddharana-datta",
    "@parameshvara-dasa",
    "@purushottama-nagara",
@@ -168559,7 +168625,7 @@
   "kind": "lila",
   "authority": "C",
   "parallels": "ЧБ Антья 5.721–752; ЧЧ Ади 11; ГГД 126–132",
-  "notes": "Упоминание. Перечень — по ЧБ Антья 5.721–752; вставка «Гопала-нирная» (24–44) — позднейшая и расходится с ГГД 126–132 в шести отождествлениях из десяти, поэтому C.",
+  "notes": "Упоминание. Перечень — по ЧБ Антья 5.721–752; вставка «Гопала-нирная» (24–44) — позднейшая и расходится с ГГД 126–132 в шести отождествлениях из десяти, поэтому C. «Пандит Камалакара», получивший Саптаграм (29–30), — Камалаканта Пандит ЧБ Антья 5.729, не @kamalakara-pippalai (Махабала, ГГД 128); тег снят (проверка parshadas, 2026-11-16), поставлен @kamalakanta-pandita.",
   "themes": [
    "revelation",
    "krishna-lila"
@@ -172108,14 +172174,14 @@
    }
   ],
   "years": [
-   1512,
-   1514
+   1511,
+   1518
   ],
   "date_conf": "оценка",
-  "years_from": "period",
+  "date_basis": "ЧБ Ади 12.284, Мадхья 1.399, 8.198: сам автор не застал Навадвипа-лилы, т. е. родился после санньясы (1510); оценки жизнеописаний XX в. — ок. 1514 («через 4 года после санньясы»), не раньше ок. 1518 («не больше 15 лет» в 1533), «после 1510»; 1507 (1429 Шака, по «Гаудия-вайшнава-абхидхане») противоречит ЧБ Мадхья 2.324 (Нараяни было 4 года при Махапракаше) — parshadas/facts/vrindavana-dasa.md ⚠4",
   "age": [
-   26,
-   28
+   25,
+   32
   ],
   "attestation": 2
  },
@@ -172168,16 +172234,16 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/23.md?plain=1#L197-L227"
    }
   ],
-  "cc": "Ади 8",
   "years": [
-   1512,
-   1514
+   1511,
+   1518
   ],
   "date_conf": "оценка",
-  "years_from": "period",
+  "date_basis": "ЧБ Ади 12.284, Мадхья 1.399, 8.198: сам автор не застал Навадвипа-лилы, т. е. родился после санньясы (1510); оценки жизнеописаний XX в. — ок. 1514 («через 4 года после санньясы»), не раньше ок. 1518 («не больше 15 лет» в 1533), «после 1510»; 1507 (1429 Шака, по «Гаудия-вайшнава-абхидхане») противоречит ЧБ Мадхья 2.324 (Нараяни было 4 года при Махапракаше) — parshadas/facts/vrindavana-dasa.md ⚠4",
+  "cc": "Ади 8",
   "age": [
-   26,
-   28
+   25,
+   32
   ],
   "attestation": 2
  },
@@ -175269,12 +175335,12 @@
     "file": "padas/ru/01.md",
     "from": "22.1",
     "to": "22.5",
-    "line": 564,
-    "line_to": 584,
+    "line": 566,
+    "line_to": 586,
     "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L564-L584",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L566-L586",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L587-L607"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L588-L608"
    }
   ],
   "years": [
@@ -176935,12 +177001,12 @@
     "file": "padas/ru/01.md",
     "from": "21.1",
     "to": "21.6",
-    "line": 534,
-    "line_to": 549,
+    "line": 536,
+    "line_to": 551,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L534-L549",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L536-L551",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L556-L571"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L557-L572"
    }
   ],
   "cc": "Мадхья 16",
@@ -178323,12 +178389,14 @@
   "period": "P13",
   "order": 7.3,
   "title": "Панихати: шак Рагхавы; «Нитьянанда неотличен от Меня»",
-  "summary": "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве.",
+  "summary": "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову), Пурандара Пандит и Парамешвари Дас (увидев Господа, оба плачут от любви) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве.",
   "persons": [
    "@mahaprabhu",
    "@raghava-pandita",
    "@nityananda",
    "@gadadhara-dasa",
+   "@purandara-pandita",
+   "@parameshvara-dasa",
    "@raghunatha-vaidya-upadhyaya",
    "@makaradhvaja-kara"
   ],
@@ -178469,14 +178537,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/09.md",
-    "from_text": "**Человек.** Затем он прибыл к дому Адва",
+    "from_text": "**Человек.** Затем Он прибыл к дому Адва",
     "to_text": "> и потому сама земля там и сям сильно п"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/09.md",
-    "from": "**Человек.** Затем он прибыл к дому Адва",
+    "from": "**Человек.** Затем Он прибыл к дому Адва",
     "to": "> и потому сама земля там и сям сильно п",
     "line": 267,
     "line_to": 280,
@@ -178536,10 +178604,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "269",
     "to": "284",
-    "line": 1312,
-    "line_to": 1387,
+    "line": 1316,
+    "line_to": 1391,
     "count": 16,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1312-L1387"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1316-L1391"
    }
   ],
   "cc": "Мадхья 1",
@@ -178945,10 +179013,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "285",
     "to": "342",
-    "line": 1392,
-    "line_to": 1677,
+    "line": 1396,
+    "line_to": 1681,
     "count": 58,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1392-L1677"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1396-L1681"
    }
   ],
   "cc": "Мадхья 1",
@@ -179005,10 +179073,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "343",
     "to": "411",
-    "line": 1682,
-    "line_to": 2022,
+    "line": 1686,
+    "line_to": 2026,
     "count": 69,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1682-L2022"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1686-L2026"
    }
   ],
   "cb": "Антья 3.343–441",
@@ -179062,10 +179130,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "412",
     "to": "439",
-    "line": 2027,
-    "line_to": 2156,
+    "line": 2031,
+    "line_to": 2160,
     "count": 26,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2027-L2156"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2031-L2160"
    }
   ],
   "cb": "Антья 3.343–441",
@@ -179119,10 +179187,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "442",
     "to": "463",
-    "line": 2168,
-    "line_to": 2267,
+    "line": 2172,
+    "line_to": 2271,
     "count": 20,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2168-L2267"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2172-L2271"
    }
   ],
   "cb": "Антья 3.442–463",
@@ -179179,10 +179247,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "464",
     "to": "503",
-    "line": 2272,
-    "line_to": 2460,
+    "line": 2276,
+    "line_to": 2464,
     "count": 37,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2272-L2460"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2276-L2464"
    }
   ],
   "cc": "Мадхья 1; Ади 10",
@@ -179430,10 +179498,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "504",
     "to": "543",
-    "line": 2465,
-    "line_to": 2652,
+    "line": 2469,
+    "line_to": 2658,
     "count": 38,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2465-L2652"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2469-L2658"
    }
   ],
   "cc": "Мадхья 1; Ади 10",
@@ -184662,7 +184730,7 @@
   "title": "Брахман из Махараштры и насмешки Пракашананды; «Майявади не могут произнести имя Кришны»: имя, облик и сам Кришна едины; «Мой товар в Каши никто не купил»",
   "summary": "Брахман из Махараштры, ежедневно приходивший к Господу, описал Пракашананде Сарасвати Его облик и прему; тот со смехом назвал Господа «сентиментальным» ученика Кешавы Бхарати, обманщиком-чародеем, сводящим людей с ума, — даже Сарвабхауму, — и велел слушать Веданту. Огорчённый брахман пересказал это Господу и спросил, почему Пракашананда трижды сказал «Чайтанья», но ни разу — «Кришна», а он сам при виде Господа повторяет имя. Господь ответил: майявади — великие оскорбители Кришны и говорят лишь «Брахман», «атма», «чайтанья»; имя, облик и личность Кришны — одна духовная истина, а у дживы имя, тело и сущность различны (Падма-пурана); имя и лилы не постигаются мирскими чувствами, но открываются служению (Бхакти-расамрита-синдху, 1.2.234); сладость лил Кришны привлекает даже атмарам — Шуку, Кумар (Шримад-Бхагаватам, 12.12.69, 1.7.10, 3.15.43). «Я принёс в Каши товар премы, но покупателей нет». Господь принял брахмана Своим, наутро ушёл в Матхуру и отослал троих провожавших — Тапану Мишру, Чандрашекхару и брахмана, — которые затем обезумели от любви, вспоминая Его.",
   "persons": [
-   "@maharashtra-vipra-kashi",
+   "@kashi-vipra-host",
    "@prakashananda-sarasvati",
    "@mahaprabhu",
    "@keshava-bharati",
@@ -185095,7 +185163,8 @@
   "summary": "Во Врадже Господь пляшет в слезах; омывшись у Вишрамы, видит Кешаву на месте рождения; брахман-ученик Мадхавендры принимает Его, и с ним Господь обходит святыни Матхуры.",
   "persons": [
    "@mahaprabhu",
-   "@madhavendra-puri"
+   "@madhavendra-puri",
+   "@krishnadasa-mathura"
   ],
   "places": [
    "#mathura"
@@ -189577,7 +189646,8 @@
   "title": "Акрура-тиртха и Имли-тала: Господь живёт у Акрура-гхата, а днём во Вриндаване воспевает имя под старым тамариндом",
   "summary": "Из Гокулы Господь пришёл в Матхуру, увидел место рождения Кришны и, уходя от толп, поселился в Акрура-тиртхе. Он омывался в Калия-храде и Праскандане, видел Двадашадитью; в Кеши-тиртхе при виде места раса лишился чувств и весь день катался, смеялся, плакал и пел. Утрами Он омывался у Чира-гхата и сидел под древним тамариндом Тентули-талы у Ямуны, до полудня воспевая имя, а к вечеру всем говорил о величии нама-санкиртаны.",
   "persons": [
-   "@mahaprabhu"
+   "@mahaprabhu",
+   "@krishnadasa-mathura"
   ],
   "places": [
    "#mathura",
@@ -190010,7 +190080,7 @@
   "period": "P13",
   "order": 170,
   "title": "Кришнадас-раджпут",
-  "summary": "Под тамариндом на берегу Ямуны к Господу приходит царевич Кришнадас, отрёкшийся от мира; Господь делает его спутником.",
+  "summary": "Под тамариндом на берегу Ямуны к Господу приходит раджпут Кришнадас, отрёкшийся от мира; Господь делает его спутником.",
   "persons": [
    "@mahaprabhu"
   ],
@@ -190711,7 +190781,8 @@
   "summary": "Вспомнив видение Акруры, Господь бросается в Ямуну; Бхаттачарья вытаскивает Его и, посоветовавшись с брахманом из Матхуры, уговаривает идти в Праягу к Макара-санкранти; Господь прощается с жителями Враджи, и Матхура скорбит, как гопи при отъезде Кришны.",
   "persons": [
    "@mahaprabhu",
-   "@balabhadra-bhattacharya"
+   "@balabhadra-bhattacharya",
+   "@krishnadasa-mathura"
   ],
   "places": [
    "#vrindavana",
@@ -190825,18 +190896,19 @@
   "file": "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya18.md",
   "period": "P13",
   "order": 181.5,
-  "title": "Звук пастушьей флейты: Господь падает без чувств; патаны хватают Его спутников как отравителей",
-  "summary": "На привале у пасущихся коров пастушок заиграл на флейте, и Господь упал без чувств с пеной на губах. Десять конных патанов решили, что четверо спутников отравили богатого монаха, и хотели казнить их; бенгальцы дрожали, но раджпут Кришнадас и санодия-брахман смело отвечали, грозя людьми при дворе и своим отрядом. Очнувшись, Господь громко запел «Хари!» и пустился в пляс; испуганные солдаты отпустили пленных. Он сказал им: «Это Мои спутники; Я нищий санньяси, а без чувств падаю от болезни».",
+  "title": "Звук пастушьей флейты: Господь падает без чувств; патханы хватают Его спутников как отравителей",
+  "summary": "На привале у пасущихся коров пастушок заиграл на флейте, и Господь упал без чувств с пеной на губах. Десять конных патханов решили, что четверо спутников отравили богатого монаха, и хотели казнить их; бенгальцы дрожали, но раджпут Кришнадас и санодия-брахман смело отвечали, грозя людьми при дворе и своим отрядом. Очнувшись, Господь громко запел «Хари!» и пустился в пляс; испуганные солдаты отпустили пленных. Он сказал им: «Это Мои спутники; Я нищий санньяси, а без чувств падаю от болезни».",
   "persons": [
    "@mahaprabhu",
    "@balabhadra-bhattacharya",
    "@krishnadasa-mathura",
-   "@krishnadasa-rajput"
+   "@krishnadasa-rajput",
+   "@bijli-khan"
   ],
   "places": [],
   "kind": "lila",
   "authority": "A",
-  "notes": "Ст. 166, 172: «четверо» спутников — Балабхадра, его слуга-брахман, Кришнадас и санодия-брахман.",
+  "notes": "Ст. 166, 172: «четверо» спутников — Балабхадра, его слуга-брахман, Кришнадас и санодия-брахман. Предводитель отряда — Биджли Хан (по «Анубхашье», подзаг. к 18.208; в стихах не назван).",
   "themes": [
    "ecstasy",
    "muslims"
@@ -190937,12 +191009,12 @@
   "file": "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya18.md",
   "period": "P13",
   "order": 181.6,
-  "title": "Спор с мусульманским святым о Коране: в конце писания — личностный Бог и служение Ему; обращение Рамадаса и Биджули Кхана",
-  "summary": "Учёный мусульманин в чёрном одеянии стал доказывать по Корану безличного Бога; Господь опроверг все доводы: писание сначала говорит о безличном, но в итоге утверждает единого Бога-Личность, полного совершенств, тёмного обликом, источник и прибежище всего; служение Ему — высшая цель, освобождение же не сравнится с толикой этого блаженства; решающее — заключение писания. Тот признал: «Так написано, но никто не понимает; при виде Тебя мой язык поёт имя Кришны» — и пал к стопам. Господь очистил его именем и назвал Рамадасом; юный царевич Биджули Кхан тоже пал к Его стопам и получил благословение стопой. Патаны стали странствующими аскетами — «патана-вайшнавами», а Биджули Кхан — маха-бхагаватой.",
+  "title": "Спор с мусульманским святым о Коране: в конце писания — личностный Бог и служение Ему; милость Рамадасу и Биджли Хану",
+  "summary": "Учёный мусульманин в чёрном одеянии стал доказывать по Корану безличного Бога; Господь опроверг все доводы: писание сначала говорит о безличном, но в итоге утверждает единого Бога-Личность, полного совершенств, тёмного обликом, источник и прибежище всего; служение Ему — высшая цель, освобождение же не сравнится с толикой этого блаженства; решающее — заключение писания. Тот признал: «Так написано, но никто не понимает; при виде Тебя мой язык поёт имя Кришны» — и пал к стопам. Господь очистил его именем и назвал Рамадасом; юный царевич Биджли Хан тоже пал к Его стопам и получил благословение стопой. Патханы стали странствующими аскетами — «патханами-вайшнавами», а Биджли Хан — маха-бхагаватой.",
   "persons": [
    "@mahaprabhu",
    "@ramadasa-pathan",
-   "@bijuli-khan"
+   "@bijli-khan"
   ],
   "places": [],
   "kind": "lila",
@@ -191507,15 +191579,15 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/09.md",
-    "from_text": "**Царь.** Сарвабхаума! Отчего же он, так",
-    "to_text": "> подобного ему самому, — Господь, едины"
+    "from_text": "**Царь.** Сарвабхаума! Отчего же Он, так",
+    "to_text": "> подобного Ему Самому, — Господь, едины"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/09.md",
-    "from": "**Царь.** Сарвабхаума! Отчего же он, так",
-    "to": "> подобного ему самому, — Господь, едины",
+    "from": "**Царь.** Сарвабхаума! Отчего же Он, так",
+    "to": "> подобного Ему Самому, — Господь, едины",
     "line": 390,
     "line_to": 395,
     "count": null,
@@ -197811,7 +197883,7 @@
    "vedanta",
    "gaura-tattva"
   ],
-  "divergence": "Санньяси Каши назван Прабодханандой Сарасвати (в ЧЧ — Пракашананда).",
+  "divergence": "«Адвайта-пракаша» называет обращённого в Каши санньяси Прабодханандой; по ЧЧ Ади 7.149 и «Анубхашье» это Пракашананда Сарасвати — другое лицо (Бхактисиддханта). Тег @prabodhananda-sarasvati — по слову источника; ср. gkd-0152, jcm-0080.",
   "event": "ev-varanasi-sannyasis",
   "verses": [
    {
@@ -198003,7 +198075,7 @@
   "summary": "Санньяси Каши велят пришедшему по приглашению Господу «стоять»; Он являет сияние, как огонь конца кальпы, и каждому показывается в облике его божества. Пракашананда Сарасвати падает к Его стопам; Господь велит ему сойти со слона гордыни и петь «Хари, Ачьюта, Кришна»; тот поёт, санньяси Варанаси становятся бхагаватами; Господь возвращается в Нилачалу.",
   "persons": [
    "@mahaprabhu",
-   "@prabodhananda-sarasvati"
+   "@prakashananda-sarasvati"
   ],
   "places": [
    "#kashi",
@@ -199324,12 +199396,12 @@
     "file": "padas/ru/01.md",
     "from": "23.1",
     "to": "23.4",
-    "line": 601,
-    "line_to": 610,
+    "line": 603,
+    "line_to": 612,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L601-L610",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L603-L612",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L623-L632"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L624-L633"
    }
   ],
   "cc": "Мадхья 16",
@@ -199969,8 +200041,8 @@
   "file": "prema-vilasa/ru/12.md",
   "period": "P13",
   "order": 206,
-  "title": "Рассказ Хридаи Чайтаньи: Гауридас кормит изваяния Чайтаньи и Нитьянанды; два Прабху едят вместе с ними и остаются в его доме",
-  "summary": "Хридая Чайтанья рассказывает ученику: его гуру Гауридас — Субала, друг Кришны; страдая в разлуке даже при Чайтанье и Нитьянанде, он явил Их изваяния и кормил их, но они не ели; два Прабху велели принести изваяния — те были точь-в-точь как Они — и приготовить четыре подношения; все четверо поели, и Прабху сказали: в образе этих изваяний Мы будем каждый день есть в твоём доме; служение им Гауридас вверил Хридае Чайтанье.",
+  "title": "Рассказ Хридаи Чайтаньи: Гауридас кормит Божества Чайтаньи и Нитьянанды; два Прабху едят вместе с Ними и остаются в его доме",
+  "summary": "Хридая Чайтанья рассказывает ученику: его гуру Гауридас — Субала, друг Кришны; страдая в разлуке даже при Чайтанье и Нитьянанде, он явил Их Божества и кормил Их, но Они не ели; два Прабху велели принести Божества — Они были точь-в-точь как Сами Прабху — и приготовить четыре подношения; все четверо поели, и Прабху сказали: в образе этих Божеств Мы будем каждый день есть в твоём доме; служение Им Гауридас вверил Хридае Чайтанье.",
   "persons": [
    "@hridaya-chaitanya",
    "@shyamananda",
@@ -200185,12 +200257,12 @@
     "file": "padas/ru/01.md",
     "from": "24.1",
     "to": "24.6",
-    "line": 622,
-    "line_to": 647,
+    "line": 624,
+    "line_to": 649,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L622-L647",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L624-L649",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L645-L670"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L646-L671"
    }
   ],
   "age": [
@@ -209252,14 +209324,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/09.md",
-    "from_text": "**Мужчина.** Рассказ о том, как он входи",
+    "from_text": "**Мужчина.** Рассказ о том, как Он входи",
     "to_text": "**Мужчина.** Тогда по воле судьбы туда в"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/09.md",
-    "from": "**Мужчина.** Рассказ о том, как он входи",
+    "from": "**Мужчина.** Рассказ о том, как Он входи",
     "to": "**Мужчина.** Тогда по воле судьбы туда в",
     "line": 53,
     "line_to": 67,
@@ -216086,14 +216158,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/10.md",
     "from_text": "*(Входят царь, находящийся на террасе дв",
-    "to_text": "> с благоговением образуют вокруг него к"
+    "to_text": "> с благоговением образуют вокруг Него к"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/10.md",
     "from": "*(Входят царь, находящийся на террасе дв",
-    "to": "> с благоговением образуют вокруг него к",
+    "to": "> с благоговением образуют вокруг Него к",
     "line": 312,
     "line_to": 418,
     "count": null,
@@ -226816,12 +226888,12 @@
     "file": "padas/ru/01.md",
     "from": "25.1",
     "to": "25.13",
-    "line": 663,
-    "line_to": 723,
+    "line": 665,
+    "line_to": 725,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L663-L723",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L665-L725",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L687-L747"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L688-L748"
    }
   ],
   "cc": "Антья 12; Антья 19",
@@ -232121,7 +232193,8 @@
    "@purandara-pandita",
    "@gauridasa-pandita",
    "@advaita",
-   "@sita-thakurani"
+   "@sita-thakurani",
+   "@kaliya-krishnadasa"
   ],
   "places": [
    "#gauda",
@@ -236452,7 +236525,7 @@
   "period": "P15",
   "order": 37,
   "title": "[Указатель к в. 24] Вира у падишаха получает камень — Шьямасундара, установленный руками Ачьюты; Нанда-дулал и Валлабхаджи",
-  "summary": "Вира приходит к падишаху и, явив могущество, получает камень, из которого велит изваять Шьямасундару; абхишеку совершает Ачьюта Госвами; из остатка камня — Нанда-дулал в Свамибане и Валлабхаджи в Валлабхапуре.",
+  "summary": "Вира приходит к падишаху и, явив могущество, получает камень, из которого велит явить Божество Шьямасундары; абхишеку совершает Ачьюта Госвами; из остатка камня — Нанда-дулал в Свамибане и Валлабхаджи в Валлабхапуре.",
   "persons": [
    "@virabhadra",
    "@achyutananda"
@@ -236509,7 +236582,7 @@
   "period": "P15",
   "order": 37,
   "title": "Вирачандра у падишаха Гауды: кушанье превращается в цветы; камень — Шьямасундара Кхардахи, Нанда-дулал и Валлабхаджи",
-  "summary": "Вирачандра приходит к падишаху Гауды; на предложение поесть просит принести их кушанье — трижды под тканью оказываются цветы; в дар он берёт камень с ворот; из него изваяно Божество Шьямасундары, абхишеку совершает Ачьютананда; из остатка — Нанда-дулал (Свамибан) и Валлабхаджи (Валлабхапур); подробности автор отсылает к своей «Вирачандра-чарите».",
+  "summary": "Вирачандра приходит к падишаху Гауды; на предложение поесть просит принести их кушанье — трижды под тканью оказываются цветы; в дар он берёт камень с ворот; из него явлено Божество Шьямасундары, абхишеку совершает Ачьютананда; из остатка — Нанда-дулал (Свамибан) и Валлабхаджи (Валлабхапур); подробности автор отсылает к своей «Вирачандра-чарите».",
   "persons": [
    "@virabhadra",
    "@achyutananda",
@@ -244721,7 +244794,8 @@
    "@haridasa-thakura",
    "@vakreshvara",
    "@mukunda-datta",
-   "@murari-gupta"
+   "@murari-gupta",
+   "@mahesha-pandita"
   ],
   "places": [
    "#kheturi",
@@ -256531,7 +256605,8 @@
    "@chiranjiva-sena",
    "@gopinatha-acharya",
    "@shikhi-mahiti",
-   "@shyamananda"
+   "@shyamananda",
+   "@mahesha-pandita"
   ],
   "places": [
    "#puri"
@@ -258100,7 +258175,7 @@
   "file": "prema-vilasa/ru/14.md",
   "period": "P15",
   "order": 91,
-  "title": "Нароттама готовит праздник; встреча с Шринивасом в Будхари; ваяние изваяния Гауранги в Кхетури",
+  "title": "Нароттама готовит праздник; встреча с Шринивасом в Будхари; явление Божества Гауранги в Кхетури",
   "summary": "Нароттама строит новый храм и собирает припасы для праздника; узнав, что Шринивас в доме Кавираджи, он приходит в Будхари, Рамачандра и Вьяса встречают его, Шринивас обнимает его и знакомит с Говиндой; они рассказывают друг другу о Вриндаване и похищении книг; Нароттама зовёт Шринивасу в Кхетури, уводит с собой Вьясу для устройства праздника, привозит камень и призывает мастеров, чтобы явить Гаурангу.",
   "persons": [
    "@narottama-dasa",
@@ -258277,7 +258352,7 @@
   "period": "P15",
   "order": 92,
   "title": "Великий праздник в Кхетури в Пхалгуна-пурниму: явление Гаура-рая и Валлавиканты; киртан Девидаса и Гокулы; экстаз Нароттамы",
-  "summary": "Шринивас с Рамачандрой приходят в Кхетури; приглашены маханты всех селений к Пхалгуна-пурниме; являются изваяния Гаура-рая и Валлавиканты, Шринивас совершает абхишеку ста кувшинами панчамриты; Девидас поёт, Гаурангаваллабха играет на мриданге, Шринивас и Нароттама плачут и падают в преме, Кришнананда кается, что дом его стал Вриндаваном; на другой день от песни Гокулы Даса о Радхе Нароттама в бхаве обезумевает, и Шринивас читает шлоку из «Удджвалы», чтобы успокоить его; гостей отпускают с дарами.",
+  "summary": "Шринивас с Рамачандрой приходят в Кхетури; приглашены маханты всех селений к Пхалгуна-пурниме; являются Божества Гаура-рая и Валлавиканты, Шринивас совершает абхишеку ста кувшинами панчамриты; Девидас поёт, Гаурангаваллабха играет на мриданге, Шринивас и Нароттама плачут и падают в преме, Кришнананда кается, что дом его стал Вриндаваном; на другой день от песни Гокулы Даса о Радхе Нароттама в бхаве обезумевает, и Шринивас читает шлоку из «Удджвалы», чтобы успокоить его; гостей отпускают с дарами.",
   "persons": [
    "@srinivasa-acharya",
    "@narottama-dasa",
@@ -261263,8 +261338,8 @@
   "file": "prema-vilasa/ru/16.md",
   "period": "P15",
   "order": 95.5,
-  "title": "Мадана-мохан во сне велит Джахнаве явить изваяние Радхи и прислать к Нему",
-  "summary": "Созерцая трижды изогнутого Мадана-мохана, Джахнава печалится, что слева от Него нет Тхакурани; ночью Мадана-мохан с улыбкой велит ей вернуться на родину, явить высокое прекрасное изваяние и скорее прийти соединить его с Ним: Он будет высматривать её дорогу.",
+  "title": "Мадана-мохан во сне велит Джахнаве явить Божество Радхи и прислать к Нему",
+  "summary": "Созерцая трижды изогнутого Мадана-мохана, Джахнава печалится, что слева от Него нет Тхакурани; ночью Мадана-мохан с улыбкой велит ей вернуться на родину, явить высокое прекрасное Божество и скорее прийти соединить его с Ним: Он будет высматривать её дорогу.",
   "persons": [
    "@jahnava",
    "@madana-mohana-vrindavana",
@@ -261276,7 +261351,7 @@
   "kind": "vision",
   "authority": "C",
   "parallels": "",
-  "notes": "По преданию, Джахнава отправила во Вриндаван изваяние Радхи (сноска перевода).",
+  "notes": "По преданию, Джахнава отправила во Вриндаван Божество Радхи (сноска перевода).",
   "themes": [
    "deities",
    "celestial"
@@ -261501,8 +261576,8 @@
   "file": "prema-vilasa/ru/19.md",
   "period": "P15",
   "order": 95.55,
-  "title": "Джахнава отправляет во Вриндаван изваяние Радхи, и Госвами ставят его слева от Мадана-мохана; восемь сыновей Джахнавы и поклон Абхирамы",
-  "summary": "Как обещала во Вриндаване, Джахнава велит изготовить изваяние Шри Радхи для Мадана-мохана и отправляет его; Госвами с радостью ставят Радху слева от Него; подробнее автор писал о Джахнаве в «Вирачандра-чарите»: из восьми её сыновей семеро расстались с жизнью от поклона Абхирамы, а последний — Вирабхадра (Вирачандра).",
+  "title": "Джахнава отправляет во Вриндаван Божество Радхи, и Госвами ставят его слева от Мадана-мохана; восемь сыновей Джахнавы и поклон Абхирамы",
+  "summary": "Как обещала во Вриндаване, Джахнава велит явить Божество Шри Радхи для Мадана-мохана и отправляет его; Госвами с радостью ставят Радху слева от Него; подробнее автор писал о Джахнаве в «Вирачандра-чарите»: из восьми её сыновей семеро расстались с жизнью от поклона Абхирамы, а последний — Вирабхадра (Вирачандра).",
   "persons": [
    "@jahnava",
    "@madana-mohana-vrindavana",
@@ -261517,12 +261592,12 @@
   "kind": "lila",
   "authority": "C",
   "parallels": "",
-  "notes": "Вариант обоих изданий — изваяние для Гопинатхи; по преданию, поклон Абхирамы губил всякого, кто не был воплощением божества (сноски перевода). «Вирачандра-чарита» — по словам автора, его другое сочинение.",
+  "notes": "Вариант обоих изданий — Божество для Гопинатхи; по преданию, поклон Абхирамы губил всякого, кто не был воплощением божества (сноски перевода). «Вирачандра-чарита» — по словам автора, его другое сочинение.",
   "themes": [
    "deities",
    "family"
   ],
-  "divergence": "По варианту обоих изданий изваяние Радхи отправлено для Гопинатхи, а не для Мадана-мохана (ср. виласу 16).",
+  "divergence": "По варианту обоих изданий Божество Радхи отправлено для Гопинатхи, а не для Мадана-мохана (ср. виласу 16).",
   "event": "ev-jahnava-radha-for-madana-mohana",
   "verses": [
    {
@@ -267280,7 +267355,7 @@
   "period": "P15",
   "order": 97.2,
   "title": "Посланцы у Шринивасы в Яджиграме; путь в Пурушоттаму",
-  "summary": "Через Катоа, где они видят изваяние Махапрабху, посланцы приходят в Яджиграм; при имени Вриндавана и вести о милости Гопалы Бхатты Шринивас падает на землю: Прабху не забыл его, а он лежит в колодце мирской жизни; он слушает слова Дживы и принимает гостей как посланных гуру; наутро они уходят в Пурушоттаму, дивясь увиденному.",
+  "summary": "Через Катоа, где они видят Божество Махапрабху, посланцы приходят в Яджиграм; при имени Вриндавана и вести о милости Гопалы Бхатты Шринивас падает на землю: Прабху не забыл его, а он лежит в колодце мирской жизни; он слушает слова Дживы и принимает гостей как посланных гуру; наутро они уходят в Пурушоттаму, дивясь увиденному.",
   "persons": [
    "@srinivasa-acharya",
    "@gopala-bhatta",
@@ -270718,7 +270793,7 @@
    "deities",
    "celestial"
   ],
-  "divergence": "В «Према-виласе» — Божество из амбара Випрадаса, изваянное Самим Господом; здесь имя хозяина не названо.",
+  "divergence": "В «Према-виласе» — Божество из амбара Випрадаса, явленное Самим Господом; здесь имя хозяина не названо.",
   "event": "ev-kheturi-six-deities",
   "verses": [
    {
@@ -270831,8 +270906,8 @@
   "file": "prema-vilasa/ru/19.md",
   "period": "P15",
   "order": 104.1,
-  "title": "Образ Гауры не удаётся ваятелям; во сне Чайтанья открывает, что сам изваял Свой образ до санньясы и спрятал в амбаре Випрадаса; змеи исчезают; встреча с Шринивасом; приготовления к абхишеке",
-  "summary": "Пять образов Кришны выходят превосходными, а образ Гауры не получается; Господь во сне говорит, что не будет пребывать в нём: до санньясы Он изваял Свой образ, погрузил его в Гангу и поместил в зернохранилище Випрадаса; Нароттама входит в амбар, змеи исчезают, он выносит образ, и Випрадас с родом принимает прибежище; люди узнают в образе прежнего Гаурангу; Шринивас с Рамачандрой возвращаются из Вриндавана, встречаются с Нароттамой в Будхари и велят готовить абхишеку к Пхалгуна-пурниме; рассылаются приглашения.",
+  "title": "Образ Гауры не удаётся мастерам; во сне Чайтанья открывает, что Сам явил Свой образ до санньясы и спрятал в амбаре Випрадаса; змеи исчезают; встреча с Шринивасом; приготовления к абхишеке",
+  "summary": "Пять образов Кришны выходят превосходными, а образ Гауры не получается; Господь во сне говорит, что не будет пребывать в нём: до санньясы Он явил Свой образ, погрузил Его в Гангу и поместил в зернохранилище Випрадаса; Нароттама входит в амбар, змеи исчезают, он выносит образ, и Випрадас с родом принимает прибежище; люди узнают в образе прежнего Гаурангу; Шринивас с Рамачандрой возвращаются из Вриндавана, встречаются с Нароттамой в Будхари и велят готовить абхишеку к Пхалгуна-пурниме; рассылаются приглашения.",
   "persons": [
    "@narottama-dasa",
    "@mahaprabhu",
@@ -270857,7 +270932,7 @@
   "kind": "miracle",
   "authority": "C",
   "parallels": "",
-  "notes": "Образ, изваянный Самим Господом до санньясы и погружённый в Гангу (262) — подробность «Према-виласы».",
+  "notes": "Образ, явленный Самим Господом до санньясы и погружённый в Гангу (262) — подробность «Према-виласы».",
   "themes": [
    "deities",
    "celestial"
@@ -271669,7 +271744,8 @@
    "@raghunandana",
    "@gadadhara-dasa",
    "@jnanadasa",
-   "@mahaprabhu"
+   "@mahaprabhu",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kharadaha",
@@ -271862,7 +271938,8 @@
    "@hridaya-chaitanya",
    "@vyasa-acharya",
    "@gokulananda",
-   "@shridasa-chakravarti"
+   "@shridasa-chakravarti",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kheturi"
@@ -272352,7 +272429,8 @@
    "@raghunandana",
    "@lochana-dasa",
    "@santosha-raya",
-   "@mahaprabhu"
+   "@mahaprabhu",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kheturi"
@@ -272982,7 +273060,8 @@
    "@raghunandana",
    "@jahnava",
    "@ramachandra-kaviraja",
-   "@shyamananda"
+   "@shyamananda",
+   "@mahesha-pandita"
   ],
   "places": [
    "#kheturi"
@@ -273392,7 +273471,8 @@
    "@shripati",
    "@ramachandra-kaviraja",
    "@shyamananda",
-   "@jnanadasa"
+   "@jnanadasa",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kheturi"
@@ -280739,7 +280819,7 @@
   "title": "Вандана ветвям Гададхары Пандита",
   "summary": "59 шлок поклонения ученикам и последователям Гададхары Пандита: Дхрувананда, Шридхара Брахмачари, Ананта Ачарья, Наянананда Мишра, Ачьютананда, Бхугарбха Госвами, Бхагавата Дас, Джаянанда, Мадхава Ачарья, Чандрашекхара, Вакрешвара, Дамодара Пандит и другие.",
   "persons": [
-   "@yadunatha-dasa-shakha",
+   "@yadunandana-dasa-shakha",
    "@gadadhara-pandita"
   ],
   "places": [],
@@ -283489,12 +283569,12 @@
     "file": "padas/ru/01.md",
     "from": "26.1",
     "to": "26.4",
-    "line": 739,
-    "line_to": 754,
+    "line": 741,
+    "line_to": 756,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L739-L754",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L741-L756",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L763-L778"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L764-L779"
    }
   ],
   "cc": "Ади 3",
@@ -292614,6 +292694,7 @@
   "title": "Девакинандана: вступление",
   "summary": "Автор, «зажав в зубах соломинку», просит гуру и вайшнавов о милости и прощении за нарушение порядка.",
   "persons": [
+   "@devakinandana-dasa",
    "@mahaprabhu",
    "@nityananda"
   ],
@@ -292807,6 +292888,7 @@
   "title": "Девакинандана: заключение и плоды чтения",
   "summary": "Вайшнавы бесконечны; автор прибегает к стопам гуру и вайшнавов; кто читает вандану на рассвете, очищается и обретает према-бхакти; подпись Девакинанданы Даса.",
   "persons": [
+   "@devakinandana-dasa",
    "@mahaprabhu"
   ],
   "places": [],
@@ -292849,6 +292931,7 @@
   "title": "«Вайшнавабхидхана»: поклонение гуру Пурушоттаме и Панча-таттве",
   "summary": "Девакинандана кланяется гуру Пурушоттаме, всем вайшнавам, родителям Господа и Нитьянанды, Господу и Нитьянанде; извиняется за порядок имён.",
   "persons": [
+   "@devakinandana-dasa",
    "@purushottama-nagara",
    "@mahaprabhu",
    "@nityananda"
@@ -295958,7 +296041,8 @@
   "persons": [
    "@vrindavana-dasa",
    "@mahaprabhu",
-   "@shiva"
+   "@shiva",
+   "@ramachandra-puri"
   ],
   "places": [
    "#kashi"
@@ -296878,10 +296962,10 @@
     "file": "chaitanya-bhagavata/ed/CB_Antya03.md",
     "from": "544",
     "to": "546",
-    "line": 2657,
-    "line_to": 2667,
+    "line": 2663,
+    "line_to": 2673,
     "count": 3,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2657-L2667"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2663-L2673"
    }
   ],
   "attestation": 1
@@ -297022,7 +297106,7 @@
    "@dhananjaya-pandita",
    "@yadunatha-kavichandra",
    "@jagadisha-pandita",
-   "@kala-krishnadasa",
+   "@kaliya-krishnadasa",
    "@sadashiva-kaviraja",
    "@uddharana-datta",
    "@mahesha-pandita",
@@ -297036,7 +297120,7 @@
   "places": [],
   "kind": "author",
   "authority": "A",
-  "notes": "Ст. 744 в md искажён (слит с пояснением).",
+  "notes": "Ст. 744 в md искажён (слит с пояснением). Ст. 740 «Калия Кришнадас» — @kaliya-krishnadasa (из двенадцати гопалов), не @kala-krishnadasa (слуга Господа на юге; «Анубхашья» к ЧЧ Мадхья 7.39).",
   "themes": [
    "author"
   ],
@@ -300196,7 +300280,8 @@
    "@bhagavatacharya",
    "@saranga-thakura",
    "@jagannatha-tirtha",
-   "@mahaprabhu"
+   "@mahaprabhu",
+   "@mahesha-pandita"
   ],
   "places": [
    "#ganga"
@@ -301202,6 +301287,7 @@
   "summary": "Бхагаватачарья, Вишнудасачарья, Чакрапани Ачарья, Ананта Ачарья, Нандини, Камадева, Чайтанья Дас, Дурлабха Вишвас, Ванамали Дас, Джаганнатха Кара, Бхаванатха Кара, Хридаянанда Сена, Бхоланатха Дас, Ядава Дас, Виджая Дас, Джанардана Дас, Ананта Дас, Кану Пандит, Нараяна Дас, Шриватса Пандит, Харидас Брахмачари, Пурушоттама Брахмачари, Кришнадас, Пурушоттама Пандит, Рагхунатха, Ванамали Кавичандра, Вайдьянатха, Локанатха Пандит, Мурари Пандит, Шри Харичарана, Мадхава Пандит, Виджая Пандит, Пандит Шрирама; ветвей Адвайты не счесть.",
   "persons": [
    "@advaita",
+   "@bhagavatacharya",
    "@vishnudasa-acharya",
    "@ananta-acharya",
    "@ananta-dasa"
@@ -301209,7 +301295,7 @@
   "places": [],
   "kind": "teaching",
   "authority": "A",
-  "notes": "Перечень ветвей. Без тегов (тождество не установлено): Бхагаватачарья (ср. @bhagavatacharya — в ст. 79 подветвь Гададхары), Камадева (ср. @kamadeva-nagara), Ванамали Дас (ср. @vanamali-dasa-vaidya), Пурушоттама Брахмачари, Локанатха Пандит, Шрирама Пандит (по «Анубхашье» — младший брат Шривасы).",
+  "notes": "Перечень ветвей. Бхагаватачарья (ст. 58) = @bhagavatacharya по «Анубхашье» к 12.58: «сначала был среди спутников Адвайты, а позже вошёл в число спутников Гададхары» (ст. 79), автор «Према-тарангини», Швета-манджари, см. Ади 10.113 (тег — этап В @bhagavatacharya, 2026-11-21; версия ПВ/АП о Бада Шьямадасе — к @shyamadasa-acharya, не здесь). Без тегов (тождество не установлено): Камадева (ср. @kamadeva-nagara), Ванамали Дас (ср. @vanamali-dasa-vaidya), Пурушоттама Брахмачари, Локанатха Пандит, Шрирама Пандит (по «Анубхашье» — младший брат Шривасы).",
   "themes": [
    "teaching"
   ],

@@ -1,0 +1,155 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/mukunda-datta.md и lila-db.
+id: "@mukunda-datta"
+names:
+  ru: "Мукунда Датта"
+  en: "Mukunda Datta"
+  variants: ["Шри Мукунда", "Мукунда Махашой (ЧБ)", "Мукунда Датта, певец Кришны (ЧБ Антья 8.15)", "врач-учитель (бедж-оджха) Мукунда (ЧБ Мадхья 7.40)", "амбаштха / вайдья Мукунда (Мурари)", "Шри Мукунда Дас (B 808, однажды)", "Шрила Мукунда Датта Тхакур (B 152)"]
+  facts: [F1]
+kind: associate
+circle: [navadvipa, puri]
+period: [P05, P07, P08, P09, P10, P11, P12, P13, P14]
+period_note: "Лично — с юности в Навадвипе (однокашник Нимая, собрание Адвайты, P05) через киртаны у Шриваса и наказание-милость (P07), санньясу в Катве (P08), путь в Пури (P09) и первые годы в Нилачале (P10–P12), путь Господа в Гауду (P13), ежегодные приходы из Гауды (P14). P01 (нисхождение спутников, lila-db ev-associates-descend) — лишь перечень."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#chattagrama"
+    conf: "день и год явления источники не называют; место — Читтагонг: деревня Чханхара (#chhanhara, «Анубхашья» к ЧЧ Ади 10.40) ≠ Чакрашала (#chakrashala, «Према-виласа» 22; B 808; T 43) — ⚠3; буквальное чтение перевода ЧЧ Ади 13.61 (Радха-деша) — ⚠4; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет"
+    facts: [F5]
+  disappearance:
+    date: ""
+    tithi: "пурнима месяца Тривикрамы (≈ джьяйштха), день Снана-ятры Джаганнатхи — по нашему календарю (29.06.2026)"
+    place: ""
+    conf: "календарь ШЧСМ (541/ru): «День ухода Шрилы Мукунды Датты» (в тот же день — уход Шридхара Пандита); B, T, M дат не дают; год и место ухода неизвестны"
+    facts: [F60]
+origin:
+  places: ["#chattagrama", "#chhanhara", "#chakrashala", "#navadvipa", "#kumarahatta"]
+  family: ["старший брат — Васудева Датта (@vasudeva-datta)"]
+  varna: "амбаштха (вайдья, каста врачей); «врач-учитель» (ЧБ Мадхья 7.40)"
+  facts: [F3, F4, F5, F6, F7]
+relations:
+  - {type: sibling, who: "@vasudeva-datta", facts: [F3, F15, F52, F53, F54],
+     note: "Старший брат; Васудева считал младшего Мукунду старшим, ибо тот раньше обрёл милость Господа (ЧЧ Мадхья 11.138–140); оба — певцы Гауранги (ГГД 140); пел в группе Мукунды на Ратха-ятре."}
+  - {type: companion, who: "@mahaprabhu", facts: [F8, F9, F11, F13, F14, F19, F21, F22, F23, F24, F25, F26, F27, F28, F29, F30, F33, F34, F37, F39, F45, F52, F53, F55],
+     events: [ev-nimai-challenges-mukunda, ev-mukunda-danda-prasada, ev-mukunda-datta-instruction, ev-sannyasa-katwa],
+     note: "Однокашник и друг с детства (ЧЧ Ади 10.40; Мадхья 11.138); главный певец Его киртанов; наказание-милость (ЧБ Мадхья 10) и наставление о двуруком облике (Мурари 2.4; Карнапура); один из пятерых, кому Господь открыл решение о санньясе; благословение: «когда бы Я ни пришёл, ты будешь Моим певцом» (ЧБ Мадхья 10.260)."}
+  - {type: friend, who: "@gadadhara-pandita", facts: [F16, F17, F18], events: [ev-gadadhara-initiation-pundarika],
+     note: "Неразлучные друзья (ЧБ Мадхья 7.44–45); Мукунда свёл Гададхару с Пундарикой и помог ему принять у того посвящение. = @gadadhara-pandita F38–F41."}
+  - {type: friend, who: "@pundarika-vidyanidhi", facts: [F15, F17, F18], events: [ev-gadadhara-initiation-pundarika],
+     note: "Земляк из Читтагонга; лишь Мукунда и Васудева знали его истинную славу (ЧБ Мадхья 7.39–43); его стих о милости Кришны (ШБ 3.2.23) открыл прему Пундарики. = @pundarika-vidyanidhi F30–F41."}
+  - {type: other, who: "@advaita", facts: [F10, F22, F28, F35], events: [ev-advaita-feast-shantipura],
+     note: "С детства — в собрании Адвайты; по ЧБ Мадхья 10.189 — читал с Адвайтой «Васиштху»; Адвайта: «удачливый Мукунда тоже был счастлив наказанием» (ЧЧ Ади 12.41); ел с Ним в Шантипуре (ЧЧ Мадхья 3.106–107). = @advaita F61, F155."}
+  - {type: other, who: "@srivasa", facts: [F19, F21, F24], events: [ev-mukunda-danda-prasada, ev-dance-shrivasa-house],
+     note: "Пел во дворе Шриваса; Шриваса просил за него на маха-пракаше и передавал его вопрос Господу. = @srivasa F63."}
+  - {type: met, who: "@ishvara-puri", facts: [F12], events: [ev-ishvara-puri-navadvipa], note: "Его пение в собрании Адвайты открыло прему неузнанного Ишвары Пури (ЧБ Ади 11.77–81). = @ishvara-puri F29."}
+  - {type: other, who: "@gangadasa-pandita", facts: [F8], note: "По B 808 — учился у него вместе с Нимаем (без первоисточника, ⚠5). = @gangadasa-pandita F20."}
+  - {type: co-worker, who: "@nityananda", facts: [F32, F33, F37, F41, F50], events: [ev-sannyasa-katwa, ev-journey-to-puri, ev-danda-broken, ev-messenger-to-gauda-after-south],
+     note: "Вместе при санньясе и на пути в Пури; вместе решили послать Кала Кришнадаса в Гауду (ЧЧ Мадхья 10.67)."}
+  - {type: co-worker, who: "@chandrashekhara-acharya", facts: [F33, F34, F46], events: [ev-sannyasa-katwa, ev-chandrashekhara-drama],
+     note: "Совершили обряды санньясы (ЧЧ Ади 17.272–273); шли за Господом по Радха-деше (Мадхья 3.11); в действе у Чандрашекхары Мукунда начал киртан. = @chandrashekhara-acharya F20, F37."}
+  - {type: co-worker, who: "@jagadananda-pandita", facts: [F37, F43, F50], events: [ev-journey-to-puri, ev-sarvabhauma-deliverance], note: "Спутники на пути в Пури; стихи Сарвабхаумы: Джагадананда принёс лист, Мукунда переписал шлоки на стену (ЧЧ Мадхья 6.251–252)."}
+  - {type: co-worker, who: "@damodara-pandita", facts: [F37, F43, F50], events: [ev-journey-to-puri, ev-return-from-south], note: "Спутники на пути в Пури и в ожидании Господа с юга. = @damodara-pandita F5–F8, F12–F13, F18."}
+  - {type: friend, who: "@gopinatha-acharya", facts: [F41, F42], events: [ev-sarvabhauma-meeting, ev-gopinatha-sarvabhauma-debate], note: "Знакомый по Навадвипе; встретил его у Львиных врат, через него — к Сарвабхауме; вместе осуждали майявадские речи Сарвабхаумы (ЧЧ Мадхья 6)."}
+  - {type: other, who: "@sarvabhauma", facts: [F42, F43], events: [ev-sarvabhauma-deliverance], note: "Гневался на его майявадские речи («это и есть его милость к нему» — «Анубхашья»); сберёг его две шлоки о Господе."}
+  - {type: other, who: "@brahmananda-bharati", facts: [F51], events: [ev-brahmananda-bharati-deerskin], note: "Доложил Господу о его приходе; диалог «где же Бхарати Госвами?» (ЧЧ Мадхья 10.151–156)."}
+  - {type: other, who: "@kala-krishnadasa", facts: [F50], events: [ev-messenger-to-gauda-after-south], note: "Вместе с Нитьянандой, Джагаданандой и Дамодарой решили послать его вестником в Гауду."}
+  - {type: co-worker, who: "@murari-gupta", facts: [F29, F48, F53, F54], events: [ev-narendra-jala-keli, ev-mukunda-datta-instruction],
+     note: "Вместе получили наставление (ЧЧН 1; Мурари 2.4); пели в одной группе на Ратха-ятре; «словно второй Мукунда» шёл с ним в Пури (махакавья 14.28); бились в воде на озере Нарендра (ЧБ Антья 8.123)."}
+  - {type: co-worker, who: "@haridasa-thakura", facts: [F35, F46, F53], events: [ev-advaita-feast-shantipura, ev-chandrashekhara-drama, ev-ratha-yatra-gundicha], note: "Звали к трапезе у Адвайты вместе; Харидас — танцор в группе Мукунды на Ратха-ятре."}
+  - {type: co-worker, who: "@kashishvara", facts: [F53, F57], events: [ev-ratha-yatra-gundicha], note: "Во главе второго кольца вокруг Господа (ЧЧ Мадхья 13.89)."}
+  - {type: met, who: "@yavana-governor-pichhalda", facts: [F55], events: [ev-yavana-governor-boat], note: "Мукунда сказал ему, как послужить Господу: помочь добраться до Ганги (ЧЧ Мадхья 16.190–191)."}
+  - {type: met, who: "@raghunatha-dasa", facts: [F56], events: [ev-raghunatha-dasa-joins-lord], note: "Первым увидел его и представил Господу (ЧЧ Антья 6.190)."}
+  - {type: other, who: "@chhota-haridasa", facts: [F57], events: [ev-chhota-haridasa-prayaga], note: "Слышал у моря его пение после ухода (ЧЧ Антья 2.153–154)."}
+  - {type: other, who: "@svarupa-damodara", facts: [F51, F53, F57], events: [ev-svarupa-paramananda-arrive], note: "Встречал его в Пури; пел в его группе в танце (ЧЧ Мадхья 13.73). = @svarupa-damodara F17."}
+  - {type: other, who: "@mukunda-dasa", facts: [], note: "Тёзка, не путать: Мукунда Дас из Шрикханды, придворный врач, отец Рагхунанданы."}
+  - {type: other, who: "@mukunda-sanjaya", facts: [], note: "Тёзка, не путать: в его чанди-мандапе Нимай держал школу (ЧБ Ади 10)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F2, F5, F8, F14, F19, F20, F42], note: "«Анубхашья» к ЧЧ Ади 10.40 — родина Чханхара, Мадхукантха (ГГД 140), сводка его лил по ЧБ; пояснения издания ЧБ по «Гаудия-бхашье» к Мадхья 10."}
+identities:
+  - in: krishna-lila
+    as: "Мадхукантха, певец во Врадже (вместе с Мадхувратой — Васудевой Даттой)"
+    source: "ГГД 140"
+    level: A
+    facts: [F2]
+    variants: ["«Анубхашья» к ЧЧ Ади 10.40 и «Према-виласа» 22.14 — так же."]
+  - in: other
+    as: "частица гандхарвы (небесного певца)"
+    source: "Мурари 1.4.7"
+    level: A
+    facts: [F2]
+    variants: ["⚠2: не противоречит ГГД — о небесном певце, а не о форме во Врадже."]
+events:
+  - ev-nimai-challenges-mukunda
+  - ev-ishvara-puri-navadvipa
+  - ev-associates-gather
+  - ev-gadadhara-initiation-pundarika
+  - ev-dance-shrivasa-house
+  - ev-mahaprakasha-abhisheka
+  - ev-mukunda-danda-prasada
+  - ev-mukunda-datta-instruction
+  - ev-nityananda-first-meeting
+  - ev-flute-sound-radha-bhava
+  - ev-shiva-singer
+  - ev-chandrashekhara-drama
+  - ev-jala-keli-navadvipa
+  - ev-nagara-kirtana-kazi
+  - ev-sannyasa-decision-devotees-grief
+  - ev-lament-after-lord-leaves
+  - ev-sannyasa-katwa
+  - ev-keshava-bharati-dances-katwa
+  - ev-radha-desha-wandering
+  - ev-advaita-feast-shantipura
+  - ev-shantipura-reunion
+  - ev-farewell-shantipura
+  - ev-journey-to-puri
+  - ev-chhatrabhoga-ramachandra-khan
+  - ev-danda-broken
+  - ev-jaleshvara-shiva-dance
+  - ev-toll-collector-binds-mukunda
+  - ev-first-sight-jagannatha-temple
+  - ev-sarvabhauma-meeting
+  - ev-first-darshan-jagannatha
+  - ev-gopinatha-sarvabhauma-debate
+  - ev-sarvabhauma-deliverance
+  - ev-departure-for-south
+  - ev-return-from-south
+  - ev-messenger-to-gauda-after-south
+  - ev-svarupa-paramananda-arrive
+  - ev-brahmananda-bharati-deerskin
+  - ev-ramananda-comes-to-puri
+  - ev-gauda-devotees-set-out-puri
+  - ev-gauda-devotees-arrive-puri
+  - ev-haridasa-puri-hut
+  - ev-narendra-jala-keli
+  - ev-ratha-yatra-gundicha
+  - ev-yavana-governor-boat
+  - ev-ramakeli-rupa-sanatana
+  - ev-puri-eighteen-years-associates
+  - ev-chhota-haridasa-prayaga
+  - ev-raghunatha-dasa-joins-lord
+  - ev-vallabha-bhatta-puri
+events_note: "ev-mukunda-danda-prasada — ЧБ Мадхья 10.174–263, ЧЧ Ади 17.65 (и Ади 12.41); ev-mukunda-datta-instruction — Мурари 2.4.12–21, махакавья 6.35–41, ЧЧН 1 ст. 62–64, Лочан порц. 26.47–63 (⚠7: иная версия урока); ev-toll-collector-binds-mukunda — Мурари 3.7, Лочан порц. 44. Не включены (в lila-db с его тегом, но лишь перечни/присутствие или поздние источники): ev-associates-descend, ev-childhood-companions, ev-lakshmi-feast-vaishnavas, ev-departure-for-gaya (Джаянанда), ev-gaura-dance-with-devotees, ev-murari-adhyatma-instruction, ev-advaita-yoga-vasishtha-beating, ev-advaita-worships-lord-shrivasa, пады о Навадвипе (ev-gaura-arati-navadvipa, ev-jhulana-navadvipa и др.), ev-govinda-joins-lord («Карча», ур. D), ev-vasudeva-datta-prayer, ev-madhavendra-puri-aradhana, ev-lord-disappearance, ev-narottama-dream-gaura-kheturi."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#chattagrama", "#chhanhara", "#chakrashala", "#navadvipa", "#house-chandrashekhara", "#kumarahatta", "#katwa", "#shantipura", "#chhatrabhoga", "#jaleshvara", "#atharanala", "#puri", "#gundicha", "#ramakeli"]
+places_facts: [F5, F6, F7, F10, F19, F32, F35, F37, F38, F39, F41, F46, F53, F55]
+character:
+  - {trait: "сладостное пение, плавящее сердца: где он поёт, туда нисходит Господь", facts: [F10, F12, F14, F19, F27, F35], events: [ev-mukunda-danda-prasada]}
+  - {trait: "непоколебимая вера в слово Господа: обещание даршана через коти рождений встретил пляской радости", facts: [F24, F25], events: [ev-mukunda-danda-prasada]}
+  - {trait: "смирение и раскаяние: сам признал вину и корил себя за неуважение к бхакти", facts: [F23, F26, F29]}
+  - {trait: "ревность о чистоте бхакти: гнев на майявадские речи Сарвабхаумы", facts: [F42], events: [ev-gopinatha-sarvabhauma-debate]}
+  - {trait: "нежная забота о Господе: страдает при виде суровости Его санньясы; старается уберечь Его от сборщиков пошлины", facts: [F40, F45], events: [ev-toll-collector-binds-mukunda]}
+  - {trait: "верная дружба и служение вайшнавам: свёл Гададхару с Пундарикой, сберёг стихи Сарвабхаумы", facts: [F16, F17, F18, F43]}
+  - {trait: "мягкость, спокойствие, утешительная речь (махакавья 14.27)", facts: [F54]}
+significance: {facts: [F2, F27, F28, I1, I2, I3, I4]}
+sources:
+  T: "глав нет; глава о Васудеве Датте 43–44 (= 85–86, напечатана дважды); 6, 19, 22, 32, 34, 36, 40, 42, 45–46, 51–54, 73, 82, 104, 107–109, 113, 120, 140, 154, 164, 183"
+  M: "глав нет; pdf 35–41 (гл. о Гададхаре), 51, 80, 86, 88, pdf 193"
+  B: "808–814 (гл.); 102, 152–153, 206, 241, 470, 717, 740, 742, 749–753, 754–755, 780, 828, 848, 853–857, 874, 997–999, 1003, 1071"
+  other: ["ГГД 140", "ЧЧ Ади 6.48–49, 10.40, 12.41, 13.3, 13.61, 17.65, 17.272–273", "ЧЧ Мадхья 1.100, 1.219, 1.255–256, 3.11, 3.61–62, 3.106–107, 3.121–126, 3.209, 5.155, 6.19–23, 6.68, 6.77, 6.113–116, 6.251–252, 7.23–24, 9.340, 10.67–70, 10.127, 10.151–156, 11.33, 11.138–140, 11.196, 13.40–41, 13.73, 13.89, 16.127–129, 16.190–191", "ЧЧ Антья 2.153–154, 6.190, 7.48–50", "«Анубхашья» к ЧЧ Ади 10.40, 12.41, 13.61, 17.65, 17.273; Мадхья 6.113, 13.40, 13.89; Антья 6.189", "«Амрита-праваха-бхашья» к ЧЧ Ади 17.65, Мадхья 11.139", "ЧБ Ади 11.19–46, 11.70–84, 12.6–19", "ЧБ Мадхья 2.215–222, 7.36–121, 8.141, 9.32, 10.174–263, 13.335, 18.38, 23.209, 26.157–166, 28.11–12, 28.85, 28.103–104, 28.112, 28.149", "ЧБ Антья 1.8, 1.52, 1.84, 2.35, 2.122, 2.133, 2.235, 2.247, 2.423, 8.15, 8.123", "Мурари 1.4.7; 2.2.5; 2.4.12–21; 2.8.4; 2.11.17; 2.18.17–18; 3.5.1; 3.7.1–14; 4.17.5–6", "«Чайтанья-чандродая», акты 1, 3, 4, 6, 8", "махакавья Карнапуры 6.35–41, 6.108, 7.89, 11.45, 11.76, 12.9, 12.85, 14.27–28", "Лочан, Мадхья, порции 26.47–63, 31.60, 35.80–108, 44.36–73", "«Према-виласа» 22.4–16", "«Гаура-кришнодая» 6.18, 6.36, 6.54, 7.14, 17.71", "Джаянанда (Виджая-кханда 5.14; «Вести после санньясы» 57.1)", "«Адвайта-пракаша» 15.113"]
+article: {ru: "parshadas/ru/mukunda-datta.md", en: "parshadas/en/mukunda-datta.md"}
+open_questions:
+  - "Деревня рождения: Чханхара («Анубхашья») или Чакрашала («Према-виласа») (⚠3); чтение ЧЧ Ади 13.61 (⚠4)."
+  - "За что наказан: общение с майявади (ЧБ) или предпочтение четырёхрукого облика (Мурари, Карнапура, Лочан) — одно событие или два (⚠7)."
+  - "Где жил после санньясы Господа (Кумарахатта — только B, ⚠12) и был ли «послан проповедовать в Бенгалию» (B 814, ⚠11)."
+  - "Год и место ухода неизвестны; день — по календарю ШЧСМ (пурнима Тривикрамы)."

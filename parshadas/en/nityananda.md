@@ -5,7 +5,7 @@
 When the Son of Nanda came into the age of Kali as Sri Chaitanya, His elder brother came with Him. Krishnadasa Kaviraja
 says it simply:
 
-“Now the son of Nanda Maharaja is Sri Chaitanya, and Baladeva is the brother of Sri Chaitanya, Nityananda.” (CC, Adi
+“He who was Nanda’s son is here Chaitanya Gosani; He who was Baladeva is here Nityananda, His brother” (CC, Adi
 17.295)
 
 As in the Dvapara-yuga Baladeva appeared as the elder brother of Krishna, so in the Kali-yuga, in the form of
@@ -18,11 +18,9 @@ rest. <!-- F6 F7 F25 Q1 -->
 The “Charitamrita” opens its account of Him with the same words — and at once confesses that His glory cannot be
 exhausted:
 
-“Sri Chaitanya is Krishna Himself, and Nityananda is Balarama. Sri Nityananda fulfils all the desires of Sri
-Chaitanya.” (CC, Adi 5.156)
+“Sri Chaitanya is that Krishna, and Nityananda is Rama. Nityananda fulfils all of Chaitanya’s desires” (CC, Adi 5.156)
 
-“The ocean of Sri Nityananda's glory has no bounds or limits. By His mercy I have been able to touch only a single drop
-of His greatness.” (CC, Adi 5.157)
+“The ocean of Nityananda’s glory is endless and shoreless. I touch but a single drop of it — and that only by His mercy” (CC, Adi 5.157)
 
 Even the thousand-mouthed Ananta could not exhaust that ocean in all eternity; and Vrindavana Dasa adds that by
 Nityananda's mercy the whole world sings of Chaitanya to this day (CB, Antya 5.220). At the very beginning of the
@@ -61,12 +59,11 @@ Avadhuta. In His wanderings, too, He went about in the guise of an avadhuta. <!-
 
 But above all He is mercy. Krishnadasa Kaviraja, speaking of Him, suddenly turns to himself:
 
-“I am more sinful than Jagai and Madhai and lower than a wretched worm in dung.” (CC, Adi 5.205)
+“I am more sinful than Jagai and Madhai, lower than a worm in excrement” (CC, Adi 5.205)
 
-“Who in all the world but Sri Nityananda could have poured out His mercy on such a sinner as I am?” (CC, Adi 5.207)
+“Who in all the world but Nityananda alone would show mercy to one as despicable as I?” (CC, Adi 5.207)
 
-“Sri Nityananda is intoxicated with loving frenzy. He is the embodiment of supreme mercy and compassion, and so He makes
-no distinction between good and bad.” (CC, Adi 5.208)
+“Intoxicated with love, Nityananda is the avatara of mercy; He makes no distinction between the high and the low” (CC, Adi 5.208)
 
 It was He, Kaviraja goes on, who brought him to Vrindavana and gave him shelter at the feet of Sri Rupa (Adi 5.209–210).
 For the most fallen, who have no merit at all, hope in Nityananda's feet is the crown of piety; and even the pain of
@@ -99,7 +96,7 @@ Where it once stood are now Birchandrapur, Garbhavasa and other villages, about 
 the loop line of the East Indian Railway. The place was later named Birchandrapur in honour of Nityananda's son, Sri
 Birachandra (Virabhadra) Prabhu. The “Charitamrita” names Rarh as the birthplace of more than Nityananda alone:
 
-“Whereas Nityananda Prabhu, Gangadasa Pandita, Murari Gupta and Mukunda were born in Radha-desha.” (CC, Adi 13.61)[^2]
+“In the land of Radha were born Thakura Nityananda, Gangadasa Pandita, Murari Gupta and Mukunda” (CC, Adi 13.61)[^2]
 <!-- F30 F31 F32 F33 -->
 
 His father was Hadai Pandita (or Harai Pandita); he was also known as Hadai, or Hado, Ojha — Hado Upadhyaya: “ojha,” or
@@ -685,14 +682,14 @@ tridandi-bhikshu of Avanti, and going, as it seemed to Him, to Vrindavana; Nitya
 boys to point the Lord the way to Navadvipa as the way to Vrindavana — and so, wishing to show Him to the people of
 Navadvipa and bring Him to Shantipur, by a ruse He led Him to the Ganga, opposite Shantipur:
 
-“But those children directed Him toward the Ganga. Intoxicated with spiritual bliss, He went there.” (CC, Madhya 3.19)
+“The children showed Him the path along the bank of the Ganga, and the Lord, absorbed in rapture, went that way.” (CC, Madhya 3.19)
 
 Meanwhile Nityananda told Chandrashekhara to go quickly to Advaita Acharya's house:
 
-“I shall bring Sri Chaitanya to Advaita's house. But let Advaita wait for us with a boat on the bank of the Ganga.” (CC,
+“I shall bring the Lord to His house. Let Him wait ready on the bank with a boat.” (CC,
 Madhya 3.21)
 
-“Then go to Navadvipa for mother Shachi and all the devotees.” (CC, Madhya 3.22) <!-- F217 F218 F219 Q29 -->
+“‘Then go to Navadvipa and come back with Mother Shachi and the other devotees.’” (CC, Madhya 3.22) <!-- F217 F218 F219 Q29 -->
 
 So the Lord came to Shantipur and met there Shachi and the devotees of Navadvipa; the “Chaitanya-mangala” also describes
 Nityananda's conversation with Shachi. In Advaita's house Mahaprabhu and Nityananda ate Sita's enormous feast on whole
@@ -732,10 +729,9 @@ When He set out for the South, the Lord took none of His intimates with Him. Nit
 the roads to the holy places of the South — but Mahaprabhu declined and, as though reproaching Nityananda, Jagadananda,
 Mukunda and Damodara, in fact praised their love:
 
-“After accepting sannyasa I set out for Vrindavana, but You brought Me to the house of Advaita Acharya.” (CC, Madhya 7.19)
+“After taking sannyasa I set out for Vrindavana, but You led Me instead to Advaita's house.” (CC, Madhya 7.19)
 
-“On the way to Jagannatha Puri You broke My danda. All of you love Me boundlessly, but such deeds stand in the way of My
-plans.” (CC, Madhya 7.20)
+“On the way to Nilachala You broke My danda. The deep affection all of you bear for Me hinders My work.” (CC, Madhya 7.20)
 
 Still, at Nityananda's request the Lord took a servant with Him — a simple brahmana named Krishnadasa[^38] — to
 carry His kaupina, upper cloth and waterpot; Nityananda Himself arranged it. <!-- F236 F237 F454 -->
@@ -743,8 +739,7 @@ carry His kaupina, upper cloth and waterpot; Nityananda Himself arranged it. <!-
 Returning from the South, the Lord sent Krishnadasa ahead from Alalanatha to inform Nityananda and the others. Nityananda
 could not wait:
 
-“Hearing of Mahaprabhu's imminent arrival, Nityananda Raya at once hurried to meet Him, unable to bear the waiting, so
-full was He of the feelings of divine love.” (CC, Madhya 9.339)
+“Hearing of the Lord's arrival, Nityananda Raya rose and set out at once, unable to contain Himself for love.” (CC, Madhya 9.339)
 
 Jagadananda, Damodara and Mukunda danced with joy all along the road, and at the meeting the waves of love surged again.
 Soon the same Krishnadasa carried to Gauda, to Navadvipa, the news of the Lord's return[^39]. <!-- F238 F239 Q31 -->
@@ -758,11 +753,9 @@ Nilachala. <!-- F240 F241 -->
 King Prataparudra longed to see the Lord, but Mahaprabhu, a sannyasi, refused to meet a ruler. Sarvabhauma advised not to
 ask Him directly, and Nityananda simply told the Lord of the king's resolve:
 
-“You may think it proper or improper, but the fact is that King Prataparudra has resolved to become a mendicant beggar if
-he cannot meet You.” (CC, Madhya 12.19)
+“Proper or improper, we want to tell You everything: if he cannot meet You, the king wants to become a yogi.” (CC, Madhya 12.19)
 
-“He is ready to put on the ivory earrings of renunciation and give up his kingdom, which has become hateful to him without
-Your mercy.” (CC, Madhya 12.20)
+“He says, ‘I will put the yogi's rings in my ears and become a beggar. Without Gaurahari, my heart finds no joy in royal pleasures.’” (CC, Madhya 12.20)
 
 The Lord remained unbending, pointing to the strict Damodara Pandita. Then Nityananda said: those rejected in love take
 their own lives, — and asked that, to save the king, He at least give a worn upper cloth (bahirvasa). The Lord could not
@@ -772,14 +765,14 @@ Prataparudra felt love for God and began to worship it as the Lord Himself[^40].
 In the festivals of Nilachala Nityananda was always beside the Lord. When the Gundicha temple was cleaned, Mahaprabhu did
 not give heavy work to His elders:
 
-“All except Nityananda, Advaita, Damodara, Bharati and Paramananda Puri filled pots and carried water.” (CC, Madhya
+“Except for Nityananda, Advaita, Svarupa, Bharati and Puri, everyone filled pots and brought water.” (CC, Madhya
 12.109)
 
 At Gundicha, where kirtana went on three times a day, the Lord made now Advaita dance, now Nityananda, now Haridasa,
 Achyutananda, Vakreshvara and others. At the Ratha-yatra He anointed His companions with sandal paste with His own hand
 and adorned them with garlands:
 
-“Advaita Acharya and Nityananda, too, felt immense happiness when the Lord's hand touched Them.” (CC, Madhya 13.31)
+“Advaita Acharya and Nityananda Prabhu also rejoiced at the touch of His holy hand.” (CC, Madhya 13.31)
 
 In the second kirtana party, led in song by Srivasa, the dancer was Nityananda (CC, Madhya 13.38–39); the Lord told
 Nityananda, Advaita, Haridasa and Vakreshvara each to dance in one of four parties. The dancing Lord was surrounded by three
@@ -790,9 +783,7 @@ party to party so that each felt He was with it alone (CC, Antya 10.58–61). <!
 
 Though Mahaprabhu now lived in Puri, in Gauda He still manifested Himself wherever He was loved:
 
-“The Lord is always attracted by divine love, for such is His nature. Therefore Sri Chaitanya Mahaprabhu always
-manifested Himself in four places: in the home temple of Mother Shachi, wherever Nityananda Prabhu dances, in the kirtana
-of Srivasa Thakura and in the house of Raghava Pandita.” (CC, Antya 2.34)
+“In Shachi's house, at Nityananda's dancing, at Srivasa's kirtana and in Raghava's home — in these four places the Lord always appears. He is drawn by prema: that is the Lord's innate nature.” (CC, Antya 2.34)
 
 Nityananda Himself came every year with the devotees of Bengal to Puri and spent the four months of the rains with the
 Lord. <!-- F250 F251 Q34 -->
@@ -816,12 +807,12 @@ Himself (see above). <!-- F261 F264 -->
 
 With Nityananda the Lord sent His own devotees:
 
-“When Sri Chaitanya sent Nityananda to Bengal, He ordered these two devotees to go with Him.” (CC, Adi 11.14)
+“When Mahaprabhu told Nityananda to go to Gauda, He sent these two with Him” (CC, Adi 11.14)
 
 These were Ramadasa (Abhirama) and Gadadhara Dasa; Gadadhara Dasa became one of Nityananda's chief helpers in preaching
 sankirtana. According to the “Chaitanya-bhagavata” (Antya 5.231–233), there left Puri with Nityananda Ramadasa, Gadadhara
-Dasa, Raghunatha Vaidya-Ojha, Krishnadasa Pandita, Parameshvari Dasa and Purandara Pandita[^41]. One of the biographies
-dates this command to the year 1434 of the Shaka era[^42]. <!-- F262 F263 F265 -->
+Dasa, Raghunatha Vaidya-Ojha, Krishnadasa Pandita, Parameshvari Dasa and Purandara Pandita[^41]. Srila Bhaktisiddhanta in the
+“Anubhashya” (on CC, Adi 10.53) dates this command to the year 1434 of the Shaka era[^42]. <!-- F262 F263 F265 -->
 
 Before setting out, Nityananda empowered His companions, filling them with love of God:
 
@@ -833,7 +824,7 @@ bodies.” (CB, Antya 5.235)
 On the way each lived in his own bhava. Gadadhara Dasa, forgetting himself like a girl of Vraja selling yogurt, laughed
 loudly and cried “Who will buy yogurt!” — and Nityananda noticed it. Abhirama, in the mood of a cowherd boy, stood nine
 hours in the tribhanga pose, bent in three places, unaware of the outer world (CB, Antya 5.237). Krishnadasa and
-Parameshvari shouted “hoi! hoi!” like the cowherd boys of Vraja, and Purandara climbed a tree crying “I am Angada!” and
+Parameshvari shouted “hai! hai!” like the cowherd boys of Vraja, and Purandara climbed a tree crying “I am Angada!” and
 leapt down. <!-- F266 F267 Q35 -->
 
 Coming to Gauda, Nityananda went all over it as a wandering parivrajaka, preaching the Name and love of God. Whomever He
@@ -904,15 +895,14 @@ would gain his freedom. With his father's permission he crossed the Ganga and fo
 rise by the river amid His companions, to the sound of kirtana; seeing Him from afar, Raghunatha fell flat. Nityananda
 was told who it was. <!-- F284 -->
 
-“Hearing this, Nityananda said: ‘Oh! This thief has come to meet Me again. Come here to Me, then, don't be afraid. Today I
-shall punish you.’” (CC, Antya 6.47)
+“Hearing this, the Lord said, ‘You thief, so you have shown yourself! Come here, come here — today I will punish you!’” (CC, Antya 6.47)
 
 Nityananda drew him to Himself, placed His feet on his head and announced the “punishment”:
 
-“‘You do not come close, but keep your distance like a thief. But I have caught you and shall punish you today.” (CC,
+“‘You do not come near, thief; you keep running far away. Today I have caught you, and I will punish you.’” (CC,
 Antya 6.50)
 
-“I want you to feed all My companions yogurt and flat rice.’ Hearing these words, Raghunatha became inexpressibly happy.”
+“‘Feed My associates *dadhi* and *chida*, yogurt and flat rice.’ Hearing this, Raghunatha's heart filled with joy.”
 (CC, Antya 6.51)
 
 So, understanding the young man's innermost desires, He assigned him service to the Vaishnavas. Raghava Pandita added
@@ -929,14 +919,11 @@ Mahaprabhu's meal — according to the same account, of both brothers — Raghav
 Next day Raghunatha asked through Raghava how he might attain Mahaprabhu's feet. Nityananda placed His feet on his head
 and answered:
 
-“Gaurachandra Himself came to save you. From now on everything that hindered and bound you is removed by His sweet
-will.” (CC, Antya 6.141)
+“Gaura came Himself to deliver you. All your bonds — obstacles and the rest — have been loosed.” (CC, Antya 6.141)
 
-“Sri Chaitanya will entrust you to the care and protection of His closest servant, Svarupa Damodara. Thus you will gain
-the shelter of His lotus feet.” (CC, Antya 6.142)
+“He will entrust you to Svarupa and keep you at His feet, calling you His intimate servant.” (CC, Antya 6.142)
 
-“Go home with this assurance. And very soon you will gain, without any hindrance, the shelter of Sri Chaitanya
-Mahaprabhu.” (CC, Antya 6.143)
+“‘Go home free from care. Soon, without obstacles, you will attain the feet of Chaitanya.’” (CC, Antya 6.143)
 
 On Raghava's advice Raghunatha gave a generous dakshina to Nityananda and His companions and, having received their
 blessing, considered his life fulfilled. This festival is celebrated in Panihati to this day — as the
@@ -952,8 +939,7 @@ crying “Who will buy milk!” Seeing this, Nityananda took from his temple the
 served, and danced, pressing Him to His chest. There, too, the dana-lila was played — the pastime of Krishna levying
 “toll” on the gopis:
 
-“Gadadhara Dasa was in bliss, overwhelmed by the feelings of a gopi. In his house Nityananda played in the drama
-‘Danakeli.’” (CC, Adi 11.17)
+“Gadadhara Dasa was full of bliss in the mood of a gopi, and in his house Nityananda revealed the *Dana-keli* pastime” (CC, Adi 11.17)
 
 Madhavananda Ghosha sang the song of the dana-khanda-lila, and Nityananda danced and sank into deep trance; that is why
 the house of Gadadhara Dasa is called the place of the dana-lila[^47]. <!-- F295 F296 -->
@@ -981,9 +967,7 @@ devotees, came to oppose Him. <!-- F457 -->
 Chaitanya and Nityananda delivered everyone — sinners and offenders alike. Ordinarily offences keep the holy name from
 bearing fruit, but with Them it is otherwise:
 
-“But such considerations do not apply to the names of Sri Chaitanya and Nityananda Prabhu. One who chants these holy
-names will gradually be purified of all possible offences and, with tears in his eyes, will taste the nectar of divine
-love for Krishna.” (CC, Adi 8.31)
+“With Chaitanya and Nityananda there is no such reckoning of offences: as soon as one takes Their names They give love, and streams of tears flow” (CC, Adi 8.31)
 
 Bhaktivinoda Thakura explains: whoever takes shelter of Chaitanya and Nityananda with faith is quickly purified of
 offences. <!-- F301 Q48 -->
@@ -1045,15 +1029,14 @@ hunger, feigned anger and cursed: “Shiva has not come and found us lodging, an
 die!” Shivananda's wife wept. But Shivananda, on arriving, told her: let all three die, since we have caused Nityananda
 Prabhu inconvenience. <!-- F313 F314 F315 -->
 
-“Having spoken thus, Shivananda went without delay to Nityananda. But Nityananda rose and kicked him.” (CC, Antya 12.24)
+“Saying this, Shivananda went to Nityananda Prabhu, and the Lord rose and kicked him.” (CC, Antya 12.24)
 
 Shivananda took this blow as a sign of the greatest good fortune. He found lodging in a milkman's house, brought
 Nityananda there and glorified Him:
 
-“Under the pretext of punishment You have granted me Your mercy. Who can understand the nature and greatness of Your
-deeds?” (CC, Antya 12.28)
+“In the guise of punishment You show mercy — such is Your compassion. Who in the three worlds can understand Your ways?” (CC, Antya 12.28)
 
-“Even Brahma cannot touch the dust of Your beautiful feet. Yet with Your foot You have touched my body, full of sin.” (CC,
+“The dust of Your holy feet is rare even for Brahma, yet my lowly body has received the touch of such feet.” (CC,
 Antya 12.29)
 
 Pleased, Nityananda embraced him. So Shivananda received the touch of His feet, unattainable even for Brahma. But
@@ -1083,10 +1066,10 @@ that of Raghunandana, the son of Mukunda of Shrikhanda, according to others, tha
 As far as Ramakeli the Lord was accompanied by Nityananda — according to one account, with seven companions and
 Haridasa. There Rupa and Sanatana, coming to the Lord by night, first met Nityananda and Haridasa:
 
-“In the dead of night they came to the house of Sri Chaitanya. First they met Sri Nityananda and Thakura Haridasa.” (CC,
+“At midnight the two brothers came to where the Lord was staying. First they met Nityananda and Haridasa.” (CC,
 Madhya 1.183)
 
-“And They informed Mahaprabhu that Rupa and Sanatana had come to see Him.” (CC, Madhya 1.184)
+“These two told the Lord: ‘Rupa and Sakara Mallika have come to see You.’” (CC, Madhya 1.184)
 
 To show that a conditioned soul is saved by the mercy of devotees, the Lord told Nityananda, Haridasa, Srivasa, Gadadhara
 and others to bless the brothers, and they touched the feet of His companions, among them the feet of Nityananda.
@@ -1121,7 +1104,7 @@ Vasudha and Jahnava. By one account, Surya Dasa lived in Shaligrama and served a
 by another, his house and temple stood in Ambika, a little west of the shripata of Gauridasa[^50]. He and his younger
 brother Krishnadasa Sarakhela had firm faith in Nityananda:
 
-“Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were full of love of God.” (CC,
+“Suryadasa Sarakhela and his brother Krishnadasa had firm faith in Nityananda and were abodes of love” (CC,
 Adi 11.25) <!-- F324 F325 F326 -->
 
 The “Bhakti-ratnakara” (12th wave) tells in detail of this wedding, performed “according to human custom.” Its
@@ -1174,7 +1157,7 @@ Vasudha and Virabhadra of the journey; Virachandra and Ganga received her there.
 visited Jahnava and Vasudha, Virabhadra and Parameshvari Dasa; Shrinivasa was then going round the shripatas of the
 companions of Mahaprabhu and Nityananda. <!-- F342 F343 F346 -->
 
-With Jahnava to Kheturi went Nityananda's companions: Minaketana Ramadasa, Abhirama, Murari Chaitanya, Jnanadasa,
+With Jahnava to Kheturi went Nityananda's companions: Minaketana Ramadasa, Murari Chaitanya, Jnanadasa,
 Kamalakara Pippalai, and also Krishna Mishra, Shripati, Shrinidhi, Parameshvari Dasa, Balarama Dasa, Vrindavana Dasa
 Thakura and others (BR 10.372–375)[^55]; Kala Krishnadasa, too, was with her when she came to Katwa. After the departure of
 Uddharana Datta, Jahnava visited his house. <!-- F348 F349 -->
@@ -1201,17 +1184,13 @@ Jahnava: according to the “Prema-vilasa,” seeing her four-armed, he resolved
 
 Krishnadasa Kaviraja devotes special lines to Virabhadra:
 
-“On the branch of Sri Nityananda there grew a great branch — Virabhadra Gosani. There is no counting all the twigs and
-shoots to which this branch gave rise.” (CC, Adi 11.8)
+“Sri Virabhadra Gosani is the great branch of the trunk, and the offshoots that spring from Him are beyond counting” (CC, Adi 11.8)
 
-“Sri Virabhadra is the Supreme Himself. But He called Himself only a great devotee. And though He is above all the
-injunctions of the Vedas, He strictly performed all the rituals and injunctions.” (CC, Adi 11.9)
+“Though He is the Lord, He calls Himself a great devotee; though He is beyond the dharma of the Vedas, He keeps faithfully to it” (CC, Adi 11.9)
 
-“He is the main pillar in the hall of loving devotion to Sri Chaitanya. He knew Himself to be the Supreme God, but
-outwardly showed no pride.” (CC, Adi 11.10)
+“Within, He acts as the Lord; outwardly, He shows no pride. He is the main pillar in the hall of devotion to Sri Chaitanya” (CC, Adi 11.10)
 
-“And to this day, by the mercy of the all-glorious Sri Virabhadra Gosani, the holy names of Sri Chaitanya and Nityananda
-are chanted everywhere in the world.” (CC, Adi 11.11)
+“Even today, through the glory of His mercy, the whole world sings of Chaitanya and Nityananda” (CC, Adi 11.11)
 
 And again: Virabhadra is the best of all Nityananda's branches, and there is no end to the shoots that grew from it (CC,
 Adi 11.56). <!-- F356 Q49 -->
@@ -1232,13 +1211,13 @@ contempt. <!-- F360 -->
 With the permission of his mother Vasudha, Virabhadra went to Vrindavana and went round Vraja with the blessings of
 Bhugarbha Gosvami and Jiva (BR 13). In the old temple of Shyamasundara in Khardaha a manuscript of the “Bhagavatam” is kept,
 copied by tradition by Virabhadra, and in the opinion of some by Nityananda Himself. Virabhadra brought to Khardaha the
-stone from which the Deities of Shyamasundara, Radhavallabha and Nandadulala were carved (hence the name
+stone from which the Deities of Shyamasundara, Radhavallabha and Nandadulala were manifested (hence the name
 Shyamasundar-ghat). He also established the custom of celebrating Nityananda's appearance in Khardaha. Virabhadra's own
 appearance day is usually reckoned the krishna-navami of the month of Kartika, and by the “Gaudiya-vaishnava-abhidhana”
 the shukla-chaturdashi of the month of Agrahayana. <!-- F361 F362 F363 -->
 
 Virachandra was in Shrikhanda at the festival of Narahari Sarakara's departure, where Shrinivasa performed the rites; in
-Ambika the followers of Chaitanya joyfully welcomed him as Nityananda's son. Tradition says that only a Vishnu-shila or a
+Navadvipa the followers of Chaitanya joyfully welcomed him as Nityananda's son. Tradition says that only a Vishnu-shila or a
 consecrated Deity could bear the obeisance of Abhirama Thakura — anything else cracked or crumbled; Nityananda's son
 Virachandra and His daughter Ganga Devi received his obeisances unharmed, which confirmed their divinity, and Abhirama
 composed ashtakas in their honour. <!-- F364 F365 F366 -->
@@ -1274,8 +1253,7 @@ Nityananda had entered him), and at His request married Malini (BR 4.103–108).
 
 Sundarananda (in Vraja, Sudama, GGD 127) is a branch of Nityananda:
 
-“Sundarananda, a branch of Sri Nityananda, is known as one of His closest servants. With him Nityananda performed deeds
-repeating the pastimes of Vraja.” (CC, Adi 11.23)
+“Sundarananda, a branch of Nityananda, was His intimate servant, and with him Nityananda enjoyed the playful pastimes of Vraja” (CC, Adi 11.23)
 
 The “Chaitanya-bhagavata” (Antya 5.728) calls him the eldest among Nityananda's companions. Like Nityananda, he is a saviour
 of the fallen; one biography ascribes to him the miracle of the kadamba blossoming on a lemon tree (cf. note 43).
@@ -1284,8 +1262,7 @@ of the fallen; one biography ascribes to him the miracle of the kadamba blossomi
 Gauridasa Pandita — in Vraja, Subala (GGD 128) — is one of the twelve gopalas and one of Nityananda's dearest companions. His
 body, mind and speech were given to Nityananda (CB, Antya 5.730):
 
-“For the sake of serving Sri Nityananda, Gauridasa sacrificed the support of his class and family. So he accepted Sri
-Chaitanya and Nityananda as the Lords of his whole life.” (CC, Adi 11.27)
+“Gauridasa surrendered to Nityananda his caste, his family and his place in his community, and made Sri Chaitanya and Nityananda the Lords of his life” (CC, Adi 11.27)
 
 He is one of the most important sub-branches of Nityananda's branch. As Nityananda gave out Krishna-prema to all, without
 distinguishing the worthy from the unworthy, as if intoxicated, so His close companion Gauridasa showed great power in
@@ -1314,7 +1291,7 @@ Rasikananda — Nayanananda — Radha-Damodara — Baladeva Vidyabhushana. <!-- 
 
 Uddharana Datta is one of the twelve gopalas (Subahu, GGD 129). He was born in 1481 in Saptagrama to help Nityananda:
 
-“The best of the great devotees of God, Uddharana Datta, served the lotus feet of Sri Nityananda with all reverence.”
+“Uddharana Datta, the best of great devotees, served the feet of Nityananda in every way”
 (CC, Adi 11.41)
 
 As one of Nityananda's closest companions he is called “parama-parama-patita-pavana,” the saviour of the most fallen;
@@ -1329,19 +1306,17 @@ Parameshvari Dasa is one of Nityananda's most important companions, who appeared
 “Nityananda was the very life and soul of Parameshvari Dasa. In his body Nityananda enjoyed various pastimes.” (CB,
 Antya 5.732)
 
-“Parameshvara Dasa was wholly devoted to the lotus feet of Sri Nityananda. Anyone who simply remembers his name easily
-attains devotion to Krishna.” (CC, Adi 11.29) <!-- F403 -->
+“Parameshvara Dasa took shelter in Nityananda alone; whoever remembers him attains devotion to Krishna” (CC, Adi 11.29) <!-- F403 -->
 
 Purushottama (Nagara) — in Vraja, the cowherd boy Dama (GGD 131). The “Charitamrita” counts him among Nityananda's
 devotees:
 
-“From birth Purushottama Dasa was absorbed in service to the lotus feet of Sri Nityananda. All his childhood he plays
-games with Krishna.” (CC, Adi 11.39)
+“From his birth he was absorbed in the feet of Nityananda, and he ceaselessly played childhood games with Krishna” (CC, Adi 11.39)
 
 According to the “Chaitanya-bhagavata,” he is one of Nityananda's chief companions, unaware of his body, for Nityananda
-constantly acted through him:
+played in his heart:
 
-“Nityananda Chandra Himself abode in the heart of Purushottama Dasa, and therefore in his body there was not a trace of
+“Nityananda Chandra Himself played in the heart of Purushottama Dasa, and therefore in his body there was not a trace of
 external consciousness.” (CB, Antya 5.742)
 
 Many of Nityananda's companions showed such powers: Purushottama, according to the “Gaudiya-vaishnava-abhidhana,” ate
@@ -1352,8 +1327,7 @@ Nityananda delivered Dhananjaya Pandita and, according to the “Chaitanya-bhaga
 he installed Deities — Gopinatha, Nitai-Gaura and a Damodara shila — in the village of Jalandi-grama. Kala (Kaliya)
 Krishnadasa, also one of the twelve gopalas, is one of Nityananda's chief devotees:
 
-“One of the outstanding great Vaishnavas was Kala Krishnadasa. He wished to know nothing but the feet of Sri
-Nityananda.” (CC, Adi 11.37)
+“Kala Krishnadasa was a great Vaishnava, among the foremost; he knew no one but the moonlike Nityananda” (CC, Adi 11.37)
 
 He must not be confused with the brahmana Krishnadasa, the Lord's servant in the South (see above): though the
 “Charitamrita” calls that one, too, Kala Krishnadasa, they are different persons, as Srila Bhaktisiddhanta distinguishes
@@ -1372,8 +1346,7 @@ To the singing of the three Ghosha brothers — Govinda, Madhava and Vasudeva �
 
 “The three brothers — Madhava, Vasudeva and Govinda — sang while Lord Nityananda danced.” (CB, Antya 5.259)
 
-“Three brothers — Govinda, Madhava and Vasudeva. When they sang kirtana with self-forgetfulness, Sri Chaitanya and
-Nityananda danced.” (CC, Adi 10.115)
+“Govinda, Madhava and Vasudeva were three brothers, and when they sang kirtana, Chaitanya and Nitai danced” (CC, Adi 10.115)
 
 Madhava Ghosha was especially dear to Nityananda; when the three brothers sang, Nityananda Himself danced in great
 ecstasy. <!-- F399 -->
@@ -1389,7 +1362,7 @@ Counted in Nityananda's branch are also Nandana — the brother of Ganga Dasa an
 (by the “Gaudiya-vaishnava-abhidhana,” a different person from Nandana Acharya), — and those whom the “Charitamrita”
 names thus:
 
-“Kamsari Sena, Ramasena, Ramachandra Kaviraja, and also the three physicians — Govinda, Shriranga and Mukunda.” (CC,
+“Kamsari Sena, Ramasena and Ramachandra Kaviraja, and the three physicians — Govinda, Shriranga and Mukunda;” (CC,
 Adi 11.51)
 
 And Narottama from childhood meditated on the qualities of Chaitanya and Nityananda and prayed to Them; Shyamananda loved
@@ -1399,8 +1372,7 @@ to Nityananda as life.” <!-- F401 F372 F402 Q46 Q59 F458 -->
 Vrindavana Dasa Thakura, author of the “Chaitanya-bhagavata,” is called a disciple of Nityananda[^59]; he himself called
 himself Nityananda's last servant.
 
-“Having received the greatest mercy of Sri Nityananda, Srila Vrindavana Dasa Thakura beautifully described the pastimes
-of Sri Chaitanya, becoming like the original Vyasa.” (CC, Antya 20.82)
+“Vrindavana Dasa, the vessel of Nityananda's mercy, is the original Vyasa (*adi-vyasa*) of Chaitanya's pastimes.” (CC, Antya 20.82)
 
 Whoever reads his book, says the “Charitamrita,” knows the glory of Chaitanya and Nitai. His Deities of Gaura-Nitai are
 worshipped to this day at Mamgachhi. <!-- F373 F374 Q70 -->
@@ -1427,25 +1399,22 @@ Kaviraja — believed in Chaitanya but not in Nityananda. When Minaketana Ramada
 Nityananda and filling the devotees' hearts with ecstasy, the pujari Gunarnava Mishra, who did not believe in Nityananda,
 did not rise to greet His disciple, and Minaketana called him a second Romaharshana:
 
-“‘This is a second Romaharshana-suta, who on seeing Sri Balarama did not rise to offer Him his respects.’” (CC, Adi
+“‘Here is a second Romaharshana Suta, who did not rise to greet Baladeva when he saw Him!’” (CC, Adi
 5.170)
 
 From this one sees how dear Minaketana is to Nityananda. Krishnadasa's brother quarrelled with Ramadasa; the latter in
 anger broke his flute and left — and this brought the brother ruin[^62]. Krishnadasa took Ramadasa's side and rebuked his
 brother:
 
-“‘These two Brothers (Sri Chaitanya and Nityananda) form one body. They are one and indivisible. And you will fall,
-because you have no faith in Nityananda.” (CC, Adi 5.175)
+“‘The two brothers are one body, equally manifest. If you do not accept Nityananda, you will be utterly ruined.’” (CC, Adi 5.175)
 
-“If you believe in one and are disrespectful to the other, your logic is just like accepting only one half of a hen (the
-one that lays eggs).” (CC, Adi 5.176)
+“You have faith in one but show the other no respect: your standard is the logic of half a hen” (CC, Adi 5.176)
 
-“Better to be an atheist and reject both Brothers than to be a hypocrite — to believe in one and not acknowledge the
-other.’” (CC, Adi 5.177) <!-- F391 F392 F393 F394 F395 F396 Q52 -->
+“If you accept neither, you are an atheist; and to accept one and not the other is hypocrisy.”” (CC, Adi 5.177) <!-- F391 F392 F393 F394 F395 F396 Q52 -->
 
 Pleased, Nityananda appeared to Krishnadasa in a dream:
 
-“Lord Sri Nityananda-Balarama appeared to me in a dream in the village of Jhamatpur, which lies near Naihati.” (CC, Adi
+“In a village called Jhamatapura, near Naihati, Nityananda-Rama appeared to me in a dream” (CC, Adi
 5.181)
 
 “Krishnadasa, do not fear, go to Vrindavana — there you will attain everything,” said Nitai, and with a wave of His hand
@@ -1502,11 +1471,10 @@ Ganga, and her husband Madhavacharya an incarnation of King Shantanu, Ganga's hu
 Krishna is svayam-rupa, the original form of God; Baladeva is svayam-prakasha, the first manifestation of that same form,
 the full expansion of Krishna (so explains Srila Bhaktisiddhanta Sarasvati on CC, Adi 1.14). The “Charitamrita” says:
 
-“Sri Krishna is the original Bhagavan, the source of all manifestations of God, and Sri Balarama is His second body.” (CC,
+“Krishna, the source of all avataras, is Bhagavan Himself, and Sri Balarama is His second body” (CC,
 Adi 5.4)
 
-“Their essence is one; the difference is only in form. Sri Balarama is the first expansion of Krishna's body. He assists
-Krishna in all His pastimes.” (CC, Adi 5.5)
+“The two are one in nature; only Their bodies differ. Balarama is the first expansion of Krishna’s body and His helper in His pastimes” (CC, Adi 5.5)
 
 Krishna's first expansion is mula-Sankarshana Balarama, the original father of all; He it is who came with Lord Chaitanya
 as Nityananda. Nityananda is baladeva-tattva, mula-Sankarshana, the cause of Maha-Sankarshana in Vaikuntha and the source
@@ -1517,9 +1485,7 @@ called Ananta Himself[^64]. <!-- F8 F9 F10 F13 -->
 Svarupa Damodara, the “second self” of Sri Gaurasundara, glorified Nityananda in five verses of his “Kadcha,” which
 Krishnadasa Kaviraja quotes at the beginning of the “Charitamrita” (CC, Adi 1.7–11):
 
-“May Lord Sri Nityananda-Balarama become my eternal shelter. For Maha-Sankarshana, Shesha-Naga and also the three
-Purusha-avataras (Karanodakashayi Vishnu, Garbhodakashayi Vishnu and Kshirodakashayi Vishnu) are His full or partial
-divine manifestations.” (CC, Adi 1.7)
+“Sankarshana, the Lord who lies in the Causal Ocean, the Lord who lies in the Garbha Ocean, the Lord who lies in the Ocean of Milk, and Shesha are His portions and the parts of His portions: may that Rama who is called Nityananda be my refuge” (CC, Adi 1.7)
 
 The sense of these verses is this. In Vaikuntha, beyond maya, in the quaternity Vasudeva — Sankarshana — Pradyumna —
 Aniruddha, He is present as Sankarshana. His portion is Karanabdhishayi, the first purusha-avatara, master of maya and
@@ -1545,7 +1511,7 @@ feet is all vishnu-tattva; though He is not different from it and stands within 
 Gauranga. Gaurangasundara is Mahaprabhu, and Nityananda is His vibhu, vaibhava-prakasha; He is shaktiman-tattva, not
 shakti-tattva. The “Charitamrita” says it briefly:
 
-“One of Them is Mahaprabhu, and the other two are Prabhus. These two Prabhus serve the lotus feet of Mahaprabhu.” (CC, Adi
+“One is Mahaprabhu, and the other two are Prabhus; the two Prabhus serve the feet of Mahaprabhu” (CC, Adi
 7.14) <!-- F425 F426 F427 Q56 -->
 
 Nityananda is the original cause of Maha-Vishnu and vishaya-tattva — the One who is served; He manifested the rasa-lila
@@ -1568,9 +1534,7 @@ bhakta-avatara; these three are prabhu-tattva, vishnu-tattva, and therefore tula
 one Truth, teaches Srila Bhaktisiddhanta, manifests five forms for the tasting of different rasas, but ontologically they
 are not different from one another:
 
-“I offer obeisances to the Supreme Lord Krishna in His five aspects, known as the Pancha-tattva: I fall prostrate before
-Sri Gauranga, who appeared as His own devotee, wishing to taste His own sweetness. Then I bow to the lotus feet of His
-elder brother Sri Nityananda, the original Guru. …” (CC, Adi 1.14)
+“I bow to Krishna, who is manifest as five truths — the Pancha-tattva: as a devotee in form and a devotee in essence, as the incarnation of a devotee, as the one called a devotee, and as the potency of devotion” (CC, Adi 1.14)
 
 Every form of vishnu-tattva possesses three energies — Shri, Bhu and Nila (Lila); Nityananda, too, possesses them.
 <!-- F14 F15 F16 F17 F18 F19 Q2 -->
@@ -1578,23 +1542,20 @@ Every form of vishnu-tattva possesses three energies — Shri, Bhu and Nila (Lil
 Mahaprabhu is the main trunk and the gardener of the tree of devotion, and Advaita and Nityananda are the two trunks into
 which it divides:
 
-“Above, the trunk divides into two great branches. One branch is Sri Advaita, and the other branch is Nityananda.” (CC,
+“Higher up, the tree branched into two trunks: one is named Advaita, and the other Nityananda” (CC,
 Adi 9.21)
 
 Sri Chaitanya is the body of the movement of bhakti, Advaita and Nityananda its limbs; all three descended together with
 Srivasa and others to preach hari-bhakti. The eleventh chapter of the Adi-lila, on Nityananda's branches, Krishnadasa
 opens with a verse in which Nityananda is the “moon among avadhutas,” the highest branch of the eternal tree of love:
 
-“The Avadhuta Sri Nityananda Prabhu is the continuation of the lofty trunk of the unfading tree of Sri Chaitanya
-Mahaprabhu, which embodies eternal love for Sri Krishna. I offer obeisances to all the devotees, who are like the twigs of
-this main branch.” (CC, Adi 11.4)
+“Sri Krishna Chaitanya is the undying tree of eternal love, and its tall trunk is the Avadhuta, Sri Nityananda, beautiful as the moon. I bow to His devotees, the branches of that trunk” (CC, Adi 11.4)
 
 From this branch grow branches and sub-branches, and the greatest of them after Him is Virabhadra. <!-- F20 F21 Q3 -->
 
 Among all the Lord's eternal associates Nityananda is the first:
 
-“Sri Nityananda Avadhuta is the chief among all the eternal associates of Sri Chaitanya Mahaprabhu. In the bliss of prema
-He serves Sri Chaitanya as a servant, and this intoxication of love makes Him a madman.” (CC, Adi 6.47) <!-- Q57 -->
+“Nityananda Avadhuta is the foremost of all; in His love of serving Chaitanya He became mad” (CC, Adi 6.47) <!-- Q57 -->
 
 Sri Chaitanya is glorified both as “the life of Nityananda” and as “the life of Gadadhara” (“Chaitanya-bhagavata”, Madhya 9.3: “Glory to Him, the very life of Nityananda and Gadadhara!”). Srila Bhaktisiddhanta explains: devotees who wish to worship
 Radha-Govinda in madhura-rasa take shelter of Gadadhara; those not so inclined take shelter of Nityananda and serve with
@@ -1628,6 +1589,16 @@ Swami is called “nityanandavesha” — empowered by Shripada Nityananda Prabh
 of “Sri Nityananda Prabhu” and closes with the line “Krishna Chaitanya, Prabhu Nityananda, Advaita, Gadadhara, Srivasa.”
 <!-- F440 F441 F442 -->
 
+Narahari Chakravarti begins his “Namamrita-samudra” — prayers in which he calls upon the Lord's associates one after
+another — with these words:
+
+“Sri Guru, Sri Radha-Krishna, Chaitanya, Nitai, Advaita Gosai — give me shelter at Your feet!” (“Namamrita-samudra” 1)
+
+Nityananda's name runs through many other of his prayers as well; thus he asks Vasudha and Jahnava:
+
+“Vasudha and Jahnava Devi, be merciful to me: may the pastimes of your Nitai be revealed to me.” (“Namamrita-samudra” 7)
+<!-- F461 -->
+
 ## Significance
 Nityananda is a mercy to which anyone may turn. Madhava is pleased by bhakti alone, not by birth, learning or wealth:
 “what good conduct had the hunter, what age had Dhruva…” (“Padyavali,” 8). Krishna grants good even to those who remember
@@ -1641,13 +1612,11 @@ Him He will save — and this is a plain fact, not praise for its own sake (arth
 
 Krishnadasa Kaviraja sums up all that Nityananda gave him:
 
-“Glory to Sri Nityananda-Balarama, by whose mercy I have attained the shelter of Vrindavana-dhama.” (CC, Adi 5.200)
+“Glory, glory to Nityananda, to Nityananda-Rama, by whose mercy I attained the abode of Vrindavana!” (CC, Adi 5.200)
 
-“May Sri Nityananda be glorified forever! By His causeless mercy I have attained the shelter of Sri Rupa and Sanatana
-Gosvami.” (CC, Adi 5.201)
+“Glory, glory to Nityananda! Glory to Him who is full of mercy, through whom I attained the shelter of Rupa and Sanatana!” (CC, Adi 5.201)
 
-“All glory to the lotus feet of Sri Nityananda! By His mercy I have attained connection with the divine Couple, Sri Sri
-Radha-Govinda.” (CC, Adi 5.204) <!-- Q54 -->
+“Glory, glory to the lotus feet of Nityananda, through which I attained Sri Radha-Govinda!” (CC, Adi 5.204) <!-- Q54 -->
 
 After him come Narottama Dasa Thakura and Bhaktivinoda Thakura. Narottama sings of Nitai's lotus feet and prays: “When
 will Nityananda be merciful to me and free me from birth and death? By His mercy one gives up worldly enjoyment, purifies
@@ -1697,9 +1666,7 @@ Ekachakra.
 Krishna had appeared in Navadvipa; according to another, He came to know it in His heart. He Himself, as He told the Lord
 at their meeting, had heard it from great Vaishnavas (see below).
 [^19]: So according to most biographies. One of them, in its account of Sadashiva Pandita, calls Sadashiva's house
-Nityananda's first dwelling in Navadvipa; the “Charitamrita” says this without the word “first”: “The twelfth branch is
-Sadashiva Pandita, possessed by the desire to serve the lotus feet of Sri Chaitanya. Nityananda Himself lived in his house
-in Navadvipa” (CC, Adi 10.34); and the “Chaitanya-bhagavata” calls Sadashiva the one “in whose house Nityananda formerly
+Nityananda's first dwelling in Navadvipa; so says the “Charitamrita” too (*prathamei*, “at the very first”): “Sadashiva Pandita set all his hope on the Lord’s feet, and at first Nityananda lived in his house” (CC, Adi 10.34); and the “Chaitanya-bhagavata” calls Sadashiva the one “in whose house Nityananda formerly
 lived” (CB, Antya 8.19).
 [^20]: One biography says “with a plough and a mace on his shoulders”; in the “Chaitanya-bhagavata” (Madhya 3.143) it is an enormous pole at his shoulder, and our edition explains that this is Baladeva's club or plough.
 [^21]: Baladeva's “wine” — varuni — is in His lila no worldly intoxicant; Srivasa's answer itself discloses the meaning:
@@ -1738,8 +1705,7 @@ Vidyanidhi.
 good. Srila Bhaktisiddhanta Sarasvati teaches that the acts of the highest adhikari are not measured by a worldly yardstick
 and are not imitated (cf. note 28).
 [^33]: One biography places this verse in the procession to the Kazi itself.
-[^34]: The “Charitamrita” names three: “The Lord was accompanied by Nityananda Prabhu, Chandrashekhara Acharya and Mukunda
-Datta. They performed all the necessary rites” (CC, Adi 17.273). One of the biographies adds Gadadhara and Brahmananda
+[^34]: The “Charitamrita” names three: “With Him were Nityananda, Chandrashekhara Acharya and Mukunda Datta, and these three performed all the rites” (CC, Adi 17.273). One of the biographies adds Gadadhara and Brahmananda
 (according to the “Chaitanya-bhagavata,” Madhya 28, this is Brahmananda Bharati).
 [^35]: According to the “Charitamrita,” with the Lord went Nityananda, Mukunda Datta, Jagadananda and Damodara Pandita;
 according to the “Chaitanya-bhagavata,” Nityananda, Gadadhara Pandita, Mukunda, Govinda and Brahmananda; in one biography,
@@ -1761,11 +1727,9 @@ and proposed sending him to Navadvipa, and the Lord agreed (CC, Madhya 10).
 [^40]: In one biography this cloth is called a loincloth; the bahirvasa, however, is the upper cloth.
 [^41]: The biographies name the companions differently: some — Abhirama (Ramadasa) and Gadadhara Dasa; others — Rama Dasa,
 Gadadhara Dasa, Krishnadasa Pandita, Parameshvari Dasa, Purandara Pandita, Raghunatha Vaidya “and others.” The
-“Charitamrita” in another place speaks of three: “By the direct order of Sri Chaitanya, Nityananda Prabhu went to Bengal
-together with three devotees. These three devotees were Ramadasa, Madhava and Vasudeva Ghosha. Govinda Ghosha, however,
-stayed with Sri Chaitanya and was extraordinarily glad of it” (CC, Adi 10.117–118).
-[^42]: The same source converts this year as 1534 of the Common Era; but the year 1434 of the Shaka era is 1512, so one of
-the two figures is wrong.
+“Charitamrita” in another place speaks of three: “At the Lord’s command Nityananda went to Gauda, and by the Lord’s command three devotees went with Him: Sri Ramadasa, Madhava and Vasudeva Ghosha. Govinda stayed with the Lord, and was overjoyed to do so” (CC, Adi 10.117–118).
+[^42]: That is, 1512 of the Common Era. One of the biographies, giving this information, converts the year as 1534 — an
+error.
 [^43]: So according to two biographies; a third, in its account of Sundarananda, ascribes the miracle of the kadamba on the
 lemon tree to him (see below, “Disciples and Companions”).
 [^44]: Only one biography reports this, with a reference to the “Vijaya-khanda”; what this source is remains unclear.
@@ -1799,7 +1763,8 @@ Khardaha. Here these accounts are combined into one.
 and Jahnava are His transcendental shaktis, and these pastimes are eternal (see below, “The Tattva of Nityananda”). So
 teaches Srila Bhaktisiddhanta Sarasvati; they must not be measured by a worldly measure (cf. note 28).
 [^55]: Two lists of Jahnava's companions from different biographies are combined here. In one of them Krishna Mishra is
-called “her uncle”; on what this rests is not said.
+called “her uncle”; on what this rests is not said. One biography also names Abhirama Thakura in this company, but in the “Bhakti-ratnakara” (10.374) the place is
+held by “Sri Minaketana Ramadasa, the charming”, and Abhirama is not in the list; we do not accept this report.
 [^56]: Kanu Thakura was born on the day of the Ratha-yatra: by one biography, in the year 1450 of the Shaka era; by another,
 which cites his descendants, in 1457 Shaka (942 of the Bengali era), on a Thursday, on the second tithi of the bright
 half of Ashadha. Why Nityananda came for the boy only twelve years after his mother's departure, this second biography
@@ -1808,7 +1773,7 @@ of Purushottama Dasa (CC, Adi 11.40).
 [^57]: By one biography, Shrimati and Narayani were sisters, daughters of Yadunandana; by two others, Narayani was the
 adopted daughter of Yadunatha (Yadunandana) Acharya and Vidyunmala.
 [^58]: By another tradition, Gauridasa asked Mahaprabhu to stay with him forever, and the Lord revealed that His form and
-Nityananda's were hidden in a neem tree nearby; Gauridasa had Gaura-Nitai carved from it, and, it is said, Nityananda
+Nityananda's were hidden in a neem tree nearby; Gauridasa had Gaura-Nitai manifested from it, and, it is said, Nityananda
 Himself was present at the carving. When They were about to leave, the Lord said: “Nityananda and I are directly present
 in these forms; choose — either the Deities go, or We.” Gauridasa chose that the “real” Gaura-Nitai should stay and the
 Deities might go — for the name, the Deity and the Lord Himself are one; how this choice ended is not clear in the

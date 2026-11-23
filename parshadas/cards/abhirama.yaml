@@ -1,0 +1,124 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/abhirama.md и lila-db.
+id: "@abhirama"
+names:
+  ru: "Абхирама Тхакур (Рамадас)"
+  en: "Abhirama Thakura (Ramadasa)"
+  variants: ["Шри Рамадас (ЧЧ, ЧБ)", "Рамадас Абхирама (ЧЧ Ади 10.116)", "Рамадас Махашая (ЧБ)", "Абхирама Госвами (БР, Лочан)", "Абхирама-гопал (БР)", "Шри Абхирама Гопала Тхакур (B, M)", "Abhiram Das (T)"]
+  facts: [F1]
+kind: associate
+circle: [navadvipa]
+period: [P12, P14, P15]
+period_note: "Лично в первоисточниках: P12 — послан Господом с Нитьянандой в Гауду (ЧЧ Ади 10.117–118, 11.13–14; Мадхья 15.43; ЧБ Антья 5.231–240; F12–F15); P14 — Чида-дадхи в Панихати (ЧЧ Антья 6.61, 6.90; F18); P15 — после сокрытия Нитьянанды: Шриниваса и Нароттама в Кханакуле (БР 4, 8; F40–F46), Вирачандра (поздние источники, F38, F59). Пады ставят его рядом с Господом в Навадвипе (P07: гоштха-лила, нанда-утсава — F58, ур. A–C), Джаянанда — с Нитьянандой после санньясы (P09), «Нитьянанда-вамша-вистара» — встреча с Нитьянандой-авадхутой во Вриндаване (P05) — в period не включены (поздние или поэтические свидетельства)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "место, год и день явления источники не называют; по БР 4.105 — родился в семье брахмана; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет"
+    facts: [F7]
+  disappearance:
+    date: ""
+    tithi: "кришна-саптами месяца чайтра (Мадхусудана-маса)"
+    place: ""
+    conf: "день ухода — B, T, M и «Анубхашья» к ЧЧ Ади 11.13; совпадает с календарём ШЧСМ (541/ru: «День ухода Шрилы Абхирама Тхакура», Кришна Саптами Мадхусудана-масы — 9 апреля 2026 г., проверено 2026-11-16); год и место ухода не названы; праздник — в Кханакул-Кришнанагаре"
+    facts: [F57, F33]
+origin:
+  places: []
+  family: []
+  varna: "брахман по рождению (БР 4.105, 4.112; T 89)"
+  facts: [F7]
+relations:
+  - {type: companion, who: "@nityananda", facts: [F3, F4, F12, F13, F14, F15, F16, F17, F18, F20, F46], events: [ev-nityananda-sent-to-gauda, ev-nityananda-panihati-abhisheka, ev-nityananda-preaching-gauda, ev-panihati-chida-dadhi],
+     note: "Самый дорогой спутник («чья жизнь — Нитьянанда»); по велению Господа послан с Ним в Гауду; по Его велению — ачарья и проповедник; «безумен от погружённости в Нитьянанду» (БР 4.103–104); по Его воле женился (БР 4.107); Нитьянанда приходил в его дом (БР 4.120); после Его сокрытия — в безмолвной разлуке (БР 4.125). = @nityananda F261–F262, F267, F349, F365, F369, F377."}
+  - {type: other, who: "@mahaprabhu", facts: [F5, F12], events: [ev-nityananda-sent-to-gauda], note: "Преданный Чайтаньи, посланный Им с Нитьянандой в Гауду; потому числится в обеих ганах (ЧЧ Ади 11.13–15; Мадхья 15.43)."}
+  - {type: spouse, who: "@malini-abhirama", facts: [F20, F21, F43, F45], events: [ev-abhirama-whip-srinivasa], note: "Малини-деви, дочь брахмана; брак по воле Нитьянанды (БР 4.107); вместе служили Гопинатхе; удержала его руку, когда он касался Шринивасы плетью (БР 4.141–143); вместе благословили Нароттаму (БР 8.225)."}
+  - {type: siksha-disciple, who: "@srinivasa-acharya", facts: [F40, F41, F42, F43, F44, F60], events: [ev-srinivasa-khardaha-jahnava, ev-abhirama-whip-srinivasa],
+     note: "Испытал его и трижды коснулся плетью Джая-мангала, даровав прему; «как ученик, хотя не посвящённый» (T 88); по «Шакха-нирнае» («Анубхашья») — «половина ученика» (24½). = @srinivasa-acharya F46."}
+  - {type: met, who: "@narottama-dasa", facts: [F45, F54], events: [ev-narottama-gauda-pilgrimage], note: "Нароттама пришёл в Кханакул; Абхирама в разлуке почти не сознавал внешнего; вместе с Малини благословил его и велел идти в Нилачалу (БР 8.223–227; M 108)."}
+  - {type: companion, who: "@gadadhara-dasa", facts: [F5, F12, F13, F54], events: [ev-nityananda-sent-to-gauda], note: "Вместе посланы с Нитьянандой; оба в двух ганах (ЧЧ Ади 11.13–15). = @gadadhara-dasa F16."}
+  - {type: companion, who: "@madhava-ghosha", facts: [F5, F12], events: [ev-nityananda-sent-to-gauda], note: "ЧЧ Ади 10.117–118: трое — Рамадас, Мадхава и Васудева Гхош — пошли с Нитьянандой; так же в обеих ганах (B 188)."}
+  - {type: companion, who: "@vasu-ghosha", facts: [F5, F12], events: [ev-nityananda-sent-to-gauda], note: "Там же (ЧЧ Ади 10.117–118; B 188)."}
+  - {type: companion, who: "@raghunatha-vaidya-upadhyaya", facts: [F13], note: "Вместе на пути в Гауду (ЧБ Антья 5.231–233)."}
+  - {type: companion, who: "@parameshvara-dasa", facts: [F3, F13], note: "Вместе на пути в Гауду; один из двенадцати гопалов (ЧБ Антья 5.231–240; B 919)."}
+  - {type: companion, who: "@purandara-pandita", facts: [F13], note: "Вместе на пути в Гауду (ЧБ Антья 5.231–233)."}
+  - {type: companion, who: "@sundarananda", facts: [F3, F15, F18], events: [ev-associates-of-nityananda-wonders], note: "Один из двенадцати гопалов; в Панихати — «Шри Рама, Сундара, Гауридас» (Мурари 4.22); на Чида-дадхи (ЧЧ Антья 6.61)."}
+  - {type: companion, who: "@gauridasa-pandita", facts: [F3, F15, F58], events: [ev-goshtha-lila-navadvipa], note: "Один из двенадцати гопалов; в падах о гоштха-лиле — рядом (Шридама и Субала)."}
+  - {type: other, who: "@raghava-pandita", facts: [F15, F50], note: "Нитьянанда с Рамадасом и Гададхарой первым пришёл в его дом в Панихати (T 80); «мешки Рагхавы» в «Пата-парьятане», приписываемой Абхираме (T 78)."}
+  - {type: other, who: "@raghunatha-dasa", facts: [F18], events: [ev-panihati-chida-dadhi], note: "Гость на празднике Чида-дадхи, устроенном Рагхунатхой (ЧЧ Антья 6.61, 6.90)."}
+  - {type: other, who: "@virabhadra", facts: [F38, F49, F59], events: [ev-virachandra-recognized, ev-virabhadra-initiation, ev-virachandra-pilgrimage],
+     note: "Вирабхадра вынес его поклоны; Абхирама сложил «Вирабхадраштаку» (B 917; T 88); поздние источники (ур. C): узнал в младенце Гаурангу; разбил флейтой лодку, когда тот плыл к Адвайте за мантрой; представил его спутникам в Пури."}
+  - {type: other, who: "@ganga-nityananda", facts: [F38, F49], note: "Дочь Нитьянанды Гангамата (Ганга-деви) вынесла его поклоны; «Ганга-стотра» (B 917; T 88)."}
+  - {type: other, who: "@jahnava", facts: [F40, F59], events: [ev-srinivasa-khardaha-jahnava, ev-virabhadra-initiation], note: "Послала к нему Шринивасу (БР 4.93; ПВ 5 — с письмом); по ПВ 24 и НВВ 3 — послала его вернуть Вирабхадру (ур. C)."}
+  - {type: other, who: "@vasudha", facts: [F40], note: "Вместе с Джахнавой велела Шринивасе идти к Абхираме (БР 4.93)."}
+  - {type: other, who: "@ishana-navadvipa", facts: [F40], events: [ev-abhirama-whip-srinivasa], note: "По ПВ 4–5 (ур. C) — спутник Шринивасы к Абхираме, доставил письмо Джахнавы. = @ishana-navadvipa F26–F27."}
+  - {type: met, who: "@raghunandana", facts: [F36, F39], note: "Открыл его как воплощение Мадана (Лочан, Сутра 651–652); Рагхунандана выдержал его поклон, вместе пели и плясали (Шрикханда — T; Бараданги — B, M; нупура упала в Акаи-хате). = @raghunandana F4, F45–F47."}
+  - {type: other, who: "@mukunda-dasa", facts: [F39], note: "Отец Рагхунанданы; спрятал сына, боясь поклона Абхирамы (песня Уддхавы даса, B 288)."}
+  - {type: met, who: "@gopala-guru", facts: [F39], note: "Пришёл в Пури испытать мальчика поклоном; Господь взял его на колени (только T 62, 202). = @gopala-guru F12–F13."}
+  - {type: deity-served, who: "@gopinatha-khanakul", facts: [F22, F23, F26, F27, F28, F30, F45, F53], note: "Явился ему во сне и указал место; обретён при рытье Рама-кунды (БР 4.113–119; B 915; T 88; M 1); на плите пробирного камня с лилой похищения одежд."}
+  - {type: disciple, who: "@vedagarbha-acharya", facts: [F2, F60], note: "Ученик; его стих приводит БР 4.112; по «Шакха-нирнае» («Анубхашья») — в Кайяре, потомки служат Божеству."}
+  - {type: other, who: "@jayananda", facts: [F47], note: "Джаянанда распространяет свою «Чайтанья-мангалу» по благословению Абхирамы (ур. C)."}
+  - {type: other, who: "@bhaktivinoda", facts: [F32], note: "Посетил его шрипат (T 233). = @bhaktivinoda F74."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F32, F57, F60], note: "Посетил Кханакул на парикраме Гаура-мандалы (T 89); «Анубхашья» к ЧЧ Ади 11.13 — основа главы B (шрипат, Божества, кнут, перечень учеников)."}
+  - {type: other, who: "@minaketana-ramadasa", facts: [F48], note: "Тёзка, не путать; T 96 по ошибке ставит Абхираму рядом с ним в свите Джахнавы в Кхетури (БР 10.374 — только Минакетана Рамадас, ⚠4)."}
+  - {type: other, who: "@ramadasa-shivananda-son", facts: [], note: "Тёзка, не путать (ЧЧ Ади 10.62)."}
+  - {type: other, who: "@ramadasa-phulia", facts: [], note: "Тёзка, не путать («Према-виласа» 24)."}
+unnamed:
+  - {who: "старый брахман из Кханакула, проводник Шринивасы (БР 4.97–127)", type: other, facts: [F41]}
+  - {who: "ученики по «Шакха-нирнае» (24 и «половина» — Шриниваса)", type: disciple, facts: [F60]}
+  - {who: "потомки (по рождению или по линии учеников) в Кришнанагаре, Амте, Вишнупуре, Котальпуре", type: other, facts: [F52]}
+identities:
+  - in: krishna-lila
+    as: "Шридама, друг-пастушок Кришны"
+    source: "ГГД 126"
+    level: A
+    facts: [F2, F3]
+    variants: ["БР 4.109–110: «в играх Кришны — прославленный Шридама»; явил слуге облик Шридамы; БР 4.112 — стих ученика Ведагарбхи; «Анубхашья» к ЧЧ Ади 11.13; «Вайшнава-вандана» 1.95, 5.72; поздняя «Нитьянанда-вамша-вистара» 10 — Нитьянанда «пробуждает» Шридаму (ур. C, ⚠Б6)."]
+  - in: other
+    as: "один из двенадцати гопалов — спутников Нитьянанды, друзей Враджа (первый в перечнях)"
+    source: "ГГД 126–133; «Анубхашья» к ЧЧ Ади 11.13; B 115, 271"
+    level: A
+    facts: [F3]
+    variants: []
+events:
+  - ev-goshtha-lila-navadvipa
+  - ev-nityananda-sent-to-gauda
+  - ev-nityananda-panihati-abhisheka
+  - ev-nityananda-preaching-gauda
+  - ev-associates-of-nityananda-wonders
+  - ev-panihati-chida-dadhi
+  - ev-virachandra-recognized
+  - ev-virabhadra-initiation
+  - ev-virachandra-pilgrimage
+  - ev-srinivasa-khardaha-jahnava
+  - ev-abhirama-whip-srinivasa
+  - ev-narottama-gauda-pilgrimage
+events_note: "ev-goshtha-lila-navadvipa — пады (pad-0012, ур. A; pad-0300, pad-0318, ур. C); ev-nityananda-sent-to-gauda — ЧЧ Ади 10.117–118, 11.13–15, Мадхья 15.37–44, ЧБ Антья 5.231–250 (cc-0140, cc-0153, cc-2079, cb-3077); ev-nityananda-panihati-abhisheka, ev-nityananda-preaching-gauda — Мурари 4.22–23 (mkc-0246, mkc-0251; «Шри Рама», «Рамадас» — по-видимому, он), «Вайшнава-вандана» (vv-0061); ev-associates-of-nityananda-wonders — бревно-флейта (ЧЧ Ади 11.16; vv-0021, vv-0047, vv-0073); ev-panihati-chida-dadhi — ЧЧ Антья 6.61, 6.90 (cc-4065); ev-virachandra-recognized, ev-virabhadra-initiation, ev-virachandra-pilgrimage — «Нитьянанда-вамша-вистара», «Према-виласа» 24 (ур. C–D); ev-srinivasa-khardaha-jahnava, ev-abhirama-whip-srinivasa — БР 4.92–148, ПВ 5, «Анурагавалли» 3 (anv-0018, pvl-0027, pvl-0028); ev-narottama-gauda-pilgrimage — БР 8.223–227 (в lila-db Кханакул в этом событии не назван; M 108). Не включены: ev-nityananda-awakens-shridama (nvv-0068, P05, ур. C — рассказ о вечной природе, ⚠Б6), ev-nityananda-marriage и ev-jahnava-radha-for-madana-mohana (лишь предание о поклонах, pvl-0168, pvl-0270), ev-sannyasa-decision-devotees-grief, ev-chandrashekhara-sent-back и ev-lord-disappearance (Джаянанда — лишь упоминание), ev-gaura-dance-with-devotees, ev-nityananda-dance-shrivasa-courtyard, ev-gaura-morning-navadvipa, ev-nanda-utsava-navadvipa (пады — лишь присутствие), ev-srinivasa-vishnupriya-mercy и ev-srinivasa-arrives-vrindavana (он лишь назван), ev-narottama-hears-krishnadasa, ev-jahnava-ekachakra, ev-advaita-jnana-again, ev-lord-sends-seat-gopala-bhatta (лишь упоминание или неуверенное отождествление «Рамаи/Рамадас»)."
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "«Шри Вирабхадраштака»", facts: [F38, F49]}
+  - {title: "«Ганга-стотра» (аштака в честь Гангаматы, дочери Нитьянанды)", facts: [F38, F49]}
+  - {title: "«Пата-парьятана» («Шрипата-парьятана») — приписывается (по T; атрибуция сомнительна, ⚠12)", facts: [F50]}
+places: ["#khanakul", "#rama-kunda-khanakul", "#panihati", "#puri", "#shrikhanda", "#baradangi", "#akai-hat"]
+places_facts: [F15, F18, F21, F22, F24, F25, F26, F27, F28, F29, F33, F39, F45, F51]
+character:
+  - {trait: "сокровищница дружеской любви к Кришне (сакхья-према): в упоении бхавы делает флейтой бревно, которое не сдвинуть многим", facts: [F8, F9, F10, I1], events: [ev-associates-of-nityananda-wonders]}
+  - {trait: "всецело преданный Нитьянанде, наделённый Его силой: безбожники трепещут перед ним, а он спасает их", facts: [F4, F16, F17, I2]}
+  - {trait: "погружённость в пастушье настроение: девять часов стоит в позе трибханги, не сознавая внешнего", facts: [F14, F11]}
+  - {trait: "испытующая и щедрая милость: испытывает отрешённость Шринивасы и дарует ему прему прикосновением плети", facts: [F42, F43, F44, I3, I4], events: [ev-abhirama-whip-srinivasa]}
+  - {trait: "сила поклона, являющая божественность Господних (Вирачандра, Ганга, Рагхунандана) — по преданию", facts: [F36, F37, F38, F39]}
+  - {trait: "учёность и дар искусства: сведущ в шастрах, несравненный знаток пения, музыки и танца", facts: [F19]}
+  - {trait: "безмолвная разлука после сокрытия Нитьянанды", facts: [F45, F46, F54]}
+significance: {facts: [F2, F3, F5, F8, F16, F34, I1, I2, I3, I4, I5, I6]}
+sources:
+  T: "88–89 (гл.); 62, 72, 78, 80, 84–85, 89, 96, 202, 205, 209, 233"
+  M: "1–2 (гл.); 25, 108, 144, 190–191"
+  B: "914–917 (гл.); 103, 115, 136, 174, 188, 271, 286, 288, 664, 816, 919, 1102"
+  other: ["ГГД 126–133", "ЧЧ Ади 10.116–118, 11.13–16; Мадхья 15.42–43; Антья 6.61, 6.90", "«Анубхашья» к ЧЧ Ади 10.116–118, 11.13, Антья 6.61; «Амрита-праваха-бхашья» к Ади 10.116, 11.13–15", "ЧБ Антья 5.231–240, 5.719–724", "«Бхакти-ратнакара» 1.29, 2.15, 4.92–148, 8.223–227, 10.372–377, 12.2578, 12.3611", "Мурари 4.22–23", "Лочан, Сутра-кханда 651–652", "«Вайшнава-вандана» 1.95; 2.83; 4; 5.67–72", "Джаянанда (по Н. Васу)", "«Према-виласа» 4–5, 19, 24", "«Анурагавалли» 3", "«Нитьянанда-вамша-вистара» 2, 3, 10", "пады (ПК 2564, 2064; ГПТ1)", "«Намамрита-самудра» 64"]
+article: {ru: "parshadas/ru/abhirama.md", en: "parshadas/en/abhirama.md"}
+open_questions:
+  - "Год и место ухода, место самадхи; родина и родители — неизвестны."
+  - "Число носильщиков бревна: 16 (ЧЧ), 32 (ГГД), «более ста» (БР) (⚠1)."
+  - "Был ли он в Кхетури: только T 96, против БР 10.374 (⚠4)."
+  - "Атрибуция «Пата-парьятаны» (только T, ⚠12) и основание Бали-матха в Пури («многие говорят», B, T)."
+  - "Тот ли Рамадас — «Шри Рама», «Рамаи», «киртания Рамадас» Мурари, пад и поздних житий (lila-db)."
