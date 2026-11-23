@@ -35064,6 +35064,7 @@
   "section": "Спутники",
   "lilas": [
    "pvl-0044",
+   "dvk-0011",
    "brt-0002",
    "krn-0026",
    "mkc-0178",
@@ -35073,6 +35074,7 @@
    "anv-0005",
    "brt-0003",
    "brt-0004",
+   "dvk-0019",
    "anv-0006",
    "cc-0138",
    "krn-0027",
@@ -35195,8 +35197,10 @@
   ],
   "events": [
    "ev-lokanatha-sent-to-vrindavana",
+   "ev-gaudiyas-leave-over-atibada",
    "ev-srirangam-chaturmasya",
    "ev-gopala-bhatta-dream-vision",
+   "ev-bahuda-return-chariots",
    "ev-gopala-bhatta-comes-vrindavana",
    "ev-hari-bhakti-vilasa",
    "ev-lord-sends-seat-gopala-bhatta",

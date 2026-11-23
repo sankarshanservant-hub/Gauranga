@@ -206,7 +206,7 @@
   order: 18
   title: "Гаудии во Вриндаване; Рупа и Санатана приходят на Гундича-ятру; Господь толкает колесницу головой"
   summary: "Во Вриндаване гаудии оставляют Пурушоттаму: Ямуна вместо моря, Мадана-мохан вместо Джаганнатхи, путь раги вместо предписаний; проявляется слава шести Госаев. По слову Прабху Матхура Дас приводит Рупу и Санатану с двадцатью спутниками на Гундича-ятру; они видят, как Шри Чайтанья толкает колесницу головой, и Он обнимает их. «Шесть вайшнавов» — Нитьянанда, Санатана, Рупа, Рагхунатха Дас, Джива и Гопала Дас; каждый год они приходят на Гундичу и возвращаются во Вриндаван. Прабху остаётся в Пурушоттаме и поёт «Харе Рама Кришна»."
-  persons: ["@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@nityananda", "@raghunatha-dasa", "@jiva-gosvami", "@divakara-dasa"]
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@nityananda", "@raghunatha-dasa", "@jiva-gosvami", "@gopala-bhatta", "@divakara-dasa"]
   places: ["#vrindavana", "#puri"]
   kind: lila
   authority: D
@@ -363,7 +363,7 @@
   order: 43
   title: "Махапрабху со спутниками в джагамохане; гаудии на Гундича-ятре и Бахуде"
   summary: "Однажды Прабху приходит в джагамохану; с Ним Гауридас Пандит, Матта Баларама, Рупа, Санатана, Рагхунатха Бхатта, Джива, Гопала Дас, Рагхунатха Дас, Каши Мишра, Сарвабхаума, Гопинатха Ачарья, Джагадананда, Мукунда Датта, Дамодара, Рамананда, Нитьянанда и Адвайта; Он обходит Джаганнатху четыре раза и двенадцать раз простирается. Гаудийские вайшнавы приходят на Гундичу, служат девять дней ятры, а после Бахуды, в шукла-экадаши ашадхи, все кланяются Прабху."
-  persons: ["@mahaprabhu", "@gauridasa-pandita", "@balarama-dasa-odia", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@jiva-gosvami", "@raghunatha-dasa", "@kashi-mishra", "@sarvabhauma", "@gopinatha-acharya", "@jagadananda-pandita", "@mukunda-datta", "@ramananda-raya", "@nityananda", "@advaita", "@divakara-dasa"]
+  persons: ["@mahaprabhu", "@gauridasa-pandita", "@balarama-dasa-odia", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@jiva-gosvami", "@raghunatha-dasa", "@kashi-mishra", "@sarvabhauma", "@gopinatha-acharya", "@jagadananda-pandita", "@mukunda-datta", "@ramananda-raya", "@nityananda", "@advaita", "@gopala-bhatta", "@divakara-dasa"]
   places: ["#puri", "#gundicha"]
   kind: lila
   authority: D
