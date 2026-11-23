@@ -55,6 +55,13 @@ These pranks and whims are no worldly mischief of a child but the sweet *bala-li
 Ishana took part in them: the Lord Himself, the Master of all, allowed him to carry Him in his arms and to fulfil His
 wishes.[^3] <!-- F6 F7 F8 Q5 -->
 
+Ishana served in this house even before Nimai's elder brother, Vishvarupa, left for sannyasa. Many years later, showing
+Srinivasa the Lord's house, he recalled how Shachi would send little Vishvambhara to call His brother home from
+Advaita's assembly for the meal: “Holding the end of His elder brother's cloth, Vishvambhara, enchanting the hearts of
+all, came home. At that very moment I cleaned the place and made it ready; here the two brothers sat down to eat. O dear
+Srinivasa, what more is there to say? When I think of all that, my heart breaks” (“Bhakti-ratnakara” 12.1123–1125).[^4]
+<!-- F47 -->
+
 ## Service to the Lord's Mother
 Ishana is most renowned for his service to Shachi-devi. Vrindavana Dasa says of him:
 
@@ -77,20 +84,26 @@ Shachi Thakurani loved him dearly.”
 (“Vaishnava-vandana,” part 2, v. 37)
 
 The “Bhakti-ratnakara” cites this couplet too (12.94); the biographies say that Ishana was blessed with Shachi-devi's
-love.[^4] Other “Vaishnava-vandanas” remember him as well: the Sanskrit one calls him “Ishana Dasa, the object of
+love.[^5] Other “Vaishnava-vandanas” remember him as well: the Sanskrit one calls him “Ishana Dasa, the object of
 Shachi-devi's affection” (part 1, v. 50), the “Sri Vaishnavabhidhana” lists him among the Lord's associates (part 3, v.
 16), and the tripadi of the “second” Vrindavana Dasa calls him “the vessel of Ai's mercy, Ishana, whom Ai brought up”
 (part 5, v. 37). <!-- F12 Q4 F13 -->
 
+The late “Gaura-charita-chintamani” of the same Narahari Chakravarti, which sings of Gaura's eternal pastimes hour by
+hour, remembers Ishana beside Shachi in these pastimes too: at midday, while Gaura plays with His associates in the
+flower garden, Shachi tells her daughter-in-law to prepare the meal — “Nimai and Nitai will eat together with everyone”
+— and “Shachi Devi, calling Ishana, quickly sent off the various foods” (“Gaura-charita-chintamani” 17.26, a late
+source). <!-- F54 -->
+
 The old people of Navadvipa saw that love with their own eyes. That same old brahmana, meeting Srinivasa on the road,
 began his account thus: “I have just come from seeing Ishana. What can I say — who does not long for his virtues? His
 knowledge of all truths is known everywhere; he served Sri Shachi-devi as was fitting; and how Shachi-devi loved Ishana I
-cannot tell: I saw it with my own eyes” (“Bhakti-ratnakara” 12.90–93).[^5] <!-- F14 Q5 -->
+cannot tell: I saw it with my own eyes” (“Bhakti-ratnakara” 12.90–93).[^6] <!-- F14 Q5 -->
 
 ## The Meal of Gaura and Nityananda
 Ishana was blessed with service to Sri Nityananda as well, who is non-different from Baladeva — Sri Chaitanya's second
 self. The “Chaitanya-bhagavata” tells how the Lord proposed to His mother that they invite Nityananda to a meal; Shachi
-rejoiced and began to cook, and the Lord Himself went to fetch Nityananda (Madhya 8.51–54).[^6] When the Brothers came
+rejoiced and began to cook, and the Lord Himself went to fetch Nityananda (Madhya 8.51–54).[^7] When the Brothers came
 and sat down side by side, Ishana came up to Them:
 
 “Ishana gave water to wash Their feet; then Mahaprabhu and Nityananda sat down to eat.” (CB, Madhya 8.59)
@@ -105,10 +118,15 @@ fourteen worlds he is supremely fortunate.” (CB, Madhya 8.73–74)
 Thus all the remnants of the meal of Gaura and Nityananda — the greatest mercy — came to him; he honoured them with
 reverence. <!-- F17 -->
 
+In the “Bhakti-ratnakara” it is Ishana himself who tells Srinivasa of this meal, standing on that very spot: “O
+Srinivasa, seeing that wondrous beauty, I quickly gave water to wash [Their] feet… Having eaten, the two of Them sat
+here; I quickly cleaned the place. Joyfully I gathered all the remnants from the leaf-plates; remembering all that, [my]
+heart grows distraught” (12.1830, 1834–1835). <!-- F48 -->
+
 On these verses Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya”: “Ishana, the servant in the Lord's house,
 gathered up the scattered food and tidied the house. There is no limit to Ishana's fortune: he spent his whole life in
 the service of the Lord's mother; and after Mahaprabhu's sannyasa the servant Ishana, obtaining the service of his
-Master's mother and wife, became the most blessed (*dhanyatidhanya*) among the blessed servants of the world.”[^7]
+Master's mother and wife, became the most blessed (*dhanyatidhanya*) among the blessed servants of the world.”[^8]
 <!-- F18 -->
 
 ## Keeper of the House after the Lord's Sannyasa
@@ -136,7 +154,7 @@ Shachimata, Sri Vamshivadana Thakura served Vishnupriya-devi and Sri Ishana Thak
 
 ## Srinivasa at Vishnupriya's
 Soon after Mahaprabhu disappeared in Nilachala, the young Srinivasa came to Mayapur at the bidding of Gadadhara Pandita.
-At the Yogapitha, in the Lord's house, he saw Vishnupriya and beside her the old Vaishnava Sri Ishana Prabhu.[^8]
+At the Yogapitha, in the Lord's house, he saw Vishnupriya and beside her the old Vaishnava Sri Ishana Prabhu.[^9]
 <!-- F24 -->
 
 The “Prema-vilasa” tells in detail of his care for the youth. Ishana, compassionate to living beings and ever filled with
@@ -170,19 +188,21 @@ everywhere. These days I have had all the news from there through people”; and
 now fare by the Lord's will “cannot be told.” And after that he advised him to go to
 Shrikhanda and Katwa (8.103–108). <!-- F28 F29 -->
 
-When Jahnava came back to Navadvipa, Mahaprabhu's birthplace, Ishana was already a very old man; with others he consoled
-her, and they told her that Srinivasa would soon come (11.768). And earlier Srinivasa had told her: “In Navadvipa almost all have
-disappeared — only the Lord's Ishana remains,” and added: “Ishana told me to come” (11.721–723). <!-- F30 F31 Q6 -->
+When Jahnava came back to Navadvipa, Mahaprabhu's birthplace, Ishana was already a very old man. Hardly any of the Lord's
+associates were left there; “the few who were there — Sri Ishana and the others — hearing of Ishvari's coming, came
+forward to meet [her],” and on seeing her they seemed to regain their life (11.751–753). Before leaving, Jahnava carefully
+consoled Ishana and the others and told them that Srinivasa would soon come (11.768). And earlier Srinivasa had told her: “In Navadvipa almost all have
+disappeared — only the Lord's Ishana remains,” and added: “Ishana told me to come” (11.721–723). <!-- F30 F31 Q6 F53 -->
 
 In the house of Jagannatha Mishra in Mayapur Ramachandra Kaviraja too, returning from Vraja to Gauda, found the very aged
 Ishana Thakura: he introduced himself and bowed at his feet, and Ishana blessed him generously. According to one of the
 biographies, Shyamananda (Duhkhi Krishnadasa) as well found the very old Ishana Thakura in Sri Gauranga's house: he bowed
-to him, and Ishana asked who he was and, having heard, blessed him.[^9] <!-- F32 F33 -->
+to him, and Ishana asked who he was and, having heard, blessed him.[^10] <!-- F32 F33 -->
 
 ## Guide through Navadvipa
 Ishana's last great service was to show Srinivasa Acharya, Narottama Thakura and Ramachandra Kaviraja the places of
 Mahaprabhu's pastimes — he led them round the nine islands of Navadvipa. One of the biographies calls him here “Sri
-Ishana Prabhu, the venerable devotee of Mahaprabhu's household.”[^10] <!-- F34 F36 -->
+Ishana Prabhu, the venerable devotee of Mahaprabhu's household.”[^11] <!-- F34 F36 -->
 
 The “Bhakti-ratnakara” tells of this in detail. On the road to Mayapur the three met that same old brahmana: he said that
 he had gone that day to see Ishana and that Ishana had told him beforehand of their coming — he was waiting for them in
@@ -193,22 +213,50 @@ through Narottama (12.126–127). “I am old and have lost my strength,” he c
 returned” (12.131). The next morning he led them through Nadia (12.134–135) and all along the way told them about each
 place, and at times sang padas (12.625, 701, 752, 772, 809, 849, 2117, 4031). <!-- F35 -->
 
+The way led over all nine islands: from Mayapur to Antardvipa (Atopur), Simantadvipa (Simuliya), Godrumadvipa
+(Gadigachha), Madhyadvipa (Majita), Koladvipa (Kuliya) and Samudragarhi, Ritudvipa (Champahatta), Jahnudvipa (Jannagar)
+with Vidyanagara, Modadrumadvipa (Maugachhi), through Vaikunthapura and Mahatpur to Rudradvipa (Rahupur), and by way of
+Suvarna-vihara back to Mayapur. At each place Ishana explained where its name came from — which god or sage had once
+beheld Gaura there or learnt of His future pastimes — and linked the place with the Lord's pastimes; now he went on “in
+joy,” now “floating in tears,” unable to become calm (12.134–850).[^12] <!-- F51 -->
+
+Back in Mayapur, Ishana entered Mishra's house — and “was overwhelmed with prema, remembering the Purusha.” Growing calm,
+he said softly to Srinivasa: “This house of Mishra is the Mahayogapitha… unfathomable to others, this house is like a
+lotus” (12.849–852). And he began to show where everything had happened: where Jagannatha Mishra and Shachi worshipped
+Vishnu, where the Lord appeared, where He crawled and played as a child, how He grew up, studied, married, how He
+returned from Gaya and how the kirtans began in this house — up to the last days before sannyasa. “O Srinivasa, in this
+house of the Lord I have shown which pastimes He performed in which places,” he concluded, and led the three through
+Mayapur and its surroundings: to the kadamba under which little Nimai played, to the house of Vallabha where the Lord
+married Lakshmipriya, to Srivasa's house, to Madhai's ghat, along the path of the nagara-kirtana to the Kazi's house —
+and so on to the weeping of all Nadia for the departed Lord; he told also of what came after the sannyasa — of
+Nityananda's wanderings through Gauda and His marriage (12.851–4021).[^13] The author of the “Bhakti-ratnakara”
+himself, in the list of its contents, says just this of the twelfth wave: the three “went round Nadiya with Sri Ishana”
+(BR, “Contents of the Book,” 24). <!-- F45 F46 F50 F55 -->
+
+Again and again Ishana speaks of himself as an eyewitness: “O Srinivasa, I saw [it] to my eyes' fill” (12.1359); “All
+that I saw rises ever in my mind” (12.1933); “Staying here, I saw the Lord's pastimes” (12.2699); and ending his account
+he confesses: “All that I saw I cannot tell; when I think of all that, my heart bursts and I die” (12.4030). Having
+said this, “Ishana Mahashaya, in the rapture of prema, utterly lost his composure”; coming to himself, he lay down with
+his three guests to sleep at night in the Lord's courtyard (12.4031–4032). That night the eternal Navadvipa was revealed
+to Srinivasa in a dream. <!-- F49 F52 -->
+
 His old age and frailty are also a pastime. The Lord kept His eternal associate in this world in order to hand over
 Navadvipa through him to the next acharyas, and the strength that returned to the old man at the sight of Srinivasa is
 His mercy, not a worldly recovery. Ishana's solitude in the house where Nimai's footsteps once sounded, and his cry of
-“Vishvambhara!”, are the separation of an eternal servant from his Master. One of the biographies adds that when Ishana
-showed them these places they had already fallen into utter ruin — and from this one may judge how long he lived.[^11]
+“Vishvambhara!”, are the separation of an eternal servant from his Master; and his tears at each place of the pastimes are that same prema
+of separation, not the weakness of old age. One of the biographies adds that when Ishana
+showed them these places they had already fallen into utter ruin — and from this one may judge how long he lived.[^14]
 <!-- F37 -->
 
 ## Farewell and Departure
 Ishana remained long in the Lord's manifest pastimes: he disappeared only after Vishnupriya-devi and almost all of
-Mahaprabhu's devotees in Navadvipa.[^12] The three acharyas received his loving blessing and embrace and took leave of
+Mahaprabhu's devotees in Navadvipa.[^15] The three acharyas received his loving blessing and embrace and took leave of
 him. Embracing them, Ishana could not hold back his tears; he wished to say something — and could not, and only by a
 sign of his hand showed that this was their last meeting (“Bhakti-ratnakara” 13.8–11). <!-- F38 F39 -->
 
 And so it was. The acharyas went to Shrikhanda to Raghunandana Thakura, and there Srinivasa told Raghunandana: “In the
 Lord's house only Ishana remained — what power have I to tell of his endless virtues! On the way I heard from people's lips: Ishana Thakura has disappeared”
-(“Bhakti-ratnakara” 13.20–21).[^13] The eternal associate had departed from this world into the Lord's unseen
+(“Bhakti-ratnakara” 13.20–21).[^16] The eternal associate had departed from this world into the Lord's unseen
 pastimes. <!-- F40 Q7 F44 -->
 
 When exactly this happened is unknown: according to the “Bhakti-ratnakara,” in Navadvipa, soon after he had led the three
@@ -240,29 +288,37 @@ Navadvipa. <!-- F38 -->
     identifies him with Ishana, the servant in the Lord's house.
 [^3]: One of the biographies writes that Nimai lovingly called Ishana “father.” This is a misunderstanding: in the
     “Bhakti-ratnakara” (12.95) the words “O son” (*ohe bapu*) are the old brahmana's address to Srinivasa, not Nimai's words.
-[^4]: In the biographies this couplet is followed by “12.94” — the number of the verse of the “Bhakti-ratnakara” where it
+[^4]: By this account Ishana served in Mishra's house before Vishvarupa left, and lived to lead the disciples of the
+    Gosvamis through Navadvipa — his life was very long; the sources give no exact dates.
+[^5]: In the biographies this couplet is followed by “12.94” — the number of the verse of the “Bhakti-ratnakara” where it
     is cited; in Devakinandana's “Vaishnava-vandana” itself it is the 37th couplet.
-[^5]: The edition used by one of the biographies reads “who does not understand” (*bujhaye*) instead of “who does not long
+[^6]: The edition used by one of the biographies reads “who does not understand” (*bujhaye*) instead of “who does not long
     for” (*jhuraye*). Some have taken the brahmana's words “I have come from seeing Ishana” as “here comes Ishana,” as if
     the brahmana were Ishana himself; but the account of the “Bhakti-ratnakara” (12.88–109) makes clear that he is an old
     man met on the road, while Ishana was awaiting the guests in the house of Jagannatha Mishra.
-[^6]: One of the biographies writes that the Lord long entreated His mother to let Him invite Nitai and that at last she
+[^7]: One of the biographies writes that the Lord long entreated His mother to let Him invite Nitai and that at last she
     agreed; according to the “Chaitanya-bhagavata” (Madhya 8.51–52), Shachi rejoiced at once.
-[^7]: One of the biographies speaks of “the rice scattered by Nityananda”; but according to the “Chaitanya-bhagavata”
+[^8]: One of the biographies speaks of “the rice scattered by Nityananda”; but according to the “Chaitanya-bhagavata”
     (Madhya 8.67–68) the food was scattered when Shachi fell senseless (Nityananda scatters rice in another pastime —
     Madhya 11.15). Another biography cites verse 8.73 as evidence of Ishana's service after the Lord's sannyasa; in the
     “Chaitanya-bhagavata” this is the episode of the meal, before the sannyasa, and only the “Gaudiya-bhashya” speaks of
     the service after it.
-[^8]: One of the biographies refers here to the fourth wave of the “Bhakti-ratnakara” and to the “Prema-vilasa”; in the
+[^9]: One of the biographies refers here to the fourth wave of the “Bhakti-ratnakara” and to the “Prema-vilasa”; in the
     fourth wave of the “Bhakti-ratnakara” Ishana is not named — it is the “Prema-vilasa” that tells of him.
-[^9]: The biography does not name the primary source of this account; it could not be found in the “Bhakti-ratnakara.”
-[^10]: The biographies differ on the order of events: according to one, the three came to Navadvipa from Yajigrama after
+[^10]: The biography does not name the primary source of this account; it could not be found in the “Bhakti-ratnakara.”
+[^11]: The biographies differ on the order of events: according to one, the three came to Navadvipa from Yajigrama after
     the festival of the Deities and Shyamananda's departure; according to another, they first went round Navadvipa and then
     went by way of Mayapur to Yajigrama, Shrikhanda, Budhari and Kheturi.
-[^11]: This is the biography's own conclusion; the “Bhakti-ratnakara” (12.88–135, 12.4031–4037) does not say so directly,
+[^12]: These stories of each place (which of the gods and sages beheld Gaura there) are traditions that the
+    “Bhakti-ratnakara” puts into Ishana's mouth; they are not retold here.
+[^13]: Ishana's account in the “Bhakti-ratnakara” is Narahari Chakravarti's narrative frame: into Ishana's speech the
+    author brings quotations from Murari Gupta's “Chaitanya-charita” and Kavi Karnapura's “Mahakavya,” padas of his own and
+    of other poets, and pastimes outside Navadvipa (Panihati, Saptagrama, Nityananda's marriage) which Ishana could not show
+    on the spot. Ishana himself says that he tells what he saw himself and what he heard from the old people (12.126).
+[^14]: This is the biography's own conclusion; the “Bhakti-ratnakara” (anywhere in the twelfth wave) does not say so directly,
     though Srinivasa does marvel there that the Lord's house is made of grass (12.4034).
-[^12]: The biographies write that he outlived “all” Mahaprabhu's devotees in Navadvipa; but the “Bhakti-ratnakara” says
+[^15]: The biographies write that he outlived “all” Mahaprabhu's devotees in Navadvipa; but the “Bhakti-ratnakara” says
     “almost all have disappeared” (11.721), and of those who remained, “almost silent” (13.19); in Narottama's time
     Shuklambara, Damodara Pandita, Shripati and Shrinidhi were still living in Navadvipa (the eighth wave).
-[^13]: According to the biographies, the news reached them when they came to Shrikhanda, or “soon after this”; according
+[^16]: According to the biographies, the news reached them when they came to Shrikhanda, or “soon after this”; according
     to the “Bhakti-ratnakara” (13.21), Srinivasa heard it on the way.
