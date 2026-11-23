@@ -815,3 +815,9 @@
 | самбхога-вада | sambhoga-vada | ложное «учение о самбхоге» (встрече) в пренебрежение випраламбхой; в тексте — в кавычках с пояснением (@krishnadasa-babaji) |
 | махапрастхана | mahaprasthana | «великий путь» — об уходе вайшнава из этого мира (слово Бхактисиддханты о @krishnadasa-babaji) |
 | дор-каупина | dor-kaupina | пояс-дор и каупина — одеяние отрёкшегося бабаджи (@krishnadasa-babaji) |
+| Шрила Бхакти Праджняна Яти Госвами Махарадж; Яти Махарадж; Нандадулал (брахмачари) | Srila Bhakti Prajnana Yati Gosvami Maharaja; Yati Maharaja; Nandadulal (Brahmachari) | @bhakti-prajnana-yati; ачарья Шри Чайтанья Матха (с 1990) |
+| Всеиндийская вайшнавская конференция; «All India Vaishnava Samajam» | All India Vaishnava Conference; “All India Vaishnava Samajam” | замысел и устроение @bhakti-prajnana-yati (1961, 1964, 1972, 1985/1989) |
+| Институт исследований Шри Чайтаньи | Sri Chaitanya Research Institute | Калькутта; закладка 28.12.1958, открытие 29.06.1964 |
+| “Амрите сандхане” («В поисках нектара»); “Хе Кришна! Веде ки томар стхан наи?” | “Amrite Sandhane” (“In Search of Nectar”); “He Krishna! Vede ki tomar sthan nai?” | книги @bhakti-prajnana-yati |
+| гаура-нагари; нагара | gaura-nagaris; nagara | учение, отвергнутое Бхактисиддхантой; «нагара» — трансцендентный Возлюбленный, не «любовник» |
+| Уша (Балгона, Бхатар, Бардхаман) | Usha (Balgona, Bhatar, Bardhaman) | #usha-bardhaman, место явления @bhakti-prajnana-yati |
