@@ -98,8 +98,8 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
   <div id="hud" class="ui">
     <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
-      <div class="keys">Пробел — подсветка · Tab — небо · J — журнал<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
-    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button></div>
+      <div class="keys">Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
+    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button></div>
   </div>
   <div id="percept" class="ui" hidden><div class="lbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
   <div id="hint" class="ui panel" hidden><div id="hintText"></div><button id="hintOk" type="button">Понятно</button></div>
@@ -117,9 +117,11 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { clone as skelClone } from 'three/addons/utils/SkeletonUtils.js';
+import { createAudio } from './audio.js';
 
 const AUTOPLAY = /autoplay/.test(location.search) || location.hash === '#autoplay';
 const $ = (id) => document.getElementById(id);
+const audio = createAudio('snd/');
 const sleep = (ms) => new Promise((r) => setTimeout(r, AUTOPLAY ? Math.min(ms, 120) : ms));
 const W = 1920, H = 1080;
 
@@ -453,12 +455,15 @@ class Figure {
         const face = this.body.rotation.y, fw = new THREE.Vector3(Math.sin(face), 0, Math.cos(face));
         const dir = d.normalize(), align = Math.max(0.25, fw.dot(dir));
         const st = Math.min(sp * dt * align, L); this.pos.addScaledVector(dir.lerp(fw, 0.35).normalize(), st);
+        this.stepAcc = (this.stepAcc ?? 0) + st; const stride = 0.37 * this.h * (this.pose === 'run' ? 1.35 : 1);
+        if (this.stepAcc > stride) { this.stepAcc -= stride; onStep(this); }
         this.pos.y = lerp(this.pos.y, tgt.y, Math.min(dt * 6, 1));
       }
     }
     if (!this.carried) this.body.rotation.y = lerpAngle(this.body.rotation.y, this.yaw, Math.min(dt * 7, 1));
     const float = this.pose === 'float';
     this.body.position.y = lerp(this.body.position.y, float ? 0.35 + 0.08 * Math.sin(performance.now() / 770) : 0, Math.min(dt * 6, 1));
+    if (!this.carried) { const rm = roomAt(this.pos); if (rm !== this.room) { if (this.room !== undefined) onDoor(this); this.room = rm; } }
     this.mixer.update(dt);
   }
 }
@@ -537,6 +542,7 @@ const ui = {
   },
   advance() { if (this.waiting) this.waiting(); },
   card(e, who = '') {
+    audio.ui('card');
     $('cardKind').textContent = e.kind ?? ''; $('cardTitle').textContent = e.title ?? '';
     let h = PORTRAITS.has(who) ? `<img src="portraits/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:200px;margin:4px 0 8px 16px;border:2px solid var(--gold);border-radius:6px">`
       : CODEX_ART.has(who) ? `<img src="codex/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:250px;margin:4px 0 8px 16px;border-radius:6px">` : '';
@@ -567,7 +573,7 @@ const ui = {
     $('jtext').innerHTML = art + `<h3>${esc(e.title)}</h3><p><i>${esc(e.kind ?? '')}</i></p><p>${esc(e.text ?? '')}</p>` +
       (e.refs?.length ? `<p><i>Источники: ${e.refs.map(esc).join('; ')}</i></p>` : '');
   },
-  toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden && this.entries.length) this.pickJournal(0); },
+  toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden) audio.ui('journal'); if (!j.hidden && this.entries.length) this.pickJournal(0); },
   hint(t) { $('hintText').textContent = t; $('hint').hidden = false; if (AUTOPLAY) setTimeout(() => ($('hint').hidden = true), 200); },
   async title(t, sub, sec) {
     const f = $('fade'); $('fadeTitle').textContent = t; $('fadeSub').textContent = sub;
@@ -612,6 +618,13 @@ $('jClose').onclick = () => ($('journal').hidden = true);
 $('bJ').onclick = () => ui.toggleJournal();
 $('bSky').onclick = () => toggleCelestial();
 $('bHi').onclick = () => toggleHighlight();
+function syncSnd() { $('bSnd').classList.toggle('on', !audio.muted); $('bSnd').textContent = audio.muted ? 'Звук выкл.' : 'Звук'; }
+$('bSnd').onclick = () => { audio.toggle(); syncSnd(); }; syncSnd();
+// звук включается с первым касанием (так требуют браузеры)
+let audioOn = false;
+const startAudio = () => { if (AUTOPLAY) return; audio.resume(); if (audioOn) return; audioOn = true;
+  audio.start().then(() => { audio.setTime(curTime, 0.1); if (celestial) audio.setCelestial(true); }); };
+addEventListener('pointerdown', startAudio, true); addEventListener('keydown', startAudio, true);
 const modal = () => !$('dlg').hidden || !$('journal').hidden || $('fade').classList.contains('block');
 
 // ---------------------------------------------------------------- небесное зрение, подсветка
@@ -622,6 +635,7 @@ function toggleCelestial() {
   $('plane').textContent = celestial ? 'План: небесный ✦' : 'План: земной';
   $('bSky').classList.toggle('on', celestial); if (celestial) $('bSky').classList.remove('pulse');
   for (const id in figs) if (figs[id].celestial) figs[id].root.visible = celestial && !!placed[id];
+  audio.setCelestial(celestial);
 }
 function toggleHighlight() { highlight = !highlight; $('bHi').classList.toggle('on', highlight); }
 const sparks = $('sparks').getContext('2d');
@@ -671,6 +685,30 @@ function panTick(dt) {
 // ---------------------------------------------------------------- ввод
 let mouse = { x: -1, y: -1 };
 const toStage = (e) => { const r = stage.getBoundingClientRect(); return { x: (e.clientX - r.left) / K, y: (e.clientY - r.top) / K }; };
+// ---------------------------------------------------------------- звук в мире: слышит герой; панорама — по месту на экране
+function hearAt(p) { const d = p.distanceTo(player.pos); const x = toScreen(p).x / W * 2 - 1;
+  return [1 / (1 + (d / 3.5) ** 2), THREE.MathUtils.clamp(x, -1, 1) * 0.7]; }
+function surfaceAt(p) {   // внутри и на цоколе — глиняный пол; выметенный двор; утоптанная тропа по краю; трава
+  if (p.y > 0.3) return 'clay';
+  const r = Math.hypot(p.x / 10, (-p.z - 2.2) / 8.4);
+  return r < 0.93 ? 'earth' : r < 1.12 ? 'mud' : 'grass';
+}
+function onStep(f) {
+  if (!f.root.visible || f.carried || f.celestial || f.pose === 'float') return;
+  const [g, pan] = hearAt(f.pos);
+  audio.step(surfaceAt(f.pos), g * (f === player ? 0.3 : 1) * (f.h < 1.3 ? 0.6 : 1), pan);
+}
+function onDoor(f) {
+  if (!f.root.visible || f.celestial || f === player) return;
+  const now = performance.now(); if (now - (f.doorT ?? 0) < 2500) return; f.doorT = now;
+  const [g, pan] = hearAt(f.pos); audio.door(g, pan);
+}
+let sndT = 0, sndDuck = false;
+function soundTick(dt) {
+  sndT += dt; if (sndT < 0.25) return; sndT = 0;
+  const d = !$('dlg').hidden; if (d !== sndDuck) { sndDuck = d; audio.duck(d); }
+  if (spots.hs_chula_in) { const k = Math.max(0, 1 - spots.hs_chula_in.distanceTo(player.pos) / 7.5); audio.fire(k ** 1.5 * (roomAt(player.pos) === 'kitchen' ? 1 : 0.6)); }
+}
 function toScreen(v) { const p = v.clone().project(cam); return { x: (p.x + 1) / 2 * W, y: (1 - p.y) / 2 * H }; }
 function origUV(x, y) { return { u: 0.5 + (x / W - 0.5) / view.z + view.cx, v: 0.5 + (y / H - 0.5) / view.z - view.cy }; }
 function hsAtScreen(x, y) {
@@ -704,6 +742,7 @@ addEventListener('keydown', (e) => {
   if (e.key === 'Tab') { e.preventDefault(); toggleCelestial(); return; }
   if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); if (!$('dlg').hidden) ui.advance(); else if (e.key === ' ') toggleHighlight(); return; }
   if (e.key === 'j' || e.key === 'J' || e.key === 'о' || e.key === 'О') ui.toggleJournal();
+  if (e.key === 'm' || e.key === 'M' || e.key === 'ь' || e.key === 'Ь') { audio.toggle(); syncSnd(); }
   if (e.key === 'Escape') { $('card').hidden = true; $('journal').hidden = true; $('hint').hidden = true; }
   if (['1', '2', '3'].includes(e.key) && ui.choiceRes) ui.choiceRes(+e.key - 1);
 });
@@ -727,6 +766,7 @@ const tweens = [];
 function tween(dur, fn) { return new Promise((res) => tweens.push({ t: 0, dur: AUTOPLAY ? 0.2 : dur, fn, res })); }
 async function setTime(t, sec) {
   if (t === curTime) return;
+  audio.setTime(t, sec);
   const a = TIMES[curTime], b = TIMES[t]; bgUniforms.bgB.value = bgTex[t]; bgUniforms.cutB.value = cutTex[t];
   const ca = new THREE.Color(a.sunCol), cb = new THREE.Color(b.sunCol), aa = new THREE.Color(a.ambCol), ab = new THREE.Color(b.ambCol);
   await tween(sec, (k) => { bgUniforms.mixv.value = k; sun.intensity = lerp(a.sun, b.sun, k); sun.color.copy(ca).lerp(cb, k);
@@ -767,9 +807,9 @@ async function step(s) {
       { const dest = spots[s.at].clone().add(off), fadeOn = $('fade').classList.contains('block');
         if (f.root.visible && !fadeOn && f.pos.distanceTo(dest) > 0.6 && !AUTOPLAY) { await f.walk(findPath(f.pos, dest)); } }
       f.stop(); f.pos.copy(spots[s.at]).add(off); f.root.rotation.set(0, 0, 0);
-      placed[s.who] = true; f.root.visible = !f.celestial || celestial; break;
+      placed[s.who] = true; f.root.visible = !f.celestial || celestial; f.room = roomAt(f.pos); break;
     case 'hide': f.root.visible = false; placed[s.who] = false; break;
-    case 'pose': f.pose = s.pose; break;
+    case 'pose': f.pose = s.pose; if (s.pose === 'meditate' && s.who === 'brahmana') { const [g, pan] = hearAt(f.pos); audio.bell(Math.max(g, 0.35), pan); } break;
     case 'face': f.faceTo(spotOrFig(s.to)); break;
     case 'walk': {
       if (s.with && s.carry) { const c = figs[s.with]; c.carried = true; f.carrying = true; f.pose = 'carry';
@@ -846,7 +886,7 @@ function frame() {
   for (const id in figs) figs[id].update(dt);
   if (marker.visible) { marker.rotation.y += dt * 0.8; const s = 1 + 0.08 * Math.sin(performance.now() / 300); marker.scale.set(s, 1, s);
     if (markerWait && player.pos.distanceTo(marker.position) < 1.7) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }
-  perceptTick(dt); panTick(dt);
+  perceptTick(dt); panTick(dt); soundTick(dt);
   hovered = pickHover();
   for (const id in hsMarks) hsMarks[id].visible = false;
   // какой дом «в разрезе»: тот, где стоит герой, и тот, где идёт лила
