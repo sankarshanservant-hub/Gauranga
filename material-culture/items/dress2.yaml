@@ -1,0 +1,197 @@
+# Рубрика «Одежда и облик» (dress), исполнитель dress: ткани, одежда по людям, облик. Формат — README.md.
+# Выписки и ссылки — research/dress-notes.md, журнал — research/dress-log.md.
+
+# --- Порция 1: ткани ---
+
+- id: mc-bengal-cotton
+  title: {ru: "Хлопок Бенгалии", en: "Bengal cotton"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Эпоха: Дуарте Барбоза (ок. 1514–1518) — «в стране много хлопка», тонкие ткани цветные для себя и белые на вывоз
+      (пер. Stanley 1866, с. 179). Сорта, сроки сбора и очистка — Taylor 1840 (Дакка, XIX в.; приёмы описаны как
+      исконные). Вата шимула для набивки — ЧЧ Антья 13.7.
+    en: >-
+      Period: Duarte Barbosa (c. 1514–1518) — "much cotton in the country", fine cloths coloured for local use and white
+      for export (tr. Stanley 1866, p. 179). Varieties, harvest seasons and cleaning — Taylor 1840 (Dacca, 19th c.;
+      described as age-old practice). Simul floss for stuffing — CC Antya 13.7.
+  text:
+    ru: >-
+      Почти вся одежда Бенгалии — хлопковая. Местный хлопок (*деши*) рос на сухих полях; собирали его дважды в год,
+      весной и в начале осени, и весенний сбор считался лучшим. Коробочки очищали от семян на доске с валиком, потом
+      пух взбивали маленьким бамбуковым луком — тетиву дёргали, и волокна разлетались лёгким облаком. Для подушек и
+      тюфяков шёл и другой «хлопок» — шелковистая вата с огромного дерева шимул (Bombax): ею Джагадананда набил
+      постель для Махапрабху.
+    en: >-
+      Nearly all Bengali clothing was cotton. Local (*deshi*) cotton grew on dry fields and was picked twice a year, in
+      spring and early autumn, the spring crop being the finer. The bolls were freed of seeds on a board with a roller,
+      then the fluff was teased with a small bamboo bow — the string was plucked and the fibres flew up in a light
+      cloud. For pillows and mattresses another "cotton" was used — the silky floss of the huge simul tree (Bombax):
+      with it Jagadananda stuffed the bedding he made for Mahaprabhu.
+  hagiography: ["ЧЧ Антья 13.7", "ЧЧ Мадхья 13.102 (шимул)"]
+  sources: ["Barbosa, пер. Stanley 1866, с. 179", "Taylor 1840, с. 130–131, 165–167 (сорта Phootee, Nurmah, Bairaite; валик, лук)"]
+  images: []
+  game: {model: "куст хлопчатника с раскрытыми коробочками; корзина хлопка; доска с валиком; бамбуковый лук для взбивания (≈1 м)",
+         where: ["mishra-house/backyard", "navadvipa/market"]}
+  todo: "Чей хлопок шёл в Навадвипу — свой или из Восточной Бенгалии? Хлопковые поля Надии в XVI в. — проверить."
+
+- id: mc-spinning
+  title: {ru: "Прялка и веретено", en: "Spinning wheel and spindle"}
+  rubric: dress
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Подробности — Taylor 1840 (Дакка, 1830-е). Для эпохи: Барбоза (ок. 1515) видел, что ткань «прядёт мужчина на
+      колесе» (Stanley 1866, с. 179). Прядение в житиях не описано.
+    en: >-
+      Details — Taylor 1840 (Dacca, 1830s). For the period: Barbosa (c. 1515) saw the cloth "spun by a man with a
+      wheel" (Stanley 1866, p. 179). Spinning is not described in the hagiographies.
+  text:
+    ru: >-
+      Нить пряли дома, чаще всего женщины в свободные часы — утром и под вечер, когда свет не слепит, а влажный
+      воздух не даёт нити рваться. Грубую нить тянули на прялке-чаркхе с деревянным колесом, а самую тонкую — на
+      веретене-такли: тонкий стержень с глиняным шариком-грузиком, остриём упёртый в половинку раковины каури.
+      Хлопок держали в левой руке и вытягивали нить пальцами; мастерица могла спрясть из щепотки хлопка весом в одну
+      монету нить длиной в несколько километров.
+    en: >-
+      Thread was spun at home, mostly by women in their spare hours — morning and late afternoon, when the light was
+      soft and the damp air kept the thread from breaking. Coarse thread was drawn on the charkha with its wooden wheel;
+      the finest on the takli spindle — a slender rod with a little clay weight, its point resting in half a cowrie
+      shell. The cotton was held in the left hand and drawn out with the fingers; an expert could spin from a pinch of
+      cotton weighing one coin a thread several kilometres long.
+  hagiography: []
+  sources: ["Taylor 1840, с. 167–168", "Barbosa, пер. Stanley 1866, с. 179"]
+  images: [{file: "material-culture/img/devis-1797-bengal-spinning-and-weaving.jpg", license: "PD (Public Domain Mark 1.0)", author: "A. W. Devis, грав. P. W. Tomkins (1797); Wellcome Collection 46141i", url: "https://wellcomecollection.org/works/p42s3muw"}]
+  game: {model: "чаркха — деревянное колесо Ø 50–60 см на раме, сидя на полу; веретено-такли ≈25 см с глиняным грузиком в половинке каури",
+         where: ["mishra-house/courtyard", "navadvipa/weavers"]}
+
+- id: mc-loom
+  title: {ru: "Ткацкий станок в яме", en: "The pit loom"}
+  rubric: dress
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Устройство станка — Taylor 1840 (Дакка, XIX в.); ткачи Навадвипы и их ткани — ЧБ Ади 12 (см. mc-weaver).
+      Станок с ямой — древний тип, но датированного описания XVI в. в просмотренных PD-книгах нет.
+    en: >-
+      Loom construction — Taylor 1840 (Dacca, 19th c.); Navadvipa's weavers and their cloth — CB Adi 12 (see
+      mc-weaver). The pit loom is an old type, but no dated 16th-c. description was found in the PD books examined.
+  text:
+    ru: >-
+      Ткач работал не под деревом, а в своей хижине, открытой со всех сторон ради света. В полу вырыта яма: в неё
+      ткач опускает ноги к педалям-подножкам, а над станком натянут навес из циновки на четырёх бамбуковых шестах,
+      чтобы с соломенной крыши не сыпались сор и капли дождя. Почти все приспособления — из бамбука и тростника,
+      связанных нитью; основу шлихтовали отваром жареного риса и натягивали между кольями во дворе. Тонкую ткань
+      лучше всего ткать в сезон дождей, а в сухой зной под полотно ставили плошки с водой.
+    en: >-
+      The weaver worked not under a tree but in his own hut, open on all sides for light. A pit was dug in the floor:
+      into it the weaver lowered his feet to the treadles, and over the loom a mat canopy on four bamboo poles kept
+      dust and raindrops from the thatch off the web. Almost every implement was bamboo and reed tied with thread; the
+      warp was sized with water of parched rice and stretched between stakes in the yard. Fine cloth was best woven in
+      the rains; in the dry heat shallow dishes of water were set beneath the web.
+  hagiography: ["ЧБ Ади 12.108–112 (ткач и Нимай; см. mc-weaver)"]
+  sources: ["Taylor 1840, с. 172–174"]
+  images: []
+  game: {model: "низкий горизонтальный станок над ямой (≈1×2 м), ткач сидит на краю ямы; бамбуковый навес-циновка; колья для основы во дворе",
+         where: ["navadvipa/weavers"]}
+
+- id: mc-muslin
+  title: {ru: "Муслин: «текучая вода» и «ночная роса»", en: "Muslin: 'running water' and 'night dew'"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Эпоха: Барбоза (ок. 1515) — тончайшие бенгальские ткани *саравети* на женские покрывала, их вывозили кораблями;
+      цены в Малабаре (Stanley 1866, с. 179). Названия *абраван*, *шабнам*, цена при Джахангире — Taylor 1840
+      (с. 171–172, по преданию ткачей). «Тонкие ткани» Нимая и знатных женщин — жития (жёлтое тонкое полотно).
+    en: >-
+      Period: Barbosa (c. 1515) — the finest Bengal cloths, *saravetis*, used for women's head-coverings and shipped
+      abroad; prices in Malabar (Stanley 1866, p. 179). The names *abrawan*, *shabnam* and the price under Jahangir —
+      Taylor 1840 (pp. 171–172, from weavers' tradition). The "fine cloth" of Nimai and noble women — hagiographies.
+  text:
+    ru: >-
+      Бенгалия славилась муслином — тканью такой тонкой, что её называли «текучей водой» и «ночной росой»: мокрую её
+      не отличишь от воды на траве. Уже при жизни Махапрабху португалец Барбоза писал, что бенгальцы ткут тончайшие
+      ткани, цветные для себя и белые на продажу, и арабы с персами шьют из них шапки и женские покрывала. Отрез был
+      около двадцати локтей. Лучшую нить пряли из местного хлопка вручную; при Великих Моголах кусок 10 × 2 локтя
+      весил чуть больше 50 граммов и стоил целое состояние. В житиях тонкое жёлтое полотно носит юный Нимай-пандит и
+      жених Вишвамбхара.
+    en: >-
+      Bengal was famed for muslin — cloth so fine it was called "running water" and "night dew": wet, it could not be
+      told from water on grass. In Mahaprabhu's own lifetime the Portuguese Barbosa wrote that the Bengalis wove
+      extremely fine cloths, coloured for themselves and white for sale, from which Arabs and Persians made caps and
+      women's veils. A piece was about twenty cubits long. The best thread was hand-spun from local cotton; under the
+      Mughals a piece of 10 × 2 cubits weighed little more than 50 grams and cost a fortune. In the hagiographies young
+      Nimai Pandit and the bridegroom Vishvambhara wear fine yellow cloth.
+  hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130"]
+  sources: ["Barbosa, пер. Stanley 1866, с. 179 (saravetis, mamuna, chautar, sinabafo; 20 локтей; цены)", "Taylor 1840, с. 168–172"]
+  images: []
+  game: {model: "полупрозрачное белое полотно, сквозь которое видна ладонь; в лавке — свёрнутые отрезы 20 локтей",
+         where: ["navadvipa/market"]}
+
+- id: mc-silk-kinds
+  title: {ru: "Шёлк: пат, тасар, мунга", en: "Silk: pat, tasar, muga"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Шёлк в житиях: шёлковые сари на свадьбе (Лочан, Ади ч. 10.84, ч. 14.135–148), шёлковое покрывало постели (Лочан
+      Ади ч. 2.123), шёлковое дхоти в подарок (Лочан Ади ч. 6.500), шёлковые верёвки Ратха-ятры. Сорта и места —
+      Mukharji 1888, с. 332 (XIX в.); Малда 1577 г. — по Бёрдвуду (там же).
+    en: >-
+      Silk in the hagiographies: silk saris at the wedding (Lochana, Adi pt. 10.84, pt. 14.135–148), a silk bedspread
+      (Lochana Adi pt. 2.123), a silk dhoti as a gift (Lochana Adi pt. 6.500), the silk ropes of Ratha-yatra. Kinds and
+      places — Mukharji 1888, p. 332 (19th c.); Malda 1577 — after Birdwood (ibid.).
+  text:
+    ru: >-
+      Шёлк в Бенгалии был трёх главных родов. *Пат* — шёлк тутового шелкопряда из долины Ганга (Малда, Муршидабад,
+      Раджшахи): уже в 1577 г. купец из Малды отправил три корабля малдайской ткани в Россию. *Тасар* — золотисто-
+      бурый шёлк дикого шелкопряда с западных лесистых холмов; *мунга* (муга) — блестящий жёлтый шёлк из Ассама.
+      Небелёный шёлк звали *кора*, белёный и вымытый — *гарад*. На свадьбе Вишвамбхары женщины надевали шёлковые сари,
+      а Шачи стелила сыну шёлковое покрывало.
+    en: >-
+      Bengal had three main silks. *Pat* — mulberry silk from the Ganges valley (Malda, Murshidabad, Rajshahi): as early
+      as 1577 a merchant of Malda sent three ships of Malda cloth to Russia. *Tasar* — the golden-brown silk of a wild
+      moth from the forested western hills; *munga* (muga) — a lustrous yellow silk from Assam. Unbleached silk was
+      called *kora*, bleached and washed silk *garad*. At Vishvambhara's wedding the women put on silk saris, and
+      Shachi spread a silk coverlet for her son.
+  hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 123", "Лочан, Ади-кханда, ч. 6, ст. 500", "Лочан, Ади-кханда, ч. 10, ст. 84",
+                "Лочан, Ади-кханда, ч. 14, ст. 135–148", "ЧЧ Мадхья 14.249"]
+  sources: ["Mukharji 1888, с. 332", "Taylor 1840, с. 176 (вышивка мунгой и тасаром)"]
+  images: []
+  game: {model: "три мотка: белый блестящий (пат), золотисто-бурый (тасар), жёлтый (мунга); сари гарад — белое с красной каймой",
+         where: ["navadvipa/market"]}
+  todo: "Бенгальские названия в оригинале Лочана (пат̣т̣а-вастра? кшаума?) — сверить."
+
+- id: mc-silk-for-worship
+  title: {ru: "Шёлк для поклонения и в награду", en: "Silk for worship and as an honour"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Награда шёлком — ЧЧ Антья 9.107–134 (*нета-дхат̣ӣ*), ЧБ Ади 4.133 (шёлковый тюрбан); шёлк Божеству — ЧБ Мадхья
+      9.66, Антья 10.96. Обычай носить шёлк (*гарад*) при пудже — N. G. Mukerji 1903, §2 и отчёт по Раджшахи (XIX в.,
+      «с ведийских времён»).
+    en: >-
+      Silk as a reward — CC Antya 9.107–134 (*neta-dhati*), CB Adi 4.133 (silk turban); silk for the Deity — CB Madhya
+      9.66, Antya 10.96. The custom of wearing silk (*garad*) for puja — N. G. Mukerji 1903, §2 and the Rajshahi report
+      (19th c., "from Vedic times").
+  text:
+    ru: >-
+      Шёлк считался чистой тканью: в нём садились за пуджу, в шёлке совершали свадебный обряд, а Господу в храме
+      подносили шёлковые одежды — белые, синие, жёлтые. Шёлком же награждали. Когда соседи нашли пропавшего малыша
+      Нимая, они хотели подарить тому, кто его принёс, новый шёлковый тюрбан. Царь Пратапарудра, простив Гопинатху
+      Паттанаяку долг, собственноручно надел на него шёлковую накидку — и тот пришёл к Махапрабху, неся её на голове
+      как знак милости.
+    en: >-
+      Silk was held to be a pure cloth: one sat for puja in it, the wedding rite was performed in it, and in the temple
+      the Lord was offered silk garments — white, blue and yellow. Silk was also a reward. When neighbours found the
+      lost baby Nimai, they wished to give whoever brought Him back a new silk turban. King Prataparudra, having
+      forgiven Gopinatha Pattanayaka his debt, put a silk cloth on him with his own hands — and Gopinatha came to
+      Mahaprabhu carrying it on his head as a sign of grace.
+  hagiography: ["ЧБ Ади 4.133", "ЧЧ Антья 9.107", "ЧЧ Антья 9.132–134", "ЧБ Мадхья 9.66", "ЧБ Антья 10.96"]
+  sources: ["N. G. Mukerji, Monograph on the Silk Fabrics of Bengal, 1903, §2; отчёт по Раджшахи (гарад-дхоти для молитвы)"]
+  images: []
+  game: {model: "белое шёлковое дхоти-гарад с узкой красной каймой; сложенная шёлковая накидка на голове Гопинатхи",
+         where: ["puri/temple", "mishra-house/thakur-ghar"]}
