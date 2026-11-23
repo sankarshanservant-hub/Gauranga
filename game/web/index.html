@@ -400,12 +400,11 @@ const ui = {
   waiting: null, choiceRes: null, entries: [],
   setObjective(t) { $('objective').textContent = t; },
   counter() { $('counter').textContent = `Быт: открыто ${Object.keys(found).length} из ${hsIds.length}`; },
-  say(speaker, text, ref, col, italic = false) {
+  say(speaker, text, ref, col, italic = false, who = '') {
     return new Promise((res) => {
       $('dlg').hidden = false; $('choices').innerHTML = '';
       $('dlgName').textContent = speaker;
-      $('portrait').textContent = speaker ? speaker[0] : '❧';
-      $('portrait').style.background = shade(col, -0.35);
+      setPortrait(who, speaker, col);
       const body = italic ? `<i>${esc(text)}</i>` : (speaker ? `«${esc(text)}»` : esc(text));
       $('dlgText').innerHTML = body;
       $('dlgRef').textContent = ref ? 'Источник: ' + ref : 'Игровой рассказ';
@@ -426,9 +425,10 @@ const ui = {
     });
   },
   advance() { if (this.waiting) this.waiting(); },
-  card(e) {
+  card(e, who = '') {
     $('cardKind').textContent = e.kind ?? ''; $('cardTitle').textContent = e.title ?? '';
-    let h = `<div>${esc(e.text ?? '')}</div>`;
+    let h = PORTRAITS.has(who) ? `<img src="portraits/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:200px;margin:4px 0 8px 16px;border:2px solid var(--gold);border-radius:6px">` : '';
+    h += `<div>${esc(e.text ?? '')}</div>`;
     if (e.divya) h += celestial ? `<p><i>${esc(e.divya)}</i></p>` : `<p class="note">Здесь есть и то, что видно лишь небесным зрением (Tab).</p>`;
     if (e.refs?.length) h += `<div class="refs"><b>В житиях:</b> ${e.refs.map(esc).join('; ')}</div>`;
     if (e.status === 'draft') h += `<div class="note">Черновик — уточнит историческая база.</div>`;
@@ -473,6 +473,12 @@ const ui = {
     v.style.opacity = on ? 1 : 0; await sleep(1600); if (AUTOPLAY && on) autoShot();
   },
 };
+const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor']);
+function setPortrait(who, speaker, col) {
+  const el = $('portrait');
+  if (PORTRAITS.has(who)) { el.textContent = ''; el.style.background = `#000 url(portraits/${who}.jpg) center 18% / cover no-repeat`; }
+  else { el.textContent = speaker ? speaker[0] : '❧'; el.style.background = shade(col, -0.35); }
+}
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 function shade(hex, f) { const c = new THREE.Color(hex); c.offsetHSL(0, 0, f * 0.5); return '#' + c.getHexString(); }
 $('dlg').addEventListener('click', () => ui.advance());
@@ -546,7 +552,7 @@ async function walkToHotspot(id) {
 }
 function openEntry(key, e) {
   if (key.startsWith('hs_') && !found[key]) { found[key] = true; ui.counter(); }
-  ui.addJournal(key, e); ui.card(e);
+  ui.addJournal(key, e); ui.card(e, key.startsWith('p:') ? key.slice(2) : '');
 }
 
 // ---------------------------------------------------------------- время суток, ощутимость, маркер
@@ -576,7 +582,7 @@ async function perceived(id) {
   const f = figs[id]; f.faceTo(player.pos);
   const away = new THREE.Vector3().subVectors(player.pos, f.pos).setY(0).normalize().multiplyScalar(3);
   player.walk(findPath(player.pos, f.pos.clone().add(away)));
-  await ui.say(f.name, PERCEPT[id], '', figColor(id), id === 'nimai');
+  await ui.say(f.name, PERCEPT[id], '', figColor(id), id === 'nimai', id);
 }
 function waitMarker(spot, hint) {
   marker.position.copy(spots[spot]); marker.visible = true;
@@ -607,7 +613,7 @@ async function step(s) {
     case 'drop': { const by = figs[s.by]; scene.attach(f.root); f.carried = false; by.carrying = false; by.pose = 'idle';
       f.pos.copy(nearest(by.pos.clone().add(off))); f.root.rotation.set(0, 0, 0); f.pose = 'idle'; break; }
     case 'say': { const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
-      await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who)); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
+      await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who), false, s.who); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
     case 'narrate': await ui.say('Шри Чайтанья-бхагавата', s.text, s.ref ?? '', '#8a6a2a', true); break;
     case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true); break;
     case 'hint': ui.hint(s.text); break;
