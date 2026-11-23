@@ -498,7 +498,11 @@
   hagiography: ["ЧЧ Антья 1.173", "ЧЧ Антья 7.60"]
   sources: []
   images: []
-  audio: []
+  audio:
+    - {file: "material-culture/audio/monsoon-night-pond-frogs-crickets-bankura.ogg", license: "PD", author: "prabuddhamukhopadhyay (radio aporee)",
+       url: "https://archive.org/details/aporee_64030_73837"}
+    - {file: "material-culture/audio/evening-crickets-frog-sea-roar-coxs-bazar.ogg", license: "PD", author: "Sukanta Majumdar (radio aporee)",
+       url: "https://archive.org/details/aporee_55132_63019"}
   game: {model: "частицы-светлячки у пруда ночью; звуковой фон сверчков/цикад/лягушек", where: ["mishra-house/pond", "navadvipa/fields"],
          notes: "в основном звуковое оформление — research/audio.md"}
   todo: "проверить в ЧЧ Антья 1.173, к кому обращается Рупа; найти в ЧБ/Лочане светлячков, сверчков, комаров (полог-машари)"

@@ -34,6 +34,9 @@
   hagiography: ["ЧЧ Мадхья 16.9", "ЧЧ Мадхья 16.282–283", "ЧЧ Антья 20.109", "ЧЧ Антья 1.78"]
   sources: []
   images: []
+  audio:
+    - {file: "material-culture/audio/monsoon-night-pond-frogs-crickets-bankura.ogg", license: "PD", author: "prabuddhamukhopadhyay (radio aporee)",
+       url: "https://archive.org/details/aporee_64030_73837"}
   game: {model: "смена сезонов в уровне: цвет полей, листва, погодные эффекты", where: ["navadvipa/fields"],
          notes: "таблица для дизайнеров: сезон → цвет полей, цветы, звуки (кокила весной, лягушки в дожди, шакалы зимой)"}
   todo: "слова «калбайсакхи» и «каша» — проверить по бенгальским PD-текстам XIX в."
@@ -201,7 +204,9 @@
   hagiography: ["ЧБ Антья 9.32–40", "ЧБ Антья 5.611–616", "ЧБ Антья 5.327"]
   sources: []
   images: []
-  audio: []
+  audio:
+    - {file: "material-culture/audio/summer-storm-rain-kolkata.ogg", license: "PD", author: "Sukanta Majumdar (radio aporee)",
+       url: "https://archive.org/details/aporee_55111_63012"}
   game: {model: "шквал: тёмное небо, пыль, гнущиеся пальмы, град, молния", where: ["navadvipa/lane", "puri"]}
   todo: "ЧБ Антья 9 — уточнить место эпизода (Пури?)"
 
@@ -265,6 +270,10 @@
   hagiography: ["ЧЧ Антья 4.118–124", "ЧЧ Антья 14.84–90", "ЧЧ Антья 2.153–154", "ЧЧ Антья 18.1–60"]
   sources: []
   images: []
-  audio: []
+  audio:
+    - {file: "material-culture/audio/bay-of-bengal-surf-coxs-bazar.ogg", license: "PD", author: "Sukanta Majumdar (radio aporee)",
+       url: "https://archive.org/details/aporee_55131_63018"}
+    - {file: "material-culture/audio/evening-crickets-frog-sea-roar-coxs-bazar.ogg", license: "PD", author: "Sukanta Majumdar (radio aporee)",
+       url: "https://archive.org/details/aporee_55132_63019"}
   game: {model: "белые дюны с кетаки, прибой, рыбацкие лодки на песке", where: ["puri/beach", "puri/chataka-parvata"],
          notes: "звук прибоя — research/audio.md"}
