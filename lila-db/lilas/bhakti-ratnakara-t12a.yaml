@@ -1519,7 +1519,7 @@
   order: 98
   title: "Адвайта с Ситой и домочадцами приходит к Господу в Навадвипу"
   summary: "Рама Пандит передаёт повеление; Адвайта в восторге премы, Сита-деви собирает всё для поклонения, и Адвайта с домочадцами идёт в Надию; Господь поспешно идёт в дом Шривасы им навстречу; затем в Своём доме Он плачет, зовя Пундарику Видьянидхи то отцом, то другом."
-  persons: ["@advaita", "@sita-thakurani", "@srirama-pandita", "@mahaprabhu", "@pundarika-vidyanidhi"]
+  persons: ["@advaita", "@sita-thakurani", "@srirama-pandita", "@mahaprabhu", "@srivasa", "@pundarika-vidyanidhi"]
   places: ["#shantipura", "#house-srivasa", "#house-jagannatha-mishra"]
   kind: lila
   authority: B

@@ -617,7 +617,7 @@
   order: 62
   title: "Победа над дигвиджаей Кешавой Кашмири; его преемство в нимбарка-сампрадае"
   summary: "Сидя с учениками на берегу Ганги, Господь слышит о дигвиджае, перед которым трепещут учителя Навадвипы; встретив его, Вишвамбхара просит описать Гангу, тот слагает трудные стихи, Господь толкует их и указывает ошибки; побеждённый, дигвиджаи по милости Сарасвати понимает: «Гаура — полный Брахман» — и принимает прибежище у Его стоп; Ишана перечисляет преемство его учителей от Нараяны, Хамсы, Санаки, Нарады и Нимбадитьи до Гокулы Бхатты, чьим учеником был Кешава Кашмири; стыдясь прежней гордыни, он подписывал описания лил «Лагху-Кешава»; повсюду славят: «Нимай Пандит — венец учителей»."
-  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@keshava-kashmiri", "@narada"]
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@srivasa", "@keshava-kashmiri", "@narada"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
   authority: B
@@ -1125,7 +1125,7 @@
   order: 85.5
   title: "Служанка Духкхи носит воду для абхишеки"
   summary: "Воду для абхишеки носит служанка Шриваса по имени Духкхи; видя её преданность, Господь даёт ей [новое] имя."
-  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@duhkhi-sukhi"]
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@srivasa", "@duhkhi-sukhi"]
   places: ["#navadvipa", "#house-srivasa"]
   kind: lila
   authority: B
@@ -1162,7 +1162,7 @@
   order: 109.75
   title: "Ворона уносит чашу Малини — по слову Нитьянанды приносит обратно"
   summary: "Когда бхава утихла, Господь садится здесь и уходит, оставив Нитьянанду у Шриваса; Нитьянанда видит Малини опечаленной: «Ворона унесла латунную чашу для гхи»; улыбнувшись, Он приказывает вороне, и та кладёт чашу перед Ним; Малини возносит Ему молитвы."
-  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@malini", "@mahaprabhu", "@gadadhara-pandita"]
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@malini", "@mahaprabhu", "@srivasa", "@gadadhara-pandita"]
   places: ["#navadvipa", "#house-srivasa"]
   kind: miracle
   authority: B
@@ -1375,7 +1375,7 @@
   order: 113.3
   title: "Мурари в облике Гаруды носит четырёхрукого Господа"
   summary: "В доме Шриваса Господь держит в четырёх руках раковину, диск, булаву и лотос; Мурари становится владыкой птиц, расправляет крылья, Господь садится ему на спину, и тот кружит по двору; затем Оба вновь становятся прежними."
-  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@murari-gupta"]
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@srivasa", "@murari-gupta"]
   places: ["#navadvipa", "#house-srivasa"]
   kind: lila
   authority: B
