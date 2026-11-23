@@ -590,6 +590,20 @@ and in the evening, after the ceremony at Vallabha's house, she received the bri
 brahmanas' wives and lavishly rewarded the brahmanas and musicians (CB, Adi 10.87, 116–118).
 <!-- F28 F80 F140 F176 F190 F203 -->
 
+Karnapura tells it otherwise: Shachi did not refuse the matchmaker but kept silent — “she did not [fully] trust his word,
+and wished to note the signs of the same [desire] in her son as well” (“Mahakavya” 3.15)[^n3]. The Lord, learning of it,
+asked His mother: “Why was your mind not inclined to agree with him? Why was what he said not approved? To act just so
+that a good and saintly man is pleased — in this a good man is the standard,” and Shachi at once sent for Vanamali: “Dear
+son, what has been proposed here — you yourself are the authority to carry out that very thing. You are most
+affectionate, a friend, our kin” (3.21–24). At the nandimukha-shraddha before the wedding she said to the brahmanas'
+wives: “It is not for me, bereft of my husband's lotus feet. This must be done by you yourselves,” and her son, recalling
+His father, wept. “Dear son, how can You, while performing an auspicious rite, shed tears from Your eyes? It is
+inauspicious!” said His mother. “Though I am bereft of My father, My power is unimpaired… We are always capable even of
+the deeds of immortals — and yet We do only what is customary in the world,” He answered, and she, comforting Him,
+anointed His chest with sandal and aguru (3.50–57). In the songs of the “Bhakti-ratnakara” Shachi, receiving the young
+couple, takes her daughter-in-law on her lap, blesses her with paddy and durva grass and kisses now her son's face, now
+her daughter-in-law's (12.1353–1354). <!-- F243 F244 F221 -->
+
 With Lakshmi's coming Shachi's house became like Vaikuntha. It was flooded with such light that at times Shachi could
 not see anything clearly; beside her son she saw tongues of flame, and the fragrance of the lotus spread through the
 house:
@@ -636,6 +650,21 @@ virtues… My son, having appointed you to serve me, went to foreign lands witho
 look at His face?” — and her relatives consoled her that the one eternal Reality is Krishna (CM, Adi-khanda, part 13,
 vv. 122–136). The neighbours and all the devotees helped to perform the last rites. <!-- F118 F143 F30 F191 -->
 
+Karnapura gives her lament most fully. Shachi, he says, considered her daughter-in-law “Shri [Lakshmi] embodied — as if
+another body of her son,” and, left alone with her, fixed on her “her greatly increased affection for her son”
+(“Mahakavya” 3.98–99); when the snake bit Lakshmi — the “Bhakti-ratnakara,” like Krishnadasa Kaviraja, calls it “the
+serpent of separation from the Lord” (12.1373) — Shachi summoned experts against poison, and when they proved helpless,
+herself carried her daughter-in-law to the bank of the Ganga (3.102–104). There, holding her on her lap, she lamented:
+
+“‘My son, your beloved, went away having entrusted you to me, the sorrowful one. How, then, deprived of you, shall I see
+His face — I, now the dwelling-place of sorrow alone?’” (“Mahakavya” 3.107)
+
+“‘You, who gave over the grief of separation from the lord of your life to shyness and to timidity before me — modest
+outwardly, tormented in your heart — lived thus every day.’” (“Mahakavya” 3.113)
+
+The funeral rites, says Karnapura, she performed herself and went home in tears: “How will my jewel of a son look upon
+the house thus empty of His wife?” (3.118). <!-- F245 F222 -->
+
 Returning with rich gifts, the Lord bowed to His mother and offered her all He had brought; Shachi, sorrowful, at once
 began to cook. The relatives, not wishing to grieve Him, kept silent. Later He came to His mother:
 
@@ -653,6 +682,13 @@ that He returned for this very purpose:
 In Lochana Dasa and Murari Gupta the Lord consoles her with the story of an apsara cursed by Indra to be born on earth,
 who became the wife of an incarnation of God[^10] — and Shachi, having listened to her son, “ceased grieving and thought
 of it no more” (CM, Adi-khanda, part 13, v. 157; “Kadacha” 1.12.8–18). <!-- F30 F143 F177 F191 F203 -->
+
+In Karnapura, seeing her son, “she did not feel such joy [as before]”: the separation from her daughter-in-law grew more
+intense through Him. Again and again He took the dust of her feet: “Mother, you seem as if dimmed. Why are you so? Pray,
+tell Me,” and, understanding everything from her tears, He said: “She could never have been a mere human being: she came
+to the earth for some purpose. I indeed know all of it — the cause for which she came to the earth and [for which] she
+departed thus. Therefore, Mother, give up your bewilderment in this matter” (“Mahakavya” 3.120–125). And Shachi “quickly
+attained supreme peace” (3.126). <!-- F245 F222 -->
 
 For a long time pain tormented Shachi's heart, but in time she began to think of her son's happiness and searched all
 Navadvipa for a new bride for Him. Vishnupriya, the daughter of the raja-pandita Sanatana Mishra, she had known long:
@@ -676,6 +712,10 @@ The brahmana messenger added that Vishnupriya would justify her name — she wou
 obtained Krishna — and the mother rejoiced still more (CM, Adi-khanda, part 13, vv. 39–42; “Kadacha” 1.13.10–15).
 <!-- F95 F32 F31 F144 F96 F97 F192 F81 -->
 
+Karnapura too names the matchmaker: Shachi, “undaunted in spirit,” summoned the brahmana Kashinatha: “Let Sanatana, the
+best of brahmanas, be asked to give his daughter to my son” (“Mahakavya” 3.127–128); the “Bhakti-ratnakara” says that
+Kashinatha arranged the marriage “by the order of Sri Shachi” (12.1381). <!-- F246 F222 -->
+
 On the eve of the wedding Shachi with the women performed puja to the Ganga, went with music to worship the goddess
 Shashthi, visited the houses of relatives and lavishly gave the women puffed rice, bananas, oil, betel and kumkum:
 
@@ -689,6 +729,12 @@ some to Rama and Sita; and at the house Shachi was waiting with the virtuous wom
 daughter-in-law and led her into the house (CB, Adi 15.205–213; “Kadacha” 1.14.33). From then on, says Murari, the Lord
 lived at home, gladdening His mother and wife (“Kadacha” 1.15). <!-- F98 F144 F99 F107 F203 -->
 
+In the songs of the “Bhakti-ratnakara” the women go to fetch water for the rite “at the order of Shachi-devi,” Gaura
+“places His mother's foot-dust on His head and sets out,” and the mother with the women waits for the young couple at the
+gate (12.1429, 1491, 1603); “Shachi, joyful,” says Karnapura, led her daughter-in-law into her house (“Mahakavya” 3.144).
+And afterwards Vishnupriya “devoted herself to the service of Vishnu and the service of Sri Shachi… By the service of Devi
+Vishnupriya Ai passes day and night in great bliss” (“Bhakti-ratnakara” 12.1618–1619). <!-- F223 F246 -->
+
 Then the Lord performed the shraddha for His father and prepared to go to Gaya. He asked His mother's permission (CB,
 Adi 17.12), and her heart was set aflame:
 
@@ -698,7 +744,12 @@ vv. 11–12)
 
 He consoled her with sweet words and left. And when He returned and bowed at her feet, Shachi embraced her son, and
 tears of love and joy streamed from her eyes (CM, Adi-khanda, part 15, vv. 14, 105–106). But it was a different Nimai
-who had come back from Gaya. <!-- F145 F193 -->
+who had come back from Gaya. Karnapura says that the Lord went to Gaya together with the husband of His mother's sister (“Mahakavya”
+4.21). Learning that her son was returning, Shachi filled the house with music and festivity; the Lord “again and again
+took with His palm the dust from His mother's feet and placed it on His head,” and she gave to brahmanas, musicians and
+mendicants “the wealth she had secretly stored up from her means” (4.69–75). According to the “Bhakti-ratnakara,” she
+went out to the gate and asked people how far away Vishvambhara was, and on meeting Him “with tearful eyes she looks at
+[His] face again and again” (12.1627–1630). <!-- F145 F193 F247 F224 -->
 
 ## The Son Returned from Gaya
 Shachi looked at her son and forgot herself for joy (CB, Madhya 1.18). But what had happened to Him she could not
@@ -743,6 +794,10 @@ tears. What great soul has appeared in our family?” — and in awe she did not
 Madhya 2.202–214). Thus for a moment the Lord's majesty veiled her motherly love; but each time vatsalya, guarded by
 yogamaya, prevailed, and to her He was again only her son. <!-- F149 F34 -->
 
+“My boy, always stay with Nimai” — so the “Bhakti-ratnakara” too gives her words to Gadadhara; there too the neighbours
+advise Ai to treat her son for “vayu” with cooling remedies, and she sends word to Srivasa (12.1667–1669, 1676).
+<!-- F224 -->
+
 Soon the mother herself received what He had brought from Gaya. Krishnadasa Kaviraja says it in a single line:
 
 “He gave love to Shachi; then He met Advaita, and Advaita beheld His universal form” (CC, Adi 17.10)
@@ -764,11 +819,26 @@ recognised the signs of prema and humbly begged Him for it; the Lord answered, �
 this will come to be for you,” and Shachi, “devotion personified”, obtained firm devotion to Hari (“Kadacha”
 2.1.9–18).[^12] <!-- F194 F204 F82 F177 -->
 
+Karnapura tells of it close to Murari: one night Shachi, “seeing for the first time the weeping of her son as He lay
+[in bed],” understood “by the dispensation of providence” that “it is prema, love”:
+
+“‘You give me all the wealth [You have] — why then do You not now give [me] that [wealth] called prema? This love which
+You obtained at Gaya — unknown to the gods, exceedingly hard to attain — give it here to me, a wretched woman, O dear
+child, if Your affection for me remains even for a moment.’” (“Mahakavya” 5.4–5)
+
+“O Mother, it will surely be yours in time, when the very great mercy of the Vaishnavas comes to you,” He answered, and
+asked the brahmanas to bless His mother (5.6–8). The “Bhakti-ratnakara” remembers the place where the Lord instructed His
+mother in the mood of Kapila: “Ai, the mother of the world, is the embodiment of prema-bhakti; to her the Lord here
+imparted prema” (12.1647–1648). <!-- F248 F224 -->
+
 Lochana Dasa tells of another night too. In the third watch Vishvambhara suddenly began to weep, and Shachi, waking,
 asked, “Why are You weeping, child? Hearing Your weeping, I burn all over.” He was long silent, and then, sitting up on
 the bed, told her His dream: He had seen a Youth shining like a fresh raincloud, with a crest of peacock feathers, in
 yellow garments and with a flute in His hand. “Do not tell anyone,” He asked, and the mother rejoiced at these
 nectarean words (CM, Madhya-khanda, part 6, vv. 5–13). <!-- F83 F195 -->
+
+In Karnapura He answers: “O Mother, overwhelmed by sleep, I have seen Him — the Sweet One, the Sweet One!” — and,
+hearing her son, “Shachi at once rejoiced, the hair on her body standing on end” (“Mahakavya” 7.2, 12). <!-- F251 -->
 
 ## Two Sons
 In those years a joy came to dwell in Shachi's house such as she had not known before: once more she had two sons. At
@@ -802,6 +872,10 @@ On her son's chest she saw her daughter-in-law too, like Lakshmi on the chest of
 Shachi fell unconscious, the food scattered about the room; the Lord lifted her up, and she, saying nothing, went away
 into another room all in tears (8.66–71). <!-- F151 F48 -->
 
+The “Bhakti-ratnakara” gives this dream in Shachi's own words: “Nityananda, calling ‘Mother!’, came up to me. He says to
+me, ‘I am hungry, give me rice, Mother!’ Hearing these words, I woke from my sleep” — and it is Ishana who tells of it,
+who then brought the Brothers water for Their feet and gathered the remnants of the meal (12.1823–1835). <!-- F225 -->
+
 The remnants of that meal were cleared away and reverently eaten by Ishana:
 
 “He is the most fortunate in all the fourteen worlds, for all his life he served mother Shachi.” (CB, Madhya 8.74)
@@ -828,6 +902,13 @@ Navadvipa,” and the mother, embracing Nityananda, said, “You have become my 
 that you have said, mother, is true: I am your son — know it for certain,” answered Nityananda, and “seeing her two
 sons, Shachi was comforted at heart” (CM, Madhya-khanda, part 5, vv. 80+10–80+11, 81–90).[^14] <!-- F153 F104 F195 -->
 
+The “Bhakti-ratnakara” says the same: “she regards Nityananda as [her] son, like Vishvarupa,” and at the Vyasa-puja Ai,
+“seeing Nimai and Nitai, was filled with equal affection [for both]” (12.1899, 2465); Nityananda, after swimming in the
+Ganga, would come running “to see Ai” (12.2536). In the morning songs of the “Gaura-charita-chintamani” Shachi, taking
+hold of Sita's feet, asks her to bless both: “This child is the star of my eyes… And I say more: this Nitai is my
+Vishvarupa, [my] life and soul; grant this boon — that [they] may not be parted even for half a moment” (6.4).
+<!-- F226 F260 -->
+
 At home the Lord spent time with Vishnupriya, for He knew that this gladdened His mother (CB, Madhya 11.67–68). But more
 and more the house became for Him a place of ecstasy. His mother would say, “Son, go and bathe in the Ganga,” and He
 would answer, “Mother, chant the names of Rama and Krishna”;
@@ -847,7 +928,10 @@ He only if He receives inspiration from above.” (CB, Madhya 13.373)
 “Gazing at the lotus face of her son, Shachi, the Mother of the universe, forgot where she was.” (CB, Madhya 13.375)
 
 Together with her daughter-in-law she prayed to Govinda as she beheld her son, and was wholly filled with bliss (CB,
-Madhya 19.270). <!-- F152 F154 F156 -->
+Madhya 19.270). Karnapura says that after the nights of dancing in Srivasa's house the Lord
+always returned home, “spreading for His mother that brimming joy” (“Mahakavya” 5.124), and in the “Bhakti-ratnakara”
+Ai with her daughter-in-law, beholding the nagara-kirtana, “was overwhelmed with prema” (12.2071).
+<!-- F152 F154 F156 F250 F226 -->
 
 ## In the House of Chandrashekhara
 When the Lord resolved to play the role of Lakshmi in the house of Chandrashekhara Acharya, her sister's husband, Shachi
@@ -862,7 +946,10 @@ had known Him from birth:
 come to dance?’” (CB, Madhya 18.131)
 
 And when the play was over and all were weeping with love of God, the pious women fell at Shachi's feet (18.197).
-<!-- F155 F35 -->
+Karnapura too says that the brahmanas' wives “together with Shachi-devi, very quietly entered the house” and
+watched secretly from the veranda (“Mahakavya” 11.3–4); according to the “Bhakti-ratnakara,” when the Lord in the mood of
+the Mother gave everyone milk from the breast, Ai “in great rapture” went home with her daughter-in-law (12.2921, 2927).
+<!-- F155 F35 F253 F228 -->
 
 ## Shachi and Advaita
 Even in Nimai's childhood Shachi used to send Him to Advaita's house to call Vishvarupa to the meal, and Advaita, looking
@@ -907,6 +994,15 @@ example of His own mother, “as the instructing spiritual master”, He warned 
 One can be freed from an offence against a Vaishnava only by asking forgiveness of that Vaishnava himself. But Shachi too
 set an example: having given birth to Gaurahari, she was not in the least proud, and on understanding her fault she went
 to Advaita without delay. <!-- I2 I3 F157 -->
+
+The “Bhakti-ratnakara” tells this lila briefly: Shachi had only one thought — “Acharya Gosani has taken my two sons!” —
+and “as soon as she thought this, fear arose [in her]. This was the only offence Ai committed” (12.2002–2003). Kavi
+Karnapura tells of the gift of prema differently. On the night of the great revelation in Srivasa's house the mother
+came and, “trembling… standing before the Lord, she was afraid”; the Lord turned His face away, Srivasa reproached Him,
+and said to Shachi: “He is not your son! Quickly fall to the ground and bow down [to Him]!” — and prayed: “Show mercy to
+her, then, O Bhagavan, O Lord, so that she may not regard You as a son, so that she may surrender at Your feet.” The Lord
+placed His foot on her head, and she, “shedding copious tears from her eyes, became bewildered… and, all shame utterly
+lost, she gave herself up to unrestrained dancing” (“Mahakavya” 5.82–90)[^n4]. <!-- F227 F249 -->
 
 ## Before the Sannyasa
 The anxiety that Shachi had carried in her heart ever since her son's return from Gaya was gradually taking shape.
@@ -1474,3 +1570,13 @@ ever separate you and Me”; and He still appears in her house, for where He is 
     repeating the talk of the Vedantists, not His teaching; the “Chaitanya-charitamrita” calls what He said then
     transcendental knowledge (Adi 14.71–75), and in Vrindavana Dasa the Boy says that where He is there is nothing impure
     (CB, Adi 7.166–179).
+[^n3]: According to the “Chaitanya-bhagavata” (Adi 10.57) and in Lochana Dasa, Shachi refused the matchmaker; Karnapura
+    says that she kept silent (“Mahakavya” 3.15–16); the “Bhakti-ratnakara” says only that Vanamali “speaks with Mother
+    Shachi of a marriage” (12.1237).
+[^n4]: Karnapura says nothing of the offence to Advaita: the mercy comes through Srivasa's intercession — thus the Lord's
+    promise “by the mercy of the Vaishnavas” is fulfilled (“Mahakavya” 5.6). According to the “Chaitanya-bhagavata” and
+    the “Bhakti-ratnakara,” the mother obtained prema by taking the dust of Advaita's feet (CB, Madhya 22.52; BR 12.2005).
+    Srivasa's words “so that she may not regard You as a son” refer to the moment of the revelation of majesty; Shachi
+    herself is the eternal mother of the Lord, Yashoda (CC, Adi 17.294), and her vatsalya is not a stage to be left
+    behind: even on seeing Krishna in her son, she “in her tenderness does not give up her kinship [with Him]” (CM,
+    Madhya-khanda, part 14, v. 212).
