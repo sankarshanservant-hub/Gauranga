@@ -154,13 +154,14 @@
     ru: >-
       «Всякий, кто живёт в твоём доме, даже кошка или собака (*вид̣а̄ла-куккура*)» — ЧБ Мадхья 8.20–21; коровы и быки
       как «мать и отец» человека — ЧЧ Ади 17.153; змеи в хижинах в половодье — Sen 1911, с. 252–253 (обобщение).
-      Домашние попугаи и майны в наших житиях не найдены: попугаи шука и шари — только в лесах и садах (ЧЧ Мадхья
-      17.199, Антья 19.80).
+      Домашние попугаи и майны в ЧЧ/ЧБ прямо не названы (шука и шари — в лесах и садах: ЧЧ Мадхья 17.199, Антья
+      19.80); см. mc-parrots-mynas (fauna.yaml). Змея в доме Мишры — mc-snakes, щенок Нимая — mc-puppy.
     en: >-
       'Anyone who lives in your house, even a cat or a dog (vidala-kukkura)' — CB Madhya 8.20–21; cows and bulls as
       man's 'mother and father' — CC Adi 17.153; snakes in huts at flood time — Sen 1911, pp. 252–253 (generalisation).
-      Pet parrots and mynas were not found in our hagiographies: the shuka and shari parrots appear only in forests and
-      gardens (CC Madhya 17.199, Antya 19.80).
+      Pet parrots and mynas are not named directly in CC/CB (shuka and shari appear in forests and gardens: CC Madhya
+      17.199, Antya 19.80); see mc-parrots-mynas (fauna.yaml). The snake in Mishra's house — mc-snakes; Nimai's puppy —
+      mc-puppy.
   text:
     ru: >-
       Рядом с людьми в бенгальском доме жили кошки и собаки: Господь благословил Шриваса, сказав, что любовь к Нему
@@ -178,7 +179,7 @@
   sources: ["Sen 1911, с. 252–253 (змеи в постелях и кувшинах в половодье) — через research/pd-texts.md"]
   images: []
   game: {model: "кошка на веранде, бродячая собака у ворот; змея в углу хижины в сезон дождей (событие)",
-         where: ["mishra-house/courtyard", "mishra-house/lane"], notes: "попугая в клетке не ставить без источника эпохи (см. todo)"}
+         where: ["mishra-house/courtyard", "mishra-house/lane"], notes: "птицы — mc-parrots-mynas, змеи — mc-snakes, скот — mc-cattle-buffalo (fauna.yaml)"}
   todo: "найти PD-свидетельство XV–XVI в. о домашних попугаях/майнах в Бенгалии (мангала-кавья: «шука-шари» в клетке?)"
 
 - id: mc-shivananda-dog

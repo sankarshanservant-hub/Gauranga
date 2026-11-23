@@ -504,39 +504,6 @@
   game: {model: "персонаж: Мурари Гупта с узелком трав и сосудиками масел; каменная ступка для лекарств",
          where: ["navadvipa/murari-house"]}
 
-- id: mc-barber
-  title: {ru: "Цирюльник (напита)", en: "The barber (napita)"}
-  rubric: town
-  era_evidence: hagiography
-  evidence_note:
-    ru: >-
-      Цирюльник (*на̄пита*) садится перед Господом в Катве для обряда санньясы, все плачут, и он не может начать; голову
-      бреют до вечера — ЧБ Мадхья 28.139–152; Санатану бреют в Варанаси перед новой жизнью — ЧЧ Мадхья 20.68–70. Имя
-      цирюльника (Дева или Мадху) — по Sen 1911, с. 389 (через research/pd-texts.md), источник проверить.
-    en: >-
-      The barber (napita) sits before the Lord at Katwa for the sannyasa rite; everyone weeps and he cannot begin; the
-      head is shaved by evening — CB Madhya 28.139–152; Sanatana is shaved at Varanasi before his new life — CC Madhya
-      20.68–70. The barber's name (Deva or Madhu) — after Sen 1911, p. 389 (via research/pd-texts.md); source to check.
-  text:
-    ru: >-
-      Цирюльники-напиты обходили дома с ящиком бритв и ножниц: брили бороды и головы, стригли ногти, а на обрядах —
-      рождения, упанаяны, свадьбы и траура — были обязательными помощниками. Самый горький день в жизни
-      бенгальского цирюльника описан в житиях: в Катве ему велели обрить прекрасные длинные волосы Нимая перед
-      санньясой. Вокруг стоял такой плач, а Господь так громко восклицал «Хари бол!», что цирюльник не мог поднять руку,
-      и голову обрили лишь к вечеру.
-    en: >-
-      Napita barbers went from house to house with a box of razors and scissors: they shaved beards and heads, pared
-      nails, and at the rites of birth, the sacred thread, marriage and mourning they were indispensable assistants.
-      The bitterest day in a Bengali barber's life is told in the hagiographies: at Katwa he was told to shave Nimai's
-      beautiful long hair before His sannyasa. Such weeping rose round him, and the Lord cried 'Hari bol!' so loudly,
-      that the barber could not lift his hand, and the head was shaved only by evening.
-  hagiography: ["ЧБ Мадхья 28.139–152", "ЧЧ Мадхья 20.68–70"]
-  sources: ["Sen 1911, с. 389 (имя цирюльника; длинные волосы бенгальцев до XVI в.) — через research/pd-texts.md"]
-  images: [{file: "material-culture/img/tayler-1842-village-bengal-barber.jpg", license: "PD (Public Domain Mark 1.0)",
-            author: "William Tayler, литограф O. Bouvier, 1842 (позднее, для облика)", url: "https://wellcomecollection.org/works/xdevqe2e"}]
-  game: {model: "цирюльник на корточках, бритва-клинок без рукояти-складня, медная чашечка с водой, зеркальце",
-         where: ["katwa/keshava-bharati-ashram"], notes: "⚠ складная «опасная» бритва европейского типа — анахронизм"}
-
 - id: mc-fisherman
   title: {ru: "Рыбак с сетью", en: "The fisherman and his net"}
   rubric: town
@@ -635,41 +602,6 @@
   game: {model: "плуг: изогнутая рукоять-грядиль из цельного дерева 1,5–2 м, железный лемех-наконечник, ярмо на двух горбатых быков; серп с зубчатым лезвием; мотыга-кодал",
          where: ["navadvipa/fields"], notes: "о молотьбе и веянии — mc-kula, о толчее — mc-dhenki"}
   todo: "PD-описание бенгальского плуга (Mukharji 1888 или Hunter 1875, раздел «Agriculture»)"
-
-- id: mc-weights-measures
-  title: {ru: "Весы и меры: рати, тола, ман, кура", en: "Weights and measures: rati, tola, maund, kura"}
-  rubric: town
-  era_evidence: epoch
-  evidence_note:
-    ru: >-
-      «Десять-двадцать *ма̄нов* пищи» (шутка Адвайты) — ЧЧ Мадхья 3.86; «семь тол золота» — Антья 6.146; меняла
-      взвешивает кольцо — «16 рати и 2 дхана» — у Мукундарама (Sen 1911, с. 353–357, через research/pd-texts.md);
-      ложная мера земли «кура = 15 катха» — Sen 1911, с. 337; «две куды земли (около 174 локтей в квадрате)» — Кхана,
-      Sen 1911, с. 19. Числовые значения мер для XVI в. — проверить.
-    en: >-
-      'Ten or twenty maunds of food' (Advaita's joke) — CC Madhya 3.86; 'seven tolas of gold' — Antya 6.146; a
-      money-changer weighs a ring — '16 ratis and 2 dhans' — in Mukundaram (Sen 1911, pp. 353–357, via
-      research/pd-texts.md); a false land measure 'a kura measured as 15 kathas' — Sen 1911, p. 337; 'two kudas of land
-      (about 174 cubits square)' — Khana, Sen 1911, p. 19. The values of the measures for the 16th c. are to be checked.
-  text:
-    ru: >-
-      Золото и серебро взвешивали на маленьких коромысловых весах гирьками из красных семян абруса — рати; восемь
-      рати — маша, а около ста — тола. Зерно и продукты мерили объёмом и весом в манах (позднее — около 37 кг), землю —
-      катхами и бигхами, ткань — локтями. Мера была делом совести и власти: поэт Мукундарам горько жалуется, что при
-      злом правителе землю обмеряли ложной меркой, а Адвайта в шутку пенял Господу, что Тот может съесть «двадцать
-      манов риса», а где взять столько бедному брахману?
-    en: >-
-      Gold and silver were weighed on small beam scales with weights of red abrus seeds — ratis; eight ratis made a
-      masha, about a hundred a tola. Grain and food were measured by volume and weight in maunds (later about 37 kg),
-      land in kathas and bighas, cloth in cubits. A measure was a matter of conscience and of power: the poet
-      Mukundaram complains bitterly that under a harsh governor land was surveyed with a false measure, and Advaita
-      teased the Lord that He could eat 'twenty maunds of rice' — and where was a poor brahmin to find so much?
-  hagiography: ["ЧЧ Мадхья 3.86", "ЧЧ Антья 6.146"]
-  sources: ["Sen 1911, с. 19 (Кхана: куда земли), 337 (ложная мера кура), 353–357 (весы менялы: рати, дхан)"]
-  images: []
-  game: {model: "коромысловые весы с двумя медными чашками на шнурах, набор красно-чёрных семян абруса; плетёная мера для зерна",
-         where: ["navadvipa/market"], notes: "ман XVI в. ≠ британский ман 1833 г. (82 2/7 фунта) — в игре не указывать кг"}
-  todo: "значения рати/маши/толы и мана в Бенгальском султанате — PD (Prinsep, Useful Tables 1834–1858)"
 
 - id: mc-pathshala
   title: {ru: "Пашшала — первая школа: буквы и лигатуры", en: "The pathshala — first school: letters and ligatures"}
@@ -781,7 +713,7 @@
   sources: []
   images: []
   game: {model: "джая-патра: свиток или стопка листов с подписями побеждённых учёных; дигвиджайи в паланкине со свитой",
-         where: ["ganga-ghat", "navadvipa/tol"]}
+         where: ["ganga-ghat", "navadvipa/tol"], notes: "школьные потасовки у гхатов подробно — mc-schoolboy-disputes (life.yaml)"}
   todo: "значения званий (Сарвабхаума, Видьявачаспати и др.) как степеней тола — PD-источник"
 
 - id: mc-sacred-books
