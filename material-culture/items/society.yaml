@@ -1,0 +1,286 @@
+# Рубрика «Город и труд» (town), исполнитель society: власть и порядок, деньги и цены, профессии и инструменты, учёба.
+# Формат — material-culture/README.md. Проверка: python3 material-culture/tools/check.py
+# Выписки и журнал — research/society-notes.md, research/society-log.md. Каури — см. mc-cowrie-money (town.yaml).
+
+- id: mc-sultan-gauda
+  title: {ru: "Султан Гауды Хусейн-шах", en: "Husain Shah, Sultan of Gauda"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Царь Бенгалии» Хусейн-шах приезжает к Санатане, заключает его под стражу, идёт войной на Ориссу — ЧЧ Мадхья
+      19.18–30; запрещает препятствовать Господу в Рамакели — ЧЧ Мадхья 1.168–181, ЧБ Антья 4.55–66 («если полгода не
+      платить жалованья слугам — устроят заговор»; «разрушил храмы Ориссы» — 4.67, 4.78); прошлое Хусейна-хана,
+      слуги Субуддхи Рая — ЧЧ Мадхья 25.180–186. Годы правления Алауддина Хусейн-шаха (1493–1519) — общепринятая
+      датировка по монетам и надписям (уточнить по PD: Stewart 1813, Blochmann).
+    en: >-
+      The 'king of Bengal' Husain Shah visits Sanatana, puts him under guard and makes war on Orissa — CC Madhya
+      19.18–30; forbids anyone to hinder the Lord at Ramakeli — CC Madhya 1.168–181, CB Antya 4.55–66 ('if I do not
+      pay my servants for six months they will plot against me'; 'he destroyed the temples of Orissa' — 4.67, 4.78);
+      Husain Khan's past as Subuddhi Raya's servant — CC Madhya 25.180–186. The reign of Alauddin Husain Shah
+      (1493–1519) is the accepted dating from coins and inscriptions (to verify in PD: Stewart 1813, Blochmann).
+  text:
+    ru: >-
+      Бенгалией в юности Господа правил султан Алауддин Хусейн-шах; его столица Гауда стояла на Ганге, у нынешнего
+      Малды, и рядом с ней — деревня Рамакели, где жили его министры Рупа и Санатана. Жития помнят, что прежде он был
+      простым служащим у землевладельца Субуддхи Рая, а став царём, вёл войны с Ориссой и разорял её храмы. Но когда
+      ему рассказали о Шри Чайтанье в Рамакели, султан признал: тот, за кем без жалованья идут тысячи, — не простой
+      человек, и велел никому не чинить Ему препятствий, «будь то кази или начальник стражи».
+    en: >-
+      In the Lord's youth Bengal was ruled by Sultan Alauddin Husain Shah; his capital Gauda stood on the Ganga near
+      present-day Malda, and beside it lay the village of Ramakeli, where his ministers Rupa and Sanatana lived. The
+      hagiographies remember that he had once been a mere employee of the landholder Subuddhi Raya, and that as king
+      he warred with Orissa and ravaged its temples. Yet when he was told of Shri Chaitanya at Ramakeli, the sultan
+      admitted that one whom thousands follow without pay is no ordinary man, and ordered that no one hinder Him,
+      'be he qazi or chief of the watch'.
+  hagiography: ["ЧЧ Мадхья 1.166–181", "ЧЧ Мадхья 19.18–30", "ЧЧ Мадхья 25.180–186", "ЧБ Антья 4.55–67", "ЧБ Антья 4.78"]
+  sources: []
+  images: [{file: "material-culture/img/creighton-1808-gaur-gateway-tomb-husain-shah.jpg", license: "PD (Public Domain Mark 1.0)",
+            author: "James Moffat по рисунку Henry Creighton, ок. 1808", url: "https://wellcomecollection.org/works/s4ad6rk9"}]
+  game: {model: "руины Гауды: кирпичные ворота с остроконечной аркой; в сцене — султан в тюрбане и кафтане с одним спутником",
+         where: ["gauda/ramakeli"], notes: "о двух братьях-министрах — mc-royal-ministers"}
+  todo: "даты и титулатура Хусейн-шаха — по PD (Stewart, History of Bengal 1813; Blochmann, JASB 1873–75)"
+
+- id: mc-royal-ministers
+  title: {ru: "Царская служба: Дабир Кхас и Сакар Маллик", en: "Royal service: Dabir Khas and Sakar Mallik"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рупа — министр Дабир Кхас — ЧЧ Мадхья 1.175–181, 1.207; ЧБ Ади 1.171, 13.192; «Сакар Маллик и Рупа» — ЧБ Антья
+      9.239; Санатана, сказавшись больным, перестаёт ездить ко двору, его дела ведут подчинённые; султан присылает
+      лекаря проверить — ЧЧ Мадхья 19.13–23; Рупа увозит деньги на лодке, делит их и оставляет 10 000 монет у
+      торговца — 19.6–9, 19.34; зять Санатаны Шрикант закупает коней для султана на 3 лакха — 20.38–39. Значение
+      титулов (перс. *дабир-и хас* — личный секретарь; *сакар/сагир маллик* — младший сановник?) — уточнить.
+    en: >-
+      Rupa as the minister Dabir Khas — CC Madhya 1.175–181, 1.207; CB Adi 1.171, 13.192; 'Sakar Mallik and Rupa' — CB
+      Antya 9.239; Sanatana, pleading illness, stops attending court, his subordinates do his work, and the sultan
+      sends a physician to check — CC Madhya 19.13–23; Rupa takes money home by boat, divides it and leaves 10,000
+      coins with a merchant — 19.6–9, 19.34; Sanatana's brother-in-law Shrikanta buys horses for the sultan with 3
+      lakhs — 20.38–39. The meaning of the titles (Pers. dabir-i khas — private secretary; sakar mallik?) is to be
+      verified.
+  text:
+    ru: >-
+      Султану служили не только мусульмане: братья Рупа и Санатана, учёные брахманы, были его ближайшими министрами и
+      носили персидские титулы — Дабир Кхас и Сакар Маллик. Они вели переписку и казну двора, жили в Рамакели в
+      богатых домах, ездили ко двору и держали подчинённых. Султан так нуждался в Санатане, что, когда тот сказался
+      больным, прислал своего лекаря, а потом приехал сам. Уходя к Господу, Рупа увёз богатство на лодках: половину
+      раздал брахманам и вайшнавам, четверть — родне, а остальное оставил на хранение у знакомого купца.
+    en: >-
+      Not only Muslims served the sultan: the brothers Rupa and Sanatana, learned brahmins, were his closest ministers
+      and bore Persian titles — Dabir Khas and Sakar Mallik. They handled the court's correspondence and treasury,
+      lived in fine houses at Ramakeli, rode to court and kept subordinates. The sultan needed Sanatana so badly that
+      when he pleaded illness the sultan sent his own physician and then came in person. Leaving for the Lord, Rupa
+      took his wealth away by boat: half he gave to brahmins and Vaishnavas, a quarter to his kin, and the rest he left
+      in the keeping of a merchant he knew.
+  hagiography: ["ЧЧ Мадхья 1.175–181", "ЧЧ Мадхья 1.207", "ЧБ Антья 9.239", "ЧЧ Мадхья 19.4–23", "ЧЧ Мадхья 19.34",
+                "ЧЧ Мадхья 20.38–39"]
+  sources: []
+  images: []
+  game: {model: "персонажи-сановники: тонкое дхоти и верхняя ткань при дворе — кафтан и тюрбан (⚠ уточнить придворную одежду индусов на службе султана)",
+         where: ["gauda/ramakeli"]}
+  todo: "придворный костюм индусов-чиновников Бенгальского султаната; точное значение «сакар маллик»"
+
+- id: mc-kazi
+  title: {ru: "Кази Навадвипы", en: "The qazi of Navadvipa"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Чханд Кази разбивает мридангу и запрещает киртан под угрозой лишения касты и имущества; шествие с факелами к его
+      дому; беседа о коровах и Коране — ЧЧ Ади 17.124–177; «если падишах узнает, накажет» — ЧЧ Ади 17.195. Подробно —
+      ЧБ Мадхья 23.101–420 (шествие).
+    en: >-
+      Chand Kazi breaks a mridanga and forbids kirtan on pain of loss of caste and property; the torchlit procession to
+      his house; the dialogue on cows and the Quran — CC Adi 17.124–177; 'if the padishah hears of it he will punish
+      you' — CC Adi 17.195. In detail — CB Madhya 23 (the procession).
+  text:
+    ru: >-
+      Кази — мусульманский судья, назначенный султаном; в Навадвипе он судил, следил за порядком и мог наказывать
+      индусов. Когда по всему городу зазвучал киртан, мусульмане пожаловались, и Чханд Кази вошёл в дом, разбил
+      мридангу и пригрозил отнять касту и имущество у всякого, кто будет петь. В ответ Господь вывел вечером весь город
+      с факелами и светильниками к дому кази. Испуганный кази сначала спрятался, а потом вышел, назвал Нимая
+      «племянником» — дед Господа Ниламбара Чакраварти был ему как дядя — и после долгого спора о коровах и писаниях
+      обещал больше не мешать киртану.
+    en: >-
+      The qazi was a Muslim judge appointed by the sultan; in Navadvipa he judged cases, kept order and could punish
+      Hindus. When kirtan rang out all over town, Muslims complained, and Chand Kazi entered a house, broke a mridanga
+      and threatened to take caste and property from anyone who sang. In answer the Lord led the whole town in the
+      evening with torches and lamps to the qazi's house. The frightened qazi hid at first, then came out, called Nimai
+      'nephew' — the Lord's grandfather Nilambara Chakravarti had been like an uncle to him — and after a long debate
+      on cows and scriptures promised never again to hinder kirtan.
+  hagiography: ["ЧЧ Ади 17.124–177", "ЧЧ Ади 17.195", "ЧБ Мадхья 23.101–420"]
+  sources: []
+  images: []
+  game: {model: "дом кази с садом за глинобитной стеной; разбитая мриданга (событие)", where: ["navadvipa/kazi-house"]}
+
+- id: mc-prison-sanatana
+  title: {ru: "Тюрьма Санатаны и подкуп стража", en: "Sanatana's prison and the bribed jailer"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 19.27–34 (заключение), 20.3–15 (письмо Рупы, предложение 5000 *мудра̄*, затем груда в 7000; кандалы;
+      ночная переправа через Гангу). Устройство тюрьмы не описано.
+    en: >-
+      CC Madhya 19.27–34 (imprisonment), 20.3–15 (Rupa's letter, an offer of 5,000 mudras, then a heap of 7,000;
+      shackles; crossing the Ganga by night). The prison itself is not described.
+  text:
+    ru: >-
+      Отказавшись идти с султаном в поход на Ориссу, Санатана оказался в заточении, в кандалах. Рупа оставил ему письмо и
+      10 000 монет у купца. Санатана сначала уговаривал начальника тюрьмы, мусульманина, отпустить его ради
+      благочестия и обещал пять тысяч монет; тот боялся гнева царя. Тогда Санатана высыпал перед ним груду в семь тысяч
+      и научил, что сказать: узник прыгнул в реку в кандалах и утонул. Той же ночью страж снял с него оковы и
+      переправил через Гангу.
+    en: >-
+      Having refused to go with the sultan on campaign against Orissa, Sanatana was imprisoned in shackles. Rupa had
+      left him a letter and 10,000 coins with a merchant. Sanatana first urged the jailer, a Muslim, to free him for
+      piety's sake and promised five thousand coins; the man feared the king's anger. Then Sanatana poured out a heap
+      of seven thousand before him and told him what to say: the prisoner jumped into the river in his chains and
+      drowned. That same night the jailer struck off his fetters and ferried him across the Ganga.
+  hagiography: ["ЧЧ Мадхья 19.27–34", "ЧЧ Мадхья 20.3–15"]
+  sources: []
+  images: []
+  game: {model: "кирпичное помещение с решёткой, железные ножные кандалы; ночная лодка на Ганге", where: ["gauda/prison"]}
+
+- id: mc-gajapati-court
+  title: {ru: "Царь Ориссы Пратапарудра и его сановники", en: "King Prataparudra of Orissa and his officers"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Указ наместникам строить для Господа дома с припасами, новые лодки на переправах, памятные колонны; министры
+      Харичандан и Мангарадж; знатные женщины на слонах в крытых паланкинах — ЧЧ Мадхья 16.110–122, 16.150–157;
+      сыновья Бхавананды Рая на службе (Рамананда, Гопинатха, Ванинатха) — ЧЧ Антья 9.13–54; Рамананда — правитель
+      провинции, едет к реке на паланкине с музыкантами — ЧЧ Мадхья 8.14. Годы Пратапарудры (ок. 1497–1540) —
+      общепринятые, проверить по PD (Hunter, Orissa 1872).
+    en: >-
+      An order to governors to build houses with provisions for the Lord, new boats at the crossings, memorial columns;
+      the ministers Harichandana and Mangaraja; noble ladies on elephants in covered howdahs — CC Madhya 16.110–122,
+      16.150–157; Bhavananda Raya's sons in service (Ramananda, Gopinatha, Vaninatha) — CC Antya 9.13–54; Ramananda as
+      a provincial governor comes to the river in a palanquin with musicians — CC Madhya 8.14. Prataparudra's years
+      (c. 1497–1540) are the accepted ones; to verify in PD (Hunter, Orissa 1872).
+  text:
+    ru: >-
+      Орисса была отдельным царством, и её царь-гаджапати Пратапарудра считал себя слугой Джаганнатхи. Страной он
+      правил через наместников и сановников-каранов: целая семья Бхавананды Рая служила ему — Рамананда был правителем
+      южной провинции, Гопинатха собирал подати, Ванинатха служил при дворе. Когда Господь пошёл в Бенгалию, царь
+      разослал по стране указ: в каждой деревне поставить для Него новые дома с припасами, на каждой реке держать
+      новую лодку, а на местах омовения Господа ставить памятные столбы; знатные женщины выехали проститься с Ним на
+      слонах.
+    en: >-
+      Orissa was a separate kingdom, and its gajapati king Prataparudra counted himself Jagannatha's servant. He ruled
+      the land through governors and karana officers: the whole family of Bhavananda Raya served him — Ramananda
+      governed the southern province, Gopinatha collected revenue, Vaninatha served at court. When the Lord set out for
+      Bengal, the king sent an order across the land: in every village new houses with provisions were to be built
+      for Him, a new boat kept ready at every river, and memorial pillars set up where the Lord bathed; noble ladies
+      rode out on elephants to see Him off.
+  hagiography: ["ЧЧ Мадхья 16.110–122", "ЧЧ Мадхья 16.150–157", "ЧЧ Мадхья 8.14", "ЧЧ Антья 9.13–54"]
+  sources: []
+  images: []
+  game: {model: "царский указ на пальмовом листе; гонцы; слон с крытым паланкином-хаудой", where: ["puri/palace", "road-to-puri"],
+         notes: "царь с золотой метлой — mc-king-sweeper (puri.yaml)"}
+
+- id: mc-revenue-collector
+  title: {ru: "Сборщик податей и его казнь на мечах", en: "The revenue collector and the sword platform"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Гопинатха Паттанаяк собирает подати в Маладжатхья Дандапате; недостача «2 лакха кахан каури» (*дуилакш̣а
+      ка̄хана кауд̣и*); предлагает в уплату коней; царевич велит сбросить его с помоста на мечи; царь прощает и удваивает
+      жалованье, дарит шёлковую ткань — ЧЧ Антья 9.13–54, 9.110–135. Бенгальские сборщики Хиранья и Говардхана — ЧЧ
+      Антья 3.165, 6.17–34; главный сборщик Гопала Чакраварти — 3.188.
+    en: >-
+      Gopinatha Pattanayaka collects revenue in Malajathya Dandapata; a shortfall of '2 lakh kahans of cowries' (duilaksha
+      kahana kaudi); he offers horses in payment; the prince orders him thrown from a platform onto swords; the king
+      forgives him, doubles his pay and gives him a silk cloth — CC Antya 9.13–54, 9.110–135. Bengali collectors Hiranya
+      and Govardhana — CC Antya 3.165, 6.17–34; the chief collector Gopala Chakravarti — 3.188.
+  text:
+    ru: >-
+      Подати в Бенгалии и Ориссе собирали откупщики и чиновники: они отвечали перед царём головой и нередко оставляли
+      часть себе. У Гопинатхи Паттанаяка, брата Рамананды Рая, недостача составила два лакха кахан каури — более 250
+      миллионов раковин. Он предлагал в уплату своих коней, но поссорился с царевичем, и тот велел поднять его на помост
+      и сбросить на выставленные внизу мечи. Махапрабху отказался вмешиваться — «Я нищий санньяси», — но по милости
+      Джаганнатхи царь простил долг, удвоил Гопинатхе жалованье и пожаловал шёлковую накидку.
+    en: >-
+      Revenue in Bengal and Orissa was gathered by tax-farmers and officials who answered to the king with their heads
+      and often kept a share. Gopinatha Pattanayaka, Ramananda Raya's brother, fell short by two lakh kahans of cowries
+      — over 250 million shells. He offered his horses in payment but quarrelled with the prince, who ordered him raised
+      on a platform and thrown onto swords set below. Mahaprabhu refused to intervene — 'I am a beggar sannyasi' — but by
+      Jagannatha's grace the king forgave the debt, doubled Gopinatha's pay and granted him a silk cloth.
+  hagiography: ["ЧЧ Антья 9.13–54", "ЧЧ Антья 9.110–135", "ЧЧ Антья 3.165", "ЧЧ Антья 3.188", "ЧЧ Антья 6.17–34"]
+  sources: ["шкала: 1 кахан = 16 пан = 1280 каури (пословный ЧЧ Антья 9.19; ср. mc-cowrie-money)"]
+  images: []
+  game: {model: "помост-чанга из брёвен высотой 3–4 м, внизу — вбитые остриём вверх мечи (событие)", where: ["puri/palace"]}
+
+- id: mc-silver-taka
+  title: {ru: "Серебряная тангка (така) и «монеты» житий", en: "The silver tanka (taka) and the 'coins' of the hagiographies"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      В житиях крупные суммы названы просто *мудра̄* «монета» (ЧЧ Мадхья 19.9, 20.8, 20.14, 20.39; Антья 6.146, 6.151,
+      6.259) — металл не указан, перевод «золотые» — толкование. Серебряная *тангка* как главная монета индийских
+      султанов XIII–XIV вв., «по сути то же, что позднейшая рупия», и бенгальское *така* = рупия — HJ 1903, s.v. TANGA
+      (с. 896–897), TUCKA (с. ~940). Серебряные тангки бенгальских султанов XV–XVI вв. известны по нумизматике (найти PD).
+    en: >-
+      The hagiographies name large sums simply as mudra 'coin' (CC Madhya 19.9, 20.8, 20.14, 20.39; Antya 6.146, 6.151,
+      6.259) — the metal is not stated; 'gold' in translation is interpretation. The silver tanka as the main coin of
+      the Indian sultans in the 13th–14th c., 'substantially the same with the rupee of later days', and Bengali taka =
+      rupee — HJ 1903, s.v. TANGA (pp. 896–897), TUCKA (p. ~940). The silver tankas of the Bengal sultans of the
+      15th–16th c. are known from numismatics (find PD).
+  text:
+    ru: >-
+      Над мелочью-каури стояла серебряная монета — тангка, предок рупии: бенгальцы и сегодня называют рупию «така».
+      Султаны Бенгалии чеканили её с арабскими надписями, без изображений. Такими монетами считали жалованье, подати,
+      цену коней, взятки и дары: Рупа оставил у купца десять тысяч монет, Санатана высыпал перед тюремщиком семь тысяч,
+      а Рагхунатха раздавал спутникам Нитьянанды по пять, десять и двадцать. Простой человек мог за всю жизнь не
+      держать в руках столько серебра.
+    en: >-
+      Above the small change of cowries stood the silver coin — the tanka, ancestor of the rupee: Bengalis still call
+      the rupee 'taka'. The sultans of Bengal struck it with Arabic legends and no images. Such coins counted pay,
+      revenue, the price of horses, bribes and gifts: Rupa left ten thousand coins with a merchant, Sanatana poured out
+      seven thousand before his jailer, and Raghunatha gave Nityananda's companions five, ten or twenty each. An ordinary
+      man might never in his life hold so much silver.
+  hagiography: ["ЧЧ Мадхья 19.9", "ЧЧ Мадхья 20.8", "ЧЧ Мадхья 20.14", "ЧЧ Мадхья 20.39", "ЧЧ Антья 6.146–153", "ЧЧ Антья 6.259"]
+  sources: ["Hobson-Jobson (1903), s.v. TANGA, с. 896–897; s.v. TUCKA, с. ~940"]
+  images: []
+  game: {model: "круглая серебряная монета Ø ок. 2,5–3 см, ≈10,6 г, арабская надпись с обеих сторон, без изображений (⚠ размеры проверить)",
+         where: ["navadvipa/market"]}
+  todo: "PD-каталог монет бенгальских султанов (напр. Lane-Poole, Catalogue of Indian Coins in the British Museum: Sultans of Delhi / Bengal, 1884–85) — вес и вид тангки Хусейн-шаха; найти свободное фото"
+
+- id: mc-gold-mohur
+  title: {ru: "Золотые мохуры и толы золота", en: "Gold mohurs and tolas of gold"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      У слуги Ишаны «восемь золотых мохуров» (*суварн̣ера аш̣т̣а мохара*) — ЧЧ Мадхья 20.19, 20.24–35; Рагхунатха дарит
+      «семь тол золота» и «две толы» (*сон̣а̄ тола̄-са̄те*) — ЧЧ Антья 6.146, 6.153; золото, серебро и монеты среди даров
+      Ситы — ЧЧ Ади 13.112–113. Мохур — от перс. *muhr* «печать»; золотая монета с ок. 1200 г. ≈ 100 рати чистого
+      золота — HJ 1903, s.v. MOHUR, GOLD (с. ~572).
+    en: >-
+      The servant Ishana has 'eight gold mohurs' (suvarnera ashta mohara) — CC Madhya 20.19, 20.24–35; Raghunatha gives
+      'seven tolas of gold' and 'two tolas' (sona tola-sate) — CC Antya 6.146, 6.153; gold, silver and coins among
+      Sita's gifts — CC Adi 13.112–113. Mohur is from Pers. muhr 'seal'; a gold coin since c. 1200 of about 100 ratis of
+      pure gold — HJ 1903, s.v. MOHUR, GOLD (p. ~572).
+  text:
+    ru: >-
+      Золото ходило редко и стоило дорого: им платили за крупное и прятали на чёрный день. Слуга Санатаны Ишана тайком
+      нёс в пути восемь золотых мохуров, и в горах Патара предводитель разбойников-бхуйя через гадателя узнал о них и
+      собирался ночью убить путников. Санатана отругал слугу — «зачем ты несёшь то, что может стоить нам жизни?» — и
+      сам отдал золото разбойнику, а тот, тронутый честностью, провёл его через горы. Золото считали и по весу — толами
+      (около 11–12 г): Рагхунатха пожертвовал на праздник Нитьянанды семь тол золота.
+    en: >-
+      Gold circulated rarely and was dear: it paid for big things and was hidden against a rainy day. Sanatana's
+      servant Ishana secretly carried eight gold mohurs on the road, and in the Patara hills a bandit chief, a bhuiya,
+      learned of them through a fortune-teller and planned to kill the travellers at night. Sanatana scolded the
+      servant — 'why carry what may cost us our lives?' — and gave the gold to the bandit himself, who, moved by his
+      honesty, led him across the hills. Gold was also reckoned by weight in tolas (about 11–12 g): Raghunatha gave
+      seven tolas of gold for Nityananda's festival.
+  hagiography: ["ЧЧ Мадхья 20.16–35", "ЧЧ Антья 6.146", "ЧЧ Антья 6.153", "ЧЧ Ади 13.112–113"]
+  sources: ["Hobson-Jobson (1903), s.v. MOHUR, GOLD, с. ~572"]
+  images: []
+  game: {model: "золотая монета Ø ок. 2 см с арабской надписью, завязанная в узелок на поясе дхоти", where: ["road-to-vrindavan/patara-hills"]}
+  todo: "вес толы в Бенгалии XVI в. (позднее 180 гран ≈ 11,66 г) — проверить для эпохи"
