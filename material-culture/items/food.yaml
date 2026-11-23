@@ -963,13 +963,13 @@
     ru: >-
       *на̄рикела-ш́асйа, чха̄на̄, ш́аркара̄ мадхура* — ЧЧ Мадхья 3.48 (кокос, чхана, сладкое с сахаром; в переводе — «простокваша»);
       *чха̄на̄, па̄на̄, паид̣а…* — Мадхья 14.26 (в переводе — «йогурт»); *чха̄на̄-бад̣а̄* — 15.210 («жареные творожники»);
-      разночтение к Антья 10.119 — «падмачини, чхана» («Анубхашья»); «Анубхашья» к Антья 18.106: гангаджала и др. — «лепёшки
+      разночтение к Антья 10.109 — «падмачини, чхана» («Анубхашья»); «Анубхашья» к Антья 18.106: гангаджала и др. — «лепёшки
       из творога (чханы) с сахаром». Джаянанда (ок. 1560): «творог-чхена», *чхана-бара*, *маччха-чхена*, *чхана* (фр. 10,
       дв. 20, 25; Васу 1897). Значит, чхана как кушанье известна текстам XVI — нач. XVII в.; когда появился прессованный
       сандеш из чханы — вопрос открыт (см. mc-sandesh).
     en: >-
       chhana with coconut and sugar — CC Madhya 3.48 (translated "curd"); chhana among Jagannatha's prasada — Madhya
-      14.26; chhana-bada — 15.210; a variant reading at Antya 10.119; Anubhashya on Antya 18.106: "cakes of chhana with
+      14.26; chhana-bada — 15.210; a variant reading at Antya 10.109; Anubhashya on Antya 18.106: "cakes of chhana with
       sugar". Jayananda (c. 1560): chhena, chhana-bara, maccha-chhena. So chhana as a dish is known to 16th — early
       17th-c. texts; when pressed chhana sandesh appeared remains open (see mc-sandesh).
   text:
@@ -994,10 +994,357 @@
       better) — at hand; sprinkle whey into the vessel, pour in hot milk, more whey, little by little, until the curds
       gather "in a fluffy cake"; drain on a cloth. Chhana-bada: knead fresh chhana, shape cakes and fry in ghee (cf.
       chhana-bhaja pp. 49–50), optionally into syrup.
-  hagiography: ["ЧЧ Мадхья 3.48", "ЧЧ Мадхья 14.26", "ЧЧ Мадхья 15.210", "ЧЧ Антья 10.119 (разночтение)",
+  hagiography: ["ЧЧ Мадхья 3.48", "ЧЧ Мадхья 14.26", "ЧЧ Мадхья 15.210", "ЧЧ Антья 10.109 (разночтение)",
                 "ЧЧ Антья 18.106", "Джаянанда, фр. 10, дв. 20, 25"]
   sources: ["Миштанна-пак 1898, с. 48–50 (чхана на старой сыворотке; чхана-бхаджа)",
             "«Анубхашья» к ЧЧ Антья 10.109 (разночтение «падма-чини, чхана»), к Антья 18.106"]
   images: []
   game: {model: "белые творожные комочки на листе; золотистые творожные оладьи", where: ["mishra-house/kitchen"],
          notes: "не рисовать узорный прессованный сандеш — его форма поздняя"}
+
+- id: mc-ambal
+  title: {ru: "Амбал и мадхурамла — кислое и кисло-сладкое", en: "Ambal and madhuramla — sour and sweet-sour dishes"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *мадхура̄мла-бад̣а̄, амла̄ди па̄̐ча-чхайа* — ЧЧ Мадхья 3.49 («пять-шесть кислых»); *мадхура̄мла, бад̣а̄мла̄ди амла
+      па̄̐ча чхайа* — 15.214 («Анубхашья»: мадхурамла — чатни, сладко-кислое; бадамла — кислое с бадами); *мадхура̄мла* —
+      Антья 10.135. Кислое — перед сладким в конце трапезы (Sen 1911, с. 247–248; Амиш 1902, с. 21). Рецепты — Пак-
+      пранали, гл. 14, с. 451–453.
+    en: >-
+      madhuramla-bada, five or six sour dishes — CC Madhya 3.49; 15.214 (Anubhashya: madhuramla is chatni, sweet-sour;
+      badamla — sour with badas); Antya 10.135. Sour comes before the final sweets (Sen 1911 pp. 247–248; Amish 1902
+      p. 21). Recipes — Pak-pranali ch. 14 pp. 451–453.
+  text:
+    ru: >-
+      Ближе к концу трапезы подают кислое — амбал (амла): жидкое блюдо из зелёного манго, тамаринда, ягод кул или
+      лимона, сваренное с горчицей и пажитником, иногда с бадами; а «мадхурамла» — то же, но с гуром или сахаром, сладко-
+      кислое, вроде чатни. Кислое «освежает рот» после жирного и готовит к сладостям. У Адвайты и у Сарвабхаумы Господу
+      подали по пять-шесть кислых блюд, а в Пури бенгальские хозяйки баловали Его мадхурамлой.
+    en: >-
+      Towards the end of the meal comes the sour — ambal (amla): a thin dish of green mango, tamarind, kul berries or
+      lemon cooked with mustard and fenugreek, sometimes with badas; madhuramla is the same with gur or sugar, sweet-sour,
+      like a chutney. Sourness "refreshes the mouth" after rich food and prepares for the sweets. At Advaita's and at
+      Sarvabhauma's the Lord was served five or six sour dishes, and in Puri the Bengali housewives spoiled Him with
+      madhuramla.
+  recipe:
+    ru: >-
+      Реконструкция по Пак-пранали, с. 452 («кадам-пхулер амбал» — из цветков кадамбы; приём общий для амбала): в масле или
+      гхи бросить зёрна горчицы и пажитника, накрыть, пока не отщёлкают; положить кислую основу (зелёное манго, ягоды кул,
+      тамаринд — «сырой тамаринд лучше, спелый чернит»), обжарить, добавить куркуму, соль, воду; проварить до густоты; по
+      желанию — бади; в конце взбитая паста горчицы с маслом («вкус как у амбала с кашанди»). Для мадхурамлы — гур. Вариант
+      на соке финиковой пальмы (с. 453): утренний свежий сок (не дневной, забродивший) уваривают, снимая пену.
+    en: >-
+      Reconstruction after Pak-pranali p. 452 (an ambal of kadamba flowers; the method is general): crackle mustard and
+      fenugreek seed in oil or ghee under a lid; add the sour base (green mango, kul, tamarind — "raw tamarind is better,
+      ripe blackens"), fry, add turmeric, salt and water; cook until thick; optionally bari; at the end whipped mustard
+      paste with oil. For madhuramla add gur. A variant on date-palm sap (p. 453): fresh morning sap, not fermented
+      midday sap, reduced while skimming.
+  hagiography: ["ЧЧ Мадхья 3.49", "ЧЧ Мадхья 15.214", "ЧЧ Антья 10.135"]
+  sources: ["Пак-пранали, с. 451–453 (амбалы: кадам-пхул, финиковый сок; тамаринд)", "«Анубхашья» к ЧЧ Мадхья 15.214",
+            "Амиш 1902, с. 21 (порядок подачи: … калия, амбал, пайас, дахи, кхира, сладости)"]
+  images: []
+  game: {model: "чашечка из листа с жидким желтоватым кислым супом с кусочками манго", where: ["mishra-house/kitchen"]}
+
+- id: mc-kasundi-achar
+  title: {ru: "Кашанди и ачар — горчичный соус и соленья", en: "Kasundi and achar — mustard sauce and pickles"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 10.15–16 (*а̄мра-ка̄ш́анди, а̄да̄-джха̄ла-ка̄ш́анди, нембу-а̄да̄, а̄мра-кали, а̄мси, а̄ма-кхан̣д̣а, таила̄мра, а̄ма-сатта̄*),
+      10.18 (*ш́укта̄-па̄та̄-ка̄ш́анди*), 10.24 («сто видов ачара»); Мадхья 14.34 (*лембу-кула-а̄ди… а̄ча̄ра* — лимонные и ююбовые
+      соленья, «Анубхашья»); Мадхья 15.90 (*ка̄ш́амр̣ди, а̄ча̄ра* — у Рагхавы). «Анубхашья» к Антья 10.16: тайламра — манговый
+      ачар в горчичном масле. Рецепты — Пак-пранали, с. 441–443; ама-сатта — Миштанна-пак, с. ~278.
+    en: >-
+      CC Antya 10.15–16 (mango kasundi, ginger kasundi, lemon-ginger, mango buds, amsi, mango pieces, tailamra,
+      ama-satta), 10.18, 10.24 ("a hundred kinds of achar"); Madhya 14.34 (lemon and jujube pickles); Madhya 15.90
+      (kashamdi and achar at Raghava's). Anubhashya on Antya 10.16: tailamra — mango pickle in mustard oil. Recipes —
+      Pak-pranali pp. 441–443.
+  text:
+    ru: >-
+      Кашанди — острый бенгальский соус из молотой и выдержанной на солнце горчицы, часто с зелёным манго; ачар — соленья
+      из манго, лимона, ягод кул, имбиря в соли и горчичном масле. Их делают весной и в начале лета, когда много зелёных
+      манго, и хранят в глиняных кувшинах, время от времени выставляя на солнце. Сушёная на солнце пастила из спелого манго
+      (ама-сатта) хранится до следующего сезона. Всё это Дамаянти сложила в мешки Рагхавы, и Господь в Пури целый год ел
+      понемногу её соленья.
+    en: >-
+      Kasundi is a pungent Bengali sauce of ground, sun-cured mustard, often with green mango; achar are pickles of
+      mango, lemon, kul berries and ginger in salt and mustard oil. They are made in spring and early summer when green
+      mangoes abound and kept in clay jars, set out in the sun now and then. Sun-dried leather of ripe mango (ama-satta)
+      keeps until the next season. All this Damayanti packed into Raghava's bags, and in Puri the Lord ate a little of
+      her pickles all year long.
+  recipe:
+    ru: >-
+      Реконструкция «джхал-кашанди» по Пак-пранали, с. 442–443: горчица 5 серов + рай-горчица ½ сера; перебрать, промыть
+      4–5 раз, высушить на солнце, смолоть; понемногу заливать горячей водой, мешая палкой, полчаса, до состояния
+      «глины»; сушить на солнце 8–10 дней; добавить зелёное манго (½ мана) и толочь в дхенки 3–4 раза с промежутками по
+      два дня, суша на солнце, пока не станет «как воск»; смешать с солью (1½ сера) и чистым горчичным маслом. Хранить,
+      иногда выставляя на солнце. «Лебу-джара» (с. 441–442): целые лимоны с ¼ веса соли выдерживают, пока не «созреют».
+      Ама-сатта: сок спелого манго тонким слоем сушить на солнце слой за слоем.
+    en: >-
+      Reconstruction of jhal-kasundi after Pak-pranali pp. 442–443: mustard seed with some rai; pick over, wash 4–5
+      times, sun-dry, grind; add hot water little by little, stirring half an hour, to a "clay"; sun-dry 8–10 days; add
+      green mango and pound in the dhenki 3–4 times at two-day intervals, sun-drying, until "like wax"; mix with salt and
+      pure mustard oil. Keep, sunning it now and then. Lebu-jara (pp. 441–442): whole lemons cured with a quarter of
+      their weight in salt. Ama-satta: ripe mango juice sun-dried layer upon layer.
+  hagiography: ["ЧЧ Мадхья 14.34", "ЧЧ Мадхья 15.90", "ЧЧ Антья 10.15–24"]
+  sources: ["Пак-пранали, с. 441–443 (джхал-кашанди, тетул-кашанди, лебу-джара)", "«Анубхашья» к ЧЧ Мадхья 14.34, Антья 10.16",
+            "Миштанна-пак 1898, с. ~278 (амсаттвер шарбат — ама-сатта)"]
+  images: []
+  game: {model: "глиняные кувшины с горловиной под тканью на солнце; плитки оранжевой манговой пастилы на циновке",
+         where: ["mishra-house/courtyard", "mishra-house/storeroom"]}
+
+- id: mc-dadhi-bhat
+  title: {ru: "Дадхи-бхат с лимоном и имбирём — простая еда, которую любил Господь", en: "Curd-rice with lemon and ginger — the simple food the Lord loved"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 10.146–151 (у Шивананды Сена Господь переел дорогого прасада; на другой день его сын Чайтанья дас принёс
+      *дадхи, лембу, а̄да̄, пхула-бад̣а̄, лаван̣а* — «этот мальчик понял Мою мысль»; Господь ест *дадхи-бха̄та* и отдаёт ему
+      остатки); *лембу-а̄да̄-кхан̣д̣а* — Мадхья 15.55 (у Шачи: имбирь с лимоном); *са̄рдрака* (имбирный салат) — Мадхья 3.45;
+      *а̄да̄, лаван̣а, лембу* — Антья 10.135; Мадхья 12.167 (Господь просит себе *ла̄пхра̄-вйан̃джана* — простое овощное).
+    en: >-
+      CC Antya 10.146–151 (at Shivananda Sena's the Lord overate rich prasada; next day his son Chaitanya dasa brought
+      curd, lemon, ginger, phula-bada and salt — "this boy knows My mind"; the Lord eats curd-rice and gives him the
+      remnants); lembu-ada-khanda — Madhya 15.55; sardraka — Madhya 3.45; ginger, salt, lemon — Antya 10.135; Madhya
+      12.167 (the Lord asks for plain lapra vegetables).
+  text:
+    ru: >-
+      Роскошные пиры Господь принимал из любви к преданным, а Сам предпочитал простое. Когда Шивананда Сен накормил Его
+      дорогим прасадом сверх меры, на следующий день юный Чайтанья дас принёс лишь простоквашу, лимон, имбирь, соль и
+      пышные бады. Господь обрадовался: «Этот мальчик знает, чего Я хочу», — съел рис с простоквашей и отдал мальчику
+      остатки. Нарезанный свежий имбирь с солью и лимоном (сардрака) — закуска «для огня пищеварения»: её подавали в
+      начале трапезы и у Шачи, и у Адвайты.
+    en: >-
+      The Lord accepted lavish feasts out of love for His devotees, but Himself preferred simple food. When Shivananda
+      Sena had fed Him too much rich prasada, the next day young Chaitanya dasa brought only curd, lemon, ginger, salt and
+      puffy badas. The Lord was delighted: "This boy knows what I want," ate rice with curd and gave the boy the remnants.
+      Sliced fresh ginger with salt and lemon (sardraka) is a relish "for the digestive fire": it was served at the start
+      of the meal both at Shachi's and at Advaita's.
+  recipe:
+    ru: >-
+      Житие: варёный рис + дадхи (простокваша) + соль; к нему лимон (лембу), свежий имбирь (ада) кусочками и пхула-бада.
+      Реконструкция «бхат макха» по Амиш 1902, с. 45: горячий рис помять с гхи и щепотью соли, натереть коркой лимона-
+      «каламба» с солью (растирать о камень — «чем больше трёшь, тем сильнее аромат»), перемешать.
+    en: >-
+      The text: boiled rice + dadhi (curd) + salt, with lemon, fresh ginger pieces and phula-bada. Reconstruction of
+      "bhat makha" after Amish 1902 p. 45: mash hot rice with ghee and a pinch of salt, rub with lemon peel and salt
+      ("the more you rub, the stronger the scent"), mix.
+  hagiography: ["ЧЧ Мадхья 3.45", "ЧЧ Мадхья 12.167", "ЧЧ Мадхья 15.55", "ЧЧ Антья 10.135", "ЧЧ Антья 10.146–151"]
+  sources: ["Амиш 1902, с. 45 (бхат макха: рис с гхи, солью и лимонной коркой)"]
+  images: []
+  game: {model: "горка белого риса с простоквашей, половинка лимона, ломтики имбиря, щепоть соли на краю листа",
+         where: ["puri/shivananda-lodging"]}
+
+- id: mc-coconut-water
+  title: {ru: "Кокосовая вода для Кришны: служение Рагхавы Пандита", en: "Coconut water for Krishna: Raghava Pandita's service"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 15.70–84: на рынке кокос стоит *па̄̐ча ган̣д̣а̄* (5 ганда = 20 каури), а Рагхава платит *ча̄ри ча̄ри пан̣а* (по
+      4 паны = 320 каури) за плод, привозя их за *даш́а-крош́а*; ежедневно 5–7 кокосов очищают и *суш́ӣтала… джале д̣уба̄н̃а̄*
+      — держат в воде, чтобы охладить; срезают верх и подносят; затем раскалывают и подносят мякоть. Слуга коснулся
+      притолоки — кокосы выброшены. Пить сок молодого кокоса — ЧБ Мадхья 8.293. Охлаждение в воде — Миштанна-пак 1898, с. 278.
+    en: >-
+      CC Madhya 15.70–84: in the market a coconut costs 5 ganda (20 cowries), but Raghava pays 4 pana (320 cowries)
+      each, fetching them from ten kroshas; daily 5–7 coconuts are husked and kept in water to cool, the top cut and
+      offered; then split and the flesh offered. A servant touched the lintel — the coconuts were thrown away. Drinking
+      green-coconut water — CB Madhya 8.293. Cooling in water — Mishtanna-pak 1898 p. 278.
+  text:
+    ru: >-
+      Молодой зелёный кокос — лучший напиток жаркого дня: внутри до стакана сладковатой прохладной воды и нежная
+      мякоть. У Рагхавы Пандита в Панихати сотни пальм, но он искал самые сладкие кокосы за десять крош и платил за плод
+      в шестнадцать раз дороже рыночной цены. Каждый день он держал 5–7 очищенных кокосов в воде, чтобы охладились,
+      срезал верхушку и подносил Кришне — и порой Кришна выпивал всё до капли. Однажды слуга, держа кокосы, задел рукой
+      притолоку, куда оседает пыль со стоп прохожих, — и Рагхава выбросил их за ограду: подношение должно быть чистым.
+    en: >-
+      A young green coconut is the best drink on a hot day: inside, up to a glass of sweetish cool water and tender
+      flesh. Raghava Pandita at Panihati had hundreds of palms, yet he sought the sweetest coconuts ten kroshas away and
+      paid sixteen times the market price. Each day he kept 5–7 husked coconuts in water to cool, cut off the top and
+      offered them to Krishna — and sometimes Krishna drank every drop. Once a servant holding the coconuts brushed the
+      lintel, where dust from passers-by's feet settles — and Raghava threw them over the fence: an offering must be pure.
+  hagiography: ["ЧЧ Мадхья 15.69–84", "ЧБ Мадхья 8.293"]
+  sources: ["Миштанна-пак 1898, с. 278 («дабер джал»: кокос держат в холодной воде 3–4 часа, срезают верх, кладут кусочек мисри)"]
+  images: []
+  game: {model: "очищенные зелёные кокосы со срезанной верхушкой в глиняном тазу с водой", where: ["panihati/raghava-house"],
+         notes: "цена: 1 кокос = 20 каури на рынке; у Рагхавы — 320 каури"}
+
+- id: mc-buttermilk-rasala
+  title: {ru: "Пахта, расала и шикхарини — молочные напитки", en: "Buttermilk, rasala and shikharini — dairy drinks"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *дадхи, дугдха, ма̄т̣ха̄, ш́икхарин̣ӣ… матхани, сара* — ЧЧ Мадхья 4.74; *дадхи-дугдха, нанӣ, такра, раса̄ла̄, ш́икхарин̣ӣ* —
+      14.33 («Анубхашья»: такра — пахтанье, гхол; расала — шербет, пана); *гхола* — 15.210; *раса̄ла̄-матхита дадхи* — 15.218;
+      шикхарини как образ сладости — Антья 1.128. Пахта в джьяйштху — «Дак-вачана» (Sen 1911, с. 24). Свойства пахты (такра)
+      по «Бхава-пракаше» — Амиш 1902, с. 40.
+    en: >-
+      dadhi, milk, matha, shikharini, mathani, sara — CC Madhya 4.74; takra, rasala, shikharini — 14.33 (Anubhashya:
+      takra is buttermilk, ghol; rasala is sherbet, pana); ghola — 15.210; rasala-mathita dadhi — 15.218; shikharini —
+      Antya 1.128. Buttermilk in Jyaishtha — Dak-vachana (Sen 1911 p. 24).
+  text:
+    ru: >-
+      Когда из простокваши сбивают масло, остаётся пахта — такра, гхол, матха: кисловатый, лёгкий напиток для жаркого
+      месяца джьяйштха. «Шикхарини» — густая простокваша, процеженная через ткань и взбитая с сахаром, камфорой,
+      кардамоном и перцем, а «расала» — подобный сладкий напиток, шербет. Их ставили рядом с йогуртом и молоком на пирах
+      и Гопалу на Говардхане, и Джаганнатхе; Кришнадас говорит, что игры Господа «сладки, как шикхарини».
+    en: >-
+      When butter is churned from curd, buttermilk remains — takra, ghol, matha: a sourish light drink for the hot
+      month of Jyaishtha. "Shikharini" is thick curd strained through cloth and beaten with sugar, camphor, cardamom and
+      pepper, and "rasala" a similar sweet drink, a sherbet. They stood beside curd and milk at the feasts of Gopala on
+      Govardhana and of Jagannatha; Krishnadasa says the Lord's pastimes are "sweet as shikharini".
+  recipe:
+    ru: >-
+      Реконструкция (шикхарини — по традиционному составу «Бхава-пракаши»; в PD-кулинарных книгах отдельный рецепт пока не
+      найден): густую простоквашу откинуть на ткань, протереть, взбить с сахаром или мисри, добавить щепоть камфоры,
+      мелкий кардамон, молотый чёрный перец. Гхол: простоквашу взбить мутовкой с водой, снять масло, посолить; гхол-бада —
+      см. mc-bara. Пахту не пить вечером и в холод — правило аюрведы (Амиш 1902, с. 40, о такре).
+    en: >-
+      Reconstruction (shikharini after the traditional composition of Bhava-prakasha; no separate recipe yet found in
+      PD cookbooks): strain thick curd through cloth, press through, beat with sugar or misri, add a pinch of camphor,
+      small cardamom, ground black pepper. Ghol: churn curd with water, remove the butter, salt it.
+  hagiography: ["ЧЧ Мадхья 4.74", "ЧЧ Мадхья 14.33", "ЧЧ Мадхья 15.210", "ЧЧ Мадхья 15.218", "ЧЧ Антья 1.128"]
+  sources: ["«Анубхашья» к ЧЧ Мадхья 14.33 (такра — гхол; расала — шербет, пана)", "Sen 1911, с. 24 («Дак-вачана»: пахта в джьяйштху)",
+            "Day 1874, с. 35 (при сбивании гхи остаётся пахта)"]
+  images: []
+  game: {model: "глиняный кувшин с мутовкой (деревянная мешалка со шнуром); чашки с белым напитком", where: ["mishra-house/kitchen"]}
+  todo: "рецепт шикхарини в PD (Bhava-prakasha в пер. XIX в.; Hobson-Jobson?)"
+
+- id: mc-pana-water
+  title: {ru: "Пана и благоуханная вода", en: "Pana and scented water"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *пит̣ха̄-па̄на̄* — ЧЧ Мадхья 15.89, 15.221, Антья 10.109, 10.119, 10.125 («напитки» месяц не портились), 12.126
+      (примечания: *па̄на̄* — подслащённый напиток; в переводе «сладкий рис»); *па̄на̄* в прасаде Джаганнатхи — Мадхья 14.26;
+      *сува̄сита джала* в трёх кувшинах — Мадхья 3.56; *сугандхи ш́ӣтала джала-джха̄рӣ* — 15.220; *сува̄сита джала нава-па̄тре*
+      — 4.65, 4.76; вода Ганги Господу — ЧБ Мадхья 9.82. Пить, не касаясь губами сосуда, — Day 1874, с. 27 (поздн.).
+    en: >-
+      pitha-pana — CC Madhya 15.89, 15.221, Antya 10.109, 10.119, 10.125, 12.126 (pana is a sweetened drink; the
+      translation sometimes has "sweet rice"); pana in Jagannatha's prasada — Madhya 14.26; scented water in three jars —
+      Madhya 3.56; cool fragrant water in spouted jars — 15.220; scented water in new vessels — 4.65, 4.76; Ganga water
+      offered to the Lord — CB Madhya 9.82. Drinking without touching the lips — Day 1874 p. 27.
+  text:
+    ru: >-
+      Пана — прохладный сладкий напиток: вода с сахаром или гуром, соком плодов (манго, бель, тамаринд, лимон) и щепотью
+      перца или камфоры; «питха-пана» — пирожки с напитком — обычный дар Господу в Пури. Простую воду к трапезе ставят в
+      кувшинах с носиком (джхари) по бокам листа, охлаждая её в пористой глине и ароматизируя камфорой и цветами; на
+      праздниках Божеству подносят «благоуханную воду» в новых сосудах. Пьют, не касаясь губами края, — струйкой в рот.
+    en: >-
+      Pana is a cool sweet drink: water with sugar or gur, fruit juice (mango, bel, tamarind, lemon) and a pinch of
+      pepper or camphor; "pitha-pana" — cakes with a drink — was a usual gift to the Lord in Puri. Plain water for the
+      meal stands in spouted jars (jhari) beside the leaf, cooled in porous clay and scented with camphor and flowers;
+      at festivals the Deity is offered "fragrant water" in new vessels. One drinks without touching the rim — pouring a
+      thin stream into the mouth.
+  recipe:
+    ru: >-
+      Реконструкция (состав паны — по традиции Пури; ⚠ в книгах XIX в. её место заняли «шарбаты» с розовой водой и льдом —
+      лёд и розовая вода для эпохи не годятся): мякоть спелого беля или манго размять в холодной воде, процедить через
+      ткань, подсластить гуром или мисри, добавить щепоть чёрного перца и крупицу камфоры. Мисри-шарбат (Миштанна-пак 1898,
+      с. 273): мисри растворить в воде, процедить.
+    en: >-
+      Reconstruction (Puri tradition; ⚠ 19th-c. books replace it with "sherbets" with rose water and ice — not for the
+      period): mash ripe bel or mango pulp in cold water, strain through cloth, sweeten with gur or misri, add a pinch
+      of black pepper and a grain of camphor. Misri sherbet (Mishtanna-pak 1898 p. 273): dissolve misri in water, strain.
+  hagiography: ["ЧЧ Мадхья 3.56", "ЧЧ Мадхья 4.65", "ЧЧ Мадхья 14.26", "ЧЧ Мадхья 15.89", "ЧЧ Мадхья 15.220–221",
+                "ЧЧ Антья 10.109", "ЧЧ Антья 10.125–126", "ЧЧ Антья 12.126", "ЧБ Мадхья 9.82"]
+  sources: ["Миштанна-пак 1898, с. 273 (мисрир шарбат)", "Day 1874, с. 27 (пьют, не касаясь губами латунного гхати)",
+            "«Анубхашья» к ЧЧ Мадхья 14.33 (расала — шербет, пана)"]
+  images: []
+  game: {model: "глиняный кувшин-джхари с носиком; чашки с золотистым напитком", where: ["mishra-house/kitchen", "puri/gambhira"]}
+
+- id: mc-kanji
+  title: {ru: "Канджи (амани) — кислая рисовая вода", en: "Kanji (amani) — sour rice water"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *ка̄̐джи-бад̣а̄* — ЧЧ Мадхья 15.216 (в переводе «лепёшки на рисовой воде»); *канджи-бара* — Джаянанда (фр. 10, дв. 21;
+      прим. 01-53: канджи — кислый рисовый отвар); «Дак-вачана»: в пауш — канджи (Sen 1911, с. 24). Пханта-бхат и амани —
+      Амиш 1902, с. 45–47 (поздн., но приём старинный).
+    en: >-
+      kanji-bada — CC Madhya 15.216; kanji-bara — Jayananda (fr. 10 v. 21; kanji is sour rice water); Dak-vachana:
+      kanji in Pausha (Sen 1911 p. 24). Panta-bhat and amani — Amish 1902 pp. 45–47.
+  text:
+    ru: >-
+      Варёный рис, залитый водой и простоявший ночь-другую, слегка закисает: сам рис — «пханта-бхат», а кисловатая вода —
+      «амани», или канджи. Это и еда бедняка в жару, и приправа: в канджи вымачивают жареные бады — получаются
+      «канджи-бады», которые Сарвабхаума подал Господу. Старинная «Дак-вачана» советует в месяц пауш есть канджи. По
+      аюрведе пханта-бхат тяжёл и «возбуждает все три доши», поэтому его считали едой простой, не праздничной.
+    en: >-
+      Boiled rice covered with water and left a night or two turns slightly sour: the rice itself is "panta-bhat" and
+      the sourish water "amani", or kanji. It is a poor man's food in the heat and a seasoning too: fried badas are
+      soaked in kanji — "kanji-badas", which Sarvabhauma served the Lord. The old Dak-vachana advises eating kanji in
+      Pausha. In Ayurveda panta-bhat is heavy and "excites all three doshas", so it counted as plain, not festive, food.
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. 45–47: утром сваренный рис остудить (горячий в воду не класть — испортится), сложить в
+      глубокий горшок, залить водой на палец выше; через сутки вода — амани — кислит. Для кислее — сок лимона или
+      стручок тамаринда, для аромата — листья лимона. «Амани» второго способа: в новом горшке с водой держать горсть риса,
+      закрыть тканью, ставить на солнце 3–4 дня, ежедневно подкладывая горсть свежего риса, — вода станет прозрачно-кислой.
+      Канджи-бада: жареные бады из урада опустить в амани с солью. ⚠ Зелёный чили «к пханта-бхату» в книге — опустить.
+    en: >-
+      Reconstruction after Amish 1902 pp. 45–47: cool the morning's rice (never put hot rice in water), put in a deep
+      pot, cover with water a finger above; after a day the water — amani — is sour. For more sourness add lemon juice
+      or a tamarind pod, lemon leaves for scent. A second amani: keep a handful of rice in water in a new pot under a
+      cloth, sun it 3–4 days adding a handful of fresh rice daily — the water turns clear and sour. Kanji-bada: fried
+      urad badas soaked in amani with salt.
+  hagiography: ["ЧЧ Мадхья 15.216", "Джаянанда, фр. 10, дв. 21"]
+  sources: ["Амиш 1902, с. 45–47 (пханта-бхат, амани; свойства по «Раджа-нигханту»)", "Sen 1911, с. 24 («Дак-вачана»: пауш — канджи)"]
+  images: []
+  game: {model: "глубокий глиняный горшок с рисом под водой, накрытый тканью", where: ["mishra-house/kitchen"]}
+
+- id: mc-rice-varieties
+  title: {ru: "Сорта риса и как варили бхат", en: "Rice varieties and how bhat was cooked"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *ш́а̄лй-анна* (рис шали) горой с жёлтым гхи — ЧЧ Мадхья 3.44, 15.207–208 (*тина-ма̄на тан̣д̣улера* — три мана риса;
+      в переводе «почти три кг»), Антья 6.110, 12.125; *ш́а̄лика̄чат̣и-дха̄нйа* (лучший шали) для чиды — Антья 10.27; *а̄тапа*
+      (непропаренный) — там же; новый рис в хеманту — барамасья Джаянанды (Васу 1897, строфа 10); рис с примесью сечки —
+      ЧБ Мадхья 16.126 (рис Шукламбары). Варка с отливом отвара и правило Чараки — Амиш 1902, с. 39–40; камини — Пак-пранали,
+      с. 456.
+    en: >-
+      shali rice in a mound with yellow ghee — CC Madhya 3.44, 15.207–208 (three manas of rice), Antya 6.110, 12.125;
+      shalikachati paddy for chida — Antya 10.27; atapa (unparboiled) — ibid.; new rice in Hemanta — Jayananda's
+      baramasya (Vasu 1897 st. 10); rice with broken grains — CB Madhya 16.126 (Shuklambara's rice). Draining the starch
+      and Charaka's rule — Amish 1902 pp. 39–40; kamini — Pak-pranali p. 456.
+  text:
+    ru: >-
+      Рис бывает разный: зимний «аман», собираемый в хеманту (ноябрь — декабрь), когда «по всему миру появляется новый
+      рис», и летний «аус»; тонкий ароматный «шали» — для гостей и Божества, грубый — для будней. «Атап» — рис, очищенный
+      без пропаривания, — чистый, для подношений и пайаса. Рис варят в большом горшке с избытком воды, а потом,
+      подлив немного холодной, сливают отвар-«пхен» через прикрытый край — так, по Чараке, рис становится лёгким. Для
+      Господа рис выкладывают горой на банановый лист и поливают жёлтым ароматным гхи так, что оно растекается по листу.
+    en: >-
+      Rice comes in many kinds: winter "aman", reaped in Hemanta (November–December) when "new rice appears all over the
+      world", and summer "aus"; fine fragrant "shali" for guests and the Deity, coarse rice for every day. "Atap" is rice
+      husked without parboiling — pure, for offerings and payasa. Rice is boiled in a big pot with plenty of water, and
+      then, after adding a little cold water, the starch "phen" is poured off past the covered rim — so, says Charaka,
+      the rice becomes light. For the Lord the rice is heaped in a mound on a banana leaf and drenched in yellow fragrant
+      ghee until it runs over the leaf.
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. 39–40: рис промыть, варить в избытке воды; когда разварится, влить немного холодной
+      воды и слить отвар (пхен), наклонив горшок с крышкой; есть горячим. «Хорошо промытый, с отлитым отваром, тёплый рис
+      лёгок; непромытый, с отваром, холодный — тяжёл» (Чарака). Рис горой с гхи (ЧЧ Мадхья 15.207–208): на лист
+      выкладывают горку и поливают сверху растопленным гхи.
+    en: >-
+      Reconstruction after Amish 1902 pp. 39–40: wash the rice, boil in plenty of water; when soft, add a little cold
+      water and pour off the starch (phen), tilting the covered pot; eat hot. "Well washed, drained, warm rice is light;
+      unwashed, undrained, cold rice is heavy" (Charaka). The ghee-rice mound (CC Madhya 15.207–208): heap on a leaf and
+      pour melted ghee over the top.
+  hagiography: ["ЧЧ Мадхья 3.44", "ЧЧ Мадхья 15.207–208", "ЧЧ Антья 6.110", "ЧЧ Антья 10.27", "ЧЧ Антья 12.125",
+                "ЧБ Мадхья 16.126", "Джаянанда, барамасья (Васу 1897), строфа 10"]
+  sources: ["Амиш 1902, с. 39–40 (варка с отливом отвара; Чарака, «Бхава-пракаша»)", "Пак-пранали, с. 456 (камини — лучший рис для пайаса)"]
+  images: []
+  game: {model: "большой глиняный горшок с рисом; горка белого риса на банановом листе с лужицами жёлтого гхи",
+         where: ["mishra-house/kitchen"]}
+  todo: "мана в Бенгалии XVI в. — мера объёма/веса (≈ 40 серов?) — уточнить; «три мана» — явная гипербола для пира"
