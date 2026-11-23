@@ -28756,6 +28756,10 @@
     "type": "met"
    },
    {
+    "from": "@jahnava",
+    "type": "host"
+   },
+   {
     "from": "@kaliya-krishnadasa",
     "type": "other"
    },
@@ -40523,6 +40527,10 @@
   ],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "in-law"
+   },
+   {
     "from": "@nityananda",
     "type": "mother"
    }
@@ -41510,7 +41518,7 @@
     "events": [
      "ev-jahnava-gopinatha"
     ],
-    "note": "T 200: ушла в вайшакха шукла-навами (по B и календарю — день явления, F25). T 89: в последнем путешествии во Врадж вошла в тело Радхики в храме Гопинатхи (свидетель — Парамешвари дас). M и B о дне и обстоятельствах ухода молчат. lila-db (НВВ, C): Гопинатха усадил её по левую руку от Себя."
+    "note": "БР об уходе молчит, но говорит о втором её путешествии во Вриндаван (13.266–282, F158). T 200: ушла в вайшакха шукла-навами (по B и календарю — день явления, F25). T 89: в последнем путешествии во Врадж вошла в тело Радхики в храме Гопинатхи (свидетель — Парамешвари дас). M и B о дне и обстоятельствах ухода молчат. lila-db (НВВ, C): Гопинатха усадил её по левую руку от Себя."
    },
    "samadhi": []
   },
@@ -41581,7 +41589,7 @@
    {
     "type": "relative",
     "who": "@virabhadra",
-    "note": "Пасынок (сын Васудхи); T 201: «тётка и мачеха»."
+    "note": "Сын Васудхи; БР 13.267: «Джахнава Ишвари женила сына» — в статьях «мать и гуру»; T 201: «тётка и мачеха»."
    },
    {
     "type": "disciple",
@@ -41663,14 +41671,19 @@
     "note": "Шишу Кришнадас: усыновила (T) / взяла пятилетним во Вриндаван (M, B); был с ней в Кхетури («Према-виласа»)."
    },
    {
+    "type": "relative",
+    "who": "@baru-gangadasa",
+    "note": "Двоюродный брат: сын старшей сестры её матери Бхадравати (БР 11.262–263)."
+   },
+   {
     "type": "patron",
     "who": "@baru-gangadasa",
-    "note": "По её слову женился на Хемалате, дочери Шьямадаса Чакраварти, и получил служение Шьямасундаре в Будхари (M 69)."
+    "note": "Получил от неё служение Шьяма-раю, подаренному ей во Вриндаване (БР 11.269–271); по её слову женился на Хемалате, дочери Шьямадаса Чакраварти, в Будхари (M 69; БР 11.374–395)."
    },
    {
     "type": "patron",
     "who": "@govinda-kaviraja",
-    "note": "Принимал её в Телия-Будхари (M); по B — вместе с Дживой и Шринивасом дала ему титул «кавираджа» ≠ T: титул дал Джива."
+    "note": "Принимал её в Телия-Будхари (M); по велению Шринивасы шёл с ней из Кхетури во Вриндаван и обратно (БР 10.749, 11.300–359); по БР 11.145–148 титул «кавираджа» дали Госвами Вриндавана при ней; по B — вместе с Дживой и Шринивасом дала ему титул она ≠ T: титул дал Джива."
    },
    {
     "type": "siksha-disciple",
@@ -41763,6 +41776,101 @@
    {
     "type": "companion",
     "who": "@vrindavana-dasa"
+   },
+   {
+    "type": "companion",
+    "who": "@ramachandra-kaviraja",
+    "note": "Встретил её в Кхетури на обратном пути и с Нароттамой провожал до Яджиграма (БР 11.302–404, 686)."
+   },
+   {
+    "type": "companion",
+    "who": "@nayana-bhaskara",
+    "note": "Ваятель из Халисахара; пошёл с ней в Кхетури; по её велению изваял Радху для Гопинатхи (БР 10.381; 11.244–245; 11.788)."
+   },
+   {
+    "type": "companion",
+    "who": "@nrisimha-chaitanya",
+    "note": "По её велению надел прасадные гирлянды на Шринивасу (БР 10.519); вёз Радху во Вриндаван (БР 13.84)."
+   },
+   {
+    "type": "companion",
+    "who": "@bhagavan-kaviraja",
+    "note": "Ученик Шринивасы, шёл с её свитой во Вриндаван (БР 11.118)."
+   },
+   {
+    "type": "companion",
+    "who": "@krishnadasa-akaihat",
+    "note": "Присоединился в Кантака-нагаре (БР 10.409); T отождествляет с Кала Кришнадасом."
+   },
+   {
+    "type": "host",
+    "who": "@chaitanya-dasa-vamshi",
+    "note": "Встретил её в Амбике и пошёл с ней в Кхетури (БР 10.385–387)."
+   },
+   {
+    "type": "host",
+    "who": "@yadunandana-chakravarti",
+    "note": "Ядунандана из Кантака-нагара (БР 9.352; 10.410–425; 11.674); T 200 — «Ядунандана Ачарья»."
+   },
+   {
+    "type": "host",
+    "who": "@raghunandana",
+    "note": "Встречал её в Катве и Яджиграме, принимал в Шрикханде (БР 10.411; 11.701–750)."
+   },
+   {
+    "type": "met",
+    "who": "@kanai-shrikhanda",
+    "note": "Юный сын Рагхунанданы; она явила ему материнскую нежность (БР 11.733–738)."
+   },
+   {
+    "type": "host",
+    "who": "@vamshidasa-chakravarti",
+    "note": "Распоряжался её приёмом в Будхари (БР 11.373)."
+   },
+   {
+    "type": "other",
+    "who": "@shyamadasa-bahadurpur",
+    "note": "По её желанию (и по своему сну) отдал дочь Хемалату за Бара Гангадаса (БР 11.374–390; M 69)."
+   },
+   {
+    "type": "protege",
+    "who": "@hemalata-gangadasa",
+    "note": "Сосватана ею за Бара Гангадаса."
+   },
+   {
+    "type": "in-law",
+    "who": "@hadai-pandita",
+    "note": "Свёкор; она жалела, что не видела его, и видела его во сне (БР 11.625–634)."
+   },
+   {
+    "type": "in-law",
+    "who": "@padmavati",
+    "note": "Свекровь (БР 11.626–634)."
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-jhamatpur",
+    "note": "По её милости стал преданным; по её желанию отдал дочерей Вирачандре (БР 13.249–254)."
+   },
+   {
+    "type": "met",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Доложил о ней Рагхунатхе Дасу у Радха-кунды (БР 11.153, 164–165)."
+   },
+   {
+    "type": "met",
+    "who": "@vira-hambira",
+    "note": "С Шринивасой встречал присланную ею Радху в Кантака-нагаре (БР 13.80–94)."
+   },
+   {
+    "type": "met",
+    "who": "@draupadi-ishvari",
+    "note": "Жена Шринивасы, встречавшая её в Яджиграме (БР 11.689–696, 726; 13.139)."
+   },
+   {
+    "type": "other",
+    "who": "@durga",
+    "note": "Чанди во сне велит хулителям принять её милость: «Её я ношу на голове» (БР 11.43–54)."
    },
    {
     "type": "deity-served",
@@ -43506,6 +43614,10 @@
    "ev-jahnava-ekachakra"
   ],
   "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "in-law"
+   },
    {
     "from": "@nityananda",
     "type": "father"
@@ -49981,6 +50093,10 @@
     "type": "met"
    },
    {
+    "from": "@jahnava",
+    "type": "companion"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -51775,6 +51891,10 @@
     "type": "other"
    },
    {
+    "from": "@jahnava",
+    "type": "met"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "siksha-disciple"
    },
@@ -52023,6 +52143,10 @@
    "ev-srinivasa-disciples"
   ],
   "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "met"
+   },
    {
     "from": "@jiva-gosvami",
     "type": "other"
@@ -52751,6 +52875,10 @@
   ],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "met"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -53117,6 +53245,10 @@
    {
     "from": "@gadadhara-dasa",
     "type": "disciple"
+   },
+   {
+    "from": "@jahnava",
+    "type": "host"
    },
    {
     "from": "@lochana-dasa",
@@ -58013,6 +58145,10 @@
   ],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "met"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "relative"
    },
@@ -60810,6 +60946,10 @@
    },
    {
     "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@jahnava",
     "type": "other"
    },
    {
@@ -64057,6 +64197,10 @@
   ],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "host"
+   },
+   {
     "from": "@vamshivadana",
     "type": "son"
    }
@@ -65841,6 +65985,10 @@
   ],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "companion"
+   },
+   {
     "from": "@kaliya-krishnadasa",
     "type": "other"
    },
@@ -67475,6 +67623,10 @@
    {
     "from": "@gauridasa-pandita",
     "type": "servant"
+   },
+   {
+    "from": "@jahnava",
+    "type": "relative"
    },
    {
     "from": "@jahnava",
@@ -77901,6 +78053,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "other"
+   },
+   {
     "from": "@virabhadra",
     "type": "in-law"
    },
@@ -78124,6 +78280,10 @@
   ],
   "related_by": [
    {
+    "from": "@jahnava",
+    "type": "host"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "disciple"
    }
@@ -78142,6 +78302,12 @@
   "events": [
    "ev-bara-gangadasa-shyama-raya",
    "ev-vamshidasa-chakravarti-initiation"
+  ],
+  "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "other"
+   }
   ]
  },
  {
@@ -78155,6 +78321,12 @@
   ],
   "events": [
    "ev-bara-gangadasa-shyama-raya"
+  ],
+  "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "protege"
+   }
   ]
  },
  {
@@ -78186,6 +78358,12 @@
   "events": [
    "ev-jahnava-kheturi",
    "ev-jahnava-gopinatha"
+  ],
+  "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -78222,6 +78400,12 @@
    "ev-jahnava-vrindavana",
    "ev-jiva-sends-gopala-virudavali",
    "ev-kheturi-festival-invitations"
+  ],
+  "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -78339,6 +78523,12 @@
   ],
   "events": [
    "ev-jahnava-radha-for-madana-mohana"
+  ],
+  "related_by": [
+   {
+    "from": "@jahnava",
+    "type": "companion"
+   }
   ]
  },
  {
