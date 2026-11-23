@@ -34,7 +34,7 @@
   sources: ["Taylor 1840, с. 334", "Martin 1838, т. III, с. 102–103"]
   images: []
   game: {model: "кантха ≈1,4×2 м, 4–6 слоёв старой белой ткани, частые ряды стежков, вышивка красной/синей нитью из каймы",
-         where: ["mishra-house/bedroom", "puri/gambhira"]}
+         where: ["mishra-house/courtyard", "puri/gambhira"]}
   todo: "Узорная вышивка кантхи (нокши-кантха) засвидетельствована поздно; для XVI в. давать простую стёжку."
 
 - id: mc-cold-season
@@ -170,7 +170,7 @@
   sources: ["Mukharji 1888, с. 311–312"]
   images: []
   game: {model: "циновка ≈1×2 м из глянцевых светло-зелёно-золотистых полосок 3–4 мм, косое плетение, простой красный узор по краю",
-         where: ["mishra-house/bedroom"]}
+         where: ["mishra-house/courtyard"]}
   todo: "Засвидетельствована ли шитал-пати до XVII в.? (в мангал-кавьях?)"
 
 - id: mc-hot-season
@@ -208,3 +208,189 @@
   game: {model: "полдень: пустая улица, люди дремлют на веранде на циновках; запотевший глиняный кувшин; сандаловая паста на лбу и руках",
          where: ["mishra-house/courtyard", "navadvipa/lane"]}
   todo: "«Сон на веранде/во дворе» — общая этнография, прямого места в житиях не найдено."
+
+# --- Порция 2: гигиена, дожди, стирка ---
+
+- id: mc-oil-before-bath
+  title: {ru: "Масло перед омовением", en: "Oil before the bath"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 6.114 («Мама, дай ароматного масла — пойду омываться»), 6.131 (сухие волосы — не купался), 12.126–127
+      (масло от торговца ароматами: благоухание «после омовения»); Лочан Ади ч. 3.305 (мать умащает тело душистым
+      маслом), ч. 7.531 (масло, куркума, амалаки перед свадьбой); горчичное масло в благих дарах — ЧБ Ади 4.21. Кокосовое
+      масло для волос, горчичное для тела перед купанием — Bose 1881, с. 16 (сноска) [XIX в.].
+    en: >-
+      CB Adi 6.114 ("Mother, give Me fragrant oil — I am going to bathe"), 6.131 (dry hair — had not bathed),
+      12.126–127 (oil from the perfumer: fragrance "after the bath"); Lochana Adi pt. 3.305 (the mother anoints the body
+      with scented oil), pt. 7.531 (oil, turmeric, amalaki before the wedding); mustard oil among auspicious gifts — CB
+      Adi 4.21. Coconut oil for the hair, mustard oil for the body before bathing — Bose 1881, p. 16 (note) [19th c.].
+  text:
+    ru: >-
+      Перед купанием тело натирали маслом — чаще всего горчичным, а волосы смазывали отдельно, у богатых душистым маслом
+      с травами. Масло смягчало кожу, защищало от солнца и сырости, а в воде смывалось вместе с пылью. Маленький Нимай,
+      наигравшись, прибегал домой: «Мама, дай масла — пойду купаться!» Торговец ароматами натёр юного учителя своим
+      маслом и сказал: если завтра после омовения запах останется — заплатишь сколько захочешь.
+    en: >-
+      Before bathing the body was rubbed with oil — most often mustard oil — and the hair was oiled separately, in rich
+      houses with scented herbal oil. Oil softened the skin, protected it from sun and damp, and in the water washed off
+      with the dust. Little Nimai, after His games, would run home: "Mother, give Me oil — I'm going to bathe!" The
+      perfume-seller rubbed the young teacher with his oil and said: if the scent is still there after tomorrow's bath,
+      pay me whatever You like.
+  hagiography: ["ЧБ Ади 6.114", "ЧБ Ади 6.131", "ЧБ Ади 12.126–127", "ЧБ Ади 4.21", "Лочан, Ади-кханда, ч. 3, ст. 305", "Лочан, Ади-кханда, ч. 7, ст. 531"]
+  sources: ["Bose 1881, с. 16 (сноска)"]
+  images: []
+  game: {model: "глиняная/латунная плошка с горчичным маслом у двери; человек натирает плечи перед спуском к гхату",
+         where: ["mishra-house/courtyard", "ganga-ghat"]}
+
+- id: mc-cleansers
+  title: {ru: "Вместо мыла: глина Ганги, амалаки, щёлок", en: "Instead of soap: Ganga clay, amalaki, lye"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 10.35: Дамаянти процеживает глину Ганги через ткань и делает с благовониями тонкие пластинки
+      (*па̄̐ча куд̣и*; разночтения — в сноске перевода); назначение в тексте не названо. Амалаки для волос — ЧБ Мадхья
+      7.64, Лочан Ади ч. 7.531. Масляные пасты и щёлок (*alkaly*) в туалете знатной дамы — сказки (Sen 1920, с. 71);
+      мыло — «осквернение» в религиозном смысле, XIX в. (Bose 1881, с. 16); мыльная вода при отбеливании — Taylor 1840,
+      с. 178. Мыльный орех (*ритха*) в просмотренных PD-книгах не найден.
+    en: >-
+      CC Antya 10.35: Damayanti strains Ganga clay through cloth and makes thin scented tablets (*panca kudi*; variant
+      readings in the translation's note); their purpose is not stated. Amalaki for the hair — CB Madhya 7.64, Lochana
+      Adi pt. 7.531. Oil pastes and lye (*alkaly*) at a noble lady's toilet — folk tales (Sen 1920, p. 71); soap as
+      "desecration" in a religious sense, 19th c. (Bose 1881, p. 16); soapy water in bleaching — Taylor 1840, p. 178.
+      Soapnut (*ritha*) was not found in the PD books examined.
+  text:
+    ru: >-
+      Мыла в нынешнем смысле индусы для тела почти не знали, а позже считали его нечистым. Волосы мыли отваром плодов
+      амалаки, тело — водой после масляного растирания, руки и посуду оттирали глиной, золой и щёлоком. Чистая речная
+      глина ценилась особо: сестра Рагхавы Пандита Дамаянти собирала глину Ганги, процеживала её через ткань, смешивала
+      с благовониями и сушила тонкими пластинками — среди даров, которые каждый год везли Махапрабху в Пури. Знатные
+      дамы, по сказкам, мылись душистыми масляными пастами.
+    en: >-
+      Soap in today's sense Hindus hardly used on the body, and later considered it impure. Hair was washed with a
+      decoction of amalaki fruit, the body with water after an oil rub; hands and vessels were scoured with clay, ash
+      and lye. Clean river clay was especially prized: Raghava Pandita's sister Damayanti gathered Ganga clay, strained
+      it through cloth, mixed it with fragrances and dried it in thin tablets — among the gifts carried every year to
+      Mahaprabhu in Puri. Noble ladies, the tales say, washed with scented oil pastes.
+  hagiography: ["ЧЧ Антья 10.35", "ЧБ Мадхья 7.64", "Лочан, Ади-кханда, ч. 7, ст. 531"]
+  sources: ["Sen, Folk-Literature of Bengal, 1920, с. 71", "Bose 1881, с. 16", "Taylor 1840, с. 178"]
+  images: []
+  game: {model: "плоские серые пластинки глины в мешочке (из «джхали Рагхавы»); плоды амалаки в плошке; горшок золы у пруда",
+         where: ["mishra-house/courtyard", "puri/gambhira"]}
+  todo: "Для чего пластинки из глины Ганги — тилака или мытьё? (комментарии ЧЧ Антья 10.35). Мыльный орех и *кхаил* (жмых) — искать в PD."
+
+- id: mc-teeth-cleaning
+  title: {ru: "Чистка зубов и полоскание рта", en: "Cleaning teeth and rinsing the mouth"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 6.223 (Сарвабхаума «ещё не успел почистить зубы и омыться», но вкусил прасад); ЧБ Мадхья 7.26
+      (непочтительно полоскать рот, чистить зубы и мыть волосы в самой Ганге); ЧЧ Мадхья 24.327 (как чистить зубы — тема
+      «Хари-бхакти-виласы»); омовение рта и рук после еды — ЧЧ Антья 6.119, Мадхья 15.254. Веточка ним/бабул (*дантакаштха*)
+      — общая индийская практика, в просмотренных PD-книгах о Бенгалии описания не найдено; «чёрный порошок для зубов» —
+      Bose 1881, с. 133 [XIX в.].
+    en: >-
+      CC Madhya 6.223 (Sarvabhauma "had not yet cleaned his teeth or bathed" yet honoured the prasada); CB Madhya 7.26
+      (it is disrespectful to rinse the mouth, clean the teeth or wash the hair in the Ganga itself); CC Madhya 24.327 (how
+      to clean the teeth — a topic of Hari-bhakti-vilasa); rinsing mouth and hands after meals — CC Antya 6.119, Madhya
+      15.254. The neem/babul twig (*dantakashtha*) — general Indian practice; no Bengal description found in the PD books
+      examined; "black powder for the teeth" — Bose 1881, p. 133 [19th c.].
+  text:
+    ru: >-
+      Утро начиналось с чистки зубов: срывали свежую веточку нима или бабула, разжёвывали конец в кисточку и тёрли зубы,
+      а потом расщепляли прутик и чистили язык. Полоскать рот и чистить зубы полагалось не в самой Ганге, а в стороне,
+      набрав воды в сосуд, — Вриндаван Дас считает небрежность у священной реки неуважением. Санатана Госвами по
+      просьбе Господа описал и это утреннее правило вайшнава. Но любовь выше правил: Сарвабхаума, едва проснувшись, с
+      нечищеными зубами, принял прасад из рук Махапрабху — и этим особенно Его обрадовал.
+    en: >-
+      The morning began with cleaning the teeth: a fresh twig of neem or babul was broken off, its end chewed into a
+      brush and rubbed over the teeth, then the twig was split to scrape the tongue. Rinsing the mouth and cleaning the
+      teeth were to be done not in the Ganga itself but aside, with water drawn into a vessel — Vrindavana Dasa counts
+      carelessness at the sacred river as disrespect. At the Lord's request Sanatana Gosvami described this morning rule
+      of a Vaishnava too. But love stands above rules: Sarvabhauma, just risen, his teeth uncleaned, accepted prasada
+      from Mahaprabhu's hands — and so especially pleased Him.
+  hagiography: ["ЧЧ Мадхья 6.223", "ЧБ Мадхья 7.26", "ЧЧ Мадхья 24.327", "ЧЧ Антья 6.119"]
+  sources: ["Bose 1881, с. 133"]
+  images: []
+  game: {model: "веточка нима ≈15–20 см с разжёванным концом; латунный лота с водой на ступени гхата", where: ["ganga-ghat", "mishra-house/courtyard"]}
+  todo: "Найти PD-описание дантакаштхи в Бенгалии (Ward? Hari-bhakti-vilasa в пер. XIX в.?)."
+
+- id: mc-laundry
+  title: {ru: "Стирка и прачка (дхоба)", en: "Laundry and the washerman (dhoba)"}
+  rubric: home
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Жития: Господь выжимает мокрую одежду преданного и вешает сушиться чьё-то дхоти (ЧБ Мадхья 2.44); переодевание из
+      мокрой ткани в сухую (ЧБ Мадхья 17.55, ЧЧ Антья 18.73); Говинда приносит свежевыстиранную одежду (Карнапура 17.50);
+      «как стирать одежду» — тема «Хари-бхакти-виласы» (ЧЧ Мадхья 24.328); прачка в Матхуре (Мурари 4.4.12, Лочан, Шеша
+      ч. 3.101). Отбеливание: мыльная вода, кипячение в глиняном котле, битьё о доску, сушка на траве, сок лайма —
+      Taylor 1840, с. 178; прачка в свадебной смете — с. 260; лишить прачки — кастовое наказание (Bose 1881, с. 169).
+    en: >-
+      Hagiographies: the Lord wrings out a devotee's wet cloth and hangs someone's dhoti to dry (CB Madhya 2.44);
+      changing from wet cloth into dry (CB Madhya 17.55, CC Antya 18.73); Govinda brings freshly washed clothes
+      (Karnapura 17.50); "how to wash clothes" — a topic of Hari-bhakti-vilasa (CC Madhya 24.328); a washerman in Mathura
+      (Murari 4.4.12, Lochana, Shesha pt. 3.101). Bleaching: soapy water, boiling in an earthen pot, beating on a board,
+      drying on grass, lime juice — Taylor 1840, p. 178; the washerman in a wedding budget — p. 260; deprivation of the
+      washerman as caste punishment (Bose 1881, p. 169).
+  text:
+    ru: >-
+      Дхоти и сари носили несшитыми, и после каждого омовения их меняли: мокрую ткань выжимали и сушили на верёвке или
+      на траве, а сухую надевали прямо на берегу. Свою повседневную одежду стирали сами, а большие вещи отдавали прачке
+      — *дхобе*. Прачка замачивал ткань в щёлоке, кипятил в большом глиняном котле, бил её о плоский камень или доску у
+      воды и раскладывал сушиться; тонкое полотно в последний раз полоскали с соком лайма для белизны. Без прачки и
+      цирюльника деревенская жизнь не обходилась — лишить семью их услуг было тяжким наказанием.
+    en: >-
+      Dhotis and saris were worn unstitched and changed after every bath: the wet cloth was wrung out and dried on a line
+      or on the grass, and a dry one was put on right there on the bank. People washed their everyday clothes
+      themselves; larger things went to the washerman — the *dhoba*. He soaked the cloth in lye, boiled it in a big
+      earthen pot, beat it on a flat stone or board by the water and spread it to dry; fine cloth had a last rinse with
+      lime juice for whiteness. Village life could not do without the washerman and the barber — to deprive a family of
+      their services was a heavy punishment.
+  hagiography: ["ЧБ Мадхья 2.44", "ЧБ Мадхья 17.55", "ЧЧ Антья 18.73", "Карнапура, сарга 17, ст. 50", "ЧЧ Мадхья 24.328"]
+  sources: ["Taylor 1840, с. 178, 260", "Bose 1881, с. 169"]
+  images: []
+  game: {model: "прачка у воды бьёт мокрым полотном о плоский камень; глиняный котёл на очаге; дхоти, развешанные на бамбуковой жерди",
+         where: ["ganga-ghat"]}
+  todo: "Прачка-дхоба именно в Навадвипе в житиях не найден."
+
+- id: mc-monsoon
+  title: {ru: "Сезон дождей", en: "The rainy season"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Чатурмасья — четыре месяца дождей Господь не странствует (ЧЧ Мадхья 1.110–111, 9.84, 16.93–94, 16.282–285;
+      Антья 10.133, 10.152); сильный ливень сорвал приглашение Адвайты (ЧЧ Мадхья 16.55); в дожди Ганга кишит крокодилами
+      (ЧБ Мадхья 12.6, 13.137); половодье месяца бхадра (ЧБ Антья 2.125); ливень, град, пиявки, холод (ЧБ Антья
+      5.611–615, 5.671). Лучшее время ткать тонкий муслин — дожди (Taylor 1840, с. 174).
+    en: >-
+      Chaturmasya — for the four months of rain the Lord does not travel (CC Madhya 1.110–111, 9.84, 16.93–94,
+      16.282–285; Antya 10.133, 10.152); a heavy downpour spoiled Advaita's invitation (CC Madhya 16.55); in the rains the
+      Ganga swarms with crocodiles (CB Madhya 12.6, 13.137); the flood of the month of Bhadra (CB Antya 2.125); downpour,
+      hail, leeches, cold (CB Antya 5.611–615, 5.671). The best time to weave fine muslin is the rains (Taylor 1840,
+      p. 174).
+  text:
+    ru: >-
+      С июня по сентябрь (*варша*, месяцы ашадха–ашвина) Бенгалия тонет в дождях: реки разливаются, дороги размокают,
+      в Ганге появляются крокодилы. В эти четыре месяца, *чатурмасью*, санньяси не странствуют — Махапрабху оставался
+      то у шри-вайшнавов на юге, то в Пури, и преданные по очереди звали Его на обед. Одежда не просыхала, в домах
+      пахло сыростью; сушили ткань под навесом и над очагом. Путники в пути страдали от ливней, пиявок и холода, зато
+      для ткачей это была лучшая пора: влажный воздух не давал рваться тончайшей нити.
+    en: >-
+      From June to September (*varsha*, the months Ashadha to Ashvina) Bengal drowns in rain: rivers flood, roads turn to
+      mud, crocodiles appear in the Ganga. In these four months, the *chaturmasya*, sannyasis do not travel — Mahaprabhu
+      stayed now with the Shri-vaishnavas in the south, now in Puri, and devotees took turns inviting Him to meals.
+      Clothes never dried, houses smelt of damp; cloth was dried under the eaves and over the hearth. Travellers
+      suffered from downpours, leeches and cold, yet for weavers it was the best season: the moist air kept the finest
+      thread from breaking.
+  hagiography: ["ЧЧ Мадхья 1.110–111", "ЧЧ Мадхья 9.84", "ЧЧ Мадхья 16.55", "ЧЧ Мадхья 16.93–94", "ЧЧ Антья 10.152",
+                "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.125", "ЧБ Антья 5.611–615"]
+  sources: ["Taylor 1840, с. 174"]
+  images: [{file: "material-culture/img/bengal-1770-radha-krishna-storm-villagers-cma.jpg", license: "CC0 1.0", author: "бенгальский художник, ок. 1770; Cleveland Museum of Art 2013.352", url: "https://clevelandart.org/art/2013.352"}]
+  game: {model: "ливень, лужи во дворе, ткань сушится под навесом веранды; разлившаяся Ганга; путник под зонтом из листьев",
+         where: ["mishra-house/courtyard", "ganga-ghat"]}
+  todo: "«Сушили над очагом» — этнография, не из житий."
