@@ -33,6 +33,7 @@ button:hover { background: var(--btn-hi); }
 button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 #btns button { flex: 1; text-align: center; font-size: 19px; padding: 8px 6px; }
 #btns button.on { background: #5a4520; }
+#btns button.lang { flex: 0 0 auto; padding: 8px 10px; letter-spacing: 0.06em; }
 #btns button.pulse { animation: pulse 1.2s ease-in-out infinite; }
 @keyframes pulse { 50% { background: #8a6a2a; box-shadow: 0 0 18px rgba(255, 220, 140, 0.8); } }
 #percept { left: 24px; top: 980px; width: 320px; pointer-events: none; }
@@ -98,14 +99,14 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
   <div id="hud" class="ui">
     <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
-      <div class="keys">Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
-    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button></div>
+      <div class="keys" id="keys">Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
+    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button><button id="bLang" class="lang" type="button" lang="en">EN</button></div>
   </div>
-  <div id="percept" class="ui" hidden><div class="lbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
+  <div id="percept" class="ui" hidden><div class="lbl" id="perLbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
   <div id="hint" class="ui panel" hidden><div id="hintText"></div><button id="hintOk" type="button">Понятно</button></div>
   <div id="card" class="ui panel" hidden><div id="cardKind"></div><div id="cardTitle"></div><div id="cardText"></div><button id="cardClose" type="button">Закрыть</button></div>
   <div id="dlg" class="ui panel" hidden><div id="portrait"></div><div id="dlgBody"><div id="dlgName"></div><div id="dlgText"></div><div id="choices"></div><div id="dlgRef"></div></div></div>
-  <div id="journal" class="ui panel" hidden><h2>Журнал · открытое в этой главе</h2><div id="jcols"><div id="jlist"></div><div id="jtext"></div></div><button id="jClose" type="button">Закрыть (J)</button></div>
+  <div id="journal" class="ui panel" hidden><h2 id="jTitle">Журнал · открытое в этой главе</h2><div id="jcols"><div id="jlist"></div><div id="jtext"></div></div><button id="jClose" type="button">Закрыть (J)</button></div>
   <div id="tip" class="ui" hidden></div>
   <div id="fade" class="ui"><div id="fadeBox"><div id="fadeTitle"></div><div id="fadeSub"></div></div></div>
   <div id="loading" class="ui">Двор Джаганнатхи Мишры…</div>
@@ -120,6 +121,18 @@ import { clone as skelClone } from 'three/addons/utils/SkeletonUtils.js';
 import { createAudio } from './audio.js';
 
 const AUTOPLAY = /autoplay/.test(location.search) || location.hash === '#autoplay';
+// ---------------------------------------------------------------- язык (RU / EN): ?lang=en, кнопка EN/RU, выбор запоминается
+let LANG = (() => { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'ru') return q;
+  try { const v = localStorage.getItem('gaura.lang'); if (v === 'en' || v === 'ru') return v; } catch (e) { /* нет хранилища */ }
+  return /^(ru|uk|be|kk)/i.test(navigator.language || '') ? 'ru' : 'en'; })();
+const L = (ru, en) => LANG === 'en' ? en : ru;
+const tx = (o, f = 'text') => (LANG === 'en' && o?.[f + '_en']) || o?.[f] || '';      // поле шага сценария на текущем языке
+const loc = (e) => (LANG === 'en' && e?.en) ? { ...e, ...e.en } : e;                   // запись кодекса на текущем языке
+const pick = (p) => Array.isArray(p) ? (LANG === 'en' ? (p[1] ?? p[0]) : p[0]) : (p ?? '');
+const REF_EN = [[/ЧБ/g, 'CB'], [/ЧЧ/g, 'CC'], [/Ади/g, 'Adi'], [/Мадхья/g, 'Madhya'], [/Антья/g, 'Antya']];
+const refL = (r) => (LANG === 'en' && r) ? REF_EN.reduce((a, [x, y]) => a.replace(x, y), r) : r;
+document.getElementById('loading').textContent = L('Двор Джаганнатхи Мишры…', 'The courtyard of Jagannatha Mishra…');
+document.documentElement.lang = LANG;
 const $ = (id) => document.getElementById(id);
 const audio = createAudio('snd/');
 const sleep = (ms) => new Promise((r) => setTimeout(r, AUTOPLAY ? Math.min(ms, 120) : ms));
@@ -348,7 +361,7 @@ const MODELS = {};
 for (const id in specs) { const m = specs[id].model; if (m && !MODELS[m]) { try { MODELS[m] = await loadProxy(m); } catch (e) { console.warn('model', m, e); } } }
 class Figure {
   constructor(spec) {
-    this.id = spec.id; this.name = spec.name; this.h = spec.height ?? 1.65; this.speed = spec.speed ?? 1.6;
+    this.id = spec.id; this.names = { ru: spec.name, en: spec.name_en ?? spec.name }; this.h = spec.height ?? 1.65; this.speed = spec.speed ?? 1.6;
     this.celestial = !!spec.celestial; this._pose = ''; this.walkClip = spec.walk_clip ?? ''; this.path = []; this.yaw = 0; this.carried = false; this.resolve = null; this.mats = [];
     const alpha = spec.alpha ?? 1, glow = spec.glow ?? 0;
     const mk = (hex, g = 0) => { const m = new THREE.MeshStandardMaterial({ color: hex, roughness: 0.8, transparent: alpha < 1, opacity: alpha });
@@ -434,6 +447,7 @@ class Figure {
   }
   get pos() { return this.root.position; }
   faceTo(p) { const d = new THREE.Vector3().subVectors(p, this.root.getWorldPosition(new THREE.Vector3())); if (d.x * d.x + d.z * d.z > 1e-4) this.yaw = Math.atan2(d.x, d.z); }
+  get name() { return this.names[LANG] ?? this.names.ru; }
   walk(path, run = false) {
     this.path = path.slice(); this.pose = run ? 'run' : 'walk';
     if (this.resolve) { const r = this.resolve; this.resolve = null; r(); }
@@ -515,16 +529,18 @@ olScene.add(new THREE.Mesh(new THREE.PlaneGeometry(2, 2), new THREE.ShaderMateri
 // ---------------------------------------------------------------- интерфейс
 const ui = {
   waiting: null, choiceRes: null, entries: [],
-  setObjective(t) { $('objective').textContent = t; },
-  counter() { $('counter').textContent = `Быт: открыто ${Object.keys(found).length} из ${hsIds.length}`; },
+  objSrc: '', objHint: null, lastCard: null,
+  setObjective(t) { this.objSrc = t; this.objHint = null; this.renderObjective(); },
+  renderObjective() { $('objective').textContent = pick(this.objSrc) + (this.objHint ? '\n✦ ' + pick(this.objHint) : ''); },
+  counter() { const n = Object.keys(found).length, m = hsIds.length; $('counter').textContent = L(`Быт: открыто ${n} из ${m}`, `Daily life: ${n} of ${m} discovered`); },
   say(speaker, text, ref, col, italic = false, who = '') {
     return new Promise((res) => {
       $('dlg').hidden = false; $('choices').innerHTML = '';
       $('dlgName').textContent = speaker;
       setPortrait(who, speaker, col);
-      const body = italic ? `<i>${esc(text)}</i>` : (speaker ? `«${esc(text)}»` : esc(text));
+      const body = italic ? `<i>${esc(text)}</i>` : (speaker ? L(`«${esc(text)}»`, `“${esc(text)}”`) : esc(text));
       $('dlgText').innerHTML = body;
-      $('dlgRef').textContent = ref ? 'Источник: ' + ref : 'Игровой рассказ';
+      $('dlgRef').textContent = ref ? L('Источник: ', 'Source: ') + refL(ref) : L('Игровой рассказ', 'Game narrative');
       this.waiting = () => { $('dlg').hidden = true; this.waiting = null; res(); };
       if (AUTOPLAY) { autoShot(); setTimeout(() => this.waiting && this.waiting(), 150); }
     });
@@ -532,7 +548,7 @@ const ui = {
   choose(speaker, prompt, opts, col) {
     return new Promise((res) => {
       $('dlg').hidden = false; $('dlgName').textContent = speaker; setPortrait('player', speaker, col);
-      $('dlgText').innerHTML = `<i>${esc(prompt)}</i>`; $('dlgRef').textContent = 'Ваш выбор (игровой рассказ)';
+      $('dlgText').innerHTML = `<i>${esc(prompt)}</i>`; $('dlgRef').textContent = L('Ваш выбор (игровой рассказ)', 'Your choice (game narrative)');
       const box = $('choices'); box.innerHTML = '';
       this.choiceRes = (i) => { box.innerHTML = ''; $('dlg').hidden = true; this.choiceRes = null; res(i); };
       opts.forEach((o, i) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = `${i + 1}. ${o}`;
@@ -541,37 +557,44 @@ const ui = {
     });
   },
   advance() { if (this.waiting) this.waiting(); },
-  card(e, who = '') {
-    audio.ui('card');
+  card(e, who = '', quiet = false) {
+    if (!quiet) audio.ui('card');
+    this.lastCard = [e, who]; e = loc(e);
     $('cardKind').textContent = e.kind ?? ''; $('cardTitle').textContent = e.title ?? '';
     let h = PORTRAITS.has(who) ? `<img src="portraits/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:200px;margin:4px 0 8px 16px;border:2px solid var(--gold);border-radius:6px">`
       : CODEX_ART.has(who) ? `<img src="codex/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:250px;margin:4px 0 8px 16px;border-radius:6px">` : '';
     h += `<div>${esc(e.text ?? '')}</div>`;
-    if (e.divya) h += celestial ? `<p><i>${esc(e.divya)}</i></p>` : `<p class="note">Здесь есть и то, что видно лишь небесным зрением (Tab).</p>`;
+    if (e.divya) h += celestial ? `<p><i>${esc(e.divya)}</i></p>` : `<p class="note">${L('Здесь есть и то, что видно лишь небесным зрением (Tab).', 'There is more here that only celestial vision reveals (Tab).')}</p>`;
     if (e.photo && !CODEX_ART.has(who)) h = `<figure style="float:right;width:250px;margin:4px 0 8px 16px"><img src="mcimg/${e.photo.file}" alt="" style="width:100%;border-radius:6px"><figcaption class="note" style="font-size:15px">${esc(e.photo.author || '')} · ${esc(e.photo.license || '')}</figcaption></figure>` + h;
-    if (e.evidence) h += `<p class="note"><b>Как мы это знаем:</b> ${esc(e.evidence)}</p>`;
-    if (e.refs?.length) h += `<div class="refs"><b>В житиях:</b> ${e.refs.map(esc).join('; ')}</div>`;
+    if (e.evidence) h += `<p class="note"><b>${L('Как мы это знаем:', 'How we know:')}</b> ${esc(e.evidence)}</p>`;
+    if (e.refs?.length) h += `<div class="refs"><b>${L('В житиях:', 'In the hagiographies:')}</b> ${e.refs.map((r) => esc(refL(r))).join('; ')}</div>`;
     for (const a of e.also ?? []) h += `<p><b>${esc(a.title)}.</b> ${esc(a.text)}</p>`;
-    if (e.sources?.length) h += `<p class="note"><b>Источники:</b> ${e.sources.slice(0, 4).map(esc).join('; ')}${e.sources.length > 4 ? '…' : ''}</p>`;
-    if (e.status === 'draft') h += `<div class="note">Черновик — уточнит историческая база.</div>`;
+    if (e.sources?.length) h += `<p class="note"><b>${L('Источники:', 'Sources:')}</b> ${e.sources.slice(0, 4).map(esc).join('; ')}${e.sources.length > 4 ? '…' : ''}</p>`;
+    if (e.status === 'draft') h += `<div class="note">${L('Черновик — уточнит историческая база.', 'Draft — to be checked against the historical base.')}</div>`;
     $('cardText').innerHTML = h; $('card').hidden = false;
     if (AUTOPLAY) { autoShot(); setTimeout(() => ($('card').hidden = true), 200); }
   },
   addJournal(key, e) {
     if (this.entries.some((x) => x.key === key)) return;
-    this.entries.push({ key, ...e });
-    const b = document.createElement('button'); b.type = 'button';
+    this.entries.push({ key, ...e }); this.journalButton(this.entries.at(-1));
+  },
+  journalButton(x) {
+    const e = loc(x), b = document.createElement('button'); b.type = 'button';
     b.textContent = `${(e.kind ?? '').split(' · ')[0]} — ${e.title}`;
-    b.onclick = () => this.pickJournal(this.entries.findIndex((x) => x.key === key));
+    b.onclick = () => this.pickJournal(this.entries.findIndex((y) => y.key === x.key));
     $('jlist').appendChild(b);
   },
+  rebuildJournal() {
+    const sel = [...$('jlist').children].findIndex((c) => c.classList.contains('sel'));
+    $('jlist').innerHTML = ''; this.entries.forEach((x) => this.journalButton(x)); if (sel >= 0) this.pickJournal(sel);
+  },
   pickJournal(i) {
-    const e = this.entries[i]; if (!e) return;
+    const e = loc(this.entries[i]); if (!e) return;
     [...$('jlist').children].forEach((c, k) => c.classList.toggle('sel', k === i));
     const art = CODEX_ART.has(e.key) ? `<img src="codex/${e.key}.jpg" alt="" style="float:right;width:300px;margin:0 0 10px 20px;border-radius:6px">`
       : (e.key.startsWith('p:') && PORTRAITS.has(e.key.slice(2))) ? `<img src="portraits/${e.key.slice(2)}.jpg" alt="" style="float:right;width:240px;margin:0 0 10px 20px;border:2px solid var(--gold);border-radius:6px">` : '';
     $('jtext').innerHTML = art + `<h3>${esc(e.title)}</h3><p><i>${esc(e.kind ?? '')}</i></p><p>${esc(e.text ?? '')}</p>` +
-      (e.refs?.length ? `<p><i>Источники: ${e.refs.map(esc).join('; ')}</i></p>` : '');
+      (e.refs?.length ? `<p><i>${L('Источники:', 'Sources:')} ${e.refs.map((r) => esc(refL(r))).join('; ')}</i></p>` : '');
   },
   toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden) audio.ui('journal'); if (!j.hidden && this.entries.length) this.pickJournal(0); },
   hint(t) { $('hintText').textContent = t; $('hint').hidden = false; if (AUTOPLAY) setTimeout(() => ($('hint').hidden = true), 200); },
@@ -605,8 +628,8 @@ const portraitImgs = await Promise.all([...PORTRAITS].map((w) => new Promise((r)
 function setPortrait(who, speaker, col) {
   const el = $('portrait');
   if (PORTRAITS.has(who)) { el.textContent = ''; el.style.background = `#000 url(portraits/${who}.jpg) center 18% / cover no-repeat`; }
-  else if (speaker === 'Шри Чайтанья-бхагавата' && NARR_IMG) { el.textContent = ''; el.style.background = `#000 url(${NARR_IMG}) center 20% / cover no-repeat`; }
-  else if (speaker === 'Шри Чайтанья-бхагавата') { el.textContent = '❁'; el.style.background = 'radial-gradient(circle at 50% 40%, #6b4d1c, #1d140a 75%)'; }
+  else if (who === 'narrator' && NARR_IMG) { el.textContent = ''; el.style.background = `#000 url(${NARR_IMG}) center 20% / cover no-repeat`; }
+  else if (who === 'narrator') { el.textContent = '❁'; el.style.background = 'radial-gradient(circle at 50% 40%, #6b4d1c, #1d140a 75%)'; }
   else { el.textContent = speaker ? speaker[0] : '❧'; el.style.background = `radial-gradient(circle at 50% 35%, ${shade(col, 0)}, ${shade(col, -0.6)} 80%)`; }
 }
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -618,7 +641,24 @@ $('jClose').onclick = () => ($('journal').hidden = true);
 $('bJ').onclick = () => ui.toggleJournal();
 $('bSky').onclick = () => toggleCelestial();
 $('bHi').onclick = () => toggleHighlight();
-function syncSnd() { $('bSnd').classList.toggle('on', !audio.muted); $('bSnd').textContent = audio.muted ? 'Звук выкл.' : 'Звук'; }
+function syncSnd() { $('bSnd').classList.toggle('on', !audio.muted); $('bSnd').textContent = audio.muted ? L('Звук выкл.', 'Sound off') : L('Звук', 'Sound'); }
+function setPlane() { $('plane').textContent = celestial ? L('План: небесный ✦', 'Plane: celestial ✦') : L('План: земной', 'Plane: earthly'); }
+function applyLang() {
+  document.documentElement.lang = LANG; document.title = L('Незримый гость', 'The Unseen Guest');
+  $('chap').textContent = L('Глава I · Детство · Брахман-паломник', 'Chapter I · Childhood · The Pilgrim Brahmana');
+  $('keys').innerHTML = L('Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг',
+    'Space — highlight · Tab — sky · J — journal · M — sound<br>Wheel — zoom · right button or arrows — pan');
+  $('bHi').textContent = L('Подсветка', 'Highlight'); $('bSky').textContent = L('Небо', 'Sky'); $('bJ').textContent = L('Журнал', 'Journal');
+  $('bLang').textContent = LANG === 'en' ? 'RU' : 'EN'; $('bLang').lang = LANG === 'en' ? 'ru' : 'en';
+  $('bLang').title = LANG === 'en' ? 'Русская версия' : 'English version';
+  $('perLbl').textContent = L('Ощутимость', 'Presence'); $('hintOk').textContent = L('Понятно', 'Got it');
+  $('cardClose').textContent = L('Закрыть', 'Close'); $('jClose').textContent = L('Закрыть (J)', 'Close (J)');
+  $('jTitle').textContent = L('Журнал · открытое в этой главе', 'Journal · discovered in this chapter');
+  $('rotate').textContent = L('Поверните телефон горизонтально — так двор виден целиком.', 'Turn your phone sideways to see the whole courtyard.');
+  syncSnd(); setPlane(); ui.counter(); ui.renderObjective(); ui.rebuildJournal();
+  if (!$('card').hidden && ui.lastCard) ui.card(...ui.lastCard, true);
+}
+$('bLang').onclick = () => { LANG = LANG === 'en' ? 'ru' : 'en'; try { localStorage.setItem('gaura.lang', LANG); } catch (e) { /* ничего */ } applyLang(); };
 $('bSnd').onclick = () => { audio.toggle(); syncSnd(); }; syncSnd();
 // звук включается с первым касанием (так требуют браузеры)
 let audioOn = false;
@@ -632,7 +672,7 @@ let celestial = false, highlight = false, hovered = '';
 function toggleCelestial() {
   celestial = !celestial;
   for (const id of ['sky', 'skyTint', 'sparks']) $(id).style.opacity = celestial ? 1 : 0;
-  $('plane').textContent = celestial ? 'План: небесный ✦' : 'План: земной';
+  setPlane();
   $('bSky').classList.toggle('on', celestial); if (celestial) $('bSky').classList.remove('pulse');
   for (const id in figs) if (figs[id].celestial) figs[id].root.visible = celestial && !!placed[id];
   audio.setCelestial(celestial);
@@ -732,7 +772,7 @@ $('gl').addEventListener('pointerdown', (e) => {
   if (!$('dlg').hidden) { ui.advance(); return; }
   if (!$('journal').hidden) return;
   const h = pickHover();
-  if (h.startsWith('npc:')) { const id = h.slice(4); openEntry('p:' + id, codex.persons[id] ?? { title: figs[id].name, kind: 'Лицо', text: '' }); return; }
+  if (h.startsWith('npc:')) { const id = h.slice(4); openEntry('p:' + id, codex.persons[id] ?? { title: figs[id].name, kind: L('Лицо', 'Person'), text: '' }); return; }
   if (h) { walkToHotspot(h); return; }
   const ray = new THREE.Raycaster(); ray.setFromCamera(new THREE.Vector2(mouse.x / W * 2 - 1, -(mouse.y / H * 2 - 1)), cam);
   const hit = ray.intersectObjects(proxies.filter((o) => o.visible), false)[0];
@@ -773,7 +813,9 @@ async function setTime(t, sec) {
     amb.intensity = lerp(a.amb, b.amb, k); amb.color.copy(aa).lerp(ab, k); lamps.forEach((l) => (l.intensity = lerp(a.lamps, b.lamps, k))); });
   bgUniforms.bgA.value = bgTex[t]; bgUniforms.cutA.value = cutTex[t]; bgUniforms.mixv.value = 0; curTime = t;
 }
-const PERCEPT = { shachi: 'Будто тень мелькнула у порога… Нрисимха, защити дитя!', neighbor: 'Кто там? Ветер, что ли, лампу качнул?', nimai: '(Нимай смотрит прямо на вас — и смеётся. Он видит.)' };
+const PERCEPT = { shachi: ['Будто тень мелькнула у порога… Нрисимха, защити дитя!', 'As if a shadow flickered at the threshold… Nrisimha, protect the child!'],
+  neighbor: ['Кто там? Ветер, что ли, лампу качнул?', 'Who is there? Was it the wind that stirred the lamp?'],
+  nimai: ['(Нимай смотрит прямо на вас — и смеётся. Он видит.)', '(Nimai looks straight at you — and laughs. He sees.)'] };
 let percept = 0, cool = 0, markerWait = null;
 function perceptTick(dt) {
   cool = Math.max(cool - dt, 0);
@@ -788,11 +830,11 @@ async function perceived(id) {
   const f = figs[id]; f.faceTo(player.pos);
   const away = new THREE.Vector3().subVectors(player.pos, f.pos).setY(0).normalize().multiplyScalar(3);
   player.walk(findPath(player.pos, f.pos.clone().add(away)));
-  await ui.say(f.name, PERCEPT[id], '', figColor(id), id === 'nimai', id);
+  await ui.say(f.name, pick(PERCEPT[id]), '', figColor(id), id === 'nimai', id);
 }
 function waitMarker(spot, hint) {
   marker.position.copy(spots[spot]); marker.visible = true;
-  if (hint) ui.setObjective($('objective').textContent + '\n✦ ' + hint);
+  if (hint) { ui.objHint = hint; ui.renderObjective(); }
   if (AUTOPLAY) player.pos.copy(nearest(spots[spot].clone().add(new THREE.Vector3(0.6, 0, 0.6))));
   return new Promise((res) => { markerWait = res; });
 }
@@ -832,22 +874,22 @@ async function step(s) {
       }
       if (f && s.who !== 'player') lastSpeaker = s.who;
       const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
-      await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who), false, s.who); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
-    case 'narrate': await ui.say('Шри Чайтанья-бхагавата', s.text, s.ref ?? '', '#8a6a2a', true); break;
-    case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true, 'player'); break;
-    case 'hint': ui.hint(s.text); break;
-    case 'objective': ui.setObjective(s.text); break;
-    case 'title': await ui.title(s.text, s.sub ?? '', s.sec ?? 3); break;
-    case 'fade': await ui.fade(s.text, s.ref ?? ''); break;
+      await ui.say(s.as ? tx(s, 'as') : (f?.name ?? s.who), tx(s), s.ref ?? '', figColor(s.who), false, s.who); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
+    case 'narrate': await ui.say(L('Шри Чайтанья-бхагавата', 'Sri Chaitanya-bhagavata'), tx(s), s.ref ?? '', '#8a6a2a', true, 'narrator'); break;
+    case 'narrate_game': await ui.say(player.name, tx(s), '', figColor('player'), true, 'player'); break;
+    case 'hint': ui.hint(tx(s)); break;
+    case 'objective': ui.setObjective([s.text, s.text_en]); break;
+    case 'title': await ui.title(tx(s), tx(s, 'sub'), s.sec ?? 3); break;
+    case 'fade': await ui.fade(tx(s), refL(s.ref ?? '')); break;
     case 'time': await setTime(s.value, s.sec ?? 2); break;
-    case 'choice': { const i = await ui.choose(player.name, s.prompt, s.options.map((o) => o.text), figColor('player'));
-      flags.push(s.options[i].flag ?? ''); await ui.say(player.name, s.options[i].reply, '', figColor('player'), true, 'player'); break; }
+    case 'choice': { const i = await ui.choose(player.name, tx(s, 'prompt'), s.options.map((o) => tx(o)), figColor('player'));
+      flags.push(s.options[i].flag ?? ''); await ui.say(player.name, tx(s.options[i], 'reply'), '', figColor('player'), true, 'player'); break; }
     case 'unlock': openEntry(s.id, codex.lilas[s.id]); break;
     case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
     case 'wait': await sleep((s.sec ?? 1) * 1000); break;
     case 'focus': focusHut = s.hut ?? ''; break;
     case 'celestial_hint':
-      if (!celestial) { ui.hint(s.text ?? 'Вы чувствуете чьё-то незримое присутствие. Нажмите Tab (или кнопку «Небо»), чтобы взглянуть небесным зрением.'); $('bSky').classList.add('pulse'); }
+      if (!celestial) { ui.hint(tx(s) || L('Вы чувствуете чьё-то незримое присутствие. Нажмите Tab (или кнопку «Небо»), чтобы взглянуть небесным зрением.', 'You sense an unseen presence. Press Tab (or the “Sky” button) to look with celestial vision.')); $('bSky').classList.add('pulse'); }
       break;
     case 'end': await finale(); break;
   }
@@ -855,13 +897,15 @@ async function step(s) {
 const flags = [];
 let lastSpeaker = '';
 async function finale() {
-  await ui.title('Слава Бала-Гопалу!', `Вы открыли ${Object.keys(found).length} из ${hsIds.length} предметов быта.\n\nИсточники лилы: «Шри Чайтанья-бхагавата», Ади 5.16–166; «Шри Чайтанья-чаритамрита», Ади 14.37; Мурари Гупта, 1.6.8; «Гаура-кришнодая», 3; «Бхакти-ратнакара», 12.\n\nКонец пробного уровня.`, 6);
-  ui.setObjective('Пробный уровень пройден. Можно бродить по двору и открывать предметы.');
+  const n = Object.keys(found).length, m = hsIds.length;
+  await ui.title(L('Слава Бала-Гопалу!', 'Glory to Bala-Gopala!'), L(`Вы открыли ${n} из ${m} предметов быта.\n\nИсточники лилы: «Шри Чайтанья-бхагавата», Ади 5.16–166; «Шри Чайтанья-чаритамрита», Ади 14.37; Мурари Гупта, 1.6.8; «Гаура-кришнодая», 3; «Бхакти-ратнакара», 12.\n\nКонец пробного уровня.`,
+    `You discovered ${n} of ${m} objects of daily life.\n\nSources of the lila: Sri Chaitanya-bhagavata, Adi 5.16–166; Sri Chaitanya-charitamrita, Adi 14.37; Murari Gupta, 1.6.8; Gaura-krishnodaya, 3; Bhakti-ratnakara, 12.\n\nEnd of the test level.`), 6);
+  ui.setObjective(['Пробный уровень пройден. Можно бродить по двору и открывать предметы.', 'Test level complete. You may wander the courtyard and discover its objects.']);
   if (AUTOPLAY) window.__done = true;
 }
 async function run() {
   for (const beat of scenario.beats) {
-    if (beat.marker) await waitMarker(beat.marker, beat.marker_hint ?? '');
+    if (beat.marker) await waitMarker(beat.marker, beat.marker_hint ? [beat.marker_hint, beat.marker_hint_en] : null);
     for (const s of beat.steps) await step(s);
     if (AUTOPLAY && beat.id === 'intro') await autoExplore();
   }
@@ -896,7 +940,7 @@ function frame() {
   olUni.cut1.value = bgUniforms.cut1.value; olUni.cut2.value = bgUniforms.cut2.value;
   const tip = $('tip');
   if (hovered && mouse.x >= 0) {
-    tip.textContent = hovered.startsWith('npc:') ? figs[hovered.slice(4)].name : codex.items[hovered].title + (found[hovered] ? '  ✓' : '');
+    tip.textContent = hovered.startsWith('npc:') ? figs[hovered.slice(4)].name : loc(codex.items[hovered]).title + (found[hovered] ? '  ✓' : '');
     tip.hidden = false; tip.style.left = (mouse.x + 18) + 'px'; tip.style.top = (mouse.y + 18) + 'px';
   } else tip.hidden = true;
   drawSparks(dt);
@@ -910,7 +954,7 @@ function frame() {
 }
 fit();
 $('loading').hidden = true;
-ui.counter();
+applyLang();
 requestAnimationFrame(frame);
 run();
 </script>
