@@ -5205,7 +5205,6 @@
    "brt-0010",
    "nvl-0006",
    "anv-0029",
-   "rm-0053",
    "krn-0028",
    "anv-0023",
    "brt-3006",
@@ -5540,7 +5539,6 @@
    "ev-rasika-visits-vraja",
    "ev-gopala-mathura-vitthaleshvara",
    "ev-lokanatha-forbids-mention",
-   "ev-shyamananda-viraha-mahotsava",
    "ev-srinivasa-journey-vrindavana",
    "ev-radha-for-govinda-from-puri",
    "ev-rupa-sanatana-departure",
@@ -10362,6 +10360,7 @@
    "rm-0030",
    "rm-0037",
    "rm-0042",
+   "rm-0053",
    "rm-0054",
    "brt-0021",
    "brt-3047",
@@ -10379,6 +10378,7 @@
    "ev-panchama-dola-barakola",
    "ev-gopivallabhapura-rasa-yatra",
    "ev-rasika-to-banapura-ahmad-beg",
+   "ev-shyamananda-viraha-mahotsava",
    "ev-rasika-annual-festivals",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-returns-utkala",
@@ -14204,5 +14204,18 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#kashiyari",
+  "ru": "Кашияри",
+  "en": "Kashiyari",
+  "note": "селение в Уткале («Кашияри-пури»; возможно, совр. Кешиари, Западный Мединипур — не установлено); Шьямананда являет там Тхакурани; уход Кишоры и Чинтамани («Расика-мангала», Пашчима 1, Дакшина 12, Уттара 1)",
+  "section": "",
+  "lilas": [
+   "rm-0053"
+  ],
+  "events": [
+   "ev-shyamananda-viraha-mahotsava"
+  ]
  }
 ]

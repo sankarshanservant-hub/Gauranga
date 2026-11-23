@@ -513,7 +513,7 @@
 - bhakti-ratnakara (B): Таранга 11, 553–578 — [553–578](../bhakti-ratnakara/ru/11.md?plain=1#L1663-L1738) · `brt-5071`
 - bhakti-ratnakara (B): Таранга 11, 579–603 — [579–603](../bhakti-ratnakara/ru/11.md?plain=1#L1741-L1813) · `brt-5072`
 
-## Господь входит в лоно Шачи / The Lord enters Shachi's womb  `ev-lord-enters-shachi-womb`
+## Господь входит в лоно Шачи / The Lord enters Shachi's womb  `ev-lord-enters-shachi-womb` (1485–1486, вероятно)
 
 - advaita-prakasha (D): Гл. 10, 54–58 — [54. Теперь рас–58. В лоне Шач](../advaita-prakash/10.md?plain=1#L58-L62) · `apr-0040`
 - cb (A): Ади 2, 144–149 — [144–145–149](../chaitanya-bhagavata/ed/CB_Adi02.md?plain=1#L712-L732) · `cb-0020`
@@ -6287,7 +6287,7 @@
 - vaishnava-lilamrita (D): Гл. 9, 101–128 — [9.101–9.128](../vaishnava-lilamrita/ru/09.md?plain=1#L124-L151) · `vlm-0161`
 - vaishnava-lilamrita (C): Гл. 9, 129–150 — [9.129–9.150](../vaishnava-lilamrita/ru/09.md?plain=1#L156-L177) · `vlm-0162`
 
-## Плач преданных после сокрытия Господа / The devotees' lament after the Lord's disappearance  `ev-devotees-lament-after-disappearance` (1533–1542, возраст 47–56, оценка)
+## Плач преданных после сокрытия Господа / The devotees' lament after the Lord's disappearance  `ev-devotees-lament-after-disappearance` (1533–1542, возраст 47–48, оценка)
 
 - gaura-krishnodaya (B): Сарга 18, 60–62 — [60–62](../gaura-krishnodaya/ru/18.md?plain=1#L131-L135) · `gkd-0188`
 - karnapura-ckm (A): Сарга 1, 13–29 — [13–29](../karnapura-mahakavya/ru/01.md?plain=1#L290-L650) · `kcm-0003`
@@ -6361,7 +6361,7 @@
 - prema-vilasa (D): Виласа 22, 80–92 — [80–92](../prema-vilasa/ru/22.md?plain=1#L242-L278) · `pvl-0188`
 - bhakti-ratnakara (B): Таранга 8, 371–374 — [371–374](../bhakti-ratnakara/ru/08.md?plain=1#L1126-L1135) · `brt-4018`
 
-## Явление Радха-рамана из шалаграма Гопалы Бхатты / Radha-ramana appears from Gopala Bhatta's shalagrama  `ev-radha-ramana-appearance` (1542–1542, возраст 56–56, вероятно)
+## Явление Радха-рамана из шалаграма Гопалы Бхатты / Radha-ramana appears from Gopala Bhatta's shalagrama  `ev-radha-ramana-appearance` (1542–1542, вероятно)
 
 - anuragavalli (C): Манджари 1, 147–154 — [147–154](../anuragavalli/ru/01.md?plain=1#L455-L478) · `anv-0007`
 - bhakti-ratnakara (B): Таранга 1, 199–208 — [199–208](../bhakti-ratnakara/ru/01.md?plain=1#L596-L623) · `brt-0008`
@@ -6795,7 +6795,7 @@
 - prema-vilasa (C): Виласа 12, 114–181 — [114–181](../prema-vilasa/ru/12.md?plain=1#L344-L545) · `pvl-0075`
 - anuragavalli (C): Манджари 6, 3–31 — [3–31](../anuragavalli/ru/06.md?plain=1#L15-L105) · `anv-0035`
 
-## Вайшнавы Вриндавана во главе с Харидасом Пандитом поручают Кришнадасу Кавирадже описать последние лилы; гирлянда Мадана-мохана / The Vaishnavas of Vrindavana led by Haridasa Pandita ask Krishnadasa Kaviraja to describe the final pastimes; the garland of Madana-mohana  `ev-kaviraja-ordered-to-write-cc` (1560–1615, возраст 74–129, оценка)
+## Вайшнавы Вриндавана во главе с Харидасом Пандитом поручают Кришнадасу Кавирадже описать последние лилы; гирлянда Мадана-мохана / The Vaishnavas of Vrindavana led by Haridasa Pandita ask Krishnadasa Kaviraja to describe the final pastimes; the garland of Madana-mohana  `ev-kaviraja-ordered-to-write-cc` (1560–1615, оценка)
 
 - cc (A): Ади 8.49–72 — [49–72](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi08.md?plain=1#L512-L748) · `cc-0098`
 - cc (A): Ади 8.73–80 — [73–80](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi08.md?plain=1#L758-L828) · `cc-0099`
@@ -7353,7 +7353,7 @@
 - karnananda (C): Нирьяса 4, 39–474 и колофон — [39–474](../karnananda/ru/04.md?plain=1#L119-L1433) · `krn-0023`
 - karnananda (C): Нирьяса 6, 123–136 — [123–136](../karnananda/ru/06.md?plain=1#L411-L454) · `krn-0032`
 
-## Рождение Расикананды в Рохини в ночь Дипавали 1512 г. Шаки (1590) / Rasikananda's birth at Rohini on the night of Dipavali, 1512 Shaka (1590)  `ev-rasikananda-birth` (1590–1590, возраст 104–104, точно)
+## Рождение Расикананды в Рохини в ночь Дипавали 1512 г. Шаки (1590) / Rasikananda's birth at Rohini on the night of Dipavali, 1512 Shaka (1590)  `ev-rasikananda-birth` (1590–1590, точно)
 
 - rasika-mangala (B): Пурва 3, 1–26 — [1–26](../rasika-mangala/ru/1-03.md?plain=1#L11-L86) · `rm-0005`
 - rasika-mangala (B): Пурва 4, 1–66 — [1–66](../rasika-mangala/ru/1-04.md?plain=1#L11-L206) · `rm-0007`
@@ -7512,7 +7512,7 @@
 
 - rasika-mangala (B): Пашчима 12, 1–78 — [1–78](../rasika-mangala/ru/3-12.md?plain=1#L11-L242) · `rm-0048`
 
-## Уход Шьямананды в Нрисимхапуре; он передаёт Расике власть в общине / Shyamananda's departure at Nrisimhapura; he hands Rasika the authority over the community  `ev-shyamananda-departure-nrisimhapura` (1630–1630, возраст 144–144, точно)
+## Уход Шьямананды в Нрисимхапуре; он передаёт Расике власть в общине / Shyamananda's departure at Nrisimhapura; he hands Rasika the authority over the community  `ev-shyamananda-departure-nrisimhapura` (1630–1630, точно)
 
 - rasika-mangala (B): Пашчима 13, 1–75 — [1–75](../rasika-mangala/ru/3-13.md?plain=1#L11-L233) · `rm-0049`
 
@@ -7553,7 +7553,7 @@
 - rasika-mangala (B): Уттара 12, 1–70 — [1–70](../rasika-mangala/ru/4-12.md?plain=1#L10-L217) · `rm-0064`
 - rasika-mangala (B): Уттара 13, 1–42 — [1–42](../rasika-mangala/ru/4-13.md?plain=1#L11-L134) · `rm-0065`
 
-## Уход Расикананды: он входит в тело Кширачоры Гопинатхи в Ремуне / Rasikananda's departure: he enters the form of Kshirachora Gopinatha at Remuna  `ev-rasikananda-departure-remuna` (1652–1652, возраст 166–166, вероятно)
+## Уход Расикананды: он входит в тело Кширачоры Гопинатхи в Ремуне / Rasikananda's departure: he enters the form of Kshirachora Gopinatha at Remuna  `ev-rasikananda-departure-remuna` (1652–1652, вероятно)
 
 - rasika-mangala (B): Уттара 14, 1–86 — [1–86](../rasika-mangala/ru/4-14.md?plain=1#L10-L265) · `rm-0066`
 - rasika-mangala (B): Уттара 15, 1–69 — [1–69](../rasika-mangala/ru/4-15.md?plain=1#L11-L215) · `rm-0067`
@@ -7790,11 +7790,11 @@
 - cc (A): Антья 4.227–231 — [227–231](../chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md?plain=1#L2310-L2350) · `cc-4050`
 - padas (C): Баларама Дас, ГПТ1 с. 466 (№ 39) «রূপ সনাতন সঙ্গে শ্রীজীব গোসাঞি» — [23.1–23.6](../padas/ru/13.md?plain=1#L640-L655) · `pad-0282`
 
-## Ядунандана Дас завершает «Карнананду» в Будхуипаре (по колофону — 1529 шака) / Yadunandana Dasa completes the Karnananda at Budhuipara (by the colophon, Shaka 1529)  `ev-karnananda-composed` (1607–1607, возраст 121–121, оценка)
+## Ядунандана Дас завершает «Карнананду» в Будхуипаре (по колофону — 1529 шака) / Yadunandana Dasa completes the Karnananda at Budhuipara (by the colophon, Shaka 1529)  `ev-karnananda-composed` (1607–1607, оценка)
 
 - karnananda (C): Нирьяса 6, 137–178 — [137–178](../karnananda/ru/06.md?plain=1#L457-L580) · `krn-0033`
 
-## Манохара Дас завершает «Анурага-валли» во Вриндаване (самват 1753, шака 1618 = 1696 г.) / Manohara Dasa completes the Anuraga-valli in Vrindavana (Samvat 1753, Shaka 1618 = 1696)  `ev-anuragavalli-composed` (1696–1696, возраст 210–210, точно)
+## Манохара Дас завершает «Анурага-валли» во Вриндаване (самват 1753, шака 1618 = 1696 г.) / Manohara Dasa completes the Anuraga-valli in Vrindavana (Samvat 1753, Shaka 1618 = 1696)  `ev-anuragavalli-composed` (1696–1696, точно)
 
 - anuragavalli (C): Манджари 8, 137–144 — [137–144](../anuragavalli/ru/08.md?plain=1#L466-L495) · `anv-0055`
 

@@ -208195,10 +208195,6 @@
    1533
   ],
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 1
  },
  {
@@ -208486,10 +208482,6 @@
    1533
   ],
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -208609,10 +208601,6 @@
    1533
   ],
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -208669,10 +208657,6 @@
    1533
   ],
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -219248,10 +219232,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 4
  },
  {
@@ -219507,10 +219487,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -219572,10 +219548,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -219632,10 +219604,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -219894,10 +219862,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 2
  },
  {
@@ -219951,10 +219915,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 2
  },
  {
@@ -220449,10 +220409,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -220510,10 +220466,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 3
  },
  {
@@ -220629,10 +220581,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   30,
-   47
-  ],
   "attestation": 1
  },
  {
@@ -227792,6 +227740,12 @@
    "sannyasa"
   ],
   "event": "ev-shyamananda-birth-dandeshvara",
+  "years": [
+   1534,
+   1534
+  ],
+  "date_conf": "оценка",
+  "date_basis": "РМ года не даёт; год рождения Шьямананды — 1534 (1456 шака, по T; карточка @shyamananda); уход из дома — без даты",
   "verses": [
    {
     "file": "rasika-mangala/ru/1-02.md",
@@ -227811,16 +227765,6 @@
     "file_en": "rasika-mangala/en/1-02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-02.md?plain=1#L10-L118"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -227851,6 +227795,7 @@
    "revelation"
   ],
   "event": "ev-shyamananda-initiation-ambika",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-02.md",
@@ -227870,16 +227815,6 @@
     "file_en": "rasika-mangala/en/1-02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-02.md?plain=1#L121-L169"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 4
  },
@@ -227908,6 +227843,7 @@
    "separation"
   ],
   "event": "ev-shyamananda-pilgrimage",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-02.md",
@@ -227927,16 +227863,6 @@
     "file_en": "rasika-mangala/en/1-02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-02.md?plain=1#L172-L322"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -228025,6 +227951,7 @@
    "mercy"
   ],
   "event": "ev-rasikananda-birth",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-03.md",
@@ -228044,15 +227971,6 @@
     "file_en": "rasika-mangala/en/1-03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-03.md?plain=1#L11-L86"
    }
-  ],
-  "years": [
-   1590,
-   1590
-  ],
-  "date_conf": "точно",
-  "age": [
-   104,
-   104
   ],
   "attestation": 1
  },
@@ -228145,6 +228063,7 @@
    "family"
   ],
   "event": "ev-achyuta-marries-bhavani",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-03.md",
@@ -228164,16 +228083,6 @@
     "file_en": "rasika-mangala/en/1-03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-03.md?plain=1#L89-L269"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -228204,6 +228113,13 @@
    "revelation"
   ],
   "event": "ev-rasikananda-birth",
+  "years": [
+   1590,
+   1590
+  ],
+  "date_conf": "точно",
+  "date_basis": "РМ П4.36–42: 1512 г. Шаки, ночь Дипавали; по пересчёту — ночь на 29.10.1590",
+  "calendar": "ночь Дипавали (амавасья месяца Дамодары, картика), 18-й день тулы, воскресенье",
   "verses": [
    {
     "file": "rasika-mangala/ru/1-04.md",
@@ -228223,15 +228139,6 @@
     "file_en": "rasika-mangala/en/1-04.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-04.md?plain=1#L11-L206"
    }
-  ],
-  "years": [
-   1590,
-   1590
-  ],
-  "date_conf": "точно",
-  "age": [
-   104,
-   104
   ],
   "attestation": 1
  },
@@ -228262,6 +228169,12 @@
    "revelation"
   ],
   "event": "ev-rasikananda-birth",
+  "years": [
+   1590,
+   1590
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "обряды и ликование сразу после рождения (РМ П4; 1512 шака = 1590)",
   "verses": [
    {
     "file": "rasika-mangala/ru/1-04.md",
@@ -228281,15 +228194,6 @@
     "file_en": "rasika-mangala/en/1-04.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-04.md?plain=1#L209-L404"
    }
-  ],
-  "years": [
-   1590,
-   1590
-  ],
-  "date_conf": "точно",
-  "age": [
-   104,
-   104
   ],
   "attestation": 1
  },
@@ -228386,6 +228290,7 @@
    "ecstasy"
   ],
   "event": "ev-rasikananda-naming",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-05.md",
@@ -228405,16 +228310,6 @@
     "file_en": "rasika-mangala/en/1-05.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-05.md?plain=1#L9-L184"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -228941,6 +228836,7 @@
    "kirtan"
   ],
   "event": "ev-rasikananda-annaprashana-bhagavata",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-06.md",
@@ -228960,16 +228856,6 @@
     "file_en": "rasika-mangala/en/1-06.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-06.md?plain=1#L16-L325"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -229276,7 +229162,7 @@
   "date_basis": "после сокрытия Господа (1533) и до завершения Махакавьи (1542)",
   "age": [
    47,
-   56
+   48
   ],
   "attestation": 4
  },
@@ -229328,10 +229214,6 @@
   ],
   "date_conf": "оценка",
   "date_basis": "после сокрытия Господа (1533) и до завершения Махакавьи (1542)",
-  "age": [
-   47,
-   56
-  ],
   "attestation": 4
  },
  {
@@ -229362,6 +229244,7 @@
    "ecstasy"
   ],
   "event": "ev-dayaladasi-gives-name-rasika",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-07.md",
@@ -229381,16 +229264,6 @@
     "file_en": "rasika-mangala/en/1-07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-07.md?plain=1#L11-L380"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -229512,10 +229385,6 @@
   ],
   "date_conf": "оценка",
   "date_basis": "после сокрытия Господа (1533) и до завершения Махакавьи (1542)",
-  "age": [
-   47,
-   56
-  ],
   "attestation": 4
  },
  {
@@ -229572,10 +229441,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -229628,10 +229493,6 @@
   ],
   "date_conf": "оценка",
   "date_basis": "после сокрытия Господа (1533) и до завершения Махакавьи (1542)",
-  "age": [
-   47,
-   56
-  ],
   "attestation": 4
  },
  {
@@ -229744,10 +229605,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -229993,10 +229850,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/en/20.md?plain=1#L958-L1117"
    }
   ],
-  "age": [
-   56,
-   56
-  ],
   "attestation": 1
  },
  {
@@ -230089,6 +229942,7 @@
    "kirtan"
   ],
   "event": "ev-rasikananda-hears-bhagavata",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-08.md",
@@ -230108,16 +229962,6 @@
     "file_en": "rasika-mangala/en/1-08.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-08.md?plain=1#L15-L273"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -230239,10 +230083,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -230304,10 +230144,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -230432,10 +230268,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -230531,6 +230363,7 @@
    "learning"
   ],
   "event": "ev-rasikananda-studies",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-09.md",
@@ -230550,16 +230383,6 @@
     "file_en": "rasika-mangala/en/1-09.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-09.md?plain=1#L16-L280"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -230812,10 +230635,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -230850,6 +230669,7 @@
    "family"
   ],
   "event": "ev-rasikananda-seven-days-forest",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-10.md",
@@ -230869,16 +230689,6 @@
     "file_en": "rasika-mangala/en/1-10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-10.md?plain=1#L11-L434"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -230970,6 +230780,7 @@
    "family"
   ],
   "event": "ev-rasikananda-marries-ichchha",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-11.md",
@@ -230989,16 +230800,6 @@
     "file_en": "rasika-mangala/en/1-11.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-11.md?plain=1#L9-L119"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -231117,10 +230918,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -231215,6 +231012,7 @@
    "festival"
   ],
   "event": "ev-rasikananda-marries-ichchha",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-12.md",
@@ -231234,16 +231032,6 @@
     "file_en": "rasika-mangala/en/1-12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-12.md?plain=1#L11-L470"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -231298,10 +231086,6 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "гаудийское предание: вайшакха-пурнима 1542 г.",
-  "age": [
-   56,
-   56
-  ],
   "attestation": 3
  },
  {
@@ -231356,10 +231140,6 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "гаудийское предание: вайшакха-пурнима 1542 г.",
-  "age": [
-   56,
-   56
-  ],
   "attestation": 3
  },
  {
@@ -231417,10 +231197,6 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "гаудийское предание: вайшакха-пурнима 1542 г.",
-  "age": [
-   56,
-   56
-  ],
   "attestation": 3
  },
  {
@@ -231491,10 +231267,6 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "гаудийское предание: вайшакха-пурнима 1542 г.",
-  "age": [
-   56,
-   56
-  ],
   "attestation": 3
  },
  {
@@ -231644,6 +231416,7 @@
    "teaching"
   ],
   "event": "ev-rasikananda-detachment",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-13.md",
@@ -231663,16 +231436,6 @@
     "file_en": "rasika-mangala/en/1-13.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-13.md?plain=1#L9-L104"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -231703,6 +231466,7 @@
    "separation"
   ],
   "event": "ev-krishna-appears-to-rasika-ghatashila",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-14.md",
@@ -231722,16 +231486,6 @@
     "file_en": "rasika-mangala/en/1-14.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-14.md?plain=1#L11-L227"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -231767,6 +231521,7 @@
    "muslims"
   ],
   "event": "ev-shyamananda-ordered-to-utkala-agra",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/1-15.md",
@@ -231786,16 +231541,6 @@
     "file_en": "rasika-mangala/en/1-15.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-15.md?plain=1#L11-L215"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -232722,6 +232467,12 @@
    "teaching"
   ],
   "event": "ev-rasikananda-initiation",
+  "years": [
+   1608,
+   1609
+  ],
+  "date_conf": "оценка",
+  "date_basis": "РМ Пш13.55, У15.8–13: Шьямананда пришёл, когда Расике было 18 лет (род. 29.10.1590)",
   "verses": [
    {
     "file": "rasika-mangala/ru/1-16.md",
@@ -232741,16 +232492,6 @@
     "file_en": "rasika-mangala/en/1-16.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/1-16.md?plain=1#L11-L278"
    }
-  ],
-  "date_conf": "оценка",
-  "years": [
-   1533,
-   1534
-  ],
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 2
  },
@@ -232921,10 +232662,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 8
  },
  {
@@ -233637,6 +233374,12 @@
    "revelation"
   ],
   "event": "ev-shyamananda-utkala",
+  "years": [
+   1608,
+   1609
+  ],
+  "date_conf": "оценка",
+  "date_basis": "посвящение — при встрече с гуру в 18 лет (РМ Пш13.55, У15.13; род. 1590)",
   "verses": [
    {
     "file": "rasika-mangala/ru/2-01.md",
@@ -233656,16 +233399,6 @@
     "file_en": "rasika-mangala/en/2-01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-01.md?plain=1#L13-L316"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 4
  },
@@ -233936,6 +233669,7 @@
    "revelation"
   ],
   "event": "ev-rasika-visits-vraja",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-02.md",
@@ -233955,16 +233689,6 @@
     "file_en": "rasika-mangala/en/2-02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-02.md?plain=1#L10-L226"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234118,6 +233842,7 @@
    "revelation"
   ],
   "event": "ev-gopivallabhapura-founded",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-03.md",
@@ -234137,16 +233862,6 @@
     "file_en": "rasika-mangala/en/2-03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-03.md?plain=1#L10-L307"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234180,6 +233895,12 @@
    "kirtan"
   ],
   "event": "ev-rasika-dharenda-rasamaya",
+  "years": [
+   1608,
+   1611
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после посвящения (≈ 1608–1609) и до обращения Дхаренды (Д5.11: Расике «всего двадцать лет»)",
   "verses": [
    {
     "file": "rasika-mangala/ru/2-04.md",
@@ -234199,16 +233920,6 @@
     "file_en": "rasika-mangala/en/2-04.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-04.md?plain=1#L10-L217"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234427,6 +234138,12 @@
    "kirtan"
   ],
   "event": "ev-bhima-shirikara-delivered",
+  "years": [
+   1610,
+   1611
+  ],
+  "date_conf": "оценка",
+  "date_basis": "РМ Д5.11: Бхима говорит Расике «тебе всего двадцать лет» (род. 1590)",
   "verses": [
    {
     "file": "rasika-mangala/ru/2-05.md",
@@ -234446,16 +234163,6 @@
     "file_en": "rasika-mangala/en/2-05.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-05.md?plain=1#L11-L209"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234517,10 +234224,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -234552,6 +234255,7 @@
    "separation"
   ],
   "event": "ev-gopivallabha-wedding",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-06.md",
@@ -234571,16 +234275,6 @@
     "file_en": "rasika-mangala/en/2-06.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-06.md?plain=1#L9-L119"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234609,6 +234303,7 @@
    "deities"
   ],
   "event": "ev-rasika-sixty-four-angas",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-07.md",
@@ -234628,16 +234323,6 @@
     "file_en": "rasika-mangala/en/2-07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-07.md?plain=1#L11-L206"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234666,6 +234351,7 @@
    "mercy"
   ],
   "event": "ev-rasika-forest-to-guru",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-08.md",
@@ -234685,16 +234371,6 @@
     "file_en": "rasika-mangala/en/2-08.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-08.md?plain=1#L11-L233"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234726,6 +234402,7 @@
    "festival"
   ],
   "event": "ev-rasika-mughal-ghee",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-09.md",
@@ -234745,16 +234422,6 @@
     "file_en": "rasika-mangala/en/2-09.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-09.md?plain=1#L9-L109"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -234812,10 +234479,6 @@
    }
   ],
   "calendar": "ашвина, тёмная половина, 8-й лунный день",
-  "age": [
-   55,
-   56
-  ],
   "attestation": 4
  },
  {
@@ -234881,10 +234544,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -235052,10 +234711,6 @@
    }
   ],
   "calendar": "ашвина, тёмная половина, 8-й лунный день",
-  "age": [
-   49,
-   49
-  ],
   "attestation": 4
  },
  {
@@ -235086,6 +234741,7 @@
    "deities"
   ],
   "event": "ev-panchama-dola-barakola",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-10.md",
@@ -235105,16 +234761,6 @@
     "file_en": "rasika-mangala/en/2-10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-10.md?plain=1#L11-L227"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -235235,10 +234881,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -235328,6 +234970,7 @@
    "muslims"
   ],
   "event": "ev-shyamananda-marriage-shyamadasi-curse",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-11.md",
@@ -235347,16 +234990,6 @@
     "file_en": "rasika-mangala/en/2-11.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-11.md?plain=1#L10-L214"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -235450,6 +235083,7 @@
    "pilgrimage"
   ],
   "event": "ev-vaidyanatha-bhanja-converted",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-12.md",
@@ -235469,16 +235103,6 @@
     "file_en": "rasika-mangala/en/2-12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-12.md?plain=1#L10-L244"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -235506,6 +235130,7 @@
    "teaching"
   ],
   "event": "ev-vaidyanatha-bhanja-converted",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-13.md",
@@ -235525,16 +235150,6 @@
     "file_en": "rasika-mangala/en/2-13.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-13.md?plain=1#L11-L233"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -235807,6 +235422,7 @@
    "teaching"
   ],
   "event": "ev-vaidyanatha-bhanja-converted",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-14.md",
@@ -235826,16 +235442,6 @@
     "file_en": "rasika-mangala/en/2-14.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-14.md?plain=1#L11-L212"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -235924,6 +235530,7 @@
    "mercy"
   ],
   "event": "ev-vaidyanatha-bhanja-converted",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-15.md",
@@ -235943,16 +235550,6 @@
     "file_en": "rasika-mangala/en/2-15.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-15.md?plain=1#L11-L419"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -236057,6 +235654,7 @@
    "revelation"
   ],
   "event": "ev-ramakrishna-slaps-raja",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/2-16.md",
@@ -236076,16 +235674,6 @@
     "file_en": "rasika-mangala/en/2-16.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/2-16.md?plain=1#L11-L224"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -236661,6 +236249,7 @@
    "deities"
   ],
   "event": "ev-gopivallabhapura-rasa-yatra",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-01.md",
@@ -236680,16 +236269,6 @@
     "file_en": "rasika-mangala/en/3-01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-01.md?plain=1#L14-L224"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -236844,6 +236423,7 @@
    "prasada"
   ],
   "event": "ev-gopivallabhapura-rasa-yatra",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-02.md",
@@ -236863,16 +236443,6 @@
     "file_en": "rasika-mangala/en/3-02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-02.md?plain=1#L10-L235"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -236902,6 +236472,7 @@
    "kirtan"
   ],
   "event": "ev-gopivallabhapura-rasa-yatra",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-03.md",
@@ -236921,16 +236492,6 @@
     "file_en": "rasika-mangala/en/3-03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-03.md?plain=1#L11-L203"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -236997,10 +236558,6 @@
    }
   ],
   "calendar": "пауша, светлая половина, 13-й лунный день",
-  "age": [
-   72,
-   73
-  ],
   "attestation": 3
  },
  {
@@ -237055,10 +236612,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -237184,10 +236737,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -237242,10 +236791,6 @@
    }
   ],
   "calendar": "пауша, светлая половина, 13-й лунный день",
-  "age": [
-   51,
-   51
-  ],
   "attestation": 3
  },
  {
@@ -237272,6 +236817,7 @@
    "krishna-lila"
   ],
   "event": "ev-gopivallabhapura-rasa-yatra",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-04.md",
@@ -237291,16 +236837,6 @@
     "file_en": "rasika-mangala/en/3-04.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-04.md?plain=1#L11-L209"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -237392,6 +236928,7 @@
    "kirtan"
   ],
   "event": "ev-gopivallabhapura-rasa-yatra",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-05.md",
@@ -237411,16 +236948,6 @@
     "file_en": "rasika-mangala/en/3-05.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-05.md?plain=1#L10-L259"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -237453,6 +236980,7 @@
    "muslims"
   ],
   "event": "ev-rasika-to-banapura-ahmad-beg",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-06.md",
@@ -237472,16 +237000,6 @@
     "file_en": "rasika-mangala/en/3-06.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-06.md?plain=1#L9-L104"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -237513,6 +237031,7 @@
    "muslims"
   ],
   "event": "ev-rasika-to-banapura-ahmad-beg",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-07.md",
@@ -237532,16 +237051,6 @@
     "file_en": "rasika-mangala/en/3-07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-07.md?plain=1#L12-L303"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -237602,10 +237111,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -237635,6 +237140,7 @@
    "kirtan"
   ],
   "event": "ev-rasikananda-elephant",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-08.md",
@@ -237654,16 +237160,6 @@
     "file_en": "rasika-mangala/en/3-08.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-08.md?plain=1#L11-L326"
    }
-  ],
-  "date_conf": "оценка",
-  "years": [
-   1533,
-   1534
-  ],
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 2
  },
@@ -237773,10 +237269,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -237831,10 +237323,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -237924,6 +237412,7 @@
    "muslims"
   ],
   "event": "ev-ahmad-beg-gajapati-shelter",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-09.md",
@@ -237943,16 +237432,6 @@
     "file_en": "rasika-mangala/en/3-09.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-09.md?plain=1#L11-L248"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238189,10 +237668,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -238245,10 +237720,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -238276,6 +237747,7 @@
    "mercy"
   ],
   "event": "ev-elephant-gopala-dasa-serves",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-10.md",
@@ -238295,16 +237767,6 @@
     "file_en": "rasika-mangala/en/3-10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-10.md?plain=1#L10-L256"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238335,6 +237797,7 @@
    "festival"
   ],
   "event": "ev-govinda-gopivallabhapura-installed",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-11.md",
@@ -238354,16 +237817,6 @@
     "file_en": "rasika-mangala/en/3-11.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-11.md?plain=1#L9-L104"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238394,6 +237847,7 @@
    "separation"
   ],
   "event": "ev-shyamasundarpura-founded",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-12.md",
@@ -238413,16 +237867,6 @@
     "file_en": "rasika-mangala/en/3-12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-12.md?plain=1#L11-L242"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238456,6 +237900,13 @@
    "kirtan"
   ],
   "event": "ev-shyamananda-departure-nrisimhapura",
+  "years": [
+   1630,
+   1630
+  ],
+  "date_conf": "точно",
+  "date_basis": "РМ Пш13.49–50: 1552 г. Шаки, в Снана-ятру, в первый день тёмной половины при наступлении ашадхи",
+  "calendar": "ашадха, кришна-пратипада (на другой день после Снана-ятры)",
   "verses": [
    {
     "file": "rasika-mangala/ru/3-13.md",
@@ -238475,15 +237926,6 @@
     "file_en": "rasika-mangala/en/3-13.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-13.md?plain=1#L11-L233"
    }
-  ],
-  "years": [
-   1630,
-   1630
-  ],
-  "date_conf": "точно",
-  "age": [
-   144,
-   144
   ],
   "attestation": 1
  },
@@ -238538,10 +237980,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -238637,6 +238075,12 @@
    "festival"
   ],
   "event": "ev-shyamananda-viraha-mahotsava",
+  "years": [
+   1630,
+   1631
+  ],
+  "date_conf": "оценка",
+  "date_basis": "выбор адхикари и подготовка праздника разлуки — после ухода Шьямананды (1552 шака = 1630; РМ Пш14)",
   "verses": [
    {
     "file": "rasika-mangala/ru/3-14.md",
@@ -238656,16 +238100,6 @@
     "file_en": "rasika-mangala/en/3-14.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-14.md?plain=1#L11-L518"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238694,6 +238128,7 @@
    "author"
   ],
   "event": "ev-shyamananda-viraha-mahotsava",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/3-15.md",
@@ -238713,16 +238148,6 @@
     "file_en": "rasika-mangala/en/3-15.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-15.md?plain=1#L11-L266"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238816,6 +238241,12 @@
    "kirtan"
   ],
   "event": "ev-shyamananda-viraha-mahotsava",
+  "years": [
+   1630,
+   1631
+  ],
+  "date_conf": "оценка",
+  "date_basis": "праздник разлуки начинается в лунный день ухода Шьямананды (РМ Пш16.35–42) — по-видимому, в первую годовщину; уход — 1552 шака (1630)",
   "verses": [
    {
     "file": "rasika-mangala/ru/3-16.md",
@@ -238835,16 +238266,6 @@
     "file_en": "rasika-mangala/en/3-16.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/3-16.md?plain=1#L11-L236"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -238899,10 +238320,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -238912,25 +238329,32 @@
   "file": "rasika-mangala/ru/4-01.md",
   "period": "P15",
   "order": 53,
-  "title": "Окончание праздника разлуки: дадхи-када, двенадцать дней; Кишора и Чинтамани бранят Расику и уходят во Вриндаван",
-  "summary": "Расика двенадцать дней танцует на празднике разлуки, затем дадхи-када до вечера; он одаривает и отпускает гостей и с тех пор вводит праздник двенадцати дней; старшие братья Кишора и Чинтамани Дас бросают поднесённые им одежды и бранят Расику, а он радуется, что ткань упала ему на голову, и смиренно молит их; они уходят во Вриндаван.",
+  "title": "Окончание праздника разлуки: дадхи-када, двенадцать дней; Кишора и Чинтамани бранят Расику и, раскаявшись, уходят из этого мира в Кашияри",
+  "summary": "Расика двенадцать дней танцует на празднике разлуки, затем дадхи-када до вечера; он одаривает и отпускает гостей и с тех пор вводит праздник двенадцати дней; старшие братья Кишора и Чинтамани Дас бросают поднесённые им одежды и бранят Расику, а он радуется, что ткань упала ему на голову, и смиренно молит их; в ту же ночь братья заболевают и уходят в Кашияри; Расика идёт за ними через леса, служит им и зовёт лекарей; признав, что оскорбили Расику, через несколько дней они уходят из этого мира («ушли в мир Вайкунтхи», в колофоне — «достижение Вриндавана»); Расика устраивает праздник в их память и идёт в Дхаренду, где справляет дни арадханы Дамодары Госани.",
   "persons": [
    "@rasikananda",
    "@kishoradasa-shyamananda"
   ],
   "places": [
    "#gopivallabhapura",
-   "#vrindavana"
+   "#kashiyari",
+   "#dharenda"
   ],
   "kind": "post-advent",
   "authority": "B",
   "parallels": "",
-  "notes": "",
+  "notes": "«Ушли в мир Вайкунтхи» (У1.56) и «достижение Вриндавана» (колофон) — о кончине братьев (уходе из этого мира), а не о паломничестве во Вриндаван.",
   "themes": [
    "festival",
    "separation"
   ],
   "event": "ev-shyamananda-viraha-mahotsava",
+  "years": [
+   1630,
+   1631
+  ],
+  "date_conf": "оценка",
+  "date_basis": "окончание праздника разлуки (РМ У1; праздник — Пш16.35–42, по-видимому, в первую годовщину ухода Шьямананды, 1630)",
   "verses": [
    {
     "file": "rasika-mangala/ru/4-01.md",
@@ -238950,16 +238374,6 @@
     "file_en": "rasika-mangala/en/4-01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-01.md?plain=1#L14-L206"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -239019,10 +238433,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -239072,10 +238482,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -239172,6 +238578,7 @@
    "festival"
   ],
   "event": "ev-rasika-annual-festivals",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-02.md",
@@ -239191,16 +238598,6 @@
     "file_en": "rasika-mangala/en/4-02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-02.md?plain=1#L11-L200"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -239287,6 +238684,7 @@
    "revelation"
   ],
   "event": "ev-uddanda-pride-three-thakuranis",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-03.md",
@@ -239306,16 +238704,6 @@
     "file_en": "rasika-mangala/en/4-03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-03.md?plain=1#L9-L129"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -239538,6 +238926,7 @@
    "family"
   ],
   "event": "ev-uddanda-pride-three-thakuranis",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-04.md",
@@ -239557,16 +238946,6 @@
     "file_en": "rasika-mangala/en/4-04.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-04.md?plain=1#L11-L185"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -239679,10 +239058,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -239744,10 +239119,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -239798,10 +239169,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -239857,10 +239224,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -239917,10 +239280,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -239975,10 +239334,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -240068,6 +239423,7 @@
    "revelation"
   ],
   "event": "ev-uddanda-pride-three-thakuranis",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-05.md",
@@ -240087,16 +239443,6 @@
     "file_en": "rasika-mangala/en/4-05.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-05.md?plain=1#L11-L179"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -240268,10 +239614,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -240368,6 +239710,7 @@
    "ecstasy"
   ],
   "event": "ev-gopivallabhapura-twelve-day-festival",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-06.md",
@@ -240387,16 +239730,6 @@
     "file_en": "rasika-mangala/en/4-06.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-06.md?plain=1#L11-L191"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -240453,10 +239786,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -240579,10 +239908,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -240640,10 +239965,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -240846,6 +240167,7 @@
    "revelation"
   ],
   "event": "ev-gopivallabhapura-twelve-day-festival",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-07.md",
@@ -240865,16 +240187,6 @@
     "file_en": "rasika-mangala/en/4-07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-07.md?plain=1#L10-L196"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -240970,6 +240282,7 @@
    "offense"
   ],
   "event": "ev-rasika-journey-nilachala",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-08.md",
@@ -240989,16 +240302,6 @@
     "file_en": "rasika-mangala/en/4-08.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-08.md?plain=1#L9-L109"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -241172,10 +240475,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -241202,6 +240501,7 @@
    "mercy"
   ],
   "event": "ev-rasika-journey-nilachala",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-09.md",
@@ -241221,16 +240521,6 @@
     "file_en": "rasika-mangala/en/4-09.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-09.md?plain=1#L10-L229"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -241378,6 +240668,7 @@
    "festival"
   ],
   "event": "ev-rasika-moves-ratha",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-10.md",
@@ -241397,16 +240688,6 @@
     "file_en": "rasika-mangala/en/4-10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-10.md?plain=1#L11-L215"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -241468,10 +240749,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -241623,6 +240900,7 @@
    "muslims"
   ],
   "event": "ev-rasika-shah-shuja-elephants-tigers",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-11.md",
@@ -241642,16 +240920,6 @@
     "file_en": "rasika-mangala/en/4-11.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-11.md?plain=1#L11-L263"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -241707,10 +240975,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -241768,10 +241032,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -241919,6 +241179,7 @@
    "revelation"
   ],
   "event": "ev-rasika-shah-shuja-elephants-tigers",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-12.md",
@@ -241938,16 +241199,6 @@
     "file_en": "rasika-mangala/en/4-12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-12.md?plain=1#L10-L217"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -242002,10 +241253,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -242185,10 +241432,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -242382,10 +241625,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -242563,10 +241802,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -242687,10 +241922,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -242778,6 +242009,7 @@
    "kirtan"
   ],
   "event": "ev-rasika-shah-shuja-elephants-tigers",
+  "years": [],
   "verses": [
    {
     "file": "rasika-mangala/ru/4-13.md",
@@ -242797,16 +242029,6 @@
     "file_en": "rasika-mangala/en/4-13.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-13.md?plain=1#L11-L134"
    }
-  ],
-  "years": [
-   1533,
-   1534
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   47,
-   48
   ],
   "attestation": 1
  },
@@ -243026,6 +242248,12 @@
    "separation"
   ],
   "event": "ev-rasikananda-departure-remuna",
+  "years": [
+   1652,
+   1653
+  ],
+  "date_conf": "оценка",
+  "date_basis": "последние дни Расики: РМ года не даёт — 62 года 4 месяца (У15.37) от рождения 1590 → начало 1653; T, M — 1652",
   "verses": [
    {
     "file": "rasika-mangala/ru/4-14.md",
@@ -243045,15 +242273,6 @@
     "file_en": "rasika-mangala/en/4-14.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-14.md?plain=1#L10-L265"
    }
-  ],
-  "years": [
-   1652,
-   1652
-  ],
-  "date_conf": "вероятно",
-  "age": [
-   166,
-   166
   ],
   "attestation": 1
  },
@@ -243181,10 +242400,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -243406,6 +242621,12 @@
    "departure"
   ],
   "event": "ev-rasikananda-departure-remuna",
+  "years": [
+   1652,
+   1653
+  ],
+  "date_conf": "оценка",
+  "date_basis": "последние дни Расики: РМ года не даёт — 62 года 4 месяца (У15.37) от рождения 1590 → начало 1653; T, M — 1652",
   "verses": [
    {
     "file": "rasika-mangala/ru/4-15.md",
@@ -243425,15 +242646,6 @@
     "file_en": "rasika-mangala/en/4-15.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-15.md?plain=1#L11-L215"
    }
-  ],
-  "years": [
-   1652,
-   1652
-  ],
-  "date_conf": "вероятно",
-  "age": [
-   166,
-   166
   ],
   "attestation": 1
  },
@@ -243491,10 +242703,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -243548,10 +242756,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -243608,10 +242812,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -243675,10 +242875,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -243807,10 +243003,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -243968,6 +243160,13 @@
    "separation"
   ],
   "event": "ev-rasikananda-departure-remuna",
+  "years": [
+   1652,
+   1653
+  ],
+  "date_conf": "оценка",
+  "date_basis": "РМ года не даёт: 62 года 4 месяца (У15.37) от рождения 29.10.1590 → пхальгуна 1574 шака ≈ 28.02.1653; T, M — 1652",
+  "calendar": "пхальгуна, пратипада по окончании Шива-чатурдаши (РМ У16.3)",
   "verses": [
    {
     "file": "rasika-mangala/ru/4-16.md",
@@ -243987,15 +243186,6 @@
     "file_en": "rasika-mangala/en/4-16.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/rasika-mangala/en/4-16.md?plain=1#L10-L196"
    }
-  ],
-  "years": [
-   1652,
-   1652
-  ],
-  "date_conf": "вероятно",
-  "age": [
-   166,
-   166
   ],
   "attestation": 1
  },
@@ -244058,10 +243248,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -244119,10 +243305,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -244179,10 +243361,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -244239,10 +243417,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -244305,10 +243479,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -244436,10 +243606,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -244501,10 +243667,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -244578,10 +243740,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -244896,10 +244054,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -244954,10 +244108,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -245264,10 +244414,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -245322,10 +244468,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -245519,10 +244661,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -245631,10 +244769,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -245690,10 +244824,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -245747,10 +244877,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -245872,10 +244998,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -245943,10 +245065,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -246446,10 +245564,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -246571,10 +245685,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -246691,10 +245801,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -246816,10 +245922,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -247003,10 +246105,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -247193,10 +246291,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -247456,10 +246550,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -247528,10 +246618,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -247591,10 +246677,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -247772,10 +246854,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -248008,10 +247086,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -248085,10 +247159,6 @@
   ],
   "date_conf": "оценка",
   "date_basis": "в ЧЧ дата не названа; окончание ЧЧ — по колофону ряда рукописей 1537 шака (1615 г.), по другим оценкам — ок. 1581 г.; начато после «Чайтанья-бхагаваты»",
-  "age": [
-   74,
-   129
-  ],
   "attestation": 1
  },
  {
@@ -248335,10 +247405,6 @@
   ],
   "date_conf": "оценка",
   "date_basis": "в ЧЧ дата не названа; окончание ЧЧ — по колофону ряда рукописей 1537 шака (1615 г.), по другим оценкам — ок. 1581 г.; начато после «Чайтанья-бхагаваты»",
-  "age": [
-   74,
-   129
-  ],
   "attestation": 1
  },
  {
@@ -248593,10 +247659,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -248816,10 +247878,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -248879,10 +247937,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -248941,10 +247995,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249004,10 +248054,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249128,10 +248174,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249191,10 +248233,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249249,10 +248287,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249315,10 +248349,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249381,10 +248411,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249448,10 +248474,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249510,10 +248532,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249573,10 +248591,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249634,10 +248648,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249696,10 +248706,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249762,10 +248768,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249828,10 +248830,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249907,10 +248905,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -249969,10 +248963,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -250095,10 +249085,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250159,10 +249145,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250233,10 +249215,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250293,10 +249271,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250371,10 +249345,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -250443,10 +249413,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250507,10 +249473,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250574,10 +249536,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250639,10 +249597,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -250709,10 +249663,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -251262,10 +250212,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -251321,10 +250267,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -251518,10 +250460,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -251581,10 +250519,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -251693,10 +250627,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -252022,10 +250952,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -252083,10 +251009,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -252141,10 +251063,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -252276,10 +251194,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -252407,10 +251321,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -252529,10 +251439,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -252669,10 +251575,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -252732,10 +251634,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -252928,10 +251826,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -253113,10 +252007,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -253237,10 +252127,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -253298,10 +252184,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -253360,10 +252242,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -253427,10 +252305,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -253490,10 +252364,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -253550,10 +252420,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -253606,10 +252472,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -253666,10 +252528,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -253792,10 +252650,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -253975,10 +252829,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -254042,10 +252892,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -254231,10 +253077,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254295,10 +253137,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254362,10 +253200,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254427,10 +253261,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254561,10 +253391,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254640,10 +253466,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254703,10 +253525,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -254906,10 +253724,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -255042,10 +253856,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -255098,10 +253908,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -255226,10 +254032,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -255285,10 +254087,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255343,10 +254141,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255528,10 +254322,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255646,10 +254436,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255721,10 +254507,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255783,10 +254565,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255842,10 +254620,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255901,10 +254675,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -255960,10 +254730,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256082,10 +254848,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256140,10 +254902,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256194,10 +254952,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256260,10 +255014,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256324,10 +255074,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256384,10 +255130,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256507,10 +255249,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256574,10 +255312,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256760,10 +255494,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -256820,10 +255550,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -256936,10 +255662,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257060,10 +255782,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -257122,10 +255840,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 5
  },
  {
@@ -257247,10 +255961,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257307,10 +256017,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257365,10 +256071,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257426,10 +256128,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257485,10 +256183,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257545,10 +256239,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -257725,10 +256415,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -257790,10 +256476,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -257920,10 +256602,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -258044,10 +256722,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -258104,10 +256778,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -258163,10 +256833,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -258339,10 +257005,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -258544,10 +257206,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -258673,10 +257331,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -258732,10 +257386,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -258930,10 +257580,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -258994,10 +257640,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -259058,10 +257700,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -259376,10 +258014,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -259438,10 +258072,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -259510,10 +258140,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -259891,10 +258517,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -259960,10 +258582,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -260028,10 +258646,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -260102,10 +258716,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -260756,10 +259366,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -260827,10 +259433,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -260955,10 +259557,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -261015,10 +259613,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -261075,10 +259669,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -261256,10 +259846,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -261326,10 +259912,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -261442,10 +260024,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -261507,10 +260085,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -261564,10 +260138,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -261685,10 +260255,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -261751,10 +260317,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -261816,10 +260378,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -261875,10 +260433,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262116,10 +260670,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262174,10 +260724,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262234,10 +260780,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262306,10 +260848,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262372,10 +260910,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262512,10 +261046,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -262570,10 +261100,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -262809,10 +261335,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -262940,10 +261462,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -263455,10 +261973,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -263517,10 +262031,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264109,10 +262619,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264171,10 +262677,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264231,10 +262733,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264290,10 +262788,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -264354,10 +262848,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -264422,10 +262912,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -264488,10 +262974,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -264556,10 +263038,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264617,10 +263095,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264678,10 +263152,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264746,10 +263216,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -264809,10 +263275,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -265121,10 +263583,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265184,10 +263642,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265242,10 +263696,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -265312,10 +263762,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265375,10 +263821,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -265442,10 +263884,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -265506,10 +263944,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265569,10 +264003,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265624,10 +264054,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265699,10 +264125,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -265826,10 +264248,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265902,10 +264320,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -265963,10 +264377,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266023,10 +264433,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266264,10 +264670,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266326,10 +264728,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -266391,10 +264789,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -266454,10 +264848,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266517,10 +264907,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266576,10 +264962,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266699,10 +265081,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -266823,10 +265201,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266905,10 +265279,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -266964,10 +265334,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -267030,10 +265396,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -267088,10 +265450,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -267149,10 +265507,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -267275,10 +265629,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -267775,10 +266125,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -267837,10 +266183,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -268150,10 +266492,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -268217,10 +266555,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -268350,10 +266684,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -268748,10 +267078,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -269674,10 +268000,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -269790,10 +268112,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -269911,10 +268229,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -270041,10 +268355,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -270105,10 +268415,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -270170,10 +268476,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -270234,10 +268536,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -270293,10 +268591,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -270353,10 +268647,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -270412,10 +268702,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -270581,10 +268867,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -270638,10 +268920,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -271037,10 +269315,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271100,10 +269374,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271162,10 +269432,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271225,10 +269491,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -271288,10 +269550,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271347,10 +269605,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271407,10 +269661,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271532,10 +269782,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -271654,10 +269900,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -271713,10 +269955,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -271788,10 +270026,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -271848,10 +270082,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -271978,10 +270208,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272042,10 +270268,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272098,10 +270320,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272157,10 +270375,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272218,10 +270432,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272274,10 +270484,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272336,10 +270542,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272395,10 +270597,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272534,10 +270732,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272612,10 +270806,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272776,10 +270966,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272845,10 +271031,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272908,10 +271090,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -272969,10 +271147,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -273026,10 +271200,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -273169,10 +271339,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -273296,10 +271462,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -273443,10 +271605,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -273513,10 +271671,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -273576,10 +271730,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -273644,10 +271794,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -273709,10 +271855,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -273771,10 +271913,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -273828,10 +271966,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -273888,10 +272022,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -274062,10 +272192,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -274659,10 +272785,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -274957,10 +273079,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -275022,10 +273140,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -276720,10 +274834,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -276912,10 +275022,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -277044,10 +275150,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -277109,10 +275211,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -277239,10 +275337,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 4
  },
  {
@@ -277364,10 +275458,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -277555,10 +275645,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -277630,10 +275716,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -277691,10 +275773,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -277761,10 +275839,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -277820,10 +275894,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -277883,10 +275953,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -278079,10 +276145,6 @@
    1534
   ],
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -278444,10 +276506,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -278706,10 +276764,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -278888,10 +276942,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 1
  },
  {
@@ -278954,10 +277004,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -279008,10 +277054,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -279066,10 +277108,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -279120,10 +277158,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 2
  },
  {
@@ -279356,10 +277390,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -279475,10 +277505,6 @@
   ],
   "date_conf": "оценка",
   "years_from": "period",
-  "age": [
-   47,
-   48
-  ],
   "attestation": 3
  },
  {
@@ -279530,10 +277556,6 @@
   "date_conf": "точно",
   "date_basis": "колофон «Анурага-валли» (8.144): самват 1753, шака 1618, чайтра, светлая половина, десятый день",
   "calendar": "чайтра, шукла-дашами",
-  "age": [
-   210,
-   210
-  ],
   "attestation": 1
  },
  {
@@ -287373,10 +285395,6 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/22.md?plain=1#L137-L170"
    }
   ],
-  "age": [
-   82,
-   82
-  ],
   "attestation": 1
  },
  {
@@ -290555,10 +288573,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L3186-L3225"
    }
   ],
-  "age": [
-   115,
-   115
-  ],
   "attestation": 1
  },
  {
@@ -290675,10 +288689,6 @@
     "file_en": "prema-vilasa/en/24.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L5991-L6087"
    }
-  ],
-  "age": [
-   115,
-   115
   ],
   "attestation": 1
  },
@@ -291322,10 +289332,6 @@
   ],
   "date_conf": "оценка",
   "date_basis": "колофон «Карнананды» 6.168–170: 1529 (шака), вайшакха, полнолуние; дата сомнительна (поздние вставки)",
-  "age": [
-   121,
-   121
-  ],
   "attestation": 1
  },
  {

@@ -5,6 +5,7 @@ import yaml
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 BIRTH = 1486
+DEPARTURE = 1534   # возраст Господа считается только в пределах Его явленной лилы
 
 
 def read(path):
@@ -161,14 +162,16 @@ def load(errors, events):
 def resolve(e, ev):
     """Итоговые годы/возраст: своё значение → событие → период."""
     r = dict(e)
+    unknown = e.get('years') == [] and 'years' in e   # «years: []» — год явно неизвестен: не брать из события и периода
     for k in ('years', 'age', 'date_conf', 'date_basis', 'calendar', 'cc', 'cb'):
+        if unknown and k in ('years', 'age', 'date_conf', 'date_basis'): continue
         if not r.get(k) and ev and ev.get(k): r[k] = ev[k]
-    if not r.get('years') and r.get('period') in PERIOD_YEARS:
+    if not unknown and not r.get('years') and r.get('period') in PERIOD_YEARS:
         r['years'] = PERIOD_YEARS[r['period']]
         if not r.get('date_conf'): r['date_conf'] = 'оценка'
         r['years_from'] = 'period'
-    if not r.get('age') and r.get('years') and r['years'][0] >= BIRTH:
-        r['age'] = [max(0, r['years'][0] - BIRTH), r['years'][1] - BIRTH]
+    if not r.get('age') and r.get('years') and BIRTH <= r['years'][0] <= DEPARTURE and r.get('kind') != 'post-advent':
+        r['age'] = [max(0, r['years'][0] - BIRTH), min(r['years'][1], DEPARTURE) - BIRTH]
     return r
 
 
@@ -296,7 +299,7 @@ def build():
     ev_md = ['# Лилы-события: одна лила во всех писаниях', '', '*Собрано `build.py`; не править вручную.*', '']
     for ev in sorted(evout, key=lambda x: (order.index(x['period']) if x['period'] in order else 99, x.get('order') or 0)):
         y = ev.get('years'); a = ev.get('age')
-        when = f" ({y[0]}–{y[1]}, возраст {a[0]}–{a[1]}, {ev.get('date_conf', '')})" if y and a else ''
+        when = (f" ({y[0]}–{y[1]}, возраст {a[0]}–{a[1]}, {ev.get('date_conf', '')})" if a else f" ({y[0]}–{y[1]}, {ev.get('date_conf', '')})") if y else ''
         ev_md += [f"## {ev['title']} / {ev['title_en']}  `{ev['id']}`{when}", '']
         for x in by_event.get(ev['id'], []):
             links = '; '.join(f"[{v['from']}–{v['to']}](../{v['file']}?plain=1#L{v['line']}-L{v['line_to']})" for v in x.get('verses_resolved') or [])
