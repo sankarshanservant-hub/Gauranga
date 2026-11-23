@@ -391,3 +391,5 @@
 | #binodpur | Бинодпур | Binodpur | селение (Бенгалия), дом дяди по матери @krishnadasa-babaji, где он учился (B 1117) |
 | #hrishikesha | Хришикеш | Rishikesh (Hrishikesha) | у Ганги в Гималаях; там принял санньясу @narottama-dasa-yativara (B 1117) |
 | #tangail | Тангайл | Tangail | Восточная Бенгалия (прежде подокруг Майменсингха, ныне Бангладеш); по T и Mб — родина @jagannatha-dasa-babaji (T 222); ср. #east-bengal |
+| #kurukshetra | Курукшетра | Kurukshetra | Харьяна (близ Танешвара); место встречи Кришны с враджаваси в солнечное затмение; Вьяса-Гаудия-матх и выставки @bhaktisiddhanta в затмения 1928, 1933, 1936 (T 254, 258, 262; B 1127) |
+| #london | Лондон | London | Англия; Лондонский Гаудия-матх и «Gaudiya Mission Society» (1933–1934), проповедь учеников @bhaktisiddhanta (T 257–259; B 1125) |
