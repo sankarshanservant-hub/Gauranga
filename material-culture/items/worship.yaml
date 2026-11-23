@@ -921,3 +921,110 @@
   images: []
   game: {model: "прямой бамбуковый посох в рост человека (~1,7 м) с узлами; камандалу", where: ["puri/road"]}
   todo: "«смысл» — дать по комментарию Бхактисиддханты (Анубхашья к ЧЧ Мадхья 5.158) своими словами"
+
+- id: mc-death-by-the-ganga
+  title: {ru: "Кончина и кремация у Ганги", en: "Death and cremation by the Ganga"}
+  rubric: rites
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Уход Джаганнатхи Мишры жития описывают кратко, без обрядовых подробностей (ЧБ Ади 8.109–121; ср. ЧБ Ади 1.105);
+      Анупама «оставил мир на берегу Ганги» — ЧЧ Антья 1.37. Порядок обрядов — по Ward 1863, p. 260–261 (Бенгалия
+      ок. 1810), т. е. реконструкция.
+    en: >-
+      The hagiographies describe Jagannatha Mishra's passing briefly, without ritual detail (CB Adi 8.109–121; cf. CB
+      Adi 1.105); Anupama "left the world on the bank of the Ganga" — CC Antya 1.37. The order of rites follows Ward
+      1863, p. 260–261 (Bengal c. 1810), i.e. a reconstruction.
+  text:
+    ru: >-
+      Умирать хотели у Ганги: тяжелобольного переносили на берег, а в последний миг погружали по пояс в воду и
+      помогали громко произносить имена Господа. Тело клали на ткань, умащали гхи, омывали водой Ганги и обёртывали
+      новой тканью; старший сын, омывшись, подносил к устам умершего шарик риса и горящую головню и поджигал костёр
+      на прибрежном месте сожжения, подливая гхи. Прах смывали в реку, а вернувшись, все касались огня и жевали
+      горькие листья нима. Когда ушёл Джаганнатха Мишра, юный Господь плакал о нём, как Рама о Дашаратхе, и утешал
+      мать: «Пока Я с тобой, ты ни в чём не будешь нуждаться».
+    en: >-
+      People wished to die by the Ganga: the gravely ill were carried to the bank, and at the last moment lowered
+      waist-deep into the water and helped to call aloud the names of the Lord. The body was laid on a cloth, anointed
+      with ghee, washed with Ganga water and wrapped in new cloth; the eldest son, having bathed, touched the dead
+      person's lips with a ball of rice and a burning brand and lit the pyre at the riverside burning-ground, pouring
+      on ghee. The ashes were washed into the river, and on returning everyone touched fire and chewed bitter neem
+      leaves. When Jagannatha Mishra departed, the young Lord wept for him as Rama wept for Dasharatha, and comforted
+      His mother: "While I am with you, you shall want for nothing."
+  hagiography: ["ЧБ Ади 8.109–121", "ЧБ Ади 1.105", "ЧЧ Антья 1.37"]
+  sources: ["Ward 1863, p. 260–261 (умирающего погружают по пояс в реку; омовение и умащение тела; рис и головня;
+            костёр с гхи; прах в реку; касание огня и горькие листья)"]
+  images: []
+  game: {model: "место сожжения на берегу (шмашана): поленница, глиняный горшок для воды, факел",
+         where: ["ganga-ghat"], notes: "показывать сдержанно; эпизод — уход Джаганнатхи Мишры"}
+  todo: "есть ли подробности ухода Мишры у Мурари, Лочана или Джаянанды (кремация, место)?"
+
+- id: mc-shraddha-gaya
+  title: {ru: "Шраддха и пинда в Гае", en: "Shraddha and pinda at Gaya"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Шраддха по отцу перед путешествием — ЧБ Ади 17.11; пинды по святым местам Гаи — ЧБ Ади 17.66–79; Лочан,
+      Ади-кханда, ч. 15, ст. 8, 16, 78–92; Мадхья-кханда, ч. 21, ст. 32 (Набхи-гая); угощение шраддхи — ЧЧ Антья 3.220,
+      11.30. Порядок обрядов (10 дней траура, 10 шариков у реки, 16 даров на 11-й день) — Ward 1863, p. 261–262 (поздн.).
+    en: >-
+      Shraddha for the father before the journey — CB Adi 17.11; pindas at the holy places of Gaya — CB Adi 17.66–79;
+      Lochana, Adi-khanda pt. 15 vv. 8, 16, 78–92; Madhya-khanda pt. 21 v. 32 (Nabhi-gaya); the shraddha meal — CC
+      Antya 3.220, 11.30. The order of rites (10 days of mourning, 10 balls by the river, 16 gifts on the 11th day) —
+      Ward 1863, p. 261–262 (later).
+  text:
+    ru: >-
+      После смерти близкого семья десять дней соблюдает траур, а затем совершает шраддху: сыновья в новой одежде
+      подносят предкам пинды — шарики из варёного риса с молоком, мёдом и кунжутом, кормят брахманов и раздают дары.
+      «Сын нужен ради пинды», — говорил Махапрабху матери, прося отпустить Его в Гаю. Там, у стопы Вишну
+      (Вишнупады), Он поднёс пинды за отца на всех святых местах — у шестнадцати алтарей, на «главе Гаи» — и местные
+      брахманы тут же расхватывали подношения. Адвайта же однажды подал «блюдо шраддхи», почётную долю для
+      самого достойного брахмана, Харидасу Тхакуру, — ибо накормить вайшнава всё равно что накормить миллионы
+      брахманов.
+    en: >-
+      After a death the family keeps ten days of mourning and then performs the shraddha: the sons in new clothes
+      offer the ancestors pindas — balls of cooked rice with milk, honey and sesame — feed brahmins and give gifts. "A
+      son is needed for the pinda," Mahaprabhu told His mother, asking leave to go to Gaya. There, at Vishnu's footprint
+      (Vishnupada), He offered pindas for His father at all the holy spots — at the sixteen altars, on "the head of
+      Gaya" — and the local brahmins snatched up the offerings on the spot. Advaita once gave the "shraddha
+      plate", the share of honour for the worthiest brahmin, to Haridasa Thakura — for to feed a Vaishnava is to feed
+      millions of brahmins.
+  hagiography: ["ЧБ Ади 17.11", "ЧБ Ади 17.66–79", "Лочан, Ади-кханда, ч. 15, ст. 8, 16, 78–92",
+                "Лочан, Мадхья-кханда, ч. 21, ст. 32", "ЧЧ Антья 3.220"]
+  sources: ["Ward 1863, p. 261–262 (три вида шраддхи; 10 дней траура; 10 шариков у реки и бритьё; навес, 16 даров,
+            кунжут, золото)"]
+  images: []
+  game: {model: "листья с шариками-пиндами, кунжут, кувшинчик воды; камень со следом стопы Вишну (Вишнупада)",
+         where: ["gaya/vishnupada"]}
+  todo: "состав пинды (рис, кунжут, мёд, молоко) — по смрити; в житиях не детализирован."
+
+- id: mc-haridasa-samadhi
+  title: {ru: "Уход Харидаса Тхакура и праздник прасада", en: "Haridasa Thakura's departure and the prasada feast"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Антья 11.45–100 (кончина с именем на устах, танец с телом, омовение в море, самадхи в песке, сбор прасада)."
+    en: "CC Antya 11.45–100 (passing with the name on his lips, dancing with the body, bathing in the sea, samadhi in the sand, collecting prasada)."
+  text:
+    ru: >-
+      Тело святого вайшнава или санньяси не сжигают, а погребают — в «самадхи». Харидас Тхакур ушёл в Пури, глядя на лицо
+      Махапрабху и повторяя «Шри Кришна Чайтанья». Господь взял его тело на руки и танцевал с ним по двору, затем тело
+      на носилках-«колеснице» под киртан отнесли к морю, омыли, и все испили той воды. В песке вырыли яму, украсили
+      тело прасадом Джаганнатхи — шёлковыми лентами, сандалом, тканью; Господь Сам засыпал его песком со словами
+      «Харибол!», и над могилой сложили возвышение с оградой. Потом Махапрабху, растянув край Своей одежды, ходил у
+      Львиных врат и просил у лавочников прасада для праздника — и сам щедро раздавал его, по порции на пятерых.
+    en: >-
+      The body of a saintly Vaishnava or sannyasi is not cremated but buried — in "samadhi". Haridasa Thakura passed away in
+      Puri gazing at Mahaprabhu's face and repeating "Shri Krishna Chaitanya". The Lord took his body in His arms and
+      danced with it around the courtyard; then the body was carried on a chariot-like bier with kirtan to the sea,
+      bathed, and all drank that water. A pit was dug in the sand, the body adorned with Jagannatha's prasada — silk
+      cords, sandal, cloth; the Lord Himself poured sand over him crying "Haribol!", and a raised platform with a fence
+      was built over the grave. Then Mahaprabhu, holding out the end of His cloth, went begging prasada from the
+      shopkeepers at the Lion Gate for the feast — and Himself served it lavishly, a portion fit for five.
+  hagiography: ["ЧЧ Антья 11.45–100"]
+  sources: []
+  images: []
+  game: {model: "носилки в форме колесницы (виман), песчаный холм-самадхи с бамбуковой оградой у моря",
+         where: ["puri/haridasa-samadhi", "puri/siddha-bakula"]}
+  todo: "поза погребения в ЧЧ Антья 11.66 не названа; позднейший обычай — сидя (проверить по PD)"
