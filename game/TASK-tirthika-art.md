@@ -52,6 +52,19 @@
 Файлы: `sheet_mishra.png`, `sheet_shachi.png`, `sheet_nimai.png`, `sheet_brahmana.png`, `sheet_vishvarupa.png`,
 `sheet_gandharva.png` (выбранный вариант).
 
+
+### Листы для оставшихся (родственник, соседка, Читрасена, Нидра)
+После общего промпта листа добавить уточнение (и: *Barefoot. Historically accurate Bengal, around 1490 AD, no modern objects, no text.*):
+| Файл | Уточнение |
+|---|---|
+| `sheet_relative.png` | A middle-aged Bengali brahmin, ochre cotton shawl over one shoulder, white dhoti to the ankles, sacred thread, shikha, Vaishnava tilak, tulasi necklace. |
+| `sheet_neighbor.png` | A middle-aged Bengali village woman, indigo cotton sari with a mustard border, draped modestly over both shoulders and over the head, no blouse sleeves visible, red sindur dot on the forehead and sindur in the hair parting, white conch-shell bangles. |
+| `sheet_chitrasena.png` | Chitrasena, king of the gandharvas: tall noble celestial musician, golden crown, long dark wavy hair, white and gold silk garments with a shawl, gold ornaments, a vina held at his side (not covering the body), luminous skin. |
+| `sheet_nidra.png` | Nidra Devi, goddess of sleep: serene dark-blue skin, deep blue sari with tiny silver stars draped over the head and both shoulders, half-closed eyes, a soft night-blue shawl; full figure clearly visible, no smoke or mist hiding the body. |
+
+Для 3D: предметы держать сбоку, а не поперёк тела (иначе «прилипнут»); без дымки и тумана вокруг фигуры — свечение
+добавляется в игре.
+
 ## 3. Ткани (бесшовные текстуры для одежды)
 > Seamless tileable texture, flat top view, handwoven [ткань], no shadows, no folds, square.
 
