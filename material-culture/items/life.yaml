@@ -1,0 +1,262 @@
+# Рубрика «Жизнь» (исполнитель life): детство, время и меры, языки, огонь и ночь, промыслы, приметы, развлечения,
+# порядок и война, запахи и цвета, письма и вести, мусульманский мир Бенгалии. Рубрики — town / home / rites.
+# Формат — material-culture/README.md. Проверка: python3 material-culture/tools/check.py
+# Выписки и журнал — research/life-notes.md, research/life-log.md.
+
+# ── Детство ─────────────────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-ganga-boyhood
+  title: {ru: "Мальчишки на Ганге: купание, брызги, песок", en: "Boys at the Ganga: bathing, splashing, sand"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Ранние жития: ЧБ Ади 6.47–99 (после уроков — на Гангу; жалобы брахманов и девушек), ЧБ Ади 8.40–49; ЧЧ Ади
+      14.48–61 (Нимай съедает подношения девочек). Семена *окада*, вызывающие зуд, — ЧБ Ади 6.78. «Шесть часов в
+      воде» — ЧБ Ади 6.71 (в оригинале — две прахары).
+    en: >-
+      Early hagiographies: CB Adi 6.47–99 (to the Ganga after lessons; complaints of brahmins and girls), CB Adi
+      8.40–49; CC Adi 14.48–61 (Nimai eats the girls' offerings). Itching *okada* seeds — CB Adi 6.78. 'Six hours in
+      the water' — CB Adi 6.71 (two praharas in the original).
+  text:
+    ru: >-
+      В полдень, отпущенные с уроков, мальчишки Навадвипы бегут к Ганге и прыгают в воду: плавают, ныряют, брызжут
+      друг на друга. Взрослые на гхатах в это время совершают омовение, читают гаятри, стоя по пояс в реке, и
+      раскладывают на берегу цветы и подношения. Нимай с ватагой брызгает на них водой, хватает за ноги, ворует
+      цветочные корзины и сухую одежду, путает мужские и женские одежды, осыпает выходящих из воды песком, а девочкам
+      бросает в волосы колючие семена окада. Пожилые брахманы идут жаловаться отцу — а за жалобами слышна любовь:
+      никто не может долго сердиться на Него.
+    en: >-
+      At noon, let out of lessons, the boys of Navadvipa run to the Ganga and jump in — swimming, diving, splashing
+      one another. The grown-ups on the ghats are bathing, reciting the gayatri waist-deep in the river and laying
+      out flowers and offerings on the bank. Nimai and his gang splash them, grab their legs, steal flower baskets
+      and dry clothes, swap men's and women's garments, pelt people coming out of the water with sand and throw
+      itchy okada seeds into the girls' hair. The old brahmins go to complain to His father — yet behind the
+      complaints one hears love: no one can stay angry with Him for long.
+  hagiography: ["ЧБ Ади 6.47–99", "ЧБ Ади 8.40–49", "ЧЧ Ади 14.48–61"]
+  sources: []
+  images: []
+  game: {model: "анимация: ватага мальчиков в реке, брызги; брахман по пояс в воде; корзина с цветами на ступенях",
+         where: ["ganga-ghat"], notes: "мини-игра «утащи корзину с цветами»; звук всплесков и смеха"}
+  todo: "Что такое *окада* (ঔকড়া?) — уточнить растение (возможно, Xanthium/«цепкие» семена) у ботаника."
+
+- id: mc-puppy
+  title: {ru: "Щенок Нимая", en: "Nimai's puppy"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Только у Лочана Даса: Ади-кханда, ч. 3, ст. 284–322 (*куккура-шабака*, *швана-сута* — щенок; привязан верёвкой
+      на шее у *пинды* — приступка, глиняного цоколя дома). Отношение к собаке как к нечистому животному в
+      брахманском доме — там же, ст. 294–295 (слова Шачи).
+    en: >-
+      Lochana Dasa only: Adi-khanda pt. 3, vv. 284–322 (*kukkura-shabaka*, *shvana-suta* — puppy; tied by a rope round
+      its neck to the *pinda*, the clay plinth of the house). The dog as an unclean animal in a brahmin home —
+      ibid., vv. 294–295 (Shachi's words).
+  text:
+    ru: >-
+      Однажды мальчишки нашли щенка, и Вишвамбхара объявил: играть с ним будем все, а жить он будет у Меня. Дома Он
+      надел щенку верёвку на шею и привязал у глиняного цоколя хижины; когда мать ушла с соседками к Ганге, Он
+      возился со щенком, весь серый от пыли. Поссорившийся с Ним мальчик побежал жаловаться Шачи, и та, всплеснув
+      руками, ужаснулась: сын благочестивого брахмана — и играет с собакой! В брахманском доме собака считалась
+      нечистой; Шачи отпустила щенка, Нимай горько плакал, а сам щенок, по Лочану, воспевая «Хари», ушёл на Вайкунтху.
+    en: >-
+      Once the boys found a puppy, and Vishvambhara declared: we will all play with it, but it will live at My house.
+      At home He put a rope round the puppy's neck and tied it by the clay plinth of the hut; while His mother went
+      to the Ganga with the neighbour women, He played with the puppy, grey with dust. A boy who had quarrelled with
+      Him ran to complain to Shachi, and she threw up her hands in dismay: the son of a pious brahmin playing with a
+      dog! In a brahmin house the dog was counted unclean; Shachi let the puppy go, Nimai wept bitterly, and the
+      puppy itself, says Lochana, went to Vaikuntha singing 'Hari'.
+  hagiography: ["Лочан, Ади-кханда, ч. 3, ст. 284–322"]
+  sources: []
+  images: []
+  game: {model: "щенок бенгальской деревенской собаки (рыже-палевый, короткошёрстный) на верёвке у цоколя",
+         where: ["mishra-house/courtyard"], notes: "см. также mc-house-animals, mc-shivananda-dog (household.yaml)"}
+
+- id: mc-child-mischief
+  title: {ru: "Шалости и как за них бранили", en: "Mischief and how it was scolded"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Ади 14.24–47 (ест землю; лазит по соседским домам; разбивает горшки; кокосы для матери), 14.71–75 (помойная
+      яма); ЧБ Ади 6.83–89 (Шачи: «свяжу и поколочу палкой» — сказано девушкам с улыбкой), 6.92–102 (Мишра ищет сына
+      на гхатах), ЧБ Ади 7.150–160; Лочан, Ади-кханда, ч. 2–3 (убегает от матери, в гневе портит всё в доме).
+    en: >-
+      CC Adi 14.24–47 (eating earth; raiding neighbours' houses; smashing pots; coconuts for His mother), 14.71–75 (the
+      refuse pit); CB Adi 6.83–89 (Shachi: 'I'll tie Him up and beat Him with a stick' — said smilingly to the girls),
+      6.92–102 (Mishra searches the ghats for his son), CB Adi 7.150–160; Lochana, Adi-khanda pts. 2–3 (runs from His
+      mother, in anger wrecks things at home).
+  text:
+    ru: >-
+      Детские проказы в житиях узнаваемы и сегодня: маленький Нимай ест землю вместо воздушного риса, с друзьями
+      забирается в соседские дома за лакомствами, дерётся с мальчишками, а когда его бранят — в сердцах разбивает
+      дома горшки и кувшины. Мать грозится «связать и отлупить палкой», но говорит это с улыбкой, а потом сажает сына на
+      колени; отец в гневе идёт искать его по гхатам — а Нимай уже ускользнул домой другой дорогой и сидит с книгой,
+      испачканный чернилами. Соседи жалуются не всерьёз: шалости этого ребёнка всем приносят радость, и в каждой из них
+      Он между делом наставляет мать в высшем знании.
+    en: >-
+      The pranks in the hagiographies are recognisable even today: little Nimai eats earth instead of puffed rice,
+      slips into neighbours' houses with friends for treats, fights with other boys and, when scolded, smashes the
+      pots and jars at home in a temper. His mother threatens to 'tie Him up and beat Him with a stick', but says it
+      smiling and then takes her son on her lap; His father goes angrily searching the ghats — but Nimai has already
+      slipped home another way and sits with a book, smudged with ink. The neighbours' complaints are not serious:
+      this child's mischief delights everyone, and in each prank He casually instructs His mother in higher
+      knowledge.
+  hagiography: ["ЧЧ Ади 14.24–47", "ЧЧ Ади 14.71–75", "ЧБ Ади 6.83–102", "ЧБ Ади 7.150–160",
+                "Лочан, Ади-кханда, ч. 2–3"]
+  sources: []
+  images: []
+  game: {model: "разбитые горшки на полу; маленький Нимай с перепачканными чернилами руками; прут в руке Шачи (не
+         применяется)", where: ["mishra-house/courtyard", "mishra-house/kitchen"],
+         notes: "наказание — только угроза; не показывать насилие. Помойная яма — mc-pot-heap"}
+
+- id: mc-pretend-lila-games
+  title: {ru: "Игры-представления: дети разыгрывают Кришна-лилу", en: "Pretend plays: children enact Krishna's pastimes"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Детство Нитьянанды в Экачакре — ЧБ Ади 9.13–35: представление свадьбы Васудевы, «темница» Камсы, мальчик в
+      роли Путаны, тележка из тростника, змей из листьев, «Талавана», возвращение домой с трубением в буйволиные
+      рога, наклеенная борода «Нарады». Это свидетельство того, чем играли деревенские дети, — с поправкой на то,
+      что игры Нитьянанды суть отражение игр Кришны (9.14).
+    en: >-
+      Nityananda's childhood in Ekachakra — CB Adi 9.13–35: a play of Vasudeva's wedding, Kamsa's 'prison', a boy as
+      Putana, a cart of reed, snakes made of leaves, 'Talavana', returning home blowing buffalo horns, a glued-on
+      'Narada' beard. Evidence of what village children played with — bearing in mind that Nityananda's games are a
+      reflection of Krishna's own (9.14).
+  text:
+    ru: >-
+      В Экачакре мальчик Нитай с друзьями день и ночь разыгрывал истории о Кришне. Они строили из подручного
+      «темницу» Камсы и «Гокулу», один мальчик играл Путану, другой — Нараду с приклеенной бородой; сооружали тележку
+      из тростника, чтобы её «сломать», как младенец Кришна, плели змей из листьев и вели их к воде, «ходили в
+      Талавану» и вечером возвращались домой, трубя в буйволиные рога, как пастушата Враджа. Игрушки — из того, что
+      росло вокруг: тростник, листья, глина, рог. Родители не бранили, а обнимали Нитая: откуда ребёнок знает всё
+      это?
+    en: >-
+      In Ekachakra the boy Nitai and his friends acted out stories of Krishna day and night. They built Kamsa's
+      'prison' and 'Gokula' from whatever was at hand; one boy played Putana, another Narada with a glued-on beard;
+      they made a cart of reed only to 'break' it as baby Krishna did, plaited snakes out of leaves and led them to
+      the water, 'went to Talavana' and came home in the evening blowing buffalo horns like the cowherd boys of
+      Vraja. Toys were made of whatever grew around: reed, leaves, clay, horn. The parents did not scold but hugged
+      Nitai: how does the child know all this?
+  hagiography: ["ЧБ Ади 9.13–35"]
+  sources: []
+  images: []
+  game: {model: "тростниковая тележка (≈50 см), змей из скрученных банановых листьев, буйволиный рог-труба",
+         where: ["navadvipa/lane"], notes: "Экачакра (Рарх) — вне карты Навадвипы; можно как вставную сцену"}
+
+- id: mc-schoolboy-disputes
+  title: {ru: "Школьные споры у гхатов и игра в «царский суд»", en: "Schoolboy disputes at the ghats and the 'king's justice' game"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 8.40–65: ученики разных тол сходятся в полдень у Ганги и вызывают друг друга на диспут по грамматике
+      (*вритти, панджи, тика* — 8.54); перебранка → брызги и песок → потасовка в грязи (8.45–46). 8.47 в оригинале:
+      *ра̄джа̄ра доха̄и дийа̄ кеха ка̄’ре дхаре* — «взывая к имени царя, кто-то хватает другого» (формула ареста /
+      призыва к царскому суду, ср. «именем царя!»); перевод «объявлял себя царём» — вольный.
+    en: >-
+      CB Adi 8.40–65: pupils of different tols meet at the Ganga at noon and challenge one another on grammar
+      (*vritti, panji, tika* — 8.54); taunts → splashing and sand → a scuffle in the mud (8.45–46). 8.47 in the
+      original: *rajara dohai diya keha kare dhare* — 'invoking the king's name, someone seizes another' (the formula
+      of arrest / appeal to royal justice, cf. 'in the king's name!'); the rendering 'declared himself king' is free.
+  text:
+    ru: >-
+      У каждого учителя Навадвипы — толпа учеников, и в полдень все они сходятся у Ганги. Начинается с задиристого
+      «твой учитель не так уж учён!» и вопросов по сутрам грамматики, а кончается перебранкой, брызгами, песком и
+      борьбой в прибрежной грязи — так, что вода мутнеет и девушки не могут набрать её в кувшины. Мальчишки играют и в
+      «царский суд»: с криком «именем царя!» хватают «виновного», колотят — и тот спасается вплавь через Гангу. Нимай
+      переходит от гхата к гхату и вызывает на спор всех подряд, а потом сам же опровергает собственное объяснение.
+    en: >-
+      Every teacher in Navadvipa has crowds of pupils, and at noon they all gather at the Ganga. It begins with a
+      cheeky 'your teacher isn't so learned!' and questions on the grammar sutras, and ends in taunts, splashing,
+      sand and wrestling in the mud of the bank — till the water turns murky and girls cannot fill their jars. The
+      boys also play 'the king's justice': crying 'in the king's name!' they seize a 'culprit' and pummel him — and
+      he escapes by swimming across the Ganga. Nimai goes from ghat to ghat challenging everyone, and then refutes
+      His own explanation.
+  hagiography: ["ЧБ Ади 8.40–65"]
+  sources: []
+  images: []
+  game: {model: "группы школьников на ступенях гхата, пальмовые листы под мышкой; борьба в мелкой воде",
+         where: ["ganga-ghat"], notes: "о школе — mc-tol-school; о взрослых диспутах — mc-scholars-debate"}
+
+- id: mc-child-thieves
+  title: {ru: "Воры и детские украшения", en: "Thieves and a child's ornaments"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 4.108–132 (два вора уносят Нимая на плечах ради украшений, подкупают сандешем, сбиваются с пути и
+      возвращаются к дому Мишры; приписывают спасение Чанди — 4.131); кратко — ЧЧ Ади 14.38. Об украшениях —
+      mc-child-ornaments.
+    en: >-
+      CB Adi 4.108–132 (two thieves carry Nimai off on their shoulders for His ornaments, bribe Him with sandesh, lose
+      their way and come back to Mishra's house; they credit Chandi with saving them — 4.131); briefly — CC Adi 14.38.
+      On the ornaments — mc-child-ornaments.
+  text:
+    ru: >-
+      Детей знатных и даже небогатых домов украшали золотом и серебром — и это манило воров. Двое воров увидели
+      маленького Нимая, играющего на улице в нарядных украшениях, посадили его на плечи со словами «пойдём домой!» и
+      понесли через многолюдную Навадвипу — прохожие думали, что отец несёт сына. По дороге один сунул ребёнку сандеш.
+      Но по воле Господа воры сбились с пути и опустили Его на землю у дома Джаганнатхи Мишры, где родные уже в слезах
+      искали малыша; перепуганные похитители скрылись, решив, что их «спасла богиня Чанди». Вриндаван Дас называет
+      их счастливейшими из людей: они несли на плечах Самого Господа.
+    en: >-
+      Children of well-to-do and even modest homes were decked in gold and silver — and that tempted thieves. Two
+      thieves saw little Nimai playing in the street in His fine ornaments, hoisted Him on their shoulders saying
+      'let's go home!' and carried Him through crowded Navadvipa — passers-by took them for a father carrying his son.
+      On the way one gave the child a sandesh. But by the Lord's will the thieves lost their way and set Him down at
+      Jagannatha Mishra's house, where His family were searching for Him in tears; the frightened kidnappers fled,
+      deciding that 'goddess Chandi had saved them'. Vrindavana Dasa calls them the luckiest of men: they carried the
+      Lord Himself on their shoulders.
+  hagiography: ["ЧБ Ади 4.108–132", "ЧЧ Ади 14.38"]
+  sources: []
+  images: []
+  game: {model: "двое мужчин в простых дхоти, ребёнок на плечах; толпа улицы", where: ["navadvipa/lane",
+         "mishra-house/courtyard"], notes: "сюжетная сцена; не пугать — вор угощает сандешем"}
+
+# ── Время и меры ────────────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-danda-prahara
+  title: {ru: "Сутки: данда, пала, прахара, мухурта", en: "The day: danda, pala, prahara, muhurta"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Счёт ЧЧ Мадхья 20.386–388: сутки = 60 данд = 3600 пал; 1 данда = 60 пал; «8 данд» (точнее 7½) = прахара; 4
+      прахары днём и 4 ночью. Употребление: ЧЧ Антья 6.160 («за четыре данды до конца ночи»), ЧЧ Мадхья 1.56 (вторая
+      прахара дня), ЧБ Ади 6.135 (две прахары в школе), ЧБ Мадхья 9.9 (*сата-прахария* — «семь прахар»), ЧБ Мадхья
+      28.46 (брахма-мухурта). Бабур (1526) о том же счёте (60 гхари, 4 пахара дня и ночи) — HJ 1903, s.v. PUHUR;
+      данда = 24 мин — Prinsep 1858, II, p. 151; водяные часы (плавающая чаша с отверстием) — HJ, s.v. GHURRY.
+    en: >-
+      The reckoning of CC Madhya 20.386–388: a day-and-night = 60 dandas = 3600 palas; 1 danda = 60 palas; '8 dandas'
+      (strictly 7½) = a prahara; 4 praharas by day and 4 by night. Usage: CC Antya 6.160 ('four dandas before the end
+      of night'), CC Madhya 1.56 (the second prahara of the day), CB Adi 6.135 (two praharas at school), CB Madhya
+      9.9 (*sata-prahariya*, 'seven praharas'), CB Madhya 28.46 (brahma-muhurta). Babur (1526) on the same reckoning
+      (60 gharis, 4 pahars by day and night) — HJ 1903, s.v. PUHUR; danda = 24 min — Prinsep 1858, II, p. 151; the
+      water-clock (a floating bowl with a hole) — HJ, s.v. GHURRY.
+  text:
+    ru: >-
+      Часов со стрелками не было: сутки делили на 60 данд (данда, или гхати, — 24 минуты), данду — на 60 пал. Восемь
+      «стражей»-прахар, по три часа: четыре от восхода до заката и четыре ночью. Так и говорили: «Он танцевал всю
+      вторую прахару дня», «за четыре данды до рассвета», «Нимай проводит в школе две прахары». Время отмеряли по
+      солнцу и тени, а в храмах и при дворах — водяными часами: медная чаша с крошечным отверстием в дне тонет в
+      кадке за одну данду, и сторож бьёт в гонг. Мухурта — две данды, 48 минут; брахма-мухурта перед рассветом —
+      лучшее время для памятования о Господе.
+    en: >-
+      There were no clocks with hands: the day-and-night was divided into 60 dandas (a danda or ghati is 24 minutes),
+      each danda into 60 palas. There were eight 'watches', praharas, of three hours: four from sunrise to sunset and
+      four at night. So people said: 'He danced the whole second prahara of the day', 'four dandas before dawn',
+      'Nimai spends two praharas at school'. Time was judged by the sun and shadows, and in temples and courts by the
+      water-clock: a copper bowl with a tiny hole in its bottom sinks in a tub in one danda, and the keeper strikes a
+      gong. A muhurta is two dandas, 48 minutes; the brahma-muhurta before dawn is the best time to remember the Lord.
+  hagiography: ["ЧЧ Мадхья 20.386–388", "ЧЧ Антья 6.160", "ЧЧ Мадхья 1.56", "ЧБ Ади 6.135", "ЧБ Мадхья 9.9",
+                "ЧБ Мадхья 28.46"]
+  sources: ["H. Yule, A. C. Burnell, Hobson-Jobson, 1903, s.v. GHURRY, PUHUR (Бабур, 1526)",
+            "J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 151"]
+  images: []
+  game: {model: "водяные часы: медная чаша-гхати ⌀ ≈ 15 см с отверстием в кадке с водой; гонг", where: ["puri/temple",
+         "navadvipa/lane"], notes: "игровое время: 1 прахара = отрезок суток; UI-часы в данда/прахарах"}
+  todo: "Есть ли в житиях прямое упоминание водяных часов (гхати-йантра) при храме Джаганнатхи или в Гауде?"
