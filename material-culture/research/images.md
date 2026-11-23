@@ -439,6 +439,83 @@
 - **Темы карточек:** Гая (паломничество Нимая, встреча с Ишварой Пури, 1508), священное дерево, паломник.
 - **Эпоха:** 1790-е — поздняя фиксация; не изображает храм Вишнупады.
 
+### 40. tulasi-mancha-gour-nitai-temple-tejpal-bankura.jpg
+- **Название:** Tulsi-Mancha of Gour-Nitai Temple, Tejpal, Bankura.
+- **Автор:** Amitabha Gupta (Wikimedia Commons, own work). **Дата снимка:** 2019-09-15.
+- **Учреждение / шифр:** Wikimedia Commons; памятник под охраной ASI (храм Гаура-Нитай, Теджпал, округ Банкура).
+- **Лицензия:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) — атрибуция: «Amitabha Gupta / Wikimedia Commons, CC BY 4.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Tulsi-Mancha-of-Gour-Nitai-Temple-Tejpal-Bankura.jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tulsi-Mancha-of-Gour-Nitai-Temple-Tejpal-Bankura.jpg/1280px-Tulsi-Mancha-of-Gour-Nitai-Temple-Tejpal-Bankura.jpg (оригинал 6000×4000, 19 МБ)
+- **Что показано:** старинная ступенчатая туласи-манча из латерита/кирпича во дворе храма Гаура-Нитай; сельский пейзаж.
+- **Темы карточек:** туласи-манча, двор (ангана), служение Туласи-деви.
+- **Эпоха:** постройка, вероятно, XVIII–XIX вв. (точная дата в описании не указана); современное фото. Форма постамента традиционна.
+
+### 41. shankha-conch-bangles-kolkata-photo.jpg
+- **Название:** Shankha – Conch Bangles – Kolkata 2014-10-03 9326.
+- **Автор:** Biswarup Ganguly (Wikimedia Commons, own work). **Дата снимка:** 2014-10-03.
+- **Учреждение / шифр:** Wikimedia Commons.
+- **Лицензия:** CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) — атрибуция: «Biswarup Ganguly / Wikimedia Commons, CC BY 3.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Shankha_-_Conch_Bangles_-_Kolkata_2014-10-03_9326.JPG
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Shankha_-_Conch_Bangles_-_Kolkata_2014-10-03_9326.JPG/1280px-Shankha_-_Conch_Bangles_-_Kolkata_2014-10-03_9326.JPG
+- **Что показано:** связка резных белых браслетов-шанкха из раковины.
+- **Темы карточек:** шанкха — знак замужней женщины (Шачи-мата, Лакшмиприя, Вишнуприя), ремесло шанкхари.
+- **Эпоха:** современное фото; предмет и обычай засвидетельствованы в бенгальской литературе задолго до XVI в.
+
+### 42. shankhari-carving-conch-bracelet-photo.jpg
+- **Название:** Designing the conch bracelet (শাঁখা তৈরী).
+- **Автор:** Nasir Khan Saikat (Wikimedia Commons, own work). **Дата снимка:** 2011-01-14 (Бангладеш, вероятно Дакка, Шанкхари-базар).
+- **Учреждение / шифр:** Wikimedia Commons.
+- **Лицензия:** CC BY-SA 3.0 — атрибуция: «Nasir Khan Saikat / Wikimedia Commons, CC BY-SA 3.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Designing_the_conch_bracelet_(%E0%A6%B6%E0%A6%BE%E0%A6%81%E0%A6%96%E0%A6%BE_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80).jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Designing_the_conch_bracelet_%28%E0%A6%B6%E0%A6%BE%E0%A6%81%E0%A6%96%E0%A6%BE_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80%29.jpg/1280px-Designing_the_conch_bracelet_%28%E0%A6%B6%E0%A6%BE%E0%A6%81%E0%A6%96%E0%A6%BE_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80%29.jpg
+- **Что показано:** мастер-шанкхари вручную режет узор на браслете из раковины.
+- **Темы карточек:** ремесло шанкхари (каста резчиков раковин), шанкха.
+- **Эпоха:** современное фото традиционного ремесла.
+
+### 43. kartal-cymbals-photo.jpg
+- **Название:** Kartal, a kind of cymbal (কৰতাল).
+- **Автор:** নৰুনা বৰুৱা (Naruna Barua?; Wikimedia Commons, own work). **Дата снимка:** 2025-05-08.
+- **Учреждение / шифр:** Wikimedia Commons (музейная витрина в Ассаме, подпись «Kartal, a kind of cymbal»).
+- **Лицензия:** CC BY 4.0 — атрибуция: «নৰুনা বৰুৱা / Wikimedia Commons, CC BY 4.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Kartal_,a_kind_of_cymbal.jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Kartal_%2Ca_kind_of_cymbal.jpg/960px-Kartal_%2Ca_kind_of_cymbal.jpg
+- **Что показано:** пара бронзовых тарелок-картал с куполами (музейный экспонат).
+- **Темы карточек:** картал, киртан.
+- **Эпоха:** современное фото музейного экземпляра (Ассам; возраст не указан). Бенгальские киртанные караталы обычно меньше — использовать как общий тип.
+
+### 44. shankha-pola-bengali-bride-hands-photo.jpg
+- **Название:** Bride wearing Shankha Pola at a Bengali Wedding.
+- **Автор:** AnkitaaDeb (Wikimedia Commons, own work). **Дата снимка:** 2024-03-02.
+- **Учреждение / шифр:** Wikimedia Commons.
+- **Лицензия:** CC BY-SA 4.0 — атрибуция: «AnkitaaDeb / Wikimedia Commons, CC BY-SA 4.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Bride_wearing_Shankha_Pola_at_a_Bengali_Wedding.jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bride_wearing_Shankha_Pola_at_a_Bengali_Wedding.jpg/1280px-Bride_wearing_Shankha_Pola_at_a_Bengali_Wedding.jpg
+- **Что показано:** руки бенгальской невесты: белые шанкха и красные пола (коралловые/лаковые браслеты), рисунок хной, край сари.
+- **Темы карточек:** шанкха-пола, свадьба (Нимай и Лакшмиприя / Вишнуприя), украшения замужней женщины.
+- **Эпоха:** современное фото — золотые браслеты и мехенди современные; для XVI в. оставлять только шанкху и полу.
+
+### 45. gujarat-16c-wood-frieze-palanquin-bullock-cart-cma.jpg
+- **Название:** Narrative Frieze: Dignitaries in Palanquin and Bullock Cart – Architrave from a Jain Temple.
+- **Автор:** резчик из Гуджарата. **Дата:** XVI–XVII вв.
+- **Учреждение / шифр:** The Cleveland Museum of Art — 1963.676 (Gift of George P. Bickford). Дерево со следами краски, 20,4 × 257,7 × 12,8 см.
+- **Лицензия:** CC0 1.0.
+- **Источник:** https://clevelandart.org/art/1963.676
+- **Прямая ссылка:** https://openaccess-cdn.clevelandart.org/1963.676/1963.676_print.jpg (3400 × 544)
+- **Что показано:** процессия: повозка с волами, всадники, слоны, музыканты и — на правом конце — сановник в крытом паланкине на плечах носильщиков.
+- **Темы карточек:** паланкин (дола/палки), повозка с волами, процессия знати.
+- **Эпоха:** **XVI в. — современно эпохе**, но **Гуджарат, не Бенгалия**; тип паланкина-доли общеиндийский. Оговорить в карточке.
+
+### 46. vikramashila-1119-palm-leaf-manuscript-folio-cma.jpg
+- **Название:** Text, folio 4 (recto), from a Manuscript of the Perfection of Wisdom in Eight Thousand Lines (Ashtasahasrika Prajnaparamita-sutra).
+- **Автор:** писец монастыря Викрамашила (Бихар); живопись — Катманду. **Дата:** воскресенье, 14 сентября 1119 г. (239 г. эры Невар).
+- **Учреждение / шифр:** The Cleveland Museum of Art — 1938.301.4.a (J. H. Wade Fund). Гуммитемпера и тушь на пальмовом листе, 5,4 × 56,2 см.
+- **Лицензия:** CC0 1.0.
+- **Источник:** https://clevelandart.org/art/1938.301.4.a
+- **Прямая ссылка:** https://openaccess-cdn.clevelandart.org/1938.301.4.a/1938.301.4.a_print.jpg
+- **Что показано:** лист пальмовой рукописи, написанный тушью восточноиндийским письмом (предок бенгальского), с отверстием для шнура.
+- **Темы карточек:** пальмовая рукопись (пунтхи), письмо в Восточной Индии, тол Нимая-пандита (рукописи санскритских текстов).
+- **Эпоха:** XII в., буддийский текст — на 400 лет раньше; ценно как образец формы восточноиндийской пальмовой книги и письма (в XV–XVI вв. в Бенгалии уже чаще писали на бумаге/тулоте — сверить).
+
 ## Свободные (CC0), но не скачанные — только ссылки
 
 Изображения Метрополитен-музея (Open Access, CC0) — сервер `images.metmuseum.org` из этой среды отдаёт HTML-заглушку
