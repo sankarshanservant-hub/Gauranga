@@ -81,3 +81,56 @@
   sources: []
   images: []
   game: {model: "красная линия в проборе у замужних; деревянный/латунный ларчик для синдура", where: ["mishra-house/courtyard"]}
+
+# --- Порция 2 ---
+
+- id: mc-dhoti-uttariya
+  title: {ru: "Дхоти и уттарья", en: "Dhoti and uttariya"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Жёлтое полотно Нимая — ЧБ Ади 12.243; свадебное *трикаччха* — ЧБ Ади 15.130; заштопанная одежда Шридхара — ЧБ Ади
+      12.185–186; «платок» (уттарья) в дарах — ЧБ Ади 15.166.
+    en: >-
+      Nimai's yellow cloth — CB Adi 12.243; the wedding trikaccha — CB Adi 15.130; Shridhara's patched clothes — CB Adi
+      12.185–186; a cloth (uttariya) among gifts — CB Adi 15.166.
+  text:
+    ru: >-
+      Мужская одежда — два несшитых полотна: дхоти, обёрнутое вокруг пояса и подоткнутое между ног и сзади (у
+      брахманов в торжественных случаях — в трёх местах, «трикаччха»), и уттарья — накидка на плечи. Юный учитель Нимай
+      ходил по Навадвипе «одетый как царь», в жёлтой ткани, словно Кришна; бедняк Шридхар — в заплатанной одежде. Шитая
+      одежда (кафтаны) была в ходу при мусульманском дворе, а не у брахманов.
+    en: >-
+      Men's dress is two unstitched cloths: the dhoti, wrapped round the waist and tucked between the legs and at the
+      back (by brahmins on solemn occasions in three places, "trikaccha"), and the uttariya, a shawl over the
+      shoulders. The young teacher Nimai walked through Navadvipa "dressed like a king", in yellow cloth, like Krishna;
+      poor Shridhara wore patched clothes. Stitched garments (coats) belonged to the Muslim court, not to brahmins.
+  hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130", "ЧБ Ади 12.185–186", "ЧБ Ади 15.166"]
+  sources: []
+  images: []
+  game: {model: "белое/небелёное хлопковое дхоти до щиколоток, уттарья через левое плечо; у Нимая — жёлтое",
+         where: ["mishra-house/courtyard", "navadvipa/market"]}
+  todo: "«шитая одежда при дворе» — подтвердить PD-источником (Sen 1911?)"
+
+- id: mc-tilak-shikha-thread
+  title: {ru: "Тилака, шикха и шнур", en: "Tilaka, shikha and sacred thread"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Тилака — ЧБ Ади 12.245, 15.128; шнур — ЧБ Ади 8.14, 8.186; Лочан, Ади-кханда, ч. 1, ст. 85 (тилака из горочаны). Форма вайшнавской тилаки в эпоху — проверить."
+    en: "Tilaka — CB Adi 12.245, 15.128; sacred thread — CB Adi 8.14, 8.186; Lochana, Adi-khanda pt. 1 v. 85 (gorochana tilaka). The form of Vaishnava tilaka in the period — to check."
+  text:
+    ru: >-
+      Облик брахмана-вайшнава: на лбу тилака — знак, нанесённый глиной, сандалом или горочаной; на макушке оставлен пучок
+      волос (шикха); через левое плечо — белый хлопковый шнур, полученный при упанаяне. У Нимая лоб украшала тилака,
+      в руках были книги; на свадьбе Ему нарисовали полумесяц из сандала с агуру.
+    en: >-
+      The look of a Vaishnava brahmin: a tilaka on the forehead, drawn in clay, sandal paste or gorochana; a tuft of hair
+      (shikha) left on the crown; a white cotton thread over the left shoulder, received at the upanayana. Nimai's
+      forehead bore a tilaka and He carried books; at the wedding a crescent of sandal with aguru was drawn on Him.
+  hagiography: ["ЧБ Ади 12.245", "ЧБ Ади 15.128", "ЧБ Ади 8.14", "ЧБ Ади 8.186", "Лочан, Ади-кханда, ч. 1, ст. 85"]
+  sources: []
+  images: []
+  game: {model: "тилака — вертикальная (форма уточнить), шикха, шнур через левое плечо", where: []}
+  todo: "форма гаудия-вайшнавской тилаки в XVI в. — вопрос к специалисту"

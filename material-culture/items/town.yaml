@@ -1,0 +1,233 @@
+# Рубрика «Город и труд» (town): порция 2 — Навадвипа юности Господа (P04–P05). Формат — README.md.
+
+- id: mc-navadvipa-crafts
+  title: {ru: "Ремёсла и лавки Навадвипы", en: "Crafts and shops of Navadvipa"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Прогулка Господа по домам ремесленников — ЧБ Ади 12.106–145 (ткач, пастухи, торговец ароматическими маслами,
+      цветочник, продавец бетеля, продавец раковин); касты-ремёсла Надии в XIX в. — Hunter 1875, т. 2, с. 47–48 (см.
+      research/pd-texts.md).
+    en: >-
+      The Lord's walk through the craftsmen's houses — CB Adi 12.106–145 (weaver, cowherds, perfumer, florist,
+      betel-seller, conch-seller); craft castes of Nadia in the 19th c. — Hunter 1875, vol. 2, pp. 47–48 (see
+      research/pd-texts.md).
+  text:
+    ru: >-
+      Навадвипа была огромным городом, где жили люди всех сословий, и каждое ремесло держалось своей общины. Юный
+      учитель Нимай обходил их дома с учениками: ткач дал Ему ткань в долг, пастухи угостили молоком, гхи, простоквашей,
+      сливками и маслом, торговец ароматами натёр Его душистым маслом, цветочник надел гирлянду, продавец бетеля
+      угостил орехами и паном с камфорой, продавец раковин подарил раковину — и никто не взял с Него денег.
+    en: >-
+      Navadvipa was a huge town where people of every community lived, and each craft was held by its own caste. The
+      young teacher Nimai went round their houses with His students: the weaver gave Him cloth on credit, the cowherds
+      served Him milk, ghee, curd, cream and butter, the perfumer rubbed Him with scented oil, the florist put a
+      garland on Him, the betel-seller treated Him to areca and pan with camphor, the conch-seller gave Him a conch —
+      and none of them took money from Him.
+  hagiography: ["ЧБ Ади 12.106–145"]
+  sources: ["Hunter, Statistical Account of Bengal, т. 2 (1875), с. 47–48 — касты Надии (через research/pd-texts.md)"]
+  images: []
+  game: {model: "улица ремесленников: навесы-лавки перед хижинами; ткацкий станок, горшки с молоком, гирлянды, бетель",
+         where: ["navadvipa/market"]}
+
+- id: mc-weaver
+  title: {ru: "Ткач (тантуваю)", en: "The weaver (tantuvaya)"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 12.108–112; хлопковое ткачество Бенгалии — PD-источники XIX в. (проверить для эпохи)."
+    en: "CB Adi 12.108–112; Bengali cotton weaving — 19th-c. PD sources (to check for the period)."
+  text:
+    ru: >-
+      Ткачи Навадвипы ткали хлопковые дхоти, сари и полотна на ручных станках прямо у дома. Когда Нимай попросил отрез
+      ткани и сказал, что денег при Нём нет, ткач ответил: «Бери и носи на здоровье, заплатишь, когда захочешь». Ткань
+      и одежду в Бенгалии дарили щедро: на празднике рождения и на свадьбе одежду раздавали всем встречным.
+    en: >-
+      The weavers of Navadvipa wove cotton dhotis, saris and lengths of cloth on handlooms right by their houses. When
+      Nimai asked for a piece of cloth and said He had no money with Him, the weaver replied, "Take it and wear it in
+      good health; pay when You wish." Cloth and clothes were given generously in Bengal: at the birth festival and
+      at the wedding clothes were handed out to everyone.
+  hagiography: ["ЧБ Ади 12.108–112", "ЧБ Ади 12.85", "ЧБ Ади 15.123"]
+  sources: []
+  images: []
+  game: {model: "ямный ручной станок под навесом, мотки пряжи", where: ["navadvipa/market"]}
+  todo: "тип станка в Бенгалии ок. 1500 (ямный?) — PD (Mukharji 1888)"
+
+- id: mc-cowherds
+  title: {ru: "Пастухи-гопы и молочный ряд", en: "Cowherds (gopas) and dairy sellers"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 12.113–121 (веранда дома пастуха; молоко, гхи, дадхи, сливки, масло)."
+    en: "CB Adi 12.113–121 (the cowherd's veranda; milk, ghee, dadhi, cream, butter)."
+  text:
+    ru: >-
+      Гопы (гоалы) держали коров и продавали молоко, простоквашу и гхи. Нимай уселся на веранде дома пастуха, в шутку
+      подражая брахманам, и попросил «милостыни» — молока и простокваши; пастухи с радостью принесли молоко, гхи,
+      простоквашу, сливки и масло. Для вайшнавов гопы — особая община: из неё вышли спутники Кришны во Врадже.
+    en: >-
+      The gopas (goalas) kept cows and sold milk, curd and ghee. Nimai sat on a cowherd's veranda, jokingly imitating
+      the brahmins, and asked for "alms" — milk and curd; the cowherds gladly brought milk, ghee, curd, cream and
+      butter. For Vaishnavas the gopas are a special community: Krishna's companions in Vraja came from among them.
+  hagiography: ["ЧБ Ади 12.113–121"]
+  sources: []
+  images: []
+  game: {model: "веранда (дава) под свесом соломенной кровли, глиняные горшки с молоком на коромысле",
+         where: ["navadvipa/market"]}
+
+- id: mc-perfumer-florist
+  title: {ru: "Торговец ароматами и цветочник", en: "The perfumer and the florist"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 12.122–134; сандал, агуру, гирлянды на свадьбе — ЧБ Ади 15.84–100."
+    en: "CB Adi 12.122–134; sandal, aguru and garlands at the wedding — CB Adi 15.84–100."
+  text:
+    ru: >-
+      Гандхабаники торговали благовониями, ароматическими маслами, сандалом и агуру; малакары растили цветы и плели
+      гирлянды. Торговец ароматами натёр Нимая душистым маслом и сказал: если завтра после омовения тело ещё будет
+      благоухать, заплатишь сколько хочешь; цветочник без денег надел на Него гирлянду. Без сандаловой пасты и
+      гирлянд не обходился ни один праздник: на свадьбе ими одаривали всех брахманов.
+    en: >-
+      Gandhabaniks traded in incense, scented oils, sandal and aguru; malakars grew flowers and strung garlands. The
+      perfumer rubbed Nimai with fragrant oil and said that if the scent still lingered after tomorrow's bath, He could
+      pay whatever He liked; the florist put a garland on Him for nothing. No festival went without sandal paste and
+      garlands: at the wedding every brahmin was given them.
+  hagiography: ["ЧБ Ади 12.122–134", "ЧБ Ади 15.84–100"]
+  sources: []
+  images: []
+  game: {model: "лавка с сосудиками масел; корзины цветов (жасмин, бархатцы? — бархатцы новосветские, не ставить!)",
+         where: ["navadvipa/market"], notes: "бархатцы (Tagetes) — американское растение; для гирлянд эпохи — жасмин, мальти, лотос"}
+  todo: "проверить, когда в Бенгалию пришли бархатцы (Tagetes)"
+
+- id: mc-betel-seller
+  title: {ru: "Продавец бетеля (баруи, тамбули)", en: "The betel seller (barui, tambuli)"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 12.135–142 (орехи, пан, камфора); Нимай жуёт бетель на улице — ЧБ Ади 12.244."
+    en: "CB Adi 12.135–142 (nuts, pan, camphor); Nimai chewing betel in the street — CB Adi 12.244."
+  text:
+    ru: >-
+      Баруи выращивали лиану бетеля в тенистых крытых садах, а тамбули продавали листья и пан. Продавец бетеля, приняв
+      юного Нимая как самого бога любви, сам угостил Его орехами, а потом паном с камфорой и пряностями и не взял
+      платы. Пан жевали все: Нимай ходил по улицам Навадвипы с бетелем во рту, с тилакой на лбу и книгами в руках.
+    en: >-
+      Baruis grew the betel vine in shaded, covered gardens, and tambulis sold the leaves and pan. The betel seller,
+      seeing young Nimai as the god of love himself, offered Him areca nuts unasked, then pan with camphor and spices,
+      and took no payment. Everyone chewed pan: Nimai walked the streets of Navadvipa with betel in His mouth, tilaka
+      on His brow and books in His hands.
+  hagiography: ["ЧБ Ади 12.135–142", "ЧБ Ади 12.243–245"]
+  sources: []
+  images: []
+  game: {model: "лоток с листьями бетеля во влажной ткани, орехи, известь в коробочке", where: ["navadvipa/market"]}
+
+- id: mc-shridhar-hut
+  title: {ru: "Хижина Шридхара", en: "Shridhara's hut"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 12.184–205 (заштопанная одежда, слетевшая с кровли солома, тыква на крыше с молоком и чёрным перцем)."
+    en: "CB Adi 12.184–205 (patched clothes, thatch blown off the roof, a gourd on the roof cooked with milk and black pepper)."
+  text:
+    ru: >-
+      Бедный вайшнав Шридхар жил продажей банановых листьев, цветов, стеблей и чашек из листьев. Нимай поддразнивал его:
+      одежда в заплатах, с крыши слетела вся солома — а вот почитатели Чанди живут в достатке! Шридхар отвечал, что не
+      голодает и всегда одет. На его соломенной кровле росла тыква, и Господь забирал её и ел, сваренную с молоком и
+      чёрным перцем; пил Он и из его разбитого железного кувшина.
+    en: >-
+      The poor Vaishnava Shridhara lived by selling banana leaves, flowers, stems and leaf cups. Nimai teased him: your
+      clothes are patched, all the thatch has blown off your roof — yet the worshippers of Chandi live in plenty!
+      Shridhara replied that he did not go hungry and always had something to wear. A gourd grew on his thatched roof,
+      and the Lord would take it and eat it cooked with milk and black pepper; He also drank from Shridhara's broken
+      iron pot.
+  hagiography: ["ЧБ Ади 12.184–205", "ЧЧ Ади 10.67–68"]
+  sources: []
+  images: []
+  game: {model: "низкая хижина с прохудившейся кровлей, лиана тыквы-лау на крыше, кипа банановых листьев",
+         where: ["navadvipa/lane"], notes: "чёрный перец — подтверждённая пряность эпохи (в отличие от чили)"}
+
+- id: mc-tol-school
+  title: {ru: "Тол — санскритская школа", en: "The tol — Sanskrit school"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Гангадас Пандит — ЧБ Ади 8.26 и далее; Нимай — учитель грамматики, ведёт занятия, спорит с учёными — ЧБ Ади 12.2–40;
+      две прахары в школе — ЧБ Ади 6.135. Слово «тол» — «Адвайта-пракаша» (примечание к ст. 21); устройство тола — по
+      данным XIX в. (Hunter).
+    en: >-
+      Gangadasa Pandita — CB Adi 8.26 ff.; Nimai as a grammar teacher, holding classes and debating scholars — CB Adi
+      12.2–40; two praharas at school — CB Adi 6.135. The word 'tol' — Advaita-prakasha (note to v. 21); how a tol
+      was organised — 19th-c. data (Hunter).
+  text:
+    ru: >-
+      Навадвипа славилась учёностью: здесь преподавали грамматику, поэтику, логику-ньяю и законы. Школа (тол) — это дом
+      или навес учителя, где ученики сидят на циновках с рукописями; учитель кормит и поселяет учеников, а живёт
+      дарами покровителей. Нимай учился у Гангадаса Пандита, а потом сам стал учителем грамматики и вёл уроки в
+      чанди-мандапе — открытом павильоне во дворе дома Мукунды Санджая; днём занимался с учениками, а после полудня приходил с ними на берег Ганги, где спорил с учёными так, что те избегали встречи с Ним.
+    en: >-
+      Navadvipa was famed for learning: grammar, poetics, nyaya logic and law were taught there. A school (tol) is the
+      teacher's house or shed where students sit on mats with manuscripts; the teacher feeds and lodges the students
+      and lives on gifts from patrons. Nimai studied under Gangadasa Pandita and then became a grammar teacher Himself,
+      holding classes in the chandi-mandapa — an open pavilion in the courtyard of Mukunda Sanjaya's house; He taught by day and in the afternoons came with His students to the Ganga's bank, where He debated scholars so
+      keenly that they avoided meeting Him.
+  hagiography: ["ЧБ Ади 6.135", "ЧБ Ади 8.26 и далее", "ЧБ Ади 12.2–40", "ЧБ Ади 12.91 (чанди-мандапа Мукунды Санджая)", "ЧЧ Ади 16 (победа над Кешавой Кашмири)"]
+  sources: []
+  images: []
+  game: {model: "открытый навес-чандимандап, циновки, связки рукописей, светильник; ученики-брахмачари",
+         where: ["navadvipa/tol"]}
+  todo: "PD: Hunter т. 2 о толах Надии (XIX в.); проверить, кормил ли учитель учеников уже в XV–XVI вв."
+
+- id: mc-manuscript-ink
+  title: {ru: "Рукописи, чернила и перо", en: "Manuscripts, ink and pen"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Книги в руках Нимая — ЧБ Ади 6.112, 12.2, 12.245; капли чернил (*ликхана-ка̄ли*) — ЧБ Ади 6.46, 6.113. Материал
+      (пальмовый лист или бумага) в Бенгалии ок. 1500 г. — проверить.
+    en: >-
+      Books in Nimai's hands — CB Adi 6.112, 12.2, 12.245; drops of ink (likhana-kali) — CB Adi 6.46, 6.113. The writing
+      material (palm leaf or paper) in Bengal c. 1500 — to check.
+  text:
+    ru: >-
+      «Книга» той эпохи — рукопись (пунтхи): стопка длинных узких листов между двумя дощечками, перевязанная шнуром и
+      завёрнутая в ткань. Писали тростниковым пером чёрными чернилами из сажи, и школьник Нимай возвращался домой с
+      каплями чернил на коже — Вриндаван Дас сравнивает их с пчёлами вокруг цветка чампаки. Книгу почитают как знание
+      и не кладут на землю.
+    en: >-
+      A "book" of the period is a manuscript (punthi): a stack of long narrow leaves between two boards, tied with a
+      cord and wrapped in cloth. One wrote with a reed pen in black soot ink, and the schoolboy Nimai came home with
+      drops of ink on His skin — Vrindavana Dasa likens them to bees round a champaka flower. A book is revered as
+      knowledge and never placed on the ground.
+  hagiography: ["ЧБ Ади 6.46", "ЧБ Ади 6.112–113", "ЧБ Ади 12.2", "ЧБ Ади 12.245", "ЧБ Ади 4.53–55"]
+  sources: []
+  images: []
+  game: {model: "связка листов 40×8 см между дощечками, шнур; глиняная чернильница, тростниковое перо",
+         where: ["navadvipa/tol", "mishra-house/main-hut"]}
+  todo: "пальмовый лист vs бумага в Бенгалии ок. 1500 г.; найти свободное фото бенгальской пунтхи XVI в."
+
+- id: mc-vayu-oil-cure
+  title: {ru: "Лечение маслами (вайю)", en: "Oil treatment for 'disordered air' (vayu)"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 12.67–92 (лекарственные масла, деревянный чан с маслом); эпизод — до Гаи."
+    en: "CB Adi 12.73–92 (medicated oils, a wooden tub of oil)."
+  text:
+    ru: >-
+      Однажды юный учитель Нимай, словно заболев, стал кричать, смеяться и падать без чувств, и друзья решили, что у
+      Него «расстроились ветры» (вайю), как объясняла такие недуги аюрведа. Ему втирали в голову лекарственные масла, а потом погрузили в деревянный чан с маслом
+      и стали растирать тело. Господь же громко смеялся, будто и вправду страдал от вайю, — а один благочестивый
+      человек подарил для Него ароматное лечебное масло.
+    en: >-
+      Once the young teacher Nimai, as if taken ill, began to shout, laugh and fall senseless, and His friends decided
+      His "airs" (vayu) were disordered, as Ayurveda explained such ailments. They rubbed medicated oils into His head and then put Him in a wooden tub of oil and massaged
+      His body. The Lord laughed loudly, as if He really suffered from vayu — and a pious man gave fragrant medicinal
+      oil for Him.
+  hagiography: ["ЧБ Ади 12.67–92"]
+  sources: []
+  images: []
+  game: {model: "деревянный чан-долблёнка, глиняные сосуды с маслом", where: ["mishra-house/courtyard"]}

@@ -483,3 +483,196 @@
   sources: []
   images: []
   game: {model: "глиняная плошка с маслом и куркумой, маленький сосудик каджала", where: ["mishra-house/sutika-ghar"]}
+
+# --- Порция 2: учёба, упанаяна, свадьба (главы P03–P05) ---
+
+- id: mc-vidyarambha
+  title: {ru: "Начало учёбы: мел в руке (хате-кхари)", en: "Beginning of learning: chalk in the hand (hate-khari)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 14.94 (отец вложил мел в руку сына); ЧБ Ади 6.2 (церемония начала обучения в благоприятный день)."
+    en: "CC Adi 14.94 (the father placed chalk in his son's hand); CB Adi 6.2 (the ceremony of beginning study on an auspicious day)."
+  text:
+    ru: >-
+      Учёбу начинают обрядом: в благоприятный день отец вкладывает ребёнку в руку кусочек мела, и тот выводит первые
+      буквы — на земле или на дощечке. Джаганнатха Мишра торжественно совершил этот обряд, и через несколько дней
+      Нимай знал все буквы и их сочетания. Позже мальчик возвращался из школы весь в пыли, с книгами в руках и
+      капельками чернил на золотистой коже.
+    en: >-
+      Learning begins with a rite: on an auspicious day the father places a piece of chalk in the child's hand, and
+      the child traces the first letters — on the ground or on a board. Jagannatha Mishra performed this rite
+      solemnly, and within a few days Nimai knew all the letters and their combinations. Later the boy would come home
+      from school covered in dust, books in hand and drops of ink on His golden skin.
+  hagiography: ["ЧЧ Ади 14.94", "ЧБ Ади 6.2", "ЧБ Ади 6.46 (*ликхана-ка̄лира бинду* — капли чернил)", "ЧБ Ади 6.112–113"]
+  sources: []
+  images: []
+  game: {model: "кусочек белого мела, дощечка/расчищенная земля с буквами бенгальского письма",
+         where: ["mishra-house/courtyard"]}
+
+- id: mc-upanayana
+  title: {ru: "Упанаяна — священный шнур", en: "Upanayana — the sacred thread"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 8.7–22 (*ха̄те дан̣д̣а, ка̄ндхе джхули* — посох в руке, сума на плече); ЧБ Ади 7.196."
+    en: "CB Adi 8.7–22 (hate danda, kandhe jhuli — a staff in hand, a bag on the shoulder); CB Adi 7.196."
+  text:
+    ru: >-
+      В благоприятный месяц, день и час Нимаю вручили священный шнур — с этого дня брахманский мальчик становится
+      «дваждырождённым» и может изучать Веды. Женщины пели о Кришне, музыканты играли на мридангах, санаи и флейтах,
+      брахманы читали гимны. По обычаю новопосвящённый с посохом и сумой обходит дома и просит подаяние, как
+      ученик-брахмачари; Нимай в этот миг напоминал всем Господа Вамана, и женщины с улыбкой клали дары в Его суму.
+    en: >-
+      In an auspicious month, day and hour Nimai received the sacred thread — from that day a brahmin boy becomes
+      "twice-born" and may study the Vedas. Women sang of Krishna, musicians played mridangas, sanai and flutes,
+      brahmins recited hymns. By custom the newly initiated boy, with staff and bag, goes from house to house begging
+      alms like a brahmachari student; at that moment Nimai reminded everyone of Lord Vamana, and the women smilingly
+      put gifts into His bag.
+  hagiography: ["ЧБ Ади 7.196", "ЧБ Ади 8.7–22"]
+  sources: []
+  images: []
+  game: {model: "белый хлопковый шнур через левое плечо; бамбуковый посох; сума (джхули) из ткани",
+         where: ["mishra-house/courtyard"]}
+
+- id: mc-adhivasa
+  title: {ru: "Адхиваса — канун свадьбы", en: "Adhivasa — the eve of the wedding"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 15.73–125 (свадьба с Вишнуприей; *чандра̄тапа* — навесы, *кадалӣ* — банановые деревца, *пӯрн̣а-гхат̣а,
+      дӣпа, дха̄нйа, дадхи, а̄мра-са̄ра*). В переводе «пандал» — по оригиналу: натянуты большие навесы и по четырём
+      сторонам вкопаны банановые деревца.
+    en: >-
+      CB Adi 15.73–125 (the wedding with Vishnupriya; chandratapa — awnings, kadali — banana saplings, purna-ghata,
+      dipa, dhanya, dadhi, amra-sara). The translation's 'pandal' is, in the original, large awnings stretched out with
+      banana saplings planted on four sides.
+  text:
+    ru: >-
+      Накануне свадьбы совершают адхивасу — освящение жениха и невесты. Двор Шачи накрыли большими навесами, по четырём
+      сторонам вкопали банановые деревца, протянули между ними верёвки с манговыми листьями и цветными флажками; в доме,
+      у дверей и во дворе поставили полные кувшины с водой, лампады, рис, простоквашу и ветви манго. Гостей звали
+      «прийти вечером на пан»: им дарили сандаловую пасту, гирлянды и коробочки пана — Господь велел давать втрое.
+      Затем Шачи с музыкой ходила почтить Гангу и Шаштхи и одарила женщин кхаи, бананами, маслом, паном и кумкумой.
+    en: >-
+      On the eve of the wedding adhivasa is performed — the sanctifying of bride and groom. Shachi's courtyard was
+      covered with large awnings, banana saplings were planted on four sides, and cords hung with mango leaves and
+      coloured flags were stretched between them; full water pots, lamps, rice, curd and mango twigs were set in the
+      house, at the doors and in the yard. Guests were invited "to come for pan in the evening": they received sandal
+      paste, garlands and boxes of pan — the Lord ordered three times the usual. Then Shachi went with music to honour
+      Ganga and Shashthi and gave the women khai, bananas, oil, pan and kunkuma.
+  hagiography: ["ЧБ Ади 15.73–125"]
+  sources: []
+  images: []
+  game: {model: "двор под навесами; банановые деревца по углам; гирлянды манговых листьев; пурна-гхаты с ветвью манго",
+         where: ["mishra-house/courtyard"]}
+
+- id: mc-purna-ghata
+  title: {ru: "Пурна-гхата — полный кувшин", en: "Purna-ghata — the full pot"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 15.75, 15.112 (*пӯрн̣а-гхат̣а … а̄мра-са̄ра*)."
+    en: "CB Adi 15.75, 15.112 (purna-ghata … amra-sara)."
+  text:
+    ru: >-
+      Кувшин, полный воды, с веткой манговых листьев в горле — знак полноты и благополучия. Такие кувшины ставили у
+      дверей, во дворе и в доме на всякий праздник; рядом — лампада, рис и простокваша. На свадьбе Махапрабху их было
+      так много, что манговые листья покрывали пол.
+    en: >-
+      A pot filled with water with a sprig of mango leaves in its neck is a sign of fullness and well-being. Such pots
+      were set at the doors, in the yard and in the house for every festival, with a lamp, rice and curd beside them.
+      At Mahaprabhu's wedding there were so many that mango leaves covered the floor.
+  hagiography: ["ЧБ Ади 15.75", "ЧБ Ади 15.112"]
+  sources: []
+  images: []
+  game: {model: "глиняный/латунный кувшин с пятью манговыми листьями и (часто) кокосом сверху — кокос проверить",
+         where: ["mishra-house/gate", "mishra-house/courtyard"]}
+
+- id: mc-groom-attire
+  title: {ru: "Убор жениха", en: "The bridegroom's attire"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 15.126–131: тилака из сандала и агуру, *мукут̣а* (венец), гирлянды, тонкое жёлтое полотно, надетое
+      *трикаччха* (с тремя подоткнутыми концами), каджал, *дха̄нйа, дӯрва̄, сӯтра* на запястье, зеркало и *рамбха̄-ман̃джарӣ*.
+    en: >-
+      CB Adi 15.126–131: a tilaka of sandal and aguru, a mukuta (crown), garlands, fine yellow cloth worn trikaccha
+      (tucked in three places), kajal, dhanya, durva and thread on the wrist, a mirror and a rambha-manjari.
+  text:
+    ru: >-
+      Когда спала полуденная жара, Господа стали наряжать к свадьбе: на лоб нанесли полумесяц из сандаловой пасты с
+      агуру, на голову надели венец, на шею — душистые гирлянды, облачили в тонкое жёлтое полотно, подоткнутое по
+      обычаю в трёх местах, подвели глаза каджалом. На правое запястье повязали нить с рисом и дурвой, а в руки дали
+      зеркало и молодой побег банана.
+    en: >-
+      When the midday heat had passed, the Lord was dressed for the wedding: a crescent of sandal paste with aguru on
+      His forehead, a crown on His head, fragrant garlands round His neck; He was clothed in fine yellow cloth tucked in
+      three places according to custom, and His eyes were lined with kajal. A thread with rice and durva was tied on His
+      right wrist, and a mirror and a young banana shoot were put in His hands.
+  hagiography: ["ЧБ Ади 15.126–134"]
+  sources: []
+  images: []
+  game: {model: "венец (мукута) — форма неясна: позднейший топор из сола-пита? (проверить); жёлтое дхоти; зеркало",
+         where: ["mishra-house/courtyard"]}
+  todo: "как выглядел свадебный венец в XVI в. (топор из шолы — поздний?)"
+
+- id: mc-wedding-procession
+  title: {ru: "Свадебное шествие: паланкин, лампады, фейерверк", en: "The wedding procession: palanquin, lamps, fireworks"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 15.135–163 (*дола̄* от Буддхиманты Кхана; *сахасра дӣпа*; *на̄на̄-видха ба̄джи* — «разные огненные потехи»).
+      Фейерверки в Бенгалии ок. 1508 г. — по тексту ЧБ (ок. 1540-х); ранняя история пороховых потех в Индии — проверить.
+    en: >-
+      CB Adi 15.135–163 (a dola from Buddhimanta Khan; sahasra dipa; nana-vidha baji — 'various fireworks'). Fireworks in
+      Bengal c. 1508 — per the CB text (c. 1540s); the early history of gunpowder displays in India — to check.
+  text:
+    ru: >-
+      К вечеру Буддхиманта Кхан привёз для Господа роскошный паланкин. Жених не пошёл прямо к невесте: при свете
+      заката процессия обошла Навадвипу и двинулась вдоль Ганги под молодым месяцем. Люди зажгли тысячи лампад и
+      факелов, пускали огненные потехи, дети плясали под музыку. У дома невесты Санатана Мишра снял Господа с паланкина
+      и встретил Его омовением стоп, аргхьей, тканью и украшениями, а музыканты жениха и невесты принялись состязаться.
+    en: >-
+      Toward evening Buddhimanta Khan brought a splendid palanquin for the Lord. The groom did not go straight to the
+      bride: in the sunset the procession went round Navadvipa and then along the Ganga under the young moon. People
+      lit thousands of lamps and torches and set off fireworks, and children danced to the music. At the bride's house
+      Sanatana Mishra helped the Lord down from the palanquin and received Him with foot-water, arghya, cloth and
+      ornaments, while the musicians of both parties began to compete.
+  hagiography: ["ЧБ Ади 15.135–166"]
+  sources: []
+  images: []
+  game: {model: "паланкин-дола, факелы (масляные, на бамбуке), цепочка огней вдоль берега", where: ["navadvipa/ganga-bank"]}
+
+- id: mc-wedding-rite
+  title: {ru: "Свадебный обряд: семь обходов, взгляд, гирлянды", en: "The wedding rite: seven rounds, the first glance, garlands"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 15.168–189 (*антах̣пат̣а* — занавес между женихом и невестой: в переводе «завязали глаза»; *сапта
+      прадакш̣ин̣а*); Лочан, Ади-кханда, ч. 11, ст. 105–112, ч. 14, ст. 157; первая свадьба — ЧБ Ади 10.
+    en: >-
+      CB Adi 15.168–189 (antahpata — a cloth screen between groom and bride, rendered 'blindfolded' in the translation;
+      sapta pradakshina); Lochana, Adi-khanda pt. 11 vv. 105–112, pt. 14 v. 157; the first wedding — CB Adi 10.
+  text:
+    ru: >-
+      Мать невесты встретила жениха дурвой, рисом и лампадой с семью фитилями. Невесту в нарядах внесли на сиденье;
+      между нею и женихом держали полотнище-занавес, и невеста семь раз обошла вокруг Господа. Потом занавес убрали —
+      жених и невеста впервые взглянули друг на друга, их осыпали цветами, и они обменялись гирляндами. Отец невесты
+      подарил молодым коров, землю, постель, слуг и служанок.
+    en: >-
+      The bride's mother welcomed the groom with durva, rice and a seven-wicked lamp. The bride, in all her finery, was
+      carried in on a seat; a cloth screen was held between her and the groom, and the bride went round the Lord seven
+      times. Then the screen was removed — bride and groom looked at each other for the first time, flowers were
+      showered on them, and they exchanged garlands. The bride's father gave the couple cows, land, bedding, and men-
+      and maidservants.
+  hagiography: ["ЧБ Ади 15.166–189", "Лочан, Ади-кханда, ч. 11, ст. 105–112", "Лочан, Ади-кханда, ч. 14, ст. 157",
+                "ЧБ Ади 10 (свадьба с Лакшмиприей)"]
+  sources: []
+  images: []
+  game: {model: "невеста на деревянной доске-пиди, которую несут родственники; полотнище; гирлянды",
+         where: ["navadvipa/bride-house"]}

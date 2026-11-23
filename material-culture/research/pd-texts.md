@@ -37,6 +37,18 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   Автор ум. 1911 — ОД. **[поздн.]**; страницы — по печатной пагинации т. I.
 - **HJ 1903** — H. Yule, A. C. Burnell, *Hobson-Jobson*, new ed. by W. Crooke. London, 1903. archive.org:
   `hobsonjobsonbein00yuleuoft`. ОД (авторы ум. 1882–1923).
+- **Ward 1863** — W. Ward, *A View of the History, Literature, and Religion of the Hindoos*, 5th ed., abridged.
+  Madras, 1863 (текст 1815–1817, Серампур). archive.org: `cu31924021023613`. Автор ум. 1823 — ОД. Наблюдения
+  миссионера в Бенгалии ок. 1800–1815 → **[поздн.]**, но ближе всех к доколониальному быту. ⚠ Тон враждебный
+  («idol»); пересказывать только факты.
+- **Solvyns 1799 / 1804** — B. Solvyns, *A Catalogue of 250 Coloured Etchings ... of the Hindoos* (Calcutta, 1799),
+  archive.org: `bim_eighteenth-century_a-catalogue-of-250-colou_solvyns-balt-balthaza_1799`; *The Costume of
+  Indostan* (London, Orme, 1804; рисунки 1798–99), archive.org: `b30456654`. ОД. Калькутта кон. XVIII в. **[поздн.]**
+- **Sen BR 1920** — D. C. Sen, *The Bengali Ramayanas*. Calcutta University, 1920. archive.org: `cu_pub599`
+  (копия `bengaliramayanas00senduoft` распознана как бенгальский текст — мусор). ОД.
+- **Martin 1838 (Buchanan)** — M. Martin (ed.), *The History, Antiquities, Topography, and Statistics of Eastern
+  India* (по обзорам Ф. Бьюкенена-Гамильтона 1807–1814), vol. III (Puraniya, Ronggopoor, Assam). London, 1838.
+  archive.org: `in.ernet.dli.2015.31911`. ОД (Бьюкенен ум. 1829). **[поздн., ок. 1810]**
 
 ---
 
@@ -117,6 +129,48 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   обжигом — «extremely primitive» — Mukharji 1888, p. 56. **[поздн.; традиция древняя]**
 - Корзиночки, обшитые снаружи раковинами каури, с красной подкладкой — для синдура и мелочей женщин — Mukharji
   1888, p. 282 (ср. Bose 1881 «sidoorchoobry ... made of small shells», p. 133–135). **[поздн.]**
+- **Туласи у дома**: «They plant it also before their houses, and in the morning cleanse the place around it with
+  water and cow-dung ; and in the evening place a lamp near it. Throughout the month *Vaishakha* they suspend a large
+  pot over it filled with water, and let the water drop upon it through a small hole ... A pillar, hollow at the top,
+  is erected by many Hindoos, in which they deposit earth, and set the plant. They walk round these pillars and bow
+  to the plant» — Ward 1863, p. 163–164. **[поздн., ок. 1810; ключевая цитата для туласи-манчи]**: утром — обмазка
+  водой с коровьим навозом, вечером — светильник, в Вайшакху — капельный горшок, полый столб-постамент.
+- **Коровий навоз как очищение**: «all unclean places are purified with cow-dung. Indeed many bramhuns do not go out
+  of the house in a morning, till the door-way has been rubbed with cow-dung» — Ward 1863, p. 153; ср. p. 12 («A Hindoo
+  does not carry any thing out of his house in the morning, till he has rubbed his door-way with cow-dung»). Навоз жгут
+  в коровнике (окуривание) — p. 154. **[поздн.]**
+- Многие сажают у дома священные деревья, чтобы поливать их в жару; женщины-шудры носят к ним воду — Ward 1863, p. 163.
+- Храм *jor-bangla* — «made like two thatched houses or bangalas, placed side to side ; and has ... a double-pitched
+  roof»; по всей Бенгалии много «small clay and thatched buildings» для Божеств — Ward 1863, p. 178. **[поздн.]** →
+  архитектурный тип *бангла/до-чала* = соломенная хижина.
+- Поговорка: место «под каплями со стрехи» (*thatch*) считается «вне земли» (в рассказе о Нрисимхе) — Ward 1863,
+  p. ~6. **[фольклор]** — соломенная стреха как граница дома.
+- Автобиография поэтессы Чандравати (Мейменсингх, XVI в.): дед Джадавананда с женой «lived in a straw-roofed hut
+  supported by bamboo posts»; отец — певец Манасы Банши Дас — так беден, «that there is no straw on his roof nor rice
+  in his store. When the flood comes it washes the hut away. My father sings songs on Manasa Devi, and the rice and
+  cowries that he earns thereby, he brings to the house» — Sen BR 1920, p. 187–188. **[XVI в.]** → соломенная кровля
+  на бамбуковых столбах; плата певцу — рис и каури.
+- Образ: закопчённый от очага горшок как сравнение для чёрной тучи и грозного облика Чанди — «this pot becomes
+  jet-black coming in contact with the fire of the hearth» — Sen BR 1920, p. 96 (в разделе о Криттибасе, XV в.).
+  **[XV в.]** → глиняная *ханди* чернеет от очага.
+- **Усадьба = группа отдельных хижин**: «Except in the larger houses built of brick, each apartment is a separate
+  house, and the wealth of the possessor is more known by the number of huts, than by any of them being of
+  extraordinary magnitude ... The collection of huts, which in Bengal is called *Vari* [бари], is here called
+  *Haveli* ; and the space, by which it is surrounded, and which, when it can possibly be afforded, is always enclosed
+  so as to conceal everything within, is called *Anggan* [анган = двор]»; ограды бедняков — «reeds, very clumsily tied
+  together»; на крышах вьются **тыквенные** (cucurbitaceous) растения, во дворе — бананы, клещевина, беседка из
+  вьющегося боба (*Dolichos lignosus*) — Martin 1838, III, p. 100 (Пурния). **[поздн., ок. 1810]**
+- **Типы кровли**: большинство хижин — «built in the *Banggala* fashion with arched ridges» (изогнутый конёк, как в
+  Динаджпуре, но ниже и площе); с четырьмя скатами — *chautarka* (= *чар-чала*), редки; с двумя скатами и прямым
+  коньком — «Tirahooti fashion» (из Тирхута) — Martin 1838, III, p. 100–101. **[поздн.]** → бенгальская до-чала с
+  **изогнутым** коньком — «бангла»; прямой конёк — небенгальский. Убогие хижины-«ульи» *marki*.
+- Обстановка (Пурния): бамбуковые циновки как постель (в Пурнии реже), циновки из тростника, травы *kus*, соломы;
+  в сезон дождей спят на помостах; самое ценное — «brass, copper and bell-metal vessels», которые к тому же служат
+  кладом (можно зарыть, не горят) — Martin 1838, III, p. 101. **[поздн.]**
+- Бихарский округ (цитата в Introduction): дома с глиняными стенами, соломенная кровля «consisting of two sides
+  meeting in an arched ridge» (как в Вост. Бенгалии), глиняный пол; обстановка — кровати-*кхатия* из жердей с
+  верёвочной сеткой, «earthen pots, a spinning wheel, and a rude knife, cleaver»; топливо — «cowdung mixed with husks»
+  — Martin 1838, III, Introduction, p. xiii–xiv (цит. из т. I, p. 118–123). **[поздн.]**
 
 ## (b) Кухня и еда
 
@@ -304,6 +358,17 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
 - Цветок ашоки посвящён Шаштхи — Risley TCB 1891, II, p. 61. **[поздн.]**
 - Кочи (Сев. Бенгалия): первый рис на 7-м месяце, поклонение «Шати» (= Шаштхи?) с бананами *kantal*, рисом *atap*,
   листьями бильвы и **туласи** — Risley TCB 1891, I, p. 498. **[поздн., племенной обычай]**
+- **6-й и 21-й день (Шаштхи)**: «after a child is six days old, every father, to preserve the child, performs the
+  worship of the goddess»; обряд — вечером «before a branch of the *vata* tree, fastened in the house floor ; **the two
+  stones with which spices are ground being placed against the wall** in the inside of the house, covered with a piece
+  of cloth» (= *шил-нора* как образ Шаштхи); «Before the door the family place the skull of a cow, rubbing some red
+  lead on its forehead ; and in three lumps of cow-dung, put on the forehead, they stick **three cowries** ; upon which
+  also they spread a yellow cloth. The head remains a month at the door»; на **21-й день** мать с 10–15 соседками и
+  брахманом идёт к камню у корней баньяна (образ Шаштхи), надевает гирлянду, раздаёт сладости — обряд *ekushiya*
+  (от «двадцать один») — Ward 1863, p. 112. **[поздн., ок. 1810]**
+- Шаштхи «has no temples in Bengal ; her common representative, a rough stone, smeared with red paint, about as large
+  as a man's head, is commonly placed at the root of the sacred *vata*»; ездит на кошке — матери не обижают кошек —
+  Ward 1863, p. 112. Шесть годовых праздников Шаштхи (Араньи-шаштхи с опахалами и др.) — p. 110–112. **[поздн.]**
 
 ## Одежда, украшения, деньги
 
@@ -396,6 +461,25 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
     Налоги Силхета собирали в каури до 1801 г. **[XIII–XVI в. — прямые свидетельства; таблица — XVIII–XIX в.]**
   → Для эпохи Махапрабху (1486–1533) каури как мелкая монета Бенгалии засвидетельствованы до (Ибн Баттута) и после
     (Корреа 1561). Ср. Мукундарам (Sen HBLL p. 356–357): счёт в гандах, бури, панах.
+- **Деревянные сандалии (кхарам/паудука)**: «a pair of shoes or pattens ; they are made of a hard wood, and are kept
+  on the feet merely by the erect pegs slipt in between the great and second toe» — Solvyns, *Costume of Indostan*
+  1804, pl. XLIV. **[поздн., 1798–99]** → колышек между большим и вторым пальцем (как и у традиционных кхарам).
+- Знатная замужняя женщина «cannot with propriety wear shoes» — Solvyns 1804, pl. XXXVI; 1799 Catalogue, «Dresses of
+  Hindoo Women», № 1. **[поздн.]** → женщины ходят босиком.
+- Вдова: «cannot wear coloured borders to her clothes, nor any ornaments, excepting a necklace of wooden beads ; ...
+  her head is shaved» — Solvyns 1804, pl. XXXVIII. **[поздн.]** (⚠ комментарий автора о вдовах — европейская
+  оценка, не воспроизводить.)
+- Молочница-гоала: «the brass bracelets are often very weighty, and serve occasionally for defence as well as
+  ornament» — Solvyns 1804, pl. XXXIX(?); 1799 Catalogue, № 4. **[поздн.]**
+- Ремёсла в серии офортов: *Coomhar* (гончар на круге), *Sunkhaury* — мастер раковинных браслетов «with a View of
+  their method of cutting and grinding the shells», *Causaury/Thatari* — медник-латунщик, *Hulwye* — кондитер,
+  *Boyty* — плетельщик циновок из тростника, *Doam* — корзинщик — Solvyns 1799 Catalogue, nos. 16–46. **[поздн.;
+  офорты можно искать как визуальный референс — изображения в ОД]**
+- Индусская мужская одежда (Пурния, ок. 1810, в описании мусульман, «adopted the Hindu dress»): накидка *dupatta*
+  5×3 локтя и *dhoti* 5–7 локтей длиной, 1½–2 шириной: «The end of this, after two turns have been passed round the
+  waist, is passed between the legs and thrust under the folds which cross behind the back»; на церемонии — туфли;
+  зимой — стёганое покрывало или двойная простыня *dohar*; у бедных — лоскутное одеяло *kantha* — Martin 1838, III,
+  p. 102–103. Средний класс носит «wooden sandals» — p. 103. **[поздн.]**
 
 ---
 
@@ -409,6 +493,14 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
 - **Чили**: HJ 1903, s.v. CHILLY, p. 196 — название от Чили; растение завезено из Америки через Индонезию в Индию
   (свидетельства с 1604/1631). ⚠ Для 1486–1533 гг. чили нет; острота — чёрный перец (*marich*), длинный перец
   (*pippali*), имбирь, горчица.
+- **Чхана и сандеш из чханы**: Bose 1881, p. 106 (сноска): «without milk no *sundesh* could be made ... when well made
+  with fresh *channa* (curded milk) it has a fine taste ... The Hindoos of the Upper Provinces, however, do not regard
+  the preparation as pure, and consequently do not use it, because of its admixture with curded milk»; ср. p. 78:
+  свадебные дары — «sugar-candy, *chana* (coagulated milk)». **[поздн., 1880-е]** → в XIX в. сандеш уже из чханы,
+  а часть индусов считала «расщеплённое» молоко нечистым. ⚠ Для 1486–1533 гг. сандеш/сладости в житиях понимать как
+  сладости из сахара, кхоа/кшира (уваренного молока), сара, кокоса — **чхану не изображать**. Прямого ОД-свидетельства
+  о времени появления чханы в Бенгалии (обычно связывают с португальцами, XVII–XVIII в.) в просмотренных книгах **не
+  найдено** — см. «Тупики».
 
 ## Тупики (Dead ends)
 

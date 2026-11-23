@@ -1,0 +1,60 @@
+# Рубрика «Музыка и киртан» (music). Формат — material-culture/README.md.
+
+- id: mc-wedding-instruments
+  title: {ru: "Оркестр праздника: какие инструменты звучали", en: "The festive band: which instruments played"}
+  rubric: music
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Перечни инструментов в ЧБ (ок. 1540-х): Ади 8.10 (*мр̣дан̇га, са̄на̄и, вам̇ш́ӣ*), 15.80 (*мр̣дан̇га, са̄на̄н̃и,
+      джайад̣ха̄ка, карата̄ла*), 15.148–149 (*джайад̣ха̄ка, вӣрад̣ха̄ка, мр̣дан̇га, ка̄ха̄ла, пат̣аха, дагад̣а, ш́ан̇кха,
+      вам̇ш́ӣ, карата̄ла, варан̇га, ш́ин̇га̄, пан̃ча-ш́абдӣ*). Облик отдельных инструментов — по изображениям XVII–XIX вв.
+    en: >-
+      Instrument lists in CB (c. 1540s): Adi 8.10 (mridanga, sanai, vamshi), 15.80 (mridanga, sanani, jayadhaka,
+      karatala), 15.148–149 (jayadhaka, viradhaka, mridanga, kahala, pataha, dagada, shankha, vamshi, karatala, varanga,
+      shinga, pancha-shabdi). The look of each instrument follows 17th–19th-c. images.
+  text:
+    ru: >-
+      Вриндаван Дас любит перечислять музыку праздника. На упанаяне Нимая играли мриданга, санаи (гобой) и флейта, на
+      свадьбе — ещё и большие барабаны джаядхак и вирадхак, литавры-кахал, барабаны патаха и дагад, раковины, бамбуковые
+      флейты, ручные тарелочки-караталы, рог-шинга и «пять звуков» (панча-шабди) — набор праздничных инструментов.
+      Музыканты стороны жениха и невесты состязались, кто кого переиграет.
+    en: >-
+      Vrindavana Dasa loves to list a festival's music. At Nimai's upanayana mridanga, sanai (shawm) and flute played;
+      at the wedding there were also the big drums jayadhak and viradhak, kahal kettle-drums, pataha and dagad drums,
+      conches, bamboo flutes, karatala hand-cymbals, the shinga horn and the "five sounds" (pancha-shabdi), a festive
+      set of instruments. The groom's and bride's musicians competed to outplay each other.
+  hagiography: ["ЧБ Ади 8.10", "ЧБ Ади 15.79–80", "ЧБ Ади 15.148–149", "ЧБ Ади 15.162", "ЧБ Ади 3.33"]
+  sources: []
+  images: []
+  game: {model: "звуковая дорожка праздника; 4–6 музыкантов: мриданга, санаи, дхак, караталы, раковина, рог",
+         where: ["mishra-house/gate", "navadvipa/ganga-bank"]}
+  todo: "уточнить, что такое варанга, дагад, панча-шабди (PD: словари; Day, Music of Southern India? Tagore 1877?)"
+
+- id: mc-mridanga-kartal
+  title: {ru: "Мриданга (кхол) и караталы", en: "Mridanga (khol) and karatalas"}
+  rubric: music
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мриданга и караталы в житиях — постоянно (ЧБ Ади 8.10, 15.80; киртан — ЧБ Мадхья). Глиняный корпус бенгальского
+      кхола — по позднейшим данным и изображениям; для XVI в. проверить.
+    en: >-
+      Mridanga and karatalas appear constantly in the hagiographies (CB Adi 8.10, 15.80; kirtan — CB Madhya). The clay
+      body of the Bengali khol follows later data and images; to be checked for the 16th c.
+  text:
+    ru: >-
+      Мриданга бенгальского киртана (кхол) — длинный барабан с двумя кожаными мембранами разного размера: широкая даёт
+      низкий гул, узкая — звонкий высокий тон; корпус, по позднейшему обычаю, глиняный. Караталы — пара бронзовых
+      тарелочек на шнурке, задающих ритм. Вместе с пением святых имён они и есть звук санкиртаны, которую Махапрабху
+      начал в Навадвипе.
+    en: >-
+      The mridanga of Bengali kirtan (khol) is a long drum with two leather heads of different sizes: the broad one
+      gives a deep boom, the narrow one a bright high tone; by later custom its body is of clay. Karatalas are a pair of
+      bronze hand-cymbals on a cord that keep the rhythm. Together with the chanting of the holy names they are the
+      sound of the sankirtana Mahaprabhu began in Navadvipa.
+  hagiography: ["ЧБ Ади 8.10", "ЧБ Ади 15.80", "ЧБ Ади 15.148–149"]
+  sources: []
+  images: []
+  game: {model: "кхол 60 см, асимметричный, ремни-растяжки; караталы Ø 6–8 см", where: ["navadvipa/srivasa-angan"]}
+  todo: "PD: Solvyns (лист «Khole»?), Tagore 1877/1896 — облик кхола; сверить с терракотами XVII в."
