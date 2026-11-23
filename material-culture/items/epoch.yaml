@@ -608,3 +608,95 @@
   game: {model: "отрез золотисто-жёлтой блестящей ткани с вышитыми цветами; покрывало-полог",
          where: ["navadvipa/market"]}
   todo: "отождествить волокно (тасар / мунга / рами) — Watt 1889–93?; ср. mc-silk-kinds"
+
+- id: mc-gita-govinda-decree
+  title: {ru: "Указ Пратапарудры: в храме петь только «Гита-говинду»", en: "Prataparudra's decree: only the Gita-govinda in the temple"}
+  rubric: puri
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Надпись Пратапарудры у врат Джая-Виджая в джагамохане храма Джаганнатхи (17 июля 1499 г., 4-й год правления):
+      во время бхоги Джаганнатхи и Баларамы — от вечерней дхупы до укладывания на покой — танцовщицы храма, «старая» и
+      «телугу» труппы, разучивают и поют только «Гита-говинду»; ещё четыре певца-вайшнава поют из Джаядевы; смотритель,
+      допустивший другую песню, нарушает волю Джаганнатхи — R. D. Banerji, History of Orissa I (1930), с. 334 (там же,
+      с. 336: указы гаджапати высекали на вратах Джая-Виджая). ⚠ Оценки Банерджи о вайшнавизме и Пратапарудре — его
+      мнение, не переносить. В ЧЧ: храмовая танцовщица поёт «Гита-говинду» на мелодию гуджари у храма Ямешвары, и
+      Махапрабху в экстазе бежит на голос — ЧЧ Антья 13.78–87.
+    en: >-
+      Prataparudra's inscription at the Jaya-Vijaya gate of the jagamohana of Jagannatha's temple (17 July 1499, 4th
+      regnal year): during the bhoga of Jagannatha and Balarama — from the evening dhupa until He is put to rest — the
+      temple dancers, the 'old' and the 'Telugu' troupes, are to learn and sing only the Gita-govinda; four more
+      Vaishnava singers sing from Jayadeva; a superintendent who allows another song acts against Jagannatha's will —
+      R. D. Banerji, History of Orissa I (1930), p. 334 (also p. 336: the Gajapatis' decrees were carved on the
+      Jaya-Vijaya gate). ⚠ Banerji's judgements on Vaishnavism and Prataparudra are his opinion and are not carried
+      over. In CC: a temple dancer sings the Gita-govinda in the gurjari melody near the Yameshvara temple, and
+      Mahaprabhu in ecstasy runs toward the voice — CC Antya 13.78–87.
+  text:
+    ru: >-
+      За одиннадцать лет до прихода Махапрабху в Пури царь Пратапарудра повелел высечь на вратах храма указ: во время
+      вечерних подношений Джаганнатхе и Балараме храмовые танцовщицы должны петь только песни «Гита-говинды» Джаядевы,
+      и никакие другие; к ним добавлены четыре певца-вайшнава. Тот, кто допустит иную песню, идёт против воли самого
+      Джаганнатхи. Поэтому песни Джаядевы звучали в Пури каждый вечер — и однажды, услышав, как храмовая певица поёт
+      «Гита-говинду» на мелодию гуджари, Махапрабху в экстазе бросился на голос сквозь колючие кусты, и только Говинда
+      успел Его удержать.
+    en: >-
+      Eleven years before Mahaprabhu came to Puri, King Prataparudra had a decree carved on the temple gate: during the
+      evening offerings to Jagannatha and Balarama the temple dancers were to sing only the songs of Jayadeva's
+      Gita-govinda and no others; four Vaishnava singers were added to them. Whoever allowed another song went against
+      the will of Jagannatha Himself. So Jayadeva's songs sounded in Puri every evening — and once, hearing a temple
+      singer sing the Gita-govinda in the gurjari melody, Mahaprabhu in ecstasy rushed toward the voice through thorny
+      bushes, and only Govinda managed to hold Him back.
+  hagiography: ["ЧЧ Антья 13.78–87"]
+  sources: ["Banerji, History of Orissa (1930), т. I, с. 334, 336"]
+  images: []
+  game: {model: "каменная плита с орийской надписью у врат Джая-Виджая; вечерний свет лампад; храмовая певица с караталами",
+         where: ["puri/jagannath-temple"]}
+  todo: "текст надписи по изданию (Mano Mohan Chakravarti, JASB 1893?) — сверить дату и формулировку"
+
+- id: mc-gauda-citadel
+  title: {ru: "Гауда: цитадель, ворота и мечети столицы", en: "Gauda: the capital's citadel, gates and mosques"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Промеры руин — Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931): цитадель на берегу старой Ганги —
+      около мили с севера на юг и до полумили в ширину, земляной вал выше 30 футов и до 190 футов у основания, с
+      круглыми башнями, снаружи ров ~200 футов (с. 50); ворота Дакхил-дарваза — проход 14 футов шириной и 113,5 фута
+      длиной, стены 9,5 фута, мелкий красный кирпич с рельефом (с. 51); Фируз-минар (1489) — ~84 фута, 73 ступени (с. 53);
+      Котвали-дарваза — арка 30 футов (с. 75–76); Чхоти-Сона-масджид (при Хусейн-шахе) — 82 × 52 фута (с. 79–80);
+      Бара-Сона-масджид Насрат-шаха — 198 × 79 футов (с. 35, 45–46); пруды Рупа-сагар и Санатана-сагар у Рамакели (с. 34).
+      Облик улиц по Баррошу (до 1540): широкие прямые улицы с рядами деревьев, толпы, кирпичные здания, город на три
+      лиги — Tarafdar 1965, с. 127–128. Жития: Господь в Рамакели у столицы — ЧЧ Мадхья 1.166–181.
+    en: >-
+      Measurements of the ruins — Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931): the citadel on the bank
+      of the old Ganga — about a mile north–south and up to half a mile wide, an earthen rampart over 30 ft high and up
+      to 190 ft thick at the base, with round towers, a moat ~200 ft wide outside (p. 50); the Dakhil Darwaza gate — a
+      passage 14 ft wide and 113.5 ft long, walls 9.5 ft, small red brick with relief (p. 51); the Firuz Minar (1489) —
+      ~84 ft, 73 steps (p. 53); Kotwali Darwaza — a 30 ft arch (pp. 75–76); Chhoti Sona Masjid (Husain Shah's time) —
+      82 × 52 ft (pp. 79–80); Nusrat Shah's Bara Sona Masjid — 198 × 79 ft (pp. 35, 45–46); the Rupa-sagar and
+      Sanatana-sagar tanks by Ramakeli (p. 34). Street scene after Barros (before 1540): broad straight streets lined
+      with trees, crowds, brick buildings, a city three leagues long — Tarafdar 1965, pp. 127–128. Hagiographies: the
+      Lord at Ramakeli by the capital — CC Madhya 1.166–181.
+  text:
+    ru: >-
+      Столица султанов Гауда тянулась вдоль Ганги на три лиги. Широкие прямые улицы обсаживали деревьями для тени, и в
+      толпе трудно было протиснуться. Цитадель окружал земляной вал высотой с трёхэтажный дом и толщиной шестьдесят
+      метров у основания, а за ним — ров шириной с реку. В город входили через длинные кирпичные ворота с караульнями,
+      украшенные рельефом из мелкого красного кирпича; над крышами поднималась башня Фируз-минар высотой около 26 м, построенный за
+      три года до явления Махапрабху. В южной части города, в Рамакели, жили министры Рупа и Санатана — их пруды
+      сохранились до сих пор.
+    en: >-
+      The sultans' capital Gauda stretched three leagues along the Ganga. Broad straight streets were lined with trees
+      for shade, and the crowds were hard to push through. The citadel was ringed by an earthen rampart as tall as a
+      three-storey house and sixty metres thick at its base, and beyond it a moat as wide as a river. One entered
+      through long brick gateways with guardrooms, decorated with relief in small red brick; above the roofs rose the
+      Firuz Minar tower, some 26 m high, built three years before Mahaprabhu's appearance. In the southern part of the city, at
+      Ramakeli, lived the ministers Rupa and Sanatana — their tanks survive to this day.
+  hagiography: ["ЧЧ Мадхья 1.166–181"]
+  sources: ["Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931), с. 34–35, 45–46, 50–53, 75–76, 79–80",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 127–128 (Гауда по Баррошу)",
+            "Баррош (1530-е), по прим. Бадджера в Varthema (1863), с. 211"]
+  images: []
+  game: {model: "земляной вал ~9 м и ров ~60 м; ворота Дакхил: проход 4,3 × 34,6 м, красный кирпич с рельефом; Фируз-минар ~25,6 м",
+         where: ["gauda/citadel", "ramakeli"]}
+  todo: "PD-гравюры руин Гауды (Creighton 1817, Ravenshaw 1878) — проверить права и привязать"
