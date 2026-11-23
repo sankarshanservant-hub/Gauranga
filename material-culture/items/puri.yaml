@@ -1,0 +1,186 @@
+# Рубрика «Пури» (puri): порция 3 — главы P10–P14. Формат — material-culture/README.md.
+
+- id: mc-mahaprasad
+  title: {ru: "Махапрасад Джаганнатхи", en: "Jagannatha's mahaprasada"}
+  rubric: puri
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 6.39–45, 6.224–234 (Сарвабхаума вкушает сухой махапрасад, не дожидаясь омовения); ЧЧ Мадхья 11.108–110."
+    en: "CC Madhya 6.39–45, 6.224–234 (Sarvabhauma eats dry mahaprasada without waiting to bathe); CC Madhya 11.108–110."
+  text:
+    ru: >-
+      Пищу, поднесённую Джаганнатхе, называют махапрасадом — «великой милостью». Её приносили из храма в глиняных
+      горшках и раздавали преданным; по шастрам махапрасад принимают сразу, где бы и когда бы его ни получили, даже
+      засохшим. Однажды Махапрабху на рассвете принёс махапрасад учёному Сарвабхауме, и тот, ещё не умывшись, тут же
+      съел его — Господь ликовал: вера Бхаттачарьи стала твёрдой.
+    en: >-
+      Food offered to Jagannatha is called mahaprasada — "the great mercy". It was brought from the temple in clay pots
+      and distributed to the devotees; by scripture mahaprasada is accepted at once, wherever and whenever one receives
+      it, even dried. Once at dawn Mahaprabhu brought mahaprasada to the scholar Sarvabhauma, who ate it immediately
+      without even having washed — and the Lord rejoiced: the Bhattacharya's faith had become firm.
+  hagiography: ["ЧЧ Мадхья 6.39–45", "ЧЧ Мадхья 6.224–234", "ЧЧ Мадхья 11.108–110"]
+  sources: []
+  images: []
+  game: {model: "стопка новых глиняных горшков с рисом и овощами, перевязанных; корзины", where: ["puri/temple-kitchen"]}
+  todo: "PD: Hunter, Orissa (1872) — храмовая кухня, горшки, число поваров (XIX в.)"
+
+- id: mc-rathayatra-chariots
+  title: {ru: "Колесницы Ратха-ятры", en: "The Ratha-yatra chariots"}
+  rubric: puri
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 13.8–28: три колесницы, шёлковые ткани, зеркала, балдахин, стяг, гонги и колокольчики; дайиты несут
+      Божество на шёлковых верёвках по подушкам-тули; дорога усыпана белым песком; колесницу тянут гауды. Размеры колесниц
+      в житиях не названы — только по поздним данным (PD XIX в.).
+    en: >-
+      CC Madhya 13.8–28: three chariots, silk cloth, mirrors, a canopy, a banner, gongs and bells; the dayitas carry the
+      Deity on silk ropes over tuli cushions; the road is strewn with white sand; the chariot is pulled by gaudas.
+      Chariot dimensions are not given in the hagiographies — only in later (19th-c. PD) data.
+  text:
+    ru: >-
+      На Ратха-ятру Джаганнатха, Баладева и Субхадра выезжают на трёх огромных деревянных колесницах, «высоких, как гора
+      Сумеру». Колесницу Джаганнатхи покрывали шёлк и роспись, зеркала, гонги и медные колокольчики, над балдахином
+      развевался стяг. Служители-дайиты на толстых шёлковых верёвках переносили Господа с трона на колесницу по
+      хлопковым подушкам, которые лопались под Его шагом. Дорогу засыпали белым песком, а колесницу тянули на канатах
+      сотни людей — но двигалась она только по воле Самого Джаганнатхи.
+    en: >-
+      At Ratha-yatra Jagannatha, Baladeva and Subhadra ride out on three huge wooden chariots, "tall as Mount Sumeru".
+      Jagannatha's chariot was covered with silk and painting, mirrors, gongs and copper bells, and a banner flew above
+      its canopy. The dayita servants carried the Lord from His throne to the chariot on thick silk ropes over cotton
+      cushions that burst beneath His tread. The road was strewn with white sand, and hundreds of people hauled the
+      chariot by ropes — yet it moved only by Jagannatha's own will.
+  hagiography: ["ЧЧ Мадхья 13.8–28", "ЧЧ Мадхья 14 (Хера-панчами)"]
+  sources: []
+  images: []
+  game: {model: "три колесницы (размеры — по PD XIX в., ждут проверки), канаты, песок на Бада-данде",
+         where: ["puri/bada-danda"], notes: "Божество — Сам Господь: никаких «статуй»; анимация — с благоговением"}
+  todo: "размеры и число колёс по PD (Hunter, Orissa 1872; Stirling 1825) с пометкой «XIX в.»"
+
+- id: mc-king-sweeper
+  title: {ru: "Царь с золотой метлой", en: "The king with a golden broom"}
+  rubric: puri
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 13.15–18 (Пратапарудра подметает дорогу метлой с золотой рукоятью и кропит сандаловой водой)."
+    en: "CC Madhya 13.15–18 (Prataparudra sweeps the road with a gold-handled broom and sprinkles sandal water)."
+  text:
+    ru: >-
+      Перед колесницей сам царь Ориссы Пратапарудра подметал дорогу метлой с золотой рукоятью и окроплял её ароматной
+      сандаловой водой. Великий государь, оставив гордость, взял на себя служение самого низкого слуги — и этим тронул
+      Махапрабху, Который был счастлив видеть такую преданность.
+    en: >-
+      Before the chariot the king of Orissa himself, Prataparudra, swept the road with a gold-handled broom and
+      sprinkled it with fragrant sandal water. The great monarch set aside his pride and took up the service of the
+      lowliest servant — and this touched Mahaprabhu, who was happy to see such devotion.
+  hagiography: ["ЧЧ Мадхья 13.15–18"]
+  sources: []
+  images: []
+  game: {model: "метла из пальмовых волокон с золотой рукоятью; сосуд с сандаловой водой", where: ["puri/bada-danda"]}
+
+- id: mc-kirtan-groups
+  title: {ru: "Семь групп киртана перед колесницей", en: "Seven kirtan parties before the chariot"}
+  rubric: music
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 13.29–49 (по два мриданги в каждой группе, четырнадцать барабанов; ведущие певцы и танцоры поимённо)."
+    en: "CC Madhya 13.29–49 (two mridangas per party, fourteen drums; lead singers and dancers named)."
+  text:
+    ru: >-
+      Махапрабху сам распределил преданных: четыре группы по шесть певцов — ведущий и пятеро подпевающих, — с танцором и
+      двумя игроками на мриданге в каждой, а ещё группы из Кулина-грама, Шантипура и Кханды. Четыре группы шли перед
+      колесницей, две — по сторонам, одна позади; четырнадцать мридангов гремели разом. Прежде киртана Господь сам украсил
+      всех гирляндами и сандаловой пастой.
+    en: >-
+      Mahaprabhu arranged the devotees Himself: four parties of six singers — a leader and five responders — each with a
+      dancer and two mridanga players, plus parties from Kulina-grama, Shantipura and Khanda. Four parties went before
+      the chariot, two at its sides and one behind; fourteen mridangas thundered at once. Before the kirtan the Lord
+      Himself adorned everyone with garlands and sandal paste.
+  hagiography: ["ЧЧ Мадхья 13.29–49"]
+  sources: []
+  images: []
+  game: {model: "7 групп по 6–8 человек; 14 кхолов, караталы", where: ["puri/bada-danda"]}
+
+- id: mc-gundicha-cleaning
+  title: {ru: "Уборка храма Гундичи", en: "Cleaning the Gundicha temple"}
+  rubric: puri
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 12.77–108 (сотня новых кувшинов, метёлки; вода, выплёскиваемая на потолок; Господь вытирает алтарь Своей одеждой)."
+    en: "CC Madhya 12.77–108 (a hundred new pots, brooms; water thrown onto the ceiling; the Lord polishes the altar with His own cloth)."
+  text:
+    ru: >-
+      Накануне Ратха-ятры Махапрабху попросил у настоятеля сотню новых глиняных кувшинов и метёлки и вместе с преданными
+      вымыл храм Гундичи: вымели пыль даже с потолка, выплёскивали воду из кувшинов на стены и свод, вымыли бхога-мандир
+      и двор. Сотни людей носили воду с пруда; Господь Своей одеждой натёр алтарь до блеска — так очищают сердце, чтобы
+      в нём воссел Господь.
+    en: >-
+      On the eve of Ratha-yatra Mahaprabhu asked the temple superintendent for a hundred new clay pots and brooms and,
+      with the devotees, washed the Gundicha temple: they swept dust even from the ceiling, threw water from the pots
+      onto the walls and vault, washed the bhoga-mandir and the courtyard. Hundreds carried water from the tank; the
+      Lord polished the altar with His own cloth — so is the heart cleansed for the Lord to sit there.
+  hagiography: ["ЧЧ Мадхья 12.77–108"]
+  sources: []
+  images: []
+  game: {model: "новые красные кувшины рядами; метёлки из прутьев/пальмовых жилок; лужи на каменном полу",
+         where: ["puri/gundicha"]}
+
+- id: mc-raghava-jhali
+  title: {ru: "«Рагхавера джхали» — мешки Рагхавы", en: "Raghavera jhali — Raghava's bags"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 10.13–40: приправы из горьких овощей, сладости из аниса и кориандра в сахарном сиропе, имбирные горошины,
+      кокосовые шарики, долго хранящиеся *кш̣ӣраса̄ра* и *ман̣д̣а* (в переводе — «непортящийся сыр»: в оригиналe —
+      уваренное молоко), рисовые хлопья шали, сладости с камфорой, глина Ганги с благовониями, сандал. Трое носильщиков.
+    en: >-
+      CC Antya 10.13–40: relishes of bitter vegetables, anise-and-coriander sweets in syrup, ginger pellets, coconut
+      balls, long-keeping kshirasara and manda (rendered 'non-perishing cheese' in the translation; in the original —
+      reduced milk), shali rice flakes, camphor sweets, Ganga clay with perfumes, sandal. Three porters.
+  text:
+    ru: >-
+      Каждый год Рагхава Пандит вёз в Пури мешки угощений, которые с любовью готовила его сестра Дамаянти, — на целый год.
+      Там были горькие и кислые приправы (Дамаянти боялась, что от тяжёлой пищи у Господа будет несварение), шарики из
+      аниса и кориандра в сахарном сиропе, имбирные горошины, кокосовые и белые, «как воды Ганги», шарики, сладости из
+      уваренного молока, рисовые хлопья и воздушный рис в гхи с камфорой, очищенная глина Ганги для тилаки. Всё
+      запаковали в тканевые мешочки и тонкостенные горшочки, а большие мешки несли трое носильщиков.
+    en: >-
+      Every year Raghava Pandita brought to Puri bags of food that his sister Damayanti lovingly prepared — enough for
+      a whole year. There were bitter and sour relishes (Damayanti feared rich food would upset the Lord's digestion),
+      anise-and-coriander balls in syrup, ginger pellets, coconut balls and white ones "like the waters of the Ganga",
+      sweets of reduced milk, rice flakes and puffed rice in ghee with camphor, and purified Ganga clay for tilaka.
+      Everything was packed in cloth pouches and thin-walled pots, and three porters carried the big bags.
+  hagiography: ["ЧЧ Антья 10.13–40"]
+  sources: []
+  images: []
+  game: {model: "тюки из новой ткани, перевязанные и запечатанные; внутри — мешочки и горшочки", where: ["puri/gambhira"],
+         notes: "долго хранящиеся сладости — свидетельство молочно-сахарных (не творожных) сладостей эпохи"}
+
+- id: mc-ferries-tolls
+  title: {ru: "Переправы, лодочники и сборщики пошлин", en: "Ferries, boatmen and toll-collectors"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Шивананда Сен ведёт паломников и платит за всех — ЧЧ Антья 1.18–20 (лодочник не пускает собаку; Шивананду задержал
+      сборщик пошлин), Антья 10.12; путь Господа в Пури — ЧЧ Мадхья 5, 16 (следующая порция).
+    en: >-
+      Shivananda Sena leads the pilgrims and pays for everyone — CC Antya 1.18–20 (a boatman refuses the dog; a
+      toll-collector detains Shivananda), Antya 10.12; the Lord's road to Puri — CC Madhya 5, 16 (next portion).
+  text:
+    ru: >-
+      Путь из Бенгалии в Пури шёл через множество рек; их пересекали на лодках-паромах, а на границах земель и у
+      переправ стояли сборщики пошлин. Ежегодный караван бенгальских преданных вёл Шивананда Сен: он платил за всех
+      пошлины, находил ночлег и кормил людей. Однажды орисский лодочник не хотел пускать в лодку собаку, которую
+      Шивананда взял с собой, а в другой раз Шивананду задержал сборщик пошлин.
+    en: >-
+      The road from Bengal to Puri crossed many rivers, which were passed on ferry boats, and toll-collectors stood at
+      borders and crossings. The yearly caravan of Bengali devotees was led by Shivananda Sena: he paid everyone's
+      tolls, found lodgings and fed the party. Once an Oriya boatman refused to let into the boat a dog Shivananda had
+      taken along, and another time Shivananda was detained by a toll-collector.
+  hagiography: ["ЧЧ Антья 1.18–20", "ЧЧ Антья 10.12"]
+  sources: []
+  images: []
+  game: {model: "плоскодонная лодка с бамбуковым навесом, шест; будка сборщика у переправы", where: ["road-to-puri/ferry"]}
+  todo: "типы бенгальских лодок — Solvyns, «Boats of Bengal» (листы на archive.org)"
