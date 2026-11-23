@@ -909,6 +909,153 @@ Bhaktivinoda’s teaching of pure bhakti, and through that service his innermost
 of the disciples was joined with faith: the Lord’s eternal associate remains with them in his instructions and in the
 service he gave them. <!-- F193 F194 I5 -->
 
+## The Aim and Principles of His Preaching
+In his time the Sri Chaitanya Math remained the head office of the mission. As general secretary, conducting all its
+affairs, he appointed Sri Kunjavihari Vidyabhushana — later Sri Bhakti Vilasa Tirtha Gosvami Maharaja. By his tireless,
+unbroken and pure service Kunja Babu became as it were another form (*apara svarupa*) of Sarasvati Thakura, and
+Prabhupada undertook nothing without consulting him. In a letter of 8 January 1921 Srila Bhaktisiddhanta also wrote of
+the inner, spiritual nature of this disciple. <!-- F199 F262 -->
+
+His ideal was simple: first to carry out Mahaprabhu’s teaching oneself — and only then to preach. One cause of the
+decline of the Vaishnava faith he saw in its followers’ abandonment of the ideal of a renounced life. Until the genuine
+Vaishnava faith followed by Sri Chaitanya Mahaprabhu, the six Gosvamis and their faithful followers is rightly shown to
+people, no one can take it to heart — so he understood his task. <!-- F201 I4 -->
+
+To free the followers of the Vaishnava faith from the superstition of caste distinctions, he investigated the origin and
+purpose of varnashrama and showed that whether a person is a brahmana, kshatriya, vaishya or shudra cannot be measured by
+the accident of birth: varna is determined by qualities. Trusting the injunctions of the shastras, he taught that every
+human being has the right to worship the Lord; for this one must accept diksha, and the sacred thread is only its
+accompanying sign. With equal resolve he opposed hereditary guruship, calling it one of the causes of the decline of the
+Vaishnava faith in the land: the disciples of such gurus merely indulge their senses and receive no spiritual benefit.
+This was not enmity towards people nor a “social reform,” but the defence of pure bhakti and of the conclusion of the
+shastras: the Vaishnava stands above the brahmana. <!-- F202 F203 I4 -->
+
+Following the example of Sri Shankara, Sri Ramanuja, Sri Madhva, Lord Sri Chaitanya Deva and the representatives of the
+Vaishnava maths of all India, he himself made preaching tours through all its provinces, and he was called “the guardian
+(*rakshaka*) of the Gaudiya sampradaya.” Corporations and municipalities in various parts of the country invited him and
+gave him civic receptions. <!-- F204 F205 -->
+
+On his great tours of South India he collected philosophical and religious books: the “Madhva-vijaya,” Madhva’s
+commentary on the “Brahma-sutra,” the “Purna-prajna-bhashya,” the literature of the Pancharatra[^26], the
+“Mayavada-khandana,” the “Tattva-viveka,” the “Gita-bhashya,” Jayatirtha’s “Nyaya-sudha” and Vyasatirtha’s
+“Nyayamrita”; the last two became his weapons against mayavada. He also gathered books of the Ramanuja-sampradaya — the
+“Shri-bhashya” on the Vedanta, Ramanuja’s life, the “Prapannamrita” — as well as historical and literary material
+published by other sampradayas, and in the history and literature of the four sampradayas he was truly a “living
+encyclopaedia.” He was the first to collect and spread the literature of the Pancharatra, which the
+Ramanuja-sampradaya follows in all its practices; he himself followed pancharatrika diksha and introduced it both for
+himself and for his disciples. <!-- F206 F207 F208 -->
+
+His mission began in a small hut in Sri Mayapur with a handful of disciples. He turned Sri Mayapur into a small temple
+town with centres of research and the training of preachers, and the restored glory of the holy place drew pilgrims
+from all over the country. <!-- F209 -->
+
+## Thirteen Paths
+Srila Bhaktisiddhanta took on his own shoulders the unfinished work that Sri Chaitanya Mahaprabhu had entrusted to Sri
+Rupa and Sri Sanatana. One of the biographies counts thirteen paths by which he preached and carried out Mahaprabhu’s
+teaching: <!-- F212 I5 -->
+
+1. To spread the literature of bhakti he founded presses — in Krishnanagar, Sri Mayapur, Calcutta and Cuttack.
+   <!-- F213 -->
+2. He founded seven journals of bhakti in all: three monthlies, two fortnightlies, a weekly and a daily.
+   <!-- F214 F96 -->
+3. He held exhibitions in pictures of the life and teaching of Sri Chaitanya Mahaprabhu and of Vaishnava sadhus, with
+   passages from the Upanishads, the Puranas, the “Ramayana,” the “Mahabharata” and other books. <!-- F215 -->
+4. He preached from door to door, from village to village, in talks in people’s homes. <!-- F216 -->
+5. In every centre he held religious festivals. <!-- F217 -->
+6. To bring the Vaishnava smritis into practice he published Sri Sanatana Gosvami’s “Hari-bhakti-vilasa” and Sri Gopala
+   Bhatta Gosvami’s “Sat-kriya-sara-dipika” and “Samskara-dipika.” <!-- F218 -->
+7. He introduced pancharatrika diksha and the right to worship Lord Vishnu without distinction of caste or creed.
+   <!-- F219 -->
+8. For Vaishnava education he published Sri Jiva Gosvami’s Sanskrit grammar “Hari-namamrita-vyakarana,” opened a
+   Sanskrit academy for its study and instituted the degree “Vyakarana-tirtha.” <!-- F220 -->
+9. He founded a Sanskrit academy — a bhagavata-pathashala or *paravidya-pitha* — introduced the study of the shastras
+   under his supervision, and invited skilled pandits from Udupi to teach the philosophies of the various sampradayas.
+   <!-- F221 -->
+10. He founded the English high school “Thakur Bhaktivinoda Institute” in Sri Mayapur and later a junior school in his
+    name. <!-- F222 -->
+11. He renewed and restored ancient, neglected temples and holy places, sought out all over India the places connected
+    with Sri Chaitanya Mahaprabhu, and set up pada-pithas and temples there. <!-- F223 F211 -->
+12. He revived the “Vishva-vaishnava-raja-sabha” begun by Sri Rupa and Sri Sanatana. <!-- F224 -->
+13. He introduced among his disciples brahmacharya, vanaprastha and sannyasa — all the ashramas, turned towards the Lord.
+    <!-- F225 -->
+
+The fullness of this design — literature, journals, exhibitions, talks in homes, festivals, Vaishnava smriti,
+pancharatrika diksha, Sanskrit learning, a school, the renewal of holy places, the “raja-sabha,” the ashramas — is the
+very image of his preaching. His presses in various parts of India produced a multitude of publications that spread
+widely through the land; books and journals in Bengali, English, Sanskrit, Tamil, Telugu, Hindi, Oriya and Assamese gave
+the speakers of all these languages the chance to learn the teaching and pass it on. He published more than two hundred
+foundational books — the writings of the Gosvamis and books of the sampradayas of Sri Madhva and Sri Ramanuja[^27].
+<!-- I7 F200 F211 -->
+
+## “The Great Mridanga”
+He called the printing press the “brihat-mridanga” — “the great drum”: the sound of an ordinary mridanga is heard only
+around the kirtana, but through books and journals the message of pure bhakti is preached throughout the world. Printing
+was for him sankirtana itself. <!-- F251 I6 -->
+
+The journals of his life are listed thus: the “Sajjana-toshani” — with its English edition, “The Harmonist” — which he
+revived in March 1915 after Bhaktivinoda’s departure; the “Gaudiya,” the Bengali weekly of the Calcutta Gaudiya Math,
+from 19 August 1922; the “Dainik Nadiya Prakash” from Mayapur — from March 1926, at first twice a week, in English and
+Bengali, and from 29 February 1928, at his wish, daily; the “Bhagavata,” in Hindi, from the Paramahamsa Math in
+Naimisharanya (from 1931); the “Kirtana,” an Assamese monthly from the “Prapannashrama” in Goalpara (from 1932); the
+“Paramarthi,” the Oriya fortnightly of the Sachchidananda Gaudiya Math in Cuttack (from 1932). In his youth he had already
+published the “Brihaspati” (“Scientific Indian,” a monthly on astronomy in English and Bengali, from October 1896), the
+“Jyotirvid” (a monthly on astronomy, from April 1901) and the weekly “Nivedana” (“Signboard,” from 1899). The presses:
+the “Bhagavata Yantra” (1913), the “Gaudiya Printing Works” in Calcutta (1923), the “Nadiya Prakash Yantralaya” in Sri
+Dhama Mayapur (1928) and the “Paramartha Printing Works” in Cuttack (1936). <!-- F233 F234 -->
+
+He wrote constantly: articles, letters, autobiographical notes, diaries, commentaries, expositions and books; all this is
+kept at the head office of the “Gaudiya”; he also wrote for the “Nadiya Prakash” and “The Harmonist.” Year after year his
+articles appeared in the “Gaudiya” — on Sri Jiva Gosvami, Baladeva Vidyabhushana, Vishvanatha Chakravarti, Shridhara
+Svami, Kulashekhara, on Madhva’s appearance day and on Nimbarka; on varnashrama, diksha, the right to worship, the
+Pancharatra, the Nigamas and Agamas, Vaishnava smriti and the Vaishnava shraddha; on what a math is (“Math ki?”), on the
+“guru in name only,” on the difference between the worldly “enjoyer” and the devotee, on the holy dhama and on old Kulia
+become the town of Navadvipa, on Bhaktivinoda in Puri and in Bengal; replies at Vyasa-pujas and addresses at
+exhibitions; and almost every year the “Patravali,” his letters to disciples. <!-- F226 F227 F228 F229 F230 F231 -->
+
+His last article in the “Gaudiya” was the “Hayanodghata” (“Greeting the New Year”), published in the month of Vaishakha
+1936. For fourteen years, he wrote, the “Gaudiya” had sung the glory of Goloka — as Lakshmana served Rama in exile. He
+prayed that the message might reach America — in Europe, especially in London, it was already being spoken of; that the
+songs and books of Bhaktivinoda, of one essence with Narottama’s songs, might spread through Bengal, Orissa and Assam; he
+rejoiced that the “Sharanagati” was being translated into Tamil and the “Chaitanya-shikshamrita” into Telugu. As the
+measure of all the religions of the world he named the couplet *prthivite jata katha dharma name chale / bhagavata kahe
+taha paripurna chhale* — “all that in the world goes by the name of religion, the ‘Bhagavata’ calls utter deceit”[^28].
+The “Jaiva-dharma” and the “Sri Chaitanya-shikshamrita” he wished to give to the scholars of the whole world, for Sri
+Krishna Chaitanya, the Harinama and the “Bhagavata” are one. <!-- F232 Q7 -->
+
+He held the “Chaitanya-charitamrita” in extraordinary esteem: once, glorifying it before his disciples, he spoke of what
+would remain to people if all the books of the world vanished and only the “Bhagavatam” and the “Chaitanya-charitamrita”
+survived. He gave his disciples the poem “Who Is a Vaishnava?” (“Vaishnava ke?”), built on Mahaprabhu’s teachings to
+Sanatana Gosvami, and told them to study and meditate on it. He would not tolerate blasphemy of Nityananda and said that
+he was ready to set his foot on the heads of the blasphemers if only to stop their offences for ever — the anger of a
+devotee for the honour of the Lord, akin to Nityananda’s merciful anger towards Jagai and Madhai. <!-- F252 F254 F255 -->
+
+## Sayings
+From his letters, lectures and articles his disciples gathered his sayings; here are some of them, in our own words.
+The highest object of worship is *param vijayate sri-krishna-sankirtanam*, the sankirtana of Sri Krishna. The enjoyer is
+Krishna alone; everything else is what He enjoys. Whoever does not worship Hari destroys himself. The chief thing for one
+living in the math is to learn tolerance. The followers of Rupa do not rely on their own strength. To receive the Name
+and to see God are one and the same. A mixed path does not allow one to serve the Lord. The true service of Mayapur is
+presses, books and Nama-hattas. The holy place is where Krishna is spoken of. “We do neither good nor sinful deeds; we
+are the carriers of the sandals of genuine devotees, initiated into the mantra *kirtaniyah sada harih*.” Do not condemn
+another’s nature — correct your own. <!-- Q8 -->
+
+The highest duty is to serve the Vrajavasis suffering in separation after Krishna’s departure for Mathura. The
+mahabhagavata sees the guru in everyone, and therefore he is the guru of the world. One must listen not to the voices of
+the crowd but to the *shrauta-vani*, the descending word. There is no way to see the Supreme other than through the ear.
+Without a protector everything becomes an enemy; the protection is the hari-katha of a genuine sadhu. A flatterer is
+neither guru nor preacher. Better to be born an animal, a bird or a worm than a hypocrite: simplicity is another name
+for Vaishnavism. For the order of the guru-Vaishnava he was ready to be thought insolent and even to go to hell for ever,
+and by the strength of his guru’s feet to overthrow all the false doctrines of the world. To rescue even one soul from
+the fortress of Mahamaya is more merciful than to open countless hospitals; a worker of the Gaudiya Math must be ready to
+give all his blood for the spiritual welfare of each. Every penny of the math is for Krishna’s senses. Preaching without
+practice is mere karma. The math is neither fuel for enjoyers nor food for speculators. Bhaktivinoda called himself a
+sweeper in the market of the Name — and we are engaged in that sweeping. The root of the disease is the hoarding of what
+is unconnected with Krishna. “We have come not as masons and carpenters but as servants of Lord Chaitanya” (8 November
+1936). “We shall not stay long in this world; if the body falls while chanting the Name, life has not been lived in
+vain.” And above all: “In life only the dust of Rupa Gosvami’s feet is needed.” <!-- Q8 F253 -->
+
+“All I need from you is that you lend me your ears,” he often told his disciples. <!-- F259 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -982,3 +1129,11 @@ service he gave them. <!-- F193 F194 I5 -->
     the guru-parampara printed in Nishikanta Sanyal’s book “Sree Krishna Chaitanya” (1933), with a preface by Srila
     Bhaktisiddhanta, he stands twenty-ninth from Krishna — “Sri Bhaktisiddhanta Sarasvati Sri Barshabhanavi-dayita-das” —
     after Gaurakishora (twenty-eighth).
+[^26]: The biography’s text reads “Panchatantra”; judging by the context (the Pancharatra is spoken of below), this is a
+    misprint.
+[^27]: According to one of the biographies, he founded sixty-six maths and centres; tradition speaks of sixty-four Gaudiya
+    Maths. Another biography adds that today there are hundreds of Gaudiya Maths, places of puja and pathas throughout the
+    world, but these are the fruits of later years.
+[^28]: The biography does not name the source of the couplet; it is not found in the “Chaitanya-charitamrita” or the
+    “Chaitanya-bhagavata.” In sense it conveys the thought of “Bhagavatam” 1.1.2: this book wholly rejects every
+    deceitful religion.
