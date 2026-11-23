@@ -839,8 +839,7 @@ The verses Ghanashyama Dasa cites also give material for Srinivasa's life. <!-- 
 
 The poet Govindadasa — so Srinivasa's disciple Govinda Kaviraja signed his padas — in the song “Jaya jaya Srinivasa
 gunadhama…,” glorifies Srinivasa, abode of virtues and
-saviour of the fallen: his body is fairer than gold, he is clad in silk, he utters the Name of love and expounds the
-“Bhagavata,” surrounded by his devotees and companions; “Radhe, Krishna, Govinda” never leaves his lips; he serves
+saviour of the fallen: his body is fairer than gold, he is clad in silk, and the very colour of his body the bhagavatas call prema; he is surrounded by his devotees and companions; “Radhe, Krishna, Govinda” never leaves his lips; he serves
 Chaitanya, relishes His pastimes, and in his hand is a wish-fulfilling tree of books. <!-- F133 Q14 -->
 
 Narottama in the “Prarthana” prays, “Be merciful, Sri Acharya Prabhu Srinivasa: Narottama Dasa begs for the company of
