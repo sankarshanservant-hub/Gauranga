@@ -201,25 +201,25 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Мальчики с Нимаем возвращаются домой, трубя в буйволиные рога (игра в пастушков) — ЧБ Ади 9.31; буйволиный рожок
+      Мальчики с Нитьянандой в Экачакре возвращаются домой, трубя в буйволиные рога (игра в пастушков) — ЧБ Ади 9.31; буйволиный рожок
       в наряде Кришны — ЧБ Антья 5.352, 7.54; коровы из Тайланги у Львиных врат — ЧЧ Антья 17.12–18; «вол маслобойщика
       вечно ходит по кругу» — Лочан, Мадхья 2.169; коза — в поговорках (ЧЧ Мадхья 15.179). Коровы — mc-cowshed.
     en: >-
-      The boys with Nimai come home blowing buffalo horns (playing cowherds) — CB Adi 9.31; the buffalo horn in Krishna's
+      The boys with Nityananda in Ekachakra come home blowing buffalo horns (playing cowherds) — CB Adi 9.31; the buffalo horn in Krishna's
       attire — CB Antya 5.352, 7.54; cows from Tailanga by the Lion Gate — CC Antya 17.12–18; "the oil-man's ox forever
       walks in a circle" — Lochana, Madhya 2.169; goats in proverbs (CC Madhya 15.179). Cows — mc-cowshed.
   text:
     ru: >-
       Корова — кормилица и святыня, а работу делают быки: они пашут поля, тянут повозки, вращают маслобойню и сахарный
       пресс — «как вол маслобойщика, вечно ходящий по кругу», говорит Лочан. Чёрные буйволы с огромными загнутыми
-      рогами лежат в прудах, спасаясь от жары; их молоко жирнее коровьего, а из рогов делают рожки — маленький Нимай с
-      друзьями, играя в пастушков, возвращался вечером домой, трубя в буйволиные рога. В Пури, у Львиных врат, Господь
+      рогами лежат в прудах, спасаясь от жары; их молоко жирнее коровьего, а из рогов делают рожки — маленький
+      Нитьянанда с друзьями в Экачакре, играя в пастушков, возвращался вечером домой, трубя в буйволиные рога. В Пури, у Львиных врат, Господь
       однажды упал без чувств среди коров, пришедших из Тайланги, и они обнюхивали Его и не хотели отходить.
     en: >-
       The cow is nurse and sacred, but the bullocks do the work: they plough, draw carts, turn the oil-mill and the sugar
       press — "like the oil-man's ox that forever walks in a circle", says Lochana. Black buffaloes with huge
       swept-back horns lie in the ponds to escape the heat; their milk is richer than cow's, and their horns make horns
-      for blowing — little Nimai and His friends, playing cowherds, came home in the evening blowing buffalo horns. In
+      for blowing — little Nityananda and His friends in Ekachakra, playing cowherds, came home in the evening blowing buffalo horns. In
       Puri, by the Lion Gate, the Lord once fell unconscious among cows that had come from Tailanga, and they sniffed Him
       and would not leave Him.
   hagiography: ["ЧБ Ади 9.31", "ЧБ Антья 5.352–353", "ЧБ Антья 7.54, 7.67", "ЧЧ Антья 17.12–18", "Лочан, Мадхья-кханда, ч. 2, ст. 169",
@@ -470,3 +470,163 @@
   images: []
   audio: []
   game: {model: "серошейная ворона 40 см; чёрный коршун в небе; пятнистый сыч 20 см в дупле", where: ["mishra-house/courtyard", "ganga-ghat", "navadvipa/market"]}
+
+- id: mc-bees
+  title: {ru: "Пчёлы и шмели (бхрамара)", en: "Bees and black bees (bhramara)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Капли чернил на теле Нимая — «как пчёлы вокруг чампаки» — ЧБ Ади 6.113; шмели кружат у стоп — ЧЧ Ади 5.190;
+      шмели поют на пятой ноте во Вриндаване — ЧЧ Мадхья 17.199; преданные — пчёлы у лотосных стоп — ЧЧ Ади 10.1, 11.1,
+      12.1; шмели у гирлянды из туласи — ЧЧ Антья 15.51–52; мёд в подношениях — mc-banyan-shashthi (Лочан).
+    en: >-
+      Ink-drops on Nimai's body "like bees round a champaka" — CB Adi 6.113; black bees circle the feet — CC Adi 5.190;
+      bees hum in the fifth note in Vrindavana — CC Madhya 17.199; devotees are bees at the lotus feet — CC Adi 10.1,
+      11.1, 12.1; bees at the tulasi garland — CC Antya 15.51–52; honey in offerings — mc-banyan-shashthi (Lochana).
+  text:
+    ru: >-
+      Бхрамара — большой чёрный шмель-плотник, гудящий над цветами, — едва ли не самое частое сравнение житий. Преданные,
+      говорит Кришнадас Кавирадж, подобны пчёлам, опьянённым мёдом лотосных стоп Господа; взгляды Кришны — как чёрные
+      шмели у цветов; шмели слетаются к Его гирлянде из туласи. Дикие пчёлы (Apis dorsata) лепят огромные соты на
+      высоких деревьях и под карнизами; мёд (мадху) собирают лесные люди и продают на рынке — он нужен для обрядов и
+      лекарств.
+    en: >-
+      The bhramara — the big black carpenter bee humming over the flowers — is almost the commonest comparison in the
+      hagiographies. Devotees, says Krishnadasa Kaviraja, are like bees drunk on the honey of the Lord's lotus feet;
+      Krishna's glances are like black bees at flowers; bees swarm to His tulasi garland. Wild rock bees (Apis dorsata)
+      build huge combs on tall trees and under eaves; honey (madhu) is gathered by forest people and sold in the market —
+      it is needed for rites and medicines.
+  hagiography: ["ЧБ Ади 6.113", "ЧЧ Ади 5.190", "ЧЧ Ади 10.1", "ЧЧ Мадхья 17.199", "ЧЧ Антья 1.158–160", "ЧЧ Антья 15.51–52",
+                "Лочан, Шеша-кханда, ч. 4, ст. 256"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "чёрный шмель 2–3 см над цветами; полукруглые соты 1 м на ветви", where: ["mishra-house/courtyard", "navadvipa/garden"]}
+
+- id: mc-night-insects
+  title: {ru: "Светлячки, сверчки, цикады, комары", en: "Fireflies, crickets, cicadas, mosquitoes"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Перед тобой, сияющим, как солнце, я — незначительный светлячок» (Рупа) — ЧЧ Антья 1.173; Валлабха Бхатта «как
+      светлячок» среди преданных — ЧЧ Антья 7.60. Сверчки, цикады и комары в житиях эпохи пока не найдены — описание по
+      общему наблюдению.
+    en: >-
+      "Before you, shining like the sun, I am an insignificant firefly" (Rupa) — CC Antya 1.173; Vallabha Bhatta "like a
+      firefly" among the devotees — CC Antya 7.60. Crickets, cicadas and mosquitoes not yet found in the period's
+      hagiographies — described from general observation.
+  text:
+    ru: >-
+      Бенгальская ночь полна звуков и огоньков. В сезон дождей кусты и бамбук вдоль прудов мерцают тысячами светлячков
+      (джонаки), и Рупа Госвами, смиряясь, называет себя светлячком перед солнцем — Санатаной. Сверчки звенят всю ночь
+      в траве, днём в жару пронзительно трещат цикады, а после дождей звенят тучи комаров — от них спасаются дымом
+      сухого навоза и пологом. Хором лягушек в залитых полях начинается муссон.
+    en: >-
+      A Bengali night is full of sounds and little lights. In the rains the bushes and bamboo along the ponds twinkle
+      with thousands of fireflies (jonaki), and Rupa Gosvami, humbling himself, calls himself a firefly before the sun.
+      Crickets ring all night in the grass, by day in the heat cicadas shrill, and after the rains swarms of mosquitoes
+      whine — people ward them off with the smoke of dry dung and with a net canopy. The monsoon begins with the chorus of
+      frogs in the flooded fields.
+  hagiography: ["ЧЧ Антья 1.173", "ЧЧ Антья 7.60"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "частицы-светлячки у пруда ночью; звуковой фон сверчков/цикад/лягушек", where: ["mishra-house/pond", "navadvipa/fields"],
+         notes: "в основном звуковое оформление — research/audio.md"}
+  todo: "проверить в ЧЧ Антья 1.173, к кому обращается Рупа; найти в ЧБ/Лочане светлячков, сверчков, комаров (полог-машари)"
+
+- id: mc-ganga-fish-fishermen
+  title: {ru: "Рыба и рыбаки", en: "Fish and fishermen"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рыбак у моря в Пури ночью вытаскивает сетью Господа, «думая, что это большая рыба», и сам впадает в экстаз;
+      «ловлю рыбу по ночам, и духи не трогают меня, потому что я помню Нрисимху» — ЧЧ Антья 18.44–60; «как рыба без воды»
+      — частое сравнение (ЧЧ Антья 17.59, ЧБ Антья 8.156, Лочан Ади 12.69). Река «прекрасна рыбами» — Лочан, Ади 12.88.
+    en: >-
+      A fisherman by the sea in Puri at night hauls up the Lord in his net "thinking it a big fish" and himself falls
+      into ecstasy; "I fish alone at night, and ghosts do not touch me because I remember Nrisimha" — CC Antya 18.44–60;
+      "like a fish without water" — a common comparison (CC Antya 17.59, CB Antya 8.156, Lochana Adi 12.69). The river
+      "beautiful with fish" — Lochana, Adi 12.88.
+  text:
+    ru: >-
+      Ганга и пруды Бенгалии полны рыбы — карпы руи и катла, сом, мелкая рыбёшка, креветки, а с муссоном с моря
+      поднимается сельдь илиш. Рыбаки-джалия ставят сети и ловушки из бамбука, рыбу продают на рынке; для многих
+      бенгальцев, даже брахманов, рыба — обычная еда, но вайшнавы её не едят и Господу не подносят. Самый удивительный
+      улов в житиях — у рыбака в Пури: ночью в его сеть попал Сам Махапрабху, упавший в море в экстазе; рыбак решил, что
+      вытащил мертвеца или духа, а от прикосновения стал смеяться, плакать и петь «Хари!».
+    en: >-
+      The Ganga and the ponds of Bengal teem with fish — rui and katla carp, catfish, small fry, prawns, and with the
+      monsoon the hilsa (ilish) comes up from the sea. Fishermen (jaliya) set nets and bamboo traps and sell the catch in
+      the market; for many Bengalis, even brahmanas, fish is ordinary food, but Vaishnavas do not eat it or offer it to
+      the Lord. The most wonderful catch in the hagiographies is a fisherman's in Puri: at night Mahaprabhu Himself, who
+      had fallen into the sea in ecstasy, came up in his net; the fisherman thought he had hauled up a corpse or a ghost,
+      and from the touch began to laugh, weep and sing "Hari!".
+  hagiography: ["ЧЧ Антья 18.44–60", "ЧЧ Антья 17.59", "ЧБ Антья 8.156", "Лочан, Ади-кханда, ч. 12, ст. 69, 88"]
+  sources: []
+  images: []
+  game: {model: "рыбак с сетью на плече; бамбуковая конусная ловушка; корзина с рыбой", where: ["ganga-ghat", "puri/beach"]}
+
+- id: mc-turtles-dolphins
+  title: {ru: "Черепахи и речные дельфины", en: "Turtles and river dolphins"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Река Падмавати «прекрасна крокодилами, черепахами, рыбами» — Лочан, Ади 12.88; Господь в экстазе «стал похож на
+      черепаху» (втянул руки и ноги) — ЧЧ Антья 17.16, 17.70–72, Мадхья 2.13; храм Курмы (Вишну-черепаха) на пути на юг —
+      Мурари 1.16.16. Речной дельфин Ганги в житиях не найден — природное сведение.
+    en: >-
+      The Padmavati river "beautiful with crocodiles, turtles and fish" — Lochana, Adi 12.88; in ecstasy the Lord
+      "became like a tortoise" (drew in His limbs) — CC Antya 17.16, 17.70–72, Madhya 2.13; the temple of Kurma (Vishnu
+      as tortoise) on the way south — Murari 1.16.16. The Ganges river dolphin not found in the texts — natural history.
+  text:
+    ru: >-
+      На песчаных отмелях Ганги греются речные черепахи (бенг. каччхап), а в мутной воде то и дело с шумным вздохом
+      выныривает слепой гангский дельфин — шушук, длиннорылый, серый, видящий мир звуком. Черепаха в Индии — образ
+      Курмы, аватары Вишну; Махапрабху на пути на юг посетил Его храм. А в Пури, в высшем экстазе разлуки, Господь,
+      лежа среди коров у Львиных врат, втянул руки и ноги в тело и «стал похож на черепаху».
+    en: >-
+      River turtles (Bengali kachchhap) bask on the Ganga's sandbanks, and in the muddy water the blind Ganges dolphin,
+      the shushuk — long-snouted, grey, seeing the world by sound — surfaces again and again with a noisy breath. In India
+      the tortoise is the image of Kurma, the avatara of Vishnu; on the way south Mahaprabhu visited His temple. And in
+      Puri, in the highest ecstasy of separation, the Lord, lying among the cows by the Lion Gate, drew His hands and feet
+      into His body and "became like a tortoise".
+  hagiography: ["Лочан, Ади-кханда, ч. 12, ст. 88", "ЧЧ Антья 17.16", "ЧЧ Антья 17.70–72", "ЧЧ Мадхья 2.13", "Мурари 1, сарга 16, ст. 16"]
+  sources: []
+  images: []
+  game: {model: "речная черепаха 50–70 см на отмели; спина и рыло дельфина над водой (2–2,5 м)", where: ["ganga-ghat"]}
+
+- id: mc-monkeys
+  title: {ru: "Обезьяны", en: "Monkeys"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мальчики играют «обезьян» Рамы, Нитьянанда — Лакшмана — ЧБ Ади 9.45–55 (детские игры Нитьянанды в Экачакре); «обезьянье
+      отречение» (марката-вайрагья) — ЧЧ Мадхья 16.238, Антья 2.120; преданные — «воины-ванары» на Ратха-ятре — ЧЧ
+      Мадхья 15.32. Живые обезьяны в Навадвипе в житиях не найдены.
+    en: >-
+      Boys play Rama's "monkeys", Nityananda plays Lakshmana — CB Adi 9.45–55 (Nityananda's childhood games in Ekachakra); "monkey
+      renunciation" (markata-vairagya) — CC Madhya 16.238, Antya 2.120; devotees as "vanara warriors" — CC Madhya 15.32.
+      Living monkeys in Navadvipa not found in the texts.
+  text:
+    ru: >-
+      В Бенгалии живут два вида обезьян: рыжевато-бурые макаки-резусы, ворующие с крыш и рынков, и длиннохвостые
+      серые лангуры-хануманы с чёрными мордами, которых не трогают ради Ханумана. Маленький Нитьянанда с мальчиками
+      Экачакры играл в Рамаяну: друзья изображали обезьян-ванаров, строящих мост на Ланку, а Он — Лакшмана. Махапрабху же
+      предостерегал от «обезьяньего отречения» — показного аскетизма, когда, как обезьяна, живут в лесу на плодах,
+      а в душе думают о наслаждениях.
+    en: >-
+      Two kinds of monkey live in Bengal: reddish-brown rhesus macaques, which steal from roofs and markets, and
+      long-tailed grey Hanuman langurs with black faces, left alone for Hanuman's sake. Little Nityananda played the Ramayana
+      with the boys of Ekachakra: his friends acted the vanara monkeys building the bridge to Lanka, and He was Lakshmana. Mahaprabhu warned
+      against "monkey renunciation" — showy asceticism, living like a monkey in the forest on fruit while the heart
+      thinks of pleasures.
+  hagiography: ["ЧБ Ади 9.45–55", "ЧЧ Мадхья 16.238", "ЧЧ Антья 2.120", "ЧЧ Мадхья 15.32"]
+  sources: []
+  images: []
+  game: {model: "макака-резус 50 см; лангур 70 см + хвост 1 м", where: ["navadvipa/market", "puri"]}
