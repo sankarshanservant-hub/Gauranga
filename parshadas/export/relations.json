@@ -2760,6 +2760,21 @@
  },
  {
   "from": "@bhakti-vilasa-tirtha",
+  "type": "disciple",
+  "who": "@bhakti-prajnana-yati",
+  "facts": [
+   "F106",
+   "F107",
+   "F109",
+   "F110",
+   "F111",
+   "F112",
+   "F113"
+  ],
+  "note": "Нандадулал Брахмачари — «особо дорогой ученик»; 10 месяцев учил его философии, в 1952 г. послал в Мадрас; письма 1957–1970; после его ухода — ачарья матхов (гл. 121; = @bhakti-prajnana-yati)."
+ },
+ {
+  "from": "@bhakti-vilasa-tirtha",
   "type": "co-worker",
   "who": "@shridhara-maharaja",
   "facts": [
