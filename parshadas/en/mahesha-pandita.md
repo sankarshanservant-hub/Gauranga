@@ -45,6 +45,33 @@ Vraja, the authoritative books, he remarks, do not say, “and therefore it is d
 biographies tells it as settled fact that it was Mahesha Pandita, his youngest brother, who went to the Ganges with
 Jagadisha and his wife.[^5] <!-- F18 F19 F35 -->
 
+### According to the “Jagadisha-charitra-vijaya” (a late source)
+The life of Jagadisha Pandita written in the eighteenth century by Ananda Dasa, of the line of his disciples, tells of
+Mahesha in more detail — and calls him Jagadisha's younger brother without any doubt. To Kamalaksha and Bhagyavati,
+Jagadisha's parents, “by Krishna's mercy another son was born”:
+
+“With love they named him Mahesha — him whom the three worlds call mad with prema for Krishna.” (“Jagadisha-charitra-vijaya” 5.6)
+
+In nature he was like his elder brother, and Jagadisha himself taught him the shastras. <!-- F38 -->
+
+When, after his parents had departed, Jagadisha resolved to move to the bank of the Ganges, Mahesha answered him:
+
+“I am your servant, bound to your command, never independent. Whatever your command, Prabhu, that I shall do; wherever
+you tell me to live, there I shall live.” (“Jagadisha-charitra-vijaya” 6.145–146)
+
+And together with Jagadisha and his wife Duhkhini he came to Navadvipa. Later, when Jagadisha set out for Nilachala at
+Gauranga's command to serve Jagannatha, he left Duhkhini in Mahesha's house; and having brought the Deity of Jagannatha
+to Yashoda (Jatra), he brought Mahesha and Duhkhini there as well. In Yashoda, at Duhkhini's request, Jagadisha married
+his brother to the daughter of a kulina brahmana, and Mahesha stayed on in his father-in-law's house. <!-- F39 F40 F41 F42 -->
+
+When after His sannyasa Mahaprabhu came to Jagadisha in Yashoda by night together with Nityananda, next morning “by
+providence Mahesha came that day; Prabhu Nityananda accepted him” (9.89). And the poet goes on:
+
+“Chaitanya and Nitai are the two avatara brothers; Jagadisha and Mahesha are sold to Them both.” (“Jagadisha-charitra-vijaya” 9.90)
+
+So he speaks of the brothers, wholly won over by love for the Lord. Both served the Lords, and when They wished to leave,
+Mahesha did all he could to keep Them, and, seeing his entreaty, Gauranga and Nitai stayed one more day.[^6] <!-- F43 -->
+
 ## Nityananda's Companion
 Mahesha Pandita was a companion (*parshada*) of Sri Nityananda and, in the words of one of the biographies, a friend
 particularly close to Him. Like all who surrounded Nityananda, he was generous beyond measure and laboured for the deliverance
@@ -55,7 +82,7 @@ Vrindavana Dasa Thakura, listing Nityananda's servants, says of him:
 
 “Mahesha Pandita was a most exalted great soul.” (CB, Antya 5.744)
 
-In Bengali — *ati parama mahanta*, “the very greatest of great devotees.”[^6] And the vandana ascribed to Vrindavana Dasa
+In Bengali — *ati parama mahanta*, “the very greatest of great devotees.”[^7] And the vandana ascribed to Vrindavana Dasa
 himself adds that he is especially dear to Nityananda. <!-- F22 Q3 -->
 
 How he is remembered can be seen from the verse of the “Charitamrita” quoted above: he danced to the beat of the
@@ -75,7 +102,7 @@ Kamalakara Pippalai:
 
 In the “Chaitanya-mangala” Lochana Dasa names Mahesha Pandita among the companions gathered around Gauranga in
 Navadvipa when the Lord was giving away prema: “Sri Rama Pandita and Mahesha Pandita, Haridasa, Nandana Acharya — the
-righteous…” (Madhya 24.59).[^7] <!-- F33 -->
+righteous…” (Madhya 24.59).[^8] <!-- F33 -->
 
 ## Panihati and Saptagrama
 When Nityananda held the festival of flat rice with yogurt (*chida-dadhi*) at Panihati for Raghunatha Dasa, Mahesha was
@@ -85,7 +112,7 @@ among His companions. Krishnadasa Kaviraja lists those seated around Nityananda 
 Dasa, Mahesha, Gauridasa, Krishnadasa Hoda.” (CC, Antya 6.61–62)
 
 After the festival Mahesha Pandita followed Nityananda to Saptagrama — so Srila Bhaktisiddhanta says in the
-“Anubhashya.”[^8] <!-- F23 F24 F25 -->
+“Anubhashya.”[^9] <!-- F23 F24 F25 -->
 
 ## After the Lord's Disappearance
 Mahesha Pandita remained in this world even after Mahaprabhu and Nityananda had withdrawn Their pastimes. We meet him in
@@ -119,8 +146,8 @@ Narottama bowed at the feet of all.” (“Narottama-vilasa” 3.200–201)
 Having gone with him a little way, the weeping devotees returned home. Narahari speaks of this in the
 “Bhakti-ratnakara” as well:
 
-“Mahesha Pandita and the others, having seen Narottama off in great affection, could not regain their calm.”
-(“Bhakti-ratnakara” 8.220)[^9]
+“Mahesha Pandita and others, with the greatest affection, sent Narottama off and cannot find peace.”
+(“Bhakti-ratnakara” 8.220)[^10]
 
 Srila Bhaktisiddhanta likewise notes, citing the eighth wave of the “Bhakti-ratnakara,” that Mahesha Pandita was in
 Khardaha when Narottama came there. <!-- F28 Q4 -->
@@ -136,7 +163,7 @@ all His companions, and everyone saw Him. Among the dancing companions the “Na
 “Bhakti-ratnakara” (10.595). This was no vision or product of imagination, but a real pastime of the Lord, who fulfilled
 what He had promised Narottama in a dream. Whether Mahesha was in Kheturi in person or came with the Lord among the
 companions who had already departed, the texts do not say outright: “the manifest and the unmanifest came together in
-one place” (“Narottama-vilasa” 7.123).[^10] <!-- F30 Q5 -->
+one place” (“Narottama-vilasa” 7.123).[^11] <!-- F30 Q5 -->
 
 ## Departure
 Mahesha Pandita disappeared — departed from this world — on the thirteenth lunar day of the dark fortnight of the month
@@ -155,13 +182,13 @@ and built a temple there. His son Rajani Babu in 1883 deeded the temple lands to
 “Palpara-pat.” <!-- F6 F7 F8 -->
 
 Palpara lies in Nadia district, in the forest, a mile south of Chakdaha station; the Ganges, as Srila
-Bhaktisiddhanta writes, is far from here.[^11] This is the pargana of Panchanagar: it has fourteen villages (*mauzas*) —
+Bhaktisiddhanta writes, is far from here.[^12] This is the pargana of Panchanagar: it has fourteen villages (*mauzas*) —
 Beledanga, Berigram, Sukhsagar, Chandure, Manasapota, Palpara and others — and some call this country “Nagardesh.”
 <!-- F9 -->
 
 The shripata remained in Palpara until the first months of the Bengali year 1334 (1927) and was then moved to
 Kathalpuli (Kathaldhuli) near Chakdaha; the move was reported in the journal “Gaudiya” (year 6, no. 13, “Letters
-received”).[^12] On 28 June 1931 Srila Bhaktisiddhanta Sarasvati formally took over the management of Mahesha Pandita's
+received”).[^13] On 28 June 1931 Srila Bhaktisiddhanta Sarasvati formally took over the management of Mahesha Pandita's
 shripata in Chakdaha and spoke at the opening before a large gathering. In the list of maths and preaching centres
 founded by Srila Bhaktisiddhanta the shripata appears as number 22: “Shripata of Sri Mahesha Pandita, Kathalpuli,
 P.O. Chakdaha, Nadia.” <!-- F10 F11 F12 -->
@@ -170,7 +197,7 @@ The temple of the shripata is a modest building, like an ordinary dwelling house
 “Anubhashya” it was dilapidated. In it reside Sri Gopinatha, Sri Radha-Govinda, Sri Madana-mohana, Sri Gaura-Nityananda
 and a shalagrama-shila — the Lord Himself, manifest as the *archa-vigraha* to accept the service of His devotees. Before
 the temple stands the altar of the *phul-samaj*, the “flower tomb” of Mahesha Pandita — a memorial place where his
-presence is honoured.[^13] <!-- F13 F14 F15 -->
+presence is honoured.[^14] <!-- F13 F14 F15 -->
 
 In Srila Bhaktisiddhanta's time the service was kept up only by alms: a local resident, Sri Kalikrishna Chakravarti,
 gave twenty-five rupees a year towards it, and the servitor was Sri Sanatana Dasa Babaji. Mahesha Pandita left no
@@ -205,33 +232,40 @@ chapter says nothing about Mahesha — the doubtful kinship is mentioned in the 
 that he is Mahesha Pandita Srila Bhaktisiddhanta considers doubtful; other biographies, telling of Jagadisha's move to
 the house of Jagannatha Mishra, name only Hiranya beside him.
 
-[^6]: Srila Bhaktisiddhanta and the biographies refer here to the sixth chapter of the Antya-khanda (under a different
+[^6]: The “Jagadisha-charitra-vijaya” is a late life, and its testimony does not remove Srila Bhaktisiddhanta's doubt:
+neither the “Chaitanya-charitamrita” nor the “Chaitanya-bhagavata” nor the “Gaura-ganoddesha-dipika” speaks of Mahesha's
+kinship with Jagadisha. The family here is different, too: there are two brothers, and Hiranya is not Jagadisha's brother
+but his friend and neighbour in Navadvipa; the author has apparently merged Jagadisha of Yashoda with the Jagadisha of the
+Navadvipa pair “Jagadisha and Hiranya.” Only this life speaks of Mahesha's marriage (it is silent about children);
+according to the “Anubhashya,” Mahesha Pandita left no descendants.
+
+[^7]: Srila Bhaktisiddhanta and the biographies refer here to the sixth chapter of the Antya-khanda (under a different
 division of chapters); in our text this is Antya 5.744. One of the biographies quotes the verse with the word *mahatma*
 instead of *mahanta*. Another ascribes the words “the greatest mahanta” to the “Bhakti-ratnakara” and the words
 “especially dear to Nityananda” to the “Chaitanya-bhagavata”; in fact the first is said in the “Chaitanya-bhagavata,” and
 the second in the vandana.
 
-[^7]: Lochana Dasa does not specify whether this is the same Mahesha Pandita.
+[^8]: Lochana Dasa does not specify whether this is the same Mahesha Pandita.
 
-[^8]: One of the biographies (in a quotation from a modern commentary) adds that Narottama Dasa Thakura was also at the
+[^9]: One of the biographies (in a quotation from a modern commentary) adds that Narottama Dasa Thakura was also at the
 festival and that Mahesha saw him there. This is impossible: the Panihati festival took place in Mahaprabhu's presence,
 while Narottama came to Gauda only after the Lord's disappearance. They met later, in Khardaha (see below).
 
-[^9]: One of the biographies quotes this verse with the word “having come” instead of “and the others,” so that Mahesha
+[^10]: One of the biographies quotes this verse with the word “having come” instead of “and the others,” so that Mahesha
 appears as the only one to see Narottama off; in the “Bhakti-ratnakara” he is only the first of many.
 
-[^10]: One of the biographies places him plainly among the companions who appeared together with the Lord. The
+[^11]: One of the biographies places him plainly among the companions who appeared together with the Lord. The
 “Bhakti-ratnakara” (10.611) tells how, once the unmanifest ones had vanished, “the manifest ones remained,” but does not say
 to which of them Mahesha belonged.
 
-[^11]: One of the biographies (in a quotation from a modern commentary) says, on the contrary, that the Ganges flows
+[^12]: One of the biographies (in a quotation from a modern commentary) says, on the contrary, that the Ganges flows
 nearby.
 
-[^12]: One of the biographies says “until the first months of the year 1314” — evidently a misprint: Srila
+[^13]: One of the biographies says “until the first months of the year 1314” — evidently a misprint: Srila
 Bhaktisiddhanta has 1334, and the reference to the “Gaudiya” points to the same year. Another biography dates the move to
 Palpara to 1334 (1927) and calls Palpara the present site of the shripata, yet a sentence later, following the
 “Anubhashya,” names Kanthal-Puli as the last place. The name is spelled in different ways: “Kathalpuli” (so also in the
 math's postal address) and “Kathaldhuli” (so in the Bengali text of the “Anubhashya”).
 
-[^13]: One of the biographies does not name the Deities of Gaura-Nityananda; it also writes “phal-samaj” instead of
+[^14]: One of the biographies does not name the Deities of Gaura-Nityananda; it also writes “phal-samaj” instead of
 “phul-samaj” by a misprint. Another calls this memorial a *pushpa-samadhi* — likewise a “flower tomb.”
