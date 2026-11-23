@@ -27,3 +27,19 @@
 - Тупики: A. Rahim *Social and Cultural History of Bengal* — по title+creator на archive.org не найден;
   R. C. Majumdar *History of Mediaeval Bengal* — не найден; McCutchion — обе книги о храмах не найдены;
   Pika Ghosh *Temple to Love* — не найдена; Dimock — по creator выдаёт однофамильцев.
+- Прочитаны и выписаны (факты — `scholarship-facts.md`): Tarafdar гл. IV, VIII, IX; Raychaudhuri гл. V–VI;
+  Sarkar HB II гл. VII; Ganguly (храм Джаганнатхи); B. Majumdar гл. 1 (бенг. OCR читаем); Eaton гл. 1, 3–5;
+  S. K. De гл. VI (ХБВ); Hunter т. I (культ Джаганнатхи) и т. II (прил.); R. D. Banerji т. I гл. XXI;
+  T. C. Das Gupta гл. I, III–VI; Abid Ali (Гаур); Abdul Karim гл. VI; Banglapedia (5 статей).
+- Тупики: *Cult of Jagannath* — открытая копия с мусорным OCR (хинди-распознавание), прочие — только выдача;
+  Achaya — только выдача; Ganguly — книга в основном о Бхубанешваре, Пури — гл. о храме (с. 410–416).
+  Hunter `orissa00huntgoog` — это т. II (статистика), культ Джаганнатхи — в т. I (`in.ernet.dli.2015.43086`).
+- Найдено дополнительно: J. N. Das Gupta 1914 (`bengalinsixteent00dasguoft`, PD) — пересказ Мукундарама и
+  путешественников, фактов не выписывал; Ashraf (`dli.ernet.54316`); Prabhat Mukherjee 1940 (`dli.ernet.233925`);
+  Campos 1919; Sukhamay Mukhopadhyay 1960 (`in.ernet.dli.2015.298854`); Bangiya Shabdakosh (PD);
+  Rennell, *Bengal Atlas* (PD); H. Sanyal, *Bangla Kirtaner Itihas* (`in.ernet.dli.2015.265618`).
+- Не найдены на IA: McCutchion (обе), Zulekha Haque, Pika Ghosh, Moti Chandra, Starza, M. A. Rahim,
+  R. C. Majumdar *Hist. of Mediaeval Bengal*, Haridas Das *Gaudiya Vaishnava Abhidhan*, Irfan Habib *Atlas*.
+- Banglapedia: страницы `Husain_Shah`, `Cowrie`, `Palanquin`, `Boat`, `Satgaon`, `Ekdala`, `Kirtan`, `Muslin`
+  открываются; `Weights_and_Measures`, `Ramkeli`, `Nabadwip`, `Terracotta`, `Sultanate_Coins` — пусто (другие названия).
+- Итог: библиография — `scholarship.md` (≈60 позиций), фактов — 180.
