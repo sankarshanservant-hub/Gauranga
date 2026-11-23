@@ -432,3 +432,241 @@
   game: {model: "грузовое речное судно 15–20 м: высокая корма с рулевым веслом, плетёная каюта-навес, прямой парус, гребцы",
          where: ["ganga-ghat", "panihati"], notes: "лодки разных типов — mc-boat-types (transport.yaml)"}
   todo: "каталог груза Дханапати (Мукундарам) — выписать по Sen 1911, с. 327–328, или по Sen, Bengali Ramayanas/Folk-literature"
+
+- id: mc-kayastha-scribe
+  title: {ru: "Писцы и счетоводы: кайастхи и караны", en: "Scribes and accountants: kayasthas and karanas"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рагхунатха — из кайастхов, и мусульманский чиновник боится поднять на него руку — ЧЧ Антья 6.23; Рамадас Вишвас,
+      кайастх, «доверенный казначей царя» — Антья 13.91; Шикхи Махити — писарь (*ликхана̄дхика̄рӣ*) при храме — Мадхья
+      10.42; в Варанаси Господь живёт у «писаря-шудры» Чандрашекхары (*лекхака ш́ӯдра*) — Ади 7.45; письменный договор
+      (*патра*) с подписями свидетелей — Мадхья 5.81–82; Хиранья и Говардхана — Маджумдары (кайастхи-сборщики) — Антья
+      6.250.
+    en: >-
+      Raghunatha is a kayastha, and the Muslim official is afraid to lay a hand on him — CC Antya 6.23; Ramadasa
+      Vishvasa, a kayastha, 'the king's trusted treasurer' — Antya 13.91; Shikhi Mahiti, a temple scribe
+      (likhanadhikari) — Madhya 10.42; in Varanasi the Lord stays with the 'shudra scribe' Chandrashekhara (lekhaka
+      shudra) — Adi 7.45; a written agreement (patra) with witnesses' signatures — Madhya 5.81–82; Hiranya and
+      Govardhana are Majumdars (kayastha collectors) — Antya 6.250.
+  text:
+    ru: >-
+      Письменное дело в Бенгалии держали кайастхи, а в Ориссе — караны: они вели счета податей, писали царские указы и
+      письма, служили казначеями и управляющими у султана и у раджи. Титулы-фамилии говорят сами за себя: Маджумдар —
+      «хранитель счетов», Вишвас — «доверенный». Это сословие было влиятельным: мусульманский чиновник, державший
+      Рагхунатху под стражей, не решился его ударить. Писари были и при храме Джаганнатхи, а сделки между людьми
+      скрепляли письменным договором на листе с подписями свидетелей.
+    en: >-
+      Writing in Bengal was the business of the kayasthas, and in Orissa of the karanas: they kept revenue accounts,
+      wrote royal orders and letters, and served as treasurers and stewards to the sultan and the raja. Their titles
+      speak for themselves: Majumdar — 'keeper of records', Vishvasa — 'trusted one'. The community was influential: the
+      Muslim official who held Raghunatha in custody did not dare strike him. There were scribes at Jagannatha's
+      temple too, and dealings between people were sealed by a written agreement on a leaf signed by witnesses.
+  hagiography: ["ЧЧ Антья 6.23", "ЧЧ Антья 6.250", "ЧЧ Антья 13.91", "ЧЧ Мадхья 10.42", "ЧЧ Ади 7.45", "ЧЧ Мадхья 5.81–82"]
+  sources: []
+  images: []
+  game: {model: "писец на циновке: связка пальмовых листьев на колене, железное стило или тростниковое перо, чернильница",
+         where: ["puri/temple-office", "gauda/ramakeli"], notes: "о материале письма — mc-manuscript-ink"}
+  todo: "этимология «маджумдар» (перс. majmu'a-dar) — проверить по HJ"
+
+- id: mc-vaidya-physician
+  title: {ru: "Вайдья — врач", en: "The vaidya — physician"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мурари Гупта не принимал даров и содержал семью врачеванием — ЧЧ Ади 10.49–51; «вайдья Мурари» — Лочан,
+      Сутра-кханда, ч. 1, ст. 48; Нимай дразнит его: «иди собирай листья и травы, в грамматике ничего нет о слизи,
+      желчи и несварении» — ЧБ Ади 10.21–22; лекари среди спутников — ЧЧ Ади 11.51; султан посылает своего лекаря
+      проверить Санатану — ЧЧ Мадхья 19.20; масляное лечение «вайю» — карточка mc-vayu-oil-cure.
+    en: >-
+      Murari Gupta accepted no gifts and kept his family by doctoring — CC Adi 10.49–51; 'Murari the vaidya' — Lochana,
+      Sutra-khanda, pt. 1, v. 48; Nimai teases him: 'go and gather leaves and herbs; grammar says nothing of phlegm, bile
+      and indigestion' — CB Adi 10.21–22; physicians among the associates — CC Adi 11.51; the sultan sends his physician
+      to check on Sanatana — CC Madhya 19.20; oil treatment for 'vayu' — card mc-vayu-oil-cure.
+  text:
+    ru: >-
+      Врачевали в Бенгалии вайдьи — особая образованная община, знавшая санскрит и аюрведу. Врач осматривал больного,
+      щупал пульс и определял, что расстроено — ветер, желчь или слизь, — а лекарства готовил сам из трав, кореньев,
+      масел и мёда. Мурари Гупта, школьный товарищ Нимая, жил врачеванием, но ни от кого не брал даров; Нимай подшучивал
+      над ним: зачем тебе грамматика — иди собирай травы для больных. Своих лекарей держал и султан: он послал врача
+      проверить, правда ли болен Санатана.
+    en: >-
+      Healing in Bengal was the work of the vaidyas — a distinct educated community versed in Sanskrit and Ayurveda.
+      The physician examined the patient, felt the pulse and judged what was out of balance — wind, bile or phlegm —
+      and prepared the medicines himself from herbs, roots, oils and honey. Murari Gupta, Nimai's schoolfellow, lived by
+      healing but took gifts from no one; Nimai teased him: what do you want with grammar — go and gather herbs for
+      your patients. The sultan kept physicians too: he sent one to see whether Sanatana was really ill.
+  hagiography: ["ЧЧ Ади 10.49–51", "Лочан, Сутра-кханда, ч. 1, ст. 48", "ЧБ Ади 10.21–22", "ЧЧ Ади 11.51", "ЧЧ Мадхья 19.20"]
+  sources: []
+  images: []
+  game: {model: "персонаж: Мурари Гупта с узелком трав и сосудиками масел; каменная ступка для лекарств",
+         where: ["navadvipa/murari-house"]}
+
+- id: mc-barber
+  title: {ru: "Цирюльник (напита)", en: "The barber (napita)"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Цирюльник (*на̄пита*) садится перед Господом в Катве для обряда санньясы, все плачут, и он не может начать; голову
+      бреют до вечера — ЧБ Мадхья 28.139–152; Санатану бреют в Варанаси перед новой жизнью — ЧЧ Мадхья 20.68–70. Имя
+      цирюльника (Дева или Мадху) — по Sen 1911, с. 389 (через research/pd-texts.md), источник проверить.
+    en: >-
+      The barber (napita) sits before the Lord at Katwa for the sannyasa rite; everyone weeps and he cannot begin; the
+      head is shaved by evening — CB Madhya 28.139–152; Sanatana is shaved at Varanasi before his new life — CC Madhya
+      20.68–70. The barber's name (Deva or Madhu) — after Sen 1911, p. 389 (via research/pd-texts.md); source to check.
+  text:
+    ru: >-
+      Цирюльники-напиты обходили дома с ящиком бритв и ножниц: брили бороды и головы, стригли ногти, а на обрядах —
+      рождения, упанаяны, свадьбы и траура — были обязательными помощниками. Самый горький день в жизни
+      бенгальского цирюльника описан в житиях: в Катве ему велели обрить прекрасные длинные волосы Нимая перед
+      санньясой. Вокруг стоял такой плач, а Господь так громко восклицал «Хари бол!», что цирюльник не мог поднять руку,
+      и голову обрили лишь к вечеру.
+    en: >-
+      Napita barbers went from house to house with a box of razors and scissors: they shaved beards and heads, pared
+      nails, and at the rites of birth, the sacred thread, marriage and mourning they were indispensable assistants.
+      The bitterest day in a Bengali barber's life is told in the hagiographies: at Katwa he was told to shave Nimai's
+      beautiful long hair before His sannyasa. Such weeping rose round him, and the Lord cried 'Hari bol!' so loudly,
+      that the barber could not lift his hand, and the head was shaved only by evening.
+  hagiography: ["ЧБ Мадхья 28.139–152", "ЧЧ Мадхья 20.68–70"]
+  sources: ["Sen 1911, с. 389 (имя цирюльника; длинные волосы бенгальцев до XVI в.) — через research/pd-texts.md"]
+  images: [{file: "material-culture/img/tayler-1842-village-bengal-barber.jpg", license: "PD (Public Domain Mark 1.0)",
+            author: "William Tayler, литограф O. Bouvier, 1842 (позднее, для облика)", url: "https://wellcomecollection.org/works/xdevqe2e"}]
+  game: {model: "цирюльник на корточках, бритва-клинок без рукояти-складня, медная чашечка с водой, зеркальце",
+         where: ["katwa/keshava-bharati-ashram"], notes: "⚠ складная «опасная» бритва европейского типа — анахронизм"}
+
+- id: mc-fisherman
+  title: {ru: "Рыбак с сетью", en: "The fisherman and his net"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рыбак у моря в Пури с сетью на плече вытаскивает в ней Господа, лежащего без чувств, и сходит с ума от любви —
+      ЧЧ Антья 18.44–70, 18.113; «лодку принимают за змея Калию, а рыбака — за Кришну» — Мадхья 18.106.
+    en: >-
+      A fisherman by the sea at Puri, net on his shoulder, hauls up the Lord lying senseless and goes mad with love —
+      CC Antya 18.44–70, 18.113; 'they take the boat for the serpent Kaliya and the fisherman for Krishna' — Madhya
+      18.106.
+  text:
+    ru: >-
+      Рыбаки-джалия и кайварта жили у рек, прудов и моря и ловили сетями, вершами и ловушками; рыба была главной пищей
+      бенгальцев, кроме брахманов-вайшнавов и вдов. В Пури однажды ночью рыбак забросил сеть в море и вытащил в ней
+      Господа, лежавшего без чувств после того, как Он бросился в волны. От прикосновения рыбак стал смеяться, плакать
+      и петь «Хари! Хари!», решив, что в сеть попал дух; Сварупа Дамодара «изгнал духа» и попросил показать место.
+    en: >-
+      Fishermen — jaliyas and kaivartas — lived by rivers, ponds and the sea and fished with nets, basket traps and
+      weirs; fish was the staple of Bengalis, except Vaishnava brahmins and widows. In Puri one night a fisherman cast
+      his net into the sea and drew out the Lord, lying senseless after He had thrown Himself into the waves. At the
+      touch the fisherman began to laugh, weep and sing 'Hari! Hari!', thinking a ghost had got into his net; Svarupa
+      Damodara 'drove out the ghost' and asked him to show the place.
+  hagiography: ["ЧЧ Антья 18.44–70", "ЧЧ Антья 18.113", "ЧЧ Мадхья 18.106"]
+  sources: []
+  images: []
+  game: {model: "рыбак в короткой набедренной ткани, круглая забрасываемая сеть с грузилами на плече, корзинка-верша",
+         where: ["puri/sea-shore", "ganga-ghat"]}
+
+- id: mc-potter-wheel
+  title: {ru: "Гончар и гончарный круг", en: "The potter and his wheel"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Сравнение: «как непрестанно вращается гончарный круг», так Господь продолжал Свои обязанности — ЧЧ Антья 15.6;
+      глиняная посуда повсюду в житиях (см. mc-handi, mc-pot-heap). Каста кумаров — Hunter 1875, т. 2, с. 47–48;
+      гончар на круге — Solvyns 1799, Devis ок. 1797 (поздние изображения).
+    en: >-
+      A simile: 'as a potter's wheel turns ceaselessly', so the Lord kept to His duties — CC Antya 15.6; earthenware
+      everywhere in the hagiographies (see mc-handi, mc-pot-heap). The kumar caste — Hunter 1875, vol. 2, pp. 47–48; a
+      potter at the wheel — Solvyns 1799, Devis c. 1797 (later images).
+  text:
+    ru: >-
+      Гончары-кумары жили отдельной слободой у реки, где была хорошая глина. Мастер сидел на земле перед тяжёлым
+      деревянным кругом, раскручивал его палкой и, пока круг вертелся сам по инерции, вытягивал горшок; потом сосуды
+      досушивали, выколачивали лопаткой до тонкой стенки и обжигали в яме или печи. Работы хватало всегда: глиняную
+      посуду для готовки меняли часто, а после траура и затмения выбрасывали всю. Кавирадж Госвами сравнил с таким
+      кругом Господа в Пури: в разлуке с Кришной Он, как вращающийся сам собой круг, продолжал омовения, даршан и
+      киртан.
+    en: >-
+      The kumar potters lived in their own quarter by the river where good clay was found. The master sat on the ground
+      before a heavy wooden wheel, spun it with a stick and, while it turned on by its own momentum, drew up a pot; the
+      vessels were then dried, beaten thin with a paddle and fired in a pit or kiln. There was always work: clay
+      cooking pots were replaced often, and after mourning or an eclipse all of them were thrown away. Kaviraja Gosvami
+      likened the Lord in Puri to such a wheel: in separation from Krishna He went on with His baths, darshan and kirtan
+      like a wheel turning of itself.
+  hagiography: ["ЧЧ Антья 15.6"]
+  sources: ["Hunter 1875, т. 2, с. 47–48 (кумары) — через research/pd-texts.md", "Solvyns 1799, «Coomhar» — через research/pd-texts.md"]
+  images: [{file: "material-culture/img/devis-1797-bengal-potter-and-wares.jpg", license: "PD (Public Domain Mark 1.0)",
+            author: "Arthur William Devis, гравёр John Wright, ок. 1797 (позднее, для облика)", url: "https://wellcomecollection.org/works/ck4y7dp4"}]
+  game: {model: "гончарный круг: массивное деревянное колесо Ø 80–100 см на вбитой оси, палка для раскрутки; лопатка и наковаленка-камень; ряды сохнущих горшков",
+         where: ["navadvipa/potters-quarter"]}
+
+- id: mc-plough-bullocks
+  title: {ru: "Плуг, быки и крестьянский труд", en: "The plough, bullocks and peasant labour"}
+  rubric: town
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      «Корова — твоя мать, бык даёт тебе зерно, поэтому он — твой отец» — ЧЧ Ади 17.153; плуг как атрибут Баларамы в
+      руках Господа — ЧЧ Ади 10.73, 17.119. Изречения Кханы к «сыну пахаря» (когда сеять, что сажать) — Sen 1911,
+      с. 19–20 (датировка спорна). Устройство плуга и орудий — этнография XIX в. (реконструкция).
+    en: >-
+      'The cow is your mother, the bull gives you grain, so he is your father' — CC Adi 17.153; the plough, Balarama's
+      emblem, in the Lord's hands — CC Adi 10.73, 17.119. Khana's sayings to 'the ploughman's son' (when to sow, what to
+      plant) — Sen 1911, pp. 19–20 (dating disputed). The construction of the plough and tools is 19th-c. ethnography
+      (reconstruction).
+  text:
+    ru: >-
+      Большинство бенгальцев были крестьянами, и жизнь всей округи держалась на рисе и быках. Деревянный плуг с железным
+      наконечником тянула пара быков под общим ярмом; землю разбивали мотыгой, рис жали серпом, молотили, прогоняя быков
+      по снопам, и веяли на ветру. Крестьянские присловья, приписываемые мудрой Кхане, учили «сына пахаря», в какой
+      месяц сеять и где сажать бетель или горчицу. Господь в споре с кази напомнил об этом: бык кормит человека зерном,
+      как отец, — как же можно его убивать?
+    en: >-
+      Most Bengalis were peasants, and the life of the countryside rested on rice and bullocks. A wooden plough with an
+      iron share was drawn by a pair of bullocks under a common yoke; the soil was broken with a hoe, rice reaped with a
+      sickle, threshed by driving bullocks over the sheaves and winnowed in the wind. Peasant sayings ascribed to the
+      wise Khana taught 'the ploughman's son' in which month to sow and where to plant betel or mustard. The Lord
+      recalled this in His debate with the qazi: the bull feeds man with grain like a father — how can one kill him?
+  hagiography: ["ЧЧ Ади 17.153", "ЧЧ Ади 10.73", "ЧЧ Ади 17.119"]
+  sources: ["Sen 1911, с. 19–20 (изречения Кханы)"]
+  images: []
+  game: {model: "плуг: изогнутая рукоять-грядиль из цельного дерева 1,5–2 м, железный лемех-наконечник, ярмо на двух горбатых быков; серп с зубчатым лезвием; мотыга-кодал",
+         where: ["navadvipa/fields"], notes: "о молотьбе и веянии — mc-kula, о толчее — mc-dhenki"}
+  todo: "PD-описание бенгальского плуга (Mukharji 1888 или Hunter 1875, раздел «Agriculture»)"
+
+- id: mc-weights-measures
+  title: {ru: "Весы и меры: рати, тола, ман, кура", en: "Weights and measures: rati, tola, maund, kura"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      «Десять-двадцать *ма̄нов* пищи» (шутка Адвайты) — ЧЧ Мадхья 3.86; «семь тол золота» — Антья 6.146; меняла
+      взвешивает кольцо — «16 рати и 2 дхана» — у Мукундарама (Sen 1911, с. 353–357, через research/pd-texts.md);
+      ложная мера земли «кура = 15 катха» — Sen 1911, с. 337; «две куды земли (около 174 локтей в квадрате)» — Кхана,
+      Sen 1911, с. 19. Числовые значения мер для XVI в. — проверить.
+    en: >-
+      'Ten or twenty maunds of food' (Advaita's joke) — CC Madhya 3.86; 'seven tolas of gold' — Antya 6.146; a
+      money-changer weighs a ring — '16 ratis and 2 dhans' — in Mukundaram (Sen 1911, pp. 353–357, via
+      research/pd-texts.md); a false land measure 'a kura measured as 15 kathas' — Sen 1911, p. 337; 'two kudas of land
+      (about 174 cubits square)' — Khana, Sen 1911, p. 19. The values of the measures for the 16th c. are to be checked.
+  text:
+    ru: >-
+      Золото и серебро взвешивали на маленьких коромысловых весах гирьками из красных семян абруса — рати; восемь
+      рати — маша, а около ста — тола. Зерно и продукты мерили объёмом и весом в манах (позднее — около 37 кг), землю —
+      катхами и бигхами, ткань — локтями. Мера была делом совести и власти: поэт Мукундарам горько жалуется, что при
+      злом правителе землю обмеряли ложной меркой, а Адвайта в шутку пенял Господу, что Тот может съесть «двадцать
+      манов риса», а где взять столько бедному брахману?
+    en: >-
+      Gold and silver were weighed on small beam scales with weights of red abrus seeds — ratis; eight ratis made a
+      masha, about a hundred a tola. Grain and food were measured by volume and weight in maunds (later about 37 kg),
+      land in kathas and bighas, cloth in cubits. A measure was a matter of conscience and of power: the poet
+      Mukundaram complains bitterly that under a harsh governor land was surveyed with a false measure, and Advaita
+      teased the Lord that He could eat 'twenty maunds of rice' — and where was a poor brahmin to find so much?
+  hagiography: ["ЧЧ Мадхья 3.86", "ЧЧ Антья 6.146"]
+  sources: ["Sen 1911, с. 19 (Кхана: куда земли), 337 (ложная мера кура), 353–357 (весы менялы: рати, дхан)"]
+  images: []
+  game: {model: "коромысловые весы с двумя медными чашками на шнурах, набор красно-чёрных семян абруса; плетёная мера для зерна",
+         where: ["navadvipa/market"], notes: "ман XVI в. ≠ британский ман 1833 г. (82 2/7 фунта) — в игре не указывать кг"}
+  todo: "значения рати/маши/толы и мана в Бенгальском султанате — PD (Prinsep, Useful Tables 1834–1858)"
