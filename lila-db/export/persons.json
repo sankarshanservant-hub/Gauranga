@@ -15998,7 +15998,7 @@
    {
     "type": "companion",
     "who": "@mahaprabhu",
-    "note": "Неразлучный с детства; шакти Гаура-Кришны; Господь — «Гададхара-прананатха», «Гадаи-Гауранга». Испытание с Валлабхой (F65–F66), Каттак (F69–F71)."
+    "note": "Неразлучный с детства; шакти Гаура-Кришны; по Его велению совершал пуджу Вишну, наряжал Его, готовил ложе, раздавал Его прасад (БР, Карнапура); Господь — «Гададхара-прананатха», «Гадаи-Гауранга». Испытание с Валлабхой (F65–F66), Каттак (F69–F71)."
    },
    {
     "type": "guru",
@@ -16150,20 +16150,51 @@
    {
     "type": "other",
     "who": "@hridaya-chaitanya",
-    "note": "У B — «Хридаянанда»: Гададхара отдал его Гауридасу, и тот дал ему дикшу."
+    "note": "У B и БР — «Хридаянанда»: Гададхара растил и учил его с детства (БР 7.402) и отдал Гауридасу, и тот дал ему дикшу."
    },
    {
     "type": "other",
     "who": "@gauridasa-pandita"
    },
    {
-    "type": "other",
-    "who": "@madhu-pandita"
+    "type": "disciple",
+    "who": "@madhu-pandita",
+    "note": "БР 13.319: «известный как ученик Гададхары Пандита», адхикари Гопинатхи во Вриндаване."
+   },
+   {
+    "type": "disciple",
+    "who": "@mamu-thakura",
+    "note": "Служил Тота-Гопинатхе после него; рассказ Маму Нароттаме о Тоте — БР 8.265–381; «мой господин Гададхара» (8.275)."
+   },
+   {
+    "type": "disciple",
+    "who": "@madhava-pattanayaka",
+    "note": "Автор «Вайшнава-лиламриты» (ур. C): получил от Гададхары Гопала-мантру (1.58–60)."
    },
    {
     "type": "other",
-    "who": "@mamu-thakura",
-    "note": "Служил Тота-Гопинатхе после него."
+    "who": "@srivasa",
+    "note": "БР 1.171: «любит Гададхару Пандита больше жизни»; у Карнапуры Господь опирается на плечи обоих (6.61)."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta",
+    "note": "Весть о его приходе во Вриндаван Господь получил в доме Гададхары (БР 1.167–195)."
+   },
+   {
+    "type": "other",
+    "who": "@shivananda-sena",
+    "note": "Пада в БР: «Где Господь [и] Гададхара — там сокровищница расы» (12.3349)."
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-chakravarti",
+    "note": "Для него Дас Гададхара и Пандит Гададхара не различны (БР 9.468)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "По «Махакавье» 13.123 Гададхара пришёл в Пури вместе с ним ⚠."
    },
    {
     "type": "protege",
@@ -17711,6 +17742,10 @@
    {
     "from": "@devananda-pandita",
     "type": "opposed"
+   },
+   {
+    "from": "@gadadhara-pandita",
+    "type": "other"
    },
    {
     "from": "@gangadasa-pandita",
@@ -32835,6 +32870,10 @@
     "type": "companion"
    },
    {
+    "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -35388,6 +35427,10 @@
    {
     "from": "@bhugarbha",
     "type": "companion"
+   },
+   {
+    "from": "@gadadhara-pandita",
+    "type": "other"
    },
    {
     "from": "@jahnava",
@@ -38089,6 +38132,10 @@
    },
    {
     "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
+    "from": "@gadadhara-pandita",
     "type": "other"
    },
    {
@@ -53453,6 +53500,10 @@
     "type": "disciple"
    },
    {
+    "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jahnava",
     "type": "host"
    },
@@ -62958,7 +63009,7 @@
    },
    {
     "from": "@gadadhara-pandita",
-    "type": "other"
+    "type": "disciple"
    },
    {
     "from": "@jahnava",
@@ -64063,7 +64114,7 @@
    },
    {
     "from": "@gadadhara-pandita",
-    "type": "other"
+    "type": "disciple"
    },
    {
     "from": "@narottama-dasa",
@@ -66297,6 +66348,12 @@
    "ev-ramananda-mandapa-puri",
    "ev-svarupa-damodara-departure",
    "ev-ramananda-departure-janmashtami"
+  ],
+  "related_by": [
+   {
+    "from": "@gadadhara-pandita",
+    "type": "disciple"
+   }
   ]
  },
  {

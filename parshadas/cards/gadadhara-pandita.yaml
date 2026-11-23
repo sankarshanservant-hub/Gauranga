@@ -37,65 +37,71 @@ relations:
   - {type: mother, who: "@ratnavati", facts: [F14, F17], note: "Почитала Шачи как старшую сестру (M)."}
   - {type: sibling, who: "@vaninatha-gadadhara", facts: [F15, F98], note: "Младший брат (T); тот ли он Двиджа Ванинатха, служивший Гаура-Гададхаре в Чампахатти (B), — не сказано."}
   - {type: neighbor, who: "@jagannatha-mishra", facts: [F17]}
-  - {type: other, who: "@shachi", facts: [F17, F30, F69], event: ev-gadadhara-receives-prema, note: "Просила его всегда быть рядом с Нимаем (F30); «иду повидать Шачи-мату» (F69)."}
+  - {type: other, who: "@shachi", facts: [F17, F30, F69, F126, F152], event: ev-gadadhara-receives-prema, note: "Просила его всегда быть рядом с Нимаем (F30); «иду повидать Шачи-мату» (F69)."}
   # Господь
-  - {type: companion, who: "@mahaprabhu", facts: [F1, F5, F9, F19, F22, F28, F30, F31, F32, F33, F34, F56, F61, F65, F69, F71, F90, Q1, Q5],
-     note: "Неразлучный с детства; шакти Гаура-Кришны; Господь — «Гададхара-прананатха», «Гадаи-Гауранга». Испытание с Валлабхой (F65–F66), Каттак (F69–F71)."}
+  - {type: companion, who: "@mahaprabhu", facts: [F1, F5, F9, F19, F22, F28, F30, F31, F32, F33, F34, F56, F61, F65, F69, F71, F90, F124, F128, F129, F130, F131, F133, F141, F142, F143, Q1, Q5],
+     note: "Неразлучный с детства; шакти Гаура-Кришны; по Его велению совершал пуджу Вишну, наряжал Его, готовил ложе, раздавал Его прасад (БР, Карнапура); Господь — «Гададхара-прананатха», «Гадаи-Гауранга». Испытание с Валлабхой (F65–F66), Каттак (F69–F71)."}
   # гуру и наставники
-  - {type: guru, who: "@pundarika-vidyanidhi", facts: [F18, F37, F38, F42, F43, F44, F45, F46, F47, F48, F49, F50, Q7], event: ev-gadadhara-initiation-pundarika,
+  - {type: guru, who: "@pundarika-vidyanidhi", facts: [F18, F37, F38, F42, F43, F44, F45, F46, F47, F48, F49, F50, F127, F153, Q7], event: ev-gadadhara-initiation-pundarika,
      note: "Дикша в Навадвипе после раскаяния в сомнении; кто посоветовал — сам (T 53, M, B) или Господь (T 46) (F45); повторная мантра в Пури (F50). Вришабхану — отец Радхи (F49)."}
-  - {type: siksha-guru, who: "@ishvara-puri", facts: [F24, F25, Q10], event: ev-ishvara-puri-navadvipa, note: "Учил его своей «Кришна-лиламрите» в доме Гопинатхи Ачарьи."}
+  - {type: siksha-guru, who: "@ishvara-puri", facts: [F24, F25, F125, Q10], event: ev-ishvara-puri-navadvipa, note: "Учил его своей «Кришна-лиламрите» в доме Гопинатхи Ачарьи."}
   - {type: lineage-predecessor, who: "@madhavendra-puri", facts: [F48], note: "Через Пундарику Видьянидхи (см. @madhavendra-puri F124, F137)."}
   # друзья и спутники
-  - {type: friend, who: "@mukunda-datta", facts: [F18, F38, F39, F40, F41, F43, F45, F46, F47, F53], note: "Земляк из Читтагонга; привёл его к Пундарике."}
+  - {type: friend, who: "@mukunda-datta", facts: [F18, F38, F39, F40, F41, F43, F45, F46, F47, F53, F127, F146], note: "Земляк из Читтагонга; привёл его к Пундарике."}
   - {type: other, who: "@svarupa-damodara", facts: [F61, F66, F104, F105], note: "Знаток киртана рядом со знатоком «Бхагаваты» (F61); звал его к Господу в истории с Валлабхой (F66); по ГГД — определил его как Лакшми Враджа (F104)."}
-  - {type: other, who: "@nityananda", facts: [F1, F6, F35, F52, F53, F60], event: ev-gopinatha-prasada-gadadhara, note: "См. @nityananda F155, F215, F224, F252–F254, F434."}
-  - {type: other, who: "@advaita", facts: [F1, F26, F32], event: ev-visit-advaita, note: "Возражал, когда Адвайта поклонялся стопам юного Гауранги (B 727–728)."}
-  - {type: other, who: "@sarvabhauma", facts: [F63, F71, F72], event: ev-gadadhara-leaves-kshetra-sannyasa, note: "Господь поручил ему утешить Гададхару и вернуть в Пури."}
+  - {type: other, who: "@nityananda", facts: [F1, F6, F35, F52, F53, F60, F124, F132, F146], event: ev-gopinatha-prasada-gadadhara, note: "См. @nityananda F155, F215, F224, F252–F254, F434."}
+  - {type: other, who: "@advaita", facts: [F1, F26, F32, F126, F144], event: ev-visit-advaita, note: "Возражал, когда Адвайта поклонялся стопам юного Гауранги (B 727–728)."}
+  - {type: other, who: "@sarvabhauma", facts: [F63, F71, F72, F131, F149], event: ev-gadadhara-leaves-kshetra-sannyasa, note: "Господь поручил ему утешить Гададхару и вернуть в Пури."}
   - {type: other, who: "@shuklambara", facts: [F27, F28, F32], event: ev-shuklambara-house-prema}
   - {type: other, who: "@shriman-pandita", facts: [F27, F29]}
-  - {type: other, who: "@chandrashekhara-acharya", facts: [F33, F34], event: ev-chandrashekhara-drama}
+  - {type: other, who: "@chandrashekhara-acharya", facts: [F33, F34, F126, F145], event: ev-chandrashekhara-drama}
   - {type: other, who: "@brahmananda-bharati", facts: [F34], note: "Его «подруга» Супрабха в действе (ЧБ Мадхья 18.9, 102); в ЧБ — Брахмананда."}
   - {type: other, who: "@vakreshvara", facts: [F61, F85], note: "Слушал его «Бхагавату»; по иным — ветвь Гададхары."}
   - {type: other, who: "@bhagavan-acharya", facts: [F63]}
   - {type: other, who: "@sanatana-gosvami", facts: [F55, F59], note: "Господь звал Санатану из Ямешвара-тоты (F59)."}
   - {type: other, who: "@rupa-gosvami", facts: [F55], event: ev-ramakeli-rupa-sanatana}
-  - {type: other, who: "@jagadananda-pandita", facts: [F53], event: ev-journey-to-puri}
+  - {type: other, who: "@jagadananda-pandita", facts: [F53, F146], event: ev-journey-to-puri}
   # ученики и ветвь
   - {type: disciple, who: "@vallabha-bhatta", facts: [F64, F65, F66, F67, Q16], event: ev-vallabha-bhatta-puri,
      note: "Посвящение в мантру Кишора-Гопалы (B 22; ЧЧ Антья 7.167 — с позволения Господа)."}
   - {type: disciple, who: "@bhugarbha", facts: [F75, F76, F77], event: ev-lokanatha-sent-to-vrindavana, note: "С позволения гуру ушёл с Локанатхой во Вриндаван (B 1073)."}
   - {type: disciple, who: "@bhagavata-dasa-gadadhara", facts: [F75]}
-  - {type: disciple, who: "@ananta-acharya", facts: [F78, F79, F80], note: "Его ученик — Харидас Пандит; по Анубхашье — Судеви (B 964)."}
+  - {type: disciple, who: "@ananta-acharya", facts: [F78, F79, F80, F137], note: "Его ученик — Харидас Пандит; по Анубхашье — Судеви (B 964)."}
   - {type: disciple, who: "@achyutananda", facts: [F81, Q13], note: "Ученик Гададхары по «Шакха-нирнаямрите» и B ≠ ученик Адвайты по Анубхашье."}
   - {type: disciple, who: "@yadunandana-dasa-shakha", facts: [F82], note: "Автор «Шакха-нирнаямриты»."}
   - {type: disciple, who: "@uddhava-dasa-gadadhara", facts: [F83, Q13], note: "Ветвь Гададхары."}
-  - {type: disciple, who: "@krishnadasa-brahmachari", facts: [F80], note: "Служитель Мадана-Гопалы (B 1095)."}
+  - {type: disciple, who: "@krishnadasa-brahmachari", facts: [F80, F137], note: "Служитель Мадана-Гопалы (B 1095)."}
   - {type: disciple, who: "@paramananda-bhattacharya", facts: [F86], event: ev-gopinatha-madhu-pandita, note: "B: «Парамананда Госвами», любимый ученик; вместе с Мадху Пандитом обрёл Гопинатху у Вамшивата. Отождествление с @paramananda-bhattacharya — вероятно."}
   - {type: other, who: "@prataparudra", facts: [F84, F68], note: "Назван ветвью Гададхары (T 117)."}
-  - {type: other, who: "@narahari-sarakara", facts: [F7, F74, F88], note: "Последователь Гададхары, вошёл в его общество."}
+  - {type: other, who: "@narahari-sarakara", facts: [F7, F74, F88, F129, F130, F131, F135], note: "Последователь Гададхары, вошёл в его общество."}
   - {type: other, who: "@lochana-dasa", facts: [F74]}
   - {type: other, who: "@haridasa-pandita-govinda", facts: [F78, F79, F80], note: "Ученик его ученика Ананты Ачарьи."}
   - {type: other, who: "@gangamata-gosvamini", facts: [F79], note: "В его преемстве — через Харидаса Пандита."}
-  - {type: other, who: "@hridaya-chaitanya", facts: [F87], note: "У B — «Хридаянанда»: Гададхара отдал его Гауридасу, и тот дал ему дикшу."}
-  - {type: other, who: "@gauridasa-pandita", facts: [F87]}
-  - {type: other, who: "@madhu-pandita", facts: [F57, F86]}
-  - {type: other, who: "@mamu-thakura", facts: [F89], note: "Служил Тота-Гопинатхе после него."}
+  - {type: other, who: "@hridaya-chaitanya", facts: [F87, F136], note: "У B и БР — «Хридаянанда»: Гададхара растил и учил его с детства (БР 7.402) и отдал Гауридасу, и тот дал ему дикшу."}
+  - {type: other, who: "@gauridasa-pandita", facts: [F87, F136]}
+  - {type: disciple, who: "@madhu-pandita", facts: [F57, F86, F137], note: "БР 13.319: «известный как ученик Гададхары Пандита», адхикари Гопинатхи во Вриндаване."}
+  - {type: disciple, who: "@mamu-thakura", facts: [F89, F131, F132, F133, F134], note: "Служил Тота-Гопинатхе после него; рассказ Маму Нароттаме о Тоте — БР 8.265–381; «мой господин Гададхара» (8.275)."}
+  - {type: disciple, who: "@madhava-pattanayaka", facts: [F147, F148, F149, F150], note: "Автор «Вайшнава-лиламриты» (ур. C): получил от Гададхары Гопала-мантру (1.58–60)."}
+  - {type: other, who: "@srivasa", facts: [F124, F144], note: "БР 1.171: «любит Гададхару Пандита больше жизни»; у Карнапуры Господь опирается на плечи обоих (6.61)."}
+  - {type: other, who: "@gopala-bhatta", facts: [F124], event: ev-lord-sends-seat-gopala-bhatta, note: "Весть о его приходе во Вриндаван Господь получил в доме Гададхары (БР 1.167–195)."}
+  - {type: other, who: "@shivananda-sena", facts: [F130, F149], note: "Пада в БР: «Где Господь [и] Гададхара — там сокровищница расы» (12.3349)."}
+  - {type: other, who: "@yadunandana-chakravarti", facts: [F130, F138], note: "Для него Дас Гададхара и Пандит Гададхара не различны (БР 9.468)."}
+  - {type: other, who: "@paramananda-puri", facts: [F146], note: "По «Махакавье» 13.123 Гададхара пришёл в Пури вместе с ним ⚠."}
   # после сокрытия Господа
-  - {type: protege, who: "@srinivasa-acharya", facts: [F91, F92, F93], event: ev-srinivasa-gadadhara-puri,
+  - {type: protege, who: "@srinivasa-acharya", facts: [F91, F92, F93, F133, F135, F139], event: ev-srinivasa-gadadhara-puri,
      note: "Жил ради встречи с ним; учил его «Бхагавате» и отослал в Гауду. Весть о его уходе: M — сон-утешение; B — сон о Гаура-Гададхаре и повеление идти во Вриндаван (F93)."}
-  - {type: other, who: "@narottama-dasa", facts: [F88, F89, F97, Q15], event: ev-narottama-puri, note: "«Гададхара — мой род»; посетил его место поклонения в Пури."}
-  - {type: other, who: "@kavi-karnapura", facts: [F51, F103, F105], note: "Пури Дас — пример о мантре (F51); автор ГГД."}
+  - {type: other, who: "@narottama-dasa", facts: [F88, F89, F97, F131, F134, Q15], event: ev-narottama-puri, note: "«Гададхара — мой род»; посетил его место поклонения в Пури."}
+  - {type: other, who: "@kavi-karnapura", facts: [F51, F103, F105, F141, F142, F143, F144, F145, F146], note: "Пури Дас — пример о мантре (F51); автор ГГД."}
   - {type: other, who: "@vasu-ghosha", facts: [F105], note: "Песни, подтверждающие отождествление с Радхой (M)."}
   - {type: other, who: "@vrindavana-dasa", facts: [F100]}
-  - {type: other, who: "@gadadhara-dasa", facts: [F96, F101, F102, F103], note: "B отвергает различение и противопоставление двух Гададхар; Дас — сияние Радхи, Пандит — Сама Радха."}
+  - {type: other, who: "@gadadhara-dasa", facts: [F96, F101, F102, F103, F129, F131, F135, F138], note: "B отвергает различение и противопоставление двух Гададхар; Дас — сияние Радхи, Пандит — Сама Радха."}
   - {type: other, who: "@bhaktivinoda", facts: [F62, F94, F95, I8, Q12], note: "Ушёл в его день ухода; «не отличен от Гаура-шакти Гададхары»."}
   - {type: other, who: "@bhaktisiddhanta", facts: [F5, F6, F7, F95, F103, I1, I2], note: "Комментарии о «жизни Гададхары» и о мантре; праздник в Пурушоттама-матхе (1922)."}
   # Божества
-  - {type: deity-served, who: "@gopinatha-deity-puri", facts: [F56, F57, F60, F61, F89, F90, F97], event: ev-jagadananda-giridhari-seva,
+  - {type: deity-served, who: "@gopinatha-deity-puri", facts: [F56, F57, F60, F61, F89, F90, F97, F131, F132, F133, F148], event: ev-jagadananda-giridhari-seva,
      note: "Тота-Гопинатха в Ямешвара-тоте; по B — с дочерью Вришабхану и Ананга-манджари (Джахнавой); по M (БР) — Господь сокрылся в этом Божестве."}
   - {type: other, who: "@gaura-gadadhara-champahatti", facts: [F98], note: "Древние Божества Гаура-Гададхары Двиджи Ванинатхи."}
-  - {type: other, who: "@jahnava", facts: [F57]}
+  - {type: other, who: "@jahnava", facts: [F57, F139]}
   - {type: other, who: "@abhirama", facts: [F57]}
 unnamed:
   - {who: "кази Навадвипы (обращение)", type: other, facts: [F33]}
@@ -134,15 +140,24 @@ events:   # по порядку жизни (lila-db: period, order); ключе�
   - ev-ishvara-puri-navadvipa
   - ev-shuklambara-house-prema
   - ev-gadadhara-receives-prema
+  - ev-gadadhara-krishna-in-heart
+  - ev-lord-cannot-worship-vishnu-tears
   - ev-visit-advaita
+  - ev-nityananda-first-meeting
   - ev-gadadhara-initiation-pundarika
   - ev-gaura-arati-navadvipa
   - ev-navadvipa-radha-bhava-gadadhara
+  - ev-dance-shrivasa-house
+  - ev-radhashtami-navadvipa
+  - ev-flower-battle-navadvipa
+  - ev-dice-game-gadadhara
+  - ev-holi-navadvipa-gadadhara
   - ev-mahaprakasha-abhisheka
   - ev-jagai-madhai-deliverance
   - ev-nagara-kirtana-kazi
   - ev-chandrashekhara-drama
   - ev-lokanatha-sent-to-vrindavana
+  - ev-sannyasa-decision-devotees-grief
   - ev-sannyasa-katwa
   - ev-journey-to-puri
   - ev-devotees-gather-nilachala
@@ -150,7 +165,13 @@ events:   # по порядку жизни (lila-db: period, order); ключе�
   - ev-gundicha-marjana
   - ev-departure-for-gauda
   - ev-gadadhara-leaves-kshetra-sannyasa
+  - ev-return-to-puri-from-vrindavana
   - ev-gopinatha-prasada-gadadhara
+  - ev-gadadhara-reads-bhagavata-puri
+  - ev-lord-sends-seat-gopala-bhatta
+  - ev-gadadhara-gives-hridayananda
+  - ev-mahamantra-order-dispute
+  - ev-gadadhara-sent-to-gauda
   - ev-ramakeli-rupa-sanatana
   - ev-vallabha-bhatta-puri
   - ev-sanatana-puri-sores
@@ -160,28 +181,35 @@ events:   # по порядку жизни (lila-db: period, order); ключе�
   - ev-srinivasa-dream-nitai-advaita
   - ev-gopinatha-madhu-pandita
   - ev-narottama-puri
+  - ev-virachandra-jiva-vrindavana
+  - ev-kheturi-festival
 teachings_given: []
 teachings_received: []
 works: []
-places: ["#beleti", "#chattagrama", "#navadvipa", "#house-jagannatha-mishra", "#house-chandrashekhara", "#puri", "#tota", "#narendra-sarovara", "#gundicha", "#cuttack", "#champahatti", "#vamshivata"]
-places_facts: [F11, F16, F17, F18, F27, F34, F56, F57, F59, F61, F71, F86, F97, F98, F99]
+places: ["#beleti", "#chattagrama", "#navadvipa", "#house-jagannatha-mishra", "#house-chandrashekhara", "#puri", "#tota", "#narendra-sarovara", "#gundicha", "#cuttack", "#champahatti", "#vamshivata", "#house-pundarika", "#house-srivasa"]
+places_facts: [F11, F16, F17, F18, F27, F34, F56, F57, F59, F61, F71, F86, F97, F98, F99, F127, F131, F134, F141]
 character:
   - {trait: "с детства отрешён, брахмачари всю жизнь, сосредоточен и любит уединение", facts: [F19, F20, F21, F22]}
   - {trait: "учёность (ответ по ньяе о мукти) — до пробуждения премы", facts: [F23]}
-  - {trait: "сила и бережность в служении Господу в экстазе: удерживал Его руки, утешал", facts: [F30], events: [ev-gadadhara-receives-prema]}
-  - {trait: "мгновенное раскаяние в сомнении о вайшнаве и смирение перед гуру", facts: [F42, F45, F46, F50], events: [ev-gadadhara-initiation-pundarika]}
+  - {trait: "сила и бережность в служении Господу в экстазе: удерживал Его руки, утешал", facts: [F30, F128, F129, F141, F142, F143], events: [ev-gadadhara-receives-prema]}
+  - {trait: "мгновенное раскаяние в сомнении о вайшнаве и смирение перед гуру", facts: [F42, F45, F46, F50, F127], events: [ev-gadadhara-initiation-pundarika]}
   - {trait: "простота и терпение: принимал напускную холодность Господа всерьёз, но не гневался", facts: [F65, F66, I4], events: [ev-vallabha-bhatta-puri]}
+  - {trait: "щедрость без чувства «моё»: отдал воспитанника Хридаянанду Гауридасу", facts: [F87, F136], events: [ev-gadadhara-gives-hridayananda]}
   - {trait: "любовь, готовая оставить обет и служение ради Господа", facts: [F68, F69, F70, F71, F72, F73, I3], events: [ev-gadadhara-leaves-kshetra-sannyasa]}
-  - {trait: "толкование «Бхагаваты» в экстатическом трансе", facts: [F61, F99], events: []}
-  - {trait: "жгучая разлука после сокрытия Господа; жил ради милости Шринивасе", facts: [F91, F92], events: [ev-srinivasa-gadadhara-puri]}
+  - {trait: "толкование «Бхагаваты» в экстатическом трансе; книга, стёртая слезами", facts: [F61, F99, F131, F133, F135], events: [ev-gadadhara-reads-bhagavata-puri]}
+  - {trait: "жгучая разлука после сокрытия Господа; жил ради милости Шринивасе", facts: [F91, F92, F133, F134, F135], events: [ev-srinivasa-gadadhara-puri]}
 significance: {facts: [F1, F5, F6, F9, F10, F99, F100, F102, I1, I2, I3, I4, I5, I6, I7, I8]}
 sources:
   T: "44–47 (глава); 10–11, 20, 31, 34, 50–51, 53–56, 62, 69–70, 75, 77, 83, 97, 107, 109, 117, 132, 149–150, 164, 169, 193, 204, 209, 216–217, 232, 235, 237, 252"
   M: "pdf 35–41 (глава, без колонтитула); pdf 23, 28, 109, 188–189"
   B: "135, 140–141 (глава — в основном о Гададхаре дасе); 22, 37, 41–42, 69, 93–94, 111, 128, 169, 174–175, 221–222, 266–267, 331, 661–662, 688, 718, 727–728, 740, 742, 748–752, 754, 787, 801, 815, 964, 995, 1029, 1056, 1073, 1094–1095, 1099–1100"
-  other: ["ЧЧ Ади 1.41, 5.175–176, 7.15–17, 8.59–60, 12.79–89; Мадхья 1.252–254, 16.130–147; Антья 7.48–50, 7.140–167", "ЧБ Ади 11; Мадхья 1, 2, 18, 28; Антья 10", "ГГД 147–150", "БР 3.142–…, 12.2205–2207", "«Шакха-нирнаямрита» Ядунанданы Даса", "«Навадвипа-дхама-махатмья»", "«Према-виласа» 4, 22 (lila-db)", "«Намамрита-самудра» 2, 9"]
+  other: ["ЧЧ Ади 1.41, 5.175–176, 7.15–17, 8.59–60, 12.79–89; Мадхья 1.252–254, 16.130–147; Антья 7.48–50, 7.140–167", "ЧБ Ади 11; Мадхья 1, 2, 18, 28; Антья 10", "ГГД 147–150", "«Бхакти-ратнакара» 1.167–195, 3.86–322, 7.389–408, 8.265–381, 9.458–494, 9.548, 10.583, 12 (Навадвипа и пады), 13.310–321 (ур. B)", "«Махакавья» Карнапуры 5.53–128, 6.12–14, 6.61, 11.7–22, 11.76, 13.123 (ур. A)", "«Вайшнава-лиламрита» 1.54–64, 5.12, 6, 8.91–92, 9.25–27 (ур. C–D)", "ГЧЧ 2, 4, 7, 17; «Махабхава-пракаша» 1.95; «Сарвабхаума-шатака» 6; ДЧВ 1.18–19 (C–D)", "Саньял II-01, II-02, II-10", "Мурари 2.3.10–15, 2.5.15 (через БР)", "«Шакха-нирнаямрита» Ядунанданы Даса", "«Навадвипа-дхама-махатмья»", "«Према-виласа» 4, 22 (lila-db)", "«Намамрита-самудра» 2, 9"]
 article: {ru: "parshadas/ru/gadadhara-pandita.md", en: "parshadas/en/gadadhara-pandita.md"}
 open_questions:
+  - "Где он ушёл: БР 8.373 — в Тоте («внезапно он скрылся здесь»); T 47 — в Пури (совместимо) (F94, F134)."
+  - "Сколько жил Ишвара Пури у Гопинатхи Ачарьи: несколько дней (БР 12.2206), месяц (M 52), несколько месяцев (T 10) (F125)."
+  - "Шёл ли Гададхара в Пури вместе с Господом после санньясы («Махакавья» 11.76, ЧБ) или пришёл позже — с Параманандой Пури («Махакавья» 13.123) / к первой Ратха-ятре (ЧЧ) (F146)."
+  - "«Вайшнава-лиламрита» (D): Гададхару посылают в Гауду после ухода Сварупы — против обета кшетра-санньясы и ЧЧ (F150)."
   - "Место рождения: Белети в Читтагонге (T) или Навадвипа («Према-виласа»); год — 1486 (T) или на год позже Господа (M) (F11, F13)."
   - "Месяц ухода: джьяштха (T 47) или ашадха (T 237) (F94)."
   - "Как Шриниваса узнал о его уходе — по пути из Пури (M), в Бенгалии по дороге обратно (B), в Яджпуре по пути в Пури (ПВ) (F93)."
