@@ -157,6 +157,10 @@ Bhatta's name — says, and the “Bhakti-ratnakara” repeats:
 bhakti, pleasing Raghunatha Dasa, Rupa and Sanatana.” (“Hari-bhakti-vilasa”, 1.2; “Bhakti-ratnakara”, 1.151)[^8]
 <!-- F104 Q39 -->
 
+The same is said in a later account, Nishikanta Sanyal's “Sree Krishna Chaitanya”, published by the Gaudiya Math in 1933
+with a foreword by Srila Bhaktisiddhanta Sarasvati: Prabodhananda, the younger brother of Venkata Bhatta, “was the uncle
+and preceptor of Sree Gopal Bhatta, one of the six Goswamins”. <!-- F135 -->
+
 ## In Vrindavana
 Gopala's parents gave their minds and lives to the feet of Sri Chaitanya. Before leaving the world, absorbed in
 remembrance of the Lord, they told their son: “When we are gone, go to Vrindavana and take shelter of Mahaprabhu's
@@ -189,7 +193,11 @@ kundas, his days in studying the shastras and writing. Rupa loved him as his own
 of Radha-ramana. Gopala Bhatta came to Vrindavana as one of those drawn by the bhajana of Rupa and Sanatana and by the
 Lord's earlier command — Raghunatha Bhatta and Raghunatha Dasa came as well, while Lokanatha was living there already.
 According to one account, Gopala Bhatta's hut stood on the bank of the Manasa-ganga at Govardhana, and Raghunatha
-Dasa, who at first had no shelter at Radha-kunda, sometimes stayed with him (according to the “Bhakti-ratnakara,” 5.554–562, Gopala Bhatta’s dwelling was at Radha-kunda). <!-- F31 F108 -->
+Dasa, who at first had no shelter at Radha-kunda, sometimes stayed with him. According to the “Bhakti-ratnakara”, however, his dwelling was at Radha-kunda — by the
+Manasa-pavana-ghata of Shyama-kunda: “One day Sanatana came from Vrindavana here, to the residence of Sri Gopala Bhatta”;
+he went to bathe at the ghata and saw a tiger drinking water there beside Raghunatha Dasa, who sat absorbed in meditation —
+and from that day he told Raghunatha to live not under a tree but in a hut (5.555–562). Later, going round Vraja, Srinivasa
+and Narottama honoured maha-prasada “where the hut of Sri Gopala Bhatta Gosvami stands” (5.602). <!-- F31 F108 F111 F112 -->
 
 ## The “Hari-bhakti-vilasa”
 In the South Gopala Bhatta had himself seen the good conduct — sadachara — of the Vaishnavas of Ramanuja's school, while
@@ -210,8 +218,9 @@ consider it correct that Sanatana first compiled the book and that its present t
 too teaches Srila Bhaktisiddhanta Sarasvati: the colophon at the end of each
 vilasa names him as author, and Gadadhara's “Kala-sara”, Raghunandana's “Ekadashi-tattva” and other books quote it as the
 “Hari-bhakti”. It is also said that the book is based on notes collected by Gopala Bhatta, and that his contribution
-was the editing. The “Hari-bhakti-vilasa” cites many proofs from Keshava Bhatta's “Krama-dipika”. The book is described
-in detail in the article on Sanatana Gosvami. <!-- F32 Q14 F106 F33 F37 -->
+was the editing. The “Hari-bhakti-vilasa” cites many proofs from Keshava Bhatta's “Krama-dipika”; according to Sanyal, Sanatana and Gopala Bhatta drew material
+from it, recognising that its author had been enlightened by Sri Gaurasundara. The book is described
+in detail in the article on Sanatana Gosvami. <!-- F32 Q14 F106 F33 F37 F136 -->
 
 In the fifteenth vilasa (verse 39), in the karika on wearing the tapta-mudra, a “Sri Venkata Acharya-pada” is mentioned:
 “many wise men headed by Venkata Acharya-pada know and cite here other shrutis and smritis as well”; the commentary
@@ -293,8 +302,26 @@ the friend of Rupa and Sanatana, born in a family of southern brahmanas”, and 
 “Gopala-champu” invokes: “O Krishna, Krishna Chaitanya, Rupa, Sanatana, Gopala Bhatta Prabhu…” Raghunatha Dasa, in the
 closing verse of the “Manah-shiksha”, promises that whoever sings these verses, following Rupa together with his group —
 Sanatana, Gopala Bhatta, Raghunatha Bhatta, Jiva — will attain the treasure of bhajana. And the “Bhakti-ratnakara”,
-listing the mahantas gathered to see Srinivasa off, says: “Gosvami Gopala Bhatta is most merciful; Bhugarbha and Sri
-Lokanatha are an abode of virtues” (6.510).[^15] <!-- F72 F75 F76 F73 Q46 -->
+listing the mahantas gathered to see Srinivasa off, says: “Gosvami Gopala Bhatta, exceedingly merciful, Bhugarbha and Sri
+Lokanatha, abodes of virtues” (6.510).[^15] <!-- F72 F75 F76 F73 Q46 F117 -->
+
+Narahari Chakravarti, the author of the “Bhakti-ratnakara”, glorifies him also at the opening of its waves: “Glory to
+Gopala Bhatta, Sri Rupa and Sanatana!” (7.7), “Glory to Lokanatha and Sri Gopala, full of prema!” (11.3), “Glory to Sri
+Gopala Bhatta, to Raghunatha Dasa!” (15.8); and in the closing song-prayer to the Lord's associates he asks: “Dear [to the
+Lord] Sanatana, Rupa, the two Bhattas — wells of rasa, Raghunatha, the profound Sri Jiva — repeating these names, may this
+sinful body of mine become grey with dust” (“Granthanuvada”, 42). In a dream, the “Bhakti-ratnakara” relates, Srinivasa
+saw Gaurachandra on a jewelled throne amid His associates, and among them “Trimalla, Venkata Bhatta, Sri Prabodhananda,
+Sri Gopala Bhatta, and also Sri Raghunatha Bhatta…” (12.4059–4060). <!-- F129 F126 -->
+
+Later books remember him too. “O pair of Bhattas!” — so the author of the “Rasika-mangala”, the life of Rasikananda, calls
+on Raghunatha and Gopala Bhatta among the six Gosvamis (1.1). The “Jagadisha-charitra-vijaya” (a late source) glorifies
+“Sri Gopala Bhatta, full of supreme compassion, whose life is Sri Radharamana, whose disciple Srinivasa, bringing the books
+to light, saved the souls by the gift of bhakti” (12.98), and elsewhere its author begs him: “Mighty is the ocean of maya,
+and I am drowning in it. Remove that maya, so that I may behold Vrajapura” (1.87). A list of the disciples of Abhirama
+Thakura notes: “The disciple of Gopala Bhatta is Acharya Shrinivasa” (“Shakha-nirnaya of Abhiramachandra”, 15).[^16] And the
+Oriya “Jagannatha-charitamrita” of Divakara Dasa — a book of the Atibadi tradition, a different line with its own
+interpretations — names among the “six Gosains”, who supposedly came with Rupa and Sanatana from Vrindavana to
+Mahaprabhu for the Gundicha-yatra, a “Sri Gopala Dasa”, apparently he.[^17] <!-- F130 F131 F132 F133 F134 -->
 
 ## Gopala Bhatta's Verse and Songs
 Rupa Gosvami, in the “Padyavali” (verse 38), quotes a kirtana-verse of names ascribed to Gopala Bhatta:
@@ -303,8 +330,8 @@ Rupa Gosvami, in the “Padyavali” (verse 38), quotes a kirtana-verse of names
 a blue lotus, darling of the Kalindi, son of Nanda, highest bliss, lotus-eyed Govinda, Mukunda of beautiful form —
 gladden me, wretched as I am!” (“Padyavali”, 38) <!-- F38 Q16 -->
 
-According to the “Bhakti-ratnakara” (6.401–402), overwhelmed by separation, he would sit in solitude, his eyes and mind
-given to Radha-ramana, and sing this verse; and who, hearing these names, could keep his composure? Several songs in
+According to the “Bhakti-ratnakara” (6.401–403), overwhelmed by separation, he would sit in solitude, his eyes and mind
+given to Radha-ramana, and sing this verse — so Jiva and Srinivasa found him on the day of farewell (see “Disciples”); and who, hearing these names, could keep his composure? Several songs in
 Brajabhasha on the pastimes of Radha-Govinda — on life in the bowers of Vrindavana, on the swing, on a lovers' quarrel —
 bearing Gopala Bhatta's signature (bhanita) also circulate as his; but whether they are genuine is hard to say.
 <!-- F39 Q17 F40 Q18 -->
@@ -320,7 +347,7 @@ disordered or broken off — sets everything out in order. The fourth verse of t
 examining the books of the ancient Vaishnavas; Baladeva Vidyabhushana explains: “their” means Rupa's and Sanatana's,
 the “friend” is Gopala Bhatta, the “ancient Vaishnavas” are Madhva and others. Thus Gopala Bhatta is the compiler of a
 concise “Bhagavata-sandarbha”, and his kadacha is the source of the “Shat-sandarbha”: he laid the foundation of
-the six theses that Jiva developed.[^16] More on this is told in the article on Jiva Gosvami. <!-- F80 Q29 Q30 -->
+the six theses that Jiva developed.[^18] More on this is told in the article on Jiva Gosvami. <!-- F80 Q29 Q30 -->
 
 **The “Sat-kriya-sara-dipika”.** This is a Vedic paddhati — a manual of marriage and the other samskaras — in Sanskrit,
 in prose and verse. Gopala Bhatta compiled it at the bidding of devotees of pure Krishna-bhakti — for brahmana
@@ -363,7 +390,7 @@ Unlike the printed edition, it has an introduction and many new verses. The intr
 Nityananda and says: by the instruction of Sri Krishna Chaitanya — Rupa and Sanatana; and at the bidding of them, of Sri Jiva,
 of Raghunatha and of Raghunatha called Bhatta, Sri Gopala Bhatta Gosvami diligently compiled the “Sat-kriya-sara-dipika”,
 having examined the views of Ramanuja and others and out of kindness to the noble in the Madhva sampradaya, while the
-“Samskara-dipika” included in it was composed by “Gopi-bhritya”, “the servant of the gopis”.[^17] In the list of the
+“Samskara-dipika” included in it was composed by “Gopi-bhritya”, “the servant of the gopis”.[^19] In the list of the
 guru-parampara the manuscript also has a shloka absent from the printed edition: “Sanatana and Rupa, Bhatta Raghunatha,
 the one called Bhatta Gopala, Jiva and Raghunatha”; whether it belongs to the author or to a copyist is unclear. After
 the colophon the manuscript describes the seats and holy places of the four sampradayas, with obeisances to
@@ -381,7 +408,7 @@ the “Samskara-dipika” was part of his plan to restore the Vaishnava smriti t
 (“Bhakti-ratnakara”, 1.228)
 
 The “Anuraga-valli” also speaks of this commentary on Bilvamangala's poem; Gopala Bhatta is said to have written many
-other books as well.[^18] <!-- F92 Q35 F93 F94 Q47 F95 -->
+other books as well.[^20] <!-- F92 Q35 F93 F94 Q47 F95 -->
 
 ## Disciples
 Only three of his disciples are especially well known, and some say he accepted only three. Two became famous for their
@@ -395,7 +422,7 @@ and go to Gauda.” Jiva took Srinivasa to Gopala Bhatta and to Radha-ramana and
 Paramananda and Madhu Pandita; Gopala Bhatta was glad to see him, and Srinivasa humbly asked for initiation. At Gopala
 Bhatta's direction Jiva bathed Srinivasa in the Yamuna and brought him back, and the next morning in the Radha-ramana
 temple Gopala Bhatta gave him the diksha mantra and, seeing his thirst and sincerity, blessed him: “May every perfection
-be yours.”[^19] Thus Srinivasa, the companion of Narottama, by Jiva's mercy became the diksha-disciple of Gopala Bhatta
+be yours.”[^21] Thus Srinivasa, the companion of Narottama, by Jiva's mercy became the diksha-disciple of Gopala Bhatta
 and the shiksha-disciple of Jiva.
 
 “After some time Srinivasa came to him there, and the Bhatta mercifully fulfilled his hope. Having become his disciple,
@@ -410,16 +437,51 @@ smriti, while Srinivasa, who took shelter at his feet, the shiksha-disciple of J
 himself by conduct and preaching to be the best of Rupanugas. More on this is told in the articles on Jiva Gosvami and
 Srinivasa Acharya. <!-- F55 F105 -->
 
+The “Bhakti-ratnakara” describes this farewell in detail. Earlier, together with Lokanatha and Bhugarbha, Gopala Bhatta had
+shown Shyamananda “the utmost limit of mercy” (6.119). On the eve of departure Jiva sent Srinivasa, Narottama and
+Shyamananda to take leave of him and went to him himself. Gopala Bhatta was sitting in seclusion, his eyes and mind given
+to Radha-ramana, now and then reciting his verse, and on hearing that Jiva was coming he kept looking at the path. Jiva,
+bowing, entreated:
+
+“«Bestow on Srinivasa the full transmission of power. Place your two feet on Srinivasa's head, so that he may reach Sri
+Gauda-mandala without obstacles, so that, crushing the pride of the unbelievers, he may freely distribute the books.»”
+(“Bhakti-ratnakara”, 6.406–408)
+
+Gopala Bhatta offered a prayer to Radha-ramana, and Radha-ramana, showing mercy to Srinivasa, gave him leave. The guru gave
+his disciple a prasada garland, calmed him with gentle words, entrusted him to Radha-ramana and commanded: “May all
+perfection come soon!” To Narottama he said: “May Sri Radha-ramana fulfill your desires!”, and to Shyamananda: “May Sri
+Radha-ramana be merciful to you!” (6.409–418). At night Srinivasa wept: “Will Prabhu Sri Gopala Bhatta, bringing me to
+Vraja, again give me the service of his lotus feet?” (6.476). In the morning, at the temple of Govinda, Gopala Bhatta with
+the other mahantas saw off the cart with the books, and for some distance towards Mathura all the Gosvamis walked beside
+it (6.509–523). <!-- F113 F114 F115 F116 F117 -->
+
+In Gauda Srinivasa would say of himself: “I became a disciple of Sri Gopala Bhatta Gosvami and studied the books of the
+Gosvamis” (“Bhakti-ratnakara”, 7.172), — and the Vaishnavas of Yajigrama and Gadadhara Dasa at Kantaka-nagara asked him
+how he had received Gopala Bhatta's favour and how Gopala Bhatta had given him the mantra of initiation (7.516, 610).
+Narahari sings in a song about Srinivasa: “By Sri Rupa's command in a dream, Sri Gopala Bhatta with great tenderness made
+Srinivasa his disciple” (14.205). <!-- F118 F127 -->
+
 When Srinivasa came to Vrindavana a second time — after the departure of Shuklambara, Gadadhara Dasa, Narahari and
 Dvija Haridasa — Gopala Bhatta, Jiva, Bhugarbha and Lokanatha encouraged him, and he heard from them accounts of Gaura
-and Krishna. Srinivasa's disciple Ramachandra Kaviraja also received in Vrindavana the blessing of Gopala Bhatta,
-Lokanatha and Bhugarbha.[^20] Narottama was the darling of the three Gosvamis still living — Gopala Bhatta, Jiva and
+and Krishna. According to the “Bhakti-ratnakara”, it was the day of Vasanta-panchami: the Gosvamis were celebrating at
+the temple of Govinda, embraced Srinivasa and wept on hearing of the disappearance of Gaurachandra's dear devotees, and
+Srinivasa, having bathed in the Yamuna, bowed at the feet of his guru (9.82–104). Srinivasa's disciple Ramachandra
+Kaviraja also received in Vrindavana the blessing of Gopala Bhatta, Lokanatha and Bhugarbha; together with his guru he
+“serves Bhatta Gosvami in many ways”, and the title “Kaviraja” for his poetry was agreed upon by “Sri Bhatta Gosvami and
+all the others” (9.206–216).[^22] Before leaving, Srinivasa beheld at Gopala Bhatta's residence a great festival — the
+simhasana-yatra of Radha-ramana on the full-moon day of Vaishakha (9.220–221). Narottama was the darling of the three Gosvamis still living — Gopala Bhatta, Jiva and
 Raghunatha Dasa — and Jiva taught Shyamananda from his own books and those of Raghunatha Dasa, Gopala Bhatta and others.
-<!-- F59 F60 F61 -->
+<!-- F59 F60 F61 F119 F120 F121 -->
 
 When Jahnava came to Vraja, Gopala Bhatta was still alive: the leaders of the Vaishnavas — Jiva, Gopala Bhatta,
-Lokanatha, Bhugarbha, Madhu Pandita — came to honour her, and among those who met her in Mathura was “Gopala Bhatta
-Gosvami, a treasury of Gaura-prema”. <!-- F58 -->
+Lokanatha, Bhugarbha, Madhu Pandita — went out to meet her. According to the “Bhakti-ratnakara”, the Gosvamis met her at
+the place of Akrura, and Parameshvari Dasa, quietly telling her their names, began with him: “This is Sri Gopala Bhatta,
+full of prema for Gaura…” (11.104).[^23] Hearing that Govinda, Ramachandra's younger brother, had come with her, Gopala
+Bhatta and the others rejoiced and embraced him. Then Gopala Bhatta and Lokanatha took Jahnava for darshana of the Deities
+of Vrindavana, Radha-ramana among Them; the Gosvamis heard her account of the festival at Kheturi and Govinda's poetry and
+named him “Govinda Kaviraja”; to him and all the Gosvamis Jahnava said that in the morning she would go to Radha-kunda
+(11.115–158). At parting Gopala Bhatta embraced Govinda, and when Jahnava was leaving Vrindavana, “Sri Bhatta Gosvami and
+the others could not remain composed” (11.275, 294). <!-- F58 F122 F123 F124 F125 -->
 
 The third disciple, Harivamsha, a Gauda brahmana of the Kashyapa gotra, Gopala Bhatta rejected for some reason. Various
 stories are told about him; their gist is that Gopala Bhatta rejected him for breaking the rules of conduct. It is said
@@ -498,10 +560,10 @@ recalled their virtues. His mind given to the feet of Radha-ramana, he would som
 his composure while chanting the names, sometimes, repeating “Hare Krishna”, be bathed in tears, his voice breaking.
 <!-- F57 -->
 
-He departed in Vrindavana on the krishna-panchami of the month of Shridhara — so by our calendar.[^21] His samadhi is
-behind the present temple of Radha-ramana. Narottama Dasa cries out in a song of lament: “Where are Raghunatha Bhatta and
+He departed in Vrindavana on the krishna-panchami of the month of Shridhara — so by our calendar.[^24] His samadhi is
+behind the present temple of Radha-ramana. Of his departure the “Bhakti-ratnakara” tells nothing.[^25] Narottama Dasa cries out in a song of lament: “Where are Raghunatha Bhatta and
 Gopala Bhatta?” And the glory of the six Gosvamis, it is said, is best understood through Srinivasa Acharya's
-“Shad-gosvamy-ashtaka”. <!-- F5 F63 F62 F64 -->
+“Shad-gosvamy-ashtaka”. <!-- F5 F63 F128 F62 F64 -->
 
 ## Songs About Him
 The “Stava-panchaka” — five verses on his greatness ascribed to Krishnadasa Kaviraja — is quoted by Yadunandana Dasa in
@@ -555,7 +617,7 @@ together with Raghunatha Dasa:
 ## Ananga-manjari
 Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who Gopala Bhatta was in Krishna's pastimes:
 
-“Ananga-manjari is now Gopala Bhatta; but some call Bhatta Gosvami Sri Guna-manjari.” (GGD 184)[^22]
+“Ananga-manjari is now Gopala Bhatta; but some call Bhatta Gosvami Sri Guna-manjari.” (GGD 184)[^26]
 
 In the drama “Chaitanya-chandrodaya” Karnapura names neither Gopala Bhatta nor Jiva, but in the
 “Gaura-ganoddesha-dipika” he names both and speaks of their position in Vraja. The “Stava-panchaka”, too, calls him
@@ -611,11 +673,16 @@ Sanatana, and pray that we may not be deceived by the judgements of the “burde
     of the biographies Damodara's third son is called Harinama (probably a misprint).
 [^15]: The number follows our Bengali edition; one of the biographies gives this verse as 6.310 (which is about
     Radha-Damodara).
-[^16]: According to other accounts, Gopala Bhatta's contribution was the preparation of notes on which Jiva relied, or
+[^16]: There Srinivasa is called a “limb-branch” (anga-shakha) of Abhirama's branch. The “Shakha-nirnayamrita” (42) may also
+    speak of Gopala Bhatta, calling Krishnadasa Brahmachari “the companion of Lokanatha-Bhatta”; but the reading is unclear —
+    it may also be one person, “Lokanatha Bhatta”.
+[^17]: The “Chaitanya-charitamrita” says that the Lord saw Gopala Bhatta in the south, at Shrirangam, and does not say that he
+    ever came to Puri. In one place Divakara names Nityananda among the six instead of Raghunatha Bhatta.
+[^18]: According to other accounts, Gopala Bhatta's contribution was the preparation of notes on which Jiva relied, or
     even a preface to the “Shat-sandarbha”.
-[^17]: Whether this was the name of the author of the “Samskara-dipika”, an epithet of Gopala Bhatta or his hidden name
+[^19]: Whether this was the name of the author of the “Samskara-dipika”, an epithet of Gopala Bhatta or his hidden name
     remains unclear: the first and last verses of the “Samskara-dipika” are signed “Gopi-bhrita” or “Gopi-bhritya”.
-[^18]: According to one of the biographies, the commentary on the “Krishna-karnamrita” known under his name, the
+[^20]: According to one of the biographies, the commentary on the “Krishna-karnamrita” known under his name, the
     “Krishna-vallabha”, is not his: it has no obeisance to Sri Krishna Chaitanya, and the author calls himself a
     brahmana of Dravida, son of Harivamsha Bhatta and grandson of Nrisimha Bhatta; there are no such colophons in the
     “Hari-bhakti-vilasa” or other books of the Gosvamis. The commentary quotes the “Bhagavatam”, Shridhara, the
@@ -633,10 +700,17 @@ Sanatana, and pray that we may not be deceived by the judgements of the “burde
     Gosvami; but his guru is “Narayana”, his father “Bhaddanphana (?)”, he wrote for his friend Banamali Dasa and his
     younger brother Lakshmi-Narayana, following the Bengali text of the “Karnamrita”, and he quotes the
     “Bhakti-rasamrita-sindhu” — that is, he wrote after it.
-[^19]: According to one account, the next day Gopala Bhatta himself sent Srinivasa to Raghunatha Dasa at Radha-kunda;
+[^21]: According to one account, the next day Gopala Bhatta himself sent Srinivasa to Raghunatha Dasa at Radha-kunda;
     according to another, Srinivasa went there together with Jiva.
-[^20]: According to one of the biographies, these Gosvamis gave him the title “Kaviraja”; according to another, Jiva did.
-[^21]: According to one of the biographies, the krishna-shashthi (the month is not named). On the year of his departure
+[^22]: According to one of the biographies, these Gosvamis gave him the title “Kaviraja”; according to another, Jiva did.
+    Elsewhere (1.267–269) the “Bhakti-ratnakara” names Paramananda Bhattacharya, Jiva and other residents of Vrindavana.
+[^23]: According to other accounts, the Gosvamis met her in Mathura or came to honour her in Vrindavana; one of them calls
+    him “a treasury of Gaura-prema”.
+[^24]: According to one of the biographies, the krishna-shashthi (the month is not named). On the year of his departure
     see note 1.
-[^22]: The “Gaura-ganoddesha-dipika” (66) also applies the same name to Radha's younger sister, who is now Jahnava (or
+[^25]: It quotes a letter of Jiva to Srinivasa consoling him in grief: “grief is opposed to devotion to the Lord and burns
+    the senses and the body; one might indulge in it only if the one mourned would thereby return” (14.22), — but does not say
+    for whom the grief is. According to the “Prema-vilasa” (its late part), this letter concerns Srinivasa's grief for the
+    departed Gopala Bhatta.
+[^26]: The “Gaura-ganoddesha-dipika” (66) also applies the same name to Radha's younger sister, who is now Jahnava (or
     Vasudha); Karnapura does not explain this.
