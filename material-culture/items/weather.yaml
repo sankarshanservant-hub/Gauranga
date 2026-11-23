@@ -1,6 +1,7 @@
 # Погода и времена года (rubric: nature). Формат — material-culture/README.md.
 # Исполнитель `nature`. Уже есть: mc-lunar-calendar и mc-danda-prahara (счёт месяцев и часов, life), mc-festival-year
-# (праздники Пури, worship), mc-eclipse-bath (затмение в ночь явления, rites) — здесь не повторяются.
+# (праздники Пури, worship), mc-eclipse-bath (затмение в ночь явления, rites), mc-monsoon и mc-cold-season (body) —
+# здесь не повторяются.
 
 - id: mc-six-seasons
   title: {ru: "Шесть времён года Бенгалии", en: "The six seasons of Bengal"}
@@ -72,43 +73,6 @@
   game: {model: "марево над песком, выцветшая трава, обмелевший пруд; опахало из пальмового листа",
          where: ["puri/beach", "mishra-house/courtyard"]}
 
-- id: mc-monsoon-chaturmasya
-  title: {ru: "Муссон и четыре месяца дождей", en: "The monsoon and the four months of rains"}
-  rubric: nature
-  era_evidence: hagiography
-  evidence_note:
-    ru: >-
-      «Неправильно отправляться в путь сейчас, в сезон дождей; иди после Виджая-дашами» — ЧЧ Мадхья 16.93–94; «четыре
-      месяца ты должен оставаться в Пури» — 16.282–285; чатурмасья у Венкаты Бхатты на юге — Мадхья 1.110, 9.84;
-      бенгальские преданные остаются в Пури на чатурмасью и приглашают Господа — Мадхья 14.68, Антья 10.133–152; слёзы
-      «как дождь из тучи в сезон дождей» — Мадхья 12.139.
-    en: >-
-      "It is wrong to set out now, in the rains; go after Vijaya-dashami" — CC Madhya 16.93–94; "for four months You must
-      stay in Puri" — 16.282–285; the chaturmasya with Venkata Bhatta in the south — Madhya 1.110, 9.84; the Bengali
-      devotees stay in Puri for the chaturmasya and invite the Lord — Madhya 14.68, Antya 10.133–152; tears "like rain
-      from a cloud in the rainy season" — Madhya 12.139.
-  text:
-    ru: >-
-      В ашадхе с юга приходят тёмные тучи муссона, и на месяцы небо почти не проясняется: ливни, глинистые дороги
-      раскисают, реки выходят из берегов, поля превращаются в озёра. Пускаться в путь в эти месяцы было и опасно, и не
-      принято: странствующие монахи останавливались на «чатурмасью» — четыре месяца дождей — в одном месте. Так и
-      Махапрабху провёл дожди у Венкаты Бхатты на юге, а в Пури преданные не отпускали Его в путь до праздника
-      Виджая-дашами. Для бенгальцев, пришедших на Ратха-ятру, это время совместных пиров и киртанов в Пури.
-    en: >-
-      In Ashadha the dark monsoon clouds arrive from the south, and for months the sky hardly clears: downpours, clay
-      roads turn to mire, rivers overflow and the fields become lakes. Setting out on a journey in these months was both
-      dangerous and improper: wandering monks stopped for the chaturmasya — the four months of rains — in one place. So
-      Mahaprabhu spent the rains with Venkata Bhatta in the south, and in Puri the devotees would not let Him leave until
-      the Vijaya-dashami festival. For the Bengalis who came for the Ratha-yatra it was a time of shared feasts and
-      kirtanas in Puri.
-  hagiography: ["ЧЧ Мадхья 16.93–94", "ЧЧ Мадхья 16.282–285", "ЧЧ Мадхья 1.110–111", "ЧЧ Мадхья 9.84", "ЧЧ Мадхья 14.68",
-                "ЧЧ Антья 10.133–152", "ЧЧ Мадхья 12.139"]
-  sources: []
-  images: []
-  audio: []
-  game: {model: "ливень, лужи, раскисшая дорога, залитые поля, зонт из листьев", where: ["navadvipa/lane", "navadvipa/fields", "puri"],
-         notes: "звуки дождя и лягушек — research/audio.md"}
-
 - id: mc-ganga-flood
   title: {ru: "Разлив Ганги", en: "The Ganga in flood"}
   rubric: nature
@@ -171,37 +135,6 @@
   sources: []
   images: []
   game: {model: "ночное море под полной луной; белые метёлки травы каша у реки", where: ["puri/beach", "ganga-ghat"]}
-
-- id: mc-winter-cold
-  title: {ru: "Холодная пора: туманы и стужа", en: "The cold season: fogs and chill"}
-  rubric: nature
-  era_evidence: hagiography
-  evidence_note:
-    ru: >-
-      «Сейчас (в картику) ещё очень холодно для путешествия; лучше идти после Дола-ятры» — ЧЧ Мадхья 16.9; плед
-      (бхота-камбала) Санатаны — см. mc-bhota-kambala; дрожь, «как стучат от холода зубы ребёнка» — ЧБ Мадхья 8.157;
-      разбойники мёрзнут под ливнем — ЧБ Антья 5.615–616. Туманы и стёганые одеяла-кантха — общее наблюдение.
-    en: >-
-      "It is still too cold (in Kartika) to travel; better go after the Dola-yatra" — CC Madhya 16.9; Sanatana's
-      blanket — see mc-bhota-kambala; trembling "as a child's teeth chatter from cold" — CB Madhya 8.157; robbers
-      freezing in a downpour — CB Antya 5.615–616. Fogs and kantha quilts — general observation.
-  text:
-    ru: >-
-      С картики по магху в Бенгалии прохладно, а ночами и холодно — до десяти градусов: для людей, привыкших к жаре, это
-      настоящая стужа. По утрам над рекой и полями лежит густой белый туман, роса капает с соломенных крыш. Греются у
-      костра из соломы и сухого навоза, на солнце во дворе, кутаются в шали, пледы и стёганые одеяла-кантха из старых
-      сари. Преданные в Пури отговаривали Махапрабху от пути в холодную картику: лучше дождаться весенней Дола-ятры.
-    en: >-
-      From Kartika to Magha Bengal is cool, and at night cold — down to ten degrees: for people used to heat, a real
-      frost. In the mornings a thick white fog lies over the river and fields, and dew drips from the thatch. People warm
-      themselves at fires of straw and dried dung or in the sun in the yard, and wrap up in shawls, blankets and kantha
-      quilts stitched from old saris. The devotees in Puri dissuaded Mahaprabhu from travelling in cold Kartika: better
-      to wait for the spring Dola-yatra.
-  hagiography: ["ЧЧ Мадхья 16.9", "ЧБ Мадхья 8.157", "ЧБ Антья 5.615–616"]
-  sources: []
-  images: []
-  game: {model: "утренний туман над Гангой и полями, костёр во дворе, люди в шалях", where: ["ganga-ghat", "mishra-house/courtyard"]}
-  todo: "найти кантху в житиях эпохи (ЧБ? Лочан?)"
 
 - id: mc-spring-vasanta
   title: {ru: "Весна (васанта)", en: "Spring (vasanta)"}

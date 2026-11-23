@@ -505,39 +505,6 @@
   images: []
   game: {model: "куст 2–4 м на ходульных корнях, пучки длинных колючих листьев", where: ["puri/beach", "puri/gundicha-garden"]}
 
-- id: mc-rice-fields
-  title: {ru: "Рис на полях: аус, аман, шали", en: "Rice in the fields: aus, aman, shali"}
-  rubric: nature
-  era_evidence: later-reconstruction
-  evidence_note:
-    ru: >-
-      В житиях — неочищенный рис (дхан) в благословении и в запасах дома (см. mc-rice-dal, mc-durva-blessing); сорта
-      и сельский календарь — по описаниям XIX в. (Day 1874; Watt 1889–96, «Oryza»), для эпохи прямо не
-      засвидетельствованы, но система трёх урожаев древняя (санскр. шали — зимний рис).
-    en: >-
-      The hagiographies mention unhusked rice (dhan) in blessings and household stores (see mc-rice-dal,
-      mc-durva-blessing); varieties and the farm calendar follow 19th-c. accounts (Day 1874; Watt 1889–96, "Oryza"),
-      not directly attested for the period, though the three-harvest system is old (Sanskrit shali, winter rice).
-  text:
-    ru: >-
-      Бенгалия живёт рисом, и поля вокруг Навадвипы меняют цвет по временам года. Аус — «быстрый» рис: его сеют с
-      первыми дождями и жнут уже в бхадре. Аман, или шали, — главный урожай: рассаду пересаживают в залитые водой поля
-      в разгар муссона, а убирают в аграхаяне, в начале зимы; к этому урожаю приурочен праздник нового риса
-      (наванна). Есть и тонкие душистые сорта, которые берегут для Божества и праздников. Солома идёт на кровлю, корм
-      скоту и топливо.
-    en: >-
-      Bengal lives on rice, and the fields round Navadvipa change colour with the seasons. Aus is the "quick" rice:
-      sown with the first rains and reaped already in Bhadra. Aman or shali is the main crop: seedlings are
-      transplanted into flooded fields at the height of the monsoon and harvested in Agrahayana, at the start of winter;
-      the festival of new rice (navanna) belongs to this harvest. There are also fine fragrant kinds kept for the Deity
-      and for feasts. The straw goes for thatch, fodder and fuel.
-  hagiography: ["ЧБ Ади 4.34", "ЧБ Ади 4.21"]
-  sources: ["Day, Bengal Peasant Life (1874) — сельский год", "Watt, Dictionary of the Economic Products of India (1889–96), т. V, Oryza sativa"]
-  images: []
-  game: {model: "заливные поля с межами; зелёная рассада / золотые колосья по сезону; стога соломы",
-         where: ["navadvipa/fields"]}
-  todo: "проверить страницы Day и Watt; найти в ЧБ/Лочане упоминания полей и жатвы; наванна — есть ли в житиях"
-
 - id: mc-kusha-grass
   title: {ru: "Трава куша", en: "Kusha grass"}
   rubric: nature
@@ -581,15 +548,17 @@
       described in Dutt 1877, pp. 265–266.
   text:
     ru: >-
-      Сахарный тростник (санскр. икшу, бенг. акх) растёт высокими зарослями на плодородных полях. Стебли жуют,
-      высасывая сладкий сок, или давят в деревянном прессе, а сок уваривают в широком котле в густую бурую патоку —
-      гур. Дальше его очищают: из гура получают кханду, затем сахар и, наконец, прозрачные кристаллы мишри. Кришнадас
-      Кавирадж сравнивает с этими ступенями сладости ступени преданности — от семени до чистейшей премы.
+      Сахарный тростник (санскр. икшу, бенг. акх) растёт высокими, в два человеческих роста, зарослями с узкими
+      шелестящими листьями на плодородных полях у рек. Зимой стебли срезают; дети и взрослые жуют их, высасывая сладкий
+      сок, а основную часть давят в деревянном прессе, который вращает бык, и сок тут же, у поля, уваривают в широком
+      железном котле над ямным очагом в густую бурую патоку — гур. Как из гура затем получают кханду, сахар и мишри, —
+      см. mc-sugar; Кришнадас Кавирадж сравнивает эти ступени сладости со ступенями преданности.
     en: >-
-      Sugarcane (Sanskrit ikshu, Bengali akh) grows in tall stands on fertile fields. The stems are chewed for their
-      sweet juice or crushed in a wooden press, and the juice is boiled in a wide pan into a thick brown treacle, gur.
-      Then it is refined: gur gives khanda, then sugar, and at last clear crystals of mishri. Krishnadasa Kaviraja
-      compares these stages of sweetness to the stages of devotion — from the seed to the purest prema.
+      Sugarcane (Sanskrit ikshu, Bengali akh) grows in tall stands, twice a man's height, with narrow rustling leaves on
+      the fertile fields by the rivers. In winter the stems are cut; children and grown-ups chew them for the sweet juice,
+      but most is crushed in a wooden press turned by a bullock, and the juice is boiled right by the field in a wide iron
+      pan over a pit hearth into thick brown treacle, gur. How gur then becomes khanda, sugar and mishri — see mc-sugar;
+      Krishnadasa Kaviraja compares these stages of sweetness to the stages of devotion.
   hagiography: ["ЧЧ Мадхья 19.179", "ЧЧ Мадхья 23.39", "ЧЧ Антья 4.238"]
   sources: ["Dutt 1877, с. 265–266 (Saccharum officinarum)"]
   images: []
@@ -655,38 +624,6 @@
   images: []
   game: {model: "поле высоких стеблей 3 м; снопы в пруду; золотистые пряди волокна на жердях", where: ["navadvipa/fields", "mishra-house/pond"]}
   todo: "найти джут/верёвки из пата в житиях или в «Манаса-мангале»"
-
-- id: mc-kitchen-garden
-  title: {ru: "Огород у дома", en: "The kitchen garden"}
-  rubric: nature
-  era_evidence: hagiography
-  evidence_note:
-    ru: >-
-      Огород Кхоловечи Шридхара (банан, тыква-лау) — ЧБ Ади 12, ЧЧ Ади 10.67–68 (см. mc-shridhar-hut, mc-banana-tree);
-      набор овощей в меню (патол, лау, кочу, баклажан, шпинаты-шак, горькая дыня) — ЧЧ Мадхья 3.43–50, Антья 10.136 (см.
-      mc-vegetable-dishes). Устройство огорода — реконструкция.
-    en: >-
-      Kholaveca Shridhara's garden (banana, lau gourd) — CB Adi 12, CC Adi 10.67–68 (see mc-shridhar-hut,
-      mc-banana-tree); the set of vegetables in menus (patol, lau, kochu, eggplant, shak greens, bitter gourd) — CC Madhya
-      3.43–50, Antya 10.136 (see mc-vegetable-dishes). The layout of the garden is a reconstruction.
-  text:
-    ru: >-
-      За хижиной у бенгальской семьи — свой огород, и почти всё, что подаётся в обед, растёт тут же. По бамбуковой
-      решётке на крышу хижины взбирается тыква-лау с белыми цветами; рядом вьются патол и горькая дыня-карела, растут
-      баклажаны, клубни кочу у пруда, имбирь, куркума и грядки зелени-шак. Овощи растят женщины, а лишнее везут на
-      рынок, как Шридхар, продававший тыквы и бананы. Помидоров, картофеля и перца чили в этом огороде ещё нет.
-    en: >-
-      Behind the hut a Bengali family keeps its own garden, and nearly everything served at lunch grows right there.
-      The lau gourd with its white flowers climbs a bamboo trellis onto the hut roof; beside it twine patol and bitter
-      gourd (karela), with eggplants, kochu tubers by the pond, ginger, turmeric and beds of shak greens. Women raise the
-      vegetables, and the surplus goes to market, as with Shridhara, who sold gourds and bananas. There are no tomatoes,
-      potatoes or chillies in this garden yet.
-  hagiography: ["ЧБ Ади 12.195–203", "ЧЧ Ади 10.67–68", "ЧЧ Мадхья 3.43–50", "ЧЧ Антья 10.136"]
-  sources: []
-  images: []
-  game: {model: "грядки, бамбуковая шпалера с тыквой-лау на крыше, кусты баклажанов, листья кочу",
-         where: ["mishra-house/backyard"]}
-  todo: "проверить, что Шридхар продавал тыквы-лау (ЧБ Ади 12, Мадхья 9) — по оригиналу"
 
 - id: mc-new-world-plants-absent
   title: {ru: "⚠ Чего ещё не было: растения из Америки", en: "⚠ Not yet there: plants from the Americas"}
