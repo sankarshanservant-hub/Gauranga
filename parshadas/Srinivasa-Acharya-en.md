@@ -952,7 +952,8 @@ books, and through Srinivasa He gave them to Gauda.
     transience of worldly life, and he never took up family life.
 [^24]: According to one passage of one biography, the title was given by Srinivasa himself on hearing Ramachandra's
     verses; according to another, by the Gosvamis of Vrindavana. According to the “Bhakti-ratnakara” (9.213–214), the
-    name “Kaviraja” for his verses was agreed upon by “Sri Bhatta Gosvami and all the others” in Vrindavana.
+    name “Kaviraja” for his verses was agreed upon by “Sri Bhatta Gosvami and all the others” in Vrindavana; elsewhere
+    (1.267–269) it is given by Paramananda Bhattacharya, Sri Jiva Gosvami and the other residents of Vrindavana.
 [^25]: According to another biography, Narahari and Gadadhara Dasa departed only after Srinivasa's second visit to
     Vrindavana: on his return he learned of Narahari's departure only at Shrikhanda and fell senseless, and Raghunandana,
     seeing him, was a little consoled in his grief; of Gadadhara Dasa's departure he learned at Kantaka-nagara. The news of
