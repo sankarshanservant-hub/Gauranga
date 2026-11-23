@@ -101,8 +101,9 @@
     ru: >-
       Мужская одежда — два несшитых полотна: дхоти, обёрнутое вокруг пояса и подоткнутое между ног и сзади (у
       брахманов в торжественных случаях — в трёх местах, «трикаччха»), и уттарья — накидка на плечи. Юный учитель Нимай
-      ходил по Навадвипе «одетый как царь», в жёлтой ткани, словно Кришна; бедняк Шридхар — в заплатанной одежде. Шитая
-      одежда (кафтаны) была в ходу при мусульманском дворе, а не у брахманов.
+      ходил по Навадвипе «одетый как царь», в жёлтой ткани, словно Кришна; бедняк Шридхар — в заплатанной одежде. По Виджаю
+      Гупте (1494), знатный бенгалец носил три полотна: дхоти, тюрбан и покрывало. До XVI в. бенгальцы, по Сену, носили
+      длинные умащённые волосы — длинные волосы были и у Нимая до санньясы.
     en: >-
       Men's dress is two unstitched cloths: the dhoti, wrapped round the waist and tucked between the legs and at the
       back (by brahmins on solemn occasions in three places, "trikaccha"), and the uttariya, a shawl over the
@@ -134,12 +135,12 @@
       The look of a Vaishnava brahmin: a tilaka on the forehead, drawn in clay, sandal paste or gorochana; a tuft of hair
       (shikha) left on the crown; a white cotton thread over the left shoulder, received at the upanayana. Nimai's
       forehead bore a tilaka and He carried books; at the wedding a crescent of sandal with aguru was drawn on Him.
-  hagiography: ["ЧБ Ади 12.245", "ЧБ Ади 15.128", "ЧБ Ади 8.14", "ЧБ Ади 8.186", "Лочан, Ади-кханда, ч. 1, ст. 85"]
+  hagiography: ["ЧБ Мадхья 7.63 (*ӯрдхва-пун̣д̣ра* из сандала)", "ЧЧ Мадхья 18.14 (тилака глиной Радха-кунды)", "ЧБ Ади 12.245", "ЧБ Ади 15.128", "ЧБ Ади 8.14", "ЧБ Ади 8.186", "Лочан, Ади-кханда, ч. 1, ст. 85"]
   sources: []
   images: [{file: "material-culture/img/belnos-1851-tilaka-signs-of-brahmins.jpg", license: "PD (Public Domain Mark 1.0)", author: "Sophie Charlotte Belnos", url: "https://wellcomecollection.org/works/f2877av8", note: "1851 (London: Day & Son).; Wellcome Collection — 580611i (b1580611x; image V0046127)."},
            {file: "material-culture/img/company-brahmin-japa-beads.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестный индийский художник", url: "https://wellcomecollection.org/works/k2zgf6ww", note: "XIX в. (1800–1899?).; Wellcome Collection — 576052i (b15760522; image V0045540)."}]
   game: {model: "тилака — вертикальная (форма уточнить), шикха, шнур через левое плечо", where: []}
-  todo: "форма гаудия-вайшнавской тилаки в XVI в. — вопрос к специалисту"
+  todo: "урдхва-пундра названа (ЧБ Мадхья 7.63); точный рисунок в XVI в. — вопрос к специалисту; см. также dress2.yaml"
 
 - id: mc-shankha-bangles
   title: {ru: "Раковинные браслеты (шакха) и железный браслет", en: "Conch-shell bangles (shankha) and the iron bangle"}
