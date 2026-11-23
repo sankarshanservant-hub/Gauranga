@@ -827,3 +827,75 @@
   game: {model: "кантхи — двойная нитка мелких бусин туласи на шее (бусина Ø 3–4 мм); чётки-джапа-мала 108 бусин Ø 8–10 мм в мешочке",
          where: ["mishra-house/thakur-ghar", "puri/gambhira"]}
   todo: "ЧЧ Антья 13.114 — *кан̣т̣ха-ма̄ла̄*, материал не назван (туласи — по смыслу). Форма бусин в XVI в. — вопрос к специалисту."
+
+# --- Порция 5: накидка, детская одежда ---
+
+- id: mc-cloth-end-uses
+  title: {ru: "Край накидки: узелок, веер, знак смирения", en: "The end of the cloth: bundle, fan, sign of humility"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Прасад, завязанный в край накидки — ЧЧ Мадхья 6.218, Антья 16.92; черепки горшочка в узелке — ЧЧ Мадхья 4.139;
+      мусор Гундичи в подоле накидки — ЧЧ Мадхья 12.88; обмахивают накидкой — ЧЧ Мадхья 17.220, Антья 14.97; Говинда
+      накрывает Господа своей накидкой — ЧЧ Антья 10.89; накидка, обёрнутая вокруг шеи в знак смирения — ЧЧ Мадхья
+      1.185; накидка Господа в дар — ЧЧ Мадхья 12.34, 16.202.
+    en: >-
+      Prasada tied in the end of the cloth — CC Madhya 6.218, Antya 16.92; potsherds in a knot — CC Madhya 4.139; the
+      Gundicha rubbish carried in the cloth — CC Madhya 12.88; fanning with the cloth — CC Madhya 17.220, Antya 14.97;
+      Govinda covers the Lord with his cloth — CC Antya 10.89; the cloth wound round the neck in humility — CC Madhya
+      1.185; the Lord's cloth as a gift — CC Madhya 12.34, 16.202.
+  text:
+    ru: >-
+      Карманов не было — всё носили в краю накидки-уттарьи. В её узелок Махапрабху завязал прасад и гирлянду Джаганнатхи
+      и поспешил с ними к Сарвабхауме; Мадхавендра Пури завязал в накидку черепки горшочка от сладкого риса Гопинатхи.
+      Накидкой обмахивали, укрывали спящего, выносили мусор при уборке храма Гундичи. Обернуть накидку вокруг шеи и
+      зажать в зубах травинку — знак глубочайшего смирения: так Рупа и Санатана простёрлись перед Господом в Рамакели.
+      А накидку с плеча Господа дарили как высшую милость — её получил, например, капитан лодки в Панихати.
+    en: >-
+      There were no pockets — everything was carried in the end of the uttariya. In its knot Mahaprabhu tied
+      Jagannatha's prasada and garland and hurried to Sarvabhauma; Madhavendra Puri tied in his cloth the shards of the
+      pot of Gopinatha's sweet rice. The cloth fanned, covered a sleeper, carried out the rubbish when the Gundicha
+      temple was cleaned. To wind the cloth round one's neck with a blade of grass between the teeth was a sign of the
+      deepest humility: so Rupa and Sanatana prostrated before the Lord at Ramakeli. And a cloth from the Lord's
+      shoulder was given as the highest grace — the boat captain at Panihati received one.
+  hagiography: ["ЧЧ Мадхья 6.218", "ЧЧ Антья 16.92", "ЧЧ Мадхья 4.139", "ЧЧ Мадхья 12.88", "ЧЧ Мадхья 17.220", "ЧЧ Антья 10.89",
+                "ЧЧ Мадхья 1.185", "ЧЧ Мадхья 12.34", "ЧЧ Мадхья 16.202"]
+  sources: []
+  images: []
+  game: {model: "анимация: край уттарьи завязан узелком с прасадом; накидка вокруг шеи при поклоне",
+         where: ["puri/temple", "ramakeli"]}
+
+- id: mc-child-dress
+  title: {ru: "Одежда ребёнка", en: "A child's clothing"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Голенький малыш в пыли — ЧБ Ади 7.39; младенец «одетый лишь ветром», с серебряным ожерельем и гирляндой в кудрях —
+      Мурари 1.6.4; поясок с колокольчиками — ЧБ Ади 12.160 (видение); мальчик Вишвамбхара: дхоти туго обёрнуто, три
+      хохолка, хохолок в пять узелков, бусы, жемчуг, сурьма, браслеты — Лочан, Ади ч. 4.390–391; обривание и прокалывание
+      ушей — ЧБ Ади 6.3. Украшения — см. mc-child-ornaments.
+    en: >-
+      A naked toddler covered in dust — CB Adi 7.39; the baby "clad only in the wind", with a silver necklace and a
+      garland in His curls — Murari 1.6.4; a waist-string with bells — CB Adi 12.160 (a vision); the boy Vishvambhara:
+      dhoti tightly wrapped, three tufts, a tuft tied in five knots, beads, pearls, kohl, anklets — Lochana, Adi
+      pt. 4.390–391; tonsure and ear-piercing — CB Adi 6.3. Ornaments — see mc-child-ornaments.
+  text:
+    ru: >-
+      Маленькие дети бегали голенькими — лишь поясок-шнурок с колокольчиками на животе, ожерелье да браслеты; Нимай,
+      весь в пыли, так и играл во дворе. Подрастая, мальчик получал маленькое дхоти, которое туго оборачивали вокруг
+      пояса. Волосы ребёнку то брили, то оставляли хохолками: у Вишвамбхары на голове красовались три хохолка, а один
+      был завязан пятью узелками; глаза подводили сурьмой. На обряде *чудакарана* ребёнку обривали голову и
+      прокалывали уши.
+    en: >-
+      Little children ran about naked — just a waist-string with bells on the tummy, a necklace and bangles; Nimai,
+      covered in dust, played that way in the yard. As he grew, a boy was given a small dhoti, wrapped tightly round the
+      waist. A child's hair was now shaved, now left in tufts: Vishvambhara had three tufts on His head, one of them
+      tied in five little knots; His eyes were lined with kohl. At the *chudakarana* rite the child's head was shaved and
+      the ears pierced.
+  hagiography: ["ЧБ Ади 7.39", "ЧБ Ади 12.160", "Мурари 1, сарга 6, ст. 4", "Лочан, Ади-кханда, ч. 4, ст. 390–391", "ЧБ Ади 6.3"]
+  sources: []
+  images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата, ок. 1890; Cleveland Museum of Art 2003.159", url: "https://clevelandart.org/art/2003.159"}]
+  game: {model: "малыш 2–3 лет: голый, поясок-шнурок с бубенчиками, серебряное ожерелье; мальчик 5–6 лет: маленькое белое дхоти, три хохолка",
+         where: ["mishra-house/courtyard"]}
