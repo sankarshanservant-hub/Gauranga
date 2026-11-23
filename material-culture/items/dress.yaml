@@ -1,0 +1,83 @@
+# Рубрика «Одежда и облик» (dress): первая порция — то, что нужно для тестового уровня. Формат — README.md.
+
+- id: mc-child-ornaments
+  title: {ru: "Украшения младенца", en: "A baby's ornaments"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 4.65 (колокольчики на пояске), 4.109–114 (воры и браслеты); ЧЧ Ади 13.112–113; Лочан, Ади-кханда, ч. 2,
+      ст. 105, 136; ЧЧ Ади 14.78–79 (звон без колокольчиков).
+    en: >-
+      CB Adi 4.65 (bells on the waistband), 4.109–114 (thieves and bracelets); CC Adi 13.112–113; Lochana, Adi-khanda
+      pt. 2 vv. 105, 136; CC Adi 14.78–79 (tinkling with no bells).
+  text:
+    ru: >-
+      Даже в бедной семье ребёнка украшали: браслеты на запястьях и плечах, ожерелье, золотая цепочка или поясок с
+      колокольчиками на талии, браслеты на ножках. Звон колокольчиков ползающего Нимая очаровывал всех; однажды
+      родители услышали этот звон, хотя на Нём не было колокольчиков. Именно из-за украшений двое воров унесли
+      малыша на плечах — и, сбившись с пути, принесли Его обратно к дому Мишры.
+    en: >-
+      Even in a poor family a child was adorned: bracelets on wrists and upper arms, a necklace, a gold chain or a
+      waistband with little bells, anklets. The tinkling of crawling Nimai's bells charmed everyone; once His parents
+      heard it though He wore no bells at all. It was for His ornaments that two thieves carried the boy off on their
+      shoulders — and, losing their way, brought Him back to Mishra's house.
+  hagiography: ["ЧБ Ади 4.65", "ЧБ Ади 4.108–131", "ЧЧ Ади 13.112–113", "ЧЧ Ади 14.38", "ЧЧ Ади 14.78–79",
+                "Лочан, Ади-кханда, ч. 2, ст. 105, 136"]
+  sources: []
+  images: []
+  game: {model: "тонкие золотые браслеты, поясок-цепочка с бубенчиками, ножные браслеты", where: ["mishra-house/courtyard"]}
+
+- id: mc-sari
+  title: {ru: "Сари", en: "The sari"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Расшитые сари среди даров — ЧЧ Ади 13.113; край сари — Лочан, Ади-кханда, ч. 3, ст. 271; ч. 4, ст. 359.
+      Ношение без блузы, белое сари с красной каймой — по позднейшим изображениям и этнографии; проверить.
+    en: >-
+      Embroidered saris among the gifts — CC Adi 13.113; the end of the sari — Lochana, Adi-khanda pt. 3 v. 271; pt. 4
+      v. 359. Wearing it without a blouse, and the white sari with a red border, follow later images and ethnography;
+      to be checked.
+  text:
+    ru: >-
+      Женщины носили сари — несшитое полотно в несколько локтей, обёрнутое вокруг тела и переброшенное через плечо;
+      край (анчал) покрывал голову и служил всем: им прикрывали подношение, за него цеплялся капризный малыш. Сшитых
+      блуз-чоли в Бенгалии той поры, по-видимому, не носили — они вошли в обиход в колониальное время. Сари
+      хлопковые, у богатых — шёлковые и расшитые: такие привезла Сита Тхакурани.
+    en: >-
+      Women wore the sari — an unstitched length of several cubits wrapped round the body and thrown over the
+      shoulder; its end (anchal) covered the head and served for everything: an offering was carried under it, a
+      fretful child clung to it. Stitched choli blouses were apparently not worn in Bengal at that time — they came
+      into use in the colonial period. Saris were of cotton, and for the wealthy of silk and embroidered: such were the
+      ones Sita Thakurani brought.
+  hagiography: ["ЧЧ Ади 13.113", "Лочан, Ади-кханда, ч. 3, ст. 271", "Лочан, Ади-кханда, ч. 4, ст. 359"]
+  sources: []
+  images: []
+  game: {model: "простое хлопковое сари (белое/небелёное, цветная кайма), без блузы, край на голове у замужних",
+         where: ["mishra-house/courtyard"], codex: hs_sari}
+  todo: "PD-свидетельство о появлении блузы у бенгалок (XIX в.); цвета кайм в XV–XVI вв."
+
+- id: mc-sindur-kunkuma
+  title: {ru: "Синдур и кумкума", en: "Sindur and kunkuma"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Лочан, Ади-кханда, ч. 1, ст. 81 и сноска; ч. 10, ст. 85; ЧБ Ади 4.43; ЧЧ Ади 13.110, 13.114; ЧБ Ади 4.21."
+    en: "Lochana, Adi-khanda pt. 1 v. 81 and note; pt. 10 v. 85; CB Adi 4.43; CC Adi 13.110, 13.114; CB Adi 4.21."
+  text:
+    ru: >-
+      Красный порошок синдур в проборе и на лбу — знак замужней женщины. На наречении Нимая собрались благочестивые
+      женщины, украшенные кумкумой; на празднике рождения почтенные жёны раздавали синдур, им же одаривали друг друга
+      после обрядов. Лочан описывает праздничный убор: синдур на лбу у самых локонов, а под ним — капля сандала.
+    en: >-
+      Red sindur powder in the hair parting and on the forehead marks a married woman. At Nimai's naming pious women
+      adorned with kunkuma gathered; at the birth festival the respectable wives handed out sindur, and it was
+      exchanged as a gift after rites. Lochana describes festive attire: sindur on the forehead right at the hairline,
+      and below it a dot of sandal paste.
+  hagiography: ["Лочан, Ади-кханда, ч. 1, ст. 81", "Лочан, Ади-кханда, ч. 10, ст. 85", "ЧБ Ади 4.43", "ЧЧ Ади 13.110",
+                "ЧЧ Ади 13.114", "ЧБ Ади 4.21"]
+  sources: []
+  images: []
+  game: {model: "красная линия в проборе у замужних; деревянный/латунный ларчик для синдура", where: ["mishra-house/courtyard"]}

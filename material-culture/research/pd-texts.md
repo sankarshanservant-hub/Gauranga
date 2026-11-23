@@ -30,6 +30,13 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
 - **Hunter SAB II 1875** — W. W. Hunter, *A Statistical Account of Bengal*, vol. II: Districts of Nadiya and Jessor.
   London, 1875. archive.org: `wbsl.19323` (также `in.ernet.dli.2015.37451`). ОД. Данные коллекторов 1870-х →
   **[поздн.]**.
+- **Mukharji 1888** — T. N. Mukharji, *Art-Manufactures of India*. Calcutta, 1888 (каталог к Глазговской выставке).
+  archive.org: `artmanufactureso00mukhuoft`. Автор ум. 1919 — ОД. **[поздн.]**, но с историческими экскурсами.
+- **Risley TCB 1891** — H. H. Risley, *The Tribes and Castes of Bengal: Ethnographic Glossary*, vol. I. Calcutta,
+  1891 (переизд. 1892). archive.org: `TheTribesAndCastesOfBengal` (т. I), `TheTribesAndCastesOfBengal_201509` (т. II).
+  Автор ум. 1911 — ОД. **[поздн.]**; страницы — по печатной пагинации т. I.
+- **HJ 1903** — H. Yule, A. C. Burnell, *Hobson-Jobson*, new ed. by W. Crooke. London, 1903. archive.org:
+  `hobsonjobsonbein00yuleuoft`. ОД (авторы ум. 1882–1923).
 
 ---
 
@@ -98,6 +105,18 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   садовники и плетельщики гирлянд; *Teli/Kalu* — маслобойщики; *Laheri* — «makers of lac bracelets»; *Chunari* —
   обжигальщики извести; *Baruі/Tambuli* — бетель — Hunter SAB II 1875, p. 47–48. **[поздн., но касты-ремёсла
   существовали и в XV–XVI в.]** Число кровельщиков (thatchers) — 3223 в одной категории переписи (p. ~35–36).
+- **Циновки**: «*Madur* mats are employed all over Lower Bengal as a bed by the middle and the poor classes»; мадур
+  плетут из осоки (*Cyperus tegetum*, *C. pangorei*): мужчины касты *байти* режут стебли, женщины ткут; тонкий сорт —
+  «Masland» (Миднапур), полосы красят красным (сапановое дерево). *Sitalpati* «cool-mat» из *Maranta dichotoma*
+  (Восточная Бенгалия: Фаридпур, Бакарганг, Типпера, Читтагонг; **Силхет** — каста Дас): «the best kind of Sitalpati
+  is so smooth that a snake cannot run over it ... well-to-do people spread a Sitalpati over their bed in the hot
+  season»; ремесло почти целиком женское, умение девушки плести шитал-пати повышало выкуп за невесту. Бамбуковые
+  плетёнки *darma* — стены домов в Вост. Бенгалии; пальмовые циновки — постель бедняков — Mukharji 1888, p. 310–312.
+  **[поздн.]** (Силхет — родина семьи Джаганнатхи Мишры: правдоподобная деталь для дома Шачи.)
+- Расписные глиняные горшки: *sakher hanri* (раскрашены после обжига) и сосуды, расписанные глиной *bil-mati* с
+  обжигом — «extremely primitive» — Mukharji 1888, p. 56. **[поздн.; традиция древняя]**
+- Корзиночки, обшитые снаружи раковинами каури, с красной подкладкой — для синдура и мелочей женщин — Mukharji
+  1888, p. 282 (ср. Bose 1881 «sidoorchoobry ... made of small shells», p. 133–135). **[поздн.]**
 
 ## (b) Кухня и еда
 
@@ -170,6 +189,24 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   горшки**, ремонт дома — Hunter SAB II 1875, p. 240–241. **[поздн.]** ⚠ **чили** и **табак** — анахронизм для
   XV–XVI в. (завезены португальцами в XVI в., распространились позже). Глиняные горшки — расходный материал
   (покупаются ежемесячно).
+- **Канса (колокольная бронза)**: «the *kansa* or *phul*, a form of bell-metal or white brass, composed of four parts
+  of copper to one of tin ... extensively used in the manufacture of plates, cups, and drinking glasses»; но «Bell-
+  metal is ... an article of which the purity is rather questionable, for it easily gets defiled by the touch of a
+  man from whose hands you cannot take water with safety to your caste» — Mukharji 1888, p. 157. Для обрядовой
+  утвари в Бенгалии берут **медь**, «Bell-metal is not considered pure enough for such purposes» — p. 186. **[поздн.;
+  отражает старые нормы чистоты]**
+- Повседневная посуда не украшается, т.к. «these are required to be scrubbed with earth or sand before being washed
+  each time they are used» (чистка землёй/песком/золой) — Mukharji 1888, p. 186. Индусы — латунь, мусульмане —
+  лужёная медь.
+- Обрядовая утварь в Бенгалии (медная): *kosha* (сосуд в форме лепестка бананового соцветия) и ложечка *kushi*,
+  *tamrakunda* (таз для омовения Божества), *pushpa-patra/tat* (блюдо для цветов), *saji* (корзинка с ручкой для
+  цветов), чашечки для сандаловой пасты, светильник с одним или многими рожками для арати — Mukharji 1888, p. 186–187.
+  **[поздн.; названия традиционные]** ⚠ Мукхарджи пишет «idol» — в карточках только «Божество».
+- Кухонная латунь: *hanri*, *bokno*, *bantloi* — «forms of brass cooking pots»; *ghara* — большой кувшин для воды;
+  промывалка для риса раньше — плотная бамбуковая корзина (латунная — новинка) — Mukharji 1888, p. 191. Пан-дан
+  (шкатулка для бетеля) можно украшать, т.к. не касается варёной пищи — p. 191. **[поздн.]**
+- Лучшая бенгальская латунь/канса — Кханкра (у Муршидабада); также Канчаннагар (Бардхаман), Раджшахи, Бансберия
+  (Хугли), Каттак (Орисса) — Mukharji 1888, p. 191–192. **[поздн.]**
 
 ## (c) Рождение и обряды младенчества
 
@@ -241,6 +278,32 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   write the fate of the baby on its forehead, and therefore keeping up through the whole of night ... is an absolute
   necessity» — Sen FLB 1920, p. 79–80. Хор из двух-трёх молодых женщин поёт песни, дети собираются слушать. **[поздн.;
   обычай «в отдалённых деревнях» и «в прежние времена»]**
+- **Орисса, роды у гоала (пастухов)**: «During labour and after delivery the mother is kept in a separate house, from
+  which fresh air is excluded as much as possible, and which is kept artificially heated for a period of twenty-one
+  days. Branches of *kendu* ... and *ligu* are hung near the front door of the house ; **iron nails are driven into the
+  door-posts**, and *chimuai* (Hemidesmus indicus), and *bholia* (Semecarpus anacardium) are laid in the infant's bed»;
+  младенца купают в горячем отваре листьев (*basanga* = адхатода, *arka*, *nishinda*, *dhatura* и др.); на 5-й день
+  жарят вместе *harada* (голубиный горох), мунг, бири, рис и пшеницу и раздают друзьям; **6-й день** — Шаштхи, «when
+  *Vidhata*, or Brahma, is believed to enter the house and write its destiny on the child's forehead. On this
+  occasion two lumps of cowdung are placed at each side of the door, and for fifteen days red lead is smeared on them,
+  and *dub* grass ... laid on the top»; 8-й день — угощение родни; «on the 21st day **new cooking pots** are brought
+  into use, an elaborate entertainment is prepared, and the child is named»; три недели нечисты и мать, и отец —
+  Risley TCB 1891, I, p. 289. **[поздн., Орисса; ценно для ориссийских сцен]**
+- **Повитуха и пуповина**: «Among Hindus of all other castes there is a strong prejudice against cutting the navel
+  cord, and a common term of abuse applied to a midwife is *narkata* or cord-cutter»; повитуха — из чамаров (в
+  Бенгалии — *чамаин*), в глубинке — женщины бхуинмали, чандалов, «гулам-каястх»; «It is a proverbial saying among
+  Hindus that a household becomes unclean if a Chamar woman has not attended at the birth» — Risley TCB 1891, I,
+  p. 181–182, 210; ср. подкаста хари «*Narikata*, cutters of the navel-string» — II, p. 131. **[поздн.]** (ср. Bose:
+  повитухи из доме и багди.)
+- **Цирюльник и его жена**: жена цирюльника (напит) нянчит мать и дитя последние шесть дней затворничества, первые
+  шесть — повитуха низкой касты; цирюльник «announces the birth of a child to the relations in the neighbourhood»
+  (плата выше за первенца-сына); жена подстригает младенцу ногти за плату — Risley TCB 1891, II, p. 308–309 (по
+  Бихару/Бенгалии). **[поздн.]**
+- Нечистота матери у чандалов: 10 дней после мальчика, 7–9 — после девочки; Шаштхи-пуджа на 6-й день — только для
+  мальчика — Risley TCB 1891, I, p. 187. **[поздн.]**
+- Цветок ашоки посвящён Шаштхи — Risley TCB 1891, II, p. 61. **[поздн.]**
+- Кочи (Сев. Бенгалия): первый рис на 7-м месяце, поклонение «Шати» (= Шаштхи?) с бананами *kantal*, рисом *atap*,
+  листьями бильвы и **туласи** — Risley TCB 1891, I, p. 498. **[поздн., племенной обычай]**
 
 ## Одежда, украшения, деньги
 
@@ -309,6 +372,30 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   (*chadar*)»; крестьянин — дхоти грубее и «a coarse towel or large handkerchief (*gamcha*) thrown over the
   shoulders», зажиточный — чадар — Hunter SAB II 1875, p. 240. **[поздн.]** (согласуется с HBLL p. 387–388: дхоти +
   покрывало; тюрбан в XV в. — у знати/по Сену).
+- **Шанкха (раковинные браслеты)**: «Up to a very recent date no Hindu wife would consider herself pure unless she had
+  on her wrists bracelets made of conch-shells. A brief religious ceremony was always performed to welcome this
+  valuable ornament before it was actually put on. The shell bracelet was respectfully put on a plate, and an
+  offering was made to it of vermillion, green blades of grass, and rice, and food was given to the man who brought it
+  for sale»; песня о ссоре Шивы и Парвати из-за браслетов; **железный браслет** на левом запястье замужней (снимают
+  лишь во вдовстве) — Mukharji 1888, p. 99–100. **[поздн., «древний обычай»]**
+- Шанкха делают, распиливая раковину на кольца, окрашивают лаком, украшают золотой фольгой; «Only fifty years ago the
+  wearing of shell bracelets was universal in Bengal among the Hindus»; комплект всегда дарит невесте отец на свадьбу
+  — Mukharji 1888, p. 147–148. Шанкхари Дакки различают сорта раковин (*titkuri* — лучший) и узоры (от широкого
+  плоского кольца до тонкого, с головами тигров, с позолотой) — p. 281–282. **[поздн.]**
+- Раковина-труба *шанкха*: «formerly used on warlike, festive, and religious occasions, now only on the latter» —
+  Mukharji 1888, p. 91–92.
+- **Каури — датированные свидетельства (HJ 1903, s.v. COWRY, p. 269–270)**:
+  - c. 1240, «Табакат-и-Насири»: «as in that country (Bengal), the kauri [shell] is current in place of silver».
+  - c. 1343–1350, Ибн Баттута о Мальдивах: «The islanders barter them to the people of Bengal for rice, for they also
+    form the currency in use in that country».
+  - 1561, Корреа: мальдивские суда с «coir and caury ... which make a great trade in Bengala, where they are current as
+    money»; 1586, Сассетти: «In Bengal are current those little shells that are found in the islands of Maldiva».
+  - Таблица (Силхет ок. 1778 и Калькутта нач. XIX в.): «4 kauris = 1 ganda; 20 gandas = 1 pan; 4 pan = 1 ana; 4 anas =
+    1 kahan, or about ¼ rupee» → ок. 5120 каури за рупию (в OCR «ledhan» — искажение; ⚠ по стандартной бенгальской
+    шкале 16 пан = 1 кахан). Санскритский словарь «Trikandashesha»: 20 капардика (каури) = ¼ паны (OCR: «\ pana»).
+    Налоги Силхета собирали в каури до 1801 г. **[XIII–XVI в. — прямые свидетельства; таблица — XVIII–XIX в.]**
+  → Для эпохи Махапрабху (1486–1533) каури как мелкая монета Бенгалии засвидетельствованы до (Ибн Баттута) и после
+    (Корреа 1561). Ср. Мукундарам (Sen HBLL p. 356–357): счёт в гандах, бури, панах.
 
 ---
 
@@ -319,6 +406,9 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   *окра́* (ওকড়া, дурнишник *Xanthium*), а **не** окра-бамия; переводом Сена не пользоваться.
 - «Кадча» Говинды Даса (Sen HBLL p. 449–450) — подложный текст XIX в.; бытовые детали из неё не брать как свидетельство XVI в.
 - Чили и табак в бюджете крестьянина Джессора (Hunter 1875, p. 240–241) — в сцены XV–XVI в. не переносить.
+- **Чили**: HJ 1903, s.v. CHILLY, p. 196 — название от Чили; растение завезено из Америки через Индонезию в Индию
+  (свидетельства с 1604/1631). ⚠ Для 1486–1533 гг. чили нет; острота — чёрный перец (*marich*), длинный перец
+  (*pippali*), имбирь, горчица.
 
 ## Тупики (Dead ends)
 

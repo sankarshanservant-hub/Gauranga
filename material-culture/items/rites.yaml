@@ -1,0 +1,485 @@
+# Рубрика «Обряды» (rites): первая порция — рождение и младенчество. Формат — material-culture/README.md.
+
+- id: mc-eclipse-bath
+  title: {ru: "Омовение во время затмения", en: "Bathing during the eclipse"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 3.2–5; ЧЧ Ади 13.89–103; ночь пхалгуна-пурнимы 1486 г. (1407 г. Шака) — ЧЧ Ади 13.89."
+    en: "CB Adi 3.2–5; CC Adi 13.89–103; the night of Phalguna Purnima 1486 (Shaka 1407) — CC Adi 13.89."
+  text:
+    ru: >-
+      Во время затмения, по обычаю, бегут к Ганге омыться, повторяют имена Бога и раздают дары брахманам и бедным.
+      В ночь, когда явился Господь, луну закрыла Раху, и вся Надия устремилась к реке с криками «Хари!» — даже те, кто
+      прежде никогда не произносил святого имени. Адвайта и Харидас, Шривас и Чандрашекхар омылись в Ганге и мысленно
+      раздавали дары, не понимая ещё, отчего так ликует сердце. Мусульмане передразнивали поющих — и тоже повторяли имя.
+    en: >-
+      During an eclipse it is the custom to run to the Ganga to bathe, repeat God's names and give gifts to brahmins
+      and the poor. On the night the Lord appeared, Rahu covered the moon and all Nadia rushed to the river crying
+      "Hari!" — even people who had never before uttered the holy name. Advaita and Haridasa, Shrivasa and
+      Chandrashekhara bathed in the Ganga and gave gifts in their minds, not yet knowing why their hearts rejoiced so.
+      Muslims mimicked the singers — and so repeated the name as well.
+  hagiography: ["ЧБ Ади 3.2–5", "ЧЧ Ади 13.89–103"]
+  sources: []
+  images: []
+  game: {model: "толпа на гхате ночью, лампады, луна в затмении", where: ["ganga-ghat"],
+         notes: "эпизод 1 тестового уровня"}
+
+- id: mc-ulu-dhvani
+  title: {ru: "Улу-дхвани — благой клич женщин", en: "Ulu-dhvani — the women's auspicious ululation"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 13.96 («женщины издавали языком особый звук»); ЧБ Ади 15.81, 15.105, 15.142, 15.162; Лочан, Ади-кханда, ч. 1, ст. 56."
+    en: "CC Adi 13.96 ('the women made a special sound with their tongues'); CB Adi 15.81, 15.105, 15.142, 15.162; Lochana, Adi-khanda pt. 1 v. 56."
+  text:
+    ru: >-
+      Бенгальские женщины встречают всякое благое событие переливчатым звуком «улу-улу», который издают, быстро
+      двигая языком. В миг явления Господа женщины Надии, воспевая имя Кришны, огласили всё этим кличем, а на
+      свадьбах Махапрабху улу-дхвани звучало вместе с музыкой и пением. Вместе с раковиной это главный «звук праздника»
+      бенгальского дома.
+    en: >-
+      Bengali women greet every auspicious event with a trilling "ulu-ulu" made by flicking the tongue. At the moment
+      of the Lord's appearance the women of Nadia, singing Krishna's name, filled the air with this cry, and at
+      Mahaprabhu's weddings ulu-dhvani rang out with the music and singing. Together with the conch it is the chief
+      "sound of celebration" in a Bengali home.
+  hagiography: ["ЧЧ Ади 13.96", "ЧБ Ади 15.81", "ЧБ Ади 15.105", "ЧБ Ади 15.142", "ЧБ Ади 15.162",
+                "Лочан, Ади-кханда, ч. 1, ст. 56"]
+  sources: []
+  images: []
+  game: {model: "звук (запись женского улу-дхвани) + анимация группы женщин", where: ["mishra-house/courtyard"]}
+
+- id: mc-conch-and-bells
+  title: {ru: "Раковина и колокольчики", en: "Conch and bells"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 2.211, 4.52; Лочан, Ади-кханда, ч. 2, ст. 130; торговец раковинами в Навадвипе — ЧБ Ади 12.146–149."
+    en: "CB Adi 2.211, 4.52; Lochana, Adi-khanda pt. 2 v. 130; a conch-seller in Navadvipa — CB Adi 12.146–149."
+  text:
+    ru: >-
+      Морская раковина-шанкха, в которую трубят, — голос благого начала: её звук открывает поклонение, праздник,
+      обряд. На наречении Нимая повсюду звучали раковины и колокольчики. В Навадвипе жили мастера и торговцы
+      раковинами: однажды юный Господь зашёл к такому торговцу, и тот, не взяв денег, вложил Ему в руки прекрасную
+      раковину. Из раковин же точили браслеты замужних женщин.
+    en: >-
+      The blown sea conch (shankha) is the voice of an auspicious beginning: its sound opens worship, a festival, a
+      rite. At Nimai's naming conches and bells sounded everywhere. Conch craftsmen and sellers lived in Navadvipa:
+      once the young Lord visited such a seller, who took no money and placed a beautiful conch in His hands. Married
+      women's bangles were also cut from conch shell.
+  hagiography: ["ЧБ Ади 2.211", "ЧБ Ади 4.52", "Лочан, Ади-кханда, ч. 2, ст. 130", "ЧБ Ади 12.146–149"]
+  sources: []
+  images: []
+  game: {model: "белая раковина Turbinella pyrum со срезанной верхушкой; медный колокольчик с рукоятью",
+         where: ["mishra-house/thakur-ghar", "mishra-house/courtyard"]}
+
+- id: mc-birth-music
+  title: {ru: "Музыка на празднике рождения", en: "Music at the birth celebration"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 2.211, 3.33; ЧЧ Ади 13.106, 13.109; Лочан, Ади-кханда, ч. 1, ст. 84 (музыка на девятую ночь)."
+    en: "CB Adi 2.211, 3.33; CC Adi 13.106, 13.109; Lochana, Adi-khanda pt. 1 v. 84 (music on the ninth night)."
+  text:
+    ru: >-
+      Рождение сына праздновали с музыкантами: пришли барабанщики, флейтисты и трубачи и играли не умолкая; Джаганнатха
+      Мишра одарил певцов, танцоров и всех пришедших, раздав и полученные подарки, и всё ценное, что было в доме.
+      На девятую ночь снова звучала радостная музыка. А в небе, по житиям, в это время пели и играли боги и гандхарвы.
+    en: >-
+      The birth of a son was celebrated with musicians: drummers, flute-players and trumpeters came and played without
+      pause; Jagannatha Mishra rewarded the singers, dancers and all who came, giving away both the gifts he had received
+      and everything of value in the house. On the ninth night joyful music sounded again. And in the sky, the
+      hagiographies say, the gods and gandharvas were singing and playing at the same time.
+  hagiography: ["ЧБ Ади 2.211", "ЧБ Ади 3.33", "ЧЧ Ади 13.106", "ЧЧ Ади 13.109", "Лочан, Ади-кханда, ч. 1, ст. 84"]
+  sources: []
+  images: []
+  game: {model: "2–3 музыканта у ворот: барабан дхак/дхол?, флейта, рог (уточнить инструменты)",
+         where: ["mishra-house/gate"], notes: "небесный план — гандхарвы с той же музыкой"}
+  todo: "какие барабаны/трубы названы в оригинале ЧБ Ади 3.33"
+
+- id: mc-sutika-ghar
+  title: {ru: "Родильная комната (сутика-гхар)", en: "The lying-in room (sutika-ghar)"}
+  rubric: rites
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Сам факт — ЧБ Ади 4.18 (время «впервые покинуть комнату матери» через месяц) и ЧЧ Ади 13.118 (первый выход и
+      омовение после родов). Устройство (отдельная хижина, огонь у входа, железо, срок нечистоты) — по этнографии,
+      проверить по PD.
+    en: >-
+      The fact itself — CB Adi 4.18 (the time to 'leave the mother's room for the first time' after a month) and
+      CC Adi 13.118 (first outing and bath after childbirth). The arrangement (a separate hut, fire at the door, iron,
+      the period of impurity) follows ethnography — to verify in PD sources.
+  text:
+    ru: >-
+      Роды проходили в особой комнате или наскоро поставленной хижине (сутика-гхар, атур-гхар). Мать с младенцем жила
+      там около месяца, отдельно от домашних дел и кухни: это время считалось обрядово нечистым. По бенгальскому
+      обычаю у входа поддерживали огонь, держали железный предмет и другие обереги от злых духов. Через месяц мать
+      впервые выходила с ребёнком к Ганге — так было и с Шачи.
+    en: >-
+      Childbirth took place in a special room or a hastily built hut (sutika-ghar, atur-ghar). Mother and baby stayed
+      there about a month, apart from the household work and the kitchen, since this time was ritually impure. By
+      Bengali custom a fire was kept burning at the entrance, and an iron object and other charms were kept against
+      evil spirits. After a month the mother first went out with the child to the Ganga — as Shachi did.
+  hagiography: ["ЧБ Ади 4.17–18", "ЧЧ Ади 13.118"]
+  sources: []
+  images: []
+  game: {model: "маленькая хижина-чала у дерева ним, у входа — горшок с тлеющим огнём, на двери — железный серп/нож?",
+         where: ["mishra-house/sutika-ghar"], notes: "обереги показывать как народный обычай, не как веру Мишры"}
+  todo: "PD: Shib Chunder Bose 1881, Risley 1891 — сутика-гхар, огонь, железо, срок; проверить для эпохи"
+
+- id: mc-jatakarma
+  title: {ru: "Обряд рождения (джатакарма) и дары", en: "The birth rite (jatakarma) and gifts"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 13.104, 13.108–110; ЧБ Ади 3.32–33."
+    en: "CC Adi 13.104, 13.108–110; CB Adi 3.32–33."
+  text:
+    ru: >-
+      Шривас Тхакур и Чандрашекхар Ачарья совершили по шастрам обряд по случаю рождения ребёнка. Брахманы, почтенные
+      мужчины и женщины шли посмотреть на младенца с подносами даров и благословляли Его. Сам Джаганнатха Мишра, бедный
+      брахман, с лёгким сердцем раздал брахманам, певцам, танцорам и беднякам всё, что получил, — никто не ушёл без
+      подарка.
+    en: >-
+      Shrivasa Thakura and Chandrashekhara Acharya performed the scriptural rite for the birth of a child. Brahmins and
+      respectable men and women came to see the baby with trays of gifts and blessed Him. Jagannatha Mishra himself, a
+      poor brahmin, cheerfully gave away to brahmins, singers, dancers and the poor everything he had received — no one
+      left without a gift.
+  hagiography: ["ЧЧ Ади 13.104", "ЧЧ Ади 13.108–110", "ЧБ Ади 3.32–33"]
+  sources: []
+  images: []
+  game: {model: "плетёные подносы с дарами у сутика-гхара", where: ["mishra-house/courtyard"]}
+
+- id: mc-auspicious-gifts
+  title: {ru: "Благие дары: кхаи, бананы, масло, синдур, арека, пан", en: "Auspicious gifts: khai, bananas, oil, sindur, areca, pan"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *кхаи, кала̄, таила, синдӯра, гуйа̄, па̄на* — ЧБ Ади 4.21 (то же в ЧБ Ади 10.87); ЧЧ Ади 13.110 (киноварь, куркума,
+      масло, кхаи, кокосы, бананы); Лочан, Ади-кханда, ч. 1, ст. 81 (синдур и питхали).
+    en: >-
+      khai, kala, taila, sindura, guya, pana — CB Adi 4.21 (likewise CB Adi 10.87); CC Adi 13.110 (vermilion,
+      turmeric, oil, khai, coconuts, bananas); Lochana, Adi-khanda pt. 1 v. 81 (sindur and pithali).
+  text:
+    ru: >-
+      У бенгальского праздника есть свой набор благих даров, которыми обмениваются женщины: воздушный рис (кхаи),
+      бананы, масло, синдур, орехи арека и пан. Малини, жена Шриваса, с подругами поднесла младенцу киноварь, куркуму,
+      масло, кхаи, кокосы и бананы; на празднике рождения почтенные жёны раздавали синдур и питхали — рисовую пасту для
+      благих знаков. После первого выхода к Ганге Шачи с почтением одарила женщин тем же набором.
+    en: >-
+      A Bengali celebration has its own set of auspicious gifts exchanged among women: puffed rice (khai), bananas,
+      oil, sindur, areca nuts and pan. Malini, Shrivasa's wife, and her friends offered the baby vermilion, turmeric,
+      oil, khai, coconuts and bananas; at the birth festival the respectable wives handed out sindur and pithali — rice
+      paste for auspicious marks. After the first outing to the Ganga Shachi respectfully gave the women the same set.
+  hagiography: ["ЧБ Ади 4.21", "ЧБ Ади 10.87", "ЧЧ Ади 13.110", "Лочан, Ади-кханда, ч. 1, ст. 81"]
+  sources: []
+  images: []
+  game: {model: "плетёный поднос (дала/кула) с горкой кхаи, бананами, кувшинчиком масла, ларчиком синдура, паном",
+         where: ["mishra-house/courtyard"]}
+
+- id: mc-sita-gifts
+  title: {ru: "Дары Ситы Тхакурани", en: "Sita Thakurani's gifts"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 13.111–118 (подробнейший перечень даров новорождённому в житиях)."
+    en: "CC Adi 13.111–118 (the most detailed list of gifts to a newborn in the hagiographies)."
+  text:
+    ru: >-
+      Сита Тхакурани, супруга Адвайты Ачарьи, приехала из Шантипура в закрытом паланкине со служанками. Она привезла
+      золотые браслеты на руки и ноги, браслеты выше локтя, монеты и ожерелья, тигриный коготь в золотой оправе,
+      пояски из шёлка и тесьмы, расшитые сари, шёлковые детские одежды, украшения из золота, серебра и самоцветов, а в
+      корзинах — свежую дурву, неочищенный рис, куркуму, горочану, кумкуму, сандаловую пасту и ткани. Она коснулась
+      головы младенца дурвой и рисом, благословив долгой жизнью Его и Его брата.
+    en: >-
+      Sita Thakurani, Advaita Acharya's wife, came from Shantipur in a covered palanquin with her maidservants. She
+      brought gold bangles for wrists and ankles, armlets, coins and necklaces, a tiger's claw set in gold, waistbands
+      of silk and lace, embroidered saris, silk baby clothes, ornaments of gold, silver and gems, and in baskets fresh
+      durva, unhusked rice, turmeric, gorochana, kunkuma, sandal paste and cloth. She touched the baby's head with
+      durva and rice and blessed Him and His brother with long life.
+  hagiography: ["ЧЧ Ади 13.111–118"]
+  sources: []
+  images: []
+  game: {model: "корзины с дарами; каждый дар кликабелен (см. отдельные карточки)", where: ["mishra-house/courtyard"],
+         notes: "эпизод 4 тестового уровня"}
+
+- id: mc-tiger-claw
+  title: {ru: "Тигриный коготь в золотой оправе", en: "Tiger claw set in gold"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 13.113. Значение оберега — народное поверье (этнография); проверить для Бенгалии XV–XVI вв."
+    en: "CC Adi 13.113. Its meaning as a charm is folk belief (ethnography); to check for 15th–16th-c. Bengal."
+  text:
+    ru: >-
+      Среди даров Ситы Тхакурани был тигриный коготь, оправленный в золото. Такой коготь вешали ребёнку на шею как
+      оберег: считалось, что он придаёт силу и отгоняет злых духов и дурной глаз. Для жителей Надии это был
+      знакомый дар — тигры тогда водились в бенгальских джунглях и болотах.
+    en: >-
+      Among Sita Thakurani's gifts was a tiger's claw set in gold. Such a claw was hung round a child's neck as a charm:
+      it was believed to give strength and ward off evil spirits and the evil eye. To the people of Nadia it was a
+      familiar gift — tigers still roamed the jungles and marshes of Bengal then.
+  hagiography: ["ЧЧ Ади 13.113"]
+  sources: []
+  images: []
+  game: {model: "изогнутый коготь 4–5 см в золотом колпачке с ушком, на красном шнурке", where: ["mishra-house/courtyard"]}
+  todo: "PD-свидетельство обычая (Hobson-Jobson s.v. tiger-claw? Risley?)"
+
+- id: mc-protective-mantras
+  title: {ru: "Защита младенца: мантры, оберег-ракша, чаранамрита", en: "Protecting the baby: mantras, raksha amulet, charanamrita"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 4.6–17 (мантры Вишну, Нрисимхе, Апараджите, дигбандхана; «Вор!»), 4.72–74 (*ракш̣а̄ ба̄ндхе*, *свасти-ва̄н̣ӣ*, *виш̣н̣у-па̄додака*)."
+    en: "CB Adi 4.6–17 (mantras to Vishnu, Nrisimha, Aparajita, dig-bandhana; 'Thief!'), 4.72–74 (raksha tied, svasti-vani, Vishnu-padodaka)."
+  text:
+    ru: >-
+      Родные день и ночь не отходили от новорождённого: одни пели мантры Вишну, другие обходили дом, произнося защитные
+      мантры, «связывающие» все десять сторон света. Когда незримый бог, пришедший взглянуть на Господа, мелькнул тенью,
+      все закричали: «Вор! Держи вора!» — и стали призывать Нрисимху. После случая со змеёй на малыша повязали оберег
+      (ракшу), прочли благословения и окропили Его водой со стоп Вишну.
+    en: >-
+      The family stayed by the newborn day and night: some chanted Vishnu mantras, others walked round the house
+      reciting protective mantras that "bind" all ten directions. When an invisible god who had come to see the Lord
+      flitted past like a shadow, everyone shouted, "Thief! Catch the thief!" and called on Nrisimha. After the
+      incident with the snake the baby was given a protective amulet (raksha), blessings were recited and He was
+      sprinkled with water that had washed Vishnu's feet.
+  hagiography: ["ЧБ Ади 4.6–17", "ЧБ Ади 4.66–75"]
+  sources: []
+  images: []
+  game: {model: "красная нить-ракша на запястье младенца; медный сосуд с чаранамритой",
+         where: ["mishra-house/sutika-ghar"], notes: "эпизод 6 «Вор!»: гандхарва подходит слишком близко"}
+
+- id: mc-name-nimai
+  title: {ru: "Имя «Нимай» — горькое имя-оберег", en: "The name 'Nimai' — a protective bitter name"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Ади 13.117 (Сита дала имя, защищая от ведьм и духов); ЧБ Ади 4.45, 4.50 (женщины: у вас умирали дочери);
+      Лочан, Ади-кханда, ч. 1, ст. 82–83 и сноска; Мурари 1.2.5 (умерли восемь дочерей). Обычай «отталкивающих»
+      имён — этнография.
+    en: >-
+      CC Adi 13.117 (Sita gave the name to protect from witches and spirits); CB Adi 4.45, 4.50 (the women: your
+      daughters died); Lochana, Adi-khanda pt. 1 vv. 82–83 and note; Murari 1.2.5 (eight daughters had died). The custom
+      of 'repellent' names is ethnographic.
+  text:
+    ru: >-
+      У Шачи и Джаганнатхи одна за другой умерли дочери, поэтому женщины посоветовали дать мальчику «горькое» имя —
+      Нимай, от горького дерева ним: злые силы не позарятся на то, что горько. Шачи, по Лочану, говорила женщинам:
+      «Мальчик не мой — назовите Его своим и благословите». Так в бенгальских семьях, терявших детей, давали нарочно
+      неприглядные имена. Брахманы же дали младенцу имя Вишвамбхара — «Питающий мир».
+    en: >-
+      Shachi and Jagannatha had lost daughter after daughter, so the women advised giving the boy a "bitter" name —
+      Nimai, from the bitter neem tree: evil powers do not covet what is bitter. Shachi, in Lochana's account, told the
+      women: "The boy is not mine — call Him your own and bless Him." In this way Bengali families who had lost
+      children deliberately gave them unattractive names. The brahmins, for their part, named the child Vishvambhara,
+      "He who sustains the world."
+  hagiography: ["ЧЧ Ади 13.117", "ЧБ Ади 4.44–50", "Лочан, Ади-кханда, ч. 1, ст. 82–83", "Мурари 1, сарга 2, ст. 5",
+                "Адвайта-пракаша 10.127"]
+  sources: []
+  images: []
+  game: {model: "—", where: ["mishra-house/courtyard"], notes: "текстовая карточка, связана с mc-neem-tree"}
+
+- id: mc-durva-blessing
+  title: {ru: "Благословение дурвой и рисом", en: "Blessing with durva grass and rice"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 3.35 (Адити); ЧЧ Ади 13.114, 13.117 (*дӯрва̄, дха̄нйа*); ЧБ Ади 15.168; Лочан, Ади-кханда, ч. 11, ст. 182."
+    en: "CB Adi 3.35 (Aditi); CC Adi 13.114, 13.117 (durva, dhanya); CB Adi 15.168; Lochana, Adi-khanda pt. 11 v. 182."
+  text:
+    ru: >-
+      Старшие благословляют, касаясь головы ребёнка свежей травой дурва и зёрнами неочищенного риса со словами:
+      «Живи долго!» Дурва вечно зелена и быстро разрастается, рис — сама жизнь, поэтому они означают долголетие и
+      достаток. Так благословила младенца мать богов Адити, пришедшая в облике женщины, так же — Сита Тхакурани; тем же
+      встречали Махапрабху на свадьбе.
+    en: >-
+      Elders bless a child by touching its head with fresh durva grass and grains of unhusked rice, saying, "Live
+      long!" Durva is ever green and spreads quickly, rice is life itself, so they signify long life and plenty. So the
+      mother of the gods, Aditi, who came in the guise of a woman, blessed the baby, and so did Sita Thakurani; the same
+      greeting met Mahaprabhu at His wedding.
+  hagiography: ["ЧБ Ади 3.35", "ЧЧ Ади 13.114", "ЧЧ Ади 13.117", "ЧБ Ади 15.168", "Лочан, Ади-кханда, ч. 11, ст. 182"]
+  sources: []
+  images: []
+  game: {model: "пучок дурвы и горсть риса на ладони / на подносе", where: ["mishra-house/courtyard"],
+         notes: "эпизод 3: богини в облике брахманок"}
+
+- id: mc-ashta-kalai
+  title: {ru: "Восьмой день: «восемь видов бобов»", en: "Eighth day: 'eight kinds of beans'"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Лочан, Ади-кханда, ч. 1, ст. 84 и сноска [^09-13] (аштакалай). Детали обряда — этнография, проверить."
+    en: "Lochana, Adi-khanda pt. 1 v. 84 and note [^09-13] (ashtakalai). Details of the rite are ethnographic — to check."
+  text:
+    ru: >-
+      На восьмой день после рождения, рассказывает Лочан Дас, детям на радость раздавали «восемь видов бобов» — смесь
+      обжаренных бобов и зёрен. Обычай дожил в Бенгалии до наших дней (ат-каурэ): дети бегают по дому, стуча по
+      веялке, и получают угощение. На девятую ночь был праздник с радостной музыкой.
+    en: >-
+      On the eighth day after the birth, Lochana Dasa says, "eight kinds of beans" — a mix of roasted pulses and grains
+      — were handed out to the children's delight. The custom has survived in Bengal to this day (at-kaure): children
+      run about the house beating a winnowing fan and receive treats. On the ninth night there was a festival with
+      joyful music.
+  hagiography: ["Лочан, Ади-кханда, ч. 1, ст. 84"]
+  sources: []
+  images: []
+  game: {model: "кула с горкой разноцветных бобов; дети", where: ["mishra-house/courtyard"]}
+  todo: "проверить описание ат-каурэ по PD (стук по куле — поздний ли элемент?)"
+
+- id: mc-nishkramana
+  title: {ru: "Первый выход и омовение в Ганге; поклонение Шаштхи", en: "First outing and bath in the Ganga; worship of Shashthi"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 4.17–22 (через месяц); ЧЧ Ади 13.118."
+    en: "CB Adi 4.17–22 (after a month); CC Adi 13.118."
+  text:
+    ru: >-
+      Через месяц после рождения пришло время малышу впервые покинуть комнату матери. Шачи в окружении женщин с пением
+      и музыкой пошла к Ганге; они омылись, почтили Гангу и богиню Шаштхи, покровительницу детей, и вернулись домой,
+      где Шачи одарила женщин кхаи, бананами, маслом, синдуром, арекой и паном. В этот день Сита Тхакурани поднесла
+      матери и сыну одежды и украшения.
+    en: >-
+      A month after the birth the time came for the baby to leave the mother's room for the first time. Surrounded by
+      women, with singing and music, Shachi went to the Ganga; they bathed, honoured Ganga and the goddess Shashthi,
+      protector of children, and returned home, where Shachi gave the women khai, bananas, oil, sindur, areca and pan.
+      On that day Sita Thakurani presented mother and son with clothes and ornaments.
+  hagiography: ["ЧБ Ади 4.17–22", "ЧЧ Ади 13.118"]
+  sources: []
+  images: []
+  game: {model: "шествие женщин к гхату: Шачи с младенцем, музыканты, подносы", where: ["ganga-ghat"]}
+
+- id: mc-horoscope
+  title: {ru: "Гороскоп (кошти)", en: "The horoscope (koshthi)"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Ниламбара Чакраварти составляет гороскоп — ЧБ Ади 3.9–14, ЧЧ Ади 13.88–90, 13.121, 14.12–19; Мурари 1.5.23–25.
+      Вид записи (свиток на бумаге или пальмовых листьях) — реконструкция.
+    en: >-
+      Nilambara Chakravarti casts the horoscope — CB Adi 3.9–14, CC Adi 13.88–90, 13.121, 14.12–19; Murari 1.5.23–25.
+      The form of the record (a scroll on paper or palm leaves) is a reconstruction.
+  text:
+    ru: >-
+      Сразу после рождения дед младенца, учёный-астролог Ниламбара Чакраварти, рассчитал Его гороскоп: луна во Льве,
+      восходящий Лев, все планеты сильны. В каждом доме гороскопа он увидел знаки великого царя, а позже, разглядев на
+      ступнях и ладонях ребёнка знаки Нараяны, сказал, что всё это записал ещё при составлении гороскопа. Садху-брахман
+      предсказал, что этот ребёнок — Сам Нараяна; о будущей санньясе в радостный день умолчали.
+    en: >-
+      Right after the birth the baby's grandfather, the learned astrologer Nilambara Chakravarti, calculated His
+      horoscope: the moon in Leo, Leo rising, all planets strong. In every house of the chart he saw the signs of a
+      great king, and later, seeing Narayana's marks on the child's soles and palms, he said he had written all this
+      down when he drew up the horoscope. A sadhu-brahmin foretold that the child was Narayana Himself; the future
+      sannyasa was not mentioned on that joyful day.
+  hagiography: ["ЧБ Ади 3.9–31", "ЧЧ Ади 13.88–90", "ЧЧ Ади 13.121", "ЧЧ Ади 14.12–19", "Мурари 1, сарга 5, ст. 23–25"]
+  sources: []
+  images: []
+  game: {model: "длинный узкий свиток (или связка пальмовых листьев) с таблицей домов гороскопа, чернила, тростниковое перо",
+         where: ["mishra-house/courtyard"], notes: "эпизод 5"}
+  todo: "в Бенгалии ок. 1500 — бумага или пальмовые листья для кошти? (PD)"
+
+- id: mc-namakarana
+  title: {ru: "Наречение имени", en: "The naming ceremony"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 4.41–52 (вскоре после первого выхода); ЧЧ Ади 14.18–20 (после того, как увидели знаки на стопах);
+      Лочан, Ади-кханда, ч. 2, ст. 103 (в день аннапрашаны). Жития расходятся в сроке.
+    en: >-
+      CB Adi 4.41–52 (soon after the first outing); CC Adi 14.18–20 (after the marks on the feet were seen); Lochana,
+      Adi-khanda pt. 2 v. 103 (on the day of annaprashana). The hagiographies differ on the timing.
+  text:
+    ru: >-
+      На наречение собрались пандиты во главе с Ниламбарой Чакраварти, родственники и нарядные женщины с кумкумой.
+      Женщины хотели имя Нимай, пандиты — Вишвамбхара, ведь с Его рождением кончилась засуха и пошёл долгожданный
+      дождь; решили, что будут оба. Брахманы читали Гиту, Бхагаватам и Веды, звучали раковины и колокольчики, все пели
+      имена Хари. Жития по-разному называют срок обряда: Вриндаван Дас — вскоре после первого месяца, Лочан Дас — в
+      день первого риса.
+    en: >-
+      Pandits headed by Nilambara Chakravarti, relatives and finely dressed women marked with kunkuma gathered for the
+      naming. The women wanted the name Nimai, the pandits Vishvambhara, since His birth had ended a drought and brought
+      the long-awaited rain; it was decided He should have both. Brahmins recited the Gita, the Bhagavatam and the
+      Vedas, conches and bells sounded, everyone sang Hari's names. The hagiographies differ on when it took place:
+      Vrindavana Dasa says soon after the first month, Lochana Dasa on the day of the first rice.
+  hagiography: ["ЧБ Ади 4.41–52", "ЧЧ Ади 14.18–20", "Лочан, Ади-кханда, ч. 2, ст. 103–108"]
+  sources: []
+  images: []
+  game: {model: "собрание во дворе: пандиты на циновках, женщины, раковины", where: ["mishra-house/courtyard"],
+         notes: "эпизод 7 (праздник, имя)"}
+
+- id: mc-object-choice
+  title: {ru: "Выбор предмета: младенец обнимает Бхагаватам", en: "Choosing an object: the baby embraces the Bhagavatam"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 4.53–57."
+    en: "CB Adi 4.53–57."
+  text:
+    ru: >-
+      Чтобы угадать склонности ребёнка, перед Ним разложили рис, зерно, книги, монеты, золото и серебро, и Джаганнатха
+      Мишра сказал: «Вишвамбхара, выбери, что Тебе по душе». Малыш, не взглянув на остальное, обнял книгу
+      «Шримад-Бхагаватам». Женщины закричали «Джая!» и решили, что Он станет великим учёным, а кто-то сказал: «Он
+      станет великим вайшнавом».
+    en: >-
+      To divine the child's inclinations, rice, grain, books, coins, gold and silver were laid out before Him, and
+      Jagannatha Mishra said, "Vishvambhara, choose what You like." Without a glance at the rest, the baby embraced the
+      Shrimad-Bhagavatam. The women cried "Jaya!" and decided He would become a great scholar, and someone said, "He
+      will become a great Vaishnava."
+  hagiography: ["ЧБ Ади 4.53–57"]
+  sources: []
+  images: []
+  game: {model: "на циновке: горсть риса, зерно, рукопись на пальмовых листьях между дощечками, монеты, украшения",
+         where: ["mishra-house/courtyard"], notes: "мини-сцена; книга — рукопись, не печатная"}
+
+- id: mc-annaprashana
+  title: {ru: "Аннапрашана — первый рис", en: "Annaprashana — the first rice"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Лочан, Ади-кханда, ч. 2, ст. 103–108 (через шесть месяцев; украшения младенца); упоминание — Лочан, Сутра-кханда (ст. с *аннапрашане*)."
+    en: "Lochana, Adi-khanda pt. 2 vv. 103–108 (after six months; the baby's ornaments); also mentioned in Lochana's Sutra-khanda."
+  text:
+    ru: >-
+      Около шести месяцев ребёнку впервые дают рис — это праздник для всей семьи. Лочан Дас рассказывает, что Мишра
+      Пурандара устроил торжество в честь сына: младенца нарядили в браслеты на плечах и запястьях, жемчужное ожерелье,
+      золотую цепочку на поясе и ножные браслеты; в тот же день, по Лочану, совершили и наречение имени. Первый рис —
+      конечно же, прасад Господа.
+    en: >-
+      At about six months a child is given rice for the first time — a festival for the whole family. Lochana Dasa
+      tells that Mishra Purandara held a celebration for his son: the baby was dressed in armlets and bracelets, a
+      pearl necklace, a gold chain round His waist and anklets; on that same day, according to Lochana, the naming was
+      also performed. The first rice is, of course, the Lord's prasada.
+  hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 103–108"]
+  sources: []
+  images: []
+  game: {model: "кансовое блюдо с горкой риса и пятью чашечками, младенец на коленях у дяди по матери? (проверить обычай)",
+         where: ["mishra-house/courtyard"]}
+  todo: "кто кормит первым рисом по бенгальскому обычаю (дядя по матери?) — PD/этнография; «первый рис — прасад» — моя пояснительная фраза, не из житий"
+
+- id: mc-oil-turmeric-kajal
+  title: {ru: "Уход за младенцем: масло, куркума, сурьма, горочана", en: "Baby care: oil, turmeric, kohl, gorochana"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Лочан, Ади-кханда, ч. 1, ст. 85, 87; горочана среди даров — ЧЧ Ади 13.114."
+    en: "Lochana, Adi-khanda pt. 1 vv. 85, 87; gorochana among the gifts — CC Adi 13.114."
+  text:
+    ru: >-
+      Каждый день Шачи умащала тельце сына душистым маслом с куркумой, а глаза Ему подводила сурьмой (каджалом); на лбу
+      рисовали тилаку из горочаны — жёлтого ароматного пигмента. Масляный массаж младенца, куркума и каджал до сих пор
+      входят в бенгальский уход за ребёнком: считается, что они укрепляют тело и защищают от сглаза.
+    en: >-
+      Every day Shachi anointed her son's little body with fragrant oil and turmeric and lined His eyes with kohl
+      (kajal); a tilaka of gorochana — a fragrant yellow pigment — was drawn on His forehead. Oil massage of infants,
+      turmeric and kajal are still part of Bengali baby care: they are believed to strengthen the body and protect from
+      the evil eye.
+  hagiography: ["Лочан, Ади-кханда, ч. 1, ст. 85", "Лочан, Ади-кханда, ч. 1, ст. 87", "ЧЧ Ади 13.114"]
+  sources: []
+  images: []
+  game: {model: "глиняная плошка с маслом и куркумой, маленький сосудик каджала", where: ["mishra-house/sutika-ghar"]}
