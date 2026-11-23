@@ -11,11 +11,16 @@
     ru: >-
       Эпоха: Дуарте Барбоза (ок. 1514–1518) — «в стране много хлопка», тонкие ткани цветные для себя и белые на вывоз
       (пер. Stanley 1866, с. 179). Сорта, сроки сбора и очистка — Taylor 1840 (Дакка, XIX в.; приёмы описаны как
-      исконные). Вата шимула для набивки — ЧЧ Антья 13.7.
+      исконные). Вата шимула для набивки — ЧЧ Антья 13.7. Вартема (ок. 1505): хлопка «больше, чем в любой стране
+      мира»; Барбоза (ок. 1516): много хлопка; Федеричи (1569): хлопковые ткани разных сортов — главный груз кораблей
+      Ориссы и Сатгаона; Фитч (1586): «лучшая и тончайшая хлопковая ткань во всей Индии» — Сонаргаон.
     en: >-
-      Period: Duarte Barbosa (c. 1514–1518) — "much cotton in the country", fine cloths coloured for local use and white
-      for export (tr. Stanley 1866, p. 179). Varieties, harvest seasons and cleaning — Taylor 1840 (Dacca, 19th c.;
-      described as age-old practice). Simul floss for stuffing — CC Antya 13.7.
+      Period: Duarte Barbosa (c. 1514–1518) — "much cotton in the country", fine cloths coloured for local use and
+      white for export (tr. Stanley 1866, p. 179). Varieties, harvest seasons and cleaning — Taylor 1840 (Dacca, 19th
+      c.; described as age-old practice). Simul floss for stuffing — CC Antya 13.7. Varthema (c. 1505): more cotton
+      'than any country in the world'; Barbosa (c. 1516): much cotton; Federici (1569): cotton cloths of many sorts
+      are the main cargo of Orissa and Satgaon; Fitch (1586): 'the best and finest cloth of cotton in all India' —
+      Sonargaon.
   text:
     ru: >-
       Почти вся одежда Бенгалии — хлопковая. Местный хлопок (*деши*) рос на сухих полях; собирали его дважды в год,
@@ -30,7 +35,12 @@
       cloud. For pillows and mattresses another "cotton" was used — the silky floss of the huge simul tree (Bombax):
       with it Jagadananda stuffed the bedding he made for Mahaprabhu.
   hagiography: ["ЧЧ Антья 13.7", "ЧЧ Мадхья 13.102 (шимул)"]
-  sources: ["Barbosa, пер. Stanley 1866, с. 179", "Taylor 1840, с. 130–131, 165–167 (сорта Phootee, Nurmah, Bairaite; валик, лук)"]
+  sources: ["Barbosa, пер. Stanley 1866, с. 179",
+            "Taylor 1840, с. 130–131, 165–167 (сорта Phootee, Nurmah, Bairaite; валик, лук)",
+            "Varthema (ок. 1505), пер. Jones–Badger 1863, с. 212",
+            "Barbosa (ок. 1516), пер. Stanley 1866, с. 179",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409–411",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 119–120"]
   images: []
   game: {model: "куст хлопчатника с раскрытыми коробочками; корзина хлопка; доска с валиком; бамбуковый лук для взбивания (≈1 м)",
          where: ["mishra-house/backyard", "navadvipa/market"]}
@@ -103,12 +113,22 @@
   evidence_note:
     ru: >-
       Эпоха: Барбоза (ок. 1515) — тончайшие бенгальские ткани *саравети* на женские покрывала, их вывозили кораблями;
-      цены в Малабаре (Stanley 1866, с. 179). Названия *абраван*, *шабнам*, цена при Джахангире — Taylor 1840
-      (с. 171–172, по преданию ткачей). «Тонкие ткани» Нимая и знатных женщин — жития (жёлтое тонкое полотно).
+      цены в Малабаре (Stanley 1866, с. 179). Названия *абраван*, *шабнам*, цена при Джахангире — Taylor 1840 (с.
+      171–172, по преданию ткачей). «Тонкие ткани» Нимая и знатных женщин — жития (жёлтое тонкое полотно). Ма Хуань
+      (1433) даёт названия и размеры бенгальских тканей: *пи-по* ≈ 3 × 57 китайских футов, *шана-бафт* — хлопковый газ
+      5 × 30, тюрбанная ткань 5 дюймов × 40 футов, ворсистая *ма-хэй-ма-ло* 4 × 20 (фут ≈ 31–32 см); Фэй Синь (1436) —
+      тонкий муслин и вуаль *са-ха-ла* на вывоз; Вартема (ок. 1505) — 50 кораблей в год с тканями, ткут мужчины;
+      Линсхотен (1596) — *sarampuras, cassas* и др.; «Айн-и Акбари» — ткань *гангаджал* («вода Ганги») и муслин
+      Сонаргаона.
     en: >-
       Period: Barbosa (c. 1515) — the finest Bengal cloths, *saravetis*, used for women's head-coverings and shipped
       abroad; prices in Malabar (Stanley 1866, p. 179). The names *abrawan*, *shabnam* and the price under Jahangir —
       Taylor 1840 (pp. 171–172, from weavers' tradition). The "fine cloth" of Nimai and noble women — hagiographies.
+      Ma Huan (1433) gives names and sizes of Bengal cloths: *pi-po* ≈ 3 × 57 Chinese feet, *shana-baft* — cotton
+      gauze 5 × 30, turban cloth 5 inches × 40 feet, napped *ma-hei-ma-lo* 4 × 20 (foot ≈ 31–32 cm); Fei Xin (1436) —
+      fine muslin and *sa-ha-la* veiling for export; Varthema (c. 1505) — 50 ships a year laden with cloth, woven by
+      men; Linschoten (1596) — *sarampuras, cassas* etc.; the Ain-i Akbari — the *gangajal* ('Ganga water') cloth and
+      Sonargaon muslin.
   text:
     ru: >-
       Бенгалия славилась муслином — тканью такой тонкой, что её называли «текучей водой» и «ночной росой»: мокрую её
@@ -125,7 +145,13 @@
       Mughals a piece of 10 × 2 cubits weighed little more than 50 grams and cost a fortune. In the hagiographies young
       Nimai Pandit and the bridegroom Vishvambhara wear fine yellow cloth.
   hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130"]
-  sources: ["Barbosa, пер. Stanley 1866, с. 179 (saravetis, mamuna, chautar, sinabafo; 20 локтей; цены)", "Taylor 1840, с. 168–172"]
+  sources: ["Barbosa, пер. Stanley 1866, с. 179 (saravetis, mamuna, chautar, sinabafo; 20 локтей; цены)",
+            "Taylor 1840, с. 168–172",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439–440",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443–444",
+            "Varthema (ок. 1505), пер. Jones–Badger 1863, с. 212, 214",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 95",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 123"]
   images: []
   game: {model: "полупрозрачное белое полотно, сквозь которое видна ладонь; в лавке — свёрнутые отрезы 20 локтей",
          where: ["navadvipa/market"]}
@@ -138,11 +164,15 @@
     ru: >-
       Шёлк в житиях: шёлковые сари на свадьбе (Лочан, Ади ч. 10.84, ч. 14.135–148), шёлковое покрывало постели (Лочан
       Ади ч. 2.123), шёлковое дхоти в подарок (Лочан Ади ч. 6.500), шёлковые верёвки Ратха-ятры. Сорта и места —
-      Mukharji 1888, с. 332 (XIX в.); Малда 1577 г. — по Бёрдвуду (там же).
+      Mukharji 1888, с. 332 (XIX в.); Малда 1577 г. — по Бёрдвуду (там же). Ма Хуань (1433): в Бенгалии ткут шёлковые
+      вышитые платки и парчовую тафту; Федеричи (1569) из Ориссы — «ткань из трав», род шёлка, что растёт в лесах без
+      труда человека (вероятно, тасар; см. mc-grass-cloth).
     en: >-
       Silk in the hagiographies: silk saris at the wedding (Lochana, Adi pt. 10.84, pt. 14.135–148), a silk bedspread
-      (Lochana Adi pt. 2.123), a silk dhoti as a gift (Lochana Adi pt. 6.500), the silk ropes of Ratha-yatra. Kinds and
-      places — Mukharji 1888, p. 332 (19th c.); Malda 1577 — after Birdwood (ibid.).
+      (Lochana Adi pt. 2.123), a silk dhoti as a gift (Lochana Adi pt. 6.500), the silk ropes of Ratha-yatra. Kinds
+      and places — Mukharji 1888, p. 332 (19th c.); Malda 1577 — after Birdwood (ibid.). Ma Huan (1433): Bengal weaves
+      embroidered silk kerchiefs and brocaded taffeta; Federici (1569) from Orissa — 'cloth of herbs', a kind of silk
+      growing in the woods without human labour (probably tasar; see mc-grass-cloth).
   text:
     ru: >-
       Шёлк в Бенгалии был трёх главных родов. *Пат* — шёлк тутового шелкопряда из долины Ганга (Малда, Муршидабад,
@@ -158,7 +188,10 @@
       Shachi spread a silk coverlet for her son.
   hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 123", "Лочан, Ади-кханда, ч. 6, ст. 500", "Лочан, Ади-кханда, ч. 10, ст. 84",
                 "Лочан, Ади-кханда, ч. 14, ст. 135–148", "ЧЧ Мадхья 14.249"]
-  sources: ["Mukharji 1888, с. 332", "Taylor 1840, с. 176 (вышивка мунгой и тасаром)"]
+  sources: ["Mukharji 1888, с. 332",
+            "Taylor 1840, с. 176 (вышивка мунгой и тасаром)",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 440",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409–410"]
   images: []
   game: {model: "три мотка: белый блестящий (пат), золотисто-бурый (тасар), жёлтый (мунга); сари гарад — белое с красной каймой",
          where: ["navadvipa/market"]}
@@ -416,14 +449,16 @@
       ломают раковинные браслеты (Sen 1911, с. 262). Жития: Шачи — «овдовевшая матушка» (ЧБ Мадхья 26.174, 27.32);
       вдова брахмана — ЧЧ Антья 3.15–16; Лакшахира оставляет одну ткань и бреет голову — ЧЧ Антья 3.139 (обет
       отречения, не вдовство). Позднее: вдова без цветной каймы и украшений, кроме бус, голова обрита — Solvyns 1804,
-      pl. XXXVIII; простые белые дхоти вдов — N. G. Mukerji 1903.
+      pl. XXXVIII; простые белые дхоти вдов — N. G. Mukerji 1903. Фэй Синь (1436) об индусах Бенгалии: овдовевшая жена
+      не выходит снова замуж (он прибавляет, что и вдовец не женится, — ⚠ вероятно, неточность).
     en: >-
       Period: the Manasa-mangal (Vijay Gupta, 1494, and others) — Chand's widowed daughters-in-law put on the widow's
       white sari, wipe away their sindur and break their shell bangles (Sen 1911, p. 262). Hagiographies: Shachi, "the
       widowed mother" (CB Madhya 26.174, 27.32); a brahmin's widow — CC Antya 3.15–16; Lakshahira keeps one cloth and
       shaves her head — CC Antya 3.139 (a vow of renunciation, not widowhood). Later: a widow with no coloured border
       and no ornaments but beads, head shaved — Solvyns 1804, pl. XXXVIII; plain white dhotis for widows — N. G.
-      Mukerji 1903.
+      Mukerji 1903. Fei Xin (1436) on Bengal's Hindus: a widowed wife does not marry again (he adds that a widower
+      does not either — ⚠ probably a misunderstanding).
   text:
     ru: >-
       Овдовев, бенгальская женщина стирала синдур с пробора, ломала раковинные браслеты и надевала белую ткань без
@@ -437,7 +472,11 @@
       dissuade Nimai from sannyasa, they reminded Him that He was the only support of His widowed mother. A widow led a
       strict life, giving herself to serving the Lord and the family.
   hagiography: ["ЧБ Мадхья 26.174", "ЧБ Мадхья 27.32", "ЧЧ Антья 3.15–16", "ЧЧ Антья 3.139"]
-  sources: ["Sen 1911, с. 262 (Манаса-мангал)", "Solvyns 1804, pl. XXXVIII", "N. G. Mukerji 1903 (белые дхоти вдов)", "Taylor 1840, с. 265"]
+  sources: ["Sen 1911, с. 262 (Манаса-мангал)",
+            "Solvyns 1804, pl. XXXVIII",
+            "N. G. Mukerji 1903 (белые дхоти вдов)",
+            "Taylor 1840, с. 265",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
   images: []
   game: {model: "Шачи после смерти мужа: белое сари без каймы, голова покрыта краем, без шакхи и синдура; тонкие бусы",
          where: ["mishra-house/courtyard"]}
@@ -550,15 +589,21 @@
   era_evidence: epoch
   evidence_note:
     ru: >-
-      Эпоха: Барбоза (ок. 1514–1518), пер. Stanley 1866, с. 180 — знатные мусульмане Бенгалии и простой народ (подробно).
-      Жития: при дворе султана — лекарь Мукунда и слуга с павлиньим опахалом за султаном (ЧЧ Мадхья 15.120–123); Кази
-      Навадвипы (ЧБ Мадхья 23.101–112; одежда не описана); Рупа и Санатана — министры султана (ЧЧ Мадхья 1). ⚠ Барбоза
-      описывает портовый город «Бенгала».
+      Эпоха: Барбоза (ок. 1514–1518), пер. Stanley 1866, с. 180 — знатные мусульмане Бенгалии и простой народ
+      (подробно). Жития: при дворе султана — лекарь Мукунда и слуга с павлиньим опахалом за султаном (ЧЧ Мадхья
+      15.120–123); Кази Навадвипы (ЧБ Мадхья 23.101–112; одежда не описана); Рупа и Санатана — министры султана (ЧЧ
+      Мадхья 1). ⚠ Барбоза описывает портовый город «Бенгала». Ма Хуань (1433): мужчины — белый хлопковый тюрбан,
+      длинное платье с круглым воротом, подпоясанное вышитым кушаком, кожаные туфли; царь и вельможи одеты
+      по-мусульмански, «очень чисты и опрятны»; Фэй Синь (1436): длинная белая хлопковая рубаха, низкие туфли из
+      овечьей кожи с золотой нитью.
     en: >-
       Period: Barbosa (c. 1514–1518), tr. Stanley 1866, p. 180 — Bengal's Muslim nobles and common people (in detail).
       Hagiographies: at the sultan's court — the physician Mukunda and a servant with a peacock fan behind the sultan
       (CC Madhya 15.120–123); the Kazi of Navadvipa (CB Madhya 23.101–112; his dress not described); Rupa and Sanatana
-      as the sultan's ministers (CC Madhya 1). ⚠ Barbosa describes the port city "Bengala".
+      as the sultan's ministers (CC Madhya 1). ⚠ Barbosa describes the port city "Bengala". Ma Huan (1433): men wear a
+      white cotton turban, a long round-collared gown girt with an embroidered sash, leather shoes; king and nobles
+      dress as Muslims, 'very clean and neat'; Fei Xin (1436): a long white cotton shirt, low sheepskin shoes worked
+      with gold thread.
   text:
     ru: >-
       Мусульмане, в отличие от индусов, носили шитую одежду. Знатный мусульманин Бенгалии в дни Махапрабху ходил в
@@ -573,7 +618,9 @@
       shirts to mid-thigh, drawers and a small turban of three or four turns, and leather shoes embroidered with silk
       and gold thread. So, probably, the Kazi of Navadvipa and the courtiers of Sultan Husain Shah were seen.
   hagiography: ["ЧЧ Мадхья 15.120–123", "ЧБ Мадхья 23.101–112", "ЧЧ Мадхья 1.175–185"]
-  sources: ["Barbosa, пер. Stanley 1866, с. 180"]
+  sources: ["Barbosa, пер. Stanley 1866, с. 180",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442–443"]
   images: []
   game: {model: "кази: белая длинная рубаха-джама до щиколоток, шёлковый кушак, кинжал, белая шапочка/малая чалма, кожаные туфли; слуга с павлиньим опахалом",
          where: ["navadvipa/kazi-house", "gauda/court"]}
@@ -585,17 +632,20 @@
   era_evidence: epoch
   evidence_note:
     ru: >-
-      Эпоха: Виджай Гупта (1494) — бенгалец носит три ткани, одна из них — тюрбан (Sen 1911, с. 387–388). Жития:
-      синий тюрбан Нитьянанды (ЧБ Мадхья 3.144), шёлковый тюрбан в награду (ЧБ Ади 4.133), большой тюрбан человека с
-      палкой (ЧБ Мадхья 18.40), тюрбаны из шёлковых тканей с гирляндами (ЧБ Антья 5.347, 5.511), слуги сбрасывают
-      тюрбаны в киртане (ЧБ Мадхья 23.383), пастухи в тюрбанах (Лочан, Шеша ч. 3.175); Мурари 2.13.2 — «тюрбан из новой
-      ткани».
+      Эпоха: Виджай Гупта (1494) — бенгалец носит три ткани, одна из них — тюрбан (Sen 1911, с. 387–388). Жития: синий
+      тюрбан Нитьянанды (ЧБ Мадхья 3.144), шёлковый тюрбан в награду (ЧБ Ади 4.133), большой тюрбан человека с палкой
+      (ЧБ Мадхья 18.40), тюрбаны из шёлковых тканей с гирляндами (ЧБ Антья 5.347, 5.511), слуги сбрасывают тюрбаны в
+      киртане (ЧБ Мадхья 23.383), пастухи в тюрбанах (Лочан, Шеша ч. 3.175); Мурари 2.13.2 — «тюрбан из новой ткани».
+      Ван Даюань (1349): мужчины и женщины Бенгалии носят тонкий хлопковый тюрбан; Ма Хуань (1433) и Фэй Синь (1436):
+      белый хлопковый тюрбан у мужчин; Ма Хуань даёт и тюрбанную ткань — 5 дюймов шириной, 40 футов длиной.
     en: >-
       Period: Vijay Gupta (1494) — a Bengali wears three cloths, one of them a turban (Sen 1911, pp. 387–388).
-      Hagiographies: Nityananda's blue turban (CB Madhya 3.144), a silk turban as a reward (CB Adi 4.133), a big turban
-      on a man with a stick (CB Madhya 18.40), turbans of silk cloths with garlands (CB Antya 5.347, 5.511), servants
-      throwing off their turbans in kirtan (CB Madhya 23.383), cowherds in turbans (Lochana, Shesha pt. 3.175); Murari
-      2.13.2 — "a turban of new cloth".
+      Hagiographies: Nityananda's blue turban (CB Madhya 3.144), a silk turban as a reward (CB Adi 4.133), a big
+      turban on a man with a stick (CB Madhya 18.40), turbans of silk cloths with garlands (CB Antya 5.347, 5.511),
+      servants throwing off their turbans in kirtan (CB Madhya 23.383), cowherds in turbans (Lochana, Shesha pt.
+      3.175); Murari 2.13.2 — "a turban of new cloth". Wang Dayuan (1349): men and women of Bengal wear a fine cotton
+      turban; Ma Huan (1433) and Fei Xin (1436): a white cotton turban for men; Ma Huan also lists turban cloth 5
+      inches wide and 40 feet long.
   text:
     ru: >-
       В XV–XVI вв. бенгальцы, особенно знатные и служилые люди, повязывали голову тюрбаном — отрезом ткани, обёрнутым
@@ -609,7 +659,10 @@
       kirtan threw off their turbans so as not to be recognised. Brahmin scholars and plain village folk often went
       bareheaded.
   hagiography: ["ЧБ Мадхья 3.144", "ЧБ Ади 4.133", "ЧБ Мадхья 18.40", "ЧБ Мадхья 23.383", "ЧБ Антья 5.347", "Лочан, Шеша-кханда, ч. 3, ст. 175", "Мурари 2, сарга 13, ст. 2"]
-  sources: ["Sen 1911, с. 387–388 (Виджай Гупта)"]
+  sources: ["Sen 1911, с. 387–388 (Виджай Гупта)",
+            "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442"]
   images: []
   game: {model: "тюрбан из полосы ткани 4–6 м, обмотанной вокруг головы; у Нитьянанды — синий; у пастухов — небрежно повязанный жёлтый",
          where: ["navadvipa/lane"]}
@@ -661,13 +714,18 @@
   evidence_note:
     ru: >-
       Лочан, Ади-кханда, ч. 10.84–86 (шёлковые сари, каджал, ожерелья, браслеты, пояса с колокольчиками, синдур с
-      каплей сандала, бетель в руке) и ч. 14.135–148 (лифы из тонкой ткани, узел *канада*, жемчуг в золоте, алые кисти по
-      спине, цветы гандхараджа и чампаки в ушах, гребни в волосах). Канчули у поэтов с 1494 г. — Sen 1911, с. 388.
+      каплей сандала, бетель в руке) и ч. 14.135–148 (лифы из тонкой ткани, узел *канада*, жемчуг в золоте, алые кисти
+      по спине, цветы гандхараджа и чампаки в ушах, гребни в волосах). Канчули у поэтов с 1494 г. — Sen 1911, с. 388.
+      Эпоха: Фэй Синь (1436) — серьги с камнями в золоте, подвески на шее, золотые браслеты на запястьях и щиколотках,
+      кольца на пальцах рук и ног (у горожанок Бенгалии); Фитч (1586, Бакла) — много серебряных обручей на шее и
+      руках, на ногах — кольца из серебра, меди и слоновой кости.
     en: >-
       Lochana, Adi-khanda pt. 10.84–86 (silk saris, kajal, necklaces, bangles, belts with bells, sindur with a dot of
       sandal, betel in hand) and pt. 14.135–148 (bodices of fine cloth, the *kanada* knot, pearls set in gold, scarlet
-      tassels down the back, gandharaja and champaka flowers in the ears, combs in the hair). The kanchuli in poets from
-      1494 — Sen 1911, p. 388.
+      tassels down the back, gandharaja and champaka flowers in the ears, combs in the hair). The kanchuli in poets
+      from 1494 — Sen 1911, p. 388. Period: Fei Xin (1436) — earrings set with stones in gold, pendants at the neck,
+      gold bangles on wrists and ankles, rings on fingers and toes (Bengali townswomen); Fitch (1586, Bakla) — many
+      silver hoops on neck and arms, rings of silver, copper and ivory on the legs.
   text:
     ru: >-
       Когда по Надии разнеслась весть о свадьбе Вишвамбхары, горожанки спешно наряжались: шёлковые сари и лифы из
@@ -683,7 +741,9 @@
       and anklets jingled; in the left hand, a folded betel. Young girls ran to see the bridegroom with combs still in
       their hair.
   hagiography: ["Лочан, Ади-кханда, ч. 10, ст. 84–86", "Лочан, Ади-кханда, ч. 14, ст. 135–148"]
-  sources: ["Sen 1911, с. 388–389 (канчули, одна)"]
+  sources: ["Sen 1911, с. 388–389 (канчули, одна)",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 118"]
   images: []
   game: {model: "горожанка: шёлковое сари, лиф-канчули, узел на затылке с жемчужной нитью и алыми кистями, цветок чампаки за ухом, каджал",
          where: ["navadvipa/lane"]}
@@ -730,14 +790,18 @@
   evidence_note:
     ru: >-
       Жития: босые ножки младенца (Лочан Ади ч. 2.136–148; Мурари 1.6.34–35; Карнапура 2.88); «сандалии» — лишь как
-      служение Ананты (ЧЧ Ади 5.123; ЧБ Ади 1.46); сандалии Махапрабху в Баранагаре — позднее предание (Sen 1922, с. 233).
-      Описание кхарам с колышком — Solvyns 1804, pl. XLIV; деревянная обувь в деревне, кожаная лишь в городе — Taylor
-      1840, с. 265; кожаная расшитая обувь мусульман — Barbosa, Stanley 1866, с. 180 (эпоха).
+      служение Ананты (ЧЧ Ади 5.123; ЧБ Ади 1.46); сандалии Махапрабху в Баранагаре — позднее предание (Sen 1922, с.
+      233). Описание кхарам с колышком — Solvyns 1804, pl. XLIV; деревянная обувь в деревне, кожаная лишь в городе —
+      Taylor 1840, с. 265; кожаная расшитая обувь мусульман — Barbosa, Stanley 1866, с. 180 (эпоха). Эпоха: Ма Хуань
+      (1433) и Фэй Синь (1436) — у горожан (прежде всего мусульман) кожаные туфли, низкие, из овечьей кожи с золотой
+      нитью, у щёголей — с узором.
     en: >-
-      Hagiographies: the baby's bare feet (Lochana Adi pt. 2.136–148; Murari 1.6.34–35; Karnapura 2.88); "sandals" only
-      as Ananta's service (CC Adi 5.123; CB Adi 1.46); Mahaprabhu's sandals at Baranagar — later tradition (Sen 1922,
-      p. 233). The pegged kharam — Solvyns 1804, pl. XLIV; wooden footwear in the village, leather only in town —
-      Taylor 1840, p. 265; embroidered leather shoes of Muslims — Barbosa, Stanley 1866, p. 180 (period).
+      Hagiographies: the baby's bare feet (Lochana Adi pt. 2.136–148; Murari 1.6.34–35; Karnapura 2.88); "sandals"
+      only as Ananta's service (CC Adi 5.123; CB Adi 1.46); Mahaprabhu's sandals at Baranagar — later tradition (Sen
+      1922, p. 233). The pegged kharam — Solvyns 1804, pl. XLIV; wooden footwear in the village, leather only in town
+      — Taylor 1840, p. 265; embroidered leather shoes of Muslims — Barbosa, Stanley 1866, p. 180 (period). Period: Ma
+      Huan (1433) and Fei Xin (1436) — townsmen (chiefly Muslims) wear low leather shoes of sheepskin worked with gold
+      thread, the dandies' patterned.
   text:
     ru: >-
       Большинство людей ходили босиком, а женщины из приличных семей обуви почти не носили. Брахманы и почтенные
@@ -752,7 +816,13 @@
       threshold: one entered the house and the Deity's room barefoot. Embroidered leather shoes were worn by Muslims
       and townsfolk.
   hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 136–148", "Мурари 1, сарга 6, ст. 34–35", "ЧЧ Ади 5.123"]
-  sources: ["Solvyns 1804, pl. XLIV, XXXVI", "Taylor 1840, с. 265", "Barbosa, пер. Stanley 1866, с. 180", "Sen 1922, с. 233", "Bose 1881, с. 59–62 (кхарам в дар жениху)"]
+  sources: ["Solvyns 1804, pl. XLIV, XXXVI",
+            "Taylor 1840, с. 265",
+            "Barbosa, пер. Stanley 1866, с. 180",
+            "Sen 1922, с. 233",
+            "Bose 1881, с. 59–62 (кхарам в дар жениху)",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442"]
   images: []
   game: {model: "кхарам: деревянная подошва по форме стопы ≈26×9 см, толщина 2–3 см, колышок-грибок ≈4 см; пара у порога",
          where: ["mishra-house/courtyard", "mishra-house/thakur-ghar"]}

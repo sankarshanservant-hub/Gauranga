@@ -95,11 +95,15 @@
     ru: >-
       Горшки (бханда) с молоком и простоквашей — ЧБ Ади 4.34, 4.101; «горшки и кувшины» — ЧЧ Ади 14.43; новые глиняные
       горшки для подношения — ЧЧ Мадхья 3.53; горшок на очаге — ЧЧ Антья 13.55. Образ горшка, почерневшего от очага, —
-      уже у Криттибаса (XV в.).
+      уже у Криттибаса (XV в.). Эпоха: Линсхотен (1596) — у бенгальцев обычай «никогда не варить пищу дважды в одном
+      горшке, а каждый раз брать новый» (речь о глиняной посуде); Мукундарам (ок. 1590) — бедняк ест из земляной
+      миски-*патхры* и нового глиняного *кхабры*.
     en: >-
       Pots (bhanda) of milk and curd — CB Adi 4.34, 4.101; 'pots and jars' — CC Adi 14.43; new earthen pots for an
       offering — CC Madhya 3.53; a pot on the hearth — CC Antya 13.55. The image of a pot blackened by the hearth
-      already occurs in Krittibasa (15th c.).
+      already occurs in Krittibasa (15th c.). Period: Linschoten (1596) — the Bengalis' custom 'never to cook their
+      food twice in one pot, but each time a new one' (of earthenware); Mukundaram (c. 1590) — a poor man eats from an
+      earthen *pathra* bowl and a new clay *khabra*.
   text:
     ru: >-
       Рис, дал и овощи варили в круглодонных горшках из обожжённой глины; гончары делали их на круге и обжигали
@@ -115,7 +119,9 @@
   sources: ["Sen, Bengali Ramayanas (1920), с. 96 (закопчённый горшок — Криттибас, XV в.)",
             "Bose 1881, с. 155 (глиняные горшки на кухне и в кладовой)",
             "Mukharji 1888, с. 56 (расписные горшки sakher hanri)",
-            "Day 1874, с. 28–29 (кладовая с ханди, полными припасов)"]
+            "Day 1874, с. 28–29 (кладовая с ханди, полными припасов)",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 94",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 36"]
   images: [{file: "material-culture/img/devis-1797-bengal-potter-and-wares.jpg", license: "PD (Public Domain Mark 1.0)", author: "Arthur William Devis (1762–1822), гравёр John Wright", url: "https://wellcomecollection.org/works/ck4y7dp4", note: "ок. 1797 (по рисункам, сделанным в Бенгалии в 1790-е).; Wellcome Collection — 580109i (b15801093; image V0046114)."}]
   game: {model: "ханди Ø 20–35 см, круглое дно, отогнутый венчик, красно-коричневые, закопчённые снизу; стоят на кольцах из соломы",
          where: ["mishra-house/kitchen"], codex: hs_handi}
@@ -129,11 +135,16 @@
       Подношение Кришне на металлическом подносе — ЧЧ Мадхья 3.42; медный кувшин с паном и кувшины для воды — ЧБ
       Мадхья 7.60, 7.83; разбитый железный кувшин Шридхара — ЧЧ Ади 10.68. Колокольная бронза (канса) как сплав и её
       ценность — по позднейшим данным, проверить. По Mukharji 1888, для обрядов в Бенгалии брали медь: кансу считали
-      недостаточно чистой.
+      недостаточно чистой. Эпоха: Фэй Синь (1436) — послов при дворе Пандуа одарили золотыми тазами, кувшинами и
+      чашами; Ма Хуань (1433) — лакированные чаши и миски; Мукундарам (ок. 1590) — рис на золотом блюде у богатого
+      купца. «Рияз ас-салатин» (1788) — о золотых блюдах богачей Гауды при Хусейн-шахе (поздний рассказ).
     en: >-
       An offering to Krishna on a metal plate — CC Madhya 3.42; a copper jar of pan and water jars — CB Madhya 7.60,
       7.83; Shridhara's broken iron pot — CC Adi 10.68. Bell-metal (kansa) as an alloy and its value — later data, to
-      check. Per Mukharji 1888, copper was used for ritual in Bengal: kansa was not thought pure enough.
+      check. Per Mukharji 1888, copper was used for ritual in Bengal: kansa was not thought pure enough. Period: Fei
+      Xin (1436) — envoys at the Pandua court were given gold basins, ewers and cups; Ma Huan (1433) — lacquered bowls
+      and dishes; Mukundaram (c. 1590) — rice on a gold platter in a rich merchant's house. Riyaz-us-Salatin (1788) —
+      on Gauda's rich eating from gold plates under Husain Shah (a late account).
   text:
     ru: >-
       Металлическая посуда была ценностью семьи: тарелки (тхала), чаши (бати), кувшины (гхати, лота) из колокольной
@@ -150,7 +161,10 @@
   sources: ["Mukharji 1888, с. 157 (канса: 4 части меди на 1 олова), 186–192 (обрядовая медная утварь; кухонная латунь hanri, bokno; центры ремесла)",
             "Martin 1838, т. 3, с. 101 (латунь, медь, канса — главная ценность, её зарывают как клад)",
             "Hunter 1875, т. 2, с. 240 (тхала, гхати, гхара)",
-            "Bose 1881, с. 76–77 (тхала с чашечками бати)"]
+            "Bose 1881, с. 76–77 (тхала с чашечками бати)",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 141",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 440"]
   images: []
   game: {model: "кансовое блюдо Ø 30 см (золотисто-серое), латунная лота с узким горлом, медная чаша",
          where: ["mishra-house/kitchen", "mishra-house/thakur-ghar"], codex: hs_brass}
@@ -208,8 +222,14 @@
   rubric: kitchen
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧБ Ади 4.34 (*дха̄нйа, ча̄лу, мугда* — неочищенный рис, рис, мунг); ЧЧ Мадхья 3.39, 3.44; ЧБ Ади 5.35."
-    en: "CB Adi 4.34 (dhanya, chalu, mudga — paddy, husked rice, mung); CC Madhya 3.39, 3.44; CB Adi 5.35."
+    ru: >-
+      ЧБ Ади 4.34 (*дха̄нйа, ча̄лу, мугда* — неочищенный рис, рис, мунг); ЧЧ Мадхья 3.39, 3.44; ЧБ Ади 5.35. Эпоха: Ма
+      Хуань (1433) — рис, бобы, кунжут, «красное просо»; «Айн-и Акбари»: «главная пища — рис и рыба», пшеницу и ячмень
+      не считают здоровыми; Фитч (1586) о Сонаргаоне — живут рисом, молоком и плодами.
+    en: >-
+      CB Adi 4.34 (dhanya, chalu, mudga — paddy, husked rice, mung); CC Madhya 3.39, 3.44; CB Adi 5.35. Period: Ma
+      Huan (1433) — rice, beans, sesame, 'red millet'; Ain-i Akbari: 'the chief food is rice and fish', wheat and
+      barley are thought unwholesome; Fitch (1586) on Sonargaon — they live on rice, milk and fruit.
   text:
     ru: >-
       Основа бенгальской трапезы — варёный рис (бхат), к нему дал из бобов мунг и овощи. В доме держали запасы
@@ -222,7 +242,9 @@
       modest meal as "a little rice, soup, plain vegetables and spinach." Unhusked rice (dhan) together with fresh
       durva grass is also a sign of blessing.
   hagiography: ["ЧБ Ади 4.34", "ЧБ Ади 5.35", "ЧЧ Мадхья 3.39", "ЧЧ Мадхья 3.44", "ЧЧ Ади 13.114"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 119–120"]
   images: []
   game: {model: "корзины и глиняные кувшины с рисом, мунгом; рассыпанное зерно (эпизод шалости)",
          where: ["mishra-house/kitchen", "mishra-house/main-hut"]}
@@ -234,10 +256,14 @@
   evidence_note:
     ru: >-
       Перечень — ЧЧ Мадхья 3.44–54 (угощение в доме Адвайты, ок. 1510). Названия блюд — по переводу; бенгальские
-      названия сверить с оригиналом. Новосветских овощей (картофель, томат, перец чили) в эпоху нет.
+      названия сверить с оригиналом. Новосветских овощей (картофель, томат, перец чили) в эпоху нет. Эпоха: Ма Хуань
+      (1433) — имбирь, горчица, лук, чеснок, огурцы, баклажаны; Мукундарам (ок. 1590) — обед Шивы, рынок Пхуллары и
+      кухня Кхулланы (см. mc-khullana-kitchen).
     en: >-
-      The list — CC Madhya 3.44–54 (the meal at Advaita's house, c. 1510). Dish names follow the translation;
-      Bengali names to be checked with the original. New World vegetables (potato, tomato, chilli) did not exist then.
+      The list — CC Madhya 3.44–54 (the meal at Advaita's house, c. 1510). Dish names follow the translation; Bengali
+      names to be checked with the original. New World vegetables (potato, tomato, chilli) did not exist then. Period:
+      Ma Huan (1433) — ginger, mustard, onion, garlic, cucumbers, aubergines; Mukundaram (c. 1590) — Shiva's meal,
+      Phullara's market and Khullana's kitchen (see mc-khullana-kitchen).
   text:
     ru: >-
       Кришнадас Кавирадж перечисляет, что жена Адвайты приготовила для Махапрабху: патол, тыква-лау, клубни манакачу,
@@ -253,7 +279,9 @@
   sources: ["Sen 1911, с. 608 (списки блюд вайшнавов — ЧЧ Мадхья 3 и 15, Джаянанда)",
             "Sen 1911, с. 247–248 (порядок трапезы: шукта первой — Рамешвара, XVIII в.)",
             "Sen 1911, с. 24 («Дак-вачана»: сезонная еда — горчичное масло, имбирь, ним, кхаи)",
-            "Hunter 1875, т. 2, с. 240–241 (чили и табак в бюджете XIX в. — анахронизм для эпохи)"]
+            "Hunter 1875, т. 2, с. 240–241 (чили и табак в бюджете XIX в. — анахронизм для эпохи)",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 18–19, 35, 140–141"]
   images: []
   game: {model: "набор блюд для сцены трапезы: горка риса, 6–10 чашечек с овощами", where: ["mishra-house/kitchen"],
          notes: "не рисовать красный перец, картофель, томаты"}
@@ -289,10 +317,12 @@
   evidence_note:
     ru: >-
       ЧБ Ади 4.30–34, 4.101; Лочан, Ади-кханда, ч. 2, ст. 121; ч. 4, ст. 367; ЧЧ Мадхья 3.53–54; ЧЧ Антья 6.57–58.
-      Молочницы с простоквашей на рынке — у Мукундарама (XVI в.).
+      Молочницы с простоквашей на рынке — у Мукундарама (XVI в.). Эпоха: Мукундарам (ок. 1590) — простокваша и *кшира*
+      в конце обеда Шивы и у Кхулланы.
     en: >-
       CB Adi 4.30–34, 4.101; Lochana, Adi-khanda pt. 2 v. 121; pt. 4 v. 367; CC Madhya 3.53–54; CC Antya 6.57–58.
-      Dairy-women taking curd to market — in Mukundaram (16th c.).
+      Dairy-women taking curd to market — in Mukundaram (16th c.). Period: Mukundaram (c. 1590) — curd and *kshira* at
+      the end of Shiva's and Khullana's meals.
   text:
     ru: >-
       Молочное — главная роскошь вайшнавского стола. Молоко кипятят и уваривают до густой кхиры (сгущённого молока),
@@ -307,7 +337,8 @@
   hagiography: ["ЧБ Ади 4.30–34", "ЧБ Ади 4.101", "Лочан, Ади-кханда, ч. 2, ст. 121", "Лочан, Ади-кханда, ч. 4, ст. 367",
                 "ЧЧ Мадхья 3.53–54", "ЧЧ Антья 6.57–58"]
   sources: ["Sen 1911, с. 299 (Мукундарам, XVI в.: молочницы несут простоквашу на рынок в кувшинах)",
-            "Day 1874, с. 35 (молоко → сливки, гхи, простокваша, пахта)"]
+            "Day 1874, с. 35 (молоко → сливки, гхи, простокваша, пахта)",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 18–19, 36, 140–141"]
   images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.159", note: "ок. 1890.; The Cleveland Museum of Art — 2003.159; 42 × 26 см."}]
   game: {model: "горшки с молоком/дадхи, подвешенные в верёвочных сетках (шика) от кошек — проверить; маслобойка-мешалка",
          where: ["mishra-house/kitchen"]}
@@ -384,8 +415,16 @@
   rubric: kitchen
   era_evidence: hagiography
   evidence_note:
-    ru: "*гуйа̄, па̄на* — ЧБ Ади 4.21; ЧБ Ади 10.87; медный кувшин с паном — ЧБ Мадхья 7.60; бетель для брахманов — Лочан, Ади-кханда, ч. 14, ст. 89."
-    en: "guya, pana — CB Adi 4.21; CB Adi 10.87; a copper jar of pan — CB Madhya 7.60; betel for brahmins — Lochana, Adi-khanda pt. 14 v. 89."
+    ru: >-
+      *гуйа̄, па̄на* — ЧБ Ади 4.21; ЧБ Ади 10.87; медный кувшин с паном — ЧБ Мадхья 7.60; бетель для брахманов —
+      Лочан, Ади-кханда, ч. 14, ст. 89. Эпоха: Ма Хуань (1433) — в Бенгалии гостей угощают бетелем вместо чая; «Айн-и
+      Акбари» — бенгальский бетель окрашивает губы в красный, в Ориссе — разные сорта бетеля. Конусик *хили* из двух
+      листьев — «Песнь о Маникчандре» (запись 1870-х, Grierson 1878).
+    en: >-
+      guya, pana — CB Adi 4.21; CB Adi 10.87; a copper jar of pan — CB Madhya 7.60; betel for brahmins — Lochana,
+      Adi-khanda pt. 14 v. 89. Period: Ma Huan (1433) — in Bengal guests are offered betel instead of tea; Ain-i
+      Akbari — Bengal betel reddens the lips, Orissa has several kinds. The *khili* cone of two leaves — 'Song of
+      Manikchandra' (recorded 1870s, Grierson 1878).
   text:
     ru: >-
       Лист бетеля, свёрнутый с кусочками ореха арека (гуя) и известью, — знак гостеприимства и благой дар: им
@@ -398,7 +437,8 @@
       puffed rice, bananas, oil and sindur. Pan is also offered to the Lord; in wealthy homes it was kept in copper
       vessels.
   hagiography: ["ЧБ Ади 4.21", "ЧБ Ади 10.87", "ЧБ Мадхья 7.60", "Лочан, Ади-кханда, ч. 14, ст. 89"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 126"]
   images: []
   game: {model: "свёрнутые листья бетеля на подносе, орехи арека", where: ["mishra-house/courtyard"]}
 

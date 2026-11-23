@@ -351,8 +351,14 @@
   rubric: home
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧЧ Ади 14.73–75; Мурари 1.6 (беседа о чистом и нечистом); Лочан, Ади-кханда, ч. 2, ст. 202–203."
-    en: "CC Adi 14.73–75; Murari 1.6 (discourse on pure and impure); Lochana, Adi-khanda pt. 2, vv. 202–203."
+    ru: >-
+      ЧЧ Ади 14.73–75; Мурари 1.6 (беседа о чистом и нечистом); Лочан, Ади-кханда, ч. 2, ст. 202–203. Эпоха: Линсхотен
+      (1596) — бенгальцы не варят дважды в одном глиняном горшке, а каждый раз берут новый: отсюда и груды битых
+      горшков у домов.
+    en: >-
+      CC Adi 14.73–75; Murari 1.6 (discourse on pure and impure); Lochana, Adi-khanda pt. 2, vv. 202–203. Period:
+      Linschoten (1596) — Bengalis never cook twice in one earthen pot but take a new one each time: hence the heaps
+      of broken pots by the houses.
   text:
     ru: >-
       Глиняная кухонная посуда дешева, и оскверневший горшок не отмывают, а выбрасывают: у каждого дома была куча
@@ -366,7 +372,8 @@
       the mind, since everything is pervaded by the Lord. His mother was amazed — but she still sent Him to bathe.
   hagiography: ["ЧЧ Ади 14.73–75", "Мурари 1, сарга 6 (ст. 9–16)", "Лочан, Ади-кханда, ч. 2, ст. 202–203"]
   sources: ["Day 1874, с. 31 (яма для мусора и золы за кухней)",
-            "Hunter 1875, т. 2, с. 240–241 (глиняные горшки — ежемесячная статья расходов)"]
+            "Hunter 1875, т. 2, с. 240–241 (глиняные горшки — ежемесячная статья расходов)",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 94"]
   images: []
   game: {model: "куча черепков и целых закопчённых ханди за кухней, у ограды",
          where: ["mishra-house/backyard"], notes: "место эпизода-вопроса о чистоте (диалог)"}

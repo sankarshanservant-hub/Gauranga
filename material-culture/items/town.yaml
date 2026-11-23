@@ -36,8 +36,14 @@
   rubric: town
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧБ Ади 12.108–112; хлопковое ткачество Бенгалии — PD-источники XIX в. (проверить для эпохи)."
-    en: "CB Adi 12.108–112; Bengali cotton weaving — 19th-c. PD sources (to check for the period)."
+    ru: >-
+      ЧБ Ади 12.108–112; хлопковое ткачество Бенгалии — PD-источники XIX в. (проверить для эпохи). Вартема (ок. 1505):
+      бенгальские ткани «ткут не женщины, а мужчины»; Фэй Синь (1436): мужчины и женщины по сезону работают в поле или
+      ткут; Мукундарам (ок. 1590): ткачи-*джола* в мусульманском квартале.
+    en: >-
+      CB Adi 12.108–112; Bengali cotton weaving — 19th-c. PD sources (to check for the period). Varthema (c. 1505):
+      Bengal cloths are woven 'not by women but by men'; Fei Xin (1436): men and women by season work the fields or
+      weave; Mukundaram (c. 1590): *jola* weavers in the Muslim quarter.
   text:
     ru: >-
       Ткачи Навадвипы ткали хлопковые дхоти, сари и полотна на ручных станках прямо у дома. Когда Нимай попросил отрез
@@ -49,7 +55,10 @@
       good health; pay when You wish." Cloth and clothes were given generously in Bengal: at the birth festival and
       at the wedding clothes were handed out to everyone.
   hagiography: ["ЧБ Ади 12.108–112", "ЧБ Ади 12.85", "ЧБ Ади 15.123"]
-  sources: []
+  sources: ["Varthema (ок. 1505), пер. Jones–Badger 1863, с. 214",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 440",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
   images: [{file: "material-culture/img/devis-1797-bengal-spinning-and-weaving.jpg", license: "PD (Public Domain Mark 1.0)", author: "A. W. Devis, гравёр Peltro William Tomkins", url: "https://wellcomecollection.org/works/p42s3muw", note: "1797.; Wellcome Collection — 46141i (b12039536; image V0024688)."}]
   game: {model: "ямный ручной станок под навесом, мотки пряжи", where: ["navadvipa/market"]}
   todo: "тип станка в Бенгалии ок. 1500 (ямный?) — PD (Mukharji 1888)"

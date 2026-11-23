@@ -543,13 +543,15 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Ступени сахара — семя, тростник, сок, гур, кханда, сара, шаркара, сита, мичхри, лучший мичхри — ЧЧ Мадхья
-      19.179 (= Мадхья 23.39) как образ ступеней бхакти; «жевать сахарный тростник» — ЧЧ Антья 4.238. Описание
-      выварки — Dutt 1877, с. 265–266.
+      Ступени сахара — семя, тростник, сок, гур, кханда, сара, шаркара, сита, мичхри, лучший мичхри — ЧЧ Мадхья 19.179
+      (= Мадхья 23.39) как образ ступеней бхакти; «жевать сахарный тростник» — ЧЧ Антья 4.238. Описание выварки — Dutt
+      1877, с. 265–266. Эпоха: Ма Хуань (1433) — сахарный тростник, сахар и мёд среди плодов Бенгалии; Барбоза (ок.
+      1516) — плантации сахарного тростника.
     en: >-
       The stages of sugar — seed, cane, juice, gur, khanda, sara, sharkara, sita, michhri, best michhri — CC Madhya
       19.179 (= Madhya 23.39) as an image of the stages of bhakti; "chewing sugarcane" — CC Antya 4.238. Boiling
-      described in Dutt 1877, pp. 265–266.
+      described in Dutt 1877, pp. 265–266. Period: Ma Huan (1433) — sugarcane, sugar and honey among Bengal's produce;
+      Barbosa (c. 1516) — sugarcane plantations.
   text:
     ru: >-
       Сахарный тростник (санскр. икшу, бенг. акх) растёт высокими, в два человеческих роста, зарослями с узкими
@@ -564,7 +566,9 @@
       pan over a pit hearth into thick brown treacle, gur. How gur then becomes khanda, sugar and mishri — see mc-sugar;
       Krishnadasa Kaviraja compares these stages of sweetness to the stages of devotion.
   hagiography: ["ЧЧ Мадхья 19.179", "ЧЧ Мадхья 23.39", "ЧЧ Антья 4.238"]
-  sources: ["Dutt 1877, с. 265–266 (Saccharum officinarum)"]
+  sources: ["Dutt 1877, с. 265–266 (Saccharum officinarum)",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Barbosa (ок. 1516), пер. Stanley 1866, с. 179"]
   images: []
   game: {model: "заросль тростника 3–4 м; деревянный пресс на быке; широкий железный котёл над ямным очагом",
          where: ["navadvipa/fields"]}
@@ -576,12 +580,16 @@
   evidence_note:
     ru: >-
       Горчичное масло среди даров женщинам после рождения Господа — ЧБ Ади 4.21; горчичное масло для массажа
-      бенгальским вайшнавам — ЧЧ Мадхья 25.199; кунжутные сладости — ЧЧ Мадхья 14.31; нос «как цветок кунжута» — ЧЧ Ади
-      3.44. Сведения о маслобойне (гхани) — по описаниям XIX в.
+      бенгальским вайшнавам — ЧЧ Мадхья 25.199; кунжутные сладости — ЧЧ Мадхья 14.31; нос «как цветок кунжута» — ЧЧ
+      Ади 3.44. Сведения о маслобойне (гхани) — по описаниям XIX в. Эпоха: Ма Хуань (1433) — кунжут и горчица среди
+      культур Бенгалии; Федеричи (1569) — кунжутное масло (*zerzeline*) из Ориссы и Сатгаона, «очень хорошее в пищу и
+      рыбу на нём жарить».
     en: >-
       Mustard oil among gifts to the women after the Lord's birth — CB Adi 4.21; mustard oil for massage for the
       Bengali Vaishnavas — CC Madhya 25.199; sesame sweets — CC Madhya 14.31; a nose "like a sesame flower" — CC Adi
-      3.44. The oil-press (ghani) after 19th-c. accounts.
+      3.44. The oil-press (ghani) after 19th-c. accounts. Period: Ma Huan (1433) — sesame and mustard among Bengal's
+      crops; Federici (1569) — sesame oil (*zerzeline*) from Orissa and Satgaon, 'very good to eat and to fry fish
+      with'.
   text:
     ru: >-
       Зимой поля Бенгалии становятся ярко-жёлтыми: цветёт горчица (бенг. сориша). Из её семян давят острое горчичное
@@ -596,7 +604,8 @@
       crop: its oil (taila — the very word for "oil" comes from tila) goes into lamps and medicines, and the seeds into
       sweets. Oil was pressed in a wooden mill turned by an ox walking in a circle.
   hagiography: ["ЧБ Ади 4.21", "ЧЧ Мадхья 25.199", "ЧЧ Мадхья 14.31", "ЧЧ Ади 3.44"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409–411"]
   images: []
   game: {model: "поле жёлтой горчицы; деревянная маслобойня-гхани с волом и шестом", where: ["navadvipa/fields", "navadvipa/oil-press"]}
   todo: "проверить в житиях маслобойщиков (тели); источник XIX в. о гхани (Risley? Martin?)"

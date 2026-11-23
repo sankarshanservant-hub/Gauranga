@@ -36,11 +36,16 @@
     ru: >-
       Расшитые сари среди даров — ЧЧ Ади 13.113; край сари — Лочан, Ади-кханда, ч. 3, ст. 271; ч. 4, ст. 359.
       Лиф-канчули — у поэтов от Виджая Гупты (1494) до XVIII в. (Sen 1911, с. 388–389). Белое сари с красной каймой —
-      по позднейшим данным.
+      по позднейшим данным. Эпоха: Фэй Синь (1436, по посольству 1415 г.) — женщины Бенгалии носят короткую рубашку и
+      обёрнутый кусок хлопка, шёлка или парчи, косметикой не пользуются, волосы собраны узлом на затылке. «Короткая
+      рубашка» — свидетельство лифа под тканью уже в XV в. (ср. канчули у Виджая Гупты).
     en: >-
       Embroidered saris among the gifts — CC Adi 13.113; the end of the sari — Lochana, Adi-khanda pt. 3 v. 271; pt. 4
       v. 359. The kanchuli bodice — in poets from Vijay Gupta (1494) to the 18th c. (Sen 1911, pp. 388–389). The white
-      sari with a red border follows later data.
+      sari with a red border follows later data. Period: Fei Xin (1436, from the 1415 embassy) — Bengali women wear a
+      short shirt and a wrapped length of cotton, silk or brocade, use no cosmetics, and gather their hair in a knot
+      at the back. The 'short shirt' attests a bodice under the wrap already in the 15th c. (cf. Vijaya Gupta's
+      *kanchuli*).
   text:
     ru: >-
       Женщины носили сари — несшитое полотно в несколько локтей, обёрнутое вокруг тела и переброшенное через плечо;
@@ -56,7 +61,9 @@
       later. Saris were of cotton, and for the wealthy of silk and embroidered: such were the ones Sita Thakurani brought.
   hagiography: ["ЧЧ Ади 13.113", "Лочан, Ади-кханда, ч. 3, ст. 271", "Лочан, Ади-кханда, ч. 4, ст. 359"]
   images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.159", note: "ок. 1890.; The Cleveland Museum of Art — 2003.159; 42 × 26 см."}]
-  sources: ["Sen 1911, с. 388–389 (канчули, одна, нивибандха — XV–XVIII вв.)", "Bose 1881, с. 293 (сари 5 ярдов с цветной каймой — XIX в.)"]
+  sources: ["Sen 1911, с. 388–389 (канчули, одна, нивибандха — XV–XVIII вв.)",
+            "Bose 1881, с. 293 (сари 5 ярдов с цветной каймой — XIX в.)",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
   game: {model: "простое хлопковое сари (белое/небелёное, цветная кайма); у знатных — лиф-канчули; край на голове у замужних",
          where: ["mishra-house/courtyard"], codex: hs_sari}
   todo: "покрой канчули XV–XVI вв. (терракоты XVII в.?); носили ли его простые брахманки"
@@ -92,11 +99,16 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Жёлтое полотно Нимая — ЧБ Ади 12.243; свадебное *трикаччха* — ЧБ Ади 15.130; заштопанная одежда Шридхара — ЧБ Ади
-      12.185–186; «платок» (уттарья) в дарах — ЧБ Ади 15.166.
+      Жёлтое полотно Нимая — ЧБ Ади 12.243; свадебное *трикаччха* — ЧБ Ади 15.130; заштопанная одежда Шридхара — ЧБ
+      Ади 12.185–186; «платок» (уттарья) в дарах — ЧБ Ади 15.166. Внежитийно: Фитч (1586) в Гауде, Бакле и Сонаргаоне
+      — люди ходят «с маленькой тканью вокруг пояса», остальное тело открыто; «Айн-и Акбари» (1590-е): мужчины и
+      женщины большей частью носят лишь ткань вокруг бёдер — это одежда простого люда, а не знати.
     en: >-
-      Nimai's yellow cloth — CB Adi 12.243; the wedding trikaccha — CB Adi 15.130; Shridhara's patched clothes — CB Adi
-      12.185–186; a cloth (uttariya) among gifts — CB Adi 15.166.
+      Nimai's yellow cloth — CB Adi 12.243; the wedding trikaccha — CB Adi 15.130; Shridhara's patched clothes — CB
+      Adi 12.185–186; a cloth (uttariya) among gifts — CB Adi 15.166. Outside the hagiographies: Fitch (1586) in
+      Gauda, Bakla and Sonargaon — people go 'with a little cloth bound about their middle', the rest of the body
+      bare; the Ain-i Akbari (1590s): men and women mostly wear only a cloth about the loins — the dress of common
+      folk, not of the gentry.
   text:
     ru: >-
       Мужская одежда — два несшитых полотна: дхоти, обёрнутое вокруг пояса и подоткнутое между ног и сзади (у
@@ -112,7 +124,11 @@
       turban and shawl. Until the 16th c., says Sen, Bengalis wore their hair long and scented — and Nimai had long hair
       until His sannyasa.
   hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130", "ЧБ Ади 12.185–186", "ЧБ Ади 15.166"]
-  sources: ["Sen 1911, с. 387–389 (Виджай Гупта: дхоти, тюрбан, покрывало; длинные волосы до XVI в.)", "Hunter 1875, т. 2, с. 240 (дхоти, чадар, гамчха — XIX в.)", "Sen, Folk-Literature (1920), с. 100 (обычный костюм — дхоти и чадар)"]
+  sources: ["Sen 1911, с. 387–389 (Виджай Гупта: дхоти, тюрбан, покрывало; длинные волосы до XVI в.)",
+            "Hunter 1875, т. 2, с. 240 (дхоти, чадар, гамчха — XIX в.)",
+            "Sen, Folk-Literature (1920), с. 100 (обычный костюм — дхоти и чадар)",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 111, 118–120",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122"]
   images: [{file: "material-culture/img/kalighat-1890-nitai-and-gaur-cma.jpg", license: "CC0 1.0", author: "художник-патуа Калигхата", url: "https://clevelandart.org/art/2003.154", note: "ок. 1890.; The Cleveland Museum of Art — 2003.154 (Gift of William E. Ward in memory of his wife, Evelyn Svec Ward). Гуммитемпера, графит, тушь, олово на бумаге; 45,4 × 27,8 см."},
            {file: "material-culture/img/calcutta-art-studio-chaitanya-devotees-kirtan-chromolitho.jpg", license: "PD (Public Domain Mark 1.0)", author: "Calcutta Art Studio (185 Bowbazar Street, Calcutta)", url: "https://wellcomecollection.org/works/cqkxvkhr", note: "ок. 1880-х (в каталоге без даты; студия работала с 1878).; Wellcome Collection — 26213i (b11840602; image V0045019)."}]
   game: {model: "белое/небелёное хлопковое дхоти до щиколоток, уттарья через левое плечо; у Нимая — жёлтое",
@@ -124,8 +140,16 @@
   rubric: dress
   era_evidence: hagiography
   evidence_note:
-    ru: "Тилака — ЧБ Ади 12.245, 15.128; шнур — ЧБ Ади 8.14, 8.186; Лочан, Ади-кханда, ч. 1, ст. 85 (тилака из горочаны). Форма вайшнавской тилаки в эпоху — проверить."
-    en: "Tilaka — CB Adi 12.245, 15.128; sacred thread — CB Adi 8.14, 8.186; Lochana, Adi-khanda pt. 1 v. 85 (gorochana tilaka). The form of Vaishnava tilaka in the period — to check."
+    ru: >-
+      Тилака — ЧБ Ади 12.245, 15.128; шнур — ЧБ Ади 8.14, 8.186; Лочан, Ади-кханда, ч. 1, ст. 85 (тилака из горочаны).
+      Форма вайшнавской тилаки в эпоху — проверить. Вне Бенгалии: Фитч (1586) на Ганге между Агрой и Бенаресом —
+      брахманы каждое утро ставят метки на лоб, уши и горло «жёлтой массой», входят в реку со шнуром и перебирают его
+      при молитве.
+    en: >-
+      Tilaka — CB Adi 12.245, 15.128; sacred thread — CB Adi 8.14, 8.186; Lochana, Adi-khanda pt. 1 v. 85 (gorochana
+      tilaka). The form of Vaishnava tilaka in the period — to check. Outside Bengal: Fitch (1586) on the Ganga
+      between Agra and Benares — Brahmins each morning mark forehead, ears and throat with 'a yellow paste', enter the
+      river with the sacred thread and finger it in prayer.
   text:
     ru: >-
       Облик брахмана-вайшнава: на лбу тилака — знак, нанесённый глиной, сандалом или горочаной; на макушке оставлен пучок
@@ -136,7 +160,7 @@
       (shikha) left on the crown; a white cotton thread over the left shoulder, received at the upanayana. Nimai's
       forehead bore a tilaka and He carried books; at the wedding a crescent of sandal with aguru was drawn on Him.
   hagiography: ["ЧБ Мадхья 7.63 (*ӯрдхва-пун̣д̣ра* из сандала)", "ЧЧ Мадхья 18.14 (тилака глиной Радха-кунды)", "ЧБ Ади 12.245", "ЧБ Ади 15.128", "ЧБ Ади 8.14", "ЧБ Ади 8.186", "Лочан, Ади-кханда, ч. 1, ст. 85"]
-  sources: []
+  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 100–101"]
   images: [{file: "material-culture/img/belnos-1851-tilaka-signs-of-brahmins.jpg", license: "PD (Public Domain Mark 1.0)", author: "Sophie Charlotte Belnos", url: "https://wellcomecollection.org/works/f2877av8", note: "1851 (London: Day & Son).; Wellcome Collection — 580611i (b1580611x; image V0046127)."},
            {file: "material-culture/img/company-brahmin-japa-beads.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестный индийский художник", url: "https://wellcomecollection.org/works/k2zgf6ww", note: "XIX в. (1800–1899?).; Wellcome Collection — 576052i (b15760522; image V0045540)."}]
   game: {model: "тилака — вертикальная (форма уточнить), шикха, шнур через левое плечо", where: []}
