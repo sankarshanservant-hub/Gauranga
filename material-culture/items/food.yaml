@@ -1348,3 +1348,294 @@
   game: {model: "большой глиняный горшок с рисом; горка белого риса на банановом листе с лужицами жёлтого гхи",
          where: ["mishra-house/kitchen"]}
   todo: "мана в Бенгалии XVI в. — мера объёма/веса (≈ 40 серов?) — уточнить; «три мана» — явная гипербола для пира"
+
+- id: mc-meal-serving
+  title: {ru: "Как подавали трапезу: гора риса и чашечки по кругу", en: "How a meal was served: the rice mound and the ring of cups"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 3.43–57 (рис горой посередине банановых листьев, *вйан̃джана-д̣он̇га̄* вокруг, по 100 чашечек, пайас и молоко
+      в новых горшках по бокам, туласи-манджари сверху, три кувшина воды, сиденья под тканью); 15.207–220 (то же у
+      Сарвабхаумы: *кейа̄патра-кала̄кхола̄-д̣он̇га̄ са̄ри са̄ри*); Антья 12.125–126; ЧБ Антья 4.281–283 (у Шачи: рис и блюда
+      рядами по обе стороны, сиденье посередине). Порядок «горькое → … → кислое → сладкое» — Амиш 1902, с. 21–22; Sen 1911,
+      с. 247–248 (Рамешвара, XVIII в.); соль и вода у листа — Day 1874, с. 40–42.
+    en: >-
+      CC Madhya 3.43–57 (rice mound in the middle of banana leaves, cups around, a hundred cups each, payasa and milk in
+      new pots at the sides, tulasi buds on top, three water jars, seats under cloth); 15.207–220 (the same at
+      Sarvabhauma's, cups of ketaki leaf and banana bark in rows); Antya 12.125–126; CB Antya 4.281–283. Order "bitter →
+      … → sour → sweet" — Amish 1902 pp. 21–22; Sen 1911 pp. 247–248; salt and water by the leaf — Day 1874 pp. 40–42.
+  text:
+    ru: >-
+      На цельный банановый лист кладут посередине горку риса, политую гхи, а вокруг ставят «донги» — чашечки из коры
+      банана или листьев кетаки с овощами, далом, бадами; по бокам — горшки с пайасом, сгущённым молоком, простоквашей;
+      рядом — кувшин с прохладной водой, на краю листа — щепоть соли и долька лимона. Едят по порядку: сначала
+      горькое (шукта) с рисом, потом зелень, жареное, дал и овощи, затем кислое, и в конце — сладкое. Всё, что
+      приготовлено, сначала подносят Кришне с цветками туласи — и уже прасад подают гостю.
+    en: >-
+      On a whole banana leaf a mound of rice drizzled with ghee is placed in the middle, and around it stand "dongas" —
+      cups of banana bark or ketaki leaf with vegetables, dal and badas; at the sides pots of payasa, thickened milk and
+      curd; nearby a jar of cool water, and at the edge of the leaf a pinch of salt and a slice of lemon. One eats in
+      order: first the bitter (shukta) with rice, then greens, fried things, dal and vegetables, then the sour, and
+      sweets last. Everything cooked is first offered to Krishna with tulasi buds — only then is the prasada served.
+  hagiography: ["ЧЧ Мадхья 3.43–57", "ЧЧ Мадхья 15.207–220", "ЧЧ Антья 12.125–126", "ЧБ Антья 4.281–289"]
+  sources: ["Амиш 1902, с. 21–22 (рис в центре; слева жареное и бады, справа — чашки от шуктани до сладкого; на пиру — банановый лист и глиняные «кхури»; соль и лимон на краю)",
+            "Sen 1911, с. 247–248 (порядок трапезы по Рамешваре)", "Day 1874, с. 40–42 (слева — кувшин воды, справа — соль)"]
+  images: []
+  game: {model: "раскладка на листе: горка риса в центре; 8–12 чашечек вокруг; кувшин слева; соль и лимон на краю",
+         where: ["mishra-house/kitchen", "mishra-house/courtyard"], notes: "интерактивно: игрок «ест по порядку»"}
+
+- id: mc-meal-times
+  title: {ru: "Когда ели: распорядок дня и трапез", en: "When people ate: the daily round of meals"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 14.158–170 (Ганга → омовение → *нитйа-карма* (служение домашнему Божеству) → трапеза → бетель и беседа);
+      ЧЧ Мадхья 15.222 (*мадхйа̄хна карийа̄* — Господь приходит обедать, завершив полуденные обязанности), Антья 12.122–124
+      («приду в полдень»), Мадхья 15.225 (пир приготовлен за *дуи прахара*), 15.239 (Джаганнатха ест *ба̄йа̄нна ба̄ра* — 52 раза
+      в день), 15.241 (во Врадже — *двисандхйа̄-бходжана*, утром и вечером), Антья 10.132 (вечером — немного сладостей),
+      Антья 6.74 (днём — пир, вечером — в доме Рагхавы), Антья 6.310 (Рагхунатха дас — еда и сон «не более четырёх данд»).
+      Утренний час «до девяти» для трапезы домохозяина — Bose 1881, с. 28 (XIX в.).
+    en: >-
+      CB Adi 14.158–170 (Ganga bath → household Deity worship → meal → betel and talk); CC Madhya 15.222, Antya
+      12.122–124 (meal at midday); Madhya 15.225; 15.239 (Jagannatha eats 52 times a day); 15.241 (in Vraja, morning and
+      evening meals); Antya 10.132 (a few sweets in the evening); Antya 6.74; Antya 6.310. The householder's meal before
+      nine — Bose 1881 p. 28 (19th c.).
+  text:
+    ru: >-
+      День вайшнава-домохозяина строится вокруг служения. Утром — омовение в Ганге, затем поклонение домашнему
+      Божеству; главную, полуденную трапезу (мадхьяхна) начинают лишь тогда, когда Господу поднесли бхогу. Вечером едят
+      легче — молоко, сладости, лёгкие блюда. Сам Махапрабху в Пури приходил обедать в полдень, «завершив полуденные
+      обязанности», а вечером Сварупа Дамодара давал Ему понемногу сладостей из мешков Рагхавы. Джаганнатхе же в храме
+      подносят пищу 52 раза в день.
+    en: >-
+      A Vaishnava householder's day is built around service. In the morning — a bath in the Ganga, then worship of the
+      household Deity; the main, midday meal (madhyahna) begins only after bhoga has been offered to the Lord. In the
+      evening one eats lighter — milk, sweets, light dishes. Mahaprabhu Himself in Puri came to dine at noon, "having
+      finished His midday duties", and in the evening Svarupa Damodara gave Him a few sweets from Raghava's bags.
+      Jagannatha in the temple is offered food 52 times a day.
+  hagiography: ["ЧБ Ади 14.158–170", "ЧЧ Мадхья 15.222–225", "ЧЧ Мадхья 15.239–241", "ЧЧ Антья 6.74", "ЧЧ Антья 6.310",
+                "ЧЧ Антья 10.132", "ЧЧ Антья 12.122–124"]
+  sources: ["Bose 1881, с. 13–14, 28 (утро: омовение, служение в тхакур-гхаре, затем завтрак; еда к девяти)"]
+  images: []
+  game: {model: "смена освещения: утро — Ганга и алтарь; полдень — трапеза; вечер — лампады и молоко",
+         where: ["mishra-house/thakur-ghar", "mishra-house/kitchen"], notes: "часы игры: прахара и данда (1 данда ≈ 24 мин)"}
+
+- id: mc-eating-etiquette
+  title: {ru: "За трапезой: рядами, Господь первым, омовение рта", en: "At the meal: rows, the Lord first, rinsing the mouth"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Омовение стоп гостя перед едой — ЧЧ Мадхья 15.223, Антья 12.124; ряды — Мадхья 14.39 (*па̄̐ти па̄̐ти*), Антья 6.60–70
+      (*ман̣д̣алӣ* — кругами); никто не начинает раньше Господа — Мадхья 14.40–41; Господь не ест без Джагадананды —
+      Антья 12.127–129; раздают хозяева (*паривеш́ана*) — Мадхья 14.39, Антья 6.70 (20 раздатчиков); *а̄чамана* после еды —
+      Мадхья 14.43, Антья 12.140, ЧБ Ади 8.167, Антья 5.91; *мукхава̄са* (пряности для рта), гирлянда, сандал — Антья 12.140;
+      бетель — ЧБ Ади 14.170. Хозяйка ест последней — Sen 1911, с. 246. Правая рука — общее правило; прямой PD-цитаты пока
+      нет (Day 1874, с. 40–42: кувшин воды слева от листа).
+    en: >-
+      Washing the guest's feet before the meal — CC Madhya 15.223, Antya 12.124; rows — Madhya 14.39, Antya 6.60–70;
+      no one starts before the Lord — Madhya 14.40–41; the Lord will not eat without Jagadananda — Antya 12.127–129;
+      hosts serve — Madhya 14.39, Antya 6.70; achamana after eating — Madhya 14.43, Antya 12.140, CB Adi 8.167, Antya
+      5.91; mukhavasa, garland, sandal — Antya 12.140; betel — CB Adi 14.170. The housewife eats last — Sen 1911 p. 246.
+      The right hand — a general rule; no direct PD quote yet.
+  text:
+    ru: >-
+      Гостю сперва омывают стопы и усаживают на пиди или циновку; едят, сидя на полу рядами или кругом, перед каждым — свой
+      лист. Хозяин и хозяйка не едят с гостями: они раздают, снова и снова подкладывая, — а сами едят после, хозяйка —
+      последней. Никто не начинает, пока не начал старший или святой: в саду у Гундичи бхакты ждали, пока сядет есть
+      Господь. Едят правой рукой, не касаясь чужого листа; после — встают, полощут рот и моют руки (ачамана), а хозяин
+      подносит пряности для свежести рта, бетель, сандал и гирлянду.
+    en: >-
+      The guest's feet are washed first, and he is seated on a pidi or mat; people eat sitting on the floor in rows or a
+      circle, each before his own leaf. The host and hostess do not eat with the guests: they serve, again and again
+      adding more — and eat afterwards, the hostess last. No one begins until the elder or the saint has begun: in the
+      garden at Gundicha the devotees waited until the Lord sat down to eat. One eats with the right hand, never touching
+      another's leaf; afterwards one rises, rinses the mouth and washes the hands (achamana), and the host offers spices
+      to freshen the mouth, betel, sandal paste and a garland.
+  hagiography: ["ЧЧ Мадхья 14.39–43", "ЧЧ Мадхья 15.223", "ЧЧ Антья 6.60–70", "ЧЧ Антья 12.124–140", "ЧБ Ади 8.167",
+                "ЧБ Ади 14.170", "ЧБ Антья 5.91"]
+  sources: ["Sen 1911, с. 246 (хозяйка ест последней)", "Day 1874, с. 40–42 (ряды на веранде, лист, кувшин, полоскание у пруда, пан)"]
+  images: []
+  game: {model: "ряды сидящих на полу с листами; хозяйка с корзиной и половником обходит ряд", where: ["mishra-house/courtyard"]}
+  todo: "PD-цитата о еде правой рукой и запрете левой (Ward 1817? Dubois 1817 — Южная Индия)"
+
+- id: mc-shesha-prasad
+  title: {ru: "Шеша — остатки трапезы Господа", en: "Shesha — the remnants of the Lord's meal"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *уччхиш̣т̣а-бха̄джана* — ЧЧ Антья 10.151 (Господь отдаёт остатки Чайтанье дасу); *прабхура ш́еш̣а* — Антья 12.147–149
+      (Джагадананда раздаёт остатки Рамаю, Нандаю, Говинде, Рагхунатхе Бхатте и ест сам); Антья 12.53 (семье Шивананды —
+      ежедневно тарелку остатков); Мадхья 15.230–237 (Господь: «Я удачлив, ибо вкушу остатки Кришны»; «уччхишта-бходжино
+      дасах» — ШБ 11.6.46); остатки — бедным: Мадхья 14.43–44. Нечистота обычных объедков (уччхишта) — общая норма.
+    en: >-
+      uchchhishta-bhajana — CC Antya 10.151 (the Lord gives His remnants to Chaitanya dasa); prabhura shesha — Antya
+      12.147–149; Antya 12.53 (a plate of remnants daily to Shivananda's family); Madhya 15.230–237 ("I am fortunate to
+      eat Krishna's remnants"; SB 11.6.46); remnants to the poor — Madhya 14.43–44.
+  text:
+    ru: >-
+      Обычные объедки (уччхишта) нечисты: к чужому листу не прикасаются, остатки выбрасывают вместе с листом. Но остатки
+      трапезы Господа — «шеша», «адхарамрита» — величайшая милость: их ждут, делят по крупице и едят с благоговением.
+      Джагадананда, накормив Махапрабху, раздал Его остатки Рамаю, Нандаю, Говинде и Рагхунатхе Бхатте и лишь потом
+      поел сам; жене и детям Шивананды Сена в Пури Господь велел ежедневно посылать тарелку Своих остатков. А то, что
+      остаётся от прасада на пиру, раздают нищим — так Говинда кормил бедняков в саду у Гундичи.
+    en: >-
+      Ordinary leftovers (uchchhishta) are impure: no one touches another's leaf, and remains are thrown away with the
+      leaf. But the remnants of the Lord's meal — "shesha", "adharamrita" — are the greatest mercy: they are awaited,
+      shared crumb by crumb and eaten with reverence. Jagadananda, after feeding Mahaprabhu, distributed His remnants to
+      Ramai, Nandai, Govinda and Raghunatha Bhatta and only then ate himself; the Lord had a plate of His remnants sent
+      daily to Shivananda Sena's wife and children in Puri. What is left of the prasada at a feast goes to the poor — so
+      Govinda fed the destitute in the garden at Gundicha.
+  hagiography: ["ЧЧ Мадхья 14.43–45", "ЧЧ Мадхья 15.230–237", "ЧЧ Антья 10.151", "ЧЧ Антья 12.53", "ЧЧ Антья 12.144–149"]
+  sources: []
+  images: []
+  game: {model: "лист с остатками трапезы Господа, который бережно несут в руках", where: ["puri/gambhira"]}
+
+- id: mc-ekadashi
+  title: {ru: "Экадаши — пост без зерна", en: "Ekadashi — the grain fast"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Ади 15.9–10 (Нимай просит мать не есть зерна в экадаши — с тех пор она постится), Ади 14.39 и ЧБ Ади 6.21–29 (в
+      экадаши Джагадиша и Хиранья постятся, но готовят зерновую бхогу Вишну; Нимай «болеет» и просит её); ЧБ Ади 16.261
+      (в экадаши не спят и поют имена); Лочан, Ади ч. 8, ст. 618; ЧЧ Мадхья 24.335–337 (Санатане велено описать соблюдение
+      экадаши; не поститься в «смешанный» экадаши); «хавишья» в магх — барамасья Джаянанды (строфа 12). Вдовий пост в
+      экадаши — Bose 1881, с. 237 (XIX в.).
+    en: >-
+      CC Adi 15.9–10 (Nimai asks His mother not to eat grain on Ekadashi), Adi 14.39 and CB Adi 6.21–29 (Jagadisha and
+      Hiranya fast but cook grain bhoga for Vishnu; Nimai "falls ill" and asks for it); CB Adi 16.261 (night-long
+      kirtan); Lochana Adi pt. 8 v. 618; CC Madhya 24.335–337; havishya in Magha — Jayananda's baramasya (st. 12).
+      Widows' fast on Ekadashi — Bose 1881 p. 237.
+  text:
+    ru: >-
+      Дважды в месяц, на одиннадцатый лунный день, вайшнавы не едят зерна — риса, пшеницы, бобовых: едят плоды, молоко,
+      коренья или вовсе постятся, ночь проводят в киртане. Маленький Нимай взял с матери обещание не есть зерна в
+      экадаши — и Шачи с тех пор соблюдала пост. Но Вишну и в экадаши подносят полную бхогу: однажды Нимай, сказавшись
+      больным, потребовал зерновое подношение, которое приготовили для Вишну постившиеся Джагадиша и Хиранья, — и съел его.
+      Наутро, в двадаши, пост прерывают в положенный час.
+    en: >-
+      Twice a month, on the eleventh lunar day, Vaishnavas eat no grain — rice, wheat, pulses: they eat fruit, milk and
+      roots, or fast completely, and spend the night in kirtan. Little Nimai made His mother promise not to eat grain on
+      Ekadashi — and Shachi kept the fast from then on. Yet Vishnu receives full bhoga even on Ekadashi: once Nimai,
+      pretending to be ill, demanded the grain offering that the fasting Jagadisha and Hiranya had cooked for Vishnu — and
+      ate it. The next morning, on Dvadashi, the fast is broken at the proper hour.
+  hagiography: ["ЧЧ Ади 14.39", "ЧЧ Ади 15.9–10", "ЧБ Ади 6.21–29", "ЧБ Ади 16.261", "Лочан, Ади-кханда, ч. 8, ст. 618",
+                "ЧЧ Мадхья 24.335–337", "Джаянанда, барамасья (Васу 1897), строфа 12"]
+  sources: ["Bose 1881, с. 237 (вдовы постятся в экадаши)"]
+  images: []
+  game: {model: "в день экадаши на листе — только фрукты, молоко, коренья; ночной киртан", where: ["mishra-house/courtyard"]}
+
+- id: mc-bhiksha
+  title: {ru: "Бхикша санньяси: как кормился Господь", en: "A sannyasi's bhiksha: how the Lord was fed"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *бхикш̣а̄* — приглашение санньяси на трапезу: ЧЧ Мадхья 15.205 (комната для бхикши Господа у Сарвабхаумы), Антья 12.122
+      («сегодня дай Мне бхикшу»), Антья 10.152–155 (дни бхикши Гададхары и Сарвабхаумы; брахманы-преданные готовят *гхара-бха̄та*,
+      не-брахманы покупают прасад Джаганнатхи на *кауд̣и дуи-пан̣а* — 160 каури), Антья 10.140–141; *ма̄дхукарӣ* — Мадхья
+      15.243 (Сарвабхаума: «прими один ма̄дхукарӣ-кусочек»); Мадхавендра Пури — *айа̄чита* (не просит), Мадхья 4.120–125;
+      Рагхунатха дас: подаяние у Львиных ворот → *чхатра* (раздача) → промытый лежалый рис, Антья 6.284–325; сбор подаяния
+      по пути — «Амрита-праваха-бхашья» к Мадхья 4 (резюме).
+    en: >-
+      bhiksha — inviting a sannyasi to a meal: CC Madhya 15.205, Antya 12.122, Antya 10.152–155 (days fixed for Gadadhara
+      and Sarvabhauma; brahmin devotees cook home rice, others buy Jagannatha prasada for two panas of cowries), Antya
+      10.140–141; madhukari — Madhya 15.243; Madhavendra Puri's ayachita vow — Madhya 4.120–125; Raghunatha dasa: begging
+      at the Lion Gate → the chhatra → washed stale rice, Antya 6.284–325.
+  text:
+    ru: >-
+      Санньяси не готовит себе сам: он принимает бхикшу — приглашение на трапезу в доме домохозяина — или собирает понемногу
+      из многих домов, как пчела (мадхукари). В Пури у Махапрабху были дни, закреплённые за Сарвабхаумой и Гададхарой;
+      брахманы-преданные варили для Него домашний рис, а другие покупали прасад Джаганнатхи за две паны каури. Мадхавендра
+      Пури держал обет «не просить», а Рагхунатха дас дошёл до крайнего отречения: собирал выброшенный лежалый прасад,
+      промывал и ел твёрдые зёрна с солью — и Господь, отняв горсть, сказал, что вкуснее прасада не пробовал.
+    en: >-
+      A sannyasi does not cook for himself: he accepts bhiksha — an invitation to eat at a householder's — or gathers a
+      little from many houses, like a bee (madhukari). In Puri Mahaprabhu had days assigned to Sarvabhauma and Gadadhara;
+      brahmin devotees cooked home rice for Him, and others bought Jagannatha's prasada for two panas of cowries.
+      Madhavendra Puri kept the vow "never to ask", and Raghunatha dasa reached the extreme of renunciation: he collected
+      discarded stale prasada, washed it and ate the hard grains with salt — and the Lord, snatching a handful, said He had
+      never tasted sweeter prasada.
+  hagiography: ["ЧЧ Мадхья 4.120–125", "ЧЧ Мадхья 15.205", "ЧЧ Мадхья 15.243", "ЧЧ Антья 6.284–325",
+                "ЧЧ Антья 10.140–141", "ЧЧ Антья 10.152–155", "ЧЧ Антья 12.122"]
+  sources: ["«Амрита-праваха-бхашья» к ЧЧ Мадхья 4 (Господь по пути собирает подаяние)",
+            "«Анубхашья» к ЧЧ Антья 6.270 (аштапана — восемь пан = 640 каури)"]
+  images: []
+  game: {model: "санньяси с водяным сосудом (карангой) у двери; отдельная комната для бхикши с двумя дверями",
+         where: ["puri/sarvabhauma-house", "puri/lion-gate"]}
+
+- id: mc-food-prices
+  title: {ru: "Сколько стоила еда: каури, ганды и паны", en: "What food cost: cowries, gandas and panas"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Кокос на рынке — *па̄̐ча ган̣д̣а̄* (5 ганда × 4 = 20 каури), лучший у Рагхавы — *ча̄ри пан̣а* (4 × 80 = 320 каури) — ЧЧ Мадхья
+      15.70–72 (в переводе «двадцать пайсов», «триста пайсов» — анахронизм); прасад Джаганнатхи на угощение Господа — *кауд̣и
+      дуи-пан̣а* (160 каури) — Антья 10.155; *а̄ш̣т̣а-пан̣а* (640 каури, «восемь анн» — «Анубхашья») — Антья 6.270; продажа
+      прасада лавочниками (*паса̄ри*) у Львиных ворот — Антья 6.315; дорогой прасад, купленный Шиванандой, — Антья 10.146.
+      Счёт: 4 каури = 1 ганда, 20 ганд = 1 пана (80 каури). См. mc-cowrie-money.
+    en: >-
+      A coconut in the market — 5 gandas (20 cowries); Raghava's best — 4 panas (320 cowries) each — CC Madhya
+      15.70–72 (the translation's "paise" is an anachronism); Jagannatha prasada for the Lord's meal — two panas of
+      cowries (160) — Antya 10.155; eight panas (640 cowries, "eight annas" per Anubhashya) — Antya 6.270; prasada
+      sold by shopkeepers at the Lion Gate — Antya 6.315. Reckoning: 4 cowries = 1 ganda, 20 gandas = 1 pana.
+  text:
+    ru: >-
+      Мелкие покупки на рынке считали раковинами-каури: четыре каури — «ганда», двадцать ганд — «пана» (80 каури). Обычный
+      кокос стоил пять ганд — двадцать раковин; Рагхава же за самые сладкие кокосы платил по четыре паны — в шестнадцать
+      раз дороже. Чтобы угостить Господа, не-брахманы покупали в Пури у Львиных ворот прасад Джаганнатхи примерно на две
+      паны. Непроданный рис лавочники через пару дней выбрасывали коровам — его-то и собирал Рагхунатха дас.
+    en: >-
+      Small market purchases were reckoned in cowrie shells: four cowries made a "ganda", twenty gandas a "pana" (80
+      cowries). An ordinary coconut cost five gandas — twenty shells; Raghava paid four panas for the sweetest coconuts —
+      sixteen times as much. To treat the Lord, non-brahmins bought Jagannatha's prasada at the Lion Gate in Puri for
+      about two panas. Unsold rice was thrown to the cows after a couple of days — and that is what Raghunatha dasa
+      collected.
+  hagiography: ["ЧЧ Мадхья 15.70–72", "ЧЧ Антья 6.270", "ЧЧ Антья 6.315–316", "ЧЧ Антья 10.146", "ЧЧ Антья 10.155"]
+  sources: ["«Анубхашья» к ЧЧ Антья 6.270 (8 пан = 640 каури = 8 анн)"]
+  images: []
+  game: {model: "кучки каури по 4 (ганда) на тряпице у торговца кокосами", where: ["navadvipa/market", "puri/lion-gate"],
+         notes: "игровой курс: кокос 20 каури; угощение прасадом 160 каури"}
+
+- id: mc-travel-food
+  title: {ru: "Еда в пути: что брали паломники", en: "Food on the road: what pilgrims carried"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мешки Рагхавы (*джха̄ли*) с долго хранящимися сладостями, соленьями, чидой и худумом — ЧЧ Антья 10.13–40 (см.
+      mc-raghava-jhali); Шивананда Сен ведёт отряд, устраивает ночлег и платит пошлины — Антья 12.16–17 (см. mc-ferries-tolls);
+      бенгальцы привозят приправы и деликатесы и готовят Господу «из них» — Антья 12.63; запасы, сохранившие вкус месяц
+      (*ма̄секера ва̄си*) — Антья 10.125–126; Мадхавендра Пури на базаре в Ремуне, не прося, — Мадхья 4.121–135; постоялый
+      двор с сырыми дровами и рисом с камешками — баллада (Sen 1920, с. 198–199, 214–215; поздн.).
+    en: >-
+      Raghava's bags with long-keeping sweets, pickles, chida and hurum — CC Antya 10.13–40 (see mc-raghava-jhali);
+      Shivananda Sena leads the party, arranges lodging and pays tolls — Antya 12.16–17; the Bengalis bring relishes and
+      delicacies and cook for the Lord with them — Antya 12.63; provisions a month old that kept their taste — Antya
+      10.125–126; Madhavendra Puri sitting in the Remuna market without begging — Madhya 4.121–135; an inn with wet fuel
+      and gritty rice — ballad (Sen 1920).
+  text:
+    ru: >-
+      Дорога из Гауды в Пури занимала недели, и паломники несли с собой то, что не портится: рисовые хлопья и воздушный
+      рис, сухие наду и кхаи в сиропе, сахар, соленья в горчичном масле, сушёные бади и горькую зелень для шукты. На
+      ночёвках рис и дал варили сами на временном очаге из трёх камней или брали на постоялом дворе — где хозяйка могла
+      подсунуть сырые дрова и рис с камешками. Санньяси вроде Мадхавендры Пури шли налегке, принимая, что дадут без
+      просьбы; а отряд бенгальских вайшнавов вёл Шивананда Сен — он находил ночлег и платил на переправах за всех.
+    en: >-
+      The road from Gauda to Puri took weeks, and pilgrims carried what does not spoil: flattened and puffed rice, dry
+      nadu and syrup-coated khai, sugar, pickles in mustard oil, dried bari and bitter greens for shukta. At night halts
+      they cooked rice and dal themselves on a makeshift hearth of three stones or got them at an inn — where the hostess
+      might palm off wet fuel and gritty rice. Sannyasis like Madhavendra Puri travelled light, accepting what was given
+      unasked; and the party of Bengali Vaishnavas was led by Shivananda Sena, who found lodgings and paid at the ferries
+      for everyone.
+  hagiography: ["ЧЧ Мадхья 4.121–135", "ЧЧ Антья 10.13–40", "ЧЧ Антья 10.125–126", "ЧЧ Антья 12.16–17", "ЧЧ Антья 12.63"]
+  sources: ["Sen 1920 (FLB), с. 198–199, 214–215 (постоялый двор: сырые дрова, рис с камешками)",
+            "Sen 1911, с. 266 (очаг из трёх кокосов/камней — «Манаса-мангал»)"]
+  images: []
+  game: {model: "дорожный узел: мешочки с чидой и кхаи, горшочек с соленьем, медный сосуд для воды; очаг из трёх камней",
+         where: ["road/gauda-puri"]}
