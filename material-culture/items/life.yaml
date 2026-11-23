@@ -466,3 +466,304 @@
   game: {model: "озвучка: бенгальский (запад/восток), санскритные шлоки, ория, персидский при дворе",
          where: ["navadvipa/lane", "ganga-ghat"], notes: "диалектный юмор Нимая — реплики NPC"}
   todo: "Письменности (бенгальская, ория, деванагари, арабская вязь) — отдельная карточка или в mc-manuscript-ink?"
+
+# ── Огонь и ночь ────────────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-fire-making
+  title: {ru: "Как добывали и хранили огонь", en: "How fire was made and kept"}
+  rubric: home
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      В житиях добывание огня не описано (поиск `кремен|огниво|разжёг|угли` — пусто). Реконструкция по Day 1874, p. 8:
+      мешочек с двумя-тремя кремнями, железное кресало и кусочки *шолы* (сердцевина *Aeschynomene*, «индийская
+      пробка»), от искры зажигают серную спичку и лампаду с горчичным маслом и хлопковым фитилём (серная спичка ⚠ —
+      поздн.). Сохранение огня в очаге и золе, «угли от соседей» — этнография, не проверено по PD (todo).
+      Священный огонь обрядов — mc-upanayana, mc-wedding-rite; очаг — mc-chula, топливо — mc-fuel.
+    en: >-
+      The hagiographies do not describe fire-making (search for flint / striker / kindled / embers — empty).
+      Reconstruction after Day 1874, p. 8: a pouch with two or three flints, an iron striker and bits of *shola* (pith
+      of *Aeschynomene*, 'Indian cork'); the spark lights a sulphur match and a lamp of mustard oil with a cotton wick
+      (sulphur match ⚠ — late). Keeping fire in the hearth and ashes, 'embers from the neighbours' — ethnography, not
+      yet checked in PD (todo). Sacred fire of the rites — mc-upanayana, mc-wedding-rite; hearth — mc-chula, fuel —
+      mc-fuel.
+  text:
+    ru: >-
+      Спичек не было: огонь высекали. В углу хижины хранится мешочек с кремнями, железным кресалом и лёгкой белой
+      сердцевиной болотного растения шолы — от искры она начинает тлеть, и от неё раздувают огонь или зажигают
+      фитиль глиняной лампады. Но высекать огонь каждый раз хлопотно, поэтому хозяйка с вечера присыпает угли в очаге
+      золой, а утром раздувает их через трубку или просто дыханием; если огонь всё же погас — идут за угольком к
+      соседям, неся его в черепке. Огонь в доме не простой: в него совершают возлияния при обрядах, и над ним готовят
+      пищу для Вишну.
+    en: >-
+      There were no matches: fire was struck. In a corner of the hut is a pouch with flints, an iron striker and the
+      light white pith of the marsh plant shola — a spark sets it smouldering, and from it a flame is blown up or the
+      wick of a clay lamp is lit. But striking fire every time is troublesome, so in the evening the housewife banks
+      the embers in the hearth with ash and in the morning blows them up through a pipe or simply with her breath; if
+      the fire has gone out after all, one goes to the neighbours for an ember, carrying it in a potsherd. Fire in the
+      house is no ordinary thing: offerings are poured into it at the rites, and over it food is cooked for Vishnu.
+  hagiography: []
+  sources: ["Lal Behari Day, Bengal Peasant Life (Govinda Samanta), 1874/1916, p. 8"]
+  images: []
+  game: {model: "мешочек из джута: 2 кремня (3–4 см), железное кресало-скоба (≈ 8 см), палочки шолы (белые, ⌀ 1–2 см)",
+         where: ["mishra-house/kitchen"], notes: "игровое действие «высечь огонь» — 2–3 удара, искра в шолу"}
+  todo: "Найти PD-свидетельство о хранении огня и «угольке от соседей» (Ward 1815? Risley?); бенгальское название кресала (чакмаки?)."
+
+- id: mc-torches
+  title: {ru: "Факелы и горшки с маслом", en: "Torches and pots of oil"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Факелы в ночном шествии к Кази: «каждый старался сделать факел побольше», сын готовит свой, хотя отец уже
+      сделал; запасные факелы; «наполнили большие горшки маслом и взяли с собой»; хлопали в ладоши, держа факел и
+      горшок — ЧБ Мадхья 23.125–139, 23.163–164, 23.224; ЧЧ Ади 17.134. Шриман Пандит держит факел во время ночного
+      киртана — ЧЧ Ади 10.37, ЧБ Антья 8.21, ЧБ Мадхья 18.11; Сварупа с преданными ищут Господа с факелами — ЧЧ
+      Антья 17.14; «огненный круг от вращения факела» (*алата-чакра*) — ЧЧ Мадхья 13.82, 20.391; факелы на свадьбе
+      — ЧБ Ади 15.144. Устройство факела (тряпьё на палке) — реконструкция. Шествие как событие — mc-kazi-nagar-kirtan.
+    en: >-
+      Torches in the night procession to the Kazi: 'each tried to make the biggest torch', a son makes his own though
+      his father has already made one; spare torches; 'they filled big pots with oil and took them along'; they
+      clapped while holding torch and pot — CB Madhya 23.125–139, 23.163–164, 23.224; CC Adi 17.134. Shriman Pandita
+      holds the torch during night kirtan — CC Adi 10.37, CB Antya 8.21, CB Madhya 18.11; Svarupa and the devotees
+      search for the Lord with torches — CC Antya 17.14; 'the circle of fire from a whirled torch' (*alata-chakra*) —
+      CC Madhya 13.82, 20.391; torches at the wedding — CB Adi 15.144. The torch's construction (rags on a stick) —
+      reconstruction. The procession as an event — mc-kazi-nagar-kirtan.
+  text:
+    ru: >-
+      Ночью улицы Навадвипы темны, и свет несут с собой. Факел — палка или бамбуковое древко с туго намотанной тряпкой;
+      его окунают в масло, а рядом идёт человек с глиняным горшком масла и подливает, чтобы огонь не угас. В ночь
+      шествия к дому Кази каждый дом готовил свой факел — побольше, чем у соседа, — и запасные; город осветился так,
+      что сияние смешалось с лунным светом. На ночных киртанах у Шриваса факел держит Шриман Пандит, освещая танец
+      Господа. Если быстро крутить факел, в темноте видится сплошной огненный круг — этим образом Кавирадж поясняет,
+      как игры Кришны одна за другой проходят по вселенным.
+    en: >-
+      At night the streets of Navadvipa are dark, and people carry their light with them. A torch is a stick or bamboo
+      staff with a rag wound tight round it; it is dipped in oil, and beside it walks a man with an earthen pot of oil
+      who keeps topping it up so the flame does not die. On the night of the procession to the Kazi's house every home
+      prepared its torch — bigger than the neighbour's — and spare ones; the city blazed so that the glow mingled with
+      the moonlight. At the night kirtans in Shrivasa's house Shriman Pandita holds the torch, lighting the Lord's
+      dance. Whirl a torch fast and in the dark you see an unbroken ring of fire — with this image Kaviraja explains
+      how Krishna's pastimes pass one after another through the universes.
+  hagiography: ["ЧБ Мадхья 23.125–139", "ЧБ Мадхья 23.163–164", "ЧБ Мадхья 23.224", "ЧЧ Ади 17.134", "ЧЧ Ади 10.37",
+                "ЧБ Антья 8.21", "ЧБ Мадхья 18.11", "ЧЧ Антья 17.14", "ЧЧ Мадхья 13.82", "ЧЧ Мадхья 20.391",
+                "ЧБ Ади 15.144"]
+  sources: []
+  images: []
+  game: {model: "факел: бамбук 1,2–1,5 м, обмотка из тряпья 25–30 см; глиняный горшок с маслом на верёвочной ручке",
+         where: ["navadvipa/lane", "shrivasa-house/courtyard"], notes: "динамический свет; частицы искр"}
+  todo: "Бенгальское слово для факела в ЧБ Мадхья 23 (*маш́а̄ла*? *дэут̣и*?) — сверить по транслиту."
+
+- id: mc-night
+  title: {ru: "Ночь: темнота, звуки, страх и киртан", en: "Night: darkness, sounds, fear and kirtan"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рыбак в Пури ловит рыбу один по ночам и не боится духов, потому что помнит Нрисимху (ЧЧ Антья 18.57); разбойники
+      ждут, пока дом уснёт, просыпаются от карканья ворон на рассвете (ЧБ Антья 5.543–559, 5.570); ночные бдения с
+      песнями Мангала-Чанди (ЧБ Ади 2.64; ЧЧ Ади 17.205); ночной киртан за закрытыми дверями — mc-house-kirtan;
+      «с наступлением темноты вернулся Рамананда, и всю ночь говорили о Кришне» (ЧЧ Мадхья 9.328); счёт ночи
+      прахарами — mc-danda-prahara. Шакал — ночной вор тростника (Day 1874, p. 223) и см. mc-jackal.
+    en: >-
+      A fisherman in Puri fishes alone at night and is not afraid of ghosts because he remembers Nrisimha (CC Antya
+      18.57); robbers wait for the house to fall asleep and wake at dawn to the cawing of crows (CB Antya 5.543–559,
+      5.570); night vigils with songs of Mangala-Chandi (CB Adi 2.64; CC Adi 17.205); night kirtan behind closed doors
+      — mc-house-kirtan; 'when darkness fell Ramananda returned, and all night they spoke of Krishna' (CC Madhya
+      9.328); reckoning the night by praharas — mc-danda-prahara. The jackal as night thief of sugarcane (Day 1874,
+      p. 223) and see mc-jackal.
+  text:
+    ru: >-
+      С заходом солнца деревня погружается в почти полную темноту: только лампада у туласи да красный отсвет очагов.
+      Лампадное масло дорого, и после ужина большинство ложится спать; слышны вой шакалов, сверчки, плеск рыбы в
+      пруду, лай собак. Ночь — время страхов: говорят о духах, что бродят у воды и на пустырях, о ворах, которые
+      дожидаются, пока дом уснёт. Но ночь — и время самого сокровенного: за закрытыми дверями дома Шриваса до
+      рассвета звучит киртан, а в Пури Господь всю ночь говорит о Кришне с Раманандой. «Я ловлю рыбу один по ночам, и
+      духи меня не трогают, потому что я помню Нрисимху», — говорит простой рыбак.
+    en: >-
+      After sunset the village sinks into near-total darkness: only the lamp at the tulasi and the red glow of
+      hearths. Lamp oil is costly, and after supper most people go to sleep; one hears jackals howling, crickets, fish
+      splashing in the pond, dogs barking. Night is a time of fears: people talk of spirits that roam by the water and
+      on waste ground, of thieves who wait for the house to sleep. But night is also the time of what is most
+      intimate: behind the closed doors of Shrivasa's house kirtan resounds until dawn, and in Puri the Lord speaks of
+      Krishna with Ramananda all night. 'I fish alone at night, and the ghosts don't touch me because I remember
+      Nrisimha,' says a simple fisherman.
+  hagiography: ["ЧЧ Антья 18.57", "ЧБ Антья 5.543–570", "ЧБ Ади 2.64", "ЧЧ Ади 17.205", "ЧЧ Мадхья 9.328"]
+  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 223"]
+  images: []
+  game: {model: "ночной режим карты: темнота, точки света (лампады, очаги), звуковой фон", where: ["navadvipa/lane",
+         "mishra-house/courtyard"], notes: "звуки: шакалы, сверчки, лягушки в дожди, сова"}
+
+- id: mc-watchmen
+  title: {ru: "Стража и сторожа", en: "Guards and watchmen"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Стражники Кази водят Харидаса по 22 рынкам (ЧБ Ади 16.101–128); стражник Кази с обожжённой бородой (ЧЧ Ади
+      17.190); храмовый стражник в Пури хватает Нитьянанду за руку (ЧБ Антья 3.195–202); «пятеро стражей днём и
+      ночью» (ЧЧ Мадхья 16.229); чудесная стража вокруг дома Хираньи (ЧБ Антья 5.571–579, 5.664–668); пограничная
+      застава Ориссы (ЧЧ Мадхья 16.156–161). Слова: *пайк* — пеший воин, гонец, деревенский сторож, в Катаке —
+      местное ополчение на служебной земле; *чаукидар* — сторож (поздн. перс. форма); у сторожа XIX в. — копьё, щит и
+      меч — HJ 1903, s.v. PYKE, CHOKIDAR.
+    en: >-
+      The Kazi's guards lead Haridasa through 22 markets (CB Adi 16.101–128); the Kazi's guard with the burnt beard (CC
+      Adi 17.190); a temple guard in Puri grabs Nityananda's arm (CB Antya 3.195–202); 'five guards day and night' (CC
+      Madhya 16.229); the miraculous guard round Hiranya's house (CB Antya 5.571–579, 5.664–668); the Orissan border
+      post (CC Madhya 16.156–161). Words: *paik* — foot-soldier, courier, village watchman, in Cuttack a local militia
+      on service land; *chaukidar* — watchman (later Persian form); the 19th-c. watchman carries spear, shield and
+      sword — HJ 1903, s.v. PYKE, CHOKIDAR.
+  text:
+    ru: >-
+      Порядок держат пешие стражники — пайки — с палками, копьями и щитами. Они служат кази и наместнику: хватают,
+      кого велено, водят провинившегося по рынкам, ходят по городу в ночные часы. В Пури у храмовых дверей стоят свои
+      стражники — один попытался удержать Нитьянанду за руку и отлетел на несколько шагов. На границе Ориссы и Гауды
+      — заставы с воинами, где проверяют каждого путника. А богатые дома нанимают сторожей; про дом Хираньи
+      разбойники рассказывали, что его всю ночь окружали рослые воины в гирляндах, певшие имена Кришны, — так
+      Нитьянанда хранил приютивший Его дом.
+    en: >-
+      Order is kept by foot guards — paiks — with staves, spears and shields. They serve the qazi and the governor:
+      they seize whom they are told, lead an offender round the markets, walk the town in the night watches. In Puri
+      the temple doors have their own guards — one tried to hold Nityananda by the arm and was flung several paces.
+      On the border of Orissa and Gauda there are posts with soldiers where every traveller is checked. Rich houses
+      hire watchmen; of Hiranya's house the robbers told that all night it was ringed by tall warriors in garlands
+      singing Krishna's names — so Nityananda guarded the house that sheltered Him.
+  hagiography: ["ЧБ Ади 16.101–128", "ЧЧ Ади 17.190", "ЧБ Антья 3.195–202", "ЧЧ Мадхья 16.229",
+                "ЧБ Антья 5.571–579", "ЧБ Антья 5.664–668", "ЧЧ Мадхья 16.156–161"]
+  sources: ["Hobson-Jobson, 1903, s.v. PYKE, CHOKIDAR"]
+  images: []
+  game: {model: "пайк: дхоти, повязка на голове, бамбуковая палка-латхи 1,8 м или копьё, круглый щит из кожи ⌀ 45 см",
+         where: ["navadvipa/lane", "puri/temple"], notes: "NPC-патруль ночью с факелом"}
+  todo: "Слово для стражника в ЧБ Ади 16 (*пайка*? *пэйада*?) — сверить по транслиту."
+
+# ── Преступления, оружие, война ─────────────────────────────────────────────────────────────────────────
+
+- id: mc-dacoits
+  title: {ru: "Разбойники и воры", en: "Robbers and thieves"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Шайка брахмана-разбойника в Навадвипе: выслеживает украшения Нитьянанды, ждёт ночи, оружие — мечи, щиты, ножи,
+      трезубцы; перед «делом» поклоняются Чанди вином и мясом; второй раз выходят «в синих одеждах» — ЧБ Антья
+      5.526–600 (особенно 5.537–544, 5.565–570). Разбойники на речном пути в Ориссу — ЧБ Антья 2.135–136; на дорогах
+      за Варанаси одинокого бенгальца ловят и заставляют работать — ЧЧ Антья 13.34–35; совет брать спутников «от воров
+      и грабителей» — ЧЧ Мадхья 7.16; воры-похитители ребёнка — mc-child-thieves. Отравление путников дурманом
+      *дхатура* — ЧЧ Мадхья 18.164–165, 18.181–182 (подозрение патанов); дурман дхатура у воров Индии — Гарсиа да
+      Орта (1563), по HJ 1903, s.v. DATURA.
+    en: >-
+      The gang of a brahmin robber in Navadvipa: it stalks Nityananda's ornaments, waits for night; weapons — swords,
+      shields, knives, tridents; before the 'job' they worship Chandi with wine and meat; the second time they set out
+      'in blue clothes' — CB Antya 5.526–600 (esp. 5.537–544, 5.565–570). Robbers on the river route to Orissa — CB
+      Antya 2.135–136; on the roads beyond Varanasi a lone Bengali is caught and made to work — CC Antya 13.34–35;
+      advice to take companions 'because of thieves and robbers' — CC Madhya 7.16; child-snatching thieves —
+      mc-child-thieves. Poisoning travellers with *dhatura* — CC Madhya 18.164–165, 18.181–182 (the Pathans'
+      suspicion); dhatura used by Indian thieves — Garcia da Orta (1563), via HJ 1903, s.v. DATURA.
+  text:
+    ru: >-
+      Дороги и даже улицы были небезопасны. В Навадвипе жил брахман по рождению, глава шайки: заметив на Нитьянанде
+      золото, кораллы и жемчуг, он собрал своих людей с мечами, щитами, ножами и трезубцами и ночью подкрался к дому
+      Хираньи Пандита. Разбойники верили, что удачу им даёт богиня Чанди, и перед набегом приносили ей вино и мясо; на
+      второй набег вышли в синих одеждах, «как герои», — но так и не смогли войти, а в конце концов их главарь
+      раскаялся у стоп Нитьянанды. На дальних дорогах путников опаивали дурманом дхатуры и грабили; поэтому Господу
+      советуют не ходить в одиночку, а паломники идут большими партиями.
+    en: >-
+      Roads and even streets were unsafe. In Navadvipa lived a man brahmin by birth, the head of a gang: seeing gold,
+      coral and pearls on Nityananda, he gathered his men with swords, shields, knives and tridents and crept up at
+      night to Hiranya Pandita's house. The robbers believed goddess Chandi gave them their luck, and before a raid
+      offered her wine and meat; for the second raid they set out in blue clothes, 'like heroes' — but could never get
+      in, and in the end their chief repented at Nityananda's feet. On distant roads travellers were drugged with
+      dhatura and robbed; so the Lord is advised not to walk alone, and pilgrims travel in large parties.
+  hagiography: ["ЧБ Антья 5.526–600", "ЧБ Антья 2.135–136", "ЧЧ Антья 13.34–35", "ЧЧ Мадхья 7.16",
+                "ЧЧ Мадхья 18.164–182"]
+  sources: ["Hobson-Jobson, 1903, s.v. DATURA (Garcia da Orta, 1563)"]
+  images: []
+  game: {model: "разбойники в тёмно-синих дхоти и повязках, мечи-кхарга, круглые щиты, ножи, трезубцы; цветок и
+         коробочка дхатуры", where: ["navadvipa/lane"], notes: "сцена «ночной набег» — неудачный; без крови"}
+
+- id: mc-weapons-pathans
+  title: {ru: "Оружие и конники-патаны", en: "Weapons and Pathan horsemen"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Десять всадников-патанов из войска, спешиваются, хватают спутников Господа, грозят казнью; брахман взывает
+      «во имя царя» и к *сикдару* (начальнику); Кришнадас-раджпут: «у меня в деревне двести турок и сотня *ка̄ма̄н*»
+      (*ка̄ма̄на* — у ВЧД «пушки»; перс. *kamān* — «лук»: возможно, «сотня лучников/луков» — спорно), «по сигналу
+      рожка заберут ваших коней и сёдла»; принц Виджали Кхан, патана-вайшнавы — ЧЧ Мадхья 18.163–212. Оружие
+      разбойников — ЧБ Антья 5.542–544, 5.569; помост с мечами — mc-revenue-collector; шестирукий облик с луком — ЧЧ
+      Ади 17.13. Слоны и кони знати — mc-elephants-horses.
+    en: >-
+      Ten Pathan horsemen of the army dismount, seize the Lord's companions and threaten them with death; the brahmin
+      appeals 'in the king's name' and to the *sikdar* (commander); the Rajput Krishnadasa: 'in my village I have two
+      hundred Turks and a hundred *kaman*' (*kamana* — 'cannons' in the VCD rendering; Persian *kamān* = 'bow': possibly
+      'a hundred bows/archers' — disputed), 'at the horn's signal they'll take your horses and saddles'; prince Vijali
+      Khan, the Pathan Vaishnavas — CC Madhya 18.163–212. Robbers' weapons — CB Antya 5.542–544, 5.569; the platform
+      with swords — mc-revenue-collector; the six-armed form with a bow — CC Adi 17.13. Elephants and horses of the
+      nobility — mc-elephants-horses.
+  text:
+    ru: >-
+      Оружие у каждого сословия своё. Разбойники и ночные сторожа — с мечами, щитами, ножами и трезубцами, пайки — с
+      палками и копьями. Сила султанов — конница: на пути из Матхуры в Праягу на Господа, упавшего без чувств, наткнулись десять
+      всадников-патанов — афганских воинов, — решили, что спутники опоили и обобрали монаха, и уже собирались их
+      казнить. Сопровождавший Господа раджпут Кришнадас пригрозил, что по звуку его рожка прибегут двести «турок» с
+      оружием. Но когда Махапрабху очнулся с громким «Хари!», патаны сами пали к Его стопам, а их молодой
+      предводитель Виджали Кхан стал великим преданным.
+    en: >-
+      Each class has its own weapons. Robbers and night watchmen carry swords, shields, knives and tridents; paiks,
+      staves and spears. The Sultans' strength is cavalry: on the road from Mathura to Prayaga ten Pathan horsemen — Afghan soldiers — came
+      upon the Lord lying unconscious, decided His companions had drugged and robbed the monk, and were about to
+      execute them. The Rajput Krishnadasa who accompanied the Lord threatened that at the sound of his horn two
+      hundred armed 'Turks' would come running. But when Mahaprabhu came to with a loud 'Hari!', the Pathans
+      themselves fell at His feet, and their young leader Vijali Khan became a great devotee.
+  hagiography: ["ЧЧ Мадхья 18.163–212", "ЧБ Антья 5.542–544", "ЧБ Антья 5.569", "ЧЧ Ади 17.13"]
+  sources: []
+  images: []
+  game: {model: "всадник-патан: тюрбан, длинная рубаха, кривая сабля, круглый щит, конь; рожок-синга",
+         where: ["travel/prayaga-road"], notes: "одежда патанов XVI в. — реконструкция, сверить по миниатюрам"}
+  todo: "*ка̄ма̄на* в ЧЧ Мадхья 18.173: пушки или луки? (огнестрельное оружие в Северной Индии до 1526 г. — редкость). Вопрос к специалисту."
+
+- id: mc-gauda-orissa-war
+  title: {ru: "Граница Гауды и Ориссы: война, заставы, переправы", en: "The Gauda–Orissa border: war, outposts, ferries"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Два царства на грани войны» — ЧБ Антья 2.11–13; Рамачандра Кхан: «люди царя вкопали на дорогах острые пики;
+      незнакомца обвиняют в шпионаже и казнят», переправа тайно ночью — ЧБ Антья 2.95–102; султан идёт войной на
+      Ориссу, Санатана отказывается — ЧЧ Мадхья 19.24–30; граница при возвращении Господа (1514–15): орисский
+      наместник, «мусульманский правитель-пьяница» до Пичхалады, шпион-индус, перемирие, условие «прийти безоружным,
+      не более семи слуг», десять сторожевых судов против разбойников, опасная река Мантрешвар — ЧЧ Мадхья
+      16.156–200. Катак — столица Пратапарудры (ЧЧ Мадхья 12.5). Сам султан — mc-sultan-gauda.
+    en: >-
+      'The two kingdoms are on the brink of war' — CB Antya 2.11–13; Ramachandra Khan: 'the king's men have planted
+      sharp spikes on the roads; a stranger is accused of spying and executed', a secret night crossing — CB Antya
+      2.95–102; the Sultan makes war on Orissa, Sanatana refuses — CC Madhya 19.24–30; the border on the Lord's return
+      (1514–15): the Orissan governor, 'the drunken Muslim ruler' as far as Pichhalada, a Hindu spy, a truce, the
+      condition 'come unarmed with no more than seven servants', ten guard boats against robbers, the dangerous
+      Mantreshvara river — CC Madhya 16.156–200. Cuttack — Prataparudra's capital (CC Madhya 12.5). The Sultan himself —
+      mc-sultan-gauda.
+  text:
+    ru: >-
+      Все годы жизни Господа в Пури между мусульманской Гаудой и индусской Ориссой шла то война, то настороженный мир.
+      Граница проходила по рекам юго-западной Бенгалии; на дорогах стояли заставы, вкопанные пики преграждали путь,
+      незнакомца могли схватить как лазутчика. Паломники пробирались тайно, ночью, на лодках — Рамачандра Кхан
+      рисковал всем, переправляя Махапрабху. А когда Господь возвращался в Бенгалию, мусульманский правитель
+      пограничья, услышав о Нём от своего шпиона, сам пришёл без оружия, всего с семью слугами, заключил перемирие с
+      орисским наместником и под охраной десяти судов перевёз Махапрабху через опасную реку — война отступила перед
+      киртаном.
+    en: >-
+      Throughout the years of the Lord's life in Puri, Muslim Gauda and Hindu Orissa were now at war, now in a wary
+      peace. The border ran along the rivers of south-western Bengal; there were outposts on the roads, planted spikes
+      barred the way, a stranger could be seized as a spy. Pilgrims slipped through secretly, at night, by boat —
+      Ramachandra Khan risked everything to ferry Mahaprabhu across. And when the Lord returned to Bengal, the Muslim
+      ruler of the borderland, hearing of Him from his spy, came himself unarmed with only seven servants, made a truce
+      with the Orissan governor and under the guard of ten boats ferried Mahaprabhu over the dangerous river — war
+      gave way before kirtan.
+  hagiography: ["ЧБ Антья 2.11–13", "ЧБ Антья 2.95–102", "ЧЧ Мадхья 19.24–30", "ЧЧ Мадхья 16.156–200",
+                "ЧЧ Мадхья 12.5"]
+  sources: []
+  images: []
+  game: {model: "застава: бамбуковый частокол, навес, заострённые колья у дороги; украшенное судно с каютой",
+         where: ["travel/orissa-border"], notes: "сюжетный уровень «переход границы» ночью"}
+  todo: "Хронология войн Хуссейн-шаха с Ориссой (ок. 1508–1515) — по PD (Stewart 1813, Hunter Orissa 1872) для раздела 13."
