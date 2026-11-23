@@ -832,6 +832,7 @@ let shotN = 0;
 function autoShot() { if (window.__shot) window.__shot(++shotN); }
 async function autoExplore() {
   for (const id of ['hs_tulasi', 'hs_handi', 'hs_chala']) { await walkToHotspot(id); await sleep(300); }
+  for (const id of ['hs_chula_in', 'hs_altar']) { await walkToHotspot(id); await sleep(600); autoShot(); $('card').hidden = true; }
   toggleHighlight(); await sleep(300); autoShot(); toggleHighlight();
   toggleCelestial(); await sleep(800); autoShot(); toggleCelestial();
   ui.toggleJournal(); await sleep(300); autoShot(); ui.toggleJournal();
