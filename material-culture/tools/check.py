@@ -38,7 +38,9 @@ for it in items:
         if not str(im.get('license', '')).startswith(FREE): w(f"лицензия {im.get('license')!r} не свободная?")
         for k in ('author', 'url'):
             if not im.get(k): w(f"изображение {im.get('file')}: нет {k}")
+nosrc = [it.get('id') for it in items if not (it.get('hagiography') or it.get('sources'))]
 for e in errs: print('ОШИБКА', e)
+if nosrc: print(f'ВНИМАНИЕ: без единой ссылки (hagiography и sources пусты): {len(nosrc)} — {", ".join(nosrc)}')
 by = {}
 for it in items: by.setdefault(it.get('rubric'), []).append(it)
 print(f'карточек: {len(items)}; изображений: {sum(len(it.get("images") or []) for it in items)}')

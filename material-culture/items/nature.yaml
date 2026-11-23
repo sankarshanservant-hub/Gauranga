@@ -147,7 +147,9 @@
       Bamboo groves surround Bengali villages. Bamboo makes the frame of hut and roof, woven walls and fences,
       ladders, baskets, winnowing fans, boat poles and carrying yokes. Dry bamboo also goes into the hearth.
   hagiography: []
-  sources: []
+  sources: ["Mukharji 1888, с. 310–312 (бамбуковые плетёнки darma — стены домов в Вост. Бенгалии)",
+            "Sen, Bengali Ramayanas (1920), с. 187–188 (соломенная кровля на бамбуковых столбах — XVI в.)",
+            "Day 1874, с. 28 (бамбуковый каркас кровли)"]
   images: []
   game: {model: "заросль бамбука за оградой; плетёная ограда из расщеплённого бамбука",
          where: ["mishra-house/fence"], codex: hs_bamboo}

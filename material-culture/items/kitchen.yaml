@@ -442,7 +442,8 @@
       (nora), adding water. A shil is heavy and lasts for decades; it is re-pecked with a chisel when its surface
       wears smooth.
   hagiography: []
-  sources: []
+  sources: ["Ward, A View of the History… of the Hindoos (изд. 1863), с. 112 (шил-нора, покрытая тканью, как образ Шаштхи в родильной — XIX в.)",
+            "Bose 1881, с. 15–16 (служанка толчёт специи — XIX в.)"]
   images: [{file: "material-culture/img/shil-nora-grinding-stone-bengal-photo.jpg", license: "CC0 1.0", author: "Anusandhani Pabna Folk (Wikimedia Commons, own work)", url: "https://commons.wikimedia.org/wiki/File:Heritage_Shil_Nora.jpg", note: "; Wikimedia Commons."}]
   game: {model: "каменная плита 40×25×5 см, камень-скалка 20 см; жёлтые следы куркумы", where: ["mishra-house/kitchen"]}
   todo: "PD-подтверждение для эпохи"
