@@ -40,3 +40,32 @@
 | 21 | Tomé Pires, *The Suma Oriental*, ed. & tr. Armando Cortesão (Hakluyt Society, 1944) | Томе Пиреш, «Сума ориентал» («Восточный свод»), 1512–1515 | очевидец Бенгалии и Ориссы при жизни Махапрабху: торговля, города, одежда — ★★★ |
 | 22 | *Mādalā Pāñji*, ed. A. B. Mohanty (Cuttack, 1940; переизд. 2001) | «Мадала-панджи» — храмовая хроника Пури | события и служения Пури при Пратапарудре — ★★ |
 | 23 | B. De (tr.), *The Tabaqat-i-Akbari*, vol. III (Calcutta: Bibliotheca Indica, 1939) | Низам-ад-дин Ахмад, «Табакат-и-Акбари», т. III (Бенгалия) | история султанов Бенгалии — ★ (статус охраны неясен) |
+
+## Получено (Google Drive пользователя, 2026-11-23) — первичная оценка, без разбора
+
+Папка: Google Drive «Bengal life» / «About Chaitanya and Vaishnavism» / корень (`1-63ni8Z32sE7zQKNjYfwuVWwiALiCJUf`).
+Файлы **в репозиторий не копировать** (книги под охраной): брать только факты своими словами со ссылкой на страницу.
+Оценка — по метаданным; наличие текстового слоя проверить при разборе.
+
+| Книга | Из списка | Объём файла | Оценка для базы | Очередь разбора |
+|---|---|---|---|---|
+| Tomé Pires, *The Suma Oriental* (изд. Cortesão) | № 22 | 10 МБ | очевидец Бенгалии и Ориссы 1512–15: торговля, города, одежда, товары — свидетельство эпохи | 1 |
+| *Mādalā Pāñji* (изд. 1940, файл `_text`) | № 23 | 3,5 МБ | храмовая хроника Пури; файл, судя по имени, — текстовый слой (вероятно, OCR ория) | 1 |
+| K. T. Achaya, *Indian Food: A Historical Companion* | № 1 | 38 МБ | датировки продуктов и блюд — проверка всей кухни (чхана, сандеш, перец, сахар) | 1 |
+| K. T. Achaya, *A Historical Dictionary of Indian Food* | № 2 | 11 МБ | словарь продуктов с датами — точечные проверки | 1 |
+| K. T. Achaya, *The Story of Our Food* | (доп.) | 1,3 МБ | популярное краткое изложение того же — низкий приоритет | 3 |
+| Eschmann, Kulke, Tripathi (eds.), *The Cult of Jagannath and the Regional Tradition of Orissa* | № 3 | 77 МБ | Пури: служители, обряды, праздники, история при Гаджапати | 1 |
+| D. McCutchion, *Late Mediaeval Temples of Bengal* | № 4 | 36 МБ | типы кровель (чала), датировки храмов | 2 |
+| G. Michell (ed.), *Brick Temples of Bengal* | № 5 | 369 МБ | фото терракот с бытом — визуальные эталоны для художника (изображения под охраной: только описания и ссылки) | 2 |
+| Pika Ghosh, *Temple to Love* | № 13 | 12 МБ | вайшнавские храмы Бишнупура XVII в. | 3 |
+| Irfan Habib, *An Atlas of the Mughal Empire* | № 14 | 317 МБ | карты Бенгалии и Ориссы ок. 1600: дороги, города, реки — для карт игры | 2 |
+| E. Dimock, T. Stewart, *Caitanya Caritāmṛta* (пер. и комм.) | № 11 | 330 МБ | научные примечания о реалиях — только для сверки спорных мест | 3 |
+| T. K. Stewart, *The Final Word* | № 20 | 34 МБ | датировка и контекст ЧЧ — не о быте | 3 |
+| Chitrita Banerji, *Bengali Cooking: Seasons and Festivals* | № 21 | 1,2 МБ | современная сезонная кухня — сверка названий, ⚠ не эпоха | 3 |
+| *Costumes and Textiles of India* (файл DLI 2015.105254) | вместо № 7? | 34 МБ | вероятно, Jamila Brij Bhushan (1958), а не Моти Чандра — уточнить автора; костюм и ткани | 2 |
+| R. Van M. Baumer (ed.), *Aspects of Bengali History and Society* (1975) | (доп.) | 65 МБ | сборник статей; есть ли главы о XV–XVI вв. — проверить оглавление | 2 |
+| *Social Formation in Medieval Bengal* (ISBN 8187337117) | (доп.) | 13 МБ | общество средневековой Бенгалии — автора и главы уточнить | 2 |
+
+Папка «Scriptures» пока пуста. **Всё ещё нет:** Zulekha Haque (№ 6), Moti Chandra (№ 7, если файл DLI — другая книга),
+M. A. Rahim (№ 8), O. M. Starza (№ 9), Haridas Das (№ 10), R. C. Majumdar (№ 12), Sanyal, Hasan, Mishra/Mahapatra,
+Hossain, *Tabaqat-i-Akbari* III.
