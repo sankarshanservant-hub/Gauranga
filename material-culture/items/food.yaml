@@ -376,3 +376,319 @@
   images: []
   game: {model: "грядка зелени у пруда; на листе — 6–10 горок тёмно-зелёного шака разных оттенков", where: ["mishra-house/backyard", "mishra-house/kitchen"]}
   todo: "отождествить ачьюта, кала, салинча, хеленча (бенгальские словари XIX в., Hunter, Watt «Dictionary of Economic Products»)"
+
+- id: mc-mudga-supa
+  title: {ru: "Мудга-супа — дал из мунга", en: "Mudga-supa — mung dal"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *мудга-сӯпа* — ЧЧ Мадхья 3.44 (горшочки с супом из мунга вокруг горы риса); *бхр̣ш̣т̣а-ма̄ш̣а-мудга-сӯпа* —
+      Мадхья 15.214 (суп из жареного урада и мунга, «посрамляющий нектар»); *мудга-д̣а̄ли-сӯпа* — Антья 10.137; запасы
+      мунга — ЧБ Ади 4.34, ЧБ Антья 4.462; «суп из мунга» у Джаянанды (фр. 10, дв. 20). Рецепт — Пак-пранали, с. 116.
+    en: >-
+      mudga-supa — CC Madhya 3.44; bhrishta-masha-mudga-supa — Madhya 15.214 (soup of roasted urad and mung); mudga-
+      dali-supa — Antya 10.137; stores of mung — CB Adi 4.34, CB Antya 4.462; mung soup in Jayananda (fr. 10 v. 20).
+      Recipe — Pak-pranali p. 116.
+  text:
+    ru: >-
+      Дал — жидкая похлёбка из колотых бобов; самый «чистый» и лёгкий — из мунга, его едят и здоровые, и больные. На
+      праздничном листе вокруг горы риса стоят чашечки с мунг-далом; для особого вкуса зёрна мунга (и урада) сначала
+      поджаривают на сухой сковороде — получается «бхришта-супа» с ореховым ароматом, которым Сарвабхаума угощал Господа.
+      Дал льют на рис и едят вместе с овощами.
+    en: >-
+      Dal is a liquid pottage of split pulses; the "purest" and lightest is mung, eaten by the healthy and the sick
+      alike. On a festive leaf, cups of mung dal stand around the mound of rice; for a special flavour the mung (and
+      urad) are first roasted in a dry pan, giving the nutty "bhrishta-supa" with which Sarvabhauma treated the Lord.
+      Dal is poured over the rice and eaten with the vegetables.
+  recipe:
+    ru: >-
+      Реконструкция по Пак-пранали, с. 116 («сонамуг»): лучший мунг — «золотой» сона-муг. Мунг обжарить до
+      золотистого (для бхришта-супы) или взять сырым; варить в уже горячей воде; когда закипит и поднимется пена —
+      добавить пасту куркумы; когда разварится — взбить мутовкой; положить пасту тмина и чёрного перца, имбирную пасту,
+      соль; заправить гхи (или маслом) с тмином и лавровым листом. «Немного сладкого и молока делают мунг-дал
+      вкуснее». Зимой кладут кубики ман-качу. ⚠ В книге также «паста чили» — опустить, хватит перца и имбиря.
+    en: >-
+      Reconstruction after Pak-pranali p. 116: the best mung is "golden" sona-mug. Roast the mung golden (for
+      bhrishta-supa) or use raw; cook in water already hot; when it foams add turmeric paste; when soft, whisk; add
+      cumin-and-pepper paste, ginger paste and salt; temper with ghee (or oil), cumin and bay leaf. "A little sweet and
+      milk make mung dal tastier." In winter add cubes of mankachu. ⚠ Omit the book's chilli paste.
+  hagiography: ["ЧЧ Мадхья 3.44", "ЧЧ Мадхья 15.214", "ЧЧ Антья 10.137", "ЧБ Ади 4.34", "ЧБ Антья 4.462",
+                "Джаянанда, фр. 10, дв. 20"]
+  sources: ["Пак-пранали, с. 116 (сонамуг, правила дала)"]
+  images: []
+  game: {model: "глиняные чашечки с жёлтым жидким далом вокруг горки риса", where: ["mishra-house/kitchen"]}
+
+- id: mc-bara
+  title: {ru: "Бада — жареные лепёшки из дала", en: "Bada — fried lentil fritters"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *мудга-бад̣а̄, ма̄ш̣а-бад̣а̄, кала̄-бад̣а̄* — ЧЧ Мадхья 3.50, 15.215; *мадхура̄мла-бад̣а̄* — 3.49, 15.214 (*бад̣а̄мла̄ди*);
+      *чха̄на̄-бад̣а̄, бад̣а̄, гхола* и *ка̄̐джи-бад̣а̄* — 15.210, 15.216; *пхула-бад̣а̄* — Антья 10.149; *бад̣а̄-бад̣и-кад̣и* —
+      Мадхья 4.70; у Джаянанды — *бара, канджи-бара, дахи-бара, чхана-бара*. В переводе ЧЧ «лепёшки», «творожники»,
+      «клёцки». Рецепты дахи-бады и гхол-бады — Пак-пранали, с. 415–416.
+    en: >-
+      mudga-, masha-, kala-bada — CC Madhya 3.50, 15.215; madhuramla-bada — 3.49, 15.214; chhana-bada, bada, ghola and
+      kanji-bada — 15.210, 15.216; phula-bada — Antya 10.149; bada-badi-kadi — Madhya 4.70; Jayananda has bara,
+      kanji-bara, dahi-bara, chhana-bara. Dahi-bada and ghol-bada recipes — Pak-pranali pp. 415–416.
+  text:
+    ru: >-
+      Бада (бара) — круглые оладьи из растёртого и взбитого дала, жаренные в масле или гхи. Из мунга — лёгкие, из урада
+      (маша) — мягкие и пышные, из спелых бананов — сладкие «кала-бада». Их едят горячими, а ещё вымачивают: в
+      простокваше (дахи-бада), в пахте (гхола), в кислой рисовой воде (канджи-бада) или в кисло-сладкой подливе. Пышные
+      «пхула-бада» с простоквашей, лимоном и имбирём сын Шивананды Сена принёс Господу — и Тот сказал: «Этот мальчик
+      понял, чего Я хочу».
+    en: >-
+      Bada (bara) are round fritters of ground, whipped dal fried in oil or ghee. Mung bada are light, urad (masha)
+      bada soft and puffy, and kala-bada of ripe bananas sweet. They are eaten hot, or soaked: in curd (dahi-bada), in
+      buttermilk (ghola), in sour rice water (kanji-bada) or in a sweet-sour sauce. Puffy "phula-bada" with curd, lemon
+      and ginger were what Shivananda Sena's son brought the Lord — who said, "This boy has understood what I want."
+  recipe:
+    ru: >-
+      Реконструкция по Пак-пранали, с. 415–416: «дахи-бада» — сырой мунг-дал замочить, снять шелуху, растереть на камне
+      и хорошо взбить, посолить перед самой жаркой (Амиш 1902, с. 330: «если посолить заранее — бада станет жёсткой»);
+      жарить в масле небольшими оладьями; простоквашу смешать с солью, растёртыми мускатным орехом, кардамоном,
+      гвоздикой, корицей; в гхи бросить горчицу и, как затрещит, влить в простоквашу; опустить в неё бады. «Гхол-бада» —
+      бады из урада, опущенные в пахту с солью и куркумой, заправленную гхи. ⚠ «ланка» (чили) в книге — заменить
+      чёрным перцем; пряности «гарам масала» уместны умеренно (гвоздика, кардамон в ЧЧ Антья 10.30 есть).
+    en: >-
+      Reconstruction after Pak-pranali pp. 415–416: dahi-bada — soak raw mung dal, skin it, grind on the stone and whip
+      well, salting just before frying (Amish 1902 p. 330: salted early, bada turn hard); fry small fritters in oil;
+      mix curd with salt and ground nutmeg, cardamom, clove, cinnamon; crackle mustard seed in ghee and pour into the
+      curd; drop in the bada. Ghol-bada — urad bada dropped into buttermilk with salt and turmeric, tempered with ghee.
+      ⚠ Replace the book's chilli with black pepper.
+  hagiography: ["ЧЧ Мадхья 3.49–50", "ЧЧ Мадхья 4.70", "ЧЧ Мадхья 15.210", "ЧЧ Мадхья 15.214–216",
+                "ЧЧ Антья 10.148–151", "Джаянанда, Васу 1897 (перечень кушаний)"]
+  sources: ["Пак-пранали, с. 415–416 (дахи-бада, гхол-бада, дахи-пакаури)", "Амиш 1902, с. 330 (тесто для бады не солить заранее)"]
+  images: []
+  game: {model: "золотистые оладьи 5–6 см на листе; чашка с белой простоквашей, в которой плавают бады", where: ["mishra-house/kitchen"]}
+
+- id: mc-pitha-puli
+  title: {ru: "Питха и пули — рисовые пирожки", en: "Pitha and puli — rice-flour cakes"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *кш̣ӣра-пулӣ, на̄рикела-пулӣ, йата пит̣ха̄* — ЧЧ Мадхья 3.50, 15.215–216; *пит̣ха̄-па̄на̄* (питха и сладкий напиток) —
+      Мадхья 15.89, 15.221, Антья 6.110, 10.109, 10.119, 12.126; «пироги и пайас» в день рождения Господа (пхалгуна) —
+      барамасья Джаянанды (Васу 1897, строфа 1); *дугдха-пули, нарикела-пули, шравасат-пули* — Джаянанда, фр. 10,
+      дв. 22–24. Рецепты — Миштанна-пак 1898, с. 260–263.
+    en: >-
+      kshira-puli, narikela-puli, all kinds of pitha — CC Madhya 3.50, 15.215–216; pitha-pana — Madhya 15.89, 15.221,
+      Antya 6.110, 10.109, 10.119, 12.126; "cakes and payasa" on the Lord's birthday (Phalguna) — Jayananda's
+      baramasya (Vasu 1897, st. 1); dugdha-, narikela-, shravasat-puli — Jayananda fr. 10 vv. 22–24. Recipes —
+      Mishtanna-pak 1898 pp. 260–263.
+  text:
+    ru: >-
+      Питха — общее имя домашних пирожков из рисовой муки: тонкие блинчики на камне, варёные «пули» в форме полумесяца
+      с кокосовой начинкой, пули, сваренные в молоке с гуром (кширапули). Их пекут к праздникам — особенно в холодные
+      месяцы нового риса — и это женское искусство, которым славились хозяйки. В день рождения Господа, в полнолуние
+      пхалгуны, Навадвипа праздновала «с пирогами и пайасом», а в Пури преданные снова и снова передавали Ему через
+      Говинду «питха-пана» — пирожки и сладкий напиток.
+    en: >-
+      Pitha is the general name for home-made rice-flour cakes: thin crêpes on a stone, boiled crescent-shaped "puli"
+      with coconut filling, puli cooked in milk with gur (kshira-puli). They are made for festivals — especially in the
+      cold months of new rice — and it is a women's art for which housewives were famous. On the Lord's birthday, the
+      full moon of Phalguna, Navadvipa celebrated "with cakes and payasa", and in Puri the devotees kept sending Him
+      "pitha-pana" — cakes and a sweet drink — through Govinda.
+  recipe:
+    ru: >-
+      Реконструкция по Миштанна-пак 1898, с. 260–263. «Сару-чакли»: равные части пасты урад-дала (без шелухи) и рисовой
+      муки развести жидко; на камне или тава смазать маслом срезом черенка баклажана, налить тесто, разровнять
+      пальмовым листом, перевернуть. «Бхапа-пули»: рисовую муку замесить на кипятке, слепить пули с начинкой из тёртого
+      кокоса (с гуром), опустить в кипяток, сварить, остудить в холодной воде. «Дудхе аотано пули» (= кшира-пули): те же
+      пули варить не в воде, а в молоке, добавив гур, пока молоко не загустеет. Анахронизмов нет.
+    en: >-
+      Reconstruction after Mishtanna-pak 1898 pp. 260–263. Saru-chakli: equal parts of skinned urad paste and rice
+      flour in a thin batter; grease a stone or griddle with a cut aubergine stalk, pour, spread with a palm leaf, turn.
+      Bhapa-puli: knead rice flour with boiling water, shape puli filled with grated coconut and gur, boil, cool in cold
+      water. Dudhe aotano puli (= kshira-puli): the same puli cooked in milk with gur until it thickens. No anachronisms.
+  hagiography: ["ЧЧ Мадхья 3.50", "ЧЧ Мадхья 15.89", "ЧЧ Мадхья 15.215–216", "ЧЧ Антья 6.110", "ЧЧ Антья 10.109",
+                "ЧЧ Антья 12.126", "Джаянанда, фр. 10, дв. 22–24", "Джаянанда, барамасья (Васу 1897), строфа 1"]
+  sources: ["Миштанна-пак 1898, с. 260–263 (сару-чакли, бхапа-пули, дудхе аотано пули)",
+            "Миштанна-пак 1898, с. 230 (питха в определённые дни года — «часть дхармы»; женское искусство)"]
+  images: []
+  game: {model: "белые пули-полумесяцы 6–8 см в миске с молоком; стопка тонких блинчиков", where: ["mishra-house/kitchen"]}
+
+- id: mc-payasa
+  title: {ru: "Пайас (параманна) — рис, сваренный в молоке", en: "Payasa (paramanna) — rice cooked in milk"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *сагхр̣та-па̄йаса* в новых глиняных горшках — ЧЧ Мадхья 3.53; *гхр̣та-сикта парама̄нна… ча̄̐па̄кала̄-гханадугдха-а̄мра* —
+      Мадхья 15.217; *па̄йаса* — Мадхья 4.74, Антья 6.110; *кш̣ӣра-одана* — Мадхья 15.89; у Джаянанды *паеш, параманна*
+      (фр. 10, дв. 18, 23). Рецепт — Пак-пранали, с. 455–456: «раньше вместо розовой воды клали камфору и кардамон».
+    en: >-
+      payasa with ghee in new clay pots — CC Madhya 3.53; paramanna with ghee, champa bananas, thickened milk and mango
+      — Madhya 15.217; payasa — Madhya 4.74, Antya 6.110; kshira-odana — Madhya 15.89; payesh, paramanna in Jayananda
+      (fr. 10 vv. 18, 23). Recipe — Pak-pranali pp. 455–456: "formerly camphor and cardamom were used instead of rose".
+  text:
+    ru: >-
+      Пайас, или параманна — «высшая пища»: ароматный рис, долго томлённый в цельном молоке до густоты, со сладким.
+      Им по правилу «заканчивают сладким» любой пир. Сарвабхаума подал Господу пайас, политый гхи, с бананами
+      чампа, сгущённым молоком и ломтиками манго, в новом глиняном горшке. Лучший пайас — из нового непропаренного
+      риса тонкого ароматного сорта; «всё дело в молоке: плохое молоко никакие изыски не спасут».
+    en: >-
+      Payasa, or paramanna — "the supreme food": fragrant rice slowly simmered in whole milk until thick, with
+      sweetening. By the rule "end with sweetness" every feast closes with it. Sarvabhauma served the Lord payasa
+      drizzled with ghee, with champa bananas, thickened milk and slices of mango, in a new clay pot. The best payasa
+      is of new, unparboiled rice of a fine fragrant variety; "it all depends on the milk — no refinement saves bad milk."
+  recipe:
+    ru: >-
+      Реконструкция по Пак-пранали, с. 455–456 («камини чалер паес»): ½ поя (≈ 115 г) ароматного риса камини (новый,
+      атап — непропаренный), 2 сера (≈ 1,9 л) молока, 1½ поя сахара или батасы. Рис варить прямо в молоке без воды
+      (так лучше), примерно чхатак риса на сер молока, всё время мешая; сладкое класть, когда рис почти готов — батаса
+      лучше сахара (молоко не «отходит»); как загустеет — сразу снять: перестоявший пайас невкусен. Ароматизировать
+      порошком камфоры и мелкого кардамона («так делали прежде»). По ЧЧ Мадхья 15.217 сверху — гхи, бананы чампа,
+      кхира и манго. Изюм, фисташки, розовая вода из книги — позднейшие, опустить.
+    en: >-
+      Reconstruction after Pak-pranali pp. 455–456: ≈ 115 g fragrant kamini rice (new, unparboiled), ≈ 1.9 l milk,
+      sugar or batasa. Cook the rice directly in milk without water, about a chhatak of rice per seer of milk, stirring
+      constantly; add sweetening when the rice is nearly done — batasa is better than sugar (the milk does not split);
+      take off as soon as it thickens. Flavour with powdered camphor and small cardamom ("as was done formerly"). Per
+      CC Madhya 15.217 top with ghee, champa bananas, khira and mango. Omit the book's raisins, pistachios and rose water.
+  hagiography: ["ЧЧ Мадхья 3.53", "ЧЧ Мадхья 4.74", "ЧЧ Мадхья 15.89", "ЧЧ Мадхья 15.217", "ЧЧ Антья 6.110",
+                "Джаянанда, фр. 10, дв. 18, 23"]
+  sources: ["Пак-пранали, с. 455–456 (паес; камфора и кардамон «прежде»)", "Миштанна-пак 1898, гл. 10 (45 видов пайаса и питхи)",
+            "Sen 1911, с. 247–248 (пайас — после жареного, перед кислым)"]
+  images: []
+  game: {model: "новый глиняный горшок с густым белым пайасом, гхи сверху, бананы и дольки манго", where: ["mishra-house/kitchen"]}
+
+- id: mc-gopinatha-kshira
+  title: {ru: "Кхир Гопинатхи — «амрита-кели»", en: "Gopinatha's kshira — 'amrita-keli'"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 4.115–120 (вечерняя бхога — *кш̣ӣра* в двенадцати глиняных горшочках, «амрита-кели», «Гопинатхера
+      кшира»), 4.127–139 (Гопинатх прячет горшочек для Мадхавендры Пури под Своей накидкой; Пури разбивает пустой
+      горшок на кусочки и хранит в узелке), 4.205–207 (Господу подносят 12 горшочков: 5 Он берёт, 7 отдаёт пуджари).
+      Состав не описан — кхир (рис в молоке или уваренное молоко). Ремуна, Орисса.
+    en: >-
+      CC Madhya 4.115–120 (the evening bhoga — kshira in twelve clay pots, "amrita-keli"), 4.127–139 (Gopinatha hides
+      a pot for Madhavendra Puri under His cloth; Puri breaks the empty pot and keeps the shards in a knot), 4.205–207
+      (twelve pots offered to the Lord: He takes five, gives seven to the priest). The composition is not described.
+      Remuna, Orissa.
+  text:
+    ru: >-
+      В Ремуне, на пути в Пури, Господу Гопинатхе каждый вечер подносят кхир в двенадцати глиняных горшочках — он
+      зовётся «амрита-кели», «игра нектара». Мадхавендра Пури захотел узнать его вкус, чтобы готовить такой же для
+      своего Гопала, — и тут же устыдился желания. Ночью Гопинатх Сам спрятал один горшочек под Своей одеждой и велел
+      пуджари отдать его Пури, сидевшему на базаре; так Божество прозвали «Кширачора» — «укравший кхир». Пустой
+      горшок Пури разбил и каждый день съедал по черепку, храня осколки в узелке.
+    en: >-
+      At Remuna, on the road to Puri, Lord Gopinatha is offered kshira every evening in twelve clay pots — it is called
+      "amrita-keli", "the play of nectar". Madhavendra Puri wished to know its taste so as to cook the same for his
+      Gopala — and at once felt ashamed of the wish. At night Gopinatha Himself hid one pot under His cloth and told the
+      priest to give it to Puri, sitting in the market; so the Deity became known as "Kshira-chora", "who stole the
+      kshira". Puri broke the empty pot and ate a shard each day, keeping the pieces in a knot of his cloth.
+  hagiography: ["ЧЧ Мадхья 4.1", "ЧЧ Мадхья 4.19–20", "ЧЧ Мадхья 4.115–139", "ЧЧ Мадхья 4.205–207"]
+  sources: []
+  images: []
+  game: {model: "ряд из 12 небольших глиняных горшочков (≈ 10–12 см) с кхиром перед Божеством", where: ["remuna/temple"],
+         notes: "горшочки с крышками-шара; один — за складкой одежды Божества"}
+  todo: "PD: Hunter, Orissa 1872 / Mitra, Antiquities of Orissa — Ремуна и «кшира» (кхир) Гопинатхи в XIX в."
+
+- id: mc-dadhi-chida
+  title: {ru: "Дадхи-чида и дугдха-чида — пир в Панихати", en: "Dadhi-chida and dugdha-chida — the feast at Panihati"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 6.51–80: рецепт приведён в самом житии (6.56–58); 400 больших глиняных горшков (*холна̄*) и 5–7 огромных
+      *мр̣т-кун̣д̣ика̄*; каждому — два горшка, с *дугдха-чида̄* и *дадхи-чида̄*; 20 раздатчиков. Дугдха-чида — также
+      ЧЧ Мадхья 3.54, 15.216. Дополняет карточку mc-khai-chida (рецепт и подача). Ежегодный праздник «данда-махотсава»
+      в Панихати — поздняя традиция.
+    en: >-
+      CC Antya 6.51–80: the recipe is given in the text itself (6.56–58); 400 large earthen pots (holna) and 5–7 huge
+      ones; two pots for each guest, with dugdha-chida and dadhi-chida; twenty servers. Dugdha-chida also CC Madhya
+      3.54, 15.216. Supplements card mc-khai-chida (recipe and serving).
+  text:
+    ru: >-
+      Нитьянанда в шутку «наказал» Рагхунатху даса: «Накорми Моих спутников простоквашей с рисовыми хлопьями!» — и
+      на берегу Ганги в Панихати сошлась вся округа. Принесли сотни глиняных горшков, рис-чиду замочили, одну половину
+      смешали с простоквашей, сахаром и бананами, другую — с уваренным молоком, бананами чампа, сахаром, гхи и
+      камфорой. Каждому поставили по два горшка; места не хватило, и брахманы ели на берегу и даже стоя в воде. Нитьянанда
+      в медитации призвал Махапрабху, и Они, смеясь, кормили друг друга из каждого горшка.
+    en: >-
+      Nityananda jokingly "punished" Raghunatha dasa: "Feed My companions curd with flattened rice!" — and the whole
+      district gathered on the Ganga bank at Panihati. Hundreds of clay pots were brought; the chida was soaked, half
+      mixed with curd, sugar and bananas, half with thickened milk, champa bananas, sugar, ghee and camphor. Everyone
+      got two pots; there was not enough room, and brahmins ate on the bank and even standing in the water. Nityananda
+      called Mahaprabhu in meditation, and laughing, They fed each other from every pot.
+  recipe:
+    ru: >-
+      Житие (ЧЧ Антья 6.56–58): чиду замочить в горячем молоке; половину смешать с дадхи (простоквашей), чини (сахаром)
+      и бананами; другую половину — с *гхана̄вр̣та-дугдха* (уваренным молоком), бананами чампа, сахаром, гхи и камфорой.
+      Подавать в глиняных горшках, по два на человека. Пропорции не указаны; по Пак-пранали, с. 456 («чирар паес»)
+      молоко уваривают наполовину, а чиду перед этим один раз ополаскивают водой.
+    en: >-
+      The text (CC Antya 6.56–58): soak chida in hot milk; mix half with dadhi, sugar and bananas; the other half with
+      thickened milk, champa bananas, sugar, ghee and camphor. Serve in clay pots, two per person. No proportions are
+      given; Pak-pranali p. 456 reduces the milk by half and rinses the chida once in water first.
+  hagiography: ["ЧЧ Антья 6.48–80", "ЧЧ Мадхья 3.54", "ЧЧ Мадхья 15.216"]
+  sources: ["Пак-пранали, с. 456 (чирар паес)"]
+  images: []
+  game: {model: "ряды больших глиняных горшков на берегу Ганги под деревом; помост (чабутара) для Нитьянанды",
+         where: ["panihati/ganga-bank"]}
+
+- id: mc-ruti-wheat
+  title: {ru: "Рути и пшеничная мука — редкость на бенгальском столе", en: "Ruti and wheat flour — rare on the Bengali table"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 4.67 (*годхӯма-чӯрн̣а* — пшеничная мука, принесённая жителями деревни), 4.71–73 (*рут̣и* горами — Аннакута
+      Гопала на Говардхане, Врадж). Бенгальские перечни (Мадхья 3, 15; Антья 10) рути не называют. Кхаджа из муки —
+      ЧЧ Мадхья 14.31. Наблюдение Пак-пранали (с. 112): на северо-западе едят дал с рути — для Бенгалии это чужое.
+    en: >-
+      CC Madhya 4.67 (godhuma-churna — wheat flour brought by villagers), 4.71–73 (heaps of ruti — Gopala's Annakuta at
+      Govardhana, Vraja). The Bengali lists (Madhya 3, 15; Antya 10) do not name ruti. Pak-pranali notes that people of
+      the north-west live on dal and ruti — foreign to Bengal.
+  text:
+    ru: >-
+      Бенгалия ест рис; пшеница здесь — привозная и праздничная. Зато во Врадже, когда Мадхавендра Пури открыл Божество
+      Гопала, крестьяне принесли весь свой рис, дал и пшеничную муку, и семеро поваров напекли рути (пресных лепёшек)
+      «горами» вокруг горы риса на листьях палаша. Для игры: в Навадвипе лепёшки — редкость, в Матхуре и на пути через
+      Бихар — обычная еда; пшеничная мука в Бенгалии шла больше на жаренные в гхи сладости вроде кхаджи.
+    en: >-
+      Bengal eats rice; wheat here is imported and festive. But in Vraja, when Madhavendra Puri revealed the Deity of
+      Gopala, the villagers brought all their rice, dal and wheat flour, and seven cooks made ruti (unleavened flatbreads)
+      "in mountains" around the mountain of rice on palasha leaves. For the game: in Navadvipa flatbreads are a rarity,
+      in Mathura and on the road through Bihar ordinary food; in Bengal wheat flour went mostly into ghee-fried sweets
+      like khaja.
+  hagiography: ["ЧЧ Мадхья 4.67–75", "ЧЧ Мадхья 14.31"]
+  sources: ["Пак-пранали, с. 112 (хиндустанцы живут далом и рути; в Бенгалии гхи в дал кладут редко — от бедности)"]
+  images: []
+  game: {model: "стопки круглых пресных лепёшек (15–18 см) на листьях палаша", where: ["vraja/govardhana"]}
+
+- id: mc-mudga-ankura
+  title: {ru: "Пророщенный мунг с имбирём", en: "Sprouted mung with ginger"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *са-лаван̣а мудга̄н̇кура, а̄да̄ кха̄ни кха̄ни* — ЧЧ Мадхья 14.33 (прасад Джаганнатхи в саду: солёные ростки мунга и
+      имбирь кусочками); *ан̇курера сане мудга* — ЧБ Антья 4.467 (запасы у Адвайты рядом с кхирой и сахарным тростником).
+      Поздняя традиция подношения ростков мунга с имбирём — в обиходе вайшнавов; PD-подтверждения пока нет.
+    en: >-
+      sa-lavana mudgankura, ada khani khani — CC Madhya 14.33 (Jagannatha prasada in the garden: salted mung sprouts and
+      pieces of ginger); ankurera sane mudga — CB Antya 4.467 (stores at Advaita's next to khira and sugarcane).
+  text:
+    ru: >-
+      Не всё на столе варят: целые зёрна мунга замачивают, держат в мокрой ткани день-два, пока не проклюнутся белые
+      ростки, — и подают сырыми, с солью и ломтиками свежего имбиря. Это лёгкое, «прохладное» угощение стояло среди
+      прасада Джаганнатхи на пиру после уборки Гундичи, а у Адвайты в Шантипуре ростки мунга хранили рядом с кувшинами
+      молока и связками сахарного тростника. Кусочки имбиря с солью — и сами по себе закуска, «пробуждающая аппетит».
+    en: >-
+      Not everything is cooked: whole mung beans are soaked and kept in a wet cloth for a day or two until white sprouts
+      appear — and served raw, with salt and slices of fresh ginger. This light, "cooling" dish stood among Jagannatha's
+      prasada at the feast after the cleaning of Gundicha, and at Advaita's in Shantipur mung sprouts were kept next to
+      jars of milk and bundles of sugarcane. Ginger pieces with salt are a relish of their own that "wakes the appetite".
+  hagiography: ["ЧЧ Мадхья 14.33", "ЧБ Антья 4.467"]
+  sources: []
+  images: []
+  game: {model: "глиняная миска с пророщенным мунгом и ломтиками имбиря", where: ["puri/jagannatha-vallabha-garden", "shantipur/advaita-house"]}
