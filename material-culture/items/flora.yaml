@@ -417,10 +417,12 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Лотосы как пища: «лотосы в сахаре» Шриваса — ЧЧ Антья 10.119, стебли лотоса — Антья 18.105. Образ «лотосных»
+      Стебли лотоса среди яств — ЧЧ Антья 18.105. «Падма-чини» Шриваса (ЧЧ Антья 10.119, Мадхья 14.31; в нашем переводе
+      «лотосы в сахаре», «сахар из лотоса») — вероятно, сорт сахара или сладости, а не сам лотос; не уточнено. Образ «лотосных»
       глаз, стоп, рук — повсюду. Свойства — Dutt 1877, с. 109–110 (Nelumbium speciosum: все части растения в ходу).
     en: >-
-      Lotus as food: Shrivasa's "lotuses in sugar" — CC Antya 10.119, lotus stems — Antya 18.105. The image of
+      Lotus stems among the dishes — CC Antya 18.105. Shrivasa's "padma-cini" (CC Antya 10.119, Madhya 14.31) is
+      probably a kind of sugar or sweet rather than the lotus itself; unresolved. The image of
       "lotus" eyes, feet and hands is everywhere. Properties — Dutt 1877, pp. 109–110 (Nelumbium speciosum: every part
       of the plant is used).
   text:
@@ -428,20 +430,20 @@
       Лотос (санскр. падма, камала; бенг. падма) растёт в прудах и старицах Бенгалии; большие розовые и белые
       цветы раскрываются утром и закрываются к вечеру, а мелкая голубая и белая кувалая-кумуда — водяная лилия —
       раскрывается ночью. Лотос — главное сравнение житий: у Господа лотосные глаза, стопы и руки, потому что лотос
-      растёт из грязи и остаётся чистым. Но его и ели: молодые семена, клубни и стебли, а Шривас привёз Господу в Пури
-      лотосы, сваренные в сахаре. Широкие листья лотоса служили и тарелкой.
+      растёт из грязи и остаётся чистым. Но его и ели: молодые семена, клубни и стебли — стебли лотоса названы среди
+      яств, которые Господь видит в видении игр Кришны на Ямуне. Широкие листья лотоса служили и тарелкой.
     en: >-
       The lotus (Sanskrit padma, kamala; Bengali padma) grows in the ponds and old river-beds of Bengal; the big pink
       and white flowers open in the morning and close by evening, while the small blue and white kuvalaya-kumuda, the
       water-lily, opens at night. The lotus is the chief comparison of the hagiographies: the Lord's eyes, feet and
       hands are lotus-like, for the lotus grows from mud and stays pure. But it was also eaten — young seeds, rhizomes
-      and stems — and Shrivasa brought the Lord in Puri lotuses cooked in sugar. Broad lotus leaves also served as
+      and stems; lotus stems are named among the dainties the Lord sees in His vision of Krishna's pastimes on the Yamuna. Broad lotus leaves also served as
       plates.
   hagiography: ["ЧЧ Антья 10.119", "ЧЧ Антья 18.105", "ЧЧ Антья 18.95"]
   sources: ["Dutt 1877, с. 109–110 (Nelumbium speciosum)"]
   images: []
   game: {model: "листья 40–60 см над водой, розовые цветы 15–25 см, коробочки семян", where: ["mishra-house/pond"]}
-  todo: "проверить, что за «лотосы в сахаре» (пaдма-чини?) по бенгальскому оригиналу ЧЧ Антья 10.119"
+  todo: "что такое падма-чини (ЧЧ Антья 10.119) — спросить специалиста; найти в житиях лотосовые пруды Навадвипы"
 
 - id: mc-jasmines
   title: {ru: "Жасмины: маллика, малати, ютхи, кунда", en: "Jasmines: mallika, malati, yuthi, kunda"}
@@ -475,3 +477,247 @@
   images: []
   game: {model: "кусты и лианы 1–3 м с белыми цветами; корзинка с цветами и нить для гирлянды",
          where: ["mishra-house/courtyard", "puri/garden"], notes: "отождествления видов по традиционной ботанике — проверить у специалиста"}
+
+- id: mc-ketaki
+  title: {ru: "Кетаки (пандан)", en: "Ketaki (screw-pine)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Стопки листьев кетаки вместо тарелок на пиру у Гундичи в Пури — ЧЧ Мадхья 14.37; кетаки в поэтических образах
+      Карнапуры (сарга 7.43). Описание растения — по общим ботаническим сведениям.
+    en: >-
+      Stacks of ketaki leaves used as plates at the feast near Gundicha in Puri — CC Madhya 14.37; ketaki in
+      Karnapura's poetic images (canto 7.43). Description of the plant from general botany.
+  text:
+    ru: >-
+      Кетаки (Pandanus, бенг. кея) — колючий куст с длинными узкими листьями, похожими на мечи, и воздушными корнями,
+      частый на морских дюнах и по берегам рек. В сезон дождей распускаются его белые сладко пахнущие соцветия в
+      золотистых обёртках; их кладут между одеждами для аромата. В Пури из широких оснований листьев кетаки делали
+      тарелки: на пиру в саду у Гундичи угощений было столько, что каждому раздали по десять таких тарелок.
+    en: >-
+      Ketaki (Pandanus, Bengali keya) is a spiny shrub with long narrow sword-like leaves and stilt roots, common on
+      sea dunes and river banks. In the rains it opens white, sweet-scented flower-spikes in golden sheaths, which are
+      laid among clothes for their fragrance. In Puri the broad bases of ketaki leaves were made into plates: at the
+      feast in the garden by Gundicha there was so much food that everyone was given ten such plates.
+  hagiography: ["ЧЧ Мадхья 14.37", "Карнапура, сарга 7.43"]
+  sources: []
+  images: []
+  game: {model: "куст 2–4 м на ходульных корнях, пучки длинных колючих листьев", where: ["puri/beach", "puri/gundicha-garden"]}
+
+- id: mc-rice-fields
+  title: {ru: "Рис на полях: аус, аман, шали", en: "Rice in the fields: aus, aman, shali"}
+  rubric: nature
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      В житиях — неочищенный рис (дхан) в благословении и в запасах дома (см. mc-rice-dal, mc-durva-blessing); сорта
+      и сельский календарь — по описаниям XIX в. (Day 1874; Watt 1889–96, «Oryza»), для эпохи прямо не
+      засвидетельствованы, но система трёх урожаев древняя (санскр. шали — зимний рис).
+    en: >-
+      The hagiographies mention unhusked rice (dhan) in blessings and household stores (see mc-rice-dal,
+      mc-durva-blessing); varieties and the farm calendar follow 19th-c. accounts (Day 1874; Watt 1889–96, "Oryza"),
+      not directly attested for the period, though the three-harvest system is old (Sanskrit shali, winter rice).
+  text:
+    ru: >-
+      Бенгалия живёт рисом, и поля вокруг Навадвипы меняют цвет по временам года. Аус — «быстрый» рис: его сеют с
+      первыми дождями и жнут уже в бхадре. Аман, или шали, — главный урожай: рассаду пересаживают в залитые водой поля
+      в разгар муссона, а убирают в аграхаяне, в начале зимы; к этому урожаю приурочен праздник нового риса
+      (наванна). Есть и тонкие душистые сорта, которые берегут для Божества и праздников. Солома идёт на кровлю, корм
+      скоту и топливо.
+    en: >-
+      Bengal lives on rice, and the fields round Navadvipa change colour with the seasons. Aus is the "quick" rice:
+      sown with the first rains and reaped already in Bhadra. Aman or shali is the main crop: seedlings are
+      transplanted into flooded fields at the height of the monsoon and harvested in Agrahayana, at the start of winter;
+      the festival of new rice (navanna) belongs to this harvest. There are also fine fragrant kinds kept for the Deity
+      and for feasts. The straw goes for thatch, fodder and fuel.
+  hagiography: ["ЧБ Ади 4.34", "ЧБ Ади 4.21"]
+  sources: ["Day, Bengal Peasant Life (1874) — сельский год", "Watt, Dictionary of the Economic Products of India (1889–96), т. V, Oryza sativa"]
+  images: []
+  game: {model: "заливные поля с межами; зелёная рассада / золотые колосья по сезону; стога соломы",
+         where: ["navadvipa/fields"]}
+  todo: "проверить страницы Day и Watt; найти в ЧБ/Лочане упоминания полей и жатвы; наванна — есть ли в житиях"
+
+- id: mc-kusha-grass
+  title: {ru: "Трава куша", en: "Kusha grass"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Куша в обрядах — общеведийская практика (кольцо-павитра, сиденье, обряды шраддхи); в наших житиях эпизоды с кушей
+      пока не выписаны — проверить ЧБ Ади 8 (шраддха Джаганнатхи Мишры) и ЧБ Ади 14 (обряды Шачи).
+    en: >-
+      Kusha in rites is general Vedic practice (the pavitra ring, seat, shraddha rites); episodes with kusha in our
+      hagiographies are not yet extracted — check CB Adi 8 (Jagannatha Mishra's shraddha) and CB Adi 14.
+  text:
+    ru: >-
+      Куша (Desmostachya bipinnata) — жёсткая высокая трава с острыми, режущими краями листьев. Без неё не обходится
+      ни один ведийский обряд: брахман надевает на палец кольцо-павитру из двух травинок куши, садится на подстилку из
+      куши, кропит водой пучком куши и кладёт её на алтарь. В отличие от нежной дурвы, которой благословляют, куша —
+      трава чистоты и обряда; её рвут в поле по особым дням и сушат впрок.
+    en: >-
+      Kusha (Desmostachya bipinnata) is a tall, stiff grass with sharp, cutting leaf edges. No Vedic rite is done
+      without it: the brahmana slips onto his finger a pavitra ring of two kusha blades, sits on a kusha mat, sprinkles
+      water with a bunch of kusha and lays it on the altar. Unlike the tender durva used for blessing, kusha is the
+      grass of purity and ritual; it is cut in the fields on special days and dried for keeping.
+  hagiography: []
+  sources: []
+  images: []
+  game: {model: "пучки высокой жёсткой травы 60–100 см; кольцо из двух травинок", where: ["mishra-house/thakur-ghar", "ganga-ghat"]}
+  todo: "найти кушу в ЧБ Ади 8, 14, 15 и Лочане (шраддха, свадьба)"
+
+- id: mc-sugarcane-gur
+  title: {ru: "Сахарный тростник и гур", en: "Sugarcane and gur"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Ступени сахара — семя, тростник, сок, гур, кханда, сара, шаркара, сита, мичхри, лучший мичхри — ЧЧ Мадхья
+      19.179 (= Мадхья 23.39) как образ ступеней бхакти; «жевать сахарный тростник» — ЧЧ Антья 4.238. Описание
+      выварки — Dutt 1877, с. 265–266.
+    en: >-
+      The stages of sugar — seed, cane, juice, gur, khanda, sara, sharkara, sita, michhri, best michhri — CC Madhya
+      19.179 (= Madhya 23.39) as an image of the stages of bhakti; "chewing sugarcane" — CC Antya 4.238. Boiling
+      described in Dutt 1877, pp. 265–266.
+  text:
+    ru: >-
+      Сахарный тростник (санскр. икшу, бенг. акх) растёт высокими зарослями на плодородных полях. Стебли жуют,
+      высасывая сладкий сок, или давят в деревянном прессе, а сок уваривают в широком котле в густую бурую патоку —
+      гур. Дальше его очищают: из гура получают кханду, затем сахар и, наконец, прозрачные кристаллы мишри. Кришнадас
+      Кавирадж сравнивает с этими ступенями сладости ступени преданности — от семени до чистейшей премы.
+    en: >-
+      Sugarcane (Sanskrit ikshu, Bengali akh) grows in tall stands on fertile fields. The stems are chewed for their
+      sweet juice or crushed in a wooden press, and the juice is boiled in a wide pan into a thick brown treacle, gur.
+      Then it is refined: gur gives khanda, then sugar, and at last clear crystals of mishri. Krishnadasa Kaviraja
+      compares these stages of sweetness to the stages of devotion — from the seed to the purest prema.
+  hagiography: ["ЧЧ Мадхья 19.179", "ЧЧ Мадхья 23.39", "ЧЧ Антья 4.238"]
+  sources: ["Dutt 1877, с. 265–266 (Saccharum officinarum)"]
+  images: []
+  game: {model: "заросль тростника 3–4 м; деревянный пресс на быке; широкий железный котёл над ямным очагом",
+         where: ["navadvipa/fields"]}
+
+- id: mc-mustard-sesame
+  title: {ru: "Горчица и кунжут — масличные", en: "Mustard and sesame — the oil crops"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Горчичное масло среди даров женщинам после рождения Господа — ЧБ Ади 4.21; горчичное масло для массажа
+      бенгальским вайшнавам — ЧЧ Мадхья 25.199; кунжутные сладости — ЧЧ Мадхья 14.31; нос «как цветок кунжута» — ЧЧ Ади
+      3.44. Сведения о маслобойне (гхани) — по описаниям XIX в.
+    en: >-
+      Mustard oil among gifts to the women after the Lord's birth — CB Adi 4.21; mustard oil for massage for the
+      Bengali Vaishnavas — CC Madhya 25.199; sesame sweets — CC Madhya 14.31; a nose "like a sesame flower" — CC Adi
+      3.44. The oil-press (ghani) after 19th-c. accounts.
+  text:
+    ru: >-
+      Зимой поля Бенгалии становятся ярко-жёлтыми: цветёт горчица (бенг. сориша). Из её семян давят острое горчичное
+      масло — главное масло бенгальской кухни и масло для растирания тела перед омовением; его вместе с куркумой и
+      бетелем раздавали женщинам на празднике рождения Господа. Кунжут (тил) — более древняя масличная культура: его
+      масло (тайла — само слово «масло» происходит от тила) идёт в светильники и лекарства, а семена — в сладости.
+      Масло выжимали в деревянной маслобойне, которую ходя по кругу вращал вол.
+    en: >-
+      In winter the fields of Bengal turn bright yellow: the mustard (Bengali sorisha) is in flower. Its seeds give
+      pungent mustard oil — the chief oil of Bengali cooking and the oil for rubbing the body before bathing; with
+      turmeric and betel it was given to the women at the festival of the Lord's birth. Sesame (til) is an older oil
+      crop: its oil (taila — the very word for "oil" comes from tila) goes into lamps and medicines, and the seeds into
+      sweets. Oil was pressed in a wooden mill turned by an ox walking in a circle.
+  hagiography: ["ЧБ Ади 4.21", "ЧЧ Мадхья 25.199", "ЧЧ Мадхья 14.31", "ЧЧ Ади 3.44"]
+  sources: []
+  images: []
+  game: {model: "поле жёлтой горчицы; деревянная маслобойня-гхани с волом и шестом", where: ["navadvipa/fields", "navadvipa/oil-press"]}
+  todo: "проверить в житиях маслобойщиков (тели); источник XIX в. о гхани (Risley? Martin?)"
+
+- id: mc-fibre-dye-plants
+  title: {ru: "Хлопок, джут и краски: индиго, куркума, марена", en: "Cotton, jute and dyes: indigo, turmeric, madder"}
+  rubric: nature
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Хлопковые ткани и подушки (тули) — ЧЧ Мадхья 13.11, 14.247; ткачи — mc-weaver; ткань, крашенная в красное, — ЧЧ
+      Антья 13.7. Возделывание джута и индиго в эпоху — общие сведения по истории Бенгалии (джут — пат, древняя
+      местная культура; индиго — древний индийский краситель, массовые плантации — британские XVIII–XIX вв. ⚠).
+    en: >-
+      Cotton cloth and pillows (tuli) — CC Madhya 13.11, 14.247; weavers — mc-weaver; cloth dyed red — CC Antya 13.7.
+      Growing of jute and indigo in the period — general knowledge of Bengal's history (jute, pat, an old local crop;
+      indigo an ancient Indian dye, mass plantations British of the 18th–19th c. ⚠).
+  text:
+    ru: >-
+      Из хлопка (карпас) пряли нить для дхоти и сари — бенгальские ткачи славились тончайшей тканью; хлопком набивали
+      и большие подушки-тули, по которым в Пури перекатывали Джаганнатху к колеснице. Джут (пат) давал грубое волокно
+      для верёвок, мешков и циновок. Ткани красили растительными красками: жёлтой — куркумой, красной — мареной, лаком
+      и сафлором, синей — индиго, а шафранную ткань монахов — охрой (геру), красной глиной.
+    en: >-
+      Cotton (karpasa) was spun into thread for dhotis and saris — Bengal's weavers were famed for the finest cloth;
+      cotton also stuffed the great tuli cushions on which Jagannatha was rolled to His chariot in Puri. Jute (pat) gave
+      coarse fibre for ropes, sacks and mats. Cloth was dyed with plant colours: yellow from turmeric, red from madder,
+      lac and safflower, blue from indigo, and the saffron cloth of monks with ochre (geru), a red earth.
+  hagiography: ["ЧЧ Мадхья 13.11", "ЧЧ Мадхья 14.247", "ЧЧ Антья 13.7"]
+  sources: []
+  images: []
+  game: {model: "кусты хлопка с раскрытыми коробочками; связки джута, вымачиваемые в пруду; чаны с краской",
+         where: ["navadvipa/weavers"]}
+  todo: "найти PD-источник (Watt; Birdwood 1880) о бенгальских красках; геру для одежд санньяси — ссылка в ЧЧ/ЧБ"
+
+- id: mc-kitchen-garden
+  title: {ru: "Огород у дома", en: "The kitchen garden"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Огород Кхоловечи Шридхара (банан, тыква-лау) — ЧБ Ади 12, ЧЧ Ади 10.67–68 (см. mc-shridhar-hut, mc-banana-tree);
+      набор овощей в меню (патол, лау, кочу, баклажан, шпинаты-шак, горькая дыня) — ЧЧ Мадхья 3.43–50, Антья 10.136 (см.
+      mc-vegetable-dishes). Устройство огорода — реконструкция.
+    en: >-
+      Kholaveca Shridhara's garden (banana, lau gourd) — CB Adi 12, CC Adi 10.67–68 (see mc-shridhar-hut,
+      mc-banana-tree); the set of vegetables in menus (patol, lau, kochu, eggplant, shak greens, bitter gourd) — CC Madhya
+      3.43–50, Antya 10.136 (see mc-vegetable-dishes). The layout of the garden is a reconstruction.
+  text:
+    ru: >-
+      За хижиной у бенгальской семьи — свой огород, и почти всё, что подаётся в обед, растёт тут же. По бамбуковой
+      решётке на крышу хижины взбирается тыква-лау с белыми цветами; рядом вьются патол и горькая дыня-карела, растут
+      баклажаны, клубни кочу у пруда, имбирь, куркума и грядки зелени-шак. Овощи растят женщины, а лишнее везут на
+      рынок, как Шридхар, продававший тыквы и бананы. Помидоров, картофеля и перца чили в этом огороде ещё нет.
+    en: >-
+      Behind the hut a Bengali family keeps its own garden, and nearly everything served at lunch grows right there.
+      The lau gourd with its white flowers climbs a bamboo trellis onto the hut roof; beside it twine patol and bitter
+      gourd (karela), with eggplants, kochu tubers by the pond, ginger, turmeric and beds of shak greens. Women raise the
+      vegetables, and the surplus goes to market, as with Shridhara, who sold gourds and bananas. There are no tomatoes,
+      potatoes or chillies in this garden yet.
+  hagiography: ["ЧБ Ади 12.195–203", "ЧЧ Ади 10.67–68", "ЧЧ Мадхья 3.43–50", "ЧЧ Антья 10.136"]
+  sources: []
+  images: []
+  game: {model: "грядки, бамбуковая шпалера с тыквой-лау на крыше, кусты баклажанов, листья кочу",
+         where: ["mishra-house/backyard"]}
+  todo: "проверить, что Шридхар продавал тыквы-лау (ЧБ Ади 12, Мадхья 9) — по оригиналу"
+
+- id: mc-new-world-plants-absent
+  title: {ru: "⚠ Чего ещё не было: растения из Америки", en: "⚠ Not yet there: plants from the Americas"}
+  rubric: nature
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Чили, табак, картофель, томат, кукуруза, ананас, папайя, гуава, кешью, бархатцы происходят из Америки и попали в
+      Индию через португальцев не раньше XVI в. (большинство — во второй половине XVI–XVII в.). В житиях эпохи их нет:
+      острота блюд — от имбиря и чёрного перца (ЧЧ Мадхья 3, Антья 10 — см. mc-vegetable-dishes).
+    en: >-
+      Chilli, tobacco, potato, tomato, maize, pineapple, papaya, guava, cashew and marigolds come from the Americas and
+      reached India through the Portuguese no earlier than the 16th century (most in the later 16th–17th c.). The
+      period's hagiographies lack them: pungency comes from ginger and black pepper (CC Madhya 3, Antya 10 — see
+      mc-vegetable-dishes).
+  text:
+    ru: >-
+      Многое, без чего сегодня трудно представить Индию, во времена Махапрабху ещё не росло в Бенгалии. Не было
+      перца чили — блюда делали острыми имбирём, чёрным и длинным перцем и горчицей. Не было картофеля, томатов,
+      кукурузы, ананасов, папайи, гуавы и кешью. Не курили табак. А гирлянды плели не из оранжевых бархатцев, привычных
+      нам по храмам, а из жасмина, чампаки, бакулы, кадамбы, лотосов и туласи.
+    en: >-
+      Much that is hard to imagine India without today did not yet grow in Bengal in Mahaprabhu's time. There were no
+      chillies — dishes were made hot with ginger, black and long pepper and mustard. There were no potatoes, tomatoes,
+      maize, pineapples, papaya, guava or cashew. No one smoked tobacco. And garlands were made not of the orange
+      marigolds now familiar from temples but of jasmine, champaka, bakula, kadamba, lotuses and tulasi.
+  hagiography: ["ЧЧ Мадхья 3.43–50", "ЧЧ Антья 10.136"]
+  sources: ["Watt, Dictionary of the Economic Products of India (1889–96): Capsicum, Nicotiana (о позднем появлении)"]
+  images: []
+  game: {model: "—", where: [], notes: "правило для художников: не ставить эти растения в сцены эпохи"}
+  todo: "уточнить страницы Watt о Capsicum и Nicotiana"
