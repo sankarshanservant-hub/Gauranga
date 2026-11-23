@@ -1,5 +1,5 @@
-# Srila Bhakti Vilas Tirtha Goswami Maharaj
-*Шрила Бхакти Вилас Тиртха Госвами Махарадж · @bhakti-vilasa-tirtha*
+# Srila Bhakti Vilasa Tirtha Gosvami Maharaja
+*Шрила Бхакти Виласа Тиртха Госвами Махарадж · @bhakti-vilasa-tirtha*
 
 ## Kunja Babu
 Among the disciples of Srila Bhaktisiddhanta Sarasvati Thakura, one of the first and closest to him was Kunjavihari
@@ -8,7 +8,7 @@ the world he bore the name Kunjavihari (Kunjabihari), and in the Gaudiya Math he
 with the titles “Acharyatrika” and “Paravidyabhushana Bhagavata-ratna”; in the chronicles of the mission he is
 “Maha-mahopadeshaka,” the great instructor; and those close to him called him “Prabhupada-preshtha,” dear to
 Prabhupada, as the disciples called their guru. For many years he was the secretary and manager of the Gaudiya Math. In
-1948 he accepted sannyasa with the name Tridandi Swami Bhakti Vilas Tirtha Goswami Maharaj, and to the end of his days
+1948 he accepted sannyasa with the name Tridandi Swami Bhakti Vilasa Tirtha Gosvami Maharaja, and to the end of his days
 he remained the acharya of the Sri Chaitanya Math; his disciples called him Srila Tirtha Maharaj, Acharyadeva and
 Acharyapada. The calendar of the Sri Chaitanya Saraswat Math marks his days as those of “Tridandi Swami Srimad Bhakti
 Vilas Tirtha Maharaj,” and “Our Teachers” names him among those great disciples of Srila Bhaktisiddhanta who themselves
@@ -182,7 +182,7 @@ guru entered his mind; he had courage enough to rely on himself, yet in every tr
 mercy. <!-- F37 Q6 -->
 
 He himself accepted sannyasa on the very first Gaura-jayanti after receiving the Sri Chaitanya Math — 25 March 1948,
-Gaura-purnima — and from then on was called Tridandi Swami Bhakti Vilas Tirtha Goswami Maharaj. From whom he accepted
+Gaura-purnima — and from then on was called Tridandi Swami Bhakti Vilasa Tirtha Gosvami Maharaja. From whom he accepted
 sannyasa the biographies do not say. <!-- F38 -->
 
 ## Acharya of the Sri Chaitanya Math
@@ -388,7 +388,7 @@ the Chief Justice of West Bengal, Shankar Prasad Mitra. <!-- F70 F71 F111 -->
 
 ## Disciple and Teacher
 Among Tirtha Maharaj's disciples one was especially dear to him: Nandadulal Brahmachari, later Srila Bhakti Prajnana
-Yati Goswami Maharaj. He recalled: he first came to Mayapur in 1950 but found neither the acharya nor the president of
+Yati Gosvami Maharaja. He recalled: he first came to Mayapur in 1950 but found neither the acharya nor the president of
 the math; the second time was at the end of 1951. For a full ten months his gurudeva himself taught him Gaudiya
 Vaishnava philosophy, and in 1952 sent him to Madras. Nobody so devoted, practical and disciplined as his gurudeva, the
 disciple said, had he ever met: not a single superfluous word, his whole life by the clock; he was never a second late
