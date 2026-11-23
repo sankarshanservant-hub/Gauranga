@@ -280,3 +280,331 @@
   game: {model: "глиняные горшочки с завязанной тканью горловиной: имбирь и дольки цитрусов в густом сиропе; сушёные миробаланы в корзинке",
          where: ["mishra-house/kitchen", "navadvipa/market"]}
   todo: "есть ли сладкие варенья в перечнях ЧЧ (Мадхья 3, 15; «джхали» Рагхавы) — сверить по оригиналу"
+
+- id: mc-pakhala
+  title: {ru: "Пакхала — рис в воде (Орисса)", en: "Pakhala — rice in water (Orissa)"}
+  rubric: kitchen
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      «Айн-и Акбари» (1590-е) об Ориссе: едят рис, рыбу, баклажан и овощи; «сварив рис, заливают холодной водой и едят
+      на второй день» (пер. Jarrett, т. II, 1891, с. 126). Ория-названия: *пакхал* — варёный рис, оставленный закисать в
+      воде, *торани* — сама эта вода; там же *кхаи, мури, чура, питха, кхечури, кхири, джау, уккхуда, чхату* — Hunter,
+      Orissa II (1872), с. 45–46 (XIX в.). В Бенгалии то же — *панта-бхат*, вода от него — *амани* (Мукундарам;
+      Тарафдар 1965, с. 331; mc-kanji). Что пакхала входит в подношения Джаганнатхе — современная традиция, не по
+      источникам эпохи.
+    en: >-
+      Ain-i Akbari (1590s) on Orissa: they eat rice, fish, aubergine and vegetables; 'having boiled the rice, they steep
+      it in cold water and eat it the next day' (tr. Jarrett, vol. II, 1891, p. 126). Oriya names: *pakhal* — cooked
+      rice left to sour in water, *torani* — that water itself; also *khai, muri, chura, pitha, khechuri, khiri, jau,
+      ukkhuda, chhatu* — Hunter, Orissa II (1872), pp. 45–46 (19th c.). In Bengal the same is *panta-bhat*, its water
+      *amani* (Mukundaram; Tarafdar 1965, p. 331; mc-kanji). That pakhala is among the offerings to Jagannatha is
+      present-day tradition, not from period sources.
+  text:
+    ru: >-
+      В жаркой Ориссе рис варили с запасом, а остаток заливали холодной водой и оставляли до утра: за ночь он слегка
+      закисал, и на другой день его ели прямо с водой — прохладный, лёгкий, с солью, овощами или жареным баклажаном.
+      По-орийски это *пакхал*, а кисловатая вода — *торани*; в Бенгалии такой рис зовут *панта-бхат* и едят на завтрак
+      и бедные, и богатые. Слуга двора Акбара отметил этот обычай как главную особенность орийского стола.
+    en: >-
+      In hot Orissa rice was cooked with some to spare, and the remainder was covered with cold water and left
+      overnight: by morning it had soured slightly, and next day it was eaten with its water — cool and light, with
+      salt, vegetables or fried aubergine. In Oriya it is *pakhal* and the sour water *torani*; in Bengal such rice is
+      *panta-bhat*, eaten for breakfast by poor and rich alike. A servant of Akbar's court noted this custom as the
+      hallmark of the Oriya table.
+  hagiography: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126",
+            "Hunter, Orissa (1872), т. II, с. 45–46 (ория-названия рисовых блюд, XIX в.)",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 331 (панта-бхат на завтрак)"]
+  images: []
+  game: {model: "глиняная миска с рисом в мутноватой воде, рядом соль, жареный баклажан и зелёный лук",
+         where: ["puri/house", "travel/orissa-village"]}
+
+- id: mc-jagannatha-six-baths
+  title: {ru: "Шесть омовений и переодеваний Джаганнатхи в день", en: "Jagannatha bathed and dressed six times a day"}
+  rubric: puri
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      «Айн-и Акбари» (1590-е): три Божества «омывают шесть раз в день и одевают заново»; служат 50–60 жрецов со
+      священным шнуром; каждый раз выносят большие блюда пищи и предлагают, «так что 20 000 человек вкушают остатки»
+      (пер. Jarrett, т. II, 1891, с. 128). Абу-л Фазл писал с чужих слов; «шесть омовений» — вероятно, шесть дневных
+      служений с подношением пищи и сменой убора (позднейшие названия служений — не по эпохе). По Hunter (1872, т. I,
+      с. 138, XIX в.) — отдельные разряды слуг укладывают, одевают и омывают Господа. В ЧЧ — смена одежд и подношения
+      в течение дня (см. mc-mahaprasad, mc-jagannatha-darshan).
+    en: >-
+      Ain-i Akbari (1590s): the three Deities 'are bathed six times a day and dressed afresh'; 50–60 priests wearing the
+      sacred thread serve; each time great dishes of food are brought and offered, 'so that 20,000 people partake of
+      the remains' (tr. Jarrett, vol. II, 1891, p. 128). Abu'l Fazl wrote at second hand; the 'six baths' are probably
+      the six daily services with food offering and change of dress (later names of the services are not of the
+      period). Per Hunter (1872, vol. I, p. 138, 19th c.), separate orders of servants put the Lord to rest, dress and
+      bathe Him. CC — changes of dress and offerings through the day (see mc-mahaprasad, mc-jagannatha-darshan).
+  text:
+    ru: >-
+      В Пури Господу служат весь день, как служат царю. По рассказу, записанному при дворе Акбара, Джаганнатху,
+      Баладеву и Субхадру шесть раз в день омывают и облачают в новые одежды, и каждый раз Им подносят огромные блюда
+      с пищей. Служат пятьдесят-шестьдесят брахманов, а остатки подношений — махапрасад — раздают так щедро, что их
+      вкушают двадцать тысяч человек. Для паломника из Бенгалии это означало, что милость Господа в Пури не иссякает
+      с утра до ночи.
+    en: >-
+      In Puri the Lord is served all day long, as a king is served. By an account written down at Akbar's court,
+      Jagannatha, Baladeva and Subhadra are bathed and dressed in new clothes six times a day, and each time huge dishes
+      of food are offered to Them. Fifty or sixty brahmins serve, and the remnants of the offerings — mahaprasada — are
+      given out so generously that twenty thousand people partake of them. For a pilgrim from Bengal this meant that
+      the Lord's mercy in Puri never ran dry from morning till night.
+  hagiography: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128",
+            "Hunter, Orissa I (1872), с. 138 (разряды слуг, XIX в.)"]
+  images: []
+  game: {model: "алтарь (ратна-симхасана) с тремя Божествами в свежих одеждах и гирляндах; брахманы с блюдами пищи",
+         where: ["puri/jagannath-temple"]}
+
+- id: mc-cuttack-palace
+  title: {ru: "Катак: девятиэтажный дворец Мукунда-девы", en: "Cuttack: Mukunda-deva's nine-storey palace"}
+  rubric: travel
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      «Айн-и Акбари» (1590-е): Катак — каменная крепость при раздвоении рек Маханади и Катджури; раджа Мукунда-дева
+      построил дворец в девять этажей: 1-й — слоны и конюшни, 2-й — артиллерия и стража, 3-й — дозор и привратники,
+      4-й — мастерские, 5-й — кухня, 6-й — приёмные залы, 7-й — личные покои, 8-й — женская половина, 9-й —
+      опочивальня (пер. Jarrett, т. II, 1891, с. 127). ⚠ Мукунда-дева правил ок. 1559–1568, после Махапрабху; при
+      Пратапарудре Катак тоже был столицей — Федеричи (1569): «Catecha» в 6 днях пути от моря (Hakluyt V, с. 409).
+      Господь в Катаке у Сакши-Гопала; Катак — столица царя — ЧЧ Мадхья 5.5–8, 5.123–133, 12.5.
+    en: >-
+      Ain-i Akbari (1590s): Cuttack is a stone fort at the fork of the Mahanadi and Katjuri; Raja Mukunda-deva built a
+      nine-storey palace: 1st — elephants and stables, 2nd — artillery and guards, 3rd — watch and doorkeepers, 4th —
+      workshops, 5th — kitchen, 6th — audience halls, 7th — private apartments, 8th — women's quarters, 9th — bedchamber
+      (tr. Jarrett, vol. II, 1891, p. 127). ⚠ Mukunda-deva reigned c. 1559–1568, after Mahaprabhu; under Prataparudra
+      Cuttack was also the capital — Federici (1569): 'Catecha', six days' journey from the sea (Hakluyt V, p. 409).
+      The Lord at Cuttack before Sakshi-Gopala; Cuttack the king's capital — CC Madhya 5.5–8, 5.123–133, 12.5.
+  text:
+    ru: >-
+      Катак, столица царей Ориссы, стоял на мысу, где Маханади раздваивается, и был обнесён каменной крепостью. Через
+      тридцать лет после Махапрабху последний независимый царь Ориссы Мукунда-дева выстроил здесь дворец в девять
+      ярусов: внизу — слоны и конюшни, выше — стража и привратники, мастерские, кухня, приёмные залы, личные покои и
+      женская половина, а на самом верху — царская опочивальня. Дворец Пратапарудры, которого знал Господь, до нас не
+      дошёл, но и он стоял в этой крепости; здесь же, в Катаке, Махапрабху видел Сакши-Гопала.
+    en: >-
+      Cuttack, the capital of Orissa's kings, stood on the point where the Mahanadi forks and was girt by a stone fort.
+      Thirty years after Mahaprabhu, Orissa's last independent king Mukunda-deva built a nine-tiered palace here: at the
+      bottom elephants and stables, above them guards and doorkeepers, workshops, the kitchen, audience halls, private
+      apartments and the women's quarters, and at the very top the royal bedchamber. Prataparudra's palace, which the
+      Lord knew, has not survived, but it too stood within this fort; here in Cuttack Mahaprabhu beheld
+      Sakshi-Gopala.
+  hagiography: ["ЧЧ Мадхья 5.5–8", "ЧЧ Мадхья 5.123–133", "ЧЧ Мадхья 12.5"]
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 127",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409"]
+  images: []
+  game: {model: "каменная крепость на мысу между двумя реками; ступенчатый дворец в 9 ярусов (схематично)",
+         where: ["travel/cuttack"]}
+  todo: "годы Мукунда-девы (ок. 1559–1568) — сверить по Banerji 1930–31"
+
+- id: mc-phullara-market
+  title: {ru: "Рынок Пхуллары: что почём у охотника", en: "Phullara's market: a hunter's prices"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 35–36: жена охотника Пхуллара каждый день несёт добычу на
+      рынок (*хат*) — на голове и на бедре; продав, берёт каури и покупает рис, дал, бади, масло, соль, зелень, баклажан,
+      редьку, стебель банана (*тхор*), зелёные бананы; цены охотничьего товара — хвосты яков (*чамар*) по 4 пана; пара
+      буйволиных рогов — пан (берут трубачи-*шингадар*); тигровые шкуры берут санньяси; тигровые когти дети покупают за
+      горсть рисовой сечки (*кхуд*); рог носорога (*кхадга*) — пан, его берут брахманы для *тарпаны*. Перевод выписки
+      — исполнителя primary. Счёт каури — mc-cowrie-money.
+    en: >-
+      Mukundaram, Chandi-mangala (c. 1590), ed. 1868, pp. 35–36: the hunter's wife Phullara carries the catch to market
+      (*hat*) every day — on her head and on her hip; having sold it she takes cowries and buys rice, dal, badi, oil,
+      salt, greens, aubergine, radish, banana stem (*thor*), green bananas; prices of the hunter's wares — yak tails
+      (*chamar*) at 4 pan; a pair of buffalo horns for a pan (bought by horn-blowers, *shingadar*); tiger skins are
+      bought by sannyasis; tiger claws children buy for a handful of broken rice (*khud*); rhinoceros horn (*khadga*) for
+      a pan, bought by brahmins for *tarpana*. Translation of the extract by the primary worker. Cowrie reckoning —
+      mc-cowrie-money.
+  text:
+    ru: >-
+      Поэт Мукундарам, писавший через полвека после Господа, показал бенгальский рынок глазами бедной жены охотника.
+      Пхуллара приходит на хат с ношей на голове и на бедре, продаёт добычу и уносит горсть каури, а на них покупает
+      рис, дал, сушёные бади, масло, соль, зелень, баклажаны, редьку, банановый стебель и зелёные бананы. Свой товар
+      был и у охотника: белые хвосты яков для опахал-чамар — по четыре паны, буйволиные рога — пара за пану, их
+      разбирали трубачи; тигровые шкуры брали отшельники-санньяси для сидения, тигровые когти дети выменивали на
+      горсть рисовой сечки, а рог носорога брахманы покупали для обряда возлияния предкам.
+    en: >-
+      The poet Mukundaram, writing half a century after the Lord, showed a Bengal market through the eyes of a hunter's
+      poor wife. Phullara comes to the hat with a load on her head and her hip, sells the catch and carries off a
+      handful of cowries, and with them buys rice, dal, dried badi, oil, salt, greens, aubergines, radish, banana stem
+      and green bananas. The hunter had wares of his own: white yak tails for chamara fans at four pana each, buffalo
+      horns a pair for a pana, taken by horn-blowers; tiger skins were bought by sannyasi hermits to sit on, children
+      bartered tiger claws for a handful of broken rice, and brahmins bought rhinoceros horn for the rite of libation to
+      the ancestors.
+  hagiography: []
+  sources: ["Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 35–36"]
+  images: []
+  game: {model: "рыночный ряд: циновка с хвостами яков, рогами, тигровой шкурой и когтями; корзины с овощами; горсть каури",
+         where: ["navadvipa/market"]}
+
+- id: mc-khullana-kitchen
+  title: {ru: "Кухня Кхулланы: обед купеческого дома", en: "Khullana's kitchen: a merchant family's dinner"}
+  rubric: kitchen
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 140–141: Кхуллана готовит мужу Дханапати — баклажан,
+      тыква, таро с банановым соцветием, загущённые пастой бесана; обжаривание в гхи с асафетидой и тмином — «шукто
+      отменное»; *пхул-бари* в гхи; листья джута в горчичном масле; молоко с тыквой-лау и сахаром «на огне два данда» с
+      анисом; суп из мунга на соке тростника; суп из маша; рыбы (кои с молотым перцем *марич* — чёрным! — и соком
+      имбиря, читал, рохú в соусе, шол, угорь с тамариндом), вада из креветок; *кшира*, *калā-бада*, *кшира-пули*,
+      рисовые лепёшки; «пятьдесят видов». Подача (с. 141): рис на золотом блюде, первым — шукто, затем гханта и зелень;
+      перед едой Дханапати пьёт воду омовения шалаграмы; родичи едят вместе, хозяин — последним. Дас Гупта (1935,
+      с. 57): Кхуллана, как и Санака у Бамшидаса, готовит по сотне блюд.
+    en: >-
+      Mukundaram, Chandi-mangala (c. 1590), ed. 1868, pp. 140–141: Khullana cooks for her husband Dhanapati — aubergine,
+      gourd, taro with banana flower thickened with gram-flour paste; frying in ghee with asafoetida and cumin — 'a
+      superb shukto'; *phul-bari* in ghee; jute leaves in mustard oil; milk with lau gourd and sugar 'on the fire two
+      dandas' with anise; mung soup on sugarcane juice; mash soup; fish (koi with ground *marich* — black pepper! — and
+      ginger juice, chital, rohu in gravy, shol, eel with tamarind), prawn vadas; *kshira*, *kala-bada*, *kshira-puli*,
+      rice cakes; 'fifty kinds'. Serving (p. 141): rice on a gold platter, shukto first, then ghanta and greens; before
+      eating Dhanapati sips the bathing water of the shalagrama; kin eat together, the master last. Das Gupta (1935,
+      p. 57): Khullana, like Sanaka in Bamshidas, cooks a hundred dishes.
+  text:
+    ru: >-
+      Как готовили в богатом бенгальском доме, показал Мукундарам: героиня его поэмы Кхуллана кормит мужа-купца
+      «пятьюдесятью видами» блюд. Здесь горькое шукто, обжаренное в гхи с асафетидой и тмином, таро с банановым
+      соцветием, бобовые шарики-бари, листья джута в горчичном масле, тыква в молоке с сахаром и анисом, супы из мунга и
+      маша, сладкий рис и пирожки. Подают по порядку: рис на золотом блюде, первым — шукто, за ним овощи и зелень, в
+      конце — сладкое; хозяин дома ест последним. Купеческая семья ест и рыбу; в вайшнавском доме Шачи те же овощные
+      блюда подносили Господу без рыбы — их перечни в житиях очень похожи.
+    en: >-
+      Mukundaram showed how a rich Bengal household cooked: the heroine of his poem, Khullana, feeds her merchant
+      husband 'fifty kinds' of dishes. There is bitter shukto fried in ghee with asafoetida and cumin, taro with banana
+      flower, pulse dumplings (bari), jute leaves in mustard oil, gourd in milk with sugar and anise, soups of mung and
+      mash, sweet rice and cakes. They are served in order: rice on a gold platter, shukto first, then vegetables and
+      greens, sweets at the end; the master of the house eats last. The merchant family also eats fish; in Shachi's
+      Vaishnava home the same vegetable dishes were offered to the Lord without fish — the lists in the hagiographies
+      are strikingly alike.
+  hagiography: ["ЧЧ Мадхья 3.43–50", "ЧЧ Мадхья 15.54–55"]
+  sources: ["Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 140–141",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 57"]
+  images: []
+  game: {model: "золотое (латунное) блюдо с горкой риса и кругом чашечек: шукто, гханта, шак, дал, бари, сладкое",
+         where: ["mishra-house/kitchen"], notes: "для дома Мишры — без рыбы"}
+
+- id: mc-hunters-supper
+  title: {ru: "Ужин охотника: кокосовая скорлупа и глиняная миска", en: "The hunter's supper: coconut shell and clay bowl"}
+  rubric: kitchen
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 36: охотник Калакету сидит на оленьей шкуре; воду Пхуллара
+      наливает в скорлупу кокоса; ест из земляной миски-*патхры* и нового глиняного *кхабры*; пьёт *амани* — 7
+      горшков разом; 4 горшка каши из рисовой сечки (*кхудер джау*); суп с тыквой-лау; печёные клубни (*алу*, *ол*)
+      корзинами (⚠ *алу* — местные ямсы, не картофель); водяной шпинат *калми*, кислое из амры; рис «три кади
+      горшков» (гипербола), затем полоскание рта. Еда бедных по «Чанди-мангалу» — Raychaudhuri 1953, с. 223–224.
+    en: >-
+      Mukundaram, Chandi-mangala (c. 1590), ed. 1868, p. 36: the hunter Kalaketu sits on a deerskin; Phullara pours his
+      water into a coconut shell; he eats from an earthen *pathra* bowl and a new clay *khabra*; drinks *amani* — 7 pots
+      at once; 4 pots of broken-rice gruel (*khuder jau*); soup with lau gourd; roasted tubers (*alu*, *ol*) by the
+      basket (⚠ *alu* here are local yams, not potato); water spinach *kalmi*, sour hog-plum; rice 'three kadi of pots'
+      (hyperbole), then rinsing of the mouth. The food of the poor in the Chandi-mangala — Raychaudhuri 1953,
+      pp. 223–224.
+  text:
+    ru: >-
+      У бедняка не было ни латунной посуды, ни слуг. Охотник Калакету в поэме Мукундарама ужинает, сидя на оленьей
+      шкуре: жена наливает ему воды в половинку кокосовой скорлупы, а еду кладёт в простую земляную миску и в новый
+      глиняный горшочек. Ест он то, что дёшево и сытно: кислую воду из-под замоченного риса, жидкую кашу из рисовой
+      сечки, суп с тыквой, печёные клубни ямса, водяной шпинат и кислое из плодов амры, — а поэт, смеясь, преувеличивает,
+      сколько горшков опустошает богатырь. После еды он, как всякий бенгалец, полощет рот.
+    en: >-
+      A poor man had neither brass vessels nor servants. The hunter Kalaketu in Mukundaram's poem sups sitting on a
+      deerskin: his wife pours his water into half a coconut shell and puts his food in a plain earthen bowl and a new
+      clay pot. He eats what is cheap and filling: the sour water from soaked rice, a thin gruel of broken rice, gourd
+      soup, roasted yams, water spinach and a sour dish of hog-plums — and the poet, laughing, exaggerates how many pots
+      the strongman empties. After eating he rinses his mouth, as every Bengali does.
+  hagiography: []
+  sources: ["Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 36",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 223–224"]
+  images: []
+  game: {model: "оленья шкура на земляном полу; половинка кокосовой скорлупы с водой; земляная миска и новый глиняный горшочек; печёные ямсы",
+         where: ["travel/village-hut"]}
+
+- id: mc-prasad-bazar
+  title: {ru: "Базар махапрасада в Пури у Мукундарама", en: "The mahaprasada bazaar of Puri in Mukundaram"}
+  rubric: puri
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149–150 (путь купца через Пури): рядом с Джаганнатхой —
+      Вимала-деви, Субхадра и Балай, напротив — Гаруда; пруд Индрадьюмны, Рохини-кунда, Шветаганга; «рис продают на
+      базаре», люди четырёх варн едят вместе, «прасад равен воде Ганги»; на базаре — *супа*, *кханда*, *аду-бада*, *джхол*
+      из суджи, *кшира-кханда*, *пури*, *кшира-пули*, *падма-чини*, *папра*, *манда*, *кшира-ладу*, *кала-бада*,
+      *кхаста*, имбирное *джхал*, *лабра*; играют «15 видов инструментов»; продают жасмин-маллику в листовых чашках и
+      бусы из туласи. ⚠ *чхена-ладу*, *чхена-пана* в изд. 1868 — вероятно, поздняя вставка (mc-chhana). В житиях —
+      продажа прасада лавочниками у Львиных ворот (ЧЧ Антья 6.315, 10.146).
+    en: >-
+      Mukundaram, Chandi-mangala (c. 1590), ed. 1868, pp. 149–150 (a merchant's journey through Puri): beside
+      Jagannatha — Vimala-devi, Subhadra and Balai, Garuda opposite; Indradyumna's tank, Rohini-kunda, Shvetaganga; 'rice
+      is sold in the bazaar', people of the four varnas eat together, 'prasada equals Ganga water'; in the bazaar —
+      *supa*, *khanda*, *adu-bada*, *jhol* of semolina, *kshira-khanda*, *puri*, *kshira-puli*, *padma-chini*, *papra*,
+      *manda*, *kshira-ladu*, *kala-bada*, *khasta*, ginger *jhal*, *labra*; '15 kinds of instruments' play; jasmine
+      (mallika) is sold in leaf cups, and tulasi beads. ⚠ *chhena-ladu*, *chhena-pana* in the 1868 edition are probably
+      a later interpolation (mc-chhana). In the hagiographies — shopkeepers selling prasada at the Lion Gate (CC Antya
+      6.315, 10.146).
+  text:
+    ru: >-
+      Поэт Мукундарам, проводя своего купца через Пури, описал рынок прасада: здесь прямо на базаре продают рис,
+      поднесённый Джаганнатхе, и люди всех четырёх сословий едят его вместе, ведь прасад, говорит поэт, свят, как вода
+      Ганги. Вокруг — дал, сахар, имбирные бады, кхир с сахаром, пури, пирожки, сахарные лотосы падма-чини, хрустящие
+      лепёшки, лабра из овощей. Тут же играют на пятнадцати видах инструментов, продают душистый жасмин в чашечках из
+      листьев и бусы из туласи. Так выглядел Пури в памяти бенгальцев через полвека после Махапрабху.
+    en: >-
+      The poet Mukundaram, taking his merchant through Puri, described the prasada market: right in the bazaar rice
+      offered to Jagannatha is sold, and people of all four orders eat it together, for prasada, says the poet, is holy
+      as Ganga water. Around are dal, sugar, ginger badas, kheer with sugar, puris, little cakes, padma-chini sugar
+      lotuses, crisp wafers and vegetable labra. Here too fifteen kinds of instruments play, and fragrant jasmine is sold
+      in leaf cups along with tulasi beads. So Puri lived in Bengali memory half a century after Mahaprabhu.
+  hagiography: ["ЧЧ Антья 6.315", "ЧЧ Антья 10.146"]
+  sources: ["Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149–150"]
+  images: []
+  game: {model: "ряды лотков с глиняными горшками риса и сладостей; продавец жасмина с листовыми чашечками; бусы туласи",
+         where: ["puri/lion-gate"]}
+  todo: "сверить перечень с рукописным/критическим изданием «Чанди-мангала» (чхана — вставка?)"
+
+- id: mc-grass-cloth
+  title: {ru: "Ткань «из травы»", en: "'Grass' cloth"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Федеричи (1569): из Ориссы вывозят «ткань из трав» — род шёлка, растущего в лесах без труда человека (Hakluyt V,
+      1904, с. 409–410); Фитч (1586): в гавани Ориссы — ткань «из травы» (*yerua*), «похожая на шёлк» (Ryley 1899,
+      с. 113–114); Линсхотен (1596): из желтоватой «травы Бенгалии» прядут нить, вышивают покрывала, пологи, подушки,
+      ковры цветами и фигурами, ткут полотна (*sarrijn*), иногда с шёлком, «прекраснее шёлка», их можно стирать
+      (Hakluyt Soc. 1885, т. I, с. 96). ⚠ Что это за волокно — неясно: «шёлк из лесов» Федеричи похож на тасар (дикий
+      шёлк), Бёрнелл (примеч. к Линсхотену) гадал о рами; джутовая ткань (*патер пачхра*) — Тарафдар 1965, с. 147–148.
+    en: >-
+      Federici (1569): from Orissa comes 'cloth of herbs' — a kind of silk growing in the woods without human labour
+      (Hakluyt V, 1904, pp. 409–410); Fitch (1586): at an Orissa port, cloth 'of grass' (*yerua*), 'like silk' (Ryley
+      1899, pp. 113–114); Linschoten (1596): from a yellowish 'herb of Bengal' thread is spun and quilts, canopies,
+      pillows and carpets are embroidered with flowers and figures, and whole cloths (*sarrijn*) woven, sometimes with
+      silk, 'fairer than silk', and washable (Hakluyt Soc. 1885, vol. I, p. 96). ⚠ The fibre is uncertain: Federici's
+      'silk from the woods' looks like tasar (wild silk), Burnell (note to Linschoten) guessed ramie; jute cloth (*pater
+      pachhra*) — Tarafdar 1965, pp. 147–148.
+  text:
+    ru: >-
+      Европейцы XVI в. дивились бенгальской и орисской «ткани из травы»: желтоватая, с блеском, «прекраснее шёлка», и
+      при этом её можно стирать. Из её нити вышивали цветами и фигурами покрывала, пологи и подушки и ткали целые
+      полотна, иногда пополам с шёлком. Что это было — дикий лесной шёлк-тасар, который собирают с деревьев, или
+      растительное волокно, — спорят и сейчас; но такие ткани шли кораблями из Ориссы и Бенгалии во все концы Индии.
+    en: >-
+      16th-century Europeans marvelled at the 'grass cloth' of Bengal and Orissa: yellowish, lustrous, 'fairer than
+      silk', and yet washable. Its thread was used to embroider quilts, canopies and pillows with flowers and figures,
+      and whole cloths were woven of it, sometimes half silk. What it was — wild forest tasar silk gathered from trees,
+      or a plant fibre — is still debated; but such cloths went by ship from Orissa and Bengal to every corner of India.
+  hagiography: []
+  sources: ["Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409–410",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 113–114",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 96",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 147–148"]
+  images: []
+  game: {model: "отрез золотисто-жёлтой блестящей ткани с вышитыми цветами; покрывало-полог",
+         where: ["navadvipa/market"]}
+  todo: "отождествить волокно (тасар / мунга / рами) — Watt 1889–93?; ср. mc-silk-kinds"
