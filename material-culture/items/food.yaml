@@ -1,0 +1,378 @@
+# Рубрика «Кухня» (kitchen): еда во всей конкретике — блюда поимённо, рецепты, трапеза, сезоны, напитки.
+# Исполнитель food. Формат — material-culture/README.md. Выписки и рецепты подробно — research/food-notes.md.
+# Рецепты: «житие» — что сказано в житии; «реконструкция» — по PD-кулинарной книге (книга, год, стр.).
+# Сокращения книг: Пак-пранали — Бипрадас Мукхопадхьяй, «Пак-пранали» (сводное изд., archive.org
+# pak-pranali-bipradas-mukhopadhyay); Миштанна-пак — его же, изд. 9, 1898 (in.ernet.dli.2015.324413);
+# Амиш 1902 — Праджнясундари Деви, «Амиш о нирамиш ахар», т. 1, 1902 (in.ernet.dli.2015.336370).
+
+- id: mc-shukta
+  title: {ru: "Шукта — горькое первое блюдо", en: "Shukta — the bitter first course"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 3.46 (*ча-и-марича-сукхта дийа̄ саба пхала-мӯле… пан̃ча-видха тикта-джха̄ле* — «добавив шукту с чаи и
+      перцем во все плоды и коренья… пять видов горько-острых блюд»; «горькой дыни» в оригинале нет); Мадхья 15.210
+      (*нимба-тикта-сукута-джхола*); Антья 10.15–20 (*пура̄н̣а ш́укта̄* — высушенные горькие листья, «радости шукты нет и в
+      панчамрите»); Антья 10.136 (*ш́укта̄ра джхола*). Порядок «шукта первой» — Сен 1911 по Рамешваре (XVIII в.) и
+      Амиш 1902. Рецепт — реконструкция XIX в.
+    en: >-
+      CC Madhya 3.46 (chai-maricha-sukhta added to all fruits and roots, five kinds of bitter-pungent dishes; there is
+      no "bitter melon" in the original); Madhya 15.210 (nimba-tikta-sukuta-jhola); Antya 10.15–20 (purana shukta —
+      dried bitter leaves; "there is no joy in panchamrita like that of shukta"); Antya 10.136. "Shukta first" — Sen
+      1911 after Rameshvara (18th c.) and Amish 1902. The recipe is a 19th-c. reconstruction.
+  text:
+    ru: >-
+      Бенгальский обед начинается с горького: шукта — тушёные овощи и коренья с горькой зеленью или листьями нима,
+      приправленные перцем, имбирём и горчицей. Горькое «будит» пищеварение, и Дамаянти, сестра Рагхавы, везла
+      Господу в Пури даже сушёные горькие листья для шукты: она боялась, что от сытных угощений у Него разболится
+      живот. Кришнадас Кавирадж замечает: кто шукту презирает — пусть знает, что Господу она была слаще панчамриты.
+      На листе шукта стоит справа первой чашечкой, и с неё начинают есть рис.
+    en: >-
+      A Bengali meal begins with the bitter: shukta is a stew of vegetables and roots with bitter greens or neem
+      leaves, seasoned with pepper, ginger and mustard. Bitterness "wakes" digestion, and Damayanti, Raghava's sister,
+      sent the Lord in Puri even dried bitter leaves for shukta, fearing rich food would upset His stomach. Krishnadasa
+      Kaviraja remarks that whoever scorns shukta should know it was sweeter to the Lord than panchamrita. On the leaf,
+      shukta is the first cup on the right, and one starts the rice with it.
+  recipe:
+    ru: >-
+      Реконструкция по Пак-пранали, с. 59–63 («сукта», «уччхер сукта»): овощи (сырой банан, баклажан, редька,
+      стебли моринги, восковая тыква) нарезать и держать в холодной воде; бади обжарить в горчичном масле и отложить;
+      в том же масле обжарить овощи с солью, влить разведённую в воде пасту куркумы и горчицы (+ кунжут, тёртый
+      кокос), тушить под крышкой; для горечи — мелко нарезанная горькая тыква-уччхе либо горькая зелень (хинче, гиме,
+      палта, сушёные листья джута-налте), брошенные при закипании; в конце — щепоть сладкого (гур), молоко с пастой
+      тмина и чёрного перца, бади; заправить гхи с лавровым листом и пятью пряностями. ⚠ В книге — картофель
+      («вилати алу», т. е. заморский) и чили: заменить сырым бананом/ямсом и чёрным перцем; маковая паста (посто) —
+      вероятно, поздняя (XIX в.), лучше опустить.
+    en: >-
+      Reconstruction after Pak-pranali pp. 59–63: vegetables (green banana, aubergine, radish, drumstick, ash gourd)
+      cut and kept in cold water; bari fried in mustard oil and set aside; the vegetables fried in the same oil with
+      salt, turmeric-and-mustard paste in water added, stewed covered; for bitterness — chopped bitter gourd or bitter
+      greens (hinche, gime, palta, dried jute leaves) added at the boil; finally a pinch of gur, milk with cumin and
+      black-pepper paste, the bari; tempered with ghee, bay leaf and five spices. ⚠ The book uses potato ("bilati alu",
+      i.e. foreign) and chilli: replace with green banana/yam and black pepper; poppy paste is probably 19th-c., omit.
+  hagiography: ["ЧЧ Мадхья 3.46", "ЧЧ Мадхья 15.210", "ЧЧ Антья 10.15–20", "ЧЧ Антья 10.136"]
+  sources: ["Пак-пранали, с. 59–63 (сукта, сукта из уччхе, ним-джхол)",
+            "Амиш 1902, с. 21 (шуктани подают первой справа: «сначала горькое»)",
+            "Sen 1911, с. 247–248 (Рамешвара: «Sukta (the first curry)»)"]
+  images: []
+  game: {model: "чашечка из банановой коры с желтоватым овощным рагу, листья нима сверху", where: ["mishra-house/kitchen"],
+         notes: "первая чашка справа от горки риса"}
+
+- id: mc-nimba-begun
+  title: {ru: "Баклажаны с листьями нима (нимба-бегун)", en: "Aubergine fried with neem leaves (nimba-begun)"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 3.47 (*комала нимба-патра саха бха̄джа̄ ва̄рта̄кӣ* — баклажаны, жаренные с нежными листьями нима), Мадхья
+      15.213 (*нава-нимба-патра-саха бхр̣ш̣т̣а-ва̄рта̄кӣ*), Антья 10.136 (*нимба-ва̄рта̄кӣ* — среди любимых Господом блюд).
+      Рецепт — Амиш 1902, с. 283; сезонность нима — «Дак-вачана» (Sen 1911, с. 24: чайтра — горькое, листья нима).
+    en: >-
+      CC Madhya 3.47 (aubergine fried with tender neem leaves), Madhya 15.213, Antya 10.136 (nimba-vartaki among the
+      Lord's favourite dishes). Recipe — Amish 1902 p. 283; neem season — Dak-vachana (Sen 1911 p. 24: Chaitra —
+      bitter, neem leaves).
+  text:
+    ru: >-
+      Весной ним выпускает нежные красноватые листочки — их обжаривают в масле вместе с ломтиками баклажана, и выходит
+      горьковато-сладкое хрустящее блюдо. Его подавали Господу и у Адвайты, и у Сарвабхаумы, а когда бенгальские
+      преданные звали Его на обед в Пури, они непременно готовили «ним-бегун» — знали, что Он его любит. Ним считали
+      очищающим кровь; горькое в начале весны — старинное правило бенгальского стола.
+    en: >-
+      In spring the neem puts out tender reddish leaves; they are fried in oil with slices of aubergine, giving a
+      bitter-sweet crisp dish. It was served to the Lord at Advaita's and at Sarvabhauma's, and when the Bengali
+      devotees invited Him to dine in Puri they always made "nim-begun", knowing He loved it. Neem was thought to
+      cleanse the blood; bitterness at the start of spring is an old rule of the Bengali table.
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. 283 («ним-бегун чхечки»): 20–25 листьев нима, 2 баклажана, 1½ качча
+      (≈ 17 г) масла, 2 щепоти соли. Баклажан нарезать на 6–8 долек, посолить. Разогреть масло, бросить листья нима,
+      жарить 2–3 минуты, затем добавить баклажан и жарить 3–4 минуты до тёмно-красного цвета. Анахронизмов нет. Там же
+      (с. 283): в пхалгуне так же жарят с нимом плоские бобы-шим. Вариант «нимба-тикта-джхол» (жидкий, с бади) — Пак-
+      пранали, с. 60–61.
+    en: >-
+      Reconstruction after Amish 1902 p. 283: 20–25 neem leaves, 2 aubergines, about 17 g oil, 2 pinches of salt.
+      Cut each aubergine into 6–8 pieces and salt them. Heat the oil, fry the neem leaves 2–3 minutes, add the
+      aubergine and fry 3–4 minutes until deep red. No anachronisms. In Phalguna flat beans are fried with neem the
+      same way. A liquid variant with bari (nim-jhol) — Pak-pranali pp. 60–61.
+  hagiography: ["ЧЧ Мадхья 3.47", "ЧЧ Мадхья 15.213", "ЧЧ Антья 10.136"]
+  sources: ["Амиш 1902, с. 283 (ним-бегун чхечки, нимэ-шимэ чхечки)", "Пак-пранали, с. 60–61 (ним-джхол)",
+            "Sen 1911, с. 24 («Дак-вачана»: в чайтру — горькое, ним)"]
+  images: []
+  game: {model: "тёмно-красные ломтики баклажана с чёрно-зелёными листиками нима на банановом листе",
+         where: ["mishra-house/kitchen"]}
+
+- id: mc-mocha-ghanta
+  title: {ru: "Моча-гханта — блюдо из бананового соцветия", en: "Mocha-ghanta — banana-flower dish"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *моча̄-гхан̣т̣а* — ЧЧ Мадхья 3.48; Мадхья 15.54–55 (Шачи подносит Шалаграме *ш́а̄ка, моча̄-гхан̣т̣а*, патол с нимом —
+      «Нимай любит эти блюда»); Мадхья 15.211 (*моча̄-гхан̣т̣а, моча̄-бха̄джа̄*). Рецепт — Амиш 1902, с. 329–330.
+      «Кадча» Говинды Даса (⚠ подложна) называет мочар-гханту любимым блюдом Господа (Sen 1922, с. 120).
+    en: >-
+      mocha-ghanta — CC Madhya 3.48; Madhya 15.54–55 (Shachi offers the Shalagrama shak, mocha-ghanta, patol with neem
+      — "Nimai loves these dishes"); Madhya 15.211 (mocha-ghanta, mocha-bhaja). Recipe — Amish 1902 pp. 329–330. The
+      Kadcha of Govinda Das (⚠ spurious) calls it the Lord's favourite (Sen 1922 p. 120).
+  text:
+    ru: >-
+      Моча — тёмно-лиловое соцветие банана. Его разбирают на «зубчики», из каждого цветка вынимают жёсткий пестик —
+      работа долгая, её делают женщины, сидя на полу с маслом на пальцах, чтобы не чернели руки. Потом цветки отваривают,
+      растирают и тушат с пряностями и молоком до густоты — получается гханта. Когда Господь уже жил в Пури, Шачи
+      однажды приготовила для домашнего Шалаграмы шак, мочар-гханту и патол с нимом и заплакала: «Нимай так любит
+      эти блюда — кто же их съест?» — и Господь пришёл и съел всё.
+    en: >-
+      Mocha is the dark purple banana inflorescence. It is taken apart into "combs", and from each floret the hard
+      pistil is removed — a long job done by women sitting on the floor with oil on their fingers so their hands do not
+      blacken. Then the florets are boiled, mashed and stewed with spices and milk until thick — that is ghanta. When
+      the Lord already lived in Puri, Shachi once cooked shak, mochar-ghanta and patol with neem for the household
+      Shalagrama and wept: "Nimai loves these dishes so — who will eat them?" — and the Lord came and ate it all.
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. 329–330 («мочар гханта»): моча ¼ сера (≈ 230 г), паста тмина и чёрного перца ½
+      толы, паста кориандра ½ толы, соль ½ толы, сахар ½ толы, молоко 1 чхатак (≈ 58 мл), гхи 1 чхатак, хинг 3–4
+      рати, 1 лавровый лист, тмин ¼ толы, вода ½ сера, мука ½ качча. Очищенные цветки мелко нарезать и держать в воде;
+      варить в глиняном горшке («никогда в железном» — чернеет) около 20 минут, откинуть, хорошо отжать и размять
+      руками. Смешать с пастами, солью, сахаром, молоком. В гхи бросить лавровый лист, затем тмин и разведённый хинг,
+      сразу вывалить мочу, накрыть; помешивать, пока не загустеет. Сверху посыпать мукой, подрумяненной на сухой
+      сковороде. ⚠ В книге — зелёный чили: заменить имбирём или длинным перцем.
+    en: >-
+      Reconstruction after Amish 1902 pp. 329–330: banana flower ≈ 230 g, cumin-and-black-pepper paste ½ tola,
+      coriander paste ½ tola, salt and sugar ½ tola each, milk ≈ 58 ml, ghee ≈ 58 g, a little hing, 1 bay leaf, cumin
+      ¼ tola, water ½ seer, a little flour. Chop the cleaned florets, keep in water; boil in a clay pot ("never in iron"
+      — it blackens) about 20 minutes, drain, squeeze and mash by hand. Mix with the pastes, salt, sugar and milk. Temper
+      ghee with bay leaf, cumin and dissolved hing, add the mocha at once and cover; stir until thick. Sprinkle with
+      flour toasted dry. ⚠ The book has green chilli: use ginger or long pepper instead.
+  hagiography: ["ЧЧ Мадхья 3.48", "ЧЧ Мадхья 15.54–60", "ЧЧ Мадхья 15.211"]
+  sources: ["Амиш 1902, с. 329–330 (мочар гханта, мочар бара гханта)",
+            "Пак-пранали, с. 78 (мочар гханта: из мочи вынимают мелкие цветки)",
+            "Sen 1922, с. 120 (⚠ по «Кадче» Говинды Даса: мочар-гханта и шукта — любимые блюда)"]
+  images: []
+  game: {model: "лиловое банановое соцветие на полу кухни, разобранные цветки в миске с водой; горшок с густым рагу",
+         where: ["mishra-house/kitchen", "mishra-house/backyard"]}
+
+- id: mc-patol
+  title: {ru: "Патол — бенгальский огурчик, жареный с бади", en: "Patol — pointed gourd fried with bari"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *пат̣ола* — ЧЧ Мадхья 3.45, 3.47 (*пат̣ола-пхула-бад̣и-бха̄джа̄*); Мадхья 15.54 (*бхр̣ш̣т̣а пат̣ола-нимба-па̄та* — у Шачи);
+      Мадхья 15.213; Антья 10.136 (*бхр̣ш̣т̣а-пат̣ола*); ЧБ Антья 4.466 (комнаты с патолом у Адвайты); патол в поговорках
+      Кханы (Sen 1911, с. 21). Рецепт — Амиш 1902, с. ~196.
+    en: >-
+      patola — CC Madhya 3.45, 3.47 (patola-phula-badi-bhaja); Madhya 15.54 (fried patol with neem at Shachi's);
+      Madhya 15.213; Antya 10.136; CB Antya 4.466 (rooms full of patol at Advaita's); patol in Khana's sayings (Sen 1911
+      p. 21). Recipe — Amish 1902 p. ~196.
+  text:
+    ru: >-
+      Патол — маленький полосатый зелёный «огурчик» с плетистой лианы, любимый овощ Бенгалии. Его жарят целиком или
+      половинками, слегка надрезав и натерев солью и куркумой, — снаружи он становится зелёно-румяным, внутри мягким.
+      Патол, жаренный с бади, и патол с листьями нима — постоянные блюда на столе Господа: их готовила Шачи в
+      Навадвипе и бенгальские преданные в Пури. Поговорка говорит: у патола хороши семена (а у горькой тыквы — молодость).
+    en: >-
+      Patol is a small striped green "gourdlet" of a trailing vine, Bengal's favourite vegetable. It is fried whole or
+      halved, lightly slit and rubbed with salt and turmeric — green and browned outside, soft inside. Patol fried with
+      bari and patol with neem leaves are constant dishes on the Lord's table: Shachi cooked them in Navadvipa and the
+      Bengali devotees in Puri. A saying goes: in patol the seeds are best (and in bitter gourd — youth).
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. ~196 («патол бхаджа»): 10 патолов полосками очистить от кожицы (часть кожицы
+      оставить), надрезать вдоль, не разрезая до конца; натереть щепотью соли и щепотью пасты куркумы. Раскалить
+      1 чхатак (≈ 58 г) масла до дымка, жарить 3–4 минуты, пока не станут «зелёными с румянцем». К этому — пхула-бади,
+      обжаренные отдельно (см. mc-bari). Поговорка о семенах — Пак-пранали, с. 63.
+    en: >-
+      Reconstruction after Amish 1902 p. ~196: peel 10 patols in stripes, slit lengthwise without cutting through; rub
+      with a pinch of salt and turmeric paste. Heat ≈ 58 g oil until smoking and fry 3–4 minutes until "green with a
+      blush". Serve with phula-bari fried separately. The saying about the seeds — Pak-pranali p. 63.
+  hagiography: ["ЧЧ Мадхья 3.45–47", "ЧЧ Мадхья 15.54", "ЧЧ Мадхья 15.213", "ЧЧ Антья 10.136", "ЧБ Антья 4.466"]
+  sources: ["Амиш 1902, с. ~196 (патол бхаджа)", "Пак-пранали, с. 63 («уччхер кочи о потолер бичи»)",
+            "Sen 1911, с. 21 (патол в поговорках Кханы)"]
+  images: []
+  game: {model: "горка жареных патолов (5–8 см, зелёные в светлую полоску) на листе", where: ["mishra-house/kitchen"]}
+
+- id: mc-dugdha-lau
+  title: {ru: "Тыквы в молоке: дугдха-лау и дугдха-кушманда", en: "Gourds in milk: dugdha-lau and dugdha-kushmanda"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *дугдха-куш̣ма̄н̣д̣а* — ЧЧ Мадхья 3.48; *дугдха-тумбӣ, дугдха-куш̣ма̄н̣д̣а* — Мадхья 15.211; *куш̣ма̄н̣д̣а-бад̣и*,
+      *куш̣ма̄н̣д̣а-ма̄нача̄ки* — Мадхья 3.45, 3.47, 15.212–213. Лау — бутылочная тыква (*тумбӣ*), кушманда — тыква (белая
+      восковая или жёлтая). Рецепт — Пак-пранали, с. 78; Амиш 1902, с. 322–323. Запрет на лау в навами и в бхадру —
+      Пак-пранали, с. 34 (поздн.).
+    en: >-
+      dugdha-kushmanda — CC Madhya 3.48; dugdha-tumbi, dugdha-kushmanda — Madhya 15.211; kushmanda-badi,
+      kushmanda-manachaki — Madhya 3.45, 3.47, 15.212–213. Lau is the bottle gourd (tumbi), kushmanda — pumpkin or ash
+      gourd. Recipe — Pak-pranali p. 78; Amish 1902 pp. 322–323. No lau on navami or in Bhadra — Pak-pranali p. 34.
+  text:
+    ru: >-
+      Лау — светло-зелёная бутылочная тыква, которая вьётся по крыше хижины, а кушманда — большая тыква, белая
+      восковая или жёлтая. Молодую лау режут тонкой соломкой, отваривают и томят в молоке с тёртым кокосом, кунжутом
+      и перцем — нежное, сладковатое блюдо, которое подавали Господу и у Адвайты, и у Сарвабхаумы. Из спелой
+      кушманды делают и сушёные бади, и жареные кружочки вместе с клубнями ман-качу. По старому обычаю лау не едят
+      в девятый лунный день и в месяц бхадра.
+    en: >-
+      Lau is the pale-green bottle gourd that climbs over the hut roof, and kushmanda the big pumpkin, white (ash
+      gourd) or yellow. Young lau is cut into fine shreds, boiled and simmered in milk with grated coconut, sesame and
+      pepper — a tender, sweetish dish served to the Lord at Advaita's and at Sarvabhauma's. Ripe kushmanda also goes
+      into dried bari and into fried rounds together with mankachu. By old custom lau is not eaten on the ninth lunar
+      day or in the month of Bhadra.
+  recipe:
+    ru: >-
+      Реконструкция по Пак-пранали, с. 78 («лауэр гханта», нирамиш): молодую лау очистить, удалить семена, нарезать
+      тонкой соломкой, натереть пастой куркумы, отварить в воде и откинуть. Смешать с солью, молоком, тёртым кокосом,
+      кунжутной пастой, пастой чёрного перца, щепотью сладкого и рисовой мукой (питали). В гхи обжарить бади и
+      отложить; затем в гхи бросить лавровый лист и тмин, вывалить лау, помешивать; перед снятием добавить бади. Вариант
+      Амиш 1902, с. 322–323 (с пхула-бади, молоком, пастой тмина-перца, хингом). ⚠ «Гарам масала» (корица, гвоздика,
+      кардамон) в конце — вероятно, позднее; чили — заменить перцем.
+    en: >-
+      Reconstruction after Pak-pranali p. 78 (vegetarian lau-ghanta): peel young lau, remove seeds, cut into fine
+      shreds, rub with turmeric paste, boil and drain. Mix with salt, milk, grated coconut, sesame paste, black-pepper
+      paste, a little sweetening and rice flour. Fry bari in ghee and set aside; temper ghee with bay leaf and cumin,
+      add the lau and stir; add the bari before taking off the fire. Variant — Amish 1902 pp. 322–323. ⚠ The final
+      garam masala is probably later; replace chilli with pepper.
+  hagiography: ["ЧЧ Мадхья 3.45–48", "ЧЧ Мадхья 15.211–213"]
+  sources: ["Пак-пранали, с. 78 (лауэр гханта)", "Пак-пранали, с. 34 (лау: не едят в навами и в бхадру)",
+            "Амиш 1902, с. 322–323 (лау гханта)"]
+  images: []
+  game: {model: "бутылочная тыква на соломенной крыше; глиняный горшок с белым молочным рагу", where: ["mishra-house/backyard", "mishra-house/kitchen"]}
+
+- id: mc-bari
+  title: {ru: "Бади — сушёные шарики из дала", en: "Bari — sun-dried lentil drops"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *пхула-бад̣и* — ЧЧ Мадхья 3.47, 15.212–213, Антья 10.137 (*бхр̣ш̣т̣а пхула-бад̣ӣ* — среди любимых Господом);
+      *куш̣ма̄н̣д̣а-бад̣и* — Мадхья 3.45, 15.212 (*вр̣ддха куш̣ма̄н̣д̣а-бад̣ӣ*); *бад̣а̄-бад̣и-кад̣и* — Мадхья 4.70; бари у
+      Джаянанды (фр. 10, дв. 20). В переводе ЧЧ — «нутовые хлопья», «горохового теста»; бади — из урада (маша). Рецепт —
+      Амиш 1902, с. 351–354.
+    en: >-
+      phula-badi — CC Madhya 3.47, 15.212–213, Antya 10.137 (fried phula-badi among the Lord's favourites);
+      kushmanda-badi — Madhya 3.45, 15.212; bada-badi-kadi — Madhya 4.70; bari in Jayananda (fr. 10 v. 20). The CC
+      translation has "chickpea flakes"; bari are made of urad. Recipe — Amish 1902 pp. 351–354.
+  text:
+    ru: >-
+      В ясные зимние дни хозяйки встают до рассвета, замачивают и трут на камне урад-дал, взбивают пасту руками до
+      белой пышной пены и выкладывают её маленькими «шапочками» на ткань или веялку — сушить на солнце, на крыше или
+      во дворе. Лёгкие пхула-бади («цветочные») с пеной и тяжёлые кушманда-бади с тёртой тыквой хранятся месяцами в
+      горшке. Их обжаривают до хруста и кладут в шукту, в лау, к патолу — жареные бади Господь особенно любил.
+    en: >-
+      On clear winter days housewives rise before dawn, soak and grind urad dal on the stone, whip the paste by hand
+      into a white fluffy foam and drop it in little "caps" onto a cloth or winnowing fan to dry in the sun, on the roof
+      or in the courtyard. Light phula-bari ("flower" bari) and heavy kushmanda-bari with grated pumpkin keep for
+      months in a pot. They are fried crisp and added to shukta, to lau, to patol — the Lord especially loved fried bari.
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. 351–354 («кумра-бари»): восковую тыкву (≈ 3 сера) натереть и подсушить на веялке;
+      цельный урад-маш просушить на солнце, расколоть на жернове, отвеять, накануне замочить, утром отмыть от шелухи
+      (лучше в пруду — нужно много воды); растереть с тыквой, тмином, хингом, солью; долго взбивать горстями, пока
+      паста не станет белой и лёгкой; выкладывать на смазанную ткань и сушить на солнце 2–3 дня, переворачивая. Пхула-
+      бади — та же паста без тыквы, взбитая сильнее (Пак-пранали, с. 59: крепкие бади кладут в начале, пышные — в конце).
+      Анахронизмов нет.
+    en: >-
+      Reconstruction after Amish 1902 pp. 351–354 (kumra-bari): grate an ash gourd and half-dry it on a winnowing fan;
+      sun-dry whole urad, split it on the quern, winnow, soak overnight and wash off the husks in the morning (best in
+      the pond); grind with the gourd, cumin, hing and salt; whip by the handful until white and light; drop onto an
+      oiled cloth and sun-dry 2–3 days, turning. Phula-bari are the same paste without gourd, whipped harder. No
+      anachronisms.
+  hagiography: ["ЧЧ Мадхья 3.45–47", "ЧЧ Мадхья 4.70", "ЧЧ Мадхья 15.212–213", "ЧЧ Антья 10.137",
+                "Джаянанда, фр. 10, дв. 20"]
+  sources: ["Амиш 1902, с. 351–354 (кумра-бари)", "Пак-пранали, с. 59 (примечание о твёрдых и пышных бади), с. 67 (сладкие бади)"]
+  images: []
+  game: {model: "плетёная веялка или ткань с рядами белых шариков-бади, сохнущих на солнце", where: ["mishra-house/courtyard"],
+         notes: "зимняя сцена; рядом — каменная тёрка шил-нора"}
+
+- id: mc-mankachu
+  title: {ru: "Манакачу — гигантское таро", en: "Mankachu — the giant taro"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *ма̄накачу* — ЧЧ Мадхья 3.45; *куш̣ма̄н̣д̣а-ма̄нача̄ки* (тыква и манкачу кружочками, жареные) — Мадхья 3.47, 15.213
+      (прим. 213 по «Анубхашье»); *ма̄на* (ростки/черенки ман-качу) — ЧБ Антья 4.466. Рецепт и свойства — Амиш 1902,
+      с. 176–177 (по «Бхава-пракаше»).
+    en: >-
+      manakachu — CC Madhya 3.45; kushmanda-manachaki (pumpkin and mankachu rounds, fried) — Madhya 3.47, 15.213; mana
+      — CB Antya 4.466. Recipe and properties — Amish 1902 pp. 176–177 (after Bhava-prakasha).
+  text:
+    ru: >-
+      Ман-качу — исполинское таро с листьями-«зонтами» в рост человека; в землю уходит огромный клубень весом в
+      несколько серов. Его чистят (сок щиплет руки), режут, варят или обжаривают кружками вместе с тыквой — так
+      подавали Господу у Адвайты и у Сарвабхаумы. Сырое таро «кусает» горло, поэтому его едят в начале трапезы,
+      с простым рисом и кислинкой; по аюрведе ман-качу «прохладен и лёгок».
+    en: >-
+      Man-kachu is a gigantic taro with umbrella-leaves as tall as a man; underground lies a huge tuber weighing
+      several seers. It is peeled (the juice stings the hands), cut, boiled or fried in rounds together with pumpkin —
+      that is how it was served to the Lord at Advaita's and Sarvabhauma's. Taro "bites" the throat, so it is eaten at
+      the start of the meal with plain rice and something sour; in Ayurveda mankachu is "cooling and light".
+  recipe:
+    ru: >-
+      Реконструкция по Амиш 1902, с. 176–177 («манкачу бхате»): ¼ сера ман-качу очистить, нарезать на 4–5 кусков,
+      варить ~20 минут, откинуть и размять; смешать с пастой горчицы (1 тола), горчичным маслом (1 качча), солью,
+      порошком сушёного зелёного манго или ягод кул (¼ толы) или лимонным соком. Есть первым, с простым рисом, не с
+      рисом в гхи («щиплет рот»); если щиплет — помогает кислое или гур. ⚠ Чили в книге — заменить имбирём.
+    en: >-
+      Reconstruction after Amish 1902 pp. 176–177: peel ¼ seer of mankachu, cut into 4–5 pieces, boil ~20 minutes,
+      drain and mash; mix with mustard paste, mustard oil, salt and dried green-mango or kul-berry powder or lemon
+      juice. Eat first, with plain rice, not with ghee-rice ("it stings the mouth"); something sour or gur helps. ⚠ Use
+      ginger instead of the book's chilli.
+  hagiography: ["ЧЧ Мадхья 3.45", "ЧЧ Мадхья 3.47", "ЧЧ Мадхья 15.213", "ЧБ Антья 4.466"]
+  sources: ["Амиш 1902, с. 176–177 (манкачу бхате; свойства по «Бхава-пракаше»)",
+            "Пак-пранали, с. 116 (зимой ман-качу кубиками кладут в дал)"]
+  images: []
+  game: {model: "заросль гигантского таро у пруда (листья до 1,5 м); клубень на кухне", where: ["mishra-house/backyard", "mishra-house/pond"]}
+
+- id: mc-shak
+  title: {ru: "Шак — тушёная зелень, любимое блюдо Господа", en: "Shak — cooked greens, the Lord's favourite"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Антья 4.279–299 (Шачи готовит 20 видов шака; Господь называет *ачйута̄, пат̣ала, ва̄стука, ка̄ла, са̄лин̃ча̄,
+      хелен̃ча̄*); ЧБ Антья 5.88–90 и Джаянанда, фр. 15, дв. 34–38 (шак Рагхавы в Панихати); ЧБ Антья 7.137–154 (шак
+      Гададхары, «рос сам»); ЧБ Антья 9.23, 9.56; ЧЧ Мадхья 3.45 (*ва̄стука-ш́а̄ка вивидха*), 15.210 (*даш́а-прака̄ра
+      ш́а̄ка*), 15.54, Антья 10.136 («шак, два-четыре вида»). Отождествления видов — по Амиш 1902 и словарям; уточнить.
+    en: >-
+      CB Antya 4.279–299 (Shachi cooks 20 kinds of shak; the Lord names achyuta, patala, vastuka, kala, salincha,
+      helencha); CB Antya 5.88–90 and Jayananda fr. 15 vv. 34–38 (Raghava's shak at Panihati); CB Antya 7.137–154
+      (Gadadhara's self-sown shak); CB Antya 9.23, 9.56; CC Madhya 3.45, 15.210 (ten kinds of shak), 15.54, Antya
+      10.136. Identification of species after Amish 1902 and dictionaries — to be checked.
+  text:
+    ru: >-
+      Шак — листовая зелень, тушённая или обжаренная с маслом и пряностями. Все жития сходятся: больше всего Господь
+      любил шак. Когда Он после санньясы гостил в Шантипуре, Шачи приготовила двадцать видов шака, и Господь, смеясь,
+      восхвалял каждый: «кто ест ачьюта-шак, обретает любовь к Кришне; патала, вастука и кала дают общество вайшнавов
+      из жизни в жизнь; салинча и хеленча хранят от болезней». В Панихати Рагхава Пандит так угостил Господа шаком,
+      что, как говорит Джаянанда, «шак Рагхавы» славится там и поныне. Шак рос у каждого пруда: Гададхара в Пури сорвал
+      для Господа шак, который «никто не сажал».
+    en: >-
+      Shak is leafy greens stewed or fried with oil and spices. All the biographies agree that the Lord loved shak more
+      than anything. When He stayed at Shantipur after sannyasa, Shachi cooked twenty kinds, and the Lord, laughing,
+      praised each: "whoever eats achyuta-shak gains love for Krishna; patala, vastuka and kala give the company of
+      Vaishnavas birth after birth; salincha and helencha guard against illness." At Panihati Raghava Pandita fed the
+      Lord such shak that, Jayananda says, "Raghava's shak" is famous there to this day. Shak grew by every pond:
+      Gadadhara in Puri picked for the Lord greens that "no one had planted".
+  recipe:
+    ru: >-
+      Виды (предварительно): *ва̄стука* (бетхо-шак, марь белая), *пат̣ала/па̄т̣* (листья джута), *ка̄ла* (?), *са̄лин̃ча̄*
+      (?, водная зелень, возможно альтернантера), *хелен̃ча̄/хинче* (ипомея водяная? — у Амиш хинче-шак горький),
+      *ачйута̄* (?). Реконструкция «шак бхаджа» по Амиш 1902, с. 194 и сл. и Пак-пранали (общее правило): зелень
+      перебрать, вымыть, мелко нарезать; в горчичном масле обжарить пятеро пряностей или тмин, положить шак, посолить,
+      томить, пока не уйдёт вода; горький шак (хинче, гиме) жарят с бади и щепотью сахара. Вастука — с имбирём; джутовый
+      шак — с рисовой пастой (Амиш, № 156). Анахронизмов в основе нет.
+    en: >-
+      Species (provisional): vastuka (bathua, Chenopodium album), patala/pat (jute leaves), kala (?), salincha (?, a
+      water green), helencha/hinche (?, bitter in Amish), achyuta (?). Reconstruction of "shak bhaja" after Amish 1902
+      p. 194 ff. and Pak-pranali: pick over, wash and chop the greens; temper mustard oil with five spices or cumin, add
+      the shak and salt, cook until the water is gone; bitter greens are fried with bari and a pinch of sugar.
+  hagiography: ["ЧБ Антья 4.279–299", "ЧБ Антья 5.88–90", "ЧБ Антья 7.137–154", "ЧБ Антья 9.23", "ЧБ Антья 9.56",
+                "ЧЧ Мадхья 3.45", "ЧЧ Мадхья 15.54", "ЧЧ Мадхья 15.210", "ЧЧ Антья 10.136",
+                "Джаянанда, фр. 15, дв. 34–38"]
+  sources: ["Амиш 1902, с. 194 и сл. (шак бхаджа; бетхо-шак, хинче, гиме, пат-шак)",
+            "Sen 1922, с. 120 (⚠ по «Кадче»: бетхо-шак, «пробуждающий аппетит запахом»)"]
+  images: []
+  game: {model: "грядка зелени у пруда; на листе — 6–10 горок тёмно-зелёного шака разных оттенков", where: ["mishra-house/backyard", "mishra-house/kitchen"]}
+  todo: "отождествить ачьюта, кала, салинча, хеленча (бенгальские словари XIX в., Hunter, Watt «Dictionary of Economic Products»)"
