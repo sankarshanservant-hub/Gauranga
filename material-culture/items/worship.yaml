@@ -559,3 +559,187 @@
   images: []
   game: {model: "персонажи: кази в тюрбане и длинной одежде, сборщик налогов, портной", where: ["navadvipa/lane"],
          notes: "без карикатуры; одежда мусульман эпохи — у исполнителя dress"}
+
+- id: mc-japa-counting
+  title: {ru: "Джапа: счёт святых имён", en: "Japa: counting the holy names"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Харидас — 300 000 имён в день как обет — ЧЧ Ади 10.43; Антья 3.113–125, 3.139, 3.175, 3.238; 4.101; 7.46;
+      11.19–24; «лакшешвара» (100 000 в день) — ЧБ Антья 9.118–125; Джагай и Мадхай — 200 000 (ЧБ Мадхья 15.5);
+      счёт на пальцах с отметками на теле — ЧЧ Антья 9.56–57; *сан̇кхйа̄-на̄ма* Махапрабху — ЧБ Антья 8.157–161; джапа на
+      чётках в перечне практик — ЧЧ Мадхья 22.119, 24.332. Счёт по бусам ожерелья на улице — Ward 1863, p. xlvi
+      (поздн.). Как именно считал сам Харидас (бусы, узелки), жития не говорят.
+    en: >-
+      Haridasa — 300,000 names a day as a vow — CC Adi 10.43; Antya 3.113–125, 3.139, 3.175, 3.238; 4.101; 7.46;
+      11.19–24; the "lakshesvara" (100,000 a day) — CB Antya 9.118–125; Jagai and Madhai — 200,000 (CB Madhya 15.5);
+      counting on the fingers with marks on the body — CC Antya 9.56–57; Mahaprabhu's sankhya-nama — CB Antya
+      8.157–161; japa on beads in the list of practices — CC Madhya 22.119, 24.332. Counting on necklace beads in the
+      street — Ward 1863, p. xlvi (later). How Haridasa himself counted (beads, knots) the hagiographies do not say.
+  text:
+    ru: >-
+      Святые имена повторяли не «сколько придётся», а давали обет определённого числа — санкхья-нама, «счётное
+      имя». Харидас Тхакур каждый день произносил триста тысяч имён и не прерывал обета ни ради отдыха, ни ради
+      красавицы, пришедшей его искушать. Махапрабху сказал брахманам Пури, что будет есть только у «лакшешвары» —
+      того, кто повторяет сто тысяч имён в день, и брахманы тут же дали такой обет. Считали на бусах из туласи или
+      на пальцах: Ванинатха, схваченный по царскому делу, перебирал имена на пальцах обеих рук и отмечал каждую
+      тысячу знаком на теле — и Махапрабху очень обрадовался, услышав это.
+    en: >-
+      The holy names were not repeated "however many happen", but under a vow of a fixed number — sankhya-nama,
+      "counted name". Haridasa Thakura spoke three hundred thousand names every day and broke his vow neither for rest
+      nor for a beauty who came to tempt him. Mahaprabhu told the brahmins of Puri that He would eat only with a
+      "lakshesvara" — one who repeats a hundred thousand names a day — and the brahmins at once took such a vow. They
+      counted on tulasi beads or on the fingers: Vaninatha, arrested over a royal debt, told the names on the fingers
+      of both hands, marking each thousand with a sign on his body — and Mahaprabhu was delighted to hear it.
+  hagiography: ["ЧЧ Ади 10.43", "ЧЧ Антья 3.113–125", "ЧЧ Антья 3.238", "ЧЧ Антья 11.19–24", "ЧБ Антья 9.118–125",
+                "ЧБ Мадхья 15.5", "ЧЧ Антья 9.56–57", "ЧБ Антья 8.157–161", "ЧЧ Мадхья 22.119"]
+  sources: ["Ward 1863, p. xlvi (повторяют имена на улице и за работой, считая по бусам ожерелья)"]
+  images: []
+  game: {model: "чётки из бусин туласи (108 бусин ~8 мм) в мешочке; пальцы с отметками", where: ["puri/siddha-bakula",
+         "mishra-house/courtyard"], notes: "мини-игра счёта кругов; бусы туласи — пересечение с dress (знаки вайшнава)"}
+  todo: "есть ли в житиях прямое упоминание туласи-малы для джапы у Харидаса/Махапрабху (ЧЧ Антья 11? Шикшаштака?)"
+
+- id: mc-house-kirtan
+  title: {ru: "Ночной киртан за закрытыми дверями", en: "Night kirtan behind closed doors"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Ади 17.34–36; ЧБ Мадхья 8.138 (начало киртана в Хари-васару), 8.241–244 (сплетни соседей), 16.4–15 (тёща
+      Шриваса за корзиной с зерном); пересуды о ночном пении — ЧБ Ади 16.258–262. Инструменты — см. mc-mridanga-kartal.
+    en: >-
+      CC Adi 17.34–36; CB Madhya 8.138 (kirtan begins on a Hari-vasara), 8.241–244 (neighbours' gossip), 16.4–15
+      (Shrivasa's mother-in-law behind a grain basket); grumbling about night singing — CB Adi 16.258–262. The
+      instruments — see mc-mridanga-kartal.
+  text:
+    ru: >-
+      Целый год Махапрабху по ночам пел святые имена с близкими во дворе Шриваса Пандита. Чтобы насмешники не
+      мешали, двери запирали, и снаружи слышали только гром мриданг, звон каратал и крики «Хари!». Соседи судачили:
+      почему за закрытыми дверями? верно, что-то дурное! — и ворчали, что громкие имена будят Бога в сезон дождей и
+      он нашлёт засуху. Внутрь не пускали даже своих: однажды тёща Шриваса тайком спряталась в углу за корзиной с
+      зерном, и Господь не мог танцевать, пока её не вывели. Особенно ликующим был киртан в святой
+      день Хари-васара — экадаши.
+    en: >-
+      For a whole year Mahaprabhu sang the holy names at night with His intimates in Shrivasa Pandita's courtyard. So
+      that scoffers would not disturb them the doors were bolted, and outside one heard only the thunder of mridangas,
+      the ring of karatalas and cries of "Hari!". The neighbours gossiped: why behind closed doors? surely something
+      wicked! — and grumbled that the loud names would wake God in the rainy season and He would send a drought. Not
+      even family were let in: once Shrivasa's mother-in-law secretly hid in a corner behind a grain basket, and the
+      Lord could not dance until she was led out. Especially jubilant was the kirtan on the holy day of
+      Hari-vasara — Ekadashi.
+  hagiography: ["ЧЧ Ади 17.34–36", "ЧБ Мадхья 8.138", "ЧБ Мадхья 8.241–244", "ЧБ Мадхья 16.4–15", "ЧБ Ади 16.258–262"]
+  sources: []
+  images: []
+  game: {model: "двор Шриваса ночью: запертые бамбуковые ворота, факелы, корзина для зерна в углу",
+         where: ["navadvipa/shrivasa-house"]}
+
+- id: mc-bhagavata-reading
+  title: {ru: "Чтение «Шримад-Бхагаватам»", en: "Reading the Shrimad-Bhagavatam"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Гададхара читает Бхагаватам Махапрабху — ЧБ Антья 3.230, 7.117, 10.33–36; Рагхунатха Бхатта читает каждый стих
+      «на три-четыре мотива» — ЧЧ Антья 13.126–128, Ади 10.158; Адвайта читает Гиту и Бхагаватам — ЧЧ Ади 13.64;
+      брахман-чтец, которого Господь обнял — ЧБ Мадхья 1.298–307, Антья 5.111–119; почитание книги в доме — ЧБ Антья
+      3.530–533; толкование без бхакти — оскорбление — ЧБ Антья 3.528. Младенец обнимает Бхагаватам — см.
+      mc-object-choice.
+    en: >-
+      Gadadhara reads the Bhagavatam to Mahaprabhu — CB Antya 3.230, 7.117, 10.33–36; Raghunatha Bhatta reads each
+      verse "in three or four melodies" — CC Antya 13.126–128, Adi 10.158; Advaita reads the Gita and Bhagavatam — CC
+      Adi 13.64; a brahmin reciter whom the Lord embraced — CB Madhya 1.298–307, Antya 5.111–119; honouring the book in
+      the house — CB Antya 3.530–533; expounding without bhakti is an offence — CB Antya 3.528. The baby embraces the
+      Bhagavatam — see mc-object-choice.
+  text:
+    ru: >-
+      «Бхагаватам» не столько «читали», сколько пели: чтец сидел на возвышении с рукописью из пальмовых листьев,
+      произносил санскритский стих нараспев и объяснял его по-бенгальски. Рагхунатха Бхатта пел каждый стих на три-
+      четыре мелодии, голосом слаще кукушки, и от слёз не мог продолжать. В Пури Гададхара Пандит, неотлучный спутник
+      Господа, читал Ему Бхагаватам, и Махапрабху становился как безумный от сладости любви. Саму книгу почитали как Господа: Вриндаван Дас пишет, что в дом, где
+      хранится Бхагаватам, не войдёт беда. Но толковать её, не говоря о преданности Кришне, — пустословие и
+      оскорбление.
+    en: >-
+      The "Bhagavatam" was not so much read as sung: the reciter sat on a raised seat with a palm-leaf manuscript,
+      chanted the Sanskrit verse and explained it in Bengali. Raghunatha Bhatta sang each verse to three or four
+      melodies, in a voice sweeter than the cuckoo's, and could not go on for tears. In Puri Gadadhara Pandita, the Lord's constant
+      companion, read Him the Bhagavatam, and Mahaprabhu became as if mad with the sweetness of love. The book itself was honoured as the Lord: Vrindavana Dasa
+      writes that no misfortune enters a house where the Bhagavatam is kept. But to expound it without speaking of
+      devotion to Krishna is idle talk and an offence.
+  hagiography: ["ЧБ Антья 3.230", "ЧБ Антья 10.33–36", "ЧЧ Антья 13.126–128", "ЧЧ Ади 13.64", "ЧБ Мадхья 1.298–307",
+                "ЧБ Антья 5.111–119", "ЧБ Антья 3.528–533"]
+  sources: []
+  images: []
+  game: {model: "рукопись на пальмовых листьях между деревянными дощечками, обёрнутая красной тканью; подставка;
+         чтец на возвышении", where: ["puri/tota-gopinatha", "navadvipa/shrivasa-house"]}
+
+- id: mc-ekadashi
+  title: {ru: "Экадаши — пост одиннадцатого дня", en: "Ekadashi — the eleventh-day fast"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Нимай просит Шачи не есть зерна в экадаши — ЧЧ Ади 15.9–10; Лочан, Ади-кханда, ч. 8, ст. 618; Джагадиша и Хиранья
+      готовят для Вишну в экадаши, сами постясь — ЧБ Ади 6.21–29, ЧЧ Ади 14.39, 10.71; ночное бдение с именами Говинды —
+      ЧБ Ади 16.261; Хари-васара — ЧБ Мадхья 8.138; «чистый» и «смешанный» экадаши — ЧЧ Мадхья 24.337.
+    en: >-
+      Nimai asks Shachi not to eat grain on Ekadashi — CC Adi 15.9–10; Lochana, Adi-khanda pt. 8 v. 618; Jagadisha and
+      Hiranya cook for Vishnu on Ekadashi while fasting themselves — CB Adi 6.21–29, CC Adi 14.39, 10.71; a night
+      vigil with the names of Govinda — CB Adi 16.261; Hari-vasara — CB Madhya 8.138; "pure" and "mixed" Ekadashi —
+      CC Madhya 24.337.
+  text:
+    ru: >-
+      Дважды в месяц, на одиннадцатый день после новолуния и полнолуния, вайшнавы постятся: не едят риса, дала и
+      прочего зерна, а многие не едят и не пьют вовсе, проводя ночь в пении имён Говинды. Экадаши — «день Хари»: в
+      этот день Божеству всё равно готовят полный обед, но сами его не вкушают. Маленький Нимай, сказавшись больным,
+      потребовал именно это угощение из дома брахманов Джагадиши и Хираньи — и они, изумлённые, отдали Ему всё. А
+      позже Он попросил мать: «Не ешь зерна в экадаши», — и Шачи с тех пор строго постилась.
+    en: >-
+      Twice a month, on the eleventh day after the new and full moon, Vaishnavas fast: they eat no rice, dal or other
+      grain, and many neither eat nor drink at all, spending the night singing the names of Govinda. Ekadashi is "the
+      day of Hari": the Deity is still cooked a full meal that day, but the cooks do not eat it. Little Nimai,
+      pretending to be ill, demanded precisely this offering from the house of the brahmins Jagadisha and Hiranya —
+      and they, amazed, gave Him everything. Later He asked His mother, "Do not eat grain on Ekadashi," and from then
+      on Shachi fasted strictly.
+  hagiography: ["ЧЧ Ади 15.9–10", "Лочан, Ади-кханда, ч. 8, ст. 618", "ЧБ Ади 6.21–29", "ЧЧ Ади 14.39", "ЧЧ Ади 10.71",
+                "ЧБ Ади 16.261", "ЧБ Мадхья 8.138", "ЧЧ Мадхья 24.337"]
+  sources: []
+  images: []
+  game: {model: "календарный значок: луна + пустой лист; в доме — бхога для Вишну без вкушения",
+         where: ["mishra-house/kitchen", "navadvipa/jagadisha-house"],
+         notes: "игровая механика дня экадаши: персонажи не едят зерна, ночью — киртан"}
+
+- id: mc-govardhana-shila
+  title: {ru: "Говардхана-шила и гирлянда гунджи", en: "The Govardhana-shila and the gunja garland"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 6.287–308: камень с Говардханы и гирлянда из семян гунджи от Шанкарананды Сарасвати; наставление
+      Махапрабху о поклонении водой и восемью манджари с двумя листками; Сварупа даёт два куска ткани по пяди
+      (*витасти*), деревянную подставку и кувшин; сладости *кха̄джа̄* на 8 каури.
+    en: >-
+      CC Antya 6.287–308: a stone from Govardhana and a garland of gunja seeds from Shankarananda Sarasvati;
+      Mahaprabhu's instruction to worship with water and eight tulasi buds with two leaves; Svarupa gives two pieces of
+      cloth a span (vitasti) long, a wooden stand and a water jug; khaja sweets worth 8 cowries.
+  text:
+    ru: >-
+      Санньяси Шанкарананда принёс из Вриндавана камешек с холма Говардхана и гирлянду из красно-чёрных семян гунджи.
+      Три года Махапрабху не расставался с ними: надевал гирлянду, вспоминая игры Враджа, прикладывал камень к глазам
+      и сердцу, омывал его слезами и называл телом Кришны. Потом Он отдал их Рагхунатхе дасу: «Эта шила — Сам Кришна.
+      Поклоняйся Ему кувшином чистой воды и каждый день по восемь соцветий туласи с двумя листками». Сварупа Дамодара
+      дал Рагхунатхе маленькую деревянную подставку, кувшин и два лоскута ткани длиной в пядь, а потом велел
+      подносить сладости-кхаджа на восемь каури — простое служение, которое дороже пышного храма.
+    en: >-
+      The sannyasi Shankarananda brought from Vrindavana a pebble from Govardhana Hill and a garland of red-and-black
+      gunja seeds. For three years Mahaprabhu kept them by Him: He wore the garland remembering the pastimes of Vraja,
+      pressed the stone to His eyes and heart, bathed it with tears and called it Krishna's body. Then He gave them to
+      Raghunatha dasa: "This shila is Krishna Himself. Worship Him with a jug of pure water and every day eight tulasi
+      buds with two leaves." Svarupa Damodara gave Raghunatha a small wooden stand, a jug and two strips of cloth a
+      span long, and later told him to offer khaja sweets worth eight cowries — a simple service dearer than a
+      splendid temple.
+  hagiography: ["ЧЧ Антья 6.287–308"]
+  sources: []
+  images: []
+  game: {model: "серый камешек ~6–8 см на деревянной подставке, ткань 20 см; гирлянда из семян гунджи (красные с
+         чёрным пятном, ~6 мм)", where: ["puri/gambhira"]}
