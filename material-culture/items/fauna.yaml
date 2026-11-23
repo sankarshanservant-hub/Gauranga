@@ -364,7 +364,6 @@
   audio: [{file: "material-culture/audio/peafowl-pavo-cristatus-call.ogg", license: "PD", author: "Gypsypkd (Wikimedia Commons)",
            url: "https://commons.wikimedia.org/wiki/File:Indian_Peafowl.ogg"}]
   game: {model: "павлин 1–1,2 м (хвост-шлейф до 1,5 м), синяя шея; павлиниха бурая", where: ["vrindavan", "travel/jharikhanda"]}
-  todo: "Мукунда в ЧЧ Мадхья 15.122 — врач Мукунда (царский лекарь), проверить"
 
 - id: mc-parrots-mynas
   title: {ru: "Попугаи-шука и майны-шари", en: "Shuka parrots and shari mynas"}
