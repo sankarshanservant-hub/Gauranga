@@ -39,6 +39,36 @@
     "author": "Amitabha Gupta / Wikimedia Commons, CC BY 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Tulsi-Mancha-of-Gour-Nitai-Temple-Tejpal-Bankura.jpg",
     "caption": ""
+   },
+   "en": {
+    "title": "Tulasi platform (tulasi-mancha)",
+    "kind": "Daily life · home",
+    "text": "In the middle of a Vaishnava courtyard tulasi grows on a clay pedestal. As a youth Mahaprabhu, after worshipping Vishnu, watered tulasi, walked around her and only then sat down to eat; Lakshmipriya served tulasi constantly. Advaita Acharya called the Lord down by offering Krishna tulasi leaves and buds with Ganga water. Tulasi is not merely a plant: she is the Lord's eternal maidservant, and no offering to Vishnu is complete without her leaf.",
+    "evidence": "Known from the hagiographies. Service to tulasi (watering, circumambulation, tulasi leaf in the offering) is in CB and CC. The shape of the mancha (a clay pedestal with a niche for a lamp) is reconstructed from later custom.",
+    "refs": [
+     "CB Adi 8.73",
+     "CB Adi 8.166",
+     "CB Adi 12.101",
+     "CB Adi 14.43",
+     "CB Adi 2.81",
+     "CC Adi 3.104–107",
+     "CC Adi 13.70",
+     "CC Madhya 3.56"
+    ],
+    "sources": [],
+    "also": [
+     {
+      "title": "Tulasi in worship: leaves, buds, tulasi in a pot",
+      "text": "Without tulasi an offering to Vishnu is incomplete: a leaf is placed on each dish, and buds (manjari) dipped in sandal paste at the Lord's feet. Scripture says Krishna gives Himself to one who offers Him even a tulasi leaf and a handful of water. In Puri Mahaprabhu planted tulasi in a small clay pot and said, \"Without tulasi I cannot live, like a fish without water.\" When He walked chanting the holy names someone carried tulasi before Him, and when He sat down to chant the pot was set beside Him, and the Lord gazed at her unceasingly.",
+      "refs": [
+       "CB Antya 8.154–161",
+       "CB Madhya 6.107",
+       "CB Madhya 9.49",
+       "CC Madhya 3.56",
+       "CC Adi 3.103–107"
+      ]
+     }
+    ]
    }
   },
   "hs_alpana": {
@@ -54,7 +84,20 @@
     "Sen, Folk-Literature of Bengal (1920), с. 74 (двор расписан алипаной к проводам купца — сказка)"
    ],
    "card": "mc-alpana",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "Floor designs (alpana)",
+    "kind": "Daily life · home",
+    "text": "Women adorned the clay-plastered floor with auspicious designs. Vrindavana Dasa tells that Lakshmipriya joyfully drew svastikas, conches and discs — Vishnu's emblems — in the Deity room. In living Bengali custom such designs (alpana) are painted with a finger in liquid rice paste: lotuses, petals, the footprints of Lakshmi; they are drawn for festivals and rites and last until the floor is plastered again.",
+    "evidence": "Known from the hagiographies. CB Adi 14.41: Lakshmi draws svastikas, conches and discs in the Deity room. The name \"alpana\" and the technique (rice paste) follow later custom — to be checked.",
+    "refs": [
+     "CB Adi 14.41"
+    ],
+    "sources": [
+     "Sen, Folk-Literature of Bengal (1920), p. 74"
+    ],
+    "also": []
+   }
   },
   "hs_diya": {
    "title": "Глиняная лампада (прадипа)",
@@ -82,6 +125,25 @@
     "author": "Arthur William Devis (1762–1822), гравёр John Wright",
     "url": "https://wellcomecollection.org/works/ck4y7dp4",
     "caption": ""
+   },
+   "en": {
+    "title": "Clay oil lamp (pradipa)",
+    "kind": "Daily life · home",
+    "text": "Light in the house is a small saucer of fired clay with oil and a cotton wick. A lamp is an indispensable part of worship: Lakshmipriya prepared incense and oil lamps for Vishnu. At Mahaprabhu's wedding He was greeted with a seven-wicked lamp, and before the kirtan procession to the Kazi's house the Lord had lamps and torches lit in every house. Ghee is the best fuel for the Deity's lamp; in daily use mustard and sesame oil were burned.",
+    "evidence": "Known from the hagiographies. Lamps in worship and at festivals — CB, CC; the clay-saucer form — archaeology and ethnography.",
+    "refs": [
+     "CB Madhya 6.109",
+     "CB Adi 14.42",
+     "CB Adi 15.168",
+     "CB Adi 15.144, 15.183",
+     "CC Adi 17.134"
+    ],
+    "sources": [
+     "Sen 1911, p. 382",
+     "Sen 1911, p. 23",
+     "Sen, Folk-Literature of Bengal (1920), p. 72"
+    ],
+    "also": []
    }
   },
   "hs_handi": {
@@ -114,6 +176,28 @@
     "author": "Arthur William Devis (1762–1822), гравёр John Wright",
     "url": "https://wellcomecollection.org/works/ck4y7dp4",
     "caption": ""
+   },
+   "en": {
+    "title": "Earthen pots (handi)",
+    "kind": "Daily life · kitchen",
+    "text": "Rice, dal and vegetables were cooked in round-bottomed pots of fired clay, which potters threw on the wheel and fired by the hundred. Milk, curd and ghee were also kept in pots — the very ones little Nimai smashed, spilling everything on the floor. New pots were used for an offering to the Lord: at Shantipur the sweet rice with ghee stood in new clay pots. Such ware was cheap, so a pot that became impure was thrown away rather than washed.",
+    "evidence": "Known from the hagiographies. Pots (bhanda) of milk and curd — CB Adi 4.34, 4.101; 'pots and jars' — CC Adi 14.43; new earthen pots for an offering — CC Madhya 3.53; a pot on the hearth — CC Antya 13.55. The image of a pot blackened by the hearth already occurs in Krittibasa (15th c.). Period: Linschoten (1596) — the Bengalis' custom 'never to cook their food twice in one pot, but each time a new one' (of earthenware); Mukundaram (c. 1590) — a poor man eats from an earthen *pathra* bowl and a new clay *khabra*.",
+    "refs": [
+     "CB Adi 4.30–38",
+     "CB Adi 4.101",
+     "CC Adi 14.43",
+     "CC Adi 14.73",
+     "CC Madhya 3.53",
+     "CC Antya 13.55"
+    ],
+    "sources": [
+     "Sen, Bengali Ramayanas (1920), p. 96",
+     "Bose 1881, p. 155",
+     "Mukharji 1888, p. 56",
+     "Day 1874, p. 28–29",
+     "Linschoten (1596), Hakluyt Society 1885, vol. I, p. 94"
+    ],
+    "also": []
    }
   },
   "hs_brass": {
@@ -137,7 +221,25 @@
     "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 440"
    ],
    "card": "mc-metal-ware",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "Metal ware: bell-metal, copper, brass",
+    "kind": "Daily life · kitchen",
+    "text": "Metal ware was a family treasure: plates (thala), bowls (bati) and water pots (ghati, lota) of bell-metal (kansa), copper and brass. It was cherished, handed down and given as dowry. Food was offered to the Deity on a metal plate: at Shantipur one of the three portions was set before Krishna on a metal dish, the other two on banana leaves. Poor Shridhara owned only a broken iron pot — and Mahaprabhu lovingly drank from it.",
+    "evidence": "Known from the hagiographies. An offering to Krishna on a metal plate — CC Madhya 3.42; a copper jar of pan and water jars — CB Madhya 7.60, 7.83; Shridhara's broken iron pot — CC Adi 10.68. Bell-metal (kansa) as an alloy and its value — later data, to check. Per Mukharji 1888, copper was used for ritual in Bengal: kansa was not thought pure enough. Period: Fei Xin (1436) — envoys at the Pandua court were given gold basins, ewers and cups; Ma Huan (1433) — lacquered bowls and dishes; Mukundaram (c. 1590) — rice on a gold platter in a rich merchant's house. Riyaz-us-Salatin (1788) — on Gauda's rich eating from gold plates under Husain Shah (a late account).",
+    "refs": [
+     "CC Madhya 3.42",
+     "CC Adi 10.68",
+     "CB Madhya 7.60, 7.83"
+    ],
+    "sources": [
+     "Mukharji 1888, p. 157, 186–192",
+     "Martin 1838, vol. 3, p. 101",
+     "Hunter 1875, vol. 2, p. 240",
+     "Bose 1881, p. 76–77"
+    ],
+    "also": []
+   }
   },
   "hs_kitchen": {
    "title": "Кухня (раннагхар)",
@@ -159,7 +261,27 @@
     "Tarafdar, Husain Shahi Bengal (1965), с. 331"
    ],
    "card": "mc-rannaghar",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "The kitchen hut (rannaghar)",
+    "kind": "Daily life · kitchen",
+    "text": "After the Deity room, the kitchen is the cleanest place in the house, usually a hut of its own: the fire is kept away from the living quarters, and the cooking away from street dust and outsiders. When a wandering brahmin came to Mishra's house, the kitchen was washed thoroughly and the best provisions and utensils brought, and he cooked for his Gopala himself. Little Nimai ate that offering three times — and three times the kitchen was washed again.",
+    "evidence": "Known from the hagiographies. The kitchen is washed and made ready for cooking for Vishnu — CB Adi 5.29–30, 5.48–49, 5.112; Mahaprabhu steps out of the kitchen to greet His guru — CB Adi 17.83. A separate kitchen hut is reconstructed from homestead layout. Studies: only women cooked, with ritual care; the hearth was lit with a circling of the fire — Tarafdar 1965.",
+    "refs": [
+     "CB Adi 5.29–31",
+     "CB Adi 5.48–49",
+     "CB Adi 5.112",
+     "CC Adi 14.37",
+     "CB Adi 17.83"
+    ],
+    "sources": [
+     "Day 1874, p. 29",
+     "Bose 1881, p. 13–15",
+     "Sen 1911, p. 23",
+     "Tarafdar, Husain Shahi Bengal (1965), p. 331"
+    ],
+    "also": []
+   }
   },
   "hs_woodpile": {
    "title": "Топливо: дрова, солома, кизяк",
@@ -174,7 +296,20 @@
     "Sen 1911, с. 301 (Мукундарам: зимой — огонь из хвороста, собранного в лесу)"
    ],
    "card": "mc-fuel",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "Fuel: wood, straw, dung cakes",
+    "kind": "Daily life · kitchen",
+    "text": "The hearth burned what the homestead provided: dry branches of mango and other trees, bamboo, rice straw, dry leaves. Fresh cowdung is mixed with straw, patted into cakes (ghunte) and dried by slapping them onto a wall or a tree trunk; they burn evenly and long. Fuel is kept under a shelter, since in the rains everything gets damp.",
+    "evidence": "Reconstructed from later evidence. Not found in the Adi-lila hagiographies; from 19th-c. ethnography and village life — to verify in PD sources.",
+    "refs": [],
+    "sources": [
+     "Martin 1838, vol. 3, p. xiii–xiv",
+     "Day 1874, p. 29–30",
+     "Sen 1911, p. 301"
+    ],
+    "also": []
+   }
   },
   "hs_chala": {
    "title": "Дом-чала",
@@ -220,6 +355,42 @@
     "author": "William Hodges (1744–1797).",
     "url": "https://wellcomecollection.org/works/xrs5r8g9",
     "caption": ""
+   },
+   "en": {
+    "title": "The chala hut",
+    "kind": "Daily life · home",
+    "text": "A Bengali home is not one building but several huts round a shared courtyard. Each stands on a raised clay plinth, with walls of rammed clay or clay-daubed bamboo wattle and a thick thatch on a bamboo frame. The roof slopes are curved and the eaves droop to the corners so that monsoon rain runs off quickly: a two-slope hut is a do-chala, a four-slope one a char-chala, one with a second tier an at-chala. In Mishra's house, according to Lochana Dasa, Jagannatha and Shachi had separate rooms.",
+    "evidence": "Attested in sources of the period. The hagiographies mention only the \"house\" (ghara) and separate rooms; the look of the hut is reconstructed from 17th-c. terracotta temples that copy thatched roofs and from 19th-c. ethnography. Thatch on bamboo posts is attested by 16th-c. poets (Mukundaram, Chandravati — via Sen 1911/1920); the curved ridge — Martin 1838. Period: Fitch (1586) — in Sonargaon the houses are 'very little, covered with straw, with a few mats round the walls and a door to keep out tigers and foxes'; in Bakla houses are tall and fair, streets broad; Ain-i Akbari (1590s) — Bengal houses are of bamboo, some costly and long-lasting; in Orissa hut walls are of reed; Federici (1569) — temporary straw houses by the ships' anchorage (see mc-straw-village). Studies: bamboo houses were roofed in slopes from the ridge; the curved hut roof was copied in the Husain Shahis' brick mosques (Chhoti Sona at Gauda) — Karim 1959, Tarafdar 1965; stone dwellings were almost unknown, brick ones rare (Raychaudhuri 1953).",
+    "refs": [
+     "Lochana, Adi",
+     "CB Adi 4.100–101"
+    ],
+    "sources": [
+     "see research/pd-texts.md",
+     "Sen, History of Bengali Language and Literature (1911), p. 295, 301",
+     "Sen, Bengali Ramayanas (1920), p. 187–188",
+     "Martin, Eastern India (1838), vol. 3, p. 100–101",
+     "Day, Bengal Peasant Life (1874), ch. V, p. 28–31",
+     "Kennedy, The Chaitanya Movement (1925), p. 88–89; Ward (1863), p. 178",
+     "Fitch (1586), in: Ryley, Ralph Fitch (1899), p. 110, 118–120",
+     "Ain-i Akbari, tr. Jarrett, vol. II (1891), p. 122, 126",
+     "Federici (1569), in: Hakluyt, Principal Navigations V (1904), p. 410–411",
+     "Tarafdar, Husain Shahi Bengal (1965), p. 296, 330–331",
+     "Raychaudhuri, Bengal under Akbar and Jahangir (1953), p. 218–219",
+     "Karim, Social History of the Muslims in Bengal (1959), p. 190"
+    ],
+    "also": [
+     {
+      "title": "Courtyard (angina) and clay plinth",
+      "text": "The heart of the home is an open courtyard, trodden hard and smoothly plastered with clay. Grain is dried here, work is done here, guests are received here — and here little Nimai learned to walk and play. When the thieves were bewildered and Nimai came back, the whole courtyard rang with \"Hari!\"; one night Shachi saw the courtyard filled with heavenly beings. The huts stand on plinths so the rains do not flood the floors.",
+      "refs": [
+       "CB Adi 4.77",
+       "CB Adi 4.126",
+       "CC Adi 14.80",
+       "Lochana, Adi"
+      ]
+     }
+    ]
    }
   },
   "hs_dung": {
@@ -241,14 +412,39 @@
      "text": "Очаг топили тем, что давал двор: сухими ветками манго и других деревьев, бамбуком, рисовой соломой, сухими листьями. Свежий коровий навоз смешивают с соломой, лепят лепёшки (гхунте) и сушат их, прилепив к стене или стволу дерева; они горят ровно и долго. Топливо держат под навесом — в сезон дождей всё отсыревает.",
      "refs": []
     }
-   ]
+   ],
+   "en": {
+    "title": "Plastering floors with cowdung",
+    "kind": "Daily life · home",
+    "text": "The clay floor and courtyard are regularly smeared with a thin mixture of clay and cowdung: the floor becomes even and dust-free, and by custom it is considered purified. When impure objects, left at night by the brahmin Gopala Chapala, were found at Shrivasa's door, a sweeper was called, who removed them and purified the spot with water and cowdung. Floors are plastered in the mornings and before rites, after which designs are drawn.",
+    "evidence": "Known from the hagiographies. CC Adi 17.44 — a place is purified with water mixed with cowdung; daily floor-plastering is ethnography.",
+    "refs": [
+     "CC Adi 17.44"
+    ],
+    "sources": [
+     "Ward, A View of the History… of the Hindoos, p. 12, 153"
+    ],
+    "also": [
+     {
+      "title": "Fuel: wood, straw, dung cakes",
+      "text": "The hearth burned what the homestead provided: dry branches of mango and other trees, bamboo, rice straw, dry leaves. Fresh cowdung is mixed with straw, patted into cakes (ghunte) and dried by slapping them onto a wall or a tree trunk; they burn evenly and long. Fuel is kept under a shelter, since in the rains everything gets damp.",
+      "refs": []
+     }
+    ]
+   }
   },
   "hs_haystack": {
    "title": "Стог рисовой соломы",
    "kind": "Быт · хозяйство",
    "text": "Солому после жатвы риса укладывают стогом вокруг шеста: это корм коровам, кровля для хижин, подстилка и топливо.",
    "refs": [],
-   "status": "draft"
+   "status": "draft",
+   "en": {
+    "title": "Rice-straw stack",
+    "kind": "Daily life · household",
+    "text": "After the rice harvest the straw is stacked around a pole: it is fodder for the cows, thatch for the huts, bedding and fuel.",
+    "refs": []
+   }
   },
   "hs_pond": {
    "title": "Пруд, гхат и Ганга",
@@ -279,6 +475,28 @@
     "author": "S. C. Belnos («The Sundhya…»)",
     "url": "https://wellcomecollection.org/works/vx4mta93",
     "caption": ""
+   },
+   "en": {
+    "title": "Pond, ghat and the Ganga",
+    "kind": "Daily life · home",
+    "text": "Jagannatha Mishra settled in Navadvipa on the bank of the Ganga, and the family's whole life went on beside its waters: one went down the steps of the ghat to bathe, the mother first carried her baby there, little Nimai ran there to swim with his friends, and the neighbourhood girls performed their rites there. After touching anything impure one bathed in the Ganga at once. Bengali homesteads usually also had a pond of their own.",
+    "evidence": "Known from the hagiographies. Bathing in the Ganga is constant in the hagiographies (Mishra's house was on the Ganga, CC Adi 13.57–58). A pond of Mishra's own is not mentioned — reconstructed from the usual layout of a Bengali homestead. Period: Barbosa (c. 1516) — Bengal's Muslim nobles often bathe in large tanks by their houses; Fitch (1586, on the Ganga) — women come to the water 10–30 together, singing, bathe and go away singing. Riyaz-us-Salatin (1788): well water is hardly drunk, 'the custom of digging tanks is very common'.",
+    "refs": [
+     "CC Adi 13.57–58",
+     "CC Adi 14.48–49",
+     "CC Adi 14.74",
+     "CB Adi 4.18–19",
+     "CB Adi 4.137"
+    ],
+    "sources": [
+     "Sen 1911, p. 21–22",
+     "Sen 1911, p. 23",
+     "Day 1874, p. 30",
+     "Barbosa, tr. Stanley 1866, p. 180",
+     "Fitch (1586), in: Ryley, Ralph Fitch (1899), p. 101",
+     "Riyaz-us-Salatin (1788), tr. Abdus Salam 1902, p. 23"
+    ],
+    "also": []
    }
   },
   "hs_sari": {
@@ -307,6 +525,24 @@
     "author": "художник Калигхата",
     "url": "https://clevelandart.org/art/2003.159",
     "caption": ""
+   },
+   "en": {
+    "title": "The sari",
+    "kind": "Daily life · dress",
+    "text": "Women wore the sari — an unstitched length of several cubits wrapped round the body and thrown over the shoulder; its end (anchal) covered the head and served for everything: an offering was carried under it, a fretful child clung to it. Noble and festively dressed women, as Bengali poets describe from Vijay Gupta (1494) onwards, wore a kanchuli bodice under the sari and a light veil (odna); today's stitched blouse came into use much later. Saris were of cotton, and for the wealthy of silk and embroidered: such were the ones Sita Thakurani brought.",
+    "evidence": "Known from the hagiographies. Embroidered saris among the gifts — CC Adi 13.113; the end of the sari — Lochana, Adi-khanda pt. 3 v. 271; pt. 4 v. 359. The kanchuli bodice — in poets from Vijay Gupta (1494) to the 18th c. (Sen 1911, pp. 388–389). The white sari with a red border follows later data. Period: Fei Xin (1436, from the 1415 embassy) — Bengali women wear a short shirt and a wrapped length of cotton, silk or brocade, use no cosmetics, and gather their hair in a knot at the back. The 'short shirt' attests a bodice under the wrap already in the 15th c. (cf. Vijaya Gupta's *kanchuli*). Studies: the kanchuli was short, to the breast, or long, to the waist, tied at the back with ribbons, sometimes embroidered; in the 16th c. the sari was probably worn with a front *kocha* pleat (Das Gupta 1935); on festive occasions a wrap on top (Raychaudhuri 1953).",
+    "refs": [
+     "CC Adi 13.113",
+     "Lochana, Adi",
+     "Lochana, Adi"
+    ],
+    "sources": [
+     "Sen 1911, p. 388–389",
+     "Bose 1881, p. 293",
+     "Raychaudhuri, Bengal under Akbar and Jahangir (1953), p. 221",
+     "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), p. 41–48"
+    ],
+    "also": []
    }
   },
   "hs_banana": {
@@ -338,7 +574,35 @@
       "ЧЧ Мадхья 14.37"
      ]
     }
-   ]
+   ],
+   "en": {
+    "title": "The banana plant",
+    "kind": "Daily life · nature",
+    "text": "In Bengal the banana is the most useful plant of the yard: the fruit, the flower (mocha) and the soft heart of the stem (thor) are eaten, and the leaves make plates and cups. The devotee Shridhara lived by selling banana leaves, flowers, stems and leaf cups; young Nimai haggled with him and begged the best bananas and stems for free. The banana heads the fruits of offering: the women brought bananas to the newborn, and Shachi gave them to her guests.",
+    "evidence": "Known from the hagiographies. Shridhara Kolaveca (seller of banana leaves, flowers and stems) — CB Adi 12.195–203, CC Adi 10.67–68. Period: Conti (c. 1440) — gardens on the Ganga with bananas 'sweeter than honey'; Ma Huan (1433) — the banana among Bengal's fruits.",
+    "refs": [
+     "CB Adi 12.195–203",
+     "CC Adi 10.67–68",
+     "CC Adi 13.110",
+     "CB Adi 4.21",
+     "CC Madhya 3.48"
+    ],
+    "sources": [
+     "Conti, in: Major, India in the Fifteenth Century (1857), p. 10"
+    ],
+    "also": [
+     {
+      "title": "Banana leaf as a plate",
+      "text": "The ordinary Bengali plate is a fresh banana leaf: it is rinsed with water, rice is heaped in the middle with vegetables and dal round it, and after the meal the leaf is taken away. At Shantipur the meal for Mahaprabhu and Nityananda was laid out on whole, uncut leaves of a huge banana, with ghee poured over the rice. The Lord Himself asked, \"Bring Us rice and vegetables on two banana leaves.\" At the feasts in Puri stitched ketaki leaves were also used.",
+      "refs": [
+       "CC Madhya 3.43–44",
+       "CC Madhya 3.68",
+       "CC Adi 17.39",
+       "CC Madhya 14.37"
+      ]
+     }
+    ]
+   }
   },
   "hs_bananas": {
    "title": "Плоды на подносе Господа",
@@ -361,7 +625,25 @@
     "«Амрита-праваха-бхашья» к ЧЧ Мадхья 14.25 (ни-сакри — не варёное)"
    ],
    "card": "mc-fruits-offering",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "Fruit on the Lord's tray",
+    "kind": "Daily life · kitchen",
+    "text": "Raw fruit is \"ni-sakri\", a pure offering that needs no cooking: bananas (best the small fragrant \"champa\"), mangoes, jackfruit, coconuts, jambu berries, cucumbers, tal pulp, and from far away oranges, pomegranates, dates, grapes and almonds. Fruit is washed, peeled and cut on banana leaves and set before the Deity. Mahaprabhu once planted a mango seed in Shrivasa's courtyard — at once a tree grew and gave two hundred fruits without skin or stone; they were offered to Krishna and shared with the devotees. And the poor devotee Jhadu Thakura, given mangoes, offered them to Krishna in his mind and only then sucked the juice.",
+    "evidence": "Known from the hagiographies. CC Madhya 14.26–27 (mango, coconut, jackfruit, many kinds of banana, tal seeds; oranges, citrons, pomegranate, almonds, dried dates, grapes, date paste — Anubhashya); Madhya 15.86–87; champa bananas — 3.55, 15.217, Antya 6.58; the mango tree from a seed — Adi 17.80–88, Lochana; Jhadu Thakura's mangoes — Antya 16.14–34; jambu and cucumbers — CB Madhya 9.82; Antya 18.104. The trees — see flora.",
+    "refs": [
+     "CC Adi 17.80–88",
+     "CC Madhya 14.26–27",
+     "CC Madhya 15.86–87",
+     "CC Madhya 15.217",
+     "CC Antya 16.14–34",
+     "CC Antya 18.104",
+     "CB Madhya 9.82",
+     "Lochana, Madhya"
+    ],
+    "sources": [],
+    "also": []
+   }
   },
   "hs_palm": {
    "title": "Кокосовая пальма",
@@ -379,7 +661,22 @@
     "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439"
    ],
    "card": "mc-coconut-palm",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "The coconut palm",
+    "kind": "Daily life · nature",
+    "text": "The coconut palm gives the water of the young nut, the flesh, oil, fibre for ropes and fronds for roofs and mats. A coconut is an auspicious gift: the women brought one to the newborn with turmeric and bananas. Once, when Shachi seemed to faint, the neighbours told Nimai that a coconut would cure His mother — and the little boy ran off and was back at once with two coconuts in His hands, though there were none in the house.",
+    "evidence": "Known from the hagiographies. Coconuts as a gift to the newborn — CC Adi 13.110; the two coconuts Nimai brought — CC Adi 14.45–47. Period: Conti (c. 1440) — coconuts in the gardens along the Ganga; Ma Huan (1433) — an intoxicant is made from the coconut.",
+    "refs": [
+     "CC Adi 13.110",
+     "CC Adi 14.45–47",
+     "CC Madhya 3.48, 3.50"
+    ],
+    "sources": [
+     "Conti, in: Major, India in the Fifteenth Century (1857), p. 10"
+    ],
+    "also": []
+   }
   },
   "hs_bamboo": {
    "title": "Бамбук",
@@ -397,7 +694,23 @@
     "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 112"
    ],
    "card": "mc-bamboo",
-   "also": []
+   "also": [],
+   "en": {
+    "title": "Bamboo",
+    "kind": "Daily life · nature",
+    "text": "Bamboo groves surround Bengali villages. Bamboo makes the frame of hut and roof, woven walls and fences, ladders, baskets, winnowing fans, boat poles and carrying yokes. Dry bamboo also goes into the hearth.",
+    "evidence": "Attested in sources of the period. Ubiquitous building material of Bengal; not found so far in the chapters on Mishra's house — to check. Period: Conti (c. 1440) — along the Ganga, bamboo so thick one man cannot clasp it, a fishing boat made from one stem, a joint as tall as a man; Ain-i Akbari (1590s) — Bengal's houses are of bamboo, some costing 5,000 rupees and more; Fitch (1586) — Cooch is fenced with sharpened bamboo stakes.",
+    "refs": [],
+    "sources": [
+     "Mukharji 1888, p. 310–312",
+     "Sen, Bengali Ramayanas (1920), p. 187–188",
+     "Day 1874, p. 28",
+     "Conti, in: Major, India in the Fifteenth Century (1857), p. 10",
+     "Ain-i Akbari, tr. Jarrett, vol. II (1891), p. 122",
+     "Fitch (1586), in: Ryley, Ralph Fitch (1899), p. 112"
+    ],
+    "also": []
+   }
   },
   "hs_shed": {
    "title": "Коровник",
@@ -420,6 +733,20 @@
     "author": "William Hodges (1744–1797).",
     "url": "https://wellcomecollection.org/works/xrs5r8g9",
     "caption": ""
+   },
+   "en": {
+    "title": "Cowshed",
+    "kind": "Daily life · home",
+    "text": "In a Bengali home the cow is the provider: milk, curd, ghee, and dung for fuel and plastering. Cows were given at weddings together with land and household goods — as the bride's father did at Mahaprabhu's wedding to Vishnupriya. A cowshed for Mishra himself, a poor brahmin, is inferred from the usual homestead layout: a thatched shelter at the edge of the yard, a manger and a stack of rice straw.",
+    "evidence": "Reconstructed from later evidence. Cows as wealth and a wedding gift — CB Adi 15.189; dairy in Shachi's house — CB Adi 4.30–34. A cowshed of Mishra's own is not mentioned directly.",
+    "refs": [
+     "CB Adi 15.189",
+     "CC Adi 17.153"
+    ],
+    "sources": [
+     "Day 1874, p. 29–30"
+    ],
+    "also": []
    }
   },
   "hs_lantern": {
@@ -427,7 +754,13 @@
    "kind": "Быт · свет",
    "text": "Латунный светильник на цепочке под свесом кровли освещает веранду вечером. Форма предмета в пробной сцене — условная; точный вид светильников эпохи уточнит историческая база.",
    "refs": [],
-   "status": "draft"
+   "status": "draft",
+   "en": {
+    "title": "Hanging lamp",
+    "kind": "Daily life · light",
+    "text": "A brass lamp on a chain under the eaves lights the veranda in the evening. Its shape in this test scene is provisional; the exact look of the lamps of the period will be clarified by the historical base.",
+    "refs": []
+   }
   },
   "hs_stool": {
    "title": "Приём гостя: омовение стоп и сиденье",
@@ -453,14 +786,44 @@
       "ЧБ Ади 5.31"
      ]
     }
-   ]
+   ],
+   "en": {
+    "title": "Receiving a guest: washing the feet, offering a seat",
+    "kind": "Daily life · home",
+    "text": "A guest in a Bengali home is a messenger of God. When a wandering brahmin came to the house, Jagannatha Mishra rose, bowed, washed his feet and offered him a proper seat, and only then asked where he came from. The pilgrim Vaishnava ate only what he himself had cooked and offered to his Gopala, so Mishra had the kitchen washed and the best provisions made ready for him. Guests sat on a low wooden stool (pidi) or on a mat.",
+    "evidence": "Known from the hagiographies. CB Adi 5.22–31 is a detailed account of receiving a wandering brahmin. Studies: the host greets a guru or sannyasi guest with a prostration, the housewife washes his feet seating him on a *pidi*, and spreads a rug in the outer rooms — Tarafdar 1965.",
+    "refs": [
+     "CB Adi 5.22–31",
+     "CC Madhya 3.40",
+     "CB Adi 17.83"
+    ],
+    "sources": [
+     "Tarafdar, Husain Shahi Bengal (1965), p. 329–330"
+    ],
+    "also": [
+     {
+      "title": "Pidi stool and mats",
+      "text": "A Bengali house had no chairs or tables: people sat on the floor. For honour and for meals a pidi was set out — a low plank stool on short legs — and reed mats were spread on the floor. One also sat on an asana for worship: the guest brahmin, having cooked, sat on an asana to offer the food to Krishna.",
+      "refs": [
+       "CB Adi 5.24",
+       "CB Adi 5.31"
+      ]
+     }
+    ]
+   }
   },
   "hs_fence": {
    "title": "Плетёная ограда",
    "kind": "Быт · дом",
    "text": "Двор отделяют от рощи и улицы плетнём из расщеплённого бамбука на столбиках.",
    "refs": [],
-   "status": "draft"
+   "status": "draft",
+   "en": {
+    "title": "Woven fence",
+    "kind": "Daily life · home",
+    "text": "A wattle of split bamboo on posts separates the courtyard from the grove and the street.",
+    "refs": []
+   }
   },
   "hs_chula_in": {
    "title": "Очаг (чула)",
@@ -478,7 +841,23 @@
    ],
    "card": "mc-chula",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "The clay hearth (chula)",
+    "kind": "Daily life · kitchen",
+    "text": "A Bengali hearth is moulded of clay right in the kitchen floor: a horseshoe-shaped pit with a stoking hole in front and three raised lugs on top on which the pot sits. Sometimes a double chula is made to cook two dishes at once. The hearth is re-smeared with fresh clay every day — it is itself part of the kitchen's purity.",
+    "evidence": "Reconstructed from later evidence. The hearth in Mishra's house is not described; 'set the pot on the hearth' — CC Antya 13.55 (Vrindavana). The form follows ethnography. The word is Sanskrit (chulli); the image of the sooty pot is in Krittibasa (15th c.).",
+    "refs": [
+     "CC Antya 13.55"
+    ],
+    "sources": [
+     "Hobson-Jobson (1903), s.v. Choola, p. 206–207",
+     "Sen, Bengali Ramayanas (1920), p. 96",
+     "Sen 1911, p. 266",
+     "Risley, Tribes and Castes of Bengal (1891), vol. 1, p. 312"
+    ],
+    "also": []
+   }
   },
   "hs_leaf": {
    "title": "Банановый лист вместо тарелки",
@@ -507,7 +886,34 @@
      ]
     }
    ],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Banana leaf as a plate",
+    "kind": "Daily life · kitchen",
+    "text": "The ordinary Bengali plate is a fresh banana leaf: it is rinsed with water, rice is heaped in the middle with vegetables and dal round it, and after the meal the leaf is taken away. At Shantipur the meal for Mahaprabhu and Nityananda was laid out on whole, uncut leaves of a huge banana, with ghee poured over the rice. The Lord Himself asked, \"Bring Us rice and vegetables on two banana leaves.\" At the feasts in Puri stitched ketaki leaves were also used.",
+    "evidence": "Known from the hagiographies. CC Madhya 3.43–44, 3.68; CC Adi 17.39; ketaki leaves as plates — CC Madhya 14.37.",
+    "refs": [
+     "CC Madhya 3.43–44",
+     "CC Madhya 3.68",
+     "CC Adi 17.39",
+     "CC Madhya 14.37"
+    ],
+    "sources": [
+     "Day 1874, p. 27, 40–42"
+    ],
+    "also": [
+     {
+      "title": "Leaf and banana-bark cups (dona, khola)",
+      "text": "Liquid dishes — dal, soups, sweet rice — are served in little cups folded from leaves or cut from the thick bark of the banana stem and pinned with a splinter. They were made and sold in the market: the devotee Shridhara made his living selling such cups. At Shantipur a hundred roomy, sturdy cups of vegetables stood round each heap of rice; after the meal they are thrown away, like the leaves.",
+      "refs": [
+       "CC Madhya 3.51–52",
+       "CC Madhya 15.209",
+       "CB Adi 12.195",
+       "CB Adi 12.202"
+      ]
+     }
+    ]
+   }
   },
   "hs_offer": {
    "title": "Стряпня для Вишну (бхога)",
@@ -524,7 +930,22 @@
    "sources": [],
    "card": "mc-cooking-for-vishnu",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Cooking for Vishnu (bhoga)",
+    "kind": "Daily life · kitchen",
+    "text": "In a Vaishnava home food is cooked not for oneself but for the Lord: nothing is tasted while cooking, the finished dishes are placed before the Deity with a tulasi leaf on each and mantras recited, and only then are the remnants — prasada — eaten. The wandering brahmin at Mishra's ate only what he had cooked himself and offered to his Gopala. At Shantipur Advaita's wife cooked, Advaita offered to Vishnu, tulasi flowers were laid on the rice and vegetables and jars of scented water set beside them. An offering is carried covered — Shachi carried hers under the end of her sari.",
+    "evidence": "Known from the hagiographies. CB Adi 5.18–31, 5.47–62; CC Madhya 3.41–42, 3.56; Lochana, Adi-khanda pt. 4 v. 359.",
+    "refs": [
+     "CB Adi 5.18–31",
+     "CB Adi 5.47–62",
+     "CC Madhya 3.41–42",
+     "CC Madhya 3.56",
+     "Lochana, Adi"
+    ],
+    "sources": [],
+    "also": []
+   }
   },
   "hs_kalasi": {
    "title": "Глиняный кувшин для воды (калаши)",
@@ -546,6 +967,19 @@
     "author": "Arthur William Devis (1762–1822), гравёр John Wright",
     "url": "https://wellcomecollection.org/works/ck4y7dp4",
     "caption": ""
+   },
+   "en": {
+    "title": "Clay water pot (kalashi)",
+    "kind": "Daily life · home",
+    "text": "Water was carried from the Ganga and the pond in round-bellied clay pots, on the hip or on the head. Mother Shachi used this very pot to reason with little Nimai when He ate earth: food is earth too, but earth that has become food nourishes, as clay that has become a pot holds water, while water poured on the ground just soaks away. In a temper Nimai would smash the pots and jars at home.",
+    "evidence": "Known from the hagiographies. CC Adi 14.32 — Shachi explains that water is easily carried in a clay pot.",
+    "refs": [
+     "CC Adi 14.25–35",
+     "CC Adi 14.43",
+     "CC Adi 10.68"
+    ],
+    "sources": [],
+    "also": []
    }
   },
   "hs_shilnora": {
@@ -567,6 +1001,18 @@
     "author": "Anusandhani Pabna Folk (Wikimedia Commons, own work)",
     "url": "https://commons.wikimedia.org/wiki/File:Heritage_Shil_Nora.jpg",
     "caption": ""
+   },
+   "en": {
+    "title": "Shil-nora — the spice-grinding stone",
+    "kind": "Daily life · kitchen",
+    "text": "Turmeric, ginger, mustard and other spices are ground on a flat stone slab (shil) with an oblong stone roller (nora), adding water. A shil is heavy and lasts for decades; it is re-pecked with a chisel when its surface wears smooth.",
+    "evidence": "Reconstructed from later evidence. Not found in the hagiographies; ethnography — to check.",
+    "refs": [],
+    "sources": [
+     "Ward, A View of the History… of the Hindoos, p. 112",
+     "Bose 1881, p. 15–16"
+    ],
+    "also": []
    }
   },
   "hs_kula": {
@@ -580,7 +1026,18 @@
    ],
    "card": "mc-kula",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Kula — the winnowing fan",
+    "kind": "Daily life · kitchen",
+    "text": "A flat winnowing fan woven of bamboo, open at one edge: tossing rice on it, women winnow away husk and dust. In rites auspicious things — rice, durva, a lamp — are presented on a kula.",
+    "evidence": "Reconstructed from later evidence. Not found in the hagiographies; the kula is also a ritual object (weddings, births) in ethnography — to check.",
+    "refs": [],
+    "sources": [
+     "Bose 1881, p. 25–26, 63, 70–71"
+    ],
+    "also": []
+   }
   },
   "hs_ricebasket": {
    "title": "Рис, дал и зерно",
@@ -601,7 +1058,25 @@
    ],
    "card": "mc-rice-dal",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Rice, dal and grain",
+    "kind": "Daily life · kitchen",
+    "text": "The base of a Bengali meal is boiled rice (bhat), with dal of mung beans and vegetables. The house kept stores of paddy, husked rice and mung — little Nimai scattered them all over the house. Advaita describes a brahmin's modest meal as \"a little rice, soup, plain vegetables and spinach.\" Unhusked rice (dhan) together with fresh durva grass is also a sign of blessing.",
+    "evidence": "Known from the hagiographies. CB Adi 4.34 (dhanya, chalu, mudga — paddy, husked rice, mung); CC Madhya 3.39, 3.44; CB Adi 5.35. Period: Ma Huan (1433) — rice, beans, sesame, 'red millet'; Ain-i Akbari: 'the chief food is rice and fish', wheat and barley are thought unwholesome; Fitch (1586) on Sonargaon — they live on rice, milk and fruit.",
+    "refs": [
+     "CB Adi 4.34",
+     "CB Adi 5.35",
+     "CC Madhya 3.39",
+     "CC Madhya 3.44",
+     "CC Adi 13.114"
+    ],
+    "sources": [
+     "Ain-i Akbari, tr. Jarrett, vol. II (1891), p. 122",
+     "Fitch (1586), in: Ryley, Ralph Fitch (1899), p. 119–120"
+    ],
+    "also": []
+   }
   },
   "hs_altar": {
    "title": "Комната Божества и Шалаграма",
@@ -638,6 +1113,34 @@
     "author": "Sophie Charlotte Belnos (1795–1865), из альбома «The Sundhya, or the Daily Prayers of the Brahmins» (London: Day & Son, 1851; рисовано в Бенгалии).",
     "url": "https://wellcomecollection.org/works/nuh7qmdb",
     "caption": ""
+   },
+   "en": {
+    "title": "The Deity room and the Shalagrama",
+    "kind": "Daily life · home",
+    "text": "Mishra's house had its own Deity — Shri Damodara Shalagrama-shila, in which, Jagannatha Mishra said, Krishna Himself is always present. When footprints with Vishnu's marks appeared in the house, Mishra thought it was Krishna of the Shalagrama at play. A clean room (deva-griha) was set apart for the Deity: Lakshmipriya decorated its floor with designs and prepared sandal paste, flowers, incense, lamps and scented water.",
+    "evidence": "Known from the hagiographies. The Shalagrama in Mishra's house — CC Adi 14.9; the deva-griha (Deity room) — CB Adi 14.41.",
+    "refs": [
+     "CB Adi 5.12",
+     "CC Adi 14.9",
+     "CB Adi 14.41–42",
+     "CB Adi 5.20"
+    ],
+    "sources": [],
+    "also": [
+     {
+      "title": "The sixteen offerings (shodasha-upachara)",
+      "text": "The Deity is served as the dearest and most honoured Guest. First a seat-throne is offered, then water to wash the feet (padya), water with flowers and rice in the palms (arghya), water to rinse the mouth (achamaniya); then the bath, new garments and sacred thread, sandal paste, flowers and tulasi leaves, incense, a lamp, food (naivedya), again water and betel, and finally bows and circumambulation. So at Shrivasa's house the devotees worshipped Mahaprabhu Himself with \"the sixteen offerings\", laying tulasi buds dipped in sandal on His feet again and again. A poor devotee offers at least water and a tulasi leaf — and the Lord accepts it.",
+      "refs": [
+       "CB Madhya 9.46–50",
+       "CB Madhya 2.135–136",
+       "CB Madhya 6.105–110",
+       "CB Antya 10.98",
+       "CC Madhya 4.59–66",
+       "CC Madhya 4.80",
+       "CC Adi 3.103"
+      ]
+     }
+    ]
    }
   },
   "hs_conch": {
@@ -665,6 +1168,24 @@
     "author": "François Balthazar Solvyns",
     "url": "https://wellcomecollection.org/works/c7q2nna4",
     "caption": ""
+   },
+   "en": {
+    "title": "Conch and bells",
+    "kind": "Daily life · rites",
+    "text": "The blown sea conch (shankha) is the voice of an auspicious beginning: its sound opens worship, a festival, a rite. At Nimai's naming conches and bells sounded everywhere. Conch craftsmen and sellers lived in Navadvipa: once the young Lord visited such a seller, who took no money and placed a beautiful conch in His hands. Married women's bangles were also cut from conch shell.",
+    "evidence": "Known from the hagiographies. CB Adi 2.211, 4.52; Lochana, Adi-khanda pt. 2 v. 130; a conch-seller in Navadvipa — CB Adi 12.146–149.",
+    "refs": [
+     "CC Madhya 4.62",
+     "CB Adi 2.211",
+     "CB Adi 4.52",
+     "Lochana, Adi",
+     "CB Adi 12.146–149"
+    ],
+    "sources": [
+     "Bose 1881, p. 24–25",
+     "Sen 1911, p. 171"
+    ],
+    "also": []
    }
   },
   "hs_bed": {
@@ -685,7 +1206,25 @@
    ],
    "card": "mc-bed-cradle",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Bed and cradle",
+    "kind": "Daily life · home",
+    "text": "The baby slept beside his mother or in his own little bed. Vrindavana Dasa tells how Nimai, hearing Shachi's steps, would climb straight into bed and start crying as if He had scattered nothing. Lochana Dasa describes Shachi spreading a silk coverlet with a mattress of fine cloth on it, lying on her side and nursing her son, singing that his father would soon bring thickened milk and bananas.",
+    "evidence": "Known from the hagiographies. CB Adi 4.32 (shayane — 'in bed'); Lochana, Adi-khanda pt. 2 v. 123 (a silk coverlet and a small mattress). Studies: a rich man's bedroom — a decorated bed, pillows, water pots, a mosquito curtain of silk or jute (Tarafdar 1965); the bed was the chief piece of furniture (Raychaudhuri 1953).",
+    "refs": [
+     "CB Adi 4.30–33",
+     "Lochana, Adi"
+    ],
+    "sources": [
+     "Day 1874, p. 28–29",
+     "Martin 1838, vol. 3, p. xiii–xiv",
+     "Hunter 1875, vol. 2, p. 240",
+     "Tarafdar, Husain Shahi Bengal (1965), p. 331",
+     "Raychaudhuri, Bengal under Akbar and Jahangir (1953), p. 219"
+    ],
+    "also": []
+   }
   },
   "hs_chest": {
    "title": "Где хранили: корзины для зерна, короба-петара, сундуки",
@@ -702,7 +1241,22 @@
    ],
    "card": "mc-grain-baskets-chests",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Storage: grain baskets, petara boxes, chests",
+    "kind": "Daily life · home",
+    "text": "A hut had no cupboards: everything was kept in baskets, boxes and pots. Rice was stored in a huge woven dola basket daubed with clay or in clay jars in the storeroom; behind such a basket in the corner of a room Shrivasa's mother-in-law once hid to watch the Lord dance in secret. Clothes, cloth and valuables went into lidded cane boxes (petara) and a wooden chest, and pan and spices into small boxes. Food was hung from the roof in rope slings to keep it from cats and rats.",
+    "evidence": "Known from the hagiographies. Shrivasa's mother-in-law hides behind a dola — a big grain basket in the corner of the room — CB Madhya 16.5; 'a little box of pan' — CB Adi 15.85. A shopkeeper's household goods: a wooden chest and cane-work petara boxes — Hunter 1875, vol. 2, p. 240 (19th c.); grain in clay jars in the storeroom — Bose 1881, p. 155 (19th c.).",
+    "refs": [
+     "CB Madhya 16.4–15",
+     "CB Adi 15.85"
+    ],
+    "sources": [
+     "Hunter 1875, vol. 2, p. 240",
+     "Bose 1881, p. 155"
+    ],
+    "also": []
+   }
   },
   "hs_gdoor": {
    "title": "Двери и запоры",
@@ -720,7 +1274,23 @@
    "sources": [],
    "card": "mc-doors-bolts",
    "also": [],
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "Doors and bolts",
+    "kind": "Daily life · home",
+    "text": "A hut door was a wooden or woven-bamboo leaf in a low doorway; it was shut from inside with a wooden bar and tied from outside with a rope to a post. When little Nimai kept running off, the relatives advised Jagannatha Mishra to tie the door from outside, and the father sat guarding the threshold. The night kirtans in Shrivasa's house went on behind firmly shut doors so that scoffers could not interfere, and in Puri the Lord in ecstasy would be found outside although all three doors of the Gambhira stayed closed.",
+    "evidence": "Known from the hagiographies. Relatives advise 'tying the door from outside' (bandha bahira duyara), and Mishra sits at the door — CB Adi 5.114–116; kirtan behind a 'firmly shut' door — CB Madhya 8.229, 5.21; CC Adi 17.60; the three locked doors of the Gambhira — CC Madhya 2.8, Antya 17.11. The construction of door and bolt is reconstructed.",
+    "refs": [
+     "CB Adi 5.114–116",
+     "CB Madhya 5.21",
+     "CB Madhya 8.229",
+     "CC Adi 17.60",
+     "CC Madhya 2.8",
+     "CC Antya 17.11"
+    ],
+    "sources": [],
+    "also": []
+   }
   }
  },
  "lilas": {
@@ -736,7 +1306,19 @@
     "Бхакти-ратнакара, таранга 12.1084–1110 (B)"
    ],
    "site": "lila-db: ev-tirthika-brahmana",
-   "status": "ok"
+   "status": "ok",
+   "en": {
+    "title": "The Pilgrim Brahmana: the Child eats his offering",
+    "kind": "Lila · period P03 (childhood, c. 1487–1491)",
+    "text": "A wandering brahmana, a worshipper of Bala-Gopala, is a guest at Jagannatha Mishra's house. Three times he cooks rice and offers it to the Lord in meditation, and three times little Nimai comes and eats the offering. The third time, at night, when yoga-nidra has plunged everyone into sleep, the Lord shows the brahmana His eight-armed form, reminds him that he has already seen Him in the house of Nanda, and tells him to keep it secret. The brahmana stays on in Navadvipa near the Lord.",
+    "refs": [
+     "CB Adi 5.16–166 (A) — the most detailed",
+     "CC Adi 14.37 (A)",
+     "Murari Gupta, 1.6.8 (A)",
+     "Gaura-krishnodaya, sarga 3.14–23",
+     "Bhakti-ratnakara, taranga 12.1084–1110 (B)"
+    ]
+   }
   },
   "hist_navadvipa": {
    "title": "Навадвипа около 1490 года",
@@ -746,7 +1328,16 @@
     "ЧБ Ади 2.56–77 (Навадвипа до явления Господа)",
     "ЧЧ Ади 13.56–60"
    ],
-   "status": "draft"
+   "status": "draft",
+   "en": {
+    "title": "Navadvipa around 1490",
+    "kind": "Historical background",
+    "text": "Navadvipa (Nadia) is a large town on the Ganga (Bhagirathi) in Bengal, famed for its learning: here are the tols — schools of Sanskrit, grammar, law and above all the new logic, navya-nyaya (Vasudeva Sarvabhauma taught here before leaving for Puri, and Raghunatha Shiromani grew up here). Bengal is ruled by Muslim sultans from the capital Gauda; around 1490 Abyssinian (Habshi) commanders hold power, and from 1494 Alauddin Husain Shah. Hindu life goes on around the Ganga, the temples and the household shrines, but most learned brahmanas are absorbed in debate and ritual; the Vaishnavas are a handful around Advaita Acharya. Jagannatha Mishra's house is in Mayapur, a part of Navadvipa.",
+    "refs": [
+     "CB Adi 2.56–77 (Navadvipa before the Lord's appearance)",
+     "CC Adi 13.56–60"
+    ]
+   }
   }
  },
  "persons": {
@@ -757,7 +1348,16 @@
    "refs": [
     "ЧЧ Ади 13.56–60",
     "Гаура-ганоддеша-дипика"
-   ]
+   ],
+   "en": {
+    "title": "Jagannatha Mishra (Purandara)",
+    "kind": "Person",
+    "text": "Father of the Lord, a brahmana from Srihatta who settled by the Ganga in Navadvipa; renowned for his hospitality. In the eternal lila he is Nanda Maharaja.",
+    "refs": [
+     "CC Adi 13.56–60",
+     "Gaura-ganoddesha-dipika"
+    ]
+   }
   },
   "shachi": {
    "title": "Шачи-деви",
@@ -766,7 +1366,16 @@
    "refs": [
     "ЧЧ Ади 13",
     "Гаура-ганоддеша-дипика"
-   ]
+   ],
+   "en": {
+    "title": "Shachi Devi",
+    "kind": "Person",
+    "text": "Mother of the Lord, daughter of Nilambara Chakravarti. In the eternal lila she is Yashoda.",
+    "refs": [
+     "CC Adi 13",
+     "Gaura-ganoddesha-dipika"
+    ]
+   }
   },
   "nimai": {
    "title": "Нимай (Вишвамбхара)",
@@ -775,7 +1384,16 @@
    "refs": [
     "ЧЧ Ади 13.111–118",
     "ЧБ Ади 4"
-   ]
+   ],
+   "en": {
+    "title": "Nimai (Vishvambhara)",
+    "kind": "Person",
+    "text": "Sri Gauranga in His childhood. The name “Nimai” was given to ward off misfortune (He was born under a nim tree); at His first rice ceremony He was named Vishvambhara, “He who sustains the world”.",
+    "refs": [
+     "CC Adi 13.111–118",
+     "CB Adi 4"
+    ]
+   }
   },
   "brahmana": {
    "title": "Брахман-паломник (таиртхика-випра)",
@@ -783,7 +1401,15 @@
    "text": "Безымянный странник, поклоняющийся Бала-Гопале шестислоговой мантрой и не вкушающий ничего, кроме предложенного Господу. Носит на шее Божество Бала-Гопалы и Шалаграму.",
    "refs": [
     "ЧБ Ади 5.17–21"
-   ]
+   ],
+   "en": {
+    "title": "The pilgrim brahmana (tairthika-vipra)",
+    "kind": "Person",
+    "text": "A nameless wanderer who worships Bala-Gopala with the six-syllable mantra and eats nothing but what has been offered to the Lord. He carries the Deity of Bala-Gopala and a Shalagram at his neck.",
+    "refs": [
+     "CB Adi 5.17–21"
+    ]
+   }
   },
   "vishvarupa": {
    "title": "Вишварупа",
@@ -792,7 +1418,16 @@
    "refs": [
     "ЧБ Ади 5.79–82",
     "ЧЧ Ади 13.72–79"
-   ]
+   ],
+   "en": {
+    "title": "Vishvarupa",
+    "kind": "Person",
+    "text": "The Lord's elder brother, who soon took sannyasa. Vrindavana dasa says of him: “He is Lord Nityananda Himself, come in another form.”",
+    "refs": [
+     "CB Adi 5.79–82",
+     "CC Adi 13.72–79"
+    ]
+   }
   },
   "relative": {
    "title": "Родные и друзья Мишры",
@@ -800,7 +1435,15 @@
    "text": "Родственники и друзья, бывшие в доме; в тексте говорят все вместе.",
    "refs": [
     "ЧБ Ади 5.46, 50–51, 71–74"
-   ]
+   ],
+   "en": {
+    "title": "Mishra's relatives and friends",
+    "kind": "Person",
+    "text": "Relatives and friends who were in the house; in the text they speak all together.",
+    "refs": [
+     "CB Adi 5.46, 50–51, 71–74"
+    ]
+   }
   },
   "neighbor": {
    "title": "Женщины Навадвипы",
@@ -808,13 +1451,27 @@
    "text": "Соседки, к которым Шачи уносит Нимая на время второго приготовления.",
    "refs": [
     "ЧБ Ади 5.52–60"
-   ]
+   ],
+   "en": {
+    "title": "The women of Navadvipa",
+    "kind": "Person",
+    "text": "The neighbours to whose house Shachi carries Nimai while the second meal is being cooked.",
+    "refs": [
+     "CB Adi 5.52–60"
+    ]
+   }
   },
   "player": {
    "title": "Гандхарва (герой игры)",
    "kind": "Игровой рассказ",
    "text": "Небесный музыкант, которому позволено незримо сопровождать игры Господа. Его линия — вымысел игры; имя и облик ещё выбираются.",
-   "refs": []
+   "refs": [],
+   "en": {
+    "title": "Gandharva (the hero of the game)",
+    "kind": "Game narrative",
+    "text": "A celestial musician who is allowed to accompany the Lord's pastimes unseen. His storyline is the game's own invention; his name and appearance are still being chosen.",
+    "refs": []
+   }
   },
   "friend": {
    "title": "Читрасена",
@@ -822,7 +1479,15 @@
    "text": "Царь гандхарвов из «Махабхараты», учитель музыки. В игре — наставник героя (пробный вариант).",
    "refs": [
     "Махабхарата, Араньяка-парва"
-   ]
+   ],
+   "en": {
+    "title": "Chitrasena",
+    "kind": "Celestial",
+    "text": "King of the gandharvas in the Mahabharata, a teacher of music. In the game he is the hero's mentor (trial version).",
+    "refs": [
+     "Mahabharata, Aranyaka-parva"
+    ]
+   }
   },
   "nidra": {
    "title": "Нидра-деви (йога-нидра)",
@@ -830,7 +1495,15 @@
    "text": "Сила сна, по воле Господа погрузившая всех в доме в глубокий сон, чтобы Он мог открыть Себя брахману.",
    "refs": [
     "ЧБ Ади 5.121, 155"
-   ]
+   ],
+   "en": {
+    "title": "Nidra Devi (yoga-nidra)",
+    "kind": "Celestial",
+    "text": "The power of sleep, who by the Lord's will plunged everyone in the house into deep sleep so that He could reveal Himself to the brahmana.",
+    "refs": [
+     "CB Adi 5.121, 155"
+    ]
+   }
   }
  }
 }

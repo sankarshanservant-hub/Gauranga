@@ -23,6 +23,23 @@ RUB = {'home': 'Быт · дом', 'kitchen': 'Быт · кухня', 'dress': '
        'music': 'Быт · музыка', 'nature': 'Быт · природа', 'puri': 'Быт · Пури', 'travel': 'Быт · дорога'}
 EV = {'epoch': 'Засвидетельствовано в источниках эпохи', 'hagiography': 'Известно из житий',
       'later-reconstruction': 'Реконструкция по более поздним данным'}
+RUB_EN = {'home': 'Daily life · home', 'kitchen': 'Daily life · kitchen', 'dress': 'Daily life · dress', 'rites': 'Daily life · rites',
+          'town': 'Daily life · town', 'music': 'Daily life · music', 'nature': 'Daily life · nature', 'puri': 'Daily life · Puri',
+          'travel': 'Daily life · travel'}
+EV_EN = {'epoch': 'Attested in sources of the period', 'hagiography': 'Known from the hagiographies',
+         'later-reconstruction': 'Reconstructed from later evidence'}
+# ссылки на жития по-английски: сокращения книг и частей; русские пояснения в скобках опускаем
+ABBR = [('ЧБ', 'CB'), ('ЧЧ', 'CC'), ('Ади', 'Adi'), ('Мадхья', 'Madhya'), ('Антья', 'Antya'), ('Мурари Гупта', 'Murari Gupta'),
+        ('Бхакти-ратнакара', 'Bhakti-ratnakara'), ('таранга', 'taranga'), ('Гаура-ганоддеша-дипика', 'Gaura-ganoddesha-dipika'),
+        ('Чайтанья-мангала', 'Chaitanya-mangala'), ('Лочан дас', 'Lochana dasa'), ('Лочана', 'Lochana'), ('Лочан', 'Lochana'), ('т.', 'vol.'), ('в:', 'in:'), ('пер.', 'tr.'), ('см.', 'see'),
+        ('Мукундарам', 'Mukundaram'), ('Криттибас', 'Krittibasa'), ('Бишнупур', 'Bishnupur'), ('Кавикарнапура', 'Kavi-karnapura'),
+        ('глава', 'ch.'), ('гл.', 'ch.'), ('с.', 'p.'), ('и др.', 'etc.'), ('Вриндаван', 'Vrindavana'), ('Пури', 'Puri')]
+def en_ref(r):
+    import re
+    for a, b in ABBR: r = re.sub(r'(?<![\w])' + re.escape(a) + (r'(?![\w])' if a[-1].isalnum() else ''), b, r)
+    r = re.sub(r'\s*\([^)]*[а-яА-ЯёЁ][^)]*\)', '', r)
+    if re.search('[а-яА-ЯёЁ]', r): r = re.sub(r'\s*[—–-]\s*[^—–]*[а-яА-ЯёЁ].*$', '', r).strip()
+    return '' if re.search('[а-яА-ЯёЁ]', r) else r.strip(' ;—–-')   # что не перевелось — в английской карточке не показываем
 
 cards = {}
 for f in sorted(glob.glob(os.path.join(MC, 'items', '*.yaml'))):
@@ -47,6 +64,11 @@ for hs, ids in MAP.items():
     e['card'] = c['id']
     e['also'] = [{'title': cards[i]['title']['ru'], 'text': cards[i]['text']['ru'].strip(), 'refs': cards[i].get('hagiography', [])} for i in ids[1:]]
     e['status'] = 'ok'
+    ten = lambda d: (d or {}).get('en', '').strip()
+    e['en'] = {'title': ten(c['title']), 'kind': RUB_EN.get(c.get('rubric'), 'Daily life'), 'text': ten(c['text']),
+               'evidence': EV_EN.get(c.get('era_evidence'), '') + ('. ' + ten(c.get('evidence_note')) if ten(c.get('evidence_note')) else ''),
+               'refs': [x for x in map(en_ref, c.get('hagiography', [])) if x], 'sources': [x for x in map(en_ref, c.get('sources', [])) if x],
+               'also': [{'title': ten(cards[i]['title']), 'text': ten(cards[i]['text']), 'refs': [x for x in map(en_ref, cards[i].get('hagiography', [])) if x]} for i in ids[1:]]}
     e.pop('divya', None) if False else None
     img = next((im for i in ids for im in (cards[i].get('images') or []) if im.get('file')), None)
     if img:

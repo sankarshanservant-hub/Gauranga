@@ -15,7 +15,8 @@
   "alpha": 0.78,
   "glow": 0.6,
   "halo": true,
-  "model": "chars/gandharva.json"
+  "model": "chars/gandharva.json",
+  "name_en": "Gandharva"
  },
  "mishra": {
   "id": "mishra",
@@ -30,7 +31,8 @@
   "hair": "#a59d92",
   "hair_style": "shikha",
   "sensitive": false,
-  "model": "chars/mishra.json"
+  "model": "chars/mishra.json",
+  "name_en": "Jagannatha Mishra"
  },
  "shachi": {
   "id": "shachi",
@@ -43,7 +45,8 @@
   "hair": "#1a120c",
   "hair_style": "veil",
   "sensitive": true,
-  "model": "chars/shachi.json"
+  "model": "chars/shachi.json",
+  "name_en": "Shachi-mata"
  },
  "nimai": {
   "id": "nimai",
@@ -60,7 +63,8 @@
   "sensitive": true,
   "uttariya": true,
   "cloth2": "#efd9ae",
-  "model": "chars/nimai.json"
+  "model": "chars/nimai.json",
+  "name_en": "Nimai"
  },
  "brahmana": {
   "id": "brahmana",
@@ -78,7 +82,8 @@
   "hair": "#c9c3b8",
   "hair_style": "shikha",
   "walk_clip": "oldwalk",
-  "model": "chars/brahmana.json"
+  "model": "chars/brahmana.json",
+  "name_en": "Pilgrim Brahmana"
  },
  "vishvarupa": {
   "id": "vishvarupa",
@@ -93,7 +98,8 @@
   "hair": "#1a120c",
   "hair_style": "shikha",
   "glow": 0.35,
-  "model": "chars/vishvarupa.json"
+  "model": "chars/vishvarupa.json",
+  "name_en": "Vishvarupa"
  },
  "relative": {
   "id": "relative",
@@ -107,7 +113,8 @@
   "thread": true,
   "hair": "#1a120c",
   "hair_style": "shikha",
-  "model": "chars/relative.json"
+  "model": "chars/relative.json",
+  "name_en": "Relative"
  },
  "neighbor": {
   "id": "neighbor",
@@ -119,7 +126,8 @@
   "dress": "sari",
   "hair": "#1a120c",
   "hair_style": "veil",
-  "sensitive": true
+  "sensitive": true,
+  "name_en": "Neighbour"
  },
  "friend": {
   "id": "friend",
@@ -136,7 +144,8 @@
   "alpha": 0.7,
   "glow": 1.2,
   "celestial": true,
-  "halo": true
+  "halo": true,
+  "name_en": "Chitrasena, elder gandharva"
  },
  "nidra": {
   "id": "nidra",
@@ -150,6 +159,7 @@
   "hair_style": "veil",
   "alpha": 0.6,
   "glow": 1.4,
-  "celestial": true
+  "celestial": true,
+  "name_en": "Nidra Devi"
  }
 }
