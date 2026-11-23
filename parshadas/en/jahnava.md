@@ -582,7 +582,8 @@ Sri Chaitanya. <!-- F111 Q18 -->
     Khardaha, where Nityananda “settled His beloveds in a wonderful dwelling” (12.4009–4013).
 [^13]: According to one of the biographies, Parameshvari Dasa brought him into the inner apartments, the talks lasted four
     days, and from Khardaha he went on to Khanakula-Krishnanagara; according to the “Bhakti-ratnakara,” he was led in by
-    “all” the Lord's associates, Parameshvari Dasa explained the road to him, and he was sent off to Nilachala (8.208–219).
+    “all” the Lord's associates, Parameshvari Dasa explained the road to him, and he was sent off to Nilachala — by way of
+    Khanakula (8.208–223).
 [^14]: Two lists from different biographies are combined here. Shripati and Shrinidhi appear only in one of them;
     Krishnadasa Sarakhela, Madhava Acharya, Raghupati Vaidya and others only in the other, while the first names
     Jahnava's uncle as “Krishna Mishra” (see above). According to the “Bhakti-ratnakara,” Shripati and Shrinidhi joined
