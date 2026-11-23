@@ -12,9 +12,10 @@
   "hair": "#2a2350",
   "hair_style": "crown",
   "vina": true,
-  "alpha": 0.55,
-  "glow": 0.9,
-  "halo": true
+  "alpha": 0.78,
+  "glow": 0.6,
+  "halo": true,
+  "model": "chars/gandharva.json"
  },
  "mishra": {
   "id": "mishra",
@@ -28,7 +29,8 @@
   "thread": true,
   "hair": "#a59d92",
   "hair_style": "shikha",
-  "sensitive": false
+  "sensitive": false,
+  "model": "chars/mishra.json"
  },
  "shachi": {
   "id": "shachi",
@@ -40,7 +42,8 @@
   "dress": "sari",
   "hair": "#1a120c",
   "hair_style": "veil",
-  "sensitive": true
+  "sensitive": true,
+  "model": "chars/shachi.json"
  },
  "nimai": {
   "id": "nimai",
@@ -53,10 +56,11 @@
   "child": true,
   "hair": "#1a120c",
   "hair_style": "curls",
-  "glow": 0.2,
+  "glow": 0.15,
   "sensitive": true,
   "uttariya": true,
-  "cloth2": "#efd9ae"
+  "cloth2": "#efd9ae",
+  "model": "chars/nimai.json"
  },
  "brahmana": {
   "id": "brahmana",
@@ -73,7 +77,8 @@
   "beard": true,
   "hair": "#c9c3b8",
   "hair_style": "shikha",
-  "walk_clip": "oldwalk"
+  "walk_clip": "oldwalk",
+  "model": "chars/brahmana.json"
  },
  "vishvarupa": {
   "id": "vishvarupa",
@@ -87,7 +92,8 @@
   "thread": true,
   "hair": "#1a120c",
   "hair_style": "shikha",
-  "glow": 0.35
+  "glow": 0.35,
+  "model": "chars/vishvarupa.json"
  },
  "relative": {
   "id": "relative",

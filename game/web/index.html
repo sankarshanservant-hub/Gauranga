@@ -293,6 +293,9 @@ const boneY = (n) => { let y = null; ybot.scene.traverse((o) => { if (o.isBone &
 const YBOT_H = boneY('HeadTop_End') - Math.min(boneY('LeftToe_End') ?? 0, boneY('LeftFoot') ?? 0) + 0.02;
 const lerp = (a, b, t) => a + (b - a) * t;
 const lerpAngle = (a, b, t) => { let d = ((b - a + Math.PI) % (2 * Math.PI)) - Math.PI; if (d < -Math.PI) d += 2 * Math.PI; return a + d * t; };
+// модели персонажей из TRELLIS (картинка -> 3D), с ригом Mixamo (game/tools/autorig.py)
+const MODELS = {};
+for (const id in specs) { const m = specs[id].model; if (m && !MODELS[m]) { try { MODELS[m] = await loadProxy(m); } catch (e) { console.warn('model', m, e); } } }
 class Figure {
   constructor(spec) {
     this.id = spec.id; this.name = spec.name; this.h = spec.height ?? 1.65; this.speed = spec.speed ?? 1.6;
@@ -301,14 +304,19 @@ class Figure {
     const mk = (hex, g = 0) => { const m = new THREE.MeshStandardMaterial({ color: hex, roughness: 0.8, transparent: alpha < 1, opacity: alpha });
       if (g > 0) { m.emissive = new THREE.Color(hex); m.emissiveIntensity = g; } this.mats.push(m); return m; };
     this.root = new THREE.Group(); this.body = new THREE.Group(); this.root.add(this.body);
-    const model = skelClone(ybot.scene);
-    const s = this.h / YBOT_H * (spec.child ? 1.12 : 1);
+    const src = spec.model ? MODELS[spec.model] : null;
+    this.real = !!src;
+    const model = skelClone(src ? src.scene : ybot.scene);
+    const s = this.h / YBOT_H * (spec.child && !src ? 1.12 : 1);
     model.scale.multiplyScalar(s);
     this.body.add(model); this.model = model;
     const skin = mk(spec.skin ?? '#b5835a', glow * 0.6), joint = mk(new THREE.Color(spec.skin ?? '#b5835a').multiplyScalar(0.72).getHex(), glow * 0.4);
-    model.traverse((o) => { if (o.isSkinnedMesh) { o.material = /Joints/.test(o.name) ? joint : skin; o.frustumCulled = false; } });
+    model.traverse((o) => { if (!o.isSkinnedMesh) return; o.frustumCulled = false;
+      if (src) { const m = o.material.clone(); m.side = THREE.DoubleSide; m.metalness = 0; m.roughness = 0.9;
+        if (alpha < 1) { m.transparent = true; m.opacity = alpha; } if (glow > 0) { m.emissive = new THREE.Color(0xffe0a0); m.emissiveIntensity = glow * 0.25; m.emissiveMap = m.map; } o.material = m; }
+      else o.material = /Joints/.test(o.name) ? joint : skin; });
     this.bones = {}; model.traverse((o) => { if (o.isBone) this.bones[o.name.replace(/^mixamorig:?/, '')] = o; });
-    if (spec.child) { this.bones.Head.scale.setScalar(1.45); }
+    if (spec.child && !src) { this.bones.Head.scale.setScalar(1.45); }
     this.mixer = new THREE.AnimationMixer(model); this.actions = {};
     // одежда: жёсткие детали, прикреплённые к костям (позиции в мировых координатах позы покоя)
     model.updateMatrixWorld(true);
@@ -318,28 +326,28 @@ class Figure {
     const put = (bone, geo, mat, pos, rot = [0, 0, 0]) => { const m = new THREE.Mesh(geo, mat); m.position.copy(pos); m.rotation.set(...rot);
       this.body.add(m); m.updateMatrixWorld(true); this.bones[bone].attach(m); return m; };
     const cloth = mk(spec.cloth ?? '#efe8d8', glow * 0.4), cloth2 = mk(spec.cloth2 ?? '#efe8d8', glow * 0.4), border = mk(spec.border ?? '#9b1c12'), hair = mk(spec.hair ?? '#1c140e');
-    const dress = spec.dress ?? 'dhoti';
+    const dress = src ? 'none' : (spec.dress ?? 'dhoti');
     if (dress === 'dhoti') { const h = hips.y - knee.y + 0.08 * hu;
       put('Hips', new THREE.CylinderGeometry(0.16 * hu, 0.2 * hu, h, 16, 1, true), cloth, new THREE.Vector3(0, hips.y - h / 2 + 0.06 * hu, 0)); }
     if (dress === 'sari') { const h = hips.y - ankle.y + 0.02;
       put('Hips', new THREE.CylinderGeometry(0.17 * hu, 0.27 * hu, h, 18, 1, true), cloth, new THREE.Vector3(0, hips.y - h / 2 + 0.06 * hu, 0));
       put('Hips', new THREE.CylinderGeometry(0.271 * hu, 0.275 * hu, 0.07 * hu, 18, 1, true), border, new THREE.Vector3(0, ankle.y + 0.06 * hu, 0));
       put('Spine2', new THREE.BoxGeometry(0.34 * hu, 0.42 * hu, 0.3 * hu), cloth, new THREE.Vector3(0, chest.y - 0.02 * hu, 0.01), [0, 0, 0.55]); }
-    if (spec.uttariya) put('Spine2', new THREE.BoxGeometry(0.1 * hu, 0.5 * hu, 0.3 * hu), cloth2, new THREE.Vector3(0.02, chest.y - 0.02 * hu, 0), [0, 0, -0.75]);
-    if (spec.thread) put('Spine2', new THREE.BoxGeometry(0.012, 0.5 * hu, 0.29 * hu), mk('#f4f0e0'), new THREE.Vector3(0, chest.y - 0.05 * hu, 0.005), [0, 0, -0.85]);
-    if (spec.pendant) put('Spine2', new THREE.SphereGeometry(0.035 * hu, 12, 8), mk('#e8b84a', 2), new THREE.Vector3(0, neck.y - 0.12 * hu, 0.13 * hu));
+    if (!src) if (spec.uttariya) put('Spine2', new THREE.BoxGeometry(0.1 * hu, 0.5 * hu, 0.3 * hu), cloth2, new THREE.Vector3(0.02, chest.y - 0.02 * hu, 0), [0, 0, -0.75]);
+    if (!src) if (spec.thread) put('Spine2', new THREE.BoxGeometry(0.012, 0.5 * hu, 0.29 * hu), mk('#f4f0e0'), new THREE.Vector3(0, chest.y - 0.05 * hu, 0.005), [0, 0, -0.85]);
+    if (!src) if (spec.pendant) put('Spine2', new THREE.SphereGeometry(0.035 * hu, 12, 8), mk('#e8b84a', 2), new THREE.Vector3(0, neck.y - 0.12 * hu, 0.13 * hu));
     const hr = 0.115 * hu * (spec.child ? 1.45 : 1), hc = head.clone().add(new THREE.Vector3(0, hr * 0.9, 0));
-    const hs = spec.hair_style ?? 'shikha';
+    const hs = src ? 'none' : (spec.hair_style ?? 'shikha');
     if (hs === 'shikha') put('Head', new THREE.SphereGeometry(0.03 * hu, 10, 8), hair, hc.clone().add(new THREE.Vector3(0, hr * 0.95, -hr * 0.45)));
     if (hs === 'veil') put('Head', new THREE.SphereGeometry(hr * 1.12, 16, 12, 0, Math.PI * 2, 0, Math.PI * 0.62), cloth, hc.clone().add(new THREE.Vector3(0, 0.0, -0.01)), [-0.25, 0, 0]);
     if (hs === 'curls') put('Head', new THREE.SphereGeometry(hr * 1.04, 14, 10, 0, Math.PI * 2, 0, Math.PI * 0.55), hair, hc.clone(), [-0.2, 0, 0]);
     if (hs === 'crown') put('Head', new THREE.CylinderGeometry(0.06 * hu, 0.085 * hu, 0.12 * hu, 12), mk('#e6c25a', 1), hc.clone().add(new THREE.Vector3(0, hr * 0.95, 0)));
-    if (spec.beard) put('Head', new THREE.BoxGeometry(0.12 * hu, 0.1 * hu, 0.07 * hu), hair, hc.clone().add(new THREE.Vector3(0, -hr * 0.85, hr * 0.6)));
-    if (spec.vina) { const vm = mk('#c99a4a', 0.8);
+    if (!src) if (spec.beard) put('Head', new THREE.BoxGeometry(0.12 * hu, 0.1 * hu, 0.07 * hu), hair, hc.clone().add(new THREE.Vector3(0, -hr * 0.85, hr * 0.6)));
+    if (!src && spec.vina) { const vm = mk('#c99a4a', 0.8);
       put('Spine2', new THREE.CylinderGeometry(0.015, 0.015, 1.0 * hu, 8), vm, chest.clone().add(new THREE.Vector3(0.05, 0.1, -0.22 * hu)), [0, 0, 0.5]);
       put('Spine2', new THREE.SphereGeometry(0.09 * hu, 12, 8), vm, chest.clone().add(new THREE.Vector3(0.27 * hu, -0.32 * hu, -0.22 * hu)));
       put('Spine2', new THREE.SphereGeometry(0.07 * hu, 12, 8), vm, chest.clone().add(new THREE.Vector3(-0.2 * hu, 0.52 * hu, -0.22 * hu))); }
-    if (spec.halo) put('Head', new THREE.TorusGeometry(0.17 * hu, 0.012, 8, 32), mk('#ffe8a0', 3), hc.clone().add(new THREE.Vector3(0, hr * 0.7, -0.05)), [1.2, 0, 0]);
+    if (!src) if (spec.halo) put('Head', new THREE.TorusGeometry(0.17 * hu, 0.012, 8, 32), mk('#ffe8a0', 3), hc.clone().add(new THREE.Vector3(0, hr * 0.7, -0.05)), [1.2, 0, 0]);
     // тень-пятно
     const sh = new THREE.Mesh(new THREE.CircleGeometry(0.4 * hu, 24), new THREE.MeshBasicMaterial({ color: 0, transparent: true, opacity: alpha < 1 ? 0.12 : 0.35, depthWrite: false }));
     sh.rotation.x = -Math.PI / 2; sh.position.y = 0.02; this.root.add(sh);
