@@ -794,6 +794,121 @@ Dasa’s from the “Govardhana-vasa-prarthana-dashaka”: *nija-nikata-nivasam 
 me a dwelling near you.” On 9 December he returned to Calcutta, instructing his disciples without pause the whole way.
 <!-- F183 Q3 F184 -->
 
+## Last Instructions
+On 27 December 1936, a few days before his departure, Srila Bhaktisiddhanta addressed his closest disciples with his
+last instructions[^20]. Here they are in the translation published by the Sri Chaitanya Saraswat Math:
+
+“I have caused anxiety to many people because I was bound to tell the truth candidly; because I have told to practise
+Krishna consciousness without deceit, many people may even consider me their enemy. To make them eager to sincerely
+serve Lord Krishna, leaving all other desires and deceit, I have caused various anxiety to many people. Some day or
+another they will understand what I am saying.
+
+“Everyone should preach Sri Rupa-Raghunath’s conception with great enthusiasm. Our greatest aspiration is to become dust
+at the holy lotus feet of the followers of Sri Rupa Goswami. You should all stay together in exclusive submission
+(anugatya) to asraya-vigraha [holy embodiment of shelter; Sri Guru] with the only purpose to satisfy the transcendental
+senses of the Supreme Absolute (advaya-jnana). Everyone should somehow carry on their lives in this temporary two-day
+world with the only purpose to practise Krishna consciousness. Even amidst a hundred dangers, a hundred abuses and a
+hundred insults, never leave Krishna consciousness. Seeing that most people in this world are not accepting service to
+Krishna, do not become disheartened, do not leave your own spiritual life, your own all-in-all: Sri Krishna-katha
+sravan and kirtan (hearing about Lord Krishna and glorifying Lord Krishna). Becoming humbler than grass and more
+tolerant than a tree, always practise Hari-kirtan (chanting the glories of the Lord, preaching about the Lord,
+practising Krishna consciousness).
+
+“We are cherishing the aspiration to offer this good-for-nothing body as an oblation into the fire of sankirtan of Sri
+Krishna Chaitanya and His associates. We have no desire for any material or religious heroism, but our intrinsic
+identity – our all-in-all – is dust from the holy lotus feet of Sri Rupa Prabhu, birth after birth. The current of
+Srila Bhaktivinod Thakur will never be stopped, and you must make it your vow to preach about Srila Bhaktivinod Thakur
+and to fulfil Srila Bhaktivinod Thakur’s inner desire with even more enthusiasm. There are many qualified and
+illustrious persons left among you. We have no other aspiration; our only message is:
+
+*adadanas trnam dantair idam yache punah punah*
+*srimad-rupa-padambhoja-dhulih syam janma-janmani*
+
+‘Holding grass between my teeth, I beg again and again: “May I birth after birth become dust at the holy lotus feet of
+Srimad Rupa.”’
+
+“[…] In this world, I feel no attachment or enmity to anybody. In this world, all arrangements are fleeting. […]
+Establishing yourselves exclusively in a common purpose, you should attain the right to serve (seva-adhikar) the main
+asraya-vigraha. May the current of thoughts focused on Sri Rupa’s followers flow in this world. May we never, under any
+circumstances, become apathetic towards the seven-tongued fire sacrifice of Sri Krishna-sankirtan. If you have
+exclusive, ever-increasing loving attachment to it, you will attain all perfection. You must all preach about the
+conception of Sri Rupa-Raghunath with great enthusiasm and in an undaunted voice, in exclusive submission (anugatya) to
+the followers of Sri Rupa Goswami.” <!-- F185 Q4 -->
+
+The verse on the dust of Rupa’s feet is, according to one of the biographies, from Raghunatha Dasa Gosvami’s
+“Mukta-charita.” The dust of Sri Rupa’s feet he had long called the only thing he desired in life. The words “I have
+caused anxiety to many” express not regret but the humility and straightforwardness of an acharya who could not help
+speaking the truth; and to offer the body into the fire of sankirtana is to give it wholly into the sacrifice of the
+Holy Name. <!-- F253 Q4 -->
+
+## The Last Day
+His disciples took turns keeping watch at their guru’s bedside. Srila B. R. Sridhar Maharaj recalled: “We were rendering
+duty in his sick bed, I was also among them, my duty was from 2 o’clock at night to 4 o’clock in the morning. Just
+before 24 hours of his departure he called for me and asked me to sing a song: Sri Rupa Manjari pada sei mora sampada,
+this famous song which is supposed to be the highest realisation of any Gaudiya Vaishnava devotee. Then after 24 hours,
+on the first of January early morning he left the world.” Another song — “*tuhun daya-sagara tarayite prani*,” from
+Bhaktivinoda’s Bengali rendering of the “Shikshashtaka” — he asked Navina Krishna Vidyalankara to sing[^21]. To Bhakti
+Sudhakara Prabhu — Nishikanta Sanyal — he expressed satisfaction and gratitude for his service, and he told Vrajeshvari
+Prasad Prabhu of Patna to remain zealous in service. <!-- F186 F274 -->
+
+About four in the afternoon he called Sakhicharan Ray Bhakti-vijaya and told him he was most fortunate, for he had
+served Sri Mayapur. Later he told Bhakti Viveka Bharati Maharaja that he was capable and must protect the mission; that
+it is better when *prema* and *rasa* are understood as one; that Narottama Dasa Thakura accepted the understanding of
+Rupa and Raghunatha, and it is better to live by it. Then he blessed everyone — those present and those absent — and
+reminded them that their only duty and dharma is to spread the service of the Bhagavata and of Bhagavan[^22].
+<!-- F187 F188 Q5 -->
+
+In those days he also left his disciples instructions for the mission. Already on 27 December, on Sunday evening, at a
+memorial gathering for the departed Jagabandhu, he said: “May Sripada Kunjavihari Vidyabhushana be victorious in
+everything! If those who help him follow him, great good fortune awaits them.” And on Thursday, 31 December, he
+dictated in English his “Guiding Principles”: “Form a Governing body of 10 to 12 persons for Management of Mission work
+but Kunja Babu will manage so long as he lives. Kunja Babu’s sympathy for me brought me in connection with so many
+persons. His intelligence excelled all. His sympathy for me knows no bound. I advise you (Kunja Babu) to be courageous
+and callous, as I am callous to all. This should be your guiding principle. I told the other day and again I say Kunja
+Babu should be respected by all as long as he lives. Not to quarrel with one another.” And he added in Bengali: “Let
+Vasudeva write something; let Sundarananda help Professor Babu”[^23]. <!-- F263 F261 Q9 -->
+
+## Departure
+Srila Bhaktisiddhanta Sarasvati Thakura left this world in Calcutta on 1 January 1937, at about half past five in the
+morning, on the krishna-chaturthi[^24]. By our calendar it is the krishna-chaturthi of Narayana-masa, the day on which
+his departure is observed. He entered the eternal abode and joined Radha and Krishna in the pre-dawn (*nishanta*)
+pastimes of their eternal day in Vraja. <!-- F189 -->
+
+His disciples saw a special meaning in the very hour of his departure. At the end of night Radha and Krishna, in an
+indissoluble embrace, become as it were one body — that is Gaurasundara; and at that moment Their servant
+Varshabhanavi-dayita Dasa joined Them. At the same hour his guru, Gaurakishora Dasa Babaji, had entered the eternal
+pastimes. A hint of this was seen in the first verse of Jayadeva’s “Gita-govinda” (*meghair meduram ambaram…*) — in the
+word *naktam*, “by night.” This embrace is not worldly passion but the highest prema, revealed to the world as Sri
+Gaurasundara. <!-- F190 Q11 I8 -->
+
+## “The Sun of the Gaudiya Sampradaya”
+The journal “Gaudiya” announced: on the last krishna-chaturthi of the month of Narayana in the year 450 of the
+Chaitanya era, at the end of the night before Thursday (16 Paush 1343 by the Bengali reckoning), on Friday morning, 1
+January 1937, Paramahamsa Parivrajakacharya Om Vishnupada Srila Bhaktisiddhanta Sarasvati Gosvami Prabhupada entered
+the eternal pastimes of Radha-Govinda — in the first hour of Their eternal day. He was the great acharya of the Gaudiya
+Vaishnava sampradaya and its sole guardian, the ninth in succession from Sri Chaitanya Mahaprabhu[^25], the best of the
+followers of Svarupa Damodara and Sri Rupa Gosvami. <!-- F191 F192 F275 -->
+
+The “Gaudiya” announcement also gave a pranama to him:
+
+*namas te gaura-vani-sri-murtaye dina-tarine*
+*rupanuga-viruddhapasiddhanta-dhvanta-harine*
+
+“Obeisance to you, embodiment of Gaura’s message, deliverer of the fallen, dispeller of the darkness of false doctrines
+opposed to the teaching of the followers of Sri Rupa.” <!-- Q10 -->
+
+He was the sun of the Gaudiya sampradaya, the journal wrote, for he was not different from its acharyas — Rupa and
+Svarupa Damodara; with his setting darkness fell not only on the preachers of the Gaudiya Math but on the whole world.
+Yet there is hope: he had breathed into his followers such zeal for service to the Lord’s feet and given them such
+ideals of practice and preaching that the current flowing from Svarupa and Rupa through Bhaktivinoda would only gather
+strength. Faithfully following his instructions, they would gain his direct company and strength; and on the path of
+fearless, independent preaching his blessings would pour down still more abundantly. The writers of the “Gaudiya” had
+lost their shelter: he used to read each of their articles eagerly before it was printed, blessing their work and
+rejoicing in it. Yet they were not left without mercy: he had entrusted them with service to the knowers of
+Bhaktivinoda’s teaching of pure bhakti, and through that service his innermost desires would be revealed. So the grief
+of the disciples was joined with faith: the Lord’s eternal associate remains with them in his instructions and in the
+service he gave them. <!-- F193 F194 I5 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -846,3 +961,24 @@ me a dwelling near you.” On 9 December he returned to Calcutta, instructing hi
 [^19]: In its list of institutions the biography gives a different year for the founding of this institute — 1931; in
     the account of 1936 and in another list — 12 February 1936. The years of the journal “Gaudiya” are also confused in it
     (the second and third years are both marked 1924–1925).
+[^20]: The date and the listeners are given by one of the biographies, which renders the instructions in its own
+    paraphrase. The Sri Chaitanya Saraswat Math published them from a Bengali article in the journal “Sri Gaudiya Darshan”
+    (Year 1, No. 6, 12 January 1955) with the note “spoken at the time of his departure”; here they follow that translation
+    (abridged). The Bengali record of 1936–1937 is not available to us.
+[^21]: According to one of the biographies, he asked for both songs on the morning of the very day of his departure.
+    Srila Sridhar Maharaj places his own on the eve of the departure — “just before 24 hours”; here we follow his words (as
+    also in the article about him).
+[^22]: These words of the last day are known only from the paraphrase of one of the biographies, and so they are given
+    without quotation marks.
+[^23]: The “Guiding Principles” survive in their original English text; the biography that gives them calls Thursday,
+    31 December 1936, “the day of the manifestation of the lila of disappearance.”
+[^24]: The sources name the day of the week differently: one biography says “on Thursday, 1 January”; the “Gaudiya”
+    announcement, “at the end of the night before Thursday, on Friday morning, 1 January”; the Sri Chaitanya Saraswat Math,
+    “16th Paush 1343, Thursday, daybreak” by the Bengali reckoning and “1 January 1937, Friday” by the English. By the
+    Bengali reckoning the day lasts until dawn, so all agree: he departed at dawn after the night between Thursday 31
+    December and Friday 1 January. In one place the same biography wrongly gives the year of his departure as 1936.
+[^25]: The count follows the line of teachers, counting Mahaprabhu as the first: Sri Chaitanya — Svarupa Damodara and Rupa
+    — Raghunatha — Krishnadasa — Narottama — Vishvanatha — Jagannatha — Bhaktivinoda and Gaurakishora — he. In the list of
+    the guru-parampara printed in Nishikanta Sanyal’s book “Sree Krishna Chaitanya” (1933), with a preface by Srila
+    Bhaktisiddhanta, he stands twenty-ninth from Krishna — “Sri Bhaktisiddhanta Sarasvati Sri Barshabhanavi-dayita-das” —
+    after Gaurakishora (twenty-eighth).
