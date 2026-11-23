@@ -1,0 +1,662 @@
+<title>Незримый гость</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400&family=Alegreya+SC:wght@500&display=swap">
+<style>
+/* Пробный уровень игры по Гаура-лиле: пререндеренный двор (Cycles) + 3D-фигуры, интерфейс — «пальмовый лист и латунь». */
+:root {
+  --ink: #f3ead6; --dim: #b9ab8e; --gold: #d9b56a; --panel: rgba(18, 13, 9, 0.93); --panel-soft: rgba(15, 11, 8, 0.78);
+  --night: #0b0806; --btn: #2a1f12; --btn-hi: #47361d; --leaf: #9fb6ff;
+  --f-display: "Alegreya SC", "Alegreya", Georgia, serif; --f-body: "Alegreya", Georgia, "Times New Roman", serif;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+body { background: var(--night); color: var(--ink); font-family: var(--f-body); overflow: hidden;
+  padding-left: max(0px, env(safe-area-inset-left, 0px)); padding-right: max(0px, env(safe-area-inset-right, 0px)); }
+#wrap { position: fixed; inset: 0; display: grid; place-items: center; }
+#stage { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; transform-origin: 0 0; overflow: hidden;
+  background: #000; user-select: none; -webkit-user-select: none; touch-action: manipulation; }
+#gl { position: absolute; inset: 0; width: 1920px; height: 1080px; display: block; cursor: pointer; }
+.ui { position: absolute; }
+.panel { background: var(--panel); border: 2px solid rgba(217, 181, 106, 0.75); border-radius: 6px; }
+.soft { background: var(--panel-soft); border-radius: 6px; padding: 10px 16px; pointer-events: none; }
+#top { left: 24px; top: 18px; width: 900px; }
+#chap { font-family: var(--f-display); font-size: 20px; color: var(--gold); letter-spacing: 0.04em; }
+#objective { font-size: 22px; line-height: 1.3; white-space: pre-line; }
+#hud { right: 24px; top: 18px; width: 380px; display: flex; flex-direction: column; gap: 8px; }
+#hud .soft { font-size: 20px; }
+#hud .keys { font-size: 16px; color: var(--dim); }
+#btns { display: flex; gap: 8px; pointer-events: auto; }
+button { font-family: var(--f-body); font-size: 22px; color: var(--ink); background: var(--btn); border: 1px solid rgba(217, 181, 106, 0.75);
+  border-radius: 6px; padding: 8px 14px; cursor: pointer; text-align: left; }
+button:hover { background: var(--btn-hi); }
+button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+#btns button { flex: 1; text-align: center; font-size: 19px; padding: 8px 6px; }
+#btns button.on { background: #5a4520; }
+#percept { left: 24px; top: 980px; width: 320px; pointer-events: none; }
+#percept .lbl { font-family: var(--f-display); font-size: 18px; color: var(--gold); }
+#percept .bar { height: 14px; background: rgba(0,0,0,0.5); border-radius: 3px; overflow: hidden; }
+#percept .fill { height: 100%; width: 0; background: #e0c27a; }
+#dlg { left: 210px; top: 800px; width: 1500px; min-height: 250px; padding: 18px 22px; display: flex; gap: 22px; cursor: pointer; }
+#portrait { flex: 0 0 170px; height: 200px; border-radius: 8px; border: 2px solid var(--gold); display: grid; place-items: center;
+  font-family: var(--f-display); font-size: 84px; color: var(--ink); }
+#dlgBody { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+#dlgName { font-family: var(--f-display); font-size: 26px; color: var(--gold); letter-spacing: 0.03em; }
+#dlgText { font-size: 27px; line-height: 1.35; min-height: 110px; }
+#dlgText i { font-style: italic; }
+#dlgRef { font-style: italic; font-size: 18px; color: var(--dim); }
+#choices { display: flex; flex-direction: column; gap: 6px; }
+#card { left: 1180px; top: 150px; width: 700px; padding: 20px 24px; display: flex; flex-direction: column; gap: 8px; max-height: 760px; overflow-y: auto; }
+#cardKind { font-family: var(--f-display); font-size: 18px; color: var(--dim); letter-spacing: 0.04em; }
+#cardTitle { font-weight: 700; font-size: 34px; color: var(--gold); line-height: 1.15; text-wrap: balance; }
+#cardText { font-size: 23px; line-height: 1.38; }
+#cardText .refs { margin-top: 10px; }
+#cardText .note { font-style: italic; font-size: 20px; color: var(--dim); }
+#journal { left: 160px; top: 90px; width: 1600px; height: 900px; padding: 24px; display: flex; flex-direction: column; gap: 12px; }
+#journal h2 { font-family: var(--f-display); font-weight: 500; font-size: 30px; color: var(--gold); margin: 0; }
+#jcols { flex: 1; display: grid; grid-template-columns: 520px 1fr; gap: 24px; min-height: 0; }
+#jlist { overflow-y: auto; display: flex; flex-direction: column; gap: 4px; }
+#jlist button { font-size: 21px; }
+#jlist button.sel { background: #5a4520; }
+#jtext { overflow-y: auto; font-size: 24px; line-height: 1.4; min-width: 0; }
+#jtext h3 { font-size: 30px; color: var(--gold); margin: 0 0 6px; }
+#hint { left: 460px; top: 140px; width: 1000px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; font-size: 22px; line-height: 1.4; }
+#tip { pointer-events: none; padding: 6px 12px; font-size: 21px; background: rgba(13, 10, 8, 0.9); border: 1px solid rgba(217,181,106,0.6); border-radius: 5px; white-space: nowrap; }
+#fade { inset: 0; background: #000; opacity: 0; pointer-events: none; display: grid; place-items: center; transition: opacity 0.8s; }
+#fade.block { pointer-events: auto; }
+#fadeBox { text-align: center; max-width: 1400px; padding: 0 40px; }
+#fadeTitle { font-weight: 700; font-size: 56px; color: var(--gold); text-wrap: balance; transition: opacity 0.7s; }
+#fadeSub { font-style: italic; font-size: 28px; line-height: 1.45; white-space: pre-line; transition: opacity 0.7s; }
+#sky { inset: 0; pointer-events: none; opacity: 0; transition: opacity 0.6s;
+  background: radial-gradient(ellipse at center, rgba(255, 226, 150, 0.0) 35%, rgba(70, 40, 110, 0.55) 100%),
+              linear-gradient(rgba(255, 214, 140, 0.28), rgba(150, 110, 210, 0.22)); mix-blend-mode: screen; }
+#skyTint { inset: 0; pointer-events: none; opacity: 0; transition: opacity 0.6s; background: rgba(255, 220, 160, 0.35); mix-blend-mode: soft-light; }
+#sparks { inset: 0; pointer-events: none; opacity: 0; transition: opacity 0.6s; }
+#vision { inset: 0; pointer-events: none; opacity: 0; transition: opacity 1.6s; }
+#vision .rays { position: absolute; width: 1800px; height: 1800px; margin: -900px 0 0 -900px; border-radius: 50%;
+  background: repeating-conic-gradient(from 0deg, rgba(255,240,190,0.55) 0deg 4deg, rgba(255,240,190,0) 4deg 11deg);
+  -webkit-mask: radial-gradient(circle, #000 0%, rgba(0,0,0,0.7) 18%, transparent 55%); mask: radial-gradient(circle, #000 0%, rgba(0,0,0,0.7) 18%, transparent 55%);
+  animation: spin 40s linear infinite; }
+#vision .core { position: absolute; width: 900px; height: 900px; margin: -450px 0 0 -450px; border-radius: 50%;
+  background: radial-gradient(circle, #fffbea 0%, rgba(255,236,170,0.95) 9%, rgba(255,210,120,0.55) 24%, rgba(120,150,255,0.25) 45%, transparent 66%); }
+@keyframes spin { to { transform: rotate(360deg); } }
+#loading { inset: 0; display: grid; place-items: center; background: var(--night); font-size: 30px; color: var(--gold); font-family: var(--f-display); }
+#rotate { position: fixed; inset: auto 0 0 0; padding: 10px 16px calc(10px + env(safe-area-inset-bottom, 0px)); text-align: center;
+  background: rgba(13,10,8,0.85); color: var(--ink); font-size: 15px; display: none; }
+@media (orientation: portrait) and (max-width: 800px) { #rotate { display: block; } }
+@media (prefers-reduced-motion: reduce) { #vision .rays { animation: none; } }
+</style>
+
+<div id="wrap"><div id="stage">
+  <canvas id="gl" width="1920" height="1080"></canvas>
+  <div id="skyTint" class="ui"></div>
+  <div id="sky" class="ui"></div>
+  <canvas id="sparks" class="ui" width="1920" height="1080"></canvas>
+  <div id="vision" class="ui"><div class="rays"></div><div class="core"></div></div>
+  <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
+  <div id="hud" class="ui">
+    <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
+      <div class="keys">Пробел — подсветка · Tab — небо · J — журнал</div></div>
+    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button></div>
+  </div>
+  <div id="percept" class="ui" hidden><div class="lbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
+  <div id="hint" class="ui panel" hidden><div id="hintText"></div><button id="hintOk" type="button">Понятно</button></div>
+  <div id="card" class="ui panel" hidden><div id="cardKind"></div><div id="cardTitle"></div><div id="cardText"></div><button id="cardClose" type="button">Закрыть</button></div>
+  <div id="dlg" class="ui panel" hidden><div id="portrait"></div><div id="dlgBody"><div id="dlgName"></div><div id="dlgText"></div><div id="choices"></div><div id="dlgRef"></div></div></div>
+  <div id="journal" class="ui panel" hidden><h2>Журнал · открытое в этой главе</h2><div id="jcols"><div id="jlist"></div><div id="jtext"></div></div><button id="jClose" type="button">Закрыть (J)</button></div>
+  <div id="tip" class="ui" hidden></div>
+  <div id="fade" class="ui"><div id="fadeBox"><div id="fadeTitle"></div><div id="fadeSub"></div></div></div>
+  <div id="loading" class="ui">Двор Джаганнатхи Мишры…</div>
+</div></div>
+<div id="rotate">Поверните телефон горизонтально — так двор виден целиком.</div>
+
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+const AUTOPLAY = /autoplay/.test(location.search) || location.hash === '#autoplay';
+const $ = (id) => document.getElementById(id);
+const sleep = (ms) => new Promise((r) => setTimeout(r, AUTOPLAY ? Math.min(ms, 120) : ms));
+const W = 1920, H = 1080;
+
+// ---------------------------------------------------------------- масштаб сцены под окно
+const stage = $('stage');
+let K = 1;
+function fit() {
+  const vw = innerWidth, vh = innerHeight;
+  K = Math.min(vw / W, vh / H);
+  stage.style.transform = `translate(${(vw - W * K) / 2}px, ${(vh - H * K) / 2}px) scale(${K})`;
+  if (renderer) { renderer.setPixelRatio(Math.min(K * (devicePixelRatio || 1), 2)); renderer.setSize(W, H, false); updateRes(); }
+}
+addEventListener('resize', fit);
+
+// ---------------------------------------------------------------- данные
+const j = (p) => fetch(p).then((r) => r.json());
+const [specs, codex, scenario, camj, nav] = await Promise.all(
+  ['data/characters.json', 'data/codex.json', 'data/scenario.json', 'data/camera.json', 'data/nav.json'].map(j));
+const spots = {};
+for (const k in camj.spots) spots[k] = new THREE.Vector3(...camj.spots[k]);
+
+// ---------------------------------------------------------------- рендер и камера (та же, что в Blender)
+const renderer = new THREE.WebGLRenderer({ canvas: $('gl'), antialias: true });
+renderer.toneMapping = THREE.NoToneMapping;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+const scene = new THREE.Scene();
+const hw = camj.ortho_width / 2, hh = hw * H / W;
+const cam = new THREE.OrthographicCamera(-hw, hw, hh, -hh, 0.5, 200);
+{
+  const c = camj.basis_columns, o = camj.origin;
+  const m = new THREE.Matrix4().makeBasis(new THREE.Vector3(...c[0]), new THREE.Vector3(...c[1]), new THREE.Vector3(...c[2]));
+  m.setPosition(o[0], o[1], o[2]);
+  m.decompose(cam.position, cam.quaternion, cam.scale);
+  cam.updateMatrixWorld(true);
+}
+const texLoader = new THREE.TextureLoader();
+const loadTex = (p) => new Promise((res) => texLoader.load(p, (t) => { t.colorSpace = THREE.NoColorSpace; t.minFilter = THREE.LinearFilter; t.generateMipmaps = false; res(t); }));
+const TIMES = {
+  day: { tex: 'bg/courtyard_day.jpg', sun: 2.4, sunCol: 0xfff0d8, amb: 1.1, ambCol: 0xc2c8d6, lamps: 0 },
+  dusk: { tex: 'bg/courtyard_dusk.jpg', sun: 1.3, sunCol: 0xffb877, amb: 0.65, ambCol: 0x8c7f99, lamps: 2.5 },
+  night: { tex: 'bg/courtyard_night.jpg', sun: 0.35, sunCol: 0x9db3ff, amb: 0.28, ambCol: 0x5a6699, lamps: 6 },
+};
+const bgTex = {};
+await Promise.all(Object.keys(TIMES).map(async (k) => { bgTex[k] = await loadTex(TIMES[k].tex); }));
+const bgUniforms = { bgA: { value: bgTex.day }, bgB: { value: bgTex.day }, mixv: { value: 0 }, res: { value: new THREE.Vector2(W, H) } };
+function updateRes() { const v = new THREE.Vector2(); renderer.getDrawingBufferSize(v); bgUniforms.res.value.copy(v); }
+const bgMat = new THREE.ShaderMaterial({
+  uniforms: bgUniforms, side: THREE.DoubleSide,
+  vertexShader: 'void main(){ gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0); }',
+  // прокси-геометрия рисует пиксели фона по экранным координатам: персонаж за кровлей загораживается по силуэту
+  fragmentShader: 'uniform sampler2D bgA, bgB; uniform float mixv; uniform vec2 res; void main(){ vec2 uv = gl_FragCoord.xy / res; gl_FragColor = vec4(mix(texture2D(bgA, uv).rgb, texture2D(bgB, uv).rgb, mixv), 1.0); }',
+});
+const proxies = [];
+// модель лежит как glTF-JSON с данными в base64; собираем из неё GLB в памяти (без лишних запросов)
+async function loadProxy(url) {
+  const js = await j(url);
+  const b64 = js.buffers[0].uri.split(',')[1]; delete js.buffers[0].uri;
+  const bin = Uint8Array.from(atob(b64), (c) => c.charCodeAt(0));
+  const jsonBytes = new TextEncoder().encode(JSON.stringify(js));
+  const jl = Math.ceil(jsonBytes.length / 4) * 4, bl = Math.ceil(bin.length / 4) * 4;
+  const buf = new ArrayBuffer(12 + 8 + jl + 8 + bl), dv = new DataView(buf), u8 = new Uint8Array(buf);
+  dv.setUint32(0, 0x46546C67, true); dv.setUint32(4, 2, true); dv.setUint32(8, buf.byteLength, true);
+  dv.setUint32(12, jl, true); dv.setUint32(16, 0x4E4F534A, true); u8.fill(0x20, 20, 20 + jl); u8.set(jsonBytes, 20);
+  const o = 20 + jl; dv.setUint32(o, bl, true); dv.setUint32(o + 4, 0x004E4942, true); u8.set(bin, o + 8);
+  return new GLTFLoader().parseAsync(buf, '');
+}
+const gltf = await loadProxy('proxy/courtyard_proxy.json');
+gltf.scene.traverse((o) => { if (o.isMesh) { o.material = bgMat; proxies.push(o); } });
+scene.add(gltf.scene);
+
+const sun = new THREE.DirectionalLight(TIMES.day.sunCol, TIMES.day.sun);
+sun.position.set(-8, 14, 6); scene.add(sun);
+const amb = new THREE.AmbientLight(TIMES.day.ambCol, TIMES.day.amb); scene.add(amb);
+const LAMPS = [[-2.5, -3, .25], [3.4, -2.2, .25], [-3.6, 3.4, .25], [2.8, 3.6, .25], [0.3, -0.18, .4], [-0.5, 4.25, 2.4], [-6.4, 0.5, 1.4], [0.36, 4.85, .75]];
+const lamps = LAMPS.map(([x, y, z]) => { const l = new THREE.PointLight(0xffa050, 0, 4, 2); l.position.set(x, z, -y); scene.add(l); return l; });
+
+// ---------------------------------------------------------------- навигация (сетка, выгруженная из навмеша Godot)
+const N = nav.n, ST = nav.step, X0 = nav.x0, Z0 = nav.z0, HG = nav.h;
+const cellOf = (p) => [Math.round((p.x - X0) / ST), Math.round((p.z - Z0) / ST)];
+const ok = (ix, iz) => ix >= 0 && iz >= 0 && ix < N && iz < N && HG[iz][ix] >= 0;
+const hAt = (ix, iz) => HG[iz][ix];
+function nearestCell(p) {
+  let [cx, cz] = cellOf(p);
+  if (ok(cx, cz)) return [cx, cz];
+  for (let r = 1; r < 40; r++) {
+    let best = null, bd = 1e9;
+    for (let dz = -r; dz <= r; dz++) for (let dx = -r; dx <= r; dx++) {
+      if (Math.max(Math.abs(dx), Math.abs(dz)) !== r) continue;
+      const x = cx + dx, z = cz + dz;
+      if (ok(x, z)) {
+        const wy = hAt(x, z), d = dx * dx + dz * dz + (p.y !== undefined ? Math.abs(wy - p.y) * 4 : 0);
+        if (d < bd) { bd = d; best = [x, z]; }
+      }
+    }
+    if (best) return best;
+  }
+  return [cx, cz];
+}
+const cellPos = ([x, z]) => new THREE.Vector3(X0 + x * ST, hAt(x, z), Z0 + z * ST);
+function nearest(p) { return cellPos(nearestCell(p)); }
+function los(a, b) {
+  const steps = Math.ceil(Math.hypot(b[0] - a[0], b[1] - a[1]) * 2);
+  let prev = hAt(a[0], a[1]);
+  for (let i = 1; i <= steps; i++) {
+    const x = Math.round(a[0] + (b[0] - a[0]) * i / steps), z = Math.round(a[1] + (b[1] - a[1]) * i / steps);
+    if (!ok(x, z)) return false;
+    const h = hAt(x, z); if (Math.abs(h - prev) > 0.62) return false; prev = h;
+  }
+  return true;
+}
+function findPath(from, to) {
+  const s = nearestCell(from), g = nearestCell(to);
+  const key = (x, z) => z * N + x;
+  const open = [[0, s[0], s[1]]], came = new Map(), gs = new Map([[key(...s), 0]]);
+  const hfun = (x, z) => Math.hypot(x - g[0], z - g[1]);
+  let found = false, it = 0;
+  while (open.length && it++ < 60000) {
+    let bi = 0; for (let i = 1; i < open.length; i++) if (open[i][0] < open[bi][0]) bi = i;
+    const [, x, z] = open.splice(bi, 1)[0];
+    if (x === g[0] && z === g[1]) { found = true; break; }
+    const gc = gs.get(key(x, z));
+    for (let dz = -1; dz <= 1; dz++) for (let dx = -1; dx <= 1; dx++) {
+      if (!dx && !dz) continue;
+      const nx = x + dx, nz = z + dz;
+      if (!ok(nx, nz) || Math.abs(hAt(nx, nz) - hAt(x, z)) > 0.62) continue;
+      if (dx && dz && (!ok(x + dx, z) || !ok(x, z + dz))) continue;
+      const ng = gc + (dx && dz ? 1.414 : 1), k = key(nx, nz);
+      if (ng < (gs.get(k) ?? 1e9)) { gs.set(k, ng); came.set(k, [x, z]); open.push([ng + hfun(nx, nz), nx, nz]); }
+    }
+  }
+  if (!found) return [nearest(to)];
+  const cells = [g]; let c = g;
+  while (key(...c) !== key(...s)) { c = came.get(key(...c)); cells.push(c); }
+  cells.reverse();
+  const out = []; let a = 0;   // спрямление пути
+  while (a < cells.length - 1) { let b = cells.length - 1; while (b > a + 1 && !los(cells[a], cells[b])) b--; out.push(cellPos(cells[b])); a = b; }
+  return out.length ? out : [cellPos(g)];
+}
+
+// ---------------------------------------------------------------- фигуры (условные манекены серого уровня)
+const lerp = (a, b, t) => a + (b - a) * t;
+const lerpAngle = (a, b, t) => { let d = ((b - a + Math.PI) % (2 * Math.PI)) - Math.PI; if (d < -Math.PI) d += 2 * Math.PI; return a + d * t; };
+class Figure {
+  constructor(spec) {
+    this.id = spec.id; this.name = spec.name; this.h = spec.height ?? 1.65; this.speed = spec.speed ?? 1.6;
+    this.celestial = !!spec.celestial; this.pose = 'idle'; this.path = []; this.t = Math.random() * 10; this.yaw = 0; this.carried = false;
+    this.mats = []; this.resolve = null;
+    const alpha = spec.alpha ?? 1, glow = spec.glow ?? 0;
+    const mk = (hex, g = 0) => { const m = new THREE.MeshStandardMaterial({ color: hex, roughness: 0.85, transparent: alpha < 1, opacity: alpha });
+      if (g > 0) { m.emissive = new THREE.Color(hex); m.emissiveIntensity = g; } this.mats.push(m); return m; };
+    const skin = mk(spec.skin ?? '#b5835a', glow), cloth = mk(spec.cloth ?? '#efe8d8', glow * .5), cloth2 = mk(spec.cloth2 ?? '#efe8d8', glow * .5);
+    const border = mk(spec.border ?? '#9b1c12'), hair = mk(spec.hair ?? '#1c140e');
+    this.root = new THREE.Group(); this.body = new THREE.Group(); this.root.add(this.body);
+    this.body.scale.setScalar(this.h / 1.65);
+    const part = (parent, geo, mat, pos = [0, 0, 0], rot = [0, 0, 0]) => { const m = new THREE.Mesh(geo, mat); m.position.set(...pos); m.rotation.set(...rot); parent.add(m); return m; };
+    const cap = (r, h) => new THREE.CapsuleGeometry(r, Math.max(h - 2 * r, 0.01), 4, 10);
+    const cyl = (rt, rb, h) => new THREE.CylinderGeometry(rt, rb, h, 14);
+    const sph = (r) => new THREE.SphereGeometry(r, 14, 10);
+    const box = (x, y, z) => new THREE.BoxGeometry(x, y, z);
+    // тень-пятно
+    const sh = new THREE.Mesh(new THREE.CircleGeometry(0.4, 24), new THREE.MeshBasicMaterial({ color: 0, transparent: true, opacity: alpha < 1 ? 0.12 : 0.35, depthWrite: false }));
+    sh.rotation.x = -Math.PI / 2; sh.position.y = 0.02; this.body.add(sh);
+    this.hips = new THREE.Group(); this.hips.position.y = 0.86; this.body.add(this.hips);
+    this.legL = new THREE.Group(); this.legL.position.x = -0.09; this.legR = new THREE.Group(); this.legR.position.x = 0.09;
+    this.hips.add(this.legL, this.legR);
+    for (const l of [this.legL, this.legR]) part(l, cap(0.065, 0.86), skin, [0, -0.42, 0]);
+    const dress = spec.dress ?? 'dhoti';
+    if (dress === 'dhoti') part(this.hips, cyl(0.17, 0.21, 0.5), cloth, [0, -0.2, 0]);
+    if (dress === 'sari') { part(this.hips, cyl(0.17, 0.27, 0.84), cloth, [0, -0.4, 0]); part(this.hips, cyl(0.272, 0.275, 0.07), border, [0, -0.79, 0]); }
+    this.upper = new THREE.Group(); this.hips.add(this.upper);
+    part(this.upper, cap(0.16, 0.62), dress === 'sari' ? cloth : skin, [0, 0.27, 0]);
+    if (dress === 'sari') part(this.upper, box(0.36, 0.08, 0.34), cloth, [0, 0.33, 0], [0, 0, 0.75]);
+    if (spec.uttariya) part(this.upper, box(0.38, 0.06, 0.33), cloth2, [0, 0.33, 0], [0, 0, -0.8]);
+    if (spec.thread) part(this.upper, box(0.42, 0.012, 0.335), mk('#f4f0e0'), [0, 0.3, 0], [0, 0, -0.9]);
+    if (spec.pendant) part(this.upper, sph(0.035), mk('#e8b84a', 2), [0, 0.36, 0.16]);
+    this.armL = new THREE.Group(); this.armL.position.set(-0.2, 0.5, 0); this.armR = new THREE.Group(); this.armR.position.set(0.2, 0.5, 0);
+    this.upper.add(this.armL, this.armR);
+    for (const a of [this.armL, this.armR]) part(a, cap(0.048, 0.6), skin, [0, -0.28, 0]);
+    this.head = new THREE.Group(); this.head.position.y = 0.72; this.upper.add(this.head);
+    this.head.scale.setScalar(spec.child ? 1.35 : 1);
+    part(this.head, sph(0.11), skin);
+    const hs = spec.hair_style ?? 'shikha';
+    if (hs === 'shikha') part(this.head, sph(0.03), hair, [0, 0.1, -0.05]);
+    if (hs === 'veil') part(this.head, sph(0.122), cloth, [0, 0.02, -0.02]);
+    if (hs === 'curls') part(this.head, sph(0.112), hair, [0, 0.03, -0.03]);
+    if (hs === 'crown') part(this.head, cyl(0.06, 0.09, 0.12), mk('#e6c25a', 1), [0, 0.13, 0]);
+    if (spec.beard) part(this.head, box(0.13, 0.08, 0.06), hair, [0, -0.09, 0.07]);
+    if (spec.vina) { const vm = mk('#c99a4a', 0.8); part(this.upper, cyl(0.015, 0.015, 1.0), vm, [0.05, 0.3, -0.2], [0, 0, 0.5]);
+      part(this.upper, sph(0.09), vm, [0.28, -0.12, -0.22]); part(this.upper, sph(0.07), vm, [-0.18, 0.74, -0.2]); }
+    if (spec.halo) part(this.head, new THREE.TorusGeometry(0.17, 0.012, 8, 32), mk('#ffe8a0', 3), [0, 0.18, -0.02], [1.2, 0, 0]);
+    this.root.visible = false;
+  }
+  addXray(hex, op) {   // силуэт сквозь кровли и стены
+    const mat = new THREE.MeshBasicMaterial({ color: hex, transparent: true, opacity: op, depthTest: false, depthWrite: false });
+    const meshes = []; this.body.traverse((o) => { if (o.isMesh && o.geometry.type !== 'CircleGeometry') meshes.push(o); });
+    for (const m of meshes) { const c = new THREE.Mesh(m.geometry, mat); c.renderOrder = 10; m.add(c); }
+  }
+  get pos() { return this.root.position; }
+  faceTo(p) { const d = new THREE.Vector3().subVectors(p, this.root.getWorldPosition(new THREE.Vector3())); if (d.x * d.x + d.z * d.z > 1e-4) this.yaw = Math.atan2(d.x, d.z); }
+  walk(path, run = false) {
+    this.path = path.slice(); this.pose = run ? 'run' : 'walk';
+    if (this.resolve) { const r = this.resolve; this.resolve = null; r(); }
+    if (!this.path.length) { this.pose = 'idle'; return Promise.resolve(); }
+    return new Promise((r) => { this.resolve = r; });
+  }
+  stop() { this.path = []; this.pose = 'idle'; if (this.resolve) { const r = this.resolve; this.resolve = null; r(); } }
+  update(dt) {
+    if (!this.carried && this.path.length) {
+      const tgt = this.path[0], d = new THREE.Vector3(tgt.x - this.pos.x, 0, tgt.z - this.pos.z), L = d.length();
+      const sp = this.speed * (this.pose === 'run' ? 1.9 : 1);
+      if (L < 0.06) { this.pos.y = tgt.y; this.path.shift(); if (!this.path.length) { this.pose = 'idle'; if (this.resolve) { const r = this.resolve; this.resolve = null; r(); } } }
+      else { const st = Math.min(sp * dt, L); this.pos.addScaledVector(d.normalize(), st); this.pos.y = lerp(this.pos.y, tgt.y, Math.min(dt * 8, 1)); this.yaw = Math.atan2(d.x, d.z); }
+    }
+    if (!this.carried) this.body.rotation.y = lerpAngle(this.body.rotation.y, this.yaw, Math.min(dt * 10, 1));
+    this.anim(dt);
+  }
+  anim(dt) {
+    this.t += dt; const t = this.t;
+    let hipY = 0.86, leg = 0, aL = [0, 0, -0.08], aR = [0, 0, 0.08], upX = 0, rz = 0, ry = 0;
+    switch (this.pose) {
+      case 'idle': aL = [0, 0, -0.08 + 0.02 * Math.sin(t * 1.5)]; aR = [0, 0, 0.08 - 0.02 * Math.sin(t * 1.5)]; break;
+      case 'walk': case 'run': { const f = this.pose === 'walk' ? 7 : 11, a = this.pose === 'walk' ? 0.5 : 0.8;
+        leg = Math.sin(t * f) * a; aL = [-Math.sin(t * f) * a * 0.8, 0, -0.08]; aR = [Math.sin(t * f) * a * 0.8, 0, 0.08]; ry = Math.abs(Math.sin(t * f)) * 0.03; break; }
+      case 'sit': hipY = 0.18; aL = [-0.6, 0, -0.2]; aR = [-0.6, 0, 0.2]; break;
+      case 'meditate': hipY = 0.18; aL = [-0.9, 0, 0.35]; aR = [-0.9, 0, -0.35]; upX = 0.05; break;
+      case 'eat': aR = [-2.2 + 0.5 * Math.abs(Math.sin(t * 3)), 0, 0.15]; aL = [-0.3, 0, -0.1]; break;
+      case 'sleep': case 'lie': rz = Math.PI / 2; ry = 0.12; break;
+      case 'faint': rz = Math.PI / 2; ry = 0.12; aL = [-1.2, 0, -0.4]; aR = [-1.4, 0, 0.3]; break;
+      case 'dance': aL = [-2.8 + 0.25 * Math.sin(t * 5), 0, -0.25]; aR = [-2.8 - 0.25 * Math.sin(t * 5), 0, 0.25]; leg = Math.sin(t * 5) * 0.35; ry = Math.abs(Math.sin(t * 5)) * 0.06; upX = 0.08 * Math.sin(t * 2.5); break;
+      case 'grief': hipY = 0.18; aL = [-2.6, 0, 0.5]; aR = [-2.6, 0, -0.5]; upX = 0.6; break;
+      case 'bow': upX = 0.8; aL = [-1.2, 0, 0.3]; aR = [-1.2, 0, -0.3]; break;
+      case 'angry': aR = [-2.6 + 0.4 * Math.sin(t * 6), 0, 0.2]; aL = [-0.2, 0, -0.1]; break;
+      case 'plead': aL = [-1.3, 0, 0.25]; aR = [-1.3, 0, -0.25]; break;
+      case 'carry': aL = [-1.2, 0, 0.5]; aR = [-1.2, 0, -0.5]; break;
+      case 'float': ry = 0.35 + 0.08 * Math.sin(t * 1.3); aL = [-0.5, 0, -0.5 + 0.1 * Math.sin(t)]; aR = [-0.5, 0, 0.5 - 0.1 * Math.sin(t)]; break;
+    }
+    if (this.carrying && (this.pose === 'walk' || this.pose === 'idle')) { aL = [-1.2, 0, 0.5]; aR = [-1.2, 0, -0.5]; }
+    const k = Math.min(dt * 10, 1);
+    this.hips.position.y = lerp(this.hips.position.y, hipY, k);
+    const sitting = ['sit', 'meditate', 'grief'].includes(this.pose);
+    const sl = sitting ? [-1.45, 0, -0.6] : [leg, 0, 0], sr = sitting ? [-1.45, 0, 0.6] : [-leg, 0, 0];
+    const lr = (o, v) => { o.rotation.x = lerp(o.rotation.x, v[0], k); o.rotation.y = lerp(o.rotation.y, v[1], k); o.rotation.z = lerp(o.rotation.z, v[2], k); };
+    lr(this.legL, sl); lr(this.legR, sr); lr(this.armL, aL); lr(this.armR, aR);
+    this.upper.rotation.x = lerp(this.upper.rotation.x, upX, Math.min(dt * 8, 1));
+    this.body.rotation.z = lerp(this.body.rotation.z, rz, Math.min(dt * 6, 1));
+    this.body.position.y = lerp(this.body.position.y, ry, k);
+  }
+}
+const figs = {};
+for (const id in specs) { const f = new Figure(specs[id]); figs[id] = f; scene.add(f.root); if (id !== 'player') f.addXray(0xf2e0b3, 0.22); }
+const player = figs.player; player.addXray(0xc0ccff, 0.35);
+player.root.visible = true; player.pos.copy(nearest(spots.sp_player_start));
+const placed = {};
+const figColor = (id) => id === 'nimai' ? '#f0b85a' : (specs[id]?.cloth2 ?? specs[id]?.cloth ?? '#d9b56a');
+
+// маркер лилы
+const marker = new THREE.Group();
+{ const m1 = new THREE.Mesh(new THREE.TorusGeometry(0.82, 0.07, 8, 40), new THREE.MeshBasicMaterial({ color: 0xffd27a }));
+  m1.rotation.x = Math.PI / 2; marker.add(m1);
+  const m2 = new THREE.Mesh(new THREE.CylinderGeometry(0.05, 0.6, 3, 24, 1, true), new THREE.MeshBasicMaterial({ color: 0xffe6a0, transparent: true, opacity: 0.2, side: THREE.DoubleSide, depthWrite: false }));
+  m2.position.y = 1.5; marker.add(m2); }
+marker.visible = false; scene.add(marker);
+// значки предметов
+const hsIds = Object.keys(codex.items).filter((k) => spots[k]);
+const hsMarks = {};
+for (const id of hsIds) { const m = new THREE.Mesh(new THREE.OctahedronGeometry(0.16), new THREE.MeshBasicMaterial({ color: 0xffd98a, depthTest: false, transparent: true, opacity: 0.95 }));
+  m.renderOrder = 11; m.position.copy(spots[id]).add(new THREE.Vector3(0, 0.55, 0)); m.visible = false; scene.add(m); hsMarks[id] = m; }
+
+// ---------------------------------------------------------------- интерфейс
+const ui = {
+  waiting: null, choiceRes: null, entries: [],
+  setObjective(t) { $('objective').textContent = t; },
+  counter() { $('counter').textContent = `Быт: открыто ${Object.keys(found).length} из ${hsIds.length}`; },
+  say(speaker, text, ref, col, italic = false) {
+    return new Promise((res) => {
+      $('dlg').hidden = false; $('choices').innerHTML = '';
+      $('dlgName').textContent = speaker;
+      $('portrait').textContent = speaker ? speaker[0] : '❧';
+      $('portrait').style.background = shade(col, -0.35);
+      const body = italic ? `<i>${esc(text)}</i>` : (speaker ? `«${esc(text)}»` : esc(text));
+      $('dlgText').innerHTML = body;
+      $('dlgRef').textContent = ref ? 'Источник: ' + ref : 'Игровой рассказ';
+      this.waiting = () => { $('dlg').hidden = true; this.waiting = null; res(); };
+      if (AUTOPLAY) { autoShot(); setTimeout(() => this.waiting && this.waiting(), 150); }
+    });
+  },
+  choose(speaker, prompt, opts, col) {
+    return new Promise((res) => {
+      $('dlg').hidden = false; $('dlgName').textContent = speaker; $('portrait').textContent = speaker[0];
+      $('portrait').style.background = shade(col, -0.35);
+      $('dlgText').innerHTML = `<i>${esc(prompt)}</i>`; $('dlgRef').textContent = 'Ваш выбор (игровой рассказ)';
+      const box = $('choices'); box.innerHTML = '';
+      this.choiceRes = (i) => { box.innerHTML = ''; $('dlg').hidden = true; this.choiceRes = null; res(i); };
+      opts.forEach((o, i) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = `${i + 1}. ${o}`;
+        b.onclick = (e) => { e.stopPropagation(); this.choiceRes && this.choiceRes(i); }; box.appendChild(b); });
+      if (AUTOPLAY) { autoShot(); setTimeout(() => this.choiceRes && this.choiceRes(1), 150); }
+    });
+  },
+  advance() { if (this.waiting) this.waiting(); },
+  card(e) {
+    $('cardKind').textContent = e.kind ?? ''; $('cardTitle').textContent = e.title ?? '';
+    let h = `<div>${esc(e.text ?? '')}</div>`;
+    if (e.divya) h += celestial ? `<p><i>${esc(e.divya)}</i></p>` : `<p class="note">Здесь есть и то, что видно лишь небесным зрением (Tab).</p>`;
+    if (e.refs?.length) h += `<div class="refs"><b>В житиях:</b> ${e.refs.map(esc).join('; ')}</div>`;
+    if (e.status === 'draft') h += `<div class="note">Черновик — уточнит историческая база.</div>`;
+    $('cardText').innerHTML = h; $('card').hidden = false;
+    if (AUTOPLAY) { autoShot(); setTimeout(() => ($('card').hidden = true), 200); }
+  },
+  addJournal(key, e) {
+    if (this.entries.some((x) => x.key === key)) return;
+    this.entries.push({ key, ...e });
+    const b = document.createElement('button'); b.type = 'button';
+    b.textContent = `${(e.kind ?? '').split(' · ')[0]} — ${e.title}`;
+    b.onclick = () => this.pickJournal(this.entries.findIndex((x) => x.key === key));
+    $('jlist').appendChild(b);
+  },
+  pickJournal(i) {
+    const e = this.entries[i]; if (!e) return;
+    [...$('jlist').children].forEach((c, k) => c.classList.toggle('sel', k === i));
+    $('jtext').innerHTML = `<h3>${esc(e.title)}</h3><p><i>${esc(e.kind ?? '')}</i></p><p>${esc(e.text ?? '')}</p>` +
+      (e.refs?.length ? `<p><i>Источники: ${e.refs.map(esc).join('; ')}</i></p>` : '');
+  },
+  toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden && this.entries.length) this.pickJournal(0); },
+  hint(t) { $('hintText').textContent = t; $('hint').hidden = false; if (AUTOPLAY) setTimeout(() => ($('hint').hidden = true), 200); },
+  async title(t, sub, sec) {
+    const f = $('fade'); $('fadeTitle').textContent = t; $('fadeSub').textContent = sub;
+    f.style.transition = 'none'; f.style.opacity = 1; f.classList.add('block');
+    $('fadeTitle').style.opacity = 0; $('fadeSub').style.opacity = 0; await sleep(50);
+    $('fadeTitle').style.opacity = 1; $('fadeSub').style.opacity = 1; if (AUTOPLAY) autoShot();
+    await sleep(sec * 1000);
+    $('fadeTitle').style.opacity = 0; $('fadeSub').style.opacity = 0; await sleep(600);
+    f.style.transition = 'opacity 1s'; f.style.opacity = 0; f.classList.remove('block'); await sleep(1000);
+  },
+  async fade(t, ref, mid) {
+    const f = $('fade'); f.style.transition = 'opacity 0.8s'; f.classList.add('block');
+    $('fadeTitle').textContent = ''; $('fadeSub').textContent = t + (ref ? '\n\n' + ref : '');
+    $('fadeSub').style.opacity = 1; f.style.opacity = 1; await sleep(3200);
+    if (mid) mid();
+    f.style.opacity = 0; f.classList.remove('block'); await sleep(900);
+  },
+  async vision(on, at) {
+    const v = $('vision');
+    if (on && at) { const s = toScreen(at); v.querySelectorAll('.rays,.core').forEach((e) => { e.style.left = s.x + 'px'; e.style.top = s.y + 'px'; }); }
+    v.style.opacity = on ? 1 : 0; await sleep(1600); if (AUTOPLAY && on) autoShot();
+  },
+};
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+function shade(hex, f) { const c = new THREE.Color(hex); c.offsetHSL(0, 0, f * 0.5); return '#' + c.getHexString(); }
+$('dlg').addEventListener('click', () => ui.advance());
+$('cardClose').onclick = () => ($('card').hidden = true);
+$('hintOk').onclick = () => ($('hint').hidden = true);
+$('jClose').onclick = () => ($('journal').hidden = true);
+$('bJ').onclick = () => ui.toggleJournal();
+$('bSky').onclick = () => toggleCelestial();
+$('bHi').onclick = () => toggleHighlight();
+const modal = () => !$('dlg').hidden || !$('journal').hidden || $('fade').classList.contains('block');
+
+// ---------------------------------------------------------------- небесное зрение, подсветка
+let celestial = false, highlight = false, hovered = '';
+function toggleCelestial() {
+  celestial = !celestial;
+  for (const id of ['sky', 'skyTint', 'sparks']) $(id).style.opacity = celestial ? 1 : 0;
+  $('plane').textContent = celestial ? 'План: небесный ✦' : 'План: земной';
+  $('bSky').classList.toggle('on', celestial);
+  for (const id in figs) if (figs[id].celestial) figs[id].root.visible = celestial && !!placed[id];
+}
+function toggleHighlight() { highlight = !highlight; $('bHi').classList.toggle('on', highlight); }
+const sparks = $('sparks').getContext('2d');
+const motes = Array.from({ length: 90 }, () => ({ x: Math.random() * W, y: Math.random() * H, r: 1 + Math.random() * 2.5, v: 8 + Math.random() * 20, p: Math.random() * 6 }));
+function drawSparks(dt) {
+  if (!celestial) return;
+  sparks.clearRect(0, 0, W, H);
+  for (const m of motes) { m.y -= m.v * dt; m.p += dt * 2; if (m.y < -10) { m.y = H + 10; m.x = Math.random() * W; }
+    const a = 0.5 + 0.5 * Math.sin(m.p); sparks.fillStyle = `rgba(255,236,180,${0.35 + 0.55 * a})`;
+    sparks.beginPath(); sparks.arc(m.x + Math.sin(m.p * 0.5) * 6, m.y, m.r * (0.6 + a), 0, 6.283); sparks.fill(); }
+}
+
+// ---------------------------------------------------------------- ввод
+let mouse = { x: -1, y: -1 };
+const toStage = (e) => { const r = stage.getBoundingClientRect(); return { x: (e.clientX - r.left) / K, y: (e.clientY - r.top) / K }; };
+function toScreen(v) { const p = v.clone().project(cam); return { x: (p.x + 1) / 2 * W, y: (1 - p.y) / 2 * H }; }
+function pickHover() {
+  if (modal()) return '';
+  let best = '', bd = 40;
+  for (const id of hsIds) { const s = toScreen(spots[id]); const d = Math.hypot(s.x - mouse.x, s.y - mouse.y); if (d < bd) { bd = d; best = id; } }
+  for (const id in figs) { const f = figs[id]; if (id === 'player' || !f.root.visible || f.carried) continue;
+    const s = toScreen(f.root.getWorldPosition(new THREE.Vector3()).add(new THREE.Vector3(0, f.h * 0.55, 0)));
+    const d = Math.hypot(s.x - mouse.x, s.y - mouse.y); if (d < Math.min(bd, 34)) { bd = d; best = 'npc:' + id; } }
+  return best;
+}
+$('gl').addEventListener('pointermove', (e) => { mouse = toStage(e); });
+$('gl').addEventListener('pointerdown', (e) => {
+  mouse = toStage(e);
+  if (!$('dlg').hidden) { ui.advance(); return; }
+  if (!$('journal').hidden) return;
+  const h = pickHover();
+  if (h.startsWith('npc:')) { const id = h.slice(4); openEntry('p:' + id, codex.persons[id] ?? { title: figs[id].name, kind: 'Лицо', text: '' }); return; }
+  if (h) { walkToHotspot(h); return; }
+  const ray = new THREE.Raycaster(); ray.setFromCamera(new THREE.Vector2(mouse.x / W * 2 - 1, -(mouse.y / H * 2 - 1)), cam);
+  const hit = ray.intersectObjects(proxies, false)[0];
+  if (hit) { walkTok++; player.walk(findPath(player.pos, hit.point)); }
+});
+addEventListener('keydown', (e) => {
+  if (e.key === 'Tab') { e.preventDefault(); toggleCelestial(); return; }
+  if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); if (!$('dlg').hidden) ui.advance(); else if (e.key === ' ') toggleHighlight(); return; }
+  if (e.key === 'j' || e.key === 'J' || e.key === 'о' || e.key === 'О') ui.toggleJournal();
+  if (e.key === 'Escape') { $('card').hidden = true; $('journal').hidden = true; $('hint').hidden = true; }
+  if (['1', '2', '3'].includes(e.key) && ui.choiceRes) ui.choiceRes(+e.key - 1);
+});
+let walkTok = 0;
+const found = {};
+async function walkToHotspot(id) {
+  const tok = ++walkTok;
+  await player.walk(findPath(player.pos, spots[id]));
+  if (tok !== walkTok) return;
+  player.faceTo(spots[id]); openEntry(id, codex.items[id]);
+}
+function openEntry(key, e) {
+  if (key.startsWith('hs_') && !found[key]) { found[key] = true; ui.counter(); }
+  ui.addJournal(key, e); ui.card(e);
+}
+
+// ---------------------------------------------------------------- время суток, ощутимость, маркер
+let curTime = 'day';
+const tweens = [];
+function tween(dur, fn) { return new Promise((res) => tweens.push({ t: 0, dur: AUTOPLAY ? 0.2 : dur, fn, res })); }
+async function setTime(t, sec) {
+  if (t === curTime) return;
+  const a = TIMES[curTime], b = TIMES[t]; bgUniforms.bgB.value = bgTex[t];
+  const ca = new THREE.Color(a.sunCol), cb = new THREE.Color(b.sunCol), aa = new THREE.Color(a.ambCol), ab = new THREE.Color(b.ambCol);
+  await tween(sec, (k) => { bgUniforms.mixv.value = k; sun.intensity = lerp(a.sun, b.sun, k); sun.color.copy(ca).lerp(cb, k);
+    amb.intensity = lerp(a.amb, b.amb, k); amb.color.copy(aa).lerp(ab, k); lamps.forEach((l) => (l.intensity = lerp(a.lamps, b.lamps, k))); });
+  bgUniforms.bgA.value = bgTex[t]; bgUniforms.mixv.value = 0; curTime = t;
+}
+const PERCEPT = { shachi: 'Будто тень мелькнула у порога… Нрисимха, защити дитя!', neighbor: 'Кто там? Ветер, что ли, лампу качнул?', nimai: '(Нимай смотрит прямо на вас — и смеётся. Он видит.)' };
+let percept = 0, cool = 0, markerWait = null;
+function perceptTick(dt) {
+  cool = Math.max(cool - dt, 0);
+  let near = '';
+  for (const id of ['nimai', 'shachi', 'neighbor']) { const f = figs[id];
+    if (f.root.visible && !f.carried && f.pos.distanceTo(player.pos) < 1.3) near = id; }
+  if (near && $('dlg').hidden && cool <= 0) percept = Math.min(percept + dt * 0.45, 1); else percept = Math.max(percept - dt * 0.25, 0);
+  $('percept').hidden = percept < 0.01; $('pfill').style.width = (percept * 100) + '%';
+  if (percept >= 1 && near) { percept = 0; cool = 4; perceived(near); }
+}
+async function perceived(id) {
+  const f = figs[id]; f.faceTo(player.pos);
+  const away = new THREE.Vector3().subVectors(player.pos, f.pos).setY(0).normalize().multiplyScalar(3);
+  player.walk(findPath(player.pos, f.pos.clone().add(away)));
+  await ui.say(f.name, PERCEPT[id], '', figColor(id), id === 'nimai');
+}
+function waitMarker(spot, hint) {
+  marker.position.copy(spots[spot]); marker.visible = true;
+  if (hint) ui.setObjective($('objective').textContent + '\n✦ ' + hint);
+  if (AUTOPLAY) player.pos.copy(nearest(spots[spot].clone().add(new THREE.Vector3(0.6, 0, 0.6))));
+  return new Promise((res) => { markerWait = res; });
+}
+
+// ---------------------------------------------------------------- режиссёр сценария
+const spotOrFig = (n) => figs[n] ? figs[n].root.getWorldPosition(new THREE.Vector3()) : (spots[n] ?? new THREE.Vector3());
+async function step(s) {
+  const f = figs[s.who];
+  const off = s.offset ? new THREE.Vector3(...s.offset) : new THREE.Vector3();
+  switch (s.do) {
+    case 'place': if (f.root.parent !== scene) { scene.attach(f.root); f.carried = false; }
+      f.stop(); f.pos.copy(spots[s.at]).add(off); f.root.rotation.set(0, 0, 0);
+      placed[s.who] = true; f.root.visible = !f.celestial || celestial; break;
+    case 'hide': f.root.visible = false; placed[s.who] = false; break;
+    case 'pose': f.pose = s.pose; break;
+    case 'face': f.faceTo(spotOrFig(s.to)); break;
+    case 'walk': {
+      if (s.with && s.carry) { const c = figs[s.with]; c.carried = true; f.upper.add(c.root); c.root.position.set(0, 0.12, 0.28);
+        c.root.rotation.set(0, 0, 0); c.body.rotation.set(0, 0, 0); c.pose = 'sit'; f.carrying = true; }
+      const p = f.walk(findPath(f.pos, spots[s.to].clone().add(off)), !!s.run);
+      if (!s.nowait) await p; break; }
+    case 'drop': { const by = figs[s.by]; scene.attach(f.root); f.carried = false; by.carrying = false;
+      f.pos.copy(nearest(by.pos.clone().add(off))); f.root.rotation.set(0, 0, 0); f.pose = 'idle'; break; }
+    case 'say': await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who)); break;
+    case 'narrate': await ui.say('Шри Чайтанья-бхагавата', s.text, s.ref ?? '', '#8a6a2a', true); break;
+    case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true); break;
+    case 'hint': ui.hint(s.text); break;
+    case 'objective': ui.setObjective(s.text); break;
+    case 'title': await ui.title(s.text, s.sub ?? '', s.sec ?? 3); break;
+    case 'fade': await ui.fade(s.text, s.ref ?? ''); break;
+    case 'time': await setTime(s.value, s.sec ?? 2); break;
+    case 'choice': { const i = await ui.choose(player.name, s.prompt, s.options.map((o) => o.text), figColor('player'));
+      flags.push(s.options[i].flag ?? ''); await ui.say(player.name, s.options[i].reply, '', figColor('player'), true); break; }
+    case 'unlock': openEntry(s.id, codex.lilas[s.id]); break;
+    case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
+    case 'wait': await sleep((s.sec ?? 1) * 1000); break;
+    case 'end': await finale(); break;
+  }
+}
+const flags = [];
+async function finale() {
+  await ui.title('Слава Бала-Гопалу!', `Вы открыли ${Object.keys(found).length} из ${hsIds.length} предметов быта.\n\nИсточники лилы: «Шри Чайтанья-бхагавата», Ади 5.16–166; «Шри Чайтанья-чаритамрита», Ади 14.37; Мурари Гупта, 1.6.8; «Гаура-кришнодая», 3; «Бхакти-ратнакара», 12.\n\nКонец пробного уровня.`, 6);
+  ui.setObjective('Пробный уровень пройден. Можно бродить по двору и открывать предметы.');
+  if (AUTOPLAY) window.__done = true;
+}
+async function run() {
+  for (const beat of scenario.beats) {
+    if (beat.marker) await waitMarker(beat.marker, beat.marker_hint ?? '');
+    for (const s of beat.steps) await step(s);
+    if (AUTOPLAY && beat.id === 'intro') await autoExplore();
+  }
+}
+
+// ---------------------------------------------------------------- автотест (?autoplay)
+let shotN = 0;
+function autoShot() { if (window.__shot) window.__shot(++shotN); }
+async function autoExplore() {
+  for (const id of ['hs_tulasi', 'hs_handi', 'hs_chala']) { await walkToHotspot(id); await sleep(300); }
+  toggleHighlight(); await sleep(300); autoShot(); toggleHighlight();
+  toggleCelestial(); await sleep(800); autoShot(); toggleCelestial();
+  ui.toggleJournal(); await sleep(300); autoShot(); ui.toggleJournal();
+}
+
+// ---------------------------------------------------------------- цикл
+const clock = new THREE.Clock();
+function frame() {
+  const dt = Math.min(clock.getDelta(), 0.05);
+  for (let i = tweens.length - 1; i >= 0; i--) { const tw = tweens[i]; tw.t += dt; const k = Math.min(tw.t / tw.dur, 1); tw.fn(k); if (k >= 1) { tweens.splice(i, 1); tw.res(); } }
+  for (const id in figs) figs[id].update(dt);
+  if (marker.visible) { marker.rotation.y += dt * 0.8; const s = 1 + 0.08 * Math.sin(performance.now() / 300); marker.scale.set(s, 1, s);
+    if (markerWait && player.pos.distanceTo(marker.position) < 1.7) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }
+  perceptTick(dt);
+  hovered = pickHover();
+  for (const id of hsIds) hsMarks[id].visible = highlight || hovered === id;
+  const tip = $('tip');
+  if (hovered && mouse.x >= 0) {
+    tip.textContent = hovered.startsWith('npc:') ? figs[hovered.slice(4)].name : codex.items[hovered].title + (found[hovered] ? '  ✓' : '');
+    tip.hidden = false; tip.style.left = (mouse.x + 18) + 'px'; tip.style.top = (mouse.y + 18) + 'px';
+  } else tip.hidden = true;
+  drawSparks(dt);
+  renderer.render(scene, cam);
+  requestAnimationFrame(frame);
+}
+fit();
+$('loading').hidden = true;
+ui.counter();
+requestAnimationFrame(frame);
+run();
+</script>
