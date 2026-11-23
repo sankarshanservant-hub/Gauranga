@@ -1245,3 +1245,166 @@
   images: []
   game: {model: "без визуализации насилия; тема — в диалогах NPC и кодексе", where: ["navadvipa/lane"],
          notes: "тон спокойный, без вражды; см. mc-cowshed"}
+
+# ── Ещё о развлечениях и о жизни соседей ───────────────────────────────────────────────────────────────
+
+- id: mc-water-sports
+  title: {ru: "Водные игры: брызги, «битвы» и плавающий Адвайта", en: "Water sports: splashing, 'battles' and the floating Advaita"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Пури, озеро Индрадьюмна у храма Гундичи: Господь брызгает на преданных, они встают в кольца и хлопают ладонями
+      по воде; пары «сражаются» в воде — Адвайта и Нитьянанда, Видьянидхи и Сварупа, Шривас и Гададхара, даже
+      Сарвабхаума и Рамананда «как дети»; Адвайта плывёт на спине, держа на Себе Господа, как Шеша — ЧЧ Мадхья 14.72–91;
+      озеро Нарендра: Говинда (Божество) плавает на лодке, бенгальцы поют на берегу, затем Господь играет в воде с
+      преданными — ЧЧ Антья 10.41–50, ЧЧ Мадхья 14.102, 14.242; в Ганге Господь плывёт, как Ананта Шеша — ЧБ Антья
+      1.141. Детские игры в Ганге — mc-ganga-boyhood.
+    en: >-
+      Puri, Indradyumna lake by the Gundicha temple: the Lord splashes the devotees, they form rings and slap the water
+      with their palms; pairs 'fight' in the water — Advaita and Nityananda, Vidyanidhi and Svarupa, Shrivasa and
+      Gadadhara, even Sarvabhauma and Ramananda 'like children'; Advaita floats on His back bearing the Lord like Shesha —
+      CC Madhya 14.72–91; Narendra lake: Govinda (the Deity) is rowed about on a boat, the Bengalis sing on the bank,
+      then the Lord plays in the water with the devotees — CC Antya 10.41–50, CC Madhya 14.102, 14.242; in the Ganga the
+      Lord swims like Ananta Shesha — CB Antya 1.141. Children's games in the Ganga — mc-ganga-boyhood.
+  text:
+    ru: >-
+      В жаркие дни после Ратха-ятры в Пури устраивали водные игры. В озере у храма Гундичи Махапрабху и Его спутники
+      плескались, становились в круги и разом хлопали ладонями по воде, так что гул разносился далеко, а потом
+      разбивались на пары и «сражались» брызгами: Адвайта против Нитьянанды, Шривас против Гададхары, — и даже седой
+      логик Сарвабхаума и важный сановник Рамананда резвились, как мальчишки. Адвайта лёг на воду, как змей Шеша, и
+      Господь возлёг на Него. А на озере Нарендра Божество Говинды катали на украшенной лодке, и бенгальские паломники,
+      только что пришедшие в Пури, пели на берегу.
+    en: >-
+      On hot days after the Ratha-yatra, water sports were held in Puri. In the lake by the Gundicha temple Mahaprabhu
+      and His companions splashed, formed circles and slapped the water with their palms all at once so the boom
+      carried far, then split into pairs and 'fought' with splashes: Advaita against Nityananda, Shrivasa against
+      Gadadhara — and even the grey-haired logician Sarvabhauma and the dignified minister Ramananda frolicked like
+      boys. Advaita lay on the water like the serpent Shesha, and the Lord reclined upon Him. And on Narendra lake the
+      Deity Govinda was rowed about on a decorated boat while the Bengali pilgrims, just arrived in Puri, sang on the
+      shore.
+  hagiography: ["ЧЧ Мадхья 14.72–91", "ЧЧ Мадхья 14.102", "ЧЧ Мадхья 14.242", "ЧЧ Антья 10.41–50", "ЧБ Антья 1.141"]
+  sources: []
+  images: []
+  game: {model: "озеро со ступенями, кольцо фигур в воде, украшенная лодка с балдахином для Божества",
+         where: ["puri/narendra-sarovara", "puri/gundicha"], notes: "звук хлопков по воде"}
+
+- id: mc-teasing-shrihatta
+  title: {ru: "Шутки над земляками: Нимай и жители Шрихатты", en: "Teasing the countrymen: Nimai and the people of Shrihatta"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 15.16–29: Нимай Пандит подшучивает над учениками и особенно над выходцами из Шрихатты, передразнивая их
+      говор; те отвечают: «а Твои отец и деды не из Шрихатты?»; рассерженный хватает Его за дхоти и тащит с жалобой к
+      местному мусульманскому правителю, пока друзья не уладят дело; Нимай тайком разбивает у них что-то в доме
+      (15.27); с женщинами Он никогда не шутит (15.17, 15.28). Передразнивает Мурари Гупту — Лочан, Ади-кханда, ч. 4,
+      ст. 386; «бангальский» говор — mc-languages.
+    en: >-
+      CB Adi 15.16–29: Nimai Pandita teases His pupils and especially people from Shrihatta, mimicking their speech;
+      they retort: 'aren't Your own father and grandfathers from Shrihatta?'; an angry one grabs Him by the dhoti and
+      drags Him off to complain to the local Muslim official, till friends settle the matter; Nimai secretly breaks
+      something in their houses (15.27); with women He never jokes (15.17, 15.28). He mimics Murari Gupta — Lochana,
+      Adi-khanda pt. 4 v. 386; the 'Bangal' accent — mc-languages.
+  text:
+    ru: >-
+      В Навадвипе жило много выходцев из Шрихатты (Силхета) на востоке Бенгалии — и молодой Нимай Пандит обожал
+      передразнивать их певучий выговор. Те кипятились: «А сам-то Ты откуда? Разве Твои отец и деды не из Шрихатты?» —
+      но Нимай продолжал, пока кто-нибудь не вскакивал и не бросался за Ним вдогонку с бранью. Бывало, обиженный
+      хватал Его за край дхоти и тащил к мусульманскому начальнику с жалобой, и друзьям приходилось мирить спорщиков.
+      Над учениками Нимай тоже подшучивал без пощады — но, как подчёркивает Вриндаван Дас, с женщинами не шутил
+      никогда и даже не поднимал на них глаз.
+    en: >-
+      Many people from Shrihatta (Sylhet) in eastern Bengal lived in Navadvipa — and young Nimai Pandita loved to mimic
+      their sing-song accent. They would fume: 'And where are You from? Aren't Your father and grandfathers from
+      Shrihatta?' — but Nimai kept on until someone leapt up and chased Him, cursing. Sometimes an offended man would
+      seize Him by the hem of His dhoti and drag Him to the Muslim official to lodge a complaint, and friends had to
+      make peace. Nimai teased His pupils mercilessly too — but, Vrindavana Dasa stresses, He never joked with women
+      and did not even raise His eyes to them.
+  hagiography: ["ЧБ Ади 15.16–29", "Лочан, Ади-кханда, ч. 4, ст. 386"]
+  sources: []
+  images: []
+  game: {model: "сценка: рассерженный шрихаттиец держит Нимая за край дхоти; озвучка восточного выговора",
+         where: ["navadvipa/lane"], notes: "юмор; не обижать диалекты — Господь Сам из этого рода"}
+
+- id: mc-neighbours-gossip
+  title: {ru: "Соседи и пересуды", en: "Neighbours and gossip"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Толпа у запертых ворот Шриваса требует пустить посмотреть киртан; пересуды: «они пьют вино по ночам»,
+      «Нимай был добропорядочным, пока не связался с ними», «у Него нет отца, чтобы вразумить», «бросил санскрит»,
+      «призывают по ночам пять дев, которые носят им угощение»; «завтра пойдём в суд, пусть их свяжут», «из-за них нет
+      дождя и рисовые поля пересохли» — ЧБ Мадхья 8.230–249; миряне насмехаются над вайшнавами — ЧБ Ади 7.17–22;
+      «озорство Нимая всем приносит радость» — ЧЧ Ади 14.61, ЧБ Ади 6.86. Подношения Бхавани у двери Шриваса —
+      mc-bhavani-puja-items; ночной киртан — mc-house-kirtan.
+    en: >-
+      A crowd at Shrivasa's locked gates demands to be let in to watch the kirtan; gossip: 'they drink wine at night',
+      'Nimai was respectable till He took up with them', 'He has no father to bring Him to His senses', 'He's dropped
+      Sanskrit', 'at night they summon five maidens who bring them treats'; 'tomorrow we'll go to court and have them
+      bound', 'because of them there's no rain and the rice fields have dried up' — CB Madhya 8.230–249; worldly people
+      mock the Vaishnavas — CB Adi 7.17–22; 'Nimai's mischief delights everyone' — CC Adi 14.61, CB Adi 6.86. Offerings
+      to Bhavani at Shrivasa's door — mc-bhavani-puja-items; night kirtan — mc-house-kirtan.
+  text:
+    ru: >-
+      В деревне всё на виду: кто к кому ходит, кто что ест, у кого ночью горит огонь. Когда за запертыми воротами
+      Шриваса до утра гремели киртаны, соседи толпились у ворот, требуя пустить их посмотреть, а не попав внутрь,
+      строили догадки одна другой нелепее: пьют вино, колдуют, вызывают дев, которые носят им угощение; Нимай Пандит
+      был таким приличным, да вот отца нет, вразумить некому, — и учёбу забросил! Самые сердитые грозились утром идти в
+      суд, а когда не было дождя, винили в засухе крикливых певцов. Но те же соседи смеялись над проказами маленького
+      Нимая и любили Его — злословие и любовь в деревне живут рядом.
+    en: >-
+      In a village everything is in plain view: who visits whom, who eats what, whose fire burns at night. When kirtan
+      thundered till morning behind Shrivasa's locked gates, the neighbours crowded at the gates demanding to be let in
+      to watch, and, kept out, made up one absurd guess after another: they drink wine, they practise sorcery, they
+      summon maidens who bring them treats; Nimai Pandita was so respectable, but there's no father to bring Him to
+      reason — and He's dropped His studies! The angriest threatened to go to court in the morning, and when the rain
+      failed they blamed the drought on the noisy singers. Yet the same neighbours laughed at little Nimai's pranks and
+      loved Him — in a village malice and love live side by side.
+  hagiography: ["ЧБ Мадхья 8.230–249", "ЧБ Ади 7.17–22", "ЧЧ Ади 14.61", "ЧБ Ади 6.86"]
+  sources: []
+  images: []
+  game: {model: "группа NPC у запертых ворот; реплики-пересуды", where: ["shrivasa-house/gate"],
+         notes: "реплики соседей — источник «слухов» в игре; без грубости"}
+
+- id: mc-chaturmasya
+  title: {ru: "Чатурмасья и год паломника", en: "Chaturmasya and the pilgrim's year"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Четыре месяца сезона дождей санньяси живёт на одном месте: у Венката Бхатты в Шрирангаме (ЧЧ Мадхья 9.84–86,
+      1.110–111), в Пури (ЧЧ Мадхья 4.169 — Мадхавендра; Антья 10.133); в чатурмасью Господа приглашают только самые
+      близкие (ЧЧ Мадхья 14.68); бенгальцы приходят к Ратха-ятре и остаются на чатурмасью (ЧЧ Антья 1.93) или
+      возвращаются сразу (ЧЧ Мадхья 16.86); «в сезон дождей идти нельзя — после Виджая-дашами», Господь уходит во
+      Вриндаван в день Виджая-дашами (ЧЧ Мадхья 16.93–94); «в картику ещё холодно — лучше после Дола-ятры» (ЧЧ Мадхья
+      16.9). Календарь — mc-lunar-calendar.
+    en: >-
+      For the four months of the rainy season a sannyasi stays in one place: with Venkata Bhatta at Shrirangam (CC Madhya
+      9.84–86, 1.110–111), in Puri (CC Madhya 4.169 — Madhavendra; Antya 10.133); during chaturmasya only the closest
+      devotees invite the Lord (CC Madhya 14.68); the Bengalis come for the Ratha-yatra and stay for chaturmasya (CC
+      Antya 1.93) or go straight back (CC Madhya 16.86); 'one cannot travel in the rains — after Vijaya-dashami', and the
+      Lord sets out for Vrindavana on Vijaya-dashami (CC Madhya 16.93–94); 'Kartika is still cold — better after the
+      Dola-yatra' (CC Madhya 16.9). The calendar — mc-lunar-calendar.
+  text:
+    ru: >-
+      Год странника подчинён дождям. С ашадхи по картику дороги размыты, реки разливаются, и санньяси на четыре месяца
+      останавливается в одном месте — это чатурмасья, время обетов, слушания и киртана. Махапрабху провёл её на Юге у
+      Венката Бхатты, а потом год за годом — в Пури, куда к Ратха-ятре, в начале дождей, приходила большая партия
+      бенгальских преданных; кто-то оставался до конца чатурмасьи, кто-то сразу шёл домой. В путь же пускались после
+      праздника Виджая-дашами, когда подсыхают дороги, или весной, после Дола-ятры, — зимой, говорили спутники, «ещё
+      слишком холодно».
+    en: >-
+      The wanderer's year is ruled by the rains. From Ashadha to Kartika the roads are washed out and the rivers in
+      flood, and a sannyasi halts for four months in one place — this is chaturmasya, a time of vows, hearing and
+      kirtan. Mahaprabhu spent it in the South with Venkata Bhatta, and then year after year in Puri, where a large party
+      of Bengali devotees arrived for the Ratha-yatra at the start of the rains; some stayed till the end of chaturmasya,
+      some went straight home. Journeys began after the Vijaya-dashami festival, when the roads dry out, or in spring
+      after the Dola-yatra — in winter, said His companions, 'it is still too cold'.
+  hagiography: ["ЧЧ Мадхья 9.84–86", "ЧЧ Мадхья 1.110–111", "ЧЧ Мадхья 4.169", "ЧЧ Антья 10.133", "ЧЧ Мадхья 14.68",
+                "ЧЧ Антья 1.93", "ЧЧ Мадхья 16.86", "ЧЧ Мадхья 16.93–94", "ЧЧ Мадхья 16.9"]
+  sources: []
+  images: []
+  game: {model: "смена сезонов на карте: дожди → размытые дороги, разлив; партия паломников прибывает к Ратха-ятре",
+         where: ["puri/temple", "travel/road"], notes: "игровой календарь: окно путешествий — после Виджая-дашами"}
