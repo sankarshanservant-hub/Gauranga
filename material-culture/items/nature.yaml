@@ -1,0 +1,150 @@
+# Рубрика «Природа» (nature). Формат — material-culture/README.md.
+
+- id: mc-neem-tree
+  title: {ru: "Дерево ним", en: "The neem tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Имя «Нимай» как оберег — ЧЧ Ади 13.117 (ок. 1615), Лочан (сноска к Ади, ч. 1, ст. 83), «Адвайта-пракаша» 10.127.
+      Старое дерево ним у дома Господа — «Бхакти-ратнакара» 12.2127–2130 (XVIII в., позднее житие). Предание о рождении
+      Господа под нимом — позднее, источник не найден.
+    en: >-
+      The name "Nimai" as a protection — CC Adi 13.117 (c. 1615), Lochana (note to Adi pt. 1 v. 83), Advaita-prakasha
+      10.127. The old neem tree by the Lord's house — Bhakti-ratnakara 12.2127–2130 (18th c., a late hagiography). The
+      tradition that the Lord was born under a neem is late; its source has not been found.
+  text:
+    ru: >-
+      Ним — дерево с горькими листьями; по народному поверью, горечь отпугивает злых духов и болезни. Поэтому женщины
+      и Сита Тхакурани дали младенцу «горькое» имя Нимай — чтобы ведьмы и духи обошли Его стороной. Нарахари
+      Чакраварти пишет, что у дома Господа стояло старое дерево ним — без плодов, но с удивительно благоуханными
+      цветами и густой тенью; на нём никогда не садились птицы, а Вишвамбхара, пока жил дома, играл под ним. Позже,
+      по указанию Господа, Гауридаса Пандит изготовил из этого дерева Божества.
+    en: >-
+      The neem has bitter leaves, and folk belief holds that bitterness drives off evil spirits and disease. So the
+      women and Sita Thakurani gave the baby the "bitter" name Nimai, that witches and spirits might pass Him by.
+      Narahari Chakravarti writes that an old neem stood by the Lord's house — fruitless, but with wonderfully fragrant
+      flowers and dense shade; no bird ever perched on it, and Vishvambhara played beneath it while He lived at home.
+      Later, at the Lord's command, Gauridasa Pandita made Deities from that tree.
+  hagiography: ["ЧЧ Ади 13.117", "ЧБ Ади 4.45, 4.50", "Лочан, Ади-кханда, ч. 1, ст. 83 и сноска [^09-12]",
+                "Адвайта-пракаша 10.127", "БР 12.2127–2130", "БР 7.320–358 (ним из Навадвипы для Божеств)"]
+  sources: []
+  images: []
+  game: {model: "большое дерево ним (Azadirachta indica): перистые листья, мелкие белые цветы весной",
+         where: ["mishra-house/courtyard"], notes: "в тестовом уровне сутика-гхар — у нима (реконструкция)"}
+
+- id: mc-banana-tree
+  title: {ru: "Банан", en: "The banana plant"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Шридхар-Колавеча (торговец банановыми листьями, цветами и стеблями) — ЧБ Ади 12.195–203, ЧЧ Ади 10.67–68."
+    en: "Shridhara Kolaveca (seller of banana leaves, flowers and stems) — CB Adi 12.195–203, CC Adi 10.67–68."
+  text:
+    ru: >-
+      Банан в Бенгалии — самая полезная зелень двора: едят плоды, цветок (моча) и мягкую сердцевину стебля (тхор),
+      а из листьев делают тарелки и чашечки. Преданный Шридхар жил тем, что продавал банановые листья, цветы, стебли и
+      чашки из листьев; юный Нимай торговался с ним и выпрашивал лучшие бананы и стебли даром. Банан — первый из
+      плодов-подношений: женщины приносили новорождённому бананы, а Шачи одаривала ими гостей.
+    en: >-
+      In Bengal the banana is the most useful plant of the yard: the fruit, the flower (mocha) and the soft heart of
+      the stem (thor) are eaten, and the leaves make plates and cups. The devotee Shridhara lived by selling banana
+      leaves, flowers, stems and leaf cups; young Nimai haggled with him and begged the best bananas and stems for
+      free. The banana heads the fruits of offering: the women brought bananas to the newborn, and Shachi gave them to
+      her guests.
+  hagiography: ["ЧБ Ади 12.195–203", "ЧЧ Ади 10.67–68", "ЧЧ Ади 13.110", "ЧБ Ади 4.21", "ЧЧ Мадхья 3.48 (карри из цветов банана)"]
+  sources: []
+  images: []
+  game: {model: "куртина бананов у ограды и кухни, листья 2 м, гроздь, лиловый цветок",
+         where: ["mishra-house/backyard"], codex: hs_banana}
+
+- id: mc-coconut-palm
+  title: {ru: "Кокосовая пальма", en: "The coconut palm"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Кокосы как дар новорождённому — ЧЧ Ади 13.110; два кокоса, принесённые Нимаем, — ЧЧ Ади 14.45–47."
+    en: "Coconuts as a gift to the newborn — CC Adi 13.110; the two coconuts Nimai brought — CC Adi 14.45–47."
+  text:
+    ru: >-
+      Кокосовая пальма даёт воду молодого ореха, мякоть, масло, волокно для верёвок и листья для кровель и циновок.
+      Кокос — благой дар: женщины принесли его новорождённому вместе с куркумой и бананами. Однажды, когда Шачи
+      будто бы упала без чувств, соседки сказали Нимаю, что мать вылечит кокос, — и малыш мигом вернулся, неся в
+      ладошках два кокоса, хотя в доме их не было.
+    en: >-
+      The coconut palm gives the water of the young nut, the flesh, oil, fibre for ropes and fronds for roofs and
+      mats. A coconut is an auspicious gift: the women brought one to the newborn with turmeric and bananas. Once,
+      when Shachi seemed to faint, the neighbours told Nimai that a coconut would cure His mother — and the little
+      boy ran off and was back at once with two coconuts in His hands, though there were none in the house.
+  hagiography: ["ЧЧ Ади 13.110", "ЧЧ Ади 14.45–47", "ЧЧ Мадхья 3.48, 3.50"]
+  sources: []
+  images: []
+  game: {model: "2–3 кокосовые пальмы над оградой, гроздья орехов", where: ["mishra-house/courtyard"], codex: hs_palm}
+
+- id: mc-kadamba-tree
+  title: {ru: "Кадамба", en: "The kadamba tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: "БР 12.2119–2125 (XVIII в.) — показывают Шринивасе место у дома Господа."
+    en: "BR 12.2119–2125 (18th c.) — the place by the Lord's house is shown to Shrinivasa."
+  text:
+    ru: >-
+      Кадамба — дерево Вриндавана с шаровидными золотисто-оранжевыми душистыми соцветиями, цветёт в сезон дождей.
+      Ишана Тхакур показывал Шринивасе кадамбу, под которой маленький Нимай играл с ватагой мальчиков. Однажды Он
+      попросил цветок кадамбы не в сезон; все говорили: «Нимай, сейчас цветов нет», — а Он, едва не плача, ответил, что
+      цветок будет, и кто-то, взглянув на дерево, увидел цветок и сорвал его для Него.
+    en: >-
+      The kadamba is a tree of Vrindavana with round, golden-orange, fragrant flower-heads that bloom in the rains.
+      Ishana Thakura showed Shrinivasa the kadamba under which little Nimai played with a crowd of boys. Once He asked
+      for a kadamba flower out of season; everyone said, "There are no flowers now, Nimai," but He, nearly in tears,
+      said there would be one — and someone, looking up at the tree, saw a flower and picked it for Him.
+  hagiography: ["БР 12.2119–2125"]
+  sources: []
+  images: []
+  game: {model: "кадамба (Neolamarckia cadamba) с шаровидными цветками", where: ["mishra-house/lane"]}
+
+- id: mc-banyan-shashthi
+  title: {ru: "Баньян — место поклонения Шаштхи", en: "The banyan — place of Shashthi worship"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Лочан, Ади-кханда, ч. 4 (обет Шаштхи под баньяном); БР 12.2126."
+    en: "Lochana, Adi-khanda pt. 4 (the Shashthi vow under a banyan); BR 12.2126."
+  text:
+    ru: >-
+      Под раскидистым баньяном женщины Навадвипы совершали обет Шаштхи — богини, по поверью оберегающей детей.
+      Лочан Дас рассказывает: Шачи несла туда подношение — гхи, мёд, молочное, — прикрыв его краем сари, а маленький
+      Вишвамбхара преградил ей дорогу и всё съел, объяснив, что Он — суть всего и что, как полив корня питает ветви,
+      так и подношение Ему насыщает всех. Изумлённая Шачи всё же пошла под баньян и просила простить её озорника.
+    en: >-
+      Under a spreading banyan the women of Navadvipa kept the vow of Shashthi, the goddess believed to protect
+      children. Lochana Dasa tells that Shachi was carrying an offering there — ghee, honey and milk sweets — covered
+      with the end of her sari, when little Vishvambhara barred her way and ate it all, explaining that He is the
+      essence of everything and that, as watering the root nourishes the branches, an offering to Him satisfies all.
+      Amazed, Shachi still went to the banyan and begged pardon for her little rogue.
+  hagiography: ["Лочан, Ади-кханда, ч. 4, ст. 358–379 и сноска [^12-4]", "БР 12.2126", "ЧБ Ади 4.19"]
+  sources: []
+  images: []
+  game: {model: "баньян с воздушными корнями, у корней — красные мазки синдура, глиняные фигурки, подношения",
+         where: ["navadvipa/lane"]}
+
+- id: mc-bamboo
+  title: {ru: "Бамбук", en: "Bamboo"}
+  rubric: nature
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "Повсеместный строительный материал Бенгалии; в житиях по главам дома Мишры не упомянут — проверить."
+    en: "Ubiquitous building material of Bengal; not found so far in the chapters on Mishra's house — to check."
+  text:
+    ru: >-
+      Бамбуковые рощи окружают бенгальские деревни. Из бамбука делают каркас хижины и кровли, плетёные стены и
+      ограды, лестницы, корзины, веялки, шесты для лодок и коромысла. Сухой бамбук идёт и в очаг.
+    en: >-
+      Bamboo groves surround Bengali villages. Bamboo makes the frame of hut and roof, woven walls and fences,
+      ladders, baskets, winnowing fans, boat poles and carrying yokes. Dry bamboo also goes into the hearth.
+  hagiography: []
+  sources: []
+  images: []
+  game: {model: "заросль бамбука за оградой; плетёная ограда из расщеплённого бамбука",
+         where: ["mishra-house/fence"], codex: hs_bamboo}

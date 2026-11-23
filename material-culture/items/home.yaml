@@ -1,0 +1,374 @@
+# Рубрика «Дом» (home). Формат — material-culture/README.md. Проверка: python3 material-culture/tools/check.py
+# Ссылки на жития — по нашим переводам: ЧЧ — chaitanya-charitamrita/ed/vcd/CC_*.md; ЧБ — chaitanya-bhagavata/ed/CB_*.md;
+# Лочан — lochana/Lochana-Chaitanya-Mangala-ru-full.md («Ади-кханда, часть N, ст. M»); Мурари — murari-gupta/…-ru-full.md;
+# БР — bhakti-ratnakara/Bhakti-Ratnakara-en.md (таранга.стих).
+
+- id: mc-chala-hut
+  title: {ru: "Дом-чала", en: "The chala hut"}
+  rubric: home
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Жития говорят только о «доме» (гхара) и отдельных комнатах; облик хижины восстанавливается по терракотовым
+      храмам XVII в., повторяющим соломенную кровлю, и по этнографии XIX в.
+    en: >-
+      The hagiographies mention only the "house" (ghara) and separate rooms; the look of the hut is reconstructed from
+      17th-c. terracotta temples that copy thatched roofs and from 19th-c. ethnography.
+  text:
+    ru: >-
+      Бенгальский дом — не одно здание, а несколько хижин вокруг общего двора. Каждая стоит на поднятом глиняном
+      цоколе, стены из утрамбованной глины или плетёного бамбука, обмазанного глиной, кровля — толстая солома на
+      бамбуковом каркасе. Скаты кровли выгнуты, а края опущены к углам, чтобы муссонный ливень скатывался быстро:
+      двускатная хижина называется до-чала, четырёхскатная — чар-чала, с надстройкой — ат-чала. В доме Мишры, по Лочану
+      Дасу, у Джаганнатхи и Шачи были отдельные комнаты.
+    en: >-
+      A Bengali home is not one building but several huts round a shared courtyard. Each stands on a raised clay
+      plinth, with walls of rammed clay or clay-daubed bamboo wattle and a thick thatch on a bamboo frame. The roof
+      slopes are curved and the eaves droop to the corners so that monsoon rain runs off quickly: a two-slope hut is a
+      do-chala, a four-slope one a char-chala, one with a second tier an at-chala. In Mishra's house, according to
+      Lochana Dasa, Jagannatha and Shachi had separate rooms.
+  hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 126 (Джаганнатха в одной комнате, Шачи — в другой)",
+                "ЧБ Ади 4.100–101 (Нимай забирается в соседские дома)"]
+  sources: ["Терракотовые храмы Бишнупура: Шьям-рай (1643), Джор-бангла (1655) — повторяют кровлю чала (проверить даты по изданию)",
+            "см. research/pd-texts.md (Hunter 1875, Risley 1891 — описания жилищ)"]
+  images: []
+  game: {model: "хижина 5×4 м на цоколе 50–70 см, кровля чар-чала с выгнутым коньком, свес 0,8–1 м над верандой",
+         where: ["mishra-house/courtyard"], codex: hs_chala,
+         notes: "без окон со стёклами, без черепицы и кирпичных стен у жилых хижин"}
+  todo: "подтвердить типы кровель (до-/чар-/ат-чала) по PD-источнику; найти свободное фото храма-чала"
+
+- id: mc-courtyard
+  title: {ru: "Двор (ангина) и глиняный цоколь", en: "Courtyard (angina) and clay plinth"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Двор как место жизни семьи — в житиях постоянно; материалы и разметка — реконструкция."
+    en: "The courtyard as the family's living space appears constantly in the hagiographies; materials and layout are reconstructed."
+  text:
+    ru: >-
+      Сердце дома — открытый двор, утоптанный и гладко обмазанный глиной. Здесь сушат зерно, работают, принимают
+      гостей, здесь же малыш Нимай учился ходить и играл. Когда вора-«похитителя» обманули и Нимай вернулся, весь
+      двор наполнился криками «Хари!»; однажды ночью Шачи увидела, что двор полон небожителей. Хижины поставлены на
+      цоколь, чтобы в сезон дождей вода не заливала пол.
+    en: >-
+      The heart of the home is an open courtyard, trodden hard and smoothly plastered with clay. Grain is dried here,
+      work is done here, guests are received here — and here little Nimai learned to walk and play. When the thieves
+      were bewildered and Nimai came back, the whole courtyard rang with "Hari!"; one night Shachi saw the courtyard
+      filled with heavenly beings. The huts stand on plinths so the rains do not flood the floors.
+  hagiography: ["ЧБ Ади 4.77 (начал ходить и играть по всему двору)", "ЧБ Ади 4.126", "ЧЧ Ади 14.80",
+                "Лочан, Ади-кханда, ч. 2, ст. 111"]
+  sources: []
+  images: []
+  game: {model: "плоский глиняный двор ~12×10 м, светлый, чуть выше уровня дорожки; цоколи хижин по периметру",
+         where: ["mishra-house/courtyard"]}
+
+- id: mc-tulasi-mancha
+  title: {ru: "Туласи-манча", en: "Tulasi platform (tulasi-mancha)"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Служение туласи (полив, обход, лист туласи в подношении) — в ЧБ и ЧЧ. Форма алтаря-манчи (глиняный постамент
+      с нишей для лампады) — реконструкция по позднейшему обычаю.
+    en: >-
+      Service to tulasi (watering, circumambulation, tulasi leaf in the offering) is in CB and CC. The shape of the
+      mancha (a clay pedestal with a niche for a lamp) is reconstructed from later custom.
+  text:
+    ru: >-
+      Посреди вайшнавского двора на глиняном постаменте растёт туласи. Махапрабху в юности, совершив поклонение
+      Вишну, поливал туласи, обходил вокруг неё и лишь потом садился обедать; Лакшмиприя постоянно служила туласи.
+      Адвайта Ачарья призывал Господа, поднося Кришне листья и соцветия туласи с водой Ганги. Туласи — не просто
+      растение: это вечная служанка Господа, без её листа подношение Вишну не полно.
+    en: >-
+      In the middle of a Vaishnava courtyard tulasi grows on a clay pedestal. As a youth Mahaprabhu, after worshipping
+      Vishnu, watered tulasi, walked around her and only then sat down to eat; Lakshmipriya served tulasi constantly.
+      Advaita Acharya called the Lord down by offering Krishna tulasi leaves and buds with Ganga water. Tulasi is not
+      merely a plant: she is the Lord's eternal maidservant, and no offering to Vishnu is complete without her leaf.
+  hagiography: ["ЧБ Ади 8.73", "ЧБ Ади 8.166", "ЧБ Ади 12.101", "ЧБ Ади 14.43", "ЧБ Ади 2.81",
+                "ЧЧ Ади 3.104–107", "ЧЧ Ади 13.70", "ЧЧ Мадхья 3.56 (цветы туласи на каждом блюде)"]
+  sources: []
+  images: []
+  game: {model: "глиняный побелённый постамент 70–90 см, квадратный, с нишей для лампады; куст туласи",
+         where: ["mishra-house/courtyard"], codex: hs_tulasi,
+         notes: "вечером — лампада в нише; рядом медный/глиняный кувшинчик для полива"}
+
+- id: mc-thakur-ghar
+  title: {ru: "Комната Божества и Шалаграма", en: "The Deity room and the Shalagrama"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Шалаграма в доме Мишры — ЧЧ Ади 14.9; «дева-гриха» (комната Божества) — ЧБ Ади 14.41."
+    en: "The Shalagrama in Mishra's house — CC Adi 14.9; the deva-griha (Deity room) — CB Adi 14.41."
+  text:
+    ru: >-
+      В доме Мишры было своё Божество — шалаграма-шила, в которой, как говорил Джаганнатха Мишра, всегда присутствует
+      Сам Кришна. Когда в доме появились следы детских стоп со знаками Вишну, Мишра подумал, что это играет Кришна из
+      шалаграмы. Для Божества отводили чистую комнату (дева-гриха): Лакшмиприя украшала её пол узорами, готовила
+      сандаловую пасту, цветы, благовония, лампады и ароматную воду.
+    en: >-
+      Mishra's house had its own Deity — a Shalagrama-shila, in which, Jagannatha Mishra said, Krishna Himself is
+      always present. When footprints with Vishnu's marks appeared in the house, Mishra thought it was Krishna of the
+      Shalagrama at play. A clean room (deva-griha) was set apart for the Deity: Lakshmipriya decorated its floor with
+      designs and prepared sandal paste, flowers, incense, lamps and scented water.
+  hagiography: ["ЧЧ Ади 14.9", "ЧБ Ади 14.41–42", "ЧБ Ади 5.20 (паломник носит Бала-Гопала и шалаграму на шее)"]
+  sources: []
+  images: []
+  game: {model: "небольшая хижина или комната с низким деревянным престолом (синхасаной), медные сосуды, колокольчик",
+         where: ["mishra-house/thakur-ghar"],
+         notes: "Божество — Сам Господь, не «статуя/идол»; кликабельно только с почтительным текстом"}
+
+- id: mc-alpana
+  title: {ru: "Узоры на полу (алпана)", en: "Floor designs (alpana)"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 14.41: Лакшми рисует в комнате Божества свастики, раковины и диски (свастика-мандали, шанкха-чакра).
+      Название «алпана» и техника (рисовая паста) — по позднейшему обычаю, проверить.
+    en: >-
+      CB Adi 14.41: Lakshmi draws svastikas, conches and discs in the Deity room. The name "alpana" and the technique
+      (rice paste) follow later custom — to be checked.
+  text:
+    ru: >-
+      Женщины украшали обмазанный глиной пол благоприятными узорами. Вриндаван Дас рассказывает, что Лакшмиприя с
+      радостью рисовала в комнате Божества свастики, раковины и диски — знаки Вишну. По живому бенгальскому обычаю
+      такие узоры (алпана) пишут пальцем жидкой рисовой пастой: лотосы, лепестки, следы стоп Лакшми; рисуют к
+      праздникам и обрядам, и узор живёт до следующей обмазки пола.
+    en: >-
+      Women adorned the clay-plastered floor with auspicious designs. Vrindavana Dasa tells that Lakshmipriya joyfully
+      drew svastikas, conches and discs — Vishnu's emblems — in the Deity room. In living Bengali custom such designs
+      (alpana) are painted with a finger in liquid rice paste: lotuses, petals, the footprints of Lakshmi; they are
+      drawn for festivals and rites and last until the floor is plastered again.
+  hagiography: ["ЧБ Ади 14.41"]
+  sources: []
+  images: []
+  game: {model: "декаль на полу: белые узоры (свастика, раковина, диск, лотос) у порога и в комнате Божества",
+         where: ["mishra-house/thakur-ghar", "mishra-house/courtyard"], codex: hs_alpana}
+  todo: "найти PD-описание алпаны (Shib Chunder Bose 1881? Ward?) и самое раннее упоминание слова"
+
+- id: mc-clay-lamp
+  title: {ru: "Глиняная лампада (прадипа)", en: "Clay oil lamp (pradipa)"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "Лампады в служении и на празднике — ЧБ, ЧЧ; форма глиняной чашечки — археология и этнография."
+    en: "Lamps in worship and at festivals — CB, CC; the clay-saucer form — archaeology and ethnography."
+  text:
+    ru: >-
+      Свет в доме — маленькая чашечка из обожжённой глины с маслом и хлопковым фитилём. Лампада — непременная часть
+      поклонения: Лакшмиприя готовила для Вишну благовония и масляные лампадки. На свадьбе Махапрабху Его встречали
+      лампадой с семью фитилями, а перед шествием киртана к дому Кази Господь велел зажечь лампады и факелы в
+      каждом доме. Для Божества лучшее масло — гхи; в быту жгли горчичное и кунжутное.
+    en: >-
+      Light in the house is a small saucer of fired clay with oil and a cotton wick. A lamp is an indispensable part of
+      worship: Lakshmipriya prepared incense and oil lamps for Vishnu. At Mahaprabhu's wedding He was greeted with a
+      seven-wicked lamp, and before the kirtan procession to the Kazi's house the Lord had lamps and torches lit in every
+      house. Ghee is the best fuel for the Deity's lamp; in daily use mustard and sesame oil were burned.
+  hagiography: ["ЧБ Ади 14.42", "ЧБ Ади 15.168 (лампада с семью фитилями)", "ЧБ Ади 15.144, 15.183",
+                "ЧЧ Ади 17.134"]
+  sources: []
+  images: []
+  game: {model: "чашечка Ø 6–8 см с носиком для фитиля, обожжённая глина; тёплый огонёк",
+         where: ["mishra-house/courtyard", "mishra-house/thakur-ghar", "mishra-house/sutika-ghar"], codex: hs_diya}
+  todo: "уточнить, какие масла названы в житиях для лампад (бенг. оригинал)"
+
+- id: mc-guest-reception
+  title: {ru: "Приём гостя: омовение стоп и сиденье", en: "Receiving a guest: washing the feet, offering a seat"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 5.22–31 — подробный рассказ о приёме странствующего брахмана."
+    en: "CB Adi 5.22–31 is a detailed account of receiving a wandering brahmin."
+  text:
+    ru: >-
+      Гость в бенгальском доме — посланник Бога. Когда к дому подошёл странствующий брахман, Джаганнатха Мишра встал,
+      поклонился, омыл ему стопы и предложил достойное сиденье, а потом спросил, откуда он. Паломник-вайшнав ел только
+      то, что сам приготовил и поднёс своему Гопалу, поэтому Мишра велел вымыть кухню и приготовить для гостя лучшие
+      продукты. Гостей сажали на низкую деревянную скамеечку (пиди) или на циновку.
+    en: >-
+      A guest in a Bengali home is a messenger of God. When a wandering brahmin came to the house, Jagannatha Mishra
+      rose, bowed, washed his feet and offered him a proper seat, and only then asked where he came from. The pilgrim
+      Vaishnava ate only what he himself had cooked and offered to his Gopala, so Mishra had the kitchen washed and the
+      best provisions made ready for him. Guests sat on a low wooden stool (pidi) or on a mat.
+  hagiography: ["ЧБ Ади 5.22–31", "ЧЧ Мадхья 3.40 (Адвайта омыл стопы Махапрабху)", "ЧБ Ади 17.83"]
+  sources: []
+  images: []
+  game: {model: "латунный кувшин-гхати и широкая чаша для омовения стоп; пиди — доска 40×25 см на коротких ножках",
+         where: ["mishra-house/courtyard"], codex: hs_stool}
+
+- id: mc-pidi-mat
+  title: {ru: "Пиди и циновки", en: "Pidi stool and mats"}
+  rubric: home
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "В житиях — «сиденье» и «асана»; конкретные пиди и циновки (мадур, шитал-пати) — по этнографии; проверить."
+    en: "The hagiographies speak of a 'seat' and 'asana'; the specific pidi and mats (madur, shital-pati) follow ethnography; to be checked."
+  text:
+    ru: >-
+      Стульев и столов в бенгальском доме не было: сидели на полу. Для почёта и для трапезы ставили пиди — низкую
+      доску-скамеечку на коротких ножках, — а на пол стелили циновки из тростника. На асану садились и для поклонения:
+      гость-брахман, приготовив пищу, сел на асану, чтобы поднести её Кришне.
+    en: >-
+      A Bengali house had no chairs or tables: people sat on the floor. For honour and for meals a pidi was set out —
+      a low plank stool on short legs — and reed mats were spread on the floor. One also sat on an asana for worship:
+      the guest brahmin, having cooked, sat on an asana to offer the food to Krishna.
+  hagiography: ["ЧБ Ади 5.24", "ЧБ Ади 5.31"]
+  sources: []
+  images: []
+  game: {model: "пиди 40×25×8 см, тёмное дерево; циновка 180×90 см, тростник",
+         where: ["mishra-house/courtyard", "mishra-house/kitchen"]}
+  todo: "PD-подтверждение слов «пиди», «мадур», «шитал-пати» для XV–XVI вв."
+
+- id: mc-bed-cradle
+  title: {ru: "Постель и детская колыбель", en: "Bed and cradle"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 4.32 (ш́айане — «в постельке»); Лочан, Ади-кханда, ч. 2, ст. 123 (шёлковое покрывало, тюфячок)."
+    en: "CB Adi 4.32 (shayane — 'in bed'); Lochana, Adi-khanda pt. 2 v. 123 (a silk coverlet and a small mattress)."
+  text:
+    ru: >-
+      Младенец спал рядом с матерью или в своей маленькой постельке. Вриндаван Дас рассказывает, как Нимай, услышав
+      шаги Шачи, тут же забирался в постельку и начинал плакать, будто ничего не разбрасывал. Лочан Дас описывает, как
+      Шачи стелила шёлковое покрывало, а поверх — тюфячок из тонкой ткани, ложилась на бок и кормила сына, напевая,
+      что вот-вот отец принесёт сгущённого молока и бананов.
+    en: >-
+      The baby slept beside his mother or in his own little bed. Vrindavana Dasa tells how Nimai, hearing Shachi's
+      steps, would climb straight into bed and start crying as if He had scattered nothing. Lochana Dasa describes
+      Shachi spreading a silk coverlet with a mattress of fine cloth on it, lying on her side and nursing her son,
+      singing that his father would soon bring thickened milk and bananas.
+  hagiography: ["ЧБ Ади 4.30–33", "Лочан, Ади-кханда, ч. 2, ст. 121–124"]
+  sources: []
+  images: []
+  game: {model: "низкая лежанка на полу: тюфяк, покрывало; рядом — подвесная люлька? (не подтверждено)",
+         where: ["mishra-house/main-hut", "mishra-house/sutika-ghar"]}
+  todo: "есть ли в XV–XVI вв. деревянные кровати (кхат) у бедных брахманов? подвесные люльки?"
+
+- id: mc-water-jar
+  title: {ru: "Глиняный кувшин для воды (калаши)", en: "Clay water pot (kalashi)"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 14.32 — Шачи объясняет: в глиняном кувшине легко носить воду."
+    en: "CC Adi 14.32 — Shachi explains that water is easily carried in a clay pot."
+  text:
+    ru: >-
+      Воду носили из Ганги и пруда в круглобоких глиняных кувшинах — на бедре или на голове. Этим кувшином Шачи-мата
+      и вразумляла маленького Нимая, когда Он ел землю: пища — тоже земля, но земля, ставшая пищей, питает тело, как
+      глина, ставшая кувшином, удерживает воду, а вода, вылитая на землю, просто впитается. В сердцах Нимай разбивал
+      дома горшки и кувшины.
+    en: >-
+      Water was carried from the Ganga and the pond in round-bellied clay pots, on the hip or on the head. Mother
+      Shachi used this very pot to reason with little Nimai when He ate earth: food is earth too, but earth that has
+      become food nourishes, as clay that has become a pot holds water, while water poured on the ground just soaks
+      away. In a temper Nimai would smash the pots and jars at home.
+  hagiography: ["ЧЧ Ади 14.25–35", "ЧЧ Ади 14.43", "ЧЧ Ади 10.68 (разбитый железный кувшин Шридхара)"]
+  sources: []
+  images: []
+  game: {model: "кувшин Ø 30 см, узкое горло, красно-коричневая обожжённая глина; ряд кувшинов у кухни",
+         where: ["mishra-house/kitchen", "ganga-ghat"]}
+
+- id: mc-pond-and-ghat
+  title: {ru: "Пруд, гхат и Ганга", en: "Pond, ghat and the Ganga"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Омовения в Ганге — постоянно в житиях (дом Мишры у Ганги, ЧЧ Ади 13.57–58). Собственный пруд у дома Мишры в
+      житиях не упомянут — реконструкция по обычному устройству бенгальской усадьбы.
+    en: >-
+      Bathing in the Ganga is constant in the hagiographies (Mishra's house was on the Ganga, CC Adi 13.57–58). A pond
+      of Mishra's own is not mentioned — reconstructed from the usual layout of a Bengali homestead.
+  text:
+    ru: >-
+      Джаганнатха Мишра поселился в Навадвипе на берегу Ганги, и вся жизнь семьи шла у её вод: туда спускались по
+      ступеням-гхату омыться, туда мать впервые вынесла младенца, туда бегал купаться с друзьями маленький Нимай и там
+      соседские девочки совершали обряды. Коснувшись нечистого, следовало сразу омыться в Ганге. В бенгальских
+      усадьбах обычно был ещё и свой пруд для хозяйства.
+    en: >-
+      Jagannatha Mishra settled in Navadvipa on the bank of the Ganga, and the family's whole life went on beside its
+      waters: one went down the steps of the ghat to bathe, the mother first carried her baby there, little Nimai ran
+      there to swim with his friends, and the neighbourhood girls performed their rites there. After touching
+      anything impure one bathed in the Ganga at once. Bengali homesteads usually also had a pond of their own.
+  hagiography: ["ЧЧ Ади 13.57–58", "ЧЧ Ади 14.48–49", "ЧЧ Ади 14.74", "ЧБ Ади 4.18–19", "ЧБ Ади 4.137"]
+  sources: []
+  images: []
+  game: {model: "ступени из утрамбованной глины/кирпича к воде, бамбуковые перила? (проверить); пруд с ряской",
+         where: ["ganga-ghat", "mishra-house/pond"], codex: hs_pond}
+  todo: "были ли гхаты Навадвипы ок. 1500 г. кирпичными? (Хантер, Нади)"
+
+- id: mc-cowdung-plaster
+  title: {ru: "Обмазка пола коровьим навозом", en: "Plastering floors with cowdung"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 17.44 — место очищают водой с коровьим навозом; повседневная обмазка полов — этнография."
+    en: "CC Adi 17.44 — a place is purified with water mixed with cowdung; daily floor-plastering is ethnography."
+  text:
+    ru: >-
+      Глиняный пол и двор регулярно обмазывают жидкой смесью глины и коровьего навоза: так пол становится ровным,
+      не пылит, и по обычаю он считается очищенным. Когда у двери Шриваса нашли нечистые предметы, которые ночью
+      подбросил брахман Гопала Чапал, позвали подметальщика: тот всё убрал и очистил место водой с коровьим навозом.
+      Обмазывают по утрам и перед обрядами, после чего рисуют узоры.
+    en: >-
+      The clay floor and courtyard are regularly smeared with a thin mixture of clay and cowdung: the floor becomes
+      even and dust-free, and by custom it is considered purified. When impure objects, left at night by the brahmin
+      Gopala Chapala, were found at Shrivasa's door, a sweeper was called, who removed them and purified the spot with
+      water and cowdung. Floors are plastered in the mornings and before rites, after which designs are drawn.
+  hagiography: ["ЧЧ Ади 17.44"]
+  sources: []
+  images: []
+  game: {model: "свежие полукруглые разводы на полу, тёмно-оливковые; горшок со смесью и тряпка",
+         where: ["mishra-house/courtyard"], codex: hs_dung}
+
+- id: mc-pot-heap
+  title: {ru: "Место выброшенных горшков", en: "Heap of discarded pots"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Ади 14.73–75; Мурари 1.6 (беседа о чистом и нечистом); Лочан, Ади-кханда, ч. 2, ст. 202–203."
+    en: "CC Adi 14.73–75; Murari 1.6 (discourse on pure and impure); Lochana, Adi-khanda pt. 2, vv. 202–203."
+  text:
+    ru: >-
+      Глиняная кухонная посуда дешева, и оскверневший горшок не отмывают, а выбрасывают: у каждого дома была куча
+      битых и брошенных горшков. Убегая от матери, маленький Нимай уселся прямо на такую кучу. Шачи велела Ему скорее
+      омыться в Ганге, а Он ответил ей речью о том, что чистое и нечистое — лишь представление ума, ведь всё пронизано
+      Господом. Мать удивилась — но всё-таки отправила Его мыться.
+    en: >-
+      Clay cookware was cheap, and a pot that had become impure was not washed but thrown away: every house had a heap
+      of broken and discarded pots. Running from His mother, little Nimai sat right down on such a heap. Shachi told
+      Him to go and bathe in the Ganga at once, and He answered with a talk on how pure and impure are only notions of
+      the mind, since everything is pervaded by the Lord. His mother was amazed — but she still sent Him to bathe.
+  hagiography: ["ЧЧ Ади 14.73–75", "Мурари 1, сарга 6 (ст. 9–16)", "Лочан, Ади-кханда, ч. 2, ст. 202–203"]
+  sources: []
+  images: []
+  game: {model: "куча черепков и целых закопчённых ханди за кухней, у ограды",
+         where: ["mishra-house/backyard"], notes: "место эпизода-вопроса о чистоте (диалог)"}
+
+- id: mc-cowshed
+  title: {ru: "Коровник", en: "Cowshed"}
+  rubric: home
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Коровы как богатство и свадебный дар — ЧБ Ади 15.189; молочное в доме Шачи — ЧБ Ади 4.30–34. Собственный
+      коровник Мишры прямо не упомянут.
+    en: >-
+      Cows as wealth and a wedding gift — CB Adi 15.189; dairy in Shachi's house — CB Adi 4.30–34. A cowshed of
+      Mishra's own is not mentioned directly.
+  text:
+    ru: >-
+      Корова в бенгальском доме — кормилица: молоко, простокваша, гхи, навоз для топлива и обмазки. Коров дарили на
+      свадьбу вместе с землёй и утварью — так поступил отец невесты на свадьбе Махапрабху с Вишнуприей. Самому Мишре,
+      бедному брахману, коровник приписывается по обычному устройству усадьбы: навес под соломой у края двора, ясли и
+      стог рисовой соломы.
+    en: >-
+      In a Bengali home the cow is the provider: milk, curd, ghee, and dung for fuel and plastering. Cows were given at
+      weddings together with land and household goods — as the bride's father did at Mahaprabhu's wedding to
+      Vishnupriya. A cowshed for Mishra himself, a poor brahmin, is inferred from the usual homestead layout: a
+      thatched shelter at the edge of the yard, a manger and a stack of rice straw.
+  hagiography: ["ЧБ Ади 15.189", "ЧЧ Ади 17.153 (корова — мать, бык — отец)"]
+  sources: []
+  images: []
+  game: {model: "навес на 4 бамбуковых столбах, соломенная кровля, глиняные ясли, 1–2 коровы с телёнком",
+         where: ["mishra-house/cowshed"], codex: hs_shed}
