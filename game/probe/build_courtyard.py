@@ -6,7 +6,7 @@ from mathutils import Vector, Matrix
 
 argv = sys.argv[sys.argv.index('--') + 1:] if '--' in sys.argv else []
 def arg(name, default):
-    return type(default)(argv[argv.index(name) + 1]) if name in argv else default
+    return type(default)(argv[argv.index(name) + 1]) if name in argv and argv.index(name) + 1 < len(argv) else default
 A = os.path.abspath(arg('--assets', 'assets'))
 OUT = arg('--out', 'probe.png')
 RES = arg('--res', 50)
@@ -20,6 +20,19 @@ bpy.ops.wm.read_factory_settings(use_empty=True)
 sc = bpy.context.scene
 sc.render.engine = 'CYCLES'
 sc.cycles.device = 'CPU'
+if '--gpu' in argv:   # Colab / NVIDIA: OptiX или CUDA
+    prefs = bpy.context.preferences.addons['cycles'].preferences
+    for kind in ('OPTIX', 'CUDA'):
+        try:
+            prefs.compute_device_type = kind
+            prefs.get_devices()
+            if any(d.type == kind for d in prefs.devices):
+                for d in prefs.devices: d.use = d.type == kind
+                sc.cycles.device = 'GPU'
+                print('GPU:', kind, [d.name for d in prefs.devices if d.use])
+                break
+        except Exception as e:
+            print('no', kind, e)
 sc.cycles.samples = SAMPLES
 sc.cycles.use_adaptive_sampling = True
 sc.cycles.adaptive_threshold = 0.02
