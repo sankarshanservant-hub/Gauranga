@@ -508,13 +508,13 @@ Haridasa Pandita; “the adhikari of the service of Sri Madana-gopala, Gadadhara
 known as a disciple of Gadadhara Pandita,” and his fellow disciple Bhavananda (13.312–320).
 
 In Puri too he had disciples. One of them, Madhava Pattanayaka — an Oriya poet of the karana community who moved from
-Khandapada to Puri — wrote the “Vaishnava-lilamrita” in Oriya (a late source: known only from late copies and not cited in
-the Gaudiya tradition), and says of himself there: “My guru is Gadadhara Pandita; he showed [me] boundless mercy. He gave
+Khandapada to Puri — wrote the “Vaishnava-lilamrita” in Oriya (a source of the Oriya Atibadi tradition, which Srila
+Bhaktisiddhanta Sarasvati did not recognise; known only from late copies and not cited in the Gaudiya tradition), and says of himself there: “My guru is Gadadhara Pandita; he showed [me] boundless mercy. He gave
 [me] initiation in the Gopala mantra and delivered [me], a foolish soul. I am the disciple of Gadadhara; my faith is in the
 devotees” (1.58–60). Of his guru he writes: “Guru Gadadhara performs worship; his abode is Tota-Gopinatha. He cannot go
 anywhere; he listens to [the narrations of] Krishna's lila” (8.91–92) — that is, he is faithful to his vow of
 kshetra-sannyasa. Madhava also passes on traditions of his own circle, unknown to the “Charitamrita” and the
-“Chaitanya-bhagavata”: that in a dispute over which words should begin the mahamantra, Gadadhara stood for “Hare Krishna,”
+“Chaitanya-bhagavata,” with interpretations of their own that we cannot rely on: that in a dispute over which words should begin the mahamantra, Gadadhara stood for “Hare Krishna,”
 and the Lord ruled that in Nilachala “Hare Rama” should be current and in Gauda “Hare Krishna” (6.12–18); that after the
 departure of Svarupa Damodara the Lord sent Gadadhara to Gauda to inform the devotees (9.25–27)[^20].
 
