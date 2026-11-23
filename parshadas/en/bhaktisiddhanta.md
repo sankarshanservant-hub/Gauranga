@@ -50,7 +50,7 @@ that had been worn by Jagannatha and initiated him into chanting the Holy Name a
 <!-- F10 F13 F11 -->
 
 In 1881 Bhaktivinoda began building his house “Bhakti-bhavan” at Rambagan in Calcutta. While the foundations were being
-dug, a small Deity of Kurma was found in the earth. The Thakura taught his seven-year-old son the rules of worship and
+dug, a small Deity of Kurma was found in the earth. The Thakura instructed his son, then seven, in the rules of worship and
 the mantra of Kurma, and from then on Bimalaprasad always wore tilaka and performed puja. In 1885 his father founded
 the “Vaishnava Depository” press in Bhakti-bhavan, and in the same year his monthly “Sajjana-toshani” began to appear
 again. The boy learned the printer’s craft, read proofs, and helped in every other way. <!-- F14 F15 -->
@@ -140,8 +140,10 @@ himself had received from his guru, Bhagavata Dasa Babaji. <!-- F38 F240 F269 --
 Gaurakishora had vowed not to accept disciples. Sarasvati Thakura asked for initiation more than once; the first time
 the Babaji answered, “If Mahaprabhu tells me to, I will give it.” But seeing the young man’s determination and devotion,
 he changed his mind. In the month of Magha 1900, with Bhaktivinoda’s permission — according to one of the biographies,
-at his instruction — Sarasvati Thakura received *bhagavati-diksha* from Srila Gaurakishora Dasa Babaji and the name Sri
-Varshabhanavi-dayita Dasa. He became Babaji Maharaja’s only disciple. <!-- F239 F39 -->
+at his instruction — Sarasvati Thakura was given *bhagavati-diksha* by Srila Gaurakishora Dasa Babaji, with the name Sri
+Varshabhanavi-dayita Dasa. He became Babaji Maharaja’s only disciple. He later recalled that before this he had seen
+only faults in many people of lofty character, until Bhaktivinoda in his kindness showed him his Prabhu. Gaurakishora
+he always called “Prabhu,” and his father “Vibhu.” <!-- F239 F39 F276 -->
 
 ## Puri: Bhakti-kuti and the “Vaishnava-manjusha”
 In March 1900 he accompanied his father to Baleshvar and Remuna, where they had darshana of Kshirachora Gopinatha, then
@@ -177,8 +179,8 @@ to Tirunarayanapuram. <!-- F45 -->
 
 ## Mayapur and the Vow of the Name
 In Navadvipa Bhaktivinoda introduced him to Vamshidasa Babaji. Sarasvati Thakura was drawn by this babaji’s Vaishnava
-conduct and his indifference to worldly rules; he himself would bow to him from a distance, but he did not allow his
-disciples to associate with him: for a beginner, imitating a paramahamsa is dangerous. Soon Charan Dasa Babaji, with
+conduct and his indifference to worldly rules; he himself would bow to him from a distance, but he forbade his
+disciples to keep company with him: for a beginner, imitating a paramahamsa is dangerous. Soon Charan Dasa Babaji, with
 Vishnu Dasa of Kalna and many others, went with Sarasvati Thakura in kirtana to Mayapur, the place of Mahaprabhu’s
 appearance, for the festival of Dola-purnima. The following year Charan Dasa Babaji announced to Bhaktivinoda that he
 wished to lead a kirtana party around Navadvipa-dhama every year, but in 1906 he left this world before he could do so[^5].
@@ -292,8 +294,8 @@ Bhaktivinoda and Gaurakishora; they told him to abandon his doubts and preach, p
 despondency, “Our Teachers” says, was not weakness but part of an inconceivable lila. <!-- F271 -->
 
 ## Sannyasa
-In 1918, on the day of Mahaprabhu’s appearance, Gaura-purnima, he took tridandi sannyasa at Vraja-pattana in Sri
-Mayapur[^10]. “Our Teachers” describes the day: having bathed in the Ganga and put on saffron cloth, he bowed before
+On 27 March 1918, on the day of Mahaprabhu’s appearance, Gaura-purnima, he took tridandi sannyasa at Vraja-pattana in
+Sri Mayapur[^10]. “Our Teachers” describes the day: having bathed in the Ganga and put on saffron cloth, he bowed before
 the pictures of his two gurus — Bhaktivinoda and Gaurakishora — and took the vows of the tridanda: to dedicate body,
 mind and speech to the Lord’s service. He took the principle of tridandi sannyasa from the “Bhagavatam” (11.23.57) and
 from the example of the Ramanuja-sampradaya, whose rules he had once learned in Perumbudur. From that day he was known
@@ -366,7 +368,7 @@ most part professional gurus. <!-- F74 F75 -->
 ## Maths throughout India
 He then preached at Dhanbad, Katrasgarh and Dhaka. In Dhaka for a whole month he explained the first verse of the
 “Bhagavata” — *janmady asya yato ’nvayat* — in thirty different ways. On 13 October 1921 he founded the Madhva Gaudiya
-Math there, installed the Deities on 31 October with a great festival, and then visited Mymensingh. Returning to
+Math there, installed the Deities on 31 October with a great festival[^13], and then visited Mymensingh. Returning to
 Navadvipa, he restored the worship of Gaura-Gadadhara at Champahati, and at the birthplace of Vrindavana Dasa Thakura,
 by the house of Sharngi Murari in Modadrumadvipa, he installed Deities and built a temple; then he preached in Calcutta
 and its surroundings. <!-- F76 Q2 F77 F256 -->
@@ -379,7 +381,7 @@ Bhaktivinoda and Gadadhara Pandita Gosvami, and sent disciples to preach in Cutt
 Kaptipada and Nilgiri. <!-- F78 Q1 -->
 
 On 19 August 1922 the first issue of the weekly “Gaudiya,” the organ of the Gaudiya Math, came out from the “Bhagavata
-Press”; its editor was Sri Haripada Vidyaratna[^13]. On 28 September of that year Sarasvati Thakura set out with his
+Press”; its editor was Sri Haripada Vidyaratna[^14]. On 28 September of that year Sarasvati Thakura set out with his
 disciples for Vrindavana to open a centre of preaching there: he visited Mathura, Vrindavana, Radha-kunda and other
 places, and in the Lala Babu temple in Vrindavana he spoke on Mahaprabhu’s teaching at a gathering of learned
 Vaishnavas. In the month of Karttika, returning to Bengal, he again spoke in Dhaka on the nature of bhakti, then revealed
@@ -399,7 +401,7 @@ to appear the parts of the “Srimad-Bhagavatam” with the word-for-word render
 “Svananda-kunjanuvada,” and the commentaries “Ananta-gopala-tathya” and “Sindhu-vaibhava.” On 24 February 1924, for the
 fiftieth anniversary of his appearance, the Vyasa-puja was performed in his honour for the first time at the Calcutta
 Gaudiya Math; one of the biographies calls his address that day an immortal gem of Vaishnava literature. Soon after, on
-Mahaprabhu’s appearance day, the Madhva Gaudiya Math in Dhaka issued his edition of the “Chaitanya-bhagavata”[^14].
+Mahaprabhu’s appearance day, the Madhva Gaudiya Math in Dhaka issued his edition of the “Chaitanya-bhagavata”[^15].
 <!-- F84 F85 F86 -->
 
 On 9 July 1924 he founded the Tridandi Math in Bhubaneshvar, then visited the Madras Presidency, where he founded the
@@ -418,8 +420,8 @@ Rupa Gosvami received the Lord’s instructions, and went to Arail, where Mahapr
 and everywhere, in divine inspiration, spoke of pure bhakti. <!-- F89 F90 -->
 
 On the Navadvipa parikrama of that same year, 1925, Radha-Govinda were carried on an elephant through Koladvipa. At
-Porama-tola envious ringleaders of the “guru business” incited thugs to throw bricks at the Deities and the devotees, and
-with them at Sarasvati Thakura. An eyewitness wrote the next day (24 Phalguna 1331) in the “Ananda Bazar Patrika” that he
+Porama-tola envious ringleaders of the “guru business” incited thugs to pelt the Deities, the devotees and
+Sarasvati Thakura himself with bricks. An eyewitness wrote the next day (24 Phalguna 1331) in the “Ananda Bazar Patrika” that he
 had seen the same lila as nearly four hundred years before, when Jagai and Madhai tried to wound Nityananda Avadhuta. On
 17 April 1925 Madan Mohan Malaviya, head of the “Hindu Mahasabha,” came to the Calcutta Gaudiya Math and heard his
 explanation of *daiva-varnashrama* according to the “Agama-pramana.” Preachers were sent to Sylhet and elsewhere.
@@ -439,8 +441,8 @@ Mayapur the “Paravidya-pitha” school and the completed temple of the Chaitan
 the images of the acharyas and Radha-Govinda. <!-- F94 F95 -->
 
 ## “The Harmonist,” Kurukshetra, Delhi
-In 1927 he began publishing the “Sajjana-toshani” in three languages — English, Sanskrit and Hindi; the English edition
-was named “The Harmonist.” On 17 September 1927 he founded the Chaitanya Gaudiya Math at Dumurkonda (Manbhum), and at
+In 1927 he began publishing the “Sajjana-toshani” in three languages — English, Sanskrit and Hindi — and gave the English
+edition the name “The Harmonist.” On 17 September 1927 he founded the Chaitanya Gaudiya Math at Dumurkonda (Manbhum), and at
 the end of September he preached in Northern India. In 1928, at the festival of the Gaudiya Math, he spoke at the
 Albert Hall and other public places in Calcutta; the fourth edition of the “Chaitanya-charitamrita” appeared. On 26
 September 1928 the foundation of the Gaudiya Math at Bagbazar, on the bank of the Ganga, was laid, and on 7 October he
@@ -454,7 +456,7 @@ diorama exhibition “Bhagavata-pradarshini.” On 30 December the great scholar
 Gaudiya Math and heard a detailed explanation of *daiva-varnashrama*. <!-- F99 F100 -->
 
 In January 1929 he founded the Ekayana Gaudiya Math in Krishnanagar and at its opening gave an original exposition: the
-one path of exclusive devotion (*ekayana*) is the trunk of the Vedic tree, and all other paths (*bahayana*) are its
+one path of exclusive devotion (*ekayana*) forms the trunk of the Vedic tree, and all other paths (*bahayana*) are its
 branches. On 14 January he met Professor Albert E. Suthers of Ohio University and explained to him how Vaishnavism
 broadens and brings to perfection Christianity: bhakti, pure love of God, is the highest goal of every religion. On 16
 January he opened the Gaudiya Math in New Delhi. <!-- F101 F102 -->
@@ -469,7 +471,7 @@ for; he brought electricity to Mayapur, and light shone on the spire of the Chai
 He wished to set up throughout India a hundred and eight memorials — *pada-pithas* — at the places sanctified by
 Mahaprabhu’s feet, with the footprints of Gaurasundara in marble, so that people everywhere might hear and sing the
 Lord’s message. For this, on 13 October 1929 he visited Kanai Natshala, and two days later Mandara; then, preaching, he
-went to Rajmahal, Bhagalpur, Nalanda and Rajgir; in Kashi he spoke on Mahaprabhu’s teachings to Sanatana Gosvami[^15].
+went to Rajmahal, Bhagalpur, Nalanda and Rajgir; in Kashi he spoke on Mahaprabhu’s teachings to Sanatana Gosvami[^16].
 In Kashi, Faizabad, Ayodhya, Naimisharanya, Karaun, Misrikh, Sitapur and Lucknow educated people received him, and he
 led many seekers of truth to pure bhakti; his listeners included the advocate A. P. Sen, Professor Radha Kumud
 Mukhopadhyaya, Dr. Radha Kamal Mukhopadhyaya, Dr. A. N. Sen Gupta and others. <!-- F104 F105 -->
@@ -480,7 +482,7 @@ mid-January, at the Purna Kumbha Mela in Prayaga, the preachers of the Chaitanya
 Rupa Gosvami, and he installed at the Triveni Radha-Govinda — the life and soul of Sri Rupa. <!-- F107 F108 -->
 
 From 3 February to 17 March 1930 an unprecedented diorama exhibition was held in Navadvipa-Mayapur; it was opened by
-the famous chemist Dr. Prafulla Chandra Ray. On 18 February, the day of his Vyasa-puja, a memorial of the acharya’s
+the renowned chemist Dr. Prafulla Chandra Ray. On 18 February, the day of his Vyasa-puja, a memorial of the acharya’s
 footprints was opened at the Chaitanya Math. On 4 May J. H. Napier heard him on Indian spiritual philosophy; on 25 May he
 visited Chhatrabhoga, where Mahaprabhu passed on His way to Puri, and blessed many; in July he founded the
 Sachchidananda Math in Cuttack; on 22 August he came to Allahabad, stayed with the retired judge Monomohan Sanyal, spoke
@@ -512,7 +514,7 @@ of thousands saw it, including highly educated people; they said that the achary
 materialism, had shown an exhibition of faith in God (*astikya-vada*) such as no one could have imagined before. In the
 following weeks it was visited by Dr. Dinesh Chandra Sen Rai Bahadur, Biraj Mohan Majumdar, the German scholar Dr.
 Magnus Hirschfeld, Dr. Stella Kramrisch and others. He held such exhibitions also in Sri Mayapur, Dhaka, Patna, Cuttack,
-Kurukshetra and elsewhere[^16]. <!-- F117 F210 F116 -->
+Kurukshetra and elsewhere[^17]. <!-- F117 F210 F116 -->
 
 On 29 September 1931 he spoke on the nature of spiritual sound to the principal of the Calcutta Medical College,
 Colonel Dvarakaprasad Goel, and to the American A. J. Jacobs; on 11 October in Prayaga he met the Vice-Chancellor of
@@ -555,7 +557,7 @@ of the schools of Shankara, Ramanuja and Madhva; on 25 May he resolved the doubt
 Panchapagesan of Pudukkottai; on 29 May he visited Coimbatore, then Mettupalayam on the Bhavani river, and settled in
 “Rangavilas Bhavan” at Udagamandalam (Nilgiris). There he corrected Professor Nishikanta Sanyal’s English book “Sree
 Krishna Chaitanya,” completed his English translation of the “Brahma-samhita” with Jiva Gosvami’s commentary, his
-“Gaudiya-bhashya” on the “Chaitanya-bhagavata,” and a short English book on the life of Ramananda Raya. Through his
+“Gaudiya-bhashya” on the “Chaitanya-bhagavata,” and a brief book in English about Ramananda Raya’s life. Through his
 principal disciples he was heard there by Sir Kishan Prasad, prime minister to the Nizam of Hyderabad, the zamindar
 Dhanraj Girji, Sir P. S. Sivaswami Iyer and Dewan Bahadur P. Muniswami Naidu. <!-- F125 F126 F258 -->
 
@@ -577,7 +579,7 @@ His guru’s samadhi at Kulia had met with misfortune. The land for it had been 
 (Jessore), who renounced his rights but later settled there himself and behaved badly; and the Ganga was coming ever
 closer. On 21 August 1932, learning that the samadhi was about to fall into the river, Srila Bhaktisiddhanta sent his
 disciples to carry his guru’s sacred remains to the Sri Chaitanya Math in Mayapur, and raised a new samadhi temple on the
-bank of Radha-kunda; in September he opened it[^17]. Later a small temple with an image of Gaurakishora was built beside
+bank of Radha-kunda; in September he opened it[^18]. Later a small temple with an image of Gaurakishora was built beside
 it, where service has never ceased. He often told his disciples incidents from his guru’s life full of meaning for
 sadhakas. <!-- F130 F242 F243 -->
 
@@ -725,7 +727,7 @@ Janmashtami, Nandotsava, Radhashtami and Bhaktivinoda’s appearance day. From B
 Cossimbazar, Shachindra Nandi, he gave an address on “Devotion and Indifference to the World.” On 18 September the
 citizens of Calcutta welcomed Bhakti Hridaya Bon, returned from London with two German devotees, and honoured him with
 an address. On 21 September, the full moon of Bhadra, he lectured on the occasion of the Gaudiya Math’s completing the
-publication of all twelve books of the “Bhagavata”[^18]. <!-- F165 F166 -->
+publication of all twelve books of the “Bhagavata”[^19]. <!-- F165 F166 -->
 
 From 1 to 7 October he preached in New Delhi, and from 8 October he spent more than a month at Radha-kunda keeping the
 vows of the month of Karttika (*niyama-seva*): every day the Upanishads, the “Chaitanya-charitamrita,” the
@@ -746,19 +748,19 @@ English presidential address before scholars. <!-- F169 F170 -->
 ## 1936: The Nine Islands
 On 11 January 1936 he returned to Mayapur and for two months preached every day to the residents of the Chaitanya Math
 and of Gauranga’s birthplace. On 12 February, for the sixty-second anniversary of his appearance, he founded the “Thakur Bhaktivinoda
-Research Institute” — the “Krishnanushilana-agara,” a library of Krishna culture — and the “Daiva-varnashrama Sangha”[^19].
+Research Institute” — the “Krishnanushilana-agara,” a library of Krishna culture — and the “Daiva-varnashrama Sangha”[^20].
 The Vyasa-puja was held at Shrivasa-angana; in London his appearance day was celebrated under the chairmanship of the head
 of the “London Gaudiya Mission Society,” Sir Shadilal. <!-- F171 F172 -->
 
 From 25 February he installed Deities — *vishaya-* and *ashraya-vigrahas*, the One who is served and those who serve —
 on each of the nine islands of Navadvipa: on 1 March at Suvarna-vihara (the Suvarna-bihari Math), on 5 March at the
 Sarvabhauma Gaudiya Math in Vidyanagara, on 7 March at the Rudradvipa Gaudiya Math. On 8 March, Mahaprabhu’s appearance
-day, at his word the Minister of Education of Burma, Dr. Ba Maw, opened the Gaudiya Math office in Rangoon (29 Brooking
-Street), and in London on that day there were addresses on the Lord’s appearance under the chairmanship of Dr. Parikhi. On
+day, at his word the Minister of Education of Burma, Dr. Bame, opened the Gaudiya Math office in Rangoon (29 Brooking
+Street), and in London on that day there were addresses on the Lord’s appearance under the chairmanship of Dr. Parhi. On
 15 March he was in Assam and installed the Deities in the Gaudiya Math; the people of Sarbhog honoured him. <!-- F173 F174 -->
 
-On 27 March he came to Cuttack, and from 29 March he lived at Chataka-parvata in Puri: there he founded a residence for
-devotees and a temple with Radha-Govinda, and with an address before scholars began a hundred-day festival of
+On 27 March he came to Cuttack, and from 29 March he lived at Chataka-parvata in Puri: there he founded a home for
+devotees and a temple of Radha-Govinda, and with an address before scholars began a hundred-day festival of
 sankirtana. On 4 May he observed Nrisimha-chaturdashi at the Brahma Gaudiya Math in Alalanatha, and on 30 May gave
 tridandi sannyasa to several brahmachari preachers. In June he was in Dhaka, stayed with Supati Ranjan Nag and initiated
 many (on the 7th); on the 9th the people of Baliati welcomed him; on the 10th he installed Radha-Govinda in the new temple
@@ -791,12 +793,12 @@ In Puri he constantly warned everyone: “Worship the Lord without duplicity —
 seeing ahead, urged his disciples on. And he ceaselessly repeated two prayers to Govardhana — Rupa Gosvami’s from the
 “Govardhanashtaka”: *pratyasham me tvam kuru govardhana purnam* — “O Govardhana, fulfil my hope,” — and Raghunatha
 Dasa’s from the “Govardhana-vasa-prarthana-dashaka”: *nija-nikata-nivasam dehi govardhana tvam* — “O Govardhana, grant
-me a dwelling near you.” On 9 December he returned to Calcutta, instructing his disciples without pause the whole way.
+me a dwelling near You.” On 9 December he returned to Calcutta, instructing his disciples without pause the whole way.
 <!-- F183 Q3 F184 -->
 
 ## Last Instructions
 On 27 December 1936, a few days before his departure, Srila Bhaktisiddhanta addressed his closest disciples with his
-last instructions[^20]. Here they are in the translation published by the Sri Chaitanya Saraswat Math:
+last instructions[^21]. Here they are in the translation published by the Sri Chaitanya Saraswat Math:
 
 “I have caused anxiety to many people because I was bound to tell the truth candidly; because I have told to practise
 Krishna consciousness without deceit, many people may even consider me their enemy. To make them eager to sincerely
@@ -842,20 +844,24 @@ speaking the truth; and to offer the body into the fire of sankirtana is to give
 Holy Name. <!-- F253 Q4 -->
 
 ## The Last Day
-His disciples took turns keeping watch at their guru’s bedside. Srila B. R. Sridhar Maharaj recalled: “We were rendering
-duty in his sick bed, I was also among them, my duty was from 2 o’clock at night to 4 o’clock in the morning. Just
-before 24 hours of his departure he called for me and asked me to sing a song: Sri Rupa Manjari pada sei mora sampada,
-this famous song which is supposed to be the highest realisation of any Gaudiya Vaishnava devotee. Then after 24 hours,
-on the first of January early morning he left the world.” Another song — “*tuhun daya-sagara tarayite prani*,” from
-Bhaktivinoda’s Bengali rendering of the “Shikshashtaka” — he asked Navina Krishna Vidyalankara to sing[^21]. To Bhakti
+His disciples took turns keeping watch at their guru’s bedside; Srila B. R. Sridhar Maharaj chose the hardest hours,
+from two to four in the morning. He recalled: “When Prabhupad [fell] ill, I attended his sickbed. Just one day before his
+departure he called for me, and he asked me to chant Sri Rupa Manjari Pada. At that time I was not accustomed to leading
+the kirtan. I was hesitating—Sriyukta Kunja Babu (later Sripad Bhakti Vilas Tirtha Maharaj) asked one brahmachari
+Prabhu, ‘You go on singing.’ Then he began singing, but Prabhupad felt dissatisfaction. He said, ‘I don’t want to hear
+the tone or sweet sound.’ Then that brahmachari Prabhu stopped and I had to sing Sri Rupa Manjari Pada. And the others
+said, ‘Prabhupad has hereby given you admission to the Rasa-seva section.’”[^22] This song of Narottama Dasa —
+*sri-rupa-manjari-pada, sei mora sampada* — is, as Sridhar Maharaj said, held to express the highest realisation of
+every Gaudiya Vaishnava. Another song — “*tuhun daya-sagara tarayite prani*,” from
+Bhaktivinoda’s Bengali rendering of the “Shikshashtaka” — he asked Navina Krishna Vidyalankara to sing. To Bhakti
 Sudhakara Prabhu — Nishikanta Sanyal — he expressed satisfaction and gratitude for his service, and he told Vrajeshvari
-Prasad Prabhu of Patna to remain zealous in service. <!-- F186 F274 -->
+Prasad Prabhu of Patna to remain zealous in service. <!-- F186 F274 F278 -->
 
 About four in the afternoon he called Sakhicharan Ray Bhakti-vijaya and told him he was most fortunate, for he had
 served Sri Mayapur. Later he told Bhakti Viveka Bharati Maharaja that he was capable and must protect the mission; that
 it is better when *prema* and *rasa* are understood as one; that Narottama Dasa Thakura accepted the understanding of
 Rupa and Raghunatha, and it is better to live by it. Then he blessed everyone — those present and those absent — and
-reminded them that their only duty and dharma is to spread the service of the Bhagavata and of Bhagavan[^22].
+reminded them that their only duty and dharma is to spread the service of the Bhagavata and of Bhagavan[^23].
 <!-- F187 F188 Q5 -->
 
 In those days he also left his disciples instructions for the mission. Already on 27 December, on Sunday evening, at a
@@ -866,11 +872,11 @@ but Kunja Babu will manage so long as he lives. Kunja Babu’s sympathy for me b
 persons. His intelligence excelled all. His sympathy for me knows no bound. I advise you (Kunja Babu) to be courageous
 and callous, as I am callous to all. This should be your guiding principle. I told the other day and again I say Kunja
 Babu should be respected by all as long as he lives. Not to quarrel with one another.” And he added in Bengali: “Let
-Vasudeva write something; let Sundarananda help Professor Babu”[^23]. <!-- F263 F261 Q9 -->
+Vasudeva write something; let Sundarananda help Professor Babu”[^24]. <!-- F263 F261 Q9 -->
 
 ## Departure
-Srila Bhaktisiddhanta Sarasvati Thakura left this world in Calcutta on 1 January 1937, at about half past five in the
-morning, on the krishna-chaturthi[^24]. By our calendar it is the krishna-chaturthi of Narayana-masa, the day on which
+Srila Bhaktisiddhanta Sarasvati Thakura left this world in Calcutta, at the Sri Gaudiya Math in Bagbazar[^25], on
+1 January 1937, at about half past five in the morning, on the krishna-chaturthi[^26]. By our calendar it is the krishna-chaturthi of Narayana-masa, the day on which
 his departure is observed. He entered the eternal abode and joined Radha and Krishna in the pre-dawn (*nishanta*)
 pastimes of their eternal day in Vraja. <!-- F189 -->
 
@@ -881,12 +887,16 @@ pastimes. A hint of this was seen in the first verse of Jayadeva’s “Gita-gov
 word *naktam*, “by night.” This embrace is not worldly passion but the highest prema, revealed to the world as Sri
 Gaurasundara. <!-- F190 Q11 I8 -->
 
+His sacred body was taken to Sri Mayapur and laid in samadhi at the Sri Chaitanya Math, by Vraja-pattana — the place of
+his bhajana — beside the samadhi of his guru, Srila Gaurakishora. Later Sripad Bhakti Vilas Tirtha Maharaja built his
+samadhi temple there and had Shyama-kunda dug in front of it. <!-- F279 -->
+
 ## “The Sun of the Gaudiya Sampradaya”
 The journal “Gaudiya” announced: on the last krishna-chaturthi of the month of Narayana in the year 450 of the
 Chaitanya era, at the end of the night before Thursday (16 Paush 1343 by the Bengali reckoning), on Friday morning, 1
 January 1937, Paramahamsa Parivrajakacharya Om Vishnupada Srila Bhaktisiddhanta Sarasvati Gosvami Prabhupada entered
 the eternal pastimes of Radha-Govinda — in the first hour of Their eternal day. He was the great acharya of the Gaudiya
-Vaishnava sampradaya and its sole guardian, the ninth in succession from Sri Chaitanya Mahaprabhu[^25], the best of the
+Vaishnava sampradaya and its sole guardian, the ninth in succession from Sri Chaitanya Mahaprabhu[^27], the best of the
 followers of Svarupa Damodara and Sri Rupa Gosvami. <!-- F191 F192 F275 -->
 
 The “Gaudiya” announcement also gave a pranama to him:
@@ -898,9 +908,9 @@ The “Gaudiya” announcement also gave a pranama to him:
 opposed to the teaching of the followers of Sri Rupa.” <!-- Q10 -->
 
 He was the sun of the Gaudiya sampradaya, the journal wrote, for he was not different from its acharyas — Rupa and
-Svarupa Damodara; with his setting darkness fell not only on the preachers of the Gaudiya Math but on the whole world.
-Yet there is hope: he had breathed into his followers such zeal for service to the Lord’s feet and given them such
-ideals of practice and preaching that the current flowing from Svarupa and Rupa through Bhaktivinoda would only gather
+Svarupa Damodara; with his setting darkness fell not on the Gaudiya Math’s preachers alone but on the whole world.
+Yet there is hope: he had breathed into his followers such zeal for service to the Lord’s feet and set before them such
+high standards of practice and of preaching that the current flowing from Svarupa and Rupa through Bhaktivinoda would only gather
 strength. Faithfully following his instructions, they would gain his direct company and strength; and on the path of
 fearless, independent preaching his blessings would pour down still more abundantly. The writers of the “Gaudiya” had
 lost their shelter: he used to read each of their articles eagerly before it was printed, blessing their work and
@@ -918,11 +928,11 @@ the inner, spiritual nature of this disciple. <!-- F199 F262 -->
 
 His ideal was simple: first to carry out Mahaprabhu’s teaching oneself — and only then to preach. One cause of the
 decline of the Vaishnava faith he saw in its followers’ abandonment of the ideal of a renounced life. Until the genuine
-Vaishnava faith followed by Sri Chaitanya Mahaprabhu, the six Gosvamis and their faithful followers is rightly shown to
+Vaishnava faith as Sri Chaitanya Mahaprabhu, the six Gosvamis and those faithful to them lived it is rightly shown to
 people, no one can take it to heart — so he understood his task. <!-- F201 I4 -->
 
-To free the followers of the Vaishnava faith from the superstition of caste distinctions, he investigated the origin and
-purpose of varnashrama and showed that whether a person is a brahmana, kshatriya, vaishya or shudra cannot be measured by
+To release Vaishnavas from blind belief in caste distinctions, he looked into the source and the aim of varnashrama and
+showed that whether a person is a brahmana, kshatriya, vaishya or shudra cannot be measured by
 the accident of birth: varna is determined by qualities. Trusting the injunctions of the shastras, he taught that every
 human being has the right to worship the Lord; for this one must accept diksha, and the sacred thread is only its
 accompanying sign. With equal resolve he opposed hereditary guruship, calling it one of the causes of the decline of the
@@ -932,11 +942,11 @@ shastras: the Vaishnava stands above the brahmana. <!-- F202 F203 I4 -->
 
 Following the example of Sri Shankara, Sri Ramanuja, Sri Madhva, Lord Sri Chaitanya Deva and the representatives of the
 Vaishnava maths of all India, he himself made preaching tours through all its provinces, and he was called “the guardian
-(*rakshaka*) of the Gaudiya sampradaya.” Corporations and municipalities in various parts of the country invited him and
-gave him civic receptions. <!-- F204 F205 -->
+(*rakshaka*) of the Gaudiya sampradaya.” City corporations and municipal bodies everywhere asked
+him to visit and honoured him with civic receptions. <!-- F204 F205 -->
 
 On his great tours of South India he collected philosophical and religious books: the “Madhva-vijaya,” Madhva’s
-commentary on the “Brahma-sutra,” the “Purna-prajna-bhashya,” the literature of the Pancharatra[^26], the
+commentary on the “Brahma-sutra,” the “Purna-prajna-bhashya,” the literature of the Pancharatra[^28], the
 “Mayavada-khandana,” the “Tattva-viveka,” the “Gita-bhashya,” Jayatirtha’s “Nyaya-sudha” and Vyasatirtha’s
 “Nyayamrita”; the last two became his weapons against mayavada. He also gathered books of the Ramanuja-sampradaya — the
 “Shri-bhashya” on the Vedanta, Ramanuja’s life, the “Prapannamrita” — as well as historical and literary material
@@ -966,7 +976,7 @@ teaching: <!-- F212 I5 -->
    Bhatta Gosvami’s “Sat-kriya-sara-dipika” and “Samskara-dipika.” <!-- F218 -->
 7. He introduced pancharatrika diksha and the right to worship Lord Vishnu without distinction of caste or creed.
    <!-- F219 -->
-8. For Vaishnava education he published Sri Jiva Gosvami’s Sanskrit grammar “Hari-namamrita-vyakarana,” opened a
+8. To give a Vaishnava education he brought out Sri Jiva Gosvami’s Sanskrit grammar “Hari-namamrita-vyakarana,” opened a
    Sanskrit academy for its study and instituted the degree “Vyakarana-tirtha.” <!-- F220 -->
 9. He founded a Sanskrit academy — a bhagavata-pathashala or *paravidya-pitha* — introduced the study of the shastras
    under his supervision, and invited skilled pandits from Udupi to teach the philosophies of the various sampradayas.
@@ -984,7 +994,7 @@ pancharatrika diksha, Sanskrit learning, a school, the renewal of holy places, t
 very image of his preaching. His presses in various parts of India produced a multitude of publications that spread
 widely through the land; books and journals in Bengali, English, Sanskrit, Tamil, Telugu, Hindi, Oriya and Assamese gave
 the speakers of all these languages the chance to learn the teaching and pass it on. He published more than two hundred
-foundational books — the writings of the Gosvamis and books of the sampradayas of Sri Madhva and Sri Ramanuja[^27].
+foundational books — the writings of the Gosvamis and books of the sampradayas of Sri Madhva and Sri Ramanuja.
 <!-- I7 F200 F211 -->
 
 ## “The Great Mridanga”
@@ -1018,13 +1028,16 @@ prayed that the message might reach America — in Europe, especially in London,
 songs and books of Bhaktivinoda, of one essence with Narottama’s songs, might spread through Bengal, Orissa and Assam; he
 rejoiced that the “Sharanagati” was being translated into Tamil and the “Chaitanya-shikshamrita” into Telugu. As the
 measure of all the religions of the world he named the couplet *prthivite jata katha dharma name chale / bhagavata kahe
-taha paripurna chhale* — “all that in the world goes by the name of religion, the ‘Bhagavata’ calls utter deceit”[^28].
+taha paripurna chhale* — “all that in the world goes by the name of religion, the ‘Bhagavata’ calls utter deceit”[^29].
 The “Jaiva-dharma” and the “Sri Chaitanya-shikshamrita” he wished to give to the scholars of the whole world, for Sri
 Krishna Chaitanya, the Harinama and the “Bhagavata” are one. <!-- F232 Q7 -->
 
-He held the “Chaitanya-charitamrita” in extraordinary esteem: once, glorifying it before his disciples, he spoke of what
-would remain to people if all the books of the world vanished and only the “Bhagavatam” and the “Chaitanya-charitamrita”
-survived. He gave his disciples the poem “Who Is a Vaishnava?” (“Vaishnava ke?”), built on Mahaprabhu’s teachings to
+He held the “Chaitanya-charitamrita” in extraordinary esteem. Once, glorifying it before his disciples, he said that if
+every book in the world perished and only the “Bhagavatam” and the “Chaitanya-charitamrita” were left, people could still
+reach life’s highest goal; and were even the “Bhagavatam” lost, the “Chaitanya-charitamrita” alone would keep everything
+for mankind, since it reveals what the “Bhagavatam” leaves unrevealed. The Supreme Truth is Sri Chaitanya Mahaprabhu,
+Radha and Krishna in one form, and the “Chaitanya-charitamrita” is His embodiment in sound; it holds the secret of Srimati
+Radharani’s position and glory. How, then, could anyone doubt the supremacy of this book? He gave his disciples the poem “Who Is a Vaishnava?” (“Vaishnava ke?”), built on Mahaprabhu’s teachings to
 Sanatana Gosvami, and told them to study and meditate on it. He would not tolerate blasphemy of Nityananda and said that
 he was ready to set his foot on the heads of the blasphemers if only to stop their offences for ever — the anger of a
 devotee for the honour of the Lord, akin to Nityananda’s merciful anger towards Jagai and Madhai. <!-- F252 F254 F255 -->
@@ -1057,7 +1070,7 @@ vain.” And above all: “In life only the dust of Rupa Gosvami’s feet is nee
 “All I need from you is that you lend me your ears,” he often told his disciples. <!-- F259 -->
 
 ## Maths, Pada-pithas, Societies
-One of the biographies lists sixty-six of his maths and centres[^27]. In Mayapur — the Sri Chaitanya Math, the Yogapitha
+One of the biographies lists sixty-six of his maths and centres[^30]. In Mayapur — the Sri Chaitanya Math, the Yogapitha
 temple, Advaita-bhavana, Shrivasa-angana, the samadhi of Chand Kazi, the shripata of Murari Gupta, the Paravidya-pitha,
 and the school and research institute named after Bhaktivinoda. On the islands of Navadvipa and nearby — the Jayadeva
 Gaudiya Mathalaya at Shrinathpur, the Svananda-sukhada-kunja at Godruma, the Suvarna-bihara Gaudiya Math, Sri
@@ -1081,6 +1094,12 @@ Memorials of Mahaprabhu’s footprints, according to the same biography, were se
 Natshala (15 October 1929), Jajpur (25 December 1930), Kurmakshetra (26 December), Simhachalam (27 December), Kovvur
 (29 December), Mangalagiri (31 December 1930) and Chhatrabhoga (2 April 1934). <!-- F236 -->
 
+The diorama exhibitions through which he carried the message to the people are listed by the same biography as follows:
+at Kurukshetra (4 November 1928), at Sri Dhama Mayapur-Navadvipa (9 February 1930), at the Calcutta Gaudiya Math — the
+“Paramarthika Pradarshini” (5 November 1930) and the “Sat-shiksha Pradarshini” (6 September 1931) — at Dhaka (6 January
+1933), again at Kurukshetra (21 August 1933), at Patna (14 November 1933), at Kashi (24 December 1933), at Prayaga
+(7 January 1936) and once more at Kurukshetra (19 June 1936)[^31]. <!-- F277 -->
+
 He also founded societies and institutions: the Sri Bhaktivinoda Asana (Calcutta, November 1918); the Sri
 Vishva-vaishnava-raja-sabha, founded by Rupa and Sanatana and restored by him on 5 February 1919; the Sri Sarasvata Asana
 (July 1924); the “Gaudiya Sampadaka Sangha,” the editorial board of the “Gaudiya” (15 August 1925); the “Nikhila
@@ -1102,7 +1121,9 @@ served his guru personally, recording his lectures and talks. Srila Bhaktisiddha
 his words.” One of his closest disciples was Srila Bhakti Dayita Madhava Gosvami Maharaja. To Goalpara Srila
 Bhaktisiddhanta came only once, and then told his disciples Radha Mohan Prabhu and Nimananda Prabhu to found the
 “Prapannashrama” on Hulukanda hill. Among his disciples were also Akinchana Krishnadasa Babaji, Bhakti Hridaya Bon
-Maharaja and Srila A. C. Bhaktivedanta Svami, who later carried his message to the whole world. <!-- F259 -->
+Maharaja and Srila A. C. Bhaktivedanta Svami. Before his departure, “Our Teachers” relates, Srila Bhaktisiddhanta
+charged his senior disciples to carry on the preaching in the West, and only Srila Bhaktivedanta Svami Prabhupada was
+able to fulfil this wish completely. <!-- F259 F280 -->
 
 ## After His Departure
 A few days after his departure a dispute over the leadership of the mission arose among his disciples; the matter went
@@ -1110,7 +1131,7 @@ to the High Court of Calcutta, and the maths were divided. <!-- F260 -->
 
 His disciples carried on his work. Srila Bhakti Dayita Madhava Gosvami bought the land and houses at the place of his
 appearance in Puri and restored it; he was also the chief organiser of the all-India celebration of his guru’s
-centenary. The centenary celebration was opened in Mayapur on 22 February 1973 by the Governor of Orissa, B. D. Jatti[^29].
+centenary. The centenary celebration was opened in Mayapur on 22 February 1973 by the Governor of Orissa, B. D. Jatti[^32].
 Earlier, on 7 February 1969, Sripad Bhakti Vilasa Tirtha Maharaja had performed the Vyasa-puja carrying his guru’s
 padukas on his head. The pada-pithas that Srila Bhaktisiddhanta did not live to set up — at Tirupati, Shrirangam and
 Udupi — were set up by Bhakti Vilasa Tirtha (in 1958 and 1965). Srila Bhaktisiddhanta himself had visited Udupi more than
@@ -1155,64 +1176,75 @@ Mahaprabhu kept the treasure of prema, he carried that treasure to Mayapur and g
 [^7]: The translation follows “Our Teachers.” Worshipping the path of raga “from afar, with reverence” is not a rejection
     of raga-bhakti but awe before it, which imitators cannot have.
 [^8]: One of the biographies places this conference in 1922; the details (four days, four addresses, the fast, prasad in
-    Mayapur) coincide, so this is apparently a slip for 1912.
+    Mayapur) coincide, so this is apparently a slip for 1912. The “Sarasvati-jayashri” also places the conference in March
+    1912.
 [^9]: The biographies place this press differently: one at Kalighat in Calcutta, another at Krishnanagar, from where in
     1914 it moved to Mayapur and in July 1915 returned to Krishnanagar. Another biography names among his presses those
-    at Krishnanagar, Mayapur, Calcutta and Cuttack.
-[^10]: According to one of the biographies, this was on 27 March 1918 — the 13th of Chaitra 1324 by the Bengali
-    reckoning, the phalguni-purnima; according to another, and to “Our Teachers,” on 7 March. Gaura-purnima in 1918 fell
-    on 27 March, so the date “7 March” is apparently mistaken.
+    at Krishnanagar, Mayapur, Calcutta and Cuttack. According to the “Sarasvati-jayashri,” the press was set up at Kalighat,
+    at 4 Sanagar Lane, in the month of Vaishakha 1320 (April–May 1913), and moved to Krishnanagar in mid-June 1915.
+[^10]: This date — the 13th of Chaitra 1324 by the Bengali reckoning, a Wednesday, the phalguni-purnima — is given by one
+    of the biographies and by the “Sarasvati-jayashri,” the book on his life compiled by his disciples in his lifetime
+    (1934); another biography and “Our Teachers” give 7 March. Gaura-purnima in 1918 fell on 27 March, so the date “7 March”
+    is apparently mistaken.
 [^11]: The first among Mahaprabhu’s followers in his line, where sannyasa had not been accepted before him; Mahaprabhu
     Himself of course accepted sannyasa, and what is meant here is the tridandi sannyasa that he introduced among his
     disciples.
 [^12]: So according to one of the biographies and “Our Teachers”; another biography says that he installed here the
     Deity of Sri Chaitanya Mahaprabhu.
-[^13]: In one place a biography calls the “Gaudiya” a monthly, in another a weekly; another biography too calls it a
+[^13]: According to the “Sarasvati-jayashri,” he left Calcutta for Dhaka on 9 October 1921, and the math was founded on
+    31 October.
+[^14]: In one place a biography calls the “Gaudiya” a monthly, in another a weekly; another biography too calls it a
     weekly. Accounts of other journals also differ: the Hindi journal “Bhagavata” is called now a fortnightly, now a
     monthly, and the Assamese “Kirtana” is said to have come out now from Dhubri, now from Goalpara.
-[^14]: The biography says “the first edition”; apparently what is meant is the first edition with his commentary, the
+[^15]: The biography says “the first edition”; apparently what is meant is the first edition with his commentary, the
     “Gaudiya-bhashya” — the Gaudiya Math edition — and not the first edition of the “Chaitanya-bhagavata” as such.
-[^15]: In the list of pada-pithas given by the same biography the order is reversed: Mandara on 13 October, Kanai
+[^16]: In the list of pada-pithas given by the same biography the order is reversed: Mandara on 13 October, Kanai
     Natshala on 15 October 1929. The plan was to set up a hundred and eight memorials; by that list there were eight by
     1934, and at Tirupati, Shrirangam and Udupi, according to another biography, he did not live to set them up — this
     was done later by his disciple Bhakti Vilasa Tirtha.
-[^16]: According to one of the biographies, the first such exhibition at Bagbazar was held in 1931 in the newly opened
+[^17]: According to one of the biographies, the first such exhibition at Bagbazar was held in 1931 in the newly opened
     Gaudiya Math; according to another, there had been dioramas earlier — at Kurukshetra (1928) and in Mayapur (1930) —
     and the “Sat-shiksha-pradarshini” in Calcutta opened on 6 September 1931.
-[^17]: The biography speaks of this differently in two places: in one, the disciples carried the body whole, and the
+[^18]: The biography speaks of this differently in two places: in one, the disciples carried the body whole, and the
     temple was opened on 16 September; in the other, part of the remains was recovered from the bed of the Ganga on the
     5th of Bhadra 1339, and the new samadhi was consecrated on the 2nd of Ashvina 1339 (about 18–19 September 1932).
-[^18]: In the biography’s text the words “On April 2” also stand before this — apparently a misprint.
-[^19]: In its list of institutions the biography gives a different year for the founding of this institute — 1931; in
+[^19]: In the biography’s text the words “On April 2” also stand before this — apparently a misprint.
+[^20]: In its list of institutions the biography gives a different year for the founding of this institute — 1931; in
     the account of 1936 and in another list — 12 February 1936. The years of the journal “Gaudiya” are also confused in it
     (the second and third years are both marked 1924–1925).
-[^20]: The date and the listeners are given by one of the biographies, which renders the instructions in its own
+[^21]: The date and the listeners are given by one of the biographies, which renders the instructions in its own
     paraphrase. The Sri Chaitanya Saraswat Math published them from a Bengali article in the journal “Sri Gaudiya Darshan”
     (Year 1, No. 6, 12 January 1955) with the note “spoken at the time of his departure”; here they follow that translation
     (abridged). The Bengali record of 1936–1937 is not available to us.
-[^21]: According to one of the biographies, he asked for both songs on the morning of the very day of his departure.
-    Srila Sridhar Maharaj places his own on the eve of the departure — “just before 24 hours”; here we follow his words (as
-    also in the article about him).
-[^22]: These words of the last day are known only from the paraphrase of one of the biographies, and so they are given
+[^22]: Quoted from the biography of Srila Sridhar Maharaj on the website of the Sri Chaitanya Saraswat Math (in Russian —
+    from “Our Teachers”). In a talk of 1983 he said the same: “Just before 24 hours of his departure he called for me and
+    asked me to sing a song… Then after 24 hours, on the first of January early morning he left the world.” According to
+    one of the biographies, he asked for both songs on the morning of the very day of his departure; here we follow Srila
+    Sridhar Maharaj (as also in the article about him).
+[^23]: These words of the last day are known only from the paraphrase of one of the biographies, and so they are given
     without quotation marks.
-[^23]: The “Guiding Principles” survive in their original English text; the biography that gives them calls Thursday,
+[^24]: The “Guiding Principles” survive in their original English text; the biography that gives them calls Thursday,
     31 December 1936, “the day of the manifestation of the lila of disappearance.”
-[^24]: The sources name the day of the week differently: one biography says “on Thursday, 1 January”; the “Gaudiya”
+[^25]: Bagbazar is named explicitly only by later biographies; the early sources speak only of Calcutta, to which he
+    returned from Puri on 9 December. From 1930 the Calcutta Gaudiya Math stood in Bagbazar.
+[^26]: The sources name the day of the week differently: one biography says “on Thursday, 1 January”; the “Gaudiya”
     announcement, “at the end of the night before Thursday, on Friday morning, 1 January”; the Sri Chaitanya Saraswat Math,
     “16th Paush 1343, Thursday, daybreak” by the Bengali reckoning and “1 January 1937, Friday” by the English. By the
     Bengali reckoning the day lasts until dawn, so all agree: he departed at dawn after the night between Thursday 31
     December and Friday 1 January. In one place the same biography wrongly gives the year of his departure as 1936.
-[^25]: The count follows the line of teachers, counting Mahaprabhu as the first: Sri Chaitanya — Svarupa Damodara and Rupa
+[^27]: The count follows the line of teachers, counting Mahaprabhu as the first: Sri Chaitanya — Svarupa Damodara and Rupa
     — Raghunatha — Krishnadasa — Narottama — Vishvanatha — Jagannatha — Bhaktivinoda and Gaurakishora — he. In the list of
     the guru-parampara printed in Nishikanta Sanyal’s book “Sree Krishna Chaitanya” (1933), with a preface by Srila
     Bhaktisiddhanta, he stands twenty-ninth from Krishna — “Sri Bhaktisiddhanta Sarasvati Sri Barshabhanavi-dayita-das” —
     after Gaurakishora (twenty-eighth).
-[^26]: The biography’s text reads “Panchatantra”; judging by the context (the Pancharatra is spoken of below), this is a
+[^28]: The biography’s text reads “Panchatantra”; judging by the context (the Pancharatra is spoken of below), this is a
     misprint.
-[^27]: According to one of the biographies, he founded sixty-six maths and centres; tradition speaks of sixty-four Gaudiya
-    Maths. Another biography adds that today there are hundreds of Gaudiya Maths, places of puja and pathas throughout the
-    world, but these are the fruits of later years.
-[^28]: The biography does not name the source of the couplet; it is not found in the “Chaitanya-charitamrita” or the
+[^29]: The biography does not name the source of the couplet; it is not found in the “Chaitanya-charitamrita” or the
     “Chaitanya-bhagavata.” In sense it conveys the thought of “Bhagavatam” 1.1.2: this book wholly rejects every
     deceitful religion.
-[^29]: According to another biography, the all-India centenary celebration took place in 1974.
+[^30]: According to one of the biographies, he founded sixty-six maths and centres; tradition speaks of sixty-four Gaudiya
+    Maths. Another biography adds that today there are hundreds of Gaudiya Maths, places of puja and pathas throughout the
+    world, but these are the fruits of later years.
+[^31]: In its year-by-year account the same biography gives other dates: the Mayapur exhibition ran from 3 February to
+    17 March 1930, and the Calcutta one opened when the math moved to Bagbazar on 5 October 1930.
+[^32]: According to another biography, the all-India centenary celebration took place in 1974.
