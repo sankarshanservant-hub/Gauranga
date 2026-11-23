@@ -89,7 +89,7 @@
     джанмилена*).
   - Ади 1.100 «Джагадишы» → «Джагадиши» (опечатка). Антья 8.29 (`src/txt`): ссылка «[Чч, Ади-лила 6.20-35]» → «[Ади, 6.20-35]» (это ЧБ).
   - `CB_Adi_verses.json` — ошибочный разбор, не правился.
-- **Наши статьи**: «Духкхини» → «Дукхини» (PERSONS @dukhini) в `ru|en/jagannatha-mishra.md`, `ru|en/shachi.md` (EN «Duhkhini» → «Dukhini»);
+- **Наши статьи**: «Духкхини» → «Дукхини» (PERSONS @duhkhini-jagadisha) в `ru|en/jagannatha-mishra.md`, `ru|en/shachi.md` (EN «Duhkhini» → «Dukhini»);
   `check.py` обоих → OK; PDF пересобраны (Джаганнатха Мишра — 9 с., Шачи — 36 с.). Реестры @jagannatha-mishra, @shachi («Духкхини») не правил.
 - Замечания заметок автора закрыты: ЧБ 6.26, 6.31–38 — исправлены; «Дукхини» — унифицировано; ВЧД/выверенная редакция — ниже.
 
@@ -127,7 +127,7 @@ II-06 (ур. C), «Гаура-чарита-чинтамани» 1.13, 4.1 (ур.
 **Карточка:** события ДЧВ (13 событий events-jagadisha.yaml + ev-advent-eclipse-devotees-rejoice), связи — отец @kamalaksha-jagadisha, мать
 @bhagyavati, сын @ramabhadra-jagadisha, дочь @rasamanjari-jagadisha, тесть @tapana-pandita-jcv, зять @gopivallabha-jirat, сват
 @madhava-acharya-ganga, ученики @raghunatha-acharya-jcv и @kamalakanta-durgapur, @bhagavan-acharya, @vidyanidhi-bhattacharya-jcv,
-@bhagavatananda-jcv, @ananda-dasa-jcv; места #yashoda-gram, #remuna, #cuttack, #shantipura, #jirat, #vrindavana; identities — Калавати
+@bhagavatananda-jcv, @ananda-dasa-jcv; места #jashra, #remuna, #cuttack, #shantipura, #jirat, #vrindavana; identities — Калавати
 (ДЧВ, ур. C, ≠ ГГД); open_questions — 6 новых. cards.py и lila-db/build.py — 0 ошибок.
 
 **Статья RU/EN:** новый раздел «По “Джагадиша-чаритра-виджае” (поздний источник)» перед «Значением» — житие кратко, по порядку
@@ -153,7 +153,7 @@ II-06 (ур. C), «Гаура-чарита-чинтамани» 1.13, 4.1 (ур.
    192 — разные лица). Это расходится с ЧЧ Ади 10.70/11.30 и «Анубхашьей» к ним (Бхактисиддханта относит оба стиха к одному Джагадише
    Пандиту), а также с B, T, M и «Пата-нирнаей» — ⚠21. Предлагаю пересмотреть эти сноски в `jagadisha-charitra-vijaya/` (не правил — чужая
    папка).
-2. Дубли тегов: @dukhini (карточка, статьи) и @duhkhini-jagadisha (записи ДЧВ); #jashra и #yashoda-gram (одно место). Нужно решение,
+2. Дубли тегов: @dukhini (карточка, статьи) и @duhkhini-jagadisha (записи ДЧВ); #jashra и #yashoda-gram (одно место). Нужно решение, [сведено 2026-11-23: оставлены @duhkhini-jagadisha, @yadunandana-jhamatpur, #jashra, #shaligrama-village, #banapura, #shyamasundarpura]
    какой оставить (lila-db/PERSONS.md, PLACES.md — общие файлы, не правил).
 3. Правка для статьи @mahesha-pandita (не делал): по ДЧВ (ур. C) Махеша — младший брат Джагадиши, родился в доме Камалакши, обучен
    Джагадишей (5.5–8); пошёл с ним в Навадвипу («Я — твой слуга», 6.143–148); приютил Дукхини, пока Джагадиша ходил в Пури (7.126–128;

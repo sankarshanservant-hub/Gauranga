@@ -24,10 +24,10 @@ life:
     facts: [F70, F71, F112]
 origin:
   places: ["#guwahati", "#mayapur", "#navadvipa"]
-  family: ["@hiranya-pandita", "@mahesha-pandita", "@dukhini", "@kamalaksha-jagadisha", "@bhagyavati", "@ramabhadra-jagadisha", "@rasamanjari-jagadisha"]
+  family: ["@hiranya-pandita", "@mahesha-pandita", "@duhkhini-jagadisha", "@kamalaksha-jagadisha", "@bhagyavati", "@ramabhadra-jagadisha", "@rasamanjari-jagadisha"]
   varna: "брахман («двое брахманов» — ЧБ Ади 6.20, 6.26; «Джагадиша Бхатта», род Бхатта-нараяны — «Анубхашья»)"
   facts: [F8, F9, F10, F11, F12, F13, F14, F15, F17, F20, F82, F88, F89, F101, F105, F111]
-  note: "Отец — Камалакша Бхатта (из рода Бхатта-нараяны; M — «сын Бхатты Нараяны», ⚠2); мать — Бхагьявати (только ДЧВ); сын — Рамабхадра Госвами; по ДЧВ ещё три сына, ушедшие к Господу (F105, ⚠Б7), и дочь Расаманджари, жена Гопиваллабхи из Джирата, внука Нитьянанды (F111). Жена — @dukhini (= @duhkhini-jagadisha в записях ДЧВ: дубль тега)."
+  note: "Отец — Камалакша Бхатта (из рода Бхатта-нараяны; M — «сын Бхатты Нараяны», ⚠2); мать — Бхагьявати (только ДЧВ); сын — Рамабхадра Госвами; по ДЧВ ещё три сына, ушедшие к Господу (F105, ⚠Б7), и дочь Расаманджари, жена Гопиваллабхи из Джирата, внука Нитьянанды (F111). Жена — @duhkhini-jagadisha."
 relations:
   - {type: companion, who: "@mahaprabhu", facts: [F5, F21, F22, F25, F27, F30, F35, F36, F37, F38, F39, F40, F62, F63, I1, F94, F95, F96, F102, F103, F106, F107, F108],
      events: [ev-jagadisha-hiranya-ekadashi, ev-jagadisha-ekadashi-revelation, ev-jagadisha-sent-nilachala, ev-lord-visits-yashoda, ev-gaura-gopala-yashoda, ev-jagadisha-nritya-vinodi, ev-closed-door-kirtan-scoffers, ev-jala-keli-navadvipa, ev-nagara-kirtana-kazi, ev-shridhara-kholavecha],
@@ -40,7 +40,7 @@ relations:
   - {type: sibling, who: "@hiranya-pandita", facts: [F3, F12, F14, F15, F25, F28, F66, F93],
      note: "Брат по B, T («три брата» — B 835, T 86) и Джаянанде («родные братья»); в ЧЧ/ЧБ — лишь «два брахмана», вместе в экадаши (ГГД 192: обе — яджня-патни) и в пути в Нилачалу (ЧБ Антья 8.28). ДЧВ — друг-единомышленник «Хиранья Бхагавата», родства не называет (F93)."}
   - {type: sibling, who: "@mahesha-pandita", facts: [F13, F14, F88, F91, F96, F99, F101, F104], note: "По M и «Анубхашье» к ЧЧ Ади 11.30 — младший брат, пошедший с ним к Ганге; по «некоторым» (B 835, T 86) — младший из трёх братьев (⚠3). ДЧВ: младший брат, обучен им, пошёл с ним в Навадвипу, приютил Духкхини, переселён в Яшоду, женат и жил у тестя, принят Нитьянандой (поздний источник)."}
-  - {type: spouse, who: "@dukhini", facts: [F12, F17, F18, F19, F62, F63, F64, F89, F92, F95, F103, F106, F107], note: "Дукхини-мата; по её слезам разлуки Господь остался в Яшаде как Гаура-Гопала (по преданию, его установила она)."}
+  - {type: spouse, who: "@duhkhini-jagadisha", facts: [F12, F17, F18, F19, F62, F63, F64, F89, F92, F95, F103, F106, F107], note: "Дукхини-мата; по её слезам разлуки Господь остался в Яшаде как Гаура-Гопала (по преданию, его установила она)."}
   - {type: deity-served, who: "@jagannatha-jashra", facts: [F43, F44, F45, F46, F47, F48, F49, F50, F52, F54, F55, F56, F98, F99, F100],
      note: "Божество Джаганнатхи, «погребённое» при Нава-калевара; по веленью Джаганнатхи во сне отдано ему царём; стало лёгким и тяжёлым и остановилось в Яшаде (⚠Б2). ДЧВ: дано наяву, принесено на спине, оставлено по мольбе Джагадиши (⚠17)."}
   - {type: deity-served, who: "@gaura-gopala-jashra", facts: [F55, F63, F64, F106, F107], note: "Господь остался в Яшаде в этом образе ради Дукхини (⚠Б3)."}
@@ -119,11 +119,11 @@ events:   # по порядку жизни (lila-db: period, order)
   - ev-kheturi-festival
   - ev-tattva-bhakti-kalpataru
   - ev-jagadisha-disappearance
-events_note: "#yashoda-gram (записи ДЧВ) = #jashra (дубль тега в PLACES.md — вопрос координатору). Тег @jagadisha-pandita есть в lila-db у ev-navadvipa-vaishnavas-before-advent (ЧБ Ади 2), ev-jagadisha-hiranya-ekadashi (ЧЧ Ади 10, 14; ЧБ Ади 6; ванданы), ev-shridhara-kholavecha (ЧБ Мадхья 23.452), ev-gauda-devotees-set-out-puri (ЧБ Антья 8.28), ev-panihati-chida-dadhi (ЧЧ Антья 6.62), ev-nityananda-preaching-gauda (vv-0061), ev-tattva-bhakti-kalpataru (ЧЧ Ади 11.30). По реестру, но без тега в записях lila-db: ev-closed-door-kirtan-scoffers (ЧБ Мадхья 8.115, F35), ev-jala-keli-navadvipa (Мадхья 13.336, F37), ev-nagara-kirtana-kazi (Мадхья 23.150, F38), ev-shantipura-after-natashala (Антья 4.273, F67), ev-kheturi-festival (БР 10; M 114, F68). Нилачала и Божество Джаганнатхи, приезды Господа в Яшаду и Гаура-Гопала (F40–F64) — отдельных событий в lila-db нет (вторичные источники и «Анубхашья»). +2026-11-23: события «Джагадиша-чаритра-виджаи» (events-jagadisha.yaml, jcv-0002…0016; поздний источник, ур. C) — рождение, детство, спор, свадьба, переселение, второй экадаши, послание в Нилачалу, Джаганнатха в Яшоде, приходы Господа, Гаура-Гопала, Нритья-виноди, Рагхунатха Ачарья, сокрытие; ev-advent-eclipse-devotees-rejoice — jcv-0007. БР 12 (brt-6040, brt-7020) — ev-jagadisha-hiranya-ekadashi; brt-7062, brt-7082 — пады о киртанах (F74)."
+events_note: "Место — #jashra (Яшода; дубль #yashoda-gram сведён 2026-11-23). Тег @jagadisha-pandita есть в lila-db у ev-navadvipa-vaishnavas-before-advent (ЧБ Ади 2), ev-jagadisha-hiranya-ekadashi (ЧЧ Ади 10, 14; ЧБ Ади 6; ванданы), ev-shridhara-kholavecha (ЧБ Мадхья 23.452), ev-gauda-devotees-set-out-puri (ЧБ Антья 8.28), ev-panihati-chida-dadhi (ЧЧ Антья 6.62), ev-nityananda-preaching-gauda (vv-0061), ev-tattva-bhakti-kalpataru (ЧЧ Ади 11.30). По реестру, но без тега в записях lila-db: ev-closed-door-kirtan-scoffers (ЧБ Мадхья 8.115, F35), ev-jala-keli-navadvipa (Мадхья 13.336, F37), ev-nagara-kirtana-kazi (Мадхья 23.150, F38), ev-shantipura-after-natashala (Антья 4.273, F67), ev-kheturi-festival (БР 10; M 114, F68). Нилачала и Божество Джаганнатхи, приезды Господа в Яшаду и Гаура-Гопала (F40–F64) — отдельных событий в lila-db нет (вторичные источники и «Анубхашья»). +2026-11-23: события «Джагадиша-чаритра-виджаи» (events-jagadisha.yaml, jcv-0002…0016; поздний источник, ур. C) — рождение, детство, спор, свадьба, переселение, второй экадаши, послание в Нилачалу, Джаганнатха в Яшоде, приходы Господа, Гаура-Гопала, Нритья-виноди, Рагхунатха Ачарья, сокрытие; ev-advent-eclipse-devotees-rejoice — jcv-0007. БР 12 (brt-6040, brt-7020) — ev-jagadisha-hiranya-ekadashi; brt-7062, brt-7082 — пады о киртанах (F74)."
 teachings_given: []
 teachings_received: []
 works: []
-places: ["#guwahati", "#mayapur", "#navadvipa", "#house-srivasa", "#house-shridhara", "#puri", "#jashra", "#yashoda-gram", "#chakdaha", "#ganga", "#panihati", "#remuna", "#cuttack", "#shantipura", "#jirat", "#vrindavana"]
+places: ["#guwahati", "#mayapur", "#navadvipa", "#house-srivasa", "#house-shridhara", "#puri", "#jashra", "#chakdaha", "#ganga", "#panihati", "#remuna", "#cuttack", "#shantipura", "#jirat", "#vrindavana"]
 places_facts: [F8, F12, F34, F35, F39, F40, F42, F48, F51, F52, F54, F55, F56, F57, F60, F61, F62, F65, F91, F97, F99, F102, F111, F112, F114]
 character:
   - {trait: "родительская любовь (ватсалья) к Нимаю, вместе с женой", facts: [F18, F19, F62, I5]}
@@ -149,4 +149,3 @@ open_questions:
   - "ДЧВ: Калавати во Врадже (F113) — против ГГД 143/192; источник предания неизвестен (⚠20)."
   - "Кто такой «хромой Бхагаван», отец Рагхунатхи Ачарьи: тот ли Бхагаван Ачарья из Пури (ДЧВ — да; ЧЧ о сыне молчит) (F110, ⚠19)."
   - "Сноски перевода ДЧВ о «слиянии двух Джагадиш» (ГГД 143 и 192) противоречат «Анубхашье» — пересмотреть (⚠21)."
-  - "Дубли тегов: @dukhini / @duhkhini-jagadisha, #jashra / #yashoda-gram."

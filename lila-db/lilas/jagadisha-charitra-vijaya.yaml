@@ -202,7 +202,7 @@
   title: "Джагадиша приносит Джаганнатху в Яшоду"
   summary: "Путь в Пури через Ремуну и Катак; Джагадиша просит у Джаганнатхи прежнее тело Божества из Койли-вайкунтхи, и Господь соглашается ехать у него на спине; с позволения царя он один несёт Его в Яшоду; местный царь не может сдвинуть Божество, просит прощения и даёт землю."
   persons: ["@jagadisha-pandita", "@mahesha-pandita", "@duhkhini-jagadisha"]
-  places: ["#remuna", "#puri", "#yashoda-gram"]
+  places: ["#remuna", "#puri", "#jashra"]
   kind: miracle
   authority: C
   parallels: ""
@@ -221,7 +221,7 @@
   title: "Ночной приход Махапрабху и Нитьянанды в Яшоду"
   summary: "После санньясы Господь из Шантипура приходит с Нитьянандой к Джагадише; корова сама даёт молоко, манго в пауше, рыба из реки для Нитьянанды; Духкхини мешает паясу рукой, а обжигается рука Господа; трое сыновей Джагадиши, нарушившие чистоту подношения, по его молитве оставляют тела и входят в Господа."
   persons: ["@mahaprabhu", "@nityananda", "@jagadisha-pandita", "@duhkhini-jagadisha", "@mahesha-pandita"]
-  places: ["#katwa", "#shantipura", "#yashoda-gram"]
+  places: ["#katwa", "#shantipura", "#jashra"]
   kind: lila
   authority: C
   parallels: ""
@@ -240,7 +240,7 @@
   title: "Явление Гаура-Гопалы в Яшоде"
   summary: "По слову Господа мастер за одну ночь являет Божество Господа-младенца; Духкхини находит плачущего Нимая и кормит его; Господь вновь приходит, учит, что не отличен от Своего Божества и преданного; Нитьянанда видит Гопалу у груди Духкхини; она выбирает служение Гаура-Гопалу."
   persons: ["@mahaprabhu", "@nityananda", "@duhkhini-jagadisha", "@jagadisha-pandita"]
-  places: ["#shantipura", "#yashoda-gram"]
+  places: ["#shantipura", "#jashra"]
   kind: lila
   authority: C
   parallels: ""

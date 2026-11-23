@@ -249,4 +249,4 @@ open_questions +5. `cards.py` → 0 ошибок, `lila-db/build.py` → 0 ош�
    статье как сноску-разночтение (так сделано) или сверить чтение ГГД по другим изданиям?
 2. «Пата-нирная» 64 — «Кхана»: если в каком-либо издании читается иначе (напр. «Кална»), это совпало бы с B 171 (Амбика-Кална).
 3. Дубли тегов вне моих файлов: `@yadunandana-jhamatpur` и `@yadunandana-acharya-jhamatpur` (одно лицо; карточка @virabhadra — первый,
-   lila-db brt-8017 — второй); `#saligrama` и `#shaligrama-village` (одно место). Свести — решение координатора.
+   lila-db brt-8017 — второй); `#saligrama` и `#shaligrama-village` (одно место). Свести — решение координатора. [сведено 2026-11-23: оставлены @duhkhini-jagadisha, @yadunandana-jhamatpur, #jashra, #shaligrama-village, #banapura, #shyamasundarpura]

@@ -27,7 +27,7 @@ life:
     note: "БР об уходе молчит, но говорит о втором её путешествии во Вриндаван (13.266–282, F158). T 200: ушла в вайшакха шукла-навами (по B и календарю — день явления, F25). T 89: в последнем путешествии во Врадж вошла в тело Радхики в храме Гопинатхи (свидетель — Парамешвари дас). M и B о дне и обстоятельствах ухода молчат. lila-db (НВВ, C): Гопинатха усадил её по левую руку от Себя."
   samadhi: []
 origin:
-  places: ["#saligrama", "#ambika-kalna"]
+  places: ["#shaligrama-village", "#ambika-kalna"]
   family: ["@suryadasa-pandita", "@bhadravati", "@vasudha", "@kamsari-mishra-shaligrama"]
   varna: "брахман"
   facts: [F13, F14, F15, F16, F17, F20, F21, F22]
@@ -156,7 +156,7 @@ events:   # по порядку жизни (T/M/B и БР; в lila-db поряд
 teachings_given: []
 teachings_received: []
 works: []
-places: ["#saligrama", "#ambika-kalna", "#navadvipa", "#shantipura", "#saptagrama", "#kharadaha", "#teliya-budhari", "#kheturi", "#prayaga", "#kashi", "#mathura", "#vrindavana", "#govardhana", "#radha-kunda", "#ekachakra", "#katwa", "#yajigrama", "#shrikhanda", "#jhamatpur", "#antpur", "#chandure", "#puri", "#badagachhi", "#kumarahatta", "#akrura-tirtha", "#vishrama-ghata", "#bahulavana", "#arita", "#manasa-ganga", "#nandagrama", "#rama-ghata", "#maudeshvara", "#padmavati", "#bahadurpura"]
+places: ["#shaligrama-village", "#ambika-kalna", "#navadvipa", "#shantipura", "#saptagrama", "#kharadaha", "#teliya-budhari", "#kheturi", "#prayaga", "#kashi", "#mathura", "#vrindavana", "#govardhana", "#radha-kunda", "#ekachakra", "#katwa", "#yajigrama", "#shrikhanda", "#jhamatpur", "#antpur", "#chandure", "#puri", "#badagachhi", "#kumarahatta", "#akrura-tirtha", "#vishrama-ghata", "#bahulavana", "#arita", "#manasa-ganga", "#nandagrama", "#rama-ghata", "#maudeshvara", "#padmavati", "#bahadurpura"]
 places_facts: [F20, F24, F35, F37, F38, F46, F53, F54, F55, F56, F71, F74, F75, F77, F81, F84, F85, F86, F87, F88, F89, F90, F94, F99, F106, F107, F108, F109, F121, F123, F124, F132, F135, F137, F138, F145, F149, F153, F156, F160, F162, F164]
 character:
   - {trait: "милость к ачарьям следующего поколения: стопы на голове Шринивасы, наставление идти во Вриндаван", facts: [F44, F45], events: [ev-srinivasa-khardaha-jahnava]}

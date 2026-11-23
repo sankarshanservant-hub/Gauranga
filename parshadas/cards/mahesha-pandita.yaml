@@ -36,7 +36,7 @@ relations:
   - {type: other, who: "@mahaprabhu", facts: [F5, F43], events: [ev-tattva-bhakti-kalpataru, ev-lord-visits-yashoda], note: "Причислен и к ветвям Шри Чайтаньи (ЧЧ Ади 10.111 — «Махеш Пандит»; тождество — по B и T, ⚠11). ДЧВ 9.89–94: служил Господу в Яшоде и упросил Его остаться (F43)."}
   - {type: sibling, who: "@jagadisha-pandita", facts: [F18, F19, F35, F36, F38, F39, F40, F41, F42, F43], events: [ev-jagadisha-marriage-duhkhini, ev-jagadisha-settles-navadvipa, ev-jagadisha-sent-nilachala, ev-jagadisha-brings-jagannatha-yashoda, ev-lord-visits-yashoda], note: "Младший брат — лишь «по мнению некоторых» (B, T, M по «Анубхашье»); брат Джагадиши Махеша — в предании шрипата Яшады («Анубхашья» к Ади 11.30), но его тождество с Махешей Пандитом Бхактисиддханта считает сомнительным; M 57 — как факт (⚠13). В ванданах (ч. 1, 2, 5) их славят рядом. ДЧВ (поздний источник, ур. C): младший брат, обучен им шастрам, «я — твой слуга», пошёл с ним в Навадвипу, приютил Духкхини, переселён им в Яшоду, им же женат (F38–F43, ⚠16)."}
   - {type: sibling, who: "@hiranya-pandita", facts: [F18], note: "Средний из трёх братьев — по тому же сомнительному мнению («Анубхашья» к ЧЧ Ади 11.32); по ДЧВ Хиранья — не брат, а друг Джагадиши (⚠17)."}
-  - {type: in-law, who: "@duhkhini-jagadisha", facts: [F39, F40, F41, F42], events: [ev-jagadisha-settles-navadvipa, ev-jagadisha-sent-nilachala, ev-jagadisha-brings-jagannatha-yashoda], note: "Невестка (жена брата Джагадиши) — по ДЧВ: шла с ним к Ганге, жила в его доме, пока Джагадиша ходил в Нилачалу, вместе переселены в Яшоду; она же предложила его женить (F39–F42). = @dukhini."}
+  - {type: in-law, who: "@duhkhini-jagadisha", facts: [F39, F40, F41, F42], events: [ev-jagadisha-settles-navadvipa, ev-jagadisha-sent-nilachala, ev-jagadisha-brings-jagannatha-yashoda], note: "Невестка (жена брата Джагадиши) — по ДЧВ: шла с ним к Ганге, жила в его доме, пока Джагадиша ходил в Нилачалу, вместе переселены в Яшоду; она же предложила его женить (F39–F42)."}
   - {type: other, who: "@raghunatha-dasa", facts: [F23], events: [ev-panihati-chida-dadhi], note: "Гость праздника чида-дадхи Рагхунатхи в Панихати (ЧЧ Антья 6.62). = @raghunatha-dasa F96."}
   - {type: met, who: "@srinivasa-acharya", facts: [F26], events: [ev-srinivasa-khardaha-jahnava], note: "В Кхардахе явил милость Шринивасе (БР 4.91)."}
   - {type: met, who: "@narottama-dasa", facts: [F25, F27, F28, F29, I3], events: [ev-narottama-gauda-pilgrimage],
@@ -74,7 +74,7 @@ events_note: "ev-tattva-bhakti-kalpataru — ветви древа (ЧЧ Ади 
 teachings_given: []
 teachings_received: []
 works: []
-places: ["#kathalpuli", "#palpara", "#panihati", "#saptagrama", "#kharadaha", "#kheturi", "#navadvipa", "#yashoda-gram"]
+places: ["#kathalpuli", "#palpara", "#panihati", "#saptagrama", "#kharadaha", "#kheturi", "#navadvipa", "#jashra"]
 places_facts: [F6, F7, F8, F9, F10, F11, F12, F23, F24, F26, F27, F29, F30, F39, F40, F41, F43]
 places_note: "Шрипат: Масипур (на восточном берегу напротив Джирата; поглощён Гангой) → Беледанга близ Сукхсагара (тоже) → Палпара (до начала 1334/1927 г.; B — «1314», опечатка, ⚠2) → Катхалпули (Катхалдхули) близ Чакдахи, Надия; с 1931 г. — под управлением Шрилы Бхактисиддханты (T 255). По ДЧВ (поздний источник): Навадвипа (свой дом, F39–F40) и Яшода (Ятра), шрипат брата (F41, F43); где жил тесть — не сказано (F42)."
 character:

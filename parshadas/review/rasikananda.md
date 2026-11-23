@@ -538,7 +538,7 @@ F48 — три сына); **частично / уточняет — 7** (F29–F
   учеников — помечено); relations: Шьямананда (+F92, F97–F100), Говинда (явление по РМ), **+@jagannatha-deity**, Гопала Ремуны,
   Радхананда, Вайдьянатха (+Банпур), Хридаянанда (+раса, уход), автор (+колофон); unnamed: гаджапати Нрисимхадева, слон Гопала
   Дас, резчики, Кишора и Чинтамани, жёны Шьямананды, противники (Уддханда, мимамсаки Хиджли, Рамачандра Дхал, кол-вождь,
-  ходжа), ученики по Пш14; места **+#banpur #thuria #shyamasundarapura #mayana #sarata #bhograi** (новые в PLACES.md) и
+  ходжа), ученики по Пш14; места **+#banapura #thuria #shyamasundarpura #mayana #sarata #bhograi** (новые в PLACES.md) и
   #puri #atharanala #jajpur #vana-vishnupura #ambika-kalna; works — «Шри Бхагавата-аштака»; character (+2); open_questions
   (гаджапати, уход; т. 2 — снято). `cards.py` → 48 карточек, 0 ошибок; `lila-db/build.py` → 0 ошибок, 0 предупреждений.
 
@@ -736,7 +736,7 @@ brt-4045, brt-8048…8053). Статья уже опиралась на РМ (д
 - lila-db: у большинства записей rm-* с @rasikananda (кроме rm-0005, 0007, 0008 — 1590; rm-0049 — 1630; rm-0066…0068 — 1652) стоят годы **«1533–1534, возр. 47–48»** — явно
   ошибочные (жизнь Расикананды — 1590–1653; П4 — 1590, Д5.11 — ему 20 лет ≈ 1610); надо пересчитать years/age в
   `lila-db/lilas/rasika-mangala*.yaml`.
-- lila-db/PLACES.md: дубли тегов `#banapura`/`#banpur`, `#shyamasundarpura`/`#shyamasundarapura` (и предупреждения build.py о
+- lila-db/PLACES.md: дубли тегов `#banapura`/`#banpur`, `#shyamasundarpura`/`#shyamasundarapura` (и предупреждения build.py о [сведено 2026-11-23: оставлены @duhkhini-jagadisha, @yadunandana-jhamatpur, #jashra, #shaligrama-village, #banapura, #shyamasundarpura]
   `#thuria`, `#keshi-ghata`).
 - rm-0053: «Кишора и Чинтамани… уходят во Вриндаван» — по тексту они умерли в Кашияри («в мир Вайкунтхи», колофон — «достижение
   Вриндавана»).

@@ -51443,7 +51443,7 @@
   "places": [
    "#remuna",
    "#puri",
-   "#yashoda-gram"
+   "#jashra"
   ],
   "kind": "miracle",
   "authority": "C",
@@ -120716,7 +120716,7 @@
   "places": [
    "#katwa",
    "#shantipura",
-   "#yashoda-gram"
+   "#jashra"
   ],
   "kind": "lila",
   "authority": "C",
@@ -120776,7 +120776,7 @@
   ],
   "places": [
    "#shantipura",
-   "#yashoda-gram"
+   "#jashra"
   ],
   "kind": "lila",
   "authority": "C",
@@ -231623,7 +231623,7 @@
    "@nityananda"
   ],
   "places": [
-   "#saligrama"
+   "#shaligrama-village"
   ],
   "kind": "lila",
   "authority": "B",
@@ -231684,7 +231684,7 @@
   ],
   "places": [
    "#badagachhi",
-   "#saligrama"
+   "#shaligrama-village"
   ],
   "kind": "lila",
   "authority": "B",
@@ -263710,7 +263710,7 @@
   "persons": [
    "@virabhadra",
    "@jahnava",
-   "@yadunandana-acharya-jhamatpur",
+   "@yadunandana-jhamatpur",
    "@shrimati-virachandra",
    "@narayani-virachandra",
    "@vasudha",
