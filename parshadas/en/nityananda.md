@@ -424,16 +424,7 @@ equal, and Nitai with him as with an elder. Nityananda was pleased to accept Mad
 people; and to regard Him as Madhavendra's disciple or as his godbrother is in essence one and the same: honour to a
 godbrother is not different from honour to the guru. <!-- F102 F103 F104 F105 I21 -->
 
-The “Bhakti-ratnakara” tells how He received initiation from Lakshmipati Tirtha, the guru of Madhavendra. In Pandharpur,
-having bowed to Vitthalanatha, Nityananda stayed with a gentle brahmana, a disciple of Lakshmipati. The aged Lakshmipati
-himself came there; at night he prayed to Baladeva for mercy with tears, and Nityananda in the form of Balarama appeared to
-him in a dream: “Krishna is the Lord of My life; birth after birth be His servant,” — told him to accept the young avadhuta
-as a disciple and spoke the mantra into his ear. In the morning Nityananda Himself prostrated before him: “Give Me
-initiation into the mantra and deliver Me,” — and Lakshmipati, “not daring to transgress the command of Sri Baladeva,”
-initiated Him that same day (BR 5.2294–2306). In a second dream Nityananda showed him the form of Baladeva and then His
-own, and forbade him to tell of it; soon Lakshmipati passed away. Narahari also cites an ancient verse: “I worship Lord
-Nityananda, dear to Sriman Lakshmipati, who increases the bliss of the Sri Madhva sampradaya, who is affectionate to His
-devotees” (5.2310)[^20]. And He met Madhavendra, by the same book, near Pratichi-tirtha — “the western tirtha”; Ishvara Puri
+The “Bhakti-ratnakara” also tells of Nityananda's initiation by Lakshmipati Tirtha, the guru of Madhavendra[^20]. And He met Madhavendra, by the same book, near Pratichi-tirtha — “the western tirtha”; Ishvara Puri
 and the other disciples were amazed and became deeply attached to Nityananda (5.2330–2335). <!-- F472 F473 -->
 
 Sanyal, setting out the view of the Gaudiya Math, gives both opinions — initiation from Madhavendra Puri or, “according to
@@ -1889,7 +1880,7 @@ Madhavendra's glory, while he embraced Him.
 disciples were Ishvara Puri, Nityananda and Advaita); others a disciple of Lakshmipati Tirtha, and hence Madhavendra's
 godbrother; the “Prema-vilasa” names Ishvara Puri as His guru.
 [^20]: Neither the “Chaitanya-bhagavata” nor the “Chaitanya-charitamrita” speaks of Nityananda's initiation by Lakshmipati — this
-is the account of the “Bhakti-ratnakara.” Like Mahaprabhu Himself, who took initiation from Ishvara Puri, Nityananda — the
+is the account of the “Bhakti-ratnakara.” In Pandharpur, having bowed to Vitthalanatha, Nityananda stayed with a gentle brahmana, a disciple of Lakshmipati. The aged Lakshmipati himself came there; at night he prayed to Baladeva for mercy with tears, and Nityananda in the form of Balarama appeared to him in a dream: “Krishna is the Lord of My life; birth after birth be His servant,” — told him to accept the young avadhuta as a disciple and spoke the mantra into his ear. In the morning Nityananda Himself prostrated before him: “Give Me initiation into the mantra and deliver Me,” — and Lakshmipati, “not daring to transgress the command of Sri Baladeva,” initiated Him that same day (BR 5.2294–2306). In a second dream Nityananda showed him the form of Baladeva and then His own, and forbade him to tell of it; soon Lakshmipati passed away. Narahari also cites an ancient verse: “I worship Lord Nityananda, dear to Sriman Lakshmipati, who increases the bliss of the Sri Madhva sampradaya, who is affectionate to His devotees” (5.2310). Like Mahaprabhu Himself, who took initiation from Ishvara Puri, Nityananda — the
 original guru, Baladeva Himself — accepts initiation only in His lila, as an example for people; in Narahari's account He
 even gives Lakshmipati, in the form of Baladeva, the mantra for His own initiation.
 [^21]: Sanyal, like one of the biographies, gives the term of the wanderings as “till the twentieth year of His age” — unlike
