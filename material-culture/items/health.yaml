@@ -1,0 +1,235 @@
+# Здоровье, болезни, лекарства (rubric: town). Формат — material-culture/README.md.
+# Исполнитель `nature`. Уже есть: mc-vaidya-physician (society), mc-vayu-oil-cure (town), mc-shukta и mc-nimba-begun
+# (горькое для пищеварения, food), mc-oil-turmeric-kajal — здесь не повторяются.
+
+- id: mc-vaidya-pharmacy
+  title: {ru: "Аптека вайдьи: трипхала, трикату, куркума", en: "The vaidya's pharmacy: triphala, trikatu, turmeric"}
+  rubric: town
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Нимай советует Мурари Гупте «собирать листья и травы для больных» и поддевает: в грамматике ничего нет о слизи,
+      желчи и несварении — ЧБ Ади 10.21–23. Составы и растения — по U. C. Dutt 1877 (санскритские медицинские трактаты):
+      трипхала (с. 161, 225–226), трикату (с. 241, 253–254), куркума (с. 255–256), ним (с. 136–137); учение о «гуморах»
+      — Введение, с. 4–5. Для XVI в. Бенгалии конкретные рецепты не засвидетельствованы, но тексты (Сушрута,
+      Чакрапани-датта, XI в., бенгалец) старше эпохи.
+    en: >-
+      Nimai advises Murari Gupta to "go and gather leaves and herbs for your patients" and teases him that grammar says
+      nothing of phlegm, bile and indigestion — CB Adi 10.21–23. Compounds and plants after U. C. Dutt 1877 (Sanskrit
+      medical treatises): triphala (pp. 161, 225–226), trikatu (pp. 241, 253–254), turmeric (pp. 255–256), neem (pp.
+      136–137); the doctrine of "humours" — Introduction, pp. 4–5. Specific recipes are not attested for 16th-c. Bengal,
+      but the texts (Sushruta, Chakrapani-datta, an 11th-c. Bengali) predate the period.
+  text:
+    ru: >-
+      В доме вайдьи на полках стоят горшочки с сушёными плодами, корнями и корой, а на каменной плите их растирают в
+      порошки и пасты. Самые ходовые составы — трипхала, «три плода» (харитаки, бибхитаки и амалаки), для очищения и
+      пищеварения, и трикату, «три жгучих» (сушёный имбирь, чёрный и длинный перец), разжигающие пищеварительный огонь.
+      Куркуму с маслом втирают в кожу, кора и листья нима идут от лихорадки и кожных болезней, а лекарства замешивают на
+      мёде, гхи или кунжутном масле. Вайдья ставит диагноз по пульсу и по тому, какая из «основ» тела — ветер, желчь
+      или слизь — расстроена.
+    en: >-
+      In a vaidya's house the shelves hold little pots of dried fruits, roots and bark, ground into powders and pastes
+      on a stone slab. The commonest compounds are triphala, "the three fruits" (haritaki, bibhitaki and amalaki), for
+      cleansing and digestion, and trikatu, "the three pungents" (dried ginger, black and long pepper), which kindle the
+      digestive fire. Turmeric with oil is rubbed into the skin, neem bark and leaves go against fever and skin disease,
+      and medicines are mixed with honey, ghee or sesame oil. The vaidya diagnoses by the pulse and by which of the
+      body's "elements" — wind, bile or phlegm — is disordered.
+  hagiography: ["ЧБ Ади 10.21–23", "ЧЧ Антья 12.106"]
+  sources: ["Dutt, The Materia Medica of the Hindus (1877), Введение с. 4–5; с. 136–137, 161, 225–226, 241, 253–256"]
+  images: []
+  game: {model: "полка с глиняными горшочками и связками трав; каменная плита и курант; плоды харитаки (жёлто-бурые, 3–4 см)",
+         where: ["navadvipa/murari-house"]}
+
+- id: mc-chandanadi-oil
+  title: {ru: "Сандаловое масло Джагадананды", en: "Jagadananda's sandalwood oil"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 12.102–112 и далее: в доме Шивананды Сена приготовили около 15 кг сандалового масла с ароматическими
+      добавками; оно «унимает обострение болезней от питты и вайю» (12.106, питта-ваю-вьядхи-пракопа); Господь
+      отказывается — санньяси нельзя пользоваться ароматным маслом — и велит отдать его на светильники Джаганнатхи;
+      Джагадананда разбивает кувшин во дворе и три дня лежит у себя — 12.119–121. Отличается от лечения маслом в ЧБ Ади 12 (mc-vayu-oil-cure).
+    en: >-
+      CC Antya 12.102–112 ff.: at Shivananda Sena's house about 15 kg of sandalwood oil with aromatic additions was
+      prepared; it "calms flare-ups of disorders of pitta and vayu" (12.106); the Lord refuses — a sannyasi may not use
+      scented oil — and tells them to give it for Jagannatha's lamps; Jagadananda breaks the pot in the courtyard and lies in his room three days — 12.119–121. Distinct from the oil
+      treatment in CB Adi 12 (mc-vayu-oil-cure).
+  text:
+    ru: >-
+      Джагадананда Пандит видел, как Махапрабху в Пури изнуряет Себя разлукой с Кришной, и решил Ему помочь средством
+      вайдьев: в доме Шивананды Сена в Бенгалии сварили большой кувшин сандалового масла с благовониями, которое, втертое
+      в голову, успокаивает расстроенные «желчь и ветер». Джагадананда сам донёс тяжёлый кувшин до Пури. Но Господь
+      сказал: санньяси не подобает ароматное масло, — пусть его жгут в светильниках перед Джаганнатхой. Огорчённый
+      Джагадананда разбил кувшин прямо во дворе и заперся у себя, и через три дня Господь сам пришёл к его двери
+      утешить его.
+    en: >-
+      Jagadananda Pandita saw Mahaprabhu wearing Himself out in Puri with separation from Krishna and resolved to help
+      Him with a vaidya's remedy: at Shivananda Sena's house in Bengal a big pot of sandalwood oil with perfumes was
+      boiled, which, rubbed into the head, soothes a disordered "bile and wind". Jagadananda carried the heavy pot to Puri
+      himself. But the Lord said that scented oil does not befit a sannyasi — let it be burnt in the lamps before
+      Jagannatha. Hurt, Jagadananda broke the pot right in the courtyard and shut himself in, and after three days the Lord Himself came to his door
+      to console him.
+  hagiography: ["ЧЧ Антья 12.102–112", "ЧЧ Антья 12.119–121"]
+  sources: []
+  images: []
+  game: {model: "большой глиняный кувшин с маслом (≈15 л), обвязанный верёвкой для переноски на коромысле", where: ["puri/gambhira"]}
+
+- id: mc-leprosy
+  title: {ru: "Проказа", en: "Leprosy"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Брахман Васудева, прокажённый с червями в ранах, исцелён объятием Господа в Курмакшетре — ЧЧ Мадхья 7.136–146;
+      Гопала Чапала, оскорбивший Шриваса, поражён проказой — ЧЧ Ади 17.45–48; Гопала Чакраварти, оскорбивший Харидаса, —
+      ЧЧ Антья 3.207–212; образ «белого пятна проказы» на прекрасном теле — ЧЧ Ади 16.70–71.
+    en: >-
+      The brahmana Vasudeva, a leper with worms in his sores, healed by the Lord's embrace at Kurmakshetra — CC Madhya
+      7.136–146; Gopala Chapala, who offended Shrivasa, struck with leprosy — CC Adi 17.45–48; Gopala Chakravarti, who
+      offended Haridasa — CC Antya 3.207–212; the image of "a white spot of leprosy" on a beautiful body — CC Adi
+      16.70–71.
+  text:
+    ru: >-
+      Проказа (куштха) была самой страшной болезнью эпохи: от больного отворачивались, его гнали из деревни, а люди
+      считали её карой за грехи. Брахман Васудева на юге Индии был весь в гноящихся язвах, и, когда из раны падал
+      червь, он бережно возвращал его на место, чтобы тот не умер от голода. Махапрабху обнял его — и проказа исчезла,
+      а тело стало прекрасным; Васудева же испугался, как бы теперь в нём не проснулась гордость. В житиях проказа
+      постигает и оскорбителей вайшнавов — Гопалу Чапалу и Гопалу Чакраварти.
+    en: >-
+      Leprosy (kushtha) was the most dreaded disease of the age: people turned from the sick man, drove him from the
+      village and held it a punishment for sins. The brahmana Vasudeva in the south was covered in festering sores, and
+      when a worm fell from a wound he gently put it back so that it would not starve. Mahaprabhu embraced him — and the
+      leprosy vanished and his body became beautiful; Vasudeva only feared that pride might now awaken in him. In the
+      hagiographies leprosy also strikes offenders of Vaishnavas — Gopala Chapala and Gopala Chakravarti.
+  hagiography: ["ЧЧ Мадхья 7.136–146", "ЧЧ Ади 17.45–48", "ЧЧ Антья 3.207–212", "ЧЧ Ади 16.70–71", "ЧЧ Антья 4.189"]
+  sources: []
+  images: []
+  game: {model: "—", where: ["travel/kurmakshetra"], notes: "сцену исцеления показывать бережно, без натурализма"}
+
+- id: mc-sanatana-sores
+  title: {ru: "Язвы Санатаны: болезни дороги", en: "Sanatana's sores: illnesses of the road"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Из-за нечистой воды Джхарикханды и поста на теле появились язвы (кандху), сочащиеся от расчёсов» — ЧЧ Антья 4.5
+      (бенг. джалера доше, упаваса хаите, гатре кандху); Господь обнимает Санатану вопреки гною — 4.21, 4.133, 4.153;
+      исцеление — 4.201–204; Санатана хочет броситься под колесницу — Антья 4.6–13.
+    en: >-
+      "From the bad water of Jharikhanda and fasting, itching sores (kandu) appeared on his body, oozing from
+      scratching" — CC Antya 4.5; the Lord embraces Sanatana despite the pus — 4.21, 4.133, 4.153; the healing —
+      4.201–204; Sanatana's wish to throw himself under the chariot — Antya 4.6–13.
+  text:
+    ru: >-
+      Дальний путь в те времена был опасен для здоровья: в лесах пили воду из луж и прудов, подолгу голодали, и
+      болезни приходили сами. Санатана Госвами шёл один из Вриндавана в Пури через джунгли Джхарикханды, и от плохой
+      воды и поста всё его тело покрылось зудящими мокнущими язвами. Стыдясь, он сторонился Господа, а Махапрабху
+      снова и снова силой обнимал его, пачкаясь гноем, — пока язвы не исчезли и тело Санатаны не засияло, как золото.
+      Харидас понял: болезнь была испытанием, посланным Самим Господом.
+    en: >-
+      A long journey then was dangerous to health: in the forests one drank from puddles and ponds and went hungry for
+      long stretches, and illness came of itself. Sanatana Gosvami walked alone from Vrindavana to Puri through the
+      jungles of Jharikhanda, and from the bad water and fasting his whole body broke out in itching, weeping sores.
+      Ashamed, he kept away from the Lord, but Mahaprabhu embraced him by force again and again, smearing Himself with the
+      pus — until the sores vanished and Sanatana's body shone like gold. Haridasa understood: the illness was a test sent
+      by the Lord Himself.
+  hagiography: ["ЧЧ Антья 4.3–13", "ЧЧ Антья 4.21", "ЧЧ Антья 4.133", "ЧЧ Антья 4.153", "ЧЧ Антья 4.195–204"]
+  sources: []
+  images: []
+  game: {model: "—", where: ["travel/jharikhanda", "puri/haridasa-hut"]}
+
+- id: mc-cholera-amogha
+  title: {ru: "Холера (вишучика)", en: "Cholera (vishuchika)"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Амогха, зять Сарвабхаумы, оскорбил Господа и «наутро заболел вишучикой» (бенг. висӯчика̄-вйа̄дхи — холера или
+      острое кишечное заболевание) — ЧЧ Мадхья 15.266–272; исцелён прикосновением и именем — 15.273–285. Средства от
+      «вишучики» в санскритской медицине — Dutt 1877 (питьё при жажде холеры, с. 225; «амаракшаси» при поносе и холере, с. 112–113).
+    en: >-
+      Amogha, Sarvabhauma's son-in-law, offended the Lord and "in the morning fell ill with vishuchika" (cholera or an
+      acute bowel disease) — CC Madhya 15.266–272; healed by touch and the Name — 15.273–285. Remedies for vishuchika in
+      Sanskrit medicine — Dutt 1877 (a drink for the thirst of cholera, p. 225; "amarakshasi" for diarrhoea and cholera, pp. 112–113).
+  text:
+    ru: >-
+      Вишучика — внезапная болезнь с рвотой, поносом и судорогами, от которой человек мог умереть за один день; так
+      санскритские врачи называли холеру и другие острые расстройства, особенно опасные в жару и в дожди, когда вода
+      портилась. В Пури зять Сарвабхаумы Амогха насмехался над тем, как много ест Махапрабху, а наутро слёг с вишучикой, и
+      все думали, что он умирает. Господь пришёл к нему, положил руку ему на грудь и сказал: «Вставай, Амогха, повторяй
+      имя Кришны!» — и тот вскочил и пустился в пляс, плача и прося прощения.
+    en: >-
+      Vishuchika is a sudden illness with vomiting, diarrhoea and cramps that could kill a man in a single day; so
+      Sanskrit physicians called cholera and other acute disorders, most dangerous in the heat and the rains, when water
+      went bad. In Puri Sarvabhauma's son-in-law Amogha mocked how much Mahaprabhu ate, and by morning lay ill with
+      vishuchika, and everyone thought he was dying. The Lord came, laid His hand on his chest and said, "Get up, Amogha,
+      chant Krishna's name!" — and he leapt up and began to dance, weeping and begging forgiveness.
+  hagiography: ["ЧЧ Мадхья 15.245–285"]
+  sources: ["Dutt 1877, с. 225 (питьё при жажде холеры)"]
+  images: []
+  game: {model: "—", where: ["puri/sarvabhauma-house"]}
+
+- id: mc-fever-jvara
+  title: {ru: "Лихорадка (джвара)", en: "Fever (jvara)"}
+  rubric: town
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      По одному из преданий, младенца Нимая при лихорадке держали под нимом, потому что воздух, проходящий сквозь листья
+      нима, считали целебным, — Sen 1922, с. 109–110 (источник не указан; в наших житиях пока не найдено). Ним и туласи
+      от лихорадки — Dutt 1877, с. 136–137, 219–220. Болотная лихорадка (малярия) Бенгалии — по описаниям XIX в.
+    en: >-
+      By one tradition baby Nimai was kept under a neem tree in fever, because air passing through neem leaves was held
+      to heal — Sen 1922, pp. 109–110 (no source given; not yet found in our hagiographies). Neem and tulasi against fever
+      — Dutt 1877, pp. 136–137, 219–220. The marsh fever (malaria) of Bengal — after 19th-c. accounts.
+  text:
+    ru: >-
+      Лихорадка — самый частый недуг низменной, болотистой Бенгалии, особенно в конце сезона дождей и осенью, когда
+      спадает вода и множатся комары. Её лечили постом и лёгкой пищей, горькими отварами коры нима, гулванчи и других
+      трав, листьями туласи с мёдом. По преданию, которое пересказывает Динешчандра Сен, когда маленький Нимай болел
+      лихорадкой, Его укладывали в тени нима: верили, что ветер, проходя сквозь горькую листву, уносит жар.
+    en: >-
+      Fever is the commonest ailment of low, marshy Bengal, especially at the end of the rains and in autumn, when the
+      waters fall and mosquitoes multiply. It was treated by fasting and light food, bitter decoctions of neem bark,
+      gulancha and other herbs, and tulasi leaves with honey. By a tradition retold by Dineshchandra Sen, when little
+      Nimai had a fever He was laid in the shade of a neem: it was believed that the wind passing through the bitter
+      leaves carried off the heat.
+  hagiography: []
+  sources: ["Sen, Chaitanya and His Age (1922), с. 109–110", "Dutt 1877, с. 136–137 (ним, «Amritashtaka» от лихорадки), 219–220 (туласи)"]
+  images: []
+  game: {model: "—", where: ["mishra-house/courtyard"], notes: "связано с mc-neem-tree"}
+  todo: "найти лихорадку в ЧБ/ЧЧ/Лочане/Джаянанде (болезни спутников, смерть Вишварупы? Лакшмиприи от «змеи разлуки»)"
+
+- id: mc-snakebite-cure
+  title: {ru: "Змеиный укус: как лечили", en: "Snakebite: how it was treated"}
+  rubric: town
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      В житиях — только образы («змея разлуки укусила её» о Лакшмиприе — ЧЧ Ади 16.21; Парикшит и Такшака — ЧЧ Мадхья
+      23.21) и культ Вишахари (mc-manasa-vishahari). Способы лечения — по Dutt 1877 (змеиный яд как лекарство, с. 278;
+      молочай Манасы — Euphorbia neriifolia, бенг. «мансасидж», с. 233–234) и сельской практике XIX в. (заклинатели-оджха): реконструкция.
+    en: >-
+      The hagiographies have only images ("the snake of separation bit her", of Lakshmipriya — CC Adi 16.21; Parikshit
+      and Takshaka — CC Madhya 23.21) and the cult of Vishahari (mc-manasa-vishahari). Treatments after Dutt 1877 (snake
+      venom as medicine, p. 278; Manasa's euphorbia — E. neriifolia, Bengali mansasij, pp. 233–234) and 19th-c. village practice (ojha charmers): a
+      reconstruction.
+  text:
+    ru: >-
+      Змеиный укус в сезон дождей был частой смертью в Бенгалии. Укушенному туго перетягивали ногу или руку выше раны,
+      надрезали место укуса, прикладывали травы и звали оджху — знахаря, который читал заговоры-мантры, «выгоняя» яд,
+      и бил в барабан. Многие давали обет богине змей; у домов сажали колючий молочай (мансасиджу), посвящённый Манасе.
+      Вайшнавы же верили, что от любой беды хранит святое имя — как Харидаса, жившего в пещере рядом с огромной
+      ядовитой змеёй и не чувствовавшего её яда.
+    en: >-
+      Snakebite in the rains was a common death in Bengal. The bitten limb was tied tight above the wound, the bite was
+      cut, herbs were applied, and an ojha was called — a healer who chanted charms to "drive out" the poison and beat a
+      drum. Many made vows to the snake goddess; prickly euphorbia (mansasij), sacred to Manasa, was planted by houses.
+      Vaishnavas trusted that the holy name guards against every harm — like Haridasa, who lived in a cave beside a huge
+      venomous snake and felt nothing of its poison.
+  hagiography: ["ЧБ Ади 16.183–185", "ЧЧ Ади 16.21", "ЧЧ Мадхья 23.21"]
+  sources: ["Dutt 1877, с. 278 (Serpent poison); с. 233–234 (Euphorbia neriifolia — «мансасидж», священна для Манасы)"]
+  images: []
+  game: {model: "—", where: ["navadvipa/lane"]}
+  todo: "PD-описание оджхи (Risley 1891? Sen 1920?)"
