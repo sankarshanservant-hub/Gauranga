@@ -143,7 +143,7 @@ he changed his mind. In the month of Magha 1900, with Bhaktivinoda’s permissio
 at his instruction — Sarasvati Thakura was given *bhagavati-diksha* by Srila Gaurakishora Dasa Babaji, with the name Sri
 Varshabhanavi-dayita Dasa. He became Babaji Maharaja’s only disciple. He later recalled that before this he had seen
 only faults in many people of lofty character, until Bhaktivinoda in his kindness showed him his Prabhu. Gaurakishora
-he always called “Prabhu,” and his father “Vibhu.” <!-- F239 F39 F276 -->
+he called “Prabhu,” and his father “Vibhu.” <!-- F239 F39 F276 -->
 
 ## Puri: Bhakti-kuti and the “Vaishnava-manjusha”
 In March 1900 he accompanied his father to Baleshvar and Remuna, where they had darshana of Kshirachora Gopinatha, then
@@ -479,7 +479,7 @@ Mukhopadhyaya, Dr. Radha Kamal Mukhopadhyaya, Dr. A. N. Sen Gupta and others. <!
 On 8 January 1930 the great scholar Dr. Haraprasad Shastri visited him; they spoke of the history of the Vaishnava
 sampradayas and of the Gaudiya sampradaya, of the dates of the acharyas, of the Pancharatra and of Sri Chaitanya. In
 mid-January, at the Purna Kumbha Mela in Prayaga, the preachers of the Chaitanya Math spoke of Mahaprabhu’s teachings to
-Rupa Gosvami, and he installed at the Triveni Radha-Govinda — the life and soul of Sri Rupa. <!-- F107 F108 -->
+Rupa Gosvami, and he installed at the Triveni Radha-Govinda, dearer to Sri Rupa than life itself. <!-- F107 F108 -->
 
 From 3 February to 17 March 1930 an unprecedented diorama exhibition was held in Navadvipa-Mayapur; it was opened by
 the renowned chemist Dr. Prafulla Chandra Ray. On 18 February, the day of his Vyasa-puja, a memorial of the acharya’s
@@ -616,8 +616,9 @@ and his wife and members of the Joint Parliamentary Committee heard the missiona
 the Archbishop of Canterbury, Cosmo Gordon Lang. <!-- F137 F138 -->
 
 On 20 July 1933, at four in the afternoon, the Secretary of State for India, Sir Samuel Hoare, presented the preachers of
-the Gaudiya Math to King George V and Queen Mary, and Svami Bon Maharaja told them the purpose of the mission. Many
-British governors and the Viceroy of India himself were impressed by his addresses; he spoke at British and German
+the Gaudiya Math to King George V and Queen Mary, and they told them the purpose of the mission: so the King and Queen
+of England became Svami Bon Maharaja’s listeners. His
+addresses impressed numerous British governors and even the Viceroy of India; he spoke at British and German
 universities. On 7–8 October the preachers spoke on the Holy Name to a gathering of professors and students at Oxford,
 on 24–25 November at the Theosophical Society in Eastbourne, on 10 December at the “Deutsche Akademie” in Munich, on 12
 December at the “Humboldt-Haus” in Berlin, then in Königsberg and at the Institute of Indian Civilisation in Paris; on
@@ -1186,7 +1187,7 @@ Mahaprabhu kept the treasure of prema, he carried that treasure to Mayapur and g
     of the biographies and by the “Sarasvati-jayashri,” the book on his life compiled by his disciples in his lifetime
     (1934); another biography and “Our Teachers” give 7 March. Gaura-purnima in 1918 fell on 27 March, so the date “7 March”
     is apparently mistaken.
-[^11]: The first among Mahaprabhu’s followers in his line, where sannyasa had not been accepted before him; Mahaprabhu
+[^11]: The first among Mahaprabhu’s followers in the line of Sri Rupa, where sannyasa had not been accepted before him; Mahaprabhu
     Himself of course accepted sannyasa, and what is meant here is the tridandi sannyasa that he introduced among his
     disciples.
 [^12]: So according to one of the biographies and “Our Teachers”; another biography says that he installed here the
