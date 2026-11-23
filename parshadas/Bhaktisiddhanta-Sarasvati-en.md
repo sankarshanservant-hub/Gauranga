@@ -879,7 +879,7 @@ word *naktam*, “by night.” This embrace is not worldly passion but the highe
 Gaurasundara.
 
 His sacred body was taken to Sri Mayapur and laid in samadhi at the Sri Chaitanya Math, by Vraja-pattana — the place of
-his bhajana — beside the samadhi of his guru, Srila Gaurakishora. Later Sripad Bhakti Vilas Tirtha Maharaja built his
+his bhajana — beside the samadhi of his guru, Srila Gaurakishora. Later Sripad Bhakti Vilasa Tirtha Maharaja built his
 samadhi temple there and had Shyama-kunda dug in front of it.
 
 ## “The Sun of the Gaudiya Sampradaya”

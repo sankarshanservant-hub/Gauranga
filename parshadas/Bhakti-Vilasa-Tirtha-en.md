@@ -15,7 +15,7 @@ Vilas Tirtha Maharaj,” and “Our Teachers” names him among those great disc
 became teachers.
 
 ## Appearance and Childhood
-He appeared in the village of Chanchri-Purulia (Chanchuri-Purulia), Kalia police station, Narail subdivision, Jessore
+He appeared in the village of Chanchuri-Purulia, Kalia police station, Narail subdivision, Jessore
 district, in present-day Bangladesh. The day of his appearance is gaura-saptami, the seventh day of the bright fortnight
 of the month of Vishnu (Chaitra): so the calendar of the Sri Chaitanya Saraswat Math observes it. The year, by our
 reckoning, is 1895.[^1]
@@ -104,25 +104,27 @@ needed and nothing more.[^7]
 
 ## “The Second Form of the Guru”
 How highly Srila Bhaktisiddhanta himself valued him is seen from his own words. In 1932, for the fifty-eighth
-anniversary of his appearance, he wrote an address for the Vyasa-puja and said in it of Kunjavihari: such a matchless
+anniversary of his appearance, he wrote a reply to the Vyasa-puja addresses and said in it of Kunjavihari: such a matchless
 inclination to serve is rarely found among people. On the day when his own guru, Srila Gaurakishora, left this world,
 Kunjavihari appeared to him as a second form of the guru, and from then on did not let him serve by himself, taking for
 himself every opportunity of service. Thus he gave full scope to the blessing Srila Bhaktisiddhanta had received from his
-guru: “May your inclination to serve Krishna increase.”[^8]
+guru: “May the inclination to serve Krishna increase.”[^8]
 
-In the same address Srila Bhaktisiddhanta plays on his name. Kunjavihari — “He who sports in the groves” — is a name of
-Krishna, and the guru says that “in his kunja” the community of the servants of the Gaudiya Math, together with the holy
-dhama, has obtained the service of Sri Gandharva-Giridhari — Radha and Krishna. One of Kunjavihari's undertakings became
+In the same address Srila Bhaktisiddhanta plays on his name. Kunjavihari — “He who sports in the grove” — is a name of
+Krishna, and the guru says that for the sake of the pastimes in his, Kunjavihari's, kunja the community of the servants
+of the Gaudiya Math, together with the holy dhama, has obtained the service of Sri Gandharva-Giridhari — Radha and
+Krishna. One of Kunjavihari's undertakings became
 the chief aim of that year: the exhibition “Gaudiya Math Pradarshani,” in which the truth appeared to people suffering
 under the three gunas visibly, as the Lord appears in His worshipable form (*archa-murti*). And further the guru says:
 watered with hearing and chanting, the “Sri Vishva-vaishnava-raja-sabha,” through the branches of this embodiment of
-selfless love, will grow a kunja where Kunjavihari — Krishna Himself — together with Sri Gandharva-Giridhari will
-manifest the wish-fulfilling tree of which the beginning of the “Charitamrita” sings:
+selfless love, will grow a kunja, and in that kunja Kunjavihari, together with Sri Gandharva-Giridhari, of Whom the beginning of the
+“Charitamrita” sings, will manifest the wish-fulfilling tree:
 
 “I remember Sri Sri Radha and Sri Govindadeva, seated on a throne in a beautiful temple of jewels beneath a
 wish-fulfilling tree in the radiant forest of Vrindavana, served by Their dearest companions.” (CC, Adi 1.16)
 
-For this kunja, surrounded by *tamala* trees, he prays: “*tamalibhih parivritam idam eva yache*” — “this alone I ask.”
+This tree is a vow, a prayer for this kunja surrounded by *tamala* trees: “*tamalibhih parivritam idam eva yache*” —
+“this alone I ask.”
 And he ends thus: “If I could become a dog in the abode of this embodiment of love, I would consider my life
 blessed.”[^9]
 
@@ -149,7 +151,7 @@ servant — asked a brahmachari with a good voice to sing. Sridhar Maharaj himse
 Sripad Bhakti Vilas Tirtha Maharaj, asked a brahmachari: ‘You sing.’ He began to sing, but Prabhupada was displeased. He
 said: ‘I do not need correct intonation or sweet sounds.’ And I had to sing ‘Sri Rupa-Manjari-pada’” (“Our Teachers”).
 
-On Thursday, 31 December 1936, Srila Bhaktisiddhanta dictated in English his “Guiding Principles”: “Form a Governing
+On Thursday, 31 December 1936, Srila Bhaktisiddhanta gave in English his “Guiding Principles”: “Form a Governing
 body of 10 to 12 persons for Management of Mission work but Kunja Babu will manage so long as he lives. Kunja Babu’s
 sympathy for me brought me in connection with so many persons. His intelligence excelled all. His sympathy for me knows
 no bound. I advise you (Kunja Babu) to be courageous and callous, as I am callous to all. This should be your guiding
@@ -190,8 +192,8 @@ publications and only four to the upkeep of the math; and his brahmacharis give 
 
 He made it his rule to visit every Gaudiya Math in the country at least once a year, with large meetings and festivals,
 and all year round he sent parties of sannyasis and brahmacharis to the remotest villages of Bengal, Bihar and Orissa.
-At his request his godbrother, Srila Bhakti Pramoda Puri Goswami Maharaj, served for seven years as head pujari of the
-Yogapitha temple — the birthplace of Mahaprabhu.
+It was at his request that his godbrother, Srila Bhakti Pramoda Puri Goswami Maharaj, was for seven years the chief
+priest of the Yogapitha temple, where Mahaprabhu appeared.
 
 ## Publications and Presses
 On taking up the service of acharya he arranged the publication of the “Gaudiya” — now a monthly journal from
@@ -380,15 +382,21 @@ the Chief Justice of West Bengal, Shankar Prasad Mitra.
 
 ## Disciple and Teacher
 Among Tirtha Maharaj's disciples one was especially dear to him: Nandadulal Brahmachari, later Srila Bhakti Prajnana
-Yati Gosvami Maharaja. He recalled: he first came to Mayapur in 1950 but found neither the acharya nor the president of
+Yati Gosvami Maharaja. As a boy he saw a picture that preaching sannyasis had brought to his village: Srila
+Bhaktisiddhanta seated, and beside him, standing, his beloved “Kunja-da” — and he prayed that he might give himself to
+the feet of this “Kunja-da.” Later he recalled: he first came to Mayapur in 1950 but found neither the acharya nor the president of
 the math; the second time was at the end of 1951. For a full ten months his gurudeva himself taught him Gaudiya
 Vaishnava philosophy, and in 1952 sent him to Madras. Nobody so devoted, practical and disciplined as his gurudeva, the
 disciple said, had he ever met: not a single superfluous word, his whole life by the clock; he was never a second late
 anywhere and never spoke longer than necessary, and until the age of eighty he worked on books eight to ten hours a
 day.
 
-The guru wrote him letters: on 22 November 1957 — about the unprecedented organization of preaching in the south; on
-7 December 1968 and 19 March 1969 — about the golden jubilee; on 13 July 1970 — that a great responsibility for the
+The guru wrote him letters: on 22 November 1957 — about the unprecedented organization of preaching in the south: it
+was a wonderful event, and such an ideal of service would be written in letters of gold in the history of the Gaudiyas;
+on 7 December 1968, before the golden jubilee, — that Srila Prabhupada himself was leading the disciple to success, and
+on 19 March 1969 — that the jubilee had been brilliantly concluded and the disciple's service had made new history; on
+3 June 1973, from the road of the special train, — that Srila Prabhupada, for whose service this daring journey had
+been undertaken, was pouring his blessings on him: “divine power is your driving force”; on 13 July 1970 — that a great responsibility for the
 mission would fall on the disciple and that this was Srila Prabhupada's blessing. When Yati Maharaj wrote on 25 July
 1970 that missionary work had never interested him, the guru replied the next day: “Yati Maharaj, this judgement is
 wrong,” and blessed him in English: “You have opened a new chapter in the annals of Gaudiya Vaishnavism. Srila
@@ -410,9 +418,8 @@ On 10 September 1976, at 3.20 in the afternoon, he left this world. The biograph
 passed from the material world into the spiritual world. By our calendar the day of his departure is the
 krishna-dvitiya of the month of Padmanabha; he was eighty-one.
 
-His sacred body was taken to Mayapur and given samadhi where he had first met his gurudeva — at Vraja-pattana, next to
-the samadhi temple of Srila Bhaktisiddhanta: so that, as the biography says, hand in hand with his guru he might remain
-in loving service to Sri Sri Radha-Govinda.
+His sacred body was taken to Mayapur and given samadhi where he had first met his gurudeva — at Vraja-pattana: so that, as
+the biography says, hand in hand with his guru he might remain in loving service to Sri Sri Radha-Govinda.[^24]
 
 The news of his departure spread throughout India. Newspapers wrote, meetings were held, hundreds of letters and
 telegrams arrived — from the Vice-President of India, governors, judges, high officials; leaders and heads of maths and
@@ -423,7 +430,8 @@ After his departure preaching and building in the mission came almost to a stand
 Vishva-vaishnava-raja-sabha” ceased to meet and gathered again only on 9–11 March 1990. The centenary of his appearance
 was celebrated by the Sri Chaitanya Math from 25 to 28 March 1994, together with the meeting of the
 “Navadvipa-dhama-pracharini Sabha,” and the year-long celebration concluded on 24–28 October 1994 in the
-natya-mandiras of the Sri Chaitanya Math and the Yogapitha.
+natya-mandiras of the Sri Chaitanya Math and the Yogapitha; there Yati Maharaj spoke especially of what his guru had
+done for Mayapur.
 
 ## Significance
 Tirtha Maharaj's life is above all service to the guru. A postal clerk of small means, he rented a house on borrowed
@@ -460,7 +468,9 @@ sentinel-bhagavata, like a morning bell,” calling the people of the whole worl
     he, then the manager of the math.
 [^8]: Srila Bhaktisiddhanta says these words in praise of his disciple's service; they are not a teaching that
     Kunjavihari is an incarnation of Srila Gaurakishora.
-[^9]: The word “dog” here is an ordinary Vaishnava image of humility: the acharya wishes to be the lowest servant in the
+[^9]: The name Kunjavihari in these words can be understood in two ways — as the disciple's name and as the name of
+    Krishna who sports in the grove; the guru does not call his disciple Krishna: Kunjavihari's “kunja” is his service,
+    in which Radha and Krishna manifest Their pastimes. The word “dog” here is an ordinary Vaishnava image of humility: the acharya wishes to be the lowest servant in the
     abode of a Vaishnava. The line about the tamalas we have not found in the “Charitamrita” or in other texts translated
     by us; the translation is ours. The words “watered with hearing and chanting” recall CC, Madhya 19.152: “Becoming a
     gardener, he plants that seed and waters it with hearing and chanting.”
@@ -492,3 +502,6 @@ sentinel-bhagavata, like a morning bell,” calling the people of the whole worl
 [^23]: Srila Bhaktisiddhanta had already installed Deities in the Ramananda Gaudiya Math, in 1932. Srila Sridhar Maharaj
     recalled that in Srila Bhaktisiddhanta's time there was at Kovvur only a temple over Mahaprabhu's footprints (a
     pada-pitha), and that the separate temple was built later, “probably by Sripad Bhakti Vilas Tirtha Maharaj.”
+[^24]: His disciple's account also mentions a samadhi temple of Srila Bhakti Vilasa Tirtha on the bank of Sri
+    Radha-kunda: Yati Maharaj himself was placed in samadhi beside it in 2018. How the two places are related the
+    biographies do not explain.
