@@ -242,14 +242,14 @@
     ru: >-
       Кришнадас Кавирадж перечисляет, что жена Адвайты приготовила для Махапрабху: патол, тыква-лау, клубни манакачу,
       салат из имбиря, разные шпинаты, горьковатое шукто, баклажаны, жаренные с молодыми листьями нима, тыква в
-      молоке, карри из банановых цветов, лепёшки-бара из мунга и урада, блюдо из кокоса, простокваша, сладкий рис.
+      молоке, карри из банановых цветов, лепёшки-бара из мунга и урада, мякоть кокоса, чхана с сахаром, сладкий рис.
       Острота шла от имбиря и чёрного перца — чили в Бенгалии ещё не знали; картофеля и томатов тоже не было.
     en: >-
       Krishnadasa Kaviraja lists what Advaita's wife cooked for Mahaprabhu: patol, lau gourd, manakachu tubers, a
       ginger salad, several spinaches, bitter shukto, aubergine fried with tender neem leaves, gourd cooked in milk, a
-      banana-flower curry, bara fritters of mung and urad, a coconut dish, curd and sweet rice. Pungency came from
+      banana-flower curry, bara fritters of mung and urad, coconut flesh, chhana with sugar and sweet rice. Pungency came from
       ginger and black pepper — chilli was not yet known in Bengal, nor were potatoes or tomatoes.
-  hagiography: ["ЧЧ Мадхья 3.44–54", "ЧЧ Антья 10 (угощения преданных — следующая порция)"]
+  hagiography: ["ЧЧ Мадхья 3.44–54", "см. также food.yaml (блюда поимённо, рецепты)"]
   sources: ["Sen 1911, с. 608 (списки блюд вайшнавов — ЧЧ Мадхья 3 и 15, Джаянанда)",
             "Sen 1911, с. 247–248 (порядок трапезы: шукта первой — Рамешвара, XVIII в.)",
             "Sen 1911, с. 24 («Дак-вачана»: сезонная еда — горчичное масло, имбирь, ним, кхаи)",
@@ -319,25 +319,31 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Слово *сандеш́а* — в ЧБ Ади 4.96 (*сандеш́а-кала̄*), 4.116. Состав сандеша в XV–XVI вв. неясен: привычный ныне
-      сандеш из творога-чханы, по распространённому мнению историков кухни, сложился позднее (XVIII–XIX вв.);
-      раньше так могли называть сладости из уваренного молока и сахара. Вопрос к специалисту.
+      Слово *сандеш́а* — в ЧБ Ади 4.96 (*сандеш́а-кала̄*), 4.116. Чхана (творог из свёрнутого молока) в житиях
+      есть: *чха̄на̄, ш́аркара̄* — ЧЧ Мадхья 3.48 (в нашем переводе — «простокваша»), *чха̄на̄* — ЧЧ Мадхья 14.26,
+      *чхана-бада* — ЧЧ Мадхья 15.210. Поздним, по распространённому мнению историков кухни (XVIII–XIX вв.), был именно
+      прессованный сандеш из чханы; что называли «сандешем» в XVI в. — вопрос к специалисту. Долго хранящиеся сладости
+      из уваренного молока — *кш̣ӣраса̄ра, ман̣д̣а* (ЧЧ Антья 10.26).
     en: >-
-      The word sandesha occurs in CB Adi 4.96 (sandesha-kala), 4.116. What sandesh was made of in the 15th–16th c. is
-      unclear: today's chhana (curd-cheese) sandesh is widely thought by food historians to be later (18th–19th c.);
-      earlier the word may have meant sweets of reduced milk and sugar. A question for a specialist.
+      The word sandesha occurs in CB Adi 4.96 (sandesha-kala), 4.116. Chhana (curd from split milk) does occur in the
+      hagiographies: chhana, sharkara — CC Madhya 3.48 (rendered 'curd' in our translation), chhana — CC Madhya 14.26,
+      chhana-bada — CC Madhya 15.210. What is widely thought late (18th–19th c.) is specifically the pressed chhana
+      sandesh; what 'sandesh' meant in the 16th c. is a question for a specialist. Long-keeping sweets of reduced milk —
+      kshirasara, manda (CC Antya 10.26).
   text:
     ru: >-
       Прохожие на улицах Навадвипы дарили малышу Нимаю бананы и сандеш, а Он раздавал угощение женщинам, которые пели
       святые имена; даже воры, уносившие Его, задабривали Его сандешем. Сладости делали из уваренного молока, сахара,
-      кокоса, кунжута и рисовой муки. Сандеш, какой знают сейчас, — из свежего творога-чханы — по-видимому, появился
-      позднее, поэтому в игре сладости эпохи — молочно-сахарные шарики и лепёшки.
+      кокоса, кунжута и рисовой муки. Чхану с сахаром подавали Господу уже в Шантипуре, но
+      привычный сегодня прессованный сандеш, по-видимому, сложился позднее, поэтому в игре сладости эпохи — молочно-
+      сахарные шарики, лепёшки и чхана с сахаром.
     en: >-
       Passers-by in Navadvipa gave little Nimai bananas and sandesh, and He shared the treats with the women who sang
       the holy names; even the thieves who carried Him off coaxed Him with sandesh. Sweets were made from reduced
-      milk, sugar, coconut, sesame and rice flour. Sandesh as known today — from fresh chhana curd — seems to have come
-      later, so in the game the sweets of the period are milk-and-sugar balls and cakes.
-  hagiography: ["ЧБ Ади 4.94–97", "ЧБ Ади 4.116", "ЧЧ Ади 14.24", "ЧЧ Мадхья 14.31 (кунжутные сладости и пр.)",
+      milk, sugar, coconut, sesame and rice flour. Chhana with sugar was already served to the Lord at Shantipur, but
+      today's pressed sandesh seems to have taken shape later, so in the game the sweets of the period are
+      milk-and-sugar balls, cakes and chhana with sugar.
+  hagiography: ["ЧЧ Мадхья 3.48 (*чха̄на̄, ш́аркара̄*)", "ЧЧ Мадхья 14.26", "ЧЧ Мадхья 15.210", "ЧБ Ади 4.94–97", "ЧБ Ади 4.116", "ЧЧ Ади 14.24", "ЧЧ Мадхья 14.31 (кунжутные сладости и пр.)",
                 "ЧЧ Антья 10.25–26 (*кш̣ӣраса̄ра, ман̣д̣а* — долго хранящиеся сладости из уваренного молока)"]
   sources: ["Bose 1881, с. 23 (sundesh и batasha на хари-лут — творожный сандеш XIX в., не для эпохи)"]
   images: []
