@@ -402,3 +402,215 @@
   sources: ["Sen 1911, с. 389", "Taylor 1840, с. 260 (цирюльник в свадебной смете бедняка)", "Bose 1881, с. 169 (лишить цирюльника — кастовое наказание)"]
   images: [{file: "material-culture/img/tayler-1842-village-bengal-barber.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Tayler, лит. O. Bouvier (1842); Wellcome Collection 37172i", url: "https://wellcomecollection.org/works/xdevqe2e"}]
   game: {model: "цирюльник с открытой бритвой, медной чашечкой воды и ящичком; сидит на корточках перед сидящим", where: ["katwa"]}
+
+# --- Порция 3: одежда по людям ---
+
+- id: mc-widow-dress
+  title: {ru: "Вдова: белая ткань без украшений", en: "The widow: white cloth, no ornaments"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Эпоха: «Манаса-мангал» (Виджай Гупта, 1494, и др.) — вдовы Чанда надевают белое вдовье сари, стирают синдур,
+      ломают раковинные браслеты (Sen 1911, с. 262). Жития: Шачи — «овдовевшая матушка» (ЧБ Мадхья 26.174, 27.32);
+      вдова брахмана — ЧЧ Антья 3.15–16; Лакшахира оставляет одну ткань и бреет голову — ЧЧ Антья 3.139 (обет
+      отречения, не вдовство). Позднее: вдова без цветной каймы и украшений, кроме бус, голова обрита — Solvyns 1804,
+      pl. XXXVIII; простые белые дхоти вдов — N. G. Mukerji 1903.
+    en: >-
+      Period: the Manasa-mangal (Vijay Gupta, 1494, and others) — Chand's widowed daughters-in-law put on the widow's
+      white sari, wipe away their sindur and break their shell bangles (Sen 1911, p. 262). Hagiographies: Shachi, "the
+      widowed mother" (CB Madhya 26.174, 27.32); a brahmin's widow — CC Antya 3.15–16; Lakshahira keeps one cloth and
+      shaves her head — CC Antya 3.139 (a vow of renunciation, not widowhood). Later: a widow with no coloured border
+      and no ornaments but beads, head shaved — Solvyns 1804, pl. XXXVIII; plain white dhotis for widows — N. G.
+      Mukerji 1903.
+  text:
+    ru: >-
+      Овдовев, бенгальская женщина стирала синдур с пробора, ломала раковинные браслеты и надевала белую ткань без
+      цветной каймы; украшения она больше не носила, разве что простые бусы. Так описывают вдов уже поэты конца XV в.
+      После ухода Джаганнатхи Мишры такой стала и Шачи-мата: преданные, отговаривая Нимая от санньясы, напоминали Ему,
+      что Он — единственная опора овдовевшей матери. Вдова вела строгую жизнь: постилась, ела раз в день и посвящала
+      себя служению Господу и семье.
+    en: >-
+      Widowed, a Bengali woman wiped the sindur from her parting, broke her shell bangles and put on white cloth with no
+      coloured border; she wore ornaments no more, save perhaps plain beads. So poets of the late 15th century already
+      describe widows. After Jagannatha Mishra's departure Shachi-mata became such a widow: when devotees tried to
+      dissuade Nimai from sannyasa, they reminded Him that He was the only support of His widowed mother. A widow led a
+      strict life: she fasted, ate once a day and gave herself to serving the Lord and the family.
+  hagiography: ["ЧБ Мадхья 26.174", "ЧБ Мадхья 27.32", "ЧЧ Антья 3.15–16", "ЧЧ Антья 3.139"]
+  sources: ["Sen 1911, с. 262 (Манаса-мангал)", "Solvyns 1804, pl. XXXVIII", "N. G. Mukerji 1903 (белые дхоти вдов)", "Taylor 1840, с. 265"]
+  images: []
+  game: {model: "Шачи после смерти мужа: белое сари без каймы, голова покрыта краем, без шакхи и синдура; тонкие бусы",
+         where: ["mishra-house/courtyard"]}
+  todo: "Брили ли вдовы голову в Бенгалии XVI в.? (Сольвинс — кон. XVIII в.) Однократное питание и экадаши вдов — подтвердить ранним текстом."
+
+- id: mc-bhota-kambala
+  title: {ru: "Шерстяной плед за три золотых", en: "The woollen blanket worth three gold coins"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 20.36 (старый плед), 20.44 (*бхот̣а-камбала* от Шриканты), 20.82–92 (Господь поглядывает на плед;
+      «ценой в три золотых»; обмен на старую накидку у Ганги). *Бхота* — Тибет/Бутан, откуда шла шерсть.
+    en: >-
+      CC Madhya 20.36 (an old blanket), 20.44 (a *bhota-kambala* from Shrikanta), 20.82–92 (the Lord glances at the
+      blanket; "worth three gold coins"; exchanged for an old cloth by the Ganga). *Bhota* — Tibet/Bhutan, whence the
+      wool came.
+  text:
+    ru: >-
+      Шерсть в жаркой Бенгалии была роскошью: тёплые пледы-*камбалы* привозили с гор, из «Бхота» — Тибета и Бутана.
+      Когда бежавший из тюрьмы Санатана шёл в Каши, зять Шрикант подарил ему новый бхотский плед. Махапрабху ничего не
+      сказал, но то и дело поглядывал на него; Санатана понял, пошёл к Ганге и выменял плед на старую, протёртую
+      накидку бенгальца, сушившего её на берегу. Тогда Господь объяснил: плед ценой в три золотых не к лицу тому, кто
+      живёт подаянием.
+    en: >-
+      Wool was a luxury in hot Bengal: warm *kambala* blankets came from the mountains, from "Bhota" — Tibet and Bhutan.
+      When Sanatana, escaped from prison, was on his way to Kashi, his brother-in-law Shrikanta gave him a new Bhota
+      blanket. Mahaprabhu said nothing but kept glancing at it; Sanatana understood, went to the Ganga and traded the
+      blanket for the old, threadbare cloth of a Bengali who was drying it on the bank. Then the Lord explained: a
+      blanket worth three gold coins does not befit one who lives on alms.
+  hagiography: ["ЧЧ Мадхья 20.36", "ЧЧ Мадхья 20.42–44", "ЧЧ Мадхья 20.82–92"]
+  sources: []
+  images: []
+  game: {model: "плотный серо-бурый шерстяной плед с полосой, ≈1,5×2 м; рядом — выцветшая протёртая хлопковая накидка",
+         where: ["kashi/ganga-ghat"]}
+
+- id: mc-wealthy-brahmin
+  title: {ru: "Убор богатого брахмана: Пундарика Видьянидхи", en: "A wealthy brahmin's style: Pundarika Vidyanidhi"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Мадхья 7.57–69: кушетка под красной тканью, балдахины, кровать под тонким шёлком, кувшины *джха̄ри*, латунная
+      коробка с паном (*питалера ба̄т̣а̄*), плевательницы (*а̄лава̄т̣и*), зеркало, опахала из павлиньих перьев, тилака
+      *ӯрдхва-пун̣д̣ра* из сандала с точками, волосы с маслом *а̄малаки*, паланкин.
+    en: >-
+      CB Madhya 7.57–69: a couch draped in red cloth, canopies, a bed under fine silk, *jhari* water pots, a brass pan
+      box (*pitalera bata*), spittoons (*alavati*), a mirror, peacock-feather fans, an *urdhva-pundra* tilaka of sandal
+      with dots, hair dressed with *amalaki* oil, a palanquin.
+  text:
+    ru: >-
+      Пундарика Видьянидхи, великий преданный из Читтагонга, жил как принц — и этим смутил Гададхару. Он сидел на
+      кушетке под красной тканью с медными подлокотниками, под тремя балдахинами; рядом — кровать под тончайшим шёлком,
+      пять-семь кувшинов с водой, латунная коробочка с готовым паном и две плевательницы. Жуя бетель, он поглядывал в
+      зеркало на покрасневшие губы, а двое слуг непрерывно обмахивали его опахалами из павлиньих перьев. На лбу —
+      вертикальная тилака из сандала с точками сандала и киновари, волосы уложены и умащены маслом амалаки. Но
+      Мукунда прочёл стих о бхакти — и Видьянидхи упал без чувств в слезах любви: роскошь была лишь покровом.
+    en: >-
+      Pundarika Vidyanidhi, a great devotee from Chittagong, lived like a prince — and so puzzled Gadadhara. He sat on a
+      couch draped in red cloth with brass armrests, under three canopies; beside him a bed under the finest silk,
+      five or seven water pots, a brass box of ready pan and two spittoons. Chewing betel, he glanced into a mirror at
+      his reddened lips, while two servants fanned him without pause with peacock-feather fans. On his forehead a
+      vertical tilaka of sandal with dots of sandal and vermilion; his hair dressed and scented with amalaki oil. But
+      when Mukunda recited a verse on bhakti, Vidyanidhi fell senseless in tears of love: the luxury was only a veil.
+  hagiography: ["ЧБ Мадхья 7.57–69", "ЧБ Мадхья 7.73–88"]
+  sources: []
+  images: []
+  game: {model: "кушетка с красным покрывалом и медными подлокотниками, балдахин; латунная коробка-бата для пана; плевательница; ручное зеркало; два павлиньих опахала",
+         where: ["navadvipa/pundarika-house"]}
+
+- id: mc-king-attire
+  title: {ru: "Царь и его знаки: Пратапарудра", en: "The king and his insignia: Prataparudra"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 14.4–7 (царь снимает царские наряды и входит в сад в одежде вайшнава), 11.55 (совет прийти «не в
+      царских одеждах»), 14.129–130 (царское шествие: опахала, зонты, флаги, служанки с бетелем и кувшинами), 13.15–16
+      (золотая метла; см. mc-king-sweeper); Антья 9.107 (царь надевает шёлк на Гопинатху). Царский зонт — общий
+      индийский знак власти (ср. «imperial umbrella» у Калидасы — Mukharji 1888, вводная часть; золотой зонт царя в
+      мангал-кавьях — Sen 1911).
+    en: >-
+      CC Madhya 14.4–7 (the king removes his royal dress and enters the garden in Vaishnava dress), 11.55 (advised to
+      come "not in royal garments"), 14.129–130 (a royal procession: fans, umbrellas, flags, maids with betel and water
+      pots), 13.15–16 (the golden broom; see mc-king-sweeper); Antya 9.107 (the king puts silk on Gopinatha). The royal
+      umbrella — a general Indian emblem of sovereignty (cf. the "imperial umbrella" in Kalidasa — Mukharji 1888,
+      introduction; the king's golden umbrella in mangal-kavyas — Sen 1911).
+  text:
+    ru: >-
+      Царя Ориссы узнавали издали: над ним держали белый зонт-чхатру, рядом — опахала и чамары, впереди шли музыканты и
+      знаменосцы, а служанки несли бетель и кувшины с водой. Но чтобы приблизиться к Махапрабху, который избегал царей,
+      Пратапарудра по совету Сарвабхаумы снял царский наряд и вошёл в сад один, в простой одежде вайшнава. Господь лежал
+      в трансе, и царь стал растирать Ему стопы, читая стихи «Гопи-гиты», — и Махапрабху обнял его.
+    en: >-
+      The king of Orissa could be known from afar: a white umbrella (chhatra) was held over him, fans and chamaras beside
+      him, musicians and standard-bearers went ahead and maids carried betel and water pots. But to approach
+      Mahaprabhu, who avoided kings, Prataparudra on Sarvabhauma's advice laid aside his royal dress and entered the
+      garden alone, in a Vaishnava's plain clothes. The Lord lay in trance, and the king began to massage His feet,
+      reciting verses of the Gopi-gita — and Mahaprabhu embraced him.
+  hagiography: ["ЧЧ Мадхья 11.55", "ЧЧ Мадхья 14.4–7", "ЧЧ Мадхья 14.129–130", "ЧЧ Антья 9.107"]
+  sources: []
+  images: []
+  game: {model: "белый царский зонт на длинном шесте, чамары из хвоста яка; царь в простом белом дхоти и накидке без украшений",
+         where: ["puri/gundicha-garden"]}
+  todo: "Царский костюм Ориссы XVI в. (тюрбан, украшения) — по храмовым рельефам/рукописям;"
+
+- id: mc-muslim-dress
+  title: {ru: "Одежда мусульман Бенгалии", en: "Dress of the Muslims of Bengal"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Эпоха: Барбоза (ок. 1514–1518), пер. Stanley 1866, с. 180 — знатные мусульмане Бенгалии и простой народ (подробно).
+      Жития: при дворе султана — лекарь Мукунда и слуга с павлиньим опахалом за султаном (ЧЧ Мадхья 15.120–123); Кази
+      Навадвипы (ЧБ Мадхья 23.101–112; одежда не описана); Рупа и Санатана — министры султана (ЧЧ Мадхья 1). ⚠ Барбоза
+      описывает портовый город «Бенгала».
+    en: >-
+      Period: Barbosa (c. 1514–1518), tr. Stanley 1866, p. 180 — Bengal's Muslim nobles and common people (in detail).
+      Hagiographies: at the sultan's court — the physician Mukunda and a servant with a peacock fan behind the sultan
+      (CC Madhya 15.120–123); the Kazi of Navadvipa (CB Madhya 23.101–112; his dress not described); Rupa and Sanatana
+      as the sultan's ministers (CC Madhya 1). ⚠ Barbosa describes the port city "Bengala".
+  text:
+    ru: >-
+      Мусульмане, в отличие от индусов, носили шитую одежду. Знатный мусульманин Бенгалии в дни Махапрабху ходил в
+      длинной белой рубахе из тонкой ткани до самых щиколоток, под ней — обёрнутая вокруг пояса ткань, поверх —
+      шёлковый кушак с кинжалом в серебре, на пальцах перстни, на голове — тонкая хлопковая шапочка. Простые люди
+      носили короткие белые рубахи до середины бедра, штаны и маленькую чалму в три-четыре оборота, а обувь — кожаную,
+      расшитую шёлком и золотой нитью. Таким, вероятно, видели Кази Навадвипы и придворных султана Хусейн-шаха.
+    en: >-
+      Muslims, unlike Hindus, wore stitched clothes. A Muslim noble of Bengal in Mahaprabhu's day went in a long white
+      shirt of fine cloth reaching to the ankles, a cloth wrapped round the waist beneath it, over it a silk sash with
+      a silver-mounted dagger, rings on his fingers and a fine cotton cap on his head. Common people wore short white
+      shirts to mid-thigh, drawers and a small turban of three or four turns, and leather shoes embroidered with silk
+      and gold thread. So, probably, the Kazi of Navadvipa and the courtiers of Sultan Husain Shah were seen.
+  hagiography: ["ЧЧ Мадхья 15.120–123", "ЧБ Мадхья 23.101–112", "ЧЧ Мадхья 1.175–185"]
+  sources: ["Barbosa, пер. Stanley 1866, с. 180"]
+  images: []
+  game: {model: "кази: белая длинная рубаха-джама до щиколоток, шёлковый кушак, кинжал, белая шапочка/малая чалма, кожаные туфли; слуга с павлиньим опахалом",
+         where: ["navadvipa/kazi-house", "gauda/court"]}
+  todo: "Одежда кази как судьи (чалма, чёрная?) — искать у Абу-ль-Фазла/Мукундарама."
+
+- id: mc-turban
+  title: {ru: "Тюрбан", en: "The turban"}
+  rubric: dress
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Эпоха: Виджай Гупта (1494) — бенгалец носит три ткани, одна из них — тюрбан (Sen 1911, с. 387–388). Жития:
+      синий тюрбан Нитьянанды (ЧБ Мадхья 3.144), шёлковый тюрбан в награду (ЧБ Ади 4.133), большой тюрбан человека с
+      палкой (ЧБ Мадхья 18.40), тюрбаны из шёлковых тканей с гирляндами (ЧБ Антья 5.347, 5.511), слуги сбрасывают
+      тюрбаны в киртане (ЧБ Мадхья 23.383), пастухи в тюрбанах (Лочан, Шеша ч. 3.175); Мурари 2.13.2 — «тюрбан из новой
+      ткани».
+    en: >-
+      Period: Vijay Gupta (1494) — a Bengali wears three cloths, one of them a turban (Sen 1911, pp. 387–388).
+      Hagiographies: Nityananda's blue turban (CB Madhya 3.144), a silk turban as a reward (CB Adi 4.133), a big turban
+      on a man with a stick (CB Madhya 18.40), turbans of silk cloths with garlands (CB Antya 5.347, 5.511), servants
+      throwing off their turbans in kirtan (CB Madhya 23.383), cowherds in turbans (Lochana, Shesha pt. 3.175); Murari
+      2.13.2 — "a turban of new cloth".
+  text:
+    ru: >-
+      В XV–XVI вв. бенгальцы, особенно знатные и служилые люди, повязывали голову тюрбаном — отрезом ткани, обёрнутым
+      несколько раз; позже этот обычай в Бенгалии почти исчез. Нитьянанда пришёл в Навадвипу в синем дхоти и большом
+      синем тюрбане, словно Баларама. Тюрбан могли пожаловать в награду; слуги, увлёкшись киртаном, сбрасывали
+      тюрбаны, чтобы их не узнали. Брахманы-учёные и простые деревенские люди часто ходили с непокрытой головой.
+    en: >-
+      In the 15th–16th centuries Bengalis, especially men of rank and service, bound their heads in a turban — a length
+      of cloth wound round several times; later the custom almost vanished in Bengal. Nityananda came to Navadvipa in a
+      blue dhoti and a large blue turban, like Balarama. A turban could be granted as a reward; servants carried away by
+      kirtan threw off their turbans so as not to be recognised. Brahmin scholars and plain village folk often went
+      bareheaded.
+  hagiography: ["ЧБ Мадхья 3.144", "ЧБ Ади 4.133", "ЧБ Мадхья 18.40", "ЧБ Мадхья 23.383", "ЧБ Антья 5.347", "Лочан, Шеша-кханда, ч. 3, ст. 175", "Мурари 2, сарга 13, ст. 2"]
+  sources: ["Sen 1911, с. 387–388 (Виджай Гупта)"]
+  images: []
+  game: {model: "тюрбан из полосы ткани 4–6 м, обмотанной вокруг головы; у Нитьянанды — синий; у пастухов — небрежно повязанный жёлтый",
+         where: ["navadvipa/lane"]}
+  todo: "«Непокрытая голова брахманов» — утверждение по позднейшим данным; проверить по житиям (носил ли Нимай тюрбан? Лочан Мадхья ч. 5.48 — тюрбан цвета чампаки в описании Господа)."
