@@ -21,3 +21,18 @@
 ## PD-книги
 - Hobson-Jobson 1903 (`hobsonjobsonbein00yuleuoft`, djvu.txt): TANGA (с. 896–897), TUCKA (с. ~940), MOHUR (с. ~572), LACK (с. ~499), PALANKEEN (с. 659–661), DINGY (с. ~317), BUDGEROW (с. ~119). Выписки — notes.
 - Sen HBLL 1911 (`historyofbengali00sendrich`): Мукундарам о притеснениях (с. 337), меняла Мурари (с. 353), Рагхунатха — 20 лакхов дохода, 12 — казне (с. 500, по житиям), корабли Чанда (с. 260–262), школа Шриманты (с. 325), Навадвипа, навья-ньяя, кварталы (с. 409–410).
+
+## Пересечения с параллельными исполнителями (2026-11-23)
+Почти одновременно (09:35–09:43) исполнители life/nature/dress создали карточки на те же темы. Свои дубли удалил, факты —
+в society-notes.md («Дополнения»): mc-weights-measures → mc-weights-scales; mc-barber → mc-sannyasa-shaving;
+mc-border-war → mc-gauda-orissa-war; mc-robbers → mc-dacoits; mc-jungle-dangers → mc-jharikhanda-animals/mc-tiger;
+mc-elephants и mc-horses-carts → mc-elephants-horses. Оставлены как дополняющие (с перекрёстными ссылками):
+mc-scholars-debate (vs mc-schoolboy-disputes), mc-pilgrim-on-foot (vs mc-danda-kamandalu), mc-vaidya-physician
+(vs mc-vaidya-pharmacy), mc-house-animals (vs fauna).
+
+## Тупики
+- Прачки (дхоби): в ЧЧ/ЧБ/Лочане не найдены — карточку не заводил.
+- Кузнецы, плотники, ткацкий станок и пр. инструменты: в житиях почти ничего (станок — у исполнителя dress: mc-loom).
+- Подвесные сетки-шика, металлические замки: в житиях нет.
+- Домашние попугаи/майны: в ЧЧ/ЧБ прямо нет.
+- Solvyns, *Les Hindous*, т. 3 (лодки) — полного текста описаний на archive.org нет (см. pd-texts.md).

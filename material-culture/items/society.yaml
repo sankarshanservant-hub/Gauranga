@@ -822,3 +822,114 @@
             author: "ориcсский мастер-писец, кон. XVIII в. (позднее, для облика)", url: "https://clevelandart.org/art/1979.21"}]
   game: {model: "узкий лист пальмиры 30–40 × 4–5 см с процарапанным текстом; железное стило", where: ["puri/siddha-bakula", "puri/haridasa-hut"],
          notes: "процарапывание стилом — ориcсская и южноиндийская техника; в Бенгалии чаще писали пером (проверить)"}
+
+- id: mc-navadvipa-city
+  title: {ru: "Навадвипа — город учёных", en: "Navadvipa — the city of scholars"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Кто способен описать богатства Навадвипы? В одном гхате ежедневно омываются сто тысяч человек»; сотни тысяч
+      жителей считают себя учёными; из разных провинций приходят учиться — ЧБ Ади 2.57–62; толпы у многочисленных
+      гхатов — ЧБ Ади 6.49. Кварталы (Гандхабаник-пара, Малакар-пара, Шанкхари-пара, Танти-пара, Хат-данга,
+      Чампахати и др.) и площадь «16 кв. миль» — Sen 1911, с. 409–410, по «Бхакти-ратнакаре» (XVIII в., позднее).
+    en: >-
+      'Who can describe the wealth of Navadvipa? A hundred thousand people bathe daily at a single ghat'; hundreds of
+      thousands of inhabitants count themselves scholars; people come from different provinces to study — CB Adi
+      2.57–62; crowds at the many ghats — CB Adi 6.49. The wards (Gandhabanik-para, Malakar-para, Shankhari-para,
+      Tanti-para, Hat-danga, Champahati etc.) and an area of '16 sq. miles' — Sen 1911, pp. 409–410, after the
+      Bhakti-ratnakara (18th c., late).
+  text:
+    ru: >-
+      Навадвипа на Ганге была одним из самых больших и богатых городов Бенгалии: Вриндаван Дас пишет, что у одного
+      только гхата каждый день омывались сто тысяч человек. Город состоял из многих сёл-кварталов, и у каждого ремесла
+      был свой: улица торговцев благовониями, цветочников, мастеров раковин, ткачей, рыночный холм. Но славился он
+      учёностью: сюда съезжались учиться из разных краёв, и, по шутке Вриндавана Даса, даже мальчишка здесь осмеливался
+      спорить со своим учителем.
+    en: >-
+      Navadvipa on the Ganga was one of the largest and richest towns of Bengal: Vrindavana Dasa writes that a hundred
+      thousand people bathed daily at a single ghat. The town was made up of many village-wards, and each craft had
+      its own: a street of perfumers, of florists, of conch-carvers, of weavers, a market hill. But it was famous for
+      learning: students came here from many lands, and, as Vrindavana Dasa jokes, even a boy here dared argue with his
+      teacher.
+  hagiography: ["ЧБ Ади 2.57–62", "ЧБ Ади 6.49"]
+  sources: ["Sen 1911, с. 409–410 (кварталы и площадь Навадвипы по «Бхакти-ратнакаре»)"]
+  images: []
+  game: {model: "карта города: цепь кварталов вдоль Ганги, гхаты, рыночный холм, толы; дом Мишры у Ганги",
+         where: ["navadvipa"], notes: "ремёсла поимённо — mc-navadvipa-crafts"}
+  todo: "сверить перечень кварталов по нашему переводу БР (bhakti-ratnakara/, таранга 12)"
+
+- id: mc-merchants-saptagram
+  title: {ru: "Купцы Саптаграма и Уддхарана Датта", en: "The merchants of Saptagram and Uddharana Datta"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Нитьянанда в Саптаграме, на Тривени-гхате, живёт в доме Уддхараны Датты; «всё торговое сословие (*ван̣ик-кула*)
+      очистилось благодаря Уддхаране»; киртан в домах всех торговцев; даже яваны принимают прибежище — ЧБ Антья
+      5.443–468. Саптаграм — город сборщиков Хираньи и Говардханы — ЧЧ Антья 6.17. Значение Саптаграма как главного
+      порта Бенгалии XVI в. — общеизвестно, найти PD-подтверждение.
+    en: >-
+      Nityananda at Saptagram, at Triveni-ghat, stays in the house of Uddharana Datta; 'the whole merchant community
+      (vanik-kula) was purified through Uddharana'; kirtan in the houses of all the merchants; even Muslims take
+      shelter — CB Antya 5.443–468. Saptagram is the town of the collectors Hiranya and Govardhana — CC Antya 6.17.
+      Saptagram's role as Bengal's chief port in the 16th c. is well known; find a PD confirmation.
+  text:
+    ru: >-
+      Саптаграм у слияния рек Тривени был богатым торговым городом, куда приходили суда с товаром и где жили купцы-
+      ваники — торговцы золотом, тканями и пряностями. Брахманы смотрели на торговые касты свысока, но Нитьянанда
+      поселился в доме купца Уддхараны Датты и пел киртан в домах всех торговцев города, так что, по словам
+      Вриндавана Даса, всё торговое сословие очистилось и обрело любовь к Кришне. В том же Саптаграме жили и
+      богачи-Маджумдары, откупавшие у султана подати.
+    en: >-
+      Saptagram, at the confluence of rivers called Triveni, was a rich trading town where laden boats came in and where
+      vanik merchants lived — dealers in gold, cloth and spices. Brahmins looked down on the trading castes, but
+      Nityananda lodged in the house of the merchant Uddharana Datta and sang kirtan in the houses of all the town's
+      traders, so that, in Vrindavana Dasa's words, the whole merchant community was purified and gained love for
+      Krishna. The rich Majumdars, who farmed the sultan's revenue, also lived in Saptagram.
+  hagiography: ["ЧБ Антья 5.443–468", "ЧЧ Антья 6.17"]
+  sources: []
+  images: []
+  game: {model: "пристань Тривени-гхат: склады под соломой, купеческие суда у берега, кирпичный дом купца",
+         where: ["saptagram/triveni-ghat"], notes: "купеческие суда — mc-river-trade"}
+  todo: "уточнить касту Уддхараны (суварна-ваник) по ЧБ/ЧЧ Ади 11; PD о порте Саптаграм (HJ s.v. SATGAUM / PORTO PEQUENO)"
+
+- id: mc-peasant-revenue
+  title: {ru: "Подати с крестьян и притеснения", en: "Peasant revenue and oppression"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Автобиография Мукундарама в «Чанди-мангале» (ок. 1590-х): правитель Мамуд Шариф мерил землю ложной меркой,
+      облагал пустоши, ростовщики лютовали, скот не продавался, землевладельца Гопинатху Нанди арестовали, к каждой
+      хижине приставили стражу, чтобы крестьяне не бежали; бедняки продавали лопаты и утварь, и поэт бежал из Дамуньи —
+      Sen 1911, с. 337. В житиях: откуп податей Саптаграма — ЧЧ Антья 6.17–34; кази грозит «лишить касты и имущества» —
+      Ади 17.128; Рамачандра Кхан арестован, его дом и деревню три дня грабят — Антья 3.160.
+    en: >-
+      Mukundaram's autobiography in the Chandi-mangala (c. 1590s): the governor Mamud Sharif surveyed land with a false
+      measure and taxed waste land, the moneylenders grew exacting, cattle found no buyers, the landholder Gopinatha
+      Nandi was arrested, a guard was posted at every hut to stop peasants absconding; the poor sold their spades and
+      utensils, and the poet fled Damunya — Sen 1911, p. 337. In the hagiographies: the revenue farm of Saptagram — CC
+      Antya 6.17–34; the qazi threatens 'loss of caste and property' — Adi 17.128; Ramachandra Khan is arrested and his
+      house and village plundered for three days — Antya 3.160.
+  text:
+    ru: >-
+      Крестьянин платил подать с земли урожаем или каури землевладельцу, тот — откупщику, откупщик — султану, и на
+      каждой ступени что-то оседало. При добром правителе жить было можно, при злом — разорение. Поэт Мукундарам, писавший
+      через полвека после Господа, рассказал, как новый правитель обмерял поля ложной меркой, облагал даже пустоши, а к
+      каждой хижине поставил стражника, чтобы люди не разбежались; бедняки продавали лопаты и горшки за бесценок, и
+      поэт с семьёй ушёл куда глаза глядят. В житиях видно, как легко власть могла отнять имущество: сановника,
+      оскорбившего Харидаса, арестовали, а его дом и деревню три дня грабили.
+    en: >-
+      A peasant paid the land tax in crop or cowries to the landholder, he to the revenue farmer, the farmer to the
+      sultan, and at every step something stuck. Under a good governor one could live; under a bad one came ruin. The
+      poet Mukundaram, writing half a century after the Lord, told how a new governor surveyed the fields with a false
+      measure, taxed even waste land and posted a guard at every hut so that people could not run away; the poor sold
+      their spades and pots for a pittance, and the poet left with his family to wander. The hagiographies show how
+      easily power could take away property: an official who had insulted Haridasa was arrested, and his house and
+      village were plundered for three days.
+  hagiography: ["ЧЧ Антья 6.17–34", "ЧЧ Ади 17.128", "ЧЧ Антья 3.160"]
+  sources: ["Sen 1911, с. 337 (автобиография Мукундарама)"]
+  images: []
+  game: {model: "сцена: стражник у хижины, крестьянин с мотыгой-кодалом на продажу; землемер с мерной верёвкой",
+         where: ["navadvipa/fields"], notes: "реалии конца XVI в. (Мукундарам) — переносить с пометкой"}

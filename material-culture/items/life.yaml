@@ -979,3 +979,269 @@
   game: {model: "ящерица-геккон на стропилах (звук «тик-тик-тик»); тёмный пустырь у воды", where: ["mishra-house/courtyard"],
          notes: "без хоррора; страх снимается именем Хари"}
   todo: "Карнапура 3.48–53: утро свадебного дня, обряд почитания предков; Нимай плачет, вспомнив отца, Шачи с женщинами унимает Его. Бенгальские слова для «сглаза» (*нажар*? *дришти*?) — по PD."
+
+# ── Развлечения ─────────────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-house-drama
+  title: {ru: "Представление в доме Чандрашекхары", en: "The play in Chandrashekhara's house"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Мадхья 18.6–101: Господь объявляет «танец по правилам действа (*анка*)», Садашива и Буддхиманта Кхан готовят
+      облачения — раковины-браслеты, корсажи, шёлковые сари, украшения — и натягивают большой шатёр (18.7–16);
+      распределение ролей (18.9–12); Харидас в роли стража-*котала* с подкрученными усами, тюрбаном и палкой
+      (18.39–48); Шривас — Нарада с белой бородой и пятнышками сандала, Рамай несёт ему кувшин и подстилку (18.50–53);
+      Шриман держит факел (18.11); женщины семей смотрят (18.29–30); Господь в облике Лакшми/Рукмини — ЧЧ Ади 10.13,
+      17.241; письмо Рукмини, написанное слезами на полу, — ЧБ Мадхья 18.72–73; «первую прахару длилось действо» —
+      18.101. Спектакль «Дана-кели» у Гададхара даса — ЧЧ Ади 11.17. Слово для стража — сверить по транслиту.
+    en: >-
+      CB Madhya 18.6–101: the Lord announces 'a dance by the rules of a play (*anka*)', Sadashiva and Buddhimanta Khan
+      prepare costumes — conch bangles, bodices, silk saris, ornaments — and put up a large awning (18.7–16); the
+      casting (18.9–12); Haridasa as the guard, *kotala*, with twirled moustache, turban and stick (18.39–48); Shrivasa
+      as Narada with a white beard and dots of sandal, Ramai carrying his water-pot and mat (18.50–53); Shriman holds
+      the torch (18.11); the women of the families watch (18.29–30); the Lord in the form of Lakshmi/Rukmini — CC Adi
+      10.13, 17.241; Rukmini's letter written with tears on the floor — CB Madhya 18.72–73; 'the play lasted the first
+      prahara' — 18.101. The play 'Dana-keli' at Gadadhara Dasa's — CC Adi 11.17. The word for the guard — check in
+      the transliteration.
+  text:
+    ru: >-
+      Театра как здания не было: играли во дворе или в доме, под натянутым навесом, при свете факела, а зрители
+      садились на циновки вокруг. Однажды Махапрабху объявил, что сегодня будет «танцевать действо», и Буддхиманта Кхан
+      собрал для всех костюмы — шёлковые сари, корсажи, браслеты и украшения. Первым вышел Харидас — грозный страж с
+      подкрученными усами, в большом тюрбане и с палкой: «Братья, будьте бдительны!» — все смеялись. За ним Шривас —
+      Нарада с белой бородой, и Рамай с кувшином и подстилкой, а потом Гададхара в облике Рукмини и, наконец, Сам
+      Господь в облачении Лакшми, так что матери и жёны вайшнавов, пришедшие посмотреть, не узнавали Его и плакали от
+      любви.
+    en: >-
+      There was no theatre as a building: plays were acted in a courtyard or a house under a stretched awning, by
+      torchlight, with the audience on mats around. One day Mahaprabhu announced that today He would 'dance a play',
+      and Buddhimanta Khan gathered costumes for everyone — silk saris, bodices, bangles and ornaments. First came
+      Haridasa — a fierce guard with twirled moustache, a big turban and a stick: 'Brothers, be alert!' — everyone
+      laughed. After him Shrivasa as Narada with a white beard, and Ramai with water-pot and mat, then Gadadhara as
+      Rukmini and at last the Lord Himself in the guise of Lakshmi, so that the mothers and wives of the Vaishnavas who
+      had come to watch did not recognise Him and wept with love.
+  hagiography: ["ЧБ Мадхья 18.6–101", "ЧЧ Ади 10.13", "ЧЧ Ади 17.241", "ЧЧ Ади 11.17"]
+  sources: []
+  images: []
+  game: {model: "навес-шамиана над двором, факел, костюмы: накладная борода, тюрбан стража, шёлковые сари",
+         where: ["chandrashekhara-house/courtyard"], notes: "сцена-спектакль; см. mc-pretend-lila-games"}
+
+# ── Запахи и цвета ──────────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-scents
+  title: {ru: "Запахи эпохи", en: "The smells of the age"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Сандал — mc-sandal-paste, ароматное сандаловое масло, разбитое Джагаданандой: «если кто-то ощутит аромат, решит,
+      что Я *дари-санньяси*» — ЧЧ Антья 12.102–119; *агуру* — ЧЧ Ади 6.67; камфора в сладком рисе и прасаде — ЧЧ
+      Антья 6.58, 1.180; мускус и голубой лотос — ЧЧ Антья 15.22; цветы *маллика, малати* в лунные ночи чайтры — ЧЧ
+      Мадхья 1.58, Антья 1.160; *чатухсама* (смесь четырёх благовоний) — ЧЧ Антья 4.197; ароматные *панч-куди* — ЧЧ
+      Антья 10.35; гнилой запах испорченного прасада, который не едят даже коровы у Львиных врат — ЧЧ Антья 6.316;
+      жасмины — mc-jasmines; торговцы ароматами — mc-perfumer-florist. Запахи двора и кухни (дым кизяка, горчичное
+      масло) — по Day 1874 и kitchen.yaml, в житиях не названы.
+    en: >-
+      Sandal — mc-sandal-paste, the scented sandal oil smashed by Jagadananda: 'anyone who smells it will think I am a
+      *dari-sannyasi*' — CC Antya 12.102–119; *aguru* — CC Adi 6.67; camphor in sweet rice and prasada — CC Antya 6.58,
+      1.180; musk and blue lotus — CC Antya 15.22; *mallika, malati* flowers on the moonlit nights of Chaitra — CC
+      Madhya 1.58, Antya 1.160; *chatuhsama* (a blend of four fragrances) — CC Antya 4.197; scented *panch-kudi* — CC
+      Antya 10.35; the rotten smell of spoilt prasada that even the cows at the Lion Gate won't eat — CC Antya 6.316;
+      jasmines — mc-jasmines; perfume sellers — mc-perfumer-florist. Smells of yard and kitchen (dung-cake smoke,
+      mustard oil) — after Day 1874 and kitchen.yaml, not named in the hagiographies.
+  text:
+    ru: >-
+      Утро в Навадвипе пахнет дымом кизяка и соломы из очагов, речной водой и свежей обмазкой пола; к полудню — жареным
+      в горчичном масле и топлёным маслом-гхи. В доме, где поклоняются Господу, — сандал, растёртый на камне,
+      благовонная смола агуру в курильнице, камфора в лампаде арати и в сладком рисе, цветочные гирлянды. Весенними
+      лунными ночами веет жасмином-малати и малликой. Запах — и знак: Господь-санньяси отказывается от кувшина
+      ароматного сандалового масла, потому что прохожие, учуяв его, сочли бы Его щёголем, а не отрешённым монахом.
+    en: >-
+      Morning in Navadvipa smells of dung-cake and straw smoke from the hearths, river water and fresh floor plaster;
+      by noon, of frying in mustard oil and of ghee. In a house where the Lord is worshipped there is sandal ground on
+      a stone, fragrant aguru resin in the censer, camphor in the arati lamp and in the sweet rice, flower garlands. On
+      spring moonlit nights the air is full of malati and mallika jasmine. A smell is also a sign: the sannyasi Lord
+      refuses a jar of scented sandal oil because passers-by smelling it would take Him for a dandy, not a renunciant.
+  hagiography: ["ЧЧ Антья 12.102–119", "ЧЧ Ади 6.67", "ЧЧ Антья 6.58", "ЧЧ Антья 1.180", "ЧЧ Антья 15.22",
+                "ЧЧ Мадхья 1.58", "ЧЧ Антья 4.197", "ЧЧ Антья 10.35", "ЧЧ Антья 6.316"]
+  sources: []
+  images: []
+  game: {model: "кодекс-«ароматы»: подписи к предметам (сандаловый камень, курильница-дхупа, камфора, гирлянда)",
+         where: ["mishra-house/thakur-ghar", "mishra-house/kitchen"], notes: "в игре — текстовые описания запахов"}
+
+- id: mc-colours
+  title: {ru: "Язык цвета", en: "The language of colour"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Синие одежды Нитьянанды-Баларамы (ЧБ Мадхья 3.144; Лочан, Мадхья-кханда, ч. 10, ст. 4; Мурари 4.23.13) — и
+      синие одежды разбойников «как у героев» (ЧБ Антья 5.569); мусульманский святой в чёрном (ЧЧ Мадхья 18.185);
+      белое — тонкие белые одежды (ЧЧ Антья 18.83), белые одежды мусульман (mc-muslim-dress); алая ткань санньяси —
+      mc-aruna-vastra; киноварь, куркума, красная сандаловая паста в подношении (ЧЧ Ади 17.39); синдур замужней —
+      mc-sindur-kunkuma; «золотой» Гаура и «тёмный» Кришна в жёлтых одеждах (ЧЧ Ади 3.39, 3.49); краски — mc-dyes.
+      Вдовье белое — по этнографии XIX в. (todo).
+    en: >-
+      The blue garments of Nityananda-Balarama (CB Madhya 3.144; Lochana, Madhya-khanda pt. 10 v. 4; Murari 4.23.13) —
+      and the robbers' blue clothes 'like heroes' (CB Antya 5.569); the Muslim holy man in black (CC Madhya 18.185);
+      white — fine white garments (CC Antya 18.83), Muslims' white clothes (mc-muslim-dress); the sannyasi's ochre —
+      mc-aruna-vastra; vermilion, turmeric, red sandal paste in an offering (CC Adi 17.39); the married woman's
+      sindur — mc-sindur-kunkuma; 'golden' Gaura and 'dark' Krishna in yellow garments (CC Adi 3.39, 3.49); dyes —
+      mc-dyes. Widow's white — after 19th-c. ethnography (todo).
+  text:
+    ru: >-
+      Цвет одежды говорил о человеке издалека. Белый — обычный цвет хлопковых дхоти и сари, цвет брахмана и
+      мусульманина в тонкой рубахе, а у вдовы — белое без каймы. Алая полоска синдура в проборе означает замужнюю
+      женщину, алая-охряная ткань — санньяси, отрёкшегося от мира. Синий — цвет Баларамы, и Нитьянанда, Его
+      проявление, ходит в синих одеждах и синем тюрбане; в синее же, «как герои», облачаются разбойники, идущие на
+      ночной набег. Жёлтый, цвет куркумы, — праздник и свадьба, и в жёлтых одеждах — тёмный Кришна; а Сам Махапрабху
+      — «Гаура», золотой, словно расплавленное золото.
+    en: >-
+      The colour of clothes told about a person from afar. White is the ordinary colour of cotton dhotis and saris,
+      the colour of the brahmin and of the Muslim in his fine shirt, and for a widow — white without a border. A red
+      streak of sindur in the parting marks a married woman, red-ochre cloth a sannyasi who has renounced the world.
+      Blue is Balarama's colour, and Nityananda, His manifestation, goes in blue garments and a blue turban; robbers
+      setting out on a night raid also dress in blue, 'like heroes'. Yellow, the colour of turmeric, means festival
+      and wedding, and dark Krishna wears yellow; while Mahaprabhu Himself is 'Gaura', golden, like molten gold.
+  hagiography: ["ЧБ Мадхья 3.144", "Лочан, Мадхья-кханда, ч. 10, ст. 4", "ЧБ Антья 5.569", "ЧЧ Мадхья 18.185",
+                "ЧЧ Антья 18.83", "ЧЧ Ади 17.39", "ЧЧ Ади 3.39", "ЧЧ Ади 3.49"]
+  sources: []
+  images: []
+  game: {model: "палитра персонажей: белый/кремовый хлопок, синий (индиго) Нитьянанды, охра санньяси, жёлтый
+         (куркума), алый синдур", where: ["navadvipa/lane"], notes: "единая палитра для художников"}
+  todo: "Вдовье белое без каймы — подтвердить по ранним источникам (Мукундарам? Ward 1815?)."
+
+# ── Письма ──────────────────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-letters-riddles
+  title: {ru: "Письма: царские, тайные и загадка Адвайты", en: "Letters: royal, secret, and Advaita's riddle"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Загадка-*тарджа* Адвайты через Джагадананду: «Скажи безумцу: все стали безумны; на рынке больше не продают рис;
+      безумец больше не занят делами; это сказал безумец» — ЧЧ Антья 19.15–31; Камалаканта пишет царю Пратапарудре о
+      долге Адвайты — Господь огорчён (ЧЧ Ади 12.29–33); царь шлёт письма Сарвабхауме из Катака (ЧЧ Мадхья 12.5–12);
+      Рамананда пишет царю «с позволения Господа» (ЧЧ Мадхья 9.330); отец Рагхунатхи — письмо Шивананде (ЧЧ Антья
+      6.180–182, 6.247); Господь в спектакле пишет письмо Рукмини «чернилами слёз на бумаге пола пальцем-пером» (ЧБ
+      Мадхья 18.72). Гонцы и вести вообще — mc-messengers (transport.yaml).
+    en: >-
+      Advaita's riddle, *tarja*, via Jagadananda: 'Tell the madman: everyone has gone mad; rice is no longer sold in the
+      market; the madman is no longer busy with affairs; a madman said this' — CC Antya 19.15–31; Kamalakanta writes to
+      King Prataparudra about Advaita's debt — the Lord is displeased (CC Adi 12.29–33); the king sends letters to
+      Sarvabhauma from Cuttack (CC Madhya 12.5–12); Ramananda writes to the king 'with the Lord's permission' (CC
+      Madhya 9.330); Raghunatha's father writes to Shivananda (CC Antya 6.180–182, 6.247); the Lord in the play writes
+      Rukmini's letter 'with tears for ink on the paper of the floor with His finger for a pen' (CB Madhya 18.72).
+      Messengers and news in general — mc-messengers (transport.yaml).
+  text:
+    ru: >-
+      Письмо писали на полоске пальмового листа, процарапывая буквы и втирая сажу, сворачивали и перевязывали нитью;
+      несли его гонцы, паломники, чиновники. Царь Пратапарудра из столицы Катака шлёт Сарвабхауме письмо за письмом,
+      умоляя устроить ему встречу с Господом; отец Рагхунатхи пишет Шивананде: «верни мне моего сына». Но самое
+      знаменитое послание житий — устное. Адвайта Ачарья передал Махапрабху с Джагаданандой загадку: «Скажи безумцу,
+      что все люди стали безумны, что рис на рынке больше не продаётся, что безумец больше не занят делами, — скажи
+      безумцу, что это сказал безумец». Господь лишь улыбнулся: «Таково его повеление», — и с того дня Его разлука с
+      Кришной стала вдвое сильнее.
+    en: >-
+      A letter was written on a strip of palm leaf, the letters scratched in and rubbed with soot, then rolled and tied
+      with thread; couriers, pilgrims and officials carried it. King Prataparudra in his capital Cuttack sends
+      Sarvabhauma letter after letter begging him to arrange a meeting with the Lord; Raghunatha's father writes to
+      Shivananda: 'give me back my son'. But the most famous message of the hagiographies was spoken. Advaita Acharya
+      sent Mahaprabhu a riddle through Jagadananda: 'Tell the madman that all people have gone mad, that rice is no
+      longer sold in the market, that the madman is no longer busy with affairs — tell the madman that a madman said
+      this.' The Lord only smiled: 'Such is his command,' — and from that day His separation from Krishna grew twice
+      as strong.
+  hagiography: ["ЧЧ Антья 19.15–31", "ЧЧ Ади 12.29–33", "ЧЧ Мадхья 12.5–12", "ЧЧ Мадхья 9.330",
+                "ЧЧ Антья 6.180–182", "ЧЧ Антья 6.247", "ЧБ Мадхья 18.72"]
+  sources: []
+  images: []
+  game: {model: "свёрнутое письмо на пальмовом листе (≈ 30 × 4 см), перевязанное нитью", where: ["puri/gambhira"],
+         notes: "техника письма на листе — см. mc-manuscript-ink; бумага в Бенгалии XVI в. — проверить"}
+  todo: "Писали ли письма в Бенгалии ок. 1500 г. на бумаге (персидская канцелярия) или на пальмовом листе — по PD."
+
+# ── Мусульманский мир ───────────────────────────────────────────────────────────────────────────────────
+
+- id: mc-pirs-fakirs
+  title: {ru: "Пиры и факиры: мусульманские святые", en: "Pirs and fakirs: Muslim holy men"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Санатана льстит тюремщику: «ты — *джинда-пир*, живой святой, сведущ в Коране» — ЧЧ Мадхья 20.5; среди
+      всадников-патанов — человек в чёрной одежде, которого «простые люди называли святым», учёный в Коране, спорит
+      с Господом и становится Рамдасом — ЧЧ Мадхья 18.185–207; патаны после встречи «стали странствующими
+      аскетами — патана-вайшнавами» — 18.210–212. *Пир* — мусульманский святой, а также его гробница, место
+      паломничества; *факир* — араб. «бедный», нищенствующий дервиш, позднее и о индусских аскетах — HJ 1903, s.v.
+      PEER, FAKEER. Гробницы пиров в Бенгалии XVI в. — по житиям не засвидетельствованы (todo).
+    en: >-
+      Sanatana flatters the jailer: 'you are a *jinda-pir*, a living saint, learned in the Quran' — CC Madhya 20.5;
+      among the Pathan horsemen is a man in black whom 'ordinary people called a saint', learned in the Quran, who
+      argues with the Lord and becomes Ramadasa — CC Madhya 18.185–207; after the meeting the Pathans 'became
+      wandering ascetics — Pathan Vaishnavas' — 18.210–212. *Pir* — a Muslim saint, also his tomb, a place of
+      pilgrimage; *fakir* — Arabic 'poor', a mendicant dervish, later also of Hindu ascetics — HJ 1903, s.v. PEER,
+      FAKEER. Tombs of pirs in 16th-c. Bengal are not attested in the hagiographies (todo).
+  text:
+    ru: >-
+      У мусульман Бенгалии были свои святые: пир — наставник и чудотворец, к чьей гробнице после смерти ходят с
+      обетами и индусы, и мусульмане; факир — «бедняк перед Богом», странствующий дервиш в рубище. Святым считали и
+      учёного знатока Корана: в отряде патанов, встретивших Господа на пути из Матхуры, был такой человек в чёрной
+      одежде. Он начал доказывать Господу по Корану, что Бог безличен, — и, выслушав Его, признал, что высшая цель
+      Корана — служение личному Господу; его нарекли Рамдасом. А Санатана, уговаривая тюремщика-мусульманина,
+      называет его «живым пиром», — знак того, как высоко ставили это звание.
+    en: >-
+      Bengal's Muslims had their own holy men: the pir — a guide and wonder-worker to whose tomb, after his death,
+      both Hindus and Muslims come with vows; the fakir — 'poor before God', a wandering dervish in rags. A learned
+      master of the Quran was also counted a saint: in the band of Pathans who met the Lord on the road from Mathura
+      there was such a man, dressed in black. He began to prove to the Lord from the Quran that God is impersonal —
+      and, having heard Him, admitted that the Quran's highest aim is service to the personal Lord; he was named
+      Ramadasa. And Sanatana, persuading his Muslim jailer, calls him 'a living pir' — a sign of how highly that title
+      was held.
+  hagiography: ["ЧЧ Мадхья 20.5", "ЧЧ Мадхья 18.185–212"]
+  sources: ["Hobson-Jobson, 1903, s.v. PEER, FAKEER"]
+  images: []
+  game: {model: "дервиш: чёрная или латаная накидка, чётки-тасбих, посох; небольшая гробница-даргах с покрывалом",
+         where: ["travel/prayaga-road"], notes: "почтительно; см. mc-muslims-in-the-lilas, mc-muslim-dress"}
+  todo: "Совместное почитание пиров индусами в XVI в. — подтвердить PD-источником (Sen 1911 о Сатья-пире?)."
+
+- id: mc-cow-and-purity
+  title: {ru: "Корова, мясо и чистота: граница двух миров", en: "The cow, meat and purity: the line between two worlds"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Спор Господа с Кази о забое коров: «корова — мать, бык — отец» (ЧЧ Ади 17.153–171); мусульманский чиновник в
+      наказание три дня готовит говядину в дурга-мандапе Рамачандры Кхана — ЧЧ Антья 3.149–161; Рупа и Санатана о
+      себе: «общение с мясоедами-*млеччхами* сделало нас врагами коров и брахманической культуры» — ЧЧ Мадхья
+      1.197; Харидас «из семьи мясоедов» — ЧЧ Антья 11.30; мусульманин «был безжалостен к коровам, брахманам и
+      вайшнавам» — ЧЧ Мадхья 16.189. Общий обзор — mc-muslims-in-the-lilas; Кази — mc-kazi.
+    en: >-
+      The Lord's debate with the Kazi on cow-slaughter: 'the cow is mother, the bull father' (CC Adi 17.153–171); a
+      Muslim official, as a punishment, cooks beef for three days in Ramachandra Khan's Durga-mandapa — CC Antya
+      3.149–161; Rupa and Sanatana of themselves: 'association with meat-eating *mlecchas* made us enemies of cows and
+      brahminical culture' — CC Madhya 1.197; Haridasa 'from a family of meat-eaters' — CC Antya 11.30; the Muslim
+      who 'was merciless to cows, brahmins and Vaishnavas' — CC Madhya 16.189. General survey — mc-muslims-in-the-lilas;
+      the Kazi — mc-kazi.
+  text:
+    ru: >-
+      Главная бытовая граница между индусами и мусульманами Бенгалии проходила через кухню и коровник. Для индуса
+      корова — мать, бык — отец: они кормят и пашут, и убить их — тяжкий грех; для мусульманина говядина была
+      обычной пищей. Поэтому самым страшным осквернением индусского дома было приготовить в нём мясо коровы — именно
+      так мусульманский чиновник наказал Рамачандру Кхана, оскорбившего Харидаса. Брахманы на службе султана, как Рупа
+      и Санатана, считали себя «осквернёнными» общением с мясоедами. Но Махапрабху меряет человека не рождением:
+      Харидас, выросший в мусульманской семье, — «Брахма Харидас», и Господь Сам кладёт его тело в могилу на берегу
+      океана.
+    en: >-
+      The chief everyday line between Hindus and Muslims in Bengal ran through the kitchen and the cowshed. For a Hindu
+      the cow is mother and the bull father: they feed and plough, and to kill them is a grave sin; for a Muslim beef
+      was ordinary food. So the worst defilement of a Hindu house was to cook beef in it — which is exactly how a
+      Muslim official punished Ramachandra Khan, who had offended Haridasa. Brahmins in the Sultan's service, like Rupa
+      and Sanatana, considered themselves 'defiled' by the company of meat-eaters. But Mahaprabhu measures a person
+      not by birth: Haridasa, raised in a Muslim family, is 'Brahma Haridasa', and the Lord Himself lays his body in
+      the grave on the ocean shore.
+  hagiography: ["ЧЧ Ади 17.153–171", "ЧЧ Антья 3.149–161", "ЧЧ Мадхья 1.197", "ЧЧ Антья 11.30", "ЧЧ Мадхья 16.189"]
+  sources: []
+  images: []
+  game: {model: "без визуализации насилия; тема — в диалогах NPC и кодексе", where: ["navadvipa/lane"],
+         notes: "тон спокойный, без вражды; см. mc-cowshed"}
+  todo: "«Брахма Харидас» и погребение Харидаса — уточнить ссылки (ЧЧ Антья 11.60–70?) и есть ли карточка mc-haridasa-samadhi."

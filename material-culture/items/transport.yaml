@@ -221,3 +221,43 @@
   images: []
   game: {model: "гонец-скороход с посохом с колокольчиками и свёрнутым пальмовым листом в бамбуковом футляре (⚠ колокольчики — поздняя деталь, проверить)",
          where: ["gauda/ramakeli", "road-to-puri"], notes: "письмо на пальмовом листе — mc-palm-leaf-notes"}
+
+- id: mc-palanquin-rank
+  title: {ru: "Паланкин как знак положения", en: "The palanquin as a mark of rank"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Богатые и влиятельные люди сходят с паланкинов, чтобы поклониться Нимаю — ЧБ Ади 14.8; Буддхиманта Кхан
+      приносит для Господа роскошный паланкин на свадьбу — ЧБ Ади 15.137–143; Рамачандра Кхан спускается с паланкина
+      перед Господом — ЧБ Антья 2.84; Рамананда Рай едет к реке на паланкине с музыкантами — ЧЧ Мадхья 8.14, 16.98;
+      Чандрашекхара привозит Шачи на паланкине — Мадхья 3.137; тело Харидаса несут на паланкине в форме «воздушного
+      корабля» — Антья 11.62. Устройство: «короб-носилки с жердью спереди и сзади, в Бенгалии всегда 4 носильщика»,
+      у Линсхотена (1597) жердь выгнута дугой — HJ 1903, s.v. PALANKEEN, с. 659–661.
+    en: >-
+      Rich and powerful men step down from their palanquins to bow to Nimai — CB Adi 14.8; Buddhimanta Khan brings a
+      splendid palanquin for the Lord's wedding — CB Adi 15.137–143; Ramachandra Khan alights from his palanquin before
+      the Lord — CB Antya 2.84; Ramananda Raya comes to the river in a palanquin with musicians — CC Madhya 8.14, 16.98;
+      Chandrashekhara brings Shachi by palanquin — Madhya 3.137; Haridasa's body is carried on a palanquin shaped like
+      an 'aerial chariot' — Antya 11.62. Construction: 'a box-litter with a pole before and behind, borne by 4 men always
+      in Bengal'; in Linschoten (1597) the pole is bent in an arch — HJ 1903, s.v. PALANKEEN, pp. 659–661.
+  text:
+    ru: >-
+      Паланкин был не только средством передвижения, но и знаком положения. На нём ездили правители, сановники и
+      богачи, впереди шли слуги, а при выезде — и музыканты; сойти с паланкина перед кем-то значило выразить ему высшее
+      почтение, и знатные люди Навадвипы сходили с носилок, завидев юного Нимая. Носилки несли на плечах четверо
+      носильщиков на длинной бамбуковой жерди, иногда выгнутой дугой над сиденьем. На свадьбу Господа Буддхиманта
+      Кхан принёс роскошный паланкин, а пожилую Шачи везли к сыну в Шантипур тоже в паланкине.
+    en: >-
+      A palanquin was not only a means of travel but a mark of rank. Rulers, officials and the rich rode in them with
+      servants going ahead, and musicians on grand outings; to step down from one's palanquin before someone was to
+      show him the highest respect, and the notables of Navadvipa alighted on seeing young Nimai. The litter was borne
+      on the shoulders of four bearers on a long bamboo pole, sometimes bent in an arch over the seat. For the Lord's
+      wedding Buddhimanta Khan brought a splendid palanquin, and the aged Shachi too was carried to her son at
+      Shantipur in a palanquin.
+  hagiography: ["ЧБ Ади 14.8", "ЧБ Ади 15.137–143", "ЧБ Антья 2.84", "ЧЧ Мадхья 8.14", "ЧЧ Мадхья 16.98", "ЧЧ Мадхья 3.137",
+                "ЧЧ Антья 11.62"]
+  sources: ["Hobson-Jobson (1903), s.v. PALANKEEN, с. 659–661"]
+  images: []
+  game: {model: "открытый паланкин-сиденье с балдахином на выгнутой бамбуковой жерди, 4 носильщика в коротких дхоти; слуга с зонтом",
+         where: ["navadvipa/lane", "puri/chitrotpala-river"], notes: "закрытый женский паланкин — mc-palanquin; свадебный выезд — mc-wedding-procession"}
