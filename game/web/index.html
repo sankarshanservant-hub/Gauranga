@@ -96,7 +96,7 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
   <div id="hud" class="ui">
     <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
-      <div class="keys">Пробел — подсветка · Tab — небо · J — журнал</div></div>
+      <div class="keys">Пробел — подсветка · Tab — небо · J — журнал<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
     <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button></div>
   </div>
   <div id="percept" class="ui" hidden><div class="lbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
@@ -142,6 +142,7 @@ for (const k in camj.spots) spots[k] = new THREE.Vector3(...camj.spots[k]);
 // ---------------------------------------------------------------- рендер и камера (та же, что в Blender)
 const renderer = new THREE.WebGLRenderer({ canvas: $('gl'), antialias: true });
 renderer.toneMapping = THREE.NoToneMapping;
+renderer.autoClear = false;
 renderer.outputColorSpace = THREE.SRGBColorSpace;
 const scene = new THREE.Scene();
 const hw = camj.ortho_width / 2, hh = hw * H / W;
@@ -162,13 +163,15 @@ const TIMES = {
 };
 const bgTex = {};
 await Promise.all(Object.keys(TIMES).map(async (k) => { bgTex[k] = await loadTex(TIMES[k].tex); }));
-const bgUniforms = { bgA: { value: bgTex.day }, bgB: { value: bgTex.day }, mixv: { value: 0 }, res: { value: new THREE.Vector2(W, H) } };
+const origVP = new THREE.Matrix4().multiplyMatrices(cam.projectionMatrix, cam.matrixWorldInverse);
+const CAM0 = { pos: cam.position.clone(), right: new THREE.Vector3(1, 0, 0).applyQuaternion(cam.quaternion), up: new THREE.Vector3(0, 1, 0).applyQuaternion(cam.quaternion) };
+const bgUniforms = { bgA: { value: bgTex.day }, bgB: { value: bgTex.day }, mixv: { value: 0 }, res: { value: new THREE.Vector2(W, H) }, origVP: { value: origVP } };
 function updateRes() { const v = new THREE.Vector2(); renderer.getDrawingBufferSize(v); bgUniforms.res.value.copy(v); }
 const bgMat = new THREE.ShaderMaterial({
   uniforms: bgUniforms, side: THREE.DoubleSide,
-  vertexShader: 'void main(){ gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0); }',
-  // прокси-геометрия рисует пиксели фона по экранным координатам: персонаж за кровлей загораживается по силуэту
-  fragmentShader: 'uniform sampler2D bgA, bgB; uniform float mixv; uniform vec2 res; void main(){ vec2 uv = gl_FragCoord.xy / res; gl_FragColor = vec4(mix(texture2D(bgA, uv).rgb, texture2D(bgB, uv).rgb, mixv), 1.0); }',
+  vertexShader: 'varying vec3 vW; void main(){ vec4 w = modelMatrix * vec4(position, 1.0); vW = w.xyz; gl_Position = projectionMatrix * viewMatrix * w; }',
+  // прокси-геометрия рисует пиксели фона: точку мира проецируем исходной камерой рендера — точно при любом приближении
+  fragmentShader: 'uniform sampler2D bgA, bgB; uniform float mixv; uniform mat4 origVP; varying vec3 vW; void main(){ vec4 c = origVP * vec4(vW, 1.0); vec2 uv = c.xy / c.w * 0.5 + 0.5; gl_FragColor = vec4(mix(texture2D(bgA, uv).rgb, texture2D(bgB, uv).rgb, mixv), 1.0); }',
 });
 const proxies = [];
 // модель лежит как glTF-JSON с данными в base64; собираем из неё GLB в памяти (без лишних запросов)
@@ -191,8 +194,9 @@ scene.add(gltf.scene);
 const sun = new THREE.DirectionalLight(TIMES.day.sunCol, TIMES.day.sun);
 sun.position.set(-8, 14, 6); scene.add(sun);
 const amb = new THREE.AmbientLight(TIMES.day.ambCol, TIMES.day.amb); scene.add(amb);
+sun.layers.enableAll(); amb.layers.enableAll();
 const LAMPS = [[-2.5, -3, .25], [3.4, -2.2, .25], [-3.6, 3.4, .25], [2.8, 3.6, .25], [0.3, -0.18, .4], [-0.5, 4.25, 2.4], [-6.4, 0.5, 1.4], [0.36, 4.85, .75]];
-const lamps = LAMPS.map(([x, y, z]) => { const l = new THREE.PointLight(0xffa050, 0, 4, 2); l.position.set(x, z, -y); scene.add(l); return l; });
+const lamps = LAMPS.map(([x, y, z]) => { const l = new THREE.PointLight(0xffa050, 0, 4, 2); l.position.set(x, z, -y); l.layers.enableAll(); scene.add(l); return l; });
 
 // ---------------------------------------------------------------- навигация (сетка, выгруженная из навмеша Godot)
 const N = nav.n, ST = nav.step, X0 = nav.x0, Z0 = nav.z0, HG = nav.h;
@@ -263,10 +267,11 @@ const ybot = await loadProxy('chars/ybot.json');
 // В этом экспорте у таза ось 1 — «вперёд», ось 2 — «вверх» (родитель повёрнут на 90°): гасим 0 и 1, покачивание оставляем.
 const INPLACE = new Set(['walk', 'oldwalk', 'run', 'run2', 'carry', 'joyjump', 'rumba', 'victory']);
 const CLIPS = {};
+let REST = null; ybot.scene.traverse((o) => { if (o.isBone && /Hips$/.test(o.name)) REST = o.position.clone(); });
 for (const c of ybot.animations) {
   c.tracks = c.tracks.filter((t) => !t.name.endsWith('.scale'));
   if (INPLACE.has(c.name)) for (const t of c.tracks) if (/Hips\.position$/.test(t.name)) {
-    const v = t.values, x0 = v[0], y0 = v[1]; for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 1] = y0; } }
+    const v = t.values, x0 = REST ? REST.x : v[0], y0 = REST ? REST.y : v[1]; for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 1] = y0; } }
   CLIPS[c.name] = c;
 }
 // куски клипов без переходов (Mixamo-клипы «встать/сесть» внутри; берём только устойчивую часть, кадры 30 fps)
@@ -339,6 +344,8 @@ class Figure {
     const sh = new THREE.Mesh(new THREE.CircleGeometry(0.4 * hu, 24), new THREE.MeshBasicMaterial({ color: 0, transparent: true, opacity: alpha < 1 ? 0.12 : 0.35, depthWrite: false }));
     sh.rotation.x = -Math.PI / 2; sh.position.y = 0.02; this.root.add(sh);
     this.pose = 'idle'; this.mixer.update(Math.random() * 2);
+    this.xray = [];
+    this.root.traverse((o) => o.layers.set(1));
     this.root.visible = false;
   }
   get pose() { return this._pose; }
@@ -360,9 +367,10 @@ class Figure {
     next.play(); this.current = next;
   }
   addXray(hex, op) {   // силуэт сквозь кровли и стены
-    const mat = new THREE.MeshBasicMaterial({ color: hex, transparent: true, opacity: op, depthTest: false, depthWrite: false });
+    const mat = new THREE.MeshBasicMaterial({ color: hex, transparent: true, opacity: op, depthTest: true, depthWrite: false, depthFunc: THREE.GreaterDepth });
     const list = []; this.model.traverse((o) => { if (o.isSkinnedMesh) list.push(o); });
-    for (const m of list) { const c = new THREE.SkinnedMesh(m.geometry, mat); c.bind(m.skeleton, m.bindMatrix); c.renderOrder = 10; c.frustumCulled = false; m.parent.add(c); }
+    for (const m of list) { const c = new THREE.SkinnedMesh(m.geometry, mat); c.bind(m.skeleton, m.bindMatrix); c.frustumCulled = false; m.parent.add(c); this.xray.push(c); }
+    for (const c of this.xray) c.layers.set(2);
   }
   get pos() { return this.root.position; }
   faceTo(p) { const d = new THREE.Vector3().subVectors(p, this.root.getWorldPosition(new THREE.Vector3())); if (d.x * d.x + d.z * d.z > 1e-4) this.yaw = Math.atan2(d.x, d.z); }
@@ -447,7 +455,8 @@ const ui = {
   advance() { if (this.waiting) this.waiting(); },
   card(e, who = '') {
     $('cardKind').textContent = e.kind ?? ''; $('cardTitle').textContent = e.title ?? '';
-    let h = PORTRAITS.has(who) ? `<img src="portraits/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:200px;margin:4px 0 8px 16px;border:2px solid var(--gold);border-radius:6px">` : '';
+    let h = PORTRAITS.has(who) ? `<img src="portraits/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:200px;margin:4px 0 8px 16px;border:2px solid var(--gold);border-radius:6px">`
+      : CODEX_ART.has(who) ? `<img src="codex/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:250px;margin:4px 0 8px 16px;border-radius:6px">` : '';
     h += `<div>${esc(e.text ?? '')}</div>`;
     if (e.divya) h += celestial ? `<p><i>${esc(e.divya)}</i></p>` : `<p class="note">Здесь есть и то, что видно лишь небесным зрением (Tab).</p>`;
     if (e.refs?.length) h += `<div class="refs"><b>В житиях:</b> ${e.refs.map(esc).join('; ')}</div>`;
@@ -466,7 +475,9 @@ const ui = {
   pickJournal(i) {
     const e = this.entries[i]; if (!e) return;
     [...$('jlist').children].forEach((c, k) => c.classList.toggle('sel', k === i));
-    $('jtext').innerHTML = `<h3>${esc(e.title)}</h3><p><i>${esc(e.kind ?? '')}</i></p><p>${esc(e.text ?? '')}</p>` +
+    const art = CODEX_ART.has(e.key) ? `<img src="codex/${e.key}.jpg" alt="" style="float:right;width:300px;margin:0 0 10px 20px;border-radius:6px">`
+      : (e.key.startsWith('p:') && PORTRAITS.has(e.key.slice(2))) ? `<img src="portraits/${e.key.slice(2)}.jpg" alt="" style="float:right;width:240px;margin:0 0 10px 20px;border:2px solid var(--gold);border-radius:6px">` : '';
+    $('jtext').innerHTML = art + `<h3>${esc(e.title)}</h3><p><i>${esc(e.kind ?? '')}</i></p><p>${esc(e.text ?? '')}</p>` +
       (e.refs?.length ? `<p><i>Источники: ${e.refs.map(esc).join('; ')}</i></p>` : '');
   },
   toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden && this.entries.length) this.pickJournal(0); },
@@ -493,12 +504,14 @@ const ui = {
     v.style.opacity = on ? 1 : 0; await sleep(1600); if (AUTOPLAY && on) autoShot();
   },
 };
-const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor', 'player']);
+const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor', 'player', 'friend', 'nidra']);
+const CODEX_ART = new Set(['hs_alpana', 'hs_kitchen', 'hs_diya', 'hs_handi', 'hs_woodpile', 'hs_dung', 'hs_brass', 'hs_pond', 'hs_haystack', 'hs_chala', 'hs_tulasi']);
 const portraitImgs = await Promise.all([...PORTRAITS].map((w) => new Promise((r) => { const im = new Image(); im.onload = im.onerror = () => r(im); im.src = `portraits/${w}.jpg`; })));
 function setPortrait(who, speaker, col) {
   const el = $('portrait');
   if (PORTRAITS.has(who)) { el.textContent = ''; el.style.background = `#000 url(portraits/${who}.jpg) center 18% / cover no-repeat`; }
-  else { el.textContent = speaker ? speaker[0] : '❧'; el.style.background = shade(col, -0.35); }
+  else if (speaker === 'Шри Чайтанья-бхагавата') { el.textContent = '❁'; el.style.background = 'radial-gradient(circle at 50% 40%, #6b4d1c, #1d140a 75%)'; }
+  else { el.textContent = speaker ? speaker[0] : '❧'; el.style.background = `radial-gradient(circle at 50% 35%, ${shade(col, 0)}, ${shade(col, -0.6)} 80%)`; }
 }
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 function shade(hex, f) { const c = new THREE.Color(hex); c.offsetHSL(0, 0, f * 0.5); return '#' + c.getHexString(); }
@@ -529,6 +542,40 @@ function drawSparks(dt) {
   for (const m of motes) { m.y -= m.v * dt; m.p += dt * 2; if (m.y < -10) { m.y = H + 10; m.x = Math.random() * W; }
     const a = 0.5 + 0.5 * Math.sin(m.p); sparks.fillStyle = `rgba(255,236,180,${0.35 + 0.55 * a})`;
     sparks.beginPath(); sparks.arc(m.x + Math.sin(m.p * 0.5) * 6, m.y, m.r * (0.6 + a), 0, 6.283); sparks.fill(); }
+}
+
+// ---------------------------------------------------------------- приближение (колесо) и сдвиг (правая кнопка, стрелки)
+const view = { z: 1, cx: 0, cy: 0 };
+const WW = camj.ortho_width, HH = camj.ortho_width * H / W;
+function applyView() {
+  view.z = THREE.MathUtils.clamp(view.z, 1, 2.6);
+  const m = 0.5 - 0.5 / view.z;
+  view.cx = THREE.MathUtils.clamp(view.cx, -m, m); view.cy = THREE.MathUtils.clamp(view.cy, -m, m);
+  cam.zoom = view.z;
+  cam.position.copy(CAM0.pos).addScaledVector(CAM0.right, view.cx * WW).addScaledVector(CAM0.up, view.cy * HH);
+  cam.updateProjectionMatrix(); cam.updateMatrixWorld(true);
+}
+$('gl').addEventListener('wheel', (e) => {
+  e.preventDefault();
+  const p = toStage(e), u = p.x / W - 0.5, v = 0.5 - p.y / H;
+  const wx = view.cx + u / view.z, wy = view.cy + v / view.z;      // точка под курсором остаётся на месте
+  view.z *= Math.exp(-e.deltaY * 0.0015);
+  view.z = THREE.MathUtils.clamp(view.z, 1, 2.6);
+  view.cx = wx - u / view.z; view.cy = wy - v / view.z; applyView();
+}, { passive: false });
+let drag = null;
+$('gl').addEventListener('contextmenu', (e) => e.preventDefault());
+$('gl').addEventListener('pointerdown', (e) => { if (e.button === 2 || e.button === 1) { drag = { ...toStage(e), cx: view.cx, cy: view.cy }; e.stopImmediatePropagation(); } }, true);
+addEventListener('pointermove', (e) => { if (!drag) return; const p = toStage(e);
+  view.cx = drag.cx - (p.x - drag.x) / W / view.z; view.cy = drag.cy + (p.y - drag.y) / H / view.z; applyView(); });
+addEventListener('pointerup', () => { drag = null; });
+const keysDown = new Set();
+addEventListener('keydown', (e) => { if (e.key.startsWith('Arrow')) { keysDown.add(e.key); e.preventDefault(); } if (e.key === '+' || e.key === '=') { view.z *= 1.15; applyView(); } if (e.key === '-') { view.z /= 1.15; applyView(); } });
+addEventListener('keyup', (e) => keysDown.delete(e.key));
+function panTick(dt) {
+  if (!keysDown.size) return; const k = 0.5 * dt / view.z;
+  if (keysDown.has('ArrowLeft')) view.cx -= k; if (keysDown.has('ArrowRight')) view.cx += k;
+  if (keysDown.has('ArrowUp')) view.cy += k; if (keysDown.has('ArrowDown')) view.cy -= k; applyView();
 }
 
 // ---------------------------------------------------------------- ввод
@@ -573,7 +620,7 @@ async function walkToHotspot(id) {
 }
 function openEntry(key, e) {
   if (key.startsWith('hs_') && !found[key]) { found[key] = true; ui.counter(); }
-  ui.addJournal(key, e); ui.card(e, key.startsWith('p:') ? key.slice(2) : '');
+  ui.addJournal(key, e); ui.card(e, key.startsWith('p:') ? key.slice(2) : key);
 }
 
 // ---------------------------------------------------------------- время суток, ощутимость, маркер
@@ -619,6 +666,8 @@ async function step(s) {
   const off = s.offset ? new THREE.Vector3(...s.offset) : new THREE.Vector3();
   switch (s.do) {
     case 'place': if (f.root.parent !== scene) { scene.attach(f.root); f.carried = false; f.root.scale.set(1, 1, 1); }
+      { const dest = spots[s.at].clone().add(off), fadeOn = $('fade').classList.contains('block');
+        if (f.root.visible && !fadeOn && f.pos.distanceTo(dest) > 0.6 && !AUTOPLAY) { await f.walk(findPath(f.pos, dest)); } }
       f.stop(); f.pos.copy(spots[s.at]).add(off); f.root.rotation.set(0, 0, 0);
       placed[s.who] = true; f.root.visible = !f.celestial || celestial; break;
     case 'hide': f.root.visible = false; placed[s.who] = false; break;
@@ -682,7 +731,7 @@ function frame() {
   for (const id in figs) figs[id].update(dt);
   if (marker.visible) { marker.rotation.y += dt * 0.8; const s = 1 + 0.08 * Math.sin(performance.now() / 300); marker.scale.set(s, 1, s);
     if (markerWait && player.pos.distanceTo(marker.position) < 1.7) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }
-  perceptTick(dt);
+  perceptTick(dt); panTick(dt);
   hovered = pickHover();
   for (const id of hsIds) hsMarks[id].visible = highlight || hovered === id;
   const tip = $('tip');
@@ -691,7 +740,11 @@ function frame() {
     tip.hidden = false; tip.style.left = (mouse.x + 18) + 'px'; tip.style.top = (mouse.y + 18) + 'px';
   } else tip.hidden = true;
   drawSparks(dt);
-  renderer.render(scene, cam);
+  // проходы: фон-прокси -> силуэты (только где фигуру закрывает фон) -> сами фигуры
+  renderer.clear();
+  cam.layers.set(0); renderer.render(scene, cam);
+  cam.layers.set(2); renderer.render(scene, cam);
+  cam.layers.set(1); renderer.render(scene, cam);
   requestAnimationFrame(frame);
 }
 fit();
