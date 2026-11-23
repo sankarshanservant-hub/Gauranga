@@ -96,9 +96,14 @@ elder brother he could find no peace ("Bhakti-ratnakara" 9.133–138, 9.175–17
 ## Initiation
 At the devotees' wish Srinivasa returned from Vrindavana to Gauda. Narottama and Shyamananda were with him, and
 Hari-kirtana swept over all Gauda like a river in spate. The Acharya travelled with Ramachandra through Vana-Vishnupura, Yajigrama,
-Kantaknagara, Khanda and Kanchanagadiya; and there a messenger came running to him from Budhari: "Sri Govinda and the
-others are waiting for you." When the Acharya reached Teliya-Budhari, Govinda and the whole village received him with
-great solemnity. <!-- F16 -->
+Kantaknagara, Khanda and Kanchanagadiya. From there, longing for Narottama, he set out for Kheturi with his foremost
+disciples and said to Ramachandra: "I shall go to Kheturi by way of Budhari. Your younger brother lives in Teliya
+Budhari — who will give him the news of our journey?" Just then a man from Budhari came running to meet them:
+
+"All is auspicious, Prabhu, in seeing you. Sri Govinda and the others are watching the road." ("Bhakti-ratnakara" 10.149)
+
+When the Acharya reached Teliya-Budhari, Govinda and the whole village received him with great joy and solemnity,
+performing the auspicious rites of welcome (10.160). <!-- F16 F51 -->
 
 Govinda with deep devotion invited the Acharya to his house and begged for mercy. In tears he fell at his elder
 brother's feet, asking him to give him over to the Acharya, and Ramachandra told Srinivasa what was in his brother's
@@ -106,13 +111,19 @@ heart. The Acharya, filled with joy,
 
 "gave Govinda initiation into the mantra of Radha-Krishna." ("Bhakti-ratnakara" 10.171)
 
-Thus Govinda became a disciple of Srinivasa Acharya.[^9] <!-- F17 F18 F34 Q5 -->
+Thus Govinda became a disciple of Srinivasa Acharya.[^9] How wonderful the rite was, and in what rapture of prema
+Govinda was on becoming a disciple, the author of the "Bhakti-ratnakara" leaves to others to describe in detail; he
+himself only exclaims: "What mercy the Acharya has for these two brothers, Ramachandra and Govinda — what power have I to
+tell it?" From then on the brothers, together with the whole circle, served the Acharya (10.172–175). <!-- F17 F18 F34 Q5 -->
 
-After the initiation Srinivasa stayed for some time in Budhari, and Govinda was absorbed in serving him. Later, as the
+After the initiation Srinivasa stayed for some time in Budhari, in Govinda's house, and Govinda was absorbed in serving
+him. There the young Vamshidasa Chakravarti from neighbouring Bahadurpura saw the Acharya: coming in haste, he found him
+"in Sri Govinda's house" talking about Krishna amid his companions, and soon received initiation from him himself
+("Bhakti-ratnakara" 10.299–309). Later, as the
 "Prema-vilasa" relates, Durga herself, instructing Chand Raya, held Govinda up as an example: Srinivasa's disciple Govinda
 Kaviraja had once worshipped her, leaving everything else, and had begged her much for liberation, but to give
 liberation is not in her power; by taking shelter at the Acharya's feet he gained bhakti for Krishna and was freed from
-the fear of the round of existence ("Prema-vilasa" 18.202–204). <!-- F35 F34 -->
+the fear of the round of existence ("Prema-vilasa" 18.202–204). <!-- F35 F34 F53 -->
 
 Govinda's life shows that even the firmest other faith gives way when the mercy of a pure devotee arrives. The Goddess
 herself bears witness that there is no deliverance without service to Krishna, and the way to Him opens through shelter
@@ -128,17 +139,19 @@ poet." ("Bhakti-ratnakara" 1.445)
 People marvelled at both his learning and his gift: he could compose songs and sing them as well — he had a beautiful
 voice. One of the biographies calls him a padakarta, a composer of padas, famed for this gift.[^10] <!-- F20 F23 -->
 
-He received the title "Kaviraja" from more than one person. His guru was the first to value his poetry. While Srinivasa
-was staying in Budhari, he joyfully told Govinda to describe the pastimes of Sri Krishna Chaitanya; Govinda began to
-compose prose, verses and songs, and the Acharya, delighted, praised him and gave him the name "Kaviraja"
-("Bhakti-ratnakara" 10.292–296). Later, in Vrindavana, Parameshvara Dasa asked the Gosvamis to hear Govinda's poetry, and
+He received the title "Kaviraja" from more than one person. His guru was the first to value his poetry. The
+"Bhakti-ratnakara" calls Govinda "a treasury of bhakti": day and night he was absorbed in the rasa of serving the
+Acharya. While Srinivasa was staying in Budhari, he joyfully told Govinda to describe the pastimes of Sri Krishna
+Chaitanya; Govinda began to compose prose, verses and songs, and the Acharya, delighted, praised him and gave him the
+name "Kaviraja." He had Shridasa and his other dear ones sing these songs, and "a rain of the nectar of song fell,
+enchanting every mind" ("Bhakti-ratnakara" 10.292–297). Later, in Vrindavana, Parameshvara Dasa asked the Gosvamis to hear Govinda's poetry, and
 all, delighted, said, "The title kaviraja befits him," and began to praise him as Sri Govinda Kaviraja (ibid.
-11.145–147); so too the "Narottama-vilasa": the Gosvamis praised Govinda's verses highly, "and the title 'Kaviraja' was
+11.145–147; on his meeting with the Gosvamis, see below); so too the "Narottama-vilasa": the Gosvamis praised Govinda's verses highly, "and the title 'Kaviraja' was
 approved by all" (9.48–49). The "Bhakti-ratnakara" also says that Sri Jiva, Sri Lokanatha and others in Vrindavana drank the nectar of
 his songs, together gave him the title Kaviraja, and praised him greatly in verse (1.446–447). Srila Bhaktisiddhanta, in
 the "Anubhashya" on CC, Adi 10.85, writes that the name "Kaviraja" was given to Ramachandra Sena and his younger brother
 Govinda by Jiva Gosvami. According to one of the biographies, the title was given to him by Jiva Gosvami, Srinivasa
-Acharya and Jahnava-mata, among others, delighted by his songs full of bhakti.[^11] <!-- F24 Q6 F47 -->
+Acharya and Jahnava-mata, among others, delighted by his songs full of bhakti.[^11] <!-- F24 Q6 F47 F52 -->
 
 One of the Gosvamis' tributes has been preserved in the "Bhakti-ratnakara":
 
@@ -154,15 +167,25 @@ affectionately: "Tell the Acharya the news from here and send me the nectar of t
 arrived there, he reverently placed it on his head and read it, overwhelmed with prema. And when he had returned to
 Budhari and in solitude was gathering his songs, a letter came from Jiva addressed to "Sri Govinda Kaviraja, the
 mahabhagavata": the songs about Krishna that Govinda had sent, now and before, satisfy Jiva like nectar, and yet again
-and again he feels he cannot have enough and asks for more ("Bhakti-ratnakara" 14.30–41; the "Prema-vilasa" also gives
-this letter, appendix, letter 6). There has also been preserved a letter that Ramachandra, Narottama and Govindadasa
+and again he feels he cannot have enough and asks for more ("Bhakti-ratnakara" 14.30–38; the "Prema-vilasa" also gives
+this letter, appendix, letter 6). Having read the letter, Govinda, overwhelmed with feeling, told his elder brother of
+it and sent Jiva the "Gitamrita," a collection of his songs (14.39).[^12] Here the author of the "Bhakti-ratnakara"
+himself could not keep from a song about Govinda's poetry:
+
+"Glory to Govinda, renowned on earth, skilled in distributing the treasure — the jewel of prema, the Kaviraja of
+incomparable, sweet character!" ("Bhakti-ratnakara" 14.41)
+
+The arrangement of his verses, Narahari sings, is wonderful beyond fathoming: like a sharp arrow they pierce the heart,
+and the rasikas reel with delight as they listen; in Vrindavana Srimad Jiva ever drinks them, and the hearts of Narottama
+and Ramachandra overflow with happiness (14.42–44). There has also been preserved a letter that Ramachandra, Narottama and Govindadasa
 wrote together to Jiva, sending him their songs and asking him to explain the verse on service "in the form of a
 sadhaka and in the form of a siddha," and Jiva's reply to the three of them: the songs they sent had done him the
-greatest good ("Prema-vilasa," appendix, letters 4–5). <!-- F26 F32 F33 Q8 F47 F49 -->
+greatest good ("Prema-vilasa," appendix, letters 4–5); the "Bhakti-ratnakara" too gives this letter addressed to the
+three in Kheturi (14.29–33). <!-- F26 F32 F33 Q8 F47 F49 F60 F61 -->
 
 Among Srinivasa's disciples eight kavirajas were especially honoured: Ramachandra, Govinda, Karnapura, Nrisimha,
 Bhagavan, Vallabha Dasa, Gopiramana and Gokula. The "Karnananda" lists them thus: "The eldest of the Kavirajas is
-Ramachandra Kaviraja… His younger brother is Sri Kaviraja Govinda" ("Karnananda" 6.181–182).[^12] At the very beginning
+Ramachandra Kaviraja… His younger brother is Sri Kaviraja Govinda" ("Karnananda" 6.181–182).[^13] At the very beginning
 of the book it already glorifies both brothers — "Glory, glory to Ramachandra Kaviraja and Govinda: the world rejoices
 in the rasa of their lives!" (1.10) — and calls Govinda a great pandita (1.110). <!-- F25 F50 -->
 
@@ -170,12 +193,12 @@ in the rasa of their lives!" (1.10) — and calls Govinda a great pandita (1.110
 With the permission of Santosha Datta, Narottama's cousin and disciple, Govinda composed the drama "Sangita-madhava," in which the
 purvaraga, the dawning of love between Radha and Krishna, is wondrously depicted; Santosha, hearing it, was filled with
 supreme joy ("Bhakti-ratnakara" 1.461–462). Verses of this drama about Ramachandra and Narottama are quoted in the
-"Bhakti-ratnakara."[^13] Santosha and Govinda were great friends: "in everything they are one, only their bodies differ"
+"Bhakti-ratnakara."[^14] Santosha and Govinda were great friends: "in everything they are one, only their bodies differ"
 (ibid. 1.480); Santosha bore Govinda great love, and Govinda lovingly described Santosha's life in his songs
 ("Prema-vilasa" 20.94–95). <!-- F21 F39 Q8 -->
 
 Govinda is best known for his padas, songs for kirtana. One of the biographies mentions his song collections, such as the
-"Gitamrita," as famous in Bengali letters.[^14] He composed his songs in Brajabuli, after the model of Vidyapati's
+"Gitamrita," as famous in Bengali letters. He composed his songs in Brajabuli, after the model of Vidyapati's
 padas: from there came their language and form, while their content is the pastimes of Sri Gaura and Sri Radha-Krishna.
 According to one of the biographies, his songs embody all the rasas described by Sri Rupa Gosvami in the
 "Bhakti-rasamrita-sindhu" and the "Ujjvala-nilamani": shanta, dasya, sakhya, vatsalya and madhurya. The "Prema-vilasa"
@@ -202,12 +225,24 @@ This is vipralambha, the love of the residents of Vraja in separation from Krish
 prema. <!-- F29 Q9 -->
 
 Four hundred and sixty of his songs were included in the collection "Pada-kalpataru." Govindadasa also sang of his guru,
-in the song "Jaya jaya Srinivasa…," in whose signature he calls himself "helpless Govinda dasa." He also composed a song
+in the song "Glory, glory to Sri Srinivasa, the abode of virtues!"; the "Bhakti-ratnakara" quotes it, and it ends with the
+words: "Apart from you, who will give shelter to the fallen, helpless Govindadasa?" (14.209–212). He also composed a song
 about Narottama Thakura: "Glory, glory, glory to Thakura Narottama, the great king of prema-bhakti, whose minister, one
 with him in body, is Ramachandra Kaviraja!"; it ends with the words: "To the poor and lowly he gave the treasure of
 bhakti — only Govindadasa is left deprived" ("Bhakti-ratnakara" 1.439–444). And when King Harinarayana, "foremost among
 Vaishnavas," asked him, Govinda composed for him a song about Sri Rama, signing it: "Govindadasa has firmly settled in his
-heart: [Rama is] Harinarayana's chosen God" (ibid. 1.456–460). <!-- F30 F31 F32 -->
+heart: [Rama is] Harinarayana's chosen God" (ibid. 1.456–460). <!-- F30 F31 F32 F62 -->
+
+Songs signed "Govindadasa" are woven by the "Bhakti-ratnakara" into its account of the circuit of the holy places as
+well.[^15] In Vraja, at the place where Krishna sets out with His friends to graze the cows, his pada is heard about
+Krishna going to the forest — His beauty, His flute and His crown of peacock feathers: "delighting the heart of
+Govindadasa, the lovely anklets sweetly ring" (5.1046–1048). In Navadvipa, on the roads where Gaurachandra danced in
+sankirtana, his padas on the Lord's dance are quoted, in each of which the poet laments over himself: "the whole world
+floats in bliss — Govindadasa hopes for a drop of the ocean of prema"; "in that rasa the high and the low float,
+Govindadasa alone is deprived: who fashioned his chest, hard as wood!" (12.1869–1873, 12.2546–2549, 12.2617–2623). And
+where Gaura walked in the bhava of Radha with Gadadhara and Narahari, there is a pada of how He, leaning against Narahari
+and gazing at Gadadhara's face, cries "Lalita, Vishakha!" — and "this Govindadasa cannot keep his composure"
+(12.2989–2992). <!-- F63 -->
 
 ## In the Circle of Srinivasa and Narottama
 When the great festival at Kheturi was being prepared, the news reached Srinivasa and his companions at Govinda
@@ -222,12 +257,41 @@ there (8.121, 8.138). <!-- F36 F47 -->
 
 Jahnava-devi, the consort of Nityananda, on her way to Kheturi came with her companions to Teliya-Budhari, and Govinda
 Kaviraja respectfully received her and performed puja to her; after spending the night there, all went on to
-Kheturi.[^15] Later, at the Acharya's bidding, Govinda accompanied Jahnava to Vrindavana, bowed there to the Gosvamis, and,
-on returning, passed on their words to Narottama together with the book "Gopala-virudavali"; and when Jahnava was on her
-way back, he took care of her reception in Budhari ("Narottama-vilasa" 9.23–297). He also received in his home
+Kheturi.[^16] He also received in his home
 Virachandra, Nityananda's son: Virachandra came to Govinda Kaviraja's home in Budhari, and Govinda welcomed him
 with great devotion and performed puja to him; pleased, Virachandra stayed with him two days and then went on to
 Kheturi. <!-- F37 F38 -->
+
+After the festival, when Jahnava set out from Kheturi for Vrindavana, Govinda and others went with her at the Acharya's
+command ("Bhakti-ratnakara" 10.749). At the place of Akrura near Mathura the Gosvamis of Vrindavana met her, and
+Parameshvari Dasa began to introduce Srinivasa's disciples to them:
+
+"His name is Govinda; he is a vessel of bhakti-rasa, the life of all Vaishnavas. He is the son of Chiranjiva Sena of
+Khanda, the younger brother of dear Ramachandra." ("Bhakti-ratnakara" 11.115–116)
+
+Gopala Bhatta Gosvami and the others rejoiced and embraced him with great tenderness. When the time came to return to
+Gauda, Govinda with his fellow disciples went to take leave of the Gosvamis, and all shed tears. Gopala Bhatta embraced
+him; Lokanatha Gosvami, with affection, softly told him what to say to Narottama: "Be attentive in the service of the
+Deity, honouring the Vaishnavas with body, mind and speech; observe with care the holy days of Vishnu and the
+Vaishnavas; together with Ramachandra relish bhakti-rasa; and give this message to Srinivasa." Sri Jiva said: "Give
+everyone my loving embraces. The nectar of songs that you have composed — send it to me, and send again whatever more you
+compose," and gave him the "Gopala-virudavali," the book he had written at the command of Sri Rupa, who appeared to him
+in a dream; Krishnadasa Kaviraja and the other learned ones also embraced Govinda (11.272–286). <!-- F54 F55 -->
+
+Returning with Jahnava to Kheturi, Govinda bowed at the feet of Ramachandra and Narottama and, finding a moment alone,
+passed on to Narottama the words of all the Gosvamis and gave him the book; Narottama handed it to Ramachandra (11.308,
+11.354–355). A few days later Govinda with a few companions went ahead to Budhari to prepare Jahnava's reception (11.359;
+so too the "Narottama-vilasa," 9.23–297). In Budhari, in his presence, Jahnava arranged the marriage of Baru Gangadasa and
+Hemalata and entrusted Gangadasa with the service of Shyama-raya; and then Govinda with Ramachandra and Narottama went with
+her to Ekachakra, Nityananda's birthplace, and "what became of Narottama, Ramachandra, Sri Govinda and the others — that
+cannot be told" (11.374–404). When Jahnava reached Kantaka-nagara and Srinivasa hastened there from Yajigrama, Govinda told
+the Acharya about the Gosvamis, and he was greatly shaken; Ramachandra gave him the "Gopala-virudavali," and Srinivasa
+placed it on his head (11.673–680). <!-- F56 F57 F58 -->
+
+Later, in the same Kantaka-nagara, Govinda with Narottama, Ramachandra, Shridasa and Gokulananda had darshan of the Deity
+of Sri Radhika whom Parameshvari Dasa was taking by boat to Vrindavana, to Gopinatha, and with them became mad in the
+kirtana of the Holy Name in the courtyard of Gauranga; and Vira Hambira, the king of Vishnupura, taking his leave, bowed at
+the feet of Ramachandra and Govinda ("Bhakti-ratnakara" 13.82–143). <!-- F59 -->
 
 Govinda knew well the hearts of Ramachandra and Narottama. The "Karnananda," having said that Ramachandra and Narottama are
 equal in virtue and there is no difference between them, adds: "The inner heart of the two is known to Kaviraja Govinda,
@@ -239,7 +303,7 @@ Govinda's wife was named Mahamaya; Srinivasa Acharya bestowed his mercy on the w
 Govinda's grandson as well — Ghanashyama, Divyasimha's son. <!-- F41 F42 F43 -->
 
 Having taken shelter at Srinivasa's feet, Govinda, according to the "Prema-vilasa," spent thirty-six years in sadhana and
-composition (14.198–199).[^16] According to one of the biographies, he left this world on the first day of the bright
+composition (14.198–199).[^17] According to one of the biographies, he left this world on the first day of the bright
 fortnight of the month of Ashvina in the year 1535 of the Shaka era (1613), having lived some seventy-six years. The
 biographies do not name the place of his departure, and the day of his departure is not in the calendar of the Sri
 Chaitanya Saraswat Math. <!-- F19 F44 -->
@@ -250,7 +314,10 @@ but Bhagavati herself pointed him to Krishna, his elder brother's mercy brought 
 to him the gift of singing the pastimes of Gaura and Radha-Krishna. The "Prema-vilasa" calls him an excellent sadhaka
 "by whose nectar of songs the world is purified" (20.14). Govindadasa's songs, composed according to Sri
 Rupa's teaching on the rasas, were loved both by the Gosvamis of Vrindavana and by the Vaishnavas of Gauda, and hundreds
-of them are gathered in the "Pada-kalpataru." <!-- F25 F28 F30 F48 I1 I2 I3 -->
+of them are gathered in the "Pada-kalpataru." Narahari Chakravarti, in his "Gaura-charita-chintamani" (a late source),
+glorifies him right after Ramachandra: "Shri Govinda, king of poets, a treasury of mercy, whose great mind is absorbed in
+Gaura's deeds — his pure preaching of prema, his charming virtues and deeds purify the world" (1.22).
+<!-- F25 F28 F30 F48 F64 I1 I2 I3 -->
 
 [^1]: He should not be confused with his namesakes: Govinda, Mahaprabhu's personal servant in Puri; Govinda Ghosha;
     Govinda Acharya, the "composer of songs and verses" of the "Gaura-ganoddesha-dipika" (41), a companion of the Lord in
@@ -288,13 +355,15 @@ of them are gathered in the "Pada-kalpataru." <!-- F25 F28 F30 F48 I1 I2 I3 -->
     verses 194–207 and 209 speak of his father Chiranjiva and of Sulochana.
 [^11]: There is no real contradiction here: the title of kaviraja was acknowledged at different times by different
     people — first by his guru, then by the Gosvamis of Vrindavana.
-[^12]: One of the biographies attributes both this list and the verse about the "sandal mountain" to the eighteenth
+[^12]: Elsewhere the "Bhakti-ratnakara" (10.297) speaks of "a rain of the nectar of song" (*gitamrita-vrishti*) — there it
+    is not the title of a book. One of the biographies also names the "Gitamrita" among his song collections.
+[^13]: One of the biographies attributes both this list and the verse about the "sandal mountain" to the eighteenth
     chapter of the "Prema-vilasa"; they are not in our edition of the "Prema-vilasa": the verse is in the
     "Bhakti-ratnakara" (1.448), the list of the eight kavirajas in the "Karnananda" (6.181–182).
-[^13]: There is another work entitled "Sangita-madhava," attributed to Prabodhananda Sarasvati; one of the biographies,
+[^14]: There is another work entitled "Sangita-madhava," attributed to Prabodhananda Sarasvati; one of the biographies,
     quoting the drama's verses about Ramachandra and Narottama, does not name the author. These are two different books.
-[^14]: There is no book called "Gitamrita" in the original sources; the "Bhakti-ratnakara" (10.297) says only that his
-    songs poured down as "a rain of the nectar of songs" (*gitamrita-vrishti*).
-[^15]: One of the biographies places Budhari "in Kanthaka-nagara" (Katwa); in fact Teliya-Budhari lies on the Padma, in
+[^15]: That these padas belong to Govinda Kaviraja rests only on the signature "Govindadasa," which tradition refers to
+    him; other poets too signed with the name Govinda.
+[^16]: One of the biographies places Budhari "in Kanthaka-nagara" (Katwa); in fact Teliya-Budhari lies on the Padma, in
     the Murshidabad district.
-[^16]: Some editions read thirty-two years.
+[^17]: Some editions read thirty-two years.
