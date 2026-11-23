@@ -10,13 +10,15 @@
       11.108–110. Внежитийно: «Айн-и Акбари» (1590-е) — каждый раз выносят большие блюда пищи, «так что 20 000 человек
       вкушают остатки»; Мукундарам (ок. 1590) — в Пури «рис продают на базаре», люди четырёх варн едят вместе, «прасад
       равен воде Ганги» (см. mc-prasad-bazar); Hunter (1872, XIX в.) — паломникам не готовят сами, пищу перед продажей
-      предлагают Джаганнатхе в наружном зале.
+      предлагают Джаганнатхе в наружном зале. Hunter (1872): на Ратха-ятру храмовая кухня рассчитывает на 90 000
+      едоков; от храма кормятся ≈ 20 000 человек.
     en: >-
       CC Madhya 6.39–45, 6.224–234 (Sarvabhauma eats dry mahaprasada without waiting to bathe); CC Madhya 11.108–110.
       Outside the hagiographies: Ain-i Akbari (1590s) — each time great dishes of food are brought out 'so that 20,000
       people partake of the remains'; Mukundaram (c. 1590) — in Puri 'rice is sold in the bazaar', people of the four
       varnas eat together, 'prasad equals Ganga water' (see mc-prasad-bazar); Hunter (1872, 19th c.) — pilgrims do not
-      cook for themselves, food is offered to Jagannatha in the outer hall before sale.
+      cook for themselves, food is offered to Jagannatha in the outer hall before sale. Hunter (1872): at Ratha-yatra
+      the temple kitchen reckons on 90,000 diners; ≈ 20,000 people live off the temple.
   text:
     ru: >-
       Пищу, поднесённую Джаганнатхе, называют махапрасадом — «великой милостью». Её приносили из храма в глиняных
@@ -31,7 +33,8 @@
   hagiography: ["ЧЧ Мадхья 6.39–45", "ЧЧ Мадхья 6.224–234", "ЧЧ Мадхья 11.108–110"]
   sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128",
             "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149–150",
-            "Hunter, Orissa I (1872), с. ≈ 145–146 (XIX в.)"]
+            "Hunter, Orissa I (1872), с. ≈ 145–146 (XIX в.)",
+            "Hunter, Orissa (1872), т. I, с. 126–128, 147–148 (XIX в.)"]
   images: [{file: "material-culture/img/puri-painting-jagannath-temple-pilgrims.jpg", license: "PD (Public Domain Mark 1.0)", author: "живописец-читракар из Пури (патачитра, «карта храма»)", url: "https://wellcomecollection.org/works/ma8nvaca", note: "ок. 1880–1910.; Wellcome Collection — 45186i (b12029981), холст, темпера, 122 × 194,5 см."}]
   game: {model: "стопка новых глиняных горшков с рисом и овощами, перевязанных; корзины", where: ["puri/temple-kitchen"]}
 
@@ -45,13 +48,17 @@
       Божество на шёлковых верёвках по подушкам-тули; дорога усыпана белым песком; колесницу тянут гауды. Размеры
       колесниц в житиях не названы — только по поздним данным (PD XIX в.). «Айн-и Акбари» (1590-е) — колесница о 16
       колёсах зовётся *ратх*; верят, что тянущий её очищается от греха (число колёс — для колесницы Джаганнатхи;
-      размеры — только XIX в.).
+      размеры — только XIX в.). ⚠ Размеры — только XIX в. (Hunter 1872): колесница Джаганнатхи «по канону» 45 футов
+      высотой (≈ 13,7 м), 16 колёс по 7 футов (≈ 2,1 м), основание 35 × 35 футов; колесницы брата и сестры на
+      несколько футов ниже. При Пратапарудре могли быть иными.
     en: >-
       CC Madhya 13.8–28: three chariots, silk cloth, mirrors, a canopy, a banner, gongs and bells; the dayitas carry
       the Deity on silk ropes over tuli cushions; the road is strewn with white sand; the chariot is pulled by gaudas.
       Chariot dimensions are not given in the hagiographies — only in later (19th-c. PD) data. Ain-i Akbari (1590s) —
       the chariot of 16 wheels is called *rath*; it is believed that whoever draws it is cleansed of sin (the wheel
-      count is for Jagannatha's chariot; dimensions only from the 19th c.).
+      count is for Jagannatha's chariot; dimensions only from the 19th c.). ⚠ Dimensions only from the 19th c. (Hunter
+      1872): Jagannatha's chariot 'by rule' 45 ft high (≈ 13.7 m), 16 wheels of 7 ft (≈ 2.1 m), base 35 × 35 ft; the
+      brother's and sister's chariots a few feet lower. Under Prataparudra they may have differed.
   text:
     ru: >-
       На Ратха-ятру Джаганнатха, Баладева и Субхадра выезжают на трёх огромных деревянных колесницах, «высоких, как гора
@@ -66,11 +73,12 @@
       cushions that burst beneath His tread. The road was strewn with white sand, and hundreds of people hauled the
       chariot by ropes — yet it moved only by Jagannatha's own will.
   hagiography: ["ЧЧ Мадхья 13.8–28", "ЧЧ Мадхья 14 (Хера-панчами)"]
-  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128"]
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128",
+            "Hunter, Orissa (1872), т. I, с. 132–133 (XIX в.)"]
   images: [{file: "material-culture/img/puri-painting-jagannath-temple-pilgrims.jpg", license: "PD (Public Domain Mark 1.0)", author: "живописец-читракар из Пури (патачитра, «карта храма»)", url: "https://wellcomecollection.org/works/ma8nvaca", note: "ок. 1880–1910.; Wellcome Collection — 45186i (b12029981), холст, темпера, 122 × 194,5 см."}]
   game: {model: "три колесницы (размеры — по PD XIX в., ждут проверки), канаты, песок на Бада-данде",
          where: ["puri/bada-danda"], notes: "Божество — Сам Господь: никаких «статуй»; анимация — с благоговением"}
-  todo: "размеры колесниц — только XIX в. (Hunter 1872), с пометкой"
+  todo: "найти размеры колесниц до XIX в. (Мадала-панджи?)"
 
 - id: mc-king-sweeper
   title: {ru: "Царь с золотой метлой", en: "The king with a golden broom"}

@@ -231,7 +231,9 @@
       констебль (*котовал*?) доносит царю и подробно описывает облик Господа — 4.24–35; Рамакели «славится красотой»,
       тайная ночная встреча с Дабиром Кхасом и Сакаром Малликом — ЧЧ Мадхья 1.166–218; повторный приход — ЧЧ Мадхья
       16.211, 16.260. Султан — mc-sultan-gauda; министры — mc-royal-ministers. Эпоха: Баррош (1530-е) — столица Гауда
-      тянется на три лиги вдоль Ганги («1 200 000 семейств» — явное преувеличение).
+      тянется на три лиги вдоль Ганги («1 200 000 семейств» — явное преувеличение). Abid Ali (1931): Рамакели —
+      деревня в южной части Гауды, где жило много почтенных людей; пруды Рупа-сагар и Санатана-сагар сохранились; в
+      память о приходе Махапрабху (в джьяйштху) в Рамакели каждый июнь бывает ярмарка.
     en: >-
       'Near the capital Gauda on the bank of the Ganga is the village of Ramakeli; all its inhabitants are brahmins' —
       CB Antya 4.5; the Lord spends 4–5 days at Ramakeli, crowds, 'even Muslims chanted Hari's name and bowed from
@@ -239,7 +241,9 @@
       detail — 4.24–35; Ramakeli 'famed for its beauty', the secret night meeting with Dabir Khas and Sakar Mallik —
       CC Madhya 1.166–218; a return visit — CC Madhya 16.211, 16.260. The Sultan — mc-sultan-gauda; the ministers —
       mc-royal-ministers. Period: Barros (1530s) — the capital Gauda stretches three leagues along the Ganga
-      ('1,200,000 families' — a plain exaggeration).
+      ('1,200,000 families' — a plain exaggeration). Abid Ali (1931): Ramakeli is a village in the southern part of
+      Gauda where many respectable people lived; the Rupa-sagar and Sanatana-sagar tanks survive; in memory of
+      Mahaprabhu's visit (in Jyaishtha) a fair is held at Ramakeli every June.
   text:
     ru: >-
       В нескольких милях от Гауды, столицы бенгальского султана, на берегу Ганги лежала брахманская деревня Рамакели,
@@ -257,7 +261,8 @@
       petals.' The ministers came to the Lord secretly, in the dead of night, with a straw between their teeth — a sign
       of humility.
   hagiography: ["ЧБ Антья 4.5–35", "ЧЧ Мадхья 1.166–218", "ЧЧ Мадхья 16.211", "ЧЧ Мадхья 16.260"]
-  sources: ["Баррош (1530-е), по прим. Бадджера в Varthema (1863), с. 211"]
+  sources: ["Баррош (1530-е), по прим. Бадджера в Varthema (1863), с. 211",
+            "Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931), с. 34–35"]
   images: []
   game: {model: "деревня у Ганги: кирпичные дома знати рядом с хижинами; вдали — стены и ворота Гауды (кирпич, изразцы)",
          where: ["travel/ramakeli"], notes: "облик Гауды — по руинам (Бара-Сона-масджид, 1526) — проверить по PD (Ravenshaw, Gaur, 1878)"}

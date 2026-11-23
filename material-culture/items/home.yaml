@@ -15,7 +15,9 @@
       Эпоха: Фитч (1586) — в Сонаргаоне дома «очень маленькие, крыты соломой, по стенам несколько циновок и дверь от
       тигров и лис»; в Бакле — дома высокие и красивые, улицы широкие; «Айн-и Акбари» (1590-е) — дома Бенгалии из
       бамбука, иные очень дороги и долговечны; в Ориссе стены хижин из тростника; Федеричи (1569) — соломенные
-      дома-однодневки у стоянки кораблей (см. mc-straw-village).
+      дома-однодневки у стоянки кораблей (см. mc-straw-village). Исследования: бамбуковые дома крыли скатами от
+      конька; изогнутая кровля хижины повторена в кирпичных мечетях Хусейн-шахов (Чхоти-Сона в Гауде) — Karim 1959,
+      Тарафдар 1965; каменных жилых домов почти не было, кирпичные — редки (Raychaudhuri 1953).
     en: >-
       The hagiographies mention only the "house" (ghara) and separate rooms; the look of the hut is reconstructed from
       17th-c. terracotta temples that copy thatched roofs and from 19th-c. ethnography. Thatch on bamboo posts is
@@ -23,7 +25,9 @@
       Fitch (1586) — in Sonargaon the houses are 'very little, covered with straw, with a few mats round the walls and
       a door to keep out tigers and foxes'; in Bakla houses are tall and fair, streets broad; Ain-i Akbari (1590s) —
       Bengal houses are of bamboo, some costly and long-lasting; in Orissa hut walls are of reed; Federici (1569) —
-      temporary straw houses by the ships' anchorage (see mc-straw-village).
+      temporary straw houses by the ships' anchorage (see mc-straw-village). Studies: bamboo houses were roofed in
+      slopes from the ridge; the curved hut roof was copied in the Husain Shahis' brick mosques (Chhoti Sona at Gauda)
+      — Karim 1959, Tarafdar 1965; stone dwellings were almost unknown, brick ones rare (Raychaudhuri 1953).
   text:
     ru: >-
       Бенгальский дом — не одно здание, а несколько хижин вокруг общего двора. Каждая стоит на поднятом глиняном
@@ -48,7 +52,10 @@
             "Kennedy, The Chaitanya Movement (1925), с. 88–89; Ward (1863), с. 178 — храм джор-бангла как две хижины",
             "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 110, 118–120",
             "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 126",
-            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410–411"]
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410–411",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 296, 330–331",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 218–219",
+            "Karim, Social History of the Muslims in Bengal (1959), с. 190"]
   images: [{file: "material-culture/img/hodges-1786-farmyard-bengal-huts.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Hodges (1744–1797).", url: "https://wellcomecollection.org/works/xrs5r8g9", note: "1 августа 1786 (London: J. Wells), мягкий лак с акватинтой, сепия.; Wellcome Collection — 26670i (Sierra b11845168; image V0050414)."},
            {file: "material-culture/img/bengal-thatched-huts-dog-etching.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестен (подписи по-французски; вероятно, из французского издания Сольвинса «Les Hindoûs», 1808–1812, или естественно-исторической серии).", url: "https://wellcomecollection.org/works/kmqst6k6", note: "нач. XIX в. (в каталоге без даты).; Wellcome Collection — 42184i (Sierra b12000036; image V0022885)."},
            {file: "material-culture/img/solvyns-1799-man-outside-hut.jpg", license: "PD (Public Domain Mark 1.0)", author: "François Balthazar Solvyns (1760–1824).", url: "https://wellcomecollection.org/works/kh93xg86", note: "1799 (Калькутта, серия «A Collection of Two Hundred and Fifty Coloured Etchings…»).; Wellcome Collection — 30574i (Sierra b11884149; image V0050381EL)."},
@@ -202,8 +209,14 @@
   rubric: home
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧБ Ади 5.22–31 — подробный рассказ о приёме странствующего брахмана."
-    en: "CB Adi 5.22–31 is a detailed account of receiving a wandering brahmin."
+    ru: >-
+      ЧБ Ади 5.22–31 — подробный рассказ о приёме странствующего брахмана. Исследования: гостя-гуру или санньяси
+      хозяин встречает земным поклоном, хозяйка омывает ему стопы, усадив на пиди, и стелет коврик во внешних покоях —
+      Тарафдар 1965.
+    en: >-
+      CB Adi 5.22–31 is a detailed account of receiving a wandering brahmin. Studies: the host greets a guru or
+      sannyasi guest with a prostration, the housewife washes his feet seating him on a *pidi*, and spreads a rug in
+      the outer rooms — Tarafdar 1965.
   text:
     ru: >-
       Гость в бенгальском доме — посланник Бога. Когда к дому подошёл странствующий брахман, Джаганнатха Мишра встал,
@@ -216,7 +229,7 @@
       Vaishnava ate only what he himself had cooked and offered to his Gopala, so Mishra had the kitchen washed and the
       best provisions made ready for him. Guests sat on a low wooden stool (pidi) or on a mat.
   hagiography: ["ЧБ Ади 5.22–31", "ЧЧ Мадхья 3.40 (Адвайта омыл стопы Махапрабху)", "ЧБ Ади 17.83"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 329–330"]
   images: []
   game: {model: "латунный кувшин-гхати и широкая чаша для омовения стоп; пиди — доска 40×25 см на коротких ножках",
          where: ["mishra-house/courtyard"], codex: hs_stool}
@@ -261,8 +274,14 @@
   rubric: home
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧБ Ади 4.32 (ш́айане — «в постельке»); Лочан, Ади-кханда, ч. 2, ст. 123 (шёлковое покрывало, тюфячок)."
-    en: "CB Adi 4.32 (shayane — 'in bed'); Lochana, Adi-khanda pt. 2 v. 123 (a silk coverlet and a small mattress)."
+    ru: >-
+      ЧБ Ади 4.32 (ш́айане — «в постельке»); Лочан, Ади-кханда, ч. 2, ст. 123 (шёлковое покрывало, тюфячок).
+      Исследования: в спальне богатого — украшенная кровать, подушки, кувшины, полог от комаров из шёлка или джута
+      (Тарафдар 1965); кровать — главная мебель (Raychaudhuri 1953).
+    en: >-
+      CB Adi 4.32 (shayane — 'in bed'); Lochana, Adi-khanda pt. 2 v. 123 (a silk coverlet and a small mattress).
+      Studies: a rich man's bedroom — a decorated bed, pillows, water pots, a mosquito curtain of silk or jute
+      (Tarafdar 1965); the bed was the chief piece of furniture (Raychaudhuri 1953).
   text:
     ru: >-
       Младенец спал рядом с матерью или в своей маленькой постельке. Вриндаван Дас рассказывает, как Нимай, услышав
@@ -277,7 +296,9 @@
   hagiography: ["ЧБ Ади 4.30–33", "Лочан, Ади-кханда, ч. 2, ст. 121–124"]
   sources: ["Day 1874, с. 28–29 (в крестьянском доме кровати нет: циновка и стёганое одеяло на глиняном полу)",
             "Martin 1838, т. 3, с. xiii–xiv (кхатия — кровать из жердей с верёвочной сеткой; Бихар)",
-            "Hunter 1875, т. 2, с. 240 (дощатая лежанка takhtposh у зажиточных)"]
+            "Hunter 1875, т. 2, с. 240 (дощатая лежанка takhtposh у зажиточных)",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 331",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 219"]
   images: []
   game: {model: "низкая лежанка на полу: тюфяк, покрывало; рядом — подвесная люлька? (не подтверждено)",
          where: ["mishra-house/main-hut", "mishra-house/sutika-ghar"]}

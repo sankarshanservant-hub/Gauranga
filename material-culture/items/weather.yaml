@@ -89,13 +89,16 @@
       — ЧБ Мадхья 12.6, 13.137; у Чхатрабхоги «Ганга разливается на сотни потоков» — ЧБ Антья 2.61–62. Смена русла и
       размывание берегов у Навадвипы — по картам и описаниям XVIII–XIX вв. (поздн.). Эпоха: «Айн-и Акбари» — прежние
       правители насыпали по всей стране валы-*ал* 10 ярдов высотой и 20 шириной (отсюда, по Абу-л Фазлу, «Банг-ал»); в
-      разлив видны лишь они.
+      разлив видны лишь они. Eaton (1993): главное русло Ганги при Махапрабху шло по западу — нынешней
+      Бхагиратхи–Хугли; в Падму река свернула лишь в XVI в.
     en: >-
       The Lord's tears "like the flood of the Ganga in the month of Bhadra" — CB Antya 2.125; in the rains the Ganga
       teems with crocodiles — CB Madhya 12.6, 13.137; at Chhatrabhoga "the Ganga spreads into a hundred streams" — CB
       Antya 2.61–62. Shifts of the channel and erosion of the banks near Navadvipa — from 18th–19th-c. maps and
       accounts (late). Period: Ain-i Akbari — former rulers raised *al* embankments 10 yards high and 20 broad across
-      the land (hence, says Abu'l Fazl, 'Bang-al'); in flood only they show above water.
+      the land (hence, says Abu'l Fazl, 'Bang-al'); in flood only they show above water. Eaton (1993): in Mahaprabhu's
+      time the Ganga's main channel ran in the west — today's Bhagirathi–Hugli; it swung into the Padma only in the
+      16th c.
   text:
     ru: >-
       К бхадре, концу сезона дождей, Ганга поднимается выше всего: мутная бурая вода затапливает низкие берега и острова,
@@ -110,7 +113,8 @@
       places where houses stood in Mahaprabhu's time later ended up under water or on the other bank. Vrindavana dasa
       compares the stream of tears from the Lord's eyes to the flood of Bhadra.
   hagiography: ["ЧБ Антья 2.125", "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.61–62"]
-  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120"]
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120",
+            "Eaton, The Rise of Islam and the Bengal Frontier (1993), гл. 1"]
   images: []
   audio: []
   game: {model: "широкая мутная река, затопленные ступени гхата, плывущие ветки", where: ["ganga-ghat"]}

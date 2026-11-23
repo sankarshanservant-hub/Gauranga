@@ -450,7 +450,10 @@
       вдова брахмана — ЧЧ Антья 3.15–16; Лакшахира оставляет одну ткань и бреет голову — ЧЧ Антья 3.139 (обет
       отречения, не вдовство). Позднее: вдова без цветной каймы и украшений, кроме бус, голова обрита — Solvyns 1804,
       pl. XXXVIII; простые белые дхоти вдов — N. G. Mukerji 1903. Фэй Синь (1436) об индусах Бенгалии: овдовевшая жена
-      не выходит снова замуж (он прибавляет, что и вдовец не женится, — ⚠ вероятно, неточность).
+      не выходит снова замуж (он прибавляет, что и вдовец не женится, — ⚠ вероятно, неточность). Исследования: вдова
+      носила грубую ткань вместо шанкхи и киновари; сати не было всеобщим — Шачи после ухода Джаганнатхи Мишры не
+      взошла на костёр (Тарафдар 1965); молоденьким вдовам родные иногда позволяли красный порошок и золотые браслеты
+      вместо киновари и шанкхи (Das Gupta 1935, по мангала-кавьям).
     en: >-
       Period: the Manasa-mangal (Vijay Gupta, 1494, and others) — Chand's widowed daughters-in-law put on the widow's
       white sari, wipe away their sindur and break their shell bangles (Sen 1911, p. 262). Hagiographies: Shachi, "the
@@ -458,7 +461,10 @@
       shaves her head — CC Antya 3.139 (a vow of renunciation, not widowhood). Later: a widow with no coloured border
       and no ornaments but beads, head shaved — Solvyns 1804, pl. XXXVIII; plain white dhotis for widows — N. G.
       Mukerji 1903. Fei Xin (1436) on Bengal's Hindus: a widowed wife does not marry again (he adds that a widower
-      does not either — ⚠ probably a misunderstanding).
+      does not either — ⚠ probably a misunderstanding). Studies: a widow wore coarse cloth in place of conch bangle
+      and vermilion; sati was not universal — Shachi did not ascend the pyre after Jagannatha Mishra's passing
+      (Tarafdar 1965); young widows were sometimes allowed red powder and gold bangles instead of vermilion and conch
+      (Das Gupta 1935, after mangal-kavyas).
   text:
     ru: >-
       Овдовев, бенгальская женщина стирала синдур с пробора, ломала раковинные браслеты и надевала белую ткань без
@@ -476,7 +482,9 @@
             "Solvyns 1804, pl. XXXVIII",
             "N. G. Mukerji 1903 (белые дхоти вдов)",
             "Taylor 1840, с. 265",
-            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 327–328",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 3–4"]
   images: []
   game: {model: "Шачи после смерти мужа: белое сари без каймы, голова покрыта краем, без шакхи и синдура; тонкие бусы",
          where: ["mishra-house/courtyard"]}
@@ -521,11 +529,15 @@
     ru: >-
       ЧБ Мадхья 7.57–69: кушетка под красной тканью, балдахины, кровать под тонким шёлком, кувшины *джха̄ри*, латунная
       коробка с паном (*питалера ба̄т̣а̄*), плевательницы (*а̄лава̄т̣и*), зеркало, опахала из павлиньих перьев, тилака
-      *ӯрдхва-пун̣д̣ра* из сандала с точками, волосы с маслом *а̄малаки*, паланкин.
+      *ӯрдхва-пун̣д̣ра* из сандала с точками, волосы с маслом *а̄малаки*, паланкин. Raychaudhuri (1953) берёт приёмную
+      Пундарики по ЧБ как образец быта богатого бенгальца: кровать с латунными пластинами под пологом, шёлковые
+      подушки, кувшины, латунная шкатулка для бетеля, двое слуг с павлиньими опахалами.
     en: >-
       CB Madhya 7.57–69: a couch draped in red cloth, canopies, a bed under fine silk, *jhari* water pots, a brass pan
-      box (*pitalera bata*), spittoons (*alavati*), a mirror, peacock-feather fans, an *urdhva-pundra* tilaka of sandal
-      with dots, hair dressed with *amalaki* oil, a palanquin.
+      box (*pitalera bata*), spittoons (*alavati*), a mirror, peacock-feather fans, an *urdhva-pundra* tilaka of
+      sandal with dots, hair dressed with *amalaki* oil, a palanquin. Raychaudhuri (1953) takes Pundarika's chamber in
+      CB as a model of a wealthy Bengali's life: a bed with brass plates under a canopy, silk pillows, water pots, a
+      brass betel box, two servants with peacock fans.
   text:
     ru: >-
       Пундарика Видьянидхи, великий преданный из Читтагонга, жил как принц — и этим смутил Гададхару. Он сидел на
@@ -542,7 +554,7 @@
       vertical tilaka of sandal with dots of sandal and vermilion; his hair dressed and scented with amalaki oil. But
       when Mukunda recited a verse on bhakti, Vidyanidhi fell senseless in tears of love: the luxury was only a veil.
   hagiography: ["ЧБ Мадхья 7.57–69", "ЧБ Мадхья 7.73–88"]
-  sources: []
+  sources: ["Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 219"]
   images: []
   game: {model: "кушетка с красным покрывалом и медными подлокотниками, балдахин; латунная коробка-бата для пана; плевательница; ручное зеркало; два павлиньих опахала",
          where: ["navadvipa/pundarika-house"]}
@@ -595,7 +607,10 @@
       Мадхья 1). ⚠ Барбоза описывает портовый город «Бенгала». Ма Хуань (1433): мужчины — белый хлопковый тюрбан,
       длинное платье с круглым воротом, подпоясанное вышитым кушаком, кожаные туфли; царь и вельможи одеты
       по-мусульмански, «очень чисты и опрятны»; Фэй Синь (1436): длинная белая хлопковая рубаха, низкие туфли из
-      овечьей кожи с золотой нитью.
+      овечьей кожи с золотой нитью. Исследования: знатные мусульмане Гауды (по Барбозе) — длинные тонкие белые одежды
+      до щиколоток, пояса, шёлковые шарфы, перстни, тюрбаны, кинжал; простые горожане — короткие белые рубахи до
+      середины бедра, маленький тюрбан в 3–4 витка, золочёные сандалии; портные — по преимуществу мусульмане (Тарафдар
+      1965); простой народ в грязи дождей обуви и изара не носил (Karim 1959).
     en: >-
       Period: Barbosa (c. 1514–1518), tr. Stanley 1866, p. 180 — Bengal's Muslim nobles and common people (in detail).
       Hagiographies: at the sultan's court — the physician Mukunda and a servant with a peacock fan behind the sultan
@@ -603,7 +618,10 @@
       as the sultan's ministers (CC Madhya 1). ⚠ Barbosa describes the port city "Bengala". Ma Huan (1433): men wear a
       white cotton turban, a long round-collared gown girt with an embroidered sash, leather shoes; king and nobles
       dress as Muslims, 'very clean and neat'; Fei Xin (1436): a long white cotton shirt, low sheepskin shoes worked
-      with gold thread.
+      with gold thread. Studies: Gauda's Muslim nobles (after Barbosa) — long fine white robes to the ankle, girdles,
+      silk scarves, rings, turbans, a dagger; ordinary townsmen — short white shirts to mid-thigh, a small turban of
+      3–4 turns, gilded sandals; tailors mostly Muslims (Tarafdar 1965); common folk in the rainy mud wore neither
+      shoes nor izar (Karim 1959).
   text:
     ru: >-
       Мусульмане, в отличие от индусов, носили шитую одежду. Знатный мусульманин Бенгалии в дни Махапрабху ходил в
@@ -620,7 +638,9 @@
   hagiography: ["ЧЧ Мадхья 15.120–123", "ЧБ Мадхья 23.101–112", "ЧЧ Мадхья 1.175–185"]
   sources: ["Barbosa, пер. Stanley 1866, с. 180",
             "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
-            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442–443"]
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442–443",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 313, 316",
+            "Karim, Social History of the Muslims in Bengal (1959), с. 192–193"]
   images: []
   game: {model: "кази: белая длинная рубаха-джама до щиколоток, шёлковый кушак, кинжал, белая шапочка/малая чалма, кожаные туфли; слуга с павлиньим опахалом",
          where: ["navadvipa/kazi-house", "gauda/court"]}
@@ -676,17 +696,19 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Вьющиеся волосы Нимая — ЧБ Ади 8.185, 13.63, Мадхья 2.247; «волосы, собранные в узел на верху головы» — ЧБ Мадхья
-      3.185; масло амалаки — ЧБ Мадхья 7.64 (Пундарика), Лочан Ади ч. 7.531 (перед свадьбой); преданный расчёсывает
-      волосы Господа — ЧБ Мадхья 9.122; «сухие волосы» = не купался — ЧБ Ади 6.131; печаль о длинных локонах после
-      санньясы — ЧЧ Мадхья 3.152. Общая картина: «до XVI в. бенгальцы носили длинные волосы, умащали и заплетали их» —
-      Sen 1911, с. 389.
+      Вьющиеся волосы Нимая — ЧБ Ади 8.185, 13.63, Мадхья 2.247; «волосы, собранные в узел на верху головы» — ЧБ
+      Мадхья 3.185; масло амалаки — ЧБ Мадхья 7.64 (Пундарика), Лочан Ади ч. 7.531 (перед свадьбой); преданный
+      расчёсывает волосы Господа — ЧБ Мадхья 9.122; «сухие волосы» = не купался — ЧБ Ади 6.131; печаль о длинных
+      локонах после санньясы — ЧЧ Мадхья 3.152. Общая картина: «до XVI в. бенгальцы носили длинные волосы, умащали и
+      заплетали их» — Sen 1911, с. 389. Das Gupta (1935): при мусульманах мужчины-индусы начали стричь волосы до плеч
+      («бабри»); прежде носили длинные (у Виджая Гупты).
     en: >-
       Nimai's curling hair — CB Adi 8.185, 13.63, Madhya 2.247; "hair gathered in a knot on the crown" — CB Madhya
       3.185; amalaki oil — CB Madhya 7.64 (Pundarika), Lochana Adi pt. 7.531 (before the wedding); a devotee combs the
       Lord's hair — CB Madhya 9.122; "dry hair" = had not bathed — CB Adi 6.131; grief for the long locks after
       sannyasa — CC Madhya 3.152. General picture: "up to the 16th century the Bengalis wore their hair long, scented
-      and plaited it" — Sen 1911, p. 389.
+      and plaited it" — Sen 1911, p. 389. Das Gupta (1935): under Muslim rule Hindu men began cutting their hair to
+      the shoulders ('babri'); before, they wore it long (Vijaya Gupta).
   text:
     ru: >-
       Во времена Махапрабху бенгальцы не стриглись коротко: мужчины носили длинные волосы, умащали их душистым маслом и
@@ -702,7 +724,8 @@
       Brahmins kept a shikha tuft on the crown (see mc-tilak-shikha-thread).
   hagiography: ["ЧБ Ади 6.131", "ЧБ Ади 8.185", "ЧБ Ади 13.63", "ЧБ Мадхья 2.247", "ЧБ Мадхья 3.185", "ЧБ Мадхья 7.64",
                 "ЧБ Мадхья 9.122", "ЧЧ Мадхья 3.152", "Лочан, Ади-кханда, ч. 7, ст. 531"]
-  sources: ["Sen 1911, с. 389"]
+  sources: ["Sen 1911, с. 389",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 10–12"]
   images: []
   game: {model: "Нимай-пандит: волосы до плеч, вьющиеся, собраны в узел на макушке; после санньясы — бритая голова",
          where: []}
@@ -718,14 +741,20 @@
       по спине, цветы гандхараджа и чампаки в ушах, гребни в волосах). Канчули у поэтов с 1494 г. — Sen 1911, с. 388.
       Эпоха: Фэй Синь (1436) — серьги с камнями в золоте, подвески на шее, золотые браслеты на запястьях и щиколотках,
       кольца на пальцах рук и ног (у горожанок Бенгалии); Фитч (1586, Бакла) — много серебряных обручей на шее и
-      руках, на ногах — кольца из серебра, меди и слоновой кости.
+      руках, на ногах — кольца из серебра, меди и слоновой кости. Исследования: убор женщины в поэзии эпохи — кольцо,
+      ожерелье, украшение в нос, золотые браслеты, шанкха, кольца на пальцы ног *пашули*, сурьма, алта, киноварь,
+      мускус с сандалом, узел и коса с цветами (Тарафдар 1965; Raychaudhuri 1953; Das Gupta 1935 — названия украшений
+      по падам и мангала-кавьям XV–XVIII вв., вперемешку).
     en: >-
       Lochana, Adi-khanda pt. 10.84–86 (silk saris, kajal, necklaces, bangles, belts with bells, sindur with a dot of
       sandal, betel in hand) and pt. 14.135–148 (bodices of fine cloth, the *kanada* knot, pearls set in gold, scarlet
       tassels down the back, gandharaja and champaka flowers in the ears, combs in the hair). The kanchuli in poets
       from 1494 — Sen 1911, p. 388. Period: Fei Xin (1436) — earrings set with stones in gold, pendants at the neck,
       gold bangles on wrists and ankles, rings on fingers and toes (Bengali townswomen); Fitch (1586, Bakla) — many
-      silver hoops on neck and arms, rings of silver, copper and ivory on the legs.
+      silver hoops on neck and arms, rings of silver, copper and ivory on the legs. Studies: a woman's adornment in
+      the poetry of the period — ring, necklace, nose ornament, gold bangles, conch bangle, *pashuli* toe rings, kohl,
+      alta, vermilion, musk with sandal, a knot and braid with flowers (Tarafdar 1965; Raychaudhuri 1953; Das Gupta
+      1935 — ornament names from padas and mangal-kavyas of the 15th–18th c., mixed).
   text:
     ru: >-
       Когда по Надии разнеслась весть о свадьбе Вишвамбхары, горожанки спешно наряжались: шёлковые сари и лифы из
@@ -743,7 +772,10 @@
   hagiography: ["Лочан, Ади-кханда, ч. 10, ст. 84–86", "Лочан, Ади-кханда, ч. 14, ст. 135–148"]
   sources: ["Sen 1911, с. 388–389 (канчули, одна)",
             "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
-            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 118"]
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 118",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 327",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 221",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 41–56"]
   images: []
   game: {model: "горожанка: шёлковое сари, лиф-канчули, узел на затылке с жемчужной нитью и алыми кистями, цветок чампаки за ухом, каджал",
          where: ["navadvipa/lane"]}
@@ -873,15 +905,19 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      ЧЧ Антья 13.114 (Господь снимает со Своей шеи бусы и надевает их на Рагхунатху Бхатту), 13.123 (длинная туласи-мала
-      Джаганнатхи), 13.134; ЧЧ Мадхья 24.328 (о ношении бус туласи — тема «Хари-бхакти-виласы»), 22.119 и 24.332 (джапа на
-      чётках); ЧБ Мадхья 5.1 (Господь, повторяющий имя на чётках). Бусы из дерева туласи для джапы — Ward 1863, с. ~163;
-      вайшнав «в ожерелье из туласи» — там же, с. 356–357 [поздн.].
+      ЧЧ Антья 13.114 (Господь снимает со Своей шеи бусы и надевает их на Рагхунатху Бхатту), 13.123 (длинная
+      туласи-мала Джаганнатхи), 13.134; ЧЧ Мадхья 24.328 (о ношении бус туласи — тема «Хари-бхакти-виласы»), 22.119 и
+      24.332 (джапа на чётках); ЧБ Мадхья 5.1 (Господь, повторяющий имя на чётках). Бусы из дерева туласи для джапы —
+      Ward 1863, с. ~163; вайшнав «в ожерелье из туласи» — там же, с. 356–357 [поздн.]. «Хари-бхакти-виласа» (по De
+      1961): чётки и гирлянды — из листьев и бусин туласи, семян лотоса или плодов амалаки; освящают панчагавьей и
+      мантрой.
     en: >-
       CC Antya 13.114 (the Lord takes the beads from His own neck and puts them on Raghunatha Bhatta), 13.123
-      (Jagannatha's long tulasi-mala), 13.134; CC Madhya 24.328 (wearing tulasi beads — a topic of Hari-bhakti-vilasa),
-      22.119 and 24.332 (japa on beads); CB Madhya 5.1 (the Lord chanting the name on beads). Tulasi-wood beads for
-      japa — Ward 1863, p. ~163; a Vaishnava "in a necklace of tulasi beads" — ibid., pp. 356–357 [later].
+      (Jagannatha's long tulasi-mala), 13.134; CC Madhya 24.328 (wearing tulasi beads — a topic of
+      Hari-bhakti-vilasa), 22.119 and 24.332 (japa on beads); CB Madhya 5.1 (the Lord chanting the name on beads).
+      Tulasi-wood beads for japa — Ward 1863, p. ~163; a Vaishnava "in a necklace of tulasi beads" — ibid., pp.
+      356–357 [later]. Hari-bhakti-vilasa (after De 1961): beads and garlands of tulasi leaves and beads, lotus seeds
+      or amalaki fruits, consecrated with panchagavya and mantra.
   text:
     ru: >-
       Из дерева священной туласи вытачивали маленькие бусины. Ожерелье из них вайшнав носил на шее не снимая — как знак
@@ -896,7 +932,8 @@
       sending him to Vrindavana, the Lord gave him Jagannatha's long tulasi garland, and Raghunatha always kept these gifts with him. At the Lord's request Sanatana
       Gosvami wrote on wearing tulasi beads in his code of Vaishnava practice.
   hagiography: ["ЧЧ Антья 13.114", "ЧЧ Антья 13.123", "ЧЧ Антья 13.134", "ЧЧ Мадхья 24.328", "ЧЧ Мадхья 22.119", "ЧБ Мадхья 5.1"]
-  sources: ["Ward 1863, с. ~163, 356–357"]
+  sources: ["Ward 1863, с. ~163, 356–357",
+            "De, Early History of the Vaishnava Faith and Movement in Bengal (1961), с. 425 (по «Хари-бхакти-виласе»)"]
   images: [{file: "material-culture/img/company-brahmin-japa-beads.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизв. индийский художник, XIX в.; Wellcome Collection 576052i", url: "https://wellcomecollection.org/works/k2zgf6ww"}]
   game: {model: "кантхи — двойная нитка мелких бусин туласи на шее (бусина Ø 3–4 мм); чётки-джапа-мала 108 бусин Ø 8–10 мм в мешочке",
          where: ["mishra-house/thakur-ghar", "puri/gambhira"]}
@@ -946,15 +983,17 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Голенький малыш в пыли — ЧБ Ади 7.39; младенец «одетый лишь ветром», с серебряным ожерельем и гирляндой в кудрях —
-      Мурари 1.6.4; поясок с колокольчиками — ЧБ Ади 12.160 (видение); мальчик Вишвамбхара: дхоти туго обёрнуто, три
-      хохолка, хохолок в пять узелков, бусы, жемчуг, сурьма, браслеты — Лочан, Ади ч. 4.390–391; обривание и прокалывание
-      ушей — ЧБ Ади 6.3. Украшения — см. mc-child-ornaments.
+      Голенький малыш в пыли — ЧБ Ади 7.39; младенец «одетый лишь ветром», с серебряным ожерельем и гирляндой в кудрях
+      — Мурари 1.6.4; поясок с колокольчиками — ЧБ Ади 12.160 (видение); мальчик Вишвамбхара: дхоти туго обёрнуто, три
+      хохолка, хохолок в пять узелков, бусы, жемчуг, сурьма, браслеты — Лочан, Ади ч. 4.390–391; обривание и
+      прокалывание ушей — ЧБ Ади 6.3. Украшения — см. mc-child-ornaments. Raychaudhuri (1953): детей часто одевали в
+      жёлтое — цвет младенца Кришны; ножные украшения *кхаду*.
     en: >-
       A naked toddler covered in dust — CB Adi 7.39; the baby "clad only in the wind", with a silver necklace and a
       garland in His curls — Murari 1.6.4; a waist-string with bells — CB Adi 12.160 (a vision); the boy Vishvambhara:
-      dhoti tightly wrapped, three tufts, a tuft tied in five knots, beads, pearls, kohl, anklets — Lochana, Adi
-      pt. 4.390–391; tonsure and ear-piercing — CB Adi 6.3. Ornaments — see mc-child-ornaments.
+      dhoti tightly wrapped, three tufts, a tuft tied in five knots, beads, pearls, kohl, anklets — Lochana, Adi pt.
+      4.390–391; tonsure and ear-piercing — CB Adi 6.3. Ornaments — see mc-child-ornaments. Raychaudhuri (1953):
+      children were often dressed in yellow — the colour of baby Krishna; *khadu* anklets.
   text:
     ru: >-
       Маленькие дети бегали голенькими — лишь поясок-шнурок с колокольчиками на животе, ожерелье да браслеты; Нимай,
@@ -969,7 +1008,7 @@
       tied in five little knots; His eyes were lined with kohl. At the *chudakarana* rite the child's head was shaved and
       the ears pierced.
   hagiography: ["ЧБ Ади 7.39", "ЧБ Ади 12.160", "Мурари 1, сарга 6, ст. 4", "Лочан, Ади-кханда, ч. 4, ст. 390–391", "ЧБ Ади 6.3"]
-  sources: []
+  sources: ["Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 222"]
   images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата, ок. 1890; Cleveland Museum of Art 2003.159", url: "https://clevelandart.org/art/2003.159"}]
   game: {model: "малыш 2–3 лет: голый, поясок-шнурок с бубенчиками, серебряное ожерелье; мальчик 5–6 лет: маленькое белое дхоти, три хохолка",
          where: ["mishra-house/courtyard"]}

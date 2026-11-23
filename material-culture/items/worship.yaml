@@ -8,12 +8,20 @@
   evidence_note:
     ru: >-
       Перечень подношений — ЧБ Мадхья 9.46–48 (*па̄дйа, аргхйа, а̄чаманӣ, гандха, пуш̣па, дхӯпа, прадӣпа, наиведйа,
-      вастра… ш̣од̣аш́а упача̄ра*), ЧБ Мадхья 2.135–136, 6.105–110; ЧЧ Мадхья 4.59–66, 4.80. Полный порядок шестнадцати
-      действий — по Ward 1863 (ок. 1810, цитата более раннего наблюдателя); у разных школ состав немного различен.
+      вастра… ш̣од̣аш́а упача̄ра*), ЧБ Мадхья 2.135–136, 6.105–110; ЧЧ Мадхья 4.59–66, 4.80. Полный порядок
+      шестнадцати действий — по Ward 1863 (ок. 1810, цитата более раннего наблюдателя); у разных школ состав немного
+      различен. «Хари-бхакти-виласа» (сер. XVI в., по De 1961): утреннее служение — вода для полоскания рта и зубная
+      палочка, ачаман, полотенце, растирание, новая одежда, сиденье, вода для стоп, сандал и агару, туласи и бетель с
+      камфарой, тилак на теле Господа, царские одежды, чамара, зонт, обувь, зеркало, музыка, пение, танец, арати,
+      гимны, дандават.
     en: >-
       The list of offerings — CB Madhya 9.46–48 (padya, arghya, achamani, gandha, pushpa, dhupa, pradipa, naivedya,
       vastra… shodasha upachara), CB Madhya 2.135–136, 6.105–110; CC Madhya 4.59–66, 4.80. The full order of the
       sixteen acts follows Ward 1863 (c. 1810, quoting an earlier observer); the exact list varies between schools.
+      Hari-bhakti-vilasa (mid-16th c., after De 1961): the morning service — water for rinsing the mouth and a
+      tooth-stick, achamana, towel, massage, new cloth, seat, water for the feet, sandal and agaru, tulasi and betel
+      with camphor, tilaka on the Lord's body, royal garments, chamara, umbrella, shoes, mirror, music, song, dance,
+      arati, hymns, dandavat.
   text:
     ru: >-
       Божеству служат как самому дорогому и почётному Гостю. Сначала предлагают сиденье-престол, затем воду для
@@ -31,8 +39,8 @@
       again and again. A poor devotee offers at least water and a tulasi leaf — and the Lord accepts it.
   hagiography: ["ЧБ Мадхья 9.46–50", "ЧБ Мадхья 2.135–136", "ЧБ Мадхья 6.105–110", "ЧБ Антья 10.98",
                 "ЧЧ Мадхья 4.59–66", "ЧЧ Мадхья 4.80", "ЧЧ Ади 3.103 (лист туласи и пригоршня воды)"]
-  sources: ["Ward 1863, p. xliv–xlv (16 обрядов: престол, вода для стоп и рта, омовение из раковины под колокольчик,
-            одежды, шнур, тилака, цветы, курение, лампада на гхи, еда, простирание, обход, прощание)"]
+  sources: ["Ward 1863, p. xliv–xlv (16 обрядов: престол, вода для стоп и рта, омовение из раковины под колокольчик, одежды, шнур, тилака, цветы, курение, лампада на гхи, еда, простирание, обход, прощание)",
+            "De, Early History of the Vaishnava Faith and Movement in Bengal (1961), с. 457 (по «Хари-бхакти-виласе»)"]
   images: []
   game: {model: "низкий престол (синхасана) с Божеством; перед ним медные чашечки для падьи, аргхьи, ачамании,
          поднос с цветами, сандалом, лампадой, курильницей", where: ["mishra-house/thakur-ghar"],
@@ -157,17 +165,22 @@
 - id: mc-puja-copperware
   title: {ru: "Медная утварь для пуджи", en: "Copper vessels for worship"}
   rubric: rites
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
     ru: >-
       Названия и форма предметов — Mukharji 1888, p. 186–187 (Бенгалия XIX в., названия традиционные). Жития называют
       функции: вода для стоп и рта, раковина для омовения, сосуды с ароматной водой, металлический поднос (ЧЧ Мадхья
       3.42; 4.62, 4.65; ЧБ Мадхья 9.46–47). Медь как металл чистоты для обрядов — по Mukharji (канса для этого «не
-      достаточно чиста»).
+      достаточно чиста»). Эпоха: «Хари-бхакти-виласа» (сер. XVI в., по De 1961) — утварь для служения из золота,
+      серебра, глины, колокольной бронзы, но предпочтительна медь (для мадхупарки — не медь: молочное в ней портится);
+      перед Божеством ставят мангала-гхату.
     en: >-
       The names and shapes — Mukharji 1888, p. 186–187 (19th-c. Bengal, traditional names). The hagiographies give the
-      functions: water for feet and mouth, a conch for bathing, vessels of scented water, a metal tray (CC Madhya 3.42;
-      4.62, 4.65; CB Madhya 9.46–47). Copper as the pure metal for ritual — per Mukharji (bell-metal is "not pure enough").
+      functions: water for feet and mouth, a conch for bathing, vessels of scented water, a metal tray (CC Madhya
+      3.42; 4.62, 4.65; CB Madhya 9.46–47). Copper as the pure metal for ritual — per Mukharji (bell-metal is "not
+      pure enough"). Period: Hari-bhakti-vilasa (mid-16th c., after De 1961) — vessels for worship of gold, silver,
+      clay, bell-metal, but copper is preferred (not copper for madhuparka: milk products spoil in it); a
+      mangala-ghata is set before the Deity.
   text:
     ru: >-
       Для служения Божеству в Бенгалии брали медь: колокольную бронзу-кансу считали недостаточно чистой. На подносе
@@ -182,8 +195,9 @@
       for flowers; small cups for sandal paste; and a lamp for arati. This ware was not carved, because it is scoured
       with earth or ash each time — it shines with cleanliness.
   hagiography: ["ЧЧ Мадхья 3.42", "ЧЧ Мадхья 4.62", "ЧЧ Мадхья 4.65", "ЧБ Мадхья 9.46–47"]
-  sources: ["Mukharji 1888, p. 186–187 (kosha, kushi, tamrakunda, pushpa-patra, saji, чашечки для сандала, светильник
-            для арати; медь — для обрядов)", "Mukharji 1888, p. 157, 186 (канса не годится для обрядов)"]
+  sources: ["Mukharji 1888, p. 186–187 (kosha, kushi, tamrakunda, pushpa-patra, saji, чашечки для сандала, светильник для арати; медь — для обрядов)",
+            "Mukharji 1888, p. 157, 186 (канса не годится для обрядов)",
+            "De, Early History of the Vaishnava Faith and Movement in Bengal (1961), с. 456 (по «Хари-бхакти-виласе»)"]
   images: []
   game: {model: "коша ~20 см (вытянутая чаша-лепесток) с ложечкой кушӣ 12 см; тамракунда Ø 25–30 см; плетёная
          корзинка саджи с дугой-ручкой", where: ["mishra-house/thakur-ghar"]}
@@ -313,7 +327,10 @@
       «гопала-валлабха», арати, прасад и гирлянда от служителей); ЧБ Антья 2.488. Эпоха: Мукундарам (ок. 1590) —
       Субхадра и Балай с Джаганнатхой, напротив — Гаруда; рядом Вимала-деви; «Айн-и Акбари» — Господа с братом и
       сестрой рядом, предание об Индрадьюмне и бревне, прибитом морем (Абу-л Фазл называет дерево сандаловым — ⚠ на
-      деле ним). Колонна чёрного камня из Конарка стоит у Львиных ворот лишь с XVIII в.
+      деле ним). Колонна чёрного камня из Конарка стоит у Львиных ворот лишь с XVIII в. Промеры храма (Ganguly 1912):
+      внешняя ограда 665 × 640 футов, 20–24 фута высотой, четверо ворот (Львиные, Слоновьи, Конские, западные);
+      внутренняя — 420 × 315 футов; вимана ≈ 62–65 м; ната-мандира пристроена позднее; ⚠ колонна Аруна-стамбха
+      перенесена к Львиным воротам из Конарка лишь в начале XVIII в.
     en: >-
       The Lord's first darshan and swoon, the guard, Sarvabhauma — CC Madhya 6.3–14; darshan from behind the Garuda
       pillar — CC Madhya 2.54, 6.63; Antya 14.23–30, 16.80–92 (the doorkeeper at the Lion Gate, the jagamohana, the
@@ -321,7 +338,9 @@
       Mukundaram (c. 1590) — Subhadra and Balai with Jagannatha, Garuda opposite; Vimala-devi nearby; Ain-i Akbari —
       the Lord with His brother and sister, the legend of Indradyumna and the log washed up by the sea (Abu'l Fazl
       calls the wood sandal — ⚠ in fact neem). The black stone column from Konarak has stood at the Lion Gate only
-      since the 18th c.
+      since the 18th c. Temple measurements (Ganguly 1912): outer enclosure 665 × 640 ft, 20–24 ft high, four gates
+      (Lion, Elephant, Horse, western); inner enclosure 420 × 315 ft; vimana ≈ 62–65 m; the nata-mandira was added
+      later; ⚠ the Aruna-stambha column was moved to the Lion Gate from Konarak only in the early 18th c.
   text:
     ru: >-
       В Пури Господь Джаганнатха, «Владыка вселенной», вместе с Баладевой и Субхадрой принимает всех, кто приходит
@@ -341,7 +360,8 @@
   hagiography: ["ЧЧ Мадхья 6.3–14", "ЧЧ Мадхья 2.54", "ЧЧ Мадхья 6.63", "ЧЧ Антья 14.23–30", "ЧЧ Антья 16.80–92",
                 "ЧБ Антья 2.488"]
   sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 127–128",
-            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149"]
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149",
+            "Ganguly, Orissa and Her Remains (1912), с. 410–416"]
   images: []
   game: {model: "каменная колонна с фигурой Гаруды на капители в зале джагамохана; толпа паломников; вдали — алтарь
          трёх Божеств", where: ["puri/jagannatha-temple"],
@@ -437,8 +457,7 @@
       servant, but do not worship her for worldly gain: to ask her for wealth is to miss Krishna Himself.
   hagiography: ["ЧБ Ади 2.64", "ЧБ Антья 4.413", "ЧБ Ади 12.187", "ЧБ Мадхья 13.165–171", "ЧБ Антья 5.538–568",
                 "ЧБ Ади 10.40", "ЧБ Ади 12.91", "ЧБ Ади 15.7", "ЧБ Мадхья 1.126"]
-  sources: ["Ward 1863, p. 87 (Чанди почитают перед металлической чашей с водой Ганги; обеты женщин о выздоровлении
-            детей; поэма Кавиканканы «Чанди»)"]
+  sources: ["Ward 1863, p. 87 (Чанди почитают перед металлической чашей с водой Ганги; обеты женщин о выздоровлении детей; поэма Кавиканканы «Чанди»)"]
   images: []
   game: {model: "Чанди-мандапа: открытый навес на столбах с глиняным помостом во дворе богатого дома",
          where: ["navadvipa/mukunda-sanjaya-house"], notes: "школа Нимая проходит в Чанди-мандапе"}
@@ -563,14 +582,18 @@
       Гопал прячется от набегов — ЧЧ Мадхья 18.24–47; Кази и киртан — ЧЧ Ади 17 (см. mc-kazi-nagar-kirtan). Эпоха:
       Барбоза (ок. 1516) — многие индусы ежедневно принимают ислам, «чтобы снискать милость царя и наместников»;
       Мукундарам (ок. 1590) — мусульманский квартал города: пятикратная молитва на красной циновке, чётки, Коран,
-      ширни пирам, кази разбирает тяжбы, ремёсла (ткачи, возчики, бумажники).
+      ширни пирам, кази разбирает тяжбы, ремёсла (ткачи, возчики, бумажники). Eaton (1993): у Мукундарама — 15
+      мусульманских ремесленных групп (ткачи, возчики, пирожники, рыботорговцы, бумажники, портные, красильщики и
+      др.).
     en: >-
       The trial of Haridasa and the beating in 22 markets — CB Adi 16.96–117; Shrivasa's Muslim tailor — CC Adi
       17.231; an official at Saptagram — CC Antya 6.17–34; a Muslim ruler at the Orissa border — CC Madhya 16.158–200;
       Gopala hidden from raids — CC Madhya 18.24–47; the Kazi and kirtan — CC Adi 17 (see mc-kazi-nagar-kirtan).
       Period: Barbosa (c. 1516) — many Hindus daily turn Muslim 'to win the favour of the king and governors';
       Mukundaram (c. 1590) — the Muslim quarter of a town: prayer five times on a red mat, rosaries, the Quran,
-      *shirni* for the pirs, the qazi judging suits, crafts (weavers, carters, paper-makers).
+      *shirni* for the pirs, the qazi judging suits, crafts (weavers, carters, paper-makers). Eaton (1993): Mukundaram
+      lists 15 Muslim craft groups (weavers, carters, cake-sellers, fishmongers, paper-makers, tailors, dyers and
+      others).
   text:
     ru: >-
       Бенгалией правил мусульманский султан Гауды, и мусульмане — судьи, сборщики налогов, воины, ремесленники — были
@@ -589,7 +612,8 @@
       to say "Krishna!"
   hagiography: ["ЧБ Ади 16.96–117", "ЧЧ Ади 17.231", "ЧЧ Антья 6.17–34", "ЧЧ Мадхья 16.158–200", "ЧЧ Мадхья 18.24–47"]
   sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 181",
-            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54"]
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54",
+            "Eaton, The Rise of Islam and the Bengal Frontier (1993), гл. 4"]
   images: []
   game: {model: "персонажи: кази в тюрбане и длинной одежде, сборщик налогов, портной", where: ["navadvipa/lane"],
          notes: "без карикатуры; одежда мусульман эпохи — у исполнителя dress"}
@@ -789,18 +813,23 @@
   evidence_note:
     ru: >-
       Пури: Дола-ятра — ЧЧ Мадхья 7.5, 16.9, Антья 1.215, 4.114, Лочан, Мадхья-кханда, ч. 20, ст. 84, 95; Снана-ятра и
-      Анавасара — ЧЧ Мадхья 1.122, 11.60–61; Ратха-ятра и Хера-панчами — ЧЧ Мадхья 13–14, 16.54; лодка Говинды на озере
-      Нарендра — ЧЧ Антья 10.42–44; четыре месяца дождей, Нандотсава, Виджая-дашами, Раса-ятра, Дипавали,
-      Уттхана-двадаши — ЧЧ Мадхья 15.16–36; Джанмаштами, Вамана-двадаши, Рама-навами, Нрисимха-чатурдаши, картика-врата
-      — ЧЧ Мадхья 22.122–123, 24.335–336. Дола в Бенгалии (красный порошок, качели, полнолуние пхалгуны) и Снана-ятра в
-      джйештху — Ward 1863, p. 122, 128 (поздн.).
+      Анавасара — ЧЧ Мадхья 1.122, 11.60–61; Ратха-ятра и Хера-панчами — ЧЧ Мадхья 13–14, 16.54; лодка Говинды на
+      озере Нарендра — ЧЧ Антья 10.42–44; четыре месяца дождей, Нандотсава, Виджая-дашами, Раса-ятра, Дипавали,
+      Уттхана-двадаши — ЧЧ Мадхья 15.16–36; Джанмаштами, Вамана-двадаши, Рама-навами, Нрисимха-чатурдаши,
+      картика-врата — ЧЧ Мадхья 22.122–123, 24.335–336. Дола в Бенгалии (красный порошок, качели, полнолуние пхалгуны)
+      и Снана-ятра в джйештху — Ward 1863, p. 122, 128 (поздн.). Исследования: годовой круг по Рагхунандане (сер. XVI
+      в.) — дары кувшинов в вайшакхе, Шаштхи в джьяйштхе, чатурмасья, Джанмаштами в бхадре, навання (новый рис) в
+      аграхаяне, Шиваратри в пхалгуне, Рама-навами в чайтре и др. — Тарафдар 1965.
     en: >-
-      Puri: Dola-yatra — CC Madhya 7.5, 16.9, Antya 1.215, 4.114, Lochana, Madhya-khanda pt. 20 vv. 84, 95; Snana-yatra
-      and Anavasara — CC Madhya 1.122, 11.60–61; Ratha-yatra and Hera-panchami — CC Madhya 13–14, 16.54; Govinda's boat
-      on Narendra lake — CC Antya 10.42–44; the four rainy months, Nandotsava, Vijaya-dashami, Rasa-yatra, Dipavali,
-      Utthana-dvadashi — CC Madhya 15.16–36; Janmashtami, Vamana-dvadashi, Rama-navami, Nrisimha-chaturdashi,
-      kartika-vrata — CC Madhya 22.122–123, 24.335–336. Dola in Bengal (red powder, swings, Phalguna full moon) and
-      Snana-yatra in Jyeshtha — Ward 1863, p. 122, 128 (later).
+      Puri: Dola-yatra — CC Madhya 7.5, 16.9, Antya 1.215, 4.114, Lochana, Madhya-khanda pt. 20 vv. 84, 95;
+      Snana-yatra and Anavasara — CC Madhya 1.122, 11.60–61; Ratha-yatra and Hera-panchami — CC Madhya 13–14, 16.54;
+      Govinda's boat on Narendra lake — CC Antya 10.42–44; the four rainy months, Nandotsava, Vijaya-dashami,
+      Rasa-yatra, Dipavali, Utthana-dvadashi — CC Madhya 15.16–36; Janmashtami, Vamana-dvadashi, Rama-navami,
+      Nrisimha-chaturdashi, kartika-vrata — CC Madhya 22.122–123, 24.335–336. Dola in Bengal (red powder, swings,
+      Phalguna full moon) and Snana-yatra in Jyeshtha — Ward 1863, p. 122, 128 (later). Studies: the yearly round
+      after Raghunandana (mid-16th c.) — gifts of water pots in Vaishakha, Shashthi in Jyaishtha, chaturmasya,
+      Janmashtami in Bhadra, navanna (new rice) in Agrahayana, Shivaratri in Phalguna, Rama-navami in Chaitra and
+      others — Tarafdar 1965.
   text:
     ru: >-
       Год Махапрабху в Пури был кругом праздников Джаганнатхи. Весной, в полнолуние пхалгуны, — Дола-ятра: Господа
@@ -821,7 +850,8 @@
                 "ЧЧ Мадхья 1.122", "ЧЧ Мадхья 11.60–61", "ЧЧ Антья 10.42–44", "ЧЧ Мадхья 15.16–36",
                 "ЧЧ Мадхья 22.122–123", "ЧЧ Мадхья 24.335–336"]
   sources: ["Ward 1863, p. 122 (Дола: полнолуние пхалгуны, красный порошок, ночное пение)",
-            "Ward 1863, p. 128 (Снана-ятра в джйештху на помосте у храма)"]
+            "Ward 1863, p. 128 (Снана-ятра в джйештху на помосте у храма)",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 337–338"]
   images: []
   game: {model: "календарь года: значки праздников по месяцам; качели-дола, помост Снана-ятры, лодка на озере",
          where: ["puri/jagannatha-temple", "puri/narendra-sarovara"],
@@ -975,14 +1005,16 @@
       1810), т. е. реконструкция. Эпоха: Федеричи (1569, Сатгаон) — больного из внутренних областей приносят на берег
       Ганги, ставят ему маленькую соломенную хижину и каждый день омывают речной водой; многие там умирают; тело
       сжигают на костре из сучьев и опускают в реку — он видел это каждую ночь два месяца; Фитч (1586, Бенарас) —
-      умирающего, если не полегчало, несут к реке.
+      умирающего, если не полегчало, несут к реке. Raychaudhuri (1953) приводит свидетельство Федеричи как
+      общебенгальский обычай кон. XVI в.
     en: >-
       The hagiographies describe Jagannatha Mishra's passing briefly, without ritual detail (CB Adi 8.109–121; cf. CB
       Adi 1.105); Anupama "left the world on the bank of the Ganga" — CC Antya 1.37. The order of rites follows Ward
       1863, p. 260–261 (Bengal c. 1810), i.e. a reconstruction. Period: Federici (1569, Satgaon) — a sick man from
       inland is carried to the Ganga bank, given a little straw hut and washed daily with river water; many die there;
       the body is burnt on a pyre of brushwood and committed to the river — he saw it every night for two months;
-      Fitch (1586, Benares) — the dying man, if no better, is carried to the river.
+      Fitch (1586, Benares) — the dying man, if no better, is carried to the river. Raychaudhuri (1953) cites
+      Federici's account as a general Bengal custom of the late 16th c.
   text:
     ru: >-
       Умирать хотели у Ганги: тяжелобольного переносили на берег, а в последний миг погружали по пояс в воду и
@@ -1005,7 +1037,8 @@
   hagiography: ["ЧБ Ади 8.109–121", "ЧБ Ади 1.105", "ЧЧ Антья 1.37"]
   sources: ["Ward 1863, p. 260–261 (умирающего погружают по пояс в реку; омовение и умащение тела; рис и головня; костёр с гхи; прах в реку; касание огня и горькие листья)",
             "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 411–412",
-            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 106–107"]
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 106–107",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 216–217"]
   images: []
   game: {model: "место сожжения на берегу (шмашана): поленница, глиняный горшок для воды, факел",
          where: ["ganga-ghat"], notes: "показывать сдержанно; эпизод — уход Джаганнатхи Мишры"}
@@ -1044,8 +1077,7 @@
       millions of brahmins.
   hagiography: ["ЧБ Ади 17.11", "ЧБ Ади 17.66–79", "Лочан, Ади-кханда, ч. 15, ст. 8, 16, 78–92",
                 "Лочан, Мадхья-кханда, ч. 21, ст. 32", "ЧЧ Антья 3.220"]
-  sources: ["Ward 1863, p. 261–262 (три вида шраддхи; 10 дней траура; 10 шариков у реки и бритьё; навес, 16 даров,
-            кунжут, золото)"]
+  sources: ["Ward 1863, p. 261–262 (три вида шраддхи; 10 дней траура; 10 шариков у реки и бритьё; навес, 16 даров, кунжут, золото)"]
   images: []
   game: {model: "листья с шариками-пиндами, кунжут, кувшинчик воды; камень со следом стопы Вишну (Вишнупада)",
          where: ["gaya/vishnupada"]}

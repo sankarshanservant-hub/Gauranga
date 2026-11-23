@@ -107,12 +107,16 @@
       Сам факт — ЧБ Ади 4.18 (время «впервые покинуть комнату матери» через месяц) и ЧЧ Ади 13.118 (первый выход и
       омовение после родов). Устройство (отдельная хижина, огонь у входа, железо, срок нечистоты) — по этнографии,
       проверить по PD. Отдельная временная хижина для родов — по Сену (1920), обычай «более шестисот лет»; железо у
-      входа — Risley 1891 (Орисса).
+      входа — Risley 1891 (Орисса). Исследования (по поэмам кон. XVI в.): в родильной хижине разжигают огонь соломой,
+      выдернутой из кровли, у двери кладут коровий череп от сглаза; Шаштхи — при родах и на 6-й день — Raychaudhuri
+      1953.
     en: >-
       The fact itself — CB Adi 4.18 (the time to 'leave the mother's room for the first time' after a month) and CC
       Adi 13.118 (first outing and bath after childbirth). The arrangement (a separate hut, fire at the door, iron,
       the period of impurity) follows ethnography — to verify in PD sources. A separate temporary hut for childbirth —
-      per Sen (1920), a custom 'for over six hundred years'; iron at the door — Risley 1891 (Orissa).
+      per Sen (1920), a custom 'for over six hundred years'; iron at the door — Risley 1891 (Orissa). Studies (after
+      late-16th-c. poems): in the birth hut a fire is lit with straw pulled from the roof, and a cow's skull is laid
+      at the door against the evil eye; Shashthi at birth and on the 6th day — Raychaudhuri 1953.
   text:
     ru: >-
       Роды проходили в особой комнате или наскоро поставленной хижине (сутика-гхар, атур-гхар). Мать с младенцем жила
@@ -128,7 +132,8 @@
   sources: ["Sen, Folk-Literature of Bengal (1920), с. 73 (даже у богатых — временная жалкая соломенная хижина вне дома, «более шестисот лет»), 79–80 (30 дней; сказительница и бдение 6-й ночи)",
             "Bose 1881, с. 22–25 (Sootikaghur/Antoorghur; мужчин не пускают; красная кайма; изображения Шаштхи из навоза у порога)",
             "Risley 1891, т. 1, с. 289 (Орисса: отдельный дом, тепло, железные гвозди в косяках, ветви у двери, 21 день)",
-            "Day 1874, с. 29 (родильная — в хижине с дхенки)"]
+            "Day 1874, с. 29 (родильная — в хижине с дхенки)",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 213"]
   images: []
   game: {model: "маленькая хижина-чала у дерева ним, у входа — горшок с тлеющим огнём, на двери — железный серп/нож?",
          where: ["mishra-house/sutika-ghar"], notes: "обереги показывать как народный обычай, не как веру Мишры"}
@@ -139,8 +144,14 @@
   rubric: rites
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧЧ Ади 13.104, 13.108–110; ЧБ Ади 3.32–33."
-    en: "CC Adi 13.104, 13.108–110; CB Adi 3.32–33."
+    ru: >-
+      ЧЧ Ади 13.104, 13.108–110; ЧБ Ади 3.32–33. Исследования (по житиям и поэмам): младенца обмывают водой Ганги,
+      мажут голову маслом, трубят в раковину; на 6-й день — Шаштхи, затем гороскоп; через месяц мать купается в Ганге;
+      имя — около второго месяца; аннапрашана в 6 месяцев — Тарафдар 1965.
+    en: >-
+      CC Adi 13.104, 13.108–110; CB Adi 3.32–33. Studies (after hagiographies and poems): the baby is washed with
+      Ganga water, its head oiled, conches blown; Shashthi on the 6th day, then the horoscope; after a month the
+      mother bathes in the Ganga; naming around the second month; annaprashana at 6 months — Tarafdar 1965.
   text:
     ru: >-
       Шривас Тхакур и Чандрашекхар Ачарья совершили по шастрам обряд по случаю рождения ребёнка. Брахманы, почтенные
@@ -153,7 +164,7 @@
       poor brahmin, cheerfully gave away to brahmins, singers, dancers and the poor everything he had received — no one
       left without a gift.
   hagiography: ["ЧЧ Ади 13.104", "ЧЧ Ади 13.108–110", "ЧБ Ади 3.32–33"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 321"]
   images: [{file: "material-culture/img/kalighat-1890-worship-of-infant-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.128", note: "ок. 1890.; The Cleveland Museum of Art — 2003.128; 29 × 25 см."}]
   game: {model: "плетёные подносы с дарами у сутика-гхара", where: ["mishra-house/courtyard"]}
 
@@ -499,8 +510,13 @@
   rubric: rites
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧЧ Ади 14.94 (отец вложил мел в руку сына); ЧБ Ади 6.2 (церемония начала обучения в благоприятный день)."
-    en: "CC Adi 14.94 (the father placed chalk in his son's hand); CB Adi 6.2 (the ceremony of beginning study on an auspicious day)."
+    ru: >-
+      ЧЧ Ади 14.94 (отец вложил мел в руку сына); ЧБ Ади 6.2 (церемония начала обучения в благоприятный день).
+      Исследования: учёба начиналась обрядом *хате кхади*, азбуку учили дома, затем — тол у пандита — Тарафдар 1965.
+    en: >-
+      CC Adi 14.94 (the father placed chalk in his son's hand); CB Adi 6.2 (the ceremony of beginning study on an
+      auspicious day). Studies: schooling began with the *hate khadi* rite, the alphabet was learned at home, then the
+      tol under a pandit — Tarafdar 1965.
   text:
     ru: >-
       Учёбу начинают обрядом: в благоприятный день отец вкладывает ребёнку в руку кусочек мела, и тот выводит первые
@@ -513,7 +529,7 @@
       solemnly, and within a few days Nimai knew all the letters and their combinations. Later the boy would come home
       from school covered in dust, books in hand and drops of ink on His golden skin.
   hagiography: ["ЧЧ Ади 14.94", "ЧБ Ади 6.2", "ЧБ Ади 6.46 (*ликхана-ка̄лира бинду* — капли чернил)", "ЧБ Ади 6.112–113"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 335"]
   images: []
   game: {model: "кусочек белого мела, дощечка/расчищенная земля с буквами бенгальского письма",
          where: ["mishra-house/courtyard"]}
@@ -551,11 +567,15 @@
     ru: >-
       ЧБ Ади 15.73–125 (свадьба с Вишнуприей; *чандра̄тапа* — навесы, *кадалӣ* — банановые деревца, *пӯрн̣а-гхат̣а,
       дӣпа, дха̄нйа, дадхи, а̄мра-са̄ра*). В переводе «пандал» — по оригиналу: натянуты большие навесы и по четырём
-      сторонам вкопаны банановые деревца.
+      сторонам вкопаны банановые деревца. Исследования: накануне свадьбы — адхиваса с музыкой, поминовение предков,
+      повсюду полные кувшины, светильники, рис-падди, банановые стволы (Тарафдар 1965); «гандха-адхиваса» с весёлым
+      обливанием водой среди женщин (Raychaudhuri 1953).
     en: >-
       CB Adi 15.73–125 (the wedding with Vishnupriya; chandratapa — awnings, kadali — banana saplings, purna-ghata,
-      dipa, dhanya, dadhi, amra-sara). The translation's 'pandal' is, in the original, large awnings stretched out with
-      banana saplings planted on four sides.
+      dipa, dhanya, dadhi, amra-sara). The translation's 'pandal' is, in the original, large awnings stretched out
+      with banana saplings planted on four sides. Studies: on the eve of the wedding — adhivasa with music, rites for
+      the ancestors, full pots, lamps, paddy and banana stems everywhere (Tarafdar 1965); 'gandha-adhivasa' with merry
+      splashing among the women (Raychaudhuri 1953).
   text:
     ru: >-
       Накануне свадьбы совершают адхивасу — освящение жениха и невесты. Двор Шачи накрыли большими навесами, по четырём
@@ -571,7 +591,8 @@
       paste, garlands and boxes of pan — the Lord ordered three times the usual. Then Shachi went with music to honour
       Ganga and Shashthi and gave the women khai, bananas, oil, pan and kunkuma.
   hagiography: ["ЧБ Ади 15.73–125"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 324",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 214–215"]
   images: []
   game: {model: "двор под навесами; банановые деревца по углам; гирлянды манговых листьев; пурна-гхаты с ветвью манго",
          where: ["mishra-house/courtyard"]}
@@ -605,10 +626,14 @@
   evidence_note:
     ru: >-
       ЧБ Ади 15.126–131: тилака из сандала и агуру, *мукут̣а* (венец), гирлянды, тонкое жёлтое полотно, надетое
-      *трикаччха* (с тремя подоткнутыми концами), каджал, *дха̄нйа, дӯрва̄, сӯтра* на запястье, зеркало и *рамбха̄-ман̃джарӣ*.
+      *трикаччха* (с тремя подоткнутыми концами), каджал, *дха̄нйа, дӯрва̄, сӯтра* на запястье, зеркало и
+      *рамбха̄-ман̃джарӣ*. Исследования: жениха женщины натирают пастой из сандала, куркумы и харитаки; новая одежда,
+      серьги, ножные браслеты, венец, агар и чуа — Тарафдар 1965.
     en: >-
       CB Adi 15.126–131: a tilaka of sandal and aguru, a mukuta (crown), garlands, fine yellow cloth worn trikaccha
-      (tucked in three places), kajal, dhanya, durva and thread on the wrist, a mirror and a rambha-manjari.
+      (tucked in three places), kajal, dhanya, durva and thread on the wrist, a mirror and a rambha-manjari. Studies:
+      women rub the groom with a paste of sandal, turmeric and haritaki; new clothes, earrings, anklets, a crown,
+      agaru and chua — Tarafdar 1965.
   text:
     ru: >-
       Когда спала полуденная жара, Господа стали наряжать к свадьбе: на лоб нанесли полумесяц из сандаловой пасты с
@@ -621,7 +646,7 @@
       three places according to custom, and His eyes were lined with kajal. A thread with rice and durva was tied on His
       right wrist, and a mirror and a young banana shoot were put in His hands.
   hagiography: ["ЧБ Ади 15.126–134"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 324–325"]
   images: []
   game: {model: "венец (мукута) — форма неясна: позднейший топор из сола-пита? (проверить); жёлтое дхоти; зеркало",
          where: ["mishra-house/courtyard"]}
@@ -662,10 +687,17 @@
   evidence_note:
     ru: >-
       ЧБ Ади 15.168–189 (*антах̣пат̣а* — занавес между женихом и невестой: в переводе «завязали глаза»; *сапта
-      прадакш̣ин̣а*); Лочан, Ади-кханда, ч. 11, ст. 105–112, ч. 14, ст. 157; первая свадьба — ЧБ Ади 10.
+      прадакш̣ин̣а*); Лочан, Ади-кханда, ч. 11, ст. 105–112, ч. 14, ст. 157; первая свадьба — ЧБ Ади 10. Исследования:
+      сваха-гхатак, астролог по альманаху; невеста семь раз обходит жениха, встречает его рисом, дурвой и тканью,
+      обмен гирляндами, отец кладёт руки дочери в руки жениха (Тарафдар 1965); девочку идеально выдать в 7 лет, позже
+      12 — позор; выкуп за невесту (канья-пан) (Raychaudhuri 1953).
     en: >-
-      CB Adi 15.168–189 (antahpata — a cloth screen between groom and bride, rendered 'blindfolded' in the translation;
-      sapta pradakshina); Lochana, Adi-khanda pt. 11 vv. 105–112, pt. 14 v. 157; the first wedding — CB Adi 10.
+      CB Adi 15.168–189 (antahpata — a cloth screen between groom and bride, rendered 'blindfolded' in the
+      translation; sapta pradakshina); Lochana, Adi-khanda pt. 11 vv. 105–112, pt. 14 v. 157; the first wedding — CB
+      Adi 10. Studies: the ghatak matchmaker, the astrologer with the almanac; the bride circles the groom seven
+      times, greets him with rice, durva and cloth, garlands are exchanged, the father places his daughter's hands in
+      the groom's (Tarafdar 1965); ideally a girl was married at 7, past 12 was a disgrace; bride-price (kanya-pan)
+      (Raychaudhuri 1953).
   text:
     ru: >-
       Мать невесты встретила жениха дурвой, рисом и лампадой с семью фитилями. Невесту в нарядах внесли на сиденье;
@@ -680,7 +712,8 @@
       and maidservants.
   hagiography: ["ЧБ Ади 15.166–189", "Лочан, Ади-кханда, ч. 11, ст. 105–112", "Лочан, Ади-кханда, ч. 14, ст. 157",
                 "ЧБ Ади 10 (свадьба с Лакшмиприей)"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 324–325",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 214–215"]
   images: [{file: "material-culture/img/shankha-pola-bengali-bride-hands-photo.jpg", license: "CC-BY-SA 4.0", author: "AnkitaaDeb / Wikimedia Commons, CC BY-SA 4.0", url: "https://commons.wikimedia.org/wiki/File:Bride_wearing_Shankha_Pola_at_a_Bengali_Wedding.jpg", note: "; Wikimedia Commons."}]
   game: {model: "невеста на деревянной доске-пиди, которую несут родственники; полотнище; гирлянды",
          where: ["navadvipa/bride-house"]}

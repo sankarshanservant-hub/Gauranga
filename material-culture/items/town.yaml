@@ -8,11 +8,15 @@
     ru: >-
       Прогулка Господа по домам ремесленников — ЧБ Ади 12.106–145 (ткач, пастухи, торговец ароматическими маслами,
       цветочник, продавец бетеля, продавец раковин); касты-ремёсла Надии в XIX в. — Hunter 1875, т. 2, с. 47–48 (см.
-      research/pd-texts.md).
+      research/pd-texts.md). Исследования: касты-ремёсла эпохи — гандхабаник (благовония, пряности), тантубай,
+      кумбхакар, кармакар, тамбули, малакар, шанкхабаник, кансакар и др. (Тарафдар 1965); по «Чанди-мангалу» — также
+      бумажники, красильщики, маслоделы, кондитеры, пирожники, бродячие художники-патуа (Raychaudhuri 1953).
     en: >-
       The Lord's walk through the craftsmen's houses — CB Adi 12.106–145 (weaver, cowherds, perfumer, florist,
       betel-seller, conch-seller); craft castes of Nadia in the 19th c. — Hunter 1875, vol. 2, pp. 47–48 (see
-      research/pd-texts.md).
+      research/pd-texts.md). Studies: craft castes of the period — gandhabanik (perfumes, spices), tantubay,
+      kumbhakar, karmakar, tambuli, malakar, shankhabanik, kansakar and others (Tarafdar 1965); in the Chandi-mangala
+      also paper-makers, dyers, oilmen, confectioners, cake-sellers, wandering patua painters (Raychaudhuri 1953).
   text:
     ru: >-
       Навадвипа была огромным городом, где жили люди всех сословий, и каждое ремесло держалось своей общины. Юный
@@ -26,7 +30,9 @@
       garland on Him, the betel-seller treated Him to areca and pan with camphor, the conch-seller gave Him a conch —
       and none of them took money from Him.
   hagiography: ["ЧБ Ади 12.106–145"]
-  sources: ["Hunter, Statistical Account of Bengal, т. 2 (1875), с. 47–48 — касты Надии (через research/pd-texts.md)"]
+  sources: ["Hunter, Statistical Account of Bengal, т. 2 (1875), с. 47–48 — касты Надии (через research/pd-texts.md)",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 320",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 199–200"]
   images: [{file: "material-culture/img/solvyns-1799-market-scene-calcutta.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/sdf7rm8x", note: "1799.; Wellcome Collection — 31452i (b11892900; image V0050403)."}]
   game: {model: "улица ремесленников: навесы-лавки перед хижинами; ткацкий станок, горшки с молоком, гирлянды, бетель",
          where: ["navadvipa/market"]}
@@ -68,8 +74,14 @@
   rubric: town
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧБ Ади 12.113–121 (веранда дома пастуха; молоко, гхи, дадхи, сливки, масло)."
-    en: "CB Adi 12.113–121 (the cowherd's veranda; milk, ghee, dadhi, cream, butter)."
+    ru: >-
+      ЧБ Ади 12.113–121 (веранда дома пастуха; молоко, гхи, дадхи, сливки, масло). Das Gupta (1935, по падам):
+      пастушок — короткая палка, верёвка для коров, тюрбан, браслеты, серьги, рог для зова, гирлянды из полевых цветов
+      и гунджи, сандаловые знаки на лбу.
+    en: >-
+      CB Adi 12.113–121 (the cowherd's veranda; milk, ghee, dadhi, cream, butter). Das Gupta (1935, after padas): a
+      cowherd boy — a short stick, a cow rope, turban, bracelets, earrings, a horn for calling, garlands of wild
+      flowers and gunja, sandal marks on the brow.
   text:
     ru: >-
       Гопы (гоалы) держали коров и продавали молоко, простоквашу и гхи. Нимай уселся на веранде дома пастуха, в шутку
@@ -80,7 +92,7 @@
       the brahmins, and asked for "alms" — milk and curd; the cowherds gladly brought milk, ghee, curd, cream and
       butter. For Vaishnavas the gopas are a special community: Krishna's companions in Vraja came from among them.
   hagiography: ["ЧБ Ади 12.113–121"]
-  sources: []
+  sources: ["Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 46–47"]
   images: []
   game: {model: "веранда (дава) под свесом соломенной кровли, глиняные горшки с молоком на коромысле",
          where: ["navadvipa/market"]}
@@ -163,13 +175,17 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Гангадас Пандит — ЧБ Ади 8.26 и далее; Нимай — учитель грамматики, ведёт занятия, спорит с учёными — ЧБ Ади 12.2–40;
-      две прахары в школе — ЧБ Ади 6.135. Слово «тол» — «Адвайта-пракаша» (примечание к ст. 21); устройство тола — по
-      данным XIX в. (Hunter).
+      Гангадас Пандит — ЧБ Ади 8.26 и далее; Нимай — учитель грамматики, ведёт занятия, спорит с учёными — ЧБ Ади
+      12.2–40; две прахары в школе — ЧБ Ади 6.135. Слово «тол» — «Адвайта-пракаша» (примечание к ст. 21); устройство
+      тола — по данным XIX в. (Hunter). Исследования: студенты ехали в Навадвипу из Восточной Бенгалии; второй центр
+      учёности — Рамакели (Тарафдар 1965); ученик мог жить у учителя, важный метод — диспут учителя с учеником
+      (Raychaudhuri 1953).
     en: >-
       Gangadasa Pandita — CB Adi 8.26 ff.; Nimai as a grammar teacher, holding classes and debating scholars — CB Adi
-      12.2–40; two praharas at school — CB Adi 6.135. The word 'tol' — Advaita-prakasha (note to v. 21); how a tol
-      was organised — 19th-c. data (Hunter).
+      12.2–40; two praharas at school — CB Adi 6.135. The word 'tol' — Advaita-prakasha (note to v. 21); how a tol was
+      organised — 19th-c. data (Hunter). Studies: students came to Navadvipa from East Bengal; a second seat of
+      learning was Ramakeli (Tarafdar 1965); a pupil might live with his teacher, and disputation between teacher and
+      pupil was a key method (Raychaudhuri 1953).
   text:
     ru: >-
       Навадвипа славилась учёностью: здесь преподавали грамматику, поэтику, логику-ньяю и законы. Школа (тол) — это дом
@@ -183,7 +199,8 @@
       holding classes in the chandi-mandapa — an open pavilion in the courtyard of Mukunda Sanjaya's house; He taught by day and in the afternoons came with His students to the Ganga's bank, where He debated scholars so
       keenly that they avoided meeting Him.
   hagiography: ["ЧБ Ади 6.135", "ЧБ Ади 8.26 и далее", "ЧБ Ади 12.2–40", "ЧБ Ади 12.91 (чанди-мандапа Мукунды Санджая)", "ЧЧ Ади 16 (победа над Кешавой Кашмири)"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 335",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 213–214"]
   images: [{file: "material-culture/img/solvyns-1799-recital-of-mahabharata-katha.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/wuevghch", note: "1799.; Wellcome Collection — 31376i (b11892146; image V0050400)."},
            {file: "material-culture/img/solvyns-1799-brahmin-singers-kirtan-audience.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/tggqxjus", note: "1799.; Wellcome Collection — 31414i (b11892523; image V0050401)."}]
   game: {model: "открытый навес-чандимандап, циновки, связки рукописей, светильник; ученики-брахмачари",
@@ -263,7 +280,9 @@
       рисом и каури — Чандравати (XVI в.). Ван Даюань (1349): в Бенгалии за серебряную танку дают «10 520 с лишним»
       каури, в Ориссе — 11 520, «чрезвычайно удобно для народа»; Ма Хуань (1433) и Фэй Синь (1436): каури в торговле
       вместо монеты; «Айн-и Акбари» (1590-е) об Ориссе: 4 каури = ганда, 5 ганд = бури, 4 бури = пан, 16 (или 20)
-      панов = кахан, 10 каханов = рупия.
+      панов = кахан, 10 каханов = рупия. Тарафдар (1965): 4 каури = ганда, 5 ганд = буди, 4 буди = пана, 16 пан =
+      кахан; «ана» — счётная единица; Banglapedia приводит и другой счёт: 4 каури = ганда, 20 ганд = пан, 4 пана =
+      ана, 4 аны = кахан, 4 кахана = рупия.
     en: >-
       Cowries as Bengal's money are attested c. 1240 (Tabaqat-i-Nasiri), c. 1350 (Ibn Battuta), in 1561 and 1586
       (Portuguese and Italian writers) — Hobson-Jobson 1903, pp. 269–270; reckoning in cowries in Mukundaram (c.
@@ -271,7 +290,9 @@
       cowries — Chandravati (16th c.). Wang Dayuan (1349): in Bengal a silver tanka fetched '10,520 and more' cowries,
       in Orissa 11,520, 'very convenient for the people'; Ma Huan (1433) and Fei Xin (1436): cowries used in trade
       instead of coin; Ain-i Akbari (1590s) on Orissa: 4 cowries = 1 ganda, 5 gandas = 1 buri, 4 buris = 1 pan, 16 (or
-      20) pans = 1 kahan, 10 kahans = 1 rupee.
+      20) pans = 1 kahan, 10 kahans = 1 rupee. Tarafdar (1965): 4 cowries = ganda, 5 gandas = budi, 4 budis = pana, 16
+      panas = kahan; the 'ana' was a unit of account; Banglapedia gives another reckoning too: 4 cowries = ganda, 20
+      gandas = pan, 4 pans = ana, 4 anas = kahan, 4 kahans = rupee.
   text:
     ru: >-
       Мелкой монетой Бенгалии были маленькие белые раковины каури, которые привозили с Мальдивских островов в обмен на
@@ -291,9 +312,10 @@
             "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435–436, 444–446",
             "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
             "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 151–152",
+            "Banglapedia, ст. «Cowrie»"]
   images: []
   game: {model: "горсть белых раковин Cypraea moneta, нанизанных или в мешочке; счёт четвёрками",
          where: ["navadvipa/market"]}
-  todo: "шкала кахана: 16 пан (Айн-и Акбари, Орисса, 1590-е; HJ) или 20 — сверить по скану Jarrett 1891, с. 126"
 

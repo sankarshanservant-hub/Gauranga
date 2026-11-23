@@ -440,9 +440,8 @@
       bride Lakshmipriya sat on the Lord's left "bashfully lowering her face". This restraint is not humiliation but a sign
       of dignity and purity.
   hagiography: ["Лочан, Ади-кханда, ч. 11, ст. 118", "Лочан, Ади-кханда, ч. 13, ст. 57", "Лочан, Ади-кханда, ч. 4, ст. 359"]
-  sources: ["Day 1916, гл. IV–V (невестка не смотрит в лицо старшим братьям мужа и ходит при них под покрывалом; с
-            младшими братьями — свободно)", "Day 1916, с. 186 (молодая жена под покрывалом в доме свёкра, без покрывала —
-            в отчем доме)"]
+  sources: ["Day 1916, гл. IV–V (невестка не смотрит в лицо старшим братьям мужа и ходит при них под покрывалом; с младшими братьями — свободно)",
+            "Day 1916, с. 186 (молодая жена под покрывалом в доме свёкра, без покрывала — в отчем доме)"]
   images: []
   game: {model: "анимация: край сари на голову при появлении старшего мужчины", where: ["mishra-house/courtyard"],
          notes: "одежда — у исполнителя dress (mc-sari)"}
@@ -458,13 +457,15 @@
       раскалённому песку, избегая Львиных врат, — ЧЧ Антья 4.120–132; Махапрабху смотрит издали, от колонны Гаруды —
       ЧЧ Антья 14.23, Мадхья 6.63; охранник замахивается на упавшего Господа — ЧЧ Мадхья 6.4–5; обход алтаря — ЧЧ
       Мадхья 7.58; гирлянда и прасад от пуджари — ЧЧ Мадхья 6.217, Антья 16.89–90. Эпоха (Бенарас, 1586): Фитч — в
-      святилище нельзя входить в обуви.
+      святилище нельзя входить в обуви. Ganguly (1912): ⚠ колонны Аруна-стамбхи у Львиных врат при Махапрабху ещё не
+      было (перенесена в XVIII в.).
     en: >-
       Haridasa will not approach the temple lest he touch the servants — CC Madhya 11.163–168; Sanatana walks on
       burning sand, avoiding the Lion Gate — CC Antya 4.120–132; Mahaprabhu gazes from afar, from the Garuda pillar —
       CC Antya 14.23, Madhya 6.63; a guard raises his hand at the fallen Lord — CC Madhya 6.4–5; circling the altar —
       CC Madhya 7.58; garland and prasada from the priest — CC Madhya 6.217, Antya 16.89–90. Period (Benares, 1586):
-      Fitch — a shrine may not be entered with shoes on.
+      Fitch — a shrine may not be entered with shoes on. Ganguly (1912): ⚠ the Aruna-stambha column was not yet at the
+      Lion Gate in Mahaprabhu's time (moved in the 18th c.).
   text:
     ru: >-
       К храму Джаганнатхи подходили омывшись и в чистой одежде, у Львиных врат кланялись, внутри обходили алтарь и
@@ -482,7 +483,8 @@
       teach others." The Lord Himself came to Haridasa every day and sent him mahaprasada.
   hagiography: ["ЧЧ Мадхья 11.163–168", "ЧЧ Антья 4.120–132", "ЧЧ Антья 14.23", "ЧЧ Мадхья 6.4–5", "ЧЧ Мадхья 7.58",
                 "ЧЧ Мадхья 6.217", "ЧЧ Антья 16.89–90"]
-  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 105–106"]
+  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 105–106",
+            "Ganguly, Orissa and Her Remains (1912), с. 410–411"]
   images: []
   game: {model: "Львиные врата, раскалённый песок у моря (дорога Санатаны), роща Сиддха-бакула",
          where: ["puri/lion-gate", "puri/siddha-bakula"]}

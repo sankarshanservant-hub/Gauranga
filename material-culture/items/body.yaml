@@ -149,18 +149,20 @@
 - id: mc-sital-pati
   title: {ru: "Шитал-пати — «прохладная циновка»", en: "Shital-pati — the 'cool mat'"}
   rubric: home
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
     ru: >-
       Mukharji 1888, с. 311–312 (XIX в.: стебли *Maranta dichotoma*, Восточная Бенгалия, ремесло женщин, 5–100 рупий;
       «стелят поверх постели в зной»). В житиях циновки упомянуты без названия (см. mc-pidi-mat); для XVI в. —
       реконструкция. Эпоха: «Айн-и Акбари» (1590-е) — циновки Бенгалии «часто похожи на тканый шёлк» (вид не назван,
-      но описание подходит к шитал-пати).
+      но описание подходит к шитал-пати). Тарафдар (1965): *шитал-пати* и красная *лохит-пати* часто упоминаются в
+      бенгальской поэзии эпохи Хусейн-шахов.
     en: >-
       Mukharji 1888, pp. 311–312 (19th c.: stems of *Maranta dichotoma*, East Bengal, women's craft, 5–100 rupees;
       "spread over the bed in the hot season"). The hagiographies mention mats without this name (see mc-pidi-mat);
       for the 16th c. — a reconstruction. Period: Ain-i Akbari (1590s) — the mats of Bengal 'often look like woven
-      silk' (the kind is not named, but the description fits sital-pati).
+      silk' (the kind is not named, but the description fits sital-pati). Tarafdar (1965): *sital-pati* and the red
+      *lohit-pati* are often mentioned in Bengali poetry of the Husain Shahi period.
   text:
     ru: >-
       Самая прохладная постель Бенгалии — *шитал-пати*, «прохладная циновка». Её плели из тонких глянцевых полосок,
@@ -174,11 +176,12 @@
       were woven by the women of East Bengal, and the skill was prized in arranging marriages.
   hagiography: []
   sources: ["Mukharji 1888, с. 311–312",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 150"]
   images: []
   game: {model: "циновка ≈1×2 м из глянцевых светло-зелёно-золотистых полосок 3–4 мм, косое плетение, простой красный узор по краю",
          where: ["mishra-house/courtyard"]}
-  todo: "Тождественны ли «шёлковые» циновки «Айн-и Акбари» (1590-е) шитал-пати? Есть ли название в мангал-кавьях XVI в.?"
+  todo: "выписать конкретные места о шитал-пати в поэзии XV–XVI вв. (по ссылкам Тарафдара, с. 150)"
 
 - id: mc-hot-season
   title: {ru: "Зной: как спасались от жары", en: "The heat: escaping the hot season"}
@@ -229,14 +232,18 @@
       маслом), ч. 7.531 (масло, куркума, амалаки перед свадьбой); горчичное масло в благих дарах — ЧБ Ади 4.21.
       Кокосовое масло для волос, горчичное для тела перед купанием — Bose 1881, с. 16 (сноска) [XIX в.]. Эпоха: «Айн-и
       Акбари» — мужчины Ориссы натираются сандаловым маслом; «Рияз ас-салатин» (1788) — бенгальцы ежедневно натираются
-      горчичным маслом и купаются в прудах и реках (поздн.).
+      горчичным маслом и купаются в прудах и реках (поздн.). Исследования: знатные женщины перед омовением натирались
+      маслом «нараяна», голову мыли амалаки; воду для омовения приносили — роскошь, обычно купались в реке или пруду
+      (Raychaudhuri 1953).
     en: >-
       CB Adi 6.114 ("Mother, give Me fragrant oil — I am going to bathe"), 6.131 (dry hair — had not bathed),
       12.126–127 (oil from the perfumer: fragrance "after the bath"); Lochana Adi pt. 3.305 (the mother anoints the
       body with scented oil), pt. 7.531 (oil, turmeric, amalaki before the wedding); mustard oil among auspicious
       gifts — CB Adi 4.21. Coconut oil for the hair, mustard oil for the body before bathing — Bose 1881, p. 16 (note)
       [19th c.]. Period: Ain-i Akbari — the men of Orissa rub themselves with sandal oil; Riyaz-us-Salatin (1788) —
-      Bengalis daily rub on mustard oil and bathe in tanks and rivers (late).
+      Bengalis daily rub on mustard oil and bathe in tanks and rivers (late). Studies: noblewomen rubbed on 'narayana'
+      oil before bathing and washed their hair with amalaki; water fetched for bathing was a luxury, people usually
+      bathed in river or tank (Raychaudhuri 1953).
   text:
     ru: >-
       Перед купанием тело натирали маслом — чаще всего горчичным, а волосы смазывали отдельно, у богатых душистым маслом
@@ -252,7 +259,8 @@
   hagiography: ["ЧБ Ади 6.114", "ЧБ Ади 6.131", "ЧБ Ади 12.126–127", "ЧБ Ади 4.21", "Лочан, Ади-кханда, ч. 3, ст. 305", "Лочан, Ади-кханда, ч. 7, ст. 531"]
   sources: ["Bose 1881, с. 16 (сноска)",
             "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126",
-            "Riyaz-us-Salatin (1788), пер. Abdus Salam 1902, с. 22 (⚠ XVIII в.)"]
+            "Riyaz-us-Salatin (1788), пер. Abdus Salam 1902, с. 22 (⚠ XVIII в.)",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 221"]
   images: []
   game: {model: "глиняная/латунная плошка с горчичным маслом у двери; человек натирает плечи перед спуском к гхату",
          where: ["mishra-house/courtyard", "ganga-ghat"]}
@@ -263,17 +271,19 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      ЧЧ Антья 10.35: Дамаянти процеживает глину Ганги через ткань и делает с благовониями тонкие пластинки
-      (*па̄̐ча куд̣и*; разночтения — в сноске перевода); назначение в тексте не названо. Амалаки для волос — ЧБ Мадхья
-      7.64, Лочан Ади ч. 7.531. Масляные пасты и щёлок (*alkaly*) в туалете знатной дамы — сказки (Sen 1920, с. 71);
-      мыло — «осквернение» в религиозном смысле, XIX в. (Bose 1881, с. 16); мыльная вода при отбеливании — Taylor 1840,
-      с. 178. Мыльный орех (*ритха*) в просмотренных PD-книгах не найден.
+      ЧЧ Антья 10.35: Дамаянти процеживает глину Ганги через ткань и делает с благовониями тонкие пластинки (*па̄̐ча
+      куд̣и*; разночтения — в сноске перевода); назначение в тексте не названо. Амалаки для волос — ЧБ Мадхья 7.64,
+      Лочан Ади ч. 7.531. Масляные пасты и щёлок (*alkaly*) в туалете знатной дамы — сказки (Sen 1920, с. 71); мыло —
+      «осквернение» в религиозном смысле, XIX в. (Bose 1881, с. 16); мыльная вода при отбеливании — Taylor 1840, с.
+      178. Мыльный орех (*ритха*) в просмотренных PD-книгах не найден. Das Gupta (1935): мыла не знали — голову мыли
+      харитаки (миробаланами); волосы сушили и душили дымом благовоний.
     en: >-
       CC Antya 10.35: Damayanti strains Ganga clay through cloth and makes thin scented tablets (*panca kudi*; variant
       readings in the translation's note); their purpose is not stated. Amalaki for the hair — CB Madhya 7.64, Lochana
       Adi pt. 7.531. Oil pastes and lye (*alkaly*) at a noble lady's toilet — folk tales (Sen 1920, p. 71); soap as
       "desecration" in a religious sense, 19th c. (Bose 1881, p. 16); soapy water in bleaching — Taylor 1840, p. 178.
-      Soapnut (*ritha*) was not found in the PD books examined.
+      Soapnut (*ritha*) was not found in the PD books examined. Das Gupta (1935): soap was unknown — hair was washed
+      with haritaki (myrobalans), dried and scented over incense smoke.
   text:
     ru: >-
       Мыла в нынешнем смысле индусы для тела почти не знали, а позже считали его нечистым. Волосы мыли отваром плодов
@@ -288,7 +298,10 @@
       it through cloth, mixed it with fragrances and dried it in thin tablets — among the gifts carried every year to
       Mahaprabhu in Puri. Noble ladies, the tales say, washed with scented oil pastes.
   hagiography: ["ЧЧ Антья 10.35", "ЧБ Мадхья 7.64", "Лочан, Ади-кханда, ч. 7, ст. 531"]
-  sources: ["Sen, Folk-Literature of Bengal, 1920, с. 71", "Bose 1881, с. 16", "Taylor 1840, с. 178"]
+  sources: ["Sen, Folk-Literature of Bengal, 1920, с. 71",
+            "Bose 1881, с. 16",
+            "Taylor 1840, с. 178",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 48–50"]
   images: []
   game: {model: "плоские серые пластинки глины в мешочке (из «джхали Рагхавы»); плоды амалаки в плошке; горшок золы у пруда",
          where: ["mishra-house/courtyard", "puri/gambhira"]}
@@ -384,14 +397,17 @@
       10.133, 10.152); сильный ливень сорвал приглашение Адвайты (ЧЧ Мадхья 16.55); в дожди Ганга кишит крокодилами
       (ЧБ Мадхья 12.6, 13.137); половодье месяца бхадра (ЧБ Антья 2.125); ливень, град, пиявки, холод (ЧБ Антья
       5.611–615, 5.671). Лучшее время ткать тонкий муслин — дожди (Taylor 1840, с. 174). Эпоха: «Айн-и Акбари» — дожди
-      с середины мая больше шести месяцев, равнины под водой, видны лишь валы-*ал*; в Ориссе дожди 8 месяцев.
+      с середины мая больше шести месяцев, равнины под водой, видны лишь валы-*ал*; в Ориссе дожди 8 месяцев. Eaton
+      (1993): у Бхагиратхи (Навадвипа) ≈ 1400 мм осадков в год, в центре и на востоке дельты — 1500–2400 мм, в Силхете
+      ≈ 3800 мм.
     en: >-
       Chaturmasya — for the four months of rain the Lord does not travel (CC Madhya 1.110–111, 9.84, 16.93–94,
       16.282–285; Antya 10.133, 10.152); a heavy downpour spoiled Advaita's invitation (CC Madhya 16.55); in the rains
       the Ganga swarms with crocodiles (CB Madhya 12.6, 13.137); the flood of the month of Bhadra (CB Antya 2.125);
       downpour, hail, leeches, cold (CB Antya 5.611–615, 5.671). The best time to weave fine muslin is the rains
       (Taylor 1840, p. 174). Period: Ain-i Akbari — rains from mid-May for over six months, the plains under water
-      with only the *al* embankments showing; in Orissa the rains last 8 months.
+      with only the *al* embankments showing; in Orissa the rains last 8 months. Eaton (1993): ≈ 1400 mm of rain a
+      year by the Bhagirathi (Navadvipa), 1500–2400 mm in the central and eastern delta, ≈ 3800 mm in Sylhet.
   text:
     ru: >-
       С июня по сентябрь (*варша*, месяцы ашадха–ашвина) Бенгалия тонет в дождях: реки разливаются, дороги размокают,
@@ -409,7 +425,8 @@
   hagiography: ["ЧЧ Мадхья 1.110–111", "ЧЧ Мадхья 9.84", "ЧЧ Мадхья 16.55", "ЧЧ Мадхья 16.93–94", "ЧЧ Антья 10.152",
                 "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.125", "ЧБ Антья 5.611–615"]
   sources: ["Taylor 1840, с. 174",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120, 126"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120, 126",
+            "Eaton, The Rise of Islam and the Bengal Frontier (1993), гл. 1"]
   images: [{file: "material-culture/img/bengal-1770-radha-krishna-storm-villagers-cma.jpg", license: "CC0 1.0", author: "бенгальский художник, ок. 1770; Cleveland Museum of Art 2013.352", url: "https://clevelandart.org/art/2013.352"}]
   game: {model: "ливень, лужи во дворе, ткань сушится под навесом веранды; разлившаяся Ганга; путник под зонтом из листьев",
          where: ["mishra-house/courtyard", "ganga-ghat"]}

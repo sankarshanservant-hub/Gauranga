@@ -388,18 +388,21 @@
   evidence_note:
     ru: >-
       Жития: Рагхунатха даёт на служение «сто золотых монет и две толы золота» (ЧЧ Антья 6.153). Рати — семя *Abrus
-      precatorius* (красное с чёрным пятнышком), древняя мера ювелиров; цепочка мер от «пылинки в солнечном луче»
-      до маши — по Ману, HJ 1903, s.v. RUTTEE. Ряд рати → маша → тола → чхатак → сер → ман, «базарный сер = 80 тол»,
-      ман = 40 сер — Prinsep 1858, II, p. 96–97 (стандарт 1833 г.; до того сер различался «для каждого товара и
-      каждого рынка» — там же). Ман пришёл через арабскую торговлю — HJ, s.v. MAUND. Числа для XVI в. —
-      реконструкция.
+      precatorius* (красное с чёрным пятнышком), древняя мера ювелиров; цепочка мер от «пылинки в солнечном луче» до
+      маши — по Ману, HJ 1903, s.v. RUTTEE. Ряд рати → маша → тола → чхатак → сер → ман, «базарный сер = 80 тол», ман
+      = 40 сер — Prinsep 1858, II, p. 96–97 (стандарт 1833 г.; до того сер различался «для каждого товара и каждого
+      рынка» — там же). Ман пришёл через арабскую торговлю — HJ, s.v. MAUND. Числа для XVI в. — реконструкция. Эпоха:
+      драгметаллы взвешивали в дхана/рати/маша (4 дханы = 1 рати, 8 рати = 1 маша); меры зерна по смрити — 8 горстей =
+      кунчи, 8 кунчи = пушкала, 4 пушкалы = адхака, 4 адхаки = дрона; у Мукундарама — сер и адха — Тарафдар 1965.
     en: >-
       Hagiographies: Raghunatha gives 'a hundred gold coins and two tolas of gold' for service (CC Antya 6.153). The
       rati is the seed of *Abrus precatorius* (red with a black spot), an ancient goldsmith's weight; the chain from
       'the mote in a sunbeam' up to the masha — after Manu, HJ 1903, s.v. RUTTEE. The series rati → masha → tola →
-      chhatak → ser → man, 'the bazar ser = 80 tolas', man = 40 sers — Prinsep 1858, II, p. 96–97 (the 1833
-      standard; before that the ser varied 'for every article sold as well as for every market' — ibid.). The man
-      came through Arab trade — HJ, s.v. MAUND. Figures for the 16th c. are a reconstruction.
+      chhatak → ser → man, 'the bazar ser = 80 tolas', man = 40 sers — Prinsep 1858, II, p. 96–97 (the 1833 standard;
+      before that the ser varied 'for every article sold as well as for every market' — ibid.). The man came through
+      Arab trade — HJ, s.v. MAUND. Figures for the 16th c. are a reconstruction. Period: precious metals were weighed
+      in dhana/rati/masha (4 dhanas = 1 rati, 8 ratis = 1 masha); grain measures in the smriti — 8 handfuls = kunchi,
+      8 kunchi = pushkala, 4 pushkala = adhaka, 4 adhaka = drona; in Mukundaram — ser and adha — Tarafdar 1965.
   text:
     ru: >-
       Золото и лекарства взвешивают на крошечных весах-коромыслах, а гирьками служат семена: алое с чёрным глазком
@@ -417,7 +420,8 @@
       question 'by which ser?'.
   hagiography: ["ЧЧ Антья 6.153"]
   sources: ["Hobson-Jobson, 1903, s.v. RUTTEE, SEER, MAUND",
-            "J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 96–97"]
+            "J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 96–97",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 133, 152–156"]
   images: []
   game: {model: "ювелирные весы-коромысло (бронза, чашки ⌀ 4 см) и горсть семян рати; базарные весы с чашами из
          бамбуковых корзин", where: ["navadvipa/market"], notes: "алое семя Abrus — заметная игровая мелочь"}
@@ -746,7 +750,10 @@
       царь Ориссы иногда воюет с Бенгалией; «Мадала-панджи» по Стерлингу (1825): пока Пратапарудра воевал на юге,
       «афганцы из Бенгалии» дошли до Катака и Пури, жрецы увезли Шри Джиу на лодках через озеро Чилика и спрятали в
       горах; царь вернулся, разбил врага, но заключил мир почти на его условиях (⚠ даты Стерлинга устарели). Конец
-      независимой Ориссы ок. 1568 — Федеричи (1569).
+      независимой Ориссы ок. 1568 — Федеричи (1569). Исследования: по «Мадала-панджи», полководец Исмаил Гази в 1509
+      г., в отсутствие Пратапарудры, дошёл до Пури и разрушил ряд храмов; царь гнал его до крепости Мандаран, но снял
+      осаду из-за измены Говинды Видьядхары (Sarkar HB II 1948; Banerji 1930); граница стояла у Чхатрабхоги (ныне у
+      Даймонд-Харбора) под началом Рамачандры Кхана, около 1513–14 г. её закрыли (Sarkar HB II, прим.).
     en: >-
       'The two kingdoms are on the brink of war' — CB Antya 2.11–13; Ramachandra Khan: 'the king's men have planted
       sharp spikes on the roads; a stranger is accused of spying and executed', a secret night crossing — CB Antya
@@ -758,7 +765,11 @@
       Bengal; the Madala Panji after Stirling (1825): while Prataparudra fought in the south, 'Afghans from Bengal'
       reached Cuttack and Puri, the priests took Sri Jiu by boat across Lake Chilika and hid Him in the hills; the
       king returned, defeated the enemy, yet made peace almost on its terms (⚠ Stirling's dates are outdated). The end
-      of independent Orissa c. 1568 — Federici (1569).
+      of independent Orissa c. 1568 — Federici (1569). Studies: per the Madala Panji, the general Ismail Ghazi in
+      1509, while Prataparudra was away, reached Puri and destroyed several temples; the king drove him back to the
+      fort of Mandaran but raised the siege through Govinda Vidyadhara's treachery (Sarkar HB II 1948; Banerji 1930);
+      the frontier lay at Chhatrabhoga (near present Diamond Harbour) under Ramachandra Khan, and was closed around
+      1513–14 (Sarkar HB II, note).
   text:
     ru: >-
       Все годы жизни Господа в Пури между мусульманской Гаудой и индусской Ориссой шла то война, то настороженный мир.
@@ -780,13 +791,14 @@
                 "ЧЧ Мадхья 12.5"]
   sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 177–178",
             "Stirling, Account of Orissa, Asiatic Researches XV (1825), с. 122–123",
-            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410"]
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410",
+            "Sarkar (ed.), History of Bengal II (1948), гл. VII (Habibullah), с. 147–148, 151 прим.",
+            "Banerji, History of Orissa (1930), т. I, с. 327–328"]
   images: []
   game: {model: "застава: бамбуковый частокол, навес, заострённые колья у дороги; украшенное судно с каютой",
          where: ["travel/orissa-border"], notes: "сюжетный уровень «переход границы» ночью"}
 
 # ── Земледелие и промыслы ───────────────────────────────────────────────────────────────────────────────
-  todo: "хронология походов Хусейн-шаха на Ориссу (ок. 1508–1515) — сверить Стерлинга с Hunter, Orissa 1872"
 
 - id: mc-rice-year
   title: {ru: "Рисовый год: аус, аман, боро", en: "The rice year: aus, aman, boro"}
@@ -803,6 +815,7 @@
       Эпоха: Ван Даюань (1349) — в Бенгалии и Ориссе «три урожая в год», пустующей земли нет; Ма Хуань (1433) и Фэй
       Синь (1436) — два урожая риса, поля не полют; «Айн-и Акбари» (1590-е) — на одном поле сеют и жнут трижды в год,
       стебель растёт вместе с подъёмом воды (глубоководный рис). Названия *аус, аман, боро* и сроки — по Day 1874.
+      Тарафдар (1965): рассаду обычно высаживали в шраване и жали в аграхаяне — нынешний аман.
     en: >-
       The hagiographies hardly mention field work; disgruntled townsmen blame kirtan for drought: 'the gods send no
       rain, the rice fields have dried up, no one can earn anything' — CB Madhya 8.246–247; 'the *shasa* harvest' —
@@ -813,7 +826,8 @@
       (p. 200–202). **[late, Burdwan 1840s]** Period: Wang Dayuan (1349) — 'three harvests a year' in Bengal and
       Orissa, no land lying idle; Ma Huan (1433) and Fei Xin (1436) — two rice crops, fields not weeded; Ain-i Akbari
       (1590s) — a field sown and reaped three times a year, the stalk rising with the water (deep-water rice). The
-      names *aus, aman, boro* and their seasons are after Day 1874.
+      names *aus, aman, boro* and their seasons are after Day 1874. Tarafdar (1965): seedlings were usually planted in
+      Shravana and reaped in Agrahayana — today's aman.
   text:
     ru: >-
       Жизнь Бенгалии подчинена рису. Весной, после первой грозы, крестьянин выходит в поле с деревянным плугом с
@@ -835,7 +849,8 @@
             "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435, 444",
             "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
             "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 121"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 121",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 138–139"]
   images: []
   game: {model: "плуг (дышло ≈ 2,5 м, рукоять, железный лемех), ярмо на пару волов, серп-каште; рисовое поле по сезонам",
          where: ["navadvipa/fields"], notes: "смена вида полей по игровому календарю"}
@@ -971,20 +986,26 @@
   evidence_note:
     ru: >-
       Мишра боится, что красоту сына сглазят или навредят злые духи, и молится Кришне; «нечисты лишь места, где не
-      помнят о Тебе: там селятся духи, ведьмы и демоны» — ЧБ Ади 8.83–91; Сита Тхакурани защищает младенца «от ведьм
-      и злых духов» — ЧЧ Ади 13.117; при «вайю» Нимая говорят «им овладел демон», «это проделки ведьмы» — ЧБ Ади
-      12.79; брахма-ракшас — ЧЧ Антья 2.156; рыбак боится духа, Сварупа «изгоняет» его, призывая Нрисимху — ЧЧ Антья
+      помнят о Тебе: там селятся духи, ведьмы и демоны» — ЧБ Ади 8.83–91; Сита Тхакурани защищает младенца «от ведьм и
+      злых духов» — ЧЧ Ади 13.117; при «вайю» Нимая говорят «им овладел демон», «это проделки ведьмы» — ЧБ Ади 12.79;
+      брахма-ракшас — ЧЧ Антья 2.156; рыбак боится духа, Сварупа «изгоняет» его, призывая Нрисимху — ЧЧ Антья
       18.57–63; «слёзы на благом обряде — недобрый знак» — Карнапура, сарга 3, ст. 52. Стрёкот ящерицы — дурная
       примета для всех сословий Бенгалии — Day 1874, p. 8–9 **[поздн.]**. Обереги младенца — mc-protective-mantras,
-      mc-tiger-claw, mc-name-nimai.
+      mc-tiger-claw, mc-name-nimai. Исследования: дурные знаки в поэзии эпохи — разбитый кувшин у двери в дорогу, удар
+      головой о притолоку, щебет ящерицы слева, змея справа, вой шакалов, упавшая киноварь, треснувшая шанкха
+      (Тарафдар 1965); коршун над головой, ворона на сухой ветке; добрая встреча — цветочник (Raychaudhuri 1953).
     en: >-
-      Mishra fears his son's beauty will draw the evil eye or harm from evil spirits, and prays to Krishna; 'only those
-      places are unclean where You are not remembered: there spirits, witches and demons dwell' — CB Adi 8.83–91; Sita
-      Thakurani protects the infant 'from witches and evil spirits' — CC Adi 13.117; at Nimai's 'vayu' people say 'a
-      demon has seized him', 'it's a witch's doing' — CB Adi 12.79; the brahma-rakshasa — CC Antya 2.156; the
-      fisherman fears a ghost, Svarupa 'exorcises' it invoking Nrisimha — CC Antya 18.57–63; 'tears at an auspicious
-      rite are a bad sign' — Karnapura, sarga 3 v. 52. The chirp of a lizard is a bad omen for all classes of Bengal —
-      Day 1874, p. 8–9 **[late]**. The infant's protections — mc-protective-mantras, mc-tiger-claw, mc-name-nimai.
+      Mishra fears his son's beauty will draw the evil eye or harm from evil spirits, and prays to Krishna; 'only
+      those places are unclean where You are not remembered: there spirits, witches and demons dwell' — CB Adi
+      8.83–91; Sita Thakurani protects the infant 'from witches and evil spirits' — CC Adi 13.117; at Nimai's 'vayu'
+      people say 'a demon has seized him', 'it's a witch's doing' — CB Adi 12.79; the brahma-rakshasa — CC Antya
+      2.156; the fisherman fears a ghost, Svarupa 'exorcises' it invoking Nrisimha — CC Antya 18.57–63; 'tears at an
+      auspicious rite are a bad sign' — Karnapura, sarga 3 v. 52. The chirp of a lizard is a bad omen for all classes
+      of Bengal — Day 1874, p. 8–9 **[late]**. The infant's protections — mc-protective-mantras, mc-tiger-claw,
+      mc-name-nimai. Studies: ill omens in period poetry — a pot broken at the door on setting out, knocking one's
+      head on the lintel, a lizard chirping on the left, a snake on the right, jackals howling, spilt vermilion, a
+      cracked conch bangle (Tarafdar 1965); a kite overhead, a crow on a dry branch; a good meeting — a flower-seller
+      (Raychaudhuri 1953).
   text:
     ru: >-
       Мир бенгальской деревни полон невидимых обитателей: бхуты и преты бродят у воды и на пустырях, ведьма-даини может
@@ -1003,7 +1024,9 @@
       place is unclean where God is not remembered.
   hagiography: ["ЧБ Ади 8.83–91", "ЧЧ Ади 13.117", "ЧБ Ади 12.79", "ЧЧ Антья 2.156", "ЧЧ Антья 18.57–63",
                 "Карнапура, сарга 3, ст. 52"]
-  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 8–9"]
+  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 8–9",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 333",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 216–217"]
   images: []
   game: {model: "ящерица-геккон на стропилах (звук «тик-тик-тик»); тёмный пустырь у воды", where: ["mishra-house/courtyard"],
          notes: "без хоррора; страх снимается именем Хари"}
@@ -1024,15 +1047,18 @@
       Шриман держит факел (18.11); женщины семей смотрят (18.29–30); Господь в облике Лакшми/Рукмини — ЧЧ Ади 10.13,
       17.241; письмо Рукмини, написанное слезами на полу, — ЧБ Мадхья 18.72–73; «первую прахару длилось действо» —
       18.101. Спектакль «Дана-кели» у Гададхара даса — ЧЧ Ади 11.17. Слово для стража — сверить по транслиту.
+      Исследования: представления на пуранические сюжеты смотрели и индусы, и мусульмане; певцы-гаены исполняли
+      мангала-кавьи — Тарафдар 1965.
     en: >-
       CB Madhya 18.6–101: the Lord announces 'a dance by the rules of a play (*anka*)', Sadashiva and Buddhimanta Khan
       prepare costumes — conch bangles, bodices, silk saris, ornaments — and put up a large awning (18.7–16); the
-      casting (18.9–12); Haridasa as the guard, *kotala*, with twirled moustache, turban and stick (18.39–48); Shrivasa
-      as Narada with a white beard and dots of sandal, Ramai carrying his water-pot and mat (18.50–53); Shriman holds
-      the torch (18.11); the women of the families watch (18.29–30); the Lord in the form of Lakshmi/Rukmini — CC Adi
-      10.13, 17.241; Rukmini's letter written with tears on the floor — CB Madhya 18.72–73; 'the play lasted the first
-      prahara' — 18.101. The play 'Dana-keli' at Gadadhara Dasa's — CC Adi 11.17. The word for the guard — check in
-      the transliteration.
+      casting (18.9–12); Haridasa as the guard, *kotala*, with twirled moustache, turban and stick (18.39–48);
+      Shrivasa as Narada with a white beard and dots of sandal, Ramai carrying his water-pot and mat (18.50–53);
+      Shriman holds the torch (18.11); the women of the families watch (18.29–30); the Lord in the form of
+      Lakshmi/Rukmini — CC Adi 10.13, 17.241; Rukmini's letter written with tears on the floor — CB Madhya 18.72–73;
+      'the play lasted the first prahara' — 18.101. The play 'Dana-keli' at Gadadhara Dasa's — CC Adi 11.17. The word
+      for the guard — check in the transliteration. Studies: plays on Puranic themes were watched by Hindus and
+      Muslims alike; gayen singers performed the mangal-kavyas — Tarafdar 1965.
   text:
     ru: >-
       Театра как здания не было: играли во дворе или в доме, под натянутым навесом, при свете факела, а зрители
@@ -1051,7 +1077,7 @@
       Rukmini and at last the Lord Himself in the guise of Lakshmi, so that the mothers and wives of the Vaishnavas who
       had come to watch did not recognise Him and wept with love.
   hagiography: ["ЧБ Мадхья 18.6–101", "ЧЧ Ади 10.13", "ЧЧ Ади 17.241", "ЧЧ Ади 11.17"]
-  sources: []
+  sources: ["Tarafdar, Husain Shahi Bengal (1965), с. 332"]
   images: []
   game: {model: "навес-шамиана над двором, факел, костюмы: накладная борода, тюрбан стража, шёлковые сари",
          where: ["chandrashekhara-house/courtyard"], notes: "сцена-спектакль; см. mc-pretend-lila-games"}
@@ -1204,7 +1230,8 @@
       *факир* — араб. «бедный», нищенствующий дервиш, позднее и о индусских аскетах — HJ 1903, s.v. PEER, FAKEER.
       Гробницы пиров в Бенгалии XVI в. — по житиям не засвидетельствованы (todo). Эпоха: Мукундарам (ок. 1590) — на
       рынке раздают *ширни* (сладкое подношение пиру); Ибн Баттута (1346) — к шейху Джалал ад-Дину приходили с дарами
-      и мусульмане, и индусы; султан велел перевозить факиров даром.
+      и мусульмане, и индусы; султан велел перевозить факиров даром. Исследования: вечером у гробниц пиров зажигали
+      светильники и приносили сладости (Тарафдар 1965); пир-факиры носили чёрное (Karim 1959).
     en: >-
       Sanatana flatters the jailer: 'you are a *jinda-pir*, a living saint, learned in the Quran' — CC Madhya 20.5;
       among the Pathan horsemen is a man in black whom 'ordinary people called a saint', learned in the Quran, who
@@ -1213,7 +1240,8 @@
       pilgrimage; *fakir* — Arabic 'poor', a mendicant dervish, later also of Hindu ascetics — HJ 1903, s.v. PEER,
       FAKEER. Tombs of pirs in 16th-c. Bengal are not attested in the hagiographies (todo). Period: Mukundaram (c.
       1590) — *shirni* (a sweet offering to a pir) handed out at market; Ibn Battuta (1346) — both Muslims and Hindus
-      brought gifts to Shaikh Jalal al-Din; the sultan had fakirs ferried free.
+      brought gifts to Shaikh Jalal al-Din; the sultan had fakirs ferried free. Studies: in the evening lamps were lit
+      and sweets brought to the pirs' tombs (Tarafdar 1965); pir-fakirs wore black (Karim 1959).
   text:
     ru: >-
       У мусульман Бенгалии были свои святые: пир — наставник и чудотворец, к чьей гробнице после смерти ходят с
@@ -1233,7 +1261,9 @@
   hagiography: ["ЧЧ Мадхья 20.5", "ЧЧ Мадхья 18.185–212"]
   sources: ["Hobson-Jobson, 1903, s.v. PEER, FAKEER",
             "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54",
-            "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 87–88, 91"]
+            "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 87–88, 91",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 316",
+            "Karim, Social History of the Muslims in Bengal (1959), с. 193"]
   images: []
   game: {model: "дервиш: чёрная или латаная накидка, чётки-тасбих, посох; небольшая гробница-даргах с покрывалом",
          where: ["travel/prayaga-road"], notes: "почтительно; см. mc-muslims-in-the-lilas, mc-muslim-dress"}

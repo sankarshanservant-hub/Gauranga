@@ -6,11 +6,14 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Кухню моют и готовят к стряпне для Вишну — ЧБ Ади 5.29–30, 5.48–49, 5.112; Махапрабху выходит из кухни
-      навстречу учителю — ЧБ Ади 17.83. Отдельная хижина-кухня — реконструкция по устройству усадьбы.
+      Кухню моют и готовят к стряпне для Вишну — ЧБ Ади 5.29–30, 5.48–49, 5.112; Махапрабху выходит из кухни навстречу
+      учителю — ЧБ Ади 17.83. Отдельная хижина-кухня — реконструкция по устройству усадьбы. Исследования: готовили
+      только женщины, с обрядностью; разжигание очага — с обходом огня — Тарафдар 1965.
     en: >-
       The kitchen is washed and made ready for cooking for Vishnu — CB Adi 5.29–30, 5.48–49, 5.112; Mahaprabhu steps
-      out of the kitchen to greet His guru — CB Adi 17.83. A separate kitchen hut is reconstructed from homestead layout.
+      out of the kitchen to greet His guru — CB Adi 17.83. A separate kitchen hut is reconstructed from homestead
+      layout. Studies: only women cooked, with ritual care; the hearth was lit with a circling of the fire — Tarafdar
+      1965.
   text:
     ru: >-
       Кухня — самое чистое место дома после комнаты Божества, обычно отдельная хижина: огонь подальше от жилья, а
@@ -25,7 +28,8 @@
   hagiography: ["ЧБ Ади 5.29–31", "ЧБ Ади 5.48–49", "ЧБ Ади 5.112", "ЧЧ Ади 14.37", "ЧБ Ади 17.83"]
   sources: ["Day 1874, с. 29 (кухня pak-shala/rannaghar на веранде хижины в юго-восточном углу)",
             "Bose 1881, с. 13–15 (кухня во внутренней половине дома; отдельный очаг для «чистой» пищи)",
-            "Sen 1911, с. 23 («Дак-вачана»: очаг — на кухне)"]
+            "Sen 1911, с. 23 («Дак-вачана»: очаг — на кухне)",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 331"]
   images: []
   game: {model: "хижина-чала 4×3 м, низкий вход, дым уходит сквозь соломенную кровлю; внутри — чула, полка с ханди",
          where: ["mishra-house/kitchen"], codex: hs_kitchen,

@@ -9,15 +9,19 @@
   evidence_note:
     ru: >-
       Отдельные комнаты Джаганнатхи и Шачи — Лочан, Ади-кханда, ч. 2, ст. 126; молодых после свадьбы ведут «во
-      внутренние покои» — ЧБ Ади 15.191; у Шриваса есть внутренние покои, куда уходит хозяин во время киртана во дворе —
-      ЧБ Мадхья 25.24–33; Лочан: Господь входит во внутренние покои Мурари Гупты, где тот ест. Деление дома на внешнюю
-      и внутреннюю (женскую) часть, кухня во внутренней части — Bose 1881, с. 13–14 (XIX в., реконструкция).
+      внутренние покои» — ЧБ Ади 15.191; у Шриваса есть внутренние покои, куда уходит хозяин во время киртана во дворе
+      — ЧБ Мадхья 25.24–33; Лочан: Господь входит во внутренние покои Мурари Гупты, где тот ест. Деление дома на
+      внешнюю и внутреннюю (женскую) часть, кухня во внутренней части — Bose 1881, с. 13–14 (XIX в., реконструкция).
+      Исследования: части усадьбы — спальня с двориком, жилая комната с приподнятой верандой, кухня и чанди-мандапа; у
+      Чудамани Даса дом Махапрабху имел ворота на юг и на восток — Тарафдар 1965.
     en: >-
       Separate rooms of Jagannatha and Shachi — Lochana, Adi-khanda, pt. 2, v. 126; the newly-weds are led 'into the
       inner rooms' — CB Adi 15.191; Shrivasa has inner rooms where the master goes while kirtan fills the courtyard —
       CB Madhya 25.24–33; Lochana: the Lord enters Murari Gupta's inner rooms where he is eating. The division of a
       house into an outer and an inner (women's) part, with the kitchen inside — Bose 1881, pp. 13–14 (19th c.,
-      reconstruction).
+      reconstruction). Studies: parts of a homestead — a bedroom with a little court, a living room with a raised
+      veranda, the kitchen and the chandi-mandapa; in Chudamani Das the Lord's house had gates to the south and east —
+      Tarafdar 1965.
   text:
     ru: >-
       Бенгальская усадьба делилась на две части. Во внешнюю, к воротам, приходили гости, ученики и соседи: здесь
@@ -34,7 +38,8 @@
   hagiography: ["Лочан, Ади-кханда, ч. 2, ст. 126", "ЧБ Ади 15.191", "ЧБ Мадхья 25.24–33",
                 "Лочан, Ади-кханда, ч. 4, ст. 392 (внутренние покои Мурари Гупты)"]
   sources: ["Bose 1881, с. 13–14 (кухня во внутренней половине) — через research/pd-texts.md",
-            "Hunter 1875, т. 2, с. 240 (у крестьянина 3–4 «комнаты»-постройки) — через research/pd-texts.md"]
+            "Hunter 1875, т. 2, с. 240 (у крестьянина 3–4 «комнаты»-постройки) — через research/pd-texts.md",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 330–331"]
   images: []
   game: {model: "план усадьбы: ворота → внешний двор с чанди-мандапой и коровником → проход → внутренний двор с жилыми хижинами, кухней, кладовой, тхакур-гхаром → задний двор и пруд",
          where: ["mishra-house/courtyard", "mishra-house/backyard"], notes: "в доме Мишры — небольшая усадьба бедного брахмана; у Говардханы в Саптаграме — несколько дворов"}
@@ -82,12 +87,14 @@
       Ишана всю жизнь служил матери Шачи: подаёт воду для омовения стоп, убирает, доедает остатки — ЧБ Мадхья 8.59,
       8.73–74; ЧЧ Мадхья 15.63. Служанка Шриваса Духкхи носит воду — ЧБ Мадхья 9.40–41, 25.11–22. Служанки Ситы
       Тхакурани — ЧЧ Ади 13.114; слуги и служанки дома Шриваса — одна «ветвь» с хозяевами — ЧЧ Ади 10.9. Говинда —
-      слуга Господа в Пури — ЧЧ Мадхья 10.132 и далее.
+      слуга Господа в Пури — ЧЧ Мадхья 10.132 и далее. Raychaudhuri (1953): у богатого индусского купца в
+      «Чанди-мангале» — лишь несколько слуг, платили скудно; кахары — носильщики паланкинов.
     en: >-
       Ishana served mother Shachi all his life: brings water for washing feet, cleans, eats the remnants — CB Madhya
       8.59, 8.73–74; CC Madhya 15.63. Shrivasa's maidservant Duhkhi carries water — CB Madhya 9.40–41, 25.11–22. Sita
       Thakurani's maidservants — CC Adi 13.114; the servants and maids of Shrivasa's house are one 'branch' with their
-      masters — CC Adi 10.9. Govinda, the Lord's servant in Puri — CC Madhya 10.132 ff.
+      masters — CC Adi 10.9. Govinda, the Lord's servant in Puri — CC Madhya 10.132 ff. Raychaudhuri (1953): a rich
+      Hindu merchant in the Chandi-mangala has only a few servants, poorly paid; kahars carry palanquins.
   text:
     ru: >-
       Даже в небогатом брахманском доме жили слуги, и их считали частью семьи. Ишана всю жизнь служил матери Шачи:
@@ -104,7 +111,8 @@
       part of the lila.
   hagiography: ["ЧБ Мадхья 8.59", "ЧБ Мадхья 8.73–74", "ЧЧ Мадхья 15.63", "ЧБ Мадхья 9.40–41", "ЧБ Мадхья 25.11–22",
                 "ЧЧ Ади 13.114", "ЧЧ Ади 10.9", "ЧЧ Мадхья 10.132", "ЧЧ Антья 10.95"]
-  sources: ["Bose 1881, с. 15–16 (утро служанки: метёт, моет веранды, чистит латунную утварь, разжигает очаг) — XIX в., через research/pd-texts.md"]
+  sources: ["Bose 1881, с. 15–16 (утро служанки: метёт, моет веранды, чистит латунную утварь, разжигает очаг) — XIX в., через research/pd-texts.md",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 196"]
   images: []
   game: {model: "персонажи: Ишана с кувшином и метлой; Духкхи-Сукхи с глиняным кувшином на бедре",
          where: ["mishra-house/courtyard", "navadvipa/shrivasa-house"]}

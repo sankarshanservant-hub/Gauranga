@@ -38,14 +38,18 @@
       Лиф-канчули — у поэтов от Виджая Гупты (1494) до XVIII в. (Sen 1911, с. 388–389). Белое сари с красной каймой —
       по позднейшим данным. Эпоха: Фэй Синь (1436, по посольству 1415 г.) — женщины Бенгалии носят короткую рубашку и
       обёрнутый кусок хлопка, шёлка или парчи, косметикой не пользуются, волосы собраны узлом на затылке. «Короткая
-      рубашка» — свидетельство лифа под тканью уже в XV в. (ср. канчули у Виджая Гупты).
+      рубашка» — свидетельство лифа под тканью уже в XV в. (ср. канчули у Виджая Гупты). Исследования: канчули —
+      короткий, до груди, или длинный, до пояса, завязывался сзади лентами, бывал вышит; в XVI в. сари, вероятно,
+      носили со складкой *коча* спереди (Das Gupta 1935); на торжества — накидка поверх (Raychaudhuri 1953).
     en: >-
       Embroidered saris among the gifts — CC Adi 13.113; the end of the sari — Lochana, Adi-khanda pt. 3 v. 271; pt. 4
       v. 359. The kanchuli bodice — in poets from Vijay Gupta (1494) to the 18th c. (Sen 1911, pp. 388–389). The white
       sari with a red border follows later data. Period: Fei Xin (1436, from the 1415 embassy) — Bengali women wear a
       short shirt and a wrapped length of cotton, silk or brocade, use no cosmetics, and gather their hair in a knot
       at the back. The 'short shirt' attests a bodice under the wrap already in the 15th c. (cf. Vijaya Gupta's
-      *kanchuli*).
+      *kanchuli*). Studies: the kanchuli was short, to the breast, or long, to the waist, tied at the back with
+      ribbons, sometimes embroidered; in the 16th c. the sari was probably worn with a front *kocha* pleat (Das Gupta
+      1935); on festive occasions a wrap on top (Raychaudhuri 1953).
   text:
     ru: >-
       Женщины носили сари — несшитое полотно в несколько локтей, обёрнутое вокруг тела и переброшенное через плечо;
@@ -63,7 +67,9 @@
   images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.159", note: "ок. 1890.; The Cleveland Museum of Art — 2003.159; 42 × 26 см."}]
   sources: ["Sen 1911, с. 388–389 (канчули, одна, нивибандха — XV–XVIII вв.)",
             "Bose 1881, с. 293 (сари 5 ярдов с цветной каймой — XIX в.)",
-            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 221",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 41–48"]
   game: {model: "простое хлопковое сари (белое/небелёное, цветная кайма); у знатных — лиф-канчули; край на голове у замужних",
          where: ["mishra-house/courtyard"], codex: hs_sari}
   todo: "покрой канчули XV–XVI вв. (терракоты XVII в.?); носили ли его простые брахманки"
@@ -102,13 +108,17 @@
       Жёлтое полотно Нимая — ЧБ Ади 12.243; свадебное *трикаччха* — ЧБ Ади 15.130; заштопанная одежда Шридхара — ЧБ
       Ади 12.185–186; «платок» (уттарья) в дарах — ЧБ Ади 15.166. Внежитийно: Фитч (1586) в Гауде, Бакле и Сонаргаоне
       — люди ходят «с маленькой тканью вокруг пояса», остальное тело открыто; «Айн-и Акбари» (1590-е): мужчины и
-      женщины большей частью носят лишь ткань вокруг бёдер — это одежда простого люда, а не знати.
+      женщины большей частью носят лишь ткань вокруг бёдер — это одежда простого люда, а не знати. Исследования:
+      брахман-жрец — дхоти и чадар, без рубах; купец — дхоти, чадар, тюрбан (Das Gupta 1935); модники — дхоти из
+      тасара (Raychaudhuri 1953; ⚠ кабая и изар — могольская мода после 1576).
     en: >-
       Nimai's yellow cloth — CB Adi 12.243; the wedding trikaccha — CB Adi 15.130; Shridhara's patched clothes — CB
       Adi 12.185–186; a cloth (uttariya) among gifts — CB Adi 15.166. Outside the hagiographies: Fitch (1586) in
       Gauda, Bakla and Sonargaon — people go 'with a little cloth bound about their middle', the rest of the body
       bare; the Ain-i Akbari (1590s): men and women mostly wear only a cloth about the loins — the dress of common
-      folk, not of the gentry.
+      folk, not of the gentry. Studies: a priestly brahmin wore dhoti and chadar, no shirt; a merchant dhoti, chadar
+      and turban (Das Gupta 1935); dandies a tasar dhoti (Raychaudhuri 1953; ⚠ the kabaya and izar are Mughal fashion
+      after 1576).
   text:
     ru: >-
       Мужская одежда — два несшитых полотна: дхоти, обёрнутое вокруг пояса и подоткнутое между ног и сзади (у
@@ -128,7 +138,9 @@
             "Hunter 1875, т. 2, с. 240 (дхоти, чадар, гамчха — XIX в.)",
             "Sen, Folk-Literature (1920), с. 100 (обычный костюм — дхоти и чадар)",
             "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 111, 118–120",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 220–221",
+            "Das Gupta, Aspects of Bengali Society from Old Bengali Literature (1935), с. 44–46"]
   images: [{file: "material-culture/img/kalighat-1890-nitai-and-gaur-cma.jpg", license: "CC0 1.0", author: "художник-патуа Калигхата", url: "https://clevelandart.org/art/2003.154", note: "ок. 1890.; The Cleveland Museum of Art — 2003.154 (Gift of William E. Ward in memory of his wife, Evelyn Svec Ward). Гуммитемпера, графит, тушь, олово на бумаге; 45,4 × 27,8 см."},
            {file: "material-culture/img/calcutta-art-studio-chaitanya-devotees-kirtan-chromolitho.jpg", license: "PD (Public Domain Mark 1.0)", author: "Calcutta Art Studio (185 Bowbazar Street, Calcutta)", url: "https://wellcomecollection.org/works/cqkxvkhr", note: "ок. 1880-х (в каталоге без даты; студия работала с 1878).; Wellcome Collection — 26213i (b11840602; image V0045019)."}]
   game: {model: "белое/небелёное хлопковое дхоти до щиколоток, уттарья через левое плечо; у Нимая — жёлтое",
@@ -144,12 +156,15 @@
       Тилака — ЧБ Ади 12.245, 15.128; шнур — ЧБ Ади 8.14, 8.186; Лочан, Ади-кханда, ч. 1, ст. 85 (тилака из горочаны).
       Форма вайшнавской тилаки в эпоху — проверить. Вне Бенгалии: Фитч (1586) на Ганге между Агрой и Бенаресом —
       брахманы каждое утро ставят метки на лоб, уши и горло «жёлтой массой», входят в реку со шнуром и перебирают его
-      при молитве.
+      при молитве. «Хари-бхакти-виласа» (сер. XVI в., по De 1961): тело умащают сандалом и гопи-чанданой, рисуют
+      урдхва-пундру и знаки на двенадцати местах тела; формы — по обычаю своей сампрадаи.
     en: >-
       Tilaka — CB Adi 12.245, 15.128; sacred thread — CB Adi 8.14, 8.186; Lochana, Adi-khanda pt. 1 v. 85 (gorochana
       tilaka). The form of Vaishnava tilaka in the period — to check. Outside Bengal: Fitch (1586) on the Ganga
       between Agra and Benares — Brahmins each morning mark forehead, ears and throat with 'a yellow paste', enter the
-      river with the sacred thread and finger it in prayer.
+      river with the sacred thread and finger it in prayer. Hari-bhakti-vilasa (mid-16th c., after De 1961): the body
+      is anointed with sandal and gopi-chandana, the urdhva-pundra and marks are drawn on twelve places of the body;
+      the forms follow one's sampradaya.
   text:
     ru: >-
       Облик брахмана-вайшнава: на лбу тилака — знак, нанесённый глиной, сандалом или горочаной; на макушке оставлен пучок
@@ -160,7 +175,8 @@
       (shikha) left on the crown; a white cotton thread over the left shoulder, received at the upanayana. Nimai's
       forehead bore a tilaka and He carried books; at the wedding a crescent of sandal with aguru was drawn on Him.
   hagiography: ["ЧБ Мадхья 7.63 (*ӯрдхва-пун̣д̣ра* из сандала)", "ЧЧ Мадхья 18.14 (тилака глиной Радха-кунды)", "ЧБ Ади 12.245", "ЧБ Ади 15.128", "ЧБ Ади 8.14", "ЧБ Ади 8.186", "Лочан, Ади-кханда, ч. 1, ст. 85"]
-  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 100–101"]
+  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 100–101",
+            "De, Early History of the Vaishnava Faith and Movement in Bengal (1961), с. 424–425 (по «Хари-бхакти-виласе»)"]
   images: [{file: "material-culture/img/belnos-1851-tilaka-signs-of-brahmins.jpg", license: "PD (Public Domain Mark 1.0)", author: "Sophie Charlotte Belnos", url: "https://wellcomecollection.org/works/f2877av8", note: "1851 (London: Day & Son).; Wellcome Collection — 580611i (b1580611x; image V0046127)."},
            {file: "material-culture/img/company-brahmin-japa-beads.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестный индийский художник", url: "https://wellcomecollection.org/works/k2zgf6ww", note: "XIX в. (1800–1899?).; Wellcome Collection — 576052i (b15760522; image V0045540)."}]
   game: {model: "тилака — вертикальная (форма уточнить), шикха, шнур через левое плечо", where: []}

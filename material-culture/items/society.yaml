@@ -17,6 +17,9 @@
       конных; Бабур (ок. 1528) — «удивительный обычай Бенгалии»: почитают сам трон, «кто убьёт государя и сядет на
       трон, сам становится государем»; Нусрат-шах — сын Хусейн-шаха; Баррош (1530-е) — Гауда тянется на три лиги вдоль
       Ганги; «Рияз ас-салатин» (1788) — Хусейн-шах распустил пайков и изгнал абиссинцев (поздний рассказ).
+      Исследования: воцарение отмечено золотой монетой 899 г. х. (1493), в надписи 1495 г. — титул «халифатуллах»;
+      умер в 1519 г. (последняя надпись — 12 авг. 1519); Насрат-шах 1519–1532 (Sarkar HB II 1948); по преданию, сын
+      сейида, выученный кази Чандпура (Abid Ali 1931).
     en: >-
       The 'king of Bengal' Husain Shah visits Sanatana, puts him under guard and makes war on Orissa — CC Madhya
       19.18–30; forbids anyone to hinder the Lord at Ramakeli — CC Madhya 1.168–181, CB Antya 4.55–66 ('if I do not
@@ -28,6 +31,9 @@
       wonderful custom of Bengal': the throne itself is honoured, 'whoever kills the king and sits on the throne
       becomes king'; Nusrat Shah is Husain Shah's son; Barros (1530s) — Gauda stretches three leagues along the Ganga;
       Riyaz-us-Salatin (1788) — Husain Shah disbanded the *paiks* and expelled the Abyssinians (a late account).
+      Studies: the accession was marked by a gold coin of AH 899 (1493), the title 'khalifatullah' in a 1495
+      inscription; he died in 1519 (last inscription 12 Aug. 1519); Nusrat Shah 1519–1532 (Sarkar HB II 1948); by
+      tradition a sayyid's son taught by the qazi of Chandpur (Abid Ali 1931).
   text:
     ru: >-
       Бенгалией в юности Господа правил султан Алауддин Хусейн-шах; его столица Гауда стояла на Ганге, у нынешнего
@@ -48,12 +54,13 @@
             "Varthema (ок. 1505), пер. Jones–Badger 1863, с. 211–212",
             "Babur-nama, пер. Beveridge 1922, т. II, с. 482–483",
             "Баррош (1530-е), по прим. Бадджера в Varthema (1863), с. 211",
-            "Riyaz-us-Salatin (1788), пер. Abdus Salam 1902, с. 130–132 (⚠ XVIII в.)"]
+            "Riyaz-us-Salatin (1788), пер. Abdus Salam 1902, с. 130–132 (⚠ XVIII в.)",
+            "Sarkar (ed.), History of Bengal II (1948), гл. VII (Habibullah), с. 143–160",
+            "Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931), с. 33–34"]
   images: [{file: "material-culture/img/creighton-1808-gaur-gateway-tomb-husain-shah.jpg", license: "PD (Public Domain Mark 1.0)",
             author: "James Moffat по рисунку Henry Creighton, ок. 1808", url: "https://wellcomecollection.org/works/s4ad6rk9"}]
   game: {model: "руины Гауды: кирпичные ворота с остроконечной аркой; в сцене — султан в тюрбане и кафтане с одним спутником",
          where: ["gauda/ramakeli"], notes: "о двух братьях-министрах — mc-royal-ministers"}
-  todo: "титулатура Хусейн-шаха — по надписям (Blochmann, JASB 1873–75)"
 
 - id: mc-royal-ministers
   title: {ru: "Царская служба: Дабир Кхас и Сакар Маллик", en: "Royal service: Dabir Khas and Sakar Mallik"}
@@ -63,16 +70,20 @@
     ru: >-
       Рупа — министр Дабир Кхас — ЧЧ Мадхья 1.175–181, 1.207; ЧБ Ади 1.171, 13.192; «Сакар Маллик и Рупа» — ЧБ Антья
       9.239; Санатана, сказавшись больным, перестаёт ездить ко двору, его дела ведут подчинённые; султан присылает
-      лекаря проверить — ЧЧ Мадхья 19.13–23; Рупа увозит деньги на лодке, делит их и оставляет 10 000 монет у
-      торговца — 19.6–9, 19.34; зять Санатаны Шрикант закупает коней для султана на 3 лакха — 20.38–39. Значение
-      титулов (перс. *дабир-и хас* — личный секретарь; *сакар/сагир маллик* — младший сановник?) — уточнить.
+      лекаря проверить — ЧЧ Мадхья 19.13–23; Рупа увозит деньги на лодке, делит их и оставляет 10 000 монет у торговца
+      — 19.6–9, 19.34; зять Санатаны Шрикант закупает коней для султана на 3 лакха — 20.38–39. Значение титулов (перс.
+      *дабир-и хас* — личный секретарь; *сакар/сагир маллик* — младший сановник?) — уточнить. Исследования: индусские
+      сановники Хусейн-шаха — вазир Гопинатх Басу (Пурандар-хан), лекарь Мукунда Дас, начальник телохранителей Кешава
+      Чхатри; Рупа и Санатана — дабир-и-хас и сакар-малик (Sarkar HB II 1948; Abid Ali 1931).
     en: >-
       Rupa as the minister Dabir Khas — CC Madhya 1.175–181, 1.207; CB Adi 1.171, 13.192; 'Sakar Mallik and Rupa' — CB
       Antya 9.239; Sanatana, pleading illness, stops attending court, his subordinates do his work, and the sultan
       sends a physician to check — CC Madhya 19.13–23; Rupa takes money home by boat, divides it and leaves 10,000
       coins with a merchant — 19.6–9, 19.34; Sanatana's brother-in-law Shrikanta buys horses for the sultan with 3
       lakhs — 20.38–39. The meaning of the titles (Pers. dabir-i khas — private secretary; sakar mallik?) is to be
-      verified.
+      verified. Studies: Husain Shah's Hindu officers — the vizier Gopinath Basu (Purandar Khan), the physician
+      Mukunda Das, the bodyguard captain Keshava Chhatri; Rupa and Sanatana — dabir-i-khas and sakar-malik (Sarkar HB
+      II 1948; Abid Ali 1931).
   text:
     ru: >-
       Султану служили не только мусульмане: братья Рупа и Санатана, учёные брахманы, были его ближайшими министрами и
@@ -89,7 +100,8 @@
       in the keeping of a merchant he knew.
   hagiography: ["ЧЧ Мадхья 1.175–181", "ЧЧ Мадхья 1.207", "ЧБ Антья 9.239", "ЧЧ Мадхья 19.4–23", "ЧЧ Мадхья 19.34",
                 "ЧЧ Мадхья 20.38–39"]
-  sources: []
+  sources: ["Sarkar (ed.), History of Bengal II (1948), гл. VII (Habibullah), с. 151–152",
+            "Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931), с. 34"]
   images: []
   game: {model: "персонажи-сановники: тонкое дхоти и верхняя ткань при дворе — кафтан и тюрбан (⚠ уточнить придворную одежду индусов на службе султана)",
          where: ["gauda/ramakeli"]}
@@ -103,11 +115,15 @@
     ru: >-
       Чханд Кази разбивает мридангу и запрещает киртан под угрозой лишения касты и имущества; шествие с факелами к его
       дому; беседа о коровах и Коране — ЧЧ Ади 17.124–177; «если падишах узнает, накажет» — ЧЧ Ади 17.195. Подробно —
-      ЧБ Мадхья 23.101–420 (шествие).
+      ЧБ Мадхья 23.101–420 (шествие). Исследования: сад перед домом кази Надии (ЧЧ Ади 17) — редкий пример
+      мусульманской усадьбы в источниках (Karim 1959); кази отвечал за общественный порядок и перед индусами (Eaton
+      1993).
     en: >-
-      Chand Kazi breaks a mridanga and forbids kirtan on pain of loss of caste and property; the torchlit procession to
-      his house; the dialogue on cows and the Quran — CC Adi 17.124–177; 'if the padishah hears of it he will punish
-      you' — CC Adi 17.195. In detail — CB Madhya 23 (the procession).
+      Chand Kazi breaks a mridanga and forbids kirtan on pain of loss of caste and property; the torchlit procession
+      to his house; the dialogue on cows and the Quran — CC Adi 17.124–177; 'if the padishah hears of it he will
+      punish you' — CC Adi 17.195. In detail — CB Madhya 23 (the procession). Studies: the garden before the Nadia
+      qazi's house (CC Adi 17) is a rare example of a Muslim homestead in the sources (Karim 1959); the qazi answered
+      for public order among Hindus too (Eaton 1993).
   text:
     ru: >-
       Кази — мусульманский судья, назначенный султаном; в Навадвипе он судил, следил за порядком и мог наказывать
@@ -124,7 +140,8 @@
       'nephew' — the Lord's grandfather Nilambara Chakravarti had been like an uncle to him — and after a long debate
       on cows and scriptures promised never again to hinder kirtan.
   hagiography: ["ЧЧ Ади 17.124–177", "ЧЧ Ади 17.195", "ЧБ Мадхья 23.101–420"]
-  sources: []
+  sources: ["Karim, Social History of the Muslims in Bengal (1959), с. 190",
+            "Eaton, The Rise of Islam and the Bengal Frontier (1993), гл. 4"]
   images: []
   game: {model: "дом кази с садом за глинобитной стеной; разбитая мриданга (событие)", where: ["navadvipa/kazi-house"]}
 
@@ -135,10 +152,12 @@
   evidence_note:
     ru: >-
       ЧЧ Мадхья 19.27–34 (заключение), 20.3–15 (письмо Рупы, предложение 5000 *мудра̄*, затем груда в 7000; кандалы;
-      ночная переправа через Гангу). Устройство тюрьмы не описано.
+      ночная переправа через Гангу). Устройство тюрьмы не описано. Abid Ali (1931): по преданию, тюремщиком был шейх
+      Хаббу из Фатхпура; Санатана бежал, пока султан воевал с Ориссой.
     en: >-
       CC Madhya 19.27–34 (imprisonment), 20.3–15 (Rupa's letter, an offer of 5,000 mudras, then a heap of 7,000;
-      shackles; crossing the Ganga by night). The prison itself is not described.
+      shackles; crossing the Ganga by night). The prison itself is not described. Abid Ali (1931): by tradition the
+      jailer was Shaikh Habbu of Fatehpur; Sanatana escaped while the sultan was at war with Orissa.
   text:
     ru: >-
       Отказавшись идти с султаном в поход на Ориссу, Санатана оказался в заточении, в кандалах. Рупа оставил ему письмо и
@@ -153,7 +172,7 @@
       of seven thousand before him and told him what to say: the prisoner jumped into the river in his chains and
       drowned. That same night the jailer struck off his fetters and ferried him across the Ganga.
   hagiography: ["ЧЧ Мадхья 19.27–34", "ЧЧ Мадхья 20.3–15"]
-  sources: []
+  sources: ["Abid Ali, Memoirs of Gaur and Pandua, ed. Stapleton (1931), с. 34–35"]
   images: []
   game: {model: "кирпичное помещение с решёткой, железные ножные кандалы; ночная лодка на Ганге", where: ["gauda/prison"]}
 
@@ -172,7 +191,9 @@
       (1569) — в Ориссе безопасно, «можно было пройти с золотом в руке», царь любил чужеземцев и не брал с купцов
       пошлин; «Айн-и Акбари» — правитель зовётся *гаджапати*; «Мадала-панджи» в пересказе Стерлинга (1825):
       Пратапарудра «мудрый и учёный», любил богословские споры, строил храмы, и при нём «Чайтанья Махапрабху пришёл из
-      Надии к храму Джаганнатхи».
+      Надии к храму Джаганнатхи». Banerji (1930): Пратапарудра воцарился в 1497 г., умер ок. 1540 г.; его держава
+      тянулась от Хугли до Гунтура; указы гаджапати высекали на вратах Джая-Виджая храма (см. mc-gita-govinda-decree);
+      царь считался слугой Джаганнатхи.
     en: >-
       An order to governors to build houses with provisions for the Lord, new boats at the crossings, memorial
       columns; the ministers Harichandana and Mangaraja; noble ladies on elephants in covered howdahs — CC Madhya
@@ -184,7 +205,9 @@
       with gold in hand', the king loved strangers and took no customs from merchants; Ain-i Akbari — the ruler is
       styled *Gajapati*; the Madala Panji as retold by Stirling (1825): Prataparudra was 'wise and learned', fond of
       theological debate, a builder of temples, and in his time 'Chaitanya Mahaprabhu came from Nadia to the temple of
-      Jagannatha'.
+      Jagannatha'. Banerji (1930): Prataparudra acceded in 1497 and died c. 1540; his realm ran from the Hugli to
+      Guntur; the Gajapatis' decrees were carved on the temple's Jaya-Vijaya gate (see mc-gita-govinda-decree); the
+      king was reckoned Jagannatha's servant.
   text:
     ru: >-
       Орисса была отдельным царством, и её царь-гаджапати Пратапарудра считал себя слугой Джаганнатхи. Страной он
@@ -205,7 +228,8 @@
             "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409–410",
             "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 444–446",
             "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126–127",
-            "Stirling, Account of Orissa, Asiatic Researches XV (1825), с. 121–123"]
+            "Stirling, Account of Orissa, Asiatic Researches XV (1825), с. 121–123",
+            "Banerji, History of Orissa (1930), т. I, с. 322, 333–336"]
   images: []
   game: {model: "царский указ на пальмовом листе; гонцы; слон с крытым паланкином-хаудой", where: ["puri/palace", "road-to-puri"],
          notes: "царь с золотой метлой — mc-king-sweeper (puri.yaml)"}
@@ -216,15 +240,18 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Гопинатха Паттанаяк собирает подати в Маладжатхья Дандапате; недостача «2 лакха кахан каури» (*дуилакш̣а
-      ка̄хана кауд̣и*); предлагает в уплату коней; царевич велит сбросить его с помоста на мечи; царь прощает и удваивает
+      Гопинатха Паттанаяк собирает подати в Маладжатхья Дандапате; недостача «2 лакха кахан каури» (*дуилакш̣а ка̄хана
+      кауд̣и*); предлагает в уплату коней; царевич велит сбросить его с помоста на мечи; царь прощает и удваивает
       жалованье, дарит шёлковую ткань — ЧЧ Антья 9.13–54, 9.110–135. Бенгальские сборщики Хиранья и Говардхана — ЧЧ
-      Антья 3.165, 6.17–34; главный сборщик Гопала Чакраварти — 3.188.
+      Антья 3.165, 6.17–34; главный сборщик Гопала Чакраварти — 3.188. Banerji (1930): Гопинатха Паттанаяка, правитель
+      Малджятха-дандапаты (Миднапур), задолжал казне 2 лакха каханов каури.
     en: >-
-      Gopinatha Pattanayaka collects revenue in Malajathya Dandapata; a shortfall of '2 lakh kahans of cowries' (duilaksha
-      kahana kaudi); he offers horses in payment; the prince orders him thrown from a platform onto swords; the king
-      forgives him, doubles his pay and gives him a silk cloth — CC Antya 9.13–54, 9.110–135. Bengali collectors Hiranya
-      and Govardhana — CC Antya 3.165, 6.17–34; the chief collector Gopala Chakravarti — 3.188.
+      Gopinatha Pattanayaka collects revenue in Malajathya Dandapata; a shortfall of '2 lakh kahans of cowries'
+      (duilaksha kahana kaudi); he offers horses in payment; the prince orders him thrown from a platform onto swords;
+      the king forgives him, doubles his pay and gives him a silk cloth — CC Antya 9.13–54, 9.110–135. Bengali
+      collectors Hiranya and Govardhana — CC Antya 3.165, 6.17–34; the chief collector Gopala Chakravarti — 3.188.
+      Banerji (1930): Gopinatha Pattanayaka, governor of Maljyatha-dandapata (Midnapur), owed the treasury 2 lakh
+      kahans of cowries.
   text:
     ru: >-
       Подати в Бенгалии и Ориссе собирали откупщики и чиновники: они отвечали перед царём головой и нередко оставляли
@@ -239,7 +266,8 @@
       on a platform and thrown onto swords set below. Mahaprabhu refused to intervene — 'I am a beggar sannyasi' — but by
       Jagannatha's grace the king forgave the debt, doubled Gopinatha's pay and granted him a silk cloth.
   hagiography: ["ЧЧ Антья 9.13–54", "ЧЧ Антья 9.110–135", "ЧЧ Антья 3.165", "ЧЧ Антья 3.188", "ЧЧ Антья 6.17–34"]
-  sources: ["шкала: 1 кахан = 16 пан = 1280 каури (пословный ЧЧ Антья 9.19; ср. mc-cowrie-money)"]
+  sources: ["шкала: 1 кахан = 16 пан = 1280 каури (пословный ЧЧ Антья 9.19; ср. mc-cowrie-money)",
+            "Banerji, History of Orissa (1930), т. I, с. 333"]
   images: []
   game: {model: "помост-чанга из брёвен высотой 3–4 м, внизу — вбитые остриём вверх мечи (событие)", where: ["puri/palace"]}
 
@@ -255,7 +283,10 @@
       (с. 896–897), TUCKA (с. ~940). Серебряные тангки бенгальских султанов XV–XVI вв. известны по нумизматике (найти
       PD). Эпоха: Ван Даюань (1349) — государство Бенгалии чеканит серебряную *тангку* весом 8 кандаринов; Ма Хуань
       (1433) — серебряная *тан-ка* весом 3 кандарина (⚠ расхождение весов — по переводу), диаметром 1,2 дюйма (≈ 3
-      см), с надписями на обеих сторонах; цены определяют по весу.
+      см), с надписями на обеих сторонах; цены определяют по весу. Нумизматика (Тарафдар 1965): медных монет
+      Хусейн-шахи не чеканили — их заменяли каури; серебряная тангка полновесная ≈ 10,4 г (≈ 160 гран), с 1519 г.
+      (Насрат-шах) — половинные и четвертные; золотые — единичные памятные монеты Хусейн-шаха (воцарение, победы над
+      Ориссой и Камрупой).
     en: >-
       The hagiographies name large sums simply as mudra 'coin' (CC Madhya 19.9, 20.8, 20.14, 20.39; Antya 6.146,
       6.151, 6.259) — the metal is not stated; 'gold' in translation is interpretation. The silver tanka as the main
@@ -263,7 +294,10 @@
       Bengali taka = rupee — HJ 1903, s.v. TANGA (pp. 896–897), TUCKA (p. ~940). The silver tankas of the Bengal
       sultans of the 15th–16th c. are known from numismatics (find PD). Period: Wang Dayuan (1349) — the Bengal state
       coins a silver *tanka* of 8 candareens; Ma Huan (1433) — a silver *tan-ka* of 3 candareens (⚠ weights differ —
-      as translated), 1.2 inches (≈ 3 cm) across, inscribed on both faces; prices are reckoned by weight.
+      as translated), 1.2 inches (≈ 3 cm) across, inscribed on both faces; prices are reckoned by weight. Numismatics
+      (Tarafdar 1965): the Husain Shahis struck no copper — cowries took its place; the full silver tanka ≈ 10.4 g (≈
+      160 grains), halves and quarters from 1519 (Nusrat Shah); gold — rare commemorative coins of Husain Shah
+      (accession, victories over Orissa and Kamrupa).
   text:
     ru: >-
       Над мелочью-каури стояла серебряная монета — тангка, предок рупии: бенгальцы и сегодня называют рупию «така».
@@ -280,11 +314,12 @@
   hagiography: ["ЧЧ Мадхья 19.9", "ЧЧ Мадхья 20.8", "ЧЧ Мадхья 20.14", "ЧЧ Мадхья 20.39", "ЧЧ Антья 6.146–153", "ЧЧ Антья 6.259"]
   sources: ["Hobson-Jobson (1903), s.v. TANGA, с. 896–897; s.v. TUCKA, с. ~940",
             "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435–436",
-            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437"]
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 151–156"]
   images: []
   game: {model: "круглая серебряная монета Ø ок. 2,5–3 см, ≈10,6 г, арабская надпись с обеих сторон, без изображений (⚠ размеры проверить)",
          where: ["navadvipa/market"]}
-  todo: "PD-каталог монет бенгальских султанов (Lane-Poole 1884–85) — вес тангки Хусейн-шаха; свободное фото; сверить вес «3 кандарина» у Ма Хуаня"
+  todo: "свободное фото тангки Хусейн-шаха (музей с открытой лицензией)"
 
 - id: mc-gold-mohur
   title: {ru: "Золотые мохуры и толы золота", en: "Gold mohurs and tolas of gold"}
@@ -587,11 +622,12 @@
   evidence_note:
     ru: >-
       Рыбак у моря в Пури с сетью на плече вытаскивает в ней Господа, лежащего без чувств, и сходит с ума от любви —
-      ЧЧ Антья 18.44–70, 18.113; «лодку принимают за змея Калию, а рыбака — за Кришну» — Мадхья 18.106.
+      ЧЧ Антья 18.44–70, 18.113; «лодку принимают за змея Калию, а рыбака — за Кришну» — Мадхья 18.106. Raychaudhuri
+      (1953): ловят джалия-кайварты, продают мусульмане-*кабари* (по «Чанди-мангалу»).
     en: >-
       A fisherman by the sea at Puri, net on his shoulder, hauls up the Lord lying senseless and goes mad with love —
       CC Antya 18.44–70, 18.113; 'they take the boat for the serpent Kaliya and the fisherman for Krishna' — Madhya
-      18.106.
+      18.106. Raychaudhuri (1953): the jaliya-kaivartas catch, Muslim *kabaris* sell (after the Chandi-mangala).
   text:
     ru: >-
       Рыбаки-джалия и кайварта жили у рек, прудов и моря и ловили сетями, вершами и ловушками; рыба была главной пищей
@@ -605,7 +641,7 @@
       touch the fisherman began to laugh, weep and sing 'Hari! Hari!', thinking a ghost had got into his net; Svarupa
       Damodara 'drove out the ghost' and asked him to show the place.
   hagiography: ["ЧЧ Антья 18.44–70", "ЧЧ Антья 18.113", "ЧЧ Мадхья 18.106"]
-  sources: []
+  sources: ["Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 201"]
   images: []
   game: {model: "рыбак в короткой набедренной ткани, круглая забрасываемая сеть с грузилами на плече, корзинка-верша",
          where: ["puri/sea-shore", "ganga-ghat"]}
@@ -652,13 +688,16 @@
   evidence_note:
     ru: >-
       «Корова — твоя мать, бык даёт тебе зерно, поэтому он — твой отец» — ЧЧ Ади 17.153; плуг как атрибут Баларамы в
-      руках Господа — ЧЧ Ади 10.73, 17.119. Изречения Кханы к «сыну пахаря» (когда сеять, что сажать) — Sen 1911,
-      с. 19–20 (датировка спорна). Устройство плуга и орудий — этнография XIX в. (реконструкция).
+      руках Господа — ЧЧ Ади 10.73, 17.119. Изречения Кханы к «сыну пахаря» (когда сеять, что сажать) — Sen 1911, с.
+      19–20 (датировка спорна). Устройство плуга и орудий — этнография XIX в. (реконструкция). Эпоха (по поэмам XV–XVI
+      вв.): одним плугом обрабатывали ≈ 10–15 бигх; орудия — плуг и ярмо с волами, серп; бедняки занимали семенное
+      зерно у богатых — Тарафдар 1965.
     en: >-
       'The cow is your mother, the bull gives you grain, so he is your father' — CC Adi 17.153; the plough, Balarama's
-      emblem, in the Lord's hands — CC Adi 10.73, 17.119. Khana's sayings to 'the ploughman's son' (when to sow, what to
-      plant) — Sen 1911, pp. 19–20 (dating disputed). The construction of the plough and tools is 19th-c. ethnography
-      (reconstruction).
+      emblem, in the Lord's hands — CC Adi 10.73, 17.119. Khana's sayings to 'the ploughman's son' (when to sow, what
+      to plant) — Sen 1911, pp. 19–20 (dating disputed). The construction of the plough and tools is 19th-c.
+      ethnography (reconstruction). Period (after 15th–16th c. poems): one plough worked ≈ 10–15 bighas; tools —
+      plough and yoke with oxen, sickle; the poor borrowed seed grain from the rich — Tarafdar 1965.
   text:
     ru: >-
       Большинство бенгальцев были крестьянами, и жизнь всей округи держалась на рисе и быках. Деревянный плуг с железным
@@ -673,7 +712,8 @@
       wise Khana taught 'the ploughman's son' in which month to sow and where to plant betel or mustard. The Lord
       recalled this in His debate with the qazi: the bull feeds man with grain like a father — how can one kill him?
   hagiography: ["ЧЧ Ади 17.153", "ЧЧ Ади 10.73", "ЧЧ Ади 17.119"]
-  sources: ["Sen 1911, с. 19–20 (изречения Кханы)"]
+  sources: ["Sen 1911, с. 19–20 (изречения Кханы)",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 136–138"]
   images: []
   game: {model: "плуг: изогнутая рукоять-грядиль из цельного дерева 1,5–2 м, железный лемех-наконечник, ярмо на двух горбатых быков; серп с зубчатым лезвием; мотыга-кодал",
          where: ["navadvipa/fields"], notes: "о молотьбе и веянии — mc-kula, о толчее — mc-dhenki"}
@@ -803,14 +843,16 @@
       20.67–68; девадаси поёт «Гита-говинду» на раге гуджари — Антья 13.79; Санатана с брахманами читает Бхагаватам —
       Мадхья 19.17; младенец обнимает Бхагаватам; «он украл мою Бхагавад-гиту» — ЧБ Ади 4.53–55, 6.64. Эпоха: «Айн-и
       Акбари» (1590-е) — песни Бенгалии зовутся *бангала*, а песни Матхуры — *бишн-пад* (вишну-пада) в 4, 6 или 8
-      строк во славу Вишну.
+      строк во славу Вишну. Исследования: в поэзии эпохи (в т. ч. ЧБ и у Лочана) указаны раги — Кедара, Дханаши, Шри,
+      Мальхар, Туди, Бхайрави, Гуджари, Рамакели, Вангала и др. — Тарафдар 1965.
     en: >-
       In Puri the Lord with Ramananda and Svarupa listens day and night to Chandidasa, Vidyapati, the Gita-govinda,
       the Krishna-karnamrita and the Jagannatha-vallabha-nataka — CC Madhya 2.77, Adi 13.42, Antya 15.27, 17.6, 17.62,
       20.67–68; a devadasi sings the Gita-govinda in raga gujari — Antya 13.79; Sanatana reads the Bhagavatam with
       brahmins — Madhya 19.17; the infant embraces the Bhagavatam; 'He stole my Bhagavad-gita' — CB Adi 4.53–55, 6.64.
       Period: Ain-i Akbari (1590s) — Bengal's songs are called *bangala*, those of Mathura *bishn-pad* (Vishnu-pada)
-      of 4, 6 or 8 lines in praise of Vishnu.
+      of 4, 6 or 8 lines in praise of Vishnu. Studies: period poetry (including CB and Lochana) names ragas — Kedara,
+      Dhanashi, Shri, Mallar, Todi, Bhairavi, Gurjari, Ramakeli, Vangala and others — Tarafdar 1965.
   text:
     ru: >-
       Главной книгой вайшнавов был «Шримад-Бхагаватам»: его читали вслух и толковали в домах и при храмах, а
@@ -828,7 +870,8 @@
       Gambhira the Lord heard these verses from Svarupa Damodara and Ramananda Raya day and night.
   hagiography: ["ЧЧ Мадхья 2.77", "ЧЧ Ади 13.42", "ЧЧ Антья 13.79", "ЧЧ Антья 15.27", "ЧЧ Антья 17.6", "ЧЧ Антья 20.67–68",
                 "ЧЧ Мадхья 19.17", "ЧБ Ади 4.53–55", "ЧБ Ади 6.64"]
-  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. III (1894), с. 251"]
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. III (1894), с. 251",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 291–294"]
   images: []
   game: {model: "кодекс: рукописи Бхагаватам (толстая связка в красной ткани), Гита-говинда (тонкая, с иллюминированными листами — ориcсская традиция)",
          where: ["puri/gambhira", "navadvipa/shrivasa-house"],
@@ -953,14 +996,20 @@
       5.443–468. Саптаграм — город сборщиков Хираньи и Говардханы — ЧЧ Антья 6.17. Значение Саптаграма как главного
       порта Бенгалии XVI в. — общеизвестно, найти PD-подтверждение. Эпоха: Федеричи (1569) — Сатгаон «довольно красив
       для города мавров», ежегодно 30–35 кораблей; Фитч (1586) — «прекрасный город, изобильный всем»; «Айн-и Акбари» —
-      порты Сатгаон и Хугли, хорошие гранаты.
+      порты Сатгаон и Хугли, хорошие гранаты. Исследования: Сатгаон — главный речной порт Бенгалии до сер. XVI в.
+      (Porto Pequeno португальцев), к середине века река у него мелеет и растёт Хугли; в 1536 г. Махмуд-шах разрешил
+      португальцам фактории в Сатгаоне и Читтагонге (Тарафдар 1965); город стоял на ныне заиленной Сарасвати у
+      Тривени, монетный двор с 1328–29 г. (Banglapedia).
     en: >-
       Nityananda at Saptagram, at Triveni-ghat, stays in the house of Uddharana Datta; 'the whole merchant community
       (vanik-kula) was purified through Uddharana'; kirtan in the houses of all the merchants; even Muslims take
       shelter — CB Antya 5.443–468. Saptagram is the town of the collectors Hiranya and Govardhana — CC Antya 6.17.
       Saptagram's role as Bengal's chief port in the 16th c. is well known; find a PD confirmation. Period: Federici
       (1569) — Satgaon 'reasonably fair for a city of the Moors', 30–35 ships a year; Fitch (1586) — 'a fair city,
-      very plentiful of all things'; Ain-i Akbari — the ports of Satgaon and Hugli, good pomegranates.
+      very plentiful of all things'; Ain-i Akbari — the ports of Satgaon and Hugli, good pomegranates. Studies:
+      Satgaon was Bengal's chief river port until the mid-16th c. (the Portuguese Porto Pequeno); by mid-century its
+      river silted and Hugli grew; in 1536 Mahmud Shah allowed the Portuguese factories at Satgaon and Chittagong
+      (Tarafdar 1965); the town stood on the now silted Sarasvati near Triveni, a mint from 1328–29 (Banglapedia).
   text:
     ru: >-
       Саптаграм у слияния рек Тривени был богатым торговым городом, куда приходили суда с товаром и где жили купцы-
@@ -977,7 +1026,9 @@
   hagiography: ["ЧБ Антья 5.443–468", "ЧЧ Антья 6.17"]
   sources: ["Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 411",
             "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 114",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 125"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 125",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 144–146",
+            "Banglapedia, ст. «Satgaon»"]
   images: []
   game: {model: "пристань Тривени-гхат: склады под соломой, купеческие суда у берега, кирпичный дом купца",
          where: ["saptagram/triveni-ghat"], notes: "купеческие суда — mc-river-trade"}
@@ -996,7 +1047,8 @@
       имущества» — Ади 17.128; Рамачандра Кхан арестован, его дом и деревню три дня грабят — Антья 3.160. Ещё раньше:
       Ван Даюань (1349) — налог в Бенгалии 2/10, в Ориссе 1/10; Ибн Баттута (1346) — мусульмане берут с деревень
       индусов на Синей реке половину урожая и иные поборы; «Айн-и Акбари» (1590-е) — подать платят частями в 8
-      месяцев, урожай не мерят, а оценивают.
+      месяцев, урожай не мерят, а оценивают. Исследования: налог брали по числу плугов, ставка — от ½ до ⅕ урожая;
+      крестьянин получал грамоту-патту; у Мукундарама шикдар мерит «15 каттх за бигху» (ложная мера) — Тарафдар 1965.
     en: >-
       Mukundaram's autobiography in the Chandi-mangala (c. 1590s): the governor Mamud Sharif surveyed land with a
       false measure and taxed waste land, the moneylenders grew exacting, cattle found no buyers, the landholder
@@ -1006,7 +1058,9 @@
       arrested and his house and village plundered for three days — Antya 3.160. Earlier still: Wang Dayuan (1349) —
       tax in Bengal 2/10, in Orissa 1/10; Ibn Battuta (1346) — the Muslims take half the harvest and other dues from
       Hindu villages on the Blue River; Ain-i Akbari (1590s) — revenue paid in instalments over 8 months, the crop
-      estimated rather than measured.
+      estimated rather than measured. Studies: tax was levied by the number of ploughs, at ½ to ⅕ of the crop; the
+      peasant received a *patta* deed; in Mukundaram the *shikdar* measures '15 katthas to the bigha' (a false
+      measure) — Tarafdar 1965.
   text:
     ru: >-
       Крестьянин платил подать с земли урожаем или каури землевладельцу, тот — откупщику, откупщик — султану, и на
@@ -1027,7 +1081,8 @@
   sources: ["Sen 1911, с. 337 (автобиография Мукундарама)",
             "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435, 444–446",
             "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 90–91",
-            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 121–122"]
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 121–122",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 131–132, 136–138"]
   images: []
   game: {model: "сцена: стражник у хижины, крестьянин с мотыгой-кодалом на продажу; землемер с мерной верёвкой",
          where: ["navadvipa/fields"], notes: "реалии конца XVI в. (Мукундарам) — переносить с пометкой"}

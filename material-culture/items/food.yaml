@@ -1313,11 +1313,15 @@
       *ка̄̐джи-бад̣а̄* — ЧЧ Мадхья 15.216 (в переводе «лепёшки на рисовой воде»); *канджи-бара* — Джаянанда (фр. 10,
       дв. 21; прим. 01-53: канджи — кислый рисовый отвар); «Дак-вачана»: в пауш — канджи (Sen 1911, с. 24).
       Пханта-бхат и амани — Амиш 1902, с. 45–47 (поздн., но приём старинный). Эпоха: Мукундарам (ок. 1590) — охотник
-      Калакету за ужином пьёт *амани* «семь горшков разом» (см. mc-hunters-supper).
+      Калакету за ужином пьёт *амани* «семь горшков разом» (см. mc-hunters-supper). Исследования: вчерашний рис в воде
+      (панта-бхат) ели на завтрак и бедные, и богатые (Тарафдар 1965); для амани в глиняном полу выкапывали ямки-чашки
+      (Raychaudhuri 1953, по «Чанди-мангалу»).
     en: >-
       kanji-bada — CC Madhya 15.216; kanji-bara — Jayananda (fr. 10 v. 21; kanji is sour rice water); Dak-vachana:
       kanji in Pausha (Sen 1911 p. 24). Panta-bhat and amani — Amish 1902 pp. 45–47. Period: Mukundaram (c. 1590) —
-      the hunter Kalaketu drinks *amani* 'seven pots at once' at supper (see mc-hunters-supper).
+      the hunter Kalaketu drinks *amani* 'seven pots at once' at supper (see mc-hunters-supper). Studies: yesterday's
+      rice in water (panta-bhat) was breakfast for poor and rich alike (Tarafdar 1965); for amani little cup-hollows
+      were dug in the clay floor (Raychaudhuri 1953, after the Chandi-mangala).
   text:
     ru: >-
       Варёный рис, залитый водой и простоявший ночь-другую, слегка закисает: сам рис — «пханта-бхат», а кисловатая вода —
@@ -1345,7 +1349,9 @@
   hagiography: ["ЧЧ Мадхья 15.216", "Джаянанда, фр. 10, дв. 21"]
   sources: ["Амиш 1902, с. 45–47 (пханта-бхат, амани; свойства по «Раджа-нигханту»)",
             "Sen 1911, с. 24 («Дак-вачана»: пауш — канджи)",
-            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 36"]
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 36",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 331",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 223–224"]
   images: []
   game: {model: "глубокий глиняный горшок с рисом под водой, накрытый тканью", where: ["mishra-house/kitchen"]}
 

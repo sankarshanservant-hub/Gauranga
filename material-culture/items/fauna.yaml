@@ -183,14 +183,16 @@
       «вол маслобойщика вечно ходит по кругу» — Лочан, Мадхья 2.169; коза — в поговорках (ЧЧ Мадхья 15.179). Коровы —
       mc-cowshed. Эпоха: Ма Хуань (1433) — буйвол, корова, козы, куры, утки, гуси; Барбоза (ок. 1516) — много коров и
       овец, «чрезвычайно большие куры»; Ибн Баттута (1346) — «скот там — буйволы», дойная корова 3 динара; Линсхотен
-      (1596) — корова за 1 ларин.
+      (1596) — корова за 1 ларин. Raychaudhuri (1953): Федеричи в 1565 г. купил корову за пол-ларина, к 1580-м
+      (Линсхотен) она стоила уже ларин.
     en: >-
       The boys with Nityananda in Ekachakra come home blowing buffalo horns (playing cowherds) — CB Adi 9.31; the
       buffalo horn in Krishna's attire — CB Antya 5.352, 7.54; cows from Tailanga by the Lion Gate — CC Antya
       17.12–18; "the oil-man's ox forever walks in a circle" — Lochana, Madhya 2.169; goats in proverbs (CC Madhya
       15.179). Cows — mc-cowshed. Period: Ma Huan (1433) — buffalo, cow, goats, fowls, ducks, geese; Barbosa (c. 1516)
       — many cows and sheep, 'exceedingly large fowls'; Ibn Battuta (1346) — 'the cattle there are buffaloes', a milch
-      cow 3 dinars; Linschoten (1596) — a cow for 1 larin.
+      cow 3 dinars; Linschoten (1596) — a cow for 1 larin. Raychaudhuri (1953): Federici bought a cow for half a larin
+      in 1565; by the 1580s (Linschoten) it cost a whole larin.
   text:
     ru: >-
       Корова — кормилица и святыня (см. mc-cowshed), а работу делают быки: кроме пахоты (mc-plough-bullocks) они тянут
@@ -210,7 +212,8 @@
   sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
             "Barbosa (ок. 1516), пер. Stanley 1866, с. 180",
             "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 81",
-            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 94–95"]
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 94–95",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 206"]
   images: []
   game: {model: "горбатый бык-зебу (светлый, 1,2 м в холке); чёрный буйвол в пруду; маленькие чёрные бенгальские козы",
          where: ["mishra-house/cowshed", "mishra-house/pond", "puri/simha-dvara"]}
