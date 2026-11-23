@@ -32,7 +32,7 @@ and in its branches, and to distribute it to all without distinction of birth or
 Lord descends into the world not by the law of karma but for the work of his Master. <!-- F6 I1 -->
 
 The name “Bimalaprasad” means “the grace of Vimala.” Vimala Devi is the internal energy (*para-shakti*) of Lord
-Jagannatha, and the child’s first solid food (*anna-prashana*) was prasad[^1]. <!-- F7 -->
+Jagannatha. And when the time came for the child’s first taste of grain (*anna-prashana*), he was given prasad[^1]. <!-- F7 -->
 
 Six months later, during the Ratha-yatra, Jagannatha’s chariot stopped on the Grand Road — in front of Bhaktivinoda’s
 house. At the Thakura’s word Bhagavati Devi carried the infant to the chariot; he stretched out his hands towards
@@ -184,7 +184,7 @@ appearance, for the festival of Dola-purnima. The following year Charan Dasa Bab
 wished to lead a kirtana party around Navadvipa-dhama every year, but in 1906 he left this world before he could do so[^5].
 <!-- F46 F249 -->
 
-His learning had not left him. On 2 January 1902 he debated astronomy with a gifted pupil of Bapudeva Shastri, under the
+Nor did he give up learned debate. On 2 January 1902 he debated astronomy with a gifted pupil of Bapudeva Shastri, under the
 chairmanship of Rai Bahadur Rajendra Chandra Shastri, president of the “Royal Society.” Sarasvati Thakura so routed his
 opponent that the opponent’s teacher, overcome by shock, lost control of himself in the very assembly. <!-- F47 -->
 
@@ -475,8 +475,8 @@ led many seekers of truth to pure bhakti; his listeners included the advocate A.
 Mukhopadhyaya, Dr. Radha Kamal Mukhopadhyaya, Dr. A. N. Sen Gupta and others. <!-- F104 F105 -->
 
 On 8 January 1930 the great scholar Dr. Haraprasad Shastri visited him; they spoke of the history of the Vaishnava
-sampradayas and of the Gaudiya sampradaya, of the dates of the acharyas, of the Pancharatra and of Sri Chaitanya. In mid-
-January, at the Purna Kumbha Mela in Prayaga, the preachers of the Chaitanya Math spoke of Mahaprabhu’s teachings to
+sampradayas and of the Gaudiya sampradaya, of the dates of the acharyas, of the Pancharatra and of Sri Chaitanya. In
+mid-January, at the Purna Kumbha Mela in Prayaga, the preachers of the Chaitanya Math spoke of Mahaprabhu’s teachings to
 Rupa Gosvami, and he installed at the Triveni Radha-Govinda — the life and soul of Sri Rupa. <!-- F107 F108 -->
 
 From 3 February to 17 March 1930 an unprecedented diorama exhibition was held in Navadvipa-Mayapur; it was opened by
@@ -540,7 +540,7 @@ the 27th the Governor of Madras, Sir George Frederick Stanley, laid the foundati
 the 29th the city corporation gave him an official reception, and he replied with an address in the “Ripon Building”;
 on the 30th at Eluru (West Godavari) the “Janardana Prarthana Samaj” welcomed him, and he initiated many. <!-- F121 F122 -->
 
-For his fifty-eighth appearance day he wrote an address that was read at the Vyasa-puja in Calcutta. In it he spoke of
+For the fifty-eighth anniversary of his appearance he wrote an address that was read at the Vyasa-puja in Calcutta. In it he spoke of
 Kunjavihari Vidyabhushana: on the day of his guru’s departure Kunjavihari had appeared before him as a second form of
 the guru, and since then had not let him serve by himself, taking every opportunity of service upon himself.
 <!-- F123 F264 -->
@@ -653,7 +653,7 @@ in Benares, at Michir-pokhra. On 15 January 1934 the Calcutta Gaudiya Math was v
 Viravikrama Kishor Devavarma Manikya Bahadur: he showed his respect to the acharya, and in the evening praised the work
 of the math in a speech; on 2 February his secretary, Kumar Bahadur Radhika Ranjan Chakravarti, came. <!-- F146 F147 -->
 
-On 4 February 1934, his sixtieth appearance day, the Vyasa-puja was held and printing began of his disciples’ book about
+On 4 February 1934, the sixtieth anniversary of his appearance, the Vyasa-puja was held and printing began of his disciples’ book about
 his life, the “Sarasvati-jayashri”; on the same day in London, at Grosvenor House, Park Lane, a meeting in his honour was
 held under Lord Zetland’s chairmanship. On 25 February a new temple was opened at the birthplace of Vrindavana Dasa in
 Modadrumadvipa. At the Navadvipa parikrama and Gaura-purnima of 1934 temples were consecrated at Shrivasa-angana and at
@@ -745,7 +745,7 @@ English presidential address before scholars. <!-- F169 F170 -->
 
 ## 1936: The Nine Islands
 On 11 January 1936 he returned to Mayapur and for two months preached every day to the residents of the Chaitanya Math
-and of Gauranga’s birthplace. On 12 February, for his sixty-second appearance day, he founded the “Thakur Bhaktivinoda
+and of Gauranga’s birthplace. On 12 February, for the sixty-second anniversary of his appearance, he founded the “Thakur Bhaktivinoda
 Research Institute” — the “Krishnanushilana-agara,” a library of Krishna culture — and the “Daiva-varnashrama Sangha”[^19].
 The Vyasa-puja was held at Shrivasa-angana; in London his appearance day was celebrated under the chairmanship of the head
 of the “London Gaudiya Mission Society,” Sir Shadilal. <!-- F171 F172 -->
