@@ -866,7 +866,7 @@ reminded them that their only duty and dharma is to spread the service of the Bh
 <!-- F187 F188 Q5 -->
 
 In those days he also left his disciples instructions for the mission. Already on 27 December, on Sunday evening, at a
-memorial gathering for the departed Jagabandhu, he said: “May Sripada Kunjavihari Vidyabhushana be victorious in
+gathering in memory of Jagabandhu Bhakti-ranjan, in his last address in his manifest pastimes, he said: “May Sripada Kunjavihari Vidyabhushana be victorious in
 everything! If those who help him follow him, great good fortune awaits them.” And on Thursday, 31 December, he
 dictated in English his “Guiding Principles”: “Form a Governing body of 10 to 12 persons for Management of Mission work
 but Kunja Babu will manage so long as he lives. Kunja Babu’s sympathy for me brought me in connection with so many
