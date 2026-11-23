@@ -18,6 +18,18 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   archive.org: `historyofbengali00sendrich` (https://archive.org/details/historyofbengali00sendrich). Автор ум. 1939 —
   ОД. Пересказывает и переводит Виджая Гупту (1494), Мукундарама (ок. 1590-х), Мадхавачарью (1579), жития; переводы
   Сена вольные — для карточек опираться на смысл, а точную формулировку сверять с оригиналом.
+- **Sen CHA 1922** — D. C. Sen, *Chaitanya and His Age*. Calcutta University, 1922. archive.org:
+  `chaitanyahisage00senduoft` (https://archive.org/details/chaitanyahisage00senduoft). ОД. Бытовых деталей мало;
+  многое — по подложной «Кадче» Говинды Даса (⚠).
+- **Sen FLB 1920** — D. C. Sen, *The Folk-Literature of Bengal*. Calcutta University, 1920. archive.org:
+  `folkliteratureof00senduoft` (https://archive.org/details/folkliteratureof00senduoft). ОД. Сказки (рупакатха) —
+  датировка размыта; Сен считает их отражением «до-брахманского» (до XII–XV вв.) быта купцов.
+- **Kennedy 1925** — Melville T. Kennedy, *The Chaitanya Movement: A Study of the Vaishnavism of Bengal*. Calcutta:
+  Association Press; London: OUP, 1925. archive.org: `The.Chaitanya.Movement`. Изд. 1925 → ОД в США (с 2021);
+  даты смерти автора не нашёл — статус вне США проверить. Быта почти нет.
+- **Hunter SAB II 1875** — W. W. Hunter, *A Statistical Account of Bengal*, vol. II: Districts of Nadiya and Jessor.
+  London, 1875. archive.org: `wbsl.19323` (также `in.ernet.dli.2015.37451`). ОД. Данные коллекторов 1870-х →
+  **[поздн.]**.
 
 ---
 
@@ -66,6 +78,26 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   old name [prадип — в OCR бенгальское слово искажено]», а люстры и настенные лампы получили персидские имена — Sen HBLL
   1911, p. 382. **[историко-лингвистическое наблюдение]**
 - Матхи и храмы украшали лучше жилищ — Sen HBLL 1911, p. 295–296.
+- Бенгальский храм копирует хижину: о храмах Вишнупура (XVII в.) — Джор-бангла «draws attention by its curious
+  effect as of two huts joined together. The characteristic which is peculiar to the Bengal temple generally ... is the
+  curving roof, evidently in imitation of the village hut» — Kennedy 1925, p. 88–89. **[наблюдение XX в.; храмы
+  XVII в.]** → изогнутый конёк *чала*-кровли (до-чала, чар-чала, ат-чала) — общий для хижины и храма; можно
+  использовать в карточке о кровле.
+- Дом и утварь в Джессоре (соседний с Надией округ), 1870-е: дома лавочников — из кирпича или **глины**, балки и
+  стропила из **джекфрутового** дерева или пальмы; бедняки живут в «unsubstantial (*kacha*) houses made of bamboos,
+  straw, and mud»; у крестьянина среднего достатка 3–4 «комнаты» (т.е. отдельные хижины/постройки двора). Обстановка
+  зажиточного лавочника: «mats to sit upon, a plank bedstead (*takhtposh*), a quilt (*lep*), four or five brazen and
+  earthen pots and brass plates (*thal*), five or six stone dishes, three or four brass cups, four or five small metal
+  drinking vessels (*ghati*), one brass water pitcher (*gharа*), a large wooden chest, and some boxes (*petaras*) of
+  cane-work»; у крестьянина нет кровати и стёганого одеяла — Hunter SAB II 1875, p. 240. **[поздн.]** → для
+  XV–XVI в. годится как «минимальный набор»: циновки, глиняные и латунные горшки, каменные блюда (*патхар-тхала*),
+  латунный кувшин, плетёные короба-петара, деревянный сундук.
+- Касты Надии, связанные с бытом (перепись 1872): *Kansari* — «braziers and workers in bell-metal»; *Kumar* — «potters
+  and makers of earthen idols»; *Sankhari* — «manufacturers of shell bracelets and ornaments» (175 чел., бедны);
+  *Mayra/Modak* — «makers and sellers of sweetmeats»; *Goala* — «keepers of cattle, milk and butter sellers»; *Mali* —
+  садовники и плетельщики гирлянд; *Teli/Kalu* — маслобойщики; *Laheri* — «makers of lac bracelets»; *Chunari* —
+  обжигальщики извести; *Baruі/Tambuli* — бетель — Hunter SAB II 1875, p. 47–48. **[поздн., но касты-ремёсла
+  существовали и в XV–XVI в.]** Число кровельщиков (thatchers) — 3223 в одной категории переписи (p. ~35–36).
 
 ## (b) Кухня и еда
 
@@ -114,6 +146,30 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   the market» — Sen HBLL 1911, p. 299 (Мукундарам). **[XVI]**
 - Лавочник отпускает в долг «food-grains, ghee and fuel» в корзине — Sen HBLL 1911, p. 595 (поздняя поэма;
   атрибуцию уточнить). **[?]**
+- Кухня Шачи (Сен по «Кадче» Говинды Даса ⚠): «the *mochar ghanta* and *sukta*, besides various preparations of
+  milk, are emphasized as relished most. The *betho sak* often occurs ... as inviting appetite by its sweet smell» —
+  Sen CHA 1922, p. 120. → мочар-гханта (блюдо из банановых соцветий), шукта, бетхо-шак (марь). Источник подложный, но
+  сами блюда — традиционные; подтверждать по ЧЧ (Мадхья 3, 15; Антья).
+- Шачи после санньясы сына плачет над блюдом, приготовленным для домашнего Божества: «He liked this sort of meal» —
+  Sen CHA 1922, p. 108–109 (ЧБ). Махапрабху в Пури: «her kitchen was the one place which he could never forget» —
+  p. 304. **[XVI]**
+- Сказочная роскошь кухни: у знатных женщин очаги «plated with gold», топили сандаловым деревом, жарили на **гхи**
+  вместо масла; «spoons made of pearls», золотые кувшины для воды — Sen FLB 1920, p. 69. **[сказки; гипербола]** —
+  годится лишь как контраст: обычно жарили на горчичном/кунжутном масле, топили дровами.
+- Светильники: «three long rows of lamps fed by clarified butter» в покоях царевны Мадхумалы — Sen FLB 1920, p. 72.
+  **[сказки]** — гхи как топливо для светильников у богатых (у бедных — масло).
+- Сказка «Чандана и Малаягири» (Мейменсингх): злая хозяйка постоялого двора даёт гостям «rice mixed with gravels,
+  pulse which was old and dry, and a wet hearth and damp fuel», огонь разжигают обрывком тюрбана — Sen FLB 1920,
+  p. 214–215; ср. p. 198–199 («wet fuel and rice mixed with grains of stones»). → путник сам готовит на очаге
+  постоялого двора. **[баллады Мейменсингха, XVI–XVII?]**
+- Царевна никогда не переступала порог кухни, «Never had she learnt to blow the fire with her breath» — дуть в
+  очаг — Sen FLB 1920, p. 206. **[баллада]**
+- Еда зажиточного лавочника Джессора: «coarse rice, split peas (*dal*), fish, milk, and the cheaper sorts of
+  vegetables»; месячный бюджет на семью из шести: рис, дал, рыба, овощи, молоко, **топливо**, соль, масло, «chilies and
+  turmeric», бетель и пан, *chira* (плющеный рис) и патока, одежда, табак, специи, прачка, цирюльник, **глиняные
+  горшки**, ремонт дома — Hunter SAB II 1875, p. 240–241. **[поздн.]** ⚠ **чили** и **табак** — анахронизм для
+  XV–XVI в. (завезены португальцами в XVI в., распространились позже). Глиняные горшки — расходный материал
+  (покупаются ежемесячно).
 
 ## (c) Рождение и обряды младенчества
 
@@ -162,6 +218,29 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
   Nimba-tree» — Sen HBLL 1911, p. 416. **[XV–XVI, по житиям]** → родильная хижина под деревом ним.
 - При рождении младенца брахманы читают гимны, женщины трубят в раковины: (о рождении Криттибаса) «the sound of the
   conch-shells blown by the women» — Sen HBLL 1911, p. 171. **[обобщение Сена]**
+- Рождение Махапрабху: кормилица/повитуха — **Нараяни** (по Джаянанде); Сита (жена Адвайты) и Малини (жена Шриваса)
+  приходят и дарят младенцу украшения — Sen CHA 1922, p. 109 (OCR: «on the Oth day» — вероятно, 6-й день; сверить
+  с ЧБ/ЧЧ). **[XVI, жития]**
+- Имя «Нимай»: «as Sachi's children were generally very short-lived, this humble name was given to ward off all evil
+  influences ; for death or witches might not take notice of one who was called by such a humble name»; по другой
+  версии младенца при лихорадке держали под деревом ним, «as the air that passed through Nim leaves acted as a cure
+  in fever cases» — Sen CHA 1922, p. 109–110. На **20-й день** дано «классическое» имя Вишвамбхара — p. 110 (⚠ по
+  какому житию — Сен не указывает; проверить по Джаянанде/Лочану). **[XVI, жития]**
+- Пятилетний Нимай ведёт старшего брата домой, держа его за край *дхоти* — p. 110 (по ЧБ). **[XVI]**
+- **Родильная хижина (сутика-гхар / атур-гхар)**: «With the Brahmin revivalist, the room in which the child first
+  sees the light is held unclean. Even in the cases of rich people, a temporary straw hut of a very miserable sort used
+  to be raised for such purposes near their mansion and the hut remained outside the main buildings, being considered
+  untouchable by the family» — Sen FLB 1920, p. 73. Сен подчёркивает, что так было «for over six hundred years» —
+  т.е. и в эпоху Махапрабху. **[XV–XVI и позже; ключевая цитата]** (В сказках, напротив, у богачей родильные покои
+  богато украшены — p. 73, сказочный мотив.)
+- Срок затворничества роженицы — 30 дней («except in the case of Brahminical and one or two high castes»; у брахманов
+  короче) — Sen FLB 1920, p. 79. **[поздн., «в прежние времена»]**
+- **Шестая ночь**: роженице в затворе нанимали сказительницу (обычно вдову, иногда старика), сказки — от вечера до
+  полуночи, «except on the sixth night of the birth of a child, when the story-teller assisted by a chorus continued
+  his recitations the whole night. On the sixth night the *Vidhata purusa* — the god of human destiny — comes ... to
+  write the fate of the baby on its forehead, and therefore keeping up through the whole of night ... is an absolute
+  necessity» — Sen FLB 1920, p. 79–80. Хор из двух-трёх молодых женщин поёт песни, дети собираются слушать. **[поздн.;
+  обычай «в отдалённых деревнях» и «в прежние времена»]**
 
 ## Одежда, украшения, деньги
 
@@ -212,6 +291,24 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
     с изд. 1954 или Folk Literature.)
   - Вторая свадьба Махапрабху (Буддхиманта Кхан): раздавали сандаловую пасту, бетель и гирлянды — без пира, танцовщиц
     и приданого — Sen HBLL 1911, p. 610–611 (по ЧБ). **[XVI]**
+- Нимай-пандит (Сен по «Кадче» ⚠ и по житиям): «Krishnakeli cloth with fine black borders», золотые серьги, длинные
+  вьющиеся волосы, умащённые маслом и вымытые с *амлаки*, золотой медальон на золотой цепочке, цветочные гирлянды —
+  «as usual in that age»; надийские гончары и сейчас лепят глиняные фигурки Нимая-пандита в таком виде — Sen CHA
+  1922, p. 119–120. **[XVI, но ⚠ источник]**
+- Нитьянанда в Надии: «He wore a blue coloured dhuti and a large blue turban» — Sen CHA 1922, p. 141–142 (по ЧБ).
+  **[XVI]**
+- Джаянанда о Нимае после Гаи: не носит обычной одежды, не умащается сандалом, бросил «golden rings and lockets» —
+  Sen CHA 1922, p. 131. **[XVI]**
+- Сандалии Махапрабху хранятся в храме в Баранагаре (основан Бхагаватачарьей) — Sen CHA 1922, p. 233. **[поздн.
+  предание]**
+- Ткани из сказок: хлопок «that looked transparent as dew», сари «Meghadumbur» (сине-облачный) и «Mayurpekham»
+  (цвета павлиньего пера); туалет знатной дамы — служанки с «oil-cakes, alkaly and towels» (масляная паста, щёлок
+  для мытья), сурьма (*anjan*) серебряными палочками, подушки из семян белой горчицы — Sen FLB 1920, p. 71. **[сказки]**
+- Сатья-пир «в простом дхоти и чадаре бенгальцев» — Sen FLB 1920, p. 100: обычный мужской костюм = **дхоти + чадар**.
+- Обычная мужская одежда (Джессор, 1870-е): лавочник — «a coarse waistcloth (*dhuti*), and a cotton sheet or shawl
+  (*chadar*)»; крестьянин — дхоти грубее и «a coarse towel or large handkerchief (*gamcha*) thrown over the
+  shoulders», зажиточный — чадар — Hunter SAB II 1875, p. 240. **[поздн.]** (согласуется с HBLL p. 387–388: дхоти +
+  покрывало; тюрбан в XV в. — у знати/по Сену).
 
 ---
 
@@ -221,6 +318,7 @@ archive.org), идентификатор archive.org; пометка **[XV–XVI
 - «Okra» у Сена (HBLL 1911, p. 418: Нимай бросает «thorny seeds of Okra-plants» в волосы девочек) — в ЧБ это
   *окра́* (ওকড়া, дурнишник *Xanthium*), а **не** окра-бамия; переводом Сена не пользоваться.
 - «Кадча» Говинды Даса (Sen HBLL p. 449–450) — подложный текст XIX в.; бытовые детали из неё не брать как свидетельство XVI в.
+- Чили и табак в бюджете крестьянина Джессора (Hunter 1875, p. 240–241) — в сцены XV–XVI в. не переносить.
 
 ## Тупики (Dead ends)
 

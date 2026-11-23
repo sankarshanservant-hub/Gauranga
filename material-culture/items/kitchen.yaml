@@ -1,0 +1,432 @@
+# Рубрика «Кухня» (kitchen). Формат — material-culture/README.md.
+
+- id: mc-rannaghar
+  title: {ru: "Кухня (раннагхар)", en: "The kitchen hut (rannaghar)"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Кухню моют и готовят к стряпне для Вишну — ЧБ Ади 5.29–30, 5.48–49, 5.112; Махапрабху выходит из кухни
+      навстречу учителю — ЧБ Ади 17.83. Отдельная хижина-кухня — реконструкция по устройству усадьбы.
+    en: >-
+      The kitchen is washed and made ready for cooking for Vishnu — CB Adi 5.29–30, 5.48–49, 5.112; Mahaprabhu steps
+      out of the kitchen to greet His guru — CB Adi 17.83. A separate kitchen hut is reconstructed from homestead layout.
+  text:
+    ru: >-
+      Кухня — самое чистое место дома после комнаты Божества, обычно отдельная хижина: огонь подальше от жилья, а
+      стряпня — подальше от уличной пыли и посторонних. Когда в дом Мишры пришёл странствующий брахман, кухню
+      тщательно вымыли и принесли лучшие продукты и утварь, и он сам приготовил пищу для своего Гопала. Маленький
+      Нимай трижды съедал это подношение — и трижды кухню мыли заново.
+    en: >-
+      After the Deity room, the kitchen is the cleanest place in the house, usually a hut of its own: the fire is kept
+      away from the living quarters, and the cooking away from street dust and outsiders. When a wandering brahmin came
+      to Mishra's house, the kitchen was washed thoroughly and the best provisions and utensils brought, and he cooked
+      for his Gopala himself. Little Nimai ate that offering three times — and three times the kitchen was washed again.
+  hagiography: ["ЧБ Ади 5.29–31", "ЧБ Ади 5.48–49", "ЧБ Ади 5.112", "ЧЧ Ади 14.37", "ЧБ Ади 17.83"]
+  sources: []
+  images: []
+  game: {model: "хижина-чала 4×3 м, низкий вход, дым уходит сквозь соломенную кровлю; внутри — чула, полка с ханди",
+         where: ["mishra-house/kitchen"], codex: hs_kitchen,
+         notes: "в кухню входят омывшись и в чистой одежде; посторонним — только до порога"}
+  todo: "PD-подтверждение отдельной кухни и правил входа (Shib Chunder Bose 1881?)"
+
+- id: mc-chula
+  title: {ru: "Очаг (чула)", en: "The clay hearth (chula)"}
+  rubric: kitchen
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "В житиях по дому Мишры очаг не описан; «поставил горшок на очаг» — ЧЧ Антья 13.55 (Вриндаван). Форма — этнография."
+    en: "The hearth in Mishra's house is not described; 'set the pot on the hearth' — CC Antya 13.55 (Vrindavana). The form follows ethnography."
+  text:
+    ru: >-
+      Бенгальский очаг лепят из глины прямо в полу кухни: подковообразная выемка с отверстием для топлива спереди и
+      тремя выступами сверху, на которые ставят горшок. Иногда делают двойную чулу, чтобы готовить сразу два блюда.
+      Очаг каждый день обмазывают свежей глиной — он и сам часть чистоты кухни.
+    en: >-
+      A Bengali hearth is moulded of clay right in the kitchen floor: a horseshoe-shaped pit with a stoking hole in
+      front and three raised lugs on top on which the pot sits. Sometimes a double chula is made to cook two dishes at
+      once. The hearth is re-smeared with fresh clay every day — it is itself part of the kitchen's purity.
+  hagiography: ["ЧЧ Антья 13.55"]
+  sources: []
+  images: []
+  game: {model: "глиняная чула 45×35 см, высота 20 см, три выступа; красноватые угли; над ней ханди",
+         where: ["mishra-house/kitchen"], codex: hs_kitchen}
+  todo: "найти PD-описание чулы (Hunter, Risley) и терракоту/рисунок"
+
+- id: mc-fuel
+  title: {ru: "Топливо: дрова, солома, кизяк", en: "Fuel: wood, straw, dung cakes"}
+  rubric: kitchen
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "В житиях Ади-лилы не найдено; по этнографии XIX в. и современному сельскому быту — проверить по PD."
+    en: "Not found in the Adi-lila hagiographies; from 19th-c. ethnography and village life — to verify in PD sources."
+  text:
+    ru: >-
+      Очаг топили тем, что давал двор: сухими ветками манго и других деревьев, бамбуком, рисовой соломой, сухими
+      листьями. Свежий коровий навоз смешивают с соломой, лепят лепёшки (гхунте) и сушат их, прилепив к стене или
+      стволу дерева; они горят ровно и долго. Топливо держат под навесом — в сезон дождей всё отсыревает.
+    en: >-
+      The hearth burned what the homestead provided: dry branches of mango and other trees, bamboo, rice straw, dry
+      leaves. Fresh cowdung is mixed with straw, patted into cakes (ghunte) and dried by slapping them onto a wall or a
+      tree trunk; they burn evenly and long. Fuel is kept under a shelter, since in the rains everything gets damp.
+  hagiography: []
+  sources: []
+  images: []
+  game: {model: "поленница под соломенным навесом; лепёшки кизяка на стене коровника; стог рисовой соломы",
+         where: ["mishra-house/kitchen", "mishra-house/cowshed"], codex: hs_woodpile,
+         notes: "лепёшки кизяка — также hs_dung; стог соломы — hs_haystack"}
+
+- id: mc-handi
+  title: {ru: "Глиняные горшки (ханди)", en: "Earthen pots (handi)"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Горшки (бханда) с молоком и простоквашей — ЧБ Ади 4.34, 4.101; «горшки и кувшины» — ЧЧ Ади 14.43; новые
+      глиняные горшки для подношения — ЧЧ Мадхья 3.53; горшок на очаге — ЧЧ Антья 13.55.
+    en: >-
+      Pots (bhanda) of milk and curd — CB Adi 4.34, 4.101; 'pots and jars' — CC Adi 14.43; new earthen pots for an
+      offering — CC Madhya 3.53; a pot on the hearth — CC Antya 13.55.
+  text:
+    ru: >-
+      Рис, дал и овощи варили в круглодонных горшках из обожжённой глины; гончары делали их на круге и обжигали
+      сотнями. В горшках же держали молоко, простоквашу и гхи — их-то и разбивал маленький Нимай, разливая всё по
+      полу. Для подношения Господу брали новые горшки: в Шантипуре сладкий рис с гхи стоял в новых глиняных горшках.
+      Посуда дёшева, поэтому осквернившийся горшок не отмывали, а выбрасывали.
+    en: >-
+      Rice, dal and vegetables were cooked in round-bottomed pots of fired clay, which potters threw on the wheel and
+      fired by the hundred. Milk, curd and ghee were also kept in pots — the very ones little Nimai smashed, spilling
+      everything on the floor. New pots were used for an offering to the Lord: at Shantipur the sweet rice with ghee
+      stood in new clay pots. Such ware was cheap, so a pot that became impure was thrown away rather than washed.
+  hagiography: ["ЧБ Ади 4.30–38", "ЧБ Ади 4.101", "ЧЧ Ади 14.43", "ЧЧ Ади 14.73", "ЧЧ Мадхья 3.53", "ЧЧ Антья 13.55"]
+  sources: []
+  images: []
+  game: {model: "ханди Ø 20–35 см, круглое дно, отогнутый венчик, красно-коричневые, закопчённые снизу; стоят на кольцах из соломы",
+         where: ["mishra-house/kitchen"], codex: hs_handi}
+
+- id: mc-metal-ware
+  title: {ru: "Металлическая посуда: бронза, медь, латунь", en: "Metal ware: bell-metal, copper, brass"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Подношение Кришне на металлическом подносе — ЧЧ Мадхья 3.42; медный кувшин с паном и кувшины для воды — ЧБ
+      Мадхья 7.60, 7.83; разбитый железный кувшин Шридхара — ЧЧ Ади 10.68. Колокольная бронза (канса) как сплав
+      и её ценность — по позднейшим данным, проверить.
+    en: >-
+      An offering to Krishna on a metal plate — CC Madhya 3.42; a copper jar of pan and water jars — CB Madhya 7.60,
+      7.83; Shridhara's broken iron pot — CC Adi 10.68. Bell-metal (kansa) as an alloy and its value — later data, to check.
+  text:
+    ru: >-
+      Металлическая посуда была ценностью семьи: тарелки (тхала), чаши (бати), кувшины (гхати, лота) из колокольной
+      бронзы-кансы, меди и латуни. Её берегли, передавали по наследству и давали в приданое. На металлическом подносе
+      подносили пищу Божеству: в Шантипуре одну из трёх частей угощения поставили перед Кришной на металлическом
+      блюде, а две другие разложили на банановых листьях. У бедного Шридхара был лишь разбитый железный кувшин — и
+      Махапрабху пил из него с любовью.
+    en: >-
+      Metal ware was a family treasure: plates (thala), bowls (bati) and water pots (ghati, lota) of bell-metal
+      (kansa), copper and brass. It was cherished, handed down and given as dowry. Food was offered to the Deity on a
+      metal plate: at Shantipur one of the three portions was set before Krishna on a metal dish, the other two on
+      banana leaves. Poor Shridhara owned only a broken iron pot — and Mahaprabhu lovingly drank from it.
+  hagiography: ["ЧЧ Мадхья 3.42", "ЧЧ Ади 10.68", "ЧБ Мадхья 7.60, 7.83"]
+  sources: []
+  images: []
+  game: {model: "кансовое блюдо Ø 30 см (золотисто-серое), латунная лота с узким горлом, медная чаша",
+         where: ["mishra-house/kitchen", "mishra-house/thakur-ghar"], codex: hs_brass}
+  todo: "PD: Mukharji 1888, Birdwood 1880 о кансе Бенгалии; свободное фото"
+
+- id: mc-banana-leaf-plate
+  title: {ru: "Банановый лист вместо тарелки", en: "Banana leaf as a plate"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 3.43–44, 3.68; ЧЧ Ади 17.39; листья кетаки как тарелки — ЧЧ Мадхья 14.37."
+    en: "CC Madhya 3.43–44, 3.68; CC Adi 17.39; ketaki leaves as plates — CC Madhya 14.37."
+  text:
+    ru: >-
+      Обычная тарелка Бенгалии — свежий банановый лист: его омывают водой, на середину кладут горкой рис, вокруг —
+      овощи и дал, а после трапезы лист уносят. В Шантипуре угощение для Махапрабху и Нитьянанды разложили на целых,
+      неразрезанных листьях огромного банана, на рис сверху полили гхи. Господь Сам просил: «Принеси Нам риса и овощей
+      на двух листах банана». На пирах в Пури подавали и сшитые листья кетаки.
+    en: >-
+      The ordinary Bengali plate is a fresh banana leaf: it is rinsed with water, rice is heaped in the middle with
+      vegetables and dal round it, and after the meal the leaf is taken away. At Shantipur the meal for Mahaprabhu and
+      Nityananda was laid out on whole, uncut leaves of a huge banana, with ghee poured over the rice. The Lord Himself
+      asked, "Bring Us rice and vegetables on two banana leaves." At the feasts in Puri stitched ketaki leaves were also used.
+  hagiography: ["ЧЧ Мадхья 3.43–44", "ЧЧ Мадхья 3.68", "ЧЧ Ади 17.39", "ЧЧ Мадхья 14.37"]
+  sources: []
+  images: []
+  game: {model: "плоский лист с лёгким изгибом, 40×25 см (для пира — целый лист до 1,5 м)",
+         where: ["mishra-house/kitchen", "mishra-house/courtyard"]}
+
+- id: mc-leaf-cups
+  title: {ru: "Чашечки из листьев и коры банана (дона, кхола)", en: "Leaf and banana-bark cups (dona, khola)"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 3.51–52, 15.209; Шридхар продаёт чашки из банановых листьев — ЧБ Ади 12.195, 12.202."
+    en: "CC Madhya 3.51–52, 15.209; Shridhara sells banana-leaf cups — CB Adi 12.195, 12.202."
+  text:
+    ru: >-
+      Жидкие блюда — дал, супы, сладкий рис — подают в чашечках, сложенных из листьев или вырезанных из плотной
+      коры бананового ствола и сколотых щепочкой. Их делали и продавали на рынке: преданный Шридхар жил продажей
+      таких чашек. В Шантипуре вокруг каждой горки риса стояло по сто вместительных и прочных чашечек с овощами;
+      после трапезы их, как и листья, выбрасывают.
+    en: >-
+      Liquid dishes — dal, soups, sweet rice — are served in little cups folded from leaves or cut from the thick bark
+      of the banana stem and pinned with a splinter. They were made and sold in the market: the devotee Shridhara made
+      his living selling such cups. At Shantipur a hundred roomy, sturdy cups of vegetables stood round each heap of
+      rice; after the meal they are thrown away, like the leaves.
+  hagiography: ["ЧЧ Мадхья 3.51–52", "ЧЧ Мадхья 15.209", "ЧБ Ади 12.195", "ЧБ Ади 12.202"]
+  sources: []
+  images: []
+  game: {model: "чашечка Ø 8–10 см из сложенного листа/коры, сколота щепкой", where: ["mishra-house/kitchen"]}
+
+- id: mc-rice-dal
+  title: {ru: "Рис, дал и зерно", en: "Rice, dal and grain"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 4.34 (*дха̄нйа, ча̄лу, мугда* — неочищенный рис, рис, мунг); ЧЧ Мадхья 3.39, 3.44; ЧБ Ади 5.35."
+    en: "CB Adi 4.34 (dhanya, chalu, mudga — paddy, husked rice, mung); CC Madhya 3.39, 3.44; CB Adi 5.35."
+  text:
+    ru: >-
+      Основа бенгальской трапезы — варёный рис (бхат), к нему дал из бобов мунг и овощи. В доме держали запасы
+      неочищенного риса, очищенного риса и мунга — маленький Нимай рассыпал их по всему дому. Скромное угощение
+      брахмана Адвайта описывает так: «немного риса, суп, простые овощи и шпинат». Неочищенный рис (дхан) вместе со
+      свежей травой дурва — и знак благословения.
+    en: >-
+      The base of a Bengali meal is boiled rice (bhat), with dal of mung beans and vegetables. The house kept stores of
+      paddy, husked rice and mung — little Nimai scattered them all over the house. Advaita describes a brahmin's
+      modest meal as "a little rice, soup, plain vegetables and spinach." Unhusked rice (dhan) together with fresh
+      durva grass is also a sign of blessing.
+  hagiography: ["ЧБ Ади 4.34", "ЧБ Ади 5.35", "ЧЧ Мадхья 3.39", "ЧЧ Мадхья 3.44", "ЧЧ Ади 13.114"]
+  sources: []
+  images: []
+  game: {model: "корзины и глиняные кувшины с рисом, мунгом; рассыпанное зерно (эпизод шалости)",
+         where: ["mishra-house/kitchen", "mishra-house/main-hut"]}
+
+- id: mc-vegetable-dishes
+  title: {ru: "Овощи и блюда бенгальской кухни", en: "Vegetables and dishes of the Bengali kitchen"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Перечень — ЧЧ Мадхья 3.44–54 (угощение в доме Адвайты, ок. 1510). Названия блюд — по переводу; бенгальские
+      названия сверить с оригиналом. Новосветских овощей (картофель, томат, перец чили) в эпоху нет.
+    en: >-
+      The list — CC Madhya 3.44–54 (the meal at Advaita's house, c. 1510). Dish names follow the translation;
+      Bengali names to be checked with the original. New World vegetables (potato, tomato, chilli) did not exist then.
+  text:
+    ru: >-
+      Кришнадас Кавирадж перечисляет, что жена Адвайты приготовила для Махапрабху: патол, тыква-лау, клубни манакачу,
+      салат из имбиря, разные шпинаты, горьковатое шукто, баклажаны, жаренные с молодыми листьями нима, тыква в
+      молоке, карри из банановых цветов, лепёшки-бара из мунга и урада, блюдо из кокоса, простокваша, сладкий рис.
+      Острота шла от имбиря и чёрного перца — чили в Бенгалии ещё не знали; картофеля и томатов тоже не было.
+    en: >-
+      Krishnadasa Kaviraja lists what Advaita's wife cooked for Mahaprabhu: patol, lau gourd, manakachu tubers, a
+      ginger salad, several spinaches, bitter shukto, aubergine fried with tender neem leaves, gourd cooked in milk, a
+      banana-flower curry, bara fritters of mung and urad, a coconut dish, curd and sweet rice. Pungency came from
+      ginger and black pepper — chilli was not yet known in Bengal, nor were potatoes or tomatoes.
+  hagiography: ["ЧЧ Мадхья 3.44–54", "ЧЧ Антья 10 (угощения преданных — следующая порция)"]
+  sources: []
+  images: []
+  game: {model: "набор блюд для сцены трапезы: горка риса, 6–10 чашечек с овощами", where: ["mishra-house/kitchen"],
+         notes: "не рисовать красный перец, картофель, томаты"}
+  todo: "сверить бенгальские названия блюд по оригиналу ЧЧ Мадхья 3.45–50; PD-подтверждение позднего прихода чили"
+
+- id: mc-khai-chida
+  title: {ru: "Воздушный рис и рисовые хлопья (кхаи, чида)", en: "Puffed rice and flattened rice (khai, chida)"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "*кхаи* — ЧБ Ади 4.21, 10.87; ЧЧ Ади 13.110, 14.24; чида с йогуртом — ЧЧ Антья 6.51–69 (праздник в Панихати)."
+    en: "khai — CB Adi 4.21, 10.87; CC Adi 13.110, 14.24; chida with curd — CC Antya 6.51–69 (the festival at Panihati)."
+  text:
+    ru: >-
+      Рис, обжаренный в горячем песке до лопания (кхаи), — праздничный и будничный перекус и непременный благой дар:
+      им, вместе с бананами и маслом, Шачи одаривала женщин после обрядов. Однажды Шачи поставила перед Нимаем большой
+      поднос с воздушным рисом и сладостями — а Он стал есть землю, объясняя, что всё это одна и та же земля. Плющеный
+      рис (чида) едят с молоком или йогуртом, бананами и сахаром — так кормили всех на празднике в Панихати.
+    en: >-
+      Rice popped in hot sand (khai) is both an everyday and a festive snack and an essential auspicious gift: Shachi
+      gave it, with bananas and oil, to the women after the rites. Once Shachi set a big tray of puffed rice and sweets
+      before Nimai — and He began to eat earth, explaining that it is all the same earth. Flattened rice (chida) is
+      eaten with milk or curd, bananas and sugar — that is how everyone was fed at the festival in Panihati.
+  hagiography: ["ЧБ Ади 4.21", "ЧБ Ади 10.87", "ЧЧ Ади 13.110", "ЧЧ Ади 14.24–29", "ЧЧ Антья 6.51–69"]
+  sources: []
+  images: []
+  game: {model: "плетёный поднос с горкой кхаи и сладостями", where: ["mishra-house/courtyard"]}
+
+- id: mc-dairy
+  title: {ru: "Молоко, простокваша, гхи, кхира", en: "Milk, curd, ghee, khira"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 4.30–34, 4.101; Лочан, Ади-кханда, ч. 2, ст. 121; ч. 4, ст. 367; ЧЧ Мадхья 3.53–54; ЧЧ Антья 6.57–58."
+    en: "CB Adi 4.30–34, 4.101; Lochana, Adi-khanda pt. 2 v. 121; pt. 4 v. 367; CC Madhya 3.53–54; CC Antya 6.57–58."
+  text:
+    ru: >-
+      Молочное — главная роскошь вайшнавского стола. Молоко кипятят и уваривают до густой кхиры (сгущённого молока),
+      заквашивают в глиняных горшках простоквашу (дадхи), снимают сливки и топят гхи. Шачи обещала сыну: «Сейчас придёт
+      отец, принесёт сгущённого молока и бананов». А маленький Нимай, оставшись один, разливал по полу молоко, гхи и
+      простоквашу и бил горшки — совсем как Кришна во Врадже.
+    en: >-
+      Dairy is the chief luxury of a Vaishnava table. Milk is boiled and reduced to thick khira, curd (dadhi) is set
+      in clay pots, cream is skimmed and ghee clarified. Shachi promised her son, "Your father will come soon with
+      thickened milk and bananas." And little Nimai, left alone, spilled milk, ghee and curd over the floor and broke
+      the pots — just like Krishna in Vraja.
+  hagiography: ["ЧБ Ади 4.30–34", "ЧБ Ади 4.101", "Лочан, Ади-кханда, ч. 2, ст. 121", "Лочан, Ади-кханда, ч. 4, ст. 367",
+                "ЧЧ Мадхья 3.53–54", "ЧЧ Антья 6.57–58"]
+  sources: []
+  images: []
+  game: {model: "горшки с молоком/дадхи, подвешенные в верёвочных сетках (шика) от кошек — проверить; маслобойка-мешалка",
+         where: ["mishra-house/kitchen"]}
+  todo: "подвесные сетки (шика) — есть ли в житиях?"
+
+- id: mc-sandesh
+  title: {ru: "Сладости и сандеш", en: "Sweets and sandesh"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Слово *сандеш́а* — в ЧБ Ади 4.96 (*сандеш́а-кала̄*), 4.116. Состав сандеша в XV–XVI вв. неясен: привычный ныне
+      сандеш из творога-чханы, по распространённому мнению историков кухни, сложился позднее (XVIII–XIX вв.);
+      раньше так могли называть сладости из уваренного молока и сахара. Вопрос к специалисту.
+    en: >-
+      The word sandesha occurs in CB Adi 4.96 (sandesha-kala), 4.116. What sandesh was made of in the 15th–16th c. is
+      unclear: today's chhana (curd-cheese) sandesh is widely thought by food historians to be later (18th–19th c.);
+      earlier the word may have meant sweets of reduced milk and sugar. A question for a specialist.
+  text:
+    ru: >-
+      Прохожие на улицах Навадвипы дарили малышу Нимаю бананы и сандеш, а Он раздавал угощение женщинам, которые пели
+      святые имена; даже воры, уносившие Его, задабривали Его сандешем. Сладости делали из уваренного молока, сахара,
+      кокоса, кунжута и рисовой муки. Сандеш, какой знают сейчас, — из свежего творога-чханы — по-видимому, появился
+      позднее, поэтому в игре сладости эпохи — молочно-сахарные шарики и лепёшки.
+    en: >-
+      Passers-by in Navadvipa gave little Nimai bananas and sandesh, and He shared the treats with the women who sang
+      the holy names; even the thieves who carried Him off coaxed Him with sandesh. Sweets were made from reduced
+      milk, sugar, coconut, sesame and rice flour. Sandesh as known today — from fresh chhana curd — seems to have come
+      later, so in the game the sweets of the period are milk-and-sugar balls and cakes.
+  hagiography: ["ЧБ Ади 4.94–97", "ЧБ Ади 4.116", "ЧЧ Ади 14.24", "ЧЧ Мадхья 14.31 (кунжутные сладости и пр.)"]
+  sources: []
+  images: []
+  game: {model: "светлые шарики и плоские лепёшки на листе; без «современного» прессованного сандеша с узором",
+         where: ["mishra-house/courtyard", "navadvipa/lane"]}
+  todo: "PD-свидетельство о чхане (D. C. Sen? Hobson-Jobson?) и о раннем значении слова «сандеш»"
+
+- id: mc-cooking-for-vishnu
+  title: {ru: "Стряпня для Вишну (бхога)", en: "Cooking for Vishnu (bhoga)"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧБ Ади 5.18–31, 5.47–62; ЧЧ Мадхья 3.41–42, 3.56; Лочан, Ади-кханда, ч. 4, ст. 359."
+    en: "CB Adi 5.18–31, 5.47–62; CC Madhya 3.41–42, 3.56; Lochana, Adi-khanda pt. 4 v. 359."
+  text:
+    ru: >-
+      В вайшнавском доме пищу готовят не для себя, а для Господа: ничего не пробуют во время стряпни, готовое ставят
+      перед Божеством, кладут на каждое блюдо лист туласи и читают мантры, и лишь затем вкушают остатки — прасад.
+      Странствующий брахман у Мишры ел только то, что сам приготовил и поднёс своему Гопалу. В Шантипуре жена Адвайты
+      готовила, Адвайта подносил Вишну, на рис и овощи положили цветы туласи, рядом поставили кувшины с ароматной водой.
+      Подношение несут прикрытым — Шачи шла с ним, укрыв его краем сари.
+    en: >-
+      In a Vaishnava home food is cooked not for oneself but for the Lord: nothing is tasted while cooking, the
+      finished dishes are placed before the Deity with a tulasi leaf on each and mantras recited, and only then are
+      the remnants — prasada — eaten. The wandering brahmin at Mishra's ate only what he had cooked himself and
+      offered to his Gopala. At Shantipur Advaita's wife cooked, Advaita offered to Vishnu, tulasi flowers were laid
+      on the rice and vegetables and jars of scented water set beside them. An offering is carried covered — Shachi
+      carried hers under the end of her sari.
+  hagiography: ["ЧБ Ади 5.18–31", "ЧБ Ади 5.47–62", "ЧЧ Мадхья 3.41–42", "ЧЧ Мадхья 3.56",
+                "Лочан, Ади-кханда, ч. 4, ст. 359"]
+  sources: []
+  images: []
+  game: {model: "блюдо с бхогой перед алтарём, лист туласи на каждом блюде, колокольчик",
+         where: ["mishra-house/thakur-ghar", "mishra-house/kitchen"]}
+
+- id: mc-pan
+  title: {ru: "Пан: бетель и арека", en: "Pan: betel leaf and areca nut"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: "*гуйа̄, па̄на* — ЧБ Ади 4.21; ЧБ Ади 10.87; медный кувшин с паном — ЧБ Мадхья 7.60; бетель для брахманов — Лочан, Ади-кханда, ч. 14, ст. 89."
+    en: "guya, pana — CB Adi 4.21; CB Adi 10.87; a copper jar of pan — CB Madhya 7.60; betel for brahmins — Lochana, Adi-khanda pt. 14 v. 89."
+  text:
+    ru: >-
+      Лист бетеля, свёрнутый с кусочками ореха арека (гуя) и известью, — знак гостеприимства и благой дар: им
+      завершают угощение и обряд. После первого выхода матери с младенцем Шачи одарила женщин паном, орехами,
+      воздушным рисом, бананами, маслом и синдуром. Пан подносят и Господу; у состоятельных он хранился в медных
+      сосудах.
+    en: >-
+      A betel leaf folded round pieces of areca nut (guya) and lime is a sign of hospitality and an auspicious gift: it
+      ends a meal or a rite. After the mother's first outing with the baby, Shachi gave the women pan, areca nuts,
+      puffed rice, bananas, oil and sindur. Pan is also offered to the Lord; in wealthy homes it was kept in copper
+      vessels.
+  hagiography: ["ЧБ Ади 4.21", "ЧБ Ади 10.87", "ЧБ Мадхья 7.60", "Лочан, Ади-кханда, ч. 14, ст. 89"]
+  sources: []
+  images: []
+  game: {model: "свёрнутые листья бетеля на подносе, орехи арека", where: ["mishra-house/courtyard"]}
+
+- id: mc-dhenki
+  title: {ru: "Дхенки — рисовая толчея", en: "Dhenki — the foot-operated rice husker"}
+  rubric: kitchen
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "В житиях пока не найдено; описание по этнографии XIX в. — нужен PD-источник и проверка для XV–XVI вв."
+    en: "Not yet found in the hagiographies; described from 19th-c. ethnography — a PD source and a check for the 15th–16th c. are needed."
+  text:
+    ru: >-
+      Рис рушили в дхенки — длинном тяжёлом бревне на опоре, как качели: женщина ногой нажимает на короткий конец,
+      отпускает — и длинный конец с пестом падает в ямку с зерном, сбивая шелуху. Работают вдвоём: одна качает, другая
+      ворошит зерно рукой. Мерный стук дхенки — звук бенгальской деревни.
+    en: >-
+      Rice was husked in a dhenki — a long heavy beam on a pivot, like a seesaw: a woman presses the short end with her
+      foot and releases it, and the long end with its pestle drops into a pit of grain, knocking off the husk. Two work
+      together: one treads, the other stirs the grain by hand. The measured thud of the dhenki is the sound of a
+      Bengali village.
+  hagiography: []
+  sources: []
+  images: []
+  game: {model: "бревно 2–2,5 м на развилке, пест с железным кольцом, ямка в полу под навесом",
+         where: ["mishra-house/backyard"]}
+  todo: "есть ли дхенки в «Манаса-мангале»/«Чанди-мангале»? (research/pd-texts.md)"
+
+- id: mc-shil-nora
+  title: {ru: "Шил-нора — камень для растирания пряностей", en: "Shil-nora — the spice-grinding stone"}
+  rubric: kitchen
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "В житиях не найдено; этнография — проверить."
+    en: "Not found in the hagiographies; ethnography — to check."
+  text:
+    ru: >-
+      Куркуму, имбирь, горчицу и другие пряности растирают на плоской каменной плите (шил) продолговатым камнем-скалкой
+      (нора), подливая воду. Шил — тяжёлая, служит десятилетиями; её насекают зубилом, когда поверхность стирается.
+    en: >-
+      Turmeric, ginger, mustard and other spices are ground on a flat stone slab (shil) with an oblong stone roller
+      (nora), adding water. A shil is heavy and lasts for decades; it is re-pecked with a chisel when its surface
+      wears smooth.
+  hagiography: []
+  sources: []
+  images: []
+  game: {model: "каменная плита 40×25×5 см, камень-скалка 20 см; жёлтые следы куркумы", where: ["mishra-house/kitchen"]}
+  todo: "PD-подтверждение для эпохи"
+
+- id: mc-kula
+  title: {ru: "Кула — веялка", en: "Kula — the winnowing fan"}
+  rubric: kitchen
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: "В житиях не найдено; кула — также ритуальный предмет (свадьба, рождение) по этнографии — проверить."
+    en: "Not found in the hagiographies; the kula is also a ritual object (weddings, births) in ethnography — to check."
+  text:
+    ru: >-
+      Плоская плетёная из бамбука веялка с одним открытым краем: подбрасывая на ней рис, женщины отвеивают шелуху и
+      мусор. В обрядах на куле подносят благие предметы — рис, дурву, лампаду.
+    en: >-
+      A flat winnowing fan woven of bamboo, open at one edge: tossing rice on it, women winnow away husk and dust. In
+      rites auspicious things — rice, durva, a lamp — are presented on a kula.
+  hagiography: []
+  sources: []
+  images: []
+  game: {model: "плетёная веялка 50×45 см, совкообразная", where: ["mishra-house/kitchen", "mishra-house/courtyard"]}
+  todo: "PD-подтверждение ритуального употребления куле для эпохи"
