@@ -1,0 +1,337 @@
+# Погода и времена года (rubric: nature). Формат — material-culture/README.md.
+# Исполнитель `nature`. Уже есть: mc-lunar-calendar и mc-danda-prahara (счёт месяцев и часов, life), mc-festival-year
+# (праздники Пури, worship), mc-eclipse-bath (затмение в ночь явления, rites) — здесь не повторяются.
+
+- id: mc-six-seasons
+  title: {ru: "Шесть времён года Бенгалии", en: "The six seasons of Bengal"}
+  rubric: nature
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Шесть ритý по два лунных месяца — общеиндийская система санскритской поэзии и календаря, старше эпохи. В житиях —
+      «в картику ещё очень холодно для пути» (ЧЧ Мадхья 16.9), «четыре месяца дождей» (Мадхья 16.282–283), жара
+      джьяйштхи (Антья 20.109), чайтра с ароматом малати (Антья 1.78). Что делалось по сезонам — частью реконструкция.
+    en: >-
+      Six ritus of two lunar months each — the pan-Indian system of Sanskrit poetry and calendar, older than the
+      period. In the hagiographies: "in Kartika it is still too cold to travel" (CC Madhya 16.9), "the four months of
+      rains" (Madhya 16.282–283), the heat of Jyaishtha (Antya 20.109), Chaitra with the scent of malati (Antya 1.78).
+      What was done in each season is partly a reconstruction.
+  text:
+    ru: >-
+      Бенгальский год делится на шесть ритý. Гришма, лето (вайшакха–джьяйштха), — палящий зной, грозы-калбайсакхи и
+      манго. Варша, дожди (ашадха–шравана), — муссон, заливные поля, Ратха-ятра. Шарат, осень (бхадра–ашвина), — высокая
+      вода, ясное небо, белые облака и цветы каша. Хеманта, предзимье (картика–аграхаяна), — жатва риса и туманы. Шита,
+      зима (пауша–магха), — холодные ночи, жёлтые поля горчицы, сбор пальмового сока. Васанта, весна (пхалгуна–чайтра), —
+      цветы манго, кукушки, Дола-ятра и день явления Махапрабху.
+    en: >-
+      The Bengali year has six ritus. Grishma, summer (Vaishakha–Jyaishtha): burning heat, kal-baisakhi storms and
+      mangoes. Varsha, the rains (Ashadha–Shravana): the monsoon, flooded fields, Ratha-yatra. Sharat, autumn
+      (Bhadra–Ashvina): high water, clear skies, white clouds and kash flowers. Hemanta, late autumn
+      (Kartika–Agrahayana): the rice harvest and fogs. Shita, winter (Pausha–Magha): cold nights, yellow mustard fields,
+      tapping palm sap. Vasanta, spring (Phalguna–Chaitra): mango blossom, cuckoos, Dola-yatra and the day of
+      Mahaprabhu's appearance.
+  hagiography: ["ЧЧ Мадхья 16.9", "ЧЧ Мадхья 16.282–283", "ЧЧ Антья 20.109", "ЧЧ Антья 1.78"]
+  sources: []
+  images: []
+  game: {model: "смена сезонов в уровне: цвет полей, листва, погодные эффекты", where: ["navadvipa/fields"],
+         notes: "таблица для дизайнеров: сезон → цвет полей, цветы, звуки (кокила весной, лягушки в дожди, шакалы зимой)"}
+  todo: "слова «калбайсакхи» и «каша» — проверить по бенгальским PD-текстам XIX в."
+
+- id: mc-summer-heat
+  title: {ru: "Летний зной (гришма)", en: "Summer heat (grishma)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Санатана идёт к Господу в полдень по прибрежному песку, «подобному огню», ноги в волдырях; Господь: «почему не через
+      Львиные врата — там прохладнее?» — ЧЧ Антья 4.118–124; «испытал под палящим солнцем месяца джьяйштха» — Антья
+      20.109; Гопала просит сандала из Малайи, чтобы унять «жар», летнее умащение сандалом — ЧЧ Мадхья 4.106, 4.165;
+      «когда полуденная жара спала» — ЧБ Ади 15.126.
+    en: >-
+      Sanatana comes to the Lord at noon along beach sand "like fire", his feet blistered; the Lord: "why not by the Lion
+      Gate — it is cooler?" — CC Antya 4.118–124; "tested under the burning sun of Jyaishtha" — Antya 20.109; Gopala asks
+      for sandalwood from Malaya to soothe His "heat", the summer anointing with sandal — CC Madhya 4.106, 4.165; "when the
+      midday heat had abated" — CB Adi 15.126.
+  text:
+    ru: >-
+      В вайшакхе и джьяйштхе жара в Бенгалии и Ориссе доходит до сорока градусов, земля трескается, пруды мелеют. Дела
+      делали утром и вечером, а в полдень отдыхали в тени, на веранде, обмахиваясь опахалами из пальмового листа; пили
+      воду из глиняных кувшинов, прохладительное из беля и сахара. В Пури полуденный песок у моря обжигал, как огонь:
+      Санатана, считая себя недостойным пройти мимо храмовых слуг, шёл по нему и стёр ноги в волдыри. Летом и Божество
+      умащают сандалом — Мадхавендра Пури нёс для Гопала сандал из далёкой Малайи.
+    en: >-
+      In Vaishakha and Jyaishtha the heat in Bengal and Orissa reaches forty degrees, the earth cracks and the ponds run
+      low. Work was done in the morning and evening, and at noon people rested in the shade, on the veranda, fanning
+      themselves with palm-leaf fans; they drank water from clay jars and a cooling drink of bel and sugar. In Puri the
+      noonday sand by the sea burned like fire: Sanatana, thinking himself unworthy to pass the temple servants, walked
+      on it and blistered his feet. In summer the Deity too is anointed with sandal — Madhavendra Puri carried sandalwood
+      for Gopala from distant Malaya.
+  hagiography: ["ЧЧ Антья 4.118–124", "ЧЧ Антья 20.109", "ЧЧ Мадхья 4.106", "ЧЧ Мадхья 4.165", "ЧБ Ади 15.126"]
+  sources: []
+  images: []
+  game: {model: "марево над песком, выцветшая трава, обмелевший пруд; опахало из пальмового листа",
+         where: ["puri/beach", "mishra-house/courtyard"]}
+
+- id: mc-monsoon-chaturmasya
+  title: {ru: "Муссон и четыре месяца дождей", en: "The monsoon and the four months of rains"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Неправильно отправляться в путь сейчас, в сезон дождей; иди после Виджая-дашами» — ЧЧ Мадхья 16.93–94; «четыре
+      месяца ты должен оставаться в Пури» — 16.282–285; чатурмасья у Венкаты Бхатты на юге — Мадхья 1.110, 9.84;
+      бенгальские преданные остаются в Пури на чатурмасью и приглашают Господа — Мадхья 14.68, Антья 10.133–152; слёзы
+      «как дождь из тучи в сезон дождей» — Мадхья 12.139.
+    en: >-
+      "It is wrong to set out now, in the rains; go after Vijaya-dashami" — CC Madhya 16.93–94; "for four months You must
+      stay in Puri" — 16.282–285; the chaturmasya with Venkata Bhatta in the south — Madhya 1.110, 9.84; the Bengali
+      devotees stay in Puri for the chaturmasya and invite the Lord — Madhya 14.68, Antya 10.133–152; tears "like rain
+      from a cloud in the rainy season" — Madhya 12.139.
+  text:
+    ru: >-
+      В ашадхе с юга приходят тёмные тучи муссона, и на месяцы небо почти не проясняется: ливни, глинистые дороги
+      раскисают, реки выходят из берегов, поля превращаются в озёра. Пускаться в путь в эти месяцы было и опасно, и не
+      принято: странствующие монахи останавливались на «чатурмасью» — четыре месяца дождей — в одном месте. Так и
+      Махапрабху провёл дожди у Венкаты Бхатты на юге, а в Пури преданные не отпускали Его в путь до праздника
+      Виджая-дашами. Для бенгальцев, пришедших на Ратха-ятру, это время совместных пиров и киртанов в Пури.
+    en: >-
+      In Ashadha the dark monsoon clouds arrive from the south, and for months the sky hardly clears: downpours, clay
+      roads turn to mire, rivers overflow and the fields become lakes. Setting out on a journey in these months was both
+      dangerous and improper: wandering monks stopped for the chaturmasya — the four months of rains — in one place. So
+      Mahaprabhu spent the rains with Venkata Bhatta in the south, and in Puri the devotees would not let Him leave until
+      the Vijaya-dashami festival. For the Bengalis who came for the Ratha-yatra it was a time of shared feasts and
+      kirtanas in Puri.
+  hagiography: ["ЧЧ Мадхья 16.93–94", "ЧЧ Мадхья 16.282–285", "ЧЧ Мадхья 1.110–111", "ЧЧ Мадхья 9.84", "ЧЧ Мадхья 14.68",
+                "ЧЧ Антья 10.133–152", "ЧЧ Мадхья 12.139"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "ливень, лужи, раскисшая дорога, залитые поля, зонт из листьев", where: ["navadvipa/lane", "navadvipa/fields", "puri"],
+         notes: "звуки дождя и лягушек — research/audio.md"}
+
+- id: mc-ganga-flood
+  title: {ru: "Разлив Ганги", en: "The Ganga in flood"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Слёзы Господа — «как половодье на Ганге в месяц бхадра» — ЧБ Антья 2.125; в сезон дождей Ганга кишит крокодилами
+      — ЧБ Мадхья 12.6, 13.137; у Чхатрабхоги «Ганга разливается на сотни потоков» — ЧБ Антья 2.61–62. Смена русла и
+      размывание берегов у Навадвипы — по картам и описаниям XVIII–XIX вв. (поздн.).
+    en: >-
+      The Lord's tears "like the flood of the Ganga in the month of Bhadra" — CB Antya 2.125; in the rains the Ganga
+      teems with crocodiles — CB Madhya 12.6, 13.137; at Chhatrabhoga "the Ganga spreads into a hundred streams" — CB
+      Antya 2.61–62. Shifts of the channel and erosion of the banks near Navadvipa — from 18th–19th-c. maps and accounts
+      (late).
+  text:
+    ru: >-
+      К бхадре, концу сезона дождей, Ганга поднимается выше всего: мутная бурая вода затапливает низкие берега и острова,
+      уносит деревья и хижины, а течение становится таким сильным, что лодочники берут вдвое. Половодье несёт плодородный
+      ил на поля, но может и смыть деревню — Ганга у Навадвипы много раз меняла русло, и места, где стояли дома времён
+      Махапрабху, позже оказались под водой или на другом берегу. Вриндаван дас сравнивает с бхадрским разливом поток
+      слёз из глаз Господа.
+    en: >-
+      By Bhadra, the end of the rains, the Ganga rises highest: muddy brown water floods the low banks and islands,
+      sweeps away trees and huts, and the current grows so strong that boatmen charge double. The flood brings fertile
+      silt to the fields but can also wash away a village — at Navadvipa the Ganga has shifted its bed many times, and
+      places where houses stood in Mahaprabhu's time later ended up under water or on the other bank. Vrindavana dasa
+      compares the stream of tears from the Lord's eyes to the flood of Bhadra.
+  hagiography: ["ЧБ Антья 2.125", "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.61–62"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "широкая мутная река, затопленные ступени гхата, плывущие ветки", where: ["ganga-ghat"]}
+  todo: "«лодочники берут вдвое» — реконструкция, проверить по mc-ferries-tolls / ЧБ"
+
+- id: mc-autumn-sharat
+  title: {ru: "Осень (шарат) и осенняя луна", en: "Autumn (sharat) and the autumn moon"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Увидев океан в сиянии осенней луны, Господь принял его за Ямуну и бросился в него» — ЧЧ Антья 18.1 и далее;
+      выход в путь после Виджая-дашами — ЧЧ Мадхья 16.94; осенние ночи раса — ЧЧ Ади 4.116 (цитата).
+    en: >-
+      "Seeing the ocean shining in the autumn moonlight, the Lord took it for the Yamuna and plunged in" — CC Antya 18.1
+      ff.; setting out after Vijaya-dashami — CC Madhya 16.94; the autumn nights of the rasa — CC Adi 4.116 (quotation).
+  text:
+    ru: >-
+      После дождей небо становится высоким и чистым, по нему плывут белые облака, по берегам рек колышутся белые
+      метёлки травы каша, вода в реках светлеет, а ночи озаряет самая яркая в году осенняя луна — луна танца раса.
+      Это время больших праздников и снова открытых дорог: в Виджая-дашами Махапрабху пускался в путь. Однажды в Пури
+      осенней лунной ночью Господь увидел сияющее море, принял его за Ямуну и бросился в волны — и всю ночь Его искали
+      преданные, пока рыбак не вытащил Его сетью.
+    en: >-
+      After the rains the sky grows high and clear, white clouds drift across it, white plumes of kash grass sway on the
+      riverbanks, the rivers run clearer, and the nights are lit by the brightest moon of the year — the moon of the rasa
+      dance. It is the time of great festivals and of roads open again: on Vijaya-dashami Mahaprabhu set out on His
+      journeys. Once in Puri, on an autumn moonlit night, the Lord saw the shining sea, took it for the Yamuna and threw
+      Himself into the waves — and all night the devotees searched for Him, until a fisherman drew Him out in his net.
+  hagiography: ["ЧЧ Антья 18.1", "ЧЧ Антья 18.29", "ЧЧ Антья 18.44–60", "ЧЧ Мадхья 16.94", "ЧЧ Ади 4.116"]
+  sources: []
+  images: []
+  game: {model: "ночное море под полной луной; белые метёлки травы каша у реки", where: ["puri/beach", "ganga-ghat"]}
+
+- id: mc-winter-cold
+  title: {ru: "Холодная пора: туманы и стужа", en: "The cold season: fogs and chill"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Сейчас (в картику) ещё очень холодно для путешествия; лучше идти после Дола-ятры» — ЧЧ Мадхья 16.9; плед
+      (бхота-камбала) Санатаны — см. mc-bhota-kambala; дрожь, «как стучат от холода зубы ребёнка» — ЧБ Мадхья 8.157;
+      разбойники мёрзнут под ливнем — ЧБ Антья 5.615–616. Туманы и стёганые одеяла-кантха — общее наблюдение.
+    en: >-
+      "It is still too cold (in Kartika) to travel; better go after the Dola-yatra" — CC Madhya 16.9; Sanatana's
+      blanket — see mc-bhota-kambala; trembling "as a child's teeth chatter from cold" — CB Madhya 8.157; robbers
+      freezing in a downpour — CB Antya 5.615–616. Fogs and kantha quilts — general observation.
+  text:
+    ru: >-
+      С картики по магху в Бенгалии прохладно, а ночами и холодно — до десяти градусов: для людей, привыкших к жаре, это
+      настоящая стужа. По утрам над рекой и полями лежит густой белый туман, роса капает с соломенных крыш. Греются у
+      костра из соломы и сухого навоза, на солнце во дворе, кутаются в шали, пледы и стёганые одеяла-кантха из старых
+      сари. Преданные в Пури отговаривали Махапрабху от пути в холодную картику: лучше дождаться весенней Дола-ятры.
+    en: >-
+      From Kartika to Magha Bengal is cool, and at night cold — down to ten degrees: for people used to heat, a real
+      frost. In the mornings a thick white fog lies over the river and fields, and dew drips from the thatch. People warm
+      themselves at fires of straw and dried dung or in the sun in the yard, and wrap up in shawls, blankets and kantha
+      quilts stitched from old saris. The devotees in Puri dissuaded Mahaprabhu from travelling in cold Kartika: better
+      to wait for the spring Dola-yatra.
+  hagiography: ["ЧЧ Мадхья 16.9", "ЧБ Мадхья 8.157", "ЧБ Антья 5.615–616"]
+  sources: []
+  images: []
+  game: {model: "утренний туман над Гангой и полями, костёр во дворе, люди в шалях", where: ["ganga-ghat", "mishra-house/courtyard"]}
+  todo: "найти кантху в житиях эпохи (ЧБ? Лочан?)"
+
+- id: mc-spring-vasanta
+  title: {ru: "Весна (васанта)", en: "Spring (vasanta)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Господь явился в полнолуние пхалгуны (см. mc-lunar-calendar, mc-eclipse-bath); весенние стихи: «с молодых манговых
+      бутонов сочится мёд, слетаются пчёлы» — ЧЧ Антья 1.158–160; «снова ясные ночи чайтры, пахнут малати» — Антья 1.78;
+      «деревья расцвели, сладко поют кукушки, опьянели пчёлы» — Лочан, Шеша 4.256; кокилы весной — Карнапура 2.35, 9.45.
+    en: >-
+      The Lord appeared on the full moon of Phalguna (see mc-lunar-calendar, mc-eclipse-bath); spring verses: "honey
+      oozes from young mango buds, bees swarm" — CC Antya 1.158–160; "again the clear nights of Chaitra, the malati
+      fragrant" — Antya 1.78; "the trees in bloom, the cuckoos sing sweetly, the bees are drunk" — Lochana, Shesha 4.256;
+      kokilas in spring — Karnapura 2.35, 9.45.
+  text:
+    ru: >-
+      В пхалгуне холод уходит, с юга начинает дуть тёплый «малайский» ветер, и вся Бенгалия цветёт: манго в
+      золотистых метёлках, алые шимул и ашока, белые жасмины. Кукушки кричат с рассвета до ночи, над цветами гудят
+      пчёлы. В полнолуние пхалгуны празднуют Дола-ятру — и в такую весеннюю ночь, во время лунного затмения, явился в
+      Навадвипе Сам Господь. Для поэтов весна — время игр Радхи и Кришны во Вриндаване, и Махапрабху, слушая весенние
+      стихи, погружался в их настроение.
+    en: >-
+      In Phalguna the cold departs, a warm "Malaya" wind begins to blow from the south, and all Bengal blooms: mango in
+      golden sprays, scarlet shimul and ashoka, white jasmines. Cuckoos call from dawn to night, and bees hum over the
+      flowers. On the full moon of Phalguna the Dola-yatra is celebrated — and on such a spring night, during an eclipse
+      of the moon, the Lord Himself appeared in Navadvipa. For poets spring is the time of Radha and Krishna's pastimes
+      in Vrindavana, and Mahaprabhu, hearing spring verses, would be absorbed in their mood.
+  hagiography: ["ЧЧ Антья 1.78", "ЧЧ Антья 1.158–160", "ЧЧ Ади 4.224", "Лочан, Шеша-кханда, ч. 4, ст. 256", "Карнапура, сарга 2.35, 9.45"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "цветущие манго, шимул, ашока; звуковой фон кокил и пчёл", where: ["navadvipa/lane", "mishra-house/courtyard"]}
+
+- id: mc-storms-hail
+  title: {ru: "Бури, град и калбайсакхи", en: "Storms, hail and the kal-baisakhi"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Внезапный ураган с ливнем и градом не даёт санньяси вернуться к трапезе Господа, а над местом, где
+      готовит Адвайта, лишь лёгкий дождь — ЧБ Антья 9.35–40; разбойников, задумавших ограбить Нитьянанду, настигают
+      ливень, град и молния — ЧБ Антья 5.611–616; люди падают, «как пальмы в ураган» — ЧБ Антья 5.327. Название и сезон
+      калбайсакхи (предмуссонные шквалы вайшакхи) — общее наблюдение.
+    en: >-
+      A sudden gale with rain and hail stops the sannyasis returning to the Lord's meal, while over the
+      place where Advaita cooks there is only light rain — CB Antya 9.35–40; the robbers who plan to rob Nityananda are
+      caught by downpour, hail and lightning — CB Antya 5.611–616; people fall "like palms in a hurricane" — CB Antya
+      5.327. The name and season of the kal-baisakhi (pre-monsoon squalls of Vaishakha) — general observation.
+  text:
+    ru: >-
+      Весной и в начале лета над Бенгалией после полудня вдруг чернеет северо-западный край неба — идёт калбайсакхи,
+      «гибельная гроза вайшакхи». Налетает шквал, поднимает тучи пыли, так что днём становится темно, гнёт пальмы, срывает
+      соломенные крыши, бьёт град и сверкают молнии, — а через час снова светит солнце. Вриндаван дас рассказывает: Адвайте
+      хотелось накормить Господа одного, без сопровождавших Его санньяси, — и тут налетела такая буря: санньяси, обычно евшие с Махапрабху, заблудились
+      в пыли и граде, а над кухней Адвайты накрапывал лишь лёгкий дождь.
+    en: >-
+      In spring and early summer the north-western sky over Bengal suddenly blackens in the afternoon — the kal-baisakhi
+      is coming, "the deadly storm of Vaishakha". A squall strikes, raising clouds of dust so that day turns dark; it
+      bends the palms, tears off thatched roofs, hail pelts and lightning flashes — and an hour later the sun shines
+      again. Vrindavana dasa tells that Advaita longed to feed the Lord alone, without the sannyasis who accompanied Him — and
+      just then such a storm broke: the sannyasis who usually ate with Mahaprabhu lost their way in the dust and hail, while over Advaita's kitchen only a
+      light rain fell.
+  hagiography: ["ЧБ Антья 9.32–40", "ЧБ Антья 5.611–616", "ЧБ Антья 5.327"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "шквал: тёмное небо, пыль, гнущиеся пальмы, град, молния", where: ["navadvipa/lane", "puri"]}
+  todo: "ЧБ Антья 9 — уточнить место эпизода (Пури?)"
+
+- id: mc-rain-at-birth
+  title: {ru: "Дождь после засухи в год явления", en: "Rain after drought in the year of the appearance"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 4.47: «как только родилось это дитя, повсюду кончился голод (дурбхикша), крестьяне получили дождь» —
+      так жители Навадвипы объясняли имя Вишвамбхара («питающий мир»); «засуха» в нашем переводе — пояснение в скобках,
+      по смыслу оригинала; «Вишвамбхар питал и защищал всё мироздание» — ЧЧ Ади 3.33. Исторические сведения о засухе 1486 г. не
+      найдены.
+    en: >-
+      CB Adi 4.47: "as soon as this child was born, famine (durbhiksha) ended everywhere and the farmers got rain" — so
+      the people of Navadvipa explained the name Vishvambhara ("sustainer of the world"); "drought" in our translation is
+      a gloss in brackets, true to the sense; "Vishvambhara sustained and protected all creation" —
+      CC Adi 3.33. Historical records of a drought in 1486 not found.
+  text:
+    ru: >-
+      Жизнь Бенгалии зависела от дождей: если муссон запаздывал, рис не всходил и приходил голод. Вриндаван дас
+      передаёт, что говорили в Навадвипе: в округе была засуха и люди голодали, но как только родился сын Джаганнатхи
+      Мишры, пошли долгожданные дожди и земля снова дала урожай. Потому, говорили они, Ему и дали имя Вишвамбхара —
+      «Тот, кто питает мир».
+    en: >-
+      Bengal's life hung on the rains: if the monsoon was late, the rice did not come up and famine followed. Vrindavana
+      dasa reports what was said in Navadvipa: there had been a drought round about and people were starving, but as soon
+      as Jagannatha Mishra's son was born the long-awaited rains came and the earth gave harvest again. That, they said,
+      is why He was named Vishvambhara — "He who sustains the world".
+  hagiography: ["ЧБ Ади 4.47", "ЧЧ Ади 3.33"]
+  sources: []
+  images: []
+  game: {model: "—", where: ["navadvipa/fields"], notes: "сюжетный момент: потрескавшиеся поля → дождь"}
+
+- id: mc-puri-sea-climate
+  title: {ru: "Климат Пури: море, ветер, дюны", en: "Puri's climate: sea, wind, dunes"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Раскалённый полуденный песок — ЧЧ Антья 4.118–124; песчаная дюна Чатака-парвата, принятая за Говардхан, — Антья
+      14.84 и далее; омовения в море, «вдруг услышали пение» на берегу — Антья 2.153–154; бросок в море под осенней луной —
+      Антья 18.1–60. Морской бриз и сезонные ветры — общее наблюдение.
+    en: >-
+      The burning noon sand — CC Antya 4.118–124; the sand dune Chataka-parvata, taken for Govardhana — Antya 14.84 ff.;
+      bathing in the sea, "suddenly they heard singing" on the shore — Antya 2.153–154; the plunge into the sea under the
+      autumn moon — Antya 18.1–60. The sea breeze and seasonal winds — general observation.
+  text:
+    ru: >-
+      Пури стоит на берегу Бенгальского залива, и его воздух всегда влажен и солон. С моря почти постоянно дует ветер,
+      смягчая жару, а неумолчный гул прибоя слышен в каждом доме — и в Гамбхире, где Махапрабху провёл последние годы.
+      Вдоль берега тянутся белые песчаные дюны, поросшие кетаки; одну из них, Чатака-парвату,
+      Господь принял за холм Говардхан и побежал к ней в экстазе. В полдень песок раскаляется, а в сезон дождей на
+      берег обрушиваются шторма и высокие волны.
+    en: >-
+      Puri stands on the shore of the Bay of Bengal, and its air is always humid and salty. A wind blows almost
+      constantly from the sea, softening the heat, and the ceaseless roar of the surf is heard in every house — and in
+      the Gambhira, where Mahaprabhu spent His last years. White sand dunes run along the shore, grown with ketaki; one of
+      them, Chataka-parvata, the Lord took for Govardhana Hill and ran towards it in ecstasy. At noon the sand burns, and
+      in the rains storms and high waves crash upon the shore.
+  hagiography: ["ЧЧ Антья 4.118–124", "ЧЧ Антья 14.84–90", "ЧЧ Антья 2.153–154", "ЧЧ Антья 18.1–60"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "белые дюны с кетаки, прибой, рыбацкие лодки на песке", where: ["puri/beach", "puri/chataka-parvata"],
+         notes: "звук прибоя — research/audio.md"}
