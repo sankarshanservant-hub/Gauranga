@@ -250,3 +250,312 @@
   images: []
   game: {model: "маленький глиняный горшок с кустиком туласи (высота горшка ~15 см); манджари — фиолетовые колоски",
          where: ["puri/gambhira", "mishra-house/thakur-ghar"], codex: hs_tulasi}
+
+- id: mc-ganga-puja
+  title: {ru: "Поклонение Ганге", en: "Worship of the Ganga"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Ганга-пуджа после омовения с гирляндой и сандалом — ЧБ Ади 8.127–156; кувшины с водой Ганги в доме — ЧБ Ади 8.132;
+      поклонение Ганге после рождения ребёнка — ЧБ Ади 4.19; молитвы и поклоны Ганге — ЧБ Антья 1.108–116, Мадхья 1.134,
+      28.17; Лочан, Мадхья-кханда, ч. 16, ст. 5; глина Ганги для тилаки — ЧЧ Антья 10 (см. mc-raghava-jhali).
+    en: >-
+      Ganga-puja after bathing with a garland and sandal — CB Adi 8.127–156; jars of Ganga water in the house — CB Adi
+      8.132; worship of the Ganga after a birth — CB Adi 4.19; prayers and bows to the Ganga — CB Antya 1.108–116,
+      Madhya 1.134, 28.17; Lochana, Madhya-khanda pt. 16 v. 5; Ganga clay for tilaka — CC Antya 10 (see
+      mc-raghava-jhali).
+  text:
+    ru: >-
+      Для вайшнава Ганга — не просто река: она течёт от стоп Вишну, и потому её вода очищает и пробуждает
+      преданность. Омывшись, жители Навадвипы складывали ладони, черпали воду, пили глоток и бросали в поток
+      цветы и гирлянды, касались лба сандалом. Маленький Нимай однажды потребовал у Шачи масло, плод амалаки для
+      мытья волос, гирлянду и сандал «для Ганга-пуджи», а когда мать замешкалась, в гневе разбил горшки с водой
+      Ганги, что стояли в доме. Уходя из Навадвипы принимать санньясу, Господь поклонился Ганге.
+    en: >-
+      For a Vaishnava the Ganga is not merely a river: she flows from Vishnu's feet, and so her water purifies and
+      awakens devotion. After bathing, the people of Navadvipa joined their palms, scooped up water, sipped it and
+      cast flowers and garlands into the stream, touching their foreheads with sandal. Little Nimai once demanded from
+      Shachi oil, an amalaki fruit for washing His hair, a garland and sandal "for Ganga-puja", and when His mother
+      delayed He angrily smashed the jars of Ganga water kept in the house. Leaving Navadvipa to take sannyasa, the
+      Lord bowed down to the Ganga.
+  hagiography: ["ЧБ Ади 8.127–156", "ЧБ Ади 4.19", "ЧБ Антья 1.108–116", "ЧБ Мадхья 1.134", "ЧБ Мадхья 28.17",
+                "Лочан, Мадхья-кханда, ч. 16, ст. 5"]
+  sources: []
+  images: []
+  game: {model: "гирлянда, плывущая по воде; глиняный кувшин с водой Ганги в доме", where: ["ganga-ghat"]}
+
+- id: mc-jagannatha-darshan
+  title: {ru: "Джаганнатха и даршан от колонны Гаруды", en: "Jagannatha and darshan from the Garuda pillar"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Первый даршан и обморок Господа, охранник, Сарвабхаума — ЧЧ Мадхья 6.3–14; даршан из-за колонны Гаруды — ЧЧ
+      Мадхья 2.54, 6.63; Антья 14.23–30, 16.80–92 (привратник у Львиных врат, джагамохан, утреннее угощение
+      «гопала-валлабха», арати, прасад и гирлянда от служителей); ЧБ Антья 2.488.
+    en: >-
+      The Lord's first darshan and swoon, the guard, Sarvabhauma — CC Madhya 6.3–14; darshan from behind the Garuda
+      pillar — CC Madhya 2.54, 6.63; Antya 14.23–30, 16.80–92 (the doorkeeper at the Lion Gate, the jagamohana, the
+      morning "gopala-vallabha" offering, arati, prasada and garland from the servants); CB Antya 2.488.
+  text:
+    ru: >-
+      В Пури Господь Джаганнатха, «Владыка вселенной», вместе с Баладевой и Субхадрой принимает всех, кто приходит
+      через Львиные врата. Впервые увидев Его, Махапрабху бросился обнять Божество и упал без чувств — охранник уже
+      замахнулся, но Сарвабхаума остановил его. С тех пор Господь смотрел на Джаганнатху издали, из-за каменной
+      колонны с изваянием Гаруды в зале джагамохана, и видел в Нём Кришну с флейтой у губ. Однажды орисская женщина,
+      не видя Божества за толпой, залезла на колонну, поставив ногу на плечо Махапрабху; Говинда хотел её стащить, но
+      Господь запретил: «Пусть смотрит — Мне бы такую жажду увидеть Господа!»
+    en: >-
+      In Puri Lord Jagannatha, "Lord of the universe", with Baladeva and Subhadra receives all who come through the
+      Lion Gate. On first seeing Him, Mahaprabhu rushed to embrace the Deity and fell senseless — a guard had already
+      raised his hand, but Sarvabhauma stopped him. From then on the Lord gazed at Jagannatha from a distance, from
+      behind the stone pillar bearing Garuda's image in the jagamohana hall, and saw in Him Krishna with the flute at
+      His lips. Once an Oriya woman, unable to see the Deity over the crowd, climbed the pillar, putting her foot on
+      Mahaprabhu's shoulder; Govinda wanted to pull her down, but the Lord forbade it: "Let her look — would that I
+      had such thirst to see the Lord!"
+  hagiography: ["ЧЧ Мадхья 6.3–14", "ЧЧ Мадхья 2.54", "ЧЧ Мадхья 6.63", "ЧЧ Антья 14.23–30", "ЧЧ Антья 16.80–92",
+                "ЧБ Антья 2.488"]
+  sources: []
+  images: []
+  game: {model: "каменная колонна с фигурой Гаруды на капители в зале джагамохана; толпа паломников; вдали — алтарь
+         трёх Божеств", where: ["puri/jagannatha-temple"],
+         notes: "Джаганнатха — Сам Кришна; не изображать как «идола»"}
+
+- id: mc-gopinatha-remuna
+  title: {ru: "Гопинатха в Ремуне — «Кхира-чора»", en: "Gopinatha of Remuna — 'Khira-chora'"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 4.112–168 (рассказ Махапрабху о Мадхавендре Пури); Мадхья 4.204–207; 16.30."
+    en: "CC Madhya 4.112–168 (Mahaprabhu's account of Madhavendra Puri); Madhya 4.204–207; 16.30."
+  text:
+    ru: >-
+      В деревне Ремуна в Ориссе стоит храм Гопинатхи. Каждый вечер Ему подносили сладкий рис в двенадцати глиняных
+      горшочках — «амрита-кели», знаменитый «Гопинатха-кхир». Мадхавендра Пури лишь на миг пожелал отведать его,
+      чтобы готовить такой же для своего Гопала, устыдился и ушёл петь святое имя на пустой базар. Ночью Гопинатха
+      явился пуджари во сне: «Я спрятал горшочек под Своей накидкой для санньяси Мадхавендры». С тех пор Божество
+      зовут «Кхира-чора» — «Укравший сладкий рис». Пури съел угощение, а черепки горшочка завязал в край одежды и
+      каждый день съедал по кусочку. Махапрабху, проходя Ремуну, тоже получил двенадцать горшочков этого кхира.
+    en: >-
+      In the village of Remuna in Orissa stands the temple of Gopinatha. Every evening He was offered sweet rice in
+      twelve clay pots — "amrita-keli", the famous "Gopinatha-khir". Madhavendra Puri for a moment wished to taste it,
+      so as to cook the same for his Gopala, was ashamed and went to chant the holy name in the empty market. That
+      night Gopinatha appeared to the priest in a dream: "I have hidden a pot under My cloth for the sannyasi
+      Madhavendra." Ever since, the Deity is called "Khira-chora", "the one who stole the sweet rice". Puri ate the
+      gift, tied the potsherds in the end of his cloth and ate a piece each day. Passing Remuna, Mahaprabhu too
+      received twelve pots of this khir.
+  hagiography: ["ЧЧ Мадхья 4.112–142", "ЧЧ Мадхья 4.154–168", "ЧЧ Мадхья 4.204–207", "ЧЧ Мадхья 16.30"]
+  sources: []
+  images: []
+  game: {model: "двенадцать глиняных горшочков с кхиром перед алтарём; черепки, завязанные в край ткани",
+         where: ["remuna/gopinatha-temple"]}
+
+- id: mc-sakshi-gopala
+  title: {ru: "Сакши-Гопал — Господь-свидетель", en: "Sakshi-Gopala — the Lord as witness"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 5.10–125 и далее (рассказ Нитьянанды по пути в Пури); посещение Махапрабху — ЧЧ Мадхья 5."
+    en: "CC Madhya 5.10–125 ff. (Nityananda's account on the way to Puri); Mahaprabhu's visit — CC Madhya 5."
+  text:
+    ru: >-
+      Старый богатый брахман во Вриндаване пообещал отдать дочь юному бедному спутнику, а дома родня заставила его
+      отречься от слова. Юноша вернулся во Вриндаван и упросил Гопала стать свидетелем. Господь пошёл за ним пешком
+      через всю Индию с условием: не оборачиваться — Его шаги будут слышны по звону ножных колокольчиков; в пути
+      брахман каждый день подносил Ему варёный рис. У родной деревни юноша обернулся — и Гопал, улыбаясь, остался
+      там навсегда; перед всеми Он подтвердил обещание. Позже царь Ориссы Пурушоттама перенёс Сакши-Гопала в Каттак.
+    en: >-
+      An old rich brahmin in Vrindavana promised his daughter to his young, poor companion, but at home his relatives
+      made him go back on his word. The youth returned to Vrindavana and begged Gopala to be his witness. The Lord
+      walked after him across India on one condition: not to look back — His steps would be heard by the jingling of
+      His ankle bells; on the way the brahmin offered Him cooked rice every day. Near his home village the youth
+      looked back — and Gopala, smiling, remained there for ever; before everyone He confirmed the promise. Later
+      King Purushottama of Orissa brought Sakshi-Gopala to Cuttack.
+  hagiography: ["ЧЧ Мадхья 5.10–125"]
+  sources: []
+  images: []
+  game: {model: "звон ножных колокольчиков (нупура) — звуковой эффект; Божество Гопала в храме", where: ["puri/road"]}
+  todo: "где Сакши-Гопал при жизни Махапрабху — Каттак (по ЧЧ); нынешний Сатьявади — позднее перенесение? проверить"
+
+- id: mc-chandi-worship
+  title: {ru: "Мангала-Чанди и ночные песни", en: "Mangala-Chandi and the night-long songs"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Ади 2.64 (*ман̇гала-чан̣д̣ӣра гӣте каре джа̄гаран̣е*), Антья 4.413; ЧБ Ади 12.187; ЧБ Мадхья 13.165–171 (Джагай
+      и Мадхай); разбойники и Чанди — ЧБ Антья 5.538–568, 663; Чанди-мандапа во дворе Мукунды Санджая — ЧБ Ади 10.40,
+      12.91, 15.7, Мадхья 1.126. Поэма Мукундарамы «Чанди-мангал» — конец XVI в. (позже Господа); почитание без образа,
+      перед чашей с водой Ганги, и обеты женщин о детях — Ward 1863 (поздн.).
+    en: >-
+      CB Adi 2.64 (mangala-chandira gite kare jagarane), Antya 4.413; CB Adi 12.187; CB Madhya 13.165–171 (Jagai and
+      Madhai); robbers and Chandi — CB Antya 5.538–568, 663; the Chandi-mandapa in Mukunda Sanjaya's courtyard — CB Adi
+      10.40, 12.91, 15.7, Madhya 1.126. Mukundarama's poem "Chandi-mangal" dates to the late 16th c. (after the Lord);
+      worship without an image, before a cup of Ganga water, and women's vows for their children — Ward 1863 (later).
+  text:
+    ru: >-
+      Вриндаван Дас говорит, что до Махапрабху вся «религия» Навадвипы сводилась к ночным бдениям с песнями о
+      Мангала-Чанди — богине, у которой просили богатства, здоровья детей и удачи. Женщины давали ей обеты; в
+      богатых дворах стояла Чанди-мандапа — открытый навес для праздника богини, и в такой мандапе у Мукунды Санджая
+      юный Нимай Пандит вёл Свою школу. Пьяные Джагай и Мадхай просили Нимая «спеть песни Мангала-Чанди», а
+      разбойники приписывали ей свою удачу. Вайшнавы относятся к богине с почтением как к служанке Господа, но
+      поклоняются ей не ради мирских благ: просить у неё богатства — значит упускать самого Кришну.
+    en: >-
+      Vrindavana Dasa says that before Mahaprabhu the whole "religion" of Navadvipa came down to night-long vigils
+      with songs of Mangala-Chandi, a goddess asked for wealth, children's health and luck. Women made vows to her;
+      wealthy courtyards had a Chandi-mandapa — an open pavilion for the goddess's festival — and in such a mandapa at
+      Mukunda Sanjaya's the young Nimai Pandita kept His school. The drunken Jagai and Madhai asked Nimai to "sing the
+      songs of Mangala-Chandi", and robbers credited her with their luck. Vaishnavas respect the goddess as the Lord's
+      servant, but do not worship her for worldly gain: to ask her for wealth is to miss Krishna Himself.
+  hagiography: ["ЧБ Ади 2.64", "ЧБ Антья 4.413", "ЧБ Ади 12.187", "ЧБ Мадхья 13.165–171", "ЧБ Антья 5.538–568",
+                "ЧБ Ади 10.40", "ЧБ Ади 12.91", "ЧБ Ади 15.7", "ЧБ Мадхья 1.126"]
+  sources: ["Ward 1863, p. 87 (Чанди почитают перед металлической чашей с водой Ганги; обеты женщин о выздоровлении
+            детей; поэма Кавиканканы «Чанди»)"]
+  images: []
+  game: {model: "Чанди-мандапа: открытый навес на столбах с глиняным помостом во дворе богатого дома",
+         where: ["navadvipa/mukunda-sanjaya-house"], notes: "школа Нимая проходит в Чанди-мандапе"}
+
+- id: mc-manasa-vishahari
+  title: {ru: "Вишахари (Манаса) — богиня змей", en: "Vishahari (Manasa) — the snake goddess"}
+  rubric: rites
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Жития: ЧБ Ади 2.65 (*дамбха кари’ виш̣ахари пӯдже*), Антья 4.414, Ади 12.187. Свидетельство эпохи — поэмы о
+      Манасе (Sen HBLL 1911, p. 252–253, 278: «Манаса-мангал» Виджаи Гупты — 1484 по Сену, по другим — 1494). Формы почитания (ветви
+      молочая, кувшин с глиняными змеями, месяц шравана) — Ward 1863, p. 108–110 (ок. 1810); песня певца Манасы, отца
+      Чандравати, XVI в. — см. pd-texts.md (Sen BR 1920).
+    en: >-
+      Hagiography: CB Adi 2.65 (damba kari' vishahari puje), Antya 4.414, Adi 12.187. Evidence of the epoch — the
+      Manasa poems (Sen HBLL 1911, p. 252–253, 278: Vijaya Gupta's "Manasa-mangal" — 1484 per Sen, 1494 per others). Forms of worship
+      (euphorbia branches, a pot with clay snakes, the month of Shravana) — Ward 1863, p. 108–110 (c. 1810); a Manasa
+      singer, father of Chandravati, 16th c. — see pd-texts.md (Sen BR 1920).
+  text:
+    ru: >-
+      В краю рек и болот, где кобра — частый гость, почитали Вишахари («Уносящую яд»), иначе Манасу, чтобы она
+      уберегла семью от укуса змеи. Перед домами сажали ветви молочая, в сезон дождей выставляли кувшин с водой,
+      обвитый глиняными змеями, и ночами пели длинные песни о купце Чанде, который не хотел ей поклоняться и потерял
+      сыновей. Как раз в годы рождения Махапрабху в Бенгалии слагали поэмы о Манасе. Вриндаван Дас с горечью замечает,
+      что Вишахари поклонялись «с великой помпой», а имени Хари почти не произносили.
+    en: >-
+      In a land of rivers and marshes, where the cobra is a frequent visitor, people worshipped Vishahari ("She who
+      takes away poison"), also called Manasa, so that she would keep the family from snakebite. Euphorbia branches
+      were planted before houses, in the rains a water pot entwined with clay snakes was set up, and long songs were
+      sung at night about the merchant Chand, who would not worship her and lost his sons. Just in the years of
+      Mahaprabhu's birth poems about Manasa were being composed in Bengal. Vrindavana Dasa notes with sorrow that Vishahari was
+      worshipped "with great pomp" while the name of Hari was hardly spoken.
+  hagiography: ["ЧБ Ади 2.65", "ЧБ Антья 4.414", "ЧБ Ади 12.187"]
+  sources: ["Ward 1863, p. 108–110", "Sen HBLL 1911, p. 252–253 (ЧБ о гордости почитателей Манасы; змеи в низовьях Ганги), p. 278 (дата Виджаи Гупты)"]
+  images: []
+  game: {model: "глиняный кувшин-гхата с вылепленными змеями, ветка молочая у порога соседского дома",
+         where: ["navadvipa/lane"]}
+  todo: "дата Виджаи Гупты (1484/1494) — по современным изданиям"
+
+- id: mc-bhavani-puja-items
+  title: {ru: "Подношения Бхавани у двери Шриваса", en: "Offerings to Bhavani at Shrivasa's door"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Ади 17.37–46 (*бхава̄нӣ-пӯджа̄ра саба са̄магрӣ*: на банановом листе *од̣а-пхула*, *харидра̄, синдӯра, ракта-
+      чандана, тан̣д̣ула*; *мадйа-бха̄н̣д̣а*); поклонение «вином и мясом» ради богатства — ЧБ Антья 4.415, 5.567–568.
+      Ода-пхул = красный гибискус (бенг. джаба) — по словарям, проверить.
+    en: >-
+      CC Adi 17.37–46 (bhavani-pujara saba samagri: on a banana leaf an oda flower, turmeric, sindur, red sandal, rice;
+      a wine pot); worship "with wine and meat" for wealth — CB Antya 4.415, 5.567–568. Oda flower = red hibiscus
+      (Beng. jaba) — per dictionaries, to check.
+  text:
+    ru: >-
+      Тантрическое поклонение богине (Бхавани, Дурге) требовало особых предметов, и все в Навадвипе их узнавали:
+      алый цветок гибискуса, куркума, красный синдур, красный сандал и рис на банановом листе, а рядом — горшок вина.
+      Завистливый брахман Гопала Чапал ночью обмазал место у двери Шриваса и разложил там всё это, чтобы опозорить
+      вайшнава, певшего по ночам киртан. Утром Шривас с улыбкой позвал соседей: «Смотрите, вот как я поклоняюсь
+      Бхавани!» Соседи возмутились, позвали подметальщика, и место очистили водой с коровьим навозом. Вриндаван Дас
+      упоминает и тех, кто поклонялся «вином и мясом» ради богатства и рода, — вайшнавы к таким обрядам не прибегали.
+    en: >-
+      Tantric worship of the goddess (Bhavani, Durga) called for particular items, and everyone in Navadvipa knew
+      them: a scarlet hibiscus flower, turmeric, red sindur, red sandal and rice on a banana leaf, and beside them a
+      pot of wine. The envious brahmin Gopala Chapala smeared the ground by Shrivasa's door at night and laid all this
+      out, to disgrace the Vaishnava who sang kirtan at night. In the morning Shrivasa smilingly called the
+      neighbours: "Look, this is how I worship Bhavani!" The neighbours were indignant, called a sweeper, and the
+      place was purified with water and cowdung. Vrindavana Dasa also mentions those who worshipped "with wine and
+      meat" for wealth and offspring — Vaishnavas did not resort to such rites.
+  hagiography: ["ЧЧ Ади 17.37–46", "ЧБ Антья 4.415", "ЧБ Антья 5.567–568"]
+  sources: []
+  images: []
+  game: {model: "банановый лист с красным цветком, куркумой, синдуром, рисом; глиняный горшок рядом",
+         where: ["navadvipa/shrivasa-house"], notes: "эпизод: проказа Гопалы Чапала (ЧЧ Ади 17.45–58)"}
+
+- id: mc-kazi-nagar-kirtan
+  title: {ru: "Кази, разбитая мриданга и шествие киртана", en: "The Kazi, the broken mridanga and the kirtan procession"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Ади 17.121–226 (подробный рассказ; отсылка к ЧБ Мадхья 23); «деревенское родство» Кази с Ниламбарой
+      Чакраварти — ЧЧ Ади 17.148–150; лампады и факелы в каждом доме — ЧЧ Ади 17.134; благие предметы у порогов —
+      ЧБ Мадхья 23.190, 23.251, 23.303.
+    en: >-
+      CC Adi 17.121–226 (a detailed account; referring to CB Madhya 23); the Kazi's "village kinship" with Nilambara
+      Chakravarti — CC Adi 17.148–150; lamps and torches in every house — CC Adi 17.134; auspicious items at the
+      doorsteps — CB Madhya 23.190, 23.251, 23.303.
+  text:
+    ru: >-
+      Кази — мусульманский судья и наместник султана Гауды — правил Навадвипой. Когда по всему городу зазвучали
+      мриданги и караталы, мусульмане пожаловались ему, и Чханд Кази, войдя в дом, где пели, разбил мридангу и
+      запретил киртан под угрозой лишить касты и имущества. Тогда Махапрабху велел к вечеру зажечь лампады и факелы
+      в каждом доме и повёл через весь город три группы киртана; у порогов стояли кувшины с водой, бананы, дурва и
+      лампады на гхи. Испуганный Кази спрятался, но потом вышел, и Господь, выразив ему почтение, усадил его рядом.
+      Кази напомнил, что по деревенскому обычаю называл деда Господа, Ниламбару Чакраварти, «дядей», — значит, Нимай
+      ему как племянник, — и обещал, что никто в его роду не помешает киртану.
+    en: >-
+      The Kazi — a Muslim judge and governor for the Sultan of Gauda — ruled Navadvipa. When mridangas and
+      karatalas sounded throughout the town, Muslims complained to him, and Chand Kazi, entering a house where people
+      were singing, broke a mridanga and forbade kirtan on pain of loss of caste and property. Then Mahaprabhu had
+      lamps and torches lit in every house by evening and led three kirtan parties through the whole town; at the
+      doorsteps stood water pots, bananas, durva and ghee lamps. The frightened Kazi hid, but then came out, and the
+      Lord, showing him respect, seated him beside Himself. The Kazi recalled that by village custom he had called
+      the Lord's grandfather, Nilambara Chakravarti, "uncle" — so Nimai was as a nephew to him — and promised that
+      no one of his line would hinder kirtan.
+  hagiography: ["ЧЧ Ади 17.121–150", "ЧЧ Ади 17.174–226", "ЧБ Мадхья 23.190", "ЧБ Мадхья 23.251", "ЧБ Мадхья 23.303"]
+  sources: []
+  images: []
+  game: {model: "дом Кази с садом; факелы (масляная пакля на бамбуке), лампады у порогов; разбитая глиняная мриданга",
+         where: ["navadvipa/kazi-house", "navadvipa/lane"]}
+  todo: "сверить детали шествия с ЧБ Мадхья 23 (маршрут, число групп)"
+
+- id: mc-muslims-in-the-lilas
+  title: {ru: "Мусульмане в мире житий", en: "Muslims in the world of the hagiographies"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Суд над Харидасом и избиение на 22 базарах — ЧБ Ади 16.96–117; мусульманин-портной Шриваса — ЧЧ Ади 17.231; чиновник в
+      Саптаграме — ЧЧ Антья 6.17–34; мусульманский правитель у орисской границы — ЧЧ Мадхья 16.158–200; Гопал прячется
+      от набегов — ЧЧ Мадхья 18.24–47; Кази и киртан — ЧЧ Ади 17 (см. mc-kazi-nagar-kirtan).
+    en: >-
+      The trial of Haridasa and the beating in 22 markets — CB Adi 16.96–117; Shrivasa's Muslim tailor — CC Adi 17.231; an
+      official at Saptagram — CC Antya 6.17–34; a Muslim ruler at the Orissa border — CC Madhya 16.158–200; Gopala
+      hidden from raids — CC Madhya 18.24–47; the Kazi and kirtan — CC Adi 17 (see mc-kazi-nagar-kirtan).
+  text:
+    ru: >-
+      Бенгалией правил мусульманский султан Гауды, и мусульмане — судьи, сборщики налогов, воины, ремесленники — были
+      частью повседневной жизни. Жития говорят о них по-разному. Харидаса Тхакура, родившегося в мусульманской семье,
+      судили за то, что он пел имя Хари, и избили на двадцати двух базарах, а он молился за своих мучителей.
+      Мусульманин-портной шил одежду для Шриваса, и Господь открыл ему Свой облик. Мусульманский правитель у границы
+      Ориссы, услышав о Махапрабху, плакал, кланялся Ему и сам перевёз Его через опасную реку, охраняя от разбойников десятью судами. На
+      пути Господа такие встречи кончались одним: сердце смягчалось, и человек начинал повторять «Кришна!»
+    en: >-
+      Bengal was ruled by the Muslim Sultan of Gauda, and Muslims — judges, tax-collectors, soldiers, craftsmen — were
+      part of daily life. The hagiographies speak of them in different ways. Haridasa Thakura, born in a Muslim
+      family, was tried for chanting the name of Hari and beaten in twenty-two markets, and he prayed for his
+      tormentors. A Muslim tailor sewed clothes for Shrivasa, and the Lord revealed His form to him. A Muslim ruler at
+      the Orissa border, hearing of Mahaprabhu, wept, bowed to Him and personally ferried Him across a dangerous river,
+      guarding Him from bandits with ten boats. On the Lord's path such meetings ended alike: the heart softened, and the person began
+      to say "Krishna!"
+  hagiography: ["ЧБ Ади 16.96–117", "ЧЧ Ади 17.231", "ЧЧ Антья 6.17–34", "ЧЧ Мадхья 16.158–200", "ЧЧ Мадхья 18.24–47"]
+  sources: []
+  images: []
+  game: {model: "персонажи: кази в тюрбане и длинной одежде, сборщик налогов, портной", where: ["navadvipa/lane"],
+         notes: "без карикатуры; одежда мусульман эпохи — у исполнителя dress"}
