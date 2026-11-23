@@ -51,6 +51,7 @@ var percept := 0.0
 var percept_cool := 0.0
 var walk_token := 0
 var debug_proxy := false
+var dump_nav := ""
 
 signal marker_reached
 
@@ -59,6 +60,7 @@ func _ready() -> void:
 		if a == "--autoplay": autoplay = true
 		elif a.begins_with("--shots="): shots_dir = a.substr(8)
 		elif a == "--debug-proxy": debug_proxy = true
+		elif a.begins_with("--dump-nav="): dump_nav = a.substr(11)
 	specs = _json("res://data/characters.json")
 	codex = _json("res://data/codex.json")
 	scenario = _json("res://data/scenario.json")
@@ -76,6 +78,8 @@ func _ready() -> void:
 	ui.set_counter(0, hotspots.size())
 	marker = _make_marker(); add_child(marker); marker.visible = false
 	await _bake_nav()
+	if dump_nav != "":
+		_dump_nav(); get_tree().quit(); return
 	if autoplay:
 		ui.displayed.connect(_capture)
 	_run_scenario()
@@ -186,9 +190,36 @@ func _bake_nav() -> void:
 	NavigationServer3D.map_set_cell_height(map, 0.05)
 	nav_region.navigation_mesh = nm
 	nav_region.bake_navigation_mesh(false)
-	await get_tree().physics_frame
-	await get_tree().physics_frame
-	await get_tree().physics_frame
+	# карта навигации обновляется асинхронно — ждём, пока регион войдёт в карту
+	var probe := Vector3(3.0, 0.0, 4.0)
+	for i in 300:
+		await get_tree().physics_frame
+		var c := NavigationServer3D.map_get_closest_point(map, probe)
+		if c != Vector3.ZERO and c.distance_to(probe) < 2.0:
+			break
+
+## Сетка проходимости для веб-версии: высота точки навмеша или -1 (шаг 0.2 м, x,z от -16 до 16)
+func _dump_nav() -> void:
+	var map := get_world_3d().navigation_map
+	print("polys: ", nav_region.navigation_mesh.get_polygon_count(), " verts: ", nav_region.navigation_mesh.get_vertices().size(), " navsrc: ", get_tree().get_nodes_in_group("navsrc").size())
+	print("closest 0,0,0: ", NavigationServer3D.map_get_closest_point(map, Vector3(0, 0, 0)), " iter ", NavigationServer3D.map_get_iteration_id(map))
+	var rows := []
+	var n := 161
+	for iz in n:
+		var row := []
+		for ix in n:
+			var x := -16.0 + ix * 0.2
+			var z := -16.0 + iz * 0.2
+			var best := -1.0
+			for y0 in [0.0, 0.6]:
+				var c := NavigationServer3D.map_get_closest_point(map, Vector3(x, y0, z))
+				if Vector2(c.x - x, c.z - z).length() < 0.07 and abs(c.y - y0) < 0.25:
+					best = max(best, snappedf(c.y, 0.01))
+			row.append(best)
+		rows.append(row)
+	var f := FileAccess.open(dump_nav, FileAccess.WRITE)
+	f.store_string(JSON.stringify({"x0": -16.0, "z0": -16.0, "step": 0.2, "n": n, "h": rows}))
+	print("NAV DUMPED ", dump_nav)
 
 func nav_path(from: Vector3, to: Vector3) -> PackedVector3Array:
 	var map := get_world_3d().navigation_map
