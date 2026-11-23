@@ -767,3 +767,215 @@
   game: {model: "застава: бамбуковый частокол, навес, заострённые колья у дороги; украшенное судно с каютой",
          where: ["travel/orissa-border"], notes: "сюжетный уровень «переход границы» ночью"}
   todo: "Хронология войн Хуссейн-шаха с Ориссой (ок. 1508–1515) — по PD (Stewart 1813, Hunter Orissa 1872) для раздела 13."
+
+# ── Земледелие и промыслы ───────────────────────────────────────────────────────────────────────────────
+
+- id: mc-rice-year
+  title: {ru: "Рисовый год: аус, аман, боро", en: "The rice year: aus, aman, boro"}
+  rubric: town
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      В житиях земледельческих работ почти нет; недовольные горожане винят киртан в засухе: «боги не посылают дождь,
+      рисовые поля пересохли, никто не может ничего заработать» — ЧБ Мадхья 8.246–247; «урожай *шаса*» — Лочан,
+      Шеша-кханда, ч. 1, ст. 20. Реконструкция по Day 1874: плуг из акации *бабла* с железным лемехом, пара волов,
+      пахарь бранит и уговаривает их (p. 18–19); три урожая — *аус* (сеют в конце марта на высоких землях, жнут в
+      августе), *аман* (сеют в мае–июне, жнут в ноябре–декабре, главный), *боро* (в болотах, январь–май); стебли
+      амана в низинах до 3–4 м; варёный (*сиддха*) и сушёный (*атап*) рис (p. 200–202). **[поздн., Бардхаман 1840-х]**
+    en: >-
+      The hagiographies hardly mention field work; disgruntled townsmen blame kirtan for drought: 'the gods send no
+      rain, the rice fields have dried up, no one can earn anything' — CB Madhya 8.246–247; 'the *shasa* harvest' —
+      Lochana, Shesha-khanda pt. 1 v. 20. Reconstruction after Day 1874: a plough of *babla* acacia with an iron share,
+      a pair of bullocks, the ploughman scolding and coaxing them (p. 18–19); three crops — *aus* (sown late March on
+      high land, cut in August), *aman* (sown May–June, cut November–December, the main one), *boro* (in swamps,
+      January–May); aman stalks in the lowlands up to 3–4 m; parboiled (*siddha*) and sun-dried (*atap*) rice (p.
+      200–202). **[late, Burdwan 1840s]**
+  text:
+    ru: >-
+      Жизнь Бенгалии подчинена рису. Весной, после первой грозы, крестьянин выходит в поле с деревянным плугом с
+      железным лемехом и парой волов — то бранит их, то ласково уговаривает. На высоких полях сеют быстрый аус, к
+      августу он уже созрел; главный же урожай — аман: его сеют перед дождями, поля заливает муссон, стебли тянутся
+      вслед за водой, а в ноябре–декабре наступает жатва серпом. В болотистых низинах зимой растёт третий рис — боро.
+      Обмолоченное зерно сушат, рушат дхенки и хранят в больших корзинах до нового урожая; засуха или наводнение
+      означают голод, и в засуху люди ищут виноватых — даже в киртане.
+    en: >-
+      Bengal's life is ruled by rice. In spring, after the first thunderstorm, the peasant goes out to the field with
+      a wooden plough with an iron share and a pair of bullocks — now scolding them, now coaxing them kindly. On the
+      high fields quick aus is sown and is ripe by August; the main crop is aman: sown before the rains, the monsoon
+      floods the fields, the stalks rise with the water, and in November–December comes reaping with the sickle. In
+      marshy lowlands a third rice, boro, grows through the winter. Threshed grain is dried, husked with the dhenki
+      and stored in big baskets till the next harvest; drought or flood means hunger, and in a drought people look
+      for someone to blame — even kirtan.
+  hagiography: ["ЧБ Мадхья 8.246–247", "Лочан, Шеша-кханда, ч. 1, ст. 20"]
+  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 18–19, 200–202"]
+  images: []
+  game: {model: "плуг (дышло ≈ 2,5 м, рукоять, железный лемех), ярмо на пару волов, серп-каште; рисовое поле по сезонам",
+         where: ["navadvipa/fields"], notes: "смена вида полей по игровому календарю"}
+  todo: "Названия сортов риса эпохи — в «Манаса-мангале» 1494 (Sen 1911) или у Мукундарама; дхенки — mc-dhenki."
+
+- id: mc-house-garden
+  title: {ru: "Огород и сад при доме", en: "The kitchen garden and orchard"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Гададхара в Пури срывает *шак* в своём саду — «никто его не сажал, он рос сам по себе», молодые листья тамаринда
+      толчёт с солёной водой — ЧБ Антья 7.137–139; Нимай с друзьями ночью «изображая быка» ломает банановые сады —
+      ЧБ Ади 7.155; огород и бананы Шридхара — mc-shridhar-hut; зелень-шак — mc-shak (food.yaml); деревья усадьбы —
+      flora.yaml. Набор огородных культур XVI в. — по житиям (тыквы, баклажаны, патол, шак, бананы — см. kitchen,
+      food), без поздних (⚠ картофель, томат, чили).
+    en: >-
+      Gadadhara in Puri picks *shak* in his garden — 'no one planted it, it grew by itself', and pounds young tamarind
+      leaves with salt water — CB Antya 7.137–139; Nimai and friends at night 'playing the bull' wreck banana gardens
+      — CB Adi 7.155; Shridhara's garden and bananas — mc-shridhar-hut; shak greens — mc-shak (food.yaml); homestead
+      trees — flora.yaml. The range of 16th-c. garden crops — from the hagiographies (gourds, aubergines, patol, shak,
+      bananas — see kitchen, food), without late ones (⚠ potato, tomato, chilli).
+  text:
+    ru: >-
+      За домом — огород, и почти всё к столу растёт здесь: тыквы и бутылочные тыквы ползут по бамбуковым шпалерам и
+      соломенной крыше, рядом баклажаны, патол, грядки зелени-шака, кусты бананов, у пруда — колоказия. Многое растёт и
+      само: Гададхара Пандит в Пури рвёт шак, которого никто не сажал, и готовит его для Господа вместе с молодыми
+      листьями тамаринда. Огород огораживают плетнём от коров и коз, а мальчишки, играя «в быка», могут за ночь
+      переломать соседский банановый сад. Ни картофеля, ни помидоров, ни перца чили в этих огородах ещё нет — их
+      привезут позже из Америки.
+    en: >-
+      Behind the house is the kitchen garden, and nearly everything for the table grows here: pumpkins and bottle
+      gourds creep over bamboo trellises and the thatched roof, beside them aubergines, patol, beds of shak greens,
+      banana clumps, and taro by the pond. Much grows by itself: Gadadhara Pandita in Puri picks shak that no one
+      planted and cooks it for the Lord with young tamarind leaves. The garden is fenced with wattle against cows and
+      goats, and boys 'playing the bull' can wreck a neighbour's banana garden in a night. There are no potatoes,
+      tomatoes or chillies in these gardens yet — they will come later from America.
+  hagiography: ["ЧБ Антья 7.137–139", "ЧБ Ади 7.155"]
+  sources: []
+  images: []
+  game: {model: "грядки, бамбуковая шпалера с тыквами, плетень, кусты банана", where: ["mishra-house/backyard"],
+         notes: "собираемые предметы для кухни"}
+
+# ── Сны, астрология, духи и приметы ─────────────────────────────────────────────────────────────────────
+
+- id: mc-dreams
+  title: {ru: "Сны: весть от Господа", en: "Dreams: a message from the Lord"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мишра во сне видит Нимая санньяси — ЧБ Ади 8.92–99; брахман во сне укоряет Мишру — ЧЧ Ади 14.84–90; Тапана
+      Мишре во сне велят идти к Нимаю — ЧБ Ади 14.120, ЧЧ Ади 16.12; Кази во сне видит Нрисимху — ЧЧ Ади 17.178–187;
+      Гопала во сне просит Мадхавендру принести сандал — ЧЧ Мадхья 4.106; Гопинатха во сне говорит пуджари — Мадхья
+      4.126; Нитьянанда во сне является Кришнадасу Кавираджу — ЧЧ Ади 5.180–198; Дигвиджайе во сне — Сарасвати — ЧБ
+      Ади 13.125; сон Чандрашекхара — ЧЧ Мадхья 19.245.
+    en: >-
+      Mishra dreams of Nimai as a sannyasi — CB Adi 8.92–99; a brahmin rebukes Mishra in a dream — CC Adi 14.84–90;
+      Tapana Mishra is told in a dream to go to Nimai — CB Adi 14.120, CC Adi 16.12; the Kazi sees Nrisimha in a dream —
+      CC Adi 17.178–187; Gopala in a dream asks Madhavendra to bring sandalwood — CC Madhya 4.106; Gopinatha speaks to
+      the pujari in a dream — Madhya 4.126; Nityananda appears to Krishnadasa Kaviraja in a dream — CC Adi 5.180–198;
+      Sarasvati to the Digvijayi in a dream — CB Adi 13.125; Chandrashekhara's dream — CC Madhya 19.245.
+  text:
+    ru: >-
+      В житиях сон — не игра ума, а дверь, через которую Господь и Его преданные говорят с человеком. Отец Нимая видит
+      во сне сына с бритой головой, в одеждах санньяси, танцующего среди вайшнавов, — и в слезах молит Кришну оставить
+      мальчика дома. Гопала велит во сне старцу Мадхавендре Пури принести Ему сандал с далёкого юга, Гопинатха будит
+      пуджари, чтобы тот отнёс спрятанный кхир, а сам Кришнадас Кавирадж отправляется во Вриндаван по велению
+      Нитьянанды, явившегося ему во сне. Даже суровый Кази видит во сне грозного Нрисимху — и отменяет запрет на
+      киртан. Вайшнавы рассказывают такие сны с благоговением, но тайну хранят: Господь велит Тапане Мишре никому не
+      говорить о своём сне.
+    en: >-
+      In the hagiographies a dream is no play of the mind but a door through which the Lord and His devotees speak to
+      a person. Nimai's father sees his son in a dream with shaven head, in sannyasi's robes, dancing among the
+      Vaishnavas — and tearfully begs Krishna to keep the boy at home. Gopala in a dream bids the old Madhavendra Puri
+      bring Him sandalwood from the far south, Gopinatha wakes the pujari to take the hidden khira, and Krishnadasa
+      Kaviraja himself goes to Vrindavana at the command of Nityananda, who appeared to him in a dream. Even the stern
+      Kazi sees fierce Nrisimha in a dream — and lifts his ban on kirtan. Vaishnavas tell such dreams with reverence
+      but keep the secret: the Lord forbids Tapana Mishra to speak of his dream to anyone.
+  hagiography: ["ЧБ Ади 8.92–99", "ЧЧ Ади 14.84–90", "ЧБ Ади 14.120", "ЧБ Ади 14.155", "ЧЧ Ади 16.12",
+                "ЧЧ Ади 17.178–187", "ЧЧ Мадхья 4.106", "ЧЧ Мадхья 4.126", "ЧЧ Ади 5.180–198", "ЧБ Ади 13.125",
+                "ЧЧ Мадхья 19.245"]
+  sources: []
+  images: []
+  game: {model: "сцена сна: мягкий свет, размытый фон; Мишра на постели", where: ["mishra-house/courtyard"],
+         notes: "механика «сон-подсказка» уместна только как откровение, не как гадание"}
+
+- id: mc-astrologer
+  title: {ru: "Астролог и выбор благого часа", en: "The astrologer and the choice of an auspicious hour"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Нимай приходит к астрологу-*сарваджне*, «знающему прошлое, настоящее и будущее», и просит назвать Его прошлое
+      рождение; астролог, повторяя Гопала-мантру, видит в медитации Самого Господа — ЧБ Ади 12.153–171, ЧЧ Ади
+      17.103–112. Выбор благоприятного дня и мухурты для обрядов — ЧБ Ади 6.2 (начало учёбы), 10.79, 10.90, 15.73,
+      15.103 (свадьба: адхиваса в сумерки), ЧЧ Ади 14.18 (имянаречение), ЧБ Ади 14.155 (выход в путь). Гороскоп
+      Ниламбары — mc-horoscope.
+    en: >-
+      Nimai comes to an astrologer, a *sarvajna*, 'knower of past, present and future', and asks him to name His
+      previous birth; repeating the Gopala mantra, the astrologer sees the Lord Himself in meditation — CB Adi
+      12.153–171, CC Adi 17.103–112. Choosing an auspicious day and muhurta for rites — CB Adi 6.2 (start of
+      schooling), 10.79, 10.90, 15.73, 15.103 (wedding: adhivasa at dusk), CC Adi 14.18 (naming), CB Adi 14.155
+      (setting out on a journey). Nilambara's horoscope — mc-horoscope.
+  text:
+    ru: >-
+      Ни одно важное дело — начало учёбы, свадьбу, выход в дальний путь — не начинают наугад: брахман-астролог по
+      альманаху высчитывает благой день и мухурту, и в назначенный миг звучат раковины. В Навадвипе славился
+      астролог-сарваджня, «всеведущий»: к нему пришёл молодой Нимай Пандит и шутливо попросил сказать, кем Он был в
+      прошлой жизни. Астролог стал считать, повторяя мантру Гопалы, — и в медитации увидел ослепительный облик
+      Господа, прибежище бесчисленных вселенных, и онемел. Вайшнав чтит знание светил как часть ведической жизни, но
+      знает: судьбу преданного вершит не планета, а воля Кришны.
+    en: >-
+      No important undertaking — the start of schooling, a wedding, setting out on a long road — is begun at random: a
+      brahmin astrologer reckons from the almanac an auspicious day and muhurta, and at the appointed moment the conches
+      sound. Navadvipa had a famous astrologer, a sarvajna, 'all-knowing': young Nimai Pandita came to him and
+      playfully asked him to say who He had been in His previous life. The astrologer began his calculations,
+      repeating the Gopala mantra — and in meditation saw the dazzling form of the Lord, the shelter of countless
+      universes, and fell speechless. A Vaishnava honours the science of the heavenly bodies as part of Vedic life,
+      but knows that a devotee's destiny is decided not by a planet but by Krishna's will.
+  hagiography: ["ЧБ Ади 12.153–171", "ЧЧ Ади 17.103–112", "ЧБ Ади 6.2", "ЧБ Ади 10.79", "ЧБ Ади 10.90",
+                "ЧБ Ади 15.73", "ЧБ Ади 15.103", "ЧЧ Ади 14.18", "ЧБ Ади 14.155"]
+  sources: []
+  images: []
+  game: {model: "астролог на циновке: пальмовая рукопись-панджика, мел, доска с расчерченными домами гороскопа",
+         where: ["navadvipa/lane"], notes: "NPC: «благой час» для квеста"}
+
+- id: mc-spirits-omens
+  title: {ru: "Духи, сглаз и приметы — и чего боится вайшнав", en: "Spirits, the evil eye and omens — and what a Vaishnava fears"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мишра боится, что красоту сына сглазят или навредят злые духи, и молится Кришне; «нечисты лишь места, где не
+      помнят о Тебе: там селятся духи, ведьмы и демоны» — ЧБ Ади 8.83–91; Сита Тхакурани защищает младенца «от ведьм
+      и злых духов» — ЧЧ Ади 13.117; при «вайю» Нимая говорят «им овладел демон», «это проделки ведьмы» — ЧБ Ади
+      12.79; брахма-ракшас — ЧЧ Антья 2.156; рыбак боится духа, Сварупа «изгоняет» его, призывая Нрисимху — ЧЧ Антья
+      18.57–63; «слёзы на благом обряде — недобрый знак» — Карнапура, сарга 3, ст. 52. Стрёкот ящерицы — дурная
+      примета для всех сословий Бенгалии — Day 1874, p. 8–9 **[поздн.]**. Обереги младенца — mc-protective-mantras,
+      mc-tiger-claw, mc-name-nimai.
+    en: >-
+      Mishra fears his son's beauty will draw the evil eye or harm from evil spirits, and prays to Krishna; 'only those
+      places are unclean where You are not remembered: there spirits, witches and demons dwell' — CB Adi 8.83–91; Sita
+      Thakurani protects the infant 'from witches and evil spirits' — CC Adi 13.117; at Nimai's 'vayu' people say 'a
+      demon has seized him', 'it's a witch's doing' — CB Adi 12.79; the brahma-rakshasa — CC Antya 2.156; the
+      fisherman fears a ghost, Svarupa 'exorcises' it invoking Nrisimha — CC Antya 18.57–63; 'tears at an auspicious
+      rite are a bad sign' — Karnapura, sarga 3 v. 52. The chirp of a lizard is a bad omen for all classes of Bengal —
+      Day 1874, p. 8–9 **[late]**. The infant's protections — mc-protective-mantras, mc-tiger-claw, mc-name-nimai.
+  text:
+    ru: >-
+      Мир бенгальской деревни полон невидимых обитателей: бхуты и преты бродят у воды и на пустырях, ведьма-даини может
+      сглазить красивого ребёнка, а стрёкот ящерицы с крыши заставляет отложить выход из дома. Слёзы на свадьбе или
+      иной благой церемонии считаются недобрым знаком — Шачи даже унимает плачущего сына. Но вайшнавские жития всё
+      время переворачивают этот страх: лучшая защита — имя Господа. Джаганнатха Мишра, боясь за сына, не идёт к
+      заклинателю, а молится Кришне; Сварупа Дамодара «изгоняет духа» из рыбака, призывая Нрисимху; а Нимай учит мать,
+      что нечисто лишь то место, где не помнят о Боге.
+    en: >-
+      The world of a Bengali village is full of unseen inhabitants: bhutas and pretas roam by the water and on waste
+      ground, a witch, a daini, can cast the evil eye on a beautiful child, and a lizard chirping on the roof makes one
+      put off leaving the house. Tears at a wedding or other auspicious ceremony are a bad sign — Shachi even hushes
+      her weeping son. But the Vaishnava hagiographies keep turning this fear around: the best protection is the
+      Lord's name. Jagannatha Mishra, afraid for his son, goes not to an exorcist but prays to Krishna; Svarupa
+      Damodara 'drives the ghost' out of the fisherman by invoking Nrisimha; and Nimai teaches His mother that only that
+      place is unclean where God is not remembered.
+  hagiography: ["ЧБ Ади 8.83–91", "ЧЧ Ади 13.117", "ЧБ Ади 12.79", "ЧЧ Антья 2.156", "ЧЧ Антья 18.57–63",
+                "Карнапура, сарга 3, ст. 52"]
+  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 8–9"]
+  images: []
+  game: {model: "ящерица-геккон на стропилах (звук «тик-тик-тик»); тёмный пустырь у воды", where: ["mishra-house/courtyard"],
+         notes: "без хоррора; страх снимается именем Хари"}
+  todo: "Карнапура 3.48–53: утро свадебного дня, обряд почитания предков; Нимай плачет, вспомнив отца, Шачи с женщинами унимает Его. Бенгальские слова для «сглаза» (*нажар*? *дришти*?) — по PD."
