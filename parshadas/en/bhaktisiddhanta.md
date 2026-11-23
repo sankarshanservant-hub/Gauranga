@@ -329,6 +329,115 @@ In August–September 1918 the spokesman of a circle of atheists sent him twenty
 faith and its acharyas. He answered with reason and shastra; the questions and answers appeared as a booklet,
 “Pratipera Prashnera Pratyuttara” (“Reply to an Opponent’s Questions”). <!-- F65 -->
 
+## Bhaktivinoda Asana
+So that more people could hear from his lips the incomparably powerful word of Sri Chaitanya, in November 1918 he opened
+a centre in Calcutta. At his instruction Kunjavihari Vidyabhushana rented the house at No. 1 Ultadanga Junction Road,
+near the Pareshnath temple, for fifty rupees a month, and at Kunja Babu’s wish the centre was named “Sri Bhaktivinoda
+Asana.” It soon became a splendid centre of preaching: the foremost scholars of the city and beyond came to hear
+Sarasvati Thakura’s hari-katha, and his addresses were printed by Sri Motilal Ghosh in the “Amrita Bazar Patrika” and
+by Sri Piyush Kanti Ghosh in the “Bengalee.” From here he travelled to preach in the districts of Jessore and Khulna.
+Soon several highly educated young men answered his call and dedicated their lives to the mission. <!-- F66 F265 F67 -->
+
+On 5 February 1919, the appearance day of Srimati Vishnupriya, he revived here with kirtana the World Vaishnava
+Association — now under the name “Vishva-vaishnava-raja-sabha,” the name of the assembly once begun by Sri Rupa and
+Sanatana. On 27 June 1919 he installed the image of Srila Bhaktivinoda Thakura in the Svananda-sukhada-kunja in
+Godrumadvipa, and from 18 August to 18 September the first month-long kirtana festival was held at the Bhaktivinoda
+Asana. On 4 October, the appearance day of Madhvacharya, he began preaching in northern and eastern Bengal. In April
+1920, together with other leaders of the “Vishva-vaishnava-raja-sabha,” he sent the annual conference of Vaishnava
+scholars held by the Maharaja of Cossimbazar a letter with seven questions — a challenge to explain the difference
+between pure and mixed devotion. <!-- F68 F248 F69 F70 -->
+
+On 23 June 1920, exactly six years after Bhaktivinoda’s departure, his mother, Bhagavati Devi, departed for the eternal
+abode. <!-- F71 -->
+
+On 6 September 1920 the Deities of Guru-Gauranga and Radha-Govinda were installed at the Bhaktivinoda Asana: so arose the
+first Sri Gaudiya Math — the first branch of the Sri Chaitanya Math. In October Maharaja Sir Manindra Chandra Nandi
+Bahadur invited him to Cossimbazar, and he told him of his plan for a Vaishnava encyclopaedia; the maharaja promised a
+monthly grant towards its publication but did not keep his promise. Sarasvati Thakura then preached at Saidabad,
+Novallis-para, Kheturi and other places of Mahaprabhu’s associates. <!-- F72 F73 -->
+
+On 1 November 1920 he gave tridandi sannyasa to a disciple of Bhaktivinoda, Jagadisha Bhakti Pradipa, B.A., who bore the
+titles “Vaishnava-siddhanta-bhushana” and “Sampradaya-vaibhavacharya.” So the “Vishva-vaishnava-raja-sabha” gained its
+first sannyasi — Tridandi Svami Bhakti Pradipa Tirtha Maharaja. On 14 March 1921 Sarasvati Thakura revived the annual
+parikrama of Navadvipa-dhama, and at the end of March he again preached in Puri. Bhakti Pradipa Tirtha then published
+the book “Achara o Acharya” (“Conduct and the Spiritual Teacher”), which greatly agitated the caste gosvamis — for the
+most part professional gurus. <!-- F74 F75 -->
+
+## Maths throughout India
+He then preached at Dhanbad, Katrasgarh and Dhaka. In Dhaka for a whole month he explained the first verse of the
+“Bhagavata” — *janmady asya yato ’nvayat* — in thirty different ways. On 13 October 1921 he founded the Madhva Gaudiya
+Math there, installed the Deities on 31 October with a great festival, and then visited Mymensingh. Returning to
+Navadvipa, he restored the worship of Gaura-Gadadhara at Champahati, and at the birthplace of Vrindavana Dasa Thakura,
+by the house of Sharngi Murari in Modadrumadvipa, he installed Deities and built a temple; then he preached in Calcutta
+and its surroundings. <!-- F76 Q2 F77 F256 -->
+
+Veda-vyasa says: *utkale purushottamat* — from Purushottama in Utkala the pure teaching of the Vaishnavas will spread
+through the world. On 9 June 1922 Sarasvati Thakura founded the Sri Purushottama Math at Bhakti-kuti with the Deity of
+Gauranga. Then, following Mahaprabhu’s example, he and his followers washed the Gundicha temple, walked around Puri, and
+during the *anavasara* went to Alalanatha. At the Purushottama Math he established an annual festival in memory of
+Bhaktivinoda and Gadadhara Pandita Gosvami, and sent disciples to preach in Cuttack, Baripada, Kuamara, Udala,
+Kaptipada and Nilgiri. <!-- F78 Q1 -->
+
+On 19 August 1922 the first issue of the weekly “Gaudiya,” the organ of the Gaudiya Math, came out from the “Bhagavata
+Press”; its editor was Sri Haripada Vidyaratna[^13]. On 28 September of that year Sarasvati Thakura set out with his
+disciples for Vrindavana to open a centre of preaching there: he visited Mathura, Vrindavana, Radha-kunda and other
+places, and in the Lala Babu temple in Vrindavana he spoke on Mahaprabhu’s teaching at a gathering of learned
+Vaishnavas. In the month of Karttika, returning to Bengal, he again spoke in Dhaka on the nature of bhakti, then revealed
+at Kulia the place where Mahaprabhu forgave Devananda Pandita and Chapala Gopala their offences, and preached in the
+Santal Parganas. <!-- F79 F265 F80 F81 -->
+
+On 2 March 1923, the day of Mahaprabhu’s appearance, construction of the Chaitanya Math temple began according to his
+design. On the main altar — Guru-Gauranga and Radha-Govinda; at the four corners — images of the founders of the four
+Vaishnava sampradayas (Lakshmi, Brahma, Rudra and the four Kumaras) and of their acharyas — Ramanuja, Madhva,
+Vishnusvami and Nimbarka. Then he went to Puri for the annual festival and danced before the chariot at the Ratha-yatra
+in the mood of Mahaprabhu separated from Krishna. He preached to many, among them Raja Manindra Chandra Nandi and
+Shashimohana Gosvami of Bhadrak, sent preachers to Mayurbhanj and Madras, and himself visited Amlajora (Burdwan) and
+Banari-para (Barisal). <!-- F82 F83 -->
+
+In 1923, before the annual festival of the Gaudiya Math in Calcutta, the “Gaudiya Printing Works” was opened. Here began
+to appear the parts of the “Srimad-Bhagavatam” with the word-for-word rendering “Gaura-kishoranvaya,” the translation
+“Svananda-kunjanuvada,” and the commentaries “Ananta-gopala-tathya” and “Sindhu-vaibhava.” On 24 February 1924, for the
+fiftieth anniversary of his appearance, the Vyasa-puja was performed in his honour for the first time at the Calcutta
+Gaudiya Math; one of the biographies calls his address that day an immortal gem of Vaishnava literature. Soon after, on
+Mahaprabhu’s appearance day, the Madhva Gaudiya Math in Dhaka issued his edition of the “Chaitanya-bhagavata”[^14].
+<!-- F84 F85 F86 -->
+
+On 9 July 1924 he founded the Tridandi Math in Bhubaneshvar, then visited the Madras Presidency, where he founded the
+“Sarasvata Asana” and taught his disciples in detail from Bhaktivinoda’s books. In early September Raut Rai of
+Mayurbhanj, General Jang Bahadur of Nepal, Justice Manmathanath Mukhopadhyaya and others came to hear him. In October
+he came to Dhaka for the fifth time and spoke much on the life of Madhvacharya and his sampradaya, explaining with
+learning the differences between the teachings of Madhva and of the Gaudiyas, especially in their view of
+varnashrama-dharma. <!-- F87 F88 -->
+
+The founder of the Benares Hindu University, Pandita Madan Mohan Malaviya, invited him, and on 16 December 1924 he
+lectured to the university assembly on “The Place of Vaishnavism among the Religions of the World”; among his
+enthusiastic listeners were the head of the department of Western philosophy, Pramatha Nath Tarkabhushan, and Professor
+Phani Bhushan Adhikari. Then he visited Mahaprabhu’s places in Kashi, pointed out in Prayaga the exact place where Sri
+Rupa Gosvami received the Lord’s instructions, and went to Arail, where Mahaprabhu met Vallabhacharya. On 29 January
+1925, with a large party of devotees, he set out through Gauda-mandala, to the places of Mahaprabhu and His associates,
+and everywhere, in divine inspiration, spoke of pure bhakti. <!-- F89 F90 -->
+
+On the Navadvipa parikrama of that same year, 1925, Radha-Govinda were carried on an elephant through Koladvipa. At
+Porama-tola envious ringleaders of the “guru business” incited thugs to throw bricks at the Deities and the devotees, and
+with them at Sarasvati Thakura. An eyewitness wrote the next day (24 Phalguna 1331) in the “Ananda Bazar Patrika” that he
+had seen the same lila as nearly four hundred years before, when Jagai and Madhai tried to wound Nityananda Avadhuta. On
+17 April 1925 Madan Mohan Malaviya, head of the “Hindu Mahasabha,” came to the Calcutta Gaudiya Math and heard his
+explanation of *daiva-varnashrama* according to the “Agama-pramana.” Preachers were sent to Sylhet and elsewhere.
+<!-- F91 F92 -->
+
+In 1926 a three-day *nama-yajna* was held for the appearance of Nityananda Prabhu, and it became annual. In April he
+founded the “Bhagavata Janananda Math” at Chirulia (Medinipur). The tridandi sannyasis grew in number, and he sent them
+all over India while himself preaching in Medinipur; from this time, according to one of the biographies, the great
+expansion of the Gaudiya Math began. <!-- F93 -->
+
+At the beginning of November 1926 he set out on a tour of India: he conversed with scholars, gathered information and
+preached at large gatherings. The acharyas of many schools acknowledged him as the leading acharya of Gaudiya
+Vaishnavism: the mahanta of Nathdvara, Gokulanatha Gosvami Maharaja of Bombay, the abbot of Udupi and the abbot of the
+seat of Salimabad (both of the Madhva-sampradaya) received him with the honour due to the spiritual teacher of a
+Vaishnava sampradaya. On this tour he founded the Paramahamsa Math in Naimisharanya, and on his return he opened in
+Mayapur the “Paravidya-pitha” school and the completed temple of the Chaitanya Math with its twenty-nine spires, with
+the images of the acharyas and Radha-Govinda. <!-- F94 F95 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -362,3 +471,8 @@ faith and its acharyas. He answered with reason and shastra; the questions and a
     disciples.
 [^12]: So according to one of the biographies and “Our Teachers”; another biography says that he installed here the
     Deity of Sri Chaitanya Mahaprabhu.
+[^13]: In one place a biography calls the “Gaudiya” a monthly, in another a weekly; another biography too calls it a
+    weekly. Accounts of other journals also differ: the Hindi journal “Bhagavata” is called now a fortnightly, now a
+    monthly, and the Assamese “Kirtana” is said to have come out now from Dhubri, now from Goalpara.
+[^14]: The biography says “the first edition”; apparently what is meant is the first edition with his commentary, the
+    “Gaudiya-bhashya” — the Gaudiya Math edition — and not the first edition of the “Chaitanya-bhagavata” as such.
