@@ -9657,12 +9657,90 @@
    "F24",
    "F26",
    "F32",
-   "F33"
+   "F33",
+   "F55",
+   "F60",
+   "F61"
   ],
   "events": [
-   "ev-jiva-srinivasa-letters"
+   "ev-jiva-srinivasa-letters",
+   "ev-jiva-sends-gopala-virudavali"
   ],
-  "note": "Дал (с другими Госвами) звание «Кавираджа» (B 523; T 189 — «Анубхашья» к ЧЧ Ади 10.85; БР 1.446–447, ⚠3); в письмах просил присылать его песни (БР 1.449–450; 14.41). = @jiva-gosvami F180."
+  "note": "Дал (с другими Госвами) звание «Кавираджа» (B 523; T 189 — «Анубхашья» к ЧЧ Ади 10.85; БР 1.446–447, ⚠3); при прощании во Вриндаване просил присылать песни и дал «Гопала-вирудавали» (БР 11.281–284); в письмах просил присылать его песни (БР 1.449–450; 14.29–39); Говинда послал ему «Гитамриту» (БР 14.39). = @jiva-gosvami F180."
+ },
+ {
+  "from": "@govinda-kaviraja",
+  "type": "other",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F54",
+   "F55"
+  ],
+  "events": [
+   "ev-jahnava-vrindavana",
+   "ev-jiva-sends-gopala-virudavali"
+  ],
+  "note": "Обнял его при знакомстве у места Акруры и при прощании (БР 11.117, 11.275)."
+ },
+ {
+  "from": "@govinda-kaviraja",
+  "type": "other",
+  "who": "@lokanatha",
+  "facts": [
+   "F55"
+  ],
+  "events": [
+   "ev-jiva-sends-gopala-virudavali"
+  ],
+  "note": "Через Говинду передал наставления Нароттаме (БР 11.276–279)."
+ },
+ {
+  "from": "@govinda-kaviraja",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F55",
+   "F60"
+  ],
+  "events": [
+   "ev-jiva-sends-gopala-virudavali"
+  ],
+  "note": "Обнял Говинду при прощании (БР 11.285); поклоны от него — в письме Дживы (БР 14.36–38)."
+ },
+ {
+  "from": "@govinda-kaviraja",
+  "type": "other",
+  "who": "@vira-hambira",
+  "facts": [
+   "F59"
+  ],
+  "events": [
+   "ev-vira-hambira-yajigrama"
+  ],
+  "note": "Прощаясь в Кантака-нагаре, кланялся стопам Рамачандры и Говинды (БР 13.134)."
+ },
+ {
+  "from": "@govinda-kaviraja",
+  "type": "other",
+  "who": "@vamshidasa-chakravarti",
+  "facts": [
+   "F53",
+   "F57"
+  ],
+  "events": [
+   "ev-vamshidasa-chakravarti-initiation"
+  ],
+  "note": "Увидел Шринивасу в доме Говинды в Будхари (БР 10.305)."
+ },
+ {
+  "from": "@govinda-kaviraja",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F61",
+   "F64"
+  ],
+  "note": "Автор БР и ГЧЧ; песнь о поэзии Говинды (БР 14.41–44), строфа о нём в ГЧЧ 1.22 (ур. C)."
  },
  {
   "from": "@govinda-kaviraja",
@@ -9676,19 +9754,20 @@
    "ev-jahnava-vrindavana",
    "ev-jahnava-returns-through-kheturi"
   ],
-  "note": "Принимал её в Будхари (M 66); шёл с ней во Вриндаван (БР 10.749; НВ 9); B 941 — среди давших титул. = @jahnava F56, F101."
+  "note": "Принимал её в Будхари (M 66); шёл с ней во Вриндаван и обратно — Кхетури, Будхари, Экачакра, Кантака-нагар (БР 10.749; 11.114–404, 11.673–680; НВ 9); B 941 — среди давших титул. = @jahnava F56, F101."
  },
  {
   "from": "@govinda-kaviraja",
   "type": "other",
   "who": "@parameshvara-dasa",
   "facts": [
-   "F24"
+   "F24",
+   "F54"
   ],
   "events": [
    "ev-jahnava-vrindavana"
   ],
-  "note": "Представил его Госвами и попросил послушать его стихи (БР 11.115, 11.145–147). = @parameshvara-dasa F39–F40."
+  "note": "Представил его Госвами («сосуд бхакти-расы, жизнь всех вайшнавов») и попросил послушать его стихи (БР 11.115, 11.145–147). = @parameshvara-dasa F39–F40."
  },
  {
   "from": "@govinda-kaviraja",
@@ -9704,7 +9783,7 @@
    "ev-kheturi-festival",
    "ev-jiva-srinivasa-letters"
   ],
-  "note": "Песнь «Слава Тхакуру Нароттаме» (БР 1.438–444); жил с ним и Рамачандрой в Кхетури (БР 14.30); передал ему слова Госвами и «Гопала-вирудавали» (НВ 9.141–142)."
+  "note": "Песнь «Слава Тхакуру Нароттаме» (БР 1.438–444); жил с ним и Рамачандрой в Кхетури (БР 14.30); передал ему слова Госвами и «Гопала-вирудавали» (БР 11.354–355; НВ 9.141–142)."
  },
  {
   "from": "@govinda-kaviraja",

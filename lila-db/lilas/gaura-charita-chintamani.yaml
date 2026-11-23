@@ -28,7 +28,7 @@
   order: 2
   title: "Слава Гауре-Говинде, Нитьянанде, Адвайте и сотням спутников; ачарьи после Господа"
   summary: "Слава Гауре-Говинде, опьянённому санкиртаной в Навадвипе, Его родителям, Вишварупе, Лакшми и Вишнуприе; Нитьянанде и Адвайте с их родными; затем долгий перечень спутников — от Шриваса, Гададхары, Мадхавендры и Ишвары Пури до Шести Госвами, Сварупы, Рамананды, Сарвабхаумы, Харидаса, Пратапарудры и многих других; отдельные строфы — Виттхаланатхе из рода Валлабхи, Кришнадасу Кавираджу, Шринивасе, Нароттаме, Шьямананде, Хемалате, Рамачандре Кавираджу, Расике Мурари и другим преемникам. Нарахари просит прощения за порядок имён: преданных Гауры бесконечно много."
-  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@krishnadasa-kaviraja", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@rasikananda"]
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@krishnadasa-kaviraja", "@srinivasa-acharya", "@narottama-dasa", "@govinda-kaviraja", "@shyamananda", "@rasikananda"]
   places: ["#navadvipa"]
   kind: author
   authority: C
