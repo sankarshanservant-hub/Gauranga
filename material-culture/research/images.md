@@ -351,3 +351,139 @@
 - **Темы карточек:** ткань для дхоти и сари, ткачи Шантипура/Навадвипы, хлопок.
 - **Эпоха:** 1790-е — поздняя реконструкция; конструкция станка традиционна.
 
+### 32. bishnupur-1655-jor-bangla-temple-chala-roof.jpg
+- **Название:** Jor Bangla or Keshta Raya temple of Bishnupur. Built by Raghunath Singha in 1655 AD (фото 21).
+- **Автор:** SuvadipSanyal (Wikimedia Commons, own work). **Дата снимка:** 2018-01-14; памятник — 1655.
+- **Учреждение / шифр:** Wikimedia Commons (памятник: храм Кешта-рай / Джор-бангла, Бишнупур, Банкура, Зап. Бенгалия; охраняется ASI).
+- **Лицензия:** CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) — атрибуция: «SuvadipSanyal / Wikimedia Commons, CC BY-SA 4.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Jor_Bangla_or_Keshta_Raya_temple_of_Bishnupur._Built_by_Raghunath_Singha_in_1655_AD._21.jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Jor_Bangla_or_Keshta_Raya_temple_of_Bishnupur._Built_by_Raghunath_Singha_in_1655_AD._21.jpg/1920px-Jor_Bangla_or_Keshta_Raya_temple_of_Bishnupur._Built_by_Raghunath_Singha_in_1655_AD._21.jpg (оригинал 5184×3456, 8,6 МБ — взята миниатюра 1920 px)
+- **Что показано:** кирпичный храм «джор-бангла» — две сдвоенные «хижины-до-чала» с изогнутыми коньками и карнизами, покрытые терракотой.
+- **Темы карточек:** хижина-чала (кирпичный храм копирует форму соломенной хижины: изогнутый конёк и свес), терракота.
+- **Эпоха:** **XVII в. (1655), через ~120 лет после Махапрабху — ближайшее зримое свидетельство формы бенгальской кровли.**
+
+### 33. bishnupur-1643-shyam-rai-terracotta-rasa-lila.jpg
+- **Название:** ShyamRai Mandir Bishnupur WB Terracotta works Ras Leela.
+- **Автор:** শক্তিশেল (Wikimedia Commons, own work). **Дата снимка:** 2018-01-30; храм — 1643 (царь Рагхунатха Сингх).
+- **Учреждение / шифр:** Wikimedia Commons; памятник — храм Шьям-рай, Бишнупур.
+- **Лицензия:** CC BY-SA 4.0 — атрибуция: «শক্তিশেল / Wikimedia Commons, CC BY-SA 4.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:ShyamRai_Mandir_Bishnupur_WB_Terracotta_works_Ras_Leela.jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/ShyamRai_Mandir_Bishnupur_WB_Terracotta_works_Ras_Leela.jpg/1920px-ShyamRai_Mandir_Bishnupur_WB_Terracotta_works_Ras_Leela.jpg
+- **Что показано:** круговая терракотовая композиция раса-лилы: концентрические кольца гопи и Кришн с музыкантами вокруг центральной пары.
+- **Темы карточек:** раса-лила, терракота бенгальских храмов, музыкальные инструменты (на кольцах — барабаны, тарелки).
+- **Эпоха:** 1643 — ближайшее по времени бенгальское вайшнавское изобразительное свидетельство (Бишнупур принял гаудия-вайшнавизм от Шринивасы Ачарьи ок. 1600).
+
+### 34. dhenki-rice-husker-assam-photo.jpg
+- **Название:** Dhenki (Side view).
+- **Автор:** PranjalBorah (Wikimedia Commons, own work). **Дата снимка:** 2012-02-26.
+- **Учреждение / шифр:** Wikimedia Commons.
+- **Лицензия:** CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) — атрибуция: «PranjalBorah / Wikimedia Commons, CC BY-SA 3.0».
+- **Источник:** https://commons.wikimedia.org/wiki/File:Dhenki_(Side_view).jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dhenki_%28Side_view%29.jpg/960px-Dhenki_%28Side_view%29.jpg
+- **Что показано:** деревянная рисорушка-дхенки (рычаг-балансир с пестом над ямкой в полу), вид сбоку.
+- **Темы карточек:** дхенки, обрушивание риса, кухня/двор, женский труд.
+- **Эпоха:** современное фото (деревня Мотхаони, Дибругарх, **Ассам**) — конструкция та же, что в Бенгалии; современная фиксация традиционного орудия.
+
+### 35. shil-nora-grinding-stone-bengal-photo.jpg
+- **Название:** Heritage Shil Nora.
+- **Автор:** Anusandhani Pabna Folk (Wikimedia Commons, own work). **Дата снимка:** 2026.
+- **Учреждение / шифр:** Wikimedia Commons.
+- **Лицензия:** CC0 1.0.
+- **Источник:** https://commons.wikimedia.org/wiki/File:Heritage_Shil_Nora.jpg
+- **Прямая ссылка:** https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Heritage_Shil_Nora.jpg/500px-Heritage_Shil_Nora.jpg (оригинал 720×971: https://upload.wikimedia.org/wikipedia/commons/b/b3/Heritage_Shil_Nora.jpg — при скачивании отдал 429)
+- **Что показано:** каменная плита шил с насечкой и валик-нора для растирания горчицы, мака, куркумы.
+- **Темы карточек:** шил-нора, приправы, кухня.
+- **Эпоха:** современное фото традиционного предмета; форма неизменна веками. Разрешение невысокое (500 px).
+
+### 36. daniell-1795-ruins-of-gaur-gauda.jpg
+- **Название:** Ruins in the Antient City of Gour formerly on the Banks of the River Ganges. Coloured aquatint.
+- **Автор:** Thomas Daniell (1749–1840), «Oriental Scenery». **Дата:** май 1795 (London: Robert Bowyer).
+- **Учреждение / шифр:** Wellcome Collection — 27349i (b11851934; image V0050463).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/ntd4cshh
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0050463/full/2000,/0/default.jpg
+- **Что показано:** заросшие руины ворот Гауды (вероятно, Дакхил Дарваза, XV в.) из кирпича с терракотовым декором.
+- **Темы карточек:** Гауда — столица султана Хусейн-шаха; Рамакели (встреча Махапрабху с Рупой и Санатаной, 1514); кирпичная архитектура султаната.
+- **Эпоха:** сами постройки — XV–нач. XVI в. (современные эпохе); вид — 1790-е, после запустения города (1575). В карточке оговорить: «так руины выглядели через 250 лет».
+
+### 37. creighton-1808-gaur-gateway-tomb-husain-shah.jpg
+- **Название:** Gate of Sultan Shah Hussein’s Tomb at Gour (Gateway to the tomb of Husain Shah at Gaur). Line etching with aquatint, sepia.
+- **Автор:** James Moffat (1775–1815) по рисунку Henry Creighton (ум. 1807). **Дата:** ок. 1808.
+- **Учреждение / шифр:** Wellcome Collection — 26916i (b1184761x; image V0050448).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/s4ad6rk9
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0050448/full/2000,/0/default.jpg
+- **Что показано:** кирпичные ворота с терракотовым узором, оплетённые корнями баньяна; по преданию — ворота гробницы султана Хусейн-шаха (правил 1493–1519).
+- **Темы карточек:** султан Хусейн-шах (ЧЧ Мадхья 1), Гауда, власть мусульманского двора при Махапрабху.
+- **Эпоха:** постройка — нач. XVI в. (современна эпохе); гравюра — ок. 1808. Атрибуция ворот к гробнице Хусейн-шаха — по подписи гравюры, у историков спорна.
+
+### 38. daniell-1795-vrindavan-temples-yamuna.jpg
+- **Название:** Hindoo Temples at Bindrabund on the River Jumna (Hindu temples at Bindraban on the river Jumna). Coloured aquatint.
+- **Автор:** Thomas Daniell, «Oriental Scenery». **Дата:** март 1795 (London: Robert Bowyer).
+- **Учреждение / шифр:** Wellcome Collection — 27302i (b11851466; image V0050461).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/an2xn7my
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0050461/full/2000,/0/default.jpg
+- **Что показано:** высокие башни-шикхары из красного песчаника над Ямуной во Вриндаване (по облику — храмы конца XVI в., вероятно Мадана-мохана и/или Джугала-кишора; атрибуцию в карточке давать осторожно).
+- **Темы карточек:** Вриндаван, Ямуна, храмы Госвами.
+- **Эпоха:** храмы — вскоре после Махапрабху (1580–1620-е), вид — 1789–1795; во время самого Махапрабху (1515) этих храмов ещё не было — Вриндаван был лесом.
+
+### 39. daniell-1796-gaya-banyan-shrine.jpg
+- **Название:** The Sacred Tree of the Hindoos at Gyah, Bahar (Banyan tree with Hindu shrine at Gaya, Bihar). Coloured aquatint.
+- **Автор:** Thomas Daniell. **Дата:** май 1796.
+- **Учреждение / шифр:** Wellcome Collection — 27581i (b1185425x; image V0050474).
+- **Лицензия:** Public Domain Mark 1.0.
+- **Источник:** https://wellcomecollection.org/works/zhqfkkb9
+- **Прямая ссылка:** https://iiif.wellcomecollection.org/image/V0050474/full/2000,/0/default.jpg
+- **Что показано:** священный баньян с каменными рельефами божеств у корней и небольшим святилищем в Гае; паломники.
+- **Темы карточек:** Гая (паломничество Нимая, встреча с Ишварой Пури, 1508), священное дерево, паломник.
+- **Эпоха:** 1790-е — поздняя фиксация; не изображает храм Вишнупады.
+
+## Свободные (CC0), но не скачанные — только ссылки
+
+Изображения Метрополитен-музея (Open Access, CC0) — сервер `images.metmuseum.org` из этой среды отдаёт HTML-заглушку
+бот-защиты вместо файла. Лицензия позволяет скачать их вручную из браузера (кнопка Download на странице объекта).
+
+| Объект | Шифр Met | Дата | Почему ценно | Страница | Файл |
+|---|---|---|---|---|---|
+| Dedicatory Inscription from a Mosque (габбро, резьба; Бенгалия) | 1981.320 | 905 г. х. / 1500 г. | **ровно эпоха** — надпись бенгальского султаната времён Хусейн-шаха; карточки «Гауда», «власть султана», «письмо» | https://www.metmuseum.org/art/collection/search/453053 | https://images.metmuseum.org/CRDImages/is/original/DP240305.jpg |
+| Cope (хлопок, вышивка шёлком тасар/муга; Сатгаон, Бенгалия) | 23.203.1 | нач. XVII в. | бенгальская вышивка «сатгаонского» типа (для португальцев) — сцены, костюм, ближайшая по времени ткань | https://www.metmuseum.org/art/collection/search/447703 | https://images.metmuseum.org/CRDImages/is/original/DP266915.jpg |
+| Panel from a Mantle or Apron (Сатгаон–Хугли) | 08.108.4a–e | нач. XVII в. | то же; фигурные сцены, повседневная одежда | https://www.metmuseum.org/art/collection/search/445246 | https://images.metmuseum.org/CRDImages/is/original/DP229986.jpg |
+| Carved Conch with Lakshmi-Narayana (раковина с серебром; Зап. Бенгалия/Бангладеш, эпоха Пала) | 1986.501.6 | XI–XII вв. | ритуальная шанкха бенгальской работы; карточки «шанкха», «браслеты из раковины» (ремесло шанкхари) | https://www.metmuseum.org/art/collection/search/38131 | https://images.metmuseum.org/CRDImages/as/original/DP-17092-001.jpg |
+| Krishna (Shri Shri Guranga Avatara), хромолитография, Калькутта | 2015.435 | 1895 | поздняя народная икона Гауранги | https://www.metmuseum.org/art/collection/search/688471 | https://images.metmuseum.org/CRDImages/as/original/DP702155.jpg |
+| Ranasringa (металлический рог; Бенгалия) | 89.4.161 | ок. 1880 | рог-шинга, звучащий в киртане и шествиях | https://www.metmuseum.org/art/collection/search/500743 | https://images.metmuseum.org/CRDImages/mi/original/89.4.161%20slide.jpg |
+| Sari-length textile (муслин, Дакка) | 2019.452.2 | XIX – нач. XX в. | дакский муслин — тонкая бенгальская ткань для сари | https://www.metmuseum.org/art/collection/search/810837 | https://images.metmuseum.org/CRDImages/as/original/LC-2019_452_2_001.jpg |
+
+Прочие Met-объекты ОД (Бенгалия), найденные перебором: листы «Аштасахасрика-праджняпарамиты» нач. XII в. (2001.445a–l —
+бенгальская пальмовая рукопись эпохи Пала), бенгальские гравюры-баттала 1850–1890-х (2021.205–216, 2018.272–275, в т. ч.
+«Krishna as the Lord of the World (Shri Shri Jagannatha)», 2018.274; «Yashoda and Gopal», 2021.206), калигхатская «Hari Hara»
+(2021.422). Поиск: https://www.metmuseum.org/art/collection/search?q=Bengal&showOnly=openAccess
+
+## Несвободные изображения, которые стоит дать ссылкой (не скачивать)
+
+- **British Museum** (изображения под CC BY-NC-SA 4.0 — некоммерческие, для игры не годятся без разрешения): бенгальские
+  калигхатские паты, вайшнавские свитки-пата, браслеты-шанкха. Поиск: https://www.britishmuseum.org/collection/search?keyword=Chaitanya и …?keyword=Kalighat
+- **Victoria and Albert Museum** (собственные условия, некоммерческое использование): крупнейшее собрание калигхатских пат
+  и рисунков «компанейской школы» Бенгалии, в т. ч. листы с «Chaitanya». Поиск: https://collections.vam.ac.uk/search/?q=Chaitanya
+- **British Library** (Online Gallery; оригинальные рисунки Сольвинса и альбомы «Company School», условия — некоммерческие):
+  https://www.bl.uk/collection-items (поиск: Solvyns; Company painting Bengal).
+- **Wellcome — CC BY-NC** (не брать): «Balarāma, Subhadrā and Jagannāth in the temple at Puri…» — вариант k5fq42bn
+  (image axps6hay, xjp4qhhk); калигхатская «Lakshmi lustrated by two elephants» (phr7cv3d). https://wellcomecollection.org/works/k5fq42bn
+- **Gurusaday Museum (Калькутта)** — эталонное собрание бенгальской терракоты, кантха, пат; изображения не под свободной
+  лицензией, только ссылка: https://www.gurusadaymuseum.org (сайт не проверен из этой среды).
+
+## Тупики (что не дало результата)
+
+- **Met** — изображения не скачиваются (бот-защита images.metmuseum.org, отдаётся HTML). Сам API v1.1 search и v1 objects работают.
+- **Wellcome**: kirtan / sankirtan / mridanga / khol drum / Bishnupur / terracotta temple / Oriya / Odia / palm leaf Orissa — 0 релевантных.
+  «Bengal woman», «Hindu woman Bengal», «Calcutta woman» — нет бенгальских индуисток в сари; гуаши «water pot» и «women grinding» —
+  северно-индийские (подписи на урду) или без места — не взяты. Сольвинс «Ayah» — служанка в шароварах, удалён.
+- **Cleveland**: Bishnupur — 0; terracotta Bengal — только Чандракетугарх (I в. до н. э.); conch — нерелевантно.
+- **AIC**: полнотекстовый поиск по «Kalighat», «Chaitanya» выдаёт нерелевантное; IIIF для Холи отдал лишь 843 px.
+- **Wellcome «Costume of Indostan» (1804, b30456654, PDM)** — просмотрена сетка 130 страниц: в основном мужские типы
+  профессий в изводе Орма; бенгальской домашней утвари почти нет — не скачивалось.
+- **archive.org**: одиночные листы Сольвинса без поля лицензии (ОД по сроку); листа с паланкином, женщинами или хижиной в этой
+  подборке нет (только «Boats of Bengal» и «Musical Instruments»).
+- **Rijksmuseum** (data.rijksmuseum.nl, Linked Art): «Bengalen» — 109 объектов, Solvyns — 1; разбор Linked Art трудоёмок, не доведён.
+- **Commons**: оригиналы с upload.wikimedia.org часто 429 — брать миниатюры 960/1280/1920 px; API поиска 429 с перерывами.
+
