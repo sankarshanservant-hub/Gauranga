@@ -535,13 +535,19 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Суд над Харидасом и избиение на 22 базарах — ЧБ Ади 16.96–117; мусульманин-портной Шриваса — ЧЧ Ади 17.231; чиновник в
-      Саптаграме — ЧЧ Антья 6.17–34; мусульманский правитель у орисской границы — ЧЧ Мадхья 16.158–200; Гопал прячется
-      от набегов — ЧЧ Мадхья 18.24–47; Кази и киртан — ЧЧ Ади 17 (см. mc-kazi-nagar-kirtan).
+      Суд над Харидасом и избиение на 22 базарах — ЧБ Ади 16.96–117; мусульманин-портной Шриваса — ЧЧ Ади 17.231;
+      чиновник в Саптаграме — ЧЧ Антья 6.17–34; мусульманский правитель у орисской границы — ЧЧ Мадхья 16.158–200;
+      Гопал прячется от набегов — ЧЧ Мадхья 18.24–47; Кази и киртан — ЧЧ Ади 17 (см. mc-kazi-nagar-kirtan). Эпоха:
+      Барбоза (ок. 1516) — многие индусы ежедневно принимают ислам, «чтобы снискать милость царя и наместников»;
+      Мукундарам (ок. 1590) — мусульманский квартал города: пятикратная молитва на красной циновке, чётки, Коран,
+      ширни пирам, кази разбирает тяжбы, ремёсла (ткачи, возчики, бумажники).
     en: >-
-      The trial of Haridasa and the beating in 22 markets — CB Adi 16.96–117; Shrivasa's Muslim tailor — CC Adi 17.231; an
-      official at Saptagram — CC Antya 6.17–34; a Muslim ruler at the Orissa border — CC Madhya 16.158–200; Gopala
-      hidden from raids — CC Madhya 18.24–47; the Kazi and kirtan — CC Adi 17 (see mc-kazi-nagar-kirtan).
+      The trial of Haridasa and the beating in 22 markets — CB Adi 16.96–117; Shrivasa's Muslim tailor — CC Adi
+      17.231; an official at Saptagram — CC Antya 6.17–34; a Muslim ruler at the Orissa border — CC Madhya 16.158–200;
+      Gopala hidden from raids — CC Madhya 18.24–47; the Kazi and kirtan — CC Adi 17 (see mc-kazi-nagar-kirtan).
+      Period: Barbosa (c. 1516) — many Hindus daily turn Muslim 'to win the favour of the king and governors';
+      Mukundaram (c. 1590) — the Muslim quarter of a town: prayer five times on a red mat, rosaries, the Quran,
+      *shirni* for the pirs, the qazi judging suits, crafts (weavers, carters, paper-makers).
   text:
     ru: >-
       Бенгалией правил мусульманский султан Гауды, и мусульмане — судьи, сборщики налогов, воины, ремесленники — были
@@ -559,7 +565,8 @@
       guarding Him from bandits with ten boats. On the Lord's path such meetings ended alike: the heart softened, and the person began
       to say "Krishna!"
   hagiography: ["ЧБ Ади 16.96–117", "ЧЧ Ади 17.231", "ЧЧ Антья 6.17–34", "ЧЧ Мадхья 16.158–200", "ЧЧ Мадхья 18.24–47"]
-  sources: []
+  sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 181",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54"]
   images: []
   game: {model: "персонажи: кази в тюрбане и длинной одежде, сборщик налогов, портной", where: ["navadvipa/lane"],
          notes: "без карикатуры; одежда мусульман эпохи — у исполнителя dress"}

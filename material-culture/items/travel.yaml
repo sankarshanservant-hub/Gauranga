@@ -5,8 +5,16 @@
   rubric: travel
   era_evidence: hagiography
   evidence_note:
-    ru: "Сита Тхакурани приезжает «на закрытом паланкине» со служанками — ЧЧ Ади 13.114. Устройство и носильщики — реконструкция."
-    en: "Sita Thakurani arrives 'in a covered palanquin' with her maidservants — CC Adi 13.114. Construction and bearers are reconstructed."
+    ru: >-
+      Сита Тхакурани приезжает «на закрытом паланкине» со служанками — ЧЧ Ади 13.114. Устройство и носильщики —
+      реконструкция. Эпоха: «Айн-и Акбари» (1590-е) — в Бенгалии и Ориссе ездят в *сукхасане*: паланкине в форме
+      полумесяца, обтянутом камлотом или алым сукном, с металлическими креплениями и жердью на железных крюках; в нём
+      можно сидеть, лежать и спать; от солнца и дождя — съёмный навес.
+    en: >-
+      Sita Thakurani arrives 'in a covered palanquin' with her maidservants — CC Adi 13.114. Construction and bearers
+      are reconstructed. Period: Ain-i Akbari (1590s) — in Bengal and Orissa people travel in the *sukhasan*: a
+      crescent-shaped palanquin covered with camlet or scarlet cloth, with metal fittings and a pole on iron hooks;
+      one can sit, lie and sleep in it; a removable awning keeps off sun and rain.
   text:
     ru: >-
       Знатные женщины путешествовали в закрытом паланкине — ящике или ложе на длинной жерди, которую несли на плечах
@@ -17,9 +25,11 @@
       shoulders; curtains hid the traveller from strangers' eyes. In this way Sita Thakurani, Advaita Acharya's wife,
       came from Shantipur to Navadvipa to see the baby, followed by maidservants carrying baskets of gifts.
   hagiography: ["ЧБ Ади 15.137 (дола для жениха)", "ЧЧ Ади 13.114"]
-  sources: ["Hobson-Jobson (1903), s.v. Palankeen (в Бенгалии — 4 носильщика, жердь выгнута дугой)"]
+  sources: ["Hobson-Jobson (1903), s.v. Palankeen (в Бенгалии — 4 носильщика, жердь выгнута дугой)",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 126"]
   images: [{file: "material-culture/img/gujarat-16c-wood-frieze-palanquin-bullock-cart-cma.jpg", license: "CC0 1.0", author: "резчик из Гуджарата", url: "https://clevelandart.org/art/1963.676", note: "XVI–XVII вв.; The Cleveland Museum of Art — 1963.676 (Gift of George P. Bickford). Дерево со следами краски, 20,4 × 257,7 × 12,8 см."},
            {file: "material-culture/img/palki-old-palanquin-bankura-photo.jpg", license: "CC-BY-SA 3.0", author: "Jonoikobangali / Wikimedia Commons, CC BY-SA 3.0", url: "https://commons.wikimedia.org/wiki/File:PalkiBankura.JPG", note: "; Wikimedia Commons; предмет — семья Датта, Рамсагар, округ Банкура."}]
   game: {model: "дола: короб с изогнутой крышей и занавесями на бамбуковой жерди, 4 носильщика",
          where: ["mishra-house/gate"], notes: "эпизод 4 тестового уровня"}
   todo: "PD-изображение бенгальского паланкина (Solvyns) и его названия (дола/палки/чатурдола)"
+

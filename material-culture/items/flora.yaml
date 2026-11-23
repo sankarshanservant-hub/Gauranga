@@ -514,12 +514,15 @@
       Куша в обрядах — общеведийская практика (кольцо-павитра, сиденье, обряды шраддхи). Watt, т. III (1890), s.v.
       Eragrostis cynosuroides (бенг. «кушн», санскр. куша, дарбха, §252–254): трава «постоянно нужна» в погребальных
       обрядах — главный скорбящий носит на пальце кольцо из неё, её кладут под пинды. В наших житиях эпизоды с кушей
-      пока не выписаны — проверить ЧБ Ади 8 (шраддха Джаганнатхи Мишры) и ЧБ Ади 14 (обряды Шачи).
+      пока не выписаны — проверить ЧБ Ади 8 (шраддха Джаганнатхи Мишры) и ЧБ Ади 14 (обряды Шачи). Эпоха (Бенарас,
+      1586): Фитч — омывающимся в Ганге дают по 3–4 травинки куши, их держат между пальцами при омовении.
     en: >-
       Kusha in rites is general Vedic practice (the pavitra ring, seat, shraddha rites). Watt, vol. III (1890), s.v.
       Eragrostis cynosuroides (Bengali kushn, Sanskrit kusha, darbha, §252–254): "in constant requisition" at funeral
       rites — the chief mourner wears a ring of it, and it is laid beneath the pindas. Episodes with kusha in our
-      hagiographies are not yet extracted — check CB Adi 8 (Jagannatha Mishra's shraddha) and CB Adi 14.
+      hagiographies are not yet extracted — check CB Adi 8 (Jagannatha Mishra's shraddha) and CB Adi 14. Period
+      (Benares, 1586): Fitch — bathers in the Ganga are given 3–4 blades of kusha to hold between the fingers while
+      bathing.
   text:
     ru: >-
       Куша (Desmostachya bipinnata) — жёсткая высокая трава с острыми, режущими краями листьев. Без неё не обходится
@@ -532,7 +535,8 @@
       water with a bunch of kusha and lays it on the altar. Unlike the tender durva used for blessing, kusha is the
       grass of purity and ritual; it is cut in the fields on special days and dried for keeping.
   hagiography: []
-  sources: ["Watt, A Dictionary of the Economic Products of India, т. III (1890), s.v. Eragrostis cynosuroides, §252–254 (archive.org DictionaryOfTheEconomicProductsOfIndia3)"]
+  sources: ["Watt, A Dictionary of the Economic Products of India, т. III (1890), s.v. Eragrostis cynosuroides, §252–254 (archive.org DictionaryOfTheEconomicProductsOfIndia3)",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 104"]
   images: []
   game: {model: "пучки высокой жёсткой травы 60–100 см; кольцо из двух травинок", where: ["mishra-house/thakur-ghar", "ganga-ghat"]}
   todo: "найти кушу в ЧБ Ади 8, 14, 15 и Лочане (шраддха, свадьба)"

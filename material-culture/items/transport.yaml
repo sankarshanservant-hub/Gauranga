@@ -81,13 +81,21 @@
     ru: >-
       В житиях: лодки на переправах, «новая лодка» царя у каждой реки — ЧЧ Мадхья 16.114, 16.122; «судно с каютой
       посередине» и «украшенные суда» — 16.194–202; Адвайта приплывает за Господом на лодке — Мадхья 3.21–40; лодочник
-      (*па̄т̣ӯни*?) на пути в Ориссу — ЧБ Антья 2.130–148. Названия и устройство типов лодок — HJ 1903 (DINGY, с. ~317;
-      BUDGEROW, с. ~119) и офорты Solvyns 1811 (XVIII–XIX вв., реконструкция).
+      (*па̄т̣ӯни*?) на пути в Ориссу — ЧБ Антья 2.130–148. Названия и устройство типов лодок — HJ 1903 (DINGY, с.
+      ~317; BUDGEROW, с. ~119) и офорты Solvyns 1811 (XVIII–XIX вв., реконструкция). Эпоха: Ибн Баттута (1346) — на
+      реке бесчисленные лодки, на каждой барабан, при встрече бьют в барабаны и приветствуют друг друга; Федеричи
+      (1569) — лёгкие гребные барки *bazara* и *patua*; Фитч (1586) — большие лодки *pericose* на 24–26 вёсел без
+      навеса; «Айн-и Акбари» — лодки военные, грузовые, быстроходные, 4400 лодок в войске субы, осадные выше
+      крепостной стены.
     en: >-
-      In the hagiographies: boats at the crossings, the king's 'new boat' at every river — CC Madhya 16.114, 16.122; 'a
-      vessel with a cabin amidships' and 'decorated vessels' — 16.194–202; Advaita comes for the Lord by boat — Madhya
-      3.21–40; the boatman on the way to Orissa — CB Antya 2.130–148. The names and build of boat types — HJ 1903 (DINGY,
-      p. ~317; BUDGEROW, p. ~119) and Solvyns's etchings of 1811 (18th–19th c., reconstruction).
+      In the hagiographies: boats at the crossings, the king's 'new boat' at every river — CC Madhya 16.114, 16.122;
+      'a vessel with a cabin amidships' and 'decorated vessels' — 16.194–202; Advaita comes for the Lord by boat —
+      Madhya 3.21–40; the boatman on the way to Orissa — CB Antya 2.130–148. The names and build of boat types — HJ
+      1903 (DINGY, p. ~317; BUDGEROW, p. ~119) and Solvyns's etchings of 1811 (18th–19th c., reconstruction). Period:
+      Ibn Battuta (1346) — countless boats on the river, each with a drum, beaten in greeting when boats meet;
+      Federici (1569) — light rowing barques *bazara* and *patua*; Fitch (1586) — large *pericose* boats of 24–26 oars
+      without awning; Ain-i Akbari — war boats, cargo boats, swift boats, 4,400 boats in the provincial army, siege
+      boats taller than a fort wall.
   text:
     ru: >-
       На реках Бенгалии ходили лодки всех размеров. Самая простая — дингхи: маленькая лодка или долблёнка, на которой
@@ -103,7 +111,11 @@
       an awninged boat Advaita Acharya came for the Lord to take Him home to Shantipur.
   hagiography: ["ЧЧ Мадхья 3.21–40", "ЧЧ Мадхья 16.114", "ЧЧ Мадхья 16.122", "ЧЧ Мадхья 16.194–202", "ЧБ Антья 2.130–148"]
   sources: ["Hobson-Jobson (1903), s.v. DINGY, с. ~317; BUDGEROW, с. ~119",
-            "Solvyns, Les Hindous (1808–1812), листы «Dingee», «Pansway» (archive.org)"]
+            "Solvyns, Les Hindous (1808–1812), листы «Dingee», «Pansway» (archive.org)",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 114–115",
+            "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 90–91",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 129"]
   images: [{file: "material-culture/img/solvyns-1811-dingi-boat.jpg", license: "PD (по сроку)", author: "F. B. Solvyns, 1811",
             url: "https://archive.org/details/plate-7.-dingee"},
            {file: "material-culture/img/solvyns-1811-pansi-passenger-boat.jpg", license: "PD (по сроку)", author: "F. B. Solvyns, 1811",
@@ -153,17 +165,21 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Первый путь Господа в Пури: вдоль Ганги до Чхатрабхоги, где Ганга разливается на сто рукавов, — ЧБ Антья 2.60–80;
-      ночная переправа на лодке в Орисcу до Праяга-гхата — 2.130–148; сборщик пошлин — 2.164–185; Яджапур, «город
-      храмов» — 2.286; Камалапур, сломанный посох, вид храма за три кроши — ЧЧ Мадхья 5.140–151. Обратный путь в
-      Бенгалию: Катак, Яджпур, Ремуна, граница, Пичхалда, Панихати — ЧЧ Мадхья 16.116–202. Ежегодный караван
-      преданных — Мадхья 16.19–26, Антья 1.15–25, 12.15.
+      Первый путь Господа в Пури: вдоль Ганги до Чхатрабхоги, где Ганга разливается на сто рукавов, — ЧБ Антья
+      2.60–80; ночная переправа на лодке в Орисcу до Праяга-гхата — 2.130–148; сборщик пошлин — 2.164–185; Яджапур,
+      «город храмов» — 2.286; Камалапур, сломанный посох, вид храма за три кроши — ЧЧ Мадхья 5.140–151. Обратный путь
+      в Бенгалию: Катак, Яджпур, Ремуна, граница, Пичхалда, Панихати — ЧЧ Мадхья 16.116–202. Ежегодный караван
+      преданных — Мадхья 16.19–26, Антья 1.15–25, 12.15. Эпоха: Ван Даюань (1349) — люди Ориссы «честны», не подбирают
+      оброненное на дороге; Федеричи (1569) — при царях-индусах по Ориссе «можно было пройти с золотом в руке без
+      всякой опасности».
     en: >-
-      The Lord's first journey to Puri: along the Ganga to Chhatrabhoga, where the Ganga spreads into a hundred streams —
-      CB Antya 2.60–80; a night crossing by boat into Orissa to Prayaga-ghat — 2.130–148; the toll-collector —
-      2.164–185; Yajapura, 'the city of temples' — 2.286; Kamalapura, the broken staff, the temple seen from three
-      kroshas — CC Madhya 5.140–151. The road back to Bengal: Kataka, Yajpur, Remuna, the border, Pichhalda, Panihati —
-      CC Madhya 16.116–202. The yearly caravan of devotees — Madhya 16.19–26, Antya 1.15–25, 12.15.
+      The Lord's first journey to Puri: along the Ganga to Chhatrabhoga, where the Ganga spreads into a hundred
+      streams — CB Antya 2.60–80; a night crossing by boat into Orissa to Prayaga-ghat — 2.130–148; the toll-collector
+      — 2.164–185; Yajapura, 'the city of temples' — 2.286; Kamalapura, the broken staff, the temple seen from three
+      kroshas — CC Madhya 5.140–151. The road back to Bengal: Kataka, Yajpur, Remuna, the border, Pichhalda, Panihati
+      — CC Madhya 16.116–202. The yearly caravan of devotees — Madhya 16.19–26, Antya 1.15–25, 12.15. Period: Wang
+      Dayuan (1349) — the people of Orissa are honest and do not pick up what is dropped on the road; Federici (1569)
+      — under the Hindu kings one 'might travel with gold in hand without any danger'.
   text:
     ru: >-
       Из Навадвипы в Пури шли около месяца. Путь вёл на юг вдоль Ганги до Чхатрабхоги, где река расходится на множество
@@ -180,7 +196,8 @@
       Shivananda Sena travelled this road.
   hagiography: ["ЧБ Антья 2.60–80", "ЧБ Антья 2.130–148", "ЧБ Антья 2.286", "ЧЧ Мадхья 5.140–151", "ЧЧ Мадхья 16.116–202",
                 "ЧЧ Мадхья 16.19–26", "ЧЧ Антья 1.15–25"]
-  sources: []
+  sources: ["Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 444–446",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409"]
   images: []
   game: {model: "карта пути: Навадвипа — Шантипур — Чхатрабхога — Праяга-гхат — Ремуна — Яджапур — Катак — Бхуванешвар — Камалапур (Атхаранала) — Пури",
          where: ["road-to-puri"], notes: "«около месяца» — оценка; паломники возвращаются в Бенгалию через четыре месяца после выхода (ЧЧ Антья 6.248) — с пребыванием в Пури"}
@@ -228,19 +245,22 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Богатые и влиятельные люди сходят с паланкинов, чтобы поклониться Нимаю — ЧБ Ади 14.8; Буддхиманта Кхан
-      приносит для Господа роскошный паланкин на свадьбу — ЧБ Ади 15.137–143; Рамачандра Кхан спускается с паланкина
-      перед Господом — ЧБ Антья 2.84; Рамананда Рай едет к реке на паланкине с музыкантами — ЧЧ Мадхья 8.14, 16.98;
+      Богатые и влиятельные люди сходят с паланкинов, чтобы поклониться Нимаю — ЧБ Ади 14.8; Буддхиманта Кхан приносит
+      для Господа роскошный паланкин на свадьбу — ЧБ Ади 15.137–143; Рамачандра Кхан спускается с паланкина перед
+      Господом — ЧБ Антья 2.84; Рамананда Рай едет к реке на паланкине с музыкантами — ЧЧ Мадхья 8.14, 16.98;
       Чандрашекхара привозит Шачи на паланкине — Мадхья 3.137; тело Харидаса несут на паланкине в форме «воздушного
-      корабля» — Антья 11.62. Устройство: «короб-носилки с жердью спереди и сзади, в Бенгалии всегда 4 носильщика»,
-      у Линсхотена (1597) жердь выгнута дугой — HJ 1903, s.v. PALANKEEN, с. 659–661.
+      корабля» — Антья 11.62. Устройство: «короб-носилки с жердью спереди и сзади, в Бенгалии всегда 4 носильщика», у
+      Линсхотена (1597) жердь выгнута дугой — HJ 1903, s.v. PALANKEEN, с. 659–661. Эпоха: «Айн-и Акбари» — сукхасан
+      обтянут алым сукном; некоторые ездят на слонах, верхом — редко.
     en: >-
       Rich and powerful men step down from their palanquins to bow to Nimai — CB Adi 14.8; Buddhimanta Khan brings a
-      splendid palanquin for the Lord's wedding — CB Adi 15.137–143; Ramachandra Khan alights from his palanquin before
-      the Lord — CB Antya 2.84; Ramananda Raya comes to the river in a palanquin with musicians — CC Madhya 8.14, 16.98;
-      Chandrashekhara brings Shachi by palanquin — Madhya 3.137; Haridasa's body is carried on a palanquin shaped like
-      an 'aerial chariot' — Antya 11.62. Construction: 'a box-litter with a pole before and behind, borne by 4 men always
-      in Bengal'; in Linschoten (1597) the pole is bent in an arch — HJ 1903, s.v. PALANKEEN, pp. 659–661.
+      splendid palanquin for the Lord's wedding — CB Adi 15.137–143; Ramachandra Khan alights from his palanquin
+      before the Lord — CB Antya 2.84; Ramananda Raya comes to the river in a palanquin with musicians — CC Madhya
+      8.14, 16.98; Chandrashekhara brings Shachi by palanquin — Madhya 3.137; Haridasa's body is carried on a
+      palanquin shaped like an 'aerial chariot' — Antya 11.62. Construction: 'a box-litter with a pole before and
+      behind, borne by 4 men always in Bengal'; in Linschoten (1597) the pole is bent in an arch — HJ 1903, s.v.
+      PALANKEEN, pp. 659–661. Period: Ain-i Akbari — the sukhasan is covered in scarlet cloth; some ride elephants,
+      horseback is rare.
   text:
     ru: >-
       Паланкин был не только средством передвижения, но и знаком положения. На нём ездили правители, сановники и
@@ -257,7 +277,8 @@
       Shantipur in a palanquin.
   hagiography: ["ЧБ Ади 14.8", "ЧБ Ади 15.137–143", "ЧБ Антья 2.84", "ЧЧ Мадхья 8.14", "ЧЧ Мадхья 16.98", "ЧЧ Мадхья 3.137",
                 "ЧЧ Антья 11.62"]
-  sources: ["Hobson-Jobson (1903), s.v. PALANKEEN, с. 659–661"]
+  sources: ["Hobson-Jobson (1903), s.v. PALANKEEN, с. 659–661",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122"]
   images: []
   game: {model: "открытый паланкин-сиденье с балдахином на выгнутой бамбуковой жерди, 4 носильщика в коротких дхоти; слуга с зонтом",
          where: ["navadvipa/lane", "puri/chitrotpala-river"], notes: "закрытый женский паланкин — mc-palanquin; свадебный выезд — mc-wedding-procession"}

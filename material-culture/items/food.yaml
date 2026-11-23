@@ -1643,16 +1643,24 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Кокос на рынке — *па̄̐ча ган̣д̣а̄* (5 ганда × 4 = 20 каури), лучший у Рагхавы — *ча̄ри пан̣а* (4 × 80 = 320 каури) — ЧЧ Мадхья
-      15.70–72 (в переводе «двадцать пайсов», «триста пайсов» — анахронизм); прасад Джаганнатхи на угощение Господа — *кауд̣и
-      дуи-пан̣а* (160 каури) — Антья 10.155; *а̄ш̣т̣а-пан̣а* (640 каури, «восемь анн» — «Анубхашья») — Антья 6.270; продажа
-      прасада лавочниками (*паса̄ри*) у Львиных ворот — Антья 6.315; дорогой прасад, купленный Шиванандой, — Антья 10.146.
-      Счёт: 4 каури = 1 ганда, 20 ганд = 1 пана (80 каури). См. mc-cowrie-money.
+      Кокос на рынке — *па̄̐ча ган̣д̣а̄* (5 ганда × 4 = 20 каури), лучший у Рагхавы — *ча̄ри пан̣а* (4 × 80 = 320
+      каури) — ЧЧ Мадхья 15.70–72 (в переводе «двадцать пайсов», «триста пайсов» — анахронизм); прасад Джаганнатхи на
+      угощение Господа — *кауд̣и дуи-пан̣а* (160 каури) — Антья 10.155; *а̄ш̣т̣а-пан̣а* (640 каури, «восемь анн» —
+      «Анубхашья») — Антья 6.270; продажа прасада лавочниками (*паса̄ри*) у Львиных ворот — Антья 6.315; дорогой
+      прасад, купленный Шиванандой, — Антья 10.146. Счёт: 4 каури = 1 ганда, 20 ганд = 1 пана (80 каури). См.
+      mc-cowrie-money. Иностранцы эпохи в один голос говорят о дешевизне еды: Ибн Баттута (1346) — годовой запас еды
+      на троих за 8 дирхемов, 8 жирных кур за дирхем; Ван Даюань (1349) об Ориссе — корзина варёного риса за 250
+      каури; Федеричи (1569) на Сандвипе — 4 диких кабана за ларин, курица — за мелкую монету; Линсхотен (1596) —
+      корова 1 ларин (полгульдена), кандил риса (≈ 14 бушелей) — полгульдена.
     en: >-
       A coconut in the market — 5 gandas (20 cowries); Raghava's best — 4 panas (320 cowries) each — CC Madhya
       15.70–72 (the translation's "paise" is an anachronism); Jagannatha prasada for the Lord's meal — two panas of
       cowries (160) — Antya 10.155; eight panas (640 cowries, "eight annas" per Anubhashya) — Antya 6.270; prasada
       sold by shopkeepers at the Lion Gate — Antya 6.315. Reckoning: 4 cowries = 1 ganda, 20 gandas = 1 pana.
+      Foreigners of the period agree on the cheapness of food: Ibn Battuta (1346) — a year's food for three for 8
+      dirhams, 8 fat fowls for a dirham; Wang Dayuan (1349) on Orissa — a basket of cooked rice for 250 cowries;
+      Federici (1569) at Sandwip — 4 wild boars for a larin, a fowl for a tiny coin; Linschoten (1596) — a cow for 1
+      larin (half a guilder), a candil of rice (≈ 14 bushels) for half a guilder.
   text:
     ru: >-
       Мелкие покупки на рынке считали раковинами-каури: четыре каури — «ганда», двадцать ганд — «пана» (80 каури). Обычный
@@ -1666,7 +1674,11 @@
       about two panas. Unsold rice was thrown to the cows after a couple of days — and that is what Raghunatha dasa
       collected.
   hagiography: ["ЧЧ Мадхья 15.70–72", "ЧЧ Антья 6.270", "ЧЧ Антья 6.315–316", "ЧЧ Антья 10.146", "ЧЧ Антья 10.155"]
-  sources: ["«Анубхашья» к ЧЧ Антья 6.270 (8 пан = 640 каури = 8 анн)"]
+  sources: ["«Анубхашья» к ЧЧ Антья 6.270 (8 пан = 640 каури = 8 анн)",
+            "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 80–81",
+            "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 444–446",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 436–437",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 94–95"]
   images: []
   game: {model: "кучки каури по 4 (ганда) на тряпице у торговца кокосами", where: ["navadvipa/market", "puri/lion-gate"],
          notes: "игровой курс: кокос 20 каури; угощение прасадом 160 каури"}

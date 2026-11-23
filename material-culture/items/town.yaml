@@ -197,10 +197,16 @@
   evidence_note:
     ru: >-
       Книги в руках Нимая — ЧБ Ади 6.112, 12.2, 12.245; капли чернил (*ликхана-ка̄ли*) — ЧБ Ади 6.46, 6.113. Материал
-      (пальмовый лист или бумага) в Бенгалии ок. 1500 г. — проверить.
+      (пальмовый лист или бумага) в Бенгалии ок. 1500 г. — проверить. Бумага в Бенгалии эпохи засвидетельствована: Ма
+      Хуань (1433) — белая бумага из коры дерева, «гладкая и блестящая, как оленья кожа»; Мукундарам (ок. 1590) —
+      бумажники-*кагаджи* среди городских ремесленников; в Ориссе же, по «Айн-и Акбари», писали стилом на пальмовых
+      листьях (см. mc-bark-paper).
     en: >-
-      Books in Nimai's hands — CB Adi 6.112, 12.2, 12.245; drops of ink (likhana-kali) — CB Adi 6.46, 6.113. The writing
-      material (palm leaf or paper) in Bengal c. 1500 — to check.
+      Books in Nimai's hands — CB Adi 6.112, 12.2, 12.245; drops of ink (likhana-kali) — CB Adi 6.46, 6.113. The
+      writing material (palm leaf or paper) in Bengal c. 1500 — to check. Paper is attested in Bengal for the period:
+      Ma Huan (1433) — white paper of tree bark, 'smooth and glossy like deerskin'; Mukundaram (c. 1590) — *kagaji*
+      paper-makers among town craftsmen; in Orissa, per the Ain-i Akbari, one wrote with a stylus on palm leaves (see
+      mc-bark-paper).
   text:
     ru: >-
       «Книга» той эпохи — рукопись (пунтхи): стопка длинных узких листов между двумя дощечками, перевязанная шнуром и
@@ -213,12 +219,14 @@
       drops of ink on His skin — Vrindavana Dasa likens them to bees round a champaka flower. A book is revered as
       knowledge and never placed on the ground.
   hagiography: ["ЧБ Ади 6.46", "ЧБ Ади 6.112–113", "ЧБ Ади 12.2", "ЧБ Ади 12.245", "ЧБ Ади 4.53–55"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 440",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126"]
   images: [{file: "material-culture/img/vikramashila-1119-palm-leaf-manuscript-folio-cma.jpg", license: "CC0 1.0", author: "писец монастыря Викрамашила (Бихар); живопись — Катманду", url: "https://clevelandart.org/art/1938.301.4.a", note: "воскресенье, 14 сентября 1119 г. (239 г. эры Невар).; The Cleveland Museum of Art — 1938.301.4.a (J. H. Wade Fund). Гуммитемпера и тушь на пальмовом листе, 5,4 × 56,2 см."},
            {file: "material-culture/img/odisha-1700s-palm-leaf-chandrabhanu-incised-cma.jpg", license: "CC0 1.0", author: "ориcсский мастер-писец", url: "https://clevelandart.org/art/1979.21", note: "конец XVIII в.; The Cleveland Museum of Art — 1979.21 (Edward L. Whittemore Fund). Уголь на пальмовом листе, 4,8 × 40,2 см."}]
   game: {model: "связка листов 40×8 см между дощечками, шнур; глиняная чернильница, тростниковое перо",
          where: ["navadvipa/tol", "mishra-house/main-hut"]}
-  todo: "пальмовый лист vs бумага в Бенгалии ок. 1500 г.; найти свободное фото бенгальской пунтхи XVI в."
+  todo: "найти свободное фото бенгальской пунтхи XVI в.; что писали на бумаге, а что на пальмовом листе в Надии"
 
 - id: mc-vayu-oil-cure
   title: {ru: "Лечение маслами (вайю)", en: "Oil treatment for 'disordered air' (vayu)"}
@@ -249,15 +257,21 @@
   era_evidence: epoch
   evidence_note:
     ru: >-
-      Каури как деньги Бенгалии засвидетельствованы ок. 1240 г. («Табакат-и-Насири»), ок. 1350 г. (Ибн Баттута), в 1561
-      и 1586 гг. (португальские и итальянские авторы) — Hobson-Jobson 1903, с. 269–270; расчёты в каури у Мукундарама
-      (ок. 1590-х) и в свадебной смете Мадхавачарьи (1579) — Sen 1911, с. 356–357, 609–610. Плата певцу рисом и каури —
-      Чандравати (XVI в.).
+      Каури как деньги Бенгалии засвидетельствованы ок. 1240 г. («Табакат-и-Насири»), ок. 1350 г. (Ибн Баттута), в
+      1561 и 1586 гг. (португальские и итальянские авторы) — Hobson-Jobson 1903, с. 269–270; расчёты в каури у
+      Мукундарама (ок. 1590-х) и в свадебной смете Мадхавачарьи (1579) — Sen 1911, с. 356–357, 609–610. Плата певцу
+      рисом и каури — Чандравати (XVI в.). Ван Даюань (1349): в Бенгалии за серебряную танку дают «10 520 с лишним»
+      каури, в Ориссе — 11 520, «чрезвычайно удобно для народа»; Ма Хуань (1433) и Фэй Синь (1436): каури в торговле
+      вместо монеты; «Айн-и Акбари» (1590-е) об Ориссе: 4 каури = ганда, 5 ганд = бури, 4 бури = пан, 16 (или 20)
+      панов = кахан, 10 каханов = рупия.
     en: >-
       Cowries as Bengal's money are attested c. 1240 (Tabaqat-i-Nasiri), c. 1350 (Ibn Battuta), in 1561 and 1586
-      (Portuguese and Italian writers) — Hobson-Jobson 1903, pp. 269–270; reckoning in cowries in Mukundaram (c. 1590s)
-      and in Madhavacharya's wedding budget (1579) — Sen 1911, pp. 356–357, 609–610. A singer paid in rice and cowries —
-      Chandravati (16th c.).
+      (Portuguese and Italian writers) — Hobson-Jobson 1903, pp. 269–270; reckoning in cowries in Mukundaram (c.
+      1590s) and in Madhavacharya's wedding budget (1579) — Sen 1911, pp. 356–357, 609–610. A singer paid in rice and
+      cowries — Chandravati (16th c.). Wang Dayuan (1349): in Bengal a silver tanka fetched '10,520 and more' cowries,
+      in Orissa 11,520, 'very convenient for the people'; Ma Huan (1433) and Fei Xin (1436): cowries used in trade
+      instead of coin; Ain-i Akbari (1590s) on Orissa: 4 cowries = 1 ganda, 5 gandas = 1 buri, 4 buris = 1 pan, 16 (or
+      20) pans = 1 kahan, 10 kahans = 1 rupee.
   text:
     ru: >-
       Мелкой монетой Бенгалии были маленькие белые раковины каури, которые привозили с Мальдивских островов в обмен на
@@ -270,9 +284,16 @@
       bought betel, lime and vegetables at market, paid singers and were given to beggars. Silver and gold were for
       the few — which is why young Nimai, who "had no money with Him", took cloth and conches on credit.
   hagiography: ["ЧБ Ади 12.111", "ЧБ Ади 12.147"]
-  sources: ["Hobson-Jobson (1903), s.v. Cowry, с. 269–270", "Sen 1911, с. 56–57, 349, 356–357, 609–610",
-            "Sen, Bengali Ramayanas (1920), с. 187–188", "Bose 1881, с. 25–26 (каури детям на 8-й день), 75"]
+  sources: ["Hobson-Jobson (1903), s.v. Cowry, с. 269–270",
+            "Sen 1911, с. 56–57, 349, 356–357, 609–610",
+            "Sen, Bengali Ramayanas (1920), с. 187–188",
+            "Bose 1881, с. 25–26 (каури детям на 8-й день), 75",
+            "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435–436, 444–446",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126"]
   images: []
   game: {model: "горсть белых раковин Cypraea moneta, нанизанных или в мешочке; счёт четвёрками",
          where: ["navadvipa/market"]}
-  todo: "проверить шкалу (16 пан = 1 кахан?) — у Hobson-Jobson таблица XVIII–XIX вв."
+  todo: "шкала кахана: 16 пан (Айн-и Акбари, Орисса, 1590-е; HJ) или 20 — сверить по скану Jarrett 1891, с. 126"
+

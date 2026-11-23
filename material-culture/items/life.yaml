@@ -344,17 +344,20 @@
   evidence_note:
     ru: >-
       Жития: «рост и размах рук в четыре своих локтя» — признак маха-пуруши (ЧЧ Ади 3.42); «семь своих локтей» —
-      Брахма о себе (ЧЧ Ади 5.72); два куска ткани «в одну пядь» (*витасти*) — ЧЧ Антья 6.299; гирлянда в 14 локтей
-      — ЧЧ Антья 13.123; путь «в три кроши» — ЧЧ Мадхья 5.146. Система: 24 ангулы = 2 витасти = 1 хаста; 4 хасты =
-      1 данда; 2000 данд = 1 крош (≈ 2½ мили); 4 кроша = 1 йоджана — Prinsep 1858, II, p. 122 (по санскритским
+      Брахма о себе (ЧЧ Ади 5.72); два куска ткани «в одну пядь» (*витасти*) — ЧЧ Антья 6.299; гирлянда в 14 локтей —
+      ЧЧ Антья 13.123; путь «в три кроши» — ЧЧ Мадхья 5.146. Система: 24 ангулы = 2 витасти = 1 хаста; 4 хасты = 1
+      данда; 2000 данд = 1 крош (≈ 2½ мили); 4 кроша = 1 йоджана — Prinsep 1858, II, p. 122 (по санскритским
       трактатам; на деле кош колебался по областям — HJ 1903, s.v. COSS). Газ (ярд) — мусульманского ввода (Prinsep).
+      «Айн-и Акбари» (1590-е) мерит субу Бенгалию в косах (кос ≈ 2 мили, по Джаррету): 400 косов с востока на запад,
+      200 — с севера на юг.
     en: >-
       Hagiographies: 'height and arm-span of four of one's own cubits' — a mark of the maha-purusha (CC Adi 3.42);
-      'seven of my own cubits' — Brahma of himself (CC Adi 5.72); two pieces of cloth 'one span' (*vitasti*) each —
-      CC Antya 6.299; a garland of 14 cubits — CC Antya 13.123; a road of 'three kroshas' — CC Madhya 5.146. The
-      system: 24 angulas = 2 vitastis = 1 hasta; 4 hastas = 1 danda; 2000 dandas = 1 krosha (≈ 2½ miles); 4 kroshas = 1
-      yojana — Prinsep 1858, II, p. 122 (after Sanskrit treatises; in practice the kos varied by region — HJ 1903,
-      s.v. COSS). The gaz (yard) was a Muslim introduction (Prinsep).
+      'seven of my own cubits' — Brahma of himself (CC Adi 5.72); two pieces of cloth 'one span' (*vitasti*) each — CC
+      Antya 6.299; a garland of 14 cubits — CC Antya 13.123; a road of 'three kroshas' — CC Madhya 5.146. The system:
+      24 angulas = 2 vitastis = 1 hasta; 4 hastas = 1 danda; 2000 dandas = 1 krosha (≈ 2½ miles); 4 kroshas = 1 yojana
+      — Prinsep 1858, II, p. 122 (after Sanskrit treatises; in practice the kos varied by region — HJ 1903, s.v.
+      COSS). The gaz (yard) was a Muslim introduction (Prinsep). The Ain-i Akbari (1590s) measures the province of
+      Bengal in kos (kos ≈ 2 miles, per Jarrett): 400 kos east–west, 200 north–south.
   text:
     ru: >-
       Мерили телом. Ширина пальца — ангула, пядь от большого пальца до мизинца — витасти, локоть от локтевого сгиба до
@@ -371,7 +374,8 @@
       'four of his own cubits'.
   hagiography: ["ЧЧ Ади 3.42", "ЧЧ Ади 5.72", "ЧЧ Антья 6.299", "ЧЧ Антья 13.123", "ЧЧ Мадхья 5.146"]
   sources: ["J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 122",
-            "Hobson-Jobson, 1903, s.v. COSS"]
+            "Hobson-Jobson, 1903, s.v. COSS",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 115–116"]
   images: []
   game: {model: "мерная бамбуковая палка в 1 хасту с зарубками-ангулами; придорожный камень-верста? (нет данных)",
          where: ["navadvipa/lane"], notes: "игровые расстояния в крошах: Навадвипа — Шантипур ≈ 6–7 крош (проверить)"}
@@ -426,20 +430,23 @@
   evidence_note:
     ru: >-
       «Многие не понимали языка друг друга» — толпа в ночь явления (ЧЧ Ади 13.107). Господь шутливо передразнивает
-      восточнобенгальский говор (*бангаджа*) — Лочан, Сутра-кханда, ч. 1, ст. 81; Ади-кханда, ч. 9, ст. 710 и
-      сноска (предки — из Шрихатты); песня на ория — ЧЧ Антья 10.67; Кази спорит, опираясь на Коран (ЧЧ Ади
-      17.155–156), так же патан-учёный (ЧЧ Мадхья 18.187–202); персидские титулы братьев — *Дабир Кхас*, *Сакар
-      Маллик* (ЧЧ Мадхья 1.175; ЧБ Антья 9.239–273); тюремщик-мусульманин назван *джинда-пир* (ЧЧ Мадхья 20.5).
-      Санскрит — язык тол, писаний и учёных споров (mc-tol-school). Хинди/брадж путников — по косвенным данным
-      (раджпут Кришнадас, санодия-брахман — ЧЧ Мадхья 18).
+      восточнобенгальский говор (*бангаджа*) — Лочан, Сутра-кханда, ч. 1, ст. 81; Ади-кханда, ч. 9, ст. 710 и сноска
+      (предки — из Шрихатты); песня на ория — ЧЧ Антья 10.67; Кази спорит, опираясь на Коран (ЧЧ Ади 17.155–156), так
+      же патан-учёный (ЧЧ Мадхья 18.187–202); персидские титулы братьев — *Дабир Кхас*, *Сакар Маллик* (ЧЧ Мадхья
+      1.175; ЧБ Антья 9.239–273); тюремщик-мусульманин назван *джинда-пир* (ЧЧ Мадхья 20.5). Санскрит — язык тол,
+      писаний и учёных споров (mc-tol-school). Хинди/брадж путников — по косвенным данным (раджпут Кришнадас,
+      санодия-брахман — ЧЧ Мадхья 18). Эпоха: Ма Хуань (1433) — общий язык Бенгалии бенгальский, есть и говорящие на
+      фарси; «Айн-и Акбари» — бенгальцы не понимают языка Ориссы.
     en: >-
-      'Many did not understand one another's language' — the crowd on the night of the appearance (CC Adi 13.107).
-      The Lord jokingly mimics the East Bengali accent (*bangaja*) — Lochana, Sutra-khanda pt. 1 v. 81; Adi-khanda pt. 9
+      'Many did not understand one another's language' — the crowd on the night of the appearance (CC Adi 13.107). The
+      Lord jokingly mimics the East Bengali accent (*bangaja*) — Lochana, Sutra-khanda pt. 1 v. 81; Adi-khanda pt. 9
       v. 710 and note (His forefathers came from Shrihatta); a song in Oriya — CC Antya 10.67; the Kazi argues from
       the Quran (CC Adi 17.155–156), as does a Pathan scholar (CC Madhya 18.187–202); the brothers' Persian titles —
-      *Dabir Khas*, *Sakar Mallik* (CC Madhya 1.175; CB Antya 9.239–273); the Muslim jailer is called *jinda-pir*
-      (CC Madhya 20.5). Sanskrit is the language of the tols, scriptures and learned debate (mc-tol-school). Hindi /
-      Braj of travellers — by indirect evidence (the Rajput Krishnadasa, the Sanodiya brahmin — CC Madhya 18).
+      *Dabir Khas*, *Sakar Mallik* (CC Madhya 1.175; CB Antya 9.239–273); the Muslim jailer is called *jinda-pir* (CC
+      Madhya 20.5). Sanskrit is the language of the tols, scriptures and learned debate (mc-tol-school). Hindi / Braj
+      of travellers — by indirect evidence (the Rajput Krishnadasa, the Sanodiya brahmin — CC Madhya 18). Period: Ma
+      Huan (1433) — Bengali is the common tongue, some speak Persian; Ain-i Akbari — Bengalis do not understand the
+      language of Orissa.
   text:
     ru: >-
       Дома и на базаре в Навадвипе говорят по-бенгальски, но бенгальский неоднороден: выходцы с востока, из Шрихатты и
@@ -461,7 +468,8 @@
   hagiography: ["ЧЧ Ади 13.107", "Лочан, Сутра-кханда, ч. 1, ст. 81", "Лочан, Ади-кханда, ч. 9, ст. 710",
                 "ЧЧ Антья 10.67", "ЧЧ Ади 17.155–156", "ЧЧ Мадхья 18.187–202", "ЧЧ Мадхья 1.175",
                 "ЧБ Антья 9.239–273", "ЧЧ Мадхья 20.5"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 437",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126"]
   images: []
   game: {model: "озвучка: бенгальский (запад/восток), санскритные шлоки, ория, персидский при дворе",
          where: ["navadvipa/lane", "ganga-ghat"], notes: "диалектный юмор Нимая — реплики NPC"}
@@ -733,16 +741,24 @@
       незнакомца обвиняют в шпионаже и казнят», переправа тайно ночью — ЧБ Антья 2.95–102; султан идёт войной на
       Ориссу, Санатана отказывается — ЧЧ Мадхья 19.24–30; граница при возвращении Господа (1514–15): орисский
       наместник, «мусульманский правитель-пьяница» до Пичхалады, шпион-индус, перемирие, условие «прийти безоружным,
-      не более семи слуг», десять сторожевых судов против разбойников, опасная река Мантрешвар — ЧЧ Мадхья
-      16.156–200. Катак — столица Пратапарудры (ЧЧ Мадхья 12.5). Сам султан — mc-sultan-gauda.
+      не более семи слуг», десять сторожевых судов против разбойников, опасная река Мантрешвар — ЧЧ Мадхья 16.156–200.
+      Катак — столица Пратапарудры (ЧЧ Мадхья 12.5). Сам султан — mc-sultan-gauda. Внежитийно: Барбоза (ок. 1516) —
+      царь Ориссы иногда воюет с Бенгалией; «Мадала-панджи» по Стерлингу (1825): пока Пратапарудра воевал на юге,
+      «афганцы из Бенгалии» дошли до Катака и Пури, жрецы увезли Шри Джиу на лодках через озеро Чилика и спрятали в
+      горах; царь вернулся, разбил врага, но заключил мир почти на его условиях (⚠ даты Стерлинга устарели). Конец
+      независимой Ориссы ок. 1568 — Федеричи (1569).
     en: >-
       'The two kingdoms are on the brink of war' — CB Antya 2.11–13; Ramachandra Khan: 'the king's men have planted
       sharp spikes on the roads; a stranger is accused of spying and executed', a secret night crossing — CB Antya
       2.95–102; the Sultan makes war on Orissa, Sanatana refuses — CC Madhya 19.24–30; the border on the Lord's return
       (1514–15): the Orissan governor, 'the drunken Muslim ruler' as far as Pichhalada, a Hindu spy, a truce, the
       condition 'come unarmed with no more than seven servants', ten guard boats against robbers, the dangerous
-      Mantreshvara river — CC Madhya 16.156–200. Cuttack — Prataparudra's capital (CC Madhya 12.5). The Sultan himself —
-      mc-sultan-gauda.
+      Mantreshvara river — CC Madhya 16.156–200. Cuttack — Prataparudra's capital (CC Madhya 12.5). The Sultan himself
+      — mc-sultan-gauda. Outside the hagiographies: Barbosa (c. 1516) — the king of Orissa is at times at war with
+      Bengal; the Madala Panji after Stirling (1825): while Prataparudra fought in the south, 'Afghans from Bengal'
+      reached Cuttack and Puri, the priests took Sri Jiu by boat across Lake Chilika and hid Him in the hills; the
+      king returned, defeated the enemy, yet made peace almost on its terms (⚠ Stirling's dates are outdated). The end
+      of independent Orissa c. 1568 — Federici (1569).
   text:
     ru: >-
       Все годы жизни Господа в Пури между мусульманской Гаудой и индусской Ориссой шла то война, то настороженный мир.
@@ -762,13 +778,15 @@
       gave way before kirtan.
   hagiography: ["ЧБ Антья 2.11–13", "ЧБ Антья 2.95–102", "ЧЧ Мадхья 19.24–30", "ЧЧ Мадхья 16.156–200",
                 "ЧЧ Мадхья 12.5"]
-  sources: []
+  sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 177–178",
+            "Stirling, Account of Orissa, Asiatic Researches XV (1825), с. 122–123",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410"]
   images: []
   game: {model: "застава: бамбуковый частокол, навес, заострённые колья у дороги; украшенное судно с каютой",
          where: ["travel/orissa-border"], notes: "сюжетный уровень «переход границы» ночью"}
-  todo: "Хронология войн Хуссейн-шаха с Ориссой (ок. 1508–1515) — по PD (Stewart 1813, Hunter Orissa 1872) для раздела 13."
 
 # ── Земледелие и промыслы ───────────────────────────────────────────────────────────────────────────────
+  todo: "хронология походов Хусейн-шаха на Ориссу (ок. 1508–1515) — сверить Стерлинга с Hunter, Orissa 1872"
 
 - id: mc-rice-year
   title: {ru: "Рисовый год: аус, аман, боро", en: "The rice year: aus, aman, boro"}
@@ -905,13 +923,14 @@
       рождение; астролог, повторяя Гопала-мантру, видит в медитации Самого Господа — ЧБ Ади 12.153–171, ЧЧ Ади
       17.103–112. Выбор благоприятного дня и мухурты для обрядов — ЧБ Ади 6.2 (начало учёбы), 10.79, 10.90, 15.73,
       15.103 (свадьба: адхиваса в сумерки), ЧЧ Ади 14.18 (имянаречение), ЧБ Ади 14.155 (выход в путь). Гороскоп
-      Ниламбары — mc-horoscope.
+      Ниламбары — mc-horoscope. Эпоха: Ма Хуань (1433) — среди жителей Бенгалии гадатели и геоманты.
     en: >-
       Nimai comes to an astrologer, a *sarvajna*, 'knower of past, present and future', and asks him to name His
       previous birth; repeating the Gopala mantra, the astrologer sees the Lord Himself in meditation — CB Adi
       12.153–171, CC Adi 17.103–112. Choosing an auspicious day and muhurta for rites — CB Adi 6.2 (start of
       schooling), 10.79, 10.90, 15.73, 15.103 (wedding: adhivasa at dusk), CC Adi 14.18 (naming), CB Adi 14.155
-      (setting out on a journey). Nilambara's horoscope — mc-horoscope.
+      (setting out on a journey). Nilambara's horoscope — mc-horoscope. Period: Ma Huan (1433) — diviners and
+      geomancers among Bengal's people.
   text:
     ru: >-
       Ни одно важное дело — начало учёбы, свадьбу, выход в дальний путь — не начинают наугад: брахман-астролог по
@@ -930,7 +949,7 @@
       but knows that a devotee's destiny is decided not by a planet but by Krishna's will.
   hagiography: ["ЧБ Ади 12.153–171", "ЧЧ Ади 17.103–112", "ЧБ Ади 6.2", "ЧБ Ади 10.79", "ЧБ Ади 10.90",
                 "ЧБ Ади 15.73", "ЧБ Ади 15.103", "ЧЧ Ади 14.18", "ЧБ Ади 14.155"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 438"]
   images: []
   game: {model: "астролог на циновке: пальмовая рукопись-панджика, мел, доска с расчерченными домами гороскопа",
          where: ["navadvipa/lane"], notes: "NPC: «благой час» для квеста"}
@@ -1169,18 +1188,22 @@
   evidence_note:
     ru: >-
       Санатана льстит тюремщику: «ты — *джинда-пир*, живой святой, сведущ в Коране» — ЧЧ Мадхья 20.5; среди
-      всадников-патанов — человек в чёрной одежде, которого «простые люди называли святым», учёный в Коране, спорит
-      с Господом и становится Рамдасом — ЧЧ Мадхья 18.185–207; патаны после встречи «стали странствующими
-      аскетами — патана-вайшнавами» — 18.210–212. *Пир* — мусульманский святой, а также его гробница, место
-      паломничества; *факир* — араб. «бедный», нищенствующий дервиш, позднее и о индусских аскетах — HJ 1903, s.v.
-      PEER, FAKEER. Гробницы пиров в Бенгалии XVI в. — по житиям не засвидетельствованы (todo).
+      всадников-патанов — человек в чёрной одежде, которого «простые люди называли святым», учёный в Коране, спорит с
+      Господом и становится Рамдасом — ЧЧ Мадхья 18.185–207; патаны после встречи «стали странствующими аскетами —
+      патана-вайшнавами» — 18.210–212. *Пир* — мусульманский святой, а также его гробница, место паломничества;
+      *факир* — араб. «бедный», нищенствующий дервиш, позднее и о индусских аскетах — HJ 1903, s.v. PEER, FAKEER.
+      Гробницы пиров в Бенгалии XVI в. — по житиям не засвидетельствованы (todo). Эпоха: Мукундарам (ок. 1590) — на
+      рынке раздают *ширни* (сладкое подношение пиру); Ибн Баттута (1346) — к шейху Джалал ад-Дину приходили с дарами
+      и мусульмане, и индусы; султан велел перевозить факиров даром.
     en: >-
       Sanatana flatters the jailer: 'you are a *jinda-pir*, a living saint, learned in the Quran' — CC Madhya 20.5;
       among the Pathan horsemen is a man in black whom 'ordinary people called a saint', learned in the Quran, who
       argues with the Lord and becomes Ramadasa — CC Madhya 18.185–207; after the meeting the Pathans 'became
       wandering ascetics — Pathan Vaishnavas' — 18.210–212. *Pir* — a Muslim saint, also his tomb, a place of
       pilgrimage; *fakir* — Arabic 'poor', a mendicant dervish, later also of Hindu ascetics — HJ 1903, s.v. PEER,
-      FAKEER. Tombs of pirs in 16th-c. Bengal are not attested in the hagiographies (todo).
+      FAKEER. Tombs of pirs in 16th-c. Bengal are not attested in the hagiographies (todo). Period: Mukundaram (c.
+      1590) — *shirni* (a sweet offering to a pir) handed out at market; Ibn Battuta (1346) — both Muslims and Hindus
+      brought gifts to Shaikh Jalal al-Din; the sultan had fakirs ferried free.
   text:
     ru: >-
       У мусульман Бенгалии были свои святые: пир — наставник и чудотворец, к чьей гробнице после смерти ходят с
@@ -1198,7 +1221,9 @@
       Ramadasa. And Sanatana, persuading his Muslim jailer, calls him 'a living pir' — a sign of how highly that title
       was held.
   hagiography: ["ЧЧ Мадхья 20.5", "ЧЧ Мадхья 18.185–212"]
-  sources: ["Hobson-Jobson, 1903, s.v. PEER, FAKEER"]
+  sources: ["Hobson-Jobson, 1903, s.v. PEER, FAKEER",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54",
+            "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 87–88, 91"]
   images: []
   game: {model: "дервиш: чёрная или латаная накидка, чётки-тасбих, посох; небольшая гробница-даргах с покрывалом",
          where: ["travel/prayaga-road"], notes: "почтительно; см. mc-muslims-in-the-lilas, mc-muslim-dress"}
@@ -1212,16 +1237,18 @@
     ru: >-
       Спор Господа с Кази о забое коров: «корова — мать, бык — отец» (ЧЧ Ади 17.153–171); мусульманский чиновник в
       наказание три дня готовит говядину в дурга-мандапе Рамачандры Кхана — ЧЧ Антья 3.149–161; Рупа и Санатана о
-      себе: «общение с мясоедами-*млеччхами* сделало нас врагами коров и брахманической культуры» — ЧЧ Мадхья
-      1.197; Харидас «из семьи мясоедов» — ЧЧ Антья 11.30; мусульманин «был безжалостен к коровам, брахманам и
-      вайшнавам» — ЧЧ Мадхья 16.189. Общий обзор — mc-muslims-in-the-lilas; Кази — mc-kazi.
+      себе: «общение с мясоедами-*млеччхами* сделало нас врагами коров и брахманической культуры» — ЧЧ Мадхья 1.197;
+      Харидас «из семьи мясоедов» — ЧЧ Антья 11.30; мусульманин «был безжалостен к коровам, брахманам и вайшнавам» —
+      ЧЧ Мадхья 16.189. Общий обзор — mc-muslims-in-the-lilas; Кази — mc-kazi. Эпоха: Фэй Синь (1436) — «есть род
+      людей, называемых Инь-ду», они не едят говядины; на пиру в Пандуа говядины не подавали.
     en: >-
       The Lord's debate with the Kazi on cow-slaughter: 'the cow is mother, the bull father' (CC Adi 17.153–171); a
       Muslim official, as a punishment, cooks beef for three days in Ramachandra Khan's Durga-mandapa — CC Antya
       3.149–161; Rupa and Sanatana of themselves: 'association with meat-eating *mlecchas* made us enemies of cows and
-      brahminical culture' — CC Madhya 1.197; Haridasa 'from a family of meat-eaters' — CC Antya 11.30; the Muslim
-      who 'was merciless to cows, brahmins and Vaishnavas' — CC Madhya 16.189. General survey — mc-muslims-in-the-lilas;
-      the Kazi — mc-kazi.
+      brahminical culture' — CC Madhya 1.197; Haridasa 'from a family of meat-eaters' — CC Antya 11.30; the Muslim who
+      'was merciless to cows, brahmins and Vaishnavas' — CC Madhya 16.189. General survey — mc-muslims-in-the-lilas;
+      the Kazi — mc-kazi. Period: Fei Xin (1436) — 'there is a class of people called Yin-du' who do not eat beef; no
+      beef was served at the Pandua banquet.
   text:
     ru: >-
       Главная бытовая граница между индусами и мусульманами Бенгалии проходила через кухню и коровник. Для индуса
@@ -1241,7 +1268,7 @@
       Himself, crying 'Haribol!', pours sand over his body with His own hands on the ocean shore.
   hagiography: ["ЧЧ Ади 17.153–171", "ЧЧ Антья 3.149–161", "ЧЧ Мадхья 1.197", "ЧЧ Антья 11.30", "ЧЧ Мадхья 16.189",
                 "ЧЧ Антья 11.59–69"]
-  sources: []
+  sources: ["Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
   images: []
   game: {model: "без визуализации насилия; тема — в диалогах NPC и кодексе", where: ["navadvipa/lane"],
          notes: "тон спокойный, без вражды; см. mc-cowshed"}
