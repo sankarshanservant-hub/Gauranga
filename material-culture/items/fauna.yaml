@@ -364,7 +364,9 @@
                 "Карнапура, сарга 9.83, 9.94"]
   sources: []
   images: []
-  audio: []
+  audio:
+    - {file: "material-culture/audio/common-mynas-evening-roost-delhi.ogg", license: "PD", author: "Piotrek Zyla (radio aporee)",
+       url: "https://archive.org/details/aporee_51429_58684"}
   game: {model: "кольчатый попугай 40 см (зелёный, красный клюв); майна 23 см (бурая, жёлтые клюв и кожа у глаза); бамбуковая клетка",
          where: ["mishra-house/courtyard", "puri/garden"],
          notes: "говорящая птица в клетке — интерактивный предмет (повторяет имя); держали ли птиц в доме Мишры — не засвидетельствовано"}

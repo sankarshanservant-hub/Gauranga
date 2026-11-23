@@ -12,6 +12,9 @@
 | summer-storm-rain-kolkata.ogg | летняя гроза с ливнем (предмуссонная буря) | Читтаранджан-колони, Калькутта, 20.05.2020 | Sukanta Majumdar (radio aporee) | Public Domain Mark 1.0 | https://archive.org/details/aporee_55111_63012 | фрагмент 200–290 с; ⚠ микрофон под жестяным навесом (стук по жести — поздняя реалия), возможен городской фон — проверить на слух |
 | bay-of-bengal-surf-coxs-bazar.ogg | прибой Бенгальского залива (как у Пури) | пляж Кокс-Базар, Бангладеш, 11.06.2019, 17:27 | Sukanta Majumdar (radio aporee) | Public Domain Mark 1.0 | https://archive.org/details/aporee_55131_63018 | фрагмент 40–130 с |
 | evening-crickets-frog-sea-roar-coxs-bazar.ogg | сверчки и лягушка вечером во дворе, фоном гул моря | двор дома у моря, Кокс-Базар, 11.06.2019, 19:08 | Sukanta Majumdar (radio aporee) | Public Domain Mark 1.0 | https://archive.org/details/aporee_55132_63019 | фрагмент 40–130 с |
+| ganga-morning-bath-ghat-varanasi.ogg | утреннее омовение в Ганге у гхата: плеск, голоса | Варанаси, гхаты, 15.03.2013, 6:30 | antonixfelinski (radio aporee) | Public Domain Mark 1.0 | https://archive.org/details/aporee_5155_59723 | 0–105 с из 108 с; ⚠ возможен современный фон (лодочные моторы?) — проверить на слух |
+| common-mynas-evening-roost-delhi.ogg | майны (*Acridotheres tristis*) и др. птицы на вечернем ночлеге | Моти-Багх, Нью-Дели, 12.01.2016, 19:49 | Piotrek Zyla (radio aporee) | Public Domain Mark 1.0 | https://archive.org/details/aporee_51429_58684 | фрагмент 30–120 с; ⚠ городской фон — проверить |
+| vrindavan-night-temple-roof.ogg | ночь во Вриндаване с крыши храма (Радха-Раман) | Кеши-гхат, Вриндаван, 4.03.1996, 22:30 | sam auinger (radio aporee) | CC BY-SA 3.0 | https://archive.org/details/aporee_53081_60661 | фрагмент 60–150 с (производная — тоже CC BY-SA 3.0) |
 
 ## Где искать дальше
 - **radio aporee ::: maps** (зеркало на archive.org, идентификаторы `aporee_*`, лицензия обычно Public Domain Mark): поиск
@@ -23,3 +26,8 @@
 ## Тупики и ссылки без скачивания
 - xeno-canto: API v2 отключён, API v3 требует ключ (401). Многие записи xeno-canto зеркалированы на Commons с
   лицензией CC BY-SA (файлы `…XC123456.mp3`) — брать оттуда, проверяя лицензию.
+
+## Предложения к чужим карточкам
+- `mc-pond-and-ghat`, `mc-ganga-puja`, `mc-ganga-boyhood` — `audio/ganga-morning-bath-ghat-varanasi.ogg` (PD).
+- `mc-monsoon` (body) — `audio/monsoon-night-pond-frogs-crickets-bankura.ogg` (PD).
+- карточки Вриндавана (Имли-тала и др.) — `audio/vrindavan-night-temple-roof.ogg` (CC BY-SA 3.0, sam auinger).
