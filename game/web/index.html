@@ -114,6 +114,7 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 <script type="module">
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { clone as skelClone } from 'three/addons/utils/SkeletonUtils.js';
 
 const AUTOPLAY = /autoplay/.test(location.search) || location.hash === '#autoplay';
 const $ = (id) => document.getElementById(id);
@@ -256,63 +257,101 @@ function findPath(from, to) {
   return out.length ? out : [cellPos(g)];
 }
 
-// ---------------------------------------------------------------- фигуры (условные манекены серого уровня)
+// ---------------------------------------------------------------- персонажи: Y Bot (Mixamo) + одежда на костях
+const ybot = await loadProxy('chars/ybot.json');
+// анимации: убрать масштаб (чтобы голова ребёнка оставалась крупной) и смещение корня у ходьбы/бега («на месте»)
+const INPLACE = new Set(['walk', 'oldwalk', 'run', 'run2', 'carry', 'joyjump', 'rumba', 'victory']);
+const CLIPS = {};
+for (const c of ybot.animations) {
+  c.tracks = c.tracks.filter((t) => !t.name.endsWith('.scale'));
+  if (INPLACE.has(c.name)) for (const t of c.tracks) if (/Hips\.position$/.test(t.name)) {
+    const v = t.values, x0 = v[0], z0 = v[2]; for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 2] = z0; } }
+  CLIPS[c.name] = c;
+}
+// поза игры -> клип Mixamo [клип, повтор, скорость]
+const POSE = {
+  idle: ['idle', true, 1], walk: ['walk', true, 1], run: ['run', true, 1.1], sit: ['sit', true, 1], meditate: ['pray15', true, 0.6],
+  cook: ['sit', true, 1], eat: ['pickup', true, 1.2], sleep: ['sleep', true, 0.5], lie: ['laysleep', true, 0.5], faint: ['faint', false, 1],
+  dance: ['victory', true, 1], grief: ['kneel', false, 1], bow: ['bow', false, 1], angry: ['angry', true, 1], carry: ['carry', true, 1],
+  plead: ['plead', true, 1], float: ['idle2', true, 0.6], talk: ['talk', true, 1], joy: ['joyjump', true, 1],
+};
+// рост модели — по костям (макушка — носок), рамка скелетной сетки здесь ненадёжна
+ybot.scene.updateMatrixWorld(true);
+const boneY = (n) => { let y = null; ybot.scene.traverse((o) => { if (o.isBone && o.name.endsWith(n)) y = o.getWorldPosition(new THREE.Vector3()).y; }); return y; };
+const YBOT_H = boneY('HeadTop_End') - Math.min(boneY('LeftToe_End') ?? 0, boneY('LeftFoot') ?? 0) + 0.02;
 const lerp = (a, b, t) => a + (b - a) * t;
 const lerpAngle = (a, b, t) => { let d = ((b - a + Math.PI) % (2 * Math.PI)) - Math.PI; if (d < -Math.PI) d += 2 * Math.PI; return a + d * t; };
 class Figure {
   constructor(spec) {
     this.id = spec.id; this.name = spec.name; this.h = spec.height ?? 1.65; this.speed = spec.speed ?? 1.6;
-    this.celestial = !!spec.celestial; this.pose = 'idle'; this.path = []; this.t = Math.random() * 10; this.yaw = 0; this.carried = false;
-    this.mats = []; this.resolve = null;
+    this.celestial = !!spec.celestial; this._pose = ''; this.path = []; this.yaw = 0; this.carried = false; this.resolve = null; this.mats = [];
     const alpha = spec.alpha ?? 1, glow = spec.glow ?? 0;
-    const mk = (hex, g = 0) => { const m = new THREE.MeshStandardMaterial({ color: hex, roughness: 0.85, transparent: alpha < 1, opacity: alpha });
+    const mk = (hex, g = 0) => { const m = new THREE.MeshStandardMaterial({ color: hex, roughness: 0.8, transparent: alpha < 1, opacity: alpha });
       if (g > 0) { m.emissive = new THREE.Color(hex); m.emissiveIntensity = g; } this.mats.push(m); return m; };
-    const skin = mk(spec.skin ?? '#b5835a', glow), cloth = mk(spec.cloth ?? '#efe8d8', glow * .5), cloth2 = mk(spec.cloth2 ?? '#efe8d8', glow * .5);
-    const border = mk(spec.border ?? '#9b1c12'), hair = mk(spec.hair ?? '#1c140e');
     this.root = new THREE.Group(); this.body = new THREE.Group(); this.root.add(this.body);
-    this.body.scale.setScalar(this.h / 1.65);
-    const part = (parent, geo, mat, pos = [0, 0, 0], rot = [0, 0, 0]) => { const m = new THREE.Mesh(geo, mat); m.position.set(...pos); m.rotation.set(...rot); parent.add(m); return m; };
-    const cap = (r, h) => new THREE.CapsuleGeometry(r, Math.max(h - 2 * r, 0.01), 4, 10);
-    const cyl = (rt, rb, h) => new THREE.CylinderGeometry(rt, rb, h, 14);
-    const sph = (r) => new THREE.SphereGeometry(r, 14, 10);
-    const box = (x, y, z) => new THREE.BoxGeometry(x, y, z);
-    // тень-пятно
-    const sh = new THREE.Mesh(new THREE.CircleGeometry(0.4, 24), new THREE.MeshBasicMaterial({ color: 0, transparent: true, opacity: alpha < 1 ? 0.12 : 0.35, depthWrite: false }));
-    sh.rotation.x = -Math.PI / 2; sh.position.y = 0.02; this.body.add(sh);
-    this.hips = new THREE.Group(); this.hips.position.y = 0.86; this.body.add(this.hips);
-    this.legL = new THREE.Group(); this.legL.position.x = -0.09; this.legR = new THREE.Group(); this.legR.position.x = 0.09;
-    this.hips.add(this.legL, this.legR);
-    for (const l of [this.legL, this.legR]) part(l, cap(0.065, 0.86), skin, [0, -0.42, 0]);
+    const model = skelClone(ybot.scene);
+    const s = this.h / YBOT_H * (spec.child ? 1.12 : 1);
+    model.scale.multiplyScalar(s);
+    this.body.add(model); this.model = model;
+    const skin = mk(spec.skin ?? '#b5835a', glow * 0.6), joint = mk(new THREE.Color(spec.skin ?? '#b5835a').multiplyScalar(0.72).getHex(), glow * 0.4);
+    model.traverse((o) => { if (o.isSkinnedMesh) { o.material = /Joints/.test(o.name) ? joint : skin; o.frustumCulled = false; } });
+    this.bones = {}; model.traverse((o) => { if (o.isBone) this.bones[o.name.replace(/^mixamorig:?/, '')] = o; });
+    if (spec.child) { this.bones.Head.scale.setScalar(1.45); }
+    this.mixer = new THREE.AnimationMixer(model); this.actions = {};
+    // одежда: жёсткие детали, прикреплённые к костям (позиции в мировых координатах позы покоя)
+    model.updateMatrixWorld(true);
+    const wp = (n) => this.bones[n].getWorldPosition(new THREE.Vector3());
+    const hips = wp('Hips'), knee = wp('LeftLeg'), ankle = wp('LeftFoot'), chest = wp('Spine2'), head = wp('Head'), neck = wp('Neck');
+    const hu = this.h / 1.65;
+    const put = (bone, geo, mat, pos, rot = [0, 0, 0]) => { const m = new THREE.Mesh(geo, mat); m.position.copy(pos); m.rotation.set(...rot);
+      this.body.add(m); m.updateMatrixWorld(true); this.bones[bone].attach(m); return m; };
+    const cloth = mk(spec.cloth ?? '#efe8d8', glow * 0.4), cloth2 = mk(spec.cloth2 ?? '#efe8d8', glow * 0.4), border = mk(spec.border ?? '#9b1c12'), hair = mk(spec.hair ?? '#1c140e');
     const dress = spec.dress ?? 'dhoti';
-    if (dress === 'dhoti') part(this.hips, cyl(0.17, 0.21, 0.5), cloth, [0, -0.2, 0]);
-    if (dress === 'sari') { part(this.hips, cyl(0.17, 0.27, 0.84), cloth, [0, -0.4, 0]); part(this.hips, cyl(0.272, 0.275, 0.07), border, [0, -0.79, 0]); }
-    this.upper = new THREE.Group(); this.hips.add(this.upper);
-    part(this.upper, cap(0.16, 0.62), dress === 'sari' ? cloth : skin, [0, 0.27, 0]);
-    if (dress === 'sari') part(this.upper, box(0.36, 0.08, 0.34), cloth, [0, 0.33, 0], [0, 0, 0.75]);
-    if (spec.uttariya) part(this.upper, box(0.38, 0.06, 0.33), cloth2, [0, 0.33, 0], [0, 0, -0.8]);
-    if (spec.thread) part(this.upper, box(0.42, 0.012, 0.335), mk('#f4f0e0'), [0, 0.3, 0], [0, 0, -0.9]);
-    if (spec.pendant) part(this.upper, sph(0.035), mk('#e8b84a', 2), [0, 0.36, 0.16]);
-    this.armL = new THREE.Group(); this.armL.position.set(-0.2, 0.5, 0); this.armR = new THREE.Group(); this.armR.position.set(0.2, 0.5, 0);
-    this.upper.add(this.armL, this.armR);
-    for (const a of [this.armL, this.armR]) part(a, cap(0.048, 0.6), skin, [0, -0.28, 0]);
-    this.head = new THREE.Group(); this.head.position.y = 0.72; this.upper.add(this.head);
-    this.head.scale.setScalar(spec.child ? 1.35 : 1);
-    part(this.head, sph(0.11), skin);
+    if (dress === 'dhoti') { const h = hips.y - knee.y + 0.08 * hu;
+      put('Hips', new THREE.CylinderGeometry(0.16 * hu, 0.2 * hu, h, 16, 1, true), cloth, new THREE.Vector3(0, hips.y - h / 2 + 0.06 * hu, 0)); }
+    if (dress === 'sari') { const h = hips.y - ankle.y + 0.02;
+      put('Hips', new THREE.CylinderGeometry(0.17 * hu, 0.27 * hu, h, 18, 1, true), cloth, new THREE.Vector3(0, hips.y - h / 2 + 0.06 * hu, 0));
+      put('Hips', new THREE.CylinderGeometry(0.271 * hu, 0.275 * hu, 0.07 * hu, 18, 1, true), border, new THREE.Vector3(0, ankle.y + 0.06 * hu, 0));
+      put('Spine2', new THREE.BoxGeometry(0.34 * hu, 0.42 * hu, 0.3 * hu), cloth, new THREE.Vector3(0, chest.y - 0.02 * hu, 0.01), [0, 0, 0.55]); }
+    if (spec.uttariya) put('Spine2', new THREE.BoxGeometry(0.1 * hu, 0.5 * hu, 0.3 * hu), cloth2, new THREE.Vector3(0.02, chest.y - 0.02 * hu, 0), [0, 0, -0.75]);
+    if (spec.thread) put('Spine2', new THREE.BoxGeometry(0.012, 0.5 * hu, 0.29 * hu), mk('#f4f0e0'), new THREE.Vector3(0, chest.y - 0.05 * hu, 0.005), [0, 0, -0.85]);
+    if (spec.pendant) put('Spine2', new THREE.SphereGeometry(0.035 * hu, 12, 8), mk('#e8b84a', 2), new THREE.Vector3(0, neck.y - 0.12 * hu, 0.13 * hu));
+    const hr = 0.115 * hu * (spec.child ? 1.45 : 1), hc = head.clone().add(new THREE.Vector3(0, hr * 0.9, 0));
     const hs = spec.hair_style ?? 'shikha';
-    if (hs === 'shikha') part(this.head, sph(0.03), hair, [0, 0.1, -0.05]);
-    if (hs === 'veil') part(this.head, sph(0.122), cloth, [0, 0.02, -0.02]);
-    if (hs === 'curls') part(this.head, sph(0.112), hair, [0, 0.03, -0.03]);
-    if (hs === 'crown') part(this.head, cyl(0.06, 0.09, 0.12), mk('#e6c25a', 1), [0, 0.13, 0]);
-    if (spec.beard) part(this.head, box(0.13, 0.08, 0.06), hair, [0, -0.09, 0.07]);
-    if (spec.vina) { const vm = mk('#c99a4a', 0.8); part(this.upper, cyl(0.015, 0.015, 1.0), vm, [0.05, 0.3, -0.2], [0, 0, 0.5]);
-      part(this.upper, sph(0.09), vm, [0.28, -0.12, -0.22]); part(this.upper, sph(0.07), vm, [-0.18, 0.74, -0.2]); }
-    if (spec.halo) part(this.head, new THREE.TorusGeometry(0.17, 0.012, 8, 32), mk('#ffe8a0', 3), [0, 0.18, -0.02], [1.2, 0, 0]);
+    if (hs === 'shikha') put('Head', new THREE.SphereGeometry(0.03 * hu, 10, 8), hair, hc.clone().add(new THREE.Vector3(0, hr * 0.95, -hr * 0.45)));
+    if (hs === 'veil') put('Head', new THREE.SphereGeometry(hr * 1.12, 16, 12, 0, Math.PI * 2, 0, Math.PI * 0.62), cloth, hc.clone().add(new THREE.Vector3(0, 0.0, -0.01)), [-0.25, 0, 0]);
+    if (hs === 'curls') put('Head', new THREE.SphereGeometry(hr * 1.04, 14, 10, 0, Math.PI * 2, 0, Math.PI * 0.55), hair, hc.clone(), [-0.2, 0, 0]);
+    if (hs === 'crown') put('Head', new THREE.CylinderGeometry(0.06 * hu, 0.085 * hu, 0.12 * hu, 12), mk('#e6c25a', 1), hc.clone().add(new THREE.Vector3(0, hr * 0.95, 0)));
+    if (spec.beard) put('Head', new THREE.BoxGeometry(0.12 * hu, 0.1 * hu, 0.07 * hu), hair, hc.clone().add(new THREE.Vector3(0, -hr * 0.85, hr * 0.6)));
+    if (spec.vina) { const vm = mk('#c99a4a', 0.8);
+      put('Spine2', new THREE.CylinderGeometry(0.015, 0.015, 1.0 * hu, 8), vm, chest.clone().add(new THREE.Vector3(0.05, 0.1, -0.22 * hu)), [0, 0, 0.5]);
+      put('Spine2', new THREE.SphereGeometry(0.09 * hu, 12, 8), vm, chest.clone().add(new THREE.Vector3(0.27 * hu, -0.32 * hu, -0.22 * hu)));
+      put('Spine2', new THREE.SphereGeometry(0.07 * hu, 12, 8), vm, chest.clone().add(new THREE.Vector3(-0.2 * hu, 0.52 * hu, -0.22 * hu))); }
+    if (spec.halo) put('Head', new THREE.TorusGeometry(0.17 * hu, 0.012, 8, 32), mk('#ffe8a0', 3), hc.clone().add(new THREE.Vector3(0, hr * 0.7, -0.05)), [1.2, 0, 0]);
+    // тень-пятно
+    const sh = new THREE.Mesh(new THREE.CircleGeometry(0.4 * hu, 24), new THREE.MeshBasicMaterial({ color: 0, transparent: true, opacity: alpha < 1 ? 0.12 : 0.35, depthWrite: false }));
+    sh.rotation.x = -Math.PI / 2; sh.position.y = 0.02; this.root.add(sh);
+    this.pose = 'idle'; this.mixer.update(Math.random() * 2);
     this.root.visible = false;
+  }
+  get pose() { return this._pose; }
+  set pose(p) {
+    if (this.carrying && (p === 'walk' || p === 'idle')) p = 'carry';
+    if (p === this._pose) return;
+    this._pose = p;
+    const [name, loop, speed] = POSE[p] ?? POSE.idle;
+    const clip = CLIPS[name]; if (!clip) return;
+    const next = this.actions[name] ?? (this.actions[name] = this.mixer.clipAction(clip));
+    next.reset(); next.setLoop(loop ? THREE.LoopRepeat : THREE.LoopOnce, Infinity); next.clampWhenFinished = !loop;
+    next.timeScale = speed * (p === 'walk' || p === 'run' ? Math.max(0.6, this.speed / 1.6) : 1);
+    next.enabled = true; next.setEffectiveWeight(1);
+    if (this.current && this.current !== next) { next.crossFadeFrom(this.current, 0.3, false); }
+    next.play(); this.current = next;
   }
   addXray(hex, op) {   // силуэт сквозь кровли и стены
     const mat = new THREE.MeshBasicMaterial({ color: hex, transparent: true, opacity: op, depthTest: false, depthWrite: false });
-    const meshes = []; this.body.traverse((o) => { if (o.isMesh && o.geometry.type !== 'CircleGeometry') meshes.push(o); });
-    for (const m of meshes) { const c = new THREE.Mesh(m.geometry, mat); c.renderOrder = 10; m.add(c); }
+    const list = []; this.model.traverse((o) => { if (o.isSkinnedMesh) list.push(o); });
+    for (const m of list) { const c = new THREE.SkinnedMesh(m.geometry, mat); c.bind(m.skeleton, m.bindMatrix); c.renderOrder = 10; c.frustumCulled = false; m.parent.add(c); }
   }
   get pos() { return this.root.position; }
   faceTo(p) { const d = new THREE.Vector3().subVectors(p, this.root.getWorldPosition(new THREE.Vector3())); if (d.x * d.x + d.z * d.z > 1e-4) this.yaw = Math.atan2(d.x, d.z); }
@@ -331,38 +370,9 @@ class Figure {
       else { const st = Math.min(sp * dt, L); this.pos.addScaledVector(d.normalize(), st); this.pos.y = lerp(this.pos.y, tgt.y, Math.min(dt * 8, 1)); this.yaw = Math.atan2(d.x, d.z); }
     }
     if (!this.carried) this.body.rotation.y = lerpAngle(this.body.rotation.y, this.yaw, Math.min(dt * 10, 1));
-    this.anim(dt);
-  }
-  anim(dt) {
-    this.t += dt; const t = this.t;
-    let hipY = 0.86, leg = 0, aL = [0, 0, -0.08], aR = [0, 0, 0.08], upX = 0, rz = 0, ry = 0;
-    switch (this.pose) {
-      case 'idle': aL = [0, 0, -0.08 + 0.02 * Math.sin(t * 1.5)]; aR = [0, 0, 0.08 - 0.02 * Math.sin(t * 1.5)]; break;
-      case 'walk': case 'run': { const f = this.pose === 'walk' ? 7 : 11, a = this.pose === 'walk' ? 0.5 : 0.8;
-        leg = Math.sin(t * f) * a; aL = [-Math.sin(t * f) * a * 0.8, 0, -0.08]; aR = [Math.sin(t * f) * a * 0.8, 0, 0.08]; ry = Math.abs(Math.sin(t * f)) * 0.03; break; }
-      case 'sit': hipY = 0.18; aL = [-0.6, 0, -0.2]; aR = [-0.6, 0, 0.2]; break;
-      case 'meditate': hipY = 0.18; aL = [-0.9, 0, 0.35]; aR = [-0.9, 0, -0.35]; upX = 0.05; break;
-      case 'eat': aR = [-2.2 + 0.5 * Math.abs(Math.sin(t * 3)), 0, 0.15]; aL = [-0.3, 0, -0.1]; break;
-      case 'sleep': case 'lie': rz = Math.PI / 2; ry = 0.12; break;
-      case 'faint': rz = Math.PI / 2; ry = 0.12; aL = [-1.2, 0, -0.4]; aR = [-1.4, 0, 0.3]; break;
-      case 'dance': aL = [-2.8 + 0.25 * Math.sin(t * 5), 0, -0.25]; aR = [-2.8 - 0.25 * Math.sin(t * 5), 0, 0.25]; leg = Math.sin(t * 5) * 0.35; ry = Math.abs(Math.sin(t * 5)) * 0.06; upX = 0.08 * Math.sin(t * 2.5); break;
-      case 'grief': hipY = 0.18; aL = [-2.6, 0, 0.5]; aR = [-2.6, 0, -0.5]; upX = 0.6; break;
-      case 'bow': upX = 0.8; aL = [-1.2, 0, 0.3]; aR = [-1.2, 0, -0.3]; break;
-      case 'angry': aR = [-2.6 + 0.4 * Math.sin(t * 6), 0, 0.2]; aL = [-0.2, 0, -0.1]; break;
-      case 'plead': aL = [-1.3, 0, 0.25]; aR = [-1.3, 0, -0.25]; break;
-      case 'carry': aL = [-1.2, 0, 0.5]; aR = [-1.2, 0, -0.5]; break;
-      case 'float': ry = 0.35 + 0.08 * Math.sin(t * 1.3); aL = [-0.5, 0, -0.5 + 0.1 * Math.sin(t)]; aR = [-0.5, 0, 0.5 - 0.1 * Math.sin(t)]; break;
-    }
-    if (this.carrying && (this.pose === 'walk' || this.pose === 'idle')) { aL = [-1.2, 0, 0.5]; aR = [-1.2, 0, -0.5]; }
-    const k = Math.min(dt * 10, 1);
-    this.hips.position.y = lerp(this.hips.position.y, hipY, k);
-    const sitting = ['sit', 'meditate', 'grief'].includes(this.pose);
-    const sl = sitting ? [-1.45, 0, -0.6] : [leg, 0, 0], sr = sitting ? [-1.45, 0, 0.6] : [-leg, 0, 0];
-    const lr = (o, v) => { o.rotation.x = lerp(o.rotation.x, v[0], k); o.rotation.y = lerp(o.rotation.y, v[1], k); o.rotation.z = lerp(o.rotation.z, v[2], k); };
-    lr(this.legL, sl); lr(this.legR, sr); lr(this.armL, aL); lr(this.armR, aR);
-    this.upper.rotation.x = lerp(this.upper.rotation.x, upX, Math.min(dt * 8, 1));
-    this.body.rotation.z = lerp(this.body.rotation.z, rz, Math.min(dt * 6, 1));
-    this.body.position.y = lerp(this.body.position.y, ry, k);
+    const float = this.pose === 'float';
+    this.body.position.y = lerp(this.body.position.y, float ? 0.35 + 0.08 * Math.sin(performance.now() / 770) : 0, Math.min(dt * 6, 1));
+    this.mixer.update(dt);
   }
 }
 const figs = {};
@@ -581,20 +591,23 @@ async function step(s) {
   const f = figs[s.who];
   const off = s.offset ? new THREE.Vector3(...s.offset) : new THREE.Vector3();
   switch (s.do) {
-    case 'place': if (f.root.parent !== scene) { scene.attach(f.root); f.carried = false; }
+    case 'place': if (f.root.parent !== scene) { scene.attach(f.root); f.carried = false; f.root.scale.set(1, 1, 1); }
       f.stop(); f.pos.copy(spots[s.at]).add(off); f.root.rotation.set(0, 0, 0);
       placed[s.who] = true; f.root.visible = !f.celestial || celestial; break;
     case 'hide': f.root.visible = false; placed[s.who] = false; break;
     case 'pose': f.pose = s.pose; break;
     case 'face': f.faceTo(spotOrFig(s.to)); break;
     case 'walk': {
-      if (s.with && s.carry) { const c = figs[s.with]; c.carried = true; f.upper.add(c.root); c.root.position.set(0, 0.12, 0.28);
-        c.root.rotation.set(0, 0, 0); c.body.rotation.set(0, 0, 0); c.pose = 'sit'; f.carrying = true; }
+      if (s.with && s.carry) { const c = figs[s.with]; c.carried = true; f.carrying = true; f.pose = 'carry';
+        const fw = new THREE.Vector3(Math.sin(f.yaw), 0, Math.cos(f.yaw));
+        c.pos.copy(f.pos).addScaledVector(fw, 0.3).add(new THREE.Vector3(0, f.h * 0.42, 0)); c.root.rotation.set(0, 0, 0); c.body.rotation.y = f.yaw;
+        c.root.updateMatrixWorld(true); f.bones.Spine1.attach(c.root); c.pose = 'sit'; }
       const p = f.walk(findPath(f.pos, spots[s.to].clone().add(off)), !!s.run);
       if (!s.nowait) await p; break; }
-    case 'drop': { const by = figs[s.by]; scene.attach(f.root); f.carried = false; by.carrying = false;
+    case 'drop': { const by = figs[s.by]; scene.attach(f.root); f.carried = false; by.carrying = false; by.pose = 'idle';
       f.pos.copy(nearest(by.pos.clone().add(off))); f.root.rotation.set(0, 0, 0); f.pose = 'idle'; break; }
-    case 'say': await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who)); break;
+    case 'say': { const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
+      await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who)); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
     case 'narrate': await ui.say('Шри Чайтанья-бхагавата', s.text, s.ref ?? '', '#8a6a2a', true); break;
     case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true); break;
     case 'hint': ui.hint(s.text); break;
