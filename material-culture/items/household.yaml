@@ -273,3 +273,147 @@
   game: {model: "низкая (1,5 м) дверь из досок на деревянных шипах-петлях, засов-брус изнутри, верёвочная петля снаружи",
          where: ["mishra-house/main-hut", "navadvipa/shrivasa-house", "puri/gambhira"]}
   todo: "были ли у бенгальцев эпохи металлические висячие замки (тала) — проверить по мангала-кавьям"
+
+- id: mc-poor-brahmin-life
+  title: {ru: "Достаток бедного брахмана", en: "The means of a poor brahmin"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мишра и Шачи «были бедны» — ЧБ Ади 4.83; бедняк без достойного подарка — ЧБ Ади 3.30; Мишра раздаёт всё
+      полученное на празднике рождения — ЧЧ Ади 13.109; Шривас не ходит за подаянием и живёт тем, что приходит само,
+      «три хлопка» — ЧБ Антья 5.40–54; Шачи не знает, чем кормить гостей, — ЧБ Ади 14.16–17; «Я лишь нищий брахман» —
+      ЧЧ Мадхья 3.82, 3.86 (Адвайта в шутку). Источники дохода брахмана (дары, обряды, ученики) — обобщение.
+    en: >-
+      Mishra and Shachi 'were poor' — CB Adi 4.83; a poor man with no fit gift — CB Adi 3.30; Mishra gives away all he
+      received at the birth festival — CC Adi 13.109; Shrivasa does not go begging and lives on what comes of itself,
+      'three claps' — CB Antya 5.40–54; Shachi does not know how to feed the guests — CB Adi 14.16–17; 'I am only a
+      beggar brahmin' — CC Madhya 3.82, 3.86 (Advaita in jest). A brahmin's sources of income (gifts, rites, pupils)
+      are a generalisation.
+  text:
+    ru: >-
+      Учёный брахман Навадвипы не пахал и не торговал: он жил дарами за обряды, платой учеников и подношениями
+      благочестивых людей. Дом Джаганнатхи Мишры был беден — несколько хижин, коровы, медная и глиняная посуда, — и
+      всё, что дарили на празднике рождения Нимая, Мишра тут же раздал брахманам и певцам. Шривас Пандит вовсе не
+      ходил за подаянием и, когда Господь спросил, чем он кормит большую семью, трижды хлопнул в ладоши: если три дня
+      ничего не придёт — привяжу к шее горшок и брошусь в Гангу. Господь ответил, что скорее Лакшми пойдёт
+      побираться, чем бедность коснётся его дома.
+    en: >-
+      A learned brahmin of Navadvipa neither ploughed nor traded: he lived on gifts for rites, his pupils' fees and the
+      offerings of pious people. Jagannatha Mishra's house was poor — a few huts, cows, copper and clay vessels — and
+      everything given at Nimai's birth festival Mishra at once gave away to brahmins and singers. Shrivasa Pandita
+      did not go begging at all, and when the Lord asked how he fed his large family, he clapped his hands three
+      times: if nothing comes in three days, I will tie a pot to my neck and throw myself into the Ganga. The Lord
+      answered that Lakshmi herself would go begging before poverty touched his house.
+  hagiography: ["ЧБ Ади 4.83", "ЧБ Ади 3.30", "ЧЧ Ади 13.109", "ЧБ Антья 5.40–54", "ЧБ Ади 14.14–17", "ЧЧ Мадхья 3.82–86"]
+  sources: []
+  images: []
+  game: {model: "дом Мишры: 3–4 хижины, 1–2 коровы, глиняная и немного медной посуды, циновки; без металлических сундуков",
+         where: ["mishra-house/courtyard"], notes: "о бедном торговце листьями — карточка mc-shridhar-hut"}
+
+- id: mc-wealthy-householder
+  title: {ru: "Зажиточный дом: Буддхиманта Кхан и Шивананда Сен", en: "A prosperous house: Buddhimanta Khan and Shivananda Sena"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Буддхиманта Кхан берёт на себя все расходы на вторую свадьбу Господа, «достойную сына царя», приносит роскошный
+      паланкин — ЧБ Ади 15.69–72, 15.137; шьёт облачения для спектакля — ЧБ Мадхья 18.7–16. Шивананда Сен оплачивает
+      пошлины и ночлег всего каравана, у него слуги и три сына — ЧЧ Мадхья 16.19, 16.26, Антья 1.15–25, 12.15, Ади
+      10.61–62; Господь обещает прийти к нему гостем — ЧЧ Антья 2.42.
+    en: >-
+      Buddhimanta Khan takes on all the costs of the Lord's second wedding, 'worthy of a king's son', and brings a
+      splendid palanquin — CB Adi 15.69–72, 15.137; he has costumes made for the drama — CB Madhya 18.7–16. Shivananda
+      Sena pays the tolls and lodging of the whole caravan and has servants and three sons — CC Madhya 16.19, 16.26,
+      Antya 1.15–25, 12.15, Adi 10.61–62; the Lord promises to come to his house as a guest — CC Antya 2.42.
+  text:
+    ru: >-
+      Между бедным брахманом и знатью стояли зажиточные домохозяева — землевладельцы, лекари, писцы на службе. Буддхиманта
+      Кхан из Навадвипы взял на себя все расходы на вторую свадьбу Нимая и сказал: это будет не скромная брахманская
+      свадьба, а свадьба, достойная царского сына, — с огромным навесом, музыкантами, светильниками и роскошным
+      паланкином. Шивананда Сен из Кумарахатты держал слуг, каждый год вёл в Пури сотни паломников, платил за них
+      пошлины, кормил в пути и находил ночлег. Такое богатство вайшнавы считали не своим, а предназначенным для
+      служения.
+    en: >-
+      Between the poor brahmin and the nobility stood prosperous householders — landholders, physicians, scribes in
+      service. Buddhimanta Khan of Navadvipa took on the whole cost of Nimai's second wedding and said: this will not be
+      a modest brahmin wedding but one worthy of a king's son — with a huge canopy, musicians, lamps and a splendid
+      palanquin. Shivananda Sena of Kumarahatta kept servants, every year led hundreds of pilgrims to Puri, paid their
+      tolls, fed them on the road and found them lodging. Vaishnavas regarded such wealth not as their own but as meant
+      for service.
+  hagiography: ["ЧБ Ади 15.69–72", "ЧБ Ади 15.137", "ЧБ Мадхья 18.7–16", "ЧЧ Мадхья 16.19", "ЧЧ Мадхья 16.26",
+                "ЧЧ Антья 1.15–25", "ЧЧ Антья 12.15", "ЧЧ Ади 10.61–62", "ЧЧ Антья 2.42"]
+  sources: ["Sen 1911, с. 610–611 (свадьба у Буддхиманты Кхана без пира, танцовщиц и приданого — по ЧБ) — через research/pd-texts.md"]
+  images: []
+  game: {model: "усадьба с двумя дворами, кирпичный тхакур-гхар, слуги, паланкин под навесом у ворот",
+         where: ["navadvipa/buddhimanta-house"]}
+
+- id: mc-landlord-estate
+  title: {ru: "Поместье Маджумдаров в Саптаграме", en: "The Majumdars' estate at Saptagram"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Хиранья собирает подати «двадцать лакхов» и отдаёт султану двенадцать (единица в оригинале не названа: *ба̄ра
+      лакш̣а дейа ра̄джа̄йа, са̄дхе биш́а лакш̣а*) — ЧЧ Антья 6.17–19; «богат, как Индра, жена — как апсара» — 6.39;
+      Рагхунатха ночует в дурга-мандапе под охраной — 6.155–156; сто монет и семь тол золота на праздник Нитьянанды —
+      6.146, 6.153; родители шлют в Пури 400 монет, двух слуг и повара-брахмана — 6.258–268; собрание учёных в доме
+      братьев — Антья 3.171–206. Sen 1911, с. 500 толкует сумму как рупии.
+    en: >-
+      Hiranya collects 'twenty lakhs' in revenue and passes twelve to the sultan (the unit is not named: bara laksha
+      deya rajaya, sadhe bisha laksha) — CC Antya 6.17–19; 'rich as Indra, his wife like an apsara' — 6.39; Raghunatha
+      sleeps in the Durga pavilion under guard — 6.155–156; a hundred coins and seven tolas of gold for Nityananda's
+      festival — 6.146, 6.153; the parents send 400 coins, two servants and a brahmin cook to Puri — 6.258–268; an
+      assembly of scholars in the brothers' house — Antya 3.171–206. Sen 1911, p. 500, takes the sum as rupees.
+  text:
+    ru: >-
+      Братья Хиранья и Говардхана Маджумдары из Саптаграма откупали у султана сбор податей с целой округи: собирали
+      двадцать лакхов, двенадцать отдавали в казну, остальное оставалось им. Их дом был полон слуг, у ворот стояла
+      охрана, в доме собирались учёные брахманы и звучали диспуты. Единственный наследник, Рагхунатха, был «богат, как
+      Индра», но рвался к Господу; родители приставили к нему стражу, и он спал во внешнем павильоне святилища Дурги,
+      пока однажды под утро не ушёл через лес. Даже в Пури родители посылали ему деньги, слуг и повара.
+    en: >-
+      The brothers Hiranya and Govardhana Majumdar of Saptagram farmed the collection of a whole district's revenue
+      from the sultan: they gathered twenty lakhs, paid twelve into the treasury and kept the rest. Their house was full
+      of servants, guards stood at the gates, learned brahmins gathered there and debates were held. The only heir,
+      Raghunatha, was 'rich as Indra' but longed for the Lord; his parents set guards on him, and he slept in the outer
+      pavilion of the Durga shrine until one dawn he slipped away through the forest. Even in Puri his parents sent him
+      money, servants and a cook.
+  hagiography: ["ЧЧ Антья 6.17–34", "ЧЧ Антья 6.39", "ЧЧ Антья 6.146–156", "ЧЧ Антья 6.163–176", "ЧЧ Антья 6.258–268",
+                "ЧЧ Антья 3.165–206"]
+  sources: ["Sen 1911, с. 500 (20 лакхов дохода, 12 — казне; Сен — «рупии»)"]
+  images: []
+  game: {model: "поместье: кирпичный дурга-мандап с колоннами, несколько дворов, стража у ворот, конюшня",
+         where: ["saptagram/majumdar-estate"], notes: "события — пуринский период Господа (после 1514 г.)"}
+
+- id: mc-govinda-servant
+  title: {ru: "Говинда — личный слуга Господа", en: "Govinda — the Lord's personal servant"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Говинда, слуга Ишвары Пури из шудр, по воле гуру приходит служить Господу — ЧЧ Мадхья 10.132–149; растирает
+      стопы, переступает через Господа, лежащего в дверях, но не ради себя — ЧЧ Антья 10.85–101; впускает преданных —
+      ЧБ Антья 9.196.
+    en: >-
+      Govinda, Ishvara Puri's shudra-born servant, comes to serve the Lord at his guru's wish — CC Madhya 10.132–149;
+      he massages the Lord's feet and steps over the Lord lying in the doorway, but not for his own sake — CC Antya
+      10.85–101; he lets devotees in — CB Antya 9.196.
+  text:
+    ru: >-
+      У санньяси нет дома и семьи, но в Пури у Господа был слуга — Говинда, родом из шудр, прежде служивший Ишваре
+      Пури. Он стоял у дверей, впускал гостей, принимал от преданных угощения, носил воду и растирал Господу стопы,
+      когда тот уставал после танца. Однажды Господь лёг поперёк дверного проёма; Говинда накрыл Его своей накидкой и
+      переступил, чтобы служить, — а поесть так и не пошёл, потому что ради себя переступать через Господа не
+      смел. Так в быту проявлялся этикет вайшнава-слуги.
+    en: >-
+      A sannyasi has no house or family, but in Puri the Lord had a servant — Govinda, born a shudra, who had served
+      Ishvara Puri before. He kept the door, let visitors in, received the devotees' food gifts, carried water and
+      massaged the Lord's feet when He was tired after dancing. Once the Lord lay across the doorway; Govinda covered
+      Him with his own cloth and stepped over to serve — but never went to eat, since he did not dare step over the Lord
+      for his own sake. Thus a Vaishnava servant's etiquette showed in daily life.
+  hagiography: ["ЧЧ Мадхья 10.132–149", "ЧЧ Антья 10.85–101", "ЧБ Антья 9.196"]
+  sources: []
+  images: []
+  game: {model: "персонаж: Говинда с кувшином-карой и опахалом у двери Гамбхиры",
+         where: ["puri/gambhira"]}
