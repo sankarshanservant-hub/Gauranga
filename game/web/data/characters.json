@@ -106,7 +106,8 @@
   "uttariya": true,
   "thread": true,
   "hair": "#1a120c",
-  "hair_style": "shikha"
+  "hair_style": "shikha",
+  "model": "chars/relative.json"
  },
  "neighbor": {
   "id": "neighbor",
