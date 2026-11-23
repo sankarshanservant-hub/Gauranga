@@ -5,8 +5,18 @@
   rubric: puri
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧЧ Мадхья 6.39–45, 6.224–234 (Сарвабхаума вкушает сухой махапрасад, не дожидаясь омовения); ЧЧ Мадхья 11.108–110."
-    en: "CC Madhya 6.39–45, 6.224–234 (Sarvabhauma eats dry mahaprasada without waiting to bathe); CC Madhya 11.108–110."
+    ru: >-
+      ЧЧ Мадхья 6.39–45, 6.224–234 (Сарвабхаума вкушает сухой махапрасад, не дожидаясь омовения); ЧЧ Мадхья
+      11.108–110. Внежитийно: «Айн-и Акбари» (1590-е) — каждый раз выносят большие блюда пищи, «так что 20 000 человек
+      вкушают остатки»; Мукундарам (ок. 1590) — в Пури «рис продают на базаре», люди четырёх варн едят вместе, «прасад
+      равен воде Ганги» (см. mc-prasad-bazar); Hunter (1872, XIX в.) — паломникам не готовят сами, пищу перед продажей
+      предлагают Джаганнатхе в наружном зале.
+    en: >-
+      CC Madhya 6.39–45, 6.224–234 (Sarvabhauma eats dry mahaprasada without waiting to bathe); CC Madhya 11.108–110.
+      Outside the hagiographies: Ain-i Akbari (1590s) — each time great dishes of food are brought out 'so that 20,000
+      people partake of the remains'; Mukundaram (c. 1590) — in Puri 'rice is sold in the bazaar', people of the four
+      varnas eat together, 'prasad equals Ganga water' (see mc-prasad-bazar); Hunter (1872, 19th c.) — pilgrims do not
+      cook for themselves, food is offered to Jagannatha in the outer hall before sale.
   text:
     ru: >-
       Пищу, поднесённую Джаганнатхе, называют махапрасадом — «великой милостью». Её приносили из храма в глиняных
@@ -19,10 +29,11 @@
       it, even dried. Once at dawn Mahaprabhu brought mahaprasada to the scholar Sarvabhauma, who ate it immediately
       without even having washed — and the Lord rejoiced: the Bhattacharya's faith had become firm.
   hagiography: ["ЧЧ Мадхья 6.39–45", "ЧЧ Мадхья 6.224–234", "ЧЧ Мадхья 11.108–110"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149–150",
+            "Hunter, Orissa I (1872), с. ≈ 145–146 (XIX в.)"]
   images: [{file: "material-culture/img/puri-painting-jagannath-temple-pilgrims.jpg", license: "PD (Public Domain Mark 1.0)", author: "живописец-читракар из Пури (патачитра, «карта храма»)", url: "https://wellcomecollection.org/works/ma8nvaca", note: "ок. 1880–1910.; Wellcome Collection — 45186i (b12029981), холст, темпера, 122 × 194,5 см."}]
   game: {model: "стопка новых глиняных горшков с рисом и овощами, перевязанных; корзины", where: ["puri/temple-kitchen"]}
-  todo: "PD: Hunter, Orissa (1872) — храмовая кухня, горшки, число поваров (XIX в.)"
 
 - id: mc-rathayatra-chariots
   title: {ru: "Колесницы Ратха-ятры", en: "The Ratha-yatra chariots"}
@@ -31,12 +42,16 @@
   evidence_note:
     ru: >-
       ЧЧ Мадхья 13.8–28: три колесницы, шёлковые ткани, зеркала, балдахин, стяг, гонги и колокольчики; дайиты несут
-      Божество на шёлковых верёвках по подушкам-тули; дорога усыпана белым песком; колесницу тянут гауды. Размеры колесниц
-      в житиях не названы — только по поздним данным (PD XIX в.).
+      Божество на шёлковых верёвках по подушкам-тули; дорога усыпана белым песком; колесницу тянут гауды. Размеры
+      колесниц в житиях не названы — только по поздним данным (PD XIX в.). «Айн-и Акбари» (1590-е) — колесница о 16
+      колёсах зовётся *ратх*; верят, что тянущий её очищается от греха (число колёс — для колесницы Джаганнатхи;
+      размеры — только XIX в.).
     en: >-
-      CC Madhya 13.8–28: three chariots, silk cloth, mirrors, a canopy, a banner, gongs and bells; the dayitas carry the
-      Deity on silk ropes over tuli cushions; the road is strewn with white sand; the chariot is pulled by gaudas.
-      Chariot dimensions are not given in the hagiographies — only in later (19th-c. PD) data.
+      CC Madhya 13.8–28: three chariots, silk cloth, mirrors, a canopy, a banner, gongs and bells; the dayitas carry
+      the Deity on silk ropes over tuli cushions; the road is strewn with white sand; the chariot is pulled by gaudas.
+      Chariot dimensions are not given in the hagiographies — only in later (19th-c. PD) data. Ain-i Akbari (1590s) —
+      the chariot of 16 wheels is called *rath*; it is believed that whoever draws it is cleansed of sin (the wheel
+      count is for Jagannatha's chariot; dimensions only from the 19th c.).
   text:
     ru: >-
       На Ратха-ятру Джаганнатха, Баладева и Субхадра выезжают на трёх огромных деревянных колесницах, «высоких, как гора
@@ -51,19 +66,25 @@
       cushions that burst beneath His tread. The road was strewn with white sand, and hundreds of people hauled the
       chariot by ropes — yet it moved only by Jagannatha's own will.
   hagiography: ["ЧЧ Мадхья 13.8–28", "ЧЧ Мадхья 14 (Хера-панчами)"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128"]
   images: [{file: "material-culture/img/puri-painting-jagannath-temple-pilgrims.jpg", license: "PD (Public Domain Mark 1.0)", author: "живописец-читракар из Пури (патачитра, «карта храма»)", url: "https://wellcomecollection.org/works/ma8nvaca", note: "ок. 1880–1910.; Wellcome Collection — 45186i (b12029981), холст, темпера, 122 × 194,5 см."}]
   game: {model: "три колесницы (размеры — по PD XIX в., ждут проверки), канаты, песок на Бада-данде",
          where: ["puri/bada-danda"], notes: "Божество — Сам Господь: никаких «статуй»; анимация — с благоговением"}
-  todo: "размеры и число колёс по PD (Hunter, Orissa 1872; Stirling 1825) с пометкой «XIX в.»"
+  todo: "размеры колесниц — только XIX в. (Hunter 1872), с пометкой"
 
 - id: mc-king-sweeper
   title: {ru: "Царь с золотой метлой", en: "The king with a golden broom"}
   rubric: puri
   era_evidence: hagiography
   evidence_note:
-    ru: "ЧЧ Мадхья 13.15–18 (Пратапарудра подметает дорогу метлой с золотой рукоятью и кропит сандаловой водой)."
-    en: "CC Madhya 13.15–18 (Prataparudra sweeps the road with a gold-handled broom and sprinkles sandal water)."
+    ru: >-
+      ЧЧ Мадхья 13.15–18 (Пратапарудра подметает дорогу метлой с золотой рукоятью и кропит сандаловой водой). Позднее
+      подтверждение обычая: по Hunter (1872), во главе 36 разрядов храмовых слуг (*чхаттиша нийога*) стоит раджа
+      Кхурды в должности подметальщика (*чхера-пахара*).
+    en: >-
+      CC Madhya 13.15–18 (Prataparudra sweeps the road with a gold-handled broom and sprinkles sandal water). A later
+      confirmation of the custom: per Hunter (1872), at the head of the 36 orders of temple servants (*chhattisha
+      niyoga*) stands the Raja of Khurda as sweeper (*chhera-pahara*).
   text:
     ru: >-
       Перед колесницей сам царь Ориссы Пратапарудра подметал дорогу метлой с золотой рукоятью и окроплял её ароматной
@@ -74,7 +95,7 @@
       sprinkled it with fragrant sandal water. The great monarch set aside his pride and took up the service of the
       lowliest servant — and this touched Mahaprabhu, who was happy to see such devotion.
   hagiography: ["ЧЧ Мадхья 13.15–18"]
-  sources: []
+  sources: ["Hunter, Orissa I (1872), с. 138 (XIX в.)"]
   images: []
   game: {model: "метла из пальмовых волокон с золотой рукоятью; сосуд с сандаловой водой", where: ["puri/bada-danda"]}
 

@@ -76,7 +76,7 @@
 - id: mc-boat-types
   title: {ru: "Лодки Бенгалии: дингхи, пансой, барки с каютой", en: "Boats of Bengal: dinghi, panswai, cabin barges"}
   rubric: travel
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
     ru: >-
       В житиях: лодки на переправах, «новая лодка» царя у каждой реки — ЧЧ Мадхья 16.114, 16.122; «судно с каютой
@@ -102,13 +102,17 @@
       рыбачили и переправлялись через протоки. Длинная узкая пассажирская лодка-пансой шла на вёслах с навесом из
       плетёного бамбука и соломы над серединой, где сидели люди; знатные ездили в тяжёлых барках с каютой. Лодку вели
       шестом на мелководье, вёслами и прямым парусом, а кормчий правил большим кормовым веслом. На такой лодке с
-      навесом Адвайта Ачарья приплыл за Господом, чтобы увезти Его к Себе в Шантипур.
+      навесом Адвайта Ачарья приплыл за Господом, чтобы увезти Его к Себе в Шантипур. Купцы ходили на больших
+      открытых лодках в 24–26 вёсел, а ещё раньше, в XIV в., путник видел на реке бесчисленные лодки с барабанами:
+      встречаясь, лодочники били в них и приветствовали друг друга.
     en: >-
       Boats of every size plied the rivers of Bengal. The simplest was the dinghi: a small boat or dug-out used for
       fishing and crossing creeks. The long, narrow passenger boat, the panswai, was rowed and had an awning of woven
       bamboo and thatch over the middle where people sat; nobles travelled in heavy barges with a cabin. A boat was
       poled in the shallows, rowed or sailed with a square sail, and the helmsman steered with a big stern oar. In such
-      an awninged boat Advaita Acharya came for the Lord to take Him home to Shantipur.
+      an awninged boat Advaita Acharya came for the Lord to take Him home to Shantipur. Merchants used big open boats
+      of 24–26 oars, and earlier, in the 14th century, a traveller saw countless boats on the river, each with a drum
+      that the boatmen beat in greeting when they met.
   hagiography: ["ЧЧ Мадхья 3.21–40", "ЧЧ Мадхья 16.114", "ЧЧ Мадхья 16.122", "ЧЧ Мадхья 16.194–202", "ЧБ Антья 2.130–148"]
   sources: ["Hobson-Jobson (1903), s.v. DINGY, с. ~317; BUDGEROW, с. ~119",
             "Solvyns, Les Hindous (1808–1812), листы «Dingee», «Pansway» (archive.org)",

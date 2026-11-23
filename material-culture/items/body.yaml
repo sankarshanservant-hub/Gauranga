@@ -154,11 +154,13 @@
     ru: >-
       Mukharji 1888, с. 311–312 (XIX в.: стебли *Maranta dichotoma*, Восточная Бенгалия, ремесло женщин, 5–100 рупий;
       «стелят поверх постели в зной»). В житиях циновки упомянуты без названия (см. mc-pidi-mat); для XVI в. —
-      реконструкция.
+      реконструкция. Эпоха: «Айн-и Акбари» (1590-е) — циновки Бенгалии «часто похожи на тканый шёлк» (вид не назван,
+      но описание подходит к шитал-пати).
     en: >-
       Mukharji 1888, pp. 311–312 (19th c.: stems of *Maranta dichotoma*, East Bengal, women's craft, 5–100 rupees;
-      "spread over the bed in the hot season"). The hagiographies mention mats without this name (see mc-pidi-mat); for
-      the 16th c. — a reconstruction.
+      "spread over the bed in the hot season"). The hagiographies mention mats without this name (see mc-pidi-mat);
+      for the 16th c. — a reconstruction. Period: Ain-i Akbari (1590s) — the mats of Bengal 'often look like woven
+      silk' (the kind is not named, but the description fits sital-pati).
   text:
     ru: >-
       Самая прохладная постель Бенгалии — *шитал-пати*, «прохладная циновка». Её плели из тонких глянцевых полосок,
@@ -171,11 +173,12 @@
       across a good shital-pati. In the heat it was spread over the bedding so that the body would not sweat. Such mats
       were woven by the women of East Bengal, and the skill was prized in arranging marriages.
   hagiography: []
-  sources: ["Mukharji 1888, с. 311–312"]
+  sources: ["Mukharji 1888, с. 311–312",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122"]
   images: []
   game: {model: "циновка ≈1×2 м из глянцевых светло-зелёно-золотистых полосок 3–4 мм, косое плетение, простой красный узор по краю",
          where: ["mishra-house/courtyard"]}
-  todo: "Засвидетельствована ли шитал-пати до XVII в.? (в мангал-кавьях?)"
+  todo: "Тождественны ли «шёлковые» циновки «Айн-и Акбари» (1590-е) шитал-пати? Есть ли название в мангал-кавьях XVI в.?"
 
 - id: mc-hot-season
   title: {ru: "Зной: как спасались от жары", en: "The heat: escaping the hot season"}
@@ -223,13 +226,17 @@
     ru: >-
       ЧБ Ади 6.114 («Мама, дай ароматного масла — пойду омываться»), 6.131 (сухие волосы — не купался), 12.126–127
       (масло от торговца ароматами: благоухание «после омовения»); Лочан Ади ч. 3.305 (мать умащает тело душистым
-      маслом), ч. 7.531 (масло, куркума, амалаки перед свадьбой); горчичное масло в благих дарах — ЧБ Ади 4.21. Кокосовое
-      масло для волос, горчичное для тела перед купанием — Bose 1881, с. 16 (сноска) [XIX в.].
+      маслом), ч. 7.531 (масло, куркума, амалаки перед свадьбой); горчичное масло в благих дарах — ЧБ Ади 4.21.
+      Кокосовое масло для волос, горчичное для тела перед купанием — Bose 1881, с. 16 (сноска) [XIX в.]. Эпоха: «Айн-и
+      Акбари» — мужчины Ориссы натираются сандаловым маслом; «Рияз ас-салатин» (1788) — бенгальцы ежедневно натираются
+      горчичным маслом и купаются в прудах и реках (поздн.).
     en: >-
       CB Adi 6.114 ("Mother, give Me fragrant oil — I am going to bathe"), 6.131 (dry hair — had not bathed),
-      12.126–127 (oil from the perfumer: fragrance "after the bath"); Lochana Adi pt. 3.305 (the mother anoints the body
-      with scented oil), pt. 7.531 (oil, turmeric, amalaki before the wedding); mustard oil among auspicious gifts — CB
-      Adi 4.21. Coconut oil for the hair, mustard oil for the body before bathing — Bose 1881, p. 16 (note) [19th c.].
+      12.126–127 (oil from the perfumer: fragrance "after the bath"); Lochana Adi pt. 3.305 (the mother anoints the
+      body with scented oil), pt. 7.531 (oil, turmeric, amalaki before the wedding); mustard oil among auspicious
+      gifts — CB Adi 4.21. Coconut oil for the hair, mustard oil for the body before bathing — Bose 1881, p. 16 (note)
+      [19th c.]. Period: Ain-i Akbari — the men of Orissa rub themselves with sandal oil; Riyaz-us-Salatin (1788) —
+      Bengalis daily rub on mustard oil and bathe in tanks and rivers (late).
   text:
     ru: >-
       Перед купанием тело натирали маслом — чаще всего горчичным, а волосы смазывали отдельно, у богатых душистым маслом
@@ -243,7 +250,9 @@
       perfume-seller rubbed the young teacher with his oil and said: if the scent is still there after tomorrow's bath,
       pay me whatever You like.
   hagiography: ["ЧБ Ади 6.114", "ЧБ Ади 6.131", "ЧБ Ади 12.126–127", "ЧБ Ади 4.21", "Лочан, Ади-кханда, ч. 3, ст. 305", "Лочан, Ади-кханда, ч. 7, ст. 531"]
-  sources: ["Bose 1881, с. 16 (сноска)"]
+  sources: ["Bose 1881, с. 16 (сноска)",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126",
+            "Riyaz-us-Salatin (1788), пер. Abdus Salam 1902, с. 22 (⚠ XVIII в.)"]
   images: []
   game: {model: "глиняная/латунная плошка с горчичным маслом у двери; человек натирает плечи перед спуском к гхату",
          where: ["mishra-house/courtyard", "ganga-ghat"]}
@@ -328,18 +337,20 @@
   era_evidence: later-reconstruction
   evidence_note:
     ru: >-
-      Жития: Господь выжимает мокрую одежду преданного и вешает сушиться чьё-то дхоти (ЧБ Мадхья 2.44); переодевание из
-      мокрой ткани в сухую (ЧБ Мадхья 17.55, ЧЧ Антья 18.73); Говинда приносит свежевыстиранную одежду (Карнапура 17.50);
-      «как стирать одежду» — тема «Хари-бхакти-виласы» (ЧЧ Мадхья 24.328); прачка в Матхуре (Мурари 4.4.12, Лочан, Шеша
-      ч. 3.101). Отбеливание: мыльная вода, кипячение в глиняном котле, битьё о доску, сушка на траве, сок лайма —
-      Taylor 1840, с. 178; прачка в свадебной смете — с. 260; лишить прачки — кастовое наказание (Bose 1881, с. 169).
+      Жития: Господь выжимает мокрую одежду преданного и вешает сушиться чьё-то дхоти (ЧБ Мадхья 2.44); переодевание
+      из мокрой ткани в сухую (ЧБ Мадхья 17.55, ЧЧ Антья 18.73); Говинда приносит свежевыстиранную одежду (Карнапура
+      17.50); «как стирать одежду» — тема «Хари-бхакти-виласы» (ЧЧ Мадхья 24.328); прачка в Матхуре (Мурари 4.4.12,
+      Лочан, Шеша ч. 3.101). Отбеливание: мыльная вода, кипячение в глиняном котле, битьё о доску, сушка на траве, сок
+      лайма — Taylor 1840, с. 178; прачка в свадебной смете — с. 260; лишить прачки — кастовое наказание (Bose 1881,
+      с. 169). Эпоха: «Айн-и Акбари» — в Атьяра-Сундаре есть водоём, придающий особую белизну стираемым в нём тканям.
     en: >-
       Hagiographies: the Lord wrings out a devotee's wet cloth and hangs someone's dhoti to dry (CB Madhya 2.44);
       changing from wet cloth into dry (CB Madhya 17.55, CC Antya 18.73); Govinda brings freshly washed clothes
-      (Karnapura 17.50); "how to wash clothes" — a topic of Hari-bhakti-vilasa (CC Madhya 24.328); a washerman in Mathura
-      (Murari 4.4.12, Lochana, Shesha pt. 3.101). Bleaching: soapy water, boiling in an earthen pot, beating on a board,
-      drying on grass, lime juice — Taylor 1840, p. 178; the washerman in a wedding budget — p. 260; deprivation of the
-      washerman as caste punishment (Bose 1881, p. 169).
+      (Karnapura 17.50); "how to wash clothes" — a topic of Hari-bhakti-vilasa (CC Madhya 24.328); a washerman in
+      Mathura (Murari 4.4.12, Lochana, Shesha pt. 3.101). Bleaching: soapy water, boiling in an earthen pot, beating
+      on a board, drying on grass, lime juice — Taylor 1840, p. 178; the washerman in a wedding budget — p. 260;
+      deprivation of the washerman as caste punishment (Bose 1881, p. 169). Period: Ain-i Akbari — at Atyara-Sundar
+      there is a tank that gives special whiteness to cloth washed in it.
   text:
     ru: >-
       Дхоти и сари носили несшитыми, и после каждого омовения их меняли: мокрую ткань выжимали и сушили на верёвке или
@@ -355,7 +366,9 @@
       lime juice for whiteness. Village life could not do without the washerman and the barber — to deprive a family of
       their services was a heavy punishment.
   hagiography: ["ЧБ Мадхья 2.44", "ЧБ Мадхья 17.55", "ЧЧ Антья 18.73", "Карнапура, сарга 17, ст. 50", "ЧЧ Мадхья 24.328"]
-  sources: ["Taylor 1840, с. 178, 260", "Bose 1881, с. 169"]
+  sources: ["Taylor 1840, с. 178, 260",
+            "Bose 1881, с. 169",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 123"]
   images: []
   game: {model: "прачка у воды бьёт мокрым полотном о плоский камень; глиняный котёл на очаге; дхоти, развешанные на бамбуковой жерди",
          where: ["ganga-ghat"]}
@@ -367,16 +380,18 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Чатурмасья — четыре месяца дождей Господь не странствует (ЧЧ Мадхья 1.110–111, 9.84, 16.93–94, 16.282–285;
-      Антья 10.133, 10.152); сильный ливень сорвал приглашение Адвайты (ЧЧ Мадхья 16.55); в дожди Ганга кишит крокодилами
+      Чатурмасья — четыре месяца дождей Господь не странствует (ЧЧ Мадхья 1.110–111, 9.84, 16.93–94, 16.282–285; Антья
+      10.133, 10.152); сильный ливень сорвал приглашение Адвайты (ЧЧ Мадхья 16.55); в дожди Ганга кишит крокодилами
       (ЧБ Мадхья 12.6, 13.137); половодье месяца бхадра (ЧБ Антья 2.125); ливень, град, пиявки, холод (ЧБ Антья
-      5.611–615, 5.671). Лучшее время ткать тонкий муслин — дожди (Taylor 1840, с. 174).
+      5.611–615, 5.671). Лучшее время ткать тонкий муслин — дожди (Taylor 1840, с. 174). Эпоха: «Айн-и Акбари» — дожди
+      с середины мая больше шести месяцев, равнины под водой, видны лишь валы-*ал*; в Ориссе дожди 8 месяцев.
     en: >-
       Chaturmasya — for the four months of rain the Lord does not travel (CC Madhya 1.110–111, 9.84, 16.93–94,
-      16.282–285; Antya 10.133, 10.152); a heavy downpour spoiled Advaita's invitation (CC Madhya 16.55); in the rains the
-      Ganga swarms with crocodiles (CB Madhya 12.6, 13.137); the flood of the month of Bhadra (CB Antya 2.125); downpour,
-      hail, leeches, cold (CB Antya 5.611–615, 5.671). The best time to weave fine muslin is the rains (Taylor 1840,
-      p. 174).
+      16.282–285; Antya 10.133, 10.152); a heavy downpour spoiled Advaita's invitation (CC Madhya 16.55); in the rains
+      the Ganga swarms with crocodiles (CB Madhya 12.6, 13.137); the flood of the month of Bhadra (CB Antya 2.125);
+      downpour, hail, leeches, cold (CB Antya 5.611–615, 5.671). The best time to weave fine muslin is the rains
+      (Taylor 1840, p. 174). Period: Ain-i Akbari — rains from mid-May for over six months, the plains under water
+      with only the *al* embankments showing; in Orissa the rains last 8 months.
   text:
     ru: >-
       С июня по сентябрь (*варша*, месяцы ашадха–ашвина) Бенгалия тонет в дождях: реки разливаются, дороги размокают,
@@ -393,7 +408,8 @@
       thread from breaking.
   hagiography: ["ЧЧ Мадхья 1.110–111", "ЧЧ Мадхья 9.84", "ЧЧ Мадхья 16.55", "ЧЧ Мадхья 16.93–94", "ЧЧ Антья 10.152",
                 "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.125", "ЧБ Антья 5.611–615"]
-  sources: ["Taylor 1840, с. 174"]
+  sources: ["Taylor 1840, с. 174",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120, 126"]
   images: [{file: "material-culture/img/bengal-1770-radha-krishna-storm-villagers-cma.jpg", license: "CC0 1.0", author: "бенгальский художник, ок. 1770; Cleveland Museum of Art 2013.352", url: "https://clevelandart.org/art/2013.352"}]
   game: {model: "ливень, лужи во дворе, ткань сушится под навесом веранды; разлившаяся Ганга; путник под зонтом из листьев",
          where: ["mishra-house/courtyard", "ganga-ghat"]}

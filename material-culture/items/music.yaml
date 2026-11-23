@@ -7,12 +7,18 @@
   evidence_note:
     ru: >-
       Перечни инструментов в ЧБ (ок. 1540-х): Ади 8.10 (*мр̣дан̇га, са̄на̄и, вам̇ш́ӣ*), 15.80 (*мр̣дан̇га, са̄на̄н̃и,
-      джайад̣ха̄ка, карата̄ла*), 15.148–149 (*джайад̣ха̄ка, вӣрад̣ха̄ка, мр̣дан̇га, ка̄ха̄ла, пат̣аха, дагад̣а, ш́ан̇кха,
-      вам̇ш́ӣ, карата̄ла, варан̇га, ш́ин̇га̄, пан̃ча-ш́абдӣ*). Облик отдельных инструментов — по изображениям XVII–XIX вв.
+      джайад̣ха̄ка, карата̄ла*), 15.148–149 (*джайад̣ха̄ка, вӣрад̣ха̄ка, мр̣дан̇га, ка̄ха̄ла, пат̣аха, дагад̣а,
+      ш́ан̇кха, вам̇ш́ӣ, карата̄ла, варан̇га, ш́ин̇га̄, пан̃ча-ш́абдӣ*). Облик отдельных инструментов — по
+      изображениям XVII–XIX вв. Эпоха: Ма Хуань (1433) — зурна (*со-на*) и барабан утренних музыкантов (см.
+      mc-dawn-musicians); Барбоза (ок. 1516) — бенгальцы «великие музыканты — и в пении, и в игре»; Мукундарам (ок.
+      1590) — на базаре Пури «играют 15 видов инструментов».
     en: >-
       Instrument lists in CB (c. 1540s): Adi 8.10 (mridanga, sanai, vamshi), 15.80 (mridanga, sanani, jayadhaka,
-      karatala), 15.148–149 (jayadhaka, viradhaka, mridanga, kahala, pataha, dagada, shankha, vamshi, karatala, varanga,
-      shinga, pancha-shabdi). The look of each instrument follows 17th–19th-c. images.
+      karatala), 15.148–149 (jayadhaka, viradhaka, mridanga, kahala, pataha, dagada, shankha, vamshi, karatala,
+      varanga, shinga, pancha-shabdi). The look of each instrument follows 17th–19th-c. images. Period: Ma Huan (1433)
+      — the shawm (*so-na*) and drum of the dawn musicians (see mc-dawn-musicians); Barbosa (c. 1516) — the Bengalis
+      are 'great musicians, both in singing and playing'; Mukundaram (c. 1590) — '15 kinds of instruments play' in the
+      Puri bazaar.
   text:
     ru: >-
       Вриндаван Дас любит перечислять музыку праздника. На упанаяне Нимая играли мриданга, санаи (гобой) и флейта, на
@@ -25,7 +31,9 @@
       conches, bamboo flutes, karatala hand-cymbals, the shinga horn and the "five sounds" (pancha-shabdi), a festive
       set of instruments. The groom's and bride's musicians competed to outplay each other.
   hagiography: ["ЧБ Ади 8.10", "ЧБ Ади 15.79–80", "ЧБ Ади 15.148–149", "ЧБ Ади 15.162", "ЧБ Ади 3.33"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 438",
+            "Barbosa (ок. 1516), пер. Stanley 1866, с. 180–181",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149–150"]
   images: [{file: "material-culture/img/solvyns-1799-dhak-drummer.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/nxyv2vxz", note: "1799.; Wellcome Collection — 31269i (b11891087; image V0050396ER)."},
            {file: "material-culture/img/solvyns-1810-pakhavaj-drummer.jpg", license: "PD (по сроку охраны)", author: "F. B. Solvyns", url: "https://archive.org/details/16.-pakhavaj", note: "1810.; Internet Archive, item `16.-pakhavaj`."}]
   game: {model: "звуковая дорожка праздника; 4–6 музыкантов: мриданга, санаи, дхак, караталы, раковина, рог",

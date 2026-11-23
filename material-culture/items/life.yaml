@@ -791,23 +791,29 @@
 - id: mc-rice-year
   title: {ru: "Рисовый год: аус, аман, боро", en: "The rice year: aus, aman, boro"}
   rubric: town
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
     ru: >-
       В житиях земледельческих работ почти нет; недовольные горожане винят киртан в засухе: «боги не посылают дождь,
       рисовые поля пересохли, никто не может ничего заработать» — ЧБ Мадхья 8.246–247; «урожай *шаса*» — Лочан,
       Шеша-кханда, ч. 1, ст. 20. Реконструкция по Day 1874: плуг из акации *бабла* с железным лемехом, пара волов,
       пахарь бранит и уговаривает их (p. 18–19); три урожая — *аус* (сеют в конце марта на высоких землях, жнут в
-      августе), *аман* (сеют в мае–июне, жнут в ноябре–декабре, главный), *боро* (в болотах, январь–май); стебли
-      амана в низинах до 3–4 м; варёный (*сиддха*) и сушёный (*атап*) рис (p. 200–202). **[поздн., Бардхаман 1840-х]**
+      августе), *аман* (сеют в мае–июне, жнут в ноябре–декабре, главный), *боро* (в болотах, январь–май); стебли амана
+      в низинах до 3–4 м; варёный (*сиддха*) и сушёный (*атап*) рис (p. 200–202). **[поздн., Бардхаман 1840-х]**
+      Эпоха: Ван Даюань (1349) — в Бенгалии и Ориссе «три урожая в год», пустующей земли нет; Ма Хуань (1433) и Фэй
+      Синь (1436) — два урожая риса, поля не полют; «Айн-и Акбари» (1590-е) — на одном поле сеют и жнут трижды в год,
+      стебель растёт вместе с подъёмом воды (глубоководный рис). Названия *аус, аман, боро* и сроки — по Day 1874.
     en: >-
       The hagiographies hardly mention field work; disgruntled townsmen blame kirtan for drought: 'the gods send no
       rain, the rice fields have dried up, no one can earn anything' — CB Madhya 8.246–247; 'the *shasa* harvest' —
-      Lochana, Shesha-khanda pt. 1 v. 20. Reconstruction after Day 1874: a plough of *babla* acacia with an iron share,
-      a pair of bullocks, the ploughman scolding and coaxing them (p. 18–19); three crops — *aus* (sown late March on
-      high land, cut in August), *aman* (sown May–June, cut November–December, the main one), *boro* (in swamps,
-      January–May); aman stalks in the lowlands up to 3–4 m; parboiled (*siddha*) and sun-dried (*atap*) rice (p.
-      200–202). **[late, Burdwan 1840s]**
+      Lochana, Shesha-khanda pt. 1 v. 20. Reconstruction after Day 1874: a plough of *babla* acacia with an iron
+      share, a pair of bullocks, the ploughman scolding and coaxing them (p. 18–19); three crops — *aus* (sown late
+      March on high land, cut in August), *aman* (sown May–June, cut November–December, the main one), *boro* (in
+      swamps, January–May); aman stalks in the lowlands up to 3–4 m; parboiled (*siddha*) and sun-dried (*atap*) rice
+      (p. 200–202). **[late, Burdwan 1840s]** Period: Wang Dayuan (1349) — 'three harvests a year' in Bengal and
+      Orissa, no land lying idle; Ma Huan (1433) and Fei Xin (1436) — two rice crops, fields not weeded; Ain-i Akbari
+      (1590s) — a field sown and reaped three times a year, the stalk rising with the water (deep-water rice). The
+      names *aus, aman, boro* and their seasons are after Day 1874.
   text:
     ru: >-
       Жизнь Бенгалии подчинена рису. Весной, после первой грозы, крестьянин выходит в поле с деревянным плугом с
@@ -825,7 +831,11 @@
       and stored in big baskets till the next harvest; drought or flood means hunger, and in a drought people look
       for someone to blame — even kirtan.
   hagiography: ["ЧБ Мадхья 8.246–247", "Лочан, Шеша-кханда, ч. 1, ст. 20"]
-  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 18–19, 200–202"]
+  sources: ["Lal Behari Day, Bengal Peasant Life, 1874/1916, p. 18–19, 200–202",
+            "Wang Dayuan, «Дао-и чжи-люэ» (1349), пер. Rockhill, T'oung Pao 16 (1915), с. 435, 444",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 121"]
   images: []
   game: {model: "плуг (дышло ≈ 2,5 м, рукоять, железный лемех), ярмо на пару волов, серп-каште; рисовое поле по сезонам",
          where: ["navadvipa/fields"], notes: "смена вида полей по игровому календарю"}

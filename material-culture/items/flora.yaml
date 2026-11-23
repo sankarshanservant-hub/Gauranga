@@ -10,11 +10,15 @@
     ru: >-
       Чудесное манговое дерево и «праздник манго» после киртана — ЧЧ Ади 17.80–88; манго, завёрнутые в банановые
       листья и кору, у Джхаду Тхакура — ЧЧ Антья 16.14–34; манговые приправы Дамаянти (амси, ама-кханда, тайламра,
-      ама-сатта) — ЧЧ Антья 10.15–16 (позднее житие, ок. 1615). Свойства дерева — Dutt 1877, с. 141–142.
+      ама-сатта) — ЧЧ Антья 10.15–16 (позднее житие, ок. 1615). Свойства дерева — Dutt 1877, с. 141–142. Эпоха: Фэй
+      Синь (1436) — манго (*ань-мо-ло* = амра) «кисловато, но очень вкусно»; «Айн-и Акбари» — в Бхати манговые деревья
+      в рост человека, но обильно плодоносят.
     en: >-
       The miraculous mango tree and the "mango feast" after kirtana — CC Adi 17.80–88; mangoes wrapped in banana
       leaves and bark at Jhadu Thakura's — CC Antya 16.14–34; Damayanti's mango relishes (amsi, ama-khanda, tailamra,
-      ama-satta) — CC Antya 10.15–16 (c. 1615). Properties of the tree — Dutt 1877, pp. 141–142.
+      ama-satta) — CC Antya 10.15–16 (c. 1615). Properties of the tree — Dutt 1877, pp. 141–142. Period: Fei Xin
+      (1436) — the mango (*an-mo-lo* = amra) 'sourish but very good'; Ain-i Akbari — in Bhati mango trees only a man's
+      height yet bearing abundantly.
   text:
     ru: >-
       Манго (бенг. ам, санскр. амра, чута) — царь бенгальских садов. Весной оно покрывается метёлками душистых
@@ -32,7 +36,10 @@
       crown the auspicious water-pot, and the wood makes doors and planks.
   hagiography: ["ЧЧ Ади 17.80–88", "ЧЧ Антья 16.14–34", "ЧЧ Антья 10.15–16", "ЧЧ Антья 1.158", "ЧЧ Мадхья 8.257",
                 "ЧЧ Антья 15.32"]
-  sources: ["Dutt 1877, с. 141–142 (Mangifera indica)", "Day, Bengal Peasant Life (1874), с. 28 (дверь из мангового дерева)"]
+  sources: ["Dutt 1877, с. 141–142 (Mangifera indica)",
+            "Day, Bengal Peasant Life (1874), с. 28 (дверь из мангового дерева)",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 116–117"]
   images: []
   game: {model: "раскидистое манговое дерево 10–15 м, тёмная глянцевая листва, весной — желтоватые метёлки соцветий, летом — гроздья плодов",
          where: ["mishra-house/backyard", "navadvipa/lane"]}
@@ -44,11 +51,14 @@
   evidence_note:
     ru: >-
       Джекфрут среди подношений — ЧБ Мадхья 19.85, ЧЧ Мадхья 14.26, 15.86; тело Господа «как золотой джекфрут» от
-      вставших волосков — ЧБ Мадхья 2.164, ЧБ Антья 4.37; ломали деревья манго и джекфрута в киртане — ЧБ Мадхья 23.394.
+      вставших волосков — ЧБ Мадхья 2.164, ЧБ Антья 4.37; ломали деревья манго и джекфрута в киртане — ЧБ Мадхья
+      23.394. Эпоха: Ма Хуань (1433) — джекфрут среди плодов Бенгалии; Фэй Синь (1436) — плод «величиной с меру зерна
+      и удивительно сладок».
     en: >-
       Jackfruit among offerings — CB Madhya 19.85, CC Madhya 14.26, 15.86; the Lord's body "like a golden jackfruit"
-      with hair standing on end — CB Madhya 2.164, CB Antya 4.37; mango and jackfruit trees broken in the kirtana —
-      CB Madhya 23.394.
+      with hair standing on end — CB Madhya 2.164, CB Antya 4.37; mango and jackfruit trees broken in the kirtana — CB
+      Madhya 23.394. Period: Ma Huan (1433) — jackfruit among Bengal's fruits; Fei Xin (1436) — a fruit 'as big as a
+      peck measure and wonderfully sweet'.
   text:
     ru: >-
       Джекфрут (бенг. кантхал, санскр. панаса) — самый большой плод на свете: он растёт прямо на стволе и толстых
@@ -65,7 +75,8 @@
       brought from distant villages.
   hagiography: ["ЧБ Мадхья 2.164", "ЧБ Антья 4.37", "ЧБ Мадхья 19.85", "ЧБ Мадхья 23.394", "ЧЧ Мадхья 14.26",
                 "ЧЧ Мадхья 15.86", "ЧЧ Антья 18.104"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
   images: []
   game: {model: "дерево 10–15 м с плодами прямо на стволе (40–60 см, шипастая зелёная кожура)",
          where: ["mishra-house/backyard"]}
@@ -113,10 +124,13 @@
       «Пальмовые семена» (мякоть тала) среди угощений — ЧЧ Мадхья 14.26; финики — ЧЧ Антья 18.104; орех бетеля —
       постоянно (ЧЧ Антья 6.97–98 и др.). Хозяйственное использование (сок, гур, балки, листья) — по Dutt 1877, с.
       249–250, и Day 1874, с. 28 (коньковая балка и столбы из пальмиры); для эпохи прямо не засвидетельствовано.
+      Эпоха: Ма Хуань (1433) и Барбоза (ок. 1516) — из сока пальм в Бенгалии делают хмельное; сахар из пальм —
+      Барбоза.
     en: >-
       "Palm seeds" (tal pulp) among the dishes — CC Madhya 14.26; dates — CC Antya 18.104; betel nut constantly (CC
       Antya 6.97–98 etc.). Household uses (sap, gur, beams, leaves) — after Dutt 1877, pp. 249–250, and Day 1874, p.
-      28 (ridge-beam and posts of palmyra); not directly attested for the period.
+      28 (ridge-beam and posts of palmyra); not directly attested for the period. Period: Ma Huan (1433) and Barbosa
+      (c. 1516) — an intoxicant is made in Bengal from palm sap; palm sugar — Barbosa.
   text:
     ru: >-
       Над бенгальской деревней стоят три пальмы, и у каждой своё дело. Тал, или пальмира (Borassus), — высокая, с
@@ -131,7 +145,10 @@
       sweet sap collected in little pots, then boiled down into brown sugar, gur. The slender areca (supari) gives the
       betel nut, chewed with the pan leaf and offered to the Lord and to guests.
   hagiography: ["ЧЧ Мадхья 14.26", "ЧЧ Антья 18.104", "ЧЧ Антья 6.97–98", "ЧБ Антья 5.327 (падали, как пальмы в бурю)"]
-  sources: ["Dutt 1877, с. 249–250 (Borassus flabelliformis, Areca catechu)", "Day 1874, с. 28"]
+  sources: ["Dutt 1877, с. 249–250 (Borassus flabelliformis, Areca catechu)",
+            "Day 1874, с. 28",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Barbosa (ок. 1516), пер. Stanley 1866, с. 180–181"]
   images: []
   game: {model: "тал 15–20 м с круглой кроной веерных листьев; кхеджур 8–10 м с надрезом и глиняным горшком под кроной; арека 10–15 м, тонкий кольчатый ствол",
          where: ["mishra-house/fence", "navadvipa/lane"]}
@@ -485,10 +502,12 @@
   evidence_note:
     ru: >-
       Стопки листьев кетаки вместо тарелок на пиру у Гундичи в Пури — ЧЧ Мадхья 14.37; кетаки в поэтических образах
-      Карнапуры (сарга 7.43). Описание растения — по общим ботаническим сведениям.
+      Карнапуры (сарга 7.43). Описание растения — по общим ботаническим сведениям. Эпоха: «Айн-и Акбари» — *кеора*
+      (пандан) растёт в Ориссе в изобилии.
     en: >-
       Stacks of ketaki leaves used as plates at the feast near Gundicha in Puri — CC Madhya 14.37; ketaki in
-      Karnapura's poetic images (canto 7.43). Description of the plant from general botany.
+      Karnapura's poetic images (canto 7.43). Description of the plant from general botany. Period: Ain-i Akbari —
+      *keora* (pandanus) grows abundantly in Orissa.
   text:
     ru: >-
       Кетаки (Pandanus, бенг. кея) — колючий куст с длинными узкими листьями, похожими на мечи, и воздушными корнями,
@@ -501,7 +520,7 @@
       laid among clothes for their fragrance. In Puri the broad bases of ketaki leaves were made into plates: at the
       feast in the garden by Gundicha there was so much food that everyone was given ten such plates.
   hagiography: ["ЧЧ Мадхья 14.37", "Карнапура, сарга 7.43"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126"]
   images: []
   game: {model: "куст 2–4 м на ходульных корнях, пучки длинных колючих листьев", where: ["puri/beach", "puri/gundicha-garden"]}
 

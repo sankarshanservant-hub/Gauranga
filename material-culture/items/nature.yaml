@@ -41,8 +41,13 @@
   rubric: nature
   era_evidence: hagiography
   evidence_note:
-    ru: "Шридхар-Колавеча (торговец банановыми листьями, цветами и стеблями) — ЧБ Ади 12.195–203, ЧЧ Ади 10.67–68."
-    en: "Shridhara Kolaveca (seller of banana leaves, flowers and stems) — CB Adi 12.195–203, CC Adi 10.67–68."
+    ru: >-
+      Шридхар-Колавеча (торговец банановыми листьями, цветами и стеблями) — ЧБ Ади 12.195–203, ЧЧ Ади 10.67–68. Эпоха:
+      Конти (ок. 1440) — на берегах Ганга сады с бананами «слаще мёда»; Ма Хуань (1433) — банан среди плодов Бенгалии.
+    en: >-
+      Shridhara Kolaveca (seller of banana leaves, flowers and stems) — CB Adi 12.195–203, CC Adi 10.67–68. Period:
+      Conti (c. 1440) — gardens on the Ganga with bananas 'sweeter than honey'; Ma Huan (1433) — the banana among
+      Bengal's fruits.
   text:
     ru: >-
       Банан в Бенгалии — самая полезная зелень двора: едят плоды, цветок (моча) и мягкую сердцевину стебля (тхор),
@@ -56,7 +61,8 @@
       free. The banana heads the fruits of offering: the women brought bananas to the newborn, and Shachi gave them to
       her guests.
   hagiography: ["ЧБ Ади 12.195–203", "ЧЧ Ади 10.67–68", "ЧЧ Ади 13.110", "ЧБ Ади 4.21", "ЧЧ Мадхья 3.48 (карри из цветов банана)"]
-  sources: []
+  sources: ["Conti (ок. 1440), в: Major, India in the Fifteenth Century (1857), с. 10",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439"]
   images: []
   game: {model: "куртина бананов у ограды и кухни, листья 2 м, гроздь, лиловый цветок",
          where: ["mishra-house/backyard"], codex: hs_banana}
@@ -66,8 +72,13 @@
   rubric: nature
   era_evidence: hagiography
   evidence_note:
-    ru: "Кокосы как дар новорождённому — ЧЧ Ади 13.110; два кокоса, принесённые Нимаем, — ЧЧ Ади 14.45–47."
-    en: "Coconuts as a gift to the newborn — CC Adi 13.110; the two coconuts Nimai brought — CC Adi 14.45–47."
+    ru: >-
+      Кокосы как дар новорождённому — ЧЧ Ади 13.110; два кокоса, принесённые Нимаем, — ЧЧ Ади 14.45–47. Эпоха: Конти
+      (ок. 1440) — кокосы в садах по Гангу; Ма Хуань (1433) — из кокоса делают хмельной напиток.
+    en: >-
+      Coconuts as a gift to the newborn — CC Adi 13.110; the two coconuts Nimai brought — CC Adi 14.45–47. Period:
+      Conti (c. 1440) — coconuts in the gardens along the Ganga; Ma Huan (1433) — an intoxicant is made from the
+      coconut.
   text:
     ru: >-
       Кокосовая пальма даёт воду молодого ореха, мякоть, масло, волокно для верёвок и листья для кровель и циновок.
@@ -80,7 +91,8 @@
       when Shachi seemed to faint, the neighbours told Nimai that a coconut would cure His mother — and the little
       boy ran off and was back at once with two coconuts in His hands, though there were none in the house.
   hagiography: ["ЧЧ Ади 13.110", "ЧЧ Ади 14.45–47", "ЧЧ Мадхья 3.48, 3.50"]
-  sources: []
+  sources: ["Conti (ок. 1440), в: Major, India in the Fifteenth Century (1857), с. 10",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439"]
   images: []
   game: {model: "2–3 кокосовые пальмы над оградой, гроздья орехов", where: ["mishra-house/courtyard"], codex: hs_palm}
 
@@ -135,10 +147,18 @@
 - id: mc-bamboo
   title: {ru: "Бамбук", en: "Bamboo"}
   rubric: nature
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
-    ru: "Повсеместный строительный материал Бенгалии; в житиях по главам дома Мишры не упомянут — проверить."
-    en: "Ubiquitous building material of Bengal; not found so far in the chapters on Mishra's house — to check."
+    ru: >-
+      Повсеместный строительный материал Бенгалии; в житиях по главам дома Мишры не упомянут — проверить. Эпоха: Конти
+      (ок. 1440) — по берегам Ганга бамбук такой толщины, что один человек не обхватит, из одного ствола делают
+      рыбачью лодку, междоузлие — в рост человека; «Айн-и Акбари» (1590-е) — дома Бенгалии из бамбука, иные стоят 5000
+      рупий и больше; Фитч (1586) — Куч обнесён заострёнными бамбуковыми кольями.
+    en: >-
+      Ubiquitous building material of Bengal; not found so far in the chapters on Mishra's house — to check. Period:
+      Conti (c. 1440) — along the Ganga, bamboo so thick one man cannot clasp it, a fishing boat made from one stem, a
+      joint as tall as a man; Ain-i Akbari (1590s) — Bengal's houses are of bamboo, some costing 5,000 rupees and
+      more; Fitch (1586) — Cooch is fenced with sharpened bamboo stakes.
   text:
     ru: >-
       Бамбуковые рощи окружают бенгальские деревни. Из бамбука делают каркас хижины и кровли, плетёные стены и
@@ -149,7 +169,10 @@
   hagiography: []
   sources: ["Mukharji 1888, с. 310–312 (бамбуковые плетёнки darma — стены домов в Вост. Бенгалии)",
             "Sen, Bengali Ramayanas (1920), с. 187–188 (соломенная кровля на бамбуковых столбах — XVI в.)",
-            "Day 1874, с. 28 (бамбуковый каркас кровли)"]
+            "Day 1874, с. 28 (бамбуковый каркас кровли)",
+            "Conti (ок. 1440), в: Major, India in the Fifteenth Century (1857), с. 10",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 112"]
   images: []
   game: {model: "заросль бамбука за оградой; плетёная ограда из расщеплённого бамбука",
          where: ["mishra-house/fence"], codex: hs_bamboo}

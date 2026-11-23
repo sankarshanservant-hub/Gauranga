@@ -9,14 +9,17 @@
   era_evidence: epoch
   evidence_note:
     ru: >-
-      Шесть ритý по два лунных месяца — общеиндийская система санскритской поэзии и календаря, старше эпохи. В житиях —
-      «в картику ещё очень холодно для пути» (ЧЧ Мадхья 16.9), «четыре месяца дождей» (Мадхья 16.282–283), жара
+      Шесть ритý по два лунных месяца — общеиндийская система санскритской поэзии и календаря, старше эпохи. В житиях
+      — «в картику ещё очень холодно для пути» (ЧЧ Мадхья 16.9), «четыре месяца дождей» (Мадхья 16.282–283), жара
       джьяйштхи (Антья 20.109), чайтра с ароматом малати (Антья 1.78). Что делалось по сезонам — частью реконструкция.
+      «Айн-и Акбари»: в Бенгалии лето умеренное, холодный сезон очень короткий; в Ориссе — 8 месяцев дождей, 3
+      холодных, один жаркий.
     en: >-
       Six ritus of two lunar months each — the pan-Indian system of Sanskrit poetry and calendar, older than the
       period. In the hagiographies: "in Kartika it is still too cold to travel" (CC Madhya 16.9), "the four months of
       rains" (Madhya 16.282–283), the heat of Jyaishtha (Antya 20.109), Chaitra with the scent of malati (Antya 1.78).
-      What was done in each season is partly a reconstruction.
+      What was done in each season is partly a reconstruction. Ain-i Akbari: in Bengal summer is moderate and the cold
+      season very short; in Orissa 8 months of rain, 3 cold, one hot.
   text:
     ru: >-
       Бенгальский год делится на шесть ритý. Гришма, лето (вайшакха–джьяйштха), — палящий зной, грозы-калбайсакхи и
@@ -32,7 +35,7 @@
       tapping palm sap. Vasanta, spring (Phalguna–Chaitra): mango blossom, cuckoos, Dola-yatra and the day of
       Mahaprabhu's appearance.
   hagiography: ["ЧЧ Мадхья 16.9", "ЧЧ Мадхья 16.282–283", "ЧЧ Антья 20.109", "ЧЧ Антья 1.78"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120, 126"]
   images: []
   audio:
     - {file: "material-culture/audio/monsoon-night-pond-frogs-crickets-bankura.ogg", license: "PD", author: "prabuddhamukhopadhyay (radio aporee)",
@@ -84,12 +87,15 @@
     ru: >-
       Слёзы Господа — «как половодье на Ганге в месяц бхадра» — ЧБ Антья 2.125; в сезон дождей Ганга кишит крокодилами
       — ЧБ Мадхья 12.6, 13.137; у Чхатрабхоги «Ганга разливается на сотни потоков» — ЧБ Антья 2.61–62. Смена русла и
-      размывание берегов у Навадвипы — по картам и описаниям XVIII–XIX вв. (поздн.).
+      размывание берегов у Навадвипы — по картам и описаниям XVIII–XIX вв. (поздн.). Эпоха: «Айн-и Акбари» — прежние
+      правители насыпали по всей стране валы-*ал* 10 ярдов высотой и 20 шириной (отсюда, по Абу-л Фазлу, «Банг-ал»); в
+      разлив видны лишь они.
     en: >-
       The Lord's tears "like the flood of the Ganga in the month of Bhadra" — CB Antya 2.125; in the rains the Ganga
       teems with crocodiles — CB Madhya 12.6, 13.137; at Chhatrabhoga "the Ganga spreads into a hundred streams" — CB
-      Antya 2.61–62. Shifts of the channel and erosion of the banks near Navadvipa — from 18th–19th-c. maps and accounts
-      (late).
+      Antya 2.61–62. Shifts of the channel and erosion of the banks near Navadvipa — from 18th–19th-c. maps and
+      accounts (late). Period: Ain-i Akbari — former rulers raised *al* embankments 10 yards high and 20 broad across
+      the land (hence, says Abu'l Fazl, 'Bang-al'); in flood only they show above water.
   text:
     ru: >-
       К бхадре, концу сезона дождей, Ганга поднимается выше всего: мутная бурая вода затапливает низкие берега и острова,
@@ -104,7 +110,7 @@
       places where houses stood in Mahaprabhu's time later ended up under water or on the other bank. Vrindavana dasa
       compares the stream of tears from the Lord's eyes to the flood of Bhadra.
   hagiography: ["ЧБ Антья 2.125", "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.61–62"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120"]
   images: []
   audio: []
   game: {model: "широкая мутная река, затопленные ступени гхата, плывущие ветки", where: ["ganga-ghat"]}
@@ -248,12 +254,14 @@
   evidence_note:
     ru: >-
       Раскалённый полуденный песок — ЧЧ Антья 4.118–124; песчаная дюна Чатака-парвата, принятая за Говардхан, — Антья
-      14.84 и далее; омовения в море, «вдруг услышали пение» на берегу — Антья 2.153–154; бросок в море под осенней луной —
-      Антья 18.1–60. Морской бриз и сезонные ветры — общее наблюдение.
+      14.84 и далее; омовения в море, «вдруг услышали пение» на берегу — Антья 2.153–154; бросок в море под осенней
+      луной — Антья 18.1–60. Морской бриз и сезонные ветры — общее наблюдение. Эпоха: «Айн-и Акбари» — в Ориссе дожди
+      8 месяцев, холодных месяцев 3, жаркий — один.
     en: >-
-      The burning noon sand — CC Antya 4.118–124; the sand dune Chataka-parvata, taken for Govardhana — Antya 14.84 ff.;
-      bathing in the sea, "suddenly they heard singing" on the shore — Antya 2.153–154; the plunge into the sea under the
-      autumn moon — Antya 18.1–60. The sea breeze and seasonal winds — general observation.
+      The burning noon sand — CC Antya 4.118–124; the sand dune Chataka-parvata, taken for Govardhana — Antya 14.84
+      ff.; bathing in the sea, "suddenly they heard singing" on the shore — Antya 2.153–154; the plunge into the sea
+      under the autumn moon — Antya 18.1–60. The sea breeze and seasonal winds — general observation. Period: Ain-i
+      Akbari — in Orissa 8 months of rain, 3 cold months and one hot.
   text:
     ru: >-
       Пури стоит на берегу Бенгальского залива, и его воздух всегда влажен и солон. С моря почти постоянно дует ветер,
@@ -268,7 +276,7 @@
       them, Chataka-parvata, the Lord took for Govardhana Hill and ran towards it in ecstasy. At noon the sand burns, and
       in the rains storms and high waves crash upon the shore.
   hagiography: ["ЧЧ Антья 4.118–124", "ЧЧ Антья 14.84–90", "ЧЧ Антья 2.153–154", "ЧЧ Антья 18.1–60"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126"]
   images: []
   audio:
     - {file: "material-culture/audio/bay-of-bengal-surf-coxs-bazar.ogg", license: "PD", author: "Sukanta Majumdar (radio aporee)",

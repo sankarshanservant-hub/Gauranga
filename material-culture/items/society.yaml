@@ -405,7 +405,7 @@
 - id: mc-hat-market
   title: {ru: "Рынок-хат и базар", en: "The hat and the bazaar"}
   rubric: town
-  era_evidence: hagiography
+  era_evidence: epoch
   evidence_note:
     ru: >-
       Мадхавендра Пури сидит на «опустевшем базаре» в Ремуне, пуджари ищет его на рынке — ЧЧ Мадхья 4.125–132;
@@ -430,13 +430,17 @@
       поляне или под большим деревом; в городах был постоянный базар с лавками. Крестьяне приносили рис, овощи, рыбу,
       гончары — горшки, ткачи — ткани, и почти всё покупали за каури. К вечеру базар пустел: на таком опустевшем
       базаре в Ремуне сидел Мадхавендра Пури, когда пуджари принёс ему кхиру, которую Гопинатха «украл» для него.
-      Слух о празднике мгновенно собирал торговцев: в Панихати они пришли с чидой, простоквашей и сладостями.
+      Слух о празднике мгновенно собирал торговцев: в Панихати они пришли с чидой, простоквашей и сладостями. Купцы же
+      плыли на лодках от рынка к рынку: заезжие европейцы удивлялись, что в Бенгалии «каждый день в том или ином месте
+      большой базар».
     en: >-
       In villages trade went on at the hat — an open-air market held on fixed days of the week in a clearing or under a
       big tree; towns had a standing bazaar with shops. Peasants brought rice, vegetables and fish, potters their pots,
       weavers their cloth, and nearly everything was bought with cowries. By evening the bazaar emptied: in such an
       empty bazaar at Remuna sat Madhavendra Puri when the priest brought him the khira that Gopinatha had 'stolen' for
-      him. News of a festival brought traders at once: at Panihati they came with chida, curd and sweets.
+      him. News of a festival brought traders at once: at Panihati they came with chida, curd and sweets. Merchants
+      went by boat from market to market: visiting Europeans marvelled that in Bengal there was 'every day in one place
+      or other a great market'.
   hagiography: ["ЧЧ Мадхья 4.125–132", "ЧЧ Антья 6.91–92", "ЧЧ Антья 11.75–76"]
   sources: ["Sen 1911, с. 409–410 (кварталы Навадвипы)",
             "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 114–115",

@@ -834,15 +834,17 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Жития: Нитьянанда держит зонт над Господом (ЧБ Мадхья 6.64, 8.306, 9.45, 10.6, 10.113; «зонтиком от солнца» — 22.18);
-      Рагхавананда — над Нитьянандой (ЧБ Антья 5.273); зонты в шествиях (ЧЧ Мадхья 14.129; ЧБ Антья 8.104); Нитьянанда
-      как «зонт» Господа (ЧБ Мадхья 4.66). Материал — бамбук и пальмовый лист, Mukharji 1888, с. 314 (XIX в.); зонт на
-      упанаяне — Bose 1881, с. 185.
+      Жития: Нитьянанда держит зонт над Господом (ЧБ Мадхья 6.64, 8.306, 9.45, 10.6, 10.113; «зонтиком от солнца» —
+      22.18); Рагхавананда — над Нитьянандой (ЧБ Антья 5.273); зонты в шествиях (ЧЧ Мадхья 14.129; ЧБ Антья 8.104);
+      Нитьянанда как «зонт» Господа (ЧБ Мадхья 4.66). Материал — бамбук и пальмовый лист, Mukharji 1888, с. 314 (XIX
+      в.); зонт на упанаяне — Bose 1881, с. 185. Эпоха: Фэй Синь (1436) — по сторонам султана в Пандуа сотни зонтов из
+      павлиньих перьев.
     en: >-
-      Hagiographies: Nityananda holds an umbrella over the Lord (CB Madhya 6.64, 8.306, 9.45, 10.6, 10.113; "a sunshade"
-      — 22.18); Raghavananda over Nityananda (CB Antya 5.273); umbrellas in processions (CC Madhya 14.129; CB Antya
-      8.104); Nityananda as the Lord's "umbrella" (CB Madhya 4.66). Material — bamboo and palm leaf, Mukharji 1888,
-      p. 314 (19th c.); the umbrella at upanayana — Bose 1881, p. 185.
+      Hagiographies: Nityananda holds an umbrella over the Lord (CB Madhya 6.64, 8.306, 9.45, 10.6, 10.113; "a
+      sunshade" — 22.18); Raghavananda over Nityananda (CB Antya 5.273); umbrellas in processions (CC Madhya 14.129;
+      CB Antya 8.104); Nityananda as the Lord's "umbrella" (CB Madhya 4.66). Material — bamboo and palm leaf, Mukharji
+      1888, p. 314 (19th c.); the umbrella at upanayana — Bose 1881, p. 185. Period: Fei Xin (1436) — hundreds of
+      peacock-feather umbrellas on either side of the sultan at Pandua.
   text:
     ru: >-
       Зонт — и защита от солнца и дождя, и знак почёта. Простые зонты делали из бамбукового каркаса, покрытого
@@ -857,7 +859,9 @@
       houses, Nityananda held an umbrella over Him while others fanned Him with chamaras; in scripture Nityananda-Ananta
       Himself becomes the Lord's umbrella, bed and seat.
   hagiography: ["ЧБ Мадхья 6.64", "ЧБ Мадхья 9.45", "ЧБ Мадхья 10.6", "ЧБ Мадхья 22.18", "ЧБ Антья 5.273", "ЧЧ Мадхья 14.129", "ЧБ Мадхья 4.66"]
-  sources: ["Mukharji 1888, с. 314", "Bose 1881, с. 185"]
+  sources: ["Mukharji 1888, с. 314",
+            "Bose 1881, с. 185",
+            "Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 442"]
   images: []
   game: {model: "зонт из бамбука и пальмового листа Ø ≈90 см; почётный белый зонт на шесте 2,5 м с бахромой; крестьянская шляпа-зонт из листьев",
          where: ["navadvipa/srivasa-angan", "puri/road"]}

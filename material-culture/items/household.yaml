@@ -284,13 +284,17 @@
       Мишра и Шачи «были бедны» — ЧБ Ади 4.83; бедняк без достойного подарка — ЧБ Ади 3.30; Мишра раздаёт всё
       полученное на празднике рождения — ЧЧ Ади 13.109; Шривас не ходит за подаянием и живёт тем, что приходит само,
       «три хлопка» — ЧБ Антья 5.40–54; Шачи не знает, чем кормить гостей, — ЧБ Ади 14.16–17; «Я лишь нищий брахман» —
-      ЧЧ Мадхья 3.82, 3.86 (Адвайта в шутку). Источники дохода брахмана (дары, обряды, ученики) — обобщение.
+      ЧЧ Мадхья 3.82, 3.86 (Адвайта в шутку). Источники дохода брахмана (дары, обряды, ученики) — обобщение. Эпоха:
+      Мукундарам (ок. 1590) — Гаури отвечает Шиве, что дома нет ни зёрнышка: вчерашнее подаяние съедено, а остатки
+      риса выпила мышь; пусть заложит трезубец — тогда она купит риса.
     en: >-
       Mishra and Shachi 'were poor' — CB Adi 4.83; a poor man with no fit gift — CB Adi 3.30; Mishra gives away all he
       received at the birth festival — CC Adi 13.109; Shrivasa does not go begging and lives on what comes of itself,
       'three claps' — CB Antya 5.40–54; Shachi does not know how to feed the guests — CB Adi 14.16–17; 'I am only a
       beggar brahmin' — CC Madhya 3.82, 3.86 (Advaita in jest). A brahmin's sources of income (gifts, rites, pupils)
-      are a generalisation.
+      are a generalisation. Period: Mukundaram (c. 1590) — Gauri tells Shiva there is not a grain in the house:
+      yesterday's alms are eaten and the mouse has drunk the last of the rice-water; let him pawn his trident, and she
+      will buy rice.
   text:
     ru: >-
       Учёный брахман Навадвипы не пахал и не торговал: он жил дарами за обряды, платой учеников и подношениями
@@ -307,7 +311,7 @@
       times: if nothing comes in three days, I will tie a pot to my neck and throw myself into the Ganga. The Lord
       answered that Lakshmi herself would go begging before poverty touched his house.
   hagiography: ["ЧБ Ади 4.83", "ЧБ Ади 3.30", "ЧЧ Ади 13.109", "ЧБ Антья 5.40–54", "ЧБ Ади 14.14–17", "ЧЧ Мадхья 3.82–86"]
-  sources: []
+  sources: ["Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 19"]
   images: []
   game: {model: "дом Мишры: 3–4 хижины, 1–2 коровы, глиняная и немного медной посуды, циновки; без металлических сундуков",
          where: ["mishra-house/courtyard"], notes: "о бедном торговце листьями — карточка mc-shridhar-hut"}

@@ -42,12 +42,16 @@
     ru: >-
       Тигры на берегу и крокодилы в воде на пути в Пури у Чхатрабхоги — ЧБ Антья 2.135–136; Чайтанья дас (спутник
       Нитьянанды) играл с тиграми и запрыгивал им на спину — ЧБ Антья 5.426–429, ЧЧ Ади 11.20; тигровые шкуры — ЧЧ
-      Мадхья 24.239; тигр в Джхарикханде — см. mc-jharikhanda-animals; коготь-оберег — mc-tiger-claw.
+      Мадхья 24.239; тигр в Джхарикханде — см. mc-jharikhanda-animals; коготь-оберег — mc-tiger-claw. Эпоха: Фитч
+      (1586) — у Танды в Гауде и по пустошам Гоурена много тигров, трава выше человека; хижины Сонаргаона с дверью «от
+      тигров и лис»; Ма Хуань (1433) — укротитель водит тигра по рынкам (см. mc-tiger-tamer).
     en: >-
       Tigers on the bank and crocodiles in the water on the way to Puri near Chhatrabhoga — CB Antya 2.135–136;
       Chaitanya dasa (Nityananda's associate) played with tigers and leapt on their backs — CB Antya 5.426–429, CC Adi
       11.20; tiger skins — CC Madhya 24.239; the Jharikhanda tiger — see mc-jharikhanda-animals; the claw amulet —
-      mc-tiger-claw.
+      mc-tiger-claw. Period: Fitch (1586) — many tigers near Tanda in Gauda and on the wastes of Gouren, grass taller
+      than a man; Sonargaon huts with a door 'against tigers and foxes'; Ma Huan (1433) — a tamer leads a tiger round
+      the markets (see mc-tiger-tamer).
   text:
     ru: >-
       Бенгальский тигр (бенг. багх, санскр. вьягхра) в те времена водился не только в Сундарбане, но и в зарослях вдоль
@@ -63,7 +67,8 @@
       intoxicated with prema, chased tigers and even sat on their backs, and they did him no harm.
   hagiography: ["ЧБ Антья 2.135–136", "ЧБ Антья 5.426–429", "ЧБ Антья 5.725", "ЧЧ Ади 11.20", "ЧЧ Мадхья 17.28–29",
                 "ЧЧ Мадхья 24.239"]
-  sources: []
+  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 111, 113",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 438–439"]
   images: []
   game: {model: "тигр 2,7–3 м, полосатая шкура; следы на илистом берегу", where: ["travel/chhatrabhoga", "travel/jharikhanda"]}
 
@@ -76,11 +81,15 @@
       «Царские одежды, слоны, кони…» на Курукшетре (Радха о Кришне) — ЧЧ Мадхья 1.79 (образ); Гопинатха Паттанаяка
       предлагает царской казне более десятка лошадей в уплату долга, царевич занижает цену — ЧЧ Антья 9.21–52; дикие
       слоны Джхарикханды — ЧЧ Мадхья 17.30–33. Конница и боевые слоны султана Гауды и Гаджапати — общеисторически.
+      Эпоха: Фэй Синь (1436) — послов в Сонаргаоне встречали со слонами и конями, перед залом султана — сотни воинов
+      на слонах; «Айн-и Акбари» — 1170 слонов в войске субы, ездят на слонах, верхом — редко.
     en: >-
       "Royal dress, elephants, horses…" at Kurukshetra (Radha on Krishna) — CC Madhya 1.79 (an image); Gopinatha
-      Pattanayaka offers the royal treasury over ten horses against his debt, and the prince undervalues them — CC Antya
-      9.21–52; wild elephants of Jharikhanda — CC Madhya 17.30–33. The cavalry and war elephants of the Gauda sultan and
-      the Gajapati — general history.
+      Pattanayaka offers the royal treasury over ten horses against his debt, and the prince undervalues them — CC
+      Antya 9.21–52; wild elephants of Jharikhanda — CC Madhya 17.30–33. The cavalry and war elephants of the Gauda
+      sultan and the Gajapati — general history. Period: Fei Xin (1436) — envoys met at Sonargaon with elephants and
+      horses, hundreds of soldiers on elephants before the sultan's hall; Ain-i Akbari — 1,170 elephants in the
+      provincial army; people ride elephants, horseback is rare.
   text:
     ru: >-
       Простые бенгальцы ходили пешком, плыли на лодках или ехали в повозке на быках; кони и слоны были роскошью
@@ -95,7 +104,8 @@
       offered his horses instead of money and was angered when the prince set too low a price on them — for which he
       nearly paid with his life, until Mahaprabhu's mercy saved him.
   hagiography: ["ЧЧ Антья 9.21–52", "ЧЧ Мадхья 1.79", "ЧЧ Мадхья 17.30–33"]
-  sources: []
+  sources: ["Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 441–442",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 129"]
   images: []
   game: {model: "боевой слон с попоной и паланкином-хаудой; конь с седлом и кистями", where: ["puri/palace", "gauda/court"]}
   todo: "найти в ЧБ/ЧЧ слонов и коней Хуссейн-шаха (ЧЧ Мадхья 1, сцена в Рамакели)"
@@ -168,13 +178,19 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Мальчики с Нитьянандой в Экачакре возвращаются домой, трубя в буйволиные рога (игра в пастушков) — ЧБ Ади 9.31; буйволиный рожок
-      в наряде Кришны — ЧБ Антья 5.352, 7.54; коровы из Тайланги у Львиных врат — ЧЧ Антья 17.12–18; «вол маслобойщика
-      вечно ходит по кругу» — Лочан, Мадхья 2.169; коза — в поговорках (ЧЧ Мадхья 15.179). Коровы — mc-cowshed.
+      Мальчики с Нитьянандой в Экачакре возвращаются домой, трубя в буйволиные рога (игра в пастушков) — ЧБ Ади 9.31;
+      буйволиный рожок в наряде Кришны — ЧБ Антья 5.352, 7.54; коровы из Тайланги у Львиных врат — ЧЧ Антья 17.12–18;
+      «вол маслобойщика вечно ходит по кругу» — Лочан, Мадхья 2.169; коза — в поговорках (ЧЧ Мадхья 15.179). Коровы —
+      mc-cowshed. Эпоха: Ма Хуань (1433) — буйвол, корова, козы, куры, утки, гуси; Барбоза (ок. 1516) — много коров и
+      овец, «чрезвычайно большие куры»; Ибн Баттута (1346) — «скот там — буйволы», дойная корова 3 динара; Линсхотен
+      (1596) — корова за 1 ларин.
     en: >-
-      The boys with Nityananda in Ekachakra come home blowing buffalo horns (playing cowherds) — CB Adi 9.31; the buffalo horn in Krishna's
-      attire — CB Antya 5.352, 7.54; cows from Tailanga by the Lion Gate — CC Antya 17.12–18; "the oil-man's ox forever
-      walks in a circle" — Lochana, Madhya 2.169; goats in proverbs (CC Madhya 15.179). Cows — mc-cowshed.
+      The boys with Nityananda in Ekachakra come home blowing buffalo horns (playing cowherds) — CB Adi 9.31; the
+      buffalo horn in Krishna's attire — CB Antya 5.352, 7.54; cows from Tailanga by the Lion Gate — CC Antya
+      17.12–18; "the oil-man's ox forever walks in a circle" — Lochana, Madhya 2.169; goats in proverbs (CC Madhya
+      15.179). Cows — mc-cowshed. Period: Ma Huan (1433) — buffalo, cow, goats, fowls, ducks, geese; Barbosa (c. 1516)
+      — many cows and sheep, 'exceedingly large fowls'; Ibn Battuta (1346) — 'the cattle there are buffaloes', a milch
+      cow 3 dinars; Linschoten (1596) — a cow for 1 larin.
   text:
     ru: >-
       Корова — кормилица и святыня (см. mc-cowshed), а работу делают быки: кроме пахоты (mc-plough-bullocks) они тянут
@@ -191,7 +207,10 @@
       and would not leave Him.
   hagiography: ["ЧБ Ади 9.31", "ЧБ Антья 5.352–353", "ЧБ Антья 7.54, 7.67", "ЧЧ Антья 17.12–18", "Лочан, Мадхья-кханда, ч. 2, ст. 169",
                 "ЧЧ Мадхья 15.179"]
-  sources: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 439",
+            "Barbosa (ок. 1516), пер. Stanley 1866, с. 180",
+            "Ибн Баттута (1346), в: Yule–Cordier, Cathay and the Way Thither IV (1916), с. 81",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 94–95"]
   images: []
   game: {model: "горбатый бык-зебу (светлый, 1,2 м в холке); чёрный буйвол в пруду; маленькие чёрные бенгальские козы",
          where: ["mishra-house/cowshed", "mishra-house/pond", "puri/simha-dvara"]}
@@ -203,13 +222,15 @@
   evidence_note:
     ru: >-
       «В сезон дождей Ганга кишит крокодилами», Нитьянанда плавает и пытается их поймать — ЧБ Мадхья 12.6, 13.137;
-      хватает крокодила за хвост — ЧБ Мадхья 5.75–76; крокодилы у Чхатрабхоги — ЧБ Антья 2.135–136; Падмавати «прекрасна
-      крокодилами, черепахами, рыбами» — Лочан, Ади 12.88. Вид (гавиал / болотный крокодил) в текстах не различается.
+      хватает крокодила за хвост — ЧБ Мадхья 5.75–76; крокодилы у Чхатрабхоги — ЧБ Антья 2.135–136; Падмавати
+      «прекрасна крокодилами, черепахами, рыбами» — Лочан, Ади 12.88. Вид (гавиал / болотный крокодил) в текстах не
+      различается. Эпоха: Конти (ок. 1440) — в Ганге крокодилы и «неизвестные нам рыбы».
     en: >-
-      "In the rainy season the Ganga teems with crocodiles", Nityananda swims and tries to catch them — CB Madhya 12.6,
-      13.137; He grabs a crocodile by the tail — CB Madhya 5.75–76; crocodiles at Chhatrabhoga — CB Antya 2.135–136; the
-      Padmavati "beautiful with crocodiles, turtles and fish" — Lochana, Adi 12.88. The species (gharial / mugger) is not
-      distinguished in the texts.
+      "In the rainy season the Ganga teems with crocodiles", Nityananda swims and tries to catch them — CB Madhya
+      12.6, 13.137; He grabs a crocodile by the tail — CB Madhya 5.75–76; crocodiles at Chhatrabhoga — CB Antya
+      2.135–136; the Padmavati "beautiful with crocodiles, turtles and fish" — Lochana, Adi 12.88. The species
+      (gharial / mugger) is not distinguished in the texts. Period: Conti (c. 1440) — crocodiles in the Ganga and
+      'fishes unknown to us'.
   text:
     ru: >-
       В Ганге водились два вида крокодилов: длиннорылый гавиал, ловящий рыбу узкими челюстями, и опасный для людей
@@ -224,7 +245,7 @@
       crocodiles, and once seized one by the tail — so that Gadadhara and Shrivasa called on Mahaprabhu in terror, and
       only His coaxing brought Nityananda back to the bank.
   hagiography: ["ЧБ Мадхья 5.75–76", "ЧБ Мадхья 12.6", "ЧБ Мадхья 13.137", "ЧБ Антья 2.135–136", "Лочан, Ади-кханда, ч. 12, ст. 88"]
-  sources: []
+  sources: ["Conti (ок. 1440), в: Major, India in the Fifteenth Century (1857), с. 10"]
   images: []
   game: {model: "гавиал 4–5 м с узким рылом; магар 3–4 м; на песчаной отмели", where: ["ganga-ghat"]}
 
@@ -608,12 +629,14 @@
   evidence_note:
     ru: >-
       В житиях эти птицы почти не названы: горлицы и голуби — у Карнапуры (9.83, 9.94), «крики множества разных птиц»
-      в лесу — Карнапура 12.128. Набор видов — по природе Нижней Бенгалии (обычные и сейчас виды); для сцен и звукового
-      фона.
+      в лесу — Карнапура 12.128. Набор видов — по природе Нижней Бенгалии (обычные и сейчас виды); для сцен и
+      звукового фона. Эпоха: «Айн-и Акбари» — птица *бхангарадж* (большой ракетохвостый дронго): чёрная, с красными
+      глазами, два пера хвоста ≈ 80 см, её приручают, она подражает голосу любого животного.
     en: >-
-      These birds are hardly named in the hagiographies: doves and pigeons in Karnapura (9.83, 9.94), "the cries of many
-      kinds of birds" in the forest — Karnapura 12.128. The set of species follows the nature of lower Bengal (still
-      common species); for scenes and soundscape.
+      These birds are hardly named in the hagiographies: doves and pigeons in Karnapura (9.83, 9.94), "the cries of
+      many kinds of birds" in the forest — Karnapura 12.128. The set of species follows the nature of lower Bengal
+      (still common species); for scenes and soundscape. Period: Ain-i Akbari — the *bhangaraj* bird (greater
+      racket-tailed drongo): black, red-eyed, two tail feathers ≈ 80 cm, tamed and able to mimic any creature's voice.
   text:
     ru: >-
       С рассвета двор бенгальского дома полон птичьих голосов. Краснозадый бюльбюль с хохолком весело пересвистывается в
@@ -628,7 +651,7 @@
       cry, and flocks of grey babblers, the "seven sisters", bustle noisily in the bamboo. This is the everyday soundscape
       with which each day began in Navadvipa.
   hagiography: ["Карнапура, сарга 9.83, 9.94, 12.128"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 125"]
   images: []
   audio: []
   game: {model: "бюльбюль 20 см (чёрный хохолок, красное подхвостье); горлица; зимородок 28 см; дронго 30 см",

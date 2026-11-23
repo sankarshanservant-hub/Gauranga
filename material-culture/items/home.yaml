@@ -6,16 +6,24 @@
 - id: mc-chala-hut
   title: {ru: "Дом-чала", en: "The chala hut"}
   rubric: home
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
     ru: >-
       Жития говорят только о «доме» (гхара) и отдельных комнатах; облик хижины восстанавливается по терракотовым
       храмам XVII в., повторяющим соломенную кровлю, и по этнографии XIX в. Соломенная кровля на бамбуковых столбах
       засвидетельствована поэтами XVI в. (Мукундарам, Чандравати — по Сену, 1911/1920); изогнутый конёк — Martin 1838.
+      Эпоха: Фитч (1586) — в Сонаргаоне дома «очень маленькие, крыты соломой, по стенам несколько циновок и дверь от
+      тигров и лис»; в Бакле — дома высокие и красивые, улицы широкие; «Айн-и Акбари» (1590-е) — дома Бенгалии из
+      бамбука, иные очень дороги и долговечны; в Ориссе стены хижин из тростника; Федеричи (1569) — соломенные
+      дома-однодневки у стоянки кораблей (см. mc-straw-village).
     en: >-
       The hagiographies mention only the "house" (ghara) and separate rooms; the look of the hut is reconstructed from
       17th-c. terracotta temples that copy thatched roofs and from 19th-c. ethnography. Thatch on bamboo posts is
-      attested by 16th-c. poets (Mukundaram, Chandravati — via Sen 1911/1920); the curved ridge — Martin 1838.
+      attested by 16th-c. poets (Mukundaram, Chandravati — via Sen 1911/1920); the curved ridge — Martin 1838. Period:
+      Fitch (1586) — in Sonargaon the houses are 'very little, covered with straw, with a few mats round the walls and
+      a door to keep out tigers and foxes'; in Bakla houses are tall and fair, streets broad; Ain-i Akbari (1590s) —
+      Bengal houses are of bamboo, some costly and long-lasting; in Orissa hut walls are of reed; Federici (1569) —
+      temporary straw houses by the ships' anchorage (see mc-straw-village).
   text:
     ru: >-
       Бенгальский дом — не одно здание, а несколько хижин вокруг общего двора. Каждая стоит на поднятом глиняном
@@ -37,7 +45,10 @@
             "Sen, Bengali Ramayanas (1920), с. 187–188 (Чандравати, XVI в.: соломенная кровля на бамбуковых столбах)",
             "Martin, Eastern India (1838), т. 3, с. 100–101 (кровля «бангла» с изогнутым коньком; четырёхскатная chautarka) — ок. 1810",
             "Day, Bengal Peasant Life (1874), гл. V, с. 28–31 (bara ghar: толстые глиняные стены, солома больше локтя, цоколь до 5 футов)",
-            "Kennedy, The Chaitanya Movement (1925), с. 88–89; Ward (1863), с. 178 — храм джор-бангла как две хижины"]
+            "Kennedy, The Chaitanya Movement (1925), с. 88–89; Ward (1863), с. 178 — храм джор-бангла как две хижины",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 110, 118–120",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 126",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410–411"]
   images: [{file: "material-culture/img/hodges-1786-farmyard-bengal-huts.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Hodges (1744–1797).", url: "https://wellcomecollection.org/works/xrs5r8g9", note: "1 августа 1786 (London: J. Wells), мягкий лак с акватинтой, сепия.; Wellcome Collection — 26670i (Sierra b11845168; image V0050414)."},
            {file: "material-culture/img/bengal-thatched-huts-dog-etching.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестен (подписи по-французски; вероятно, из французского издания Сольвинса «Les Hindoûs», 1808–1812, или естественно-исторической серии).", url: "https://wellcomecollection.org/works/kmqst6k6", note: "нач. XIX в. (в каталоге без даты).; Wellcome Collection — 42184i (Sierra b12000036; image V0022885)."},
            {file: "material-culture/img/solvyns-1799-man-outside-hut.jpg", license: "PD (Public Domain Mark 1.0)", author: "François Balthazar Solvyns (1760–1824).", url: "https://wellcomecollection.org/works/kh93xg86", note: "1799 (Калькутта, серия «A Collection of Two Hundred and Fifty Coloured Etchings…»).; Wellcome Collection — 30574i (Sierra b11884149; image V0050381EL)."},
@@ -217,11 +228,14 @@
   evidence_note:
     ru: >-
       В житиях — «сиденье» и «асана»; конкретные пиди и циновки (мадур, шитал-пати) — по этнографии; проверить. Мадур
-      и шитал-пати описаны у Mukharji 1888 (шитал-пати — ремесло Силхета, родины семьи Мишры).
+      и шитал-пати описаны у Mukharji 1888 (шитал-пати — ремесло Силхета, родины семьи Мишры). Эпоха: «Айн-и Акбари» —
+      бенгальские циновки, «похожие на тканый шёлк»; Мукундарам (ок. 1590) — охотник Калакету ест, сидя на оленьей
+      шкуре.
     en: >-
       The hagiographies speak of a 'seat' and 'asana'; the specific pidi and mats (madur, shital-pati) follow
       ethnography; to be checked. Madur and shital-pati are described by Mukharji 1888 (shital-pati is a Sylhet craft
-      — Sylhet was the Mishra family's homeland).
+      — Sylhet was the Mishra family's homeland). Period: Ain-i Akbari — Bengal mats 'like woven silk'; Mukundaram (c.
+      1590) — the hunter Kalaketu eats sitting on a deerskin.
   text:
     ru: >-
       Стульев и столов в бенгальском доме не было: сидели на полу. Для почёта и для трапезы ставили пиди — низкую
@@ -234,7 +248,9 @@
   hagiography: ["ЧБ Ади 5.24", "ЧБ Ади 5.31"]
   sources: ["Bose, The Hindoos as They Are (1881), с. 72 (деревянные pirays)",
             "Mukharji, Art-Manufactures of India (1888), с. 310–312 (мадур из осоки; шитал-пати — Силхет и Вост. Бенгалия)",
-            "Hunter, Statistical Account of Bengal, т. 2 (1875), с. 240 (циновки, сундук, плетёные короба-петара)"]
+            "Hunter, Statistical Account of Bengal, т. 2 (1875), с. 240 (циновки, сундук, плетёные короба-петара)",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 36"]
   images: []
   game: {model: "пиди 40×25×8 см, тёмное дерево; циновка 180×90 см, тростник",
          where: ["mishra-house/courtyard", "mishra-house/kitchen"]}
@@ -298,10 +314,16 @@
   evidence_note:
     ru: >-
       Омовения в Ганге — постоянно в житиях (дом Мишры у Ганги, ЧЧ Ади 13.57–58). Собственный пруд у дома Мишры в
-      житиях не упомянут — реконструкция по обычному устройству бенгальской усадьбы.
+      житиях не упомянут — реконструкция по обычному устройству бенгальской усадьбы. Эпоха: Барбоза (ок. 1516) —
+      знатные мусульмане Бенгалии часто купаются в больших прудах при своих домах; Фитч (1586, на Ганге) — женщины
+      приходят к воде по 10–30 вместе, с пением, моются и уходят с пением. «Рияз ас-салатин» (1788): колодезную воду
+      почти не пьют, «обычай копать пруды очень распространён».
     en: >-
       Bathing in the Ganga is constant in the hagiographies (Mishra's house was on the Ganga, CC Adi 13.57–58). A pond
-      of Mishra's own is not mentioned — reconstructed from the usual layout of a Bengali homestead.
+      of Mishra's own is not mentioned — reconstructed from the usual layout of a Bengali homestead. Period: Barbosa
+      (c. 1516) — Bengal's Muslim nobles often bathe in large tanks by their houses; Fitch (1586, on the Ganga) —
+      women come to the water 10–30 together, singing, bathe and go away singing. Riyaz-us-Salatin (1788): well water
+      is hardly drunk, 'the custom of digging tanks is very common'.
   text:
     ru: >-
       Джаганнатха Мишра поселился в Навадвипе на берегу Ганги, и вся жизнь семьи шла у её вод: туда спускались по
@@ -316,7 +338,10 @@
   hagiography: ["ЧЧ Ади 13.57–58", "ЧЧ Ади 14.48–49", "ЧЧ Ади 14.74", "ЧБ Ади 4.18–19", "ЧБ Ади 4.137"]
   sources: ["Sen 1911, с. 21–22 («Дак-вачана»: на востоке — пруд, на западе — бамбук, на севере — сад, юг открыт)",
             "Sen 1911, с. 23 (вода — кувшином из пруда)",
-            "Day 1874, с. 30 (пруд к востоку от двора; питьевая вода — из большого пруда)"]
+            "Day 1874, с. 30 (пруд к востоку от двора; питьевая вода — из большого пруда)",
+            "Barbosa (ок. 1516), пер. Stanley 1866, с. 180",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 101",
+            "Riyaz-us-Salatin (1788), пер. Abdus Salam 1902, с. 23 (⚠ XVIII в.)"]
   images: [{file: "material-culture/img/belnos-1851-brahmin-bathing-ganges.jpg", license: "PD (Public Domain Mark 1.0)", author: "S. C. Belnos («The Sundhya…»)", url: "https://wellcomecollection.org/works/vx4mta93", note: "1851.; Wellcome Collection — 587478i (b15874783)."}]
   game: {model: "ступени из утрамбованной глины/кирпича к воде, бамбуковые перила? (проверить); пруд с ряской",
          where: ["ganga-ghat", "mishra-house/pond"], codex: hs_pond}

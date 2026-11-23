@@ -3,7 +3,7 @@
 - id: mc-palanquin
   title: {ru: "Закрытый паланкин (дола)", en: "Covered palanquin (dola)"}
   rubric: travel
-  era_evidence: hagiography
+  era_evidence: epoch
   evidence_note:
     ru: >-
       Сита Тхакурани приезжает «на закрытом паланкине» со служанками — ЧЧ Ади 13.114. Устройство и носильщики —
@@ -19,11 +19,15 @@
     ru: >-
       Знатные женщины путешествовали в закрытом паланкине — ящике или ложе на длинной жерди, которую несли на плечах
       носильщики; занавеси скрывали едущую от посторонних глаз. Так Сита Тхакурани, супруга Адвайты Ачарьи, приехала
-      из Шантипура в Навадвипу посмотреть на младенца, а за ней шли служанки с корзинами даров.
+      из Шантипура в Навадвипу посмотреть на младенца, а за ней шли служанки с корзинами даров. Двор Акбара описывал
+      бенгальский паланкин-сукхасан: изогнутый полумесяцем, обтянутый алым сукном, со съёмным навесом от солнца и
+      дождя — в нём можно было сидеть, лежать и даже спать в пути.
     en: >-
       Women of standing travelled in a covered palanquin — a box or litter slung from a long pole carried on bearers'
       shoulders; curtains hid the traveller from strangers' eyes. In this way Sita Thakurani, Advaita Acharya's wife,
-      came from Shantipur to Navadvipa to see the baby, followed by maidservants carrying baskets of gifts.
+      came from Shantipur to Navadvipa to see the baby, followed by maidservants carrying baskets of gifts. Akbar's
+      chroniclers described the Bengal sukhasan: curved like a crescent, covered in scarlet cloth, with a removable
+      awning against sun and rain — one could sit, lie and even sleep in it on the road.
   hagiography: ["ЧБ Ади 15.137 (дола для жениха)", "ЧЧ Ади 13.114"]
   sources: ["Hobson-Jobson (1903), s.v. Palankeen (в Бенгалии — 4 носильщика, жердь выгнута дугой)",
             "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 122, 126"]

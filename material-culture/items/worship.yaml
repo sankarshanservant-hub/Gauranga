@@ -47,11 +47,15 @@
     ru: >-
       Подробно — ЧЧ Мадхья 4.55–63 (установка Гопала Мадхавендрой Пури: 900 кувшинов, масло, панчагавья, панчамрита,
       гхи, вода из 100 сосудов, раковина) и ЧБ Мадхья 9.25–43 (вода Ганги, процеженная через ткань, с камфарой и
-      «четырьмя равными» благовониями, мантры Пуруша-сукты, 108 кувшинов).
+      «четырьмя равными» благовониями, мантры Пуруша-сукты, 108 кувшинов). Эпоха: «Айн-и Акбари» (1590-е) о Пури —
+      Джаганнатху, Баладеву и Субхадру омывают шесть раз в день и каждый раз одевают заново (см.
+      mc-jagannatha-six-baths).
     en: >-
       In detail — CC Madhya 4.55–63 (Madhavendra Puri installs Gopala: 900 pots, oil, panchagavya, panchamrita, ghee,
       water from 100 vessels, a conch) and CB Madhya 9.25–43 (Ganga water strained through cloth, with camphor and the
-      "four equal" fragrances, the Purusha-sukta mantras, 108 pots).
+      "four equal" fragrances, the Purusha-sukta mantras, 108 pots). Period: Ain-i Akbari (1590s) on Puri —
+      Jagannatha, Baladeva and Subhadra are bathed six times a day and dressed anew each time (see
+      mc-jagannatha-six-baths).
   text:
     ru: >-
       Торжественное омовение Божества — праздник для всей округи. Когда Мадхавендра Пури устанавливал Гопала, местные
@@ -69,7 +73,7 @@
       Purusha-sukta; even Shrivasa's servants carried water, and the Lord renamed the maid Duhkhi ("Sorrowful") as
       Sukhi — "Happy".
   hagiography: ["ЧЧ Мадхья 4.55–63", "ЧБ Мадхья 9.25–43"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 128"]
   images: []
   game: {model: "ряды глиняных кувшинов (гхата) с водой, белая раковина для омовения, медный таз (тамракунда),
          тонкая ткань для процеживания", where: ["navadvipa/shrivasa-house", "mishra-house/thakur-ghar"]}
@@ -259,14 +263,22 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Ганга-пуджа после омовения с гирляндой и сандалом — ЧБ Ади 8.127–156; кувшины с водой Ганги в доме — ЧБ Ади 8.132;
-      поклонение Ганге после рождения ребёнка — ЧБ Ади 4.19; молитвы и поклоны Ганге — ЧБ Антья 1.108–116, Мадхья 1.134,
-      28.17; Лочан, Мадхья-кханда, ч. 16, ст. 5; глина Ганги для тилаки — ЧЧ Антья 10 (см. mc-raghava-jhali).
+      Ганга-пуджа после омовения с гирляндой и сандалом — ЧБ Ади 8.127–156; кувшины с водой Ганги в доме — ЧБ Ади
+      8.132; поклонение Ганге после рождения ребёнка — ЧБ Ади 4.19; молитвы и поклоны Ганге — ЧБ Антья 1.108–116,
+      Мадхья 1.134, 28.17; Лочан, Мадхья-кханда, ч. 16, ст. 5; глина Ганги для тилаки — ЧЧ Антья 10 (см.
+      mc-raghava-jhali). Эпоха: Барбоза (ок. 1516) — «все индийцы ходят в паломничество к этой реке купаться»; Фитч
+      (1586) — индусы носят воду Ганги издалека, даже имея рядом хорошую, а если её мало — хоть окропляются; Линсхотен
+      (1596) — омывшемуся прощены все грехи; «Айн-и Акбари» — Ганга течёт с волос Махадевы, Трибени весьма почитаема,
+      воду уносят в дар в далёкие места, она долго не портится.
     en: >-
       Ganga-puja after bathing with a garland and sandal — CB Adi 8.127–156; jars of Ganga water in the house — CB Adi
       8.132; worship of the Ganga after a birth — CB Adi 4.19; prayers and bows to the Ganga — CB Antya 1.108–116,
       Madhya 1.134, 28.17; Lochana, Madhya-khanda pt. 16 v. 5; Ganga clay for tilaka — CC Antya 10 (see
-      mc-raghava-jhali).
+      mc-raghava-jhali). Period: Barbosa (c. 1516) — 'all the Indians go on pilgrimage to bathe in this river'; Fitch
+      (1586) — Hindus carry Ganga water from afar though good water is at hand, and if there is little they at least
+      sprinkle themselves; Linschoten (1596) — whoever bathes is forgiven all sins; Ain-i Akbari — the Ganga flows
+      from Mahadeva's locks, Tribeni is highly revered, the water is carried as a gift to distant places and keeps
+      long.
   text:
     ru: >-
       Для вайшнава Ганга — не просто река: она течёт от стоп Вишну, и потому её вода очищает и пробуждает
@@ -283,7 +295,10 @@
       Lord bowed down to the Ganga.
   hagiography: ["ЧБ Ади 8.127–156", "ЧБ Ади 4.19", "ЧБ Антья 1.108–116", "ЧБ Мадхья 1.134", "ЧБ Мадхья 28.17",
                 "Лочан, Мадхья-кханда, ч. 16, ст. 5"]
-  sources: []
+  sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 178",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 115",
+            "Linschoten (1596), Hakluyt Society 1885, т. I, с. 93",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 120–121"]
   images: []
   game: {model: "гирлянда, плывущая по воде; глиняный кувшин с водой Ганги в доме", where: ["ganga-ghat"]}
 
@@ -295,11 +310,18 @@
     ru: >-
       Первый даршан и обморок Господа, охранник, Сарвабхаума — ЧЧ Мадхья 6.3–14; даршан из-за колонны Гаруды — ЧЧ
       Мадхья 2.54, 6.63; Антья 14.23–30, 16.80–92 (привратник у Львиных врат, джагамохан, утреннее угощение
-      «гопала-валлабха», арати, прасад и гирлянда от служителей); ЧБ Антья 2.488.
+      «гопала-валлабха», арати, прасад и гирлянда от служителей); ЧБ Антья 2.488. Эпоха: Мукундарам (ок. 1590) —
+      Субхадра и Балай с Джаганнатхой, напротив — Гаруда; рядом Вимала-деви; «Айн-и Акбари» — Господа с братом и
+      сестрой рядом, предание об Индрадьюмне и бревне, прибитом морем (Абу-л Фазл называет дерево сандаловым — ⚠ на
+      деле ним). Колонна чёрного камня из Конарка стоит у Львиных ворот лишь с XVIII в.
     en: >-
       The Lord's first darshan and swoon, the guard, Sarvabhauma — CC Madhya 6.3–14; darshan from behind the Garuda
       pillar — CC Madhya 2.54, 6.63; Antya 14.23–30, 16.80–92 (the doorkeeper at the Lion Gate, the jagamohana, the
-      morning "gopala-vallabha" offering, arati, prasada and garland from the servants); CB Antya 2.488.
+      morning "gopala-vallabha" offering, arati, prasada and garland from the servants); CB Antya 2.488. Period:
+      Mukundaram (c. 1590) — Subhadra and Balai with Jagannatha, Garuda opposite; Vimala-devi nearby; Ain-i Akbari —
+      the Lord with His brother and sister, the legend of Indradyumna and the log washed up by the sea (Abu'l Fazl
+      calls the wood sandal — ⚠ in fact neem). The black stone column from Konarak has stood at the Lion Gate only
+      since the 18th c.
   text:
     ru: >-
       В Пури Господь Джаганнатха, «Владыка вселенной», вместе с Баладевой и Субхадрой принимает всех, кто приходит
@@ -318,7 +340,8 @@
       had such thirst to see the Lord!"
   hagiography: ["ЧЧ Мадхья 6.3–14", "ЧЧ Мадхья 2.54", "ЧЧ Мадхья 6.63", "ЧЧ Антья 14.23–30", "ЧЧ Антья 16.80–92",
                 "ЧБ Антья 2.488"]
-  sources: []
+  sources: ["Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 127–128",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 149"]
   images: []
   game: {model: "каменная колонна с фигурой Гаруды на капители в зале джагамохана; толпа паломников; вдали — алтарь
          трёх Божеств", where: ["puri/jagannatha-temple"],
@@ -944,35 +967,45 @@
 - id: mc-death-by-the-ganga
   title: {ru: "Кончина и кремация у Ганги", en: "Death and cremation by the Ganga"}
   rubric: rites
-  era_evidence: later-reconstruction
+  era_evidence: epoch
   evidence_note:
     ru: >-
       Уход Джаганнатхи Мишры жития описывают кратко, без обрядовых подробностей (ЧБ Ади 8.109–121; ср. ЧБ Ади 1.105);
-      Анупама «оставил мир на берегу Ганги» — ЧЧ Антья 1.37. Порядок обрядов — по Ward 1863, p. 260–261 (Бенгалия
-      ок. 1810), т. е. реконструкция.
+      Анупама «оставил мир на берегу Ганги» — ЧЧ Антья 1.37. Порядок обрядов — по Ward 1863, p. 260–261 (Бенгалия ок.
+      1810), т. е. реконструкция. Эпоха: Федеричи (1569, Сатгаон) — больного из внутренних областей приносят на берег
+      Ганги, ставят ему маленькую соломенную хижину и каждый день омывают речной водой; многие там умирают; тело
+      сжигают на костре из сучьев и опускают в реку — он видел это каждую ночь два месяца; Фитч (1586, Бенарас) —
+      умирающего, если не полегчало, несут к реке.
     en: >-
       The hagiographies describe Jagannatha Mishra's passing briefly, without ritual detail (CB Adi 8.109–121; cf. CB
       Adi 1.105); Anupama "left the world on the bank of the Ganga" — CC Antya 1.37. The order of rites follows Ward
-      1863, p. 260–261 (Bengal c. 1810), i.e. a reconstruction.
+      1863, p. 260–261 (Bengal c. 1810), i.e. a reconstruction. Period: Federici (1569, Satgaon) — a sick man from
+      inland is carried to the Ganga bank, given a little straw hut and washed daily with river water; many die there;
+      the body is burnt on a pyre of brushwood and committed to the river — he saw it every night for two months;
+      Fitch (1586, Benares) — the dying man, if no better, is carried to the river.
   text:
     ru: >-
       Умирать хотели у Ганги: тяжелобольного переносили на берег, а в последний миг погружали по пояс в воду и
-      помогали громко произносить имена Господа. Тело клали на ткань, умащали гхи, омывали водой Ганги и обёртывали
+      помогали громко произносить имена Господа. Итальянский купец Федеричи, живший в Сатгаоне в 1560-х, видел это
+      каждую ночь: больному ставили у самой реки маленькую соломенную хижину и каждый день омывали его водой Ганги. Тело клали на ткань, умащали гхи, омывали водой Ганги и обёртывали
       новой тканью; старший сын, омывшись, подносил к устам умершего шарик риса и горящую головню и поджигал костёр
       на прибрежном месте сожжения, подливая гхи. Прах смывали в реку, а вернувшись, все касались огня и жевали
       горькие листья нима. Когда ушёл Джаганнатха Мишра, юный Господь плакал о нём, как Рама о Дашаратхе, и утешал
       мать: «Пока Я с тобой, ты ни в чём не будешь нуждаться».
     en: >-
       People wished to die by the Ganga: the gravely ill were carried to the bank, and at the last moment lowered
-      waist-deep into the water and helped to call aloud the names of the Lord. The body was laid on a cloth, anointed
+      waist-deep into the water and helped to call aloud the names of the Lord. The Italian merchant Federici, living
+      at Satgaon in the 1560s, saw it every night: a little straw hut was set up for the sick man at the water's edge
+      and he was washed daily with Ganga water. The body was laid on a cloth, anointed
       with ghee, washed with Ganga water and wrapped in new cloth; the eldest son, having bathed, touched the dead
       person's lips with a ball of rice and a burning brand and lit the pyre at the riverside burning-ground, pouring
       on ghee. The ashes were washed into the river, and on returning everyone touched fire and chewed bitter neem
       leaves. When Jagannatha Mishra departed, the young Lord wept for him as Rama wept for Dasharatha, and comforted
       His mother: "While I am with you, you shall want for nothing."
   hagiography: ["ЧБ Ади 8.109–121", "ЧБ Ади 1.105", "ЧЧ Антья 1.37"]
-  sources: ["Ward 1863, p. 260–261 (умирающего погружают по пояс в реку; омовение и умащение тела; рис и головня;
-            костёр с гхи; прах в реку; касание огня и горькие листья)"]
+  sources: ["Ward 1863, p. 260–261 (умирающего погружают по пояс в реку; омовение и умащение тела; рис и головня; костёр с гхи; прах в реку; касание огня и горькие листья)",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 411–412",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 106–107"]
   images: []
   game: {model: "место сожжения на берегу (шмашана): поленница, глиняный горшок для воды, факел",
          where: ["ganga-ghat"], notes: "показывать сдержанно; эпизод — уход Джаганнатхи Мишры"}

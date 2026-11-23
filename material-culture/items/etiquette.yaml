@@ -456,13 +456,15 @@
     ru: >-
       Харидас не приближается к храму, чтобы не коснуться служителей — ЧЧ Мадхья 11.163–168; Санатана идёт по
       раскалённому песку, избегая Львиных врат, — ЧЧ Антья 4.120–132; Махапрабху смотрит издали, от колонны Гаруды —
-      ЧЧ Антья 14.23, Мадхья 6.63; охранник замахивается на упавшего Господа — ЧЧ Мадхья 6.4–5; обход алтаря — ЧЧ Мадхья
-      7.58; гирлянда и прасад от пуджари — ЧЧ Мадхья 6.217, Антья 16.89–90.
+      ЧЧ Антья 14.23, Мадхья 6.63; охранник замахивается на упавшего Господа — ЧЧ Мадхья 6.4–5; обход алтаря — ЧЧ
+      Мадхья 7.58; гирлянда и прасад от пуджари — ЧЧ Мадхья 6.217, Антья 16.89–90. Эпоха (Бенарас, 1586): Фитч — в
+      святилище нельзя входить в обуви.
     en: >-
       Haridasa will not approach the temple lest he touch the servants — CC Madhya 11.163–168; Sanatana walks on
       burning sand, avoiding the Lion Gate — CC Antya 4.120–132; Mahaprabhu gazes from afar, from the Garuda pillar —
       CC Antya 14.23, Madhya 6.63; a guard raises his hand at the fallen Lord — CC Madhya 6.4–5; circling the altar —
-      CC Madhya 7.58; garland and prasada from the priest — CC Madhya 6.217, Antya 16.89–90.
+      CC Madhya 7.58; garland and prasada from the priest — CC Madhya 6.217, Antya 16.89–90. Period (Benares, 1586):
+      Fitch — a shrine may not be entered with shoes on.
   text:
     ru: >-
       К храму Джаганнатхи подходили омывшись и в чистой одежде, у Львиных врат кланялись, внутри обходили алтарь и
@@ -480,7 +482,7 @@
       teach others." The Lord Himself came to Haridasa every day and sent him mahaprasada.
   hagiography: ["ЧЧ Мадхья 11.163–168", "ЧЧ Антья 4.120–132", "ЧЧ Антья 14.23", "ЧЧ Мадхья 6.4–5", "ЧЧ Мадхья 7.58",
                 "ЧЧ Мадхья 6.217", "ЧЧ Антья 16.89–90"]
-  sources: []
+  sources: ["Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 105–106"]
   images: []
   game: {model: "Львиные врата, раскалённый песок у моря (дорога Санатаны), роща Сиддха-бакула",
          where: ["puri/lion-gate", "puri/siddha-bakula"]}
