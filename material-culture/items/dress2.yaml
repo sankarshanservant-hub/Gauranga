@@ -195,3 +195,210 @@
   images: []
   game: {model: "белое шёлковое дхоти-гарад с узкой красной каймой; сложенная шёлковая накидка на голове Гопинатхи",
          where: ["puri/temple", "mishra-house/thakur-ghar"]}
+
+- id: mc-dyes
+  title: {ru: "Краски для ткани: индиго, аль, сафлор, куркума, охра", en: "Cloth dyes: indigo, al, safflower, turmeric, ochre"}
+  rubric: dress
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Цвета одежды — жития: жёлтое полотно Нимая (ЧБ Ади 12.243, 15.130), синие дхоти и тюрбан Нитьянанды (ЧБ Мадхья
+      3.144), красная ткань, окрашенная *гери* (охрой) — ЧЧ Антья 13.7. Красители и их сочетания — Mukharji 1888,
+      с. 348–350 (общеиндийский список XIX в.); индиго и сафлор Восточной Бенгалии — Taylor 1840, с. 133–136.
+      Для XVI в. — реконструкция по растениям, известным в Индии издревле.
+    en: >-
+      Colours of clothing — hagiographies: Nimai's yellow cloth (CB Adi 12.243, 15.130), Nityananda's blue dhoti and
+      turban (CB Madhya 3.144), red cloth dyed with *geri* (ochre) — CC Antya 13.7. Dyes and their combinations —
+      Mukharji 1888, pp. 348–350 (19th-c. all-India list); indigo and safflower in East Bengal — Taylor 1840,
+      pp. 133–136. For the 16th c. — a reconstruction from plants known in India since antiquity.
+  text:
+    ru: >-
+      Обычная одежда была белой или небелёной, а цвет давали растения и земля. Синий — индиго, красный — корень *аль*
+      (моринда), марена и лак, розовый и алый — лепестки сафлора, жёлтый — куркума, а красно-бурый — охра *геру*:
+      ею красили одежду отречённых, и ею же Джагадананда выкрасил ткань для постели Махапрабху. Смешивая краски,
+      получали зелёный (индиго с жёлтым) и пурпур (индиго с сафлором). Жёлтое полотно юного Нимая напоминало всем
+      одежды Кришны, а Нитьянанда ходил в синем, как Баларама.
+    en: >-
+      Everyday clothing was white or unbleached; colour came from plants and earth. Blue was indigo; red, the *al* root
+      (morinda), madder and lac; pink and scarlet, safflower petals; yellow, turmeric; and a reddish-brown came from
+      *geru* ochre — with it renunciants' cloth was dyed, and with it Jagadananda dyed the cloth for Mahaprabhu's
+      bedding. Mixing gave green (indigo with yellow) and purple (indigo with safflower). Young Nimai's yellow cloth
+      reminded everyone of Krishna's garments, and Nityananda went in blue, like Balarama.
+  hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130", "ЧБ Мадхья 3.144", "ЧЧ Антья 13.7"]
+  sources: ["Mukharji 1888, с. 13 (геру), 348–350", "Taylor 1840, с. 133–136 (сафлор, индиго)"]
+  images: []
+  game: {model: "чаны красильщика: синий (индиго), красный (аль), жёлтый (куркума); мотки крашеной нити на шесте; ком охры-геру",
+         where: ["navadvipa/market"]}
+  todo: "Кто красил ткань в Навадвипе (каста ранграз/ткачи сами?) — в житиях нет; Mukharji: в Бенгалии XIX в. красили мало."
+
+- id: mc-cloth-border
+  title: {ru: "Кайма ткани: кто какую носил", en: "The cloth border: who wore which"}
+  rubric: dress
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Красная кайма у индусок и чёрная у мусульманок, шакха и синдур только при живом муже — Taylor 1840, с. 265
+      (Дакка); вдова без цветной каймы — Solvyns 1804, pl. XXXVIII; мужчины и вдовы с простой каймой, замужние с
+      цветной — N. G. Mukerji 1903. Белое сари вдовы — уже в «Манаса-мангале» (Sen 1911, с. 262). Цветная кайма дхоти —
+      Mukharji 1888, с. 317. Прямых указаний на кайму в житиях не нашлось.
+    en: >-
+      A red border for Hindu women and black for Muslim women, shankha and sindur only while the husband lives —
+      Taylor 1840, p. 265 (Dacca); a widow without a coloured border — Solvyns 1804, pl. XXXVIII; men and widows with
+      plain borders, married women with coloured ones — N. G. Mukerji 1903. The widow's white sari — already in the
+      Manasa-mangal (Sen 1911, p. 262). The coloured border of the dhoti — Mukharji 1888, p. 317. No direct mention of
+      borders was found in the hagiographies.
+  text:
+    ru: >-
+      По кайме можно было многое сказать о человеке. Мужское дхоти — белое полотно с узкой цветной или простой
+      полосой по краю. Замужняя индуска носила сари с красной каймой; вдова — чисто белое, без цветной полосы и без
+      украшений. В Дакке XIX в. мусульманки носили такое же сари, но с чёрной каймой. Самая тонкая работа — кайма с
+      узором, которую вытканные ткачи берегли как семейный секрет.
+    en: >-
+      A border told much about a person. A man's dhoti was white cloth with a narrow coloured or plain stripe along the
+      edge. A married Hindu woman wore a sari with a red border; a widow wore pure white, with no coloured stripe and no
+      ornaments. In 19th-century Dacca Muslim women wore the same sari, but with a black border. The finest work was a
+      patterned border, which skilled weavers guarded as a family secret.
+  hagiography: []
+  sources: ["Taylor 1840, с. 265", "Solvyns 1804, pl. XXXVIII", "N. G. Mukerji 1903 (отчёт по Раджшахи)", "Sen 1911, с. 262", "Mukharji 1888, с. 317"]
+  images: []
+  game: {model: "текстуры: белое дхоти с узкой красной полосой; сари с широкой красной каймой; белое вдовье без каймы",
+         where: []}
+  todo: "Была ли «красная кайма замужней» нормой уже в XVI в.? Найти в мангал-кавьях XVI в."
+
+- id: mc-kaupina-bahirvasa
+  title: {ru: "Каупина и бахирвас — одежда отречённого", en: "Kaupina and bahirvasa — the renunciant's clothing"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 3.29 (одна каупина после омовения), 7.36 (в путь — каупина, накидка, кувшин), 7.60 (четыре набора),
+      19.86, 20.78 (Санатана делает из старого дхоти две бахирвасы и две каупины); ЧБ Мадхья 12.22–31, Лочан Мадхья
+      ч. 6.73–76, Мурари 2.10.7–8 (лоскутки каупины Нитьянанды); ЧЧ Антья 18.73.
+    en: >-
+      CC Madhya 3.29 (a single kaupina after bathing), 7.36 (for the road — kaupina, outer cloth, water pot), 7.60 (four
+      sets), 19.86, 20.78 (Sanatana makes two bahirvasas and two kaupinas from an old dhoti); CB Madhya 12.22–31,
+      Lochana Madhya pt. 6.73–76, Murari 2.10.7–8 (shreds of Nityananda's kaupina); CC Antya 18.73.
+  text:
+    ru: >-
+      Вся одежда санньяси — две вещи: *каупина*, узкая набедренная повязка, и *бахирвас*, внешняя ткань, которой
+      обёртывали бёдра или покрывали плечи. Махапрабху, уходя на юг, взял только каупину, накидку и кувшин для воды, а
+      Сарвабхаума заранее приготовил Ему четыре таких набора. Санатана Госвами попросил у Тапаны Мишры не новую одежду,
+      а поношенное дхоти — и разрезал его на две каупины и две бахирвасы. Лоскутки каупины Нитьянанды преданные
+      повязывали на голову как святыню.
+    en: >-
+      A sannyasi's entire wardrobe was two things: the *kaupina*, a narrow loincloth, and the *bahirvasa*, the outer
+      cloth wrapped round the hips or over the shoulders. Leaving for the south, Mahaprabhu took only a kaupina, an
+      outer cloth and a water pot, and Sarvabhauma had four such sets ready for Him. Sanatana Gosvami asked Tapana
+      Mishra not for new clothes but for a worn dhoti — and cut it into two kaupinas and two bahirvasas. Devotees tied
+      shreds of Nityananda's kaupina round their heads as a holy relic.
+  hagiography: ["ЧЧ Мадхья 3.29", "ЧЧ Мадхья 7.36", "ЧЧ Мадхья 7.60", "ЧЧ Мадхья 19.86", "ЧЧ Мадхья 20.76–78",
+                "ЧЧ Антья 18.73", "ЧБ Мадхья 12.22–31", "Лочан, Мадхья-кханда, ч. 6, ст. 73–76", "Мурари 2, сарга 10, ст. 7–8"]
+  sources: []
+  images: []
+  game: {model: "каупина — полоса ткани ≈15×150 см на поясном шнуре; бахирвас — отрез ≈1×2,5 м, цвет охры; сушатся на верёвке",
+         where: ["puri/gambhira"]}
+
+- id: mc-aruna-vastra
+  title: {ru: "Алая ткань санньяси (аруна-васана)", en: "The sannyasi's ochre cloth (aruna-vasana)"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Мадхья 28.161 (*арун̣а васана*); ЧЧ Мадхья 7.79, 8.18, 5.136 (шафрановые одежды); Мурари 3.4.14, Карнапура
+      14.88 (красная/киноварная ткань); ЧЧ Мадхья 10.108 (*йогапатта* не дали Сварупе); ЧЧ Антья 13.52–61 (красная
+      ткань от Мукунды Сарасвати; «вайшнаву не подобает»); ЧБ Антья 6.19 (Нитьянанда сменил шафран на шёлк).
+      Окраска охрой *гери* — ЧЧ Антья 13.7.
+    en: >-
+      CB Madhya 28.161 (*aruna vasana*); CC Madhya 7.79, 8.18, 5.136 (saffron garments); Murari 3.4.14, Karnapura 14.88
+      (red/vermilion cloth); CC Madhya 10.108 (Svarupa not given the *yogapatta*); CC Antya 13.52–61 (red cloth from
+      Mukunda Sarasvati; "unfitting for a Vaishnava"); CB Antya 6.19 (Nityananda changed saffron for silk). Dyeing
+      with *geri* ochre — CC Antya 13.7.
+  text:
+    ru: >-
+      Приняв санньясу в Катве, Махапрабху облачился в *аруна-васану* — ткань цвета утренней зари, красновато-шафрановую,
+      какую красили охрой-геру. Такой цвет был знаком отречения: Сварупе Дамодаре, отказавшемуся от шикхи и шнура,
+      эту ткань так и не дали, а Джагадананда, получив от Санатаны красную ткань, сперва решил, что это подарок
+      Самого Господа. Носить её вайшнаву-домохозяину не подобало. Нитьянанда же, по воле Господа, снял шафран и носил
+      шёлк и гирлянды, ведь Он — Баларама, а не монах-аскет.
+    en: >-
+      Taking sannyasa at Katwa, Mahaprabhu put on the *aruna-vasana* — cloth the colour of dawn, a reddish saffron, such
+      as was dyed with geru ochre. The colour marked renunciation: Svarupa Damodara, though he gave up his shikha and
+      thread, was never given this cloth, and Jagadananda, receiving a red cloth from Sanatana, at first thought it a
+      gift from the Lord Himself. A householder Vaishnava was not to wear it. Nityananda, by the Lord's will, gave up
+      saffron and wore silk and garlands, for He is Balarama, not an ascetic monk.
+  hagiography: ["ЧБ Мадхья 28.161", "ЧЧ Мадхья 7.79", "ЧЧ Мадхья 8.18", "ЧЧ Мадхья 10.108", "ЧЧ Антья 13.52–61",
+                "ЧБ Антья 6.19", "Мурари 3, сарга 4, ст. 14", "Карнапура, сарга 14, ст. 88"]
+  sources: ["Mukharji 1888, с. 13 (геру — красная охра)"]
+  images: []
+  game: {model: "ткань цвета зари/охры (≈ #C8582B…#E07B39), не ярко-оранжевая; та же ткань у Кешавы Бхарати",
+         where: ["katwa", "puri/gambhira"]}
+  todo: "Оттенок: «аруна» — красноватый, «шафран» перевода — условность; уточнить у специалиста."
+
+- id: mc-danda-kamandalu
+  title: {ru: "Данда и камандалу", en: "Danda and kamandalu"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Мадхья 28.163 (данда и камандалу при санньясе); ЧБ Антья 2.203–232 (данда — бамбуковая трость, «в ней все
+      боги»; Нитьянанда ломает её на три части; «триданда»); ЧЧ Мадхья 7.20; ЧБ Мадхья 5.62–73 (Нитьянанда ломает свою
+      данду и камандалу, обломки — в Гангу); ЧБ Мадхья 3.144 (сосуд, обёрнутый тростником); ЧБ Антья 6.20, Мурари
+      4.23.14 (железный посох Нитьянанды).
+    en: >-
+      CB Madhya 28.163 (danda and kamandalu at sannyasa); CB Antya 2.203–232 (the danda a bamboo staff, "all gods dwell
+      in it"; Nityananda breaks it in three; "tridanda"); CC Madhya 7.20; CB Madhya 5.62–73 (Nityananda breaks His own
+      danda and kamandalu, the pieces go into the Ganga); CB Madhya 3.144 (a pot wrapped in cane); CB Antya 6.20,
+      Murari 4.23.14 (Nityananda's iron staff).
+  text:
+    ru: >-
+      Посох-данда и сосуд для воды камандалу — знаки санньяси, их вручают вместе с алой тканью. Данда Махапрабху была
+      из бамбука; Он говорил, что в ней пребывают все боги, и звал её Своей единственной спутницей. По дороге в Пури
+      Нитьянанда, державший её, переломил данду на три части и бросил в реку Бхарги близ Камалапура: по Его словам, Тому, Кого Он носит в
+      сердце, не пристало носить палку. Камандалу носили как кувшин для воды — у Нитьянанды он был обёрнут плетёным
+      тростником.
+    en: >-
+      The staff (danda) and the water pot (kamandalu) are the sannyasi's insignia, given together with the ochre cloth.
+      Mahaprabhu's danda was of bamboo; He said all the gods dwell in it and called it His only companion. On the road
+      to Puri Nityananda, who was holding it, broke it in three and threw it into the river Bhargi near Kamalapura: the One He carried in His
+      heart, He said, should not have to carry a stick. The kamandalu served as a water pot — Nityananda's was wrapped
+      in woven cane.
+  hagiography: ["ЧБ Мадхья 28.163", "ЧБ Антья 2.203–232", "ЧЧ Мадхья 5.141–158", "ЧЧ Мадхья 7.20", "ЧБ Мадхья 5.62–73",
+                "ЧБ Мадхья 3.144", "ЧБ Антья 6.20"]
+  sources: []
+  images: []
+  game: {model: "бамбуковый посох в рост человека (≈1,8 м) с узлами; камандалу — сосуд из сушёной тыквы/глины/латуни с ручкой, в оплётке",
+         where: ["katwa", "road-to-puri"]}
+  todo: "Материал камандалу Господа в житиях не назван (тыква-лаука? глина?) — вопрос к специалисту."
+
+- id: mc-sannyasa-shaving
+  title: {ru: "Бритьё головы: цирюльник в Катве", en: "Shaving the head: the barber at Katwa"}
+  rubric: dress
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Мадхья 28.139–153 (*на̄пита* с бритвой-*кш̣ура*, не может коснуться вьющихся волос, к концу дня голова обрита,
+      затем омовение в Ганге); ЧЧ Мадхья 3.152 (печаль о длинных локонах); ЧЧ Мадхья 20.68–70 (Санатану бреют и
+      отводят к Ганге); ЧБ Ади 6.3 (детское обривание — чудакарана). Имя цирюльника (Дева/Мадху) — по позднему
+      преданию у Sen 1911, с. 389.
+    en: >-
+      CB Madhya 28.139–153 (the *napita* with his razor, *kshura*, cannot touch the curly hair; by day's end the head is
+      shaved; then a bath in the Ganga); CC Madhya 3.152 (grief for the long locks); CC Madhya 20.68–70 (Sanatana is
+      shaved and taken to the Ganga); CB Adi 6.3 (a child's tonsure — chudakarana). The barber's name (Deva/Madhu) —
+      from later tradition in Sen 1911, p. 389.
+  text:
+    ru: >-
+      Перед санньясой Махапрабху сел, чтобы Ему обрили голову вместе с шикхой. Пришёл деревенский цирюльник с бритвой —
+      и не смог: увидев вьющиеся волосы Господа, он заплакал и не решался коснуться Его головы, а вокруг рыдали
+      преданные и простые жители Катвы. Господь то и дело поднимался в киртане, и лишь к концу дня работа была
+      окончена; после бритья Он омылся в Ганге. Цирюльник (*напит*) был в каждой деревне: он брил, стриг ногти,
+      участвовал в обрядах — без него не обходились ни свадьба, ни санньяса.
+    en: >-
+      Before sannyasa Mahaprabhu sat to have His head shaved, shikha and all. The village barber came with his razor —
+      and could not do it: seeing the Lord's curling hair he wept and dared not touch His head, while the devotees and
+      the plain folk of Katwa wept around them. Again and again the Lord rose up in kirtan, and only at the end of the
+      day was the work done; after the shaving He bathed in the Ganga. Every village had its barber (*napit*): he shaved,
+      pared nails and took part in rites — neither a wedding nor a sannyasa could do without him.
+  hagiography: ["ЧБ Мадхья 28.139–153", "ЧЧ Мадхья 3.152", "ЧЧ Мадхья 20.68–70", "ЧБ Ади 6.3"]
+  sources: ["Sen 1911, с. 389", "Taylor 1840, с. 260 (цирюльник в свадебной смете бедняка)", "Bose 1881, с. 169 (лишить цирюльника — кастовое наказание)"]
+  images: [{file: "material-culture/img/tayler-1842-village-bengal-barber.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Tayler, лит. O. Bouvier (1842); Wellcome Collection 37172i", url: "https://wellcomecollection.org/works/xdevqe2e"}]
+  game: {model: "цирюльник с открытой бритвой, медной чашечкой воды и ящичком; сидит на корточках перед сидящим", where: ["katwa"]}
