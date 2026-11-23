@@ -270,3 +270,255 @@
   sources: []
   images: []
   game: {model: "анимация: ладонь на макушке", where: ["navadvipa/lane", "mishra-house/courtyard"]}
+
+- id: mc-scholar-titles
+  title: {ru: "Пандит, Мишра, Бхаттачарья, Ачарья: учёные звания", en: "Pandita, Mishra, Bhattacharya, Acharya: scholarly titles"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Перечень званий учёных — ЧБ Ади 2.67 (*бхат̣т̣а̄ча̄рйа, чакравартӣ, миш́ра*); имена-звания повсюду: Джаганнатха
+      Мишра, Ниламбара Чакраварти, Сарвабхаума Бхаттачарья, Адвайта Ачарья, Шривас Пандит, «Нимай Пандит» (ЧБ Мадхья
+      13.171). Значение слова «пандит» — HJ 1903, s.v. PUNDIT. Что звание переходило в роду как фамилия — позднейший
+      обычай, для XVI в. смешанно (проверить).
+    en: >-
+      A list of scholars' titles — CB Adi 2.67 (bhattacharya, chakravarti, mishra); title-names everywhere: Jagannatha
+      Mishra, Nilambara Chakravarti, Sarvabhauma Bhattacharya, Advaita Acharya, Shrivasa Pandita, "Nimai Pandita" (CB
+      Madhya 13.171). The meaning of "pandit" — HJ 1903, s.v. PUNDIT. That a title passed down a family as a surname is
+      a later custom; mixed for the 16th c. (to check).
+  text:
+    ru: >-
+      В брахманской Навадвипе по имени сразу было видно, кто перед тобой. «Пандит» — учёный, знаток санскрита,
+      особенно тот, кто держит школу: юного учителя грамматики все звали «Нимай Пандит». «Бхаттачарья» — учёный-
+      логик или знаток смрити, глава тола; так звали Сарвабхауму, первого учёного при дворе царя Ориссы. «Ачарья» — наставник,
+      учитель обряда и писаний (Адвайта Ачарья). «Мишра» и «Чакраварти» — почётные брахманские звания, ставшие
+      родовыми. Обращаясь, звание прибавляли к имени или говорили одно звание: «Бхаттачарья!», «Ачарья!».
+    en: >-
+      In brahminical Navadvipa a name told you at once who stood before you. "Pandita" is a scholar learned in
+      Sanskrit, especially one who keeps a school: the young grammar teacher was called "Nimai Pandita" by everyone.
+      "Bhattacharya" is a scholar of logic or law, head of a tol; so Sarvabhauma, the foremost scholar at the court of
+      the king of Orissa, was called. "Acharya" is a preceptor, a teacher of rite and scripture (Advaita Acharya). "Mishra" and
+      "Chakravarti" are honoured brahmin titles that became family names. In address the title was added to the name,
+      or the title alone was used: "Bhattacharya!", "Acharya!".
+  hagiography: ["ЧБ Ади 2.67", "ЧБ Мадхья 13.171", "ЧЧ Ади 17.148"]
+  sources: ["HJ 1903, s.v. PUNDIT (санскр. pandita — учёный, знаток санскрита)"]
+  images: []
+  game: {model: "подписи персонажей: имя + звание; ярлык звания в кодексе", where: ["navadvipa/tol"]}
+
+- id: mc-honorifics
+  title: {ru: "Госани, Тхакур, Прабху, Махашая, Аи: почётные обращения", en: "Gosani, Thakura, Prabhu, Mahashaya, Ai: terms of respect"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *госа̄н̃и* — в ЧБ (о Господе, о святых; >100 раз в транслите), напр. ЧБ Антья 9.119 («О Госани»); *т̣ха̄кура* —
+      Харидас Тхакур; «Сита Тхакурани»; *маха̄ш́айа* — ЧБ Мадхья 7.57 (Пундарика Махашой); *ш́ачӣ а̄и* — ЧБ (Шачи-аи);
+      «Прабху» о Махапрабху и Нитьянанде; «Шрипада» — к санньяси. Значения — HJ 1903, s.v. GOSAIN, p. 388–389; s.v.
+      THAKOOR.
+    en: >-
+      gosani — in CB (of the Lord, of saints; >100 times in the transliteration), e.g. CB Antya 9.119 ("O Gosani");
+      thakura — Haridasa Thakura; "Sita Thakurani"; mahashaya — CB Madhya 7.57 (Pundarika Mahashaya); shachi ai — CB
+      (Shachi-ai); "Prabhu" of Mahaprabhu and Nityananda; "Shripada" for sannyasis. Meanings — HJ 1903, s.v. GOSAIN,
+      p. 388–389; s.v. THAKOOR.
+  text:
+    ru: >-
+      «Госани» (из санскр. госвами — «владыка чувств») — так почтительно называли святых, учителей и Самого
+      Махапрабху: брахманы Пури умоляли Его: «О Госани!». «Тхакур» — «господин», «почитаемый»: так звали Харидаса, а
+      женщину — «Тхакурани», как жену Адвайты Ситу. «Прабху» — «владыка» — говорили о Господе и Нитьянанде;
+      «Махашая» — «великая душа», вежливое «сударь». Мать Махапрабху все, даже взрослые, звали «Шачи-аи»: «аи» —
+      ласковое «матушка, бабушка». Санньяси же называют «Шрипада» или «Свами».
+    en: >-
+      "Gosani" (from Sanskrit gosvami, "master of the senses") was the respectful name for saints, teachers and
+      Mahaprabhu Himself: the brahmins of Puri implored Him, "O Gosani!". "Thakura" means "lord, revered one": so
+      Haridasa was called, and a woman "Thakurani", like Advaita's wife Sita. "Prabhu", "master", was said of the Lord
+      and Nityananda; "Mahashaya", "great soul", is a polite "sir". Mahaprabhu's mother was called by all, even grown
+      men, "Shachi-ai": "ai" is an affectionate "mother, granny". A sannyasi is addressed as "Shripada" or "Svami".
+  hagiography: ["ЧБ Антья 9.119", "ЧБ Мадхья 7.57"]
+  sources: ["HJ 1903, s.v. GOSAIN, p. 388–389", "HJ 1903, s.v. THAKOOR (санскр. thakkura; почтительное «господин»)"]
+  images: []
+  game: {model: "словарик обращений в диалогах", where: ["navadvipa/lane"]}
+  todo: "«Шрипада» к санньяси — найти стих в ЧЧ/ЧБ (Нитьянанда-Шрипада? Ишвара Пури?)"
+
+- id: mc-village-kinship
+  title: {ru: "Деревенское родство: «дядя», «племянник», «бабушка»", en: "Village kinship: 'uncle', 'nephew', 'granny'"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Кази о Ниламбаре Чакраварти: «был мне как дядя… такие отношения сильнее кровного родства»; Нимай ему как
+      племянник — ЧЧ Ади 17.148–150; мусульманин-чиновник Рагхунатхе: «с этого дня ты мне как сын» — ЧЧ Антья 6.30;
+      «Шачи-аи» — ЧБ; Махапрабху почитает Канаи Кхутию и Джаганнатху Махити «как отца и мать» — ЧЧ Мадхья 15.30.
+    en: >-
+      The Kazi on Nilambara Chakravarti: "he was like an uncle to me… such ties are stronger than blood"; Nimai is as a
+      nephew to him — CC Adi 17.148–150; the Muslim official to Raghunatha: "from today you are like a son to me" — CC
+      Antya 6.30; "Shachi-ai" — CB; Mahaprabhu honours Kanai Khutiya and Jagannatha Mahiti "as father and mother" —
+      CC Madhya 15.30.
+  text:
+    ru: >-
+      В бенгальской деревне все друг другу «родня»: старших соседей зовут «дядя», «тётя», «бабушка», сверстников —
+      «брат», и это не пустые слова, а обязанность заботиться. Такое деревенское родство связывало даже индусов и
+      мусульман: Чханд Кази напомнил Махапрабху, что звал Его деда Ниламбару Чакраварти «дядей», — «а такие отношения
+      сильнее кровных», — и потому Нимай ему как племянник: «Если племянник сердится, дядя терпит». Мусульманский
+      чиновник в Саптаграме, растроганный словами юного Рагхунатхи, сказал: «С этого дня ты мне как сын».
+    en: >-
+      In a Bengali village everyone is "kin": older neighbours are called "uncle", "aunt", "granny", peers "brother",
+      and these are not empty words but a duty of care. Such village kinship bound even Hindus and Muslims: Chand Kazi
+      reminded Mahaprabhu that he had called His grandfather Nilambara Chakravarti "uncle" — "and such ties are
+      stronger than blood" — and so Nimai was as a nephew to him: "If the nephew is angry, the uncle bears it." The
+      Muslim official at Saptagram, moved by young Raghunatha's words, said, "From today you are like a son to me."
+  hagiography: ["ЧЧ Ади 17.148–150", "ЧЧ Антья 6.29–30", "ЧЧ Мадхья 15.30"]
+  sources: []
+  images: []
+  game: {model: "в диалогах: обращения «чача», «маши», «ди-ма» по возрасту NPC", where: ["navadvipa/lane"]}
+  todo: "бенгальские термины деревенского родства (*гра̄ма-самбандха*, «чача») — сверить по бенгальскому тексту ЧЧ Ади 17.148"
+
+- id: mc-sannyasi-etiquette
+  title: {ru: "Как приветствуют санньяси и как держится санньяси", en: "Greeting a sannyasi, and how a sannyasi conducts himself"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Отец кланяется сыну-санньяси, санньяси — друг другу; Махапрабху кланяется вайшнавам — ЧБ Антья 8.150–153; санньяси
+      встаёт и говорит «Нараяна!» — Лочан, Мадхья-кханда, ч. 16, ст. 52; «Намо нараяная» — Мурари 3.3.13; «встреча с царём
+      или женщиной — как яд» — ЧЧ Мадхья 11.7; Чхота Харидас — ЧЧ Антья 2.104–144; ступени санньясы (Бхарати — «средняя»)
+      — ЧЧ Мадхья 6.72.
+    en: >-
+      A father bows to his sannyasi son, sannyasis to one another; Mahaprabhu bows to Vaishnavas — CB Antya 8.150–153; a
+      sannyasi rises and says "Narayana!" — Lochana, Madhya-khanda pt. 16 v. 52; "Namo narayanaya" — Murari 3.3.13; "a
+      meeting with a king or a woman is like poison" — CC Madhya 11.7; Chhota Haridasa — CC Antya 2.104–144; grades of
+      sannyasa (Bharati "middle") — CC Madhya 6.72.
+  text:
+    ru: >-
+      Санньяси стоит выше всех ашрамов: ему кланяются все, даже собственный отец, а он отвечает словами «Нараяна!»
+      или «Намо нараяная» — «Поклон Нараяне», ибо почтение принадлежит Богу. Санньяси кланяются только старшим
+      санньяси. Но Махапрабху нарушал это правило ради любви: Сам кланялся вайшнавам-домохозяевам, чтобы научить
+      смирению. В остальном Он был строг: санньяси не ведёт бесед с женщинами наедине и не ищет встречи с царём —
+      «это как выпить яд». Когда младший Харидас лишь попросил у почтенной вайшнави Мадхави хорошего риса для
+      Господа, Махапрабху отказался его видеть.
+    en: >-
+      A sannyasi stands above all ashramas: all bow to him, even his own father, and he replies "Narayana!" or "Namo
+      narayanaya" — "Obeisance to Narayana" — for honour belongs to God. Sannyasis bow only to senior sannyasis. But
+      Mahaprabhu broke this rule for love: He Himself bowed to householder Vaishnavas to teach humility. Otherwise He
+      was strict: a sannyasi does not talk with women in private and does not seek to meet a king — "it is like
+      drinking poison". When the younger Haridasa merely asked the venerable Vaishnavi Madhavi for good rice for the
+      Lord, Mahaprabhu refused to see him.
+  hagiography: ["ЧБ Антья 8.150–153", "Лочан, Мадхья-кханда, ч. 16, ст. 52", "Мурари 3.3.13", "ЧЧ Мадхья 11.7",
+                "ЧЧ Антья 2.104–144", "ЧЧ Мадхья 6.72"]
+  sources: []
+  images: []
+  game: {model: "диалог-приветствие санньяси: «Намо нараяная»", where: ["puri/road", "katwa/keshava-bharati-ashram"]}
+
+- id: mc-women-modesty
+  title: {ru: "Женская стыдливость и покрывало", en: "Women's modesty and the veil"}
+  rubric: rites
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Жития: Лакшмиприя «застенчиво склонив лицо» садится рядом с Господом — Лочан, Ади-кханда, ч. 11, ст. 118; жена,
+      «оставив стыдливость», говорит перед мужем — Лочан, Ади-кханда, ч. 13, ст. 57; подношение несут, прикрыв краем
+      сари — Лочан, Ади-кханда, ч. 4 (см. mc-banyan-shashthi). Покрывало перед старшими родственниками мужа, свобода
+      дочери в отчем доме — Day 1916 (XIX в.), т. е. реконструкция.
+    en: >-
+      Hagiography: Lakshmipriya "bashfully lowering her face" sits beside the Lord — Lochana, Adi-khanda pt. 11 v. 118;
+      a wife, "casting off shyness", speaks before her husband — Lochana, Adi-khanda pt. 13 v. 57; an offering carried
+      covered with the end of the sari — Lochana, Adi-khanda pt. 4 (see mc-banyan-shashthi). The veil before the
+      husband's elder relatives, a daughter's freedom in her father's house — Day 1916 (19th c.), i.e. reconstruction.
+  text:
+    ru: >-
+      Замужняя бенгалка прикрывает голову и часть лица краем сари, когда рядом старшие мужчины мужниной семьи:
+      считалось крайне неприличным даже взглянуть в лицо старшему брату мужа, а с младшими можно шутить. В доме
+      свёкра молодая жена ходит под покрывалом, а в отчем доме, где выросла, — открыто. При посторонних она
+      говорит тихо и мало, при муже — сдержанно: Лочан Дас отмечает, как жена «оставила стыдливость», заговорив перед
+      мужем в горе. Невеста Лакшмиприя села по левую руку от Господа, «застенчиво склонив лицо». Эта сдержанность — не
+      унижение, а знак достоинства и чистоты.
+    en: >-
+      A married Bengali woman covers her head and part of her face with the end of her sari when senior men of her
+      husband's family are near: it was thought most improper even to look at the face of the husband's elder brother,
+      while with the younger ones she may joke. In her father-in-law's house the young wife goes veiled; in her
+      father's house, where she grew up, openly. Before strangers she speaks softly and little, before her husband
+      with restraint: Lochana Dasa notes how a wife "cast off shyness" when she spoke before her husband in grief. The
+      bride Lakshmipriya sat on the Lord's left "bashfully lowering her face". This restraint is not humiliation but a sign
+      of dignity and purity.
+  hagiography: ["Лочан, Ади-кханда, ч. 11, ст. 118", "Лочан, Ади-кханда, ч. 13, ст. 57", "Лочан, Ади-кханда, ч. 4, ст. 359"]
+  sources: ["Day 1916, гл. IV–V (невестка не смотрит в лицо старшим братьям мужа и ходит при них под покрывалом; с
+            младшими братьями — свободно)", "Day 1916, с. 186 (молодая жена под покрывалом в доме свёкра, без покрывала —
+            в отчем доме)"]
+  images: []
+  game: {model: "анимация: край сари на голову при появлении старшего мужчины", where: ["mishra-house/courtyard"],
+         notes: "одежда — у исполнителя dress (mc-sari)"}
+  todo: "найти житийное свидетельство покрывала (ЧБ — Вишнуприя, Шачи?); страницы Day — по скану"
+
+- id: mc-temple-conduct
+  title: {ru: "Поведение у храма: кто не входил и почему", en: "Conduct at the temple: who did not enter, and why"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Харидас не приближается к храму, чтобы не коснуться служителей — ЧЧ Мадхья 11.163–168; Санатана идёт по
+      раскалённому песку, избегая Львиных врат, — ЧЧ Антья 4.120–132; Махапрабху смотрит издали, от колонны Гаруды —
+      ЧЧ Антья 14.23, Мадхья 6.63; охранник замахивается на упавшего Господа — ЧЧ Мадхья 6.4–5; обход алтаря — ЧЧ Мадхья
+      7.58; гирлянда и прасад от пуджари — ЧЧ Мадхья 6.217, Антья 16.89–90.
+    en: >-
+      Haridasa will not approach the temple lest he touch the servants — CC Madhya 11.163–168; Sanatana walks on
+      burning sand, avoiding the Lion Gate — CC Antya 4.120–132; Mahaprabhu gazes from afar, from the Garuda pillar —
+      CC Antya 14.23, Madhya 6.63; a guard raises his hand at the fallen Lord — CC Madhya 6.4–5; circling the altar —
+      CC Madhya 7.58; garland and prasada from the priest — CC Madhya 6.217, Antya 16.89–90.
+  text:
+    ru: >-
+      К храму Джаганнатхи подходили омывшись и в чистой одежде, у Львиных врат кланялись, внутри обходили алтарь и
+      не трогали Божество — за порядком следили охранники. Те, кто по рождению считался «низким», не входили вовсе.
+      Харидас Тхакур попросил лишь уединённое место в роще, «чтобы даже случайно не коснуться слуг Джаганнатхи», а
+      Санатана Госвами шёл к Махапрабху по раскалённому песку у моря, лишь бы не идти мимо Львиных врат, где ходят
+      служители, — и стёр стопы до волдырей. Махапрабху был счастлив: «Ты соблюдаешь правила и этим учишь других».
+      Сам Господь каждый день приходил к Харидасу и посылал ему махапрасад.
+    en: >-
+      People approached Jagannatha's temple bathed and in clean clothes, bowed at the Lion Gate, walked around the altar
+      inside and did not touch the Deity — guards kept order. Those considered "low" by birth did not enter at all.
+      Haridasa Thakura asked only for a secluded place in a grove, "so as not even by chance to touch Jagannatha's
+      servants", and Sanatana Gosvami walked to Mahaprabhu over the burning sand by the sea rather than pass the Lion
+      Gate where the servants go — and blistered his feet. Mahaprabhu was delighted: "You keep the rules, and so you
+      teach others." The Lord Himself came to Haridasa every day and sent him mahaprasada.
+  hagiography: ["ЧЧ Мадхья 11.163–168", "ЧЧ Антья 4.120–132", "ЧЧ Антья 14.23", "ЧЧ Мадхья 6.4–5", "ЧЧ Мадхья 7.58",
+                "ЧЧ Мадхья 6.217", "ЧЧ Антья 16.89–90"]
+  sources: []
+  images: []
+  game: {model: "Львиные врата, раскалённый песок у моря (дорога Санатаны), роща Сиддха-бакула",
+         where: ["puri/lion-gate", "puri/siddha-bakula"]}
+  todo: "«омывшись и в чистой одежде» — обычай; найти стих (ЧБ Антья 10.110 о непрополосканной одежде служителей?)"
+
+- id: mc-seeing-off
+  title: {ru: "Проводы в путь", en: "Seeing someone off on a journey"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Разрешение матери перед Гаей — ЧБ Ади 17.12; Рамананда провожает до Бхадраки — ЧЧ Мадхья 1.149; царские сановники
+      — до Яджпура, ЧЧ Мадхья 16.150; Мадхавендре дают брахмана, слугу, деньги на дорогу и пропуск с печатью — ЧЧ
+      Мадхья 4.152–153; наместник плачет на берегу — ЧЧ Мадхья 16.197; прощание после Дола-ятры — ЧЧ Антья 1.216, 4.207;
+      обход матери при прощании — ЧЧ Мадхья 3.211; выход после мангала-арати — ЧЧ Мадхья 4.209, 5.139.
+    en: >-
+      The mother's permission before Gaya — CB Adi 17.12; Ramananda escorts Him as far as Bhadraka — CC Madhya 1.149;
+      royal officers — as far as Jajpur, CC Madhya 16.150; Madhavendra is given a brahmin, a servant, travel money and a
+      sealed pass — CC Madhya 4.152–153; the governor weeps on the bank — CC Madhya 16.197; farewells after Dola-yatra —
+      CC Antya 1.216, 4.207; circling the mother at parting — CC Madhya 3.211; setting out after mangala-arati — CC
+      Madhya 4.209, 5.139.
+  text:
+    ru: >-
+      Уходя в далёкий путь, сначала просят разрешения у матери и старших, кланяются им и обходят их кругом. Гостя
+      не отпускают одного: хозяин или его люди провожают его до границы деревни, а почётного — на много дней пути, как
+      Рамананда Рай провожал Махапрабху до Бхадраки, а сановники царя — до Яджпура. В дорогу дают спутников, еду,
+      деньги на переправы и пошлины, а иногда — грамоту с царской печатью, чтобы сборщики не задерживали. Выходят
+      рано утром, после мангала-арати, с именем Хари на устах, а провожающие долго стоят и смотрят вслед.
+    en: >-
+      Before setting out on a long journey one first asks leave of one's mother and elders, bows to them and walks
+      around them. A guest is not let go alone: the host or his men see him to the edge of the village, and an
+      honoured guest for many days' journey, as Ramananda Raya escorted Mahaprabhu to Bhadraka, and the king's officers
+      to Jajpur. For the road one is given companions, food, money for ferries and tolls, and sometimes a letter with
+      the royal seal so that collectors will not hold one up. One leaves early in the morning, after mangala-arati,
+      with Hari's name on the lips, and those who see one off stand long gazing after.
+  hagiography: ["ЧБ Ади 17.12", "ЧЧ Мадхья 1.149", "ЧЧ Мадхья 16.150", "ЧЧ Мадхья 4.152–153", "ЧЧ Мадхья 16.197",
+                "ЧЧ Антья 1.216", "ЧЧ Мадхья 3.211", "ЧЧ Мадхья 5.139"]
+  sources: []
+  images: []
+  game: {model: "сцена у околицы: путник с посохом и узлом, провожающие", where: ["navadvipa/lane", "puri/road"],
+         notes: "пересечение с travel (пошлины, переправы — mc-ferries-tolls)"}
