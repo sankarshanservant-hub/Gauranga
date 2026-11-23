@@ -743,3 +743,181 @@
   images: []
   game: {model: "серый камешек ~6–8 см на деревянной подставке, ткань 20 см; гирлянда из семян гунджи (красные с
          чёрным пятном, ~6 мм)", where: ["puri/gambhira"]}
+
+- id: mc-festival-year
+  title: {ru: "Праздники года при Махапрабху", en: "The festival year in Mahaprabhu's time"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Пури: Дола-ятра — ЧЧ Мадхья 7.5, 16.9, Антья 1.215, 4.114, Лочан, Мадхья-кханда, ч. 20, ст. 84, 95; Снана-ятра и
+      Анавасара — ЧЧ Мадхья 1.122, 11.60–61; Ратха-ятра и Хера-панчами — ЧЧ Мадхья 13–14, 16.54; лодка Говинды на озере
+      Нарендра — ЧЧ Антья 10.42–44; четыре месяца дождей, Нандотсава, Виджая-дашами, Раса-ятра, Дипавали,
+      Уттхана-двадаши — ЧЧ Мадхья 15.16–36; Джанмаштами, Вамана-двадаши, Рама-навами, Нрисимха-чатурдаши, картика-врата
+      — ЧЧ Мадхья 22.122–123, 24.335–336. Дола в Бенгалии (красный порошок, качели, полнолуние пхалгуны) и Снана-ятра в
+      джйештху — Ward 1863, p. 122, 128 (поздн.).
+    en: >-
+      Puri: Dola-yatra — CC Madhya 7.5, 16.9, Antya 1.215, 4.114, Lochana, Madhya-khanda pt. 20 vv. 84, 95; Snana-yatra
+      and Anavasara — CC Madhya 1.122, 11.60–61; Ratha-yatra and Hera-panchami — CC Madhya 13–14, 16.54; Govinda's boat
+      on Narendra lake — CC Antya 10.42–44; the four rainy months, Nandotsava, Vijaya-dashami, Rasa-yatra, Dipavali,
+      Utthana-dvadashi — CC Madhya 15.16–36; Janmashtami, Vamana-dvadashi, Rama-navami, Nrisimha-chaturdashi,
+      kartika-vrata — CC Madhya 22.122–123, 24.335–336. Dola in Bengal (red powder, swings, Phalguna full moon) and
+      Snana-yatra in Jyeshtha — Ward 1863, p. 122, 128 (later).
+  text:
+    ru: >-
+      Год Махапрабху в Пури был кругом праздников Джаганнатхи. Весной, в полнолуние пхалгуны, — Дола-ятра: Господа
+      качают на качелях и осыпают красным порошком; в этот же день родился Сам Махапрабху. Летом — лодочные прогулки
+      Божества по озеру Нарендра, затем Снана-ятра, омовение Джаганнатхи на высоком помосте, после которого Он две
+      недели «болеет» и не показывается (Анавасара), и Ратха-ятра. Четыре месяца дождей полны праздников: Нандотсава
+      наутро после Джанмаштами, Виджая-дашами, осенняя Раса-ятра, Дипавали с огнями, Уттхана-двадаши — «пробуждение»
+      Господа. Многие праздники приходились на дни поста — и пели, и постились вместе.
+    en: >-
+      Mahaprabhu's year in Puri was a round of Jagannatha's festivals. In spring, at the full moon of Phalguna, came
+      Dola-yatra: the Lord is rocked on a swing and showered with red powder; on that very day Mahaprabhu Himself was
+      born. In summer the Deity's boat outings on Narendra lake, then Snana-yatra, Jagannatha's bath on a high platform,
+      after which He "falls ill" for two weeks and is not seen (Anavasara), and the Ratha-yatra. The four rainy months
+      are full of festivals: Nandotsava the morning after Janmashtami, Vijaya-dashami, the autumn Rasa-yatra, Dipavali
+      with its lamps, Utthana-dvadashi — the Lord's "awakening". Many festivals fell on fast days — they sang and fasted
+      together.
+  hagiography: ["ЧЧ Мадхья 7.5", "ЧЧ Мадхья 16.9", "ЧЧ Антья 1.215", "Лочан, Мадхья-кханда, ч. 20, ст. 84, 95",
+                "ЧЧ Мадхья 1.122", "ЧЧ Мадхья 11.60–61", "ЧЧ Антья 10.42–44", "ЧЧ Мадхья 15.16–36",
+                "ЧЧ Мадхья 22.122–123", "ЧЧ Мадхья 24.335–336"]
+  sources: ["Ward 1863, p. 122 (Дола: полнолуние пхалгуны, красный порошок, ночное пение)",
+            "Ward 1863, p. 128 (Снана-ятра в джйештху на помосте у храма)"]
+  images: []
+  game: {model: "календарь года: значки праздников по месяцам; качели-дола, помост Снана-ятры, лодка на озере",
+         where: ["puri/jagannatha-temple", "puri/narendra-sarovara"],
+         notes: "в житии праздник на озере Нарендра не назван; по традиции — Чандана-ятра (проверить)"}
+  todo: "Чандана-ятра: прямого упоминания в наших переводах не нашёл"
+
+- id: mc-nandotsava
+  title: {ru: "Нандотсава: Господь в одежде пастушка", en: "Nandotsava: the Lord dressed as a cowherd boy"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: "ЧЧ Мадхья 15.17–31 (Пури); Виджая-дашами — 15.32–35."
+    en: "CC Madhya 15.17–31 (Puri); Vijaya-dashami — 15.32–35."
+  text:
+    ru: >-
+      Наутро после дня явления Кришны в Пури праздновали Нанда-махотсаву — радость отца Кришны, Нанды. Махапрабху и
+      преданные оделись пастушками, взвалили на плечи коромысла с горшками молока и йогурта и пришли, крича «Хари!
+      Хари!». Храмовый служитель Канаи Кхутия играл Нанду, Джаганнатха Махити — матушку Яшоду; все плясали, обливая
+      друг друга молоком, йогуртом и водой с куркумой. Адвайта поддразнил: «Признаю Тебя пастушком, если умеешь
+      крутить посохом», — и Господь так закрутил палку, что она слилась в огненный круг. По приказу царя голову
+      Господа и преданных повязали тканью, которую носил Джаганнатха.
+    en: >-
+      The morning after Krishna's appearance day Puri celebrated Nanda-mahotsava — the joy of Krishna's father, Nanda.
+      Mahaprabhu and the devotees dressed as cowherd boys, shouldered yokes with pots of milk and yoghurt and came
+      crying "Hari! Hari!". The temple servant Kanai Khutiya played Nanda, Jagannatha Mahiti mother Yashoda; everyone
+      danced, drenching each other with milk, yoghurt and turmeric water. Advaita teased: "I'll accept You as a cowherd
+      if You can twirl a staff" — and the Lord spun the stick until it blurred into a ring of fire. By the king's order
+      the heads of the Lord and the devotees were bound with cloth that Jagannatha had worn.
+  hagiography: ["ЧЧ Мадхья 15.17–31"]
+  sources: []
+  images: []
+  game: {model: "коромысло (бханга) с двумя глиняными горшками; пастушеский посох ~1,5 м; ткань Джаганнатхи",
+         where: ["puri/jagannatha-temple"]}
+
+- id: mc-diksha
+  title: {ru: "Дикша — посвящение в мантру", en: "Diksha — initiation into the mantra"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Гая: Господь просит посвящения у Ишвары Пури и получает десятисложную мантру — ЧБ Ади 17.105–114; Адвайта просит
+      мантру у Мадхавендры Пури — ЧЧ Мадхья 4.111; Гопала-мантра в поклонении — ЧБ Мадхья 9.50; санньяса-мантра на ухо
+      — ЧБ Мадхья 28.155–159. Тайна мантры — Ward 1863, p. xliv (поздн.).
+    en: >-
+      Gaya: the Lord asks Ishvara Puri for initiation and receives the ten-syllable mantra — CB Adi 17.105–114; Advaita
+      asks Madhavendra Puri for the mantra — CC Madhya 4.111; the Gopala-mantra in worship — CB Madhya 9.50; the
+      sannyasa-mantra in the ear — CB Madhya 28.155–159. Secrecy of the mantra — Ward 1863, p. xliv (later).
+  text:
+    ru: >-
+      Мантру не вычитывают из книги — её получают из уст гуру, и обычно шёпотом на правое ухо. В Гае Нимай Пандит,
+      знаменитый учёный, пришёл один к Ишваре Пури и смиренно попросил посвящения; тот ответил: «Что мантра — я
+      отдам Тебе жизнь», — и дал Ему десятисложную Гопала-мантру. Господь, Учитель мира, принял её, чтобы показать
+      всем: без гуру нет пути. Вернувшись, Он стал другим — плакал, повторяя имя Кришны. Мантру хранят в тайне и
+      повторяют в уединении, а гуру почитают как представителя Господа.
+    en: >-
+      A mantra is not read out of a book — it is received from the guru's lips, usually whispered into the right ear.
+      In Gaya Nimai Pandita, the famous scholar, came alone to Ishvara Puri and humbly asked for initiation; he replied:
+      "What is a mantra — I would give You my life," and gave Him the ten-syllable Gopala-mantra. The Lord, the Teacher
+      of the world, accepted it to show everyone that without a guru there is no path. Returning, He was changed — He
+      wept, repeating Krishna's name. The mantra is kept secret and repeated in solitude, and the guru is honoured as
+      the Lord's representative.
+  hagiography: ["ЧБ Ади 17.105–114", "ЧЧ Мадхья 4.111", "ЧБ Мадхья 9.50", "ЧБ Мадхья 28.155–159"]
+  sources: ["Ward 1863, p. xliv (слова посвящения скрывают; ученик простирается у стоп гуру)"]
+  images: []
+  game: {model: "гуру и ученик, сидящие друг против друга; шёпот на ухо — анимация", where: ["gaya/vishnupada"]}
+  todo: "«на правое ухо» — по обычаю; в ЧБ Ади 17.107 деталь не названа (в ЧБ Мадхья 28.156 — «на ухо»)"
+
+- id: mc-sannyasa-katwa
+  title: {ru: "Санньяса в Катве", en: "The sannyasa at Katwa"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧБ Мадхья 28.131–175 (Чандрашекхара совершает обряды; подношения жителей; бритьё головы и шикхи; плач; омовение
+      в Ганге; мантра на ухо; шафрановая одежда, сандал, гирлянды, данда и камандалу; имя «Кришна-Чайтанья»); Лочан,
+      Мадхья-кханда, ч. 17, ст. 120–139 (цирюльник боится коснуться головы; благословение цирюльнику; миг —
+      переход Солнца из Макары в Кумбху); ЧЧ Ади 17.268–272.
+    en: >-
+      CB Madhya 28.131–175 (Chandrashekhara performs the rites; villagers' gifts; shaving the head and shikha; weeping;
+      bath in the Ganga; mantra in the ear; saffron cloth, sandal, garlands, danda and kamandalu; the name
+      "Krishna-Chaitanya"); Lochana, Madhya-khanda pt. 17 vv. 120–139 (the barber dares not touch the head; the barber
+      blessed; the moment — the Sun passing from Makara into Kumbha); CC Adi 17.268–272.
+  text:
+    ru: >-
+      В двадцать четыре года, в месяц магха, Нимай Пандит пришёл в Катву к санньяси Кешаве Бхарати. Жители окрестных
+      деревень несли молоко, йогурт, масло, дал, бетель, сандал, цветы и ткани. Обряды за Господа вёл Чандрашекхара
+      Ачарья. Когда пришёл цирюльник, все зарыдали: он не смел коснуться дивных кудрей и молил: «Как я после этого буду
+      брить других?» — и Господь благословил его прожить жизнь счастливо, по милости Кришны. Лишь к вечеру голову
+      обрили; Господь омылся в Ганге, получил мантру на ухо, надел шафрановую одежду и взял посох-данду и сосуд-
+      камандалу. Кешава Бхарати дал Ему имя «Шри Кришна Чайтанья» — «Тот, кто пробуждает в мире Кришну».
+    en: >-
+      At twenty-four, in the month of Magha, Nimai Pandita came to Katwa to the sannyasi Keshava Bharati. People from
+      the surrounding villages brought milk, yoghurt, butter, dal, betel, sandal, flowers and cloth. Chandrashekhara
+      Acharya performed the rites on the Lord's behalf. When the barber came, everyone wept: he dared not touch those
+      wonderful curls and pleaded, "How shall I shave others after this?" — and the Lord blessed him to live his life
+      happily by Krishna's grace. Only by evening was the head shaved; the Lord bathed in the Ganga, received the
+      mantra in His ear, put on saffron cloth and took the staff (danda) and water-pot (kamandalu). Keshava Bharati
+      named Him "Shri Krishna Chaitanya" — "He who awakens Krishna in the world".
+  hagiography: ["ЧБ Мадхья 28.131–175", "Лочан, Мадхья-кханда, ч. 17, ст. 120–139", "ЧЧ Ади 17.268–272"]
+  sources: []
+  images: []
+  game: {model: "цирюльник с бритвой и медной чашей воды; шафрановые каупина и бахирвас; бамбуковый посох-данда,
+         камандалу из тыквы-горлянки или кокоса", where: ["katwa/keshava-bharati-ashram"]}
+  todo: "материал камандалу эпохи (тыква-горлянка? дерево? кокос?) — проверить"
+
+- id: mc-danda
+  title: {ru: "Данда санньяси и сломанный посох", en: "The sannyasi's danda and the broken staff"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Данда и камандалу при санньясе — ЧБ Мадхья 28.163; Нитьянанда ломает данду на три части и бросает в реку
+      Бхаргинади у Камалапура — ЧЧ Мадхья 5.141–158; ЧБ Антья 2.203–207 (Джагадананда носил данду Господа); упрёк
+      Махапрабху — ЧЧ Мадхья 7.20. Санньяси Шанкаровой линии (ека-данди) — по ЧЧ Мадхья 6.72 и др.
+    en: >-
+      Danda and kamandalu at sannyasa — CB Madhya 28.163; Nityananda breaks the danda into three and throws it into the
+      Bhargi river near Kamalapura — CC Madhya 5.141–158; CB Antya 2.203–207 (Jagadananda carried the Lord's danda);
+      Mahaprabhu's reproach — CC Madhya 7.20. Sannyasis of Shankara's line (eka-dandi) — per CC Madhya 6.72 etc.
+  text:
+    ru: >-
+      Данда — бамбуковый посох санньяси, знак обета; вместе с сосудом для воды, камандалу, это всё его имущество.
+      Махапрабху получил данду в Катве. По пути в Пури Он, уходя в храм Шивы, оставил её Нитьянанде, и Нитьянанда со
+      смехом сказал посоху: «Неправильно, что Тот, Кого Я ношу в сердце, должен носить тебя», — сломал его на три
+      части и бросил в реку. Господь огорчился: «Вы не уберегли Моё единственное богатство!» — и пошёл в Пури один.
+      Вайшнавы видят в этом смысл: Нитьянанда освобождает Господа от внешнего знака отречения ради Его любви.
+    en: >-
+      A danda is a sannyasi's bamboo staff, the sign of his vow; with the water-pot, kamandalu, it is all he owns.
+      Mahaprabhu received His danda at Katwa. On the way to Puri, going into a Shiva temple, He left it with
+      Nityananda, and Nityananda laughingly told the staff, "It is not right that the One I carry in My heart should
+      carry you," broke it into three pieces and threw it into the river. The Lord was upset — "You did not guard My
+      only wealth!" — and went on to Puri alone. Vaishnavas see the meaning: Nityananda frees the Lord from an outer
+      sign of renunciation for the sake of His love.
+  hagiography: ["ЧБ Мадхья 28.163", "ЧЧ Мадхья 5.141–158", "ЧБ Антья 2.203–207", "ЧЧ Мадхья 7.20"]
+  sources: []
+  images: []
+  game: {model: "прямой бамбуковый посох в рост человека (~1,7 м) с узлами; камандалу", where: ["puri/road"]}
+  todo: "«смысл» — дать по комментарию Бхактисиддханты (Анубхашья к ЧЧ Мадхья 5.158) своими словами"
