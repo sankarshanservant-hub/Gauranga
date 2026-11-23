@@ -819,7 +819,7 @@ SPOTS = {
     # места сцены
     'sp_entry': (4.5, -9.0, 0.0), 'sp_yard': (1.5, -2.0, 0.0), 'sp_mishra_home': (-1.6, 4.4, 0.55),
     'sp_ghar_door': (-0.5, 5.0, 0.55), 'sp_kitchen_front': (-4.6, 1.2, 0.0), 'sp_offer': (-4.9, 0.0, 0.0),
-    'sp_cook': (-5.6, -0.5, 0.55), 'sp_neighbors': (9.5, -2.5, 0.0), 'sp_neighbor_woman': (10.4, -1.6, 0.0),
+    'sp_cook': (-5.6, -0.5, 0.55), 'sp_neighbors': (4.0, 0.4, 0.0), 'sp_neighbor_woman': (5.0, 1.2, 0.0),
     'sp_shachi_home': (1.2, 4.4, 0.55), 'sp_relative': (-2.6, -1.0, 0.0), 'sp_vishvarupa_in': (5.5, -8.0, 0.0),
     'sp_sleep1': (-2.6, 4.3, 0.55), 'sp_sleep2': (0.6, 4.3, 0.55), 'sp_sleep3': (2.0, 4.6, 0.55),
     'sp_player_start': (3.0, -4.5, 0.0), 'sp_vision': (-4.9, 0.0, 0.0),

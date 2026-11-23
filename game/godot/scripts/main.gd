@@ -216,6 +216,8 @@ func _setup_figures() -> void:
 		var cap := CapsuleShape3D.new(); cap.radius = 0.35 * f.height / 1.65; cap.height = f.height
 		cs.shape = cap; cs.position.y = f.height / 2
 		a.add_child(cs); f.add_child(a)
+		if id != "player":
+			f.add_xray(Color(0.95, 0.88, 0.7, 0.22))
 	player = figures["player"]
 	player.visible = true
 	player.add_xray(Color(0.75, 0.8, 1.0, 0.35))
