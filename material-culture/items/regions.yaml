@@ -208,3 +208,241 @@
   game: {model: "лестница гхатов, кирпичные дома в несколько этажей (⚠ облик XVI в. — проверить), костры Маникарники вдали",
          where: ["travel/varanasi"], notes: "погребальные костры — без натурализма"}
   todo: "Облик Варанаси до перестроек XVIII в. (большинство гхатов поздние) — по PD (Prinsep, Benares Illustrated, 1831–33)."
+
+- id: mc-ramakeli
+  title: {ru: "Рамакели — деревня у столицы султана", en: "Ramakeli — the village by the Sultan's capital"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Неподалёку от столицы Гауды на берегу Ганги — деревня Рамакели; все её жители — брахманы» — ЧБ Антья 4.5;
+      Господь 4–5 дней в Рамакели, толпы, «даже мусульмане воспевали имя Хари и кланялись издалека» — 4.6–23; местный
+      констебль (*котовал*?) доносит царю и подробно описывает облик Господа — 4.24–35; Рамакели «славится красотой»,
+      тайная ночная встреча с Дабиром Кхасом и Сакаром Малликом — ЧЧ Мадхья 1.166–218; повторный приход — ЧЧ Мадхья
+      16.211, 16.260. Султан — mc-sultan-gauda; министры — mc-royal-ministers.
+    en: >-
+      'Near the capital Gauda on the bank of the Ganga is the village of Ramakeli; all its inhabitants are brahmins' —
+      CB Antya 4.5; the Lord spends 4–5 days at Ramakeli, crowds, 'even Muslims chanted Hari's name and bowed from afar'
+      — 4.6–23; the local constable (*kotwal*?) reports to the king and describes the Lord's appearance in detail —
+      4.24–35; Ramakeli 'famed for its beauty', the secret night meeting with Dabir Khas and Sakar Mallik — CC Madhya
+      1.166–218; a return visit — CC Madhya 16.211, 16.260. The Sultan — mc-sultan-gauda; the ministers —
+      mc-royal-ministers.
+  text:
+    ru: >-
+      В нескольких милях от Гауды, столицы бенгальского султана, на берегу Ганги лежала брахманская деревня Рамакели,
+      где жили брахманы на царской службе, — среди них министры Дабир Кхас и Сакар Маллик, будущие Рупа и Санатана.
+      Когда сюда пришёл Махапрабху, на киртан сбежалась вся округа, и даже мусульмане издали кланялись и пели имя
+      Хари. Местный стражник тут же донёс султану — и описал Господа так подробно, словно сам стал Его поклонником:
+      «сияние Его тела превосходит золото, руки достигают колен, глаза — как лепестки лотоса». А министры пришли к
+      Господу тайно, глубокой ночью, с соломинкой в зубах — знак смирения.
+    en: >-
+      A few miles from Gauda, the Bengal Sultan's capital, on the bank of the Ganga lay the brahmin village of Ramakeli,
+      home of brahmins in royal service — among them the ministers Dabir Khas and Sakar Mallik, the future Rupa and
+      Sanatana. When Mahaprabhu came here the whole district ran to the kirtan, and even Muslims bowed from afar and sang
+      Hari's name. The local guard at once reported to the Sultan — and described the Lord in such detail as though he
+      had become His devotee: 'the lustre of His body surpasses gold, His arms reach His knees, His eyes are like lotus
+      petals.' The ministers came to the Lord secretly, in the dead of night, with a straw between their teeth — a sign
+      of humility.
+  hagiography: ["ЧБ Антья 4.5–35", "ЧЧ Мадхья 1.166–218", "ЧЧ Мадхья 16.211", "ЧЧ Мадхья 16.260"]
+  sources: []
+  images: []
+  game: {model: "деревня у Ганги: кирпичные дома знати рядом с хижинами; вдали — стены и ворота Гауды (кирпич, изразцы)",
+         where: ["travel/ramakeli"], notes: "облик Гауды — по руинам (Бара-Сона-масджид, 1526) — проверить по PD (Ravenshaw, Gaur, 1878)"}
+  todo: "Слово для «констебля» в ЧБ Антья 4.24 — сверить по транслиту (*кота̄ла*?)."
+
+- id: mc-kurma-village
+  title: {ru: "Деревни Андхры: Курма-кшетра и Годавари", en: "Villages of Andhra: Kurma-kshetra and the Godavari"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Курма-кшетра: брахман Курма омывает Господу стопы и пьёт эту воду с семьёй, кормит, доедает остатки; Господь:
+      «Оставайся дома, повторяй имя Кришны и стань гуру» — ЧЧ Мадхья 7.113–135; прокажённый брахман Васудева, от
+      которого «убегали даже грешники», исцелён объятием — 7.136–146; «так было в каждой деревне» — 7.120, 7.130;
+      Джияда-Нрисимха, «как обычно, кто-то из брахманов пригласил Господа» — ЧЧ Мадхья 8.3–8; на Годавари — Рамананда
+      Рай, наместник, приезжает на паланкине с музыкантами и ведическими брахманами — 8.11–25.
+    en: >-
+      Kurma-kshetra: the brahmin Kurma washes the Lord's feet and drinks the water with his family, feeds Him and eats the
+      remnants; the Lord: 'Stay at home, chant Krishna's name and become a guru' — CC Madhya 7.113–135; the leper brahmin
+      Vasudeva, from whom 'even sinners ran away', healed by an embrace — 7.136–146; 'so it was in every village' —
+      7.120, 7.130; Jiyada-Nrisimha, 'as usual, some brahmin invited the Lord' — CC Madhya 8.3–8; on the Godavari —
+      Ramananda Raya, the governor, arrives in a palanquin with musicians and Vedic brahmins — 8.11–25.
+  text:
+    ru: >-
+      Пройдя Ориссу, Махапрабху вступил в земли телугу. Его путь — от деревни к деревне: в каждой какой-нибудь брахман
+      приглашает санньяси к себе, омывает Ему стопы, пьёт эту воду вместе с домочадцами, кормит Его и доедает остатки
+      Его трапезы. Так было и в Курма-кшетре у брахмана Курмы, которому Господь велел не уходить за Ним, а оставаться
+      дома, повторять имя Кришны и учить каждого встречного. Туда же пришёл прокажённый Васудева, чьё тело было
+      покрыто язвами, — Господь обнял его, и болезнь ушла. А на берегу Годавари, напомнившей Господу Ямуну, Он увидел
+      наместника Рамананду Рая, приехавшего омыться в паланкине, под звуки музыки, в окружении брахманов.
+    en: >-
+      Beyond Orissa Mahaprabhu entered the Telugu lands. His way runs from village to village: in each some brahmin
+      invites the sannyasi home, washes His feet, drinks that water with his household, feeds Him and eats the remnants
+      of His meal. So it was at Kurma-kshetra with the brahmin Kurma, whom the Lord told not to follow Him but to stay at
+      home, chant Krishna's name and teach everyone he met. There came the leper Vasudeva, his body covered with sores —
+      the Lord embraced him, and the disease left. And on the bank of the Godavari, which reminded the Lord of the
+      Yamuna, He saw the governor Ramananda Raya, who had come to bathe in a palanquin, to the sound of music, surrounded
+      by brahmins.
+  hagiography: ["ЧЧ Мадхья 7.113–146", "ЧЧ Мадхья 8.3–25"]
+  sources: []
+  images: []
+  game: {model: "двор южного брахмана: латунный кувшин для омовения стоп, банановые листья; паланкин наместника у реки",
+         where: ["travel/south"], notes: "проказа — mc-leprosy? (health.yaml)"}
+
+- id: mc-prayaga
+  title: {ru: "Праяга: слияние Ганги и Ямуны", en: "Prayaga: the meeting of Ganga and Yamuna"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Санодия-брахман советует идти в Праягу вдоль Ганги, чтобы успеть к омовениям месяца магха — ЧЧ Мадхья 18.143–158;
+      Господь омывается в месте слияния Ганги и Ямуны все десять дней праздника Макара-санкранти — 18.222; даршан
+      Бинду-Мадхавы, сотни тысяч людей, «Праягу не затопят Ганга и Ямуна, но Господь затопил его премой» — ЧЧ Мадхья
+      19.38–40; жильё у Тривени, встреча с Рупой и Анупамой — 19.45–60; Валлабха Бхатта из селения Адаила за Ямуной,
+      переправа на лодке, Господь прыгает в Ямуну, лодка начинает тонуть — 19.61–81; Рагхупати Упадхьяя — 19.92–97.
+    en: >-
+      The Sanodiya brahmin advises going to Prayaga along the Ganga to be in time for the bathing of the month of Magha
+      — CC Madhya 18.143–158; the Lord bathes at the meeting of the Ganga and Yamuna all ten days of the Makara-sankranti
+      festival — 18.222; darshan of Bindu-Madhava, hundreds of thousands of people, 'Ganga and Yamuna cannot flood
+      Prayaga, but the Lord flooded it with prema' — CC Madhya 19.38–40; lodging by the Triveni, meeting Rupa and
+      Anupama — 19.45–60; Vallabha Bhatta from the village of Adaila across the Yamuna, the boat crossing, the Lord jumps
+      into the Yamuna, the boat begins to sink — 19.61–81; Raghupati Upadhyaya — 19.92–97.
+  text:
+    ru: >-
+      Праяга — «царь святых мест», где светлая Ганга сливается с тёмно-синей Ямуной. В месяц магха, когда солнце входит
+      в знак Козерога, сюда стекаются огромные толпы, чтобы омыться в Тривени, — и спутники Господа нарочно торопили Его
+      из Вриндавана, чтобы успеть к празднику. Махапрабху омывался в месте слияния десять дней, поселился у самой
+      Тривени, а у Бинду-Мадхавы танцевал перед сотнями тысяч людей. За Ямуной, в селении Адаила, жил учёный
+      Валлабха Бхатта: он повёз Господа к себе на лодке, и при виде тёмной воды Ямуны Махапрабху в экстазе прыгнул за
+      борт, а лодка, когда Его втащили обратно, едва не пошла ко дну.
+    en: >-
+      Prayaga is 'the king of holy places', where the pale Ganga meets the dark-blue Yamuna. In the month of Magha, when
+      the sun enters Capricorn, huge crowds gather here to bathe at the Triveni — and the Lord's companions deliberately
+      hurried Him from Vrindavana to be in time for the festival. Mahaprabhu bathed at the confluence for ten days,
+      lodged right by the Triveni and danced before Bindu-Madhava in front of hundreds of thousands. Across the Yamuna,
+      in the village of Adaila, lived the scholar Vallabha Bhatta: he took the Lord to his home by boat, and at the sight
+      of the dark Yamuna water Mahaprabhu leapt overboard in ecstasy, and when He was hauled back the boat nearly sank.
+  hagiography: ["ЧЧ Мадхья 18.143–158", "ЧЧ Мадхья 18.222", "ЧЧ Мадхья 19.38–97"]
+  sources: []
+  images: []
+  game: {model: "песчаная отмель слияния: светлая и тёмная вода, лодки, толпы паломников; навесы на песке",
+         where: ["travel/prayaga"], notes: "цвет вод — по традиции, проверить фото"}
+
+- id: mc-mathura
+  title: {ru: "Матхура: гхаты Ямуны и санодия-брахманы", en: "Mathura: the Yamuna ghats and the Sanodiya brahmins"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Издалека увидев Матхуру, Господь падает ниц; Вишрама-тиртха, место явления Кришны — ЧЧ Мадхья 17.155–156;
+      санория (санодия)-брахман, ученик Мадхавендры Пури: «обычно санньяси не принимают пищу в их домах», но Мадхавендра
+      принял — 17.158–181; 24 гхата Ямуны, Сваямбху, Диргха-Вишну, Бхутешвара, Махавидья, Гокарна — 17.190–191; «за
+      один день десять-двадцать приглашений», ведические брахманы с Юга и из Каньякубджи готовят у Акрура-тиртхи и
+      сначала подносят Шалаграме — ЧЧ Мадхья 18.129–134; «здесь правят мусульмане» — 18.217.
+    en: >-
+      Seeing Mathura from afar, the Lord falls prostrate; Vishrama-tirtha, Krishna's birthplace — CC Madhya 17.155–156;
+      the Sanoriya (Sanodiya) brahmin, Madhavendra Puri's disciple: 'sannyasis usually do not take food in their
+      homes', yet Madhavendra did — 17.158–181; the 24 ghats of the Yamuna, Svayambhu, Dirgha-Vishnu, Bhuteshvara,
+      Mahavidya, Gokarna — 17.190–191; 'ten or twenty invitations a day', Vedic brahmins from the South and from
+      Kanyakubja cook at Akrura-tirtha and first offer to the Shalagrama — CC Madhya 18.129–134; 'the Muslims rule here'
+      — 18.217.
+  text:
+    ru: >-
+      Матхура — город, где явился Кришна, — стоит на Ямуне, и вдоль реки тянутся двадцать четыре гхата для омовения;
+      Махапрабху обошёл их все с проводником — местным брахманом из общины санодия. Здесь иные обычаи, чем в Бенгалии:
+      санодия-брахманов считали «низшими», и санньяси у них обычно не ели, но Мадхавендра Пури, а за ним и Махапрабху,
+      смотрели не на общину, а на преданность. В Матхуре жили и паломники со всей Индии: брахманы с Юга и из Каньякубджи
+      сами варили у Акрура-гхата, подносили пищу Шалаграме и упрашивали Господа принять её. Правили здесь мусульмане, и
+      местные жители помнили, как приходилось прятать Божества.
+    en: >-
+      Mathura, the city where Krishna appeared, stands on the Yamuna, and along the river run twenty-four bathing ghats;
+      Mahaprabhu visited them all with a guide — a local brahmin of the Sanodiya community. Customs here differ from
+      Bengal: the Sanodiya brahmins were counted 'lower', and sannyasis did not usually eat in their homes, but
+      Madhavendra Puri, and Mahaprabhu after him, looked not at the community but at devotion. Pilgrims from all India
+      lived in Mathura too: brahmins from the South and from Kanyakubja cooked for themselves at Akrura ghat, offered the
+      food to the Shalagrama and begged the Lord to accept it. Muslims ruled here, and the locals remembered having to
+      hide the Deities.
+  hagiography: ["ЧЧ Мадхья 17.155–191", "ЧЧ Мадхья 18.129–134", "ЧЧ Мадхья 18.217"]
+  sources: []
+  images: []
+  game: {model: "каменные гхаты Ямуны, лодки, проводник-брахман с кувшином Господа", where: ["travel/mathura"],
+         notes: "Вишрама-гхат — сохранился (поздние перестройки)"}
+
+- id: mc-vraja-forests
+  title: {ru: "Леса Враджа: коровы, олени, попугаи", en: "The forests of Vraja: cows, deer, parrots"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Мадхуван, Талаван, Кумудаван, Бахулаван; стада коров окружают Господа, мычат и лижут Его, пастух с трудом
+      уводит их; олени идут рядом без страха; попугаи, кукушки, шмели, павлины; пара попугаев садится на руку и спорит
+      о Кришне и Радхе — ЧЧ Мадхья 17.192–219; Шриван, Лохаван, Махаван, Гокула — 18.67; ночной «Кришна на озере
+      Калия» — рыбак, приманивающий рыбу светом лампы в лодке — 18.92–108; «Кришна снова проявился во Вриндаване» —
+      18.91; жилище у Акрура-тиртхи из-за толп — 18.128–151. Звери — fauna.yaml.
+    en: >-
+      Madhuvana, Talavana, Kumudavana, Bahulavana; herds of cows surround the Lord, low and lick Him, the herdsman can
+      hardly lead them away; deer walk beside Him without fear; parrots, cuckoos, bees, peacocks; a pair of parrots
+      alights on His hand and debates about Krishna and Radha — CC Madhya 17.192–219; Shrivana, Lohavana, Mahavana,
+      Gokula — 18.67; the night-time 'Krishna on Kaliya lake' — a fisherman luring fish with a lamp in his boat —
+      18.92–108; 'Krishna has appeared again in Vrindavana' — 18.91; lodging at Akrura-tirtha because of the crowds —
+      18.128–151. Animals — fauna.yaml.
+  text:
+    ru: >-
+      Вриндаван начала XVI века — не город, а край пастбищ и лесов вдоль Ямуны, с редкими деревнями пастухов. Ещё нет
+      больших храмов: их построят ученики Махапрабху. Господь шёл из леса в лес — Мадхуван, Талаван, Кумудаван,
+      Бахулаван, — и стада коров с мычанием окружали Его, олени шли рядом без страха, павлины танцевали, а пара
+      попугаев слетела Ему на руку и затеяла спор о Кришне и Радхе. Ночами на озере Калия люди видели «Кришну, пляшущего
+      на змее, в сиянии драгоценных камней», — а это рыбак в лодке приманивал рыбу светом лампы. «Кришна действительно
+      вернулся во Вриндаван», — говорили жители, глядя на Самого Махапрабху.
+    en: >-
+      The Vrindavana of the early sixteenth century is not a town but a country of pastures and forests along the Yamuna
+      with scattered cowherd villages. There are no great temples yet: Mahaprabhu's disciples will build them. The Lord
+      walked from forest to forest — Madhuvana, Talavana, Kumudavana, Bahulavana — and herds of cows surrounded Him
+      lowing, deer walked beside Him without fear, peacocks danced, and a pair of parrots flew down onto His hand and
+      began a debate about Krishna and Radha. At night on Kaliya lake people saw 'Krishna dancing on the serpent amid the
+      glitter of jewels' — but it was a fisherman in a boat luring fish with the light of a lamp. 'Krishna really has
+      returned to Vrindavana,' said the inhabitants, looking at Mahaprabhu Himself.
+  hagiography: ["ЧЧ Мадхья 17.192–219", "ЧЧ Мадхья 18.67", "ЧЧ Мадхья 18.91–108", "ЧЧ Мадхья 18.128–151"]
+  sources: []
+  images: []
+  game: {model: "леса кадамбы и тамалы, пастбища, стадо коров; ночью — лодка с лампой на озере", where: ["travel/vraja"],
+         notes: "отсутствие больших храмов в 1515 г. — важно для достоверности"}
+
+- id: mc-govardhana-gopala
+  title: {ru: "Говардхан и Гопала, которого прятали от «турок»", en: "Govardhana and Gopala, hidden from the 'Turks'"}
+  rubric: travel
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Озеро Суманас, вид на холм, Господь падает ниц и обнимает камень; ночует в храме Харидэвы; не поднимается на
+      Говардхан (холм — Сам Кришна) — ЧЧ Мадхья 18.15–23, 18.43–45; храм Гопалы в селении Аннакута, «жители по большей
+      части раджпуты»; весть «на деревню нападут турки» — Гопалу ночью уносят и прячут в доме брахмана, поклонение
+      продолжается; «из страха перед мусульманами Божество постоянно переносили» — 18.24–42; Гопала позже месяц в
+      Матхуре ради старого Рупы — 18.46–54. Говардхана-шила — mc-govardhana-shila.
+    en: >-
+      Lake Sumanas, the view of the hill, the Lord falls prostrate and embraces a stone; spends the night in the temple
+      of Harideva; does not climb Govardhana (the hill is Krishna Himself) — CC Madhya 18.15–23, 18.43–45; Gopala's
+      temple in the village of Annakuta, 'whose people were mostly Rajputs'; the news 'the Turks will attack the village'
+      — Gopala is carried away at night and hidden in a brahmin's house, worship continues; 'out of fear of the Muslims
+      the Deity was constantly moved' — 18.24–42; Gopala later spends a month in Mathura for the aged Rupa's sake —
+      18.46–54. The Govardhana-shila — mc-govardhana-shila.
+  text:
+    ru: >-
+      Увидев издали холм Говардхан, Махапрабху упал ниц и обнял камень: для вайшнава холм — Сам Кришна, и потому Господь
+      не захотел ступать на него ногами. Но как тогда увидеть Гопалу, Божество, установленное Мадхавендрой Пури на
+      вершине? Гопала Сам нашёл способ. В деревню Аннакута, где жили в основном раджпуты, пришла весть: «турки
+      собираются напасть!» — и жители ночью унесли Божество вниз и спрятали в доме брахмана, продолжая поклонение.
+      Так Господь три дня созерцал Гопалу у подножия холма. Такие ночные «бегства» Божества от набегов были для Враджа
+      того времени обычным делом.
+    en: >-
+      Seeing the hill of Govardhana from afar, Mahaprabhu fell prostrate and embraced a stone: for a Vaishnava the hill
+      is Krishna Himself, and so the Lord would not set foot on it. But how then to see Gopala, the Deity installed by
+      Madhavendra Puri on the summit? Gopala Himself found a way. To the village of Annakuta, whose people were mostly
+      Rajputs, came the news: 'the Turks are about to attack!' — and at night the villagers carried the Deity down and
+      hid Him in a brahmin's house, continuing the worship. So for three days the Lord beheld Gopala at the foot of the
+      hill. Such night-time 'flights' of the Deity from raids were commonplace in the Vraja of that time.
+  hagiography: ["ЧЧ Мадхья 18.15–54"]
+  sources: []
+  images: []
+  game: {model: "невысокий каменистый холм, кусты; ночная процессия с Божеством на носилках, лампады",
+         where: ["travel/vraja"], notes: "Божество — Сам Господь; не «статуя»"}
