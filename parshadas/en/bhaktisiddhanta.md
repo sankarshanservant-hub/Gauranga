@@ -438,6 +438,97 @@ Vaishnava sampradaya. On this tour he founded the Paramahamsa Math in Naimishara
 Mayapur the “Paravidya-pitha” school and the completed temple of the Chaitanya Math with its twenty-nine spires, with
 the images of the acharyas and Radha-Govinda. <!-- F94 F95 -->
 
+## “The Harmonist,” Kurukshetra, Delhi
+In 1927 he began publishing the “Sajjana-toshani” in three languages — English, Sanskrit and Hindi; the English edition
+was named “The Harmonist.” On 17 September 1927 he founded the Chaitanya Gaudiya Math at Dumurkonda (Manbhum), and at
+the end of September he preached in Northern India. In 1928, at the festival of the Gaudiya Math, he spoke at the
+Albert Hall and other public places in Calcutta; the fourth edition of the “Chaitanya-charitamrita” appeared. On 26
+September 1928 the foundation of the Gaudiya Math at Bagbazar, on the bank of the Ganga, was laid, and on 7 October he
+set out with a large party of devotees for Assam and spoke at large gatherings in Shillong; Prince Sharadindu Narayan
+Ray was among his listeners. <!-- F96 F97 F98 -->
+
+On 4 November 1928, during a solar eclipse, he came with devotees to Kurukshetra — to relive there the mood of separation
+of the gopis and of Mahaprabhu at the Ratha-yatra. Hundreds of thousands of pilgrims heard the devotees of the Gaudiya
+Math chanting the names of Gaura; in the Sri Vyasa Gaudiya Math he installed the Deity of Gauranga and opened the
+diorama exhibition “Bhagavata-pradarshini.” On 30 December the great scholar Pramatha Nath Tarkabhushan came to the
+Gaudiya Math and heard a detailed explanation of *daiva-varnashrama*. <!-- F99 F100 -->
+
+In January 1929 he founded the Ekayana Gaudiya Math in Krishnanagar and at its opening gave an original exposition: the
+one path of exclusive devotion (*ekayana*) is the trunk of the Vedic tree, and all other paths (*bahayana*) are its
+branches. On 14 January he met Professor Albert E. Suthers of Ohio University and explained to him how Vaishnavism
+broadens and brings to perfection Christianity: bhakti, pure love of God, is the highest goal of every religion. On 16
+January he opened the Gaudiya Math in New Delhi. <!-- F101 F102 -->
+
+On 30 March 1929 he lectured on the Holy Name in the Ramagopal town hall in Krishnanagar; in May he began in Puri the
+festival of Gaurasundara’s Chandana-yatra and the repair of the Alalanatha temple; on 12 August he spoke on Gaudiya
+philosophy at the Albert Hall in Calcutta. On 1 June 1929 a temporary post office opened in Mayapur, and in October a
+permanent one. At that time, at his word, the devotees laid out Ishodyan — “the Lord’s garden” Bhaktivinoda had longed
+for; he brought electricity to Mayapur, and light shone on the spire of the Chaitanya Math temple. <!-- F103 F106 -->
+
+## Mahaprabhu’s Footprints
+He wished to set up throughout India a hundred and eight memorials — *pada-pithas* — at the places sanctified by
+Mahaprabhu’s feet, with the footprints of Gaurasundara in marble, so that people everywhere might hear and sing the
+Lord’s message. For this, on 13 October 1929 he visited Kanai Natshala, and two days later Mandara; then, preaching, he
+went to Rajmahal, Bhagalpur, Nalanda and Rajgir; in Kashi he spoke on Mahaprabhu’s teachings to Sanatana Gosvami[^15].
+In Kashi, Faizabad, Ayodhya, Naimisharanya, Karaun, Misrikh, Sitapur and Lucknow educated people received him, and he
+led many seekers of truth to pure bhakti; his listeners included the advocate A. P. Sen, Professor Radha Kumud
+Mukhopadhyaya, Dr. Radha Kamal Mukhopadhyaya, Dr. A. N. Sen Gupta and others. <!-- F104 F105 -->
+
+On 8 January 1930 the great scholar Dr. Haraprasad Shastri visited him; they spoke of the history of the Vaishnava
+sampradayas and of the Gaudiya sampradaya, of the dates of the acharyas, of the Pancharatra and of Sri Chaitanya. In mid-
+January, at the Purna Kumbha Mela in Prayaga, the preachers of the Chaitanya Math spoke of Mahaprabhu’s teachings to
+Rupa Gosvami, and he installed at the Triveni Radha-Govinda — the life and soul of Sri Rupa. <!-- F107 F108 -->
+
+From 3 February to 17 March 1930 an unprecedented diorama exhibition was held in Navadvipa-Mayapur; it was opened by
+the famous chemist Dr. Prafulla Chandra Ray. On 18 February, the day of his Vyasa-puja, a memorial of the acharya’s
+footprints was opened at the Chaitanya Math. On 4 May J. H. Napier heard him on Indian spiritual philosophy; on 25 May he
+visited Chhatrabhoga, where Mahaprabhu passed on His way to Puri, and blessed many; in July he founded the
+Sachchidananda Math in Cuttack; on 22 August he came to Allahabad, stayed with the retired judge Monomohan Sanyal, spoke
+with him for several days, drew him to Mahaprabhu’s feet, and resolved the doubts of the townspeople, especially of
+Professor P. K. Acharya. <!-- F109 F110 -->
+
+On 5 October 1930 the devotees and the Deities — Radha-Madana-mohana, Radha-Govinda and Radha-Gopinatha — moved from the
+math on Ultadanga Junction Road to the new buildings at Bagbazar. The festival was accompanied by a diorama exhibition
+and a large spiritual conference. The chief donor for the temple, Jagabandhu Bhakti-ranjan, left this world on 19
+November of that year; the day of his departure was thereafter marked every year by memorial gatherings. <!-- F111 -->
+
+From 25 to 31 December 1930 he set up memorials of Mahaprabhu’s footprints and preached at Jajpur (on the 25th),
+Kurmakshetra (26th), Simhachalam (27th), Kovvur (29th) and Mangalagiri (31st); his preaching drew Sir P. S. Sivaswami
+Iyer, Dr. U. Ramrao, P. N. Subrahmanya Iyer and others. <!-- F112 -->
+
+## The Year 1931
+On 3 April 1931 he opened in Mayapur the “Thakur Bhaktivinoda Institute” — an English high school where young men were
+educated in the Vaishnava way — and spoke on the difference between mundane and spiritual knowledge; later a junior
+school in the Thakura’s name was opened as well. On 3 May he was in Darjeeling, and on 28 June he formally took charge
+of the shripata of Mahesha Pandita, Nityananda’s associate, at Chakdaha and spoke at the opening. On 12 July, at the
+Brahma Gaudiya Math in Alalanatha, he installed the Deity of Gauranga “Gaudiyanatha”; five days later he laid the
+foundation of the Purushottama Math temple on land donated by the Maharaja of Mayurbhanj, then visited Cuttack, the
+Sachchidananda Math, and sent preachers to Simla. <!-- F113 F114 F115 -->
+
+On 30 July his hari-katha at Bagbazar was heard by Professor Kalidas Nag of Calcutta University, and on 5 September by
+Justice Manmatha Nath Mukhopadhyaya. On 6 September, at the annual festival of the Gaudiya Math, he opened in Calcutta an
+exhibition of spiritual education, the “Sat-shiksha-pradarshini,” in the newly built Gaudiya Math at Bagbazar. Hundreds
+of thousands saw it, including highly educated people; they said that the acharya of the Gaudiya Math, even in an age of
+materialism, had shown an exhibition of faith in God (*astikya-vada*) such as no one could have imagined before. In the
+following weeks it was visited by Dr. Dinesh Chandra Sen Rai Bahadur, Biraj Mohan Majumdar, the German scholar Dr.
+Magnus Hirschfeld, Dr. Stella Kramrisch and others. He held such exhibitions also in Sri Mayapur, Dhaka, Patna, Cuttack,
+Kurukshetra and elsewhere[^16]. <!-- F117 F210 F116 -->
+
+On 29 September 1931 he spoke on the nature of spiritual sound to the principal of the Calcutta Medical College,
+Colonel Dvarakaprasad Goel, and to the American A. J. Jacobs; on 11 October in Prayaga he met the Vice-Chancellor of
+Allahabad University, Dr. Ganganath Jha, and the divisional commissioner, Vinayak Shankar Mehta. On 16 October in
+Benares he stayed and preached in the maharaja’s palace, “Mint Palace”; on 19–20 October he spoke on Vaishnava
+philosophy and Krishna’s lila with Vasanta Kumar Chatterji; on 31 October he came to Lucknow and then to Naimisharanya,
+where on 9 November, at the Paramahamsa Math, he began publishing the Hindi journal “Bhagavata.” <!-- F118 F119 -->
+
+On 14 November he sent preachers to New Delhi to tell the Viceroy, Lord Willingdon, about the math’s preaching. On 17
+November he established the annual festival of the Delhi Gaudiya Math and spoke on bhakti in the hall of the “Gurudwara
+Bangla Sahib”; on 29 November he spoke at a gathering in the garden of Rai Bahadur Lala Jagadish Prasad. On 30 November
+he came to Shukaratala, where Shuka first narrated the “Bhagavatam,” and himself read the “Bhagavatam” there. On 6
+December he installed Radha-Govinda in the Delhi Gaudiya Math, and on 9 December the first anniversary of Jagabandhu
+Bhakti-ranjan’s departure was observed; the chair was Justice Manmatha Nath Mukhopadhyaya, who on the 13th also visited
+Mayapur. <!-- F120 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -476,3 +567,10 @@ the images of the acharyas and Radha-Govinda. <!-- F94 F95 -->
     monthly, and the Assamese “Kirtana” is said to have come out now from Dhubri, now from Goalpara.
 [^14]: The biography says “the first edition”; apparently what is meant is the first edition with his commentary, the
     “Gaudiya-bhashya” — the Gaudiya Math edition — and not the first edition of the “Chaitanya-bhagavata” as such.
+[^15]: In the list of pada-pithas given by the same biography the order is reversed: Mandara on 13 October, Kanai
+    Natshala on 15 October 1929. The plan was to set up a hundred and eight memorials; by that list there were eight by
+    1934, and at Tirupati, Shrirangam and Udupi, according to another biography, he did not live to set them up — this
+    was done later by his disciple Bhakti Vilasa Tirtha.
+[^16]: According to one of the biographies, the first such exhibition at Bagbazar was held in 1931 in the newly opened
+    Gaudiya Math; according to another, there had been dioramas earlier — at Kurukshetra (1928) and in Mayapur (1930) —
+    and the “Sat-shiksha-pradarshini” in Calcutta opened on 6 September 1931.
