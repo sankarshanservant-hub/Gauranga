@@ -74,8 +74,8 @@ own life on the same renunciation. He reread them from childhood and learned the
 read it again and again and each time found something new and rejoiced. Sitting for hours over the “Charitamrita,” he
 seemed to absorb its heroes; the worship of the household Deity and these readings changed his life to its foundations.
 
-He was especially captivated by the words of Haridasa Thakura, spoken to the ruler who demanded that he give up the
-Name:
+Reading of Haridasa Thakura, he was especially captivated by his words, spoken to the ruler who threatened him with
+punishment and demanded that he recite the Quran:
 
 "Even if my body is cut to pieces and my life departs, I will never give up chanting the Holy Name of the Lord."
 (CB, Adi 16.94)
@@ -86,7 +86,7 @@ And by another prayer of the same Haridasa, addressed to Mahaprabhu before his d
 Your name, ‘Krishna Chaitanya.’ This is my desire — to give up my life in this way.”
 (CC, Antya 11.33–34)
 
-He copied these verses onto a sheet of paper and hung it in his room. Unshakable faith in the Holy Name ran through his
+He copied these lines of the “Charitamrita” onto a sheet of paper and hung it in his room. Unshakable faith in the Holy Name ran through his
 whole life: with it he accomplished much that seemed impossible, and to his last day no one could turn him from his goal.
 
 From childhood he also followed the instruction of Prahlada: "The wise should practice bhagavata-dharma here from early
@@ -175,7 +175,7 @@ discussing books. Such inspiration as he received from his gurudeva, he said, he
 
 ## Sadhana
 Inspired by the ideal of Srila Prabhupada Bhaktisiddhanta, Nandadulal Brahmachari remained a *naishthika-brahmachari* —
-a lifelong celibate — all his life. He never departed from the *laksha* enjoined by Mahaprabhu — one hundred thousand
+a lifelong celibate — all his life. He never departed from the *lakh* enjoined by Mahaprabhu — one hundred thousand
 Holy Names a day; chanting the Name from midnight until morning was his ordinary practice, and the darshana of
 mangala-arati an unfailing rule.
 
@@ -283,8 +283,7 @@ he accepted the mission with reverence as Prabhupada's blessing.
 In 1952 his gurudeva sent him to Madras, and thanks to his abilities he soon became secretary of the Math there. While
 Nandadulal Brahmachari was serving in the Madras Math, its silver jubilee was celebrated — from 27 August to 1 September
 1956. On 22 November 1957 Srila Bhakti Vilasa Tirtha wrote to him that the way preaching had been organized in the South
-was a wonderful event, and that this ideal of service would forever be written in letters of gold in the history of the
-Gaudiya mission.
+was a wonderful event, and that this ideal of service would forever be written in letters of gold in Gaudiya history.
 
 His too was the idea of the All India Vaishnava Conference — a gathering of the heads of all the Vaishnava sampradayas for
 the wide preaching of hari-bhakti; the biography calls it "his brainchild." Gurumaharaja gladly approved and blessed the
@@ -302,13 +301,13 @@ institute, again at his invitation.
 
 ## The Golden Jubilee and Prabhupada's Centenary
 Before the golden jubilee of Sri Chaitanya Math, Srila Bhakti Vilasa Tirtha wrote to Nandadulal on 7 December 1968 that,
-for his extraordinary moral strength, enterprise, courage and spiritual strength, Srila Prabhupada Himself was leading
+for his extraordinary moral strength, enterprise, courage and spiritual strength, Srila Prabhupada himself was leading
 him to success. The jubilee lasted from 7 February to the beginning of March 1969,[^10] and on 19 March his guru wrote:
 after enormous and long labors the jubilee had been brilliantly completed, his service had made new history in their
 society, and his zeal had neither equal nor limit.
 
-Soon Nandadulal Brahmachari accepted sannyasa and the name Bhakti Prajnana Yati, and in a letter of 13 July 1970 his guru
-is already writing to "Sri Yati Maharaja": in him there was an astonishing gift for planning and a keen mind able to
+In a letter of 13 July 1970 his guru is already writing to "Sri Yati Maharaja" — by then Nandadulal Brahmachari had
+apparently accepted sannyasa and the name Bhakti Prajnana Yati: in him there was an astonishing gift for planning and a keen mind able to
 carry out plans with the feeling of bhakti; he saw no equal to him, no one in their Math had such perfection; in the
 future an enormous responsibility for the mission would fall on him — and he should know that this was Prabhupada's
 blessing, accept it with reverence and carry it with great care and caution; for the future of the mission the guru
@@ -437,12 +436,13 @@ remembering the eightfold (*ashtakaliya*) pastimes of Sri Sri Radha-Krishna, he 
 *nishanta-lila* — the pastimes of the hour before dawn — and the Gaudiya Vaishnava world was plunged into a deep ocean of
 grief.[^15] The next day, 19 January, he was placed in samadhi on the bank of Sri Radha-kunda, very close to the
 samadhi-mandira of his guru, Srila Bhakti Vilasa Tirtha; there his own samadhi-mandira has been built, with a spacious
-natya-mandira.
+natya-mandira.[^16]
 
 ## Significance
 The life of Srila Bhakti Prajnana Yati Gosvami Maharaja — from the boy who wept over the “Charitamrita” and prayed to the
 picture of Prabhupada's beloved disciple to the acharya of Sri Chaitanya Math — is bound up with his guru from beginning
-to end: he sought him even before they met, carried out his will all his life, and rests beside him at Radha-kunda.
+to end: he sought him even before they met, carried out his will all his life, and his samadhi at Radha-kunda stands beside his guru's
+samadhi-mandira.
 Inwardly he remained a bhajanandi inspired by Haridasa and Raghunatha Dasa, while outwardly, at his guru's word, he became
 an outstanding organizer of the mission — and saw in this not his own achievement but the blessing of Srila Prabhupada.
 
@@ -476,3 +476,6 @@ an outstanding organizer of the mission — and saw in this not his own achievem
 [^14]: Elsewhere the biography gives 9–10 March 1990.
 [^15]: The biography names neither the lunar day (tithi) of his appearance and departure nor the place of his departure;
     these days are not in the calendar of Sri Chaitanya Saraswat Math.
+[^16]: So in the account of him. In its account of Srila Bhakti Vilasa Tirtha the same biography says that Tirtha's body
+    was taken to Sri Mayapur and placed in samadhi where he had first met his gurudeva; it says nothing there of a
+    samadhi-mandira of his at Radha-kunda.
