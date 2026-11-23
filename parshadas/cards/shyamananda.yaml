@@ -145,7 +145,7 @@ teachings_given: []
 teachings_received: []
 works: []
 works_note: "Сочинений B, T, M ему не приписывают; «Шьямананда-шатака» — Расикананды о нём (F84)."
-places: ["#dharenda", "#dandeshvara", "#ambika-kalna", "#navadvipa", "#gaya", "#kashi", "#mathura", "#vrindavana", "#vana-vishnupura", "#kheturi", "#nrisimhapura", "#puri", "#yajigrama", "#ghatashila", "#rohini-rayani", "#balarampura", "#gopivallabhapura", "#suvarnarekha", "#medinipur", "#shyamasundarapura", "#radha-kunda", "#govardhana", "#padmavati", "#katwa", "#shantipura", "#teliya-budhari", "#agra", "#prayaga", "#kashi", "#dvaraka", "#chakulia", "#barakola", "#bara-balarampura", "#radhanagara-utkala", "#govindapura-utkala", "#thuria", "#mallabhumi"]
+places: ["#dharenda", "#dandeshvara", "#ambika-kalna", "#navadvipa", "#gaya", "#kashi", "#mathura", "#vrindavana", "#vana-vishnupura", "#kheturi", "#nrisimhapura", "#puri", "#yajigrama", "#ghatashila", "#rohini-rayani", "#balarampura", "#gopivallabhapura", "#suvarnarekha", "#medinipur", "#shyamasundarpura", "#radha-kunda", "#govardhana", "#padmavati", "#katwa", "#shantipura", "#teliya-budhari", "#agra", "#prayaga", "#kashi", "#dvaraka", "#chakulia", "#barakola", "#bara-balarampura", "#radhanagara-utkala", "#govindapura-utkala", "#thuria", "#mallabhumi"]
 places_facts: [F7, F17, F20, F26, F27, F28, F39, F46, F49, F52, F56, F57, F58, F59, F61, F64, F69, F70, F73, F74, F79, F80, F95, F104, F112, F113, F114, F117, F118, F119, F125, F126, F128, F131, F132, F134, F135]
 character:
   - {trait: "любовь к Гауда-мандале и спутникам Господа: уходя во Вриндаван, плачет и молит Гауду о милости", facts: [F14, F26]}
