@@ -34,6 +34,15 @@
 | `portrait_chitrasena.png` | Chitrasena, king of the gandharvas, a noble mature celestial musician with a vina, golden crown, luminous skin, wise smile |
 | `portrait_nidra.png` | Nidra Devi, goddess of sleep, serene dark-blue skin, deep blue sari with stars, half-closed eyes, a soft veil of night around her |
 
+### Рассказчик (вместо буквы «Ш» в окне «Шри Чайтанья-бхагавата»)
+| Файл | Промпт |
+|---|---|
+| `narr_cb_author.png` | Painted RPG character portrait in the style of Baldur's Gate II portraits, oil painting, bust, three-quarter view, soft warm lamplight, dark neutral background. Srila Vrindavana dasa Thakura, a saintly young Bengali Vaishnava poet about 35, serene absorbed face, shaved head with shikha, Vaishnava tilak, tulasi bead necklace, simple white cotton cloth and shawl, writing with a stylus on long palm-leaf manuscript pages, a small oil lamp beside him. Historically accurate Bengal, 16th century. Dignified, devotional, gentle atmosphere. No text, no watermark. |
+| `narr_cb_book.png` | Painted illustration in the style of Baldur's Gate II portraits, oil painting, dark warm background, soft lamplight. An old Bengali palm-leaf manuscript (puthi) between two carved wooden covers, partly unwrapped from a red cloth, a garland of tulasi leaves and a small clay lamp beside it. Devotional, reverent atmosphere. No readable text, no watermark. |
+
+Для следующих глав — так же для других рассказчиков (`narr_cc_author` — Кришнадас Кавирадж Госвами, `narr_lochana_author`,
+`narr_murari_author`).
+
 ## 2. Листы персонажей (по ним делаются 3D-модели и одежда)
 В том же чате, после портрета:
 > Now make a character turnaround sheet of the same person: full body, front view, side view and back view, neutral

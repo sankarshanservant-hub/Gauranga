@@ -506,10 +506,13 @@ const ui = {
 };
 const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor', 'player', 'friend', 'nidra']);
 const CODEX_ART = new Set(['hs_alpana', 'hs_kitchen', 'hs_diya', 'hs_handi', 'hs_woodpile', 'hs_dung', 'hs_brass', 'hs_pond', 'hs_haystack', 'hs_chala', 'hs_tulasi']);
+// изображение рассказчика: если файл опубликован — используем его, иначе знак ❁
+const NARR_IMG = await new Promise((r) => { const im = new Image(); im.onload = () => r('portraits/narr_cb.jpg'); im.onerror = () => r(''); im.src = 'portraits/narr_cb.jpg'; });
 const portraitImgs = await Promise.all([...PORTRAITS].map((w) => new Promise((r) => { const im = new Image(); im.onload = im.onerror = () => r(im); im.src = `portraits/${w}.jpg`; })));
 function setPortrait(who, speaker, col) {
   const el = $('portrait');
   if (PORTRAITS.has(who)) { el.textContent = ''; el.style.background = `#000 url(portraits/${who}.jpg) center 18% / cover no-repeat`; }
+  else if (speaker === 'Шри Чайтанья-бхагавата' && NARR_IMG) { el.textContent = ''; el.style.background = `#000 url(${NARR_IMG}) center 20% / cover no-repeat`; }
   else if (speaker === 'Шри Чайтанья-бхагавата') { el.textContent = '❁'; el.style.background = 'radial-gradient(circle at 50% 40%, #6b4d1c, #1d140a 75%)'; }
   else { el.textContent = speaker ? speaker[0] : '❧'; el.style.background = `radial-gradient(circle at 50% 35%, ${shade(col, 0)}, ${shade(col, -0.6)} 80%)`; }
 }
