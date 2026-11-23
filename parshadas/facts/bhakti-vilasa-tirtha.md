@@ -27,7 +27,7 @@ F168 — Кунджа-бихари-матх, T 260; F199 — генеральн�
 @gaurakishora-dasa-babaji (F59 — «второй образ моего гуру» в день его ухода); @shridhara-maharaja (F80, F81, F160 — «Шри Рупа-манджари-пада», N; F82 — после ухода
 Бхактисиддханты); @bhakti-dayita-madhava (F34 — Сарбхог 1936; F49 — санньяса 1944; «Кунджа-да», T 286); @bhakti-pramoda-puri (T 294 — пуджари Йогапитхи);
 @madhvacharya (B 1143–1144 — речь в Удупи, Педжавар-свами); @ramanujacharya (B 1137, 1141 — собрание 1961, Барейли); @haridasa-thakura (Пурушоттама-Гаудия-матх, B 1135);
-@bhakti-prajnana-yati (гл. 121 — реестр ведёт другой исполнитель; тег пока не заведён).
+@bhakti-prajnana-yati (гл. 121 — реестр `parshadas/facts/bhakti-prajnana-yati.md`).
 lila-db: `query.py who:@bhakti-vilasa-tirtha` — лил 0, событий 0.
 
 ## Факты
