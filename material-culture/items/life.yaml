@@ -260,3 +260,209 @@
   game: {model: "водяные часы: медная чаша-гхати ⌀ ≈ 15 см с отверстием в кадке с водой; гонг", where: ["puri/temple",
          "navadvipa/lane"], notes: "игровое время: 1 прахара = отрезок суток; UI-часы в данда/прахарах"}
   todo: "Есть ли в житиях прямое упоминание водяных часов (гхати-йантра) при храме Джаганнатхи или в Гауде?"
+
+- id: mc-lunar-calendar
+  title: {ru: "Лунный календарь: титхи, пакша, месяцы", en: "The lunar calendar: tithi, paksha, months"}
+  rubric: rites
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Даты житий — по лунным месяцам и фазам: явление в полнолуние пхалгуны (ЧЧ Ади 13.19–20, 13.89), зачатие в
+      магху (13.80), санньяса — светлая половина магхи (ЧЧ Мадхья 1.16, 3.3, 7.4), Дола-ятра в конце пхалгуны,
+      уход на Юг в начале вайшакхи (Мадхья 7.5–6), «в картику ещё холодно» (Мадхья 16.9), Макара-санкранти в магху
+      (Мадхья 18.145), «в пауше приду» (Антья 2.42); Божества-покровители 12 месяцев (Мадхья 20.199–200); пост в
+      экадаши (ЧЧ Ади 15.9–10). Титхи — 1/30 лунного месяца — Prinsep 1858, II, p. 151.
+    en: >-
+      The hagiographies date events by lunar months and phases: the appearance on the full moon of Phalguna (CC Adi
+      13.19–20, 13.89), conception in Magha (13.80), sannyasa in the bright half of Magha (CC Madhya 1.16, 3.3, 7.4),
+      Dola-yatra at the end of Phalguna, departure south at the start of Vaishakha (Madhya 7.5–6), 'Kartika is still
+      cold' (Madhya 16.9), Makara-sankranti in Magha (Madhya 18.145), 'I shall come in Pausha' (Antya 2.42); the
+      presiding Deities of the 12 months (Madhya 20.199–200); the Ekadashi fast (CC Adi 15.9–10). A tithi is 1/30
+      of a lunar month — Prinsep 1858, II, p. 151.
+  text:
+    ru: >-
+      Время года и праздники считали по луне. Лунный месяц делится на две половины-пакши — светлую (растущая луна,
+      шукла) и тёмную (кришна), — а каждая пакша на пятнадцать лунных дней-титхи; одиннадцатый день каждой половины,
+      экадаши, вайшнавы проводят без зерна, в памятовании о Господе. Двенадцать месяцев носят имена звёзд: вайшакха,
+      джйештха, ашадха, шравана, бхадра, ашвина, картика, аграхаяна, пауша, магха, пхалгуна, чайтра — и у каждого
+      свой Господь-покровитель, от Мадхавы в магху до Кешавы в аграхаяну. Так и говорят в житиях: «явился в
+      полнолуние пхалгуны», «принял санньясу в светлую половину магхи», «приду в пауше».
+    en: >-
+      Seasons and festivals were reckoned by the moon. A lunar month falls into two halves, pakshas — the bright
+      (waxing, shukla) and the dark (krishna) — and each paksha into fifteen lunar days, tithis; the eleventh day of
+      each half, Ekadashi, Vaishnavas keep without grain, remembering the Lord. The twelve months bear the names of
+      stars: Vaishakha, Jyeshtha, Ashadha, Shravana, Bhadra, Ashvina, Kartika, Agrahayana, Pausha, Magha, Phalguna,
+      Chaitra — and each has its presiding Lord, from Madhava in Magha to Keshava in Agrahayana. So the
+      hagiographies say: 'He appeared on the full moon of Phalguna', 'He took sannyasa in the bright half of Magha',
+      'I shall come in Pausha'.
+  hagiography: ["ЧЧ Ади 13.19–20", "ЧЧ Ади 13.80", "ЧЧ Ади 13.89", "ЧЧ Мадхья 1.16", "ЧЧ Мадхья 7.4–6",
+                "ЧЧ Мадхья 16.9", "ЧЧ Мадхья 18.145", "ЧЧ Мадхья 20.199–200", "ЧЧ Антья 2.42", "ЧЧ Ади 15.9–10"]
+  sources: ["J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 151"]
+  images: []
+  game: {model: "UI-календарь: фаза луны + месяц; панджика (альманах) на пальмовых листах у астролога",
+         where: ["mishra-house/thakur-ghar"], notes: "экадаши — в игре день без зерновых блюд"}
+  todo: "Бенгальские названия месяцев (байшакх, джоиштхо…) и с какого месяца начинали год в Бенгалии XVI в."
+
+- id: mc-shaka-era
+  title: {ru: "Эра Шака: как считали годы", en: "The Shaka era: how years were counted"}
+  rubric: rites
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Годы в житиях — только по Шаке: явление 1407 г. Шака (ЧЧ Ади 13.9, 13.89), уход 1455 г. (13.9), окончание ЧЧ —
+      1537 г. Шака (ЧЧ Антья 20.158, дата спорна). Эра Шака начинается в 78 г. н. э. — Prinsep 1858, II, p. 154.
+      Бенгальская «сан» (Бангабда) введена как фискальный год от восшествия Акбара (1556); мнение, что её ввёл
+      Хуссейн-шах, Принсеп отвергает — p. 169. ⚠ Для 1486–1534 гг. — только Шака (и хиджра при дворе).
+    en: >-
+      Years in the hagiographies are given only in Shaka: the appearance in Shaka 1407 (CC Adi 13.9, 13.89), the
+      departure in 1455 (13.9), the completion of CC in Shaka 1537 (CC Antya 20.158, date disputed). The Shaka era
+      begins in AD 78 — Prinsep 1858, II, p. 154. The Bengali san (Bangabda) was introduced as a fiscal year from
+      Akbar's accession (1556); the opinion that Husain Shah introduced it Prinsep rejects — p. 169. ⚠ For 1486–1534
+      — Shaka only (and the Hijra at court).
+  text:
+    ru: >-
+      Индусская Бенгалия считала годы по эре Шака, начавшейся в 78 году н. э., — прибавь к её году 78, и
+      получишь год от Рождества Христова. Господь явился в 1407 году Шака (1486), а скрылся в 1455-м (1534). В
+      гороскопах, дарственных и колофонах рукописей пишут год Шака, месяц и титхи. При мусульманском дворе Гауды
+      счёт вели по хиджре, лунным годам от переселения Пророка; привычный нынче бенгальский год «сан» появился лишь
+      при Акбаре, через двадцать с лишним лет после ухода Махапрабху.
+    en: >-
+      Hindu Bengal counted years by the Shaka era — add 78 and you get the year AD. The Lord appeared in Shaka 1407
+      (1486) and withdrew in 1455 (1534). Horoscopes, deeds of gift and the colophons of manuscripts give the Shaka
+      year, the month and the tithi. At the Muslim court of Gauda the count was by the Hijra, lunar years from the
+      Prophet's emigration; the Bengali 'san' year familiar today appeared only under Akbar, over twenty years after
+      Mahaprabhu's departure.
+  hagiography: ["ЧЧ Ади 13.9", "ЧЧ Ади 13.89", "ЧЧ Антья 20.158"]
+  sources: ["J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 154, 169"]
+  images: []
+  game: {model: "колофон рукописи: «шакабда 1407»; бенгальские цифры", where: ["mishra-house/thakur-ghar"]}
+
+- id: mc-length-distance
+  title: {ru: "Меры длины и пути: локоть, пядь, крош, йоджана", en: "Measures of length and road: cubit, span, krosha, yojana"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Жития: «рост и размах рук в четыре своих локтя» — признак маха-пуруши (ЧЧ Ади 3.42); «семь своих локтей» —
+      Брахма о себе (ЧЧ Ади 5.72); два куска ткани «в одну пядь» (*витасти*) — ЧЧ Антья 6.299; гирлянда в 14 локтей
+      — ЧЧ Антья 13.123; путь «в три кроши» — ЧЧ Мадхья 5.146. Система: 24 ангулы = 2 витасти = 1 хаста; 4 хасты =
+      1 данда; 2000 данд = 1 крош (≈ 2½ мили); 4 кроша = 1 йоджана — Prinsep 1858, II, p. 122 (по санскритским
+      трактатам; на деле кош колебался по областям — HJ 1903, s.v. COSS). Газ (ярд) — мусульманского ввода (Prinsep).
+    en: >-
+      Hagiographies: 'height and arm-span of four of one's own cubits' — a mark of the maha-purusha (CC Adi 3.42);
+      'seven of my own cubits' — Brahma of himself (CC Adi 5.72); two pieces of cloth 'one span' (*vitasti*) each —
+      CC Antya 6.299; a garland of 14 cubits — CC Antya 13.123; a road of 'three kroshas' — CC Madhya 5.146. The
+      system: 24 angulas = 2 vitastis = 1 hasta; 4 hastas = 1 danda; 2000 dandas = 1 krosha (≈ 2½ miles); 4 kroshas = 1
+      yojana — Prinsep 1858, II, p. 122 (after Sanskrit treatises; in practice the kos varied by region — HJ 1903,
+      s.v. COSS). The gaz (yard) was a Muslim introduction (Prinsep).
+  text:
+    ru: >-
+      Мерили телом. Ширина пальца — ангула, пядь от большого пальца до мизинца — витасти, локоть от локтевого сгиба до
+      кончиков пальцев — хаста (≈ 45 см), четыре локтя — «посох»-данда. Ткань, верёвку, гирлянды, глубину воды под
+      лодкой мерят локтями: в Пури Говинда приносит гирлянду Джаганнатхи «в четырнадцать локтей». Дорогу мерят крошами
+      — изначально это расстояние, на которое слышен крик, около трёх-четырёх километров; четыре кроша — йоджана.
+      Признак великой личности — рост, равный размаху рук, «в четыре своих локтя».
+    en: >-
+      People measured with the body. A finger's breadth is an angula, the span from thumb to little finger a vitasti,
+      the forearm from elbow to fingertips a hasta (≈ 45 cm), four cubits a 'staff', danda. Cloth, rope, garlands and
+      the depth of water under a boat are measured in cubits: in Puri Govinda brings a garland of Jagannatha 'fourteen
+      cubits long'. Roads are measured in kroshas — originally the distance at which a shout can be heard, some three
+      or four kilometres; four kroshas make a yojana. The mark of a great person is a height equal to the arm-span,
+      'four of his own cubits'.
+  hagiography: ["ЧЧ Ади 3.42", "ЧЧ Ади 5.72", "ЧЧ Антья 6.299", "ЧЧ Антья 13.123", "ЧЧ Мадхья 5.146"]
+  sources: ["J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 122",
+            "Hobson-Jobson, 1903, s.v. COSS"]
+  images: []
+  game: {model: "мерная бамбуковая палка в 1 хасту с зарубками-ангулами; придорожный камень-верста? (нет данных)",
+         where: ["navadvipa/lane"], notes: "игровые расстояния в крошах: Навадвипа — Шантипур ≈ 6–7 крош (проверить)"}
+  todo: "Есть ли в житиях расстояния Навадвипа — Шантипур / Пури — Катак в крошах или йоджанах?"
+
+- id: mc-weights-scales
+  title: {ru: "Вес: рати, маша, тола, сер, ман", en: "Weight: rati, masha, tola, ser, man"}
+  rubric: town
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Жития: Рагхунатха даёт на служение «сто золотых монет и две толы золота» (ЧЧ Антья 6.153). Рати — семя *Abrus
+      precatorius* (красное с чёрным пятнышком), древняя мера ювелиров; цепочка мер от «пылинки в солнечном луче»
+      до маши — по Ману, HJ 1903, s.v. RUTTEE. Ряд рати → маша → тола → чхатак → сер → ман, «базарный сер = 80 тол»,
+      ман = 40 сер — Prinsep 1858, II, p. 96–97 (стандарт 1833 г.; до того сер различался «для каждого товара и
+      каждого рынка» — там же). Ман пришёл через арабскую торговлю — HJ, s.v. MAUND. Числа для XVI в. —
+      реконструкция.
+    en: >-
+      Hagiographies: Raghunatha gives 'a hundred gold coins and two tolas of gold' for service (CC Antya 6.153). The
+      rati is the seed of *Abrus precatorius* (red with a black spot), an ancient goldsmith's weight; the chain from
+      'the mote in a sunbeam' up to the masha — after Manu, HJ 1903, s.v. RUTTEE. The series rati → masha → tola →
+      chhatak → ser → man, 'the bazar ser = 80 tolas', man = 40 sers — Prinsep 1858, II, p. 96–97 (the 1833
+      standard; before that the ser varied 'for every article sold as well as for every market' — ibid.). The man
+      came through Arab trade — HJ, s.v. MAUND. Figures for the 16th c. are a reconstruction.
+  text:
+    ru: >-
+      Золото и лекарства взвешивают на крошечных весах-коромыслах, а гирьками служат семена: алое с чёрным глазком
+      семечко рати — самый малый вес ювелира, восемь рати — маша, около ста рати — тола (≈ 11–12 г); недаром
+      Рагхунатха шлёт Рагхаве Пандиту «две толы золота». Рис, масло и патоку на базаре отвешивают серами (около
+      килограмма) и манами по сорок серов — на больших весах с подвешенными чашами, с каменными или железными гирями.
+      Но единого сера не было: в каждом городе, а то и для каждого товара он свой, и торговаться начинали с вопроса,
+      «по какому серу».
+    en: >-
+      Gold and medicines are weighed on tiny beam-scales with seeds for weights: the scarlet, black-eyed rati seed is
+      the goldsmith's smallest weight, eight ratis make a masha, about a hundred ratis a tola (≈ 11–12 g) — so
+      Raghunatha sends Raghava Pandita 'two tolas of gold'. Rice, oil and molasses in the bazar are weighed by the ser
+      (about a kilogram) and the man of forty sers — on big scales with hanging pans and stone or iron weights. But
+      there was no single ser: each town, sometimes each commodity, had its own, and bargaining began with the
+      question 'by which ser?'.
+  hagiography: ["ЧЧ Антья 6.153"]
+  sources: ["Hobson-Jobson, 1903, s.v. RUTTEE, SEER, MAUND",
+            "J. Prinsep, Essays on Indian Antiquities… Useful Tables, 1858, vol. II, p. 96–97"]
+  images: []
+  game: {model: "ювелирные весы-коромысло (бронза, чашки ⌀ 4 см) и горсть семян рати; базарные весы с чашами из
+         бамбуковых корзин", where: ["navadvipa/market"], notes: "алое семя Abrus — заметная игровая мелочь"}
+  todo: "Сколько тол в сере в Бенгалии XVI в. (Айн-и Акбари, 1590-е — PD-пер. Jarrett/Blochmann)?"
+
+- id: mc-languages
+  title: {ru: "Языки эпохи: бенгальский, санскрит, ория, персидский", en: "Languages of the age: Bengali, Sanskrit, Oriya, Persian"}
+  rubric: town
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      «Многие не понимали языка друг друга» — толпа в ночь явления (ЧЧ Ади 13.107). Господь шутливо передразнивает
+      восточнобенгальский говор (*бангаджа*) — Лочан, Сутра-кханда, ч. 1, ст. 81; Ади-кханда, ч. 9, ст. 710 и
+      сноска (предки — из Шрихатты); песня на ория — ЧЧ Антья 10.67; Кази спорит, опираясь на Коран (ЧЧ Ади
+      17.155–156), так же патан-учёный (ЧЧ Мадхья 18.187–202); персидские титулы братьев — *Дабир Кхас*, *Сакар
+      Маллик* (ЧЧ Мадхья 1.175; ЧБ Антья 9.239–273); тюремщик-мусульманин назван *джинда-пир* (ЧЧ Мадхья 20.5).
+      Санскрит — язык тол, писаний и учёных споров (mc-tol-school). Хинди/брадж путников — по косвенным данным
+      (раджпут Кришнадас, санодия-брахман — ЧЧ Мадхья 18).
+    en: >-
+      'Many did not understand one another's language' — the crowd on the night of the appearance (CC Adi 13.107).
+      The Lord jokingly mimics the East Bengali accent (*bangaja*) — Lochana, Sutra-khanda pt. 1 v. 81; Adi-khanda pt. 9
+      v. 710 and note (His forefathers came from Shrihatta); a song in Oriya — CC Antya 10.67; the Kazi argues from
+      the Quran (CC Adi 17.155–156), as does a Pathan scholar (CC Madhya 18.187–202); the brothers' Persian titles —
+      *Dabir Khas*, *Sakar Mallik* (CC Madhya 1.175; CB Antya 9.239–273); the Muslim jailer is called *jinda-pir*
+      (CC Madhya 20.5). Sanskrit is the language of the tols, scriptures and learned debate (mc-tol-school). Hindi /
+      Braj of travellers — by indirect evidence (the Rajput Krishnadasa, the Sanodiya brahmin — CC Madhya 18).
+  text:
+    ru: >-
+      Дома и на базаре в Навадвипе говорят по-бенгальски, но бенгальский неоднороден: выходцы с востока, из Шрихатты и
+      с берегов Падмы, говорят так, что Нимай любит смешно передразнивать их «бангальский» выговор — ведь Его
+      собственные предки были оттуда. В толах, на диспутах и в храмах звучит санскрит; на нём же сложены шлоки,
+      которые повторяет вся Навадвипа. В Ориссе говорят и поют на ория — Махапрабху вспоминает строчку орийской
+      песни. Двор султана в Гауде говорит и пишет по-персидски, мулла читает Коран по-арабски, и брахманы на
+      государевой службе носят персидские звания — Дабир Кхас, Сакар Маллик. Когда в ночь явления к Ганге сошлись
+      толпы со всех концов, многие не понимали языка друг друга — но все пели одно имя Хари.
+    en: >-
+      At home and in the bazar Navadvipa speaks Bengali, but Bengali is not uniform: people from the east, from
+      Shrihatta and the banks of the Padma, speak so that Nimai loves to mimic their 'Bangal' accent comically — His
+      own forefathers came from there. In the tols, debates and temples Sanskrit is heard; in it are the verses the
+      whole of Navadvipa repeats. In Orissa people speak and sing in Oriya — Mahaprabhu recalls a line of an Oriya
+      song. The Sultan's court at Gauda speaks and writes Persian, the mulla reads the Quran in Arabic, and brahmins
+      in state service bear Persian titles — Dabir Khas, Sakar Mallik. When crowds from everywhere gathered at the
+      Ganga on the night of the appearance, many did not understand one another's language — but all sang the one
+      name of Hari.
+  hagiography: ["ЧЧ Ади 13.107", "Лочан, Сутра-кханда, ч. 1, ст. 81", "Лочан, Ади-кханда, ч. 9, ст. 710",
+                "ЧЧ Антья 10.67", "ЧЧ Ади 17.155–156", "ЧЧ Мадхья 18.187–202", "ЧЧ Мадхья 1.175",
+                "ЧБ Антья 9.239–273", "ЧЧ Мадхья 20.5"]
+  sources: []
+  images: []
+  game: {model: "озвучка: бенгальский (запад/восток), санскритные шлоки, ория, персидский при дворе",
+         where: ["navadvipa/lane", "ganga-ghat"], notes: "диалектный юмор Нимая — реплики NPC"}
+  todo: "Письменности (бенгальская, ория, деванагари, арабская вязь) — отдельная карточка или в mc-manuscript-ink?"

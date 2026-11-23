@@ -9,7 +9,7 @@
   Prinsep 1858, II, p. 151. Водяные часы: «a floating cup with a small hole in it, adjusted so that it fills and sinks
   in a fixed time; also the gong by which the time so indicated is struck» — HJ, s.v. GHURRY.
 - **Эры**: Шака начинается 1 байшакха 78 г. н. э. — Prinsep 1858, II, p. 154. Бенгальская «сан» (Бангабда) отсчитана
-  от хиджры при Акбаре (1556) — там же, ≈ p. 170 ⚠ для 1486–1534 гг. анахронизм: в житиях только Шака.
+  от восшествия Акбара (1556; мнение, что её ввёл Хуссейн-шах, Принсеп отвергает) — там же, p. 169 ⚠ для 1486–1534 гг. анахронизм: в житиях только Шака.
 - **Длина**: «the hath (in Sanskrit hasta) was equal to two vitasti or 'spans', and to 24 angulas… four haths or
   'cubits' are equal to a danda, or 'staff', and 2000 dandas make a krosa, or kos… nearly 2½ miles… Four krosa = one
   yojana, nearly ten miles» — Prinsep 1858, II, p. 122. Кош, санскр. *крош́а* — «расстояние, на котором слышен
