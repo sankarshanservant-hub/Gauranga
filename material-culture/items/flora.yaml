@@ -260,3 +260,218 @@
   images: []
   game: {model: "дерево 10–20 м, узкая крона, золотисто-оранжевые цветы 5–7 см с узкими лепестками",
          where: ["navadvipa/garden"]}
+
+- id: mc-ashvattha-pipal
+  title: {ru: "Ашваттха (пипал)", en: "The ashvattha (pipal)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Склоняться перед деревьями дхатри и ашваттхой — среди правил бхакти (ЧЧ Мадхья 22.113). Бытовые детали (камень
+      под деревом, обвязка нитью) — общеиндийская практика, по житиям эпохи не проверены.
+    en: >-
+      Bowing to the dhatri and ashvattha trees is among the rules of bhakti (CC Madhya 22.113). Household details
+      (stone platform under the tree, tying threads) are pan-Indian practice, not checked in the hagiographies.
+  text:
+    ru: >-
+      Ашваттха, или пипал (Ficus religiosa), — огромное священное дерево с листьями в форме сердца и длинным
+      оттянутым кончиком; они трепещут и шелестят даже в безветрие. В Гите Кришна говорит: «Из деревьев Я —
+      ашваттха». Поэтому, по словам Махапрабху, преданный кланяется ашваттхе, проходя мимо. Пипал часто растёт рядом с
+      баньяном у деревенской площадки; под ним сидят, отдыхают и ведут беседы.
+    en: >-
+      The ashvattha or pipal (Ficus religiosa) is a huge sacred tree with heart-shaped leaves ending in a long drawn-out
+      tip; they flutter and rustle even when there is no wind. In the Gita Krishna says, "Of trees I am the ashvattha".
+      So, Mahaprabhu teaches, a devotee bows to the ashvattha as he passes. The pipal often grows beside a banyan at the
+      village meeting-place; people sit, rest and talk beneath it.
+  hagiography: ["ЧЧ Мадхья 22.113", "ЧЧ Мадхья 24.294"]
+  sources: []
+  images: []
+  game: {model: "большое дерево 20 м, светлый ствол, листья-сердечки с «хвостиком», круглая кирпичная или глиняная площадка у ствола",
+         where: ["navadvipa/lane", "ganga-ghat"]}
+
+- id: mc-shimul-cotton-tree
+  title: {ru: "Шимул — хлопковое дерево", en: "The shimul, silk-cotton tree"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Волоски Господа встали дыбом, «как колючки шимула» — ЧЧ Мадхья 13.102, Антья 10.72; Джагадананда набил подушку и
+      тюфяк для Господа волокном шимула в крашеной ткани — ЧЧ Антья 13.7.
+    en: >-
+      The Lord's hairs stood on end "like the thorns of the shimul" — CC Madhya 13.102, Antya 10.72; Jagadananda stuffed
+      a pillow and mattress for the Lord with shimul fibre in dyed cloth — CC Antya 13.7.
+  text:
+    ru: >-
+      Шимул (Bombax ceiba, санскр. шалмали) — высокое дерево с ветвями, растущими ярусами, и стволом, усеянным
+      толстыми шипами. В конце зимы, ещё без листьев, оно вспыхивает огромными мясисто-алыми цветами, а потом коробочки
+      лопаются, и в воздухе летает белый шелковистый пух. Этим пухом набивали подушки: Джагадананда Пандит, жалея
+      исхудавшего Господа, спавшего на подстилке из сухой
+      коры банана, сшил Ему из крашеной ткани подушку и тюфяк, набив их
+      волокном шимула, — но Махапрабху отказался от такого удобства.
+    en: >-
+      The shimul (Bombax ceiba, Sanskrit shalmali) is a tall tree with branches in tiers and a trunk studded with
+      thick thorns. At the end of winter, still leafless, it blazes with huge fleshy scarlet flowers; then the pods burst
+      and white silky floss drifts through the air. This floss stuffed pillows: Jagadananda Pandita, pained to see the
+      thin Lord sleeping on a mat of dry banana bark, sewed Him a pillow and mattress of dyed cloth stuffed with shimul fibre —
+      but Mahaprabhu refused such comfort.
+  hagiography: ["ЧЧ Антья 13.4–13", "ЧЧ Мадхья 13.102", "ЧЧ Антья 10.72"]
+  sources: []
+  images: []
+  game: {model: "дерево 20–25 м, шипастый ствол, ярусные ветви; весной без листьев, крупные красные цветы, пух на земле",
+         where: ["navadvipa/lane"]}
+
+- id: mc-jamun-jambu
+  title: {ru: "Джамбу (джамун)", en: "The jambu (jamun)"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Сладости из джамбу среди подношений Господу в Навадвипе — ЧБ Мадхья 9.82; плоды джамбу — ЧЧ Антья 18.104;
+      знак плода джамбу на стопе — Лочан, Ади 1.68. Свойства — Dutt 1877, с. 165.
+    en: >-
+      Sweets made with jambu among offerings to the Lord in Navadvipa — CB Madhya 9.82; jambu fruits — CC Antya 18.104;
+      the mark of the jambu fruit on the sole — Lochana, Adi 1.68. Properties — Dutt 1877, p. 165.
+  text:
+    ru: >-
+      Джамбу (Syzygium cumini, бенг. джам) — тенистое дерево с плодами, похожими на крупные тёмно-лиловые маслины.
+      Они вяжут во рту и окрашивают язык и губы в фиолетовый цвет; созревают в начале сезона дождей. По имени этого
+      дерева названа вся наша земля — Джамбудвипа. Среди знаков на стопе Господа Лочан Дас называет плод джамбу, а в
+      дни великого откровения в доме Шриваса жители Навадвипы подносили Махапрабху сладости, приготовленные с джамбу.
+    en: >-
+      The jambu (Syzygium cumini, Bengali jam) is a shady tree with fruits like big dark-purple olives. They are
+      astringent and stain tongue and lips violet, and ripen at the start of the rains. The whole of our land,
+      Jambudvipa, is named after this tree. Among the marks on the Lord's sole Lochana Dasa names the jambu fruit, and in
+      the days of the great revelation the people of Navadvipa offered Mahaprabhu sweets made with jambu.
+  hagiography: ["ЧБ Мадхья 9.82", "ЧЧ Антья 18.104", "ЧЧ Антья 15.32, 15.35", "Лочан, Ади-кханда, ч. 1, ст. 68"]
+  sources: ["Dutt 1877, с. 165 (Eugenia jambolana)"]
+  images: []
+  game: {model: "дерево 12–15 м, глянцевые листья, гроздья тёмно-фиолетовых плодов 2–3 см", where: ["navadvipa/lane"]}
+  todo: "ЧБ Мадхья 9.82 — сверить по оригиналу, что именно «джамбу» (плод или сорт сладости)"
+
+- id: mc-tamarind
+  title: {ru: "Тамаринд", en: "The tamarind"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Имли-тала (Тентул-тала) во Вриндаване — древний тамаринд, под которым Господь воспевал имя, — ЧЧ Мадхья
+      18.75–83; Гададхара готовит для Господа зелень из молодых листочков тамаринда с солью — ЧБ Антья 7.139–155.
+      Свойства — Dutt 1877, с. 157.
+    en: >-
+      Imli-tala (Tentul-tala) in Vrindavana — an ancient tamarind under which the Lord chanted the Name — CC Madhya
+      18.75–83; Gadadhara cooks young tamarind leaves with salt for the Lord — CB Antya 7.139–155. Properties — Dutt
+      1877, p. 157.
+  text:
+    ru: >-
+      Тамаринд (бенг. тентул, хинди имли) — могучее долгоживущее дерево с мелкими перистыми листьями. В его бурых
+      стручках — кисло-сладкая мякоть, которой придают кислинку блюдам и приправам. Однажды в Пури Гададхара нарвал
+      нежных молодых листочков тамаринда, растёр их с солёной водой и сварил — и Махапрабху, отведав, похвалил его
+      стряпню. А во Вриндаване Господь каждое утро сидел под древним тамариндом, помнящим игры Кришны, и воспевал
+      святое имя; это место и сейчас зовётся Имли-тала.
+    en: >-
+      The tamarind (Bengali tentul, Hindi imli) is a mighty, long-lived tree with small feathery leaves. Its brown pods
+      hold a sweet-sour pulp that gives tang to dishes and relishes. Once in Puri Gadadhara picked tender young tamarind
+      leaves, ground them with salt water and cooked them — and Mahaprabhu, tasting the dish, praised his cooking. In
+      Vrindavana the Lord sat every morning beneath an ancient tamarind that remembered Krishna's pastimes and chanted the
+      holy name; the place is still called Imli-tala.
+  hagiography: ["ЧЧ Мадхья 18.75–83", "ЧБ Антья 7.139", "ЧБ Антья 7.155"]
+  sources: ["Dutt 1877, с. 157 (Tamarindus indica)"]
+  images: []
+  game: {model: "дерево 15–20 м, кружевная мелкая листва, бурые изогнутые стручки 10–15 см", where: ["vrindavan/imli-tala", "puri"]}
+
+- id: mc-amalaki
+  title: {ru: "Амалаки (дхатри)", en: "Amalaki (dhatri), the emblic"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Волосы Господа, умащённые маслом амалаки, — ЧБ Мадхья 7.64; плач жителей Навадвипы перед санньясой: «больше не
+      помыть Его волосы с амалаки» — ЧБ Мадхья 26.184; паста амалаки в играх Радхи и Кришны — ЧЧ Антья 18.100; почитание
+      дерева дхатри — ЧЧ Мадхья 22.113. Медицина — Dutt 1877, с. 225–226.
+    en: >-
+      The Lord's hair anointed with amalaki oil — CB Madhya 7.64; the people of Navadvipa lament before the sannyasa:
+      "never again to wash His hair with amalaki" — CB Madhya 26.184; amalaki paste in Radha-Krishna's pastimes — CC
+      Antya 18.100; honour to the dhatri tree — CC Madhya 22.113. Medicine — Dutt 1877, pp. 225–226.
+  text:
+    ru: >-
+      Амалаки (Phyllanthus emblica, бенг. амлаки, санскр. дхатри) — деревце с ажурной листвой и полупрозрачными
+      светло-зелёными кислыми плодами размером с грецкий орех. Растёртую амалаки использовали для мытья волос, как
+      шампунь: прекрасные кудри Нимая мыли с амалаки и умащали душистым маслом, и, когда Он решил принять санньясу,
+      люди плакали, что больше никогда не вымоют Ему волосы с амалаки. В аюрведе это один из «трёх миробаланов»
+      (трипхала), а дерево дхатри почитают как священное.
+    en: >-
+      Amalaki (Phyllanthus emblica, Bengali amlaki, Sanskrit dhatri) is a small tree with lacy foliage and translucent
+      pale-green sour fruits the size of a walnut. Ground amalaki was used to wash hair, like shampoo: Nimai's beautiful
+      curls were washed with amalaki and anointed with fragrant oil, and when He resolved to take sannyasa people wept
+      that they would never again wash His hair with amalaki. In Ayurveda it is one of the "three myrobalans" (triphala),
+      and the dhatri tree is honoured as sacred.
+  hagiography: ["ЧБ Мадхья 7.64", "ЧБ Мадхья 26.184", "ЧЧ Антья 18.100", "ЧЧ Мадхья 22.113"]
+  sources: ["Dutt 1877, с. 225–226 (Phyllanthus emblica)"]
+  images: []
+  game: {model: "деревце 5–8 м, мелкие перистые листья, гроздья светло-зелёных полупрозрачных плодов 2–3 см",
+         where: ["mishra-house/backyard", "ganga-ghat"], notes: "растёртая амалаки в чашечке — для омовения у Ганги"}
+
+- id: mc-lotus
+  title: {ru: "Лотос", en: "The lotus"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Лотосы как пища: «лотосы в сахаре» Шриваса — ЧЧ Антья 10.119, стебли лотоса — Антья 18.105. Образ «лотосных»
+      глаз, стоп, рук — повсюду. Свойства — Dutt 1877, с. 109–110 (Nelumbium speciosum: все части растения в ходу).
+    en: >-
+      Lotus as food: Shrivasa's "lotuses in sugar" — CC Antya 10.119, lotus stems — Antya 18.105. The image of
+      "lotus" eyes, feet and hands is everywhere. Properties — Dutt 1877, pp. 109–110 (Nelumbium speciosum: every part
+      of the plant is used).
+  text:
+    ru: >-
+      Лотос (санскр. падма, камала; бенг. падма) растёт в прудах и старицах Бенгалии; большие розовые и белые
+      цветы раскрываются утром и закрываются к вечеру, а мелкая голубая и белая кувалая-кумуда — водяная лилия —
+      раскрывается ночью. Лотос — главное сравнение житий: у Господа лотосные глаза, стопы и руки, потому что лотос
+      растёт из грязи и остаётся чистым. Но его и ели: молодые семена, клубни и стебли, а Шривас привёз Господу в Пури
+      лотосы, сваренные в сахаре. Широкие листья лотоса служили и тарелкой.
+    en: >-
+      The lotus (Sanskrit padma, kamala; Bengali padma) grows in the ponds and old river-beds of Bengal; the big pink
+      and white flowers open in the morning and close by evening, while the small blue and white kuvalaya-kumuda, the
+      water-lily, opens at night. The lotus is the chief comparison of the hagiographies: the Lord's eyes, feet and
+      hands are lotus-like, for the lotus grows from mud and stays pure. But it was also eaten — young seeds, rhizomes
+      and stems — and Shrivasa brought the Lord in Puri lotuses cooked in sugar. Broad lotus leaves also served as
+      plates.
+  hagiography: ["ЧЧ Антья 10.119", "ЧЧ Антья 18.105", "ЧЧ Антья 18.95"]
+  sources: ["Dutt 1877, с. 109–110 (Nelumbium speciosum)"]
+  images: []
+  game: {model: "листья 40–60 см над водой, розовые цветы 15–25 см, коробочки семян", where: ["mishra-house/pond"]}
+  todo: "проверить, что за «лотосы в сахаре» (пaдма-чини?) по бенгальскому оригиналу ЧЧ Антья 10.119"
+
+- id: mc-jasmines
+  title: {ru: "Жасмины: маллика, малати, ютхи, кунда", en: "Jasmines: mallika, malati, yuthi, kunda"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Гирлянды из малати, маллики, ютхи и чампаки на Господе — ЧБ Антья 5.345; цветы у стоп (чампака, маллика, кунда,
+      малати) — ЧБ Мадхья 9.74; Господь в Пури вопрошает туласи, малати, ютхи, мадхави, маллику, не проходил ли Кришна,
+      — ЧЧ Антья 15.40; «пахнут цветы малати» в ночи чайтры — ЧЧ Антья 1.78 (цитата). Ботаника — Dutt 1877, с. 191.
+    en: >-
+      Garlands of malati, mallika, yuthi and champaka on the Lord — CB Antya 5.345; flowers at His feet (champaka,
+      mallika, kunda, malati) — CB Madhya 9.74; in Puri the Lord asks the tulasi, malati, yuthi, madhavi and mallika
+      whether Krishna has passed — CC Antya 15.40; "the malati flowers smell the same" on Chaitra nights — CC Antya 1.78
+      (quotation). Botany — Dutt 1877, p. 191.
+  text:
+    ru: >-
+      Белые жасмины — главные цветы для гирлянд. Маллика (Jasminum sambac, бенг. бели) с тугими махровыми цветками
+      цветёт в жару; малати (J. grandiflorum, «джати») — с тонкими звёздочками и розоватыми бутонами; ютхи
+      (J. auriculatum) — мелкий, нежный; кунда (J. multiflorum) — белый, как зубы и луна у поэтов, цветёт зимой. Их
+      собирают вечером, когда раскрываются бутоны, и нанизывают на нить. В Пури, в безумии разлуки, Махапрабху ходил
+      по саду и спрашивал у туласи и жасминов: «Не проходил ли здесь Кришна?»
+    en: >-
+      White jasmines are the chief garland flowers. Mallika (Jasminum sambac, Bengali beli) with tight double flowers
+      blooms in the heat; malati (J. grandiflorum, "jati") has slender stars and pinkish buds; yuthi (J. auriculatum) is
+      small and delicate; kunda (J. multiflorum), white as teeth and the moon in poetry, blooms in winter. They are
+      gathered in the evening when the buds open and strung on a thread. In Puri, mad with separation, Mahaprabhu
+      wandered in the garden asking the tulasi and the jasmines, "Has Krishna passed this way?"
+  hagiography: ["ЧБ Антья 5.345", "ЧБ Мадхья 9.74", "ЧБ Мадхья 23.304", "ЧЧ Антья 15.34, 15.40", "ЧЧ Антья 1.78", "ЧЧ Антья 1.160"]
+  sources: ["Dutt 1877, с. 191 (Jasminum grandiflorum и др.)"]
+  images: []
+  game: {model: "кусты и лианы 1–3 м с белыми цветами; корзинка с цветами и нить для гирлянды",
+         where: ["mishra-house/courtyard", "puri/garden"], notes: "отождествления видов по традиционной ботанике — проверить у специалиста"}
