@@ -13433,15 +13433,6 @@
   ]
  },
  {
-  "id": "#yashoda-gram",
-  "ru": "→ #jashra",
-  "en": "→ #jashra",
-  "note": "устаревший дубль #jashra (Яшода близ Чакдахи); оставлен, пока тег не заменён в карточке @nityananda; затем удалить",
-  "section": "",
-  "lilas": [],
-  "events": []
- },
- {
   "id": "#jirat",
   "ru": "Джират",
   "en": "Jirat",
@@ -13453,15 +13444,6 @@
   "events": [
    "ev-jagadisha-disappearance"
   ]
- },
- {
-  "id": "#shyamasundarapura",
-  "ru": "→ #shyamasundarpura",
-  "en": "→ #shyamasundarpura",
-  "note": "устаревший дубль #shyamasundarpura; оставлен, пока тег не заменён в карточке и фактах @shyamananda; затем удалить",
-  "section": "",
-  "lilas": [],
-  "events": []
  },
  {
   "id": "#mayana",
