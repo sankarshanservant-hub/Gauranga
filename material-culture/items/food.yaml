@@ -1639,3 +1639,192 @@
   images: []
   game: {model: "дорожный узел: мешочки с чидой и кхаи, горшочек с соленьем, медный сосуд для воды; очаг из трёх камней",
          where: ["road/gauda-puri"]}
+
+- id: mc-spices
+  title: {ru: "Пряности эпохи: перец, чаи, имбирь, камфора", en: "Spices of the period: pepper, chai, ginger, camphor"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *ча-и-марича* (чаи — Piper chaba, родич длинного перца, + чёрный перец) — ЧЧ Мадхья 3.46; *маричера джха̄ла* (острое на
+      перце) — Мадхья 15.210, Антья 10.135; *а̄да̄* (свежий имбирь), *ш́ун̣т̣хӣ* (сушёный) — Мадхья 14.33, 15.55, Антья 10.23,
+      10.135; *дханийа̄-маухарӣ* (кориандр и фенхель) — Антья 10.22; *карпӯра, марича, лаван̇га, эла̄чи* — Антья 10.29–30,
+      6.58; *хинг* — Джаянанда (фр. 10, дв. 21); *мукхава̄са* после еды — Антья 12.140. Будничные пряности бенгальцев —
+      Bose 1881, с. 14 («куркума, перец, тмин, кориандр, горчица»; без лука и чеснока). Чили не было — см. mc-new-world-plants-absent.
+    en: >-
+      chai-maricha — CC Madhya 3.46; pepper-hot dishes — Madhya 15.210, Antya 10.135; fresh and dried ginger — Madhya
+      14.33, 15.55, Antya 10.23, 10.135; coriander and fennel — Antya 10.22; camphor, pepper, clove, cardamom — Antya
+      10.29–30, 6.58; hing — Jayananda; mukhavasa — Antya 12.140. Everyday Bengali spices — Bose 1881 p. 14. No chilli —
+      see mc-new-world-plants-absent.
+  text:
+    ru: >-
+      Острота кухни эпохи — от чёрного перца (марича) и «чаи», лесного длинного перца, а ещё от свежего и сушёного имбиря и
+      горчицы. Аромат дают куркума, тмин, кориандр, фенхель, пажитник, хинг; для сладкого и для лучших подношений —
+      камфора, гвоздика, кардамон. Вайшнавская кухня не знает лука и чеснока. Пряности растирают с водой на камне
+      шил-нора в пасту; после еды гостю подносят «мукхавасу» — кардамон, гвоздику, кусочки ореха, чтобы освежить рот.
+      Красного чили, без которого сейчас немыслима Бенгалия, ещё не было: его привезли из Америки позже.
+    en: >-
+      The heat of the period's cooking came from black pepper (maricha) and "chai", a wild long pepper, and from fresh
+      and dried ginger and mustard. Fragrance came from turmeric, cumin, coriander, fennel, fenugreek and hing; for sweets
+      and the finest offerings — camphor, clove and cardamom. Vaishnava cooking knows no onion or garlic. Spices are
+      ground with water on the shil-nora stone into a paste; after the meal the guest is offered "mukhavasa" — cardamom,
+      cloves, bits of nut — to freshen the mouth. Red chilli, now inseparable from Bengal, did not yet exist there: it came
+      from America later.
+  hagiography: ["ЧЧ Мадхья 3.46", "ЧЧ Мадхья 14.33", "ЧЧ Мадхья 15.55", "ЧЧ Мадхья 15.210", "ЧЧ Антья 6.58",
+                "ЧЧ Антья 10.22–30", "ЧЧ Антья 10.135", "ЧЧ Антья 12.140", "Джаянанда, фр. 10, дв. 21"]
+  sources: ["Bose 1881, с. 14 (без лука и чеснока; куркума, перец, тмин, кориандр, горчица)",
+            "Пак-пранали, с. 59–61 (пять пряностей-панчпхорон, паста тмина и перца)"]
+  images: []
+  game: {model: "мешочки и плошки: чёрный перец, сухие стручки чаи, имбирь, куркума, тмин, кориандр; камфора — белые кристаллы",
+         where: ["mishra-house/kitchen", "navadvipa/market"], notes: "никаких красных стручков чили"}
+
+- id: mc-ghee-oil-salt
+  title: {ru: "Гхи, масло и соль на кухне", en: "Ghee, oil and salt in the kitchen"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Рис, «политый жёлтым ароматным гхи», — ЧЧ Мадхья 3.44, 15.208, Антья 12.125; Аннакута: всё «плавает в гхи» — Мадхья
+      4.71; жаренное в гхи (*ни-сакд̣и*) — Антья 6.72; *таила-лаван̣а-гхр̣та-каласа* — кувшины масла, соли и гхи у Адвайты —
+      ЧБ Антья 4.468; соль с рисом у Рагхунатхи — Антья 6.318; *лаван̣а* — Антья 10.135, 10.149; тайламра в горчичном
+      масле — «Анубхашья» к Антья 10.16. Растение — см. mc-mustard-sesame (flora). В Бенгалии гхи в дал кладут редко «от
+      бедности» — Пак-пранали, с. 112; масло и соль из лавки — Day 1874, с. 34.
+    en: >-
+      Rice "drenched in yellow fragrant ghee" — CC Madhya 3.44, 15.208, Antya 12.125; at the Annakuta everything "floats
+      in ghee" — Madhya 4.71; ghee-fried food — Antya 6.72; jars of oil, salt and ghee at Advaita's — CB Antya 4.468; rice
+      with salt — Antya 6.318; salt — Antya 10.135, 10.149. The plant — see mc-mustard-sesame. Ghee in dal is rare in
+      Bengal "from poverty" — Pak-pranali p. 112; oil and salt from the shop — Day 1874 p. 34.
+  text:
+    ru: >-
+      Будничная бенгальская кухня жарит на горчичном масле — острым, золотистым — и на кунжутном; гхи, топлёное масло из
+      коровьего молока, дорого и потому праздничное: им поливают рис для Господа и гостей, на нём жарят сладости и
+      лучшие бады. Соль — морская, из прибрежных выпарен Ориссы и Бенгалии, или каменная «сайндхава», чистая для постов и
+      подношений; на краю листа кладут щепоть соли. Масло, соль и гхи хранят в глиняных кувшинах в кладовой — у Адвайты
+      в Шантипуре их были целые ряды.
+    en: >-
+      Everyday Bengali cooking fries in mustard oil — pungent and golden — and in sesame oil; ghee, clarified butter of
+      cow's milk, is costly and therefore festive: it is poured over rice for the Lord and guests, and sweets and the best
+      badas are fried in it. Salt is sea salt from the coastal pans of Orissa and Bengal, or rock salt "saindhava", pure
+      for fasts and offerings; a pinch of salt is placed at the edge of the leaf. Oil, salt and ghee are kept in clay jars
+      in the storeroom — at Advaita's in Shantipur there were whole rows of them.
+  hagiography: ["ЧЧ Мадхья 3.44", "ЧЧ Мадхья 4.71", "ЧЧ Мадхья 15.208", "ЧЧ Антья 6.72", "ЧЧ Антья 6.318",
+                "ЧЧ Антья 10.135", "ЧЧ Антья 12.125", "ЧБ Антья 4.468"]
+  sources: ["Пак-пранали, с. 112 (гхи в дале в Бенгалии редок)", "Пак-пранали, с. 415 («сайндхава-лавана» в дахи-баде)",
+            "Day 1874, с. 34 (горчичное масло и соль из лавки)"]
+  images: []
+  game: {model: "глиняные кувшины с маслом, гхи и солью в кладовой; плошка соли у листа", where: ["mishra-house/storeroom", "mishra-house/kitchen"]}
+  todo: "PD о солеварнях Ориссы и Хиджли (Hunter, Orissa 1872) — соль эпохи; сайндхава для Бенгалии — привозная?"
+
+- id: mc-food-calendar
+  title: {ru: "Что ели по месяцам: календарь бенгальского стола", en: "What was eaten month by month: the Bengali table's calendar"}
+  rubric: kitchen
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Старинные поговорки «Дак-вачаны» (Sen 1911, с. 24): пауш — канджи, магх — горчичное масло, пхалгун — имбирь, чайтра —
+      горькое (ним), джьяйштха — пахта, ашадха — простокваша, шравана — кхаи, бхадра — плоды тала, ашвин — огурец,
+      аграхаян — бель. Жития: манго в джьяйштху (ЧЧ Ади 17.80–88 — «праздник манго» после киртана), новый рис в хеманту
+      (барамасья Джаянанды, строфа 10), питха и пайас в пхалгуну (там же, строфа 1), хавишья в магх (строфа 12), чатурмасья —
+      4 дождливых месяца угощений в Пури (ЧЧ Антья 10.106, 10.152), молодые листья нима весной (Мадхья 3.47 *нава-нимба*),
+      бобы-шим в пхалгун (Амиш 1902, с. 283), ман-качу зимой (Пак-пранали, с. 116), запрет лау в бхадру (Пак-пранали, с. 34).
+      Сводка — реконструкция; сезоны и календарь — см. mc-six-seasons, mc-rice-year.
+    en: >-
+      Dak-vachana sayings (Sen 1911 p. 24): Pausha — kanji, Magha — mustard oil, Phalguna — ginger, Chaitra — bitter
+      (neem), Jyaishtha — buttermilk, Ashadha — curd, Shravana — khai, Bhadra — tal fruit, Ashvina — cucumber,
+      Agrahayana — bel. Biographies: mangoes in Jyaishtha (CC Adi 17.80–88), new rice in Hemanta, pitha and payasa in
+      Phalguna, havishya in Magha (Jayananda's baramasya), the four rainy months of feasting in Puri (CC Antya 10.106,
+      10.152), tender neem in spring. A reconstruction; see mc-six-seasons, mc-rice-year.
+  text:
+    ru: >-
+      Бенгальский год ест по сезонам. Весной (пхалгун — чайтра) — горькое: молодые листья нима, шукта, имбирь, чтобы
+      очистить кровь после зимы. Летом (байшакх — джьяйштха) — манго, джекфрут, кокосовая вода, пахта; Господь после
+      киртана у Шриваса устраивал «праздник манго». В дожди (ашадх — шраван) — простокваша, воздушный рис, а в Пури —
+      четыре месяца пиров бенгальских преданных. В бхадру поспевают плоды пальмы тал, из мякоти пекут сладкие лепёшки.
+      Осенью и в хеманту приходит новый рис — время питхи, пайаса и бади на солнце; зимой — горчичное масло, ман-качу,
+      пальмовый сок, а в холодный пауш — кислая канджи.
+    en: >-
+      The Bengali year eats by the seasons. In spring (Phalguna–Chaitra) — bitter food: tender neem leaves, shukta,
+      ginger, to cleanse the blood after winter. In summer (Baishakh–Jyaishtha) — mangoes, jackfruit, coconut water,
+      buttermilk; after kirtan at Shrivasa's the Lord held a "mango festival". In the rains (Ashadha–Shravana) — curd,
+      puffed rice, and in Puri four months of feasts by the Bengali devotees. In Bhadra the tal palm fruit ripens, and
+      sweet cakes are made from its pulp. In autumn and Hemanta the new rice comes — the time for pitha, payasa and bari
+      in the sun; in winter — mustard oil, mankachu, palm sap, and in cold Pausha sour kanji.
+  hagiography: ["ЧЧ Ади 17.80–88", "ЧЧ Мадхья 3.47", "ЧЧ Антья 10.106", "ЧЧ Антья 10.152",
+                "Джаянанда, барамасья (Васу 1897), строфы 1, 10, 12"]
+  sources: ["Sen 1911, с. 24 («Дак-вачана»: еда по месяцам)", "Амиш 1902, с. 45, 283 (пханта в магх; шим в пхалгун)",
+            "Пак-пранали, с. 34, 116, 453 (лау в бхадру нельзя; ман-качу зимой; финиковый сок зимой)"]
+  images: []
+  game: {model: "смена набора блюд и плодов на кухне по игровому месяцу", where: ["mishra-house/kitchen"],
+         notes: "таблица месяц → продукты — в research/food-notes.md"}
+
+- id: mc-fruits-offering
+  title: {ru: "Плоды на подносе Господа", en: "Fruit on the Lord's tray"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 14.26–27 (*а̄мра, на̄рикела, ка̄̐т̣ха̄ла, на̄на̄-видха кадалӣ, бӣджа-та̄ла; на̄ран̇га, чхолан̇га, т̣а̄ба̄, камала̄,
+      бӣджа-пӯра, ба̄да̄ма, чхоха̄ра̄, дра̄кш̣а̄, пин̣д̣а-кхарджура* — «Анубхашья»: цитрусовые, биджапура — гранат или цитрон,
+      чхохара — сушёные финики); Мадхья 15.86–87 (Рагхава скупает лучшие бананы, манго, апельсины, джекфруты из дальних
+      сёл); *ча̄̐па̄-кала̄* — 3.55, 15.217, Антья 6.58; манговое дерево из косточки — Ади 17.80–88, Лочан, Мадхья ч. 3, ст. 31;
+      манго Джхаду Тхакура — Антья 16.14–34; *джамбу, каркат̣ика̄* — ЧБ Мадхья 9.82; Антья 18.104. Деревья — см. flora.
+    en: >-
+      CC Madhya 14.26–27 (mango, coconut, jackfruit, many kinds of banana, tal seeds; oranges, citrons, pomegranate,
+      almonds, dried dates, grapes, date paste — Anubhashya); Madhya 15.86–87; champa bananas — 3.55, 15.217, Antya
+      6.58; the mango tree from a seed — Adi 17.80–88, Lochana; Jhadu Thakura's mangoes — Antya 16.14–34; jambu and
+      cucumbers — CB Madhya 9.82; Antya 18.104. The trees — see flora.
+  text:
+    ru: >-
+      Сырые плоды — «ни-сакри», чистое подношение, которое не нужно варить: бананы (лучшие — мелкие ароматные «чампа»),
+      манго, джекфрут, кокосы, ягоды джамбу, огурцы, мякоть тала, а из дальних краёв — апельсины, гранаты, финики,
+      виноград и миндаль. Плоды моют, чистят, режут на банановых листьях и ставят перед Божеством. Махапрабху однажды
+      посадил во дворе Шриваса косточку манго — дерево тут же выросло и дало двести плодов без кожуры и косточек; их
+      поднесли Кришне и раздали преданным. А нищий преданный Джхаду Тхакур, получив манго, мысленно поднёс их Кришне и
+      лишь потом высосал сок.
+    en: >-
+      Raw fruit is "ni-sakri", a pure offering that needs no cooking: bananas (best the small fragrant "champa"),
+      mangoes, jackfruit, coconuts, jambu berries, cucumbers, tal pulp, and from far away oranges, pomegranates, dates,
+      grapes and almonds. Fruit is washed, peeled and cut on banana leaves and set before the Deity. Mahaprabhu once
+      planted a mango seed in Shrivasa's courtyard — at once a tree grew and gave two hundred fruits without skin or stone;
+      they were offered to Krishna and shared with the devotees. And the poor devotee Jhadu Thakura, given mangoes,
+      offered them to Krishna in his mind and only then sucked the juice.
+  hagiography: ["ЧЧ Ади 17.80–88", "ЧЧ Мадхья 14.26–27", "ЧЧ Мадхья 15.86–87", "ЧЧ Мадхья 15.217", "ЧЧ Антья 16.14–34",
+                "ЧЧ Антья 18.104", "ЧБ Мадхья 9.82", "Лочан, Мадхья-кханда, ч. 3, ст. 31"]
+  sources: ["«Анубхашья» к ЧЧ Мадхья 14.27", "«Амрита-праваха-бхашья» к ЧЧ Мадхья 14.25 (ни-сакри — не варёное)"]
+  images: []
+  game: {model: "поднос с нарезанными манго, гроздью бананов чампа, половинкой джекфрута, кокосом", where: ["mishra-house/thakur-ghar", "shrivasa-house/courtyard"]}
+
+- id: mc-mahotsava-feast
+  title: {ru: "Махотсава: как кормили тысячи", en: "Mahotsava: how thousands were fed"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Аннакута Гопала: десять брахманов варят рис, пятеро — супы и овощи, семеро — рути; горшечники принесли всю посуду —
+      ЧЧ Мадхья 4.67–79; праздник у Адвайты: комнаты с рисом, дровами, мунгом, листовыми тарелками, чидой, тысячами гроздей
+      бананов, кувшинами молока и масла — ЧБ Антья 4.460–470; Панихати: 400 горшков, 20 раздатчиков — ЧЧ Антья 6.54–70;
+      пир в саду после уборки Гундичи: стопки тарелок из листьев кетаки, по десять каждому, — Мадхья 14.37–45; праздник
+      прасада после ухода Харидаса — см. mc-haridasa-samadhi.
+    en: >-
+      Gopala's Annakuta: ten brahmins boil rice, five make soups and vegetables, seven make ruti; the potters bring all
+      their ware — CC Madhya 4.67–79; Advaita's festival stores — CB Antya 4.460–470; Panihati: 400 pots, 20 servers —
+      CC Antya 6.54–70; the garden feast after cleaning Gundicha: stacks of ketaki-leaf plates, ten each — Madhya
+      14.37–45; see also mc-haridasa-samadhi.
+  text:
+    ru: >-
+      Большой праздник прасада готовят всем миром. Горшечники приносят новые глиняные горшки — после пира их разбивают;
+      десятки брахманов-поваров варят рис на временных очагах-траншеях, другие — дал и овощи; соседи несут рис, дал,
+      муку, молоко и гхи. Тарелки — банановые листья и листья кетаки, сотни стопок, чашечки — из коры банана. Гости садятся
+      рядами на землю, раздатчики идут с корзинами и половниками, крича «Хари бол!», а то, что останется, раздают нищим.
+      Махапрабху радовался, глядя, как едят преданные, — и Сам подкладывал им прасад.
+    en: >-
+      A great prasada festival is cooked by the whole community. Potters bring new clay pots — after the feast they are
+      broken; dozens of brahmin cooks boil rice on makeshift trench hearths, others dal and vegetables; neighbours bring
+      rice, dal, flour, milk and ghee. Plates are banana and ketaki leaves, hundreds of stacks, the cups banana bark.
+      Guests sit in rows on the ground, servers go along with baskets and ladles calling "Hari bol!", and what is left is
+      given to the poor. Mahaprabhu rejoiced to watch the devotees eat — and Himself served them more prasada.
+  hagiography: ["ЧЧ Мадхья 4.67–79", "ЧЧ Мадхья 14.37–45", "ЧЧ Антья 6.54–70", "ЧБ Антья 4.460–470"]
+  sources: ["Амиш 1902, с. 22 (на большом пиру — банановые листья и глиняные «кхури» вместо чашек)"]
+  images: []
+  game: {model: "длинные ряды листьев на земле, горы риса, раздатчики с корзинами; разбитые горшки в стороне",
+         where: ["shantipur/advaita-house", "panihati/ganga-bank", "puri/jagannatha-vallabha-garden"]}
