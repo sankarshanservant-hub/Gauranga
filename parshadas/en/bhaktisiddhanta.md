@@ -529,6 +529,171 @@ December he installed Radha-Govinda in the Delhi Gaudiya Math, and on 9 December
 Bhakti-ranjan’s departure was observed; the chair was Justice Manmatha Nath Mukhopadhyaya, who on the 13th also visited
 Mayapur. <!-- F120 -->
 
+## The South: Madras, Mysore, Kovvur
+On 10 January 1932 he arrived in Madras with twenty devotees. At Basin Bridge station he was met by the president of the
+city corporation, T. S. Ramaswami Iyer, by T. Rajan, S. V. Ramaswami Mudaliar, Dewan Bahadur G. Narayanaswami Chettiar,
+T. Punurulla Pillai and others, and a huge sankirtana escorted him to the Gaudiya Math, which then stood in North
+Gopalpur; Dewan Bahadur Kumaraswami Reddiar welcomed him with an address. In January he was visited by a judge of the
+High Court, Dewan Bahadur Sundaram Chettiar; on the 23rd he installed the Deities in the Madras Gaudiya Math and laid the
+foundation of a new math at Royapettah; on the 24th he spoke at a large gathering chaired by Sir P. S. Sivaswami Iyer; on
+the 27th the Governor of Madras, Sir George Frederick Stanley, laid the foundation of the “Sri Krishna Kirtan Hall”; on
+the 29th the city corporation gave him an official reception, and he replied with an address in the “Ripon Building”;
+on the 30th at Eluru (West Godavari) the “Janardana Prarthana Samaj” welcomed him, and he initiated many. <!-- F121 F122 -->
+
+For his fifty-eighth appearance day he wrote an address that was read at the Vyasa-puja in Calcutta. In it he spoke of
+Kunjavihari Vidyabhushana: on the day of his guru’s departure Kunjavihari had appeared before him as a second form of
+the guru, and since then had not let him serve by himself, taking every opportunity of service upon himself.
+<!-- F123 F264 -->
+
+Before the Navadvipa parikrama of 1932 he returned to Mayapur. On the day of Mahaprabhu’s appearance he laid the
+foundation of a new temple at the house of Advaita Acharya, spoke at the annual meeting of the “Sri Dhama Pracharini
+Sabha,” and instituted examinations for the degrees of “Bhakti-shastri” and “Bhakti-vaibhavacharya.” On 3 April, at the
+annual prize-giving of the Bhaktivinoda Institute, he gave an address on “Altruism and Extended Altruism.” <!-- F124 -->
+
+On 23 May he was again in Madras, explaining the distinctive features of the Gaudiya sampradaya to the heads and scholars
+of the schools of Shankara, Ramanuja and Madhva; on 25 May he resolved the doubts of a group led by Professor K.
+Panchapagesan of Pudukkottai; on 29 May he visited Coimbatore, then Mettupalayam on the Bhavani river, and settled in
+“Rangavilas Bhavan” at Udagamandalam (Nilgiris). There he corrected Professor Nishikanta Sanyal’s English book “Sree
+Krishna Chaitanya,” completed his English translation of the “Brahma-samhita” with Jiva Gosvami’s commentary, his
+“Gaudiya-bhashya” on the “Chaitanya-bhagavata,” and a short English book on the life of Ramananda Raya. Through his
+principal disciples he was heard there by Sir Kishan Prasad, prime minister to the Nizam of Hyderabad, the zamindar
+Dhanraj Girji, Sir P. S. Sivaswami Iyer and Dewan Bahadur P. Muniswami Naidu. <!-- F125 F126 F258 -->
+
+On 17 June 1932 the Maharaja of Mysore, Sir Krishnaraja Wadiyar, invited him and his disciples; they stayed as guests
+in the “Rama Mandir” and preached. On the way he visited the Lingayat temple of Kantheshvara and the Madhva Math at
+Nanjangud, and on 19 June Krishnaraja Sagar and Shrirangapattanam; on the morning of 20 June he spoke on Krishna-bhakti
+at the Mysore Sanskrit College, and in the afternoon, at the maharaja’s palace, he spoke of Mahaprabhu and answered
+questions. Then he visited Kovvur on the Godavari — where Mahaprabhu first met Ramananda Raya — and on 5 July installed
+the Deities in the Ramananda Gaudiya Math. Hundreds of thousands who had come to bathe at the *pushkara-yoga* heard the
+names of Gauranga, and to educated people he spoke of the gradual path of spiritual life and its goal. <!-- F127 F128 -->
+
+## His Guru’s Samadhi in Mayapur
+In August–September 1932 in Calcutta he was heard by Sir Deva Prasad Sarvadhikari (16 August, on “Sri Chaitanya’s
+Prema”), Professor Suniti Chatterji and the magistrate of Nadia, T. K. Ray; he lectured on “The Relative Worlds” (28
+August), “The Highest Goal of Life” (3 September) and on the Vedanta (11 September); three lectures were published. In
+early September, at his word, the Assamese monthly “Kirtana” began to appear in Dhubri. <!-- F129 F131 -->
+
+His guru’s samadhi at Kulia had met with misfortune. The land for it had been given by a certain Poddar of Lohagara
+(Jessore), who renounced his rights but later settled there himself and behaved badly; and the Ganga was coming ever
+closer. On 21 August 1932, learning that the samadhi was about to fall into the river, Srila Bhaktisiddhanta sent his
+disciples to carry his guru’s sacred remains to the Sri Chaitanya Math in Mayapur, and raised a new samadhi temple on the
+bank of Radha-kunda; in September he opened it[^17]. Later a small temple with an image of Gaurakishora was built beside
+it, where service has never ceased. He often told his disciples incidents from his guru’s life full of meaning for
+sadhakas. <!-- F130 F242 F243 -->
+
+On 9 October 1932, the appearance day of Madhvacharya, he set out with countless devotees on the eighty-four-krosha
+parikrama of Vraja-mandala. At all the places of Krishna’s pastimes his disciples preached in various languages, and he
+himself expounded Rupa Gosvami’s “Upadeshamrita” to the Vrajavasis and to scholars. On 4 November he laid the foundation
+of the Sri Sarasvata Gaudiya Math in Hardvar; on 21 November in Prayaga, at his invitation and in his presence, the
+Governor of the United Provinces, Sir William Malcolm Hailey, laid the foundation of the Sri Rupa Gaudiya Math; on the
+24th he installed Radha-Govinda in the Sanatana Gaudiya Math in Benares; on the 27th the second anniversary of
+Jagabandhu’s departure was observed (chaired by Sir Manmatha Nath Ray Chaudhuri); on 4 December Professor Sudhendu Kumar
+Das of Krishnanagar and Vishvambhar Vyakarana-tirtha of the Radhakanta Math in Puri learned much from him in Mayapur
+about the Vaishnava sampradayas of India. <!-- F132 F133 -->
+
+From 12 December 1932 to 30 January 1933 he stayed in Dhaka, and on 6 January opened there a diorama exhibition of
+spiritual education such as the city had never seen; his address “The Exhibitor’s Word” changed his listeners’ ideas of
+religion. On 2 February 1933 at the Calcutta Gaudiya Math, at the question of the dean of Narasingh College, Satishchandra
+De, and of Professor Ranada Charan Chakravarti, he explained the difference between *eka-danda* and *tri-danda*
+sannyasa, and on 8 February he left for Mayapur — for Nityananda’s appearance, his own Vyasa-puja and the appearance of
+Mahaprabhu. <!-- F134 F135 -->
+
+## The Message Goes to Europe
+On Mahaprabhu’s appearance day in 1933 Nishikanta Sanyal’s English book “Sree Krishna Chaitanya” came out, and Srila
+Bhaktisiddhanta decided that the time had come to carry the Lord’s message to Europe. He chose three leading disciples —
+Bhakti Pradipa Tirtha, Bhakti Hridaya Bon and Sambidananda Dasa, M.A., Bhakti-shastri. On 18 March, at a meeting chaired
+by Jatindranath Basu, he gave a farewell address, “My Word” (“Amar Katha”), praising them. <!-- F136 -->
+
+At the beginning of May the first news came from London: a centre had been opened at 39 Drayton Gardens, Kensington. On
+31 May he answered spiritual questions sent from London by the Marquess of Lothian and Lord Zetland, former Governor of
+Bengal. On 15 June his disciples spoke at a meeting of the “Society for the Study of Religions” in Bedford Square under
+Zetland’s chairmanship, and on 23 June a meeting in honour of Bhaktivinoda was held at the London Gaudiya Math. In July
+letters of thanks for the Gaudiya Math’s work in Britain came from R. A. Butler (Lord Irwin’s private secretary), the
+Marquess of Lothian, Sir Stanley Jackson and the editor of “The Times,” Brown; on 5 July the former Viceroy Lord Irwin
+and his wife and members of the Joint Parliamentary Committee heard the missionaries; on 14 July they were received by
+the Archbishop of Canterbury, Cosmo Gordon Lang. <!-- F137 F138 -->
+
+On 20 July 1933, at four in the afternoon, the Secretary of State for India, Sir Samuel Hoare, presented the preachers of
+the Gaudiya Math to King George V and Queen Mary, and Svami Bon Maharaja told them the purpose of the mission. Many
+British governors and the Viceroy of India himself were impressed by his addresses; he spoke at British and German
+universities. On 7–8 October the preachers spoke on the Holy Name to a gathering of professors and students at Oxford,
+on 24–25 November at the Theosophical Society in Eastbourne, on 10 December at the “Deutsche Akademie” in Munich, on 12
+December at the “Humboldt-Haus” in Berlin, then in Königsberg and at the Institute of Indian Civilisation in Paris; on
+20 December the London Gaudiya Math moved to Gloucester House, 3 Cornwall Gardens. “Our Teachers” adds that his envoys
+also preached in Holland, Austria and Czechoslovakia, and that among the first Western disciples was the German writer
+Walther Eidlitz (Vamanadeva). <!-- F139 F140 F141 F273 -->
+
+The tridandi sannyasis of the Gaudiya Math studied the philosophy of the four Vaishnava sampradayas and Gaudiya
+philosophy in comparison with the other philosophies of the world, and preached throughout India all the year round:
+large meetings, lectures, sankirtana processions, talks from house to house, the distribution of booklets. Bhakti
+Hridaya Bon, Bhakti Svarupa Parvata and Bhakti Sambandha Turyashrami became famous as speakers. <!-- F140 -->
+
+## At Home: 1933–1934
+Meanwhile he opened the “Sri Krishna Kirtan Hall” in Madras; in Bombay he answered three sincere questions of the
+Nepalese Professor Sanjiva Kumar Chaudhuri and opened the Bombay office of the Gaudiya Math (“Jangu Villa,” Babulnath
+Road); on 20 May, at the question of a relative of Dadabhai Naoroji, he gave his own solution to the question of the
+admission of untouchables to temples. On 16 June in the Krishnanagar town hall, at a memorial meeting for Bhaktivinoda
+(chaired by Khitipati Nath Mitra and Dinanath Sanyal Rai Bahadur), he spoke on the uniqueness of the
+“Srimad-Bhagavatam,” and on 3 July he installed Gaurasundara and Radha-Govinda in the new temple of the Tridandi Gaudiya
+Math in Bhubaneshvar. <!-- F142 F143 -->
+
+In August 1933 a second diorama exhibition was held at Kurukshetra during a solar eclipse, and a kirtana procession went
+through Calcutta; he lectured on “The Highest Goal of Human Life” (on the 12th), “The Uniqueness of Sri Chaitanya
+Mahaprabhu” (20th) and, in English, “The Vedanta, its morphology and ontology” (27th). On 7 September he went by motor
+launch to Navadvipa and visited with sankirtana the places along the Ganga. On 27 October in Patna he was heard by
+Amarendranath Das Rai Bahadur, the archaeologist Ganesh Chandra Chand, the barrister P. R. Das, the advocate Navadvip
+Chandra Das and Justice Shivepriya Chatterji; on 14 November the Maharaja of Darbhanga, Sir Kameshvar Singh, opened an
+exhibition in Patna. <!-- F144 F145 -->
+
+On 19 November the third anniversary of Jagabandhu’s departure was observed (chaired by Sir Vijaya Prasad Singh Ray). At
+the end of November Jiva Gosvami’s “Bhakti-sandarbha” appeared complete under his editorship. He spoke hari-katha at
+Tetiya-palli near Nrisimha-palli on the 24th and led sankirtana at the Ekayana Math in Krishnanagar on the 26th–27th;
+preaching went on at Amarshigrama (Medinipur) and in Karachi; on 24 December the magistrate Pannalal opened an exhibition
+in Benares, at Michir-pokhra. On 15 January 1934 the Calcutta Gaudiya Math was visited by the King of Tripura,
+Viravikrama Kishor Devavarma Manikya Bahadur: he showed his respect to the acharya, and in the evening praised the work
+of the math in a speech; on 2 February his secretary, Kumar Bahadur Radhika Ranjan Chakravarti, came. <!-- F146 F147 -->
+
+On 4 February 1934, his sixtieth appearance day, the Vyasa-puja was held and printing began of his disciples’ book about
+his life, the “Sarasvati-jayashri”; on the same day in London, at Grosvenor House, Park Lane, a meeting in his honour was
+held under Lord Zetland’s chairmanship. On 25 February a new temple was opened at the birthplace of Vrindavana Dasa in
+Modadrumadvipa. At the Navadvipa parikrama and Gaura-purnima of 1934 temples were consecrated at Shrivasa-angana and at
+the samadhi of Gaurakishora; three disciples took tridandi sannyasa; he spoke at the “Bhakti-vijaya Bhavan” and at a
+meeting of the “Navadvipa Dhama Pracharini Sabha”; on 19 February Rajarshi Kumar Sharadindu Narayan Ray and Rai Bahadur
+Rama Prasad Chanda heard him. On 5 March a large preaching party went to Chanchuri-Puruliya (Jessore), the native village
+of the temple manager of the Gaudiya Math, Maha-mahopadeshaka Acharyatrika Kunja Bihari Vidyabhushana, and preached
+there for five days. <!-- F148 F149 F150 -->
+
+## Adhokshaja of the Yogapitha
+On 18 March 1934 the foundations were laid for a temple at the place of Mahaprabhu’s appearance and for a small temple at
+the house of Murari Gupta. On 13 June at ten in the morning, while the foundations were being dug — the building was
+paid for by Sakhicharan Ray Bhakti-vijaya — the four-armed Deity of Vishnu Adhokshaja appeared from the earth: the very
+Deity whom Jagannatha Mishra had worshipped. <!-- F151 -->
+
+On 2 April he opened the pada-pitha at Chhatrabhoga, and the villagers honoured him; on 8 April he gave sannyasa to
+several disciples, and on the 20th came to Puri. On 24 April, at Caxton Hall in Westminster, the “Gaudiya Mission
+Society” was founded under Lord Zetland’s chairmanship, and on 6 May Rama Prasad Chanda lectured on “Navadvipa in the
+Time of Lord Chaitanya.” In May in Puri he spoke of Krishna with the ayurveda lecturer Ananda Mahapatra, the writer
+Shachishchandra Chattopadhyaya, the abbot of the Emar Math Gadadhara Ramanuja Dasa, Hanuman Khuntia, Gaura Shyama
+Mahanti, Radha Shyama Mahanti, Professor Junakar, Revatinath Chattopadhyaya, Narendranath Datta, the founder of the
+“Bodhana Ashrama” Girija Prasanna Mukhopadhyaya and Professor Khagendranath Mitra. <!-- F152 F153 -->
+
+On 27 June he installed Gopinatha in the Brahma Gaudiya Math at Alalanatha; a revised edition of “Brahmana o Vaishnava”
+appeared. On 12 July he installed in Mayapur an image of Gaurakishora Dasa Babaji; on 13 August he preached to Jamini
+Nath Mukhopadhyaya; on the 14th he installed the Deities in the Patna Gaudiya Math. On 1 September, Janmashtami, the
+“Sarasvati-jayashri” came out; on 4 September “The Harmonist” began to appear in a new form, twice a month; on 16
+September he spoke on Radhashtami. <!-- F154 -->
+
+## Karttika in Mathura
+From 17 October 1934 he kept the Karttika vow with his disciples in Mathura and showed them by example how to discuss
+the *ashtakaliya-lila* — the pastimes of Radha and Krishna in the eight periods of the day. On 29 October he found in
+Mathura, in the Satghara quarter, the place where Rupa Gosvami used to come for darshana of Gopala; on 1 November he
+visited Chandra-sarovara, Parasauli, Gauri-tirtha and Paitha-grama, speaking of the pastimes of these places, and on 17
+November he gave tridandi sannyasa to brahmacharis. In the third week of October his representatives preached in German
+universities; on 29 November at the “Rajendra Bhavan” in New Delhi he gave addresses on “The Duty of Human Life” and
+“Mahaprabhu’s Mercy and His Teaching.” On 6 December the fourth anniversary of Jagabandhu’s departure was observed
+(chaired by Raja Bhupendra Narayan Singh). At his word the Andhra disciple Y. Jagannath published Bhaktivinoda’s “Sri
+Chaitanya-shikshamrita” in Telugu; an English edition of the “Jaiva-dharma” was in preparation. <!-- F155 F156 F157 -->
+
 [^1]: According to one of the biographies, the anna-prashana was performed with the prasad of Vimala Devi herself, and so
     the child was named Vimalaprasad; according to another, Bhaktivinoda gave him Jagannatha’s prasad for the
     anna-prashana and chose the name after Vimala, Jagannatha’s shakti.
@@ -574,3 +739,6 @@ Mayapur. <!-- F120 -->
 [^16]: According to one of the biographies, the first such exhibition at Bagbazar was held in 1931 in the newly opened
     Gaudiya Math; according to another, there had been dioramas earlier — at Kurukshetra (1928) and in Mayapur (1930) —
     and the “Sat-shiksha-pradarshini” in Calcutta opened on 6 September 1931.
+[^17]: The biography speaks of this differently in two places: in one, the disciples carried the body whole, and the
+    temple was opened on 16 September; in the other, part of the remains was recovered from the bed of the Ganga on the
+    5th of Bhadra 1339, and the new samadhi was consecrated on the 2nd of Ashvina 1339 (about 18–19 September 1932).
