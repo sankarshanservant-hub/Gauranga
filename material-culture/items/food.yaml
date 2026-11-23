@@ -692,3 +692,312 @@
   sources: []
   images: []
   game: {model: "глиняная миска с пророщенным мунгом и ломтиками имбиря", where: ["puri/jagannatha-vallabha-garden", "shantipur/advaita-house"]}
+
+- id: mc-sugar
+  title: {ru: "Сахар: гур, кханда, чини, мисри", en: "Sugar: gur, khanda, chini, misri"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Ступени сахара — ЧЧ Мадхья 19.179 (*бӣджа, икш̣у, раса, гуд̣а, кхан̣д̣а, са̄ра, ш́аркара̄, сита̄, мичхари, уттама-
+      мичхари* — семя, тростник, сок, гур, кханда, «сара», шаркара, сита, мисри, лучшая мисри; сравнение со ступенями
+      бхакти). *чини* — Антья 6.53, 6.57–58; *кхан̣д̣а-са̄ра* — Мадхья 14.31, 15.55, Антья 10.135; *ш́аркара̄* — Мадхья 3.48;
+      *икш̣у-дан̣д̣а* — ЧБ Антья 4.467; *падмачини* — Мадхья 14.31, Антья 10.119; сахарные деревца — Мадхья 14.32;
+      *набат* — Мадхья 14.30, Джаянанда. Очистка — Миштанна-пак 1898, с. 52–57.
+    en: >-
+      The stages of sugar — CC Madhya 19.179 (seed, cane, juice, gur, khanda, sara, sharkara, sita, misri, best misri;
+      a simile for the stages of bhakti). chini — Antya 6.53, 6.57–58; khanda-sara — Madhya 14.31, 15.55, Antya 10.135;
+      sharkara — Madhya 3.48; sugarcane — CB Antya 4.467; padmachini — Madhya 14.31, Antya 10.119; sugar trees — Madhya
+      14.32; nabat — Madhya 14.30, Jayananda. Refining — Mishtanna-pak 1898 pp. 52–57.
+  text:
+    ru: >-
+      Сладкое Бенгалии — из сахарного тростника (и пальмового сока). Кришнадас Кавирадж перечисляет ступени, как
+      знает их каждая хозяйка: тростник → сок → тёмный густой гур → рыхлый кханда → кхандасара → белая шаркара → сита →
+      мисри, прозрачный леденцовый сахар, и лучший мисри — так зреет и вкус преданности. Сахар-чини клали в чиду в
+      Панихати, кхандасару и леденцы подносили Господу у Шачи и у бенгальских преданных, а в Пури Джаганнатхе подносили
+      сахарные «деревца» с листьями, цветами и плодами и сахар в форме лотосов (падмачини).
+    en: >-
+      Bengal's sweetness comes from sugarcane (and palm sap). Krishnadasa Kaviraja lists the stages as every housewife
+      knew them: cane → juice → dark thick gur → loose khanda → khandasara → white sharkara → sita → misri, the clear
+      rock sugar, and the best misri — so too ripens the taste of devotion. Chini went into the chida at Panihati,
+      khandasara and rock sugar were offered to the Lord at Shachi's and by the Bengali devotees, and in Puri Jagannatha
+      was offered sugar "trees" with leaves, flowers and fruit, and sugar in the shape of lotuses (padmachini).
+  recipe:
+    ru: >-
+      Как делали «деши чини» (Миштанна-пак 1898, с. 52–53, XIX в., способ старинный): гур из тростникового сока
+      выкладывают в глиняные сосуды-«пете» с отверстием, патока («мат») стекает 2–3 дня; сверху кладут пласты речной или
+      прудовой водоросли (шевла), и за неделю верхний слой гура белеет — его соскребают, снова накрывают водорослью, и
+      так до конца. Этот «кханд» растворяют в воде, кипятят, брызгая водой с молоком, — пена-грязь всплывает, её
+      снимают; сироп мешают на стенках, пока не загустеет, растирают камнем — готов чини. Батаса — капли сиропа на
+      циновке (с. 55–57), набат — уваренный гур, застывший в форме (с. 57). Мисри кристаллизуют на нитях. Там же: «фабричный
+      сахар чище, но некоторые индусы считают его нечистым».
+    en: >-
+      How "deshi chini" was made (Mishtanna-pak 1898 pp. 52–53, an old method): cane gur is put into perforated clay
+      pots and the molasses drains for 2–3 days; layers of river or pond weed are laid on top, and within a week the top
+      layer whitens — it is scraped off, re-covered, and so on. This khand is dissolved, boiled while sprinkling milky
+      water — the scum rises and is skimmed; the syrup is worked on the pan sides until it sets and ground with a stone
+      — chini is ready. Batasa — drops of syrup on a mat (pp. 55–57), nabat — reduced gur set in a mould (p. 57).
+  hagiography: ["ЧЧ Мадхья 19.179", "ЧЧ Мадхья 3.48", "ЧЧ Мадхья 14.30–32", "ЧЧ Мадхья 15.55", "ЧЧ Антья 6.53–58",
+                "ЧЧ Антья 10.119", "ЧЧ Антья 10.135", "ЧБ Антья 4.467", "ЧБ Мадхья 9.82 (*икш̣у* — тростник)"]
+  sources: ["Миштанна-пак 1898, с. 52–57 (очистка гура водорослями, сироп, батаса, набат)",
+            "«Анубхашья» к ЧЧ Мадхья 14.30 (набат — сладость, сваренная в сиропе)"]
+  images: []
+  game: {model: "связки сахарного тростника; тёмный гур в горшке; белые батасы и прозрачные кристаллы мисри на подносе",
+         where: ["mishra-house/kitchen", "navadvipa/market"]}
+
+- id: mc-ladu
+  title: {ru: "Ладу (наду) — сладкие шарики", en: "Ladu (nadu) — sweet balls"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *ла̄д̣у* — ЧЧ Мадхья 14.28, *д̣а̄ли-марича-ла̄д̣у* — 14.30; *на̄д̣у* Дамаянти — Антья 10.22 (*дханийа̄-маухарӣ* —
+      кориандр и фенхель; в переводе «анис»), 10.23 (*ш́ун̣т̣хӣ-кхан̣д̣а на̄д̣у* — имбирные), 10.25 (кокосовые и «ганга-джали»),
+      10.28–30 (из рисовых хлопьев и жареного риса с камфорой, перцем, гвоздикой, кардамоном), 10.32 (из гороха); *на̄д̣у* от
+      преданных — Антья 10.109; «сахарные ладду» — Джаянанда, фр. 10, дв. 21. Рецепт — Миштанна-пак 1898, с. 70–71.
+    en: >-
+      ladu — CC Madhya 14.28, dali-maricha-ladu — 14.30; Damayanti's nadu — Antya 10.22 (coriander and fennel; the
+      translation says "anise"), 10.23 (ginger), 10.25 (coconut and "ganga-jali"), 10.28–30 (of rice flakes and roasted
+      rice with camphor, pepper, clove, cardamom), 10.32 (of peas); nadu from the devotees — Antya 10.109; sugar ladus —
+      Jayananda fr. 10 v. 21. Recipe — Mishtanna-pak 1898 pp. 70–71.
+  text:
+    ru: >-
+      Наду — шарики размером с крупный орех, скатанные из чего угодно сухого, сваренного в сахарном сиропе или гуре:
+      из тёртого кокоса, из поджаренного рисового порошка, из кунжута, из семян кориандра и фенхеля, из сушёного
+      имбиря. Они долго хранятся, и потому Дамаянти отправляла их Господу в Пури на весь год, с камфорой, гвоздикой и
+      кардамоном; имбирные наду, по её заботе, ещё и помогали пищеварению. Белые кокосовые шарики звались «ганга-джал» —
+      «вода Ганги».
+    en: >-
+      Nadu are balls the size of a large nut, rolled from almost anything dry cooked in sugar syrup or gur: grated
+      coconut, roasted rice powder, sesame, coriander and fennel seed, dried ginger. They keep a long time, so Damayanti
+      sent them to the Lord in Puri for the whole year, with camphor, clove and cardamom; the ginger nadu, in her care,
+      also helped digestion. White coconut balls were called "ganga-jal" — "Ganga water".
+  recipe:
+    ru: >-
+      Реконструкция «ананда-ладу» по Миштанна-пак 1898, с. 70–71 (делают на аннапрашану, упанаяну, свадьбу): непропаренный
+      рис (атап) вымыть и грубо истолочь; кунжута — половина от риса: замочить, оттереть от шелухи на мешковине, истолочь;
+      смешать с гуром без воды (+ тёртый кокос — «лучше всего»), скатать шарики, обжарить в гхи или горчичном масле
+      до трещинок и прокатить в сиропе или гуре. По житию (ЧЧ Антья 10.29–30): жареный рис шали смолоть, смешать с гхи,
+      сварить в сахарном сиропе, добавить камфору, чёрный перец, гвоздику, кардамон — и скатать.
+    en: >-
+      Reconstruction of ananda-ladu after Mishtanna-pak 1898 pp. 70–71 (made for annaprashana, upanayana, weddings):
+      wash and coarsely pound unparboiled rice; half as much sesame, soaked, rubbed free of husk, pounded; mix with gur
+      without water (+ grated coconut, "best of all"), roll balls, fry in ghee or mustard oil until they crack, and coat
+      in syrup or gur. By the text (CC Antya 10.29–30): grind roasted shali rice, mix with ghee, cook in sugar syrup, add
+      camphor, black pepper, clove and cardamom, and roll.
+  hagiography: ["ЧЧ Мадхья 14.28–30", "ЧЧ Антья 10.22–32", "ЧЧ Антья 10.109", "Джаянанда, фр. 10, дв. 21"]
+  sources: ["Миштанна-пак 1898, с. 70–71 (ананда-ладу)", "«Амрита-праваха-бхашья» к ЧЧ Антья 10.24 (кола-шунтхи — сушёные ягоды кул)"]
+  images: []
+  game: {model: "плетёная корзинка с шариками 3–4 см: белыми (кокос), бурыми (гур), пёстрыми (кунжут)",
+         where: ["mishra-house/kitchen", "puri/gambhira"]}
+
+- id: mc-ukhda-khaichur
+  title: {ru: "Укхда и кхаичур — воздушный рис в сиропе с камфорой", en: "Ukhda and khaichur — puffed rice in syrup with camphor"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 10.28 (из чиды — *худ̣ум*, обжаренный в гхи, в сиропе, с камфорой — шарики), 10.31 (*ш́а̄ли-дха̄нйера кхаи… чини-
+      па̄ке укхд̣а̄… карпӯра̄ди дийа̄*); «Анубхашья» к 10.28: *худ̣ум* — восточнобенгальское имя мури; *кхаичур* — у
+      Джаянанды (Васу 1897, перечень). Рецепт кхаичура (с камфорой, имбирём, кардамоном, корицей) — Миштанна-пак 1898,
+      с. 62–63: совпадает с житием почти дословно.
+    en: >-
+      CC Antya 10.28 (hurum from chida, fried in ghee, in syrup, with camphor — balls), 10.31 (khai of shali rice in
+      sugar syrup — ukhda, with camphor); Anubhashya on 10.28: hurum is the East Bengali name for muri; khaichur in
+      Jayananda (Vasu 1897 list). The khaichur recipe (camphor, ginger, cardamom, cinnamon) — Mishtanna-pak 1898 pp.
+      62–63 — matches the text almost word for word.
+  text:
+    ru: >-
+      Воздушный рис кхаи (рис, лопнувший в горячем песке) варят в густом сахарном сиропе, всё время мешая, чтобы зёрна
+      чуть раскрошились, затем добавляют растёртые камфору, сушёный имбирь, кардамон и капельку гхи — и катают рыхлые
+      ароматные шарики или оставляют россыпью. Дамаянти сделала такую «укхду» из лучшего риса шали для Господа в Пури. Ещё
+      в XIX в. лучший кхаи для кхаичура везли из Дханекхали.
+    en: >-
+      Puffed rice khai (rice popped in hot sand) is cooked in thick sugar syrup with constant stirring so the grains
+      crumble a little, then ground camphor, dry ginger, cardamom and a drop of ghee are added — and loose fragrant balls
+      are rolled, or it is left crumbly. Damayanti made such "ukhda" of the best shali rice for the Lord in Puri. Even in
+      the 19th c. the best khai for khaichur came from Dhanekhali.
+  recipe:
+    ru: >-
+      Реконструкция по Миштанна-пак 1898, с. 62–63 («кхаичур»): 1 сер свежего хорошо раскрывшегося кхаи на 1 сер сахарного
+      сиропа; варить, непрерывно мешая лопаткой, пока кхаи частью не раскрошится и не начнёт склеиваться; снять, всыпать
+      порошки: мелкий кардамон 4 аны, корица 4 аны, сушёный имбирь 2 аны, камфора 1½ аны (≈ 1 ана = 1/16 толы); добавить
+      немного горячего гхи; скатать шарики и обвалять в сахаре. Можно на гуре — тогда без обвалки. Анахронизмов нет.
+    en: >-
+      Reconstruction after Mishtanna-pak 1898 pp. 62–63: 1 seer of fresh well-popped khai to 1 seer of sugar syrup;
+      cook, stirring constantly, until the khai partly crumbles and begins to bind; off the fire add powdered small
+      cardamom, cinnamon, dry ginger and camphor; a little hot ghee; roll balls and coat in sugar. With gur no coating is
+      needed. No anachronisms.
+  hagiography: ["ЧЧ Антья 10.28", "ЧЧ Антья 10.31"]
+  sources: ["Миштанна-пак 1898, с. 62–63 (кхаичур; кхаи из Дханекхали)", "«Анубхашья» к ЧЧ Антья 10.28 (худум = мури)"]
+  images: []
+  game: {model: "рыхлые белые шарики воздушного риса в сиропе, в глиняном горшочке", where: ["puri/gambhira", "mishra-house/kitchen"]}
+
+- id: mc-khaja
+  title: {ru: "Кхаджа и тила-кхаджа — слоёная сладость", en: "Khaja and tila-khaja — layered sweet"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *кха̄джа̄, кхан̣д̣аса̄ра… тила̄кха̄джа̄ра прака̄ра* — ЧЧ Мадхья 14.31 (прасад Джаганнатхи); «Анубхашья»: тиле-кхаджа —
+      кхаджа с кунжутом, обжаренным в гхи. Кхаджа и поныне — одна из главных сладостей Пури. Рецепты — Миштанна-пак 1898,
+      с. 143–145 (кхаджа), с. ~66–67 (тиле-кхаджа — плитки сиропа с кунжутом).
+    en: >-
+      khaja, khandasara, tila-khaja — CC Madhya 14.31 (Jagannatha prasada); Anubhashya: tile-khaja is khaja with sesame
+      fried in ghee. Khaja is still a chief sweet of Puri. Recipes — Mishtanna-pak 1898 pp. 143–145 (khaja), pp. ~66–67
+      (tile-khaja — syrup slabs with sesame).
+  text:
+    ru: >-
+      Кхаджа — хрупкая слоёная лепёшка: тесто из пшеничной муки с большим количеством гхи раскатывают, смазывают,
+      складывают и снова раскатывают, пока не наберётся множество тончайших слоёв; в горячем гхи они раскрываются, как
+      листы книги, а потом их пропитывают густым сиропом. Среди прасада Джаганнатхи, которым Господь угощал киртанщиков
+      в саду после уборки Гундичи, были кхаджа и кунжутная кхаджа. Простая «тиле-кхаджа» бенгальского базара — тонкие
+      плитки сахарного сиропа, густо посыпанные кунжутом.
+    en: >-
+      Khaja is a brittle layered pastry: dough of wheat flour with plenty of ghee is rolled, greased, folded and rolled
+      again until it has many very thin layers; in hot ghee they open like the leaves of a book, and then they are
+      soaked in thick syrup. Among Jagannatha's prasada with which the Lord fed the kirtan singers in the garden after
+      cleaning Gundicha were khaja and sesame khaja. The plain "tile-khaja" of a Bengali market is thin slabs of sugar
+      syrup thickly strewn with sesame.
+  recipe:
+    ru: >-
+      Реконструкция по Миштанна-пак 1898, с. 143–145: мука 1 сер, гхи 1 сер, сахар 1½ сера; в муку — не меньше поя гхи на
+      сер (моян), месить очень круто («хоть молотом»); раскатать тонко «как лист», смазать гхи, свернуть, расплющить,
+      снова раскатать — повторить много раз; нарезать, каждую дольку раскатать кружком и жарить в гхи, пока слои не
+      поднимутся; пропитать сиропом крутой варки (сначала дать стечь гхи — оно пригодится). Тиле-кхаджа (с. ~66–67): сироп
+      или гур уварить до твёрдого, вылить на доску, посыпать очищенным кунжутом, нарезать плитками.
+    en: >-
+      Reconstruction after Mishtanna-pak 1898 pp. 143–145: flour 1 seer, ghee 1 seer, sugar 1½ seers; rub at least a
+      quarter seer of ghee into each seer of flour, knead very stiff; roll "thin as a leaf", grease, roll up, flatten,
+      roll again — many times; cut, roll each piece into a round and fry in ghee until the layers rise; soak in hard-
+      boiled syrup. Tile-khaja: boil syrup or gur hard, pour on a board, strew with husked sesame, cut into slabs.
+  hagiography: ["ЧЧ Мадхья 14.31"]
+  sources: ["Миштанна-пак 1898, с. 143–145 (кхаджа), с. ~66–67 (тиле-кхаджа)", "«Анубхашья» к ЧЧ Мадхья 14.31"]
+  images: []
+  game: {model: "золотистые слоёные ромбы 6–8 см, блестящие от сиропа; плитки с кунжутом", where: ["puri/temple-market", "puri/jagannatha-vallabha-garden"]}
+
+- id: mc-sar-sarapuri
+  title: {ru: "Сар, сарабхаджа, сарапури — сладости из молочных пенок", en: "Sar, sarabhaja, sarapuri — sweets of milk skin"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *сара̄мр̣та, сарабха̄джа̄, сарапурӣ* — ЧЧ Мадхья 14.29 (прасад Джаганнатхи); *сара* — Мадхья 4.74 (Аннакута);
+      *сарапурӣ* — Антья 18.106; «сливки» у Джаянанды (фр. 10, дв. 25). «Анубхашья» к Мадхья 14.29: сарабхаджу и
+      сарапури особенно хорошо готовят в Надии, около Кришнанагара (XX в.). Рецепт сара и сарабхаджи — Миштанна-пак 1898,
+      с. 44–47. ⚠ Слава кришнанагарских сарапури и сарабхаджи — поздняя (XVIII–XIX вв.); в Пури эпохи — храмовые.
+    en: >-
+      saramrita, sarabhaja, sarapuri — CC Madhya 14.29 (Jagannatha prasada); sara — Madhya 4.74; sarapuri — Antya
+      18.106; cream in Jayananda (fr. 10 v. 25). Anubhashya on Madhya 14.29: sarabhaja and sarapuri are best made in
+      Nadia near Krishnanagar. Recipe — Mishtanna-pak 1898 pp. 44–47. ⚠ The fame of Krishnanagar sarapuri is later.
+  text:
+    ru: >-
+      Сар — плотная пенка, которая образуется на молоке, томящемся на слабом огне. Её снимают и кладут слоями одну на
+      другую, получая толстый пласт; пласт режут, обжаривают в гхи и окунают в сироп — это сарабхаджа, а слоёные «пирожки»
+      из пенок с начинкой — сарапури. Такие сладости подносили Джаганнатхе и раздавали в саду после уборки Гундичи;
+      Радха в «Говинда-лиламрите» тоже готовит Кришне сарапури.
+    en: >-
+      Sar is the thick skin that forms on milk simmering over a low fire. It is lifted off and laid in layers one on
+      another into a thick sheet; the sheet is cut, fried in ghee and dipped in syrup — that is sarabhaja, while layered
+      "pastries" of milk skin with a filling are sarapuri. Such sweets were offered to Jagannatha and distributed in the
+      garden after cleaning Gundicha; Radha too prepares sarapuri for Krishna.
+  recipe:
+    ru: >-
+      Реконструкция по Миштанна-пак 1898, с. 44–47: две широкие сковороды с молоком; в одной под слабым огнём наращивают
+      сар, другую держат на углях; пенки поднимают и кладут на пенку во второй сковороде — 3–4 раза; затем пласт осторожно
+      вынуть, нарезать квадратами; в гхи с мелким кардамоном и мисри выложить куски, полить их молоком с пенками,
+      перевернуть, прогреть. Сарабхаджа: пласт сара в 2–3 слоя обжарить минуту в гхи с кардамоном и проварить в сиропе.
+    en: >-
+      Reconstruction after Mishtanna-pak 1898 pp. 44–47: two wide pans of milk; in one, over a low fire, sar is grown;
+      the other is kept on embers; the skins are lifted and laid onto the skin in the second pan — 3–4 times; the sheet
+      is lifted out and cut into squares; laid in ghee with small cardamom and misri, basted with milk, turned and
+      warmed. Sarabhaja: a 2–3-layer sheet fried a minute in ghee with cardamom and cooked in syrup.
+  hagiography: ["ЧЧ Мадхья 4.74", "ЧЧ Мадхья 14.29", "ЧЧ Антья 18.106"]
+  sources: ["Миштанна-пак 1898, с. 44–47 (сар, сарбхаджа)", "«Анубхашья» к ЧЧ Мадхья 14.29 (сарабхаджа, сарапури — Надия, Кришнанагар)"]
+  images: []
+  game: {model: "широкая сковорода с молоком на углях; квадраты слоёных пенок на блюде", where: ["puri/temple-kitchen"]}
+
+- id: mc-jagannatha-sweets
+  title: {ru: "Сладкий прасад Джаганнатхи: амрита-гутика, манохара и другие", en: "Jagannatha's sweet prasada: amrita-gutika, manohara and others"}
+  rubric: puri
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Мадхья 14.25–34 (балаганди-бхога: *манохара̄, ла̄д̣у… амр̣та-гут̣ика̄, кш̣ӣрса̄, амр̣та-ман̣д̣а̄, сараватӣ, кумд̣а̄-курӣ,
+      хари-валлабха, се̐оти, карпӯра, ма̄латӣ, нава̄та, амр̣ти, падмачини, чандрака̄нти, кха̄джа̄, вийари, кадма̄*), 15.221
+      (*амр̣та-гут̣ика̄, пит̣ха̄-па̄на̄* — прасад у Сарвабхаумы), 12.167, Антья 10.118–126 (амрита-гутика месяц не теряла вкуса).
+      Толкования — «Анубхашья» к Мадхья 14.28–31 и «Амрита-праваха-бхашья» к Мадхья 12.167. Многие названия неясны (сами
+      комментаторы ставят «?»).
+    en: >-
+      CC Madhya 14.25–34 (the Balagandi offering: manohara, ladu, amrita-gutika, kshirsa, amrita-manda, saravati,
+      kumda-kuri, hari-vallabha, seoti, karpura, malati, navata, amriti, padmachini, chandrakanti, khaja, viyari,
+      kadma), 15.221, 12.167, Antya 10.118–126. Glosses — Anubhashya on Madhya 14.28–31 and Amrita-pravaha-bhashya on
+      Madhya 12.167. Many names are unclear (the commentators themselves add "?").
+  text:
+    ru: >-
+      Сладости Пури — особый мир: их готовят храмовые повара и продают у Львиных ворот. «Амрита-гутика» — толстые пури,
+      опущенные в загущённое молоко; «манохара» — род сандеша; «кширса» — уваренное молоко; «амрити» — жаренные в гхи
+      спирали, вроде джилипи; «чандраканти» — тонкие урадовые блинчики в форме луны; «кадма» — твёрдые сахарно-рисовые
+      шарики; «падмачини» — сахар в форме лотоса. На празднике в саду Господь Сам раздавал этот прасад рядам преданных, а
+      оставшимся накормили нищих. Себе же Он однажды попросил «простых овощей», а сладкое велел дать спутникам.
+    en: >-
+      The sweets of Puri are a world of their own: temple cooks make them and they are sold at the Lion Gate.
+      "Amrita-gutika" are thick puris soaked in thickened milk; "manohara" is a kind of sandesh; "kshirsa" — reduced
+      milk; "amriti" — ghee-fried spirals like jilipi; "chandrakanti" — thin moon-shaped urad crêpes; "kadma" — hard
+      balls of sugar and rice flour; "padmachini" — lotus-shaped sugar. At the garden feast the Lord Himself served this
+      prasada to the rows of devotees, and the rest fed the poor. For Himself He once asked for "plain vegetables" and had
+      the sweets given to His companions.
+  hagiography: ["ЧЧ Мадхья 12.167", "ЧЧ Мадхья 14.25–45", "ЧЧ Мадхья 15.221", "ЧЧ Антья 10.118–126"]
+  sources: ["«Анубхашья» к ЧЧ Мадхья 14.28–31 (манохара, кширса, амрити, набат, чандраканти, бияри, кадма, тиле-кхаджа)",
+            "«Амрита-праваха-бхашья» к ЧЧ Мадхья 12.167 (амрита-гутика — толстые пури в кшире, «амрита-расавали»)",
+            "«Амрита-праваха-бхашья» к ЧЧ Мадхья 14.25 (ни-сакри — молочное, фрукты и пр., не варёное)"]
+  images: []
+  game: {model: "лотки с горками сладостей у Львиных ворот: спирали, шарики, плитки, сахарные лотосы", where: ["puri/lion-gate", "puri/jagannatha-vallabha-garden"]}
+  todo: "отождествить хари-валлабху, сеоти, кумда-кури, вияри (Hunter, Orissa 1872; Mitra 1880 — список храмовых сладостей)"
+
+- id: mc-chhana
+  title: {ru: "Чхана — творог в житиях", en: "Chhana — curd cheese in the biographies"}
+  rubric: kitchen
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      *на̄рикела-ш́асйа, чха̄на̄, ш́аркара̄ мадхура* — ЧЧ Мадхья 3.48 (кокос, чхана, сладкое с сахаром; в переводе — «простокваша»);
+      *чха̄на̄, па̄на̄, паид̣а…* — Мадхья 14.26 (в переводе — «йогурт»); *чха̄на̄-бад̣а̄* — 15.210 («жареные творожники»);
+      разночтение к Антья 10.119 — «падмачини, чхана» («Анубхашья»); «Анубхашья» к Антья 18.106: гангаджала и др. — «лепёшки
+      из творога (чханы) с сахаром». Джаянанда (ок. 1560): «творог-чхена», *чхана-бара*, *маччха-чхена*, *чхана* (фр. 10,
+      дв. 20, 25; Васу 1897). Значит, чхана как кушанье известна текстам XVI — нач. XVII в.; когда появился прессованный
+      сандеш из чханы — вопрос открыт (см. mc-sandesh).
+    en: >-
+      chhana with coconut and sugar — CC Madhya 3.48 (translated "curd"); chhana among Jagannatha's prasada — Madhya
+      14.26; chhana-bada — 15.210; a variant reading at Antya 10.119; Anubhashya on Antya 18.106: "cakes of chhana with
+      sugar". Jayananda (c. 1560): chhena, chhana-bara, maccha-chhena. So chhana as a dish is known to 16th — early
+      17th-c. texts; when pressed chhana sandesh appeared remains open (see mc-sandesh).
+  text:
+    ru: >-
+      Чхана — свежий творог, который получают, «разбивая» кипящее молоко кислой сывороткой и откидывая хлопья на ткань.
+      Привычно думать, что чхану в Бенгалии стали делать поздно, но жития её называют: у Адвайты Господу подали чхану
+      с кокосом и сахаром, у Сарвабхаумы — жареные «чхана-бады», а Джаянанда в перечне пира Лакшми-деви пишет о
+      «твороге-чхене». В игре чхана — белые комочки на листе или оладьи, а не узорный прессованный сандеш.
+    en: >-
+      Chhana is fresh curd cheese obtained by "breaking" boiling milk with sour whey and draining the curds on a cloth.
+      It is commonly thought that Bengal began making chhana late, but the biographies name it: at Advaita's the Lord was
+      served chhana with coconut and sugar, at Sarvabhauma's fried "chhana-badas", and Jayananda lists "chhena" at
+      Lakshmi-devi's feast. In the game chhana is white lumps on a leaf or fritters, not a moulded patterned sandesh.
+  recipe:
+    ru: >-
+      Реконструкция по Миштанна-пак 1898, с. 48–49: молоко вскипятить; рядом держать «дамбал» — старую кислую сыворотку
+      (чем старше, тем лучше); побрызгать сывороткой на дно сосуда, влить горячее молоко, снова сыворотку — и так
+      понемногу, пока хлопья не соберутся «пышным пластом»; откинуть на ткань. Чхана-бада: свежую чхану растереть, слепить
+      лепёшки и обжарить в гхи (ср. «чхана бхаджа», с. 49–50), по желанию — в сироп.
+    en: >-
+      Reconstruction after Mishtanna-pak 1898 pp. 48–49: boil milk; keep "dambal" — old sour whey (the older the
+      better) — at hand; sprinkle whey into the vessel, pour in hot milk, more whey, little by little, until the curds
+      gather "in a fluffy cake"; drain on a cloth. Chhana-bada: knead fresh chhana, shape cakes and fry in ghee (cf.
+      chhana-bhaja pp. 49–50), optionally into syrup.
+  hagiography: ["ЧЧ Мадхья 3.48", "ЧЧ Мадхья 14.26", "ЧЧ Мадхья 15.210", "ЧЧ Антья 10.119 (разночтение)",
+                "ЧЧ Антья 18.106", "Джаянанда, фр. 10, дв. 20, 25"]
+  sources: ["Миштанна-пак 1898, с. 48–50 (чхана на старой сыворотке; чхана-бхаджа)",
+            "«Анубхашья» к ЧЧ Антья 10.109 (разночтение «падма-чини, чхана»), к Антья 18.106"]
+  images: []
+  game: {model: "белые творожные комочки на листе; золотистые творожные оладьи", where: ["mishra-house/kitchen"],
+         notes: "не рисовать узорный прессованный сандеш — его форма поздняя"}
