@@ -165,6 +165,10 @@
      "to": "sp_kitchen_front"
     },
     {
+     "do": "focus",
+     "hut": "kitchen"
+    },
+    {
      "do": "walk",
      "who": "mishra",
      "to": "sp_mishra_home"
@@ -177,12 +181,12 @@
     {
      "do": "place",
      "who": "brahmana",
-     "at": "sp_offer"
+     "at": "sp_k_offer"
     },
     {
      "do": "face",
      "who": "brahmana",
-     "to": "hs_kitchen"
+     "to": "hs_leaf"
     },
     {
      "do": "pose",
@@ -202,13 +206,8 @@
     {
      "do": "walk",
      "who": "nimai",
-     "to": "sp_offer",
-     "run": true,
-     "offset": [
-      0.55,
-      0.0,
-      -0.35
-     ]
+     "to": "sp_k_nimai",
+     "run": true
     },
     {
      "do": "face",
@@ -239,13 +238,8 @@
     {
      "do": "walk",
      "who": "mishra",
-     "to": "sp_offer",
-     "run": true,
-     "offset": [
-      0.9,
-      0.0,
-      0.5
-     ]
+     "to": "sp_k_mishra",
+     "run": true
     },
     {
      "do": "pose",
@@ -345,6 +339,10 @@
    "time": "day",
    "steps": [
     {
+     "do": "focus",
+     "hut": ""
+    },
+    {
      "do": "place",
      "who": "neighbor",
      "at": "sp_neighbor_woman"
@@ -428,6 +426,10 @@
    "time": "dusk",
    "steps": [
     {
+     "do": "focus",
+     "hut": "kitchen"
+    },
+    {
      "do": "time",
      "value": "dusk",
      "sec": 3.0
@@ -435,12 +437,12 @@
     {
      "do": "place",
      "who": "brahmana",
-     "at": "sp_offer"
+     "at": "sp_k_offer"
     },
     {
      "do": "face",
      "who": "brahmana",
-     "to": "hs_kitchen"
+     "to": "hs_leaf"
     },
     {
      "do": "pose",
@@ -470,13 +472,8 @@
     {
      "do": "walk",
      "who": "nimai",
-     "to": "sp_offer",
-     "run": true,
-     "offset": [
-      0.55,
-      0.0,
-      -0.35
-     ]
+     "to": "sp_k_nimai",
+     "run": true
     },
     {
      "do": "face",
@@ -502,20 +499,15 @@
     {
      "do": "walk",
      "who": "nimai",
-     "to": "sp_ghar_door",
+     "to": "sp_g_inside",
      "run": true,
      "nowait": true
     },
     {
      "do": "walk",
      "who": "mishra",
-     "to": "sp_offer",
-     "run": true,
-     "offset": [
-      1.2,
-      0.0,
-      0.8
-     ]
+     "to": "sp_k_mishra",
+     "run": true
     },
     {
      "do": "pose",
@@ -531,12 +523,7 @@
     {
      "do": "walk",
      "who": "relative",
-     "to": "sp_offer",
-     "offset": [
-      1.8,
-      0.0,
-      0.2
-     ]
+     "to": "sp_k_door"
     },
     {
      "do": "pose",
@@ -573,12 +560,7 @@
     {
      "do": "walk",
      "who": "vishvarupa",
-     "to": "sp_offer",
-     "offset": [
-      0.4,
-      0.0,
-      1.3
-     ]
+     "to": "sp_k_vishvarupa"
     },
     {
      "do": "face",
@@ -665,6 +647,10 @@
    "time": "night",
    "steps": [
     {
+     "do": "focus",
+     "hut": "ghar"
+    },
+    {
      "do": "time",
      "value": "night",
      "sec": 3.0
@@ -672,12 +658,12 @@
     {
      "do": "place",
      "who": "brahmana",
-     "at": "sp_offer"
+     "at": "sp_k_offer"
     },
     {
      "do": "face",
      "who": "brahmana",
-     "to": "hs_kitchen"
+     "to": "hs_leaf"
     },
     {
      "do": "pose",
@@ -692,7 +678,7 @@
     {
      "do": "place",
      "who": "mishra",
-     "at": "sp_sleep1"
+     "at": "sp_g_door_out"
     },
     {
      "do": "place",
@@ -702,7 +688,12 @@
     {
      "do": "place",
      "who": "nimai",
-     "at": "sp_ghar_door"
+     "at": "sp_g_bed"
+    },
+    {
+     "do": "pose",
+     "who": "nimai",
+     "pose": "sleep"
     },
     {
      "do": "place",
@@ -713,6 +704,10 @@
      "do": "pose",
      "who": "nidra",
      "pose": "float"
+    },
+    {
+     "do": "celestial_hint",
+     "text": "Дом наполняется глубокой, неземной тишиной… Кто-то незримый здесь. Нажмите Tab (или «Небо»), чтобы увидеть."
     },
     {
      "do": "hide",
@@ -744,14 +739,18 @@
      "text": "Видишь её? Это Нидра-деви. Сегодня её сон — служение: спят все, кроме того, кому назначено видеть. Не шуми."
     },
     {
+     "do": "pose",
+     "who": "nimai",
+     "pose": "idle"
+    },
+    {
+     "do": "focus",
+     "hut": "kitchen"
+    },
+    {
      "do": "walk",
      "who": "nimai",
-     "to": "sp_offer",
-     "offset": [
-      0.55,
-      0.0,
-      -0.35
-     ]
+     "to": "sp_k_nimai"
     },
     {
      "do": "face",
@@ -827,9 +826,13 @@
      "ref": "ЧБ Ади 5.151–153"
     },
     {
+     "do": "focus",
+     "hut": "ghar"
+    },
+    {
      "do": "walk",
      "who": "nimai",
-     "to": "sp_ghar_door"
+     "to": "sp_g_bed"
     },
     {
      "do": "pose",
@@ -840,6 +843,10 @@
      "do": "narrate",
      "text": "Вернувшись, Господь уснул, внешне ничем не отличаясь от простого малыша.",
      "ref": "ЧБ Ади 5.155"
+    },
+    {
+     "do": "focus",
+     "hut": "kitchen"
     },
     {
      "do": "pose",

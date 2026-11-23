@@ -1,7 +1,7 @@
 # Пробная сцена: двор дома Джаганнатхи Мишры в сумерках пхалгуна-пурнимы (Blender 4.5, Cycles).
 # Запуск: blender -b -P build_courtyard.py -- --assets <папка Poly Haven> --out probe.png [--res 50] [--samples 64]
 # Ассеты — Poly Haven (CC0); постройки моделируются здесь процедурно.
-import bpy, bmesh, math, os, sys, random
+import bpy, bmesh, math, os, sys, random, json
 from mathutils import Vector, Matrix
 
 argv = sys.argv[sys.argv.index('--') + 1:] if '--' in sys.argv else []
@@ -806,7 +806,95 @@ for L_ in bpy.data.lights:
 for mname in ('flame',):
     M[mname].node_tree.nodes['Principled BSDF'].inputs['Emission Strength'].default_value *= max(LAMPS, 0.15)
 
-# ---------------------------------------------------------------- точки для игры (empties): предметы и места
+# ---------------------------------------------------------------- интерьеры (видны в «разрезе»: без кровли, стены до подоконника)
+CUT = bool(arg('--cutaway', 0))
+HUT_ID = {'ghar': 1, 'kitchen': 2, 'sutika': 3}
+M['mat_straw'] = tex_mat('mat_straw', 'reed_roof_04', scale=4.0, tint=(1.0, 0.85, 0.55), val=1.0)
+M['pillow'] = flat_mat('pillow', (0.86, 0.82, 0.74), 0.9)
+M['wood_dark'] = tex_mat('wood_dark', 'bark_brown_02', scale=3, tint=(0.35, 0.24, 0.16), sat=0.5)
+M['rice'] = flat_mat('rice', (0.95, 0.93, 0.86), 0.7)
+M['shalagram'] = flat_mat('shalagram', (0.03, 0.03, 0.035), 0.3)
+M['fire'] = flat_mat('fire', (1, 0.5, 0.15), 0.5, emit=(1.0, 0.45, 0.12), strength=30.0)
+
+def L_(name, pos, energy, col=(1.0, 0.55, 0.2), size=0.1):
+    if not CUT: return
+    l = bpy.data.lights.new(name, 'POINT'); l.energy = energy; l.color = col; l.shadow_soft_size = size
+    o = bpy.data.objects.new(name, l); o.location = pos; link(o)
+
+def interior(hut, cx, cy, rot, plinth=0.55):
+    rm = Matrix.Rotation(rot, 4, 'Z')
+    def P(x, y, z=0):
+        v = rm @ Vector((x, y, z)); return Vector((cx + v.x, cy + v.y, plinth + v.z))
+    pre = 'int_' + hut + '_'
+    if hut == 'kitchen':
+        box(pre + 'chula', P(-1.5, 0.75, 0.18), (0.75, 0.5, 0.36), M['plinth'], 0.08, rot)
+        box(pre + 'fire', P(-1.5, 0.48, 0.12), (0.22, 0.04, 0.14), M['fire'], 0.02, rot)
+        cyl(pre + 'chula_pot', P(-1.5, 0.75, 0.48), 0.2, 0.26, M['clay_lamp'], 14, r2=0.14)
+        L_(pre + 'fire_l', P(-1.5, 0.35, 0.25), 80, (1.0, 0.45, 0.15), 0.15)
+        for i, (x, y) in enumerate(((-0.6, 1.0), (-0.3, 1.05), (0.0, 1.0), (1.6, 0.9), (1.85, 0.6))):
+            cyl(pre + 'pot', P(x, y, 0.15), 0.13 if i < 3 else 0.17, 0.3, M['clay_lamp'], 14, r2=0.09)
+        woodpile(P(1.6, -0.5, -0.55), rot)
+        # место подношения: банановый лист с рисом, чашечка; сиденье брахмана
+        bm = bmesh.new(); bmesh.ops.create_grid(bm, x_segments=1, y_segments=1, size=0.5)
+        leaf = mesh_obj(pre + 'leaf', bm, M['banana_leaf']); leaf.location = P(0.45, 0.45, 0.012); leaf.scale = (0.75, 0.45, 1); leaf.rotation_euler.z = rot
+        bm = bmesh.new(); bmesh.ops.create_uvsphere(bm, u_segments=12, v_segments=6, radius=0.11)
+        rice = mesh_obj(pre + 'rice', bm, M['rice']); rice.location = P(0.45, 0.45, 0.01); rice.scale = (1, 1, 0.45)
+        cyl(pre + 'cup', P(0.75, 0.5, 0.04), 0.05, 0.06, M['clay_lamp'], 10, r2=0.06)
+        box(pre + 'asana', P(0.45, -0.25, 0.01), (0.55, 0.55, 0.02), M['mat_straw'], 0, rot)
+        for k in range(3):   # чашечки из листьев вокруг риса
+            cyl(pre + 'leafcup', P(0.2 + 0.14 * k, 0.72, 0.03), 0.045, 0.05, M['banana_leaf'], 8, r2=0.06)
+        diya(P(0.1, 0.6, 0.0), 12)
+        L_(pre + 'lamp', P(0.1, 0.4, 0.5), 25)
+        # шил-нора (камень и валик), кула (веялка у стены), корзина риса, калаши
+        box(pre + 'shil', P(-0.8, -0.6, 0.03), (0.45, 0.25, 0.06), M['whitewash'], 0.01, rot)
+        o = cyl(pre + 'shil_roller', P(-0.8, -0.6, 0.09), 0.035, 0.22, M['whitewash'], 10); o.rotation_euler = (0, math.pi / 2, rot)
+        o = box(pre + 'kula', P(1.25, 1.12, 0.3), (0.55, 0.04, 0.5), M['bamboo'], 0.02, rot); o.rotation_euler.x = -0.25
+        cyl(pre + 'basket', P(-1.75, -0.85, 0.15), 0.22, 0.3, M['bamboo'], 14, r2=0.18)
+        cyl(pre + 'basket_rice', P(-1.75, -0.85, 0.31), 0.19, 0.03, M['rice'], 14)
+        cyl(pre + 'kalasi', P(1.85, -1.0, 0.2), 0.17, 0.38, M['clay_lamp'], 14, r2=0.1)
+    elif hut == 'ghar':
+        for x in (1.0, 2.25):   # циновки и подушки (здесь спят)
+            box(pre + 'mat', P(x, 0.4, 0.01), (1.0, 1.9, 0.02), M['mat_straw'], 0, rot)
+            o = cyl(pre + 'pillow', P(x, 1.15, 0.07), 0.08, 0.6, M['pillow'], 12); o.rotation_euler = (0, math.pi / 2, rot)
+        box(pre + 'chest', P(-1.2, 1.25, 0.25), (0.9, 0.5, 0.5), M['wood_dark'], 0.03, rot)
+        # домашний алтарь: скамеечка, Шалаграма, листья туласи, лампада
+        box(pre + 'altar', P(-2.5, 1.1, 0.18), (0.6, 0.45, 0.36), M['wood_dark'], 0.02, rot)
+        bm = bmesh.new(); bmesh.ops.create_uvsphere(bm, u_segments=12, v_segments=8, radius=0.05)
+        sh = mesh_obj(pre + 'shalagram', bm, M['shalagram']); sh.location = P(-2.5, 1.1, 0.41)
+        for k in range(5):
+            cyl(pre + 'tulasi_leaf', P(-2.5 + 0.06 * math.cos(k), 1.1 + 0.06 * math.sin(k), 0.37), 0.02, 0.005, M['banana_leaf'], 6)
+        bm = bmesh.new(); bmesh.ops.create_uvsphere(bm, u_segments=12, v_segments=8, radius=0.05)
+        cn = mesh_obj(pre + 'conch', bm, M['pillow']); cn.location = P(-2.32, 1.18, 0.4); cn.scale = (1.6, 0.9, 0.8)
+        diya(P(-2.2, 0.85, 0.0), 14)
+        cyl(pre + 'kalasi', P(-2.7, -1.2, 0.2), 0.17, 0.38, M['clay_lamp'], 14, r2=0.1)
+        L_(pre + 'lamp', P(-2.2, 0.7, 0.6), 30)
+        L_(pre + 'lamp2', P(1.6, -0.6, 1.2), 18)
+    elif hut == 'sutika':
+        box(pre + 'mat', P(0.2, 0.2, 0.01), (1.0, 1.6, 0.02), M['mat_straw'], 0, rot)
+        L_(pre + 'lamp', P(-0.8, 0.5, 0.6), 15)
+
+interior('ghar', -0.5, 7.2, 0.0)
+interior('kitchen', -7.4, 0.5, math.pi / 2)
+interior('sutika', 6.2, 6.6, math.radians(-20))
+
+def hut_of(name):
+    for h in HUT_ID:
+        if name.startswith(h + '_') or name.startswith('int_' + h + '_'): return h
+    return None
+for o in list(sc.objects):
+    h = hut_of(o.name)
+    if not h: continue
+    if not o.name.startswith(h + '_plinth') and not o.name.startswith(h + '_post'):
+        o.pass_index = HUT_ID[h]
+    if CUT:
+        if any(k in o.name for k in ('_roof', '_lintel', '_ceil', '_door', '_frame')):
+            o.hide_render = True
+        elif '_wall' in o.name and o.type == 'MESH':
+            hgt = o.dimensions.z if o.dimensions.z > 0 else 2.3
+            bottom = o.location.z - hgt / 2; cut = 0.9
+            o.scale.z = cut / hgt; o.location.z = bottom + cut / 2
+
+
 SPOTS = {
     # предметы кодекса
     'hs_tulasi': (0.3, 0.6, 1.2), 'hs_alpana': (0.3, -1.5, 0.05), 'hs_diya': (-2.5, -3.0, 0.1),
@@ -823,6 +911,14 @@ SPOTS = {
     'sp_shachi_home': (1.2, 4.4, 0.55), 'sp_relative': (-2.6, -1.0, 0.0), 'sp_vishvarupa_in': (5.5, -8.0, 0.0),
     'sp_sleep1': (-2.6, 4.3, 0.55), 'sp_sleep2': (0.6, 4.3, 0.55), 'sp_sleep3': (2.0, 4.6, 0.55),
     'sp_player_start': (3.0, -4.5, 0.0), 'sp_vision': (-4.9, 0.0, 0.0),
+    # внутри: кухня (повёрнута на 90°: локальные (x, y) -> (cx - y, cy + x)), комната дома
+    'sp_k_offer': (-7.4 + 0.25, 0.5 + 0.45, 0.55), 'sp_k_cook': (-7.4 - 0.4, 0.5 - 1.5, 0.55), 'sp_k_nimai': (-7.4 - 0.1, 0.5 + 0.95, 0.55),
+    'sp_k_mishra': (-7.4 + 0.9, 0.5 + 0.9, 0.55), 'sp_k_door': (-5.75, 0.5, 0.55), 'sp_k_vishvarupa': (-7.4 + 0.9, 0.5 - 0.3, 0.55),
+    'sp_g_bed': (-0.5 + 1.0, 7.2 + 0.2, 0.57), 'sp_g_bed2': (-0.5 + 2.25, 7.2 + 0.2, 0.57), 'sp_g_door_out': (-0.8, 4.6, 0.55),
+    'sp_g_inside': (-0.5, 6.4, 0.55), 'hs_altar': (-3.0, 8.3, 0.9), 'hs_chula_in': (-8.15, -1.0, 0.9), 'hs_leaf': (-7.85, 0.95, 0.65),
+    'hs_offer': (-7.15, 0.95, 0.6), 'hs_kalasi': (-6.4, 2.35, 0.8), 'hs_shilnora': (-6.8, -0.3, 0.65), 'hs_kula': (-8.5, 1.75, 0.9),
+    'hs_ricebasket': (-6.65, -1.25, 0.8), 'hs_conch': (-2.82, 8.38, 0.95), 'hs_bed': (0.5, 7.6, 0.6), 'hs_chest': (-1.7, 8.45, 0.8),
+    'hs_gdoor': (-0.5, 5.2, 1.3),
 }
 for k, v in SPOTS.items():
     e = bpy.data.objects.new(k, None); e.location = v; link(e)
@@ -831,7 +927,7 @@ EXPORT = arg('--export', '')
 if EXPORT:
     import json
     os.makedirs(EXPORT, exist_ok=True)
-    keep = ('_plinth', '_wall', '_lintel', '_roof', '_post', '_frame', '_door', '_inside', '_band', 'tm_', 'fence', 'fpost',
+    keep = ('_plinth', '_wall', '_lintel', '_roof', '_post', '_frame', '_door', '_inside', '_band', '_ceil', 'int_', 'tm_', 'fence', 'fpost',
             'shed_', 'haystack', 'hay_pole', 'pond', 'bank', 'ghat', 'palm_trunk', 'palm_crown', 'banana_stem',
             'banana_leaves', 'log', 'line_post', 'sari', 'diya', 'coconut')
     # плоская земля вместо травяной (без модификатора)
@@ -866,6 +962,57 @@ if DEPTH:   # карта глубины для ControlNet (ближе — све
     fo = ct.nodes.new('CompositorNodeOutputFile'); fo.base_path = os.path.dirname(os.path.abspath(DEPTH))
     fo.file_slots[0].path = os.path.splitext(os.path.basename(DEPTH))[0] + '_'
     ct.links.new(inv.outputs[0], fo.inputs[0])
+
+HSMASK = arg('--hsmask', '')
+# предметы кодекса -> объекты сцены (по началу имени; сначала частные правила)
+HS_RULES = [
+    ('hs_gdoor', ('ghar_door', 'ghar_frame')), ('hs_chula_in', ('int_kitchen_chula', 'int_kitchen_fire')),
+    ('hs_leaf', ('int_kitchen_leaf', 'int_kitchen_rice', 'int_kitchen_cup')), ('hs_offer', ('int_kitchen_asana',)),
+    ('hs_kalasi', ('int_kitchen_kalasi', 'int_ghar_kalasi')), ('hs_shilnora', ('int_kitchen_shil',)), ('hs_kula', ('int_kitchen_kula',)),
+    ('hs_ricebasket', ('int_kitchen_basket',)), ('hs_altar', ('int_ghar_altar', 'int_ghar_shalagram', 'int_ghar_tulasi')),
+    ('hs_conch', ('int_ghar_conch',)), ('hs_bed', ('int_ghar_mat', 'int_ghar_pillow')), ('hs_chest', ('int_ghar_chest',)),
+    ('hs_handi', ('int_kitchen_pot', 'inst_src_ceramic_pot', 'inst_src_planter_pot_clay')), ('hs_woodpile', ('log',)),
+    ('hs_tulasi', ('tm_',)), ('hs_alpana', ('alpana_disc',)), ('hs_diya', ('diya', 'flame')), ('hs_brass', ('inst_src_brass_pot_01',)),
+    ('hs_chala', ('ghar_',)), ('hs_kitchen', ('kitchen_',)), ('hs_dung', ('dung',)), ('hs_haystack', ('haystack', 'hay_pole')),
+    ('hs_pond', ('pond', 'bank', 'ghat')), ('hs_sari', ('sari', 'line_post')), ('hs_banana', ('banana_',)),
+    ('hs_bananas', ('inst_src_bananas',)), ('hs_palm', ('palm_', 'coconut')), ('hs_bamboo', ('bamboo_',)), ('hs_shed', ('shed_',)),
+    ('hs_lantern', ('inst_src_brass_diya_lantern',)), ('hs_stool', ('inst_src_wooden_stool_02',)), ('hs_fence', ('fence', 'fpost')),
+]
+HS_IDS = {}
+for h, _ in HS_RULES:
+    if h not in HS_IDS: HS_IDS[h] = len(HS_IDS) + 1
+MASK = arg('--mask', '')
+if MASK or HSMASK:   # маски: дома (какая хижина) или предметы (какой предмет кодекса), по индексу объекта
+    sc.view_settings.view_transform = 'Raw'; sc.view_settings.look = 'None'; sc.view_settings.exposure = 0
+    for o in sc.objects: o.pass_index = 0
+    if HSMASK:
+        bm = bmesh.new(); bmesh.ops.create_circle(bm, cap_ends=True, segments=64, radius=2.45)
+        ad = mesh_obj('alpana_disc', bm, M['yard']); ad.location = (0.3, 0.6, 0.03)
+        for o in list(sc.objects):
+            for h, pre in HS_RULES:
+                if o.name.startswith(pre) or (h == 'hs_diya' and any(k in o.name for k in pre)):
+                    o.pass_index = HS_IDS[h]; break
+        for c in bpy.data.collections:   # исходники Poly Haven для экземпляров
+            for h, pre in HS_RULES:
+                if any(('inst_' + c.name).startswith(p_) for p_ in pre):
+                    for o in c.objects: o.pass_index = HS_IDS[h]
+    else:
+        for o in sc.objects:
+            h = hut_of(o.name)
+            if h and not o.name.startswith(h + '_plinth') and not o.name.startswith(h + '_post'): o.pass_index = HUT_ID[h]
+    json.dump(HS_IDS, open(os.path.splitext(os.path.abspath(HSMASK or MASK))[0] + '_ids.json', 'w'))
+    sc.view_layers[0].use_pass_object_index = True
+    sc.cycles.samples = 1; sc.cycles.use_denoising = False; sc.render.filter_size = 0.01
+    dv = ct.nodes.new('CompositorNodeMath'); dv.operation = 'DIVIDE'; dv.inputs[1].default_value = 255.0
+    ct.links.new(rl.outputs['IndexOB'], dv.inputs[0])
+    fo = ct.nodes.new('CompositorNodeOutputFile'); fo.base_path = os.path.dirname(os.path.abspath(HSMASK or MASK))
+    fo.file_slots[0].path = os.path.splitext(os.path.basename(HSMASK or MASK))[0] + '_'
+    fo.format.color_mode = 'BW'; fo.format.color_depth = '8'
+    ct.links.new(dv.outputs[0], fo.inputs[0])
+
+if False:   # (старый вариант маски домов)
+    sc.view_layers[0].use_pass_object_index = True
+    sc.cycles.samples = 1; sc.cycles.use_denoising = False; sc.render.filter_size = 0.01
 
 if SAVE:
     bpy.ops.wm.save_as_mainfile(filepath=os.path.abspath(SAVE))

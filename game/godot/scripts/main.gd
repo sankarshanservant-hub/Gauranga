@@ -142,7 +142,7 @@ func _setup_world() -> void:
 	add_child(nav_region)
 	var scene: Node = load("res://assets/proxy/courtyard_proxy.glb").instantiate()
 	nav_region.add_child(scene)
-	var nav_keys := ["proxy_ground", "_plinth", "_wall", "_lintel", "tm_", "haystack", "fence", "fpost", "shed_post",
+	var nav_keys := ["proxy_ground", "_plinth", "_wall", "_inside", "int_", "tm_", "haystack", "fence", "fpost", "shed_post",
 		"palm_trunk", "banana_stem", "log", "line_post", "ghat", "hay_pole"]
 	for n in scene.find_children("*", "", true, false):
 		if n is Camera3D:

@@ -33,6 +33,8 @@ button:hover { background: var(--btn-hi); }
 button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 #btns button { flex: 1; text-align: center; font-size: 19px; padding: 8px 6px; }
 #btns button.on { background: #5a4520; }
+#btns button.pulse { animation: pulse 1.2s ease-in-out infinite; }
+@keyframes pulse { 50% { background: #8a6a2a; box-shadow: 0 0 18px rgba(255, 220, 140, 0.8); } }
 #percept { left: 24px; top: 980px; width: 320px; pointer-events: none; }
 #percept .lbl { font-family: var(--f-display); font-size: 18px; color: var(--gold); }
 #percept .bar { height: 14px; background: rgba(0,0,0,0.5); border-radius: 3px; overflow: hidden; }
@@ -161,17 +163,35 @@ const TIMES = {
   dusk: { tex: 'bg/courtyard_dusk.jpg', sun: 1.3, sunCol: 0xffb877, amb: 0.65, ambCol: 0x8c7f99, lamps: 2.5 },
   night: { tex: 'bg/courtyard_night.jpg', sun: 0.35, sunCol: 0x9db3ff, amb: 0.28, ambCol: 0x5a6699, lamps: 6 },
 };
-const bgTex = {};
-await Promise.all(Object.keys(TIMES).map(async (k) => { bgTex[k] = await loadTex(TIMES[k].tex); }));
+const bgTex = {}, cutTex = {};
+await Promise.all(Object.keys(TIMES).map(async (k) => {
+  bgTex[k] = await loadTex(TIMES[k].tex);
+  cutTex[k] = await new Promise((res) => texLoader.load(TIMES[k].tex.replace('courtyard_', 'cut_'), (t) => { t.colorSpace = THREE.NoColorSpace; t.minFilter = THREE.LinearFilter; t.generateMipmaps = false; res(t); }, undefined, () => res(bgTex[k])));
+}));
+// маски из рендера: дома (1 — дом, 2 — кухня, 3 — родильная) и предметы кодекса (номера — data/hs_ids.json)
+const loadMask = (p) => new Promise((res) => texLoader.load(p, (t) => { t.colorSpace = THREE.NoColorSpace; t.minFilter = t.magFilter = THREE.NearestFilter; t.generateMipmaps = false; res(t); }));
+const [hutMaskT, hsMaskT, hsCutMaskT] = await Promise.all(['masks/hut.png', 'masks/hs.png', 'masks/hs_cut.png'].map(loadMask));
+const maskPx = (t) => { const c = document.createElement('canvas'); c.width = t.image.width; c.height = t.image.height;
+  const g = c.getContext('2d', { willReadFrequently: true }); g.drawImage(t.image, 0, 0); return { w: c.width, h: c.height, d: g.getImageData(0, 0, c.width, c.height).data }; };
+const HUTPX = maskPx(hutMaskT), HSPX = maskPx(hsMaskT), HSCUTPX = maskPx(hsCutMaskT);
+const HS_IDS = await j('data/hs_ids.json'); const HS_BY_ID = {}; for (const k in HS_IDS) HS_BY_ID[HS_IDS[k]] = k;
+const HUTS = { ghar: 1, kitchen: 2, sutika: 3 };
 const origVP = new THREE.Matrix4().multiplyMatrices(cam.projectionMatrix, cam.matrixWorldInverse);
 const CAM0 = { pos: cam.position.clone(), right: new THREE.Vector3(1, 0, 0).applyQuaternion(cam.quaternion), up: new THREE.Vector3(0, 1, 0).applyQuaternion(cam.quaternion) };
-const bgUniforms = { bgA: { value: bgTex.day }, bgB: { value: bgTex.day }, mixv: { value: 0 }, res: { value: new THREE.Vector2(W, H) }, origVP: { value: origVP } };
+const bgUniforms = { bgA: { value: bgTex.day }, bgB: { value: bgTex.day }, cutA: { value: cutTex.day }, cutB: { value: cutTex.day }, hutMask: { value: hutMaskT },
+  cut1: { value: 0 }, cut2: { value: 0 }, mixv: { value: 0 }, res: { value: new THREE.Vector2(W, H) }, origVP: { value: origVP } };
 function updateRes() { const v = new THREE.Vector2(); renderer.getDrawingBufferSize(v); bgUniforms.res.value.copy(v); }
 const bgMat = new THREE.ShaderMaterial({
   uniforms: bgUniforms, side: THREE.DoubleSide,
   vertexShader: 'varying vec3 vW; void main(){ vec4 w = modelMatrix * vec4(position, 1.0); vW = w.xyz; gl_Position = projectionMatrix * viewMatrix * w; }',
   // прокси-геометрия рисует пиксели фона: точку мира проецируем исходной камерой рендера — точно при любом приближении
-  fragmentShader: 'uniform sampler2D bgA, bgB; uniform float mixv; uniform mat4 origVP; varying vec3 vW; void main(){ vec4 c = origVP * vec4(vW, 1.0); vec2 uv = c.xy / c.w * 0.5 + 0.5; gl_FragColor = vec4(mix(texture2D(bgA, uv).rgb, texture2D(bgB, uv).rgb, mixv), 1.0); }',
+  // в области дома, который сейчас «в разрезе», берём рендер без кровли и с низкими стенами
+  fragmentShader: `uniform sampler2D bgA, bgB, cutA, cutB, hutMask; uniform float mixv, cut1, cut2; uniform mat4 origVP; varying vec3 vW;
+    void main(){ vec4 c = origVP * vec4(vW, 1.0); vec2 uv = c.xy / c.w * 0.5 + 0.5;
+      float h = floor(texture2D(hutMask, uv).r * 255.0 + 0.5);
+      bool cut = h > 0.5 && (abs(h - cut1) < 0.5 || abs(h - cut2) < 0.5);
+      vec3 n = mix(texture2D(bgA, uv).rgb, texture2D(bgB, uv).rgb, mixv), k = mix(texture2D(cutA, uv).rgb, texture2D(cutB, uv).rgb, mixv);
+      gl_FragColor = vec4(cut ? k : n, 1.0); }`,
 });
 const proxies = [];
 // модель лежит как glTF-JSON с данными в base64; собираем из неё GLB в памяти (без лишних запросов)
@@ -189,7 +209,35 @@ async function loadProxy(url) {
 }
 const gltf = await loadProxy('proxy/courtyard_proxy.json');
 gltf.scene.traverse((o) => { if (o.isMesh) { o.material = bgMat; proxies.push(o); } });
-scene.add(gltf.scene);
+scene.add(gltf.scene); gltf.scene.updateMatrixWorld(true);
+const HUTPARTS = {};
+for (const o of proxies) {
+  const h = Object.keys(HUTS).find((k) => o.name.startsWith(k + '_')); if (!h) continue;
+  const P = HUTPARTS[h] ?? (HUTPARTS[h] = { hide: [], walls: [] });
+  if (/_roof|_lintel|_ceil|_door|_frame/.test(o.name)) P.hide.push(o);
+  else if (/_wall/.test(o.name)) { const b = new THREE.Box3().setFromObject(o); P.walls.push({ o, bottom: b.min.y, hgt: b.max.y - b.min.y, pos: o.position.y, sc: o.scale.y }); }
+}
+function setCut(h, on) {
+  const P = HUTPARTS[h]; if (!P) return;
+  for (const o of P.hide) o.visible = !on;
+  for (const w of P.walls) { const k = on ? 0.9 / w.hgt : 1; w.o.scale.y = w.sc * k; w.o.position.y = on ? w.bottom + (w.pos - w.bottom) * k : w.pos; }
+}
+let cutState = { a: '', b: '' };
+function applyCut(a, b) {
+  if (a === cutState.a && b === cutState.b) return;
+  for (const h in HUTS) setCut(h, h === a || h === b);
+  bgUniforms.cut1.value = HUTS[a] ?? 0; bgUniforms.cut2.value = HUTS[b] ?? 0; cutState = { a, b };
+}
+// где находится точка: в какой комнате (по контурам комнат, координаты Blender x, y; повороты хижин)
+const ROOMS = { ghar: [-0.5, 7.2, 0, 3.15, 1.65], kitchen: [-7.4, 0.5, Math.PI / 2, 2.15, 1.35], sutika: [6.2, 6.6, -20 * Math.PI / 180, 1.35, 1.05] };
+function roomAt(p) {
+  const bx = p.x, by = -p.z;
+  for (const h in ROOMS) { const [cx, cy, r, hw, hd] = ROOMS[h]; const dx = bx - cx, dy = by - cy;
+    const lx = dx * Math.cos(-r) - dy * Math.sin(-r), ly = dx * Math.sin(-r) + dy * Math.cos(-r);
+    if (Math.abs(lx) < hw + 0.15 && Math.abs(ly) < hd + 0.15 && p.y > 0.3) return h; }
+  return '';
+}
+let focusHut = '';
 
 const sun = new THREE.DirectionalLight(TIMES.day.sunCol, TIMES.day.sun);
 sun.position.set(-8, 14, 6); scene.add(sun);
@@ -281,8 +329,8 @@ sub('pray15', 0, 110); sub('pickup', 20, 140); sub('kneel', 0, 140);
 const NAT = { walk: 1.66, oldwalk: 0.55, run: 4.37, run2: 4.4, carry: 0 };
 // поза игры -> клип Mixamo [клип, повтор, скорость]
 const POSE = {
-  idle: ['idle2', true, 1], walk: ['walk', true, 1], run: ['run', true, 1], sit: ['sit', true, 1], meditate: ['pray15_s', true, 0.8],
-  cook: ['sit', true, 1], eat: ['pickup_s', true, 1], sleep: ['sleep', true, 0.6], lie: ['laysleep', true, 0.5], faint: ['faint', false, 1],
+  idle: ['idle2', true, 1], walk: ['walk', true, 1], run: ['run', true, 1], sit: ['sit', true, 1], meditate: ['pray15_s', 'pp', 0.45],
+  cook: ['sit', true, 1], eat: ['pickup_s', 'pp', 0.55], sleep: ['sleep', true, 0.6], lie: ['laysleep', true, 0.5], faint: ['faint', false, 1],
   dance: ['victory', true, 1], grief: ['kneel_s', true, 1], bow: ['bow', false, 1], angry: ['angry', true, 1], carry: ['carry', true, 1],
   plead: ['plead', true, 1], float: ['idle2', true, 0.6], talk: ['talk', true, 1], joy: ['joyjump', true, 1],
 };
@@ -365,11 +413,13 @@ class Figure {
     if (p === 'walk' && this.walkClip) name = this.walkClip;
     const clip = CLIPS[name]; if (!clip) return;
     const next = this.actions[name] ?? (this.actions[name] = this.mixer.clipAction(clip));
-    next.reset(); next.setLoop(loop ? THREE.LoopRepeat : THREE.LoopOnce, Infinity); next.clampWhenFinished = !loop;
-    if ((p === 'walk' || p === 'run') && NAT[name]) {
+    next.reset(); next.setLoop(loop === 'pp' ? THREE.LoopPingPong : loop ? THREE.LoopRepeat : THREE.LoopOnce, Infinity); next.clampWhenFinished = !loop;
+    // рассинхронизация: у каждого своя фаза и чуть свой темп (спящие не ворочаются хором)
+    if (loop && p !== 'walk' && p !== 'run') next.time = Math.random() * clip.duration;
+    if ((p === 'walk' || p === 'run') && NAT[name] && !this.carrying) {
       const nat = NAT[name] * this.h / 1.8, move = this.speed * (p === 'run' ? 1.9 : 1);
       next.timeScale = THREE.MathUtils.clamp(move / nat, 0.5, 2.2);
-    } else next.timeScale = speed;
+    } else next.timeScale = speed * (loop && p !== 'talk' ? 0.9 + Math.random() * 0.2 : 1);
     next.enabled = true; next.setEffectiveWeight(1);
     if (this.current && this.current !== next) { next.crossFadeFrom(this.current, 0.3, false); }
     next.play(); this.current = next;
@@ -427,10 +477,35 @@ const marker = new THREE.Group();
   m2.position.y = 1.5; marker.add(m2); }
 marker.visible = false; scene.add(marker);
 // значки предметов
-const hsIds = Object.keys(codex.items).filter((k) => spots[k]);
+const hsIds = Object.keys(codex.items).filter((k) => spots[k] || HS_IDS[k]);
 const hsMarks = {};
-for (const id of hsIds) { const m = new THREE.Mesh(new THREE.OctahedronGeometry(0.16), new THREE.MeshBasicMaterial({ color: 0xffd98a, depthTest: false, transparent: true, opacity: 0.95 }));
+for (const id of hsIds.filter((k) => spots[k])) { const m = new THREE.Mesh(new THREE.OctahedronGeometry(0.16), new THREE.MeshBasicMaterial({ color: 0xffd98a, depthTest: false, transparent: true, opacity: 0.95 }));
   m.renderOrder = 11; m.position.copy(spots[id]).add(new THREE.Vector3(0, 0.55, 0)); m.visible = false; scene.add(m); hsMarks[id] = m; }
+
+// ---------------------------------------------------------------- золотой контур предмета под курсором (по маске рендера)
+const olScene = new THREE.Scene(), olCam = new THREE.OrthographicCamera(-1, 1, 1, -1, 0, 1);
+const olUni = { hs: { value: hsMaskT }, hsCut: { value: hsCutMaskT }, hut: { value: hutMaskT }, cut1: { value: 0 }, cut2: { value: 0 },
+  target: { value: 0 }, all: { value: 0 }, z: { value: 1 }, c: { value: new THREE.Vector2() }, t: { value: 0 } };
+olScene.add(new THREE.Mesh(new THREE.PlaneGeometry(2, 2), new THREE.ShaderMaterial({ uniforms: olUni, transparent: true, depthTest: false, depthWrite: false,
+  vertexShader: 'varying vec2 vUv; void main(){ vUv = uv; gl_Position = vec4(position.xy, 0.0, 1.0); }',
+  fragmentShader: `uniform sampler2D hs, hsCut, hut; uniform float cut1, cut2, target, all, z, t; uniform vec2 c; varying vec2 vUv;
+    float idAt(vec2 uv){ float h = floor(texture2D(hut, uv).r * 255.0 + 0.5);
+      bool k = h > 0.5 && (abs(h - cut1) < 0.5 || abs(h - cut2) < 0.5);
+      return floor((k ? texture2D(hsCut, uv).r : texture2D(hs, uv).r) * 255.0 + 0.5); }
+    void main(){
+      vec2 uv = vec2(0.5 + (vUv.x - 0.5) / z + c.x, 0.5 + (vUv.y - 0.5) / z + c.y);
+      float id = idAt(uv); vec2 px = vec2(1.0 / 1920.0, 1.0 / 1080.0) * 1.6;
+      float tgt = target; bool on = tgt > 0.5 ? abs(id - tgt) < 0.5 : (all > 0.5 && id > 0.5);
+      float edge = 0.0;
+      for (int i = 0; i < 8; i++) { float a = float(i) * 0.785398; vec2 o = vec2(cos(a), sin(a)) * px;
+        float n = idAt(uv + o); float n2 = idAt(uv + o * 2.2);
+        if (on && abs(n - id) > 0.5) edge = 1.0; if (on && abs(n2 - id) > 0.5) edge = max(edge, 0.55);
+        if (!on && tgt > 0.5 && (abs(n - tgt) < 0.5)) edge = max(edge, 0.9); }
+      float pulse = 0.75 + 0.25 * sin(t * 4.0);
+      vec3 gold = vec3(1.0, 0.82, 0.35);
+      float a = edge * (tgt > 0.5 ? pulse : 0.6) + (on && tgt > 0.5 ? 0.06 : 0.0);
+      gl_FragColor = vec4(gold, clamp(a, 0.0, 1.0)); }`,
+})));
 
 // ---------------------------------------------------------------- интерфейс
 const ui = {
@@ -467,7 +542,11 @@ const ui = {
       : CODEX_ART.has(who) ? `<img src="codex/${who}.jpg" alt="${esc(e.title ?? '')}" style="float:right;width:250px;margin:4px 0 8px 16px;border-radius:6px">` : '';
     h += `<div>${esc(e.text ?? '')}</div>`;
     if (e.divya) h += celestial ? `<p><i>${esc(e.divya)}</i></p>` : `<p class="note">Здесь есть и то, что видно лишь небесным зрением (Tab).</p>`;
+    if (e.photo && !CODEX_ART.has(who)) h = `<figure style="float:right;width:250px;margin:4px 0 8px 16px"><img src="mcimg/${e.photo.file}" alt="" style="width:100%;border-radius:6px"><figcaption class="note" style="font-size:15px">${esc(e.photo.author || '')} · ${esc(e.photo.license || '')}</figcaption></figure>` + h;
+    if (e.evidence) h += `<p class="note"><b>Как мы это знаем:</b> ${esc(e.evidence)}</p>`;
     if (e.refs?.length) h += `<div class="refs"><b>В житиях:</b> ${e.refs.map(esc).join('; ')}</div>`;
+    for (const a of e.also ?? []) h += `<p><b>${esc(a.title)}.</b> ${esc(a.text)}</p>`;
+    if (e.sources?.length) h += `<p class="note"><b>Источники:</b> ${e.sources.slice(0, 4).map(esc).join('; ')}${e.sources.length > 4 ? '…' : ''}</p>`;
     if (e.status === 'draft') h += `<div class="note">Черновик — уточнит историческая база.</div>`;
     $('cardText').innerHTML = h; $('card').hidden = false;
     if (AUTOPLAY) { autoShot(); setTimeout(() => ($('card').hidden = true), 200); }
@@ -541,7 +620,7 @@ function toggleCelestial() {
   celestial = !celestial;
   for (const id of ['sky', 'skyTint', 'sparks']) $(id).style.opacity = celestial ? 1 : 0;
   $('plane').textContent = celestial ? 'План: небесный ✦' : 'План: земной';
-  $('bSky').classList.toggle('on', celestial);
+  $('bSky').classList.toggle('on', celestial); if (celestial) $('bSky').classList.remove('pulse');
   for (const id in figs) if (figs[id].celestial) figs[id].root.visible = celestial && !!placed[id];
 }
 function toggleHighlight() { highlight = !highlight; $('bHi').classList.toggle('on', highlight); }
@@ -593,13 +672,20 @@ function panTick(dt) {
 let mouse = { x: -1, y: -1 };
 const toStage = (e) => { const r = stage.getBoundingClientRect(); return { x: (e.clientX - r.left) / K, y: (e.clientY - r.top) / K }; };
 function toScreen(v) { const p = v.clone().project(cam); return { x: (p.x + 1) / 2 * W, y: (1 - p.y) / 2 * H }; }
+function origUV(x, y) { return { u: 0.5 + (x / W - 0.5) / view.z + view.cx, v: 0.5 + (y / H - 0.5) / view.z - view.cy }; }
+function hsAtScreen(x, y) {
+  const { u, v } = origUV(x, y); if (u < 0 || v < 0 || u >= 1 || v >= 1) return '';
+  const px = Math.floor(u * HUTPX.w), py = Math.floor(v * HUTPX.h), i = (py * HUTPX.w + px) * 4;
+  const hid = HUTPX.d[i], cut = hid && (hid === HUTS[cutState.a] || hid === HUTS[cutState.b]);
+  const id = (cut ? HSCUTPX : HSPX).d[i];
+  const k = HS_BY_ID[id]; return k && codex.items[k] ? k : '';
+}
 function pickHover() {
   if (modal()) return '';
-  let best = '', bd = 40;
-  for (const id of hsIds) { const s = toScreen(spots[id]); const d = Math.hypot(s.x - mouse.x, s.y - mouse.y); if (d < bd) { bd = d; best = id; } }
+  let best = hsAtScreen(mouse.x, mouse.y), bd = 34;
   for (const id in figs) { const f = figs[id]; if (id === 'player' || !f.root.visible || f.carried) continue;
     const s = toScreen(f.root.getWorldPosition(new THREE.Vector3()).add(new THREE.Vector3(0, f.h * 0.55, 0)));
-    const d = Math.hypot(s.x - mouse.x, s.y - mouse.y); if (d < Math.min(bd, 34)) { bd = d; best = 'npc:' + id; } }
+    const d = Math.hypot(s.x - mouse.x, s.y - mouse.y); if (d < bd) { bd = d; best = 'npc:' + id; } }
   return best;
 }
 $('gl').addEventListener('pointermove', (e) => { mouse = toStage(e); });
@@ -611,7 +697,7 @@ $('gl').addEventListener('pointerdown', (e) => {
   if (h.startsWith('npc:')) { const id = h.slice(4); openEntry('p:' + id, codex.persons[id] ?? { title: figs[id].name, kind: 'Лицо', text: '' }); return; }
   if (h) { walkToHotspot(h); return; }
   const ray = new THREE.Raycaster(); ray.setFromCamera(new THREE.Vector2(mouse.x / W * 2 - 1, -(mouse.y / H * 2 - 1)), cam);
-  const hit = ray.intersectObjects(proxies, false)[0];
+  const hit = ray.intersectObjects(proxies.filter((o) => o.visible), false)[0];
   if (hit) { walkTok++; player.walk(findPath(player.pos, hit.point)); }
 });
 addEventListener('keydown', (e) => {
@@ -625,6 +711,7 @@ let walkTok = 0;
 const found = {};
 async function walkToHotspot(id) {
   const tok = ++walkTok;
+  if (!spots[id]) { openEntry(id, codex.items[id]); return; }
   await player.walk(findPath(player.pos, spots[id]));
   if (tok !== walkTok) return;
   player.faceTo(spots[id]); openEntry(id, codex.items[id]);
@@ -640,11 +727,11 @@ const tweens = [];
 function tween(dur, fn) { return new Promise((res) => tweens.push({ t: 0, dur: AUTOPLAY ? 0.2 : dur, fn, res })); }
 async function setTime(t, sec) {
   if (t === curTime) return;
-  const a = TIMES[curTime], b = TIMES[t]; bgUniforms.bgB.value = bgTex[t];
+  const a = TIMES[curTime], b = TIMES[t]; bgUniforms.bgB.value = bgTex[t]; bgUniforms.cutB.value = cutTex[t];
   const ca = new THREE.Color(a.sunCol), cb = new THREE.Color(b.sunCol), aa = new THREE.Color(a.ambCol), ab = new THREE.Color(b.ambCol);
   await tween(sec, (k) => { bgUniforms.mixv.value = k; sun.intensity = lerp(a.sun, b.sun, k); sun.color.copy(ca).lerp(cb, k);
     amb.intensity = lerp(a.amb, b.amb, k); amb.color.copy(aa).lerp(ab, k); lamps.forEach((l) => (l.intensity = lerp(a.lamps, b.lamps, k))); });
-  bgUniforms.bgA.value = bgTex[t]; bgUniforms.mixv.value = 0; curTime = t;
+  bgUniforms.bgA.value = bgTex[t]; bgUniforms.cutA.value = cutTex[t]; bgUniforms.mixv.value = 0; curTime = t;
 }
 const PERCEPT = { shachi: 'Будто тень мелькнула у порога… Нрисимха, защити дитя!', neighbor: 'Кто там? Ветер, что ли, лампу качнул?', nimai: '(Нимай смотрит прямо на вас — и смеётся. Он видит.)' };
 let percept = 0, cool = 0, markerWait = null;
@@ -687,13 +774,24 @@ async function step(s) {
     case 'walk': {
       if (s.with && s.carry) { const c = figs[s.with]; c.carried = true; f.carrying = true; f.pose = 'carry';
         const fw = new THREE.Vector3(Math.sin(f.yaw), 0, Math.cos(f.yaw));
-        c.pos.copy(f.pos).addScaledVector(fw, 0.3).add(new THREE.Vector3(0, f.h * 0.42, 0)); c.root.rotation.set(0, 0, 0); c.body.rotation.y = f.yaw;
-        c.root.updateMatrixWorld(true); f.bones.Spine1.attach(c.root); c.pose = 'sit'; }
+        const left = new THREE.Vector3(Math.cos(f.yaw), 0, -Math.sin(f.yaw));
+        c.pos.copy(f.pos).addScaledVector(fw, 0.2).addScaledVector(left, 0.1).add(new THREE.Vector3(0, f.h * 0.47, 0));
+        c.root.rotation.set(0, 0, 0); c.body.rotation.y = f.yaw + Math.PI; c.body.position.y = 0;
+        c.root.updateMatrixWorld(true); f.bones.Spine2.attach(c.root); c.pose = 'sit'; }
       const p = f.walk(findPath(f.pos, spots[s.to].clone().add(off)), !!s.run);
       if (!s.nowait) await p; break; }
     case 'drop': { const by = figs[s.by]; scene.attach(f.root); f.carried = false; by.carrying = false; by.pose = 'idle';
       f.pos.copy(nearest(by.pos.clone().add(off))); f.root.rotation.set(0, 0, 0); f.pose = 'idle'; break; }
-    case 'say': { const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
+    case 'say': {
+      // собеседники поворачиваются друг к другу
+      const TURN = ['idle', 'talk', 'plead', 'angry', 'bow', 'walk'];
+      const o = lastSpeaker && lastSpeaker !== s.who ? figs[lastSpeaker] : null;
+      if (f && o && o.root.visible && f.root.visible && !f.carried && !o.carried && f.pos.distanceTo(o.pos) < 9) {
+        if (TURN.includes(f.pose)) f.faceTo(o.root.getWorldPosition(new THREE.Vector3()));
+        if (TURN.includes(o.pose)) o.faceTo(f.root.getWorldPosition(new THREE.Vector3()));
+      }
+      if (f && s.who !== 'player') lastSpeaker = s.who;
+      const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
       await ui.say(s.as ?? f?.name ?? s.who, s.text, s.ref ?? '', figColor(s.who), false, s.who); if (talk && f.pose === 'talk') f.pose = 'idle'; break; }
     case 'narrate': await ui.say('Шри Чайтанья-бхагавата', s.text, s.ref ?? '', '#8a6a2a', true); break;
     case 'narrate_game': await ui.say(player.name, s.text, '', figColor('player'), true, 'player'); break;
@@ -707,10 +805,15 @@ async function step(s) {
     case 'unlock': openEntry(s.id, codex.lilas[s.id]); break;
     case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
     case 'wait': await sleep((s.sec ?? 1) * 1000); break;
+    case 'focus': focusHut = s.hut ?? ''; break;
+    case 'celestial_hint':
+      if (!celestial) { ui.hint(s.text ?? 'Вы чувствуете чьё-то незримое присутствие. Нажмите Tab (или кнопку «Небо»), чтобы взглянуть небесным зрением.'); $('bSky').classList.add('pulse'); }
+      break;
     case 'end': await finale(); break;
   }
 }
 const flags = [];
+let lastSpeaker = '';
 async function finale() {
   await ui.title('Слава Бала-Гопалу!', `Вы открыли ${Object.keys(found).length} из ${hsIds.length} предметов быта.\n\nИсточники лилы: «Шри Чайтанья-бхагавата», Ади 5.16–166; «Шри Чайтанья-чаритамрита», Ади 14.37; Мурари Гупта, 1.6.8; «Гаура-кришнодая», 3; «Бхакти-ратнакара», 12.\n\nКонец пробного уровня.`, 6);
   ui.setObjective('Пробный уровень пройден. Можно бродить по двору и открывать предметы.');
@@ -744,7 +847,12 @@ function frame() {
     if (markerWait && player.pos.distanceTo(marker.position) < 1.7) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }
   perceptTick(dt); panTick(dt);
   hovered = pickHover();
-  for (const id of hsIds) hsMarks[id].visible = highlight || hovered === id;
+  for (const id in hsMarks) hsMarks[id].visible = false;
+  // какой дом «в разрезе»: тот, где стоит герой, и тот, где идёт лила
+  applyCut(roomAt(player.pos), focusHut);
+  olUni.target.value = hovered && !hovered.startsWith('npc:') ? (HS_IDS[hovered] ?? 0) : 0; olUni.all.value = highlight ? 1 : 0;
+  olUni.z.value = view.z; olUni.c.value.set(view.cx, view.cy); olUni.t.value = performance.now() / 1000;
+  olUni.cut1.value = bgUniforms.cut1.value; olUni.cut2.value = bgUniforms.cut2.value;
   const tip = $('tip');
   if (hovered && mouse.x >= 0) {
     tip.textContent = hovered.startsWith('npc:') ? figs[hovered.slice(4)].name : codex.items[hovered].title + (found[hovered] ? '  ✓' : '');
@@ -756,6 +864,7 @@ function frame() {
   cam.layers.set(0); renderer.render(scene, cam);
   cam.layers.set(2); renderer.render(scene, cam);
   cam.layers.set(1); renderer.render(scene, cam);
+  renderer.render(olScene, olCam);
   requestAnimationFrame(frame);
 }
 fit();
