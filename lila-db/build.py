@@ -170,7 +170,8 @@ def resolve(e, ev):
         r['years'] = PERIOD_YEARS[r['period']]
         if not r.get('date_conf'): r['date_conf'] = 'оценка'
         r['years_from'] = 'period'
-    if not r.get('age') and r.get('years') and BIRTH <= r['years'][0] <= DEPARTURE and r.get('kind') != 'post-advent':
+    if not r.get('age') and r.get('years') and BIRTH <= r['years'][0] <= DEPARTURE \
+            and r.get('kind') not in ('post-advent', 'author') and not (r.get('years_from') == 'period' and r['period'] == 'P15'):
         r['age'] = [max(0, r['years'][0] - BIRTH), min(r['years'][1], DEPARTURE) - BIRTH]
     return r
 
