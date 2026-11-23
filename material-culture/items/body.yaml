@@ -1,0 +1,210 @@
+# Климат и тело: как согревались и охлаждались, гигиена, сон (рубрика home). Исполнитель dress.
+# Выписки и ссылки — research/dress-notes.md, журнал — research/dress-log.md.
+
+# --- Порция 1: тепло и холод ---
+
+- id: mc-kantha
+  title: {ru: "Кантха — стёганое одеяло из старых тканей", en: "Kantha — the quilt of old cloths"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 19.72 — *а̄пана ка̄̐тха̄*: Господь укрывает спящего Шанкару Своей кантхой; ЧБ Антья 9.261 — Рупа и
+      Санатана носят «лишь набедренную повязку и старое одеяло». Постель бедняка — лоскутное покрывало из старых тканей,
+      подушка с ватой шимула, подстилка из рисовой соломы — Taylor 1840, с. 334; кантха у бедных — Martin 1838, III,
+      с. 102–103 [XIX в.].
+    en: >-
+      CC Antya 19.72 — *apana kantha*: the Lord covers the sleeping Shankara with His own kantha; CB Antya 9.261 — Rupa
+      and Sanatana wear "only a loincloth and an old blanket". A poor man's bedding — a patched cover of old cloths, a
+      pillow of simul floss, a litter of rice straw — Taylor 1840, p. 334; the kantha of the poor — Martin 1838, III,
+      pp. 102–103 [19th c.].
+  text:
+    ru: >-
+      Ничего не пропадало: износившиеся дхоти и сари складывали в несколько слоёв и простёгивали мелкими стежками —
+      получалась *кантха*, лёгкое и тёплое одеяло. Бедняк укрывался ею в холодные ночи, богатый — ватным покрывалом.
+      Женщины украшали кантху вышивкой нитками, выдернутыми из цветной каймы старых сари. У Махапрабху в Пури тоже была
+      своя кантха: Шанкара Пандит засыпал у Его стоп с непокрытым телом, и Господь вставал и укутывал его Своим одеялом.
+    en: >-
+      Nothing was wasted: worn-out dhotis and saris were folded in several layers and quilted with small stitches —
+      making a *kantha*, a light, warm cover. A poor man wrapped himself in it on cold nights; a rich one used a
+      cotton-wadded quilt. Women decorated kanthas with embroidery in threads drawn from the coloured borders of old
+      saris. Mahaprabhu in Puri had His kantha too: Shankara Pandita fell asleep at His feet with his body uncovered,
+      and the Lord would rise and wrap him in His own quilt.
+  hagiography: ["ЧЧ Антья 19.71–73", "ЧБ Антья 9.261"]
+  sources: ["Taylor 1840, с. 334", "Martin 1838, т. III, с. 102–103"]
+  images: []
+  game: {model: "кантха ≈1,4×2 м, 4–6 слоёв старой белой ткани, частые ряды стежков, вышивка красной/синей нитью из каймы",
+         where: ["mishra-house/bedroom", "puri/gambhira"]}
+  todo: "Узорная вышивка кантхи (нокши-кантха) засвидетельствована поздно; для XVI в. давать простую стёжку."
+
+- id: mc-cold-season
+  title: {ru: "Холодный сезон: как согревались", en: "The cold season: keeping warm"}
+  rubric: home
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Эпоха: Мукундарам (XVI в.), «бара-маси» Пхуллары — зимой огонь из хвороста едва греет, за неимением одежды —
+      оленья шкура (Sen 1911, с. ~302); «Гопичандер ган» — «летом обмахивать, в месяц магха укрывать» (Sen 1911, с. 59).
+      Жития: шерстяной плед Санатаны (ЧЧ Мадхья 20.44); кантха Господа (ЧЧ Антья 19.72); холод и ливень с градом —
+      ЧБ Антья 5.611–615. Одеяла лишь у богатых, у бедных — лохмотья, отсюда болезни — Taylor 1840, с. 333–334.
+    en: >-
+      Period: Mukundaram (16th c.), Phullara's baramasi — in winter a fire of stray sticks scarcely warms, and for want
+      of clothes a deer-skin (Sen 1911, p. ~302); Gopichander gan — "in summer I shall fan you, in the month of Magha
+      cover you" (Sen 1911, p. 59). Hagiographies: Sanatana's woollen blanket (CC Madhya 20.44); the Lord's kantha (CC
+      Antya 19.72); cold, rain and hail — CB Antya 5.611–615. Blankets only for the rich, rags for the poor, hence
+      illness — Taylor 1840, pp. 333–334.
+  text:
+    ru: >-
+      Холодные месяцы *хеманта* и *шита* (с середины ноября до середины февраля) в Бенгалии сырые и зябкие, особенно по
+      утрам над рекой. Зажиточные кутались в шали-чадары и ватные покрывала, бедные — в кантху из старых тканей, а
+      охотница Пхуллара из поэмы XVI в. жалуется, что огонь из собранного хвороста почти не греет. Грелись у очага и
+      у костерка из соломы во дворе, утром выходили на солнце; шерстяной плед с гор был дорогой редкостью. Купаться в
+      Ганге на рассвете не переставали и зимой.
+    en: >-
+      The cold months of *hemanta* and *shita* (mid-November to mid-February) are damp and chilly in Bengal, especially
+      mornings over the river. The well-off wrapped themselves in chadar shawls and wadded quilts, the poor in kanthas of
+      old cloth, and the huntress Phullara in a 16th-century poem complains that a fire of gathered sticks hardly warms.
+      People warmed themselves at the hearth and at a little straw fire in the yard, and came out into the morning sun;
+      a woollen blanket from the hills was a costly rarity. Dawn bathing in the Ganga went on even in winter.
+  hagiography: ["ЧЧ Мадхья 20.44", "ЧЧ Антья 19.72", "ЧБ Антья 5.611–615"]
+  sources: ["Sen 1911, с. 59, ~302", "Taylor 1840, с. 333–334", "Martin 1838, т. III, с. 103 (стёганое покрывало, двойная простыня *dohar*)"]
+  images: []
+  game: {model: "зимнее утро: туман над Гангой, люди в накидках на голове, костерок из соломы во дворе; у очага греют руки",
+         where: ["mishra-house/courtyard", "ganga-ghat"]}
+
+- id: mc-ascetic-bed
+  title: {ru: "Постель: от банановой коры до шёлка", en: "Bedding: from banana bark to silk"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      ЧЧ Антья 13.4–20 (Господь спит на сухой банановой коре; тюфяк и подушка Джагадананды из ткани, крашенной *гери*, с
+      ватой *шимула*; отказ; постель из разорванных ногтями сухих банановых листьев в двух старых накидках); ЧЧ Антья
+      13.15 («сплю лишь на полу»); ЧБ Мадхья 7.59 (кровать Пундарики под шёлком); Лочан Ади ч. 2.123 (шёлковое
+      покрывало и тюфячок). Постель бедняка — Taylor 1840, с. 334.
+    en: >-
+      CC Antya 13.4–20 (the Lord sleeps on dry banana bark; Jagadananda's mattress and pillow of cloth dyed with *geri*
+      and stuffed with *simul* floss; refused; a bed of dry banana leaves torn fine with the fingernails inside two old
+      outer cloths); CC Antya 13.15 ("I sleep only on the floor"); CB Madhya 7.59 (Pundarika's bed under silk); Lochana
+      Adi pt. 2.123 (a silk coverlet and small mattress). A poor man's bedding — Taylor 1840, p. 334.
+  text:
+    ru: >-
+      Богатые спали на деревянной кровати с тюфяком и подушками под шёлковым покрывалом, а большинство — на полу, на
+      циновке или соломенной подстилке. Махапрабху, санньяси, лежал на сухой коре банана, и исхудавшему телу было
+      больно. Джагадананда выкрасил тонкую ткань охрой, набил её ватой шимула и сшил тюфяк и подушку — Господь
+      отказался: «Может, ещё и кровать принесёшь?» Тогда Сварупа Дамодара ногтями разорвал сухие банановые листья на
+      тонкие волокна и набил ими две старые накидки Господа — эту постель Он с трудом, но принял.
+    en: >-
+      The rich slept on a wooden bed with mattress and pillows under a silk coverlet; most people slept on the floor, on
+      a mat or a straw litter. Mahaprabhu, a sannyasi, lay on dry banana bark, and it hurt His wasted body. Jagadananda
+      dyed fine cloth with ochre, stuffed it with simul floss and made a mattress and pillow — the Lord refused: "Next
+      you will bring Me a bed?" Then Svarupa Damodara tore dry banana leaves with his nails into fine fibres and stuffed
+      two of the Lord's old outer cloths with them — this bed He accepted, though with difficulty.
+  hagiography: ["ЧЧ Антья 13.4–20", "ЧБ Мадхья 7.59", "Лочан, Ади-кханда, ч. 2, ст. 123"]
+  sources: ["Taylor 1840, с. 334"]
+  images: []
+  game: {model: "на полу Гамбхиры — подстилка из двух старых охряных накидок, набитых сухими банановыми волокнами (≈0,8×1,9 м), подушка того же; рядом пласты сухой банановой коры",
+         where: ["puri/gambhira"]}
+
+- id: mc-hand-fan
+  title: {ru: "Опахала: пальмовый лист, павлиньи перья, чамара", en: "Fans: palm leaf, peacock feathers, chamara"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Жития: опахала из павлиньих перьев у Пундарики (ЧБ Мадхья 7.62) и за султаном (ЧЧ Мадхья 15.122); Рамананда
+      обмахивает Господа (ЧЧ Антья 15.92); Адвайта обмахивает Господа (ЧБ Антья 9.49); после обморока обмахивают
+      накидкой и брызгают водой (ЧЧ Мадхья 17.220, Антья 14.97); чамары над Господом (ЧБ Мадхья 9.45, 22.19); Вишвамбхара
+      обмахивает Нитьянанду (ЧБ Мадхья 20.16). Материалы и «единственное средство в зной» — Mukharji 1888, с. 313–314.
+    en: >-
+      Hagiographies: peacock-feather fans at Pundarika's (CB Madhya 7.62) and behind the sultan (CC Madhya 15.122);
+      Ramananda fans the Lord (CC Antya 15.92); Advaita fans the Lord (CB Antya 9.49); after a swoon He is fanned with an
+      outer cloth and sprinkled with water (CC Madhya 17.220, Antya 14.97); chamaras over the Lord (CB Madhya 9.45,
+      22.19); Vishvambhara fans Nityananda (CB Madhya 20.16). Materials and "the sole means in the hot season" —
+      Mukharji 1888, pp. 313–314.
+  text:
+    ru: >-
+      В зной единственным «вентилятором» было опахало. Простое делали из листа пальмы тал с черенком-ручкой или
+      плели из бамбуковой щепы; у богачей слуга стоял позади с большим опахалом из павлиньих перьев. Чамара — пучок
+      белого хвоста яка на ручке — служила для почитания: ею обмахивали Божество, царя и святых. Обмахнуть гостя —
+      знак любви: Адвайта, омыв стопы Господа и умастив Его сандалом, сам взял опахало, а когда Махапрабху терял
+      сознание в экстазе, преданные махали над Ним краем накидки и брызгали водой.
+    en: >-
+      In the heat the only "fan" was a hand-fan. A simple one was cut from a tal palm leaf with its stalk as a handle,
+      or woven from bamboo strips; in rich houses a servant stood behind with a large peacock-feather fan. The chamara
+      — a whisk of white yak tail on a handle — served for honouring: the Deity, a king and saints were fanned with it.
+      To fan a guest was a sign of love: Advaita, having washed the Lord's feet and anointed Him with sandal, took up
+      the fan himself, and when Mahaprabhu fell senseless in ecstasy the devotees waved the end of a cloth over Him and
+      sprinkled Him with water.
+  hagiography: ["ЧБ Мадхья 7.62", "ЧЧ Мадхья 15.122", "ЧЧ Антья 15.92", "ЧБ Антья 9.49", "ЧЧ Мадхья 17.220", "ЧЧ Антья 14.97", "ЧБ Мадхья 9.45", "ЧБ Мадхья 20.16"]
+  sources: ["Mukharji 1888, с. 313–314 (пальмовый лист, бамбук, кхаскхас, павлиньи перья; опахала в аюрведе)"]
+  images: []
+  game: {model: "веер из листа пальмы тал ≈35 см с черенком; плетёный бамбуковый флажок-веер; чамара — белый пучок ≈50 см на серебряной ручке; павлинье опахало ≈1,2 м",
+         where: ["mishra-house/courtyard", "mishra-house/thakur-ghar", "puri/gambhira"]}
+
+- id: mc-sital-pati
+  title: {ru: "Шитал-пати — «прохладная циновка»", en: "Shital-pati — the 'cool mat'"}
+  rubric: home
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Mukharji 1888, с. 311–312 (XIX в.: стебли *Maranta dichotoma*, Восточная Бенгалия, ремесло женщин, 5–100 рупий;
+      «стелят поверх постели в зной»). В житиях циновки упомянуты без названия (см. mc-pidi-mat); для XVI в. —
+      реконструкция.
+    en: >-
+      Mukharji 1888, pp. 311–312 (19th c.: stems of *Maranta dichotoma*, East Bengal, women's craft, 5–100 rupees;
+      "spread over the bed in the hot season"). The hagiographies mention mats without this name (see mc-pidi-mat); for
+      the 16th c. — a reconstruction.
+  text:
+    ru: >-
+      Самая прохладная постель Бенгалии — *шитал-пати*, «прохладная циновка». Её плели из тонких глянцевых полосок,
+      срезанных со стеблей болотного растения муртха: чем глаже и блестящее циновка, тем лучше, — говорили, что по
+      хорошей шитал-пати не проползёт и змея. В жару её стелили поверх постели, и тело не потело. Плели такие циновки
+      женщины Восточной Бенгалии, и умение это ценилось при сватовстве.
+    en: >-
+      The coolest bed in Bengal was the *shital-pati*, the "cool mat". It was woven from thin glossy strips cut from the
+      stems of the marsh plant murta: the smoother and shinier, the better — it was said not even a snake could crawl
+      across a good shital-pati. In the heat it was spread over the bedding so that the body would not sweat. Such mats
+      were woven by the women of East Bengal, and the skill was prized in arranging marriages.
+  hagiography: []
+  sources: ["Mukharji 1888, с. 311–312"]
+  images: []
+  game: {model: "циновка ≈1×2 м из глянцевых светло-зелёно-золотистых полосок 3–4 мм, косое плетение, простой красный узор по краю",
+         where: ["mishra-house/bedroom"]}
+  todo: "Засвидетельствована ли шитал-пати до XVII в.? (в мангал-кавьях?)"
+
+- id: mc-hot-season
+  title: {ru: "Зной: как спасались от жары", en: "The heat: escaping the hot season"}
+  rubric: home
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Сандал Гопинатхе «в летний зной» — ЧЧ Мадхья 4.165 (ср. Чандана-ятра); «когда спала полуденная жара» — ЧБ Ади
+      15.126; полуденный отдых Господа после еды, Говинда растирает стопы — ЧЧ Антья 10.83–91; зной месяца джьяйштха —
+      ЧЧ Антья 20.109; кувшины с прохладной водой у трапезы — ЧЧ Мадхья 15.220; опахала — см. mc-hand-fan. Шитал-пати —
+      Mukharji 1888, с. 311–312.
+    en: >-
+      Sandal for Gopinatha "in the summer heat" — CC Madhya 4.165 (cf. Chandana-yatra); "when the midday heat abated" —
+      CB Adi 15.126; the Lord's midday rest after the meal, Govinda massaging His feet — CC Antya 10.83–91; the heat of
+      the month of Jyaishtha — CC Antya 20.109; pots of cool water at the meal — CC Madhya 15.220; fans — see
+      mc-hand-fan. Shital-pati — Mukharji 1888, pp. 311–312.
+  text:
+    ru: >-
+      В месяцы *вайшакха* и *джьяйштха* (апрель–июнь) солнце палит нещадно. День начинали до рассвета, а в полуденный
+      зной, поев, отдыхали в тени, пока кто-нибудь растирал стопы или обмахивал опахалом; дела и праздники переносили
+      на вечер — Вишвамбхару стали наряжать к свадьбе, лишь «когда спала полуденная жара». Тело умащали сандаловой
+      пастой: она холодит кожу, поэтому летом сандалом умащают и Божество. Пили воду из пористых глиняных кувшинов,
+      много раз в день купались, спали на прохладных циновках, на веранде или во дворе.
+    en: >-
+      In the months of *Vaishakha* and *Jyaishtha* (April–June) the sun beats down mercilessly. The day began before
+      dawn; in the midday heat, after eating, people rested in the shade while someone massaged their feet or fanned
+      them; business and festivities moved to the evening — Vishvambhara was dressed for His wedding only "when the
+      midday heat abated". The body was anointed with sandal paste, which cools the skin; that is why in summer the
+      Deity too is anointed with sandal. People drank from porous clay jars, bathed many times a day, and slept on cool
+      mats, on the veranda or in the courtyard.
+  hagiography: ["ЧЧ Мадхья 4.165", "ЧБ Ади 15.126", "ЧЧ Антья 10.83–91", "ЧЧ Антья 20.109", "ЧЧ Мадхья 15.220"]
+  sources: ["Mukharji 1888, с. 311–314"]
+  images: []
+  game: {model: "полдень: пустая улица, люди дремлют на веранде на циновках; запотевший глиняный кувшин; сандаловая паста на лбу и руках",
+         where: ["mishra-house/courtyard", "navadvipa/lane"]}
+  todo: "«Сон на веранде/во дворе» — общая этнография, прямого места в житиях не найдено."
