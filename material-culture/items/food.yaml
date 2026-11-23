@@ -1494,8 +1494,8 @@
   images: []
   game: {model: "лист с остатками трапезы Господа, который бережно несут в руках", where: ["puri/gambhira"]}
 
-- id: mc-ekadashi
-  title: {ru: "Экадаши — пост без зерна", en: "Ekadashi — the grain fast"}
+- id: mc-ekadashi-food
+  title: {ru: "Еда в день экадаши: без зерна", en: "Food on Ekadashi: no grain"}
   rubric: kitchen
   era_evidence: hagiography
   evidence_note:
@@ -1504,12 +1504,12 @@
       экадаши Джагадиша и Хиранья постятся, но готовят зерновую бхогу Вишну; Нимай «болеет» и просит её); ЧБ Ади 16.261
       (в экадаши не спят и поют имена); Лочан, Ади ч. 8, ст. 618; ЧЧ Мадхья 24.335–337 (Санатане велено описать соблюдение
       экадаши; не поститься в «смешанный» экадаши); «хавишья» в магх — барамасья Джаянанды (строфа 12). Вдовий пост в
-      экадаши — Bose 1881, с. 237 (XIX в.).
+      экадаши — Bose 1881, с. 237 (XIX в.). О самом посте и бдении — см. также mc-ekadashi (worship.yaml); здесь — что едят.
     en: >-
       CC Adi 15.9–10 (Nimai asks His mother not to eat grain on Ekadashi), Adi 14.39 and CB Adi 6.21–29 (Jagadisha and
       Hiranya fast but cook grain bhoga for Vishnu; Nimai "falls ill" and asks for it); CB Adi 16.261 (night-long
       kirtan); Lochana Adi pt. 8 v. 618; CC Madhya 24.335–337; havishya in Magha — Jayananda's baramasya (st. 12).
-      Widows' fast on Ekadashi — Bose 1881 p. 237.
+      Widows' fast on Ekadashi — Bose 1881 p. 237. See also mc-ekadashi (worship.yaml) for the fast itself; this card covers what is eaten.
   text:
     ru: >-
       Дважды в месяц, на одиннадцатый лунный день, вайшнавы не едят зерна — риса, пшеницы, бобовых: едят плоды, молоко,
