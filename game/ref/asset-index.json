@@ -1,0 +1,286 @@
+{
+  "source_task": "game/TASK-tirthika-art.md",
+  "repository": "sankarshanservant-hub/Gauranga",
+  "branch": "claude/confident-wozniak-kf6cze",
+  "directory": "game/ref",
+  "counts": {
+    "portrait": 12,
+    "sheet": 7,
+    "tex": 5,
+    "codex": 20
+  },
+  "selected_hero": "portrait_gandharva_a.png",
+  "selected_hero_sheet": "sheet_gandharva.png",
+  "user_preferences": [
+    "Heads upright without tilt in all three-view sheets; single portraits may have expressive head angles.",
+    "Nimai has a visibly golden complexion.",
+    "Shachi has a small round red sindur dot on forehead and sindur in hair parting, no vertical tilak lines.",
+    "Additional Nimai sheet with open torso and cotton waist wrap: sheet_nimai_loincloth.png."
+  ],
+  "assets": [
+    {
+      "file": "codex_alpana.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "ffaa73a53ab8c04b88693fb2fb2279f386e7791a"
+    },
+    {
+      "file": "codex_bamboo_fence.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "eb63ba6fefacf69443c42d21c79cf1cb5dbbebff"
+    },
+    {
+      "file": "codex_bamboo_grove.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "048feadaaa3cb08b182755127d0f6c9e0699e934"
+    },
+    {
+      "file": "codex_banana_plant.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "e9e66324dc47f6bd1359967cf6d889a85bca1a36"
+    },
+    {
+      "file": "codex_bananas_fruits.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "90d86a995896b2a0684c257e08a23e6cd1584d8d"
+    },
+    {
+      "file": "codex_chula.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "c5ab668a55b0fe0569dbc7628e6cc4a5eaebeb87"
+    },
+    {
+      "file": "codex_clay_lamp.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "9e61aab476c5e358e9a5eefb96c4573d18a0ad33"
+    },
+    {
+      "file": "codex_clay_pots.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "856ba29c798b6aa700574691998b7c2728ea92b1"
+    },
+    {
+      "file": "codex_coconut_palm.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "83f1f63f73c82a952ea16e956a3130563ec70dd2"
+    },
+    {
+      "file": "codex_cowshed.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "8a5f6f4b04bac841c52908c96cf3ec41d7fb8cb4"
+    },
+    {
+      "file": "codex_firewood.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "1cbeb79c91331c1e0b2dcfedf1ec8efa6d1978ec"
+    },
+    {
+      "file": "codex_fuel_cakes.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "ce38fb43f53231a63040f9f857d9fa689834bc32"
+    },
+    {
+      "file": "codex_hanging_lamp.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "d714fba0e13d8e45603bc8315d43922f462f1671"
+    },
+    {
+      "file": "codex_metal_vessels.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "38ec0d328553dc913afedba9a6bc675677552ff2"
+    },
+    {
+      "file": "codex_pidi.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "fae99f01b61bfa0587673f6a75512a3f95c8b1cd"
+    },
+    {
+      "file": "codex_pond_ghat.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "c998235bafb15209258aaa3e19cf3418582dd50f"
+    },
+    {
+      "file": "codex_rice_straw.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "54d4f4598ae87c079ae05f7a1d4dd0fe7d01122d"
+    },
+    {
+      "file": "codex_sari_on_line.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "33cc4d507ecdb103e97c5edab08e6c89bfa3f00b"
+    },
+    {
+      "file": "codex_thatched_hut.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "f76f955d733af4d580ed61e6f5578625479ee5c2"
+    },
+    {
+      "file": "codex_tulasi_altar.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "0db03f4a04615d951641d1155611701bc4fee984"
+    },
+    {
+      "file": "portrait_brahmana.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "52f887e82e3137e85327713285398f40917a233c"
+    },
+    {
+      "file": "portrait_chitrasena.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "0c55a27aa7b205cad0ec2d71c771f1c5da3ee34a"
+    },
+    {
+      "file": "portrait_gandharva_a.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "4d9a86b2194b1151310a07aa52303d9704d3a535"
+    },
+    {
+      "file": "portrait_gandharva_b.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "9c78d1f3198408a3146ef88449f877df91f25992"
+    },
+    {
+      "file": "portrait_gandharva_c.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "ce10cd808ebe99352e37f58636c27333d50c45d2"
+    },
+    {
+      "file": "portrait_mishra.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "f0ad4774555f66221f7218962adfc1d7dcd6bd55"
+    },
+    {
+      "file": "portrait_neighbor.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "fa0e35688ceceb685ec856fed7809154b0ee32f8"
+    },
+    {
+      "file": "portrait_nidra.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "ca8cce33e6e6ac7f0e60432357c86fedfd2e78a0"
+    },
+    {
+      "file": "portrait_nimai.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "b5427f8897bda988ef8ebf71fc1b63521b82385d"
+    },
+    {
+      "file": "portrait_relative.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "97ca95253fb6c3fc91b28d796b2512e93e1b8d5f"
+    },
+    {
+      "file": "portrait_shachi.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "31e05dcd28003b7af1d3533a911b6eed890787ff"
+    },
+    {
+      "file": "portrait_vishvarupa.png",
+      "width": 1086,
+      "height": 1448,
+      "git_blob_sha": "14cd22b9ec85416f14e36c719a2627678dc48f4e"
+    },
+    {
+      "file": "sheet_brahmana.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "043ab945ff873c05e47ed0dfb6075e1c297c2be2"
+    },
+    {
+      "file": "sheet_gandharva.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "8980197ef36e5e0697fc373b58e46b0ed03328b3"
+    },
+    {
+      "file": "sheet_mishra.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "24a286969a859c3e61312bb390c02733cb5f57b1"
+    },
+    {
+      "file": "sheet_nimai.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "5d4ce2c1df8765cf45d8bf5c998ce96412bb2eb0"
+    },
+    {
+      "file": "sheet_nimai_loincloth.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "3fb8317dc754e12ce03c60f19b1d09db1a587ab9"
+    },
+    {
+      "file": "sheet_shachi.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "36d365e3c087157dc4278234f79420e64c001b3b"
+    },
+    {
+      "file": "sheet_vishvarupa.png",
+      "width": 1536,
+      "height": 1024,
+      "git_blob_sha": "b3d32f9651f97175cc74ce86d489e803dd06e4b2"
+    },
+    {
+      "file": "tex_celestial_silk.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "b9ed1a968d15bd697b45552bf4f39c4c9aeb4af0"
+    },
+    {
+      "file": "tex_indigo_sari.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "ff863ac5139b2467be041ff6fdcb828d046c72d8"
+    },
+    {
+      "file": "tex_ochre_cotton.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "4e4132b6191e7e482a110573396b7520808eed6d"
+    },
+    {
+      "file": "tex_sari_red_border.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "2fa5551c0ac1b20aaee85eb1dccd7fca6dffe26f"
+    },
+    {
+      "file": "tex_white_cotton.png",
+      "width": 1254,
+      "height": 1254,
+      "git_blob_sha": "449984a786b627ae113bfa7dd885bdc908265566"
+    }
+  ]
+}
