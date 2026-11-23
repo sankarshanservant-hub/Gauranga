@@ -1,0 +1,282 @@
+# Карточки по первоисточникам эпохи (путешественники, хроники, мангал-кавьи) — исполнитель epoch.
+# Выписки — research/primary-facts.md (P01–P36) и research/scholarship-facts.md.
+
+- id: mc-embassy-pandua-1415
+  title: {ru: "Китайское посольство в Пандуа (1415)", en: "The Chinese embassy at Pandua (1415)"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Фэй Синь (1436) — участник плаваний Чжэн Хэ, описал посольство евнуха Хоу Сяня 1415 г.: Читтагонг, Сонаргаон,
+      столица Пандуа, дворец, приём, пир и дары (пер. Rockhill 1915, с. 440–442); Ма Хуань (1433) — путь Читтагонг →
+      Сонаргаон → столица, дворцы знати (с. 436–437). Это за 70 лет до явления Махапрабху, но дворцовый уклад султанов
+      Бенгалии мало менялся; Тарафдар (1965, с. 129) опирается на эти описания для облика Пандуа. Жития о посольствах
+      не говорят.
+    en: >-
+      Fei Xin (1436), who sailed with Zheng He, described the embassy of the eunuch Hou Xian in 1415: Chittagong,
+      Sonargaon, the capital Pandua, the palace, the audience, banquet and gifts (tr. Rockhill 1915, pp. 440–442); Ma
+      Huan (1433) — the route Chittagong → Sonargaon → capital, nobles' palaces (pp. 436–437). This is 70 years before
+      Mahaprabhu's appearance, but the court ways of Bengal's sultans changed little; Tarafdar (1965, p. 129) relies on
+      these accounts for Pandua's appearance. The hagiographies say nothing of embassies.
+  text:
+    ru: >-
+      В 1415 г. к султану Бенгалии прибыли послы китайского императора. В порту Читтагонга их встретили сановники с
+      дарами и тысяча людей и коней; шестнадцать переходов до Сонаргаона — со слонами, ещё двадцать — до столицы
+      Пандуа с мощными стенами и рядами лавок. Дворец был из кирпича на растворе, с высокой лестницей, плоскими
+      крышами и побелёнными залами; колонны приёмного зала обиты латунью с резными цветами и зверями, по сторонам —
+      сотни зонтов из павлиньих перьев и воины на слонах. Султан сидел, скрестив ноги, на троне с камнями, с мечом на
+      коленях. На пиру вина не подавали — пили подслащённую розовую воду, а послов одарили золотыми тазами, кувшинами
+      и чашами.
+    en: >-
+      In 1415 envoys of the Chinese emperor came to the sultan of Bengal. At the port of Chittagong officials met them
+      with gifts and a thousand men and horses; sixteen stages to Sonargaon — with elephants — and twenty more to the
+      capital Pandua with its massive walls and rows of shops. The palace was of brick laid in mortar, with a high
+      stair, flat roofs and whitewashed halls; the pillars of the audience hall were sheathed in brass carved with
+      flowers and beasts, and on either side stood hundreds of peacock-feather umbrellas and soldiers on elephants. The
+      sultan sat cross-legged on a jewelled throne with a sword across his knees. At the banquet no wine was served —
+      they drank sweetened rose water — and the envoys were given gold basins, ewers and cups.
+  hagiography: []
+  sources: ["Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 440–442",
+            "Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 436–437",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 129 (облик Пандуа по китайским описаниям)",
+            "Eaton, The Rise of Islam and the Bengal Frontier (1993), гл. 4 (китайские посольства с 1415 г.)"]
+  images: []
+  game: {model: "приёмный зал: плоская крыша, побелка, колонны в латуни с резьбой; трон с камнями; ряды павлиньих зонтов; золотые тазы и кувшины",
+         where: ["gauda/palace"], notes: "фон для сцен двора Гауды; уклад XV в."}
+
+- id: mc-dawn-musicians
+  title: {ru: "Утренние музыканты у ворот знати", en: "Dawn musicians at the gates of the great"}
+  rubric: music
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Ма Хуань (1433): каждый день «в пятую стражу» (перед рассветом) музыканты приходят к воротам знати и богачей,
+      играют на зурне *со-на* и барабане — сначала нарастая, потом медленно и в меру, снова ускоряя, — и идут дальше; к
+      завтраку обходят дома за вином, едой и деньгами (пер. Rockhill 1915, с. 438). Тарафдар (1965, с. 294–295)
+      пересказывает китайское описание 1520 г.: малый и большой барабаны и дудка, плата — едой и серебряной тангкой.
+      Певцы и танцоры на пирах в узорных рубахах, с бусами — Ма Хуань, с. 438. В житиях утренней музыки у знати нет.
+    en: >-
+      Ma Huan (1433): every day 'at the fifth watch' (before dawn) musicians come to the gates of nobles and the rich,
+      play the *so-na* shawm and drum — first swelling, then slow and measured, then quickening again — and move on; at
+      breakfast time they go round the houses for wine, food and money (tr. Rockhill 1915, p. 438). Tarafdar (1965,
+      pp. 294–295) summarises a Chinese account of 1520: a small and a large drum and a pipe, paid in food and a silver
+      tanka. Singers and dancers at feasts in patterned shirts with beads — Ma Huan, p. 438. The hagiographies have no
+      dawn music at great houses.
+  text:
+    ru: >-
+      Ещё до рассвета у ворот знатных и богатых домов Бенгалии раздавалась музыка: приходили музыканты с зурной и
+      барабанами. Начинали тихо и медленно, потом звук нарастал, становился быстрым и высоким — и, отыграв, они шли к
+      следующим воротам. К завтраку музыканты обходили дома снова, и им давали еду, вино или монету. На пирах же
+      выступали певцы и танцоры в рубахах с чёрно-белым узором, подпоясанные шарфами с бахромой из бус.
+    en: >-
+      Before dawn music rang out at the gates of Bengal's noble and wealthy houses: musicians came with a shawm and
+      drums. They began soft and slow, then the sound swelled, grew quick and high — and having played they went on to
+      the next gate. At breakfast time the musicians made the round again and were given food, wine or a coin. At
+      feasts singers and dancers performed in shirts patterned black and white, girt with sashes fringed with beads.
+  hagiography: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 438",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 294–295 (китайское описание 1520 г.)"]
+  images: []
+  game: {model: "трое музыкантов: зурна (≈50 см, раструб), малый и большой барабаны на ремне; предрассветные сумерки у кирпичных ворот",
+         where: ["gauda/street", "navadvipa/lane"], notes: "звуковой фон рассвета в богатом квартале"}
+
+- id: mc-tiger-tamer
+  title: {ru: "Укротитель с тигром на цепи", en: "The tamer with a tiger on a chain"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Ма Хуань (1433): человек водит по рынкам и домам тигра на железной цепи; во дворе спускает его, бьёт, борется с
+      ним, суёт кулак ему в пасть; хозяева кормят тигра мясом и платят укротителю (пер. Rockhill 1915, с. 438–439). В
+      житиях — нет; тигры в лесах — mc-tiger.
+    en: >-
+      Ma Huan (1433): a man leads a tiger on an iron chain round the markets and houses; in a courtyard he lets it
+      loose, beats it, wrestles with it, thrusts his fist into its jaws; the householders feed the tiger meat and pay
+      the tamer (tr. Rockhill 1915, pp. 438–439). Not in the hagiographies; tigers in the wild — mc-tiger.
+  text:
+    ru: >-
+      Одно из зрелищ бенгальского города — укротитель с тигром. Он водил зверя на железной цепи по рынкам и дворам
+      богатых домов; во дворе отпускал цепь, бил тигра, боролся с ним и даже засовывал кулак ему в пасть — а зрители
+      ахали. Хозяева кормили зверя мясом и платили смельчаку, и он шёл со своим тигром дальше.
+    en: >-
+      One of the sights of a Bengal town was the tiger-tamer. He led the beast on an iron chain round the markets and
+      the courtyards of wealthy houses; in a courtyard he slackened the chain, beat the tiger, wrestled with it and
+      even thrust his fist into its jaws — while the onlookers gasped. The householders fed the beast meat and paid the
+      daredevil, and he went on with his tiger.
+  hagiography: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 438–439"]
+  images: []
+  game: {model: "тигр на железной цепи, укротитель в набедренной ткани с палкой; толпа во дворе",
+         where: ["navadvipa/market"], notes: "уличная сценка, можно в мини-событие рынка"}
+
+- id: mc-village-feeds-poor
+  title: {ru: "Деревня кормит своих бедных по очереди", en: "The village feeds its poor in turn"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Фэй Синь (1436) об индусах Бенгалии: совсем бедных кормят по очереди семьи деревни, но ходить просить пищу в
+      чужие деревни им не позволено (пер. Rockhill 1915, с. 443). Наблюдение иностранца, по посольству 1415 г.; в
+      житиях — забота о голодных (mc-mahotsava-feast, mc-bhiksha), но такого порядка нет.
+    en: >-
+      Fei Xin (1436) on Bengal's Hindus: the very poor are fed in turn by the families of the village, but they are not
+      allowed to go begging food in other villages (tr. Rockhill 1915, p. 443). A foreigner's observation from the 1415
+      embassy; the hagiographies show care for the hungry (mc-mahotsava-feast, mc-bhiksha) but not this arrangement.
+  text:
+    ru: >-
+      Китайский путешественник XV в. удивился бенгальскому обычаю: если в деревне был человек, которому совсем нечего
+      есть, его кормили семьи этой деревни — каждая в свой день, по очереди. Зато ходить с протянутой рукой по чужим
+      деревням ему не позволяли: о своих бедных заботилась своя деревня. Накормить голодного и гостя считалось долгом
+      домохозяина.
+    en: >-
+      A 15th-century Chinese traveller was struck by a Bengal custom: if a village had someone with nothing at all to
+      eat, the village families fed him — each on its own day, in turn. But he was not allowed to go begging through
+      other villages: each village looked after its own poor. To feed the hungry and the guest was a householder's
+      duty.
+  hagiography: []
+  sources: ["Fei Xin, «Син-ча шэн-лань» (1436), пер. Rockhill, T'oung Pao 16 (1915), с. 443"]
+  images: []
+  game: {model: "у двери дома — бедняк с глиняной миской; хозяйка выносит рис на банановом листе",
+         where: ["navadvipa/lane", "mishra-house/courtyard"]}
+
+- id: mc-bark-paper
+  title: {ru: "Бумага из коры", en: "Bark paper"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Ма Хуань (1433): бенгальская бумага белая, из коры дерева, «гладкая и блестящая, как оленья кожа» (пер. Rockhill
+      1915, с. 440; по другому китайскому источнику — из коры шелковицы); Мукундарам (ок. 1590, изд. 1868, с. 53–54):
+      бумажники-*кагаджи* среди мусульманских ремесленников города (то же — Eaton 1993, гл. 4; Raychaudhuri 1953,
+      с. 199–200); Тарафдар (1965, с. 150). В Ориссе, по «Айн-и Акбари» (Jarrett II, с. 126), писали стилом на
+      пальмовых листьях. На чём писали рукописи в Надии — жития не уточняют (mc-manuscript-ink).
+    en: >-
+      Ma Huan (1433): Bengal paper is white, made of tree bark, 'smooth and glossy like deerskin' (tr. Rockhill 1915,
+      p. 440; another Chinese source says mulberry bark); Mukundaram (c. 1590, ed. 1868, pp. 53–54): *kagaji*
+      paper-makers among the town's Muslim craftsmen (likewise Eaton 1993, ch. 4; Raychaudhuri 1953, pp. 199–200);
+      Tarafdar (1965, p. 150). In Orissa, per the Ain-i Akbari (Jarrett II, p. 126), one wrote with a stylus on palm
+      leaves. What the Nadia manuscripts were written on the hagiographies do not say (mc-manuscript-ink).
+  text:
+    ru: >-
+      Бумагу в Бенгалии уже знали: китайский путешественник 1430-х писал, что её делают из коры дерева и она белая,
+      гладкая и блестящая, «как оленья кожа». Делали её особые мастера — *кагаджи*, по большей части мусульмане, и на
+      бумаге писали письма, счета и указы при дворе султана. В Ориссе же почти всё писали железным стилом на
+      пальмовых листьях, держа стило в кулаке, а пером и чернилами почти не пользовались.
+    en: >-
+      Bengal already knew paper: a Chinese traveller of the 1430s wrote that it was made of tree bark and was white,
+      smooth and glossy 'like deerskin'. It was made by special craftsmen — *kagajis*, mostly Muslims — and on paper
+      people wrote letters, accounts and decrees at the sultan's court. In Orissa, though, nearly everything was written
+      with an iron stylus on palm leaves, the stylus held in the fist, and pen and ink were hardly used.
+  hagiography: []
+  sources: ["Ma Huan, «Ин-я шэн-лань» (1433), пер. Rockhill, T'oung Pao 16 (1915), с. 440",
+            "Мукундарам, «Чанди-мангал» (ок. 1590), изд. 1868, с. 53–54",
+            "Ain-i Akbari (1590-е), пер. Jarrett, т. II (1891), с. 126",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 150",
+            "Raychaudhuri, Bengal under Akbar and Jahangir (1953), с. 199–200",
+            "Eaton, The Rise of Islam and the Bengal Frontier (1993), гл. 4"]
+  images: []
+  game: {model: "стопка белых глянцевых листов ≈ 30 × 40 см; рядом — пальмовые листья ≈ 4 × 40 см и железное стило",
+         where: ["navadvipa/market", "gauda/palace"]}
+  todo: "найти, как делали бумагу из коры (процесс) — PD XIX в. (Hunter? Watt?) с пометкой реконструкции"
+
+- id: mc-straw-village
+  title: {ru: "Деревня на сезон: соломенный городок у кораблей", en: "A village for a season: the straw town by the ships"}
+  rubric: town
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Федеричи (1569): в Butor (Бетор, у нынешней Хауры), докуда доходят большие корабли, каждый год на время
+      стоянки строят целую деревню с домами и лавками из соломы; когда корабли уходят, каждый поджигает свой участок
+      (Hakluyt V, 1904, с. 410–411). Это 1560-е, через тридцать лет после Махапрабху; ср. соломенные хижины умирающих
+      на берегу (mc-death-by-the-ganga).
+    en: >-
+      Federici (1569): at Buttor (Betor, by present-day Howrah), as far as the big ships come, a whole village of straw
+      houses and shops is built each year for the ships' stay; when the ships leave, everyone sets fire to his plot
+      (Hakluyt V, 1904, pp. 410–411). This is the 1560s, thirty years after Mahaprabhu; cf. the straw huts of the dying
+      on the bank (mc-death-by-the-ganga).
+  text:
+    ru: >-
+      Солома и бамбук в Бенгалии так дёшевы, что дом можно поставить за день. Ниже Сатгаона, там, где на Ганге
+      останавливались большие морские корабли, каждый год на время стоянки вырастала целая деревня — соломенные дома и
+      лавки, где торговали рисом, тканями и всем, что нужно мореходам. Когда корабли уходили, каждый поджигал свой
+      домик, и на берегу оставались только пепелища — до следующего года.
+    en: >-
+      Straw and bamboo were so cheap in Bengal that a house could go up in a day. Below Satgaon, where the great
+      sea-going ships lay on the Ganga, a whole village sprang up each year for the time of their stay — straw houses
+      and shops selling rice, cloth and everything seamen needed. When the ships left, everyone set fire to his little
+      house, and only ashes were left on the bank — until the next year.
+  hagiography: []
+  sources: ["Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 410–411"]
+  images: []
+  game: {model: "ряд лёгких соломенных лавок на бамбуковых шестах у воды; вдали — большие корабли на якоре",
+         where: ["travel/ganga-bank"]}
+
+- id: mc-sugar-trade
+  title: {ru: "Сахар на вывоз: порошок в кожаных мешках", en: "Sugar for export: powder in leather bags"}
+  rubric: kitchen
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Барбоза (ок. 1516): белый сахар Бенгалии хорош, но «не умеют сливать его в головы» — пакуют порошком в ткань,
+      обтянутую сыромятной кожей и плотно зашитую, и грузят им много кораблей; в Малабаре кинтал стоил 2,5 дуката
+      (пер. Stanley 1866, с. 179); Вартема (ок. 1505) — «великое количество сахара» (1863, с. 212); Федеричи (1569) —
+      «великое изобилие сахара» в Сатгаоне (Hakluyt V, с. 411); Фитч (1586) — из Патны «много сахара везут в
+      Бенгалию» (Ryley 1899, с. 110). Тарафдар (1965, с. 148–149). Сахар на кухне и в подношениях — mc-sugar.
+    en: >-
+      Barbosa (c. 1516): Bengal's white sugar is good, but 'they know not how to cast it in loaves' — they pack it as
+      powder in cloth covered with raw hide and tightly sewn, and load many ships with it; in Malabar a quintal cost
+      2.5 ducats (tr. Stanley 1866, p. 179); Varthema (c. 1505) — 'a great quantity of sugar' (1863, p. 212); Federici
+      (1569) — 'great store of sugar' at Satgaon (Hakluyt V, p. 411); Fitch (1586) — from Patna 'much sugar is carried
+      into Bengal' (Ryley 1899, p. 110). Tarafdar (1965, pp. 148–149). Sugar in the kitchen and in offerings — mc-sugar.
+  text:
+    ru: >-
+      Бенгалия была одной из сахарниц Азии. Белый сахар здесь делали очень хороший, но не отливали в твёрдые головы,
+      как в Европе, а оставляли рассыпчатым порошком. Его насыпали в мешки из ткани, обтягивали сыромятной кожей и
+      плотно зашивали — такие тюки грузили на корабли целыми трюмами и везли в Малабар, Камбей и дальше. В лавках
+      Бенгалии продавали и гур, и кханду, и сахар — от тёмного к белому.
+    en: >-
+      Bengal was one of Asia's sugar bowls. The white sugar made here was very good, but it was not cast in hard loaves
+      as in Europe; it was left as a loose powder. It was poured into cloth bags, covered with raw hide and tightly
+      sewn — such bales filled whole holds of ships bound for Malabar, Cambay and beyond. Bengal's shops sold gur,
+      khanda and sugar — from dark to white.
+  hagiography: []
+  sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 179",
+            "Varthema (ок. 1505), пер. Jones–Badger 1863, с. 212",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 411",
+            "Fitch (1586), в: Ryley, Ralph Fitch (1899), с. 110",
+            "Tarafdar, Husain Shahi Bengal (1965), с. 148–149"]
+  images: []
+  game: {model: "тюк ≈ 60 × 40 × 30 см: ткань, обтянутая сыромятной кожей, грубый шов; рядом — горка белого сахара-порошка",
+         where: ["travel/ganga-bank", "navadvipa/market"]}
+
+- id: mc-preserves
+  title: {ru: "Варенья из имбиря, цитрусов и миробаланов", en: "Preserves of ginger, citrus and myrobalan"}
+  rubric: kitchen
+  era_evidence: epoch
+  evidence_note:
+    ru: >-
+      Барбоза (ок. 1516): в Бенгалии делают много варений — из имбиря, апельсинов, лимонов и других местных плодов
+      (пер. Stanley 1866, с. 180); Федеричи (1569): из Ориссы вывозят миробаланы сушёные и в варенье (Hakluyt V,
+      с. 409–410). Рецепты не описаны; соленья и кашанди — mc-kasundi-achar.
+    en: >-
+      Barbosa (c. 1516): Bengal makes many preserves — of ginger, oranges, lemons and other local fruits (tr. Stanley
+      1866, p. 180); Federici (1569): myrobalans dried and preserved are shipped from Orissa (Hakluyt V, pp. 409–410).
+      No recipes are given; pickles and kasundi — mc-kasundi-achar.
+  text:
+    ru: >-
+      Сахара в Бенгалии было много, и в нём варили впрок плоды: молодой имбирь, апельсины, лимоны и другие местные
+      фрукты. Такие варенья возили кораблями на продажу, а из Ориссы — ещё и миробаланы (харитаки), сушёные и в
+      сиропе: их ели и как лакомство, и как лекарство для пищеварения. Европейские купцы считали эти варенья одним из
+      богатств страны.
+    en: >-
+      Bengal had plenty of sugar, and fruit was cooked in it to keep: young ginger, oranges, lemons and other local
+      fruits. Such preserves were shipped for sale, and from Orissa also myrobalans (haritaki), dried and in syrup,
+      eaten both as a treat and as a digestive medicine. European merchants counted these preserves among the land's
+      riches.
+  hagiography: []
+  sources: ["Barbosa (ок. 1516), пер. Stanley 1866, с. 180",
+            "Federici (1569), в: Hakluyt, Principal Navigations V (1904), с. 409–410"]
+  images: []
+  game: {model: "глиняные горшочки с завязанной тканью горловиной: имбирь и дольки цитрусов в густом сиропе; сушёные миробаланы в корзинке",
+         where: ["mishra-house/kitchen", "navadvipa/market"]}
+  todo: "есть ли сладкие варенья в перечнях ЧЧ (Мадхья 3, 15; «джхали» Рагхавы) — сверить по оригиналу"
