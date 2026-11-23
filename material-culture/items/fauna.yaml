@@ -162,39 +162,6 @@
   game: {model: "шакал 70–80 см, рыжевато-серый", where: ["navadvipa/fields", "ganga-ghat"],
          notes: "звук ночного воя — research/audio.md"}
 
-- id: mc-dogs-cats
-  title: {ru: "Собаки и кошки", en: "Dogs and cats"}
-  rubric: nature
-  era_evidence: hagiography
-  evidence_note:
-    ru: >-
-      Пёс, прибившийся к паломникам Шивананды Сена: платил лодочнику, кормил рисом, пёс получил от Господа мякоть кокоса
-      и стал повторять имя — ЧЧ Антья 1.17–33; «даже собака или кошка в твоём доме обретёт преданность» (Шривасу) — ЧБ
-      Мадхья 8.20–21; «даже пёс Кулинаграма Мне дорог» — ЧЧ Ади 10.82; собака на гравюре — img/bengal-thatched-huts-dog-etching.jpg.
-    en: >-
-      The dog that joined Shivananda Sena's pilgrims: he paid the boatman, fed it rice, and the dog received coconut
-      pulp from the Lord and chanted the Name — CC Antya 1.17–33; "even a dog or cat in your house will gain devotion"
-      (to Shrivasa) — CB Madhya 8.20–21; "even a dog of Kulinagrama is dear to Me" — CC Adi 10.82.
-  text:
-    ru: >-
-      Собаки в бенгальской деревне живут при домах и на улицах полудикими, их считают нечистыми и в дом не пускают.
-      Тем трогательнее история бродячего пса, прибившегося к каравану паломников Шивананды Сена: Шивананда кормил его
-      рисом, а когда лодочник не хотел брать собаку на переправу, заплатил за неё. В Пури Махапрабху бросил этому псу
-      мякоть зелёного кокоса и сказал: «Повторяй: Рама, Кришна, Хари!» — и пёс повторил имена и получил освобождение.
-      Кошки ловили мышей в кладовых; Господь обещал Шривасу, что даже кошка и собака в его доме обретут преданность.
-    en: >-
-      Dogs in a Bengali village live half-wild around houses and in the lanes; they are held unclean and not let
-      indoors. All the more touching is the story of the stray dog that joined Shivananda Sena's caravan of pilgrims:
-      Shivananda fed it rice, and when the boatman would not take the dog across, he paid for it. In Puri Mahaprabhu
-      threw the dog green-coconut pulp and said, "Chant: Rama, Krishna, Hari!" — and the dog chanted the names and was
-      liberated. Cats caught mice in the storerooms; the Lord promised Shrivasa that even the cat and the dog in his
-      house would gain devotion.
-  hagiography: ["ЧЧ Антья 1.17–33 (кокос — 1.28–30)", "ЧБ Мадхья 8.20–21", "ЧЧ Ади 10.82"]
-  sources: []
-  images: [{file: "material-culture/img/bengal-thatched-huts-dog-etching.jpg", license: "PD",
-            author: "неизвестен (Wellcome Collection 42184i, нач. XIX в.)", url: "https://wellcomecollection.org/works/kmqst6k6"}]
-  game: {model: "рыжая пария-собака 50 см; полосатая серая кошка", where: ["navadvipa/lane", "travel/ferry", "puri"]}
-
 - id: mc-cattle-buffalo
   title: {ru: "Быки, буйволы, козы", en: "Bullocks, buffaloes, goats"}
   rubric: nature
@@ -210,8 +177,8 @@
       walks in a circle" — Lochana, Madhya 2.169; goats in proverbs (CC Madhya 15.179). Cows — mc-cowshed.
   text:
     ru: >-
-      Корова — кормилица и святыня, а работу делают быки: они пашут поля, тянут повозки, вращают маслобойню и сахарный
-      пресс — «как вол маслобойщика, вечно ходящий по кругу», говорит Лочан. Чёрные буйволы с огромными загнутыми
+      Корова — кормилица и святыня (см. mc-cowshed), а работу делают быки: кроме пахоты (mc-plough-bullocks) они тянут
+      повозки, вращают маслобойню и сахарный пресс — «как вол маслобойщика, вечно ходящий по кругу», говорит Лочан. Чёрные буйволы с огромными загнутыми
       рогами лежат в прудах, спасаясь от жары; их молоко жирнее коровьего, а из рогов делают рожки — маленький
       Нитьянанда с друзьями в Экачакре, играя в пастушков, возвращался вечером домой, трубя в буйволиные рога. В Пури, у Львиных врат, Господь
       однажды упал без чувств среди коров, пришедших из Тайланги, и они обнюхивали Его и не хотели отходить.
@@ -280,15 +247,14 @@
       В Бенгалии много змей — кобры (гокхуро, с «очками» на капюшоне), крайты, гадюки, а в сезон дождей, когда
       поля залиты водой, они заползают в сухие дома и кладовые. Однажды змея вползла и в дом Мишры; ползавший по полу
       малыш Нимай схватил её, а когда она свернулась кольцами, улёгся на неё, как на ложе, — домашние кричали от
-      ужаса, а Он улыбался, словно Вишну на змее Ананте. Многие жители Навадвипы поклонялись богине змей Вишахари
-      (Манасе), прося защиты от укусов; вайшнавы же искали защиты у Самого Господа.
+      ужаса, а Он улыбался, словно Вишну на змее Ананте. От укусов многие искали защиты у богини змей Вишахари
+      (см. mc-manasa-vishahari), вайшнавы же — у Самого Господа.
     en: >-
       Bengal has many snakes — cobras (gokhuro, with "spectacles" on the hood), kraits and vipers — and in the rains,
       when the fields are flooded, they creep into dry houses and storerooms. Once a snake crept into Mishra's house;
       little Nimai, crawling on the floor, seized it, and when it coiled up He lay down on it as on a bed — the household
-      screamed in terror, while He smiled, like Vishnu upon the serpent Ananta. Many people of Navadvipa worshipped the
-      snake goddess Vishahari (Manasa), asking protection from bites; the Vaishnavas sought protection from the Lord
-      Himself.
+      screamed in terror, while He smiled, like Vishnu upon the serpent Ananta. Many sought protection from bites from the
+      snake goddess Vishahari (see mc-manasa-vishahari); the Vaishnavas sought it from the Lord Himself.
   hagiography: ["ЧБ Ади 4.66–69", "ЧБ Ади 16.183–185", "ЧБ Ади 2.65", "ЧЧ Ади 11.20", "ЧБ Антья 5.725"]
   sources: ["Dutt 1877, с. 278 (Serpent poison — змеиный яд в лекарствах)"]
   images: []
@@ -537,38 +503,36 @@
          notes: "в основном звуковое оформление — research/audio.md"}
   todo: "проверить в ЧЧ Антья 1.173, к кому обращается Рупа; найти в ЧБ/Лочане светлячков, сверчков, комаров (полог-машари)"
 
-- id: mc-ganga-fish-fishermen
-  title: {ru: "Рыба и рыбаки", en: "Fish and fishermen"}
+- id: mc-ganga-fish
+  title: {ru: "Рыбы Ганги", en: "Fish of the Ganga"}
   rubric: nature
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Рыбак у моря в Пури ночью вытаскивает сетью Господа, «думая, что это большая рыба», и сам впадает в экстаз;
-      «ловлю рыбу по ночам, и духи не трогают меня, потому что я помню Нрисимху» — ЧЧ Антья 18.44–60; «как рыба без воды»
-      — частое сравнение (ЧЧ Антья 17.59, ЧБ Антья 8.156, Лочан Ади 12.69). Река «прекрасна рыбами» — Лочан, Ади 12.88.
+      Река «прекрасна рыбами» — Лочан, Ади 12.88; «как рыба без воды» — частое сравнение (ЧЧ Антья 17.59, ЧБ Антья
+      8.156, Лочан Ади 12.69); рыбак в Пури вытаскивает сетью Господа — ЧЧ Антья 18.44–60 (эпизод и рыбаки — см.
+      mc-fisherman). Виды рыб в житиях не названы — по общим сведениям.
     en: >-
-      A fisherman by the sea in Puri at night hauls up the Lord in his net "thinking it a big fish" and himself falls
-      into ecstasy; "I fish alone at night, and ghosts do not touch me because I remember Nrisimha" — CC Antya 18.44–60;
-      "like a fish without water" — a common comparison (CC Antya 17.59, CB Antya 8.156, Lochana Adi 12.69). The river
-      "beautiful with fish" — Lochana, Adi 12.88.
+      The river "beautiful with fish" — Lochana, Adi 12.88; "like a fish without water" — a common comparison (CC Antya
+      17.59, CB Antya 8.156, Lochana Adi 12.69); the fisherman in Puri hauls up the Lord in his net — CC Antya 18.44–60
+      (the episode and fishermen — see mc-fisherman). Fish species are not named in the texts — general knowledge.
   text:
     ru: >-
-      Ганга и пруды Бенгалии полны рыбы — карпы руи и катла, сом, мелкая рыбёшка, креветки, а с муссоном с моря
-      поднимается сельдь илиш. Рыбаки-джалия ставят сети и ловушки из бамбука, рыбу продают на рынке; для многих
-      бенгальцев, даже брахманов, рыба — обычная еда, но вайшнавы её не едят и Господу не подносят. Самый удивительный
-      улов в житиях — у рыбака в Пури: ночью в его сеть попал Сам Махапрабху, упавший в море в экстазе; рыбак решил, что
-      вытащил мертвеца или духа, а от прикосновения стал смеяться, плакать и петь «Хари!».
+      Ганга, её старицы и пруды полны рыбы: крупные карпы руи и катла, мригал, сомы, змееголовы, живущие даже в
+      пересыхающих лужах, мелкая серебристая рыбёшка и пресноводные креветки. С началом муссона из моря вверх по реке
+      поднимается сельдь илиш, и тогда на Ганге выходят на лов целые флотилии лодок. Рыба — повседневная еда многих
+      бенгальцев, но вайшнавы её не едят и Господу не подносят. А для житий рыба — прежде всего образ: «как рыба без
+      воды» не может жить преданный без Кришны.
     en: >-
-      The Ganga and the ponds of Bengal teem with fish — rui and katla carp, catfish, small fry, prawns, and with the
-      monsoon the hilsa (ilish) comes up from the sea. Fishermen (jaliya) set nets and bamboo traps and sell the catch in
-      the market; for many Bengalis, even brahmanas, fish is ordinary food, but Vaishnavas do not eat it or offer it to
-      the Lord. The most wonderful catch in the hagiographies is a fisherman's in Puri: at night Mahaprabhu Himself, who
-      had fallen into the sea in ecstasy, came up in his net; the fisherman thought he had hauled up a corpse or a ghost,
-      and from the touch began to laugh, weep and sing "Hari!".
-  hagiography: ["ЧЧ Антья 18.44–60", "ЧЧ Антья 17.59", "ЧБ Антья 8.156", "Лочан, Ади-кханда, ч. 12, ст. 69, 88"]
+      The Ganga, its old beds and ponds teem with fish: big rui and katla carp, mrigal, catfish, snakeheads that live
+      even in drying puddles, small silvery fry and freshwater prawns. With the monsoon the hilsa (ilish) comes up the
+      river from the sea, and whole fleets of boats go out on the Ganga to fish. Fish is everyday food for many Bengalis,
+      but Vaishnavas do not eat it or offer it to the Lord. For the hagiographies the fish is above all an image: "like a
+      fish without water" the devotee cannot live without Krishna.
+  hagiography: ["Лочан, Ади-кханда, ч. 12, ст. 69, 88", "ЧЧ Антья 17.59", "ЧБ Антья 8.156", "ЧЧ Антья 18.44–60"]
   sources: []
   images: []
-  game: {model: "рыбак с сетью на плече; бамбуковая конусная ловушка; корзина с рыбой", where: ["ganga-ghat", "puri/beach"]}
+  game: {model: "карп руи 60–90 см; серебристая илиш 40 см; змееголов в луже", where: ["ganga-ghat", "mishra-house/pond"]}
 
 - id: mc-turtles-dolphins
   title: {ru: "Черепахи и речные дельфины", en: "Turtles and river dolphins"}

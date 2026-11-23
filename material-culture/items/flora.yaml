@@ -628,36 +628,33 @@
   game: {model: "поле жёлтой горчицы; деревянная маслобойня-гхани с волом и шестом", where: ["navadvipa/fields", "navadvipa/oil-press"]}
   todo: "проверить в житиях маслобойщиков (тели); источник XIX в. о гхани (Risley? Martin?)"
 
-- id: mc-fibre-dye-plants
-  title: {ru: "Хлопок, джут и краски: индиго, куркума, марена", en: "Cotton, jute and dyes: indigo, turmeric, madder"}
+- id: mc-jute
+  title: {ru: "Джут (пат)", en: "Jute (pat)"}
   rubric: nature
   era_evidence: later-reconstruction
   evidence_note:
     ru: >-
-      Хлопковые ткани и подушки (тули) — ЧЧ Мадхья 13.11, 14.247; ткачи — mc-weaver; ткань, крашенная в красное, — ЧЧ
-      Антья 13.7. Возделывание джута и индиго в эпоху — общие сведения по истории Бенгалии (джут — пат, древняя
-      местная культура; индиго — древний индийский краситель, массовые плантации — британские XVIII–XIX вв. ⚠).
+      Джут — старая местная культура Бенгалии (санскр. «пата», бенг. пат); в житиях эпохи прямо не найден. Хлопок и
+      краски — см. mc-bengal-cotton и mc-dyes. Массовое экспортное выращивание джута — с XIX в. ⚠
     en: >-
-      Cotton cloth and pillows (tuli) — CC Madhya 13.11, 14.247; weavers — mc-weaver; cloth dyed red — CC Antya 13.7.
-      Growing of jute and indigo in the period — general knowledge of Bengal's history (jute, pat, an old local crop;
-      indigo an ancient Indian dye, mass plantations British of the 18th–19th c. ⚠).
+      Jute is an old local crop of Bengal (Bengali pat); not found directly in the period's hagiographies. Cotton and
+      dyes — see mc-bengal-cotton and mc-dyes. Mass export cultivation of jute dates from the 19th c. ⚠
   text:
     ru: >-
-      Из хлопка (карпас) пряли нить для дхоти и сари — бенгальские ткачи славились тончайшей тканью; хлопком набивали
-      и большие подушки-тули, по которым в Пури перекатывали Джаганнатху к колеснице. Джут (пат) давал грубое волокно
-      для верёвок, мешков и циновок. Ткани красили растительными красками: жёлтой — куркумой, красной — мареной, лаком
-      и сафлором, синей — индиго, а шафранную ткань монахов — охрой (геру), красной глиной.
+      Джут (Corchorus, бенг. пат) растёт на низких заливных полях высокими, в два-три человеческих роста, тонкими
+      стеблями. В конце сезона дождей стебли срезают, связывают в снопы и на несколько недель топят в прудах; потом
+      волокно отделяют руками и сушат на бамбуковых жердях золотистыми прядями. Из джута вьют верёвки, ткут мешковину,
+      циновки и грубую ткань-чот, а молодые листья (налте-шак) едят как горьковатую зелень.
     en: >-
-      Cotton (karpasa) was spun into thread for dhotis and saris — Bengal's weavers were famed for the finest cloth;
-      cotton also stuffed the great tuli cushions on which Jagannatha was rolled to His chariot in Puri. Jute (pat) gave
-      coarse fibre for ropes, sacks and mats. Cloth was dyed with plant colours: yellow from turmeric, red from madder,
-      lac and safflower, blue from indigo, and the saffron cloth of monks with ochre (geru), a red earth.
-  hagiography: ["ЧЧ Мадхья 13.11", "ЧЧ Мадхья 14.247", "ЧЧ Антья 13.7"]
+      Jute (Corchorus, Bengali pat) grows on low flooded fields in tall, slender stems two or three times a man's height.
+      At the end of the rains the stems are cut, bundled and sunk in ponds for some weeks; then the fibre is stripped by
+      hand and dried on bamboo poles in golden hanks. Jute makes ropes, sacking, mats and coarse cloth (chot), and its
+      young leaves (nalte shak) are eaten as a slightly bitter green.
+  hagiography: []
   sources: []
   images: []
-  game: {model: "кусты хлопка с раскрытыми коробочками; связки джута, вымачиваемые в пруду; чаны с краской",
-         where: ["navadvipa/weavers"]}
-  todo: "найти PD-источник (Watt; Birdwood 1880) о бенгальских красках; геру для одежд санньяси — ссылка в ЧЧ/ЧБ"
+  game: {model: "поле высоких стеблей 3 м; снопы в пруду; золотистые пряди волокна на жердях", where: ["navadvipa/fields", "mishra-house/pond"]}
+  todo: "найти джут/верёвки из пата в житиях или в «Манаса-мангале»"
 
 - id: mc-kitchen-garden
   title: {ru: "Огород у дома", en: "The kitchen garden"}
