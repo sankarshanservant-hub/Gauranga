@@ -657,8 +657,7 @@ def pond(c, rx=4.2, ry=3.0):
 M['ground_bank'] = tex_mat('bank', 'mud_forest', scale=0.6, tint=(0.8, 0.75, 0.6))
 haystack((12.0, -2.8, 0), 1.0, 2.5)
 haystack((11.0, 4.6, 0), 1.2, 2.8)
-dung_cakes((-9.15, -1.4, 0.55), Vector((0, 1, 0)), 9, 1.3)       # задняя (западная) стена кухни
-dung_cakes((2.6, 9.45, 0.55), Vector((1, 0, 0)), 6, 1.4)
+dung_cakes((3.03, 5.6, 0.55), Vector((0, 1, 0)), 8, 1.35)       # восточная стена главного дома
 woodpile((-5.6, -3.4, 0.0), 0.2)
 clothesline((3.6, -2.4), (6.6, -0.6), 0.2, 1.9)
 pond((-2.5, -9.8), 3.6, 2.4)
@@ -788,8 +787,76 @@ ct.links.new(rl.outputs['Image'], gl.inputs['Image']); ct.links.new(gl.outputs['
 
 scatter_grass(GROUND, grass_clump(), arg('--grass', 40.0))
 
+LAMPS = arg('--lamps', 1.0)
+for L_ in bpy.data.lights:
+    if L_.type == 'POINT': L_.energy *= LAMPS
+for mname in ('flame',):
+    M[mname].node_tree.nodes['Principled BSDF'].inputs['Emission Strength'].default_value *= max(LAMPS, 0.15)
+
+# ---------------------------------------------------------------- точки для игры (empties): предметы и места
+SPOTS = {
+    # предметы кодекса
+    'hs_tulasi': (0.3, 0.6, 1.2), 'hs_alpana': (0.3, -1.5, 0.05), 'hs_diya': (-2.5, -3.0, 0.1),
+    'hs_handi': (-5.6, 1.7, 0.75), 'hs_brass': (-5.5, 0.4, 0.7), 'hs_kitchen': (-6.3, 0.5, 1.4),
+    'hs_woodpile': (-5.6, -3.4, 0.3), 'hs_chala': (-0.5, 6.0, 3.4), 'hs_dung': (3.05, 6.7, 1.9),
+    'hs_haystack': (12.0, -2.8, 1.2), 'hs_pond': (-2.0, -9.6, 0.1), 'hs_sari': (5.1, -1.5, 1.4),
+    'hs_banana': (-8.0, -6.5, 1.4), 'hs_bananas': (1.3, 4.6, 0.65), 'hs_palm': (-12.0, 8.0, 3.0),
+    'hs_bamboo': (15.0, 3.0, 3.0), 'hs_shed': (8.3, 0.1, 1.4), 'hs_lantern': (-0.5, 4.25, 2.5),
+    'hs_stool': (-1.8, 4.8, 0.6), 'hs_fence': (-10.5, 2.0, 1.0),
+    # места сцены
+    'sp_entry': (4.5, -9.0, 0.0), 'sp_yard': (1.5, -2.0, 0.0), 'sp_mishra_home': (-1.6, 4.4, 0.55),
+    'sp_ghar_door': (-0.5, 5.0, 0.55), 'sp_kitchen_front': (-4.6, 1.2, 0.0), 'sp_offer': (-4.9, 0.0, 0.0),
+    'sp_cook': (-5.6, -0.5, 0.55), 'sp_neighbors': (9.5, -2.5, 0.0), 'sp_neighbor_woman': (10.4, -1.6, 0.0),
+    'sp_shachi_home': (1.2, 4.4, 0.55), 'sp_relative': (-2.6, -1.0, 0.0), 'sp_vishvarupa_in': (5.5, -8.0, 0.0),
+    'sp_sleep1': (-2.6, 4.3, 0.55), 'sp_sleep2': (0.6, 4.3, 0.55), 'sp_sleep3': (2.0, 4.6, 0.55),
+    'sp_player_start': (3.0, -4.5, 0.0), 'sp_vision': (-4.9, 0.0, 0.0),
+}
+for k, v in SPOTS.items():
+    e = bpy.data.objects.new(k, None); e.location = v; link(e)
+
+EXPORT = arg('--export', '')
+if EXPORT:
+    import json
+    os.makedirs(EXPORT, exist_ok=True)
+    keep = ('_plinth', '_wall', '_lintel', '_roof', '_post', '_frame', '_door', '_inside', '_band', 'tm_', 'fence', 'fpost',
+            'shed_', 'haystack', 'hay_pole', 'pond', 'bank', 'ghat', 'palm_trunk', 'palm_crown', 'banana_stem',
+            'banana_leaves', 'log', 'line_post', 'sari', 'diya', 'coconut')
+    # плоская земля вместо травяной (без модификатора)
+    bm = bmesh.new(); bmesh.ops.create_grid(bm, x_segments=12, y_segments=12, size=30)
+    gp = mesh_obj('proxy_ground', bm, None)
+    bpy.ops.object.select_all(action='DESELECT')
+    vl = bpy.context.view_layer.objects
+    for o in sc.objects:
+        if o.name not in vl: continue
+        if o.type == 'MESH' and (o.name.startswith(keep) or any(k in o.name for k in keep)) or o.name == 'proxy_ground' \
+                or o.name.startswith(('hs_', 'sp_')) or o.name == 'cam':
+            o.select_set(True)
+    bpy.ops.export_scene.gltf(filepath=os.path.join(EXPORT, 'courtyard_proxy.glb'), use_selection=True,
+                              export_apply=True, export_materials='NONE', export_cameras=True, export_yup=True,
+                              export_extras=False)
+    bpy.data.objects.remove(gp)
+    # камера в координатах Godot: (x, y, z)_blender -> (x, z, -y)
+    C = Matrix(((1, 0, 0), (0, 0, 1), (0, -1, 0)))
+    mw = co.matrix_world
+    B = C @ mw.to_3x3(); O = C @ mw.translation
+    json.dump({'ortho_width': cam.ortho_scale, 'res': [sc.render.resolution_x, sc.render.resolution_y],
+               'basis_columns': [list(B.col[0]), list(B.col[1]), list(B.col[2])], 'origin': list(O),
+               'spots': {k: [v[0], v[2], -v[1]] for k, v in SPOTS.items()}},
+              open(os.path.join(EXPORT, 'camera.json'), 'w'), indent=1)
+    print('EXPORTED', EXPORT)
+
+DEPTH = arg('--depth', '')
+if DEPTH:   # карта глубины для ControlNet (ближе — светлее)
+    sc.view_layers[0].use_pass_z = True
+    nrm = ct.nodes.new('CompositorNodeNormalize'); inv = ct.nodes.new('CompositorNodeInvert')
+    ct.links.new(rl.outputs['Depth'], nrm.inputs[0]); ct.links.new(nrm.outputs[0], inv.inputs['Color'])
+    fo = ct.nodes.new('CompositorNodeOutputFile'); fo.base_path = os.path.dirname(os.path.abspath(DEPTH))
+    fo.file_slots[0].path = os.path.splitext(os.path.basename(DEPTH))[0] + '_'
+    ct.links.new(inv.outputs[0], fo.inputs[0])
+
 if SAVE:
     bpy.ops.wm.save_as_mainfile(filepath=os.path.abspath(SAVE))
-sc.render.filepath = os.path.abspath(OUT)
-bpy.ops.render.render(write_still=True)
-print('RENDERED', OUT)
+if not arg('--norender', 0):
+    sc.render.filepath = os.path.abspath(OUT)
+    bpy.ops.render.render(write_still=True)
+    print('RENDERED', OUT)
