@@ -26,7 +26,8 @@
       set of instruments. The groom's and bride's musicians competed to outplay each other.
   hagiography: ["ЧБ Ади 8.10", "ЧБ Ади 15.79–80", "ЧБ Ади 15.148–149", "ЧБ Ади 15.162", "ЧБ Ади 3.33"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/solvyns-1799-dhak-drummer.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/nxyv2vxz", note: "1799.; Wellcome Collection — 31269i (b11891087; image V0050396ER)."},
+           {file: "material-culture/img/solvyns-1810-pakhavaj-drummer.jpg", license: "PD (по сроку охраны)", author: "F. B. Solvyns", url: "https://archive.org/details/16.-pakhavaj", note: "1810.; Internet Archive, item `16.-pakhavaj`."}]
   game: {model: "звуковая дорожка праздника; 4–6 музыкантов: мриданга, санаи, дхак, караталы, раковина, рог",
          where: ["mishra-house/gate", "navadvipa/ganga-bank"]}
   todo: "уточнить, что такое варанга, дагад, панча-шабди (PD: словари; Day, Music of Southern India? Tagore 1877?)"
@@ -55,6 +56,9 @@
       sound of the sankirtana Mahaprabhu began in Navadvipa.
   hagiography: ["ЧБ Ади 8.10", "ЧБ Ади 15.80", "ЧБ Ади 15.148–149"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/khol-shrikhol-player-patua-photo.jpg", license: "CC-BY-SA 3.0", author: "Rajendersinghkain / Wikimedia Commons, CC BY-SA 3.0", url: "https://commons.wikimedia.org/wiki/File:Arun_Patua_is_playing_Shrikhol_or_Mrudung.jpg", note: "; Wikimedia Commons."},
+           {file: "material-culture/img/khol-clay-drum-photo.jpg", license: "CC-BY-SA 4.0", author: "পাপৰি বৰা / Wikimedia Commons, CC BY-SA 4.0", url: "https://commons.wikimedia.org/wiki/File:Khol(%E0%A6%96%E0%A7%8B%E0%A6%B2).jpg", note: "; Wikimedia Commons."},
+           {file: "material-culture/img/solvyns-1810-kartal-player.jpg", license: "PD (по сроку охраны)", author: "F. Balthazar Solvyns", url: "https://archive.org/details/24.-kartal", note: "1810 (по калькуттским рисункам 1790-х).; Internet Archive, item `24.-kartal` (коллекция opensource_image, пользовательская загрузка скана 2023 г.; оригинал-держатель не указан)."},
+           {file: "material-culture/img/kartal-cymbals-photo.jpg", license: "CC-BY 4.0", author: "নৰুনা বৰুৱা / Wikimedia Commons, CC BY 4.0", url: "https://commons.wikimedia.org/wiki/File:Kartal_,a_kind_of_cymbal.jpg", note: "; Wikimedia Commons (музейная витрина в Ассаме, подпись «Kartal, a kind of cymbal»)."}]
   game: {model: "кхол 60 см, асимметричный, ремни-растяжки; караталы Ø 6–8 см", where: ["navadvipa/srivasa-angan"]}
   todo: "PD: Solvyns (лист «Khole»?), Tagore 1877/1896 — облик кхола; сверить с терракотами XVII в."

@@ -20,7 +20,7 @@
       without even having washed — and the Lord rejoiced: the Bhattacharya's faith had become firm.
   hagiography: ["ЧЧ Мадхья 6.39–45", "ЧЧ Мадхья 6.224–234", "ЧЧ Мадхья 11.108–110"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/puri-painting-jagannath-temple-pilgrims.jpg", license: "PD (Public Domain Mark 1.0)", author: "живописец-читракар из Пури (патачитра, «карта храма»)", url: "https://wellcomecollection.org/works/ma8nvaca", note: "ок. 1880–1910.; Wellcome Collection — 45186i (b12029981), холст, темпера, 122 × 194,5 см."}]
   game: {model: "стопка новых глиняных горшков с рисом и овощами, перевязанных; корзины", where: ["puri/temple-kitchen"]}
   todo: "PD: Hunter, Orissa (1872) — храмовая кухня, горшки, число поваров (XIX в.)"
 
@@ -52,7 +52,7 @@
       chariot by ropes — yet it moved only by Jagannatha's own will.
   hagiography: ["ЧЧ Мадхья 13.8–28", "ЧЧ Мадхья 14 (Хера-панчами)"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/puri-painting-jagannath-temple-pilgrims.jpg", license: "PD (Public Domain Mark 1.0)", author: "живописец-читракар из Пури (патачитра, «карта храма»)", url: "https://wellcomecollection.org/works/ma8nvaca", note: "ок. 1880–1910.; Wellcome Collection — 45186i (b12029981), холст, темпера, 122 × 194,5 см."}]
   game: {model: "три колесницы (размеры — по PD XIX в., ждут проверки), канаты, песок на Бада-данде",
          where: ["puri/bada-danda"], notes: "Божество — Сам Господь: никаких «статуй»; анимация — с благоговением"}
   todo: "размеры и число колёс по PD (Hunter, Orissa 1872; Stirling 1825) с пометкой «XIX в.»"
@@ -98,7 +98,8 @@
       Himself adorned everyone with garlands and sandal paste.
   hagiography: ["ЧЧ Мадхья 13.29–49"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/wellcome-chaitanya-followers-kirtan-procession-lithograph.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестный бенгальский мастер (Калькутта, батталская литография).", url: "https://wellcomecollection.org/works/gjy4r854", note: "XIX в. (в каталоге без даты; стиль — 1870–1890-е).; Wellcome Collection, London — 26179i (Sierra b11840262; image L0079921)."},
+           {file: "material-culture/img/calcutta-art-studio-chaitanya-devotees-kirtan-chromolitho.jpg", license: "PD (Public Domain Mark 1.0)", author: "Calcutta Art Studio (185 Bowbazar Street, Calcutta)", url: "https://wellcomecollection.org/works/cqkxvkhr", note: "ок. 1880-х (в каталоге без даты; студия работала с 1878).; Wellcome Collection — 26213i (b11840602; image V0045019)."}]
   game: {model: "7 групп по 6–8 человек; 14 кхолов, караталы", where: ["puri/bada-danda"]}
 
 - id: mc-gundicha-cleaning
@@ -181,6 +182,7 @@
       taken along, and another time Shivananda was detained by a toll-collector.
   hagiography: ["ЧЧ Антья 1.18–20", "ЧЧ Антья 10.12"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/solvyns-1811-dingi-boat.jpg", license: "PD (по сроку охраны)", author: "F. B. Solvyns", url: "https://archive.org/details/plate-7.-dingee", note: "1811.; Internet Archive, item `plate-7.-dingee`."},
+           {file: "material-culture/img/solvyns-1811-pansi-passenger-boat.jpg", license: "PD (по сроку охраны)", author: "F. B. Solvyns", url: "https://archive.org/details/plate-5.-pansway", note: "1811.; Internet Archive, item `plate-5.-pansway`."}]
   game: {model: "плоскодонная лодка с бамбуковым навесом, шест; будка сборщика у переправы", where: ["road-to-puri/ferry"]}
   todo: "типы бенгальских лодок — Solvyns, «Boats of Bengal» (листы на archive.org)"

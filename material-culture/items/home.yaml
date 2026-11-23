@@ -38,7 +38,10 @@
             "Martin, Eastern India (1838), т. 3, с. 100–101 (кровля «бангла» с изогнутым коньком; четырёхскатная chautarka) — ок. 1810",
             "Day, Bengal Peasant Life (1874), гл. V, с. 28–31 (bara ghar: толстые глиняные стены, солома больше локтя, цоколь до 5 футов)",
             "Kennedy, The Chaitanya Movement (1925), с. 88–89; Ward (1863), с. 178 — храм джор-бангла как две хижины"]
-  images: []
+  images: [{file: "material-culture/img/hodges-1786-farmyard-bengal-huts.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Hodges (1744–1797).", url: "https://wellcomecollection.org/works/xrs5r8g9", note: "1 августа 1786 (London: J. Wells), мягкий лак с акватинтой, сепия.; Wellcome Collection — 26670i (Sierra b11845168; image V0050414)."},
+           {file: "material-culture/img/bengal-thatched-huts-dog-etching.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестен (подписи по-французски; вероятно, из французского издания Сольвинса «Les Hindoûs», 1808–1812, или естественно-исторической серии).", url: "https://wellcomecollection.org/works/kmqst6k6", note: "нач. XIX в. (в каталоге без даты).; Wellcome Collection — 42184i (Sierra b12000036; image V0022885)."},
+           {file: "material-culture/img/solvyns-1799-man-outside-hut.jpg", license: "PD (Public Domain Mark 1.0)", author: "François Balthazar Solvyns (1760–1824).", url: "https://wellcomecollection.org/works/kh93xg86", note: "1799 (Калькутта, серия «A Collection of Two Hundred and Fifty Coloured Etchings…»).; Wellcome Collection — 30574i (Sierra b11884149; image V0050381EL)."},
+           {file: "material-culture/img/bishnupur-1655-jor-bangla-temple-chala-roof.jpg", license: "CC-BY-SA 4.0", author: "SuvadipSanyal / Wikimedia Commons, CC BY-SA 4.0", url: "https://commons.wikimedia.org/wiki/File:Jor_Bangla_or_Keshta_Raya_temple_of_Bishnupur._Built_by_Raghunath_Singha_in_1655_AD._21.jpg", note: "; Wikimedia Commons (памятник: храм Кешта-рай / Джор-бангла, Бишнупур, Банкура, Зап. Бенгалия; охраняется ASI)."}]
   game: {model: "хижина 5×4 м на цоколе 50–70 см, кровля чар-чала с выгнутым коньком, свес 0,8–1 м над верандой",
          where: ["mishra-house/courtyard"], codex: hs_chala,
          notes: "без окон со стёклами, без черепицы и кирпичных стен у жилых хижин"}
@@ -66,7 +69,8 @@
                 "Лочан, Ади-кханда, ч. 2, ст. 111"]
   sources: ["Day, Bengal Peasant Life (1874), с. 28 («uthan … indispensable to the house of every peasant»)",
             "Martin, Eastern India (1838), т. 3, с. 100 (усадьба-бари из отдельных хижин вокруг двора-ангана, огороженная)"]
-  images: []
+  images: [{file: "material-culture/img/hodges-1786-farmyard-bengal-huts.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Hodges (1744–1797).", url: "https://wellcomecollection.org/works/xrs5r8g9", note: "1 августа 1786 (London: J. Wells), мягкий лак с акватинтой, сепия.; Wellcome Collection — 26670i (Sierra b11845168; image V0050414)."},
+           {file: "material-culture/img/tayler-1842-village-bengal-barber.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Tayler (1808–1892), литограф O. Bouvier", url: "https://wellcomecollection.org/works/xdevqe2e", note: "1 февраля 1842 (London: T. McLean).; Wellcome Collection — 37172i (b11950006; image V0019798)."}]
   game: {model: "плоский глиняный двор ~12×10 м, светлый, чуть выше уровня дорожки; цоколи хижин по периметру",
          where: ["mishra-house/courtyard"]}
 
@@ -95,7 +99,7 @@
   hagiography: ["ЧБ Ади 8.73", "ЧБ Ади 8.166", "ЧБ Ади 12.101", "ЧБ Ади 14.43", "ЧБ Ади 2.81",
                 "ЧЧ Ади 3.104–107", "ЧЧ Ади 13.70", "ЧЧ Мадхья 3.56 (цветы туласи на каждом блюде)"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/tulasi-mancha-gour-nitai-temple-tejpal-bankura.jpg", license: "CC-BY 4.0", author: "Amitabha Gupta / Wikimedia Commons, CC BY 4.0", url: "https://commons.wikimedia.org/wiki/File:Tulsi-Mancha-of-Gour-Nitai-Temple-Tejpal-Bankura.jpg", note: "; Wikimedia Commons; памятник под охраной ASI (храм Гаура-Нитай, Теджпал, округ Банкура)."}]
   game: {model: "глиняный побелённый постамент 70–90 см, квадратный, с нишей для лампады; куст туласи",
          where: ["mishra-house/courtyard"], codex: hs_tulasi,
          notes: "вечером — лампада в нише; рядом медный/глиняный кувшинчик для полива"}
@@ -120,7 +124,7 @@
       designs and prepared sandal paste, flowers, incense, lamps and scented water.
   hagiography: ["ЧЧ Ади 14.9", "ЧБ Ади 14.41–42", "ЧБ Ади 5.20 (паломник носит Бала-Гопала и шалаграму на шее)"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/belnos-1851-brahmin-worship-shalagram.jpg", license: "PD (Public Domain Mark 1.0)", author: "Sophie Charlotte Belnos (1795–1865), из альбома «The Sundhya, or the Daily Prayers of the Brahmins» (London: Day & Son, 1851; рисовано в Бенгалии).", url: "https://wellcomecollection.org/works/nuh7qmdb", note: "1851.; Wellcome Collection — 580425i (b15804252; image V0046126)."}]
   game: {model: "небольшая хижина или комната с низким деревянным престолом (синхасаной), медные сосуды, колокольчик",
          where: ["mishra-house/thakur-ghar"],
          notes: "Божество — Сам Господь, не «статуя/идол»; кликабельно только с почтительным текстом"}
@@ -177,7 +181,7 @@
   sources: ["Sen 1911, с. 382 (глиняный светильник сохранил старое имя «прадип» при персидских названиях люстр)",
             "Sen 1911, с. 23 («Дак-вачана»: вечером зажигают светильник)",
             "Sen, Folk-Literature of Bengal (1920), с. 72 (светильники на гхи у богатых — сказки)"]
-  images: []
+  images: [{file: "material-culture/img/devis-1797-bengal-potter-and-wares.jpg", license: "PD (Public Domain Mark 1.0)", author: "Arthur William Devis (1762–1822), гравёр John Wright", url: "https://wellcomecollection.org/works/ck4y7dp4", note: "ок. 1797 (по рисункам, сделанным в Бенгалии в 1790-е).; Wellcome Collection — 580109i (b15801093; image V0046114)."}]
   game: {model: "чашечка Ø 6–8 см с носиком для фитиля, обожжённая глина; тёплый огонёк",
          where: ["mishra-house/courtyard", "mishra-house/thakur-ghar", "mishra-house/sutika-ghar"], codex: hs_diya}
   todo: "уточнить, какие масла названы в житиях для лампад (бенг. оригинал)"
@@ -283,7 +287,7 @@
       away. In a temper Nimai would smash the pots and jars at home.
   hagiography: ["ЧЧ Ади 14.25–35", "ЧЧ Ади 14.43", "ЧЧ Ади 10.68 (разбитый железный кувшин Шридхара)"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/devis-1797-bengal-potter-and-wares.jpg", license: "PD (Public Domain Mark 1.0)", author: "Arthur William Devis (1762–1822), гравёр John Wright", url: "https://wellcomecollection.org/works/ck4y7dp4", note: "ок. 1797 (по рисункам, сделанным в Бенгалии в 1790-е).; Wellcome Collection — 580109i (b15801093; image V0046114)."}]
   game: {model: "кувшин Ø 30 см, узкое горло, красно-коричневая обожжённая глина; ряд кувшинов у кухни",
          where: ["mishra-house/kitchen", "ganga-ghat"]}
 
@@ -313,7 +317,7 @@
   sources: ["Sen 1911, с. 21–22 («Дак-вачана»: на востоке — пруд, на западе — бамбук, на севере — сад, юг открыт)",
             "Sen 1911, с. 23 (вода — кувшином из пруда)",
             "Day 1874, с. 30 (пруд к востоку от двора; питьевая вода — из большого пруда)"]
-  images: []
+  images: [{file: "material-culture/img/belnos-1851-brahmin-bathing-ganges.jpg", license: "PD (Public Domain Mark 1.0)", author: "S. C. Belnos («The Sundhya…»)", url: "https://wellcomecollection.org/works/vx4mta93", note: "1851.; Wellcome Collection — 587478i (b15874783)."}]
   game: {model: "ступени из утрамбованной глины/кирпича к воде, бамбуковые перила? (проверить); пруд с ряской",
          where: ["ganga-ghat", "mishra-house/pond"], codex: hs_pond}
   todo: "были ли гхаты Навадвипы ок. 1500 г. кирпичными? (Хантер, Нади)"
@@ -391,6 +395,6 @@
       thatched shelter at the edge of the yard, a manger and a stack of rice straw.
   hagiography: ["ЧБ Ади 15.189", "ЧЧ Ади 17.153 (корова — мать, бык — отец)"]
   sources: ["Day 1874, с. 29–30 (коровник-гоал: глиняные кормушки, колья, дымный костёр из кизяка от комаров)"]
-  images: []
+  images: [{file: "material-culture/img/hodges-1786-farmyard-bengal-huts.jpg", license: "PD (Public Domain Mark 1.0)", author: "William Hodges (1744–1797).", url: "https://wellcomecollection.org/works/xrs5r8g9", note: "1 августа 1786 (London: J. Wells), мягкий лак с акватинтой, сепия.; Wellcome Collection — 26670i (Sierra b11845168; image V0050414)."}]
   game: {model: "навес на 4 бамбуковых столбах, соломенная кровля, глиняные ясли, 1–2 коровы с телёнком",
          where: ["mishra-house/cowshed"], codex: hs_shed}

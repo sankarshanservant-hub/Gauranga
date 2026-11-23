@@ -18,7 +18,8 @@
       came from Shantipur to Navadvipa to see the baby, followed by maidservants carrying baskets of gifts.
   hagiography: ["ЧЧ Ади 13.114"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/gujarat-16c-wood-frieze-palanquin-bullock-cart-cma.jpg", license: "CC0 1.0", author: "резчик из Гуджарата", url: "https://clevelandart.org/art/1963.676", note: "XVI–XVII вв.; The Cleveland Museum of Art — 1963.676 (Gift of George P. Bickford). Дерево со следами краски, 20,4 × 257,7 × 12,8 см."},
+           {file: "material-culture/img/palki-old-palanquin-bankura-photo.jpg", license: "CC-BY-SA 3.0", author: "Jonoikobangali / Wikimedia Commons, CC BY-SA 3.0", url: "https://commons.wikimedia.org/wiki/File:PalkiBankura.JPG", note: "; Wikimedia Commons; предмет — семья Датта, Рамсагар, округ Банкура."}]
   game: {model: "дола: короб с изогнутой крышей и занавесями на бамбуковой жерди, 4 носильщика",
          where: ["mishra-house/gate"], notes: "эпизод 4 тестового уровня"}
   todo: "PD-изображение бенгальского паланкина (Solvyns) и его названия (дола/палки/чатурдола)"

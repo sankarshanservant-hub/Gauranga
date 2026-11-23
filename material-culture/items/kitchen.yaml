@@ -116,7 +116,7 @@
             "Bose 1881, с. 155 (глиняные горшки на кухне и в кладовой)",
             "Mukharji 1888, с. 56 (расписные горшки sakher hanri)",
             "Day 1874, с. 28–29 (кладовая с ханди, полными припасов)"]
-  images: []
+  images: [{file: "material-culture/img/devis-1797-bengal-potter-and-wares.jpg", license: "PD (Public Domain Mark 1.0)", author: "Arthur William Devis (1762–1822), гравёр John Wright", url: "https://wellcomecollection.org/works/ck4y7dp4", note: "ок. 1797 (по рисункам, сделанным в Бенгалии в 1790-е).; Wellcome Collection — 580109i (b15801093; image V0046114)."}]
   game: {model: "ханди Ø 20–35 см, круглое дно, отогнутый венчик, красно-коричневые, закопчённые снизу; стоят на кольцах из соломы",
          where: ["mishra-house/kitchen"], codex: hs_handi}
 
@@ -308,7 +308,7 @@
                 "ЧЧ Мадхья 3.53–54", "ЧЧ Антья 6.57–58"]
   sources: ["Sen 1911, с. 299 (Мукундарам, XVI в.: молочницы несут простоквашу на рынок в кувшинах)",
             "Day 1874, с. 35 (молоко → сливки, гхи, простокваша, пахта)"]
-  images: []
+  images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.159", note: "ок. 1890.; The Cleveland Museum of Art — 2003.159; 42 × 26 см."}]
   game: {model: "горшки с молоком/дадхи, подвешенные в верёвочных сетках (шика) от кошек — проверить; маслобойка-мешалка",
          where: ["mishra-house/kitchen"]}
   todo: "подвесные сетки (шика) — есть ли в житиях?"
@@ -415,7 +415,7 @@
       Bengali village.
   hagiography: []
   sources: ["Day 1874, с. 29 (дхенки на веранде хижины-дхенкишалы)"]
-  images: []
+  images: [{file: "material-culture/img/dhenki-rice-husker-assam-photo.jpg", license: "CC-BY-SA 3.0", author: "PranjalBorah / Wikimedia Commons, CC BY-SA 3.0", url: "https://commons.wikimedia.org/wiki/File:Dhenki_(Side_view).jpg", note: "; Wikimedia Commons."}]
   game: {model: "бревно 2–2,5 м на развилке, пест с железным кольцом, ямка в полу под навесом",
          where: ["mishra-house/backyard"]}
   todo: "есть ли дхенки в «Манаса-мангале»/«Чанди-мангале»? (research/pd-texts.md)"
@@ -437,7 +437,7 @@
       wears smooth.
   hagiography: []
   sources: []
-  images: []
+  images: [{file: "material-culture/img/shil-nora-grinding-stone-bengal-photo.jpg", license: "CC0 1.0", author: "Anusandhani Pabna Folk (Wikimedia Commons, own work)", url: "https://commons.wikimedia.org/wiki/File:Heritage_Shil_Nora.jpg", note: "; Wikimedia Commons."}]
   game: {model: "каменная плита 40×25×5 см, камень-скалка 20 см; жёлтые следы куркумы", where: ["mishra-house/kitchen"]}
   todo: "PD-подтверждение для эпохи"
 

@@ -55,7 +55,7 @@
       onwards, wore a kanchuli bodice under the sari and a light veil (odna); today's stitched blouse came into use much
       later. Saris were of cotton, and for the wealthy of silk and embroidered: such were the ones Sita Thakurani brought.
   hagiography: ["ЧЧ Ади 13.113", "Лочан, Ади-кханда, ч. 3, ст. 271", "Лочан, Ади-кханда, ч. 4, ст. 359"]
-  images: []
+  images: [{file: "material-culture/img/kalighat-1890-yashoda-and-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.159", note: "ок. 1890.; The Cleveland Museum of Art — 2003.159; 42 × 26 см."}]
   sources: ["Sen 1911, с. 388–389 (канчули, одна, нивибандха — XV–XVIII вв.)", "Bose 1881, с. 293 (сари 5 ярдов с цветной каймой — XIX в.)"]
   game: {model: "простое хлопковое сари (белое/небелёное, цветная кайма); у знатных — лиф-канчули; край на голове у замужних",
          where: ["mishra-house/courtyard"], codex: hs_sari}
@@ -112,7 +112,8 @@
       until His sannyasa.
   hagiography: ["ЧБ Ади 12.243", "ЧБ Ади 15.130", "ЧБ Ади 12.185–186", "ЧБ Ади 15.166"]
   sources: ["Sen 1911, с. 387–389 (Виджай Гупта: дхоти, тюрбан, покрывало; длинные волосы до XVI в.)", "Hunter 1875, т. 2, с. 240 (дхоти, чадар, гамчха — XIX в.)", "Sen, Folk-Literature (1920), с. 100 (обычный костюм — дхоти и чадар)"]
-  images: []
+  images: [{file: "material-culture/img/kalighat-1890-nitai-and-gaur-cma.jpg", license: "CC0 1.0", author: "художник-патуа Калигхата", url: "https://clevelandart.org/art/2003.154", note: "ок. 1890.; The Cleveland Museum of Art — 2003.154 (Gift of William E. Ward in memory of his wife, Evelyn Svec Ward). Гуммитемпера, графит, тушь, олово на бумаге; 45,4 × 27,8 см."},
+           {file: "material-culture/img/calcutta-art-studio-chaitanya-devotees-kirtan-chromolitho.jpg", license: "PD (Public Domain Mark 1.0)", author: "Calcutta Art Studio (185 Bowbazar Street, Calcutta)", url: "https://wellcomecollection.org/works/cqkxvkhr", note: "ок. 1880-х (в каталоге без даты; студия работала с 1878).; Wellcome Collection — 26213i (b11840602; image V0045019)."}]
   game: {model: "белое/небелёное хлопковое дхоти до щиколоток, уттарья через левое плечо; у Нимая — жёлтое",
          where: ["mishra-house/courtyard", "navadvipa/market"]}
   todo: "форма тюрбана; цирюльник, остригший Господа перед санньясой (ЧЧ/ЧБ) — сверить"
@@ -135,7 +136,8 @@
       forehead bore a tilaka and He carried books; at the wedding a crescent of sandal with aguru was drawn on Him.
   hagiography: ["ЧБ Ади 12.245", "ЧБ Ади 15.128", "ЧБ Ади 8.14", "ЧБ Ади 8.186", "Лочан, Ади-кханда, ч. 1, ст. 85"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/belnos-1851-tilaka-signs-of-brahmins.jpg", license: "PD (Public Domain Mark 1.0)", author: "Sophie Charlotte Belnos", url: "https://wellcomecollection.org/works/f2877av8", note: "1851 (London: Day & Son).; Wellcome Collection — 580611i (b1580611x; image V0046127)."},
+           {file: "material-culture/img/company-brahmin-japa-beads.jpg", license: "PD (Public Domain Mark 1.0)", author: "неизвестный индийский художник", url: "https://wellcomecollection.org/works/k2zgf6ww", note: "XIX в. (1800–1899?).; Wellcome Collection — 576052i (b15760522; image V0045540)."}]
   game: {model: "тилака — вертикальная (форма уточнить), шикха, шнур через левое плечо", where: []}
   todo: "форма гаудия-вайшнавской тилаки в XVI в. — вопрос к специалисту"
 
@@ -167,5 +169,7 @@
       rice before it is put on, and a plain iron bangle is also worn on the married woman's left wrist.
   hagiography: ["ЧБ Ади 12.146–149"]
   sources: ["Sen 1911, с. 240, 248, 262", "Mukharji 1888, с. 99–100, 147–148, 281–282", "Bose 1881, с. 72, 75 (железный браслет)"]
-  images: []
+  images: [{file: "material-culture/img/shankha-conch-bangles-kolkata-photo.jpg", license: "CC-BY 3.0", author: "Biswarup Ganguly / Wikimedia Commons, CC BY 3.0", url: "https://commons.wikimedia.org/wiki/File:Shankha_-_Conch_Bangles_-_Kolkata_2014-10-03_9326.JPG", note: "; Wikimedia Commons."},
+           {file: "material-culture/img/shankhari-carving-conch-bracelet-photo.jpg", license: "CC-BY-SA 3.0", author: "Nasir Khan Saikat / Wikimedia Commons, CC BY-SA 3.0", url: "https://commons.wikimedia.org/wiki/File:Designing_the_conch_bracelet_(%E0%A6%B6%E0%A6%BE%E0%A6%81%E0%A6%96%E0%A6%BE_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80).jpg", note: "; Wikimedia Commons."},
+           {file: "material-culture/img/shankha-pola-bengali-bride-hands-photo.jpg", license: "CC-BY-SA 4.0", author: "AnkitaaDeb / Wikimedia Commons, CC BY-SA 4.0", url: "https://commons.wikimedia.org/wiki/File:Bride_wearing_Shankha_Pola_at_a_Bengali_Wedding.jpg", note: "; Wikimedia Commons."}]
   game: {model: "пара белых плоских колец Ø 6–7 см с резьбой; тонкий железный браслет", where: ["mishra-house/courtyard"]}

@@ -21,7 +21,7 @@
       Muslims mimicked the singers — and so repeated the name as well.
   hagiography: ["ЧБ Ади 3.2–5", "ЧЧ Ади 13.89–103"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/belnos-1851-brahmin-bathing-ganges.jpg", license: "PD (Public Domain Mark 1.0)", author: "S. C. Belnos («The Sundhya…»)", url: "https://wellcomecollection.org/works/vx4mta93", note: "1851.; Wellcome Collection — 587478i (b15874783)."}]
   game: {model: "толпа на гхате ночью, лампады, луна в затмении", where: ["ganga-ghat"],
          notes: "эпизод 1 тестового уровня"}
 
@@ -70,7 +70,7 @@
   hagiography: ["ЧБ Ади 2.211", "ЧБ Ади 4.52", "Лочан, Ади-кханда, ч. 2, ст. 130", "ЧБ Ади 12.146–149"]
   sources: ["Bose 1881, с. 24–25 (раковиной возвещают рождение мальчика; молчание раковины — знак горя)",
             "Sen 1911, с. 171 (женщины трубят в раковины при рождении)"]
-  images: []
+  images: [{file: "material-culture/img/solvyns-1799-brahmin-conch-and-bell.jpg", license: "PD (Public Domain Mark 1.0)", author: "François Balthazar Solvyns", url: "https://wellcomecollection.org/works/c7q2nna4", note: "1799.; Wellcome Collection — 31179i (b11890186; image V0050393ER)."}]
   game: {model: "белая раковина Turbinella pyrum со срезанной верхушкой; медный колокольчик с рукоятью",
          where: ["mishra-house/thakur-ghar", "mishra-house/courtyard"]}
 
@@ -93,7 +93,7 @@
       hagiographies say, the gods and gandharvas were singing and playing at the same time.
   hagiography: ["ЧБ Ади 2.211", "ЧБ Ади 3.33", "ЧЧ Ади 13.106", "ЧЧ Ади 13.109", "Лочан, Ади-кханда, ч. 1, ст. 84"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/solvyns-1799-dhak-drummer.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/nxyv2vxz", note: "1799.; Wellcome Collection — 31269i (b11891087; image V0050396ER)."}]
   game: {model: "2–3 музыканта у ворот: барабан дхак/дхол?, флейта, рог (уточнить инструменты)",
          where: ["mishra-house/gate"], notes: "небесный план — гандхарвы с той же музыкой"}
   todo: "какие барабаны/трубы названы в оригинале ЧБ Ади 3.33"
@@ -154,7 +154,7 @@
       left without a gift.
   hagiography: ["ЧЧ Ади 13.104", "ЧЧ Ади 13.108–110", "ЧБ Ади 3.32–33"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/kalighat-1890-worship-of-infant-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.128", note: "ок. 1890.; The Cleveland Museum of Art — 2003.128; 29 × 25 см."}]
   game: {model: "плетёные подносы с дарами у сутика-гхара", where: ["mishra-house/courtyard"]}
 
 - id: mc-auspicious-gifts
@@ -207,7 +207,7 @@
       durva and rice and blessed Him and His brother with long life.
   hagiography: ["ЧЧ Ади 13.111–118"]
   sources: ["Sen, Chaitanya and His Age (1922), с. 109 (Сита и Малини дарят украшения; повитуха Нараяни — по Джаянанде)"]
-  images: []
+  images: [{file: "material-culture/img/kalighat-1890-worship-of-infant-krishna-cma.jpg", license: "CC0 1.0", author: "художник Калигхата", url: "https://clevelandart.org/art/2003.128", note: "ок. 1890.; The Cleveland Museum of Art — 2003.128; 29 × 25 см."}]
   game: {model: "корзины с дарами; каждый дар кликабелен (см. отдельные карточки)", where: ["mishra-house/courtyard"],
          notes: "эпизод 4 тестового уровня"}
 
@@ -254,7 +254,7 @@
       sprinkled with water that had washed Vishnu's feet.
   hagiography: ["ЧБ Ади 4.6–17", "ЧБ Ади 4.66–75"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/aic-odisha-15c-narasimha-bronze.jpg", license: "CC0 1.0", author: "ориcсский литейщик", url: "https://www.artic.edu/artworks/144964", note: "ок. XV в.; Art Institute of Chicago — 1996.88 (Kate S. Buckingham Fund). Бронза с серебряной инкрустацией и следами пигмента, 38,5 × 29,1 × 21 см."}]
   game: {model: "красная нить-ракша на запястье младенца; медный сосуд с чаранамритой",
          where: ["mishra-house/sutika-ghar"], notes: "эпизод 6 «Вор!»: гандхарва подходит слишком близко"}
 
@@ -652,7 +652,7 @@
       ornaments, while the musicians of both parties began to compete.
   hagiography: ["ЧБ Ади 15.135–166"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/palki-old-palanquin-bankura-photo.jpg", license: "CC-BY-SA 3.0", author: "Jonoikobangali / Wikimedia Commons, CC BY-SA 3.0", url: "https://commons.wikimedia.org/wiki/File:PalkiBankura.JPG", note: "; Wikimedia Commons; предмет — семья Датта, Рамсагар, округ Банкура."}]
   game: {model: "паланкин-дола, факелы (масляные, на бамбуке), цепочка огней вдоль берега", where: ["navadvipa/ganga-bank"]}
 
 - id: mc-wedding-rite
@@ -681,6 +681,6 @@
   hagiography: ["ЧБ Ади 15.166–189", "Лочан, Ади-кханда, ч. 11, ст. 105–112", "Лочан, Ади-кханда, ч. 14, ст. 157",
                 "ЧБ Ади 10 (свадьба с Лакшмиприей)"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/shankha-pola-bengali-bride-hands-photo.jpg", license: "CC-BY-SA 4.0", author: "AnkitaaDeb / Wikimedia Commons, CC BY-SA 4.0", url: "https://commons.wikimedia.org/wiki/File:Bride_wearing_Shankha_Pola_at_a_Bengali_Wedding.jpg", note: "; Wikimedia Commons."}]
   game: {model: "невеста на деревянной доске-пиди, которую несут родственники; полотнище; гирлянды",
          where: ["navadvipa/bride-house"]}

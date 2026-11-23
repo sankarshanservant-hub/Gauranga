@@ -27,7 +27,7 @@
       and none of them took money from Him.
   hagiography: ["ЧБ Ади 12.106–145"]
   sources: ["Hunter, Statistical Account of Bengal, т. 2 (1875), с. 47–48 — касты Надии (через research/pd-texts.md)"]
-  images: []
+  images: [{file: "material-culture/img/solvyns-1799-market-scene-calcutta.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/sdf7rm8x", note: "1799.; Wellcome Collection — 31452i (b11892900; image V0050403)."}]
   game: {model: "улица ремесленников: навесы-лавки перед хижинами; ткацкий станок, горшки с молоком, гирлянды, бетель",
          where: ["navadvipa/market"]}
 
@@ -50,7 +50,7 @@
       at the wedding clothes were handed out to everyone.
   hagiography: ["ЧБ Ади 12.108–112", "ЧБ Ади 12.85", "ЧБ Ади 15.123"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/devis-1797-bengal-spinning-and-weaving.jpg", license: "PD (Public Domain Mark 1.0)", author: "A. W. Devis, гравёр Peltro William Tomkins", url: "https://wellcomecollection.org/works/p42s3muw", note: "1797.; Wellcome Collection — 46141i (b12039536; image V0024688)."}]
   game: {model: "ямный ручной станок под навесом, мотки пряжи", where: ["navadvipa/market"]}
   todo: "тип станка в Бенгалии ок. 1500 (ямный?) — PD (Mukharji 1888)"
 
@@ -175,7 +175,8 @@
       keenly that they avoided meeting Him.
   hagiography: ["ЧБ Ади 6.135", "ЧБ Ади 8.26 и далее", "ЧБ Ади 12.2–40", "ЧБ Ади 12.91 (чанди-мандапа Мукунды Санджая)", "ЧЧ Ади 16 (победа над Кешавой Кашмири)"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/solvyns-1799-recital-of-mahabharata-katha.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/wuevghch", note: "1799.; Wellcome Collection — 31376i (b11892146; image V0050400)."},
+           {file: "material-culture/img/solvyns-1799-brahmin-singers-kirtan-audience.jpg", license: "PD (Public Domain Mark 1.0)", author: "F. B. Solvyns", url: "https://wellcomecollection.org/works/tggqxjus", note: "1799.; Wellcome Collection — 31414i (b11892523; image V0050401)."}]
   game: {model: "открытый навес-чандимандап, циновки, связки рукописей, светильник; ученики-брахмачари",
          where: ["navadvipa/tol"]}
   todo: "PD: Hunter т. 2 о толах Надии (XIX в.); проверить, кормил ли учитель учеников уже в XV–XVI вв."
@@ -204,7 +205,8 @@
       knowledge and never placed on the ground.
   hagiography: ["ЧБ Ади 6.46", "ЧБ Ади 6.112–113", "ЧБ Ади 12.2", "ЧБ Ади 12.245", "ЧБ Ади 4.53–55"]
   sources: []
-  images: []
+  images: [{file: "material-culture/img/vikramashila-1119-palm-leaf-manuscript-folio-cma.jpg", license: "CC0 1.0", author: "писец монастыря Викрамашила (Бихар); живопись — Катманду", url: "https://clevelandart.org/art/1938.301.4.a", note: "воскресенье, 14 сентября 1119 г. (239 г. эры Невар).; The Cleveland Museum of Art — 1938.301.4.a (J. H. Wade Fund). Гуммитемпера и тушь на пальмовом листе, 5,4 × 56,2 см."},
+           {file: "material-culture/img/odisha-1700s-palm-leaf-chandrabhanu-incised-cma.jpg", license: "CC0 1.0", author: "ориcсский мастер-писец", url: "https://clevelandart.org/art/1979.21", note: "конец XVIII в.; The Cleveland Museum of Art — 1979.21 (Edward L. Whittemore Fund). Уголь на пальмовом листе, 4,8 × 40,2 см."}]
   game: {model: "связка листов 40×8 см между дощечками, шнур; глиняная чернильница, тростниковое перо",
          where: ["navadvipa/tol", "mishra-house/main-hut"]}
   todo: "пальмовый лист vs бумага в Бенгалии ок. 1500 г.; найти свободное фото бенгальской пунтхи XVI в."
