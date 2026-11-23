@@ -600,3 +600,36 @@
   sources: []
   images: []
   game: {model: "макака-резус 50 см; лангур 70 см + хвост 1 м", where: ["navadvipa/market", "puri"]}
+
+- id: mc-small-birds
+  title: {ru: "Птицы двора: бюльбюль, горлицы, зимородок, дронго", en: "Birds of the yard: bulbul, doves, kingfisher, drongo"}
+  rubric: nature
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      В житиях эти птицы почти не названы: горлицы и голуби — у Карнапуры (9.83, 9.94), «крики множества разных птиц»
+      в лесу — Карнапура 12.128. Набор видов — по природе Нижней Бенгалии (обычные и сейчас виды); для сцен и звукового
+      фона.
+    en: >-
+      These birds are hardly named in the hagiographies: doves and pigeons in Karnapura (9.83, 9.94), "the cries of many
+      kinds of birds" in the forest — Karnapura 12.128. The set of species follows the nature of lower Bengal (still
+      common species); for scenes and soundscape.
+  text:
+    ru: >-
+      С рассвета двор бенгальского дома полон птичьих голосов. Краснозадый бюльбюль с хохолком весело пересвистывается в
+      кустах, пятнистые горлицы воркуют на крыше, сорочья славка-доел поёт с ветки, чёрный дронго с раздвоенным хвостом
+      ловит насекомых над пасущимися коровами. Над прудом с резким криком проносится синий зимородок с огромным красным
+      клювом, а в бамбуке шумно возятся стайки «семи сестёр» — серых тимелий. Это обычный звуковой фон, на котором
+      начинался каждый день в Навадвипе.
+    en: >-
+      From dawn a Bengali yard is full of bird voices. The crested red-vented bulbul whistles cheerfully in the bushes,
+      spotted doves coo on the roof, the magpie-robin (doel) sings from a branch, and the black, fork-tailed drongo
+      catches insects over the grazing cows. A blue kingfisher with a huge red bill flashes over the pond with a sharp
+      cry, and flocks of grey babblers, the "seven sisters", bustle noisily in the bamboo. This is the everyday soundscape
+      with which each day began in Navadvipa.
+  hagiography: ["Карнапура, сарга 9.83, 9.94, 12.128"]
+  sources: []
+  images: []
+  audio: []
+  game: {model: "бюльбюль 20 см (чёрный хохолок, красное подхвостье); горлица; зимородок 28 см; дронго 30 см",
+         where: ["mishra-house/courtyard", "mishra-house/pond"], notes: "звуковой фон утра — research/audio.md"}

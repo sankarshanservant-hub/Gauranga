@@ -655,3 +655,69 @@
   images: []
   game: {model: "—", where: [], notes: "правило для художников: не ставить эти растения в сцены эпохи"}
   todo: "уточнить страницы Watt о Capsicum и Nicotiana"
+
+- id: mc-gunja
+  title: {ru: "Гунджа — красные семена", en: "Gunja — the red seeds"}
+  rubric: nature
+  era_evidence: hagiography
+  evidence_note:
+    ru: >-
+      Кришна в гирлянде из ягод гунджи — ЧЧ Ади 17.279, ЧБ Мадхья 2.181, 2.271, ЧБ Антья 5.352, 7.54, 7.67; гирлянда
+      гунджи из Вриндавана, которую Господь носил, вспоминая игры Враджа, и подарил Рагхунатхе дасу вместе с
+      Говардхана-шилой — ЧЧ Антья 6.287–307, 6.327, 20.113 (см. mc-govardhana-shila). Семя как гирька-рати — mc-weights-scales.
+    en: >-
+      Krishna with a garland of gunja berries — CC Adi 17.279, CB Madhya 2.181, 2.271, CB Antya 5.352, 7.54, 7.67; the
+      gunja garland from Vrindavana that the Lord wore while remembering Vraja's pastimes and gave to Raghunatha dasa
+      with the Govardhana-shila — CC Antya 6.287–307, 6.327, 20.113 (see mc-govardhana-shila). The seed as the rati weight —
+      mc-weights-scales.
+  text:
+    ru: >-
+      Гунджа (Abrus precatorius) — тонкая лиана с перистыми листьями; её стручки, лопаясь, открывают глянцевые
+      ярко-красные семена с чёрным пятнышком. Пастушки Враджа нанизывают их в ожерелья, и Кришна-пастушок носит
+      гирлянду гунджи вместе с павлиньим пером. Махапрабху в Пури хранил гирлянду гунджи, привезённую из Вриндавана, и,
+      надевая её, погружался в памятование о Врадже, а потом подарил её Рагхунатхе дасу — как знак прибежища у стоп
+      Радхи. Семена гунджи на удивление одинаковы по весу, поэтому ювелиры и менялы пользовались ими как самой мелкой
+      гирькой — рати. Сами семена ядовиты, если их разжевать.
+    en: >-
+      Gunja (Abrus precatorius) is a slender vine with feathery leaves; its pods split to show glossy bright-red seeds
+      with a black spot. The cowherd boys of Vraja string them into necklaces, and the cowherd Krishna wears a gunja
+      garland with His peacock feather. In Puri Mahaprabhu kept a gunja garland brought from Vrindavana and, putting it
+      on, became absorbed in remembrance of Vraja; later He gave it to Raghunatha dasa as a sign of shelter at Radha's
+      feet. Gunja seeds are remarkably uniform in weight, so goldsmiths and money-changers used them as the smallest
+      weight — the rati. The seeds are poisonous if chewed.
+  hagiography: ["ЧЧ Антья 6.287–307", "ЧЧ Антья 6.327", "ЧЧ Антья 20.113", "ЧЧ Антья 13.67", "ЧЧ Ади 17.279", "ЧБ Мадхья 2.181",
+                "ЧБ Антья 7.54, 7.67"]
+  sources: []
+  images: []
+  game: {model: "лиана с раскрытыми стручками; гирлянда из красных семян с чёрной точкой (семя 5–6 мм)", where: ["puri/gambhira", "vrindavan"]}
+
+- id: mc-sal-forest
+  title: {ru: "Сал — дерево лесов Джхарикханды", en: "Sal — the tree of the Jharikhanda forests"}
+  rubric: nature
+  era_evidence: later-reconstruction
+  evidence_note:
+    ru: >-
+      Салы среди деревьев рощ Радхи и Мадхавы — Мурари 4.10.21; леса Джхарикханды — ЧЧ Мадхья 17 (деревья не названы).
+      Что леса между Бенгалией, Ориссой и Бихаром — преимущественно саловые, — природное сведение; использование листьев
+      и смолы — общее наблюдение.
+    en: >-
+      Sals among the trees of Radha and Madhava's groves — Murari 4.10.21; the forests of Jharikhanda — CC Madhya 17 (trees
+      unnamed). That the forests between Bengal, Orissa and Bihar are chiefly sal is natural history; uses of the leaves
+      and resin are general observation.
+  text:
+    ru: >-
+      Сал (Shorea robusta, санскр. шала) — высокое прямоствольное дерево с крупными овальными листьями; весной оно
+      покрывается мелкими кремовыми цветами, а лес наполняется их сладким запахом. Именно такими саловыми лесами,
+      перемежающимися бамбуком, шёл Махапрабху через Джхарикханду, где Ему встречались тигры и слоны. Древесина сала —
+      самая крепкая в краю, из неё делают балки и столбы; из листьев сшивают тарелки и чашечки, а душистую смолу
+      (дхуна) жгут как благовоние.
+    en: >-
+      The sal (Shorea robusta, Sanskrit shala) is a tall, straight-trunked tree with big oval leaves; in spring it is
+      covered with small cream flowers and the forest fills with their sweet scent. It was through such sal forests,
+      mixed with bamboo, that Mahaprabhu walked across Jharikhanda, meeting tigers and elephants. Sal wood is the
+      strongest in the region and makes beams and posts; the leaves are stitched into plates and cups, and the fragrant
+      resin (dhuna) is burnt as incense.
+  hagiography: ["Мурари 4, сарга 10, ст. 21", "ЧЧ Мадхья 17.25–44"]
+  sources: []
+  images: []
+  game: {model: "лес прямых стволов 25–30 м, крупные листья, подлесок бамбука", where: ["travel/jharikhanda"]}
