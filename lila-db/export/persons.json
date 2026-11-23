@@ -7598,6 +7598,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "deity-served"
    }
   ]
  },
@@ -32344,6 +32348,10 @@
    {
     "from": "@prabodhananda-sarasvati",
     "type": "sibling"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -46311,26 +46319,27 @@
     "source": "письмо Вирабхадры (БР 14), по B",
     "level": "B",
     "variants": [
-     "Гаура-шакти — так поняли преданные Пури (M)"
+     "Гаура-шакти — так поняли преданные Пури (M)",
+     "«воплощённая према Гауры» (БР 14.161; ГЧЧ 1.17)"
     ]
    },
    {
     "in": "tattva",
     "as": "воплощение чистой премы Махапрабху, неотличный от Него",
-    "source": "БР 2.123 (через T)",
+    "source": "БР 2.123 (через T); БР 6.494 (Говинда во сне)",
     "level": "B"
    },
    {
     "in": "tattva",
     "as": "авеша-аватара Махапрабху",
-    "source": "T (без первоисточника)",
+    "source": "T (без первоисточника); ПВ 20 («сила и частица Чайтаньи»; ⚠Б1)",
     "level": "C"
    },
    {
     "in": "krishna-lila",
     "as": "Мани-манджари",
-    "source": "«Карнананда» 3 (lila-db)",
-    "level": "B"
+    "source": "«Карнананда» 3; «Према-виласа» 19–20; «Анурага-валли» 3 (сиддха-имя при посвящении)",
+    "level": "C"
    }
   ],
   "relations": [
@@ -46634,7 +46643,58 @@
    },
    {
     "type": "other",
-    "who": "@harinarayana-raja"
+    "who": "@harinarayana-raja",
+    "note": "БР 9.300–310: по устроению Шринивасы посвящён в мантру Рамы сыном Трималлы Бхатты и вверен Шринивасе."
+   },
+   {
+    "type": "disciple",
+    "who": "@vyasa-acharya",
+    "note": "Вьяса Чакраварти, чтец «Бхагаваты» при дворе Виры Хамбира; по ПВ 13 — имя «Шри Вьяса Ачарья» от Шринивасы; по Крн 5 — спор о свакии."
+   },
+   {
+    "type": "disciple",
+    "who": "@vamshidasa-chakravarti",
+    "note": "Из Бахадурпура; Шриниваса явился ему во сне и наутро посвятил (БР 10.299–330)."
+   },
+   {
+    "type": "disciple",
+    "who": "@govinda-chakravarti-boraquli",
+    "note": "Любимый ученик из Боракули, «Бхавука Чакраварти»; праздник установки Радха-виноды (БР 14)."
+   },
+   {
+    "type": "relative",
+    "who": "@gopijanavallabha-chattaraja",
+    "note": "Зять — муж Хемалаты (Крн 1; ГЧЧ 1.21)."
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-chakravarti",
+    "note": "Ученик Даса Гададхары в Катве; праздник в день его ухода."
+   },
+   {
+    "type": "other",
+    "who": "@trimalla-bhatta",
+    "note": "Его сын по просьбе Шринивасы дал Харинараяне мантру Рамы."
+   },
+   {
+    "type": "other",
+    "who": "@jayagopala",
+    "note": "Отвергнут Вирачандрой; письмо Вирачандры Шринивасе (БР 14.178–191)."
+   },
+   {
+    "type": "other",
+    "who": "@kanaya-vraja",
+    "note": "Брахман-враджаваси, простившийся с ним у Ямуны."
+   },
+   {
+    "type": "other",
+    "who": "@parameshvara-dasa",
+    "note": "Вёз Радху Джахнавы во Вриндаван; встреча у гхата Кешавы Бхарати."
+   },
+   {
+    "type": "other",
+    "who": "@mamu-thakura",
+    "note": "Рассказ Маму о Гададхаре и Шринивасе (БР 8)."
    },
    {
     "type": "other",
@@ -46661,6 +46721,16 @@
     "type": "deity-served",
     "who": "@govinda-deity",
     "note": "Гирлянда Говинды — знак силы проповедовать книги."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-vinoda-boraquli",
+    "note": "Абхишека в Боракули; имя «Радха-винода» возвещено голосом из храма (БР 14.89–118)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-ramana-deity",
+    "note": "Вверен Радха-раману Гопалой Бхаттой; по АнВ 6 — недолго адхикари (⚠4)."
    },
    {
     "type": "deity-served",
@@ -52075,6 +52145,12 @@
    "ev-gopala-champu-dispute",
    "ev-jiva-srinivasa-letters",
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -53045,6 +53121,10 @@
    {
     "from": "@lochana-dasa",
     "type": "co-worker"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -53927,6 +54007,10 @@
   "related_by": [
    {
     "from": "@jnanadasa",
+    "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    },
    {
@@ -55415,6 +55499,10 @@
    },
    {
     "from": "@sita-thakurani",
+    "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    },
    {
@@ -63085,6 +63173,12 @@
   "events": [
    "ev-kheturi-festival",
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "relative"
+   }
   ]
  },
  {
@@ -63608,6 +63702,10 @@
    {
     "from": "@narottama-dasa",
     "type": "met"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -77928,6 +78026,12 @@
   "events": [
    "ev-kanaya-madhukari-sanatana",
    "ev-books-leave-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -78017,6 +78121,12 @@
    "ev-jahnava-returns-through-kheturi",
    "ev-bara-gangadasa-shyama-raya",
    "ev-vamshidasa-chakravarti-initiation"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -78295,6 +78405,12 @@
   ],
   "events": [
    "ev-boraquli-festival"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -78310,6 +78426,12 @@
   ],
   "events": [
    "ev-boraquli-festival"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "deity-served"
+   }
   ]
  },
  {

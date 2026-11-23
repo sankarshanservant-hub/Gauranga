@@ -29,59 +29,59 @@ origin:
   facts: [F7, F8, F9, F10, F24, F132]
   note: "Отец Гангадхара Бхаттачарья — «Чайтанья Дас»; мать Лакшмиприя — дочь Баларамы Випры из Яджиграма; после смерти отца жил с матерью в доме деда в Яджиграме."
 relations:
-  - {type: father, who: "@chaitanya-dasa", facts: [F7, F9, F11, F12, F13, F14, F17, F18, F22, F23], events: [ev-prema-for-srinivasa, ev-srinivasa-father-death-yajigrama]}
-  - {type: mother, who: "@lakshmipriya-chakhandi", facts: [F10, F11, F15, F17, F19, F24, F27, F47, F81], events: [ev-srinivasa-birth, ev-srinivasa-journey-vrindavana]}
+  - {type: father, who: "@chaitanya-dasa", facts: [F7, F9, F11, F12, F13, F14, F17, F18, F22, F23, F184], events: [ev-prema-for-srinivasa, ev-srinivasa-father-death-yajigrama]}
+  - {type: mother, who: "@lakshmipriya-chakhandi", facts: [F10, F11, F15, F17, F19, F24, F27, F47, F81, F156, F184, F189], events: [ev-srinivasa-birth, ev-srinivasa-journey-vrindavana]}
   - {type: grandfather, who: "@balarama-yajigrama", facts: [F10, F11, F24], note: "Дед по матери; M — пандит и астролог."}
-  - {type: spouse, who: "@draupadi-ishvari", facts: [F82, F83], event: ev-srinivasa-marriage, note: "Первая жена; приняла от него дикшу и имя Ишвари; свадьба — вайшакха кришна-трития (B) или акшая-трития (M)."}
-  - {type: spouse, who: "@gauranga-priya", facts: [F114, F115], note: "Вторая жена, дочь Рагхавы Чакраварти из Гопалпура (Радха); свадьбу устроил Вира Хамбир."}
-  - {type: in-law, who: "@gopala-chakravarti-yajigrama", facts: [F82, F84], note: "Тесть и ученик."}
-  - {type: in-law, who: "@shyamadasa-chakravarti", facts: [F84, F127], note: "Шурин и ученик; один из шести Чакраварти (ПВ 18)."}
-  - {type: in-law, who: "@ramacharana-chakravarti", facts: [F84, F127], note: "Шурин (Рамачандра, иначе Рамачаран) и ученик."}
-  - {type: in-law, who: "@raghava-chakravarti-gopalpur", facts: [F114], note: "Отец Гауранга-прии; ему и его жене Мадхави (T) во сне велено отдать дочь Шринивасу."}
-  - {type: daughter, who: "@hemalata", facts: [F117, F120, F123, F126], note: "Старшая дочь; после его ухода проповедовала; сорвала кантхи с Рупы Кавираджа; гуру Ядунанданы Даса."}
-  - {type: daughter, who: "@krishnapriya-srinivasa", facts: [F120]}
+  - {type: spouse, who: "@draupadi-ishvari", facts: [F82, F83, F159, F170, F174, F180, F190], event: ev-srinivasa-marriage, note: "Первая жена; приняла от него дикшу и имя Ишвари; свадьба — вайшакха кришна-трития (B) или акшая-трития (M)."}
+  - {type: spouse, who: "@gauranga-priya", facts: [F114, F115, F177, F180, F189], note: "Вторая жена, дочь Рагхавы Чакраварти из Гопалпура (Радха); свадьбу устроил Вира Хамбир."}
+  - {type: in-law, who: "@gopala-chakravarti-yajigrama", facts: [F82, F84, F159], note: "Тесть и ученик."}
+  - {type: in-law, who: "@shyamadasa-chakravarti", facts: [F84, F127, F159, F167], note: "Шурин и ученик; один из шести Чакраварти (ПВ 18)."}
+  - {type: in-law, who: "@ramacharana-chakravarti", facts: [F84, F127, F159, F167], note: "Шурин (Рамачандра, иначе Рамачаран) и ученик."}
+  - {type: in-law, who: "@raghava-chakravarti-gopalpur", facts: [F114, F177], note: "Отец Гауранга-прии; ему и его жене Мадхави (T) во сне велено отдать дочь Шринивасу."}
+  - {type: daughter, who: "@hemalata", facts: [F117, F120, F123, F126, F190, F191, F192], note: "Старшая дочь; после его ухода проповедовала; сорвала кантхи с Рупы Кавираджа; гуру Ядунанданы Даса."}
+  - {type: daughter, who: "@krishnapriya-srinivasa", facts: [F120, F192]}
   - {type: daughter, who: "@kanchanalatika", facts: [F120], note: "Младшая дочь (B, «Карнананда»); M вместо неё называет «Пхулапи Тхакурани»."}
-  - {type: son, who: "@vrindavana-acharya", facts: [F118, F121], event: ev-jiva-srinivasa-letters, note: "Старший сын; имя «Вриндаван Дас» дал Джива."}
+  - {type: son, who: "@vrindavana-acharya", facts: [F118, F121, F179], event: ev-jiva-srinivasa-letters, note: "Старший сын; имя «Вриндаван Дас» дал Джива."}
   - {type: son, who: "@radhakrishna-acharya", facts: [F121]}
-  - {type: son, who: "@gati-govinda", facts: [F121, F122, F124], note: "Автор «Вира-ратнавали»; от него — род Радхамоханы Тхакура."}
+  - {type: son, who: "@gati-govinda", facts: [F121, F122, F124, F189, F192, F195], note: "Автор «Вира-ратнавали»; от него — род Радхамоханы Тхакура."}
   - {type: relative, who: "@radhamohana-thakura", facts: [F122], note: "Правнук (B 676), составитель «Падамрита-самудры»."}
-  - {type: guru, who: "@gopala-bhatta", facts: [F50, F52, F53, F54, F56, F66, F92], events: [ev-srinivasa-initiation], note: "Дикша-гуру; посвятил во Вриндаване (B: после омовения в Ямуне; M: в храме Радха-раманы)."}
-  - {type: siksha-guru, who: "@jiva-gosvami", facts: [F4, F51, F52, F55, F56, F57, F58, F62, F63, F64, F65, F66, F67, F68, F76, F92, F93, F94, F96, F118, F119], events: [ev-srinivasa-arrives-vrindavana, ev-srinivasa-acharya-title, ev-srinivasa-narottama-shyamananda-vrindavana, ev-books-mission-decision, ev-jiva-srinivasa-letters], note: "Дал титул «Ачарья», жильё у Радха-Дамодары; послал с книгами в Гауду; два письма; называл «махаттама»."}
-  - {type: companion, who: "@narottama-dasa", facts: [F2, F59, F60, F62, F72, F101, F109, F134, F135, F138], events: [ev-srinivasa-narottama-shyamananda-vrindavana, ev-kheturi-festival], note: "Друг, «единый душою»; вместе обошли Врадж и Навадвипу; Кхетури; песни Нароттамы о нём."}
-  - {type: companion, who: "@shyamananda", facts: [F61, F62, F72, F92, F94, F95, F106], events: [ev-srinivasa-narottama-shyamananda-vrindavana], note: "Джива вверил Шьямананду Шринивасу (B)."}
-  - {type: disciple, who: "@ramachandra-kaviraja", facts: [F2, F87, F88, F89, F93, F109, F125, F131, F135], event: ev-ramachandra-kaviraja-meets-srinivasa, note: "Ближайший ученик и слуга; кто ушёл раньше — источники расходятся."}
-  - {type: disciple, who: "@govinda-kaviraja", facts: [F90, F127], note: "Посвящён в Будхари (БР 10.171, по B)."}
-  - {type: disciple, who: "@vira-hambira", facts: [F69, F70, F73, F74, F75, F76, F77, F96, F97, F110, F114, F127], events: [ev-books-stolen-vana-vishnupura, ev-vira-hambira-conversion], note: "Царь-разбойник Вишнупура, похитивший книги; харинама, затем югала-мантра; имя Чайтанья Дас; устроил вторую свадьбу."}
-  - {type: disciple, who: "@vira-hambira-queen", facts: [F96]}
-  - {type: disciple, who: "@dhadi-hambira", facts: [F96], note: "M: имя Гопал Дас."}
-  - {type: disciple, who: "@krishnavallabha", facts: [F73]}
-  - {type: disciple, who: "@shridasa-chakravarti", facts: [F86, F100, F127]}
-  - {type: disciple, who: "@gokulananda", facts: [F86, F100, F127]}
+  - {type: guru, who: "@gopala-bhatta", facts: [F50, F52, F53, F54, F56, F66, F92, F148, F151, F163, F164, F185, F187, F189, F190], events: [ev-srinivasa-initiation], note: "Дикша-гуру; посвятил во Вриндаване (B: после омовения в Ямуне; M: в храме Радха-раманы)."}
+  - {type: siksha-guru, who: "@jiva-gosvami", facts: [F4, F51, F52, F55, F56, F57, F58, F62, F63, F64, F65, F66, F67, F68, F76, F92, F93, F94, F96, F118, F119, F143, F144, F147, F148, F151, F162, F163, F164, F165, F170, F179, F191], events: [ev-srinivasa-arrives-vrindavana, ev-srinivasa-acharya-title, ev-srinivasa-narottama-shyamananda-vrindavana, ev-books-mission-decision, ev-jiva-srinivasa-letters], note: "Дал титул «Ачарья», жильё у Радха-Дамодары; послал с книгами в Гауду; два письма; называл «махаттама»."}
+  - {type: companion, who: "@narottama-dasa", facts: [F2, F59, F60, F62, F72, F101, F109, F134, F135, F138, F143, F145, F146, F151, F153, F158, F168, F169, F171, F174, F176, F181], events: [ev-srinivasa-narottama-shyamananda-vrindavana, ev-kheturi-festival], note: "Друг, «единый душою»; вместе обошли Врадж и Навадвипу; Кхетури; песни Нароттамы о нём."}
+  - {type: companion, who: "@shyamananda", facts: [F61, F62, F72, F92, F94, F95, F106, F144, F151, F153, F163, F165, F183], events: [ev-srinivasa-narottama-shyamananda-vrindavana], note: "Джива вверил Шьямананду Шринивасу (B)."}
+  - {type: disciple, who: "@ramachandra-kaviraja", facts: [F2, F87, F88, F89, F93, F109, F125, F131, F135, F161, F164, F165, F168, F171, F174, F180, F188, F190, F196], event: ev-ramachandra-kaviraja-meets-srinivasa, note: "Ближайший ученик и слуга; кто ушёл раньше — источники расходятся."}
+  - {type: disciple, who: "@govinda-kaviraja", facts: [F90, F127, F164, F168, F169, F179, F188], note: "Посвящён в Будхари (БР 10.171, по B)."}
+  - {type: disciple, who: "@vira-hambira", facts: [F69, F70, F73, F74, F75, F76, F77, F96, F97, F110, F114, F127, F152, F153, F154, F155, F156, F162, F165, F174, F177, F179, F195], events: [ev-books-stolen-vana-vishnupura, ev-vira-hambira-conversion], note: "Царь-разбойник Вишнупура, похитивший книги; харинама, затем югала-мантра; имя Чайтанья Дас; устроил вторую свадьбу."}
+  - {type: disciple, who: "@vira-hambira-queen", facts: [F96, F155, F165, F174]}
+  - {type: disciple, who: "@dhadi-hambira", facts: [F96, F165, F179], note: "M: имя Гопал Дас."}
+  - {type: disciple, who: "@krishnavallabha", facts: [F73, F154, F155, F167]}
+  - {type: disciple, who: "@shridasa-chakravarti", facts: [F86, F100, F127, F149, F160, F166, F167, F196]}
+  - {type: disciple, who: "@gokulananda", facts: [F86, F100, F127, F149, F160, F166, F167, F196]}
   - {type: disciple, who: "@karnapura-kaviraja", facts: [F127, F132], note: "Один из восьми кавираджей; строфы о качествах Шринивасы («Гуна-леша-сучака», в «Нароттама-виласе»)."}
   - {type: disciple, who: "@radhavallabha-dasa-poet", facts: [F129], note: "«Ученик» по ПВ и «Карнананде»."}
   - {type: disciple, who: "@rupa-kaviraja", facts: [F117], note: "Мнимый ученик (шишья-бруво); назвал гуру «грихастхой», отвергнут как «атибади»."}
   - {type: disciple, who: "@yadunandana-dasa-author", facts: [F126], note: "По B — «его ученик» (неоднозначно); по «Карнананде» — ученик Хемалаты."}
-  - {type: siksha-disciple, who: "@harirama-acharya", facts: [F125], note: "Ученик Рамачандры, проповедовал по наставлению Шринивасы."}
-  - {type: other, who: "@mahaprabhu", facts: [F3, F5, F12, F13, F14, F28, F29, F104, F114], events: [ev-prema-for-srinivasa, ev-srinivasa-hears-disappearance-dream], note: "Предсказал его рождение; после сокрытия утешил во сне и послал в Нилачалу; явился в киртане в Кхетури; велел во сне жениться вторично (T)."}
-  - {type: other, who: "@narahari-sarakara", facts: [F18, F21, F25, F26, F37, F81, F85, F91, F99, F100], events: [ev-srinivasa-meets-narahari, ev-srinivasa-sets-out-nilachala], note: "Отеческая любовь; послал в Пури; велел жениться; праздник разлуки по нему."}
-  - {type: other, who: "@raghunandana", facts: [F18, F25, F81, F111, F112], event: ev-srinivasa-raghunandana-shrikhanda, note: "Устроил первую свадьбу; перед уходом благословил на проповедь."}
-  - {type: other, who: "@gadadhara-pandita", facts: [F32, F33, F37, F38], events: [ev-srinivasa-gadadhara-puri], note: "Пури: «Бхагаватам» из его уст; по его велению вернулся в Гауду."}
-  - {type: other, who: "@vishnupriya", facts: [F40, F41, F42, F80, F108, F139], event: ev-srinivasa-vishnupriya-mercy}
+  - {type: siksha-disciple, who: "@harirama-acharya", facts: [F125, F183], note: "Ученик Рамачандры, проповедовал по наставлению Шринивасы."}
+  - {type: other, who: "@mahaprabhu", facts: [F3, F5, F12, F13, F14, F28, F29, F104, F114, F145, F149, F168, F169, F172, F177, F184], events: [ev-prema-for-srinivasa, ev-srinivasa-hears-disappearance-dream], note: "Предсказал его рождение; после сокрытия утешил во сне и послал в Нилачалу; явился в киртане в Кхетури; велел во сне жениться вторично (T)."}
+  - {type: other, who: "@narahari-sarakara", facts: [F18, F21, F25, F26, F37, F81, F85, F91, F99, F100, F156, F157, F162, F166, F185, F195], events: [ev-srinivasa-meets-narahari, ev-srinivasa-sets-out-nilachala], note: "Отеческая любовь; послал в Пури; велел жениться; праздник разлуки по нему."}
+  - {type: other, who: "@raghunandana", facts: [F18, F25, F81, F111, F112, F157, F159, F164, F166, F170, F173, F176, F189], event: ev-srinivasa-raghunandana-shrikhanda, note: "Устроил первую свадьбу; перед уходом благословил на проповедь."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F32, F33, F37, F38, F158, F185, F186], events: [ev-srinivasa-gadadhara-puri], note: "Пури: «Бхагаватам» из его уст; по его велению вернулся в Гауду."}
+  - {type: other, who: "@vishnupriya", facts: [F40, F41, F42, F80, F108, F139, F156, F186], event: ev-srinivasa-vishnupriya-mercy}
   - {type: other, who: "@vamshivadana", facts: [F41]}
   - {type: other, who: "@shachi", facts: [F42], note: "T: благословила во сне."}
   - {type: other, who: "@sita-thakurani", facts: [F44], event: ev-srinivasa-shantipura}
-  - {type: other, who: "@jahnava", facts: [F45, F101, F103, F106, F108, F115], events: [ev-srinivasa-khardaha-jahnava, ev-kheturi-festival], note: "Велела идти во Вриндаван; по её указанию — абхишека в Кхетури; гостила в Яджиграме; почитаема им как джагад-гуру."}
+  - {type: other, who: "@jahnava", facts: [F45, F101, F103, F106, F108, F115, F169, F170, F175], events: [ev-srinivasa-khardaha-jahnava, ev-kheturi-festival], note: "Велела идти во Вриндаван; по её указанию — абхишека в Кхетури; гостила в Яджиграме; почитаема им как джагад-гуру."}
   - {type: other, who: "@vasudha", facts: [F45]}
-  - {type: other, who: "@virabhadra", facts: [F3, F45, F107], event: ev-virachandra-yajigrama-kheturi, note: "Письмо о нём как о силе милости Махапрабху; гостил в Яджиграме."}
-  - {type: other, who: "@abhirama", facts: [F46], event: ev-abhirama-whip-srinivasa}
+  - {type: other, who: "@virabhadra", facts: [F3, F45, F107, F166, F178, F181, F182, F189, F195], event: ev-virachandra-yajigrama-kheturi, note: "Письмо о нём как о силе милости Махапрабху; гостил в Яджиграме."}
+  - {type: other, who: "@abhirama", facts: [F46, F186], event: ev-abhirama-whip-srinivasa}
   - {type: other, who: "@malini-abhirama", facts: [F46]}
-  - {type: other, who: "@raghunatha-dasa", facts: [F34, F55, F66], note: "Радха-кунда: наставления о бхаджане (M)."}
-  - {type: other, who: "@krishnadasa-kaviraja", facts: [F55, F66, F79, F137]}
+  - {type: other, who: "@raghunatha-dasa", facts: [F34, F55, F66, F143, F146, F148, F164, F187], note: "Радха-кунда: наставления о бхаджане (M)."}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F55, F66, F79, F137, F143, F146, F151, F179, F196]}
   - {type: other, who: "@raghunatha-bhatta", facts: [F49, F140], note: "Скрылся до его прихода; прощание с его самадхи при отъезде с книгами (БР 6.452–457)."}
-  - {type: other, who: "@raghava-gosvami-govardhana", facts: [F55, F60], event: ev-srinivasa-vraja-pilgrimage}
-  - {type: other, who: "@bhugarbha", facts: [F52, F66, F92, F118]}
-  - {type: other, who: "@lokanatha", facts: [F52, F66, F72, F92, F101]}
-  - {type: other, who: "@madhu-pandita", facts: [F52, F66]}
+  - {type: other, who: "@raghava-gosvami-govardhana", facts: [F55, F60, F143, F171], event: ev-srinivasa-vraja-pilgrimage}
+  - {type: other, who: "@bhugarbha", facts: [F52, F66, F92, F118, F148, F151, F163, F179]}
+  - {type: other, who: "@lokanatha", facts: [F52, F66, F72, F92, F101, F148, F151, F163, F170]}
+  - {type: other, who: "@madhu-pandita", facts: [F52, F66, F148]}
   - {type: other, who: "@paramananda-bhattacharya", facts: [F52]}
   - {type: other, who: "@ramananda-raya", facts: [F32]}
   - {type: other, who: "@sarvabhauma", facts: [F32]}
@@ -89,19 +89,31 @@ relations:
   - {type: other, who: "@haridasa-thakura", facts: [F35], note: "Плакал у его самадхи."}
   - {type: other, who: "@govinda-ghosha", facts: [F18, F21]}
   - {type: other, who: "@dhananjaya-vidyanivasa", facts: [F20], event: ev-srinivasa-schooling, note: "Учитель в детстве."}
-  - {type: other, who: "@ishana-navadvipa", facts: [F109]}
-  - {type: other, who: "@gadadhara-dasa", facts: [F81, F85, F91, F99, F100], note: "Благословил на женитьбу (M); праздник в день его ухода."}
-  - {type: other, who: "@dvija-haridasa", facts: [F86, F91, F99, F100]}
-  - {type: other, who: "@kanai-shrikhanda", facts: [F112]}
-  - {type: other, who: "@santosha-datta", facts: [F102, F103]}
-  - {type: other, who: "@harinarayana-raja", facts: [F98]}
+  - {type: other, who: "@ishana-navadvipa", facts: [F109, F170, F171, F173]}
+  - {type: other, who: "@gadadhara-dasa", facts: [F81, F85, F91, F99, F100, F156, F157, F162, F166, F186], note: "Благословил на женитьбу (M); праздник в день его ухода."}
+  - {type: other, who: "@dvija-haridasa", facts: [F86, F91, F99, F100, F149, F151, F163, F166]}
+  - {type: other, who: "@kanai-shrikhanda", facts: [F112, F176, F181]}
+  - {type: other, who: "@santosha-datta", facts: [F102, F103, F168, F169]}
+  - {type: other, who: "@harinarayana-raja", facts: [F98, F165], note: "БР 9.300–310: по устроению Шринивасы посвящён в мантру Рамы сыном Трималлы Бхатты и вверен Шринивасе."}
+  - {type: disciple, who: "@vyasa-acharya", facts: [F154, F155, F167, F188, F191], note: "Вьяса Чакраварти, чтец «Бхагаваты» при дворе Виры Хамбира; по ПВ 13 — имя «Шри Вьяса Ачарья» от Шринивасы; по Крн 5 — спор о свакии."}
+  - {type: disciple, who: "@vamshidasa-chakravarti", facts: [F168], note: "Из Бахадурпура; Шриниваса явился ему во сне и наутро посвятил (БР 10.299–330)."}
+  - {type: disciple, who: "@govinda-chakravarti-boraquli", facts: [F181, F192], note: "Любимый ученик из Боракули, «Бхавука Чакраварти»; праздник установки Радха-виноды (БР 14)."}
+  - {type: relative, who: "@gopijanavallabha-chattaraja", facts: [F192], note: "Зять — муж Хемалаты (Крн 1; ГЧЧ 1.21)."}
+  - {type: other, who: "@yadunandana-chakravarti", facts: [F166, F181], note: "Ученик Даса Гададхары в Катве; праздник в день его ухода."}
+  - {type: other, who: "@trimalla-bhatta", facts: [F165], note: "Его сын по просьбе Шринивасы дал Харинараяне мантру Рамы."}
+  - {type: other, who: "@jayagopala", facts: [F182], note: "Отвергнут Вирачандрой; письмо Вирачандры Шринивасе (БР 14.178–191)."}
+  - {type: other, who: "@kanaya-vraja", facts: [F148], note: "Брахман-враджаваси, простившийся с ним у Ямуны."}
+  - {type: other, who: "@parameshvara-dasa", facts: [F175], note: "Вёз Радху Джахнавы во Вриндаван; встреча у гхата Кешавы Бхарати."}
+  - {type: other, who: "@mamu-thakura", facts: [F158], note: "Рассказ Маму о Гададхаре и Шринивасе (БР 8)."}
   - {type: other, who: "@uddhava-dasa-vraja", facts: [F60, F66]}
   - {type: other, who: "@vishvanatha-chakravarti", facts: [F117, F138]}
   - {type: other, who: "@nrisimha-kaviraja", facts: [F29, F50], note: "Автор строф «Навападьи» о нём."}
-  - {type: other, who: "@narahari-chakravarti", facts: [F56, F60]}
+  - {type: other, who: "@narahari-chakravarti", facts: [F56, F60, F183, F192, F193]}
   - {type: deity-served, who: "@radha-damodara-deity", facts: [F51]}
-  - {type: deity-served, who: "@govinda-deity", facts: [F65], event: ev-govinda-commands-srinivasa, note: "Гирлянда Говинды — знак силы проповедовать книги."}
-  - {type: deity-served, who: "@kalachand-deity", facts: [F97], note: "Установил и омыл в Вишнупуре."}
+  - {type: deity-served, who: "@govinda-deity", facts: [F65, F147, F150, F151], event: ev-govinda-commands-srinivasa, note: "Гирлянда Говинды — знак силы проповедовать книги."}
+  - {type: deity-served, who: "@radha-vinoda-boraquli", facts: [F181], note: "Абхишека в Боракули; имя «Радха-винода» возвещено голосом из храма (БР 14.89–118)."}
+  - {type: deity-served, who: "@radha-ramana-deity", facts: [F148, F165, F189, F191], note: "Вверен Радха-раману Гопалой Бхаттой; по АнВ 6 — недолго адхикари (⚠4)."}
+  - {type: deity-served, who: "@kalachand-deity", facts: [F97, F165], note: "Установил и омыл в Вишнупуре."}
 unnamed:
   - {who: "шесть Божеств Кхетури (Гауранга, Валлабхи-канта, Враджа-мохана, Шри Кришна, Радха-канта, Радха-рамана)", type: deity-served, facts: [F101, F105]}
   - {who: "богатый матхурский купец, оплативший повозку и стражу", type: patron, facts: [F67]}
@@ -114,76 +126,132 @@ identities:
     as: "сила милости (крипа-шакти) Махапрабху, распространившая книги Госвами"
     source: "письмо Вирабхадры (БР 14), по B"
     level: B
-    facts: [F3, I1, Q2]
-    variants: ["Гаура-шакти — так поняли преданные Пури (M)"]
+    facts: [F3, I1, Q2, F182]
+    variants: ["Гаура-шакти — так поняли преданные Пури (M)", "«воплощённая према Гауры» (БР 14.161; ГЧЧ 1.17)"]
   - in: tattva
     as: "воплощение чистой премы Махапрабху, неотличный от Него"
-    source: "БР 2.123 (через T)"
+    source: "БР 2.123 (через T); БР 6.494 (Говинда во сне)"
     level: B
-    facts: [F5, Q3]
+    facts: [F5, Q3, F150, Q33]
   - in: tattva
     as: "авеша-аватара Махапрабху"
-    source: "T (без первоисточника)"
+    source: "T (без первоисточника); ПВ 20 («сила и частица Чайтаньи»; ⚠Б1)"
     level: C
-    facts: [F5]
+    facts: [F5, F194]
   - in: krishna-lila
     as: "Мани-манджари"
-    source: "«Карнананда» 3 (lila-db)"
-    level: B
-    facts: []
+    source: "«Карнананда» 3; «Према-виласа» 19–20; «Анурага-валли» 3 (сиддха-имя при посвящении)"
+    level: C
+    facts: [F187, F190]
     event: ev-srinivasa-samadhi-nose-ring
     variants: []
 events:   # по порядку жизни (lila-db: period, order)
+  - ev-false-avataras
   - ev-prema-for-srinivasa
   - ev-gosvamis-foresee-srinivasa
   - ev-srinivasa-birth
+  - ev-dvija-haridasa-dream-vrindavana
+  - ev-gadadhara-departure
   - ev-srinivasa-schooling
   - ev-srinivasa-meets-narahari
   - ev-srinivasa-father-death-yajigrama
-  - ev-srinivasa-shrikhanda
   - ev-srinivasa-sets-out-nilachala
+  - ev-srinivasa-shrikhanda
   - ev-srinivasa-hears-disappearance-dream
   - ev-srinivasa-gadadhara-puri
   - ev-srinivasa-dream-nitai-advaita
   - ev-srinivasa-vishnupriya-mercy
+  - ev-gadadhara-riddle-gadadhara-dasa
   - ev-srinivasa-shantipura
   - ev-srinivasa-khardaha-jahnava
   - ev-abhirama-whip-srinivasa
   - ev-srinivasa-journey-vrindavana
+  - ev-srinivasa-ekachakra-vision
+  - ev-rupa-sanatana-departure
   - ev-srinivasa-vision-rupa-sanatana
   - ev-srinivasa-arrives-vrindavana
   - ev-srinivasa-initiation
-  - ev-srinivasa-vraja-pilgrimage
+  - ev-shyamananda-comes-to-vrindavana
   - ev-srinivasa-narottama-shyamananda-vrindavana
+  - ev-srinivasa-vraja-pilgrimage
   - ev-srinivasa-acharya-title
-  - ev-govinda-commands-srinivasa
+  - ev-srinivasa-manasa-garland-gaura
+  - ev-srinivasa-manasa-holi-phagu
+  - ev-srinivasa-narottama-govardhana-cowherd
   - ev-books-mission-decision
+  - ev-govinda-commands-srinivasa
   - ev-srinivasa-narottama-farewell-parikrama
+  - ev-govinda-dream-srinivasa-gaura
   - ev-books-leave-vrindavana
   - ev-books-stolen-vana-vishnupura
+  - ev-krishnadasa-kaviraja-revived
   - ev-vira-hambira-conversion
+  - ev-vira-hambira-padas-queen
+  - ev-kalachand-installation
+  - ev-books-found-news-letters
   - ev-srinivasa-returns-yajigrama
-  - ev-srinivasa-marriage
-  - ev-ramachandra-kaviraja-meets-srinivasa
-  - ev-srinivasa-second-vrindavana
+  - ev-vishnupriya-departure
+  - ev-advaita-dream-srinivasa-marriage
+  - ev-srinivasa-narahari-after-vraja
+  - ev-srinivasa-gadadhara-dasa-katwa
+  - ev-gadadhara-dasa-narahari-departure
+  - ev-katwa-khanda-memorial-festivals
   - ev-srinivasa-raghunandana-shrikhanda
-  - ev-kheturi-festival-invitations
-  - ev-kheturi-festival
-  - ev-virachandra-yajigrama-kheturi
+  - ev-ramachandra-kaviraja-meets-srinivasa
+  - ev-shyamananda-puri-associates-disappear
+  - ev-narottama-shrikhanda-yajigrama-katwa
+  - ev-govinda-kaviraja-initiation
+  - ev-gokulananda-shridasa-disciples
+  - ev-vira-hambira-gosvamis-letter
+  - ev-jahnava-kheturi
+  - ev-jiva-sends-gopala-virudavali
+  - ev-jahnava-returns-through-kheturi
+  - ev-jahnava-radha-for-madana-mohana
+  - ev-navadvipa-parikrama-ishana
+  - ev-srinivasa-dream-nitya-navadvipa
+  - ev-vira-hambira-yajigrama
+  - ev-srinivasa-kheturi-pashanda-brahmana
+  - ev-raghunandana-disappearance
+  - ev-srinivasa-mother-departure
+  - ev-srinivasa-marriage
+  - ev-srinivasa-second-vrindavana
   - ev-srinivasa-daily-bhajana-yajigrama
-  - ev-srinivasa-disciples
-  - ev-jiva-srinivasa-letters
+  - ev-dvija-haridasa-departure
+  - ev-srinivasa-marriage-untruth
+  - ev-govinda-kaviraja-settles-budhari
+  - ev-harinarayana-rama-mantra
+  - ev-gati-govinda-birth
   - ev-srinivasa-samadhi-nose-ring
+  - ev-ramachandra-instructs-vira-hambira
+  - ev-shyamananda-utkala
+  - ev-kanchanagaria-festival
+  - ev-kheturi-festival-invitations
+  - ev-ramachandra-dream-gaura
+  - ev-govinda-kaviraja-title
+  - ev-vamshidasa-chakravarti-initiation
+  - ev-kheturi-festival
+  - ev-kheturi-mahantas-depart
+  - ev-virachandra-yajigrama-kheturi
+  - ev-virachandra-pilgrimage
+  - ev-virachandra-vishnupura
+  - ev-gopala-champu-dispute
+  - ev-jiva-srinivasa-letters
   - ev-srinivasa-ramachandra-disappearance
-events_note: "По T/M/B сверх lila-db: сон Говинды из B 807; Харинараяна Шикхарешвара (M); второй брак — сон Рагхавы и Мадхави (T, M); Рупа Кавирадж и Хемалата; потомки (M); критика ПВ 13, 19–20 (B)."
+  - ev-ramachandra-yajigrama-kumuda-vision
+  - ev-boraquli-festival
+  - ev-hemalata-radha-ramana
+  - ev-virachandra-rejects-jayagopala
+  - ev-srinivasa-disciples
+  - ev-karnananda-composed
+events_note: "По T/M/B сверх lila-db: сон Говинды из B 807; Харинараяна Шикхарешвара (M); второй брак — сон Рагхавы и Мадхави (T, M); Рупа Кавирадж и Хемалата; потомки (M); критика ПВ 13, 19–20 (B). Дополнение 2026-11-23: события БР 5–15 (порядок после Кхетури — по БР, ⚠13), поздние ПВ/АнВ/Крн/ННВ — с пометкой уровня C в реестре (F184–F195)."
 teachings_given: []
 teachings_received: []
 works:
   - {title: "«Шад-госвами-аштака» (T)", facts: [F130]}
   - {title: "одна-две бенгальские песни (приписываются; образцы — в «Карнананде»)", facts: [F130]}
   - {title: "распространение книг Госвами в Гауде (вместе с ЧЧ)", facts: [F3, F13, F67, F68, F77, F125]}
-places: ["#chakhandi", "#yajigrama", "#shrikhanda", "#puri", "#navadvipa", "#shantipura", "#kharadaha", "#khanakul", "#gaya", "#kashi", "#ayodhya", "#prayaga", "#mathura", "#vrindavana", "#radha-kunda", "#vana-vishnupura", "#katwa", "#kanchanagaria", "#kheturi", "#teliya-budhari", "#ekachakra"]
-places_facts: [F8, F15, F24, F25, F31, F40, F44, F45, F46, F48, F51, F55, F69, F86, F99, F101, F102, F109, F110, F113]
+places: ["#chakhandi", "#yajigrama", "#shrikhanda", "#puri", "#navadvipa", "#shantipura", "#kharadaha", "#khanakul", "#gaya", "#kashi", "#ayodhya", "#prayaga", "#mathura", "#vrindavana", "#radha-kunda", "#vana-vishnupura", "#katwa", "#kanchanagaria", "#kheturi", "#teliya-budhari", "#ekachakra", "#govardhana", "#nandagrama", "#varshana", "#javat", "#mayapur", "#house-jagannatha-mishra", "#tota", "#jajpur", "#panchakota", "#deuli", "#boraquli", "#bahadurpura", "#kumaranagara"]
+places_facts: [F8, F15, F24, F25, F31, F40, F44, F45, F46, F48, F51, F55, F69, F86, F99, F101, F102, F109, F110, F113, F143, F146, F152, F154, F166, F168, F171, F172, F181, F185]
 character:
   - {trait: "с детства жил рассказами о Гауре; мучительная разлука — хотел оставить тело при вести о сокрытии Господа", facts: [F19, F21, F22, F28, F39], events: [ev-srinivasa-hears-disappearance-dream]}
   - {trait: "дар толкования по милости Рупы — титул «Ачарья»; «Бхагавата» и киртан — его проповедь", facts: [F57, F58, F74, F78], event: ev-srinivasa-acharya-title}
@@ -196,7 +264,7 @@ sources:
   T: "204–206 (глава); 47, 49, 66–68, 71–72, 85, 88, 97, 171, 174, 176–177, 187, 189, 198, 200, 208–210, 212–214, 219, 222, 226"
   M: "186–204 (глава, pdf 212–237); pdf 10, 22, 64, 82–85, 121–122, 128–133, 139, 179–182, 243, 249, 257, 296, 312"
   B: "659–680 (глава); 128–129, 171–172, 175–176, 181, 263–264, 288, 461, 523, 525–528, 551, 597, 601–602, 610, 614, 655, 807, 910–912, 916, 939–941, 972, 996, 1087–1090, 1099, 1101–1106, 1108–1111"
-  other: ["БР 2.120–123, 2.176–180, 3.66–70, 4.20–24, 4.47–51, 4.105–108, 4.392, 6.452–457, 6.514, 7.119, 8.574 (изд. G 8.544), 9.362, 9.512–514, 10.171, 10.492–496, 10.605–607, 10.675–707, 11.721, 13.174–179, 14 (письма Вирабхадры и Дживы)", "«Навападья» Нрисимхи Кавираджи", "строфы Карнапуры Кавираджи («Гуна-леша-сучака», в «Нароттама-виласе»)", "«Карнананда» 1.125–139", "«Према-виласа» 13, 18, 19–20", "«Прартхана» Нароттамы", "«Намамрита-самудра» 270"]
+  other: ["БР 2.120–123, 2.176–180, 3.66–70, 4.20–24, 4.47–51, 4.105–108, 4.392, 6.452–457, 6.514, 7.119, 8.574 (изд. G 8.544), 9.362, 9.512–514, 10.171, 10.492–496, 10.605–607, 10.675–707, 11.721, 13.174–179, 14 (письма Вирабхадры и Дживы)", "«Навападья» Нрисимхи Кавираджи", "строфы Карнапуры Кавираджи («Гуна-леша-сучака», в «Нароттама-виласе»)", "«Карнананда» 1.125–139", "«Према-виласа» 13, 18, 19–20", "«Прартхана» Нароттамы", "«Намамрита-самудра» 270", "БР 5–15 (2026-11-23: таранги 5.6–30, 582–603; 6–14 целиком; 15.13–17, 113–120)", "«Према-виласа» 1–5, 12–14, 16–17, 19–20, Полувиласа", "«Нароттама-виласа» 6, 9, 11", "«Анурага-валли» 2–3, 5–7", "«Карнананда» 1, 3, 5–7", "«Нитьянанда-вамша-вистара» 9", "«Гаура-чарита-чинтамани» 1.17, 1.21", "пады Нарахари (БР 14.78–81, 14.195–208)"]
 article: {ru: "parshadas/ru/srinivasa-acharya.md", en: "parshadas/en/srinivasa-acharya.md"}
 open_questions:
   - "Кто ушёл раньше — Шринивас или Рамачандра (M ≠ T 213, B 1111; T 210 ≠ T 213) (F135); место ухода не названо."
@@ -204,3 +272,7 @@ open_questions:
   - "Свадьба: вайшакха кришна-трития (B) или акшая-трития (M) (F82); куда ушёл Шьямананда после кражи — в Уткал (B, T, M гл. о Нароттаме) или в Амбика-Калну (M) (F72)."
   - "Третья дочь — Канчаналатика (B, «Карнананда») или Пхулапи (M) (F120); кто дал Рамачандре титул «Кавирадж» — Шринивас (T 206) или Джива (T 189, 212, B 523, 1109) (F89)."
   - "Мотив поездки родителей в Пури — увидеть Господа (B гл.) или просить сына (T, B 1088) (F11)."
+  - "Порядок после Кхетури: БР 10–13 (= T) ≠ B, M (⚠13); Рамачандру во Вриндаван послал Рагхунандана (БР 9) или Шриниваса (M), Ишвари (АнВ) (F164)."
+  - "Второй брак: невеста Гауранга-прия по сну Гауры (БР 13) или Падмавати, названная так Вирачандрой (ПВ 17); после смерти сыновей (АнВ 6) (⚠11)."
+  - "Имя Виры Хамбира: Чайтанья Дас от Дживы (БР 9, ПВ 20) ≠ Харичарана Дас (ПВ 13), Гопаладас (Крн 1.346) (⚠10)."
+  - "Четвёртая дочь Ямуна — только «Анурага-валли» 7 (F192); дочь Шринивасы Пхулапи (M) — ? (F120)."
