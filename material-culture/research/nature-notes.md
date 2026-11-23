@@ -34,3 +34,10 @@
   `mc-plough-bullocks`.
 - `mc-neem-tree` (nature): Dutt 1877, с. 136–137 — горькие листья нима как зелень в супах и карри, кора — от лихорадки.
 - `mc-shukta` (food): Dutt 1877, с. 253–254 — имбирь с солью перед едой как пищеварительное.
+
+## Watt, *A Dictionary of the Economic Products of India* (1889–96), archive.org `DictionaryOfTheEconomicProductsOfIndia2`, `…3`
+- т. II, Corchorus (Jute), §1839 сл.: джут не найден в Бенгалии диким; определённого санскритского имени нет («No
+  Sanskrit name for the two cultivated species of Corchorus is known» — цит. Декандоля) → древность культуры неясна.
+- т. III, Eragrostis cynosuroides (= Desmostachya bipinnata, куша), §252–254: бенг. *kushn*, санскр. *kusha, darbha*;
+  «in constant requisition at the funeral ceremonies of the Hindus», кольцо из травы на пальце главного скорбящего,
+  трава под пиндами; верёвки из волокна.

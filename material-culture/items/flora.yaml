@@ -511,10 +511,14 @@
   era_evidence: hagiography
   evidence_note:
     ru: >-
-      Куша в обрядах — общеведийская практика (кольцо-павитра, сиденье, обряды шраддхи); в наших житиях эпизоды с кушей
+      Куша в обрядах — общеведийская практика (кольцо-павитра, сиденье, обряды шраддхи). Watt, т. III (1890), s.v.
+      Eragrostis cynosuroides (бенг. «кушн», санскр. куша, дарбха, §252–254): трава «постоянно нужна» в погребальных
+      обрядах — главный скорбящий носит на пальце кольцо из неё, её кладут под пинды. В наших житиях эпизоды с кушей
       пока не выписаны — проверить ЧБ Ади 8 (шраддха Джаганнатхи Мишры) и ЧБ Ади 14 (обряды Шачи).
     en: >-
-      Kusha in rites is general Vedic practice (the pavitra ring, seat, shraddha rites); episodes with kusha in our
+      Kusha in rites is general Vedic practice (the pavitra ring, seat, shraddha rites). Watt, vol. III (1890), s.v.
+      Eragrostis cynosuroides (Bengali kushn, Sanskrit kusha, darbha, §252–254): "in constant requisition" at funeral
+      rites — the chief mourner wears a ring of it, and it is laid beneath the pindas. Episodes with kusha in our
       hagiographies are not yet extracted — check CB Adi 8 (Jagannatha Mishra's shraddha) and CB Adi 14.
   text:
     ru: >-
@@ -528,7 +532,7 @@
       water with a bunch of kusha and lays it on the altar. Unlike the tender durva used for blessing, kusha is the
       grass of purity and ritual; it is cut in the fields on special days and dried for keeping.
   hagiography: []
-  sources: []
+  sources: ["Watt, A Dictionary of the Economic Products of India, т. III (1890), s.v. Eragrostis cynosuroides, §252–254 (archive.org DictionaryOfTheEconomicProductsOfIndia3)"]
   images: []
   game: {model: "пучки высокой жёсткой травы 60–100 см; кольцо из двух травинок", where: ["mishra-house/thakur-ghar", "ganga-ghat"]}
   todo: "найти кушу в ЧБ Ади 8, 14, 15 и Лочане (шраддха, свадьба)"
@@ -603,11 +607,15 @@
   era_evidence: later-reconstruction
   evidence_note:
     ru: >-
-      Джут — старая местная культура Бенгалии (санскр. «пата», бенг. пат); в житиях эпохи прямо не найден. Хлопок и
-      краски — см. mc-bengal-cotton и mc-dyes. Массовое экспортное выращивание джута — с XIX в. ⚠
+      Watt, т. II (1889), s.v. Corchorus capsularis / olitorius («Jute», §1839–1848 сл.): ко времени автора джут —
+      главная волокнистая культура Бенгалии, но дикорастущим там не найден, а определённого санскритского имени у него
+      нет — древность культуры неясна. ⚠ Для XVI в. в житиях не засвидетельствован; описание вымочки и использования —
+      по XIX в. Хлопок и краски — см. mc-bengal-cotton и mc-dyes. Массовое экспортное выращивание — с XIX в.
     en: >-
-      Jute is an old local crop of Bengal (Bengali pat); not found directly in the period's hagiographies. Cotton and
-      dyes — see mc-bengal-cotton and mc-dyes. Mass export cultivation of jute dates from the 19th c. ⚠
+      Watt, vol. II (1889), s.v. Corchorus capsularis / olitorius ("Jute", §1839–1848 ff.): by his time jute was
+      Bengal's chief fibre crop, yet not found wild there, and it has no definite Sanskrit name — its antiquity is
+      unclear. ⚠ Not attested for the 16th c. in the hagiographies; retting and uses described from the 19th c. Cotton
+      and dyes — see mc-bengal-cotton and mc-dyes. Mass export cultivation dates from the 19th c.
   text:
     ru: >-
       Джут (Corchorus, бенг. пат) растёт на низких заливных полях высокими, в два-три человеческих роста, тонкими
@@ -620,10 +628,10 @@
       hand and dried on bamboo poles in golden hanks. Jute makes ropes, sacking, mats and coarse cloth (chot), and its
       young leaves (nalte shak) are eaten as a slightly bitter green.
   hagiography: []
-  sources: []
+  sources: ["Watt, A Dictionary of the Economic Products of India, т. II (1889), s.v. Corchorus (Jute), §1839–1848 сл. (archive.org DictionaryOfTheEconomicProductsOfIndia2)"]
   images: []
   game: {model: "поле высоких стеблей 3 м; снопы в пруду; золотистые пряди волокна на жердях", where: ["navadvipa/fields", "mishra-house/pond"]}
-  todo: "найти джут/верёвки из пата в житиях или в «Манаса-мангале»"
+  todo: "найти джут/верёвки из пата в житиях или в «Манаса-мангале» — подтвердить, что культура была в XVI в."
 
 - id: mc-new-world-plants-absent
   title: {ru: "⚠ Чего ещё не было: растения из Америки", en: "⚠ Not yet there: plants from the Americas"}
