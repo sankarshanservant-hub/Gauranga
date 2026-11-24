@@ -104,6 +104,8 @@
     const saved = JSON.parse(localStorage.getItem('gl-prefs') || 'null');
     if (saved) { if (saved.lang) S.lang = saved.lang; if (saved.layers) Object.assign(S.layers, saved.layers); }
   } catch (e) { /* хранилище недоступно */ }
+  // ?lang=en|ru — язык задан снаружи: рамка harekrishna.info (/en/apps/gaura-lila/ → ?lang=en) или ссылка; запоминается
+  try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'ru') { S.lang = q; savePrefs(); } } catch (e) { /* ничего */ }
   function savePrefs() { try { localStorage.setItem('gl-prefs', JSON.stringify({ lang: S.lang, layers: S.layers })); } catch (e) { /* ничего */ } }
 
   const $ = id => document.getElementById(id);
