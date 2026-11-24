@@ -61,16 +61,16 @@
     },
     {
      "do": "hint",
-     "text": "Лила идёт как кино: к следующей сцене гандхарва подходит сам, а реплики листаете вы — щелчком или пробелом, в своём темпе. Кнопка ⏸ — пауза: можно бродить по двору. Щелчок по предмету — карточка «Как это было». Зажмите и ведите — сдвинуть вид; колесо или два пальца — ближе. Tab — небесное зрение, J — журнал.",
-     "text_en": "The pastime plays like a film: the gandharva walks to the next scene by himself, and you turn the lines — with a click or Space, at your own pace. The ⏸ button pauses so you can wander the courtyard. Click an object to open its card. Press and drag to move the view; wheel or two fingers to zoom. Tab — celestial vision, J — journal."
+     "text": "Щелчок по земле — идти. Когда лила ждёт, на земле горит золотой круг: подойдите к нему — или нажмите «Дальше ▸» вверху, и гандхарва дойдёт сам. Реплики листаются щелчком или пробелом. Щелчок по предмету — карточка «Как это было». Зажмите и ведите — сдвинуть вид; колесо или два пальца — ближе. Tab — небесное зрение, J — журнал.",
+     "text_en": "Click the ground to walk. When the pastime is waiting, a golden circle glows on the ground: go to it — or press “Continue ▸” at the top and the gandharva will walk there himself. Click or press Space to turn the lines. Click an object to open its card. Press and drag to move the view; wheel or two fingers to zoom. Tab — celestial vision, J — journal."
     },
     {
      "do": "celestial_hint"
     },
     {
      "do": "objective",
-     "text": "Двор Джаганнатхи Мишры. Скоро к дому подойдёт странник…",
-     "text_en": "The courtyard of Jagannatha Mishra. Soon a wanderer will come to the house…"
+     "text": "Осмотрите двор. Когда будете готовы — подойдите к золотому кругу у входа во двор или нажмите «Дальше ▸».",
+     "text_en": "Look around the courtyard. When you are ready, go to the golden circle at the courtyard entrance or press “Continue ▸”."
     }
    ]
   },
@@ -369,8 +369,8 @@
     },
     {
      "do": "objective",
-     "text": "Шачи уносит Нимая к соседям.",
-     "text_en": "Shachi carries Nimai off to the neighbours."
+     "text": "Шачи уносит Нимая к соседям. Идите за ними — к золотому кругу справа от туласи (или «Дальше ▸»).",
+     "text_en": "Shachi carries Nimai off to the neighbours. Follow them — to the golden circle right of the tulasi (or “Continue ▸”)."
     }
    ],
    "marker_hint_en": "Someone is coming to the house"
@@ -470,8 +470,8 @@
     },
     {
      "do": "objective",
-     "text": "Брахман готовит во второй раз.",
-     "text_en": "The brahmana is cooking a second time."
+     "text": "Брахман готовит во второй раз. Идите к кухне — золотой круг у её входа (или «Дальше ▸»).",
+     "text_en": "The brahmana is cooking a second time. Go to the kitchen — the golden circle at its door (or “Continue ▸”)."
     }
    ],
    "marker_hint_en": "Shachi and Nimai at the neighbours'"
@@ -719,8 +719,8 @@
     },
     {
      "do": "objective",
-     "text": "Ночь. Брахман готовит в третий раз.",
-     "text_en": "Night. The brahmana cooks for the third time."
+     "text": "Ночь. Брахман готовит в третий раз. Идите к кухне — золотой круг у её входа (или «Дальше ▸»).",
+     "text_en": "Night. The brahmana cooks for the third time. Go to the kitchen — the golden circle at its door (or “Continue ▸”)."
     }
    ],
    "marker_hint_en": "The second offering"

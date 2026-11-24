@@ -23,6 +23,8 @@ body { background: var(--night); color: var(--ink); font-family: var(--f-body); 
 #top { left: 24px; top: 18px; width: 900px; }
 #chap { font-family: var(--f-display); font-size: 20px; color: var(--gold); letter-spacing: 0.04em; }
 #objective { font-size: 22px; line-height: 1.3; white-space: pre-line; }
+#bNext { pointer-events: auto; position: relative; z-index: 2; margin-top: 10px; padding: 8px 22px; font-size: 21px; color: #1d140a; background: linear-gradient(#f3d28a, #d9a94e); border-color: #f3d28a; box-shadow: 0 0 18px rgba(255, 210, 120, 0.45); }
+#bNext:hover { background: linear-gradient(#ffe0a0, #e6b75c); }
 #hud { right: 24px; top: 18px; width: 380px; display: flex; flex-direction: column; gap: 8px; }
 #hud .soft { font-size: 20px; }
 #hud .keys { font-size: 16px; color: var(--dim); }
@@ -110,11 +112,11 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   <div id="sky" class="ui"></div>
   <canvas id="sparks" class="ui" width="1920" height="1080"></canvas>
   <div id="vision" class="ui"><div class="rays"></div><div class="core"></div><div class="form"><img alt=""><img class="glow" alt=""><div class="veil"></div></div></div>
-  <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
+  <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div><button id="bNext" type="button" hidden>Дальше ▸</button></div>
   <div id="hud" class="ui">
     <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
       <div class="keys" id="keys" hidden>Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
-    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button><button id="bPlay" class="lang" type="button">⏸</button><button id="bLang" class="lang" type="button" lang="en">EN</button></div>
+    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button><button id="bLang" class="lang" type="button" lang="en">EN</button></div>
   </div>
   <div id="percept" class="ui" hidden><div class="lbl" id="perLbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
   <div id="hint" class="ui panel" hidden><div id="hintText"></div><button id="hintOk" type="button">Понятно</button></div>
@@ -732,7 +734,7 @@ function applyLang() {
   $('cardClose').textContent = L('Закрыть', 'Close'); $('jClose').textContent = L('Закрыть (J)', 'Close (J)');
   $('jTitle').textContent = L('Журнал · открытое в этой главе', 'Journal · discovered in this chapter');
   $('rotate').textContent = L('Поверните телефон горизонтально — так двор виден целиком.', 'Turn your phone sideways to see the whole courtyard.');
-  syncSnd(); syncPlay(); setPlane(); ui.counter(); ui.renderObjective(); ui.rebuildJournal();
+  syncSnd(); setPlane(); $('bNext').textContent = L('Дальше ▸', 'Continue ▸'); ui.counter(); ui.renderObjective(); ui.rebuildJournal();
   if (!$('card').hidden && ui.lastCard) ui.card(...ui.lastCard, true);
 }
 $('bLang').onclick = () => { LANG = LANG === 'en' ? 'ru' : 'en'; try { localStorage.setItem('gaura.lang', LANG); } catch (e) { /* ничего */ } applyLang(); };
@@ -941,7 +943,7 @@ const found = {};
 async function walkToHotspot(id) {
   const tok = ++walkTok;
   openEntry(id, codex.items[id]);                  // карточка — сразу, без похода героя
-  if (!spots[id] || (movie && markerWait)) return;
+  if (!spots[id]) return;
   await player.walk(findPath(player.pos, spots[id]));
   if (tok !== walkTok) return;
   player.faceTo(spots[id]);
@@ -987,20 +989,17 @@ function waitMarker(spot, hint) {
   marker.position.copy(spots[spot]); marker.visible = true;
   if (hint) { ui.objHint = hint; ui.renderObjective(); }
   if (AUTOPLAY) player.pos.copy(nearest(spots[spot].clone().add(new THREE.Vector3(0.6, 0, 0.6))));
-  markerSpot = spots[spot]; autoGo(4500);
+  markerSpot = spots[spot]; $('bNext').hidden = AUTOPLAY;
   return new Promise((res) => { markerWait = res; });
 }
 
-// «кино» (по умолчанию): к следующей сцене герой подходит сам; реплики — по щелчку. ⏸ — остановиться и походить.
-let movie = true, markerSpot = null, goT = 0;
-function autoGo(delay) {
-  clearTimeout(goT); if (!movie || AUTOPLAY) return;
-  goT = setTimeout(() => { if (!(movie && markerWait && markerSpot)) return; walkTok++;
-    player.walk(findPath(player.pos, markerSpot.clone().add(new THREE.Vector3(0.8, 0, 0.8)))).then(() => {   // не дошёл (путь не нашёлся) — всё равно дальше
-      if (movie && markerWait) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }); }, delay);
-}
-function syncPlay() { $('bPlay').textContent = movie ? '⏸' : '▶'; $('bPlay').title = movie ? L('Пауза: герой не пойдёт к следующей сцене сам — можно побродить', 'Pause: the hero will not walk on to the next scene — explore freely') : L('Дальше: к следующей сцене герой пойдёт сам', 'Play: the hero walks on to the next scene'); }
-$('bPlay').onclick = () => { movie = !movie; syncPlay(); if (movie) autoGo(600); else clearTimeout(goT); };
+let markerSpot = null;
+// лила ждёт у знака (золотой круг): подойти самому или «Дальше ▸» — гандхарва дойдёт сам
+$('bNext').onclick = () => {
+  if (!markerWait || !markerSpot) return; walkTok++;
+  player.walk(findPath(player.pos, markerSpot.clone().add(new THREE.Vector3(0.8, 0, 0.8)))).then(() => {   // путь не нашёлся — всё равно дальше
+    if (markerWait) { marker.visible = false; $('bNext').hidden = true; const r = markerWait; markerWait = null; r(); } });
+};
 
 // ---------------------------------------------------------------- режиссёр сценария
 const spotOf = (a) => Array.isArray(a) ? new THREE.Vector3(...a) : spots[a];
@@ -1103,7 +1102,7 @@ function frame() {
   for (let i = tweens.length - 1; i >= 0; i--) { const tw = tweens[i]; tw.t += dt; const k = Math.min(tw.t / tw.dur, 1); tw.fn(k); if (k >= 1) { tweens.splice(i, 1); tw.res(); } }
   for (const id in figs) figs[id].update(dt);
   if (marker.visible) { marker.rotation.y += dt * 0.8; const s = 1 + 0.08 * Math.sin(performance.now() / 300); marker.scale.set(s, 1, s);
-    if (markerWait && player.pos.distanceTo(marker.position) < 1.7) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }
+    if (markerWait && player.pos.distanceTo(marker.position) < 1.7) { marker.visible = false; $('bNext').hidden = true; const r = markerWait; markerWait = null; r(); } }
   perceptTick(dt); panTick(dt); soundTick(dt);
   hovered = pickHover();
   for (const id in hsMarks) hsMarks[id].visible = false;
