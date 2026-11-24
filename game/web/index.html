@@ -1,7 +1,6 @@
 <title>Незримый гость</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400&family=Alegreya+SC:wght@500&display=swap">
+<link rel="stylesheet" href="vendor/fonts.css">
 <style>
 /* Пробный уровень игры по Гаура-лиле: пререндеренный двор (Cycles) + 3D-фигуры, интерфейс — «пальмовый лист и латунь». */
 :root {
@@ -27,6 +26,7 @@ body { background: var(--night); color: var(--ink); font-family: var(--f-body); 
 #hud { right: 24px; top: 18px; width: 380px; display: flex; flex-direction: column; gap: 8px; }
 #hud .soft { font-size: 20px; }
 #hud .keys { font-size: 16px; color: var(--dim); }
+[hidden] { display: none !important; }
 #btns { display: flex; gap: 8px; pointer-events: auto; }
 button { font-family: var(--f-body); font-size: 22px; color: var(--ink); background: var(--btn); border: 1px solid rgba(217, 181, 106, 0.75);
   border-radius: 6px; padding: 8px 14px; cursor: pointer; text-align: left; }
@@ -113,8 +113,8 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
   <div id="hud" class="ui">
     <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
-      <div class="keys" id="keys">Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
-    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button><button id="bLang" class="lang" type="button" lang="en">EN</button></div>
+      <div class="keys" id="keys" hidden>Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг</div></div>
+    <div id="btns"><button id="bHi" type="button">Подсветка</button><button id="bSky" type="button">Небо</button><button id="bJ" type="button">Журнал</button><button id="bSnd" type="button">Звук</button><button id="bPlay" class="lang" type="button">⏸</button><button id="bLang" class="lang" type="button" lang="en">EN</button></div>
   </div>
   <div id="percept" class="ui" hidden><div class="lbl" id="perLbl">Ощутимость</div><div class="bar"><div class="fill" id="pfill"></div></div></div>
   <div id="hint" class="ui panel" hidden><div id="hintText"></div><button id="hintOk" type="button">Понятно</button></div>
@@ -127,7 +127,7 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 </div></div>
 <div id="rotate">Поверните телефон горизонтально — так двор виден целиком.</div>
 
-<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+<script type="importmap">{"imports":{"three":"./vendor/three/three.module.js","three/addons/":"./vendor/three/addons/"}}</script>
 <script type="module">
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
@@ -138,7 +138,7 @@ const AUTOPLAY = /autoplay/.test(location.search) || location.hash === '#autopla
 // ---------------------------------------------------------------- язык (RU / EN): ?lang=en, кнопка EN/RU, выбор запоминается
 let LANG = (() => { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'ru') return q;
   try { const v = localStorage.getItem('gaura.lang'); if (v === 'en' || v === 'ru') return v; } catch (e) { /* нет хранилища */ }
-  return /^(ru|uk|be|kk)/i.test(navigator.language || '') ? 'ru' : 'en'; })();
+  return 'ru'; })();   // по умолчанию — русский; английский — кнопкой EN или ?lang=en
 const L = (ru, en) => LANG === 'en' ? en : ru;
 const tx = (o, f = 'text') => (LANG === 'en' && o?.[f + '_en']) || o?.[f] || '';      // поле шага сценария на текущем языке
 const loc = (e) => (LANG === 'en' && e?.en) ? { ...e, ...e.en } : e;                   // запись кодекса на текущем языке
@@ -530,8 +530,7 @@ const olScene = new THREE.Scene(), olCam = new THREE.OrthographicCamera(-1, 1, 1
 const olUni = { hs: { value: hsMaskT }, hsCut: { value: hsCutMaskT }, hut: { value: hutMaskT }, cut1: { value: 0 }, cut2: { value: 0 },
   target: { value: 0 }, all: { value: 0 }, z: { value: 1 }, c: { value: new THREE.Vector2() }, t: { value: 0 } };
 // стиль обводки: 0 — прежняя, 1 — золотая нить, 2 — сияние, 3 — лампада (свет изнутри), 4 — искры по контуру.
-// ?ol=N в адресе или клавиша O (Щ) — перебор вариантов.
-olUni.style = { value: +(new URLSearchParams(location.search).get('ol') ?? 1) };
+olUni.style = { value: 1 };   // «золотая нить» (выбор владельца 24.11.2026)
 olScene.add(new THREE.Mesh(new THREE.PlaneGeometry(2, 2), new THREE.ShaderMaterial({ uniforms: olUni, transparent: true, depthTest: false, depthWrite: false,
   vertexShader: 'varying vec2 vUv; void main(){ vUv = uv; gl_Position = vec4(position.xy, 0.0, 1.0); }',
   fragmentShader: `uniform sampler2D hs, hsCut, hut; uniform float cut1, cut2, target, all, z, t, style; uniform vec2 c; varying vec2 vUv;
@@ -606,7 +605,8 @@ const ui = {
       const body = italic ? `<i>${esc(text)}</i>` : (speaker ? L(`«${esc(text)}»`, `“${esc(text)}”`) : esc(text));
       $('dlgText').innerHTML = body;
       $('dlgRef').textContent = ref ? L('Источник: ', 'Source: ') + refL(ref) : L('Игровой рассказ', 'Game narrative');
-      this.waiting = () => { $('dlg').hidden = true; this.waiting = null; res(); };
+      this.waiting = () => { $('dlg').hidden = true; this.waiting = null; clearTimeout(this.autoT); res(); };
+      this.autoDur = THREE.MathUtils.clamp(1200 + String(text).length * 55, 3800, 15000); this.armAuto();
       if (AUTOPLAY) { autoShot(); setTimeout(() => this.waiting && this.waiting(), 150); }
     });
   },
@@ -615,13 +615,17 @@ const ui = {
       $('dlg').hidden = false; $('dlgName').textContent = speaker; setPortrait('player', speaker, col);
       $('dlgText').innerHTML = `<i>${esc(prompt)}</i>`; $('dlgRef').textContent = L('Ваш выбор (игровой рассказ)', 'Your choice (game narrative)');
       const box = $('choices'); box.innerHTML = '';
-      this.choiceRes = (i) => { box.innerHTML = ''; $('dlg').hidden = true; this.choiceRes = null; res(i); };
+      this.choiceRes = (i) => { box.innerHTML = ''; $('dlg').hidden = true; this.choiceRes = null; clearTimeout(this.choiceT); res(i); };
+      if (movie && !AUTOPLAY) this.choiceT = setTimeout(() => movie && this.choiceRes && this.choiceRes(1), 14000);   // в «кино» — сам через 14 с
       opts.forEach((o, i) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = `${i + 1}. ${o}`;
         b.onclick = (e) => { e.stopPropagation(); this.choiceRes && this.choiceRes(i); }; box.appendChild(b); });
       if (AUTOPLAY) { autoShot(); setTimeout(() => this.choiceRes && this.choiceRes(1), 150); }
     });
   },
   advance() { if (this.waiting) this.waiting(); },
+  // «кино»: реплика сама сменяется через время, нужное на чтение (щелчок — раньше); на паузе — ждёт щелчка
+  autoT: 0, autoDur: 0,
+  armAuto() { clearTimeout(this.autoT); if (!movie || AUTOPLAY || !this.waiting) return; this.autoT = setTimeout(() => movie && this.waiting && this.waiting(), this.autoDur); },
   card(e, who = '', quiet = false) {
     if (!quiet) audio.ui('card');
     this.lastCard = [e, who]; e = loc(e);
@@ -662,7 +666,8 @@ const ui = {
       (e.refs?.length ? `<p><i>${L('Источники:', 'Sources:')} ${e.refs.map((r) => esc(refL(r))).join('; ')}</i></p>` : '');
   },
   toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden) audio.ui('journal'); if (!j.hidden && this.entries.length) this.pickJournal(0); },
-  hint(t) { $('hintText').textContent = t; $('hint').hidden = false; if (AUTOPLAY) setTimeout(() => ($('hint').hidden = true), 200); },
+  hint(t) { $('hintText').textContent = t; $('hint').hidden = false; if (AUTOPLAY) setTimeout(() => ($('hint').hidden = true), 200);
+    else if (movie) { clearTimeout(this.hintT); this.hintT = setTimeout(() => ($('hint').hidden = true), 9000); } },
   async title(t, sub, sec) {
     const f = $('fade'); $('fadeTitle').textContent = t; $('fadeSub').textContent = sub;
     f.style.transition = 'none'; f.style.opacity = 1; f.classList.add('block');
@@ -728,7 +733,7 @@ function applyLang() {
   $('cardClose').textContent = L('Закрыть', 'Close'); $('jClose').textContent = L('Закрыть (J)', 'Close (J)');
   $('jTitle').textContent = L('Журнал · открытое в этой главе', 'Journal · discovered in this chapter');
   $('rotate').textContent = L('Поверните телефон горизонтально — так двор виден целиком.', 'Turn your phone sideways to see the whole courtyard.');
-  syncSnd(); setPlane(); ui.counter(); ui.renderObjective(); ui.rebuildJournal();
+  syncSnd(); syncPlay(); setPlane(); ui.counter(); ui.renderObjective(); ui.rebuildJournal();
   if (!$('card').hidden && ui.lastCard) ui.card(...ui.lastCard, true);
 }
 $('bLang').onclick = () => { LANG = LANG === 'en' ? 'ru' : 'en'; try { localStorage.setItem('gaura.lang', LANG); } catch (e) { /* ничего */ } applyLang(); };
@@ -929,7 +934,6 @@ addEventListener('keydown', (e) => {
   if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); if (!$('dlg').hidden) ui.advance(); else if (e.key === ' ') toggleHighlight(); return; }
   if (e.key === 'j' || e.key === 'J' || e.key === 'о' || e.key === 'О') ui.toggleJournal();
   if (e.key === 'm' || e.key === 'M' || e.key === 'ь' || e.key === 'Ь') { audio.toggle(); syncSnd(); }
-  if (e.code === 'KeyO') { olUni.style.value = (olUni.style.value + 1) % 5; ui.hint(L('Обводка: вариант ', 'Outline: style ') + olUni.style.value); }
   if (e.key === 'Escape') { $('card').hidden = true; $('journal').hidden = true; $('hint').hidden = true; }
   if (['1', '2', '3'].includes(e.key) && ui.choiceRes) ui.choiceRes(+e.key - 1);
 });
@@ -937,10 +941,11 @@ let walkTok = 0;
 const found = {};
 async function walkToHotspot(id) {
   const tok = ++walkTok;
-  if (!spots[id]) { openEntry(id, codex.items[id]); return; }
+  openEntry(id, codex.items[id]);                  // карточка — сразу, без похода героя
+  if (!spots[id] || (movie && markerWait)) return;
   await player.walk(findPath(player.pos, spots[id]));
   if (tok !== walkTok) return;
-  player.faceTo(spots[id]); openEntry(id, codex.items[id]);
+  player.faceTo(spots[id]);
 }
 function openEntry(key, e) {
   if (key.startsWith('hs_') && !found[key]) { found[key] = true; ui.counter(); }
@@ -983,8 +988,20 @@ function waitMarker(spot, hint) {
   marker.position.copy(spots[spot]); marker.visible = true;
   if (hint) { ui.objHint = hint; ui.renderObjective(); }
   if (AUTOPLAY) player.pos.copy(nearest(spots[spot].clone().add(new THREE.Vector3(0.6, 0, 0.6))));
+  markerSpot = spots[spot]; autoGo(4500);
   return new Promise((res) => { markerWait = res; });
 }
+
+// «кино» (по умолчанию): лила идёт сама — реплики сменяются, к следующей сцене герой подходит сам. ⏸ — остановиться и походить.
+let movie = true, markerSpot = null, goT = 0;
+function autoGo(delay) {
+  clearTimeout(goT); if (!movie || AUTOPLAY) return;
+  goT = setTimeout(() => { if (!(movie && markerWait && markerSpot)) return; walkTok++;
+    player.walk(findPath(player.pos, markerSpot.clone().add(new THREE.Vector3(0.8, 0, 0.8)))).then(() => {   // не дошёл (путь не нашёлся) — всё равно дальше
+      if (movie && markerWait) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }); }, delay);
+}
+function syncPlay() { $('bPlay').textContent = movie ? '⏸' : '▶'; $('bPlay').title = movie ? L('Пауза: остановить и походить самому', 'Pause: stop and explore') : L('Дальше: лила пойдёт сама', 'Play: the lila goes on by itself'); }
+$('bPlay').onclick = () => { movie = !movie; syncPlay(); if (movie) { ui.armAuto(); if (ui.waiting) ui.autoDur = 1500, ui.armAuto(); autoGo(600); } else { clearTimeout(goT); clearTimeout(ui.autoT); } };
 
 // ---------------------------------------------------------------- режиссёр сценария
 const spotOf = (a) => Array.isArray(a) ? new THREE.Vector3(...a) : spots[a];
@@ -1032,7 +1049,7 @@ async function step(s) {
     case 'time': await setTime(s.value, s.sec ?? 2); break;
     case 'choice': { const i = await ui.choose(player.name, tx(s, 'prompt'), s.options.map((o) => tx(o)), figColor('player'));
       flags.push(s.options[i].flag ?? ''); await ui.say(player.name, tx(s.options[i], 'reply'), '', figColor('player'), true, 'player'); break; }
-    case 'unlock': openEntry(s.id, codex.lilas[s.id]); break;
+    case 'unlock': { const e = codex.lilas[s.id]; openEntry(s.id, e); if (movie && !AUTOPLAY) setTimeout(() => { if (movie && ui.lastCard?.[0] === e) $('card').hidden = true; }, 11000); break; }
     case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
     case 'wait': await sleep((s.sec ?? 1) * 1000); break;
     case 'focus': focusHut = s.hut ?? ''; break;
