@@ -637,7 +637,9 @@ const ui = {
   },
   async vision(on, at) {
     const v = $('vision'), form = v.querySelector('.form');
-    if (on && at) { const s = toScreen(at); v.querySelectorAll('.rays,.core,.form').forEach((e) => { e.style.left = s.x + 'px'; e.style.top = s.y + 'px'; }); }
+    if (on && at) { const s = toScreen(at); v.querySelectorAll('.rays,.core').forEach((e) => { e.style.left = s.x + 'px'; e.style.top = s.y + 'px'; });
+      // облик — над местом видения, но целиком в кадре
+      form.style.left = THREE.MathUtils.clamp(s.x, 250, W - 250) + 'px'; form.style.top = THREE.MathUtils.clamp(s.y + 40, 600, H - 30) + 'px'; }
     v.classList.toggle('hasform', !!VISION_IMG);
     if (on) { v.style.opacity = 1; await sleep(1400); if (VISION_IMG) { form.classList.remove('off'); form.classList.add('on'); await sleep(2600); } }
     else { if (VISION_IMG) { form.classList.remove('on'); form.classList.add('off'); await sleep(900); } v.style.opacity = 0; await sleep(1600); form.classList.remove('off'); }
