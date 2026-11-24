@@ -127,7 +127,8 @@
   "hair": "#1a120c",
   "hair_style": "veil",
   "sensitive": true,
-  "name_en": "Neighbour"
+  "name_en": "Neighbour",
+  "model": "chars/neighbor.json"
  },
  "friend": {
   "id": "friend",
@@ -146,7 +147,8 @@
   "celestial": true,
   "halo": true,
   "name_en": "Chitrasena, elder gandharva",
-  "aura": "#ffcf70"
+  "aura": "#ffcf70",
+  "model": "chars/friend.json"
  },
  "nidra": {
   "id": "nidra",
@@ -163,6 +165,7 @@
   "celestial": true,
   "name_en": "Nidra Devi",
   "aura": "#5a6cff",
-  "float_h": 1.0
+  "float_h": 1.0,
+  "model": "chars/nidra.json"
  }
 }
