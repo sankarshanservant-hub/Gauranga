@@ -94,3 +94,39 @@ coconut palm; bamboo grove; cowshed with a cow; hanging brass lamp; low wooden s
    прислать цитату/ссылку, она войдёт в карточку лилы.
 4. **Звук:** записи киртана и раковины, улу-дхвани; можно ли использовать записи миссии.
 5. **Название игры.**
+
+## 7. Восьмирукий облик (видение брахмана, ЧБ Ади 5.127–134) — `vision_ashtabhuja.png`
+Что это за облик: Господь (Гаура-Гопала) являет брахману восьмирукий облик, где соединились Нараяна и Бала-Гопала.
+- **Четыре руки** держат раковину, диск, булаву и лотос.
+- **Ещё две руки:** в одной горшочек с маслом, другая подносит масло ко рту.
+- **Последние две** держат флейту.
+- **Украшения:**
+  - на груди знак шриватса, камень каустубха на жемчужном ожерелье;
+  - в волосах павлинье перо и ожерелье из гунджи;
+  - серьги-макары, гирлянда вайджаянти до колен;
+  - на стопах колокольчики, ногти сияют.
+- **Лицо:** луноподобное, улыбается; губы красноватые, глаза как лепестки лотоса.
+- **Голока вокруг:** брахман видит её же — кадамбы, пастушков и пастушек. В игре это даст фон-сияние.
+
+Цвет тела в тексте не назван. По атрибутам (павлинье перо, флейта, масло, Голока) это облик Кришны-Гопалы, поэтому
+предлагаем цвет грозовой тучи — **шьяма**. Если учитель скажет «золотой», меняем одно слово в промпте.
+
+Формат: **прозрачный фон (PNG с альфа-каналом)**, вертикально 1024×1536, фигура целиком, без земли, тени, ореола и надписей.
+Сияние и появление добавит игра. Вставить в отдельный чат GPT:
+
+> Painted devotional illustration, classical Indian miniature combined with refined oil painting, the same quality as Baldur's Gate II
+> portraits. Full body, front view, standing gracefully in a gentle tribhanga pose. **Fully transparent background (PNG with alpha
+> channel)** — no scenery, no ground, no shadow, no halo disc, no frame, no text, no watermark. Vertical 1024×1536.
+> The Supreme Lord in His eight-armed form, as revealed to a pilgrim brahmana in Bengal (Chaitanya-bhagavata, Adi 5.127–134):
+> a youthful, sweet divine cowherd form with a dark rain-cloud blue complexion (shyama), moon-like smiling face, large lotus-petal
+> eyes, reddish lips; a peacock feather and a garland of red gunja seeds in His hair; shark-shaped (makara) golden earrings; the
+> Kaustubha gem on a pearl necklace and the Shrivatsa mark on His chest; a long Vaijayanti garland of forest flowers reaching His
+> knees; jewelled ornaments on every limb; a yellow silk dhoti (pitambara); jewelled ankle-bells on tender feet, glowing toenails.
+> **Eight arms**, arranged symmetrically and naturally, every hand clearly visible and none covering the face: the four upper
+> hands hold a white conch (shankha), a golden disc (sudarshana chakra), a club (gada) and a pink lotus flower; one hand holds a
+> small clay pot of butter, another hand raises a little butter toward His mouth; the two front hands hold a bamboo flute just
+> below His lips, as if He has paused playing. A soft golden inner radiance on the skin. The mood is tender sweetness and wonder
+> (madhurya), never fearsome. Clean crisp silhouette for cutting out.
+
+Если GPT не даёт прозрачный фон — пусть сделает на ровном чёрном (*plain pure black background*), вырежем сами.
+Если руки слипаются — ответить: *spread the eight arms more clearly in a fan, like a classical Indian icon; keep the face unobstructed.*
