@@ -61,8 +61,8 @@
     },
     {
      "do": "hint",
-     "text": "Левая кнопка мыши — идти. Наведите курсор на предмет — узнать о нём, щёлкните — открыть карточку. Пробел — подсветить предметы. Tab — небесное зрение. J — журнал.",
-     "text_en": "Left mouse button — walk. Hover over an object to learn what it is, click to open its card. Space — highlight objects. Tab — celestial vision. J — journal."
+     "text": "Щелчок или касание — идти. Зажмите и ведите — сдвинуть вид; колесо, двойной щелчок или два пальца — ближе. Наведите курсор на предмет — узнать о нём, щёлкните — открыть карточку. Пробел — подсветить предметы. Tab — небесное зрение. J — журнал.",
+     "text_en": "Click or tap — walk. Press and drag — move the view; wheel, double-click or two fingers — zoom. Hover over an object to learn what it is, click to open its card. Space — highlight objects. Tab — celestial vision. J — journal."
     },
     {
      "do": "celestial_hint"

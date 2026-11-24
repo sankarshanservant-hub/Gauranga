@@ -16,7 +16,8 @@ body { background: var(--night); color: var(--ink); font-family: var(--f-body); 
 #wrap { position: fixed; inset: 0; display: grid; place-items: center; }
 #stage { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; transform-origin: 0 0; overflow: hidden;
   background: #000; user-select: none; -webkit-user-select: none; touch-action: manipulation; }
-#gl { position: absolute; inset: 0; width: 1920px; height: 1080px; display: block; cursor: pointer; }
+#gl { position: absolute; inset: 0; width: 1920px; height: 1080px; display: block; cursor: pointer; touch-action: none; }
+#gl.grab { cursor: grabbing; }
 .ui { position: absolute; }
 .panel { background: var(--panel); border: 2px solid rgba(217, 181, 106, 0.75); border-radius: 6px; }
 .soft { background: var(--panel-soft); border-radius: 6px; padding: 10px 16px; pointer-events: none; }
@@ -676,8 +677,8 @@ function setPlane() { $('plane').textContent = celestial ? L('План: небе
 function applyLang() {
   document.documentElement.lang = LANG; document.title = L('Незримый гость', 'The Unseen Guest');
   $('chap').textContent = L('Глава I · Детство · Брахман-паломник', 'Chapter I · Childhood · The Pilgrim Brahmana');
-  $('keys').innerHTML = L('Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо, двойной щелчок — ближе · край экрана, WASD, правая кнопка — сдвиг · F — к герою · 0 — весь двор',
-    'Space — highlight · Tab — sky · J — journal · M — sound<br>Wheel, double-click — zoom · screen edge, WASD, right button — pan · F — hero · 0 — whole courtyard');
+  $('keys').innerHTML = L('Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо, двойной щелчок, два пальца — ближе · зажать и вести, край экрана, WASD — сдвиг · F — к герою · 0 — весь двор',
+    'Space — highlight · Tab — sky · J — journal · M — sound<br>Wheel, double-click, pinch — zoom · press and drag, screen edge, WASD — pan · F — hero · 0 — whole courtyard');
   $('bHi').textContent = L('Подсветка', 'Highlight'); $('bSky').textContent = L('Небо', 'Sky'); $('bJ').textContent = L('Журнал', 'Journal');
   $('bLang').textContent = LANG === 'en' ? 'RU' : 'EN'; $('bLang').lang = LANG === 'en' ? 'ru' : 'en';
   $('bLang').title = LANG === 'en' ? 'Русская версия' : 'English version';
@@ -772,7 +773,7 @@ const EDGE = 36;
 function panTick(dt) {
   let dx = 0, dy = 0;
   if (keysDown.has('L')) dx -= 1; if (keysDown.has('R')) dx += 1; if (keysDown.has('U')) dy += 1; if (keysDown.has('D')) dy -= 1;
-  if (overGL && !drag && view.z > 1.01 && mouse.x >= 0 && matchMedia('(pointer: fine)').matches) {
+  if (overGL && !drag && !press?.moved && view.z > 1.01 && mouse.x >= 0 && matchMedia('(pointer: fine)').matches) {
     if (mouse.x < EDGE) dx -= 1 - mouse.x / EDGE; else if (mouse.x > W - EDGE) dx += 1 - (W - mouse.x) / EDGE;
     if (mouse.y < EDGE) dy += 1 - mouse.y / EDGE; else if (mouse.y > H - EDGE) dy -= 1 - (H - mouse.y) / EDGE;
   }
@@ -833,8 +834,28 @@ function pickHover() {
   return best;
 }
 $('gl').addEventListener('pointermove', (e) => { mouse = toStage(e); });
+// нажатие без сдвига — идти (или открыть предмет); нажал и повёл — сдвиг вида (мышь и палец одинаково)
+let press = null;
+const PRESS_SLOP = 10;
 $('gl').addEventListener('pointerdown', (e) => {
-  mouse = toStage(e);
+  if (e.button !== 0) return;
+  mouse = toStage(e); press = { id: e.pointerId, x: mouse.x, y: mouse.y, cx: view.cx, cy: view.cy, moved: false };
+  try { $('gl').setPointerCapture(e.pointerId); } catch (err) { /* не важно */ }
+});
+addEventListener('pointermove', (e) => {
+  if (!press || e.pointerId !== press.id) return;
+  if (pinch) { press.moved = true; return; }
+  const p = toStage(e);
+  if (!press.moved && Math.hypot(p.x - press.x, p.y - press.y) > PRESS_SLOP) { press.moved = true; $('gl').classList.add('grab'); }
+  if (press.moved) { view.cx = press.cx - (p.x - press.x) / W / view.z; view.cy = press.cy + (p.y - press.y) / H / view.z; applyView(); }
+});
+addEventListener('pointerup', (e) => {
+  if (!press || e.pointerId !== press.id) return;
+  const pr = press; press = null; $('gl').classList.remove('grab');
+  if (!pr.moved) { mouse = toStage(e); clickAt(); }
+});
+addEventListener('pointercancel', () => { press = null; $('gl').classList.remove('grab'); });
+function clickAt() {
   if (!$('dlg').hidden) { ui.advance(); return; }
   if (!$('journal').hidden) return;
   const h = pickHover();
@@ -843,7 +864,7 @@ $('gl').addEventListener('pointerdown', (e) => {
   const ray = new THREE.Raycaster(); ray.setFromCamera(new THREE.Vector2(mouse.x / W * 2 - 1, -(mouse.y / H * 2 - 1)), cam);
   const hit = ray.intersectObjects(proxies.filter((o) => o.visible), false)[0];
   if (hit) { walkTok++; player.walk(findPath(player.pos, hit.point)); }
-});
+}
 addEventListener('keydown', (e) => {
   if (e.key === 'Tab') { e.preventDefault(); toggleCelestial(); return; }
   if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); if (!$('dlg').hidden) ui.advance(); else if (e.key === ' ') toggleHighlight(); return; }
@@ -976,7 +997,7 @@ async function finale() {
 }
 // отладка: ?from=<id сцены> — начать с неё (предыдущие сцены проходятся мгновенно: только расстановка, без реплик)
 const FROM = new URLSearchParams(location.search).get('from');
-if (AUTOPLAY || FROM) window.__dbg = { ui, figs, spots, spotOrFig, THREE };
+if (AUTOPLAY || FROM) window.__dbg = { ui, figs, spots, spotOrFig, THREE, view };
 async function run() {
   let skip = !!FROM && scenario.beats.some((b) => b.id === FROM);
   for (const beat of scenario.beats) {
@@ -1032,6 +1053,8 @@ function frame() {
 fit();
 $('loading').hidden = true;
 applyLang();
+// на телефоне и планшете двор мельче — начинаем чуть ближе, с героем в центре (дальше — щипок и сдвиг пальцем)
+if (matchMedia('(pointer: coarse)').matches && !AUTOPLAY) { const t = viewFor(player.pos.clone().add(new THREE.Vector3(0, 0.9, 0)), 1.45); Object.assign(view, t); applyView(); }
 requestAnimationFrame(frame);
 run();
 </script>
