@@ -616,7 +616,6 @@ const ui = {
       $('dlgText').innerHTML = `<i>${esc(prompt)}</i>`; $('dlgRef').textContent = L('Ваш выбор (игровой рассказ)', 'Your choice (game narrative)');
       const box = $('choices'); box.innerHTML = '';
       this.choiceRes = (i) => { box.innerHTML = ''; $('dlg').hidden = true; this.choiceRes = null; clearTimeout(this.choiceT); res(i); };
-      if (movie && !AUTOPLAY) this.choiceT = setTimeout(() => movie && this.choiceRes && this.choiceRes(1), 14000);   // в «кино» — сам через 14 с
       opts.forEach((o, i) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = `${i + 1}. ${o}`;
         b.onclick = (e) => { e.stopPropagation(); this.choiceRes && this.choiceRes(i); }; box.appendChild(b); });
       if (AUTOPLAY) { autoShot(); setTimeout(() => this.choiceRes && this.choiceRes(1), 150); }
@@ -625,7 +624,7 @@ const ui = {
   advance() { if (this.waiting) this.waiting(); },
   // «кино»: реплика сама сменяется через время, нужное на чтение (щелчок — раньше); на паузе — ждёт щелчка
   autoT: 0, autoDur: 0,
-  armAuto() { clearTimeout(this.autoT); if (!movie || AUTOPLAY || !this.waiting) return; this.autoT = setTimeout(() => movie && this.waiting && this.waiting(), this.autoDur); },
+  armAuto() { clearTimeout(this.autoT); },   // реплики сами не листаются: скорость чтения задаёт щелчок (решение владельца 24.11.2026)
   card(e, who = '', quiet = false) {
     if (!quiet) audio.ui('card');
     this.lastCard = [e, who]; e = loc(e);
@@ -667,7 +666,7 @@ const ui = {
   },
   toggleJournal() { const j = $('journal'); j.hidden = !j.hidden; if (!j.hidden) audio.ui('journal'); if (!j.hidden && this.entries.length) this.pickJournal(0); },
   hint(t) { $('hintText').textContent = t; $('hint').hidden = false; if (AUTOPLAY) setTimeout(() => ($('hint').hidden = true), 200);
-    else if (movie) { clearTimeout(this.hintT); this.hintT = setTimeout(() => ($('hint').hidden = true), 9000); } },
+  },
   async title(t, sub, sec) {
     const f = $('fade'); $('fadeTitle').textContent = t; $('fadeSub').textContent = sub;
     f.style.transition = 'none'; f.style.opacity = 1; f.classList.add('block');
@@ -992,7 +991,7 @@ function waitMarker(spot, hint) {
   return new Promise((res) => { markerWait = res; });
 }
 
-// «кино» (по умолчанию): лила идёт сама — реплики сменяются, к следующей сцене герой подходит сам. ⏸ — остановиться и походить.
+// «кино» (по умолчанию): к следующей сцене герой подходит сам; реплики — по щелчку. ⏸ — остановиться и походить.
 let movie = true, markerSpot = null, goT = 0;
 function autoGo(delay) {
   clearTimeout(goT); if (!movie || AUTOPLAY) return;
@@ -1000,8 +999,8 @@ function autoGo(delay) {
     player.walk(findPath(player.pos, markerSpot.clone().add(new THREE.Vector3(0.8, 0, 0.8)))).then(() => {   // не дошёл (путь не нашёлся) — всё равно дальше
       if (movie && markerWait) { marker.visible = false; const r = markerWait; markerWait = null; r(); } }); }, delay);
 }
-function syncPlay() { $('bPlay').textContent = movie ? '⏸' : '▶'; $('bPlay').title = movie ? L('Пауза: остановить и походить самому', 'Pause: stop and explore') : L('Дальше: лила пойдёт сама', 'Play: the lila goes on by itself'); }
-$('bPlay').onclick = () => { movie = !movie; syncPlay(); if (movie) { ui.armAuto(); if (ui.waiting) ui.autoDur = 1500, ui.armAuto(); autoGo(600); } else { clearTimeout(goT); clearTimeout(ui.autoT); } };
+function syncPlay() { $('bPlay').textContent = movie ? '⏸' : '▶'; $('bPlay').title = movie ? L('Пауза: герой не пойдёт к следующей сцене сам — можно побродить', 'Pause: the hero will not walk on to the next scene — explore freely') : L('Дальше: к следующей сцене герой пойдёт сам', 'Play: the hero walks on to the next scene'); }
+$('bPlay').onclick = () => { movie = !movie; syncPlay(); if (movie) autoGo(600); else clearTimeout(goT); };
 
 // ---------------------------------------------------------------- режиссёр сценария
 const spotOf = (a) => Array.isArray(a) ? new THREE.Vector3(...a) : spots[a];
@@ -1049,7 +1048,7 @@ async function step(s) {
     case 'time': await setTime(s.value, s.sec ?? 2); break;
     case 'choice': { const i = await ui.choose(player.name, tx(s, 'prompt'), s.options.map((o) => tx(o)), figColor('player'));
       flags.push(s.options[i].flag ?? ''); await ui.say(player.name, tx(s.options[i], 'reply'), '', figColor('player'), true, 'player'); break; }
-    case 'unlock': { const e = codex.lilas[s.id]; openEntry(s.id, e); if (movie && !AUTOPLAY) setTimeout(() => { if (movie && ui.lastCard?.[0] === e) $('card').hidden = true; }, 11000); break; }
+    case 'unlock': openEntry(s.id, codex.lilas[s.id]); break;
     case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
     case 'wait': await sleep((s.sec ?? 1) * 1000); break;
     case 'focus': focusHut = s.hut ?? ''; break;

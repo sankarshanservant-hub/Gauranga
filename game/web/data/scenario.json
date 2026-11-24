@@ -61,8 +61,8 @@
     },
     {
      "do": "hint",
-     "text": "Лила идёт сама, как кино: реплики сменяются сами (щелчок — быстрее), к следующей сцене гандхарва подходит сам. Кнопка ⏸ — пауза: тогда можно бродить по двору. Щелчок по предмету — карточка «Как это было». Зажмите и ведите — сдвинуть вид; колесо или два пальца — ближе. Tab — небесное зрение, J — журнал.",
-     "text_en": "The lila plays by itself, like a film: lines change on their own (click to go faster), and the gandharva walks to the next scene himself. The ⏸ button pauses it so you can wander the courtyard. Click an object to open its card. Press and drag to move the view; wheel or two fingers to zoom. Tab — celestial vision, J — journal."
+     "text": "Лила идёт как кино: к следующей сцене гандхарва подходит сам, а реплики листаете вы — щелчком или пробелом, в своём темпе. Кнопка ⏸ — пауза: можно бродить по двору. Щелчок по предмету — карточка «Как это было». Зажмите и ведите — сдвинуть вид; колесо или два пальца — ближе. Tab — небесное зрение, J — журнал.",
+     "text_en": "The pastime plays like a film: the gandharva walks to the next scene by himself, and you turn the lines — with a click or Space, at your own pace. The ⏸ button pauses so you can wander the courtyard. Click an object to open its card. Press and drag to move the view; wheel or two fingers to zoom. Tab — celestial vision, J — journal."
     },
     {
      "do": "celestial_hint"
