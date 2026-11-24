@@ -810,9 +810,26 @@ function onDoor(f) {
   const now = performance.now(); if (now - (f.doorT ?? 0) < 2500) return; f.doorT = now;
   const [g, pan] = hearAt(f.pos); audio.door(g, pan);
 }
+// чёткие фоны (3840×2160, bg/hd/): грузятся в фоне, только когда двор приблизили; сначала — текущее время суток.
+// На телефоне — при сильном приближении и не в режиме экономии трафика. Старые текстуры освобождаются.
+const HD = { loading: false, done: {} };
+const loadTexSafe = (p) => new Promise((res, rej) => texLoader.load(p, (t) => { t.colorSpace = THREE.NoColorSpace; t.minFilter = THREE.LinearFilter; t.generateMipmaps = false; res(t); }, undefined, rej));
+function hdTick() {
+  if (HD.loading || AUTOPLAY || renderer.capabilities.maxTextureSize < 3840 || navigator.connection?.saveData) return;
+  const coarse = matchMedia('(pointer: coarse)').matches;
+  if (view.z < (coarse ? 1.7 : 1.2)) return;
+  const k = (coarse ? [curTime] : [curTime, ...Object.keys(TIMES)]).find((x) => !HD.done[x]); if (!k) return;
+  HD.loading = true;
+  Promise.all([loadTexSafe(TIMES[k].tex.replace('bg/', 'bg/hd/')), loadTexSafe(TIMES[k].tex.replace('bg/courtyard_', 'bg/hd/cut_'))]).then(([a, c]) => {
+    const oa = bgTex[k], oc = cutTex[k]; bgTex[k] = a; cutTex[k] = c;
+    for (const u of ['bgA', 'bgB', 'cutA', 'cutB']) { const v = bgUniforms[u].value; if (v === oa) bgUniforms[u].value = a; else if (v === oc) bgUniforms[u].value = c; }
+    requestAnimationFrame(() => { oa.dispose(); if (oc !== oa) oc.dispose(); });
+  }).catch(() => {}).finally(() => { HD.done[k] = true; HD.loading = false; });
+}
 let sndT = 0, sndDuck = false;
 function soundTick(dt) {
   sndT += dt; if (sndT < 0.25) return; sndT = 0;
+  hdTick();
   const d = !$('dlg').hidden; if (d !== sndDuck) { sndDuck = d; audio.duck(d); }
   if (spots.hs_chula_in) { const k = Math.max(0, 1 - spots.hs_chula_in.distanceTo(player.pos) / 7.5); audio.fire(k ** 1.5 * (roomAt(player.pos) === 'kitchen' ? 1 : 0.6)); }
 }
