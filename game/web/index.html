@@ -459,7 +459,7 @@ class Figure {
       next.timeScale = THREE.MathUtils.clamp(move / nat, 0.5, 2.2);
     } else next.timeScale = speed * (loop && p !== 'talk' ? 0.9 + Math.random() * 0.2 : 1);
     next.enabled = true; next.setEffectiveWeight(1);
-    if (this.current && this.current !== next) { next.crossFadeFrom(this.current, ['faint', 'sleep', 'lie'].includes(prev) ? 2.2 : p === 'faint' ? 0.6 : 0.3, false);   // с земли поднимаются не спеша }
+    if (this.current && this.current !== next) { next.crossFadeFrom(this.current, ['faint', 'sleep', 'lie'].includes(prev) ? 2.2 : p === 'faint' ? 0.6 : 0.3, false); }   // с земли поднимаются не спеша
     next.play(); this.current = next;
   }
   addXray(hex, op) {   // силуэт сквозь кровли и стены
