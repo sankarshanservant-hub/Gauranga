@@ -135,12 +135,19 @@
         <p class="game__lead" data-i18n="gameLead"></p>
         <ul class="game__points" id="game-points"></ul>
         <div class="game__actions">
-          <a class="game__play" id="game-play" href="https://harekrishna.info/apps/unseen-guest/app/" target="_blank" rel="noopener" data-i18n="gamePlay">Играть ▸</a>
+          <a class="game__play" id="game-play" href="https://harekrishna.info/apps/unseen-guest/app/" data-i18n="gamePlay">Играть ▸</a>
           <button type="button" class="game__lila" id="game-lila" data-i18n="gameLila">Эта лила в писаниях</button>
         </div>
         <p class="game__note" data-i18n="gameNote"></p>
       </div>
     </article>
+    <div class="game-frame" id="game-frame" hidden>
+      <div class="game-frame__bar">
+        <button type="button" class="game__lila" id="game-back" data-i18n="gameBack">‹ К описанию</button>
+        <a class="game-frame__out" id="game-out" href="https://harekrishna.info/apps/unseen-guest/app/" target="_blank" rel="noopener" data-i18n="gameOut">В отдельной вкладке ↗</a>
+      </div>
+      <iframe id="game-iframe" title="Незримый гость" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
   </div>
 </div>
 </main>

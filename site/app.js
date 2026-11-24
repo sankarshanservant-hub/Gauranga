@@ -26,11 +26,11 @@
       ggd: '«Гаура-ганоддеша-дипика» Кави Карнапуры — кем был прежде', ggdOnlyRu: '',
       of: (i, n) => `${i} из ${n}`,
       tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники', tabLib: 'Писания', tabGame: 'Игра',
-      gameKicker: 'Игра по Гаура-лиле · пробная глава', gameTitle: 'Незримый гость', gamePlay: 'Играть ▸', gameLila: 'Эта лила в писаниях',
+      gameKicker: 'Игра по Гаура-лиле · пробная глава', gameTitle: 'Незримый гость', gamePlay: 'Играть ▸', gameLila: 'Эта лила в писаниях', gameBack: '‹ К описанию', gameOut: 'В отдельной вкладке ↗',
       gameLead: 'Вы — молодой гандхарва, небесный музыкант. Вам позволили незримо спуститься в глиняный двор Джаганнатхи Мишры в Навадвипе около 1490 года и увидеть, как маленький Нимай трижды съедает подношение странствующего брахмана — и в третий раз, ночью, являет ему Свой восьмирукий облик («Шри Чайтанья-бхагавата», Ади 5).',
-      gamePoints: ['Лила идёт сама, как кино: реплики — словами писания, кнопка ⏸ — пауза, чтобы бродить по двору', 'Предметы быта той эпохи — с карточками «Как это было» из исторической базы', 'Кухня и комнаты — изнутри; день, сумерки и ночь; небесное зрение — Нидра-деви и Читрасена', 'Тихая музыка в раге по времени суток и звуки бенгальской природы'],
-      gameNote: 'Открывается на harekrishna.info, на компьютере и телефоне. Лучше всего — на большом экране со звуком. Пробная глава: дальше — новые лилы по порядку.',
-      hintGame: 'Игра открывается в новой вкладке. Колесо мыши или два пальца — ближе, зажать и вести — сдвинуть вид.',
+      gamePoints: ['Как кино: к следующей сцене гандхарва подходит сам, реплики — словами писания — вы листаете щелчком, в своём темпе; ⏸ — пауза, чтобы бродить по двору', 'Предметы быта той эпохи — с карточками «Как это было» из исторической базы', 'Кухня и комнаты — изнутри; день, сумерки и ночь; небесное зрение — Нидра-деви и Читрасена', 'Тихая музыка в раге по времени суток и звуки бенгальской природы'],
+      gameNote: 'Работает на компьютере и телефоне (сама игра — на harekrishna.info). Лучше всего — на большом экране со звуком. Пробная глава: дальше — новые лилы по порядку.',
+      hintGame: 'Реплики — щелчком. Колесо мыши или два пальца — ближе, зажать и вести — сдвинуть вид. На весь экран — «В отдельной вкладке».',
       libToc: 'Оглавление', libAll: '← Все писания', libTitle: 'Писания', libIntro: 'Все наши переводы — целиком, по главам. Выберите писание слева.',
       libChapters: n => `${n} ${plural(n, 'глава', 'главы', 'глав')}`, libEn: '', libNoEn: '', libStart: 'Читать с начала',
       libRuOnly: '', libAbout: 'О писании', libFacts: 'Кратко', toBio: 'Жизнеописание', toLilas: n => `Лилы · ${n}`, readChapter: 'Читать главу целиком →', hintLib: 'Выберите писание и главу. Кнопки над текстом включают оригинал, транслитерацию, пословный перевод и примечания.',
@@ -69,11 +69,11 @@
       ggd: 'Gaura-ganoddesha-dipika of Kavi Karnapura — who they were before', ggdOnlyRu: 'Translated into Russian only so far.',
       of: (i, n) => `${i} of ${n}`,
       tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates', tabLib: 'Scriptures', tabGame: 'Game',
-      gameKicker: 'A game of Gaura-lila · trial chapter', gameTitle: 'The Unseen Guest', gamePlay: 'Play ▸', gameLila: 'This pastime in the scriptures',
+      gameKicker: 'A game of Gaura-lila · trial chapter', gameTitle: 'The Unseen Guest', gamePlay: 'Play ▸', gameLila: 'This pastime in the scriptures', gameBack: '‹ Back to the description', gameOut: 'Open in a new tab ↗',
       gameLead: 'You are a young gandharva, a celestial musician, allowed to descend unseen into the clay courtyard of Jagannatha Mishra in Navadvipa around 1490 and to witness how little Nimai three times eats the offering of a wandering brahmana — and the third time, at night, reveals to him His eight-armed form (Sri Chaitanya-bhagavata, Adi 5).',
-      gamePoints: ['The pastime plays by itself, like a film: lines in the words of the scripture, ⏸ to pause and wander the courtyard', 'Objects of daily life of the period — with “How it was” cards from our historical base', 'The kitchen and rooms from inside; day, dusk and night; celestial vision — Nidra Devi and Chitrasena', 'Quiet music in the raga of the hour and the sounds of Bengal'],
-      gameNote: 'Opens on harekrishna.info, on computers and phones. Best on a large screen with sound. A trial chapter: more pastimes will follow in order.',
-      hintGame: 'The game opens in a new tab. Mouse wheel or two fingers to zoom, press and drag to move the view.',
+      gamePoints: ['Like a film: the gandharva walks to the next scene by himself, and you turn the lines — in the words of the scripture — with a click, at your own pace; ⏸ to pause and wander the courtyard', 'Objects of daily life of the period — with “How it was” cards from our historical base', 'The kitchen and rooms from inside; day, dusk and night; celestial vision — Nidra Devi and Chitrasena', 'Quiet music in the raga of the hour and the sounds of Bengal'],
+      gameNote: 'Works on computers and phones (the game itself lives on harekrishna.info). Best on a large screen with sound. A trial chapter: more pastimes will follow in order.',
+      hintGame: 'Click to turn the lines. Mouse wheel or two fingers to zoom, press and drag to move the view. For full screen — “Open in a new tab”.',
       libToc: 'Contents', libAll: '← All scriptures', libTitle: 'Scriptures', libIntro: 'All our translations, complete, chapter by chapter. Choose a scripture on the left.',
       libChapters: n => `${n} chapter${n === 1 ? '' : 's'}`, libEn: 'EN', libNoEn: 'Russian only so far', libStart: 'Start reading',
       libRuOnly: 'No English translation yet — shown in Russian.', libAbout: 'About the scripture', libFacts: 'In brief', toBio: 'Life', toLilas: n => `Pastimes · ${n}`, readChapter: 'Read the whole chapter →', hintLib: 'Choose a scripture and a chapter. The buttons above the text turn on the original, transliteration, word-for-word and notes.',
@@ -640,10 +640,20 @@
 
   /* ——— игра «Незримый гость» (репозиторий Gauranga, game/; выложена на harekrishna.info/apps/unseen-guest/app/) ——— */
   const GAME_URL = 'https://harekrishna.info/apps/unseen-guest/app/';
+  // игра — прямо во вкладке (рамка; harekrishna.info разрешает её только этому сайту, deploy/nginx-site.conf в HareKrishna);
+  // «В отдельной вкладке» — на весь экран. Рамка грузится только по «Играть» (≈ 30 МБ), «К описанию» — выгружает её.
+  const gameSrc = () => GAME_URL + (S.lang === 'en' ? '?lang=en' : '');
   function renderGame() {
     $('game-points').innerHTML = t().gamePoints.map(p => `<li>${esc(p)}</li>`).join('');
-    $('game-play').href = GAME_URL + (S.lang === 'en' ? '?lang=en' : '');
+    $('game-play').href = $('game-out').href = gameSrc();
   }
+  function gameShow(on) {
+    $('game-frame').hidden = !on; document.querySelector('.sheet--game .game').hidden = on;
+    const fr = $('game-iframe');
+    if (on) { if (fr.src !== gameSrc()) fr.src = gameSrc(); fr.focus(); } else fr.src = 'about:blank';
+  }
+  $('game-play').addEventListener('click', (e) => { if (e.ctrlKey || e.metaKey || e.shiftKey) return; e.preventDefault(); gameShow(true); });
+  $('game-back').addEventListener('click', () => gameShow(false));
   $('game-lila').addEventListener('click', () => { showTab('lilas'); openLila('ev-tirthika-brahmana', true, true); });
 
   /* ——— спутники ——— */
