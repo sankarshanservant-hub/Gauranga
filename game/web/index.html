@@ -83,11 +83,23 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 #vision .core { position: absolute; width: 900px; height: 900px; margin: -450px 0 0 -450px; border-radius: 50%;
   background: radial-gradient(circle, #fffbea 0%, rgba(255,236,170,0.95) 9%, rgba(255,210,120,0.55) 24%, rgba(120,150,255,0.25) 45%, transparent 66%); }
 @keyframes spin { to { transform: rotate(360deg); } }
+/* восьмирукий облик: проявляется из света, сверху — лёгкое сияние; парит */
+#vision .form { position: absolute; width: 440px; height: 660px; margin: -560px 0 0 -220px; opacity: 0; transform: scale(0.86);
+  filter: brightness(3.2) blur(14px); transition: opacity 2.6s ease-out, transform 3.2s cubic-bezier(0.2, 0.7, 0.2, 1), filter 3.4s ease-out; }
+#vision .form.on { opacity: 1; transform: scale(1); filter: brightness(1.08) blur(0); }
+#vision .form.off { opacity: 0; transform: scale(1.04); filter: brightness(3.5) blur(10px); transition-duration: 1.6s; }
+#vision .form img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; animation: hover 7s ease-in-out infinite; }
+#vision .form img.glow { filter: blur(20px) brightness(1.9) saturate(1.2); mix-blend-mode: screen; opacity: 0.55; animation: hover 7s ease-in-out infinite, breathe 4.5s ease-in-out infinite; }
+#vision .form .veil { position: absolute; inset: -12% -20%; border-radius: 50%; mix-blend-mode: screen; pointer-events: none;
+  background: radial-gradient(ellipse at 50% 42%, rgba(255,246,214,0.42) 0%, rgba(255,226,150,0.22) 32%, transparent 68%); animation: breathe 4.5s ease-in-out infinite; }
+#vision.hasform .core { opacity: 0.75; }
+@keyframes hover { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+@keyframes breathe { 0%, 100% { opacity: 0.45; } 50% { opacity: 0.7; } }
 #loading { inset: 0; display: grid; place-items: center; background: var(--night); font-size: 30px; color: var(--gold); font-family: var(--f-display); }
 #rotate { position: fixed; inset: auto 0 0 0; padding: 10px 16px calc(10px + env(safe-area-inset-bottom, 0px)); text-align: center;
   background: rgba(13,10,8,0.85); color: var(--ink); font-size: 15px; display: none; }
 @media (orientation: portrait) and (max-width: 800px) { #rotate { display: block; } }
-@media (prefers-reduced-motion: reduce) { #vision .rays { animation: none; } }
+@media (prefers-reduced-motion: reduce) { #vision .rays, #vision .form img, #vision .form .veil { animation: none; } }
 </style>
 
 <div id="wrap"><div id="stage">
@@ -95,7 +107,7 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   <div id="skyTint" class="ui"></div>
   <div id="sky" class="ui"></div>
   <canvas id="sparks" class="ui" width="1920" height="1080"></canvas>
-  <div id="vision" class="ui"><div class="rays"></div><div class="core"></div></div>
+  <div id="vision" class="ui"><div class="rays"></div><div class="core"></div><div class="form"><img alt=""><img class="glow" alt=""><div class="veil"></div></div></div>
   <div id="top" class="ui soft"><div id="chap">Глава I · Детство · Брахман-паломник</div><div id="objective"></div></div>
   <div id="hud" class="ui">
     <div class="soft"><div id="counter">Быт: открыто 0 из 20</div><div id="plane">План: земной</div>
@@ -416,6 +428,14 @@ class Figure {
     sh.rotation.x = -Math.PI / 2; sh.position.y = 0.02; this.root.add(sh);
     this.pose = 'idle'; this.mixer.update(Math.random() * 2);
     this.xray = [];
+    if (spec.aura) {    // сияние вокруг небожителя (видно только в небесном зрении — вместе с ним самим)
+      const cv = document.createElement('canvas'); cv.width = cv.height = 128; const g = cv.getContext('2d');
+      const gr = g.createRadialGradient(64, 64, 0, 64, 64, 64); gr.addColorStop(0, spec.aura); gr.addColorStop(0.35, spec.aura + '99'); gr.addColorStop(1, spec.aura + '00');
+      g.fillStyle = gr; g.fillRect(0, 0, 128, 128);
+      this.aura = new THREE.Sprite(new THREE.SpriteMaterial({ map: new THREE.CanvasTexture(cv), transparent: true, depthWrite: false, blending: THREE.AdditiveBlending, opacity: 0.8 }));
+      this.aura.scale.set(this.h * 1.5, this.h * 1.9, 1); this.aura.position.y = this.h * 0.55; this.body.add(this.aura);
+    }
+    this.floatH = spec.float_h ?? 0.35;
     this.root.traverse((o) => o.layers.set(1));
     this.root.visible = false;
   }
@@ -476,8 +496,9 @@ class Figure {
     }
     if (!this.carried) this.body.rotation.y = lerpAngle(this.body.rotation.y, this.yaw, Math.min(dt * 7, 1));
     const float = this.pose === 'float';
-    this.body.position.y = lerp(this.body.position.y, float ? 0.35 + 0.08 * Math.sin(performance.now() / 770) : 0, Math.min(dt * 6, 1));
+    this.body.position.y = lerp(this.body.position.y, float ? this.floatH + 0.08 * Math.sin(performance.now() / 770) : 0, Math.min(dt * 6, 1));
     if (!this.carried) { const rm = roomAt(this.pos); if (rm !== this.room) { if (this.room !== undefined) onDoor(this); this.room = rm; } }
+    if (this.aura) { const k = 1 + 0.06 * Math.sin(performance.now() / 900); this.aura.scale.set(this.h * 1.5 * k, this.h * 1.9 * k, 1); }
     this.mixer.update(dt);
   }
 }
@@ -615,15 +636,21 @@ const ui = {
     f.style.opacity = 0; f.classList.remove('block'); await sleep(900);
   },
   async vision(on, at) {
-    const v = $('vision');
-    if (on && at) { const s = toScreen(at); v.querySelectorAll('.rays,.core').forEach((e) => { e.style.left = s.x + 'px'; e.style.top = s.y + 'px'; }); }
-    v.style.opacity = on ? 1 : 0; await sleep(1600); if (AUTOPLAY && on) autoShot();
+    const v = $('vision'), form = v.querySelector('.form');
+    if (on && at) { const s = toScreen(at); v.querySelectorAll('.rays,.core,.form').forEach((e) => { e.style.left = s.x + 'px'; e.style.top = s.y + 'px'; }); }
+    v.classList.toggle('hasform', !!VISION_IMG);
+    if (on) { v.style.opacity = 1; await sleep(1400); if (VISION_IMG) { form.classList.remove('off'); form.classList.add('on'); await sleep(2600); } }
+    else { if (VISION_IMG) { form.classList.remove('on'); form.classList.add('off'); await sleep(900); } v.style.opacity = 0; await sleep(1600); form.classList.remove('off'); }
+    if (AUTOPLAY && on) autoShot();
   },
 };
 const PORTRAITS = new Set(['mishra', 'shachi', 'nimai', 'brahmana', 'vishvarupa', 'relative', 'neighbor', 'player', 'friend', 'nidra']);
 const CODEX_ART = new Set(['hs_alpana', 'hs_kitchen', 'hs_diya', 'hs_handi', 'hs_woodpile', 'hs_dung', 'hs_brass', 'hs_pond', 'hs_haystack', 'hs_chala', 'hs_tulasi']);
 // изображение рассказчика: если файл опубликован — используем его, иначе знак ❁
 const NARR_IMG = await new Promise((r) => { const im = new Image(); im.onload = () => r('portraits/narr_cb.jpg'); im.onerror = () => r(''); im.src = 'portraits/narr_cb.jpg'; });
+// восьмирукий облик (картинка GPT с прозрачным фоном): если файла ещё нет — только сияние
+const VISION_IMG = await new Promise((r) => { const im = new Image(); im.onload = () => r('vision/ashtabhuja.png'); im.onerror = () => r(''); im.src = 'vision/ashtabhuja.png'; });
+if (VISION_IMG) document.querySelectorAll('#vision .form img').forEach((im) => (im.src = VISION_IMG));
 const portraitImgs = await Promise.all([...PORTRAITS].map((w) => new Promise((r) => { const im = new Image(); im.onload = im.onerror = () => r(im); im.src = `portraits/${w}.jpg`; })));
 function setPortrait(who, speaker, col) {
   const el = $('portrait');
@@ -646,8 +673,8 @@ function setPlane() { $('plane').textContent = celestial ? L('План: небе
 function applyLang() {
   document.documentElement.lang = LANG; document.title = L('Незримый гость', 'The Unseen Guest');
   $('chap').textContent = L('Глава I · Детство · Брахман-паломник', 'Chapter I · Childhood · The Pilgrim Brahmana');
-  $('keys').innerHTML = L('Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо — ближе/дальше · правая кнопка или стрелки — сдвиг',
-    'Space — highlight · Tab — sky · J — journal · M — sound<br>Wheel — zoom · right button or arrows — pan');
+  $('keys').innerHTML = L('Пробел — подсветка · Tab — небо · J — журнал · M — звук<br>Колесо, двойной щелчок — ближе · край экрана, WASD, правая кнопка — сдвиг · F — к герою · 0 — весь двор',
+    'Space — highlight · Tab — sky · J — journal · M — sound<br>Wheel, double-click — zoom · screen edge, WASD, right button — pan · F — hero · 0 — whole courtyard');
   $('bHi').textContent = L('Подсветка', 'Highlight'); $('bSky').textContent = L('Небо', 'Sky'); $('bJ').textContent = L('Журнал', 'Journal');
   $('bLang').textContent = LANG === 'en' ? 'RU' : 'EN'; $('bLang').lang = LANG === 'en' ? 'ru' : 'en';
   $('bLang').title = LANG === 'en' ? 'Русская версия' : 'English version';
@@ -701,11 +728,7 @@ function applyView() {
 }
 $('gl').addEventListener('wheel', (e) => {
   e.preventDefault();
-  const p = toStage(e), u = p.x / W - 0.5, v = 0.5 - p.y / H;
-  const wx = view.cx + u / view.z, wy = view.cy + v / view.z;      // точка под курсором остаётся на месте
-  view.z *= Math.exp(-e.deltaY * 0.0015);
-  view.z = THREE.MathUtils.clamp(view.z, 1, 2.6);
-  view.cx = wx - u / view.z; view.cy = wy - v / view.z; applyView();
+  const p = toStage(e); zoomAt(p.x, p.y, Math.exp(-e.deltaY * 0.0015));
 }, { passive: false });
 let drag = null;
 $('gl').addEventListener('contextmenu', (e) => e.preventDefault());
@@ -714,13 +737,53 @@ addEventListener('pointermove', (e) => { if (!drag) return; const p = toStage(e)
   view.cx = drag.cx - (p.x - drag.x) / W / view.z; view.cy = drag.cy + (p.y - drag.y) / H / view.z; applyView(); });
 addEventListener('pointerup', () => { drag = null; });
 const keysDown = new Set();
-addEventListener('keydown', (e) => { if (e.key.startsWith('Arrow')) { keysDown.add(e.key); e.preventDefault(); } if (e.key === '+' || e.key === '=') { view.z *= 1.15; applyView(); } if (e.key === '-') { view.z /= 1.15; applyView(); } });
-addEventListener('keyup', (e) => keysDown.delete(e.key));
-function panTick(dt) {
-  if (!keysDown.size) return; const k = 0.5 * dt / view.z;
-  if (keysDown.has('ArrowLeft')) view.cx -= k; if (keysDown.has('ArrowRight')) view.cx += k;
-  if (keysDown.has('ArrowUp')) view.cy += k; if (keysDown.has('ArrowDown')) view.cy -= k; applyView();
+const PANKEY = { ArrowLeft: 'L', ArrowRight: 'R', ArrowUp: 'U', ArrowDown: 'D', KeyA: 'L', KeyD: 'R', KeyW: 'U', KeyS: 'D' };   // по e.code — при любой раскладке
+addEventListener('keydown', (e) => {
+  if (PANKEY[e.code] || PANKEY[e.key]) { keysDown.add(PANKEY[e.code] ?? PANKEY[e.key]); if (e.key.startsWith('Arrow')) e.preventDefault(); }
+  if (e.key === '+' || e.key === '=') zoomAt(W / 2, H / 2, 1.15); if (e.key === '-') zoomAt(W / 2, H / 2, 1 / 1.15);
+  if (e.code === 'KeyF') centerOnHero();
+  if (e.code === 'Digit0' || e.key === 'Home') lookTo(0, 0, 1, 0.8);
+});
+addEventListener('keyup', (e) => keysDown.delete(PANKEY[e.code] ?? PANKEY[e.key]));
+function zoomAt(x, y, k) {     // точка под курсором остаётся на месте
+  const u = x / W - 0.5, v = 0.5 - y / H, wx = view.cx + u / view.z, wy = view.cy + v / view.z;
+  view.z = THREE.MathUtils.clamp(view.z * k, 1, 2.6); view.cx = wx - u / view.z; view.cy = wy - v / view.z; applyView();
 }
+function viewFor(p, z) {       // вид, при котором точка мира p — в центре экрана
+  const s = toScreen(p), u = s.x / W - 0.5, v = 0.5 - s.y / H;
+  return { cx: view.cx + u / view.z, cy: view.cy + v / view.z, z };
+}
+let lookBack = { z: 1, cx: 0, cy: 0 };
+async function lookTo(cx, cy, z, sec = 1) {
+  const a = { ...view };
+  await tween(sec, (k) => { const e = k * k * (3 - 2 * k); view.z = lerp(a.z, z, e); view.cx = lerp(a.cx, cx, e); view.cy = lerp(a.cy, cy, e); applyView(); });
+}
+function centerOnHero() { const t = viewFor(player.pos.clone().add(new THREE.Vector3(0, 0.9, 0)), Math.max(view.z, 1.6)); lookTo(t.cx, t.cy, t.z, 0.7); }
+$('gl').addEventListener('dblclick', (e) => { const p = toStage(e); if (view.z < 2.5) { const k = Math.min(1.6, 2.6 / view.z); const u = p.x / W - 0.5, v = 0.5 - p.y / H;
+  const wx = view.cx + u / view.z, wy = view.cy + v / view.z, z = view.z * k; lookTo(wx - u / z, wy - v / z, z, 0.5); } });
+// край экрана сдвигает вид (как в BG), когда двор приближен; только над самой сценой, не над панелями
+let overGL = false;
+$('gl').addEventListener('pointerenter', () => (overGL = true)); $('gl').addEventListener('pointerleave', () => (overGL = false));
+document.addEventListener('mouseleave', () => (overGL = false)); addEventListener('blur', () => { overGL = false; keysDown.clear(); });
+const EDGE = 36;
+function panTick(dt) {
+  let dx = 0, dy = 0;
+  if (keysDown.has('L')) dx -= 1; if (keysDown.has('R')) dx += 1; if (keysDown.has('U')) dy += 1; if (keysDown.has('D')) dy -= 1;
+  if (overGL && !drag && view.z > 1.01 && mouse.x >= 0 && matchMedia('(pointer: fine)').matches) {
+    if (mouse.x < EDGE) dx -= 1 - mouse.x / EDGE; else if (mouse.x > W - EDGE) dx += 1 - (W - mouse.x) / EDGE;
+    if (mouse.y < EDGE) dy += 1 - mouse.y / EDGE; else if (mouse.y > H - EDGE) dy -= 1 - (H - mouse.y) / EDGE;
+  }
+  if (!dx && !dy) return; const k = 0.55 * dt / view.z; view.cx += dx * k; view.cy += dy * k; applyView();
+}
+// два пальца: щипок — ближе/дальше, сдвиг — вид
+const touches = new Map(); let pinch = null;
+$('gl').addEventListener('pointerdown', (e) => { if (e.pointerType !== 'touch') return; touches.set(e.pointerId, toStage(e));
+  if (touches.size === 2) { const [a, b] = [...touches.values()]; pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 }; e.stopImmediatePropagation(); } }, true);
+addEventListener('pointermove', (e) => { if (!touches.has(e.pointerId)) return; touches.set(e.pointerId, toStage(e)); if (!pinch || touches.size < 2) return;
+  const [a, b] = [...touches.values()], d = Math.hypot(a.x - b.x, a.y - b.y), x = (a.x + b.x) / 2, y = (a.y + b.y) / 2;
+  view.cx -= (x - pinch.x) / W / view.z; view.cy += (y - pinch.y) / H / view.z; zoomAt(x, y, d / pinch.d); pinch = { d, x, y }; });
+const endTouch = (e) => { touches.delete(e.pointerId); if (touches.size < 2) pinch = null; };
+addEventListener('pointerup', endTouch); addEventListener('pointercancel', endTouch);
 
 // ---------------------------------------------------------------- ввод
 let mouse = { x: -1, y: -1 };
@@ -840,15 +903,16 @@ function waitMarker(spot, hint) {
 }
 
 // ---------------------------------------------------------------- режиссёр сценария
+const spotOf = (a) => Array.isArray(a) ? new THREE.Vector3(...a) : spots[a];
 const spotOrFig = (n) => figs[n] ? figs[n].root.getWorldPosition(new THREE.Vector3()) : (spots[n] ?? new THREE.Vector3());
 async function step(s) {
   const f = figs[s.who];
   const off = s.offset ? new THREE.Vector3(...s.offset) : new THREE.Vector3();
   switch (s.do) {
     case 'place': if (f.root.parent !== scene) { scene.attach(f.root); f.carried = false; f.root.scale.set(1, 1, 1); }
-      { const dest = spots[s.at].clone().add(off), fadeOn = $('fade').classList.contains('block');
+      { const dest = spotOf(s.at).clone().add(off), fadeOn = $('fade').classList.contains('block');
         if (f.root.visible && !fadeOn && f.pos.distanceTo(dest) > 0.6 && !AUTOPLAY) { await f.walk(findPath(f.pos, dest)); } }
-      f.stop(); f.pos.copy(spots[s.at]).add(off); f.root.rotation.set(0, 0, 0);
+      f.stop(); f.pos.copy(spotOf(s.at)).add(off); f.root.rotation.set(0, 0, 0);
       placed[s.who] = true; f.root.visible = !f.celestial || celestial; f.room = roomAt(f.pos); break;
     case 'hide': f.root.visible = false; placed[s.who] = false; break;
     case 'pose': f.pose = s.pose; if (s.pose === 'meditate' && s.who === 'brahmana') { const [g, pan] = hearAt(f.pos); audio.bell(Math.max(g, 0.35), pan); } break;
@@ -865,12 +929,12 @@ async function step(s) {
     case 'drop': { const by = figs[s.by]; scene.attach(f.root); f.carried = false; by.carrying = false; by.pose = 'idle';
       f.pos.copy(nearest(by.pos.clone().add(off))); f.root.rotation.set(0, 0, 0); f.pose = 'idle'; break; }
     case 'say': {
-      // собеседники поворачиваются друг к другу
-      const TURN = ['idle', 'talk', 'plead', 'angry', 'bow', 'walk'];
-      const o = lastSpeaker && lastSpeaker !== s.who ? figs[lastSpeaker] : null;
-      if (f && o && o.root.visible && f.root.visible && !f.carried && !o.carried && f.pos.distanceTo(o.pos) < 9) {
+      // собеседники поворачиваются друг к другу: кому сказано — поле to шага, иначе тому, кто говорил перед этим
+      const TURN = ['idle', 'talk', 'plead', 'angry', 'bow', 'walk', 'grief', 'carry', 'float'];
+      const toId = s.to ?? (lastSpeaker && lastSpeaker !== s.who ? lastSpeaker : ''), o = figs[toId];
+      if (f && o && o !== f && o.root.visible && f.root.visible && !f.carried && (s.to || f.pos.distanceTo(o.pos) < 9)) {
         if (TURN.includes(f.pose)) f.faceTo(o.root.getWorldPosition(new THREE.Vector3()));
-        if (TURN.includes(o.pose)) o.faceTo(f.root.getWorldPosition(new THREE.Vector3()));
+        if (TURN.includes(o.pose) && !o.carried && toId !== 'player') o.faceTo(f.root.getWorldPosition(new THREE.Vector3()));
       }
       if (f && s.who !== 'player') lastSpeaker = s.who;
       const talk = f && f.pose === 'idle' && !f.carried; if (talk) f.pose = 'talk';
@@ -888,6 +952,10 @@ async function step(s) {
     case 'vision': await ui.vision(!!s.on, s.on ? spotOrFig(s.at).add(new THREE.Vector3(0, 0.6, 0)) : null); break;
     case 'wait': await sleep((s.sec ?? 1) * 1000); break;
     case 'focus': focusHut = s.hut ?? ''; break;
+    case 'look': if (s.reset) await lookTo(lookBack.cx, lookBack.cy, lookBack.z, s.sec ?? 1.2);
+      else { lookBack = { ...view }; const p = spotOrFig(s.at); if (figs[s.at]) p.y += figs[s.at].h * 0.6 + (figs[s.at].pose === 'float' ? figs[s.at].floatH : 0);
+        const t = viewFor(p, s.zoom ?? view.z); await lookTo(t.cx, t.cy, t.z, s.sec ?? 1.4); } break;
+    case 'celestial': if (!!s.on !== celestial) toggleCelestial(); if (s.on) $('bSky').classList.remove('pulse'); break;
     case 'celestial_hint':
       if (!celestial) { ui.hint(tx(s) || L('Вы чувствуете чьё-то незримое присутствие. Нажмите Tab (или кнопку «Небо»), чтобы взглянуть небесным зрением.', 'You sense an unseen presence. Press Tab (or the “Sky” button) to look with celestial vision.')); $('bSky').classList.add('pulse'); }
       break;

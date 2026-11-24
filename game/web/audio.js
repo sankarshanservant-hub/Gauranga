@@ -7,8 +7,10 @@ const RAGAS = {                        // ступени в полутонах �
   night: { deg: [0, 3, 5, 8, 10], home: [0, 5] },             // Малькаунс — глубокая ночь
 };
 const NOTES = [['harp-11', 196.0], ['harp-6', 293.66], ['harp-10', 349.23], ['harp-1', 440.0], ['harp-4', 523.25], ['harp-8', 659.26], ['harp-12', 783.99]];
-const FILES = ['tanpura', 'amb_day', 'amb_dusk', 'amb_night', 'fire', 'shimmer', 'bell1', 'bell2', 'bell3', 'kartal', 'grass_1', 'grass_2',
+const FILES = ['tanpura', 'amb_day', 'amb_dusk', 'amb_night', 'bn_dusk_mynas', 'bn_night_pond', 'bn_peafowl', 'fire', 'shimmer', 'bell1', 'bell2', 'bell3', 'kartal', 'grass_1', 'grass_2',
   'creak1', 'creak2', 'doorOpen_1', 'bookFlip1', 'bookFlip2', 'bookOpen', ...NOTES.map((n) => n[0])];
+// фоны по времени суток: слои [запись, громкость]; bn_* — полевые записи Бенгалии и Индии из исторической базы (PD)
+const AMB = { day: [['amb_day', 1]], dusk: [['bn_dusk_mynas', 0.85], ['amb_dusk', 0.4]], night: [['bn_night_pond', 1], ['amb_night', 0.35]] };
 const rnd = (a, b) => a + Math.random() * (b - a), pick = (a) => a[Math.floor(Math.random() * a.length)];
 
 export function createAudio(base = 'snd/') {
@@ -72,6 +74,10 @@ export function createAudio(base = 'snd/') {
     let t = 0; for (let o = 0; o < 2; o++) for (const d of D) { note(freqOf(d, o), 0.035, t); t += 0.07; }
     note(freqOf(0, 2), 0.04, t);
   }
+  function peafowl() {             // днём изредка — далёкий крик павлина
+    if (time === 'day' && !muted) one('bn_peafowl', { gain: rnd(0.07, 0.12), pan: rnd(-0.8, 0.8), to: amb, lp: 2600 });
+    setTimeout(peafowl, rnd(110, 260) * 1000);
+  }
   function scheduler() {
     if (!started) return;
     const roll = Math.random();
@@ -124,8 +130,9 @@ export function createAudio(base = 'snd/') {
       await load(); ready = true;
       const dl = ctx.createBiquadFilter(); dl.type = 'lowpass'; dl.frequency.value = 2400; dl.connect(music);
       const dr = bed('tanpura', dl, 6); if (dr) dr.g.gain.setTargetAtTime(0.2, ctx.currentTime, 3);
-      for (const t of ['day', 'dusk', 'night']) beds[t] = bed('amb_' + t, amb, 5);
+      for (const t in AMB) { const g = bus(amb, 0); beds[t] = { g }; for (const [n, v] of AMB[t]) bed(n, g, 5)?.g.gain.setValueAtTime(v, ctx.currentTime); }
       beds[time]?.g.gain.setTargetAtTime(1, ctx.currentTime, 2);
+      setTimeout(peafowl, rnd(40, 90) * 1000);
       const fb = bed('fire', sfx, 3); fireG = fb?.g;
       master.gain.setTargetAtTime(muted ? 0 : 0.9, ctx.currentTime, 1.5);
       setTimeout(scheduler, 5000);

@@ -145,7 +145,8 @@
   "glow": 1.2,
   "celestial": true,
   "halo": true,
-  "name_en": "Chitrasena, elder gandharva"
+  "name_en": "Chitrasena, elder gandharva",
+  "aura": "#ffcf70"
  },
  "nidra": {
   "id": "nidra",
@@ -157,9 +158,11 @@
   "dress": "sari",
   "hair": "#0e0f24",
   "hair_style": "veil",
-  "alpha": 0.6,
+  "alpha": 0.85,
   "glow": 1.4,
   "celestial": true,
-  "name_en": "Nidra Devi"
+  "name_en": "Nidra Devi",
+  "aura": "#5a6cff",
+  "float_h": 1.0
  }
 }

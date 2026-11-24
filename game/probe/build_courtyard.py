@@ -905,7 +905,7 @@ SPOTS = {
     'hs_bamboo': (15.0, 3.0, 3.0), 'hs_shed': (8.3, 0.1, 1.4), 'hs_lantern': (-0.5, 4.25, 2.5),
     'hs_stool': (-1.8, 4.8, 0.6), 'hs_fence': (-10.5, 2.0, 1.0),
     # места сцены
-    'sp_entry': (4.5, -9.0, 0.0), 'sp_yard': (1.5, -2.0, 0.0), 'sp_mishra_home': (-1.6, 4.4, 0.55),
+    'sp_entry': (4.5, -9.0, 0.0), 'sp_yard': (1.5, -2.0, 0.0), 'sp_nidra': (0.6, 2.7, 0.0), 'sp_mishra_home': (-1.6, 4.4, 0.55),
     'sp_ghar_door': (-0.5, 5.0, 0.55), 'sp_kitchen_front': (-4.6, 1.2, 0.0), 'sp_offer': (-4.9, 0.0, 0.0),
     'sp_cook': (-5.6, -0.5, 0.55), 'sp_neighbors': (4.0, 0.4, 0.0), 'sp_neighbor_woman': (5.0, 1.2, 0.0),
     'sp_shachi_home': (1.2, 4.4, 0.55), 'sp_relative': (-2.6, -1.0, 0.0), 'sp_vishvarupa_in': (5.5, -8.0, 0.0),

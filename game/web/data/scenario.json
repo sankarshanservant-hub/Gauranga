@@ -144,34 +144,39 @@
      "who": "mishra",
      "text": "Где твой дом?",
      "ref": "ЧБ Ади 5.25",
-     "text_en": "Where is your home?"
+     "text_en": "Where is your home?",
+     "to": "brahmana"
     },
     {
      "do": "say",
      "who": "brahmana",
      "text": "Я странствующий паломник. Я хожу из одного места в другое — всюду, куда гонит меня мой беспокойный ум.",
      "ref": "ЧБ Ади 5.26",
-     "text_en": "I am a wandering pilgrim. I go from one place to another, wherever my restless mind drives me."
+     "text_en": "I am a wandering pilgrim. I go from one place to another, wherever my restless mind drives me.",
+     "to": "mishra"
     },
     {
      "do": "say",
      "who": "mishra",
      "text": "Ты путешествуешь повсюду ради блага всего мира. Сегодня мне выпала особая удача. Прикажи мне, и я подготовлю все, что пожелаешь.",
      "ref": "ЧБ Ади 5.27–28",
-     "text_en": "You travel everywhere for the good of the whole world. Today a special fortune has come to me. Command me, and I will prepare whatever you wish."
+     "text_en": "You travel everywhere for the good of the whole world. Today a special fortune has come to me. Command me, and I will prepare whatever you wish.",
+     "to": "brahmana"
     },
     {
      "do": "say",
      "who": "brahmana",
      "text": "Да, Мишра. Пусть будет по-твоему.",
      "ref": "ЧБ Ади 5.29",
-     "text_en": "Yes, Mishra. Let it be as you wish."
+     "text_en": "Yes, Mishra. Let it be as you wish.",
+     "to": "mishra"
     },
     {
      "do": "say",
      "who": "friend",
      "text": "Смотри, младший брат: хозяин сам омывает стопы гостю и сам готовит для него кухню. Гость для него — как Сам Вишну. Не потому ли Господь и выбрал этот дом?",
-     "text_en": "Look, younger brother: the master of the house washes his guest's feet himself and readies the kitchen for him himself. To him a guest is as Vishnu Himself. Is that not why the Lord chose this house?"
+     "text_en": "Look, younger brother: the master of the house washes his guest's feet himself and readies the kitchen for him himself. To him a guest is as Vishnu Himself. Is that not why the Lord chose this house?",
+     "to": "player"
     },
     {
      "do": "walk",
@@ -252,7 +257,8 @@
      "who": "brahmana",
      "text": "О горе, мне горе! Этот проказник украл рис!",
      "ref": "ЧБ Ади 5.36",
-     "text_en": "Alas, alas for me! This little rascal has stolen the rice!"
+     "text_en": "Alas, alas for me! This little rascal has stolen the rice!",
+     "to": "nimai"
     },
     {
      "do": "walk",
@@ -280,7 +286,8 @@
      "who": "brahmana",
      "text": "Дорогой Мишра, ты цивилизованный человек. Зачем же бить несмышленого малыша? Наказывать можно лишь того, кто в состоянии отличать хорошее от дурного.",
      "ref": "ЧБ Ади 5.39–40",
-     "text_en": "Dear Mishra, you are a cultured man. Why beat an innocent little child? One may punish only someone who can tell good from bad."
+     "text_en": "Dear Mishra, you are a cultured man. Why beat an innocent little child? One may punish only someone who can tell good from bad.",
+     "to": "mishra"
     },
     {
      "do": "pose",
@@ -298,7 +305,8 @@
      "who": "brahmana",
      "text": "Не печалься, Мишра. Бхагаван знает все, что происходит в мире. На все Его воля. Пожалуйста, принеси какие-нибудь фрукты и овощи — такова будет моя трапеза на сегодня.",
      "ref": "ЧБ Ади 5.42–43",
-     "text_en": "Do not grieve, Mishra. Bhagavan knows everything that happens in the world; all is by His will. Please bring some fruits and vegetables — that will be my meal for today."
+     "text_en": "Do not grieve, Mishra. Bhagavan knows everything that happens in the world; all is by His will. Please bring some fruits and vegetables — that will be my meal for today.",
+     "to": "mishra"
     },
     {
      "do": "pose",
@@ -310,14 +318,16 @@
      "who": "mishra",
      "text": "Дорогой брахман, если ты все еще считаешь меня своим слугой, прошу, приготовь подношение вновь. Мое сердце не успокоится, пока ты не приготовишь пищу во второй раз.",
      "ref": "ЧБ Ади 5.44–45",
-     "text_en": "Dear brahmana, if you still consider me your servant, I beg you, prepare the offering again. My heart will find no peace until you cook a second time."
+     "text_en": "Dear brahmana, if you still consider me your servant, I beg you, prepare the offering again. My heart will find no peace until you cook a second time.",
+     "to": "brahmana"
     },
     {
      "do": "say",
      "who": "brahmana",
      "text": "Хорошо, раз это ваше желание, я снова приготовлю пищу.",
      "ref": "ЧБ Ади 5.47",
-     "text_en": "Very well — since this is your wish, I shall cook again."
+     "text_en": "Very well — since this is your wish, I shall cook again.",
+     "to": "mishra"
     },
     {
      "do": "pose",
@@ -418,28 +428,32 @@
      "who": "neighbor",
      "text": "Послушай, Нимай. Нельзя так поступать, нельзя есть рис этого брахмана!",
      "ref": "ЧБ Ади 5.53",
-     "text_en": "Listen, Nimai. You must not do that — You must not eat this brahmana's rice!"
+     "text_en": "Listen, Nimai. You must not do that — You must not eat this brahmana's rice!",
+     "to": "nimai"
     },
     {
      "do": "say",
      "who": "nimai",
      "text": "Брахман сам Меня позвал. Так в чем же моя вина?",
      "ref": "ЧБ Ади 5.54",
-     "text_en": "The brahmana called Me himself. So what is My fault?"
+     "text_en": "The brahmana called Me himself. So what is My fault?",
+     "to": "neighbor"
     },
     {
      "do": "say",
      "who": "neighbor",
      "text": "Нимай, Ты обманщик! Никто не знает этого брахмана. Из какой он семьи? Сможешь ли ты сохранить свое благородное брахманическое происхождение, съев приготовленный им рис?",
      "ref": "ЧБ Ади 5.55–56",
-     "text_en": "Nimai, You trickster! Nobody knows this brahmana. What family is he from? Will You keep Your noble brahmana birth after eating rice that he cooked?"
+     "text_en": "Nimai, You trickster! Nobody knows this brahmana. What family is he from? Will You keep Your noble brahmana birth after eating rice that he cooked?",
+     "to": "nimai"
     },
     {
      "do": "say",
      "who": "nimai",
      "text": "Я пастушок. Я всегда ем рис, приготовленный брахманами. Как пастушок может потерять свою касту, съев рис, приготовленный брахманом?",
      "ref": "ЧБ Ади 5.57–58",
-     "text_en": "I am a cowherd boy. I always eat rice cooked by brahmanas. How can a cowherd boy lose his caste by eating rice cooked by a brahmana?"
+     "text_en": "I am a cowherd boy. I always eat rice cooked by brahmanas. How can a cowherd boy lose his caste by eating rice cooked by a brahmana?",
+     "to": "neighbor"
     },
     {
      "do": "narrate",
@@ -451,7 +465,8 @@
      "do": "say",
      "who": "friend",
      "text": "Слышал? «Я пастушок». Сказано прямо — а никто не услышал. Это йогамайя: она прячет Его от глаз, чтобы Его любили как дитя, а не как Владыку.",
-     "text_en": "Did you hear? “I am a cowherd boy.” Said plainly — and no one heard. That is yogamaya: she hides Him from their eyes, so that they love Him as a child and not as the Master of all."
+     "text_en": "Did you hear? “I am a cowherd boy.” Said plainly — and no one heard. That is yogamaya: she hides Him from their eyes, so that they love Him as a child and not as the Master of all.",
+     "to": "player"
     },
     {
      "do": "objective",
@@ -539,7 +554,8 @@
      "who": "brahmana",
      "text": "Беда, беда!",
      "ref": "ЧБ Ади 5.66",
-     "text_en": "Oh no, oh no!"
+     "text_en": "Oh no, oh no!",
+     "to": "nimai"
     },
     {
      "do": "walk",
@@ -564,7 +580,8 @@
      "who": "mishra",
      "text": "Ну подожди, сейчас я Тебе покажу! Я почтенный человек, а Ты выставляешь меня глупцом! У кого еще, кроме меня, сын такой неисправимый вор?",
      "ref": "ЧБ Ади 5.69–70",
-     "text_en": "Just You wait — I'll show You! I am a respectable man, and You make a fool of me! Who else but me has a son who is such an incorrigible thief?"
+     "text_en": "Just You wait — I'll show You! I am a respectable man, and You make a fool of me! Who else but me has a son who is such an incorrigible thief?",
+     "to": "nimai"
     },
     {
      "do": "walk",
@@ -581,7 +598,8 @@
      "who": "relative",
      "text": "О Мишра, ты же очень великодушен. Разве будет правильным наказывать малыша? Битьем ничему не научишь. Все дети по своей природе озорны и непоседливы.",
      "ref": "ЧБ Ади 5.72–74",
-     "text_en": "O Mishra, you are so large-hearted. Is it right to punish a little child? Beating teaches nothing. All children are playful and restless by nature."
+     "text_en": "O Mishra, you are so large-hearted. Is it right to punish a little child? Beating teaches nothing. All children are playful and restless by nature.",
+     "to": "mishra"
     },
     {
      "do": "pose",
@@ -593,7 +611,8 @@
      "who": "brahmana",
      "text": "Мишра, послушай меня! Малыш ни в чем не виноват. Все, что предначертано, непременно когда-то произойдет. Просто сегодня Кришна не дал мне риса.",
      "ref": "ЧБ Ади 5.76–77",
-     "text_en": "Mishra, listen to me! The child is not to blame. Whatever is destined will surely come to pass. Today Krishna simply did not give me rice."
+     "text_en": "Mishra, listen to me! The child is not to blame. Whatever is destined will surely come to pass. Today Krishna simply did not give me rice.",
+     "to": "mishra"
     },
     {
      "do": "pose",
@@ -631,21 +650,24 @@
      "who": "brahmana",
      "text": "Кому приходится сыном этот господин?",
      "ref": "ЧБ Ади 5.84",
-     "text_en": "Whose son is this noble youth?"
+     "text_en": "Whose son is this noble youth?",
+     "to": "relative"
     },
     {
      "do": "say",
      "who": "relative",
      "text": "Его отец — Джаганнатха Мишра.",
      "ref": "ЧБ Ади 5.84",
-     "text_en": "His father is Jagannatha Mishra."
+     "text_en": "His father is Jagannatha Mishra.",
+     "to": "brahmana"
     },
     {
      "do": "say",
      "who": "brahmana",
      "text": "Отец и мать такого сына пребывают в ореоле славы!",
      "ref": "ЧБ Ади 5.85",
-     "text_en": "The father and mother of such a son dwell in a halo of glory!"
+     "text_en": "The father and mother of such a son dwell in a halo of glory!",
+     "to": "vishvarupa"
     },
     {
      "do": "pose",
@@ -657,7 +679,8 @@
      "who": "vishvarupa",
      "text": "Сегодня замечательный день, поскольку нам выпала великая удача принять тебя гостем в нашем доме… Если это не составит для тебя особого труда, пожалуйста, приготовь вновь подношение Кришне.",
      "ref": "ЧБ Ади 5.87, 100",
-     "text_en": "Today is a wonderful day, for we have had the great fortune of receiving you as a guest in our home… If it is not too much trouble for you, please prepare an offering for Krishna once more."
+     "text_en": "Today is a wonderful day, for we have had the great fortune of receiving you as a guest in our home… If it is not too much trouble for you, please prepare an offering for Krishna once more.",
+     "to": "brahmana"
     },
     {
      "do": "pose",
@@ -669,21 +692,24 @@
      "who": "brahmana",
      "text": "Я уже готовил рис сегодня дважды, но Кришна не позволил мне поесть… Уже скоро полночь, разве подобает готовить в такое время?",
      "ref": "ЧБ Ади 5.102, 106",
-     "text_en": "I have already cooked rice twice today, but Krishna did not let me eat… It is nearly midnight — is it proper to cook at such an hour?"
+     "text_en": "I have already cooked rice twice today, but Krishna did not let me eat… It is nearly midnight — is it proper to cook at such an hour?",
+     "to": "vishvarupa"
     },
     {
      "do": "say",
      "who": "vishvarupa",
      "text": "Не будет ничего плохого, если ты будешь готовить сейчас; напротив, все будут рады.",
      "ref": "ЧБ Ади 5.108",
-     "text_en": "There is nothing wrong in your cooking now; on the contrary, everyone will be glad."
+     "text_en": "There is nothing wrong in your cooking now; on the contrary, everyone will be glad.",
+     "to": "brahmana"
     },
     {
      "do": "say",
      "who": "brahmana",
      "text": "Хорошо, я приготовлю.",
      "ref": "ЧБ Ади 5.110",
-     "text_en": "Very well, I shall cook."
+     "text_en": "Very well, I shall cook.",
+     "to": "vishvarupa"
     },
     {
      "do": "narrate",
@@ -757,7 +783,7 @@
     {
      "do": "place",
      "who": "nidra",
-     "at": "sp_yard"
+     "at": "sp_nidra"
     },
     {
      "do": "pose",
@@ -795,10 +821,24 @@
      "pose": "sleep"
     },
     {
+     "do": "celestial",
+     "on": true
+    },
+    {
+     "do": "look",
+     "at": "nidra",
+     "zoom": 1.7
+    },
+    {
      "do": "say",
      "who": "friend",
      "text": "Видишь её? Это Нидра-деви. Сегодня её сон — служение: спят все, кроме того, кому назначено видеть. Не шуми.",
-     "text_en": "Do you see her? That is Nidra Devi. Tonight her sleep is a service: all are asleep except the one who is meant to see. Hush."
+     "text_en": "Do you see her? That is Nidra Devi. Tonight her sleep is a service: all are asleep except the one who is meant to see. Hush.",
+     "to": "player"
+    },
+    {
+     "do": "look",
+     "reset": true
     },
     {
      "do": "pose",
@@ -829,7 +869,8 @@
      "who": "brahmana",
      "text": "Опять! Опять!",
      "ref": "ЧБ Ади 5.123",
-     "text_en": "Again! Again!"
+     "text_en": "Again! Again!",
+     "to": "nimai"
     },
     {
      "do": "say",
@@ -838,7 +879,8 @@
      "text": "О великодушный брахман, ты сам Меня позвал, так в чем же Моя вина? Ты произносишь Мою мантру, призывая Меня, и Я не могу не прийти к тебе. Ты всегда хотел увидеть Меня. Так вот, Я здесь — смотри же!",
      "ref": "ЧБ Ади 5.124–126",
      "as_en": "Sri Gaurasundar",
-     "text_en": "O large-hearted brahmana, you called Me yourself — so what is My fault? You chant My mantra, calling Me, and I cannot but come to you. You have always wished to see Me. Well then, here I am — behold!"
+     "text_en": "O large-hearted brahmana, you called Me yourself — so what is My fault? You chant My mantra, calling Me, and I cannot but come to you. You have always wished to see Me. Well then, here I am — behold!",
+     "to": "brahmana"
     },
     {
      "do": "vision",
@@ -878,7 +920,8 @@
      "text": "О лучший из брахманов, выслушай Меня. Ты — Мой верный слуга уже множество жизней. Ты всегда искал Меня, жаждал Меня увидеть. Поэтому Я предстал перед тобою.",
      "ref": "ЧБ Ади 5.142–143",
      "as_en": "Sri Gaurasundar",
-     "text_en": "O best of brahmanas, hear Me. You have been My faithful servant for many lifetimes. You always sought Me and longed to see Me. That is why I have appeared before you."
+     "text_en": "O best of brahmanas, hear Me. You have been My faithful servant for many lifetimes. You always sought Me and longed to see Me. That is why I have appeared before you.",
+     "to": "brahmana"
     },
     {
      "do": "say",
@@ -887,7 +930,8 @@
      "text": "Однажды, по воле провидения, ты стал гостем в доме Нанды Махараджа, и так же, как сейчас, предложил Мне рис. Попробовав рис, Я явил тебе этот божественный облик.",
      "ref": "ЧБ Ади 5.146–147",
      "as_en": "Sri Gaurasundar",
-     "text_en": "Once, by providence, you were a guest in the house of Nanda Maharaja, and just as now you offered Me rice. Tasting that rice, I revealed this divine form to you."
+     "text_en": "Once, by providence, you were a guest in the house of Nanda Maharaja, and just as now you offered Me rice. Tasting that rice, I revealed this divine form to you.",
+     "to": "brahmana"
     },
     {
      "do": "say",
@@ -896,7 +940,8 @@
      "text": "Я низошел, чтобы начать движение санкиртаны. Идя от двери к двери, Я буду раздавать всем и каждому ту божественную любовь и преданность, о которой мечтают Брахма и другие боги. Оставайся здесь на какое-то время, и ты увидишь множество Моих игр. Но только никому не говори об этом.",
      "ref": "ЧБ Ади 5.151–153",
      "as_en": "Sri Gaurasundar",
-     "text_en": "I have descended to begin the movement of sankirtana. Going from door to door, I shall give to each and every one the divine love and devotion that Brahma and the other gods long for. Stay here for a while, and you will see many of My pastimes. Only tell no one about this."
+     "text_en": "I have descended to begin the movement of sankirtana. Going from door to door, I shall give to each and every one the divine love and devotion that Brahma and the other gods long for. Stay here for a while, and you will see many of My pastimes. Only tell no one about this.",
+     "to": "brahmana"
     },
     {
      "do": "focus",
