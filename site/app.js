@@ -25,7 +25,12 @@
       draft: 'Временный текст — будет заменён описанием из выбранных источников.', noBio: 'Описание готовится.',
       ggd: '«Гаура-ганоддеша-дипика» Кави Карнапуры — кем был прежде', ggdOnlyRu: '',
       of: (i, n) => `${i} из ${n}`,
-      tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники', tabLib: 'Писания',
+      tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники', tabLib: 'Писания', tabGame: 'Игра',
+      gameKicker: 'Игра по Гаура-лиле · пробная глава', gameTitle: 'Незримый гость', gamePlay: 'Играть ▸', gameLila: 'Эта лила в писаниях',
+      gameLead: 'Вы — молодой гандхарва, небесный музыкант. Вам позволили незримо спуститься в глиняный двор Джаганнатхи Мишры в Навадвипе около 1490 года и увидеть, как маленький Нимай трижды съедает подношение странствующего брахмана — и в третий раз, ночью, являет ему Свой восьмирукий облик («Шри Чайтанья-бхагавата», Ади 5).',
+      gamePoints: ['Лила идёт сама, как кино: реплики — словами писания, кнопка ⏸ — пауза, чтобы бродить по двору', 'Предметы быта той эпохи — с карточками «Как это было» из исторической базы', 'Кухня и комнаты — изнутри; день, сумерки и ночь; небесное зрение — Нидра-деви и Читрасена', 'Тихая музыка в раге по времени суток и звуки бенгальской природы'],
+      gameNote: 'Открывается на harekrishna.info, на компьютере и телефоне. Лучше всего — на большом экране со звуком. Пробная глава: дальше — новые лилы по порядку.',
+      hintGame: 'Игра открывается в новой вкладке. Колесо мыши или два пальца — ближе, зажать и вести — сдвинуть вид.',
       libToc: 'Оглавление', libAll: '← Все писания', libTitle: 'Писания', libIntro: 'Все наши переводы — целиком, по главам. Выберите писание слева.',
       libChapters: n => `${n} ${plural(n, 'глава', 'главы', 'глав')}`, libEn: '', libNoEn: '', libStart: 'Читать с начала',
       libRuOnly: '', libAbout: 'О писании', libFacts: 'Кратко', toBio: 'Жизнеописание', toLilas: n => `Лилы · ${n}`, readChapter: 'Читать главу целиком →', hintLib: 'Выберите писание и главу. Кнопки над текстом включают оригинал, транслитерацию, пословный перевод и примечания.',
@@ -63,7 +68,12 @@
       draft: 'Provisional text — to be replaced with descriptions from the chosen sources.', noBio: 'Description in preparation.',
       ggd: 'Gaura-ganoddesha-dipika of Kavi Karnapura — who they were before', ggdOnlyRu: 'Translated into Russian only so far.',
       of: (i, n) => `${i} of ${n}`,
-      tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates', tabLib: 'Scriptures',
+      tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates', tabLib: 'Scriptures', tabGame: 'Game',
+      gameKicker: 'A game of Gaura-lila · trial chapter', gameTitle: 'The Unseen Guest', gamePlay: 'Play ▸', gameLila: 'This pastime in the scriptures',
+      gameLead: 'You are a young gandharva, a celestial musician, allowed to descend unseen into the clay courtyard of Jagannatha Mishra in Navadvipa around 1490 and to witness how little Nimai three times eats the offering of a wandering brahmana — and the third time, at night, reveals to him His eight-armed form (Sri Chaitanya-bhagavata, Adi 5).',
+      gamePoints: ['The pastime plays by itself, like a film: lines in the words of the scripture, ⏸ to pause and wander the courtyard', 'Objects of daily life of the period — with “How it was” cards from our historical base', 'The kitchen and rooms from inside; day, dusk and night; celestial vision — Nidra Devi and Chitrasena', 'Quiet music in the raga of the hour and the sounds of Bengal'],
+      gameNote: 'Opens on harekrishna.info, on computers and phones. Best on a large screen with sound. A trial chapter: more pastimes will follow in order.',
+      hintGame: 'The game opens in a new tab. Mouse wheel or two fingers to zoom, press and drag to move the view.',
       libToc: 'Contents', libAll: '← All scriptures', libTitle: 'Scriptures', libIntro: 'All our translations, complete, chapter by chapter. Choose a scripture on the left.',
       libChapters: n => `${n} chapter${n === 1 ? '' : 's'}`, libEn: 'EN', libNoEn: 'Russian only so far', libStart: 'Start reading',
       libRuOnly: 'No English translation yet — shown in Russian.', libAbout: 'About the scripture', libFacts: 'In brief', toBio: 'Life', toLilas: n => `Pastimes · ${n}`, readChapter: 'Read the whole chapter →', hintLib: 'Choose a scripture and a chapter. The buttons above the text turn on the original, transliteration, word-for-word and notes.',
@@ -606,16 +616,17 @@
   });
 
   /* ——— вкладки ——— */
-  const TABS = ['lilas', 'lib', 'map', 'people'];
+  const TABS = ['lilas', 'lib', 'map', 'people', 'game'];
   function showTab(tab, push = true) {
     S.tab = tab;
     TABS.forEach(x => { $('view-' + x).hidden = x !== tab; });
     document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-current', b.dataset.tab === tab ? 'page' : 'false'));
     document.body.dataset.tab = tab;
     const hint = document.querySelector('.foot .hint');
-    hint.textContent = tab === 'map' ? t().hintMap : tab === 'people' ? t().hintPeople : tab === 'lib' ? t().hintLib : t().hint;
+    hint.textContent = tab === 'map' ? t().hintMap : tab === 'people' ? t().hintPeople : tab === 'lib' ? t().hintLib : tab === 'game' ? t().hintGame : t().hint;
     if (tab === 'map') initMap();
     if (tab === 'people') renderPeopleList();
+    if (tab === 'game') renderGame();
     if (tab === 'lib') renderLib();
     if (push && tab === 'lib') libHash();
     else if (push && tab !== 'lilas') history.replaceState(null, '', '#' + tab);
@@ -626,6 +637,14 @@
     showTab(b.dataset.tab);
   }));
   jump.addEventListener('change', () => { if (S.tab !== 'lilas') showTab('lilas'); }, true);
+
+  /* ——— игра «Незримый гость» (репозиторий Gauranga, game/; выложена на harekrishna.info/apps/unseen-guest/app/) ——— */
+  const GAME_URL = 'https://harekrishna.info/apps/unseen-guest/app/';
+  function renderGame() {
+    $('game-points').innerHTML = t().gamePoints.map(p => `<li>${esc(p)}</li>`).join('');
+    $('game-play').href = GAME_URL + (S.lang === 'en' ? '?lang=en' : '');
+  }
+  $('game-lila').addEventListener('click', () => { showTab('lilas'); openLila('ev-tirthika-brahmana', true, true); });
 
   /* ——— спутники ——— */
   const SECTION_ORDER = ['Семья', 'Спутники', 'Ачарьи-предшественники', 'Ачарьи-преемники', 'Небожители и мудрецы', 'Господь и Его формы'];

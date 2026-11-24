@@ -47,6 +47,7 @@
       <button type="button" data-tab="lib" data-i18n="tabLib">Писания</button>
       <button type="button" data-tab="map" data-i18n="tabMap">Карта</button>
       <button type="button" data-tab="people" data-i18n="tabPeople">Спутники</button>
+      <button type="button" data-tab="game" data-i18n="tabGame">Игра</button>
     </nav>
     <label class="jump">
       <span class="sr" data-i18n="jumpLabel">Перейти к лиле</span>
@@ -119,6 +120,27 @@
       <label class="map-toggle people-art"><input type="checkbox" id="people-art"> <span id="people-art-l">Только с жизнеописанием</span></label>
     </div>
     <div class="people-list" id="people-list"></div>
+  </div>
+</div>
+<div class="view view--sheet" id="view-game" hidden>
+  <div class="sheet sheet--game">
+    <article class="game">
+      <figure class="game__cover">
+        <img src="assets/img/game-cover.webp" alt="" width="1600" height="900" loading="lazy" decoding="async">
+        <img class="game__vision" src="assets/img/game-vision.webp" alt="" width="360" height="540" loading="lazy" decoding="async">
+      </figure>
+      <div class="game__text">
+        <p class="game__kicker" data-i18n="gameKicker">Игра по Гаура-лиле · пробная глава</p>
+        <h2 class="game__title" data-i18n="gameTitle">Незримый гость</h2>
+        <p class="game__lead" data-i18n="gameLead"></p>
+        <ul class="game__points" id="game-points"></ul>
+        <div class="game__actions">
+          <a class="game__play" id="game-play" href="https://harekrishna.info/apps/unseen-guest/app/" target="_blank" rel="noopener" data-i18n="gamePlay">Играть ▸</a>
+          <button type="button" class="game__lila" id="game-lila" data-i18n="gameLila">Эта лила в писаниях</button>
+        </div>
+        <p class="game__note" data-i18n="gameNote"></p>
+      </div>
+    </article>
   </div>
 </div>
 </main>
