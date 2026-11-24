@@ -911,7 +911,7 @@ async function step(s) {
   switch (s.do) {
     case 'place': if (f.root.parent !== scene) { scene.attach(f.root); f.carried = false; f.root.scale.set(1, 1, 1); }
       { const dest = spotOf(s.at).clone().add(off), fadeOn = $('fade').classList.contains('block');
-        if (f.root.visible && !fadeOn && f.pos.distanceTo(dest) > 0.6 && !AUTOPLAY) { await f.walk(findPath(f.pos, dest)); } }
+        if (f.root.visible && !fadeOn && f.pos.distanceTo(dest) > 0.6 && !AUTOPLAY && !s.instant) { await f.walk(findPath(f.pos, dest)); } }
       f.stop(); f.pos.copy(spotOf(s.at)).add(off); f.root.rotation.set(0, 0, 0);
       placed[s.who] = true; f.root.visible = !f.celestial || celestial; f.room = roomAt(f.pos); break;
     case 'hide': f.root.visible = false; placed[s.who] = false; break;
@@ -971,8 +971,13 @@ async function finale() {
   ui.setObjective(['Пробный уровень пройден. Можно бродить по двору и открывать предметы.', 'Test level complete. You may wander the courtyard and discover its objects.']);
   if (AUTOPLAY) window.__done = true;
 }
+// отладка: ?from=<id сцены> — начать с неё (предыдущие сцены проходятся мгновенно: только расстановка, без реплик)
+const FROM = new URLSearchParams(location.search).get('from');
 async function run() {
+  let skip = !!FROM && scenario.beats.some((b) => b.id === FROM);
   for (const beat of scenario.beats) {
+    if (skip && beat.id === FROM) skip = false;
+    if (skip) { for (const s of beat.steps) if (['place', 'hide', 'pose', 'time', 'focus', 'drop'].includes(s.do)) await step({ ...s, sec: 0.01, instant: true }); continue; }
     if (beat.marker) await waitMarker(beat.marker, beat.marker_hint ? [beat.marker_hint, beat.marker_hint_en] : null);
     for (const s of beat.steps) await step(s);
     if (AUTOPLAY && beat.id === 'intro') await autoExplore();
