@@ -130,6 +130,8 @@ M = {
                          sat=0.4),
     'ochre': flat_mat('ochre_band', (0.28, 0.08, 0.04), 0.95),
     'dark': flat_mat('interior_dark', (0.02, 0.015, 0.01), 1.0),
+    'soil': flat_mat('tulasi_soil', (0.07, 0.045, 0.028), 0.95),
+    'manjari': flat_mat('tulasi_manjari', (0.15, 0.06, 0.17), 0.7),
     'flame': flat_mat('flame', (1, 0.6, 0.2), 0.5, emit=(1.0, 0.55, 0.18), strength=40.0),
     'door': tex_mat('door_wood', 'bark_brown_02', scale=1.5, tint=(0.45, 0.32, 0.22), sat=0.5),
     'clay_lamp': tex_mat('clay_lamp', 'clay_floor_001', scale=4, tint=(0.75, 0.45, 0.3)),
@@ -279,7 +281,17 @@ def tulasi_mancha(pos):
     p = cyl('tm_pillar', (x, y, 1.05), 0.36, 0.9, M['whitewash'], 4, r2=0.42)
     p.rotation_euler.z = math.pi / 4
     for po in p.data.polygons: po.use_smooth = False
-    cyl('tm_bowl', (x, y, 1.58), 0.42, 0.16, M['whitewash'], 4, r2=0.5).rotation_euler.z = math.pi / 4
+    # чаша-вази наверху: невысокий бортик, внутри земля — туласи растёт из земли, а не из камня
+    for i, (dx, dy, sx, sy) in enumerate(((0, -0.43, 0.92, 0.07), (0, 0.43, 0.92, 0.07), (-0.43, 0, 0.07, 0.8), (0.43, 0, 0.07, 0.8))):
+        box('tm_rim%d' % i, (x + dx, y + dy, 1.6), (sx, sy, 0.2), M['whitewash'], 0.02)
+    box('tm_bowlbase', (x, y, 1.53), (0.92, 0.92, 0.06), M['whitewash'], 0.02)
+    box('tm_soil', (x, y, 1.6), (0.8, 0.8, 0.08), M['soil'], 0.0)
+    for k in range(5):   # комья земли
+        a = k * 1.3 + 0.4; cyl('tm_clod%d' % k, (x + 0.22 * math.cos(a), y + 0.22 * math.sin(a), 1.645), 0.04 + 0.01 * (k % 2), 0.02, M['soil'], 6)
+    # ниша для лампады на передней грани столба (по обычаю — вечером в ней горит светильник)
+    box('tm_niche', (x, y - 0.255, 1.02), (0.2, 0.04, 0.24), M['dark'], 0.0)
+    box('tm_nichetop', (x, y - 0.27, 1.16), (0.26, 0.05, 0.04), M['ochre'], 0.005)
+    diya(Vector((x, y - 0.3, 0.93)), 8)
     diya(Vector((x, y - 0.78, 0.30)), 30)
     diya(Vector((x + 0.25, y - 0.62, 0.60)), 12)
 
@@ -558,7 +570,41 @@ for i, p in enumerate(((-12.0, 8.0), (-13.0, -1.5), (-6.5, 16.5), (3.5, 13.0), (
 for i, p in enumerate(((-9.8, 7.0), (-11.2, 6.0), (-10.4, 4.4), (-11.8, 3.0), (9.6, -4.0), (11.0, -3.0), (10.2, -6.0),
                        (2.0, 11.6), (5.5, 11.8), (-12.4, -4.5), (-9.2, -7.5))):
     banana((*p, 0), H=random.uniform(1.6, 2.6), seed=10 + i)
-place(shrub, (0.3, 0.6, 1.66), height=0.55)                 # туласи на алтаре
+random.uniform(0, 6.28)   # (прежде здесь ставился готовый куст — вызов сохранён, чтобы не сдвигать случайные числа сцены)
+def tulasi_bush(c, H=0.92):
+    """Куст туласи: стебли с супротивными парами листьев и фиолетовые колоски-манджари на макушках (без random — детерминированно)."""
+    hsh = lambda i: math.modf(math.sin(i * 12.9898 + 78.233) * 43758.5453)[0] % 1.0
+    leaves, stems, spikes = bmesh.new(), bmesh.new(), bmesh.new()
+    def ellip(bm, pos, size, rot):
+        r = bmesh.ops.create_icosphere(bm, subdivisions=1, radius=1.0)
+        bmesh.ops.transform(bm, matrix=Matrix.Translation(pos) @ rot @ Matrix.Diagonal((*size, 1.0)), verts=r['verts'])
+    n = 0
+    for k in range(15):                                   # стебли веером из земли
+        a = k * 2.399 + 0.3; lean = 0.3 + 0.35 * hsh(k); h = H * (0.6 + 0.4 * hsh(k + 50))
+        base = Vector(c); top = base + Vector((math.cos(a) * lean * h, math.sin(a) * lean * h, h))
+        d = (top - base); L = d.length
+        st = bmesh.ops.create_cone(stems, cap_ends=False, segments=5, radius1=0.01, radius2=0.004, depth=L)
+        q = d.normalized().to_track_quat('Z', 'Y').to_matrix().to_4x4()
+        bmesh.ops.transform(stems, matrix=Matrix.Translation((base + top) / 2) @ q, verts=st['verts'])
+        nodes = 11
+        for j in range(1, nodes + 1):                     # узлы: пара листьев, каждая следующая повёрнута на 90°
+            t_ = j / (nodes + 1.5); p_ = base + d * t_
+            for side in (0, 1):
+                n += 1
+                ang = a + (j % 2) * math.pi / 2 + side * math.pi + (hsh(n) - 0.5) * 0.5
+                ln = 0.06 * (1.15 - 0.5 * t_) + 0.012 * hsh(n + 7)
+                out = Vector((math.cos(ang), math.sin(ang), 0.55))
+                pos = p_ + out.normalized() * ln * 0.9
+                rot = (out.normalized().to_track_quat('X', 'Z').to_matrix().to_4x4()) @ Matrix.Rotation(-0.35, 4, 'Y')
+                ellip(leaves, pos, (ln, ln * 0.55, 0.006), rot)
+        for m in range(2):                                # манджари на макушке и сбоку
+            sa = a + m * 2.1; tip = top + Vector((math.cos(sa) * 0.02 * m, math.sin(sa) * 0.02 * m, -0.04 * m))
+            sp_ = bmesh.ops.create_cone(spikes, cap_ends=True, segments=6, radius1=0.016, radius2=0.003, depth=0.14)
+            bmesh.ops.transform(spikes, matrix=Matrix.Translation(tip + Vector((0, 0, 0.07))), verts=sp_['verts'])
+    mesh_obj('tm_leaves', leaves, M['tulasi_leaf']); mesh_obj('tm_stems', stems, M['tulasi_stem']); mesh_obj('tm_manjari', spikes, M['manjari'])
+M['tulasi_leaf'] = leaf_mat('tulasi_leaf', (0.06, 0.2, 0.045), 0.3)
+M['tulasi_stem'] = flat_mat('tulasi_stem', (0.12, 0.08, 0.06), 0.8)
+tulasi_bush((0.3, 0.6, 1.64))
 for p in ((-4.2, 9.8), (3.8, 9.9), (-9.6, 5.2), (10.2, 4.5), (-10.0, -5.0), (4.6, 4.2)):
     place(pach if random.random() < 0.5 else cal, (*p, 0), height=random.uniform(0.9, 1.6))
 for i in range(22):   # подлесок за краем двора (сзади)
@@ -1016,6 +1062,10 @@ if False:   # (старый вариант маски домов)
 
 if SAVE:
     bpy.ops.wm.save_as_mainfile(filepath=os.path.abspath(SAVE))
+BORDER = arg('--border', '')
+if BORDER:
+    sc.render.use_border = True; sc.render.use_crop_to_border = True
+    sc.render.border_min_x, sc.render.border_min_y, sc.render.border_max_x, sc.render.border_max_y = map(float, BORDER.split(','))
 if not arg('--norender', 0):
     sc.render.filepath = os.path.abspath(OUT)
     bpy.ops.render.render(write_still=True)

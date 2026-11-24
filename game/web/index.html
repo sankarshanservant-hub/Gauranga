@@ -361,7 +361,7 @@ const POSE = {
   idle: ['idle2', true, 1], walk: ['walk', true, 1], run: ['run', true, 1], sit: ['sit', true, 1], meditate: ['pray15_s', 'pp', 0.45],
   cook: ['sit', true, 1], eat: ['pickup_s', 'pp', 0.55], sleep: ['sleep', true, 0.6], lie: ['laysleep', true, 0.5], faint: ['faint', false, 1],
   dance: ['victory', true, 1], grief: ['kneel_s', true, 1], bow: ['bow', false, 1], angry: ['angry', true, 1], carry: ['carry', true, 1],
-  plead: ['plead', true, 1], float: ['idle2', true, 0.6], talk: ['talk', true, 1], joy: ['joyjump', true, 1],
+  plead: ['plead', true, 1], listen: ['pray15_s', 'pp', 0.4], float: ['idle2', true, 0.6], talk: ['talk', true, 1], joy: ['joyjump', true, 1],
 };
 
 // рост модели — по костям (макушка — носок), рамка скелетной сетки здесь ненадёжна
@@ -439,13 +439,14 @@ class Figure {
     }
     this.floatH = spec.float_h ?? 0.35;
     this.root.traverse((o) => o.layers.set(1));
+    if (this.aura) this.aura.layers.set(3);   // сияние — отдельным проходом, до фигур: оно позади и не режет фигуру
     this.root.visible = false;
   }
   get pose() { return this._pose; }
   set pose(p) {
     if (this.carrying && (p === 'walk' || p === 'idle')) p = 'carry';
     if (p === this._pose) return;
-    this._pose = p;
+    const prev = this._pose; this._pose = p;
     let [name, loop, speed] = POSE[p] ?? POSE.idle;
     if (p === 'walk' && this.walkClip) name = this.walkClip;
     const clip = CLIPS[name]; if (!clip) return;
@@ -458,7 +459,7 @@ class Figure {
       next.timeScale = THREE.MathUtils.clamp(move / nat, 0.5, 2.2);
     } else next.timeScale = speed * (loop && p !== 'talk' ? 0.9 + Math.random() * 0.2 : 1);
     next.enabled = true; next.setEffectiveWeight(1);
-    if (this.current && this.current !== next) { next.crossFadeFrom(this.current, 0.3, false); }
+    if (this.current && this.current !== next) { next.crossFadeFrom(this.current, ['faint', 'sleep', 'lie'].includes(prev) ? 2.2 : p === 'faint' ? 0.6 : 0.3, false);   // с земли поднимаются не спеша }
     next.play(); this.current = next;
   }
   addXray(hex, op) {   // силуэт сквозь кровли и стены
@@ -530,7 +531,7 @@ const olUni = { hs: { value: hsMaskT }, hsCut: { value: hsCutMaskT }, hut: { val
   target: { value: 0 }, all: { value: 0 }, z: { value: 1 }, c: { value: new THREE.Vector2() }, t: { value: 0 } };
 // стиль обводки: 0 — прежняя, 1 — золотая нить, 2 — сияние, 3 — лампада (свет изнутри), 4 — искры по контуру.
 // ?ol=N в адресе или клавиша O (Щ) — перебор вариантов.
-olUni.style = { value: +(new URLSearchParams(location.search).get('ol') ?? 0) || 0 };
+olUni.style = { value: +(new URLSearchParams(location.search).get('ol') ?? 1) };
 olScene.add(new THREE.Mesh(new THREE.PlaneGeometry(2, 2), new THREE.ShaderMaterial({ uniforms: olUni, transparent: true, depthTest: false, depthWrite: false,
   vertexShader: 'varying vec2 vUv; void main(){ vUv = uv; gl_Position = vec4(position.xy, 0.0, 1.0); }',
   fragmentShader: `uniform sampler2D hs, hsCut, hut; uniform float cut1, cut2, target, all, z, t, style; uniform vec2 c; varying vec2 vUv;
@@ -1104,6 +1105,7 @@ function frame() {
   // проходы: фон-прокси -> силуэты (только где фигуру закрывает фон) -> сами фигуры
   renderer.clear();
   cam.layers.set(0); renderer.render(scene, cam);
+  cam.layers.set(3); renderer.render(scene, cam);
   cam.layers.set(2); renderer.render(scene, cam);
   cam.layers.set(1); renderer.render(scene, cam);
   renderer.render(olScene, olCam);

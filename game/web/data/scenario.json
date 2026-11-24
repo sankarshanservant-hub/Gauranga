@@ -909,9 +909,17 @@
      "on": false
     },
     {
+     "do": "wait",
+     "sec": 1.2
+    },
+    {
      "do": "pose",
      "who": "brahmana",
-     "pose": "bow"
+     "pose": "listen"
+    },
+    {
+     "do": "wait",
+     "sec": 1.6
     },
     {
      "do": "say",
