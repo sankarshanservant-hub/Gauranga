@@ -1569,6 +1569,7 @@
    "ev-varaha-bhava-murari",
    "ev-harer-nama-explained",
    "ev-shuklambara-mercy",
+   "ev-shuklambara-prema-prayer",
    "ev-gadadhara-initiation-pundarika",
    "ev-gadadhara-receives-prema",
    "ev-clouds-dispersed-kirtan",
@@ -2627,6 +2628,7 @@
    "ev-flute-sound-radha-bhava",
    "ev-harer-nama-explained",
    "ev-shuklambara-mercy",
+   "ev-shuklambara-prema-prayer",
    "ev-rasa-shrivasa-vrindavana",
    "ev-clouds-dispersed-kirtan",
    "ev-gaura-dance-with-devotees",
@@ -7196,7 +7198,7 @@
   "id": "#alalanatha",
   "ru": "Алаланатха (Брахмагири)",
   "en": "Alalanatha (Brahmagiri)",
-  "note": "к югу от Пури",
+  "note": "к западу от Пури (≈ 20 км; «Анубхашья» к ЧЧ Ади 10.131 — шесть крош)",
   "section": "",
   "lilas": [
    "gkd-0075",
@@ -8386,6 +8388,7 @@
    "brt-4008",
    "pad-0175",
    "pad-0204",
+   "jcm-0111",
    "pad-0310",
    "vv-0061",
    "pad-0327",
@@ -10588,7 +10591,7 @@
   "id": "#kandra",
   "ru": "Кандра (Кандра-Мандра)",
   "en": "Kandra",
-  "note": "Бирбхум (Бенгалия); родина поэта Джнянадаса",
+  "note": "Радха-деша (БР 14.180): по B и ГПТ — Бирбхум, по Д. Ч. Сену и T 194 — округ Бардхаман, к западу от Катвы, у станции Гускара; родина поэта Джнянадаса",
   "section": "",
   "lilas": [
    "pad-0561",
@@ -12036,7 +12039,7 @@
  },
  {
   "id": "#siddha-bakula",
-  "ru": "Сиддха-бакул",
+  "ru": "Сиддха-бакула",
   "en": "Siddha-bakula",
   "note": "Пури; жилище Харидаса Тхакура, где жил и Санатана (T 168–169)",
   "section": "",
@@ -13519,6 +13522,667 @@
   "ru": "Бхограи",
   "en": "Bhograi",
   "note": "Баласор; где Расикананде было повеление уйти («Расика-мангала», У14)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#mysore",
+  "ru": "Майсур",
+  "en": "Mysore",
+  "note": "Юг (Карнатака); откуда род Бхатт пришёл в Шрирангам (B 591; T 178, 180)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kaliya-hrada",
+  "ru": "Калия-храда (Калия-даха)",
+  "en": "Kaliya-hrada (Kaliya-daha)",
+  "note": "Вриндаван, омут Калии на Ямуне; самадхи Прабодхананды Сарасвати (B 767)",
+  "section": "",
+  "lilas": [
+   "brt-2001"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
+ },
+ {
+  "id": "#house-shridhara",
+  "ru": "дом Шридхары (Шридхар-ангана)",
+  "en": "house of Shridhara (Shridhar Angan)",
+  "note": "Навадвипа, край Майяпура близ Сараданги, в миле от самадхи Чанда Кази; у дома Господь пил воду из железного сосуда (ЧБ Мадхья 23); место открыто Бхактисиддхантой",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kanchrapara",
+  "ru": "Канчрапара (Канчанапалли)",
+  "en": "Kanchrapara (Kanchanapalli)",
+  "note": "24 Парганы, в полутора милях от Кумарахатты (Халисахара); храм Кришна-раи с Гаура-Гопалой Шивананды Сены (B 779; T 76); место рождения Кави Карнапуры (T 192); не путать с #kanchanpara (Фаридпур)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#tirhut",
+  "ru": "Трихут (Тирхут)",
+  "en": "Tirhut (Trihut)",
+  "note": "Северный Бихар (Музаффарпур, Дарбханга и др.); родина Парамананды Пури (ЧБ Ади 2.43) и Рагхупати Упадхьяи",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#paramananda-puri-kupa",
+  "ru": "матх и колодец Парамананды Пури",
+  "en": "Paramananda Puri's matha and well",
+  "note": "Пури, к западу от храма Джаганнатхи; Ганга в колодце (ЧБ Антья 3.232–258)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#suvarna-vihara",
+  "ru": "Суварна-вихар",
+  "en": "Suvarna-vihara",
+  "note": "Годрума-двипа (Навадвипа-мандала); по «Навадвипа-дхама-махатмье» Бхактивиноды — обитель царя Суварна Сены, прежнего рождения Буддхиманты Хана (B 826; T 47)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#chatra",
+  "ru": "Чатра (Чатара), Чаудхурипара",
+  "en": "Chatra (Chatara), Chaudhuripara",
+  "note": "Хугли, в миле от ст. Шрирампур; шрипат Кашишвары Пандита, его Божества Гауранги и Радха-Говинды («Анубхашья» к ЧЧ Ади 8.66; B 827)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#vallabhapura",
+  "ru": "Валлабхапур",
+  "en": "Vallabhapura",
+  "note": "Хугли, в миле к северу от Махеша (#mahesh); Радха-валлабха Рудры Пандита («Анубхашья» к ЧЧ Ади 10.106)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#chhanhara",
+  "ru": "Чханхара",
+  "en": "Chhanhara",
+  "note": "деревня в полицейском участке Патия округа Чаттаграм, в 10 крошах от Мегхалы (#meghala); по «Анубхашье» к ЧЧ Ади 10.40 — родина Мукунды Датты (T 43 относит это к Васудеве Датте); ср. #chakrashala",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#palpara",
+  "ru": "Палпара",
+  "en": "Palpara",
+  "note": "Надия, Панчанагар-паргана, в миле к югу от ст. Чакдаха; шрипат Махеши Пандита до начала 1334 г. б. э. (1927), прежде — в Масипуре напротив Джирата и в Беледанге близ Сукхсагара («Анубхашья» к ЧЧ Ади 11.32; B 835; T 86)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kathalpuli",
+  "ru": "Катхалпули (Катхалдхули)",
+  "en": "Kathalpuli (Kathaldhuli)",
+  "note": "близ Чакдахи, Надия; нынешний шрипат Махеши Пандита (с 1334 г. б. э.; «Анубхашья» к ЧЧ Ади 11.32; B 835; T 86, 269); с 1931 г. — под управлением Шрилы Бхактисиддханты",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#guwahati",
+  "ru": "Гаухати (Праг-джьотишапура)",
+  "en": "Guwahati (Pragjyotishapura)",
+  "note": "Ассам; место явления Джагадиши Пандита (B 830; T 14; M 57)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#chakdaha",
+  "ru": "Чакдаха (Чакдах; в Пуранах — Ратхаварма, Прадьюмна-нагара)",
+  "en": "Chakdaha (Chakdah; Puranic Rathavarma, Pradyumna-nagara)",
+  "note": "Надия, на Ганге; рядом Яшада (#jashra) и Палпара (B 833; T 15)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#vijayanagara",
+  "ru": "Виджаянагара (Видьянагара на Тунгабхадре, Хампи)",
+  "en": "Vijayanagara (Hampi)",
+  "note": "столица Кришнадевы Раи; Валлабха Бхатта (B 844–845; «Анубхашья» к ЧЧ Мадхья 19.61); не путать с #vidyanagara на Годавари",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#champaranya",
+  "ru": "Чампаранья (Чампакаранья)",
+  "en": "Champaranya",
+  "note": "место рождения Валлабха Бхатты по одному мнению («Анубхашья» к ЧЧ Мадхья 19.61; по иному мнению — Чампаджхар близ Раджима)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kashmir",
+  "ru": "Кашмир",
+  "en": "Kashmir",
+  "note": "родина дигвиджайи Кешавы Кашмири (БР 12.2273)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#daihat",
+  "ru": "Даихат (Даихата, Дайнхат)",
+  "en": "Daihat (Dainhat)",
+  "note": "Бардхаман (Бенгалия), на Ганге между Навадвипом и Катвой; шрипат Мадхавы Гхоша (B 847; T 64–65; M 245)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#agradvipa",
+  "ru": "Аградвипа (Аградвип)",
+  "en": "Agradvipa (Agradwip)",
+  "note": "на Ганге между Навадвипом и Катвой, близ Даихата и Патули (Бардхаман); шрипат Говинды Гхоша, Божество Гопинатхи (B 189, 847–848; T 64–65; M 245; «Анубхашья» к ЧЧ Ади 11.15)",
+  "section": "",
+  "lilas": [
+   "brt-0093"
+  ],
+  "events": [
+   "ev-srinivasa-journey-vrindavana"
+  ]
+ },
+ {
+  "id": "#kashipur-vishnutala",
+  "ru": "Кашипур-Вишнутала",
+  "en": "Kashipur-Vishnutala",
+  "note": "близ Аградвипа; дом (по некоторым — место рождения) Говинды Гхоша (T 64)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#haridasa-samadhi",
+  "ru": "самадхи Харидаса Тхакура",
+  "en": "samadhi of Haridasa Thakura",
+  "note": "Пури, берег моря; погребение совершил Сам Господь (ЧЧ Антья 11.66–69); рядом — Пурушоттама Гаудия Матх (1951), Бхакти-кути, Сатасан-матх",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kendubilva",
+  "ru": "Кендубилва (Кендули)",
+  "en": "Kendubilva (Kenduli)",
+  "note": "Бирбхум, на реке Аджай; родина Джаядевы по большинству мнений; ежегодная Джаядева-мела (B 900, 905; T 1, 4; M 72–73)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#keshi-ghata",
+  "ru": "Кеши-гхат (Кеши-тиртха)",
+  "en": "Keshi-ghata (Keshi-tirtha)",
+  "note": "гхат на Ямуне во Вриндаване; служение Радха-Мадхаве Джаядевы (B 905; T 4)",
+  "section": "",
+  "lilas": [
+   "brt-2017"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
+ },
+ {
+  "id": "#bilvagrama",
+  "ru": "Бильваграма",
+  "en": "Bilvagrama",
+  "note": "Бенгалия; родина предков Вамшиваданы и место его последних лет; бхаттачарьи — его потомки (B 912; T 68; M 240–241)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#baghnapara",
+  "ru": "Багхнапара",
+  "en": "Baghnapara",
+  "note": "округ Бардхаман; шрипат потомков Вамшиваданы, Божества Рама-Канаи (B 912; T 68; M 241)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#praskandana-tirtha",
+  "ru": "Праскандана-тиртха",
+  "en": "Praskandana-tirtha",
+  "note": "гхат на Ямуне близ Двадашадитья-тилы во Вриндаване; здесь Рамаи нашёл Раму-Канаи (B 912; T 68–69)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#rama-kunda-khanakul",
+  "ru": "Рама-кунда (Абхирама-кунда), Кханакул",
+  "en": "Rama-kunda (Abhirama-kunda), Khanakul",
+  "note": "пруд перед храмом Абхирамы Тхакура, где явился Гопинатха (БР 4.115–118; B 915; T 88; M 1)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#garalgachha",
+  "ru": "Гаралгачха",
+  "en": "Garalgachha",
+  "note": "округ Хугли, почтовое отделение Чандитала (B 918; B 921 и T 89 — «округ Пури», ⚠); здесь жил @parameshvara-dasa после Вриндавана, живут потомки его брата",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#uddharanapura",
+  "ru": "Уддхаранпур",
+  "en": "Uddharanpur",
+  "note": "близ Наихати к северу от Катвы; здесь жил @uddharana-datta, служа диваном раджи; по B — его самадхи к западу от здешнего храма (B 923; T 91)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#naihati-katwa",
+  "ru": "Наихати (близ Катвы)",
+  "en": "Naihati (near Katwa)",
+  "note": "в 1½ милях к северу от Катвы, близ ст. Даихат; раджа, у которого диваном служил @uddharana-datta (B 923; T 91); не путать с #naihati (Навахатта)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#khalijuli",
+  "ru": "Кхалиджули",
+  "en": "Khalijuli",
+  "note": "деревня в Сундарбане; место явления @kamalakara-pippalai (B 929; T 93; «Анубхашья» к ЧЧ Ади 11.24)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#jagannathpur",
+  "ru": "Джаганнатхпур",
+  "en": "Jagannathpur",
+  "note": "мауза в 1½ кроша к западу от Махеша (#mahesh); земля Джаганнатхи Махеша, пожалованная навабом Дакки в 1060 бенг. («Анубхашья» к ЧЧ Ади 11.24; B 929; T 94 — 2,5 кроша)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#sukhasagara",
+  "ru": "Сукхасагар",
+  "en": "Sukhasagar",
+  "note": "на Ганге (Бхагиратхи), на равном расстоянии от станций Чакдаха и Шимурали; прежний шрипат @purushottama-nagara; старое селение поглотила река, новое — в 3–4 милях от #chandure, к югу от Калиганджа (B 925–926; T 92; M 140)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#beledanga",
+  "ru": "Беледанга",
+  "en": "Beledanga",
+  "note": "разрушенная деревня, где прежде пребывали Божества @purushottama-nagara (B 925; T 92; M 140)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#berigram",
+  "ru": "Сахебданга-Бериграм",
+  "en": "Sahebdanga-Berigram",
+  "note": "сюда из #sukhasagara перевезли Божества @purushottama-nagara и гади Джахнавы-маты; позже разрушен (B 925; T 92; M 140)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#bodhkhana",
+  "ru": "Бодхкхана",
+  "en": "Bodhkhana",
+  "note": "округ Яшохар, на реке Капотакша, в 2–2½ милях от ст. Джхикаргачха-гхат; шрипат @kanu-thakura, Божество Пранаваллабха (B 926–927; T 92; M 141; «Анубхашья» к ЧЧ Ади 11.40)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#jirat",
+  "ru": "Джират",
+  "en": "Jirat",
+  "note": "округ Хугли; родина @madhava-acharya-ganga; род Ганги из Джирата ведает Божествами @purushottama-nagara в #chandure (B 926–927; T 92)",
+  "section": "",
+  "lilas": [
+   "jcv-0016"
+  ],
+  "events": [
+   "ev-jagadisha-disappearance"
+  ]
+ },
+ {
+  "id": "#dhruva-ghata",
+  "ru": "Дхрува-гхат",
+  "en": "Dhruva-ghata",
+  "note": "гхат на Ямуне в Матхуре; здесь Рупа Госвами встретил @subuddhi-raya (ЧЧ Мадхья 25.179; B 307)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#sonatala",
+  "ru": "Сонатала",
+  "en": "Sonatala",
+  "note": "округ Пабна (Восточная Бенгалия), на северном берегу Ичхамати, ≈ 3 мили к западу от Бера-бандара; ашрам, потомки и Божество Калачанд @kaliya-krishnadasa (B 932–933; T 95)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#bhaduti-mathurapura",
+  "ru": "Бхадути-Матхурапур",
+  "en": "Bhaduti-Mathurapur",
+  "note": "деревня в Пабне; по одному из вариантов — дом дяди по матери, где вырос сын @kaliya-krishnadasa (B 933)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#bhedo",
+  "ru": "Бхедо (Бхадуя)",
+  "en": "Bhedo (Bhaduya)",
+  "note": "округ Хугли, ≈ 3 мили к югу от #krishnapura-saptagrama, в миле к западу от ст. Бандел; почта Деванандапур; шрипаты @jhadu-thakura и @kalidasa («Анубхашья» к ЧЧ Антья 16.5–14; T 80; B 955)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#shankhanagara",
+  "ru": "Шанкханагар (Шанкха-нагара)",
+  "en": "Shankhanagara",
+  "note": "одна из семи деревень #saptagrama, на реке Сарасвати; здесь прежде служили Божеству @kalidasa («Анубхашья» к ЧЧ Антья 16.5–14; T 80, 180; B 955)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#putiya",
+  "ru": "Путия (Пунтия)",
+  "en": "Putiya (Puntia)",
+  "note": "округ Раджшахи (ныне Бангладеш); родина @gangamata-gosvamini, царство её отца @naresha-narayana (B 965; T 217)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#shveta-ganga",
+  "ru": "Швета-ганга",
+  "en": "Shveta-ganga",
+  "note": "пруд в Пури, у Швета-мадхавы и Матсья-мадхавы, между Акшая-ватой и морем («Уткала-кханда» по B 966, T 217); здесь Ганга пришла к @gangamata-gosvamini",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#gangamata-matha",
+  "ru": "Гангамата-матх (дом Сарвабхаумы)",
+  "en": "Gangamata Matha (house of Sarvabhauma)",
+  "note": "Пури; прежний дом @sarvabhauma («Анубхашья» к ЧЧ Мадхья 6.8: к югу от храма, Балукханда, у Маркандея-сараса; B 965–967, ГВА — у #shveta-ganga); матх @gangamata-gosvamini, Божество @rasika-raya-gangamata",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#devagrama",
+  "ru": "Деваграм",
+  "en": "Devagrama",
+  "note": "округ Надия; место явления @vishvanatha-chakravarti (B 972; T 219; M 254)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#baleshvara",
+  "ru": "Балешвар (Баласор)",
+  "en": "Baleshvara (Balasore)",
+  "note": "Орисса; округ, где близ Ремуны родился @baladeva-vidyabhushana (B 976; T 220; M 3)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#amber",
+  "ru": "Амбер (Амер)",
+  "en": "Amber (Amer)",
+  "note": "старая столица Джайпурского княжества, близ Галты (B 989, 994)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#house-shuklambara",
+  "ru": "дом Шукламбары Брахмачари",
+  "en": "house of Shuklambara Brahmachari",
+  "note": "Навадвипа (Майяпур), на берегу Ганги; према Господа после Гаи, трапеза Господа (ЧБ Мадхья 1.78, 26.22; БР 12.2314–2315, 12.3467–3472)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#malajathya-dandapata",
+  "ru": "Маладжатхья-Дандапата",
+  "en": "Malajathya Dandapata",
+  "note": "область (царский удел) Ориссы при Пратапарудре, где Гопинатха Паттанаяк собирал подати (ЧЧ Антья 9.18, 9.105); по B 1031 и T 145 — нынешний Мединипур (#medinipur)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#sarvabhauma-gaudiya-matha",
+  "ru": "Сарвабхаума Гаудия Матх (Видьянагар)",
+  "en": "Sarvabhauma Gaudiya Math (Vidyanagar)",
+  "note": "Видьянагара близ Навадвипы; открыт Бхактисиддхантой 5 марта 1936 г. (T 261, 269); ср. #vidyanagara-bengal",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#saimbona",
+  "ru": "Саимбона (Саибона)",
+  "en": "Saimbona (Saibona)",
+  "note": "Бенгалия, 24 парганы, в двух милях к востоку от Кхардахи; шрипат @madhu-pandita («Анубхашья» к ЧЧ Ади 12.87); Божество Нандадулала («Гаудия-вайшнава-абхидхана»)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#bamunpukur",
+  "ru": "Бамунпукур (Брахмана-пушкарини, Вамана-пукур)",
+  "en": "Bamunpukur (Brahmana-pushkarini, Vamana-pukur)",
+  "note": "Навадвипа, край Шри Майяпура (Симулия); здесь стоял дом Кази («Гаудия-бхашья» к ЧБ Мадхья 23.359; АПБ к ЧЧ Ади 17.148) и поныне — гробница (самадхи) @chand-kazi (B 1062; T 39; «Анубхашья» к ЧЧ Ади 17.124)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#khol-bhangar-danga",
+  "ru": "Кхол-бхангар данга",
+  "en": "Khol-bhangar Danga",
+  "note": "Шри Майяпур: место, где Кази разбил мриданг («Анубхашья» к ЧЧ Ади 17.125; B 1062); T 223 считает его Шривас-ангной",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#madhai-ghata",
+  "ru": "гхат Мадхая (Мадхай-гхат)",
+  "en": "Madhai's ghat",
+  "note": "Навадвипа, на Ганге рядом с гхатом Господа (к югу от Его дома); построен Мадхаем по слову Нитьянанды (ЧБ Мадхья 15.76–94; 23.299); по «Гаудия-бхашье» — близ нынешнего Шринатхапура, поглощён Гангой; не Махатпур у Экадалы (бхашья к ЧБ 15.76); B 1068 — без места",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#khadiravana",
+  "ru": "Кхадираван (Кхаяра, Югала-кунда)",
+  "en": "Khadiravana (Khayara, Yugala-kunda)",
+  "note": "Врадж, один из двенадцати лесов; по M — место ухода и самадхи @lokanatha у Югала-кунды (M 98); T 151 — там бывал Локанатха",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#radha-gokulananda-mandira",
+  "ru": "храм Радха-Гокулананды (Вриндаван)",
+  "en": "Radha-Gokulananda temple (Vrindavana)",
+  "note": "Вриндаван; по T — самадхи @lokanatha и служение Радха-виноде (T 152); ср. @gokulananda-deity",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#denur",
+  "ru": "Денур (Денуд)",
+  "en": "Denur (Denud)",
+  "note": "округ Бардхаман, к западу от Навадвипы; шрипат @vrindavana-dasa — там он подолгу жил (B 1079; T 191, 233); служение ведут потомки @ramahari-denur",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kakut",
+  "ru": "Какут (Амедпур)",
+  "en": "Kakut (Amedpur)",
+  "note": "селение близ Амедпура (Бенгалия); дом тестя @lochana-dasa (B 1081; T 193)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#jhamatpur-hooghly",
+  "ru": "Джхаматпур (Хугли)",
+  "en": "Jhamatpur (Hooghly)",
+  "note": "селение в округе Хугли близ Раджбал-хата; дом Ядунанданы Ачарьи, тестя @virabhadra (БР 13.249; B 1095); не путать с #jhamatpur (дом Кришнадаса Кавираджи)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#latagrama",
+  "ru": "Лата (Латаграм)",
+  "en": "Lata (Latagrama)",
+  "note": "деревня близ Манкара (округ Бардхаман); жил @gopijanavallabha, старший «сын»-ученик @virabhadra (B 1096, 115; T 201; M 16)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#gayeshpur",
+  "ru": "Гаешпур (Ганешпур)",
+  "en": "Gayeshpur (Ganeshpur)",
+  "note": "селение близ Малдаха; жил @ramakrishna-virachandra (B 115, T 201, M 16 — Гаешпур; B 1096 — Ганешпур)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kotalpur",
+  "ru": "Котулпур (Котальпур)",
+  "en": "Kotulpur (Kotalpur)",
+  "note": "округ Банкура (Бенгалия); живут потомки родичей поэта @jnanadasa (B 1097)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#balarampura",
+  "ru": "Баларампур (Бара-Баларампур)",
+  "en": "Balarampura (Bara-Balarampura)",
+  "note": "селение в Уткале (Мединипур); проповедь и праздник @shyamananda (M 213; ПВ 20; «Расика-мангала»)",
+  "section": "",
+  "lilas": [
+   "rm-0028",
+   "rm-0029"
+  ],
+  "events": [
+   "ev-rasika-forest-to-guru",
+   "ev-rasika-mughal-ghee"
+  ]
+ },
+ {
+  "id": "#prematali",
+  "ru": "Прематали (Прематоли; Кутубпур)",
+  "en": "Prematali (Prematoli; Kutubpur)",
+  "note": "на Падмавати, где Махапрабху оставил прему для @narottama-dasa (ПВ 8 — «Кудодарпур», вар. «Кутубпур»; T 151, 207)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#chhatra-narail",
+  "ru": "Чхатра (Нараил, Джессор)",
+  "en": "Chhatra (Narail, Jessore)",
+  "note": "селение в подокруге Нараил округа Джессор (Бенгалия); родина и место ухода @krishnadasa-babaji (B 1117, 1120)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#binodpur",
+  "ru": "Бинодпур",
+  "en": "Binodpur",
+  "note": "селение (Бенгалия), дом дяди по матери @krishnadasa-babaji, где он учился (B 1117)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#hrishikesha",
+  "ru": "Хришикеш",
+  "en": "Rishikesh (Hrishikesha)",
+  "note": "у Ганги в Гималаях; там принял санньясу @narottama-dasa-yativara (B 1117)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#tangail",
+  "ru": "Тангайл",
+  "en": "Tangail",
+  "note": "Восточная Бенгалия (прежде подокруг Майменсингха, ныне Бангладеш); по T и Mб — родина @jagannatha-dasa-babaji (T 222); ср. #east-bengal",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kurukshetra",
+  "ru": "Курукшетра",
+  "en": "Kurukshetra",
+  "note": "Харьяна (близ Танешвара); место встречи Кришны с враджаваси в солнечное затмение; Вьяса-Гаудия-матх и выставки @bhaktisiddhanta в затмения 1928, 1933, 1936 (T 254, 258, 262; B 1127)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#london",
+  "ru": "Лондон",
+  "en": "London",
+  "note": "Англия; Лондонский Гаудия-матх и «Gaudiya Mission Society» (1933–1934), проповедь учеников @bhaktisiddhanta (T 257–259; B 1125)",
   "section": "",
   "lilas": [],
   "events": []

@@ -260,8 +260,7 @@ Govinda Maharaj began with a verse of Raghupati Upadhyaya, which Krishnadasa Kav
 *go-pati-tanayā-kuñje*  
 *gopa-vadhūṭī-viṭaṁ brahma*
 
-“To whom shall I tell it, and who will believe me, that the Supreme Absolute Truth is the beloved of the young
-cowherd girls in the groves by the Yamuna?” (CC, Madhya 19.98) <!-- F31 F32 Q2 -->
+“To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamuna, Brahman is the lover of the young cowherd girls?” (CC, Madhya 19.98) <!-- F31 F32 Q2 -->
 
 He applied this verse to the Swami himself: “Who will believe me that Srila Swami Maharaj, whom we knew earlier as
 Abhay Babu, a regular participant in the programmes of the Sri Gaudiya Math and a householder occupied with family
@@ -559,8 +558,7 @@ in his view, deserves trust. <!-- F88 F97 -->
 Without humility, patience and respect for others, he taught, spiritual progress is impossible: this path Mahaprabhu
 showed in the third verse of the “Shikshashtaka”:
 
-“One should constantly chant the Holy Name of Krishna, feeling oneself humbler than a blade of grass and more
-tolerant than a tree, showing due respect to others and not desiring respect for oneself.” (CC, Adi 17.31) <!-- F89 Q6 -->
+“Lower than a blade of grass, more tolerant than a tree, seeking no honour and offering honour to others, one should always sing the glories of Hari” (CC, Adi 17.31) <!-- F89 Q6 -->
 
 These qualities protect one from vaishnava-aparadha — the greatest obstacle to chanting the maha-mantra. “Through the
 Vaishnavas the maha-mantra descends into the material world from the higher plane of existence. It spreads in this

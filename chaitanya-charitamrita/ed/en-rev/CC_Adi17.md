@@ -800,7 +800,7 @@ a brāhmaṇa by birth only  thus  indeed  I
 bāhubhyāṁ parirambhitaḥ  
 with both arms  was embraced
 
-(78) “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet because I was born a brāhmaṇa, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)[^29]
+(78) “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet, knowing me to be a brāhmaṇa only by birth, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)[^29]
 
 একদিন প্রভু সব ভক্তগণ লঞা ৷  
 সংকীর্ত্তন করি’ বৈসে শ্রমযুক্ত হঞা ॥ ৭৯ ॥

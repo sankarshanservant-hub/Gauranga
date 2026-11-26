@@ -962,7 +962,7 @@
   notes: "Господь не умаляет святых мест: телесное пребывание в них без любви ещё не приносит плода."
   themes: [mercy, teaching]
   teaching: [bhakti-supremacy]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "karnapura-mahakavya/ru/06.md", from: "8", to: "11"}
 
@@ -2520,12 +2520,13 @@
   period: P12
   order: 2
   title: "Каши Мишра, Вишнудас, Прадьюмна Мишра"
-  summary: "Каши Мишра видит Господа четырёхруким; Господу служат Вишнудас и Прадьюмна Мишра, которого Господь посылает слушать о Кришне у Рамананды."
-  persons: ["@mahaprabhu", "@kashi-mishra", "@vishnudasa", "@pradyumna-mishra", "@ramananda-raya"]
+  summary: "Услышав о возвращении Господа в Нилачалу, Каши Мишра видит Его четырёхруким и исполняет всякое Его повеление, угадывая Его желание; Вишнудас, оставив всё, узревает стопы сына Шачи и омывается слезами; счастливец Прадьюмна Мишра с радостью делает стопы Гаурачандры «гостьей своих глаз» — и милость Господа изливается из его глаз потоком, словно из тучи месяца шраваны."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@vishnudasa", "@pradyumna-mishra"]
   places: ["#puri"]
   kind: lila
   authority: A
-  parallels: "ЧЧ Ади 10.131, 10.151; Антья 5.4–8"
+  parallels: "ЧЧ Ади 10.131, 10.151; Мадхья 1.129, 10.43"
+  notes: "О том, что Господь посылает Прадьюмну Мишру слушать о Кришне у Рамананды (ЧЧ Антья 5), в 13.70–71 не сказано (исправлено при проверке @pradyumna-mishra, 2026-11-16)."
   themes: [revelation]
   bhava: [aishvarya]
   event: ev-kashi-mishra-residence

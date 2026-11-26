@@ -1,0 +1,458 @@
+# Vasudeva Datta
+*Васудева Датта · @vasudeva-datta*
+
+## The Singer Madhuvrata
+Among Sri Chaitanya's companions there are many singers and benefactors, but of one of them Krishnadasa Kaviraja
+speaks in a special way: he wished to take upon himself the sins of the whole universe. This is Vasudeva Datta, the elder
+brother of Mukunda Datta. Krishnadasa Kaviraja calls him Vasudeva Datta, simply Vasudeva or Datta, and “the Lord's
+great-souled servant”; Vrindavana Dasa calls him “Vasudeva Datta Mahashaya”; Lochana Dasa, “Vasu Datta”; Kavi Karnapura,
+“the one jewel of the Datta family” and “Mukunda's elder brother”; the “Prema-vilasa,” “a vessel of Prabhu's mercy.” The
+biographies call him Sri Vasudeva Datta Thakura and Datta Thakura, and Srila Bhaktisiddhanta Sarasvati calls him “a
+servant of Vaikuntha.”[^1] <!-- F1 -->
+
+Who he is in Krishna's eternal pastimes, Kavi Karnapura tells us:
+
+“The two singers of Vraja, Madhukantha and Madhuvrata, are Gauranga's singers Mukunda and Vasudeva Datta.”
+(“Gaura-ganoddesha-dipika” 140)
+
+Madhuvrata — “he whose vow is honey” — is a name for the bee: a singer of Vraja who never ceases drinking Krishna's
+sweetness. Srila Bhaktisiddhanta cites the same verse in his “Anubhashya” to CC, Adi 12.57, and the “Prema-vilasa”
+says the same: Vasudeva Datta is called Madhuvrata (22.14). In Vraja and in Gaura's pastimes alike, the two brothers
+are the Lord's singers. <!-- F2 Q1 -->
+
+Karnapura's poem has a verse about him too:
+
+“Sri Vasudeva, the one jewel of the Datta family, on seeing Gauranga-chandra, at once sank wholly into the ocean of His
+love and for ever became as though inseparable from His very life.” (“Chaitanya-charita-mahakavya” 13.146)
+
+That is, he became as dear to the Lord as life itself. <!-- F24 -->
+
+## Family and Birthplace
+Vasudeva Datta came from Chittagong (Chattagrama) in eastern Bengal, now in Bangladesh. Vrindavana Dasa writes:
+
+“The greatest Vaishnavas, Pundarika Vidyanidhi, Chaitanya Vallabha and Vasudeva Datta, appeared in Chattagrama.”
+(CB, Adi 2.36)
+
+The biographies add that he was born in the village of Chhanhara, in the area of the Patiya police station, ten kroshas
+(about twenty miles) from Mekhala, the village of Pundarika Vidyanidhi. The “Prema-vilasa,” however, names the
+brothers' ancestral home differently:[^2]
+
+“In the land of Chittagong there is the village of Chakrashala; there lived the respected Datta family of the
+Ambashthas. In that family were born two bhagavatas — Sri Mukunda Datta and Vasudeva Datta. That both brothers are
+devotees of Krishna, everyone knows; Vasudeva is the elder, Mukunda the younger. Both came and settled in Navadvipa —
+two dear servants of Sri Krishna Chaitanya Prabhu.” (“Prema-vilasa” 22.4–7) <!-- F3 F4 Q2 -->
+
+The Ambashthas are the vaidyas, the physician community; Karnapura indeed calls Vasudeva “the best of physicians”
+(*bhishag-rishabha*, mahakavya 17.32). He was not a brahmana by birth, and Srila Bhaktisiddhanta notes this
+particularly when he tells how the brahmana Yadunandana Acharya honoured him as his guru — of which more below. Mukunda
+Datta, the Lord's companion from childhood, was his younger brother; Vasudeva himself says to the Lord, “Though he is
+younger, Mukunda…” (CC, Madhya 11.140). <!-- F5 F6 -->
+
+Vasudeva was a householder: the Lord Himself says of him that he is a grihastha and must provide for his family (Madhya
+15.95). In Karnapura's drama “Chaitanya-chandrodaya,” Shrikanta, listing for the Lord those who are coming to Puri,
+names “Vasudeva's son” among them (Act 10); one manuscript of the drama reads “Vasudeva's two children.” No one gives
+the son's name. Nor are the years of his life known: neither the sources nor the biographies name the year or day of
+his appearance or departure, and his days are not in the Vaishnava calendar of the Sri Chaitanya Saraswat Math.
+<!-- F7 F8 -->
+
+## In Navadvipa
+Like Mukunda, Vasudeva settled in Navadvipa and became one of the foremost among Mahaprabhu's companions: he sang in the sankirtana
+at Srivasa's house and in the streets of the town, and the Lord delighted in his company, seeing in him every Vaishnava
+virtue. According to one of the biographies, at Mahaprabhu's own suggestion he was present every night at Srivasa's
+house when the kirtana pastimes took place; Vrindavana Dasa names a “Vasudeva” among those who took part in these
+kirtanas (CB, Madhya 8.112–116). Another biography adds that his voice was lovely and he knew the “Sangita-shastra,”
+the science of music, well. <!-- F9 F12 -->
+
+The brothers' countryman Pundarika Vidyanidhi lived secretly in Navadvipa, in his house in Mayapur, behaving like an
+ordinary worldly man, and none of the Vaishnavas knew who he really was. Vrindavana Dasa writes:
+
+“Only Mukunda and Vasudeva Datta knew the glory of Pundarika Vidyanidhi's divine love.” (CB, Madhya 7.43)
+
+The “Prema-vilasa” says the same (22.54). One of the biographies explains that Mukunda, Vasudeva and Gadadhara were
+also from Chittagong and knew Pundarika. <!-- F11 -->
+
+When the Lord led Navadvipa in kirtana to the Kazi's house, Vasudeva, according to one of the biographies, was among
+the countless devotees of that town sankirtana; and Vrindavana Dasa names a “Vasudeva” among the singers of the
+procession (CB, Madhya 23.151, 23.209). <!-- F10 -->
+
+Other poets too remember him in Navadvipa. Lochana Dasa, at the opening of his “Chaitanya-mangala,” writes: “…in the feet
+of Vasu Datta and Mukunda is my hope” (1.28), and names him among the companions who descended with the Lord (8.623).
+According to Jayananda, shortly before His sannyasa the Lord called Mukunda Datta, Govinda the blacksmith,
+Chandrashekhara, Acharya Hari, Vasudeva Datta, Shuklambara and others to go with Him across the Ganges to Katwa
+(Vairagya-khanda 24.12–14); and at Lakshmipriya's feast Vasudeva is also among the guests (Nadiya-khanda 55). The late
+“Advaita-prakasha” says that Vasudeva Datta received mantra from Advaita Acharya.[^3] <!-- F13 -->
+
+## In Kumarahatta
+Later Vasudeva moved to Kumarahatta, also called Kanchanapalli (now Halisahar), near Kanchrapara, where his closest
+friends Srivasa Pandita and Shivananda Sena lived. Srila Bhaktisiddhanta writes in the “Anubhashya” (to CC, Madhya
+15.93) that Shivananda and Vasudeva lived in Kumarahatta, or Halisahar, and in Kanchrapara; one of the biographies
+calls him just so: “Srila Vasudeva Datta Thakura, resident of Kanchanapalli.” <!-- F14 -->
+
+## The Meeting in Nilachala
+After taking sannyasa the Lord went to Puri, and from there set out to wander through South India. When news of His
+return reached Bengal, the devotees of Gauda were overjoyed; Krishnadasa Kaviraja names Vasudeva Datta among them
+(Madhya 10.81). From then on he came to Puri every year with the devotees of Gauda, led by Advaita Acharya:
+
+“Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva, Murari and all His other servants came together every
+year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.” (CC, Madhya 1.255–256)
+
+Murari Gupta (4.1.4, 4.17.5) and Lochana Dasa (8.623) also name him among those going to Puri, and Devakinandana writes
+in his “Vaishnava-vandana”: “There went Vasudeva Datta Mahashaya, to whom Krishna sells Himself” (part 4, 95).
+<!-- F29 Q17 -->
+
+When the Gaudiyas first came to Nilachala, King Prataparudra watched them from the palace roof, and Gopinatha Acharya
+named each of them for him:
+
+“This is Hari Bhatta, this is Sri Nrisimhananda; this is Vasudeva Datta, and this is Shivananda.” (CC, Madhya 11.87)
+
+In Karnapura's drama Gopinatha tells Sarvabhauma: “This is Vasudeva, Mukunda's elder brother” (Act 8). <!-- F30 -->
+
+There too, at Kashi Mishra's house, the Lord affectionately calls by name even those He had never seen, and Gopinatha
+repeats His words: “Are you well, Raghava? Is all well, Vasudeva?..” (“Chaitanya-chandrodaya” 8.38). <!-- F45 -->
+
+The Lord met the devotees and had a kind word for each. For Vasudeva He had a special one:
+
+“The Lord was delighted to see Vasudeva, and, laying His hand on him, He said: ‘Though Mukunda has been with Me since
+childhood, I feel greater joy in seeing you.’ Vasu said, ‘Mukunda obtained Your company; he obtained Your feet — that
+was his second birth. Though he is younger, Mukunda has now become my elder. He is the recipient of Your mercy, and so
+he excels in every quality.’” (CC, Madhya 11.137–140)
+
+Srila Bhaktisiddhanta remarks that such was Vasudeva: free of pride himself, full of respect for others. Seniority
+among devotees is measured not by birth but by nearness to the Lord: Mukunda had taken shelter at His feet first, and
+the elder brother honoured the younger as his elder. Karnapura gives the same exchange; in his drama Vasudeva replies: “The time of the Master's mercy
+is the time of birth; so, though he is younger, he is my elder brother.”[^4] <!-- F31 Q11 I4 -->
+
+And at once the Lord gave Vasudeva a service:
+
+“The Lord spoke again: ‘I have brought two books from the South for you. Svarupa has them; copy them for yourself.’
+Vasudeva was delighted to receive the books. Every one of the Vaishnavas made a copy for himself, and so, little by
+little, the two books spread everywhere.” (CC, Madhya 11.141–143)
+
+These were the “Brahma-samhita” and the “Krishna-karnamrita,” which the Lord had found in the South. <!-- F32 -->
+
+## The Lord's Singer in Nilachala
+At the Ratha-yatra the Lord divided the devotees into seven kirtana groups. The third was led by his brother:
+
+“He formed another group with Mukunda as the leader, in which Vasudeva, Gopinatha and Murari sang, with two more,
+Shrikanta and Vallabha Sena; and Haridasa Thakura danced there.” (CC, Madhya 13.40–41)
+
+Srila Bhaktisiddhanta notes that the first of the five responsive singers was Vasudeva Datta.[^5] <!-- F33 -->
+
+In the days of Gundicha the Lord and His companions played in the waters of Lake Indradyumna, and Vasudeva was among
+them:
+
+“Vidyanidhi played in the water with Svarupa, and the two, Gupta and Datta, played together.” (CC, Madhya 14.80)
+
+Srila Bhaktisiddhanta explains: Datta is Vasudeva Datta. <!-- F35 -->
+
+And in the Aitota garden by the Gundicha temple, he alone sang for the Lord's dance:
+
+“The Lord danced beneath every tree, while Vasudeva Datta alone sang. Beneath each tree he sang a new song, and
+Gauraraya danced alone in supreme ecstasy.” (CC, Madhya 14.98–99)
+
+Srila Bhaktisiddhanta explains briefly: the Lord dances, Vasudeva Datta sings kirtana. Karnapura in his mahakavya
+paints the scene at length: in the garden the sweet Vasudeva, “the best of physicians,” sang tender songs in solitude,
+delighting his Beloved; whatever he sang, the Lord, hearing it from His dear one, felt it doubly, and, showing in His
+body all eight sattvika-bhavas — tears, trembling, hair standing on end, stupor, perspiration — He danced, no longer
+master of Himself.
+
+“Thus the Lord, having created with Vasudeva a most graceful rasa of dance, and playing lightly round about, here and
+there, came to the bank of the pond.” (“Chaitanya-charita-mahakavya” 17.39) <!-- F34 Q12 -->
+
+The same poem of Karnapura tells of the preparations for Puri: Srivasa joyfully tells Vasudeva and Shivananda that the
+time of the chariot has come and a day must be fixed, and Vasudeva and Shivananda, warmly attached to each other, set
+out with the pilgrims (14.14, 14.25). When King Prataparudra summoned Advaita and sent a palanquin for Him, Advaita,
+in awe of Gauranga, took Vasudeva Datta with Him as His companion (14.58–60). In Puri Rama Pandita and Vasudeva bowed
+down to the Lord together (14.97), and two vessels of Ganges water — one for the bathing festival, the other for the
+Lord Himself — were brought by Vasudeva and Shivananda (14.101). And in Karnapura's drama the Lord says to Paramananda
+Puri, “Lord of the Puris! What pleases Me is just Vasudeva's conduct,” and Puri replies, “Truly he is fortunate: the
+Lord praises him even in his absence” (Act 10). <!-- F36 -->
+
+## Sarakhela
+Vasudeva's generosity knew no bounds: whatever came to him he gave away that same day, for service and for others,
+without a thought for himself. When, after one Ratha-yatra, the Lord was taking leave of the devotees of Gauda, He
+gave his friend a special charge concerning him:
+
+“Respectfully He said to Shivananda Sena, ‘Please look after Vasudeva Datta. He is extremely generous: whatever comes
+to him on any day, he spends that same day and keeps nothing back. He is a householder, and a householder needs to
+save; without savings he cannot support his family. Let all the income and expenses of his household be in your hands.
+Be his *sarakhela*, his guardian, and manage his affairs.’” (CC, Madhya 15.93–96)
+
+*Sarakhela* means a steward, a guardian of the household. This is no reproach: the Lord is caring for the home of His
+devotee, who saves nothing, and through him He teaches all Vaishnava householders. Srila Bhaktisiddhanta writes just
+so: this is an instruction to the Vaishnava householder about his duties in the world; and one of the biographies sees
+in the charge a lesson for family men — to set aside for the support of the family. <!-- F15 Q3 -->
+
+## The Prayer for All Living Beings
+On that same day of farewell the Lord turned to Vasudeva:
+
+“Then the Lord embraced Vasudeva and began to describe his qualities as if He had a thousand mouths. Hearing his own
+qualities praised, Vasudeva Datta felt ashamed. Clasping the Lord's feet, he made a petition: ‘O Lord, You have
+descended to deliver the world. Please grant me one request. O merciful Lord, You are able to do anything. If You only
+wish it, it happens without effort. My heart breaks to see the suffering of living beings. O Lord, place the sins of all
+living beings on my head. Let me take the sins of the living beings and suffer in hell for them. O Lord, cure all living
+beings of the disease of material existence.’” (CC, Madhya 15.158–163) <!-- F20 Q4 -->
+
+It is this prayer that Krishnadasa Kaviraja recalls when he lists the branches of the Chaitanya tree:
+
+“Vasudeva Datta was the Lord's great-souled servant; even with a thousand mouths one could not tell his virtues. He
+wished to take upon himself the sins of every living being in the world and suffer in hell himself, if only they could
+be set free.” (CC, Adi 10.41–42)[^6] <!-- F19 Q5 Q9 -->
+
+The “Prema-vilasa” gives his petition thus: “Prabhu, grant me this boon: let all living beings go to the abode of
+Vaikuntha. Taking upon myself the sins of all beings, I shall suffer hell for ever for their sake” (22.10–11).
+<!-- F23 -->
+
+The Lord's answer is the heart of the whole account:
+
+“When Mahaprabhu heard this, His heart melted, and with tears, trembling and a faltering voice He began to speak:
+‘Such words are no wonder coming from you: you are Prahlada himself. Krishna's grace rests on you in full. Whatever His
+servant asks for, Krishna makes true. He has no task other than fulfilling His servant's desire. You have desired the
+deliverance of all beings in the universe, so all will be delivered without suffering for their sins. Krishna is not
+powerless; He holds all power. Why, then, would He make you suffer the fruits of sin? Anyone whose welfare you desire
+has become a Vaishnava, and Krishna removes all the sins of a Vaishnava.’” (CC, Madhya 15.164–169)
+
+“You are Prahlada himself” is praise of his quality: like Prahlada, who prayed not for himself but for all who suffer,
+Vasudeva thinks only of the good of others (the “Anubhashya” has: “Vasudeva Datta Thakura is Prahlada himself”). The
+Lord goes on: Krishna will liberate the universe by his mere wish, and it is no labour for Him. Millions of universes are
+like fruits on a single tree: if one falls, the tree loses nothing; to the Lord of countless Vaikunthas the whole
+material world is like a pot of mustard seeds, and the loss of one seed goes unnoticed. In support the Lord cites the
+“Brahma-samhita”: Govinda awards each his karma, from the tiny insect to Indra, but burns to ashes the karma of His
+devotees (5.54) — and the prayer of the personified Vedas from the “Bhagavatam” (10.87.14) (CC, Madhya 15.170–180).
+<!-- F22 F21 Q6 -->
+
+Srila Bhaktisiddhanta unfolds the meaning of the answer:
+
+“Sri Krishna is all-powerful; He can free every living being from its desire for material enjoyment. You, seeing all
+equally, prayed on behalf of all beings, high and low, for their welfare. So by your prayer all will be delivered
+without suffering [the fruits of] their sins, and you will not have to suffer the fruits of sin for them in exchange.
+Those whose welfare you desire will become Vaishnavas, and Krishna will also save them from suffering the fruits of a
+Vaishnava's past misdeeds. In other words, they will give up serving sin and piety and become pure servants of
+Krishna.” (“Anubhashya” to CC, Madhya 15.167–169) <!-- Q8 I3 -->
+
+How the Lord fulfilled His promise Haridasa Thakura reminds Him: even a glimmer of the holy name destroys all sins
+(CC, Antya 3.61), and the Lord began the sankirtana, the loud chanting of Krishna's names, and so delivered all beings,
+moving and non-moving:
+
+“When Vasudeva petitioned You on behalf of the jivas, You agreed to release them.” (CC, Antya 3.73)
+
+So Vasudeva's prayer was fulfilled not by his torments but by the Lord's mercy and the power of the holy name.
+<!-- F22 -->
+
+Srila Bhaktisiddhanta sets this prayer beside the faith of Christians in Jesus, who came to bear the sins of the world —
+and he does so in order to show how different and how much higher it is:
+
+“Sri Vasudeva Datta Thakura, one of Sri Gaura's associates, like Thakura Sri Haridasa, taught the living beings of the
+world a universal Vaishnava love for the whole world, endless millions of times more exalted and more generous.”
+(“Anubhashya” to CC, Madhya 15.162–163)
+
+In Vasudeva, he goes on, were united the giving up of worldly self-interest, the true “good of others” — service to
+Vishnu — and one's own true good. He saw in Gaurasundara Bhagavan Himself, and begged Him to lay on him not merely the
+“sins” of souls but the very disease of their existence — their aversion to Krishna, a mass of offences more terrible
+than any sin. Such compassion is beyond the imagination of the best karmis and jnanis of all the fourteen worlds.[^7]
+<!-- I1 Q7 -->
+
+And Srila Bhaktisiddhanta adds a warning: people of the world of duality, who honour the ideals of karma and jnana, on
+hearing that Vasudeva wishes to suffer hell, may out of natural envy and duality praise him as a “righteous man” or
+rank him with a “knower of Brahman.” But his compassion is endless millions of times greater than that, and this is no
+exaggeration but impartial truth. By the coming of such servants of Gaura, “pained by the pain of others,” the whole
+earth and the whole race of living beings are blessed; in describing such a selfless maha-bhagavata the pen of poet and
+historian achieves its highest purpose, for the servant of Sri Krishna Chaitanya is “greater than the great and
+weightier than the weighty.” One of the biographies, explaining for the reader, calls him in English a “greater
+altruist” — “a great man who lives for others”; but his essence is not worldly philanthropy but the compassion of a
+servant of Vaikuntha who wants only one thing: that all souls should turn to Krishna. <!-- I2 -->
+
+## “I Am Sold to Vasudeva”
+In 1514–1515 the Lord went from Puri through Bengal towards Vrindavana. From Shantipura, from Advaita's house, He came to
+Kumarahatta, to Srivasa's house, and here His neighbours hurried to Him:
+
+“At that moment Vasudeva Datta came, accompanied by Shivananda Sena and other devotees. Vasudeva Datta is boundlessly
+dear to the Lord; by the Lord's mercy all divine truths are known to him. Vasudeva Datta is the benefactor of the whole
+world. He is compassionate to all living beings and intoxicated with the sweetness of the love that Lord Chaitanya
+brought. He saw only virtues in everyone and noticed faults in no one.” (CB, Antya 5.18–21)
+
+A maha-bhagavata, he longed for the good of everyone and loved Hari, the guru and the Vaishnavas with all his heart.[^8] The Lord, seeing him, embraced him and wept, and Vasudeva, falling at His feet, sobbed
+aloud; and such was his weeping, says Vrindavana Dasa, that even those whose hearts were hard as stone or wood could not
+keep back their tears; there was no one to compare with him (5.22–25). <!-- F27 Q14 F25 -->
+
+And then the Lord said of him wonderful words:
+
+“So great was the Lord's love for Vasudeva Datta that He said, ‘I belong to Vasudeva.’ Again and again Sri Gaurasundara
+said: ‘My body belongs to Vasudeva Datta. Vasudeva Datta may sell Me whenever he wishes. This is truly so and not
+otherwise. Krishna will always protect anyone touched by a breeze that has touched the body of Vasudeva Datta. O
+Vaishnavas, listen! I speak the truth! My body belongs to Vasudeva alone.’” (CB, Antya 5.26–30)
+
+Hearing of this mercy of the Lord to Vasudeva, the Vaishnavas joyfully sang the holy names (5.31). The Lord, entirely
+free, the Master of all, gives Himself by His own will to the love of His pure devotee: this is His nature — He is
+*bhakta-adhina*, conquered by the love of His servants. The words “sold” and “belong” speak of no bargain and of no
+dependence of God on a man; they are the language of love: such was Vasudeva's love that the Lord called Himself his
+property. <!-- F26 Q10 I5 -->
+
+Jayananda describes the same meeting: Shivananda Sena and Vasudeva Datta came to Srivasa's house, and the Lord spoke of
+Vasudeva's greatness: He called Himself “Vasudeva's purchased servant” and told Srivasa that Vasudeva Datta enables Him
+to reveal Himself (Vijaya-khanda 5.26–27); he also tells that at the festival in memory of Madhavendra Puri at
+Advaita's house, “how to serve patol, bathua and shak — this Vasudeva Datta knows” (5.18). And Vrindavana Dasa, listing those going to Puri, recalls
+these words again:
+
+“Also came Vasudeva Datta, to whom Lord Krishna has sold Himself.” (CB, Antya 8.14) <!-- F27 -->
+
+The “Charitamrita” adds that on this journey the Lord Himself visited his home:
+
+“The Lord stayed there one day, and in the morning He came to Kumarahatta, where Shrinivasa lived. From there He went on
+to Shivananda's house, and after that the Lord came to the house of Vasudeva.” (CC, Madhya 16.205–206)
+
+According to Karnapura's drama, the roads to both houses had been decorated, and Vasudeva begged the Lord first to grace
+Shivananda's house with His presence; the Lord did so, and then looked in on Vasudeva for a moment and went back to
+the boat (Act 9). Even in the joy of receiving the Lord, Vasudeva thought first of his friend.[^9] <!-- F28 -->
+
+## Year after Year
+In the years that followed, too, Vasudeva Datta went to Puri with the devotees of Gauda (CC, Madhya 16.16; Antya 10.9; 12.13).
+The devotees brought the Lord dishes cooked at home, and Govinda, His servant, as he served them, named who had sent
+them:
+
+“These are from Vasudeva Datta and Murari Gupta, and these various kinds from Buddhimanta Khan.” (CC, Antya 10.121)
+
+And those who were not brahmanas — Vasudeva Datta, Gadadhara, Murari Gupta, the people of Kulinagrama and of Khanda and
+others — when they invited the Lord, fed Him with prasada bought at the temple of Jagannatha (Antya 10.140–141).
+<!-- F37 F29 F44 -->
+
+When He introduced Sanatana Gosvami to His companions, the Lord presented Vasudeva Datta to him as well (Antya 4.108).
+And to Vallabha Bhatta the Lord said of the Vaishnavas of Bengal:
+
+“Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda,
+Vasudeva, Murari and all the other devotees who descended in Gauda have preached the name of Krishna and prema
+throughout the world, and whatever devotion to Krishna I have, I have gained in their company.” (CC, Antya 7.48–50)
+
+And Krishnadasa Kaviraja opens one of the chapters of the “Charitamrita” with the words: “Glory to Mukunda and Vasudeva,
+and glory to Haridasa!” (Adi 13.3). <!-- F38 Q15 -->
+
+When the Lord sent Jagadananda Pandita to Navadvipa, to mother Shachi, old friends met him in Bengal:
+
+“Vasudeva and Murari Gupta were delighted to have Jagadananda; they kept him in their homes and would not let him go.
+From his lips they heard the most intimate stories of Chaitanya, and in the joy of those stories they all forgot
+themselves.” (CC, Antya 12.98–99)[^10] <!-- F40 Q13 -->
+
+## Yadunandana Acharya
+Vasudeva Datta's mercy touched also the guru of Srila Raghunatha Dasa Gosvami. Krishnadasa
+Kaviraja writes in his list of Advaita's branches:
+
+“Sri Yadunandana Acharya is a branch of Advaita; his own branches and offshoots are past all writing. He received the
+mercy of Vasudeva Datta and with all his heart took shelter of Sri Chaitanya's feet.” (CC, Adi 12.56–57)
+
+And in the account of Raghunatha's flight from home:
+
+“He had received the favour of Vasudeva Datta; he was Raghunatha's guru and family priest. He was an intimate disciple
+of Advaita Acharya, and at the Acharya's order he held Chaitanya to be the treasure of his life.” (CC, Antya 6.161–162)
+
+Karnapura in his drama calls him “the teacher Yadunandana, most sweet, the beloved of Sri Vasudeva”
+(“Chaitanya-chandrodaya,” 10.3), and one of the biographies, “the vessel of Vasudeva Datta Thakura's boundless mercy.”
+Srila Bhaktisiddhanta makes it precise: Yadunandana is “dear to Vasudeva Datta Thakura, that is, an object of his mercy,
+but not his disciple”; he received initiation from Advaita. And at the same time: “Vasudeva Datta Thakura was not born
+in a brahmana family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy on him.”
+So a brahmana honoured a Vaishnava of the vaidya community as his guru and benefactor, for a Vaishnava is not defined by
+birth. The “Charitamrita” calls Raghunatha Dasa Yadunandana's disciple and Yadunandana his guru; but here too,
+explaining Karnapura's words “his disciple is Raghunatha,” Srila Bhaktisiddhanta makes it precise: “that is, an object
+of his mercy — not that he received initiation from him in particular.”[^11] <!-- F41 Q16 -->
+
+## Madana-Gopala in Mamgachi
+In Modadrumadvipa of Navadvipa, on the Howrah–Katwa railway, a mile from the Purvasthali stop, lies the village of
+Mamgachi, the birthplace of Thakura Vrindavana Dasa, son of Narayani, Srivasa's niece. Here Vasudeva Datta installed
+the Deity of Sri Madana-Gopala. Srila Bhaktisiddhanta wrote in the “Anubhashya”:
+
+“In the village of Mamagachi, the birthplace of Thakura Vrindavana, the Sri Madana-Gopala he established still resides.
+His service is very much neglected. It is desirable that His service be made splendid.” (“Anubhashya” to CC, Adi 10.41)
+
+According to one of the biographies, Madana-Gopala stood in a dilapidated temple. According to another, Madana-Gopala
+is now served in the temple of Saranga Thakura in Mamgachi, before a bakula tree, beside Radha-Gopinatha, and pilgrims
+on the Navadvipa parikrama come here for darshana. In the Vaishnava calendar of the Sri Chaitanya Saraswat Math, on the
+day of the Modadrumadvipa parikrama, “the places of appearance of Srila Vrindavana Dasa Thakura and of the Deities of
+Sri Saranga Murari and Vasudeva Datta Thakura” are named.[^12] <!-- F16 F17 -->
+
+Vasudeva's care for Vrindavana Dasa is also bound up with Mamgachi. The “Prema-vilasa” relates that while Vrindavana
+was still in the womb his father Vaikunthadasa left this world, and Srivasa took the widowed Narayani into his home; as
+a child of five Vrindavana settled with his mother in Mamgachi, and
+
+“Vasudeva Datta, a vessel of Prabhu's mercy, maintained Vrindavana together with his mother. They lived at Vasudeva
+Datta's temple, and Vrindavana began to study the various shastras.” (“Prema-vilasa” 23.71–72)
+
+One of the biographies writes that Narayani, widowed, lived in poverty at Vasudeva Datta's house, serving there, and
+that Vrindavana Dasa was born there.[^13] Narayani is an eternal associate of the Lord, who received His remnants as a
+child; her life at Vasudeva's house and temple was her service and his care for her, not a worldly humiliation. So the
+future author of the “Chaitanya-bhagavata” grew up and studied beside Vasudeva Datta's Deity. <!-- F18 -->
+
+## Remembrance
+Lochana Dasa, in a chapter found only in one edition of his poem, names Vasu Datta among the devotees who cried
+out when the Lord entered Jagannatha at Gunjabadi.[^14] <!-- F42 -->
+
+The padas remember him too. In Vasu Ghosha's song of how Gauranga left Nadiya, “Vasudeva Datta, Murari and Vakreshvara
+weep” with all the devotees of Navadvipa. And in Vishvanatha Chakravarti's anthology “Kshanada-gita-chintamani” one
+pada — on Gaura, the “king of dancers” in Navadvipa — bears his name: “…Vasudeva Datta is enraptured”; in the
+“Padakalpataru” the same pada is signed by Govinda Dasa, so whether Vasudeva composed padas remains uncertain.
+<!-- F46 F47 -->
+
+Vaishnavas glorify him in the “Vaishnava-vandanas”: “I glorify Vasudeva Datta, full of greatness: by the touch of the
+breeze from his body people at once attain prema” (part 1, 42; cf. CB, Antya 5.29); “…Vasudeva Datta, whom the Lord kept with
+Himself in Utkala” (part 2, 26); “from the breeze from his body prema-bhakti for Krishna is born” (part 5, 29). In the
+“Narottama-vilasa” Narottama in a vision beholds him among Gaura's dancing companions (7.117). When Vasudeva Datta left
+this world, the sources do not say. <!-- F43 -->
+
+Narahari Chakravarti entreats him as well in the “Namamrita-samudra,” a collection of appeals to the Lord's associates —
+together with Uddharana:
+
+“Vasudeva Datta, Uddharana, Purandara! Save me — so cries this wretched sinner.” (“Namamrita-samudra” 24)
+<!-- F48 -->
+
+## His Significance
+Vasudeva Datta's life teaches the boundless nature of a Vaishnava's selfless love: he sought nothing for himself —
+neither wealth, nor liberation, nor even escape from hell — and desired only that all souls should turn to Krishna. The
+Lord called Himself his property and promised that anyone whose good Vasudeva desired would become a
+Vaishnava. Haridasa Thakura linked his prayer with the Lord's sankirtana, which delivered the moving and the
+non-moving; Srila Bhaktisiddhanta placed his compassion above all ideals of righteousness and knowledge.[^15] To his
+brother he yielded seniority, to his friend the honour of receiving the Lord first; and Mahaprabhu's words “This body of
+Mine belongs to Vasudeva” remain an eternal witness to how the Lord yields to the love of His servant.
+<!-- I6 F21 I5 F39 -->
+
+[^1]: He should not be confused with his namesakes: Vasudeva Ghosha, the kirtana singer, brother of Govinda and Madhava
+    Ghosha; Vasudeva Vipra, the leper brahmana of Kurma-kshetra whom the Lord healed; Vasudeva Sarvabhauma and other
+    Vasudevas. In the lists of the “Chaitanya-bhagavata” and the “Charitamrita” where simply “Vasudeva” appears (for
+    instance, the kirtanas at Srivasa's house or the procession to the Kazi), the source does not always make clear
+    who is meant.
+[^2]: Srila Bhaktisiddhanta in the “Anubhashya” calls Chhanhara the birthplace of Mukunda Datta, and the commentary to
+    one edition of the “Chaitanya-bhagavata” that of Vasudeva. The brothers were of one family, so there is no real
+    contradiction; but which village, Chhanhara or Chakrashala, was their home remains unclear.
+[^3]: Neither the “Charitamrita” nor the “Chaitanya-bhagavata” says this; the “Advaita-prakasha” is a late source,
+    not reliable in every respect.
+[^4]: In Karnapura's drama the Lord says to Vasudeva in Puri: “Though Mukunda is My companion of old, you, though I see
+    you today for the first time, have long been dear to Me” (“Chaitanya-chandrodaya,” Act 8). But according to
+    Vrindavana Dasa and the “Prema-vilasa,” Vasudeva lived in Navadvipa and was with the Lord even before His sannyasa
+    (CB, Madhya 7.43), and the “Charitamrita” does not speak of a first meeting in Puri. We follow the
+    “Chaitanya-bhagavata” and the “Charitamrita.”
+[^5]: One of the biographies writes that four groups sang at the beginning of the Ratha-yatra. According to the
+    “Charitamrita” there were seven groups: four went before the chariot, and one each on either side and behind
+    (Madhya 13.33–50).
+[^6]: One of the biographies quotes Adi 10.42 without a number, immediately after the prayer of Madhya 15.160–163, so
+    that it reads as its continuation; in fact these are Krishnadasa Kaviraja's words from the list of branches.
+[^7]: One of the biographies attaches these words of the “Anubhashya” to the Lord's answer (Madhya 15.167–169) and
+    labels the verses 167–169 themselves as a quotation from the “Anubhashya”; in Srila Bhaktisiddhanta's commentary
+    this is the comment on verses 162–163, on the prayer itself.
+[^8]: One of the biographies says he was “intoxicated with the highest of the five rasas of which Sri Krishna Chaitanya
+    spoke.” Vrindavana Dasa says only “intoxicated with the sweetness of the love that Lord Chaitanya brought” (CB,
+    Antya 5.20); which rasa is meant, the source does not say.
+[^9]: In Karnapura's mahakavya the order is reversed: the Lord came secretly by boat at night first to Vasudeva's house,
+    then to Shivananda's (“Chaitanya-charita-mahakavya” 20.17).
+[^10]: One of the biographies writes that Vasudeva, Murari and Jagadananda came together to mother Shachi with news of
+    the Lord and that Shachi would not let them go. According to the “Charitamrita,” Jagadananda went to Shachi on his
+    own (Antya 12.86–95), and it was Murari and Vasudeva who would not let him go. We follow the “Charitamrita.”
+[^11]: The biographies call Yadunandana Raghunatha's diksha-guru; the “Charitamrita,” his guru and family priest
+    (Antya 6.161). Srila Bhaktisiddhanta's explanation is in the “Anubhashya” to Antya 6.263 (verse 10.3 of the
+    “Chaitanya-chandrodaya”); in the “Anubhashya” to Adi 10.41 and 10.91 he himself calls Yadunandana Raghunatha's
+    diksha-guru.
+[^12]: Evidently the Deity was later moved to the temple of Saranga Thakura; the sources do not say so directly.
+[^13]: According to the “Prema-vilasa,” after her husband left this world Narayani lived with Srivasa, and came to Mamgachi
+    when Vrindavana was five years old.
+[^14]: This chapter exists only in the 1983 edition. According to the “Charitamrita” and the “Chaitanya-bhagavata,”
+    Vasudeva lived in Bengal and came to Puri every year; they do not speak of his presence at the Lord's
+    disappearance.
+[^15]: One of the biographies, retelling the Lord's teachings to Sanatana, writes that mercy as the chief quality of a
+    Vaishnava is illustrated by Haridasa Thakura and by Vasudeva Datta. In the “Charitamrita” (Madhya 22) and in
+    the “Anubhashya” on it, Vasudeva's name does not appear at that place.

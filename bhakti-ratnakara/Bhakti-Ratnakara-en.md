@@ -908,7 +908,7 @@ great royal wealth does not touch his heart at all.
 **284.** Soon he thinks day and night:
 "How can I leave home and become a renunciant?"
 
-**285.** To Sri Krishna Chaitanya, Nityananda, Advaita and their associates
+**285.** To Sri Krishna Chaitanya, Nityananda, Advaita and Their associates
 he offers his prayers, and tears stream from both his eyes.
 
 **286.** In the guise of a dream the Lord with His associates appeared to him,
@@ -1142,7 +1142,7 @@ grammar and the rest he learned in a short time.
 **362.** Day by day he grows, and all rejoice to see it;
 truly wondrous inclinations appeared in him.
 
-**363.** The lives of Gaura, Nityananda, Advaita and their associates
+**363.** The lives of Gaura, Nityananda, Advaita and Their associates
 he listens to attentively from the lips of Vaishnavas,
 
 **364.** constantly sings their virtues,
@@ -2777,7 +2777,7 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^01-33]: From the mangalacharana of the Hari-bhakti-vilasa (first vilasa). The Vaishnava-toshani (322–323) is Sanatana Gosvami's commentary on the tenth canto of the Bhagavata; the verse is from its introduction.
 [^01-34]: The custom of giving an "unattractive" name to a child born after the death of older children, to ward off misfortune.
 [^01-35]: The two brothers are Gaura and Nityananda, who according to tradition dwell in the Deities of Gauridasa Pandita at Ambika (Kalna).
-[^01-36]: Subala is Gauridasa Pandita (according to the GGD, the cowherd boy Subala, Krishna's friend); Shyamananda is the disciple of his disciple Hridaya Chaitanya (Hridayananda). The Shyamananda-shataka is a work on Shyamananda (author not named).
+[^01-36]: Subala is Gauridasa Pandita (according to the GGD, the cowherd boy Subala, Krishna's friend); Shyamananda is the disciple of his disciple Hridaya Chaitanya (Hridayananda). The Shyamananda-shataka is a hundred verses on Shyamananda; by tradition its author is Shyamananda's disciple Rasikananda; Baladeva Vidyabhushana wrote a commentary on it (Narahari does not name the author here).
 [^01-37]: The Deities of Gaura and Nityananda at Ambika (Kalna), served by Gauridasa Pandita and Hridaya Chaitanya.
 [^01-38]: A song from Narottama Dasa's Prarthana ("Gaurangera duti pada").
 [^01-39]: Cf. the Prema-vilasa and the Narottama-vilasa: the name Shyamananda was given by Jiva Gosvami after Duhkhi Krishnadasa found Radha's nupura; here it is only mentioned briefly (in detail in the sixth taranga).
@@ -2960,7 +2960,7 @@ Gangadhara Bhattacharya has lost his mind!"
 **47.** The other says: "Why he has lost his mind
 I know something of — listen attentively.
 
-**48.** In Nadia there is Nimai Pandita, a portion of God,
+**48.** In Nadia there is Nimai Pandita, a portion of God[^02-2],
 supremely beautiful, radiant as the sun.
 
 **49.** His power is known to the whole world;
@@ -3015,7 +3015,7 @@ by the Lord's will the desire for a son arose.
 think it over and tell me how I may find peace."
 
 **66.** Lakshmipriya says: "Let us go quickly to Nilachala:
-by the darshan of the Lord everything will be fulfilled."[^02-2]
+by the darshan of the Lord everything will be fulfilled."[^02-3]
 
 **67.** Hearing this, Chaitanya Dasa rejoiced at heart,
 and the two of them set out in haste by way of Yajigrama.
@@ -3069,7 +3069,7 @@ with staff and water-pot, His head shaven.
 with most beautiful eyes like lotus petals,
 
 **84.** together with Balabhadra and Subhadra;
-Brahma and others with joyful hearts offer praise.[^02-3]
+Brahma and others with joyful hearts offer praise.[^02-4]
 
 **85.** So the best of brahmanas sees many mysteries;
 suddenly waking, he is in turmoil.
@@ -3231,7 +3231,7 @@ and with humility and meekness took his leave.
 the hearts of the devotees were troubled.
 
 **138.** The brahmana with his wife set out in haste,
-having bowed to Patita-pavana at the Lion Gate.[^02-4]
+having bowed to Patita-pavana at the Lion Gate.[^02-5]
 
 **139.** Weeping and weeping, the brahmana walks along the road;
 whoever sees him finds his eyes gladdened.
@@ -3285,7 +3285,7 @@ the child she carries draws all hearts.
 the brahmana and his friends rejoice at heart.
 
 **156.** On the full-moon day of Vaishakha, under the nakshatra Rohini,
-at an auspicious moment Lakshmipriya gave birth to a son.[^02-5]
+at an auspicious moment Lakshmipriya gave birth to a son.[^02-6]
 
 **157.** What auspicious signs there were at Srinivasa's birth
 I cannot describe because of the bulk of the book.
@@ -3480,13 +3480,13 @@ the Thakura comforted him and bade him: "Go home."
 in Vraja he is Madhumati, whose virtues have no limit.
 
 **221.** *Thus [it is said] in the Sri Gaura-ganoddesha:*
-*"Madhumati, formerly a dear friend in Vrindavana, is now the Sarakara named Narahari, dear to the Lord."*[^02-6]
+*"Madhumati, formerly a dear friend in Vrindavana, is now the Sarakara named Narahari, dear to the Lord."*[^02-7]
 
 **222.** *Thus [it is said] in a verse of Sriman Rupa:*
 *"She who formerly dwelt in Vrindavana, full of rasa, whose nature is the rasa of delight in the play of Radha and Ghanashyama — Madhumati, a follower of the perfect ones — she, Sri Sarakara Thakkura, who here gives prema to those who long for prema, a great ocean of the bliss of prema, is victorious in the land of Sri Khanda."*
 
 **223.** *Thus [it is said] in a verse of Sri Karnapura:*
-*"I bow to a certain great giver of prema bearing the name Sri Madhumati — a worthy vessel of the honey of the great mercy of Sri Chaitanya Mahaprabhu, joyfully blossoming in speech swallowed by streams of dense prema, who made his dwelling in Sri Khanda and is ever anointed with sandal."*[^02-7]
+*"I bow to a certain great giver of prema bearing the name Sri Madhumati — a worthy vessel of the honey of the great mercy of Sri Chaitanya Mahaprabhu, joyfully blossoming in speech swallowed by streams of dense prema, who made his dwelling in Sri Khanda and is ever anointed with sandal."*[^02-8]
 
 **224.** So the wise describe much of his life;
 but how he loved Srinivasa cannot be described.
@@ -3618,7 +3618,7 @@ in this incarnation there is no limit to mercy.
 He delivers by giving that rarest prema.
 
 **267.** The Lord's zeal is to deliver sinful unbelievers;
-that is why in the age of Kali the power of the wicked is so formidable.[^02-8]
+that is why in the age of Kali the power of the wicked is so formidable.[^02-9]
 
 **268.** Two named Jagai and Madhai, kings of robbers,
 for fear of whom all the society of Nadia trembled,
@@ -3987,7 +3987,7 @@ heard that Mahaprabhu had gone to Vrindavana.
 Without effort they gave up everything.
 
 **390.** Sri Rupa's brother was named Sri Vallabha;
-a great Vaishnava, his former name was Anupama.[^02-9]
+a great Vaishnava, his former name was Anupama.[^02-10]
 
 **391.** With him Rupa set out first for Vraja
 and met Sri Krishna Chaitanya-chandra at Prayaga.
@@ -4103,7 +4103,7 @@ the enchanter of millions of Kandarpas, appeared in person.
 
 **431.** *said to the people of Vraja: 'Sri Govinda is here.' Hearing this, all of them, their hearts melted with prema,*
 
-**432.** *together with children and old men cleared that ground — and, at the command of Rama: 'Look: in the middle of the yogapitha is Krishna, the Lord, the son of the king of Vraja Himself, the enchanter of millions of Manmathas,' — they carefully dug up that ground."*[^02-10]
+**432.** *together with children and old men cleared that ground — and, at the command of Rama: 'Look: in the middle of the yogapitha is Krishna, the Lord, the son of the king of Vraja Himself, the enchanter of millions of Manmathas,' — they carefully dug up that ground."*[^02-11]
 
 **433.** As soon as the word spread of Sri Govinda-deva's appearance,
 countless people come running joyfully from all sides.
@@ -4139,7 +4139,7 @@ with Him Kashishvara came to Vrindavana.
 overcome with prema, he performs wondrous service.
 
 **444.** *Thus [it is said] in the Sri Sadhana-dipika — an account heard from the lips of an associate of Mahaprabhu:*
-*"Once Sri Mahaprabhu said to Sri Kashishvara: 'Go to Vrindavana and live near Sri Rupa and Sanatana.' Hearing this, he was both delighted and astonished. The crest-jewel of the omniscient, Gaura, knowing his heart, said again: 'Bring the Deity of Sri Krishna that stands beside Jagannatha, and know that I am non-different from Him, Bhagavan Himself; serve Him thus.' Hearing this, he fell silent. Then Sri Krishna in the form of the Deity and Mahaprabhu ate together. After this Sri Kashishvara, bowing down like a rod, brought the Deity of Gaura-Govinda to Vrindavana. This is the Mahaprabhu beside Sri Govinda."*[^02-11]
+*"Once Sri Mahaprabhu said to Sri Kashishvara: 'Go to Vrindavana and live near Sri Rupa and Sanatana.' Hearing this, he was both delighted and astonished. The crest-jewel of the omniscient, Gaura, knowing his heart, said again: 'Bring the Deity of Sri Krishna that stands beside Jagannatha, and know that I am non-different from Him, Bhagavan Himself; serve Him thus.' Hearing this, he fell silent. Then Sri Krishna in the form of the Deity and Mahaprabhu ate together. After this Sri Kashishvara, bowing down like a rod, brought the Deity of Gaura-Govinda to Vrindavana. This is the Mahaprabhu beside Sri Govinda."*[^02-12]
 
 **445.** *[And again:]*
 *"May Gaura-Govinda be merciful to me, who by the lustre of His feet has conquered Madana, by the lustre of His face has crushed the pride of the lotus and the jewel, and whose feet are the shelter of Sri Rupa."*
@@ -4209,7 +4209,7 @@ and humbled himself greatly, bathed in tears.
 and entrusted him to the feet of Sri Madanamohana.
 
 **467a.** Seeing Sri Madanamohana, Krishnadasa
-falls to the ground and bows, sighing deeply.[^02-12]
+falls to the ground and bows, sighing deeply.[^02-13]
 
 **468.** That very day he began to build the temple
 and had [the Deity] adorned with various jewels.
@@ -4239,7 +4239,7 @@ their doings are unfathomable — who is able to tell of them?
 there Gopinatha plays in great merriment.
 
 **477.** *Thus [it is said] in the Sri Sadhana-dipika:*
-*"By him (Madhu Pandita) was manifested Gopinatha, the ocean of mercy, at Vamshivata, on the auspicious bank of the beautiful Yamuna."*[^02-13]
+*"By him (Madhu Pandita) was manifested Gopinatha, the ocean of mercy, at Vamshivata, on the auspicious bank of the beautiful Yamuna."*[^02-14]
 
 **479.** Suddenly [Gopinatha] mercifully gave him darshan,
 and Sri Madhu Pandita received the right to serve [Him].
@@ -4283,18 +4283,19 @@ Narahari Dasa tells the Bhakti-ratnakara.
 *Thus in the Sri Bhakti-ratnakara, in the account of the birth of Srinivasa and other matters, ends the second wave, called "The Description of the Appearance of Sri Govinda and the Other [Deities] in Vrindavana".*
 
 [^02-1]: Kantaka-nagara is Katwa; Sri Bharati is Keshava Bharati, the Lord's sannyasa-guru. Cf. CB Madhya 28; CC Adi 17.
-[^02-2]: Cf. the Prema-vilasa (vilasa 1): there the childlessness of Chaitanya Dasa and the gift of a son are told differently — through Jagannatha and the Lord's command to the Earth.
-[^02-3]: Chaitanya Dasa's vision: Krishna-Shyamasundara; Gaura in the dress of a householder; Gaura the sannyasi; Jagannatha with Baladeva and Subhadra.
-[^02-4]: Patita-pavana ("Purifier of the Fallen") is the Deity of Jagannatha at the Lion Gate of the temple in Puri.
-[^02-5]: The 1960 edition has "in the muhurta of Rohini". According to the Prema-vilasa, Srinivasa's birth is told differently; cf. PV, vilasas 1–2.
-[^02-6]: GGD: Narahari Sarakara is Madhumati, a friend of Radha in Vraja.
-[^02-7]: A pun: "shri-khanda" means both the name of the village and sandal.
-[^02-8]: So in the 1912/13 edition ("papa-pashandi tarite"); in the 1960 edition the line is corrupt. Cf. CB Madhya 13 (the deliverance of Jagai and Madhai) and Madhya 23 (the subduing of the Kazi).
-[^02-9]: Cf. 1.665, where it is said that the name Anupama was given to him by Sri Gaurasundara.
-[^02-10]: Verses 422–432, from the Sadhana-dipika of Radha-Krishna Gosvami, repeat the account of 404–421 in Sanskrit. "Gumattila" is the same as Gomatila.
-[^02-11]: A prose passage from the Sadhana-dipika. According to this account, the Deity of Gaura-Govinda stands in Vrindavana to the right of Govinda-deva.
-[^02-12]: This couplet stands at this place in the editions of 1888 and 1912/13; in the 1960 edition it is misplaced after verse 477 under the number 478, so the number 478 is skipped here.
-[^02-13]: Gopinatha is the Deity manifested by Madhu Pandita at Vamshivata; Paramananda Bhattacharya (474) is his elder friend and fellow student.
+[^02-2]: (ঈশ্বরাংশ, *ishvara-amsha*) — so speaks a villager, by his own understanding and not knowing Who Nimai Pandita is. Sri Krishna; as Chaitanya Dasa will later say: “Vishvambhara-raya is Krishna, the Moon of Vrindavana”. (2.229).
+[^02-3]: Cf. the Prema-vilasa (vilasa 1): there the childlessness of Chaitanya Dasa and the gift of a son are told differently — through Jagannatha and the Lord's command to the Earth.
+[^02-4]: Chaitanya Dasa's vision: Krishna-Shyamasundara; Gaura in the dress of a householder; Gaura the sannyasi; Jagannatha with Baladeva and Subhadra.
+[^02-5]: Patita-pavana ("Purifier of the Fallen") is the Deity of Jagannatha at the Lion Gate of the temple in Puri.
+[^02-6]: The 1960 edition has "in the muhurta of Rohini". According to the Prema-vilasa, Srinivasa's birth is told differently; cf. PV, vilasas 1–2.
+[^02-7]: GGD: Narahari Sarakara is Madhumati, a friend of Radha in Vraja.
+[^02-8]: A pun: "shri-khanda" means both the name of the village and sandal.
+[^02-9]: So in the 1912/13 edition ("papa-pashandi tarite"); in the 1960 edition the line is corrupt. Cf. CB Madhya 13 (the deliverance of Jagai and Madhai) and Madhya 23 (the subduing of the Kazi).
+[^02-10]: Cf. 1.665, where it is said that the name Anupama was given to him by Sri Gaurasundara.
+[^02-11]: Verses 422–432, from the Sadhana-dipika of Radha-Krishna Gosvami, repeat the account of 404–421 in Sanskrit. "Gumattila" is the same as Gomatila.
+[^02-12]: A prose passage from the Sadhana-dipika. According to this account, the Deity of Gaura-Govinda stands in Vrindavana to the right of Govinda-deva.
+[^02-13]: This couplet stands at this place in the editions of 1888 and 1912/13; in the 1960 edition it is misplaced after verse 477 under the number 478, so the number 478 is skipped here.
+[^02-14]: Gopinatha is the Deity manifested by Madhu Pandita at Vamshivata; Paramananda Bhattacharya (474) is his elder friend and fellow student.
 
 ---
 
@@ -5425,7 +5426,7 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^03-5]: Markandeya-sarovara is a sacred pond in Puri.
 [^03-6]: "Prabhu-agochara" — literally "beyond the reach of the Lord": Gadadhara's state in separation is so deep that it is unfathomable even to the Lord Himself (a usual intensification in Bengali poetry).
 [^03-7]: According to the CC (Adi 10 and elsewhere), Raghunatha Dasa lived in Puri under Svarupa Damodara for sixteen years; after the departure of the Lord and of Svarupa he went to Vrindavana, to Rupa and Sanatana, at Radha-kunda.
-[^03-8]: Chaitanya-chandrodaya-nataka of Kavi-karnapura, Act 10, verse 3. Raghunatha Dasa's preceptor Yadunandana Acharya was a disciple of Vasudeva Datta (CC Antya 6).
+[^03-8]: Chaitanya-chandrodaya-nataka of Kavi-karnapura, Act 10, verse 3. Raghunatha Dasa's preceptor Yadunandana Acharya was a disciple of Advaita who received the mercy of Vasudeva Datta (CC Antya 6.161–162; according to Srila Bhaktisiddhanta, “the object of his mercy, but not his disciple”).
 [^03-9]: So Narahari: Prataparudra supposedly handed power to his son and withdrew from affairs while the Lord was still present. According to historical records he continued to reign after 1533 (until about 1540).
 [^03-10]: The samadhi of Haridasa Thakura on the seashore at Puri; Haridasa's departure and his burial by the Lord Himself are described in CC Antya 11.
 [^03-11]: Patita-pavana ("Purifier of the fallen") — the form of Jagannatha at the Lion Gate (Simha-dvara) of the Puri temple, visible to all who cannot enter the temple.

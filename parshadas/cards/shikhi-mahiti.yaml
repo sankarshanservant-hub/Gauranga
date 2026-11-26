@@ -1,0 +1,98 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/shikhi-mahiti.md и lila-db.
+id: "@shikhi-mahiti"
+names:
+  ru: "Шикхи Махити"
+  en: "Shikhi Mahiti"
+  variants: ["Шикхи Махати (ЧЧ Мадхья 10.42; ГГД 189; ЧЧН 8; БР)", "Шикхи Махити (Маханти) («Анубхашья», по B)", "Шикхи (ЧЧ Мадхья 16.254; махакавья 13; «Гаура-кришнодая» 11.5)", "Рагалекха (в Кришна-лиле, ГГД 189)"]
+  facts: [F1, F2]
+kind: associate
+circle: [puri]
+period: [P12, P13, P14, P15]
+period_note: "Лично — с возвращения Господа с юга (P12: встреча, Мадхья 1.130; представление Сарвабхаумой, Мадхья 10.42; сон и объятие по махакавье 13.89–109) и по возвращении с пути во Вриндаван (P13: Мадхья 16.254) до сокрытия Господа (P14: лишь упоминание — сестра, Антья 2.103) и после него (P15: Шриниваса — БР 3, Нароттама — БР 8, НВ 4). ЧЧ Ади 10.135–137 и Антья 2.105–106 — без времени (PX)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "год, день и место явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет"
+    facts: [F39]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: "#puri?"
+    conf: "день, год и место ухода неизвестны; жил в Пури и после сокрытия Господа (БР 3, 8; НВ 4 — F36–F38); в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет"
+    facts: [F36, F37, F38, F39]
+origin:
+  places: ["#puri"]
+  family: ["@murari-mahiti", "@madhavi-devi", "@bhavananda-raya"]
+  varna: "каястха (карана), храмовый писарь — только «Гаура-кришнодая» 11.5; B, T, M варну не называют"
+  facts: [F6, F7, F8, F10, F17, F40]
+relations:
+  - {type: sibling, who: "@murari-mahiti", facts: [F8, F9, F12, F13, F20, F21, F22, F25, F26, F27, F30], events: [ev-shikhi-mahiti-dream, ev-puri-devotees-introduced],
+     note: "Младший брат (махакавья 13.90; ЧЧ Мадхья 10.44); раньше стал преданным Гауры и вместе с сестрой привёл к Нему старшего; Господь: «Ты — старший брат Мурари». T — «Murari Mahanta or Mahanti» (⚠3)."}
+  - {type: sibling, who: "@madhavi-devi", facts: [F2, F3, F4, F8, F11, F12, F13, F20, F21, F22, F25, F26, F34, F36], events: [ev-shikhi-mahiti-dream, ev-chhota-haridasa-punished, ev-srinivasa-gadadhara-puri],
+     note: "Младшая сестра; в Кришна-лиле — Калакели, он — Рагалекха, обе — служанки Радхи (ГГД 189); «половина» из «трёх с половиной» (ЧЧ Антья 2.105–106); вместе принимали Шринивасу (БР 3.185)."}
+  - {type: uncle, who: "@bhavananda-raya", facts: [F10, F29],
+     note: "По B 896 — сын брата Бхавананды Рая (только B, ⚠4; = @bhavananda-raya F8); в ЧЧ Мадхья 1.130 Господь встречается с ними обоими подряд."}
+  - {type: served-by, who: "@mahaprabhu", facts: [F4, F5, F19, F20, F21, F22, F23, F25, F26, F27, F28, F29, F30, F31, F32, F33, I1, I2],
+     events: [ev-shikhi-mahiti-dream, ev-svarupa-paramananda-arrive, ev-puri-devotees-introduced, ev-natashala-kanai-return, ev-gauda-devotees-arrive-puri],
+     note: "Сокровенный спутник в Пури (ветвь древа, Ади 10.136; «три с половиной», Антья 2.105–106); по махакавье 13.89–109 — сон, объятие в джагамохане и с тех пор служение Гауре как своему Божеству (⚠Б2–⚠Б4)."}
+  - {type: deity-served, who: "@jagannatha-deity", facts: [F14, F15, F16, F17, F23],
+     note: "Слуга и «любящий слуга» Джаганнатхи (махакавья 13.89, 13.94); храмовый писарь — ликханадхикари (ЧЧ Мадхья 10.42), деула-карана («Анубхашья»), ведёт «Мадала-панджи» («Амрита-праваха-бхашья»; T)."}
+  - {type: co-worker, who: "@svarupa-damodara", facts: [F4, F29], events: [ev-svarupa-paramananda-arrive], note: "Вместе — в числе «трёх с половиной» (ЧЧ Антья 2.105–106); Господь встречает их подряд (Мадхья 1.130)."}
+  - {type: co-worker, who: "@ramananda-raya", facts: [F4, F31, F36], note: "Вместе — в числе «трёх с половиной»; вместе встречали Господа (Мадхья 16.254) и Шринивасу (T 204)."}
+  - {type: other, who: "@sarvabhauma", facts: [F30, F31, F36], events: [ev-puri-devotees-introduced], note: "Представил его Господу как писаря храма (ЧЧ Мадхья 10.42; ЧЧН 8; «Гаура-кришнодая» 11.5)."}
+  - {type: other, who: "@bhagavan-acharya", facts: [F5, F34], events: [ev-chhota-haridasa-punished], note: "Рядом в перечне ветвей (Ади 10.136); посылал Младшего Харидаса к его сестре за рисом (Антья 2.103)."}
+  - {type: other, who: "@chhota-haridasa", facts: [F34], events: [ev-chhota-haridasa-punished], note: "Ходил за рисом к сестре Шикхи Махити (ЧЧ Антья 2.103) — лишь упоминание."}
+  - {type: met, who: "@srinivasa-acharya", facts: [F35, F36, I3], events: [ev-srinivasa-gadadhara-puri],
+     note: "После сокрытия Господа Шриниваса пришёл в его дом (БР 3.181–187); M — спутники узнали в нём Гаура-шакти и наставили. = @srinivasa-acharya F32."}
+  - {type: met, who: "@narottama-dasa", facts: [F37, F38], events: [ev-narottama-puri, ev-narottama-dream-ratha-kirtan],
+     note: "Предчувствовал приход Нароттамы и встречал его у Львиных ворот; с Гопинатхой Ачарьей посылал на даршан (НВ 4.41, 4.166; БР 8)."}
+  - {type: co-worker, who: "@gopinatha-acharya", facts: [F37, F38], events: [ev-narottama-puri], note: "Вместе с ним в Пури после сокрытия Господа (БР 8; НВ 4.40–43, 4.166)."}
+  - {type: co-worker, who: "@kanai-khutiya", facts: [F36, F38], events: [ev-narottama-puri, ev-srinivasa-gadadhara-puri], note: "Вместе принимали Шринивасу (БР 3.184) и Нароттаму (НВ 4.42)."}
+  - {type: co-worker, who: "@vaninatha-raya", facts: [F31, F36, F38], events: [ev-natashala-kanai-return, ev-narottama-puri], note: "Вместе встречали Господа (Мадхья 16.254), Шринивасу (БР 3.186) и Нароттаму (НВ 4.43)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F6, F12, F15, F19, I1], note: "«Анубхашья» к ЧЧ Ади 10.136/137 — рассказ о сне по махакавье Карнапуры (⚠1)."}
+  - {type: other, who: "@kavi-karnapura", facts: [F19, F21, F24], events: [ev-shikhi-mahiti-dream], note: "Автор махакавьи (13.89–109) — единственный первоисточник рассказа о сне (⚠6); ЧЧН 8 — сцена представления (⚠5)."}
+  - {type: other, who: "@bhaktivinoda", facts: [F16], note: "«Амрита-праваха-бхашья» к ЧЧ Мадхья 10.42 — о должности ликханадхикари и «Мадала-панджи» (по T)."}
+identities:
+  - in: krishna-lila
+    as: "Рагалекха, служанка (дāси) Шри Радхи"
+    source: "ГГД 189"
+    level: A
+    facts: [F2]
+    variants: ["ЧЧ Антья 2.105–106: Господь числит его в окружении Радхики (один из «трёх с половиной») — F4."]
+events:
+  - ev-tattva-bhakti-kalpataru
+  - ev-svarupa-paramananda-arrive
+  - ev-puri-devotees-introduced
+  - ev-kashi-mishra-residence
+  - ev-shikhi-mahiti-dream
+  - ev-gauda-devotees-arrive-puri
+  - ev-natashala-kanai-return
+  - ev-chhota-haridasa-punished
+  - ev-srinivasa-gadadhara-puri
+  - ev-narottama-puri
+  - ev-narottama-dream-ratha-kirtan
+events_note: "ev-shikhi-mahiti-dream — только махакавья 13.89–109 (kcm-0134); ev-puri-devotees-introduced — ЧЧ Мадхья 10.38–48 (cc-2004), ЧЧН 8 и «Гаура-кришнодая» 11.5 — в ev-kashi-mishra-residence (ccd-0062, gkd-0099 — без тега, ⚠8); ev-gauda-devotees-arrive-puri — ЧБ Антья 8.56–61, Мурари 4.17.22 (cb-3103, mkc-0235 — без тега, ⚠8)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#puri", "#house-kashi-mishra"]
+places_facts: [F7, F14, F26, F30, F35, F38]
+character:
+  - {trait: "любящий слуга Джаганнатхи, всецело поглощённый этим служением", facts: [F14, F20], note: "⚠Б3 — не «неверие»"}
+  - {trait: "чистота, сострадательное сердце, великая душа", facts: [F18]}
+  - {trait: "обретя милость Гауры, забыл обо всём и служил Ему как своему Божеству", facts: [F27, F28], events: [ev-shikhi-mahiti-dream]}
+  - {trait: "мука разлуки после сокрытия Господа: «живы лишь, чтобы увидеть тебя» (с сестрой — Шринивасе)", facts: [F35, F36]}
+significance: {facts: [F2, F4, F5, I1, I2, I3]}
+sources:
+  T: "144 (гл.); 122, 130–131, 140, 204"
+  M: "главы нет; 189"
+  B: "894–895 (гл.); 228, 244, 663, 881, 896, 947–948"
+  other: ["ГГД 189", "ЧЧ Ади 10.135–137", "ЧЧ Мадхья 1.130, 10.42, 10.44, 16.253–254", "ЧЧ Антья 2.103–106", "«Анубхашья» к ЧЧ Ади 10.136–137", "«Амрита-праваха-бхашья» к ЧЧ Мадхья 10.42", "махакавья Карнапуры 13.89–109", "ЧЧН 8", "ЧБ Антья 8.56–61", "Мурари 4.17.22", "«Гаура-кришнодая» 11.5", "БР 3.181–187, БР 8", "НВ 4.40–43, 4.135, 4.166", "«Намамрита-самудра» 49"]
+article: {ru: "parshadas/ru/shikhi-mahiti.md", en: "parshadas/en/shikhi-mahiti.md"}
+open_questions:
+  - "Даты и место явления и ухода неизвестны; в календаре ШЧСМ его дней нет."
+  - "Племянник ли Бхавананды Рая — только B 896 (⚠4)."
+  - "Как соотносятся представление Сарвабхаумой (ЧЧ Мадхья 10.42) и объятие в джагамохане после сна (махакавья 13.89–109) (⚠7)."
+  - "ЧЧН 8 *bhrātarau* — «двое братьев» или «брат и сестра» (Мурари и Мадхави) (⚠5)."

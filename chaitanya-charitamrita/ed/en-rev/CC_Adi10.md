@@ -1685,7 +1685,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^23]: *Anubhāṣya*: Śivānanda Sena experienced and tasted all three kinds of the Lord’s mercy — *sākṣāt*, *āveśa* and *āvirbhāva* (Antya 2).
 
-[^24]: *Anubhāṣya*: Caitanya dāsa, the eldest, wrote a commentary on the *Kṛṣṇa-karṇāmṛta*. Karṇapūra, also called Paramānanda dāsa or Purī dāsa, a disciple of Śrīnātha Paṇḍita, wrote the *Ānanda-vṛndāvana-campū*, the *Alaṅkāra-kaustubha*, the drama *Śrī Caitanya-candrodaya*, the *Gaura-gaṇoddeśa-dīpikā* and other works.
+[^24]: *Anubhāṣya*: Caitanya dāsa, the eldest, wrote a commentary on the *Kṛṣṇa-karṇāmṛta* (published with Bhaktivinoda Ṭhākura’s translation in the *Sajjana-toṣaṇī*); in the view of those who know, it is he, not Kavi Karṇapūra, who composed the Sanskrit *mahākāvya* *Śrī Caitanya-carita*. Karṇapūra, also called Paramānanda dāsa or Purī dāsa, a disciple of Śrīnātha Paṇḍita, wrote the *Ānanda-vṛndāvana-campū*, the *Alaṅkāra-kaustubha*, the *mahākāvya* *Śrī Caitanya-carita* (marked with a query), the drama *Śrī Caitanya-candrodaya*, the *Gaura-gaṇoddeśa-dīpikā* and other works; he was born in 1448 Śaka and wrote until 1498.
 
 [^25]: *Anubhāṣya*: Śrīvallabha and Śrīkānta were the sons of Śivānanda’s sister. When on the way to Purī Nityānanda scolded Śivānanda and pushed him with His foot, Śrīkānta took offence, left the party and reached the Lord first; the all-knowing Lord consoled him and told Govinda to give him His remnants while he stayed in Nīlācala (Antya 12). At the Ratha-yātrā both brothers sang in Mukunda’s party (Madhya 13).
 

@@ -87,12 +87,7 @@ conduct, including a strict fast on Ekadashi. <!-- F31 -->
 
 Two centuries later Sri Chaitanya came to Udupi. The “Charitamrita” relates:
 
-“Then He came to Udupi, the chief residence of the Tattvavadis, the followers of Madhvacharya. Seeing the Deity of
-Krishna there, He became mad with the overflowing emotions of divine love. There too He saw the wondrously beautiful
-Deity of Dancing Gopala, who had appeared to Madhvacharya in a dream. One day Madhvacharya found this Deity in a heap of
-gopi-chandana being carried on a boat. Madhvacharya brought the Deity to Udupi and duly installed Him in the temple,
-where his followers worship Him to this day. Sri Chaitanya was inexpressibly glad to see this Deity of Krishna. In the
-bliss of prema He sang and danced a great deal.” (CC, Madhya 9.245–249) <!-- F32 Q3 -->
+“He came to the seat of Madhvacharya, where the Tattvavadis live, and seeing ‘Krishna’ in Udupi, He became mad with love. He saw the supremely enchanting ‘Nartaka-gopala,’ the dancing Gopala, who had come to Madhvacharya after appearing to him in a dream. Lying in a boat beneath a load of *gopi-chandana*, He somehow came to Madhvacharya. Madhvacharya brought Him and installed Him, and to this day the Tattvavadis serve Him. Seeing the Deity of Krishna, the Lord felt great happiness, and in ecstatic love He danced and sang at length.” (CC, Madhya 9.245–249) <!-- F32 Q3 -->
 
 At first the Tattvavadis took Mahaprabhu for a Mayavadi sannyasi and kept away from Him; but when they saw how deeply He
 was immersed in the bliss of prema, they realised that a Vaishnava stood before them and welcomed Him with deep respect.
@@ -105,9 +100,7 @@ the scriptures reject work for its fruits, and Krishna's devotees will not accep
 valuing them no more than hell. Abashed, the acharya conceded that He was right, but said, “Yet we fully follow the
 practice that Madhvacharya laid down for our whole community.” Then Sri Chaitanya said:
 
-“Neither in selfish pious work nor in the striving for liberation is there devotion to God. And in your community I see
-the marks of both these aims. Of all possible virtues I see only one in your community: you accept the eternal form of
-the Lord, as the holy Deity, to be real.” (CC, Madhya 9.276–277)
+“The *karmi* and the *jnani* are both devoid of devotion, and in your sampradaya I see the signs of both. I see only one merit in your sampradaya: you firmly hold that the Lord's form is real (*satya-vigraha*).” (CC, Madhya 9.276–277)
 
 Thus the Lord broke the pride of the Tattvavadis, who held their practice to be the model of Vaishnavism. His reproach
 concerned the practice of the Tattvavadi community of His day, while the one virtue He acknowledged in it — the eternal

@@ -352,8 +352,7 @@ On the morning of 30 December 1978, at the Calcutta math, at Bhakti Ballabha Tir
 orders not to talk much, he gave instructions to a Western devotee from Chandigarh. Devotion must be exclusive, given
 to Krishna alone, as a faithful wife is devoted to her husband; the demigods are not to be reviled, but neither are
 they to be set on a par with Krishna: “krishnas tu bhagavan svayam” — Krishna is Bhagavan Himself (SB 1.3.28). The
-“Chaitanya-charitamrita” says the same: “Only the original Lord of all that exists, the source of all Avataras and
-manifestations of God, is worthy to be called Svayam Bhagavan” (CC, Adi 2.88). <!-- F83 Q6 -->
+“Chaitanya-charitamrita” says the same: “He from whose Godhood the Godhood of all others proceeds — in Him alone the words “Bhagavan Himself” have their meaning” (CC, Adi 2.88). <!-- F83 Q6 -->
 
 He spoke too of succession. The math is no one's property; there is one acharya, and he is also the president. The
 acharya is not elected by vote — he is indicated by the Lord, from above; so it is in all four sampradayas. Srila
@@ -369,8 +368,7 @@ that same day; the sick must be treated, even on credit — he himself had once 
 provisions, and only Uddharan knew; a householder, Govinda Babu, helped then. He recalled collecting together with
 “Sripad Goswami Maharaj” and Sripad Nemi Maharaj, while Bhakti Pradip Tirtha, Jajabar Maharaj and Sridhar Maharaj went
 with him; he never spent temple money on himself and asked “Kunja-da” only for the cloth he needed. And fame, when
-fled from, follows love for Krishna of itself: “Fearing universal honour, Sri Madhavendra Puri left Remuna. But fame
-followed him, born of his pure love for Krishna” (CC, Madhya 4.147). So in his last instructions he once more said
+fled from, follows love for Krishna of itself: “For fear of fame Puri kept running away, yet together with his love for Krishna, fame came rolling after him.” (CC, Madhya 4.147). So in his last instructions he once more said
 what mattered most: the acharya is appointed from above, devotion belongs to Krishna alone, and money, women and fame
 are the three hindrances. <!-- F86 Q9 F87 Q7 I10 -->
 

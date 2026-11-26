@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Перевод стиха по ссылке из наших файлов (почти без затрат токенов).
-  verse.py "CC Madhya 4.197-199"   — ЧЧ, перевод ВЧД (chaitanya-charitamrita/vcd/txt/CC_<Лила><NN>.txt)
+  verse.py "CC Madhya 4.197-199"   — ЧЧ, перевод ВЧД: выверенная редакция (chaitanya-charitamrita/ed/vcd-rev/),
+                                     если глава выверена, иначе vcd/txt/CC_<Лила><NN>.txt
   verse.py "CB Antya 3.176-178"    — ЧБ, по нашему изданию chaitanya-bhagavata/ed/CB_<Кханда><NN>.md
 Лилы/кханды: Adi, Madhya, Antya. ЧБ — по ed/ (там ручные правки; Мадхья/Антья пересобраны 2026-10-24); запасной
 путь, если стиха в ed нет: Ади — CB_Adi_verses.json, Мадхья/Антья — src/txt/CB_<Кханда><NN>.txt."""
@@ -8,7 +9,23 @@ import re, sys
 from pathlib import Path
 R = Path(__file__).resolve().parents[2]
 
+def cc_rev(lila, ch, a, b):
+    """Выверенная редакция (chaitanya-charitamrita/ed/vcd-rev/CC_<Лила><NN>.md), если глава выверена; иначе None."""
+    f = R / f'chaitanya-charitamrita/ed/vcd-rev/CC_{lila}{ch:02d}.md'
+    if not f.exists(): return None
+    body = f.read_text().partition('\n---\n')[0]
+    vs = {m.group(1): re.sub(r'\s+', ' ', re.sub(r'\[\^[\w-]+\]', '', m.group(2))).strip()
+          for m in re.finditer(r'^\((\d+(?:–\d+)?)\) (.*?)(?=\n\n|\Z)', body, re.M | re.S)}
+    out = []
+    for v in range(a, b + 1):
+        k = next((x for x in vs if x == str(v) or ('–' in x and int(x.split('–')[0]) <= v <= int(x.split('–')[1]))), None)
+        if k is None: out.append(f'({v}) — не найден'); continue
+        out.append(f'({v}) ' + (f'[{k}] ' if '–' in k else '') + vs[k])
+    return out
+
 def cc(lila, ch, a, b):
+    r = cc_rev(lila, ch, a, b)   # выверенная редакция шлок (2026-10: Ади 1–17) — в первую очередь
+    if r is not None: return r
     t = (R / f'chaitanya-charitamrita/vcd/txt/CC_{lila}{ch:02d}.txt').read_text(errors='replace')
     out = []
     for v in range(a, b + 1):

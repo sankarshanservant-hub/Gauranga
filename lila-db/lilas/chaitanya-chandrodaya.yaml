@@ -159,7 +159,7 @@
   scriptures: ["«Вишну-пурана» 1.9.143"]
   event: ev-lakshmipriya-departure
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Царь эпохи, говорят, он жен", to_text: "> он, вечно новый, желая явить урок отре"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Царь эпохи, говорят, Он жен", to_text: "> Он, вечно новый, желая явить урок отре"}
 
 - id: ccd-0009
   source: chaitanya-chandrodaya
@@ -179,7 +179,7 @@
   divergence: "Вишварупа, уходя, передаёт своё сияние (могущество) Парамананде Пури — подробность, которой нет у Мурари и Лочана Даса."
   event: ev-vishvarupa-sannyasa
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **30.** Его старший брат, не взяв себе", to_text: "> передав своё сияние владыке-пури (Пара"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **30.** Его старший брат, не взяв Себе", to_text: "> передав Своё сияние владыке-пури (Пара"}
 
 - id: ccd-0010
   source: chaitanya-chandrodaya
@@ -218,7 +218,7 @@
   themes: [pilgrimage, kirtan]
   event: ev-gaya-ishvara-puri-initiation
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **35.** В самом начале юности он остав", to_text: "Как же жалкому Каме найти тут свой случа"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **35.** В самом начале юности Он остав", to_text: "Как же жалкому Каме найти тут свой случа"}
 
 - id: ccd-0012
   source: chaitanya-chandrodaya
@@ -238,7 +238,7 @@
   divergence: "Нет нападения на Нитьянанду и призыва Сударшаны: Господь Сам зовёт братьев и принимает их грехи, давая воду из Своей руки (у Лочана — туласи)."
   event: ev-jagai-madhai-deliverance
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Друг, не говори так!", to_text: "**Кали.** Друг мой, что может сделать ем"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Друг, не говори так!", to_text: "**Кали.** Друг мой, что может сделать Ем"}
 
 - id: ccd-0013
   source: chaitanya-chandrodaya
@@ -302,7 +302,7 @@
   teaching: [holy-name, associates-tattva]
   event: ev-srivasa-saved-from-death
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Господь.** Шривас! Помнишь, как я здес", to_text: "**Господь.** Адвайта, это правда."}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Господь.** Шривас! Помнишь, как Я здес", to_text: "**Господь.** Адвайта, это правда."}
 
 - id: ccd-0016
   source: chaitanya-chandrodaya
@@ -361,7 +361,7 @@
   parallels: "Лочан: lcm-0106; Мурари: mkc-0072, mkc-0075"
   notes: ""
   themes: [mercy, ecstasy]
-  event: ev-shuklambara-mercy
+  event: ev-shuklambara-prema-prayer
   verses:
     - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Шукламбара** *(смиренно)*. Владыка!", to_text: "> и изливается через глаза и волоски."}
 
@@ -384,7 +384,7 @@
   scriptures: ["Бхаг. 10.3.31"]
   event: ev-shachi-receives-prema
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "А сейчас вот что: Шачи-деви, видя в нём ", to_text: "**Адвайта.** Эй, эй, Шривас и другие! В "}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "А сейчас вот что: Шачи-деви, видя в Нём ", to_text: "**Адвайта.** Эй, эй, Шривас и другие! В "}
 
 - id: ccd-0020
   source: chaitanya-chandrodaya
@@ -445,7 +445,7 @@
   themes: [mercy, muslims, revelation]
   event: ev-muslim-tailor
   verses:
-    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Вирага.** Владычица, неужели он всегда", to_text: "**Вирага.** Так оно и есть. А дальше, да"}
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Вирага.** Владычица, неужели Он всегда", to_text: "**Вирага.** Так оно и есть. А дальше, да"}
 
 - id: ccd-0023
   source: chaitanya-chandrodaya
@@ -505,7 +505,7 @@
   themes: [ecstasy]
   event: ev-prema-on-street
   verses:
-    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Вот так я рассказала о ", to_text: "**Вирага.** Ах, он поистине во власти бл"}
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Вот так я рассказала о ", to_text: "**Вирага.** Ах, Он поистине во власти бл"}
 
 - id: ccd-0026
   source: chaitanya-chandrodaya
@@ -752,7 +752,7 @@
   event: ev-navadvipa-lament-after-sannyasa
   verses:
     - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "*(Затем входит Ачарья-ратна.)*", to_text: "Ачарья! Расскажи всё с самого начала."}
-    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Адвайта.** А ты почему не пошёл за ним", to_text: "*Так заканчивается четвёртый акт «Шри Ча"}
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Адвайта.** А ты почему не пошёл за Ним", to_text: "*Так заканчивается четвёртый акт «Шри Ча"}
 
 - id: ccd-0038
   source: chaitanya-chandrodaya
@@ -774,7 +774,7 @@
   scriptures: ["Бхаг. 11.14.3"]
   event: ev-sannyasa-katwa
   verses:
-    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Ачарья-ратна.** Ах, только ради этого ", to_text: "> он не помнит и самого себя, — ах, увы,"}
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Ачарья-ратна.** Ах, только ради этого ", to_text: "> Он не помнит и Самого Себя, — ах, увы,"}
 
 - id: ccd-0039
   source: chaitanya-chandrodaya
@@ -794,7 +794,7 @@
   bhava: [sannyasi]
   event: ev-radha-desha-wandering
   verses:
-    - {file: "chaitanya-chandrodaya/ru/05.md", from_text: "*(Входит Шри Кришна Чайтанья, за ним — Н", to_text: "Посмотрю-ка, скоро ли придёт Адвайта. *("}
+    - {file: "chaitanya-chandrodaya/ru/05.md", from_text: "*(Входит Шри Кришна Чайтанья, за Ним — Н", to_text: "Посмотрю-ка, скоро ли придёт Адвайта. *("}
 
 - id: ccd-0040
   source: chaitanya-chandrodaya
@@ -873,7 +873,7 @@
   themes: [pilgrimage, mercy]
   event: ev-journey-to-puri
   verses:
-    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Увы! Сейчас, когда царь-я", to_text: "Так несколько дней он шёл из леса в лес,"}
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Увы! Сейчас, когда царь-я", to_text: "Так несколько дней Он шёл из леса в лес,"}
 
 - id: ccd-0044
   source: chaitanya-chandrodaya
@@ -892,7 +892,7 @@
   themes: [deities, pilgrimage]
   event: ev-remuna-gopala
   verses:
-    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Зачем?", to_text: "> красоту того, у чьих уст — флейта."}
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Зачем?", to_text: "> красоту Того, у Чьих уст — флейта."}
 
 - id: ccd-0045
   source: chaitanya-chandrodaya
@@ -1091,7 +1091,7 @@
   themes: [deities, pilgrimage]
   event: ev-jiyada-nrisimha
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** А потом он, чья сила непост", to_text: "**Сарвабхаума.** Ты говоришь истинно. Та"}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** А потом Он, Чья сила непост", to_text: "**Сарвабхаума.** Ты говоришь истинно. Та"}
 
 - id: ccd-0055
   source: chaitanya-chandrodaya
@@ -1112,7 +1112,7 @@
   teaching: [prema, bhakti-supremacy]
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** Затем он пришёл на берег Го", to_text: "**Брахман.** Как прикажешь."}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** Затем Он пришёл на берег Го", to_text: "**Брахман.** Как прикажешь."}
 
 - id: ccd-0056
   source: chaitanya-chandrodaya
@@ -1150,7 +1150,7 @@
   themes: [offense, prasada, ecstasy]
   event: ev-bird-snatches-impure-food
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** Однажды Господь шёл, п", to_text: "> и его-то здесь вздумали морочить эти н"}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** Однажды Господь шёл, п", to_text: "> и Его-то здесь вздумали морочить эти н"}
 
 - id: ccd-0058
   source: chaitanya-chandrodaya
@@ -1170,7 +1170,7 @@
   teaching: [holy-name, gaura-tattva]
   event: ev-rama-name-to-krishna-name
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** На другой день он случ", to_text: "так что имя Кришны выше имени Рамы."}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** На другой день Он случ", to_text: "так что имя Кришны выше имени Рамы."}
 
 - id: ccd-0059
   source: chaitanya-chandrodaya
@@ -1238,8 +1238,8 @@
   period: P12
   order: 2
   title: "Жилище в доме Каши Мишры; знакомство с приближёнными Джаганнатхи"
-  summary: "По решению царя Господа поселяют в доме Каши Мишры у Львиных ворот; пашупалы надевают на Него гирлянду прасада; Сарвабхаума представляет Ему слуг Джаганнатхи, махапатр, братьев Рамананды с Ванинатхой и их отца Бхавананду Рая; на слова Сарвабхаумы, что Джаганнатха — Брахман в дереве, а Он — Брахман в человеке, Господь закрывает уши."
-  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@kashi-mishra", "@vaninatha-raya", "@chandaneshvara", "@prataparudra"]
+  summary: "По решению царя Господа поселяют в доме Каши Мишры у Львиных ворот; пашупалы надевают на Него гирлянду прасада; Сарвабхаума представляет Ему слуг Джаганнатхи (среди них писаря Шикхи Махити с братом и сестрой), махапатр, братьев Рамананды с Ванинатхой и их отца Бхавананду Рая; на слова Сарвабхаумы, что Джаганнатха — Брахман в дереве, а Он — Брахман в человеке, Господь закрывает уши."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@kashi-mishra", "@vaninatha-raya", "@chandaneshvara", "@prataparudra", "@shikhi-mahiti"]
   places: ["#puri", "#house-kashi-mishra"]
   kind: lila
   authority: A
@@ -1270,7 +1270,7 @@
   divergence: "Встреча с Парамананда Пури — в Пури, по его приходе из Варанаси (в ЧЧ Мадхья 9 — на юге, затем в Пури); в него «вошла мощь Вишварупы»."
   event: ev-devotees-gather-nilachala
   verses:
-    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Шри Кришна Чайтанья** *(про себя)*. Ах", to_text: "**Сарвабхаума.** Ах, какая природная люб"}
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Шри Кришна Чайтанья** *(про Себя)*. Ах", to_text: "**Сарвабхаума.** Ах, какая природная люб"}
 
 - id: ccd-0064
   source: chaitanya-chandrodaya
@@ -1485,7 +1485,7 @@
   themes: [revelation, mercy]
   event: ev-nakula-brahmachari
   verses:
-    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Мужчина.** Рассказ о том, как он входи", to_text: "**Мужчина.** Тогда по воле судьбы туда в"}
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Мужчина.** Рассказ о том, как Он входи", to_text: "**Мужчина.** Тогда по воле судьбы туда в"}
 
 - id: ccd-0075
   source: chaitanya-chandrodaya
@@ -1602,7 +1602,7 @@
   divergence: "Кулия — по пути в Гауду (до Рамакели), а не на обратном пути из Вриндавана (Мурари, Лочан); встреча с Шачи не упомянута."
   event: ev-kuliya-shachi-meeting
   verses:
-    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Человек.** Затем он прибыл к дому Адва", to_text: "> и потому сама земля там и сям сильно п"}
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Человек.** Затем Он прибыл к дому Адва", to_text: "> и потому сама земля там и сям сильно п"}
 
 - id: ccd-0081
   source: chaitanya-chandrodaya
@@ -1679,7 +1679,7 @@
   themes: [mercy, teaching]
   event: ev-rupa-prayaga
   verses:
-    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Царь.** Сарвабхаума! Отчего же он, так", to_text: "> подобного ему самому, — Господь, едины"}
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Царь.** Сарвабхаума! Отчего же Он, так", to_text: "> подобного Ему Самому, — Господь, едины"}
 
 - id: ccd-0085
   source: chaitanya-chandrodaya
@@ -1852,7 +1852,7 @@
   calendar: "джьяйштха (Снана-пурнима)"
   event: ev-snana-yatra-anavasara-alalanatha
   verses:
-    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входят царь, находящийся на террасе дв", to_text: "> с благоговением образуют вокруг него к"}
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входят царь, находящийся на террасе дв", to_text: "> с благоговением образуют вокруг Него к"}
 
 - id: ccd-0094
   source: chaitanya-chandrodaya

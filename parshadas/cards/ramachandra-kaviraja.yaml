@@ -1,0 +1,119 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/ramachandra-kaviraja.md и lila-db.
+id: "@ramachandra-kaviraja"
+names:
+  ru: "Рамачандра Кавираджа"
+  en: "Ramachandra Kaviraja"
+  variants: ["Шри Рамачандра Кавирадж (B, T, M)", "Рамачандра Сена (B 523; БР 1.264)", "«царь поэтов» (кави-нрипати; БР 1.270, 8.531)", "Кавираджа (в письмах Дживы, БР 14.37)", "Рамачандра Дас (ПВ 19)", "«Кавираджа-Нароттама», «Рамачандра-Нароттама» (БР 1.272–274)"]
+  facts: [F1]
+kind: associate
+circle: [later, vrindavana]
+period: [P15]
+period_note: "Вся жизнь — после сокрытия Господа (P15): Кумаранагар и Шрикханда, встреча со Шринивасой в Яджиграме, Вриндаван у Госвами, Вана-Вишнупур, Будхари, Кхетури, путь с Джахнавой, уход во Вриндаване. Господа лично не видел (Гаурасундара являлся ему во сне, БР 10.224–238); ЧЧ называет его лишь в перечне ветвей Нитьянанды (Ади 11.51, по «Анубхашье»); ЧБ о нём молчит."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#shrikhanda"
+    conf: "место — B 1108 (Шрикханда); T (по шлоке БР 1.270) — «Сараджани» (испорченное название, ⚠7); дом семьи — Кумаранагар (БР 1.249–250; M 153); год и тити не даны; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-22) дня явления нет"
+    facts: [F4, F5]
+  disappearance:
+    date: ""
+    tithi: "Мадхава-маса, кришна-трития (по календарю ШЧСМ: «День ухода Шрилы Рамачандры Кавираджа» — 6 янв. 2026, 25 янв. 2027)"
+    place: "#vrindavana"
+    conf: "B, M — пауша кришна-трития; T — магха кришна-трития: вероятно, тот же лунный день при разном счёте месяцев (⚠11); год не дан; порядок ухода относительно Шринивасы расходится (⚠10); о самадхи источники молчат"
+    facts: [F58, F59, F60, F61]
+origin:
+  places: ["#shrikhanda", "#kumaranagara", "#teliya-budhari"]
+  family: ["@chiranjiva-sena", "@sunanda-mother-ramachandra", "@govinda-kaviraja", "@damodara-sena-kavi"]
+  varna: "вайдья (лекарское сословие; B 1108; M 153; БР 8.532)"
+  facts: [F4, F5, F8, F9, F13, F16]
+  note: "Род из Шрикханды (Чиранджива — ЧЧ Ади 10.78–79, Мадхья 11.92); после ухода отца жил у деда Дамодары в Кумаранагаре; шрипат — Телия Будхари (Муршидабад), куда по его совету переселился Говинда (БР 9.118–133; ⚠18)."
+sampradaya:
+  name: "ученик Шринивасы Ачарьи (линия Гопалы Бхатты Госвами)"
+  facts: [F24, F26]
+relations:
+  - {type: father, who: "@chiranjiva-sena", facts: [F4, F5, F6, F7, F13], events: [ev-ramachandra-kaviraja-birth], note: "Житель Кханды, спутник Господа (ЧЧ Мадхья 11.92); сокрылся, когда сыновья были малы; T «министр царя Гауды» — неверное прочтение шлоки (⚠7)."}
+  - {type: mother, who: "@sunanda-mother-ramachandra", facts: [F4, F10], events: [ev-ramachandra-kaviraja-birth], note: "Дочь Дамодары; по БР 1.243–245 — обещанная проклявшим его дигвиджаи «благословенная дочь»."}
+  - {type: sibling, who: "@govinda-kaviraja", facts: [F8, F13, F14, F16, F42, F54], events: [ev-govinda-kaviraja-initiation], note: "Младший брат; по совету Рамачандры переселился в Телия Будхари (БР 9.118–133; B 940); посвящён Шринивасой по просьбе брата (БР 10.166–175). = @govinda-kaviraja F14–F17."}
+  - {type: grandfather, who: "@damodara-sena-kavi", facts: [F9, F10, F13, F14, F28], events: [ev-ramachandra-kaviraja-birth], note: "Дед по матери, великий поэт Кханды; «ученик Нарахари» (B 1108, T 212) ≠ шакта/почитатель Шивы (M 154, B 939, B 1109; БР 9.143) — ⚠15."}
+  - {type: guru, who: "@srinivasa-acharya", facts: [F20, F21, F22, F23, F24, F26, F31, F33, F37, F41, F42, F44, F48, F50, F60, I1], events: [ev-ramachandra-kaviraja-meets-srinivasa, ev-ramachandra-obedience, ev-srinivasa-samadhi-nose-ring, ev-srinivasa-ramachandra-disappearance],
+     note: "Встреча в Яджиграме на пути со свадьбы; «из рождения в рождение ты мой ближайший друг» (БР 8.544; B — 8.574); мантра Радхи-Кришны; личный слуга (T 212; B 659 — бхритья); вверял ему Виру Хамбира и Нароттаму. = @srinivasa-acharya F87–F89, F93, F125, F131, F135."}
+  - {type: friend, who: "@narottama-dasa", facts: [F43, F46, F47, F48, F49, F51, F55, F60], events: [ev-narottama-bhajana-kheturi, ev-kheturi-festival, ev-narasimha-raya-conversion, ev-srinivasa-ramachandra-disappearance],
+     note: "Неразлучный друг, «второе я» (БР 1.269–276; B 176 — абхиннатма); «Нароттама Дас просит общества Рамачандры» («Прартхана»); вместе в Кхетури; оплакан Нароттамой («Йе анила према-дхана»). = @narottama-dasa F80, F84, F88, F90."}
+  - {type: siksha-guru, who: "@jiva-gosvami", facts: [F33, F34, F37, F38, F44], events: [ev-jiva-srinivasa-letters], note: "Принял его во Вриндаване, повёл к Радха-Дамодаре и самадхи Рупы (БР 9.197–200); дал звание «Кавираджа» (B 1109, B 523, T 212, T 189; ⚠8); писал ему письма (БР 14). = @jiva-gosvami F180."}
+  - {type: met, who: "@gopala-bhatta", facts: [F35, F38], note: "Милость Гопалы Бхатты (B 1111; T 212; M 156); вместе с Шринивасой служил ему (БР 9.216)."}
+  - {type: met, who: "@lokanatha", facts: [F35], note: "Милость Локанатхи (B 1109, 1111; T 212; M 156)."}
+  - {type: met, who: "@bhugarbha", facts: [F35, I3], note: "Милость Бхугарбхи (B 1109, 1111; T 212; M 156); B 265 — Нароттама и Рамачандра как Локанатха и Бхугарбха."}
+  - {type: met, who: "@raghunatha-dasa", facts: [F36], note: "На Радха-кунде обнял его, погрузившись в прему (B 1111; T 212–213; M 199; БР 9.208–210)."}
+  - {type: met, who: "@krishnadasa-kaviraja", facts: [F36], note: "Встреча на Радха-кунде (M 199; БР 9.211). = @krishnadasa-kaviraja F48."}
+  - {type: other, who: "@paramananda-bhattacharya", facts: [F37], note: "Среди давших ему звание «Кавираджа» (БР 1.267–268, по T 212)."}
+  - {type: other, who: "@raghunandana", facts: [F30], note: "С его позволения (B 1109; M 155) или по его слову (БР 9.110–112) пошёл во Вриндаван."}
+  - {type: met, who: "@ishana-navadvipa", facts: [F40], note: "Благословил его в доме Мишры в Майяпуре (B 1110; M 156); по T 67, B 673, B 910, M 201, БР 12 — вместе со Шринивасой и Нароттамой (⚠9)."}
+  - {type: siksha-disciple, who: "@vira-hambira", facts: [F41], events: [ev-ramachandra-instructs-vira-hambira, ev-vira-hambira-conversion], note: "T 212 — его шикша-гуру; Шриниваса вверил ему царя (БР 9.264; 13.53); наставления — «Карнананда» 4–6 (C)."}
+  - {type: disciple, who: "@harirama-acharya", facts: [F49, F50], events: [ev-harirama-ramakrishna-conversion], note: "Ученик, слагатель пад (B 1111; M 156; B 675; БР 15.114); T 210 — посвящён Нароттамой (⚠13)."}
+  - {type: co-worker, who: "@ganganarayana-chakravarti", facts: [F51], events: [ev-narasimha-raya-conversion], note: "Вместе в облике гончара и торговца бетелем победили смартов на рынке Кумарапура (B 1110; T 210; M 121–122; НВ 10.171–187)."}
+  - {type: opposed, who: "@rupa-narayana", facts: [F51, F52], events: [ev-narasimha-raya-conversion], note: "Пандит-дигвиджаи, побеждённый в Кумарапуре выводами «Бхагаваты» (B 1110, по скану); затем ученик Нароттамы."}
+  - {type: opposed, who: "@narasimha-raya", facts: [F51, F52], events: [ev-narasimha-raya-conversion], note: "Раджа, шедший со смартами против Нароттамы; после спора в Кумарапуре и сна — ученик Нароттамы."}
+  - {type: other, who: "@jahnava", facts: [F55], events: [ev-jahnava-returns-through-kheturi, ev-kheturi-festival], note: "Встречал её в Кхетури (M 69; БР 11.302–308), проводил из Кхетури в Будхари и к Экачакре (БР 11.361–404); T 200 — она гостила в Будхари, «доме Рамачандры»."}
+  - {type: companion, who: "@shyamananda", facts: [F34, F39, F41, F42], events: [ev-srinivasa-second-vrindavana], note: "Вместе со Шринивасой во Вриндаване (M 199; T 206) и на пути в Вана-Вишнупур (БР 9.227–236)."}
+  - {type: other, who: "@draupadi-ishvari", facts: [F44], note: "Поклонился обеим Ишвари; её вопрос о его смехе в ночь полнолуния (БР 14.50, 14.57–62)."}
+  - {type: other, who: "@mahaprabhu", facts: [F43], note: "Гаурасундара явился ему во сне в Будхари: «По Моей воле ты не знаешь самого себя… вы с Нароттамой будете раздавать Мою према-бхакти» (БР 10.224–238)."}
+  - {type: other, who: "@shiva", facts: [F28, F29], note: "Ответ шактам: Шива и Брахма — гуна-аватары Кришны (B 1109; M 155; ⚠Б3)."}
+  - {type: other, who: "@durga", facts: [F52], events: [ev-narasimha-raya-conversion], note: "Во сне велела радже Нарасимхе искать прибежища у Нароттамы (⚠Б5)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F17, F63], note: "«Анубхашья» к ЧЧ Ади 11.51: с рождения отрешён; сын Чирандживы, ученик Шринивасы, имя «Кавирадж» — от Дживы."}
+  - {type: other, who: "@ramachandra-poet", facts: [F57], note: "Пада с подписью «Рамачандра Дас», которую M относит к нему; тождество не установлено (⚠16)."}
+  - {type: other, who: "@ramachandra-puri", facts: [], note: "Тёзка, не путать."}
+  - {type: other, who: "@ramachandra-virachandra", facts: [], note: "Тёзка, не путать: ученик (приёмный сын) Вирачандры."}
+  - {type: other, who: "@ramacharana-chakravarti", facts: [], note: "Тёзка, не путать: Рамачандра (Рамачаран), сын Гопалы Чакраварти, шурин Шринивасы (B 670; M 197)."}
+identities:
+  - {in: krishna-lila, as: "Каруна-манджари", source: "B 1108; «Гаудия-вайшнава-абхидхана» (по T 212); ПВ 19.1–55, «Карнананда» 3 (в облике Каруна-манджари находит кольцо Радхи)", level: C, facts: [F2], variants: []}
+events:
+  - ev-ramachandra-kaviraja-birth
+  - ev-ramachandra-kaviraja-meets-srinivasa
+  - ev-ramachandra-obedience
+  - ev-srinivasa-second-vrindavana
+  - ev-vira-hambira-conversion
+  - ev-ramachandra-instructs-vira-hambira
+  - ev-srinivasa-samadhi-nose-ring
+  - ev-govinda-kaviraja-initiation
+  - ev-narottama-bhajana-kheturi
+  - ev-harirama-ramakrishna-conversion
+  - ev-narasimha-raya-conversion
+  - ev-kheturi-festival-invitations
+  - ev-kheturi-festival
+  - ev-jahnava-returns-through-kheturi
+  - ev-jiva-srinivasa-letters
+  - ev-srinivasa-ramachandra-disappearance
+events_note: "Первое путешествие Рамачандры во Вриндаван (БР 9.109–236), спор с шактами (B 1109) и сон о Гаурасундаре (БР 10.224–238) отдельными событиями в lila-db не выделены; обход Навадвипы со Шринивасой и Нароттамой (БР 12) — без события с его тегом."
+teachings_given:
+  - {teaching: "поклонение Кришне — поклонение всем (полив корня); Шива и Брахма — гуна-аватары", facts: [F29, I4]}
+teachings_received: []
+works:
+  - {title: "«Смарана-чаматкара»", facts: [F56]}
+  - {title: "«Смарана-дарпана»", facts: [F56]}
+  - {title: "«Сиддханта-чандрика»", facts: [F56]}
+  - {title: "«Жизнеописание Шринивасы Ачарьи» (Шринивасачарьера дживана-чарита)", facts: [F56]}
+  - {title: "пада «Дэкха дэкха аре бхаи, Гауранга-чанда паракаша» (подпись «Рамачандра Дас»; атрибуция M, ⚠16)", facts: [F57]}
+places: ["#shrikhanda", "#kumaranagara", "#teliya-budhari", "#yajigrama", "#gaya", "#kashi", "#prayaga", "#mathura", "#vrindavana", "#radha-damodara-temple", "#arita", "#radha-kunda", "#govardhana", "#kharadaha", "#ambika-kalna", "#mayapur", "#navadvipa", "#vana-vishnupura", "#kheturi", "#kumarapura", "#padmavati", "#ekachakra"]
+places_facts: [F4, F5, F13, F16, F21, F27, F32, F34, F36, F39, F40, F41, F42, F49, F51, F55, F58]
+places_note: "Родом из Шрикханды (B) — семья из Кумаранагара на Бхагиратхи (БР 1.249; M 153); детство у деда в Кумаранагаре; шрипат — Телия Будхари (Муршидабад, между Гангой и Падмавати); Яджиграм — дом Шринивасы; путь во Вриндаван через Гаю, Каши, Праягу и Матхуру (Вишрама-гхат); во Врадже — храм Радха-Дамодары, Арита и Радха-кунда, Говардхан; возвращение — Шрикханда, Яджиграм, Кхардаха, Амбика-Кална, Майяпур (B, M); Кумарапур под Кхетури — спор со смартами; уход — во Вриндаване."
+character:
+  - {trait: "безраздельная преданность гуру: служит Шринивасе как слуга, во всём послушен", facts: [F24, F38, F45]}
+  - {trait: "неразлучная дружба с Нароттамой — «одно тело, ум и жизнь»", facts: [F46, F47]}
+  - {trait: "бесстрашие и твёрдость в вере: тилака и Хари-нама перед гневом шактов, ответ из шастр", facts: [F27, F29]}
+  - {trait: "учёность и поэтический дар («царь поэтов»), обращённые на служение: побеждает смартов в облике торговца", facts: [F15, F37, F51]}
+  - {trait: "смирение и сладостный нрав, покорившие Госвами Вриндавана", facts: [F38, F44, F57]}
+  - {trait: "глубокая разлука со спутниками Господа, в которой он ушёл в вечные игры", facts: [F55, F58]}
+significance: {facts: [F2, F3, F47, F50, F53, F54, I1, I3, I5]}
+sources:
+  T: "212–213 (гл., pdf 244–245); 67, 69, 189, 200, 206, 210"
+  M: "153–157 (гл., pdf 179–183); 66, 69, 118–119, 121–123, 197–199, 201, 203–204"
+  B: "1108–1111 (гл., pdf 1132–1135); 176, 265, 523, 659, 670, 673–675, 679–680, 910, 939–940, 1101"
+  other: ["«Бхакти-ратнакара» 1.236–277, 8.519–555, 9.71, 9.109–264, 10.144–296, 11.302–404, 11.680, 12.26–135, 13.45–155, 14.29–65, 15.113–114", "«Нароттама-виласа» 10.165–187, 11.212–221", "«Према-виласа» 13.386–409, 14.30–101, 18, 19.1–55, 19.242–246 (C)", "«Карнананда» 1.76–108, 3.134–500, 4–6 (C)", "«Анурага-валли» 6.124–140, 6.211–227 (C)", "ЧЧ Ади 10.78–79, 11.51; Мадхья 11.92; «Анубхашья» к Ади 10.78–79, 11.51"]
+article: {ru: "parshadas/ru/ramachandra-kaviraja.md", en: "parshadas/en/ramachandra-kaviraja.md"}
+open_questions:
+  - "Ушёл ли он из мира до Шринивасы или после (⚠10)."
+  - "Место рождения: Шрикханда (B) или Кумаранагар (дом семьи по БР 1.249, M 153) (F5)."
+  - "Был ли он женат: «Абхидхана», M, БР 8 — да; Бхактисиддханта — «с рождения отрешён» (⚠Б1)."
+  - "Возвращение из Вриндавана и встреча с Ишаной — одному (B, M) или со Шринивасой и Нароттамой (БР, T 67) (⚠9)."
+  - "Принадлежит ли ему пада с подписью «Рамачандра Дас» (⚠16)."

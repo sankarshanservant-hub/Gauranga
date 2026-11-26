@@ -11,15 +11,13 @@ The word itself explains who the gopalas are: it is the name of the cowherd frie
 The mahajanas count the twelve gopalas among the companions of Baladeva, who came into the world as Nityananda, and
 Krishnadasa Kaviraja Gosvami says of Nityananda's whole circle:
 
-“All the companions of Sri Nityananda were formerly cowherd boys in Vraja. Each of them had a staff and a horn; they
-wore the dress of cowherds, and peacock feathers adorned their hair.” (CC, Adi 11.21) <!-- F2 Q1 -->
+“All of Nityananda’s associates are cowherd friends from Vraja. Each carries a horn and a staff and wears the dress of a cowherd, with a peacock feather on his head” (CC, Adi 11.21) <!-- F2 Q1 -->
 
 Sundarananda is Baladeva's eternal companion in the pastimes of Vraja, and with Him he came into the pastimes of
 Nityananda. The “Chaitanya-charitamrita,” where Krishnadasa Kaviraja counts the branches of Nityananda's
 tree, says of him:
 
-“Sundarananda, a branch of Sri Nityananda, is known as one of His closest servants. With him Nityananda performed
-deeds that repeated the pastimes of Vraja.” (CC, Adi 11.23) <!-- F3 F4 Q2 I1 -->
+“Sundarananda, a branch of Nityananda, was His intimate servant, and with him Nityananda enjoyed the playful pastimes of Vraja” (CC, Adi 11.23) <!-- F3 F4 Q2 I1 -->
 
 He was one of those to whom Nityananda's heart lay open, and with him Nityananda enjoyed the playful pastimes of
 Vraja. Vrindavana Dasa Thakura, who called himself the last servant of Nityananda, names him the foremost in His circle:
@@ -48,7 +46,7 @@ Pandita bathed and adorned Nityananda. His name also stands in the lists of Nity
 He was with Nityananda, too, at the famous chida-dadhi festival at Panihati, where Raghunatha Dasa fed everyone flat
 rice with yogurt. Counting Nityananda's companions at that festival, Krishnadasa Kaviraja names:
 
-“Ramadasa, Sundarananda, Gadadhara Dasa, Murari, Kamalakara, Sadashiva and Purandara.” (CC, Antya 6.61) <!-- F20 Q6 -->
+“Ramadasa, Sundarananda, Gadadhara Dasa, Murari, Kamalakara, Sadashiva, Purandara…” (CC, Antya 6.61) <!-- F20 Q6 -->
 
 The “Nityananda-vamsha-vistara” tells how Jahnava Devi, setting out for Ekachakra, called Ramadasa, Ramai, Sundarananda
 and Jnanadasa to go with her; and later, when Virachandra set out for Vrindavana, he sent Ramai, Sundarananda and other
@@ -66,6 +64,12 @@ He possessed great power. His best-known wonder is preserved by Devakinandana in
 (“Vaishnava-vandana” of Devakinandana, 84)[^2]
 
 These flowers, it is said, he afterwards offered in the service of the Deity Radha-ramana. <!-- F21 F22 Q7 -->
+
+Narahari Chakravarti calls on him too in the “Namamrita-samudra,” his book of appeals to the Lord's associates —
+together with Saranga:
+
+“Saranga, Sundarananda, generous Govinda! Free me from the torments of samsara.” (“Namamrita-samudra” 51)
+<!-- F34 -->
 
 Tradition adds that in the divine madness of love he would catch crocodiles and bring them along with him; once he
 dived into a river and pulled out a crocodile. Jayananda writes of the same. He would also, it is said, catch tigers of

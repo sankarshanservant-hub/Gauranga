@@ -11502,7 +11502,7 @@ both cheeks radiant, His form beautiful.
 [^09-9]: Here and further on (vv. 59, 75, 90) Lochana Dasa describes the attraction of the women of Nadia to Gaura in the spirit of his *nagari-bhava*, in which Gaura is the *nagara*, the beloved of the townswomen. The Gaudiya tradition, following Vrindavana Dasa and Krishnadasa Kaviraja, does not accept worship of Gaura in such a bhava; Bhaktisiddhanta counts the "Gaura-nagari" among the deviant schools. We translate the text as it stands.
 [^09-10]: In A this stanza is given in brackets together with the disha and is unnumbered; in the 1983 edition it is the first stanza of the song.
 [^09-11]: Sindura is red powder, the mark of a married woman; pithali is rice paste for auspicious designs; they are distributed to women at a birth festival.
-[^09-12]: The name comes from *nim*, the bitter neem tree: by custom a child is given a "bitter" name to avert misfortune and the evil eye. According to the *Chaitanya-charitamrita* (Adi 13.118), the name Nimai was given by Sita Thakurani to protect Him from witches.
+[^09-12]: The name comes from *nim*, the bitter neem tree: by custom a child is given a "bitter" name to avert misfortune and the evil eye. According to the *Chaitanya-charitamrita* (Adi 13.117), the name Nimai was given by Sita Thakurani to protect Him from witches.
 [^09-13]: *Ashtakalai* — the distribution to children of eight kinds of pulses and grains on the eighth day after birth; on the ninth night, a festival with music.
 
 ---
@@ -38128,7 +38128,7 @@ and Jagai and Madhai remained, astonished.
 [^30-6]: Vv. 36–41 — the reasons for the Lord's descent: to taste His own bhava and to establish the dharma of the age, the sankirtana of the name (cf. Chaitanya-charitamrita, Adi 3–4, where the inner reason is to taste Radha's love, and the outer one to spread the holy name and the prema of Vraja). Cf. Gita 4.8 on "destroying irreligion and establishing dharma".
 [^30-7]: Vv. 43–46 — a list of associates; the presence of Narahari and Raghunandana, as above (en/29, note 7), is mentioned only by Lochana Dasa.
 [^30-8]: "Tying it fast" — literally "making a knot (granthi)": perhaps counting the names on knots of a string is also meant.
-[^30-9]: "Masters (thakuras) of Navadvipa" — according to the Chaitanya-bhagavata (Madhya 13), Jagai and Madhai, brothers of a noble brahmana family, were the town's keepers of order (kotwals) and were sunk in vice.
+[^30-9]: "Masters (thakuras) of Navadvipa" — according to the Chaitanya-bhagavata (Madhya 13), Jagai and Madhai, brothers of a respectable brahmana family, were sunk in vice and acknowledged no authority over them: they never appeared before the court and heeded neither the king's punishment nor the town watch (the kotwal) (Madhya 13.34).
 [^30-10]: V. 62+1 is found only in the 1983 edition; the 1903 edition gives it in a footnote as an additional reading of one printed book. Kayasthas are the caste of scribes. Cf. en/31, v. 148+1.
 [^30-11]: The story of Ajamila is Bhagavata 6.1–2: the dying sinner called his son named Narayana, and even such an utterance of the name — namabhasa, the "shadow of the name", the name directed to another — saved him. Bhaktisiddhanta's summary stresses precisely this.
 [^30-12]: V. 96+1 is found only in the 1983 edition (the 1903 edition lacks it).

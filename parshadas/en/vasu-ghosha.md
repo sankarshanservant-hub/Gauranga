@@ -25,14 +25,13 @@ nor the place of Vasudeva's birth, nor the day of his appearance, is given in th
 Krishnadasa Kaviraja in the “Chaitanya-charitamrita” calls the three brothers branches of Sri Chaitanya's tree[^3], and
 first of all he recalls their singing — the very thing for which they were loved:
 
-“Three brothers — Govinda, Madhava and Vasudeva. When they sang kirtana in self-forgetfulness, Sri Chaitanya and
-Nityananda danced.” (CC, Adi 10.115) <!-- F5 Q5 -->
+“Govinda, Madhava and Vasudeva were three brothers, and when they sang kirtana, Chaitanya and Nitai danced” (CC, Adi 10.115) <!-- F5 Q5 -->
 
 Listing Nityananda's companions later on, Kaviraja Gosvami says that some of them are counted in two communities at
 once — among the devotees of Sri Chaitanya and among the devotees of Nityananda. Such are Abhirama Thakura and
 Gadadhara Dasa, and such are two of the brothers as well:
 
-“Madhava and Vasudeva Ghosha also belonged to both these groups.” (CC, Adi 11.15)
+“Therefore they are counted in both groups, and so it is with Madhava and Vasudeva Ghosha” (CC, Adi 11.15)
 
 Govinda, who stayed with the Lord, the biographies count among the branches of Sri Chaitanya alone; of Vasudeva no
 such remark is made: his place is in both ganas. <!-- F4 Q2 F6 -->
@@ -56,16 +55,14 @@ Her as the highest shelter of that love. <!-- F14 -->
 When Mahaprabhu settled in Puri, He sent Nityananda to preach in Gauda, Bengal. Two of the brothers went with Him; the
 third stayed with the Lord:
 
-“By the direct order of Sri Chaitanya, Nityananda Prabhu set out for Bengal together with three devotees. These three
-devotees were named Ramadasa, Madhava and Vasudeva Ghosha. Govinda Ghosha, however, remained with Sri Chaitanya, and was
-exceedingly glad of it.” (CC, Adi 10.117–118) <!-- F31 Q5 -->
+“At the Lord’s command Nityananda went to Gauda, and by the Lord’s command three devotees went with Him: Sri Ramadasa, Madhava and Vasudeva Ghosha. Govinda stayed with the Lord, and was overjoyed to do so” (CC, Adi 10.117–118) <!-- F31 Q5 -->
 
 In Bengal Nityananda danced and the brothers sang. Vrindavana Dasa Thakura in the “Chaitanya-bhagavata” singles out
 Madhava:
 
 “The pious Madhava Ghosha was the most skilled in singing kirtana. In this he had no equal in all the world. He was
 known as the singer of the Lord's pastimes in Vrindavana, and he was very dear to Lord Nityananda. The three brothers —
-Madhava, Vasudeva and Govinda — sang while Lord Nityananda danced.” (CB, Antya 5.257–259) <!-- F29 Q3 -->
+Madhava, Govinda and Vasudeva — sang while Lord Nityananda danced.” (CB, Antya 5.257–259) <!-- F29 Q3 -->
 
 Srila Bhaktisiddhanta Sarasvati Thakura, in the “Gaudiya-bhashya” on this verse, calls all three brothers "singers of
 Vrindavana"[^4]. Their singing had nothing in common with that of worldly performers: the brothers were wholly given to kirtana, and they had no worldly notions. Here lies the meaning
@@ -86,15 +83,11 @@ Every year Vasudeva and his brothers walked from Gauda to Nilachala — together
 devotees of Bengal — and came for the Ratha-yatra. There their famous kirtana increased the Lord's joy. The
 “Chaitanya-charitamrita” speaks of the third year of these journeys:
 
-“With their travelling bags, Acharyaratna, Vidyanidhi, Shrivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and
-Govinda with his two brothers set out on the road. The residents of Kulinagrama joined them too, bringing new silken
-ropes.” (CC, Madhya 16.16) <!-- F36 Q10 -->
+“Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava Pandita packed his bags (*jhali*) for the journey, and the residents of Kulina-grama came bringing silk ropes.” (CC, Madhya 16.16) <!-- F36 Q10 -->
 
 At the Ratha-yatra Mahaprabhu divided the singers into seven groups. The Ghosha brothers sang in the fourth:
 
-“The Lord formed the fourth group, headed by the kirtaniya Govinda Ghosha. Junior Haridasa, Vishnudasa and Raghava were
-to sing the responses with him in the kirtana, as well as the two brothers — Madhava and Vasudeva Ghosha. Vakreshvara
-Pandita was chosen as the dancer.” (CC, Madhya 13.42–43)
+“He formed another group with Govinda Ghosha as the leader, in which Haridasa, Vishnudasa and Raghava sang, with the two brothers Madhava and Vasudeva Ghosha; and Vakreshvara Pandita danced there.” (CC, Madhya 13.42–43)
 
 Before Jagannatha's chariot Vasudeva sang together with his brothers, and Vakreshvara Pandita himself danced before
 them[^6]. <!-- F35 Q6 -->
@@ -111,8 +104,7 @@ of Narahari). <!-- F17 Q8 -->
 All of Vasudeva's genuine songs are about Sri Gaura. They are very simple, full of sweetness, and touch the depths of
 the heart. Not without reason did Krishnadasa Kaviraja say of him:
 
-“When Vasudeva Ghosha sang kirtana glorifying Sri Chaitanya and Nityananda, at the sound of his voice even wood and
-stone would sometimes melt.” (CC, Adi 11.19) <!-- F18 F19 Q4 F27 -->
+“When Vasudeva sang of the Lord, even wood and stone would melt to hear him” (CC, Adi 11.19) <!-- F18 F19 Q4 F27 -->
 
 Vasu paints the Lord's childhood as if he himself were standing in Shachi's courtyard. Little Vishvambhara plays
 hide-and-seek with His mother[^7]:
@@ -211,6 +203,12 @@ of his departure, like the place of his samadhi, are not given in the biographie
 Yet even after the departure of Mahaprabhu and His companions the Ghosha brothers did not leave the kirtana. According
 to the “Bhakti-ratnakara” (10.572 ff.), when Narottama Dasa sang at the great festival in Kheturi, Sri Chaitanya appeared
 there with His companions, and among them were Madhava Ghosha, Vasu Ghosha and Govinda Ghosha. <!-- F39 Q9 -->
+
+Narahari Chakravarti remembers him too: in the “Namamrita-samudra,” where his prayers call upon the Lord's associates,
+Vasu Ghosha is named in one row with Murari, Govinda and Mukunda:
+
+“Murari, Govinda, O Mukunda, Vasu Ghosha! Clasping your feet I pray: forgive my faults.” (“Namamrita-samudra” 21)
+<!-- F40 -->
 
 ## Significance
 Vasu Ghosha is an eternal companion of Gaura, the sakhi Gunatunga of Sri Radha's circle, the singer to whose voice Sri

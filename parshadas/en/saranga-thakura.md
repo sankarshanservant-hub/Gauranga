@@ -8,7 +8,7 @@ known by several names: Sarangadasa, Sharnga Thakura, Sharngapani and Sharngadha
 Krishnadasa Kaviraja Gosvami, listing the branches of Sri Chaitanya's tree in the “Chaitanya-charitamrita,” names him
 alongside Ramadasa, Kavidatta, Sri Gopaladasa and Bhagavatacharya:
 
-“Ramdas, Kavidatta, Sri Gopal Das, Bhagavat Acharya, Thakura Sharanga Das.” (CC, Adi 10.113)
+“Ramadasa, Kavidatta, Sri Gopala Dasa, Bhagavatacharya, Thakura Saranga Dasa;” (CC, Adi 10.113)
 
 Everyone named in this line is a prominent branch of the tree. <!-- F3 Q1 -->
 
@@ -34,6 +34,12 @@ says:
 And the Bengali tripadi vandana adds that “six score” — a hundred and twenty — snakes lived in his patched quilt
 (tripadi “Vaishnava-vandana,” 89). One absorbed in the holy name knows no fear, and even snakes found shelter beside
 him. <!-- F30 -->
+
+Narahari Chakravarti, in the “Namamrita-samudra,” his prayers to the Lord's associates, calls on him together with
+Sundarananda:
+
+“Saranga, Sundarananda, generous Govinda! Free me from the torments of samsara.” (“Namamrita-samudra” 51)
+<!-- F33 -->
 
 ## The Vow and the Lord’s Will
 Saranga Thakura displayed the pastime of a supremely solitary bhajana. It is said that he vowed never to accept

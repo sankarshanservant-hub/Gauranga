@@ -20,7 +20,7 @@ of the Raja Pandita (Vishnupriya).” (CB, Adi 1.110)
 The wedding itself he describes in detail in the fifteenth chapter of the Adi-khanda. Krishnadasa Kaviraja in the
 “Chaitanya-charitamrita” records it in a single line:
 
-“Then Nimai married Vishnupriya, the goddess of fortune.” (CC, Adi 16.25)
+“Then came His marriage to Vishnupriya Thakurani” (CC, Adi 16.25)
 
 He passes at once to the Lord's victory over the digvijayi; beyond this the “Charitamrita” says not a word about
 Vishnupriya. The matchmaking and the wedding are described by Murari Gupta in his “Kadacha” (first prakrama, sargas
@@ -132,7 +132,7 @@ The wedding ceremonies fell on the following day. Towards evening the devotees a
 oils, a crescent of sandal on His forehead, a crown, garlands, garments, collyrium on His eyes, on His wrist a thread with
 rice and kusha grass, in His hand a banana leaf and a little mirror, golden earrings, bracelets and chains. Before setting
 out Gaurasundara bowed at the feet of His mother, the brahmanas and His teacher. The palanquin for the groom was prepared
-by Buddhimanta Khan, and his foot soldiers and servants walked behind it. First the Lord was carried to the Ganga; He
+by Buddhimanta Khan, and his foot soldiers walked at the head of the procession (CB, Adi 15.145). First the Lord was carried to the Ganga; He
 bathed and honoured Ganga Devi, and then, after midday, the groom in His palanquin was borne along the riverbank through
 the whole of Navadvipa to the bride's house. From every side rang out “Jaya! Jaya!” and the women's ulu-dhvani. Hundreds
 and thousands of torches and lamps lit the procession, fireworks soared and a rain of flowers fell; banners were carried,
@@ -493,8 +493,8 @@ After the Lord's sannyasa Ishana Thakura took upon himself the care of Shachi, o
 Bhaktisiddhanta, in the “Gaudiya-bhashya” on the “Chaitanya-bhagavata” (Madhya 8.73), says that by serving the Lord's
 mother and wife even after His sannyasa, Ishana became “the most blessed of the blessed.” For service to a devotee is higher
 than service to the Lord Himself: Ishana served Shachi and Vishnupriya and received their love, and the Lord's mercy
-comes by way of the devotee's. Ishana lived very long — he outlived Vishnupriya and all of Mahaprabhu's devotees in
-Navadvipa. <!-- F99 I4 F100 -->
+comes by way of the devotee's. Ishana lived very long — he outlived Vishnupriya and almost all of Mahaprabhu's devotees in
+Navadvipa: “almost all in Navadvipa have disappeared,” says the “Bhakti-ratnakara” (11.721). <!-- F99 I4 F100 -->
 
 Beside him Vamshivadana Thakura was blessed with service: he became the servant and protector of Vishnupriya and Shachi.
 After Mahaprabhu's disappearance Vishnupriya took him as her servant, and, it is said, he was the first to receive her
@@ -620,20 +620,20 @@ beloved Vishnupriya came out of the granary and sat on Narottama's lap.” Narot
 installed Them there; today They are served in Gambhila[^23]. <!-- F142 F141 Q12 F143 -->
 
 At the great festival in Kheturi, on Phalguni Purnima, Narottama revealed six Deities: Gauranga with Vishnupriya,
-Vallabhikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Prema-vilasa” 19; “Narottama-vilasa” 6). It
+Vallavikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Prema-vilasa” 19; “Narottama-vilasa” 6). It
 is said that in Shrikhanda too, by the order of Narahari Sarakara, Raghunandana's son Kanai Thakura revealed the service of
 Gauranga and Vishnupriya. <!-- F140 F144 -->
 
-Three centuries later this service was revived by Bhaktivinoda Thakura. In 1892 (the 20th of Phalguna, 1299 of the Bengali
+Three centuries later this service was revived by Bhaktivinoda Thakura. In 1893 (the 20th of Phalguna, 1299 of the Bengali
 era), at a meeting in Mayapur, Jagannatha Dasa Babaji proposed that Jagannatha Mishra and Shachi be worshipped in one
 building and Mahaprabhu with Lakshmi and Vishnupriya at His sides in another; the Pancha-tattva in Srivasa-angana. In
 January 1894 a meeting convened by Bhaktivinoda at the A. B. school in Krishnanagar resolved to establish Deities at the
 Lord's birthplace; the “Navadvipa-pracharini-sabha” was founded, and Dvarakanath-babu, Naphar-babu and others resolved to
-build a hut there for the Deities of Gaura and Vishnupriya. On Friday, 21 March 1894 (the 9th of Chaitra, 1300 of the
+build a hut there for the Deities of Gaura and Vishnupriya. On Wednesday, 21 March 1894 (the 9th of Chaitra, 1300 of the
 Bengali era), on Phalguni Purnima, during a lunar eclipse, amid loud kirtana, the Deities of Gaura and Vishnupriya were
 installed; for Their service the committee “Sri Mayapur Seva Samiti” was formed, joined by many well-known people. Thus
 Bhaktivinoda — following Narottama and with the permission of Jagannatha Dasa Babaji — revealed the service of
-Gaurasundara with Vishnupriya in Gaura's home in Mayapur. <!-- F145 F146 F147 -->
+Gaurasundara with Vishnupriya in Gaura's home in Mayapur[^24]. <!-- F145 F146 F147 -->
 
 The meaning of this service Srila Bhaktisiddhanta expressed in a song appended to his “Anuvritti” on the “Upadeshamrita.”
 Some, he says, call for worshipping Vishnupriya all one's life, abandoning the path of Rupa and the service of
@@ -645,7 +645,14 @@ established Priya and Hari in Mayapur as his duty. <!-- F148 -->
 
 Srila Bhaktisiddhanta also chose the day of Vishnupriya's appearance to re-establish the “Vishva-vaishnava-raja-sabha”:
 this took place amid kirtana on 5 February 1919 at the Ultadanga Math, the Bhaktivinoda-asana, and the “Amrita Bazar
-Patrika” wrote about it[^24]. <!-- F149 -->
+Patrika” wrote about it[^25]. <!-- F149 -->
+
+Among the prayers of the “Namamrita-samudra,” in which Narahari Chakravarti calls upon the Lord's associates, is one
+addressed to her and Lakshmipriya:
+
+“Lakshmi and Vishnupriya Devi, with your companions! Be merciful: may the pastimes in Nadia abide in my mind.”
+(“Namamrita-samudra” 6)
+<!-- F168 -->
 
 ## Significance
 The life of Vishnupriya Devi is service to the Lord in two forms: at home, as Lakshmi beside Gaura-Narayana, and in
@@ -721,5 +728,7 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
     hissed there, and the Deities came of Themselves into his hands.
 [^23]: One biography, speaking of the Deity in Gambhila, at once calls these Deities “Sri Gauranga and Nityananda,” which
     disagrees both with the “Bhakti-ratnakara” (10.202) and with the other testimonies.
-[^24]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
+[^24]: One biography places this day (20 Phalguna 1299) in 1892 and calls 21 March 1894 a Friday; by calculation 20
+    Phalguna 1299 is 2 March 1893, a Thursday, and 21 March 1894 was a Wednesday.
+[^25]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
     February”; one of the two dates is evidently mistaken.

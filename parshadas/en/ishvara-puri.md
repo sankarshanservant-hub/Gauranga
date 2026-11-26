@@ -12,11 +12,9 @@ He was the dearest disciple of Madhavendra Puri — so Srila Bhaktisiddhanta Sar
 on the “Charitamrita” (Adi 9.10). Krishnadasa Kaviraja, depicting Sri Chaitanya's tree of devotion, places him second,
 after his guru:
 
-“All glory to Sri Madhavendra Puri, the storehouse of pure loving service to Krishna! In him this desire tree of
-bhakti first sprouted.” (CC, Adi 9.10)
+“Glory to Sri Madhava Puri, brimming with love for Krishna! He is the first sprout of the wish-fulfilling tree of bhakti” (CC, Adi 9.10)
 
-“And then this seed of the desire tree of bhakti took the form of a new sprout — Sri Ishvara Puri. And soon the
-Gardener Himself, Sri Chaitanya Mahaprabhu, became the main trunk of this tree of bhakti.” (CC, Adi 9.11)
+“In the form of Sri Ishvara Puri the sprout grew strong, and then the gardener, Sri Chaitanya Himself, became the trunk of the tree” (CC, Adi 9.11)
 
 In Madhavendra the seed of devotion first sprouted, in Ishvara Puri the sprout grew strong, and then the Gardener
 Himself became the trunk. The great souls say the same in other words: the root of the tree of shringara-rasa is
@@ -25,10 +23,9 @@ Madhavendra, Ishvara Puri is its shoot, and Mahaprabhu is the main trunk. <!-- F
 His coming into the world was also part of the Lord's design. Before descending, Krishna sends ahead those whom He
 will honour as parents, teachers and elders:
 
-“Before descending to the Earth, Krishna sends here many of His devotees, who accept the roles of His venerable
-forebears, teachers and elders.” (CC, Adi 3.92)
+“When Krishna descends to earth, He first causes His elders to appear” (CC, Adi 3.92)
 
-“Madhavendra Puri, Ishvara Puri, Srimati Shachimata and Jagannatha Mishra appeared together with Advaita Acharya.”
+“Madhavendra Puri, Ishvara Puri, Shachi and Jagannatha appeared, and Advaita Acharya appeared along with them”
 (CC, Adi 3.94)
 
 The “Charitamrita” lists the same circle of elders elsewhere too (Adi 13.53–55), and Lochana Dasa in the
@@ -94,13 +91,7 @@ chance to serve; and by the guru's mercy the disciple attains perfection. <!-- F
 
 Madhavendra answered this service with a blessing that shaped the whole of his disciple's later life:
 
-“Fully pleased with Ishvara Puri, Madhavendra Puri embraced him and blessed him: ‘May you obtain all the wealth of
-divine love for Krishna.’
-
-Thus Ishvara Puri became like an ocean of love for Krishna, while Ramachandra Puri became an inveterate critic.
-
-Thus these two disciples became a testimony to the consequences of the blessing and the rejection of a true saint.
-Through them Madhavendra Puri taught a lesson to the people of the whole world.” (CC, Antya 8.28–30)[^4]
+“Pleased with him, Puri Gosani embraced him and gave him a blessing: ‘May you have the treasure of love for Krishna!’ From then on Ishvara Puri was an ocean of love, while Ramachandra Puri became one who found fault with everyone. The two of them are witnesses of a great soul's mercy and punishment; through these two he taught the people of the world.” (CC, Antya 8.28–30)[^4]
 
 The lesson is simple and stern: whoever pleases the guru obtains all that is auspicious; whoever angers him obtains
 only the inauspicious. Both disciples were present at Madhavendra's departure, and both became a living example of his
@@ -109,8 +100,7 @@ teaching. <!-- F20 F21 Q2 I2 -->
 Having blessed his disciple, Madhavendra left his body repeating a verse that holds the whole thirst of separation
 from Krishna:
 
-“O merciful Lord, ever kind to the afflicted, O master of Mathura, when shall I see You again? In separation from You
-my heart is breaking. O Beloved! What am I to do?” (CC, Antya 8.32)
+“O Lord, melting with compassion for the wretched! O Lord of Mathura, when shall I see You? My heart, stricken at not seeing You, has lost all rest. O Beloved, what am I to do?” (CC, Antya 8.32)
 
 This verse, “ayi dīna-dayārdra nātha,” has never since left the lips of pure devotees. The “Chaitanya-bhagavata” sums
 it up: “Sri Madhavendra Puri joyfully passed on the treasure of ecstatic love to his disciple — Sri Ishvara Puri” (CB,
@@ -237,8 +227,7 @@ oneself with the guru. This alone — that the Lord chose him as His guru — sh
 initiation the Lord stayed with him for some time with deep reverence, and then, by his instruction, left Gaya for
 Navadvipa. <!-- F53 I1 F54 -->
 
-Of what followed the “Charitamrita” speaks briefly: “And immediately after initiation by the Guru, love for Krishna
-manifested in Him. And when He returned home, it took complete possession of Him” (CC, Adi 17.9). With Gaya begin the
+Of what followed the “Charitamrita” speaks briefly: “After His initiation His love was revealed, and when He came home again, He gave Himself to the play of love” (CC, Adi 17.9). With Gaya begin the
 pastimes of love and the sankirtana. The place of initiation at the feet of Vishnu in Gaya was not forgotten later:
 on their way to Vrindavana both Srinivasa Acharya and Shyamananda (Duhkhi Krishnadasa) bowed there to the feet of
 Vishnu — Shyamananda, remembering how Ishvara Puri had given the Lord the mantra, was overwhelmed with ecstasy; and
@@ -275,14 +264,10 @@ or the place of his departure[^14]. <!-- F56 F57 F58 -->
 Only his last instruction is known. He had two dear disciples — the brahmachari Kashishvara and Govinda, his beloved
 servant; both served their guru as long as he remained in this world.
 
-“Before his departure Ishvara Puri ordered Kashishvara and Sri Govinda to go to Jagannatha Puri and meet Sri
-Chaitanya there.” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
+“At the time of his departure both received his order, came to Nilachala and met the Lord” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
 
 Govinda set out at once and found the Lord already returned from His journey through the South; Kashishvara came
-later, after first visiting the holy places. Govinda said: “My name is Govinda and I am the servant of Ishvara Puri.
-By the order of my guru I have come to You. Just before his departure from this world Ishvara Puri ordered me to find
-Sri Krishna Chaitanya and become His servant” (CC, Madhya 10.132–133). The Lord replied: “Sri Ishvara Puri always treated Me with parental love. Therefore in his
-sending you to Me I see his causeless mercy” (CC, Madhya 10.135). <!-- F61 Q13 -->
+later, after first visiting the holy places. Govinda said: “‘I am the servant of Ishvara Puri, and my name is Govinda. On Puri Gosani's order I have come to You. At the time of his passing, Gosani ordered me, “Go to Krishna Chaitanya and serve Him.”’” (CC, Madhya 10.132–133). The Lord replied: “Purishvara has always had a father's affection for Me; out of mercy he has sent you to Me” (CC, Madhya 10.135). <!-- F61 Q13 -->
 
 Yet the Lord hesitated to accept their service: they were His godbrothers, servants of His guru, and themselves worthy
 of respect. Sarvabhauma persuaded Him that a guru's order must not be broken, and the Lord, taking into account
@@ -317,6 +302,13 @@ Navadvipa he stayed with Advaita. <!-- F75 -->
 
 The biographies of the Lord's associates invariably place his name among the chief heroes of their narrative,
 alongside the names of his guru and his godbrothers. <!-- F78 -->
+
+In the “Namamrita-samudra,” where Narahari Chakravarti invokes the Lord's associates one after another, Ishvara Puri is
+named together with Ananta Puri and their guru Madhavendra:
+
+“Ananta, Ishvara, O Madhavendra Puri! Be merciful and make me drunk with the rasa of Radha and Krishna.”
+(“Namamrita-samudra” 22)
+<!-- F81 -->
 
 ## Significance
 Ishvara Puri lived a life of which the sources say little, and almost nothing of his own deeds apart from his

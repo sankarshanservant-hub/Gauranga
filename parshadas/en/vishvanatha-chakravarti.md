@@ -1,0 +1,421 @@
+# Vishvanatha Chakravarti Thakura
+*Вишванатха Чакраварти Тхакур · @vishvanatha-chakravarti*
+
+## Guardian of the Middle Age
+Between the age of Sri Chaitanya and His companions and modern times lies a long stretch that may be called the middle
+age of the Gaudiya Vaishnavas. Its guardian and foremost teacher was Srila Vishvanatha Chakravarti Thakura. He is also
+called Sripada Vishvanatha Chakravarti and Vishvanatha Chakravarti-pada, and in Vraja-mandala he was acknowledged as a
+*sarvabhauma*, the one whose word carries the greatest weight. He lived in the seventeenth and eighteenth centuries,
+the fourth in the succession of disciples from Narottama Thakura, and spent most of his life in Vraja: at Radha-kunda, in
+Vrindavana and in other holy places. His commentaries on the “Srimad-Bhagavatam” and the “Bhagavad-gita,” his digests of
+Rupa Gosvami's books and his own poems and prayers are read by Gaudiya Vaishnavas to this day. <!-- F1 F5 -->
+
+## The Name
+A Sanskrit verse explains the meaning of his name:
+
+“Having revealed the path of bhakti, he is as it were the Lord of the universe (Vishvanatha); abiding in the circle (*chakra*) of devotees, he came to be called Chakravarti.”[^1]
+
+The word *chakravarti* ordinarily means “one who turns the wheel (*chakra*) of power,” that is, an emperor. The
+devotees themselves, it is said, gave him this title; but in a reading closer to the devotees' hearts the word points to one who abides in the circle of Vaishnavas and stands first in it. <!-- F2 F3 Q2 -->
+
+He had a second name as well: Harivallabha, or Harivallabha Dasa. With it he signed his Bengali songs: in his anthology
+“Kshanada-gita-chintamani” the padas end with the words *kahe harivallabha*, “so says Harivallabha.” Some hold that he
+received this name on taking the dress of a renunciant *vairagi*. And it is as “Harivallabha” that Srimati Radhika
+Herself will address him when She appears to him at Radha-kunda. <!-- F4 -->
+
+## Devagrama
+Vishvanatha appeared in Devagrama, in the district of Nadia, in a family of Rarhi brahmanas. The biographies give the
+year of his birth differently: most often 1638 (1560 of the Shaka era), though later years are also found.[^2] The day
+of his appearance has not come down to us; nor is it in the calendar of the Sri Chaitanya Saraswat Math. His father, by
+the “Gaudiya-vaishnava-abhidhana,” was named Ramnarayana Chakravarti; his mother's name is unknown. Vishvanatha was the youngest of three brothers; the elder two were Ramabhadra and Raghunatha. A later life, composed in
+the circle of his disciples, adds that Ramabhadra knew all the shastras and Raghunatha was renowned as a great pandit,
+and that both brothers took initiation in the
+line of Srinivasa Acharya, from Ramachandra Kaviraja through Harirama Acharya and Gopikanta. <!-- F6 F7 F8 F9 -->
+
+This life (it is appended to one edition of the “Narottama-vilasa” under the title “About the Author” and is ascribed
+to Narahari Chakravarti) has also preserved a tradition about his birth: in the room where he was born a radiance like
+fire flared up and soon faded, and the people of Devagrama came to look at the child. <!-- F15 -->
+
+From childhood he was extraordinarily gifted. He completed grammar while still in Devagrama, and while living in Nadia
+he studied poetry and rhetoric; even as a schoolboy, it is said, no one could defeat him in debate. According to the
+life, as a youth he easily vanquished a travelling *digvijayi* pandit before whom the scholars of Devagrama quailed — and
+was himself ashamed of the fame it brought him, so that his wise brother had to console him. Having mastered Sanskrit
+learning in full, he longed to grasp the teaching of the Gaudiya Vaishnavas to its very depths. <!-- F10 F11 -->
+
+## Marriage and Renunciation
+From his early years Vishvanatha was indifferent to family life. His father, hoping to bind him to the home, married
+him young; the marriage was performed with due rites, but the son showed no attachment whatever to household life. It
+is said that before leaving he instructed his wife in the “Bhagavata,” let her taste the nectar of that book and urged
+her to give her whole life to worshipping the Lord: in leaving home he took care of her spiritual
+welfare. Soon he left for Vrindavana, and the pleas of his parents and relatives that he return were in vain.
+<!-- F12 -->
+
+The life tells the story in its own way. Seeing his detachment, the family resigned themselves, and his elder brother
+told him to read the “Bhagavata.” When he had finished it, Ramabhadra said, “You have not read it yet — read it again.”
+Having read the book a second time, Vishvanatha asked leave to go to Vrindavana, and his brother answered joyfully,
+“Now you have read the ‘Bhagavata.’” So, after informing his mother, he left. <!-- F13 -->
+
+The same life records an incident from the time when he had come to Gauda to see his guru. People in Devagrama were
+gossiping about the young man who had married and then gone off to Vrindavana, and the guru told him, “Tonight lie
+down with your wife.” Vishvanatha obeyed; but, keeping silent, he lay so as not to touch her, spent the whole night
+joyfully chanting the Holy Name, and at dawn, in his old blanket, returned to his own place. Everyone was amazed, while
+the guru rejoiced to see that his disciple was fully master of his senses, and from then on would listen to no one
+against him. This is no worldly anecdote but a twofold lesson: unconditional obedience to the guru, and the full mastery
+of the senses that devotion gives. <!-- F14 -->
+
+## Guru and Line of Succession
+Having finished grammar, Vishvanatha went to Saiyadabad (Saidabad), in the district of Murshidabad, to study the scriptures of
+bhakti. There lived Krishnacharana Chakravarti and his disciple Radharamana Chakravarti, a Sanskrit pandit and
+philosopher. Radharamana became first Vishvanatha's *shiksha-guru*, his teacher, and then his *diksha-guru* as well.[^3]
+Krishnacharana in turn was the disciple and, by some accounts, the adopted son of Ganganarayana Chakravarti, a disciple
+of Narottama Thakura. Vishvanatha lived for a long time in his gurudeva's house, studied with both of them and wrote
+many of his books there, so that he came to be called “the resident of Saiyadabad.” So he signed himself in one of the
+closing verses of his commentary “Subodhini” on the “Alankara-kaustubha”:
+
+“This commentary ‘Subodhini’ was composed by Sri Vishvanatha Sharma, called Chakravarti, who lives in Saiyadabad.”
+<!-- F16 F17 F21 Q4 -->
+
+He himself named his line of succession in the auspicious verse with which he opens his explanation of the
+rasa-panchadhyaya in the “Sarartha-darshini”:
+
+“Bowing to the feet of my gurus, full of great love — Rama, Krishna and Ganga — I praise Srila Narottama, Natha and Sri
+Gauranga Prabhu.”
+
+“Rama” here is Radharamana, “Krishna” is Krishnacharana, “Ganga” is Ganganarayana, “Natha” is Lokanatha Gosvami,
+Narottama's guru, and Lokanatha's guru is Gauranga Mahaprabhu Himself. His *diksha* line, then, is this: Sri Chaitanya
+Mahaprabhu — Lokanatha Gosvami — Narottama Thakura — Ganganarayana Chakravarti — Krishnacharana Chakravarti —
+Radharamana Chakravarti — Vishvanatha. He is the fourth from Narottama. His “Sankalpa-kalpadruma” says the same: the path in it is walked as Sri Lokanatha and Sri Narottama of his line direct. <!-- F18 F19 Q1 -->
+
+But Srila Bhaktisiddhanta Sarasvati places above the hereditary chain of initiations the *shiksha-guru-parampara*,
+the line in which the truth itself descends through its chief bearers: Mahaprabhu — Svarupa Damodara — Rupa and
+Sanatana (and with them Raghunatha Dasa, Raghunatha Bhatta and Gopala Bhatta) — Jiva — Krishnadasa Kaviraja — Narottama
+(together with Shyamananda and Srinivasa) — Vishvanatha. From him the line continues through Baladeva Vidyabhushana,
+Jagannatha Dasa Babaji and Bhaktivinoda Thakura. In his song of the parampara Srila Bhaktisiddhanta sings *vishvanatha-
+bhakta-satha, baladeva, jagannatha…* — “Vishvanatha with his devotees, Baladeva, Jagannatha…”; he offers his respects to
+Vishvanatha and all his disciples: to Baladeva, to Baladeva's disciple Jagannatha and to Jagannatha's dear follower
+Bhaktivinoda. The point of this list is that the genuine guru is determined not by a chain of formal initiations but
+by complete devotion to the highest truth. Both lines lead to Vishvanatha, but in the Sarasvata line the succession of
+acharyas is above all a succession of pure devotion. <!-- F20 F77 I5 -->
+
+## To Vraja
+As Sri Rupa had done before him, Vishvanatha went to live in Vrindavana in order to give himself wholly to *bhajana*.
+One of the biographies connects this with a calamity that had befallen Vraja: around 1670 the persecutions of Aurangzeb
+had gravely undermined the preaching of the Vaishnavas in that land, and on hearing of it Vishvanatha went there without
+delay to restore Vraja's strength — for Vraja is the very centre of Vaishnava preaching — and heartened the Vaishnavas
+there. According to this biography he did not go back to Bengal again, yet until his last days he kept sending from Vraja
+advice and instructions to those who led the preaching in Bengal and Orissa.[^4] <!-- F26 F27 F28 -->
+
+In Vrindavana he settled at Radha-kunda, in the *bhajana-kutir* of Krishnadasa Kaviraja Gosvami, where Kaviraja's
+disciple Mukunda Dasa lived. Under him Vishvanatha carefully studied the books of the Gosvamis, and there too he later
+wrote many of his commentaries on them. The life adds that on coming to Vraja he first walked all over it and only then
+settled at Radha-kunda. Mukunda Dasa, Kaviraja's disciple and long-time servant, had been inconsolable after his
+master's departure until he found Vishvanatha; a book of lilas which he had not managed to finish Mukunda completed by
+Vishvanatha's hands, and soon he himself left this world at Radha-kunda. <!-- F29 -->
+
+The blessing of the guru which Vishvanatha had earned by obedience showed itself in this: he lived in various places of
+Vraja-dhama and wrote a multitude of books that became a treasure of the sampradaya. He would stay for long periods in
+many *mathas*, encouraging the Vaishnavas there, and at times he gathered everyone in one place so that they could
+exchange their thoughts; for this he founded centres in Mathura, Vrindavana, Radha-kunda, Yavat (Javat), Govardhana and other
+places. So he breathed new life into the Gaudiya Vaishnavas. That time became a glorious age of preaching, and behind
+it stood the firmness of his character, his renunciation, his learning and, most of all, his profound insight into the
+innermost meaning of the books of Rupa, Sanatana and Jiva, and his gift for revealing that meaning.
+<!-- F30 F31 F32 F33 I1 -->
+
+The life portrays him in the same way: in Vrindavana everyone honoured him; together with his disciples he was always
+immersed in *bhakti-rasa*, and all his disciples became *maha-bhagavatas*; he guarded the dharma of the Lord and gave no
+quarter to those who hated the guru, Krishna and the Vaishnavas; he was impartial, firm in his dharma and exceedingly
+merciful. <!-- F36 -->
+
+## Guarding the Teaching
+Some sixty years after the departure of Narottama Thakura, currents alien to the accepted teaching arose among the
+followers of Mahaprabhu, and it was Vishvanatha who stood against them. One of the biographies names two such
+currents. The first came from Balarama, the son of Advaita Acharya, and his descendants. The biography gives no details
+and the primary sources are silent on the matter; but the “Charitamrita” already says that in time Advaita's followers
+divided: some kept His instructions, others went their own way, and these are mere chaff winnowed from the grain.[^5]
+The second current was connected with Rupa Kaviraja, a disciple of Srinivasa Acharya, as this biography calls him.[^6] In the same
+years some of Vishvanatha's Bengali writings also appeared. <!-- F22 F23 -->
+
+Rupa Kaviraja had been excommunicated from Vaishnava society and founded the *apasampradaya* “ati-bari.” He taught that
+only a renunciant may be an acharya, never a family man, and that no householder has the right to bear the title
+“Gosvami”; rejecting the rules of *vidhi-marga* and belittling hearing and chanting, he distorted *raganuga-bhakti*.
+For people's benefit Vishvanatha refuted this teaching in his “Sarartha-darshini,” commenting on the Third Canto of
+the “Bhagavatam.” On the strength of the shastras he showed that anyone in a guru's family who has the proper qualities
+may rightly be called Gosvami, that is, may carry out the service of guru and acharya; but to give the title “Gosvami”
+to unworthy descendants for the sake of wealth and disciples is against the shastras and unlawful, even in a family of
+hereditary gurus. <!-- F24 -->
+
+The life sees in the fate of Rupa Kaviraja a lesson in how perilous it is to offend a Vaishnava. He was, according to
+the life, a disciple of Krishnacharana Chakravarti; he went with his guru to Vraja and studied under Mukunda Dasa at
+Radha-kunda; after Mukunda's departure he offended Krishnapriya Thakurani and abandoned his guru, was disgraced, could
+not live in Gauda, went to Utkala, and there, struck by a grievous disease, ended his days in suffering. The author of
+the life recalls the words of the “Charitamrita”: even a slight offence to a Vaishnava destroys the love even of the
+great. <!-- F25 -->
+
+## Gokulananda and the Govardhana-shila
+At Radha-kunda Vishvanatha raised a temple and established in it the Deity of Sri Gokulananda. There, to this day, the
+Govardhana-shila which Mahaprabhu gave to Raghunatha Dasa Gosvami is worshipped daily, and it can still be seen.[^7]
+<!-- F37 -->
+
+How Gokulananda came to him the life relates. A learned brahmachari who had come to Mathura was serving Gokulananda, and
+in a dream the Lord told him to carry Him to Vrindavana, to Vishvanatha. Vishvanatha declined: “Serve Him yourself — here
+He will have a hard time.” Then Gokulananda appeared in a dream to him as well: “Do not worry, I will find My food
+Myself; however you serve Me, I shall be pleased,” — and embraced him. On waking, Vishvanatha found the brahmachari at
+his door, who handed the Deity over to him. <!-- F38 -->
+
+The life also traces the path of the shila. Mahaprabhu gave it to Raghunatha Dasa; after his departure Krishnadasa
+Kaviraja served it, then Mukunda Dasa, and Mukunda before his departure gave it to Krishnapriya Thakurani, a resident of
+Radha-kunda, the daughter of Vishnupriya and granddaughter of Ganganarayana Chakravarti. Krishnapriya saw in the shila
+Krishna Himself. At times she allowed Vishvanatha to serve the shila in her presence, and when he held great festivals he brought the shila to them. Krishnapriya Thakurani held Vishvanatha very dear. Now the shila shines beside Gokulananda. <!-- F39 -->
+
+## Half a Syllable of the Kama-gayatri
+The best-known story about Vishvanatha he tells himself, in his “Mantrartha-dipika.” In the “Charitamrita” Krishnadasa
+Kaviraja writes:
+
+“The form of the Kama-gayatri mantra is Krishna's own form. It has twenty-four and a half syllables…” (CC, Madhya 21.125)
+
+For a long time Vishvanatha pondered, yet he could not understand where these “twenty-four and a half” came from. And he
+thought: “If I do not grasp the meaning of the syllables of the mantra, how shall I attain the direct meeting with the Deity of the mantra? Better that I leave this body.” This was not despair: he could not live without grasping the mantra
+through which its Lord is served. Giving up food and water, he lay down on the bank of Sri Radha-kunda.
+<!-- F59 F60 Q3 -->
+
+Two watches of the night passed; about midnight drowsiness overcame him, and before him appeared the daughter of King
+Vrishabhanu: “O Vishvanatha! O Harivallabha! Rise. Everything Krishnadasa Kaviraja wrote is true. She is My
+*narma-sahachari*, My confidante: by My mercy everything in My heart is known to her. Have no doubt about her words. Without My
+mercy no one can grasp the meaning of these syllables of the mantra. Learn what the book ‘Varnagama-bhasvat’ says about the half-syllable; then find it and gather the proofs for the
+world's benefit: it was by seeing that book that Krishnadasa Kaviraja determined the half-syllable.” Srimati Radhika speaks of Kaviraja in the feminine: in the
+eternal pastimes he is Her confidante and maidservant, and the secrets of Her heart are open to him by Her mercy.
+<!-- F61 -->
+
+The rule of the half-syllable, by Radhika's word, is this: a *ya* with *vi* after it counts as a half, while every other
+syllable is full, each a full moon. From this Vishvanatha concludes that the *ya* at the junction of the first two words
+of the mantra, before the *vi* of the second, is that half-syllable — the crescent moon upon the forehead. <!-- F63 -->
+
+“Hearing this command,” Vishvanatha goes on, “I came to my senses and at once rose up. My doubt was dispelled,” — and, weeping, he cried again and again, “Ha Radhe! Ha Radhe!” From then on, keeping Radhika's word in his heart, he strove to carry it
+out. This vision was no dream in the worldly sense but the mercy of Srimati Radhika Herself, who had appeared to Her
+servant. The story is also known in another version, where it is connected with his commentary on the
+“Charitamrita”;[^8] that commentary, says the author who relates it, shows how dear Krishnadasa Kaviraja is to Radharani
+and that his every word is the highest spiritual truth. <!-- F62 F64 -->
+
+## Books
+Vishvanatha was a great scholar, poet and philosopher, and few Gaudiya acharyas were so prolific. Almost all his books
+are written in Sanskrit — clear and simple and brimming with the nectar of devotion. In this clarity and simplicity lies their
+distinction: by his detailed explanations he made accessible the most difficult of Sri Rupa's works on rasa.
+<!-- F40 F41 -->
+
+His chief work is the “Sarartha-darshini,” a vast commentary covering the whole “Srimad-Bhagavatam,” all twelve cantos. Jiva
+Gosvami had expounded the “Bhagavatam” in the “Sandarbhas,” but not in a continuous commentary; Vishvanatha was the first to go through it verse by verse, explaining each by the Gaudiya teaching of
+*achintya-bhedabheda*. On the Tenth Canto he
+followed Sanatana's “Vaishnava-toshani,” relied with great care on Jiva's “Sandarbhas,” quoted Rupa and the other
+Gosvamis of Vrindavana abundantly, and referred to the commentary of Shridhara Svami. His commentary on the
+“Bhagavad-gita” bears the same name, “Sarartha-darshini.”[^9] <!-- F49 -->
+
+To the books of Rupa Gosvami he devoted a whole series of works: the commentary “Ananda-chandrika” on the
+“Ujjvala-nilamani,” and commentaries on the “Bhakti-rasamrita-sindhu,” the “Dana-keli-kaumudi,” the “Lalita-madhava,”
+the “Vidagdha-madhava” and the “Hamsaduta.” Explaining in his commentary on the “Vidagdha-madhava” (1.4) Rupa's words
+“in a dream I was commanded by Bhagavan Sri Shankara-deva,” he specifies that Shankara-deva is Gopishvara, who dwells on
+the bank of Brahma-kunda. Following Rupa's “Samanya-virudavali-lakshana” and “Govinda-virudavali,” he wrote the
+“Nikunja-keli-virudavali.” His three brief digests of Rupa's books — the “Ujjvala-nilamani-kirana,” the
+“Bhakti-rasamrita-sindhu-bindu” and the “Bhagavatamrita-kana” — Vaishnavas remember with a saying: “Kirana, bindu,
+kana — with these three you will become a Vaishnava.” (Aufrecht in the “Catalogus Catalogorum” ascribed to Sanatana a
+“Bhakti-bindu” and an “Ujjvala-rasa-kana,” evidently confusing them with these books of Vishvanatha.)
+<!-- F48 F50 F51 F52 -->
+
+He also wrote commentaries on other books: the “Subodhini” on the “Alankara-kaustubha” and the “Sukha-vartini” on the
+“Ananda-vrindavana-champu” of Kavi Karnapura, commentaries on the “Gopala-tapani Upanishad” and the fifth chapter of the
+“Brahma-samhita,” a Sanskrit commentary on a book of Narottama Thakura,[^10] and a commentary on Krishnadasa Kaviraja's
+“Sri Chaitanya-charitamrita” — unfinished, according to one of the biographies. <!-- F42 -->
+
+Among his own compositions is the *mahakavya* “Sri Krishna-bhavanamrita”: 2,929 shlokas in twenty-three chapters on
+the transcendental loving pastimes of Sri Radha and Sri Krishna, the two full realities who complete each other. It
+is supplemented by the “Sankalpa-kalpadruma,” which in 104 verses sets out the path of *raga* toward Sri Radha-Krishna in the spirit of a beloved friend (*priya-sakhi-bhava*), in subordination to the six Gosvamis of Vrindavana. The
+“Madhurya-kadambini,” in verse and prose (643 “shlokas”), shows the way to the Lord's service. Then there are the
+“Sri Gauranga-lilamrita,” “Raga-vartma-chandrika,” “Chamatkara-chandrika,” “Sadhya-sadhana-kaumudi,”
+“Gauranga-smarana-dashaka,” the poems “Vraja-riti-chintamani” and “Prema-samputa,” the “Svapna-vilasamrita” and the
+“Bhakti-sara-pradarshini,” a commentary on the “Bhakti-rasamrita-sindhu.” An “Aishvarya-kadambini” is also ascribed to
+him, a book on the doctrines of *dvaita* and *advaita* in the light of *achintya-bhedabheda*, which seems to have been
+lost; but its authorship is disputed.[^11] <!-- F42 F43 F44 F46 F47 -->
+
+In Bengali he wrote songs: the “Gitavali” and the anthology of padas “Kshanada-gita-chintamani,” where his own songs are
+signed with the name Harivallabha; for some padas this anthology is the only witness. His shorter Sanskrit works are
+collected in the “Stavamrita-lahari.” These are octets and hymns to the guru and his whole line — the
+“Guru-tattvashtaka,” the “Mantra-datri-gurvashtaka,” the octets to the *parama-guru*, *paratpara-guru* and
+*parama-paratpara-guru*, the “Sri Lokanathashtaka,” the “Sri Narottamashtaka”; hymns to Shachinandana and to Svarupa
+Damodara; octets to the Deities of Vraja — Gopaladeva, Madana-Mohana, Govinda, Gopinatha, Gokulananda, Jagan-Mohana —
+to Radha-kunda and Shyama-kunda, to Vrinda-devi, to Vrindavana, Nandishvara and Govardhana; the
+“Svayam-bhagavad-ashtaka,” “Anuragavalli,” “Sri Radhika-dhyanamrita,” “Sri Rupa-chintamani,” “Nikunja-virudavali,”
+“Surata-kathamrita” and the same “Sankalpa-kalpadruma.” Narahari Chakravarti quotes verses of the “Stavamrita-lahari”:
+in the “Bhakti-ratnakara” (6.73 and 13.270) on Madana-Gopala and on Gopinatha, and in the “Narottama-vilasa” from the
+hymns to Lokanatha, Narottama, Ganganarayana and Krishnacharana. Of Narottama's singing it says:
+
+“To him who with his own dancing, destroying the pride of the gandharvas, astonished all the people of the age of Kali,
+who is renowned for the songs he himself created — to Sri Narottama, obeisances, obeisances!” (“Narottama-vilasa” 6.44)
+<!-- F45 F55 -->
+
+In his “remembrance of the eight periods of the day” (*ashtakaliya*) of Sri Gauranga he is said to have described a
+conversation between Gaura and Vishnupriya as well; but even there he does not step beyond the special character of the
+pastimes of Sri Lakshmi and Gaura-Narayana, and to see a Gaura-*nagara* here would be a mistake. Like Narottama, he
+glorified Jiva more than once together with the other Gosvami-gurus. <!-- F53 F54 -->
+
+Several traditions are connected with his books. Once, as he was at work on the “Bhagavata,” it began to
+rain; water covered the ground all around, yet the spot where he sat stayed dry, his ink was not washed away and the
+manuscript survived. The life tells it in more detail: he was copying the “Bhagavata” for his guru, sitting in the shade by a pond,
+and in the ecstasy of love did not notice the rain. A zamindar passing by saw that it was pouring all around, yet not a
+drop fell on Vishvanatha; paying him respect, he told him of it, and Vishvanatha was much embarrassed. That same day he
+gave the finished manuscript to his guru. <!-- F56 -->
+
+According to the life, the commentary on the “Ananda-vrindavana-champu,” whose subtlety only pandits can grasp, he wrote
+by the command of Krishna-Chaitanya given in a dream, sitting in a cave on Govardhana. His commentary on the “Bhagavata” the life calls beautiful, and that on the “Gita” one
+that nothing surpasses. In his commentary on the “Ujjvala-nilamani” he gave many explanations for the sake of
+ill-natured people who do not understand Jiva's words.[^12] For Jiva is a follower of Rupa, and by Rupa's mercy the truth
+reveals itself in him; who, then, can understand the words of such a Jiva? But “Sri Vishvanatha is not different from
+Sri Jiva in his views”: in him Rupa's intention became manifest, and Sri Radhika with Her friends bestowed great mercy
+on him. <!-- F57 I4 -->
+
+One more tradition from the life. When Vishvanatha began a book, the “Chaitanya-rasayana,” Mahaprabhu stopped him in a
+dream: “You have set out to describe in it something different from the others. My wondrous pastime in the Kali-yuga
+many will come to know; My devotees, immersed in the rasa of My lilas, relish it and describe it in various ways — and
+as each describes it, so it is. Do not doubt.” Waking at the end of the night, he humbly lamented, and at the same time
+considered himself fortunate by the Lord's mercy. The “Chaitanya-rasayana” remained unfinished, but he sang the Lord's
+lilas tirelessly and that same day composed a beautiful song. The Lord's words do not mean that there is no truth; they
+speak of the inconceivable variety of His lilas: pure devotees relish and describe them in different ways, and all
+their descriptions are true; and Mahaprabhu's reproach was a mercy that kept Vishvanatha from wishing to correct
+others. <!-- F58 -->
+
+## Disciples
+Vishvanatha's disciples and pupils were many. The ablest of them was Sri Baladeva Vidyabhushana, his *shiksha* disciple,
+who afterwards served the Gaudiya dharma and upheld its dignity in full. Baladeva, as he himself writes in the
+“Siddhanta-ratna” (8.35), had three teachers: with Radha-Damodara he studied Vedanta, with Vishvanatha the “Bhagavata,”
+with Pitambara the other shastras; all three were the profoundest knowers of the shastras and men of the highest
+spiritual standing, and as Jiva's elders once taught Jiva, so Vishvanatha and the others taught Baladeva. On coming to
+Vrindavana, Baladeva took shelter at Vishvanatha's feet, and Vishvanatha, pleased with his submissiveness, modesty,
+learning and renunciation, kept him by his side for some time and taught him *achintya-bhedabheda* and the *siddhanta*
+of Gaudiya Vaishnava Krishna-bhakti. <!-- F65 F66 -->
+
+Another disciple was Krishnadeva Sarvabhauma, who would go with Baladeva to the debate at Galta. Vrindavana-chandra
+Chakravarti, at the beginning of his commentary “Sada-nanda,” names himself Krishnadeva Sarvabhauma's disciple, and so Vishvanatha's disciple once removed. <!-- F67 -->
+
+A disciple of Vishvanatha was also the brahmana Jagannatha Chakravarti, father of Narahari Chakravarti, the author of
+the “Bhakti-ratnakara.” Narahari writes: “Vishvanatha Chakravarti is renowned everywhere; his disciple is my father, the
+brahmana Jagannatha” (“Bhakti-ratnakara” 15.47–48).[^13] According to the life, he initiated Jagannatha when he came
+from Vrindavana to Gauda; later Jagannatha visited him in Vrindavana and at his bidding returned home. <!-- F68 F69 -->
+
+## The Debate at Galta
+Around 1706, when Vishvanatha was already old, the Ramanandis stirred up a cunning controversy at the court of Jaipur:
+was the Gaudiya Vaishnava sampradaya authentic at all, if none of its acharyas had ever written a commentary on the
+Vedanta? The king of Jaipur at the time, Jai Singh II, asked Sripada Vishvanatha Chakravarti to come to Galta and settle the
+dispute in an open assembly. But Vishvanatha was too old for such a journey and sent instead his ablest disciples,
+Krishnadeva Sarvabhauma and Baladeva Vidyabhushana, two rising stars of the Gaudiya Vaishnava world. They prevailed over
+the Ramanandis and returned with the banner of victory.[^14] <!-- F70 F71 F72 -->
+
+When Baladeva returned to Vrindavana, he fell at Vishvanatha's feet and told him of the victory; all the Vaishnavas of
+Vrindavana rejoiced. Vishvanatha blessed Baladeva and congratulated both disciples. He understood that he was leaving
+behind two experienced leaders able to continue the work of the community, and in his old age he was very happy.
+<!-- F73 -->
+
+## Departure
+Soon after this glorious victory Vishvanatha Chakravarti left this world; after him remained his worthy disciple, the celebrated philosopher Baladeva Vidyabhushana. This took place on Vasanta-panchami in the month of Magha; in the calendar
+of the Sri Chaitanya Saraswat Math the day of his departure is Gaura-panchami of the month of Madhava (Sri Krishna
+Vasanta-panchami). According to one of the biographies, he departed at Radha-kunda around 1708 (1630 of the Shaka
+era).[^15] <!-- F74 F76 -->
+
+Baladeva had then only just begun his commentary on the “Shat-sandarbha,” and it seemed to the Vaishnavas that a great
+lamp of divine light had gone out; it was Baladeva who now guarded the fire, and after his teacher's departure he led the
+Gaudiya Vaishnavas' work with success, from Vraja. <!-- F75 -->
+
+Jagannatha Chakravarti, learning of the departure of his guru — “his Ishtadeva,” as the life puts it — wept for several
+days and himself left the world at the end of the night of the full moon of Magha. And his son Narahari saw Vishvanatha
+in a dream, come together with his father: in fine white garments, with sandal tilaka on his shining forehead, with
+tulasi beads at his neck, not stout, his body the colour of champaka. Vishvanatha spoke to Narahari tenderly and with a
+smile, and vanished together with his disciple. <!-- F69 -->
+
+## Significance
+The preface to the “Gita” published by the Sri Chaitanya Gaudiya Math calls Vishvanatha the guardian and foremost
+teacher of the middle age in the history of the Gaudiya Vaishnavas, between the days of Mahaprabhu and His companions and modern times. After the departure of the Lord's associates in Vrindavana, the tradition was preserved and carried
+in Bengal by Srinivasa, Narottama and Shyamananda; Vishvanatha, besides his books, did much for preaching and kirtana,
+and in philosophy, knowledge of scripture and poetry he deserves the highest praise. <!-- F34 I2 -->
+
+The time of Vishvanatha and Baladeva is the second great period of Gaudiya Vaishnava literature. After Jiva's departure
+and until their arrival Vraja had scarcely a Gaudiya Vaishnava who could answer the attacks of rival
+communities; they restored the community's strength after a long lull. The departure of Vishvanatha and Baladeva
+themselves, according to one of the biographies, opened a new “dark age” of Bengal Vaishnavism; yet even then the
+succession in Rupa's line was not broken: acharyas may be solitary ascetics or preachers, and an acharya's strength is
+not measured by the number of his disciples. <!-- F35 I3 F80 -->
+
+Srila Bhaktisiddhanta, answering opponents, spoke in agreement with the teaching of the Gosvamis as continued by
+Vishvanatha Chakravarti, Baladeva, Jagannatha Dasa Babaji and Gaurakishora Dasa Babaji. Bhaktivinoda Thakura published
+the “Gita” with Vishvanatha's commentary “Sarartha-darshini” and his own “Rasika-ranjana” (Serampore, 1886), and in his
+commentary “Prakashini” on the “Brahma-samhita” he relied on Vishvanatha as well; the Gaudiya Math also printed the
+“Gita” with his commentary. Srila B. R. Sridhar Maharaja, in the preface to his edition of the “Gita,” names Vishvanatha
+and Baladeva as the commentators on the “Gita” in our line on whom Bhaktivinoda too relied in his Bengali translation.
+So the “Sarartha-darshini” became one of the principal authoritative commentaries of the line. <!-- F78 F79 F81 -->
+
+Vishvanatha is also known as a defender of *parakiya*: that the love of the gopis of Vraja for Krishna is relished in
+the mood of “others',” not bound to Him by marriage. In this he follows Rupa, and so holds Srila Bhaktisiddhanta. The
+*parakiya* of the gopis is no worldly licence but love beyond this world: the “marriage” of the gopis is only an
+appearance created by Yogamaya for the highest taste of rasa. Vishvanatha was no opponent of Jiva, who wrote of
+*svakiya*: the life says that he “is not different from Jiva in his views,” and Bhaktivinoda, examining the dispute over
+*svakiya* and *parakiya*, concludes that both conclusions are inconceivably true, that there are no parties among pure
+Vaishnavas, and that to ascribe partisanship to them and belittle an acharya is an offence. Vishvanatha himself accepted
+without objection Sanatana's explanation in the “Vaishnava-toshani” of the rasa-panchadhyaya verse *gopinam tat-patinam
+cha* (“Bhagavatam” 10.33.35). <!-- F79 -->
+
+The flowering of preaching in his time was the fruit of his firmness, renunciation and learning and, above all, of his
+insight into the innermost meaning of the Gosvamis' books. The later life sees in him a guardian of the Lord's dharma,
+impartial, firm and merciful, one of a mind with Jiva, in whom Rupa's intention became manifest. And in the line of
+Srila Bhaktisiddhanta his place shows that the succession of acharyas is a succession of pure devotion. <!-- I1 I4 I5 -->
+
+[^1]: One of the biographies gives this verse without a source; another gives it as a verse from the introduction to his
+    “Svapna-vilasamrita,” with a different reading: *bhakti-ratna* (“the jewel of bhakti”) instead of *bhakti-vartma*
+    (“the path of bhakti”). We follow the reading *bhakti-vartma*.
+[^2]: According to some biographies he was born around 1638 (1560 of the Shaka era); according to others in 1656 (1576
+    Shaka); yet another gives 1586 Shaka (1664).
+[^3]: One of the biographies writes that he received *mantra-diksha* in Saiyadabad from Krishnacharana Chakravarti, but in
+    its list of the *diksha* line names Radharamana as his guru; the life in the “Narottama-vilasa” calls the guru “Sri
+    Ramacharana Chakravarti,” a disciple of Krishnacharana — perhaps a different reading of the same name. Vishvanatha
+    himself names “Rama” first in his auspicious verse; we follow the majority of the testimonies: his *diksha-guru* is
+    Radharamana.
+[^4]: The life in the “Narottama-vilasa” says otherwise: at his guru's bidding he came from Radha-kunda to Gauda (it was
+    then that he initiated Jagannatha Chakravarti) and returned to Vrindavana with his guru's permission. When this was —
+    before 1670 or later — the life does not say.
+[^5]: “At first the Acharya's followers were all of one mind; but later, as fate would have it, two views arose among
+    them… The Acharya's teaching is the essence; whoever goes against His order is empty, mere chaff.” (CC, Adi 12.8,
+    12.10) The true branch of Advaita, according to the “Charitamrita,” is His son Achyutananda (Adi 12.13). The
+    biography's words about “the current of Balarama and his descendants” thus concern only a part of the family that
+    had strayed from Advaita's teaching, and cast no shadow either on Advaita Himself or on His faithful followers.
+[^6]: Other testimonies call him a “pretended disciple” of Srinivasa, and the life in the “Narottama-vilasa” a disciple
+    of Krishnacharana Chakravarti.
+[^7]: One of the biographies writes that the temple of Gokulananda still stands in Vrindavana; according to the life,
+    the Deity was received in Vrindavana from a brahmachari who had come from Mathura. We give both statements without
+    choosing between them.
+[^8]: In this version (Srila Bhakti Pramoda Puri Maharaja gives it in his preface to an edition of the
+    “Charitamrita”), it all happened while Vishvanatha was composing his commentary on CC, Madhya 21.125: not understanding
+    why there were twenty-four and a half syllables rather than twenty-five, he vowed to take no food at Radha-kunda, and
+    Radharani told him in a dream that Krishnadasa is Her dear friend, on whom She has bestowed the power to grasp what is
+    most hidden about Herself. The details — Radha-kunda, midnight, the “Varnagama-bhasvat,” *ya* before *vi* —
+    coincide. We follow Vishvanatha's own account in the “Mantrartha-dipika.”
+[^9]: Other biographies call the commentary on the “Gita” the “Sarartha-varshini.”
+[^10]: In one biography's list this is a commentary on Narottama's “Prema-bhakti-vilasa”; Narottama has no book of that
+    name, and the “Prema-bhakti-chandrika” is probably meant.
+[^11]: According to two biographies, Vishvanatha had his own “Aishvarya-kadambini” — on *dvaita* and *advaita*, on
+    *achintya-bhedabheda* — distinct from Baladeva's book of the same name. A third reports that the editor of the
+    journal “Gaudiya” ascribed the “Aishvarya-kadambini” (224 verses in seven “showers,” *vrishti*) to Vishvanatha, but
+    the last verse of the manuscript names Baladeva as its author.
+[^12]: The lines of the life can also be understood as though these explanations were given by Jiva himself in his
+    commentary on the “Ujjvala-nilamani”; but by the course of the narrative it is Vishvanatha's commentary that is meant,
+    written for the sake of those who do not understand Jiva's words; so too one of the biographies takes them, quoting
+    these lines to explain how Vishvanatha in the “Ananda-chandrika” revealed the intention of Jiva's commentary. The next
+    line — about one who “brings words of *tattva* and establishes them in all the lilas” — can be read in two ways: of the
+    ill-intentioned or of Jiva himself.
+[^13]: One of the biographies expresses itself ambiguously, so that Narahari himself might be taken for Vishvanatha's
+    disciple; according to the “Bhakti-ratnakara,” the disciple is his father Jagannatha.
+[^14]: The accounts of Galta differ. According to one biography, the dispute was raised by acharyas of the Ramanuja
+    sampradaya, who denied the historical basis of the Gaudiyas and their link with the four sampradayas and urged the
+    king to take initiation from a Ramanuja; the king called Vishvanatha to Jaipur, and he sent Baladeva alone.
+    According to another, the Ramanujas declared at court that without a commentary on the Vedanta the Gaudiyas had
+    neither *siddhanta* nor sampradaya and must give up the service of Govinda and Gopinatha; the king, himself a
+    follower of the Gaudiyas, sent a messenger to Vrindavana to ask Vishvanatha whether such a commentary existed, and
+    the infirm old man sent him Baladeva. The year of the victory is 1628 Shaka (1706). We follow the biography
+    according to which the dispute was raised by the Ramanandis and two were sent, Krishnadeva and Baladeva.
+[^15]: Only one biography gives the year and place of his departure; it also gives the day as “the shukla- or
+    krishna-panchami of Magha.” The others speak of Vasanta-panchami, that is, of the bright half of the month, as does
+    our calendar. A departure “soon after Galta” (c. 1706) agrees with 1708.

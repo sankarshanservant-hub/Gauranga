@@ -1,0 +1,93 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/chhota-haridasa.md и lila-db.
+id: "@chhota-haridasa"
+names:
+  ru: "Младший Харидас (певец)"
+  en: "Junior Haridasa (the singer)"
+  variants: ["Чхота Харидас (ЧЧ; B)", "Chota Hari Das (T)", "Choṭa Haridāsa (M 243, цитата перевода ЧЧ)", "Лагху-Харидас («Амрита-праваха-бхашья» к Мадхья 18.52)", "Харидас Младший (ГГД 138)", "певец Шри Харидас («Адвайта-пракаша»)"]
+  facts: [F1, F8, F47]
+kind: associate
+circle: [puri]
+period: [P12, P14]
+period_note: "Лично — при Господе в Пури: живёт с Говиндой и служит Господу (ЧЧ Мадхья 10.149–150, P12; F5), возможно — певец на Ратха-ятре (P12; F8, предположительно); наказание и уход в Тривени — последние годы Господа в Пури (P14; F10–F42). После ухода — незримо поёт Господу в теле гандхарвы (F33)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет"
+    facts: [F3]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: "#prayaga"
+    conf: "оставил тело в Тривени (слияние Ганги, Ямуны и Сарасвати) в Праяге в годовщину своего отвержения, на исходе ночи (ЧЧ Антья 2.146–151); год не назван; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет"
+    facts: [F3, F32, F34]
+origin:
+  places: []
+  family: []
+  varna: ""
+  facts: [F3]
+relations:
+  - {type: other, who: "@mahaprabhu", facts: [F4, F5, F7, F15, F16, F20, F23, F26, F31, F33, F34, F40, F41, I2, I3],
+     events: [ev-chhota-haridasa-punished, ev-chhota-haridasa-prayaga],
+     note: "Певец (киртания) Господа в Пури; отвергнут за то, что, будучи вайраги, говорил с женщиной (ЧЧ Антья 2.112–125); через год оставил тело в Тривени и в божественном теле гандхарвы незримо пел Господу (2.146–149); «таково искупление» (2.165)."}
+  - {type: companion, who: "@bada-haridasa", facts: [F1, F2, F4, F5], note: "Второй певец при Господе (ЧЧ Ади 10.147; Мадхья 10.149); по ГГД 138 — Рактака и Патрака."}
+  - {type: co-worker, who: "@govinda-servant", facts: [F5, F16, F17, F35, F36],
+     events: [ev-chhota-haridasa-punished, ev-chhota-haridasa-prayaga],
+     note: "Жил при Говинде и служил с ним Господу (Мадхья 10.149–150); Господь велел Говинде не пускать его (Антья 2.113); Говинда с другими предположил о его самоубийстве (2.155–156, ⚠9). = @govinda-servant F47."}
+  - {type: co-worker, who: "@ramai-puri", facts: [F5], note: "Вместе с Говиндой служили Господу (ЧЧ Мадхья 10.149–150)."}
+  - {type: co-worker, who: "@nandai", facts: [F5], note: "Вместе с Говиндой служили Господу (ЧЧ Мадхья 10.149–150)."}
+  - {type: other, who: "@bhagavan-acharya", facts: [F10, F11, F12, F14, F15], events: [ev-chhota-haridasa-punished],
+     note: "По его поручению попросил рис у Мадхави-деви (ЧЧ Антья 2.101–111); T 136 — «в доме Бхагавана Ачарьи» (⚠4)."}
+  - {type: other, who: "@madhavi-devi", facts: [F11, F13, F14, F44], events: [ev-chhota-haridasa-punished],
+     note: "Попросил у неё один ман белого риса от имени Бхагавана Ачарьи (ЧЧ Антья 2.103–107); маха-бхагавата, вины на ней нет (⚠Б5); у Ишаны Нагары — обменял у неё подаянный рис (⚠11)."}
+  - {type: other, who: "@shikhi-mahiti", facts: [F11, F13], note: "Мадхави — сестра Шикхи Махити (ЧЧ Антья 2.103–106)."}
+  - {type: other, who: "@svarupa-damodara", facts: [F19, F27, F28, F35, F37, F42], events: [ev-chhota-haridasa-punished, ev-chhota-haridasa-prayaga],
+     note: "Просил за него; уговорил прервать пост (2.138–141); отверг догадку о самоубийстве (2.157–159); заключил, что силой Тривени он пришёл к Господу (2.166). = @svarupa-damodara F52, F71, F129, F148."}
+  - {type: other, who: "@paramananda-puri", facts: [F25, F26], events: [ev-chhota-haridasa-punished],
+     note: "По просьбе преданных просил за него; Господь пригрозил уйти в Алаланатху (ЧЧ Антья 2.128–137). = @paramananda-puri F43–F46."}
+  - {type: other, who: "@srivasa", facts: [F38, F40, F41], events: [ev-chhota-haridasa-prayaga], note: "Узнал в Навадвипе о его уходе и спросил Господа о его участи (ЧЧ Антья 2.160–165). = @srivasa F132."}
+  - {type: other, who: "@shivananda-sena", facts: [F39], note: "Привёл бенгальцев в Пури на следующий год (ЧЧ Антья 2.162). = @shivananda-sena F30."}
+  - {type: other, who: "@jagadananda-pandita", facts: [F35], events: [ev-chhota-haridasa-prayaga], note: "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @jagadananda-pandita F80."}
+  - {type: other, who: "@kashishvara", facts: [F35], events: [ev-chhota-haridasa-prayaga], note: "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @kashishvara F29."}
+  - {type: other, who: "@shankara-pandita", facts: [F35], events: [ev-chhota-haridasa-prayaga], note: "Слышал у моря его пение (ЧЧ Антья 2.153–154)."}
+  - {type: other, who: "@damodara-pandita", facts: [F35, F45], events: [ev-chhota-haridasa-prayaga], note: "Слышал у моря его пение (ЧЧ Антья 2.153–154); Мадхья 1.259 — рядом в обзоре. = @damodara-pandita F43, F52."}
+  - {type: other, who: "@mukunda-datta", facts: [F35], events: [ev-chhota-haridasa-prayaga], note: "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @mukunda-datta F57."}
+  - {type: co-worker, who: "@govinda-ghosha", facts: [F8], events: [ev-ratha-yatra-gundicha], note: "Предположительно подпевал в его (четвёртой) группе на Ратха-ятре (ЧЧ Мадхья 13.42 — «Харидас»; T 64 — Чхота Хари Дас; M 243 — «Choṭa Haridāsa» в цитате перевода ЧЧ; B 847 и «Анубхашья» — со знаком вопроса; ⚠2). = @govinda-ghosha F20."}
+  - {type: other, who: "@advaita", facts: [F44], note: "Лишь у Ишаны Нагары («Адвайта-пракаша» 18.148, ур. D): после отвержения Харидаса Адвайта с преданными уходит в Гауду."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [I2, F33, F41, F42], note: "«Анубхашья» к ЧЧ Антья 2.143, 2.146–169: наказание — урок против пракрита-сахаджии и высшая милость; оставивший тело в святом месте Вишну обретает благую участь; Господь принял его служение — киртан. B 883–884 следует ей."}
+  - {type: other, who: "@haridasa-thakura", facts: [], note: "Тёзка, не путать (Намачарья; глава B 858–880 — сразу перед нашей)."}
+identities:
+  - in: krishna-lila
+    as: "Патрака, слуга Кришны во Вриндаване"
+    source: "ГГД 138"
+    level: A
+    facts: [F2]
+    variants: ["ГГД называет пару «Рактака и Патрака» = «Харидасы старший и младший»; Младший = Патрака — по порядку пар (так и таблица введения к «Карче» Говинды Даса); T, M, B не приводят."]
+events:
+  - ev-govinda-ishvara-puri-servant
+  - ev-ratha-yatra-gundicha
+  - ev-chhota-haridasa-punished
+  - ev-chhota-haridasa-prayaga
+events_note: "ev-govinda-ishvara-puri-servant — ЧЧ Мадхья 10.130–150 (lila-db cc-madhya-b: певцы-Харидасы живут при Говинде, 10.149–150; F5); ev-ratha-yatra-gundicha — ЧЧ Мадхья 13.42, отождествление предположительно (F8, ⚠2; lila-db cc-2046); ev-chhota-haridasa-punished — ЧЧ Антья 2.101–145 и «Адвайта-пракаша» 18.138–150 (D); ev-chhota-haridasa-prayaga — ЧЧ Антья 2.146–166. Обзоры: ЧЧ Ади 10.147, Мадхья 1.259, Антья 20.105 (F4, F45)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#puri", "#prayaga", "#alalanatha", "#navadvipa"]
+places_facts: [F4, F25, F26, F32, F35, F38]
+character:
+  - {trait: "служение Господу киртаном, подобранным к Его настроению; равнодушие к мирскому", facts: [F4, F6, F33]}
+  - {trait: "проступок — ради служения Господу, не ради себя (рис для угощения Господа)", facts: [F11, F22]}
+  - {trait: "послушание старшим: по совету Сварупы прервал пост и с тех пор смотрел на Господа лишь издали", facts: [F27, F29]}
+  - {trait: "решимость обрести стопы Господа: оставил тело в Тривени и незримо продолжал петь Ему", facts: [F32, F33, F37]}
+significance: {facts: [F7, F37, F42, F43, I1, I2, I3]}
+sources:
+  T: "главы нет; 64, 129–130, 136, 141"
+  M: "главы нет; 243 (в цитате перевода ЧЧ Мадхья 13.42)"
+  B: "881–885 (гл.); 214, 222, 792–793, 847, 896, 948"
+  other: ["ЧЧ Ади 10.147", "ЧЧ Мадхья 1.259, 10.149–150, 13.42", "ЧЧ Антья 2.101–172, 20.105", "«Анубхашья» к ЧЧ Антья 2 (и Ади 10.147, Мадхья 1.259, 10.149, 13.39, 13.42)", "«Амрита-праваха-бхашья» к ЧЧ Антья 2 (кр. содерж., 2.117–165) и Мадхья 18.52", "ГГД 138", "«Адвайта-пракаша» 18.138–150 (D)", "«Намамрита-самудра» 63"]
+article: {ru: "parshadas/ru/chhota-haridasa.md", en: "parshadas/en/chhota-haridasa.md"}
+open_questions:
+  - "Тот ли он «Харидас» четвёртой группы Ратха-ятры (ЧЧ Мадхья 13.42): T — да (M — так же, в цитате перевода ЧЧ), B и «Анубхашья» — под вопросом (⚠2)."
+  - "Родина, семья, годы жизни, год ухода — неизвестны; в календаре ШЧСМ его дней нет."
+  - "Был ли он формально санньяси или вайраги в бхеке (ЧЧ — «вайраги»; B — «санньяси незрелого возраста», ⚠3)."

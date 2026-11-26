@@ -1,0 +1,106 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/govinda-ghosha.md и lila-db.
+id: "@govinda-ghosha"
+names:
+  ru: "Говинда Гхош"
+  en: "Govinda Ghosha"
+  variants: ["Говинда Гхош Тхакур", "Шри Говинда", "Гхош Тхакур («Амрита-праваха-бхашья»)", "Говинда (ЧЧ Ади 10.115, 118; Мадхья 16.16)", "Калавати (во Врадже)"]
+  facts: [F1, F11]
+kind: associate
+circle: [navadvipa, puri]
+period: [P07, P08, P12, P15]
+period_note: "Лично — в Навадвипе (киртан во дворе Шривасы, нагара-киртан в день Кази — P07; пада о санньясе — P08), в Пури (остался с Господом, когда Нитьянанда ушёл в Гауду; ведущий четвёртой группы на Ратха-ятре; ежегодные хождения из Гауды — P12) и в Панихати с Нитьянандой (P12, ЧБ — ⚠5 реестра); после ухода Господа — в Аградвипе, близ Чакханди (детство Шринивасы — P15). В Кхетури (P15) — среди спутников, явившихся с Господом (БР 10, по M). Пады — lila-db/lilas/padas.yaml."
+life:
+  appearance:
+    conf: "год, место и день явления не названы ни в книгах, ни в нашем календаре (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15)"
+    facts: [F10]
+  disappearance:
+    tithi: "Кришна-двадаши месяца Вишну (≈ чайтра) — по нашему календарю («День ухода Шрилы Говинды Гхоша Тхакура»; 16.03.2026, 3.04.2027); B — чайтра кришна-двадаши; T — чайтра кришна-трайодаши"
+    place: "#agradvipa?"
+    conf: "титхи — по нашему календарю и B (T расходится на день); год не назван; место прямо не названо (по смыслу — Аградвипа)"
+    facts: [F33, F31, F37]
+origin:
+  places: ["#shrihatta", "#kumarahatta", "#navadvipa", "#kashipur-vishnutala"]
+  family: ["@vasu-ghosha", "@madhava-ghosha"]
+  varna: "каястха (Уттара-Рархи, шаукра)"
+  facts: [F6, F7, F8, F9]
+  note: "Шрихатта → Кумарахатта → Навадвип — общее о братьях по B 189 и M 243 (= @vasu-ghosha F9–F11); T 64 — дом (по некоторым — место рождения) в Кашипур-Вишнутале близ Аградвипа (F9, ⚠8)."
+relations:
+  - {type: sibling, who: "@madhava-ghosha", facts: [F6, F14, F19, F20, F22, F23, F37], note: "Вместе пели Нитьянанде (ЧБ Антья 5.259); подпевал в его группе на Ратха-ятре; ушёл с Нитьянандой в Гауду, когда Говинда остался с Господом."}
+  - {type: sibling, who: "@vasu-ghosha", facts: [F6, F14, F19, F20, F22, F23, F37], note: "Так же; день ухода Васудевы — картика шукла-двития (B 849)."}
+  - {type: companion, who: "@mahaprabhu", facts: [F3, F15, F17, F18, F19, F20, F21, F22, F24, F27, F34, F35, I1],
+     events: [ev-dance-shrivasa-house, ev-nagara-kirtana-kazi, ev-ratha-yatra-gundicha],
+     note: "Ветвь Шри Гауранги (B, T); остался с Господом в Пури (ЧЧ Ади 10.118); ведущий певец четвёртой группы на Ратха-ятре (ЧЧ Мадхья 13.42); по указанию Господа явил Гопинатху и принял грихастха-ашрам."}
+  - {type: companion, who: "@nityananda", facts: [F14, F15, F23], events: [ev-nityananda-panihati-abhisheka], note: "Под киртан трёх братьев плясал Нитьянанда (ЧБ Антья 5.259; Панихати)."}
+  - {type: deity-served, who: "@gopinatha-agradvipa", facts: [F24, F25, F26, F30, F31, F32, I2],
+     note: "Явил Гопинатху в Аградвипе из чёрного камня по указанию Господа; Гопинатха во сне обещал Сам совершить по нему пинду и поныне ежегодно предлагает её в день его ухода (⚠Б2, ⚠Б4)."}
+  - {type: co-worker, who: "@vakreshvara", facts: [F20], event: ev-ratha-yatra-gundicha, note: "Танцор его группы на Ратха-ятре."}
+  - {type: co-worker, who: "@chhota-haridasa", facts: [F20], note: "Подпевал в его группе (у B — «(Чхота?) Харидас»)."}
+  - {type: co-worker, who: "@raghava-pandita", facts: [F20, F23], note: "Подпевал в его группе; в доме Рагхавы в Панихати братья пели Нитьянанде."}
+  - {type: co-worker, who: "@srivasa", facts: [F17, F21, F22], event: ev-dance-shrivasa-house, note: "Вели группы киртана во дворе Шривасы (ЧБ Мадхья 8.141–142); вместе шли в Пури на третий год (ЧЧ Мадхья 16.16)."}
+  - {type: co-worker, who: "@mukunda-datta", facts: [F17, F35], note: "Вёл другую группу в день Хари-васары; герой его пады о вести Гададхары (T)."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F35], note: "В паде «Пранера Мукунда хе» Гададхара приносит Мукунде весть о санньясе."}
+  - {type: other, who: "@srinivasa-acharya", facts: [F38], event: ev-srinivasa-schooling, note: "Рассказывал мальчику Шринивасе об играх Гауры (B 661; БР 2.204); благословил младенца (T 204); милость (M 188)."}
+  - {type: other, who: "@narottama-dasa", facts: [F39], event: ev-kheturi-festival, note: "Среди спутников, явившихся с Господом на киртане Нароттамы в Кхетури (БР 10, по M)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F12, F16, F25, F26, F32, I1], note: "«Гаудия-бхашья»: кая-вьюха ашрая-виграхи; «певцы Вриндавана»; «Анубхашья» к ЧЧ Ади 11.15: Гопинатха в Аградвипе и пинда."}
+  - {type: other, who: "@bhaktivedanta-svami", facts: [F7, F24], note: "По комментарию к ЧЧ (у M): основал храм Гопинатхи в Аградвипе."}
+  - {type: other, who: "@kavi-karnapura", facts: [F11, Q1]}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F2, F19, F20, Q3, Q4]}
+  - {type: other, who: "@vrindavana-dasa", facts: [F14, F17, F18, Q2, Q6, Q7]}
+unnamed:
+  - {who: "жена (ушла из этого мира раньше него, по B, T; M — «детей не было»)", type: spouse, facts: [F27, F28]}
+  - {who: "сын (ушёл раньше отца, по B, T)", type: son, facts: [F28]}
+  - {who: "царский род Надия-Кришнанагара — надзор за служением Гопинатхе", type: other, facts: [F26]}
+identities:
+  - in: krishna-lila
+    as: "Калавати — сакхи Враджа, певшая песни, сложенные Вишакхой"
+    source: "ГГД 188 (по B, T, M)"
+    level: A
+    facts: [F11, Q1]
+  - in: tattva
+    as: "кая-вьюха ашрая-виграхи (Радхи) мадхура-расы; в разряде принявших Радхику высшей ашрая-виграхой"
+    source: "Бхактисиддханта, «Гаудия-бхашья» к ЧБ Антья 5.257 (по B 848, 189; M 243)"
+    level: B
+    facts: [F12]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-dance-shrivasa-house
+  - ev-nagara-kirtana-kazi
+  - ev-sannyasa-decision-devotees-grief
+  - ev-leaving-navadvipa
+  - ev-nityananda-sent-to-gauda
+  - ev-prataparudra-watches-devotees-roof
+  - ev-gauda-devotees-arrive-puri
+  - ev-ratha-yatra-gundicha
+  - ev-gauda-devotees-yearly-visit
+  - ev-nityananda-panihati-abhisheka
+  - ev-sarvabhauma-to-varanasi
+  - ev-srinivasa-schooling
+  - ev-kheturi-festival
+events_note: "ev-nagara-kirtana-kazi — по B и T (ЧБ Мадхья 23.152, 209 — «Говинда», ⚠4); ev-sannyasa-decision-devotees-grief, ev-leaving-navadvipa — его пады (F34, F35; lila-db pad-0015, pad-0016); ev-prataparudra-watches-devotees-roof (ЧЧ Мадхья 11.88), ev-sarvabhauma-to-varanasi (ЧЧН 10) — только первоисточники (F40). Прочие пады с его подписью и о нём — lila-db/lilas/padas.yaml."
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "пада «Хе хе ре Надия-баси, кар мукха чао» (о уходе Господа из Навадвипы; ПК 1622)", facts: [F34, Q10]}
+  - {title: "пада «Пранера Мукунда хе, ки аджи шунилун ачамбите» (Гададхара приносит Мукунде весть о санньясе; ПК 1606)", facts: [F35, Q10]}
+  - {title: "другие пады с подписью «Говинда Гхош» (lila-db)", facts: [F13, F36]}
+places: ["#shrihatta", "#kumarahatta", "#navadvipa", "#house-srivasa", "#puri", "#panihati", "#gauda", "#agradvipa", "#kashipur-vishnutala", "#krishnanagar", "#chakhandi", "#kheturi"]
+places_facts: [F8, F9, F17, F19, F20, F22, F23, F24, F25, F26, F37, F38, F39]
+character:
+  - {trait: "ведущий певец киртана, под чьё пение плясали Господь, Нитьянанда и Вакрешвара", facts: [F15, F17, F20, F23], events: [ev-ratha-yatra-gundicha, ev-nityananda-panihati-abhisheka]}
+  - {trait: "свободен от мирских понятий мирских певцов — «певец Вриндавана» (Бхактисиддханта)", facts: [F16, I1]}
+  - {trait: "остался с Господом и был этому рад (ЧЧ Ади 10.118)", facts: [F19]}
+  - {trait: "послушание воле Господа: явил Гопинатху и принял грихастха-ашрам по Его указанию", facts: [F24, F27]}
+  - {trait: "смирение в подписи пады: «каменный Говинда Гхош»", facts: [F34]}
+significance: {facts: [F3, F11, F12, F24, F32, I1, I2]}
+sources:
+  T: "63–65 (общая глава о братьях Гхошах; подраздел — 64–65); 40, 62, 79, 204"
+  M: "242–245 (общая глава); 114, 188"
+  B: "847–849 (общая глава с Мадхавой); 188–190, 200, 661, 818"
+  other: ["ЧЧ Ади 10.115–118, 11.15 («Анубхашья»); Мадхья 11.88 («Амрита-праваха-бхашья»), 13.42–43, 13.73, 16.16", "ЧБ Мадхья 8.142, 23.152, 23.209; Антья 5.257–259 («Гаудия-бхашья»)", "ГГД 188", "БР 2.204, 10.549, 10.572 (по M)", "Мурари 4.17.6; ЧЧН 10; Лочан 1.34, 8.629; «Вайшнава-вандана»; НВ 2.122, 11.280", "пады (ПК 1606, 1622 и др.)"]
+article: {ru: "parshadas/ru/govinda-ghosha.md", en: "parshadas/en/govinda-ghosha.md"}
+open_questions:
+  - "День ухода: кришна-двадаши (B, наш календарь) или кришна-трайодаши (T) месяца чайтра (F33)."
+  - "Жена и сын ушли раньше него (B, T) или детей не было (M) (F28)."
+  - "Где дом и место рождения: Шрихатта/Кумарахатта/Навадвип (B, M — общее о братьях) или Кашипур-Вишнутала близ Аградвипа (T) (F8, F9)."
+  - "Когда поселился в Аградвипе: после ухода Махапрабху (M), «в конце концов» (T), срок не назван (B) (F37)."
+  - "Был ли он в Панихати с Нитьянандой (ЧБ Антья 5.259) при том, что по ЧЧ Ади 10.118 остался с Господом в Пури (F19, F23)."
+  - "«Говинда» в ЧБ Мадхья 23.152, 23.209 и ЧЧ Мадхья 13.73 — Говинда Гхош (B) или другой Говинда (Бхактисиддханта — привратник, ЧБ 23.152) (F18, F21)."

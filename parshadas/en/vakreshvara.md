@@ -14,8 +14,7 @@ amazed the denizens of heaven. <!-- F1 F2 Q1 -->
 
 Krishnadasa Kaviraja Gosvami, describing the tree of Sri Chaitanya, calls him its fifth branch:
 
-“The fifth branch is Vakreshvara Pandita, the beloved servant of Sri Chaitanya. Overwhelmed by unbroken bliss, he
-could dance for three days and nights.” (CC, Adi 10.17)[^1] <!-- F11 -->
+“Vakreshvara Pandita was a servant very dear to the Lord. In a single unbroken ecstasy he could dance for twenty-four praharas — three days and nights” (CC, Adi 10.17)[^1] <!-- F11 -->
 
 His name is woven into the very praise of the Lord: at the opening of the Madhya-khanda Vrindavana Dasa exclaims:
 “Glory to Him who is dear to the heart of Vakreshvara and Kashishvara!” (CB, Madhya 1.6)[^2] <!-- F64 Q22 -->
@@ -34,10 +33,7 @@ Vakreshvara's dancing passed into legend. Once — in the house of Srivasa, it i
 twenty-four praharas, that is, three days and nights: not by bodily strength, but in the unbroken bliss of love for
 Krishna. Krishnadasa Kaviraja also tells how the Lord Himself sang while he danced:
 
-“Once Sri Chaitanya Himself was singing, and Vakreshvara Pandita, dancing before Him, fell at Mahaprabhu's feet and
-said: ‘O moon-faced One! Give me ten thousand gandharvas. Let them sing and I will dance, and that will give me the
-greatest happiness.’ Sri Chaitanya replied: ‘You are like one of My wings; if I had another, I could fly through the
-sky.’” (CC, Adi 10.18–20) <!-- F17 F18 Q7 -->
+“While he danced, Mahaprabhu Himself would sing, and once Vakreshvara clasped the Lord’s feet and said: “O moon-faced Lord, give me ten thousand Gandharvas! Let them sing while I dance — that would be my joy.” The Lord replied, “You are one of My wings. If I had another like you, I would fly up into the sky.”” (CC, Adi 10.18–20) <!-- F17 F18 Q7 -->
 
 In Navadvipa he danced in ecstasy at the kirtanas in the houses of Srivasa and Chandrashekhara. Vrindavana Dasa names
 him among those who came to the night kirtanas at Srivasa's: “…Shridhara, Sadashiva, Vakreshvara, Shrigarbha,
@@ -105,8 +101,7 @@ all the holy places together; Vaikuntha is manifest there.’” (CB, Antya 3.49
 Seeing the mercy Vakreshvara had shown Devananda, the Lord told him to expound the “Bhagavatam” in the spirit of
 bhakti. Krishnadasa Kaviraja sums it up:
 
-“The fortieth branch, Devananda Pandita, was a reciter of the ‘Srimad-Bhagavatam.’ But by the mercy of Vakreshvara
-Pandita and by the special mercy of Sri Chaitanya he understood that the true essence of the Bhagavatam is bhakti.”
+“Devananda, the reciter of the *Bhagavata*, is an offshoot of Vakreshvara’s branch. By Vakreshvara’s mercy he received from the Lord the devotional meaning of the *Bhagavata*”
 (CC, Adi 10.77) <!-- F34 Q4 -->
 
 The heart of this story is plain. An offence against a Vaishnava is healed by the same tongue that gave it — by
@@ -121,17 +116,12 @@ When the Lord took sannyasa and settled in Puri, Vakreshvara left Navadvipa to f
 sankirtana every day and to serve Him in His final pastimes. So he settled in Nilachala for good and became one of the
 Lord's constant companions. Krishnadasa Kaviraja names him together with those who were Mahaprabhu's very life:
 
-“Among all the devotees who were intimate with the Lord in Jagannatha Puri, two — Paramananda Puri and Svarupa
-Damodara — were Sri Chaitanya's very life and breath. There were also Gadadhara, Jagadananda, Shankara, Vakreshvara,
-Damodara Pandita, Haridasa Thakura, Vaidya Raghunatha and Raghunatha Dasa. […] All these exalted devotees had
-accompanied the Lord everywhere before. When Sri Chaitanya settled in Jagannatha Puri, they stayed to serve Him
-there.” (CC, Adi 10.124–127) <!-- F35 Q5 -->
+“Of all the devotees who lived with the Lord in Nilachala, two were foremost, the Lord’s very heart: Paramananda Puri and Svarupa Damodara. With them were Gadadhara, Jagadananda, Shankara, Vakreshvara, Damodara Pandita, Thakura Haridasa, Raghunatha Vaidya and Raghunatha Dasa. These and other great devotees, His companions from before, stayed in Nilachala and served the Lord there” (CC, Adi 10.124–127) <!-- F35 Q5 -->
 
 And elsewhere, telling how Gadadhara Pandita settled in Nilachala (one biography calls this his kshetra-sannyasa — the
 vow never to leave the Kshetra):
 
-“Gadadhara Pandita, Vakreshvara, Damodara, Shankara and Haridasa Thakura stayed to live with the Lord in Puri.
-Jagadananda, Bhagavan, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara also moved there.” (CC, Madhya
+“Gadadhara Pandita Gosani lived in Nilachala, as did Vakreshvara, Damodara, Shankara and Haridasa. Jagadananda, Bhavananda, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara lived there too.” (CC, Madhya
 1.252–253) <!-- F36 Q6 -->
 
 Kavi Karnapura in the “Chaitanya-charita-mahakavya” mentions “Vakreshvara the dancer” coming to the Lord in Puri
@@ -142,17 +132,12 @@ others he went to the garden of Tota-Gopinatha to hear Gadadhara Pandita read th
 Yet here too his chief service remained his dance. At the evening kirtana in Nilachala the Lord divided the devotees
 into four parties:
 
-“In one party Sri Nityananda danced, and in another Advaita Acharya. In the third party Vakreshvara Pandita danced,
-and in the fourth Srivasa Thakura. Mahaprabhu remained in the centre of the kirtana watching them all, and He also
-displayed one of His divine perfections. All the devotees singing and dancing on every side were convinced that Sri
-Chaitanya was looking at them alone.” (CC, Madhya 11.227–230) <!-- F39 Q8 -->
+“In one group Nityananda Raya danced, and in another Advaita Acharya danced. In another group Vakreshvara Pandita danced, and in yet another, Srivasa. Mahaprabhu stood in the middle watching them, and there a wonder of His divine majesty appeared. All those dancing and singing on the four sides said, ‘The Lord is looking at me!’” (CC, Madhya 11.227–230) <!-- F39 Q8 -->
 
 At the Ratha-yatra the Lord told Nityananda, Advaita, Haridasa and Vakreshvara each to dance in his own party.
 Vakreshvara was the dancer of the fourth party:
 
-“The Lord formed the fourth party headed by the kirtaniya Govinda Ghosha. The younger Haridasa, Vishnudasa and
-Raghava were to sing the response with him, and also the two brothers Madhava and Vasudeva Ghosha. Vakreshvara
-Pandita was chosen as the dancer.” (CC, Madhya 13.42–43)
+“He formed another group with Govinda Ghosha as the leader, in which Haridasa, Vishnudasa and Raghava sang, with the two brothers Madhava and Vasudeva Ghosha; and Vakreshvara Pandita danced there.” (CC, Madhya 13.42–43)
 
 The Ghosha brothers led the singing, and “Vakreshvara himself” danced before them[^7]. <!-- F40 F41 F63 Q10 F68 -->
 
@@ -161,13 +146,12 @@ and one of them was again Vakreshvara (CC, Antya 10.58–61). During the festiva
 morning, noon and evening, the Lord made now Advaita, now Nityananda, now Haridasa, Achyutananda or Vakreshvara dance
 (CC, Madhya 14.70–72). At times the Lord told Vakreshvara to dance and Himself became the singer:
 
-“Then the Lord told Vakreshvara to dance, and He Himself began to sing. Many fine singers such as Svarupa Damodara
-began to sing with the Lord and, in a trance of divine love, forgot time and place.” (CC, Madhya 14.100–101)
+“Then the Lord told Vakreshvara to dance. Vakreshvara danced, and the Lord began to sing. Svarupa and the other singers sang with the Lord. In the flood of love they no longer knew where they were.” (CC, Madhya 14.100–101)
 <!-- F42 F43 Q11 Q9 -->
 
 In the water pastimes in Lake Indradyumna, when the devotees paired off, his opponent was Raghava Pandita:
 
-“Srivasa Thakura joined in a water battle with Gadadhara Pandita, and Raghava Pandita with Vakreshvara.” (CC, Madhya
+“Gadadhara played in the water with Srivasa, and Vakreshvara with Raghava Pandita.” (CC, Madhya
 14.81) <!-- F44 Q12 -->
 
 When Haridasa Thakura wished to leave his body before the Lord's eyes, Mahaprabhu came to his courtyard and held a
@@ -182,10 +166,7 @@ blessed them. He also greeted the Lord on the bank of Narendra-sarovara when He 
 To Vallabha Bhatta the Lord said that He had “come to know” love for Krishna through the devotees of Bengal, the
 preachers of the holy name:
 
-“Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda,
-Vasudeva, Murari and many other Vaishnavas were born in the land of Bengal. Everywhere they preach the glory of
-chanting the holy names of God and the enchanting beauty of love for Krishna. Through them all I have understood the
-essence of pure devotion to Krishna.” (CC, Antya 7.48–50) <!-- F47 Q16 -->
+“‘Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda, Vasudeva, Murari and all the other devotees who descended in Gauda have preached the name of Krishna and prema throughout the world, and whatever devotion to Krishna I have, I have gained in their company.’” (CC, Antya 7.48–50) <!-- F47 Q16 -->
 
 In Puri the Lord lived in the house of Kashi Mishra, the royal priest of King Prataparudra. It is said that this
 place later came to Vakreshvara, and that in the time of his disciple Gopala Guru the Deity of Sri Radhakanta was
@@ -239,6 +220,12 @@ the “Sri Gaura-krishnodaya,” a poem in eighteen sargas on the pastimes of Ga
 of Vakreshvara; it was published by Srila Bhaktisiddhanta Sarasvati[^11]. At the opening of the poem (1.5) the poet
 glorifies Rupa, Vakreshvara and other gurus but does not name Gopala Guru: perhaps he was not of his branch.
 <!-- F60 F61 -->
+
+Narahari Chakravarti also remembers him in the “Namamrita-samudra,” where he invokes the Lord's associates one after
+another — together with Vamshivadana:
+
+“Sri Vamshivadana, Vakreshvara, Shivananda! Dispel my sorrow and grant me bliss just once.” (“Namamrita-samudra” 33)
+<!-- F70 -->
 
 ## Departure
 Vakreshvara Pandita left this world on the shukla-shashthi of the month of Ashadha[^12]. Where this happened and where

@@ -14,8 +14,7 @@ of Nityananda, writes in the “Chaitanya-bhagavata”:
 
 Krishnadasa Kaviraja Goswami, counting the branches of Nityananda's tree in the “Chaitanya-charitamrita,” adds:
 
-“Pandita Dhananjaya is the beloved servant of Sri Nityananda. He was wholly renounced and constantly absorbed in
-feelings of love for Krishna.” (CC, Adi 11.31) <!-- F4 Q3 -->
+“Dhananjaya Pandita, a dear servant of Nityananda, was utterly detached and always full of love for Krishna” (CC, Adi 11.31) <!-- F4 Q3 -->
 
 His story begins with these two testimonies, and they already hold what matters most: Nityananda lives in his heart,
 and he himself is Nityananda's renounced servant, full of love for Krishna. Everything else in his life simply unfolds
@@ -98,10 +97,17 @@ As Nityananda's companion, Dhananjaya shared His labours in Gauda. According to 
 among Nityananda's companions at the chida-dadhi festival in Panihati, when Raghunatha Dasa fed everyone flat rice with
 yogurt:
 
-“Dhananjaya, Jagadisha, Parameshvara Dasa, Mahesha, Gauridasa and Hoda Krishnadasa.” (CC, Antya 6.62)
+“Dhananjaya, Jagadisha, Parameshvara Dasa, Mahesha, Gauridasa, Krishnadasa Hoda…” (CC, Antya 6.62)
 
 His name also appears in the list of Nityananda's servants in the “Chaitanya-bhagavata” (Antya 5) — the very verse
 quoted above — and in the Bengali “First Vandana,” which is ascribed to Vrindavana Dasa and repeats that list. <!-- F39 -->
+
+In the “Namamrita-samudra,” where Narahari Chakravarti invokes the Lord's associates one after another, Dhananjaya is
+named beside Ratnabahu and Bhavananda:
+
+“O Ratnabahu, Bhavananda, Dhananjaya! Show mercy to the afflicted, and your glory will only grow.” (“Namamrita-samudra”
+52)
+<!-- F41 -->
 
 There is also a tradition that in the neighbourhood of Shitalagrama he turned many robbers and godless men to
 devotion.[^12] <!-- F36 -->

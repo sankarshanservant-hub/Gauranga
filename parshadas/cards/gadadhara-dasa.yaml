@@ -1,0 +1,136 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/gadadhara-dasa.md и lila-db.
+id: "@gadadhara-dasa"
+names:
+  ru: "Гададхара Дас"
+  en: "Gadadhara Dasa"
+  variants: ["Дас Гададхара", "Шри Гададхара Дас Тхакур", "Гададхара Махашая (ЧБ)", "Гададхара из рода Дасов, даса-вамша-гададхара (ГГД 154)", "Gadadhar Das (T)", "Gadadhara Das Thakura (M)"]
+  facts: [F1]
+kind: associate
+circle: [navadvipa]
+period: [P07, P09, P12, P13, P14, P15]
+period_note: "Лично: Навадвипа (пады, P07; F49), Шантипур после санньясы (Лочан, изд. 1983, P09; F14), проповедь с Нитьянандой в Гауде — кази, Дана-кели (P12; F16–F36), встреча с Господом в Панихати по ЧБ Антья 5 (P13 — у ЧБ до отправки Нитьянанды, ⚠5; F13), чида-дадхи (P14; F37), после сокрытия Господа — Навадвипа при Шачи и Вишнуприи, затем Катва, Шриниваса и Нароттама (P15; F10, F11, F39–F44). Поездка в Пури с гаудийцами — лишь по «Чайтанья-чандродае» (P14; F14)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет"
+    facts: [F8]
+  disappearance:
+    date: ""
+    tithi: "Гаура-аштами месяца Дамодара (Гопаштами; 17 ноября 2026 г.) — по календарю ШЧСМ (541/ru, проверено 2026-11-15)"
+    place: ""
+    conf: "место ухода источники прямо не называют (Шриниваса узнал о нём в Кантаканагаре — M 200; поминальный праздник — в Катве); по нашему календарю; B 817, T 85 (БР 9.362) и «Према-виласа» 19 — картика кришна-аштами; M 26 — восьмой день светлой половины картики; год никто не называет (⚠8)"
+    facts: [F43]
+  samadhi:
+    - {place: "#katwa", facts: [F45], note: "«Дом Махапрабху» в Катве, рядом с самадхи Кешавы Бхарати (B 817; T 84–85)."}
+    - {place: "#ariadaha", facts: [F45, F46], note: "«Анубхашья» к ЧЧ Ади 10.53: «когда Шри Гададхара ушёл, в той деревне [Эндиядахе] устроили его самадхи» (так и M 25, B 140 — по скану названо самадхи «Гададхары Пандита», ⚠9)."}
+origin:
+  places: ["#ariadaha"]
+  family: []
+  facts: [F1, F8, F9]
+  note: "Шрипат — Ариядаха (Эриядаха, Эндиядаха) на Бхагиратхи, ~8 миль к северу от Калькутты; ГГД 154 — «из рода Дасов»; родители не названы."
+relations:
+  - {type: companion, who: "@mahaprabhu", facts: [F5, F7, F12, F13, F14, F15, F49],
+     events: [ev-gauda-journey-ganga-villages, ev-nagari-bhava-padas, ev-gaura-dance-with-devotees, ev-navadvipa-radha-bhava-gadadhara, ev-gaura-morning-navadvipa, ev-shantipura-reunion],
+     note: "Преданный Чайтаньи (ЧЧ Ади 11.13); в Панихати Господь возложил стопы ему на голову (ЧБ Антья 5.92–94); сияние (дйути) Гауры, наделённого бхавой и сиянием Радхи («Анубхашья» к Ади 10.53). T 84 «первая встреча» — не принимать (⚠3)."}
+  - {type: companion, who: "@nityananda", facts: [F5, F16, F17, F18, F20, F21, F22, F23, F34, F37, Q2],
+     events: [ev-nityananda-sent-to-gauda, ev-nityananda-preaching-gauda, ev-dana-khanda-gadadhara-dasa, ev-gadadhara-dasa-kazi-hari, ev-panihati-chida-dadhi, ev-nityananda-marriage],
+     note: "Послан с Ним в Гауду (ЧЧ Ади 11.13–14; Мадхья 15.43); Нитьянанда гостил в его доме, Дана-кели (Ади 11.17; ЧБ Антья 5.371–394); «Нитьянанда пребывал в его теле» (ЧБ 5.412). = @nityananda F262–F263, F267, F287, F294–F296, F407–F408."}
+  - {type: co-worker, who: "@abhirama", facts: [F5, F12, F16], events: [ev-nityananda-sent-to-gauda], note: "Рамадас — вместе посланы с Нитьянандой; оба в двух группах (ЧЧ Ади 11.13–15)."}
+  - {type: co-worker, who: "@raghunatha-vaidya-upadhyaya", facts: [F13, F16], events: [ev-nityananda-sent-to-gauda]}
+  - {type: co-worker, who: "@parameshvara-dasa", facts: [F13, F16], events: [ev-nityananda-sent-to-gauda]}
+  - {type: co-worker, who: "@purandara-pandita", facts: [F13, F16, F26], events: [ev-nityananda-sent-to-gauda, ev-nityananda-preaching-gauda]}
+  - {type: other, who: "@madhava-ghosha", facts: [F22, F23], events: [ev-dana-khanda-gadadhara-dasa], note: "Мадхавананда Гхош пел дана-кханду в его храме (ЧБ Антья 5.378–380; ЧЧ Ади 11.17–18)."}
+  - {type: deity-served, who: "@bala-gopala-gadadhara-dasa", facts: [F21], events: [ev-dana-khanda-gadadhara-dasa], note: "Божество его храма; Нитьянанда прижал Его к груди (ЧБ Антья 5.374–377); «Анубхашья» к Ади 10.53: пока он был в этом мире, Бала-Гопала пребывал в его доме в Эндиядахе."}
+  - {type: deity-served, who: "@gaura-deity-katwa", facts: [F11, F40], events: [ev-narottama-shrikhanda-yajigrama-katwa], note: "Установил в Катве после ухода Шачи и Вишнуприи («Гаудия-вайшнава-абхидхана» по B 815, T 84); «Анубхашья» к Ади 10.53: «в Катве у него было служение Гауре»; «Гаурачанда — жизнь Даса Гададхары» (БР 8.453)."}
+  - {type: other, who: "@raghava-pandita", facts: [F13], events: [ev-gauda-journey-ganga-villages], note: "В его доме в Панихати — милость Господа (ЧБ Антья 5.92–94)."}
+  - {type: other, who: "@raghunatha-dasa", facts: [F37], events: [ev-panihati-chida-dadhi], note: "Был на его празднике чида-дадхи (ЧЧ Антья 6.61)."}
+  - {type: other, who: "@shachi", facts: [F11], note: "По «Абхидхане» — заботился о ней в Навадвипе (B 815; T 84). = @shachi F52."}
+  - {type: other, who: "@vishnupriya", facts: [F11, F52, F53], events: [ev-vishnupriya-austerity, ev-gadadhara-riddle-gadadhara-dasa], note: "Заботился о ней; после её ухода — Катва (B 815; T 84; = @vishnupriya F103, F106); по «Анурагавалли» по её слову простил Шринивасу."}
+  - {type: disciple, who: "@yadunandana-chakravarti", facts: [F38, F54], events: [ev-katwa-khanda-memorial-festivals, ev-narottama-shrikhanda-yajigrama-katwa], note: "Ученик из Катвы (B 817; B 135; T 85 — БР 9.332; M 24); устроил поминальный праздник («Према-виласа» 19)."}
+  - {type: met, who: "@srinivasa-acharya", facts: [F39, F43, F44, F53], events: [ev-gadadhara-riddle-gadadhara-dasa, ev-gadadhara-dasa-scorching-breath, ev-katwa-khanda-memorial-festivals, ev-srinivasa-second-vrindavana],
+     note: "Благословил его в Навадвипе и Катве, обрадовался его женитьбе; Шриниваса провёл праздник по нему в Катве. = @srinivasa-acharya F43, F81, F85, F91, F99, F100, Q20."}
+  - {type: met, who: "@narottama-dasa", facts: [F40, F54], events: [ev-narottama-shrikhanda-yajigrama-katwa], note: "В Навадвипе (B 1099) и в Катве (M 110; БР 8.453; «Нароттама-виласа» 5)."}
+  - {type: met, who: "@shyamananda", facts: [F41], note: "Останавливался у него в Кантаканагаре (M 214)."}
+  - {type: other, who: "@narahari-sarakara", facts: [F39, F43, F44], events: [ev-gadadhara-dasa-narahari-departure], note: "Вместе обрадовались женитьбе Шринивасы (B 670); Нарахари скрылся вслед за ним («Према-виласа» 19)."}
+  - {type: other, who: "@kamalakara-pippalai", facts: [F42], note: "Был на празднике в Катве (B 931; T 94; ⚠7)."}
+  - {type: other, who: "@raghunandana", facts: [F42, F44], events: [ev-katwa-khanda-memorial-festivals], note: "T 72 — участвовал в празднике Гададхары Даса в Катве."}
+  - {type: other, who: "@keshava-bharati", facts: [F45], note: "Самадхи Гададхары Даса — рядом с самадхи Кешавы Бхарати в Катве."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F4, F47, F48, F53], events: [ev-srinivasa-gadadhara-puri, ev-gadadhara-riddle-gadadhara-dasa], note: "Тёзка, не путать; Пандит — облик Радхи, Дас — сияние Её тела; B 141 — не противопоставлять (= @gadadhara-pandita F101–F102); по «Анурагавалли» — загадка Пандита тёзке."}
+  - {type: other, who: "@chand-kazi", facts: [F35], note: "B 137: как Господь — Чанд Кази, так он — кази Ариядахи."}
+  - {type: other, who: "@jiva-gosvami", facts: [F36], note: "B 138: оскорбление «наставлять неверующего» по Дживе — он его не допустил. = @jiva-gosvami F85."}
+  - {type: other, who: "@vasu-ghosha", facts: [F5], note: "B 188: как он и Абхирама, так и Мадхава с Васудевой Гхошами — в обеих группах."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F4, F9, F10, F11, F17, F21, F22, F24, F25, F45, F46, F47, F56], note: "«Анубхашья» к ЧЧ Ади 10.53 (сияние Радхи; Эндиядаха, Навадвипа → Катва → Эндиядаха, служение Гауре в Катве, 1434 Шака, Бала-Гопала, «Дана-кханда», самадхи в Эндиядахе, Маллики), «Гаудия-бхашья» к ЧБ Антья 5.238, 5.381 (не надевал одежд сакхи; против «сакхи-бхеки»)."}
+  - {type: other, who: "@bhaktivedanta-svami", facts: [F3, F9, F10, F17, F21, F22, F45, F46], note: "M 24–25 цитирует его комментарий к ЧЧ — по существу перевод «Анубхашьи» Бхактисиддханты к Ади 10.53; его собственное — «1534 г.», «8–10 миль», «соединение» Чандраканти и Пурнананды."}
+unnamed:
+  - {who: "кази Ариядахи (Эндиядахи), враг киртана; избавлен им именем Хари", type: other, facts: [F27, F28, F29, F30, F31, F32, F33, F35, F36]}
+  - {who: "Мадхусудана Маллик и его сын Балай Маллик (Нарикелданга) — устроили храм на его шрипате в Ариядахе (1256 и 1312 сан)", type: patron, facts: [F46]}
+  - {who: "автор брошюры «Даса Гададхара-таттва» (1340 сан), противопоставлявший его Гададхаре Пандиту", type: other, facts: [F47]}
+identities:
+  - in: krishna-lila
+    as: "Чандраканти — проявление (вибхути) Радхи; сияние (канти) Радхи, красота Её тела"
+    source: "ГГД 154; «Анубхашья» к ЧЧ Ади 10.53"
+    level: A
+    facts: [F2, F4]
+    variants: ["B 135 приписывает слова «анга-шобха (красота тела) дочери Вришабхану» самому ГГД — в ГГД лишь «ра̄дха̄-вибхӯти-рӯпа̄» (⚠1)."]
+  - in: krishna-lila
+    as: "в нём — и Пурнананда, первая из возлюбленных Баладевы (вошла «ради дела»)"
+    source: "ГГД 155"
+    level: A
+    facts: [F3]
+    variants: ["M (по Бхактиведанте Свами): «соединение Чандраканти и Пурнананды»; вхождение — духовное (авеша), не «одержимость» (⚠Б3)."]
+  - in: other
+    as: "вечносовершенный житель Враджа с неземной бхавой Радхи; в кругу Нитьянанды — не пастушок, а в мадхура-расе"
+    source: "ЧБ Антья 5 («Гаудия-бхашья», заголовки к 5.238, 5.372); «Анубхашья» к ЧЧ Ади 10.53"
+    level: A
+    facts: [F5, F6]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-associates-descend
+  - ev-gaura-dance-with-devotees
+  - ev-nagari-bhava-padas
+  - ev-navadvipa-radha-bhava-gadadhara
+  - ev-gaura-morning-navadvipa
+  - ev-shantipura-reunion
+  - ev-nityananda-sent-to-gauda
+  - ev-nityananda-preaching-gauda
+  - ev-gadadhara-dasa-kazi-hari
+  - ev-dana-khanda-gadadhara-dasa
+  - ev-purushottama-nagara-wonders
+  - ev-gauda-journey-ganga-villages
+  - ev-panihati-chida-dadhi
+  - ev-sarvabhauma-to-varanasi
+  - ev-chaitanya-dasa-feast
+  - ev-nityananda-marriage
+  - ev-vishnupriya-austerity
+  - ev-gadadhara-riddle-gadadhara-dasa
+  - ev-gadadhara-dasa-scorching-breath
+  - ev-gadadhara-dasa-narahari-departure
+  - ev-katwa-khanda-memorial-festivals
+  - ev-narottama-shrikhanda-yajigrama-katwa
+  - ev-srinivasa-second-vrindavana
+events_note: "ev-gadadhara-dasa-kazi-hari — ЧЧ Ади 10.53, ЧБ Антья 5.395–420; ev-dana-khanda-gadadhara-dasa — ЧЧ Ади 11.17–18, ЧБ Антья 5.371–394; ev-gauda-journey-ganga-villages — ЧБ Антья 5.92–94 (у ЧБ раньше отправки Нитьянанды, ⚠5); ev-purushottama-nagara-wonders — чудо с цветком карави отнесено к нему лишь в одной вандане (F51); ev-chaitanya-dasa-feast — ЧЧ Антья 10.141 «Гададхара» спорно (⚠10); ev-sarvabhauma-to-varanasi — «Чайтанья-чандродая» 10; ev-nityananda-marriage — Джаянанда (F50). Не включены: ev-lord-sends-seat-gopala-bhatta, ev-srinivasa-gadadhara-puri (о нём лишь как о тёзке-адресате загадки — см. ev-gadadhara-riddle-gadadhara-dasa), ev-jahnava-kheturi (Катва без его имени)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#ariadaha", "#navadvipa", "#katwa", "#panihati", "#saptagrama", "#shantipura"]
+places_facts: [F9, F10, F11, F13, F14, F26, F37, F40, F43, F45, F46]
+character:
+  - {trait: "непрестанная внутренняя бхава гопи без внешнего подражания", facts: [F18, F20, F24, I1], events: [ev-dana-khanda-gadadhara-dasa]}
+  - {trait: "бесстрашие и милость в проповеди имени: ночью пришёл к грозному кази и дал ему имя", facts: [F28, F30, F32, F36, I3], events: [ev-gadadhara-dasa-kazi-hari]}
+  - {trait: "служение семье Господа: заботился о Шачи и Вишнуприи", facts: [F11]}
+  - {trait: "скорбь разлуки в последние годы (Катва)", facts: [F40, F43]}
+  - {trait: "благословляющая любовь к младшим — Шринивасе и Нароттаме", facts: [F39, F40]}
+significance: {facts: [F2, F4, F5, F7, F34, I1, I2, I3, I4, I5]}
+sources:
+  T: "83–85 (гл.); 72, 78, 80, 89, 94, 205–206; перечни — pdf 2, 15"
+  M: "24–26 (гл.); 2, 110, 190, 197, 200, 214"
+  B: "815–817 (гл.); 135–140 (в гл. 004 «Гададхара Пандит»); 103, 106, 131, 188, 670, 914, 919, 931, 1099"
+  other: ["ГГД 154–155", "ЧЧ Ади 10.53 и «Анубхашья»; Ади 11.13–18; Мадхья 15.43 («Амрита-праваха-бхашья»); Антья 6.61; Антья 10.141 (спорно)", "ЧБ Антья 5.92–94, 5.230–242, 5.371–420, 5.727 и «Гаудия-бхашья»", "Мурари 4.22.13–15", "Лочан, «Чайтанья-мангала» (Сутра; Мадхья, изд. 1983)", "«Чайтанья-чандродая», акт 10", "БР 8.156–158, 8.453, 9.332, 9.362 (по T и B)", "«Према-виласа» 19.117–178", "«Нароттама-виласа» 5–6", "«Анурагавалли» 2–3", "«Адвайта-пракаша» 22", "«Вайшнава-вандана»", "Джаянанда, «Чайтанья-мангала»", "пады Ядунанданы и Нарахари (БР 12; ГПТ)", "«Намамрита-самудра» 16"]
+article: {ru: "parshadas/ru/gadadhara-dasa.md", en: "parshadas/en/gadadhara-dasa.md"}
+open_questions:
+  - "Порядок переездов: Ариядаха → Катва (B 815) или Навадвипа → Катва → Эриядаха (B 135, T, M); где он скрылся — по «Нароттама-виласе», «Према-виласе», M — в Катве (⚠2)."
+  - "Самадхи: Катва (B 817, T) или Ариядаха (M по Бхактиведанте Свами; B 140) (⚠9)."
+  - "День ухода: кришна-аштами картики (B, T, «Према-виласа») или светлая аштами (M; календарь ШЧСМ — Гопаштами) (⚠8)."
+  - "«Праздник, данный Дасом Гададхарой в Катве» (B 931) — его собственный или поминальный по нему (⚠7)."
+  - "Тот ли «Гададхара» в ЧЧ Антья 10.141 (⚠10)."

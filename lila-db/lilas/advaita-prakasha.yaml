@@ -2335,7 +2335,7 @@
   notes: ""
   themes: [learning, mercy]
   teaching: [vedanta, gaura-tattva]
-  divergence: "Санньяси Каши назван Прабодханандой Сарасвати (в ЧЧ — Пракашананда)."
+  divergence: "«Адвайта-пракаша» называет обращённого в Каши санньяси Прабодханандой; по ЧЧ Ади 7.149 и «Анубхашье» это Пракашананда Сарасвати — другое лицо (Бхактисиддханта). Тег @prabodhananda-sarasvati — по слову источника; ср. gkd-0152, jcm-0080."
   event: ev-varanasi-sannyasis
   verses:
     - {file: "advaita-prakash/17.md", from_text: "106. Каши напо", to_text: "118. Божествен"}

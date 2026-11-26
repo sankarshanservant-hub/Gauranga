@@ -207,7 +207,7 @@
   order: 70.5
   title: "Сон Нароттамы: Гаура велит идти к Локанатхе; киртан в Навадвипе; Нитьянанда дарует прему"
   summary: "Во сне Гаура являет Свою красоту и велит идти во Вриндаван, к Локанатхе; во втором сне — санкиртана Гауры со спутниками на берегу Ганги, боги сыплют цветы; Гаура вручает Нароттаму Нитьянанде и Адвайте, Нитьянанда дарует ему прему Гауранги, все благословляют его во Вриндаван."
-  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@svarupa-damodara", "@narahari-sarakara", "@haridasa-thakura", "@vakreshvara", "@mukunda-datta", "@murari-gupta"]
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@svarupa-damodara", "@narahari-sarakara", "@haridasa-thakura", "@vakreshvara", "@mukunda-datta", "@murari-gupta", "@mahesha-pandita"]
   places: ["#kheturi", "#navadvipa"]
   kind: vision
   authority: B
@@ -517,7 +517,7 @@
   order: 88.9
   title: "Сон Нароттамы: киртан Гауры со всеми спутниками перед колесницей Джаганнатхи; повеление идти в Гауду"
   summary: "Во сне Нароттама видит Господа со спутниками всех краёв, пляшущих перед колесницей; Господь берёт его за руки: он явит неземное пение, в его киртане Господь будет плясать, Его сокровенное желание явится в пении; велит идти в Гауду, предсказывает дружбу с Рамачандрой, сыном Чиранджива Сены; Джаганнатха на мангала-арати даёт гирлянду-позволение; Гопинатхе Ачарье тоже было повеление во сне; спутники в Пури прощаются с ним."
-  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@haridasa-thakura", "@ramananda-raya", "@sarvabhauma", "@svarupa-damodara", "@prataparudra", "@jagannatha-deity", "@ramachandra-kaviraja", "@chiranjiva-sena", "@gopinatha-acharya", "@shikhi-mahiti", "@shyamananda"]
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@haridasa-thakura", "@ramananda-raya", "@sarvabhauma", "@svarupa-damodara", "@prataparudra", "@jagannatha-deity", "@ramachandra-kaviraja", "@chiranjiva-sena", "@gopinatha-acharya", "@shikhi-mahiti", "@shyamananda", "@mahesha-pandita"]
   places: ["#puri"]
   kind: vision
   authority: B
@@ -626,7 +626,7 @@
   kind: miracle
   authority: B
   themes: [deities, celestial]
-  divergence: "В «Према-виласе» — Божество из амбара Випрадаса, изваянное Самим Господом; здесь имя хозяина не названо."
+  divergence: "В «Према-виласе» — Божество из амбара Випрадаса, явленное Самим Господом; здесь имя хозяина не названо."
   event: ev-kheturi-six-deities
   verses:
     - {file: "narottama-vilasa/ru/06.md", from: "1", to: "40"}
@@ -710,7 +710,7 @@
   order: 104.7
   title: "Путь Джахнавы в Кхетури: небесный голос в Кхардахе, Амбика, Навадвипа, Акаихат, Катва (рассказ вестника)"
   summary: "Вестник рассказывает: спутники Нитьянанды в Кхардахе просят Васудху и Джахнаву идти в Кхетури; при выходе голос с неба (Господа) обещает плясать в санкиртане в Кхетури и предсказывает путь Джахнавы во Вриндаван; в Амбике к ней присоединяются Хридая Чайтанья и Чайтанья Дас, сын Вамшиваданы; весть из Шантипура об Ачьютананде; в Навадвипе у Шривасы — Ачьютананда, Гопала, Шрипати, Шринидхи; в Акаихате — певец Кришнадас; в Катве у Ядунанданы — Рагхунандана, Ванинатха и другие; Джахнава сама готовит угощение Гауранге."
-  persons: ["@jahnava", "@vasudha", "@virabhadra", "@ganga-nityananda", "@parameshvara-dasa", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@vamshivadana", "@achyutananda", "@gopala-dasa-advaita", "@sita-thakurani", "@shripati", "@yadunandana-chakravarti", "@raghunandana", "@gadadhara-dasa", "@jnanadasa", "@mahaprabhu"]
+  persons: ["@jahnava", "@vasudha", "@virabhadra", "@ganga-nityananda", "@parameshvara-dasa", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@vamshivadana", "@achyutananda", "@gopala-dasa-advaita", "@sita-thakurani", "@shripati", "@yadunandana-chakravarti", "@raghunandana", "@gadadhara-dasa", "@jnanadasa", "@mahaprabhu", "@krishnadasa-akaihat"]
   places: ["#kharadaha", "#ambika-kalna", "#navadvipa", "#katwa"]
   kind: post-advent
   authority: B
@@ -727,7 +727,7 @@
   order: 104.8
   title: "Встреча Джахнавы и спутников у Кхетури; размещение гостей"
   summary: "Шриниваса, Нароттама и Шьямананда встречают Джахнаву, Ачьютананду и других; объятия; Шриниваса размещает гостей и приставляет к каждой группе своих учеников (Рамачандру к Джахнаве, Шьямананду к Хридае Чайтанье и т. д.), выдаёт каждому кладовую. Подпись автора и колофон."
-  persons: ["@jahnava", "@achyutananda", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@karnapura-kaviraja", "@govinda-kaviraja", "@hridaya-chaitanya", "@vyasa-acharya", "@gokulananda", "@shridasa-chakravarti"]
+  persons: ["@jahnava", "@achyutananda", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@karnapura-kaviraja", "@govinda-kaviraja", "@hridaya-chaitanya", "@vyasa-acharya", "@gokulananda", "@shridasa-chakravarti", "@krishnadasa-akaihat"]
   places: ["#kheturi"]
   kind: post-advent
   authority: B
@@ -780,7 +780,7 @@
   order: 105.1
   title: "Санкиртана Нароттамы в Кхетури: Гаура со всеми спутниками является и пляшет"
   summary: "Нароттама с Девидасом, Гаурангой Дасом, Гокулой, Валлабхой начинает киртан (шлока Вишванатхи); боги сыплют цветы, маханты признают в нём сокровищницу пения, вверенную Господом; Гаура, Нитьянанда, Адвайта, Шриваса, Гададхара и бесчисленные спутники, явленные и неявленные, становятся видимы всем и пляшут вместе с Ачьютанандой, Нароттамой, Шринивасой и другими, проливая прему; затем исчезают — общий плач, пашанди обращаются; Джахнава утешает Шринивасу и Нароттаму."
-  persons: ["@narottama-dasa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@svarupa-damodara", "@haridasa-thakura", "@vakreshvara", "@narahari-sarakara", "@gauridasa-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@achyutananda", "@raghunandana", "@jahnava", "@ramachandra-kaviraja", "@shyamananda"]
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@svarupa-damodara", "@haridasa-thakura", "@vakreshvara", "@narahari-sarakara", "@gauridasa-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@achyutananda", "@raghunandana", "@jahnava", "@ramachandra-kaviraja", "@shyamananda", "@mahesha-pandita"]
   places: ["#kheturi"]
   kind: vision
   authority: B
@@ -834,7 +834,7 @@
   order: 105.4
   title: "Второй день праздника в Кхетури: угощение махантов, дары раджи Сантоши; пашанди обращаются"
   summary: "Повара махантов готовят по жилищам, Сантоша Рай дарит махантам и их людям шёлк, монеты, утварь; перечислены сидевшие за трапезой у Джахнавы, Ачьютананды, Хридаи Чайтаньи, Рагхунанданы, Ядунанданы; прасад получают все, даже чандалы; люди говорят, что пашанди едят остатки вайшнавов и поют о Гауре."
-  persons: ["@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@jahnava", "@achyutananda", "@gopala-dasa-advaita", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@raghunandana", "@yadunandana-chakravarti", "@shripati", "@ramachandra-kaviraja", "@shyamananda", "@jnanadasa"]
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@jahnava", "@achyutananda", "@gopala-dasa-advaita", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@raghunandana", "@yadunandana-chakravarti", "@shripati", "@ramachandra-kaviraja", "@shyamananda", "@jnanadasa", "@krishnadasa-akaihat"]
   places: ["#kheturi"]
   kind: post-advent
   authority: B

@@ -86,7 +86,7 @@
   kind: lila
   authority: A
   parallels: "ЧЧ Мадхья 3; Мурари 3.3.1–18"
-  notes: "Говинда (ст. 52) — по-видимому, слуга Господа (@govinda-servant); отождествление условно."
+  notes: "Говинда (ст. 52) — по-видимому, слуга Господа (@govinda-servant); отождествление условно: по ЧЧ (Мадхья 10.130–134) слуга Ишвары Пури пришёл к Господу лишь после южного странствия; «Гаудия-бхашья» к ЧБ Ади 10.2 сводит всех «Говинд» ЧБ в одного привратника (см. parshadas/facts/govinda-servant.md ⚠10, F66)."
   themes: [kirtan, ecstasy, pilgrimage]
   bhava: [sannyasi]
   event: ev-radha-desha-wandering
@@ -347,7 +347,7 @@
   places: []
   kind: teaching
   authority: A
-  notes: "Говинда — условно слуга Господа; Брахмананда — условно Брахмананда Бхарати (в ЧЧ он приходит в Пури позже; по ЧЧ Мадхья 5 спутники — Нитьянанда, Джагадананда, Мукунда, Дамодара)."
+  notes: "Говинда — условно слуга Господа (по ЧЧ Мадхья 10 он пришёл позже; см. parshadas/facts/govinda-servant.md ⚠10); Брахмананда — условно Брахмананда Бхарати (в ЧЧ он приходит в Пури позже; по ЧЧ Мадхья 5 спутники — Нитьянанда, Джагадананда, Мукунда, Дамодара)."
   themes: [teaching, sannyasa]
   teaching: [sannyasa-teaching]
   event: ev-journey-to-puri
@@ -1339,8 +1339,8 @@
   period: P13
   order: 7.3
   title: "Панихати: шак Рагхавы; «Нитьянанда неотличен от Меня»"
-  summary: "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве."
-  persons: ["@mahaprabhu", "@raghava-pandita", "@nityananda", "@gadadhara-dasa", "@raghunatha-vaidya-upadhyaya", "@makaradhvaja-kara"]
+  summary: "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову), Пурандара Пандит и Парамешвари Дас (увидев Господа, оба плачут от любви) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве."
+  persons: ["@mahaprabhu", "@raghava-pandita", "@nityananda", "@gadadhara-dasa", "@purandara-pandita", "@parameshvara-dasa", "@raghunatha-vaidya-upadhyaya", "@makaradhvaja-kara"]
   places: ["#panihati"]
   kind: lila
   authority: A
@@ -1684,11 +1684,11 @@
   order: 305
   title: "Перечень спутников Нитьянанды"
   summary: "Автор перечисляет известных ему слуг Нитьянанды — проявления пастушков и пастушек из окружения Нанды, чьи прежние имена по запрету Нитьянанды не раскрывает: Рамадас (в его теле три месяца пребывал Кришна), Мурари Чайтанья Дас, Рагхунатха Вайдья Упадхьяя, Гададхара Дас, Сундарананда, Камалаканта (проповедник Саптаграмы), Гауридас, Пурандара, Парамешвари Дас, Дхананджая, Баларама Дас, Ядунатха Кавичандра, Джагадиш, Пурушоттама Пандит, Кришнадас из Радха-деши, Кала Кришнадас, Садашива Кавирадж и его сын Пурушоттама Дас, Уддхарана Датта, Махеша, Парамананда Упадхьяя, Гангадас, Вайшнавананда (прежде Рагхунатха Пури), Парамананда Гупта, Кришнадас из Бадагачхи, Мадхавананда и Васудева Гхоши, Джива Пандит и другие; у каждого — тысячи последователей."
-  persons: ["@vrindavana-dasa", "@nityananda", "@abhirama", "@murari-chaitanya-dasa", "@raghunatha-vaidya-upadhyaya", "@gadadhara-dasa", "@sundarananda", "@gauridasa-pandita", "@purandara-pandita", "@parameshvara-dasa", "@dhananjaya-pandita", "@yadunatha-kavichandra", "@jagadisha-pandita", "@kala-krishnadasa", "@sadashiva-kaviraja", "@uddharana-datta", "@mahesha-pandita", "@vaishnavananda", "@paramananda-gupta", "@krishnadasa-badagachhi", "@madhava-ghosha", "@vasu-ghosha", "@jiva-pandita"]
+  persons: ["@vrindavana-dasa", "@nityananda", "@abhirama", "@murari-chaitanya-dasa", "@raghunatha-vaidya-upadhyaya", "@gadadhara-dasa", "@sundarananda", "@gauridasa-pandita", "@purandara-pandita", "@parameshvara-dasa", "@dhananjaya-pandita", "@yadunatha-kavichandra", "@jagadisha-pandita", "@kaliya-krishnadasa", "@sadashiva-kaviraja", "@uddharana-datta", "@mahesha-pandita", "@vaishnavananda", "@paramananda-gupta", "@krishnadasa-badagachhi", "@madhava-ghosha", "@vasu-ghosha", "@jiva-pandita"]
   places: []
   kind: author
   authority: A
-  notes: "Ст. 744 в md искажён (слит с пояснением)."
+  notes: "Ст. 744 в md искажён (слит с пояснением). Ст. 740 «Калия Кришнадас» — @kaliya-krishnadasa (из двенадцати гопалов), не @kala-krishnadasa (слуга Господа на юге; «Анубхашья» к ЧЧ Мадхья 7.39)."
   themes: [author]
   teaching: [associates-tattva]
   verses:
@@ -1947,12 +1947,12 @@
   order: 20
   title: "Встреча у Атхаранала и Нарендра-саровары; гирлянды от Джаганнатхи"
   summary: "У Камалапура преданные видят флаг храма; Господь, из любви к Адвайте посылавший Ему махапрасад всю дорогу до Каттака («Адвайта — причина Моего нисхождения: Его зов прервал Мой сон в молочном океане»), выходит навстречу с Нитьянандой, Гададхарой и Пури Госвами; у Атхаранала и Нарендра-саровары две группы встречаются, все кланяются всем, не разбирая старших и младших; Адвайта рычит: «Я привёл Тебя!»; по велению Джаганнатхи приносят сандал и тысячи гирлянд — первую Господь надевает на Адвайту, затем Сам на каждого; преданные молят помнить Его стопы в любом рождении; жёны вайшнавов плачут, глядя издали."
-  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@paramananda-puri", "@jagannatha-deity"]
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@paramananda-puri", "@jagannatha-deity", "@shikhi-mahiti", "@pradyumna-mishra", "@bhagavan-acharya"]
   places: ["#kamalapura", "#narendra-sarovara", "#puri"]
   kind: lila
   authority: A
   parallels: "ЧЧ Мадхья 11; Мурари 4.17–4.19.15"
-  notes: "Ст. 56–61 в md отсутствуют."
+  notes: "Ст. 56–61 (перечень жителей Пури, вышедших с Господом навстречу) в ed — одной группой; из них помечены Шикхи Махити (проверка @shikhi-mahiti), Прадьюмна Мишра, «первый в према-бхакти» (8.57; проверка @pradyumna-mishra), и *а̄ча̄рйа-бхагава̄н*, Бхагаван Ачарья (8.57; проверка @bhagavan-acharya, 2026-11-17), остальные имена — без тегов; в ст. 58 — *па̄тра ш́рӣ пара̄ма̄нанда*, Парамананда Махапатра (в ed прежде ошибочно «Парамананда Пури», исправлено 2026-11-16)."
   themes: [kirtan, jagannatha, mercy]
   teaching: [vaishnava]
   event: ev-gauda-devotees-arrive-puri

@@ -46,12 +46,12 @@ Vaishnavas all over the world as supremely auspicious, is Gaura-tritiya of the m
 ## Lineage
 Out of deep humility Rupa and Sanatana called themselves men of low birth. Sanatana says to Mahaprabhu:
 
-“I took birth in a truly godless family, in which sin and the breaking of God's commandments were an everyday matter”.
+“I was born in a low family; every kind of irreligion and wrongdoing was the custom of my family”.
 (CC, Antya 4.28)
 
 And in Ramakeli the brothers confessed to the Lord:
 
-“We have defiled our birth by low deeds and by association with base people. We are unworthy even to stand before You”.
+“We are low-born, we keep low company and do low work; O Lord, we are ashamed even to speak before You.”
 (CC, Madhya 1.189) <!-- Q1 Q2 -->
 
 Pretended scholars of coarse understanding failed to grasp this lila of humility played by the teachers of the world. As
@@ -118,27 +118,16 @@ Jiva appeared in Bakla-Chandradvipa.[^9] His mother's name is not known. <!-- F4
 His father was originally called Vallabha; the name “Anupama” was given to him by Mahaprabhu. For his service under the
 badshah of Gauda he, like his brothers, bore the title “Mallik”. The “Chaitanya-charitamrita” says:
 
-“Sri Rupa's brother was also a great Vaishnava. His name was Sri Vallabha, but he was better known as Anupama Mallik”.
+“Anupama Mallika, whose name was Sri Vallabha, was Rupa Gosvami's younger brother and a great Vaishnava.”
 (CC, Madhya 19.36) <!-- F42 Q7 -->
 
 And in his list of the branches of the tree of bhakti Krishnadasa Kaviraja names father and son together:
 
-“Sri Rupa and Sri Sanatana are a great branch, and Sri Anupama, Sri Jiva Gosvami, Rajendra and other devotees are twigs on
-those branches”. (CC, Adi 10.85)
+“Among them Rupa and Sanatana are the great branch, and Anupama, Jiva, Rajendra and others are its offshoots”. (CC, Adi 10.85)
 
 What kind of devotee Anupama was, Sanatana himself tells Mahaprabhu:
 
-“My younger brother Anupama was from his very childhood a great devotee of Ramachandra. He worshipped Him with
-determination and devotion in his heart. Day and night he chanted the holy name of Rama and meditated on His eternal
-form, and constantly heard and recounted the narratives of the sacred «Ramayana». <…>
-
-After these words he could not sleep all night, thinking: «How can I give up the lotus feet of Lord Ramachandra?» He
-wept the whole night through, and in the morning came to us with a humble request: «I have sold my head, offering it to
-the lotus feet of Ramachandra. I cannot take it back. The very thought of it brings me unbearable pain. Do not be so
-strict with me. Please show your mercy. Allow me, life after life, to serve the lotus feet of Ramachandra. I have no
-strength to reject the service of Ramachandra's lotus feet. The very thought of it tears my heart to pieces». Hearing
-these words, we embraced him and began to praise him: «You are a true saint, for your devotion to God is firm and
-unshakeable»”. (CC, Antya 4.30–31, 38–43)
+“From his childhood my brother Anupama worshipped Raghunatha with a firm mind. Night and day he chanted the name of Raghunatha and meditated on Him; incessantly he heard the *Ramayana* and sang it. <…> Having said this, he reflected through the night: ‘How shall I give up the feet of Raghunatha?’ He stayed awake the whole night, weeping, and in the morning he submitted to the two of us: ‘I have sold my head at the lotus feet of Raghunatha. I cannot take my head back; it gives me great pain. Be merciful, both of you, and give me leave to serve the feet of Raghunatha birth after birth. I cannot give up the lotus feet of Raghunatha; at the very thought of giving them up, my heart breaks.’ Then the two of us embraced him and praised him, saying, ‘Excellent! Your devotion is firm.’” (CC, Antya 4.30–31, 38–43)
 
 Anupama lived inseparably with his brothers and with them heard talks about Krishna and the “Bhagavatam”. The brothers
 wanted to test him and urged him to worship the all-attractive Krishna together with them; out of respect for them he
@@ -212,12 +201,7 @@ quickly to Vraja: the Lord has given that place to your family»”. (“Bhakti-
 
 Krishnadasa Kaviraja writes of the same:
 
-“Having decided to go from Bengal to Mathura, Sri Jiva Gosvami asked Srila Nityananda Prabhu for permission. Since Sri
-Jiva was the nephew of Sanatana and Rupa Gosvami, who were especially dear to Sri Chaitanya Mahaprabhu, Sri Nityananda
-bestowed His mercy on him, touching his head with His foot and clasping him in His embrace. Then Nityananda Prabhu gave
-Sri Jiva this order: «Go to Vrindavana at once. Sri Chaitanya has made the holy land of Vraja a special place for your
-whole family». At His command Sri Jiva went to Vrindavana and there obtained the fruit of fulfilling the will of God: he
-composed many spiritual books and successfully preached from there the teaching of bhakti”. (CC, Antya 4.232–235)
+“When Jiva Gosani was setting out from Gauda for Mathura, he begged leave of Nityananda Prabhu. With love Nityananda Prabhu placed His feet on Jiva's head, and because he was related to Rupa and Sanatana, He embraced him. He ordered him, ‘Go quickly to Vrindavana. The Lord has given that place to your family.’ By His order he came, and he obtained the fruit of obeying it: composing scriptures, he preached bhakti for a long time.” (CC, Antya 4.232–235)
 <!-- F60 Q12 -->
 
 Before leaving, Jiva, following Nityananda and by His mercy, went round all the holy places of Navadvipa-dhama. In
@@ -237,13 +221,7 @@ on Sarvabhauma, and he passed this task on to Jiva through one of his disciples.
 From Kashi Jiva came to Vrindavana, took full shelter of Rupa and Sanatana, studied with them the whole “Bhagavata” and the
 shastras of bhakti, and from then on never left Vraja-mandala. Krishnadasa Kaviraja writes:
 
-“The son of Sri Vallabha (Anupama), the younger brother of Rupa Gosvami, was the greatest knower of the sacred scriptures.
-His name was Sri Jiva Gosvami. Sri Jiva Gosvami came to Vrindavana, completely leaving his worldly life. He also wrote many
-books on pure devotion to God and helped to spread them. He wrote the book “Bhagavat-sandarbha”, in which he revealed the
-essence of all the scriptures. In it we find the deepest explanation of the nature of God and of loving service to Him.
-He also wrote the “Gopala-champu”, in which he explained the nature of the loving pastimes of Sri Sri Radha-Krishna in
-Vrindavana. In the “Shat-sandarbha” he set out all the highest truths about divine love for Krishna. In his works one can
-find more than four hundred thousand Sanskrit verses”. (CC, Antya 4.227–231) <!-- F66 F67 -->
+“His younger brother was Sri Vallabha, called Anupama, whose son was the great scholar named Sri Jiva. Giving up everything, he later came to Vrindavana and propagated many scriptures of bhakti. He wrote the *Bhagavata-sandarbha*, the essence of all books, where we find the conclusions of the *Bhagavatam* in all their depth. He also wrote the *Gopala-champu* and many other books, in which he revealed the essence of the rasa of Vraja's love-pastimes. In the *Shat-sandarbha* he revealed the truth of love for Krishna. He composed four hundred thousand *granthas* in all”. (CC, Antya 4.227–231) <!-- F66 F67 -->
 
 Rupa and Sanatana were so pleased with Jiva's transcendental learning and his inborn grasp of the conclusions of bhakti
 that they even gave him their own books to correct:
@@ -288,7 +266,7 @@ Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^17] <!-- F7
 
 When Nityananda's son Virachandra (Virabhadra) came to Vrindavana, the mahajanas of Vraja went out to meet him — Jiva,
 Krishnadasa Kaviraja, Ananta Acharya, Haridasa Pandita, Krishnadasa Brahmachari (a disciple of Gadadhara Pandita and
-servant of Madana-Gopala), Gopinatha Adhikari, Madhu Pandita and his fellow Madhavacharya. With the permission of Bhugarbha
+servant of Madana-Gopala), Madhu Pandita, the adhikari (steward of the service) of Gopinatha, and his godbrother Bhavananda. With the permission of Bhugarbha
 and Jiva, Virachandra went round Vraja: the twelve forests, Radha- and Shyama-kundas, Govardhana.[^18] <!-- F81 F82 -->
 
 Jiva's name appears in many other accounts of the Vaishnavas of that time as well. He is among those who teach the worship
@@ -404,11 +382,11 @@ parakiya. They were all immersed in bliss, relishing this”. (“Karnananda”,
 
 What Jiva intended in his commentary “Lochana-rochani” on the “Ujjvala-nilamani” was disclosed by Vishvanatha Chakravarti in
 his commentary “Ananda-chandrika”, and the purpose of that intention was explained by Narahari Chakravarti. In the
-“Narottama-vilasa” (in the verses about himself as author) he writes: in his commentary on the “Ujjvala-nilamani” Jiva gave
-many explanations for the sake of people of a bad disposition; the ill-intentioned do not grasp Jiva's words; statements
-of tattva are brought into all the lilas. Jiva is a follower of Rupa; by his mercy the truth reveals itself in the heart
-— who, then, can understand the words of such a Jiva? And Vishvanatha is not different from Jiva in outlook: Rupa's intention
-was manifest in him, and together with Radhika and her friends he showed the world great mercy. <!-- F107 F108 Q18 -->
+“Narottama-vilasa” (in the verses about himself as author) he writes that in his commentary on the “Ujjvala-nilamani” Vishvanatha gave many explanations for
+the sake of people of a bad disposition, since the ill-intentioned do not grasp Jiva's words: Jiva is a follower of Rupa;
+by his mercy the truth reveals itself in him — who, then, can understand the words of such a Jiva? And Vishvanatha is
+not different from Jiva in outlook: Rupa's intention was manifest in him, and Sri Radhika with Her friends showed him
+great mercy. <!-- F107 F108 Q18 -->
 
 The dispute over svakiya and parakiya did not die down later either. Tradition tells that the Jaipur pandita-digvijayi
 Krishnadeva Sharma, with a decree from the Delhi padishah Muhammad Shah, at the head of troops and vassals, appeared at the
@@ -807,8 +785,7 @@ These are His particularities, and therefore Bhagavan is always savishesha — f
 formless; His eternal transcendental form is sach-chid-ananda, full of the six opulences. So the “Chaitanya-charitamrita”
 teaches as well:
 
-“The direct meaning of the word «brahma» (Brahman) is Bhagavan, the Supreme Lord. The unsurpassed and incomparable Lord is
-full of all spiritual perfections”. (CC, Adi 7.111) <!-- F203 Q36 Q38 -->
+“In its primary sense the word “Brahman” means Bhagavan, full of spiritual majesty, with none above Him or equal to Him”. (CC, Adi 7.111) <!-- F203 Q36 Q38 -->
 
 Jiva says in the “Bhagavat-sandarbha” (16): the Supreme Truth is one, but by Its natural inconceivable shakti It always
 abides in four aspects — as the svarupa, as its vaibhava (splendour), as the jivas and as pradhana — like the radiance within
@@ -838,9 +815,7 @@ This teaching Jiva set out in his books, and he wrote so much that no authoritat
 his writings. Krishnadasa Kaviraja, speaking of the
 books of the Gosvamis of Vraja, says of him:
 
-“Sri Rupa's nephew, named Sri Jiva Gosvami, also wrote many excellent works on bhakti. In his «Sri Bhagavat-sandarbha» he
-set out the principal conclusions concerning the highest goal of bhakti. In the famous book «Gopala-champu» he described
-the essence of Sri Krishna's eternal pastimes and all the rasas of Vraja”. (CC, Madhya 1.42–44)
+“His nephew is named Sri Jiva Gosani. There is no end to the books of devotion he composed. In his extensive work, the *Sri Bhagavata-sandarbha*, he has written the essence of the conclusions of devotion. In his renowned *Gopala-champu*, full of the rasa of Vraja, he established the eternity of Krishna's pastimes.” (CC, Madhya 1.42–44)
 
 In Bengali the first line runs: “how many books on bhakti he wrote — there is no end to them”; yet Kaviraja names only
 two of them. Narahari Chakravarti in the “Bhakti-ratnakara” gives a list both in Sanskrit and in Bengali verse, but it too
@@ -1553,6 +1528,12 @@ Dasa, Raghunatha Bhatta. In the list of the guru-parampara in the same manuscrip
 edition: Sanatana and Rupa, Bhatta Raghunatha, Bhatta Gopala, Jiva, Raghunatha; whether it belongs to the author or to a
 copyist is unclear. <!-- F364 F365 -->
 
+Narahari Chakravarti calls on him too in the “Namamrita-samudra,” his prayers to the Lord's associates:
+
+“Sri Jiva, Subuddhi Mishra, Raghava, Kamsari! Do whatever is fitting — I myself can say nothing.” (“Namamrita-samudra”
+31)
+<!-- F391 -->
+
 ## After Jiva: Vishvanatha and Baladeva
 Jiva explained the “Bhagavatam” in the “Sandarbhas”, but not in a continuous commentary; a continuous one was written only
 by Vishvanatha Chakravarti, who relied especially on the “Sandarbhas”. Indeed, after Jiva's departure, until Vishvanatha
@@ -1685,7 +1666,9 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
 [^18]: According to the “Bhakti-ratnakara” (13th wave), as one of the biographies retells it, Virachandra went round Vraja
     with the permission of his mother, Vasudha, and with the blessing of Bhugarbha and Jiva; according to another
     biography, at their command. The “Bhakti-ratnakara” itself (13.329) says “with the permission” of Bhugarbha, Sri Jiva
-    and others.
+    and others. One of the biographies lists “Gopinatha Adhikari” among those who came out to meet him as a separate
+    person; but in the “Bhakti-ratnakara” (13.319–320) “the adhikari of Sri Gopinatha” is the title of Madhu Pandita
+    himself, and his godbrother is Bhavananda, the servant of Gopinatha (so too in that biography).
 
 [^19]: One of the biographies, in its chapter on Madhavendra Puri, also mentions Jiva's father: Mahaprabhu came to Arail,
     where Rupa and Vallabha were living, in 1434/1435 Shaka (1512–1513) and showed mercy to Vallabhacharya. This date is
