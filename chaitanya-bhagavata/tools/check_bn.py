@@ -12,7 +12,7 @@ def nums(path):
     out = []
     for m in LAB.finditer(t):
         a, b = int(m.group(1)), int(m.group(2) or m.group(1))
-        out.append((a, b, m.end()))
+        out.append((a, b, m.end(), m.start()))
     return t, out
 
 
@@ -21,14 +21,14 @@ def check(name):
     if not os.path.exists(bn): return [f'{name}: нет bn-файла']
     t, B = nums(bn); _, E = nums(ed)
     errs = []
-    sb = {n for a, b, _ in B for n in range(a, b + 1)}; se = {n for a, b, _ in E for n in range(a, b + 1)}
+    sb = {n for a, b, *_ in B for n in range(a, b + 1)}; se = {n for a, b, *_ in E for n in range(a, b + 1)}
     if sb != se:
         errs.append(f'{name}: номера не совпадают с ed — нет в bn: {sorted(se - sb)[:15]}, лишние: {sorted(sb - se)[:15]}')
     prev = 0
-    for i, (a, b, end) in enumerate(B):
+    for i, (a, b, end, _st) in enumerate(B):
         if a != prev + 1: errs.append(f'{name}: после {prev} идёт {a}')
         prev = b
-        nxt = B[i + 1][2] - len(f'**{B[i + 1][0]}.**') if i + 1 < len(B) else len(t)
+        nxt = B[i + 1][3] if i + 1 < len(B) else len(t)  # начало следующей метки (в т. ч. группы **27–28.**)
         body = re.sub(r'<!--.*?-->', '', t[end:nxt], flags=re.S).strip()
         if not body: errs.append(f'{name} {a}: пустой стих'); continue
         bad = re.findall(r'[A-Za-z0-9০-৯॥|_~{}\[\]<>=+*]', body.replace('⟨?⟩', ''))
