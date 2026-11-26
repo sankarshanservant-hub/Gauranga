@@ -1,0 +1,357 @@
+## Foreword (Srila Bhaktisiddhanta Sarasvati)
+
+Men of culture are often found to devote themselves in acquiring knowledge of various subjects which could prove efficacious to them in their needs; so we may not confuse to accept all readers in the same line of thought. The best scrutinizers of knowledge in their cultural extension should possess all skill and dexterity to get their most covetable end having had a care for Eternity and uninterrupted Blissful unalloyed Knowledge. This incarnate of the acme of knowledge-seekers will be the best reader of this book when they can have the privilege of comparing the merits of different views of pure theists.
+
+Mental speculationists have diverse objects of investigation and their diversity of seeking Knowledge would simply disturb the peaceful mentality having been tempted by the duping features of external manifestations, quite suitable and dove-tailing the present purposes of enjoyment by their imperfect senses.
+
+The writer has got the prime object of furnishing a comparative study in which the position of a reader has the highest place. This is his only ambition, of healing the depraved mentality of the so-called culturists of True Knowledge. But the readers have different motives of utilizing the product of their enterprise of perusing the book. One class of readers are found to criticise the merits and demerits of the writer in order to establish their superiority, with a view to puff up their vanity. Another class is observed to muse over the subject by spending their time for the gratification of their senses. The third section of readers mean to profit by reading the book in order to regulate their life for a better purpose. The under-estimation of a desirable element for some utilisation through temporal gratification of senses, would not equipoise the third position of the reader who will surely mark the distinctive situation by comparing other things and agree with the author in spending his valuable time for true amelioration.
+
+The body of the book will appear before readers as a historical account of the Journey of life of a Hero. But the Hero is not an ordinary mundane hero for a hallucinative ambition with a spiritual tinge. The account will no doubt show that the targetted Object of the manifestive spiritual world is Eternal and identical with the Hero of the speaker. Hasty conclusions will be pouring forth to oppose this by welcoming anthropomorphic and apotheotic thoughts.
+
+The delineations will prove that the Object pointed to is beyond the comprehension of crippled senses. And the Absolute Eternity made up of Pure Knowledge and Incessant Bliss is never to be had within the compass of our senses. All objects of the phenomena which are comprehended by senses have temporal situation and deformed entity void of different ‘qualities’ that are always submissive to senses.
+
+Sree Krishna-Chaitanya’s inculcations of the Personality of Godhead cannot be restricted to or accused as Idolatry. Idols are constructed of mundane materials and are subject to the inspection of senses. The Eternal Absolute does not exactly submit to these senses as He does not put Himself as a shareholder of phenomenal things. Whichever comes under senses has equal value with one of Nature’s products and forms to be a subject of the jurisdiction of senses.
+
+The Eternal Absolute is inconceivable by limited senses. The partially eclipsed views of the Absolute are shaky, non-absolute, liable to transformation and under the clutch of the span of Time. The physical limitations are all accommodated in Space, Time and particular entities. The naming of the Transcendental Absolute through the lips of a mundane agent will surely seek after a size, a colour, etc., and must undergo the ocular examination. The Transcendental Absolute should in no case submit to our dermal perceptions, neither to our nasal or lingual activities as well.
+
+The Transcendental Sound has got a distinctive denomination from mundane sounds which often tend to submit to the test of other senses. As the Transcendental Sound has not been originated in mundane phenomena, He will not be diffident in showing His true phase whose manifestive realisations are identical with the Name Himself. In that case the essence of such Sound would not permit the different entities of the same Object; as we find in phenomenal objects tracings of numerical base instead of the integral unit. The differential values are integrated in the Transcendence. So there is indication of One Object by the dinning of the ethereal vibrations in different positions. These sounds converge in One Point Who is known as the Absolute. This Absolute is on the Eternal plane of All-Knowledge and Incessant Bliss and can have manifestive Absolute phases with Him. If the various sounds are put into this chaotic plane, there is no reconciliation of a synthetic method. This unharmonising tendency will surely bring a contending and unpleasant atmosphere which we experience everyday.
+
+The uneclipsed phase of the Integral Sound will not in any case bring rupture, but harmonise the contending phase due to the intervention of foreign intrusion. The demarcating lines of comprehending the same thing through the chambers of senses would lead to mundane enjoyment; whereas the ignorance of enjoying things through limited scope would put the enjoyer within the barriers. When the Observer is One, He sees everything and exercises all His Senses for His Own gratification. But the servitors who are fractional entities cannot have any harmonious situation unless all of them have got one aim of being predominated over by the Absolute. The question of relativity does not become a barrier, as we notice such deformities in these phenomena which are subject to Individuality, Space and Time. This situation, solving the difficulties of mundane relativity and Absolute, has been finally settled by the Transcendental unspotted manifestive phase, instead of wrongly inculcating a hallucinative theory of Absolute by negativing the conception of diversities.
+
+The numerical situations of the different entities here have got a relative representation which is certainly condemnable for its undesirability. The glaring desirable features of relativity as delineated in the Transcendence should not be anthropomorphised by our poverty-stricken knowledge and narrow views of phenomenal disorders. In the Absolute Region we find descriptions of mutual Manifestive phases, the Master there being One with millions of servitors of four different classes. We further notice the Absolute as the Eternally Blissful Son of the Entity of Unalloyed Knowledge. The Absolute Friend is the Cynosure of all friendly eyes, as the Single Object of friendship.
+
+He is the Consort of depending consorts and is the Predominating Singular Object of unalloyed love of predominated objects. Whereas, in the mundane plane we find many predominating agents together with predominated sentients. People need not puzzle themselves with the ascription of a motherly idea in the Supreme Absolute, as the seeming features of parents here have got a dignified position which is nothing but a perverted conception of the Real manifestive Absolute. Moreover we find that the parents get the opportunity of serving their only coveted child from His very Birth in different capacities. So the Eternal position of the Master is retained intact from the very Advent of the Child. If we are to accept services from the Lord, Whom we have to render our service, we are simply misled. The Divine Absolute should not be classed as our servitor, as our eternal position is to render our all-time and whole-hearted services to Him alone. A deviation from this will be tampering the very principle of transcendental devotion. The author has wisely delineated these crucial points in the Instructive Life of the Supreme Lord.
+
+The enjoying temperament of this temporal world will find a good jerk in the line of thought of approaching the Transcendence. Sree Krishna-Chaitanya, the greatest world-teacher, has exhibited to his taught the transcendental loving principle of unalloyed souls towards the Absoute All-love where phenomenal dirts could not possibly contaminate the pleasant situation of Manifestive Relativity. The unalloyed devotional exhibition in the Pastimes of Sree Krishna-Chaitanya and His followings are -the best and greatest Boon that could be had in the quest of the Absolute. Readers might have noticed one thing in the vital principle of Transcendence of the Desertion of the enjoying mood and the affinity for temporal deformed objects. This abnegation at the very outset will create a puzzling sensation among the youngsters who have embarked on the journey of life to aim after sensuous enjoyment in temporal phenomena.
+
+So they may hastily discard the principle of showing diffidence for their much coveted dream of enjoyment in this world. Sree Krishna-Chaitanya has defined the proper use of the Relief that is offered by the non-meddling with mundane affairs in an enjoying mood. He has not asked anybody to adopt the indolent processes of non-co-operating with the phenomenal objects. He has rather instructed to practice accepting mundane things when we can trace the connections of the essence of such things with Sree Krishna, the Manifested Fountain-head of the Absolute. His disclosure has set right the topsy¬ turvy, hodge-podge situation of this apparently chaotic world. He has further cautioned the renouncers not to summarily reject the association of relative things for fear of their proving to be detrimental to alienating the peaceful soul from the mundane troubles by associating themselves with the purposes of the manifested Absolute.
+
+The busy people of this world have decided that the gratification of senses should be the essential aim of all our enterprises here as well as in the next world. So they have deemed it fit to adopt the principle of an ethical religion supplying their wants and to fulfill whatever we are in need of. These triple results are the covetable solutions of the enjoying calibre of sentient entities. This sort of mentality is found in the enjoyers. But there is an opposite section who believes that unless such desiring agencies are stopped, no eternal good can be expected. So they have formulated a different goal for their purpose. These men consider that salvation is required from phenomena by practising a non-co-operative mood from all and even the necessaries of life, which tantamount to suicidal commission. By following the high-sounding words of annihilation in the Absolute by dismissing the three respective positions of observer, observation and observed, they covet to be finally rescued from phenomenal troubles.
+
+The Supreme Lord Sree Krishna-Chaitanya has neither encouraged the enjoying elevationists nor the renouncing Salvationists. He has prescribed the pure theistic thought of spiritual devotion to the Personality of All-love by the loving function of the unalloyed souls instead of plunging into the ocean of miseries which offer extreme troubles to elevationists and to persons who, having bitter worldly experience, desire to terminate their animation by the process of annihilation.
+
+The Supreme Lord has Thereby settled the question of transmigration. The Semites have, however, adopted a principle, by rejecting the theory of metempsychosis, to dispense with the long extending life of a migratory element. The love of the Absolute can never be attained by men who seek after their aggrandisement or after their liberation. Persons who entertain the view of their actual freedom from such selfish propensities, can have the privilege of knowing what Prema is—which has no bartering system of ‘give and take 5 policy. The unalloyed souls are meant to love the All love with the identification of their eternal loving element. The loving souls are not at all dissatisfied whether the Supreme Lover is inclined to grant their prayer, on the very understanding that their loving connection is inseparable. They at the same time prove themselves to be quite content as their only lover has deemed it fit to discard them and thereby enjoy by the services offered by them. The consideration of exchange has confined the elevationists and Salvationists to their respective gains; whereas, no such gain is aimed at by devotees who have thoroughly comprehended their positions of non-traders. This unalloyed love can never be expected in any agents who have got ulterior motives of satisfying their pleasing and enjoying demeanor. Unalloyed service can only be found in Prema which has a special characteristic of pure sacrifice without any remuneration in return. No enjoying mood can have any place in that unalloyed function.
+
+The transcendental love should never be compared with the lustful mundane position of an enjoyer. Prema reaches its acme in consorthood and the lower stages in filial love, friendship, services and in neutrality. So this Amorous transcendental love has no comparison with other loving affinities.
+
+The cardinal point of this unique progression of love has got a steady infinite dimension of activity which can have no equal in our experience. The Absolute Prema is never to be confused with the shaky position of nuptial love of mundane mortal people which tends to have reciprocal interest. But as it has no bearing with deformed relativities, no claim can be asserted to combat with the challengers through arguments.
+
+The historical account connected with the Pastimes of the Absolute need not be mixed with the mundane activities of transformable entities. But the elaboration of transcendental accounts must not be discouraged owing to the bitter experiences we have of our temporal life here. The incidental mentions of history bear a reference of earthly things liable to be perished in time.
+
+The essence of history need not be kept at arm’s length in consideration of worldly associations which necessitate the existence of components of matter or motion.
+
+Descriptive accounts of history help us in considering the relation between the already acquired knowledge and the welcoming of new thoughts. But in the present case, where we are to deal with a case beyond Nature’s phenomena, we should be cautious not to confuse with human frailties and mixing up with temporal defective impressions of mundane relatives. Historicity of things need not be summarily rejected if it renders help to comprehend the direction and nature of the transcendental views. So every branch of knowledge has efficacy to offer us first aid towards our advancement in the Region beyond Nature.
+
+The transcendental sensuous Activities of the Absolute have got transcendental reference and avoid submitting to human senses which are but frail and inadequate. The descriptions of the Transcendental Pastimes of the Absolute need not be confused with metaphorical analogy, strictly confined to our present situation, of acquiring knowledge. Allegories are figments and are treated as innovations of older thoughts in a systematic way in order to place a certain view of things. If they are meant for the purpose of the Transcendent and not for our sensuous gratification, we can accept them for the safety of our transcendental health instead of eliminating even the purpose.
+
+Mental speculations may drag us to some secular purpose which we should avoid for the sake of studying the Absolute Transcendent Who has no contending character to expel the variegated similar manifestations as we often perceive through our senses. So the author has described the Deeds which bear a resemblance to that of history and allegory provided they are not improperly carried to mundane restrictive merits.
+
+History, fiction or poems have worldly values; but when they help us towards the topics of Transcendence we need not have an anthropomorphic disposition. If we bring down the Eternal Pastimes the Character of the Transcendence is proselytised more or less to our sensuous purpose—a solemn offense which we should not do.
+
+Our intellectual advancement has proved the three different ways of attaining to our different goals: (1) one track is known as fruitive track to propitiate deities to meet and fulfill our demands by physical and mental entities. The dearth of desired objects keeps us at a lower level and we want an amelioration and elevation from the lowest level to the highest summit. In that case we consider ourselves to be actors or perpetrators of our intended actions. When we are actuated by such exciting mood we entertain a definite result which can serve our purpose best. This activity of our physical and mental entities is strictly confined in temporal and inadequate phases. (2) The quest of a different track is insistently urged on our intellectual function when we want to desert the fructifying demeanour of the mind. Desertion from the active life shows us a different track of seeking the Absolute Intelligence by the process of intellectualism. We want to sever our pleasure-seeking aptitude in our passionate desires to destroy all sorts of selfishness accrued in Nature’s temporary association. Renunciation from all temporal activities in this plane of deformities offers us a mentality of stupefaction which may be termed as abnegation. In the artificial process of dissociating ourselves from the temporarily meddlings with foreign things which are set apart from our entity, the actor merges himself in the Object pursued, dismissing his active functions. This conglomeration is effected by the synthetic process of grouping together limited things into an accumulative effect; but the accumulation of diametrically opposite elements would never alone yield an opposite element, save in the analogy of enhanced angularities as in the case of two right angles. The neutral position of unalloyed intellectualism would lead us to the result of the extended idea of limitation. Speculative method of synthetical activities terminates in undifferenced situation of Knower, knowledge and the object of knowledge.
+
+(3) But the advancement would prove that the track of transcendental devotion towards the Absolute is quite free from the summation of the fruitive activities as well as the desertion from having a selfish desire to get a lion’s share as a cosharer. The tracks of elevation and salvation have very little to do in leading to the track of Devotion, as the devotional process has no object of encouraging the f fruitive activities in extricating out the Variegated Transcendental Eternal situation. The very process of salvation indicates in time the two different predicaments of the situation which is a bar to the purpose of Eternity. The Devotional process is quite independent of the two systems of fruitseekers or enjoyers and abnegators or avoiders of self-destructive enjoyment. Readers will no doubt secure the true rationalistic view from the writings of this author.
+
+Pure devotional aptitude need not wait for any help from the two other tracks but is quite independent of them. Devotion can only be carried out when the unalloyed position of the soul is determined. Such function should have no component of two other foreign garments which have more or less enshrouded the unalloyed soul in the two planes of association and dissociation with temporal things. The devotional functions of the unalloyed soul need not be observed by placing patches of clouds which are adaptable for the limited plane, eclipsing the true aspects of the true eternal plane of devotion.
+
+The Absolute Knowledge should not bear any reference of deviation and whenever there is the different views we find that the different aspects deprive us of the exact entity of the thing by our polytheistic views of the one thing.
+
+The Absolute Truth is ever ready to welcome the different approaches of the atomic parts of the Unalloyed Absolute. But when those atomic parts are mixed up with foreign views they need not be dove-tailed with the Absolute like unalloyed entities associated with the Unalloyed Absolute. The distorted demeanour of the mind cannot approach the Unalloyed Absolute by the easygoing mandate of receiving all sorts of services that may be rendered to the One; but that One need not have a disfigured entity which is far off His original Beautiful and Sublime Existence. If the Object of our approaching be considered to be contaminated with evil associations inviting our nefarious aptitude of enjoyment, we cannot expect to include ourselves to submit to His Wishes.
+
+First of all, the Object need not be tampered in any way by our whimsical mood and our determination of self need not accompany any anthropomorphic deformities which have no bearing in Him. The different relations we experience in society should be carefully watched in the case of associating ourselves with the Eternal Absolute. We need not carry the defects and unpleasant pains along with us when we trace out our eternal relations with Him. The Absolute Knowledge need not undergo the variegated form of the enjoyable articles, sentient and insentient we meet here. But we are to approach Him with our serving mood for His Eternal Enjoyment. We must not be thinking of eliminating all foreign attributions in us unless we mean to please Him by considering ourselves to be exactly suiting to His purpose which may not be proving to create His annoyance as we experience on this painful plane here. A close reading of the accounts of Sree Krishna-Chaitanya will certainly lead us to the Manifestation of the Absolute in proper order.
+
+If we have a sincere heart to associate ourselves with the Absolute, we must not be considering Him to be our Servitor but we should pose ourselves in the position of a servitor to suit one of His relationships. Our entities will then be different ingredients of the service-holders of the Absolute. But as we are in the habit of securing enjoyments as lords, we have got a quite different determination of self as to lord it over other existences besides our own. In order to set right this awkward taste, we should approach a true serving friend who can regulate our evil propensities which are the bars of the true functions of the unalloyed soul. We cannot make profit by the association of the people who are very busy to culture their wrong habits as enjoyers of this world instead of eliminating the undesirable inculcations of associating with temporal things. The company of non-devotees and the counsels of apathetic disposition towards the Absolute should by all means be avoided. If we fail to get rid of such intoxicants, we are liable to miss the devotional functions of the unalloyed soul, without making any progress towards the march for our eternal welfare.
+
+The question of occupation has been decided by the Personality of the Supreme Lord in the all-time engagement of all individual souls proper for the Absolute. The occupation of the mind is found to meddle with temporal objects of phenomena; whereas the parts of the body have no other suitable position to fit themselves for limited and temporal purposes. All acts should tend to acquire virtue and happiness. All virtues and happinesses should lead to sacrifice instead of captivating the soul for mundane purposes only. All such dissociating mood with worldly sensuous attainment tends to the occupation of the Absolute and this occupation should be no other function but go to show the interest of the Absolute. The very conception of the external structure and the internal existence, which is also considered as a subtle garment, must not forfeit the interest of the Principal who is known to own these two environments. The interest of the Principal, ‘soul’, should have no ephemeral acquisition like the consumption of the mind and the body. Altruism may prove to suffice for the higher aims of soul; but such deluding features should not bar the progress of the soul in any way. The body and the mind are shifting agents which, though at present incorporated with the soul, tend to the temporary aggrandisement of the incorporated changeable parts. So attention should be drawn to the interest of the soul proper whose functions should not at all be crippled by the seeming necessaries of the mind and the body revolting against the Eternal Blissful Knowledge, viz., the Absolute.
+
+Our all-time occupation need not be confined to the highest reference of mental culture in pure and simple altruism, where the reference of the Absolute along with the reference of our behaviour towards the lower creation is neglected.
+
+The inclusion of an indirect service to an Impersonal God or our charitable disposition to some extent towards lower animals by tutored sympathising mentality, is optional and not compulsory.
+
+The Great Absolute should predominate over the crippled forms of infinitesimal absolutes who may appear at the outset as illustrations of nonabsolute. If the synthetic process of all isolated entities does not go to One Undeviated Object of the Absolute, it would prove to be a chaotic emporium of unassimilating differences; so our mentalities require rectification to arrange their order in a particular line. One of our friendly co-sharers should come forward to explain before us the nature of the course that should be adopted for our methodic comprehension of the irregularities in one line. This unparalleled mercy of the One Friend and His associates is to regulate the disorderly conduct of the body and the mind. The rhetorical principle of the predominating and predominated functions in their bases of activities could give us the result of one of the four ingredients that follow when we are relieved of the worldly deformed conceptions in the pure spontaneity of a defined nature of eternal relationship that exists between the Absolute and the significatory aspects of the internal parts of the Absolute.
+
+Whenever the specification of the Predominator is prominent, we necessarily find the reciprocal predominated aspects, which may prove to be more than One, as distinguished from the case of the Predominator. The Predominating Agent has a singular significance over the multifarious predominated. This portion of the analysis of the Transcendental Integer has become the most conspicuous explanation offered to mankind by any of the guiding leaders to bring us towards the Transcendence. Earnest readers will no doubt find this unique explanation offered by the writer in the line of instructions received by him from the Transcendental Hero, Whose Career and accounts have been portrayed in this book.
+
+The peculiar feature noticed in men apart from the lower creation is this that the former can exchange thoughts and have the superiority of utilising their experience through the recollections from history and acquired branches of knowledge. They can show their felicitous mood in listening to Scriptures also. So a comparative student can easily demarcate the line of the best and full apart from transitory experiences of this world. The question of Eternity,
+
+Full Knowledge and Bliss cannot be dealt by other agencies of life-save man; so man need not neglect the position of the Absolute in the Ever-existence, in Full Knowledge void of all sorts of ignorance and ills that flesh is heir to, and Beatific Constancy of the Fountain-head. The solution of human life should tend towards the approach of the Absolute Who is always courting us to offer His help towards the fulfillment of the inadequate specialty we have in us. And in order to gain an approach we should require the guidance of an individual in whom we can place our reliance, instead of being credulous with the smugglers of this world.
+
+The Supreme Ford has left in this world a band of His followers who are always helpful to mankind instead of deluding the intellectuals to turn themselves idealists and evil-doers with an apparent phase of seekers of their welfare. The author will no doubt be gratified if any of the readers can see his way to scrutinise the Subject of the Transcendence in Whom we are all vitally interested by sparing his valuable time to go through this book.
+
+Before concluding this Foreword, I would like to introduce to the respected readers the aspiring attitude of enlightening his readers on the Transcendental Entity of Sree Krishna as well as His Phase of Instructor in Sree Krishna-Chaitanya in the following points, with references to the context.
+
+(N.B .—All the references are to chapter and verse of the .tenth skandha of Srimad Bhagavatam).
+
+Krishna is possessed of an unlimited intellect (84/22).
+
+Krishna is inaccessible to sensuous knowledge (16/46).
+
+Krishna is Ford of the infinity of worlds (69/17).
+
+Krishna wields the power of creating the unlimited (87/28).
+
+Krishna carries the impress of limitless power (87/14).
+
+Krishna is possessed of inconceivable potency (10/29).
+
+Krishna is unborn (59/28, 74/21).
+
+Krishna solves all heterogeneous views (74/24).
+
+Krishna is vanquished by exclusive devotion (14/3).
+
+Krishna is Inner Guide (1/7).
+
+Krishna is the Withholder of the energy of the wicked (60/19) -Krishna is the Giver of salvation to jivas that are free from vanity (86/48). Krishna ordains the worldly course of conceited jivas (86/48).
+
+Krishna is Primal God (Deva) (40/1).
+
+Krishna is Primal Person (Purusha) (63/38).
+
+Krishna is overwhelming flood of bliss (83/4).
+
+Krishna possesses fulfilled desire (47/46).
+
+Krishna is self-delighted (60/20).
+
+Krishna is the opponent of the sensuous (60/35).
+
+Krishna is sung by the best of hymns (86/23).
+
+Krishna is the dispeller of the night of pseudo-religion (14/40).
+
+Krishna is devoid of increase and decrease (48/26).
+
+Krishna is efficient and material cause (10/29).
+
+Krishna is the only Truth (14/23 ).
+
+Krishna is Awarder of the fruit of work (49/29).
+
+Krishna is not subject to the consequences of work (84/17).
+
+Krishna is the Seer of cause and effect (38/12).
+
+Krishna is the Person who is time (1/7).
+
+Krishna is Time s Own Self (70/26).
+
+Krishna is even the Time of time (56/27).
+
+Krishna is Present in the heart of every animate entity, like fire inside wood (46/36).
+
+Krishna is Grateful (48/26).
+
+Krishna is the Augmentor (like the Full Moon) of the ocean of earth, gods, twice-born and animals (14/40).
+
+Krishna is the Tormentor of cannibalistic persons (14/40).
+
+Krishna is the Destroyer of the pride of the arrogant (60/19).
+
+Krishna is the Root-Cause of the origin, etc., of the world (14/23).
+
+Krishna is the Cause of the world (40/1).
+
+Krishna is the Creator of the world (70/38).
+
+Krishna appears as if possessed of a body like that of mundane entities, for the good of the world (14/55).
+
+Krishna is the Guru (centre of gravity) of the world (80/44).
+
+Krishna is the Refuge (ashraya) of jivas (individual souls) who are ,afraid of birth and death (49/12).
+
+Krishna is devoid of birth (46/38).
+
+Krishna is equally the Internal Guide, Cause and Director of jivas (87/30). Krishna is the Destroyer of the miseries of persons who employ themselves in meditating upon Him (58/10).
+
+Krishna is of the fourth dimension and self-manifest (66/38).
+
+Krishna is Worthy of being gifted (74/24).
+
+Krishna is the Punisher of the wicked (69/17).
+
+Krishna is the God of gods (80/44).
+
+Krishna is rarely cognisable by the gods (48/27).
+
+Krishna is unconcerned about body, house, etc. (60/20)
+
+Krishna is the Supreme Ruler of the greatest gods (73/8).
+
+Krishna is the Exponent of Religion (69/40).
+
+Krishna is the Eternal Son of Nanda (14/1).
+
+Krishna is Visible to man with great difficulty (71/23).
+
+Krishna’s Presence mocks the world of man (70/40).
+
+Krishna is the Object of palatable drink of the human eye (71/33).
+
+Krishna is the Internal Guide of all (31/4).
+
+Krishna is Worthy of the worship of all the worlds (69/15).
+
+Krishna accommodates all the worlds (59/30).
+
+Krishna is the Manifestor of all light (63/34).
+
+Krishna is unstinted in giving Himself away to one who recollects Him (80/11). Krishna is the efficient Cause (87/50).
+
+Krishna’ although devoid of all mundane quality, assumes mundane qualities by His Inconceivable Power for the purposes of creation, etc. (46/40). Krishna is not subject to change (64/29).
+
+Krishna is not capable of discrimination by reason of being void of any extraneous covering (87/29).
+
+Krishna is the Giver of Himself to those who covet nothing (86/33).
+
+Krishna loves those who covet nothing (60/14).
+
+Krishna does no work (60/20).
+
+Krishna is Human, Hidden, Primal Person (Purusha) (44/13).
+
+Krishna is Present in the hearts of jivas like the five elements (82/45). Krishna is the Supreme Sorcerer (70/37).
+
+Krishna is Supreme Godhead and the Internal Guide of all (56/27).
+
+Krishna is the Crest-jewel of those whose praises are sung by the sacred lore (71/30).
+
+Krishna is Primal Person and Ever-existing (14/23).
+
+Krishna is the Highest among the Objects of worship (74/19).
+
+Krishna is the Healer of the miseries of the submissive (73/16).
+
+Krishna is the Destroyer of the sins of the submissive (31/7).
+
+Krishna is the Destroyer of the distress of the submissive (73/8).
+
+Krishna is the Residue after the Cataclysm (87/15).
+
+Krishna is devoid of touch with mundane senses (87/28).
+
+Krishna is the Soul and Friend of all animate entities (29/32).
+
+Krishna is devoid of distinction appertaining to an alien (63/38,44).
+
+Krishna is Inconceivable by His Nature (70/38).
+
+Krishna is the Master of the Universe (70/37).
+
+Krishna is the Nourisher of the Universe (85/5).
+
+Krishna is the Sun that cheers the lotus of the kindred of the Vrishnis (14/40). Krishna is the God worshipped by the Brahmanas (69/15).
+
+Krishna is the Foremost of the Brahmanas (84/20).
+
+Krishna is the Originator of Brahma (40/1).
+
+Krishna is the Worshipped of Brahma (31/13).
+
+Krishna loves His devotees (48/26).
+
+Krishna wears Forms in accordance with the wishes of His devotee (59/25). Krishna is eternally Present in Mathura (1/28).
+
+Krishna is devoid of the sense of kinship and regards all in the same way (46/37).
+
+Krishna is beyond all Measuring Potency (Maya) (63/26).
+
+Krishna is subdued by the love of Judhisthira (72/10).
+
+Krishna is concealed by the screen of Maya from the sight of the-people (84/23).
+
+Krishna does not follow the ways of the world (60/36).
+
+Krishna is the Destroyer of the fear of the mundane sojourn of the submissive (85/19).
+
+Krishna is the Womb of the Scriptures (16-44, 80/45, 84/20).
+
+Krishna is Sree Guru’s Own Self (80/33).
+
+Krishna is devoid of hankering for wife, offspring, etc. (60/20).
+
+Krishna is the Ordainer of the worldly sojourn and of the summum bonum (1/7). Krishna is the Cause of all entities (8514).
+
+Krishna is the Friend of the good (69/17).
+
+Krishna is devoid of discrimination as of kinship (63/38, 44).
+
+Krishna is Existence (56/27).
+
+Krishna possesses true desire (80/44).
+
+Krishna is the True Entity (87/17).
+
+Krishna is True of speech (48/26).
+
+Krishna is True of resolve (37/12).
+
+Krishna sees with an equal Eye (16/33).
+
+Krishna is the Cause of all causes (14/56-57,63/38,87/16).
+
+Krishna is the Originator of all (59/28).
+
+Krishna is the Soul’s own self of all jivas (individual souls) (14/55). Krishna is Omniscient (16/48).
+
+Krishna is All Seeing (38/18).
+
+Krishna is the Embodiment of all gods (74/19, 86/54).
+
+Krishna is the Seer of all (16/48).
+
+Krishna is the Lord of all (37/23).
+
+Krishna is the Stay (ashraya) of all entities (82|46).
+
+Krishna is All-pervasive and Eternal (9/13).
+
+Krishna is the Soul of all elements (86/31).
+
+Krishna is the Knower of the minds of all elements (81/1).
+
+Krishna is the soul’s self of all elements (74/24).
+
+Krishna is the Inner Soul of all elements (37/11).
+
+Krishna is the Internal Guide of all elements (47/29).
+
+Krishna is the Cause of the origin of all elements (64|29).
+
+Krishna is the Limit of all good (84/21).
+
+Krishna is Omnipotent (37/12).
+
+Krishna is the Lord of Lakshmi, the Presiding Deity of all riches (47/46).
+
+Krishna is the Internal Guide of all (63/38, 72/6).
+
+Krishna is the Stay (Ashraya) of all (40/15).
+
+Krishna is Witness and Seer of Self (86/31).
+
+Krishna is the Refuge of the good (80/9).
+
+Krishna is most difficult to serve (88/11).
+
+Krishna is the Friend of one’s heart (48/26).
+
+Krishna is the Withholder of Creation (82/45).
+
+Krishna is Withholder, Creator and Preserver (63/44).
+
+Krishna is the Master of the functions of creation, etc. (16/49,37/12). Krishna is devoid of distinction as of kinship (74/21).
+
+Krishna is devoid of distinction as between kin and alien(72/6).
+
+Krishna indwells the Universe created by Himself (48/19).
+
+Krishna is satisfied by the taste of His Self-Delight (72/6).
+
+Krishna is the Destroyer of the worldly sojourn of His devotees (60/43). Krishna is the Wearer of body according to His Wish (1/7).
+
+SREE KRISHNA-CHAITANYA MATH, BRINDABAN, MUTTRA.
+
+CAMP:OFFICE OF' THE CIRCUMAMBULATION SIDDHANTA SARASWATI
+
+OF THE CIRCLE OF BRAJA, MUTTRA (U.P.) 24th Nov., 1932

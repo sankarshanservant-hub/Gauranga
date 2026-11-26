@@ -1,0 +1,17 @@
+## Preface
+
+Preface The writer does not intend the book for the Indians only, nor for any particular sect or group of people. His appeal is to all persons, in every country, of both sexes, young and old including children, for accepting the unique chance of selfacquaintance offered by the living words of the present Most Revered Spiritual Head of Sree M adhva-Gaudiya Community, His Divine Grace Paramahansa Paribrajakacharya Sree Srimat Bhakti Siddhanta Saraswati Goswami Maharaj.
+
+No one can be more alive to the endless imperfections of the book than the unworthy writer. He has only one apology to offer to all his readers, viz., that he was compelled to write by the overpowering necessity of placing his experiences of the Personality and Activities of His Divine Grace and His associated counterparts before the world by way of his humble service, in response to the great and causeless mercy of Sree Guru towards a confirmed rationalist whose case is more or less typical of that of his brethren. It is also for the same reason that the work will be found to embody the method of rational enquiry being committed to the apparently vain attempt of measuring the unlimited by its admittedly incompatible resources. This performance would never have seen the light of the day of actual publication but for the causeless kindness of the Acharya who was pleased to accept this unworthy offering and thereby impart the real value to the gropings of irreclaimable egotism.
+
+My only request to the reader is that he or she may not really doubt that the above words are penned by an unrepentant rationalist who has been unable to find for himself the relief that he has the hardihood of declaring to be within the reach of all. In his own case this is, no doubt, the real and unpardonable piece of inconsistency. He is something like a privileged onlooker, by unsolicited permission, of a secondary aspect of the transcendental activities of the group of bona fide devotees of the Supreme Lord, Sree Krishna- Chaitanya, who have been unaccountably pleased to appear in the midst of the polemical generation of the present wrangling Age, for making real eniightenment available to all persons who are compelled seriously to seek for the same by the driving pressure of a denying rationalism.
+
+It is the submission of this slight and imperfect narrative that the needed relief is to be sought from the living source who is no other than the Transcendental Agent of Godhead Himself. It is possible for the rational judgment also to be satisfied, so far as such satisfaction is at all possible, if the Office of the Acharya is recall, even though at first necessarily tentatively, admitted by the establishment of personal communion, by temporary tmresen-ed abeyance of one's assertive judgment, with His Divine Grace, through the enlightening help of His associated counterparts. The narrative seeks to set forth some of the rational grounds in favour of the universal adoption of such course.
+
+As the writer had to stay at a long distance from the publisher and printers by the pressure of his official duties, many small and a few major inacuracies, for which the writer is responsible, have unfortunately escaped detection. The kind forgiveness of the reader is solicited for these regrettable shortcomings which should be avoidable in a work of this nature.
+
+RAVENSHAW COLLEGE, CUTTACK, SANYAL.
+
+NISIKANTA
+
+November 15,1932.

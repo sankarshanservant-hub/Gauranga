@@ -20,9 +20,14 @@ def main():
         if sec == 'I-01': parts.append('# Volume I. Introductory')
         if sec == 'II-00': parts.append('# Volume II')
         parts.append(f'## {title}')
+        sec_paras = []
         for f in sorted(glob.glob(f'{t}/SN-{sec}-*.txt')):
             if os.path.basename(f) == 'SN-I-09-05.txt': continue
-            parts += [p for p in re.findall(r'(?m)^\[\d+\] (.*)$', open(f, encoding='utf-8').read())]
+            sec_paras += [p for p in re.findall(r'(?m)^\[\d+\] (.*)$', open(f, encoding='utf-8').read())]
+        parts += sec_paras
+        # поглавные файлы en/ (пара к ru/ — для сайта и базы лил)
+        os.makedirs(os.path.join(HERE, 'en'), exist_ok=True)
+        open(os.path.join(HERE, 'en', sec + '.md'), 'w', encoding='utf-8').write('\n\n'.join([f'## {title}'] + sec_paras) + '\n')
     md = '\n\n'.join(parts) + '\n'
     out = os.path.join(HERE, 'Sanyal-Sree-Krishna-Chaitanya-en')
     open(out + '.md', 'w', encoding='utf-8').write(md)
