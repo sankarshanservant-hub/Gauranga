@@ -144,9 +144,9 @@ BOOKS = [
          level=1, chapters='divakara-jagannatha-charitamrita/{lang}/[0-9]*.md'),
     dict(id='sanyal', group='gm', title='Шри Кришна Чайтанья', title_en='Sree Krishna Chaitanya',
          author='Нишиканта Саньял', author_en='Nisikanta Sanyal',
-         note='Перевод с английского; т. I–II (1933), с предисловием Шрилы Бхактисиддханты Сарасвати. Только RU.',
-         note_en='Russian translation only; the English original is not reproduced here.',
-         ru_full='sanyal/Sanyal-Sree-Krishna-Chaitanya-ru.md', level=2, chapters='sanyal/{lang}/*.md'),
+         note='Перевод с английского; т. I–II (Шри Гаудия Матх, Мадрас, 1933), с предисловием Шрилы Бхактисиддханты Сарасвати. Английский — оригинал автора.',
+         note_en='The author’s English original, Vols. I–II (Sree Gaudiya Math, Madras, 1933), with a Foreword by Srila Bhaktisiddhanta Sarasvati; Russian translation alongside.',
+         ru_full='sanyal/Sanyal-Sree-Krishna-Chaitanya-ru.md', en_full='sanyal/Sanyal-Sree-Krishna-Chaitanya-en.md', level=2, chapters='sanyal/{lang}/*.md'),
 ]
 GROUPS = [
     ('skt', 'Санскритские сочинения', 'Sanskrit works'),
