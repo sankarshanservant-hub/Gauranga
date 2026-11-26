@@ -70,6 +70,24 @@ def find(lab, path, start=0):
     return next((i for i in range(start, len(L)) if L[i][0] == lab), None)
 
 
+_cb_en = None
+
+
+def cb_en_url(path, verse):
+    """«Чайтанья-бхагавата»: своего английского пока нет — ссылка на открытый онлайн-перевод (chaitanya-bhagavata/en-links.json)."""
+    global _cb_en
+    m = re.match(r'chaitanya-bhagavata/ed/CB_(\w+)\.md$', path)
+    if not m: return None
+    if _cb_en is None:
+        f = os.path.join(ROOT, 'chaitanya-bhagavata', 'en-links.json')
+        _cb_en = json.load(open(f, encoding='utf-8')) if os.path.exists(f) else {}
+    vs = (_cb_en.get('verses') or {}).get(m.group(1)) or {}
+    n = int(re.match(r'(\d+)', verse.split(':')[-1]).group(1)) if re.match(r'\d', verse.split(':')[-1]) else 0
+    for k in range(n, 0, -1):
+        if str(k) in vs: return vs[str(k)]
+    return (_cb_en.get('chapters') or {}).get(m.group(1))
+
+
 def resolve_verses(e, where, errors):
     out = []
     for s in e.get('verses') or []:
@@ -98,6 +116,8 @@ def resolve_verses(e, where, errors):
              'url': f"{REPO_URL}{path}?plain=1#L{L[i][1]}-L{L[j][1]}"}
         if Len and i < len(Len) and j < len(Len):
             r['file_en'] = en; r['url_en'] = f"{REPO_URL}{en}?plain=1#L{Len[i][1]}-L{Len[j][1]}"
+        elif (u := cb_en_url(path, fr)):
+            r['url_en'] = u; r['en_source'] = 'Bhumipati Dasa (wisdomlib.org)'
         out.append(r)
     return out
 
