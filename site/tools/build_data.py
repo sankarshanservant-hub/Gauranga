@@ -293,12 +293,20 @@ def para_starts(rel):
     return _cache[key]
 
 
+def en_of(ru_rel):
+    """Английский файл к русскому: …/ru/NN.md → …/en/NN.md; книги без папки ru/ (advaita-prakash/NN.md) → …/en/NN.md."""
+    if '/ru/' in ru_rel: return ru_rel.replace('/ru/', '/en/')
+    d, f = os.path.split(ru_rel)
+    if d and re.match(r'\d+\.md$', f) and os.path.isdir(os.path.join(ROOT, d, 'en')): return os.path.join(d, 'en', f)
+    return None
+
+
 def align_en(ru_rel, a, b):
     """Отрезок строк a..b русского файла без нумерации (драма, проза) → отрезок английского файла.
     Опора — номера стихов: от ближайшего предшествующего стиха считается столько же абзацев в английском.
     Если строение файлов между опорами расходится — None."""
-    en_rel = ru_rel.replace('/ru/', '/en/')
-    if en_rel == ru_rel or not lines_of(en_rel):
+    en_rel = en_of(ru_rel)
+    if not en_rel or not lines_of(en_rel):
         return None
     R, E = para_starts(ru_rel), para_starts(en_rel)
     en_lab = {}
@@ -329,7 +337,7 @@ def passage(e):
         if vr.get('file_en') and lines_of(vr['file_en']):
             rng = lines_from_url(vr.get('url_en')) or (vr['line'], vr['line_to'])
             en += build_side(vr['file_en'], rng[0], rng[1], full_for(vr['file_en'], 'en'))
-        elif vr.get('count') is None and '/ru/' in vr['file']:     # отрезок по фрагментам строк
+        elif vr.get('count') is None and en_of(vr['file']):     # отрезок по фрагментам строк
             al = align_en(vr['file'], vr['line'], vr['line_to'])
             if al:
                 en += build_side(al[0], al[1], al[2], full_for(al[0], 'en'))
