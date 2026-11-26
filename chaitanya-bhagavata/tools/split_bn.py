@@ -10,37 +10,42 @@ KEYS = [f'Adi{i:02d}' for i in range(1, 18)] + [f'Madhya{i:02d}' for i in range(
 MARK = re.compile(r'[॥।|]\s*([০-৯]{1,3})\s*(?=[॥।|])')
 
 
+def marks(s):
+    """Метки стихов по порядку: (позиция, конец, номер); номер чинится (лишняя «৮» впереди), начало главы — сброс к 1–3."""
+    out, prev = [], 0
+    for m in MARK.finditer(s):
+        t = m.group(1).translate(BN); n = int(t)
+        cand = [n] + ([int(t[1:])] if t.startswith('8') and len(t) > 1 else [])
+        ok = [c for c in cand if prev < c <= prev + 12]
+        if ok: n = min(ok, key=lambda c: c - prev); new = False
+        elif n in (1, 2, 3) and prev > 15: new = True
+        else: continue
+        out.append((m.start(), m.end(), n, new)); prev = n
+    return out
+
+
 def main(src):
     s = open(src, encoding='utf-8').read()
-    ones = [m for m in MARK.finditer(s) if m.group(1) == '১']
-    assert len(ones) == len(KEYS), f'начал глав (॥১॥) найдено {len(ones)}, ожидалось {len(KEYS)}'
-    # начало главы — за две строки до метки ॥১॥ (стих — двустишие)
-    starts = []
-    for m in ones:
-        p = s.rfind('\n', 0, m.start())
-        p = s.rfind('\n', 0, max(p - 1, 0))
-        starts.append(p + 1)
+    ms = marks(s)
+    chapters, cur = [], []
+    for x in ms:
+        if x[3] and cur: chapters.append(cur); cur = []
+        cur.append(x)
+    chapters.append(cur)
+    assert len(chapters) == len(KEYS), f'глав {len(chapters)}, ожидалось {len(KEYS)}'
     here = os.path.dirname(os.path.abspath(__file__))
     out = os.path.join(here, '..', 'bn-raw'); os.makedirs(out, exist_ok=True)
-    report = []
-    for k, (a, b) in zip(KEYS, zip(starts, starts[1:] + [len(s)])):
-        ch = s[a:b]
-        verses, last, prev = [], 0, 0
-        for m in MARK.finditer(ch):
-            n = int(m.group(1).translate(BN))
-            body = ch[last:m.start()].strip()
-            last = m.end()
-            if n <= prev or n > prev + 15: body = f'<!-- ⚠ метка {n} после {prev} -->\n' + body
-            verses.append((n, body)); prev = max(prev, n) if n < prev + 15 else prev
-        tail = ch[last:].strip()
+    for k, ch in zip(KEYS, chapters):
+        # начало текста главы — две строки до первой метки
+        p = s.rfind('\n', 0, ch[0][0]); p = s.rfind('\n', 0, max(p - 1, 0)) + 1
         with open(os.path.join(out, f'CB_{k}.md'), 'w', encoding='utf-8') as f:
             f.write(f'<!-- ЧБ {k}: бенгальский текст по изд. Шри Чайтанья Сарасват Матха (1995), распознавание archive.org без правки -->\n\n')
-            for n, body in verses:
-                f.write(f'**{n}.**\n{body}\n\n')
-            if tail: f.write(f'<!-- хвост главы (заголовки, колофон, мусор распознавания) -->\n{tail}\n')
-        nums = [n for n, _ in verses]
-        report.append((k, len(nums), max(nums) if nums else 0))
-    for r in report: print(*r)
+            last, prev = p, 0
+            for a, b, n, _ in ch:
+                body = s[last:a].strip(); last = b
+                if n != prev + 1: f.write(f'<!-- ⚠ пропуск: {prev + 1}–{n - 1} не размечены (текст — в стихе {n} или потерян) -->\n')
+                f.write(f'**{n}.**\n{body}\n\n'); prev = n
+        print(k, len(ch), ch[-1][2])
 
 
 if __name__ == '__main__':
