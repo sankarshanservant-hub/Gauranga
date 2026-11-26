@@ -337,6 +337,8 @@ def passage(e):
     p = {'id': e['id'], 'ref': e['ref'], 'title': e['title'], 'summary': e.get('summary', ''),
          'authority': e.get('authority'), 'verses': ru, 'file': vr0.get('file'), 'from': vr0.get('from')}
     if en: p['verses_en'] = en
+    ext = next((vr['url_en'] for vr in e.get('verses_resolved') or [] if vr.get('url_en') and not vr.get('file_en')), None)
+    if ext and not en: p['en_link'] = ext      # своего английского нет — ссылка на открытый онлайн-перевод (ЧБ)
     if e['source'] == 'padas':
         p['poet'] = e['ref'].split(',')[0]
     return p

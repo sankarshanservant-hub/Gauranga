@@ -19,7 +19,7 @@
       approx: '≈', yr: ' г.', sources: n => `${n} ${plural(n, 'писание', 'писания', 'писаний')}`,
       lilas: n => `${n} ${plural(n, 'лила', 'лилы', 'лил')}`,
       open: 'раскрыть', fold: 'свернуть',
-      noEn: '', close: 'Закрыть', illus: 'Иллюстрация готовится', prev: 'Назад', next: 'Вперёд',
+      noEn: '', enExt: 'Английский перевод (Бхумипати Дас, wisdomlib.org) ↗', close: 'Закрыть', illus: 'Иллюстрация готовится', prev: 'Назад', next: 'Вперёд',
       passages: n => `${n} ${plural(n, 'отрывок', 'отрывка', 'отрывков')}`, loading: 'Загружаю стихи…', failed: 'Не удалось загрузить стихи. Обновите страницу.',
       people: 'Участники лилы', peopleEp: 'Участники эпизода', bio: 'Кратко',
       draft: 'Временный текст — будет заменён описанием из выбранных источников.', noBio: 'Описание готовится.',
@@ -62,7 +62,7 @@
       approx: 'c.', yr: ' CE', sources: n => `${n} scripture${n === 1 ? '' : 's'}`,
       lilas: n => `${n} pastime${n === 1 ? '' : 's'}`,
       open: 'unfold', fold: 'fold',
-      noEn: 'No English translation yet — shown in Russian.', close: 'Close', illus: 'Illustration in preparation', prev: 'Back', next: 'Forward',
+      noEn: 'No English translation yet — shown in Russian.', enExt: 'Read in English (tr. Bhumipati Dasa, wisdomlib.org) ↗', close: 'Close', illus: 'Illustration in preparation', prev: 'Back', next: 'Forward',
       passages: n => `${n} passage${n === 1 ? '' : 's'}`, loading: 'Loading verses…', failed: 'Could not load the verses. Please reload the page.',
       people: 'Participants', peopleEp: 'Participants of the episode', bio: 'In brief',
       draft: 'Provisional text — to be replaced with descriptions from the chosen sources.', noBio: 'Description in preparation.',
@@ -501,7 +501,8 @@
     $('r-body').innerHTML = passages.map(p => {
       const vs = verses(p);
       const head = multi ? `<div class="passage__head"><h3>${esc(p.poet || p.title)}</h3><p>${esc(p.ref)}</p></div>` : '';
-      const note = vs.fallback && tt.noEn ? `<p class="passage__noen">${tt.noEn}</p>` : '';
+      const ext = p.en_link ? `<p class="passage__noen"><a href="${esc(p.en_link)}" target="_blank" rel="noopener">${tt.enExt}</a></p>` : '';
+      const note = (vs.fallback && tt.noEn ? `<p class="passage__noen">${tt.noEn}</p>` : '') + ext;
       const body = vs.list.map(v => {
         let h = '';
         if (S.layers.orig && v.orig) h += `<p class="verse__orig" lang="${/[ঀ-৿]/.test(v.orig) ? 'bn' : 'sa'}">${v.orig}</p>`;
@@ -1009,6 +1010,7 @@
       `<h2 class="lib-h">${esc(L(b, 'title'))}</h2><p class="lib-author">${esc(L(b, 'author'))}</p>` +
       (L(b, 'note') ? `<p class="person__draft">${esc(L(b, 'note'))}</p>` : '') +
       (S.lang === 'en' && lang === 'ru' ? `<p class="passage__noen">${tt.libRuOnly}</p>` : '') +
+      (b.en_ext ? `<p class="passage__noen"><a href="${esc((LIB.ch != null && b.en_ext.ch[LIB.ch]) || b.en_ext.book)}" target="_blank" rel="noopener">${tt.enExt}</a></p>` : '') +
       (b.info ? `<p class="lib-about-link"><button type="button" class="link-btn${LIB.ch == null ? ' is-cur' : ''}" data-about="1">${tt.libAbout}</button></p>` : '') +
       `<ol class="lib-toc">` + chs.map((c, i) => `<li><button type="button" class="link-btn${i === LIB.ch ? ' is-cur' : ''}" data-ch="${i}">${esc(c.t)}</button></li>`).join('') + '</ol>';
     const cur = side.querySelector('.is-cur'); if (cur) cur.scrollIntoView({ block: 'center' });

@@ -38,7 +38,7 @@ BOOKS = [
          note='Русский перевод — изд. Шри Чайтанья Сарасват Матха (Ади-кханда, 2006); Мадхья и Антья — до окончательной редактуры.',
          note_en='Russian translation published by Sri Chaitanya Saraswat Math (Adi-khanda, 2006); Madhya and Antya before final editing.',
          ru=['chaitanya-bhagavata/ed/CB_Adi*.md', 'chaitanya-bhagavata/ed/CB_Madhya*.md', 'chaitanya-bhagavata/ed/CB_Antya*.md'],
-         en=[], cc=True),
+         en=[], cc=True, en_ext='chaitanya-bhagavata/en-links.json'),
     dict(id='murari', group='skt', title='Шри Кришна-Чайтанья-чаритамрита (Кадача)', title_en='Sri Krishna-Chaitanya-charitamrita (Kadacha)',
          author='Мурари Гупта', author_en='Murari Gupta',
          ru_full='murari-gupta/Murari-Gupta-Kadacha-ru-full.md', en_full='murari-gupta/Murari-Gupta-Kadacha-en-full.md', level=2,
@@ -268,6 +268,11 @@ def main():
                     h = re.sub(r'\[\^[^\]]+\]', '', h0 or '').strip()
                     if h in titles:
                         index['files'][os.path.relpath(f, ROOT)] = [b['id'], lang, titles.index(h)]
+        if b.get('en_ext'):          # своего английского нет — ссылки на открытый онлайн-перевод по главам
+            ext = json.load(open(os.path.join(ROOT, b['en_ext']), encoding='utf-8'))
+            names = [os.path.basename(src)[3:-3] for src, (bk, lg, i) in sorted(
+                ((s_, v) for s_, v in index['files'].items() if v[0] == b['id'] and v[1] == 'ru'), key=lambda x: x[1][2])]
+            entry['en_ext'] = {'by': ext.get('by', ''), 'book': ext.get('book', ''), 'ch': [ext['chapters'].get(n, '') for n in names]}
         index['books'].append(entry)
         print(f"{b['id']}: RU {len(entry['ru'])} гл., EN {len(entry['en'])} гл.")
     json.dump(index, open(os.path.join(OUT, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
